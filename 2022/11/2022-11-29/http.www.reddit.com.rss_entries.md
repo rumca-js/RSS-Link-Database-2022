@@ -1,0 +1,785 @@
+# Source Reddit - Front Page, Source URL:http://www.reddit.com/.rss
+
+## Bro my high schools having problems
+ - [https://www.reddit.com/r/shitposting/comments/z8akrc/bro_my_high_schools_having_problems/](https://www.reddit.com/r/shitposting/comments/z8akrc/bro_my_high_schools_having_problems/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 23:54:36+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/shitposting/comments/z8akrc/bro_my_high_schools_having_problems/"> <img alt="Bro my high schools having problems" src="https://preview.redd.it/e4d0120ur03a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=06e7a854b1e3e1c478c35caa80311902b96e38c8" title="Bro my high schools having problems" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FearlessAd8180"> /u/FearlessAd8180 </a> &#32; to &#32; <a href="https://www.reddit.com/r/shitposting/"> r/shitposting </a> <br /> <span><a href="https://i.redd.it/e4d0120ur03a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/shitposting/comments/z8akrc/bro_my_high_schools_having_problems/">[comments]</a></span> </td></tr></table>
+
+## Mom had an affair 18 years ago, I [18M] am the product of it. My dad just informed me of all this, and told me he will not pay for my college, while my siblings got their college experience paid by our dad.
+ - [https://www.reddit.com/r/BestofRedditorUpdates/comments/z89azp/mom_had_an_affair_18_years_ago_i_18m_am_the/](https://www.reddit.com/r/BestofRedditorUpdates/comments/z89azp/mom_had_an_affair_18_years_ago_i_18m_am_the/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 23:06:01+00:00
+ - tags: None
+
+<!-- SC_OFF --><div class="md"><p><strong>I am NOT OP. Original post by <a href="https://www.reddit.com/u/throwawaynocollege01">u/throwawaynocollege01</a> in <a href="https://www.reddit.com/r/relationship_advice">r/relationship_advice</a></strong></p> <p>trigger warning: <span class="md-spoiler-text">death</span></p> <hr /> <p>&nbsp;</p> <p><a href="https://www.reddit.com/r/relationship_advice/comments/ca66sv/mom_had_an_affair_18_years_ago_i_18m_am_the/"><strong>Mom had an affair 18 years ago, I [18M] am the product of it. My dad just informed me of all this, and told me he will not pay for my college, while my siblings got their college experience paid by our dad.</strong></a> - 7 July 2019</p> <p>Pretty much the title. I have no idea how to process all this, and I am completely unprepared for what lies ahead :(</p> <p>Both my older brother and sister went to the same college. My brother graduated two years ago, my sister is set to graduate in two years. Both had their college paid by our dad. Dad paid all their college expenses, including rent, food, their cars, pocket money, you name it.</p> <p>My brother has a job now, his own place, lives together with his fiancee, and has his life together.</p> <p>My sister already has a good paying job, and my dad still pays for almost everything for her.</p> <p>I got accepted to the same college, which was always the plan, and was looking forward to talk with my parents about the next steps, and ask them to help me the same they did for my siblings. I always assumed they had money put aside for my college the way they had for my siblings.</p> <p>Instead I was met with a story about my mom's cheating, how I am the result of her cheating, and how my dad is not willing to support me any more moving forward.</p> <p>Dad told me that mom had 18 years to let me know and prepare me for the future, but obviously she never did. He said it was never is place to say anything since I am not his son, and didn't want to interfere with mom's parenting.</p> <p>Apparently my grandparents know I am not dad's biological son, but they haven't bothered to tell me anything either.</p> <p>My siblings had no idea, and they are as surprised as I am because there was never a hint of anything being off. I might be naive, but I always thought I had a great relationship with my dad. We go to see sports together, we go fishing together, he tutored me when I had difficulties with math (dad is an engineer), he taught me to drive. I never got a hint he stores resentment towards me. I mean, he gave me my name, and has explained what my name means, and he was very proud of it. It's a story he tells from time to time. He likes to talk about stuff like that about me.</p> <p>My mom has never said a word about anything, and apparently she was supposed to have &quot;the talk&quot; with me, but she never did.</p> <p>I feel abandoned and unprepared for what lies ahead. I am not even sure I will be able to go to college any more, I always assumed my parents will pay for it. I never had a job, and I am not sure what job I can even get to support me through college, I have no idea how to apply for loans.</p> <p>All my mom has done is cry and apologize. But nothing of substance, she has no idea how to help me.</p> <p>I don't even know if I am welcomed home any more, it's all up in the air, I feel shame leaving my room, and if I will be asked to move out I don't know where to go. I don't have any savings, maybe $400 put together.</p> <p>I am angry at my mom, I am confused about where I stand with my dad. There's a man out there who is my father that never wanted to have anything to do with me. I feel rejected and I have no idea what to do to fix this situation.</p> <p>Anyone have any idea what to do here?</p> <p>Do I apologize to my dad? What do I say to him?</p> <p>Idk, I've been stuck in my room these past few days, reading and browsing reddit. I have no idea what to do.</p> <p>Edit: Comments are coming in faster than I can reply, but I am making a list with all the advice about financial aid, health insurance, getting my own phone plan, etc, things I didn't even think about before. Thank you everyone.</p> <p>I will try to answer as much as I can, but there's more comments than I can handle.</p> <p><strong>Update:</strong></p> <p>Sorry to disappear, nothing bad happened to me.</p> <p>Managed to talk with my mom yesterday, but I chickened out half way through what I had to say :(</p> <p>The good news is that I am not being kicked out, or disowned, etc.</p> <p>Thank you for all your support, everyone, I will follow through and call financial aid at my college in a few hours, and take it from there.</p> <p>My grandpa had a stroke a week ago, and my dad is helping my grandma with setting up a live in nurse, so he wasn't around yesterday.</p> <p>I will let you know how I manage.</p> <p>Thank you again.</p> <p><strong>Update 2:</strong></p> <p>Sorry for not updating, my grandpa passed away yesterday morning.</p> <p>Nothing happened to me, but my situation is a secondary concern right now. Regardless, I think I will be alright, thanks to your amazing support and help.</p> <p>My sister is aware of everything, and told me not to worry, she has my back and I have her support.</p> <p>I promise to update when and if there are any significant changes, right now I need to support my grandma.</p> <p>Thank you again to everyone.</p> <p><strong>Update 3:</strong></p> <p>Hey guys, and update has already been posted. Please don't message me so angrily any more.</p> <p>&nbsp;</p> <p><a href="https://www.reddit.com/r/relationship_advice/comments/ccpwcu/update_mom_had_an_affair_18_years_ago_i_18m_am/"><strong>[UPDATE] Mom had an affair 18 years ago, I [18M] am the product of it. My dad just informed me of all this, and told me he will not pay for my college, while my siblings got their college experience paid by our dad.</strong></a> - 13 July 2019 </p> <p>The reaction to my original post put an uncomfortable amount of pressure on me to write this update.</p> <p>I am not sure if it's what's you want to hear, but things are more or less back to a &quot;normal&quot; state, if you consider other events.</p> <p>Unfortunately, my grandpa died at the beginning of this week, and I am still processing it.</p> <p>I did manage to talk with both my mom and dad, and I know where I now stand in relation with them, as well as my siblings.</p> <p>I am not sure I would have had the courage to say what I had to say if not for the amount of help and advice in the comments.</p> <p>I think it is safe to say both my parents love me, and what happened two weeks ago was an overreaction to a fight between my parents. It makes me uncomfortable knowing I am not aware of my own environment, but a stranger in the comments can tell me what's happening in my life with only a few lines of text from my side. A lot of comments were spot on about what is happening in my life.</p> <p>I have so far went through 40% (I estimate) of the comments, but I have given up, there are too many for me to keep up with.</p> <p>The conclusion is that I am definitely going to college, it will be the college I have always wanted to go to, and I will have the same experience as my siblings. The money to pay for all this already exists, my family is not going bankrupt as suggested, my dad just had a mental breakup with all the issues around my grandpa and his fight with my mom.</p> <p>Even if my dad would have went through with his decision, my grandma let me know my grandpa left me and my siblings a sum we will have to split between the three of us, but enough to put me through college.</p> <p>What started the entire scandal was poor timing on my part, my parents just had a fight, and then I showed up &quot;hey, pay for my college&quot;.</p> <p>My parents were talking about us, their children, and mom said something to the lines of &quot;to think you wanted to split up when I came back pregnant&quot;, or something like that, I was not there, this is what she told me. I guess dad was talking how proud he was of his children, and mom wanted to express her &quot;gratitude&quot; for dad raising me as his own, and dad took it as &quot;the affair was the best decision I ever made&quot; or something like that. And their fight escalated from there, and mom told dad something like &quot;what makes you think any of them are yours&quot;.</p> <p>Yeah, it went downhill from there fast. Shortly after that my dumb face showed up, and here I am.</p> <p>Dad and mom have since made up, mom is still a mess, dad is not handling my grandpa's passing away too well either.</p> <p>I did talk with my siblings, and my sister raised a storm and rode it here while blasting my parents on the phone, ha ha. My brother was calmer, but made his feelings known in no uncertain terms as well once he got back home.</p> <p>My grandpa passing away sort of kept spirits calm, I guess, and shifted the focus to dealing with that.</p> <p>Reading the comments was a mind opening experience. I felt unprepared for the world out there. Many have asked how I had no idea how to apply for loans or grants. Well, in my defense, when you go year after year after year knowing you have nothing to worry about, that your college as good as paid for already, you don't really have to worry about anything else. Of course I knew there are loans and other things students have to be aware of, but it didn't apply to me.</p> <p>I went from &quot;I am going to college, can't wait&quot; to &quot;you're not my son and I will not pay for your college&quot; in less than 24 hours.</p> <p>Others have been prepared for this, at the very least they knew they had to get a loan, or get a job, look for a place to live, and so on. For me it was a sudden change in reality.</p> <p>Going through the comments I managed to put a list together with various &quot;tips and tricks&quot;, what jobs are available for students, how to find a place to live, how to get a credit card, a bank account, a cell phone plan, and so on. Really good stuff that I think, even after the return to normal, will help me.</p> <p>My parents have been called more names then they go by, and that was uncomfortable to read, and I haven't even read all comments. I can't even imagine what else lies in the comments, waiting.</p> <p>Dad is very sorry, apologetic, about his reaction and behavior. I understand his reaction, but I still feel hurt by it. I understand he was not in the best place of mind, but I can't control my feelings either. We will be alright, and this hasn't irreparably damaged our relationship.</p> <p>Mom hasn't handled everything that well. But she is coming around, and she answered some more questions for me.</p> <p>When mom had an affair years ago, and got pregnant with me, my parents started divorce. Mom moved in with the man she had the affair with, but after a few months that guy decided he wants nothing to do with it. He kicked mom out, and she had nowhere to go. So my grandparents took her in, because she was still the mother of their <del>nephews</del> grand kids (I am getting a lot of heat for this &quot;mistake&quot;, but know in my family's culture, grandparents call their grand kids nephews as well). Mom and dad got back together, after a lot of work, dad took me as his own, and that's my life since then.</p> <p>The man who is my natural father is not in the picture any more. Dad didn't really know who he is, and mom hasn't heard or seen him ever since. He was fully aware mom was pregnant with his child, I guess he had more important things to do. But it doesn't sound like he was about to cure world hunger, she met him in a bar, not at a fund raiser.</p> <p>And I don't feel a need to know any more about who he is. I thought about the matter the last two weeks, since I've been aware of everything, and haven't really felt a desire to know who he is, where he is, if he is still alive, if I have other siblings out there.</p> <p>I was suggested to go and buy a DNA kit from 23andme, maybe I can find him that way, but I think I will avoid doing this specifically so I don't find him or he finds me. As far as I care, I have a mom and dad and a brother and a sister, and that's my family.</p> <p>Moving forward I do plan of getting a job, and becoming more independent, but not in an attempt to distance myself from my family, but to feel like I would not be lost in the world if my family suddenly disappears.</p> <p>My mom admits I've been babied way more than my siblings, and that they should have prepared me more for what's coming next.</p> <p>I did learn where I stand with my family, and it's safe to say that I am loved, and I have options. I thought I am isolated, but my world is wider than I thought. Grandparents, siblings, my aunt, my cousins, all have my back.</p> <p>I think my parents are human, and they make mistakes, and even though this was not their greatest moment, I think I will look at everything as nothing more than a weak moment in an otherwise wonderful relationship.</p> <p>Thank you.</p> <p>Edit: in my family's cultural background, grandparents call their grand kids nephews as well. Stop calling me names, it was not a mistake, please.</p> <p>&nbsp;</p> <p><strong>Reminder - I am not the original poster.</strong></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/toohottooheavy"> /u/toohottooheavy </a> &#32; to &#32; <a href="https://www.reddit.com/r/BestofRedditorUpdates/"> r/BestofRedditorUpdates </a> <br /> <span><a href="https://www.reddit.com/r/BestofRedditorUpdates/comments/z89azp/mom_had_an_affair_18_years_ago_i_18m_am_the/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/BestofRedditorUpdates/comments/z89azp/mom_had_an_affair_18_years_ago_i_18m_am_the/">[comments]</a></span>
+
+## Time travel be like
+ - [https://www.reddit.com/r/TrueSTL/comments/z89ax1/time_travel_be_like/](https://www.reddit.com/r/TrueSTL/comments/z89ax1/time_travel_be_like/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 23:05:57+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/TrueSTL/comments/z89ax1/time_travel_be_like/"> <img alt="Time travel be like" src="https://preview.redd.it/1r72w5vl1z2a1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ec23d792ea89c60beddb91f3af873639e0c69f8c" title="Time travel be like" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ratopomboarts"> /u/ratopomboarts </a> &#32; to &#32; <a href="https://www.reddit.com/r/TrueSTL/"> r/TrueSTL </a> <br /> <span><a href="https://i.redd.it/1r72w5vl1z2a1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/TrueSTL/comments/z89ax1/time_travel_be_like/">[comments]</a></span> </td></tr></table>
+
+## Countries With The Most Venomous Animals. Mexico the first with 80, followed by Brazil with 79 and then Australia with just 66.
+ - [https://www.reddit.com/r/MapPorn/comments/z87z13/countries_with_the_most_venomous_animals_mexico/](https://www.reddit.com/r/MapPorn/comments/z87z13/countries_with_the_most_venomous_animals_mexico/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 22:15:31+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/MapPorn/comments/z87z13/countries_with_the_most_venomous_animals_mexico/"> <img alt="Countries With The Most Venomous Animals. Mexico the first with 80, followed by Brazil with 79 and then Australia with just 66." src="https://preview.redd.it/s5a5apabsy2a1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=13a4dc542b3f5f87bbf713ad6fa9229ba1db4c92" title="Countries With The Most Venomous Animals. Mexico the first with 80, followed by Brazil with 79 and then Australia with just 66." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MardukSyria"> /u/MardukSyria </a> &#32; to &#32; <a href="https://www.reddit.com/r/MapPorn/"> r/MapPorn </a> <br /> <span><a href="https://i.redd.it/s5a5apabsy2a1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/MapPorn/comments/z87z13/countries_with_the_most_venomous_animals_mexico/">[comments]</a></span> </td></tr></table>
+
+## The Super Mario Bros. Movie | Official Trailer
+ - [https://www.reddit.com/r/movies/comments/z87pq1/the_super_mario_bros_movie_official_trailer/](https://www.reddit.com/r/movies/comments/z87pq1/the_super_mario_bros_movie_official_trailer/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 22:05:17+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/z87pq1/the_super_mario_bros_movie_official_trailer/"> <img alt="The Super Mario Bros. Movie | Official Trailer" src="https://external-preview.redd.it/sG2UjtGTc8iIZtS31ktDKoN8X7hxABbQKtzoa67O_OQ.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2913bc52bc19664f155b610719ec95df4a574f65" title="The Super Mario Bros. Movie | Official Trailer" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MarvelsGrantMan136"> /u/MarvelsGrantMan136 </a> &#32; to &#32; <a href="https://www.reddit.com/r/movies/"> r/movies </a> <br /> <span><a href="https://www.youtube.com/watch?v=TnGl01FkMMo&amp;feature=youtube_video_deck">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/z87pq1/the_super_mario_bros_movie_official_trailer/">[comments]</a></span> </td></tr></table>
+
+## Everyone's laughing at this circuit board... Can someone explain this to a poor English-speaker? r/Polska is my new favorite subreddit, even though I don't speak Polish!
+ - [https://www.reddit.com/r/Polska/comments/z87cm4/everyones_laughing_at_this_circuit_board_can/](https://www.reddit.com/r/Polska/comments/z87cm4/everyones_laughing_at_this_circuit_board_can/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 21:51:06+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Polska/comments/z87cm4/everyones_laughing_at_this_circuit_board_can/"> <img alt="Everyone's laughing at this circuit board... Can someone explain this to a poor English-speaker? r/Polska is my new favorite subreddit, even though I don't speak Polish!" src="https://preview.redd.it/khb86get7x2a1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=82005c88db1c8c31e210c80d2ab87a5b91563a3b" title="Everyone's laughing at this circuit board... Can someone explain this to a poor English-speaker? r/Polska is my new favorite subreddit, even though I don't speak Polish!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/A_Canadian_boi"> /u/A_Canadian_boi </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska/"> r/Polska </a> <br /> <span><a href="https://i.redd.it/khb86get7x2a1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska/comments/z87cm4/everyones_laughing_at_this_circuit_board_can/">[comments]</a></span> </td></tr></table>
+
+## Opera GX is better tho
+ - [https://www.reddit.com/r/pcmasterrace/comments/z872up/opera_gx_is_better_tho/](https://www.reddit.com/r/pcmasterrace/comments/z872up/opera_gx_is_better_tho/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 21:40:28+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/pcmasterrace/comments/z872up/opera_gx_is_better_tho/"> <img alt="Opera GX is better tho" src="https://preview.redd.it/clcnpnzv303a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f1b7d85efc68e3412c4228eefc069c9a027adcc7" title="Opera GX is better tho" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/cowbellybelly"> /u/cowbellybelly </a> &#32; to &#32; <a href="https://www.reddit.com/r/pcmasterrace/"> r/pcmasterrace </a> <br /> <span><a href="https://i.redd.it/clcnpnzv303a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/pcmasterrace/comments/z872up/opera_gx_is_better_tho/">[comments]</a></span> </td></tr></table>
+
+## Dota 7.32d Patch
+ - [https://www.reddit.com/r/DotA2/comments/z86oqu/dota_732d_patch/](https://www.reddit.com/r/DotA2/comments/z86oqu/dota_732d_patch/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 21:25:15+00:00
+ - tags: None
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/souleaterexe"> /u/souleaterexe </a> &#32; to &#32; <a href="https://www.reddit.com/r/DotA2/"> r/DotA2 </a> <br /> <span><a href="https://www.dota2.com/patches/7.32d">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DotA2/comments/z86oqu/dota_732d_patch/">[comments]</a></span>
+
+## Built different
+ - [https://www.reddit.com/r/LeagueOfMemes/comments/z86n3s/built_different/](https://www.reddit.com/r/LeagueOfMemes/comments/z86n3s/built_different/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 21:23:33+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/LeagueOfMemes/comments/z86n3s/built_different/"> <img alt="Built different" src="https://preview.redd.it/yddchmg7jy2a1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4c7ac0aabb09e5f2848f5b1b8755198acc1e605c" title="Built different" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TsabaHUN"> /u/TsabaHUN </a> &#32; to &#32; <a href="https://www.reddit.com/r/LeagueOfMemes/"> r/LeagueOfMemes </a> <br /> <span><a href="https://i.redd.it/yddchmg7jy2a1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/LeagueOfMemes/comments/z86n3s/built_different/">[comments]</a></span> </td></tr></table>
+
+## SYP
+ - [https://www.reddit.com/r/Genshin_Impact_Leaks/comments/z84nbu/syp/](https://www.reddit.com/r/Genshin_Impact_Leaks/comments/z84nbu/syp/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 20:11:22+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Genshin_Impact_Leaks/comments/z84nbu/syp/"> <img alt="SYP" src="https://preview.redd.it/t78yr2wznz2a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2235b44ec5603c89e4facb29d4fe2ecf4d0c74cc" title="SYP" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kingdrewbie"> /u/kingdrewbie </a> &#32; to &#32; <a href="https://www.reddit.com/r/Genshin_Impact_Leaks/"> r/Genshin_Impact_Leaks </a> <br /> <span><a href="https://i.redd.it/t78yr2wznz2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Genshin_Impact_Leaks/comments/z84nbu/syp/">[comments]</a></span> </td></tr></table>
+
+## Blizzard are removing Hollywood and Gibraltar, yay...
+ - [https://www.reddit.com/r/Overwatch/comments/z84ckd/blizzard_are_removing_hollywood_and_gibraltar_yay/](https://www.reddit.com/r/Overwatch/comments/z84ckd/blizzard_are_removing_hollywood_and_gibraltar_yay/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 20:01:04+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Overwatch/comments/z84ckd/blizzard_are_removing_hollywood_and_gibraltar_yay/"> <img alt="Blizzard are removing Hollywood and Gibraltar, yay..." src="https://preview.redd.it/xmzlp806mz2a1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=96e94af702c4a98085080f235d54faf0672b1715" title="Blizzard are removing Hollywood and Gibraltar, yay..." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rodvwvinnn"> /u/rodvwvinnn </a> &#32; to &#32; <a href="https://www.reddit.com/r/Overwatch/"> r/Overwatch </a> <br /> <span><a href="https://i.redd.it/xmzlp806mz2a1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Overwatch/comments/z84ckd/blizzard_are_removing_hollywood_and_gibraltar_yay/">[comments]</a></span> </td></tr></table>
+
+## Shit post
+ - [https://www.reddit.com/r/shitposting/comments/z84cfw/shit_post/](https://www.reddit.com/r/shitposting/comments/z84cfw/shit_post/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 20:00:56+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/shitposting/comments/z84cfw/shit_post/"> <img alt="Shit post" src="https://preview.redd.it/0fua0j65mz2a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1ca514f8a4ab57fb97c78d7d9db5cb75a6b5c462" title="Shit post" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Bejammy"> /u/Bejammy </a> &#32; to &#32; <a href="https://www.reddit.com/r/shitposting/"> r/shitposting </a> <br /> <span><a href="https://i.redd.it/0fua0j65mz2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/shitposting/comments/z84cfw/shit_post/">[comments]</a></span> </td></tr></table>
+
+## We'll get cutscene with all Harbingers models in 3.X version via keitaro_gg
+ - [https://www.reddit.com/r/Genshin_Impact_Leaks/comments/z84bse/well_get_cutscene_with_all_harbingers_models_in/](https://www.reddit.com/r/Genshin_Impact_Leaks/comments/z84bse/well_get_cutscene_with_all_harbingers_models_in/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 20:00:18+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Genshin_Impact_Leaks/comments/z84bse/well_get_cutscene_with_all_harbingers_models_in/"> <img alt="We'll get cutscene with all Harbingers models in 3.X version via keitaro_gg" src="https://preview.redd.it/43cg8upd4y2a1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=0a3ff608e7aca77e14caeacb344d51e7178d3335" title="We'll get cutscene with all Harbingers models in 3.X version via keitaro_gg" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Norinoku"> /u/Norinoku </a> &#32; to &#32; <a href="https://www.reddit.com/r/Genshin_Impact_Leaks/"> r/Genshin_Impact_Leaks </a> <br /> <span><a href="https://i.redd.it/43cg8upd4y2a1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Genshin_Impact_Leaks/comments/z84bse/well_get_cutscene_with_all_harbingers_models_in/">[comments]</a></span> </td></tr></table>
+
+## The educational system has failed society.
+ - [https://www.reddit.com/r/memes/comments/z84065/the_educational_system_has_failed_society/](https://www.reddit.com/r/memes/comments/z84065/the_educational_system_has_failed_society/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 19:48:38+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/memes/comments/z84065/the_educational_system_has_failed_society/"> <img alt="The educational system has failed society." src="https://preview.redd.it/wyl50s9yjz2a1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ca117ee738367358bf8ddcb7dffa792fdf8b5f75" title="The educational system has failed society." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SamsungAppleOnePlus"> /u/SamsungAppleOnePlus </a> &#32; to &#32; <a href="https://www.reddit.com/r/memes/"> r/memes </a> <br /> <span><a href="https://i.redd.it/wyl50s9yjz2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/memes/comments/z84065/the_educational_system_has_failed_society/">[comments]</a></span> </td></tr></table>
+
+## Bismor Rule 34
+ - [https://www.reddit.com/r/DeepRockGalactic/comments/z83cja/bismor_rule_34/](https://www.reddit.com/r/DeepRockGalactic/comments/z83cja/bismor_rule_34/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 19:23:37+00:00
+ - tags: None
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/That-Bed4254"> /u/That-Bed4254 </a> &#32; to &#32; <a href="https://www.reddit.com/r/DeepRockGalactic/"> r/DeepRockGalactic </a> <br /> <span><a href="https://i.redd.it/wub7xrihfz2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DeepRockGalactic/comments/z83cja/bismor_rule_34/">[comments]</a></span>
+
+## Japan births at new low as population shrinks and ages | Japan’s top government spokesperson said Monday that the number of babies born this year is below last year's record low
+ - [https://www.reddit.com/r/worldnews/comments/z82mj6/japan_births_at_new_low_as_population_shrinks_and/](https://www.reddit.com/r/worldnews/comments/z82mj6/japan_births_at_new_low_as_population_shrinks_and/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 18:57:03+00:00
+ - tags: None
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/newnemo"> /u/newnemo </a> &#32; to &#32; <a href="https://www.reddit.com/r/worldnews/"> r/worldnews </a> <br /> <span><a href="https://abcnews.go.com/International/wireStory/japan-births-new-low-population-shrinks-ages-94078296">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/z82mj6/japan_births_at_new_low_as_population_shrinks_and/">[comments]</a></span>
+
+## Everyone, let's make The Ultimate BTD6 Community Iceberg! (read comment for more info)
+ - [https://www.reddit.com/r/btd6/comments/z82idh/everyone_lets_make_the_ultimate_btd6_community/](https://www.reddit.com/r/btd6/comments/z82idh/everyone_lets_make_the_ultimate_btd6_community/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 18:52:42+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/btd6/comments/z82idh/everyone_lets_make_the_ultimate_btd6_community/"> <img alt="Everyone, let's make The Ultimate BTD6 Community Iceberg! (read comment for more info)" src="https://preview.redd.it/eeugouk1sx2a1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=96071fa91eee763f34feb6b4cff131512021f652" title="Everyone, let's make The Ultimate BTD6 Community Iceberg! (read comment for more info)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kUHASZ"> /u/kUHASZ </a> &#32; to &#32; <a href="https://www.reddit.com/r/btd6/"> r/btd6 </a> <br /> <span><a href="https://i.redd.it/eeugouk1sx2a1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/btd6/comments/z82idh/everyone_lets_make_the_ultimate_btd6_community/">[comments]</a></span> </td></tr></table>
+
+## Proszę Czesi pick this handsome beast to be your president. I didn't simp to Zuzanna, I didn't simp to Marin, but this angel on earth stole my heart. I will let him annect my Polish body 🥵
+ - [https://www.reddit.com/r/2visegrad4you/comments/z82ema/proszę_czesi_pick_this_handsome_beast_to_be_your/](https://www.reddit.com/r/2visegrad4you/comments/z82ema/proszę_czesi_pick_this_handsome_beast_to_be_your/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 18:48:43+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/2visegrad4you/comments/z82ema/proszę_czesi_pick_this_handsome_beast_to_be_your/"> <img alt="Proszę Czesi pick this handsome beast to be your president. I didn't simp to Zuzanna, I didn't simp to Marin, but this angel on earth stole my heart. I will let him annect my Polish body 🥵" src="https://preview.redd.it/6vao9ja99z2a1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=97e042fdb8189659a7d0148c754426df5921bc3b" title="Proszę Czesi pick this handsome beast to be your president. I didn't simp to Zuzanna, I didn't simp to Marin, but this angel on earth stole my heart. I will let him annect my Polish body 🥵" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Marcin222111"> /u/Marcin222111 </a> &#32; to &#32; <a href="https://www.reddit.com/r/2visegrad4you/"> r/2visegrad4you </a> <br /> <span><a href="https://i.redd.it/6vao9ja99z2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/2visegrad4you/comments/z82ema/proszę_czesi_pick_this_handsome_beast_to_be_your/">[comments]</a></span> </td></tr></table>
+
+## Should I go or not?
+ - [https://www.reddit.com/r/funny/comments/z820oe/should_i_go_or_not/](https://www.reddit.com/r/funny/comments/z820oe/should_i_go_or_not/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 18:34:34+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/funny/comments/z820oe/should_i_go_or_not/"> <img alt="Should I go or not?" src="https://preview.redd.it/d5lw4m2q6z2a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9d060d1fef8a7a770554b8fd7e63a204c74d308d" title="Should I go or not?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Djwhat6"> /u/Djwhat6 </a> &#32; to &#32; <a href="https://www.reddit.com/r/funny/"> r/funny </a> <br /> <span><a href="https://i.redd.it/d5lw4m2q6z2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/funny/comments/z820oe/should_i_go_or_not/">[comments]</a></span> </td></tr></table>
+
+## Medusa Widow, Minotaur Reinhardt, Cyclops Roadhog, Hermes Lucio, Cerberus Pharah, Poseidon Ramatra, Zeus Junkerqueen! These skins are sick as hell! Thoughts?
+ - [https://www.reddit.com/r/Overwatch/comments/z81zzz/medusa_widow_minotaur_reinhardt_cyclops_roadhog/](https://www.reddit.com/r/Overwatch/comments/z81zzz/medusa_widow_minotaur_reinhardt_cyclops_roadhog/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 18:33:55+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Overwatch/comments/z81zzz/medusa_widow_minotaur_reinhardt_cyclops_roadhog/"> <img alt="Medusa Widow, Minotaur Reinhardt, Cyclops Roadhog, Hermes Lucio, Cerberus Pharah, Poseidon Ramatra, Zeus Junkerqueen! These skins are sick as hell! Thoughts?" src="https://preview.redd.it/3zuwjm5m6z2a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bfd602c46e86b43237b831cced62f4be16a41483" title="Medusa Widow, Minotaur Reinhardt, Cyclops Roadhog, Hermes Lucio, Cerberus Pharah, Poseidon Ramatra, Zeus Junkerqueen! These skins are sick as hell! Thoughts?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rawgino"> /u/rawgino </a> &#32; to &#32; <a href="https://www.reddit.com/r/Overwatch/"> r/Overwatch </a> <br /> <span><a href="https://i.redd.it/3zuwjm5m6z2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Overwatch/comments/z81zzz/medusa_widow_minotaur_reinhardt_cyclops_roadhog/">[comments]</a></span> </td></tr></table>
+
+## What do you call this in your language? In Romanian, we call them mascați - the masked.
+ - [https://www.reddit.com/r/europe/comments/z81tde/what_do_you_call_this_in_your_language_in/](https://www.reddit.com/r/europe/comments/z81tde/what_do_you_call_this_in_your_language_in/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 18:27:12+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/europe/comments/z81tde/what_do_you_call_this_in_your_language_in/"> <img alt="What do you call this in your language? In Romanian, we call them mascați - the masked." src="https://preview.redd.it/02us4mdvnx2a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a9ac37038cc02afcacb5972e2282423f7a88c5db" title="What do you call this in your language? In Romanian, we call them mascați - the masked." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AnEntirePeach"> /u/AnEntirePeach </a> &#32; to &#32; <a href="https://www.reddit.com/r/europe/"> r/europe </a> <br /> <span><a href="https://i.redd.it/02us4mdvnx2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/europe/comments/z81tde/what_do_you_call_this_in_your_language_in/">[comments]</a></span> </td></tr></table>
+
+## Finland offers to train Ukraine soldiers in winter warfare against Russia
+ - [https://www.reddit.com/r/worldnews/comments/z81let/finland_offers_to_train_ukraine_soldiers_in/](https://www.reddit.com/r/worldnews/comments/z81let/finland_offers_to_train_ukraine_soldiers_in/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 18:18:55+00:00
+ - tags: None
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/RandomForks"> /u/RandomForks </a> &#32; to &#32; <a href="https://www.reddit.com/r/worldnews/"> r/worldnews </a> <br /> <span><a href="https://www.newsweek.com/finland-nato-niinisto-helsinki-training-weapons-ukraine-soldiers-1763166">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/z81let/finland_offers_to_train_ukraine_soldiers_in/">[comments]</a></span>
+
+## New 'two euro' coin minted. Two million pieces will go in circulation
+ - [https://www.reddit.com/r/europe/comments/z818gd/new_two_euro_coin_minted_two_million_pieces_will/](https://www.reddit.com/r/europe/comments/z818gd/new_two_euro_coin_minted_two_million_pieces_will/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 18:05:23+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/europe/comments/z818gd/new_two_euro_coin_minted_two_million_pieces_will/"> <img alt="New 'two euro' coin minted. Two million pieces will go in circulation" src="https://preview.redd.it/9404mwzpjx2a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=babd6ca9468e3fd232a11783e67caff8d1eb9771" title="New 'two euro' coin minted. Two million pieces will go in circulation" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/flyingdutchgirll"> /u/flyingdutchgirll </a> &#32; to &#32; <a href="https://www.reddit.com/r/europe/"> r/europe </a> <br /> <span><a href="https://i.redd.it/9404mwzpjx2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/europe/comments/z818gd/new_two_euro_coin_minted_two_million_pieces_will/">[comments]</a></span> </td></tr></table>
+
+## For the good of mankind
+ - [https://www.reddit.com/r/whenthe/comments/z80o7t/for_the_good_of_mankind/](https://www.reddit.com/r/whenthe/comments/z80o7t/for_the_good_of_mankind/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 17:44:47+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/whenthe/comments/z80o7t/for_the_good_of_mankind/"> <img alt="For the good of mankind" src="https://external-preview.redd.it/9Q7R86UX3EOZ-UNL1i21mwhYVYKjJTGQPn5MhYePlLU.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=cc83037d64dab8356ff59cd9d06d8d80e39ffa2e" title="For the good of mankind" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/maidenlessorsoimtold"> /u/maidenlessorsoimtold </a> &#32; to &#32; <a href="https://www.reddit.com/r/whenthe/"> r/whenthe </a> <br /> <span><a href="https://v.redd.it/6he1gxy9gx2a1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/whenthe/comments/z80o7t/for_the_good_of_mankind/">[comments]</a></span> </td></tr></table>
+
+## World Cup balls getting charged
+ - [https://www.reddit.com/r/interestingasfuck/comments/z80b2o/world_cup_balls_getting_charged/](https://www.reddit.com/r/interestingasfuck/comments/z80b2o/world_cup_balls_getting_charged/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 17:31:12+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/z80b2o/world_cup_balls_getting_charged/"> <img alt="World Cup balls getting charged" src="https://external-preview.redd.it/cAwzjHBjH0LgPkAz8yDkE3C_0JLZpEHDLzk1SSOmNKg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f5d84bba1c11d57e2285374972f4d820e742e0ae" title="World Cup balls getting charged" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Gaz1105"> /u/Gaz1105 </a> &#32; to &#32; <a href="https://www.reddit.com/r/interestingasfuck/"> r/interestingasfuck </a> <br /> <span><a href="https://i.imgur.com/90xM5sU.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/z80b2o/world_cup_balls_getting_charged/">[comments]</a></span> </td></tr></table>
+
+## Gas station with leaded racing fuel.
+ - [https://www.reddit.com/r/mildlyinteresting/comments/z808db/gas_station_with_leaded_racing_fuel/](https://www.reddit.com/r/mildlyinteresting/comments/z808db/gas_station_with_leaded_racing_fuel/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 17:28:22+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/mildlyinteresting/comments/z808db/gas_station_with_leaded_racing_fuel/"> <img alt="Gas station with leaded racing fuel." src="https://preview.redd.it/zd3if9vwuy2a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cd71f73354b608036420f536ac0917b2bfddfa2a" title="Gas station with leaded racing fuel." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/stephenkostos"> /u/stephenkostos </a> &#32; to &#32; <a href="https://www.reddit.com/r/mildlyinteresting/"> r/mildlyinteresting </a> <br /> <span><a href="https://i.redd.it/zd3if9vwuy2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/mildlyinteresting/comments/z808db/gas_station_with_leaded_racing_fuel/">[comments]</a></span> </td></tr></table>
+
+## Właśnie dropnął nowy portal "dla wszystkich dziewcząt", w którym za pieniądze z Ministerstwa Rodziny pisze się o rozbłysku światła przy zapłodnieniu :- )
+ - [https://www.reddit.com/r/Polska/comments/z7zy3p/właśnie_dropnął_nowy_portal_dla_wszystkich/](https://www.reddit.com/r/Polska/comments/z7zy3p/właśnie_dropnął_nowy_portal_dla_wszystkich/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 17:17:34+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Polska/comments/z7zy3p/właśnie_dropnął_nowy_portal_dla_wszystkich/"> <img alt="Właśnie dropnął nowy portal &quot;dla wszystkich dziewcząt&quot;, w którym za pieniądze z Ministerstwa Rodziny pisze się o rozbłysku światła przy zapłodnieniu :- )" src="https://preview.redd.it/flbxn9e8bx2a1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b78b8cb4b34ad06221fdd3b2bbd1f54c469a69e0" title="Właśnie dropnął nowy portal &quot;dla wszystkich dziewcząt&quot;, w którym za pieniądze z Ministerstwa Rodziny pisze się o rozbłysku światła przy zapłodnieniu :- )" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kurdebeliusz"> /u/kurdebeliusz </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska/"> r/Polska </a> <br /> <span><a href="https://i.redd.it/flbxn9e8bx2a1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska/comments/z7zy3p/właśnie_dropnął_nowy_portal_dla_wszystkich/">[comments]</a></span> </td></tr></table>
+
+## So i was at the mall to watch a movie and this cop approached me and i was like,"ahhh,he is gonna check me for weed in front of everyone and make a scene". But he sweetly came up to me with a smile and wanted to click a pic with me to show his son. Here is the pic, Keep Smiling:)) Have a nice week:)
+ - [https://www.reddit.com/r/MadeMeSmile/comments/z7zeb2/so_i_was_at_the_mall_to_watch_a_movie_and_this/](https://www.reddit.com/r/MadeMeSmile/comments/z7zeb2/so_i_was_at_the_mall_to_watch_a_movie_and_this/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 16:56:49+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/MadeMeSmile/comments/z7zeb2/so_i_was_at_the_mall_to_watch_a_movie_and_this/"> <img alt="So i was at the mall to watch a movie and this cop approached me and i was like,&quot;ahhh,he is gonna check me for weed in front of everyone and make a scene&quot;. But he sweetly came up to me with a smile and wanted to click a pic with me to show his son. Here is the pic, Keep Smiling:)) Have a nice week:)" src="https://preview.redd.it/6i5ce4nm7x2a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0292fa52f4915ea5514f57a8b398702d1d7ad31c" title="So i was at the mall to watch a movie and this cop approached me and i was like,&quot;ahhh,he is gonna check me for weed in front of everyone and make a scene&quot;. But he sweetly came up to me with a smile and wanted to click a pic with me to show his son. Here is the pic, Keep Smiling:)) Have a nice week:)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dreadindian"> /u/Dreadindian </a> &#32; to &#32; <a href="https://www.reddit.com/r/MadeMeSmile/"> r/MadeMeSmile </a> <br /> <span><a href="https://i.redd.it/6i5ce4nm7x2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/MadeMeSmile/comments/z7zeb2/so_i_was_at_the_mall_to_watch_a_movie_and_this/">[comments]</a></span> </td></tr></table>
+
+## Chainsaw Man - Episode 8 Discussion Thread
+ - [https://www.reddit.com/r/csmanime/comments/z7ypeu/chainsaw_man_episode_8_discussion_thread/](https://www.reddit.com/r/csmanime/comments/z7ypeu/chainsaw_man_episode_8_discussion_thread/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 16:30:12+00:00
+ - tags: None
+
+<!-- SC_OFF --><div class="md"><p><strong>Manga fans don't spoil or even drop something as small as &quot;oh no&quot; hint in comments. You have been warned!</strong></p> <p><strong>Source</strong></p> <p><a href="https://www.crunchyroll.com/series/GVDHX8QNW/chainsaw-man">Crunchyroll</a></p> <p><a href="https://www.hulu.com/series/chainsaw-man-7b71b5a4-560b-4d8b-98c4-c5dee6004c21">Hulu</a></p> <p>Ani-One Asia</p> <p><a href="https://www.animaxtv.co.kr/programs/ceinso-maen">Animax Korea</a></p> <p>Netflix</p> <p><a href="https://www.primevideo.com/detail/Chainsaw-Man/0U7WWB2247GVA8C1747R209GKC">Prime Video</a></p> <p><a href="https://www.bilibili.tv/en/media/2069687">Bilibili</a></p> <p><strong>Other Links</strong></p> <p><a href="https://twitter.com/CHAINSAWMAN_PR">Chainsawman_PR</a></p> <p><a href="https://chainsawman.dog/">Official website</a></p> <p><a href="https://twitter.com/nagayama_koharu">Fujimoto on Twitter</a></p> <h1><a href="https://discord.gg/chainsawman">Join us on Discord</a></h1> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/N3DSdude"> /u/N3DSdude </a> &#32; to &#32; <a href="https://www.reddit.com/r/csmanime/"> r/csmanime </a> <br /> <span><a href="https://www.reddit.com/r/csmanime/comments/z7ypeu/chainsaw_man_episode_8_discussion_thread/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/csmanime/comments/z7ypeu/chainsaw_man_episode_8_discussion_thread/">[comments]</a></span>
+
+## They hated him because he told the truth
+ - [https://www.reddit.com/r/ProgrammerHumor/comments/z7yget/they_hated_him_because_he_told_the_truth/](https://www.reddit.com/r/ProgrammerHumor/comments/z7yget/they_hated_him_because_he_told_the_truth/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 16:20:36+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ProgrammerHumor/comments/z7yget/they_hated_him_because_he_told_the_truth/"> <img alt="They hated him because he told the truth" src="https://preview.redd.it/vzzgrr441x2a1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=62ff125ecced641b2f6390c9ad34dfa340625eca" title="They hated him because he told the truth" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DefNotAF"> /u/DefNotAF </a> &#32; to &#32; <a href="https://www.reddit.com/r/ProgrammerHumor/"> r/ProgrammerHumor </a> <br /> <span><a href="https://i.redd.it/vzzgrr441x2a1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ProgrammerHumor/comments/z7yget/they_hated_him_because_he_told_the_truth/">[comments]</a></span> </td></tr></table>
+
+## Dlaczego kocham polskie szkoły
+ - [https://www.reddit.com/r/Polska/comments/z7y7b8/dlaczego_kocham_polskie_szkoły/](https://www.reddit.com/r/Polska/comments/z7y7b8/dlaczego_kocham_polskie_szkoły/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 16:10:50+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Polska/comments/z7y7b8/dlaczego_kocham_polskie_szkoły/"> <img alt="Dlaczego kocham polskie szkoły" src="https://preview.redd.it/fia0kw33hy2a1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=192fa43ca54d31d1b0fb4dfa4eea571241218268" title="Dlaczego kocham polskie szkoły" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Szkoły układają plany lekcji ale kiedy nie ma nauczycieli sprawa się komplikuje. No, i potem wychodzi takie coś (w pustym miejscu jest religią). Po prostu świetnie.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Miaukomiauki"> /u/Miaukomiauki </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska/"> r/Polska </a> <br /> <span><a href="https://i.redd.it/fia0kw33hy2a1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska/comments/z7y7b8/dlaczego_kocham_polskie_szkoły/">[comments]</a></span> </td></tr></table>
+
+## Fujimoto will be taking a break from the manga
+ - [https://www.reddit.com/r/ChainsawMan/comments/z7x3is/fujimoto_will_be_taking_a_break_from_the_manga/](https://www.reddit.com/r/ChainsawMan/comments/z7x3is/fujimoto_will_be_taking_a_break_from_the_manga/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 15:28:02+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ChainsawMan/comments/z7x3is/fujimoto_will_be_taking_a_break_from_the_manga/"> <img alt="Fujimoto will be taking a break from the manga" src="https://preview.redd.it/qxlof24xrw2a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=da3314a2261b2e120b3390ccfeffa7398a5e799a" title="Fujimoto will be taking a break from the manga" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/H4mpuz"> /u/H4mpuz </a> &#32; to &#32; <a href="https://www.reddit.com/r/ChainsawMan/"> r/ChainsawMan </a> <br /> <span><a href="https://i.redd.it/qxlof24xrw2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ChainsawMan/comments/z7x3is/fujimoto_will_be_taking_a_break_from_the_manga/">[comments]</a></span> </td></tr></table>
+
+## Koalicja PiS - Razem
+ - [https://www.reddit.com/r/Polska/comments/z7x0t7/koalicja_pis_razem/](https://www.reddit.com/r/Polska/comments/z7x0t7/koalicja_pis_razem/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 15:24:59+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Polska/comments/z7x0t7/koalicja_pis_razem/"> <img alt="Koalicja PiS - Razem" src="https://preview.redd.it/y0pvkcbv8y2a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=12a167a04a848225ba4013812e2dd40c47518c34" title="Koalicja PiS - Razem" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RainNightFlower"> /u/RainNightFlower </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska/"> r/Polska </a> <br /> <span><a href="https://i.redd.it/y0pvkcbv8y2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska/comments/z7x0t7/koalicja_pis_razem/">[comments]</a></span> </td></tr></table>
+
+## What’s the best thing you heard an NPC say while on the streets of LS?
+ - [https://www.reddit.com/r/gtaonline/comments/z7wpaj/whats_the_best_thing_you_heard_an_npc_say_while/](https://www.reddit.com/r/gtaonline/comments/z7wpaj/whats_the_best_thing_you_heard_an_npc_say_while/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 15:12:33+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gtaonline/comments/z7wpaj/whats_the_best_thing_you_heard_an_npc_say_while/"> <img alt="What’s the best thing you heard an NPC say while on the streets of LS?" src="https://preview.redd.it/pq63gfwo6y2a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9e96b2694b644ca7e2e22de4a775dbf2e9fbdd02" title="What’s the best thing you heard an NPC say while on the streets of LS?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Arctic317"> /u/Arctic317 </a> &#32; to &#32; <a href="https://www.reddit.com/r/gtaonline/"> r/gtaonline </a> <br /> <span><a href="https://i.redd.it/pq63gfwo6y2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gtaonline/comments/z7wpaj/whats_the_best_thing_you_heard_an_npc_say_while/">[comments]</a></span> </td></tr></table>
+
+## Do Poles really hate Russians?
+ - [https://www.reddit.com/r/poland/comments/z7w65q/do_poles_really_hate_russians/](https://www.reddit.com/r/poland/comments/z7w65q/do_poles_really_hate_russians/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 14:51:57+00:00
+ - tags: None
+
+<!-- SC_OFF --><div class="md"><p>Much has been written on the Internet about Polish Russophobia, is this true? We've had our differences, of course, but isn't that in the past? I'm attracted to Polish culture and language, but I'm confused by all these posts and news. How do you really feel about Russians? If I come to Poland, for example, can I have problems? For example, if I speak Russian?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IrtyshLocal"> /u/IrtyshLocal </a> &#32; to &#32; <a href="https://www.reddit.com/r/poland/"> r/poland </a> <br /> <span><a href="https://www.reddit.com/r/poland/comments/z7w65q/do_poles_really_hate_russians/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/poland/comments/z7w65q/do_poles_really_hate_russians/">[comments]</a></span>
+
+## Ok 🅱️inotto is out. Give me your wildest team principal suggestions for ferrari.
+ - [https://www.reddit.com/r/formuladank/comments/z7vgma/ok_inotto_is_out_give_me_your_wildest_team/](https://www.reddit.com/r/formuladank/comments/z7vgma/ok_inotto_is_out_give_me_your_wildest_team/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 14:23:35+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/formuladank/comments/z7vgma/ok_inotto_is_out_give_me_your_wildest_team/"> <img alt="Ok 🅱️inotto is out. Give me your wildest team principal suggestions for ferrari." src="https://preview.redd.it/i7cfxqeyxx2a1.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=ffc4b09107a5232f71b82c3d546b788e8c13a439" title="Ok 🅱️inotto is out. Give me your wildest team principal suggestions for ferrari." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PM_ME_MY_FRIEND"> /u/PM_ME_MY_FRIEND </a> &#32; to &#32; <a href="https://www.reddit.com/r/formuladank/"> r/formuladank </a> <br /> <span><a href="https://i.redd.it/i7cfxqeyxx2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/formuladank/comments/z7vgma/ok_inotto_is_out_give_me_your_wildest_team/">[comments]</a></span> </td></tr></table>
+
+## Innowacyjne 9-0-1
+ - [https://www.reddit.com/r/Polska_wpz/comments/z7vawn/innowacyjne_901/](https://www.reddit.com/r/Polska_wpz/comments/z7vawn/innowacyjne_901/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 14:17:10+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Polska_wpz/comments/z7vawn/innowacyjne_901/"> <img alt="Innowacyjne 9-0-1" src="https://preview.redd.it/or1egdr2fw2a1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=ecf790158af78d0fca97d526089e8d0820d1975f" title="Innowacyjne 9-0-1" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dziobakowski"> /u/Dziobakowski </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska_wpz/"> r/Polska_wpz </a> <br /> <span><a href="https://i.redd.it/or1egdr2fw2a1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska_wpz/comments/z7vawn/innowacyjne_901/">[comments]</a></span> </td></tr></table>
+
+## Let's try something different.
+ - [https://www.reddit.com/r/Grimdank/comments/z7uw9w/lets_try_something_different/](https://www.reddit.com/r/Grimdank/comments/z7uw9w/lets_try_something_different/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 14:01:03+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Grimdank/comments/z7uw9w/lets_try_something_different/"> <img alt="Let's try something different." src="https://preview.redd.it/yr2s8i25cw2a1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=60c509a1cc39fb7f727411b667869439e3bd567c" title="Let's try something different." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-Magician9585"> /u/Ok-Magician9585 </a> &#32; to &#32; <a href="https://www.reddit.com/r/Grimdank/"> r/Grimdank </a> <br /> <span><a href="https://i.redd.it/yr2s8i25cw2a1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Grimdank/comments/z7uw9w/lets_try_something_different/">[comments]</a></span> </td></tr></table>
+
+## It hurts like hell.;-;
+ - [https://www.reddit.com/r/ProgrammerHumor/comments/z7ulns/it_hurts_like_hell/](https://www.reddit.com/r/ProgrammerHumor/comments/z7ulns/it_hurts_like_hell/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 13:49:09+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ProgrammerHumor/comments/z7ulns/it_hurts_like_hell/"> <img alt="It hurts like hell.;-;" src="https://preview.redd.it/dp6jpk4trx2a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=de306b6fbed45c11cf7d87e42db4c3833fe0b4d1" title="It hurts like hell.;-;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AltruisticRain504"> /u/AltruisticRain504 </a> &#32; to &#32; <a href="https://www.reddit.com/r/ProgrammerHumor/"> r/ProgrammerHumor </a> <br /> <span><a href="https://i.redd.it/dp6jpk4trx2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ProgrammerHumor/comments/z7ulns/it_hurts_like_hell/">[comments]</a></span> </td></tr></table>
+
+## megaconstrux
+ - [https://www.reddit.com/r/shitposting/comments/z7tueq/megaconstrux/](https://www.reddit.com/r/shitposting/comments/z7tueq/megaconstrux/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 13:17:57+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/shitposting/comments/z7tueq/megaconstrux/"> <img alt="megaconstrux" src="https://preview.redd.it/c3tne68o4w2a1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=088acef61aed6de429add1af4991c037ab7beb98" title="megaconstrux" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HappyTrashcan799"> /u/HappyTrashcan799 </a> &#32; to &#32; <a href="https://www.reddit.com/r/shitposting/"> r/shitposting </a> <br /> <span><a href="https://i.redd.it/c3tne68o4w2a1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/shitposting/comments/z7tueq/megaconstrux/">[comments]</a></span> </td></tr></table>
+
+## Hitler był lewakiem (chyba rozpętałem gównoburzę)
+ - [https://www.reddit.com/r/Polska_wpz/comments/z7tkim/hitler_był_lewakiem_chyba_rozpętałem_gównoburzę/](https://www.reddit.com/r/Polska_wpz/comments/z7tkim/hitler_był_lewakiem_chyba_rozpętałem_gównoburzę/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 13:06:29+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Polska_wpz/comments/z7tkim/hitler_był_lewakiem_chyba_rozpętałem_gównoburzę/"> <img alt="Hitler był lewakiem (chyba rozpętałem gównoburzę)" src="https://preview.redd.it/lhlqt587kx2a1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=445eced9e0e555eab6fc362d53de9521aecd8d41" title="Hitler był lewakiem (chyba rozpętałem gównoburzę)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/XVYQ_Emperator"> /u/XVYQ_Emperator </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska_wpz/"> r/Polska_wpz </a> <br /> <span><a href="https://i.redd.it/lhlqt587kx2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska_wpz/comments/z7tkim/hitler_był_lewakiem_chyba_rozpętałem_gównoburzę/">[comments]</a></span> </td></tr></table>
+
+## Finally edited first photo of my Priscilla cosplay
+ - [https://www.reddit.com/r/witcher/comments/z7tjn3/finally_edited_first_photo_of_my_priscilla_cosplay/](https://www.reddit.com/r/witcher/comments/z7tjn3/finally_edited_first_photo_of_my_priscilla_cosplay/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 13:05:24+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/witcher/comments/z7tjn3/finally_edited_first_photo_of_my_priscilla_cosplay/"> <img alt="Finally edited first photo of my Priscilla cosplay" src="https://preview.redd.it/q8andl40kx2a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7ce955955ca28782762df16b9d44c7e79ef6ae8b" title="Finally edited first photo of my Priscilla cosplay" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Euphoric-Card-4481"> /u/Euphoric-Card-4481 </a> &#32; to &#32; <a href="https://www.reddit.com/r/witcher/"> r/witcher </a> <br /> <span><a href="https://i.redd.it/q8andl40kx2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/witcher/comments/z7tjn3/finally_edited_first_photo_of_my_priscilla_cosplay/">[comments]</a></span> </td></tr></table>
+
+## Śmigus-dyngus is just better
+ - [https://www.reddit.com/r/2visegrad4you/comments/z7th1c/śmigusdyngus_is_just_better/](https://www.reddit.com/r/2visegrad4you/comments/z7th1c/śmigusdyngus_is_just_better/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 13:02:14+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/2visegrad4you/comments/z7th1c/śmigusdyngus_is_just_better/"> <img alt="Śmigus-dyngus is just better" src="https://preview.redd.it/53p2c0wfjx2a1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=77750a12e8129db6914da99c4cf57dad479b45c7" title="Śmigus-dyngus is just better" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Psychopathicaveman"> /u/Psychopathicaveman </a> &#32; to &#32; <a href="https://www.reddit.com/r/2visegrad4you/"> r/2visegrad4you </a> <br /> <span><a href="https://i.redd.it/53p2c0wfjx2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/2visegrad4you/comments/z7th1c/śmigusdyngus_is_just_better/">[comments]</a></span> </td></tr></table>
+
+## Wnimanie! Prihodzit Nowaja Nadieżda!
+ - [https://www.reddit.com/r/Polska/comments/z7t1m2/wnimanie_prihodzit_nowaja_nadieżda/](https://www.reddit.com/r/Polska/comments/z7t1m2/wnimanie_prihodzit_nowaja_nadieżda/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 12:43:31+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Polska/comments/z7t1m2/wnimanie_prihodzit_nowaja_nadieżda/"> <img alt="Wnimanie! Prihodzit Nowaja Nadieżda!" src="https://preview.redd.it/732ptgyesv2a1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=07adc2f7c0ac5eded845342a419ddc38e7b46264" title="Wnimanie! Prihodzit Nowaja Nadieżda!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/wokolis"> /u/wokolis </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska/"> r/Polska </a> <br /> <span><a href="https://i.redd.it/732ptgyesv2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska/comments/z7t1m2/wnimanie_prihodzit_nowaja_nadieżda/">[comments]</a></span> </td></tr></table>
+
+## Like what's the difference
+ - [https://www.reddit.com/r/dankmemes/comments/z7srid/like_whats_the_difference/](https://www.reddit.com/r/dankmemes/comments/z7srid/like_whats_the_difference/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 12:30:32+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/dankmemes/comments/z7srid/like_whats_the_difference/"> <img alt="Like what's the difference" src="https://preview.redd.it/ah9y7ll0wv2a1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=0bf08cf2666ea786ed5cbd769c237e8c2e439eef" title="Like what's the difference" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TurtleBoy29"> /u/TurtleBoy29 </a> &#32; to &#32; <a href="https://www.reddit.com/r/dankmemes/"> r/dankmemes </a> <br /> <span><a href="https://i.redd.it/ah9y7ll0wv2a1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/dankmemes/comments/z7srid/like_whats_the_difference/">[comments]</a></span> </td></tr></table>
+
+## National gold reserves (national banks, ECB not included) - 2022 [OC]
+ - [https://www.reddit.com/r/europe/comments/z7spad/national_gold_reserves_national_banks_ecb_not/](https://www.reddit.com/r/europe/comments/z7spad/national_gold_reserves_national_banks_ecb_not/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 12:27:56+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/europe/comments/z7spad/national_gold_reserves_national_banks_ecb_not/"> <img alt="National gold reserves (national banks, ECB not included) - 2022 [OC]" src="https://preview.redd.it/mov6chlhvv2a1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=63ace4819c4a8f48b0d8b466e9636c47f4ef3b02" title="National gold reserves (national banks, ECB not included) - 2022 [OC]" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/capitanperizia"> /u/capitanperizia </a> &#32; to &#32; <a href="https://www.reddit.com/r/europe/"> r/europe </a> <br /> <span><a href="https://i.redd.it/mov6chlhvv2a1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/europe/comments/z7spad/national_gold_reserves_national_banks_ecb_not/">[comments]</a></span> </td></tr></table>
+
+## The first time I went by myself. Today I took my husband with me. Spot the difference.
+ - [https://www.reddit.com/r/mildlyinfuriating/comments/z7solk/the_first_time_i_went_by_myself_today_i_took_my/](https://www.reddit.com/r/mildlyinfuriating/comments/z7solk/the_first_time_i_went_by_myself_today_i_took_my/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 12:27:01+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/mildlyinfuriating/comments/z7solk/the_first_time_i_went_by_myself_today_i_took_my/"> <img alt="The first time I went by myself. Today I took my husband with me. Spot the difference." src="https://preview.redd.it/s6zladq5dx2a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9cbe09a4232c2de05972d4342c49004017562775" title="The first time I went by myself. Today I took my husband with me. Spot the difference." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sciencemint"> /u/sciencemint </a> &#32; to &#32; <a href="https://www.reddit.com/r/mildlyinfuriating/"> r/mildlyinfuriating </a> <br /> <span><a href="https://i.redd.it/s6zladq5dx2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/mildlyinfuriating/comments/z7solk/the_first_time_i_went_by_myself_today_i_took_my/">[comments]</a></span> </td></tr></table>
+
+## CCP locking residents of an apartment complex because an app alerted a family had been exposed to covid. and spray city with disinfectant with drones
+ - [https://www.reddit.com/r/Damnthatsinteresting/comments/z7s8bh/ccp_locking_residents_of_an_apartment_complex/](https://www.reddit.com/r/Damnthatsinteresting/comments/z7s8bh/ccp_locking_residents_of_an_apartment_complex/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 12:06:22+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Damnthatsinteresting/comments/z7s8bh/ccp_locking_residents_of_an_apartment_complex/"> <img alt="CCP locking residents of an apartment complex because an app alerted a family had been exposed to covid. and spray city with disinfectant with drones" src="https://external-preview.redd.it/1P2Vw1YZKf4uQ2sQ_IAKHczNljlvvo0w70z88VRf7ec.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6405bd2aadc3ab4bee8c226d6c0705ed0e1b0e83" title="CCP locking residents of an apartment complex because an app alerted a family had been exposed to covid. and spray city with disinfectant with drones" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LetUnable1830"> /u/LetUnable1830 </a> &#32; to &#32; <a href="https://www.reddit.com/r/Damnthatsinteresting/"> r/Damnthatsinteresting </a> <br /> <span><a href="https://v.redd.it/q0xnldnhrv2a1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Damnthatsinteresting/comments/z7s8bh/ccp_locking_residents_of_an_apartment_complex/">[comments]</a></span> </td></tr></table>
+
+## Pozdrawiam twórców egzaminu zawodowego E.06
+ - [https://www.reddit.com/r/Polska/comments/z7s139/pozdrawiam_twórców_egzaminu_zawodowego_e06/](https://www.reddit.com/r/Polska/comments/z7s139/pozdrawiam_twórców_egzaminu_zawodowego_e06/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 11:57:15+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Polska/comments/z7s139/pozdrawiam_twórców_egzaminu_zawodowego_e06/"> <img alt="Pozdrawiam twórców egzaminu zawodowego E.06" src="https://preview.redd.it/khb86get7x2a1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=82005c88db1c8c31e210c80d2ab87a5b91563a3b" title="Pozdrawiam twórców egzaminu zawodowego E.06" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kubajadek"> /u/kubajadek </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska/"> r/Polska </a> <br /> <span><a href="https://i.redd.it/khb86get7x2a1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska/comments/z7s139/pozdrawiam_twórców_egzaminu_zawodowego_e06/">[comments]</a></span> </td></tr></table>
+
+## Wives of Russian troops 'encourage' them to rape Ukrainian women, Ukraine's first lady says
+ - [https://www.reddit.com/r/worldnews/comments/z7rvf0/wives_of_russian_troops_encourage_them_to_rape/](https://www.reddit.com/r/worldnews/comments/z7rvf0/wives_of_russian_troops_encourage_them_to_rape/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 11:49:34+00:00
+ - tags: None
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/jdhmdo"> /u/jdhmdo </a> &#32; to &#32; <a href="https://www.reddit.com/r/worldnews/"> r/worldnews </a> <br /> <span><a href="https://www.msn.com/en-gb/news/world/wives-of-russian-troops-encourage-them-to-rape-ukrainian-women-ukraines-first-lady-says/ar-AA14Esfp?li=BBoPWjQ">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/z7rvf0/wives_of_russian_troops_encourage_them_to_rape/">[comments]</a></span>
+
+## cursed_hank
+ - [https://www.reddit.com/r/cursedcomments/comments/z7rqyh/cursed_hank/](https://www.reddit.com/r/cursedcomments/comments/z7rqyh/cursed_hank/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 11:43:33+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/cursedcomments/comments/z7rqyh/cursed_hank/"> <img alt="cursed_hank" src="https://preview.redd.it/rhfhqt9e5x2a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c08502046a694a2cb0efd10d5bcf55f03b269892" title="cursed_hank" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/friedmaster69"> /u/friedmaster69 </a> &#32; to &#32; <a href="https://www.reddit.com/r/cursedcomments/"> r/cursedcomments </a> <br /> <span><a href="https://i.redd.it/rhfhqt9e5x2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cursedcomments/comments/z7rqyh/cursed_hank/">[comments]</a></span> </td></tr></table>
+
+## Stowaways lived for 11 days on an oil tanker’s rudder as it sailed from Nigeria to the Canary Islands
+ - [https://www.reddit.com/r/interestingasfuck/comments/z7ro7f/stowaways_lived_for_11_days_on_an_oil_tankers/](https://www.reddit.com/r/interestingasfuck/comments/z7ro7f/stowaways_lived_for_11_days_on_an_oil_tankers/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 11:39:50+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/z7ro7f/stowaways_lived_for_11_days_on_an_oil_tankers/"> <img alt="Stowaways lived for 11 days on an oil tanker’s rudder as it sailed from Nigeria to the Canary Islands" src="https://preview.redd.it/w70nrd7wmv2a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ff9aee55f4317449207266420289f778fab093db" title="Stowaways lived for 11 days on an oil tanker’s rudder as it sailed from Nigeria to the Canary Islands" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Schewipps"> /u/Schewipps </a> &#32; to &#32; <a href="https://www.reddit.com/r/interestingasfuck/"> r/interestingasfuck </a> <br /> <span><a href="https://i.redd.it/w70nrd7wmv2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/z7ro7f/stowaways_lived_for_11_days_on_an_oil_tankers/">[comments]</a></span> </td></tr></table>
+
+## Friend works as security at a club in NYC and receives this as ID check.
+ - [https://www.reddit.com/r/funny/comments/z7rlvq/friend_works_as_security_at_a_club_in_nyc_and/](https://www.reddit.com/r/funny/comments/z7rlvq/friend_works_as_security_at_a_club_in_nyc_and/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 11:36:36+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/funny/comments/z7rlvq/friend_works_as_security_at_a_club_in_nyc_and/"> <img alt="Friend works as security at a club in NYC and receives this as ID check." src="https://preview.redd.it/e5v9osh34x2a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a4412a0a69e65623340d4c28761affcde06b25ea" title="Friend works as security at a club in NYC and receives this as ID check." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/proychow1"> /u/proychow1 </a> &#32; to &#32; <a href="https://www.reddit.com/r/funny/"> r/funny </a> <br /> <span><a href="https://i.redd.it/e5v9osh34x2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/funny/comments/z7rlvq/friend_works_as_security_at_a_club_in_nyc_and/">[comments]</a></span> </td></tr></table>
+
+## to have a nice vacation in France
+ - [https://www.reddit.com/r/therewasanattempt/comments/z7rgqt/to_have_a_nice_vacation_in_france/](https://www.reddit.com/r/therewasanattempt/comments/z7rgqt/to_have_a_nice_vacation_in_france/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 11:29:44+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/therewasanattempt/comments/z7rgqt/to_have_a_nice_vacation_in_france/"> <img alt="to have a nice vacation in France" src="https://external-preview.redd.it/HYxUARhnalonSJ3ndP7_fLJE4mh7yldss_bK10yZBDM.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fea3a3c404c898334eb60442db66257ae97dbf89" title="to have a nice vacation in France" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Canadian_Trucker"> /u/Canadian_Trucker </a> &#32; to &#32; <a href="https://www.reddit.com/r/therewasanattempt/"> r/therewasanattempt </a> <br /> <span><a href="https://v.redd.it/wbjompwelv2a1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/therewasanattempt/comments/z7rgqt/to_have_a_nice_vacation_in_france/">[comments]</a></span> </td></tr></table>
+
+## Drogi przyjacielu rodaku
+ - [https://www.reddit.com/r/Polska/comments/z7rgpa/drogi_przyjacielu_rodaku/](https://www.reddit.com/r/Polska/comments/z7rgpa/drogi_przyjacielu_rodaku/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 11:29:41+00:00
+ - tags: None
+
+<!-- SC_OFF --><div class="md"><p>Masz dożywotni zakaz wstydzić się swojego akcentu gdy mówisz po angielsku, każdy kto nie pochodzi z kraju anglojęzycznego brzmi głupiutko tak jak my. Samemu brzmię aż nadto głupiutko a sporo spędzałem czasu na rozmowach po angielsku z osobami z całej europy lub azji i nikt nie odczuwał problemu dla mojego akcentu i ty też nie powinieneś czuć się źle że jesteś wyjątkowy &lt;3</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ghoster333"> /u/ghoster333 </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska/"> r/Polska </a> <br /> <span><a href="https://www.reddit.com/r/Polska/comments/z7rgpa/drogi_przyjacielu_rodaku/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska/comments/z7rgpa/drogi_przyjacielu_rodaku/">[comments]</a></span>
+
+## Oh no, noooooooooooo
+ - [https://www.reddit.com/r/shitposting/comments/z7re8o/oh_no_noooooooooooo/](https://www.reddit.com/r/shitposting/comments/z7re8o/oh_no_noooooooooooo/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 11:26:25+00:00
+ - tags: None
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Sophisticated_Slurp"> /u/Sophisticated_Slurp </a> &#32; to &#32; <a href="https://www.reddit.com/r/shitposting/"> r/shitposting </a> <br /> <span><a href="https://v.redd.it/59hntqxrkv2a1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/shitposting/comments/z7re8o/oh_no_noooooooooooo/">[comments]</a></span>
+
+## Service is not included. what do they mean by this ? they wont pay waiters if they dont get tips. where are they learning from. this is not America. I see more and more restaurants doing this in Poland. I always give tip in restaurants but this type of thing make me wanna tip less.
+ - [https://www.reddit.com/r/poland/comments/z7r4lj/service_is_not_included_what_do_they_mean_by_this/](https://www.reddit.com/r/poland/comments/z7r4lj/service_is_not_included_what_do_they_mean_by_this/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 11:12:44+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/poland/comments/z7r4lj/service_is_not_included_what_do_they_mean_by_this/"> <img alt="Service is not included. what do they mean by this ? they wont pay waiters if they dont get tips. where are they learning from. this is not America. I see more and more restaurants doing this in Poland. I always give tip in restaurants but this type of thing make me wanna tip less." src="https://preview.redd.it/96w3ufpwzw2a1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6d237e0c9a083eaae31ec5ec7e075ca4ede87ac2" title="Service is not included. what do they mean by this ? they wont pay waiters if they dont get tips. where are they learning from. this is not America. I see more and more restaurants doing this in Poland. I always give tip in restaurants but this type of thing make me wanna tip less." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pviky23"> /u/pviky23 </a> &#32; to &#32; <a href="https://www.reddit.com/r/poland/"> r/poland </a> <br /> <span><a href="https://i.redd.it/96w3ufpwzw2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/poland/comments/z7r4lj/service_is_not_included_what_do_they_mean_by_this/">[comments]</a></span> </td></tr></table>
+
+## Ok koledzy upośledzeni. Od dzisiaj przez cały adfent dodaję co napisze najbardziej lubiany komentarz na ten obrazek, codziennie
+ - [https://www.reddit.com/r/okkolegauposledzony/comments/z7qphj/ok_koledzy_upośledzeni_od_dzisiaj_przez_cały/](https://www.reddit.com/r/okkolegauposledzony/comments/z7qphj/ok_koledzy_upośledzeni_od_dzisiaj_przez_cały/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 10:51:39+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/okkolegauposledzony/comments/z7qphj/ok_koledzy_upośledzeni_od_dzisiaj_przez_cały/"> <img alt="Ok koledzy upośledzeni. Od dzisiaj przez cały adfent dodaję co napisze najbardziej lubiany komentarz na ten obrazek, codziennie" src="https://preview.redd.it/n6bprgh4ww2a1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bb4400b5b8d8a3e1e039e25796de7a192481c152" title="Ok koledzy upośledzeni. Od dzisiaj przez cały adfent dodaję co napisze najbardziej lubiany komentarz na ten obrazek, codziennie" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Competitive_Koalas"> /u/Competitive_Koalas </a> &#32; to &#32; <a href="https://www.reddit.com/r/okkolegauposledzony/"> r/okkolegauposledzony </a> <br /> <span><a href="https://i.redd.it/n6bprgh4ww2a1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/okkolegauposledzony/comments/z7qphj/ok_koledzy_upośledzeni_od_dzisiaj_przez_cały/">[comments]</a></span> </td></tr></table>
+
+## Just two more days...
+ - [https://www.reddit.com/r/memes/comments/z7qk1q/just_two_more_days/](https://www.reddit.com/r/memes/comments/z7qk1q/just_two_more_days/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 10:44:05+00:00
+ - tags: None
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Heatmorite"> /u/Heatmorite </a> &#32; to &#32; <a href="https://www.reddit.com/r/memes/"> r/memes </a> <br /> <span><a href="https://i.redd.it/yaq2sicsuw2a1.gif">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/memes/comments/z7qk1q/just_two_more_days/">[comments]</a></span>
+
+## Huta Krzeszowska
+ - [https://www.reddit.com/r/Polska_wpz/comments/z7pz7g/huta_krzeszowska/](https://www.reddit.com/r/Polska_wpz/comments/z7pz7g/huta_krzeszowska/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 10:15:06+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Polska_wpz/comments/z7pz7g/huta_krzeszowska/"> <img alt="Huta Krzeszowska" src="https://preview.redd.it/tdp6c5dlpw2a1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=13a26d0a5ff1165600e3db4bc053af84f772c60e" title="Huta Krzeszowska" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Separate_Dependent71"> /u/Separate_Dependent71 </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska_wpz/"> r/Polska_wpz </a> <br /> <span><a href="https://i.redd.it/tdp6c5dlpw2a1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska_wpz/comments/z7pz7g/huta_krzeszowska/">[comments]</a></span> </td></tr></table>
+
+## She will beat me with the belt after this...
+ - [https://www.reddit.com/r/shitposting/comments/z7pyag/she_will_beat_me_with_the_belt_after_this/](https://www.reddit.com/r/shitposting/comments/z7pyag/she_will_beat_me_with_the_belt_after_this/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 10:13:47+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/shitposting/comments/z7pyag/she_will_beat_me_with_the_belt_after_this/"> <img alt="She will beat me with the belt after this..." src="https://preview.redd.it/pb3bwa0epw2a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7421a19757563536977c20457920ca627391c43c" title="She will beat me with the belt after this..." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Lexser30"> /u/Lexser30 </a> &#32; to &#32; <a href="https://www.reddit.com/r/shitposting/"> r/shitposting </a> <br /> <span><a href="https://i.redd.it/pb3bwa0epw2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/shitposting/comments/z7pyag/she_will_beat_me_with_the_belt_after_this/">[comments]</a></span> </td></tr></table>
+
+## you should be able to fit at least 5 on there
+ - [https://www.reddit.com/r/memes/comments/z7px67/you_should_be_able_to_fit_at_least_5_on_there/](https://www.reddit.com/r/memes/comments/z7px67/you_should_be_able_to_fit_at_least_5_on_there/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 10:12:10+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/memes/comments/z7px67/you_should_be_able_to_fit_at_least_5_on_there/"> <img alt="you should be able to fit at least 5 on there" src="https://preview.redd.it/bavojhh3pw2a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=db534982badc768d44da2a5a546df55f395c840f" title="you should be able to fit at least 5 on there" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dalton10e"> /u/dalton10e </a> &#32; to &#32; <a href="https://www.reddit.com/r/memes/"> r/memes </a> <br /> <span><a href="https://i.redd.it/bavojhh3pw2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/memes/comments/z7px67/you_should_be_able_to_fit_at_least_5_on_there/">[comments]</a></span> </td></tr></table>
+
+## Went to see the Taj Mahal, nobody told me the real sight seeing was in the train station
+ - [https://www.reddit.com/r/Unexpected/comments/z7pozn/went_to_see_the_taj_mahal_nobody_told_me_the_real/](https://www.reddit.com/r/Unexpected/comments/z7pozn/went_to_see_the_taj_mahal_nobody_told_me_the_real/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 10:00:45+00:00
+ - tags: None
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/IdanYar"> /u/IdanYar </a> &#32; to &#32; <a href="https://www.reddit.com/r/Unexpected/"> r/Unexpected </a> <br /> <span><a href="https://v.redd.it/jlai6avb5v2a1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Unexpected/comments/z7pozn/went_to_see_the_taj_mahal_nobody_told_me_the_real/">[comments]</a></span>
+
+## How game developers trick you in an open world
+ - [https://www.reddit.com/r/interestingasfuck/comments/z7pc53/how_game_developers_trick_you_in_an_open_world/](https://www.reddit.com/r/interestingasfuck/comments/z7pc53/how_game_developers_trick_you_in_an_open_world/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 09:42:45+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/z7pc53/how_game_developers_trick_you_in_an_open_world/"> <img alt="How game developers trick you in an open world" src="https://external-preview.redd.it/_YrqcViSe0UcPTJgNdoUgQv1ABNxRxaxZzcOsNHmFCA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6f6fb93f3a6134739a99289f84b7b71933bf7c7d" title="How game developers trick you in an open world" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Basic_Sir5857"> /u/Basic_Sir5857 </a> &#32; to &#32; <a href="https://www.reddit.com/r/interestingasfuck/"> r/interestingasfuck </a> <br /> <span><a href="https://v.redd.it/xig1sigojw2a1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/z7pc53/how_game_developers_trick_you_in_an_open_world/">[comments]</a></span> </td></tr></table>
+
+## 🥹🥹🥹
+ - [https://www.reddit.com/r/2visegrad4you/comments/z7p905/_/](https://www.reddit.com/r/2visegrad4you/comments/z7p905/_/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 09:37:57+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/2visegrad4you/comments/z7p905/_/"> <img alt="🥹🥹🥹" src="https://preview.redd.it/pdh4lfiziw2a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a3bcc0a8ccdd0b44058e55506496f8ba9ce32e2f" title="🥹🥹🥹" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AlternativeClassic48"> /u/AlternativeClassic48 </a> &#32; to &#32; <a href="https://www.reddit.com/r/2visegrad4you/"> r/2visegrad4you </a> <br /> <span><a href="https://i.redd.it/pdh4lfiziw2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/2visegrad4you/comments/z7p905/_/">[comments]</a></span> </td></tr></table>
+
+## don't be shy
+ - [https://www.reddit.com/r/shitposting/comments/z7ozd6/dont_be_shy/](https://www.reddit.com/r/shitposting/comments/z7ozd6/dont_be_shy/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 09:23:21+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/shitposting/comments/z7ozd6/dont_be_shy/"> <img alt="don't be shy" src="https://preview.redd.it/xxzogeltyu2a1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=82c709a4b5cabce6af57ea2fbeb2199e7b987980" title="don't be shy" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Haunting_Hall_5656"> /u/Haunting_Hall_5656 </a> &#32; to &#32; <a href="https://www.reddit.com/r/shitposting/"> r/shitposting </a> <br /> <span><a href="https://i.redd.it/xxzogeltyu2a1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/shitposting/comments/z7ozd6/dont_be_shy/">[comments]</a></span> </td></tr></table>
+
+## Thank You
+ - [https://www.reddit.com/r/dankmemes/comments/z7ooht/thank_you/](https://www.reddit.com/r/dankmemes/comments/z7ooht/thank_you/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 09:07:15+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/dankmemes/comments/z7ooht/thank_you/"> <img alt="Thank You" src="https://preview.redd.it/10ka4jhsvu2a1.gif?width=320&amp;crop=smart&amp;s=cf8be98d192337e9d1f2a058669536b7a3cdad26" title="Thank You" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Glass_Goose_3256"> /u/Glass_Goose_3256 </a> &#32; to &#32; <a href="https://www.reddit.com/r/dankmemes/"> r/dankmemes </a> <br /> <span><a href="https://i.redd.it/10ka4jhsvu2a1.gif">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/dankmemes/comments/z7ooht/thank_you/">[comments]</a></span> </td></tr></table>
+
+## First world problems
+ - [https://www.reddit.com/r/memes/comments/z7o9vs/first_world_problems/](https://www.reddit.com/r/memes/comments/z7o9vs/first_world_problems/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 08:46:01+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/memes/comments/z7o9vs/first_world_problems/"> <img alt="First world problems" src="https://preview.redd.it/goge6kc7su2a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8a726fe33f02df5c74659ac49a17504b9388449e" title="First world problems" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mahumd90"> /u/mahumd90 </a> &#32; to &#32; <a href="https://www.reddit.com/r/memes/"> r/memes </a> <br /> <span><a href="https://i.redd.it/goge6kc7su2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/memes/comments/z7o9vs/first_world_problems/">[comments]</a></span> </td></tr></table>
+
+## Ferrari Announcement (Ferrari statement: "Ferrari accepted the resignation of Mattia Binotto who will leave his role as Scuderia Ferrari Team Principal on December 31")
+ - [https://www.reddit.com/r/formula1/comments/z7o6ll/ferrari_announcement_ferrari_statement_ferrari/](https://www.reddit.com/r/formula1/comments/z7o6ll/ferrari_announcement_ferrari_statement_ferrari/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 08:41:01+00:00
+ - tags: None
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/glenn1812"> /u/glenn1812 </a> &#32; to &#32; <a href="https://www.reddit.com/r/formula1/"> r/formula1 </a> <br /> <span><a href="https://www.ferrari.com/en-EN/corporate/articles/ferrari-announcement-2022">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/formula1/comments/z7o6ll/ferrari_announcement_ferrari_statement_ferrari/">[comments]</a></span>
+
+## No unions for programmers?
+ - [https://www.reddit.com/r/poland/comments/z7o44r/no_unions_for_programmers/](https://www.reddit.com/r/poland/comments/z7o44r/no_unions_for_programmers/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 08:37:15+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/poland/comments/z7o44r/no_unions_for_programmers/"> <img alt="No unions for programmers?" src="https://b.thumbs.redditmedia.com/NUu4rntNFm9Z8DCs-l4p9ylH9pIV7dUPrPR-vdUFCtc.jpg" title="No unions for programmers?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Fascinating email from SII CEO (big contracting company in IT) after an employee created a union. Of course with the inevitable firing of employee as result.</p> <p>Source: <a href="https://www.za.org.pl/prezes-sii-polska-i-wlasciciel-polonii-warszawa-bezprawnie-zwalnia-zwiazkowca-lekcewazy-polskie-prawo-atakuje-prawo-francuskie/">https://www.za.org.pl/prezes-sii-polska-i-wlasciciel-polonii-warszawa-bezprawnie-zwalnia-zwiazkowca-lekcewazy-polskie-prawo-atakuje-prawo-francuskie/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RatiocinationRace"> /u/RatiocinationRace </a> &#32; to &#32; <a href="https://www.reddit.com/r/poland/"> r/poland </a> <br /> <span><a href="https://www.reddit.com/gallery/z7o44r">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/poland/comments/z7o44r/no_unions_for_programmers/">[comments]</a></span> </td></tr></table>
+
+## Wskaźnik kradzieży w Europie
+ - [https://www.reddit.com/r/Polska/comments/z7nvs7/wskaźnik_kradzieży_w_europie/](https://www.reddit.com/r/Polska/comments/z7nvs7/wskaźnik_kradzieży_w_europie/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 08:24:41+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Polska/comments/z7nvs7/wskaźnik_kradzieży_w_europie/"> <img alt="Wskaźnik kradzieży w Europie" src="https://preview.redd.it/8k8fu8zn1q2a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dd3bf960fd58cae43fc3473fbb55b8182fe75024" title="Wskaźnik kradzieży w Europie" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mancaveit"> /u/mancaveit </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska/"> r/Polska </a> <br /> <span><a href="https://i.redd.it/8k8fu8zn1q2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska/comments/z7nvs7/wskaźnik_kradzieży_w_europie/">[comments]</a></span> </td></tr></table>
+
+## Average Polish breakfast (Source: I am Polish)
+ - [https://www.reddit.com/r/poland/comments/z7nvh6/average_polish_breakfast_source_i_am_polish/](https://www.reddit.com/r/poland/comments/z7nvh6/average_polish_breakfast_source_i_am_polish/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 08:24:13+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/poland/comments/z7nvh6/average_polish_breakfast_source_i_am_polish/"> <img alt="Average Polish breakfast (Source: I am Polish)" src="https://preview.redd.it/393xmr4u5w2a1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=741f37293f439f9c5ba5402920b213cac33af7ca" title="Average Polish breakfast (Source: I am Polish)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BoiOfTheMemes"> /u/BoiOfTheMemes </a> &#32; to &#32; <a href="https://www.reddit.com/r/poland/"> r/poland </a> <br /> <span><a href="https://i.redd.it/393xmr4u5w2a1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/poland/comments/z7nvh6/average_polish_breakfast_source_i_am_polish/">[comments]</a></span> </td></tr></table>
+
+## Takiego bohatera dziś napotkałem
+ - [https://www.reddit.com/r/Polska/comments/z7nq1u/takiego_bohatera_dziś_napotkałem/](https://www.reddit.com/r/Polska/comments/z7nq1u/takiego_bohatera_dziś_napotkałem/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 08:16:14+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Polska/comments/z7nq1u/takiego_bohatera_dziś_napotkałem/"> <img alt="Takiego bohatera dziś napotkałem" src="https://preview.redd.it/amvio5vvmu2a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9f33c9fb992eaa5c106c1d59f35414462deee0e2" title="Takiego bohatera dziś napotkałem" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/morel_shitburg"> /u/morel_shitburg </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska/"> r/Polska </a> <br /> <span><a href="https://i.redd.it/amvio5vvmu2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska/comments/z7nq1u/takiego_bohatera_dziś_napotkałem/">[comments]</a></span> </td></tr></table>
+
+## (CBT 1) Sideways view of Steampunk City, possibly Fontaine?
+ - [https://www.reddit.com/r/Genshin_Impact_Leaks/comments/z7njwk/cbt_1_sideways_view_of_steampunk_city_possibly/](https://www.reddit.com/r/Genshin_Impact_Leaks/comments/z7njwk/cbt_1_sideways_view_of_steampunk_city_possibly/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 08:07:34+00:00
+ - tags: None
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/AntiqueFun1652"> /u/AntiqueFun1652 </a> &#32; to &#32; <a href="https://www.reddit.com/r/Genshin_Impact_Leaks/"> r/Genshin_Impact_Leaks </a> <br /> <span><a href="https://v.redd.it/s7127q7clu2a1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Genshin_Impact_Leaks/comments/z7njwk/cbt_1_sideways_view_of_steampunk_city_possibly/">[comments]</a></span>
+
+## Moroccans riots in Belgiums capita after defeating them in the world cup
+ - [https://www.reddit.com/r/europe/comments/z7n6sz/moroccans_riots_in_belgiums_capita_after/](https://www.reddit.com/r/europe/comments/z7n6sz/moroccans_riots_in_belgiums_capita_after/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 07:48:45+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/europe/comments/z7n6sz/moroccans_riots_in_belgiums_capita_after/"> <img alt="Moroccans riots in Belgiums capita after defeating them in the world cup" src="https://preview.redd.it/acqfjuiizv2a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e4fa0c9dadc907eb9ef2eb22709bb75703921c35" title="Moroccans riots in Belgiums capita after defeating them in the world cup" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Historical-Ride445"> /u/Historical-Ride445 </a> &#32; to &#32; <a href="https://www.reddit.com/r/europe/"> r/europe </a> <br /> <span><a href="https://i.redd.it/acqfjuiizv2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/europe/comments/z7n6sz/moroccans_riots_in_belgiums_capita_after/">[comments]</a></span> </td></tr></table>
+
+## A na koniec tej Ukraince wyrosły skrzydła i odleciała
+ - [https://www.reddit.com/r/Polska/comments/z7mz3v/a_na_koniec_tej_ukraince_wyrosły_skrzydła_i/](https://www.reddit.com/r/Polska/comments/z7mz3v/a_na_koniec_tej_ukraince_wyrosły_skrzydła_i/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 07:37:07+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Polska/comments/z7mz3v/a_na_koniec_tej_ukraince_wyrosły_skrzydła_i/"> <img alt="A na koniec tej Ukraince wyrosły skrzydła i odleciała" src="https://preview.redd.it/zp0iy1vo8u2a1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6acca249d4b7da183cd14dd4feb9624429b667cb" title="A na koniec tej Ukraince wyrosły skrzydła i odleciała" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/spicychampionship"> /u/spicychampionship </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska/"> r/Polska </a> <br /> <span><a href="https://i.redd.it/zp0iy1vo8u2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska/comments/z7mz3v/a_na_koniec_tej_ukraince_wyrosły_skrzydła_i/">[comments]</a></span> </td></tr></table>
+
+## I found this in a Hungarian hotel, and its just too relatable
+ - [https://www.reddit.com/r/ProgrammerHumor/comments/z7mo7l/i_found_this_in_a_hungarian_hotel_and_its_just/](https://www.reddit.com/r/ProgrammerHumor/comments/z7mo7l/i_found_this_in_a_hungarian_hotel_and_its_just/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 07:20:13+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ProgrammerHumor/comments/z7mo7l/i_found_this_in_a_hungarian_hotel_and_its_just/"> <img alt="I found this in a Hungarian hotel, and its just too relatable" src="https://preview.redd.it/k6cfxjyeuv2a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=be0d16fd7d893780733202c5095ff7d1f1fde913" title="I found this in a Hungarian hotel, and its just too relatable" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/johnystecker"> /u/johnystecker </a> &#32; to &#32; <a href="https://www.reddit.com/r/ProgrammerHumor/"> r/ProgrammerHumor </a> <br /> <span><a href="https://i.redd.it/k6cfxjyeuv2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ProgrammerHumor/comments/z7mo7l/i_found_this_in_a_hungarian_hotel_and_its_just/">[comments]</a></span> </td></tr></table>
+
+## what are your favourite osu! player quotes?
+ - [https://www.reddit.com/r/osugame/comments/z7mnz3/what_are_your_favourite_osu_player_quotes/](https://www.reddit.com/r/osugame/comments/z7mnz3/what_are_your_favourite_osu_player_quotes/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 07:19:53+00:00
+ - tags: None
+
+<!-- SC_OFF --><div class="md"><p>I will go first.</p> <p>Every map is a farm map if you're good enough. ~Ryuk &quot;Kwan&quot; grindset guy</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rii_osu"> /u/rii_osu </a> &#32; to &#32; <a href="https://www.reddit.com/r/osugame/"> r/osugame </a> <br /> <span><a href="https://www.reddit.com/r/osugame/comments/z7mnz3/what_are_your_favourite_osu_player_quotes/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/osugame/comments/z7mnz3/what_are_your_favourite_osu_player_quotes/">[comments]</a></span>
+
+## My keyboard broke, so I had to bring out the big guns...
+ - [https://www.reddit.com/r/pcmasterrace/comments/z7mafe/my_keyboard_broke_so_i_had_to_bring_out_the_big/](https://www.reddit.com/r/pcmasterrace/comments/z7mafe/my_keyboard_broke_so_i_had_to_bring_out_the_big/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 06:59:30+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/pcmasterrace/comments/z7mafe/my_keyboard_broke_so_i_had_to_bring_out_the_big/"> <img alt="My keyboard broke, so I had to bring out the big guns..." src="https://preview.redd.it/k83jp6v19u2a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=86bd4b68aa53928678cdc0a2c545eb47b3b16aef" title="My keyboard broke, so I had to bring out the big guns..." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ElegantTobacco"> /u/ElegantTobacco </a> &#32; to &#32; <a href="https://www.reddit.com/r/pcmasterrace/"> r/pcmasterrace </a> <br /> <span><a href="https://i.redd.it/k83jp6v19u2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/pcmasterrace/comments/z7mafe/my_keyboard_broke_so_i_had_to_bring_out_the_big/">[comments]</a></span> </td></tr></table>
+
+## "Aaah i jeszcze zapomniałam dodać że jak wyszła to dostała nową S-klasę"
+ - [https://www.reddit.com/r/ShitKonfaSays/comments/z7m99x/aaah_i_jeszcze_zapomniałam_dodać_że_jak_wyszła_to/](https://www.reddit.com/r/ShitKonfaSays/comments/z7m99x/aaah_i_jeszcze_zapomniałam_dodać_że_jak_wyszła_to/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 06:57:41+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ShitKonfaSays/comments/z7m99x/aaah_i_jeszcze_zapomniałam_dodać_że_jak_wyszła_to/"> <img alt="&quot;Aaah i jeszcze zapomniałam dodać że jak wyszła to dostała nową S-klasę&quot;" src="https://preview.redd.it/zp0iy1vo8u2a1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6acca249d4b7da183cd14dd4feb9624429b667cb" title="&quot;Aaah i jeszcze zapomniałam dodać że jak wyszła to dostała nową S-klasę&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/spicychampionship"> /u/spicychampionship </a> &#32; to &#32; <a href="https://www.reddit.com/r/ShitKonfaSays/"> r/ShitKonfaSays </a> <br /> <span><a href="https://i.redd.it/zp0iy1vo8u2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ShitKonfaSays/comments/z7m99x/aaah_i_jeszcze_zapomniałam_dodać_że_jak_wyszła_to/">[comments]</a></span> </td></tr></table>
+
+## Alleged Challenger coach Neace demotes from D3 to D4 with a 49% WR
+ - [https://www.reddit.com/r/leagueoflegends/comments/z7m513/alleged_challenger_coach_neace_demotes_from_d3_to/](https://www.reddit.com/r/leagueoflegends/comments/z7m513/alleged_challenger_coach_neace_demotes_from_d3_to/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 06:50:59+00:00
+ - tags: None
+
+<!-- SC_OFF --><div class="md"><p><a href="https://www.op.gg/summoners/kr/%EC%A7%80%EB%B6%88%20500500%20%EC%9B%90">https://www.op.gg/summoners/kr/%EC%A7%80%EB%B6%88%20500500%20%EC%9B%90</a></p> <p>Going through his match history itself is equally uninspiring: he lost four out of his first five ranked games in silver-gold lobbies. I firmly believe that no player with genuine Challenger skill, especially not one who's been actively involved with the game for so long, would remotely struggle in that rank bracket.</p> <p>As someone who's watched many Neace videos and really enjoyed his no-bullshit approach to both coaching and the game, I'm so disappointed by this. He has a very fair chance here to silence all the haters and prove beyond any doubt that he's solidly capable of playing and coaching multiple roles at Challenger skill -- and instead, this is the outcome. To me, this account progression just adds to the mountain of evidence that, well, he simply can't perform at that level. Thoughts?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dark-phosphenes"> /u/dark-phosphenes </a> &#32; to &#32; <a href="https://www.reddit.com/r/leagueoflegends/"> r/leagueoflegends </a> <br /> <span><a href="https://www.reddit.com/r/leagueoflegends/comments/z7m513/alleged_challenger_coach_neace_demotes_from_d3_to/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/leagueoflegends/comments/z7m513/alleged_challenger_coach_neace_demotes_from_d3_to/">[comments]</a></span>
+
+## mam nadzieje ze nikt juz tego nie zrobil
+ - [https://www.reddit.com/r/Kosmiczna_Flota/comments/z7lkfi/mam_nadzieje_ze_nikt_juz_tego_nie_zrobil/](https://www.reddit.com/r/Kosmiczna_Flota/comments/z7lkfi/mam_nadzieje_ze_nikt_juz_tego_nie_zrobil/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 06:20:24+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Kosmiczna_Flota/comments/z7lkfi/mam_nadzieje_ze_nikt_juz_tego_nie_zrobil/"> <img alt="mam nadzieje ze nikt juz tego nie zrobil" src="https://external-preview.redd.it/2plVee449NJMwyWBB9_sKUeckGVISjhJY1fjFx2FYb0.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b638fd7cf87eb7dd262589853aeacd7174d3107f" title="mam nadzieje ze nikt juz tego nie zrobil" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Pedka2"> /u/Pedka2 </a> &#32; to &#32; <a href="https://www.reddit.com/r/Kosmiczna_Flota/"> r/Kosmiczna_Flota </a> <br /> <span><a href="https://v.redd.it/tx4htau32u2a1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Kosmiczna_Flota/comments/z7lkfi/mam_nadzieje_ze_nikt_juz_tego_nie_zrobil/">[comments]</a></span> </td></tr></table>
+
+## Ghost hunting gone wrong
+ - [https://www.reddit.com/r/Unexpected/comments/z7lfkk/ghost_hunting_gone_wrong/](https://www.reddit.com/r/Unexpected/comments/z7lfkk/ghost_hunting_gone_wrong/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 06:13:41+00:00
+ - tags: None
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/sex_machine_69"> /u/sex_machine_69 </a> &#32; to &#32; <a href="https://www.reddit.com/r/Unexpected/"> r/Unexpected </a> <br /> <span><a href="https://v.redd.it/jf7any4x0u2a1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Unexpected/comments/z7lfkk/ghost_hunting_gone_wrong/">[comments]</a></span>
+
+## Aaron Swartz Co-Founder of Reddit was charged with stealing millions of scientific journals from a computer archive at the Massachusetts Institute of Technology in an attempt to make them freely available.
+ - [https://www.reddit.com/r/Damnthatsinteresting/comments/z7leb7/aaron_swartz_cofounder_of_reddit_was_charged_with/](https://www.reddit.com/r/Damnthatsinteresting/comments/z7leb7/aaron_swartz_cofounder_of_reddit_was_charged_with/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 06:11:49+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Damnthatsinteresting/comments/z7leb7/aaron_swartz_cofounder_of_reddit_was_charged_with/"> <img alt="Aaron Swartz Co-Founder of Reddit was charged with stealing millions of scientific journals from a computer archive at the Massachusetts Institute of Technology in an attempt to make them freely available." src="https://preview.redd.it/phy5hrz7iv2a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a9566adc6f14d69c965566fc7296584fa2cbb193" title="Aaron Swartz Co-Founder of Reddit was charged with stealing millions of scientific journals from a computer archive at the Massachusetts Institute of Technology in an attempt to make them freely available." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CryptoIsThePlan"> /u/CryptoIsThePlan </a> &#32; to &#32; <a href="https://www.reddit.com/r/Damnthatsinteresting/"> r/Damnthatsinteresting </a> <br /> <span><a href="https://i.redd.it/phy5hrz7iv2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Damnthatsinteresting/comments/z7leb7/aaron_swartz_cofounder_of_reddit_was_charged_with/">[comments]</a></span> </td></tr></table>
+
+## Projekt dofinansowany w konkursie ministra rodziny i polityki społecznej.
+ - [https://www.reddit.com/r/Polska/comments/z7ldmq/projekt_dofinansowany_w_konkursie_ministra/](https://www.reddit.com/r/Polska/comments/z7ldmq/projekt_dofinansowany_w_konkursie_ministra/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 06:10:47+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Polska/comments/z7ldmq/projekt_dofinansowany_w_konkursie_ministra/"> <img alt="Projekt dofinansowany w konkursie ministra rodziny i polityki społecznej." src="https://external-preview.redd.it/cD4HwDAMZ-tJwrsZMLwrdPjWS2-vA9z1COUaWBa9zvI.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=beacf9aa4e3fa978502c1922e70c3a853cb5dbd9" title="Projekt dofinansowany w konkursie ministra rodziny i polityki społecznej." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sylykonrydel"> /u/Sylykonrydel </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska/"> r/Polska </a> <br /> <span><a href="https://twitter.com/CywilizacjaZ/status/1597361576238993408">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska/comments/z7ldmq/projekt_dofinansowany_w_konkursie_ministra/">[comments]</a></span> </td></tr></table>
+
+## Delicate work
+ - [https://www.reddit.com/r/comics/comments/z7l7pt/delicate_work/](https://www.reddit.com/r/comics/comments/z7l7pt/delicate_work/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 06:02:25+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/comics/comments/z7l7pt/delicate_work/"> <img alt="Delicate work" src="https://preview.redd.it/ok332efpyt2a1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7f5c4ec93cc9388e1a1c42706db74d49f5baaf69" title="Delicate work" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/portsherry"> /u/portsherry </a> &#32; to &#32; <a href="https://www.reddit.com/r/comics/"> r/comics </a> <br /> <span><a href="https://i.redd.it/ok332efpyt2a1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/comics/comments/z7l7pt/delicate_work/">[comments]</a></span> </td></tr></table>
+
+## I do not like memes.
+ - [https://www.reddit.com/r/shitposting/comments/z7kudq/i_do_not_like_memes/](https://www.reddit.com/r/shitposting/comments/z7kudq/i_do_not_like_memes/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 05:43:37+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/shitposting/comments/z7kudq/i_do_not_like_memes/"> <img alt="I do not like memes." src="https://preview.redd.it/7kowtqs6dv2a1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=676fb1ed093b36d83f25a666b82d0b5332d2c42d" title="I do not like memes." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LiteBrightKite"> /u/LiteBrightKite </a> &#32; to &#32; <a href="https://www.reddit.com/r/shitposting/"> r/shitposting </a> <br /> <span><a href="https://i.redd.it/7kowtqs6dv2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/shitposting/comments/z7kudq/i_do_not_like_memes/">[comments]</a></span> </td></tr></table>
+
+## Subreddit gada o O***y, dokładnie to co ten typek próbował osiągnąć
+ - [https://www.reddit.com/r/Polska_wpz/comments/z7ks02/subreddit_gada_o_oy_dokładnie_to_co_ten_typek/](https://www.reddit.com/r/Polska_wpz/comments/z7ks02/subreddit_gada_o_oy_dokładnie_to_co_ten_typek/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 05:40:05+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Polska_wpz/comments/z7ks02/subreddit_gada_o_oy_dokładnie_to_co_ten_typek/"> <img alt="Subreddit gada o O***y, dokładnie to co ten typek próbował osiągnąć" src="https://preview.redd.it/i0c5ylpjcv2a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=60253e1a07a5d76be4e5c9a95f06c992b32e54b5" title="Subreddit gada o O***y, dokładnie to co ten typek próbował osiągnąć" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sikora2009"> /u/sikora2009 </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska_wpz/"> r/Polska_wpz </a> <br /> <span><a href="https://i.redd.it/i0c5ylpjcv2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska_wpz/comments/z7ks02/subreddit_gada_o_oy_dokładnie_to_co_ten_typek/">[comments]</a></span> </td></tr></table>
+
+## Cozy sheets
+ - [https://www.reddit.com/r/memes/comments/z7jftd/cozy_sheets/](https://www.reddit.com/r/memes/comments/z7jftd/cozy_sheets/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 04:33:32+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/memes/comments/z7jftd/cozy_sheets/"> <img alt="Cozy sheets" src="https://preview.redd.it/caknm3oo0v2a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3d28c97f5fd0c39a149b001c83b2cab9a10c8f2d" title="Cozy sheets" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Blue-Opal-Art"> /u/Blue-Opal-Art </a> &#32; to &#32; <a href="https://www.reddit.com/r/memes/"> r/memes </a> <br /> <span><a href="https://i.redd.it/caknm3oo0v2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/memes/comments/z7jftd/cozy_sheets/">[comments]</a></span> </td></tr></table>
+
+## Gentle(wo)man, Please do tell
+ - [https://www.reddit.com/r/teenagers/comments/z7j38a/gentlewoman_please_do_tell/](https://www.reddit.com/r/teenagers/comments/z7j38a/gentlewoman_please_do_tell/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 04:16:49+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/teenagers/comments/z7j38a/gentlewoman_please_do_tell/"> <img alt="Gentle(wo)man, Please do tell" src="https://preview.redd.it/o3jvq1moxu2a1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b9fdcac3ae3cd200b7162d7f0a93248f6a8d6389" title="Gentle(wo)man, Please do tell" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HelLios01"> /u/HelLios01 </a> &#32; to &#32; <a href="https://www.reddit.com/r/teenagers/"> r/teenagers </a> <br /> <span><a href="https://i.redd.it/o3jvq1moxu2a1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/teenagers/comments/z7j38a/gentlewoman_please_do_tell/">[comments]</a></span> </td></tr></table>
+
+## The standard of dress for adults in North America is way too casual.
+ - [https://www.reddit.com/r/unpopularopinion/comments/z7i0rx/the_standard_of_dress_for_adults_in_north_america/](https://www.reddit.com/r/unpopularopinion/comments/z7i0rx/the_standard_of_dress_for_adults_in_north_america/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 03:27:12+00:00
+ - tags: None
+
+<!-- SC_OFF --><div class="md"><p>The casualization of the Western wardrobe has been going on for decades, and I definitely am not suggesting some sort of return to 1900-1950's fashion where you have to wear a suit or long dress every day.</p> <p>However, the hyper-casual nature of post-2019 fashion is going way too far imo. I think it's a real shame that adults have regressed our standards to match those of children/teenagers. If you're 30+, you shouldn't be wearing the same things as a 13yo.</p> <p>It's now commonplace for people to wear street clothes into work. I see teachers at school wearing jeans and a t-shirt, people showing up to an office in a hoodie and distressed denim, and wearing beanies and caps indoors. You go to a public building like the mall, library, museum, etc. and you'll find people in pajamas!</p> <p>I would strongly encourage anyone (especially if you're over ~25-30) to reflect upon your wardrobe and the message you're projecting.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/UTMachine"> /u/UTMachine </a> &#32; to &#32; <a href="https://www.reddit.com/r/unpopularopinion/"> r/unpopularopinion </a> <br /> <span><a href="https://www.reddit.com/r/unpopularopinion/comments/z7i0rx/the_standard_of_dress_for_adults_in_north_america/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/unpopularopinion/comments/z7i0rx/the_standard_of_dress_for_adults_in_north_america/">[comments]</a></span>
+
+## Unexpectedly wholesome
+ - [https://www.reddit.com/r/wholesomememes/comments/z7h09x/unexpectedly_wholesome/](https://www.reddit.com/r/wholesomememes/comments/z7h09x/unexpectedly_wholesome/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 02:42:06+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/wholesomememes/comments/z7h09x/unexpectedly_wholesome/"> <img alt="Unexpectedly wholesome" src="https://preview.redd.it/24p2y6d8zs2a1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=92747305c518febfcca2a09bcfde36975b21214e" title="Unexpectedly wholesome" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FinishedToxicity"> /u/FinishedToxicity </a> &#32; to &#32; <a href="https://www.reddit.com/r/wholesomememes/"> r/wholesomememes </a> <br /> <span><a href="https://i.redd.it/24p2y6d8zs2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/wholesomememes/comments/z7h09x/unexpectedly_wholesome/">[comments]</a></span> </td></tr></table>
+
+## Tyler Adams (US Captain at World Cup) response when asked by an Iranian why he plays for a country that discriminates against black people
+ - [https://www.reddit.com/r/interestingasfuck/comments/z7h027/tyler_adams_us_captain_at_world_cup_response_when/](https://www.reddit.com/r/interestingasfuck/comments/z7h027/tyler_adams_us_captain_at_world_cup_response_when/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 02:41:49+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/z7h027/tyler_adams_us_captain_at_world_cup_response_when/"> <img alt="Tyler Adams (US Captain at World Cup) response when asked by an Iranian why he plays for a country that discriminates against black people" src="https://external-preview.redd.it/KQE1Xe2UOLdCL8okBLOlL5Zjed8iUfSHDSesa4pMqD4.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=80be7b676ca3c7e6d1d2b6941c483ad32bbe6b09" title="Tyler Adams (US Captain at World Cup) response when asked by an Iranian why he plays for a country that discriminates against black people" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Negative-Echo"> /u/Negative-Echo </a> &#32; to &#32; <a href="https://www.reddit.com/r/interestingasfuck/"> r/interestingasfuck </a> <br /> <span><a href="https://v.redd.it/fsc9qzi0zs2a1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/z7h027/tyler_adams_us_captain_at_world_cup_response_when/">[comments]</a></span> </td></tr></table>
+
+## I know the word but I don't want to say it
+ - [https://www.reddit.com/r/dankmemes/comments/z7gyc7/i_know_the_word_but_i_dont_want_to_say_it/](https://www.reddit.com/r/dankmemes/comments/z7gyc7/i_know_the_word_but_i_dont_want_to_say_it/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 02:39:37+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/dankmemes/comments/z7gyc7/i_know_the_word_but_i_dont_want_to_say_it/"> <img alt="I know the word but I don't want to say it" src="https://preview.redd.it/yii1u2iqys2a1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=45ac3bb3c06561e9f70707c3963b6ff40c6f676b" title="I know the word but I don't want to say it" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LichPineapple"> /u/LichPineapple </a> &#32; to &#32; <a href="https://www.reddit.com/r/dankmemes/"> r/dankmemes </a> <br /> <span><a href="https://i.redd.it/yii1u2iqys2a1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/dankmemes/comments/z7gyc7/i_know_the_word_but_i_dont_want_to_say_it/">[comments]</a></span> </td></tr></table>
+
+## So, before we get to probably see the next mythic skin tomorrow, which hero do y'all think is getting it?
+ - [https://www.reddit.com/r/Overwatch/comments/z7gioo/so_before_we_get_to_probably_see_the_next_mythic/](https://www.reddit.com/r/Overwatch/comments/z7gioo/so_before_we_get_to_probably_see_the_next_mythic/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 02:20:23+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Overwatch/comments/z7gioo/so_before_we_get_to_probably_see_the_next_mythic/"> <img alt="So, before we get to probably see the next mythic skin tomorrow, which hero do y'all think is getting it?" src="https://preview.redd.it/bnt8uz6xcu2a1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=84928ae450c713ee27559a4d07cbc1a2d978ae11" title="So, before we get to probably see the next mythic skin tomorrow, which hero do y'all think is getting it?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kaivory_"> /u/kaivory_ </a> &#32; to &#32; <a href="https://www.reddit.com/r/Overwatch/"> r/Overwatch </a> <br /> <span><a href="https://i.redd.it/bnt8uz6xcu2a1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Overwatch/comments/z7gioo/so_before_we_get_to_probably_see_the_next_mythic/">[comments]</a></span> </td></tr></table>
+
+## Her intelligence score is 5 which coincidentally is the number of pieces the goblin is in
+ - [https://www.reddit.com/r/dndmemes/comments/z7fmoj/her_intelligence_score_is_5_which_coincidentally/](https://www.reddit.com/r/dndmemes/comments/z7fmoj/her_intelligence_score_is_5_which_coincidentally/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 01:42:04+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/dndmemes/comments/z7fmoj/her_intelligence_score_is_5_which_coincidentally/"> <img alt="Her intelligence score is 5 which coincidentally is the number of pieces the goblin is in" src="https://preview.redd.it/4zysc5b0os2a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=abe6f4e7b3c2a64b1f4982808fbf27cfc706c9af" title="Her intelligence score is 5 which coincidentally is the number of pieces the goblin is in" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bereved"> /u/bereved </a> &#32; to &#32; <a href="https://www.reddit.com/r/dndmemes/"> r/dndmemes </a> <br /> <span><a href="https://i.redd.it/4zysc5b0os2a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/dndmemes/comments/z7fmoj/her_intelligence_score_is_5_which_coincidentally/">[comments]</a></span> </td></tr></table>
+
+## In meteorite, Alberta researchers discover 2 minerals never before seen on Earth
+ - [https://www.reddit.com/r/worldnews/comments/z7fm6u/in_meteorite_alberta_researchers_discover_2/](https://www.reddit.com/r/worldnews/comments/z7fm6u/in_meteorite_alberta_researchers_discover_2/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 01:41:30+00:00
+ - tags: None
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/DonSalaam"> /u/DonSalaam </a> &#32; to &#32; <a href="https://www.reddit.com/r/worldnews/"> r/worldnews </a> <br /> <span><a href="https://globalnews.ca/news/9309682/alberta-2-new-minerals-meteorite-somalia/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/z7fm6u/in_meteorite_alberta_researchers_discover_2/">[comments]</a></span>
+
+## Be more creative please
+ - [https://www.reddit.com/r/whenthe/comments/z7etbs/be_more_creative_please/](https://www.reddit.com/r/whenthe/comments/z7etbs/be_more_creative_please/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-11-29 01:05:46+00:00
+ - tags: None
+
+<table> <tr><td> <a href="https://www.reddit.com/r/whenthe/comments/z7etbs/be_more_creative_please/"> <img alt="Be more creative please" src="https://preview.redd.it/ob91q1fyhs2a1.gif?width=640&amp;crop=smart&amp;s=968690743918fef41aed519eadadec3ca762e3d7" title="Be more creative please" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Go_commit_persona3"> /u/Go_commit_persona3 </a> &#32; to &#32; <a href="https://www.reddit.com/r/whenthe/"> r/whenthe </a> <br /> <span><a href="https://i.redd.it/ob91q1fyhs2a1.gif">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/whenthe/comments/z7etbs/be_more_creative_please/">[comments]</a></span> </td></tr></table>

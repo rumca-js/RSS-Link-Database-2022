@@ -1,0 +1,33 @@
+# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/
+
+## Technology Campaigner Sues Meta in London High Court Over Facebook Ads
+ - [https://www.theepochtimes.com/technology-campaigner-sues-meta-in-london-high-court-over-facebook-ads_4876080.html](https://www.theepochtimes.com/technology-campaigner-sues-meta-in-london-high-court-over-facebook-ads_4876080.html)
+ - RSS feed: https://www.theepochtimes.com/c-tech/feed/
+ - date published: 2022-11-21 12:56:02+00:00
+ - tags: None
+
+The Meta logo and Facebook's logo on a smartphone screen. (Kirill Kudryavtsev/AFP via Getty Images)
+
+## Elon Musk’s Twitter Restores Account of Investigative Reporting Group Project Veritas
+ - [https://www.theepochtimes.com/elon-musks-twitter-restores-account-of-investigative-reporting-group-project-veritas_4876092.html](https://www.theepochtimes.com/elon-musks-twitter-restores-account-of-investigative-reporting-group-project-veritas_4876092.html)
+ - RSS feed: https://www.theepochtimes.com/c-tech/feed/
+ - date published: 2022-11-21 11:44:16+00:00
+ - tags: None
+
+James O’Keefe, founder and president of Project Veritas, at their office in Mamaroneck, N.Y., on Oct. 31, 2017. (Benjamin Chasteen/The Epoch Times)
+
+## Hackers Gain Control of LED Billboard for Minutes to Post Racy Images
+ - [https://www.theepochtimes.com/hackers-gain-control-of-led-billboard-for-minutes-to-post-racy-images_4875860.html](https://www.theepochtimes.com/hackers-gain-control-of-led-billboard-for-minutes-to-post-racy-images_4875860.html)
+ - RSS feed: https://www.theepochtimes.com/c-tech/feed/
+ - date published: 2022-11-21 11:00:03+00:00
+ - tags: None
+
+An engineering student takes part in a hacking challenge near Paris on March 16, 2013. (AFP via Getty Images/Thomas Samson)
+
+## YouTube Ads Are Funding Beijing’s Overseas Push to Change Hearts and Minds: Report
+ - [https://www.theepochtimes.com/youtube-ads-are-funding-beijings-overseas-push-to-change-hearts-and-minds-report_4873567.html](https://www.theepochtimes.com/youtube-ads-are-funding-beijings-overseas-push-to-change-hearts-and-minds-report_4873567.html)
+ - RSS feed: https://www.theepochtimes.com/c-tech/feed/
+ - date published: 2022-11-21 00:24:08+00:00
+ - tags: None
+
+The ASPI report examined 1,741 videos on 18 increasingly popular YouTube accounts of influencers from regions of Xinjiang, Tibet, and Inner Mongolia. (ASPI)
