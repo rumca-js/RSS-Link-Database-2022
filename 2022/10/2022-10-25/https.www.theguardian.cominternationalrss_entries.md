@@ -1,0 +1,9 @@
+# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss
+
+## How Rishi Sunak became prime minister: three days in three minutes – video
+ - [https://www.theguardian.com/politics/video/2022/oct/25/how-rishi-sunak-became-prime-minister-three-days-in-three-minutes-video](https://www.theguardian.com/politics/video/2022/oct/25/how-rishi-sunak-became-prime-minister-three-days-in-three-minutes-video)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-10-25 13:22:18+00:00
+ - tags: None
+
+<p>Sunak became Britain's prime minister on Tuesday, seven weeks after Liz Truss took over the reins from Boris Johnson. Truss tendered her resignation to King Charles at Buckingham Palace, and Sunak visited the monarch shortly after for confirmation of his appointment. The new prime minister then returned to Downing Street where he gave his first speech as leader. From Johnson's shock exit from the Tory leadership race to Sunak entering No 10, the Guardian recaps the three days that mark the beginning of the Sunak era</p><ul><li><a href="https://www.theguardian.com/politics/live/2022/oct/25/uk-politics-live-sunak-to-meet-king-charles-and-give-first-address-to-the-nation-as-pm#maincontent">UK politics – live updates</a></li><li><a href="https://www.theguardian.com/politics/2022/oct/25/liz-truss-final-speech-lays-down-gauntlet-rishi-sunak-uk-prime-minister">‘Be bold’: Liz Truss lays down gauntlet to Rishi Sunak in final speech as UK prime minister</a><br /></li></ul> <a href="https://www.theguardian.com/politics/video/2022/oct/25/how-rishi-sunak-became-prime-minister-three-days-in-three-minutes-video">Continue reading...</a>
