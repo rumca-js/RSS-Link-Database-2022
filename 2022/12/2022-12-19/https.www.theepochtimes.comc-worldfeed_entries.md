@@ -1,0 +1,330 @@
+# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
+
+## Unvaccinated Worker Denied Employment Insurance for Jab Refusal Wins Tribunal Appeal
+ - [https://www.theepochtimes.com/unvaccinated-worker-denied-employment-insurance-for-jab-refusal-wins-tribunal-appeal_4934003.html](https://www.theepochtimes.com/unvaccinated-worker-denied-employment-insurance-for-jab-refusal-wins-tribunal-appeal_4934003.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 23:57:18+00:00
+
+A COVID-19 vaccine is prepared to be administered at a hospital in Toronto on Monday, Dec. 14, 2020. (Frank Gunn/The Canadian Press)
+
+## AB Premier Appoints MLA Tracy Allard as Parliamentary Secretary for Civil Liberties
+ - [https://www.theepochtimes.com/ab-premier-appoints-mla-tracy-allard-as-parliamentary-secretary-for-civil-liberties_4933887.html](https://www.theepochtimes.com/ab-premier-appoints-mla-tracy-allard-as-parliamentary-secretary-for-civil-liberties_4933887.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 23:54:33+00:00
+
+Alberta Premier Danielle Smith, along with cabinet ministers, speaks at a press conference after members were sworn into cabinet in Edmonton on Oct. 24, 2022. (Jason Franson/The Canadian Press)
+
+## Ottawa Hasn’t Been Upfront in Past About China Risks for Businesses: Joly
+ - [https://www.theepochtimes.com/ottawa-hasnt-been-upfront-in-past-about-china-risks-for-businesses-joly_4934025.html](https://www.theepochtimes.com/ottawa-hasnt-been-upfront-in-past-about-china-risks-for-businesses-joly_4934025.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 23:40:02+00:00
+
+Canada's Foreign Minister Melanie Joly attends the second day of the meeting of NATO Ministers of Foreign Affairs in Bucharest, Romania on Nov. 30, 2022. (The Canadian Press/AP, Andreea Alexandru)
+
+## No Governance Committee Actively Monitoring Procurement Activities at Heritage Department: Audit Report
+ - [https://www.theepochtimes.com/no-governance-committee-actively-monitoring-procurement-activities-audit-report-on-heritage-department_4933966.html](https://www.theepochtimes.com/no-governance-committee-actively-monitoring-procurement-activities-audit-report-on-heritage-department_4933966.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 23:31:00+00:00
+
+Minister of Canadian Heritage Pablo Rodriguez prepares to appear before the Senate Committee in Ottawa on Nov. 22, 2022. (Justin Tang/The Canadian Press)
+
+## Alleged Toronto-Area Condo Shooter Believed Board Conspired to Murder Him: Docs
+ - [https://www.theepochtimes.com/alleged-toronto-area-condo-shooter-believed-board-conspired-to-murder-him-docs_4933996.html](https://www.theepochtimes.com/alleged-toronto-area-condo-shooter-believed-board-conspired-to-murder-him-docs_4933996.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 23:28:45+00:00
+
+Special Investigations Unit spokesperson Kristy Denette speaks to the media during a press conference the day after a shooting in Vaughan, Ont., on Dec.19, 2022.  (The Canadian Press/Arlyn McAdorey)
+
+## Police Hope to Resume Land Where Officers Were Ambushed, Killed
+ - [https://www.theepochtimes.com/police-hope-to-resume-land-where-officers-were-ambushed-killed_4933923.html](https://www.theepochtimes.com/police-hope-to-resume-land-where-officers-were-ambushed-killed_4933923.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 22:56:32+00:00
+
+Tributes are seen at Tara Police Station in Tara, Queensland, Australia on Dec. 14, 2022. Police have shot dead three people at a remote property on Queensland's Darling Downs after an ambush in which two officers and a bystander were killed. (AAP Image/Jason O’Brien)
+
+## Three of the Shooting Victims in Vaughan Were Condo Board Members
+ - [https://www.theepochtimes.com/three-of-the-shooting-victims-in-vaughan-were-condo-board-members_4933559.html](https://www.theepochtimes.com/three-of-the-shooting-victims-in-vaughan-were-condo-board-members_4933559.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 21:33:18+00:00
+
+York Regional Police tactical officers attend the scene of a shooting in Vaughan, Ont., Dec. 18, 2022. Police say multiple people are dead, including the suspect, after a shooting in an apartment building. (The Canadian Press/Arlyn McAdorey)
+
+## Rival Literary Union Attracts Members After Society of Authors Accused of Neglecting Free Speech Rights
+ - [https://www.theepochtimes.com/rival-literary-union-set-up-after-society-of-authors-accused-of-neglecting-free-speech-rights_4932442.html](https://www.theepochtimes.com/rival-literary-union-set-up-after-society-of-authors-accused-of-neglecting-free-speech-rights_4932442.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 21:15:29+00:00
+
+A general view of a collection of Penguin books on display. (Ben Pruchnie/Getty Images)
+
+## Resident at Vaughan Condo Says Suspect in Deadly Shooting Had Dispute With Board Members
+ - [https://www.theepochtimes.com/resident-at-vaughan-condo-says-dispute-with-board-members-led-to-fatal-shooting_4933155.html](https://www.theepochtimes.com/resident-at-vaughan-condo-says-dispute-with-board-members-led-to-fatal-shooting_4933155.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 21:00:40+00:00
+
+York Regional Police vehicles were seen parked at a condominium at 9235 Jane Street, in Vaughan on Dec. 19. A deadly shooting occurred at the condo on Dec. 18, leaving five people dead, including the suspect. (Andrew Chen/The Epoch Times)
+
+## Ontario Student Suspended Amid Protest Against Transgender Students in Girls’ Washroom
+ - [https://www.theepochtimes.com/ontario-student-suspended-amid-protest-of-transgender-students-in-girls-washroom_4932712.html](https://www.theepochtimes.com/ontario-student-suspended-amid-protest-of-transgender-students-in-girls-washroom_4932712.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 20:41:38+00:00
+
+Josh Alexander, a grade-11 student at St. Joseph's High School in Renfew, Ont. (Courtesy of Josh Alexander)
+
+## Child Care Costs to Be Cut by 50 percent in Ontario by Year-End
+ - [https://www.theepochtimes.com/child-care-costs-to-be-cut-by-50-percent-in-ontario-by-year-end_4933085.html](https://www.theepochtimes.com/child-care-costs-to-be-cut-by-50-percent-in-ontario-by-year-end_4933085.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 20:35:34+00:00
+
+Canadian Prime Minister Justin Trudeau, back centre, plays with children in a daycare centre after reaching an agreement on $10-a-day child-care with Ontario Premier Doug Ford, not pictured, in Brampton, Ont., on March 28, 2022. (Nathan Denette/The Canadian Press)
+
+## Peter Stockland: The True Magic of Christmas
+ - [https://www.theepochtimes.com/peter-stockland-the-true-magic-of-christmas_4932977.html](https://www.theepochtimes.com/peter-stockland-the-true-magic-of-christmas_4932977.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 20:22:31+00:00
+
+Christmas lights around a nativity scene in Place Royale in old historic Quebec City, in a file photo. (The Canadian Press/Jacques Boissinot)
+
+## BC Judge to Decide If Class-Action Lawsuit Against Pandemic Health Orders Will Proceed
+ - [https://www.theepochtimes.com/bc-judge-to-decide-if-class-action-lawsuit-against-pandemic-health-orders-will-proceed_4933268.html](https://www.theepochtimes.com/bc-judge-to-decide-if-class-action-lawsuit-against-pandemic-health-orders-will-proceed_4933268.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 20:17:09+00:00
+
+Signage for a COVID-19 screening centre is pictured at Vancouver International Airport in Richmond, B.C. Feb.19, 2021. (The Canadian Press/Jonathan Hayward)
+
+## Officials Hail ‘Christmas Miracle’ as Bulk of $120 Million Diamond Heist Recovered in Germany
+ - [https://www.theepochtimes.com/officials-hail-christmas-miracle-as-bulk-of-120-million-diamond-heist-recovered-in-germany_4933272.html](https://www.theepochtimes.com/officials-hail-christmas-miracle-as-bulk-of-120-million-diamond-heist-recovered-in-germany_4933272.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 20:06:09+00:00
+
+A general view of Green Vault city palace, unique historic museum that contains the largest collection of treasures in Europe after a robbery in Dresden, Germany, on Nov. 25, 2019. (Matthias Rietschel/File Photo via Reuters)
+
+## Number of Guns Smuggled Into Canada ‘Unknown’: Federal Briefing Note
+ - [https://www.theepochtimes.com/number-of-guns-smuggled-into-canada-unknown-federal-briefing-note_4933185.html](https://www.theepochtimes.com/number-of-guns-smuggled-into-canada-unknown-federal-briefing-note_4933185.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 19:47:02+00:00
+
+Toronto police announced on December 5, 2022, that they had seized 62 illegal guns as part of an organized crime firearms trafficking bust. (Toronto Police Handout)
+
+## EU Announces Agreement to Reform Europe’s Carbon Market, Cap Natural Gas Prices
+ - [https://www.theepochtimes.com/eu-announces-agreement-to-reform-europes-carbon-market-cap-natural-gas-prices_4933064.html](https://www.theepochtimes.com/eu-announces-agreement-to-reform-europes-carbon-market-cap-natural-gas-prices_4933064.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 19:09:31+00:00
+
+European Union flags flutter outside the EU Commission headquarters in Brussels, Belgium, on June 17, 2022. (Yves Herman/Reuters)
+
+## Russia’s Putin Pays Rare Visit to His Country’s ‘No. 1 Ally’ Belarus
+ - [https://www.theepochtimes.com/russias-putin-pays-rare-visit-to-his-countrys-no-1-ally-belarus_4932613.html](https://www.theepochtimes.com/russias-putin-pays-rare-visit-to-his-countrys-no-1-ally-belarus_4932613.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 17:44:18+00:00
+
+Belarus' President Alexander Lukashenko (L) welcomes his Russian counterpart Vladimir Putin (R) prior to the Collective Security Treaty Organisation (CSTO) summit in Minsk on Nov. 30, 2017. (Mikhail Metzel/AFP via Getty Images)
+
+## TSMC Surpasses Tencent as Highest Value Company in Asia, as Top Chinese Firms Drop From Global 500 Ranking
+ - [https://www.theepochtimes.com/tsmc-surpasses-tencent-as-highest-value-company-in-asia-as-top-chinese-firms-drop-from-global-500-ranking_4932615.html](https://www.theepochtimes.com/tsmc-surpasses-tencent-as-highest-value-company-in-asia-as-top-chinese-firms-drop-from-global-500-ranking_4932615.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 17:30:45+00:00
+
+A man walks past the Beijing Stock Exchange on its first day of trading in Beijing on November 15, 2021. (Photo by WANG Zhao / AFP) (Photo by WANG ZHAO/AFP via Getty Images)
+
+## Ottawa to Attempt Confiscating Russian Oligarch Assets, a First in Sanctions Regime
+ - [https://www.theepochtimes.com/ottawa-to-attempt-confiscating-russian-oligarch-assets-a-first-in-sanctions-regime_4932854.html](https://www.theepochtimes.com/ottawa-to-attempt-confiscating-russian-oligarch-assets-a-first-in-sanctions-regime_4932854.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 17:05:26+00:00
+
+Foreign Affairs Minister Melanie Joly rises during Question Period, in Ottawa, on Nov. 24, 2022. (The Canadian Press/Adrian Wyld)
+
+## CRTC Gets New Chair With Broadcasting Regulator in Spotlight Over Contentious Bills
+ - [https://www.theepochtimes.com/crtc-gets-new-chair-with-broadcasting-regulator-in-spotlight-over-contentious-bills_4932840.html](https://www.theepochtimes.com/crtc-gets-new-chair-with-broadcasting-regulator-in-spotlight-over-contentious-bills_4932840.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 17:02:15+00:00
+
+Minister of Canadian Heritage Pablo Rodriguez rises during question period in the House of Commons on Parliament Hill in Ottawa on Oct. 20, 2022. (The Canadian Press/Sean Kilpatrick)
+
+## 2nd Woman Dies After Crush at London Venue During Asake Show
+ - [https://www.theepochtimes.com/2nd-woman-dies-after-crush-at-london-venue-during-asake-show_4932811.html](https://www.theepochtimes.com/2nd-woman-dies-after-crush-at-london-venue-during-asake-show_4932811.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 16:59:39+00:00
+
+Brixton's O2 Academy is cordoned by police off in London on Dec. 16, 2022. (Dan Kitwood/Getty Images)
+
+## China and Russia Set to Hold Joint Naval Drills This Week
+ - [https://www.theepochtimes.com/china-and-russia-set-to-hold-joint-naval-drills-this-week_4932722.html](https://www.theepochtimes.com/china-and-russia-set-to-hold-joint-naval-drills-this-week_4932722.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 16:59:22+00:00
+
+Iranian, Russian, and Chinese warships during a joint military drill in the Indian ocean in an undated file photo. (Iranian Army office/AFP via Getty Images)
+
+## Wind Chill Drops to -40 C in Central BC, Winter Tires Needed on Lower Mainland
+ - [https://www.theepochtimes.com/wind-chill-drops-to-40-c-in-central-bc-winter-tires-needed-on-lower-mainland_4932752.html](https://www.theepochtimes.com/wind-chill-drops-to-40-c-in-central-bc-winter-tires-needed-on-lower-mainland_4932752.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 16:31:49+00:00
+
+A person rides a bike across a road as snow falls in Vancouver, on Dec. 18, 2022. (The Canadian Press/Darryl Dyck)
+
+## Passing of Land Bill Ignites Farmers’ Old Fears of Seizures in South Africa
+ - [https://www.theepochtimes.com/passing-of-land-bill-ignites-farmers-old-fears-of-seizures-in-south-africa_4932614.html](https://www.theepochtimes.com/passing-of-land-bill-ignites-farmers-old-fears-of-seizures-in-south-africa_4932614.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 16:31:46+00:00
+
+South Africa's President Cyril Ramaphosa is poised to sign a Land Expropriation Bill that would allow the government to take land without compensation. Here he speaks at an EU-Africa summit in Brussels, on Feb. 18, 2022. (Johanna Geron, Pool Photo via AP)
+
+## Biodiversity Deal Reached at COP15 Conference to Preserve 30 Percent of Land and Sea
+ - [https://www.theepochtimes.com/biodiversity-deal-reached-at-cop15-conference-to-preserve-30-percent-of-land-and-sea_4932626.html](https://www.theepochtimes.com/biodiversity-deal-reached-at-cop15-conference-to-preserve-30-percent-of-land-and-sea_4932626.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 16:27:26+00:00
+
+Steven Guilbeault, Minister of Environment and Climate Change of Canada, left, shakes hands with Bhupender Yadav, environment minister of India at the COP15 the UN Biodiversity Conference in Montreal on December 18, 2022. (/Graham Hughes/The Canadian Press)
+
+## UK Unions Urged to Guarantee Response to Life-Threatening Emergencies During Ambulance Strikes
+ - [https://www.theepochtimes.com/uk-unions-urged-to-guarantee-response-to-life-threatening-emergencies-during-ambulance-strikes_4932425.html](https://www.theepochtimes.com/uk-unions-urged-to-guarantee-response-to-life-threatening-emergencies-during-ambulance-strikes_4932425.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 16:15:28+00:00
+
+Ambulances at St Thomas' Hospital in London, on Jan. 7, 2022. (Dan Kitwood/Getty Images)
+
+## Ontario Special Investigations Unit Probing Shooting in Vaughan That Left 6 Dead
+ - [https://www.theepochtimes.com/ontario-special-investigations-unit-probing-shooting-in-vaughan-that-left-6-dead_4932445.html](https://www.theepochtimes.com/ontario-special-investigations-unit-probing-shooting-in-vaughan-that-left-6-dead_4932445.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 16:10:40+00:00
+
+York Regional Police tactical officers attend the scene of a shooting in Vaughan, Ont., Dec. 18, 2022. Police say multiple people are dead, including the suspect, after a shooting in an apartment building. (The Canadian Press/Arlyn McAdorey)
+
+## German Business Confidence Brightens More Than Expected
+ - [https://www.theepochtimes.com/german-business-confidence-brightens-more-than-expected_4932411.html](https://www.theepochtimes.com/german-business-confidence-brightens-more-than-expected_4932411.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 15:32:29+00:00
+
+Workers assemble motorcycles on the assembly line at the BMW motorcycle manufacturing plant in Berlin, Germany, on Dec. 19, 2022. (Sean Gallup/Getty Images)
+
+## Thai Navy Ship Capsizes in Storm, Leaving 31 Thai Marines Missing
+ - [https://www.theepochtimes.com/thai-navy-ship-capsizes-in-storm-leaving-31-thai-marines-missing_4932235.html](https://www.theepochtimes.com/thai-navy-ship-capsizes-in-storm-leaving-31-thai-marines-missing_4932235.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 15:02:41+00:00
+
+A Royal Thai navy ship is seen in the Andaman Sea, off Phuket Island in Thailand, on April 22, 2019. (Reuters/Stringer)
+
+## European Unity Breaking as Bloc Announces Ninth Sanctions Package Against Russia
+ - [https://www.theepochtimes.com/european-unity-breaking-as-bloc-announces-ninth-sanctions-package-against-russia_4932372.html](https://www.theepochtimes.com/european-unity-breaking-as-bloc-announces-ninth-sanctions-package-against-russia_4932372.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 14:33:07+00:00
+
+Emergency session of the European parliament in progress in Brussels, Belgium, on Mar. 1, 2022. (European Union/Screenshot via The Epoch Times)
+
+## ‘All-Time Classic’: Former Players Blown Away by Thrilling World Cup Final
+ - [https://www.theepochtimes.com/all-time-classic-former-players-blown-away-by-thrilling-world-cup-final_4932383.html](https://www.theepochtimes.com/all-time-classic-former-players-blown-away-by-thrilling-world-cup-final_4932383.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 13:59:11+00:00
+
+Argentina players celebrate on a bus outside the stadium after winning the World Cup during the FIFA World Cup Qatar 2022, the Final match between Argentina and France, at Lusail Stadium, Lusail, Qatar, on Dec. 19, 2022. (Hamad I Mohammed/Reuters)
+
+## Israeli Government Mysteriously Loses Pfizer Vaccine Agreement That Promised to Share Population’s Data
+ - [https://www.theepochtimes.com/israeli-government-mysteriously-loses-pfizer-vaccine-agreement-that-promised-to-share-populations-data_4931223.html](https://www.theepochtimes.com/israeli-government-mysteriously-loses-pfizer-vaccine-agreement-that-promised-to-share-populations-data_4931223.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 13:43:26+00:00
+
+An Israeli nurse receives a fourth dose of the Pfizer-BioNTech COVID-19 vaccine at the Sheba Medical Center in Ramat Gan near Tel Aviv, on Dec. 27, 2021. (Jack Guez/AFP via Getty Images)
+
+## Henry Kissinger Calls for Peace Talks in Ukraine, Says Leaders Need to Address World Dominated by AI
+ - [https://www.theepochtimes.com/henry-kissinger-calls-for-peace-talks-in-ukraine-says-leaders-need-to-address-world-dominated-by-ai_4932083.html](https://www.theepochtimes.com/henry-kissinger-calls-for-peace-talks-in-ukraine-says-leaders-need-to-address-world-dominated-by-ai_4932083.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 13:05:29+00:00
+
+Former U.S. Secretary of State Henry Kissinger attends a luncheon at the U.S. State Department in Washington, on Dec. 1, 2022. (Roberto Schmidt/AFP via Getty Images)
+
+## North Korea Says It Conducted ‘Final-Stage Test’ of Reconnaissance Satellite
+ - [https://www.theepochtimes.com/north-korea-says-it-conducted-final-stage-test-of-reconnaissance-satellite_4932075.html](https://www.theepochtimes.com/north-korea-says-it-conducted-final-stage-test-of-reconnaissance-satellite_4932075.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 12:52:16+00:00
+
+A TV screen shows a file image of North Korea's military exercise during a news program at the Seoul Railway Station in Seoul, South Korea, on Oct. 14, 2022. (Ahn Young-joon/AP Photo)
+
+## In a First, Turkish Court Arrests Journalist Under ‘Disinformation’ Law
+ - [https://www.theepochtimes.com/in-a-first-turkish-court-arrests-journalist-under-disinformation-law_4925885.html](https://www.theepochtimes.com/in-a-first-turkish-court-arrests-journalist-under-disinformation-law_4925885.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 12:14:15+00:00
+
+File photo of a Turkish national flag. (Birol Bebek/AFP via Getty Images)
+
+## UK High Court Rules in Favour of Government’s Controversial Rwanda Policy, Saying It Is ‘Lawful’
+ - [https://www.theepochtimes.com/uk-high-court-rules-in-favour-of-governments-controversial-rwanda-policy-saying-it-is-lawful_4932163.html](https://www.theepochtimes.com/uk-high-court-rules-in-favour-of-governments-controversial-rwanda-policy-saying-it-is-lawful_4932163.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 11:54:45+00:00
+
+Police officers stand near a plane reported by British media to be first to transport illegal immigrants to Rwanda at MoD Boscombe Down base in Wiltshire, Britain, on June 14, 2022. (Hannah McKay /Reuters)
+
+## UN Ousts Iran From Women’s Rights Panel Amid Anti-Regime Protests
+ - [https://www.theepochtimes.com/un-ousts-iran-from-womens-rights-panel-amid-anti-regime-protests_4931883.html](https://www.theepochtimes.com/un-ousts-iran-from-womens-rights-panel-amid-anti-regime-protests_4931883.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 11:26:16+00:00
+
+Iranians march during a pro-hijab rally in the capital Tehran on Sept. 23, 2022. (AFP via Getty Images)
+
+## Six Dead, Including Suspect, After Shooting in Vaughan, Ont.
+ - [https://www.theepochtimes.com/six-dead-including-suspect-after-shooting-in-vaughan-ont_4932198.html](https://www.theepochtimes.com/six-dead-including-suspect-after-shooting-in-vaughan-ont_4932198.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 10:54:40+00:00
+
+A police officer walks with a weapon after a fatal mass shooting at a condominium building in the Toronto suburb of Vaughan, Ont., on Dec. 19, 2022.  (Reuters/Carlos Osorio)
+
+## Calls for Australia to Adopt US-Style ‘Green Card’ Among Proposals to Rejig Migration System
+ - [https://www.theepochtimes.com/calls-for-australia-to-adopt-us-style-green-card-among-proposals-to-rejig-migration-system_4932015.html](https://www.theepochtimes.com/calls-for-australia-to-adopt-us-style-green-card-among-proposals-to-rejig-migration-system_4932015.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 06:01:38+00:00
+
+A traffic controller stands outside a worksite along George Street in Sydney, Australia, on June 28, 2021. (Lisa Maree Williams/Getty Images)
+
+## Jordan Bans TikTok After Police Officer Killed in Protests
+ - [https://www.theepochtimes.com/jordan-bans-tiktok-after-police-officer-killed-in-protests_4928914.html](https://www.theepochtimes.com/jordan-bans-tiktok-after-police-officer-killed-in-protests_4928914.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 04:55:57+00:00
+
+A locator map for Jordan with its capital, Amman. (AP Photo)
+
+## Four Cows Have Been Captured in a Small Quebec Town After Months on the Loose
+ - [https://www.theepochtimes.com/four-cows-have-been-captured-in-a-small-quebec-town-after-months-on-the-loose_4932018.html](https://www.theepochtimes.com/four-cows-have-been-captured-in-a-small-quebec-town-after-months-on-the-loose_4932018.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 04:52:10+00:00
+
+Cows and their calves graze in a pasture on a farm near Cremona, Alta., June 26, 2019. (The Canadian Press/Jeff McIntosh)
+
+## Moscow Accuses Ottawa of Leading Isolation Effort, Amid Squabble Over Tweets, Summons
+ - [https://www.theepochtimes.com/moscow-accuses-ottawa-of-leading-isolation-effort-amid-squabble-over-tweets-summons_4932008.html](https://www.theepochtimes.com/moscow-accuses-ottawa-of-leading-isolation-effort-amid-squabble-over-tweets-summons_4932008.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 04:49:22+00:00
+
+The flag flies outside the embassy of the Russian Federation to Canada in Ottawa on Mar. 26, 2018. (The Canadian Press/Justin Tang)
+
+## How the Christmas Beetle Plans to Stay Cool During This Hot Holiday Season
+ - [https://www.theepochtimes.com/how-the-christmas-beetle-plans-to-stay-cool-during-this-hot-holiday-season_4925623.html](https://www.theepochtimes.com/how-the-christmas-beetle-plans-to-stay-cool-during-this-hot-holiday-season_4925623.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 03:05:07+00:00
+
+Melbourne University researchers have discovered that the colourful and Australian Christmas beetle may use its hard outer wings or elytra to keep cool under direct sunlight, but not in the expected way. (Image supplied by Laura Ospina-Rozo/ University of Melbourne)
+
+## Wong to Visit China for Diplomatic Talks
+ - [https://www.theepochtimes.com/wong-to-visit-china-for-diplomatic-talks_4931910.html](https://www.theepochtimes.com/wong-to-visit-china-for-diplomatic-talks_4931910.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 02:27:14+00:00
+
+Australian Foreign Minister Penny Wong listens to a question during a joint news conference after the 32nd annual Australia-U.S. Ministerial Consultations at the U.S. State Department in Washington D.C. on Dec. 6, 2022. (Drew Angerer/Getty Images)
+
+## Iconic 1970s Sitcom ‘Happy Days’ Escapes Censorship by Standards Council
+ - [https://www.theepochtimes.com/iconic-1970s-sitcom-happy-days-escapes-censorship-by-standards-council_4931787.html](https://www.theepochtimes.com/iconic-1970s-sitcom-happy-days-escapes-censorship-by-standards-council_4931787.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 02:15:40+00:00
+
+Don Most, Ron Howard, Barbara Marshall, Henry Winkler, Marion Ross, and Anson Williams attend Garry Marshall Theatre's 3rd Annual Founder's Gala honouring the original "Happy Days" cast at the Jonathan Club in Los Angeles, Calif., on Nov. 13, 2019. (Photo by Rachel Luna/Getty Images)
+
+## Beijing Needs to Engage With Australia ‘Wisely’: Foreign Minister Penny Wong
+ - [https://www.theepochtimes.com/beijing-needs-to-engage-with-australia-wisely-foreign-minister-penny-wong_4925394.html](https://www.theepochtimes.com/beijing-needs-to-engage-with-australia-wisely-foreign-minister-penny-wong_4925394.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 00:12:32+00:00
+
+Australian Sen. Penny Wong in the Senate at Parliament House in Canberra, Australia, on Dec. 2, 2019. (Tracey Nearmy/Getty Images)
+
+## Vote Counting Finishes in Fiji Election With No Clear Winner
+ - [https://www.theepochtimes.com/vote-counting-finishes-in-fiji-election-with-no-clear-winner_4931202.html](https://www.theepochtimes.com/vote-counting-finishes-in-fiji-election-with-no-clear-winner_4931202.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-19 00:01:28+00:00
+
+People's Alliance Party leader Sitiveni Rabuka gestures during a press conference while counting resumes after the Fijian election in Suva, Fiji, on Dec. 17, 2022. (Mick Tsikas/AAP Image via AP)
