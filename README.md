@@ -1,4 +1,4 @@
-# Rss links database for year 2020
+# Rss links database for year 2022
 
 Captured using Django application: [https://github.com/rumca-js/Django-rss-feed](https://github.com/rumca-js/Django-rss-feed).
 
