@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## Nab this Dell XPS productivity desktop for $550 off on Cyber Monday
  - [https://www.pcworld.com/article/1397437/nab-this-dell-xps-productivity-desktop-for-550-off-on-cyber-monday.html](https://www.pcworld.com/article/1397437/nab-this-dell-xps-productivity-desktop-for-550-off-on-cyber-monday.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-28 21:34:14+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Cyber Monday is beginning to wrap up, but there are still some great deals to be found on desktop PCs. Dell is offering their signature <a href="https://www.anrdoezrs.net/click-8200811-12839518?url=https://deals.dell.com/en-us/productdetail/fq8x&amp;sid=2-1-1397437-1-0-0" rel="nofollow" target="_blank">Dell XPS desktop computer for $550 off</a> on their website today only. They might not look flashy, but the Dell XPS line of desktop PCs have been and continue to be some of the very best desktop computers on the market.</p>
@@ -25,7 +24,6 @@ Desktop PCs</div>
  - [https://www.pcworld.com/article/1397427/get-20-off-roblox-gift-cards-with-amazons-cyber-monday-discount.html](https://www.pcworld.com/article/1397427/get-20-off-roblox-gift-cards-with-amazons-cyber-monday-discount.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-28 21:04:40+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Chances are, someone in your life plays Roblox&mdash;very likely younger gamers having a blast in the platform&rsquo;s endless player-made games. And if you&rsquo;re feeling generous, you could expand their horizons with an infusion of Robux, the in-game currency that helps the developers to keep the lights on and lets fans enhance their experiences with customized in-game items and abilities. If you want to help fuel your child&rsquo;s <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.roblox.com/games/192800/Work-at-a-Pizza-Place&amp;xcust=2-1-1397427-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">budding digital pizza empire</a>, right now at Amazon, <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/Robux-Roblox-Online-Game-Code/dp/B07RX6FBFR/?th=1&amp;xcust=2-1-1397427-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">select digital Roblox gift cards are 20 percent off</a>. </p>
@@ -46,7 +44,6 @@ Black Friday and Cyber Monday, Gaming</div>
  - [https://www.pcworld.com/article/1397404/this-gaming-ready-1440p-dell-monitor-is-a-cool-150-on-cyber-monday.html](https://www.pcworld.com/article/1397404/this-gaming-ready-1440p-dell-monitor-is-a-cool-150-on-cyber-monday.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-28 20:42:56+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Amid the scores of monitor deals (and so-called &ldquo;deals&rdquo;) during Black Friday and Cyber Monday, only just a few budget models are worth a look. The best of them is a humble 27-inch Dell model, which sports a 1440p resolution and 75Hz refresh rate. Now <a href="https://www.anrdoezrs.net/click-8200811-12839518?url=https://deals.dell.com/en-us/productdetail/fpr7&amp;sid=2-1-1397404-1-0-0" rel="nofollow">down to an incredible $150</a>, it&rsquo;s considerably cheaper than its best sale price earlier this year, and 37 percent off its current list price.</p>
@@ -71,7 +68,6 @@ Black Friday and Cyber Monday, Monitors</div>
  - [https://www.pcworld.com/article/1397384/the-m1-ipad-pro-for-300-off-is-a-cyber-monday-steal.html](https://www.pcworld.com/article/1397384/the-m1-ipad-pro-for-300-off-is-a-cyber-monday-steal.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-28 20:29:03+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Cyber Monday is here, and to end the Black Friday sales sprint with a bang, Best Buy is offering the <a href="https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-12-9-inch-ipad-pro-with-wi-fi-256gb-silver%2F4264605.p%3FskuId%3D4264605&amp;publisher_slug=pcworld&amp;exclusive=1&amp;article_name=pcworld&amp;article_url=https%3A%2F%2Fwww.pcworld.com%2Ffeed" rel="nofollow" target="_blank">5th Gen iPad Pro for $300 off</a>. Grab Apple&rsquo;s top of the line tablet from last year while it&rsquo;s at an all-time low price of $899.99.</p>
@@ -92,7 +88,6 @@ Tablets</div>
  - [https://www.pcworld.com/article/1384352/xbox-series-s-60-off-on-cyber-monday.html](https://www.pcworld.com/article/1384352/xbox-series-s-60-off-on-cyber-monday.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-28 20:03:06+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>You can find sweet graphics card bargains right now (hello, <a href="https://www.pcworld.com/article/1388036/radeon-rx-6600-cyber-monday-deal-best-1080p-graphics-card.html">1080p Ultra gaming for just $190</a>), but they still can&rsquo;t beat the value of gaming consoles. Especially not when you can get up to 1440p gaming at a stunningly low price, thanks to a deal on the Xbox Series S. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/Xbox-S-Holiday-Console/dp/B0BCXJ8BF4/&amp;xcust=2-1-1384352-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Right now at Amazon</a>, you&rsquo;ll pay just $240 for the console <em>and</em> receive a bonus $40 digital gift card when you enter code XBOX at checkout. </p>
@@ -123,7 +118,6 @@ Gaming</div>
  - [https://www.pcworld.com/article/1397380/this-macbook-pro-cyber-monday-deal-is-so-good-even-pcworld-recommends-it.html](https://www.pcworld.com/article/1397380/this-macbook-pro-cyber-monday-deal-is-so-good-even-pcworld-recommends-it.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-28 19:56:29+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>It&rsquo;s not every day that Apple knocks $400 off of a MacBook&hellip; and yet today is that day.</p>
@@ -152,7 +146,6 @@ Laptops, MacBook</div>
  - [https://www.pcworld.com/article/1397333/these-are-the-two-best-cyber-monday-chromebook-deals.html](https://www.pcworld.com/article/1397333/these-are-the-two-best-cyber-monday-chromebook-deals.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-28 19:31:20+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>The best Cyber Monday Chromebook deal boils is a $119 Asus Chromebook offer at Best Buy, but you can get a variant of it for about $100 more if you prefer the versatility of a convertible 2-in-1 design.</p>
@@ -183,7 +176,6 @@ Chromebooks</div>
  - [https://www.pcworld.com/article/1394947/finally-affordable-thunderbolt-dock-deals-cyber-monday.html](https://www.pcworld.com/article/1394947/finally-affordable-thunderbolt-dock-deals-cyber-monday.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-28 15:54:51+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>It can be difficult to find an inexpensive Thunderbolt dock, but this Cyber Monday offers two that we think are worth buying: the $216 Cable Matters 14-in-1 Thunderbolt Dock and the $159 Plugable 13-in-1 USB-C Docking Station.</p>
@@ -210,7 +202,6 @@ Docking Stations</div>
  - [https://www.pcworld.com/article/1388036/radeon-rx-6600-cyber-monday-deal-best-1080p-graphics-card.html](https://www.pcworld.com/article/1388036/radeon-rx-6600-cyber-monday-deal-best-1080p-graphics-card.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-28 15:44:54+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Just because you&rsquo;re a PC gamer doesn&rsquo;t mean you can afford to buy a desktop made out of pure platinum, water-cooled with the tears of extremely wealthy angels. And if you&rsquo;re trying to build a budget machine, you&rsquo;ve had a really hard time of it lately. That&rsquo;s why you should pounce on this killer Black Friday deal that carried over to Cyber Monday: an AMD Radeon RX 6600 graphics card for <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.newegg.com/msi-radeon-rx-6600-mech-2x-8g/p/N82E16814137690?&amp;xcust=2-1-1388036-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">more than a hundred bucks off the MSRP</a>. </p>
@@ -239,7 +230,6 @@ GPUs</div>
  - [https://www.pcworld.com/article/1396945/nab-this-eco-friendly-hp-monitor-for-170-this-cyber-monday.html](https://www.pcworld.com/article/1396945/nab-this-eco-friendly-hp-monitor-for-170-this-cyber-monday.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-28 15:25:22+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Cyber Monday is finally here and ready to party. If you&rsquo;re on the hunt for an all-around solid monitor, you&rsquo;re in luck. HP&rsquo;s selling the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.hp.com/us-en/shop/pdp/hp-m27fwa-fhd-monitor&amp;xcust=2-1-1396945-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">HP M27fwa FHD monitor for $169.99</a>, which is a savings of $120. Made of 85% recycled materials, this monitor is eco-friendly as well as fast and bright. Let&rsquo;s get into it.</p>
@@ -260,7 +250,6 @@ Monitors</div>
  - [https://www.pcworld.com/article/1394611/cyber-monday-2022-build-this-1080p-ultra-gaming-pc-for-under-500.html](https://www.pcworld.com/article/1394611/cyber-monday-2022-build-this-1080p-ultra-gaming-pc-for-under-500.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-28 15:08:39+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Putting together a $500 gaming PC usually requires sacrifices. A creaky older graphics card is the big one, and often less memory and less storage, too. But not during Black Friday.&nbsp;</p>
@@ -406,7 +395,6 @@ Black Friday, Black Friday and Cyber Monday, Gaming</div>
  - [https://www.pcworld.com/article/1396895/cyber-monday-stunner-this-swanky-dell-inspiron-laptop-is-400-off.html](https://www.pcworld.com/article/1396895/cyber-monday-stunner-this-swanky-dell-inspiron-laptop-is-400-off.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-28 14:41:50+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Cyber Monday has arrived, which means this is your last chance to scoop up any solid laptop deals. Fortunately, we&rsquo;ve got a swanky one on tap for you today. Dell&rsquo;s selling the <a href="https://www.anrdoezrs.net/click-8200811-12839518?url=https://deals.dell.com/en-us/productdetail/fq3r&amp;sid=2-1-1396895-1-0-0" rel="nofollow">Dell Inspiron 16 2-in-1 laptop for $849.99, which is a savings of $400</a>. This machine is powerful, lightweight, and versatile. Let&rsquo;s dive in.</p>
@@ -427,7 +415,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/1384710/cyber-monday-ssd-deals-2.html](https://www.pcworld.com/article/1384710/cyber-monday-ssd-deals-2.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-28 14:05:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>After weeks of generous discounts, Cyber Monday&rsquo;s sales have arrived to cap off the month. If you&rsquo;ve been waiting to buy, this is your last chance to grab SSDs at truly stellar prices.</p>
@@ -582,7 +569,6 @@ Solid-State Drives</div>
  - [https://www.pcworld.com/article/1389708/best-monitors-for-photo-editing.html](https://www.pcworld.com/article/1389708/best-monitors-for-photo-editing.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-28 11:45:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Photo editors demand a lot from a monitor. It&rsquo;s a critical tool, falling just behind a photographer&rsquo;s camera in importance. A great editor can sometimes salvage a mediocre shot, but that&rsquo;s only possible when an editor has a sharp, color-accurate monitor to rely on.</p>
@@ -1023,7 +1009,6 @@ Monitors</div>
  - [https://www.pcworld.com/article/1382245/seagate-skywalker-hdd-review-nostalgia-and-rgb-meet-capacity.html](https://www.pcworld.com/article/1382245/seagate-skywalker-hdd-review-nostalgia-and-rgb-meet-capacity.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-28 11:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
@@ -1178,7 +1163,6 @@ Computer Accessories</div>
  - [https://www.pcworld.com/article/1382416/cyber-monday-smartwatch-apple-fitbit-samsung-garmin.html](https://www.pcworld.com/article/1382416/cyber-monday-smartwatch-apple-fitbit-samsung-garmin.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-28 10:16:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Yes, excellent Cyber Monday smartwatch deals are underway, with retailers offering deals on all of the popular brands, such as Apple Watch, Fitbit, Garmin, and Samsung Galaxy Watch. </p>
@@ -1273,7 +1257,6 @@ Smartwatches</div>
  - [https://www.pcworld.com/article/1384292/cyber-monday-amazon-tech-deals.html](https://www.pcworld.com/article/1384292/cyber-monday-amazon-tech-deals.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-28 10:15:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Cyber Monday is here, bringing an abundance of tech deals from a variety of retailers&mdash;especially Amazon.</p>
@@ -1391,7 +1374,6 @@ Smartwatches</div>
  - [https://www.pcworld.com/article/1383415/cyber-monday-best-buy-deals.html](https://www.pcworld.com/article/1383415/cyber-monday-best-buy-deals.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-28 10:05:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Cyber Monday is in full effect, and the deals are hopping. If you haven&rsquo;t already started your shopping, now&rsquo;s the time&mdash;wait even just a little too long and you could miss out on fantastic discounts. Stock can and does run out early, as Best Buy warns in its <a href="https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhelp-topics%2Fbest-buy-holiday-faqs%2Fpcmcat748300621076.c%3Fid%3Dpcmcat748300621076&amp;publisher_slug=pcworld&amp;exclusive=1&amp;article_name=pcworld&amp;article_url=https%3A%2F%2Fwww.pcworld.com%2Ffeed" rel="nofollow">Black Friday FAQ</a>.</p>
@@ -1598,7 +1580,6 @@ Black Friday</div>
  - [https://www.pcworld.com/article/1382507/cyber-monday-ipad-deals.html](https://www.pcworld.com/article/1382507/cyber-monday-ipad-deals.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-28 10:05:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>iPads are always in high demand, which means they&rsquo;re usually difficult to find on sale. But if there&rsquo;s a good time to find a deal on an Apple tablet, it&rsquo;s on Black Friday or Cyber Monday. This is especially true if you want one of the most expensive iPad Pros, or if you&rsquo;re okay with settling for an older model that&rsquo;s still on the shelf. We&rsquo;ve scoured the web for the very best iPad deals and discounts to be found. </p>
@@ -1729,7 +1710,6 @@ Tablets</div>
  - [https://www.pcworld.com/article/1382155/cyber-monday-laptop-deals-2.html](https://www.pcworld.com/article/1382155/cyber-monday-laptop-deals-2.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-28 10:03:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Cyber Monday is here, and now is the time to take advantage of those last-minute laptop deals. If you&rsquo;ve no idea where to begin, don&rsquo;t sweat it. We&rsquo;ve assembled a list of epic laptop deals for your viewing pleasure. Right now, we&rsquo;re seeing some scrumptious discounts over at Lenovo and Newegg.</p>
@@ -1862,7 +1842,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/1382181/cyber-monday-desktop-pc-computer-deals-2022.html](https://www.pcworld.com/article/1382181/cyber-monday-desktop-pc-computer-deals-2022.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-28 09:59:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Cyber Monday has arrived and there are a ton of great deals on desktop PCs. Retailers are offering killer discounts on everything from home-office PCs to decked-out gaming rigs and sleek all-in-ones. Still, not all computer deals are built the same. When shopping for a new desktop PC, it&rsquo;s important to know what deal is actually a great value. To help, we&rsquo;ve curated the very best Cyber Monday computer deals that will help you get the best performance for your money.</p>
@@ -1971,7 +1950,6 @@ Desktop PCs</div>
  - [https://www.pcworld.com/article/1382591/cyber-monday-graphics-card-deals.html](https://www.pcworld.com/article/1382591/cyber-monday-graphics-card-deals.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-28 09:58:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Cyber Monday is here, and that means big savings on the most expensive PC components, like graphics cards. GPU deals have been difficult to find for a few years (thanks for nothing, crypto), but we&rsquo;re finally starting to see significant discounts now that demand is down. Both AMD and Nvidia are introducing powerful new cards, which means new deals on slightly older cards&mdash;especially the most powerful, expensive models. </p>
@@ -2098,7 +2076,6 @@ GPUs</div>
  - [https://www.pcworld.com/article/1382375/cyber-monday-dashcam-deals.html](https://www.pcworld.com/article/1382375/cyber-monday-dashcam-deals.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-28 09:50:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>It&rsquo;s Cyber Monday and that means it&rsquo;s the best time of the year to find deals on dash cams. Retailers are offering killer deals on everything from modest mini-cams to 4K front- and rear-view models. </p>
@@ -2209,7 +2186,6 @@ Dash Cams</div>
  - [https://www.pcworld.com/article/1383757/cyber-monday-monitor-deals-2.html](https://www.pcworld.com/article/1383757/cyber-monday-monitor-deals-2.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-28 09:50:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Cyber Monday is here, which means we&rsquo;re seeing loads of monitor deals still available from the Black Friday rush. If you&rsquo;re drowning in a sea of choices, don&rsquo;t worry, we&rsquo;ll throw you a metaphorical life preserver. We assembled a roundup of the best monitors available right now. From blazing fast high refresh rate gaming monitors to super sharp 4K workstations, there&rsquo;s something for every type of buyer on this list. If you&rsquo;re looking for something different, check out <a href="https://www.pcworld.com/black-friday">PCWorld&rsquo;s complete Black Friday/Cyber Monday deals coverage</a>.</p>
@@ -2332,7 +2308,6 @@ Monitors</div>
  - [https://www.pcworld.com/article/1395073/supercharge-your-computer-with-ms-office-and-five-top-rated-windows-apps-for-60-this-cyber-monday.html](https://www.pcworld.com/article/1395073/supercharge-your-computer-with-ms-office-and-five-top-rated-windows-apps-for-60-this-cyber-monday.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-28 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>It&rsquo;s the best shopping time of the year, and our limited-time Cyber Monday deals are here to help you gear up for a great price! If you want to&nbsp;<a href="https://shop.pcworld.com/sales/the-premium-limited-edition-windows-bundle-ft-microsoft?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=the-premium-limited-edition-windows-bundle-ft-microsoft&amp;utm_term=scsf-458540&amp;utm_content=a0x1P000004YrXfQAK&amp;scsonar=1" rel="noreferrer noopener" target="_blank">get more out of your PC</a>, look no further than the&nbsp;Premium Limited Edition Windows Bundle, on sale from now through November 30, for just $59.99 &mdash; no coupon necessary.</p>
@@ -2405,7 +2380,6 @@ VPN</div>
  - [https://www.pcworld.com/article/1383937/cyber-monday-chromebook-deals-2.html](https://www.pcworld.com/article/1383937/cyber-monday-chromebook-deals-2.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-28 06:53:11+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Cyber Monday Chromebook deals are in full swing, and our curated Chromebook deals below highlight the best savings on machines from Lenovo, Asus, Acer, HP and other Chromebook manufacturers.</p>
@@ -2492,7 +2466,6 @@ Chromebooks</div>
  - [https://www.pcworld.com/article/1384198/cyber-monday-tv-deals-2.html](https://www.pcworld.com/article/1384198/cyber-monday-tv-deals-2.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-28 06:42:32+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Cyber Monday TV deals have begun with deals on budget, midrange, and premium TVs. We&rsquo;ve curated the best TV deals for you to choose from, mixing in a number of premium OLED TV deals from top retailers.</p>

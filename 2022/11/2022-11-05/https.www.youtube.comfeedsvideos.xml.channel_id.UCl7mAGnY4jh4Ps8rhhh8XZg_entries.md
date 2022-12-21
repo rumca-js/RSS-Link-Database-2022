@@ -1,10 +1,9 @@
-# Source Serpentza, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCl7mAGnY4jh4Ps8rhhh8XZg
+# Source Serpentza, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCl7mAGnY4jh4Ps8rhhh8XZg, Source language: en-US
 
 ## Chinese Man Finds out you Can't Beat your Daughter in Public Abroad
  - [https://www.youtube.com/watch?v=dUv20KYX2mo](https://www.youtube.com/watch?v=dUv20KYX2mo)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCl7mAGnY4jh4Ps8rhhh8XZg
  - date published: 2022-11-05 16:00:08+00:00
- - tags: None
 
 Grab the most epic wallet in the world: https://shop.ekster.com/serpentza
 Use code: Serpentza on checkout for a massive discount

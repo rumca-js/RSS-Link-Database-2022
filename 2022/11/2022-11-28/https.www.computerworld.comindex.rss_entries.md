@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Alation’s Connected Sheets brings data governance to spreadsheets
  - [https://www.infoworld.com/article/3681336/alation-s-connected-sheets-brings-data-governance-to-spreadsheets.html#tk.rss_all](https://www.infoworld.com/article/3681336/alation-s-connected-sheets-brings-data-governance-to-spreadsheets.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-28 18:24:00+00:00
- - tags: None
 
 Connected Sheets, which can be accessed via the company’s Data Catalog, can be used to import or feed governed data from various sources into spreadsheets including Google Sheets and Microsoft Excel.
 
@@ -12,7 +11,6 @@ Connected Sheets, which can be accessed via the company’s Data Catalog, can be
  - [https://www.computerworld.com/article/3681334/aws-releases-wickr-its-encrypted-messaging-service-for-enterprises.html#tk.rss_all](https://www.computerworld.com/article/3681334/aws-releases-wickr-its-encrypted-messaging-service-for-enterprises.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-28 17:12:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -22,7 +20,6 @@ Connected Sheets, which can be accessed via the company’s Data Catalog, can be
  - [https://www.computerworld.com/article/3681548/why-you-must-remember-to-update-tcs-in-apple-business-manager.html#tk.rss_all](https://www.computerworld.com/article/3681548/why-you-must-remember-to-update-tcs-in-apple-business-manager.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-28 17:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -33,7 +30,6 @@ Connected Sheets, which can be accessed via the company’s Data Catalog, can be
  - [https://www.computerworld.com/article/3673711/how-to-troubleshoot-and-reset-windows-update.html#tk.rss_all](https://www.computerworld.com/article/3673711/how-to-troubleshoot-and-reset-windows-update.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-28 11:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

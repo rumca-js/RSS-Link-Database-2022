@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## What should you watch after the Walking Dead series finale?
  - [https://www.androidauthority.com/shows-like-the-walking-dead-series-finale-amc-3236273/](https://www.androidauthority.com/shows-like-the-walking-dead-series-finale-amc-3236273/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-21 20:41:01+00:00
- - tags: None
 
 11 shows for fans of the long-running zombie show on AMC.
 
@@ -12,7 +11,6 @@
  - [https://www.androidauthority.com/samsung-galaxy-s21-fe-update-3090962/](https://www.androidauthority.com/samsung-galaxy-s21-fe-update-3090962/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-21 18:42:56+00:00
- - tags: None
 
 The One UI 5 update brings a few new features with it.
 
@@ -20,7 +18,6 @@ The One UI 5 update brings a few new features with it.
  - [https://www.androidauthority.com/amazon-echo-dot-5th-gen-review-3234533/](https://www.androidauthority.com/amazon-echo-dot-5th-gen-review-3234533/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-21 18:00:33+00:00
- - tags: None
 
 It doesn't reinvent the wheel (or sphere), but it doesn't have to.
 
@@ -28,7 +25,6 @@ It doesn't reinvent the wheel (or sphere), but it doesn't have to.
  - [https://www.androidauthority.com/razer-black-friday-2021-3061754/](https://www.androidauthority.com/razer-black-friday-2021-3061754/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-21 17:40:33+00:00
- - tags: None
 
 The Razer Black Friday deals are now available! Here's a list of what we think are the best of the bunch.
 
@@ -36,7 +32,6 @@ The Razer Black Friday deals are now available! Here's a list of what we think a
  - [https://www.androidauthority.com/samsung-password-security-3238282/](https://www.androidauthority.com/samsung-password-security-3238282/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-21 17:22:19+00:00
- - tags: None
 
 This is the most common password Samsung owners use in 30 countries.
 
@@ -44,7 +39,6 @@ This is the most common password Samsung owners use in 30 countries.
  - [https://www.androidauthority.com/tado-smart-thermostat-one-year-3235090/](https://www.androidauthority.com/tado-smart-thermostat-one-year-3235090/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-21 15:00:45+00:00
- - tags: None
 
 My energy bills could have been so much higher this year. Thanks, past me.
 
@@ -52,7 +46,6 @@ My energy bills could have been so much higher this year. Thanks, past me.
  - [https://www.androidauthority.com/dynamic-spatial-audio-impressions-3236707/](https://www.androidauthority.com/dynamic-spatial-audio-impressions-3236707/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-21 15:00:31+00:00
- - tags: None
 
 After just a quick taste of Qualcomm's Dynamic Spatial Audio, the next-gen sounds pretty bright.
 
@@ -60,7 +53,6 @@ After just a quick taste of Qualcomm's Dynamic Spatial Audio, the next-gen sound
  - [https://www.androidauthority.com/snapdragon-8-gen-2-benchmarks-3234198/](https://www.androidauthority.com/snapdragon-8-gen-2-benchmarks-3234198/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-21 12:09:43+00:00
- - tags: None
 
 Got a need for speed?
 
@@ -68,7 +60,6 @@ Got a need for speed?
  - [https://www.androidauthority.com/lock-smartwatch-poll-results-3238173/](https://www.androidauthority.com/lock-smartwatch-poll-results-3238173/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-21 11:21:20+00:00
- - tags: None
 
 This was a close race, but there can only be one winner.
 
@@ -76,7 +67,6 @@ This was a close race, but there can only be one winner.
  - [https://www.androidauthority.com/google-pixel-7-32-bit-app-support-hack-3238134/](https://www.androidauthority.com/google-pixel-7-32-bit-app-support-hack-3238134/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-21 10:05:04+00:00
- - tags: None
 
 Want to run abandoned apps on your Pixel 7? Then these hacks are for you.
 
@@ -84,7 +74,6 @@ Want to run abandoned apps on your Pixel 7? Then these hacks are for you.
  - [https://www.androidauthority.com/best-open-ear-headphones-3229259/](https://www.androidauthority.com/best-open-ear-headphones-3229259/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-21 09:01:55+00:00
- - tags: None
 
 Hear everything, including your music.
 
@@ -92,6 +81,5 @@ Hear everything, including your music.
  - [https://www.androidauthority.com/daily-authority-november-21-2022-3235869/](https://www.androidauthority.com/daily-authority-november-21-2022-3235869/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-21 08:14:23+00:00
- - tags: None
 
 Black Friday deals, 10 years of the Wii U, and more in today's edition!

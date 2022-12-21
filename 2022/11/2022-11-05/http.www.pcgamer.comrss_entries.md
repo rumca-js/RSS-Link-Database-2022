@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## The best anime games on PC
  - [https://www.pcgamer.com/the-best-anime-games-on-pc](https://www.pcgamer.com/the-best-anime-games-on-pc)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-05 23:44:05+00:00
- - tags: None
 
 From great adaptations to games every anime lover should play, here are the best of the best.
 
@@ -12,7 +11,6 @@ From great adaptations to games every anime lover should play, here are the best
  - [https://www.pcgamer.com/running-a-cafe-using-the-undead-isnt-sanitary-but-theres-a-game-about-it](https://www.pcgamer.com/running-a-cafe-using-the-undead-isnt-sanitary-but-theres-a-game-about-it)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-05 23:33:00+00:00
- - tags: None
 
 See for yourself in the demo of Bone's Cafe, a co-op skeleton restaurant management videogame.
 
@@ -20,7 +18,6 @@ See for yourself in the demo of Bone's Cafe, a co-op skeleton restaurant managem
  - [https://www.pcgamer.com/john-wick-will-be-a-big-budget-game-if-lionsgate-gets-its-way](https://www.pcgamer.com/john-wick-will-be-a-big-budget-game-if-lionsgate-gets-its-way)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-05 22:26:01+00:00
- - tags: None
 
 "We believe there is a big AAA game to be made out of John Wick."
 
@@ -28,7 +25,6 @@ See for yourself in the demo of Bone's Cafe, a co-op skeleton restaurant managem
  - [https://www.pcgamer.com/saturday-crapshoot-dragon-strike](https://www.pcgamer.com/saturday-crapshoot-dragon-strike)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-05 21:21:35+00:00
- - tags: None
 
 We're rerunning Richard Cobbett's classic Crapshoot column, in which he rolled the dice and took a chance on obscure games—both good and bad.
 
@@ -36,7 +32,6 @@ We're rerunning Richard Cobbett's classic Crapshoot column, in which he rolled t
  - [https://www.pcgamer.com/watch-filthy-knights-fight-filthier-zombies-in-the-trailer-for-co-op-game-blight-survival](https://www.pcgamer.com/watch-filthy-knights-fight-filthier-zombies-in-the-trailer-for-co-op-game-blight-survival)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-05 21:11:32+00:00
- - tags: None
 
 If you love historical arms and armor then get in here ASAP.
 
@@ -44,7 +39,6 @@ If you love historical arms and armor then get in here ASAP.
  - [https://www.pcgamer.com/whats-the-best-or-worst-videogame-collectors-edition-youve-ever-bought](https://www.pcgamer.com/whats-the-best-or-worst-videogame-collectors-edition-youve-ever-bought)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-05 19:29:05+00:00
- - tags: None
 
 Precious gamer treasures, or plastic hunks of crap you have to make space for on your shelf?
 
@@ -52,7 +46,6 @@ Precious gamer treasures, or plastic hunks of crap you have to make space for on
  - [https://www.pcgamer.com/modern-warfare-2s-ground-war-mode-puts-battlefield-on-notice](https://www.pcgamer.com/modern-warfare-2s-ground-war-mode-puts-battlefield-on-notice)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-05 15:30:40+00:00
- - tags: None
 
 Infinity Ward has built a thriving sandbox large enough for all of Modern Warfare 2's toys.
 
@@ -60,7 +53,6 @@ Infinity Ward has built a thriving sandbox large enough for all of Modern Warfar
  - [https://www.pcgamer.com/wordle-today-504-answer-november-5](https://www.pcgamer.com/wordle-today-504-answer-november-5)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-05 08:01:26+00:00
- - tags: None
 
 Wordle today: The solution and a hint for the #504 puzzle.
 
@@ -68,6 +60,5 @@ Wordle today: The solution and a hint for the #504 puzzle.
  - [https://www.pcgamer.com/overwatch-2-ramattra-reveal](https://www.pcgamer.com/overwatch-2-ramattra-reveal)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-05 01:45:28+00:00
- - tags: None
 
 Ramattra first appeared over three years ago.

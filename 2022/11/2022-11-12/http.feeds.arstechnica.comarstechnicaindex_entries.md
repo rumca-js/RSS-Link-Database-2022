@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## The weekend’s best deals: Buy two get one free video games, Razer Blade, Apple, GoPro and more
  - [https://arstechnica.com/?p=1895882](https://arstechnica.com/?p=1895882)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-12 21:09:52+00:00
- - tags: None
 
 We also have deals on streamers, laptops, our favorite smartwatch for the outdoors, and more.
 
@@ -12,7 +11,6 @@ We also have deals on streamers, laptops, our favorite smartwatch for the outdoo
  - [https://arstechnica.com/?p=1897094](https://arstechnica.com/?p=1897094)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-12 13:15:58+00:00
- - tags: None
 
 Scheduling the daily five-letter puzzle is more demanding than you might think.
 
@@ -20,7 +18,6 @@ Scheduling the daily five-letter puzzle is more demanding than you might think.
  - [https://arstechnica.com/?p=1897112](https://arstechnica.com/?p=1897112)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-12 12:44:32+00:00
- - tags: None
 
 Climate change has forced dung beetles to modify their nesting behaviors.
 
@@ -28,7 +25,6 @@ Climate change has forced dung beetles to modify their nesting behaviors.
  - [https://arstechnica.com/?p=1897100](https://arstechnica.com/?p=1897100)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-12 12:15:19+00:00
- - tags: None
 
 Satellite monitors found 2 vessels with their trackers turned off in area of explosions.
 
@@ -36,6 +32,5 @@ Satellite monitors found 2 vessels with their trackers turned off in area of exp
  - [https://arstechnica.com/?p=1897225](https://arstechnica.com/?p=1897225)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-12 12:00:46+00:00
- - tags: None
 
 A lower price makes this mostly unchanged device much more appealing.

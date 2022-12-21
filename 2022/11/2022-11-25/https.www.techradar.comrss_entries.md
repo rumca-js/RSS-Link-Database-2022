@@ -1,10 +1,9 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss
+# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
 
 ## Over a thousand Docker container images found hiding malicious content
  - [https://www.techradar.com/news/over-a-thousand-docker-container-images-found-hiding-malicious-content](https://www.techradar.com/news/over-a-thousand-docker-container-images-found-hiding-malicious-content)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-25 22:11:36+00:00
- - tags: None
 
 Out of 250,000 unverified Linux container images, over 1,600 feature cryptominers, AWS credentials and other illicit content, report warns.
 
@@ -12,7 +11,6 @@ Out of 250,000 unverified Linux container images, over 1,600 feature cryptominer
  - [https://www.techradar.com/news/whatsapp-data-breach-sees-nearly-500-million-user-records-up-for-sale](https://www.techradar.com/news/whatsapp-data-breach-sees-nearly-500-million-user-records-up-for-sale)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-25 20:29:12+00:00
- - tags: None
 
 Almost a quarter of all WhatsApp user phone numbers are up for sale following apparent breach.
 
@@ -20,7 +18,6 @@ Almost a quarter of all WhatsApp user phone numbers are up for sale following ap
  - [https://www.techradar.com/news/fake-world-cup-streaming-sites-are-targeting-virtual-fans](https://www.techradar.com/news/fake-world-cup-streaming-sites-are-targeting-virtual-fans)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-25 17:48:37+00:00
- - tags: None
 
 Warning for World Cup streaming fans who may be exposing themselves to malware and other scams.
 
@@ -28,7 +25,6 @@ Warning for World Cup streaming fans who may be exposing themselves to malware a
  - [https://www.techradar.com/news/the-sheer-scale-of-microsoft-teams-dominance-could-mean-big-trouble](https://www.techradar.com/news/the-sheer-scale-of-microsoft-teams-dominance-could-mean-big-trouble)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-25 17:05:34+00:00
- - tags: None
 
 Slack says that Microsoft Teams is being sold dirt-cheap, and that’s not fair: now the EU may investigate further.
 
@@ -36,7 +32,6 @@ Slack says that Microsoft Teams is being sold dirt-cheap, and that’s not fair:
  - [https://www.techradar.com/news/google-and-microsoft-add-more-renewable-energy-for-datacenters](https://www.techradar.com/news/google-and-microsoft-add-more-renewable-energy-for-datacenters)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-25 16:10:56+00:00
- - tags: None
 
 Google and Microsoft sign major green energy contracts as they look to fulfil ambitious sustainability goals.
 
@@ -44,7 +39,6 @@ Google and Microsoft sign major green energy contracts as they look to fulfil am
  - [https://www.techradar.com/news/social-media-is-still-a-hotbed-for-scams](https://www.techradar.com/news/social-media-is-still-a-hotbed-for-scams)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-25 15:40:18+00:00
- - tags: None
 
 Phishing links, fake jobs listings and shopfront scams are amongst the most effective methods used by scammers.
 
@@ -52,7 +46,6 @@ Phishing links, fake jobs listings and shopfront scams are amongst the most effe
  - [https://www.techradar.com/news/save-83-with-private-internet-accesss-mega-black-friday-vpn-deal](https://www.techradar.com/news/save-83-with-private-internet-accesss-mega-black-friday-vpn-deal)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-25 15:14:00+00:00
- - tags: None
 
 PIA gets even more affordable for Black Friday. Here's everything you need to know to grab this great value VPN deal.
 
@@ -60,7 +53,6 @@ PIA gets even more affordable for Black Friday. Here's everything you need to kn
  - [https://www.techradar.com/news/live/black-friday-samsung-tv-deals-live-cheap-qled-and-oled-tvs-and-buying-tips](https://www.techradar.com/news/live/black-friday-samsung-tv-deals-live-cheap-qled-and-oled-tvs-and-buying-tips)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-25 14:39:05+00:00
- - tags: None
 
 <article>
                                 <div class="fancy-box"><div class="fancy_box-title">Black Friday Samsung TV deals: headlines</div><div class="fancy_box_body"><figure class="van-image-figure "><div class="image-full-width-wrapper"><div class="image-widthsetter"><p class="vanilla-image-block" style="padding-top: 56.25%;"><img align="" alt="Samsung TV in a living room, next to a sign saying Black Friday deals" class="pinterest-pin-exclude" height="" id="ADGSSa38sJMybT7x7FG4iC" name="TV Live Blog image.jpg" src="https://cdn.mos.cms.futurecdn.net/ADGSSa38sJMybT7x7FG4iC.jpg" width="" /></p></div></div><figcaption class=""><span class="credit">(Image credit: Samsung)</span></figcaption></figure><p><strong>*</strong> Great deals on QLED TVs<br />
@@ -116,7 +108,6 @@ PIA gets even more affordable for Black Friday. Here's everything you need to kn
  - [https://www.techradar.com/news/linkedin-is-finally-adding-this-really-obvious-feature](https://www.techradar.com/news/linkedin-is-finally-adding-this-really-obvious-feature)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-25 14:06:07+00:00
- - tags: None
 
 Social media managers rejoice, you can now schedule LinkedIn posts for a later time.
 
@@ -124,7 +115,6 @@ Social media managers rejoice, you can now schedule LinkedIn posts for a later t
  - [https://www.techradar.com/news/nvidia-reigns-supreme-in-discrete-gpus-but-is-that-bad-news-for-consumers](https://www.techradar.com/news/nvidia-reigns-supreme-in-discrete-gpus-but-is-that-bad-news-for-consumers)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-25 13:45:15+00:00
- - tags: None
 
 AMD is flailing badly in terms of graphics card market share – will it be down to Intel to challenge Nvidia eventually?
 
@@ -132,7 +122,6 @@ AMD is flailing badly in terms of graphics card market share – will it be down
  - [https://www.techradar.com/news/the-cheapest-black-friday-vpn-deal-just-dropped-get-purevpn-for-just-dollar120-per-month](https://www.techradar.com/news/the-cheapest-black-friday-vpn-deal-just-dropped-get-purevpn-for-just-dollar120-per-month)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-25 13:04:14+00:00
- - tags: None
 
 PureVPN has just launched the best Black Friday VPN deal of this year – bag yourself a bargain on a range of different plans.
 
@@ -140,7 +129,6 @@ PureVPN has just launched the best Black Friday VPN deal of this year – bag yo
  - [https://www.techradar.com/news/black-friday-laptop-deals-under-dollar299](https://www.techradar.com/news/black-friday-laptop-deals-under-dollar299)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-25 12:52:03+00:00
- - tags: None
 
 Black Friday is here and we're rounding up the best budget laptop deals under $299.
 
@@ -148,7 +136,6 @@ Black Friday is here and we're rounding up the best budget laptop deals under $2
  - [https://www.techradar.com/news/live/black-friday-laptop-deals-live-macbooks-chromebooks-and-more](https://www.techradar.com/news/live/black-friday-laptop-deals-live-macbooks-chromebooks-and-more)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-25 11:37:04+00:00
- - tags: None
 
 After the best Black Friday laptop deals? Join us as we scour the web for the biggest sales.
 
@@ -156,7 +143,6 @@ After the best Black Friday laptop deals? Join us as we scour the web for the bi
  - [https://www.techradar.com/news/lego-is-giving-away-three-free-sets-to-customers-this-black-friday](https://www.techradar.com/news/lego-is-giving-away-three-free-sets-to-customers-this-black-friday)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-25 09:08:16+00:00
- - tags: None
 
 Lego.com doesn't have the best Black Friday deals in terms of discounts, but you can get free gifts with your purchase.
 
@@ -164,7 +150,6 @@ Lego.com doesn't have the best Black Friday deals in terms of discounts, but you
  - [https://www.techradar.com/news/live/black-friday-apple-deals-live-blog-record-low-prices-on-airpods-ipads-and-more](https://www.techradar.com/news/live/black-friday-apple-deals-live-blog-record-low-prices-on-airpods-ipads-and-more)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-25 08:19:18+00:00
- - tags: None
 
 Welcome to our live coverage of today's Black Friday Apple sales, including big savings on iPads, Apple Watches and Airpods.
 
@@ -172,7 +157,6 @@ Welcome to our live coverage of today's Black Friday Apple sales, including big 
  - [https://www.techradar.com/news/why-quiet-quitting-could-be-the-hurry-up-your-business-recruitment-strategy-needs](https://www.techradar.com/news/why-quiet-quitting-could-be-the-hurry-up-your-business-recruitment-strategy-needs)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-25 04:01:11+00:00
- - tags: None
 
 The job market is changing forever, and your company needs to adapt or fall behind, LinkedIn exec warns.
 
@@ -180,6 +164,5 @@ The job market is changing forever, and your company needs to adapt or fall behi
  - [https://www.techradar.com/news/live/best-black-friday-tv-deals-live-2022](https://www.techradar.com/news/live/best-black-friday-tv-deals-live-2022)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-25 03:26:40+00:00
- - tags: None
 
 Our live coverage of Black Friday TV deals begins with all the best deals on 4K, QLED, and OLED TVs, plus tips and tricks to land your dream TV.

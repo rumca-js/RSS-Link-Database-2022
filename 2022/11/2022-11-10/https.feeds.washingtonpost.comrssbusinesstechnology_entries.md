@@ -1,10 +1,9 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology
+# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
 
 ## Film crew stumbles upon piece of Challenger 36 years after tragedy, NASA says
  - [https://www.washingtonpost.com/technology/2022/11/10/filmmakers-discover-challenger-piece/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/10/filmmakers-discover-challenger-piece/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-10 22:00:22+00:00
- - tags: None
 
 A History Channel crew found the piece off the eastern coast of Florida and alerted NASA, the agency said. The documentary is set to air this month.
 
@@ -12,7 +11,6 @@ A History Channel crew found the piece off the eastern coast of Florida and aler
  - [https://www.washingtonpost.com/technology/2022/08/26/returning-work-devices-when-quitting/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/08/26/returning-work-devices-when-quitting/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-10 13:36:49+00:00
- - tags: None
 
 Advice for workers on saving, transferring and deleting data from their laptops and mobile devices before leaving a job.
 
@@ -20,7 +18,6 @@ Advice for workers on saving, transferring and deleting data from their laptops 
  - [https://www.washingtonpost.com/video-games/2022/11/10/anthony-padilla-youtube-interview-smosh/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/11/10/anthony-padilla-youtube-interview-smosh/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-10 13:17:52+00:00
- - tags: None
 
 Padilla, whose channel boasts nearly 7 million subscribers, found fame by eschewing trends and cringe content.
 
@@ -28,7 +25,6 @@ Padilla, whose channel boasts nearly 7 million subscribers, found fame by eschew
  - [https://www.washingtonpost.com/technology/2022/11/10/twitter-security-resignations/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/10/twitter-security-resignations/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-10 11:31:34+00:00
- - tags: None
 
 The resignations of three executives on Thursday came after Twitter owner Elon Musk ordered that all employees must work from the office.
 
@@ -36,7 +32,6 @@ The resignations of three executives on Thursday came after Twitter owner Elon M
  - [https://www.washingtonpost.com/politics/2022/11/10/biden-elon-musk-twitter-foreign-ties/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/politics/2022/11/10/biden-elon-musk-twitter-foreign-ties/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-10 08:00:56+00:00
- - tags: None
 
 President Biden said the new Twitter owner's "cooperation" with other countries deserves scrutiny, adding he wasn't suggesting Musk was "doing anything inappropriate."
 
@@ -44,6 +39,5 @@ President Biden said the new Twitter owner's "cooperation" with other countries 
  - [https://www.washingtonpost.com/technology/2022/11/10/meta-ecommerce-boom-stalls/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/10/meta-ecommerce-boom-stalls/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-10 06:00:33+00:00
- - tags: None
 
 Meta CEO Mark Zuckerberg said 11,000 workers lost their jobs in part because he overestimated the staying power of the e-commerce boom.

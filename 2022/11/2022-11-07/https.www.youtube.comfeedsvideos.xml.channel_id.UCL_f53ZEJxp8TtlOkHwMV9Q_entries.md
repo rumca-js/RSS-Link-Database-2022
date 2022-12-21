@@ -1,10 +1,9 @@
-# Source Jordan B Peterson, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
+# Source Jordan B Peterson, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q, Source language: en-US
 
 ## iGen: Narcissism and Neuroticism | Dr. Jean Twenge | #303
  - [https://www.youtube.com/watch?v=8CJt2VwDuLE](https://www.youtube.com/watch?v=8CJt2VwDuLE)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
  - date published: 2022-11-07 16:00:08+00:00
- - tags: None
 
 Dr. Jordan B. Peterson and Dr. Jean Twenge discuss the often volatile and unhealthy world of internet anonymity, trolling, trait neuroticism, and the effect of technology on our less independent, more narcissistic young adults- now referred to as the “iGen,'' or “Internet Generation."
  

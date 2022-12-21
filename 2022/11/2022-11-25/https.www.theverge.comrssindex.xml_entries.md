@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## The Internet Archive just put 565 Palm Pilot apps in your web browser
  - [https://www.theverge.com/2022/11/25/23478396/internet-archive-palm-pilot-emulation-games-apps-dope-wars](https://www.theverge.com/2022/11/25/23478396/internet-archive-palm-pilot-emulation-games-apps-dope-wars)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-25 23:44:53+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/5B14Hio_MJ6fYMFK6FJZ4NZzhLM=/0x262:4032x2950/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71674478/IMG_1015.0.jpg" />
@@ -22,7 +21,6 @@
  - [https://www.theverge.com/2022/11/25/23478281/sony-wf-1000xm4-black-friday-noise-canceling-earbuds-deal-cyber-monday-sale](https://www.theverge.com/2022/11/25/23478281/sony-wf-1000xm4-black-friday-noise-canceling-earbuds-deal-cyber-monday-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-25 22:37:50+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/epSvf7Rra5DmFvQTRFrdSOCBiW4=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71674302/DSCF4085_Edited.0.jpg" />
@@ -43,7 +41,6 @@
  - [https://www.theverge.com/2022/11/25/23478206/irobot-roomba-i3-plus-evo-robot-vaccum-black-friday-deal-cyber-monday-sale](https://www.theverge.com/2022/11/25/23478206/irobot-roomba-i3-plus-evo-robot-vaccum-black-friday-deal-cyber-monday-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-25 22:07:26+00:00
- - tags: None
 
 <figure>
       <img alt="The iRobot Roomba i3 Plus EVO robot vacuum lying on a wooden floor." src="https://cdn.vox-cdn.com/thumbor/nj26mN-67a2AVMgJddsOM3pFLig=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71674222/jtuohy_220325_5101_0016.0.jpg" />
@@ -64,7 +61,6 @@
  - [https://www.theverge.com/2022/11/25/23478132/fcc-china-huawei-zte-hikvision-camera-telecom-authorization-ban](https://www.theverge.com/2022/11/25/23478132/fcc-china-huawei-zte-hikvision-camera-telecom-authorization-ban)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-25 21:10:20+00:00
- - tags: None
 
 <figure>
       <img alt="An illustration of a large eye surrounded by other eyes" src="https://cdn.vox-cdn.com/thumbor/xn5ExCUS1eOpDSsVBrmYT9AbAG8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71674059/acastro_190204_1777_privacy_0001.0.jpg" />
@@ -82,7 +78,6 @@
  - [https://www.theverge.com/good-deals/2021/11/9/22772583/playstation-5-ps5-console-restock-walmart-time-buy-disc-god-of-war-ragnarok](https://www.theverge.com/good-deals/2021/11/9/22772583/playstation-5-ps5-console-restock-walmart-time-buy-disc-god-of-war-ragnarok)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-25 20:28:45+00:00
- - tags: None
 
 <figure>
       <img alt="Screenshot from God of War Ragnarök in which Atreus is petting a giant wolf" src="https://cdn.vox-cdn.com/thumbor/ObpvLaPVX26Gexwm27i6PH_CozU=/300x0:3540x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/70117949/atreus_wolf.5.jpeg" />
@@ -100,7 +95,6 @@
  - [https://www.theverge.com/2022/11/25/23477889/hulu-black-friday-streaming-deal-cyber-monday-ad-supported-tv-show-movie](https://www.theverge.com/2022/11/25/23477889/hulu-black-friday-streaming-deal-cyber-monday-ad-supported-tv-show-movie)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-25 17:20:47+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/Cwma9kEasTk-oHECXaW2gRO_v20=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71673301/RoundUpArt_HULU.0.jpg" />
@@ -120,7 +114,6 @@
  - [https://www.theverge.com/23473263/a-little-to-the-left-nintendo-switch-pc](https://www.theverge.com/23473263/a-little-to-the-left-nintendo-switch-pc)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-25 17:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Key art from A Little to the Left featuring a broken plate and cat paw prints and the silhouette of a cat over the words “A Little to the Left” " src="https://cdn.vox-cdn.com/thumbor/GcJERIscCn-pqNv6t_MsPgiPjfM=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71673193/ALTTL_Key_Art_1.0.png" />
@@ -139,7 +132,6 @@
  - [https://www.theverge.com/23477816/verge-merch-store-black-friday-cyber-monday-sale-2022](https://www.theverge.com/23477816/verge-merch-store-black-friday-cyber-monday-sale-2022)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-25 16:07:31+00:00
- - tags: None
 
 <figure>
       <img alt="The Verge logo" src="https://cdn.vox-cdn.com/thumbor/2vEWvA-ZNtKGUeg39oPNj3p3uxc=/508x0:1713x803/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71672996/The_Verge_Merch_Banner.5.png" />
@@ -156,7 +148,6 @@
  - [https://www.theverge.com/23477770/target-black-friday-2022-deals-cyber-monday-tech-games-streaming](https://www.theverge.com/23477770/target-black-friday-2022-deals-cyber-monday-tech-games-streaming)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-25 16:00:51+00:00
- - tags: None
 
 <figure>
       <img alt="Child sitting on bed playing video game on large TV screen." src="https://cdn.vox-cdn.com/thumbor/_gKR2dWaobnB9D9QbgOM_JN_Ozc=/0x0:1155x770/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71672979/Vizio_M6_Series_QLED_TV_Lifestyle_Image.0.jpg" />
@@ -174,7 +165,6 @@
  - [https://www.theverge.com/2022/11/25/23475382/psychology-of-your-20s-podcast-spotify-anchor-hit](https://www.theverge.com/2022/11/25/23475382/psychology-of-your-20s-podcast-spotify-anchor-hit)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-25 16:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/SgNh3qQTBGx22ntGXj5csdlC0qw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71672927/VRG_Illo_STK427_K_Radtke_Getty_Mics_2.0.jpg" />
@@ -193,7 +183,6 @@
  - [https://www.theverge.com/23477726/best-buy-black-friday-2022-cyber-monday-tech-deals-tvs-games-smartwatch](https://www.theverge.com/23477726/best-buy-black-friday-2022-cyber-monday-tech-deals-tvs-games-smartwatch)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-25 15:14:30+00:00
- - tags: None
 
 <figure>
       <img alt="Close-up of Waypoint creation screen" src="https://cdn.vox-cdn.com/thumbor/dUVfgI2MrIEQydbQC8-GJuxqVfQ=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71672828/226274_APPLE_WATCH_ULTRA_PHO_akrales_0431.0.jpg" />
@@ -211,7 +200,6 @@
  - [https://www.theverge.com/23477736/black-friday-2022-tech-best-deals-under-50-cyber-monday](https://www.theverge.com/23477736/black-friday-2022-tech-best-deals-under-50-cyber-monday)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-25 15:03:10+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/MZwdFd9AOEAZBtmOJ-2E0fq5dkI=/53x0:1988x1290/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71672798/Roku_Streaming_Stick_4K_behind_TV.0.png" />
@@ -239,7 +227,6 @@
  - [https://www.theverge.com/23477686/walmart-black-friday-2022-best-tech-deals-cyber-monday-streaming-earbuds-gaming](https://www.theverge.com/23477686/walmart-black-friday-2022-best-tech-deals-cyber-monday-streaming-earbuds-gaming)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-25 15:01:04+00:00
- - tags: None
 
 <figure>
       <img alt="The last-gen AirPods Pro sitting on a desk near an iPhone and a MacBook." src="https://cdn.vox-cdn.com/thumbor/_23Uwe8FWOkvFb3rZdZL1uHiKcM=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71672790/cwelch_191031_3763_0001.0.jpg" />
@@ -256,7 +243,6 @@
  - [https://www.theverge.com/23474039/peloton-row-review-rower-connected-fitness](https://www.theverge.com/23474039/peloton-row-review-rower-connected-fitness)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-25 15:00:00+00:00
- - tags: None
 
 <p>Peloton gets a lot right with its long-awaited rower, but charging $3,200 is a baffling business choice for the struggling company.</p>
   <p>
@@ -267,7 +253,6 @@
  - [https://www.theverge.com/23475747/best-black-friday-gaming-deals-games-xbox-ps5-headsets-mice-keyboards-controllers](https://www.theverge.com/23475747/best-black-friday-gaming-deals-games-xbox-ps5-headsets-mice-keyboards-controllers)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-25 14:28:27+00:00
- - tags: None
 
 <figure>
       <img alt="The white and black Xbox Series S console standing vertically on a white table in front of a black background." src="https://cdn.vox-cdn.com/thumbor/LG3l6toN54g6Z4EU5_vcwDlHNrA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71672671/vpavic_201103_4275_0252.0.jpg" />
@@ -291,7 +276,6 @@
  - [https://www.theverge.com/2022/11/25/23477656/amazon-black-friday-2022-deals-cyber-monday-tech-games-tv](https://www.theverge.com/2022/11/25/23477656/amazon-black-friday-2022-deals-cyber-monday-tech-games-tv)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-25 14:11:11+00:00
- - tags: None
 
 <figure>
       <img alt="An Echo Dot with Clock on a counter" src="https://cdn.vox-cdn.com/thumbor/Q4ENjWgJbltJxgHek8_MWrvvfWk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71672622/226372_Echo_Dot_Clock_5th_Gen_J_0007.0.jpg" />
@@ -321,7 +305,6 @@
  - [https://www.theverge.com/23477682/black-friday-2022-best-deals-tech-sales-gaming-headphones-tvs](https://www.theverge.com/23477682/black-friday-2022-best-deals-tech-sales-gaming-headphones-tvs)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-25 14:10:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/ltZ3KNF22vGpCMUTSSZMGfxNCmI=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71672615/226415_Noc_Design_Black_Friday_deals_2_alt.18.jpg" />
@@ -339,7 +322,6 @@
  - [https://www.theverge.com/2022/11/25/23477661/genesis-electrified-g80-review-range-specs-price](https://www.theverge.com/2022/11/25/23477661/genesis-electrified-g80-review-range-specs-price)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-25 14:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Genesis Electrified G80" src="https://cdn.vox-cdn.com/thumbor/wb_M1GljOGoK_epyxs7N8j0It74=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71672547/2023_Genesis_Electrified_G80_001.0.jpg" />
@@ -356,7 +338,6 @@
  - [https://www.theverge.com/23475111/black-friday-2022-tv-deals-cyber-monday-tcl-lg-samsung-sony](https://www.theverge.com/23475111/black-friday-2022-tv-deals-cyber-monday-tcl-lg-samsung-sony)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-25 13:38:19+00:00
- - tags: None
 
 <figure>
       <img alt="The 55-inch TCL 6-series R646 4K TV is on, displaying the Google TV software homescreen that’s filled with viewing recommendations." src="https://cdn.vox-cdn.com/thumbor/ajjtIVZT0LJa56LxCLniKwo6RfE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71672475/cwelch_220119_4998_0001.0.jpg" />
@@ -376,7 +357,6 @@
  - [https://www.theverge.com/2022/11/25/23477567/splinter-cell-firewall-radio-adaptation-bbc-radio-4-will-poulter](https://www.theverge.com/2022/11/25/23477567/splinter-cell-firewall-radio-adaptation-bbc-radio-4-will-poulter)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-25 10:45:53+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/hmco6rxSaGxnVSAQ9WUT-YT11oA=/0x0:621x414/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71672159/p0dj98n7.0.jpg" />
@@ -392,7 +372,6 @@
  - [https://www.theverge.com/2022/11/25/23477548/uk-deepfake-porn-illegal-offence-online-safety-bill-proposal](https://www.theverge.com/2022/11/25/23477548/uk-deepfake-porn-illegal-offence-online-safety-bill-proposal)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-25 10:28:34+00:00
- - tags: None
 
 <figure>
       <img alt="A stock image of a woman’s face distorted by a digital screen. " src="https://cdn.vox-cdn.com/thumbor/W7WAfREUIo1UsA-KWMpsKJLhqPk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71672153/jbareham_180207_2293_0008_03.0.jpg" />
@@ -410,7 +389,6 @@
  - [https://www.theverge.com/2022/11/25/23477550/twitter-manual-verification-blue-checkmark-gold-grey](https://www.theverge.com/2022/11/25/23477550/twitter-manual-verification-blue-checkmark-gold-grey)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-25 09:39:53+00:00
- - tags: None
 
 <figure>
       <img alt="A black Twitter logo over a red illustration" src="https://cdn.vox-cdn.com/thumbor/IRI5ed15jenfA0TUU5FwjnKQ54g=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71672113/acastro_STK050_08.0.jpg" />

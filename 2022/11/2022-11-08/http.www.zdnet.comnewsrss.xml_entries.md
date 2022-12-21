@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## 12 best travel gift ideas this holiday season
  - [https://www.zdnet.com/home-and-office/best-travel-gift/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/best-travel-gift/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 22:03:00+00:00
- - tags: None
 
 Give the gift of travel this holiday season! Here are the best travel gifts for couples, families, and friends, including gift boxes, Costco Travel, Expedia, and accessories.
 
@@ -12,7 +11,6 @@ Give the gift of travel this holiday season! Here are the best travel gifts for 
  - [https://www.zdnet.com/home-and-office/gifts-under-25/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/gifts-under-25/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 21:36:00+00:00
- - tags: None
 
 Shopping on a tight budget this holiday season? We've compiled the top tech gifts for $25 or under.
 
@@ -20,7 +18,6 @@ Shopping on a tight budget this holiday season? We've compiled the top tech gift
  - [https://www.zdnet.com/home-and-office/smart-home/best-headlamp/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/best-headlamp/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 21:26:00+00:00
- - tags: None
 
 The Black Diamond Spot 400-R is ZDNET's top choice because it is powerful, rechargeable, light, and packed with attractive features such as a battery indicator and colored light settings that are hard to beat at that price.
 
@@ -28,7 +25,6 @@ The Black Diamond Spot 400-R is ZDNET's top choice because it is powerful, recha
  - [https://www.zdnet.com/article/best-headlamp/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-headlamp/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 21:26:00+00:00
- - tags: None
 
 The Black Diamond Spot 400-R is ZDNET's top choice because it is powerful, rechargeable, light, and packed with attractive features such as a battery indicator and colored light settings that are hard to beat at that price.
 
@@ -36,7 +32,6 @@ The Black Diamond Spot 400-R is ZDNET's top choice because it is powerful, recha
  - [https://www.zdnet.com/article/google-and-renault-are-creating-a-software-defined-vehicle/#ftag=RSSbaffb68](https://www.zdnet.com/article/google-and-renault-are-creating-a-software-defined-vehicle/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 20:30:04+00:00
- - tags: None
 
 The new vehicle will feature the best of Google's Cloud technology with Renault's car expertise to create a "software defined vehicle".
 
@@ -44,7 +39,6 @@ The new vehicle will feature the best of Google's Cloud technology with Renault'
  - [https://www.zdnet.com/home-and-office/home-entertainment/rode-x-xcm-50-review-warm-condenser-mic-sound-in-a-tiny-package/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/rode-x-xcm-50-review-warm-condenser-mic-sound-in-a-tiny-package/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 20:09:11+00:00
- - tags: None
 
 While the Rode X brand that this microphone debuted under is brand new, Rode's maturity and ability to pack great, warm sound into a small, well-built package show through immediately.
 
@@ -52,7 +46,6 @@ While the Rode X brand that this microphone debuted under is brand new, Rode's m
  - [https://www.zdnet.com/article/ditching-twitter-how-to-get-started-with-mastodon/#ftag=RSSbaffb68](https://www.zdnet.com/article/ditching-twitter-how-to-get-started-with-mastodon/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 20:07:00+00:00
- - tags: None
 
 Now that Twitter is under new (and controversial) management, a decentralized open-source alternative has seen surprising growth. Here's how the Fediverse works and how you can get started.
 
@@ -60,7 +53,6 @@ Now that Twitter is under new (and controversial) management, a decentralized op
  - [https://www.zdnet.com/article/this-smart-yoga-mat-is-118-off-right-now/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-smart-yoga-mat-is-118-off-right-now/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 19:49:03+00:00
- - tags: None
 
 The Yogifi yoga mat can help you learn the correct postures for your yoga routine and track your vitals.
 
@@ -68,7 +60,6 @@ The Yogifi yoga mat can help you learn the correct postures for your yoga routin
  - [https://www.zdnet.com/home-and-office/home-entertainment/the-asus-rog-strix-gaming-pc-just-dropped-price-deal-sale-coupon-code/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/the-asus-rog-strix-gaming-pc-just-dropped-price-deal-sale-coupon-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 19:25:00+00:00
- - tags: None
 
 This pre-Black Friday deal on a top gaming tower PC isn't to be missed.
 
@@ -76,7 +67,6 @@ This pre-Black Friday deal on a top gaming tower PC isn't to be missed.
  - [https://www.zdnet.com/home-and-office/kitchen-household/best-gifts-under-75/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/kitchen-household/best-gifts-under-75/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 19:13:00+00:00
- - tags: None
 
 Holiday shopping season is upon, and if you're in search for the best cheap tech gifts, there are plenty of options for any recipient that are under $75.
 
@@ -84,7 +74,6 @@ Holiday shopping season is upon, and if you're in search for the best cheap tech
  - [https://www.zdnet.com/home-and-office/kitchen-household/gift-under-100/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/kitchen-household/gift-under-100/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 18:54:00+00:00
- - tags: None
 
 With the holidays quickly approaching, it's time to start shopping. The best tech gifts don't have to cost a fortune -- we've rounded up products and devices for $100 or less.
 
@@ -92,7 +81,6 @@ With the holidays quickly approaching, it's time to start shopping. The best tec
  - [https://www.zdnet.com/home-and-office/home-entertainment/rode-x-xdm-100-review-the-best-usb-microphone-ive-used/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/rode-x-xdm-100-review-the-best-usb-microphone-ive-used/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 18:39:57+00:00
- - tags: None
 
 Rode's experience with creating pro-grade audio equipment combines with the ease of USB-based audio to create a standout entry in the Rode X debut lineup that sounds good enough for the pickiest streamer or podcaster.
 
@@ -100,7 +88,6 @@ Rode's experience with creating pro-grade audio equipment combines with the ease
  - [https://www.zdnet.com/article/why-twitter-will-fail-shortly/#ftag=RSSbaffb68](https://www.zdnet.com/article/why-twitter-will-fail-shortly/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 18:24:03+00:00
- - tags: None
 
 Sometime soon, Twitter will crash badly. Here's why.
 
@@ -108,7 +95,6 @@ Sometime soon, Twitter will crash badly. Here's why.
  - [https://www.zdnet.com/article/what-motherboard-do-i-have-3-fast-and-easy-ways-to-check/#ftag=RSSbaffb68](https://www.zdnet.com/article/what-motherboard-do-i-have-3-fast-and-easy-ways-to-check/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 18:01:48+00:00
- - tags: None
 
 If you are looking to upgrade components inside your PC, it's good to know what motherboard is at the heart of your system.
 
@@ -116,7 +102,6 @@ If you are looking to upgrade components inside your PC, it's good to know what 
  - [https://www.zdnet.com/article/garmins-new-glow-in-the-dark-hybrid-sports-watch-promises-infinite-battery-life/#ftag=RSSbaffb68](https://www.zdnet.com/article/garmins-new-glow-in-the-dark-hybrid-sports-watch-promises-infinite-battery-life/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 17:37:00+00:00
- - tags: None
 
 The Instinct Crossover carries the greatness of Garmin's GPS sports watch line to a hybrid analog form factor. And with battery saver mode, you'll never need to charge it.
 
@@ -124,7 +109,6 @@ The Instinct Crossover carries the greatness of Garmin's GPS sports watch line t
  - [https://www.zdnet.com/article/this-holiday-season-you-can-expect-your-amazon-packages-to-be-delivered-in-an-electric-vehicle/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-holiday-season-you-can-expect-your-amazon-packages-to-be-delivered-in-an-electric-vehicle/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 17:31:18+00:00
- - tags: None
 
 Amazon will have over 1,000 electric vehicles on the road just in time for the holiday shopping frenzy.
 
@@ -132,7 +116,6 @@ Amazon will have over 1,000 electric vehicles on the road just in time for the h
  - [https://www.zdnet.com/article/department-of-justice-seized-3-billion-in-bitcoin-found-in-underground-safe-and-popcorn-tin-after-silk-road-fraud/#ftag=RSSbaffb68](https://www.zdnet.com/article/department-of-justice-seized-3-billion-in-bitcoin-found-in-underground-safe-and-popcorn-tin-after-silk-road-fraud/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 17:07:39+00:00
- - tags: None
 
 The cache of Bitcoin taken from Silk Road a decade ago was worth $3.36bn when the US government seized it in late 2021.
 
@@ -140,7 +123,6 @@ The cache of Bitcoin taken from Silk Road a decade ago was worth $3.36bn when th
  - [https://www.zdnet.com/article/zoom-launches-its-own-email-calendar-services/#ftag=RSSbaffb68](https://www.zdnet.com/article/zoom-launches-its-own-email-calendar-services/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 17:00:28+00:00
- - tags: None
 
 The teleconferencing company is also providing direct access to popular third-party email and calendar tools, coming one step closer to serving as your all-in-one productivity platform.
 
@@ -148,7 +130,6 @@ The teleconferencing company is also providing direct access to popular third-pa
  - [https://www.zdnet.com/article/shangri-la-hotel-data-breach-likely-had-minimal-impact-at-singapore-ministerial-summit/#ftag=RSSbaffb68](https://www.zdnet.com/article/shangri-la-hotel-data-breach-likely-had-minimal-impact-at-singapore-ministerial-summit/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 16:08:00+00:00
- - tags: None
 
 Singapore says most of the foreign government delegates who attended this year's Shangri-La Dialogue defence summit did not provide their personal details, while the hotel group unveils it has received an email from hackers claiming responsibility for the attack.
 
@@ -156,7 +137,6 @@ Singapore says most of the foreign government delegates who attended this year's
  - [https://www.zdnet.com/article/surprise-the-gopro-hero-11-black-mini-is-now-shipping/#ftag=RSSbaffb68](https://www.zdnet.com/article/surprise-the-gopro-hero-11-black-mini-is-now-shipping/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 15:53:22+00:00
- - tags: None
 
 GoPro's latest camera packs the same sensor and shooting modes as the Hero 11 Black, but in a smaller body, is now available.
 
@@ -164,7 +144,6 @@ GoPro's latest camera packs the same sensor and shooting modes as the Hero 11 Bl
  - [https://www.zdnet.com/home-and-office/smart-office/ugreens-gan-chargers-are-smaller-mightier-and-cooler-than-yours/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-office/ugreens-gan-chargers-are-smaller-mightier-and-cooler-than-yours/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 15:50:27+00:00
- - tags: None
 
 A key advantage of chargers with gallium nitride (GaN) components is faster, cooler, and more compact hardware for topping up your phone, tablet, or laptop. Ugreen makes one of the most comprehensive lineups of GaN chargers available.
 
@@ -172,7 +151,6 @@ A key advantage of chargers with gallium nitride (GaN) components is faster, coo
  - [https://www.zdnet.com/article/insta360-one-rs-1-inch-360-edition-review/#ftag=RSSbaffb68](https://www.zdnet.com/article/insta360-one-rs-1-inch-360-edition-review/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 13:00:27+00:00
- - tags: None
 
 In the continuing development of the One RS modular platform, Insta360 launched a variation with two big Leica lenses designed to provide enhanced 360 images.
 
@@ -180,7 +158,6 @@ In the continuing development of the One RS modular platform, Insta360 launched 
  - [https://www.zdnet.com/article/elon-musk-twitter-usage-is-at-all-time-high-lol/#ftag=RSSbaffb68](https://www.zdnet.com/article/elon-musk-twitter-usage-is-at-all-time-high-lol/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 12:07:56+00:00
- - tags: None
 
 Twitter is trying to win back advertisers with claims that user growth is accelerating.
 
@@ -188,7 +165,6 @@ Twitter is trying to win back advertisers with claims that user growth is accele
  - [https://www.zdnet.com/article/pc-using-too-much-power-the-latest-windows-11-preview-has-some-tips-for-you/#ftag=RSSbaffb68](https://www.zdnet.com/article/pc-using-too-much-power-the-latest-windows-11-preview-has-some-tips-for-you/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 10:47:00+00:00
- - tags: None
 
 Microsoft gives its NPU-enabled AI feature, Studio Effects, a shortcut in the task bar and energy-use recommendations.
 
@@ -196,7 +172,6 @@ Microsoft gives its NPU-enabled AI feature, Studio Effects, a shortcut in the ta
  - [https://www.zdnet.com/article/password-hacking-attacks-are-on-the-rise-heres-how-to-stop-your-accounts-from-being-stolen/#ftag=RSSbaffb68](https://www.zdnet.com/article/password-hacking-attacks-are-on-the-rise-heres-how-to-stop-your-accounts-from-being-stolen/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 10:22:58+00:00
- - tags: None
 
 Passwords are a common target for hackers, but many of us still aren't doing the basics to help protect our accounts. Here's what to do.
 
@@ -204,7 +179,6 @@ Passwords are a common target for hackers, but many of us still aren't doing the
  - [https://www.zdnet.com/home-and-office/the-asus-rog-strix-gaming-pc-just-dropped-price-deal-sale-coupon-code/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/the-asus-rog-strix-gaming-pc-just-dropped-price-deal-sale-coupon-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 09:34:14+00:00
- - tags: None
 
 This pre-Black Friday deal on a top gaming tower PC isn't to be missed.
 
@@ -212,7 +186,6 @@ This pre-Black Friday deal on a top gaming tower PC isn't to be missed.
  - [https://www.zdnet.com/home-and-office/networking/new-300m-subsea-cable-network-to-link-southeast-asia-china/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/networking/new-300m-subsea-cable-network-to-link-southeast-asia-china/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 08:14:24+00:00
- - tags: None
 
 Six carriers including Singtel, Globe Telecom, and China Telecom have banded to build a $300 million submarine cable system that will connect Hong Kong, Singapore, Brunei, the Philippines, and China.
 
@@ -220,7 +193,6 @@ Six carriers including Singtel, Globe Telecom, and China Telecom have banded to 
  - [https://www.zdnet.com/article/early-best-buy-black-friday-deals-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-best-buy-black-friday-deals-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 04:41:00+00:00
- - tags: None
 
 The big box store is one of the best places to score great deals on tech. This year, you can start shopping earlier with great deals in Best Buy's catalog.
 
@@ -228,7 +200,6 @@ The big box store is one of the best places to score great deals on tech. This y
  - [https://www.zdnet.com/article/early-newegg-black-friday-deals-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-newegg-black-friday-deals-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 04:34:00+00:00
- - tags: None
 
 Before this Black Friday, Newegg is offering loads of deals on everything from sound systems to gaming PCs. Some come with a bonus Black Friday price guarantee.
 
@@ -236,7 +207,6 @@ Before this Black Friday, Newegg is offering loads of deals on everything from s
  - [https://www.zdnet.com/home-and-office/home-entertainment/early-black-friday-tv-deals-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/early-black-friday-tv-deals-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 03:42:00+00:00
- - tags: None
 
 Whether you're buying your first TV or upgrading your home theater, these awesome Black Friday and Cyber Monday deals make it more affordable than ever. Brands like Samsung, Sony, LG, and TCL have great discounts on already budget-friendly models as well as high-end TVs for shoppers looking for premium features like OLED panels and virtual surround sound.
 
@@ -244,7 +214,6 @@ Whether you're buying your first TV or upgrading your home theater, these awesom
  - [https://www.zdnet.com/article/early-dell-black-friday-deals-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-dell-black-friday-deals-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 03:04:00+00:00
- - tags: None
 
 Get Dell's lightest mobile workstation for $1,829 or get Dell's Alienware m15 R5 gaming laptop for $1,500 with free two-day delivery on your purchase.
 
@@ -252,7 +221,6 @@ Get Dell's lightest mobile workstation for $1,829 or get Dell's Alienware m15 R5
  - [https://www.zdnet.com/home-and-office/early-costco-black-friday-deals-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/early-costco-black-friday-deals-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 02:49:00+00:00
- - tags: None
 
 Costco doesn't disappoint when it comes to savings, and it's continuing the tradition this Black Friday. But you don't have to wait; ZDNET gathered the best deals at Costco right now.
 
@@ -260,7 +228,6 @@ Costco doesn't disappoint when it comes to savings, and it's continuing the trad
  - [https://www.zdnet.com/home-and-office/home-entertainment/early-black-friday-gaming-deals-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/early-black-friday-gaming-deals-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 02:29:00+00:00
- - tags: None
 
 Get a jump on your Christmas list with these awesome deals on gaming laptops, consoles, and accessories. Retailers like Amazon, Best Buy, and Target have huge discounts on everything you need to create the ultimate gaming space.
 
@@ -268,7 +235,6 @@ Get a jump on your Christmas list with these awesome deals on gaming laptops, co
  - [https://www.zdnet.com/article/early-black-friday-storage-and-black-friday-deals-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-black-friday-storage-and-black-friday-deals-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 02:14:00+00:00
- - tags: None
 
 ZDNET has rounded up its top picks for early storage and SSD deals ahead of Black Friday, from retailers and manufacturers.
 
@@ -276,7 +242,6 @@ ZDNET has rounded up its top picks for early storage and SSD deals ahead of Blac
  - [https://www.zdnet.com/article/early-black-friday-storage-ssd-black-friday-deals-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-black-friday-storage-ssd-black-friday-deals-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 02:14:00+00:00
- - tags: None
 
 ZDNET has rounded up its top picks for early storage and SSD deals ahead of Black Friday, from retailers and manufacturers.
 
@@ -284,6 +249,5 @@ ZDNET has rounded up its top picks for early storage and SSD deals ahead of Blac
  - [https://www.zdnet.com/article/lg-display-develops-stretchable-display-that-extends-by-20/#ftag=RSSbaffb68](https://www.zdnet.com/article/lg-display-develops-stretchable-display-that-extends-by-20/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-08 00:19:00+00:00
- - tags: None
 
 The full-color 12-inch display can be extended to 14 inches in size and is aimed for use on uneven surfaces.

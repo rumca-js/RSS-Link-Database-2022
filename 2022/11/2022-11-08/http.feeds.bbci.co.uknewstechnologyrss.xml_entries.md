@@ -1,10 +1,9 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml
+# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
 
 ## Foxconn: iPhone maker bets on electric truck firm Lordstown Motors
  - [https://www.bbc.co.uk/news/business-63551439?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63551439?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-11-08 04:28:32+00:00
- - tags: None
 
 The Taiwanese technology giant says it will invest up to $170m in Ohio-based Lordstown Motors.
 
@@ -12,7 +11,6 @@ The Taiwanese technology giant says it will invest up to $170m in Ohio-based Lor
  - [https://www.bbc.co.uk/news/technology-63544169?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63544169?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-11-08 00:33:04+00:00
- - tags: None
 
 Privacy campaign group Big Brother Watch has asked the UK privacy watchdog to investigate PimEyes.
 
@@ -20,6 +18,5 @@ Privacy campaign group Big Brother Watch has asked the UK privacy watchdog to in
  - [https://www.bbc.co.uk/news/business-62619313?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-62619313?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-11-08 00:02:15+00:00
- - tags: None
 
 Progress is being made on systems to make hydrogen more economical to store and transport.

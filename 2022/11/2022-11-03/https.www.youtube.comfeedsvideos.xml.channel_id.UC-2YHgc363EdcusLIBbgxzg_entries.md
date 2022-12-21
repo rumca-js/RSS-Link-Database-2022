@@ -1,10 +1,9 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
+# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
 
 ## Men Can Lactate  #shorts
  - [https://www.youtube.com/watch?v=MLJoCYn3hAE](https://www.youtube.com/watch?v=MLJoCYn3hAE)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
  - date published: 2022-11-03 04:10:08+00:00
- - tags: None
 
 Or, I am awkward at parties.
 

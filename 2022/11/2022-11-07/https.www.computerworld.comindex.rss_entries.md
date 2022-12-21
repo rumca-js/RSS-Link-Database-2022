@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Meta reportedly set to cut thousands of jobs this week
  - [https://www.computerworld.com/article/3678772/meta-reportedly-set-to-cut-thousands-of-jobs-this-week.html#tk.rss_all](https://www.computerworld.com/article/3678772/meta-reportedly-set-to-cut-thousands-of-jobs-this-week.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-07 16:57:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3678772/update-meta-confirms-it-will-cut-thousands-of-jobs.html#tk.rss_all](https://www.computerworld.com/article/3678772/update-meta-confirms-it-will-cut-thousands-of-jobs.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-07 16:57:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -24,7 +22,6 @@
  - [https://www.computerworld.com/article/3678853/for-windows-8-the-end-is-near.html#tk.rss_all](https://www.computerworld.com/article/3678853/for-windows-8-the-end-is-near.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-07 16:36:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -34,7 +31,6 @@
  - [https://www.computerworld.com/article/3679070/apple-covid-19-will-hit-iphone-supplies.html#tk.rss_all](https://www.computerworld.com/article/3679070/apple-covid-19-will-hit-iphone-supplies.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-07 12:31:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -45,7 +41,6 @@
  - [https://www.computerworld.com/article/3622001/how-to-protect-privacy-windows-10.html#tk.rss_all](https://www.computerworld.com/article/3622001/how-to-protect-privacy-windows-10.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-07 11:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

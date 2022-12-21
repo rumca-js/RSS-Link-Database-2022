@@ -1,10 +1,9 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage
+# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
 
 ## Hard Reset Or, How Not to Drive Your Company Off a Cliff
  - [https://sarahguo.com/blog/hardreset](https://sarahguo.com/blog/hardreset)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 23:56:39+00:00
- - tags: None
 
 <p>Article URL: <a href="https://sarahguo.com/blog/hardreset">https://sarahguo.com/blog/hardreset</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33578487">https://news.ycombinator.com/item?id=33578487</a></p>
@@ -15,7 +14,6 @@
  - [https://kylehovey.github.io/blog/automata-nebula](https://kylehovey.github.io/blog/automata-nebula)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 23:39:19+00:00
- - tags: None
 
 <p>Article URL: <a href="https://kylehovey.github.io/blog/automata-nebula">https://kylehovey.github.io/blog/automata-nebula</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33578376">https://news.ycombinator.com/item?id=33578376</a></p>
@@ -26,7 +24,6 @@
  - [https://www.statnews.com/2022/11/03/why-were-not-prepared-for-next-wave-of-biotech-innovation/](https://www.statnews.com/2022/11/03/why-were-not-prepared-for-next-wave-of-biotech-innovation/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 22:35:16+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.statnews.com/2022/11/03/why-were-not-prepared-for-next-wave-of-biotech-innovation/">https://www.statnews.com/2022/11/03/why-were-not-prepared-for-next-wave-of-biotech-innovation/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33577855">https://news.ycombinator.com/item?id=33577855</a></p>
@@ -37,7 +34,6 @@
  - [https://www.youtube.com/watch?v=pgkhBOc5V-c](https://www.youtube.com/watch?v=pgkhBOc5V-c)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 22:29:06+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.youtube.com/watch?v=pgkhBOc5V-c">https://www.youtube.com/watch?v=pgkhBOc5V-c</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33577807">https://news.ycombinator.com/item?id=33577807</a></p>
@@ -48,7 +44,6 @@
  - [https://www.ft.com/content/0c2a55b6-d34c-4685-8a8d-3c9628f1f185](https://www.ft.com/content/0c2a55b6-d34c-4685-8a8d-3c9628f1f185)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 21:47:15+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.ft.com/content/0c2a55b6-d34c-4685-8a8d-3c9628f1f185">https://www.ft.com/content/0c2a55b6-d34c-4685-8a8d-3c9628f1f185</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33577437">https://news.ycombinator.com/item?id=33577437</a></p>
@@ -59,7 +54,6 @@
  - [https://www.abc.net.au/news/2022-11-13/earths-population-reaches-eight-billion-people/101643854](https://www.abc.net.au/news/2022-11-13/earths-population-reaches-eight-billion-people/101643854)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 21:40:44+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.abc.net.au/news/2022-11-13/earths-population-reaches-eight-billion-people/101643854">https://www.abc.net.au/news/2022-11-13/earths-population-reaches-eight-billion-people/101643854</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33577389">https://news.ycombinator.com/item?id=33577389</a></p>
@@ -70,7 +64,6 @@
  - [https://cryptoslate.com/ftx-hacker-identity-discovered-by-kraken-exchange-team/](https://cryptoslate.com/ftx-hacker-identity-discovered-by-kraken-exchange-team/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 21:31:13+00:00
- - tags: None
 
 <p>Article URL: <a href="https://cryptoslate.com/ftx-hacker-identity-discovered-by-kraken-exchange-team/">https://cryptoslate.com/ftx-hacker-identity-discovered-by-kraken-exchange-team/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33577311">https://news.ycombinator.com/item?id=33577311</a></p>
@@ -81,7 +74,6 @@
  - [https://bevyengine.org/news/bevy-0-9/](https://bevyengine.org/news/bevy-0-9/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 21:28:01+00:00
- - tags: None
 
 <p>Article URL: <a href="https://bevyengine.org/news/bevy-0-9/">https://bevyengine.org/news/bevy-0-9/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33577284">https://news.ycombinator.com/item?id=33577284</a></p>
@@ -92,7 +84,6 @@
  - [https://defn.io/2022/11/12/ann-racket-lua/](https://defn.io/2022/11/12/ann-racket-lua/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 21:07:29+00:00
- - tags: None
 
 <p>Article URL: <a href="https://defn.io/2022/11/12/ann-racket-lua/">https://defn.io/2022/11/12/ann-racket-lua/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33577089">https://news.ycombinator.com/item?id=33577089</a></p>
@@ -103,7 +94,6 @@
  - [https://destevez.net/2022/11/using-gse-and-dvb-s2-for-ip-traffic/](https://destevez.net/2022/11/using-gse-and-dvb-s2-for-ip-traffic/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 20:33:16+00:00
- - tags: None
 
 <p>Article URL: <a href="https://destevez.net/2022/11/using-gse-and-dvb-s2-for-ip-traffic/">https://destevez.net/2022/11/using-gse-and-dvb-s2-for-ip-traffic/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33576744">https://news.ycombinator.com/item?id=33576744</a></p>
@@ -114,7 +104,6 @@
  - [https://twitter.com/rauchg/status/1591464351990697984](https://twitter.com/rauchg/status/1591464351990697984)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 20:30:57+00:00
- - tags: None
 
 <p>Article URL: <a href="https://twitter.com/rauchg/status/1591464351990697984">https://twitter.com/rauchg/status/1591464351990697984</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33576722">https://news.ycombinator.com/item?id=33576722</a></p>
@@ -125,7 +114,6 @@
  - [https://twitter.com/remarks/status/1591525604947824641](https://twitter.com/remarks/status/1591525604947824641)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 20:28:34+00:00
- - tags: None
 
 <p>Article URL: <a href="https://twitter.com/remarks/status/1591525604947824641">https://twitter.com/remarks/status/1591525604947824641</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33576700">https://news.ycombinator.com/item?id=33576700</a></p>
@@ -136,7 +124,6 @@
  - [https://news.ycombinator.com/item?id=33576607](https://news.ycombinator.com/item?id=33576607)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 20:17:28+00:00
- - tags: None
 
 <p>Recently interviewed with a medium sized company for a backend dev position.<p>They said I passed the interviews and promised an offer. After a month of "trying to find a customer to place me", telling me I'm a fantastic candidate etc. they finally decided to cancel the verbal offer until maybe next year.<p>I've recently had other bad experiences were they basically try to find excuses to cut me on interviews. It's like I'm answering the questions correctly minus one, so I'm disqualified.<p>I don't remember job searching being that hard even a few years ago, anybody relates?</p>
 <hr />
@@ -148,7 +135,6 @@
  - [https://www.starfishandcoffeeofficial.com/pages/the-story](https://www.starfishandcoffeeofficial.com/pages/the-story)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 19:49:12+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.starfishandcoffeeofficial.com/pages/the-story">https://www.starfishandcoffeeofficial.com/pages/the-story</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33576372">https://news.ycombinator.com/item?id=33576372</a></p>
@@ -159,7 +145,6 @@
  - [https://philo.substack.com/p/whats-wrong-with-california](https://philo.substack.com/p/whats-wrong-with-california)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 19:16:20+00:00
- - tags: None
 
 <p>Article URL: <a href="https://philo.substack.com/p/whats-wrong-with-california">https://philo.substack.com/p/whats-wrong-with-california</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33576090">https://news.ycombinator.com/item?id=33576090</a></p>
@@ -170,7 +155,6 @@
  - [https://arstechnica.com/gadgets/2022/11/surface-9-pro-teardown-reveals-modular-parts-microsofts-2023-repair-plans/](https://arstechnica.com/gadgets/2022/11/surface-9-pro-teardown-reveals-modular-parts-microsofts-2023-repair-plans/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 19:03:42+00:00
- - tags: None
 
 <p>Article URL: <a href="https://arstechnica.com/gadgets/2022/11/surface-9-pro-teardown-reveals-modular-parts-microsofts-2023-repair-plans/">https://arstechnica.com/gadgets/2022/11/surface-9-pro-teardown-reveals-modular-parts-microsofts-2023-repair-plans/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33575974">https://news.ycombinator.com/item?id=33575974</a></p>
@@ -181,7 +165,6 @@
  - [https://www.space.com/space-force-x-37b-space-plane-otv-6-mission-ends](https://www.space.com/space-force-x-37b-space-plane-otv-6-mission-ends)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 18:19:57+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.space.com/space-force-x-37b-space-plane-otv-6-mission-ends">https://www.space.com/space-force-x-37b-space-plane-otv-6-mission-ends</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33575551">https://news.ycombinator.com/item?id=33575551</a></p>
@@ -192,7 +175,6 @@
  - [https://news.ycombinator.com/item?id=33575549](https://news.ycombinator.com/item?id=33575549)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 18:19:52+00:00
- - tags: None
 
 <p>Sequoia reportedly lost $213m on the FTX debacle (though has billions in gains from elsewhere to offset these losses). I'm wondering, will Sequoia increase pressure on the remainder of its portfolio to turn a profit? Will they increase scrutiny of each business? More generally, how do VCs react to losses?<p>I'm working for a VC backed startup, so I'm  wondering how these sorts of situations may indirectly affect me.</p>
 <hr />
@@ -204,7 +186,6 @@
  - [https://github-business-card.vercel.app/](https://github-business-card.vercel.app/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 18:17:22+00:00
- - tags: None
 
 <p>I built this small app for fun, to play with image generation thanks to Vercel’s new library [1]. You enter your GitHub username (or anyone’s), and it generates an image with a few info about your account.<p>[1] <a href="https://vercel.com/docs/concepts/functions/edge-functions/og-image-generation" rel="nofollow">https://vercel.com/docs/concepts/functions/edge-functions/og...</a></p>
 <hr />
@@ -216,7 +197,6 @@
  - [https://freedomnews.org.uk/2022/11/11/a-cartography-of-police-violence/](https://freedomnews.org.uk/2022/11/11/a-cartography-of-police-violence/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 18:17:10+00:00
- - tags: None
 
 <p>Article URL: <a href="https://freedomnews.org.uk/2022/11/11/a-cartography-of-police-violence/">https://freedomnews.org.uk/2022/11/11/a-cartography-of-police-violence/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33575523">https://news.ycombinator.com/item?id=33575523</a></p>
@@ -227,7 +207,6 @@
  - [https://www.w3.org/Proposal.html](https://www.w3.org/Proposal.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 18:11:16+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.w3.org/Proposal.html">https://www.w3.org/Proposal.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33575479">https://news.ycombinator.com/item?id=33575479</a></p>
@@ -238,7 +217,6 @@
  - [https://www.isi.edu/~hardaker/news/20221106-ietf-c02-analysis/](https://www.isi.edu/~hardaker/news/20221106-ietf-c02-analysis/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 18:05:03+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.isi.edu/~hardaker/news/20221106-ietf-c02-analysis/">https://www.isi.edu/~hardaker/news/20221106-ietf-c02-analysis/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33575425">https://news.ycombinator.com/item?id=33575425</a></p>
@@ -249,7 +227,6 @@
  - [https://reason.com/2022/11/04/this-court-case-could-make-it-a-crime-to-be-a-journalist-in-texas/](https://reason.com/2022/11/04/this-court-case-could-make-it-a-crime-to-be-a-journalist-in-texas/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 17:56:03+00:00
- - tags: None
 
 <p>Article URL: <a href="https://reason.com/2022/11/04/this-court-case-could-make-it-a-crime-to-be-a-journalist-in-texas/">https://reason.com/2022/11/04/this-court-case-could-make-it-a-crime-to-be-a-journalist-in-texas/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33575357">https://news.ycombinator.com/item?id=33575357</a></p>
@@ -260,7 +237,6 @@
  - [https://www.ft.com/content/f05fe9f8-ca0a-48d5-8ef2-7a4d813af558](https://www.ft.com/content/f05fe9f8-ca0a-48d5-8ef2-7a4d813af558)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 17:46:23+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.ft.com/content/f05fe9f8-ca0a-48d5-8ef2-7a4d813af558">https://www.ft.com/content/f05fe9f8-ca0a-48d5-8ef2-7a4d813af558</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33575281">https://news.ycombinator.com/item?id=33575281</a></p>
@@ -271,7 +247,6 @@
  - [https://www.reuters.com/world/us/us-seeks-15-years-elizabeth-holmes-over-theranos-fraud-2022-11-12/](https://www.reuters.com/world/us/us-seeks-15-years-elizabeth-holmes-over-theranos-fraud-2022-11-12/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 17:23:57+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.reuters.com/world/us/us-seeks-15-years-elizabeth-holmes-over-theranos-fraud-2022-11-12/">https://www.reuters.com/world/us/us-seeks-15-years-elizabeth-holmes-over-theranos-fraud-2022-11-12/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33575082">https://news.ycombinator.com/item?id=33575082</a></p>
@@ -282,7 +257,6 @@
  - [https://www.theguardian.com/australia-news/2022/nov/11/australia-gives-world-first-approval-for-faecal-transplants-to-restore-gut-health](https://www.theguardian.com/australia-news/2022/nov/11/australia-gives-world-first-approval-for-faecal-transplants-to-restore-gut-health)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 16:29:57+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.theguardian.com/australia-news/2022/nov/11/australia-gives-world-first-approval-for-faecal-transplants-to-restore-gut-health">https://www.theguardian.com/australia-news/2022/nov/11/australia-gives-world-first-approval-for-faecal-transplants-to-restore-gut-health</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33574568">https://news.ycombinator.com/item?id=33574568</a></p>
@@ -293,7 +267,6 @@
  - [https://pldb.com/posts/scottFalhmanInterview.html](https://pldb.com/posts/scottFalhmanInterview.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 16:07:52+00:00
- - tags: None
 
 <p>Article URL: <a href="https://pldb.com/posts/scottFalhmanInterview.html">https://pldb.com/posts/scottFalhmanInterview.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33574311">https://news.ycombinator.com/item?id=33574311</a></p>
@@ -304,7 +277,6 @@
  - [https://news.ycombinator.com/item?id=33574154](https://news.ycombinator.com/item?id=33574154)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 15:50:08+00:00
- - tags: None
 
 <p>I'm an old MS-DOS / Windows programmer used to Turbo Pascal, Delphi, etc.  The old days were simple, in that you compiled code, and gave it to your customers. Everything just works.<p>Now every time I try to learn something new... there's always a build system in the way, with MSTOICAL it was Autoconf, with switching to Linux, I couldn't get WikidPad to build on Linux, trying to build a lifeboat for Twitter, Python works, but then modules require builds that break.<p>Is it possible to have a system without Make or the like?<p>Alternatively, any good resources for the above?</p>
 <hr />
@@ -316,7 +288,6 @@
  - [https://www.wsj.com/articles/alameda-ftx-executives-are-said-to-have-known-ftx-was-using-customer-funds-11668264238](https://www.wsj.com/articles/alameda-ftx-executives-are-said-to-have-known-ftx-was-using-customer-funds-11668264238)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 15:36:33+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.wsj.com/articles/alameda-ftx-executives-are-said-to-have-known-ftx-was-using-customer-funds-11668264238">https://www.wsj.com/articles/alameda-ftx-executives-are-said-to-have-known-ftx-was-using-customer-funds-11668264238</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33574025">https://news.ycombinator.com/item?id=33574025</a></p>
@@ -327,7 +298,6 @@
  - [https://news.ycombinator.com/item?id=33573907](https://news.ycombinator.com/item?id=33573907)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 15:24:05+00:00
- - tags: None
 
 <p>Personally, my aim in life - my dream life - is to live a slow life. Own a small house somewhere in the woods. My days will be filled with writing and reading. What about you?</p>
 <hr />
@@ -339,7 +309,6 @@
  - [https://twitter.com/flightradar24/status/1591348369271971841](https://twitter.com/flightradar24/status/1591348369271971841)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 15:21:27+00:00
- - tags: None
 
 <p>Article URL: <a href="https://twitter.com/flightradar24/status/1591348369271971841">https://twitter.com/flightradar24/status/1591348369271971841</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33573875">https://news.ycombinator.com/item?id=33573875</a></p>
@@ -350,7 +319,6 @@
  - [https://fortune.com/2022/11/10/sam-bankman-fried-ftx-joe-biden-democratic-party-second-biggest-donor/](https://fortune.com/2022/11/10/sam-bankman-fried-ftx-joe-biden-democratic-party-second-biggest-donor/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 15:17:27+00:00
- - tags: None
 
 <p>Article URL: <a href="https://fortune.com/2022/11/10/sam-bankman-fried-ftx-joe-biden-democratic-party-second-biggest-donor/">https://fortune.com/2022/11/10/sam-bankman-fried-ftx-joe-biden-democratic-party-second-biggest-donor/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33573832">https://news.ycombinator.com/item?id=33573832</a></p>
@@ -361,7 +329,6 @@
  - [https://phys.org/news/2022-11-mathematics-dont-behavior-glasses.html](https://phys.org/news/2022-11-mathematics-dont-behavior-glasses.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 14:48:24+00:00
- - tags: None
 
 <p>Article URL: <a href="https://phys.org/news/2022-11-mathematics-dont-behavior-glasses.html">https://phys.org/news/2022-11-mathematics-dont-behavior-glasses.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33573555">https://news.ycombinator.com/item?id=33573555</a></p>
@@ -372,7 +339,6 @@
  - [https://www.wired.com/story/big-information-relx-privacy-surveillance-data/](https://www.wired.com/story/big-information-relx-privacy-surveillance-data/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 14:47:06+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.wired.com/story/big-information-relx-privacy-surveillance-data/">https://www.wired.com/story/big-information-relx-privacy-surveillance-data/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33573537">https://news.ycombinator.com/item?id=33573537</a></p>
@@ -383,7 +349,6 @@
  - [https://en.wikipedia.org/wiki/Ur](https://en.wikipedia.org/wiki/Ur)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 14:33:42+00:00
- - tags: None
 
 <p>Article URL: <a href="https://en.wikipedia.org/wiki/Ur">https://en.wikipedia.org/wiki/Ur</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33573395">https://news.ycombinator.com/item?id=33573395</a></p>
@@ -394,7 +359,6 @@
  - [https://www.thelancet.com/journals/lancet/article/PIIS0140673607601913/fulltext](https://www.thelancet.com/journals/lancet/article/PIIS0140673607601913/fulltext)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 14:26:52+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140673607601913/fulltext">https://www.thelancet.com/journals/lancet/article/PIIS0140673607601913/fulltext</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33573319">https://news.ycombinator.com/item?id=33573319</a></p>
@@ -405,7 +369,6 @@
  - [https://blog.vslira.net/2022/11/what-if-regular-exercise-is-best.html](https://blog.vslira.net/2022/11/what-if-regular-exercise-is-best.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 14:17:37+00:00
- - tags: None
 
 <p>Article URL: <a href="https://blog.vslira.net/2022/11/what-if-regular-exercise-is-best.html">https://blog.vslira.net/2022/11/what-if-regular-exercise-is-best.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33573246">https://news.ycombinator.com/item?id=33573246</a></p>
@@ -416,7 +379,6 @@
  - [https://fortune.com/2022/11/11/crypto-bubble-bitcoin-fifth-biggest-all-time-bofa-ftx/](https://fortune.com/2022/11/11/crypto-bubble-bitcoin-fifth-biggest-all-time-bofa-ftx/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 14:15:57+00:00
- - tags: None
 
 <p>Article URL: <a href="https://fortune.com/2022/11/11/crypto-bubble-bitcoin-fifth-biggest-all-time-bofa-ftx/">https://fortune.com/2022/11/11/crypto-bubble-bitcoin-fifth-biggest-all-time-bofa-ftx/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33573225">https://news.ycombinator.com/item?id=33573225</a></p>
@@ -427,7 +389,6 @@
  - [https://github.com/sibprogrammer/xq](https://github.com/sibprogrammer/xq)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 14:07:49+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/sibprogrammer/xq">https://github.com/sibprogrammer/xq</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33573157">https://news.ycombinator.com/item?id=33573157</a></p>
@@ -438,7 +399,6 @@
  - [https://news.ycombinator.com/item?id=33573118](https://news.ycombinator.com/item?id=33573118)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 14:02:31+00:00
- - tags: None
 
 <p>I notice this in myself and many others. The mental gymnastics we play to deflect. Just about everyone plays this game. Elon just did this recently and wrecked havoc on the Twitter staff.<p>How do we deal with this? That it’s my fault, and I don’t want to contort it and take it out on someone else or even myself. Why do we humans lack an ability to let a person confess within reason?<p>Or do I need to show up with a sink somewhere?<p>What exactly is a mistake?<p>Religion had a confession booth. You say it and move on. The house of rationality requires you to play out your mistake.<p>I don’t know the answers. It is cruel and unusual punishment to oneself and anyone that cares for you to live out a confession. It is better just said, and smacked in the head. Move on.</p>
 <hr />
@@ -450,7 +410,6 @@
  - [http://www.icrobotics.co.uk/wiki/index.php/Turning_the_Raspberry_Pi_Into_an_FM_Transmitter](http://www.icrobotics.co.uk/wiki/index.php/Turning_the_Raspberry_Pi_Into_an_FM_Transmitter)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 13:36:35+00:00
- - tags: None
 
 <p>Article URL: <a href="http://www.icrobotics.co.uk/wiki/index.php/Turning_the_Raspberry_Pi_Into_an_FM_Transmitter">http://www.icrobotics.co.uk/wiki/index.php/Turning_the_Raspberry_Pi_Into_an_FM_Transmitter</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33572912">https://news.ycombinator.com/item?id=33572912</a></p>
@@ -461,7 +420,6 @@
  - [https://github.com/rochus-keller/LeanQt/releases/tag/2022-11-11](https://github.com/rochus-keller/LeanQt/releases/tag/2022-11-11)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 13:21:50+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/rochus-keller/LeanQt/releases/tag/2022-11-11">https://github.com/rochus-keller/LeanQt/releases/tag/2022-11-11</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33572787">https://news.ycombinator.com/item?id=33572787</a></p>
@@ -472,7 +430,6 @@
  - [https://aaronzlewis.com/blog/2021/01/17/inside-the-digital-sensorium/](https://aaronzlewis.com/blog/2021/01/17/inside-the-digital-sensorium/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 13:15:54+00:00
- - tags: None
 
 <p>Article URL: <a href="https://aaronzlewis.com/blog/2021/01/17/inside-the-digital-sensorium/">https://aaronzlewis.com/blog/2021/01/17/inside-the-digital-sensorium/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33572737">https://news.ycombinator.com/item?id=33572737</a></p>
@@ -483,7 +440,6 @@
  - [https://www.theatlantic.com/technology/archive/2022/11/sam-bankman-fried-bankruptcy-crypto-ftx/672104/](https://www.theatlantic.com/technology/archive/2022/11/sam-bankman-fried-bankruptcy-crypto-ftx/672104/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 12:31:56+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.theatlantic.com/technology/archive/2022/11/sam-bankman-fried-bankruptcy-crypto-ftx/672104/">https://www.theatlantic.com/technology/archive/2022/11/sam-bankman-fried-bankruptcy-crypto-ftx/672104/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33572436">https://news.ycombinator.com/item?id=33572436</a></p>
@@ -494,7 +450,6 @@
  - [https://news.ycombinator.com/item?id=33572390](https://news.ycombinator.com/item?id=33572390)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 12:22:37+00:00
- - tags: None
 
 <p>I recently received the following email from Microsoft, with hard deadlines for banning domain fronting on existing and new Azure CDN services:<p>"Action required: Azure Front Door/Azure CDN blocking domain fronting<p>Please take action to stop domain fronting on your application before 8 November 2023
 You're receiving this email because you currently use Azure Front Door or Azure CDN Standard from Microsoft (classic).<p>Since 29 April 2022, we've changed the behavior of Azure Front Door and Azure CDN from Microsoft to align with our commitment to stop allowing domain fronting behavior on our platform. With that change, we offered the option to enable blocking domain fronting for existing or newly created Azure Front Door, Azure Front Door (classic) and Azure CDN Standard from Microsoft (classic) resources, through opening a support request. See details in  https://azure.microsoft.com/updates/blocking-domain-fronting-behavior-on-azure-front-door-azure-front-door-classic-and-azure-cdn-standard-from-microsoft-classic.<p>To continue our commitment, we're making changes in two phases to stop allowing domain fronting behavior on our platform.<p>1. Beginning 8 November 2022, all the newly created Azure Front Door, Azure Front Door (classic) or Azure CDN Standard from Microsoft (classic) resources will block any HTTP request that exhibits domain fronting behavior. Previously existing Front Door, Front Door (classic) and CDN from Microsoft (classic) resources aren't affected by these changes.<p>2. Beginning 8 November 2023, all existing Azure Front Door, Azure Front Door (classic) and Azure CDN Standard from Microsoft (classic) resources will block any HTTP request that exhibits domain fronting behavior.<p>Recommended action
@@ -508,7 +463,6 @@ Between now and 7 November 2023, if you want to block domain fronting for any ex
  - [https://arxiv.org/abs/2201.07220](https://arxiv.org/abs/2201.07220)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 12:16:35+00:00
- - tags: None
 
 <p>Article URL: <a href="https://arxiv.org/abs/2201.07220">https://arxiv.org/abs/2201.07220</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33572361">https://news.ycombinator.com/item?id=33572361</a></p>
@@ -519,7 +473,6 @@ Between now and 7 November 2023, if you want to block domain fronting for any ex
  - [https://dc.hillsdale.edu/Academy-for-Science-and-Freedom/The-Ethical-Principles-of-Public-Health/](https://dc.hillsdale.edu/Academy-for-Science-and-Freedom/The-Ethical-Principles-of-Public-Health/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 11:58:54+00:00
- - tags: None
 
 <p>Article URL: <a href="https://dc.hillsdale.edu/Academy-for-Science-and-Freedom/The-Ethical-Principles-of-Public-Health/">https://dc.hillsdale.edu/Academy-for-Science-and-Freedom/The-Ethical-Principles-of-Public-Health/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33572271">https://news.ycombinator.com/item?id=33572271</a></p>
@@ -530,7 +483,6 @@ Between now and 7 November 2023, if you want to block domain fronting for any ex
  - [https://frontendmastery.com/posts/the-evolution-of-scalable-css/](https://frontendmastery.com/posts/the-evolution-of-scalable-css/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 11:57:40+00:00
- - tags: None
 
 <p>Article URL: <a href="https://frontendmastery.com/posts/the-evolution-of-scalable-css/">https://frontendmastery.com/posts/the-evolution-of-scalable-css/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33572264">https://news.ycombinator.com/item?id=33572264</a></p>
@@ -541,7 +493,6 @@ Between now and 7 November 2023, if you want to block domain fronting for any ex
  - [http://blog.fogus.me/2011/05/03/the-german-school-of-lisp-2/](http://blog.fogus.me/2011/05/03/the-german-school-of-lisp-2/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 11:08:30+00:00
- - tags: None
 
 <p>Article URL: <a href="http://blog.fogus.me/2011/05/03/the-german-school-of-lisp-2/">http://blog.fogus.me/2011/05/03/the-german-school-of-lisp-2/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33572019">https://news.ycombinator.com/item?id=33572019</a></p>
@@ -552,7 +503,6 @@ Between now and 7 November 2023, if you want to block domain fronting for any ex
  - [https://twitter.com/drericding/status/1591168147792728065](https://twitter.com/drericding/status/1591168147792728065)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 10:57:23+00:00
- - tags: None
 
 <p>Article URL: <a href="https://twitter.com/drericding/status/1591168147792728065">https://twitter.com/drericding/status/1591168147792728065</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33571962">https://news.ycombinator.com/item?id=33571962</a></p>
@@ -563,7 +513,6 @@ Between now and 7 November 2023, if you want to block domain fronting for any ex
  - [https://drewdevault.com/2022/11/12/In-praise-of-Plan-9.html](https://drewdevault.com/2022/11/12/In-praise-of-Plan-9.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 10:53:53+00:00
- - tags: None
 
 <p>Article URL: <a href="https://drewdevault.com/2022/11/12/In-praise-of-Plan-9.html">https://drewdevault.com/2022/11/12/In-praise-of-Plan-9.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33571953">https://news.ycombinator.com/item?id=33571953</a></p>
@@ -574,7 +523,6 @@ Between now and 7 November 2023, if you want to block domain fronting for any ex
  - [https://www.businessinsider.com/ftx-investor-sequoia-removes-sam-bankman-fried-profile-2022-11](https://www.businessinsider.com/ftx-investor-sequoia-removes-sam-bankman-fried-profile-2022-11)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 10:06:07+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.businessinsider.com/ftx-investor-sequoia-removes-sam-bankman-fried-profile-2022-11">https://www.businessinsider.com/ftx-investor-sequoia-removes-sam-bankman-fried-profile-2022-11</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33571734">https://news.ycombinator.com/item?id=33571734</a></p>
@@ -585,7 +533,6 @@ Between now and 7 November 2023, if you want to block domain fronting for any ex
  - [https://zfsbootmenu.org/](https://zfsbootmenu.org/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 09:50:10+00:00
- - tags: None
 
 <p>Article URL: <a href="https://zfsbootmenu.org/">https://zfsbootmenu.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33571656">https://news.ycombinator.com/item?id=33571656</a></p>
@@ -596,7 +543,6 @@ Between now and 7 November 2023, if you want to block domain fronting for any ex
  - [https://github.com/facebookresearch/nle](https://github.com/facebookresearch/nle)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 09:49:53+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/facebookresearch/nle">https://github.com/facebookresearch/nle</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33571652">https://news.ycombinator.com/item?id=33571652</a></p>
@@ -607,7 +553,6 @@ Between now and 7 November 2023, if you want to block domain fronting for any ex
  - [https://blog.freeradical.zone/post/surviving-thriving-through-2022-11-05-meltdown/](https://blog.freeradical.zone/post/surviving-thriving-through-2022-11-05-meltdown/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 08:39:06+00:00
- - tags: None
 
 <p>Article URL: <a href="https://blog.freeradical.zone/post/surviving-thriving-through-2022-11-05-meltdown/">https://blog.freeradical.zone/post/surviving-thriving-through-2022-11-05-meltdown/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33571275">https://news.ycombinator.com/item?id=33571275</a></p>
@@ -618,7 +563,6 @@ Between now and 7 November 2023, if you want to block domain fronting for any ex
  - [https://alexyorke.github.io//2022/11/11/gzip-exceptions-but-only-on-hot-or-rainy-days/](https://alexyorke.github.io//2022/11/11/gzip-exceptions-but-only-on-hot-or-rainy-days/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 07:58:57+00:00
- - tags: None
 
 <p>Article URL: <a href="https://alexyorke.github.io//2022/11/11/gzip-exceptions-but-only-on-hot-or-rainy-days/">https://alexyorke.github.io//2022/11/11/gzip-exceptions-but-only-on-hot-or-rainy-days/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33571080">https://news.ycombinator.com/item?id=33571080</a></p>
@@ -629,7 +573,6 @@ Between now and 7 November 2023, if you want to block domain fronting for any ex
  - [http://twitterisgoinggreat.com/](http://twitterisgoinggreat.com/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 06:56:25+00:00
- - tags: None
 
 <p>Article URL: <a href="http://twitterisgoinggreat.com/">http://twitterisgoinggreat.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33570741">https://news.ycombinator.com/item?id=33570741</a></p>
@@ -640,7 +583,6 @@ Between now and 7 November 2023, if you want to block domain fronting for any ex
  - [https://news.ycombinator.com/item?id=33570740](https://news.ycombinator.com/item?id=33570740)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 06:56:24+00:00
- - tags: None
 
 <p>Context (skippable):<p>If you want to learn web development today and you use Google—even with the “one weird trick” of appending ”reddit” to your searches—all you find are micro-services, serverless/lambdas, >1M react packages, >10M npm packages, and >100M tutorials of how to do yet another to-do list with MongoDB or Firebase or the amazing marvel that is using SSR/CSR with Vercel.<p>For the sake of over-simplification, let's call this exciting web development. Now, where can I learn about the other side of the spectrum?<p>Request:<p>Is there an insanely pragmatic website or book containing everything you need to know when creating production-ready (yet simple!) web applications?<p>I am talking about HTML5, CSS3, modern JS (do you even need it? and if so, how does simple javascript look like?); `cron` jobs; database persistence; difference/explanations of when to use bare-metal v. vps v. vm; what there is to know about reverse-proxying and load balancers and how to correctly setup and deploy those and so on?</p>
 <hr />
@@ -652,7 +594,6 @@ Between now and 7 November 2023, if you want to block domain fronting for any ex
  - [https://lithub.com/how-t-s-eliots-therapeutic-practice-produced-the-waste-land/](https://lithub.com/how-t-s-eliots-therapeutic-practice-produced-the-waste-land/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 06:47:13+00:00
- - tags: None
 
 <p>Article URL: <a href="https://lithub.com/how-t-s-eliots-therapeutic-practice-produced-the-waste-land/">https://lithub.com/how-t-s-eliots-therapeutic-practice-produced-the-waste-land/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33570683">https://news.ycombinator.com/item?id=33570683</a></p>
@@ -663,7 +604,6 @@ Between now and 7 November 2023, if you want to block domain fronting for any ex
  - [https://github.com/Dominic-Wassef/ghostly](https://github.com/Dominic-Wassef/ghostly)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 06:26:52+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/Dominic-Wassef/ghostly">https://github.com/Dominic-Wassef/ghostly</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33570575">https://news.ycombinator.com/item?id=33570575</a></p>
@@ -674,7 +614,6 @@ Between now and 7 November 2023, if you want to block domain fronting for any ex
  - [https://taler.net/en/news/2022-11.html](https://taler.net/en/news/2022-11.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 06:11:27+00:00
- - tags: None
 
 <p>Article URL: <a href="https://taler.net/en/news/2022-11.html">https://taler.net/en/news/2022-11.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33570478">https://news.ycombinator.com/item?id=33570478</a></p>
@@ -685,7 +624,6 @@ Between now and 7 November 2023, if you want to block domain fronting for any ex
  - [https://www.coindesk.com/business/2022/11/12/ftx-crypto-wallets-see-mysterious-late-night-outflows-totalling-more-than-380m/](https://www.coindesk.com/business/2022/11/12/ftx-crypto-wallets-see-mysterious-late-night-outflows-totalling-more-than-380m/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 05:30:55+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.coindesk.com/business/2022/11/12/ftx-crypto-wallets-see-mysterious-late-night-outflows-totalling-more-than-380m/">https://www.coindesk.com/business/2022/11/12/ftx-crypto-wallets-see-mysterious-late-night-outflows-totalling-more-than-380m/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33570274">https://news.ycombinator.com/item?id=33570274</a></p>
@@ -696,7 +634,6 @@ Between now and 7 November 2023, if you want to block domain fronting for any ex
  - [https://github.com/SymbianSource/oss.FCL.sf.os.kernelhwsrv](https://github.com/SymbianSource/oss.FCL.sf.os.kernelhwsrv)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 05:19:44+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/SymbianSource/oss.FCL.sf.os.kernelhwsrv">https://github.com/SymbianSource/oss.FCL.sf.os.kernelhwsrv</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33570202">https://news.ycombinator.com/item?id=33570202</a></p>
@@ -707,7 +644,6 @@ Between now and 7 November 2023, if you want to block domain fronting for any ex
  - [https://www.theblock.co/post/186279/over-400m-worth-of-tokens-ftx-funds-drained-from-company-accounts](https://www.theblock.co/post/186279/over-400m-worth-of-tokens-ftx-funds-drained-from-company-accounts)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 04:46:47+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.theblock.co/post/186279/over-400m-worth-of-tokens-ftx-funds-drained-from-company-accounts">https://www.theblock.co/post/186279/over-400m-worth-of-tokens-ftx-funds-drained-from-company-accounts</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33570050">https://news.ycombinator.com/item?id=33570050</a></p>
@@ -718,7 +654,6 @@ Between now and 7 November 2023, if you want to block domain fronting for any ex
  - [https://www.reuters.com/markets/currencies/exclusive-least-1-billion-client-funds-missing-failed-crypto-firm-ftx-sources-2022-11-12/](https://www.reuters.com/markets/currencies/exclusive-least-1-billion-client-funds-missing-failed-crypto-firm-ftx-sources-2022-11-12/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 04:31:54+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.reuters.com/markets/currencies/exclusive-least-1-billion-client-funds-missing-failed-crypto-firm-ftx-sources-2022-11-12/">https://www.reuters.com/markets/currencies/exclusive-least-1-billion-client-funds-missing-failed-crypto-firm-ftx-sources-2022-11-12/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33569969">https://news.ycombinator.com/item?id=33569969</a></p>
@@ -729,7 +664,6 @@ Between now and 7 November 2023, if you want to block domain fronting for any ex
  - [https://etherscan.io/address/0x59abf3837fa962d6853b4cc0a19513aa031fd32b](https://etherscan.io/address/0x59abf3837fa962d6853b4cc0a19513aa031fd32b)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 03:46:45+00:00
- - tags: None
 
 <p>Article URL: <a href="https://etherscan.io/address/0x59abf3837fa962d6853b4cc0a19513aa031fd32b">https://etherscan.io/address/0x59abf3837fa962d6853b4cc0a19513aa031fd32b</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33569757">https://news.ycombinator.com/item?id=33569757</a></p>
@@ -740,7 +674,6 @@ Between now and 7 November 2023, if you want to block domain fronting for any ex
  - [https://www.wired.com/story/nord-stream-pipeline-explosion-dark-ships/](https://www.wired.com/story/nord-stream-pipeline-explosion-dark-ships/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 03:39:52+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.wired.com/story/nord-stream-pipeline-explosion-dark-ships/">https://www.wired.com/story/nord-stream-pipeline-explosion-dark-ships/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33569719">https://news.ycombinator.com/item?id=33569719</a></p>
@@ -751,7 +684,6 @@ Between now and 7 November 2023, if you want to block domain fronting for any ex
  - [https://github.com/yarrick/iodine](https://github.com/yarrick/iodine)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 03:24:40+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/yarrick/iodine">https://github.com/yarrick/iodine</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33569653">https://news.ycombinator.com/item?id=33569653</a></p>
@@ -762,7 +694,6 @@ Between now and 7 November 2023, if you want to block domain fronting for any ex
  - [https://1299651405.com/cad/](https://1299651405.com/cad/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 01:56:10+00:00
- - tags: None
 
 <p>Article URL: <a href="https://1299651405.com/cad/">https://1299651405.com/cad/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33569222">https://news.ycombinator.com/item?id=33569222</a></p>
@@ -773,7 +704,6 @@ Between now and 7 November 2023, if you want to block domain fronting for any ex
  - [https://www.youtube.com/watch?v=VbDiWXFxqr8](https://www.youtube.com/watch?v=VbDiWXFxqr8)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 01:42:29+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.youtube.com/watch?v=VbDiWXFxqr8">https://www.youtube.com/watch?v=VbDiWXFxqr8</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33569145">https://news.ycombinator.com/item?id=33569145</a></p>
@@ -784,7 +714,6 @@ Between now and 7 November 2023, if you want to block domain fronting for any ex
  - [https://www.nature.com/articles/d41586-022-03689-2](https://www.nature.com/articles/d41586-022-03689-2)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 01:24:35+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.nature.com/articles/d41586-022-03689-2">https://www.nature.com/articles/d41586-022-03689-2</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33569029">https://news.ycombinator.com/item?id=33569029</a></p>
@@ -795,7 +724,6 @@ Between now and 7 November 2023, if you want to block domain fronting for any ex
  - [https://github.com/aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 01:17:42+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/aleixrodriala/wa-tunnel">https://github.com/aleixrodriala/wa-tunnel</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33568994">https://news.ycombinator.com/item?id=33568994</a></p>
@@ -806,7 +734,6 @@ Between now and 7 November 2023, if you want to block domain fronting for any ex
  - [https://www.sigops.org/2022/hof-2022/](https://www.sigops.org/2022/hof-2022/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 00:40:53+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.sigops.org/2022/hof-2022/">https://www.sigops.org/2022/hof-2022/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33568732">https://news.ycombinator.com/item?id=33568732</a></p>
@@ -817,7 +744,6 @@ Between now and 7 November 2023, if you want to block domain fronting for any ex
  - [https://www.sci.news/medicine/low-quality-sleep-glaucoma-risk-11358.html](https://www.sci.news/medicine/low-quality-sleep-glaucoma-risk-11358.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 00:21:35+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.sci.news/medicine/low-quality-sleep-glaucoma-risk-11358.html">https://www.sci.news/medicine/low-quality-sleep-glaucoma-risk-11358.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33568583">https://news.ycombinator.com/item?id=33568583</a></p>
@@ -828,7 +754,6 @@ Between now and 7 November 2023, if you want to block domain fronting for any ex
  - [https://www.wsj.com/articles/the-next-hot-job-pretending-to-be-a-robot-11567224001](https://www.wsj.com/articles/the-next-hot-job-pretending-to-be-a-robot-11567224001)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-12 00:13:21+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.wsj.com/articles/the-next-hot-job-pretending-to-be-a-robot-11567224001">https://www.wsj.com/articles/the-next-hot-job-pretending-to-be-a-robot-11567224001</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33568521">https://news.ycombinator.com/item?id=33568521</a></p>

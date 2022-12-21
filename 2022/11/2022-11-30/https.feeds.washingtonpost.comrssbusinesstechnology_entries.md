@@ -1,10 +1,9 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology
+# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
 
 ## Web browsers drop mysterious company with ties to U.S. military contractor
  - [https://www.washingtonpost.com/technology/2022/11/30/trustcor-internet-authority-mozilla/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/30/trustcor-internet-authority-mozilla/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-30 18:27:58+00:00
- - tags: None
 
 TrustCor Systems was a root certificate authority, a key position in internet infrastructure. But details about the company raised questions about where it is based and who it works with.
 
@@ -12,7 +11,6 @@ TrustCor Systems was a root certificate authority, a key position in internet in
  - [https://www.washingtonpost.com/technology/2022/11/30/ispace-japan-lunar-lander/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/30/ispace-japan-lunar-lander/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-30 17:25:37+00:00
- - tags: None
 
 The lander is not expected to reach the moon for five months. If it successfully lands on the lunar surface, it would be a first for a private company's vehicle.
 
@@ -20,7 +18,6 @@ The lander is not expected to reach the moon for five months. If it successfully
  - [https://www.washingtonpost.com/video-games/2022/11/30/what-is-discord-app-explainer-twitter/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/11/30/what-is-discord-app-explainer-twitter/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-30 16:46:48+00:00
- - tags: None
 
 Here's how to get started with Discord, one of the Twitter alternatives users are considering since Elon Musk took over the social media platform.
 
@@ -28,7 +25,6 @@ Here's how to get started with Discord, one of the Twitter alternatives users ar
  - [https://www.washingtonpost.com/technology/2022/11/30/amazon-kindle-scribe-review/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/30/amazon-kindle-scribe-review/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-30 09:00:00+00:00
- - tags: None
 
 Amazon's fan-favorite reading gadget got its first major overhaul in years, but its competition is fierce.
 
@@ -36,6 +32,5 @@ Amazon's fan-favorite reading gadget got its first major overhaul in years, but 
  - [https://www.washingtonpost.com/technology/2022/11/30/apple-musk-tim-cook/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/30/apple-musk-tim-cook/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-30 06:00:06+00:00
- - tags: None
 
 Apple holds the key to its App Store and its advertising budget, both items Elon Musk needs if he's to make a success of his Twitter purchase.

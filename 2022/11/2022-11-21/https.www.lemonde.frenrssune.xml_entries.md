@@ -1,10 +1,9 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml
+# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
 
 ## Ukraine: Authorities urge evacuation before 'life-threatening' winter
  - [https://www.lemonde.fr/en/europe/article/2022/11/22/ukraine-authorities-urge-evacuation-before-life-threatening-winter_6005118_143.html](https://www.lemonde.fr/en/europe/article/2022/11/22/ukraine-authorities-urge-evacuation-before-life-threatening-winter_6005118_143.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-21 23:44:19+00:00
- - tags: None
 
 Recently liberated sections of the Kherson and Mykolaiv regions fear that lack of heat, power and water due to Russian shelling will make living conditions too difficult this winter.
 
@@ -12,7 +11,6 @@ Recently liberated sections of the Kherson and Mykolaiv regions fear that lack o
  - [https://www.lemonde.fr/en/football/article/2022/11/21/world-cup-2022-nepalese-workers-trapped-in-a-web-of-exploitation-and-forced-labor_6005113_130.html](https://www.lemonde.fr/en/football/article/2022/11/21/world-cup-2022-nepalese-workers-trapped-in-a-web-of-exploitation-and-forced-labor_6005113_130.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-21 19:30:16+00:00
- - tags: None
 
 In recent years, the Dhanusha district in the east of Nepal has witnessed the largest number of workers leaving for Qatari construction sites.
 
@@ -20,7 +18,6 @@ In recent years, the Dhanusha district in the east of Nepal has witnessed the la
  - [https://www.lemonde.fr/en/international/article/2022/11/21/france-announces-further-supplies-of-weapons-for-ukraine_6005111_4.html](https://www.lemonde.fr/en/international/article/2022/11/21/france-announces-further-supplies-of-weapons-for-ukraine_6005111_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-21 17:36:59+00:00
- - tags: None
 
 Paris will supply Kyiv with two multiple-launch rocket systems and is considering sending radars, Armed Forces Minister Sébastien Lecornu said on Sunday, November 20.
 
@@ -28,7 +25,6 @@ Paris will supply Kyiv with two multiple-launch rocket systems and is considerin
  - [https://www.lemonde.fr/en/culture/article/2022/11/21/french-band-phoenix-masters-the-art-of-rebirth_6005108_30.html](https://www.lemonde.fr/en/culture/article/2022/11/21/french-band-phoenix-masters-the-art-of-rebirth_6005108_30.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-21 17:10:49+00:00
- - tags: None
 
 The French group, who recorded their seventh album, 'Alpha Zulu,' in a wing of the Louvre, will be in concert at the Olympia in Paris on November 28 and 29.
 
@@ -36,7 +32,6 @@ The French group, who recorded their seventh album, 'Alpha Zulu,' in a wing of t
  - [https://www.lemonde.fr/en/international/article/2022/11/21/earthquake-on-indonesia-s-main-island-java-kills-over-160-people-mostly-children_6005104_4.html](https://www.lemonde.fr/en/international/article/2022/11/21/earthquake-on-indonesia-s-main-island-java-kills-over-160-people-mostly-children_6005104_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-21 16:40:32+00:00
- - tags: None
 
 A local governor said the 'majority' of those killed were children after a shallow 5.6-magnitude earthquake killed at least 162 people and toppled buildings on Indonesia's main island of Java on Monday.
 
@@ -44,7 +39,6 @@ A local governor said the 'majority' of those killed were children after a shall
  - [https://www.lemonde.fr/en/france/article/2022/11/21/french-government-slashes-unemployment-benefits_6005098_7.html](https://www.lemonde.fr/en/france/article/2022/11/21/french-government-slashes-unemployment-benefits_6005098_7.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-21 15:06:03+00:00
- - tags: None
 
 The French government announced that the time jobseekers can claim unemployment benefits would be reduced, as part of President Emmanuel Macron's promise to reach full employment.
 
@@ -52,7 +46,6 @@ The French government announced that the time jobseekers can claim unemployment 
  - [https://www.lemonde.fr/en/world-cup-2022/article/2022/11/21/world-cup-2022-french-politicians-divided-over-qatar_6005096_209.html](https://www.lemonde.fr/en/world-cup-2022/article/2022/11/21/world-cup-2022-french-politicians-divided-over-qatar_6005096_209.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-21 15:00:18+00:00
- - tags: None
 
 Since the choice of the Gulf oil emirate in 2010 as the host country for the 2022 World Cup, politicians have dithered between acceptance and outrage.
 
@@ -60,7 +53,6 @@ Since the choice of the Gulf oil emirate in 2010 as the host country for the 202
  - [https://www.lemonde.fr/en/international/article/2022/11/21/republican-rivals-eye-2024-presidential-candidacy-and-show-divides-within-gop_6005094_4.html](https://www.lemonde.fr/en/international/article/2022/11/21/republican-rivals-eye-2024-presidential-candidacy-and-show-divides-within-gop_6005094_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-21 14:50:00+00:00
- - tags: None
 
 Republicans gathered last weekend at a high-profile GOP conference in Las Vegas to weigh on Donald Trump and his alternatives after disappointing midterm results.
 
@@ -68,7 +60,6 @@ Republicans gathered last weekend at a high-profile GOP conference in Las Vegas 
  - [https://www.lemonde.fr/en/football/article/2022/11/21/qatar-takes-center-stage-at-the-opening-of-its-world-cup-except-on-the-field_6005093_130.html](https://www.lemonde.fr/en/football/article/2022/11/21/qatar-takes-center-stage-at-the-opening-of-its-world-cup-except-on-the-field_6005093_130.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-21 14:45:20+00:00
- - tags: None
 
 After a glorious opening ceremony, the host country lost to Ecuador (0-2) in the first match of the tournament on Sunday.
 
@@ -76,7 +67,6 @@ After a glorious opening ceremony, the host country lost to Ecuador (0-2) in the
  - [https://www.lemonde.fr/en/pixels/article/2022/11/21/the-reactivation-of-trump-s-twitter-account-is-a-symbolic-decision_6005081_13.html](https://www.lemonde.fr/en/pixels/article/2022/11/21/the-reactivation-of-trump-s-twitter-account-is-a-symbolic-decision_6005081_13.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-21 14:13:53+00:00
- - tags: None
 
 The former US president was banned from Twitter after the violent assault on the Capitol in January 2021. He has said, however, that he does not want to return.
 
@@ -84,7 +74,6 @@ The former US president was banned from Twitter after the violent assault on the
  - [https://www.lemonde.fr/en/europe/article/2022/11/21/europe-s-space-industry-aims-to-compete-with-the-us-and-china_6005080_143.html](https://www.lemonde.fr/en/europe/article/2022/11/21/europe-s-space-industry-aims-to-compete-with-the-us-and-china_6005080_143.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-21 14:10:06+00:00
- - tags: None
 
 The 22 ministers of the European Space Agency's member countries are meeting to establish the institution's budget for 2023-2025 and distribute it among the various programs.
 
@@ -92,7 +81,6 @@ The 22 ministers of the European Space Agency's member countries are meeting to 
  - [https://www.lemonde.fr/en/sports/article/2022/11/21/world-cup-2022-iran-team-refuses-to-sing-national-anthem_6005075_9.html](https://www.lemonde.fr/en/sports/article/2022/11/21/world-cup-2022-iran-team-refuses-to-sing-national-anthem_6005075_9.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-21 13:26:47+00:00
- - tags: None
 
 Iran is competing in the World Cup as a major women's protest movement is roiling the country.
 
@@ -100,7 +88,6 @@ Iran is competing in the World Cup as a major women's protest movement is roilin
  - [https://www.lemonde.fr/en/sports/article/2022/11/21/world-cup-2022-will-qatar-be-the-most-unpredictable-world-cup-in-history_6005074_9.html](https://www.lemonde.fr/en/sports/article/2022/11/21/world-cup-2022-will-qatar-be-the-most-unpredictable-world-cup-in-history_6005074_9.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-21 13:22:16+00:00
- - tags: None
 
 Played in unique conditions, this football World Cup in Qatar could also produce some unexpected results, says journalist Jérôme Latta.
 
@@ -108,7 +95,6 @@ Played in unique conditions, this football World Cup in Qatar could also produce
  - [https://www.lemonde.fr/en/europe/article/2022/11/21/four-torture-sites-found-in-kherson-after-russian-retreat_6005071_143.html](https://www.lemonde.fr/en/europe/article/2022/11/21/four-torture-sites-found-in-kherson-after-russian-retreat_6005071_143.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-21 12:23:01+00:00
- - tags: None
 
 Ukrainian investigators say that they have found at least four places in Kherson that were used to torture prisoners of war, before Russian troops were forced to withdraw.
 
@@ -116,7 +102,6 @@ Ukrainian investigators say that they have found at least four places in Kherson
  - [https://www.lemonde.fr/en/football/article/2022/11/21/former-arab-enemies-re-united-in-vip-seats-at-world-cup-opening-ceremony_6005069_130.html](https://www.lemonde.fr/en/football/article/2022/11/21/former-arab-enemies-re-united-in-vip-seats-at-world-cup-opening-ceremony_6005069_130.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-21 11:57:19+00:00
- - tags: None
 
 On Sunday, the first day of the competition, the event allowed Qatari monarch Tamim Al-Thani to stage his country's return to prominence in the Middle East.
 
@@ -124,7 +109,6 @@ On Sunday, the first day of the competition, the event allowed Qatari monarch Ta
  - [https://www.lemonde.fr/en/sports/article/2022/11/21/world-cup-2022-politics-dominate-over-football-ahead-of-england-s-match-against-iran_6005066_9.html](https://www.lemonde.fr/en/sports/article/2022/11/21/world-cup-2022-politics-dominate-over-football-ahead-of-england-s-match-against-iran_6005066_9.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-21 11:43:55+00:00
- - tags: None
 
 Attention turned to ongoing women's rights protests in Iran ahead of Monday's first round match against England.
 
@@ -132,7 +116,6 @@ Attention turned to ongoing women's rights protests in Iran ahead of Monday's fi
  - [https://www.lemonde.fr/en/international/article/2022/11/21/the-distress-of-the-english-middle-class-we-feel-like-we-ve-been-in-recession-since-the-beginning-of-the-century_6005061_4.html](https://www.lemonde.fr/en/international/article/2022/11/21/the-distress-of-the-english-middle-class-we-feel-like-we-ve-been-in-recession-since-the-beginning-of-the-century_6005061_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-21 11:30:11+00:00
- - tags: None
 
 In a series of articles, 'Le Monde' examines the deepening crisis that England is enduring, marked by political instability and a worsening social crisis. Part one visits Essex, an emblematic region where people are feeling the pinch.
 
@@ -140,7 +123,6 @@ In a series of articles, 'Le Monde' examines the deepening crisis that England i
  - [https://www.lemonde.fr/en/football/article/2022/11/21/the-long-history-of-karim-benzema-s-thwarted-attempts-to-play-at-world-cup_6005053_130.html](https://www.lemonde.fr/en/football/article/2022/11/21/the-long-history-of-karim-benzema-s-thwarted-attempts-to-play-at-world-cup_6005053_130.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-21 10:47:34+00:00
- - tags: None
 
 The French team's striker is ruled out for the tournament in Qatar after a thigh injury. It's the third time he's missed out on football's most prestigious competition.
 
@@ -148,7 +130,6 @@ The French team's striker is ruled out for the tournament in Qatar after a thigh
  - [https://www.lemonde.fr/en/m-le-mag/article/2022/11/21/who-is-eugen-rochko-the-young-creator-behind-mastodon_6005052_117.html](https://www.lemonde.fr/en/m-le-mag/article/2022/11/21/who-is-eugen-rochko-the-young-creator-behind-mastodon_6005052_117.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-21 10:46:23+00:00
- - tags: None
 
 In 2016, a 29-year-old German computer scientist founded the alternative, non-profit, decentralized social network Mastodon. People have been flocking to the site since Elon Musk's takeover of Twitter.
 
@@ -156,7 +137,6 @@ In 2016, a 29-year-old German computer scientist founded the alternative, non-pr
  - [https://www.lemonde.fr/en/international/article/2022/11/21/multiple-dead-after-earthquake-shakes-indonesia-s-main-island_6005042_4.html](https://www.lemonde.fr/en/international/article/2022/11/21/multiple-dead-after-earthquake-shakes-indonesia-s-main-island_6005042_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-21 09:23:45+00:00
- - tags: None
 
 A 5.6 magnitude earthquake rattled Java island on Monday killing dozens of people at least.
 
@@ -164,7 +144,6 @@ A 5.6 magnitude earthquake rattled Java island on Monday killing dozens of peopl
  - [https://www.lemonde.fr/en/football/article/2022/11/21/world-cup-host-qatar-once-was-a-golden-retirement-home-for-french-footballers-and-coaches_6005036_130.html](https://www.lemonde.fr/en/football/article/2022/11/21/world-cup-host-qatar-once-was-a-golden-retirement-home-for-french-footballers-and-coaches_6005036_130.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-21 09:01:03+00:00
- - tags: None
 
 In the 2000s, Qatar coaxed former French stars for a well-paid early retirement. They discovered an exotic league and a country very new to the world of football.
 
@@ -172,7 +151,6 @@ In the 2000s, Qatar coaxed former French stars for a well-paid early retirement.
  - [https://www.lemonde.fr/en/united-states/article/2022/11/21/disney-brings-back-former-ceo-bob-iger_6005028_133.html](https://www.lemonde.fr/en/united-states/article/2022/11/21/disney-brings-back-former-ceo-bob-iger_6005028_133.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-21 04:28:38+00:00
- - tags: None
 
 In a surprising development, Disney has brought back its former CEO while announcing Bob Chapek's departure.
 
@@ -180,7 +158,6 @@ In a surprising development, Disney has brought back its former CEO while announ
  - [https://www.lemonde.fr/en/international/article/2022/11/21/uprising-in-iran-universities-have-become-the-beating-heart-of-protest_6005021_4.html](https://www.lemonde.fr/en/international/article/2022/11/21/uprising-in-iran-universities-have-become-the-beating-heart-of-protest_6005021_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-21 04:09:45+00:00
- - tags: None
 
 Students are staging sit-ins, boycotting classes, demanding the release of arrested classmates and chanting slogans against the Islamic Republic, sometimes at the cost of their lives.
 
@@ -188,7 +165,6 @@ Students are staging sit-ins, boycotting classes, demanding the release of arres
  - [https://www.lemonde.fr/en/international/article/2022/11/21/iran-carries-out-new-strikes-in-iraqi-kurdistan_6005018_4.html](https://www.lemonde.fr/en/international/article/2022/11/21/iran-carries-out-new-strikes-in-iraqi-kurdistan_6005018_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-21 03:31:50+00:00
- - tags: None
 
 Tehran accuses Kurdish-Iranian opposition groups based in northern Iraq of stoking the 'riots' at home and has stepped up its attacks since the protests began.
 
@@ -196,7 +172,6 @@ Tehran accuses Kurdish-Iranian opposition groups based in northern Iraq of stoki
  - [https://www.lemonde.fr/en/campus/article/2022/11/21/i-ended-up-leaving-the-start-up-world-fed-up-with-the-hypocrisy-of-this-fake-big-family_6005017_11.html](https://www.lemonde.fr/en/campus/article/2022/11/21/i-ended-up-leaving-the-start-up-world-fed-up-with-the-hypocrisy-of-this-fake-big-family_6005017_11.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-21 03:07:59+00:00
- - tags: None
 
 Léo, a 27-year-old French developer, describes the disillusionment he experienced at a 'scale-up,' a rapidly emerging start-up.
 
@@ -204,7 +179,6 @@ Léo, a 27-year-old French developer, describes the disillusionment he experienc
  - [https://www.lemonde.fr/en/france/article/2022/11/21/french-nonprofit-makes-hunting-accidents-a-political-issue_6005016_7.html](https://www.lemonde.fr/en/france/article/2022/11/21/french-nonprofit-makes-hunting-accidents-a-political-issue_6005016_7.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-21 03:07:47+00:00
- - tags: None
 
 The organization Un Jour Un Chasseur (One Day, a Hunter) was created by four friends after the death of Morgan Keane in 2020. It fights to spread the word on hunting accidents.
 
@@ -212,7 +186,6 @@ The organization Un Jour Un Chasseur (One Day, a Hunter) was created by four fri
  - [https://www.lemonde.fr/en/international/article/2022/11/21/zelensky-s-lesson-to-israel_6005015_4.html](https://www.lemonde.fr/en/international/article/2022/11/21/zelensky-s-lesson-to-israel_6005015_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-21 03:06:05+00:00
- - tags: None
 
 The Ukrainian president condemns the Russo-Iranian 'alliance' and urges Israel to support him in their fight against common enemies.
 
@@ -220,7 +193,6 @@ The Ukrainian president condemns the Russo-Iranian 'alliance' and urges Israel t
  - [https://www.lemonde.fr/en/international/article/2022/11/21/g7-calls-for-significant-un-action-on-north-korea_6005012_4.html](https://www.lemonde.fr/en/international/article/2022/11/21/g7-calls-for-significant-un-action-on-north-korea_6005012_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-21 03:01:49+00:00
- - tags: None
 
 Pyongyang called UN chief Antonio Guterres 'a puppet of the United States' for joining US-led condemnation of North Korea's recent intercontinental ballistic missile test.
 
@@ -228,6 +200,5 @@ Pyongyang called UN chief Antonio Guterres 'a puppet of the United States' for j
  - [https://www.lemonde.fr/en/international/article/2022/11/21/iran-religious-leaders-condemn-the-regime-amid-increasing-violence_6005011_4.html](https://www.lemonde.fr/en/international/article/2022/11/21/iran-religious-leaders-condemn-the-regime-amid-increasing-violence_6005011_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-21 02:00:13+00:00
- - tags: None
 
 Iran saw its most widespread demonstrations yet on November 16 and 17, while the clergy is openly questioning crackdown measures and challenging the supreme leader's authority.

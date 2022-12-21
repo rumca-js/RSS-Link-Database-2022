@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## 5 Key enterprise IT trends to watch for 2023
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59554](https://www.codeproject.com/script/News/View.aspx?nwid=59554)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-18 05:00:00+00:00
- - tags: None
 
 I'm sure that one day we'll look back on this list as prophetic (or pathetic)
 
@@ -12,7 +11,6 @@ I'm sure that one day we'll look back on this list as prophetic (or pathetic)
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59547](https://www.codeproject.com/script/News/View.aspx?nwid=59547)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-18 05:00:00+00:00
- - tags: None
 
 "I think my spaceship knows which way to go"
 
@@ -20,7 +18,6 @@ I'm sure that one day we'll look back on this list as prophetic (or pathetic)
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59540](https://www.codeproject.com/script/News/View.aspx?nwid=59540)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-18 05:00:00+00:00
- - tags: None
 
 New considerations are necessary as more businesses adopt machine learning at scale.
 
@@ -28,7 +25,6 @@ New considerations are necessary as more businesses adopt machine learning at sc
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59553](https://www.codeproject.com/script/News/View.aspx?nwid=59553)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-18 05:00:00+00:00
- - tags: None
 
 It's just like regular parsing, but with a plain yellow label
 
@@ -36,7 +32,6 @@ It's just like regular parsing, but with a plain yellow label
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59551](https://www.codeproject.com/script/News/View.aspx?nwid=59551)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-18 05:00:00+00:00
- - tags: None
 
 public Wah wah{do{fillDiaper();sleep();eat(mush);}return new Wah(volume.Highest);}
 
@@ -44,7 +39,6 @@ public Wah wah{do{fillDiaper();sleep();eat(mush);}return new Wah(volume.Highest)
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59541](https://www.codeproject.com/script/News/View.aspx?nwid=59541)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-18 05:00:00+00:00
- - tags: None
 
 Canonical announced the availability of new enterprise-grade Ubuntu images available for both Desktop and Server Ubuntu 20.04 LTS and 22.04 LTS and are designed for next-generation Intel platforms.
 
@@ -52,7 +46,6 @@ Canonical announced the availability of new enterprise-grade Ubuntu images avail
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59544](https://www.codeproject.com/script/News/View.aspx?nwid=59544)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-18 05:00:00+00:00
- - tags: None
 
 Google AI introduces Reincarnating Reinforcement Learning (RRL) that is a more efficient way to train models than starting from scratch
 
@@ -60,7 +53,6 @@ Google AI introduces Reincarnating Reinforcement Learning (RRL) that is a more e
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59542](https://www.codeproject.com/script/News/View.aspx?nwid=59542)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-18 05:00:00+00:00
- - tags: None
 
 It’s no secret that one of the most effective ways for ML engineers and data scientists to be productive is by reusing and sharing our code.
 
@@ -68,7 +60,6 @@ It’s no secret that one of the most effective ways for ML engineers and data s
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59545](https://www.codeproject.com/script/News/View.aspx?nwid=59545)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-18 05:00:00+00:00
- - tags: None
 
 I contribute to an open source programmer-focused machine learning library called Shumai. Recently, we added some basic /dev/stdin handling, which makes it possible to compose standard Unix utilities with machine learning on the command-line.
 
@@ -76,7 +67,6 @@ I contribute to an open source programmer-focused machine learning library calle
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59549](https://www.codeproject.com/script/News/View.aspx?nwid=59549)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-18 05:00:00+00:00
- - tags: None
 
 We're still good with .NET 1.1 though, right?
 
@@ -84,7 +74,6 @@ We're still good with .NET 1.1 though, right?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59543](https://www.codeproject.com/script/News/View.aspx?nwid=59543)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-18 05:00:00+00:00
- - tags: None
 
 NLE is based on NetHack 3.6.6 and designed to provide a standard RL interface to the game, and comes with tasks that function as a first step to evaluate agents on this new environment.
 
@@ -92,7 +81,6 @@ NLE is based on NetHack 3.6.6 and designed to provide a standard RL interface to
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59552](https://www.codeproject.com/script/News/View.aspx?nwid=59552)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-18 05:00:00+00:00
- - tags: None
 
 This blurb written by Imaginary Intelligence
 
@@ -100,7 +88,6 @@ This blurb written by Imaginary Intelligence
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59546](https://www.codeproject.com/script/News/View.aspx?nwid=59546)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-18 05:00:00+00:00
- - tags: None
 
 In this tutorial, we will perform some basic operations on one-dimensional tensors as they are complex mathematical objects and an essential part of the PyTorch library.
 
@@ -108,7 +95,6 @@ In this tutorial, we will perform some basic operations on one-dimensional tenso
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59548](https://www.codeproject.com/script/News/View.aspx?nwid=59548)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-18 05:00:00+00:00
- - tags: None
 
 News from tomorrow: Attacks on open source software at all-time highs
 
@@ -116,7 +102,6 @@ News from tomorrow: Attacks on open source software at all-time highs
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59550](https://www.codeproject.com/script/News/View.aspx?nwid=59550)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-18 05:00:00+00:00
- - tags: None
 
 Not to be confused with the .NET Framework SDK, the WinUI SDK, the Community SDK or any of the other Windows SDKs I'm forgetting now
 
@@ -124,7 +109,6 @@ Not to be confused with the .NET Framework SDK, the WinUI SDK, the Community SDK
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59555](https://www.codeproject.com/script/News/View.aspx?nwid=59555)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-18 05:00:00+00:00
- - tags: None
 
 "Is it any wonder I've got too much time on my hands"
 
@@ -132,6 +116,5 @@ Not to be confused with the .NET Framework SDK, the WinUI SDK, the Community SDK
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59556](https://www.codeproject.com/script/News/View.aspx?nwid=59556)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-18 05:00:00+00:00
- - tags: None
 
 The fingers don't know how the brain want it to go

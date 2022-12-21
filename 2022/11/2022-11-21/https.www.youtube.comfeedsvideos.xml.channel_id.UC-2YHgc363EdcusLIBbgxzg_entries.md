@@ -1,10 +1,9 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
+# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
 
 ## Could The Internet Doom Humanity? (And Other Questions)
  - [https://www.youtube.com/watch?v=mlRnotq4npw](https://www.youtube.com/watch?v=mlRnotq4npw)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
  - date published: 2022-11-21 14:14:31+00:00
- - tags: None
 
 Let Audible help you discover new ways to laugh, be inspired, or be entertained.  New members can try it free for 30 days. Visit https://www.audible.com/joescott or text joescott
 to 500-500. 

@@ -1,10 +1,9 @@
-# Source Luke Smith - YouTube, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA
+# Source Luke Smith - YouTube, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA, Source language: en-US
 
 ## Bookmarking for Unix Chads (For Browsers, Terminals, IDEs and everything else)
  - [https://www.youtube.com/watch?v=d_11QaTlf1I](https://www.youtube.com/watch?v=d_11QaTlf1I)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA
  - date published: 2022-11-02 15:59:26+00:00
- - tags: None
 
 This is how GNU/Unix chads do bookmarking. Literally all you need is a text file and a line of shell code to get what your fancy $39-a-year bookmark manager does. This is just another super-basic use-case of dmenu.
 

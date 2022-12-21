@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## Is your iPhone's Always-On display keeping you up? Do this
  - [https://www.zdnet.com/article/is-your-iphones-always-on-display-keeping-you-up-do-this/#ftag=RSSbaffb68](https://www.zdnet.com/article/is-your-iphones-always-on-display-keeping-you-up-do-this/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 21:52:00+00:00
- - tags: None
 
 If you find it annoying that your iPhone is glowing all night on your nightstand, you're not alone.
 
@@ -12,7 +11,6 @@ If you find it annoying that your iPhone is glowing all night on your nightstand
  - [https://www.zdnet.com/home-and-office/kitchen-household/best-robot-vacuum-mops/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/kitchen-household/best-robot-vacuum-mops/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 21:37:00+00:00
- - tags: None
 
 You no longer have to put in that elbow grease to clean your home. Instead, consider one of these best robot vacuum mops that utilize technology like LiDAR and AI to clean your home for you.
 
@@ -20,7 +18,6 @@ You no longer have to put in that elbow grease to clean your home. Instead, cons
  - [https://www.zdnet.com/article/early-samsung-black-friday-deals-november-18-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-samsung-black-friday-deals-november-18-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 20:36:00+00:00
- - tags: None
 
 Calling all Samsung fans! Let this early Black Friday deals hub serve as your home ground for the latest and best savings on Samsung Galaxy smartphones, wearables, TVs, appliances, and more.
 
@@ -28,7 +25,6 @@ Calling all Samsung fans! Let this early Black Friday deals hub serve as your ho
  - [https://www.zdnet.com/article/early-samsung-black-friday-deals-november-21-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-samsung-black-friday-deals-november-21-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 20:36:00+00:00
- - tags: None
 
 Calling all Samsung fans! Let this early Black Friday deals hub serve as your home ground for the latest and best savings on Samsung Galaxy smartphones, wearables, TVs, appliances, and more.
 
@@ -36,7 +32,6 @@ Calling all Samsung fans! Let this early Black Friday deals hub serve as your ho
  - [https://www.zdnet.com/article/early-black-friday-storage-ssd-black-friday-deals-november-21-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-black-friday-storage-ssd-black-friday-deals-november-21-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 20:31:00+00:00
- - tags: None
 
 ZDNET has rounded up its top picks for early storage and SSD deals ahead of Black Friday, from retailers and manufacturers.
 
@@ -44,7 +39,6 @@ ZDNET has rounded up its top picks for early storage and SSD deals ahead of Blac
  - [https://www.zdnet.com/article/early-black-friday-storage-ssd-black-friday-deals-november-18-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-black-friday-storage-ssd-black-friday-deals-november-18-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 20:31:00+00:00
- - tags: None
 
 ZDNET has rounded up its top picks for early storage and SSD deals ahead of Black Friday, from retailers and manufacturers.
 
@@ -52,7 +46,6 @@ ZDNET has rounded up its top picks for early storage and SSD deals ahead of Blac
  - [https://www.zdnet.com/article/early-amazon-black-friday-deals-november-18-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-amazon-black-friday-deals-november-18-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 20:29:00+00:00
- - tags: None
 
 Amazon's Black Friday plan involves getting the deals straight to you earlier this year. Shop its deals and score big savings on top tech items and gifts.
 
@@ -60,7 +53,6 @@ Amazon's Black Friday plan involves getting the deals straight to you earlier th
  - [https://www.zdnet.com/article/early-amazon-black-friday-deals-november-21-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-amazon-black-friday-deals-november-21-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 20:29:00+00:00
- - tags: None
 
 Amazon's Black Friday plan involves getting the deals straight to you earlier this year. Shop its deals and score big savings on top tech items and gifts.
 
@@ -68,7 +60,6 @@ Amazon's Black Friday plan involves getting the deals straight to you earlier th
  - [https://www.zdnet.com/article/early-target-black-friday-deals-november-21-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-target-black-friday-deals-november-21-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 20:24:00+00:00
- - tags: None
 
 These are the best deals Target has to offer ahead of Black Friday. Make sure to check back later, as we'll be updating the list in the days leading up to Black Friday.
 
@@ -76,7 +67,6 @@ These are the best deals Target has to offer ahead of Black Friday. Make sure to
  - [https://www.zdnet.com/article/early-target-black-friday-deals-november-18-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-target-black-friday-deals-november-18-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 20:24:00+00:00
- - tags: None
 
 These are the best deals Target has to offer ahead of Black Friday. Make sure to check back later, as we'll be updating the list in the days leading up to Black Friday.
 
@@ -84,7 +74,6 @@ These are the best deals Target has to offer ahead of Black Friday. Make sure to
  - [https://www.zdnet.com/article/early-airpods-black-friday-deals-november-18-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-airpods-black-friday-deals-november-18-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 20:16:00+00:00
- - tags: None
 
 AirPods are on everyone's wishlist. The buds that barely go on sale are about to spread holiday cheer through both their crystal clear sound quality and amazing prices.
 
@@ -92,7 +81,6 @@ AirPods are on everyone's wishlist. The buds that barely go on sale are about to
  - [https://www.zdnet.com/article/early-airpods-black-friday-deals-november-21-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-airpods-black-friday-deals-november-21-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 20:16:00+00:00
- - tags: None
 
 AirPods are on everyone's wishlist. The buds that barely go on sale are about to spread holiday cheer through both their crystal clear sound quality and amazing prices.
 
@@ -100,7 +88,6 @@ AirPods are on everyone's wishlist. The buds that barely go on sale are about to
  - [https://www.zdnet.com/article/early-newegg-black-friday-deals-november-18-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-newegg-black-friday-deals-november-18-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 20:07:00+00:00
- - tags: None
 
 Before this Black Friday, Newegg is offering loads of deals on everything from sound systems to gaming PCs. Some come with a bonus Black Friday price guarantee.
 
@@ -108,7 +95,6 @@ Before this Black Friday, Newegg is offering loads of deals on everything from s
  - [https://www.zdnet.com/article/early-black-friday-headphone-deals-november-18-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-black-friday-headphone-deals-november-18-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 20:02:00+00:00
- - tags: None
 
 Everyone deserves a new pair of headphones for the holidays -- especially if they're at half the price.
 
@@ -116,7 +102,6 @@ Everyone deserves a new pair of headphones for the holidays -- especially if the
  - [https://www.zdnet.com/home-and-office/smart-office/logitech-blue-sona-microphone-review/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-office/logitech-blue-sona-microphone-review/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 18:19:00+00:00
- - tags: None
 
 The newest microphone from Logitech for Creators looks like no other XLR mic I've seen before and packs a few new tricks into the confines of its stylish exterior.
 
@@ -124,7 +109,6 @@ The newest microphone from Logitech for Creators looks like no other XLR mic I'v
  - [https://www.zdnet.com/article/ipad-air-2022-vs-ipad-pro-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/ipad-air-2022-vs-ipad-pro-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 18:19:00+00:00
- - tags: None
 
 The new iPad Air and Apple's new iPad Pro are more or less the same tablets, with a few key exceptions. So, what's different? Glad you asked. Let's take a look.
 
@@ -132,7 +116,6 @@ The new iPad Air and Apple's new iPad Pro are more or less the same tablets, wit
  - [https://www.zdnet.com/home-and-office/home-entertainment/black-friday-2022-gopro-deal-gopro-hero10-black-coupon-promo-code/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/black-friday-2022-gopro-deal-gopro-hero10-black-coupon-promo-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 17:50:00+00:00
- - tags: None
 
 Even though Black Friday is a week away, you can already save 22% on the GoPro HERO10 Black at Amazon.
 
@@ -140,7 +123,6 @@ Even though Black Friday is a week away, you can already save 22% on the GoPro H
  - [https://www.zdnet.com/article/early-walmart-black-friday-deals-november-18-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-walmart-black-friday-deals-november-18-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 17:49:00+00:00
- - tags: None
 
 Black Friday is a few weeks away, but Walmart has already started launching great tech deals. You can save big on the best tech gifts this holiday season.
 
@@ -148,7 +130,6 @@ Black Friday is a few weeks away, but Walmart has already started launching grea
  - [https://www.zdnet.com/article/early-dell-black-friday-deals-november-18-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-dell-black-friday-deals-november-18-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 17:45:00+00:00
- - tags: None
 
 Get Dell's lightest mobile workstation for $1,829 or get Dell's Alienware m15 R5 gaming laptop for $1,500 with free two-day delivery on your purchase.
 
@@ -156,7 +137,6 @@ Get Dell's lightest mobile workstation for $1,829 or get Dell's Alienware m15 R5
  - [https://www.zdnet.com/article/best-bone-conduction-headphones/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-bone-conduction-headphones/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 17:31:00+00:00
- - tags: None
 
 Bored with your regular headphones? The best bone conduction headphones will transform your listening experience, focusing on vibrations that help you to feel each note.
 
@@ -164,7 +144,6 @@ Bored with your regular headphones? The best bone conduction headphones will tra
  - [https://www.zdnet.com/home-and-office/early-black-friday-robot-vacuum-deals-november-18-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/early-black-friday-robot-vacuum-deals-november-18-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 17:24:00+00:00
- - tags: None
 
 You can save hundreds on a robot vacuum with these deals, and keep checking back because we'll be adding more deals as we get closer to Black Friday.
 
@@ -172,7 +151,6 @@ You can save hundreds on a robot vacuum with these deals, and keep checking back
  - [https://www.zdnet.com/article/best-early-black-friday-deals-november-18-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-early-black-friday-deals-november-18-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 17:11:00+00:00
- - tags: None
 
 Black Friday may be a few days away, but if you look in the right places, you can find great deals now. Check out our list below to score some major savings on top tech items.
 
@@ -180,7 +158,6 @@ Black Friday may be a few days away, but if you look in the right places, you ca
  - [https://www.zdnet.com/home-and-office/best-early-black-friday-deals-under-30-november-18-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/best-early-black-friday-deals-under-30-november-18-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 16:19:00+00:00
- - tags: None
 
 These tech gifts are all $30 or less ahead of the Black Friday sales event and are perfect for anyone on your list this holiday season.
 
@@ -188,7 +165,6 @@ These tech gifts are all $30 or less ahead of the Black Friday sales event and a
  - [https://www.zdnet.com/article/early-ipad-black-friday-deals-november-18-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-ipad-black-friday-deals-november-18-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 16:12:00+00:00
- - tags: None
 
 Apple notoriously rarely has sales, but ahead of Black Friday, some iPad models are already discounted.
 
@@ -196,7 +172,6 @@ Apple notoriously rarely has sales, but ahead of Black Friday, some iPad models 
  - [https://www.zdnet.com/home-and-office/smart-home/early-black-friday-security-camera-deals-november-18-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/early-black-friday-security-camera-deals-november-18-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 16:10:00+00:00
- - tags: None
 
 Looking for some extra peace of mind at home but don't want to pay full price? You can save on security cameras right now if you know where to look.
 
@@ -204,7 +179,6 @@ Looking for some extra peace of mind at home but don't want to pay full price? Y
  - [https://www.zdnet.com/article/early-black-friday-vpn-deals-november-18-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-black-friday-vpn-deals-november-18-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 15:49:00+00:00
- - tags: None
 
 Many of the most popular VPNs are on sale, and the discounts aren't just fluff, they're legitimately cheaper than the standard pricing.
 
@@ -212,7 +186,6 @@ Many of the most popular VPNs are on sale, and the discounts aren't just fluff, 
  - [https://www.zdnet.com/article/goodbye-passwords-1password-says-it-will-soon-support-passkeys/#ftag=RSSbaffb68](https://www.zdnet.com/article/goodbye-passwords-1password-says-it-will-soon-support-passkeys/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 15:48:00+00:00
- - tags: None
 
 1Password doesn't support passkeys for logins yet, but it has a demo that lets users create a real WebAuthn credential that is stored and ready for when support arrives.
 
@@ -220,7 +193,6 @@ Many of the most popular VPNs are on sale, and the discounts aren't just fluff, 
  - [https://www.zdnet.com/article/early-black-friday-tablet-deals-november-18-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-black-friday-tablet-deals-november-18-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 15:47:00+00:00
- - tags: None
 
 Looking for a tablet? The best tablets from brands like Apple and Samsung are already on sale ahead of Black Friday.
 
@@ -228,7 +200,6 @@ Looking for a tablet? The best tablets from brands like Apple and Samsung are al
  - [https://www.zdnet.com/education/professional-development/pay-transparency-is-coming-and-thats-good-news-for-nearly-everyone/#ftag=RSSbaffb68](https://www.zdnet.com/education/professional-development/pay-transparency-is-coming-and-thats-good-news-for-nearly-everyone/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 15:42:00+00:00
- - tags: None
 
 Activists, legislators, employees and recruiters are pressuring companies into becoming more transparent about their compensation.
 
@@ -236,7 +207,6 @@ Activists, legislators, employees and recruiters are pressuring companies into b
  - [https://www.zdnet.com/article/the-problem-with-ai-its-not-you-its-the-data/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-problem-with-ai-its-not-you-its-the-data/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 15:35:35+00:00
- - tags: None
 
 Data is not the 'new oil,' to be treated as a commodity that gets burned up once and that's it.
 
@@ -244,7 +214,6 @@ Data is not the 'new oil,' to be treated as a commodity that gets burned up once
  - [https://www.zdnet.com/article/old-flagship-phone-vs-new-mid-range-heres-how-to-decide/#ftag=RSSbaffb68](https://www.zdnet.com/article/old-flagship-phone-vs-new-mid-range-heres-how-to-decide/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 14:57:16+00:00
- - tags: None
 
 If you're shopping on a budget, buying an older flagship phone may make the most financial and rational sense. But the reasons may not align with every user.
 
@@ -252,7 +221,6 @@ If you're shopping on a budget, buying an older flagship phone may make the most
  - [https://www.zdnet.com/home-and-office/microsoft-drops-price-of-surface-pro-8-deal-sale-coupon-code/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/microsoft-drops-price-of-surface-pro-8-deal-sale-coupon-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 13:26:44+00:00
- - tags: None
 
 Stock is low so if you want a bargain Surface Pro 8, you'll need to move quickly.
 
@@ -260,7 +228,6 @@ Stock is low so if you want a bargain Surface Pro 8, you'll need to move quickly
  - [https://www.zdnet.com/article/early-black-friday-laptop-deals-november-18-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-black-friday-laptop-deals-november-18-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 12:55:00+00:00
- - tags: None
 
 ZDNET has rounded up its top picks for early laptop deals ahead of Black Friday, from retailers and manufacturers.
 
@@ -268,7 +235,6 @@ ZDNET has rounded up its top picks for early laptop deals ahead of Black Friday,
  - [https://www.zdnet.com/article/artemis-mission-orion-spaceship-doesnt-have-astronauts-but-it-does-have-these-unusual-passengers/#ftag=RSSbaffb68](https://www.zdnet.com/article/artemis-mission-orion-spaceship-doesnt-have-astronauts-but-it-does-have-these-unusual-passengers/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 12:28:00+00:00
- - tags: None
 
 Onboard the Orion spacecraft are lots of unusual items that are on their way around the moon and back.
 
@@ -276,7 +242,6 @@ Onboard the Orion spacecraft are lots of unusual items that are on their way aro
  - [https://www.zdnet.com/article/twitter-employee-deadline-passes-elon-musk-says-im-not-super-worried/#ftag=RSSbaffb68](https://www.zdnet.com/article/twitter-employee-deadline-passes-elon-musk-says-im-not-super-worried/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 12:01:24+00:00
- - tags: None
 
 The Twitter saga rolls on as a number of staff refuse to take up Elon Musk's challenge to be "extremely hardcore".
 
@@ -284,7 +249,6 @@ The Twitter saga rolls on as a number of staff refuse to take up Elon Musk's cha
  - [https://www.zdnet.com/article/microsoft-teams-now-has-four-games-to-put-the-fun-into-remote-work/#ftag=RSSbaffb68](https://www.zdnet.com/article/microsoft-teams-now-has-four-games-to-put-the-fun-into-remote-work/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 11:38:01+00:00
- - tags: None
 
 Microsoft brings its classic Windows games to teams.
 
@@ -292,7 +256,6 @@ Microsoft brings its classic Windows games to teams.
  - [https://www.zdnet.com/article/microsoft-hackers-are-using-this-concerning-tactic-to-dodge-multi-factor-authentication/#ftag=RSSbaffb68](https://www.zdnet.com/article/microsoft-hackers-are-using-this-concerning-tactic-to-dodge-multi-factor-authentication/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 10:59:24+00:00
- - tags: None
 
 Microsoft says token theft attacks are on the rise. Here's what you need to do to protect yourself.
 
@@ -300,7 +263,6 @@ Microsoft says token theft attacks are on the rise. Here's what you need to do t
  - [https://www.zdnet.com/article/south-korea-cancels-5g-28ghz-spectrum-allocation-to-telcos-due-to-lack-of-spending/#ftag=RSSbaffb68](https://www.zdnet.com/article/south-korea-cancels-5g-28ghz-spectrum-allocation-to-telcos-due-to-lack-of-spending/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 07:17:41+00:00
- - tags: None
 
 In a rare move, the South Korean government strongly criticized the lack of spending on 5G networks by local telcos.
 
@@ -308,7 +270,6 @@ In a rare move, the South Korean government strongly criticized the lack of spen
  - [https://www.zdnet.com/finance/blockchain/singapore-state-investment-firm-to-write-down-275m-in-ftx/#ftag=RSSbaffb68](https://www.zdnet.com/finance/blockchain/singapore-state-investment-firm-to-write-down-275m-in-ftx/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 06:27:26+00:00
- - tags: None
 
 State-owned investment firm Temasek Holdings says its belief in FTX's founder Sam Bankman-Fried has been "misplaced", despite an "extensive" due diligence process last year that led to its participating in two funding rounds.
 
@@ -316,7 +277,6 @@ State-owned investment firm Temasek Holdings says its belief in FTX's founder Sa
  - [https://www.zdnet.com/article/black-friday-2022-laptop-deal-dell-xps-15-laptop-coupon-promo-code/#ftag=RSSbaffb68](https://www.zdnet.com/article/black-friday-2022-laptop-deal-dell-xps-15-laptop-coupon-promo-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 05:58:00+00:00
- - tags: None
 
 Need a fancy laptop? The Dell XPS15 is usually $2,899. Save $700 on it ahead of Black Friday, no promo code required.
 
@@ -324,7 +284,6 @@ Need a fancy laptop? The Dell XPS15 is usually $2,899. Save $700 on it ahead of 
  - [https://www.zdnet.com/article/black-friday-2022-headphone-deal-bose-quietcomfort-45-coupon-promo-code/#ftag=RSSbaffb68](https://www.zdnet.com/article/black-friday-2022-headphone-deal-bose-quietcomfort-45-coupon-promo-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 05:46:00+00:00
- - tags: None
 
 If you're traveling this holiday season, noise-cancelling headphones are essential. Right now, the Bose QuietComfort 45 headphones are 24% off on Amazon.
 
@@ -332,7 +291,6 @@ If you're traveling this holiday season, noise-cancelling headphones are essenti
  - [https://www.zdnet.com/article/black-friday-2022-headphone-deal-google-pixel-buds-pro-sale-promo-code-coupon/#ftag=RSSbaffb68](https://www.zdnet.com/article/black-friday-2022-headphone-deal-google-pixel-buds-pro-sale-promo-code-coupon/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 05:44:00+00:00
- - tags: None
 
 Released only recently, the Pixel Buds Pro just dropped by $50 -- the lowest price since their debut. Grab them while the sale lasts.
 
@@ -340,7 +298,6 @@ Released only recently, the Pixel Buds Pro just dropped by $50 -- the lowest pri
  - [https://www.zdnet.com/article/early-black-friday-smartphone-deals-november-18-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-black-friday-smartphone-deals-november-18-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 05:25:00+00:00
- - tags: None
 
 If you held off on upgrading your smartphone until the holiday shopping season, your patience is finally being rewarded. These are the best early Black Friday deals that will save you hundreds on prime-time handsets.
 
@@ -348,7 +305,6 @@ If you held off on upgrading your smartphone until the holiday shopping season, 
  - [https://www.zdnet.com/home-and-office/early-costco-black-friday-deals-november-18-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/early-costco-black-friday-deals-november-18-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 05:23:00+00:00
- - tags: None
 
 Costco doesn't disappoint when it comes to savings, and it's continuing the tradition for Black Friday 2022. But you don't have to wait; ZDNET gathered the best deals at Costco right now.
 
@@ -356,7 +312,6 @@ Costco doesn't disappoint when it comes to savings, and it's continuing the trad
  - [https://www.zdnet.com/home-and-office/home-entertainment/early-black-friday-tv-deals-november-18-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/early-black-friday-tv-deals-november-18-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 05:22:00+00:00
- - tags: None
 
 Whether you're buying your first TV or upgrading your home theater, these awesome Black Friday and Cyber Monday deals make it more affordable than ever. Brands like Samsung, Sony, LG, and TCL have great discounts on already budget-friendly models as well as high-end TVs for shoppers looking for premium features like OLED panels and virtual surround sound.
 
@@ -364,7 +319,6 @@ Whether you're buying your first TV or upgrading your home theater, these awesom
  - [https://www.zdnet.com/home-and-office/home-entertainment/early-black-friday-gaming-deals-november-18-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/early-black-friday-gaming-deals-november-18-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 05:21:00+00:00
- - tags: None
 
 Get a jump on your Christmas list with these awesome deals on gaming laptops, consoles, and accessories. Retailers like Amazon, Best Buy, and Target have huge discounts on everything you need to create the ultimate gaming space.
 
@@ -372,7 +326,6 @@ Get a jump on your Christmas list with these awesome deals on gaming laptops, co
  - [https://www.zdnet.com/article/best-usb-hub/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-usb-hub/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 00:31:00+00:00
- - tags: None
 
 If you have many devices, a USB hub can help you stay organized. And the best ones include video output, device charging, and supports many port types.
 
@@ -380,6 +333,5 @@ If you have many devices, a USB hub can help you stay organized. And the best on
  - [https://www.zdnet.com/home-and-office/home-entertainment/black-friday-2022-tv-deal-65-inch-lg-c1-oled-tv-coupon-promo-code/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/black-friday-2022-tv-deal-65-inch-lg-c1-oled-tv-coupon-promo-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-18 00:02:00+00:00
- - tags: None
 
 Black Friday may still be a week away, but we're already seeing incredible Amazon deals. One of the best OLED televisions on the market, the LG C1 Series 65-inch TV is still 34% off. Add it to your cart today to save $853.

@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## How to hard reset an Amazon Fire tablet
  - [https://www.androidauthority.com/hard-reset-amazon-fire-tablet-3233397/](https://www.androidauthority.com/hard-reset-amazon-fire-tablet-3233397/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-10 23:55:00+00:00
- - tags: None
 
 Can't restart your tablet? Force it to!
 
@@ -12,7 +11,6 @@ Can't restart your tablet? Force it to!
  - [https://www.androidauthority.com/chrome-os-beta-tester-hub-3233700/](https://www.androidauthority.com/chrome-os-beta-tester-hub-3233700/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-10 21:45:06+00:00
- - tags: None
 
 The Beta Tester Hub will allow users to try out features before they go public.
 
@@ -20,7 +18,6 @@ The Beta Tester Hub will allow users to try out features before they go public.
  - [https://www.androidauthority.com/google-pixel-lock-screen-bug-3233616/](https://www.androidauthority.com/google-pixel-lock-screen-bug-3233616/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-10 18:32:04+00:00
- - tags: None
 
 The vulnerability has now been fixed in the most recent security update.
 
@@ -28,7 +25,6 @@ The vulnerability has now been fixed in the most recent security update.
  - [https://www.androidauthority.com/oneplus-9-update-1212009/](https://www.androidauthority.com/oneplus-9-update-1212009/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-10 16:55:36+00:00
- - tags: None
 
 Update: Get ready for stable Android 13 on your 2021 OnePlus flagship.
 
@@ -36,7 +32,6 @@ Update: Get ready for stable Android 13 on your 2021 OnePlus flagship.
  - [https://www.androidauthority.com/oneplus-11-camera-leak-3233564/](https://www.androidauthority.com/oneplus-11-camera-leak-3233564/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-10 16:43:12+00:00
- - tags: None
 
 The camera is expected to have a 50MP main, 48MP ultrawide, and 32MP zoom setup.
 
@@ -44,7 +39,6 @@ The camera is expected to have a 50MP main, 48MP ultrawide, and 32MP zoom setup.
  - [https://www.androidauthority.com/bzfuture-black-friday-deals-3233286/](https://www.androidauthority.com/bzfuture-black-friday-deals-3233286/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-10 16:00:52+00:00
- - tags: None
 
 Upgrading your gaming? Our exclusive promo code saves you a further 18% on the BZFuture Black Friday sale prices.
 
@@ -52,7 +46,6 @@ Upgrading your gaming? Our exclusive promo code saves you a further 18% on the B
  - [https://www.androidauthority.com/phone-charging-habits-3233205/](https://www.androidauthority.com/phone-charging-habits-3233205/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-10 14:00:04+00:00
- - tags: None
 
 The study used a sample size of 1,000 people.
 
@@ -60,7 +53,6 @@ The study used a sample size of 1,000 people.
  - [https://www.androidauthority.com/honor-magic-vs-3233471/](https://www.androidauthority.com/honor-magic-vs-3233471/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-10 10:12:37+00:00
- - tags: None
 
 A Galaxy Z Fold 4 challenger?
 
@@ -68,7 +60,6 @@ A Galaxy Z Fold 4 challenger?
  - [https://www.androidauthority.com/best-smartwatch-healthcare-workers-3231786/](https://www.androidauthority.com/best-smartwatch-healthcare-workers-3231786/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-10 10:00:52+00:00
- - tags: None
 
 Wearing a smartwatch on the floor is a great way to stay connected (if you're allowed to).
 
@@ -76,7 +67,6 @@ Wearing a smartwatch on the floor is a great way to stay connected (if you're al
  - [https://www.androidauthority.com/old-smartphone-feature-poll-3231814/](https://www.androidauthority.com/old-smartphone-feature-poll-3231814/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-10 10:00:25+00:00
- - tags: None
 
 Which category would you compromise if you were forced to do so?
 
@@ -84,7 +74,6 @@ Which category would you compromise if you were forced to do so?
  - [https://www.androidauthority.com/daily-authority-november-10-2022-3233050/](https://www.androidauthority.com/daily-authority-november-10-2022-3233050/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-10 09:50:37+00:00
- - tags: None
 
 Build-your-own foldable, a pesky Pixel Watch bug, Stadia refunds, and how much your gaming habit could be costing you.
 
@@ -92,7 +81,6 @@ Build-your-own foldable, a pesky Pixel Watch bug, Stadia refunds, and how much y
  - [https://www.androidauthority.com/twitter-verification-poll-results-3233447/](https://www.androidauthority.com/twitter-verification-poll-results-3233447/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-10 09:31:39+00:00
- - tags: None
 
 To pay or not to pay for Twitter verification?
 
@@ -100,7 +88,6 @@ To pay or not to pay for Twitter verification?
  - [https://www.androidauthority.com/foldable-iphone-diy-project-3233411/](https://www.androidauthority.com/foldable-iphone-diy-project-3233411/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-10 06:13:08+00:00
- - tags: None
 
 An over-the-top DIY project that took almost a year to complete.
 
@@ -108,7 +95,6 @@ An over-the-top DIY project that took almost a year to complete.
  - [https://www.androidauthority.com/is-hbo-max-on-roku-3145475/](https://www.androidauthority.com/is-hbo-max-on-roku-3145475/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-10 05:50:48+00:00
- - tags: None
 
 Both HBO and Roku want you to start consuming as quickly as possible.
 
@@ -116,7 +102,6 @@ Both HBO and Roku want you to start consuming as quickly as possible.
  - [https://www.androidauthority.com/peacock-roku-3143790/](https://www.androidauthority.com/peacock-roku-3143790/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-10 05:00:54+00:00
- - tags: None
 
 Basic access to Peacock is free, but you'll need a Premium subscription to unlock everything.
 
@@ -124,6 +109,5 @@ Basic access to Peacock is free, but you'll need a Premium subscription to unloc
  - [https://www.androidauthority.com/roku-ip-address-3143561/](https://www.androidauthority.com/roku-ip-address-3143561/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-10 05:00:40+00:00
- - tags: None
 
 Generally speaking, the best way is straight from your Roku.

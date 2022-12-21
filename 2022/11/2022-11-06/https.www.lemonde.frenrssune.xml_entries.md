@@ -1,10 +1,9 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml
+# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
 
 ## Danish teenager Rune wins Paris Masters with shock Djokovic defeat
  - [https://www.lemonde.fr/en/france/article/2022/11/06/danish-teenager-rune-wins-paris-masters-with-shock-defeat-of-djokovic_6003171_7.html](https://www.lemonde.fr/en/france/article/2022/11/06/danish-teenager-rune-wins-paris-masters-with-shock-defeat-of-djokovic_6003171_7.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-06 17:22:16+00:00
- - tags: None
 
 It was the first Masters title for the 19 year old from Denmark.
 
@@ -12,7 +11,6 @@ It was the first Masters title for the 19 year old from Denmark.
  - [https://www.lemonde.fr/en/style/article/2022/11/06/inside-paula-cooper-s-big-new-york-bookstore_6003167_40.html](https://www.lemonde.fr/en/style/article/2022/11/06/inside-paula-cooper-s-big-new-york-bookstore_6003167_40.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-06 17:00:06+00:00
- - tags: None
 
 A contemporary art gallery owner since the late 1960s, the New Yorker is now the head of 192 Books, a neighborhood bookstore located in the heart of Chelsea.
 
@@ -20,7 +18,6 @@ A contemporary art gallery owner since the late 1960s, the New Yorker is now the
  - [https://www.lemonde.fr/en/united-states/article/2022/11/06/kenyan-double-victory-in-the-new-york-city-marathon_6003165_133.html](https://www.lemonde.fr/en/united-states/article/2022/11/06/kenyan-double-victory-in-the-new-york-city-marathon_6003165_133.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-06 16:48:55+00:00
- - tags: None
 
 Both of the winning runners were making their debuts in this famous race, the winner of the women's race was also competing in her first ever marathon.
 
@@ -28,7 +25,6 @@ Both of the winning runners were making their debuts in this famous race, the wi
  - [https://www.lemonde.fr/en/europe/article/2022/11/06/italy-blocks-dozens-of-asylum-seekers-disembarking-ngo-ship_6003163_143.html](https://www.lemonde.fr/en/europe/article/2022/11/06/italy-blocks-dozens-of-asylum-seekers-disembarking-ngo-ship_6003163_143.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-06 15:26:27+00:00
- - tags: None
 
 Children and the sick were allowed to disembark when boat run by German charity SOS Humanity docked in Sicily, but other deemed 'not in an emergency' were forced to remain.
 
@@ -36,7 +32,6 @@ Children and the sick were allowed to disembark when boat run by German charity 
  - [https://www.lemonde.fr/en/international/article/2022/11/06/in-rome-a-major-peace-rally-takes-place-despite-divisions-over-military-support-for-ukraine_6003160_4.html](https://www.lemonde.fr/en/international/article/2022/11/06/in-rome-a-major-peace-rally-takes-place-despite-divisions-over-military-support-for-ukraine_6003160_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-06 14:48:42+00:00
- - tags: None
 
 Responding to calls from trade unions, left-wing secular NGOs and organizations from the Catholic world, tens of thousands of people marched 'for peace' in the Italian capital on Saturday.
 
@@ -44,7 +39,6 @@ Responding to calls from trade unions, left-wing secular NGOs and organizations 
  - [https://www.lemonde.fr/en/m-le-mag/portfolio/2022/11/06/english-drag-scene-the-glorious-new-mutants_6003155_117.html](https://www.lemonde.fr/en/m-le-mag/portfolio/2022/11/06/english-drag-scene-the-glorious-new-mutants_6003155_117.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-06 14:21:10+00:00
- - tags: None
 
 Queer artists from the rich English drag scene bring hybrid creatures to life, pushing the boundaries of appearance. These extravagant and ephemeral creations are captured by the Italian photographer Alien in the book, 'Bodybuilders.'
 
@@ -52,7 +46,6 @@ Queer artists from the rich English drag scene bring hybrid creatures to life, p
  - [https://www.lemonde.fr/en/politics/article/2022/11/06/after-bardella-s-election-as-president-a-sense-of-a-purge-at-france-s-far-right-rassemblement-national_6003151_5.html](https://www.lemonde.fr/en/politics/article/2022/11/06/after-bardella-s-election-as-president-a-sense-of-a-purge-at-france-s-far-right-rassemblement-national_6003151_5.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-06 12:55:32+00:00
- - tags: None
 
 Having won by a wide margin, Marine Le Pen's young successor has sidelined his rivals within the party. They condemn an ideological radicalization.
 
@@ -60,7 +53,6 @@ Having won by a wide margin, Marine Le Pen's young successor has sidelined his r
  - [https://www.lemonde.fr/en/le-monde-africa/article/2022/11/06/cop27-in-egypt-a-host-country-at-the-heart-of-the-climate-crisis_6003148_124.html](https://www.lemonde.fr/en/le-monde-africa/article/2022/11/06/cop27-in-egypt-a-host-country-at-the-heart-of-the-climate-crisis_6003148_124.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-06 12:11:51+00:00
- - tags: None
 
 Climate change is threatening to increase social inequality in a country vulnerable to drought, rising sea levels and coastal erosion.
 
@@ -68,7 +60,6 @@ Climate change is threatening to increase social inequality in a country vulnera
  - [https://www.lemonde.fr/en/pixels/article/2022/11/06/twitter-launches-controversial-8-blue-tick-subscription-service_6003145_13.html](https://www.lemonde.fr/en/pixels/article/2022/11/06/twitter-launches-controversial-8-blue-tick-subscription-service_6003145_13.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-06 12:08:45+00:00
- - tags: None
 
 Twitter Blue offers status marks that were formerly used to validate accounts of celebrities and others. It will now include more features such as fewer ads and being able to post longer tweets.
 
@@ -76,7 +67,6 @@ Twitter Blue offers status marks that were formerly used to validate accounts of
  - [https://www.lemonde.fr/en/international/article/2022/11/06/tanzania-search-for-survivors-after-plane-crashes-into-lake-victoria_6003143_4.html](https://www.lemonde.fr/en/international/article/2022/11/06/tanzania-search-for-survivors-after-plane-crashes-into-lake-victoria_6003143_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-06 11:53:41+00:00
- - tags: None
 
 Local news reports showed photos of the plane mostly submerged in the lake, with just its tail fin visible.
 
@@ -84,7 +74,6 @@ Local news reports showed photos of the plane mostly submerged in the lake, with
  - [https://www.lemonde.fr/en/international/article/2022/11/06/us-midterms-donald-trump-set-on-revenge-calls-for-giant-red-wave-in-pennsylvania_6003140_4.html](https://www.lemonde.fr/en/international/article/2022/11/06/us-midterms-donald-trump-set-on-revenge-calls-for-giant-red-wave-in-pennsylvania_6003140_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-06 11:27:26+00:00
- - tags: None
 
 With three days to go before the midterm elections, the former Republican president painted his usual apocalyptic picture of the United States on Saturday at a rally in a state that could prove decisive for control of the Senate.
 
@@ -92,7 +81,6 @@ With three days to go before the midterm elections, the former Republican presid
  - [https://www.lemonde.fr/en/united-states/article/2022/11/06/us-midterms-the-rise-of-cheap-and-easy-violence_6003137_133.html](https://www.lemonde.fr/en/united-states/article/2022/11/06/us-midterms-the-rise-of-cheap-and-easy-violence_6003137_133.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-06 10:11:58+00:00
- - tags: None
 
 'The US midterm elections as seen from my French window': Violence has become an acceptable political tool for an increasing number of Republicans, writes former US correspondent Gilles Paris.
 
@@ -100,7 +88,6 @@ With three days to go before the midterm elections, the former Republican presid
  - [https://www.lemonde.fr/en/france/article/2022/11/06/when-i-went-out-with-my-bag-the-victim-was-there-inside-it-the-alleged-murderer-of-12-year-old-lola_6003133_7.html](https://www.lemonde.fr/en/france/article/2022/11/06/when-i-went-out-with-my-bag-the-victim-was-there-inside-it-the-alleged-murderer-of-12-year-old-lola_6003133_7.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-06 09:39:53+00:00
- - tags: None
 
 Questioned six times by the police, the alleged perpetrator of Lola's murder first refused to answer, before confessing to the facts and then finally retracting her statement by talking about a 'nightmare.'
 
@@ -108,7 +95,6 @@ Questioned six times by the police, the alleged perpetrator of Lola's murder fir
  - [https://www.lemonde.fr/en/environment/article/2022/11/06/cop27-climate-ambition-hit-by-war_6003131_114.html](https://www.lemonde.fr/en/environment/article/2022/11/06/cop27-climate-ambition-hit-by-war_6003131_114.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-06 09:36:11+00:00
- - tags: None
 
 The 27th World Climate Conference is being held from November 6 to 18 in Sharm El-Sheikh, Egypt. While climate action has never been so urgent, the tense geopolitical context threatens to relegate it to the background.
 
@@ -116,7 +102,6 @@ The 27th World Climate Conference is being held from November 6 to 18 in Sharm E
  - [https://www.lemonde.fr/en/united-states/article/2022/11/06/houston-astros-clinch-second-baseball-world-series-title_6003127_133.html](https://www.lemonde.fr/en/united-states/article/2022/11/06/houston-astros-clinch-second-baseball-world-series-title_6003127_133.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-06 09:07:46+00:00
- - tags: None
 
 It was Astros’ Dusty Baker's first World Series title in his 25th season as manager.
 
@@ -124,7 +109,6 @@ It was Astros’ Dusty Baker's first World Series title in his 25th season as ma
  - [https://www.lemonde.fr/en/food/article/2022/11/06/reyna-brings-the-essence-of-filipino-cuisine-to-paris_6003126_119.html](https://www.lemonde.fr/en/food/article/2022/11/06/reyna-brings-the-essence-of-filipino-cuisine-to-paris_6003126_119.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-06 09:00:21+00:00
- - tags: None
 
 Chef Erica Paredes provides a gourmet immersion into the food of the Philippine archipelago.
 
@@ -132,7 +116,6 @@ Chef Erica Paredes provides a gourmet immersion into the food of the Philippine 
  - [https://www.lemonde.fr/en/opinion/article/2022/11/06/it-s-now-or-never-if-we-want-to-achieve-the-1-5-c-global-warming-target_6003125_23.html](https://www.lemonde.fr/en/opinion/article/2022/11/06/it-s-now-or-never-if-we-want-to-achieve-the-1-5-c-global-warming-target_6003125_23.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-06 09:00:12+00:00
- - tags: None
 
 A number of international political leaders, including the French Minister of Energy Transition, Agnès Pannier-Runacher, believe that COP27 must focus on four priorities to obtain a satisfactory agreement against global warming.
 
@@ -140,7 +123,6 @@ A number of international political leaders, including the French Minister of En
  - [https://www.lemonde.fr/en/international/article/2022/11/06/in-switzerland-a-dna-spray-enables-100-traceable-products_6003118_4.html](https://www.lemonde.fr/en/international/article/2022/11/06/in-switzerland-a-dna-spray-enables-100-traceable-products_6003118_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-06 06:00:14+00:00
- - tags: None
 
 A Swiss start-up proposes a system that allows to certify a raw material from its cultivation and extraction to the finished product.
 
@@ -148,7 +130,6 @@ A Swiss start-up proposes a system that allows to certify a raw material from it
  - [https://www.lemonde.fr/en/environment/article/2022/11/06/with-the-world-in-crisis-cop27-looks-set-to-be-a-mixture-of-ambition-and-fatalism_6003114_114.html](https://www.lemonde.fr/en/environment/article/2022/11/06/with-the-world-in-crisis-cop27-looks-set-to-be-a-mixture-of-ambition-and-fatalism_6003114_114.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-06 03:56:15+00:00
- - tags: None
 
 The 27th World Climate Conference will have to try to advance the fight against climate change or, failing that, prevent it from worsening.
 
@@ -156,7 +137,6 @@ The 27th World Climate Conference will have to try to advance the fight against 
  - [https://www.lemonde.fr/en/health/article/2022/11/06/in-northern-lebanon-failing-infrastructure-exacerbates-a-deadly-cholera-epidemic_6003113_14.html](https://www.lemonde.fr/en/health/article/2022/11/06/in-northern-lebanon-failing-infrastructure-exacerbates-a-deadly-cholera-epidemic_6003113_14.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-06 03:44:18+00:00
- - tags: None
 
 In Bebnine, Lebanese and Syrian refugees are on the front line of an epidemic that has already caused 18 deaths and 400 infection cases throughout the country. The municipality no longer has the means to provide services such as garbage collection, poverty complicates access to safe sources of water.
 
@@ -164,7 +144,6 @@ In Bebnine, Lebanese and Syrian refugees are on the front line of an epidemic th
  - [https://www.lemonde.fr/en/united-states/article/2022/11/06/biden-trump-obama-and-clinton-deliver-final-remarks-before-tuesday-s-critical-midterm-election_6003110_133.html](https://www.lemonde.fr/en/united-states/article/2022/11/06/biden-trump-obama-and-clinton-deliver-final-remarks-before-tuesday-s-critical-midterm-election_6003110_133.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-06 02:51:23+00:00
- - tags: None
 
 The four US presidents focused on northeastern battlegrounds on Saturday, November 5, but their words echoed across the country as the two political parties sent out their best to deliver a critical closing argument.
 
@@ -172,7 +151,6 @@ The four US presidents focused on northeastern battlegrounds on Saturday, Novemb
  - [https://www.lemonde.fr/en/international/article/2022/11/06/in-kentucky-a-concerted-systematic-and-well-funded-effort-led-by-a-religious-conservative-minority-is-being-waged-on-education_6003103_4.html](https://www.lemonde.fr/en/international/article/2022/11/06/in-kentucky-a-concerted-systematic-and-well-funded-effort-led-by-a-religious-conservative-minority-is-being-waged-on-education_6003103_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-06 01:16:43+00:00
- - tags: None
 
 In American tribal politics, education triggers fantasies and provokes crusades. Some teachers prefer to resign in the face of pressure from conservatives. More than ever, the culture war in schools is at the heart of the political debate before the midterm elections.
 
@@ -180,6 +158,5 @@ In American tribal politics, education triggers fantasies and provokes crusades.
  - [https://www.lemonde.fr/en/international/article/2022/11/06/lafc-defeats-philadelphia-to-claim-first-mls-cup-title_6003101_4.html](https://www.lemonde.fr/en/international/article/2022/11/06/lafc-defeats-philadelphia-to-claim-first-mls-cup-title_6003101_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-06 00:27:21+00:00
- - tags: None
 
 On Saturday, November 5, Welsh star Gareth Bale scored a dramatic stoppage-time equalizer before Los Angeles FC defeated Philadelphia Union on penalties to clinch their first MLS Cup crown on Saturday.

@@ -1,10 +1,9 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss
+# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
 
 ## This creepy Mac app can record every moment of your online life
  - [https://www.digitaltrends.com/computing/this-creepy-mac-app-can-record-every-moment-of-your-life/](https://www.digitaltrends.com/computing/this-creepy-mac-app-can-record-every-moment-of-your-life/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-11-03 09:53:24.330992+00:00
- - tags: None
 
 A new app for your Mac claims it can record every moment of your online life and store it for retrieval.
 
@@ -12,6 +11,5 @@ A new app for your Mac claims it can record every moment of your online life and
  - [https://www.digitaltrends.com/computing/asrock-introduces-pc-side-panel-display/](https://www.digitaltrends.com/computing/asrock-introduces-pc-side-panel-display/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-11-03 09:53:24.323213+00:00
- - tags: None
 
 ASRock came up with a fun gadget for PC owners, but unfortunately, only a limited number of people will be able to use it.

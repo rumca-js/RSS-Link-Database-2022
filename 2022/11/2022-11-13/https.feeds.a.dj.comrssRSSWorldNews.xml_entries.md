@@ -1,10 +1,9 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml
+# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
 
 ## Mexicans Protest President's Plans to Overhaul Election Agency
  - [https://www.wsj.com/articles/mexicans-protest-presidents-plans-to-overhaul-election-agency-11668368781](https://www.wsj.com/articles/mexicans-protest-presidents-plans-to-overhaul-election-agency-11668368781)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-13 21:20:00+00:00
- - tags: None
 
 Opponents say President López Obrador’s bill to overhaul electoral system watchdog puts Mexico’s democracy at risk.
 
@@ -13,7 +12,6 @@ U.S. Looks to Peace Talks
  - [https://www.wsj.com/articles/as-ukraine-retakes-kherson-u-s-looks-to-diplomacy-before-winter-slows-momentum-11668345883](https://www.wsj.com/articles/as-ukraine-retakes-kherson-u-s-looks-to-diplomacy-before-winter-slows-momentum-11668345883)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-13 18:31:00+00:00
- - tags: None
 
 American arms are flowing, but officials in Washington question how much territory Ukraine or Russia can win with winter approaching.
 
@@ -21,7 +19,6 @@ American arms are flowing, but officials in Washington question how much territo
  - [https://www.wsj.com/articles/iran-issues-scores-of-new-indictments-against-protesters-11668356160](https://www.wsj.com/articles/iran-issues-scores-of-new-indictments-against-protesters-11668356160)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-13 18:01:00+00:00
- - tags: None
 
 Authorities say they have issued indictments of more than 1,000 people in Tehran alone, and on Sunday a judge in the southern province of Hormozgan said that 164 more protesters would be charged with a range of offenses.
 
@@ -29,7 +26,6 @@ Authorities say they have issued indictments of more than 1,000 people in Tehran
  - [https://www.wsj.com/articles/china-dials-back-property-restrictions-in-bid-to-reverse-economic-slide-11668361719](https://www.wsj.com/articles/china-dials-back-property-restrictions-in-bid-to-reverse-economic-slide-11668361719)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-13 17:48:00+00:00
- - tags: None
 
 Partial easing of housing-sector rules comes as Beijing also seeks to lessen economic toll of strict Covid controls.
 
@@ -37,7 +33,6 @@ Partial easing of housing-sector rules comes as Beijing also seeks to lessen eco
  - [https://www.wsj.com/articles/china-us-exit-ban-diplomacy-11668357015](https://www.wsj.com/articles/china-us-exit-ban-diplomacy-11668357015)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-13 17:07:00+00:00
- - tags: None
 
 Californian Henry Cai, who got into a business dispute, has been targeted by exit bans for nearly five years.
 
@@ -45,7 +40,6 @@ Californian Henry Cai, who got into a business dispute, has been targeted by exi
  - [https://www.wsj.com/articles/xi-jinping-steps-back-onto-global-stage-after-three-year-absence-11668358422](https://www.wsj.com/articles/xi-jinping-steps-back-onto-global-stage-after-three-year-absence-11668358422)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-13 16:56:00+00:00
- - tags: None
 
 A question is whether the Chinese leader will try to calm fears among his most powerful international critics at summits this week.
 
@@ -53,7 +47,6 @@ A question is whether the Chinese leader will try to calm fears among his most p
  - [https://www.wsj.com/articles/busy-istanbul-pedestrian-street-hit-by-explosion-11668350387](https://www.wsj.com/articles/busy-istanbul-pedestrian-street-hit-by-explosion-11668350387)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-13 15:38:00+00:00
- - tags: None
 
 The bomb blast killed at least six people and wounded 53 others, Turkey’s president said.
 
@@ -61,7 +54,6 @@ The bomb blast killed at least six people and wounded 53 others, Turkey’s pres
  - [https://www.wsj.com/articles/some-russia-sanctions-could-extend-beyond-ukraine-wars-end-janet-yellen-says-11668349340](https://www.wsj.com/articles/some-russia-sanctions-could-extend-beyond-ukraine-wars-end-janet-yellen-says-11668349340)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-13 15:30:00+00:00
- - tags: None
 
 The U.S. Treasury secretary says any eventual peace agreement between Russia and Ukraine would involve a review of the penalties the U.S. and its allies have imposed on Moscow’s economy.
 
@@ -69,7 +61,6 @@ The U.S. Treasury secretary says any eventual peace agreement between Russia and
  - [https://www.wsj.com/articles/president-biden-xi-jinping-to-spell-out-priorities-and-red-lines-during-bali-meeting-11668339771](https://www.wsj.com/articles/president-biden-xi-jinping-to-spell-out-priorities-and-red-lines-during-bali-meeting-11668339771)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-13 12:34:00+00:00
- - tags: None
 
 The leaders are set to meet face-to-face Monday for the first time since Mr. Biden became president, though they had extensive interactions when they served as vice presidents of their respective countries.
 
@@ -77,7 +68,6 @@ The leaders are set to meet face-to-face Monday for the first time since Mr. Bid
  - [https://www.wsj.com/articles/ukraine-races-to-restore-power-water-in-kherson-after-russian-withdrawal-11668341348](https://www.wsj.com/articles/ukraine-races-to-restore-power-water-in-kherson-after-russian-withdrawal-11668341348)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-13 12:09:00+00:00
- - tags: None
 
 Ukrainian forces that swept into the southern city over the weekend were greeted by jubilant crowds, but a municipal official said the humanitarian situation in the city was critical.
 
@@ -85,7 +75,6 @@ Ukrainian forces that swept into the southern city over the weekend were greeted
  - [https://www.wsj.com/articles/chinas-global-port-investments-give-rise-to-security-worries-11668330942](https://www.wsj.com/articles/chinas-global-port-investments-give-rise-to-security-worries-11668330942)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-13 11:00:00+00:00
- - tags: None
 
 The expanding network could make it easier for Beijing to service a Chinese navy that has become one of Washington’s biggest military concerns, analysts say.
 
@@ -93,7 +82,6 @@ The expanding network could make it easier for Beijing to service a Chinese navy
  - [https://www.wsj.com/articles/israeli-president-hands-mandate-to-benjamin-netanyahu-to-form-government-11668337197](https://www.wsj.com/articles/israeli-president-hands-mandate-to-benjamin-netanyahu-to-form-government-11668337197)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-13 10:59:00+00:00
- - tags: None
 
 Mr. Netanyahu has promised to form a purely right-wing coalition including ultranationalist and religious parties.
 
@@ -101,7 +89,6 @@ Mr. Netanyahu has promised to form a purely right-wing coalition including ultra
  - [https://www.wsj.com/articles/departure-of-tech-workers-weighs-on-russian-economy-11668172429](https://www.wsj.com/articles/departure-of-tech-workers-weighs-on-russian-economy-11668172429)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-13 10:30:00+00:00
- - tags: None
 
 President Vladimir Putin’s troop mobilization for the Ukraine war has caused sales to drop and well-paid employees to flee abroad.
 
@@ -109,7 +96,6 @@ President Vladimir Putin’s troop mobilization for the Ukraine war has caused s
  - [https://www.wsj.com/articles/g-20-discord-likely-to-thwart-efforts-to-boost-sagging-global-economy-11668335402](https://www.wsj.com/articles/g-20-discord-likely-to-thwart-efforts-to-boost-sagging-global-economy-11668335402)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-13 10:30:00+00:00
- - tags: None
 
 War in Ukraine, inflation and U.S.-China tensions are all dividing major economies and making any coordinated response difficult.
 
@@ -117,6 +103,5 @@ War in Ukraine, inflation and U.S.-China tensions are all dividing major economi
  - [https://www.wsj.com/articles/kyiv-power-cuts-bring-cold-food-scheduled-vacuuming-struggling-businesses-11668265926](https://www.wsj.com/articles/kyiv-power-cuts-bring-cold-food-scheduled-vacuuming-struggling-businesses-11668265926)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-13 10:30:00+00:00
- - tags: None
 
 Russia has targeted Ukraine’s electricity grid in an attempt to break civilians’ will, resulting in rolling power cuts in Kyiv. Residents are adapting.

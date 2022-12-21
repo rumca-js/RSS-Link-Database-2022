@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## Every big change coming to Warzone 2 this week
  - [https://www.pcgamer.com/call-of-duty-warzone-2-biggest-changes](https://www.pcgamer.com/call-of-duty-warzone-2-biggest-changes)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 23:51:29+00:00
- - tags: None
 
 Call of Duty's battle royale sequel is a lot more than just a new map.
 
@@ -12,7 +11,6 @@ Call of Duty's battle royale sequel is a lot more than just a new map.
  - [https://www.pcgamer.com/bethesda-speechless-after-watching-this-fallout-76-fan-made-live-action-trailer](https://www.pcgamer.com/bethesda-speechless-after-watching-this-fallout-76-fan-made-live-action-trailer)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 23:05:09+00:00
- - tags: None
 
 Maybe along with the Fallout TV series, there should be a Fallout movie.
 
@@ -20,7 +18,6 @@ Maybe along with the Fallout TV series, there should be a Fallout movie.
  - [https://www.pcgamer.com/starfield-delay-was-the-right-thing-to-do-says-phil-spencer](https://www.pcgamer.com/starfield-delay-was-the-right-thing-to-do-says-phil-spencer)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 22:45:04+00:00
- - tags: None
 
 The Microsoft Gaming CEO didn't repeat the famous Miyamoto quote, but he came pretty close.
 
@@ -28,7 +25,6 @@ The Microsoft Gaming CEO didn't repeat the famous Miyamoto quote, but he came pr
  - [https://www.pcgamer.com/good-luck-counting-how-many-dragons-are-in-the-wow-dragonflight-trailer](https://www.pcgamer.com/good-luck-counting-how-many-dragons-are-in-the-wow-dragonflight-trailer)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 21:34:52+00:00
- - tags: None
 
 Do the Dracthyr count?
 
@@ -36,7 +32,6 @@ Do the Dracthyr count?
  - [https://www.pcgamer.com/surprise-civilization-6-is-getting-12-new-leaders](https://www.pcgamer.com/surprise-civilization-6-is-getting-12-new-leaders)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 21:28:57+00:00
- - tags: None
 
 The Leader Pass will debut in November with a dozen all-new leaders and six "new takes" on existing figureheads.
 
@@ -44,7 +39,6 @@ The Leader Pass will debut in November with a dozen all-new leaders and six "new
  - [https://www.pcgamer.com/earth-passes-8-billion-concurrent-users-to-set-new-record](https://www.pcgamer.com/earth-passes-8-billion-concurrent-users-to-set-new-record)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 20:26:20+00:00
- - tags: None
 
 Hope the servers can handle it.
 
@@ -52,7 +46,6 @@ Hope the servers can handle it.
  - [https://www.pcgamer.com/cyberpunk-2077s-upcoming-expansion-wont-be-free-confirms-cd-projekt](https://www.pcgamer.com/cyberpunk-2077s-upcoming-expansion-wont-be-free-confirms-cd-projekt)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 20:15:52+00:00
- - tags: None
 
 In case there was any doubt, CD Projekt has clarified that the Phantom Liberty will not be one of Cyberpunk 2077's free DLCs.
 
@@ -60,7 +53,6 @@ In case there was any doubt, CD Projekt has clarified that the Phantom Liberty w
  - [https://www.pcgamer.com/meis-return-to-overwatch-2-delayed-by-critical-issue-with-patch](https://www.pcgamer.com/meis-return-to-overwatch-2-delayed-by-critical-issue-with-patch)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 20:14:50+00:00
- - tags: None
 
 Hopefully Blizzard didn't misplace her.
 
@@ -68,7 +60,6 @@ Hopefully Blizzard didn't misplace her.
  - [https://www.pcgamer.com/the-worlds-coolest-vr-room-is-in-a-bar-in-tulsa](https://www.pcgamer.com/the-worlds-coolest-vr-room-is-in-a-bar-in-tulsa)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 19:07:56+00:00
- - tags: None
 
 Players will have to drink responsibly, because the owner really doesn't want to clean puke out of his omnidirectional treadmill.
 
@@ -76,7 +67,6 @@ Players will have to drink responsibly, because the owner really doesn't want to
  - [https://www.pcgamer.com/how-pentiments-hand-crafted-fonts-give-pen-and-ink-a-voice](https://www.pcgamer.com/how-pentiments-hand-crafted-fonts-give-pen-and-ink-a-voice)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 19:05:07+00:00
- - tags: None
 
 Every distinct font reveals something about a character's class and education—and can offer you clues to Pentiment's mystery, too.
 
@@ -84,7 +74,6 @@ Every distinct font reveals something about a character's class and education—
  - [https://www.pcgamer.com/world-of-warcraft-dragonflight-pre-patch-unlock-phase-2](https://www.pcgamer.com/world-of-warcraft-dragonflight-pre-patch-unlock-phase-2)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 18:13:47+00:00
- - tags: None
 
 The second Dragonflight pre-patch is releasing today; here's what it changes and when it arrives.
 
@@ -92,7 +81,6 @@ The second Dragonflight pre-patch is releasing today; here's what it changes and
  - [https://www.pcgamer.com/eas-black-panther-game-should-be-as-scary-as-wakanda-forever](https://www.pcgamer.com/eas-black-panther-game-should-be-as-scary-as-wakanda-forever)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 18:01:14+00:00
- - tags: None
 
 EA might be making a Black Panther game and it should make me fear the fate of Wakanda.
 
@@ -100,7 +88,6 @@ EA might be making a Black Panther game and it should make me fear the fate of W
  - [https://www.pcgamer.com/the-sims-4-is-ditching-32-bit-support-for-good-in-december](https://www.pcgamer.com/the-sims-4-is-ditching-32-bit-support-for-good-in-december)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 17:52:06+00:00
- - tags: None
 
 The Legacy Edition of The Sims 4, released in 2019 as a holder for people on older PCs, is being eliminated.
 
@@ -108,7 +95,6 @@ The Legacy Edition of The Sims 4, released in 2019 as a holder for people on old
  - [https://www.pcgamer.com/nvidias-frame-generation-tech-works-with-amd-fsr-and-intel-xess-scaling](https://www.pcgamer.com/nvidias-frame-generation-tech-works-with-amd-fsr-and-intel-xess-scaling)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 17:38:45+00:00
- - tags: None
 
 It's a scaling tech mix 'n match free for all. For now.
 
@@ -116,7 +102,6 @@ It's a scaling tech mix 'n match free for all. For now.
  - [https://www.pcgamer.com/xbox-boss-says-buying-cod-isnt-about-pulling-the-rug-out-from-underneath-the-playstation-7](https://www.pcgamer.com/xbox-boss-says-buying-cod-isnt-about-pulling-the-rug-out-from-underneath-the-playstation-7)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 17:25:54+00:00
- - tags: None
 
 "We want to continue to ship Call of Duty on PlayStation without any kind of weird, 'Aha! I figured out the gotcha.'"
 
@@ -124,7 +109,6 @@ It's a scaling tech mix 'n match free for all. For now.
  - [https://www.pcgamer.com/destiny-2-cheat-maker-that-clapped-back-at-bungie-has-said-clapback-dismissed-in-federal-court](https://www.pcgamer.com/destiny-2-cheat-maker-that-clapped-back-at-bungie-has-said-clapback-dismissed-in-federal-court)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 17:18:50+00:00
- - tags: None
 
 AimJunkies has one more shot to amend its counterclaim.
 
@@ -132,7 +116,6 @@ AimJunkies has one more shot to amend its counterclaim.
  - [https://www.pcgamer.com/genshin-impact-layla-build](https://www.pcgamer.com/genshin-impact-layla-build)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 16:53:34+00:00
- - tags: None
 
 A great setup for the sleepy scholar.
 
@@ -140,7 +123,6 @@ A great setup for the sleepy scholar.
  - [https://www.pcgamer.com/director-of-bioshock-movie-says-its-one-of-the-best-games-ever-created](https://www.pcgamer.com/director-of-bioshock-movie-says-its-one-of-the-best-games-ever-created)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 16:37:20+00:00
- - tags: None
 
 "We already have our take, outline, and all that kind of stuff, so that's all done."
 
@@ -148,7 +130,6 @@ A great setup for the sleepy scholar.
  - [https://www.pcgamer.com/tactics-ogre-reborn-starting-questions-tarot-card-answers](https://www.pcgamer.com/tactics-ogre-reborn-starting-questions-tarot-card-answers)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 16:26:38+00:00
- - tags: None
 
 The tarot card answers will give your character different attributes.
 
@@ -156,7 +137,6 @@ The tarot card answers will give your character different attributes.
  - [https://www.pcgamer.com/new-amd-rx-7900-series-gpu-data-takes-aim-at-nvidias-rtx-4080](https://www.pcgamer.com/new-amd-rx-7900-series-gpu-data-takes-aim-at-nvidias-rtx-4080)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 14:37:26+00:00
- - tags: None
 
 More efficient, cheaper, more reliable, and lots more memory - but still too expensive?
 
@@ -164,7 +144,6 @@ More efficient, cheaper, more reliable, and lots more memory - but still too exp
  - [https://www.pcgamer.com/that-time-rockstar-turned-down-a-grand-theft-auto-movie-starring-eminem](https://www.pcgamer.com/that-time-rockstar-turned-down-a-grand-theft-auto-movie-starring-eminem)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 14:19:49+00:00
- - tags: None
 
 With Top Gun director Tony Scott helming it.
 
@@ -172,7 +151,6 @@ With Top Gun director Tony Scott helming it.
  - [https://www.pcgamer.com/nvidia-rtx-4080-16gb-review-performance-benchmarks](https://www.pcgamer.com/nvidia-rtx-4080-16gb-review-performance-benchmarks)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 14:03:08+00:00
- - tags: None
 
 Knock $200 off the price tag and we'll talk.
 
@@ -180,7 +158,6 @@ Knock $200 off the price tag and we'll talk.
  - [https://www.pcgamer.com/tears-of-joy-as-streamer-completes-back-to-back-no-hit-run-of-every-single-soulsborne-game](https://www.pcgamer.com/tears-of-joy-as-streamer-completes-back-to-back-no-hit-run-of-every-single-soulsborne-game)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 13:42:53+00:00
- - tags: None
 
 Dinossindgeil had to start over from square one whenever he took a hit.
 
@@ -188,7 +165,6 @@ Dinossindgeil had to start over from square one whenever he took a hit.
  - [https://www.pcgamer.com/potential-causes-of-melting-nvidia-rtx-4090-power-connector-disaster-identified](https://www.pcgamer.com/potential-causes-of-melting-nvidia-rtx-4090-power-connector-disaster-identified)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 13:23:40+00:00
- - tags: None
 
 Listen, it's complicated. OK?
 
@@ -196,7 +172,6 @@ Listen, it's complicated. OK?
  - [https://www.pcgamer.com/everyone-is-bullying-the-uk-government-in-its-own-discord-server](https://www.pcgamer.com/everyone-is-bullying-the-uk-government-in-its-own-discord-server)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 13:14:18+00:00
- - tags: None
 
 Fix the cost of living crisis? ❌ Make a Discord server? ✔
 
@@ -204,7 +179,6 @@ Fix the cost of living crisis? ❌ Make a Discord server? ✔
  - [https://www.pcgamer.com/fable-co-creator-says-we-have-devil-may-cry-to-thank-for-the-rpgs-world](https://www.pcgamer.com/fable-co-creator-says-we-have-devil-may-cry-to-thank-for-the-rpgs-world)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 11:52:31+00:00
- - tags: None
 
 Dene Carter says Fable's scope was "spiralling out of control" before the hack-and-slash came along.
 
@@ -212,7 +186,6 @@ Dene Carter says Fable's scope was "spiralling out of control" before the hack-a
  - [https://www.pcgamer.com/banned-valorant-streamer-yanked-from-football-broadcasts-after-misogynistic-video-resurfaces](https://www.pcgamer.com/banned-valorant-streamer-yanked-from-football-broadcasts-after-misogynistic-video-resurfaces)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 11:36:41+00:00
- - tags: None
 
 IShowSpeed's videos with Sky Sports have been deleted without a trace.
 
@@ -220,7 +193,6 @@ IShowSpeed's videos with Sky Sports have been deleted without a trace.
  - [https://www.pcgamer.com/msi-meg-x670e-ace](https://www.pcgamer.com/msi-meg-x670e-ace)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 10:22:21+00:00
- - tags: None
 
 E for excellent, expensive, extravagant, or all three?
 
@@ -228,7 +200,6 @@ E for excellent, expensive, extravagant, or all three?
  - [https://www.pcgamer.com/wordle-514-answer-november-15](https://www.pcgamer.com/wordle-514-answer-november-15)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 06:05:46+00:00
- - tags: None
 
 Wordle today: The solution and a hint for the #514 puzzle.
 
@@ -236,7 +207,6 @@ Wordle today: The solution and a hint for the #514 puzzle.
  - [https://www.pcgamer.com/this-functional-old-style-tiny-tv-is-just-bigger-than-a-quarter](https://www.pcgamer.com/this-functional-old-style-tiny-tv-is-just-bigger-than-a-quarter)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 03:42:00+00:00
- - tags: None
 
 You might need some tweezers to turn the dials.
 
@@ -244,7 +214,6 @@ You might need some tweezers to turn the dials.
  - [https://www.pcgamer.com/intels-fakecatcher-tech-can-detect-deepfakes-instantly-with-96-accuracy](https://www.pcgamer.com/intels-fakecatcher-tech-can-detect-deepfakes-instantly-with-96-accuracy)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 03:30:33+00:00
- - tags: None
 
 It looks for the blood.
 
@@ -252,7 +221,6 @@ It looks for the blood.
  - [https://www.pcgamer.com/here-are-the-official-co-streamers-for-the-pc-gaming-show-2023-preview](https://www.pcgamer.com/here-are-the-official-co-streamers-for-the-pc-gaming-show-2023-preview)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 03:14:04+00:00
- - tags: None
 
 Check out our preview for the next year in PC Gaming with the streamer of your choice.
 
@@ -260,7 +228,6 @@ Check out our preview for the next year in PC Gaming with the streamer of your c
  - [https://www.pcgamer.com/16-year-old-street-fighter-player-becomes-instant-legend-after-sweeping-tournament-and-leaving-like-its-no-big-deal](https://www.pcgamer.com/16-year-old-street-fighter-player-becomes-instant-legend-after-sweeping-tournament-and-leaving-like-its-no-big-deal)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 01:33:10+00:00
- - tags: None
 
 EndingWalker, the surprise tournament hero, wasn't going for any kind of "mic drop" on purpose.
 
@@ -268,7 +235,6 @@ EndingWalker, the surprise tournament hero, wasn't going for any kind of "mic dr
  - [https://www.pcgamer.com/the-people-have-spoken-sonic-frontiers-is-better-than-elden-ring](https://www.pcgamer.com/the-people-have-spoken-sonic-frontiers-is-better-than-elden-ring)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 00:27:13+00:00
- - tags: None
 
 Due to user review averages, Sonic is GOTY now, sorry.
 
@@ -276,6 +242,5 @@ Due to user review averages, Sonic is GOTY now, sorry.
  - [https://www.pcgamer.com/somerville-review](https://www.pcgamer.com/somerville-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-15 00:01:27+00:00
- - tags: None
 
 A narrative adventure that turns the apocalypse into a slog.

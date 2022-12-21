@@ -1,10 +1,9 @@
-# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
+# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug, Source language: en-US
 
 ## Foxconn enters the state of lockdown/People try to force their way out of blockade in several cities
  - [https://www.youtube.com/watch?v=WWeyJQOtFEw](https://www.youtube.com/watch?v=WWeyJQOtFEw)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
  - date published: 2022-11-09 01:15:09+00:00
- - tags: None
 
 #Chinainsights#foxconnflee#zhengzhou
 So what happened to those Foxconn employees after they reached home?

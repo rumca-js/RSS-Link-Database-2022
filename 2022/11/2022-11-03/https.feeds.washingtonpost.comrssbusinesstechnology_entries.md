@@ -1,10 +1,9 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology
+# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
 
 ## Elon Musk begins mass layoffs at Twitter
  - [https://www.washingtonpost.com/technology/2022/11/03/elon-musk-twitter-layoffs/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/03/elon-musk-twitter-layoffs/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-03 21:06:02+00:00
- - tags: None
 
 Musk is laying off broad swaths of the company's workforce. An internal email said employees would be notified by Friday and Twitter's offices would be closed.
 
@@ -12,7 +11,6 @@ Musk is laying off broad swaths of the company's workforce. An internal email sa
  - [https://www.washingtonpost.com/video-games/2022/11/03/ross-chastain-wall-ride-nascar-interview/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/11/03/ross-chastain-wall-ride-nascar-interview/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-03 16:50:51+00:00
- - tags: None
 
 "My move last weekend would’ve seemed really stupid if it didn’t succeed," said Ross Chastain, whose stunt helped him advance to a championship race.
 
@@ -20,7 +18,6 @@ Musk is laying off broad swaths of the company's workforce. An internal email sa
  - [https://www.washingtonpost.com/video-games/2022/11/03/ksante-league-of-legends-gay-black-lil-nas-x/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/11/03/ksante-league-of-legends-gay-black-lil-nas-x/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-03 16:30:54+00:00
- - tags: None
 
 "I wanted to see a character like me in a video game for so long," said one of the designers behind K’Sante, "League's" newest legend.
 
@@ -28,7 +25,6 @@ Musk is laying off broad swaths of the company's workforce. An internal email sa
  - [https://www.washingtonpost.com/video-games/2022/11/03/marvel-snap-play-against-friends-battle-mode/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/11/03/marvel-snap-play-against-friends-battle-mode/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-03 13:57:22+00:00
- - tags: None
 
 An update containing a friend-centric battle mode is set to release “this calendar year,” the game's developer told The Washington Post.
 
@@ -36,7 +32,6 @@ An update containing a friend-centric battle mode is set to release “this cale
  - [https://www.washingtonpost.com/video-games/reviews/god-war-ragnarok-review/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/reviews/god-war-ragnarok-review/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-03 12:00:00+00:00
- - tags: None
 
 It's a bigger, faster, gorier and more narratively rewarding iteration of the 2018 smash hit.
 
@@ -44,7 +39,6 @@ It's a bigger, faster, gorier and more narratively rewarding iteration of the 20
  - [https://www.washingtonpost.com/technology/2022/11/03/elon-musk-twitter-layoffs-silence-blind/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/03/elon-musk-twitter-layoffs-silence-blind/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-03 08:00:11+00:00
- - tags: None
 
 Silence from new leaders has bewildered workers, who are turning to private chats, anonymous apps and Elon Musk’s tweets for basic information.
 
@@ -52,7 +46,6 @@ Silence from new leaders has bewildered workers, who are turning to private chat
  - [https://www.washingtonpost.com/technology/2022/11/03/apple-ipad-stage-manager-review/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/03/apple-ipad-stage-manager-review/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-03 07:00:56+00:00
- - tags: None
 
 New software for some of Apple’s high-powered iPad models promise to make them better machines for multitasking. The reality isn't that simple.
 
@@ -60,6 +53,5 @@ New software for some of Apple’s high-powered iPad models promise to make them
  - [https://www.washingtonpost.com/technology/2022/11/03/twitter-celebrities-leaving-elon-musk/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/03/twitter-celebrities-leaving-elon-musk/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-03 07:00:40+00:00
- - tags: None
 
 A few celebrities have said they will leave the service, but there has not been a high-profile exodus.

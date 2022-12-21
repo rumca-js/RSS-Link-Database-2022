@@ -1,10 +1,9 @@
-# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
+# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug, Source language: en-US
 
 ## 2 explosions in 2 days (Nov 2022): What's wrong with China's railroad system?
  - [https://www.youtube.com/watch?v=mWo-7IXROjA](https://www.youtube.com/watch?v=mWo-7IXROjA)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
  - date published: 2022-11-17 17:45:08+00:00
- - tags: None
 
 #Chinainsights#Chinahighspeedtrain
 This is a scene from a high-speed railway station in Nanchang, a provincial capital city of China, on November 12th, 2022. At 20:00, a transformer on the side of the road at this station caught fire and made explosive noises. 

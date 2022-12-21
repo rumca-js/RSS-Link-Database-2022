@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## The Apple Watch Ultra is on sale for the first time ever this Black Friday
  - [https://www.pcworld.com/article/1389571/the-apple-watch-ultra-is-on-sale-for-the-first-time-ever-this-black-friday.html](https://www.pcworld.com/article/1389571/the-apple-watch-ultra-is-on-sale-for-the-first-time-ever-this-black-friday.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-22 19:36:52+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>There are only one or two times each year that Apple products go on sale and Black Friday is one of them. But this is the very first time we&rsquo;ve ever seen a discount on the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.macworld.com/article/1364168/apple-watch-ultra-review.html&amp;xcust=2-1-1389571-1-0-0&amp;sref=https://www.pcworld.com/feed">superb new Apple Watch Ultra</a>. This top of the line smart watch is currently <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/dp/B0BDJ9M2K4&amp;xcust=2-1-1389571-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">on sale from Amazon for $739</a>, which is a $60 savings. Considering sales on Apple products are rare and sales on their premium line of products are once in a blue moon events, now might be your only chance to save some money on this do-it-all smart watch.</p>
@@ -21,7 +20,6 @@ Smartwatches</div>
  - [https://www.pcworld.com/article/1389499/black-friday-doorbuster-get-this-multi-platform-headset-for-just-20.html](https://www.pcworld.com/article/1389499/black-friday-doorbuster-get-this-multi-platform-headset-for-just-20.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-22 18:41:39+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Do you need a multiplayer gaming headset? Do you have a gaming PC, an Xbox, a PlayStation, and a Switch, and somehow only have twenty bucks to spare for audio equipment? Then do I have a deal for you, and very specifically you, incredibly conditional reader! Best Buy is selling the Astro Gaming A10, a wired headset that works with pretty much everything, for $40 off. Since it was already fairly budget-friendly at $60, that <a href="https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fastro-gaming-a10-wired-stereo-over-the-ear-gaming-headset-for-pc-xbox-playstation-and-nintendo-switch-with-flip-to-mute-mic-black-red%2F6224200.p%3FskuId%3D6224200&amp;publisher_slug=pcworld&amp;exclusive=1&amp;article_name=pcworld&amp;article_url=https%3A%2F%2Fwww.pcworld.com%2Ffeed" rel="nofollow" target="_blank">makes the final price just $20</a>. </p>
@@ -46,7 +44,6 @@ Headphones</div>
  - [https://www.pcworld.com/article/1389252/ubisoft-returns-to-steam-with-assassins-creed-valhalla.html](https://www.pcworld.com/article/1389252/ubisoft-returns-to-steam-with-assassins-creed-valhalla.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-22 16:02:19+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>A few weeks ago we got some solid indications that international mega-publisher Ubisoft <a href="https://www.pcworld.com/article/1375361/ubisoft-games-may-make-an-overdue-return-to-steam.html" rel="noreferrer noopener" target="_blank">would be slinking back to Steam</a>, the de facto default for PC game stores. Lo and behold, <em>le fils prodigue revient</em>: as of yesterday, Ubisoft has <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://store.steampowered.com/app/2208920/Assassins_Creed_Valhalla/&amp;xcust=2-2-1389252-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">posted <em>Assassin&rsquo;s Creed Valhalla</em></a> to Valve&rsquo;s ubiquitous storefront with a December 6th release date. It will follow with <em>Anno 1800 </em>and<em> Roller Champions </em>at some point. </p>
@@ -68,7 +65,6 @@ Gaming</div>
  - [https://www.pcworld.com/article/1389227/grab-this-lg-1440p-gaming-monitor-for-134-before-black-friday.html](https://www.pcworld.com/article/1389227/grab-this-lg-1440p-gaming-monitor-for-134-before-black-friday.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-22 15:33:32+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Black Friday is a fantastic time to buy a discounted monitor. However, you don&rsquo;t need to wait until the main event to take advantage of those deals. The early sales are already here and we&rsquo;ve got an especially juicy one on tap for you today. eBay&rsquo;s selling the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.ebay.com/itm/133904088446?epid=11049248724&amp;hash=item1f2d4e3d7e:g:qdAAAOSwKFlhaKWZ&amp;amdata=enc%3AAQAHAAAA8J%2BR2ESNVTGDki6pUKaxhuIzN2myxdzM1QY4fvfVQu1rdDrW9je5Y9BlqCrNTxrRgTThQ7yHYecTGYOuvKr6efi5VYiaUHIfXLsapxKKygKUVEA%2BbNwwQJKjB7HcXyTsUTGdZ1aZBkY%2BS9niEcOI2Y3yz0NRnNer4jNUZH2A0v8xOo1F5bCH6AG0IMiaPBnSQL0RYbsbQsN37exo8O1hIakdGuoUG0wOlBZMQY7znUP8qK0UcL6yCFoVaFAvBCSJzt8MIUM90BBlZBgHB4aKUOxZfpzOmOz7DnerplTuQkfG5D7iJjX8ICL2MzMkrz2H3g%3D%3D%7Ctkp%3ABk9SR-znlPCTYQ&amp;xcust=2-2-1389227-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">LG 32QN55T-B gaming monitor for $133.99, which is a savings of $166</a> and an absolutely stunning price for a big, pixel-packed display like this. Let&rsquo;s jump right into the specs and features.</p>
@@ -89,7 +85,6 @@ Monitors</div>
  - [https://www.pcworld.com/article/1384482/kensington-sd5780t-review-an-excellent-pricey-thunderbolt-4-dock.html](https://www.pcworld.com/article/1384482/kensington-sd5780t-review-an-excellent-pricey-thunderbolt-4-dock.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-22 15:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><div class="review" id="review-body"><img alt="Editors' Choice" class="review-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" /><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
@@ -226,7 +221,6 @@ Docking Stations</div>
  - [https://www.pcworld.com/article/1388363/save-25-off-our-favorite-password-manager-during-lastpasss-black-friday-sale.html](https://www.pcworld.com/article/1388363/save-25-off-our-favorite-password-manager-during-lastpasss-black-friday-sale.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-22 14:57:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Using random, strong passwords doesn&rsquo;t have to be a chore. A good password manager can handle all the work, freeing your mind to focus on other important things. Right now making the switch is cheaper than usual&mdash;<a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.lastpass.com/pricing&amp;xcust=2-2-1388363-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">LastPass is 25% off for Black Friday</a>.</p>
@@ -251,7 +245,6 @@ Black Friday and Cyber Monday, Password Managers</div>
  - [https://www.pcworld.com/article/1389172/this-rtx-3060-powered-acer-gaming-laptop-for-650-is-an-absolutely-ludicrous-early-black-friday-deal.html](https://www.pcworld.com/article/1389172/this-rtx-3060-powered-acer-gaming-laptop-for-650-is-an-absolutely-ludicrous-early-black-friday-deal.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-22 14:52:24+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>The computer industry&rsquo;s been hurting <em>bad</em> the last couple of quarters, but the gloomy news has a silver lining: We&rsquo;re seeing some utterly terrific early Black Friday deals as vendors and retailers alike scramble to sell as much stock as possible. Today&rsquo;s deal may be the most eye-catching example. Walmart is selling the GeForce RTX 3060-powered <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.walmart.com/ip/seort/836840444&amp;xcust=2-2-1389172-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Acer Nitro 5 gaming laptop for just $649</a>, a ludicrously low price for a notebook with that GPU inside.</p>
@@ -276,7 +269,6 @@ GPUs</div>
  - [https://www.pcworld.com/article/1388548/get-a-13-course-asl-training-bundle-for-20-ahead-of-black-friday.html](https://www.pcworld.com/article/1388548/get-a-13-course-asl-training-bundle-for-20-ahead-of-black-friday.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-22 14:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>It&rsquo;s the season of giving, and we want to give something special to you! Until November 23 at 11:59 PM Pacific, we&rsquo;re releasing early Black Friday discounts on some of our most popular items at some of the best prices you&rsquo;ll ever find.</p>
@@ -317,7 +309,6 @@ Education and Training Software</div>
  - [https://www.pcworld.com/article/1382822/this-common-time-saving-shortcut-can-freak-out-your-new-pc.html](https://www.pcworld.com/article/1382822/this-common-time-saving-shortcut-can-freak-out-your-new-pc.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-22 11:45:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>I don&rsquo;t know if it&rsquo;s an age thing, an experience thing, or a &ldquo;simply being lazy&rdquo; thing, but in the last year, I&rsquo;ve run into two problems with Windows that could have been simply been fixed by doing this one trick when building a new PC.</p>
@@ -432,7 +423,6 @@ Windows</div>
  - [https://www.pcworld.com/article/1382692/best-monitors-for-graphics-design.html](https://www.pcworld.com/article/1382692/best-monitors-for-graphics-design.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-22 11:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Everyone enjoys a monitor with great image quality but, for graphics designers, image quality is a professional necessity. Graphics designers need a monitor that has accurate color and supports the correct color gamut for their work. Monitors that fall short make it difficult for designers to know their work will look correct when it&rsquo;s viewed on other monitors or put into production.</p>
@@ -786,7 +776,6 @@ Monitors</div>
  - [https://www.pcworld.com/article/1388520/save-nearly-90-off-this-heated-jacket-before-thanksgiving.html](https://www.pcworld.com/article/1388520/save-nearly-90-off-this-heated-jacket-before-thanksgiving.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-22 10:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Even in the toughest years, there are things to be thankful for. If you&rsquo;re struggling to find some positivity, allow us to help you out because, this year, we&rsquo;ve found deals to be thankful for and are passing on all kinds of savings to you. During our Thankful Deals event, you can lock in Black Friday pricing on some of our best-sellers &mdash; before Black Friday, no less. Perhaps no deal is better this season than a&nbsp;<a href="https://shop.pcworld.com/sales/caldo-x-heated-jacket-with-detachable-hood-black-large?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=caldo-x-heated-jacket-with-detachable-hood-black-large&amp;utm_term=scsf-557629&amp;utm_content=a0x1P000004ya7wQAA&amp;scsonar=1" rel="noreferrer noopener" target="_blank">heated jacket</a>&nbsp;like the CALDO-X, which is just $29.99 or 88% off.</p>

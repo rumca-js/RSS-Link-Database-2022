@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## Chartist
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59354](https://www.codeproject.com/script/News/View.aspx?nwid=59354)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-01 04:00:00+00:00
- - tags: None
 
 Chartist is a simple responsive charting library built with SVG.
 
@@ -12,7 +11,6 @@ Chartist is a simple responsive charting library built with SVG.
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59364](https://www.codeproject.com/script/News/View.aspx?nwid=59364)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-01 04:00:00+00:00
- - tags: None
 
 AI is neither artificial nor intelligent. Discuss
 
@@ -20,7 +18,6 @@ AI is neither artificial nor intelligent. Discuss
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59355](https://www.codeproject.com/script/News/View.aspx?nwid=59355)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-01 04:00:00+00:00
- - tags: None
 
 When the user feels confused, frustrated or intimidated, your website analytics and your search ranking can reflect this. You might not realize it, but common design trends and practices could be the cause for this.
 
@@ -28,7 +25,6 @@ When the user feels confused, frustrated or intimidated, your website analytics 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59350](https://www.codeproject.com/script/News/View.aspx?nwid=59350)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-01 04:00:00+00:00
- - tags: None
 
 Turbopack is built on a new incremental architecture for the fastest possible development experience. On large applications, it shows updates 10x faster than Vite and 700x faster than Webpack.
 
@@ -36,7 +32,6 @@ Turbopack is built on a new incremental architecture for the fastest possible de
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59351](https://www.codeproject.com/script/News/View.aspx?nwid=59351)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-01 04:00:00+00:00
- - tags: None
 
 Now that we got all we wished for and more, some of us are asking — do we now have too much CSS?
 
@@ -44,7 +39,6 @@ Now that we got all we wished for and more, some of us are asking — do we now 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59362](https://www.codeproject.com/script/News/View.aspx?nwid=59362)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-01 04:00:00+00:00
- - tags: None
 
 Good thing many developers are so good at dealing with other people
 
@@ -52,7 +46,6 @@ Good thing many developers are so good at dealing with other people
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59356](https://www.codeproject.com/script/News/View.aspx?nwid=59356)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-01 04:00:00+00:00
- - tags: None
 
 Web components are a collection of technologies that work together to deliver reusable UI components to the web.
 
@@ -60,7 +53,6 @@ Web components are a collection of technologies that work together to deliver re
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59353](https://www.codeproject.com/script/News/View.aspx?nwid=59353)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-01 04:00:00+00:00
- - tags: None
 
 Since its release in late 2020, PHP 8 has been a game changer. In this tutorial, I will walk through all the latest features with real-world examples of when I might choose to use them.
 
@@ -68,7 +60,6 @@ Since its release in late 2020, PHP 8 has been a game changer. In this tutorial,
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59360](https://www.codeproject.com/script/News/View.aspx?nwid=59360)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-01 04:00:00+00:00
- - tags: None
 
 It's up to something, watch out!
 
@@ -76,7 +67,6 @@ It's up to something, watch out!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59363](https://www.codeproject.com/script/News/View.aspx?nwid=59363)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-01 04:00:00+00:00
- - tags: None
 
 Tip 0: let us in, or we'll huff and puff
 
@@ -84,7 +74,6 @@ Tip 0: let us in, or we'll huff and puff
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59352](https://www.codeproject.com/script/News/View.aspx?nwid=59352)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-01 04:00:00+00:00
- - tags: None
 
 Next.js 13 lays the foundations to be dynamic without limits
 
@@ -92,7 +81,6 @@ Next.js 13 lays the foundations to be dynamic without limits
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59358](https://www.codeproject.com/script/News/View.aspx?nwid=59358)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-01 04:00:00+00:00
- - tags: None
 
 Look to your right. Now look to your left. Now say goodbye and move to that new job.
 
@@ -100,7 +88,6 @@ Look to your right. Now look to your left. Now say goodbye and move to that new 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59359](https://www.codeproject.com/script/News/View.aspx?nwid=59359)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-01 04:00:00+00:00
- - tags: None
 
 Because sometimes you need more than braaaaiiinnnnsssss
 
@@ -108,7 +95,6 @@ Because sometimes you need more than braaaaiiinnnnsssss
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59361](https://www.codeproject.com/script/News/View.aspx?nwid=59361)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-01 04:00:00+00:00
- - tags: None
 
 "You're forgiven, not forgotten"
 
@@ -116,7 +102,6 @@ Because sometimes you need more than braaaaiiinnnnsssss
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59365](https://www.codeproject.com/script/News/View.aspx?nwid=59365)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-01 04:00:00+00:00
- - tags: None
 
 "The best laid schemes o’ Mice an’ Men gang aft agley"
 
@@ -124,6 +109,5 @@ Because sometimes you need more than braaaaiiinnnnsssss
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59357](https://www.codeproject.com/script/News/View.aspx?nwid=59357)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-01 04:00:00+00:00
- - tags: None
 
 What's next for me: maybe, no, and elephant no

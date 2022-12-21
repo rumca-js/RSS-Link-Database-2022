@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## Oil Prices Slide as Investors Worry Energy Demand Is Slowing
  - [https://www.nytimes.com/2022/11/18/business/energy-environment/oil-prices-fall.html](https://www.nytimes.com/2022/11/18/business/energy-environment/oil-prices-fall.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-18 19:51:47+00:00
- - tags: None
 
 The U.S. benchmark oil price fell below $80 a barrel on Friday, and gasoline prices in some states are now close to $3 a gallon.
 
@@ -12,7 +11,6 @@ The U.S. benchmark oil price fell below $80 a barrel on Friday, and gasoline pri
  - [https://www.nytimes.com/2022/11/18/us/politics/us-saudi-mbs-khashoggi-murder.html](https://www.nytimes.com/2022/11/18/us/politics/us-saudi-mbs-khashoggi-murder.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-18 19:43:10+00:00
- - tags: None
 
 The State Department said Crown Prince Mohammed bin Salman, the kingdom’s de facto ruler, should have legal immunity as the head of the Saudi government.
 
@@ -20,7 +18,6 @@ The State Department said Crown Prince Mohammed bin Salman, the kingdom’s de f
  - [https://www.nytimes.com/2022/11/18/world/europe/rishi-sunak-uk-budget-economy.html](https://www.nytimes.com/2022/11/18/world/europe/rishi-sunak-uk-budget-economy.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-18 18:04:39+00:00
- - tags: None
 
 The country’s new prime minister must now persuade ordinary Britons that they should support his government through a painful ordeal of tax increases, spending cuts and a recession.
 
@@ -28,7 +25,6 @@ The country’s new prime minister must now persuade ordinary Britons that they 
  - [https://www.nytimes.com/2022/11/18/climate/un-climate-talks-cop27.html](https://www.nytimes.com/2022/11/18/climate/un-climate-talks-cop27.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-18 17:43:27+00:00
- - tags: None
 
 Debate intensified over a contentious issue — the creation of a fund to help poor and vulnerable countries pay for “loss and damage” caused by climate change.
 
@@ -36,7 +32,6 @@ Debate intensified over a contentious issue — the creation of a fund to help p
  - [https://www.nytimes.com/2022/11/18/world/middleeast/gaza-strip-fire.html](https://www.nytimes.com/2022/11/18/world/middleeast/gaza-strip-fire.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-18 17:30:40+00:00
- - tags: None
 
 The fast-moving blaze and the high number of deaths led to accusations that emergency units were too slow in responding.
 
@@ -44,7 +39,6 @@ The fast-moving blaze and the high number of deaths led to accusations that emer
  - [https://www.nytimes.com/2022/11/18/world/europe/griner-russia-prisoner-swap.html](https://www.nytimes.com/2022/11/18/world/europe/griner-russia-prisoner-swap.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-18 16:14:16+00:00
- - tags: None
 
 Russia reiterated its openness to a prisoner exchange with the United States involving the notorious convicted arms dealer Viktor Bout.
 
@@ -52,7 +46,6 @@ Russia reiterated its openness to a prisoner exchange with the United States inv
  - [https://www.nytimes.com/2022/11/18/us/politics/ukraine-russia-missiles.html](https://www.nytimes.com/2022/11/18/us/politics/ukraine-russia-missiles.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-18 15:05:48+00:00
- - tags: None
 
 Western and Ukrainian officials have said Moscow’s stockpile of missiles was dwindling. But the assaults this week raise questions about that.
 
@@ -60,7 +53,6 @@ Western and Ukrainian officials have said Moscow’s stockpile of missiles was d
  - [https://www.nytimes.com/2022/11/18/briefing/climate-talks-cop27-us-china.html](https://www.nytimes.com/2022/11/18/briefing/climate-talks-cop27-us-china.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-18 11:36:27+00:00
- - tags: None
 
 International climate summits are imperfect, but they have led to real progress.
 
@@ -68,7 +60,6 @@ International climate summits are imperfect, but they have led to real progress.
  - [https://www.nytimes.com/2022/11/18/world/asia/a-beloved-show-gets-another-life.html](https://www.nytimes.com/2022/11/18/world/asia/a-beloved-show-gets-another-life.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-18 11:32:33+00:00
- - tags: None
 
 The unexpected revival of “Neighbours,” the long-running drama that offered a sweet, uncontroversial vision of Australia, comes via Amazon. Will streaming change its nature?
 
@@ -76,7 +67,6 @@ The unexpected revival of “Neighbours,” the long-running drama that offered 
  - [https://www.nytimes.com/live/2022/11/18/world/russia-ukraine-war-news](https://www.nytimes.com/live/2022/11/18/world/russia-ukraine-war-news)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-18 10:44:18+00:00
- - tags: None
 
 Ukraine has pressed its counteroffensive in Luhansk, though fighting there has slowed.
 
@@ -84,7 +74,6 @@ Ukraine has pressed its counteroffensive in Luhansk, though fighting there has s
  - [https://www.nytimes.com/2022/11/18/world/europe/ukraine-film-critic-soldier.html](https://www.nytimes.com/2022/11/18/world/europe/ukraine-film-critic-soldier.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-18 10:00:43+00:00
- - tags: None
 
 Anton Filatov was pulled into a theater he never expected or wanted to enter: the front lines of war, where he now writes movingly of the scene in the trenches instead of what’s on the screen.
 
@@ -92,7 +81,6 @@ Anton Filatov was pulled into a theater he never expected or wanted to enter: th
  - [https://www.nytimes.com/2022/11/18/world/europe/france-nice-attack-victims-fund.html](https://www.nytimes.com/2022/11/18/world/europe/france-nice-attack-victims-fund.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-18 10:00:42+00:00
- - tags: None
 
 At the trial over the 2016 terrorist attack in Nice, bereaved family members and survivors vent frustration at a cumbersome process to obtain compensation.
 
@@ -100,7 +88,6 @@ At the trial over the 2016 terrorist attack in Nice, bereaved family members and
  - [https://www.nytimes.com/2022/11/18/health/covid-nasal-vaccines-warp-speed.html](https://www.nytimes.com/2022/11/18/health/covid-nasal-vaccines-warp-speed.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-18 10:00:35+00:00
- - tags: None
 
 Financial and bureaucratic barriers in the United States mean that the next generation of Covid vaccines may well be designed here, but used elsewhere.
 
@@ -108,7 +95,6 @@ Financial and bureaucratic barriers in the United States mean that the next gene
  - [https://www.nytimes.com/2022/11/18/world/middleeast/us-saudi-mbs-khashoggi-murder.html](https://www.nytimes.com/2022/11/18/world/middleeast/us-saudi-mbs-khashoggi-murder.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-18 09:47:18+00:00
- - tags: None
 
 The State Department said Crown Prince Mohammed bin Salman, the kingdom’s de facto ruler, should have legal immunity as the head of the Saudi government.
 
@@ -116,7 +102,6 @@ The State Department said Crown Prince Mohammed bin Salman, the kingdom’s de f
  - [https://www.nytimes.com/2022/11/18/briefing/mh17-convictions-britain-austerity.html](https://www.nytimes.com/2022/11/18/briefing/mh17-convictions-britain-austerity.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-18 05:35:38+00:00
- - tags: None
 
 Three men have been found guilty of the downing of Malaysia Airlines Flight 17 and the murder of the 298 people onboard.
 
@@ -124,7 +109,6 @@ Three men have been found guilty of the downing of Malaysia Airlines Flight 17 a
  - [https://www.nytimes.com/2022/11/18/world/corrections-nov-18-2022.html](https://www.nytimes.com/2022/11/18/world/corrections-nov-18-2022.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-18 05:01:01+00:00
- - tags: None
 
 Corrections that appeared in print on Friday, Nov. 18, 2022.
 
@@ -132,6 +116,5 @@ Corrections that appeared in print on Friday, Nov. 18, 2022.
  - [https://www.nytimes.com/2022/11/17/world/asia/north-korea-missile.html](https://www.nytimes.com/2022/11/17/world/asia/north-korea-missile.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-18 02:30:17+00:00
- - tags: None
 
 If confirmed, it would be the North’s second test of an intercontinental ballistic missile this month.

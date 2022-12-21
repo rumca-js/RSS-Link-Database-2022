@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## Missed out on the Powerball? This puzzle might help, and it’s $20 today only.
  - [https://www.pcworld.com/article/1395066/missed-out-on-the-powerball-this-puzzle-might-help-and-its-20-today-only.html](https://www.pcworld.com/article/1395066/missed-out-on-the-powerball-this-puzzle-might-help-and-its-20-today-only.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-27 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>It&rsquo;s that time of year again. You were hoping to win the Powerball to show off big at Thanksgiving and rub your new riches in your cousin Darryl&rsquo;s face. Instead, you&rsquo;re out a few bucks, and Darryl got a promotion again. Well, life&rsquo;s not all about constantly&nbsp;<a href="https://www.pcworld.com/article/402867/should-you-wait-for-black-friday-to-upgrade-your-pc.html" rel="noreferrer noopener" target="_blank">upgrading</a>&nbsp;and winning money. But it sure can&rsquo;t hurt.</p>

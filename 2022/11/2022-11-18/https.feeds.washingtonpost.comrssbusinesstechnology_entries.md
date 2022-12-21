@@ -1,10 +1,9 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology
+# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
 
 ## Need gifts for a gamer this holiday season? We’ve got recommendations.
  - [https://www.washingtonpost.com/video-games/2022/11/18/best-video-game-gifts-holiday-2022/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/11/18/best-video-game-gifts-holiday-2022/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-18 16:31:36+00:00
- - tags: None
 
 Before you buy, read our video game gift recommendations — from books to makeup to monitors.
 
@@ -12,7 +11,6 @@ Before you buy, read our video game gift recommendations — from books to makeu
  - [https://www.washingtonpost.com/technology/2022/11/18/killer-racing-drone-weapons/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/18/killer-racing-drone-weapons/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-18 16:31:19+00:00
- - tags: None
 
 The Israeli-made Lanius is a tiny racing drone that can scout and kill enemies using artificial intelligence. It’s a nightmare scenario for weapons critics.
 
@@ -20,7 +18,6 @@ The Israeli-made Lanius is a tiny racing drone that can scout and kill enemies u
  - [https://www.washingtonpost.com/technology/2022/11/18/twitter-death-watch-chaos-resignations/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/18/twitter-death-watch-chaos-resignations/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-18 16:04:40+00:00
- - tags: None
 
 Elon Musk issued an email call-to-arms to Twitter's remaining engineers to assemble at 2 p.m. as the site tries to adjust to the resignations of hundreds of employees in response to an ultimatum Musk issued on Wednesday.
 
@@ -28,7 +25,6 @@ Elon Musk issued an email call-to-arms to Twitter's remaining engineers to assem
  - [https://www.washingtonpost.com/video-games/2022/11/18/pokemon-scarlet-violet-graphics-glitches-problems/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/11/18/pokemon-scarlet-violet-graphics-glitches-problems/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-18 13:57:24+00:00
- - tags: None
 
 "Scarlet" and "Violet" aren’t the first Pokémon games with technical issues. But the games’ historically bad graphics may have crossed a line.
 
@@ -36,7 +32,6 @@ Elon Musk issued an email call-to-arms to Twitter's remaining engineers to assem
  - [https://www.washingtonpost.com/video-games/2022/11/18/fishing-minigame-zelda-genre/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/11/18/fishing-minigame-zelda-genre/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-18 10:10:20+00:00
- - tags: None
 
 There has been virtual fishing nearly as long as there have been video games. We asked developers: Why?
 
@@ -44,7 +39,6 @@ There has been virtual fishing nearly as long as there have been video games. We
  - [https://www.washingtonpost.com/technology/2022/11/18/download-tweets-twitter-shut-down/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/18/download-tweets-twitter-shut-down/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-18 08:57:49+00:00
- - tags: None
 
 As hundreds of Twitter employees reportedly choose to leave Twitter following Musk's ultimatum, here's what you need to know about the platform's future.
 
@@ -52,7 +46,6 @@ As hundreds of Twitter employees reportedly choose to leave Twitter following Mu
  - [https://www.washingtonpost.com/technology/2022/11/18/musk-twitter-work-culture/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/18/musk-twitter-work-culture/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-18 07:00:22+00:00
- - tags: None
 
 Twitter’s billionaire leader Elon Musk is pushing a workplace culture focused on long hours and intense workdays — a familiar trope in Silicon Valley.
 
@@ -60,6 +53,5 @@ Twitter’s billionaire leader Elon Musk is pushing a workplace culture focused 
  - [https://www.washingtonpost.com/technology/2022/11/18/elizabeth-holmes-sentencing/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/18/elizabeth-holmes-sentencing/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-18 06:00:04+00:00
- - tags: None
 
 Former Theranos CEO Elizabeth Holmes faces sentencing from a federal judge Friday.

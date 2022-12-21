@@ -1,10 +1,9 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2
+# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
 
 ## What’s An Average Exoplanet? ESA’s Upcoming ARIEL Mission Should Provide Answers
  - [https://www.forbes.com/sites/brucedorminey/2022/11/24/whats-an-average-exoplanet-esas-upcoming-ariel-mission-should-provide-answers/](https://www.forbes.com/sites/brucedorminey/2022/11/24/whats-an-average-exoplanet-esas-upcoming-ariel-mission-should-provide-answers/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-24 22:23:52+00:00
- - tags: None
 
 ESA’s ARIEL mission will detect the chemical signatures of at least a thousand planetary atmospheres in hopes of providing theorists with a long sought ‘standard model’ of exoplanets.
 
@@ -12,7 +11,6 @@ ESA’s ARIEL mission will detect the chemical signatures of at least a thousand
  - [https://www.forbes.com/sites/krisholt/2022/11/24/overwatch-2s-thanksgiving-double-match-xp-weekend-is-now-live/](https://www.forbes.com/sites/krisholt/2022/11/24/overwatch-2s-thanksgiving-double-match-xp-weekend-is-now-live/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-24 21:55:24+00:00
- - tags: None
 
 It's a good chance to crank through some Battle Pass levels to get that sick Cyber Demon Genji Mythic skin.
 
@@ -20,7 +18,6 @@ It's a good chance to crank through some Battle Pass levels to get that sick Cyb
  - [https://www.forbes.com/sites/roberthart/2022/11/24/20000-died-amid-punishing-heatwaves-and-record-temperatures-across-western-europe-this-summer-data-indicates/](https://www.forbes.com/sites/roberthart/2022/11/24/20000-died-amid-punishing-heatwaves-and-record-temperatures-across-western-europe-this-summer-data-indicates/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-24 21:17:51+00:00
- - tags: None
 
 This summer was Europe’s hottest on record and experts warn climate change will continue to drive temperatures upwards.
 
@@ -28,7 +25,6 @@ This summer was Europe’s hottest on record and experts warn climate change wil
  - [https://www.forbes.com/sites/nicholasreimann/2022/11/24/elon-musk-says-hes-granting-amnesty-for-nearly-all-banned-twitter-accounts/](https://www.forbes.com/sites/nicholasreimann/2022/11/24/elon-musk-says-hes-granting-amnesty-for-nearly-all-banned-twitter-accounts/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-24 21:10:07+00:00
- - tags: None
 
 Just days after he reinstated former President Donald Trump, Musk said he would grant "amnesty" for suspended accounts that haven't broken the law or engaged in "egregious spam."
 
@@ -36,7 +32,6 @@ Just days after he reinstated former President Donald Trump, Musk said he would 
  - [https://www.forbes.com/sites/brucelee/2022/11/24/maskup-bringbackmasks-trend-as-covid-19-rsv-flu-cases-increase/](https://www.forbes.com/sites/brucelee/2022/11/24/maskup-bringbackmasks-trend-as-covid-19-rsv-flu-cases-increase/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-24 20:54:27+00:00
- - tags: None
 
 Health professionals, scientists, and others are asking why recommendations about Covid-19 and respiratory illness precautions have not been including face mask wearing.
 
@@ -44,7 +39,6 @@ Health professionals, scientists, and others are asking why recommendations abou
  - [https://www.forbes.com/sites/erikkain/2022/11/24/this-is-the-best-xbox-series-x-black-friday-deal-for-2022/](https://www.forbes.com/sites/erikkain/2022/11/24/this-is-the-best-xbox-series-x-black-friday-deal-for-2022/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-24 19:55:39+00:00
- - tags: None
 
 Get the Xbox Series X and Xbox All Access for $150 less than usual.
 
@@ -52,7 +46,6 @@ Get the Xbox Series X and Xbox All Access for $150 less than usual.
  - [https://www.forbes.com/sites/anuradhavaranasi/2022/11/24/can-adhd-medications-increase-the-risk-of-cardiovascular-disease/](https://www.forbes.com/sites/anuradhavaranasi/2022/11/24/can-adhd-medications-increase-the-risk-of-cardiovascular-disease/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-24 19:42:50+00:00
- - tags: None
 
 Despite the fact that there is sufficient evidence that proves ADHD medications can help in reducing the neurodevelopmental condition’s core symptoms, researchers have raised concerns about both stimulants and nonstimulant medications’ cardiovascular safety.
 
@@ -60,7 +53,6 @@ Despite the fact that there is sufficient evidence that proves ADHD medications 
  - [https://www.forbes.com/sites/mariannelehnis/2022/11/24/the-booming-european-climatetech-sector-brings-hope-to-a-continent-under-energy-seige/](https://www.forbes.com/sites/mariannelehnis/2022/11/24/the-booming-european-climatetech-sector-brings-hope-to-a-continent-under-energy-seige/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-24 19:41:46+00:00
- - tags: None
 
 The European climatetech opportunity remains a cheerful outlier in an otherwise gloomy economic outlook – in just two years, investment has doubled and the ecosystem has grown by leaps and bounds.
 
@@ -68,7 +60,6 @@ The European climatetech opportunity remains a cheerful outlier in an otherwise 
  - [https://www.forbes.com/sites/grrlscientist/2022/11/24/a-very-short-history-of-life-on-earth-by-henry-gee---review/](https://www.forbes.com/sites/grrlscientist/2022/11/24/a-very-short-history-of-life-on-earth-by-henry-gee---review/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-24 19:09:03+00:00
- - tags: None
 
 Humans and all other living beings that occupy the planet today are the products of 4.6 billion years of evolution on Earth
 
@@ -76,7 +67,6 @@ Humans and all other living beings that occupy the planet today are the products
  - [https://www.forbes.com/sites/christinero/2022/11/24/fair-and-sufficient--keywords-for-climate-friendly-fashion-consumption/](https://www.forbes.com/sites/christinero/2022/11/24/fair-and-sufficient--keywords-for-climate-friendly-fashion-consumption/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-24 16:32:34+00:00
- - tags: None
 
 The single best way for people in rich countries to reduce the climate impacts of fashion is to buy fewer new clothes.
 
@@ -84,7 +74,6 @@ The single best way for people in rich countries to reduce the climate impacts o
  - [https://www.forbes.com/sites/roberthart/2022/11/24/twitter-reportedly-leaves-brussels-europes-regulatory-hub-amid-concerns-about-musks-content-moderation-plans/](https://www.forbes.com/sites/roberthart/2022/11/24/twitter-reportedly-leaves-brussels-europes-regulatory-hub-amid-concerns-about-musks-content-moderation-plans/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-24 16:26:00+00:00
- - tags: None
 
 Reports, including comments from Twitter’s former safety lead, suggest hateful speech and conduct on the platform spiked after Musk took over.
 
@@ -92,7 +81,6 @@ Reports, including comments from Twitter’s former safety lead, suggest hateful
  - [https://www.forbes.com/sites/davidphelan/2022/11/24/apple-pencil-for-iphone-scrapped-at-11th-hour-leak-claims/](https://www.forbes.com/sites/davidphelan/2022/11/24/apple-pencil-for-iphone-scrapped-at-11th-hour-leak-claims/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-24 15:08:48+00:00
- - tags: None
 
 A new Apple Pencil was due to be announced in September, but was canceled at the last minute, according to a new rumor.
 
@@ -100,7 +88,6 @@ A new Apple Pencil was due to be announced in September, but was canceled at the
  - [https://www.forbes.com/sites/marshallshepherd/2022/11/24/why-winter-does-not-disprove-global-warming/](https://www.forbes.com/sites/marshallshepherd/2022/11/24/why-winter-does-not-disprove-global-warming/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-24 14:11:52+00:00
- - tags: None
 
 Even with the climate warming crisis, there will always be winter, snowstorms, and the Polar Vortex. Here's why.
 
@@ -108,7 +95,6 @@ Even with the climate warming crisis, there will always be winter, snowstorms, a
  - [https://www.forbes.com/sites/carltonreid/2022/11/24/riding-with-royalty-on-spectacular-c-suite-bicycling-break-to-ibiza/](https://www.forbes.com/sites/carltonreid/2022/11/24/riding-with-royalty-on-spectacular-c-suite-bicycling-break-to-ibiza/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-24 13:50:57+00:00
- - tags: None
 
 LeBlanq's "joyrides" are upscale cycling holidays paired with fine dining—and you get to rides with Tour de France legends and world champions.
 
@@ -116,7 +102,6 @@ LeBlanq's "joyrides" are upscale cycling holidays paired with fine dining—and 
  - [https://www.forbes.com/sites/paultassi/2022/11/24/the-ftc-may-move-to-block-microsofts-monster-activision-blizzard-acquisition/](https://www.forbes.com/sites/paultassi/2022/11/24/the-ftc-may-move-to-block-microsofts-monster-activision-blizzard-acquisition/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-24 13:33:38+00:00
- - tags: None
 
 Just as Microsoft has been doing battle with UK and EU regulators over its Activision Blizzard Acquisition for months, a new final boss may be about to enter the arena.
 
@@ -124,7 +109,6 @@ Just as Microsoft has been doing battle with UK and EU regulators over its Activ
  - [https://www.forbes.com/sites/paultassi/2022/11/24/warrior-nun-season-2-has-netflixs-highest-audience-scores-ever-as-fans-demand-season-3-renewal/](https://www.forbes.com/sites/paultassi/2022/11/24/warrior-nun-season-2-has-netflixs-highest-audience-scores-ever-as-fans-demand-season-3-renewal/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-24 13:14:57+00:00
- - tags: None
 
 Right now, Warrior Nun season 2 has a perfect 100% from critics, albeit that’s only six of them, but more impressively, a 99% audience score on Rotten Tomatoes based on 4,500 reviews at the time of this writing.
 
@@ -132,7 +116,6 @@ Right now, Warrior Nun season 2 has a perfect 100% from critics, albeit that’s
  - [https://www.forbes.com/sites/paultassi/2022/11/24/pokemon-scarlet-and-violets-10-million-copies-sold-in-three-days-breaks-every-nintendo-record/](https://www.forbes.com/sites/paultassi/2022/11/24/pokemon-scarlet-and-violets-10-million-copies-sold-in-three-days-breaks-every-nintendo-record/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-24 12:59:09+00:00
- - tags: None
 
 While Pokemon Scarlet and Violet are marred with technical problems and suffering from series-low critic and user review scores the games are…also absolute sales monsters, showing the series is stronger than it’s ever been before in terms of player interest.
 
@@ -140,7 +123,6 @@ While Pokemon Scarlet and Violet are marred with technical problems and sufferin
  - [https://www.forbes.com/sites/davidhambling/2022/11/24/iranian-protesters-claim-regime-is-using-nerve-agents-to-quell-riots/](https://www.forbes.com/sites/davidhambling/2022/11/24/iranian-protesters-claim-regime-is-using-nerve-agents-to-quell-riots/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-24 11:53:08+00:00
- - tags: None
 
 Some 40 people have been killed in protests in Iran the last week alone. Now protesters say the regime is using nerve agents against them — but what is the evidence? Chemical weapons expert Dan Kaszeta says there is none, and that the claims have negative consequences.
 
@@ -148,7 +130,6 @@ Some 40 people have been killed in protests in Iran the last week alone. Now pro
  - [https://www.forbes.com/sites/bobeccles/2022/11/24/a-thanksgiving-day-memo-to-florida-governor-ron-desantis/](https://www.forbes.com/sites/bobeccles/2022/11/24/a-thanksgiving-day-memo-to-florida-governor-ron-desantis/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-24 11:48:19+00:00
- - tags: None
 
 Florida Governor Ron DeSantis has recently enacted legislation to eliminate ESG in Florida's state pension funds. Yet the University of Florida Investment Corporation considers ESG factors to be important from an investment risk perspective. What should Mr. DeSantis do about this apostasy?
 
@@ -156,7 +137,6 @@ Florida Governor Ron DeSantis has recently enacted legislation to eliminate ESG 
  - [https://www.forbes.com/sites/barrycollins/2022/11/24/google-stadia-refund-blunder-gives-gamers-an-unexpected-windfall/](https://www.forbes.com/sites/barrycollins/2022/11/24/google-stadia-refund-blunder-gives-gamers-an-unexpected-windfall/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-24 10:00:43+00:00
- - tags: None
 
 Mistake sees lucky Google Stadia customers get hundreds of dollars' worth of unexpected refunds
 
@@ -164,7 +144,6 @@ Mistake sees lucky Google Stadia customers get hundreds of dollars' worth of une
  - [https://www.forbes.com/sites/chrissmith1/2022/11/24/3-reasons-early-stage-founders-should-ignore-the-doom-mongers/](https://www.forbes.com/sites/chrissmith1/2022/11/24/3-reasons-early-stage-founders-should-ignore-the-doom-mongers/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-24 09:22:26+00:00
- - tags: None
 
 It seems there is a competition playing out online to hand out the most pessimistic advice possible to founders. Such blatant doom-mongering might be good for views and likes, but it is nonsense.
 
@@ -172,7 +151,6 @@ It seems there is a competition playing out online to hand out the most pessimis
  - [https://www.forbes.com/sites/krisholt/2022/11/24/todays-heardle-answer-and-clues-for-thursday-november-24/](https://www.forbes.com/sites/krisholt/2022/11/24/todays-heardle-answer-and-clues-for-thursday-november-24/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-24 05:13:07+00:00
- - tags: None
 
 Here's today's 'Heardle' song, along with some hints.
 
@@ -180,7 +158,6 @@ Here's today's 'Heardle' song, along with some hints.
  - [https://www.forbes.com/sites/krisholt/2022/11/23/todays-quordle-answers-and-clues-for-thursday-november-24/](https://www.forbes.com/sites/krisholt/2022/11/23/todays-quordle-answers-and-clues-for-thursday-november-24/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-24 04:56:11+00:00
- - tags: None
 
 Some hints and the solution for today's 'Quordle' are just ahead.
 
@@ -188,7 +165,6 @@ Some hints and the solution for today's 'Quordle' are just ahead.
  - [https://www.forbes.com/sites/olliebarder/2022/11/23/pokmon-scarlet-and-violet-have-sold-more-than-10-million-copies-in-their-first-three-days/](https://www.forbes.com/sites/olliebarder/2022/11/23/pokmon-scarlet-and-violet-have-sold-more-than-10-million-copies-in-their-first-three-days/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-24 04:51:16+00:00
- - tags: None
 
 It seems that 'Pokémon Scarlet' and 'Violet' have sold incredibly well, amassing more than 10 million sales in their first three days and breaking records in the process.
 
@@ -196,7 +172,6 @@ It seems that 'Pokémon Scarlet' and 'Violet' have sold incredibly well, amassin
  - [https://www.forbes.com/sites/erikkain/2022/11/23/todays-wordle-523-hints-clues-and-answer-for-thursday-november-24th/](https://www.forbes.com/sites/erikkain/2022/11/23/todays-wordle-523-hints-clues-and-answer-for-thursday-november-24th/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-24 03:30:21+00:00
- - tags: None
 
 How to solve today's Wordle.
 
@@ -204,7 +179,6 @@ How to solve today's Wordle.
  - [https://www.forbes.com/sites/paulmonckton/2022/11/23/is-this-samsungs-next-generation--smartphone-camera-sensor/](https://www.forbes.com/sites/paulmonckton/2022/11/23/is-this-samsungs-next-generation--smartphone-camera-sensor/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-24 01:20:31+00:00
- - tags: None
 
 Samsung has registered a new trademark covering what appears to be a next-gen camera image sensor.
 
@@ -212,7 +186,6 @@ Samsung has registered a new trademark covering what appears to be a next-gen ca
  - [https://www.forbes.com/sites/krisholt/2022/11/23/microsofts-activision-blizzard-deal-likely-faces-a-lawsuit-from-the-feds-to-try-and-block-it/](https://www.forbes.com/sites/krisholt/2022/11/23/microsofts-activision-blizzard-deal-likely-faces-a-lawsuit-from-the-feds-to-try-and-block-it/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-24 01:09:05+00:00
- - tags: None
 
 The Federal Trade Commission is "likely" to try and block Microsoft's attempt to buy Activision Blizzard for $68.7 billion. But there's no guarantee yet that the agency will file an antitrust lawsuit.
 
@@ -220,6 +193,5 @@ The Federal Trade Commission is "likely" to try and block Microsoft's attempt to
  - [https://www.forbes.com/sites/jamiecartereurope/2022/11/23/what-are-those-two-bright-stars-suddenly-shining-in-the-east-after-dark/](https://www.forbes.com/sites/jamiecartereurope/2022/11/23/what-are-those-two-bright-stars-suddenly-shining-in-the-east-after-dark/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-24 01:00:00+00:00
- - tags: None
 
 As soon as the Sun goes down one really bright star is visible high in the eastern night sky. About an hour later another bright star begins to shine closer to the horizon. What’s going on?

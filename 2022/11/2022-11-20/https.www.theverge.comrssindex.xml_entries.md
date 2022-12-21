@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Tesla recalls over 321,000 vehicles due to taillight software issue
  - [https://www.theverge.com/2022/11/20/23469616/tesla-recalls-over-300000-vehicles-taillight-issue-airbags](https://www.theverge.com/2022/11/20/23469616/tesla-recalls-over-300000-vehicles-taillight-issue-airbags)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-20 22:14:59+00:00
- - tags: None
 
 <figure>
       <img alt="The Tesla logo on a red, black, and white background." src="https://cdn.vox-cdn.com/thumbor/GLxNyYAe2ZT7QbPZ4myZx5zS8U0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71654375/acastro_STK086_03.0.jpg" />
@@ -21,7 +20,6 @@
  - [https://www.theverge.com/2022/11/20/23469405/jason-david-frank-power-rangers-star-died-green-ranger](https://www.theverge.com/2022/11/20/23469405/jason-david-frank-power-rangers-star-died-green-ranger)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-20 19:13:03+00:00
- - tags: None
 
 <figure>
       <img alt="Saban’s Power Rangers At New York Comic Con 2017 - Day 1" src="https://cdn.vox-cdn.com/thumbor/bXARSDlSizj5YX-6i1AsTWS0irI=/0x74:3000x2074/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71653782/857975610.0.jpg" />
@@ -38,7 +36,6 @@
  - [https://www.theverge.com/2022/11/20/23469142/feds-arrest-russians-z-library-pirated-ebooks](https://www.theverge.com/2022/11/20/23469142/feds-arrest-russians-z-library-pirated-ebooks)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-20 18:09:25+00:00
- - tags: None
 
 <figure>
       <img alt="Photograph of a hand wearing red nail varnish holding a mouse with a projection overlay of stylized eyes" src="https://cdn.vox-cdn.com/thumbor/mnGoElrilwh-9X4to7yKBPjnemo=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71653612/akrales_220209_4977_0226.0.jpg" />
@@ -55,7 +52,6 @@
  - [https://www.theverge.com/23466074/pomodoro-timers-focus-productivity-app](https://www.theverge.com/23466074/pomodoro-timers-focus-productivity-app)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-20 15:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="close up of Focus To-Do on iPhone" src="https://cdn.vox-cdn.com/thumbor/a-AnG73HEGGfLGRBFU9Cxldo62I=/0x168:4030x2855/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71653007/IMG_4794.0.jpg" />
@@ -72,7 +68,6 @@
  - [https://www.theverge.com/22684354/elizabeth-holmes-trial-wire-fraud-theranos](https://www.theverge.com/22684354/elizabeth-holmes-trial-wire-fraud-theranos)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-20 02:21:36+00:00
- - tags: None
 
 <figure>
       <img alt="Fortune Global Forum - Day 1" src="https://cdn.vox-cdn.com/thumbor/jd7qe4CVeHAD45_aBIbsj-fSPVI=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/69884166/495430212.0.jpg" />
@@ -88,7 +83,6 @@
  - [https://www.theverge.com/2022/11/19/23467280/donald-trump-twitter-back-elon-musk-poll](https://www.theverge.com/2022/11/19/23467280/donald-trump-twitter-back-elon-musk-poll)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-20 01:14:44+00:00
- - tags: None
 
 <figure>
       <img alt="President Donald J. Trump..." src="https://cdn.vox-cdn.com/thumbor/Vkyxu2EBRLhJvPN6UKo1I4k6sGE=/0x0:5505x3670/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71651388/1223057458.0.jpg" />

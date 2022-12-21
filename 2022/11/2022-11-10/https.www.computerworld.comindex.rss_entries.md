@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Apple to spend $450M on SOS via satellite for iPhones
  - [https://www.computerworld.com/article/3679690/apple-to-spend-450m-on-sos-via-satellite-for-iphones.html#tk.rss_all](https://www.computerworld.com/article/3679690/apple-to-spend-450m-on-sos-via-satellite-for-iphones.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-10 18:04:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -15,7 +14,6 @@
  - [https://www.computerworld.com/article/3679692/in-the-shadow-of-the-twitter-disaster-how-to-prep-for-layoffs.html#tk.rss_all](https://www.computerworld.com/article/3679692/in-the-shadow-of-the-twitter-disaster-how-to-prep-for-layoffs.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-10 16:28:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -26,7 +24,6 @@
  - [https://www.computerworld.com/article/3678773/gmail-android-app-add-ons.html#tk.rss_all](https://www.computerworld.com/article/3678773/gmail-android-app-add-ons.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-10 11:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -36,7 +33,6 @@
  - [https://www.computerworld.com/article/3679508/corporate-execs-confident-on-sustainability-goals-admit-more-work-needed.html#tk.rss_all](https://www.computerworld.com/article/3679508/corporate-execs-confident-on-sustainability-goals-admit-more-work-needed.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-10 11:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

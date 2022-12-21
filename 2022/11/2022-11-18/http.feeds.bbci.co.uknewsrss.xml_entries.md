@@ -1,10 +1,9 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml
+# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
 
 ## The Papers: 'They think it's all sober' and PM's fears for women
  - [https://www.bbc.co.uk/news/blogs-the-papers-63685096?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-63685096?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 23:46:49+00:00
- - tags: None
 
 Saturday's front pages cover the last-minute decision to stop alcohol being sold at World Cup stadiums.
 
@@ -12,7 +11,6 @@ Saturday's front pages cover the last-minute decision to stop alcohol being sold
  - [https://www.bbc.co.uk/sport/rugby-league/63685401?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-league/63685401?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 23:39:20+00:00
- - tags: None
 
 England captain Tom Halliwell believes their thrilling Wheelchair Rugby League World Cup triumph can start something special for the sport.
 
@@ -20,7 +18,6 @@ England captain Tom Halliwell believes their thrilling Wheelchair Rugby League W
  - [https://www.bbc.co.uk/sport/rugby-union/63680269?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63680269?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 23:23:38+00:00
- - tags: None
 
 Neither England nor New Zealand are at the peak of their powers, but Saturday's meeting, only their third in seven years, is as irresistible as always.
 
@@ -28,7 +25,6 @@ Neither England nor New Zealand are at the peak of their powers, but Saturday's 
  - [https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-63678138?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-63678138?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 23:02:23+00:00
- - tags: None
 
 Two workers left the note inside a whisky bottle after laying the floor in an Edinburgh house.
 
@@ -36,7 +32,6 @@ Two workers left the note inside a whisky bottle after laying the floor in an Ed
  - [https://www.bbc.co.uk/sport/av/rugby-league/63684366?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/rugby-league/63684366?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 22:57:57+00:00
- - tags: None
 
 Watch highlights as England captain Tom Halliwell scores a late try to lead his side to a famous Wheelchair Rugby League World Cup final victory over France.
 
@@ -44,7 +39,6 @@ Watch highlights as England captain Tom Halliwell scores a late try to lead his 
  - [https://www.bbc.co.uk/news/uk-wales-63667078?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-63667078?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 22:55:49+00:00
- - tags: None
 
 The team were concerned about finding charging points, but a little-known law was to be their undoing.
 
@@ -52,7 +46,6 @@ The team were concerned about finding charging points, but a little-known law wa
  - [https://www.bbc.co.uk/news/uk-wales-63650602?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-63650602?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 22:53:26+00:00
- - tags: None
 
 Customers are returning to the convenience of supermarkets after Covid, a refill shop owner says.
 
@@ -60,7 +53,6 @@ Customers are returning to the convenience of supermarkets after Covid, a refill
  - [https://www.bbc.co.uk/news/world-us-canada-63685131?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63685131?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 22:40:05+00:00
- - tags: None
 
 A tearful Holmes, 38, tells the court she felt "deep pain" for those who were misled by the start-up.
 
@@ -68,7 +60,6 @@ A tearful Holmes, 38, tells the court she felt "deep pain" for those who were mi
  - [https://www.bbc.co.uk/news/uk-politics-63683639?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63683639?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 22:30:34+00:00
- - tags: None
 
 James Cleverly will reaffirm the UK's commitment to stopping Iran from producing nuclear weapons.
 
@@ -76,7 +67,6 @@ James Cleverly will reaffirm the UK's commitment to stopping Iran from producing
  - [https://www.bbc.co.uk/news/uk-politics-63676396?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63676396?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 22:30:12+00:00
- - tags: None
 
 The PM says the case of Olivia Pratt-Korbel "brought home" to him the importance of street safety.
 
@@ -84,7 +74,6 @@ The PM says the case of Olivia Pratt-Korbel "brought home" to him the importance
  - [https://www.bbc.co.uk/news/world-europe-63676446?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63676446?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 22:09:57+00:00
- - tags: None
 
 Video has emerged that Russia says shows the killing of their surrendering troops in eastern Ukraine.
 
@@ -92,7 +81,6 @@ Video has emerged that Russia says shows the killing of their surrendering troop
  - [https://www.bbc.co.uk/sport/rugby-league/63684590?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-league/63684590?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 21:44:57+00:00
- - tags: None
 
 Captain Tom Halliwell scores a late try to secure Wheelchair Rugby League World Cup success for England.
 
@@ -100,7 +88,6 @@ Captain Tom Halliwell scores a late try to secure Wheelchair Rugby League World 
  - [https://www.bbc.co.uk/sport/av/rugby-league/63684364?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/rugby-league/63684364?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 21:42:34+00:00
- - tags: None
 
 Watch the moment skipper Tom Halliwell scores England's winning try against France in the Wheelchair Rugby League Cup final against France in Manchester.
 
@@ -108,7 +95,6 @@ Watch the moment skipper Tom Halliwell scores England's winning try against Fran
  - [https://www.bbc.co.uk/news/world-us-canada-63684546?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63684546?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 21:38:18+00:00
- - tags: None
 
 The special counsel will ultimately decide whether to file criminal charges against the former president.
 
@@ -116,7 +102,6 @@ The special counsel will ultimately decide whether to file criminal charges agai
  - [https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-63664614?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-63664614?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 21:26:24+00:00
- - tags: None
 
 Sepa says there will be a residual impact of Friday's weather as river levels peak on Saturday.
 
@@ -124,7 +109,6 @@ Sepa says there will be a residual impact of Friday's weather as river levels pe
  - [https://www.bbc.co.uk/news/entertainment-arts-63675140?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63675140?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 21:02:04+00:00
- - tags: None
 
 The 18-year-old Coronation Street actress will play Ruby Sunday in the long-running sci-fi drama.
 
@@ -132,7 +116,6 @@ The 18-year-old Coronation Street actress will play Ruby Sunday in the long-runn
  - [https://www.bbc.co.uk/sport/football/63680680?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63680680?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 20:33:38+00:00
- - tags: None
 
 Gary Lineker says he is in Qatar to "report, not support" the World Cup and will discuss the issues surrounding the "tainted" tournament on air.
 
@@ -140,7 +123,6 @@ Gary Lineker says he is in Qatar to "report, not support" the World Cup and will
  - [https://www.bbc.co.uk/news/entertainment-arts-63679936?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63679936?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 19:42:55+00:00
- - tags: None
 
 The US pop star says she had been told Ticketmaster could handle demand, despite the chaos this week.
 
@@ -148,7 +130,6 @@ The US pop star says she had been told Ticketmaster could handle demand, despite
  - [https://www.bbc.co.uk/news/world-europe-63681401?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63681401?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 18:57:56+00:00
- - tags: None
 
 As temperatures drop below freezing, Russian missiles have crippled parts of the country's energy system.
 
@@ -156,7 +137,6 @@ As temperatures drop below freezing, Russian missiles have crippled parts of the
  - [https://www.bbc.co.uk/news/entertainment-arts-63682298?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63682298?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 18:26:16+00:00
- - tags: None
 
 The graffiti artist called on shoplifters to visit a London branch of Guess in retaliation.
 
@@ -164,7 +144,6 @@ The graffiti artist called on shoplifters to visit a London branch of Guess in r
  - [https://www.bbc.co.uk/news/uk-england-berkshire-63683667?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-berkshire-63683667?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 18:20:56+00:00
- - tags: None
 
 Pupils were "sanctioned" for the "totally unacceptable" behaviour, Eton College says.
 
@@ -172,7 +151,6 @@ Pupils were "sanctioned" for the "totally unacceptable" behaviour, Eton College 
  - [https://www.bbc.co.uk/news/business-63682695?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63682695?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 17:55:26+00:00
- - tags: None
 
 Public sector workers including passport controllers are to strike over the Christmas period.
 
@@ -180,7 +158,6 @@ Public sector workers including passport controllers are to strike over the Chri
  - [https://www.bbc.co.uk/news/business-63681941?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63681941?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 17:39:14+00:00
- - tags: None
 
 Labour says it will use the same analysis of the public finances as the Conservatives to set future policy.
 
@@ -188,7 +165,6 @@ Labour says it will use the same analysis of the public finances as the Conserva
  - [https://www.bbc.co.uk/news/world-asia-63681399?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-63681399?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 17:15:18+00:00
- - tags: None
 
 Yuriko Koike says wearing turtleneck jumpers this winter will help reduce energy consumption.
 
@@ -196,7 +172,6 @@ Yuriko Koike says wearing turtleneck jumpers this winter will help reduce energy
  - [https://www.bbc.co.uk/news/world-middle-east-63681472?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-middle-east-63681472?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 16:33:25+00:00
- - tags: None
 
 Social media images show crowds cheering as fire engulfs the Islamic Republic founder's ancestral home.
 
@@ -204,7 +179,6 @@ Social media images show crowds cheering as fire engulfs the Islamic Republic fo
  - [https://www.bbc.co.uk/sport/formula1/63681370?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/formula1/63681370?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 16:28:49+00:00
- - tags: None
 
 Formula 1's governing body the FIA is prepared to investigate whether Sergio Perez deliberately crashed in Monaco Grand Prix qualifying.
 
@@ -212,7 +186,6 @@ Formula 1's governing body the FIA is prepared to investigate whether Sergio Per
  - [https://www.bbc.co.uk/sport/cricket/63674345?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/63674345?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 16:01:59+00:00
- - tags: None
 
 Former England men's seamer Jon Lewis has been named as the new England women's head coach.
 
@@ -220,7 +193,6 @@ Former England men's seamer Jon Lewis has been named as the new England women's 
  - [https://www.bbc.co.uk/sport/snooker/63681208?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/snooker/63681208?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 15:33:46+00:00
- - tags: None
 
 Seven-time champion Ronnie O'Sullivan is out of the UK Championship after suffering a shock quarter-final defeat to Ding Junhui.
 
@@ -228,7 +200,6 @@ Seven-time champion Ronnie O'Sullivan is out of the UK Championship after suffer
  - [https://www.bbc.co.uk/news/uk-england-birmingham-63680822?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-birmingham-63680822?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 15:17:02+00:00
- - tags: None
 
 Raneem Oudeh and her mother Khowla Saleem were both stabbed to death in Solihull in August 2018.
 
@@ -236,7 +207,6 @@ Raneem Oudeh and her mother Khowla Saleem were both stabbed to death in Solihull
  - [https://www.bbc.co.uk/news/uk-63673838?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63673838?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 15:11:28+00:00
- - tags: None
 
 Local authorities warn a council tax rise would be hard on households and not plug a funding gap.
 
@@ -244,7 +214,6 @@ Local authorities warn a council tax rise would be hard on households and not pl
  - [https://www.bbc.co.uk/news/business-63675830?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63675830?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 15:01:29+00:00
- - tags: None
 
 The supermarket apologises after being accused of glorifying sun tans in a Christmas advert.
 
@@ -252,7 +221,6 @@ The supermarket apologises after being accused of glorifying sun tans in a Chris
  - [https://www.bbc.co.uk/news/uk-england-london-63599799?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-london-63599799?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 14:39:06+00:00
- - tags: None
 
 Jordan McSweeney has pleaded guilty at the Old Bailey to murder and sexual assault.
 
@@ -260,7 +228,6 @@ Jordan McSweeney has pleaded guilty at the Old Bailey to murder and sexual assau
  - [https://www.bbc.co.uk/news/uk-63679685?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63679685?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 14:34:35+00:00
- - tags: None
 
 A judge says Suella Braverman was unable to say the source of a story was not from within government.
 
@@ -268,7 +235,6 @@ A judge says Suella Braverman was unable to say the source of a story was not fr
  - [https://www.bbc.co.uk/sport/formula1/63677188?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/formula1/63677188?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 14:15:48+00:00
- - tags: None
 
 Red Bull's Max Verstappen enjoys a comfortable advantage over Mercedes' George Russell in Friday practice at the Abu Dhabi Grand Prix.
 
@@ -276,7 +242,6 @@ Red Bull's Max Verstappen enjoys a comfortable advantage over Mercedes' George R
  - [https://www.bbc.co.uk/news/business-52188448?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-52188448?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 13:47:55+00:00
- - tags: None
 
 Why are UK pump prices at record highs, and when might they fall?
 
@@ -284,7 +249,6 @@ Why are UK pump prices at record highs, and when might they fall?
  - [https://www.bbc.co.uk/sport/football/63674291?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63674291?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 13:43:48+00:00
- - tags: None
 
 England goalkeeper Aaron Ramsdale says there have been "pinch yourself moments" in his career recently.
 
@@ -292,7 +256,6 @@ England goalkeeper Aaron Ramsdale says there have been "pinch yourself moments" 
  - [https://www.bbc.co.uk/news/science-environment-63677463?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/science-environment-63677463?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 13:34:13+00:00
- - tags: None
 
 Nations worked late into the night to find agreement on who pays the climate bill.
 
@@ -300,7 +263,6 @@ Nations worked late into the night to find agreement on who pays the climate bil
  - [https://www.bbc.co.uk/sport/football/63679055?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63679055?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 13:32:33+00:00
- - tags: None
 
 Liverpool chairman Tom Werner confirms the club's owners, Fenway Sports Group, are "exploring a sale" of the Reds.
 
@@ -308,7 +270,6 @@ Liverpool chairman Tom Werner confirms the club's owners, Fenway Sports Group, a
  - [https://www.bbc.co.uk/news/uk-63676759?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63676759?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 13:31:52+00:00
- - tags: None
 
 Buckingham Palace tells animal rights group that foie gras is staying off the royal menu.
 
@@ -316,7 +277,6 @@ Buckingham Palace tells animal rights group that foie gras is staying off the ro
  - [https://www.bbc.co.uk/sport/football/63676841?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63676841?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 13:13:30+00:00
- - tags: None
 
 Wayne Hennessey says the role of Wales' first-choice goalkeeper is "up for grabs" before Monday's World Cup opener against the United States.
 
@@ -324,7 +284,6 @@ Wayne Hennessey says the role of Wales' first-choice goalkeeper is "up for grabs
  - [https://www.bbc.co.uk/news/technology-63675849?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63675849?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 12:52:06+00:00
- - tags: None
 
 The BBC's technology editor looks at claims that Twitter may be heading for calamity.
 
@@ -332,7 +291,6 @@ The BBC's technology editor looks at claims that Twitter may be heading for cala
  - [https://www.bbc.co.uk/news/world-63636181?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-63636181?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 12:49:40+00:00
- - tags: None
 
 As Sweden says the gas lines were blown up deliberately, our Europe editor reports from the scene.
 
@@ -340,7 +298,6 @@ As Sweden says the gas lines were blown up deliberately, our Europe editor repor
  - [https://www.bbc.co.uk/news/entertainment-arts-63676831?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63676831?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 12:19:04+00:00
- - tags: None
 
 The musician had been signed to Motown Records and worked with artists including 2Chainz and Future.
 
@@ -348,7 +305,6 @@ The musician had been signed to Motown Records and worked with artists including
  - [https://www.bbc.co.uk/news/uk-politics-63676931?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63676931?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 12:09:53+00:00
- - tags: None
 
 Jeremy Hunt draws economic dividing lines with Labour but there is plenty they agree on too.
 
@@ -356,7 +312,6 @@ Jeremy Hunt draws economic dividing lines with Labour but there is plenty they a
  - [https://www.bbc.co.uk/sport/formula1/63675446?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/formula1/63675446?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 12:02:00+00:00
- - tags: None
 
 Formula 1 launches an all-female championship aimed at helping women drivers progress through the motorsport ranks.
 
@@ -364,7 +319,6 @@ Formula 1 launches an all-female championship aimed at helping women drivers pro
  - [https://www.bbc.co.uk/news/business-63676119?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63676119?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 11:51:54+00:00
- - tags: None
 
 A drop of 9% is expected between now and autumn 2024, an official forecaster suggests.
 
@@ -372,7 +326,6 @@ A drop of 9% is expected between now and autumn 2024, an official forecaster sug
  - [https://www.bbc.co.uk/sport/football/63674631?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63674631?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 11:43:31+00:00
- - tags: None
 
 Alcohol will not be sold at the World Cup's eight stadiums in Qatar after Fifa changes its policy two days before the start of the tournament.
 
@@ -380,7 +333,6 @@ Alcohol will not be sold at the World Cup's eight stadiums in Qatar after Fifa c
  - [https://www.bbc.co.uk/news/business-63675313?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63675313?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 11:39:34+00:00
- - tags: None
 
 The Institute for Fiscal Studies warns households are in for a "long, hard, unpleasant journey".
 
@@ -388,7 +340,6 @@ The Institute for Fiscal Studies warns households are in for a "long, hard, unpl
  - [https://www.bbc.co.uk/news/world-europe-63675119?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63675119?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 11:33:12+00:00
- - tags: None
 
 Notorious arms dealer Viktor Bout could be exchanged for US basketball player Brittney Griner.
 
@@ -396,7 +347,6 @@ Notorious arms dealer Viktor Bout could be exchanged for US basketball player Br
  - [https://www.bbc.co.uk/sport/football/63676465?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63676465?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 11:31:08+00:00
- - tags: None
 
 Manchester United say they are taking "appropriate steps" after Cristiano Ronaldo's interview in which he says he was "betrayed by the club".
 
@@ -404,7 +354,6 @@ Manchester United say they are taking "appropriate steps" after Cristiano Ronald
  - [https://www.bbc.co.uk/news/entertainment-arts-63674240?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63674240?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 11:28:28+00:00
- - tags: None
 
 Both men say they have had encounters where people assume they are 'the other' Brian Cox
 
@@ -412,7 +361,6 @@ Both men say they have had encounters where people assume they are 'the other' B
  - [https://www.bbc.co.uk/news/uk-northern-ireland-63674957?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-northern-ireland-63674957?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 11:20:37+00:00
- - tags: None
 
 No injuries have been reported but there is a major security alert under way in Strabane.
 
@@ -420,7 +368,6 @@ No injuries have been reported but there is a major security alert under way in 
  - [https://www.bbc.co.uk/sport/formula1/63675449?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/formula1/63675449?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 11:09:57+00:00
- - tags: None
 
 Lewis Hamilton leads team-mate George Russell to a Mercedes one-two in first practice at the Abu Dhabi Grand Prix.
 
@@ -428,7 +375,6 @@ Lewis Hamilton leads team-mate George Russell to a Mercedes one-two in first pra
  - [https://www.bbc.co.uk/news/uk-england-london-63667198?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-london-63667198?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 11:00:42+00:00
- - tags: None
 
 A development company plans to erect a giant screen to show news, travel and advertisements.
 
@@ -436,7 +382,6 @@ A development company plans to erect a giant screen to show news, travel and adv
  - [https://www.bbc.co.uk/sport/cricket/63673888?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/63673888?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 10:00:03+00:00
- - tags: None
 
 The Hundred will return for its third season with the first women's player draft in a major UK sport.
 
@@ -444,7 +389,6 @@ The Hundred will return for its third season with the first women's player draft
  - [https://www.bbc.co.uk/news/uk-politics-63674045?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63674045?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 09:39:12+00:00
- - tags: None
 
 Jeremy Hunt says his plan is "balanced", after think tank says it piles more pressure on "squeezed middle".
 
@@ -452,7 +396,6 @@ Jeremy Hunt says his plan is "balanced", after think tank says it piles more pre
  - [https://www.bbc.co.uk/news/uk-63670355?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63670355?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 09:37:05+00:00
- - tags: None
 
 From a cake maker to a folk musician, here's what people in Gloucester think about the Autumn Statement.
 
@@ -460,7 +403,6 @@ From a cake maker to a folk musician, here's what people in Gloucester think abo
  - [https://www.bbc.co.uk/news/newsbeat-63663845?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/newsbeat-63663845?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 09:05:45+00:00
- - tags: None
 
 BBC Newsbeat hears from an LGBT football fan, who has fled from a neighbouring Middle Eastern country.
 
@@ -468,7 +410,6 @@ BBC Newsbeat hears from an LGBT football fan, who has fled from a neighbouring M
  - [https://www.bbc.co.uk/news/newsbeat-63657401?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/newsbeat-63657401?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 07:45:49+00:00
- - tags: None
 
 Nija Charles is one of the first people ever to be nominated in a new Grammy songwriting category.
 
@@ -476,7 +417,6 @@ Nija Charles is one of the first people ever to be nominated in a new Grammy son
  - [https://www.bbc.co.uk/sport/africa/63519142?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/africa/63519142?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 07:45:38+00:00
- - tags: None
 
 Rwanda's Salima Mukansanga hopes being selected for the men's World Cup will help other female officials.
 
@@ -484,7 +424,6 @@ Rwanda's Salima Mukansanga hopes being selected for the men's World Cup will hel
  - [https://www.bbc.co.uk/news/business-63666760?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63666760?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 07:24:43+00:00
- - tags: None
 
 Sales rebounded in October after the previous month was affected by stores closing for the Queen's funeral.
 
@@ -492,7 +431,6 @@ Sales rebounded in October after the previous month was affected by stores closi
  - [https://www.bbc.co.uk/sport/football/63118686?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63118686?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 07:08:49+00:00
- - tags: None
 
 The World Cup in Qatar starts on Sunday in what promises to be a unique tournament. So what makes it so different?
 
@@ -500,7 +438,6 @@ The World Cup in Qatar starts on Sunday in what promises to be a unique tourname
  - [https://www.bbc.co.uk/sport/football/63596170?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63596170?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 06:55:58+00:00
- - tags: None
 
 England played Scotland in their first women's international 50 years ago, and a new podcast shares the stories from players in the match and key figures who made it possible.
 
@@ -508,7 +445,6 @@ England played Scotland in their first women's international 50 years ago, and a
  - [https://www.bbc.co.uk/news/world-asia-63672501?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-63672501?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 06:40:53+00:00
- - tags: None
 
 Scientists say capturing footage of the black-naped pheasant-pigeon was "a moment you dream about".
 
@@ -516,7 +452,6 @@ Scientists say capturing footage of the black-naped pheasant-pigeon was "a momen
  - [https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-63649774?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-63649774?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 06:32:57+00:00
- - tags: None
 
 Frankie Corio, 12, stars alongside Normal People star Paul Mescal in the new big screen release.
 
@@ -524,7 +459,6 @@ Frankie Corio, 12, stars alongside Normal People star Paul Mescal in the new big
  - [https://www.bbc.co.uk/news/uk-england-cambridgeshire-63659893?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-cambridgeshire-63659893?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 06:13:08+00:00
- - tags: None
 
 Nicoleta Tuna, who was put in a coma after a C-section, is looking forward to her "second life".
 
@@ -532,7 +466,6 @@ Nicoleta Tuna, who was put in a coma after a C-section, is looking forward to he
  - [https://www.bbc.co.uk/news/world-us-canada-63671947?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63671947?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 06:12:40+00:00
- - tags: None
 
 US officials said Mohammed bin Salman has immunity for a lawsuit due to his role as prime minister.
 
@@ -540,7 +473,6 @@ US officials said Mohammed bin Salman has immunity for a lawsuit due to his role
  - [https://www.bbc.co.uk/sport/football/63607882?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63607882?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 06:06:07+00:00
- - tags: None
 
 Who will win, who might spring a surprise and how will England and Wales do? BBC pundits predict what will happen at the 2022 World Cup.
 
@@ -548,7 +480,6 @@ Who will win, who might spring a surprise and how will England and Wales do? BBC
  - [https://www.bbc.co.uk/sport/av/football/63641870?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63641870?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 06:03:19+00:00
- - tags: None
 
 Before the 2022 World Cup kicks off in Qatar on Sunday, BBC Sport looks back at 10 goals that tell the story of the 2014 tournament.
 
@@ -556,7 +487,6 @@ Before the 2022 World Cup kicks off in Qatar on Sunday, BBC Sport looks back at 
  - [https://www.bbc.co.uk/sport/football/63506860?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63506860?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 04:53:55+00:00
- - tags: None
 
 From 11 in Georgia to thousands in Qatar, Wales football fan culture has grown from "minority pursuit" to source of national pride.
 
@@ -564,7 +494,6 @@ From 11 in Georgia to thousands in Qatar, Wales football fan culture has grown f
  - [https://www.bbc.co.uk/news/world-australia-63672500?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-australia-63672500?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 04:08:47+00:00
- - tags: None
 
 Mathematician Scott Johnson's body was found a the base of cliffs in Sydney in 1988.
 
@@ -572,7 +501,6 @@ Mathematician Scott Johnson's body was found a the base of cliffs in Sydney in 1
  - [https://www.bbc.co.uk/news/world-asia-63672399?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-63672399?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 03:17:44+00:00
- - tags: None
 
 It follows Thursday's warning of a "fiercer" response to US plans to strengthen its regional presence.
 
@@ -580,7 +508,6 @@ It follows Thursday's warning of a "fiercer" response to US plans to strengthen 
  - [https://www.bbc.co.uk/news/business-63672307?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63672307?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 02:38:55+00:00
- - tags: None
 
 It comes amid reports that large numbers of staff have resigned from the social media platform.
 
@@ -588,7 +515,6 @@ It comes amid reports that large numbers of staff have resigned from the social 
  - [https://www.bbc.co.uk/news/science-environment-63666086?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/science-environment-63666086?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 01:38:01+00:00
- - tags: None
 
 Clashes over cash for poor countries are dominating as talks at COP27 in Egypt go down to the wire.
 
@@ -596,7 +522,6 @@ Clashes over cash for poor countries are dominating as talks at COP27 in Egypt g
  - [https://www.bbc.co.uk/news/uk-england-derbyshire-63640192?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-derbyshire-63640192?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 01:20:09+00:00
- - tags: None
 
 Rasoul says his young family was forced at gunpoint on to an overcrowded boat across the Channel.
 
@@ -604,7 +529,6 @@ Rasoul says his young family was forced at gunpoint on to an overcrowded boat ac
  - [https://www.bbc.co.uk/news/uk-england-london-63546138?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-london-63546138?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 01:19:19+00:00
- - tags: None
 
 More than two million people say they have symptoms of long Covid. How are they being treated?
 
@@ -612,7 +536,6 @@ More than two million people say they have symptoms of long Covid. How are they 
  - [https://www.bbc.co.uk/news/world-europe-63671942?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63671942?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 01:17:37+00:00
- - tags: None
 
 The Kremlin critic is accused of being an "egregious offender" and moved ahead of a family visit.
 
@@ -620,7 +543,6 @@ The Kremlin critic is accused of being an "egregious offender" and moved ahead o
  - [https://www.bbc.co.uk/news/uk-63655678?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63655678?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 01:17:19+00:00
- - tags: None
 
 The Autumn Statement was a mixed bag for people in Southend-on-Sea, where many are living on the brink.
 
@@ -628,7 +550,6 @@ The Autumn Statement was a mixed bag for people in Southend-on-Sea, where many a
  - [https://www.bbc.co.uk/news/uk-63655110?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63655110?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 01:16:03+00:00
- - tags: None
 
 Use this form to send us your questions about food, budgeting and cooking.
 
@@ -636,7 +557,6 @@ Use this form to send us your questions about food, budgeting and cooking.
  - [https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-63602451?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-63602451?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 01:14:56+00:00
- - tags: None
 
 Patients with kidney disease are struggling to keep warm and pay for their dialysis, a charity says.
 
@@ -644,7 +564,6 @@ Patients with kidney disease are struggling to keep warm and pay for their dialy
  - [https://www.bbc.co.uk/news/entertainment-arts-63662940?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63662940?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 00:44:06+00:00
- - tags: None
 
 Jason Manford, Mel Giedroyc, Alex Scott, Ade Adepitan and Chris Ramsey will host the charity show.
 
@@ -652,7 +571,6 @@ Jason Manford, Mel Giedroyc, Alex Scott, Ade Adepitan and Chris Ramsey will host
  - [https://www.bbc.co.uk/news/blogs-the-papers-63671575?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-63671575?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 00:41:46+00:00
- - tags: None
 
 Friday's front pages react to Chancellor Jeremy Hunt's Autumn Statement, as forecasters predict the biggest drop in living standards.
 
@@ -660,7 +578,6 @@ Friday's front pages react to Chancellor Jeremy Hunt's Autumn Statement, as fore
  - [https://www.bbc.co.uk/news/health-63663338?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/health-63663338?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 00:14:04+00:00
- - tags: None
 
 It is the first drug to be approved that delays the onset of the condition.
 
@@ -668,7 +585,6 @@ It is the first drug to be approved that delays the onset of the condition.
  - [https://www.bbc.co.uk/news/world-middle-east-63386636?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-middle-east-63386636?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 00:12:46+00:00
- - tags: None
 
 Young men in Lebanon are joining the Islamic State group in a desperate bid to escape poverty.
 
@@ -676,7 +592,6 @@ Young men in Lebanon are joining the Islamic State group in a desperate bid to e
  - [https://www.bbc.co.uk/news/world-europe-63627345?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63627345?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 00:08:38+00:00
- - tags: None
 
 Artur and Denys bring dignity to victims of the war - both friend and foe.
 
@@ -684,7 +599,6 @@ Artur and Denys bring dignity to victims of the war - both friend and foe.
  - [https://www.bbc.co.uk/news/world-asia-china-63637903?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-63637903?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 00:06:00+00:00
- - tags: None
 
 The wife of a Chinese lawyer detained as a dissident describes her heart-rending decision to flee to the US.
 
@@ -692,7 +606,6 @@ The wife of a Chinese lawyer detained as a dissident describes her heart-rending
  - [https://www.bbc.co.uk/news/business-63671302?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63671302?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 00:02:49+00:00
- - tags: None
 
 Extending the tax to include electric models is "short-sighted" says Ford.
 
@@ -700,6 +613,5 @@ Extending the tax to include electric models is "short-sighted" says Ford.
  - [https://www.bbc.co.uk/news/business-63461678?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63461678?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-18 00:00:25+00:00
- - tags: None
 
 Messaging apps have become a popular way to reach people who are struggling with the cost of food.

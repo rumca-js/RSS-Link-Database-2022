@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## Check out Zelda: Breath of the Wild in 8K ray-traced glory on an RTX 4090
  - [https://www.pcworld.com/article/1366827/zelda-breath-of-the-wild-in-8k-ray-tracing-rtx-4090.html](https://www.pcworld.com/article/1366827/zelda-breath-of-the-wild-in-8k-ray-tracing-rtx-4090.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-02 17:57:12+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Despite being a 5-year-old title that was launched on what was basically smartphone hardware, <em>The Legend of Zelda: Breath of the Wild </em>is still one of the most visually appealing games ever made. The environmental design, mildly cell-shaded characters, and charming animations are a lesson in why good art direction can beat raw graphical power any day. But if you can have both, why not do so? One of the latest videos from a <em>Zelda </em>emulation fan shows the game running at an incredible 8K resolution with ray tracing modded in, courtesy of <a href="https://www.pcworld.com/article/1348123/nvidia-geforce-rtx-4090-review-ada-lovelace.html">Nvidia&rsquo;s ferocious new GeForce RTX 4090</a>. </p>
@@ -68,7 +67,6 @@ Video Games</div>
  - [https://www.pcworld.com/article/1368914/asrock-wants-to-stick-a-whole-lcd-monitor-in-your-pc-case.html](https://www.pcworld.com/article/1368914/asrock-wants-to-stick-a-whole-lcd-monitor-in-your-pc-case.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-02 14:35:16+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Transparent plastic and tempered glass have been the standard for PC cases for over a decade now. So if you&rsquo;re going to be constantly looking at your PC&rsquo;s guts, why not just end the pretense and stick a whole-ass monitor in there? That&rsquo;s the idea behind the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.asrock.com/mb/spec/product.asp?Model=13.3%E2%80%9D%20Side%20Panel%20Kit#Overview&amp;xcust=2-1-1368914-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Side Panel Kit</a>, a full 13.3-inch, 1080p monitor that sits behind the transparent panel of your PC case and connects directly to your motherboard. The screen acts as a standard monitor in Windows, displaying whatever you want. </p>
@@ -97,7 +95,6 @@ Monitors</div>
  - [https://www.pcworld.com/article/1368919/this-gateway-laptop-is-colorful-fast-and-just-250.html](https://www.pcworld.com/article/1368919/this-gateway-laptop-is-colorful-fast-and-just-250.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-02 14:12:31+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you&rsquo;re on the hunt for a chic everyday laptop, then you&rsquo;re in luck, as we&rsquo;ve got an epic deal for you today. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.walmart.com/ip/Gateway-15-6-Ultra-Slim-Notebook-FHD-AMD-Ryzen-7-Radeon-RX-Vega-10-Graphics-512GB-SSD-8GB-Memory-Tuned-THX-Audio-Fingerprint-Scanner-2MP-Camera-HDMI-/902605940?athbdg=L1100&amp;xcust=2-1-1368919-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Walmart&rsquo;s selling the Gateway Ultra Slim Notebook for just $249, which is a savings of $80</a>. The teal exterior is absolutely gorgeous and modern looking. Plus, it even comes with a fingerprint scanner for additional security and a precision touchpad. Let&rsquo;s get right into the specs.</p>
@@ -118,7 +115,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/1368114/this-origami-bluetooth-mouse-folds-down-to-just-4-5mm-thin.html](https://www.pcworld.com/article/1368114/this-origami-bluetooth-mouse-folds-down-to-just-4-5mm-thin.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-02 13:29:43+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>There&rsquo;s a fundamental hurdle when it comes to designing a mouse that&rsquo;s supposed to be portable: Unlike a laptop, it&rsquo;s almost impossible to make a mouse both thin and comfortable at the same time. There have been attempts to get around this, like <a href="https://www.pcworld.com/article/393679/best-wireless-mouse.html" rel="noreferrer noopener" target="_blank">Microsoft&rsquo;s bendy Arc Mouse</a> or <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/dp/B0002SAF3M&amp;xcust=2-3-1368114-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Logitech&rsquo;s pop-up V500 design</a> from back in the day. But a new Kickstarter campaign might be able to claim the thinnest mouse that&rsquo;s also pretty comfy, thanks to a fabric-based folding structure. </p>
@@ -145,7 +141,6 @@ Mice</div>
  - [https://www.pcworld.com/article/1361787/fitbit-sense-2-review-2.html](https://www.pcworld.com/article/1361787/fitbit-sense-2-review-2.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-02 10:45:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
@@ -336,7 +331,6 @@ Consumer Electronics, Fitness Devices</div>
  - [https://www.pcworld.com/article/1365378/hp-envy-16-review-premium-config-in-midrange-build.html](https://www.pcworld.com/article/1365378/hp-envy-16-review-premium-config-in-midrange-build.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-02 10:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
@@ -504,7 +498,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/1074127/sweep-unused-files-and-speed-up-your-pc-with-36-off-lorien-cleaner.html](https://www.pcworld.com/article/1074127/sweep-unused-files-and-speed-up-your-pc-with-36-off-lorien-cleaner.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-02 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p><a href="https://www.pcworld.com/article/539780/computer-running-slow-use-it-more-often.html" rel="noreferrer noopener" target="_blank">Computers slow down over time</a>&nbsp;for numerous reasons, but one of the biggest causes might simply be too many loose files bogging up your programs. With a drive cleaner like Lorien Cleaner, you can&nbsp;<a href="https://shop.pcworld.com/sales/lorien-cleaner-the-best-junk-cleaner-for-pc-with-lifetime-access?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=lorien-cleaner-the-best-junk-cleaner-for-pc-with-lifetime-access&amp;utm_term=scsf-555679&amp;utm_content=a0x1P000004yTE2QAM&amp;scsonar=1" rel="noreferrer noopener" target="_blank">get rid of junk files</a>&nbsp;and get your PC running like the day you first booted it. Lifetime access is currently just $19.</p>

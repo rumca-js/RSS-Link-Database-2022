@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## Record number of parents miss work as respiratory illnesses spike in kids
  - [https://arstechnica.com/?p=1898421](https://arstechnica.com/?p=1898421)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-16 23:34:11+00:00
- - tags: None
 
 Though there are signs things could get worse, the White House has a rosy outlook.
 
@@ -12,7 +11,6 @@ Though there are signs things could get worse, the White House has a rosy outloo
  - [https://arstechnica.com/?p=1898349](https://arstechnica.com/?p=1898349)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-16 22:50:03+00:00
- - tags: None
 
 Failure is rare, but can be caused by any kind of 12VHPWR cable or adapter.
 
@@ -20,7 +18,6 @@ Failure is rare, but can be caused by any kind of 12VHPWR cable or adapter.
  - [https://arstechnica.com/?p=1898351](https://arstechnica.com/?p=1898351)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-16 22:24:59+00:00
- - tags: None
 
 AI supercomputer will use "tens of thousands" of Nvidia A100 and H100 GPUs.
 
@@ -28,7 +25,6 @@ AI supercomputer will use "tens of thousands" of Nvidia A100 and H100 GPUs.
  - [https://arstechnica.com/?p=1898348](https://arstechnica.com/?p=1898348)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-16 21:16:38+00:00
- - tags: None
 
 Amazon confirms Devices &#038; Services layoffs; warehouse jobs apparently safe.
 
@@ -36,7 +32,6 @@ Amazon confirms Devices &#038; Services layoffs; warehouse jobs apparently safe.
  - [https://arstechnica.com/?p=1898238](https://arstechnica.com/?p=1898238)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-16 19:40:25+00:00
- - tags: None
 
 New image offers window into what our Sun and Solar System looked like in infancy.
 
@@ -44,7 +39,6 @@ New image offers window into what our Sun and Solar System looked like in infanc
  - [https://arstechnica.com/?p=1898301](https://arstechnica.com/?p=1898301)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-16 19:27:19+00:00
- - tags: None
 
 F1's CTO, Pat Symonds, explains the sport's plans to be carbon neutral by 2030.
 
@@ -52,7 +46,6 @@ F1's CTO, Pat Symonds, explains the sport's plans to be carbon neutral by 2030.
  - [https://arstechnica.com/?p=1898280](https://arstechnica.com/?p=1898280)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-16 18:40:48+00:00
- - tags: None
 
 It's about password sharing, sure, but security, too.
 
@@ -60,7 +53,6 @@ It's about password sharing, sure, but security, too.
  - [https://arstechnica.com/?p=1898199](https://arstechnica.com/?p=1898199)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-16 17:18:43+00:00
- - tags: None
 
 App Tracking Protection blocks outbound traffic to listed tracking firms.
 
@@ -68,7 +60,6 @@ App Tracking Protection blocks outbound traffic to listed tracking firms.
  - [https://arstechnica.com/?p=1898258](https://arstechnica.com/?p=1898258)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-16 17:13:02+00:00
- - tags: None
 
 The highly contagious virus is spreading amid slipping vaccination rates.
 
@@ -76,7 +67,6 @@ The highly contagious virus is spreading amid slipping vaccination rates.
  - [https://arstechnica.com/?p=1898209](https://arstechnica.com/?p=1898209)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-16 17:03:08+00:00
- - tags: None
 
 New update lights up functionality present in all of AMD's Ryzen 6000 CPUs.
 
@@ -84,7 +74,6 @@ New update lights up functionality present in all of AMD's Ryzen 6000 CPUs.
  - [https://arstechnica.com/?p=1898244](https://arstechnica.com/?p=1898244)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-16 16:55:52+00:00
- - tags: None
 
 Two years after PS5 launch, Sony doesn't offer accessible-control alternatives.
 
@@ -92,7 +81,6 @@ Two years after PS5 launch, Sony doesn't offer accessible-control alternatives.
  - [https://arstechnica.com/?p=1898219](https://arstechnica.com/?p=1898219)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-16 15:42:19+00:00
- - tags: None
 
 There's a change in behavior when the plasma starts burning, and nobody knows why.
 
@@ -100,7 +88,6 @@ There's a change in behavior when the plasma starts burning, and nobody knows wh
  - [https://arstechnica.com/?p=1898208](https://arstechnica.com/?p=1898208)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-16 15:14:34+00:00
- - tags: None
 
 Many urban-dwelling birds have modified their songs in response to human-generated noise.
 
@@ -108,7 +95,6 @@ Many urban-dwelling birds have modified their songs in response to human-generat
  - [https://arstechnica.com/?p=1898200](https://arstechnica.com/?p=1898200)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-16 14:50:42+00:00
- - tags: None
 
 Musk's all-staff email: "Click yes on the link below" to keep your job.
 
@@ -116,7 +102,6 @@ Musk's all-staff email: "Click yes on the link below" to keep your job.
  - [https://arstechnica.com/?p=1896595](https://arstechnica.com/?p=1896595)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-16 12:00:01+00:00
- - tags: None
 
 Despite costly Silicon Valley project, CEO says this isn't just for wealthy areas.
 
@@ -124,6 +109,5 @@ Despite costly Silicon Valley project, CEO says this isn't just for wealthy area
  - [https://arstechnica.com/?p=1898017](https://arstechnica.com/?p=1898017)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-16 08:33:59+00:00
- - tags: None
 
 The US space agency had not launched an orbital rocket since 2011.

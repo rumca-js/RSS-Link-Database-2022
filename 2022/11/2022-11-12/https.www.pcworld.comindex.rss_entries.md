@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## Get 14 top coding training courses with this premium training bundle
  - [https://www.pcworld.com/article/1369498/get-14-top-coding-training-courses-with-this-premium-training-bundle.html](https://www.pcworld.com/article/1369498/get-14-top-coding-training-courses-with-this-premium-training-bundle.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-12 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Knowing how to code isn&rsquo;t just good for your career; it can help protect you as <a href="https://www.pcworld.com/article/694614/best-free-antivirus-for-android.html" rel="noreferrer noopener" target="_blank">you buy and use new tech</a>. The&nbsp; <a href="https://shop.pcworld.com/sales/the-2023-premium-learn-to-code-certification-bundle?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=the-2023-premium-learn-to-code-certification-bundle&amp;utm_term=scsf-556186&amp;utm_content=a0x1P000004yUrrQAE&amp;scsonar=1" rel="noreferrer noopener" target="_blank">2023 Premium Learn to Code Certification Bundle</a> offers over 200 hours of coding training, from mobile apps to game design to web development and more.</p>

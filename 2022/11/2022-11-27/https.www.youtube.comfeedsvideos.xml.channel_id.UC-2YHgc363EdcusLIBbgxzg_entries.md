@@ -1,10 +1,9 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
+# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
 
 ## The Artemis Rovers Are Going To Be DOPE
  - [https://www.youtube.com/watch?v=B19YQRd22rc](https://www.youtube.com/watch?v=B19YQRd22rc)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
  - date published: 2022-11-27 19:15:00+00:00
- - tags: None
 
 One of the coolest parts of the Apollo program was the rovers that allowed astronauts to travel around the moon. The new generation is going to take things up a notch.
 

@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## Putin calls off mobilization of college students in two annexed regions of Ukraine, Russia state media says
  - [https://www.cnn.com/webview/europe/live-news/russia-ukraine-war-news-11-13-22/h_1a6e424239f528756ae8806ebfcd5ab0](https://www.cnn.com/webview/europe/live-news/russia-ukraine-war-news-11-13-22/h_1a6e424239f528756ae8806ebfcd5ab0)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 23:03:42.990976+00:00
- - tags: None
 
 
 
@@ -12,7 +11,6 @@
  - [https://www.cnn.com/2022/11/13/politics/midterms-joe-biden-xi-jinping-meeting/index.html](https://www.cnn.com/2022/11/13/politics/midterms-joe-biden-xi-jinping-meeting/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 22:45:38+00:00
- - tags: None
 
 Thirty-seven minutes after wrapping up a late-night gala dinner with Asian leaders -- punctuated by plates of wild Mekong lobster and beef saraman -- an aide handed President Joe Biden the phone.
 
@@ -20,7 +18,6 @@ Thirty-seven minutes after wrapping up a late-night gala dinner with Asian leade
  - [https://www.cnn.com/collections/3rd-midterms-bin/](https://www.cnn.com/collections/3rd-midterms-bin/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 22:36:39+00:00
- - tags: None
 
 
 
@@ -28,7 +25,6 @@ Thirty-seven minutes after wrapping up a late-night gala dinner with Asian leade
  - [https://www.cnn.com/webview/politics/live-news/election-results-congress-senate-house-11-13-2022/index.html](https://www.cnn.com/webview/politics/live-news/election-results-congress-senate-house-11-13-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 22:03:43.272528+00:00
- - tags: None
 
 
 
@@ -36,7 +32,6 @@ Thirty-seven minutes after wrapping up a late-night gala dinner with Asian leade
  - [https://www.cnn.com/politics/live-news/election-results-congress-senate-house-11-13-2022/h_71d1892b2ef13be74299e05fbb4ecfee](https://www.cnn.com/politics/live-news/election-results-congress-senate-house-11-13-2022/h_71d1892b2ef13be74299e05fbb4ecfee)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 21:03:43.192247+00:00
- - tags: None
 
 
 
@@ -44,7 +39,6 @@ Thirty-seven minutes after wrapping up a late-night gala dinner with Asian leade
  - [https://www.cnn.com/2022/11/13/business/ftx-bahamas-criminal-investigation/index.html](https://www.cnn.com/2022/11/13/business/ftx-bahamas-criminal-investigation/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 20:25:50+00:00
- - tags: None
 
 Authorities in The Bahamas are investigating potential criminal misconduct surrounding the stunning implosion of crypto exchange FTX, authorities said on Sunday.
 
@@ -52,7 +46,6 @@ Authorities in The Bahamas are investigating potential criminal misconduct surro
  - [https://www.cnn.com/2022/11/13/motorsport/george-russell-sao-paolo-grand-prix-spt-intl/index.html](https://www.cnn.com/2022/11/13/motorsport/george-russell-sao-paolo-grand-prix-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 20:14:17+00:00
- - tags: None
 
 George Russell won his maiden Grand Prix on Sunday after a collision-ridden race in Brazil.
 
@@ -60,7 +53,6 @@ George Russell won his maiden Grand Prix on Sunday after a collision-ridden race
  - [https://www.cnn.com/style/article/joan-didion-estate-sale-auction-trnd/index.html](https://www.cnn.com/style/article/joan-didion-estate-sale-auction-trnd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 20:11:42+00:00
- - tags: None
 
 On a visit once to her family's home in the corner of California where she grew up, Joan Didion opened a drawer crammed full of her old things and took an inventory.
 
@@ -68,7 +60,6 @@ On a visit once to her family's home in the corner of California where she grew 
  - [https://www.cnn.com/style/article/new-york-pakistan-antiquities-return-trnd/index.html](https://www.cnn.com/style/article/new-york-pakistan-antiquities-return-trnd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 19:14:29+00:00
- - tags: None
 
 The Manhattan district attorney's office has returned 192 looted antiquities with a value of nearly $3.4 million to Pakistan.
 
@@ -76,7 +67,6 @@ The Manhattan district attorney's office has returned 192 looted antiquities wit
  - [https://www.cnn.com/2022/11/13/sport/brady-tampa-bay-buccaneers-seattle-seahawks-munich-spt-intl/index.html](https://www.cnn.com/2022/11/13/sport/brady-tampa-bay-buccaneers-seattle-seahawks-munich-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 18:35:50+00:00
- - tags: None
 
 Tom Brady has become well-accustomed at making history over his long and illustrious NFL career. And on Sunday, the 45-year-old set more historic marks from all the way across the globe.
 
@@ -84,7 +74,6 @@ Tom Brady has become well-accustomed at making history over his long and illustr
  - [https://www.cnn.com/2022/11/13/europe/ukraine-kherson-food-shortages-mines-intl/index.html](https://www.cnn.com/2022/11/13/europe/ukraine-kherson-food-shortages-mines-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 16:43:23+00:00
- - tags: None
 
 Residents of the newly liberated city of Kherson are almost without water and face shortages of bread and medicines, officials warned, as efforts continued Sunday to remove mines and restore critical infrastructure following the withdrawal of Russian forces.
 
@@ -92,7 +81,6 @@ Residents of the newly liberated city of Kherson are almost without water and fa
  - [https://www.cnn.com/videos/us/2022/11/12/dallas-air-show-collision-vpx.cnn](https://www.cnn.com/videos/us/2022/11/12/dallas-air-show-collision-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 15:34:00+00:00
- - tags: None
 
 Two World War II-era military planes collided in mid-air and crashed at Dallas Executive Airport during an airshow, killing at least two people onboard, officials said.
 
@@ -100,7 +88,6 @@ Two World War II-era military planes collided in mid-air and crashed at Dallas E
  - [https://www.cnn.com/videos/politics/2022/11/13/nancy-pelosi-kevin-mccarthy-house-speaker-paul-pelosi-voter-turnout-midterm-election-sotu-bash-vpx.cnn](https://www.cnn.com/videos/politics/2022/11/13/nancy-pelosi-kevin-mccarthy-house-speaker-paul-pelosi-voter-turnout-midterm-election-sotu-bash-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 15:28:50+00:00
- - tags: None
 
 CNN anchor Dana Bash asks House Speaker Nancy Pelosi (D-CA) if she believes the attack on her husband, Paul Pelosi, affected voter turnout and what she thinks as Rep. Kevin McCarthy (R-CA) as House Speaker if Republicans win the majority in Congress.
 
@@ -108,7 +95,6 @@ CNN anchor Dana Bash asks House Speaker Nancy Pelosi (D-CA) if she believes the 
  - [https://www.cnn.com/2022/11/13/europe/istanbul-turkey-explosion-intl/index.html](https://www.cnn.com/2022/11/13/europe/istanbul-turkey-explosion-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 15:17:17+00:00
- - tags: None
 
 An explosion rocked central Istanbul on Sunday afternoon, with injuries reported in what is a popular tourist area.
 
@@ -116,7 +102,6 @@ An explosion rocked central Istanbul on Sunday afternoon, with injuries reported
  - [https://www.cnn.com/2022/11/13/opinions/five-lessons-midterms-opinion-columns-galant/index.html](https://www.cnn.com/2022/11/13/opinions/five-lessons-midterms-opinion-columns-galant/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 13:39:04+00:00
- - tags: None
 
 In Arthur Conan Doyle's story, "Silver Blaze," Sherlock Holmes investigates the disappearance of a famous racehorse and the "tragic murder of its trainer." A police inspector asks the detective, "Is there any point to which you would wish to draw my attention?"
 
@@ -124,7 +109,6 @@ In Arthur Conan Doyle's story, "Silver Blaze," Sherlock Holmes investigates the 
  - [https://www.cnn.com/videos/tv/2022/11/13/kherson-ukraine-liberated-robertson-intldsk.cnn](https://www.cnn.com/videos/tv/2022/11/13/kherson-ukraine-liberated-robertson-intldsk.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 13:24:10+00:00
- - tags: None
 
 CNN International Diplomatic Editor Nic Robertson spoke to newly liberated residents in the Ukrainian city of Kherson after Russian forces retreated in one of the biggest setbacks for President Vladimir Putin since his invasion began.
 
@@ -132,7 +116,6 @@ CNN International Diplomatic Editor Nic Robertson spoke to newly liberated resid
  - [https://www.cnn.com/2022/11/13/sport/england-pakistan-t20-world-cup-final-spt-intl/index.html](https://www.cnn.com/2022/11/13/sport/england-pakistan-t20-world-cup-final-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 13:01:13+00:00
- - tags: None
 
 England won the T20 World Cup Final in sensational style, defeating Pakistan by five wickets in front of more than 80,000 fans at the Melbourne Cricket Ground on Sunday.
 
@@ -140,7 +123,6 @@ England won the T20 World Cup Final in sensational style, defeating Pakistan by 
  - [https://www.cnn.com/2022/11/13/sport/alex-pereira-israel-adesanya-ufc-title-spt-intl/index.html](https://www.cnn.com/2022/11/13/sport/alex-pereira-israel-adesanya-ufc-title-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 12:28:47+00:00
- - tags: None
 
 Alex Pereira became the undisputed middleweight UFC champion on Saturday, defeating Israel Adesanya on a technical knock-out in front of a sold-out Madison Square Gardens in New York.
 
@@ -148,7 +130,6 @@ Alex Pereira became the undisputed middleweight UFC champion on Saturday, defeat
  - [https://www.cnn.com/2022/11/13/football/tim-sparv-criticism-qatar-2022-dangerous-spt-intl/index.html](https://www.cnn.com/2022/11/13/football/tim-sparv-criticism-qatar-2022-dangerous-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 12:13:17+00:00
- - tags: None
 
 Former Finland captain Tim Sparv says he hopes this month's World Cup in Qatar will be a turning point for a sport that he believes is heading in a "dangerous" direction.
 
@@ -156,7 +137,6 @@ Former Finland captain Tim Sparv says he hopes this month's World Cup in Qatar w
  - [https://edition.cnn.com/interactive/2022/11/politics/election-deniers-winners-losers-midterms-2022/?4](https://edition.cnn.com/interactive/2022/11/politics/election-deniers-winners-losers-midterms-2022/?4)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 11:03:39.738139+00:00
- - tags: None
 
 
 
@@ -164,7 +144,6 @@ Former Finland captain Tim Sparv says he hopes this month's World Cup in Qatar w
  - [https://www.cnn.com/2022/11/13/economy/degrowth-climate-cop27/index.html](https://www.cnn.com/2022/11/13/economy/degrowth-climate-cop27/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 10:11:04+00:00
- - tags: None
 
 Conventional economic logic hinges on a core assumption: Bigger economies are better, and finding ways to maintain or boost growth is paramount to improving society.
 
@@ -172,7 +151,6 @@ Conventional economic logic hinges on a core assumption: Bigger economies are be
  - [https://www.cnn.com/2022/11/13/sport/nfl-week-10-preview-buccaneers-seahawks-munich-spt-intl/index.html](https://www.cnn.com/2022/11/13/sport/nfl-week-10-preview-buccaneers-seahawks-munich-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 09:56:21+00:00
- - tags: None
 
 Week 10 features the first-ever regular season game played in Germany. The Tampa Bay Buccaneers (4-5) will face the Seattle Seahawks (6-3) in front of nearly 75,000 spectators at Allianz Arena in Munich.
 
@@ -180,7 +158,6 @@ Week 10 features the first-ever regular season game played in Germany. The Tampa
  - [https://www.cnn.com/2022/11/13/europe/king-charles-remembrance-sunday-intl/index.html](https://www.cnn.com/2022/11/13/europe/king-charles-remembrance-sunday-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 09:35:50+00:00
- - tags: None
 
 King Charles III will lead Britain's annual Remembrance Sunday service for the first time as monarch.
 
@@ -188,7 +165,6 @@ King Charles III will lead Britain's annual Remembrance Sunday service for the f
  - [https://www.cnn.com/videos/media/2022/11/13/snl-dave-chappelle-kanye-west-herschel-walker-donald-trump-monologue-mgw-orig.cnn](https://www.cnn.com/videos/media/2022/11/13/snl-dave-chappelle-kanye-west-herschel-walker-donald-trump-monologue-mgw-orig.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 07:58:24+00:00
- - tags: None
 
 During his "Saturday Night Live" monologue Dave Chappelle talked about Kanye West's antisemitic remarks, mocked Senate candidate Herschel Walker and discussed Trump.
 
@@ -196,7 +172,6 @@ During his "Saturday Night Live" monologue Dave Chappelle talked about Kanye Wes
  - [https://edition.cnn.com/webview/politics/live-news/election-results-congress-senate-house-11-12-2022/h_10c379e058a71fe689457e71130dda1d](https://edition.cnn.com/webview/politics/live-news/election-results-congress-senate-house-11-12-2022/h_10c379e058a71fe689457e71130dda1d)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 07:03:38.393694+00:00
- - tags: None
 
 
 
@@ -204,7 +179,6 @@ During his "Saturday Night Live" monologue Dave Chappelle talked about Kanye Wes
  - [https://www.cnn.com/collections/ent-111222/](https://www.cnn.com/collections/ent-111222/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 06:27:44+00:00
- - tags: None
 
 
 
@@ -212,7 +186,6 @@ During his "Saturday Night Live" monologue Dave Chappelle talked about Kanye Wes
  - [https://www.cnn.com/2022/11/13/entertainment/dave-chappelle-snl-monologue-kanye-cec/index.html](https://www.cnn.com/2022/11/13/entertainment/dave-chappelle-snl-monologue-kanye-cec/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 06:18:59+00:00
- - tags: None
 
 Dave Chappelle addressed several contentious topics in his latest "Saturday Night Live" monologue, focusing mostly on Kanye West's recent antisemitic comments.
 
@@ -220,7 +193,6 @@ Dave Chappelle addressed several contentious topics in his latest "Saturday Nigh
  - [https://www.cnn.com/collections/int-1113-midterms/](https://www.cnn.com/collections/int-1113-midterms/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 06:14:06+00:00
- - tags: None
 
 
 
@@ -228,7 +200,6 @@ Dave Chappelle addressed several contentious topics in his latest "Saturday Nigh
  - [https://www.cnn.com/collections/intl-1113-russia-ukraine/](https://www.cnn.com/collections/intl-1113-russia-ukraine/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 06:09:20+00:00
- - tags: None
 
 
 
@@ -236,7 +207,6 @@ Dave Chappelle addressed several contentious topics in his latest "Saturday Nigh
  - [https://www.cnn.com/2022/11/13/politics/midterm-elections-what-to-know-house-senate-control/index.html](https://www.cnn.com/2022/11/13/politics/midterm-elections-what-to-know-house-senate-control/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 05:33:29+00:00
- - tags: None
 
 The battle for control of the House is now the biggest unanswered question of this year's midterm elections after Democrats kept their narrow Senate majority.
 
@@ -244,7 +214,6 @@ The battle for control of the House is now the biggest unanswered question of th
  - [https://www.cnn.com/webview/politics/live-news/election-results-congress-senate-house-11-12-2022/h_10c379e058a71fe689457e71130dda1d](https://www.cnn.com/webview/politics/live-news/election-results-congress-senate-house-11-12-2022/h_10c379e058a71fe689457e71130dda1d)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 05:03:37.417783+00:00
- - tags: None
 
 
 
@@ -252,7 +221,6 @@ The battle for control of the House is now the biggest unanswered question of th
  - [https://www.cnn.com/2022/11/13/politics/democrats-biden-midterm-elections-senate-house/index.html](https://www.cnn.com/2022/11/13/politics/democrats-biden-midterm-elections-senate-house/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 05:01:22+00:00
- - tags: None
 
 President Joe Biden and the Democratic Party have pulled off a midterm election for the record books.
 
@@ -260,7 +228,6 @@ President Joe Biden and the Democratic Party have pulled off a midterm election 
  - [https://www.cnn.com/2022/11/12/middleeast/iran-protests-death-toll-intl-hnk/index.html](https://www.cnn.com/2022/11/12/middleeast/iran-protests-death-toll-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 04:53:40+00:00
- - tags: None
 
 Iranian security forces have killed at least 326 people since nationwide protests erupted two months ago, the Norway-based Iran Human Rights NGO (IHRNGO) group has claimed.
 
@@ -268,7 +235,6 @@ Iranian security forces have killed at least 326 people since nationwide protest
  - [https://www.cnn.com/collections/intl-1113-g20/](https://www.cnn.com/collections/intl-1113-g20/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 04:35:57+00:00
- - tags: None
 
 
 
@@ -276,7 +242,6 @@ Iranian security forces have killed at least 326 people since nationwide protest
  - [https://www.cnn.com/2022/11/12/entertainment/jeff-bezos-dolly-parton-100-million-dollar-grant/index.html](https://www.cnn.com/2022/11/12/entertainment/jeff-bezos-dolly-parton-100-million-dollar-grant/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 04:20:47+00:00
- - tags: None
 
 Dolly Parton is the latest recipient of the Bezos Courage and Civility Award.
 
@@ -284,7 +249,6 @@ Dolly Parton is the latest recipient of the Bezos Courage and Civility Award.
  - [https://edition.cnn.com/politics/live-news/election-results-congress-senate-house-11-12-2022/h_b5a899db910a438c058d8b32291144b0](https://edition.cnn.com/politics/live-news/election-results-congress-senate-house-11-12-2022/h_b5a899db910a438c058d8b32291144b0)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 04:03:37.642960+00:00
- - tags: None
 
 
 
@@ -292,7 +256,6 @@ Dolly Parton is the latest recipient of the Bezos Courage and Civility Award.
  - [https://www.cnn.com/videos/politics/2022/11/13/democrats-control-senate-nevada-results-2022-midterm-election-sitroom-vpx.cnn](https://www.cnn.com/videos/politics/2022/11/13/democrats-control-senate-nevada-results-2022-midterm-election-sitroom-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 03:52:58+00:00
- - tags: None
 
 With incumbent Sen. Cortez Masto (D-NV) holding onto her seat, CNN projects Democrats will maintain control of the Senate. CNN's Gloria Borger and David Chalian react.
 
@@ -300,7 +263,6 @@ With incumbent Sen. Cortez Masto (D-NV) holding onto her seat, CNN projects Demo
  - [https://www.cnn.com/2022/11/12/us/california-fresno-mother-baby-homicide-arrests/index.html](https://www.cnn.com/2022/11/12/us/california-fresno-mother-baby-homicide-arrests/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 03:43:06+00:00
- - tags: None
 
 Fresno police in California arrested two people this week for the September killings of 18-year-old Yanelly Solorio-Rivera and her three-week-old daughter, Celine -- and Yanelly's sister is one of the suspects, according to authorities.
 
@@ -308,7 +270,6 @@ Fresno police in California arrested two people this week for the September kill
  - [https://www.cnn.com/2022/11/12/politics/cbp-magnus-resignation-dhs-mayorkas/index.html](https://www.cnn.com/2022/11/12/politics/cbp-magnus-resignation-dhs-mayorkas/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 03:06:07+00:00
- - tags: None
 
 President Joe Biden has accepted the resignation of US Customs and Border Protection Commissioner Christopher Magnus, the White House said Saturday.
 
@@ -316,7 +277,6 @@ President Joe Biden has accepted the resignation of US Customs and Border Protec
  - [https://edition.cnn.com/politics/live-news/election-results-congress-senate-house-11-12-2022/index.html](https://edition.cnn.com/politics/live-news/election-results-congress-senate-house-11-12-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 03:03:36.810510+00:00
- - tags: None
 
 Senate | House | Gov | Sec of State | How many votes are left
 
@@ -324,7 +284,6 @@ Senate | House | Gov | Sec of State | How many votes are left
  - [https://edition.cnn.com/webview/politics/live-news/election-results-congress-senate-house-11-12-2022/index.html](https://edition.cnn.com/webview/politics/live-news/election-results-congress-senate-house-11-12-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 03:03:36.703057+00:00
- - tags: None
 
 
 
@@ -332,7 +291,6 @@ Senate | House | Gov | Sec of State | How many votes are left
  - [https://www.cnn.com/videos/politics/2022/11/13/republicans-strategy-in-person-voting-results-2022-midterm-election-rosen-sitroom-vpx.cnn](https://www.cnn.com/videos/politics/2022/11/13/republicans-strategy-in-person-voting-results-2022-midterm-election-rosen-sitroom-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 02:30:39+00:00
- - tags: None
 
 CNN political commentator and Democratic strategist Hilary Rosen discusses Democrats' and Republicans' strategies in the 2022 midterm election.
 
@@ -340,7 +298,6 @@ CNN political commentator and Democratic strategist Hilary Rosen discusses Democ
  - [https://www.cnn.com/collections/midterms-bin-1-111122/](https://www.cnn.com/collections/midterms-bin-1-111122/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 02:02:59+00:00
- - tags: None
 
 
 
@@ -348,7 +305,6 @@ CNN political commentator and Democratic strategist Hilary Rosen discusses Democ
  - [https://www.cnn.com/2022/11/12/europe/the-terminal-movie-paris-airport-mehran-karimi-nasseri-dies-intl-hnk/index.html](https://www.cnn.com/2022/11/12/europe/the-terminal-movie-paris-airport-mehran-karimi-nasseri-dies-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 01:36:13+00:00
- - tags: None
 
 Mehran Karimi Nasseri, the man who had lived inside the Paris-Charles de Gaulle airport for years and inspired Steven Spielberg's 2004 film "The Terminal", died Saturday at the same airport.
 
@@ -356,6 +312,5 @@ Mehran Karimi Nasseri, the man who had lived inside the Paris-Charles de Gaulle 
  - [https://www.cnn.com/2022/11/12/sport/robert-griswold-rape-accusation-teammate-paralympic-swimming-spt-intl/index.html](https://www.cnn.com/2022/11/12/sport/robert-griswold-rape-accusation-teammate-paralympic-swimming-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-13 01:24:47+00:00
- - tags: None
 
 Paralympic gold medalist swimmer Robert Griswold "maliciously targeted," groomed and sexually abused a younger, intellectually disabled teammate, a civil lawsuit filed on Friday in Colorado alleges.

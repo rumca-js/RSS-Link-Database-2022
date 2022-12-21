@@ -1,10 +1,9 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/
+# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
 
 ## Watch: Best Buy manager hypes up employees before the Black Friday hordes attack Steve Austin style... with beer
  - [https://www.louderwithcrowder.com/best-buy-manager](https://www.louderwithcrowder.com/best-buy-manager)
  - RSS feed: http://louderwithcrowder.com/feed/
  - date published: 2022-11-26 15:07:17+00:00
- - tags: None
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=32213603&amp;width=1200&amp;height=800&amp;coordinates=11%2C0%2C12%2C0" /><br /><br /><p>In a bygone era when I was a young lad and worked in retail, Black Friday was overhype. It was a busy shopping day stores opened normal time for. And while you would see videos of people wildin' out on the evening news (that's how we got content in the olden days), real ones knew the worst day was the Saturday before Christmas. </p><p>But we live in modern times where customers have become savage. Others come out just for the Black Friday "experience." I guess hype videos like this Best Buy manager rallying the troops are necessary.</p><p>It's from a few years ago (shout out to <a href="https://www.whiskeyriff.com/2022/11/25/best-buy-manager-does-his-best-stone-cold-steve-austin-for-black-friday-pump-up-speech/" target="_blank">Whiskey Riff</a>), but I'm a sucker for a good pro rasslin' reference. "Stone Cold" Steve Manager, take it away.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">This is how you rally the troops before the hordes of Black Friday shopping lunatics breach the front door… <a href="https://t.co/6Bm0eovo6E">pic.twitter.com/6Bm0eovo6E</a><br />— Louder with Crowder Dot Com (@LWCnewswire) <a href="https://twitter.com/LWCnewswire/status/1596515259871006720?ref_src=twsrc%5Etfw">November 26, 2022</a></blockquote> </div><p>That's one way to rally the troops.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
 <img alt="" class="rm-shortcode" id="47432" src="https://www.louderwithcrowder.com/media-library/image.gif?id=32213610&amp;width=980" />
@@ -30,7 +29,6 @@
  - [https://www.louderwithcrowder.com/jerry-jones-photo-stephen-a](https://www.louderwithcrowder.com/jerry-jones-photo-stephen-a)
  - RSS feed: http://louderwithcrowder.com/feed/
  - date published: 2022-11-26 14:09:15+00:00
- - tags: None
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=32213546&amp;width=1200&amp;height=800&amp;coordinates=0%2C0%2C24%2C0" /><br /><br /><p>Jerry Jones is the 80-year-old owner of the Dallas Cowboys. Sixty-five years ago, in Alabama, in the segregated south, he stood in the crowd as a group of African-American students entered a school and someone white people protested. And because sixty-five years ago Jones didn't hold up a "Black Lives Matter" sign, that is all you need to know about why Jones has never hired a black coach. That's the crux of this hit piece written by the Washington Post.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">Decades after standing on the frontlines of one of Little Rock’s darkest segregation clashes, Dallas Cowboys owner Jerry Jones has led the league toward new revenue models but has yet to hire a Black head coach. <a href="https://t.co/cT2P0JHyGL">https://t.co/cT2P0JHyGL</a><br />— The Washington Post (@washingtonpost) <a href="https://twitter.com/washingtonpost/status/1595470968415309824?ref_src=twsrc%5Etfw">November 23, 2022</a></blockquote> </div><p>WaPo is <a href="https://www.louderwithcrowder.com/elon-musk-smartphone" target="_blank">very on-brand this week</a>. Side note, these are the two reporters who found a sixty-five-year-old photo and are implying it proves Jerry Jones is a closeted raaaaaaaacist.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
 <img alt="" class="rm-shortcode" id="cf9e3" src="https://www.louderwithcrowder.com/media-library/image.png?id=32213555&amp;width=980" />
@@ -52,7 +50,6 @@
  - [https://www.louderwithcrowder.com/elon-musk-smartphone](https://www.louderwithcrowder.com/elon-musk-smartphone)
  - RSS feed: http://louderwithcrowder.com/feed/
  - date published: 2022-11-26 13:15:28+00:00
- - tags: None
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=32213321&amp;width=1200&amp;height=800&amp;coordinates=0%2C0%2C23%2C0" /><br /><br /><p>Elon Musk hasn't finished burning the pile of money he set on fire when he bought Twitter before being ready to take on another project. Launching his own smartphone to compete with Google and Apple. The latest front in leftists' war on free speech is to cyberbully the two app stores into removing Twitter unless Elon bends the knee.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
 <img alt="" class="rm-shortcode" id="e71df" src="https://www.louderwithcrowder.com/media-library/image.gif?id=32213534&amp;width=980" />

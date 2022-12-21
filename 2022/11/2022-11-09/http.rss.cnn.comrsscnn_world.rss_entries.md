@@ -1,10 +1,9 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss
+# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
 
 ## This oil refiner is cutting 1,100 jobs — and giving billions of dollars to its shareholders
  - [https://www.cnn.com/2022/11/09/economy/phillips-66-energy-layoffs/index.html](https://www.cnn.com/2022/11/09/economy/phillips-66-energy-layoffs/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-09 19:35:24+00:00
- - tags: None
 
 Phillips 66 is cutting at least 1,100 jobs by the end of this year as the refining giant seeks to slash costs and steer a larger chunk of its soaring profits to shareholders.
 
@@ -12,7 +11,6 @@ Phillips 66 is cutting at least 1,100 jobs by the end of this year as the refini
  - [https://www.cnn.com/2022/11/09/americas/haiti-cholera-deaths-136-intl-latam/index.html](https://www.cnn.com/2022/11/09/americas/haiti-cholera-deaths-136-intl-latam/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-09 19:31:14+00:00
- - tags: None
 
 A deadly resurgence of cholera in Haiti has claimed 136 lives so far, according to the Caribbean nation's health ministry.
 
@@ -20,7 +18,6 @@ A deadly resurgence of cholera in Haiti has claimed 136 lives so far, according 
  - [https://www.cnn.com/2022/11/09/uk/uk-india-nirav-modi-extradition-intl/index.html](https://www.cnn.com/2022/11/09/uk/uk-india-nirav-modi-extradition-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-09 19:27:25+00:00
- - tags: None
 
 A London court on Wednesday rejected an appeal from Indian billionaire Nirav Modi against his extradition from the United Kingdom to India to face charges of fraud and money laundering.
 
@@ -28,7 +25,6 @@ A London court on Wednesday rejected an appeal from Indian billionaire Nirav Mod
  - [https://www.cnn.com/2022/11/09/business/uk-nurses-strike/index.html](https://www.cnn.com/2022/11/09/business/uk-nurses-strike/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-09 17:45:30+00:00
- - tags: None
 
 Tens of thousands of British nurses will go on strike for the first time over demands for better pay, their trade union said on Wednesday, adding to pressure on Prime Minister Rishi Sunak during an economic crisis.
 
@@ -36,7 +32,6 @@ Tens of thousands of British nurses will go on strike for the first time over de
  - [https://www.cnn.com/2022/11/09/business/chocolate-sales-ctrp/index.html](https://www.cnn.com/2022/11/09/business/chocolate-sales-ctrp/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-09 16:00:31+00:00
- - tags: None
 
 Between warnings of a recession, high inflation and layoff fears, the news is bleak. Why not have some chocolate?
 
@@ -44,7 +39,6 @@ Between warnings of a recession, high inflation and layoff fears, the news is bl
  - [https://www.cnn.com/2022/11/09/media/wordle-changes-new-york-times/index.html](https://www.cnn.com/2022/11/09/media/wordle-changes-new-york-times/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-09 13:23:23+00:00
- - tags: None
 
 Changes are coming for Wordle ... again.
 
@@ -52,7 +46,6 @@ Changes are coming for Wordle ... again.
  - [https://www.cnn.com/2022/11/08/business/elon-musk-tesla-stock-sale-twitter-purchase/index.html](https://www.cnn.com/2022/11/08/business/elon-musk-tesla-stock-sale-twitter-purchase/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-09 13:04:42+00:00
- - tags: None
 
 Elon Musk sold $3.95 billion worth of Tesla stock since completing his purchase of Twitter late last month.
 
@@ -60,7 +53,6 @@ Elon Musk sold $3.95 billion worth of Tesla stock since completing his purchase 
  - [https://www.cnn.com/2022/11/09/europe/earthquake-italy-adriatic-coast-intl-scli-scn/index.html](https://www.cnn.com/2022/11/09/europe/earthquake-italy-adriatic-coast-intl-scli-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-09 10:06:32+00:00
- - tags: None
 
 A strong earthquake of magnitude 5.7 struck off Italy's Adriatic coast early on Wednesday, but caused no serious damage or injuries, according to initial reports.
 
@@ -68,6 +60,5 @@ A strong earthquake of magnitude 5.7 struck off Italy's Adriatic coast early on 
  - [https://www.cnn.com/2022/11/09/asia/pakistan-journalist-arshad-sharif-shot-targeted-killing-intl-hnk/index.html](https://www.cnn.com/2022/11/09/asia/pakistan-journalist-arshad-sharif-shot-targeted-killing-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-09 05:25:35+00:00
- - tags: None
 
 A Pakistani journalist shot dead by police in Kenya last month was the victim of a "targeted killing," a senior member of Pakistan's government said on Tuesday, without offering any evidence to support his claim.

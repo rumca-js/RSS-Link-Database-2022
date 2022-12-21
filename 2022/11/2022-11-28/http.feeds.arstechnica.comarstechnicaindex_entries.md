@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## Apple Watch Ultra becomes a diving computer with launch of Oceanic+
  - [https://arstechnica.com/?p=1900415](https://arstechnica.com/?p=1900415)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-28 23:19:30+00:00
- - tags: None
 
 App adds yet another Apple-sanctioned subscription service to Apple devices
 
@@ -12,7 +11,6 @@ App adds yet another Apple-sanctioned subscription service to Apple devices
  - [https://arstechnica.com/?p=1900502](https://arstechnica.com/?p=1900502)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-28 23:01:14+00:00
- - tags: None
 
 Algorithm also analyzes in-game data to find opponents secretly working together.
 
@@ -20,7 +18,6 @@ Algorithm also analyzes in-game data to find opponents secretly working together
  - [https://arstechnica.com/?p=1900448](https://arstechnica.com/?p=1900448)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-28 22:13:45+00:00
- - tags: None
 
 NeurIPS 2022 honors MineDojo for playing <em>Minecraft</em> when instructed by written prompts.
 
@@ -28,7 +25,6 @@ NeurIPS 2022 honors MineDojo for playing <em>Minecraft</em> when instructed by w
  - [https://arstechnica.com/?p=1900465](https://arstechnica.com/?p=1900465)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-28 21:43:45+00:00
- - tags: None
 
 New branding is more consistent with older 1070 and 2070-series GPUs.
 
@@ -36,7 +32,6 @@ New branding is more consistent with older 1070 and 2070-series GPUs.
  - [https://arstechnica.com/?p=1900423](https://arstechnica.com/?p=1900423)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-28 20:58:01+00:00
- - tags: None
 
 Comcast's advertised prices don't include ever-rising Broadcast TV and sports fees.
 
@@ -44,7 +39,6 @@ Comcast's advertised prices don't include ever-rising Broadcast TV and sports fe
  - [https://arstechnica.com/?p=1900332](https://arstechnica.com/?p=1900332)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-28 18:51:50+00:00
- - tags: None
 
 Twitter faces scrutiny for relying too much on automated content removal.
 
@@ -52,7 +46,6 @@ Twitter faces scrutiny for relying too much on automated content removal.
  - [https://arstechnica.com/?p=1900256](https://arstechnica.com/?p=1900256)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-28 18:39:07+00:00
- - tags: None
 
 The optimal splash-reducing angle for the average human is approximately 30 degrees.
 
@@ -60,7 +53,6 @@ The optimal splash-reducing angle for the average human is approximately 30 degr
  - [https://arstechnica.com/?p=1900202](https://arstechnica.com/?p=1900202)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-28 18:23:25+00:00
- - tags: None
 
 Project Zero calls out Android and Pixel for not fixing a GPU vulnerability.
 
@@ -68,7 +60,6 @@ Project Zero calls out Android and Pixel for not fixing a GPU vulnerability.
  - [https://arstechnica.com/?p=1900325](https://arstechnica.com/?p=1900325)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-28 18:17:16+00:00
- - tags: None
 
 Employees hit with overdraft fees after paychecks fail to show up on schedule.
 
@@ -76,7 +67,6 @@ Employees hit with overdraft fees after paychecks fail to show up on schedule.
  - [https://arstechnica.com/?p=1900293](https://arstechnica.com/?p=1900293)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-28 17:37:41+00:00
- - tags: None
 
 The data is in a new report on EV use from Argonne National Lab.
 
@@ -84,7 +74,6 @@ The data is in a new report on EV use from Argonne National Lab.
  - [https://arstechnica.com/?p=1900196](https://arstechnica.com/?p=1900196)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-28 16:19:00+00:00
- - tags: None
 
 The roomier version of GM's electric hatchback starts at just $27,200.
 
@@ -92,7 +81,6 @@ The roomier version of GM's electric hatchback starts at just $27,200.
  - [https://arstechnica.com/?p=1900122](https://arstechnica.com/?p=1900122)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-28 15:54:09+00:00
- - tags: None
 
 This was the rare year when there were no August storms. Then things blew up.
 
@@ -100,7 +88,6 @@ This was the rare year when there were no August storms. Then things blew up.
  - [https://arstechnica.com/?p=1900145](https://arstechnica.com/?p=1900145)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-28 14:12:48+00:00
- - tags: None
 
 Successful ground test in the development of hydrogen power to cut carbon emissions.
 
@@ -108,6 +95,5 @@ Successful ground test in the development of hydrogen power to cut carbon emissi
  - [https://arstechnica.com/?p=1893887](https://arstechnica.com/?p=1893887)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-28 12:00:32+00:00
- - tags: None
 
 We tested the best multi-port, high-wattage chargers for the plug-deprived.

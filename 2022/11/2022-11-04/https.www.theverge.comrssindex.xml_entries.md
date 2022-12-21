@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Starlink is getting daytime data caps
  - [https://www.theverge.com/2022/11/4/23441356/starlink-data-caps-throttling-residential-internet-priority-basic-access](https://www.theverge.com/2022/11/4/23441356/starlink-data-caps-throttling-residential-internet-priority-basic-access)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-04 23:32:52+00:00
- - tags: None
 
 <figure>
       <img alt="A Starlink dish on top of a roof." src="https://cdn.vox-cdn.com/thumbor/PZv8XFOIddMLJYafq8Ixcr44J2A=/544x236:2420x1487/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71586931/Marketing_LandingHighspeed_Next.0.jpg" />
@@ -21,7 +20,6 @@
  - [https://www.theverge.com/2022/11/4/23441260/apple-settles-trade-secrets-lawsuit-simon-lancaster](https://www.theverge.com/2022/11/4/23441260/apple-settles-trade-secrets-lawsuit-simon-lancaster)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-04 22:25:18+00:00
- - tags: None
 
 <figure>
       <img alt="A black and white graphic showing the Apple logo" src="https://cdn.vox-cdn.com/thumbor/qTqspqHuaqYmVo009c8Eat7dnEM=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71586776/VRG_Illo_N_Barclay_1_apple.0.jpg" />
@@ -38,7 +36,6 @@
  - [https://www.theverge.com/2022/11/4/23440706/warner-bros-discovery-zaslav-hbo-max-cancellations](https://www.theverge.com/2022/11/4/23440706/warner-bros-discovery-zaslav-hbo-max-cancellations)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-04 21:56:41+00:00
- - tags: None
 
 <figure>
       <img alt="Illustration of the HBO Max wordmark on a blue, black, and tan background." src="https://cdn.vox-cdn.com/thumbor/ZI6ZNkEJABgQ3_LeDT4ma_gjXg8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71586656/acastro_STK055_06.0.jpg" />
@@ -55,7 +52,6 @@
  - [https://www.theverge.com/2022/11/4/23441119/moviepass-fraud-criminal-charges-mitch-lowe-hmny](https://www.theverge.com/2022/11/4/23441119/moviepass-fraud-criminal-charges-mitch-lowe-hmny)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-04 21:44:22+00:00
- - tags: None
 
 <figure>
       <img alt="MoviePass logo over a black and red background" src="https://cdn.vox-cdn.com/thumbor/KbY-XIFunDeMc7U7TBDsmYCqjRo=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71586608/acastro_STK465.0.jpg" />
@@ -74,7 +70,6 @@
  - [https://www.theverge.com/2022/11/4/23441136/westworld-canceled-hbo-season-four](https://www.theverge.com/2022/11/4/23441136/westworld-canceled-hbo-season-four)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-04 20:53:32+00:00
- - tags: None
 
 <figure>
       <img alt="Jeffrey Wright, dressed in contemporary clothes, gently touches the face of Evan Rachel Wood, who is dressed as a woman from the 1880s." src="https://cdn.vox-cdn.com/thumbor/jvW3si254xtXkVtLV3ix8BQ9CRg=/100x0:1180x720/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71586401/Westworld10WrightWood.0.jpg" />
@@ -93,7 +88,6 @@
  - [https://www.theverge.com/2022/11/4/23440860/ifixit-meta-quest-pro-teardown-vr-headset-unfixable-repairable](https://www.theverge.com/2022/11/4/23440860/ifixit-meta-quest-pro-teardown-vr-headset-unfixable-repairable)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-04 19:51:20+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/w7v2I85q-X8qElw8NkmYuVL-MI0=/156x0:1844x1125/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71586120/Meta_Quest_Pro_Teardown_Inside_the__1500_Portal_to_Mark_Zuckerberg_s_Metaverse_9_18_screenshot.0.png" />
@@ -110,7 +104,6 @@
  - [https://www.theverge.com/2022/11/4/23437281/fanfiction-ao3-internet-guilty-pleasures](https://www.theverge.com/2022/11/4/23437281/fanfiction-ao3-internet-guilty-pleasures)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-04 19:16:14+00:00
- - tags: None
 
 <figure>
       <img alt="Phone next to plants with the Archive of Our Own site displayed in a Google search" src="https://cdn.vox-cdn.com/thumbor/GZ7eLTZL9Tldrmm8VFuzFRc44lQ=/0x85:2040x1445/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71585943/IMG_4485.0.jpg" />
@@ -127,7 +120,6 @@
  - [https://www.theverge.com/2022/11/4/23439790/elon-musk-twitter-layoffs-trust-and-safety-teams-severance](https://www.theverge.com/2022/11/4/23439790/elon-musk-twitter-layoffs-trust-and-safety-teams-severance)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-04 19:06:07+00:00
- - tags: None
 
 <figure>
       <img alt="The Twitter logo outside the company’s headquarters in San Francisco. " src="https://cdn.vox-cdn.com/thumbor/3H-2qhKDr3IGDtKxdpeZ6UFJpRo=/0x18:4032x2706/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71585878/IMG_7265.0.jpg" />
@@ -144,7 +136,6 @@
  - [https://www.theverge.com/2022/11/4/23440882/tiktok-down-outage-no-internet-connection](https://www.theverge.com/2022/11/4/23440882/tiktok-down-outage-no-internet-connection)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-04 17:41:14+00:00
- - tags: None
 
 <figure>
       <img alt="The TikTok logo on a black background with repeating music note motifs" src="https://cdn.vox-cdn.com/thumbor/INPxgLRS3sOzwaTBZb4vaLKXSjM=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71585406/STK051_VRG_Illo_N_Barclay_2_tiktok.0.jpg" />
@@ -166,7 +157,6 @@
  - [https://www.theverge.com/23440538/apple-macos-continuity-camera-how-to-use](https://www.theverge.com/23440538/apple-macos-continuity-camera-how-to-use)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-04 16:57:33+00:00
- - tags: None
 
 <figure>
       <img alt="Hand holding iPhone showing back of phone with camera against illustrated background." src="https://cdn.vox-cdn.com/thumbor/HH6JqLTmNd67j2SmEqdIWBhdNnY=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71585156/HT015_IOS_camera.10.jpg" />
@@ -184,7 +174,6 @@
  - [https://www.theverge.com/2022/11/4/23440455/near-earth-objects-potentially-hazardous-search-city-killers](https://www.theverge.com/2022/11/4/23440455/near-earth-objects-potentially-hazardous-search-city-killers)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-04 16:06:51+00:00
- - tags: None
 
 <figure>
       <img alt="A lumpy asteroid sits against a bright backdrop of stars in space. The Sun is a brilliant point of light, illuminating part of the asteroid." src="https://cdn.vox-cdn.com/thumbor/7098cdTD0aZc_Og0rn1TuQ3dnC0=/800x0:5120x2880/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71584939/noirlab2226a.0.jpeg" />
@@ -201,7 +190,6 @@
  - [https://www.theverge.com/23438688/black-friday-2022-best-early-deals-tech-tv-apple-smart-home](https://www.theverge.com/23438688/black-friday-2022-best-early-deals-tech-tv-apple-smart-home)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-04 15:46:36+00:00
- - tags: None
 
 <figure>
       <img alt="The iPad Mini with the second-gen Apple Pencil attached." src="https://cdn.vox-cdn.com/thumbor/_j_piCBus8Z0P1uDWAujPIySKp8=/0x0:1440x960/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71584787/ipadmini.0.jpg" />
@@ -220,7 +208,6 @@
  - [https://www.theverge.com/2022/11/4/23440510/elon-musk-twitter-revenue-drop-advertising-exodus](https://www.theverge.com/2022/11/4/23440510/elon-musk-twitter-revenue-drop-advertising-exodus)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-04 15:15:22+00:00
- - tags: None
 
 <figure>
       <img alt="Image of Elon Musk with red flourishes in the background." src="https://cdn.vox-cdn.com/thumbor/3bdbqSHa8KgalacEghC5IsjUVyU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71584642/VRG_Illo_STK022_K_Radtke_Musk_Bolts.0.jpg" />
@@ -246,7 +233,6 @@
  - [https://www.theverge.com/2022/11/4/23438905/fully-apple-ipad-logitech-keyboard-mouse-razer-deal-sale-standing-desk-accessories](https://www.theverge.com/2022/11/4/23438905/fully-apple-ipad-logitech-keyboard-mouse-razer-deal-sale-standing-desk-accessories)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-04 15:07:14+00:00
- - tags: None
 
 <figure>
       <img alt="Three monitors sit atop a Fully Jarvis Bamboo Standing Desk." src="https://cdn.vox-cdn.com/thumbor/l4Ta4qS8QzEm1tPqV0TSbiqZSn0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71584602/shollister_220418_5169_0009.0.jpg" />
@@ -262,7 +248,6 @@
  - [https://www.theverge.com/23439097/sega-genesis-mini-2-astro-city-mini-v-retro-consoles](https://www.theverge.com/23439097/sega-genesis-mini-2-astro-city-mini-v-retro-consoles)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-04 15:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="A photo of the Astro City Mini V arcade cabinet." src="https://cdn.vox-cdn.com/thumbor/v2pexDvsxm8sMEEbQAAXOL4zgCs=/0x0:1050x700/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71584516/Astro_City_Mini_V_S5.0.png" />
@@ -279,7 +264,6 @@
  - [https://www.theverge.com/2022/11/4/23440304/twitter-mass-firing-class-action-lawsuit-violation-federal-warn-act-notice](https://www.theverge.com/2022/11/4/23440304/twitter-mass-firing-class-action-lawsuit-violation-federal-warn-act-notice)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-04 13:35:18+00:00
- - tags: None
 
 <figure>
       <img alt="The Twitter bird logo in black over a white and blue background" src="https://cdn.vox-cdn.com/thumbor/J7A2dpqdo5wnZSvtHaz3RxaVDbA=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71584038/acastro_STK050_03.0.jpg" />
@@ -298,7 +282,6 @@
  - [https://www.theverge.com/2022/11/4/23439416/cop27-united-nations-climate-change-conference-egypt](https://www.theverge.com/2022/11/4/23439416/cop27-united-nations-climate-change-conference-egypt)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-04 13:30:00+00:00
- - tags: None
 
 <figure>
       <img alt="Egypt President Abdel Fattah al-Sisi speaking during the UN Climate Change Conference COP26" src="https://cdn.vox-cdn.com/thumbor/tnaayuQGVH6b8ODtvx1h1ikIYVg=/0x1:7083x4723/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71584016/1236276623.0.jpg" />
@@ -315,7 +298,6 @@
  - [https://www.theverge.com/23439332/samsung-odyssey-ark-review](https://www.theverge.com/23439332/samsung-odyssey-ark-review)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-04 13:00:00+00:00
- - tags: None
 
 <p>For its $3,500 price, Samsung left a lot of ambition on the table with the Ark. Its curved, bright, and fast panel doesn’t make up for it not being as rich to look at as a cheaper OLED or as useful with multitasking as a couple of cheap monitors stuck together. </p>
   <p>
@@ -326,7 +308,6 @@
  - [https://www.theverge.com/23437497/marvel-snap-developer-design-interview-mobile-steam](https://www.theverge.com/23437497/marvel-snap-developer-design-interview-mobile-steam)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-04 12:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Key art from Marvel Snap featuring a selection of Marvel heroes" src="https://cdn.vox-cdn.com/thumbor/wX4EC7JkIXnwAUEHiBVcE6OOl88=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71583583/PC_DARK_KA2_HORIZ_DIGITAL_FINAL_SIMPLE_BLEED_09.22.2022.0.jpg" />
@@ -343,7 +324,6 @@
  - [https://www.theverge.com/2022/11/4/23439082/ipad-apple-tablets-10th-gen-buy-last-years-instead-new](https://www.theverge.com/2022/11/4/23439082/ipad-apple-tablets-10th-gen-buy-last-years-instead-new)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-04 12:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/as-3vJVGc-V4APkmlZlAGepCTzM=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71583643/vpavic_210513_4592_0209.0.jpg" />
@@ -362,7 +342,6 @@
  - [https://www.theverge.com/2022/11/4/23440218/cherry-mx-black-clear-top-nixie-switch-price-release-date-features-mechanical-keyboard](https://www.theverge.com/2022/11/4/23440218/cherry-mx-black-clear-top-nixie-switch-price-release-date-features-mechanical-keyboard)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-04 11:42:54+00:00
- - tags: None
 
 <figure>
       <img alt="A small pile of keyboard switches." src="https://cdn.vox-cdn.com/thumbor/BLlIUzsdvFkLw-PV0KvGbtUrcUw=/0x0:1250x833/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71583564/image.0.jpeg" />
@@ -379,7 +358,6 @@
  - [https://www.theverge.com/2022/11/4/23440207/substack-chat-feature-announcement-creators-twitter](https://www.theverge.com/2022/11/4/23440207/substack-chat-feature-announcement-creators-twitter)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-04 11:27:38+00:00
- - tags: None
 
 <figure>
       <img alt="A mobile phone demonstrating Substack’s new Chat feature. The screen displays a new thread with pictures of coffe and a message that read “Cozy, lazy Sunday: AMA!” (Ask me anything)." src="https://cdn.vox-cdn.com/thumbor/tufnFd4kzEBhaJLcGSCMdD1Nub8=/0x0:3200x2133/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71583529/Substack_Chat.0.jpg" />
@@ -398,7 +376,6 @@
  - [https://www.theverge.com/2022/11/3/23439802/elon-musks-twitter-layoffs-start-friday-november-4](https://www.theverge.com/2022/11/3/23439802/elon-musks-twitter-layoffs-start-friday-november-4)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-04 00:54:43+00:00
- - tags: None
 
 <figure>
       <img alt="Illustration showing Elon Musk in profile, in front of Twitter logos with a dollar sign inserted in place of the bird’s eye." src="https://cdn.vox-cdn.com/thumbor/fZGSlVBd6cVr4uyBMBu5ZbMiL30=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71582522/STK171_VRG_Illo_6_Normand_ElonMusk_06.0.jpg" />

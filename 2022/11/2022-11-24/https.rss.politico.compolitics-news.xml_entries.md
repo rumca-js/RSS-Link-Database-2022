@@ -1,9 +1,8 @@
-# Source Politico, Source URL:https://rss.politico.com/politics-news.xml
+# Source Politico, Source URL:https://rss.politico.com/politics-news.xml, Source language: en-US
 
 ## Musk says granting ‘amnesty’ to suspended Twitter accounts
  - [https://www.politico.com/news/2022/11/24/musk-twitter-suspended-00070818](https://www.politico.com/news/2022/11/24/musk-twitter-suspended-00070818)
  - RSS feed: https://rss.politico.com/politics-news.xml
  - date published: 2022-11-24 16:40:53+00:00
- - tags: None
 
 Online safety experts predict the move will spur a rise in harassment, hate speech and misinformation.

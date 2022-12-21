@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## Qualcomm’s Snapdragon 8 Gen 2 chip leans on AI to supercharge smartphones
  - [https://www.pcworld.com/article/1379806/qualcomm-prioritizes-ai-in-snapdragon-8-gen-2-smartphone-chip.html](https://www.pcworld.com/article/1379806/qualcomm-prioritizes-ai-in-snapdragon-8-gen-2-smartphone-chip.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-15 23:00:35+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>With AI capabilities &mdash; and not just compute power &mdash; becoming key features of smartphones and even PCs, Qualcomm&rsquo;s new Snapdragon 8 Gen 2 smartphone chip leans heavily on how AI can improve photos and your other mobile experiences, executives said. Key additions include real-time hardware ray tracing, the ability to sense and optimize different &ldquo;layers&rdquo; in your photos, and massive connectivity upgrades whose throughput will likely outpace your home Internet connection.</p>
@@ -104,7 +103,6 @@ CPUs and Processors, Smartphones</div>
  - [https://www.pcworld.com/article/1380916/razer-software-update-transforms-blade-14-ports-to-usb4.html](https://www.pcworld.com/article/1380916/razer-software-update-transforms-blade-14-ports-to-usb4.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-15 20:10:10+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you&rsquo;ve bought a 2022 edition of the Razer Blade 14, you&rsquo;re in for an unexpected bonus: a firmware upgrade that will transform the laptop&rsquo;s USB-C ports into full-fledged USB4 ports, upping their throughput significantly.</p>
@@ -134,7 +132,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/1380608/is-this-dell-laptop-hiding-the-future-of-pc-memory.html](https://www.pcworld.com/article/1380608/is-this-dell-laptop-hiding-the-future-of-pc-memory.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-15 15:44:24+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you look at the exterior of the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.dell.com/en-us/shop/dell-laptops/precision-7670-workstation/spd/precision-16-7670-laptop/xctop7670usvp&amp;xcust=2-1-1380608-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Dell Precision 7670</a>, you might mistake it for a chunky corporate laptop from 15 years ago. There&rsquo;s nothing in the dull grey exterior that indicates it&rsquo;s hiding technology that might just revolutionize the PC market. But crack that sucker open with Gordon in the latest PCWorld video, and you might just be shocked at what&rsquo;s hiding inside. </p>
@@ -162,7 +159,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/1380523/this-gigabyte-laptop-is-powerful-fast-and-551-off.html](https://www.pcworld.com/article/1380523/this-gigabyte-laptop-is-powerful-fast-and-551-off.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-15 15:27:22+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Calling all gamers! We&rsquo;ve got a great deal for you today. eBay&rsquo;s selling the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.ebay.com/itm/125534677240?mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5338189085&amp;toolid=10001&amp;customid=111346X1569483X3ef818195ba8f573254f6bc79f3324ed&amp;xcust=2-1-1380523-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Gigabyte Aorus for $1,099.99</a>, which is a savings of $551. Not only does this machine have powerful components, but the display&rsquo;s bezels are so skinny they&rsquo;re practically non-existent. Let&rsquo;s crack open the hood and take a look then, shall we?</p>
@@ -183,7 +179,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/1379747/tested-nvidia-geforce-rtx-4080-facts.html](https://www.pcworld.com/article/1379747/tested-nvidia-geforce-rtx-4080-facts.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-15 14:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Nvidia&rsquo;s new GeForce RTX 4080 Founders Edition hits stores tomorrow, lightning-fast performance and a massive new price tag in tow. While last generation&rsquo;s <a href="https://www.pcworld.com/article/393472/nvidia-geforce-rtx-3080-founders-edition-review.html">awesome RTX 3080</a> cost $700 at launch, delivering a monument 60 to 80 percent performance uplift over its predecessor, this new model is releasing with a staggering $1,200 price tag. Yes, that&rsquo;s right: a $500 (or <em>71 percent</em>) increase over the cost of its predecessor. For roughly 30 percent more performance. </p>
@@ -341,7 +336,6 @@ Gaming, GPUs</div>
  - [https://www.pcworld.com/article/1378383/nvidia-geforce-rtx-4080-content-creation-review.html](https://www.pcworld.com/article/1378383/nvidia-geforce-rtx-4080-content-creation-review.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-15 14:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>The Nvidia GeForce RTX 4080&rsquo;s slow-paced announcement and eventual launch has been&hellip; a fascinating road. From its <a href="https://www.pcworld.com/article/1354391/nvidia-cancels-the-controversial-rtx-4080-12gb.html">mis-named little brother getting &ldquo;unlaunched&rdquo;</a> to the RTX 4080 Founders Edition being the same size as <a href="https://www.pcworld.com/article/1348123/nvidia-geforce-rtx-4090-review-ada-lovelace.html">the massive RTX 4090</a> for some reason, to the <a href="https://www.pcworld.com/article/1372988/heres-what-we-know-about-the-geforce-rtx-4090-12vhpwr-cables-melting.html">melting 12VHPWR power connectors</a>&mdash;which are still on this card, yes. Nvidia has quite the PR battle with the $1,200 GeForce RTX 4080, but if you ignore all the noise, does this new card deliver the goods for content creators? </p>
@@ -629,7 +623,6 @@ GPUs</div>
  - [https://www.pcworld.com/article/1378698/these-jbl-bluetooth-earbuds-are-just-50-with-this-early-black-friday-discount.html](https://www.pcworld.com/article/1378698/these-jbl-bluetooth-earbuds-are-just-50-with-this-early-black-friday-discount.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-15 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Noise-canceling headphones are a necessity for anyone that works in a busy office. The only problem? They&rsquo;re often pretty expensive. This is why, if you want&nbsp;<a href="https://shop.pcworld.com/sales/jbl-live-free-nc-true-wireless-in-ear-noise-cancelling-bluetooth-headphones?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=jbl-live-free-nc-true-wireless-in-ear-noise-cancelling-bluetooth-headphones&amp;utm_term=scsf-557280&amp;utm_content=a0x1P000004yYqiQAE&amp;scsonar=1" rel="noreferrer noopener" target="_blank">budget-friendly Bluetooth earbuds</a>, consider&nbsp;the JBL Live Free NC+, which is on sale for just $49.99 during our Every Friday is Black Friday Sale while supplies last.</p>

@@ -1,10 +1,9 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml
+# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
 
 ## UK Snooker Championship 2022: Neil Robertson and John Higgins beaten in first round
  - [https://www.bbc.co.uk/sport/snooker/63615988?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/snooker/63615988?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 23:44:31+00:00
- - tags: None
 
 Neil Robertson and John Higgins are beaten on another day of shocks in the UK Championship first round.
 
@@ -12,7 +11,6 @@ Neil Robertson and John Higgins are beaten on another day of shocks in the UK Ch
  - [https://www.bbc.co.uk/sport/football/63619074?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63619074?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 23:32:45+00:00
- - tags: None
 
 Cristiano Ronaldo says he feels "betrayed" by Manchester United and that he is being forced out of the club.
 
@@ -20,7 +18,6 @@ Cristiano Ronaldo says he feels "betrayed" by Manchester United and that he is b
  - [https://www.bbc.co.uk/news/uk-politics-63615653?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63615653?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 22:51:18+00:00
- - tags: None
 
 The home secretary will finalise a deal with the French to try to curb Channel crossings in small boats.
 
@@ -28,7 +25,6 @@ The home secretary will finalise a deal with the French to try to curb Channel c
  - [https://www.bbc.co.uk/news/business-63614231?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63614231?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 22:00:51+00:00
- - tags: None
 
 Chancellor Jeremy Hunt's key message this week will be about restoring stability and controlling price rises.
 
@@ -36,7 +32,6 @@ Chancellor Jeremy Hunt's key message this week will be about restoring stability
  - [https://www.bbc.co.uk/sport/football/63609801?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63609801?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 21:24:18+00:00
- - tags: None
 
 As the Premier League takes its World Cup break, BBC Sport looks at the state of play and who could come out flying on Boxing Day.
 
@@ -44,7 +39,6 @@ As the Premier League takes its World Cup break, BBC Sport looks at the state of
  - [https://www.bbc.co.uk/sport/rugby-league/63613097?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-league/63613097?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 20:10:16+00:00
- - tags: None
 
 England centre Tara-Jane Stanley says they are no longer starstruck by facing the southern hemisphere giants at the Rugby League World Cup.
 
@@ -52,7 +46,6 @@ England centre Tara-Jane Stanley says they are no longer starstruck by facing th
  - [https://www.bbc.co.uk/news/entertainment-arts-63615618?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63615618?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 20:08:58+00:00
- - tags: None
 
 Judge Shirley Ballas says the sportsman has become one of the nation's favourite entertainers.
 
@@ -60,7 +53,6 @@ Judge Shirley Ballas says the sportsman has become one of the nation's favourite
  - [https://www.bbc.co.uk/sport/football/63617598?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63617598?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 19:49:41+00:00
- - tags: None
 
 Portugal midfielder Bruno Fernandes is "not happy" about the circumstances surrounding next month's World Cup in Qatar.
 
@@ -68,7 +60,6 @@ Portugal midfielder Bruno Fernandes is "not happy" about the circumstances surro
  - [https://www.bbc.co.uk/sport/formula1/63617916?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/formula1/63617916?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 19:49:21+00:00
- - tags: None
 
 George Russell takes a maiden grand prix victory - and a first for Mercedes in 2022 - as Max Verstappen was penalised for a collision with Lewis Hamilton in Sao Paulo.
 
@@ -76,7 +67,6 @@ George Russell takes a maiden grand prix victory - and a first for Mercedes in 2
  - [https://www.bbc.co.uk/sport/football/63531141?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63531141?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 18:57:18+00:00
- - tags: None
 
 Manchester United snatch a dramatic winner through Alejandro Garnacho as they beat Fulham in a thrilling final Premier League match before the World Cup.
 
@@ -84,7 +74,6 @@ Manchester United snatch a dramatic winner through Alejandro Garnacho as they be
  - [https://www.bbc.co.uk/news/world-us-canada-63618188?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63618188?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 18:35:15+00:00
- - tags: None
 
 Donald Trump and Mitch McConnell get heat from colleagues after the Democrats keep control of the Senate.
 
@@ -92,7 +81,6 @@ Donald Trump and Mitch McConnell get heat from colleagues after the Democrats ke
  - [https://www.bbc.co.uk/news/entertainment-arts-63616438?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63616438?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 18:06:38+00:00
- - tags: None
 
 The hosts of the podcast, downloaded more than 430m times, hint there's something else to come.
 
@@ -100,7 +88,6 @@ The hosts of the podcast, downloaded more than 430m times, hint there's somethin
  - [https://www.bbc.co.uk/news/uk-wales-63616908?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-63616908?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 16:58:11+00:00
- - tags: None
 
 Gwent Police is investigated after "abhorrent" messages between serving and retired officers emerged.
 
@@ -108,7 +95,6 @@ Gwent Police is investigated after "abhorrent" messages between serving and reti
  - [https://www.bbc.co.uk/sport/football/63531142?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63531142?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 16:57:47+00:00
- - tags: None
 
 Danny Ings scores twice as Aston Villa beat Brighton for their first Premier League away win of the season.
 
@@ -116,7 +102,6 @@ Danny Ings scores twice as Aston Villa beat Brighton for their first Premier Lea
  - [https://www.bbc.co.uk/sport/rugby-league/63615726?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-league/63615726?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 16:44:58+00:00
- - tags: None
 
 England score 22 tries as they overwhelm Wales to set up a Wheelchair Rugby League World Cup final against France.
 
@@ -124,7 +109,6 @@ England score 22 tries as they overwhelm Wales to set up a Wheelchair Rugby Leag
  - [https://www.bbc.co.uk/sport/rugby-union/63616492?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63616492?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 16:18:44+00:00
- - tags: None
 
 Scotland fail to end a 117-year wait for a first ever win against New Zealand as the beleaguered All Blacks fight back to win a thriller at Murrayfield.
 
@@ -132,7 +116,6 @@ Scotland fail to end a 117-year wait for a first ever win against New Zealand as
  - [https://www.bbc.co.uk/sport/cricket/63616424?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/63616424?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 15:58:30+00:00
- - tags: None
 
 In becoming double world champions by winning the 2022 T20 World Cup, England have secured their legacy as an all-time great side.
 
@@ -140,7 +123,6 @@ In becoming double world champions by winning the 2022 T20 World Cup, England ha
  - [https://www.bbc.co.uk/news/uk-england-somerset-63616806?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-somerset-63616806?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 15:22:53+00:00
- - tags: None
 
 Investigations will begin after a construction worker died at the Hinkley Point C nuclear power station site.
 
@@ -148,7 +130,6 @@ Investigations will begin after a construction worker died at the Hinkley Point 
  - [https://www.bbc.co.uk/news/world-europe-63616013?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63616013?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 15:06:31+00:00
- - tags: None
 
 Ukraine moves quickly to maintain order in Kherson, facing Russian troops across the Dnipro river.
 
@@ -156,7 +137,6 @@ Ukraine moves quickly to maintain order in Kherson, facing Russian troops across
  - [https://www.bbc.co.uk/news/world-europe-63615076?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63615076?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 14:56:23+00:00
- - tags: None
 
 The blast happened in a busy shopping area in the heart of the Turkish city.
 
@@ -164,7 +144,6 @@ The blast happened in a busy shopping area in the heart of the Turkish city.
  - [https://www.bbc.co.uk/sport/av/cricket/63616028?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/cricket/63616028?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 14:45:28+00:00
- - tags: None
 
 Watch highlights as Ben Stokes, Sam Curran and Adil Rashid star in helping England claim their second T20 World Cup title with a five-wicket victory over Pakistan in the final.
 
@@ -172,7 +151,6 @@ Watch highlights as Ben Stokes, Sam Curran and Adil Rashid star in helping Engla
  - [https://www.bbc.co.uk/sport/cricket/63613932?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/63613932?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 14:42:05+00:00
- - tags: None
 
 Captain Jos Buttler hails Ben Stokes as the "ultimate competitor" after the all-rounder takes England to T20 World Cup glory in Melbourne.
 
@@ -180,7 +158,6 @@ Captain Jos Buttler hails Ben Stokes as the "ultimate competitor" after the all-
  - [https://www.bbc.co.uk/sport/football/63531134?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63531134?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 14:37:38+00:00
- - tags: None
 
 Two-goal Ashley Barnes and Anass Zaroury score as Burnley hammer Blackburn Rovers to return to the top of the Championship.
 
@@ -188,7 +165,6 @@ Two-goal Ashley Barnes and Anass Zaroury score as Burnley hammer Blackburn Rover
  - [https://www.bbc.co.uk/sport/av/cricket/63616025?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/cricket/63616025?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 12:48:40+00:00
- - tags: None
 
 Watch keys moments from the T20 World Cup final as Ben Stokes and Moeen Ali capitalise on an injury to Pakistan's star bowler Shaheen Afridi to swing the match in England's favour.
 
@@ -196,7 +172,6 @@ Watch keys moments from the T20 World Cup final as Ben Stokes and Moeen Ali capi
  - [https://www.bbc.co.uk/news/uk-politics-63614124?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63614124?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 12:48:30+00:00
- - tags: None
 
 The chancellor also tells the BBC he wants to make sure any recession is as short and shallow as possible.
 
@@ -204,7 +179,6 @@ The chancellor also tells the BBC he wants to make sure any recession is as shor
  - [https://www.bbc.co.uk/sport/rugby-union/63613082?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63613082?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 12:21:52+00:00
- - tags: None
 
 In her final BBC Sport column of the Rugby World Cup, England prop Shaunagh Brown discusses final defeat and how she will bounce back.
 
@@ -212,7 +186,6 @@ In her final BBC Sport column of the Rugby World Cup, England prop Shaunagh Brow
  - [https://www.bbc.co.uk/sport/cricket/63613694?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/63613694?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 11:55:59+00:00
- - tags: None
 
 England beat Pakistan in a pulsating final in Melbourne to win the Men's T20 World Cup and become double world champions.
 
@@ -220,7 +193,6 @@ England beat Pakistan in a pulsating final in Melbourne to win the Men's T20 Wor
  - [https://www.bbc.co.uk/news/world-europe-63615008?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63615008?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 11:50:35+00:00
- - tags: None
 
 The BBC's Jeremy Bowen reports from the city newly liberated from Russian control.
 
@@ -228,7 +200,6 @@ The BBC's Jeremy Bowen reports from the city newly liberated from Russian contro
  - [https://www.bbc.co.uk/sport/av/cricket/63614889?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/cricket/63614889?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 11:49:33+00:00
- - tags: None
 
 Watch as Ben Stokes scores the winning run to give England their second T20 World Cup title as they beat Pakistan by five wickets in Melbourne.
 
@@ -236,7 +207,6 @@ Watch as Ben Stokes scores the winning run to give England their second T20 Worl
  - [https://www.bbc.co.uk/news/world-63611745?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-63611745?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 11:41:58+00:00
- - tags: None
 
 BBC Analysis Editor Ros Atkins looks at the years of corruption allegations around Fifa awarding the 2022 World Cup to Qatar.
 
@@ -244,7 +214,6 @@ BBC Analysis Editor Ros Atkins looks at the years of corruption allegations arou
  - [https://www.bbc.co.uk/news/technology-63612489?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63612489?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 11:25:59+00:00
- - tags: None
 
 How a crypto empire built on video game battles and beanbags came crashing down.
 
@@ -252,7 +221,6 @@ How a crypto empire built on video game battles and beanbags came crashing down.
  - [https://www.bbc.co.uk/news/uk-england-manchester-63614796?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-manchester-63614796?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 10:57:02+00:00
- - tags: None
 
 A woman is in a stable condition in hospital after being injured in a Manchester hotel, police say.
 
@@ -260,7 +228,6 @@ A woman is in a stable condition in hospital after being injured in a Manchester
  - [https://www.bbc.co.uk/sport/av/cricket/63614886?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/cricket/63614886?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 10:39:19+00:00
- - tags: None
 
 Watch as Haris Rauf gets the huge wicket of England captain Jos Buttler for 26 at the T20 World Cup final in Melbourne.
 
@@ -268,7 +235,6 @@ Watch as Haris Rauf gets the huge wicket of England captain Jos Buttler for 26 a
  - [https://www.bbc.co.uk/sport/football/63613601?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63613601?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 10:16:49+00:00
- - tags: None
 
 West Ham are backing manager David Moyes to pull them out of their current slump in form.
 
@@ -276,7 +242,6 @@ West Ham are backing manager David Moyes to pull them out of their current slump
  - [https://www.bbc.co.uk/sport/av/cricket/63614142?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/cricket/63614142?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 09:59:57+00:00
- - tags: None
 
 Sam Curran picks up the wickets of Mohammad Rizwan, Shan Masood and Mohammad Nawaz to finish with "outstanding" figures of 3-12 at the T20 World Cup final in Melbourne.
 
@@ -284,7 +249,6 @@ Sam Curran picks up the wickets of Mohammad Rizwan, Shan Masood and Mohammad Naw
  - [https://www.bbc.co.uk/sport/av/cricket/63614139?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/cricket/63614139?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 09:14:57+00:00
- - tags: None
 
 Watch as England's Adil Rashid takes the "massive wicket" of Pakistan captain Babar Azam for 32 at the T20 World Cup final in Melbourne.
 
@@ -292,7 +256,6 @@ Watch as England's Adil Rashid takes the "massive wicket" of Pakistan captain Ba
  - [https://www.bbc.co.uk/sport/av/cricket/63614136?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/cricket/63614136?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 08:40:46+00:00
- - tags: None
 
 Watch as England's Sam Curran bowls Pakistan's Mohammad Rizwan for 15 following an inside edge for the first wicket of the T20 World Cup final in Melbourne.
 
@@ -300,7 +263,6 @@ Watch as England's Sam Curran bowls Pakistan's Mohammad Rizwan for 15 following 
  - [https://www.bbc.co.uk/news/uk-wales-63600184?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-63600184?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 08:03:26+00:00
- - tags: None
 
 Nicolas Whitehead has decided to remove the sign for the fictitious airport with a large fanbase.
 
@@ -308,7 +270,6 @@ Nicolas Whitehead has decided to remove the sign for the fictitious airport with
  - [https://www.bbc.co.uk/sport/mixed-martial-arts/63610015?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/mixed-martial-arts/63610015?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 07:52:15+00:00
- - tags: None
 
 Alex Pereira knocks out Israel Adesanya to become middleweight champion at UFC 281.
 
@@ -316,7 +277,6 @@ Alex Pereira knocks out Israel Adesanya to become middleweight champion at UFC 2
  - [https://www.bbc.co.uk/news/uk-england-birmingham-63601545?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-birmingham-63601545?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 07:07:45+00:00
- - tags: None
 
 The northbound carriageway will be closed from junction seven for Great Barr on weekdays.
 
@@ -324,7 +284,6 @@ The northbound carriageway will be closed from junction seven for Great Barr on 
  - [https://www.bbc.co.uk/sport/rugby-union/63613022?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63613022?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 06:48:00+00:00
- - tags: None
 
 England head coach Simon Middleton does not think he will "ever get over" losing a second successive Rugby World Cup final to New Zealand.
 
@@ -332,7 +291,6 @@ England head coach Simon Middleton does not think he will "ever get over" losing
  - [https://www.bbc.co.uk/news/world-europe-63542636?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63542636?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 05:31:51+00:00
- - tags: None
 
 Swiss migrant workers' children want an apology for a policy they say tore whole families apart.
 
@@ -340,7 +298,6 @@ Swiss migrant workers' children want an apology for a policy they say tore whole
  - [https://www.bbc.co.uk/news/world-us-canada-63612410?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63612410?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 05:11:14+00:00
- - tags: None
 
 The results for Joe Biden's Democrats amount to the best midterm performance for a sitting party in 20 years.
 
@@ -348,7 +305,6 @@ The results for Joe Biden's Democrats amount to the best midterm performance for
  - [https://www.bbc.co.uk/news/uk-63609595?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63609595?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 03:07:31+00:00
- - tags: None
 
 Royalty, politicians and faith leaders will lay wreaths in a service at the Cenotaph in central London.
 
@@ -356,7 +312,6 @@ Royalty, politicians and faith leaders will lay wreaths in a service at the Ceno
  - [https://www.bbc.co.uk/news/health-63256505?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/health-63256505?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 01:54:00+00:00
- - tags: None
 
 Why have some people never had Covid and can that lead to better vaccines?
 
@@ -364,7 +319,6 @@ Why have some people never had Covid and can that lead to better vaccines?
  - [https://www.bbc.co.uk/news/world-asia-india-63594119?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-india-63594119?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 01:06:31+00:00
- - tags: None
 
 Mahendran and Deepa tied the knot at the Institute of Mental Health in Chennai city last month.
 
@@ -372,7 +326,6 @@ Mahendran and Deepa tied the knot at the Institute of Mental Health in Chennai c
  - [https://www.bbc.co.uk/news/entertainment-arts-63574453?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63574453?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 00:50:21+00:00
- - tags: None
 
 The UK's singles chart turns 70 this week - but the countdown has not always gone smoothly.
 
@@ -380,7 +333,6 @@ The UK's singles chart turns 70 this week - but the countdown has not always gon
  - [https://www.bbc.co.uk/sport/formula1/63611036?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/formula1/63611036?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 00:23:52+00:00
- - tags: None
 
 George Russell says his victory in the Sao Paulo Grand Prix sprint race was a "milestone" for Mercedes - and that he and Lewis Hamilton would work together to try to repeat it in Sunday's grand prix.
 
@@ -388,7 +340,6 @@ George Russell says his victory in the Sao Paulo Grand Prix sprint race was a "m
  - [https://www.bbc.co.uk/news/world-africa-63597223?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-africa-63597223?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 00:06:09+00:00
- - tags: None
 
 As the wildlife frontline becomes more dangerous, southern African nations want an end to the ivory ban.
 
@@ -396,7 +347,6 @@ As the wildlife frontline becomes more dangerous, southern African nations want 
  - [https://www.bbc.co.uk/news/world-63601916?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-63601916?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 00:01:09+00:00
- - tags: None
 
 Brian Hough was only 18 when he fought in the Korean War but 70 years on he's trying to keep the memory of fallen soldiers alive.
 
@@ -404,6 +354,5 @@ Brian Hough was only 18 when he fought in the Korean War but 70 years on he's tr
  - [https://www.bbc.co.uk/sport/av/football/63611844?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63611844?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-13 00:00:16+00:00
- - tags: None
 
 Match of the Day's Alan Shearer tells fellow pundit Ian Wright and Gary Lineker how a "magnificent" Brentford outperformed Manchester City during their dramatic 2-1 win.

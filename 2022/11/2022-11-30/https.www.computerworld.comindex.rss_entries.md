@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## BrandPost: AIOps: The Path to a Better IT Paradigm
  - [https://www.computerworld.com/article/3681888/aiops-the-path-to-a-better-it-paradigm.html#tk.rss_all](https://www.computerworld.com/article/3681888/aiops-the-path-to-a-better-it-paradigm.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-30 20:25:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3681849/forget-rip-and-replace-innovate-in-place.html#tk.rss_all](https://www.computerworld.com/article/3681849/forget-rip-and-replace-innovate-in-place.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-30 20:24:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -24,7 +22,6 @@
  - [https://www.computerworld.com/article/3681829/the-underrated-elements-of-cyber-resiliency.html#tk.rss_all](https://www.computerworld.com/article/3681829/the-underrated-elements-of-cyber-resiliency.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-30 20:23:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -34,7 +31,6 @@
  - [https://www.computerworld.com/article/3681098/ibm-maersk-scuttle-blockchain-based-tradelens-suply-chain-platform.html#tk.rss_all](https://www.computerworld.com/article/3681098/ibm-maersk-scuttle-blockchain-based-tradelens-suply-chain-platform.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-30 17:15:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -44,7 +40,6 @@
  - [https://www.computerworld.com/article/3681098/ibm-maersk-scuttle-blockchain-based-tradelens-supply-chain-platform.html#tk.rss_all](https://www.computerworld.com/article/3681098/ibm-maersk-scuttle-blockchain-based-tradelens-supply-chain-platform.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-30 17:15:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -54,7 +49,6 @@
  - [https://www.computerworld.com/article/3681451/aws-brings-verified-access-security-to-the-apple-enterprise.html#tk.rss_all](https://www.computerworld.com/article/3681451/aws-brings-verified-access-security-to-the-apple-enterprise.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-30 16:44:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -64,7 +58,6 @@
  - [https://www.computerworld.com/article/3681654/android-sharing.html#tk.rss_all](https://www.computerworld.com/article/3681654/android-sharing.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-30 11:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -74,7 +67,6 @@
  - [https://www.computerworld.com/article/3681651/the-new-way-to-hire-tech-workers-from-the-bottom-up.html#tk.rss_all](https://www.computerworld.com/article/3681651/the-new-way-to-hire-tech-workers-from-the-bottom-up.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-30 11:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

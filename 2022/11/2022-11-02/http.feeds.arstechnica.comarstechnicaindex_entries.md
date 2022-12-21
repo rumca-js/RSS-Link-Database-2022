@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## After nearly 50 years, FBI identifies “Lady of the Dunes” murder victim
  - [https://arstechnica.com/?p=1894476](https://arstechnica.com/?p=1894476)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-02 22:09:09+00:00
- - tags: None
 
 Tennessee native Ruth Marie Terry was 37 years old at the time of her 1974 murder.
 
@@ -12,7 +11,6 @@ Tennessee native Ruth Marie Terry was 37 years old at the time of her 1974 murde
  - [https://arstechnica.com/?p=1894475](https://arstechnica.com/?p=1894475)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-02 21:33:00+00:00
- - tags: None
 
 Find "anything you've seen, said, or heard" using 3,750x compression.
 
@@ -20,7 +18,6 @@ Find "anything you've seen, said, or heard" using 3,750x compression.
  - [https://arstechnica.com/?p=1894589](https://arstechnica.com/?p=1894589)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-02 21:02:00+00:00
- - tags: None
 
 Try some of Android's quirky games with mice, keyboards, and bigger screens.
 
@@ -28,7 +25,6 @@ Try some of Android's quirky games with mice, keyboards, and bigger screens.
  - [https://arstechnica.com/?p=1894557](https://arstechnica.com/?p=1894557)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-02 20:43:33+00:00
- - tags: None
 
 CPUs have been trickling out of Intel, but still waiting for volume shipments.
 
@@ -36,7 +32,6 @@ CPUs have been trickling out of Intel, but still waiting for volume shipments.
  - [https://arstechnica.com/?p=1894603](https://arstechnica.com/?p=1894603)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-02 20:27:28+00:00
- - tags: None
 
 Research on RSV vaccines dragged after a trial in the 60s went tragically wrong.
 
@@ -44,7 +39,6 @@ Research on RSV vaccines dragged after a trial in the 60s went tragically wrong.
  - [https://arstechnica.com/?p=1894447](https://arstechnica.com/?p=1894447)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-02 20:17:39+00:00
- - tags: None
 
 Dealmaster also has gaming mice, smart home devices, MacBooks, and Roomba robot vacuums.
 
@@ -52,7 +46,6 @@ Dealmaster also has gaming mice, smart home devices, MacBooks, and Roomba robot 
  - [https://arstechnica.com/?p=1894598](https://arstechnica.com/?p=1894598)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-02 19:57:30+00:00
- - tags: None
 
 Users can now label sexy posts as "mature" or having "sexual themes."
 
@@ -60,7 +53,6 @@ Users can now label sexy posts as "mature" or having "sexual themes."
  - [https://arstechnica.com/?p=1894518](https://arstechnica.com/?p=1894518)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-02 17:17:51+00:00
- - tags: None
 
 "We cannot let you bring your war here."
 
@@ -68,7 +60,6 @@ Users can now label sexy posts as "mature" or having "sexual themes."
  - [https://arstechnica.com/?p=1894483](https://arstechnica.com/?p=1894483)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-02 17:06:23+00:00
- - tags: None
 
 An intriguing idea, but Embedded DisplayPort limits compatibility.
 
@@ -76,7 +67,6 @@ An intriguing idea, but Embedded DisplayPort limits compatibility.
  - [https://arstechnica.com/?p=1894474](https://arstechnica.com/?p=1894474)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-02 16:09:59+00:00
- - tags: None
 
 Early next month, you can experience sublime subterranean chaos—with sprites.
 
@@ -84,7 +74,6 @@ Early next month, you can experience sublime subterranean chaos—with sprites.
  - [https://arstechnica.com/?p=1894504](https://arstechnica.com/?p=1894504)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-02 16:03:53+00:00
- - tags: None
 
 Musk: Twitter will consult civil rights groups before restoring any banned users.
 
@@ -92,7 +81,6 @@ Musk: Twitter will consult civil rights groups before restoring any banned users
  - [https://arstechnica.com/?p=1894491](https://arstechnica.com/?p=1894491)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-02 15:03:40+00:00
- - tags: None
 
 Six games available for preorder alongside headset on Nov. 15.
 
@@ -100,7 +88,6 @@ Six games available for preorder alongside headset on Nov. 15.
  - [https://arstechnica.com/?p=1893966](https://arstechnica.com/?p=1893966)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-02 14:11:57+00:00
- - tags: None
 
 "This, by the way, is very high on their top risk list."
 
@@ -108,7 +95,6 @@ Six games available for preorder alongside headset on Nov. 15.
  - [https://arstechnica.com/?p=1894459](https://arstechnica.com/?p=1894459)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-02 13:33:56+00:00
- - tags: None
 
 Senate committee chair wants FTC to examine software sold by Texas-based RealPage.
 
@@ -116,7 +102,6 @@ Senate committee chair wants FTC to examine software sold by Texas-based RealPag
  - [https://arstechnica.com/?p=1894430](https://arstechnica.com/?p=1894430)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-02 13:00:33+00:00
- - tags: None
 
 The automaker is battling the dendrite problem with a polymer fiber coating.
 
@@ -124,6 +109,5 @@ The automaker is battling the dendrite problem with a polymer fiber coating.
  - [https://arstechnica.com/?p=1891639](https://arstechnica.com/?p=1891639)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-02 11:30:24+00:00
- - tags: None
 
 Are games art? Who cares. Exhibit is more interested in how they bring us together.

@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## Three tech trends on the verge of a breakthrough in 2023
  - [https://www.zdnet.com/article/three-tech-trends-on-the-verge-of-a-breakthrough-in-2023/#ftag=RSSbaffb68](https://www.zdnet.com/article/three-tech-trends-on-the-verge-of-a-breakthrough-in-2023/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-20 23:00:21+00:00
- - tags: None
 
 The next year will see big leaps ahead for some technologies, and tiny but important steps for others.
 
@@ -12,7 +11,6 @@ The next year will see big leaps ahead for some technologies, and tiny but impor
  - [https://www.zdnet.com/article/amazon-spreads-joy-while-firing-10000-people/#ftag=RSSbaffb68](https://www.zdnet.com/article/amazon-spreads-joy-while-firing-10000-people/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-20 13:00:20+00:00
- - tags: None
 
 The finest of plans sometimes come up against the most awkward interference.
 
@@ -20,7 +18,6 @@ The finest of plans sometimes come up against the most awkward interference.
  - [https://www.zdnet.com/article/i-scoured-amazon-for-ridiculous-travel-gadgets-i-didnt-expect-this/#ftag=RSSbaffb68](https://www.zdnet.com/article/i-scoured-amazon-for-ridiculous-travel-gadgets-i-didnt-expect-this/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-20 12:00:20+00:00
- - tags: None
 
 Is it brilliant? Is it absurd? The answers may be yes and yes.
 
@@ -28,6 +25,5 @@ Is it brilliant? Is it absurd? The answers may be yes and yes.
  - [https://www.zdnet.com/article/i-scoured-amazon-for-ridiculous-travel-gadgets-i-never-thought-id-see-this/#ftag=RSSbaffb68](https://www.zdnet.com/article/i-scoured-amazon-for-ridiculous-travel-gadgets-i-never-thought-id-see-this/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-20 12:00:00+00:00
- - tags: None
 
 Is it brilliant? Is it absurd? The answers may be yes and yes.

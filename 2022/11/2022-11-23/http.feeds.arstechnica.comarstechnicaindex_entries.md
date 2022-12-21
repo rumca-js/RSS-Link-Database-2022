@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## Porsche 911 Carrera T first drive: Simplify, then add the right options
  - [https://arstechnica.com/?p=1899450](https://arstechnica.com/?p=1899450)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-23 23:01:12+00:00
- - tags: None
 
 Porsche's lighter, simpler, performance-oriented 911 benefits from unique options.
 
@@ -12,7 +11,6 @@ Porsche's lighter, simpler, performance-oriented 911 benefits from unique option
  - [https://arstechnica.com/?p=1899965](https://arstechnica.com/?p=1899965)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-23 20:59:00+00:00
- - tags: None
 
 Pro-Kremlin group called Killnet takes credit.
 
@@ -20,7 +18,6 @@ Pro-Kremlin group called Killnet takes credit.
  - [https://arstechnica.com/?p=1899919](https://arstechnica.com/?p=1899919)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-23 19:54:30+00:00
- - tags: None
 
 Minerals that normally get altered in watery environments are still present.
 
@@ -28,7 +25,6 @@ Minerals that normally get altered in watery environments are still present.
  - [https://arstechnica.com/?p=1899931](https://arstechnica.com/?p=1899931)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-23 19:26:18+00:00
- - tags: None
 
 Nurse wanted to stuff the amputated foot and use it to scare children.
 
@@ -36,7 +32,6 @@ Nurse wanted to stuff the amputated foot and use it to scare children.
  - [https://arstechnica.com/?p=1899916](https://arstechnica.com/?p=1899916)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-23 18:34:41+00:00
- - tags: None
 
 Violence erupts at Foxconn plant in Zhengzhou as COVID cases rise across country.
 
@@ -44,7 +39,6 @@ Violence erupts at Foxconn plant in Zhengzhou as COVID cases rise across country
  - [https://arstechnica.com/?p=1899896](https://arstechnica.com/?p=1899896)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-23 18:12:16+00:00
- - tags: None
 
 New data decisively favors shockwave-generated radiation in the jets.
 
@@ -52,7 +46,6 @@ New data decisively favors shockwave-generated radiation in the jets.
  - [https://arstechnica.com/?p=1899862](https://arstechnica.com/?p=1899862)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-23 17:55:10+00:00
- - tags: None
 
 Qualcomm's new chip will power most Android phones in 2023, but China's early.
 
@@ -60,7 +53,6 @@ Qualcomm's new chip will power most Android phones in 2023, but China's early.
  - [https://arstechnica.com/?p=1899797](https://arstechnica.com/?p=1899797)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-23 17:45:19+00:00
- - tags: None
 
 Only the Store version of WSL will get new features from now on.
 
@@ -68,7 +60,6 @@ Only the Store version of WSL will get new features from now on.
  - [https://arstechnica.com/?p=1899880](https://arstechnica.com/?p=1899880)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-23 17:36:09+00:00
- - tags: None
 
 FTX "was run as a personal fiefdom of Sam Bankman-Fried," company lawyer says.
 
@@ -76,7 +67,6 @@ FTX "was run as a personal fiefdom of Sam Bankman-Fried," company lawyer says.
  - [https://arstechnica.com/?p=1899809](https://arstechnica.com/?p=1899809)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-23 17:23:11+00:00
- - tags: None
 
 HP laptop unit sales fell by 26% in Q4.
 
@@ -84,7 +74,6 @@ HP laptop unit sales fell by 26% in Q4.
  - [https://arstechnica.com/?p=1899804](https://arstechnica.com/?p=1899804)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-23 16:59:09+00:00
- - tags: None
 
 "I am very glad to say that we have found a positive way forward."
 
@@ -92,7 +81,6 @@ HP laptop unit sales fell by 26% in Q4.
  - [https://arstechnica.com/?p=1899819](https://arstechnica.com/?p=1899819)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-23 16:50:09+00:00
- - tags: None
 
 Activists say they would never make such a deal with Musk.
 
@@ -100,7 +88,6 @@ Activists say they would never make such a deal with Musk.
  - [https://arstechnica.com/?p=1899831](https://arstechnica.com/?p=1899831)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-23 16:37:36+00:00
- - tags: None
 
 The lack of cheaper electric vehicles is going to be a problem.
 
@@ -108,6 +95,5 @@ The lack of cheaper electric vehicles is going to be a problem.
  - [https://arstechnica.com/?p=1873036](https://arstechnica.com/?p=1873036)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-23 11:45:25+00:00
- - tags: None
 
 Third-party data brokers give police warrantless access to 250 million devices.

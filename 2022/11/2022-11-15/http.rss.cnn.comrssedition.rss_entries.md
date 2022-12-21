@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## CNN reporter describes local accounts of Poland explosion that left 2 dead
  - [https://www.cnn.com/videos/world/2022/11/15/poland-explosion-przewodow-intl-vpx.cnn](https://www.cnn.com/videos/world/2022/11/15/poland-explosion-przewodow-intl-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 22:56:06+00:00
- - tags: None
 
 CNN's Matthew Chance reports from Przewodow, Poland, where Polish officials have confirmed two people died following an explosion near the Ukraine border.
 
@@ -12,7 +11,6 @@ CNN's Matthew Chance reports from Przewodow, Poland, where Polish officials have
  - [https://www.cnn.com/2022/11/15/politics/house-republican-vote-kevin-mccarthy/index.html](https://www.cnn.com/2022/11/15/politics/house-republican-vote-kevin-mccarthy/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 22:40:21+00:00
- - tags: None
 
 The House Republican conference voted for House Minority Leader Kevin McCarthy to be its leader after an underwhelming midterm election performance launched a search among conservatives for a challenger.
 
@@ -20,7 +18,6 @@ The House Republican conference voted for House Minority Leader Kevin McCarthy t
  - [https://www.cnn.com/2022/11/15/opinions/gay-australian-basketball-player-isaac-humphries/index.html](https://www.cnn.com/2022/11/15/opinions/gay-australian-basketball-player-isaac-humphries/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 22:30:50+00:00
- - tags: None
 
 One of the best feelings in the world is playing a game of professional basketball while on peak form.
 
@@ -28,7 +25,6 @@ One of the best feelings in the world is playing a game of professional basketba
  - [https://www.cnn.com/travel/article/lonely-planet-best-in-travel-2023/index.html](https://www.cnn.com/travel/article/lonely-planet-best-in-travel-2023/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 21:20:24+00:00
- - tags: None
 
 Guidebook company Lonely Planet has revealed its 18th annual "Best in Travel" list.
 
@@ -36,7 +32,6 @@ Guidebook company Lonely Planet has revealed its 18th annual "Best in Travel" li
  - [https://www.cnn.com/2022/11/15/health/marijuana-lung-damage-study-wellness/index.html](https://www.cnn.com/2022/11/15/health/marijuana-lung-damage-study-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 20:58:12+00:00
- - tags: None
 
 Smoking weed while being a tobacco smoker may increase damage to the respiratory system, a new study found.
 
@@ -44,7 +39,6 @@ Smoking weed while being a tobacco smoker may increase damage to the respiratory
  - [https://www.cnn.com/2022/11/15/tech/elon-musk-twitter-employees/index.html](https://www.cnn.com/2022/11/15/tech/elon-musk-twitter-employees/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 20:43:36+00:00
- - tags: None
 
 Elon Musk has publicly clashed with a growing number of Twitter employees about the state of the platform, and fired at least one of them in a tweet, in an unusually visible sign of corporate chaos after his $44 billion takeover of the influential company.
 
@@ -52,7 +46,6 @@ Elon Musk has publicly clashed with a growing number of Twitter employees about 
  - [https://www.cnn.com/2022/11/15/europe/poland-missile-rocket-nato-przewodow-ukraine-intl/index.html](https://www.cnn.com/2022/11/15/europe/poland-missile-rocket-nato-przewodow-ukraine-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 20:40:53+00:00
- - tags: None
 
 Projectiles have reportedly killed two people after hitting a farm in Poland near the border with Ukraine on Tuesday, according to Polish media.
 
@@ -60,7 +53,6 @@ Projectiles have reportedly killed two people after hitting a farm in Poland nea
  - [https://www.cnn.com/videos/world/2022/11/15/poland-projectile-volker-ist-intl-vpx.cnni](https://www.cnn.com/videos/world/2022/11/15/poland-projectile-volker-ist-intl-vpx.cnni)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 20:40:03+00:00
- - tags: None
 
 Two people are reported killed after projectiles are reported to have hit a farm in Poland, near the border with Ukraine. The origin of the projectiles is unclear. Former NATO ambassador Kurt Volker gives his reaction.
 
@@ -68,7 +60,6 @@ Two people are reported killed after projectiles are reported to have hit a farm
  - [https://www.cnn.com/2022/11/15/world/artemis-nasa-moon-mission-walkup-scn/index.html](https://www.cnn.com/2022/11/15/world/artemis-nasa-moon-mission-walkup-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 20:36:39+00:00
- - tags: None
 
 The historic Artemis I mission — an uncrewed test flight around the moon that will make use of the most powerful operational rocket in the world — could finally take flight this week.
 
@@ -76,7 +67,6 @@ The historic Artemis I mission — an uncrewed test flight around the moon that 
  - [https://www.cnn.com/videos/world/2022/11/15/new-species-discovered-at-bottom-of-sea-floor-cprog-orig-jc.cnn](https://www.cnn.com/videos/world/2022/11/15/new-species-discovered-at-bottom-of-sea-floor-cprog-orig-jc.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 20:27:36+00:00
- - tags: None
 
 Scientists from Australia's Museums Victoria Research Institute have discovered new deep-sea creatures while exploring the depths of the Indian Ocean.
 
@@ -84,7 +74,6 @@ Scientists from Australia's Museums Victoria Research Institute have discovered 
  - [https://www.cnn.com/videos/business/2022/11/15/crypto-celebrities-athletes-ftx-collapse-romans-dnt-contd-vpx.cnn](https://www.cnn.com/videos/business/2022/11/15/crypto-celebrities-athletes-ftx-collapse-romans-dnt-contd-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 20:21:51+00:00
- - tags: None
 
 The implosion of cryptocurrency exchange FTX has left investors grappling with the aftershocks. CNN's Christine Romans reports.
 
@@ -92,7 +81,6 @@ The implosion of cryptocurrency exchange FTX has left investors grappling with t
  - [https://www.cnn.com/2022/11/15/business/coors-light-nail-polish/index.html](https://www.cnn.com/2022/11/15/business/coors-light-nail-polish/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 20:09:03+00:00
- - tags: None
 
 Fact: No one likes warm beer.
 
@@ -100,7 +88,6 @@ Fact: No one likes warm beer.
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-11-15-22/h_e7fcb96313566fdeabb625b08f4b4b7f](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-11-15-22/h_e7fcb96313566fdeabb625b08f4b4b7f)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 19:51:47.255324+00:00
- - tags: None
 
 
 
@@ -108,7 +95,6 @@ Fact: No one likes warm beer.
  - [https://www.cnn.com/2022/11/15/entertainment/grammy-nominations-2023/index.html](https://www.cnn.com/2022/11/15/entertainment/grammy-nominations-2023/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 18:18:53+00:00
- - tags: None
 
 The nominations for the 2023 Grammy Awards are being revealed on Tuesday.
 
@@ -116,7 +102,6 @@ The nominations for the 2023 Grammy Awards are being revealed on Tuesday.
  - [https://www.cnn.com/style/article/climate-protest-klimt-death-and-life-austria-scli-intl/index.html](https://www.cnn.com/style/article/climate-protest-klimt-death-and-life-austria-scli-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 17:07:32+00:00
- - tags: None
 
 Climate protesters in Austria have thrown a black substance over Gustav Klimt's painting "Death and Life," in the latest act targeting renowned works of art across the world.
 
@@ -124,7 +109,6 @@ Climate protesters in Austria have thrown a black substance over Gustav Klimt's 
  - [https://www.cnn.com/collections/ukraine-intl-111522/](https://www.cnn.com/collections/ukraine-intl-111522/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 16:56:04+00:00
- - tags: None
 
 
 
@@ -132,7 +116,6 @@ Climate protesters in Austria have thrown a black substance over Gustav Klimt's 
  - [https://www.cnn.com/2022/11/15/business/ticketmaster-taylor-swift-tickets/index.html](https://www.cnn.com/2022/11/15/business/ticketmaster-taylor-swift-tickets/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 16:43:14+00:00
- - tags: None
 
 There's some bad blood brewing between Taylor Swift fans and Ticketmaster.
 
@@ -140,7 +123,6 @@ There's some bad blood brewing between Taylor Swift fans and Ticketmaster.
  - [https://www.cnn.com/2022/11/15/world/trudeau-deletes-false-tweet-iran-mass-executions-intl/index.html](https://www.cnn.com/2022/11/15/world/trudeau-deletes-false-tweet-iran-mass-executions-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 16:39:34+00:00
- - tags: None
 
 Canadian Prime Minister Justin Trudeau deleted a tweet containing false information on mass death sentences in Iran, after a viral campaign on social media circulated the fake news.
 
@@ -148,7 +130,6 @@ Canadian Prime Minister Justin Trudeau deleted a tweet containing false informat
  - [https://www.cnn.com/2022/11/15/us/university-of-virginia-shooting-tuesday/index.html](https://www.cnn.com/2022/11/15/us/university-of-virginia-shooting-tuesday/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 16:29:47+00:00
- - tags: None
 
 The University of Virginia canceled classes Tuesday as it "continues to work through the emotional toll" of Sunday's shooting that left three of the school's football players dead and two other people injured.
 
@@ -156,7 +137,6 @@ The University of Virginia canceled classes Tuesday as it "continues to work thr
  - [https://www.cnn.com/2022/11/15/business/ftx-madoff-bankman-fried-bair/index.html](https://www.cnn.com/2022/11/15/business/ftx-madoff-bankman-fried-bair/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 16:25:37+00:00
- - tags: None
 
 In the span of just three years, Sam Bankman-Fried built FTX into a massive crypto exchange backed by marquee investors and valued at $32 billion. It took mere days for all of that to implode in a sprawling bankruptcy filing.
 
@@ -164,7 +144,6 @@ In the span of just three years, Sam Bankman-Fried built FTX into a massive cryp
  - [https://www.cnn.com/2022/11/15/tech/apple-emergency-sos-via-satellite-how-it-works/index.html](https://www.cnn.com/2022/11/15/tech/apple-emergency-sos-via-satellite-how-it-works/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 16:22:51+00:00
- - tags: None
 
 When Apple announced at its closely-watched September product launch event that it would soon introduce an Emergency SOS feature powered by a network of satellites orbiting above Earth, Brooklyn probably wasn't the secluded location most had in mind for using it.
 
@@ -172,7 +151,6 @@ When Apple announced at its closely-watched September product launch event that 
  - [https://www.cnn.com/videos/world/2022/11/15/australia-floods-wyangala-dam-contd-lon-orig-na.cnn](https://www.cnn.com/videos/world/2022/11/15/australia-floods-wyangala-dam-contd-lon-orig-na.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 16:11:04+00:00
- - tags: None
 
 Water gushed out of the Wyangala dam in Australia's New South Wales state as flash flooding hit the region.
 
@@ -180,7 +158,6 @@ Water gushed out of the Wyangala dam in Australia's New South Wales state as fla
  - [https://www.cnn.com/2022/11/15/entertainment/morrissey-concert-ends-abrupt-music/index.html](https://www.cnn.com/2022/11/15/entertainment/morrissey-concert-ends-abrupt-music/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 15:59:16+00:00
- - tags: None
 
 Morrissey abruptly ended his concert at the Greek Theatre in Los Angeles just 30 minutes in.
 
@@ -188,7 +165,6 @@ Morrissey abruptly ended his concert at the Greek Theatre in Los Angeles just 30
  - [https://www.cnn.com/videos/media/2022/11/15/baby-elephant-tickles-reporter-moos-cprog-orig-bdk.cnn](https://www.cnn.com/videos/media/2022/11/15/baby-elephant-tickles-reporter-moos-cprog-orig-bdk.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 15:59:13+00:00
- - tags: None
 
 A baby elephant uses its trunk to tickle a reporter until he erupts in giggles. CNN's Jeanne Moos reports.
 
@@ -196,7 +172,6 @@ A baby elephant uses its trunk to tickle a reporter until he erupts in giggles. 
  - [https://www.cnn.com/2022/11/15/politics/milley-remarks-ukraine-clean-up/index.html](https://www.cnn.com/2022/11/15/politics/milley-remarks-ukraine-clean-up/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 15:49:10+00:00
- - tags: None
 
 The Biden administration is working to reassure the Ukrainian government, outside experts, and former US officials that it will not push Ukraine to imminently seek a diplomatic outcome to the war with Russia after the most senior US general publicly pushed for a more urgent diplomatic effort this winter.
 
@@ -204,7 +179,6 @@ The Biden administration is working to reassure the Ukrainian government, outsid
  - [https://www.cnn.com/2022/11/15/business-food/oatly-q3-2022-results/index.html](https://www.cnn.com/2022/11/15/business-food/oatly-q3-2022-results/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 15:37:52+00:00
- - tags: None
 
 Oat milk brand Oatly is planning to cut jobs as coronavirus restrictions in Asia dampen its sales forecast for this year.
 
@@ -212,7 +186,6 @@ Oat milk brand Oatly is planning to cut jobs as coronavirus restrictions in Asia
  - [https://www.cnn.com/2022/11/15/weather/weather-california-santa-ana-winds-fire-danger-tuesday/index.html](https://www.cnn.com/2022/11/15/weather/weather-california-santa-ana-winds-fire-danger-tuesday/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 15:30:00+00:00
- - tags: None
 
 The first strong Santa Ana occurrence of the season is bringing harsh winds across Southern California through Thursday, setting the stage for critical fire conditions and the potential for a blaze to spread rapidly.
 
@@ -220,7 +193,6 @@ The first strong Santa Ana occurrence of the season is bringing harsh winds acro
  - [https://www.cnn.com/videos/media/2022/11/15/conservatives-react-to-trump-possible-run-contd-orig-ht.cnn-business](https://www.cnn.com/videos/media/2022/11/15/conservatives-react-to-trump-possible-run-contd-orig-ht.cnn-business)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 15:23:11+00:00
- - tags: None
 
 After the Republican Party's underwhelming performance in the 2022 midterm elections, conservative media personalities and pundits cast doubt that former President Donald Trump will be the GOP's best presidential candidate for 2024.
 
@@ -228,7 +200,6 @@ After the Republican Party's underwhelming performance in the 2022 midterm elect
  - [https://www.cnn.com/2022/11/15/middleeast/shireen-abu-akleh-israel-us-investigation-intl/index.html](https://www.cnn.com/2022/11/15/middleeast/shireen-abu-akleh-israel-us-investigation-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 14:50:18+00:00
- - tags: None
 
 A top Israeli official has confirmed the existence of a US investigation into the killing of Palestinian-American journalist Shireen Abu Akleh but said Israel's government would not cooperate with the American probe, calling it a "mistake."
 
@@ -236,7 +207,6 @@ A top Israeli official has confirmed the existence of a US investigation into th
  - [https://www.cnn.com/2022/11/15/opinions/congress-bipartisanship-move-families-washington-alaimo/index.html](https://www.cnn.com/2022/11/15/opinions/congress-bipartisanship-move-families-washington-alaimo/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 14:45:28+00:00
- - tags: None
 
 The late Republican Sen. John McCain of Arizona was a close friend of President Joe Biden when they served together in the Senate, according to his wife Cindy McCain. In a video she recorded during Biden's presidential campaign, she recalled how during family picnics in Biden's backyard, "they would just sit and joke. It was like a comedy show, sometimes, to watch the two of them."
 
@@ -244,7 +214,6 @@ The late Republican Sen. John McCain of Arizona was a close friend of President 
  - [https://www.cnn.com/2022/11/15/football/ali-daei-iran-world-cup-spt-intl/index.html](https://www.cnn.com/2022/11/15/football/ali-daei-iran-world-cup-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 14:41:54+00:00
- - tags: None
 
 Iran's record international goalscorer Ali Daei said on Monday that he refused an invitation to attend the World Cup in Qatar next week to stand in solidarity with Iranian protesters.
 
@@ -252,7 +221,6 @@ Iran's record international goalscorer Ali Daei said on Monday that he refused a
  - [https://www.cnn.com/2022/11/15/world/kyiv-strikes-russia-zelensky-peace-intl/index.html](https://www.cnn.com/2022/11/15/world/kyiv-strikes-russia-zelensky-peace-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 14:34:03+00:00
- - tags: None
 
 Russian missile strikes hit residential buildings in Kyiv on Tuesday, officials there said, and explosions were heard in other Ukrainian cities in what appeared to be the first major aerial attack since Moscow retreated from the key city of Kherson last week.
 
@@ -260,7 +228,6 @@ Russian missile strikes hit residential buildings in Kyiv on Tuesday, officials 
  - [https://www.cnn.com/videos/media/2022/11/15/michelle-obama-trump-2016-win-sot-juana-summers-npr-cnntm-contd-vpx.cnn](https://www.cnn.com/videos/media/2022/11/15/michelle-obama-trump-2016-win-sot-juana-summers-npr-cnntm-contd-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 14:24:56+00:00
- - tags: None
 
 Juana Summers, co-host of NPR's All Things Considered, joins "CNN This Morning" to discuss her interview with former first lady Michelle Obama.
 
@@ -268,7 +235,6 @@ Juana Summers, co-host of NPR's All Things Considered, joins "CNN This Morning" 
  - [https://www.cnn.com/2022/11/15/entertainment/rihanna-beyonce-savage-fenty/index.html](https://www.cnn.com/2022/11/15/entertainment/rihanna-beyonce-savage-fenty/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 14:22:03+00:00
- - tags: None
 
 If anyone has the power to manifest it's Rihanna, right?
 
@@ -276,7 +242,6 @@ If anyone has the power to manifest it's Rihanna, right?
  - [https://www.cnn.com/videos/us/2022/11/15/university-of-virginia-shooting-football-players-johns-pkg-cnntm-vpx.cnn](https://www.cnn.com/videos/us/2022/11/15/university-of-virginia-shooting-football-players-johns-pkg-cnntm-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 13:56:58+00:00
- - tags: None
 
 Christopher Darnell Jones Jr.'s father spoke out after officials said his son is suspected of fatally shooting three current UVA football players and wounding two others at the school's main campus in Charlottesville as a bus returned from a class field trip.
 
@@ -284,7 +249,6 @@ Christopher Darnell Jones Jr.'s father spoke out after officials said his son is
  - [https://edition.cnn.com/politics/live-news/midterm-election-results-updates-11-15-22/index.html](https://edition.cnn.com/politics/live-news/midterm-election-results-updates-11-15-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 13:50:10.440670+00:00
- - tags: None
 
 • Republicans close in on 218 seats that would deliver them House majority
 • John King: What Hobbs' projected win in Arizona means for Democrats
@@ -293,7 +257,6 @@ Christopher Darnell Jones Jr.'s father spoke out after officials said his son is
  - [https://edition.cnn.com/webview/politics/live-news/midterm-election-results-updates-11-15-22/index.html](https://edition.cnn.com/webview/politics/live-news/midterm-election-results-updates-11-15-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 13:50:10.287043+00:00
- - tags: None
 
 
 
@@ -301,7 +264,6 @@ Christopher Darnell Jones Jr.'s father spoke out after officials said his son is
  - [https://www.cnn.com/videos/world/2022/11/15/zelensky-d-day-ukraine-comparison-g20-remarks-cnntm-vpx.cnn](https://www.cnn.com/videos/world/2022/11/15/zelensky-d-day-ukraine-comparison-g20-remarks-cnntm-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 13:35:54+00:00
- - tags: None
 
 During remarks given at the G20 summit, Ukrainian President Volodymyr Zelensky compared the battle for Kherson to D-Day while laying out his peace plan with Russia. CNN's Clarissa Ward reports.
 
@@ -309,7 +271,6 @@ During remarks given at the G20 summit, Ukrainian President Volodymyr Zelensky c
  - [https://www.cnn.com/2022/11/15/world/mushroom-skin-electrical-circuits-scn-scli-intl/index.html](https://www.cnn.com/2022/11/15/world/mushroom-skin-electrical-circuits-scn-scli-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 13:27:00+00:00
- - tags: None
 
 Foraging for fungi may not only mean mushrooms are on the menu. New research has shown that mushroom skins could provide a biodegradable alternative to some plastics used in batteries and computer chips, making them easier to recycle.
 
@@ -317,7 +278,6 @@ Foraging for fungi may not only mean mushrooms are on the menu. New research has
  - [https://www.cnn.com/2022/11/15/business/walmart-opioid-settlement/index.html](https://www.cnn.com/2022/11/15/business/walmart-opioid-settlement/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 13:05:08+00:00
- - tags: None
 
 Walmart agreed to the framework of a $3.1 billion settlement, which resolves allegations from multiple states' attorneys general that the company failed to regulate opioid prescriptions contributing to the nationwide opioid crisis.
 
@@ -325,7 +285,6 @@ Walmart agreed to the framework of a $3.1 billion settlement, which resolves all
  - [https://www.cnn.com/travel/article/ducati-week-italy/index.html](https://www.cnn.com/travel/article/ducati-week-italy/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 13:03:39+00:00
- - tags: None
 
 In the Emilia Romagna region, on Italy's Adriatic coast, summers are languid, sultry, and full of opportunities to dine, drink, dance, swim, relax and replenish.  For a few days at the end of July, however, this scenic corner of one of the world's most beautiful countries experiences an invasion.
 
@@ -333,7 +292,6 @@ In the Emilia Romagna region, on Italy's Adriatic coast, summers are languid, su
  - [https://www.cnn.com/2022/11/15/investing/premarket-stocks-trading/index.html](https://www.cnn.com/2022/11/15/investing/premarket-stocks-trading/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 12:03:03+00:00
- - tags: None
 
 The crypto industry is still reeling from last week's shocking death spiral of digital currency exchange FTX. The company's bankruptcy filing has left financial backers in the lurch — including the usual suspects in Silicon Valley, from Masayoshi Son's SoftBank to VC firm Sequoia.
 
@@ -341,7 +299,6 @@ The crypto industry is still reeling from last week's shocking death spiral of d
  - [https://www.cnn.com/2022/11/15/world/iss-spacewalk-americans-cassada-rubio-scn/index.html](https://www.cnn.com/2022/11/15/world/iss-spacewalk-americans-cassada-rubio-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 11:34:51+00:00
- - tags: None
 
 Things are about to get busy on the International Space Station as the first in a series of end-of-the-year spacewalks is set to kick off Tuesday morning.
 
@@ -349,7 +306,6 @@ Things are about to get busy on the International Space Station as the first in 
  - [https://www.cnn.com/2022/11/15/sport/philadelphia-eagles-washington-commanders-mnf-nfl-spt-intl/index.html](https://www.cnn.com/2022/11/15/sport/philadelphia-eagles-washington-commanders-mnf-nfl-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 11:26:21+00:00
- - tags: None
 
 And then there were none.
 
@@ -357,7 +313,6 @@ And then there were none.
  - [https://www.cnn.com/2022/11/15/business/kraft-heinz-risk-takers-ctrp/index.html](https://www.cnn.com/2022/11/15/business/kraft-heinz-risk-takers-ctrp/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 11:11:42+00:00
- - tags: None
 
 Oscar Mayer. Velveeta. Capri Sun. Kraft Heinz CEO Miguel Patricio admits: Some of the company's iconic products had become "a little bit dusty."
 
@@ -365,7 +320,6 @@ Oscar Mayer. Velveeta. Capri Sun. Kraft Heinz CEO Miguel Patricio admits: Some o
  - [https://www.cnn.com/2022/11/15/politics/us-intelligence-russia-withdrawal-midterm-election/index.html](https://www.cnn.com/2022/11/15/politics/us-intelligence-russia-withdrawal-midterm-election/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 11:02:18+00:00
- - tags: None
 
 The US has intelligence that Russia may have delayed announcing its withdrawal from the Ukrainian city of Kherson in part to avoid giving the Biden administration a political win ahead of the midterm elections, according to four people familiar with the intelligence.
 
@@ -373,7 +327,6 @@ The US has intelligence that Russia may have delayed announcing its withdrawal f
  - [https://www.cnn.com/videos/world/2022/11/15/guangzhou-haizhu-zero-covid-lockdown-protests-stout-ovn-intl-ldn-vpx.cnn](https://www.cnn.com/videos/world/2022/11/15/guangzhou-haizhu-zero-covid-lockdown-protests-stout-ovn-intl-ldn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 10:58:37+00:00
- - tags: None
 
 Residents under Covid lockdown in China's southern manufacturing hub of Guangzhou have torn down barriers meant to confine them to their homes, taking to the streets in defiance of strictly enforced local orders, according to video and images circulating on social media. CNN's Kristie Lu Stout reports.
 
@@ -381,7 +334,6 @@ Residents under Covid lockdown in China's southern manufacturing hub of Guangzho
  - [https://www.cnn.com/2022/11/15/politics/us-intercepts-explosive-material-iran-yemen/index.html](https://www.cnn.com/2022/11/15/politics/us-intercepts-explosive-material-iran-yemen/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 10:56:37+00:00
- - tags: None
 
 US Naval Forces intercepted a "large quantity" of explosive material in the Gulf of Oman heading to Yemen from Iran last week, according to a statement from US Naval Forces Central Command.
 
@@ -389,7 +341,6 @@ US Naval Forces intercepted a "large quantity" of explosive material in the Gulf
  - [https://www.cnn.com/travel/article/dubai-where-to-eat-2022-restaurants/index.html](https://www.cnn.com/travel/article/dubai-where-to-eat-2022-restaurants/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 10:39:26+00:00
- - tags: None
 
 Dubai is known around the world as a center for fabulous indulgence and ambitious innovation and its restaurant scene is no different. 		A seemingly incessant wave of new openings has confirmed its place as one of the planet's finest places to dine out.
 
@@ -397,7 +348,6 @@ Dubai is known around the world as a center for fabulous indulgence and ambitiou
  - [https://www.cnn.com/2022/11/15/football/diego-maradona-hand-of-god-ball-auction-spt-intl/index.html](https://www.cnn.com/2022/11/15/football/diego-maradona-hand-of-god-ball-auction-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 10:16:27+00:00
- - tags: None
 
 The two goals are perhaps as famous as each other -- the first fabled for its audacity and guile, the second for its brilliant, breathtaking skill.
 
@@ -405,7 +355,6 @@ The two goals are perhaps as famous as each other -- the first fabled for its au
  - [https://www.cnn.com/collections/intl-trump-151122/](https://www.cnn.com/collections/intl-trump-151122/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 10:12:01+00:00
- - tags: None
 
 
 
@@ -413,7 +362,6 @@ The two goals are perhaps as famous as each other -- the first fabled for its au
  - [https://www.cnn.com/style/article/gold-coin-newfoundland-archeological-discovery-scn/index.html](https://www.cnn.com/style/article/gold-coin-newfoundland-archeological-discovery-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 10:09:53+00:00
- - tags: None
 
 The discovery of a rare gold coin on the south coast of Newfoundland, Canada, may challenge traditional historical narratives about the timing of European contact in the region, as it predates explorer John Cabot's arrival on the island by at least 70 years.
 
@@ -421,7 +369,6 @@ The discovery of a rare gold coin on the south coast of Newfoundland, Canada, ma
  - [https://www.cnn.com/2022/11/15/politics/trump-announcement-2024/index.html](https://www.cnn.com/2022/11/15/politics/trump-announcement-2024/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 10:00:08+00:00
- - tags: None
 
 Should Donald Trump announce his third presidential bid on Tuesday, as is widely expected, he will begin the next phase of his political career under siege.
 
@@ -429,7 +376,6 @@ Should Donald Trump announce his third presidential bid on Tuesday, as is widely
  - [https://www.cnn.com/2022/11/15/football/cristiano-ronaldo-manchester-united-owners-spt-intl/index.html](https://www.cnn.com/2022/11/15/football/cristiano-ronaldo-manchester-united-owners-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 09:48:44+00:00
- - tags: None
 
 No one seems safe from Cristiano Ronaldo's wrath at the moment.
 
@@ -437,7 +383,6 @@ No one seems safe from Cristiano Ronaldo's wrath at the moment.
  - [https://www.cnn.com/2022/11/15/health/best-milk-for-planet-and-people-wellness/index.html](https://www.cnn.com/2022/11/15/health/best-milk-for-planet-and-people-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 09:34:18+00:00
- - tags: None
 
 When it comes to which milk is better for the planet — dairy or plant-based — environmentalists will say there's no dispute: Milk made from plants wins every time.
 
@@ -445,7 +390,6 @@ When it comes to which milk is better for the planet — dairy or plant-based �
  - [https://www.cnn.com/2022/11/15/world/air-protein-lisa-dyson-climate-scn-spc-intl/index.html](https://www.cnn.com/2022/11/15/world/air-protein-lisa-dyson-climate-scn-spc-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 09:21:26+00:00
- - tags: None
 
 It was space travel that inspired scientist Lisa Dyson to create an unusual climate solution: protein made from air, which can be grown inside a tank instead of using up valuable land.
 
@@ -453,7 +397,6 @@ It was space travel that inspired scientist Lisa Dyson to create an unusual clim
  - [https://www.cnn.com/2022/11/15/business/binance-founder-changpeng-zhao-ftx-intl-hnk/index.html](https://www.cnn.com/2022/11/15/business/binance-founder-changpeng-zhao-ftx-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 09:16:00+00:00
- - tags: None
 
 Binance founder and CEO Changpeng Zhao is once again in the global spotlight, this time as the self-appointed white knight of crypto as the industry is embroiled in crisis.
 
@@ -461,7 +404,6 @@ Binance founder and CEO Changpeng Zhao is once again in the global spotlight, th
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-11-15-22/index.html](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-11-15-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 09:04:04.465323+00:00
- - tags: None
 
 • US studying how to modify powerful armed drone as Ukrainian demand grows
 • Wagner boss applauds murder of ex-fighter
@@ -470,7 +412,6 @@ Binance founder and CEO Changpeng Zhao is once again in the global spotlight, th
  - [https://www.cnn.com/2022/11/15/world/global-population-8-billion-un-intl-hnk/index.html](https://www.cnn.com/2022/11/15/world/global-population-8-billion-un-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 08:38:43+00:00
- - tags: None
 
 The world's population will reach 8 billion people on Tuesday, representing a "milestone in human development" before birth rates start to slow, according to a projection from the United Nations.
 
@@ -478,7 +419,6 @@ The world's population will reach 8 billion people on Tuesday, representing a "m
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-11-15-22/index.html](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-11-15-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 08:04:05.154332+00:00
- - tags: None
 
 
 
@@ -486,7 +426,6 @@ The world's population will reach 8 billion people on Tuesday, representing a "m
  - [https://www.cnn.com/2022/11/15/tennis/australia-overturn-djokovic-visa-ban-intl-hnk-spt/index.html](https://www.cnn.com/2022/11/15/tennis/australia-overturn-djokovic-visa-ban-intl-hnk-spt/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 08:00:07+00:00
- - tags: None
 
 Australia will overturn a three-year ban on champion tennis player Novak Djokovic entering the country, paving the way for the former world No. 1 to contest the 2023 Australian Open.
 
@@ -494,7 +433,6 @@ Australia will overturn a three-year ban on champion tennis player Novak Djokovi
  - [https://www.cnn.com/videos/politics/2022/11/15/josh-hawley-trump-republican-party-is-dead-sot-vpx-ac360.cnn](https://www.cnn.com/videos/politics/2022/11/15/josh-hawley-trump-republican-party-is-dead-sot-vpx-ac360.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 07:28:37+00:00
- - tags: None
 
 Sen. Josh Hawley (R-MO) appeared to be edging away from former President Trump saying that the midterm elections were a "funeral for the Republican party as we know it." CNN's Harry Enten explains how Trump hurt the Republican party.
 
@@ -502,7 +440,6 @@ Sen. Josh Hawley (R-MO) appeared to be edging away from former President Trump s
  - [https://www.cnn.com/2022/11/15/us/texas-teacher-fired-race-conversation/index.html](https://www.cnn.com/2022/11/15/us/texas-teacher-fired-race-conversation/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 06:43:33+00:00
- - tags: None
 
 A middle school teacher in Pflugerville, Texas, has been fired, district officials said Monday, after video was posted to social media showing the White teacher tell his students his race "is the superior one."
 
@@ -510,7 +447,6 @@ A middle school teacher in Pflugerville, Texas, has been fired, district officia
  - [https://www.cnn.com/2022/11/15/investing/tsmc-shares-berkshire-hathaway-stake-hnk-intl/index.html](https://www.cnn.com/2022/11/15/investing/tsmc-shares-berkshire-hathaway-stake-hnk-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 06:43:21+00:00
- - tags: None
 
 Shares of Taiwan Semiconductor Manufacturing Company surged on Tuesday after Warren Buffett's Berkshire Hathaway disclosed that it had purchased a $4.1 billion stake in one of the world's largest chipmakers.
 
@@ -518,7 +454,6 @@ Shares of Taiwan Semiconductor Manufacturing Company surged on Tuesday after War
  - [https://www.cnn.com/videos/politics/2022/11/15/ted-cruz-lashes-out-at-mitch-mcconnell-midterm-elections-sot-vpx.cnn](https://www.cnn.com/videos/politics/2022/11/15/ted-cruz-lashes-out-at-mitch-mcconnell-midterm-elections-sot-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 06:35:06+00:00
- - tags: None
 
 On his recent podcast, Sen. Ted Cruz (R-TX) says he's "pissed off" about the Senate midterm election results and blames Senate Minority Leader Mitch McConnell for Republican's disappointing performance.
 
@@ -526,7 +461,6 @@ On his recent podcast, Sen. Ted Cruz (R-TX) says he's "pissed off" about the Sen
  - [https://www.cnn.com/videos/politics/2022/11/15/lake-mccain-arizona-independents-republicans-lah-borger-midterm-election-vpx.cnn](https://www.cnn.com/videos/politics/2022/11/15/lake-mccain-arizona-independents-republicans-lah-borger-midterm-election-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 05:45:34+00:00
- - tags: None
 
 CNN's Kyung Lah says Kari Lake's projected loss in the Arizona governor's race is in part due to Independent and moderate Republican voters rejecting Lake's rhetoric.
 
@@ -534,7 +468,6 @@ CNN's Kyung Lah says Kari Lake's projected loss in the Arizona governor's race i
  - [https://www.cnn.com/2022/11/14/china/china-xi-g20-summit-day-1-intl-hnk/index.html](https://www.cnn.com/2022/11/14/china/china-xi-g20-summit-day-1-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 05:27:01+00:00
- - tags: None
 
 
 
@@ -542,7 +475,6 @@ CNN's Kyung Lah says Kari Lake's projected loss in the Arizona governor's race i
  - [https://www.cnn.com/2022/11/14/economy/japan-economy-gdp-shrinks/index.html](https://www.cnn.com/2022/11/14/economy/japan-economy-gdp-shrinks/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 04:22:38+00:00
- - tags: None
 
 Japan's economy unexpectedly shrank for the first time in a year in the third quarter, stoking further uncertainty about the outlook as global recession risks, a weak yen and higher import costs took a toll on household consumption and businesses.
 
@@ -550,7 +482,6 @@ Japan's economy unexpectedly shrank for the first time in a year in the third qu
  - [https://www.cnn.com/2022/11/14/politics/katie-hobbs-arizona-governors-race/index.html](https://www.cnn.com/2022/11/14/politics/katie-hobbs-arizona-governors-race/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 04:01:18+00:00
- - tags: None
 
 Democrat Katie Hobbs will win Arizona's governor's race, CNN projects, defeating one of the most prominent defenders of former President Donald Trump's lies about the 2020 election.
 
@@ -558,7 +489,6 @@ Democrat Katie Hobbs will win Arizona's governor's race, CNN projects, defeating
  - [https://www.cnn.com/travel/article/best-wellness-retreats-luxury-resorts-vacation-intl/index.html](https://www.cnn.com/travel/article/best-wellness-retreats-luxury-resorts-vacation-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 02:49:29+00:00
- - tags: None
 
 Being pummeled by strangers, soaked in aromatic waters, or encouraged to throw yoga shapes in beautiful surroundings isn't going to erase the problems of the past few years.
 
@@ -566,7 +496,6 @@ Being pummeled by strangers, soaked in aromatic waters, or encouraged to throw y
  - [https://www.cnn.com/collections/intl-1411-g20/](https://www.cnn.com/collections/intl-1411-g20/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 02:08:55+00:00
- - tags: None
 
 
 
@@ -574,7 +503,6 @@ Being pummeled by strangers, soaked in aromatic waters, or encouraged to throw y
  - [https://www.cnn.com/2022/11/14/politics/pence-trump-2024/index.html](https://www.cnn.com/2022/11/14/politics/pence-trump-2024/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 01:58:49+00:00
- - tags: None
 
 Former Vice President Mike Pence said in a newly released interview clip that he and his family are giving "prayerful consideration" to whether he should run for president in 2024 and that the US will have "better choices in the future" than former President Donald Trump.
 
@@ -582,6 +510,5 @@ Former Vice President Mike Pence said in a newly released interview clip that he
  - [https://www.cnn.com/videos/sports/2022/11/14/cristiano-ronaldo-manchester-united-interview-piers-morgan-intl-vpx.cnn](https://www.cnn.com/videos/sports/2022/11/14/cristiano-ronaldo-manchester-united-interview-piers-morgan-intl-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-15 00:07:09+00:00
- - tags: None
 
 In an interview with Piers Morgan for TalkTV, Manchester United's Cristiano Ronaldo said he is being forced out by the club. CNN's Coy Wire reports.

@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Google’s rolling out a Nest Wifi Pro update to fix slow internet speeds
  - [https://www.theverge.com/2022/11/12/23454915/google-nest-wifi-pro-update-fix-slow-internet-speeds](https://www.theverge.com/2022/11/12/23454915/google-nest-wifi-pro-update-fix-slow-internet-speeds)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-12 19:01:28+00:00
- - tags: None
 
 <figure>
       <img alt="Photo of four Nest Wifi Pro routers on a wood table. One is pink, one is white, one is blue, and one is yellow. They are glossy and reflective rounded rectangles." src="https://cdn.vox-cdn.com/thumbor/5NXwTvOsC-KLeQhpqkJ7mdRsdyI=/0x360:2160x1800/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71619570/social_enUS_Wifi3R_2022Q3_FoundationalPlan_Announce_DEVThumbnail__YTC_Static_2.0.png" />
@@ -21,7 +20,6 @@
  - [https://www.theverge.com/2022/11/12/23453400/apple-10th-gen-ipad-gigabyte-aorus-monitor-lg-c2-oled-tv-playstation-xbox-gift-card-deal-sale](https://www.theverge.com/2022/11/12/23453400/apple-10th-gen-ipad-gigabyte-aorus-monitor-lg-c2-oled-tv-playstation-xbox-gift-card-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-12 17:43:54+00:00
- - tags: None
 
 <figure>
       <img alt="The 10th-gen iPad in yellow, resting face up on a wooden table." src="https://cdn.vox-cdn.com/thumbor/dHJPER4y4XHNnyxkg9r-2VQA7tE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71619383/226361_Apple_iPad_10.9_10th_gen_DSeifert_0001.0.jpg" />
@@ -38,7 +36,6 @@
  - [https://www.theverge.com/2022/11/12/23454702/ftx-unauthorized-transactions-drained-millions-from-the-exchange-hack-bankruptcy-cryptocurrency](https://www.theverge.com/2022/11/12/23454702/ftx-unauthorized-transactions-drained-millions-from-the-exchange-hack-bankruptcy-cryptocurrency)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-12 16:25:15+00:00
- - tags: None
 
 <figure>
       <img alt="FTX logo" src="https://cdn.vox-cdn.com/thumbor/SWB5bL0rp4ZQ2U43O3_jKW-5yBo=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71619116/STK136_K_Radtke_FTX_02.0.jpg" />
@@ -55,7 +52,6 @@
  - [https://www.theverge.com/2022/11/12/23453798/midterms-election-whitmer-fetterman-democrats-red-wave-polling-discord-facebook-youtube](https://www.theverge.com/2022/11/12/23453798/midterms-election-whitmer-fetterman-democrats-red-wave-polling-discord-facebook-youtube)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-12 16:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="PA POL Fetterman" src="https://cdn.vox-cdn.com/thumbor/D78FErN7VG7ZJ5o-5VOU1WSU-P8=/0x0:7563x5042/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71619079/1244571842.0.jpg" />
@@ -73,7 +69,6 @@
  - [https://www.theverge.com/23447906/black-panther-wakanda-forever-mid-credits](https://www.theverge.com/23447906/black-panther-wakanda-forever-mid-credits)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-12 14:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="A woman in formfitting green and turquoise body armor standing in the middle of a lush tropical forest." src="https://cdn.vox-cdn.com/thumbor/7NoEOGFfAzUEUR49z_yCkZt1BAw=/379x0:2170x1194/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71618653/Screen_Shot_2022_11_08_at_3.49.32_PM.0.png" />
@@ -91,7 +86,6 @@
  - [https://www.theverge.com/2022/11/11/23454237/twitter-verified-moderation-parodies-slipping-through-advertisers](https://www.theverge.com/2022/11/11/23454237/twitter-verified-moderation-parodies-slipping-through-advertisers)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-12 02:08:06+00:00
- - tags: None
 
 <figure>
       <img alt="The Twitter bird logo in black over a white and blue background" src="https://cdn.vox-cdn.com/thumbor/s4vhr4uAnzeCvt3W0WkGeoWJVsE=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71617608/acastro_STK050_03.0.jpg" />
@@ -110,7 +104,6 @@
  - [https://www.theverge.com/2022/11/11/23453230/studio-ghibli-star-wars-lucasfilm](https://www.theverge.com/2022/11/11/23453230/studio-ghibli-star-wars-lucasfilm)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-12 00:32:26+00:00
- - tags: None
 
 <figure>
       <img alt="Promotional art for the Disney Plus feature Grogu and Dust Bunnies." src="https://cdn.vox-cdn.com/thumbor/rD5gEUMzndH4i7bDqLCcQ0W8zf8=/0x279:864x855/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71617417/FhUl4F6VsAAo7QF.0.jpg" />
@@ -132,7 +125,6 @@
  - [https://www.theverge.com/2022/11/11/23454045/disney-hiring-freeze-layoffs-cost-cutting-memo](https://www.theverge.com/2022/11/11/23454045/disney-hiring-freeze-layoffs-cost-cutting-memo)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-12 00:21:34+00:00
- - tags: None
 
 <figure>
       <img alt="Disney Plus logo on a black and red background." src="https://cdn.vox-cdn.com/thumbor/E1pff28hQLdHDLnYIhp7IpPjN7c=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71617378/acastro_STK080_disneyPlus_04.0.jpg" />

@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## The Google Home app public preview is live and you can sign up now
  - [https://www.androidauthority.com/google-home-public-preview-3232744/](https://www.androidauthority.com/google-home-public-preview-3232744/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-08 22:47:42+00:00
- - tags: None
 
 The new Google Home contains a number of new features to try out.
 
@@ -12,7 +11,6 @@ The new Google Home contains a number of new features to try out.
  - [https://www.androidauthority.com/microsoft-eu-investigation-3232654/](https://www.androidauthority.com/microsoft-eu-investigation-3232654/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-08 21:31:34+00:00
- - tags: None
 
 An in-depth investigation into Microsoft's Activision Blizzard acquisition is underway.
 
@@ -20,7 +18,6 @@ An in-depth investigation into Microsoft's Activision Blizzard acquisition is un
  - [https://www.androidauthority.com/old-gmail-3232729/](https://www.androidauthority.com/old-gmail-3232729/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-08 21:29:20+00:00
- - tags: None
 
 If you've been holding off on making the switch, you won't have that option much longer.
 
@@ -28,7 +25,6 @@ If you've been holding off on making the switch, you won't have that option much
  - [https://www.androidauthority.com/google-pixel-8-3232704/](https://www.androidauthority.com/google-pixel-8-3232704/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-08 20:52:56+00:00
- - tags: None
 
 There's no guarantee that these references the Pixel 8 series, but it seems very likely.
 
@@ -36,7 +32,6 @@ There's no guarantee that these references the Pixel 8 series, but it seems very
  - [https://www.androidauthority.com/shows-like-the-english-emily-blunt-amazon-prime-video-3232065/](https://www.androidauthority.com/shows-like-the-english-emily-blunt-amazon-prime-video-3232065/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-08 17:29:23+00:00
- - tags: None
 
 More titles about revenge, women on the frontier, and sharp-shooting gunslingers.
 
@@ -44,7 +39,6 @@ More titles about revenge, women on the frontier, and sharp-shooting gunslingers
  - [https://www.androidauthority.com/lg-stretchable-display-3231968/](https://www.androidauthority.com/lg-stretchable-display-3231968/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-08 17:08:52+00:00
- - tags: None
 
 LG's new display can extend from 12-inches up to 14-inches.
 
@@ -52,7 +46,6 @@ LG's new display can extend from 12-inches up to 14-inches.
  - [https://www.androidauthority.com/incogni-black-friday-3232074/](https://www.androidauthority.com/incogni-black-friday-3232074/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-08 16:38:03+00:00
- - tags: None
 
 Stop your personal data from being sold to the highest bidder with Incogni. A subscription is on sale for early Black Friday.
 
@@ -60,7 +53,6 @@ Stop your personal data from being sold to the highest bidder with Incogni. A su
  - [https://www.androidauthority.com/voice-typing-opinion-3221341/](https://www.androidauthority.com/voice-typing-opinion-3221341/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-08 14:30:28+00:00
- - tags: None
 
 This is the kind of feature that all Android users should have access to.
 
@@ -68,7 +60,6 @@ This is the kind of feature that all Android users should have access to.
  - [https://www.androidauthority.com/garmin-instinct-crossover-3232385/](https://www.androidauthority.com/garmin-instinct-crossover-3232385/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-08 12:00:03+00:00
- - tags: None
 
 The Instinct Crossover hybrid smartwatch also comes in solar-powered and tactical variants.
 
@@ -76,7 +67,6 @@ The Instinct Crossover hybrid smartwatch also comes in solar-powered and tactica
  - [https://www.androidauthority.com/shows-like-extraordinary-attorney-woo-3231152/](https://www.androidauthority.com/shows-like-extraordinary-attorney-woo-3231152/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-08 11:34:52+00:00
- - tags: None
 
 This quirky show is a major Netflix hit.
 
@@ -84,7 +74,6 @@ This quirky show is a major Netflix hit.
  - [https://www.androidauthority.com/nintendo-switch-opinion-poll-2022-3231804/](https://www.androidauthority.com/nintendo-switch-opinion-poll-2022-3231804/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-08 11:00:53+00:00
- - tags: None
 
 Are you still a big fan of the console or are you eagerly waiting for the Switch 2?
 
@@ -92,7 +81,6 @@ Are you still a big fan of the console or are you eagerly waiting for the Switch
  - [https://www.androidauthority.com/best-4g-lte-smartwatch-3231154/](https://www.androidauthority.com/best-4g-lte-smartwatch-3231154/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-08 10:00:05+00:00
- - tags: None
 
 These smartwatches don't need a phone to keep you connected.
 
@@ -100,7 +88,6 @@ These smartwatches don't need a phone to keep you connected.
  - [https://www.androidauthority.com/google-pixel-4-pixel-4-xl-end-of-life-3232459/](https://www.androidauthority.com/google-pixel-4-pixel-4-xl-end-of-life-3232459/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-08 09:37:00+00:00
- - tags: None
 
 The 2019 Google flagships will no longer get regular software updates.
 
@@ -108,7 +95,6 @@ The 2019 Google flagships will no longer get regular software updates.
  - [https://www.androidauthority.com/daily-authority-november-8-2022-3231982/](https://www.androidauthority.com/daily-authority-november-8-2022-3231982/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-08 09:32:00+00:00
- - tags: None
 
 The standard's here to stay, plus Google's Black Friday deals, a killer VR headset, clever corvids, and more top tech news.
 
@@ -116,7 +102,6 @@ The standard's here to stay, plus Google's Black Friday deals, a killer VR heads
  - [https://www.androidauthority.com/google-renault-android-auto-sdv-car-3232436/](https://www.androidauthority.com/google-renault-android-auto-sdv-car-3232436/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-08 08:08:37+00:00
- - tags: None
 
 With Android Auto as its base, the "software-defined vehicle" will benefit from Google's expertise in AI and Cloud computing.
 
@@ -124,7 +109,6 @@ With Android Auto as its base, the "software-defined vehicle" will benefit from 
  - [https://www.androidauthority.com/mediatek-dimensity-9200-3230762/](https://www.androidauthority.com/mediatek-dimensity-9200-3230762/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-08 08:00:39+00:00
- - tags: None
 
 Mediatek's Snapdragon 8 Gen 2 rival brings a 64-bit-only design, hardware-based ray tracing, and more.
 
@@ -132,7 +116,6 @@ Mediatek's Snapdragon 8 Gen 2 rival brings a 64-bit-only design, hardware-based 
  - [https://www.androidauthority.com/generate-secure-password-lastpass-3231706/](https://www.androidauthority.com/generate-secure-password-lastpass-3231706/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-08 06:56:20+00:00
- - tags: None
 
 Keep your passwords secure and hard to guess!
 
@@ -140,7 +123,6 @@ Keep your passwords secure and hard to guess!
  - [https://www.androidauthority.com/using-devices-micro-usb-port-poll-results-3232355/](https://www.androidauthority.com/using-devices-micro-usb-port-poll-results-3232355/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-08 05:29:28+00:00
- - tags: None
 
 Smartphones with micro-USB ports are still being used, but accessories is a space where the port still rules the roost.
 
@@ -148,7 +130,6 @@ Smartphones with micro-USB ports are still being used, but accessories is a spac
  - [https://www.androidauthority.com/how-to-apple-watch-low-power-mode-3231566/](https://www.androidauthority.com/how-to-apple-watch-low-power-mode-3231566/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-08 03:30:29+00:00
- - tags: None
 
 Less time on the charger means more time on your wrist.
 
@@ -156,7 +137,6 @@ Less time on the charger means more time on your wrist.
  - [https://www.androidauthority.com/strava-global-heatmap-3231112/](https://www.androidauthority.com/strava-global-heatmap-3231112/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-08 03:00:03+00:00
- - tags: None
 
 Strava maps out the movement of millions of athletes.
 
@@ -164,7 +144,6 @@ Strava maps out the movement of millions of athletes.
  - [https://www.androidauthority.com/group-tabs-google-chrome-3103614/](https://www.androidauthority.com/group-tabs-google-chrome-3103614/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-08 02:37:03+00:00
- - tags: None
 
 Start organizing all of those open tabs of yours.
 
@@ -172,6 +151,5 @@ Start organizing all of those open tabs of yours.
  - [https://www.androidauthority.com/how-to-sign-out-youtube-3158380/](https://www.androidauthority.com/how-to-sign-out-youtube-3158380/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-08 01:52:24+00:00
- - tags: None
 
 That's enough YouTube for the day.

@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## If your kids love Roblox, check their browser for this malware
  - [https://www.pcworld.com/article/1390739/if-your-kids-love-roblox-check-their-browsers-for-this-malware.html](https://www.pcworld.com/article/1390739/if-your-kids-love-roblox-check-their-browsers-for-this-malware.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-23 16:20:37+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>The latest high-profile heist of valuable digital currency has nothing to do with Bitcoin or Ethereum. Nope, this time thieves are stealing currency and assets from <em>Roblox </em>players. <em>Roblox </em>is a massively popular kid&rsquo;s game platform that has a disturbing amount of real money trading hands, and it&rsquo;s become the target of a series of Chrome extensions hiding malware. </p>
@@ -30,7 +29,6 @@ Gaming</div>
  - [https://www.pcworld.com/article/1389703/get-adobe-photoshop-elements-and-premiere-elements-2023-for-62-off-during-black-friday.html](https://www.pcworld.com/article/1389703/get-adobe-photoshop-elements-and-premiere-elements-2023-for-62-off-during-black-friday.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-23 16:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Need to edit photos or video, but don&rsquo;t want to learn all the ins and outs of Adobe Creative Cloud? You&rsquo;re in luck. Right now during Black Friday, you can pick up <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.newegg.com/adobe-photoshop-elements-2023-for-windows-download/p/N82E16832505632?Item=N82E16832505632&amp;xcust=2-1-1389703-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Adobe Photoshop Elements 2023</a> and <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.newegg.com/adobe-premiere-elements-2023-for-windows-download/p/N82E16832505638?Item=N82E16832505638&amp;xcust=2-1-1389703-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Adobe Premier Elements 2023</a> via Newegg for just $50 each, or $75 as a bundle (after coupon). That&rsquo;s 50 percent off each or a <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.newegg.com/adobe-photoshop-elements-premiere-elements-2023-for-windows-download/p/N82E16832505635?Item=N82E16832505635&amp;xcust=2-1-1389703-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">whopping 62 percent off for the combo</a>.</p>
@@ -59,7 +57,6 @@ Black Friday, Black Friday and Cyber Monday, Productivity Software</div>
  - [https://www.pcworld.com/article/1390712/nintendos-black-friday-switch-deal-is-the-perfect-starter-pack.html](https://www.pcworld.com/article/1390712/nintendos-black-friday-switch-deal-is-the-perfect-starter-pack.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-23 15:31:11+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Sure, Steam Deck may get all the headlines these days, but when you want a no-nonsense, pick-up-and-play portable gaming experience, the vaunted Nintendo Switch still holds the crown&mdash;especially if you want to play Nintendo exclusives like <em>Kirby </em>and <em>Bayonetta</em>. Good news! If you&rsquo;re looking to hop onboard the bandwagon, Nintendo&rsquo;s annual <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/Nintendo-Switch-OLED-Model-White-Joy/dp/B098RKWHHZ&amp;xcust=2-1-1390712-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Black Friday Switch bundle is back</a> and it&rsquo;s the perfect starting point for experiencing everything the console has to offer.</p>
@@ -81,7 +78,6 @@ Gaming</div>
  - [https://www.pcworld.com/article/1390508/save-500-on-this-amoled-touchscreen-samsung-laptop-before-black-friday.html](https://www.pcworld.com/article/1390508/save-500-on-this-amoled-touchscreen-samsung-laptop-before-black-friday.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-23 14:55:25+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>We&rsquo;ve got a awesome laptop deal on tap for you today. Best Buy&rsquo;s selling the <a href="https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-book2-pro-360-2-in-1-15-6-amoled-touch-screen-laptop-intel-12th-gen-evo-core-i7-16gb-ddr5-memory-1tb-ssd-silver%2F6501593.p%3FskuId%3D6501593&amp;publisher_slug=pcworld&amp;exclusive=1&amp;article_name=pcworld&amp;article_url=https%3A%2F%2Fwww.pcworld.com%2Ffeed" rel="nofollow">Samsung Galaxy Book2 Pro 360 for $1,149.99, which is a savings of $500 (!!!)</a>. In our <a href="https://www.pcworld.com/article/693933/samsung-galaxy-book2-pro-360-review-a-thin-light-powerful-beauty.html">review of the 2-in-1</a>, we absolutely loved the outstanding battery life and superb AMOLED touchscreen. We gave it four out of five stars plus an Editor&rsquo;s Choice award. Talk about high praise, eh?</p>
@@ -102,7 +98,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/1390551/get-rokus-streaming-stick-4k-the-best-media-streamer-for-25-during-black-friday.html](https://www.pcworld.com/article/1390551/get-rokus-streaming-stick-4k-the-best-media-streamer-for-25-during-black-friday.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-23 14:41:16+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>&ldquo;If you want to buy a streaming player without overthinking it, just get the&nbsp;Roku Streaming Stick 4K.&rdquo; So proclaims TechHive, PCWorld&rsquo;s streaming-obsessed sister site, en route to crowning the device as the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.techhive.com/article/582754/best-media-streaming-device.html&amp;xcust=2-1-1390551-1-0-0&amp;sref=https://www.pcworld.com/feed">best media streamer you can buy</a>. Black Friday week is a prime time to hop onboard the bandwagon because Amazon is selling the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/dp/B09BKCDXZC&amp;xcust=2-1-1390551-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Roku Streaming Stick 4K for just $25</a>, a full 50 percent off the usual price.</p>
@@ -123,7 +118,6 @@ Streaming Devices</div>
  - [https://www.pcworld.com/article/1389623/this-70-black-friday-bundle-deal-on-microsoft-365-family-is-the-cheapest-weve-seen-yet.html](https://www.pcworld.com/article/1389623/this-70-black-friday-bundle-deal-on-microsoft-365-family-is-the-cheapest-weve-seen-yet.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-23 14:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>At full price, Microsoft 365 is already a good deal. Not only does the subscription give access to Microsoft Office software, but 1TB of cloud storage per user, too. Moreover, you can add time to your account with deals throughout the year&mdash;especially during Black Friday. Right now at Newegg, just <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4521997&amp;xcust=2-1-1389623-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">$70 lets you start or top-up a Family plan for 15 months</a>. That&rsquo;s 44% off the normal price, plus the deal includes a bonus subscription to NordVPN, <a href="https://www.pcworld.com/article/406870/best-vpn-services-apps-reviews-buying-advice.html">one of our top VPN picks</a>!</p>
@@ -162,7 +156,6 @@ Black Friday, Black Friday and Cyber Monday, Cloud Storage</div>
  - [https://www.pcworld.com/article/1386286/best-monitors-for-video-editing.html](https://www.pcworld.com/article/1386286/best-monitors-for-video-editing.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-23 11:45:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Video editors know how to put a monitor to the test. They need a monitor with great color accuracy, a healthy color gamut, 4K resolution and, preferably, HDR. Very few monitors meet all these requirements, and fewer still do so at a competitive price&mdash;but a handful stand out from the crowd. These are the best monitors for video editing. &nbsp;</p>
@@ -514,7 +507,6 @@ Monitors</div>
  - [https://www.pcworld.com/article/1384251/asus-rog-strix-x670-e-motherboard-review.html](https://www.pcworld.com/article/1384251/asus-rog-strix-x670-e-motherboard-review.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-23 11:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
@@ -691,7 +683,6 @@ Desktop PCs, Gaming, Gaming PCs</div>
  - [https://www.pcworld.com/article/1388107/score-a-year-of-hulu-for-just-2-a-month-for-black-friday.html](https://www.pcworld.com/article/1388107/score-a-year-of-hulu-for-just-2-a-month-for-black-friday.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-23 11:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Streaming services are getting more expensive, and it doesn&rsquo;t help that it seems like all the good stuff is spreading out a lot more. If you&rsquo;re feeling the cable-style pinch of increasing prices and ever-expanding subscriptions, you should check out this deal on Hulu. You can get access to the service&rsquo;s entire library of ad-supported streaming TV and movies <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.kmtrak.com/NL5B25/3HWS9F7/?uid=713&amp;xcust=2-2-1388107-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">for just $1.99 a month</a>! </p>
@@ -712,7 +703,6 @@ Entertainment Software</div>
  - [https://www.pcworld.com/article/1388564/get-this-magstack-charging-stand-for-over-40-before-black-friday.html](https://www.pcworld.com/article/1388564/get-this-magstack-charging-stand-for-over-40-before-black-friday.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-23 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>It&rsquo;s the season of gratitude, and we&rsquo;ve got a whole host of deals to be thankful for this year! Until November 23 at 11:59 PM Pacific, we&rsquo;re releasing Black Friday savings early so you can grab all kinds of cool tech at big discounts without waiting until after Thanksgiving. As part of that offer, for a limited time, you can get the&nbsp;MagStack, a&nbsp;<a href="https://shop.pcworld.com/sales/magstack-foldable-3-in-1-wireless-charging-station-with-magnetic-floating-stand?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=magstack-foldable-3-in-1-wireless-charging-station-with-magnetic-floating-stand&amp;utm_term=scsf-458535&amp;utm_content=a0x1P000004YrXaQAK&amp;scsonar=1" rel="noreferrer noopener" target="_blank">foldable 3-in-1 wireless charging station</a>&nbsp;that was rated 4.5 stars in our store, for&nbsp;just $39.99 or 43% off.</p>

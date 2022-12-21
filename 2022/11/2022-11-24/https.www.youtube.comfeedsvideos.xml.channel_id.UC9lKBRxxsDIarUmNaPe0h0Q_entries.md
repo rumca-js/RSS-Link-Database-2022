@@ -1,10 +1,10 @@
-# Source Sorelle Amore Finance, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q
+# Source Sorelle Amore Finance, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q, Source language: en-US
 
 ## The biggest threat to our financial freedom - CBDC
  - [https://www.youtube.com/watch?v=P20tDdxy_yc](https://www.youtube.com/watch?v=P20tDdxy_yc)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q
  - date published: 2022-11-24 15:00:55+00:00
- - tags: None
+ - tags: cdbc
 
 Get a very special offer from NordVPN here: https://nordvpn.com/sorelle
 ✉️ OUR NEWSLETTER: https://www.abundantia.co/

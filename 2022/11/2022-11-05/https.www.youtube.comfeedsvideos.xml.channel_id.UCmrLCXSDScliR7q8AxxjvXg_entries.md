@@ -1,10 +1,9 @@
-# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
+# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, Source language: en-US
 
 ## Kvetching Meltdowns & Twitter: Has the Bird Been Freed?
  - [https://www.youtube.com/watch?v=7Zs3OzksDlY](https://www.youtube.com/watch?v=7Zs3OzksDlY)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
  - date published: 2022-11-05 18:30:07+00:00
- - tags: None
 
 🔴Grab Atlas VPN with 85% OFF using my link: https://get.atlasvpn.com/BlackPigeonSpeaks
 

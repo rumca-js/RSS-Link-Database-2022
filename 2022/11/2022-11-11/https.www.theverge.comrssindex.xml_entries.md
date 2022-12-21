@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Meta is killing Portal and both its unreleased smartwatches
  - [https://www.theverge.com/2022/11/11/23454019/meta-portal-smartwatch-efforts-shutting-down-hardware](https://www.theverge.com/2022/11/11/23454019/meta-portal-smartwatch-efforts-shutting-down-hardware)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-11 23:12:27+00:00
- - tags: None
 
 <figure>
       <img alt="Image of a Meta Portal device, a smart display encased in fabric." src="https://cdn.vox-cdn.com/thumbor/HndmUjVp_o8y30Z2_AX5qonMbaQ=/181x381:1643x1356/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71617166/jtuohy_211014_4807_0007.0.jpg" />
@@ -22,7 +21,6 @@
  - [https://www.theverge.com/2022/11/11/23453814/rainn-wilson-climate-change-name-twitter](https://www.theverge.com/2022/11/11/23453814/rainn-wilson-climate-change-name-twitter)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-11 22:58:24+00:00
- - tags: None
 
 <figure>
       <img alt="Rainn Wilson standing in front of Tribeca Festival logos." src="https://cdn.vox-cdn.com/thumbor/Kh60Ko4MqawDPnGVGSkhvN59p-0=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71617082/1403164289.0.jpg" />
@@ -40,7 +38,6 @@
  - [https://www.theverge.com/23453703/twitter-archive-download-how-to-tweets](https://www.theverge.com/23453703/twitter-archive-download-how-to-tweets)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-11 22:33:10+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/iTPRMxzN0-EpeD8LLN2u03R081s=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71617013/HT027_twitter_0009.0.jpg" />
@@ -61,7 +58,6 @@
  - [https://www.theverge.com/2022/11/11/23453263/microsoft-surface-pro-9-repairability-improved-ifixit-teardown](https://www.theverge.com/2022/11/11/23453263/microsoft-surface-pro-9-repairability-improved-ifixit-teardown)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-11 22:04:17+00:00
- - tags: None
 
 <figure>
       <img alt="A screen capture from iFixit’s Surface Pro 9 teardown video shows a blue surface with its screen removed and a set of hands motioning the battery module away from the chassis after having removed the screws." src="https://cdn.vox-cdn.com/thumbor/4p4x2axewotYsI0sfPZIHqbtdRk=/0x0:3884x2589/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71616892/Screenshot_2022_11_11_at_3.55.54_PM.0.jpeg" />
@@ -78,7 +74,6 @@
  - [https://www.theverge.com/2022/11/11/23453560/ftx-bankruptcy-coinbase-binance-crypto-proof-of-reserves](https://www.theverge.com/2022/11/11/23453560/ftx-bankruptcy-coinbase-binance-crypto-proof-of-reserves)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-11 21:31:19+00:00
- - tags: None
 
 <figure>
       <img alt="Illustration of a digital coin on fire." src="https://cdn.vox-cdn.com/thumbor/3qVuN9CI7rVT0JE3K-mOMpNnWMo=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71616734/acastro_220524_STK428_0003.0.jpg" />
@@ -95,7 +90,6 @@
  - [https://www.theverge.com/2022/11/11/23453510/tiktok-shop-ecommerce-feature-us-test](https://www.theverge.com/2022/11/11/23453510/tiktok-shop-ecommerce-feature-us-test)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-11 21:28:18+00:00
- - tags: None
 
 <figure>
       <img alt="A TikTok logo surrounded by jazzy lines and colorful accents" src="https://cdn.vox-cdn.com/thumbor/aT5IgOBcdWNOmdnhTRg-p9-SfOw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71616706/STK051_VRG_Illo_N_Barclay_5_tiktok.0.jpg" />
@@ -113,7 +107,6 @@
  - [https://www.theverge.com/2022/11/11/23453665/volkswagen-star-trek-office-chair-video](https://www.theverge.com/2022/11/11/23453665/volkswagen-star-trek-office-chair-video)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-11 21:03:52+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/HvLBX7lAvTAto8f6GCKast8UOp4=/0x14:560x387/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71616574/volkswagen_chair__2_.5.gif" />
@@ -138,7 +131,6 @@
  - [https://www.theverge.com/2022/11/11/23453321/overwatch-league-grand-finals-2022-dallas-fuel](https://www.theverge.com/2022/11/11/23453321/overwatch-league-grand-finals-2022-dallas-fuel)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-11 20:53:05+00:00
- - tags: None
 
 <figure>
       <img alt="Photo from the Overwatch League grand finals 2022 featuring a shot of the Dallas Fuel team celebrating their win around the Overwatch League trophy" src="https://cdn.vox-cdn.com/thumbor/JrfVsiAboWSKCvm4dkOex-1uSfQ=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71616484/OWL22_2022_11_04_FINALS_DAL_VICTORYMOMENT_5089.0.jpg" />
@@ -162,7 +154,6 @@
  - [https://www.theverge.com/2022/11/11/23453553/elon-musk-twitter-alex-spiro-ftc-consent-decree](https://www.theverge.com/2022/11/11/23453553/elon-musk-twitter-alex-spiro-ftc-consent-decree)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-11 20:16:57+00:00
- - tags: None
 
 <figure>
       <img alt="Alex Spiro, leader of Elon Musk’s team of attorneys, leaves the US District Court for the Central District of California in Los Angeles on December 6th, 2019." src="https://cdn.vox-cdn.com/thumbor/23mTlmKdzzfawB5HeOzrMSVjvgE=/0x0:4873x3249/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71616329/1186793604.0.jpg" />
@@ -181,7 +172,6 @@
  - [https://www.theverge.com/2022/11/11/23453587/tesla-connector-north-american-standard-ccs-combo](https://www.theverge.com/2022/11/11/23453587/tesla-connector-north-american-standard-ccs-combo)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-11 20:04:43+00:00
- - tags: None
 
 <figure>
       <img alt="Tesla Supercharger station against a sunset and blue sky, and a Model Y is charging at one of the three stations in the shot" src="https://cdn.vox-cdn.com/thumbor/MU14dXn4aR79iArxF5Mw4j26-YU=/0x0:8104x5403/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71616300/1242412568.0.jpg" />
@@ -199,7 +189,6 @@
  - [https://www.theverge.com/2022/11/11/23453575/omnicom-media-group-twitter-advertising-pause](https://www.theverge.com/2022/11/11/23453575/omnicom-media-group-twitter-advertising-pause)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-11 19:57:52+00:00
- - tags: None
 
 <figure>
       <img alt="A black Twitter logo over a red and white background" src="https://cdn.vox-cdn.com/thumbor/FvJI4ssHR50OfOyJfixTBLo5mMA=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71616268/acastro_STK050_07.0.jpg" />
@@ -218,7 +207,6 @@
  - [https://www.theverge.com/23453354/keep-smart-home-devices-online-replace-wifi-router-how-to](https://www.theverge.com/23453354/keep-smart-home-devices-online-replace-wifi-router-how-to)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-11 17:58:16+00:00
- - tags: None
 
 <figure>
       <img alt="An image showing a modem" src="https://cdn.vox-cdn.com/thumbor/Jl1DXU0F-QfsqCuo64H6mpQ9hkQ=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71615673/226053_boostWifi.0.0.jpg" />
@@ -235,7 +223,6 @@
  - [https://www.theverge.com/2022/11/11/23453432/lockbit-ransomware-suspect-arrest-investigation](https://www.theverge.com/2022/11/11/23453432/lockbit-ransomware-suspect-arrest-investigation)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-11 17:32:43+00:00
- - tags: None
 
 <figure>
       <img alt="A laptop surrounded by green and pink message boxes that say “warning.”" src="https://cdn.vox-cdn.com/thumbor/xZnuiCP7LwQjUvUQWUIToR7Q9AI=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71615599/akrales_220309_4977_0258.0.jpg" />
@@ -254,7 +241,6 @@
  - [https://www.theverge.com/23453374/kevin-conroy-batman-died](https://www.theverge.com/23453374/kevin-conroy-batman-died)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-11 17:28:39+00:00
- - tags: None
 
 <figure>
       <img alt="Kevin Conroy at 2021 Los Angeles Comic Con" src="https://cdn.vox-cdn.com/thumbor/DVi30pcpb37K7My3TLe-jSuZWtE=/0x0:5232x3488/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71615565/1357420326.0.jpg" />
@@ -271,7 +257,6 @@
  - [https://www.theverge.com/2022/11/11/23453262/waymo-av-driverless-taxi-phoenix-california-dmv-progress](https://www.theverge.com/2022/11/11/23453262/waymo-av-driverless-taxi-phoenix-california-dmv-progress)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-11 16:57:19+00:00
- - tags: None
 
 <figure>
       <img alt="Self-propelled car from Google sister company Waymo" src="https://cdn.vox-cdn.com/thumbor/_yDVc1AGbPfkaVgwp_HBqdSvmPQ=/53x0:3568x2343/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71615373/1142125645.0.jpg" />
@@ -289,7 +274,6 @@
  - [https://www.theverge.com/23453144/warrior-nun-netflix-season-2-review](https://www.theverge.com/23453144/warrior-nun-netflix-season-2-review)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-11 16:41:01+00:00
- - tags: None
 
 <figure>
       <img alt="A woman peers around a wall; she’s dressed in leather and has a large sword on her back. A man stands next to her peering at the same thing." src="https://cdn.vox-cdn.com/thumbor/03ZXWrWJn8CJykVNQArVDrIe1yc=/0x0:3600x2400/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71615339/WARRIORNUN_208_Unit_01904RC.0.jpg" />
@@ -307,7 +291,6 @@
  - [https://www.theverge.com/2022/11/11/23453236/twitter-eulogy-elon-musk](https://www.theverge.com/2022/11/11/23453236/twitter-eulogy-elon-musk)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-11 16:21:11+00:00
- - tags: None
 
 <figure>
       <img alt="The Twitter bird logo in black over a white and blue background" src="https://cdn.vox-cdn.com/thumbor/WaRwn1zvNWJM1jnJX_uT_aQjfEI=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71615252/acastro_STK050_03.0.jpg" />
@@ -324,7 +307,6 @@
  - [https://www.theverge.com/2022/11/11/23452967/microsoft-flight-simulator-helicopters-gliders-interview](https://www.theverge.com/2022/11/11/23452967/microsoft-flight-simulator-helicopters-gliders-interview)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-11 16:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="The Guimbal Cabri G2 in Microsoft Flight Simulator" src="https://cdn.vox-cdn.com/thumbor/2pepE__ov4hY8BIWj3wZZZx4chg=/300x0:3540x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71615087/09_Guimbal_Cabri_G2.0.jpg" />
@@ -341,7 +323,6 @@
  - [https://www.theverge.com/2022/11/11/23453164/ftx-bankruptcy-filing-sam-bankman-fried-resigns](https://www.theverge.com/2022/11/11/23453164/ftx-bankruptcy-filing-sam-bankman-fried-resigns)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-11 15:35:20+00:00
- - tags: None
 
 <figure>
       <img alt="FTX logo" src="https://cdn.vox-cdn.com/thumbor/0GOYcxTtnhFNIVFtN_W8R1G6X_w=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71614897/STK136_K_Radtke_FTX_02.0.jpg" />
@@ -358,7 +339,6 @@
  - [https://www.theverge.com/23451629/meta-quest-pro-vr-headset-horizon-review](https://www.theverge.com/23451629/meta-quest-pro-vr-headset-horizon-review)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-11 15:30:00+00:00
- - tags: None
 
 <p>Meta’s $1,499 headset is better at showcasing VR’s weaknesses than its new strengths.</p>
   <p>
@@ -369,7 +349,6 @@
  - [https://www.theverge.com/2022/11/11/23451696/asus-zephyrus-g14-dell-xps-ultrabook-gaming-laptop-satechi-charging-mountain-keyboard-deal-sale](https://www.theverge.com/2022/11/11/23451696/asus-zephyrus-g14-dell-xps-ultrabook-gaming-laptop-satechi-charging-mountain-keyboard-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-11 15:25:36+00:00
- - tags: None
 
 <figure>
       <img alt="The white and black Asus ROG Zephyrus G14 laptop, sitting on a desk surrounded by colorful accessories." src="https://cdn.vox-cdn.com/thumbor/SA8Vj4_BvSLEhxS-ccbeszqoxnY=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71614927/akrales_220510_5144_0008.0.jpg" />
@@ -387,7 +366,6 @@
  - [https://www.theverge.com/23413008/gaming-gift-guide-2022-games-accessories-nintendo-playstation-xbox-ideas-tech](https://www.theverge.com/23413008/gaming-gift-guide-2022-games-accessories-nintendo-playstation-xbox-ideas-tech)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-11 15:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Nintendo Switch Joy-Con controllers on a tray of milk and cookies" src="https://cdn.vox-cdn.com/thumbor/UH-Hugz_ZvtKUm8YhNDsXXx4sLU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71614774/226333_HOLIDAYGIFTGUIDE_NINTENDO_01_jgoldberg.0.jpg" />
@@ -404,7 +382,6 @@
  - [https://www.theverge.com/2022/11/11/23453049/control-2-sequel-remedy-entertainment](https://www.theverge.com/2022/11/11/23453049/control-2-sequel-remedy-entertainment)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-11 13:58:30+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot of Control." src="https://cdn.vox-cdn.com/thumbor/pZsvAH_e0kJPXaQx9oEZVnsh9To=/300x0:3540x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71614421/Control_Screenshot_03.0.png" />
@@ -433,7 +410,6 @@
  - [https://www.theverge.com/23451333/ios-cycle-tracking-periods-how-to-iphone](https://www.theverge.com/23451333/ios-cycle-tracking-periods-how-to-iphone)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-11 13:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="iPhone with homepage icons against an illustrated background" src="https://cdn.vox-cdn.com/thumbor/T1nzoBfOxqeqq7WLtC7Z2fj2UUo=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71614173/HT015_S_Haddad_ios_iphone_14_01.0.jpg" />
@@ -451,7 +427,6 @@
  - [https://www.theverge.com/2022/11/11/23451931/elon-musk-twitter-bankrupt-verification-ftc](https://www.theverge.com/2022/11/11/23451931/elon-musk-twitter-bankrupt-verification-ftc)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-11 12:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Elon Musk shown looking downward in front of upside-down Twitter logos." src="https://cdn.vox-cdn.com/thumbor/4mZZleY3EF0d80_pyvS2TPSnpvg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71614015/STK171_VRG_Illo_1_Normand_ElonMusk_001.0.jpg" />
@@ -468,7 +443,6 @@
  - [https://www.theverge.com/2022/11/11/23452978/gm-super-cruise-network-expansion-vehicle-announcement](https://www.theverge.com/2022/11/11/23452978/gm-super-cruise-network-expansion-vehicle-announcement)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-11 11:26:24+00:00
- - tags: None
 
 <figure>
       <img alt="Over-the-shoulder shot of a woman using Super Cruise, GM’s hands-free driver assistance technology, in a Cadillac Escalade." src="https://cdn.vox-cdn.com/thumbor/qPfREI7M5Ia2xsgWIk4ldRHXK0c=/0x42:5444x3671/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71613963/cadillac_escalade_super_cruise.0.jpg" />
@@ -493,7 +467,6 @@
  - [https://www.theverge.com/2022/11/11/23452985/twitter-blue-subscription-service-unavailable-error-message](https://www.theverge.com/2022/11/11/23452985/twitter-blue-subscription-service-unavailable-error-message)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-11 11:22:35+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/c5Tkc0bdXFlNY8882JxgffFMFTE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71613961/acastro_180827_1777_0004.0.jpg" />
@@ -514,7 +487,6 @@
  - [https://www.theverge.com/23451349/atari-50-review-xbox-playstation-switch-steam](https://www.theverge.com/23451349/atari-50-review-xbox-playstation-switch-steam)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-11 11:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot of the Atari Jaguar game Atari Karts." src="https://cdn.vox-cdn.com/thumbor/WGV0ahqpdKgaW7xbEI_PixyNz4I=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71613902/ss_e0d178b2f26ea37863d99a7643670cbb072205c6.0.jpg" />
@@ -531,7 +503,6 @@
  - [https://www.theverge.com/2022/11/11/23451915/pokemon-ash-ketchum-ultimate-journeys-champion](https://www.theverge.com/2022/11/11/23451915/pokemon-ash-ketchum-ultimate-journeys-champion)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-11 10:25:00+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot of Ash Ketchum holding a championship trophy, with Pikachu on his shoulder." src="https://cdn.vox-cdn.com/thumbor/OrVgvOwebT8BcJ6jgjjbJ84kHtc=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71613864/Ash_Ketchum_World_Champion_Screenshot_4.0.jpg" />
@@ -549,7 +520,6 @@
  - [https://www.theverge.com/2022/11/10/23452625/twitter-verified-official-blue-gray-check](https://www.theverge.com/2022/11/10/23452625/twitter-verified-official-blue-gray-check)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-11 03:20:19+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot showing Twitter’s Verified checkmark and the new “Official” label." src="https://cdn.vox-cdn.com/thumbor/-gUtKct9JyFizAwA8oDg31iHLVU=/0x151:1190x944/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71613274/FhEz6ZHVsAAFVlI.0.jpeg" />
@@ -567,7 +537,6 @@
  - [https://www.theverge.com/2022/11/10/23452488/elon-musk-twitter-bank-q-and-a](https://www.theverge.com/2022/11/10/23452488/elon-musk-twitter-bank-q-and-a)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-11 02:34:58+00:00
- - tags: None
 
 <figure>
       <img alt="Illustration showing Elon Musk in profile, in front of Twitter logos with a dollar sign inserted in place of the bird’s eye." src="https://cdn.vox-cdn.com/thumbor/PuAMsdHrH0WfoPQDYkmoTadmt28=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71613135/STK171_VRG_Illo_6_Normand_ElonMusk_06.0.jpg" />
@@ -585,7 +554,6 @@
  - [https://www.theverge.com/2022/11/10/23452196/elon-musk-twitter-employee-meeting-q-and-a](https://www.theverge.com/2022/11/10/23452196/elon-musk-twitter-employee-meeting-q-and-a)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-11 01:02:14+00:00
- - tags: None
 
 <figure>
       <img alt="Elon Musk in front of the Twitter logo." src="https://cdn.vox-cdn.com/thumbor/dK7g10HCEiK66VkaVRB-q-qZoQ8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71612928/VRG_Illo_STK022_K_Radtke_Musk_Twitter_Upside_Down.0.jpg" />
@@ -602,7 +570,6 @@
  - [https://www.theverge.com/2022/11/10/23452247/cfpb-complaint-bulletin-crypto-assets-scams](https://www.theverge.com/2022/11/10/23452247/cfpb-complaint-bulletin-crypto-assets-scams)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-11 01:01:49+00:00
- - tags: None
 
 <figure>
       <img alt="Gold coins on a red background." src="https://cdn.vox-cdn.com/thumbor/2dPHM-CA6_RzcY87thO_GAF65K4=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71612926/acastro_220524_STK428_0001.0.jpg" />
@@ -619,7 +586,6 @@
  - [https://www.theverge.com/2022/11/10/23452321/youtube-live-qa-ama-livestreams-question-answer](https://www.theverge.com/2022/11/10/23452321/youtube-live-qa-ama-livestreams-question-answer)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-11 00:18:09+00:00
- - tags: None
 
 <figure>
       <img alt="YouTube’s logo with geometric design in the background" src="https://cdn.vox-cdn.com/thumbor/uF85S95Wc6ypGe8F8-hi2v3CG5Y=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71612792/acastro_STK092_04.0.jpg" />

@@ -1,10 +1,9 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss
+# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
 
 ## Medibank says it won't pay a ransom despite threats to leak data
  - [https://www.techradar.com/news/medibank-says-it-wont-pay-a-ransom-despite-threats-to-leak-data/](https://www.techradar.com/news/medibank-says-it-wont-pay-a-ransom-despite-threats-to-leak-data/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-08 23:30:07+00:00
- - tags: None
 
 The risk of paying is even greater than that of the private data being leaked, Medibank CEO says.
 
@@ -12,7 +11,6 @@ The risk of paying is even greater than that of the private data being leaked, M
  - [https://www.techradar.com/news/you-can-now-print-emoji-in-google-workspace-spreadsheets-should-you-ever-want-to/](https://www.techradar.com/news/you-can-now-print-emoji-in-google-workspace-spreadsheets-should-you-ever-want-to/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-08 21:39:55+00:00
- - tags: None
 
 Print out your favorite emoji-covered spreadsheets thanks to this Google Workspace Sheets update.
 
@@ -20,7 +18,6 @@ Print out your favorite emoji-covered spreadsheets thanks to this Google Workspa
  - [https://www.techradar.com/news/apple-could-be-tracking-your-every-move-in-the-app-store/](https://www.techradar.com/news/apple-could-be-tracking-your-every-move-in-the-app-store/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-08 20:02:14+00:00
- - tags: None
 
 Even single taps are being tracked and sent directly to Apple, researchers find.
 
@@ -28,7 +25,6 @@ Even single taps are being tracked and sent directly to Apple, researchers find.
  - [https://www.techradar.com/news/your-next-big-zoom-meeting-might-take-place-at-a-cinema/](https://www.techradar.com/news/your-next-big-zoom-meeting-might-take-place-at-a-cinema/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-08 19:03:54+00:00
- - tags: None
 
 Zoom signs partnership with movie theatre chain AMC which could see work meetings coming to a cinema near you.
 
@@ -36,7 +32,6 @@ Zoom signs partnership with movie theatre chain AMC which could see work meeting
  - [https://www.techradar.com/news/chip-giants-join-together-in-new-aim-to-cut-down-semiconductor-emissions/](https://www.techradar.com/news/chip-giants-join-together-in-new-aim-to-cut-down-semiconductor-emissions/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-08 18:02:34+00:00
- - tags: None
 
 Semiconductor leaders meet at COP27 to brainstorm ways to cut the industry's environmental footprint.
 
@@ -44,7 +39,6 @@ Semiconductor leaders meet at COP27 to brainstorm ways to cut the industry's env
  - [https://www.techradar.com/news/nvidias-canceled-rtx-4080-12gb-could-come-back-from-the-dead-with-a-new-name/](https://www.techradar.com/news/nvidias-canceled-rtx-4080-12gb-could-come-back-from-the-dead-with-a-new-name/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-08 18:01:51+00:00
- - tags: None
 
 According to leaks, we may see the RTX 4080 12GB in the form of an RTX 4070 Ti in early January.
 
@@ -52,7 +46,6 @@ According to leaks, we may see the RTX 4080 12GB in the form of an RTX 4070 Ti i
  - [https://www.techradar.com/news/the-xbox-series-x-could-be-getting-new-graphics-modes-that-can-save-you-money/](https://www.techradar.com/news/the-xbox-series-x-could-be-getting-new-graphics-modes-that-can-save-you-money/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-08 17:27:13+00:00
- - tags: None
 
 Microsoft is looking into new energy saving modes on the Xbox Series X which could impact in-game frame rate and resolution
 
@@ -60,7 +53,6 @@ Microsoft is looking into new energy saving modes on the Xbox Series X which cou
  - [https://www.techradar.com/news/lgs-new-stretchable-high-res-display-is-bizarre-but-brilliant/](https://www.techradar.com/news/lgs-new-stretchable-high-res-display-is-bizarre-but-brilliant/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-08 17:14:31+00:00
- - tags: None
 
 LG has debuted a new form of stretchable display panel.
 
@@ -68,7 +60,6 @@ LG has debuted a new form of stretchable display panel.
  - [https://www.techradar.com/news/theres-a-whole-new-way-to-find-your-files-in-microsoft-teams/](https://www.techradar.com/news/theres-a-whole-new-way-to-find-your-files-in-microsoft-teams/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-08 17:03:33+00:00
- - tags: None
 
 New Microsoft Teams Files App should help you keep track of everything you need.
 
@@ -76,7 +67,6 @@ New Microsoft Teams Files App should help you keep track of everything you need.
  - [https://www.techradar.com/news/the-ultimate-all-in-one-for-streamers-singers-podcasters-and-audio-pros/](https://www.techradar.com/news/the-ultimate-all-in-one-for-streamers-singers-podcasters-and-audio-pros/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-08 16:27:11+00:00
- - tags: None
 
 Everywhere’s a studio with the astonishing RØDECaster Pro II
 
@@ -84,7 +74,6 @@ Everywhere’s a studio with the astonishing RØDECaster Pro II
  - [https://www.techradar.com/news/ifi-uno-is-a-tiny-cheap-box-that-easily-upgrades-sound-from-your-phone-or-laptop/](https://www.techradar.com/news/ifi-uno-is-a-tiny-cheap-box-that-easily-upgrades-sound-from-your-phone-or-laptop/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-08 16:19:53+00:00
- - tags: None
 
 The British brand’s dinky (and relatively affordable) $79 DAC won’t burn a hole in your pocket ahead of the festive season.
 
@@ -92,7 +81,6 @@ The British brand’s dinky (and relatively affordable) $79 DAC won’t burn a h
  - [https://www.techradar.com/news/this-sonos-style-amp-from-svs-turns-any-speaker-into-a-streaming-machine/](https://www.techradar.com/news/this-sonos-style-amp-from-svs-turns-any-speaker-into-a-streaming-machine/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-08 16:11:17+00:00
- - tags: None
 
 This feature-packed  amp from SVS is like a complete hi-fi in one – just add speakers.
 
@@ -100,7 +88,6 @@ This feature-packed  amp from SVS is like a complete hi-fi in one – just add s
  - [https://www.techradar.com/news/this-rather-odd-ransomware-deletes-your-data-just-a-few-bytes-at-a-time/](https://www.techradar.com/news/this-rather-odd-ransomware-deletes-your-data-just-a-few-bytes-at-a-time/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-08 15:38:20+00:00
- - tags: None
 
 Azov Ransomware replaces every other 666 bytes of data with junk, rendering the entire device useless
 
@@ -108,7 +95,6 @@ Azov Ransomware replaces every other 666 bytes of data with junk, rendering the 
  - [https://www.techradar.com/news/oculus-founders-modified-meta-quest-pro-takes-immersive-vr-too-far/](https://www.techradar.com/news/oculus-founders-modified-meta-quest-pro-takes-immersive-vr-too-far/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-08 15:25:42+00:00
- - tags: None
 
 Palmer Luckey, the founder of Oculus, has created a modified Meta Quest Pro that explodes if you fail in a video game.
 
@@ -116,7 +102,6 @@ Palmer Luckey, the founder of Oculus, has created a modified Meta Quest Pro that
  - [https://www.techradar.com/news/a-nintendo-switch-price-increase-could-be-on-the-horizon/](https://www.techradar.com/news/a-nintendo-switch-price-increase-could-be-on-the-horizon/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-08 15:13:02+00:00
- - tags: None
 
 The Nintendo Switch won't be getting a price increase anytime soon, the company confirmed recently.
 
@@ -124,7 +109,6 @@ The Nintendo Switch won't be getting a price increase anytime soon, the company 
  - [https://www.techradar.com/news/mozilla-is-offering-dollar35-million-to-responsible-startups/](https://www.techradar.com/news/mozilla-is-offering-dollar35-million-to-responsible-startups/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-08 14:50:01+00:00
- - tags: None
 
 Pool of $35 million available to tech startups who maintain the values of “privacy, inclusion, transparency, and human dignity”.
 
@@ -132,7 +116,6 @@ Pool of $35 million available to tech startups who maintain the values of “pri
  - [https://www.techradar.com/news/garmin-takes-swipe-at-apple-with-its-months-not-days-instinct-crossover-battery-life/](https://www.techradar.com/news/garmin-takes-swipe-at-apple-with-its-months-not-days-instinct-crossover-battery-life/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-08 14:07:42+00:00
- - tags: None
 
 Garmin Instinct Crossover has analog hands, but all Garmin's usual smarts and a potentially infinite battery life.
 
@@ -140,7 +123,6 @@ Garmin Instinct Crossover has analog hands, but all Garmin's usual smarts and a 
  - [https://www.techradar.com/news/heres-what-a-ps5-slim-could-mean-for-the-current-console-generation/](https://www.techradar.com/news/heres-what-a-ps5-slim-could-mean-for-the-current-console-generation/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-08 14:04:34+00:00
- - tags: None
 
 It’s been reported that a PS5 Slim could be coming in 2023, with the console revision featuring a removable disc drive.
 
@@ -148,7 +130,6 @@ It’s been reported that a PS5 Slim could be coming in 2023, with the console r
  - [https://www.techradar.com/news/businesses-everywhere-are-still-spending-a-huge-amount-on-databases/](https://www.techradar.com/news/businesses-everywhere-are-still-spending-a-huge-amount-on-databases/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-08 14:00:39+00:00
- - tags: None
 
 IDC report shows continual growth in data management spend for all kinds of companies.
 
@@ -156,7 +137,6 @@ IDC report shows continual growth in data management spend for all kinds of comp
  - [https://www.techradar.com/news/apples-life-saving-satellite-feature-could-arrive-in-your-iphone-14s-next-update/](https://www.techradar.com/news/apples-life-saving-satellite-feature-could-arrive-in-your-iphone-14s-next-update/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-08 13:43:32+00:00
- - tags: None
 
 Apple has shared a tentative release date for its highly-anticipated Emergency SOS via Satellite feature.
 
@@ -164,7 +144,6 @@ Apple has shared a tentative release date for its highly-anticipated Emergency S
  - [https://www.techradar.com/news/the-fbi-says-russian-hacktivists-are-only-seeing-limited-success-with-ddos-attacks/](https://www.techradar.com/news/the-fbi-says-russian-hacktivists-are-only-seeing-limited-success-with-ddos-attacks/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-08 13:42:45+00:00
- - tags: None
 
 These attacks have been more of a nuisance than an actual threat, the FBI claims.
 
@@ -172,7 +151,6 @@ These attacks have been more of a nuisance than an actual threat, the FBI claims
  - [https://www.techradar.com/news/mcdonalds-enters-the-pc-gaming-scene-could-the-kfconsole-have-competition/](https://www.techradar.com/news/mcdonalds-enters-the-pc-gaming-scene-could-the-kfconsole-have-competition/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-08 13:27:52+00:00
- - tags: None
 
 This isn’t the first time a fast-food chain has tried to muscle in on the gaming space, and it won’t be the last.
 
@@ -180,7 +158,6 @@ This isn’t the first time a fast-food chain has tried to muscle in on the gami
  - [https://www.techradar.com/news/netflixs-gears-of-war-movie-will-only-work-with-one-big-change/](https://www.techradar.com/news/netflixs-gears-of-war-movie-will-only-work-with-one-big-change/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-08 12:48:21+00:00
- - tags: None
 
 Netflix is making a live-action Gears of War film – but there's only one way it'll actually work.
 
@@ -188,7 +165,6 @@ Netflix is making a live-action Gears of War film – but there's only one way i
  - [https://www.techradar.com/news/google-and-renault-are-building-a-software-defined-vehicle/](https://www.techradar.com/news/google-and-renault-are-building-a-software-defined-vehicle/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-08 12:47:19+00:00
- - tags: None
 
 New Renault cars will send data to Google Cloud servers for faster processing.
 
@@ -196,7 +172,6 @@ New Renault cars will send data to Google Cloud servers for faster processing.
  - [https://www.techradar.com/news/microsoft-is-testing-ads-in-windows-11-to-help-you-move-to-a-mac-for-black-friday/](https://www.techradar.com/news/microsoft-is-testing-ads-in-windows-11-to-help-you-move-to-a-mac-for-black-friday/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-08 12:26:31+00:00
- - tags: None
 
 A user discovered a OneDrive ad when they went to shut down their PC, and there's others that have been found since.
 
@@ -204,7 +179,6 @@ A user discovered a OneDrive ad when they went to shut down their PC, and there'
  - [https://www.techradar.com/news/audio-pro-link2-lets-you-add-streaming-smarts-to-vintage-hi-fi/](https://www.techradar.com/news/audio-pro-link2-lets-you-add-streaming-smarts-to-vintage-hi-fi/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-08 12:12:18+00:00
- - tags: None
 
 You can now add Spotify and Tidal Connect to your ‘dumb’ hi-fi with Audio Pro’s latest streaming AirPlay 2/Google Cast hub.
 
@@ -212,7 +186,6 @@ You can now add Spotify and Tidal Connect to your ‘dumb’ hi-fi with Audio Pr
  - [https://www.techradar.com/news/norton-lifelock-rebrands-as-gen-following-avast-acquistion/](https://www.techradar.com/news/norton-lifelock-rebrands-as-gen-following-avast-acquistion/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-08 11:33:52+00:00
- - tags: None
 
 Gen will have two headquarters, and more than 500 million customers.
 
@@ -220,7 +193,6 @@ Gen will have two headquarters, and more than 500 million customers.
  - [https://www.techradar.com/news/walmart-has-a-chromebook-for-just-dollar79-in-its-early-black-friday-deals/](https://www.techradar.com/news/walmart-has-a-chromebook-for-just-dollar79-in-its-early-black-friday-deals/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-08 10:50:13+00:00
- - tags: None
 
 Walmart currently has one of the cheapest Chromebook deals we've seen this year in its early Black Friday sale.
 
@@ -228,7 +200,6 @@ Walmart currently has one of the cheapest Chromebook deals we've seen this year 
  - [https://www.techradar.com/news/the-amd-radeon-rx-7900-xtx-is-a-massive-step-in-the-right-direction/](https://www.techradar.com/news/the-amd-radeon-rx-7900-xtx-is-a-massive-step-in-the-right-direction/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-08 06:00:10+00:00
- - tags: None
 
 Between AMD's new Ryzen processors and Radeon RX graphics cards, it might be time for me to make the jump to Team Red.
 
@@ -236,7 +207,6 @@ Between AMD's new Ryzen processors and Radeon RX graphics cards, it might be tim
  - [https://www.techradar.com/news/airbnb-hidden-fees-are-about-to-check-out-for-good/](https://www.techradar.com/news/airbnb-hidden-fees-are-about-to-check-out-for-good/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-08 05:00:25+00:00
- - tags: None
 
 Airbnb will display a location's total listing price and add new educational resources for Hosts.
 
@@ -244,6 +214,5 @@ Airbnb will display a location's total listing price and add new educational res
  - [https://www.techradar.com/news/aussie-consumer-watchdog-is-taking-dell-to-court-over-misleading-discounts/](https://www.techradar.com/news/aussie-consumer-watchdog-is-taking-dell-to-court-over-misleading-discounts/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-08 02:55:37+00:00
- - tags: None
 
 PC dynamo Dell has run afoul of the ACCC, following allegations of the tech company “inflating” some offers.

@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## Elon goes to war
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59661](https://www.codeproject.com/script/News/View.aspx?nwid=59661)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-30 05:00:00+00:00
- - tags: None
 
 "When two tribes go to war, a point is all you can score"
 
@@ -12,7 +11,6 @@
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59660](https://www.codeproject.com/script/News/View.aspx?nwid=59660)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-30 05:00:00+00:00
- - tags: None
 
 I'm guessing in The Cloud(tm)?
 
@@ -20,7 +18,6 @@ I'm guessing in The Cloud(tm)?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59658](https://www.codeproject.com/script/News/View.aspx?nwid=59658)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-30 05:00:00+00:00
- - tags: None
 
 Woo and/or Hoo
 
@@ -28,7 +25,6 @@ Woo and/or Hoo
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59663](https://www.codeproject.com/script/News/View.aspx?nwid=59663)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-30 05:00:00+00:00
- - tags: None
 
 Is that a quicksort, or a moose?
 
@@ -36,7 +32,6 @@ Is that a quicksort, or a moose?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59667](https://www.codeproject.com/script/News/View.aspx?nwid=59667)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-30 05:00:00+00:00
- - tags: None
 
 Then they came for ... whatever Minecraft is, but I did nothing as I still don't understand it
 
@@ -44,7 +39,6 @@ Then they came for ... whatever Minecraft is, but I did nothing as I still don't
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59664](https://www.codeproject.com/script/News/View.aspx?nwid=59664)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-30 05:00:00+00:00
- - tags: None
 
 Frag your opponents for a promotion?
 
@@ -52,7 +46,6 @@ Frag your opponents for a promotion?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59659](https://www.codeproject.com/script/News/View.aspx?nwid=59659)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-30 05:00:00+00:00
- - tags: None
 
 If it's broke, they won't fix it
 
@@ -60,7 +53,6 @@ If it's broke, they won't fix it
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59665](https://www.codeproject.com/script/News/View.aspx?nwid=59665)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-30 05:00:00+00:00
- - tags: None
 
 Evergreen article: Things aren't as good as they were in the old days
 
@@ -68,7 +60,6 @@ Evergreen article: Things aren't as good as they were in the old days
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59666](https://www.codeproject.com/script/News/View.aspx?nwid=59666)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-30 05:00:00+00:00
- - tags: None
 
 For everyone waiting to "jack into cyberspace" as an anime heroine
 
@@ -76,6 +67,5 @@ For everyone waiting to "jack into cyberspace" as an anime heroine
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59662](https://www.codeproject.com/script/News/View.aspx?nwid=59662)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-30 05:00:00+00:00
- - tags: None
 
 Read me a bedtime story, Mr. Edge

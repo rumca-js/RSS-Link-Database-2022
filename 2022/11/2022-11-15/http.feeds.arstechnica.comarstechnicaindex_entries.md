@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## The Snapdragon 8 Gen 2 brings Wi-Fi 7, sticks with some 32-bit support
  - [https://arstechnica.com/?p=1897640](https://arstechnica.com/?p=1897640)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-15 23:00:49+00:00
- - tags: None
 
 Features 32-bit support, Wi-Fi 7, the AV1 codec, and hardware ray tracing.
 
@@ -12,7 +11,6 @@ Features 32-bit support, Wi-Fi 7, the AV1 codec, and hardware ray tracing.
  - [https://arstechnica.com/?p=1898074](https://arstechnica.com/?p=1898074)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-15 22:24:43+00:00
- - tags: None
 
 No, it's not a Game Boy Advance SP. This is the monochrome Pocket with hinge.
 
@@ -20,7 +18,6 @@ No, it's not a Game Boy Advance SP. This is the monochrome Pocket with hinge.
  - [https://arstechnica.com/?p=1897727](https://arstechnica.com/?p=1897727)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-15 22:13:22+00:00
- - tags: None
 
 This would increase the odds of finding another prehistoric human body in melting ice.
 
@@ -28,7 +25,6 @@ This would increase the odds of finding another prehistoric human body in meltin
  - [https://arstechnica.com/?p=1898062](https://arstechnica.com/?p=1898062)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-15 21:24:22+00:00
- - tags: None
 
 Simone Gold used charity funds to buy $3.6M house, group leaders claim.
 
@@ -36,7 +32,6 @@ Simone Gold used charity funds to buy $3.6M house, group leaders claim.
  - [https://arstechnica.com/?p=1897964](https://arstechnica.com/?p=1897964)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-15 21:08:00+00:00
- - tags: None
 
 It'll come to France, Germany, Ireland, and the UK in December.
 
@@ -44,7 +39,6 @@ It'll come to France, Germany, Ireland, and the UK in December.
  - [https://arstechnica.com/?p=1898061](https://arstechnica.com/?p=1898061)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-15 20:51:52+00:00
- - tags: None
 
 Active in dozens of advanced hacks since 2009, Billbug is still going strong.
 
@@ -52,7 +46,6 @@ Active in dozens of advanced hacks since 2009, Billbug is still going strong.
  - [https://arstechnica.com/?p=1897739](https://arstechnica.com/?p=1897739)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-15 19:40:25+00:00
- - tags: None
 
 "We are going," NASA says. "We sure hope so," America replies.
 
@@ -60,7 +53,6 @@ Active in dozens of advanced hacks since 2009, Billbug is still going strong.
  - [https://arstechnica.com/?p=1897926](https://arstechnica.com/?p=1897926)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-15 19:08:07+00:00
- - tags: None
 
 Past years' sweater themes have included <em>Minesweeper</em> and Windows XP.
 
@@ -68,7 +60,6 @@ Past years' sweater themes have included <em>Minesweeper</em> and Windows XP.
  - [https://arstechnica.com/?p=1897896](https://arstechnica.com/?p=1897896)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-15 18:59:46+00:00
- - tags: None
 
 If you're going to reverse-sue under DMCA and CFAA, you'd better prove it.
 
@@ -76,7 +67,6 @@ If you're going to reverse-sue under DMCA and CFAA, you'd better prove it.
  - [https://arstechnica.com/?p=1897944](https://arstechnica.com/?p=1897944)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-15 18:31:50+00:00
- - tags: None
 
 Is the iOS "walled garden" a security feature, or just an "excuse" to rake in profits?
 
@@ -84,7 +74,6 @@ Is the iOS "walled garden" a security feature, or just an "excuse" to rake in pr
  - [https://arstechnica.com/?p=1897903](https://arstechnica.com/?p=1897903)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-15 18:07:39+00:00
- - tags: None
 
 "Motivated scammers/bad actors could be willing to pay," internal report warned.
 
@@ -92,7 +81,6 @@ Is the iOS "walled garden" a security feature, or just an "excuse" to rake in pr
  - [https://arstechnica.com/?p=1897852](https://arstechnica.com/?p=1897852)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-15 18:00:06+00:00
- - tags: None
 
 Lucid is the latest automaker to show off an electric three-row SUV.
 
@@ -100,7 +88,6 @@ Lucid is the latest automaker to show off an electric three-row SUV.
  - [https://arstechnica.com/?p=1897895](https://arstechnica.com/?p=1897895)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-15 17:49:14+00:00
- - tags: None
 
 As many as 14 Twitter employees fired for tweets, Slack messages.
 
@@ -108,7 +95,6 @@ As many as 14 Twitter employees fired for tweets, Slack messages.
  - [https://arstechnica.com/?p=1897843](https://arstechnica.com/?p=1897843)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-15 17:05:48+00:00
- - tags: None
 
 In part 2 of our exclusive four-part preview, hear about the sounds &#038; music of horror.
 
@@ -116,7 +102,6 @@ In part 2 of our exclusive four-part preview, hear about the sounds &#038; music
  - [https://arstechnica.com/?p=1897456](https://arstechnica.com/?p=1897456)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-15 16:00:29+00:00
- - tags: None
 
 Used by NASA and many others, time-triggered Ethernet safety can be compromised.
 
@@ -124,7 +109,6 @@ Used by NASA and many others, time-triggered Ethernet safety can be compromised.
  - [https://arstechnica.com/?p=1897873](https://arstechnica.com/?p=1897873)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-15 14:51:33+00:00
- - tags: None
 
 Regulators around the world have "substantial interest" after crypto group’s demise.
 
@@ -132,6 +116,5 @@ Regulators around the world have "substantial interest" after crypto group’s d
  - [https://arstechnica.com/?p=1893810](https://arstechnica.com/?p=1893810)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-15 12:00:32+00:00
- - tags: None
 
 There's a reason it isn't a Surface PC, but it's good for its intended purpose.

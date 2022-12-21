@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## Account problems
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59568](https://www.codeproject.com/script/News/View.aspx?nwid=59568)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-21 05:00:00+00:00
- - tags: None
 
 
 
@@ -12,7 +11,6 @@
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59566](https://www.codeproject.com/script/News/View.aspx?nwid=59566)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-21 05:00:00+00:00
- - tags: None
 
 *gift-wrapping sold separately
 
@@ -20,7 +18,6 @@
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59565](https://www.codeproject.com/script/News/View.aspx?nwid=59565)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-21 05:00:00+00:00
- - tags: None
 
 Data types deemed useful
 
@@ -28,7 +25,6 @@ Data types deemed useful
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59559](https://www.codeproject.com/script/News/View.aspx?nwid=59559)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-21 05:00:00+00:00
- - tags: None
 
 Caution: Definitely contains nuts
 
@@ -36,7 +32,6 @@ Caution: Definitely contains nuts
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59558](https://www.codeproject.com/script/News/View.aspx?nwid=59558)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-21 05:00:00+00:00
- - tags: None
 
 "By your command"
 
@@ -44,7 +39,6 @@ Caution: Definitely contains nuts
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59557](https://www.codeproject.com/script/News/View.aspx?nwid=59557)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-21 05:00:00+00:00
- - tags: None
 
 Just think of it as a space heater that plays games
 
@@ -52,7 +46,6 @@ Just think of it as a space heater that plays games
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59561](https://www.codeproject.com/script/News/View.aspx?nwid=59561)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-21 05:00:00+00:00
- - tags: None
 
 I'm #15 with a bullet on the bug leaderboard!
 
@@ -60,7 +53,6 @@ I'm #15 with a bullet on the bug leaderboard!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59560](https://www.codeproject.com/script/News/View.aspx?nwid=59560)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-21 05:00:00+00:00
- - tags: None
 
 Use MFA they said. We'll be safe...
 
@@ -68,7 +60,6 @@ Use MFA they said. We'll be safe...
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59567](https://www.codeproject.com/script/News/View.aspx?nwid=59567)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-21 05:00:00+00:00
- - tags: None
 
 Because I hear "code reviews" are all the rage these days
 
@@ -76,7 +67,6 @@ Because I hear "code reviews" are all the rage these days
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59563](https://www.codeproject.com/script/News/View.aspx?nwid=59563)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-21 05:00:00+00:00
- - tags: None
 
 "If you make a great number of predictions, the ones that were wrong will soon be forgotten, and the ones that turn out to be true will make you famous."
 
@@ -84,7 +74,6 @@ Because I hear "code reviews" are all the rage these days
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59562](https://www.codeproject.com/script/News/View.aspx?nwid=59562)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-21 05:00:00+00:00
- - tags: None
 
 Does it also make you look thinner in the photos?
 
@@ -92,6 +81,5 @@ Does it also make you look thinner in the photos?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59564](https://www.codeproject.com/script/News/View.aspx?nwid=59564)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-21 05:00:00+00:00
- - tags: None
 
 While they're hacking the Bluetooth, can they also fix the pairing problems I've been having?

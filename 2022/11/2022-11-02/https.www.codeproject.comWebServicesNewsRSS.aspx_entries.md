@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## Exploring the 'almost creepy' AI engine in Visual Studio 2022
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59366](https://www.codeproject.com/script/News/View.aspx?nwid=59366)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-02 04:00:00+00:00
- - tags: None
 
 Not "that one", the other creepy one
 
@@ -12,7 +11,6 @@ Not "that one", the other creepy one
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59372](https://www.codeproject.com/script/News/View.aspx?nwid=59372)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-02 04:00:00+00:00
- - tags: None
 
 Why migrate when you can just write a new app on the new database?
 
@@ -20,7 +18,6 @@ Why migrate when you can just write a new app on the new database?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59374](https://www.codeproject.com/script/News/View.aspx?nwid=59374)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-02 04:00:00+00:00
- - tags: None
 
 #include *.h; (Mission accomplished!)
 
@@ -28,7 +25,6 @@ Why migrate when you can just write a new app on the new database?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59373](https://www.codeproject.com/script/News/View.aspx?nwid=59373)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-02 04:00:00+00:00
- - tags: None
 
 I guess people do like to work in their pyjamas
 
@@ -36,7 +32,6 @@ I guess people do like to work in their pyjamas
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59368](https://www.codeproject.com/script/News/View.aspx?nwid=59368)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-02 04:00:00+00:00
- - tags: None
 
 I know - stories about Google cancelling things is almost a "sun came up today" kind of story
 
@@ -44,7 +39,6 @@ I know - stories about Google cancelling things is almost a "sun came up today" 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59367](https://www.codeproject.com/script/News/View.aspx?nwid=59367)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-02 04:00:00+00:00
- - tags: None
 
 To solve: put 1 million USD in unmarked bills behind the third bench in the park
 
@@ -52,7 +46,6 @@ To solve: put 1 million USD in unmarked bills behind the third bench in the park
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59375](https://www.codeproject.com/script/News/View.aspx?nwid=59375)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-02 04:00:00+00:00
- - tags: None
 
 It's almost like there are a lot of bored developers out there
 
@@ -60,7 +53,6 @@ It's almost like there are a lot of bored developers out there
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59370](https://www.codeproject.com/script/News/View.aspx?nwid=59370)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-02 04:00:00+00:00
- - tags: None
 
 It's a system of tubes. Of switch statements.
 
@@ -68,7 +60,6 @@ It's a system of tubes. Of switch statements.
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59371](https://www.codeproject.com/script/News/View.aspx?nwid=59371)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-02 04:00:00+00:00
- - tags: None
 
 "We've got a line in the sky"
 
@@ -76,6 +67,5 @@ It's a system of tubes. Of switch statements.
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59369](https://www.codeproject.com/script/News/View.aspx?nwid=59369)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-02 04:00:00+00:00
- - tags: None
 
 And only, in some cases

@@ -1,10 +1,9 @@
-# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
+# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug, Source language: en-US
 
 ## Chinese people are angry now! The World Cup showed them masks aren't needed in the world.
  - [https://www.youtube.com/watch?v=zFA_c9PjBEI](https://www.youtube.com/watch?v=zFA_c9PjBEI)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
  - date published: 2022-11-26 18:28:50+00:00
- - tags: None
 
 #chinainsights 
 Chinese people, who have experienced nearly three years of strict control, have become weary of fighting the epidemic. In addition to the massive protests that broke out at Foxconn in Henan on Nov. 23rd, there was a massive revolt against the anti-epidemic policy in Guangzhou's Haizhu district in mid-November. 

@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## A far-sighted approach to machine learning
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59615](https://www.codeproject.com/script/News/View.aspx?nwid=59615)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-25 05:00:00+00:00
- - tags: None
 
 New system can teach a group of cooperative or competitive AI agents to find an optimal long-term solution.
 
@@ -12,7 +11,6 @@ New system can teach a group of cooperative or competitive AI agents to find an 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59614](https://www.codeproject.com/script/News/View.aspx?nwid=59614)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-25 05:00:00+00:00
- - tags: None
 
 SQL Server IoT, a binary equivalent of SQL Server, is designed for fixed function use cases.
 
@@ -20,7 +18,6 @@ SQL Server IoT, a binary equivalent of SQL Server, is designed for fixed functio
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59625](https://www.codeproject.com/script/News/View.aspx?nwid=59625)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-25 05:00:00+00:00
- - tags: None
 
 Add your NI to our AI
 
@@ -28,7 +25,6 @@ Add your NI to our AI
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59624](https://www.codeproject.com/script/News/View.aspx?nwid=59624)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-25 05:00:00+00:00
- - tags: None
 
 A cheery thought for your weekend enjoyment
 
@@ -36,7 +32,6 @@ A cheery thought for your weekend enjoyment
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59616](https://www.codeproject.com/script/News/View.aspx?nwid=59616)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-25 05:00:00+00:00
- - tags: None
 
 Discover the exciting enhancements in GitHub that empower Machine Learning practitioners to do more.
 
@@ -44,7 +39,6 @@ Discover the exciting enhancements in GitHub that empower Machine Learning pract
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59627](https://www.codeproject.com/script/News/View.aspx?nwid=59627)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-25 05:00:00+00:00
- - tags: None
 
 "Winter is coming"
 
@@ -52,7 +46,6 @@ Discover the exciting enhancements in GitHub that empower Machine Learning pract
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59613](https://www.codeproject.com/script/News/View.aspx?nwid=59613)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-25 05:00:00+00:00
- - tags: None
 
 Google's AmbiML team recently open-sourced KataOS, a provably secure operating system for embedded ML hardware.
 
@@ -60,7 +53,6 @@ Google's AmbiML team recently open-sourced KataOS, a provably secure operating s
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59623](https://www.codeproject.com/script/News/View.aspx?nwid=59623)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-25 05:00:00+00:00
- - tags: None
 
 They really need to talk to that company
 
@@ -68,7 +60,6 @@ They really need to talk to that company
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59626](https://www.codeproject.com/script/News/View.aspx?nwid=59626)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-25 05:00:00+00:00
- - tags: None
 
 By never collecting $200?
 
@@ -76,7 +67,6 @@ By never collecting $200?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59617](https://www.codeproject.com/script/News/View.aspx?nwid=59617)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-25 05:00:00+00:00
- - tags: None
 
 IBM announced that it has developed and contributed code to the open-source PyTorch machine learning project to enable the technology to work more efficiently with commodity ethernet-based networking
 
@@ -92,7 +82,6 @@ Insert 10p to finish that calculation
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59620](https://www.codeproject.com/script/News/View.aspx?nwid=59620)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-25 05:00:00+00:00
- - tags: None
 
 It's not me, so it must be you?
 
@@ -100,7 +89,6 @@ It's not me, so it must be you?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59622](https://www.codeproject.com/script/News/View.aspx?nwid=59622)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-25 05:00:00+00:00
- - tags: None
 
 Don't interrupt while it's watching its show!
 
@@ -108,7 +96,6 @@ Don't interrupt while it's watching its show!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59629](https://www.codeproject.com/script/News/View.aspx?nwid=59629)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-25 05:00:00+00:00
- - tags: None
 
 "Please put down your weapon. You have 20 seconds to comply."
 
@@ -116,7 +103,6 @@ Don't interrupt while it's watching its show!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59618](https://www.codeproject.com/script/News/View.aspx?nwid=59618)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-25 05:00:00+00:00
- - tags: None
 
 Ask this question: what development framework would perfectly suit the multi-platform support of IoT without compromising functionality or security for the businesses involved?
 
@@ -124,7 +110,6 @@ Ask this question: what development framework would perfectly suit the multi-pla
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59619](https://www.codeproject.com/script/News/View.aspx?nwid=59619)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-25 05:00:00+00:00
- - tags: None
 
 You are a developer and want a simple tool to create virtual devices and test IoT flows?
 
@@ -132,6 +117,5 @@ You are a developer and want a simple tool to create virtual devices and test Io
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59621](https://www.codeproject.com/script/News/View.aspx?nwid=59621)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-25 05:00:00+00:00
- - tags: None
 
 "A strange game. The only winning move is not to play. How about a nice game of chess?"

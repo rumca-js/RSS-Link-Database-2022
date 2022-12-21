@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## Microsoft is going to clamp down on your OneDrive data cap
  - [https://www.pcworld.com/article/1374270/microsoft-is-clamping-down-on-its-onedrive-data-cap.html](https://www.pcworld.com/article/1374270/microsoft-is-clamping-down-on-its-onedrive-data-cap.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-08 21:38:34+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Microsoft is placing additional limits on the amount of data you can store in OneDrive, beginning in February of next year, and removing a significant anonymity feature shortly thereafter.</p>
@@ -38,7 +37,6 @@ Cloud Storage, Email Clients</div>
  - [https://www.pcworld.com/article/1374246/zoom-debuts-zoom-spots-your-forever-zoom-call.html](https://www.pcworld.com/article/1374246/zoom-debuts-zoom-spots-your-forever-zoom-call.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-08 20:08:50+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Zoom&mdash;the simple, straightforward video platform we all came to know over the last few years&mdash;now wants to expand its reach by adding email and &ldquo;coworking,&rdquo; too. </p>
@@ -78,7 +76,6 @@ Utilities</div>
  - [https://www.pcworld.com/article/1374192/microsoft-create-is-a-front-door-to-fun.html](https://www.pcworld.com/article/1374192/microsoft-create-is-a-front-door-to-fun.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-08 18:48:36+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Even if you&rsquo;re a hardcore Microsoft 365 / Office subscriber, chances are that you don&rsquo;t take advantage of all of the services that Microsoft offers you. A new portal, Microsoft Create, is designed to encourage you to do just that.</p>
@@ -108,7 +105,6 @@ Microsoft Office, Productivity Software</div>
  - [https://www.pcworld.com/article/1367164/how-to-block-and-unblock-someone-in-gmail.html](https://www.pcworld.com/article/1367164/how-to-block-and-unblock-someone-in-gmail.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-08 17:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you&rsquo;re receiving unwanted communications via e-mail from another Gmail user, it&rsquo;s pretty easy to block them. Messages from blocked users will then automatically be sent to the Spam folder. However, if you change your mind later on, you can always unblock them. Here&rsquo;s how to do it.</p>
@@ -265,7 +261,6 @@ Gmail</div>
  - [https://www.pcworld.com/article/1373805/the-windows-11-start-menu-is-microsofts-latest-advertising-space.html](https://www.pcworld.com/article/1373805/the-windows-11-start-menu-is-microsofts-latest-advertising-space.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-08 15:35:52+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Far be it from us to criticize a little advertising &mdash; after all, it&rsquo;s what keeps the lights on at this site, and pretty much every similar one around the web. But users who buy a computer and, by extension, a $100-plus copy of Windows from Microsoft are on firmer ground for complaint. For example, the latest place Microsoft wants to experiment with a little add-on-advertisement is the Windows 11 Start Menu, specifically the flyout menu you see when you click on your user profile picture. </p>
@@ -288,7 +283,6 @@ Windows 11</div>
  - [https://www.pcworld.com/article/402867/should-you-wait-for-black-friday-to-upgrade-your-pc.html](https://www.pcworld.com/article/402867/should-you-wait-for-black-friday-to-upgrade-your-pc.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-08 15:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Ask the internet if you should wait until Black Friday to upgrade your PC, and you&rsquo;ll get a stream of comments dismissing it as a time for good deals.</p>
@@ -502,7 +496,6 @@ Black Friday and Cyber Monday, Business, Computer Components, Computers</div>
  - [https://www.pcworld.com/article/1373705/lgs-latest-oled-monitor-is-1000-cheaper-but-still-pricey.html](https://www.pcworld.com/article/1373705/lgs-latest-oled-monitor-is-1000-cheaper-but-still-pricey.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-08 15:16:02+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Slowly, ever so slowly, <a href="https://www.pcworld.com/article/813361/best-4k-monitors.html">OLED displays are entering the PC monitor market</a>. LG was one of the first to arrive &mdash; which makes sense, since it&rsquo;s the largest maker of OLED TVs &mdash; but has so far mostly stuck to the professional graphics portion of the market. And it remains there with the latest OLED monitor, though it&rsquo;s going a little smaller and slightly more affordable. The newest OLED Ultrafine display is 27 inches and (wait for it) $2,000. Amazingly, that&rsquo;s still $1,000 cheaper than LG&rsquo;s previous 27-inch OLED. </p>
@@ -531,7 +524,6 @@ Monitors</div>
  - [https://www.pcworld.com/article/919862/mediateks-dimensity-9200-wants-a-seat-at-the-cool-kids-table.html](https://www.pcworld.com/article/919862/mediateks-dimensity-9200-wants-a-seat-at-the-cool-kids-table.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-08 14:57:24+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>MediaTek has announced the Dimensity 9200, a flagship-styled smartphone chip that you&rsquo;re not buying now &mdash; but that the company hopes will eventually become as popular as others sold within phones in the United States. </p>
@@ -579,7 +571,6 @@ CPUs and Processors</div>
  - [https://www.pcworld.com/article/1373801/this-asus-gaming-laptop-is-powerful-lightweight-and-500-off.html](https://www.pcworld.com/article/1373801/this-asus-gaming-laptop-is-powerful-lightweight-and-500-off.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-08 14:37:01+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you&rsquo;re looking for a gaming laptop that&rsquo;s fast and lightweight, you&rsquo;re in luck, as we&rsquo;ve got an awesome deal on tap today. Best Buy&rsquo;s selling the <a href="https://bestbuy.7tiv.net/c/321564/614286/10014?u=https://www.bestbuy.com/site/asus-rog-zephyrus-14-fhd-144hz-gaming-laptop-amd-ryzen-7-16gb-ddr4-memory-nvidia-geforce-rtx-3060-512gb-pcie-ssd-moonlight-white/6494633.p?skuId=6494633&amp;subid1=2-1-1373801-1-0-0" rel="nofollow">Asus ROG Zephyrus for $899.99</a>, which is a massive savings of $500. It weighs just three and a half pounds, which is unusual for a gaming laptop&mdash;most gaming rigs tip the scales at around five pounds or more. The moonlight white color scheme is also swanky as hell and a nice departure from the usual aggressive black-and-red gamer aesthetic. But let&rsquo;s get right into the most important bit: the guts.</p>
@@ -600,7 +591,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/1370047/acer-predator-triton-300-se-review-ready-to-work-or-play.html](https://www.pcworld.com/article/1370047/acer-predator-triton-300-se-review-ready-to-work-or-play.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-08 11:45:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
@@ -847,7 +837,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/407021/best-windows-backup-software.html](https://www.pcworld.com/article/407021/best-windows-backup-software.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-08 11:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>We need backup software for our PCs because our storage drives won&rsquo;t last forever. The best Windows backup software covers our butts when our primary drive finally up and dies.</p>
@@ -1272,7 +1261,6 @@ Business, Productivity Software</div>
  - [https://www.pcworld.com/article/1074150/practice-python-with-over-100-hands-on-exercises-for-25-with-code-direct.html](https://www.pcworld.com/article/1074150/practice-python-with-over-100-hands-on-exercises-for-25-with-code-direct.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-08 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>When it comes to coding, staring at a textbook and reading theory after theory won&rsquo;t do you much good. As with all skills,&nbsp;<a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://ledutokens.medium.com/importance-of-practice-in-programming-2019-guide-105ff37e8351&amp;xcust=2-2-1074150-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">learning to code takes practice</a>, and if you want to&nbsp;<a href="https://shop.pcworld.com/sales/code-direct-python-interactive-coding-lifetime-access?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=code-direct-python-interactive-coding-lifetime-access&amp;utm_term=scsf-555326&amp;utm_content=a0x1P000004lqdjQAA&amp;scsonar=1" rel="noreferrer noopener" target="_blank">get hands-on experience</a>&nbsp;in languages such as Python, look no further than Code Direct, available now for $24.99.</p>

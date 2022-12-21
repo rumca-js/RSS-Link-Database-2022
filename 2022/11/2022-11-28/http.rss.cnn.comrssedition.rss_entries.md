@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## CNN reporter on 'unbelievable scenes' in China as protesters speak out
  - [https://www.cnn.com/videos/world/2022/11/28/china-protests-zero-covid-wang-pkg-lead-vpx.cnn](https://www.cnn.com/videos/world/2022/11/28/china-protests-zero-covid-wang-pkg-lead-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 23:24:47+00:00
- - tags: None
 
 Protesters have taken to the streets across China after years of the government's zero-Covid policy have left citizens feeling desperate. CNN's Selina Wang reports from China.
 
@@ -12,7 +11,6 @@ Protesters have taken to the streets across China after years of the government'
  - [https://www.cnn.com/2022/11/28/europe/russians-shell-kherson-after-retreat-intl-cmd/index.html](https://www.cnn.com/2022/11/28/europe/russians-shell-kherson-after-retreat-intl-cmd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 23:16:39+00:00
- - tags: None
 
 
 
@@ -20,7 +18,6 @@ Protesters have taken to the streets across China after years of the government'
  - [https://www.cnn.com/2022/11/28/football/juventus-board-resign-andrea-agnelli-spt-intl/index.html](https://www.cnn.com/2022/11/28/football/juventus-board-resign-andrea-agnelli-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 23:06:35+00:00
- - tags: None
 
 The entire board of directors of Juventus, including the club's President Andrea Agnelli and CEO Maurizio Arrivabene, has resigned over charges of false accounting, a statement from the Italian soccer club said Monday.
 
@@ -28,7 +25,6 @@ The entire board of directors of Juventus, including the club's President Andrea
  - [https://www.cnn.com/2022/11/28/tech/elon-musk-twitter-apple-app-store/index.html](https://www.cnn.com/2022/11/28/tech/elon-musk-twitter-apple-app-store/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 22:00:41+00:00
- - tags: None
 
 Elon Musk on Monday claimed that Apple has "threatened" to pull Twitter from its iOS app store, a move that could be devastating to the company Musk just acquired for $44 billion.
 
@@ -36,7 +32,6 @@ Elon Musk on Monday claimed that Apple has "threatened" to pull Twitter from its
  - [https://www.cnn.com/style/article/mcdonalds-vain-finland-fashion-upcycling-trnd/index.html](https://www.cnn.com/style/article/mcdonalds-vain-finland-fashion-upcycling-trnd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 21:48:54+00:00
- - tags: None
 
 A Finnish brand is bringing high fashion to an unexpected venue: McDonald's.
 
@@ -44,7 +39,6 @@ A Finnish brand is bringing high fashion to an unexpected venue: McDonald's.
  - [https://www.cnn.com/2022/11/28/tech/twitter-china-protests-spam/index.html](https://www.cnn.com/2022/11/28/tech/twitter-china-protests-spam/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 20:43:56+00:00
- - tags: None
 
 Twitter searches for the widespread Covid-19-related protests in China are returning a flood of spam, pornography and gibberish that some disinformation researchers say at first glance appear to be a deliberate attempt by the Chinese government or its allies to drown out images of the demonstrations.
 
@@ -52,7 +46,6 @@ Twitter searches for the widespread Covid-19-related protests in China are retur
  - [https://www.cnn.com/videos/business/2022/11/28/joy-behar-phone-goes-off-the-view-cprog-orig-fj.cnn-business](https://www.cnn.com/videos/business/2022/11/28/joy-behar-phone-goes-off-the-view-cprog-orig-fj.cnn-business)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 20:21:41+00:00
- - tags: None
 
 During a live broadcast of ABC's daytime talk show "The View", multiple hosts scramble to turn Joy Behar's phone silent after it keeps going off.
 
@@ -60,7 +53,6 @@ During a live broadcast of ABC's daytime talk show "The View", multiple hosts sc
  - [https://www.cnn.com/videos/us/2022/11/28/shanquella-robinson-mom-vpx.cnn](https://www.cnn.com/videos/us/2022/11/28/shanquella-robinson-mom-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 20:13:37+00:00
- - tags: None
 
 Prosecutors in Mexico have issued an arrest warrant in the death of Shanquella Robinson, the North Carolina woman who was found dead in Mexico. CNN's Jim Sciutto speaks with Shanquella's mother Salamondra Robinson.
 
@@ -68,7 +60,6 @@ Prosecutors in Mexico have issued an arrest warrant in the death of Shanquella R
  - [https://www.cnn.com/2022/11/28/football/iran-soccer-family-threats-intl-spt/index.html](https://www.cnn.com/2022/11/28/football/iran-soccer-family-threats-intl-spt/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 19:47:00+00:00
- - tags: None
 
 • US captain shuts down Iranian reporter after question about discrimination in America
 • Analysis: Did US Soccer score an own goal?
@@ -78,7 +69,6 @@ Prosecutors in Mexico have issued an arrest warrant in the death of Shanquella R
  - [https://www.cnn.com/videos/us/2022/11/28/hawaii-mauna-loa-volcano-erupts-images-first-40-years-newsroom-vpx.cnn](https://www.cnn.com/videos/us/2022/11/28/hawaii-mauna-loa-volcano-erupts-images-first-40-years-newsroom-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 19:32:46+00:00
- - tags: None
 
 For the first time in nearly 40 years the world's largest active volcano, Mauna Loa is erupting on Hawaii's big island. CNN meteorologist Tom Sater breaks down the volcano's history.
 
@@ -86,7 +76,6 @@ For the first time in nearly 40 years the world's largest active volcano, Mauna 
  - [https://www.cnn.com/2022/11/28/business/green-sprouts-sippy-cup-recall-trnd/index.html](https://www.cnn.com/2022/11/28/business/green-sprouts-sippy-cup-recall-trnd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 19:12:58+00:00
- - tags: None
 
 A baby product company has recalled around 10,500 sippy cups and bottles over lead poisoning risks.
 
@@ -94,7 +83,6 @@ A baby product company has recalled around 10,500 sippy cups and bottles over le
  - [https://www.cnn.com/videos/tv/2022/11/28/victor-gao-china-protests-covid-amanpour.cnn](https://www.cnn.com/videos/tv/2022/11/28/victor-gao-china-protests-covid-amanpour.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 19:12:41+00:00
- - tags: None
 
 Former Chinese government official Victor Gao gives his perspective on the latest protests and the country's "Zero Covid" policy.
 
@@ -102,7 +90,6 @@ Former Chinese government official Victor Gao gives his perspective on the lates
  - [https://www.cnn.com/2022/11/28/entertainment/dua-lipa-has-been-granted-albanian-citizenship/index.html](https://www.cnn.com/2022/11/28/entertainment/dua-lipa-has-been-granted-albanian-citizenship/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 19:07:20+00:00
- - tags: None
 
 Dua Lipa has been granted Albanian citizenship for spreading international awareness of Albania.
 
@@ -110,7 +97,6 @@ Dua Lipa has been granted Albanian citizenship for spreading international aware
  - [https://www.cnn.com/2022/11/28/world/un-great-barrier-reef-coral-climate/index.html](https://www.cnn.com/2022/11/28/world/un-great-barrier-reef-coral-climate/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 18:04:53+00:00
- - tags: None
 
 The Great Barrier Reef should be added to the list of world heritage sites that are "in danger", a team of scientists concluded after conducting a mission to the world's largest coral reef system.
 
@@ -118,7 +104,6 @@ The Great Barrier Reef should be added to the list of world heritage sites that 
  - [https://www.cnn.com/videos/world/2022/11/28/hong-kong-protests-solidarity-mainland-china-watson-newsroom-vpx.cnn](https://www.cnn.com/videos/world/2022/11/28/hong-kong-protests-solidarity-mainland-china-watson-newsroom-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 17:55:38+00:00
- - tags: None
 
 CNN senior international correspondent Ivan Watson speaks to a protester in Hong Kong who says he is a "victim" of China's zero-Covid policy.
 
@@ -126,7 +111,6 @@ CNN senior international correspondent Ivan Watson speaks to a protester in Hong
  - [https://www.cnn.com/2022/11/28/us/austin-edwards-riverside-catfishing-murders/index.html](https://www.cnn.com/2022/11/28/us/austin-edwards-riverside-catfishing-murders/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 17:11:47+00:00
- - tags: None
 
 A former Virginia police officer, believed to have murdered a teenager's family in Riverside, California after "catfishing" her online, was killed in shootout while trying to flee authorities, the city's police department said in a news release.
 
@@ -134,7 +118,6 @@ A former Virginia police officer, believed to have murdered a teenager's family 
  - [https://www.cnn.com/2022/11/28/health/monkeypox-renamed-mpox/index.html](https://www.cnn.com/2022/11/28/health/monkeypox-renamed-mpox/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 17:03:42+00:00
- - tags: None
 
 The World Health Organization announced Monday that "mpox" is now the preferred name for monkeypox.
 
@@ -142,7 +125,6 @@ The World Health Organization announced Monday that "mpox" is now the preferred 
  - [https://www.cnn.com/videos/media/2022/11/28/bbc-journalist-arrested-china-wang-cnntm-intl-ldn-vpx.cnn](https://www.cnn.com/videos/media/2022/11/28/bbc-journalist-arrested-china-wang-cnntm-intl-ldn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 17:00:12+00:00
- - tags: None
 
 BBC journalist Edward Lawrence was arrested by police in Shanghai, China, on Sunday while covering protests against Covid restrictions. The British network said Lawrence was "beaten and kicked by the police."
 
@@ -150,7 +132,6 @@ BBC journalist Edward Lawrence was arrested by police in Shanghai, China, on Sun
  - [https://www.cnn.com/2022/11/28/weather/us-leads-tornado-numbers-tornado-alley-xpn/index.html](https://www.cnn.com/2022/11/28/weather/us-leads-tornado-numbers-tornado-alley-xpn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 16:58:42+00:00
- - tags: None
 
 The US averages over 1,150 tornadoes every year. That's more than any other country. In fact, it's more than Canada, Australia and all European countries combined.
 
@@ -158,7 +139,6 @@ The US averages over 1,150 tornadoes every year. That's more than any other coun
  - [https://www.cnn.com/2022/11/28/politics/trump-org-trial-late-night-filings-juan-merchan/index.html](https://www.cnn.com/2022/11/28/politics/trump-org-trial-late-night-filings-juan-merchan/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 16:46:53+00:00
- - tags: None
 
 Judge Juan Merchan reprimanded lawyers for the Trump Corporation for filing motions and new exhibits late Sunday night that they want to introduce Monday morning when they question Mazars accountant Donald Bender, telling them he will no longer accept any motions from the attorneys.
 
@@ -166,7 +146,6 @@ Judge Juan Merchan reprimanded lawyers for the Trump Corporation for filing moti
  - [https://www.cnn.com/2022/11/28/politics/kellyanne-conway-meeting-january-6-committee/index.html](https://www.cnn.com/2022/11/28/politics/kellyanne-conway-meeting-january-6-committee/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 16:34:36+00:00
- - tags: None
 
 Kellyanne Conway, who served in the White House as a senior adviser to former President Donald Trump, is meeting with the House select committee investigating the January 6, 2021, insurrection in person on Monday, according to a source familiar with the meeting.
 
@@ -174,7 +153,6 @@ Kellyanne Conway, who served in the White House as a senior adviser to former Pr
  - [https://www.cnn.com/videos/entertainment/2022/11/28/nicole-kidman-hugh-jackman-music-man-hat-auction-cprog-mxp-vpx.hln](https://www.cnn.com/videos/entertainment/2022/11/28/nicole-kidman-hugh-jackman-music-man-hat-auction-cprog-mxp-vpx.hln)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 16:32:07+00:00
- - tags: None
 
 Actress Nicole Kidman surprised Broadway theatergoers when she bid a large sum for Hugh Jackman's hat from "The Music Man" during an auction.
 
@@ -182,7 +160,6 @@ Actress Nicole Kidman surprised Broadway theatergoers when she bid a large sum f
  - [https://www.cnn.com/videos/entertainment/2022/11/28/jay-leno-burn-accident-comedy-performance-cprog-mxp-vpx.hln](https://www.cnn.com/videos/entertainment/2022/11/28/jay-leno-burn-accident-comedy-performance-cprog-mxp-vpx.hln)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 16:03:03+00:00
- - tags: None
 
 Comedian and former "Tonight Show" host Jay Leno returned to the comedy stage two weeks after sustaining significant burn injuries in a gasoline fire.
 
@@ -190,7 +167,6 @@ Comedian and former "Tonight Show" host Jay Leno returned to the comedy stage tw
  - [https://www.cnn.com/2022/11/28/us/merriam-webster-word-year-2022-gaslighting-cec/index.html](https://www.cnn.com/2022/11/28/us/merriam-webster-word-year-2022-gaslighting-cec/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 15:52:21+00:00
- - tags: None
 
 Merriam-Webster's word of the year -- and this you can believe -- is "gaslighting."
 
@@ -198,7 +174,6 @@ Merriam-Webster's word of the year -- and this you can believe -- is "gaslightin
  - [https://www.cnn.com/2022/11/28/business/blockfi-bankruptcy-ftx-fallout/index.html](https://www.cnn.com/2022/11/28/business/blockfi-bankruptcy-ftx-fallout/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 15:36:00+00:00
- - tags: None
 
 Crypto lender BlockFi filed for bankruptcy Monday, becoming the latest casualty of the financial contagion unleashed by the collapse of Sam Bankman-Fried's empire.
 
@@ -206,7 +181,6 @@ Crypto lender BlockFi filed for bankruptcy Monday, becoming the latest casualty 
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-11-28-22/h_b60c080be8b04526e0bd24727aac476a](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-11-28-22/h_b60c080be8b04526e0bd24727aac476a)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 15:35:07.643056+00:00
- - tags: None
 
 
 
@@ -214,7 +188,6 @@ Crypto lender BlockFi filed for bankruptcy Monday, becoming the latest casualty 
  - [https://www.cnn.com/2022/11/28/world/new-dwarf-dinosaur-species-discovered-scn/index.html](https://www.cnn.com/2022/11/28/world/new-dwarf-dinosaur-species-discovered-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 15:29:56+00:00
- - tags: None
 
 A previously unknown dinosaur with a remarkably flat head lived around 70 million years ago on an island home to dwarfed prehistoric creatures.
 
@@ -222,7 +195,6 @@ A previously unknown dinosaur with a remarkably flat head lived around 70 millio
  - [https://www.cnn.com/2022/11/28/politics/hutchinson-conscience-gop-trump-2024/index.html](https://www.cnn.com/2022/11/28/politics/hutchinson-conscience-gop-trump-2024/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 15:12:44+00:00
- - tags: None
 
 There was a time when a former president dining with a White nationalist and a rapper who has voiced antisemitic views would have been roundly condemned by members of both parties.
 
@@ -230,7 +202,6 @@ There was a time when a former president dining with a White nationalist and a r
  - [https://www.cnn.com/2022/11/28/middleeast/world-cup-catalyst-for-change-qatar-mime-intl/index.html](https://www.cnn.com/2022/11/28/middleeast/world-cup-catalyst-for-change-qatar-mime-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 15:04:11+00:00
- - tags: None
 
 Qatar is unrecognizable from the country it was 12 years ago when it won its bid to host the 2022 FIFA World Cup. Around $220 billion has been pumped into building an entirely new city, a state-of-the-art metro system and hundreds of new hotel and apartment buildings.
 
@@ -238,7 +209,6 @@ Qatar is unrecognizable from the country it was 12 years ago when it won its bid
  - [https://www.cnn.com/2022/11/28/politics/us-russia-arms-control-talks/index.html](https://www.cnn.com/2022/11/28/politics/us-russia-arms-control-talks/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 15:00:06+00:00
- - tags: None
 
 The Biden administration is blaming Russia for postponing meetings to discuss the nuclear arms agreement between the two countries that were scheduled to begin in Egypt on Tuesday, with a State Department spokesperson saying the decision was made "unilaterally" by Russia.
 
@@ -246,7 +216,6 @@ The Biden administration is blaming Russia for postponing meetings to discuss th
  - [https://www.cnn.com/videos/world/2022/11/28/kim-jong-un-daughter-north-korea-succession-cnntm-contd-intl-ldn-vpx.cnn](https://www.cnn.com/videos/world/2022/11/28/kim-jong-un-daughter-north-korea-succession-cnntm-contd-intl-ldn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 14:57:07+00:00
- - tags: None
 
 Ju Ae, the daughter of North Korea's leader Kim Jong Un, has made a second public appearance within a week sparking a debate about political succession in the country. CNN's Kaitlan Collins discusses with Newsweek columnist Gordon Chang.
 
@@ -254,7 +223,6 @@ Ju Ae, the daughter of North Korea's leader Kim Jong Un, has made a second publi
  - [https://www.cnn.com/travel/article/hotels-lavish-christmas-decorations-feat/index.html](https://www.cnn.com/travel/article/hotels-lavish-christmas-decorations-feat/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 14:31:25+00:00
- - tags: None
 
 Twinkling lights, glitter, Champagne and petit fours. It's time to treat yourself to some holiday cheer.
 
@@ -262,7 +230,6 @@ Twinkling lights, glitter, Champagne and petit fours. It's time to treat yoursel
  - [https://www.cnn.com/2022/11/28/entertainment/jennifer-grey-dirty-dancing/index.html](https://www.cnn.com/2022/11/28/entertainment/jennifer-grey-dirty-dancing/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 14:29:44+00:00
- - tags: None
 
 Jennifer Grey's Frances "Baby" Houseman isn't the only original "Dirty Dancing" character returning for the sequel.
 
@@ -270,7 +237,6 @@ Jennifer Grey's Frances "Baby" Houseman isn't the only original "Dirty Dancing" 
  - [https://www.cnn.com/2022/11/28/entertainment/pete-davidson-emily-ratajkowski-game/index.html](https://www.cnn.com/2022/11/28/entertainment/pete-davidson-emily-ratajkowski-game/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 13:31:49+00:00
- - tags: None
 
 If Pete Davidson and Emily Ratajkowski are trying to tamp down speculation they are dating, they aren't going about it in the best way.
 
@@ -278,7 +244,6 @@ If Pete Davidson and Emily Ratajkowski are trying to tamp down speculation they 
  - [https://www.cnn.com/videos/world/2022/11/25/ukraine-war-winter-effect-lon-orig-ek.cnn](https://www.cnn.com/videos/world/2022/11/25/ukraine-war-winter-effect-lon-orig-ek.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 13:31:06+00:00
- - tags: None
 
 CNN military analyst, retired Colonel Cedric Leighton, explains how the changing seasons could affect military strategy on both sides, as Russia's war on Ukraine continues.
 
@@ -286,7 +251,6 @@ CNN military analyst, retired Colonel Cedric Leighton, explains how the changing
  - [https://www.cnn.com/style/article/bob-dylan-autographs-intl-scli/index.html](https://www.cnn.com/style/article/bob-dylan-autographs-intl-scli/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 13:23:58+00:00
- - tags: None
 
 Bob Dylan has apologized for an "error in judgment," after it emerged that he used a machine to autograph special copies of his new book that had been advertised as "hand-signed."
 
@@ -294,7 +258,6 @@ Bob Dylan has apologized for an "error in judgment," after it emerged that he us
  - [https://www.cnn.com/collections/world-cup-112822/](https://www.cnn.com/collections/world-cup-112822/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 13:21:45+00:00
- - tags: None
 
 
 
@@ -302,7 +265,6 @@ Bob Dylan has apologized for an "error in judgment," after it emerged that he us
  - [https://www.cnn.com/2022/11/28/africa/landslide-kills-14-cameroon-intl/index.html](https://www.cnn.com/2022/11/28/africa/landslide-kills-14-cameroon-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 12:42:42+00:00
- - tags: None
 
 A landslide in Cameroon's capital Yaounde on Sunday killed at least 14 people who were attending a funeral, the region's governor said.
 
@@ -310,7 +272,6 @@ A landslide in Cameroon's capital Yaounde on Sunday killed at least 14 people wh
  - [https://www.cnn.com/2022/11/28/health/public-health-funding-community-groups/index.html](https://www.cnn.com/2022/11/28/health/public-health-funding-community-groups/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 12:32:18+00:00
- - tags: None
 
 As the US government distributes some of the most significant investments ever to improve public health, grass-roots organizations that work in underserved communities say they're being overlooked.
 
@@ -318,7 +279,6 @@ As the US government distributes some of the most significant investments ever t
  - [https://www.cnn.com/2022/11/28/weather/hawaii-mauna-loa-volcano-eruption/index.html](https://www.cnn.com/2022/11/28/weather/hawaii-mauna-loa-volcano-eruption/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 12:21:28+00:00
- - tags: None
 
 An ashfall advisory is in effect Monday for Hawaii's Big Island and surrounding waters until 6 a.m. HST (noon EST) after Mauna Loa, the world's largest active volcano, began erupting in Hawaii Volcanoes National Park.
 
@@ -326,7 +286,6 @@ An ashfall advisory is in effect Monday for Hawaii's Big Island and surrounding 
  - [https://www.cnn.com/2022/11/28/opinions/billionaires-pledge-share-wealth-collins/index.html](https://www.cnn.com/2022/11/28/opinions/billionaires-pledge-share-wealth-collins/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 12:19:50+00:00
- - tags: None
 
 In the United States, we are now treated to regular announcements about benevolent billionaires pledging to share their wealth. Amazon founder Jeff Bezos, for instance, recently told CNN that he would be giving away the majority of his $124 billion fortune in his lifetime. Further back in 2015, Meta founder and CEO Mark Zuckerberg announced he would give away what he makes from 99% of his Facebook shares.
 
@@ -334,7 +293,6 @@ In the United States, we are now treated to regular announcements about benevole
  - [https://www.cnn.com/2022/11/28/us/buffalo-tops-grocery-shooting-payton-gendron-plea/index.html](https://www.cnn.com/2022/11/28/us/buffalo-tops-grocery-shooting-payton-gendron-plea/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 12:13:14+00:00
- - tags: None
 
 The alleged mass shooter charged with killing 10 people in what prosecutors called a racially motivated attack at a Buffalo, New York, grocery store earlier this year is expected to plead guilty to state charges Monday, according to a victims' attorney.
 
@@ -342,7 +300,6 @@ The alleged mass shooter charged with killing 10 people in what prosecutors call
  - [https://www.cnn.com/2022/11/28/entertainment/1923-trailer-release-scli-intl/index.html](https://www.cnn.com/2022/11/28/entertainment/1923-trailer-release-scli-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 12:11:54+00:00
- - tags: None
 
 Fans of the TV blockbuster "Yellowstone" are in for a treat after Paramount + released a preview of the upcoming prequel "1923" -- starring Harrison Ford and Oscar-winner Helen Mirren.
 
@@ -350,7 +307,6 @@ Fans of the TV blockbuster "Yellowstone" are in for a treat after Paramount + re
  - [https://www.cnn.com/2022/11/28/football/brussels-riots-belgium-morocco-world-cup-spt-intl/index.html](https://www.cnn.com/2022/11/28/football/brussels-riots-belgium-morocco-world-cup-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 12:09:27+00:00
- - tags: None
 
 Belgian police detained dozens of people on Sunday after Morocco's 2-0 World Cup win over Belgium at the World Cup triggered riots in Brussels.
 
@@ -358,7 +314,6 @@ Belgian police detained dozens of people on Sunday after Morocco's 2-0 World Cup
  - [https://www.cnn.com/2022/11/28/africa/gunfire-besieged-somalia-hotel-intl/index.html](https://www.cnn.com/2022/11/28/africa/gunfire-besieged-somalia-hotel-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 12:07:48+00:00
- - tags: None
 
 Gunfire was heard on Monday from inside a besieged hotel in the Somali capital that was attacked on the weekend, a nearby resident and a police officer said, while parliament said it had postponed a scheduled session.
 
@@ -366,7 +321,6 @@ Gunfire was heard on Monday from inside a besieged hotel in the Somali capital t
  - [https://www.cnn.com/2022/11/28/opinions/eating-disorder-covid-relapse-grande/index.html](https://www.cnn.com/2022/11/28/opinions/eating-disorder-covid-relapse-grande/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 12:07:12+00:00
- - tags: None
 
 In the middle of a Zoom call in the spring of 2020, I was hit with a sudden dizzy spell. Intense gut pain sent me rushing to the bathroom of my small basement apartment. My heart pounded and sweat beads formed along my brow. I wasn't sure if I wanted to vomit, cry or curl up in bed. The pain intensified. I broke down sobbing on the cold bathroom tiles.
 
@@ -374,7 +328,6 @@ In the middle of a Zoom call in the spring of 2020, I was hit with a sudden dizz
  - [https://www.cnn.com/2022/11/28/energy/us-oil-prices-china-protests/index.html](https://www.cnn.com/2022/11/28/energy/us-oil-prices-china-protests/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 12:02:57+00:00
- - tags: None
 
 US oil prices have fallen to their lowest level since December 2021 on fears that protests in China against Covid-19 lockdowns will dent demand.
 
@@ -382,7 +335,6 @@ US oil prices have fallen to their lowest level since December 2021 on fears tha
  - [https://www.cnn.com/travel/article/the-woman-traveling-the-world-by-motorcycle/index.html](https://www.cnn.com/travel/article/the-woman-traveling-the-world-by-motorcycle/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 11:44:23+00:00
- - tags: None
 
 Born into a family of motorcyclists, Bridget McCutchen was able to witness firsthand the thrill that riding a motorbike could bring from a very early age.
 
@@ -390,7 +342,6 @@ Born into a family of motorcyclists, Bridget McCutchen was able to witness first
  - [https://www.cnn.com/2022/11/28/business/barclays-ceo-cancer-venkat/index.html](https://www.cnn.com/2022/11/28/business/barclays-ceo-cancer-venkat/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 11:15:53+00:00
- - tags: None
 
 The CEO of Barclays said Monday that he has been diagnosed with cancer.
 
@@ -398,7 +349,6 @@ The CEO of Barclays said Monday that he has been diagnosed with cancer.
  - [https://www.cnn.com/style/article/kim-kardashian-balenciaga-intl-scli/index.html](https://www.cnn.com/style/article/kim-kardashian-balenciaga-intl-scli/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 11:10:28+00:00
- - tags: None
 
 Kim Kardashian says she is "re-evaluating" her working relationship with Balenciaga after the luxury fashion house featured children cuddling teddy bears dressed in bondage gear in its latest advertising campaign.
 
@@ -406,7 +356,6 @@ Kim Kardashian says she is "re-evaluating" her working relationship with Balenci
  - [https://www.cnn.com/2022/11/28/politics/jill-biden-white-house-holiday-decorations/index.html](https://www.cnn.com/2022/11/28/politics/jill-biden-white-house-holiday-decorations/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 11:05:22+00:00
- - tags: None
 
 First lady Jill Biden has chosen "We the People" as the theme for the seasonal White House holiday decorations, according to a release from the East Wing.
 
@@ -414,7 +363,6 @@ First lady Jill Biden has chosen "We the People" as the theme for the seasonal W
  - [https://www.cnn.com/2022/11/28/politics/political-showdowns-america-future-year-end/index.html](https://www.cnn.com/2022/11/28/politics/political-showdowns-america-future-year-end/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 10:55:26+00:00
- - tags: None
 
 America is heading for a year-end political collision that will set the stage for showdowns between the new Republican-led House and the Democrats who still wield power in the Senate and White House.
 
@@ -422,7 +370,6 @@ America is heading for a year-end political collision that will set the stage fo
  - [https://www.cnn.com/2022/11/28/china/china-protests-covid-political-freedom-intl-hnk-mic/index.html](https://www.cnn.com/2022/11/28/china/china-protests-covid-political-freedom-intl-hnk-mic/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 10:42:04+00:00
- - tags: None
 
 For the first time in decades, thousands of people have defied Chinese authorities to protest at universities and on the streets of major cities, demanding to be freed from not only the incessant Covid tests and lockdowns, but strict censorship and the Communist Party's tightening grip over all aspects of life.
 
@@ -430,7 +377,6 @@ For the first time in decades, thousands of people have defied Chinese authoriti
  - [https://www.cnn.com/2022/11/28/health/flavonols-memory-boost-wellness/index.html](https://www.cnn.com/2022/11/28/health/flavonols-memory-boost-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 10:09:48+00:00
- - tags: None
 
 Eating more flavonols, antioxidants found in many vegetables, fruits, tea and wine, may slow your rate of memory loss, a new study finds.
 
@@ -438,7 +384,6 @@ Eating more flavonols, antioxidants found in many vegetables, fruits, tea and wi
  - [https://www.cnn.com/2022/11/27/us/maryland-small-plane-crash-power-lines/index.html](https://www.cnn.com/2022/11/27/us/maryland-small-plane-crash-power-lines/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 09:56:57+00:00
- - tags: None
 
 A pilot and passenger who were stuck in a small plane for nearly seven hours after it crashed Sunday into power lines in Montgomery County, Maryland, have been rescued, Montgomery County Fire and Rescue Service Chief Scott Goldstein said early Monday morning.
 
@@ -446,7 +391,6 @@ A pilot and passenger who were stuck in a small plane for nearly seven hours aft
  - [https://www.cnn.com/2022/11/28/health/conscious-spending-tips-how-to-wellness/index.html](https://www.cnn.com/2022/11/28/health/conscious-spending-tips-how-to-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 09:55:04+00:00
- - tags: None
 
 When you think of money, do you feel like living in the moment and being responsible are mutually exclusive? Does guilt eat at you when you go out for lunch or have a $7 oat milk latte?
 
@@ -454,7 +398,6 @@ When you think of money, do you feel like living in the moment and being respons
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-11-28-22/index.html](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-11-28-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 09:40:35.996215+00:00
- - tags: None
 
 • Video: Ex-colonel explains Russian strategy
 
@@ -462,7 +405,6 @@ When you think of money, do you feel like living in the moment and being respons
  - [https://edition.cnn.com/webview/sport/live-news/world-cup-2022-11-28-2022/index.html](https://edition.cnn.com/webview/sport/live-news/world-cup-2022-11-28-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 09:40:35.892695+00:00
- - tags: None
 
 
 
@@ -470,7 +412,6 @@ When you think of money, do you feel like living in the moment and being respons
  - [https://www.cnn.com/2022/11/28/africa/kenya-super-tuskers-tsavo-joseph-kyalo-scn-spc/index.html](https://www.cnn.com/2022/11/28/africa/kenya-super-tuskers-tsavo-joseph-kyalo-scn-spc/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 09:38:06+00:00
- - tags: None
 
 Imagine being a child and having a front-row seat, every day, to one of nature's most remarkable live-action shows. That was the reality for conservationist Joseph Kyalo, who grew up along the border of the largest protected area in Kenya.
 
@@ -478,7 +419,6 @@ Imagine being a child and having a front-row seat, every day, to one of nature's
  - [https://www.cnn.com/2022/11/28/energy/russia-gas-ukraine-moldova/index.html](https://www.cnn.com/2022/11/28/energy/russia-gas-ukraine-moldova/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 09:34:22+00:00
- - tags: None
 
 Russian state gas producer Gazprom withdrew a threat to reduce gas supplies to Moldova from Monday but said it reserved the right to lower or halt flows in future if Moldova failed to make agreed payments.
 
@@ -486,7 +426,6 @@ Russian state gas producer Gazprom withdrew a threat to reduce gas supplies to M
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-11-28-22/index.html](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-11-28-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 07:40:37.499042+00:00
- - tags: None
 
 
 
@@ -494,7 +433,6 @@ Russian state gas producer Gazprom withdrew a threat to reduce gas supplies to M
  - [https://www.cnn.com/2022/11/28/media/shanghai-journalist-bbc-arrested-china-hnk-intl/index.html](https://www.cnn.com/2022/11/28/media/shanghai-journalist-bbc-arrested-china-hnk-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 07:23:03+00:00
- - tags: None
 
 Edward Lawrence, a journalist at the BBC, was arrested by police in Shanghai at the scene of protests on Sunday night, according to the BBC and as captured on what appears to be mobile phone footage of the arrest.
 
@@ -502,7 +440,6 @@ Edward Lawrence, a journalist at the BBC, was arrested by police in Shanghai at 
  - [https://www.cnn.com/collections/int-1128-china-protests/](https://www.cnn.com/collections/int-1128-china-protests/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 06:59:57+00:00
- - tags: None
 
 
 
@@ -510,7 +447,6 @@ Edward Lawrence, a journalist at the BBC, was arrested by police in Shanghai at 
  - [https://www.cnn.com/videos/world/2022/11/28/italy-ischia-deadly-landslide-holmes-vpx-contd-ovn-intl.cnn](https://www.cnn.com/videos/world/2022/11/28/italy-ischia-deadly-landslide-holmes-vpx-contd-ovn-intl.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 06:24:34+00:00
- - tags: None
 
 Italy has declared a state of emergency after heavy rain caused a deadly landslide on the Italian holiday island of Ischia. CNN's Michael Holmes reports.
 
@@ -518,7 +454,6 @@ Italy has declared a state of emergency after heavy rain caused a deadly landsli
  - [https://www.cnn.com/2022/11/28/china/china-lockdown-protests-covid-explainer-intl-hnk/index.html](https://www.cnn.com/2022/11/28/china/china-lockdown-protests-covid-explainer-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 05:57:18+00:00
- - tags: None
 
 From Shanghai to Beijing, protests have erupted across China in a rare show of dissent against the ruling Communist Party sparked by anger over the country's increasingly costly zero-Covid policy.
 
@@ -526,7 +461,6 @@ From Shanghai to Beijing, protests have erupted across China in a rare show of d
  - [https://www.cnn.com/2022/11/28/us/idaho-university-stabbing-monday/index.html](https://www.cnn.com/2022/11/28/us/idaho-university-stabbing-monday/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 05:20:58+00:00
- - tags: None
 
 University of Idaho students are expected to return to campus Monday from Thanksgiving break despite the lack of a suspect or arrest in the stabbing deaths of four students at an off-campus home.
 
@@ -534,7 +468,6 @@ University of Idaho students are expected to return to campus Monday from Thanks
  - [https://www.cnn.com/2022/11/27/investing/markets-china-lockdowns-intl-hnk/index.html](https://www.cnn.com/2022/11/27/investing/markets-china-lockdowns-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 02:30:11+00:00
- - tags: None
 
 China's major stock indices and its currency have opened sharply lower Monday, as widespread protests against the country's stringent Covid-19 restrictions over the weekend roiled investor sentiment.
 
@@ -542,7 +475,6 @@ China's major stock indices and its currency have opened sharply lower Monday, a
  - [https://www.cnn.com/videos/world/2022/11/28/selina-wang-china-protest-walk-and-talk-vpx-ovn-intl.cnn](https://www.cnn.com/videos/world/2022/11/28/selina-wang-china-protest-walk-and-talk-vpx-ovn-intl.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 02:21:52+00:00
- - tags: None
 
 CNN's Selina Wang reports from the streets of Beijing where protesters are demonstrating against Xi Jinping's zero-Covid policy.
 
@@ -550,7 +482,6 @@ CNN's Selina Wang reports from the streets of Beijing where protesters are demon
  - [https://www.cnn.com/travel/article/indonesia-famous-dishes-cmd/index.html](https://www.cnn.com/travel/article/indonesia-famous-dishes-cmd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 02:10:50+00:00
- - tags: None
 
 As the world's largest archipelagic nation, Indonesia is filled with different cultures and influences spread out over 1,904,569 square kilometers (735,358 square miles).
 
@@ -558,7 +489,6 @@ As the world's largest archipelagic nation, Indonesia is filled with different c
  - [https://www.cnn.com/2022/11/27/entertainment/emma-corrin-gender-neutral-awards-categories/index.html](https://www.cnn.com/2022/11/27/entertainment/emma-corrin-gender-neutral-awards-categories/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 01:57:48+00:00
- - tags: None
 
 Awards season has barely begun, and one of the stars of streaming's most decorated shows is weighing in on the debate over whether legacy awards shows such as the Oscars, Emmys and BAFTAs should fuse their gendered acting categories to avoid a binary system.
 
@@ -566,7 +496,6 @@ Awards season has barely begun, and one of the stars of streaming's most decorat
  - [https://www.cnn.com/videos/politics/2022/11/27/murphy-on-qatar.cnn](https://www.cnn.com/videos/politics/2022/11/27/murphy-on-qatar.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 01:44:20+00:00
- - tags: None
 
 Democratic Sen. Chris Murphy tells CNN's Dana Bash that Qatar is a "complicated partner" and that he met with human rights leaders there while attending the World Cup.
 
@@ -574,6 +503,5 @@ Democratic Sen. Chris Murphy tells CNN's Dana Bash that Qatar is a "complicated 
  - [https://www.cnn.com/2022/11/27/asia/australia-marion-barter-florabella-remakel-missing-intl-hnk-dst/index.html](https://www.cnn.com/2022/11/27/asia/australia-marion-barter-florabella-remakel-missing-intl-hnk-dst/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-28 01:07:52+00:00
- - tags: None
 
 Marion Barter won plaudits for her warmth as an elementary school teacher, but in 1997 the 51-year-old mother-of-two became restless, quit her job, sold her house, and flew from Australia's beach-lined Gold Coast to start a new life in Europe.

@@ -1,10 +1,9 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml
+# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
 
 ## Serbia and Kosovo end license plate dispute
  - [https://www.lemonde.fr/en/international/article/2022/11/25/serbia-and-kosovo-end-license-plate-dispute_6005557_4.html](https://www.lemonde.fr/en/international/article/2022/11/25/serbia-and-kosovo-end-license-plate-dispute_6005557_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 23:47:54+00:00
- - tags: None
 
 In Brussels, Serbian and Kosovar negotiators reached an agreement on an issue that has poisoned relations for months. The European Union hopes to resume discussions quickly for the final normalization of their relations.
 
@@ -12,7 +11,6 @@ In Brussels, Serbian and Kosovar negotiators reached an agreement on an issue th
  - [https://www.lemonde.fr/en/sports/article/2022/11/24/world-cup-neymar-injured-during-brazil-game-against-serbia_6005555_9.html](https://www.lemonde.fr/en/sports/article/2022/11/24/world-cup-neymar-injured-during-brazil-game-against-serbia_6005555_9.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 22:37:28+00:00
- - tags: None
 
 Brazil captain Neymar suffered an ankle injury in his team's World Cup win over Serbia on Thursday and faces a medical assessment in the next 48 hours, a team doctor said. Brazil won 2-0.
 
@@ -20,7 +18,6 @@ Brazil captain Neymar suffered an ankle injury in his team's World Cup win over 
  - [https://www.lemonde.fr/en/environment/article/2022/11/24/the-hidden-costs-of-pesticides-could-amount-to-370-million-to-several-billion-per-year-for-france_6005552_114.html](https://www.lemonde.fr/en/environment/article/2022/11/24/the-hidden-costs-of-pesticides-could-amount-to-370-million-to-several-billion-per-year-for-france_6005552_114.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 22:10:01+00:00
- - tags: None
 
 A team of researchers has estimated the amount of money spent on dealing with the damaging health and environmental impacts of chemical use in agriculture and their management costs.
 
@@ -28,7 +25,6 @@ A team of researchers has estimated the amount of money spent on dealing with th
  - [https://www.lemonde.fr/en/france/article/2022/11/24/melenchon-s-party-plunges-deeper-into-crisis-after-quatennens-accused-of-repeated-abuse_6005548_7.html](https://www.lemonde.fr/en/france/article/2022/11/24/melenchon-s-party-plunges-deeper-into-crisis-after-quatennens-accused-of-repeated-abuse_6005548_7.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 20:40:27+00:00
- - tags: None
 
 New accusations of domestic violence by Mélenchon's deputy have emerged. His wife Céline Quatennens has accused him of 'physical and emotional abuse' over 'several years,' which he denies.
 
@@ -36,7 +32,6 @@ New accusations of domestic violence by Mélenchon's deputy have emerged. His wi
  - [https://www.lemonde.fr/en/international/article/2022/11/24/in-jakarta-young-people-from-poor-suburbs-create-symbolic-fashion-week_6005546_4.html](https://www.lemonde.fr/en/international/article/2022/11/24/in-jakarta-young-people-from-poor-suburbs-create-symbolic-fashion-week_6005546_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 20:34:15+00:00
- - tags: None
 
 A pedestrian passageway in the capital's business district has become the place to be for disadvantaged young people to stand out from the crowd by parading like models.
 
@@ -44,7 +39,6 @@ A pedestrian passageway in the capital's business district has become the place 
  - [https://www.lemonde.fr/en/economy/article/2022/11/24/french-government-continues-to-believe-in-the-ipo-of-start-ups_6005545_19.html](https://www.lemonde.fr/en/economy/article/2022/11/24/french-government-continues-to-believe-in-the-ipo-of-start-ups_6005545_19.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 20:33:58+00:00
- - tags: None
 
 Measures facilitating access to the stock markets for French digital start-ups were unveiled on Wednesday, despite tech's current financial woes.
 
@@ -52,7 +46,6 @@ Measures facilitating access to the stock markets for French digital start-ups w
  - [https://www.lemonde.fr/en/politics/article/2022/11/24/right-to-abortion-in-france-the-necessary-steps-before-it-gets-enshrined-in-the-constitution_6005536_5.html](https://www.lemonde.fr/en/politics/article/2022/11/24/right-to-abortion-in-france-the-necessary-steps-before-it-gets-enshrined-in-the-constitution_6005536_5.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 19:05:58+00:00
- - tags: None
 
 The Assemblée Nationale adopted a text supported by the left aimed at writing the right to abortion into the French Constitution. But the outcome is far from being a foregone conclusion.
 
@@ -60,7 +53,6 @@ The Assemblée Nationale adopted a text supported by the left aimed at writing t
  - [https://www.lemonde.fr/en/culture/article/2022/11/24/the-symbolism-of-uzbek-fabrics-at-the-institut-du-monde-arabe-in-paris_6005533_30.html](https://www.lemonde.fr/en/culture/article/2022/11/24/the-symbolism-of-uzbek-fabrics-at-the-institut-du-monde-arabe-in-paris_6005533_30.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 19:00:11+00:00
- - tags: None
 
 An exhibition presents 300 treasures of late 19th century craftsmanship, intertwining the threads of imagination and geopolitics.
 
@@ -68,7 +60,6 @@ An exhibition presents 300 treasures of late 19th century craftsmanship, intertw
  - [https://www.lemonde.fr/en/football/article/2022/11/24/ronaldo-makes-world-cup-history-as-portugal-beats-ghana-in-tight-3-2-match_6005532_130.html](https://www.lemonde.fr/en/football/article/2022/11/24/ronaldo-makes-world-cup-history-as-portugal-beats-ghana-in-tight-3-2-match_6005532_130.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 18:29:41+00:00
- - tags: None
 
 The Portuguese football icon has scored in the last five World Cups.
 
@@ -76,7 +67,6 @@ The Portuguese football icon has scored in the last five World Cups.
  - [https://www.lemonde.fr/en/international/article/2022/11/24/un-human-rights-council-condemns-iran-s-brutal-repression-of-peaceful-protest_6005528_4.html](https://www.lemonde.fr/en/international/article/2022/11/24/un-human-rights-council-condemns-iran-s-brutal-repression-of-peaceful-protest_6005528_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 18:17:47+00:00
- - tags: None
 
 The council overwhelmingly voted in favor of launching an investigation into Iran's treatement of protesters.
 
@@ -84,7 +74,6 @@ The council overwhelmingly voted in favor of launching an investigation into Ira
  - [https://www.lemonde.fr/en/culture/article/2022/11/24/wednesday-the-return-of-the-addams-family-s-enfant-terrible_6005527_30.html](https://www.lemonde.fr/en/culture/article/2022/11/24/wednesday-the-return-of-the-addams-family-s-enfant-terrible_6005527_30.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 18:00:12+00:00
- - tags: None
 
 Wednesday Addams is back as a gothic teenager in an eight-part series on Netflix, with the first half directed by who else but Tim Burton.
 
@@ -92,7 +81,6 @@ Wednesday Addams is back as a gothic teenager in an eight-part series on Netflix
  - [https://www.lemonde.fr/en/international/article/2022/11/24/adidas-launches-probe-into-allegations-about-kanye-west-s-behavior_6005520_4.html](https://www.lemonde.fr/en/international/article/2022/11/24/adidas-launches-probe-into-allegations-about-kanye-west-s-behavior_6005520_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 17:04:21+00:00
- - tags: None
 
 According to allegations, Kanye West routinely showed pornographic images and videos of Kim Kardashian to his employees and Adidas employees.
 
@@ -100,7 +88,6 @@ According to allegations, Kanye West routinely showed pornographic images and vi
  - [https://www.lemonde.fr/en/international/article/2022/11/24/rule-of-law-a-financial-noose-is-tightening-around-hungary-s-neck_6005514_4.html](https://www.lemonde.fr/en/international/article/2022/11/24/rule-of-law-a-financial-noose-is-tightening-around-hungary-s-neck_6005514_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 16:54:23+00:00
- - tags: None
 
 The European Commission wants to deprive Budapest of €7.5 billion from the Cohesion Fund.
 
@@ -108,7 +95,6 @@ The European Commission wants to deprive Budapest of €7.5 billion from the Coh
  - [https://www.lemonde.fr/en/international/article/2022/11/24/hungary-set-to-approve-finland-and-sweden-s-nato-membership-early-next-year_6005510_4.html](https://www.lemonde.fr/en/international/article/2022/11/24/hungary-set-to-approve-finland-and-sweden-s-nato-membership-early-next-year_6005510_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 16:38:58+00:00
- - tags: None
 
 Once Hungary passes it, Turkey will be the only NATO member left to ratify their accesion.
 
@@ -116,7 +102,6 @@ Once Hungary passes it, Turkey will be the only NATO member left to ratify their
  - [https://www.lemonde.fr/en/france/article/2022/11/24/french-parliament-votes-to-enshrine-abortion-as-constitutional-right_6005502_7.html](https://www.lemonde.fr/en/france/article/2022/11/24/french-parliament-votes-to-enshrine-abortion-as-constitutional-right_6005502_7.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 16:12:02+00:00
- - tags: None
 
 The Assemblée Nationale vote was in line with over 80% of the French population, who support the right to abortion.
 
@@ -124,7 +109,6 @@ The Assemblée Nationale vote was in line with over 80% of the French population
  - [https://www.lemonde.fr/en/international/article/2022/11/24/russian-dissident-journalist-asked-to-leave-sweden_6005499_4.html](https://www.lemonde.fr/en/international/article/2022/11/24/russian-dissident-journalist-asked-to-leave-sweden_6005499_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 16:00:10+00:00
- - tags: None
 
 Journalist and writer Elisabeth Alexandrova-Zorina, who is married to a Swedish man and has a 14-month-old son, has been refused family-motivated residency. Stockholm is demanding that she return to Russia.
 
@@ -132,7 +116,6 @@ Journalist and writer Elisabeth Alexandrova-Zorina, who is married to a Swedish 
  - [https://www.lemonde.fr/en/football/article/2022/11/24/iran-arrests-popular-footballer-ghafouri-over-anti-state-propaganda_6005488_130.html](https://www.lemonde.fr/en/football/article/2022/11/24/iran-arrests-popular-footballer-ghafouri-over-anti-state-propaganda_6005488_130.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 15:28:08+00:00
- - tags: None
 
 Iran detained this prominent former national footballer over spreading 'propaganda' against the state after he posted a photo on Instagram of himself wearing traditional Kurdish dress.
 
@@ -140,7 +123,6 @@ Iran detained this prominent former national footballer over spreading 'propaga
  - [https://www.lemonde.fr/en/politics/article/2022/11/24/the-french-government-is-developing-a-new-ultra-secure-phone-for-emmanuel-macron_6005486_5.html](https://www.lemonde.fr/en/politics/article/2022/11/24/the-french-government-is-developing-a-new-ultra-secure-phone-for-emmanuel-macron_6005486_5.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 15:00:27+00:00
- - tags: None
 
 French authorities are looking to modernize their current encrypted telecommunication tools, which are secure but slower and more rigid than those of the GAFAM.
 
@@ -148,7 +130,6 @@ French authorities are looking to modernize their current encrypted telecommunic
  - [https://www.lemonde.fr/en/fashion/article/2022/11/24/alessandro-michele-steps-down-as-gucci-creative-director_6005483_43.html](https://www.lemonde.fr/en/fashion/article/2022/11/24/alessandro-michele-steps-down-as-gucci-creative-director_6005483_43.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 14:17:03+00:00
- - tags: None
 
 The Roman designer has spent 20 years with the Italian house, bringing baroque romanticism and bohemian references to the storied brand.
 
@@ -156,7 +137,6 @@ The Roman designer has spent 20 years with the Italian house, bringing baroque r
  - [https://www.lemonde.fr/en/cities/article/2022/11/24/the-cities-including-mental-health-in-their-urban-policies_6005478_87.html](https://www.lemonde.fr/en/cities/article/2022/11/24/the-cities-including-mental-health-in-their-urban-policies_6005478_87.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 13:55:31+00:00
- - tags: None
 
 Even though this is not one of their prerogatives, municipalities are committed to de-stigmatizing this issue, identifying the needs of the population and working on solutions.
 
@@ -164,7 +144,6 @@ Even though this is not one of their prerogatives, municipalities are committed 
  - [https://www.lemonde.fr/en/culture/article/2022/11/24/how-taylor-swift-rose-from-miss-americana-to-global-pop-star_6005477_30.html](https://www.lemonde.fr/en/culture/article/2022/11/24/how-taylor-swift-rose-from-miss-americana-to-global-pop-star_6005477_30.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 13:54:51+00:00
- - tags: None
 
 Back with her 10th album, the singer continues to break records over a decade into her career.
 
@@ -172,7 +151,6 @@ Back with her 10th album, the singer continues to break records over a decade in
  - [https://www.lemonde.fr/en/france/article/2022/11/24/left-wing-coalition-lfi-upsets-the-balance-in-french-assembly-over-abortion-and-ban-on-bullfighting_6005470_7.html](https://www.lemonde.fr/en/france/article/2022/11/24/left-wing-coalition-lfi-upsets-the-balance-in-french-assembly-over-abortion-and-ban-on-bullfighting_6005470_7.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 12:34:14+00:00
- - tags: None
 
 By bringing divisive issues to the table, MPs from La France Insoumise sow seeds of discord in the majority and cause embarrassment to their own allies on the left.
 
@@ -180,7 +158,6 @@ By bringing divisive issues to the table, MPs from La France Insoumise sow seeds
  - [https://www.lemonde.fr/en/economy/article/2022/11/24/french-regulators-try-to-put-pressure-on-twitter-and-elon-musk_6005465_19.html](https://www.lemonde.fr/en/economy/article/2022/11/24/french-regulators-try-to-put-pressure-on-twitter-and-elon-musk_6005465_19.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 11:57:28+00:00
- - tags: None
 
 ARCOM, which is in charge of supervising digital platforms, sent an initial ultimatum to the social media platform. Similar efforts are taking place on the European and American levels.
 
@@ -188,7 +165,6 @@ ARCOM, which is in charge of supervising digital platforms, sent an initial ulti
  - [https://www.lemonde.fr/en/international/article/2022/11/24/war-in-ukraine-russian-missiles-target-civilians-and-infrastructure_6005462_4.html](https://www.lemonde.fr/en/international/article/2022/11/24/war-in-ukraine-russian-missiles-target-civilians-and-infrastructure_6005462_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 11:36:28+00:00
- - tags: None
 
 A new wave of Russian missiles hit Ukrainian civilian infrastructure on Wednesday, plunging parts of the country, including Kyiv, into darkness and killing at least 10.
 
@@ -196,7 +172,6 @@ A new wave of Russian missiles hit Ukrainian civilian infrastructure on Wednesda
  - [https://www.lemonde.fr/en/m-le-mag/article/2022/11/24/thanksgiving-in-minneapolis-owamni-puts-indigenous-cuisine-on-the-menu_6005461_117.html](https://www.lemonde.fr/en/m-le-mag/article/2022/11/24/thanksgiving-in-minneapolis-owamni-puts-indigenous-cuisine-on-the-menu_6005461_117.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 11:30:09+00:00
- - tags: None
 
 In his Minneapolis restaurant, chef Sean Sherman promotes the culinary culture of his ancestors.
 
@@ -204,7 +179,6 @@ In his Minneapolis restaurant, chef Sean Sherman promotes the culinary culture o
  - [https://www.lemonde.fr/en/opinion/article/2022/11/24/the-undermining-of-europe-s-financial-transparency_6005457_23.html](https://www.lemonde.fr/en/opinion/article/2022/11/24/the-undermining-of-europe-s-financial-transparency_6005457_23.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 11:18:30+00:00
- - tags: None
 
 The European Court of Justice's decision on Tuesday to overturn a provision of the anti-money laundering directive risks plunging Europe back into financial opacity.
 
@@ -212,7 +186,6 @@ The European Court of Justice's decision on Tuesday to overturn a provision of t
  - [https://www.lemonde.fr/en/france/article/2022/11/24/nice-attack-trial-alleged-accomplice-exchanged-messages-with-attacker-about-driving-truck-into-crowd_6005454_7.html](https://www.lemonde.fr/en/france/article/2022/11/24/nice-attack-trial-alleged-accomplice-exchanged-messages-with-attacker-about-driving-truck-into-crowd_6005454_7.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 11:05:51+00:00
- - tags: None
 
 A 46-year-old Tunisian man was questioned on Wednesday about Facebook conversations with Mohamed Lahouaiej-Bouhlel.
 
@@ -220,7 +193,6 @@ A 46-year-old Tunisian man was questioned on Wednesday about Facebook conversati
  - [https://www.lemonde.fr/en/international/article/2022/11/24/france-banks-on-uzbekistan-to-further-isolate-russia_6005450_4.html](https://www.lemonde.fr/en/international/article/2022/11/24/france-banks-on-uzbekistan-to-further-isolate-russia_6005450_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 10:57:17+00:00
- - tags: None
 
 This approach is in line with the European Union's aims to consolidate ties with former Soviet republics in Central Asia.
 
@@ -228,7 +200,6 @@ This approach is in line with the European Union's aims to consolidate ties with
  - [https://www.lemonde.fr/en/health/article/2022/11/24/mired-in-a-funding-crisis-england-struggles-to-care-for-its-elderly-and-infirm_6005449_14.html](https://www.lemonde.fr/en/health/article/2022/11/24/mired-in-a-funding-crisis-england-struggles-to-care-for-its-elderly-and-infirm_6005449_14.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 10:55:53+00:00
- - tags: None
 
 'The English malaise' (4/6): In this series, 'Le Monde' examines the deepening crisis that England is enduring, marked by political instability and a deteriorating social climate.
 
@@ -236,7 +207,6 @@ This approach is in line with the European Union's aims to consolidate ties with
  - [https://www.lemonde.fr/en/international/article/2022/11/24/behind-enemy-lines-ukrainian-partisans-played-a-key-role-in-the-battle-for-kherson_6005440_4.html](https://www.lemonde.fr/en/international/article/2022/11/24/behind-enemy-lines-ukrainian-partisans-played-a-key-role-in-the-battle-for-kherson_6005440_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 09:38:35+00:00
- - tags: None
 
 In parallel with Ukrainian forces, civilians acted clandestinely in the territories occupied by Russians.
 
@@ -244,7 +214,6 @@ In parallel with Ukrainian forces, civilians acted clandestinely in the territor
  - [https://www.lemonde.fr/en/international/article/2022/11/24/uk-supreme-court-blocks-scottish-independence-referendum_6005437_4.html](https://www.lemonde.fr/en/international/article/2022/11/24/uk-supreme-court-blocks-scottish-independence-referendum_6005437_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 09:11:18+00:00
- - tags: None
 
 According to a ruling by the UK's top court, Holyrood cannot hold a second consultation without the approval of Westminster.
 
@@ -252,7 +221,6 @@ According to a ruling by the UK's top court, Holyrood cannot hold a second consu
  - [https://www.lemonde.fr/en/opinion/article/2022/11/24/deaths-in-the-channel-british-and-french-authorities-are-furthering-their-mission-to-make-the-border-space-into-a-fundamentally-hostile-environment_6005420_23.html](https://www.lemonde.fr/en/opinion/article/2022/11/24/deaths-in-the-channel-british-and-french-authorities-are-furthering-their-mission-to-make-the-border-space-into-a-fundamentally-hostile-environment_6005420_23.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 07:31:11+00:00
- - tags: None
 
 One year after the shipwreck that led to the drowning of at least 27 people, as a new Franco-British agreement is signed, a group of 65 French, British and Belgian humanitarian associations raise unacceptable failures by French and British rescue services.
 
@@ -260,7 +228,6 @@ One year after the shipwreck that led to the drowning of at least 27 people, as 
  - [https://www.lemonde.fr/en/politics/article/2022/11/24/in-a-shift-marine-le-pen-supports-making-abortion-access-constitutionally-protected_6005417_5.html](https://www.lemonde.fr/en/politics/article/2022/11/24/in-a-shift-marine-le-pen-supports-making-abortion-access-constitutionally-protected_6005417_5.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 06:00:13+00:00
- - tags: None
 
 Hoping to reconcile the contradictory positions within her parliamentary group, the far-right leader is proposing including the right to abortion in the French Constitution.
 
@@ -268,7 +235,6 @@ Hoping to reconcile the contradictory positions within her parliamentary group, 
  - [https://www.lemonde.fr/en/les-decodeurs/article/2022/11/24/the-growing-threat-of-north-korea-which-is-launching-missiles-more-frequently-and-at-longer-range_6005411_8.html](https://www.lemonde.fr/en/les-decodeurs/article/2022/11/24/the-growing-threat-of-north-korea-which-is-launching-missiles-more-frequently-and-at-longer-range_6005411_8.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 04:05:30+00:00
- - tags: None
 
 After hopes for appeasement between the two Koreas in 2018, Pyongyang is now ramping up missile tests. More than 75 missiles have already been fired in 2022.
 
@@ -276,7 +242,6 @@ After hopes for appeasement between the two Koreas in 2018, Pyongyang is now ram
  - [https://www.lemonde.fr/en/football/article/2022/11/24/world-cup-2022-kylian-mbappe-is-already-much-more-than-a-footballer_6005410_130.html](https://www.lemonde.fr/en/football/article/2022/11/24/world-cup-2022-kylian-mbappe-is-already-much-more-than-a-footballer_6005410_130.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 04:00:15+00:00
- - tags: None
 
 The French national team's 23-year-old striker has been reflecting on his place in the history of football, including shouldering the role of generational leader.
 
@@ -284,7 +249,6 @@ The French national team's 23-year-old striker has been reflecting on his place 
  - [https://www.lemonde.fr/en/culture/article/2022/11/24/luca-guadagnino-creates-a-fanciful-tale-of-cannibalism-in-bones-and-all_6005409_30.html](https://www.lemonde.fr/en/culture/article/2022/11/24/luca-guadagnino-creates-a-fanciful-tale-of-cannibalism-in-bones-and-all_6005409_30.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 03:57:13+00:00
- - tags: None
 
 The Italian filmmaker directs Tyler Russell and Timothée Chalamet who play two cannibals, helpless before their devouring impulse, in an extremely smooth love story.
 
@@ -292,7 +256,6 @@ The Italian filmmaker directs Tyler Russell and Timothée Chalamet who play two 
  - [https://www.lemonde.fr/en/france/article/2022/11/24/gang-violence-overwhelming-the-overseas-territory-of-mayotte_6005407_7.html](https://www.lemonde.fr/en/france/article/2022/11/24/gang-violence-overwhelming-the-overseas-territory-of-mayotte_6005407_7.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 03:55:24+00:00
- - tags: None
 
 The French government announced that they are sending an anti-terrorist police unit to the island in the Indian Ocean after a series of machete-wielding attacks.
 
@@ -300,7 +263,6 @@ The French government announced that they are sending an anti-terrorist police u
  - [https://www.lemonde.fr/en/science/article/2022/11/24/the-collosal-task-of-protecting-shipwrecks_6005406_10.html](https://www.lemonde.fr/en/science/article/2022/11/24/the-collosal-task-of-protecting-shipwrecks_6005406_10.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 03:54:06+00:00
- - tags: None
 
 It is extremey difficult to detect the extent of the theft from shipwrecks in French waters. Faced with this phenomenon, archaeologists are policing shipwrecks from looters.
 
@@ -308,7 +270,6 @@ It is extremey difficult to detect the extent of the theft from shipwrecks in Fr
  - [https://www.lemonde.fr/en/environment/article/2022/11/24/air-pollution-caused-238-000-premature-deaths-in-the-eu-in-2020_6005404_114.html](https://www.lemonde.fr/en/environment/article/2022/11/24/air-pollution-caused-238-000-premature-deaths-in-the-eu-in-2020_6005404_114.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 03:14:39+00:00
- - tags: None
 
 Overall, the rate for EU countries in 2020 was 45 percent lower than in 2005, the agency said: 'If this rate of decline is maintained, the EU will reach the aforementioned zero pollution action plan target before 2030.'
 
@@ -316,7 +277,6 @@ Overall, the rate for EU countries in 2020 was 45 percent lower than in 2005, th
  - [https://www.lemonde.fr/en/elections/article/2022/11/24/brazilian-court-rejects-bolsonaro-s-attempt-invalidate-election_6005401_84.html](https://www.lemonde.fr/en/elections/article/2022/11/24/brazilian-court-rejects-bolsonaro-s-attempt-invalidate-election_6005401_84.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 03:04:56+00:00
- - tags: None
 
 The electoral authority also ordered the suspension of government funds for Mr. Bolsonaro's Liberal Party coalition until a fine of 23 million reais ($4.3 million) for bad faith litigation is paid.
 
@@ -324,6 +284,5 @@ The electoral authority also ordered the suspension of government funds for Mr. 
  - [https://www.lemonde.fr/en/france/article/2022/11/24/ocean-viking-migrants-the-french-government-was-forced-to-follow-the-rule-of-law_6005400_7.html](https://www.lemonde.fr/en/france/article/2022/11/24/ocean-viking-migrants-the-french-government-was-forced-to-follow-the-rule-of-law_6005400_7.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 03:00:16+00:00
- - tags: None
 
 While France's Minister of the Interior promised dozens of deportations, almost all the survivors were integrated into the national reception system for asylum seekers.

@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Apple’s own 5G modems might come to iPhones later than expected
  - [https://www.theverge.com/2022/11/2/23437586/apple-iphone-5g-modems-later-expected-2023-qualcomm](https://www.theverge.com/2022/11/2/23437586/apple-iphone-5g-modems-later-expected-2023-qualcomm)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-02 22:02:29+00:00
- - tags: None
 
 <figure>
       <img alt="An iPhone 14 Pro showing the Dynamic Island making a phone call" src="https://cdn.vox-cdn.com/thumbor/-6IjGtWe4-GXduz1YCFMf9aV5aQ=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71577085/226270_iPHONE_14_PHO_akrales_0152.0.jpg" />
@@ -22,7 +21,6 @@
  - [https://www.theverge.com/2022/11/2/23437443/qualcomm-phone-sales-earnings-decline](https://www.theverge.com/2022/11/2/23437443/qualcomm-phone-sales-earnings-decline)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-02 20:53:31+00:00
- - tags: None
 
 <figure>
       <img alt="An illustration of the Qualcomm logo." src="https://cdn.vox-cdn.com/thumbor/jjvmbMypjzTa7qqGfensexuYeog=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71576748/acastro_STK082_qualcomm_01.0.jpg" />
@@ -39,7 +37,6 @@
  - [https://www.theverge.com/2022/11/2/23437282/google-gmail-package-tracking-features](https://www.theverge.com/2022/11/2/23437282/google-gmail-package-tracking-features)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-02 20:05:26+00:00
- - tags: None
 
 <figure>
       <img alt="Google logo" src="https://cdn.vox-cdn.com/thumbor/tcpZE9p2sjMQubSsSVsevoZuo7A=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71576522/STK093_Google_04.0.jpg" />
@@ -56,7 +53,6 @@
  - [https://www.theverge.com/2022/11/2/23432652/amazon-device-day-echo-show-kindle-fire-tv-blink-camera-deal-sale](https://www.theverge.com/2022/11/2/23432652/amazon-device-day-echo-show-kindle-fire-tv-blink-camera-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-02 19:46:48+00:00
- - tags: None
 
 <figure>
       <img alt="A Photo featuring two Amazon Fire HD 8 tablets" src="https://cdn.vox-cdn.com/thumbor/6FGVoLBFDuNQ8iWLMO9C8r42C1E=/486x0:5754x3512/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71576413/dseifert_4649_fire_hd_10_2021_10.0.jpg" />
@@ -85,7 +81,6 @@
  - [https://www.theverge.com/2022/11/2/23436943/opensea-stolen-nft-scams-resale-block](https://www.theverge.com/2022/11/2/23436943/opensea-stolen-nft-scams-resale-block)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-02 18:30:28+00:00
- - tags: None
 
 <figure>
       <img alt="Illustration of the OpenSea logo on a blue background, with several blue, green, and pink circles around it." src="https://cdn.vox-cdn.com/thumbor/orPpVmNvDOuTcpdBysKCvJ9cAKI=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71576030/STK007_VRG_Illo_N_Barclay_6_opensea.0.jpg" />
@@ -102,7 +97,6 @@
  - [https://www.theverge.com/2022/11/2/23437120/elon-musk-twitter-product-subscription-verification-revenue-debt-finance](https://www.theverge.com/2022/11/2/23437120/elon-musk-twitter-product-subscription-verification-revenue-debt-finance)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-02 18:02:39+00:00
- - tags: None
 
 <figure>
       <img alt="Elon Musk shown looking downward in front of upside-down Twitter logos." src="https://cdn.vox-cdn.com/thumbor/YK1idQYthReeh81T8MzXGJEQT4w=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71575921/STK171_VRG_Illo_1_Normand_ElonMusk_001.0.jpg" />
@@ -119,7 +113,6 @@
  - [https://www.theverge.com/2022/11/2/23437072/panasonic-kansas-ev-battery-factory-tesla-2170](https://www.theverge.com/2022/11/2/23437072/panasonic-kansas-ev-battery-factory-tesla-2170)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-02 18:00:28+00:00
- - tags: None
 
 <figure>
       <img alt="Construction equipment at the site of Panasonic’s new EV battery factory in Kansas" src="https://cdn.vox-cdn.com/thumbor/AnEl_irbCQJc1-1epJ0_QtIpdk0=/0x0:900x600/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71575904/IMG_0379.0.jpeg" />
@@ -137,7 +130,6 @@
  - [https://www.theverge.com/2022/11/2/23437002/overwatch-league-grand-finals-how-to-watch-youtube](https://www.theverge.com/2022/11/2/23437002/overwatch-league-grand-finals-how-to-watch-youtube)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-02 17:23:49+00:00
- - tags: None
 
 <figure>
       <img alt="Photo from the Overwatch League playoffs featuring Florida Mayhem player Isaiah “Hydron” Rodriguez in a black and pink Mayhem jersey wearing heavy headphones yelling at a computer screen while playing Overwatch 2" src="https://cdn.vox-cdn.com/thumbor/JKSu-yiZefrrccfxmF3J_iUHntU=/0x0:1620x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71575647/owl1.0.png" />
@@ -155,7 +147,6 @@
  - [https://www.theverge.com/2022/11/2/23436951/microsoft-teams-together-mode-assign-seats](https://www.theverge.com/2022/11/2/23436951/microsoft-teams-together-mode-assign-seats)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-02 17:18:58+00:00
- - tags: None
 
 <figure>
       <img alt="Eight virtual users seated in Together Mode on Microsoft Teams." src="https://cdn.vox-cdn.com/thumbor/jjmdSI6HXNnXyrZbG9vT6H70Aks=/323x0:1564x827/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71575618/tgt1.0.png" />
@@ -172,7 +163,6 @@
  - [https://www.theverge.com/2022/11/2/23436453/google-play-games-android-pc-open-beta](https://www.theverge.com/2022/11/2/23436453/google-play-games-android-pc-open-beta)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-02 17:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Android games running on PC" src="https://cdn.vox-cdn.com/thumbor/-DuyDFxmSkQd3MBe7TBjSDUsYPM=/160x0:1888x1152/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71575491/Untitled.0.png" />
@@ -189,7 +179,6 @@
  - [https://www.theverge.com/2022/11/2/23424498/secretlab-skins-gaming-chair-titan-evo-2022](https://www.theverge.com/2022/11/2/23424498/secretlab-skins-gaming-chair-titan-evo-2022)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-02 17:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="A stock photo of Secretlabs Skins slip covers" src="https://cdn.vox-cdn.com/thumbor/gyAsymSdZU2DC657gJWPGp1osy4=/443x0:1075x421/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71575485/Screenshot_2022_10_26_125022.0.jpg" />
@@ -206,7 +195,6 @@
  - [https://www.theverge.com/2022/11/2/23436718/comcast-charter-streaming-service-xumo-roku](https://www.theverge.com/2022/11/2/23436718/comcast-charter-streaming-service-xumo-roku)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-02 16:56:27+00:00
- - tags: None
 
 <figure>
       <img alt="Xumo’s logo on a TV" src="https://cdn.vox-cdn.com/thumbor/sNWCr0WEslYl-3d2raPxovJvS8g=/150x0:995x563/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71575464/xumo_tv_comcast_charter.0.jpeg" />
@@ -223,7 +211,6 @@
  - [https://www.theverge.com/23436923/hbo-max-the-last-of-us-series-premiere-debut-date](https://www.theverge.com/23436923/hbo-max-the-last-of-us-series-premiere-debut-date)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-02 16:55:26+00:00
- - tags: None
 
 <figure>
       <img alt="Joel and Ellie in promotional art for The Last of Us." src="https://cdn.vox-cdn.com/thumbor/-66WkZMI8bZ2siA7mwHh62YfSJw=/375x0:1125x500/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71575460/TheLastofUs_TeaserArtwork_0.0.jpg" />
@@ -240,7 +227,6 @@
  - [https://www.theverge.com/2022/11/2/23436528/porsche-design-speaker-soundbar-dolby-atmos-price](https://www.theverge.com/2022/11/2/23436528/porsche-design-speaker-soundbar-dolby-atmos-price)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-02 15:18:07+00:00
- - tags: None
 
 <figure>
       <img alt="The Porsche 911 Soundbar 2.0 Pro mounted onto a wall." src="https://cdn.vox-cdn.com/thumbor/xuCGI0tIzvE31wdnWABUJPPgKdY=/26x0:1475x966/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71575039/89260_09_the_porsche_911_soundbar_12_000_with_992_gt3_exhaust_system_full.0.png" />
@@ -257,7 +243,6 @@
  - [https://www.theverge.com/2022/11/2/23435258/google-ai-writing-wordcraft-lamda](https://www.theverge.com/2022/11/2/23435258/google-ai-writing-wordcraft-lamda)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-02 14:49:24+00:00
- - tags: None
 
 <figure>
       <img alt="Douglas Eck standing in front of a presentation screen demonstrating Wordcraft" src="https://cdn.vox-cdn.com/thumbor/2xKgHJJFiKyW4Aj_NqG7WrsB3iA=/0x168:4032x2856/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71574883/IMG_0296.0.jpeg" />
@@ -274,7 +259,6 @@
  - [https://www.theverge.com/2022/11/2/23436471/paramount-plus-price-increase-future-earnings-subscription](https://www.theverge.com/2022/11/2/23436471/paramount-plus-price-increase-future-earnings-subscription)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-02 14:46:07+00:00
- - tags: None
 
 <figure>
       <img alt="Paramount Plus logo on a blue and black background" src="https://cdn.vox-cdn.com/thumbor/51sSENX_o-gQ2UuQWnPt8gqM7g0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71574875/acastro_STK126_paramountPlus_03.0.jpg" />
@@ -293,7 +277,6 @@
  - [https://www.theverge.com/2022/11/2/23436467/lg-a2-oled-4k-tv-apple-ipad-air-tablet-nvidia-geforce-now-amazon-deal-sale](https://www.theverge.com/2022/11/2/23436467/lg-a2-oled-4k-tv-apple-ipad-air-tablet-nvidia-geforce-now-amazon-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-02 14:12:32+00:00
- - tags: None
 
 <figure>
       <img alt="LG’s A2 OLED in a marketing image showcasing a colorful chromatic pattern." src="https://cdn.vox-cdn.com/thumbor/4a0Ot51uoz7OBQHGTkoAbLvfQO0=/1x0:1258x838/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71574722/lga2.0.jpg" />
@@ -310,7 +293,6 @@
  - [https://www.theverge.com/2022/11/2/23435734/fujifilm-xt5-mirrorless-camera-price-specs-features](https://www.theverge.com/2022/11/2/23435734/fujifilm-xt5-mirrorless-camera-price-specs-features)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-02 14:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Front view of the silver and black Fujifilm X-T5 camera, held up with a 56mm lens mounted to it." src="https://cdn.vox-cdn.com/thumbor/630NaWT4ejFp3QCRA5LGi1G8u08=/0x0:8427x5618/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71574658/Fujifilm_X_T5_camera_ADiBenedetto_0001.0.jpg" />
@@ -327,7 +309,6 @@
  - [https://www.theverge.com/2022/11/2/23434777/google-wildfire-flood-tracking-expands-floodhub-app](https://www.theverge.com/2022/11/2/23434777/google-wildfire-flood-tracking-expands-floodhub-app)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-02 14:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Sidewalk benches are seen underwater at the Sanford..." src="https://cdn.vox-cdn.com/thumbor/87bfdsMY-buL3JwiwbPDK1tXYtk=/191x0:4010x2546/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71574618/1243862779.0.jpg" />
@@ -345,7 +326,6 @@
  - [https://www.theverge.com/2022/11/2/23434360/google-1000-languages-initiative-ai-llm-research-project](https://www.theverge.com/2022/11/2/23434360/google-1000-languages-initiative-ai-llm-research-project)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-02 14:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/MZX7yh1li0TReIqzcoRTd6c2fjA=/197x263:1843x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71574662/acastro_180612_2664_0001.0.jpg" />
@@ -363,7 +343,6 @@
  - [https://www.theverge.com/2022/11/2/23434361/google-text-to-image-ai-model-imagen-test-kitchen-app](https://www.theverge.com/2022/11/2/23434361/google-text-to-image-ai-model-imagen-test-kitchen-app)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-02 14:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot of an app interface with an AI image generation model that creates pictures of imaginary cities. " src="https://cdn.vox-cdn.com/thumbor/23PISyrUb1Q75dMpobKRz7QMlcE=/55x0:1278x815/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71574630/smorecity.0.png" />
@@ -381,7 +360,6 @@
  - [https://www.theverge.com/23435358/first-amendment-free-speech-midterm-elections-courts-hypocrisy](https://www.theverge.com/23435358/first-amendment-free-speech-midterm-elections-courts-hypocrisy)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-02 14:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Brightly colored large emojis and general internet iconography crowd a neoclassical building with a chat bubble icon at the top." src="https://cdn.vox-cdn.com/thumbor/CzBEreiByjMHTxfgFf9ObYn-T4g=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71574647/226377_First_Amendment_SInbar_001.0.jpg" />
@@ -398,7 +376,6 @@
  - [https://www.theverge.com/23436524/avatar-2-the-way-of-water-trailer-release-date](https://www.theverge.com/23436524/avatar-2-the-way-of-water-trailer-release-date)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-02 13:57:18+00:00
- - tags: None
 
 <figure>
       <img alt="A medium shot of a blue humanoid man gripping the back of an alien animal as it flies through the night sky. In the background, you can see an out of focus moonlit sky." src="https://cdn.vox-cdn.com/thumbor/nU9d1_p0-DLjLbNFtckhYV7AGvM=/551x0:2330x1186/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71574598/Screen_Shot_2022_11_02_at_8.45.47_AM.0.png" />
@@ -416,7 +393,6 @@
  - [https://www.theverge.com/23433594/flipper-zero-hacking-gadget-wireless-pentesting-open-source-antenna](https://www.theverge.com/23433594/flipper-zero-hacking-gadget-wireless-pentesting-open-source-antenna)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-02 13:30:00+00:00
- - tags: None
 
 <figure>
       <img alt="An image of a Flipper Zero over a red and black swirl illustration" src="https://cdn.vox-cdn.com/thumbor/6F8ySOlnLL1gcX0lY33ThULXsnY=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71574492/226349_Flipper.0.jpg" />
@@ -434,7 +410,6 @@
  - [https://www.theverge.com/2022/11/2/23436550/sony-playstation-vr2-release-date-price-features-games](https://www.theverge.com/2022/11/2/23436550/sony-playstation-vr2-release-date-price-features-games)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-02 13:18:03+00:00
- - tags: None
 
 <figure>
       <img alt="Sony’s upcoming PSVR2 headset" src="https://cdn.vox-cdn.com/thumbor/qw5l6snetiphStQ5XpWgBVV5t9o=/46x0:1423x918/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71574450/7170d4d947d7e5cae40c0920dcbe42233b63cbea.0.jpeg" />
@@ -452,7 +427,6 @@
  - [https://www.theverge.com/23435393/apple-tv-4k-2022-third-gen-review-price-details](https://www.theverge.com/23435393/apple-tv-4k-2022-third-gen-review-price-details)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-02 13:00:00+00:00
- - tags: None
 
 <p>Packing more speed than ever (and now HDR10 Plus) at a cheaper price, the Apple TV 4K is the best overall streamer on the market — even if tvOS is falling behind in places</p>
   <p>
@@ -463,7 +437,6 @@
  - [https://www.theverge.com/2022/11/2/23436434/dji-mavic-3-classic-drone-camera-price-features](https://www.theverge.com/2022/11/2/23436434/dji-mavic-3-classic-drone-camera-price-features)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-02 13:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="The DJI Mavic 3 Classic drone flying against a mountain backdrop" src="https://cdn.vox-cdn.com/thumbor/s-Rde9OWgKz-p0w8W8dz2_3yj4k=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71574293/DJI_Mavic_3_Classic_3.0.jpg" />
@@ -488,7 +461,6 @@
  - [https://www.theverge.com/2022/11/2/23434540/elgato-facecam-pro-4k-webcam-60-frames-per-second-price-features](https://www.theverge.com/2022/11/2/23434540/elgato-facecam-pro-4k-webcam-60-frames-per-second-price-features)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-02 13:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="The Elgato Facecam Pro sits on top of a ring light mount, aimed at a user who is on a Zoom video call." src="https://cdn.vox-cdn.com/thumbor/Xmy1Nju5Hw0ETpkh8k0MsA3_YkM=/1x0:5944x3962/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71574305/facecamprohero.0.jpg" />
@@ -505,7 +477,6 @@
  - [https://www.theverge.com/23436444/nvidia-geforce-now-subscription-deal-sale-priority-tier-six-month](https://www.theverge.com/23436444/nvidia-geforce-now-subscription-deal-sale-priority-tier-six-month)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-02 12:36:46+00:00
- - tags: None
 
 <figure>
       <img alt="A promotional image outlining the six months for $29.99 deal." src="https://cdn.vox-cdn.com/thumbor/K6UaTrmHh6k6J4BPANg6n1-7YUQ=/0x0:1020x680/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71574257/gfn_thursday_10_27_nv_blog_1280x680_no_cta.0.jpg" />
@@ -522,7 +493,6 @@
  - [https://www.theverge.com/2022/11/2/23435553/arlo-pro-5s-2k-camera-home-security-system-preorder](https://www.theverge.com/2022/11/2/23435553/arlo-pro-5s-2k-camera-home-security-system-preorder)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-02 12:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Arlo camera mounded to a wood wall and kids and adult playing in the yard outside with trees and grass" src="https://cdn.vox-cdn.com/thumbor/8XSsQVn7O4Bxm7IsZhYPMvru2nc=/100x0:3169x2046/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71574109/Screenshot_2022_11_01_at_7.57.28_PM.0.png" />
@@ -539,7 +509,6 @@
  - [https://www.theverge.com/2022/11/2/23436429/twitter-paywalled-video-feature-elon-musk-monetization-advertising](https://www.theverge.com/2022/11/2/23436429/twitter-paywalled-video-feature-elon-musk-monetization-advertising)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-02 11:11:50+00:00
- - tags: None
 
 <figure>
       <img alt="The Twitter bird logo in black over a white and blue background" src="https://cdn.vox-cdn.com/thumbor/nkdLb-x16ogYFCcH167mUzmgkrM=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71574025/acastro_STK050_03.0.jpg" />
@@ -556,7 +525,6 @@
  - [https://www.theverge.com/2022/11/2/23434740/weird-cars-gimmicks-ev-hyundai-kia-genesis](https://www.theverge.com/2022/11/2/23434740/weird-cars-gimmicks-ev-hyundai-kia-genesis)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-02 11:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Hyundai Ioniq 5 rear lights" src="https://cdn.vox-cdn.com/thumbor/ERiS3vq3JbykMN82d6irJrI-tQU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71573933/ahawkins_220221_5115_0006.0.jpg" />
@@ -573,7 +541,6 @@
  - [https://www.theverge.com/2022/11/2/23436401/xiaomi-12s-ultra-leica-m-series-camera-lens-concept](https://www.theverge.com/2022/11/2/23436401/xiaomi-12s-ultra-leica-m-series-camera-lens-concept)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-02 09:37:11+00:00
- - tags: None
 
 <figure>
       <img alt="A Leica M-series lens attached to Xiaomi’s 12S Ultra." src="https://cdn.vox-cdn.com/thumbor/1lpIpNQBU3X8JhJpSeLlSSJIrWM=/0x0:1852x1235/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71573829/Fgikl_KVUAERpKl.0.jpg" />
@@ -590,7 +557,6 @@
  - [https://www.theverge.com/2022/11/1/23435872/google-lens-image-search-home-page](https://www.theverge.com/2022/11/1/23435872/google-lens-image-search-home-page)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-02 00:01:38+00:00
- - tags: None
 
 <figure>
       <img alt="Screenshot of the Google homepage, showing the search image with Lens box." src="https://cdn.vox-cdn.com/thumbor/-hAi9JY6-1-UsT_tnH9Qa4TPUHI=/26x0:2111x1390/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71572974/Screenshot_2022_11_01_at_16.46.25.0.png" />

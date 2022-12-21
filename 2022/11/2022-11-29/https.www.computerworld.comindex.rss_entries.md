@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## When fees are 'taxes' and free speech costs $8 a month
  - [https://www.computerworld.com/article/3681077/when-fees-are-taxes-and-free-speech-costs-8-a-month.html#tk.rss_all](https://www.computerworld.com/article/3681077/when-fees-are-taxes-and-free-speech-costs-8-a-month.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-29 16:50:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -15,7 +14,6 @@
  - [https://www.computerworld.com/article/3681073/how-not-to-manage-a-business-starring-twitters-elon-musk.html#tk.rss_all](https://www.computerworld.com/article/3681073/how-not-to-manage-a-business-starring-twitters-elon-musk.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-29 11:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

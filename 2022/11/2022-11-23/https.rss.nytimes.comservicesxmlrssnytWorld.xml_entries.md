@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## Bolsonaro’s Team Makes Late Bid to Overturn Brazil’s Election
  - [https://www.nytimes.com/2022/11/23/world/americas/bolsonaro-brazil-election.html](https://www.nytimes.com/2022/11/23/world/americas/bolsonaro-brazil-election.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-23 23:27:08+00:00
- - tags: None
 
 President Jair Bolsonaro’s campaign said votes from about 60 percent of voting machines should be thrown out because of a software bug. Independent experts say the bug does not affect the vote’s integrity.
 
@@ -12,7 +11,6 @@ President Jair Bolsonaro’s campaign said votes from about 60 percent of voting
  - [https://www.nytimes.com/2022/11/23/world/europe/pope-francis-russia-ukraine-stalin-famine.html](https://www.nytimes.com/2022/11/23/world/europe/pope-francis-russia-ukraine-stalin-famine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-23 23:04:12+00:00
- - tags: None
 
 The comparison to Stalin’s decision to let millions in Ukraine starve represents one of the pope’s strongest condemnations yet of the Russian invasion.
 
@@ -20,7 +18,6 @@ The comparison to Stalin’s decision to let millions in Ukraine starve represen
  - [https://www.nytimes.com/2022/11/23/world/europe/russia-oil-price-cap-talks.html](https://www.nytimes.com/2022/11/23/world/europe/russia-oil-price-cap-talks.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-23 22:24:16+00:00
- - tags: None
 
 The effort to negotiate a cap on the price of Russian oil is expected to resume, but when and where is not clear.
 
@@ -28,7 +25,6 @@ The effort to negotiate a cap on the price of Russian oil is expected to resume,
  - [https://www.nytimes.com/2022/11/23/briefing/jerusalem-bomb-japan-world-cup-asia.html](https://www.nytimes.com/2022/11/23/briefing/jerusalem-bomb-japan-world-cup-asia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-23 21:42:22+00:00
- - tags: None
 
 Plus: Blackouts in Ukraine, Japan’s soccer triumph and an A.I. Thanksgiving menu.
 
@@ -36,7 +32,6 @@ Plus: Blackouts in Ukraine, Japan’s soccer triumph and an A.I. Thanksgiving me
  - [https://www.nytimes.com/2022/11/23/world/europe/russia-price-cap-talks.html](https://www.nytimes.com/2022/11/23/world/europe/russia-price-cap-talks.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-23 21:40:08+00:00
- - tags: None
 
 E.U. diplomats meeting in Brussels failed to reach agreement on Wednesday but plan to resume talks.
 
@@ -44,7 +39,6 @@ E.U. diplomats meeting in Brussels failed to reach agreement on Wednesday but pl
  - [https://www.nytimes.com/2022/11/23/world/europe/ukraine-newborn-russian-rocket-strike.html](https://www.nytimes.com/2022/11/23/world/europe/ukraine-newborn-russian-rocket-strike.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-23 19:02:43+00:00
- - tags: None
 
 “Grief fills our hearts,” a regional official said.
 
@@ -52,7 +46,6 @@ E.U. diplomats meeting in Brussels failed to reach agreement on Wednesday but pl
  - [https://www.nytimes.com/2022/11/23/world/europe/ukraine-us-military-aid-biden.html](https://www.nytimes.com/2022/11/23/world/europe/ukraine-us-military-aid-biden.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-23 18:16:14+00:00
- - tags: None
 
 A new shipment of $400 million in matériel underscores Ukraine’s battlefield priorities: shooting down waves of Russian missiles while continuing to push back Moscow’s ground forces.
 
@@ -60,7 +53,6 @@ A new shipment of $400 million in matériel underscores Ukraine’s battlefield 
  - [https://www.nytimes.com/2022/11/23/world/europe/germany-gold-coins-theft.html](https://www.nytimes.com/2022/11/23/world/europe/germany-gold-coins-theft.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-23 16:27:15+00:00
- - tags: None
 
 The theft played out like the plot of a movie. The artifacts could be worth $1.7 million if sold to dealers — or $260,000 if melted down.
 
@@ -68,7 +60,6 @@ The theft played out like the plot of a movie. The artifacts could be worth $1.7
  - [https://www.nytimes.com/2022/11/23/world/europe/uk-race-joint-enterprise.html](https://www.nytimes.com/2022/11/23/world/europe/uk-race-joint-enterprise.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-23 16:18:30+00:00
- - tags: None
 
 The government recognition that “joint enterprise” prosecutions may “affect some groups disproportionately,” an apparent first, followed a Times investigation.
 
@@ -76,7 +67,6 @@ The government recognition that “joint enterprise” prosecutions may “affec
  - [https://www.nytimes.com/2022/11/23/world/europe/russian-tech-entrepreneur-squatters.html](https://www.nytimes.com/2022/11/23/world/europe/russian-tech-entrepreneur-squatters.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-23 15:51:33+00:00
- - tags: None
 
 The owner of the house is Arkady Volozh, the founder of the Russian tech colossus Yandex, who stepped aside after coming under E.U. sanctions.
 
@@ -84,7 +74,6 @@ The owner of the house is Arkady Volozh, the founder of the Russian tech colossu
  - [https://www.nytimes.com/2022/11/23/world/europe/russia-terrorism-sponsor-european-parliament.html](https://www.nytimes.com/2022/11/23/world/europe/russia-terrorism-sponsor-european-parliament.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-23 15:48:17+00:00
- - tags: None
 
 The European Union’s only directly elected institution called on the bloc to “further isolate Russia internationally.”
 
@@ -92,7 +81,6 @@ The European Union’s only directly elected institution called on the bloc to �
  - [https://www.nytimes.com/2022/11/23/world/europe/bbc-russia-world-cup-gary-lineker.html](https://www.nytimes.com/2022/11/23/world/europe/bbc-russia-world-cup-gary-lineker.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-23 15:23:37+00:00
- - tags: None
 
 Gary Lineker, a former England player and prominent TV presenter, said the broadcaster made a “mistake” that it would learn from in Qatar.
 
@@ -100,7 +88,6 @@ Gary Lineker, a former England player and prominent TV presenter, said the broad
  - [https://www.nytimes.com/2022/11/23/world/europe/russian-oligarch-squatters.html](https://www.nytimes.com/2022/11/23/world/europe/russian-oligarch-squatters.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-23 14:24:17+00:00
- - tags: None
 
 The owner of the house is Arkady Volozh, the founder of the Russian tech colossus Yandex, who stepped aside after coming under E.U. sanctions.
 
@@ -108,7 +95,6 @@ The owner of the house is Arkady Volozh, the founder of the Russian tech colossu
  - [https://www.nytimes.com/2022/11/23/world/asia/indonesia-earthquake-rescue.html](https://www.nytimes.com/2022/11/23/world/asia/indonesia-earthquake-rescue.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-23 13:55:10+00:00
- - tags: None
 
 Amid aftershocks and landslides from Monday’s deadly quake in West Java, bands of volunteer rescuers have put aside their daily lives to save others.
 
@@ -116,7 +102,6 @@ Amid aftershocks and landslides from Monday’s deadly quake in West Java, bands
  - [https://www.nytimes.com/2022/11/23/world/europe/uk-scotland-independence.html](https://www.nytimes.com/2022/11/23/world/europe/uk-scotland-independence.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-23 12:42:22+00:00
- - tags: None
 
 In a setback to Scottish nationalists, the judges ruled that a second referendum on breaking away from London needed the consent of the British Parliament.
 
@@ -124,7 +109,6 @@ In a setback to Scottish nationalists, the judges ruled that a second referendum
  - [https://www.nytimes.com/live/2022/11/23/world/russia-ukraine-war-news](https://www.nytimes.com/live/2022/11/23/world/russia-ukraine-war-news)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-23 11:55:26+00:00
- - tags: None
 
 With few power plants left undamaged, Ukraine’s government is warning of the possibility of widespread outages.
 
@@ -132,7 +116,6 @@ With few power plants left undamaged, Ukraine’s government is warning of the p
  - [https://www.nytimes.com/2022/11/23/briefing/legal-weed-marijuana.html](https://www.nytimes.com/2022/11/23/briefing/legal-weed-marijuana.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-23 11:38:18+00:00
- - tags: None
 
 Americans support marijuana legalization, but many of their political leaders do not.
 
@@ -140,7 +123,6 @@ Americans support marijuana legalization, but many of their political leaders do
  - [https://www.nytimes.com/2022/11/23/world/middleeast/israel-border-shepherds-spies.html](https://www.nytimes.com/2022/11/23/world/middleeast/israel-border-shepherds-spies.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-23 10:00:48+00:00
- - tags: None
 
 Lebanese herders say that Israel crosses an ill-defined frontier to abduct and interrogate them. Israel accuses the herders of espionage on behalf of Hezbollah.
 
@@ -148,7 +130,6 @@ Lebanese herders say that Israel crosses an ill-defined frontier to abduct and i
  - [https://www.nytimes.com/2022/11/23/world/middleeast/iran-protesters-detained-ambulance.html](https://www.nytimes.com/2022/11/23/world/middleeast/iran-protesters-detained-ambulance.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-23 10:00:46+00:00
- - tags: None
 
 Witness accounts and video analysis reveal how the state is co-opting ambulances to infiltrate demonstrations and detain protesters.
 
@@ -156,7 +137,6 @@ Witness accounts and video analysis reveal how the state is co-opting ambulances
  - [https://www.nytimes.com/2022/11/23/climate/voluntary-human-extinction.html](https://www.nytimes.com/2022/11/23/climate/voluntary-human-extinction.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-23 10:00:21+00:00
- - tags: None
 
 For the sake of the planet, Les Knight, the founder of the Voluntary Human Extinction movement, has spent decades pushing one message: “May we live long and die out.”
 
@@ -164,7 +144,6 @@ For the sake of the planet, Les Knight, the founder of the Voluntary Human Extin
  - [https://www.nytimes.com/2022/11/23/books/tangier-morocco-books-laila-lalami.html](https://www.nytimes.com/2022/11/23/books/tangier-morocco-books-laila-lalami.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-23 10:00:18+00:00
- - tags: None
 
 Tangier’s many facets have long inspired writers. Here, the Moroccan-born novelist Laila Lalami introduces readers to the books and writers that, to her, best capture the city.
 
@@ -172,7 +151,6 @@ Tangier’s many facets have long inspired writers. Here, the Moroccan-born nove
  - [https://www.nytimes.com/2022/11/23/world/middleeast/israel-jerusalem-explosions.html](https://www.nytimes.com/2022/11/23/world/middleeast/israel-jerusalem-explosions.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-23 08:20:41+00:00
- - tags: None
 
 The two explosions occurred at bus stops during the morning rush hour in what were believed to be the first bomb attacks on Israeli civilians since 2016.
 
@@ -180,7 +158,6 @@ The two explosions occurred at bus stops during the morning rush hour in what we
  - [https://www.nytimes.com/2022/11/23/world/middleeast/israel-jerusalem-blasts.html](https://www.nytimes.com/2022/11/23/world/middleeast/israel-jerusalem-blasts.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-23 07:59:48+00:00
- - tags: None
 
 The two explosions occurred at bus stops during the morning rush hour in what were believed to be the first bomb attacks on Israeli civilians since 2016.
 
@@ -188,7 +165,6 @@ The two explosions occurred at bus stops during the morning rush hour in what we
  - [https://www.nytimes.com/2022/11/23/briefing/war-ukraine-brexit-trump.html](https://www.nytimes.com/2022/11/23/briefing/war-ukraine-brexit-trump.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-23 05:36:12+00:00
- - tags: None
 
 A closer look at the state of the war in Ukraine.
 
@@ -196,6 +172,5 @@ A closer look at the state of the war in Ukraine.
  - [https://www.nytimes.com/2022/11/23/world/europe/ukraine-germany-poland-patriot-missiles.html](https://www.nytimes.com/2022/11/23/world/europe/ukraine-germany-poland-patriot-missiles.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-23 05:11:25+00:00
- - tags: None
 
 NATO is determined to help Ukraine battle Russia, but wants no direct part of the war. A new promise of air defense weapons for Poland may make that more complicated.

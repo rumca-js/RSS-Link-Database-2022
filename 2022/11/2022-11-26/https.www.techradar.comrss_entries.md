@@ -1,10 +1,9 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss
+# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
 
 ## The 50 best Amazon Black Friday deals still available today
  - [https://www.techradar.com/news/the-50-best-amazon-black-friday-deals-still-available-today](https://www.techradar.com/news/the-50-best-amazon-black-friday-deals-still-available-today)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-26 18:07:30+00:00
- - tags: None
 
 We have the 50 best Amazon Black Friday deals still available on TVs, AirPods, robot vacuums, tablets and more.
 
@@ -12,7 +11,6 @@ We have the 50 best Amazon Black Friday deals still available on TVs, AirPods, r
  - [https://www.techradar.com/news/patch-google-chrome-now-to-fix-this-emergency-security-flaw](https://www.techradar.com/news/patch-google-chrome-now-to-fix-this-emergency-security-flaw)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-26 16:00:36+00:00
- - tags: None
 
 Google Chrome patches high-severity zero-day vulnerability relating to a "heap buffer" overflow.
 
@@ -20,7 +18,6 @@ Google Chrome patches high-severity zero-day vulnerability relating to a "heap b
  - [https://www.techradar.com/news/11-best-black-friday-tv-deals-extended-4k-qled-and-oled-tvs-still-on-sale](https://www.techradar.com/news/11-best-black-friday-tv-deals-extended-4k-qled-and-oled-tvs-still-on-sale)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-26 15:41:26+00:00
- - tags: None
 
 We have the best Black Friday TV deals still available on 4K, QLED and OLED TVs with prices starting at just $79.99.
 
@@ -28,7 +25,6 @@ We have the best Black Friday TV deals still available on 4K, QLED and OLED TVs 
  - [https://www.techradar.com/news/one-of-our-favorite-productivity-laptops-is-heavily-discounted-this-black-friday](https://www.techradar.com/news/one-of-our-favorite-productivity-laptops-is-heavily-discounted-this-black-friday)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-26 15:35:18+00:00
- - tags: None
 
 The Lenovo ThinkPad X1 Carbon Gen 10 models are as much as 60% for Black Friday.
 
@@ -36,7 +32,6 @@ The Lenovo ThinkPad X1 Carbon Gen 10 models are as much as 60% for Black Friday.
  - [https://www.techradar.com/news/amd-leak-provides-a-glimpse-of-other-incoming-rdna-3-gpus-but-dont-get-carried-away](https://www.techradar.com/news/amd-leak-provides-a-glimpse-of-other-incoming-rdna-3-gpus-but-dont-get-carried-away)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-26 14:11:19+00:00
- - tags: None
 
 New leak shows the core counts of the Navi 32 and 33 GPUs, but let’s proceed with some skepticism and caution.
 
@@ -44,7 +39,6 @@ New leak shows the core counts of the Navi 32 and 33 GPUs, but let’s proceed w
  - [https://www.techradar.com/news/drop-everything-apple-macbook-air-m1-cyber-monday-deal-is-the-cheapest-weve-ever-seen](https://www.techradar.com/news/drop-everything-apple-macbook-air-m1-cyber-monday-deal-is-the-cheapest-weve-ever-seen)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-26 13:30:32+00:00
- - tags: None
 
 This is the lowest price we've ever seen for the M1 model of Apple's finest laptop.
 
@@ -52,7 +46,6 @@ This is the lowest price we've ever seen for the M1 model of Apple's finest lapt
  - [https://www.techradar.com/news/live/cyber-monday-2022-has-started-at-amazon-see-all-this-weekends-best-deals](https://www.techradar.com/news/live/cyber-monday-2022-has-started-at-amazon-see-all-this-weekends-best-deals)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-26 13:23:00+00:00
- - tags: None
 
 We're kicking off our Cyber Monday 2022 coverage early this year with our favorite hold-out deals from Black Friday, news, and everything to expect.
 
@@ -60,7 +53,6 @@ We're kicking off our Cyber Monday 2022 coverage early this year with our favori
  - [https://www.techradar.com/news/the-iphone-15-pro-could-get-solid-state-volume-and-power-buttons](https://www.techradar.com/news/the-iphone-15-pro-could-get-solid-state-volume-and-power-buttons)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-26 12:00:05+00:00
- - tags: None
 
 Another source now says that Apple is going to use haptic technology in place of buttons on the pricier 2023 iPhones.
 
@@ -68,6 +60,5 @@ Another source now says that Apple is going to use haptic technology in place of
  - [https://www.techradar.com/news/windows-11-gaming-bug-has-been-cured-but-not-for-everyone](https://www.techradar.com/news/windows-11-gaming-bug-has-been-cured-but-not-for-everyone)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-26 10:23:22+00:00
- - tags: None
 
 This is a nasty bug that causes stuttering frame rates, but Microsoft still needs to implement an actual full fix.

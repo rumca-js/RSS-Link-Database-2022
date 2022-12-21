@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## JumpCloud brings Remote Access to cross-platform teams
  - [https://www.computerworld.com/article/3679050/jumpcloud-brings-remote-access-to-cross-platform-teams.html#tk.rss_all](https://www.computerworld.com/article/3679050/jumpcloud-brings-remote-access-to-cross-platform-teams.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-04 15:37:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -15,7 +14,6 @@
  - [https://www.computerworld.com/article/3678971/are-in-office-mandates-killing-productivity.html#tk.rss_all](https://www.computerworld.com/article/3678971/are-in-office-mandates-killing-productivity.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-04 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -25,7 +23,6 @@
  - [https://www.computerworld.com/article/3678728/pixel-watch-voice-commands.html#tk.rss_all](https://www.computerworld.com/article/3678728/pixel-watch-voice-commands.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-04 09:45:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

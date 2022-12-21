@@ -1,10 +1,9 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml
+# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
 
 ## Canada Calls China Disruptive Global Actor
  - [https://www.wsj.com/articles/canada-calls-china-disruptive-global-actor-11669579816](https://www.wsj.com/articles/canada-calls-china-disruptive-global-actor-11669579816)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-27 20:18:00+00:00
- - tags: None
 
 Ottawa unveils revisions to foreign policy to account for Chinese assertiveness on economic and security interests, and coercive treatment of other nations.
 
@@ -13,7 +12,6 @@ Slowed by War in Ukraine
  - [https://www.wsj.com/articles/u-s-effort-to-arm-taiwan-faces-new-challenge-with-ukraine-conflict-11669559116](https://www.wsj.com/articles/u-s-effort-to-arm-taiwan-faces-new-challenge-with-ukraine-conflict-11669559116)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-27 16:00:00+00:00
- - tags: None
 
 The flow of weapons to Kyiv is running up against the longer-term demands of a U.S. strategy to arm Taiwan to help defend against a possible invasion by China.
 
@@ -21,7 +19,6 @@ The flow of weapons to Kyiv is running up against the longer-term demands of a U
  - [https://www.wsj.com/articles/vladimir-putins-red-lines-war-aims-shift-in-ukraine-11669556247](https://www.wsj.com/articles/vladimir-putins-red-lines-war-aims-shift-in-ukraine-11669556247)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-27 15:08:00+00:00
- - tags: None
 
 The Russian leader is seen as improvising after setbacks. ‘A degree of desperation,’ one academic says.
 
@@ -29,7 +26,6 @@ The Russian leader is seen as improvising after setbacks. ‘A degree of despera
  - [https://www.wsj.com/articles/as-eurovision-voting-goes-global-u-s-fans-will-have-a-say-on-european-musical-contest-11669559747](https://www.wsj.com/articles/as-eurovision-voting-goes-global-u-s-fans-will-have-a-say-on-european-musical-contest-11669559747)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-27 14:36:00+00:00
- - tags: None
 
 Americans will soon get a chance to vote in the Eurovision Song Contest, the musical competition that celebrates kitschy pop and helped launch the careers of ABBA and Celine Dion.
 
@@ -37,7 +33,6 @@ Americans will soon get a chance to vote in the Eurovision Song Contest, the mus
  - [https://www.wsj.com/articles/irans-top-paramilitary-commander-warns-protesters-in-eastern-province-against-unrest-11669559141](https://www.wsj.com/articles/irans-top-paramilitary-commander-warns-protesters-in-eastern-province-against-unrest-11669559141)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-27 14:25:00+00:00
- - tags: None
 
 Major General Hossein Salami, the commander in chief of the Islamic Revolutionary Guard Corps, visited the city of Zahedan to warn locals against further unrest.
 
@@ -45,7 +40,6 @@ Major General Hossein Salami, the commander in chief of the Islamic Revolutionar
  - [https://www.wsj.com/articles/chinas-economy-faces-challenges-despite-latest-moves-to-stimulate-growth-11669523302](https://www.wsj.com/articles/chinas-economy-faces-challenges-despite-latest-moves-to-stimulate-growth-11669523302)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-27 10:30:00+00:00
- - tags: None
 
 Most economists doubt China’s economy will return to the heady expansion of prepandemic days soon, if ever.
 
@@ -53,7 +47,6 @@ Most economists doubt China’s economy will return to the heady expansion of pr
  - [https://www.wsj.com/articles/russian-airstrikes-hit-southern-ukraine-as-country-scrambles-to-restore-electricity-11669544170](https://www.wsj.com/articles/russian-airstrikes-hit-southern-ukraine-as-country-scrambles-to-restore-electricity-11669544170)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-27 10:16:00+00:00
- - tags: None
 
 Ukraine’s President Volodymyr Zelensky said that the number of homes without power had fallen by half, but the electricity network was still unstable.
 
@@ -61,6 +54,5 @@ Ukraine’s President Volodymyr Zelensky said that the number of homes without p
  - [https://www.wsj.com/articles/chinese-protests-spread-over-governments-covid-restrictions-11669516403](https://www.wsj.com/articles/chinese-protests-spread-over-governments-covid-restrictions-11669516403)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-27 02:33:00+00:00
- - tags: None
 
 After angry residents took to the streets Friday in Xinjiang, demonstrations have since erupted in Shanghai and other cities.

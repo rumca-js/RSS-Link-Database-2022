@@ -1,10 +1,9 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
+# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
 
 ## The Mystery Of The Fine Structure Constant
  - [https://www.youtube.com/watch?v=k05YZQHl4vg](https://www.youtube.com/watch?v=k05YZQHl4vg)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
  - date published: 2022-11-25 19:15:01+00:00
- - tags: None
 
 The Fine Structure Constant makes it possible for atoms to form. Without it, nothing would exist. So what created the Fine Structure Constant?
 

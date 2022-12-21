@@ -1,10 +1,9 @@
-# Source Wired business, Source URL:https://www.wired.com/feed/category/business/latest/rss
+# Source Wired business, Source URL:https://www.wired.com/feed/category/business/latest/rss, Source language: en-US
 
 ## A Race to Bridge the Analog Divide in US Politics
  - [https://www.wired.com/story/retail-politics-analog-divide/](https://www.wired.com/story/retail-politics-analog-divide/)
  - RSS feed: https://www.wired.com/feed/category/business/latest/rss
  - date published: 2022-11-08 21:40:12+00:00
- - tags: None
 
 Nothing beats in-person efforts to boost a campaign. But rising platforms are helping connect politicians with the rest of us.
 
@@ -12,7 +11,6 @@ Nothing beats in-person efforts to boost a campaign. But rising platforms are he
  - [https://www.wired.com/story/true-the-vote-iv3-app-voter-fraud/](https://www.wired.com/story/true-the-vote-iv3-app-voter-fraud/)
  - RSS feed: https://www.wired.com/feed/category/business/latest/rss
  - date published: 2022-11-08 15:59:44+00:00
- - tags: None
 
 True the Vote’s IV3 app is meant to catch election cheaters. But it has a fundamental flaw.
 
@@ -28,7 +26,6 @@ Government officials are urging citizens to adopt the official digital currency 
  - [https://www.wired.com/story/musk-layoffs-twitter-management/](https://www.wired.com/story/musk-layoffs-twitter-management/)
  - RSS feed: https://www.wired.com/feed/category/business/latest/rss
  - date published: 2022-11-08 12:00:00+00:00
- - tags: None
 
 The long-suffering staffers who remain at the company are scrambling to regroup and adapt to a new management style.
 
@@ -36,6 +33,5 @@ The long-suffering staffers who remain at the company are scrambling to regroup 
  - [https://www.wired.com/story/inside-metas-oversight-board-two-years-of-pushing-limits/](https://www.wired.com/story/inside-metas-oversight-board-two-years-of-pushing-limits/)
  - RSS feed: https://www.wired.com/feed/category/business/latest/rss
  - date published: 2022-11-08 11:00:00+00:00
- - tags: None
 
 Mark Zuckerberg set up the panel to investigate how his company handles controversial posts. Now its members want to transform how social platforms work.

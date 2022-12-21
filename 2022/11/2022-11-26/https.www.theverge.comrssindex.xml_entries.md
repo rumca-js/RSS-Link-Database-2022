@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## A Twitter executive got a court injunction to prevent Elon Musk from firing her
  - [https://www.theverge.com/2022/11/26/23479275/twitter-executive-court-injunction-elon-musk-fired-sinead-mcsweeney](https://www.theverge.com/2022/11/26/23479275/twitter-executive-court-injunction-elon-musk-fired-sinead-mcsweeney)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-26 22:39:42+00:00
- - tags: None
 
 <figure>
       <img alt="A blue Twitter bird logo with a repeating pattern in the background" src="https://cdn.vox-cdn.com/thumbor/C7y0umBnxnJLrMDIKFcXhdBgGUM=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71676853/acastro_STK050_01.0.jpg" />
@@ -21,7 +20,6 @@
  - [https://www.theverge.com/2022/11/26/23479297/black-friday-2022-nintendo-switch-bundle-mario-kart-online-deal-sale](https://www.theverge.com/2022/11/26/23479297/black-friday-2022-nintendo-switch-bundle-mario-kart-online-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-26 21:43:23+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/JkmyBXP6Uk44u3iogwGWE3AXAsU=/92x0:1172x720/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71676723/maxresdefault.0.jpg" />
@@ -39,7 +37,6 @@
  - [https://www.theverge.com/2022/11/26/23479247/amazon-black-friday-2022-kindle-paperwhite-ereader-tablet-eink-deal-sale](https://www.theverge.com/2022/11/26/23479247/amazon-black-friday-2022-kindle-paperwhite-ereader-tablet-eink-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-26 19:17:38+00:00
- - tags: None
 
 <figure>
       <img alt="The Kindle Paperwhite lying on a bunch of physical books while turned on." src="https://cdn.vox-cdn.com/thumbor/dj0dMxu8ltT3i4a1-ysbxjMrevk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71676429/cgartenberg_211020_4803_0006.0.jpg" />
@@ -57,7 +54,6 @@
  - [https://www.theverge.com/2022/11/26/23479034/doj-investigating-rent-setting-software-company-realpage](https://www.theverge.com/2022/11/26/23479034/doj-investigating-rent-setting-software-company-realpage)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-26 17:58:56+00:00
- - tags: None
 
 <figure>
       <img alt="An image showing the Department of Justice lettering" src="https://cdn.vox-cdn.com/thumbor/rtx-W3nCrfeb3aijqCfxIibueug=/90x53:930x613/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71676275/DOJ6.0.jpg" />
@@ -74,7 +70,6 @@
  - [https://www.theverge.com/23475097/black-friday-2022-deals-best-still-available-weekend-sales-tech-earbuds-laptops](https://www.theverge.com/23475097/black-friday-2022-deals-best-still-available-weekend-sales-tech-earbuds-laptops)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-26 14:08:59+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/3YxDQQEqBKhnn5mqajuOw-TY1dY=/0x1:2040x1361/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71675707/226415_Noc_Design_Black_Friday_deals_you_can_still_get.0.jpg" />
@@ -104,7 +99,6 @@
  - [https://www.theverge.com/23475440/samsung-galaxy-z-fold-4-folding-phone-versatility-tablet-notepad](https://www.theverge.com/23475440/samsung-galaxy-z-fold-4-folding-phone-versatility-tablet-notepad)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-26 13:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/6LzGmgeMY57M3jK7dorkY5OZYQ4=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71675449/DSC03411_resized.0.jpg" />
@@ -121,7 +115,6 @@
  - [https://www.theverge.com/23477686/walmart-black-friday-2022-best-tech-deals-cyber-monday-earbuds-gaming](https://www.theverge.com/23477686/walmart-black-friday-2022-best-tech-deals-cyber-monday-earbuds-gaming)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-26 02:03:32+00:00
- - tags: None
 
 <figure>
       <img alt="The last-gen AirPods Pro sitting on a desk near an iPhone and a MacBook." src="https://cdn.vox-cdn.com/thumbor/_23Uwe8FWOkvFb3rZdZL1uHiKcM=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71672790/cwelch_191031_3763_0001.0.jpg" />

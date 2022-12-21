@@ -1,10 +1,9 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
+# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
 
 ## Dolphins Can Sleep When They're Awake #shorts
  - [https://www.youtube.com/watch?v=a40rDfDaeRo](https://www.youtube.com/watch?v=a40rDfDaeRo)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
  - date published: 2022-11-06 16:00:01+00:00
- - tags: None
 
 Dolphins have unihemispheric sleep, meaning one half of their brain can sleep while the other half is awake. Wish I could do that.
 

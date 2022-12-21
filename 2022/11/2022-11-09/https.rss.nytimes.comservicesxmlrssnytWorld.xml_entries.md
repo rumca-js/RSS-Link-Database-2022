@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## Ukraine Peace Talks Remain Distant Even as Moscow Signals a Retreat
  - [https://www.nytimes.com/2022/11/09/us/politics/ukraine-russia-peace-talks.html](https://www.nytimes.com/2022/11/09/us/politics/ukraine-russia-peace-talks.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-09 23:38:27+00:00
- - tags: None
 
 President Biden and European leaders say they cannot push Ukraine and Russia into negotiations, though some U.S. lawmakers are questioning aid for an open-ended war.
 
@@ -12,7 +11,6 @@ President Biden and European leaders say they cannot push Ukraine and Russia int
  - [https://www.nytimes.com/2022/11/09/world/europe/brittney-griner-russian-penal-colony.html](https://www.nytimes.com/2022/11/09/world/europe/brittney-griner-russian-penal-colony.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-09 23:24:47+00:00
- - tags: None
 
 The U.S. basketball star, detained for more than eight months so far, is being transferred to an undisclosed prison in Russia, her lawyers said. The United States denounced the move.
 
@@ -20,7 +18,6 @@ The U.S. basketball star, detained for more than eight months so far, is being t
  - [https://www.nytimes.com/2022/11/09/world/europe/russia-brittney-griner.html](https://www.nytimes.com/2022/11/09/world/europe/russia-brittney-griner.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-09 23:24:46+00:00
- - tags: None
 
 The U.S. basketball star, detained for more than eight months so far, is being transferred to an undisclosed prison in Russia, her lawyers said. The United States denounced the move.
 
@@ -28,7 +25,6 @@ The U.S. basketball star, detained for more than eight months so far, is being t
  - [https://www.nytimes.com/2022/11/09/world/europe/ukraine-russia-kherson-retreat.html](https://www.nytimes.com/2022/11/09/world/europe/ukraine-russia-kherson-retreat.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-09 23:22:45+00:00
- - tags: None
 
 Russia’s position had grown perilous in Kherson, a strategic city and one of the biggest prizes seized in its Ukraine invasion, but Russian hawks reacted angrily to the withdrawal.
 
@@ -36,7 +32,6 @@ Russia’s position had grown perilous in Kherson, a strategic city and one of t
  - [https://www.nytimes.com/2022/11/09/climate/imf-world-bank-climate-cop27.html](https://www.nytimes.com/2022/11/09/climate/imf-world-bank-climate-cop27.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-09 23:02:49+00:00
- - tags: None
 
 As global warming delivers cascading weather disasters, leaders at U.N. climate talks in Egypt are increasingly calling for changes to a system that traps developing nations in debt.
 
@@ -44,7 +39,6 @@ As global warming delivers cascading weather disasters, leaders at U.N. climate 
  - [https://www.nytimes.com/2022/11/09/briefing/midterms-republicans-kherson-russia-asia.html](https://www.nytimes.com/2022/11/09/briefing/midterms-republicans-kherson-russia-asia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-09 21:21:39+00:00
- - tags: None
 
 Plus Russia says it is retreating from Kherson City and markets try to parse China’s “zero Covid.”
 
@@ -52,7 +46,6 @@ Plus Russia says it is retreating from Kherson City and markets try to parse Chi
  - [https://www.nytimes.com/2022/11/09/world/europe/ukraine-us-election-republicans.html](https://www.nytimes.com/2022/11/09/world/europe/ukraine-us-election-republicans.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-09 20:27:08+00:00
- - tags: None
 
 Officials are optimistic that Washington will continue to support the war effort. But a delegation is planning a trip to meet lawmakers of both parties.
 
@@ -60,7 +53,6 @@ Officials are optimistic that Washington will continue to support the war effort
  - [https://www.nytimes.com/2022/11/09/world/europe/putin-ukraine-russia-kherson.html](https://www.nytimes.com/2022/11/09/world/europe/putin-ukraine-russia-kherson.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-09 20:25:24+00:00
- - tags: None
 
 Some analysts saw the order as a reminder of President Vladimir Putin’s willingness to make tactical concessions.
 
@@ -68,7 +60,6 @@ Some analysts saw the order as a reminder of President Vladimir Putin’s willin
  - [https://www.nytimes.com/2022/11/09/world/europe/uk-politics-rishi-sunak-gavin-williamson.html](https://www.nytimes.com/2022/11/09/world/europe/uk-politics-rishi-sunak-gavin-williamson.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-09 20:06:43+00:00
- - tags: None
 
 Prime Minister Rishi Sunak’s pragmatic diplomacy did not grab attention the way the resignation of a cabinet minister did.
 
@@ -76,7 +67,6 @@ Prime Minister Rishi Sunak’s pragmatic diplomacy did not grab attention the wa
  - [https://www.nytimes.com/2022/11/09/world/europe/uk-rishi-sunak-gavin-williamson.html](https://www.nytimes.com/2022/11/09/world/europe/uk-rishi-sunak-gavin-williamson.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-09 20:06:43+00:00
- - tags: None
 
 Prime Minister Rishi Sunak’s pragmatic diplomacy did not grab attention the way the resignation of a cabinet minister did.
 
@@ -84,7 +74,6 @@ Prime Minister Rishi Sunak’s pragmatic diplomacy did not grab attention the wa
  - [https://www.nytimes.com/2022/11/09/world/europe/russian-war-bloggers-kherson.html](https://www.nytimes.com/2022/11/09/world/europe/russian-war-bloggers-kherson.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-09 19:47:37+00:00
- - tags: None
 
 “This betrayal is now carved up on my heart for centuries,” one military blogger wrote online. Another blogger lauded the move as a way to preserve the army.
 
@@ -92,7 +81,6 @@ Prime Minister Rishi Sunak’s pragmatic diplomacy did not grab attention the wa
  - [https://www.nytimes.com/2022/11/09/climate/david-malpass-world-bank-cop27-climate-change.html](https://www.nytimes.com/2022/11/09/climate/david-malpass-world-bank-cop27-climate-change.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-09 19:23:32+00:00
- - tags: None
 
 David Malpass has faced continuing criticism from those who question his commitment to climate action as well as the bank’s track record.
 
@@ -100,7 +88,6 @@ David Malpass has faced continuing criticism from those who question his commitm
  - [https://www.nytimes.com/2022/11/09/world/europe/germany-china-investment.html](https://www.nytimes.com/2022/11/09/world/europe/germany-china-investment.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-09 18:39:16+00:00
- - tags: None
 
 The decision to bar a Chinese-owned firm from acquiring a domestic semiconductor maker comes as Germany reappraises ties to its giant trading partner.
 
@@ -108,7 +95,6 @@ The decision to bar a Chinese-owned firm from acquiring a domestic semiconductor
  - [https://www.nytimes.com/2022/11/09/world/europe/putin-patrushev-russia-iran.html](https://www.nytimes.com/2022/11/09/world/europe/putin-patrushev-russia-iran.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-09 18:22:10+00:00
- - tags: None
 
 The visit comes as Western and Ukrainian officials warn that Russia is trying to secure high-tech Iranian missiles and drones to deploy on the battlefield.
 
@@ -116,7 +102,6 @@ The visit comes as Western and Ukrainian officials warn that Russia is trying to
  - [https://www.nytimes.com/2022/11/09/world/middleeast/jordan-water-cop-27.html](https://www.nytimes.com/2022/11/09/world/middleeast/jordan-water-cop-27.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-09 17:34:36+00:00
- - tags: None
 
 The small Middle Eastern nation is already one of the driest countries in the world and rising heat, coupled with a growing population, is making things much worse.
 
@@ -124,7 +109,6 @@ The small Middle Eastern nation is already one of the driest countries in the wo
  - [https://www.nytimes.com/2022/11/09/arts/design/naturalis-museum-java-man-indonesia.html](https://www.nytimes.com/2022/11/09/arts/design/naturalis-museum-java-man-indonesia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-09 16:57:08+00:00
- - tags: None
 
 An Indonesian claim against a Dutch museum has pushed the debate about restitution into the realm of the natural history museum — where it hasn’t been much of an issue until now.
 
@@ -132,7 +116,6 @@ An Indonesian claim against a Dutch museum has pushed the debate about restituti
  - [https://www.nytimes.com/2022/11/09/world/middleeast/israel-left-netanyahu.html](https://www.nytimes.com/2022/11/09/world/middleeast/israel-left-netanyahu.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-09 16:48:48+00:00
- - tags: None
 
 Support for Israel’s left collapsed against Benjamin Netanyahu and his far-right alliance in last week’s election. To regain relevance, the left’s leaders say they need to change — but disagree on how.
 
@@ -140,7 +123,6 @@ Support for Israel’s left collapsed against Benjamin Netanyahu and his far-rig
  - [https://www.nytimes.com/2022/11/09/world/europe/brittney-griner-russia-penal-colony.html](https://www.nytimes.com/2022/11/09/world/europe/brittney-griner-russia-penal-colony.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-09 15:57:23+00:00
- - tags: None
 
 The basketball player’s case has become part of a geopolitical struggle between Russia and the United States.
 
@@ -148,7 +130,6 @@ The basketball player’s case has become part of a geopolitical struggle betwee
  - [https://www.nytimes.com/2022/11/09/world/europe/adidas-cuts-forecast-again-contemplates-future-for-yeezy-brand.html](https://www.nytimes.com/2022/11/09/world/europe/adidas-cuts-forecast-again-contemplates-future-for-yeezy-brand.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-09 14:45:43+00:00
- - tags: None
 
 The German sportswear company slashed its yearly forecast after dropping the popular Yeezy line over hate speech by its creator, Kanye West.
 
@@ -156,7 +137,6 @@ The German sportswear company slashed its yearly forecast after dropping the pop
  - [https://www.nytimes.com/2022/11/09/world/europe/adidas-earnings-yeezy.html](https://www.nytimes.com/2022/11/09/world/europe/adidas-earnings-yeezy.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-09 14:45:43+00:00
- - tags: None
 
 The German sportswear company slashed its yearly forecast after dropping the popular Yeezy line over hate speech by its creator, Kanye West.
 
@@ -164,7 +144,6 @@ The German sportswear company slashed its yearly forecast after dropping the pop
  - [https://www.nytimes.com/2022/11/09/world/europe/italy-france-migrant-ship.html](https://www.nytimes.com/2022/11/09/world/europe/italy-france-migrant-ship.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-09 14:19:28+00:00
- - tags: None
 
 The new right-wing government allowed passengers on three vessels to disembark, but it stood firm on a fourth, a move that France denounced as “unacceptable.”
 
@@ -172,7 +151,6 @@ The new right-wing government allowed passengers on three vessels to disembark, 
  - [https://www.nytimes.com/2022/11/09/briefing/midterm-election-results-2022.html](https://www.nytimes.com/2022/11/09/briefing/midterm-election-results-2022.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-09 11:48:23+00:00
- - tags: None
 
 The majorities in the House and the Senate remain uncalled. Here’s what we know.
 
@@ -180,7 +158,6 @@ The majorities in the House and the Senate remain uncalled. Here’s what we kno
  - [https://www.nytimes.com/2022/11/09/business/china-zero-covid-markets.html](https://www.nytimes.com/2022/11/09/business/china-zero-covid-markets.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-09 11:24:48+00:00
- - tags: None
 
 Companies, investors and global policymakers are trying to divine when the Chinese government will drop its strict restrictions. It comes down to one man: the country’s top leader, Xi Jinping.
 
@@ -188,7 +165,6 @@ Companies, investors and global policymakers are trying to divine when the Chine
  - [https://www.nytimes.com/live/2022/11/09/world/ukraine-war-news-russia-updates](https://www.nytimes.com/live/2022/11/09/world/ukraine-war-news-russia-updates)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-09 11:10:55+00:00
- - tags: None
 
 The process of transferring the W.N.B.A. star could take two weeks. The Biden administration has been seeking her release amid tensions with Moscow over the war.
 
@@ -196,7 +172,6 @@ The process of transferring the W.N.B.A. star could take two weeks. The Biden ad
  - [https://www.nytimes.com/2022/11/09/world/asia/sea-turtle-sanctuary-philippines.html](https://www.nytimes.com/2022/11/09/world/asia/sea-turtle-sanctuary-philippines.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-09 10:00:51+00:00
- - tags: None
 
 Against long odds and initially strong opposition, a pristine marine preserve in the Philippines has thrived for decades under the care of local fishermen. Warming waters threaten the achievement.
 
@@ -204,7 +179,6 @@ Against long odds and initially strong opposition, a pristine marine preserve in
  - [https://www.nytimes.com/2022/11/09/world/americas/migrants-darien-gap.html](https://www.nytimes.com/2022/11/09/world/americas/migrants-darien-gap.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-09 10:00:50+00:00
- - tags: None
 
 The pandemic, climate change and growing conflict are forcing a seismic shift in global migration. In few places is that more clear than a perilous crossing called the Darién Gap.
 
@@ -212,7 +186,6 @@ The pandemic, climate change and growing conflict are forcing a seismic shift in
  - [https://www.nytimes.com/2022/11/09/books/dublin-books-read-tana-french.html](https://www.nytimes.com/2022/11/09/books/dublin-books-read-tana-french.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-09 10:00:15+00:00
- - tags: None
 
 Virtuosity and creativity with language are “everyone’s birthright” in the Irish capital, says Tana French, an award-winning mystery writer who has made it her home.
 
@@ -220,7 +193,6 @@ Virtuosity and creativity with language are “everyone’s birthright” in the
  - [https://www.nytimes.com/2022/11/09/briefing/us-midterm-elections-climate-change.html](https://www.nytimes.com/2022/11/09/briefing/us-midterm-elections-climate-change.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-09 06:32:26+00:00
- - tags: None
 
 Results from the U.S. midterm elections.
 
@@ -228,6 +200,5 @@ Results from the U.S. midterm elections.
  - [https://www.nytimes.com/2022/11/09/world/europe/ukraine-russia-war-weapons.html](https://www.nytimes.com/2022/11/09/world/europe/ukraine-russia-war-weapons.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-09 05:01:10+00:00
- - tags: None
 
 Both Russia and Ukraine are using confusion as well as artillery on the battlefield.

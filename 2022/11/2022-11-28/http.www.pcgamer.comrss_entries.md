@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## Keep your coffee hot at your desk all day with the best insulated mug I've ever used
  - [https://www.pcgamer.com/keep-your-coffee-hot-at-your-desk-all-day-with-the-best-insulated-mug-ive-ever-used](https://www.pcgamer.com/keep-your-coffee-hot-at-your-desk-all-day-with-the-best-insulated-mug-ive-ever-used)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-28 23:48:20+00:00
- - tags: None
 
 I'm an expert coffee drinker and this Yeti mug, which is on sale during Cyber Monday, is the best for keeping it hot for hours.
 
@@ -12,7 +11,6 @@ I'm an expert coffee drinker and this Yeti mug, which is on sale during Cyber Mo
  - [https://www.pcgamer.com/world-of-warcraft-dragonflight-queue-times](https://www.pcgamer.com/world-of-warcraft-dragonflight-queue-times)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-28 23:43:43+00:00
- - tags: None
 
 The boats and zeppelins are running late and they're also disconnecting players from the game.
 
@@ -20,7 +18,6 @@ The boats and zeppelins are running late and they're also disconnecting players 
  - [https://www.pcgamer.com/world-of-warcraft-wow-dragonflight-professions](https://www.pcgamer.com/world-of-warcraft-wow-dragonflight-professions)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-28 23:00:12+00:00
- - tags: None
 
 The overhaul of professions was long overdue.
 
@@ -28,7 +25,6 @@ The overhaul of professions was long overdue.
  - [https://www.pcgamer.com/the-witcher-remake-will-be-an-open-world-reimagining](https://www.pcgamer.com/the-witcher-remake-will-be-an-open-world-reimagining)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-28 22:35:15+00:00
- - tags: None
 
 CD Projekt's remake of The Witcher 1 won't be a direct copy of the original RPG.
 
@@ -36,7 +32,6 @@ CD Projekt's remake of The Witcher 1 won't be a direct copy of the original RPG.
  - [https://www.pcgamer.com/wow-dragon-glyph-locations-dragonriding](https://www.pcgamer.com/wow-dragon-glyph-locations-dragonriding)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-28 22:30:53+00:00
- - tags: None
 
 You can spend these glyphs on dragonriding talents.
 
@@ -44,7 +39,6 @@ You can spend these glyphs on dragonriding talents.
  - [https://www.pcgamer.com/world-of-warcraft-wow-dragonriding-unlock](https://www.pcgamer.com/world-of-warcraft-wow-dragonriding-unlock)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-28 22:00:25+00:00
- - tags: None
 
 What you need to know about this new form of travel.
 
@@ -52,7 +46,6 @@ What you need to know about this new form of travel.
  - [https://www.pcgamer.com/warzone-1-is-now-back-online-but-its-missing-key-features-and-maps](https://www.pcgamer.com/warzone-1-is-now-back-online-but-its-missing-key-features-and-maps)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-28 21:48:57+00:00
- - tags: None
 
 Now called Call of Duty: Warzone Caldera, old Warzone ain't what it used to be.
 
@@ -60,7 +53,6 @@ Now called Call of Duty: Warzone Caldera, old Warzone ain't what it used to be.
  - [https://www.pcgamer.com/dracthyr-make-world-of-warcraft-feel-like-a-different-game](https://www.pcgamer.com/dracthyr-make-world-of-warcraft-feel-like-a-different-game)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-28 20:30:49+00:00
- - tags: None
 
 High above the rest.
 
@@ -68,7 +60,6 @@ High above the rest.
  - [https://www.pcgamer.com/dr-disrespects-call-of-duty-account-suspended-after-hes-disrespectful-in-proxy-chat](https://www.pcgamer.com/dr-disrespects-call-of-duty-account-suspended-after-hes-disrespectful-in-proxy-chat)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-28 19:30:03+00:00
- - tags: None
 
 Of CoDs and monsters.
 
@@ -76,7 +67,6 @@ Of CoDs and monsters.
  - [https://www.pcgamer.com/airborne-boats-infinite-money-and-flying-squirrel-fcksyep-warzone-2-sure-feels-like-warzone](https://www.pcgamer.com/airborne-boats-infinite-money-and-flying-squirrel-fcksyep-warzone-2-sure-feels-like-warzone)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-28 19:18:45+00:00
- - tags: None
 
 The game may be enormous fun, but elements of the playerbase just want to find the bugs.
 
@@ -84,7 +74,6 @@ The game may be enormous fun, but elements of the playerbase just want to find t
  - [https://www.pcgamer.com/starship-troopers-extermination-is-a-12-player-co-op-fps-from-the-makers-of-squad](https://www.pcgamer.com/starship-troopers-extermination-is-a-12-player-co-op-fps-from-the-makers-of-squad)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-28 16:57:59+00:00
- - tags: None
 
 Become a member of the Deep Space Vanguard and squash bugs on a hostile alien world.
 
@@ -92,7 +81,6 @@ Become a member of the Deep Space Vanguard and squash bugs on a hostile alien wo
  - [https://www.pcgamer.com/how-to-start-rebuilding-in-the-waterlogged-wastes-of-floodland](https://www.pcgamer.com/how-to-start-rebuilding-in-the-waterlogged-wastes-of-floodland)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-28 16:11:36+00:00
- - tags: None
 
 Five tips to help you on the way to efficiency and dry underwear.
 
@@ -100,7 +88,6 @@ Five tips to help you on the way to efficiency and dry underwear.
  - [https://www.pcgamer.com/chosen-identity-is-low-key-the-best-dracthyr-ability-in-world-of-warcraft-dragonflight](https://www.pcgamer.com/chosen-identity-is-low-key-the-best-dracthyr-ability-in-world-of-warcraft-dragonflight)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-28 14:58:00+00:00
- - tags: None
 
 Especially if you care about aesthetics.
 
@@ -108,7 +95,6 @@ Especially if you care about aesthetics.
  - [https://www.pcgamer.com/intel-gaming-laptops-and-13th-gen-intel-core-desktop-cpus-are-a-gift-for-pc-gamers-this-holiday-season](https://www.pcgamer.com/intel-gaming-laptops-and-13th-gen-intel-core-desktop-cpus-are-a-gift-for-pc-gamers-this-holiday-season)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-28 14:00:00+00:00
- - tags: None
 
 One of the best gifts a PC gamer can get during the holidays is a brand new high-performance gaming laptop or desktop CPU, and Intel’s latest offerings are some of the best in the industry.
 
@@ -116,7 +102,6 @@ One of the best gifts a PC gamer can get during the holidays is a brand new high
  - [https://www.pcgamer.com/warhammer-40000-darktide-zealot-build](https://www.pcgamer.com/warhammer-40000-darktide-zealot-build)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-28 12:55:17+00:00
- - tags: None
 
 Purge some heretics with fire and faith.
 
@@ -124,7 +109,6 @@ Purge some heretics with fire and faith.
  - [https://www.pcgamer.com/ea-patent-proposes-ai-system-to-punish-you-for-fraternising-with-the-enemy](https://www.pcgamer.com/ea-patent-proposes-ai-system-to-punish-you-for-fraternising-with-the-enemy)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-28 12:07:07+00:00
- - tags: None
 
 The invention would use player data to make sure love never blooms in Battlefield.
 
@@ -132,7 +116,6 @@ The invention would use player data to make sure love never blooms in Battlefiel
  - [https://www.pcgamer.com/world-of-warcraft-dragonflight-leveling-guide-tips](https://www.pcgamer.com/world-of-warcraft-dragonflight-leveling-guide-tips)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-28 09:02:56+00:00
- - tags: None
 
 Here's how to get started in the Dragon Isles.
 
@@ -140,7 +123,6 @@ Here's how to get started in the Dragon Isles.
  - [https://www.pcgamer.com/wordle-527-answer-november-28](https://www.pcgamer.com/wordle-527-answer-november-28)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-28 08:05:46+00:00
- - tags: None
 
 Wordle today: The solution and a hint for the #527 puzzle.
 
@@ -148,7 +130,6 @@ Wordle today: The solution and a hint for the #527 puzzle.
  - [https://www.pcgamer.com/world-of-warcraft-dragonflight-release-time-unlock](https://www.pcgamer.com/world-of-warcraft-dragonflight-release-time-unlock)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-28 07:30:10+00:00
- - tags: None
 
 Get ready to head to the Dragon Isles.
 
@@ -156,7 +137,6 @@ Get ready to head to the Dragon Isles.
  - [https://www.pcgamer.com/competitive-farming-simulator-is-like-an-agriculture-grand-prix](https://www.pcgamer.com/competitive-farming-simulator-is-like-an-agriculture-grand-prix)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-28 05:05:12+00:00
- - tags: None
 
 Last weekend's Farming Simulator League World Championship reached a thrilling conclusion.
 
@@ -164,6 +144,5 @@ Last weekend's Farming Simulator League World Championship reached a thrilling c
  - [https://www.pcgamer.com/five-new-steam-games-you-probably-missed-november-28-2022](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-november-28-2022)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-28 01:23:23+00:00
- - tags: None
 
 Sorting through every new game on Steam so you don't have to.

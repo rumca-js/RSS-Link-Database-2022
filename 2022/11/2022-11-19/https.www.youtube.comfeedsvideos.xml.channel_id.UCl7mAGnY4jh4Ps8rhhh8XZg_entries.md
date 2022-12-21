@@ -1,10 +1,9 @@
-# Source Serpentza, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCl7mAGnY4jh4Ps8rhhh8XZg
+# Source Serpentza, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCl7mAGnY4jh4Ps8rhhh8XZg, Source language: en-US
 
 ## Why China's 5G is Garbage
  - [https://www.youtube.com/watch?v=VKq-zLqrTNQ](https://www.youtube.com/watch?v=VKq-zLqrTNQ)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCl7mAGnY4jh4Ps8rhhh8XZg
  - date published: 2022-11-19 15:30:04+00:00
- - tags: None
 
 Is 5G a Technological Revolution? No! Come and find out how it's just a bunch of overhyped propaganda BS...
 

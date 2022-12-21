@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## .NET 7 Performance Improvements in .NET MAUI
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59452](https://www.codeproject.com/script/News/View.aspx?nwid=59452)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-10 05:00:00+00:00
- - tags: None
 
 General improvements in the .NET runtime or base class libraries (BCL) lay the foundation for the performance we are able to achieve in .NET MAUI.
 
@@ -12,7 +11,6 @@ General improvements in the .NET runtime or base class libraries (BCL) lay the f
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59458](https://www.codeproject.com/script/News/View.aspx?nwid=59458)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-10 05:00:00+00:00
- - tags: None
 
 I'm thinking there are easier ways to boost your SEO?
 
@@ -20,7 +18,6 @@ I'm thinking there are easier ways to boost your SEO?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59456](https://www.codeproject.com/script/News/View.aspx?nwid=59456)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-10 05:00:00+00:00
- - tags: None
 
 Activity Embedding is part of Jetpack Window Manager version 1.1 alpha and contains APIs that help you to optimize apps on large screen devices by splitting an application’s task window between two activities or two instances of the same activity.
 
@@ -28,7 +25,6 @@ Activity Embedding is part of Jetpack Window Manager version 1.1 alpha and conta
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59451](https://www.codeproject.com/script/News/View.aspx?nwid=59451)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-10 05:00:00+00:00
- - tags: None
 
 Xamarin Community Toolkit is an official library provided by Xamarin which includes animations, behaviors, converters, effects, and many other things that help speed up development.
 
@@ -36,7 +32,6 @@ Xamarin Community Toolkit is an official library provided by Xamarin which inclu
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59459](https://www.codeproject.com/script/News/View.aspx?nwid=59459)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-10 05:00:00+00:00
- - tags: None
 
 Code cloud security and really make the big bucks
 
@@ -44,7 +39,6 @@ Code cloud security and really make the big bucks
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59462](https://www.codeproject.com/script/News/View.aspx?nwid=59462)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-10 05:00:00+00:00
- - tags: None
 
 "The right tool for the right job"
 
@@ -52,7 +46,6 @@ Code cloud security and really make the big bucks
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59460](https://www.codeproject.com/script/News/View.aspx?nwid=59460)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-10 05:00:00+00:00
- - tags: None
 
 You can't copy and paste it if you can't find it
 
@@ -60,7 +53,6 @@ You can't copy and paste it if you can't find it
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59447](https://www.codeproject.com/script/News/View.aspx?nwid=59447)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-10 05:00:00+00:00
- - tags: None
 
 International Aeronautic Commission? Irish Albino Congress?
 
@@ -68,7 +60,6 @@ International Aeronautic Commission? Irish Albino Congress?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59453](https://www.codeproject.com/script/News/View.aspx?nwid=59453)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-10 05:00:00+00:00
- - tags: None
 
 In a rather detailed article, Slack engineers Ahmed Eid and Arpita Patel provided an interesting peek into the processes they adopted along the years to improve developer experience in a number of distinct areas and the tools they used to that aim.
 
@@ -76,7 +67,6 @@ In a rather detailed article, Slack engineers Ahmed Eid and Arpita Patel provide
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59454](https://www.codeproject.com/script/News/View.aspx?nwid=59454)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-10 05:00:00+00:00
- - tags: None
 
 This article is for anyone who is curious about the Kotlin Coroutines but has no idea what it is exactly.
 
@@ -84,7 +74,6 @@ This article is for anyone who is curious about the Kotlin Coroutines but has no
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59448](https://www.codeproject.com/script/News/View.aspx?nwid=59448)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-10 05:00:00+00:00
- - tags: None
 
 I guess now it's more, "About-faceBook"?
 
@@ -92,7 +81,6 @@ I guess now it's more, "About-faceBook"?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59450](https://www.codeproject.com/script/News/View.aspx?nwid=59450)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-10 05:00:00+00:00
- - tags: None
 
 Have they tried turning it off and back on again?
 
@@ -100,7 +88,6 @@ Have they tried turning it off and back on again?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59455](https://www.codeproject.com/script/News/View.aspx?nwid=59455)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-10 05:00:00+00:00
- - tags: None
 
 Knowing how to organize the visual elements on our screen will help us create more friendly, flexible interfaces and, above all, using the least amount of resources.
 
@@ -108,7 +95,6 @@ Knowing how to organize the visual elements on our screen will help us create mo
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59461](https://www.codeproject.com/script/News/View.aspx?nwid=59461)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-10 05:00:00+00:00
- - tags: None
 
 OutSystems this week revealed it has acquired Ionic, a provider of an open source framework that provides developers with a higher level of abstraction for building and deploying mobile and desktop applications.
 
@@ -116,7 +102,6 @@ OutSystems this week revealed it has acquired Ionic, a provider of an open sourc
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59449](https://www.codeproject.com/script/News/View.aspx?nwid=59449)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-10 05:00:00+00:00
- - tags: None
 
 Remember to always visit your grandparents!
 
@@ -124,7 +109,6 @@ Remember to always visit your grandparents!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59463](https://www.codeproject.com/script/News/View.aspx?nwid=59463)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-10 05:00:00+00:00
- - tags: None
 
 An abbreviated list
 
@@ -132,6 +116,5 @@ An abbreviated list
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59457](https://www.codeproject.com/script/News/View.aspx?nwid=59457)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-10 05:00:00+00:00
- - tags: None
 
 Because 'copy and paste' is too danged difficult.

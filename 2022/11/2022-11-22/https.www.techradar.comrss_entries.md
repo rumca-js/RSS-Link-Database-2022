@@ -1,10 +1,9 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss
+# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
 
 ## We need to start taking our passwords seriously, come on
  - [https://www.techradar.com/news/people-still-treat-passwords-as-obstacles](https://www.techradar.com/news/people-still-treat-passwords-as-obstacles)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-22 22:26:15+00:00
- - tags: None
 
 The usual suspects for easily cracked passwords are still in play, with current events influencing bad choices.
 
@@ -12,7 +11,6 @@ The usual suspects for easily cracked passwords are still in play, with current 
  - [https://www.techradar.com/news/beware-black-friday-online-shopping-scams-are-here-now](https://www.techradar.com/news/beware-black-friday-online-shopping-scams-are-here-now)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-22 21:03:52+00:00
- - tags: None
 
 If it's too good to be true, it probably isn't, researchers warn, so be careful with Black Friday offers you get sent.
 
@@ -20,7 +18,6 @@ If it's too good to be true, it probably isn't, researchers warn, so be careful 
  - [https://www.techradar.com/news/no-youre-not-having-an-identity-crisis-there-could-be-strangers-in-your-icloud-photos](https://www.techradar.com/news/no-youre-not-having-an-identity-crisis-there-could-be-strangers-in-your-icloud-photos)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-22 20:14:05+00:00
- - tags: None
 
 Glitched videos and apparent cross-pollination of user content content are being reported by iCloud users on PC.
 
@@ -28,7 +25,6 @@ Glitched videos and apparent cross-pollination of user content content are being
  - [https://www.techradar.com/news/azure-will-now-protect-smbs-from-ddos-attacks](https://www.techradar.com/news/azure-will-now-protect-smbs-from-ddos-attacks)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-22 19:30:35+00:00
- - tags: None
 
 Microsoft has released a new SKU for Azure DDoS Protection, specifically tailored for the needs of SMBs.
 
@@ -36,7 +32,6 @@ Microsoft has released a new SKU for Azure DDoS Protection, specifically tailore
  - [https://www.techradar.com/news/this-fake-16tb-external-ssd-is-amazons-best-selling-new-storage-release-just-dont-buy-it](https://www.techradar.com/news/this-fake-16tb-external-ssd-is-amazons-best-selling-new-storage-release-just-dont-buy-it)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-22 18:44:18+00:00
- - tags: None
 
 Scam control at Amazon? We’ve heard about it.
 
@@ -44,7 +39,6 @@ Scam control at Amazon? We’ve heard about it.
  - [https://www.techradar.com/news/this-nasty-google-chrome-extension-is-after-your-crypto-and-your-passwords](https://www.techradar.com/news/this-nasty-google-chrome-extension-is-after-your-crypto-and-your-passwords)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-22 18:25:03+00:00
- - tags: None
 
 Known malware is back with new tools, including a fake productivity Google Chrome extension add-on.
 
@@ -52,7 +46,6 @@ Known malware is back with new tools, including a fake productivity Google Chrom
  - [https://www.techradar.com/news/netflixs-kaleidoscope-is-an-ambitious-tv-experiment-that-will-thrill-heist-fans](https://www.techradar.com/news/netflixs-kaleidoscope-is-an-ambitious-tv-experiment-that-will-thrill-heist-fans)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-22 17:15:46+00:00
- - tags: None
 
 Netflix is putting a fascinating spin on the anthology TV show format with Kaleidoscope, a forthcoming crime drama.
 
@@ -60,7 +53,6 @@ Netflix is putting a fascinating spin on the anthology TV show format with Kalei
  - [https://www.techradar.com/news/apple-may-be-tracking-more-data-about-us-than-we-thought](https://www.techradar.com/news/apple-may-be-tracking-more-data-about-us-than-we-thought)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-22 17:10:13+00:00
- - tags: None
 
 Not only has Apple been collecting your data, but it now appears that this is linked to your Apple ID.
 
@@ -68,7 +60,6 @@ Not only has Apple been collecting your data, but it now appears that this is li
  - [https://www.techradar.com/news/mozilla-bundles-security-vpn-to-protect-you-from-black-friday-scams](https://www.techradar.com/news/mozilla-bundles-security-vpn-to-protect-you-from-black-friday-scams)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-22 16:47:59+00:00
- - tags: None
 
 Mozilla wants to protect Internet shoppers this holiday season with a $6.99/month VPN and Relay bundle.
 
@@ -76,7 +67,6 @@ Mozilla wants to protect Internet shoppers this holiday season with a $6.99/mont
  - [https://www.techradar.com/news/these-popular-mobile-apps-are-leaking-some-very-valuable-information](https://www.techradar.com/news/these-popular-mobile-apps-are-leaking-some-very-valuable-information)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-22 16:12:50+00:00
- - tags: None
 
 More than a thousand apps found leaking sensitive user data, and even allow threat actors to change settings.
 
@@ -84,7 +74,6 @@ More than a thousand apps found leaking sensitive user data, and even allow thre
  - [https://www.techradar.com/news/this-06-inch-oled-tv-is-christopher-nolans-worst-nightmare](https://www.techradar.com/news/this-06-inch-oled-tv-is-christopher-nolans-worst-nightmare)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-22 16:04:51+00:00
- - tags: None
 
 Retro TinyTV Mini is the size of an SD card and has a diminutive 64x64 pixel resolution
 
@@ -92,7 +81,6 @@ Retro TinyTV Mini is the size of an SD card and has a diminutive 64x64 pixel res
  - [https://www.techradar.com/news/our-favorite-home-gadget-of-the-year-is-back-in-stock-and-at-an-amazing-price](https://www.techradar.com/news/our-favorite-home-gadget-of-the-year-is-back-in-stock-and-at-an-amazing-price)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-22 15:52:49+00:00
- - tags: None
 
 This award-winning Air Fryer is a brilliant buy, and it's been really hard to find lately – so if you want one for a great price, move fast!
 
@@ -100,7 +88,6 @@ This award-winning Air Fryer is a brilliant buy, and it's been really hard to fi
  - [https://www.techradar.com/news/meta-is-making-a-small-but-mighty-upgrade-to-its-data-centers](https://www.techradar.com/news/meta-is-making-a-small-but-mighty-upgrade-to-its-data-centers)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-22 15:30:19+00:00
- - tags: None
 
 Meta is set to upgrade its data centers to a more precise network timing protocol, the Precision Time Protocol (PTP).
 
@@ -108,7 +95,6 @@ Meta is set to upgrade its data centers to a more precise network timing protoco
  - [https://www.techradar.com/news/huion-kamvas-pro-is-the-perfect-companion-for-photographers-heres-why](https://www.techradar.com/news/huion-kamvas-pro-is-the-perfect-companion-for-photographers-heres-why)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-22 15:10:22+00:00
- - tags: None
 
 Editing photography is a key part of the creative process; here's how to make it easy.
 
@@ -116,7 +102,6 @@ Editing photography is a key part of the creative process; here's how to make it
  - [https://www.techradar.com/news/us-warns-oil-and-gas-rigs-could-be-the-next-big-cyberattack-targets/](https://www.techradar.com/news/us-warns-oil-and-gas-rigs-could-be-the-next-big-cyberattack-targets/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-22 14:44:26+00:00
- - tags: None
 
 US government needs to do more to protect its offshore oil and gas rigs, says report.
 
@@ -124,7 +109,6 @@ US government needs to do more to protect its offshore oil and gas rigs, says re
  - [https://www.techradar.com/news/us-warns-oil-and-gas-rigs-could-be-the-next-big-cyberattack-targets](https://www.techradar.com/news/us-warns-oil-and-gas-rigs-could-be-the-next-big-cyberattack-targets)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-22 14:44:26+00:00
- - tags: None
 
 US government needs to do more to protect its offshore oil and gas rigs, says report.
 
@@ -132,7 +116,6 @@ US government needs to do more to protect its offshore oil and gas rigs, says re
  - [https://www.techradar.com/news/hulus-black-friday-offer-is-the-streaming-tv-deal-of-the-year/](https://www.techradar.com/news/hulus-black-friday-offer-is-the-streaming-tv-deal-of-the-year/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-22 14:00:47+00:00
- - tags: None
 
 Every year, Hulu receives a huge price cut in time for Black Friday – here's why you should sign up for a subscription.
 
@@ -140,7 +123,6 @@ Every year, Hulu receives a huge price cut in time for Black Friday – here's w
  - [https://www.techradar.com/news/hulus-black-friday-offer-is-the-streaming-tv-deal-of-the-year](https://www.techradar.com/news/hulus-black-friday-offer-is-the-streaming-tv-deal-of-the-year)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-22 14:00:47+00:00
- - tags: None
 
 Every year, Hulu receives a huge price cut in time for Black Friday – here's why you should sign up for a subscription.
 
@@ -148,7 +130,6 @@ Every year, Hulu receives a huge price cut in time for Black Friday – here's w
  - [https://www.techradar.com/news/ninja-air-fryer-alternatives/](https://www.techradar.com/news/ninja-air-fryer-alternatives/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-22 13:59:35+00:00
- - tags: None
 
 These Ninja air fryer alternatives are another money-saving option for meal times, and they're in stock.
 
@@ -156,7 +137,6 @@ These Ninja air fryer alternatives are another money-saving option for meal time
  - [https://www.techradar.com/news/ninja-air-fryer-alternatives](https://www.techradar.com/news/ninja-air-fryer-alternatives)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-22 13:59:35+00:00
- - tags: None
 
 These Ninja air fryer alternatives are another money-saving option for meal times, and they're in stock.
 
@@ -164,7 +144,6 @@ These Ninja air fryer alternatives are another money-saving option for meal time
  - [https://www.techradar.com/news/live/live-blog-twitter-chaos-whats-going-on](https://www.techradar.com/news/live/live-blog-twitter-chaos-whats-going-on)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-22 13:54:18+00:00
- - tags: None
 
 Elon Musk bought Twitter two weeks ago, and since then there's been a lot of drama. Here's what we know so far.
 
@@ -172,7 +151,6 @@ Elon Musk bought Twitter two weeks ago, and since then there's been a lot of dra
  - [https://www.techradar.com/news/some-of-the-worlds-biggest-firms-have-been-hit-multiple-times-by-hackers-this-year-alone/](https://www.techradar.com/news/some-of-the-worlds-biggest-firms-have-been-hit-multiple-times-by-hackers-this-year-alone/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-22 13:15:15+00:00
- - tags: None
 
 The threats just keep getting bigger as companies struggle to identify their entire attack surface.
 
@@ -180,7 +158,6 @@ The threats just keep getting bigger as companies struggle to identify their ent
  - [https://www.techradar.com/news/some-of-the-worlds-biggest-firms-have-been-hit-multiple-times-by-hackers-this-year-alone](https://www.techradar.com/news/some-of-the-worlds-biggest-firms-have-been-hit-multiple-times-by-hackers-this-year-alone)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-22 13:15:15+00:00
- - tags: None
 
 The threats just keep getting bigger as companies struggle to identify their entire attack surface.
 
@@ -188,7 +165,6 @@ The threats just keep getting bigger as companies struggle to identify their ent
  - [https://www.techradar.com/news/ubisoft-games-are-back-on-steam-and-thats-great-news-for-the-steam-deck/](https://www.techradar.com/news/ubisoft-games-are-back-on-steam-and-thats-great-news-for-the-steam-deck/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-22 13:12:29+00:00
- - tags: None
 
 The Steam Deck just got better as some Ubisoft games are returning to the platform, including Assassin’s Creed Valhalla.
 
@@ -196,7 +172,6 @@ The Steam Deck just got better as some Ubisoft games are returning to the platfo
  - [https://www.techradar.com/news/ubisoft-games-are-back-on-steam-and-thats-great-news-for-the-steam-deck](https://www.techradar.com/news/ubisoft-games-are-back-on-steam-and-thats-great-news-for-the-steam-deck)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-22 13:12:29+00:00
- - tags: None
 
 The Steam Deck just got better as some Ubisoft games are returning to the platform, including Assassin’s Creed Valhalla.
 
@@ -204,7 +179,6 @@ The Steam Deck just got better as some Ubisoft games are returning to the platfo
  - [https://www.techradar.com/news/im-snapping-up-this-80-off-hbo-max-black-friday-deal-and-you-should-too/](https://www.techradar.com/news/im-snapping-up-this-80-off-hbo-max-black-friday-deal-and-you-should-too/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-22 12:00:12+00:00
- - tags: None
 
 HBO Max has had its price slashed to just $1.99 per month for Black Friday – but there are a couple of catches.
 
@@ -212,7 +186,6 @@ HBO Max has had its price slashed to just $1.99 per month for Black Friday – b
  - [https://www.techradar.com/news/im-snapping-up-this-80-off-hbo-max-black-friday-deal-and-you-should-too](https://www.techradar.com/news/im-snapping-up-this-80-off-hbo-max-black-friday-deal-and-you-should-too)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-22 12:00:12+00:00
- - tags: None
 
 HBO Max has had its price slashed to just $1.99 per month for Black Friday – but there are a couple of catches.
 
@@ -220,7 +193,6 @@ HBO Max has had its price slashed to just $1.99 per month for Black Friday – b
  - [https://www.techradar.com/news/nvidias-rumored-plan-for-budget-gpus-doesnt-involve-the-rtx-4060/](https://www.techradar.com/news/nvidias-rumored-plan-for-budget-gpus-doesnt-involve-the-rtx-4060/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-22 11:01:23+00:00
- - tags: None
 
 The overlapping of RTX 3000 and 4000 models might mean that we don’t see the RTX 4060 for a long time yet.
 
@@ -228,7 +200,6 @@ The overlapping of RTX 3000 and 4000 models might mean that we don’t see the R
  - [https://www.techradar.com/news/nvidias-rumored-plan-for-budget-gpus-doesnt-involve-the-rtx-4060](https://www.techradar.com/news/nvidias-rumored-plan-for-budget-gpus-doesnt-involve-the-rtx-4060)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-22 11:01:23+00:00
- - tags: None
 
 The overlapping of RTX 3000 and 4000 models might mean that we don’t see the RTX 4060 for a long time yet.
 
@@ -236,6 +207,5 @@ The overlapping of RTX 3000 and 4000 models might mean that we don’t see the R
  - [https://www.techradar.com/news/spotify-wants-to-help-newbie-podcasters-sound-like-the-pros/](https://www.techradar.com/news/spotify-wants-to-help-newbie-podcasters-sound-like-the-pros/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-22 05:00:54+00:00
- - tags: None
 
 Available on iOS and Android, Audio Enhancement is easy to use, but experienced creators may find it lacking.

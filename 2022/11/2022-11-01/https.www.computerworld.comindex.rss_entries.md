@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Location flexibility linked to improved organizational outcomes
  - [https://www.computerworld.com/article/3678174/location-flexibility-linked-to-improved-organizational-outcomes.html#tk.rss_all](https://www.computerworld.com/article/3678174/location-flexibility-linked-to-improved-organizational-outcomes.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-01 16:28:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3678297/your-company-brand-may-soon-be-held-hostage-to-adobe-pantone.html#tk.rss_all](https://www.computerworld.com/article/3678297/your-company-brand-may-soon-be-held-hostage-to-adobe-pantone.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-01 16:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -25,7 +23,6 @@
  - [https://www.computerworld.com/article/3678297/your-company-brand-may-soon-be-held-hostage-to-adobe-pantone-u.html#tk.rss_all](https://www.computerworld.com/article/3678297/your-company-brand-may-soon-be-held-hostage-to-adobe-pantone-u.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-01 16:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -36,7 +33,6 @@
  - [https://www.computerworld.com/article/3678358/data-storage-power-preparing-for-an-intelligent-digital-future.html#tk.rss_all](https://www.computerworld.com/article/3678358/data-storage-power-preparing-for-an-intelligent-digital-future.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-01 15:39:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -46,7 +42,6 @@
  - [https://www.computerworld.com/article/3678172/how-synthetic-media-will-transform-business-forever.html#tk.rss_all](https://www.computerworld.com/article/3678172/how-synthetic-media-will-transform-business-forever.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-01 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -56,7 +51,6 @@
  - [https://www.computerworld.com/article/3678430/this-would-be-a-good-time-to-test-your-cloud-roi.html#tk.rss_all](https://www.computerworld.com/article/3678430/this-would-be-a-good-time-to-test-your-cloud-roi.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-01 09:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

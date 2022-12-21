@@ -1,10 +1,9 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml
+# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
 
 ## Transatlantic 'Route du Rhum' sailing race postponed due to weather concerns
  - [https://www.lemonde.fr/en/international/article/2022/11/06/transatlantic-route-du-rhum-sailing-race-postponed-due-to-weather-concerns_6003098_4.html](https://www.lemonde.fr/en/international/article/2022/11/06/transatlantic-route-du-rhum-sailing-race-postponed-due-to-weather-concerns_6003098_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-05 23:27:09+00:00
- - tags: None
 
 The 12th edition of the famous sailing race was supposed to start on Sunday, November 6, from Saint-Malo. The start of the race has been postponed to 'Tuesday or Wednesday'.
 
@@ -12,7 +11,6 @@ The 12th edition of the famous sailing race was supposed to start on Sunday, Nov
  - [https://www.lemonde.fr/en/france/article/2022/11/05/autumn-nation-series-france-defeats-australia-in-a-thriller_6003093_7.html](https://www.lemonde.fr/en/france/article/2022/11/05/autumn-nation-series-france-defeats-australia-in-a-thriller_6003093_7.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-05 22:50:10+00:00
- - tags: None
 
 A gutsy effort from Damian Penaud put France ahead in the final minutes to defeat Australia 30-29 in a nailbiter in Paris.
 
@@ -20,7 +18,6 @@ A gutsy effort from Damian Penaud put France ahead in the final minutes to defea
  - [https://www.lemonde.fr/en/international/article/2022/11/05/for-the-first-time-iran-admits-supplying-drones-to-russia-before-moscow-s-invasion-of-ukraine_6003090_4.html](https://www.lemonde.fr/en/international/article/2022/11/05/for-the-first-time-iran-admits-supplying-drones-to-russia-before-moscow-s-invasion-of-ukraine_6003090_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-05 22:27:21+00:00
- - tags: None
 
 President Volodymyr Zelensky on Saturday, November 5, accused Iran of lying about its drone deliveries to Moscow: 'We shoot down at least 10 Iranian drones every day, and the Iranian regime claims that it allegedly gave little and even before the start of a full-scale invasion.'
 
@@ -28,7 +25,6 @@ President Volodymyr Zelensky on Saturday, November 5, accused Iran of lying abou
  - [https://www.lemonde.fr/en/international/article/2022/11/05/since-covid-19-new-york-s-great-cultural-transformation_6003089_4.html](https://www.lemonde.fr/en/international/article/2022/11/05/since-covid-19-new-york-s-great-cultural-transformation_6003089_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-05 20:00:11+00:00
- - tags: None
 
 With renovations and new events, New York's museums are being transformed and the city is changing. But the downside is a rising crime rate, especially in the subway.
 
@@ -36,7 +32,6 @@ With renovations and new events, New York's museums are being transformed and th
  - [https://www.lemonde.fr/en/culture/article/2022/11/05/in-pamfir-a-ukrainian-father-sacrifices-his-life-for-the-future-of-his-family_6003088_30.html](https://www.lemonde.fr/en/culture/article/2022/11/05/in-pamfir-a-ukrainian-father-sacrifices-his-life-for-the-future-of-his-family_6003088_30.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-05 19:00:07+00:00
- - tags: None
 
 Ukrainian director Dmitro Sukholytkyy-Sobchuk has created a harsh and visionary first feature film with mythological overtones.
 
@@ -44,7 +39,6 @@ Ukrainian director Dmitro Sukholytkyy-Sobchuk has created a harsh and visionary 
  - [https://www.lemonde.fr/en/le-monde-africa/article/2022/11/05/a-shocking-injustice-africa-the-continent-paying-for-the-effects-of-a-climate-crisis-it-did-not-cause_6003086_124.html](https://www.lemonde.fr/en/le-monde-africa/article/2022/11/05/a-shocking-injustice-africa-the-continent-paying-for-the-effects-of-a-climate-crisis-it-did-not-cause_6003086_124.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-05 17:30:12+00:00
- - tags: None
 
 The continent is already paying a heavy price for the effects of a climate crisis it did not cause. During COP27 in Egypt, from November 6 to 18, African countries are set to demand a fair energy transition, prioritizing access to electricity for 600 million people.
 
@@ -52,7 +46,6 @@ The continent is already paying a heavy price for the effects of a climate crisi
  - [https://www.lemonde.fr/en/sports/article/2022/11/05/tennis-world-no-1-alcaraz-pulls-out-of-paris-masters-and-davis-cup-for-medical-reasons_6003084_9.html](https://www.lemonde.fr/en/sports/article/2022/11/05/tennis-world-no-1-alcaraz-pulls-out-of-paris-masters-and-davis-cup-for-medical-reasons_6003084_9.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-05 17:11:30+00:00
- - tags: None
 
 Alcaraz tweeted on Saturday that his medical team had assessed his injury and it was 'an internal oblique muscle tear in the left abdominal wall with an estimated recovery time of six weeks.'
 
@@ -60,7 +53,6 @@ Alcaraz tweeted on Saturday that his medical team had assessed his injury and it
  - [https://www.lemonde.fr/en/environment/article/2022/11/05/two-climate-activists-glue-their-hands-to-goya-painting-frames-at-the-prado_6003082_114.html](https://www.lemonde.fr/en/environment/article/2022/11/05/two-climate-activists-glue-their-hands-to-goya-painting-frames-at-the-prado_6003082_114.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-05 14:48:10+00:00
- - tags: None
 
 In recent weeks, several groups of environmental activists have glued themselves to artistic masterpieces in an attempt to raise awareness of the climate crisis.
 
@@ -68,7 +60,6 @@ In recent weeks, several groups of environmental activists have glued themselves
  - [https://www.lemonde.fr/en/international/article/2022/11/05/cop27-to-open-under-the-dark-shadow-of-political-prisoner-alaa-abd-el-fattah-s-hunger-strike_6003079_4.html](https://www.lemonde.fr/en/international/article/2022/11/05/cop27-to-open-under-the-dark-shadow-of-political-prisoner-alaa-abd-el-fattah-s-hunger-strike_6003079_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-05 14:21:25+00:00
- - tags: None
 
 The British-Egyptian activist became a symbol of repression of the youth who were involved in the revolution in Egypt in 2011.
 
@@ -76,7 +67,6 @@ The British-Egyptian activist became a symbol of repression of the youth who wer
  - [https://www.lemonde.fr/en/international/article/2022/11/05/in-us-midterms-secretaries-of-state-are-an-administrative-role-with-high-political-stakes_6003078_4.html](https://www.lemonde.fr/en/international/article/2022/11/05/in-us-midterms-secretaries-of-state-are-an-administrative-role-with-high-political-stakes_6003078_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-05 13:44:19+00:00
- - tags: None
 
 Republican candidates convinced of voter fraud in the 2020 presidential election could be elected as secretaries of state on Tuesday and be in charge for the 2024 presidential election.
 
@@ -84,7 +74,6 @@ Republican candidates convinced of voter fraud in the 2020 presidential election
  - [https://www.lemonde.fr/en/international/article/2022/11/05/iranians-stage-new-protests-despite-increasingly-aggressive-crackdown_6003076_4.html](https://www.lemonde.fr/en/international/article/2022/11/05/iranians-stage-new-protests-despite-increasingly-aggressive-crackdown_6003076_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-05 12:51:56+00:00
- - tags: None
 
 Up to 10 people, including children, are feared to have been killed Friday in a crackdown on protests by Iranian security forces in the southeast of the country, human rights watchdog Amnesty International said.
 
@@ -92,7 +81,6 @@ Up to 10 people, including children, are feared to have been killed Friday in a 
  - [https://www.lemonde.fr/en/m-le-mag/article/2022/11/05/russia-means-fear-death-terror-for-so-many-people-in-the-world-today-the-diary-of-two-sisters-separated-by-the-war-in-ukraine_6003072_117.html](https://www.lemonde.fr/en/m-le-mag/article/2022/11/05/russia-means-fear-death-terror-for-so-many-people-in-the-world-today-the-diary-of-two-sisters-separated-by-the-war-in-ukraine_6003072_117.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-05 11:52:51+00:00
- - tags: None
 
 Sasha and Olga are finally together in Paris to celebrate Olga's birthday. This is an opportunity for Sasha to experience a moment of respite from the war, even though the air attacks that hit Kyiv end up reminding them. For the 36th week, the two sisters talk about their daily life to Le Monde's 'M' magazine.
 
@@ -100,7 +88,6 @@ Sasha and Olga are finally together in Paris to celebrate Olga's birthday. This 
  - [https://www.lemonde.fr/en/france/article/2022/11/05/france-s-far-right-party-picks-bardella-to-succeed-le-pen-as-leader_6003069_7.html](https://www.lemonde.fr/en/france/article/2022/11/05/france-s-far-right-party-picks-bardella-to-succeed-le-pen-as-leader_6003069_7.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-05 11:24:21+00:00
- - tags: None
 
 The ambitious 27 year old becomes the first person to lead the Rassemblement National who doesn't have the Le Pen name since the party's creation a half-century ago.
 
@@ -108,7 +95,6 @@ The ambitious 27 year old becomes the first person to lead the Rassemblement Nat
  - [https://www.lemonde.fr/en/united-states/article/2022/11/05/america-s-right-wing-intellectuals-undergo-illiberal-transformation_6003063_133.html](https://www.lemonde.fr/en/united-states/article/2022/11/05/america-s-right-wing-intellectuals-undergo-illiberal-transformation_6003063_133.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-05 11:00:13+00:00
- - tags: None
 
 A nexus of American Catholic intellectuals are advocating a regime change to end abortion and fight the increased focus on identity issues, which they associate with liberal democracy.
 
@@ -116,7 +102,6 @@ A nexus of American Catholic intellectuals are advocating a regime change to end
  - [https://www.lemonde.fr/en/united-states/article/2022/11/05/us-midterms-the-new-voting-integrity-militias_6003058_133.html](https://www.lemonde.fr/en/united-states/article/2022/11/05/us-midterms-the-new-voting-integrity-militias_6003058_133.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-05 10:07:22+00:00
- - tags: None
 
 'The US midterm elections as seen from my French window': Armed militias 'defending' the vote are the unexpected new element in the 2022 midterm elections, writes former US correspondent Gilles Paris.
 
@@ -124,7 +109,6 @@ A nexus of American Catholic intellectuals are advocating a regime change to end
  - [https://www.lemonde.fr/en/international/article/2022/11/05/north-korea-launches-more-missiles-as-us-flies-supersonic-bombers-in-support-of-south_6003057_4.html](https://www.lemonde.fr/en/international/article/2022/11/05/north-korea-launches-more-missiles-as-us-flies-supersonic-bombers-in-support-of-south_6003057_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-05 09:39:23+00:00
- - tags: None
 
 The launches came as the United States and South Korea conducted their largest-ever joint air force drills, which an infuriated North Korea described as a display of US 'military confrontation hysteria.'
 
@@ -132,7 +116,6 @@ The launches came as the United States and South Korea conducted their largest-e
  - [https://www.lemonde.fr/en/le-monde-africa/article/2022/11/05/ugandan-designer-transforms-second-hand-clothes-to-sell-them-in-the-west_6003047_124.html](https://www.lemonde.fr/en/le-monde-africa/article/2022/11/05/ugandan-designer-transforms-second-hand-clothes-to-sell-them-in-the-west_6003047_124.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-05 08:00:10+00:00
- - tags: None
 
 Bobby Kolade, the founder of Buzigahill, wants to revitalize the local textile industry, hampered by the continuous influx of clothes from Western countries.
 
@@ -140,7 +123,6 @@ Bobby Kolade, the founder of Buzigahill, wants to revitalize the local textile i
  - [https://www.lemonde.fr/en/france/article/2022/11/05/hunting-in-france-the-more-the-practice-of-hunting-diminishes-the-less-it-is-accepted-and-understood_6003046_7.html](https://www.lemonde.fr/en/france/article/2022/11/05/hunting-in-france-the-more-the-practice-of-hunting-diminishes-the-less-it-is-accepted-and-understood_6003046_7.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-05 07:00:16+00:00
- - tags: None
 
 According to anthropologist Charles Stépanoff, opposition to hunting and its practices can be explained by the invisibilization of violence in modern societies. It also reflects a recent evolution in 'our relationship to nature and to living beings.'
 
@@ -148,7 +130,6 @@ According to anthropologist Charles Stépanoff, opposition to hunting and its pr
  - [https://www.lemonde.fr/en/opinion/article/2022/11/05/thomas-piketty-it-is-impossible-to-seriously-fight-climate-change-without-a-profound-redistribution-of-wealth_6003038_23.html](https://www.lemonde.fr/en/opinion/article/2022/11/05/thomas-piketty-it-is-impossible-to-seriously-fight-climate-change-without-a-profound-redistribution-of-wealth_6003038_23.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-05 03:56:15+00:00
- - tags: None
 
 The only way out to limit the effects of global warming is to drastically reduce the wealth and income of the richest, argues economist Thomas Piketty in his column.
 
@@ -156,7 +137,6 @@ The only way out to limit the effects of global warming is to drastically reduce
  - [https://www.lemonde.fr/en/environment/article/2022/11/05/cop27-egyptian-conference-criticized-by-human-rights-organizations_6003037_114.html](https://www.lemonde.fr/en/environment/article/2022/11/05/cop27-egyptian-conference-criticized-by-human-rights-organizations_6003037_114.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-05 03:56:08+00:00
- - tags: None
 
 Egyptian activists fear a backlash after the climate conference running from November 6 to 18 in Sharm-El-Sheikh.
 
@@ -164,7 +144,6 @@ Egyptian activists fear a backlash after the climate conference running from Nov
  - [https://www.lemonde.fr/en/style/article/2022/11/05/the-healthy-wine-tradition-of-the-hospices-de-strasbourg_6003036_40.html](https://www.lemonde.fr/en/style/article/2022/11/05/the-healthy-wine-tradition-of-the-hospices-de-strasbourg_6003036_40.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-05 03:55:18+00:00
- - tags: None
 
 The Hospices de Strasbourg's cellar has been producing wine since the end of the 14th century, originally as a remedy for its patients. On the brink of disappearing in the 1990s, this unique combination of health and alcohol has now become a wine tourism attraction.
 
@@ -172,7 +151,6 @@ The Hospices de Strasbourg's cellar has been producing wine since the end of the
  - [https://www.lemonde.fr/en/international/article/2022/11/05/us-midterms-with-a-slew-of-races-and-referendums-voting-in-california-is-no-easy-task_6003034_4.html](https://www.lemonde.fr/en/international/article/2022/11/05/us-midterms-with-a-slew-of-races-and-referendums-voting-in-california-is-no-easy-task_6003034_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-05 02:00:14+00:00
- - tags: None
 
 The US midterm elections are about more than just federal or state-level offices. In San Francisco, voters will have 55 boxes to check!
 
@@ -180,7 +158,6 @@ The US midterm elections are about more than just federal or state-level offices
  - [https://www.lemonde.fr/en/international/article/2022/11/05/in-china-olaf-scholz-pleads-for-an-economic-rapprochement-between-berlin-and-beijing_6003032_4.html](https://www.lemonde.fr/en/international/article/2022/11/05/in-china-olaf-scholz-pleads-for-an-economic-rapprochement-between-berlin-and-beijing_6003032_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-05 00:57:26+00:00
- - tags: None
 
 The German chancellor was criticized by both his European partners and members of his own government for meeting President Xi on November 4. In doing so, Mr. Scholz made his divergent opinions crystal clear.
 
@@ -188,6 +165,5 @@ The German chancellor was criticized by both his European partners and members o
  - [https://www.lemonde.fr/en/international/article/2022/11/05/us-speaker-pelosi-makes-first-public-appearance-since-husband-s-assault_6003030_4.html](https://www.lemonde.fr/en/international/article/2022/11/05/us-speaker-pelosi-makes-first-public-appearance-since-husband-s-assault_6003030_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-05 00:18:12+00:00
- - tags: None
 
 Nancy Pelosi spoke publicly on-camera on Friday, November 4, for the first time since the attack on her husband, Paul.

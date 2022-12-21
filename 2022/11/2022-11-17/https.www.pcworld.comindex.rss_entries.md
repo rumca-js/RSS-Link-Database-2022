@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## Score the Xbox Series S for $50 off and get a $50 Target gift card, too
  - [https://www.pcworld.com/article/1384352/whoa-you-can-grab-the-all-digital-xbox-series-s-and-a-50-target-gift-card-for-250-right-now.html](https://www.pcworld.com/article/1384352/whoa-you-can-grab-the-all-digital-xbox-series-s-and-a-50-target-gift-card-for-250-right-now.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-17 21:46:01+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Graphics card prices may be falling at last, but they still can&rsquo;t beat the value of gaming consoles. Especially not when you can get up to 1440p gaming at a stunningly low price, thanks to a deal on the Xbox Series S. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.target.com/p/xbox-series-s-8211-holiday-console/-/A-86908930&amp;xcust=2-2-1384352-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Right now at Target</a>, $250 gets you the console <em>and</em> a bonus $50 Target gift card.</p>
@@ -29,7 +28,6 @@ Gaming</div>
  - [https://www.pcworld.com/article/1383415/black-friday-best-buy-deals.html](https://www.pcworld.com/article/1383415/black-friday-best-buy-deals.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-17 19:44:06+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>As per modern tradition, Black Friday deals are already here, well before Thanksgiving. You don&rsquo;t have to wait to save money&mdash;in fact, if you do, you run the risk of missing out. Not everything will remain in stock, as Best Buy warns in its <a href="https://bestbuy.7tiv.net/c/321564/614286/10014?u=https://www.bestbuy.com/site/help-topics/best-buy-holiday-faqs/pcmcat748300621076.c?id=pcmcat748300621076&amp;subid1=2-2-1383415-1-0-0" rel="nofollow">Black Friday FAQ</a>.</p>
@@ -167,7 +165,6 @@ Black Friday</div>
  - [https://www.pcworld.com/article/1383613/this-eco-friendly-acer-laptop-is-only-600.html](https://www.pcworld.com/article/1383613/this-eco-friendly-acer-laptop-is-only-600.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-17 15:54:09+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If helping the environment is something that matters to you, we&rsquo;ve got a truly unique on tap for you today. Not only does the Acer Aspire Vero 14 laptop deliver zippy performance, but it&rsquo;s also made out of recycled materials. According to Acer, it consists of <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.acer.com/ee-en/laptops/aspire/aspire-vero&amp;xcust=2-1-1383613-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">30% post-consumer recycled materials</a>. Cool, right? <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.costco.com/acer-aspire-vero-14%22-intel-evo-platform-laptop---12th-gen-intel-core-i7-1255u---1080p---windows-11.product.4000056347.html&amp;xcust=2-1-1383613-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Costco&rsquo;s currently selling it for $599.99</a>, which saves you $300. The eco-friendly aspect is definitely a plus, but what&rsquo;s going on under the hood? Let&rsquo;s get into it.</p>
@@ -188,7 +185,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/407657/windscribe-vpn-review.html](https://www.pcworld.com/article/407657/windscribe-vpn-review.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-17 15:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><div class="review" id="review-body"><img alt="Editors' Choice" class="review-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" /><span class="review-title">At a Glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
@@ -322,7 +318,6 @@ Privacy, Security, Utilities</div>
  - [https://www.pcworld.com/article/1382980/early-black-friday-get-two-4k-camera-drones-for-just-130.html](https://www.pcworld.com/article/1382980/early-black-friday-get-two-4k-camera-drones-for-just-130.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-17 14:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Black Friday is a special time of year when you can save on all kinds of cool stuff, especially tech. But why wait until Black Friday? We&rsquo;re dropping Black Friday deals early throughout November, so every Friday feels like Black Friday.</p>
@@ -363,7 +358,6 @@ Drones</div>
  - [https://www.pcworld.com/article/1381758/dont-get-scammed-why-you-cant-trust-elon-musks-twitter-right-now.html](https://www.pcworld.com/article/1381758/dont-get-scammed-why-you-cant-trust-elon-musks-twitter-right-now.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-17 11:45:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you don&rsquo;t use Twitter often, you may be unaware of how the site has dissolved into organizational chaos. But it&rsquo;s a mess right now&mdash;and dangerous as a result.</p>
@@ -437,7 +431,6 @@ Internet, Social Networking Apps</div>
  - [https://www.pcworld.com/article/1377172/best-usb-c-monitors.html](https://www.pcworld.com/article/1377172/best-usb-c-monitors.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-17 11:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>USB-C is the one connection to rule them all&mdash;literally, in many cases<a href="https://www.pcworld.com/article/1341415/europe-sets-deadline-for-usb-c-charging-for-almost-all-laptops.html">, thanks to a recent law passed by the European Parliament</a>. Its popularity has made USB-C a common sight on new monitors. A USB-C monitor can easily connect with a wide range of devices, from laptops to smartphones; and some USB-C monitors can even charge a connected device while in use.</p>
@@ -792,7 +785,6 @@ Monitors</div>
  - [https://www.pcworld.com/article/1382740/qualcomm-dubs-nuvia-cpu-oryon-on-track-for-2023.html](https://www.pcworld.com/article/1382740/qualcomm-dubs-nuvia-cpu-oryon-on-track-for-2023.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-17 10:45:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Qualcomm subtly adjusted its marketing strategy for its PC compute business on Wednesday, naming its next-gen CPU &ldquo;Oryon&rdquo; and claiming that the company&rsquo;s goal was to &ldquo;bring the best of the smartphone to your laptop.&rdquo; Qualcomm didn&rsquo;t announce a new PC CPU chipset, however.</p>
@@ -856,7 +848,6 @@ CPUs and Processors</div>
  - [https://www.pcworld.com/article/1382959/get-an-early-black-friday-deal-on-this-top-rated-ad-blocking-vpn.html](https://www.pcworld.com/article/1382959/get-an-early-black-friday-deal-on-this-top-rated-ad-blocking-vpn.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-17 09:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Ads are everywhere these days. So if you want a cleaner browsing experience, you need a&nbsp;<a href="https://shop.pcworld.com/sales/adguard-vpn-1-yr-subscription?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=adguard-vpn-1-yr-subscription&amp;utm_term=scsf-557285&amp;utm_content=a0x1P000004yYqnQAE&amp;scsonar=1" rel="noreferrer noopener" target="_blank">quality ad blocker</a>, and AdGuard VPN goes above and beyond. During this Early Black Friday Sale, you can get a one-year AdGuard VPN subscription for just $20 while supplies last.</p>

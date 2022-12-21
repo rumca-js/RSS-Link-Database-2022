@@ -1,10 +1,9 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage
+# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
 
 ## Scrutiny – A WebUI for smartd S.M.A.R.T monitoring (written in Go)
  - [https://github.com/AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 22:18:56+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/AnalogJ/scrutiny">https://github.com/AnalogJ/scrutiny</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33587988">https://news.ycombinator.com/item?id=33587988</a></p>
@@ -15,7 +14,6 @@
  - [https://theankler.com/p/hwood-ftx-frenzy-as-michael-lewis](https://theankler.com/p/hwood-ftx-frenzy-as-michael-lewis)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 22:02:39+00:00
- - tags: None
 
 <p>Article URL: <a href="https://theankler.com/p/hwood-ftx-frenzy-as-michael-lewis">https://theankler.com/p/hwood-ftx-frenzy-as-michael-lewis</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33587846">https://news.ycombinator.com/item?id=33587846</a></p>
@@ -26,7 +24,6 @@
  - [https://nassimsoftware.com/convert-web-games-to-desktop](https://nassimsoftware.com/convert-web-games-to-desktop)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 21:26:27+00:00
- - tags: None
 
 <p>Article URL: <a href="https://nassimsoftware.com/convert-web-games-to-desktop">https://nassimsoftware.com/convert-web-games-to-desktop</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33587511">https://news.ycombinator.com/item?id=33587511</a></p>
@@ -37,7 +34,6 @@
  - [https://nav.al/rich](https://nav.al/rich)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 21:01:10+00:00
- - tags: None
 
 <p>Article URL: <a href="https://nav.al/rich">https://nav.al/rich</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33587298">https://news.ycombinator.com/item?id=33587298</a></p>
@@ -48,7 +44,6 @@
  - [https://major-grooves.medium.com/just-how-complicated-could-it-be-to-register-a-german-company-e5eb6e50db79](https://major-grooves.medium.com/just-how-complicated-could-it-be-to-register-a-german-company-e5eb6e50db79)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 19:37:26+00:00
- - tags: None
 
 <p>Article URL: <a href="https://major-grooves.medium.com/just-how-complicated-could-it-be-to-register-a-german-company-e5eb6e50db79">https://major-grooves.medium.com/just-how-complicated-could-it-be-to-register-a-german-company-e5eb6e50db79</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33586536">https://news.ycombinator.com/item?id=33586536</a></p>
@@ -59,7 +54,6 @@
  - [https://www.verywellmind.com/the-benefits-and-steps-of-box-breathing-4159900](https://www.verywellmind.com/the-benefits-and-steps-of-box-breathing-4159900)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 19:19:02+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.verywellmind.com/the-benefits-and-steps-of-box-breathing-4159900">https://www.verywellmind.com/the-benefits-and-steps-of-box-breathing-4159900</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33586383">https://news.ycombinator.com/item?id=33586383</a></p>
@@ -70,7 +64,6 @@
  - [https://unsharpen.com/darkest-pencil/](https://unsharpen.com/darkest-pencil/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 19:09:37+00:00
- - tags: None
 
 <p>Article URL: <a href="https://unsharpen.com/darkest-pencil/">https://unsharpen.com/darkest-pencil/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33586290">https://news.ycombinator.com/item?id=33586290</a></p>
@@ -81,7 +74,6 @@
  - [https://tvtropes.org/pmwiki/pmwiki.php/Main/Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Main/Tropes)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 18:53:40+00:00
- - tags: None
 
 <p>Article URL: <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/Tropes">https://tvtropes.org/pmwiki/pmwiki.php/Main/Tropes</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33586129">https://news.ycombinator.com/item?id=33586129</a></p>
@@ -92,7 +84,6 @@
  - [https://github.com/martpie/museeks](https://github.com/martpie/museeks)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 18:45:35+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/martpie/museeks">https://github.com/martpie/museeks</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33586041">https://news.ycombinator.com/item?id=33586041</a></p>
@@ -103,7 +94,6 @@
  - [https://abc7.com/larry-david-crypto-ftx-cryptocurrency/12446699/](https://abc7.com/larry-david-crypto-ftx-cryptocurrency/12446699/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 18:32:13+00:00
- - tags: None
 
 <p>Article URL: <a href="https://abc7.com/larry-david-crypto-ftx-cryptocurrency/12446699/">https://abc7.com/larry-david-crypto-ftx-cryptocurrency/12446699/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33585876">https://news.ycombinator.com/item?id=33585876</a></p>
@@ -114,7 +104,6 @@
  - [https://github.com/ninakali/chip_scavenger/blob/main/src/scavenge/008_tv/index.md](https://github.com/ninakali/chip_scavenger/blob/main/src/scavenge/008_tv/index.md)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 18:26:44+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/ninakali/chip_scavenger/blob/main/src/scavenge/008_tv/index.md">https://github.com/ninakali/chip_scavenger/blob/main/src/scavenge/008_tv/index.md</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33585817">https://news.ycombinator.com/item?id=33585817</a></p>
@@ -125,7 +114,6 @@
  - [https://thelead.uk/londons-forgotten-river-and-barrister-who-saved-it](https://thelead.uk/londons-forgotten-river-and-barrister-who-saved-it)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 18:22:12+00:00
- - tags: None
 
 <p>Article URL: <a href="https://thelead.uk/londons-forgotten-river-and-barrister-who-saved-it">https://thelead.uk/londons-forgotten-river-and-barrister-who-saved-it</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33585757">https://news.ycombinator.com/item?id=33585757</a></p>
@@ -136,7 +124,6 @@
  - [https://philosophybear.substack.com/p/language-models-are-nearly-agis-but](https://philosophybear.substack.com/p/language-models-are-nearly-agis-but)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 18:16:13+00:00
- - tags: None
 
 <p>Article URL: <a href="https://philosophybear.substack.com/p/language-models-are-nearly-agis-but">https://philosophybear.substack.com/p/language-models-are-nearly-agis-but</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33585693">https://news.ycombinator.com/item?id=33585693</a></p>
@@ -147,7 +134,6 @@
  - [https://www.righto.com/2022/11/the-unusual-bootstrap-drivers-inside.html](https://www.righto.com/2022/11/the-unusual-bootstrap-drivers-inside.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 18:14:13+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.righto.com/2022/11/the-unusual-bootstrap-drivers-inside.html">https://www.righto.com/2022/11/the-unusual-bootstrap-drivers-inside.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33585673">https://news.ycombinator.com/item?id=33585673</a></p>
@@ -158,7 +144,6 @@
  - [https://news.ycombinator.com/item?id=33585522](https://news.ycombinator.com/item?id=33585522)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 18:00:18+00:00
- - tags: None
 
 <p>I worked nonstop for the past 20 years in tech / design space, and wanted a break.  I also wanted to spend some time with family.<p>I'll take at least 6 months off.<p>But then I'd need to look for a job, but I really don't like the idea of going back to doing the same thing... i.e. web/app design/dev work for larger corporations.<p>So I'm open to doing something completely different, even if it pays 1/3rd.<p>Has anyone here made successful transition to field outside technology?<p>Any advice in general would be appreciated.</p>
 <hr />
@@ -181,7 +166,6 @@
  - [https://www.cs.mcgill.ca/~cs573/winter2001/AttLinux_syntax.htm](https://www.cs.mcgill.ca/~cs573/winter2001/AttLinux_syntax.htm)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 17:29:11+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.cs.mcgill.ca/~cs573/winter2001/AttLinux_syntax.htm">https://www.cs.mcgill.ca/~cs573/winter2001/AttLinux_syntax.htm</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33585154">https://news.ycombinator.com/item?id=33585154</a></p>
@@ -192,7 +176,6 @@
  - [https://www.fearofoblivion.com/build-a-modular-monolith-first](https://www.fearofoblivion.com/build-a-modular-monolith-first)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 17:23:54+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.fearofoblivion.com/build-a-modular-monolith-first">https://www.fearofoblivion.com/build-a-modular-monolith-first</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33585104">https://news.ycombinator.com/item?id=33585104</a></p>
@@ -203,7 +186,6 @@
  - [https://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html](https://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 17:22:27+00:00
- - tags: None
 
 <p>Article URL: <a href="https://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html">https://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33585097">https://news.ycombinator.com/item?id=33585097</a></p>
@@ -214,7 +196,6 @@
  - [https://github.com/ttscoff/nv](https://github.com/ttscoff/nv)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 17:17:29+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/ttscoff/nv">https://github.com/ttscoff/nv</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33585050">https://news.ycombinator.com/item?id=33585050</a></p>
@@ -225,7 +206,6 @@
  - [https://www.economist.com/business/2022/11/07/a-sleuths-guide-to-the-coming-wave-of-corporate-fraud](https://www.economist.com/business/2022/11/07/a-sleuths-guide-to-the-coming-wave-of-corporate-fraud)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 17:13:35+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.economist.com/business/2022/11/07/a-sleuths-guide-to-the-coming-wave-of-corporate-fraud">https://www.economist.com/business/2022/11/07/a-sleuths-guide-to-the-coming-wave-of-corporate-fraud</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33585009">https://news.ycombinator.com/item?id=33585009</a></p>
@@ -247,7 +227,6 @@
  - [https://www.historic-uk.com/HistoryUK/HistoryofBritain/Match-Girls-Strike/](https://www.historic-uk.com/HistoryUK/HistoryofBritain/Match-Girls-Strike/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 17:07:32+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.historic-uk.com/HistoryUK/HistoryofBritain/Match-Girls-Strike/">https://www.historic-uk.com/HistoryUK/HistoryofBritain/Match-Girls-Strike/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33584948">https://news.ycombinator.com/item?id=33584948</a></p>
@@ -269,7 +248,6 @@
  - [http://patterns.app/](http://patterns.app/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 17:01:00+00:00
- - tags: None
 
 <p>Article URL: <a href="http://patterns.app/">http://patterns.app/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33584883">https://news.ycombinator.com/item?id=33584883</a></p>
@@ -280,7 +258,6 @@
  - [https://www.fastcompany.com/90806146/solar-panel-waste-may-not-be-nearly-as-bad-as-we-once-thought](https://www.fastcompany.com/90806146/solar-panel-waste-may-not-be-nearly-as-bad-as-we-once-thought)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 16:48:19+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.fastcompany.com/90806146/solar-panel-waste-may-not-be-nearly-as-bad-as-we-once-thought">https://www.fastcompany.com/90806146/solar-panel-waste-may-not-be-nearly-as-bad-as-we-once-thought</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33584765">https://news.ycombinator.com/item?id=33584765</a></p>
@@ -291,7 +268,6 @@
  - [https://github.com/rui314/mold/releases/tag/v1.7.0](https://github.com/rui314/mold/releases/tag/v1.7.0)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 16:37:05+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/rui314/mold/releases/tag/v1.7.0">https://github.com/rui314/mold/releases/tag/v1.7.0</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33584651">https://news.ycombinator.com/item?id=33584651</a></p>
@@ -302,7 +278,6 @@
  - [https://awealthofcommonsense.com/2022/11/sam-bankman-fried-vs-the-match-king/](https://awealthofcommonsense.com/2022/11/sam-bankman-fried-vs-the-match-king/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 16:16:53+00:00
- - tags: None
 
 <p>Article URL: <a href="https://awealthofcommonsense.com/2022/11/sam-bankman-fried-vs-the-match-king/">https://awealthofcommonsense.com/2022/11/sam-bankman-fried-vs-the-match-king/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33584407">https://news.ycombinator.com/item?id=33584407</a></p>
@@ -313,7 +288,6 @@
  - [https://communityrule.info/](https://communityrule.info/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 16:12:56+00:00
- - tags: None
 
 <p>Article URL: <a href="https://communityrule.info/">https://communityrule.info/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33584360">https://news.ycombinator.com/item?id=33584360</a></p>
@@ -324,7 +298,6 @@
  - [https://luna-demo.vercel.app](https://luna-demo.vercel.app)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 16:11:10+00:00
- - tags: None
 
 <p>Hello, I'm building a WebAssembly compiler and documenting the process in the meantime. 
 This aims to be a tool for demonstration and education purpose. It doesn't aim to do fancy stuff nor to replace existing ones.
@@ -338,7 +311,6 @@ I'm building this to learn and to improve and hopefully it can be useful for oth
  - [https://twitter.com/adamscochran/status/1591653327770906624](https://twitter.com/adamscochran/status/1591653327770906624)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 16:04:34+00:00
- - tags: None
 
 <p>Article URL: <a href="https://twitter.com/adamscochran/status/1591653327770906624">https://twitter.com/adamscochran/status/1591653327770906624</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33584257">https://news.ycombinator.com/item?id=33584257</a></p>
@@ -349,7 +321,6 @@ I'm building this to learn and to improve and hopefully it can be useful for oth
  - [https://www.nature.com/articles/s41562-022-01453-0](https://www.nature.com/articles/s41562-022-01453-0)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 15:31:07+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.nature.com/articles/s41562-022-01453-0">https://www.nature.com/articles/s41562-022-01453-0</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33583906">https://news.ycombinator.com/item?id=33583906</a></p>
@@ -360,7 +331,6 @@ I'm building this to learn and to improve and hopefully it can be useful for oth
  - [https://www.potaroo.net/ispcol/2022-11/optics.html](https://www.potaroo.net/ispcol/2022-11/optics.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 15:28:18+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.potaroo.net/ispcol/2022-11/optics.html">https://www.potaroo.net/ispcol/2022-11/optics.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33583877">https://news.ycombinator.com/item?id=33583877</a></p>
@@ -371,7 +341,6 @@ I'm building this to learn and to improve and hopefully it can be useful for oth
  - [https://twitter.com/suhail/status/1591813110230568963](https://twitter.com/suhail/status/1591813110230568963)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 15:23:21+00:00
- - tags: None
 
 <p>Article URL: <a href="https://twitter.com/suhail/status/1591813110230568963">https://twitter.com/suhail/status/1591813110230568963</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33583830">https://news.ycombinator.com/item?id=33583830</a></p>
@@ -382,7 +351,6 @@ I'm building this to learn and to improve and hopefully it can be useful for oth
  - [https://scalibq.wordpress.com/2022/09/16/area-5150-a-reflection/](https://scalibq.wordpress.com/2022/09/16/area-5150-a-reflection/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 15:15:37+00:00
- - tags: None
 
 <p>Article URL: <a href="https://scalibq.wordpress.com/2022/09/16/area-5150-a-reflection/">https://scalibq.wordpress.com/2022/09/16/area-5150-a-reflection/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33583748">https://news.ycombinator.com/item?id=33583748</a></p>
@@ -393,7 +361,6 @@ I'm building this to learn and to improve and hopefully it can be useful for oth
  - [https://blog.ehoneahobed.com/building-a-simple-shell-in-c-part-3](https://blog.ehoneahobed.com/building-a-simple-shell-in-c-part-3)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 14:49:54+00:00
- - tags: None
 
 <p>Article URL: <a href="https://blog.ehoneahobed.com/building-a-simple-shell-in-c-part-3">https://blog.ehoneahobed.com/building-a-simple-shell-in-c-part-3</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33583537">https://news.ycombinator.com/item?id=33583537</a></p>
@@ -404,7 +371,6 @@ I'm building this to learn and to improve and hopefully it can be useful for oth
  - [https://github.com/rust-lang/datafrog](https://github.com/rust-lang/datafrog)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 14:46:37+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/rust-lang/datafrog">https://github.com/rust-lang/datafrog</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33583508">https://news.ycombinator.com/item?id=33583508</a></p>
@@ -415,7 +381,6 @@ I'm building this to learn and to improve and hopefully it can be useful for oth
  - [https://ryanbigg.com/2022/11/a-replacement-for-strong-parameters](https://ryanbigg.com/2022/11/a-replacement-for-strong-parameters)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 14:38:34+00:00
- - tags: None
 
 <p>Article URL: <a href="https://ryanbigg.com/2022/11/a-replacement-for-strong-parameters">https://ryanbigg.com/2022/11/a-replacement-for-strong-parameters</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33583442">https://news.ycombinator.com/item?id=33583442</a></p>
@@ -426,7 +391,6 @@ I'm building this to learn and to improve and hopefully it can be useful for oth
  - [https://www.scientificamerican.com/article/people-have-been-having-less-sex-whether-theyre-teenagers-or-40-somethings/](https://www.scientificamerican.com/article/people-have-been-having-less-sex-whether-theyre-teenagers-or-40-somethings/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 14:33:01+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.scientificamerican.com/article/people-have-been-having-less-sex-whether-theyre-teenagers-or-40-somethings/">https://www.scientificamerican.com/article/people-have-been-having-less-sex-whether-theyre-teenagers-or-40-somethings/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33583408">https://news.ycombinator.com/item?id=33583408</a></p>
@@ -437,7 +401,6 @@ I'm building this to learn and to improve and hopefully it can be useful for oth
  - [https://kimmo.blog/posts/7-building-eink-weather-display-for-our-home/](https://kimmo.blog/posts/7-building-eink-weather-display-for-our-home/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 14:22:50+00:00
- - tags: None
 
 <p>Article URL: <a href="https://kimmo.blog/posts/7-building-eink-weather-display-for-our-home/">https://kimmo.blog/posts/7-building-eink-weather-display-for-our-home/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33583326">https://news.ycombinator.com/item?id=33583326</a></p>
@@ -448,7 +411,6 @@ I'm building this to learn and to improve and hopefully it can be useful for oth
  - [https://sciencebasedlife.wordpress.com/2012/11/01/the-kopp-etchells-effect/](https://sciencebasedlife.wordpress.com/2012/11/01/the-kopp-etchells-effect/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 13:58:57+00:00
- - tags: None
 
 <p>Article URL: <a href="https://sciencebasedlife.wordpress.com/2012/11/01/the-kopp-etchells-effect/">https://sciencebasedlife.wordpress.com/2012/11/01/the-kopp-etchells-effect/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33583119">https://news.ycombinator.com/item?id=33583119</a></p>
@@ -459,7 +421,6 @@ I'm building this to learn and to improve and hopefully it can be useful for oth
  - [https://www.youtube.com/watch?v=jnxqHcObNK4](https://www.youtube.com/watch?v=jnxqHcObNK4)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 13:58:33+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.youtube.com/watch?v=jnxqHcObNK4">https://www.youtube.com/watch?v=jnxqHcObNK4</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33583114">https://news.ycombinator.com/item?id=33583114</a></p>
@@ -470,7 +431,6 @@ I'm building this to learn and to improve and hopefully it can be useful for oth
  - [https://www.nature.com/articles/s42255-022-00672-z](https://www.nature.com/articles/s42255-022-00672-z)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 13:57:05+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.nature.com/articles/s42255-022-00672-z">https://www.nature.com/articles/s42255-022-00672-z</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33583097">https://news.ycombinator.com/item?id=33583097</a></p>
@@ -481,7 +441,6 @@ I'm building this to learn and to improve and hopefully it can be useful for oth
  - [https://news.ycombinator.com/item?id=33582687](https://news.ycombinator.com/item?id=33582687)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 13:07:21+00:00
- - tags: None
 
 <p>Hi HN, since my kid was born (almost 16 months ago) I haven't had much time to learn new things, which is something I have always enjoyed.
 Similarly to many people, I learn a lot by doing some kind of project (big or small). But since my time is rather constrained, it would like to do some "scratch my itch" kind of project, something that may be useful enough to keep using it.<p>I though of asking you, people at HN, what kind of "scratch your own itch" projects have you done or are doing?<p>I'd like to do something computer related (to learn some Golang), but I'm curious about non-computer projects as well.</p>
@@ -494,7 +453,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [http://backreaction.blogspot.com/2022/11/why-are-male-testosterone-levels-falling.html](http://backreaction.blogspot.com/2022/11/why-are-male-testosterone-levels-falling.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 12:44:39+00:00
- - tags: None
 
 <p>Article URL: <a href="http://backreaction.blogspot.com/2022/11/why-are-male-testosterone-levels-falling.html">http://backreaction.blogspot.com/2022/11/why-are-male-testosterone-levels-falling.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33582534">https://news.ycombinator.com/item?id=33582534</a></p>
@@ -505,7 +463,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://upbase.io/](https://upbase.io/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 12:00:06+00:00
- - tags: None
 
 <p>Hey HN,<p>Over the past two years, I've been building Upbase, an all-in-one PM tool.<p>I've tried so many project management tools over the years (Trello, Asana, ClickUp, Teamwork, Wrike, Monday, etc.) but they've all fallen short. Most of them are overly complicated and painful to use. Some others, like Trello, are too limited for my needs.<p>Most importantly, most of these tools tend to be focused on team collaboration and completely ignore personal productivity.<p>They are useful for organizing my work, but not great at helping me stay focused to get things done.<p>That's why I decided to build Upbase.<p>I try to make it clean and simple, without all the bells and whistles. Apart from team collaboration, I added many personal productivity features, including Weekly/Daily planner, Time blocking, Pomodoro Timer, Daily Journal, etc. so I don't need another to-do list app.<p>Now I can use Upbase to collaborate with my team AND manage your personal stuff at the same time, without all the bloat.<p>If these resonate with you, then give Upbase a try. It has a Free Forever plan though.<p>Let me know if you have any feedback or questions!</p>
 <hr />
@@ -517,7 +474,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://news.ycombinator.com/item?id=33582002](https://news.ycombinator.com/item?id=33582002)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 11:16:22+00:00
- - tags: None
 
 <p>Hi HN,<p>It's still possible to apply to W23 batch and we got loads of Qs about 'which stage is the best'.<p>'The best for your company', it always depends, but 'The best to get in': we know for sure you don't need a product.<p>All we had when we got accepted was a Figma prototype, showing what we <i>would</i> build, and a waiting list.<p>Waiting lists don't mean anything, but it showed we had hustled to get the first 1000+ signups.<p>Here is what our application looked like https://www.getlago.com/blog/how-we-got-into-yc<p>If you have any question or think we could help you decide to apply or prep for interviews, feel free to ping me on Twitter @ByAnhTho.</p>
 <hr />
@@ -529,7 +485,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://www.chainguard.dev/unchained/software-dark-matter-is-the-enemy-of-software-transparency](https://www.chainguard.dev/unchained/software-dark-matter-is-the-enemy-of-software-transparency)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 11:13:46+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.chainguard.dev/unchained/software-dark-matter-is-the-enemy-of-software-transparency">https://www.chainguard.dev/unchained/software-dark-matter-is-the-enemy-of-software-transparency</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33581983">https://news.ycombinator.com/item?id=33581983</a></p>
@@ -540,7 +495,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://karimjedda.com/carefully-exploring-rust/](https://karimjedda.com/carefully-exploring-rust/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 10:58:25+00:00
- - tags: None
 
 <p>Article URL: <a href="https://karimjedda.com/carefully-exploring-rust/">https://karimjedda.com/carefully-exploring-rust/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33581901">https://news.ycombinator.com/item?id=33581901</a></p>
@@ -551,7 +505,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://www.bostonreview.net/articles/the-case-for-abolishing-elections/](https://www.bostonreview.net/articles/the-case-for-abolishing-elections/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 10:56:12+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.bostonreview.net/articles/the-case-for-abolishing-elections/">https://www.bostonreview.net/articles/the-case-for-abolishing-elections/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33581883">https://news.ycombinator.com/item?id=33581883</a></p>
@@ -562,7 +515,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://viewsourcecode.org/snaptoken/kilo/](https://viewsourcecode.org/snaptoken/kilo/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 10:52:46+00:00
- - tags: None
 
 <p>Article URL: <a href="https://viewsourcecode.org/snaptoken/kilo/">https://viewsourcecode.org/snaptoken/kilo/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33581856">https://news.ycombinator.com/item?id=33581856</a></p>
@@ -573,7 +525,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://www.washingtonpost.com/technology/2022/11/12/tech-facebook-twitter-layoffs-dotcom/](https://www.washingtonpost.com/technology/2022/11/12/tech-facebook-twitter-layoffs-dotcom/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 10:46:33+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.washingtonpost.com/technology/2022/11/12/tech-facebook-twitter-layoffs-dotcom/">https://www.washingtonpost.com/technology/2022/11/12/tech-facebook-twitter-layoffs-dotcom/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33581828">https://news.ycombinator.com/item?id=33581828</a></p>
@@ -584,7 +535,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://www.tomoliver.net/posts/using-an-slr-as-a-webcam-nixos](https://www.tomoliver.net/posts/using-an-slr-as-a-webcam-nixos)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 10:18:23+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.tomoliver.net/posts/using-an-slr-as-a-webcam-nixos">https://www.tomoliver.net/posts/using-an-slr-as-a-webcam-nixos</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33581708">https://news.ycombinator.com/item?id=33581708</a></p>
@@ -595,7 +545,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://github.com/rui314/chibicc](https://github.com/rui314/chibicc)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 10:17:05+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/rui314/chibicc">https://github.com/rui314/chibicc</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33581704">https://news.ycombinator.com/item?id=33581704</a></p>
@@ -606,7 +555,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://forum.krakenrf.com/t/where-has-the-passive-radar-code-gone/98](https://forum.krakenrf.com/t/where-has-the-passive-radar-code-gone/98)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 10:15:26+00:00
- - tags: None
 
 <p>Article URL: <a href="https://forum.krakenrf.com/t/where-has-the-passive-radar-code-gone/98">https://forum.krakenrf.com/t/where-has-the-passive-radar-code-gone/98</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33581696">https://news.ycombinator.com/item?id=33581696</a></p>
@@ -617,7 +565,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://scottaaronson.blog/?p=6797](https://scottaaronson.blog/?p=6797)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 09:17:17+00:00
- - tags: None
 
 <p>Article URL: <a href="https://scottaaronson.blog/?p=6797">https://scottaaronson.blog/?p=6797</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33581405">https://news.ycombinator.com/item?id=33581405</a></p>
@@ -628,7 +575,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://news.ycombinator.com/item?id=33581371](https://news.ycombinator.com/item?id=33581371)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 09:09:54+00:00
- - tags: None
 
 <p>My phone screen is broken, so I use Siri a lot lately. I was listening to a song on Spotify, and asked Siri to "Send this song to Alice". Everything seemed to go fine until later, I saw the link was Apple Music, not Spotify.<p>Alice likely never listened to it because we only ever share Spotify links.<p>Also what is happening behind the scenes to give Apple the song from Spotify? Are they just accessing current song on Spotify? What if they don't have it on Apple Music? Or are they running pattern recognition on the audio output to determine song?</p>
 <hr />
@@ -640,7 +586,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://github.com/Zeal-Operating-System/ZealOS](https://github.com/Zeal-Operating-System/ZealOS)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 09:01:39+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/Zeal-Operating-System/ZealOS">https://github.com/Zeal-Operating-System/ZealOS</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33581333">https://news.ycombinator.com/item?id=33581333</a></p>
@@ -651,7 +596,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://www.ft.com/content/76e8b499-2381-463d-ac6d-9d3507f150c3](https://www.ft.com/content/76e8b499-2381-463d-ac6d-9d3507f150c3)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 08:52:21+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.ft.com/content/76e8b499-2381-463d-ac6d-9d3507f150c3">https://www.ft.com/content/76e8b499-2381-463d-ac6d-9d3507f150c3</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33581290">https://news.ycombinator.com/item?id=33581290</a></p>
@@ -662,7 +606,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://pulsebrowser.app/](https://pulsebrowser.app/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 06:24:25+00:00
- - tags: None
 
 <p>Article URL: <a href="https://pulsebrowser.app/">https://pulsebrowser.app/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33580596">https://news.ycombinator.com/item?id=33580596</a></p>
@@ -673,7 +616,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://www.researchgate.net/publication/364811408_How_to_Hack_the_Simulation](https://www.researchgate.net/publication/364811408_How_to_Hack_the_Simulation)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 05:31:01+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.researchgate.net/publication/364811408_How_to_Hack_the_Simulation">https://www.researchgate.net/publication/364811408_How_to_Hack_the_Simulation</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33580366">https://news.ycombinator.com/item?id=33580366</a></p>
@@ -684,7 +626,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://pickard.cc/posts/why-does-zsh-start-slowly/](https://pickard.cc/posts/why-does-zsh-start-slowly/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 05:28:30+00:00
- - tags: None
 
 <p>Article URL: <a href="https://pickard.cc/posts/why-does-zsh-start-slowly/">https://pickard.cc/posts/why-does-zsh-start-slowly/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33580350">https://news.ycombinator.com/item?id=33580350</a></p>
@@ -695,7 +636,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://johnhw.github.io/umap_primes/index.md.html](https://johnhw.github.io/umap_primes/index.md.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 04:39:25+00:00
- - tags: None
 
 <p>Article URL: <a href="https://johnhw.github.io/umap_primes/index.md.html">https://johnhw.github.io/umap_primes/index.md.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33580136">https://news.ycombinator.com/item?id=33580136</a></p>
@@ -706,7 +646,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://observablehq.com/@toja/euclidean-rhythms](https://observablehq.com/@toja/euclidean-rhythms)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 04:31:12+00:00
- - tags: None
 
 <p>Article URL: <a href="https://observablehq.com/@toja/euclidean-rhythms">https://observablehq.com/@toja/euclidean-rhythms</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33580074">https://news.ycombinator.com/item?id=33580074</a></p>
@@ -717,7 +656,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://tosdr.org/en/frontpage](https://tosdr.org/en/frontpage)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 04:30:04+00:00
- - tags: None
 
 <p>Article URL: <a href="https://tosdr.org/en/frontpage">https://tosdr.org/en/frontpage</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33580068">https://news.ycombinator.com/item?id=33580068</a></p>
@@ -728,7 +666,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://vorpus.org/blog/why-does-calloc-exist/](https://vorpus.org/blog/why-does-calloc-exist/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 03:58:30+00:00
- - tags: None
 
 <p>Article URL: <a href="https://vorpus.org/blog/why-does-calloc-exist/">https://vorpus.org/blog/why-does-calloc-exist/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33579884">https://news.ycombinator.com/item?id=33579884</a></p>
@@ -739,7 +676,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://a16zcrypto.com](https://a16zcrypto.com)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 03:46:18+00:00
- - tags: None
 
 <p>Article URL: <a href="https://a16zcrypto.com">https://a16zcrypto.com</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33579808">https://news.ycombinator.com/item?id=33579808</a></p>
@@ -750,7 +686,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://github.com/garu2/Skills-CSS](https://github.com/garu2/Skills-CSS)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 03:37:20+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/garu2/Skills-CSS">https://github.com/garu2/Skills-CSS</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33579759">https://news.ycombinator.com/item?id=33579759</a></p>
@@ -761,7 +696,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://web.archive.org/web/20001003150639/http://www.patersontech.com/Dos/Byte/InsideDos.htm](https://web.archive.org/web/20001003150639/http://www.patersontech.com/Dos/Byte/InsideDos.htm)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 03:28:30+00:00
- - tags: None
 
 <p>Article URL: <a href="https://web.archive.org/web/20001003150639/http://www.patersontech.com/Dos/Byte/InsideDos.htm">https://web.archive.org/web/20001003150639/http://www.patersontech.com/Dos/Byte/InsideDos.htm</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33579703">https://news.ycombinator.com/item?id=33579703</a></p>
@@ -772,7 +706,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://patersontech.com/Dos/Byte/InsideDos.htm](https://patersontech.com/Dos/Byte/InsideDos.htm)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 03:28:30+00:00
- - tags: None
 
 <p>Article URL: <a href="https://patersontech.com/Dos/Byte/InsideDos.htm">https://patersontech.com/Dos/Byte/InsideDos.htm</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33579703">https://news.ycombinator.com/item?id=33579703</a></p>
@@ -783,7 +716,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://fed-up.fly.dev/](https://fed-up.fly.dev/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 03:14:29+00:00
- - tags: None
 
 <p>Elixir/Phoenix LiveView<p>Concept shamelessly stolen from Cookie Clicker.</p>
 <hr />
@@ -795,7 +727,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://www.bbc.com/news/world-europe-63612017](https://www.bbc.com/news/world-europe-63612017)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 03:13:36+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.bbc.com/news/world-europe-63612017">https://www.bbc.com/news/world-europe-63612017</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33579599">https://news.ycombinator.com/item?id=33579599</a></p>
@@ -806,7 +737,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://twitter.com/philbak1/status/1591409852957732864](https://twitter.com/philbak1/status/1591409852957732864)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 02:35:17+00:00
- - tags: None
 
 <p>Article URL: <a href="https://twitter.com/philbak1/status/1591409852957732864">https://twitter.com/philbak1/status/1591409852957732864</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33579374">https://news.ycombinator.com/item?id=33579374</a></p>
@@ -817,7 +747,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/](https://arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 02:33:47+00:00
- - tags: None
 
 <p>Article URL: <a href="https://arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/">https://arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33579365">https://news.ycombinator.com/item?id=33579365</a></p>
@@ -828,7 +757,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://www.ctrl.blog/entry/jellyfin-vs-plex.html](https://www.ctrl.blog/entry/jellyfin-vs-plex.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 02:02:09+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.ctrl.blog/entry/jellyfin-vs-plex.html">https://www.ctrl.blog/entry/jellyfin-vs-plex.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33579209">https://news.ycombinator.com/item?id=33579209</a></p>
@@ -839,7 +767,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://www.tindie.com/products/hcxqsgroup/nanorfe-vna6000/](https://www.tindie.com/products/hcxqsgroup/nanorfe-vna6000/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 01:55:15+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.tindie.com/products/hcxqsgroup/nanorfe-vna6000/">https://www.tindie.com/products/hcxqsgroup/nanorfe-vna6000/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33579170">https://news.ycombinator.com/item?id=33579170</a></p>
@@ -850,7 +777,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://cointelegraph.com/news/sam-bankman-fried-is-under-supervision-in-bahamas-looking-to-flee-to-dubai](https://cointelegraph.com/news/sam-bankman-fried-is-under-supervision-in-bahamas-looking-to-flee-to-dubai)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 00:52:11+00:00
- - tags: None
 
 <p>Article URL: <a href="https://cointelegraph.com/news/sam-bankman-fried-is-under-supervision-in-bahamas-looking-to-flee-to-dubai">https://cointelegraph.com/news/sam-bankman-fried-is-under-supervision-in-bahamas-looking-to-flee-to-dubai</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33578833">https://news.ycombinator.com/item?id=33578833</a></p>
@@ -861,7 +787,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://www.sysselmesteren.no/contentassets/56050909aa744d6a8219111ff62988f6/engelsk--informasjon-til-utenlandske-statsborgere-engelsk.pdf](https://www.sysselmesteren.no/contentassets/56050909aa744d6a8219111ff62988f6/engelsk--informasjon-til-utenlandske-statsborgere-engelsk.pdf)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 00:38:23+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.sysselmesteren.no/contentassets/56050909aa744d6a8219111ff62988f6/engelsk--informasjon-til-utenlandske-statsborgere-engelsk.pdf">https://www.sysselmesteren.no/contentassets/56050909aa744d6a8219111ff62988f6/engelsk--informasjon-til-utenlandske-statsborgere-engelsk.pdf</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33578759">https://news.ycombinator.com/item?id=33578759</a></p>
@@ -872,7 +797,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://www.cnbc.com/2022/11/12/1-billion-to-2-billion-of-ftx-customer-funds-missing-report.html](https://www.cnbc.com/2022/11/12/1-billion-to-2-billion-of-ftx-customer-funds-missing-report.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 00:19:03+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.cnbc.com/2022/11/12/1-billion-to-2-billion-of-ftx-customer-funds-missing-report.html">https://www.cnbc.com/2022/11/12/1-billion-to-2-billion-of-ftx-customer-funds-missing-report.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33578633">https://news.ycombinator.com/item?id=33578633</a></p>
@@ -883,7 +807,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://forums.atariage.com/topic/339819-upcoming-book-on-atari-2600-programming-now-available/](https://forums.atariage.com/topic/339819-upcoming-book-on-atari-2600-programming-now-available/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 00:18:49+00:00
- - tags: None
 
 <p>Article URL: <a href="https://forums.atariage.com/topic/339819-upcoming-book-on-atari-2600-programming-now-available/">https://forums.atariage.com/topic/339819-upcoming-book-on-atari-2600-programming-now-available/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33578630">https://news.ycombinator.com/item?id=33578630</a></p>
@@ -894,7 +817,6 @@ Similarly to many people, I learn a lot by doing some kind of project (big or sm
  - [https://blog.acolyer.org/2020/11/16/pigasus/](https://blog.acolyer.org/2020/11/16/pigasus/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-13 00:06:10+00:00
- - tags: None
 
 <p>Article URL: <a href="https://blog.acolyer.org/2020/11/16/pigasus/">https://blog.acolyer.org/2020/11/16/pigasus/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33578550">https://news.ycombinator.com/item?id=33578550</a></p>

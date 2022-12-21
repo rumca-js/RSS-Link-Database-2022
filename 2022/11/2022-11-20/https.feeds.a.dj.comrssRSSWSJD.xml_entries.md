@@ -1,10 +1,9 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml
+# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
 
 ## Elon Musk's Downscaled Twitter Faces Soccer World Cup Test
  - [https://www.wsj.com/articles/elon-musks-downscaled-twitter-faces-soccer-world-cup-test-11668952945?mod=rss_Technology](https://www.wsj.com/articles/elon-musks-downscaled-twitter-faces-soccer-world-cup-test-11668952945?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-20 16:29:00+00:00
- - tags: None
 
 Employees have been working for weeks to prepare for the sporting extravaganza, a Twitter executive says.
 
@@ -12,7 +11,6 @@ Employees have been working for weeks to prepare for the sporting extravaganza, 
  - [https://www.wsj.com/articles/track-your-ovulation-on-a-wearable-apple-watch-vs-oura-ring-11668931157?mod=rss_Technology](https://www.wsj.com/articles/track-your-ovulation-on-a-wearable-apple-watch-vs-oura-ring-11668931157?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-20 15:00:00+00:00
- - tags: None
 
 The latest wearable-tech trend involves skin-temperature sensors and can help you get pregnant—or prevent it.
 
@@ -20,7 +18,6 @@ The latest wearable-tech trend involves skin-temperature sensors and can help yo
  - [https://www.wsj.com/articles/crypto-bank-silvergate-battles-ftx-contagion-fears-11668910608?mod=rss_Technology](https://www.wsj.com/articles/crypto-bank-silvergate-battles-ftx-contagion-fears-11668910608?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-20 10:30:00+00:00
- - tags: None
 
 The bank’s shares have plummeted even as Silvergate takes steps to reassure investors of its stability amid FTX’s collapse.
 
@@ -28,6 +25,5 @@ The bank’s shares have plummeted even as Silvergate takes steps to reassure in
  - [https://www.wsj.com/articles/elon-musk-says-twitter-would-reinstate-donald-trumps-account-after-online-poll-11668906083?mod=rss_Technology](https://www.wsj.com/articles/elon-musk-says-twitter-would-reinstate-donald-trumps-account-after-online-poll-11668906083?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-20 01:54:00+00:00
- - tags: None
 
 The move would broaden the former president’s potential reach days after he declared another run for the White House.

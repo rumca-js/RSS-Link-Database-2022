@@ -1,10 +1,9 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml
+# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
 
 ## Eurowizja 2023: Wprowadzono zmiany w głosowaniu
  - [https://www.polsatnews.pl/wiadomosc/2022-11-22/eurowizja-2023-wprowadzono-zmiany-w-glosowaniu/](https://www.polsatnews.pl/wiadomosc/2022-11-22/eurowizja-2023-wprowadzono-zmiany-w-glosowaniu/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-22 20:20:00+00:00
- - tags: None
 
 Ogłoszono poważne zmiany w procesie głosowania podczas przyszłorocznego Konkursu Piosenki Eurowizji - powiadomiło BBC. Od 2023 roku większy wpływ na wyniki konkursu będzie miała widownia. Nowością będzie także to, że głos będą mogli oddać widzowie z krajów, które nie biorą udziału w Eurowizji.
 
@@ -12,7 +11,6 @@ Ogłoszono poważne zmiany w procesie głosowania podczas przyszłorocznego Konk
  - [https://www.polsatnews.pl/wiadomosc/2022-11-22/cristiano-ronaldo-rozwiazal-kontrakt-z-manchesterem-united/](https://www.polsatnews.pl/wiadomosc/2022-11-22/cristiano-ronaldo-rozwiazal-kontrakt-z-manchesterem-united/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-22 20:09:00+00:00
- - tags: None
 
 Cristiano Ronaldo ma opuścić Manchester United za obopólną zgodą, ze skutkiem natychmiastowym - poinformował klub w specjalnym komunikacie.
 
@@ -20,7 +18,6 @@ Cristiano Ronaldo ma opuścić Manchester United za obopólną zgodą, ze skutki
  - [https://www.polsatnews.pl/wiadomosc/2022-11-22/rosja-pulkownik-probowal-wyludzic-lapowke-chcial-pralke-za-piec-tysiecy-zlotych/](https://www.polsatnews.pl/wiadomosc/2022-11-22/rosja-pulkownik-probowal-wyludzic-lapowke-chcial-pralke-za-piec-tysiecy-zlotych/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-22 19:15:00+00:00
- - tags: None
 
 Pralkę o wartości pięciu tysięcy złotych w zamian za spokój i pozytywny wynik kontroli zaproponował rosyjski pułkownik wojskowemu pracującemu w komendzie uzupełnień. Ostatecznie sprzęt dostał, a zaraz po tym go zatrzymano. Dwa miesiące spędzi w areszcie domowym.
 
@@ -28,7 +25,6 @@ Pralkę o wartości pięciu tysięcy złotych w zamian za spokój i pozytywny wy
  - [https://www.polsatnews.pl/wiadomosc/2022-11-22/watykan-dymisja-w-caritas-papiez-franciszek-wskazal-nastepce/](https://www.polsatnews.pl/wiadomosc/2022-11-22/watykan-dymisja-w-caritas-papiez-franciszek-wskazal-nastepce/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-22 17:33:00+00:00
- - tags: None
 
 Papież Franciszek mianował nadzwyczajnego komisarza Caritas Internationalis, wszystkich federacji krajowych organizacji Caritas. Zgodnie z dekretem papieskim, zdymisjonowany został kardynał Luis Antonio Tagle z Filipin. Zmiany w organizacji wynikają z wyników prowadzonego postępowania.
 
@@ -36,7 +32,6 @@ Papież Franciszek mianował nadzwyczajnego komisarza Caritas Internationalis, w
  - [https://www.polsatnews.pl/wiadomosc/2022-11-22/niemcy-ksiadz-mial-molestowac-kobiety-w-domu-starosci/](https://www.polsatnews.pl/wiadomosc/2022-11-22/niemcy-ksiadz-mial-molestowac-kobiety-w-domu-starosci/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-22 17:10:00+00:00
- - tags: None
 
 Miał molestować seksualnie kobiety, w tym również te w domu starości - to zarzuty postawione nieżyjącemu już niemieckiemu księdzu. Do nadużyć miało dochodzić w Bawarii. Wcześniej ujawniono, że w latach 60. przeniesiono go do Afryki z powodu podobnych czynów.
 
@@ -44,7 +39,6 @@ Miał molestować seksualnie kobiety, w tym również te w domu starości - to z
  - [https://www.polsatnews.pl/wiadomosc/2022-11-22/obojetnosc-i-apatia-rosjanie-sa-zmeczeni-wojna-w-ukrainie/](https://www.polsatnews.pl/wiadomosc/2022-11-22/obojetnosc-i-apatia-rosjanie-sa-zmeczeni-wojna-w-ukrainie/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-22 16:56:00+00:00
- - tags: None
 
 Rosjanie są zmęczeni wojną w Ukrainie i odczuwają apatię - wynika z ankiety przeprowadzonej na zlecenie Kremla, o czym we wtorek informuje niezależny rosyjski portal Meduza. Jak przekazano, coraz więcej osób w Rosji zaczyna się zastanawiać, jakie są cele wojny.
 
@@ -52,7 +46,6 @@ Rosjanie są zmęczeni wojną w Ukrainie i odczuwają apatię - wynika z ankiety
  - [https://www.polsatnews.pl/wiadomosc/2022-11-22/wielka-brytania-zlowil-ogromna-zlota-rybke-to-moze-byc-rekord/](https://www.polsatnews.pl/wiadomosc/2022-11-22/wielka-brytania-zlowil-ogromna-zlota-rybke-to-moze-byc-rekord/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-22 16:20:00+00:00
- - tags: None
 
 Brytyjczyk spełnił marzenia większości wędkarzy na całym świecie. 42-latek złowił ogromną złotą rybkę. Okaz upolowany we Francji ważył ponad 30 kilogramów.
 
@@ -60,7 +53,6 @@ Brytyjczyk spełnił marzenia większości wędkarzy na całym świecie. 42-late
  - [https://www.polsatnews.pl/wiadomosc/2022-11-22/katar-roger-pearce-nie-zyje-po-mundialu-mial-przejsc-na-emeryture/](https://www.polsatnews.pl/wiadomosc/2022-11-22/katar-roger-pearce-nie-zyje-po-mundialu-mial-przejsc-na-emeryture/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-22 14:58:00+00:00
- - tags: None
 
 Roger Pearce, dyrektor techniczny brytyjskiej stacji telewizyjnej ITV Sport zmarł w Katarze podczas Mistrzostw Świata w Piłce Nożnej - powiadomiła stacja. Jak przekazano, 65-latek po mundialu miał przejść na emeryturę.
 
@@ -68,7 +60,6 @@ Roger Pearce, dyrektor techniczny brytyjskiej stacji telewizyjnej ITV Sport zmar
  - [https://www.polsatnews.pl/wiadomosc/2022-11-22/wegry-skandal-z-udzialem-viktora-orbana-msz-ukrainy-reaguje/](https://www.polsatnews.pl/wiadomosc/2022-11-22/wegry-skandal-z-udzialem-viktora-orbana-msz-ukrainy-reaguje/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-22 14:04:00+00:00
- - tags: None
 
 Premier Viktor Orban podczas oglądania towarzyskiego meczu Węgier z Grecją w Budapeszcie miał na sobie szalki przedstawiający mapę Królestwa Węgier. W jego skład wchodziły sąsiednie państwa, w tym Ukraina. W odpowiedzi MSZ Ukrainy wezwało węgierskiego ambasadora i zażądało przeprosin.
 
@@ -76,7 +67,6 @@ Premier Viktor Orban podczas oglądania towarzyskiego meczu Węgier z Grecją w 
  - [https://www.polsatnews.pl/wiadomosc/2022-11-22/chiny-nagranie-stada-owiec-chodzacych-w-kolko-przez-12-dni-z-rzedu-wyjasniono-nietypowe-zjawisko/](https://www.polsatnews.pl/wiadomosc/2022-11-22/chiny-nagranie-stada-owiec-chodzacych-w-kolko-przez-12-dni-z-rzedu-wyjasniono-nietypowe-zjawisko/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-22 13:39:00+00:00
- - tags: None
 
 W sieci opublikowano nagranie, na którym widać nietypowo zachowujące się stado owiec. Zwierzęta chodziły w kółko przez kolejnych 12 dni. Do zdarzenia doszło w regionie Mongolii Wewnętrznej w północnych Chinach.
 
@@ -84,7 +74,6 @@ W sieci opublikowano nagranie, na którym widać nietypowo zachowujące się sta
  - [https://www.polsatnews.pl/wiadomosc/2022-11-22/bydgoszcz-3-miesieczny-chlopczyk-w-oknie-zycia/](https://www.polsatnews.pl/wiadomosc/2022-11-22/bydgoszcz-3-miesieczny-chlopczyk-w-oknie-zycia/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-22 13:16:00+00:00
- - tags: None
 
 Siostry klaryski z Bydgoszczy znalazły w poniedziałek trzymiesięcznego chłopczyka w oknie życia. Lokalne media potwierdziły tę informację w policji.
 
@@ -92,7 +81,6 @@ Siostry klaryski z Bydgoszczy znalazły w poniedziałek trzymiesięcznego chłop
  - [https://www.polsatnews.pl/wiadomosc/2022-11-22/mistrzostwa-swiata-w-katarze-arabia-saudyjska-pokonala-argentyne-21/](https://www.polsatnews.pl/wiadomosc/2022-11-22/mistrzostwa-swiata-w-katarze-arabia-saudyjska-pokonala-argentyne-21/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-22 12:14:00+00:00
- - tags: None
 
 Piłkarze Arabii Saudyjskiej sensacyjnie pokonali Argentynę 2:1. Oba zespoły to grupowi rywale Polaków, którzy w pierwszej kolejce zmierzą się z Meksykiem.
 
@@ -100,7 +88,6 @@ Piłkarze Arabii Saudyjskiej sensacyjnie pokonali Argentynę 2:1. Oba zespoły t
  - [https://www.polsatnews.pl/wiadomosc/2022-11-22/ukraina-kijow-otrzymal-nowoczesne-naprowadzane-laserowo-pociski-brimstone/](https://www.polsatnews.pl/wiadomosc/2022-11-22/ukraina-kijow-otrzymal-nowoczesne-naprowadzane-laserowo-pociski-brimstone/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-22 11:36:00+00:00
- - tags: None
 
 RAF wysyła do Kijowa zapasy Brimstone - swojego najnowszego, naprowadzanego laserowo pocisku - poinformował we wtorek Daily Telegraph. Zasięg rakiety wysłanej do Ukrainy jest dwukrotnie większy niż w przypadku starszej wersji, która pół roku temu trafiła na front.
 
@@ -108,7 +95,6 @@ RAF wysyła do Kijowa zapasy Brimstone - swojego najnowszego, naprowadzanego las
  - [https://www.polsatnews.pl/wiadomosc/2022-11-22/meksyk-lech-walesa-jestem-za-tym-zeby-zorganizowanie-europy-powierzyc-niemcom/](https://www.polsatnews.pl/wiadomosc/2022-11-22/meksyk-lech-walesa-jestem-za-tym-zeby-zorganizowanie-europy-powierzyc-niemcom/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-22 10:38:00+00:00
- - tags: None
 
 W Europie opowiadam się za tym, żeby zorganizowanie Europy powierzyć Niemcom - oświadczył były prezydent Polski Lech Wałęsa podczas przemówienia wygłoszonego na prawicowym kongresie w Meksyku. Dodał, że jako prawicowiec jest zdecydowany opowiadać się za globalizacją. Podkreślał też, że pomógł zakończyć komunizm sowiecki i zjednoczyć Niemcy.
 
@@ -116,7 +102,6 @@ W Europie opowiadam się za tym, żeby zorganizowanie Europy powierzyć Niemcom 
  - [https://www.polsatnews.pl/wiadomosc/2022-11-22/dziennikarz-ap-zwolniony-poinformowal-ze-rosja-wystrzelila-rakiety-na-polske-w-przewodowie/](https://www.polsatnews.pl/wiadomosc/2022-11-22/dziennikarz-ap-zwolniony-poinformowal-ze-rosja-wystrzelila-rakiety-na-polske-w-przewodowie/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-22 07:03:00+00:00
- - tags: None
 
 Dziennikarz amerykańskiej agencji prasowej Associated Press został zwolniony tydzień po tym, jak błędnie poinformował, że Rosja wystrzeliła rakiety na Polskę. Wiadomość dotyczyła wybuchu w Przewodowie. Reporter powołał się na źródło z Pentagonu.
 
@@ -124,6 +109,5 @@ Dziennikarz amerykańskiej agencji prasowej Associated Press został zwolniony t
  - [https://www.polsatnews.pl/wiadomosc/2022-11-22/ukraina-wicepremier-wereszczuk-wezwala-mieszkancow-wyzwolonego-chersonia-do-ewakuacji/](https://www.polsatnews.pl/wiadomosc/2022-11-22/ukraina-wicepremier-wereszczuk-wezwala-mieszkancow-wyzwolonego-chersonia-do-ewakuacji/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-22 05:25:00+00:00
- - tags: None
 
 Wicepremier Iryna Wereszczuk wezwała mieszkańców wyzwolonego niedawno z rosyjskiej okupacji Chersonia do ewakuacji na okres zimowy do bezpieczniejszych regionów kraju - przekazał Ukrinform.

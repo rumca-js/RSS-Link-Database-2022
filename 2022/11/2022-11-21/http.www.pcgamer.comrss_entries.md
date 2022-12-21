@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## Some clown tried to sneak a knife onto a plane inside a gaming laptop
  - [https://www.pcgamer.com/some-clown-tried-to-sneak-a-knife-onto-a-plane-inside-a-gaming-laptop](https://www.pcgamer.com/some-clown-tried-to-sneak-a-knife-onto-a-plane-inside-a-gaming-laptop)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-21 23:51:24+00:00
- - tags: None
 
 counter_terrorists_win.mp3.
 
@@ -12,7 +11,6 @@ counter_terrorists_win.mp3.
  - [https://www.pcgamer.com/the-worlds-most-stunning-gaming-laptop-is-dollar800-off-for-black-friday](https://www.pcgamer.com/the-worlds-most-stunning-gaming-laptop-is-dollar800-off-for-black-friday)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-21 22:41:07+00:00
- - tags: None
 
 The prettiest gaming laptop is now the best gaming laptop.
 
@@ -20,7 +18,6 @@ The prettiest gaming laptop is now the best gaming laptop.
  - [https://www.pcgamer.com/microsoft-offered-sony-a-10-year-deal-to-keep-call-of-duty-on-playstation](https://www.pcgamer.com/microsoft-offered-sony-a-10-year-deal-to-keep-call-of-duty-on-playstation)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-21 21:29:45+00:00
- - tags: None
 
 The offer was made earlier this month to help push through the Activision acquisition.
 
@@ -28,7 +25,6 @@ The offer was made earlier this month to help push through the Activision acquis
  - [https://www.pcgamer.com/assassins-creed-valhalla-is-finally-coming-to-steam-in-december](https://www.pcgamer.com/assassins-creed-valhalla-is-finally-coming-to-steam-in-december)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-21 21:19:38+00:00
- - tags: None
 
 It's official: Ubisoft is coming back to Steam.
 
@@ -36,7 +32,6 @@ It's official: Ubisoft is coming back to Steam.
  - [https://www.pcgamer.com/warhammer-40k-darktide-change-appearance-how](https://www.pcgamer.com/warhammer-40k-darktide-change-appearance-how)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-21 21:09:57+00:00
- - tags: None
 
 You're currently stuck with your character once you leave the character creator, but that may not be the case after the beta.
 
@@ -44,7 +39,6 @@ You're currently stuck with your character once you leave the character creator,
  - [https://www.pcgamer.com/magic-the-gatherings-jumpstart-2022-set-includes-a-theme-to-embiggen-the-smallest-man](https://www.pcgamer.com/magic-the-gatherings-jumpstart-2022-set-includes-a-theme-to-embiggen-the-smallest-man)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-21 20:13:47+00:00
- - tags: None
 
 The Gigantic packs are a big, big love.
 
@@ -52,7 +46,6 @@ The Gigantic packs are a big, big love.
  - [https://www.pcgamer.com/call-of-duty-warzone-2-spr-208-best-loadouts-classes](https://www.pcgamer.com/call-of-duty-warzone-2-spr-208-best-loadouts-classes)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-21 20:11:06+00:00
- - tags: None
 
 The one-gun-fits-all choice for Warzone 2 snipers is the SP-R 208, and these loadouts will get you started right.
 
@@ -60,7 +53,6 @@ The one-gun-fits-all choice for Warzone 2 snipers is the SP-R 208, and these loa
  - [https://www.pcgamer.com/evil-west-review](https://www.pcgamer.com/evil-west-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-21 19:00:18+00:00
- - tags: None
 
 Pitting cowboys against vampires in a beefy brawler.
 
@@ -68,7 +60,6 @@ Pitting cowboys against vampires in a beefy brawler.
  - [https://www.pcgamer.com/cyberpunk-2077-dips-into-white-collar-crime-with-this-working-stock-market-and-news-mod](https://www.pcgamer.com/cyberpunk-2077-dips-into-white-collar-crime-with-this-working-stock-market-and-news-mod)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-21 18:17:21+00:00
- - tags: None
 
 Stock tickers will soar or dip based on what you do in-game.
 
@@ -76,7 +67,6 @@ Stock tickers will soar or dip based on what you do in-game.
  - [https://www.pcgamer.com/team-ninja-boss-seemingly-confirms-ninja-gaiden-and-dead-or-alive-reboots-in-slide-presentation](https://www.pcgamer.com/team-ninja-boss-seemingly-confirms-ninja-gaiden-and-dead-or-alive-reboots-in-slide-presentation)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-21 16:37:25+00:00
- - tags: None
 
 Fumihikio Yasuda says he hopes to share details "as soon as possible."
 
@@ -84,7 +74,6 @@ Fumihikio Yasuda says he hopes to share details "as soon as possible."
  - [https://www.pcgamer.com/the-40th-golden-joystick-awards-to-be-hosted-by-troy-baker-and-laura-bailey](https://www.pcgamer.com/the-40th-golden-joystick-awards-to-be-hosted-by-troy-baker-and-laura-bailey)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-21 16:19:11+00:00
- - tags: None
 
 Their best-known previous collaboration being The Last of Us.
 
@@ -92,7 +81,6 @@ Their best-known previous collaboration being The Last of Us.
  - [https://www.pcgamer.com/warhammer-40000-darktide-unlocks](https://www.pcgamer.com/warhammer-40000-darktide-unlocks)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-21 15:57:40+00:00
- - tags: None
 
 Maybe wait before you push for max level.
 
@@ -100,7 +88,6 @@ Maybe wait before you push for max level.
  - [https://www.pcgamer.com/demonschool-is-a-slick-persona-like-that-revels-in-the-beauty-of-simplicity](https://www.pcgamer.com/demonschool-is-a-slick-persona-like-that-revels-in-the-beauty-of-simplicity)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-21 15:00:25+00:00
- - tags: None
 
 School gets extra hellish in a dazzling horror tactics RPG.
 
@@ -108,7 +95,6 @@ School gets extra hellish in a dazzling horror tactics RPG.
  - [https://www.pcgamer.com/call-of-duty-warzone-2-nuke-how-to](https://www.pcgamer.com/call-of-duty-warzone-2-nuke-how-to)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-21 14:43:43+00:00
- - tags: None
 
 Blast your way to victory.
 
@@ -116,7 +102,6 @@ Blast your way to victory.
  - [https://www.pcgamer.com/nintendo-dmcas-third-party-steam-image-site-users-upload-even-more-artwork-in-response](https://www.pcgamer.com/nintendo-dmcas-third-party-steam-image-site-users-upload-even-more-artwork-in-response)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-21 14:37:40+00:00
- - tags: None
 
 Want cool art for your Nintendo games? Then play them on the Switch, criminal.
 
@@ -124,7 +109,6 @@ Want cool art for your Nintendo games? Then play them on the Switch, criminal.
  - [https://www.pcgamer.com/our-best-advice-around-black-friday-is-to-remember-you-dont-have-to-buy-anything](https://www.pcgamer.com/our-best-advice-around-black-friday-is-to-remember-you-dont-have-to-buy-anything)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-21 14:34:43+00:00
- - tags: None
 
 Black Friday is a great time to bag a bargain, but don't get sucked into the dealz hype.
 
@@ -132,7 +116,6 @@ Black Friday is a great time to bag a bargain, but don't get sucked into the dea
  - [https://www.pcgamer.com/modern-warfare-2-brings-back-the-classic-superman-bug](https://www.pcgamer.com/modern-warfare-2-brings-back-the-classic-superman-bug)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-21 14:14:01+00:00
- - tags: None
 
 Truth, justice, and the Advanced Warfare way.
 
@@ -140,7 +123,6 @@ Truth, justice, and the Advanced Warfare way.
  - [https://www.pcgamer.com/call-of-duty-warzone-2-DMZ-keys](https://www.pcgamer.com/call-of-duty-warzone-2-DMZ-keys)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-21 13:40:53+00:00
- - tags: None
 
 Unlock buildings to plunder some spoils.
 
@@ -148,7 +130,6 @@ Unlock buildings to plunder some spoils.
  - [https://www.pcgamer.com/rockstar-sets-new-rules-for-gta-online-roleplay-servers-after-shutting-down-rappers-nft-grift](https://www.pcgamer.com/rockstar-sets-new-rules-for-gta-online-roleplay-servers-after-shutting-down-rappers-nft-grift)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-21 13:26:01+00:00
- - tags: None
 
 A lil dunk on Lil Durk.
 
@@ -156,7 +137,6 @@ A lil dunk on Lil Durk.
  - [https://www.pcgamer.com/overwatch-2-wont-remove-tracer-despite-damage-bug-because-she-kinda-sucks-without-it](https://www.pcgamer.com/overwatch-2-wont-remove-tracer-despite-damage-bug-because-she-kinda-sucks-without-it)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-21 12:51:04+00:00
- - tags: None
 
 Blizzard thinks fixing the bug will make her substantially weaker.
 
@@ -164,7 +144,6 @@ Blizzard thinks fixing the bug will make her substantially weaker.
  - [https://www.pcgamer.com/postal-3-has-been-taken-off-sale-after-11-years-and-postals-original-devs-are-thrilled](https://www.pcgamer.com/postal-3-has-been-taken-off-sale-after-11-years-and-postals-original-devs-are-thrilled)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-21 12:47:55+00:00
- - tags: None
 
 Postal 3 was so bad it made Uwe Boll look good.
 
@@ -172,7 +151,6 @@ Postal 3 was so bad it made Uwe Boll look good.
  - [https://www.pcgamer.com/the-warzone-2-whack-a-mole-begins-as-infinite-xp-bug-discovered-and-patched-within-hours](https://www.pcgamer.com/the-warzone-2-whack-a-mole-begins-as-infinite-xp-bug-discovered-and-patched-within-hours)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-21 11:56:52+00:00
- - tags: None
 
 Ever feel like it's groundhog day.
 
@@ -180,7 +158,6 @@ Ever feel like it's groundhog day.
  - [https://www.pcgamer.com/wordle-520-answer-november-21](https://www.pcgamer.com/wordle-520-answer-november-21)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-21 08:05:46+00:00
- - tags: None
 
 Wordle today: The solution and a hint for the #520 puzzle.
 
@@ -188,7 +165,6 @@ Wordle today: The solution and a hint for the #520 puzzle.
  - [https://www.pcgamer.com/five-reasons-nreals-air-glasses-are-the-ultimate-steam-deck-companion](https://www.pcgamer.com/five-reasons-nreals-air-glasses-are-the-ultimate-steam-deck-companion)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-21 06:00:58+00:00
- - tags: None
 
 Nreal's augmented reality glasses ensure you get the most out of your portable gaming experience.
 
@@ -196,7 +172,6 @@ Nreal's augmented reality glasses ensure you get the most out of your portable g
  - [https://www.pcgamer.com/msis-going-all-in-this-black-fridayup-to-35-off-their-gaming-laptops-and-more](https://www.pcgamer.com/msis-going-all-in-this-black-fridayup-to-35-off-their-gaming-laptops-and-more)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-21 06:00:54+00:00
- - tags: None
 
 <article>
                                 <p>Cometh the month, cometh the deals. It&apos;s Black Friday season, and whereas that used to conjure images of long lines and aggressive trolley-loading, thanks to the ecommerce gods Cyber Week is now a rather more sedate, convenient affair. </p><p>MSI&apos;s seizing the day—in fact, the whole week, running November 21st-30th—and slashing prices of several of its laptop lines by up to 35%.</p><p>These are the biggest discounts on MSI&apos;s official store all year, which means the best time to buy that new gaming laptop you&apos;ve been umming and ahhing over for the past few months—hang on, let me just check my calculations here… carry the 1, square root of Pi…<em> right now</em>. </p><p>Prices have been creeping up everywhere in life for the last few months, it feels like. Well now&apos;s our chance to fight back against that. To rage against the machine. By, er, buying one. Gaming laptops start at a pretty affordable £599, and that gets you a spec including 11th/12th gen Intel CPUs and RTX30 series GPUs. Ray traced gorgeousness is back on the menu, boys.</p>
@@ -210,7 +185,6 @@ Nreal's augmented reality glasses ensure you get the most out of your portable g
  - [https://www.pcgamer.com/devs-are-admitting-their-sins-on-twitter-and-there-sure-are-a-lot-who-hid-loss-in-games](https://www.pcgamer.com/devs-are-admitting-their-sins-on-twitter-and-there-sure-are-a-lot-who-hid-loss-in-games)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-21 02:20:02+00:00
- - tags: None
 
 Also, now we know who nerfed the boob jiggle in The Witcher 3.
 
@@ -218,7 +192,6 @@ Also, now we know who nerfed the boob jiggle in The Witcher 3.
  - [https://www.pcgamer.com/five-new-steam-games-you-probably-missed-november-21-2022](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-november-21-2022)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-21 01:23:49+00:00
- - tags: None
 
 Sorting through every new game on Steam so you don't have to.
 
@@ -226,7 +199,6 @@ Sorting through every new game on Steam so you don't have to.
  - [https://www.pcgamer.com/its-mass-effects-15th-birthday-so-the-original-pitch-document-is-doing-the-rounds-again](https://www.pcgamer.com/its-mass-effects-15th-birthday-so-the-original-pitch-document-is-doing-the-rounds-again)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-21 00:42:47+00:00
- - tags: None
 
 Have a look at what changed, and what stayed the same.
 
@@ -234,6 +206,5 @@ Have a look at what changed, and what stayed the same.
  - [https://www.pcgamer.com/julius-caesar-comes-to-civilization-6-for-free](https://www.pcgamer.com/julius-caesar-comes-to-civilization-6-for-free)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-21 00:20:00+00:00
- - tags: None
 
 You'll need to link up a 2K account to get him.

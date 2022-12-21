@@ -1,10 +1,9 @@
-# Source Virtual Reality Oasis, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w
+# Source Virtual Reality Oasis, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w, Source language: en-US
 
 ## Among Us VR Is Even More SUS
  - [https://www.youtube.com/watch?v=f32bzriGbqM](https://www.youtube.com/watch?v=f32bzriGbqM)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w
  - date published: 2022-11-10 18:00:29+00:00
- - tags: None
 
 I check out Among Us VR using Quest 2 and Oculus link. This Among Us VR gameplay was recorded at a LAN event hosted by VAL (Virtual Athletics League) in Salt Lake City, Utah with a bunch of cool VR content creators. 
 

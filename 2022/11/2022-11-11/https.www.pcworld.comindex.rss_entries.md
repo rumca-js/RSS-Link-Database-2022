@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## The Steam Deck’s button mapper is the best feature you’re not using
  - [https://www.pcworld.com/article/1364387/the-steam-decks-button-mapper-is-the-best-feature-youre-not-using.html](https://www.pcworld.com/article/1364387/the-steam-decks-button-mapper-is-the-best-feature-youre-not-using.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-11 11:45:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>For me, the Steam Deck&rsquo;s &ldquo;a-ha&rdquo; moment came when I figured out how to play the PC version of <em>Stranglehold</em> without a mouse and keyboard.</p>
@@ -166,7 +165,6 @@ Steam</div>
  - [https://www.pcworld.com/article/553786/best-external-ssd-for-gaming.html](https://www.pcworld.com/article/553786/best-external-ssd-for-gaming.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-11 11:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you run out of space on your gaming laptop, or you simply want an easy way to make your game library portable, an external SSD provides a way to expand storage without the hassles involved with installing a drive.</p>
@@ -457,7 +455,6 @@ Computer Storage Devices</div>
  - [https://www.pcworld.com/article/1368344/learn-how-to-overclock-pcs-wire-your-own-ethernet-cables-and-more-for-19.html](https://www.pcworld.com/article/1368344/learn-how-to-overclock-pcs-wire-your-own-ethernet-cables-and-more-for-19.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-11 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Building your first custom PC can be fun, but with enthusiast pursuits like&nbsp;<a href="https://www.pcworld.com/article/398593/project-snowblind-cl-from-ibuypower-could-make-custom-loop-cooling-easier-and-cheaper.html" rel="noreferrer noopener" target="_blank">custom looping</a>&nbsp;and&nbsp;<a href="https://www.pcworld.com/article/629609/the-latest-radeon-drivers-might-undo-your-cpu-overclock.html" rel="noreferrer noopener" target="_blank">overclocking</a>, it&rsquo;s easy to lose track of what&rsquo;s most important. Fortunately, you can stay on track with the How to Build a Computer Bundle, on sale now for just $19.&nbsp;</p>

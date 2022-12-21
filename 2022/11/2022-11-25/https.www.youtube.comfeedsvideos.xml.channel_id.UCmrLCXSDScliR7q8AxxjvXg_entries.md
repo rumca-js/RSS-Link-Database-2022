@@ -1,10 +1,9 @@
-# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
+# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, Source language: en-US
 
 ## Word Cup 2022: MIND CONTROL for the MASSES
  - [https://www.youtube.com/watch?v=EDSQfy5Jl_I](https://www.youtube.com/watch?v=EDSQfy5Jl_I)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
  - date published: 2022-11-25 09:37:09+00:00
- - tags: None
 
 🔴Grab Atlas VPN with 85% OFF using my link: https://get.atlasvpn.com/BlackPigeonSpeaks
 

@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## The 2023 BMW i7 proves a luxury car doesn’t need internal combustion
  - [https://arstechnica.com/?p=1894874](https://arstechnica.com/?p=1894874)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-05 22:01:25+00:00
- - tags: None
 
 The fully electric version of the new 7 Series is the best of the bunch.
 
@@ -12,7 +11,6 @@ The fully electric version of the new 7 Series is the best of the bunch.
  - [https://arstechnica.com/?p=1895247](https://arstechnica.com/?p=1895247)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-05 22:01:23+00:00
- - tags: None
 
 A long drive to nowhere remains a good use for an outmoded powertrain.
 
@@ -20,7 +18,6 @@ A long drive to nowhere remains a good use for an outmoded powertrain.
  - [https://arstechnica.com/?p=1895592](https://arstechnica.com/?p=1895592)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-05 14:00:08+00:00
- - tags: None
 
 Dealmaster also includes PC and console storage, gaming keyboards, and much more
 
@@ -28,7 +25,6 @@ Dealmaster also includes PC and console storage, gaming keyboards, and much more
  - [https://arstechnica.com/?p=1895421](https://arstechnica.com/?p=1895421)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-05 13:00:47+00:00
- - tags: None
 
 Developers Justin Ma and Matthew Davis look back at the game's creation and legacy.
 
@@ -36,6 +32,5 @@ Developers Justin Ma and Matthew Davis look back at the game's creation and lega
  - [https://arstechnica.com/?p=1895192](https://arstechnica.com/?p=1895192)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-05 10:31:41+00:00
- - tags: None
 
 A chat with Xbox CEO Phil Spencer and Worlds’s Edge Studio chief Michael Mann.

@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## Teens with obesity lose 15% of body weight in trial of repurposed diabetes drug
  - [https://arstechnica.com/?p=1895135](https://arstechnica.com/?p=1895135)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-03 22:42:42+00:00
- - tags: None
 
 The drug could be a useful new tool for treating childhood obesity.
 
@@ -12,7 +11,6 @@ The drug could be a useful new tool for treating childhood obesity.
  - [https://arstechnica.com/?p=1894732](https://arstechnica.com/?p=1894732)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-03 21:49:29+00:00
- - tags: None
 
 Another study found older, high-quality violins produce stronger combination tones
 
@@ -20,7 +18,6 @@ Another study found older, high-quality violins produce stronger combination ton
  - [https://arstechnica.com/?p=1895013](https://arstechnica.com/?p=1895013)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-03 21:02:59+00:00
- - tags: None
 
 OpenAI offers integrated AI image generation on a demand—for 2 cents an image.
 
@@ -28,7 +25,6 @@ OpenAI offers integrated AI image generation on a demand—for 2 cents an image.
  - [https://arstechnica.com/?p=1894743](https://arstechnica.com/?p=1894743)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-03 21:00:20+00:00
- - tags: None
 
 RDNA 3 GPUs will use many chiplets to counter Nvidia's gigantic RTX 4000 series.
 
@@ -36,7 +32,6 @@ RDNA 3 GPUs will use many chiplets to counter Nvidia's gigantic RTX 4000 series.
  - [https://arstechnica.com/?p=1894938](https://arstechnica.com/?p=1894938)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-03 19:58:42+00:00
- - tags: None
 
 It’s not nearly as vomit-inducing as you’d think.
 
@@ -44,7 +39,6 @@ It’s not nearly as vomit-inducing as you’d think.
  - [https://arstechnica.com/?p=1894927](https://arstechnica.com/?p=1894927)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-03 19:14:54+00:00
- - tags: None
 
 Streamer joins HBO, Disney, and others with its advertising plans.
 
@@ -52,7 +46,6 @@ Streamer joins HBO, Disney, and others with its advertising plans.
  - [https://arstechnica.com/?p=1894785](https://arstechnica.com/?p=1894785)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-03 18:31:06+00:00
- - tags: None
 
 190 devices are certified, but few are available just yet.
 
@@ -60,7 +53,6 @@ Streamer joins HBO, Disney, and others with its advertising plans.
  - [https://arstechnica.com/?p=1894799](https://arstechnica.com/?p=1894799)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-03 16:23:44+00:00
- - tags: None
 
 "Dad of Boy" gives way to an uneven collection of Norse mythology fan fiction.
 
@@ -68,7 +60,6 @@ Streamer joins HBO, Disney, and others with its advertising plans.
  - [https://arstechnica.com/?p=1894779](https://arstechnica.com/?p=1894779)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-03 16:00:20+00:00
- - tags: None
 
 Google's beta softens the spec requirements for Steam on ChromeOS.
 
@@ -76,7 +67,6 @@ Google's beta softens the spec requirements for Steam on ChromeOS.
  - [https://arstechnica.com/?p=1894734](https://arstechnica.com/?p=1894734)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-03 15:07:53+00:00
- - tags: None
 
 As an added bonus, cleanup after rare earth extraction would be much easier.
 
@@ -84,7 +74,6 @@ As an added bonus, cleanup after rare earth extraction would be much easier.
  - [https://arstechnica.com/?p=1894788](https://arstechnica.com/?p=1894788)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-03 14:58:57+00:00
- - tags: None
 
 Musk told staff he won't cut 75% of jobs—it will reportedly be 50% instead.
 
@@ -92,7 +81,6 @@ Musk told staff he won't cut 75% of jobs—it will reportedly be 50% instead.
  - [https://arstechnica.com/?p=1894771](https://arstechnica.com/?p=1894771)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-03 13:16:34+00:00
- - tags: None
 
 When underwater cables congregate in one place, things get tricky.
 
@@ -100,6 +88,5 @@ When underwater cables congregate in one place, things get tricky.
  - [https://arstechnica.com/?p=1894574](https://arstechnica.com/?p=1894574)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-03 12:51:21+00:00
- - tags: None
 
 "We hope they will take the reaction to this one into account."

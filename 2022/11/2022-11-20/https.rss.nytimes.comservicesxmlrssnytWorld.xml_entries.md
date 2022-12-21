@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## Ukraine Plans Evacuations in Kherson and Mykolaiv
  - [https://www.nytimes.com/2022/11/20/world/europe/ukraine-evacuation-kherson-mykolaiv.html](https://www.nytimes.com/2022/11/20/world/europe/ukraine-evacuation-kherson-mykolaiv.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-20 23:00:09+00:00
- - tags: None
 
 The government is making plans to evacuate residents who want to leave from Kherson and Mykolaiv, where fighting has badly damaged the infrastructure.
 
@@ -12,7 +11,6 @@ The government is making plans to evacuate residents who want to leave from Kher
  - [https://www.nytimes.com/2022/11/20/briefing/world-cup-qatar-cop27-asia.html](https://www.nytimes.com/2022/11/20/briefing/world-cup-qatar-cop27-asia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-20 21:14:37+00:00
- - tags: None
 
 Plus COP27 ends with a landmark deal and Twitter reinstates Donald Trump’s account.
 
@@ -20,7 +18,6 @@ Plus COP27 ends with a landmark deal and Twitter reinstates Donald Trump’s acc
  - [https://www.nytimes.com/2022/11/20/world/canada/canada-haiti-sanctions.html](https://www.nytimes.com/2022/11/20/world/canada/canada-haiti-sanctions.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-20 20:52:04+00:00
- - tags: None
 
 Among the six targeted over possible ties to criminal gangs were former President Michel Martelly and two former prime ministers.
 
@@ -28,7 +25,6 @@ Among the six targeted over possible ties to criminal gangs were former Presiden
  - [https://www.nytimes.com/2022/11/20/world/europe/russian-soldiers-shot-ukraine.html](https://www.nytimes.com/2022/11/20/world/europe/russian-soldiers-shot-ukraine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-20 18:58:38+00:00
- - tags: None
 
 Videos circulating online and reported on by Russian state media have raised questions about whether Ukrainian soldiers committed a war crime.
 
@@ -36,7 +32,6 @@ Videos circulating online and reported on by Russian state media have raised que
  - [https://www.nytimes.com/2022/11/20/world/europe/videos-captive-russian-soldiers-ukrainians.html](https://www.nytimes.com/2022/11/20/world/europe/videos-captive-russian-soldiers-ukrainians.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-20 18:58:37+00:00
- - tags: None
 
 Videos circulating online and reported on by Russian state media have raised questions about whether Ukrainian soldiers committed a war crime.
 
@@ -44,7 +39,6 @@ Videos circulating online and reported on by Russian state media have raised que
  - [https://www.nytimes.com/2022/11/20/world/asia/bangladesh-inmates-flee-killed-writer-publisher.html](https://www.nytimes.com/2022/11/20/world/asia/bangladesh-inmates-flee-killed-writer-publisher.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-20 18:31:47+00:00
- - tags: None
 
 Men convicted of fatally stabbing the Bangladeshi-American author Avijit Roy and his publisher fled custody in an unsettling reminder of extremist violence against intellectuals.
 
@@ -52,7 +46,6 @@ Men convicted of fatally stabbing the Bangladeshi-American author Avijit Roy and
  - [https://www.nytimes.com/2022/11/20/world/middleeast/turkey-kurds-iraq-syria.html](https://www.nytimes.com/2022/11/20/world/middleeast/turkey-kurds-iraq-syria.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-20 17:03:36+00:00
- - tags: None
 
 Turkish officials said the airstrikes were a counterterrorism operation against militants it accused of carrying out a bomb attack in Istanbul.
 
@@ -60,7 +53,6 @@ Turkish officials said the airstrikes were a counterterrorism operation against 
  - [https://www.nytimes.com/2022/11/20/world/europe/children-killed-russia-ukraine-war.html](https://www.nytimes.com/2022/11/20/world/europe/children-killed-russia-ukraine-war.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-20 16:26:34+00:00
- - tags: None
 
 Andriy Kostin, Ukraine’s prosecutor general, said that the true numbers were likely to be far higher.
 
@@ -68,7 +60,6 @@ Andriy Kostin, Ukraine’s prosecutor general, said that the true numbers were l
  - [https://www.nytimes.com/2022/11/20/world/europe/zaporizhzhia-nuclear-plant-shelling-ukraine.html](https://www.nytimes.com/2022/11/20/world/europe/zaporizhzhia-nuclear-plant-shelling-ukraine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-20 15:07:01+00:00
- - tags: None
 
 The United Nations’ nuclear watchdog agency called the strikes “extremely disturbing.”
 
@@ -76,7 +67,6 @@ The United Nations’ nuclear watchdog agency called the strikes “extremely di
  - [https://www.nytimes.com/live/2022/11/20/world/russia-ukraine-war-news](https://www.nytimes.com/live/2022/11/20/world/russia-ukraine-war-news)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-20 13:32:32+00:00
- - tags: None
 
 Kyiv says it will begin a “voluntary evacuation” of the recently recaptured city of Kherson, much of which is without water, power or heat.
 
@@ -84,7 +74,6 @@ Kyiv says it will begin a “voluntary evacuation” of the recently recaptured 
  - [https://www.nytimes.com/2022/11/20/briefing/world-cup-qatar.html](https://www.nytimes.com/2022/11/20/briefing/world-cup-qatar.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-20 12:52:42+00:00
- - tags: None
 
 Concerns about corruption and human rights loom over a typically joyous sporting event.
 
@@ -92,7 +81,6 @@ Concerns about corruption and human rights loom over a typically joyous sporting
  - [https://www.nytimes.com/2022/11/20/us/colorado-springs-shooting.html](https://www.nytimes.com/2022/11/20/us/colorado-springs-shooting.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-20 10:45:48+00:00
- - tags: None
 
 The police said a suspect in the shooting, who was also injured, had been taken into custody.
 
@@ -100,7 +88,6 @@ The police said a suspect in the shooting, who was also injured, had been taken 
  - [https://www.nytimes.com/2022/11/20/world/middleeast/in-iraqs-mountains-iranian-opposition-fighters-feel-the-squeeze.html](https://www.nytimes.com/2022/11/20/world/middleeast/in-iraqs-mountains-iranian-opposition-fighters-feel-the-squeeze.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-20 10:00:25+00:00
- - tags: None
 
 The armed groups, which have trained in the Kurdistan region for decades, face attacks from Iran and pressure from the Iraqi government to give up their weapons.
 
@@ -108,7 +95,6 @@ The armed groups, which have trained in the Kurdistan region for decades, face a
  - [https://www.nytimes.com/2022/11/20/world/middleeast/iraq-iran-fighters.html](https://www.nytimes.com/2022/11/20/world/middleeast/iraq-iran-fighters.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-20 10:00:25+00:00
- - tags: None
 
 The armed groups, which have trained in the Kurdistan region for decades, face attacks from Iran and pressure from the Iraqi government to give up their weapons.
 
@@ -116,7 +102,6 @@ The armed groups, which have trained in the Kurdistan region for decades, face a
  - [https://www.nytimes.com/2022/11/20/climate/un-climate-cop27-loss-damage.html](https://www.nytimes.com/2022/11/20/climate/un-climate-cop27-loss-damage.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-20 08:33:44+00:00
- - tags: None
 
 Nations reached a landmark deal to compensate developing nations for climate harm. But some leaders said the summit didn’t go far enough in addressing the root causes of global warming.
 
@@ -124,7 +109,6 @@ Nations reached a landmark deal to compensate developing nations for climate har
  - [https://www.nytimes.com/2022/11/20/world/europe/britain-protests-climate-change.html](https://www.nytimes.com/2022/11/20/world/europe/britain-protests-climate-change.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-20 08:00:30+00:00
- - tags: None
 
 New rules curtailing protests have alarmed some who fear an erosion of civil rights. They come as environmental protesters have intensified their tactics to draw attention to climate change.
 
@@ -132,6 +116,5 @@ New rules curtailing protests have alarmed some who fear an erosion of civil rig
  - [https://www.nytimes.com/2022/11/20/world/asia/malaysia-elections-hung-parliament.html](https://www.nytimes.com/2022/11/20/world/asia/malaysia-elections-hung-parliament.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-20 07:19:27+00:00
- - tags: None
 
 The country has been hit by a series of political shocks in recent years and now confronts the first hung Parliament in its history.

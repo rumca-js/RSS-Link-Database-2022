@@ -1,10 +1,9 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml
+# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
 
 ## Justice Department Opens Probe Into Killing of Palestinian-American Journalist
  - [https://www.wsj.com/articles/justice-department-opens-probe-into-killing-of-palestinian-american-al-jazeera-journalist-11668469486](https://www.wsj.com/articles/justice-department-opens-probe-into-killing-of-palestinian-american-al-jazeera-journalist-11668469486)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-14 23:44:00+00:00
- - tags: None
 
 An Israeli official called the move a mistake; multiple investigations concluded that the bullet that killed Shireen Abu Akleh was likely fired by Israeli soldier.
 
@@ -12,7 +11,6 @@ An Israeli official called the move a mistake; multiple investigations concluded
  - [https://www.wsj.com/articles/putin-signs-decree-allowing-russians-with-dual-citizenship-to-be-drafted-11668451647](https://www.wsj.com/articles/putin-signs-decree-allowing-russians-with-dual-citizenship-to-be-drafted-11668451647)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-14 20:21:00+00:00
- - tags: None
 
 The move could help address Russia’s manpower shortage as it pursues its military campaign in Ukraine.
 
@@ -20,7 +18,6 @@ The move could help address Russia’s manpower shortage as it pursues its milit
  - [https://www.wsj.com/articles/cia-chief-meeting-with-russian-counterpart-in-turkey-11668435033](https://www.wsj.com/articles/cia-chief-meeting-with-russian-counterpart-in-turkey-11668435033)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-14 19:21:00+00:00
- - tags: None
 
 William Burns, director of the Central Intelligence Agency, warned Russia against the use of nuclear weapons and the risks of escalation.
 
@@ -28,7 +25,6 @@ William Burns, director of the Central Intelligence Agency, warned Russia agains
  - [https://www.wsj.com/articles/ukraines-zelensky-visits-newly-recaptured-kherson-11668428367](https://www.wsj.com/articles/ukraines-zelensky-visits-newly-recaptured-kherson-11668428367)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-14 17:29:00+00:00
- - tags: None
 
 The visit comes after three days of celebration in Kherson following the withdrawal of Russian troops from the only regional capital captured by Moscow during more than eight months of war.
 
@@ -36,7 +32,6 @@ The visit comes after three days of celebration in Kherson following the withdra
  - [https://www.wsj.com/articles/u-s-sanctions-target-russian-military-suppliers-alleged-money-launderers-11668441481](https://www.wsj.com/articles/u-s-sanctions-target-russian-military-suppliers-alleged-money-launderers-11668441481)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-14 15:58:00+00:00
- - tags: None
 
 The Biden administration said targeting a Russian company’s supply network would help deny Moscow technology it needs for the Ukraine war.
 
@@ -44,7 +39,6 @@ The Biden administration said targeting a Russian company’s supply network wou
  - [https://www.wsj.com/articles/iran-attacks-northern-iraq-targeting-kurdish-groups-for-unrest-at-home-11668433625](https://www.wsj.com/articles/iran-attacks-northern-iraq-targeting-kurdish-groups-for-unrest-at-home-11668433625)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-14 15:56:00+00:00
- - tags: None
 
 The latest strikes mark an escalation in Tehran’s campaign to retaliate against outside groups and foreign governments that it has blamed for fomenting civilian protests.
 
@@ -52,7 +46,6 @@ The latest strikes mark an escalation in Tehran’s campaign to retaliate agains
  - [https://www.wsj.com/articles/europe-predicts-milder-winter-a-boost-for-its-energy-security-11668430087](https://www.wsj.com/articles/europe-predicts-milder-winter-a-boost-for-its-energy-security-11668430087)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-14 12:48:00+00:00
- - tags: None
 
 With energy tight across the continent, weather has become a key factor in whether Europe makes it through winter with enough natural gas.
 
@@ -60,7 +53,6 @@ With energy tight across the continent, weather has become a key factor in wheth
  - [https://www.wsj.com/articles/plans-to-shut-down-coal-face-headwinds-as-south-africa-says-it-needs-more-cash-11668426707](https://www.wsj.com/articles/plans-to-shut-down-coal-face-headwinds-as-south-africa-says-it-needs-more-cash-11668426707)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-14 11:51:00+00:00
- - tags: None
 
 Pretoria’s agreement with the West last year to wean itself off coal relies too much on debt, South African politicians say, as Indonesia prepares to sign the next big deal.
 
@@ -68,7 +60,6 @@ Pretoria’s agreement with the West last year to wean itself off coal relies to
  - [https://www.wsj.com/articles/biden-xi-meet-as-countries-move-toward-reopening-communication-11668420685](https://www.wsj.com/articles/biden-xi-meet-as-countries-move-toward-reopening-communication-11668420685)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-14 11:00:00+00:00
- - tags: None
 
 President Biden and Chinese leader Xi Jinping began a closely watched meeting that officials on both sides said was intended to repair ruptured lines of communication between the two powers.
 
@@ -76,7 +67,6 @@ President Biden and Chinese leader Xi Jinping began a closely watched meeting th
  - [https://www.wsj.com/articles/russia-eyes-gains-in-ukraines-east-after-kherson-withdrawal-11668421801](https://www.wsj.com/articles/russia-eyes-gains-in-ukraines-east-after-kherson-withdrawal-11668421801)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-14 10:30:00+00:00
- - tags: None
 
 Moscow’s forces have hit Ukrainian positions in the country’s east while retreating elsewhere, and analysts expect Russia to bolster efforts there with redeployed troops.
 
@@ -84,7 +74,6 @@ Moscow’s forces have hit Ukrainian positions in the country’s east while ret
  - [https://www.wsj.com/articles/turkey-blames-kurdish-militant-group-for-istanbul-bombing-11668413242](https://www.wsj.com/articles/turkey-blames-kurdish-militant-group-for-istanbul-bombing-11668413242)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-14 08:07:00+00:00
- - tags: None
 
 The Turkish interior minister said the attack in the heart of Istanbul that killed six people and wounded 81 others was perpetrated by members of the Kurdistan Workers’ Party who crossed into Turkey from Syria.
 
@@ -92,7 +81,6 @@ The Turkish interior minister said the attack in the heart of Istanbul that kill
  - [https://www.wsj.com/articles/japanese-inflation-shows-signs-of-easing-kuroda-says-11668411057](https://www.wsj.com/articles/japanese-inflation-shows-signs-of-easing-kuroda-says-11668411057)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-14 07:31:00+00:00
- - tags: None
 
 The yen’s slide against the dollar has increased the cost of imported raw materials, energy and food, but currency interventions have helped slow the decline, the BOJ governor said.
 
@@ -100,6 +88,5 @@ The yen’s slide against the dollar has increased the cost of imported raw mate
  - [https://www.wsj.com/articles/u-s-official-says-china-is-uncomfortable-with-russias-rhetoric-activity-in-ukraine-11668405751](https://www.wsj.com/articles/u-s-official-says-china-is-uncomfortable-with-russias-rhetoric-activity-in-ukraine-11668405751)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-14 06:02:00+00:00
- - tags: None
 
 The comments came ahead of a meeting between President Biden and Chinese leader Xi Jinping at the G-20 summit.

@@ -1,10 +1,9 @@
-# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
+# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug, Source language: en-US
 
 ## China's 4th largest city: 5 million people under lockdown/Foxconn hires 25,000 workers in India
  - [https://www.youtube.com/watch?v=SPrQgZuOaH8](https://www.youtube.com/watch?v=SPrQgZuOaH8)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
  - date published: 2022-11-14 17:39:38+00:00
- - tags: None
 
 #chinainsights#Chinacovid
 A large group of victims falling to the draconian lockdown measures of the Chinese Communist Party, or CCP, are college students. They are locked up on campus for long periods of time. What you see now is the nighttime schoolyard of the Communication University of China in Beijing. Students are crawling in a circle on the field in front of the university's library. 

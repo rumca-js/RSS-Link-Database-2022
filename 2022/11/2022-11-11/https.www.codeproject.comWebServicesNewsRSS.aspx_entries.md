@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## ASP.Net Core Course
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59475](https://www.codeproject.com/script/News/View.aspx?nwid=59475)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-11 05:00:00+00:00
- - tags: None
 
 The journey of a thousand websites begins with a single online course
 
@@ -12,7 +11,6 @@ The journey of a thousand websites begins with a single online course
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59464](https://www.codeproject.com/script/News/View.aspx?nwid=59464)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-11 05:00:00+00:00
- - tags: None
 
 ML.NET version 2.0 and a new version of Model Builder are now released!
 
@@ -20,7 +18,6 @@ ML.NET version 2.0 and a new version of Model Builder are now released!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59471](https://www.codeproject.com/script/News/View.aspx?nwid=59471)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-11 05:00:00+00:00
- - tags: None
 
 Why sue one of them, when you can sue both of them?
 
@@ -28,7 +25,6 @@ Why sue one of them, when you can sue both of them?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59476](https://www.codeproject.com/script/News/View.aspx?nwid=59476)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-11 05:00:00+00:00
- - tags: None
 
 We're not not not being helpful
 
@@ -36,7 +32,6 @@ We're not not not being helpful
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59470](https://www.codeproject.com/script/News/View.aspx?nwid=59470)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-11 05:00:00+00:00
- - tags: None
 
 Just like Office, but with a turtleneck and beret
 
@@ -44,7 +39,6 @@ Just like Office, but with a turtleneck and beret
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59473](https://www.codeproject.com/script/News/View.aspx?nwid=59473)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-11 05:00:00+00:00
- - tags: None
 
 It still doesn't do anything really, but it does nothing 400 times as much
 
@@ -52,7 +46,6 @@ It still doesn't do anything really, but it does nothing 400 times as much
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59477](https://www.codeproject.com/script/News/View.aspx?nwid=59477)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-11 05:00:00+00:00
- - tags: None
 
 "Everything should be made as simple as possible, but no simpler"
 
@@ -60,7 +53,6 @@ It still doesn't do anything really, but it does nothing 400 times as much
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59467](https://www.codeproject.com/script/News/View.aspx?nwid=59467)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-11 05:00:00+00:00
- - tags: None
 
 Intel® Extension for TensorFlow* is a heterogeneous, high performance deep learning extension plugin based on TensorFlow PluggableDevice interface to bring Intel XPU(GPU, CPU, etc) devices into TensorFlow open source community for AI workload acceleration. It allows flexibly plugging an XPU into TensorFlow on-demand, and exposing computing power inside Intel's hardware.
 
@@ -68,7 +60,6 @@ Intel® Extension for TensorFlow* is a heterogeneous, high performance deep lear
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59465](https://www.codeproject.com/script/News/View.aspx?nwid=59465)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-11 05:00:00+00:00
- - tags: None
 
 You can't always get what you want, but if you try sometimes, you rollback to the version you need.
 
@@ -76,7 +67,6 @@ You can't always get what you want, but if you try sometimes, you rollback to th
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59469](https://www.codeproject.com/script/News/View.aspx?nwid=59469)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-11 05:00:00+00:00
- - tags: None
 
 We’re very excited to announce the new Arduino Lab for MicroPython, a simple, cross-platform IDE for MicroPython that supports any board with a serial REPL interface so it can also work with non-Arduino boards.
 
@@ -84,7 +74,6 @@ We’re very excited to announce the new Arduino Lab for MicroPython, a simple, 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59480](https://www.codeproject.com/script/News/View.aspx?nwid=59480)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-11 05:00:00+00:00
- - tags: None
 
 RIP
 
@@ -92,7 +81,6 @@ RIP
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59474](https://www.codeproject.com/script/News/View.aspx?nwid=59474)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-11 05:00:00+00:00
- - tags: None
 
 MLCommons is out today with its latest set of machine learning (ML) MLPerf benchmarks, once again showing how hardware and software for artificial intelligence (AI) are getting faster.
 
@@ -100,7 +88,6 @@ MLCommons is out today with its latest set of machine learning (ML) MLPerf bench
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59479](https://www.codeproject.com/script/News/View.aspx?nwid=59479)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-11 05:00:00+00:00
- - tags: None
 
 It's the Year of Printing with Linux!
 
@@ -108,7 +95,6 @@ It's the Year of Printing with Linux!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59478](https://www.codeproject.com/script/News/View.aspx?nwid=59478)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-11 05:00:00+00:00
- - tags: None
 
 No sense using any of those other languages then
 
@@ -116,7 +102,6 @@ No sense using any of those other languages then
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59481](https://www.codeproject.com/script/News/View.aspx?nwid=59481)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-11 05:00:00+00:00
- - tags: None
 
 You are not family, you are not essential, you are not your job
 
@@ -124,7 +109,6 @@ You are not family, you are not essential, you are not your job
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59468](https://www.codeproject.com/script/News/View.aspx?nwid=59468)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-11 05:00:00+00:00
- - tags: None
 
 The greatest beneficiaries of AI are IT professionals themselves, latest IBM survey shows.
 
@@ -132,7 +116,6 @@ The greatest beneficiaries of AI are IT professionals themselves, latest IBM sur
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59472](https://www.codeproject.com/script/News/View.aspx?nwid=59472)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-11 05:00:00+00:00
- - tags: None
 
 "Those who see themselves surrounded by idiots are usually idiots themselves."
 
@@ -140,6 +123,5 @@ The greatest beneficiaries of AI are IT professionals themselves, latest IBM sur
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59466](https://www.codeproject.com/script/News/View.aspx?nwid=59466)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-11 05:00:00+00:00
- - tags: None
 
 This week Matter finally became official with the announcement of many launch devices and additional information on the future of the unifying smart home standard.

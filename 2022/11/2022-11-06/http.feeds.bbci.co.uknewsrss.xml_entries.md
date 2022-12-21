@@ -1,10 +1,9 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml
+# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
 
 ## World Cup 2022: Kieran Trippier has to start for England, says Alan Shearer
  - [https://www.bbc.co.uk/sport/football/63538071?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63538071?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 23:54:25+00:00
- - tags: None
 
 Kieran Trippier has to start for England in the World Cup against Iran, according to former Three Lions striker Alan Shearer.
 
@@ -12,7 +11,6 @@ Kieran Trippier has to start for England in the World Cup against Iran, accordin
  - [https://www.bbc.co.uk/news/entertainment-arts-63537991?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63537991?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 23:44:18+00:00
- - tags: None
 
 The comedian's comeback was announced during an ad break in Sunday's I'm A Celebrity launch episode.
 
@@ -20,7 +18,6 @@ The comedian's comeback was announced during an ad break in Sunday's I'm A Celeb
  - [https://www.bbc.co.uk/news/uk-politics-63536770?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63536770?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 22:31:48+00:00
- - tags: None
 
 The PM will tell world leaders at the COP27 summit to deliver on promises to tackle global warming.
 
@@ -28,7 +25,6 @@ The PM will tell world leaders at the COP27 summit to deliver on promises to tac
  - [https://www.bbc.co.uk/sport/rugby-union/63536777?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63536777?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 22:19:42+00:00
- - tags: None
 
 England head coach Eddie Jones does not see "really strong problems" despite a disappointing defeat by Argentina at Twickenham.
 
@@ -36,7 +32,6 @@ England head coach Eddie Jones does not see "really strong problems" despite a d
  - [https://www.bbc.co.uk/sport/snooker/63537446?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/snooker/63537446?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 21:55:38+00:00
- - tags: None
 
 Ronnie O'Sullivan beats defending champion Judd Trump 10-6 to claim his fourth Champion of Champions title.
 
@@ -44,7 +39,6 @@ Ronnie O'Sullivan beats defending champion Judd Trump 10-6 to claim his fourth C
  - [https://www.bbc.co.uk/news/world-us-canada-63434894?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63434894?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 21:34:34+00:00
- - tags: None
 
 Democrats have faltered in their messaging on the economy, while Republicans have hammered them.
 
@@ -52,7 +46,6 @@ Democrats have faltered in their messaging on the economy, while Republicans hav
  - [https://www.bbc.co.uk/sport/football/63535507?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63535507?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 21:08:56+00:00
- - tags: None
 
 Should Gareth Southgate stick with Raheem Sterling in England's first game of the World Cup against Iran despite his poor form for Chelsea?
 
@@ -60,7 +53,6 @@ Should Gareth Southgate stick with Raheem Sterling in England's first game of th
  - [https://www.bbc.co.uk/sport/football/63443694?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63443694?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 20:58:18+00:00
- - tags: None
 
 Chelsea scored two goals in four minutes to end Manchester United's unbeaten start to the Women's Super League season at Leigh Sports Village.
 
@@ -68,7 +60,6 @@ Chelsea scored two goals in four minutes to end Manchester United's unbeaten sta
  - [https://www.bbc.co.uk/sport/football/63534868?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63534868?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 20:50:49+00:00
- - tags: None
 
 Who reminds Garth Crooks of Son Heung-min? Whose finishing is getting better? And who could England use in Qatar? It's the team of the week.
 
@@ -76,7 +67,6 @@ Who reminds Garth Crooks of Son Heung-min? Whose finishing is getting better? An
  - [https://www.bbc.co.uk/sport/football/63536844?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63536844?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 20:47:14+00:00
- - tags: None
 
 Liverpool's win over Tottenham must serve as a template for the rest of the season, writes BBC Sport's chief football writer Phil McNulty.
 
@@ -84,7 +74,6 @@ Liverpool's win over Tottenham must serve as a template for the rest of the seas
  - [https://www.bbc.co.uk/sport/football/63535339?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63535339?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 20:44:09+00:00
- - tags: None
 
 Aston Villa fans hope Unai Emery's appointment could spark a revival after they beat Manchester United, who hope their "unacceptable" display is an off day.
 
@@ -92,7 +81,6 @@ Aston Villa fans hope Unai Emery's appointment could spark a revival after they 
  - [https://www.bbc.co.uk/news/business-63512589?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63512589?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 19:35:20+00:00
- - tags: None
 
 Around 500 staff are expected to lose their jobs after the online furniture store failed to find a buyer.
 
@@ -100,7 +88,6 @@ Around 500 staff are expected to lose their jobs after the online furniture stor
  - [https://www.bbc.co.uk/sport/football/63536836?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63536836?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 18:55:17+00:00
- - tags: None
 
 Arsenal reach a "new level" in their victory over Chelsea, but are the leaders good enough to sustain a serious challenge for the title?
 
@@ -108,7 +95,6 @@ Arsenal reach a "new level" in their victory over Chelsea, but are the leaders g
  - [https://www.bbc.co.uk/sport/football/63443731?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63443731?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 18:52:20+00:00
- - tags: None
 
 Mohamed Salah strikes twice in the first half as Liverpool return to winning ways in the Premier League with victory at Tottenham.
 
@@ -116,7 +102,6 @@ Mohamed Salah strikes twice in the first half as Liverpool return to winning way
  - [https://www.bbc.co.uk/sport/football/63443693?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63443693?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 17:57:12+00:00
- - tags: None
 
 Arsenal continue their perfect start to the Women's Super League season by thrashing bottom side Leicester to reclaim top spot.
 
@@ -124,7 +109,6 @@ Arsenal continue their perfect start to the Women's Super League season by thras
  - [https://www.bbc.co.uk/news/world-europe-63533769?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63533769?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 17:02:52+00:00
- - tags: None
 
 The new far-right government allows only vulnerable people to leave a migrant ship stuck for two weeks.
 
@@ -132,7 +116,6 @@ The new far-right government allows only vulnerable people to leave a migrant sh
  - [https://www.bbc.co.uk/sport/rugby-union/63534786?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63534786?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 16:28:35+00:00
- - tags: None
 
 England make a sobering start to their autumn campaign as Argentina pull off an audacious and deserved victory.
 
@@ -140,7 +123,6 @@ England make a sobering start to their autumn campaign as Argentina pull off an 
  - [https://www.bbc.co.uk/news/world-middle-east-63534578?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-middle-east-63534578?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 16:28:16+00:00
- - tags: None
 
 Alaa Abdel Fattah's family have urged Rishi Sunak to secure his release at the COP27 climate summit.
 
@@ -148,7 +130,6 @@ Alaa Abdel Fattah's family have urged Rishi Sunak to secure his release at the C
  - [https://www.bbc.co.uk/sport/football/63443729?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63443729?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 16:12:15+00:00
- - tags: None
 
 Unai Emery enjoys a dream debut as Aston Villa manager with a first home victory against Manchester United in 23 years.
 
@@ -156,7 +137,6 @@ Unai Emery enjoys a dream debut as Aston Villa manager with a first home victory
  - [https://www.bbc.co.uk/news/world-europe-63535263?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63535263?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 16:08:38+00:00
- - tags: None
 
 Millions of Ukrainians have intermittently lost electricity and water after Russian air strikes.
 
@@ -164,7 +144,6 @@ Millions of Ukrainians have intermittently lost electricity and water after Russ
  - [https://www.bbc.co.uk/news/business-63522511?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63522511?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 15:51:07+00:00
- - tags: None
 
 Most train companies will operate limited services on Monday despite strikes being called off.
 
@@ -172,7 +151,6 @@ Most train companies will operate limited services on Monday despite strikes bei
  - [https://www.bbc.co.uk/sport/football/63533589?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63533589?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 15:36:49+00:00
- - tags: None
 
 Ten European football associations including England and Wales say "human rights are universal and apply everywhere" after Fifa asked nations competing at the Qatar World Cup to "now focus on the football".
 
@@ -180,7 +158,6 @@ Ten European football associations including England and Wales say "human rights
  - [https://www.bbc.co.uk/news/uk-politics-63534980?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63534980?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 14:25:43+00:00
- - tags: None
 
 The Lib Dem leader says his party will "end the chaos" that saw three prime ministers in two months.
 
@@ -188,7 +165,6 @@ The Lib Dem leader says his party will "end the chaos" that saw three prime mini
  - [https://www.bbc.co.uk/sport/football/63443673?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63443673?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 14:08:45+00:00
- - tags: None
 
 A James Brown rocket helps St Johnstone stun Rangers and leave the Ibrox side seven points behind Celtic in the Scottish Premiership title race.
 
@@ -196,7 +172,6 @@ A James Brown rocket helps St Johnstone stun Rangers and leave the Ibrox side se
  - [https://www.bbc.co.uk/sport/football/63443732?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63443732?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 14:06:43+00:00
- - tags: None
 
 Arsenal return to the top of the Premier League table as Gabriel's close-range finish gives them a win against Chelsea at Stamford Bridge.
 
@@ -204,7 +179,6 @@ Arsenal return to the top of the Premier League table as Gabriel's close-range f
  - [https://www.bbc.co.uk/news/technology-63534240?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63534240?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 13:40:43+00:00
- - tags: None
 
 The little-known social network's user base has swelled after Elon Musk's takeover of Twitter.
 
@@ -212,7 +186,6 @@ The little-known social network's user base has swelled after Elon Musk's takeov
  - [https://www.bbc.co.uk/news/uk-england-bristol-63533949?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-bristol-63533949?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 12:26:17+00:00
- - tags: None
 
 Festival organisers apologised for the problem and announced a ticket resale in spring 2023.
 
@@ -220,7 +193,6 @@ Festival organisers apologised for the problem and announced a ticket resale in 
  - [https://www.bbc.co.uk/news/uk-england-manchester-63533659?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-manchester-63533659?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 11:53:53+00:00
- - tags: None
 
 Crews were targeted and vehicles were damaged on one of the busiest nights for 999 crews.
 
@@ -228,7 +200,6 @@ Crews were targeted and vehicles were damaged on one of the busiest nights for 9
  - [https://www.bbc.co.uk/sport/cricket/63533507?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/63533507?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 11:28:24+00:00
- - tags: None
 
 England will face India in the semi-finals of the Men's T20 World Cup as Rohit Sharma's side beat Zimbabwe by 71 runs.
 
@@ -236,7 +207,6 @@ England will face India in the semi-finals of the Men's T20 World Cup as Rohit S
  - [https://www.bbc.co.uk/sport/av/cricket/63533387?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/cricket/63533387?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 10:10:20+00:00
- - tags: None
 
 Suryakumar Yadav plays a series of 'outrageous' shots to score 61 from 25 balls and guide India to a total of 186-5 against Zimbabwe at eth T20 World Cup in Australia.
 
@@ -244,7 +214,6 @@ Suryakumar Yadav plays a series of 'outrageous' shots to score 61 from 25 balls 
  - [https://www.bbc.co.uk/news/world-africa-63532896?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-africa-63532896?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 10:02:43+00:00
- - tags: None
 
 The plane was carrying 43 people, 26 of whom have been rescued and sent to hospital, an official says.
 
@@ -252,7 +221,6 @@ The plane was carrying 43 people, 26 of whom have been rescued and sent to hospi
  - [https://www.bbc.co.uk/news/world-us-canada-63532906?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63532906?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 08:44:03+00:00
- - tags: None
 
 A woman is pulled from an apartment block in New York after a blaze left at least 38 people injured.
 
@@ -260,7 +228,6 @@ A woman is pulled from an apartment block in New York after a blaze left at leas
  - [https://www.bbc.co.uk/sport/baseball/63530761?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/baseball/63530761?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 06:27:50+00:00
- - tags: None
 
 The Houston Astros win their second World Series title as a 4-1 victory over the Philadelphia Phillies helps them clinch the seven-game series 4-2.
 
@@ -268,7 +235,6 @@ The Houston Astros win their second World Series title as a 4-1 victory over the
  - [https://www.bbc.co.uk/news/uk-politics-63530070?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63530070?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 05:14:08+00:00
- - tags: None
 
 PM was told of complaint before he gave Sir Gavin Williamson a cabinet job, former party chair says.
 
@@ -276,7 +242,6 @@ PM was told of complaint before he gave Sir Gavin Williamson a cabinet job, form
  - [https://www.bbc.co.uk/sport/cricket/63531185?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/63531185?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 03:51:09+00:00
- - tags: None
 
 South Africa are out of the Men's T20 World Cup after being stunned by Netherlands in their final group match.
 
@@ -284,7 +249,6 @@ South Africa are out of the Men's T20 World Cup after being stunned by Netherlan
  - [https://www.bbc.co.uk/news/world-us-canada-63531155?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63531155?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 02:49:37+00:00
- - tags: None
 
 Trump, Obama and Biden all rally in Pennsylvania, urging Americans to vote in the midterm elections.
 
@@ -292,7 +256,6 @@ Trump, Obama and Biden all rally in Pennsylvania, urging Americans to vote in th
  - [https://www.bbc.co.uk/news/science-environment-63517078?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/science-environment-63517078?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 01:41:11+00:00
- - tags: None
 
 Nations are being urged to turn pledges into action as the UN climate conference opens in Egypt.
 
@@ -300,7 +263,6 @@ Nations are being urged to turn pledges into action as the UN climate conference
  - [https://www.bbc.co.uk/news/entertainment-arts-63498068?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63498068?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 01:21:00+00:00
- - tags: None
 
 The style and fashion of football casuals is celebrated in a new exhibition in Liverpool.
 
@@ -308,7 +270,6 @@ The style and fashion of football casuals is celebrated in a new exhibition in L
  - [https://www.bbc.co.uk/news/world-us-canada-63434895?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63434895?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 00:58:18+00:00
- - tags: None
 
 Inflation is voters' top issue, but Democrats hope anger over abortion bans will boost turnout.
 
@@ -316,7 +277,6 @@ Inflation is voters' top issue, but Democrats hope anger over abortion bans will
  - [https://www.bbc.co.uk/news/in-pictures-63486977?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/in-pictures-63486977?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 00:55:10+00:00
- - tags: None
 
 A selection of striking images from our readers around the world.
 
@@ -324,7 +284,6 @@ A selection of striking images from our readers around the world.
  - [https://www.bbc.co.uk/news/uk-politics-63477214?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63477214?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 00:50:44+00:00
- - tags: None
 
 Former energy ministers and experts highlight mistakes they say are partly to blame for steep bills.
 
@@ -332,7 +291,6 @@ Former energy ministers and experts highlight mistakes they say are partly to bl
  - [https://www.bbc.co.uk/news/uk-63528830?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63528830?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 00:43:49+00:00
- - tags: None
 
 The holiday will fall on Monday, 8 May, two days after the coronation of King Charles III.
 
@@ -340,7 +298,6 @@ The holiday will fall on Monday, 8 May, two days after the coronation of King Ch
  - [https://www.bbc.co.uk/news/blogs-the-papers-63530725?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-63530725?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 00:37:53+00:00
- - tags: None
 
 The front pages cover on a mix of stories including claims British businesses and officials are being targeted by cyber criminals.
 
@@ -348,7 +305,6 @@ The front pages cover on a mix of stories including claims British businesses an
  - [https://www.bbc.co.uk/sport/av/football/63531103?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63531103?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 00:11:42+00:00
- - tags: None
 
 Match of the Day's Gary Lineker, Jermaine Jenas and Danny Murphy analyse midfielder James Maddison's display in Leicester's 2-0 win over Everton.
 
@@ -356,6 +312,5 @@ Match of the Day's Gary Lineker, Jermaine Jenas and Danny Murphy analyse midfiel
  - [https://www.bbc.co.uk/news/technology-63530872?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63530872?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-06 00:00:49+00:00
- - tags: None
 
 Controversially Twitter says blue-tick status will be open to those who pay a monthly $7.99.

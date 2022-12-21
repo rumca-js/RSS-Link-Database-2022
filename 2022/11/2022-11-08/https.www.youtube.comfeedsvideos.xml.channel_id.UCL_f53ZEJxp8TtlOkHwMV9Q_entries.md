@@ -1,10 +1,9 @@
-# Source Jordan B Peterson, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
+# Source Jordan B Peterson, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q, Source language: en-US
 
 ## While Failing to Save the Planet
  - [https://www.youtube.com/watch?v=NIMLW2RundY](https://www.youtube.com/watch?v=NIMLW2RundY)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
  - date published: 2022-11-08 21:28:11+00:00
- - tags: None
 
 Dr. Peterson and Dr. Lomborg read their article most recently published in the Telegraph. Together, they discuss how those who hypothetically lead us on the environmental front are actually failing to save the planet at this years Climate Change conference.
 

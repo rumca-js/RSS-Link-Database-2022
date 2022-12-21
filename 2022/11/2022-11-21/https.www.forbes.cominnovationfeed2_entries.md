@@ -1,10 +1,9 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2
+# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
 
 ## Science Shows That Jazz Musicians Have Their Own Individual Music Vocabulary
  - [https://www.forbes.com/sites/evaamsen/2022/11/21/science-shows-that-jazz-musicians-have-their-own-individual-music-vocabulary/](https://www.forbes.com/sites/evaamsen/2022/11/21/science-shows-that-jazz-musicians-have-their-own-individual-music-vocabulary/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 22:49:20+00:00
- - tags: None
 
 Researchers discovered that jazz pianists each have a distinct individual music vocabulary that ensures their licks sound the same every time.
 
@@ -12,7 +11,6 @@ Researchers discovered that jazz pianists each have a distinct individual music 
  - [https://www.forbes.com/sites/servicenow/2022/11/21/value-hiding-in-plain-sight/](https://www.forbes.com/sites/servicenow/2022/11/21/value-hiding-in-plain-sight/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 22:08:37+00:00
- - tags: None
 
 How the right tech can transform customer service into a growth channel.
 
@@ -20,7 +18,6 @@ How the right tech can transform customer service into a growth channel.
  - [https://www.forbes.com/sites/angelicamarideoliveira/2022/11/21/how-noah-scheffel-is-bringing-transgender-people-into-tech-careers-in-brazil/](https://www.forbes.com/sites/angelicamarideoliveira/2022/11/21/how-noah-scheffel-is-bringing-transgender-people-into-tech-careers-in-brazil/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 21:51:30+00:00
- - tags: None
 
 EducaTRANSforma is an edtech focused on training and corporate matchmaking with an emphasis on turnover reduction.
 
@@ -28,7 +25,6 @@ EducaTRANSforma is an edtech focused on training and corporate matchmaking with 
  - [https://www.forbes.com/sites/roslynlayton/2022/11/21/three-ways-to-invigorate-the-news/](https://www.forbes.com/sites/roslynlayton/2022/11/21/three-ways-to-invigorate-the-news/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 20:29:19+00:00
- - tags: None
 
 For better news, media policy should harness market forces, not work against them.
 
@@ -36,7 +32,6 @@ For better news, media policy should harness market forces, not work against the
  - [https://www.forbes.com/sites/petersuciu/2022/11/21/running-up-that-hilltiktok-and-youtube-are-giving-old-songs-new-life/](https://www.forbes.com/sites/petersuciu/2022/11/21/running-up-that-hilltiktok-and-youtube-are-giving-old-songs-new-life/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 20:02:59+00:00
- - tags: None
 
 One of the most popular "songs of this past" summer wasn't from a Generation Z or Millennial-aged artist, and the tune could be described as practically middle-aged.
 
@@ -44,7 +39,6 @@ One of the most popular "songs of this past" summer wasn't from a Generation Z o
  - [https://www.forbes.com/sites/madeleinekey/2022/11/21/will-more-women-patent-attorneys--lead-to-more-women-inventors/](https://www.forbes.com/sites/madeleinekey/2022/11/21/will-more-women-patent-attorneys--lead-to-more-women-inventors/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 19:54:31+00:00
- - tags: None
 
 The U.S. Patent & Trademark Office is considering expanding the eligibility requirements to draft, file, and negotiate patent applications, which will likely produce more diversity in the innovation ecosystem overall.
 
@@ -52,7 +46,6 @@ The U.S. Patent & Trademark Office is considering expanding the eligibility requ
  - [https://www.forbes.com/sites/jeffopperman/2022/11/21/giving-thanks-for-rivers-of-food/](https://www.forbes.com/sites/jeffopperman/2022/11/21/giving-thanks-for-rivers-of-food/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 19:53:41+00:00
- - tags: None
 
 Although Thanksgiving is associated with turkey, it is likely that food from rivers, including ducks and eels, provided much of the protein for the first Thanksgiving. This reflects the reality that, today, rivers are essential for providing the world with food, but that role is often overlooked.
 
@@ -60,7 +53,6 @@ Although Thanksgiving is associated with turkey, it is likely that food from riv
  - [https://www.forbes.com/sites/forrester/2022/11/21/5-key-areas-for-retailers-to-focus-on-this-holiday-season/](https://www.forbes.com/sites/forrester/2022/11/21/5-key-areas-for-retailers-to-focus-on-this-holiday-season/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 19:46:06+00:00
- - tags: None
 
 Meet and exceed customer expectations with authentic marketing.
 
@@ -68,7 +60,6 @@ Meet and exceed customer expectations with authentic marketing.
  - [https://www.forbes.com/sites/kenrickcai/2022/11/21/h1b-visa-holders-tech-layoffs-job-openings/](https://www.forbes.com/sites/kenrickcai/2022/11/21/h1b-visa-holders-tech-layoffs-job-openings/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 19:12:22+00:00
- - tags: None
 
 With more than 42,000 tech workers losing their jobs this month, immigration lawyers and tech investors say that the majority of foreign nationals on visas could be forced to leave the country unless they figure out a backup plan.
 
@@ -76,7 +67,6 @@ With more than 42,000 tech workers losing their jobs this month, immigration law
  - [https://www.forbes.com/sites/insights-adobe/2022/11/21/nearly-half-of-cios-say-digital-transformations-are-incomplete/](https://www.forbes.com/sites/insights-adobe/2022/11/21/nearly-half-of-cios-say-digital-transformations-are-incomplete/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 17:58:28+00:00
- - tags: None
 
 Hybrid work is here to stay: Spurred by the pandemic, 74% of companies now have or plan to implement permanent hybrid work models.
 
@@ -84,7 +74,6 @@ Hybrid work is here to stay: Spurred by the pandemic, 74% of companies now have 
  - [https://www.forbes.com/sites/ewanspence/2022/11/21/apple-macbook-pro-14-inc-16-inch-m1-m2-delay-discount/](https://www.forbes.com/sites/ewanspence/2022/11/21/apple-macbook-pro-14-inc-16-inch-m1-m2-delay-discount/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 17:49:41+00:00
- - tags: None
 
 Apple may be offering discounted MacBook Pro laptops to enterprise customers, but are there better options for those needing to upgrade their macOS machines?
 
@@ -92,7 +81,6 @@ Apple may be offering discounted MacBook Pro laptops to enterprise customers, bu
  - [https://www.forbes.com/sites/johnkoetsier/2022/11/21/opinion-there-is-no-good-alternative-to-twitter/](https://www.forbes.com/sites/johnkoetsier/2022/11/21/opinion-there-is-no-good-alternative-to-twitter/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 17:43:05+00:00
- - tags: None
 
 People keep posting — on Twitter — that they’re leaving Twitter. The big question is: where do you go?
 
@@ -100,7 +88,6 @@ People keep posting — on Twitter — that they’re leaving Twitter. The big q
  - [https://www.forbes.com/sites/johnbbrandon/2022/11/21/here-why-donald-trumps-truth-social-is-in-jeopardy/](https://www.forbes.com/sites/johnbbrandon/2022/11/21/here-why-donald-trumps-truth-social-is-in-jeopardy/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 17:31:04+00:00
- - tags: None
 
 That’s the rather easy decision facing Donald Trump right now.
 
@@ -108,7 +95,6 @@ That’s the rather easy decision facing Donald Trump right now.
  - [https://www.forbes.com/sites/johncumbers/2022/11/21/can-a-desktop-dna-printer-stomp-out-the-next-pandemic/](https://www.forbes.com/sites/johncumbers/2022/11/21/can-a-desktop-dna-printer-stomp-out-the-next-pandemic/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 17:13:25+00:00
- - tags: None
 
 Telesis Bio wants to bring the ability to write DNA to every lab with their desktop automated gene synthesis platform, Digital-to-biological converter™
 
@@ -116,7 +102,6 @@ Telesis Bio wants to bring the ability to write DNA to every lab with their desk
  - [https://www.forbes.com/sites/moorinsights/2022/11/21/nvidia-h100-gpu-performance-shatters-machine-learning-benchmarks-for-model-training/](https://www.forbes.com/sites/moorinsights/2022/11/21/nvidia-h100-gpu-performance-shatters-machine-learning-benchmarks-for-model-training/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 16:38:53+00:00
- - tags: None
 
 Vice President, AI & Quantum Computing, Paul Smith-Goodson, dives in as a few weeks ago, a new set of MLCommons training results were released, this time for MLPerf 2.1 Training, which the NVIDIA H100 and A100 also dominated.
 
@@ -124,7 +109,6 @@ Vice President, AI & Quantum Computing, Paul Smith-Goodson, dives in as a few we
  - [https://www.forbes.com/sites/curtissilver/2022/11/21/unboxing-the-magic-the-gathering-30th-anniversary-edition/](https://www.forbes.com/sites/curtissilver/2022/11/21/unboxing-the-magic-the-gathering-30th-anniversary-edition/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 16:30:02+00:00
- - tags: None
 
 The Magic: The Gathering 30th Anniversary Edition is here. So let's crack open these four booster packs and see what we've got.
 
@@ -132,7 +116,6 @@ The Magic: The Gathering 30th Anniversary Edition is here. So let's crack open t
  - [https://www.forbes.com/sites/stevensavage/2022/11/21/a-novel-alternative-to-the-plastic-waste-associated-with-pill-bottles/](https://www.forbes.com/sites/stevensavage/2022/11/21/a-novel-alternative-to-the-plastic-waste-associated-with-pill-bottles/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 15:57:13+00:00
- - tags: None
 
 It is increasingly apparent that recycling is an imperfect solution for plastic waste and that microplastics are an environmental problem. There is a new, more eco-friendly approach for the waste associated with the medicines category.
 
@@ -140,7 +123,6 @@ It is increasingly apparent that recycling is an imperfect solution for plastic 
  - [https://www.forbes.com/sites/paultassi/2022/11/21/players-are-making-destiny-2-maps-in-halo-infinite-forge/](https://www.forbes.com/sites/paultassi/2022/11/21/players-are-making-destiny-2-maps-in-halo-infinite-forge/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 15:03:20+00:00
- - tags: None
 
 I have absolutely no idea how Halo Infinite managed to produce a mediocre campaign, a painfully lacking live service multiplayer and yet its new Forge mode is probably one of the best shooter creation tools I’ve ever seen in m...
 
@@ -148,7 +130,6 @@ I have absolutely no idea how Halo Infinite managed to produce a mediocre campai
  - [https://www.forbes.com/sites/garydrenik/2022/11/21/cyber-risk-is-rising-here-is-how-companies-can-tackle-tomorrows-threats-today/](https://www.forbes.com/sites/garydrenik/2022/11/21/cyber-risk-is-rising-here-is-how-companies-can-tackle-tomorrows-threats-today/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 15:00:00+00:00
- - tags: None
 
 Breaches in cyber security can be detrimental to the health of enterprise organizations and SMBs alike. Not only are they financially devastating, but they also erode consumer trust. The advent of widespread distributed teams in 2020 added an additional layer of risk and cyber criminals took notice.
 
@@ -156,7 +137,6 @@ Breaches in cyber security can be detrimental to the health of enterprise organi
  - [https://www.forbes.com/sites/erikkain/2022/11/21/the-walking-dead-series-finale-stuck-the-landing-then-jumped-the-shark/](https://www.forbes.com/sites/erikkain/2022/11/21/the-walking-dead-series-finale-stuck-the-landing-then-jumped-the-shark/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 15:00:00+00:00
- - tags: None
 
 The Walking Dead very nearly gave us a perfect ending, but it screwed up at the last second with a surprise cameo scene that really didn't work.
 
@@ -164,7 +144,6 @@ The Walking Dead very nearly gave us a perfect ending, but it screwed up at the 
  - [https://www.forbes.com/sites/investor/2022/11/21/what-does-ftx-tell-us-about-the-state-of-venture-capital/](https://www.forbes.com/sites/investor/2022/11/21/what-does-ftx-tell-us-about-the-state-of-venture-capital/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 14:51:25+00:00
- - tags: None
 
 The FTX debacle may point to looming problems beyond the crypto ecosystem.
 
@@ -172,7 +151,6 @@ The FTX debacle may point to looming problems beyond the crypto ecosystem.
  - [https://www.forbes.com/sites/paultassi/2022/11/21/one-pool-3-marvel-snap-card-transforms-the-most-useless-pool-1-cards-entirely/](https://www.forbes.com/sites/paultassi/2022/11/21/one-pool-3-marvel-snap-card-transforms-the-most-useless-pool-1-cards-entirely/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 14:33:18+00:00
- - tags: None
 
 I have waded my way into Pool 3 in Marvel Snap, where the truly wild cards reside, and I have come to realize I may have struck gold with an early draw.
 
@@ -180,7 +158,6 @@ I have waded my way into Pool 3 in Marvel Snap, where the truly wild cards resid
  - [https://www.forbes.com/sites/forbestechcouncil/2022/11/21/why-the-cybersecurity-workforce-needs-veterans/](https://www.forbes.com/sites/forbestechcouncil/2022/11/21/why-the-cybersecurity-workforce-needs-veterans/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 14:30:00+00:00
- - tags: None
 
 Cybersecurity will never cease to be an issue for businesses globally, so it's time to build a workforce of people with a unique pedigree to help solve the problem—our nation’s veterans.
 
@@ -188,7 +165,6 @@ Cybersecurity will never cease to be an issue for businesses globally, so it's t
  - [https://www.forbes.com/sites/forbestechcouncil/2022/11/21/top-business-priorities-in-2023-compliance-data-security-data-pipelines-and-zero-trust/](https://www.forbes.com/sites/forbestechcouncil/2022/11/21/top-business-priorities-in-2023-compliance-data-security-data-pipelines-and-zero-trust/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 14:15:00+00:00
- - tags: None
 
 Let’s take a look at the upcoming data trends of 2023 and what companies should do in the coming year to address them.
 
@@ -196,7 +172,6 @@ Let’s take a look at the upcoming data trends of 2023 and what companies shoul
  - [https://www.forbes.com/sites/forbestechcouncil/2022/11/21/how-higher-ed-is-retooling-to-ensure-its-viability-and-student-success/](https://www.forbes.com/sites/forbestechcouncil/2022/11/21/how-higher-ed-is-retooling-to-ensure-its-viability-and-student-success/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 14:00:00+00:00
- - tags: None
 
 By digitally transforming, higher ed can build on initial learnings and deliver on student expectations, improve student outcomes, expand to a broader demographic and stay relevant in the face of a fast-changing labor market.
 
@@ -204,7 +179,6 @@ By digitally transforming, higher ed can build on initial learnings and deliver 
  - [https://www.forbes.com/sites/paultassi/2022/11/21/twitters-broken-its-copyright-strike-system-users-are-uploading-full-movies/](https://www.forbes.com/sites/paultassi/2022/11/21/twitters-broken-its-copyright-strike-system-users-are-uploading-full-movies/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 13:49:49+00:00
- - tags: None
 
 Last night, it became apparent that Twitter's automated copyright strike/takedown system was no longer functional.
 
@@ -212,7 +186,6 @@ Last night, it became apparent that Twitter's automated copyright strike/takedow
  - [https://www.forbes.com/sites/forbestechcouncil/2022/11/21/ask-these-questions-when-deciding-whether-to-build-or-buy-new-tech/](https://www.forbes.com/sites/forbestechcouncil/2022/11/21/ask-these-questions-when-deciding-whether-to-build-or-buy-new-tech/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 13:45:00+00:00
- - tags: None
 
 When evaluating new technology investments and whether to build versus buy, ask these important questions.
 
@@ -220,7 +193,6 @@ When evaluating new technology investments and whether to build versus buy, ask 
  - [https://www.forbes.com/sites/paultassi/2022/11/21/twitter-alternative-hive-social-is-having-a-viral-sign-up-moment/](https://www.forbes.com/sites/paultassi/2022/11/21/twitter-alternative-hive-social-is-having-a-viral-sign-up-moment/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 13:34:14+00:00
- - tags: None
 
 What is Hive Social, the new Twitter replacement app?
 
@@ -228,7 +200,6 @@ What is Hive Social, the new Twitter replacement app?
  - [https://www.forbes.com/sites/forbestechcouncil/2022/11/21/the-future-of-3-d-technology-and-how-it-can-help-your-business/](https://www.forbes.com/sites/forbestechcouncil/2022/11/21/the-future-of-3-d-technology-and-how-it-can-help-your-business/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 13:30:00+00:00
- - tags: None
 
 We tend to think of 3-D development as providing only interactivity and entertainment. Yet three-dimensional solutions have become a terrific instrument that boosts business growth.
 
@@ -236,7 +207,6 @@ We tend to think of 3-D development as providing only interactivity and entertai
  - [https://www.forbes.com/sites/barrycollins/2022/11/21/bbc-iplayer-down-under-weight-of-world-cup-viewers/](https://www.forbes.com/sites/barrycollins/2022/11/21/bbc-iplayer-down-under-weight-of-world-cup-viewers/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 13:25:17+00:00
- - tags: None
 
 The BBC iPlayer goes down for England’s first World Cup game with Iran
 
@@ -244,7 +214,6 @@ The BBC iPlayer goes down for England’s first World Cup game with Iran
  - [https://www.forbes.com/sites/sap/2022/11/21/ukraines-largest-mining-company-digitalizes-sales-performance-in-the-middle-of-a-war/](https://www.forbes.com/sites/sap/2022/11/21/ukraines-largest-mining-company-digitalizes-sales-performance-in-the-middle-of-a-war/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 13:24:13+00:00
- - tags: None
 
 Amidst the challenges of an uncertain business environment, the sales team at Ukrainian-based Metinvest has the connected data to move ahead and make good on the customer promise.
 
@@ -252,7 +221,6 @@ Amidst the challenges of an uncertain business environment, the sales team at Uk
  - [https://www.forbes.com/sites/forbestechcouncil/2022/11/21/14-tech-leaders-share-how-they-dig-out-of-professional-ruts/](https://www.forbes.com/sites/forbestechcouncil/2022/11/21/14-tech-leaders-share-how-they-dig-out-of-professional-ruts/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 13:15:00+00:00
- - tags: None
 
 Strategies including disconnecting from technology or taking time to celebrate wins can help tech leaders and professionals “reset” and find the motivation to keep moving forward.
 
@@ -260,7 +228,6 @@ Strategies including disconnecting from technology or taking time to celebrate w
  - [https://www.forbes.com/sites/forbestechcouncil/2022/11/21/how-robotic-process-automation-can-quietly-change-the-way-people-work/](https://www.forbes.com/sites/forbestechcouncil/2022/11/21/how-robotic-process-automation-can-quietly-change-the-way-people-work/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 13:15:00+00:00
- - tags: None
 
 The need for businesses to automate as many tasks as possible has become more important than ever before.
 
@@ -268,7 +235,6 @@ The need for businesses to automate as many tasks as possible has become more im
  - [https://www.forbes.com/sites/paultassi/2022/11/21/the-walking-dead-series-finale-was-bad-because-it-wasnt-a-series-finale/](https://www.forbes.com/sites/paultassi/2022/11/21/the-walking-dead-series-finale-was-bad-because-it-wasnt-a-series-finale/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 13:06:34+00:00
- - tags: None
 
 After 11 seasons and 12 years, The Walking Dead series finale ended with a montage that included the phrase “the end is just the beginning.”
 
@@ -276,7 +242,6 @@ After 11 seasons and 12 years, The Walking Dead series finale ended with a monta
  - [https://www.forbes.com/sites/sallypipes/2022/11/21/a-new-plan-brings-clarity-to-healthcare-price-transparencyfinally/](https://www.forbes.com/sites/sallypipes/2022/11/21/a-new-plan-brings-clarity-to-healthcare-price-transparencyfinally/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 13:00:00+00:00
- - tags: None
 
 By fostering competition, price transparency has delivered higher quality, lower prices, and better value in just about every sector of our economy. Health care has been an exception for decades—thanks largely to government policies.
 
@@ -284,7 +249,6 @@ By fostering competition, price transparency has delivered higher quality, lower
  - [https://www.forbes.com/sites/lanceeliot/2022/11/21/legal-personhood-for-ai-is-taking-a-sneaky-path-that-makes-ai-law-and-ai-ethics-very-nervous-indeed/](https://www.forbes.com/sites/lanceeliot/2022/11/21/legal-personhood-for-ai-is-taking-a-sneaky-path-that-makes-ai-law-and-ai-ethics-very-nervous-indeed/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 13:00:00+00:00
- - tags: None
 
 A lot of debate takes place about whether we ought to recognize AI with some form of legal personhood. Surprisingly, some believe that we can already shoehorn AI into legal personhood by a bit of corporate legal wrangling. See what this is all about.
 
@@ -292,7 +256,6 @@ A lot of debate takes place about whether we ought to recognize AI with some for
  - [https://www.forbes.com/sites/forbestechcouncil/2022/11/21/whats-the-future-of-web-hosting/](https://www.forbes.com/sites/forbestechcouncil/2022/11/21/whats-the-future-of-web-hosting/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 13:00:00+00:00
- - tags: None
 
 A number of different technologies and social trends are reshaping the traditional ways of hosting a website. In this article, we’ll take a brief look at what some of these are—and what you can expect to see from hosts in the near future.
 
@@ -300,7 +263,6 @@ A number of different technologies and social trends are reshaping the tradition
  - [https://www.forbes.com/sites/marcoannunziata/2022/11/21/trucks-take-the-lead-in-autonomous-driving-race/](https://www.forbes.com/sites/marcoannunziata/2022/11/21/trucks-take-the-lead-in-autonomous-driving-race/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 12:51:16+00:00
- - tags: None
 
 While self-driving cars have fallen behind expectations, autonomous trucks like those developed by Embark Trucks are set to improve supply chain efficiency and unlock substantial economic value.
 
@@ -308,7 +270,6 @@ While self-driving cars have fallen behind expectations, autonomous trucks like 
  - [https://www.forbes.com/sites/forbestechcouncil/2022/11/21/why-cybersecurity-should-be-part-of-any-business-strategy/](https://www.forbes.com/sites/forbestechcouncil/2022/11/21/why-cybersecurity-should-be-part-of-any-business-strategy/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 12:45:00+00:00
- - tags: None
 
 Cybersecurity is essential to enable and secure any business strategy.
 
@@ -316,7 +277,6 @@ Cybersecurity is essential to enable and secure any business strategy.
  - [https://www.forbes.com/sites/stevensalzberg/2022/11/21/football-is-corrupting-our-universities-more-than-ever/](https://www.forbes.com/sites/stevensalzberg/2022/11/21/football-is-corrupting-our-universities-more-than-ever/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 12:30:00+00:00
- - tags: None
 
 Pay the players. That's the only way to fix the unethical business of college football today.
 
@@ -324,7 +284,6 @@ Pay the players. That's the only way to fix the unethical business of college fo
  - [https://www.forbes.com/sites/forbestechcouncil/2022/11/21/four-ways-businesses-can-help-employees-build-the-ultimate-wfh-setup/](https://www.forbes.com/sites/forbestechcouncil/2022/11/21/four-ways-businesses-can-help-employees-build-the-ultimate-wfh-setup/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 12:30:00+00:00
- - tags: None
 
 For business leaders, investing in remote employees’ WFH spaces in the short term could pay off big time in the long run. It's never too late to help employees create a productive and healthy WFH lifestyle.
 
@@ -332,7 +291,6 @@ For business leaders, investing in remote employees’ WFH spaces in the short t
  - [https://www.forbes.com/sites/davidbressan/2022/11/21/todays-google-doodle-celebrates-the-life-and-legacy-of-american-geologist-marie-tharp-who-helped-prove-plate-tectonics/](https://www.forbes.com/sites/davidbressan/2022/11/21/todays-google-doodle-celebrates-the-life-and-legacy-of-american-geologist-marie-tharp-who-helped-prove-plate-tectonics/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 12:21:16+00:00
- - tags: None
 
 Today’s Google Doodle celebrates the life and legacy of Marie Tharp, an American geologist and oceanographic cartographer who helped prove the theory of plate tectonics.
 
@@ -340,7 +298,6 @@ Today’s Google Doodle celebrates the life and legacy of Marie Tharp, an Americ
  - [https://www.forbes.com/sites/forbestechcouncil/2022/11/21/salesforce-devops-what-to-expect-in-2023-and-how-to-stay-ahead/](https://www.forbes.com/sites/forbestechcouncil/2022/11/21/salesforce-devops-what-to-expect-in-2023-and-how-to-stay-ahead/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 12:15:00+00:00
- - tags: None
 
 Based on my industry experience, here are five factors Salesforce DevOps teams will need to consider to stay ahead of the curve this coming year.
 
@@ -348,7 +305,6 @@ Based on my industry experience, here are five factors Salesforce DevOps teams w
  - [https://www.forbes.com/sites/erikkain/2022/11/21/who-died-on-the-walking-dead-series-finale/](https://www.forbes.com/sites/erikkain/2022/11/21/who-died-on-the-walking-dead-series-finale/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 12:00:00+00:00
- - tags: None
 
 The Walking Dead . . . is dead. Here are all the characters that didn't make it.
 
@@ -356,7 +312,6 @@ The Walking Dead . . . is dead. Here are all the characters that didn't make it.
  - [https://www.forbes.com/sites/forbestechcouncil/2022/11/21/the-wow-factor-3-reasons-why-you-should-track-week-over-week-progress/](https://www.forbes.com/sites/forbestechcouncil/2022/11/21/the-wow-factor-3-reasons-why-you-should-track-week-over-week-progress/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 12:00:00+00:00
- - tags: None
 
 With work becoming increasingly distributed and flexible, here are three reasons why your company should consider tracking week-over-week progress.
 
@@ -364,7 +319,6 @@ With work becoming increasingly distributed and flexible, here are three reasons
  - [https://www.forbes.com/sites/forbestechcouncil/2022/11/21/using-continuous-delivery-as-a-code-implementation-method/](https://www.forbes.com/sites/forbestechcouncil/2022/11/21/using-continuous-delivery-as-a-code-implementation-method/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 11:45:00+00:00
- - tags: None
 
 The practice of continuous delivery has become an integral part of contemporary software engineering, and successfully implementing continuous delivery requires some preparation.
 
@@ -372,7 +326,6 @@ The practice of continuous delivery has become an integral part of contemporary 
  - [https://www.forbes.com/sites/baldwin/2022/11/21/his-clean-energy-fund-was-up-206-in-2020-then-it-crashed-what-should-we-expect-now/](https://www.forbes.com/sites/baldwin/2022/11/21/his-clean-energy-fund-was-up-206-in-2020-then-it-crashed-what-should-we-expect-now/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 11:30:00+00:00
- - tags: None
 
 Invesco stock-index owner Robert Wilder has bet on eco-friendly long shots for years, mostly winning. But it's been a volatile ride.
 
@@ -380,7 +333,6 @@ Invesco stock-index owner Robert Wilder has bet on eco-friendly long shots for y
  - [https://www.forbes.com/sites/forbestechcouncil/2022/11/21/why-forecasting-is-important-for-getting-cloud-costs-under-control/](https://www.forbes.com/sites/forbestechcouncil/2022/11/21/why-forecasting-is-important-for-getting-cloud-costs-under-control/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 11:30:00+00:00
- - tags: None
 
 How can businesses better inform budgets in complex and unpredictable cloud environments?
 
@@ -388,7 +340,6 @@ How can businesses better inform budgets in complex and unpredictable cloud envi
  - [https://www.forbes.com/sites/forbestechcouncil/2022/11/21/ambient-computing-is-at-the-heart-of-the-frictionless-economy/](https://www.forbes.com/sites/forbestechcouncil/2022/11/21/ambient-computing-is-at-the-heart-of-the-frictionless-economy/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 11:15:00+00:00
- - tags: None
 
 The aim is to remove the friction in using technology and, in particular, to help users move away from screens and scanning.
 
@@ -396,7 +347,6 @@ The aim is to remove the friction in using technology and, in particular, to hel
  - [https://www.forbes.com/sites/forbestechcouncil/2022/11/21/building-it-infrastructure-resilience-for-a-digitally-transformed-enterprise/](https://www.forbes.com/sites/forbestechcouncil/2022/11/21/building-it-infrastructure-resilience-for-a-digitally-transformed-enterprise/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 11:00:00+00:00
- - tags: None
 
 Enterprise downtime is more expensive than ever.
 
@@ -404,7 +354,6 @@ Enterprise downtime is more expensive than ever.
  - [https://www.forbes.com/sites/emmawoollacott/2022/11/21/india-to-ease-up-on-cross-border-data-transfers/](https://www.forbes.com/sites/emmawoollacott/2022/11/21/india-to-ease-up-on-cross-border-data-transfers/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 10:30:17+00:00
- - tags: None
 
 India has relaxed its planned restrictions on cross-border data flows, with a revision to its planned data protection laws.
 
@@ -412,7 +361,6 @@ India has relaxed its planned restrictions on cross-border data flows, with a re
  - [https://www.forbes.com/sites/johndrake/2022/11/21/computer-forecasts-expert-judgment-and-chimeric-forecasting-of-infectious-diseases/](https://www.forbes.com/sites/johndrake/2022/11/21/computer-forecasts-expert-judgment-and-chimeric-forecasting-of-infectious-diseases/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 10:00:00+00:00
- - tags: None
 
 Forecasting epidemics of infectious diseases is notoriously hard, but the potential value to society for cracking that scientific nut is tremendous. Now a new approach is on the scene.
 
@@ -420,7 +368,6 @@ Forecasting epidemics of infectious diseases is notoriously hard, but the potent
  - [https://www.forbes.com/sites/jamiehailstone/2022/11/21/can-green-hydrogen-help-heavy-duty-industries-like-steel-decarbonise/](https://www.forbes.com/sites/jamiehailstone/2022/11/21/can-green-hydrogen-help-heavy-duty-industries-like-steel-decarbonise/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 09:03:17+00:00
- - tags: None
 
 Fredrik Mowill, the co-founder and chief executive officer of Oslo-based green hydrogen company Hystar said he believes the process of electrolysis utilizing electricity from renewable sources is the best way to produce emission-free hydrogen.
 
@@ -428,7 +375,6 @@ Fredrik Mowill, the co-founder and chief executive officer of Oslo-based green h
  - [https://www.forbes.com/sites/bernardmarr/2022/11/21/the-top-10-tech-trends-in-2023-everyone-must-be-ready-for/](https://www.forbes.com/sites/bernardmarr/2022/11/21/the-top-10-tech-trends-in-2023-everyone-must-be-ready-for/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 06:39:59+00:00
- - tags: None
 
 What are the biggest tech trends you need to be ready for in 2023? Learn what technologies will gain the most traction in the new year and what you need to do to prepare.
 
@@ -436,7 +382,6 @@ What are the biggest tech trends you need to be ready for in 2023? Learn what te
  - [https://www.forbes.com/sites/brucelee/2022/11/21/bq11-covid-19-variant-resistant-to-all-monoclonal-antibody-treatments/](https://www.forbes.com/sites/brucelee/2022/11/21/bq11-covid-19-variant-resistant-to-all-monoclonal-antibody-treatments/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 05:58:55+00:00
- - tags: None
 
 The BQ.1.1 subvariant is now causing an estimated 24.2% of all new reported Covid-19 cases while the BQ.1 subvariant has been the culprit behind 25.5% of them.
 
@@ -444,7 +389,6 @@ The BQ.1.1 subvariant is now causing an estimated 24.2% of all new reported Covi
  - [https://www.forbes.com/sites/stuartanderson/2022/11/21/immigrants-and-international-students-boost-exports/](https://www.forbes.com/sites/stuartanderson/2022/11/21/immigrants-and-international-students-boost-exports/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 05:05:59+00:00
- - tags: None
 
 New research finds immigrants and international students benefit their host country by boosting exports, creating jobs and wealth.
 
@@ -452,7 +396,6 @@ New research finds immigrants and international students benefit their host coun
  - [https://www.forbes.com/sites/krisholt/2022/11/20/todays-quordle-answers-and-clues-for-monday-november-21/](https://www.forbes.com/sites/krisholt/2022/11/20/todays-quordle-answers-and-clues-for-monday-november-21/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 03:50:51+00:00
- - tags: None
 
 Some hints and the solution for today's 'Quordle' are just ahead.
 
@@ -460,7 +403,6 @@ Some hints and the solution for today's 'Quordle' are just ahead.
  - [https://www.forbes.com/sites/krisholt/2022/11/20/todays-heardle-answer-and-clues-for-monday-november-21/](https://www.forbes.com/sites/krisholt/2022/11/20/todays-heardle-answer-and-clues-for-monday-november-21/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 03:45:07+00:00
- - tags: None
 
 Here's today's 'Heardle' song, along with some hints.
 
@@ -468,7 +410,6 @@ Here's today's 'Heardle' song, along with some hints.
  - [https://www.forbes.com/sites/erikkain/2022/11/20/the-walking-dead-series-finale-review-rest-in-peace/](https://www.forbes.com/sites/erikkain/2022/11/20/the-walking-dead-series-finale-review-rest-in-peace/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 03:30:28+00:00
- - tags: None
 
 The Walking Dead ends its eleven-season run with a finale that's better than I expected, but still very much a mixed bag.
 
@@ -476,7 +417,6 @@ The Walking Dead ends its eleven-season run with a finale that's better than I e
  - [https://www.forbes.com/sites/erikkain/2022/11/20/todays-wordle-520-hints-clues-and-answer-for-monday-november-21st/](https://www.forbes.com/sites/erikkain/2022/11/20/todays-wordle-520-hints-clues-and-answer-for-monday-november-21st/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 03:30:00+00:00
- - tags: None
 
 How to solve today's Wordle.
 
@@ -484,7 +424,6 @@ How to solve today's Wordle.
  - [https://www.forbes.com/sites/brookecrothers/2022/11/20/electric-cars-vs-gas-cars-2023-old-habits-die-hard/](https://www.forbes.com/sites/brookecrothers/2022/11/20/electric-cars-vs-gas-cars-2023-old-habits-die-hard/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 02:20:12+00:00
- - tags: None
 
 You have to own an EV to fully understand the benefits.
 
@@ -492,7 +431,6 @@ You have to own an EV to fully understand the benefits.
  - [https://www.forbes.com/sites/brucelee/2022/11/20/elon-musks-twitter-poll-about-donald-trump-5-reasons-it-was-unscientific/](https://www.forbes.com/sites/brucelee/2022/11/20/elon-musks-twitter-poll-about-donald-trump-5-reasons-it-was-unscientific/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 01:38:29+00:00
- - tags: None
 
 How many of votes for reinstating Trump's Twitter account were bots or the same person responding over and over again?
 
@@ -500,7 +438,6 @@ How many of votes for reinstating Trump's Twitter account were bots or the same 
  - [https://www.forbes.com/sites/jamiecartereurope/2022/11/20/winter-stars-a-crescent-moon-and-earthshine-what-to-see-in-the-night-sky-this-week/](https://www.forbes.com/sites/jamiecartereurope/2022/11/20/winter-stars-a-crescent-moon-and-earthshine-what-to-see-in-the-night-sky-this-week/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 01:00:00+00:00
- - tags: None
 
 The celestial highlights for the week ahead include a beautiful crescent Moon, reflected "planet-shine" on the Moon and plenty of dark nights for top-draw stargazing.
 
@@ -508,6 +445,5 @@ The celestial highlights for the week ahead include a beautiful crescent Moon, r
  - [https://www.forbes.com/sites/bradmoon/2022/11/20/review-electrohome-montrose-record-player--mckinley-powered-bookshelf-speakers-offer-big-value/](https://www.forbes.com/sites/bradmoon/2022/11/20/review-electrohome-montrose-record-player--mckinley-powered-bookshelf-speakers-offer-big-value/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-21 00:03:21+00:00
- - tags: None
 
 Audio systems that include a record player in the $200 range tend to underwhelm in both quality and sound. The new Electrohome Montrose Record Player + McKinley Powered Bookshelf Speakers bundle costs just $199, looks good, delivers stereo sound, and features an Audio Technica cartridge.

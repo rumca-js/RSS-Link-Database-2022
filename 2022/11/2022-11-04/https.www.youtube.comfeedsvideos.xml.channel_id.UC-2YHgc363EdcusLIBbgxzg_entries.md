@@ -1,10 +1,9 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
+# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
 
 ## The Oldest Continuously Inhabited City In The World #shorts
  - [https://www.youtube.com/watch?v=OkkFFaWmmtk](https://www.youtube.com/watch?v=OkkFFaWmmtk)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
  - date published: 2022-11-04 15:00:14+00:00
- - tags: None
 
 Jericho was founded when the world was still recovering from the last ice age. And people still live there. That's insane.
 

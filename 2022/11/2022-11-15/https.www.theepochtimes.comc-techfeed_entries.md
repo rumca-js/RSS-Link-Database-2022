@@ -1,10 +1,9 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/
+# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
 
 ## More Than a Million Creditors Could Be Affected by FTX Fallout
  - [https://www.theepochtimes.com/more-than-a-million-creditors-could-be-affected-by-ftx-fallout_4864728.html](https://www.theepochtimes.com/more-than-a-million-creditors-could-be-affected-by-ftx-fallout_4864728.html)
  - RSS feed: https://www.theepochtimes.com/c-tech/feed/
  - date published: 2022-11-15 18:14:26+00:00
- - tags: None
 
 The FTX logo and mobile app adverts are displayed on screens in London, England, on Nov. 10, 2022. (Leon Neal/Getty Images)
 
@@ -12,7 +11,6 @@ The FTX logo and mobile app adverts are displayed on screens in London, England,
  - [https://www.theepochtimes.com/elon-musks-spacex-buys-ad-campaign-on-twitter-for-starlink_4861725.html](https://www.theepochtimes.com/elon-musks-spacex-buys-ad-campaign-on-twitter-for-starlink_4861725.html)
  - RSS feed: https://www.theepochtimes.com/c-tech/feed/
  - date published: 2022-11-15 08:22:43+00:00
- - tags: None
 
 An exterior of the SpaceX headquarters in Hawthorne, Calif., on May 29, 2014. (Mario Anzuoni /Reuters)
 
@@ -20,7 +18,6 @@ An exterior of the SpaceX headquarters in Hawthorne, Calif., on May 29, 2014. (M
  - [https://www.theepochtimes.com/prosecutors-seek-15-years-for-elizabeth-holmes-over-theranos-fraud_4862202.html](https://www.theepochtimes.com/prosecutors-seek-15-years-for-elizabeth-holmes-over-theranos-fraud_4862202.html)
  - RSS feed: https://www.theepochtimes.com/c-tech/feed/
  - date published: 2022-11-15 07:46:16+00:00
- - tags: None
 
 Theranos founder Elizabeth Holmes and her family leave the federal courthouse after attending her fraud trial in San Jose, Calif., on Jan. 3, 2022. (Brittany Hosea-Small/Reuters)
 
@@ -28,7 +25,6 @@ Theranos founder Elizabeth Holmes and her family leave the federal courthouse af
  - [https://www.theepochtimes.com/australia-uk-ireland-and-fiji-regulators-to-push-for-online-safety-laws_4863595.html](https://www.theepochtimes.com/australia-uk-ireland-and-fiji-regulators-to-push-for-online-safety-laws_4863595.html)
  - RSS feed: https://www.theepochtimes.com/c-tech/feed/
  - date published: 2022-11-15 05:24:33+00:00
- - tags: None
 
 A sonnet, a limerick, or a haiku is, at heart, a social media post or a meme. (13_Phunkod/Shutterstock)
 
@@ -36,6 +32,5 @@ A sonnet, a limerick, or a haiku is, at heart, a social media post or a meme. (1
  - [https://www.theepochtimes.com/battle-over-the-iphone-app-store-spills-into-appeals-court_4861664.html](https://www.theepochtimes.com/battle-over-the-iphone-app-store-spills-into-appeals-court_4861664.html)
  - RSS feed: https://www.theepochtimes.com/c-tech/feed/
  - date published: 2022-11-15 03:25:20+00:00
- - tags: None
 
 An Apple logo adorns the facade of the downtown Brooklyn Apple store in New York on March 14, 2020. (Kathy Willens/AP Photo)

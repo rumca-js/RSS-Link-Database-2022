@@ -1,10 +1,9 @@
-# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
+# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, Source language: en-US
 
 ## RexCast #32 ┃SIX CENTERS OF POWER
  - [https://www.youtube.com/watch?v=nsO_4ui6POE](https://www.youtube.com/watch?v=nsO_4ui6POE)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
  - date published: 2022-11-18 21:10:36+00:00
- - tags: None
 
 ⭐ Superchats for comments and questions: 
 https://entropystream.live/app/RexCast
@@ -70,7 +69,6 @@ https://felixrex.net/2022/09/notes-for-bingo-strippers-or-euthanasia-choose-your
  - [https://www.youtube.com/watch?v=3GuapXC1Dpc](https://www.youtube.com/watch?v=3GuapXC1Dpc)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
  - date published: 2022-11-18 16:16:47+00:00
- - tags: None
 
 🔴Grab Atlas VPN with 85% OFF using my link: https://get.atlasvpn.com/BlackPigeonSpeaks
 

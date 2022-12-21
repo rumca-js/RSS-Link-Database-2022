@@ -1,10 +1,9 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss
+# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
 
 ## At least 21 dead after fire breaks out in Gaza residential building, says Interior Ministry
  - [https://www.cnn.com/2022/11/17/middleeast/gaza-fire-building-refugee-camp-intl/index.html](https://www.cnn.com/2022/11/17/middleeast/gaza-fire-building-refugee-camp-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-17 23:30:54+00:00
- - tags: None
 
 At least 21 people, including whole families and children, were killed when a fire broke out at a residential building in a refugee camp in northern Gaza on Thursday, according to Palestinian authorities in Gaza.
 
@@ -12,7 +11,6 @@ At least 21 people, including whole families and children, were killed when a fi
  - [https://www.cnn.com/2022/11/17/americas/mexico-helicopter-crash-state-security-intl/index.html](https://www.cnn.com/2022/11/17/americas/mexico-helicopter-crash-state-security-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-17 22:35:32+00:00
- - tags: None
 
 The state security chief of the central Mexican state of Aguascalientes was among the five people who died in a helicopter crash, according to the state's governor.
 
@@ -20,7 +18,6 @@ The state security chief of the central Mexican state of Aguascalientes was amon
  - [https://www.cnn.com/travel/article/london-heathrow-airport-strike-disruption/index.html](https://www.cnn.com/travel/article/london-heathrow-airport-strike-disruption/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-17 22:05:44+00:00
- - tags: None
 
 London's Heathrow Airport is facing "major disruption" as 350 ground handlers are set to begin a three-day strike over pay on Friday, the Unite union said Thursday.
 
@@ -28,7 +25,6 @@ London's Heathrow Airport is facing "major disruption" as 350 ground handlers ar
  - [https://www.cnn.com/2022/11/17/americas/cuba-families-protesters-us-officials-intl/index.html](https://www.cnn.com/2022/11/17/americas/cuba-families-protesters-us-officials-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-17 21:30:57+00:00
- - tags: None
 
 United States officials criticized the Cuban government on Wednesday for what it described as "inhumane" interference with the families of jailed Cuban protesters, some of whom were prevented from meeting with US diplomats in Havana.
 
@@ -36,7 +32,6 @@ United States officials criticized the Cuban government on Wednesday for what it
  - [https://www.cnn.com/2022/11/17/us/cbp-agent-death-puerto-rico-shootout/index.html](https://www.cnn.com/2022/11/17/us/cbp-agent-death-puerto-rico-shootout/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-17 20:53:18+00:00
- - tags: None
 
 One US Customs and Border Protection agent is dead and two others injured after a shootout with suspected drug smugglers off the coast of Puerto Rico, according to agency spokesperson Jeffrey Quiñones.
 
@@ -44,7 +39,6 @@ One US Customs and Border Protection agent is dead and two others injured after 
  - [https://www.cnn.com/2022/11/17/tech/brian-chesky-airbnb/index.html](https://www.cnn.com/2022/11/17/tech/brian-chesky-airbnb/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-17 18:13:06+00:00
- - tags: None
 
 After years of seemingly unstoppable growth, the tech industry is now facing the "ultimate reality check" as it confronts broader economic uncertainty and waves of layoffs, Airbnb CEO Brian Chesky told CNN on Thursday.
 
@@ -52,7 +46,6 @@ After years of seemingly unstoppable growth, the tech industry is now facing the
  - [https://www.cnn.com/2022/11/17/business/uk-budget-autumn-statement/index.html](https://www.cnn.com/2022/11/17/business/uk-budget-autumn-statement/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-17 16:36:14+00:00
- - tags: None
 
 The United Kingdom has already entered a recession and is battling decades-high inflation, eroding standards of living for millions of people across the country. Now, Britons must also stomach higher taxes and reductions to public services as the government tries to get its finances on more solid footing — underscoring the tough road ahead.
 
@@ -60,7 +53,6 @@ The United Kingdom has already entered a recession and is battling decades-high 
  - [https://www.cnn.com/2022/11/17/success/401k-savings-fidelity/index.html](https://www.cnn.com/2022/11/17/success/401k-savings-fidelity/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-17 13:02:33+00:00
- - tags: None
 
 Stocks and bonds have been turning in volatile, bearish performances this year in an economy marked by high inflation and rising interest rates. But that hasn't deterred most retirement savers, especially the youngest ones.
 
@@ -68,7 +60,6 @@ Stocks and bonds have been turning in volatile, bearish performances this year i
  - [https://www.cnn.com/2022/11/17/investing/singapore-temasek-writes-down-ftx-intl-hnk/index.html](https://www.cnn.com/2022/11/17/investing/singapore-temasek-writes-down-ftx-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-17 06:01:30+00:00
- - tags: None
 
 Singapore has become the latest backer of crypto exchange FTX to admit being burned by its spectacular collapse.
 
@@ -76,7 +67,6 @@ Singapore has become the latest backer of crypto exchange FTX to admit being bur
  - [https://www.cnn.com/2022/11/17/tech/uk-blocks-chinese-takeover-chipmaker-intl-hnk/index.html](https://www.cnn.com/2022/11/17/tech/uk-blocks-chinese-takeover-chipmaker-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-17 05:22:07+00:00
- - tags: None
 
 The UK government has ordered a Chinese-owned company to unwind its takeover of Britain's biggest chipmaker, citing national security concerns.
 
@@ -84,6 +74,5 @@ The UK government has ordered a Chinese-owned company to unwind its takeover of 
  - [https://www.cnn.com/2022/11/16/asia/north-korea-ballistic-missile-intl-hnk/index.html](https://www.cnn.com/2022/11/16/asia/north-korea-ballistic-missile-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-17 02:49:38+00:00
- - tags: None
 
 North Korea fired one short-range ballistic missile into waters off the east coast of the Korean Peninsula on Thursday, according to South Korean military officials.

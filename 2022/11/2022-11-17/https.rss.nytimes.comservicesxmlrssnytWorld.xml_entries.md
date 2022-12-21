@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## 21 Killed in Fast-Moving Gaza Fire in Jabaliya Neighborhood
  - [https://www.nytimes.com/2022/11/17/world/middleeast/gaza-fire-jabaliya.html](https://www.nytimes.com/2022/11/17/world/middleeast/gaza-fire-jabaliya.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-17 23:30:23+00:00
- - tags: None
 
 A family celebration turned deadly, and officials said that gasoline stored in an apartment fueled the fire and contributed to the high death toll.
 
@@ -12,7 +11,6 @@ A family celebration turned deadly, and officials said that gasoline stored in a
  - [https://www.nytimes.com/2022/11/17/briefing/mh17-ukraine-convictions-asia.html](https://www.nytimes.com/2022/11/17/briefing/mh17-ukraine-convictions-asia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-17 21:31:55+00:00
- - tags: None
 
 Plus, Nancy Pelosi leaves leadership and the week in culture.
 
@@ -20,7 +18,6 @@ Plus, Nancy Pelosi leaves leadership and the week in culture.
  - [https://www.nytimes.com/2022/11/17/world/europe/brittney-griner-russia-penal-colony.html](https://www.nytimes.com/2022/11/17/world/europe/brittney-griner-russia-penal-colony.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-17 20:59:51+00:00
- - tags: None
 
 The W.N.B.A. star, who has been detained in Russia since February, is facing nine years in a Russian prison on a drug charge.
 
@@ -28,7 +25,6 @@ The W.N.B.A. star, who has been detained in Russia since February, is facing nin
  - [https://www.nytimes.com/2022/11/17/science/retired-nuclear-bombs-b83.html](https://www.nytimes.com/2022/11/17/science/retired-nuclear-bombs-b83.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-17 20:54:36+00:00
- - tags: None
 
 The Biden administration has called for the retirement of the B83 superweapon, but nuclear experts say its most destructive parts will live on indefinitely in one form or another.
 
@@ -36,7 +32,6 @@ The Biden administration has called for the retirement of the B83 superweapon, b
  - [https://www.nytimes.com/2022/11/17/world/europe/flight-mh17-russia-dutch-court.html](https://www.nytimes.com/2022/11/17/world/europe/flight-mh17-russia-dutch-court.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-17 20:48:15+00:00
- - tags: None
 
 The victim’s families drew some solace from the verdict, which placed responsibility for the tragedy squarely with Moscow, but the men found guilty may never be arrested.
 
@@ -44,7 +39,6 @@ The victim’s families drew some solace from the verdict, which placed responsi
  - [https://www.nytimes.com/2022/11/17/world/middleeast/egypt-alaa-abd-el-fattah.html](https://www.nytimes.com/2022/11/17/world/middleeast/egypt-alaa-abd-el-fattah.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-17 20:04:16+00:00
- - tags: None
 
 Alaa Abd El Fattah, who is being given nutrients intravenously, told his relatives he collapsed in prison but planned to resume his hunger strike again.
 
@@ -52,7 +46,6 @@ Alaa Abd El Fattah, who is being given nutrients intravenously, told his relativ
  - [https://www.nytimes.com/2022/11/17/climate/fda-lab-grown-cultivated-meat.html](https://www.nytimes.com/2022/11/17/climate/fda-lab-grown-cultivated-meat.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-17 19:21:45+00:00
- - tags: None
 
 In a first step toward cultivated meat reaching dinner tables and restaurant menus, regulators said that a start-up company’s chicken was safe to eat.
 
@@ -60,7 +53,6 @@ In a first step toward cultivated meat reaching dinner tables and restaurant men
  - [https://www.nytimes.com/2022/11/17/world/europe/uk-budget-key-proposals.html](https://www.nytimes.com/2022/11/17/world/europe/uk-budget-key-proposals.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-17 17:48:36+00:00
- - tags: None
 
 The government’s budget proposal, known as the Autumn Statement, will lead to £55 billion in tax rises and spending cuts to fill a massive funding gap. Here are five takeaways.
 
@@ -68,7 +60,6 @@ The government’s budget proposal, known as the Autumn Statement, will lead to 
  - [https://www.nytimes.com/2022/11/17/world/europe/russia-alexei-navalny-solitary-confinement.html](https://www.nytimes.com/2022/11/17/world/europe/russia-alexei-navalny-solitary-confinement.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-17 17:32:07+00:00
- - tags: None
 
 The Russian opposition leader has been jailed since March 2021 after surviving an assassination attempt that American intelligence agencies blamed on Russian security agents.
 
@@ -76,7 +67,6 @@ The Russian opposition leader has been jailed since March 2021 after surviving a
  - [https://www.nytimes.com/2022/11/17/climate/biniaz-climate-united-nations.html](https://www.nytimes.com/2022/11/17/climate/biniaz-climate-united-nations.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-17 17:19:43+00:00
- - tags: None
 
 Sue Biniaz is considered one of the most innovative American legal minds when it comes to climate negotiations. She once rescued a collapsing deal by using quotation marks.
 
@@ -84,7 +74,6 @@ Sue Biniaz is considered one of the most innovative American legal minds when it
  - [https://www.nytimes.com/2022/11/17/world/asia/seoul-itaewon-crowd-crush.html](https://www.nytimes.com/2022/11/17/world/asia/seoul-itaewon-crowd-crush.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-17 15:06:57+00:00
- - tags: None
 
 An analysis, based on official documents and parliamentary testimony, reveals a series of missed opportunities to prevent a disaster that led to the death of more than 150 people in Seoul.
 
@@ -92,7 +81,6 @@ An analysis, based on official documents and parliamentary testimony, reveals a 
  - [https://www.nytimes.com/2022/11/17/world/europe/mh17-verdict-crash-ukraine-russia.html](https://www.nytimes.com/2022/11/17/world/europe/mh17-verdict-crash-ukraine-russia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-17 14:49:45+00:00
- - tags: None
 
 The verdict offers a bare measure of justice for the 298 people killed in the downing of the jet, but it may set an example for possible prosecutions of Russian crimes during the current war.
 
@@ -100,7 +88,6 @@ The verdict offers a bare measure of justice for the 298 people killed in the do
  - [https://www.nytimes.com/2022/11/17/climate/divided-congress-climate.html](https://www.nytimes.com/2022/11/17/climate/divided-congress-climate.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-17 13:57:20+00:00
- - tags: None
 
 A split Congress makes it unlikely that Republicans will undo Biden’s climate legislation, but they’re likely to try to slow it. There may also be room for agreement on infrastructure.
 
@@ -108,7 +95,6 @@ A split Congress makes it unlikely that Republicans will undo Biden’s climate 
  - [https://www.nytimes.com/2022/11/17/world/asia/myanmar-political-prisoners-amnesty.html](https://www.nytimes.com/2022/11/17/world/asia/myanmar-political-prisoners-amnesty.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-17 13:46:37+00:00
- - tags: None
 
 Among those released were Victoria Bowman, the former diplomat, and Sean Turnell, an Australian economic adviser to Myanmar’s imprisoned civilian leader, Daw Aung San Suu Kyi.
 
@@ -116,7 +102,6 @@ Among those released were Victoria Bowman, the former diplomat, and Sean Turnell
  - [https://www.nytimes.com/2022/11/17/world/europe/a-dutch-court-will-deliver-a-verdict-today-in-the-mh17-crash-which-killed-298-people.html](https://www.nytimes.com/2022/11/17/world/europe/a-dutch-court-will-deliver-a-verdict-today-in-the-mh17-crash-which-killed-298-people.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-17 13:22:13+00:00
- - tags: None
 
 
 
@@ -124,7 +109,6 @@ Among those released were Victoria Bowman, the former diplomat, and Sean Turnell
  - [https://www.nytimes.com/2022/11/17/world/europe/uk-budget-tax-recession-economy.html](https://www.nytimes.com/2022/11/17/world/europe/uk-budget-tax-recession-economy.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-17 12:37:55+00:00
- - tags: None
 
 The government is betting that the plan will put public finances back on sound footing but acknowledges that the measures are likely to deepen the economic misery for Britons.
 
@@ -132,7 +116,6 @@ The government is betting that the plan will put public finances back on sound f
  - [https://www.nytimes.com/2022/11/17/briefing/crypto-collapse-ftx.html](https://www.nytimes.com/2022/11/17/briefing/crypto-collapse-ftx.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-17 11:37:04+00:00
- - tags: None
 
 The failure of the cryptocurrency exchange FTX put the entire industry under scrutiny.
 
@@ -140,7 +123,6 @@ The failure of the cryptocurrency exchange FTX put the entire industry under scr
  - [https://www.nytimes.com/2022/11/17/world/middleeast/iran-protests-wounded.html](https://www.nytimes.com/2022/11/17/world/middleeast/iran-protests-wounded.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-17 11:01:28+00:00
- - tags: None
 
 Most who took part in antigovernment rallies try to stay below the radar in their own country, but some, particularly those injured in the crackdown, have been forced to flee.
 
@@ -148,7 +130,6 @@ Most who took part in antigovernment rallies try to stay below the radar in thei
  - [https://www.nytimes.com/2022/11/17/world/europe/russian-attacks-on-ukraines-power-grid-are-endangering-its-nuclear-plants-a-un-agency-warns.html](https://www.nytimes.com/2022/11/17/world/europe/russian-attacks-on-ukraines-power-grid-are-endangering-its-nuclear-plants-a-un-agency-warns.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-17 10:45:59+00:00
- - tags: None
 
 The director of the International Atomic Energy Agency called the effect of the strikes on the energy grid “very concerning.”
 
@@ -156,7 +137,6 @@ The director of the International Atomic Energy Agency called the effect of the 
  - [https://www.nytimes.com/2022/11/17/t-magazine/travel-destinations-experiences.html](https://www.nytimes.com/2022/11/17/t-magazine/travel-destinations-experiences.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-17 10:01:10+00:00
- - tags: None
 
 A pair of internationally minded writers, a chef, an architect and a landscape photographer made a list of the most extraordinary adventures a person should seek out. Here are the results.
 
@@ -164,7 +144,6 @@ A pair of internationally minded writers, a chef, an architect and a landscape p
  - [https://www.nytimes.com/2022/11/17/world/africa/madagascar-climate-change-drought-cyclone.html](https://www.nytimes.com/2022/11/17/world/africa/madagascar-climate-change-drought-cyclone.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-17 10:00:39+00:00
- - tags: None
 
 Droughts, cyclones and floods have forced the people of Madagascar, a poor country in the southern Indian Ocean, to find new homes, new livelihoods and even new diets.
 
@@ -172,7 +151,6 @@ Droughts, cyclones and floods have forced the people of Madagascar, a poor count
  - [https://www.nytimes.com/live/2022/11/17/world/russia-ukraine-war-news](https://www.nytimes.com/live/2022/11/17/world/russia-ukraine-war-news)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-17 08:28:31+00:00
- - tags: None
 
 Men with ties to the Russian security services are accused in the MH17 disaster, which happened in the midst of a conflict that foreshadowed Russia’s invasion of Ukraine this year.
 
@@ -180,7 +158,6 @@ Men with ties to the Russian security services are accused in the MH17 disaster,
  - [https://www.nytimes.com/2022/11/17/world/europe/uk-budget-taxes.html](https://www.nytimes.com/2022/11/17/world/europe/uk-budget-taxes.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-17 08:23:01+00:00
- - tags: None
 
 Tax increases and spending cuts are expected as the government tries to stabilize its finances and reassure financial markets.
 
@@ -188,7 +165,6 @@ Tax increases and spending cuts are expected as the government tries to stabiliz
  - [https://www.nytimes.com/2022/11/17/briefing/missiles-poland-explosion-britain-republicans.html](https://www.nytimes.com/2022/11/17/briefing/missiles-poland-explosion-britain-republicans.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-17 06:35:44+00:00
- - tags: None
 
 Tensions over a missile blast in Poland are easing after an investigation that suggested it was an accident.
 
@@ -196,7 +172,6 @@ Tensions over a missile blast in Poland are easing after an investigation that s
  - [https://www.nytimes.com/2022/11/17/world/europe/mh17-crash-timeline.html](https://www.nytimes.com/2022/11/17/world/europe/mh17-crash-timeline.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-17 06:04:06+00:00
- - tags: None
 
 The disaster claimed 298 civilian lives, and came in the midst of a conflict that foreshadowed Russia’s full-scale invasion of Ukraine.
 
@@ -204,7 +179,6 @@ The disaster claimed 298 civilian lives, and came in the midst of a conflict tha
  - [https://www.nytimes.com/2022/11/16/world/europe/nato-article-4-poland-ukraine.html](https://www.nytimes.com/2022/11/16/world/europe/nato-article-4-poland-ukraine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-17 05:21:01+00:00
- - tags: None
 
 The provisions are core parts of the NATO charter, but are not often invoked.
 
@@ -212,7 +186,6 @@ The provisions are core parts of the NATO charter, but are not often invoked.
  - [https://www.nytimes.com/2022/11/17/world/europe/ukraine-electricity-water-infrastructure.html](https://www.nytimes.com/2022/11/17/world/europe/ukraine-electricity-water-infrastructure.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-17 05:01:12+00:00
- - tags: None
 
 This week’s assault hit at least 15 energy facilities — some for the fifth or sixth time — forcing controlled blackouts in every part of the country.
 
@@ -220,7 +193,6 @@ This week’s assault hit at least 15 energy facilities — some for the fifth o
  - [https://www.nytimes.com/2022/11/16/world/corrections-nov-17-2022.html](https://www.nytimes.com/2022/11/16/world/corrections-nov-17-2022.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-17 00:44:08+00:00
- - tags: None
 
 Corrections that appeared in print on Thursday, Nov. 17, 2022.
 
@@ -228,6 +200,5 @@ Corrections that appeared in print on Thursday, Nov. 17, 2022.
  - [https://www.nytimes.com/2022/11/16/world/europe/ukraine-russia-poland-explosion.html](https://www.nytimes.com/2022/11/16/world/europe/ukraine-russia-poland-explosion.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-17 00:00:11+00:00
- - tags: None
 
 NATO and Polish officials said that it was a Ukrainian missile that crossed the border and killed two people, but that Russia bore the blame.

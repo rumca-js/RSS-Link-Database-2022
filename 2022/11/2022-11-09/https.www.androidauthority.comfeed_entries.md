@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## New leak reveals the complete specs of the OnePlus Nord CE 3
  - [https://www.androidauthority.com/oneplus-nord-ce-3-leak-3233173/](https://www.androidauthority.com/oneplus-nord-ce-3-leak-3233173/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-09 19:27:03+00:00
- - tags: None
 
 The Nord CE 3 could be bigger and have an improved main camera compared to its predecessor.
 
@@ -12,7 +11,6 @@ The Nord CE 3 could be bigger and have an improved main camera compared to its p
  - [https://www.androidauthority.com/google-nest-mini-deal-nov-2022-3233181/](https://www.androidauthority.com/google-nest-mini-deal-nov-2022-3233181/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-09 19:03:04+00:00
- - tags: None
 
 The normal price is $49, so this is a 62% discount.
 
@@ -20,7 +18,6 @@ The normal price is $49, so this is a 62% discount.
  - [https://www.androidauthority.com/how-to-facetime-on-apple-watch-3232647/](https://www.androidauthority.com/how-to-facetime-on-apple-watch-3232647/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-09 18:44:06+00:00
- - tags: None
 
 Make audio calls from your Apple Watch, without cellular data.
 
@@ -28,7 +25,6 @@ Make audio calls from your Apple Watch, without cellular data.
  - [https://www.androidauthority.com/disney-plus-gift-cards-2-3233137/](https://www.androidauthority.com/disney-plus-gift-cards-2-3233137/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-09 18:43:42+00:00
- - tags: None
 
 Give the gift of Disney Plus.
 
@@ -36,7 +32,6 @@ Give the gift of Disney Plus.
  - [https://www.androidauthority.com/google-stadia-refunds-3233130/](https://www.androidauthority.com/google-stadia-refunds-3233130/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-09 18:38:49+00:00
- - tags: None
 
 The refunds for Stadia will be processed automatically.
 
@@ -44,7 +39,6 @@ The refunds for Stadia will be processed automatically.
  - [https://www.androidauthority.com/best-sports-documentaries-3232029/](https://www.androidauthority.com/best-sports-documentaries-3232029/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-09 18:14:14+00:00
- - tags: None
 
 From football to racing, this list has something for everyone.
 
@@ -52,7 +46,6 @@ From football to racing, this list has something for everyone.
  - [https://www.androidauthority.com/how-to-pair-samsung-galaxy-buds-3232775/](https://www.androidauthority.com/how-to-pair-samsung-galaxy-buds-3232775/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-09 17:20:22+00:00
- - tags: None
 
 Galaxy Buds work better in Samsung's ecosystem, but you can still connect them elsewhere.
 
@@ -60,7 +53,6 @@ Galaxy Buds work better in Samsung's ecosystem, but you can still connect them e
  - [https://www.androidauthority.com/vpn-by-google-one-desktop-windows-mac-3233024/](https://www.androidauthority.com/vpn-by-google-one-desktop-windows-mac-3233024/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-09 17:00:54+00:00
- - tags: None
 
 Here's how you can download the desktop version of VPN by Google One.
 
@@ -68,7 +60,6 @@ Here's how you can download the desktop version of VPN by Google One.
  - [https://www.androidauthority.com/samsung-rollable-phone-2-3233078/](https://www.androidauthority.com/samsung-rollable-phone-2-3233078/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-09 16:43:52+00:00
- - tags: None
 
 Samsung's dominance in the foldable market may convince others to take interest in rollables before Samsung.
 
@@ -76,7 +67,6 @@ Samsung's dominance in the foldable market may convince others to take interest 
  - [https://www.androidauthority.com/google-pixel-watch-vs-samsung-galaxy-watch-5-3231716/](https://www.androidauthority.com/google-pixel-watch-vs-samsung-galaxy-watch-5-3231716/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-09 15:59:56+00:00
- - tags: None
 
 Which Wear OS device is the best fit for your wrist?
 
@@ -84,7 +74,6 @@ Which Wear OS device is the best fit for your wrist?
  - [https://www.androidauthority.com/wallpaper-wednesday-nov-09-2022-3232070/](https://www.androidauthority.com/wallpaper-wednesday-nov-09-2022-3232070/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-09 14:30:48+00:00
- - tags: None
 
 Here is a weekly selection of Android wallpapers created by our readers and members of the Android Authority team!
 
@@ -92,7 +81,6 @@ Here is a weekly selection of Android wallpapers created by our readers and memb
  - [https://www.androidauthority.com/red-bull-e-scooter-3232975/](https://www.androidauthority.com/red-bull-e-scooter-3232975/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-09 09:23:06+00:00
- - tags: None
 
 This racing-inspired e-scooter is a surprisingly practical city runabout.
 
@@ -100,7 +88,6 @@ This racing-inspired e-scooter is a surprisingly practical city runabout.
  - [https://www.androidauthority.com/daily-authority-november-9-2022-3232957/](https://www.androidauthority.com/daily-authority-november-9-2022-3232957/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-09 08:58:30+00:00
- - tags: None
 
 A Pixel-only feature may be a game-changer for all Android users, a Pixel 8 leak, and more top tech news of the day.
 
@@ -108,7 +95,6 @@ A Pixel-only feature may be a game-changer for all Android users, a Pixel 8 leak
  - [https://www.androidauthority.com/how-many-google-accounts-poll-3231780/](https://www.androidauthority.com/how-many-google-accounts-poll-3231780/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-09 08:30:13+00:00
- - tags: None
 
 There are several reasons to have more than one Google account.
 
@@ -116,7 +102,6 @@ There are several reasons to have more than one Google account.
  - [https://www.androidauthority.com/twitter-official-accounts-3232963/](https://www.androidauthority.com/twitter-official-accounts-3232963/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-09 07:20:49+00:00
- - tags: None
 
 Governments, companies, and distinguished individuals could soon benefit from an additional verification tag.
 
@@ -124,7 +109,6 @@ Governments, companies, and distinguished individuals could soon benefit from an
  - [https://www.androidauthority.com/samsung-galaxy-z-flip-4-maison-margiela-edition-3232904/](https://www.androidauthority.com/samsung-galaxy-z-flip-4-maison-margiela-edition-3232904/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-09 05:42:01+00:00
- - tags: None
 
 The Galaxy Z Flip 4 Maison Margiela Edition will be available starting next month.
 
@@ -132,6 +116,5 @@ The Galaxy Z Flip 4 Maison Margiela Edition will be available starting next mont
  - [https://www.androidauthority.com/strava-membership-3231073/](https://www.androidauthority.com/strava-membership-3231073/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-09 03:00:19+00:00
- - tags: None
 
 Upgrade your account for even more stats.

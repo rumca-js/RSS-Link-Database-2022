@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## Want to disinfect your iPhone? Go to a McDonald's restroom
  - [https://www.zdnet.com/article/want-to-disinfect-your-iphone-go-to-a-mcdonalds-restroom/#ftag=RSSbaffb68](https://www.zdnet.com/article/want-to-disinfect-your-iphone-go-to-a-mcdonalds-restroom/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-05 12:00:25+00:00
- - tags: None
 
 You've never seen anything like this. Well, I certainly haven't.
 
@@ -12,7 +11,6 @@ You've never seen anything like this. Well, I certainly haven't.
  - [https://www.zdnet.com/article/southwest-airlines-just-made-a-twisted-admission-thatll-infuriate-customers/#ftag=RSSbaffb68](https://www.zdnet.com/article/southwest-airlines-just-made-a-twisted-admission-thatll-infuriate-customers/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-05 11:00:26+00:00
- - tags: None
 
 It didn't have to be this way, but everyone booking for the holidays had better beware.
 
@@ -20,7 +18,6 @@ It didn't have to be this way, but everyone booking for the holidays had better 
  - [https://www.zdnet.com/article/best-computer/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-computer/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-05 02:53:00+00:00
- - tags: None
 
 Whether you're looking for a laptop, a Mac, a Chromebook, or a gaming PC, the best computer for you is out there. These are our top picks.
 
@@ -28,7 +25,6 @@ Whether you're looking for a laptop, a Mac, a Chromebook, or a gaming PC, the be
  - [https://www.zdnet.com/article/gift-card/#ftag=RSSbaffb68](https://www.zdnet.com/article/gift-card/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-05 02:37:00+00:00
- - tags: None
 
 Gift cards don't just cover the bill at brick-and-mortar retailers anymore. Check out these holiday gift card ideas for people who love tech and gadgets, and best of all, they can all be purchased and used online.
 
@@ -36,7 +32,6 @@ Gift cards don't just cover the bill at brick-and-mortar retailers anymore. Chec
  - [https://www.zdnet.com/article/early-black-friday-headphone-deals-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-black-friday-headphone-deals-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-05 01:15:13+00:00
- - tags: None
 
 Everyone deserves a new pair of headphones for the holidays -- especially if they're at half the price.
 
@@ -44,7 +39,6 @@ Everyone deserves a new pair of headphones for the holidays -- especially if the
  - [https://www.zdnet.com/home-and-office/hp-black-friday-deals-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/hp-black-friday-deals-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-05 00:59:00+00:00
- - tags: None
 
 HP is best known as one of the biggest PC makers out there, but the company also produces great monitors, printers, and accessories. Let's take a look at what deals are available for its products leading up to this year's Black Friday extravaganza.
 
@@ -52,7 +46,6 @@ HP is best known as one of the biggest PC makers out there, but the company also
  - [https://www.zdnet.com/home-and-office/early-hp-black-friday-deals-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/early-hp-black-friday-deals-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-05 00:59:00+00:00
- - tags: None
 
 HP is best known as one of the biggest PC makers out there, but the company also produces great monitors, printers, and accessories. Let's take a look at what deals are available for its products leading up to this year's Black Friday extravaganza.
 
@@ -60,7 +53,6 @@ HP is best known as one of the biggest PC makers out there, but the company also
  - [https://www.zdnet.com/article/early-apple-black-friday-deals-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-apple-black-friday-deals-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-05 00:51:00+00:00
- - tags: None
 
 If someone on your holiday shopping list already owns an Apple device, they will likely be ecstatic to find another Apple product they can add to their ecosystem under the tree. If you want to buy an Apple product without breaking the bank, here are some great deals.
 
@@ -68,7 +60,6 @@ If someone on your holiday shopping list already owns an Apple device, they will
  - [https://www.zdnet.com/home-and-office/early-black-friday-monitor-deals-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/early-black-friday-monitor-deals-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-05 00:44:49+00:00
- - tags: None
 
 Your monitor is the main point of communication between you and your PC, so it's of the utmost importance that you're using a good quality display with a size and spec sheet that suits your needs, regardless of whether your a straightlaced office worker or a hardcore gamer.
 
@@ -76,7 +67,6 @@ Your monitor is the main point of communication between you and your PC, so it's
  - [https://www.zdnet.com/home-and-office/smart-office/early-samsung-black-friday-deals-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-office/early-samsung-black-friday-deals-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-05 00:17:42+00:00
- - tags: None
 
 Calling all Samsung fans! Let this early Black Friday deals hub serve as your home ground for the latest and best savings on Samsung Galaxy smartphones, wearables, TVs, appliances, and more.
 
@@ -84,6 +74,5 @@ Calling all Samsung fans! Let this early Black Friday deals hub serve as your ho
  - [https://www.zdnet.com/article/early-samsung-black-friday-deals-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-samsung-black-friday-deals-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-05 00:17:00+00:00
- - tags: None
 
 Calling all Samsung fans! Let this early Black Friday deals hub serve as your home ground for the latest and best savings on Samsung Galaxy smartphones, wearables, TVs, appliances, and more.

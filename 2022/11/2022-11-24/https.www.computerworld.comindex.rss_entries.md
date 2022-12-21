@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Meta teaches an AI to lie, strategize
  - [https://www.computerworld.com/article/3681330/meta-teaches-an-ai-to-lie-strategize.html#tk.rss_all](https://www.computerworld.com/article/3681330/meta-teaches-an-ai-to-lie-strategize.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-24 18:13:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3681109/changes-to-googles-employee-appraisal-system-stir-layoff-fears.html#tk.rss_all](https://www.computerworld.com/article/3681109/changes-to-googles-employee-appraisal-system-stir-layoff-fears.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-24 00:41:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

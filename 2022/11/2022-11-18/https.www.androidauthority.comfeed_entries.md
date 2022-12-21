@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## Here’s how to watch the World Cup on your mobile device
  - [https://www.androidauthority.com/watch-the-world-cup-on-mobile-device-fifa-3236562/](https://www.androidauthority.com/watch-the-world-cup-on-mobile-device-fifa-3236562/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-18 20:28:05+00:00
- - tags: None
 
 Cord-cutters have a few options for tuning into the global tournament.
 
@@ -12,7 +11,6 @@ Cord-cutters have a few options for tuning into the global tournament.
  - [https://www.androidauthority.com/samsung-black-friday-phone-deals-3236580/](https://www.androidauthority.com/samsung-black-friday-phone-deals-3236580/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-18 19:08:17+00:00
- - tags: None
 
 Samsung is offering epic savings on its Galaxy flagships, sparking a deals war with Amazon for your business.
 
@@ -20,7 +18,6 @@ Samsung is offering epic savings on its Galaxy flagships, sparking a deals war w
  - [https://www.androidauthority.com/samsung-android-14-rollout-3236549/](https://www.androidauthority.com/samsung-android-14-rollout-3236549/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-18 18:17:29+00:00
- - tags: None
 
 Samsung plans on strengthening its relationship with Google to release the next update faster.
 
@@ -28,7 +25,6 @@ Samsung plans on strengthening its relationship with Google to release the next 
  - [https://www.androidauthority.com/how-to-measure-blood-oxygen-apple-watch-3236264/](https://www.androidauthority.com/how-to-measure-blood-oxygen-apple-watch-3236264/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-18 17:25:57+00:00
- - tags: None
 
 Keep close tabs on your health and fitness.
 
@@ -36,7 +32,6 @@ Keep close tabs on your health and fitness.
  - [https://www.androidauthority.com/the-chosen-season-3-3235941/](https://www.androidauthority.com/the-chosen-season-3-3235941/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-18 17:05:14+00:00
- - tags: None
 
 The series about the life of Jesus Christ will premiere its third season in movie theaters.
 
@@ -44,7 +39,6 @@ The series about the life of Jesus Christ will premiere its third season in movi
  - [https://www.androidauthority.com/oneplus-11-ceramic-body-3236506/](https://www.androidauthority.com/oneplus-11-ceramic-body-3236506/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-18 16:57:17+00:00
- - tags: None
 
 A leak has revealed details about the design, selfie camera, and storage.
 
@@ -52,7 +46,6 @@ A leak has revealed details about the design, selfie camera, and storage.
  - [https://www.androidauthority.com/snapdragon-8-gen-2-vs-dimensity-9200-3236000/](https://www.androidauthority.com/snapdragon-8-gen-2-vs-dimensity-9200-3236000/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-18 15:00:18+00:00
- - tags: None
 
 There are plenty of differences between the two SoCs, but what does this mean for performance?
 
@@ -60,7 +53,6 @@ There are plenty of differences between the two SoCs, but what does this mean fo
  - [https://www.androidauthority.com/phone-support-dual-sims-poll-3236423/](https://www.androidauthority.com/phone-support-dual-sims-poll-3236423/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-18 12:34:15+00:00
- - tags: None
 
 Rocking a phone with two physical SIMs, a physical SIM and eSIM, or two eSIMs? Let us know via our featured poll!
 
@@ -68,7 +60,6 @@ Rocking a phone with two physical SIMs, a physical SIM and eSIM, or two eSIMs? L
  - [https://www.androidauthority.com/daily-authority-november-18-2022-3236364/](https://www.androidauthority.com/daily-authority-november-18-2022-3236364/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-18 11:30:52+00:00
- - tags: None
 
 Interview with crypto celebrity Sam Bankman-Fried, Diablo Immortal gaming phones, a massive Eiffel Tower Lego set, and more!
 
@@ -76,7 +67,6 @@ Interview with crypto celebrity Sam Bankman-Fried, Diablo Immortal gaming phones
  - [https://www.androidauthority.com/best-podcasts-on-spotify-3229857/](https://www.androidauthority.com/best-podcasts-on-spotify-3229857/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-18 10:56:35+00:00
- - tags: None
 
 From comedy and culture to history, business, and more, here are the podcasts to listen to on Spotify.
 
@@ -84,7 +74,6 @@ From comedy and culture to history, business, and more, here are the podcasts to
  - [https://www.androidauthority.com/make-live-wallpaper-3236356/](https://www.androidauthority.com/make-live-wallpaper-3236356/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-18 10:15:50+00:00
- - tags: None
 
 Bring life to your phone!
 
@@ -92,7 +81,6 @@ Bring life to your phone!
  - [https://www.androidauthority.com/resurrect-dead-smartphone-brand-poll-results-3236355/](https://www.androidauthority.com/resurrect-dead-smartphone-brand-poll-results-3236355/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-18 08:46:54+00:00
- - tags: None
 
 It turns out that you really want BlackBerry to make a comeback.
 
@@ -100,7 +88,6 @@ It turns out that you really want BlackBerry to make a comeback.
  - [https://www.androidauthority.com/xiaomi-outward-folding-foldable-phone-prototype-3236342/](https://www.androidauthority.com/xiaomi-outward-folding-foldable-phone-prototype-3236342/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-18 07:04:27+00:00
- - tags: None
 
 An intriguing look at a device that looks more like the Mate X series.
 
@@ -108,7 +95,6 @@ An intriguing look at a device that looks more like the Mate X series.
  - [https://www.androidauthority.com/best-spoof-call-apps-android-1038299/](https://www.androidauthority.com/best-spoof-call-apps-android-1038299/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-18 06:00:10+00:00
- - tags: None
 
 Looking to pull a prank on a friend? We can help! Here are the best spoof call apps and fake call apps for Android!
 
@@ -116,6 +102,5 @@ Looking to pull a prank on a friend? We can help! Here are the best spoof call a
  - [https://www.androidauthority.com/samsung-galaxy-a52-stable-android-13-update-one-ui-5-3236337/](https://www.androidauthority.com/samsung-galaxy-a52-stable-android-13-update-one-ui-5-3236337/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-18 05:53:59+00:00
- - tags: None
 
 The 2021 mid-ranger is also getting in on the stable One UI 5 action.

@@ -1,10 +1,9 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss
+# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
 
 ## Arlo's new Pro 5S offers top-of-the-line security features – if you can afford it
  - [https://www.techradar.com/news/arlos-new-pro-5s-offers-top-of-the-line-security-features-if-you-can-afford-it/](https://www.techradar.com/news/arlos-new-pro-5s-offers-top-of-the-line-security-features-if-you-can-afford-it/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-02 22:44:04+00:00
- - tags: None
 
 The Pro 5S adds data encryption and connectivity during power outages, but requires you to buy a $200 security system.
 
@@ -12,7 +11,6 @@ The Pro 5S adds data encryption and connectivity during power outages, but requi
  - [https://www.techradar.com/news/new-phishing-campaign-lures-victims-with-new-elon-musk-twitter-verification-rules/](https://www.techradar.com/news/new-phishing-campaign-lures-victims-with-new-elon-musk-twitter-verification-rules/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-02 21:01:30+00:00
- - tags: None
 
 No, the Twitter blue checkmark doesn't cost $20 and no, you won't get it for free.
 
@@ -20,7 +18,6 @@ No, the Twitter blue checkmark doesn't cost $20 and no, you won't get it for fre
  - [https://www.techradar.com/news/bitdefender-wants-to-help-protect-your-live-chat/](https://www.techradar.com/news/bitdefender-wants-to-help-protect-your-live-chat/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-02 20:16:56+00:00
- - tags: None
 
 Bitdefender claims industry-first tool to help users spot threats delivered via messenging tools like WhatsApp.
 
@@ -28,7 +25,6 @@ Bitdefender claims industry-first tool to help users spot threats delivered via 
  - [https://www.techradar.com/news/facebook-makes-it-easier-to-earn-money-from-reels-online/](https://www.techradar.com/news/facebook-makes-it-easier-to-earn-money-from-reels-online/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-02 18:50:40+00:00
- - tags: None
 
 Facebook expands professional mode feature to help content creators build an online presence and social media following.
 
@@ -36,7 +32,6 @@ Facebook expands professional mode feature to help content creators build an onl
  - [https://www.techradar.com/news/wordpress-updates-its-website-builder-for-the-third-time-this-year/](https://www.techradar.com/news/wordpress-updates-its-website-builder-for-the-third-time-this-year/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-02 18:09:15+00:00
- - tags: None
 
 WordPress 6.1 offers new design features and tools aimed at easing the site building experience.
 
@@ -44,7 +39,6 @@ WordPress 6.1 offers new design features and tools aimed at easing the site buil
  - [https://www.techradar.com/news/amd-promises-powerful-rdna-3-gpus-with-a-secret-weapon/](https://www.techradar.com/news/amd-promises-powerful-rdna-3-gpus-with-a-secret-weapon/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-02 17:50:43+00:00
- - tags: None
 
 Namely something for high-fps gaming – and given that Nvidia now has DLSS 3, we’ve got a fair guess what AMD has up its sleeve.
 
@@ -52,7 +46,6 @@ Namely something for high-fps gaming – and given that Nvidia now has DLSS 3, w
  - [https://www.techradar.com/news/hbo-confirms-the-last-of-us-tv-show-release-date-following-hbo-max-leak/](https://www.techradar.com/news/hbo-confirms-the-last-of-us-tv-show-release-date-following-hbo-max-leak/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-02 17:39:24+00:00
- - tags: None
 
 HBO has officially set the release date for its The Last of Us TV show.
 
@@ -60,7 +53,6 @@ HBO has officially set the release date for its The Last of Us TV show.
  - [https://www.techradar.com/news/this-malicious-vpn-targets-android-devices-with-spyware/](https://www.techradar.com/news/this-malicious-vpn-targets-android-devices-with-spyware/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-02 17:04:00+00:00
- - tags: None
 
 Followers of a small religion are being targeted for their sensitive information, Kaspersky finds.
 
@@ -68,7 +60,6 @@ Followers of a small religion are being targeted for their sensitive information
  - [https://www.techradar.com/news/severance-season-2-everything-we-know-so-far/](https://www.techradar.com/news/severance-season-2-everything-we-know-so-far/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-02 17:00:53+00:00
- - tags: None
 
 Here's everything you need to know about Severance season 2 on Apple TV Plus.
 
@@ -76,7 +67,6 @@ Here's everything you need to know about Severance season 2 on Apple TV Plus.
  - [https://www.techradar.com/news/psvr-2-preorders/](https://www.techradar.com/news/psvr-2-preorders/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-02 16:47:44+00:00
- - tags: None
 
 Here's where you can register your interest in a PlayStation VR 2 before preorders open on November 15.
 
@@ -84,7 +74,6 @@ Here's where you can register your interest in a PlayStation VR 2 before preorde
  - [https://www.techradar.com/news/your-android-smartphone-could-be-your-biggest-word-or-powerpoint-helper/](https://www.techradar.com/news/your-android-smartphone-could-be-your-biggest-word-or-powerpoint-helper/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-02 16:36:52+00:00
- - tags: None
 
 Additional Android integration is coming to Microsoft 365 web offering, and you won’t need to switch between devices all the time, either.
 
@@ -92,7 +81,6 @@ Additional Android integration is coming to Microsoft 365 web offering, and you 
  - [https://www.techradar.com/news/the-apple-stores-dollar330-level-lock-plus-smart-lock-isnt-as-secure-as-youd-think/](https://www.techradar.com/news/the-apple-stores-dollar330-level-lock-plus-smart-lock-isnt-as-secure-as-youd-think/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-02 16:30:31+00:00
- - tags: None
 
 The Level Lock Plus smart lock sold at the Apple Store isn't as secure as its $330 price implies; one expert has shown that a novice could pick it open.
 
@@ -100,7 +88,6 @@ The Level Lock Plus smart lock sold at the Apple Store isn't as secure as its $3
  - [https://www.techradar.com/news/these-malicious-android-apps-have-been-downloaded-over-a-million-times/](https://www.techradar.com/news/these-malicious-android-apps-have-been-downloaded-over-a-million-times/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-02 15:58:38+00:00
- - tags: None
 
 Utility apps spreading trojans through the Play Store again, placing more than a million Android users at risk.
 
@@ -108,7 +95,6 @@ Utility apps spreading trojans through the Play Store again, placing more than a
  - [https://www.techradar.com/news/rtx-4090-too-much-for-your-psu-theres-a-cheap-new-intel-gpu-instead/](https://www.techradar.com/news/rtx-4090-too-much-for-your-psu-theres-a-cheap-new-intel-gpu-instead/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-02 15:41:20+00:00
- - tags: None
 
 An Intel Arc A380 from Acer is now listed on Amazon, with price and availability yet to be seen.
 
@@ -116,7 +102,6 @@ An Intel Arc A380 from Acer is now listed on Amazon, with price and availability
  - [https://www.techradar.com/news/us-banks-processed-over-dollar1-billion-in-ransomware-payments-last-year/](https://www.techradar.com/news/us-banks-processed-over-dollar1-billion-in-ransomware-payments-last-year/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-02 15:15:35+00:00
- - tags: None
 
 The number of reported ransomware incidents increased by almost 200% year-on-year.
 
@@ -124,7 +109,6 @@ The number of reported ransomware incidents increased by almost 200% year-on-yea
  - [https://www.techradar.com/news/most-of-us-are-still-reusing-passwords-despite-all-the-warnings/](https://www.techradar.com/news/most-of-us-are-still-reusing-passwords-despite-all-the-warnings/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-02 14:46:39+00:00
- - tags: None
 
 LastPass finds majority of consumers across every demographic are still reusing passwords.
 
@@ -132,7 +116,6 @@ LastPass finds majority of consumers across every demographic are still reusing 
  - [https://www.techradar.com/news/psvr-2-finally-has-a-price-and-release-date-and-its-more-expensive-than-a-ps5/](https://www.techradar.com/news/psvr-2-finally-has-a-price-and-release-date-and-its-more-expensive-than-a-ps5/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-02 14:04:53+00:00
- - tags: None
 
 Sony just announced the price and release date for the PSVR 2 headset, and the price tag might shock you
 
@@ -140,7 +123,6 @@ Sony just announced the price and release date for the PSVR 2 headset, and the p
  - [https://www.techradar.com/news/dropbox-reveals-data-breach-after-phishing-attack-let-hackers-access-its-private-code/](https://www.techradar.com/news/dropbox-reveals-data-breach-after-phishing-attack-let-hackers-access-its-private-code/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-02 14:02:29+00:00
- - tags: None
 
 However the incident is more of a nuisance than an actual problem, Dropbox reassures users.
 
@@ -148,7 +130,6 @@ However the incident is more of a nuisance than an actual problem, Dropbox reass
  - [https://www.techradar.com/news/avatar-the-way-of-water-looks-absolutely-stunning-and-its-new-trailer-proves-it/](https://www.techradar.com/news/avatar-the-way-of-water-looks-absolutely-stunning-and-its-new-trailer-proves-it/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-02 13:41:56+00:00
- - tags: None
 
 The official trailer for the long overdue Avatar sequel shows off the film's gorgeous visuals in spectacular fashion.
 
@@ -156,7 +137,6 @@ The official trailer for the long overdue Avatar sequel shows off the film's gor
  - [https://www.techradar.com/news/black-panther-wakanda-forever-cast-are-as-surprised-as-you-are-about-a-possible-namor-spin-off/](https://www.techradar.com/news/black-panther-wakanda-forever-cast-are-as-surprised-as-you-are-about-a-possible-namor-spin-off/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-02 13:20:08+00:00
- - tags: None
 
 The stars of Black Panther: Wakanda Forever have no idea if those Namor spin-off project rumors are true.
 
@@ -164,7 +144,6 @@ The stars of Black Panther: Wakanda Forever have no idea if those Namor spin-off
  - [https://www.techradar.com/news/nvidia-rtx-4090-graphics-card-from-galax-guzzles-1000w-via-twin-power-cables/](https://www.techradar.com/news/nvidia-rtx-4090-graphics-card-from-galax-guzzles-1000w-via-twin-power-cables/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-02 13:05:12+00:00
- - tags: None
 
 Isn’t this a bad idea? On the face of it, perhaps, but the Galax RTX 4090 HOF is not your average graphics card.
 
@@ -172,7 +151,6 @@ Isn’t this a bad idea? On the face of it, perhaps, but the Galax RTX 4090 HOF 
  - [https://www.techradar.com/news/google-hangouts-is-officially-closing-for-good/](https://www.techradar.com/news/google-hangouts-is-officially-closing-for-good/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-02 12:28:45+00:00
- - tags: None
 
 It's finally time to say goodbye to Google Hangouts.
 
@@ -180,7 +158,6 @@ It's finally time to say goodbye to Google Hangouts.
  - [https://www.techradar.com/news/xiaomi-12s-ultra-concept-fixes-the-cameraphones-biggest-problem/](https://www.techradar.com/news/xiaomi-12s-ultra-concept-fixes-the-cameraphones-biggest-problem/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-02 11:05:47+00:00
- - tags: None
 
 Xiaomi has revealed a concept phone that supports detachable Leica M-series lenses.
 
@@ -188,7 +165,6 @@ Xiaomi has revealed a concept phone that supports detachable Leica M-series lens
  - [https://www.techradar.com/news/rejoice-task-manager-is-finally-getting-a-search-bar-in-a-future-windows-11-update/](https://www.techradar.com/news/rejoice-task-manager-is-finally-getting-a-search-bar-in-a-future-windows-11-update/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-02 10:47:49+00:00
- - tags: None
 
 Microsoft is testing a search bar in Task Manager, saving you having to find a non-responding app in a long list.
 
@@ -196,7 +172,6 @@ Microsoft is testing a search bar in Task Manager, saving you having to find a n
  - [https://www.techradar.com/news/is-your-mattress-causing-you-back-pain/](https://www.techradar.com/news/is-your-mattress-causing-you-back-pain/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-02 10:13:24+00:00
- - tags: None
 
 Believe it or not, your bed can cause back pain. We asked several medical experts to share tell-tale signs to look for.
 
@@ -204,7 +179,6 @@ Believe it or not, your bed can cause back pain. We asked several medical expert
  - [https://www.techradar.com/news/live/dji-launch-live-we-count-down-to-take-off-for-the-rumored-new-mavic-drone/](https://www.techradar.com/news/live/dji-launch-live-we-count-down-to-take-off-for-the-rumored-new-mavic-drone/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-02 08:19:35+00:00
- - tags: None
 
 DJI is hosting a major launch event today – and the rumors suggest we'll see a new version of its Mavic 3 drone.
 
@@ -212,7 +186,6 @@ DJI is hosting a major launch event today – and the rumors suggest we'll see 
  - [https://www.techradar.com/news/no-the-canon-eos-r6-mark-ii-doesnt-have-a-stacked-sensor-but-its-still-a-fine-upgrade/](https://www.techradar.com/news/no-the-canon-eos-r6-mark-ii-doesnt-have-a-stacked-sensor-but-its-still-a-fine-upgrade/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-02 04:00:10+00:00
- - tags: None
 
 The Canon EOS R6 Mark II is a new 24.2MP full-frame mirrorless camera with very few downsides (apart from its price tag).
 
@@ -220,6 +193,5 @@ The Canon EOS R6 Mark II is a new 24.2MP full-frame mirrorless camera with very 
  - [https://www.techradar.com/news/live/fujifilm-launch-live-will-we-see-the-long-awaited-fujifilm-x-t5/](https://www.techradar.com/news/live/fujifilm-launch-live-will-we-see-the-long-awaited-fujifilm-x-t5/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-02 02:41:09+00:00
- - tags: None
 
 Fujifilm is preparing yet another camera launch – and this one could be its most exciting of the year.

@@ -1,10 +1,9 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology
+# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
 
 ## Buying an electric car? These models are made in China.
  - [https://www.washingtonpost.com/business/interactive/2022/ev-made-china/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/business/interactive/2022/ev-made-china/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-25 18:15:00+00:00
- - tags: None
 
 Made-in-China EVs are hitting U.S. dealerships and European auto shows, providing new competition to Western and Japanese automakers.
 
@@ -12,7 +11,6 @@ Made-in-China EVs are hitting U.S. dealerships and European auto shows, providin
  - [https://www.washingtonpost.com/technology/2022/11/25/orion-moon-orbit-distance-record/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/25/orion-moon-orbit-distance-record/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-25 17:53:44+00:00
- - tags: None
 
 Orion should surpass the record for distance from Earth traveled by a spacdraft intended to return astronauts to Earth at 7:42 a.m. Eastern time on Saturday.
 
@@ -20,7 +18,6 @@ Orion should surpass the record for distance from Earth traveled by a spacdraft 
  - [https://www.washingtonpost.com/technology/2022/11/25/walmart-black-friday-sam-walton/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/25/walmart-black-friday-sam-walton/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-25 15:54:45+00:00
- - tags: None
 
 A future of dead founders, patriarchs and presidents walking among us is hinted at in Walmart's hometown of Bentonville, Ark.
 
@@ -28,7 +25,6 @@ A future of dead founders, patriarchs and presidents walking among us is hinted 
  - [https://www.washingtonpost.com/technology/2022/11/25/black-friday-sustainable-shopping/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/25/black-friday-sustainable-shopping/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-25 12:30:19+00:00
- - tags: None
 
 Here's advice on being a climate-conscious shopper this holiday season. Perfection is not required.
 
@@ -36,6 +32,5 @@ Here's advice on being a climate-conscious shopper this holiday season. Perfecti
  - [https://www.washingtonpost.com/technology/2022/11/25/musk-twitter-verified-check-marks/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/25/musk-twitter-verified-check-marks/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-25 10:49:30+00:00
- - tags: None
 
 The second launch follows a chaotic rollout of the feature earlier this month.

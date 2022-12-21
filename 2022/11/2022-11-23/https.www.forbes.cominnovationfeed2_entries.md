@@ -1,10 +1,9 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2
+# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
 
 ## Closing The Cultural Divide in Hybrid And Remote Work
  - [https://www.forbes.com/sites/joemckendrick/2022/11/23/closing-the-cultural-divide-in-hybrid-and-remote-work/](https://www.forbes.com/sites/joemckendrick/2022/11/23/closing-the-cultural-divide-in-hybrid-and-remote-work/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 23:18:34+00:00
- - tags: None
 
 A majority of workers say their leaders think that simply working in an office is what constitutes 'company culture.'
 
@@ -12,7 +11,6 @@ A majority of workers say their leaders think that simply working in an office i
  - [https://www.forbes.com/sites/johnarcher/2022/11/23/sonys-240hz-inzone-m3-gaming-monitor-finally-goes-on-sale-in-europe/](https://www.forbes.com/sites/johnarcher/2022/11/23/sonys-240hz-inzone-m3-gaming-monitor-finally-goes-on-sale-in-europe/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 22:59:02+00:00
- - tags: None
 
 HDR, VRR and fast response times also on the menu
 
@@ -20,7 +18,6 @@ HDR, VRR and fast response times also on the menu
  - [https://www.forbes.com/sites/davidcarlin/2022/11/23/a-guide-to-the-paris-agreement-and-intl-climate-negotiations-part-2/](https://www.forbes.com/sites/davidcarlin/2022/11/23/a-guide-to-the-paris-agreement-and-intl-climate-negotiations-part-2/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 22:57:24+00:00
- - tags: None
 
 Want to understand the state of global climate negotiations? It all ties back to the Paris Agreement. These two articles (this is the 2nd) are an accessible guide to the most important elements and articles of Paris. They will help you follow the latest developments towards our global climate goals.
 
@@ -28,7 +25,6 @@ Want to understand the state of global climate negotiations? It all ties back to
  - [https://www.forbes.com/sites/davidcarlin/2022/11/23/a-guide-to-the-paris-agreement-and-intl-climate-negotiations-part-1/](https://www.forbes.com/sites/davidcarlin/2022/11/23/a-guide-to-the-paris-agreement-and-intl-climate-negotiations-part-1/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 22:31:22+00:00
- - tags: None
 
 Want to understand the state of global climate negotiations? It all ties back to the Paris Agreement. These two articles (this is the 1st) are an accessible guide to the most important elements and articles of Paris. They will help you follow the latest developments towards our global climate goals.
 
@@ -36,7 +32,6 @@ Want to understand the state of global climate negotiations? It all ties back to
  - [https://www.forbes.com/sites/roslynlayton/2022/11/23/seismic-shifts-in-international-data-markets-demand-broadband-internet-policy-update/](https://www.forbes.com/sites/roslynlayton/2022/11/23/seismic-shifts-in-international-data-markets-demand-broadband-internet-policy-update/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 22:24:00+00:00
- - tags: None
 
 The difference between network usage and termination and South Korea’s broadband policy success.
 
@@ -44,7 +39,6 @@ The difference between network usage and termination and South Korea’s broadba
  - [https://www.forbes.com/sites/johndrake/2022/11/23/the-high-price-of-holiday-turkeys-is-a-reminder-that-human-and-animal-health-are-deeply-connected/](https://www.forbes.com/sites/johndrake/2022/11/23/the-high-price-of-holiday-turkeys-is-a-reminder-that-human-and-animal-health-are-deeply-connected/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 22:13:00+00:00
- - tags: None
 
 The US is experiencing its largest avian influenza outbreak ever.
 
@@ -52,7 +46,6 @@ The US is experiencing its largest avian influenza outbreak ever.
  - [https://www.forbes.com/sites/chuckbrooks/2022/11/23/a-boiling-cauldron-cybersecurity-trends-threats-and-predictions-for-2023/](https://www.forbes.com/sites/chuckbrooks/2022/11/23/a-boiling-cauldron-cybersecurity-trends-threats-and-predictions-for-2023/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 22:02:54+00:00
- - tags: None
 
 2023 will face a boiling concoction of new and old cyber-threats. It will be an especially challenging year for all those involved trying to protect their data and for geopolitical stability.
 
@@ -60,7 +53,6 @@ The US is experiencing its largest avian influenza outbreak ever.
  - [https://www.forbes.com/sites/priyashukla/2022/11/23/in-a-rare-occurrence-deep-sea-octopus-eggs-hatch-in-san-diego-laboratory/](https://www.forbes.com/sites/priyashukla/2022/11/23/in-a-rare-occurrence-deep-sea-octopus-eggs-hatch-in-san-diego-laboratory/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 22:00:00+00:00
- - tags: None
 
 A deep sea octopus laid eggs in an aquarium facility, providing a unique opportunity to study the early development of this elusive species.
 
@@ -68,7 +60,6 @@ A deep sea octopus laid eggs in an aquarium facility, providing a unique opportu
  - [https://www.forbes.com/sites/ariannajohnson/2022/11/23/innovationrx-avian-flu-hits-thanksgiving-boosting-boosters-and-antibiotic-resistance-rises-in-uk/](https://www.forbes.com/sites/ariannajohnson/2022/11/23/innovationrx-avian-flu-hits-thanksgiving-boosting-boosters-and-antibiotic-resistance-rises-in-uk/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 21:24:44+00:00
- - tags: None
 
 InnovationRx is your weekly digest of healthcare news. Sign up!
 
@@ -76,7 +67,6 @@ InnovationRx is your weekly digest of healthcare news. Sign up!
  - [https://www.forbes.com/sites/johnkoetsier/2022/11/23/why-twitter-wont-crash-and-die-despite-losing-70-of-staff-former-github-cto/](https://www.forbes.com/sites/johnkoetsier/2022/11/23/why-twitter-wont-crash-and-die-despite-losing-70-of-staff-former-github-cto/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 20:05:10+00:00
- - tags: None
 
 “Twitter — the service — can suffer lots and lots and lots of issues and it will still be a useful/amusing service for many,” he tweeted in a long thread on the topic. “It is not the same as a mission critical product.”
 
@@ -84,7 +74,6 @@ InnovationRx is your weekly digest of healthcare news. Sign up!
  - [https://www.forbes.com/sites/giovannirodriguez/2022/11/23/a-zoom-call-with-marshall-mcluhans-grandson/](https://www.forbes.com/sites/giovannirodriguez/2022/11/23/a-zoom-call-with-marshall-mcluhans-grandson/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 19:54:11+00:00
- - tags: None
 
 It was the opening night of a multi-day festival which looked at the role of contemporary artists who are “interrogating” the media around us in the McLuhan way. But within an hour of arriving, I decided that the subject of my article would be McLuhan himself. Andrew McLuhan, that is, his grandson.
 
@@ -92,7 +81,6 @@ It was the opening night of a multi-day festival which looked at the role of con
  - [https://www.forbes.com/sites/tomward/2022/11/23/mike-cessario-is-a-marketing-genius/](https://www.forbes.com/sites/tomward/2022/11/23/mike-cessario-is-a-marketing-genius/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 19:25:30+00:00
- - tags: None
 
 Mike Cessario made water cool. That's no small feat. Name another water brand that is doing millions of dollars of merch a year.
 
@@ -100,7 +88,6 @@ Mike Cessario made water cool. That's no small feat. Name another water brand th
  - [https://www.forbes.com/sites/petersuciu/2022/11/23/drop-peleton--youtube-channels-allow-cyclists-to-do-the-spin-thing-all-winter/](https://www.forbes.com/sites/petersuciu/2022/11/23/drop-peleton--youtube-channels-allow-cyclists-to-do-the-spin-thing-all-winter/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 19:19:07+00:00
- - tags: None
 
 Winter is coming, and that's typically not welcomed by most "MAMILs" – as in middle-aged men in lycra.
 
@@ -108,7 +95,6 @@ Winter is coming, and that's typically not welcomed by most "MAMILs" – as in m
  - [https://www.forbes.com/sites/williamhaseltine/2022/11/23/do-you-have-the-thin-gene/](https://www.forbes.com/sites/williamhaseltine/2022/11/23/do-you-have-the-thin-gene/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 18:17:51+00:00
- - tags: None
 
 Happy Thanksgiving!  As you dig into your Thanksgiving dinner, a time when many of us overeat, you may well ask: Will I regret it tomorrow when I check my weight? Will it be ok?
 
@@ -116,7 +102,6 @@ Happy Thanksgiving!  As you dig into your Thanksgiving dinner, a time when many 
  - [https://www.forbes.com/sites/forbestechcouncil/2022/11/23/13-resources-tech-leaders-rely-on-for-keeping-up-with-industry-news/](https://www.forbes.com/sites/forbestechcouncil/2022/11/23/13-resources-tech-leaders-rely-on-for-keeping-up-with-industry-news/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 18:15:00+00:00
- - tags: None
 
 The tech industry is constantly in motion, and tech professionals at any level must engage in continuous research and learning to keep up.
 
@@ -124,7 +109,6 @@ The tech industry is constantly in motion, and tech professionals at any level m
  - [https://www.forbes.com/sites/ericmack/2022/11/23/nasa-artemis-i-controllers-briefly-lose-connection-to-orion-capsule-by-moon/](https://www.forbes.com/sites/ericmack/2022/11/23/nasa-artemis-i-controllers-briefly-lose-connection-to-orion-capsule-by-moon/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 18:00:30+00:00
- - tags: None
 
 Mission controllers at Johnson Space Center in Houston lost communication between the uncrewed Orion capsule near the moon and the Deep Space Network over night for nearly an hour before restoring the connection.
 
@@ -132,7 +116,6 @@ Mission controllers at Johnson Space Center in Houston lost communication betwee
  - [https://www.forbes.com/sites/bethkindig/2022/11/23/nvidia-stock-evidence-gaming-bottomed-and-why-its-important/](https://www.forbes.com/sites/bethkindig/2022/11/23/nvidia-stock-evidence-gaming-bottomed-and-why-its-important/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 17:52:07+00:00
- - tags: None
 
 Nvidia has overcome strong headwinds over the past few years, including United States-China tensions, supply chain disruptions spanning many components, tough comps on the data center, tough comps on gaming, and a less-than-rosy macro environment.
 
@@ -140,7 +123,6 @@ Nvidia has overcome strong headwinds over the past few years, including United S
  - [https://www.forbes.com/sites/neilwinton/2022/11/23/if-the-electric-car-revolution-sputters-hydrogen-could-still-succeed/](https://www.forbes.com/sites/neilwinton/2022/11/23/if-the-electric-car-revolution-sputters-hydrogen-could-still-succeed/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 17:22:11+00:00
- - tags: None
 
 The dominance of battery electric vehicles over fossil fuels seems complete in Europe. Sales projections for 2030 and 2035 include expectations for hydrogen fuel cells as a mere rounding item. But electric vehicle shortcomings mean an assault from hydrogen might well be quietly gathering pace.
 
@@ -148,7 +130,6 @@ The dominance of battery electric vehicles over fossil fuels seems complete in E
  - [https://www.forbes.com/sites/stevebanker/2022/11/23/a-better-way-to-think-about-integrated-planning/](https://www.forbes.com/sites/stevebanker/2022/11/23/a-better-way-to-think-about-integrated-planning/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 17:14:57+00:00
- - tags: None
 
 Integrated planning is key to supply chain resilience and agility. But there is a better way to think about what integrated planning needs to be.
 
@@ -156,7 +137,6 @@ Integrated planning is key to supply chain resilience and agility. But there is 
  - [https://www.forbes.com/sites/jenamcgregor/2022/11/23/chros-on-the-future-of-work-ken-chenault-on-the-election-and-a-superstar-returns-to-disneys-helm/](https://www.forbes.com/sites/jenamcgregor/2022/11/23/chros-on-the-future-of-work-ken-chenault-on-the-election-and-a-superstar-returns-to-disneys-helm/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 17:06:22+00:00
- - tags: None
 
 The Forbes Careers newsletter brings the latest news, commentary and ideas about the workplace, leadership and the future of work straight to your inbox every Wednesday. Here is this week's published version.
 
@@ -164,7 +144,6 @@ The Forbes Careers newsletter brings the latest news, commentary and ideas about
  - [https://www.forbes.com/sites/traversmark/2022/11/23/can-psychological-research-help-us-understand-elon-musks-polarizing-brand-of-leadership/](https://www.forbes.com/sites/traversmark/2022/11/23/can-psychological-research-help-us-understand-elon-musks-polarizing-brand-of-leadership/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 16:54:44+00:00
- - tags: None
 
 A leader’s character is often revealed by the decisions they make in a crisis.
 
@@ -172,7 +151,6 @@ A leader’s character is often revealed by the decisions they make in a crisis.
  - [https://www.forbes.com/sites/jenamcgregor/2022/11/23/where-chros-from-walmart-patagonia-moderna-and-more-think-the-future-of-work-is-headed/](https://www.forbes.com/sites/jenamcgregor/2022/11/23/where-chros-from-walmart-patagonia-moderna-and-more-think-the-future-of-work-is-headed/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 16:30:34+00:00
- - tags: None
 
 CHROs at the inaugural Forbes Future of Work Summit Nov. 15 discussed their economic outlook for the year ahead, how they’re thinking about compensation, the growing role of human resources executives and the workplace drama that’s been happening at Twitter.
 
@@ -180,7 +158,6 @@ CHROs at the inaugural Forbes Future of Work Summit Nov. 15 discussed their econ
  - [https://www.forbes.com/sites/paultassi/2022/11/23/god-of-war-ragnarok-is-playstations-fastest-seller-ever-beating-the-last-of-us-part-2/](https://www.forbes.com/sites/paultassi/2022/11/23/god-of-war-ragnarok-is-playstations-fastest-seller-ever-beating-the-last-of-us-part-2/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 15:31:51+00:00
- - tags: None
 
 God of War Ragnarok has just set a PlayStation first party record as its fastest-selling game ever, unseating the previous champion, The Last Of Us Part 2.
 
@@ -188,7 +165,6 @@ God of War Ragnarok has just set a PlayStation first party record as its fastest
  - [https://www.forbes.com/sites/mattgardner1/2022/11/23/wrc-generations-review-a-quiet-end-to-a-great-series/](https://www.forbes.com/sites/mattgardner1/2022/11/23/wrc-generations-review-a-quiet-end-to-a-great-series/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 15:25:02+00:00
- - tags: None
 
 WRC Generations promises to be the definitive end to KT Racing's WRC license, but it goes out with a slight whimper.
 
@@ -196,7 +172,6 @@ WRC Generations promises to be the definitive end to KT Racing's WRC license, bu
  - [https://www.forbes.com/sites/paultassi/2022/11/23/theres-no-fixing-metas-metaverse-scrap-it-start-over/](https://www.forbes.com/sites/paultassi/2022/11/23/theres-no-fixing-metas-metaverse-scrap-it-start-over/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 15:17:31+00:00
- - tags: None
 
 While everyone’s attention is currently focus on Elon Musk’s Twitter takeover, it bears repeating that this the worst place Meta/Facebook has been in for an extremely long time, driven in part by Mark Zuckerberg’s relentless pursuit of his ...
 
@@ -204,7 +179,6 @@ While everyone’s attention is currently focus on Elon Musk’s Twitter takeove
  - [https://www.forbes.com/sites/jonathanponciano/2022/11/23/is-tesla-stock-crash-over-analysts-think-it-might-be-twitter-backlash-now-overdone/](https://www.forbes.com/sites/jonathanponciano/2022/11/23/is-tesla-stock-crash-over-analysts-think-it-might-be-twitter-backlash-now-overdone/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 14:52:56+00:00
- - tags: None
 
 Shares of Tesla have plunged nearly 30% since Musk's acquisition of Twitter closed.
 
@@ -212,7 +186,6 @@ Shares of Tesla have plunged nearly 30% since Musk's acquisition of Twitter clos
  - [https://www.forbes.com/sites/jamiecartereurope/2022/11/23/new-webb-telescope-data-reveals-an-alien-world-like-never-before-next-comes-earth-like-planets/](https://www.forbes.com/sites/jamiecartereurope/2022/11/23/new-webb-telescope-data-reveals-an-alien-world-like-never-before-next-comes-earth-like-planets/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 14:49:40+00:00
- - tags: None
 
 The James Webb Space Telescope just took a molecular and chemical portrait of a distant world’s skies.
 
@@ -220,7 +193,6 @@ The James Webb Space Telescope just took a molecular and chemical portrait of a 
  - [https://www.forbes.com/sites/sap/2022/11/23/automation-is-helping-this-company-inspire-its-employees-and-customers-to-be-more-resourceful/](https://www.forbes.com/sites/sap/2022/11/23/automation-is-helping-this-company-inspire-its-employees-and-customers-to-be-more-resourceful/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 14:46:59+00:00
- - tags: None
 
 This mill company is redesigning and automating its online sales approach to better serve customers. As a result, employees have time to help customers be more innovative.
 
@@ -228,7 +200,6 @@ This mill company is redesigning and automating its online sales approach to bet
  - [https://www.forbes.com/sites/paultassi/2022/11/23/the-ending-of-netflixs-1899-indicates-an-entire-shift-in-genre/](https://www.forbes.com/sites/paultassi/2022/11/23/the-ending-of-netflixs-1899-indicates-an-entire-shift-in-genre/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 14:31:29+00:00
- - tags: None
 
 Netflix’s 1899 has surprised me, managing to reach #1 on the service in the US, passing up other popular series like The Crown and Dead to Me to get to that point.
 
@@ -236,7 +207,6 @@ Netflix’s 1899 has surprised me, managing to reach #1 on the service in the US
  - [https://www.forbes.com/sites/forbestechcouncil/2022/11/23/the-og-nintendo-game-boy-what-a-beloved-gray-brick-can-teach-us-about-understanding-what-consumers-actually-value/](https://www.forbes.com/sites/forbestechcouncil/2022/11/23/the-og-nintendo-game-boy-what-a-beloved-gray-brick-can-teach-us-about-understanding-what-consumers-actually-value/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 14:30:00+00:00
- - tags: None
 
 Game Boy won the market—despite bare-bone features and a gray look—by understanding the true basis of consumer decision-making.
 
@@ -244,7 +214,6 @@ Game Boy won the market—despite bare-bone features and a gray look—by unders
  - [https://www.forbes.com/sites/forbestechcouncil/2022/11/23/avoiding-the-sme-security-trap/](https://www.forbes.com/sites/forbestechcouncil/2022/11/23/avoiding-the-sme-security-trap/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 14:15:00+00:00
- - tags: None
 
 SMEs don’t have to find themselves constantly catching up when it comes to securing their employees and their devices. Here are four critical steps to establishing an effective security perimeter around individuals and the machines they’re using to access company resources.
 
@@ -252,7 +221,6 @@ SMEs don’t have to find themselves constantly catching up when it comes to sec
  - [https://www.forbes.com/sites/paultassi/2022/11/23/marvel-snap-reveals-16-pool-4-and-5-cards-new-way-to-save-for-specific-unlocks/](https://www.forbes.com/sites/paultassi/2022/11/23/marvel-snap-reveals-16-pool-4-and-5-cards-new-way-to-save-for-specific-unlocks/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 14:08:03+00:00
- - tags: None
 
 Here are the new Pool 4 and Pool 5 Marvel Snap cards coming soon.
 
@@ -260,7 +228,6 @@ Here are the new Pool 4 and Pool 5 Marvel Snap cards coming soon.
  - [https://www.forbes.com/sites/forbestechcouncil/2022/11/23/emotion-ai-why-its-the-future-of-digital-health/](https://www.forbes.com/sites/forbestechcouncil/2022/11/23/emotion-ai-why-its-the-future-of-digital-health/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 14:00:00+00:00
- - tags: None
 
 Emotion AI is one of the most important pillars of digital health because if we have a better understanding of what's going on with the patient, we have a better way of treating them.
 
@@ -268,7 +235,6 @@ Emotion AI is one of the most important pillars of digital health because if we 
  - [https://www.forbes.com/sites/forbestechcouncil/2022/11/23/how-to-reach-new-movers-in-the-first-three-months-utilize-both-physical-mailboxes-and-digital-spaces/](https://www.forbes.com/sites/forbestechcouncil/2022/11/23/how-to-reach-new-movers-in-the-first-three-months-utilize-both-physical-mailboxes-and-digital-spaces/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 13:45:00+00:00
- - tags: None
 
 Marketing to new movers is designed to target people who have recently moved—people who have yet to become customers of the businesses in their new town.
 
@@ -276,7 +242,6 @@ Marketing to new movers is designed to target people who have recently moved—p
  - [https://www.forbes.com/sites/paultassi/2022/11/23/destiny-2-hints-at-rasputins-return-in-season-19-during-community-event/](https://www.forbes.com/sites/paultassi/2022/11/23/destiny-2-hints-at-rasputins-return-in-season-19-during-community-event/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 13:38:16+00:00
- - tags: None
 
 Destiny 2 seems to be using the event to possibly hint at what’s coming next season, where we have gotten no real indications about the final seasonal story ahead of Lightfall before this.
 
@@ -284,7 +249,6 @@ Destiny 2 seems to be using the event to possibly hint at what’s coming next s
  - [https://www.forbes.com/sites/bensin/2022/11/23/this-49-ipad-stylus-is-a-great-apple-pencil-alternative-unless-youre-an-artist/](https://www.forbes.com/sites/bensin/2022/11/23/this-49-ipad-stylus-is-a-great-apple-pencil-alternative-unless-youre-an-artist/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 13:35:06+00:00
- - tags: None
 
 If you want a stylus for the iPad but find the Apple Pencil too expensive, this third party option is a great value option.
 
@@ -292,7 +256,6 @@ If you want a stylus for the iPad but find the Apple Pencil too expensive, this 
  - [https://www.forbes.com/sites/williamhaseltine/2022/11/23/crispr-technology-to-simplify-and-enhance-car-t-cancer-treatment/](https://www.forbes.com/sites/williamhaseltine/2022/11/23/crispr-technology-to-simplify-and-enhance-car-t-cancer-treatment/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 13:31:43+00:00
- - tags: None
 
 Researchers find that combining novel gene-editing CRISPR technology with CAR T therapy could simplify and improve CAR T therapy in one fell swoop.
 
@@ -300,7 +263,6 @@ Researchers find that combining novel gene-editing CRISPR technology with CAR T 
  - [https://www.forbes.com/sites/forrester/2022/11/23/holiday-2022-consumers-dont-plan-to-shop-via-social-media/](https://www.forbes.com/sites/forrester/2022/11/23/holiday-2022-consumers-dont-plan-to-shop-via-social-media/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 13:30:00+00:00
- - tags: None
 
 62% of online adults never complete purchases inside social media networks.
 
@@ -308,7 +270,6 @@ Researchers find that combining novel gene-editing CRISPR technology with CAR T 
  - [https://www.forbes.com/sites/forbestechcouncil/2022/11/23/humanizing-the-way-cities-are-built/](https://www.forbes.com/sites/forbestechcouncil/2022/11/23/humanizing-the-way-cities-are-built/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 13:30:00+00:00
- - tags: None
 
 Modular construction and buildings bring a multitude of benefits, including reduced waste, speedy building, cost-effectiveness, eco-friendliness and flexibility.
 
@@ -316,7 +277,6 @@ Modular construction and buildings bring a multitude of benefits, including redu
  - [https://www.forbes.com/sites/williamhaseltine/2022/11/23/hope-for-a-new-treatment-on-the-horizon-for-zika-virus/](https://www.forbes.com/sites/williamhaseltine/2022/11/23/hope-for-a-new-treatment-on-the-horizon-for-zika-virus/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 13:27:19+00:00
- - tags: None
 
 An uncommon monoclonal antibody treatment for Zika Virus may be on the horizon in the wake of new research on the pathogen.
 
@@ -324,7 +284,6 @@ An uncommon monoclonal antibody treatment for Zika Virus may be on the horizon i
  - [https://www.forbes.com/sites/forbestechcouncil/2022/11/23/15-common-conflicts-between-tech-and-sales-teams-and-how-to-resolve-them/](https://www.forbes.com/sites/forbestechcouncil/2022/11/23/15-common-conflicts-between-tech-and-sales-teams-and-how-to-resolve-them/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 13:15:00+00:00
- - tags: None
 
 For companies that sell software or technology products, strong collaboration between the sales team and the tech team is essential.
 
@@ -332,7 +291,6 @@ For companies that sell software or technology products, strong collaboration be
  - [https://www.forbes.com/sites/forbestechcouncil/2022/11/23/how-to-implement-a-climate-strategy-in-the-early-stages-of-your-startup/](https://www.forbes.com/sites/forbestechcouncil/2022/11/23/how-to-implement-a-climate-strategy-in-the-early-stages-of-your-startup/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 13:15:00+00:00
- - tags: None
 
 Let’s look at how startups can implement effective climate strategies in the early stages of their development.
 
@@ -340,7 +298,6 @@ Let’s look at how startups can implement effective climate strategies in the e
  - [https://www.forbes.com/sites/lanceeliot/2022/11/23/meta-ai-unveils-ai-infused-diplomatic-charmer-which-stirs-ai-ethics-and-ai-law-into-indelicate-tiff/](https://www.forbes.com/sites/lanceeliot/2022/11/23/meta-ai-unveils-ai-infused-diplomatic-charmer-which-stirs-ai-ethics-and-ai-law-into-indelicate-tiff/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 13:00:45+00:00
- - tags: None
 
 Meta AI has released a fascinating AI-infused diplomacy acting app that plays the famous board game known as Diplomacy, doing so to a level seemingly on par with human players. We take a close look and assess the AI, along with considering crucial AI Ethics and AI Law facets.
 
@@ -348,7 +305,6 @@ Meta AI has released a fascinating AI-infused diplomacy acting app that plays th
  - [https://www.forbes.com/sites/cyrusfarivar/2022/11/22/meta-layoffs-contract-workers/](https://www.forbes.com/sites/cyrusfarivar/2022/11/22/meta-layoffs-contract-workers/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 13:00:00+00:00
- - tags: None
 
 “There’s been this giant submerged iceberg of blue collar workers that makes the entire thing go.”
 
@@ -356,7 +312,6 @@ Meta AI has released a fascinating AI-infused diplomacy acting app that plays th
  - [https://www.forbes.com/sites/forbestechcouncil/2022/11/23/video-technology-can-reshape-the-future-of-healthcare-if-used-responsibly/](https://www.forbes.com/sites/forbestechcouncil/2022/11/23/video-technology-can-reshape-the-future-of-healthcare-if-used-responsibly/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 13:00:00+00:00
- - tags: None
 
 People deserve the right to feel safe and know that they can trust the way technology is used.
 
@@ -364,7 +319,6 @@ People deserve the right to feel safe and know that they can trust the way techn
  - [https://www.forbes.com/sites/gordonkelly/2022/11/23/apple-iphone-15-pro-max-ultra-design-titanium-iphone-14-pro-max-upgrade/](https://www.forbes.com/sites/gordonkelly/2022/11/23/apple-iphone-15-pro-max-ultra-design-titanium-iphone-14-pro-max-upgrade/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 12:52:05+00:00
- - tags: None
 
 Apple's stunning redesign for the iPhone 15 has leaked...
 
@@ -372,7 +326,6 @@ Apple's stunning redesign for the iPhone 15 has leaked...
  - [https://www.forbes.com/sites/forbestechcouncil/2022/11/23/augmenting-supply-chain-resilience-through-unified-endpoint-management/](https://www.forbes.com/sites/forbestechcouncil/2022/11/23/augmenting-supply-chain-resilience-through-unified-endpoint-management/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 12:45:00+00:00
- - tags: None
 
 Unified endpoint management is a great launching point to secure your devices and improve cyber resilience.
 
@@ -380,7 +333,6 @@ Unified endpoint management is a great launching point to secure your devices an
  - [https://www.forbes.com/sites/alanohnsman/2022/11/23/elon-musk-tesla-stock-twitter/](https://www.forbes.com/sites/alanohnsman/2022/11/23/elon-musk-tesla-stock-twitter/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 12:30:00+00:00
- - tags: None
 
 The electric car company is more valuable than many of its rivals because of investors’ confidence in Elon Musk’s vision, but his ownership of Twitter and increasingly erratic behavior are eroding it.
 
@@ -388,7 +340,6 @@ The electric car company is more valuable than many of its rivals because of inv
  - [https://www.forbes.com/sites/forbestechcouncil/2022/11/23/how-ux-research-helps-brands-stay-competitive-in-an-increasingly-saturated-market/](https://www.forbes.com/sites/forbestechcouncil/2022/11/23/how-ux-research-helps-brands-stay-competitive-in-an-increasingly-saturated-market/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 12:30:00+00:00
- - tags: None
 
 Today’s consumers expect a high-impact digital presence from brands. Slow-loading sites, poor usability and confusing interfaces all contribute to bad UX.
 
@@ -396,7 +347,6 @@ Today’s consumers expect a high-impact digital presence from brands. Slow-load
  - [https://www.forbes.com/sites/forbestechcouncil/2022/11/23/four-impersonation-attacks-organizations-should-be-wary-of/](https://www.forbes.com/sites/forbestechcouncil/2022/11/23/four-impersonation-attacks-organizations-should-be-wary-of/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 12:15:00+00:00
- - tags: None
 
 Deploying a layered strategy built upon an understanding of the latest impersonation techniques, advanced technological defenses and hardening of the human firewall can go a long way to making the organization resilient against sophisticated and targeted phishing attacks.
 
@@ -404,7 +354,6 @@ Deploying a layered strategy built upon an understanding of the latest impersona
  - [https://www.forbes.com/sites/forbestechcouncil/2022/11/23/ai-and-the-future-of-government-work/](https://www.forbes.com/sites/forbestechcouncil/2022/11/23/ai-and-the-future-of-government-work/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 12:00:00+00:00
- - tags: None
 
 AI in the workplace has been met with strong opposition as well as support; either way, automation and AI technologies are here to stay.
 
@@ -412,7 +361,6 @@ AI in the workplace has been met with strong opposition as well as support; eith
  - [https://www.forbes.com/sites/marksparrow/2022/11/23/kandaos-meeting-pro-webcam-makes-meetings-more-inclusive-and-easier-to-follow/](https://www.forbes.com/sites/marksparrow/2022/11/23/kandaos-meeting-pro-webcam-makes-meetings-more-inclusive-and-easier-to-follow/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 12:00:00+00:00
- - tags: None
 
 The Kandao Meeting Pro is a 360˚ webcam with an intelligent system that can track speakers around a meeting table.
 
@@ -420,7 +368,6 @@ The Kandao Meeting Pro is a 360˚ webcam with an intelligent system that can tr
  - [https://www.forbes.com/sites/forbestechcouncil/2022/11/23/three-trends-that-could-shape-the-insurance-industry-in-2023/](https://www.forbes.com/sites/forbestechcouncil/2022/11/23/three-trends-that-could-shape-the-insurance-industry-in-2023/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 11:45:00+00:00
- - tags: None
 
 With ongoing challenges such as inflation, rising interest rates, climate change and talent shortage, here are three trends that will likely shape the insurance industry in 2023 and beyond.
 
@@ -428,7 +375,6 @@ With ongoing challenges such as inflation, rising interest rates, climate change
  - [https://www.forbes.com/sites/omerawan/2022/11/23/physician-licensing-exams-failure-or-success/](https://www.forbes.com/sites/omerawan/2022/11/23/physician-licensing-exams-failure-or-success/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 11:42:10+00:00
- - tags: None
 
 The USMLE, NBME, and FSMB have a real opportunity to promote medical student and physician well-being as well as racial equity by addressing scoring on physician licensing exams.
 
@@ -436,7 +382,6 @@ The USMLE, NBME, and FSMB have a real opportunity to promote medical student and
  - [https://www.forbes.com/sites/forbestechcouncil/2022/11/23/why-we-should-embrace-digital-healthcare/](https://www.forbes.com/sites/forbestechcouncil/2022/11/23/why-we-should-embrace-digital-healthcare/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 11:30:00+00:00
- - tags: None
 
 The application of digital tools to medicine holds the promise to significantly speed up the progress of America's healthcare system toward its four-fold goal of enhanced patient outcomes, improved patient experience, improved provider experience and reduced cost.
 
@@ -444,7 +389,6 @@ The application of digital tools to medicine holds the promise to significantly 
  - [https://www.forbes.com/sites/woodmackenzie/2022/11/23/cop-27--five-key-takeaways/](https://www.forbes.com/sites/woodmackenzie/2022/11/23/cop-27--five-key-takeaways/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 11:23:50+00:00
- - tags: None
 
 A major shift from mitigation to adaptation. Only 26 out of 193 countries had tightened pledges – made a year ago. So what did COP 27 deliver and where did it disappoint? Prakash Sharma, Elena Belletti and Nuomin Han from Wood Mackenzie’s Energy Transition team share their five key takeaways.
 
@@ -452,7 +396,6 @@ A major shift from mitigation to adaptation. Only 26 out of 193 countries had ti
  - [https://www.forbes.com/sites/forbestechcouncil/2022/11/23/the-cloud-higher-educations-next-secret-weapon/](https://www.forbes.com/sites/forbestechcouncil/2022/11/23/the-cloud-higher-educations-next-secret-weapon/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 11:15:00+00:00
- - tags: None
 
 Though the economic outlook appears to paint an even more challenging picture for higher-ed—and the entire business community—going into 2023, advances in the cloud space provide critical answers to tomorrow’s greatest tech challenges
 
@@ -460,7 +403,6 @@ Though the economic outlook appears to paint an even more challenging picture fo
  - [https://www.forbes.com/sites/forbestechcouncil/2022/11/23/when-and-how-to-introduce-ai-into-your-contact-center/](https://www.forbes.com/sites/forbestechcouncil/2022/11/23/when-and-how-to-introduce-ai-into-your-contact-center/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 11:00:00+00:00
- - tags: None
 
 Chatbots have a way of turning on the company by alienating customers—unless you do it right. Remember these simple rules.
 
@@ -468,7 +410,6 @@ Chatbots have a way of turning on the company by alienating customers—unless y
  - [https://www.forbes.com/sites/jonathankeane/2022/11/23/short-term-letting-start-up-ukio-raises-27-million-to-target-flexible-workers/](https://www.forbes.com/sites/jonathankeane/2022/11/23/short-term-letting-start-up-ukio-raises-27-million-to-target-flexible-workers/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 10:25:39+00:00
- - tags: None
 
 Short-term apartment rental start-up Ukio has raised €27 million in a funding round to expand its presence in Western Europe.
 
@@ -476,7 +417,6 @@ Short-term apartment rental start-up Ukio has raised €27 million in a funding 
  - [https://www.forbes.com/sites/russellflannery/2022/11/23/protests-flare-in-china-at-worlds-largest-iphone-factory---reports/](https://www.forbes.com/sites/russellflannery/2022/11/23/protests-flare-in-china-at-worlds-largest-iphone-factory---reports/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 10:24:35+00:00
- - tags: None
 
 Protests come amid a surge in Covid cases in China this month
 
@@ -484,7 +424,6 @@ Protests come amid a surge in Covid cases in China this month
  - [https://www.forbes.com/sites/andrewwilliams/2022/11/23/garmin-fenix-7-vs-fenix-6-which-is-the-best-buy/](https://www.forbes.com/sites/andrewwilliams/2022/11/23/garmin-fenix-7-vs-fenix-6-which-is-the-best-buy/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 10:18:15+00:00
- - tags: None
 
 Should you buy the Garmin Fenix 7 or the older Fenix 6 in late 2022? Here are the key differences.
 
@@ -492,7 +431,6 @@ Should you buy the Garmin Fenix 7 or the older Fenix 6 in late 2022? Here are th
  - [https://www.forbes.com/sites/jamiehailstone/2022/11/23/why-all-eyes-are-on-the-upcoming-negotiations-to-end-plastic-pollution/](https://www.forbes.com/sites/jamiehailstone/2022/11/23/why-all-eyes-are-on-the-upcoming-negotiations-to-end-plastic-pollution/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 09:06:40+00:00
- - tags: None
 
 The WWF's global plastics policy lead, Eirik Lindebjerg, said the negotiations will be a “once in a generation opportunity” to create global rules and regulations on plastic pollution that “will last for decades to come”.
 
@@ -500,7 +438,6 @@ The WWF's global plastics policy lead, Eirik Lindebjerg, said the negotiations w
  - [https://www.forbes.com/sites/dominicdudley/2022/11/23/saudi-arabia-and-israels-nso-face-fresh-spyware-challenge-from-khashoggi-ally/](https://www.forbes.com/sites/dominicdudley/2022/11/23/saudi-arabia-and-israels-nso-face-fresh-spyware-challenge-from-khashoggi-ally/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 09:00:00+00:00
- - tags: None
 
 Saudi Arabia and Israeli tech company NSO are facing another legal challenge in the UK courts, this time brought by British-Jordanian Dr Azzam Tamimi
 
@@ -508,7 +445,6 @@ Saudi Arabia and Israeli tech company NSO are facing another legal challenge in 
  - [https://www.forbes.com/sites/calumchace/2022/11/23/when-will-we-stop-eating-animals/](https://www.forbes.com/sites/calumchace/2022/11/23/when-will-we-stop-eating-animals/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 08:24:26+00:00
- - tags: None
 
 Jacy Reese Anthis is a co-founder of the Sentience Institute and the author of the 2018 book “The End of Animal Farming”.
 
@@ -516,7 +452,6 @@ Jacy Reese Anthis is a co-founder of the Sentience Institute and the author of t
  - [https://www.forbes.com/sites/ronaldsum/2022/11/23/as-hong-kong-prepares-for-the-new-virtual-assets-era-it-must-embrace-innovative-disputes-resolution/](https://www.forbes.com/sites/ronaldsum/2022/11/23/as-hong-kong-prepares-for-the-new-virtual-assets-era-it-must-embrace-innovative-disputes-resolution/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 06:30:50+00:00
- - tags: None
 
 If Hong Kong is to propel itself into the direction of being a hub of virtual assets, it must quickly evolve to be prepared to deal with a raft of novel legal issues when ambitious ventures fail, which a lot of them unfortunately will.
 
@@ -524,7 +459,6 @@ If Hong Kong is to propel itself into the direction of being a hub of virtual as
  - [https://www.forbes.com/sites/jonathanburgos/2022/11/22/tycoon-tony-fernandes-airasia-x-returns-to-the-black-amid-post-pandemic-travel-rebound/](https://www.forbes.com/sites/jonathanburgos/2022/11/22/tycoon-tony-fernandes-airasia-x-returns-to-the-black-amid-post-pandemic-travel-rebound/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 04:02:33+00:00
- - tags: None
 
 AirAsia X—the long-haul airline unit of Malaysian tycoons Tony Fernandes and Kamarudin Meranun’s budget carrier AirAsia Group—returned to the black amid a surge in post-pandemic travel demand.
 
@@ -532,7 +466,6 @@ AirAsia X—the long-haul airline unit of Malaysian tycoons Tony Fernandes and K
  - [https://www.forbes.com/sites/erikkain/2022/11/22/todays-wordle-522-hints-clues-and-answer-for-wednesday-november-23rd/](https://www.forbes.com/sites/erikkain/2022/11/22/todays-wordle-522-hints-clues-and-answer-for-wednesday-november-23rd/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 03:30:37+00:00
- - tags: None
 
 How to solve today's Wordle.
 
@@ -540,7 +473,6 @@ How to solve today's Wordle.
  - [https://www.forbes.com/sites/brianmazique/2022/11/22/ea-sports-college-football-gets-a-release-datesort-of/](https://www.forbes.com/sites/brianmazique/2022/11/22/ea-sports-college-football-gets-a-release-datesort-of/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 02:52:46+00:00
- - tags: None
 
 If you’re like many of us who love sports video games, you’ve gotten wind of the return of college football titles coming soon from EA, but without the NCAA license.
 
@@ -548,7 +480,6 @@ If you’re like many of us who love sports video games, you’ve gotten wind of
  - [https://www.forbes.com/sites/krisholt/2022/11/22/heres-the-overwatch-2-season-2-reveal-timeline-including-when-youll-see-ramattra-gameplay-and-the-new-map/](https://www.forbes.com/sites/krisholt/2022/11/22/heres-the-overwatch-2-season-2-reveal-timeline-including-when-youll-see-ramattra-gameplay-and-the-new-map/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 02:43:06+00:00
- - tags: None
 
 You'll get to see official Ramattra gameplay very soon.
 
@@ -556,7 +487,6 @@ You'll get to see official Ramattra gameplay very soon.
  - [https://www.forbes.com/sites/krisholt/2022/11/22/todays-quordle-answers-and-clues-for-wednesday-november-23/](https://www.forbes.com/sites/krisholt/2022/11/22/todays-quordle-answers-and-clues-for-wednesday-november-23/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 01:59:06+00:00
- - tags: None
 
 Some hints and the solution for today's 'Quordle' are just ahead.
 
@@ -564,7 +494,6 @@ Some hints and the solution for today's 'Quordle' are just ahead.
  - [https://www.forbes.com/sites/krisholt/2022/11/22/todays-heardle-answer-and-clues-for-wednesday-november-23/](https://www.forbes.com/sites/krisholt/2022/11/22/todays-heardle-answer-and-clues-for-wednesday-november-23/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 01:51:36+00:00
- - tags: None
 
 Here's today's 'Heardle' song, along with some hints.
 
@@ -572,7 +501,6 @@ Here's today's 'Heardle' song, along with some hints.
  - [https://www.forbes.com/sites/paulmonckton/2022/11/22/apple-users-report-serious-icloud-problem-corrupts-files-adds-photos-of-strangers/](https://www.forbes.com/sites/paulmonckton/2022/11/22/apple-users-report-serious-icloud-problem-corrupts-files-adds-photos-of-strangers/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 01:26:28+00:00
- - tags: None
 
 Some iCloud users are reporting serious issues, including corrupted videos that now contain still images taken by unknown people.
 
@@ -580,7 +508,6 @@ Some iCloud users are reporting serious issues, including corrupted videos that 
  - [https://www.forbes.com/sites/ewanspence/2022/11/22/apple-store-google-chrome-safari-mobile-duopoly-uk-competition-markets-authority-cma-investigation/](https://www.forbes.com/sites/ewanspence/2022/11/22/apple-store-google-chrome-safari-mobile-duopoly-uk-competition-markets-authority-cma-investigation/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 01:18:48+00:00
- - tags: None
 
 Google and Apple are being investigated by UK authorities over an "effective duopoly" of mobile browser technology.
 
@@ -588,6 +515,5 @@ Google and Apple are being investigated by UK authorities over an "effective duo
  - [https://www.forbes.com/sites/jamiecartereurope/2022/11/22/new-research-suggests-that-earth-formed-much-earlier-than-previously-thought/](https://www.forbes.com/sites/jamiecartereurope/2022/11/22/new-research-suggests-that-earth-formed-much-earlier-than-previously-thought/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-23 01:00:00+00:00
- - tags: None
 
 Earth and the other planets in the solar system may have been around for longer than previously thought according to new research into shredded asteroids in distant "celestial graveyards."

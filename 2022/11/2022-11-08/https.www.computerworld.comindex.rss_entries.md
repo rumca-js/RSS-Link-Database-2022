@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Zoom focuses on email and contact center integrations at Zoomtopia 2022
  - [https://www.computerworld.com/article/3679392/zoom-focuses-on-email-and-contact-center-integrations-at-zoomtopia-2022.html#tk.rss_all](https://www.computerworld.com/article/3679392/zoom-focuses-on-email-and-contact-center-integrations-at-zoomtopia-2022.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-08 18:42:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3679432/lambdatest-adds-macos-ventura-testing-to-its-cloud.html#tk.rss_all](https://www.computerworld.com/article/3679432/lambdatest-adds-macos-ventura-testing-to-its-cloud.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-08 17:59:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -25,7 +23,6 @@
  - [https://www.computerworld.com/article/3678973/should-you-let-workers-know-the-salaries-you-pay.html#tk.rss_all](https://www.computerworld.com/article/3678973/should-you-let-workers-know-the-salaries-you-pay.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-08 12:30:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -35,7 +32,6 @@
  - [https://www.computerworld.com/article/3262705/how-to-create-a-complete-microsoft-experience-on-android.html#tk.rss_all](https://www.computerworld.com/article/3262705/how-to-create-a-complete-microsoft-experience-on-android.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-08 11:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

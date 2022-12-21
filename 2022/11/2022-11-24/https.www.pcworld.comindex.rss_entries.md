@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## Secure your family with 1Password’s huge 50% Black Friday discount
  - [https://www.pcworld.com/article/1391427/get-a-rare-50-black-friday-discount-on-1password-one-of-the-best-password-managers-for-families.html](https://www.pcworld.com/article/1391427/get-a-rare-50-black-friday-discount-on-1password-one-of-the-best-password-managers-for-families.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-24 15:20:50+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p><a href="https://www.pcworld.com/article/1388363/save-25-off-our-favorite-password-manager-during-lastpasss-black-friday-sale.html">LastPass</a> may be our current top pick for best password manager, but it&rsquo;s not the only great service out there. Case in point: 1Password, a quiet favorite of PCWorld staff and alum. Currently for Black Friday, new subscribers can grab a sweet deal on the Families plan: <a href="https://www.kqzyfj.com/click-100470607-15328289?sid=2-1-1391427-1-0-0" rel="nofollow">50% off for the first year</a> after your 14-day trial ends, or $30 out the door. At that price, we&rsquo;d opt for it over LastPass every time.</p>
@@ -27,7 +26,6 @@ Black Friday, Black Friday and Cyber Monday, Data and Information Security, Pass
  - [https://www.pcworld.com/article/1392396/black-friday-showstopper-this-lightweight-asus-gaming-laptop-is-500-off.html](https://www.pcworld.com/article/1392396/black-friday-showstopper-this-lightweight-asus-gaming-laptop-is-500-off.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-24 14:43:19+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Black Friday is one day away, but you don&rsquo;t have to wait until the main event to take advantage of those delectable laptop deals. The Asus ROG Zephyrus is lightweight and powerful, a rare combination in the world of gaming laptops, and <a href="https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-rog-zephyrus-14-fhd-144hz-gaming-laptop-amd-ryzen-7-16gb-ddr4-memory-nvidia-geforce-rtx-3060-512gb-pcie-ssd-moonlight-white%2F6494633.p%3FskuId%3D6494633&amp;publisher_slug=pcworld&amp;exclusive=1&amp;article_name=pcworld&amp;article_url=https%3A%2F%2Fwww.pcworld.com%2Ffeed" rel="nofollow">it&rsquo;s currently on sale for $899.99 at Best Buy</a>. That&rsquo;s a savings of $500. Not only does this laptop weigh three and a half pounds, which is incredibly lightweight for a gaming laptop, but the moonlight white color scheme is also drop-dead gorgeous. Let&rsquo;s take a gander at what&rsquo;s going on under the hood, yeah?</p>
@@ -48,7 +46,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/1392287/1440p-hp-gaming-monitor-deal-black-friday.html](https://www.pcworld.com/article/1392287/1440p-hp-gaming-monitor-deal-black-friday.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-24 13:40:32+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Black Friday is almost upon us, which means we&rsquo;re seeing a plethora of monitor deals popping up. If you&rsquo;re on the hunt for an affordable gaming monitor, you&rsquo;re in luck, as Amazon is selling the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/HP-27-inch-Adjustment-FreeSync-Technology/dp/B0949KL83T/ref=sr_1_3?crid=YPR8NH0ZSE9X&amp;keywords=H27q&amp;qid=1669279535&amp;sprefix=h27q%2Caps%2C83&amp;sr=8-3&amp;ufe=app_do%3Aamzn1.fos.08f69ac3-fd3d-4b88-bca2-8997e41410bb&amp;xcust=2-2-1392287-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">HP X27Q gaming monitor for $169.99, which saves you $130</a>. The base can be adjusted and the screen is designed to filter out blue light, which can cause eyes strain and tension headaches. Let&rsquo;s dive right into the specs, yeah?</p>
@@ -69,7 +66,6 @@ Monitors</div>
  - [https://www.pcworld.com/article/1389767/expand-your-ps5-storage-with-big-black-friday-sales-on-compatible-ssds.html](https://www.pcworld.com/article/1389767/expand-your-ps5-storage-with-big-black-friday-sales-on-compatible-ssds.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-24 13:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>PC gamers have it easy. Adding on cheap storage for game downloads is easy, especially during Black Friday&mdash;you can <a href="https://www.pcworld.com/article/1384710/black-friday-ssd-deals.html">pick any good option</a> available and then just pop the drive right in. Meanwhile, PlayStation 5 owners have to meet certain guidelines when looking for a compatible SSD. And those don&rsquo;t often come cheap.</p>
@@ -99,7 +95,6 @@ Black Friday, Black Friday and Cyber Monday, Solid-State Drives</div>
  - [https://www.pcworld.com/article/549407/how-to-buy-a-budget-laptop-under-500.html](https://www.pcworld.com/article/549407/how-to-buy-a-budget-laptop-under-500.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-24 11:45:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>PC brands love to tout expensive, high-end laptops, but history has shown most people buy a budget laptop. And why not? A $500 laptop can be a capable machine that will serve you well for years.</p>
@@ -322,7 +317,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/612470/you-should-buy-a-usb-c-hub-monitor-heres-what-you-need-to-know.html](https://www.pcworld.com/article/612470/you-should-buy-a-usb-c-hub-monitor-heres-what-you-need-to-know.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-24 11:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>A USB-C hub monitor is an excellent upgrade for your home office. It will reduce clutter on your desk and remove the hassle of removing or attaching peripherals to your rig. <a href="https://www.pcworld.com/article/436674/the-best-pc-laptops-of-the-year.html">Laptop owners</a> can even eliminate the need for an external power brick.</p>
@@ -641,7 +635,6 @@ Monitors</div>
  - [https://www.pcworld.com/article/1384292/black-friday-amazon-tech-deals-nov-24.html](https://www.pcworld.com/article/1384292/black-friday-amazon-tech-deals-nov-24.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-24 10:15:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Yes, Black Friday is nearly here. But while the official annual shopping event kicks off on Friday, November 25, tech deals already abound from a number of retailers&mdash;including Amazon, the largest of them all.</p>
@@ -763,7 +756,6 @@ Monitors</div>
  - [https://www.pcworld.com/article/1383937/black-friday-chromebook-deals-nov-24.html](https://www.pcworld.com/article/1383937/black-friday-chromebook-deals-nov-24.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-24 10:05:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>The best Black Friday Chromebook deals are happening right now&mdash;yes, even during Thanksgiving. But there&rsquo;s no need to hurry to the store! Instead, click on our curated Chromebook deals below.</p>
@@ -874,7 +866,6 @@ Chromebooks</div>
  - [https://www.pcworld.com/article/1384710/black-friday-ssd-deals-nov-24.html](https://www.pcworld.com/article/1384710/black-friday-ssd-deals-nov-24.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-24 10:01:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>We&rsquo;ve got just one more day until Black Friday, but the best deals for SSDs are already here. And in contrast to last year, these discounts are downright exciting. Case in point: a 2TB NVMe drive for just $80. (Still!)</p>
@@ -1029,7 +1020,6 @@ Solid-State Drives</div>
  - [https://www.pcworld.com/article/1382591/black-friday-graphics-card-deals-nov-24.html](https://www.pcworld.com/article/1382591/black-friday-graphics-card-deals-nov-24.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-24 10:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Black Friday is just one day away, and that means an opportunity to save big on the most expensive PC components, like graphics cards. GPU deals have been difficult to find for a couple of years, but we&rsquo;re finally starting to see significant discounts now that demand is down. Both AMD and Nvidia are introducing powerful new cards, which means new deals on slightly older cards&mdash;especially the most powerful, expensive models. </p>
@@ -1168,7 +1158,6 @@ GPUs</div>
  - [https://www.pcworld.com/article/1382507/black-friday-ipad-deals-nov-24.html](https://www.pcworld.com/article/1382507/black-friday-ipad-deals-nov-24.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-24 10:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>iPads are always in high demand, which means they&rsquo;re usually difficult to find on sale. But if there&rsquo;s a good time to find a deal on an Apple tablet, it&rsquo;s on Black Friday&mdash;or even today on Thanksgiving in the US. This is especially true if you want one of the most expensive iPad Pros, or if you&rsquo;re okay with settling for an older model that&rsquo;s still on the shelf. We&rsquo;ve scoured the web for the very best iPad deals and discounts to be found. </p>
@@ -1299,7 +1288,6 @@ Tablets</div>
  - [https://www.pcworld.com/article/1382155/black-friday-laptop-deals-nov-24.html](https://www.pcworld.com/article/1382155/black-friday-laptop-deals-nov-24.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-24 10:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Black Friday is just one day away&hellip; so it&rsquo;s now or never, folks. If you&rsquo;re able to peel yourself away from that big honking bird (I&rsquo;m there with you), now is a great time to get some early shopping done. Right now, we&rsquo;re seeing tons of discounts on laptops, especially at Best Buy and Walmart.  We&rsquo;ve got an especially robust gaming laptops section on tap for you.</p>
@@ -1444,7 +1432,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/1383757/black-friday-monitor-deals-nov-24.html](https://www.pcworld.com/article/1383757/black-friday-monitor-deals-nov-24.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-24 10:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Black Friday is one day away, but you can still hit up the early monitor deals right now. If you&rsquo;re able to tear yourself away from the pumpkin pie, we&rsquo;ve got a number of monitor deals on tap for you today. Whether you&rsquo;re on the prowl for a high refresh rate gaming monitor or an ultra-sharp 4K workstation, the deals we assembled below cover a range of budgets as well as refresh rates, resolutions, and other features. Looking for something different? Check out <a href="https://www.pcworld.com/black-friday">PCWorld&rsquo;s complete Black Friday deals coverage</a>.</p>
@@ -1583,7 +1570,6 @@ Monitors</div>
  - [https://www.pcworld.com/article/1382416/black-friday-smartwatch-apple-fitbit-samsung-garmin-nov-24.html](https://www.pcworld.com/article/1382416/black-friday-smartwatch-apple-fitbit-samsung-garmin-nov-24.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-24 09:59:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Yes, Black Friday smartwatch deals are already underway. Retailers are offering deals on all of the popular brands, such as Apple Watch, Fitbit, Garmin, and Samsung Galaxy Watch. </p>
@@ -1702,7 +1688,6 @@ Smartwatches</div>
  - [https://www.pcworld.com/article/1383415/black-friday-best-buy-deals-nov-24.html](https://www.pcworld.com/article/1383415/black-friday-best-buy-deals-nov-24.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-24 09:59:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Black Friday is just one day away, but the deals have already begun reaching their peak. You don&rsquo;t need to wait to make your purchases&mdash;in fact, if you do, you run the risk of missing out on fantastic discounts. Stock can run out early, as Best Buy warns in its <a href="https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhelp-topics%2Fbest-buy-holiday-faqs%2Fpcmcat748300621076.c%3Fid%3Dpcmcat748300621076&amp;publisher_slug=pcworld&amp;exclusive=1&amp;article_name=pcworld&amp;article_url=https%3A%2F%2Fwww.pcworld.com%2Ffeed" rel="nofollow">Black Friday FAQ</a>.</p>
@@ -1917,7 +1902,6 @@ Black Friday</div>
  - [https://www.pcworld.com/article/1382181/black-friday-desktop-pc-computer-deals-nov-24.html](https://www.pcworld.com/article/1382181/black-friday-desktop-pc-computer-deals-nov-24.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-24 09:55:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Thanksgiving is tomorrow, and Black Friday PC deals are already underway. Retailers are offering killer discounts on everything from home-office PCs to decked-out gaming rigs and sleek all-in-ones. Still, not all computer deals are built the same. When shopping for a new desktop PC, it&rsquo;s important to know what deal is actually a great value. To help, we&rsquo;ve curated the very best Black Friday computer deals that will help you get the best performance for your money.</p>
@@ -2042,7 +2026,6 @@ Desktop PCs</div>
  - [https://www.pcworld.com/article/1384198/black-friday-tv-deals-nov-24.html](https://www.pcworld.com/article/1384198/black-friday-tv-deals-nov-24.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-24 09:50:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>The best Black Friday TV deals are available&mdash;yes, even on Thanksgiving. We&rsquo;ve curated the best TV deals for you to choose from, mixing in a surprising number of high-end OLED TV deals.</p>
@@ -2149,7 +2132,6 @@ HDTVs</div>
  - [https://www.pcworld.com/article/1382375/black-friday-dashcam-deals-nov-24.html](https://www.pcworld.com/article/1382375/black-friday-dashcam-deals-nov-24.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-24 09:40:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Today is Thanksgiving and that means Black Friday is just one day away. But there&rsquo;s no need to wait for dash cam deals. Retailers are offering killer deals on everything from modest mini-cams to 4K front and rearview models. </p>
@@ -2272,7 +2254,6 @@ Dash Cams</div>
  - [https://www.pcworld.com/article/1388585/join-dollar-flight-club-for-its-lowest-price-ever-this-thanksgiving-and-black-friday.html](https://www.pcworld.com/article/1388585/join-dollar-flight-club-for-its-lowest-price-ever-this-thanksgiving-and-black-friday.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-24 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Airfare is out of control these days, but guess what? It&rsquo;s the best time of the year to save money! During our Thanksgiving and Black Friday Doorbuster Sale, we&rsquo;re helping aspiring world travelers book their holiday flights with a huge discount on Dollar Flight Club.&nbsp;<a href="https://shop.pcworld.com/sales/dollar-flight-club-premium-plus-lifetime-subscription?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=dollar-flight-club-premium-plus-lifetime-subscription&amp;utm_term=scsf-458537&amp;utm_content=a0x1P000004YrXcQAK&amp;scsonar=1" rel="noreferrer noopener" target="_blank">Premiums Plus+ memberships</a>&nbsp;are just $49.99 &mdash; no coupon necessary.&nbsp;</p>

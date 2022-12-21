@@ -1,10 +1,9 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology
+# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
 
 ## Immigrant groups face ‘impossible’ job of fighting election lies on apps
  - [https://www.washingtonpost.com/technology/2022/11/07/whatsapp-wechat-election-lies/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/07/whatsapp-wechat-election-lies/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-07 20:13:38+00:00
- - tags: None
 
 Non-english language election lies are on messaging apps such as WhatsApp and WeChat. Groups are using tech-savvy methods to stop it, but they’re overmatched.
 
@@ -12,7 +11,6 @@ Non-english language election lies are on messaging apps such as WhatsApp and We
  - [https://www.washingtonpost.com/video-games/2022/11/07/wordle-new-answers-new-york-times-update/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/11/07/wordle-new-answers-new-york-times-update/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-07 17:50:05+00:00
- - tags: None
 
 The New York Times is making a few changes to how Wordle works, and appointing Tracy Bennett to head up the game.
 
@@ -20,7 +18,6 @@ The New York Times is making a few changes to how Wordle works, and appointing T
  - [https://www.washingtonpost.com/video-games/2022/11/07/interactive-horror-movie-the-quarry-until-dawn/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/11/07/interactive-horror-movie-the-quarry-until-dawn/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-07 12:30:37+00:00
- - tags: None
 
 How do you incorporate gameplay into a medium like film, which is an inherently hands-off experience? Video games may have found a compelling template.
 
@@ -28,7 +25,6 @@ How do you incorporate gameplay into a medium like film, which is an inherently 
  - [https://www.washingtonpost.com/technology/2022/11/07/meta-tech-layoffs/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/07/meta-tech-layoffs/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-07 10:30:29+00:00
- - tags: None
 
 The Wall Street Journal reported that Meta, Facebook's parent company, plans to lay off thousands as other technology companies enact similar reductions in staff.
 
@@ -36,7 +32,6 @@ The Wall Street Journal reported that Meta, Facebook's parent company, plans to 
  - [https://www.washingtonpost.com/technology/2022/11/07/elon-musk-twitter/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/07/elon-musk-twitter/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-07 10:27:55+00:00
- - tags: None
 
 Accounts "engaged in impersonation" without the "parody" label will be banned, Musk said. Comedian Kathy Griffin was among those suspended from the platform.
 
@@ -44,7 +39,6 @@ Accounts "engaged in impersonation" without the "parody" label will be banned, M
  - [https://www.washingtonpost.com/technology/2022/11/07/elon-musk-sees-crypto-larger-part-twitter-its-steep-climb/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/07/elon-musk-sees-crypto-larger-part-twitter-its-steep-climb/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-07 07:00:31+00:00
- - tags: None
 
 Elon Musk has ambitious plans to crack down on crypto scams while promoting dogecoin.
 
@@ -52,7 +46,6 @@ Elon Musk has ambitious plans to crack down on crypto scams while promoting doge
  - [https://www.washingtonpost.com/technology/2022/11/07/google-assistant-ai-parental-controls/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/07/google-assistant-ai-parental-controls/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-07 07:00:21+00:00
- - tags: None
 
 For the first time since its launch in 2016, Google Assistant will offer parents more control over how their children use it.
 
@@ -60,6 +53,5 @@ For the first time since its launch in 2016, Google Assistant will offer parents
  - [https://www.washingtonpost.com/technology/2022/11/07/trump-once-reconsidered-sticking-with-truth-social-now-hes-stuck/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/07/trump-once-reconsidered-sticking-with-truth-social-now-hes-stuck/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-07 06:00:09+00:00
- - tags: None
 
 Trump has told his allies he can’t leave his Twitter clone because he’s propping it up, and he doesn’t want a site so closely associated with his brand to collapse.

@@ -1,10 +1,9 @@
-# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
+# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug, Source language: en-US
 
 ## How safe is Elon Musk's bet on Tesla in China? Tesla has adjusted its sales & service strategy
  - [https://www.youtube.com/watch?v=iEwxAJ0zgNE](https://www.youtube.com/watch?v=iEwxAJ0zgNE)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
  - date published: 2022-11-11 18:00:07+00:00
- - tags: None
 
 #chinainsights#ChinaTesla 
 China has the world's largest auto market, and investors are closely watching the performance of Tesla, the largest American electric car company, in China, where many believe the growth potential is far greater than in Europe or the US. 

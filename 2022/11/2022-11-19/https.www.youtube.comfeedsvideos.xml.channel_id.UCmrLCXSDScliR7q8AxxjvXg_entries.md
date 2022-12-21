@@ -1,10 +1,9 @@
-# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
+# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, Source language: en-US
 
 ## The LIE that (Almost) Started WORLD WAR III
  - [https://www.youtube.com/watch?v=Hs3Aw-0Pjfc](https://www.youtube.com/watch?v=Hs3Aw-0Pjfc)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
  - date published: 2022-11-19 01:47:23+00:00
- - tags: None
 
 ⭐The Winter of Discontent (Fundraising Documentary) Find Out More:
 https://www.gofundme.com/f/the-winter-of-discontent-documentary

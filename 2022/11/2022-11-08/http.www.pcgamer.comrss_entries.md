@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## Ubisoft may finally be planning a return to Steam
  - [https://www.pcgamer.com/ubisoft-may-finally-be-planning-a-return-to-steam](https://www.pcgamer.com/ubisoft-may-finally-be-planning-a-return-to-steam)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-08 22:45:59+00:00
- - tags: None
 
 Backend data suggests that a Steam release for Assassin's Creed Valhalla could be coming.
 
@@ -12,7 +11,6 @@ Backend data suggests that a Steam release for Assassin's Creed Valhalla could b
  - [https://www.pcgamer.com/eve-online-blows-up-an-entire-star-and-everyone-around-it-to-kick-off-a-new-inter-faction-war](https://www.pcgamer.com/eve-online-blows-up-an-entire-star-and-everyone-around-it-to-kick-off-a-new-inter-faction-war)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-08 22:31:26+00:00
- - tags: None
 
 Today's Uprising expansion makes big changes to faction warfare in low-sec.
 
@@ -20,7 +18,6 @@ Today's Uprising expansion makes big changes to faction warfare in low-sec.
  - [https://www.pcgamer.com/guild-wars-2-just-resurrected-a-city-that-was-destroyed-in-2013](https://www.pcgamer.com/guild-wars-2-just-resurrected-a-city-that-was-destroyed-in-2013)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-08 21:27:33+00:00
- - tags: None
 
 The original Living World story is now totally replayable and rewards you with a return to old Lion's Arch.
 
@@ -28,7 +25,6 @@ The original Living World story is now totally replayable and rewards you with a
  - [https://www.pcgamer.com/halo-infinites-biggest-update-yet-finally-adds-campaign-co-op-and-the-forge](https://www.pcgamer.com/halo-infinites-biggest-update-yet-finally-adds-campaign-co-op-and-the-forge)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-08 20:36:03+00:00
- - tags: None
 
 The winter update is live now.
 
@@ -36,7 +32,6 @@ The winter update is live now.
  - [https://www.pcgamer.com/bungie-has-given-destiny-2s-buggiest-gun-an-amazing-easter-egg](https://www.pcgamer.com/bungie-has-given-destiny-2s-buggiest-gun-an-amazing-easter-egg)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-08 20:26:29+00:00
- - tags: None
 
 Telesto has finally reached its final form.
 
@@ -44,7 +39,6 @@ Telesto has finally reached its final form.
  - [https://www.pcgamer.com/csgo-caster-fired-from-rio-major-after-alleged-incident-involving-booze-police-and-a-smashed-up-tv](https://www.pcgamer.com/csgo-caster-fired-from-rio-major-after-alleged-incident-involving-booze-police-and-a-smashed-up-tv)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-08 19:46:51+00:00
- - tags: None
 
 Matthew "Sadokist" Trivett has been sent home in disgrace.
 
@@ -52,7 +46,6 @@ Matthew "Sadokist" Trivett has been sent home in disgrace.
  - [https://www.pcgamer.com/cyberpunk-2077-patch-prevents-boobs-from-clipping-through-clothes](https://www.pcgamer.com/cyberpunk-2077-patch-prevents-boobs-from-clipping-through-clothes)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-08 19:05:36+00:00
- - tags: None
 
 The Ripperdoc's work will now be of higher quality.
 
@@ -60,7 +53,6 @@ The Ripperdoc's work will now be of higher quality.
  - [https://www.pcgamer.com/ubisoft-still-says-the-sands-of-time-remake-hasnt-been-cancelled-but-preorders-have-been-refunded](https://www.pcgamer.com/ubisoft-still-says-the-sands-of-time-remake-hasnt-been-cancelled-but-preorders-have-been-refunded)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-08 18:36:32+00:00
- - tags: None
 
 There's still no release date, but there is a new FAQ about the statement of the game, which Ubisoft insists is still happening.
 
@@ -68,7 +60,6 @@ There's still no release date, but there is a new FAQ about the statement of the
  - [https://www.pcgamer.com/overwatch-2-hits-35-million-players-in-its-first-month](https://www.pcgamer.com/overwatch-2-hits-35-million-players-in-its-first-month)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-08 17:18:21+00:00
- - tags: None
 
 Heroes never die. All 35 million of 'em.
 
@@ -76,7 +67,6 @@ Heroes never die. All 35 million of 'em.
  - [https://www.pcgamer.com/pvp-mmo-crowfall-is-being-shut-down-indefinitely-to-save-it](https://www.pcgamer.com/pvp-mmo-crowfall-is-being-shut-down-indefinitely-to-save-it)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-08 16:35:05+00:00
- - tags: None
 
 Monumental can't build new campaigns and maintain the live game at the same time.
 
@@ -84,7 +74,6 @@ Monumental can't build new campaigns and maintain the live game at the same time
  - [https://www.pcgamer.com/death-stranding-hits-10-million-sales-as-it-celebrates-its-third-birthday](https://www.pcgamer.com/death-stranding-hits-10-million-sales-as-it-celebrates-its-third-birthday)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-08 16:34:30+00:00
- - tags: None
 
 That's a lot of baby-wielding backpackers.
 
@@ -92,7 +81,6 @@ That's a lot of baby-wielding backpackers.
  - [https://www.pcgamer.com/electronic-arts-kills-one-of-the-best-racing-series-of-all-time](https://www.pcgamer.com/electronic-arts-kills-one-of-the-best-racing-series-of-all-time)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-08 16:32:46+00:00
- - tags: None
 
 The next Project Cars game has been cancelled and EA and will not invest any further in the series.
 
@@ -100,7 +88,6 @@ The next Project Cars game has been cancelled and EA and will not invest any fur
  - [https://www.pcgamer.com/ea-creates-the-ultimate-fifa-soundtrack-for-the-final-entry](https://www.pcgamer.com/ea-creates-the-ultimate-fifa-soundtrack-for-the-final-entry)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-08 15:35:36+00:00
- - tags: None
 
 What, no Robbie Williams?
 
@@ -108,7 +95,6 @@ What, no Robbie Williams?
  - [https://www.pcgamer.com/modern-warfare-2-is-the-best-launch-in-cods-history-after-selling-dollar1-billion-in-10-days](https://www.pcgamer.com/modern-warfare-2-is-the-best-launch-in-cods-history-after-selling-dollar1-billion-in-10-days)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-08 15:29:42+00:00
- - tags: None
 
 Over 1 Billion matches and 200 Million Hours played.
 
@@ -116,7 +102,6 @@ Over 1 Billion matches and 200 Million Hours played.
  - [https://www.pcgamer.com/in-this-new-viking-city-builder-every-citizen-has-their-owns-skills-and-personalities](https://www.pcgamer.com/in-this-new-viking-city-builder-every-citizen-has-their-owns-skills-and-personalities)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-08 15:00:09+00:00
- - tags: None
 
 Find the perfect Viking for every job in the settlement.
 
@@ -124,7 +109,6 @@ Find the perfect Viking for every job in the settlement.
  - [https://www.pcgamer.com/wordle-is-shaking-up-its-rules-and-wordlist](https://www.pcgamer.com/wordle-is-shaking-up-its-rules-and-wordlist)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-08 14:20:37+00:00
- - tags: None
 
 Say goodbye to easy plurals.
 
@@ -132,7 +116,6 @@ Say goodbye to easy plurals.
  - [https://www.pcgamer.com/massive-grand-theft-auto-6-leak-wont-have-any-influence-on-development-says-take-two-boss](https://www.pcgamer.com/massive-grand-theft-auto-6-leak-wont-have-any-influence-on-development-says-take-two-boss)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-08 14:06:53+00:00
- - tags: None
 
 Strauss Zelnick called the leak "terribly unfortunate."
 
@@ -140,7 +123,6 @@ Strauss Zelnick called the leak "terribly unfortunate."
  - [https://www.pcgamer.com/this-gotham-knights-update-is-9gb-and-we-dont-know-why](https://www.pcgamer.com/this-gotham-knights-update-is-9gb-and-we-dont-know-why)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-08 13:08:39+00:00
- - tags: None
 
 Robin your storage space.
 
@@ -148,7 +130,6 @@ Robin your storage space.
  - [https://www.pcgamer.com/razer-sustainability-restorify-carbon-offsetting](https://www.pcgamer.com/razer-sustainability-restorify-carbon-offsetting)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-08 12:38:07+00:00
- - tags: None
 
 Get on the carbon offsetting bandwagon with every Razer purchase.
 
@@ -156,7 +137,6 @@ Get on the carbon offsetting bandwagon with every Razer purchase.
  - [https://www.pcgamer.com/football-manager-2023-has-that-champions-league-winning-quality](https://www.pcgamer.com/football-manager-2023-has-that-champions-league-winning-quality)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-08 11:59:28+00:00
- - tags: None
 
 As series' fans get wiser, the game gets smarter.
 
@@ -164,7 +144,6 @@ As series' fans get wiser, the game gets smarter.
  - [https://www.pcgamer.com/the-sims-4-will-let-you-show-off-your-mass-effect-obsession](https://www.pcgamer.com/the-sims-4-will-let-you-show-off-your-mass-effect-obsession)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-08 11:13:40+00:00
- - tags: None
 
 Ship-shape fashion.
 
@@ -172,7 +151,6 @@ Ship-shape fashion.
  - [https://www.pcgamer.com/wordle-today-507-answer](https://www.pcgamer.com/wordle-today-507-answer)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-08 06:05:46+00:00
- - tags: None
 
 Wordle today: The solution and a hint for the #507 puzzle.
 
@@ -180,7 +158,6 @@ Wordle today: The solution and a hint for the #507 puzzle.
  - [https://www.pcgamer.com/over-dollar1b-worth-of-stolen-bitcoin-found-in-popcorn-tin](https://www.pcgamer.com/over-dollar1b-worth-of-stolen-bitcoin-found-in-popcorn-tin)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-08 04:04:29+00:00
- - tags: None
 
 Still, sad to open a popcorn tin to no popcorn.
 
@@ -188,7 +165,6 @@ Still, sad to open a popcorn tin to no popcorn.
  - [https://www.pcgamer.com/this-accordion-made-out-of-two-c64s-is-a-chip-tune-delight](https://www.pcgamer.com/this-accordion-made-out-of-two-c64s-is-a-chip-tune-delight)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-08 03:08:38+00:00
- - tags: None
 
 Many floppy discs were harmed in the making of this musical instrument.
 
@@ -196,7 +172,6 @@ Many floppy discs were harmed in the making of this musical instrument.
  - [https://www.pcgamer.com/take-two-boss-says-the-company-is-a-hit-factory-thatll-always-prefer-game-delays-to-flops](https://www.pcgamer.com/take-two-boss-says-the-company-is-a-hit-factory-thatll-always-prefer-game-delays-to-flops)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-08 01:48:12+00:00
- - tags: None
 
 GTA, XCOM, and Borderlands publisher Take-Two is very confident about its upcoming releases.
 
@@ -204,7 +179,6 @@ GTA, XCOM, and Borderlands publisher Take-Two is very confident about its upcomi
  - [https://www.pcgamer.com/its-not-at-all-clear-what-call-of-duty-2023-will-be](https://www.pcgamer.com/its-not-at-all-clear-what-call-of-duty-2023-will-be)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-08 00:59:05+00:00
- - tags: None
 
 Will Modern Warfare 2 get another year in the spotlight?
 
@@ -212,7 +186,6 @@ Will Modern Warfare 2 get another year in the spotlight?
  - [https://www.pcgamer.com/oculus-co-founder-creates-a-thought-provoking-vr-headset-that-will-literally-kill-you-if-you-die-in-a-game](https://www.pcgamer.com/oculus-co-founder-creates-a-thought-provoking-vr-headset-that-will-literally-kill-you-if-you-die-in-a-game)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-08 00:52:40+00:00
- - tags: None
 
 When "if you die in the game, you die in real life" is taken to its extreme.
 
@@ -220,7 +193,6 @@ When "if you die in the game, you die in real life" is taken to its extreme.
  - [https://www.pcgamer.com/this-year-call-of-dutys-secret-weapon-is-steam](https://www.pcgamer.com/this-year-call-of-dutys-secret-weapon-is-steam)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-08 00:35:45+00:00
- - tags: None
 
 Modern Warfare 2 is selling double what the series used to on PC.
 
@@ -228,7 +200,6 @@ Modern Warfare 2 is selling double what the series used to on PC.
  - [https://www.pcgamer.com/ps5-advert-implies-were-waiting-an-extra-six-months-for-final-fantasy-16-on-pc](https://www.pcgamer.com/ps5-advert-implies-were-waiting-an-extra-six-months-for-final-fantasy-16-on-pc)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-08 00:31:45+00:00
- - tags: None
 
 Console exclusivity has been a live question since the game's announcement.
 
@@ -236,6 +207,5 @@ Console exclusivity has been a live question since the game's announcement.
  - [https://www.pcgamer.com/that-wonderful-little-gnome-child-from-runescape-is-coming-to-a-moba-near-you](https://www.pcgamer.com/that-wonderful-little-gnome-child-from-runescape-is-coming-to-a-moba-near-you)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-08 00:19:25+00:00
- - tags: None
 
 Dimensionality is a function of consciousness.

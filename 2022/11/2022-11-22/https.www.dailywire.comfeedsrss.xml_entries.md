@@ -1,10 +1,9 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml
+# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
 
 ## Police Respond To Shooting At Virginia Walmart
  - [https://www.dailywire.com/news/breaking-police-respond-to-shooting-at-virginia-walmart](https://www.dailywire.com/news/breaking-police-respond-to-shooting-at-virginia-walmart)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 23:29:35+00:00
- - tags: None
 
 Police have responded in force to a reported shooting at a Walmart in Chesapeake, Virginia. According to local news outlet WAVY, law enforcement officers at the scene just off Battlefield Blvd. have confirmed that there are multiple fatalities and injuries, and are warning people to stay away for the time being. UPDATE: Chesapeake police say ...
 
@@ -12,7 +11,6 @@ Police have responded in force to a reported shooting at a Walmart in Chesapeake
  - [https://www.dailywire.com/news/titanic-director-says-diva-like-attitude-almost-cost-leonardo-dicaprio-his-iconic-role](https://www.dailywire.com/news/titanic-director-says-diva-like-attitude-almost-cost-leonardo-dicaprio-his-iconic-role)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 23:14:23+00:00
- - tags: None
 
 Director James Cameron revealed in a recent interview that Leonardo DiCaprio&#8217;s &#8220;diva-like attitude&#8221; nearly cost him the iconic role of Jack in the 1997 blockbuster &#8220;Titanic.&#8221; Cameron, whose newest film — &#8220;Avatar: The Way Of Water&#8221; — is set to be released in theaters on December 16, spoke with GQ about some of his most ...
 
@@ -20,7 +18,6 @@ Director James Cameron revealed in a recent interview that Leonardo DiCaprio&#82
  - [https://www.dailywire.com/news/colorado-shooter-identifies-as-non-binary-uses-they-them-pronouns-court-documents](https://www.dailywire.com/news/colorado-shooter-identifies-as-non-binary-uses-they-them-pronouns-court-documents)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 23:03:22+00:00
- - tags: None
 
 The 22-year-old suspect who allegedly killed five and wounded 17 others after opening fire inside a gay nightclub in Colorado last week identifies as non-binary and uses They/Them pronouns, according to court documents. New York Times reporter Nicholas Bogel-Burroughs obtained a new court filing Tuesday night showing public defenders referring to their client as Mx. ...
 
@@ -28,7 +25,6 @@ The 22-year-old suspect who allegedly killed five and wounded 17 others after op
  - [https://www.dailywire.com/news/amber-heard-countersues-insurance-company-over-depp-verdict](https://www.dailywire.com/news/amber-heard-countersues-insurance-company-over-depp-verdict)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 21:13:18+00:00
- - tags: None
 
 Actress Amber Heard has countersued her insurance company after the company asked a judge to let them out of the multi-million dollar policy the actress took out to protect her from defamation claims following her trial against ex Johnny Depp and the verdict against her. The 36-year-old actress filed a lawsuit against the New York ...
 
@@ -36,7 +32,6 @@ Actress Amber Heard has countersued her insurance company after the company aske
  - [https://www.dailywire.com/news/balenciaga-apologizes-for-advertisement-showcasing-minors-holding-bdsm-teddy-bear-purses](https://www.dailywire.com/news/balenciaga-apologizes-for-advertisement-showcasing-minors-holding-bdsm-teddy-bear-purses)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 21:00:22+00:00
- - tags: None
 
 French fashion brand Balenciaga apologized Tuesday after facing backlash over a recent advertisement that showed young children holding teddy bear purses dressed in bondage attire. The brand, which celebrities like Kim Kardashian often wear, displayed images on its website earlier this week as part of its &#8220;Toy Stories&#8221; campaign. The images showed child models posing ...
 
@@ -44,7 +39,6 @@ French fashion brand Balenciaga apologized Tuesday after facing backlash over a 
  - [https://www.dailywire.com/news/study-shows-even-light-drinking-in-pregnancy-can-affect-babys-brain](https://www.dailywire.com/news/study-shows-even-light-drinking-in-pregnancy-can-affect-babys-brain)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 19:36:43+00:00
- - tags: None
 
 While many pregnant women generally know of the risks involving drinking alcohol while pregnant, a new study is shedding light on the effect that even a small amount of the substance can have on a developing baby’s brain. A recent MRI study showed that even minor to moderate amounts of drinking alcohol during pregnancy can ...
 
@@ -52,7 +46,6 @@ While many pregnant women generally know of the risks involving drinking alcohol
  - [https://www.dailywire.com/news/td-bank-quietly-donated-500000-to-gender-affirming-procedures-for-minors](https://www.dailywire.com/news/td-bank-quietly-donated-500000-to-gender-affirming-procedures-for-minors)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 18:38:21+00:00
- - tags: None
 
 Canadian financial corporation TD Bank quietly donated half a million dollars to a program earlier this year that conducts so-called &#8220;gender-affirming&#8221; irreversible procedures on minors. According to a May 2022 newsletter, the financial institution funded $500,000 through Canada&#8217;s Children&#8217;s Hospital Foundations to support &#8220;gender transitions&#8221; through the McMaster Pediatric Gender Diversity Program, which provides medical ...
 
@@ -60,7 +53,6 @@ Canadian financial corporation TD Bank quietly donated half a million dollars to
  - [https://www.dailywire.com/news/elon-musk-and-dinesh-dsouza-explain-why-leftists-arent-being-let-back-on-twitter](https://www.dailywire.com/news/elon-musk-and-dinesh-dsouza-explain-why-leftists-arent-being-let-back-on-twitter)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 18:32:31+00:00
- - tags: None
 
 Filmmaker Dinesh D&#8217;Souza and billionaire entrepreneur (and self-proclaimed &#8220;Chief Twit&#8221;) Elon Musk offered an explanation on Tuesday for why leftists weren&#8217;t being allowed back on Twitter — or if they were, why no one was talking about it. In a brief exchange on Musk&#8217;s recently-acquired platform, the two men came to the conclusion that leftists ...
 
@@ -68,7 +60,6 @@ Filmmaker Dinesh D&#8217;Souza and billionaire entrepreneur (and self-proclaimed
  - [https://www.dailywire.com/news/tuesday-afternoon-update-belated-biden-laptop-coverage-saudi-upset-and-more](https://www.dailywire.com/news/tuesday-afternoon-update-belated-biden-laptop-coverage-saudi-upset-and-more)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 18:28:59+00:00
- - tags: None
 
 This article is a companion piece to today’s Morning Wire Afternoon Update. To listen to the podcast version, click here. Democrats Renew Push For Crypto Regulation Following the FTX collapse, Democratic lawmakers have called on regulators to examine bank holding company SoFi Technologies, which owns a subsidiary cryptocurrency exchange. The move comes after FTX filed ...
 
@@ -76,7 +67,6 @@ This article is a companion piece to today’s Morning Wire Afternoon Update. To
  - [https://www.dailywire.com/news/convenience-chain-sells-1-99-gas-for-thanksgiving-week](https://www.dailywire.com/news/convenience-chain-sells-1-99-gas-for-thanksgiving-week)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 18:28:17+00:00
- - tags: None
 
 Convenience store chain Sheetz will begin selling unleaded gasoline at $1.99 per gallon in celebration of the Thanksgiving holiday. The special price will be available from November 21 through November 28 at every location that sells Unleaded 88 gasoline. The company is headquartered in Pennsylvania and also has stores in West Virginia, Maryland, Ohio, Virginia, ...
 
@@ -84,7 +74,6 @@ Convenience store chain Sheetz will begin selling unleaded gasoline at $1.99 per
  - [https://www.dailywire.com/news/musk-and-skeleton-crew-take-on-problem-ousted-twitter-employees-ignored-child-exploitation](https://www.dailywire.com/news/musk-and-skeleton-crew-take-on-problem-ousted-twitter-employees-ignored-child-exploitation)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 18:19:56+00:00
- - tags: None
 
 If you were to run a social media company, what would take priority — silencing your political opponents or ridding it of child porn? If you&#8217;re the new owner of Twitter Elon Musk, it&#8217;s addressing truly evil things that exploit minors. If you&#8217;re a leftist, it appears that it&#8217;s making sure conservatives don&#8217;t have a ...
 
@@ -92,7 +81,6 @@ If you were to run a social media company, what would take priority — silencin
  - [https://www.dailywire.com/news/republican-states-seek-extension-of-title-42-say-removal-will-directly-harm-them](https://www.dailywire.com/news/republican-states-seek-extension-of-title-42-say-removal-will-directly-harm-them)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 18:19:53+00:00
- - tags: None
 
 A group of mainly Republican-led states are seeking to get involved in the deliberations over Title 42 and want a federal judge to keep the border expulsion public health rule in place. In a filing with the court on Monday night, fifteen state attorneys general requested to intervene in the case after federal Judge Emmet ...
 
@@ -100,7 +88,6 @@ A group of mainly Republican-led states are seeking to get involved in the delib
  - [https://www.dailywire.com/news/dereliction-of-duty-mccarthy-threatens-dhs-chief-with-investigations-potential-impeachment-if-he-doesnt-resign](https://www.dailywire.com/news/dereliction-of-duty-mccarthy-threatens-dhs-chief-with-investigations-potential-impeachment-if-he-doesnt-resign)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 18:06:02+00:00
- - tags: None
 
 House Minority Leader Kevin McCarthy (R-CA) said Tuesday that the incoming GOP House majority will investigate and potentially impeach Homeland Security Secretary Alejandro Mayorkas over his handling of the U.S. southern border. McCarthy made the pledge in a press conference after leading a contingent of Republican House members in a visit to the U.S. southern border ...
 
@@ -108,7 +95,6 @@ House Minority Leader Kevin McCarthy (R-CA) said Tuesday that the incoming GOP 
  - [https://www.dailywire.com/news/de-frocked-catholic-priest-pleads-guilty-to-obscenity-after-recording-sex-acts-on-church-altar](https://www.dailywire.com/news/de-frocked-catholic-priest-pleads-guilty-to-obscenity-after-recording-sex-acts-on-church-altar)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 17:41:56+00:00
- - tags: None
 
 A former Catholic priest plead guilty to obscenity charges Monday after desecrating his church altar with two dominatrices. Travis Clark, formerly the pastor of Sts. Peter and Paul Catholic Church in Pearl River, Louisiana, plead guilty to a single count of felony obscenity during his arraignment Monday, NOLA.com reported. Clark and two women were charged ...
 
@@ -116,7 +102,6 @@ A former Catholic priest plead guilty to obscenity charges Monday after desecrat
  - [https://www.dailywire.com/news/ben-shapiro-matt-walsh-pull-power-play-on-nhl-after-leagues-trans-pandering-tweet](https://www.dailywire.com/news/ben-shapiro-matt-walsh-pull-power-play-on-nhl-after-leagues-trans-pandering-tweet)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 17:38:16+00:00
- - tags: None
 
 Daily Wire personalities Ben Shapiro and Matt Walsh teamed up on a power play against the NHL, dragging the for embracing the transgender craze. Both podcast hosts took aim at the league Tuesday after it tweeted, “Trans women are women. Trans men are men. Nonbinary identity is real.” The pro hockey confederation seems to be ...
 
@@ -124,7 +109,6 @@ Daily Wire personalities Ben Shapiro and Matt Walsh teamed up on a power play ag
  - [https://www.dailywire.com/news/candace-reacts-to-a-white-kid-who-lost-his-football-scholarship-because-he-rapped-the-n-word](https://www.dailywire.com/news/candace-reacts-to-a-white-kid-who-lost-his-football-scholarship-because-he-rapped-the-n-word)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 17:31:36+00:00
- - tags: None
 
 I am pretty livid about this story. Have you heard of this white football player who lost a scholarship because he said the N-word on camera? Well, the story may not be what you think, but it does bring up a much-needed conversation around that word. There is a young student named Marcus Stokes who ...
 
@@ -132,7 +116,6 @@ I am pretty livid about this story. Have you heard of this white football player
  - [https://www.dailywire.com/news/pope-francis-fires-leadership-of-major-vatican-charity](https://www.dailywire.com/news/pope-francis-fires-leadership-of-major-vatican-charity)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 17:20:11+00:00
- - tags: None
 
 Pope Francis fired some of the leadership of the Vatican’s international charitable organization Caritas Internationalis on Tuesday following the findings of an external review. The Vatican reportedly said in a statement that the review did not find proof of sexual indecency or financial misconduct, but it did find other problems. “No evidence emerged of financial ...
 
@@ -140,7 +123,6 @@ Pope Francis fired some of the leadership of the Vatican’s international chari
  - [https://www.dailywire.com/news/new-report-suggests-going-back-to-masks-social-distancing-because-of-long-covid](https://www.dailywire.com/news/new-report-suggests-going-back-to-masks-social-distancing-because-of-long-covid)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 17:14:51+00:00
- - tags: None
 
 The Department of Health and Human Services (HHS) published a new report on Monday that recommends once again returning to the practice of social distancing and wearing masks.  The department commissioned the report, which was created by Coforma, a research group. Its suggestions reportedly come from patient interviews, and it recommends that the once-common COVID-19 ...
 
@@ -148,7 +130,6 @@ The Department of Health and Human Services (HHS) published a new report on Mond
  - [https://www.dailywire.com/news/meghan-markle-says-she-doesnt-understand-why-women-are-vilified-for-exploring-their-sexuality](https://www.dailywire.com/news/meghan-markle-says-she-doesnt-understand-why-women-are-vilified-for-exploring-their-sexuality)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 17:06:41+00:00
- - tags: None
 
 Meghan Markle said she doesn&#8217;t understand why women are &#8220;vilified&#8221; for exploring their sexuality while she said it appeared that men are instead &#8220;celebrated&#8221; for doing the same. During Markle&#8217;s Spotify podcast &#8220;Archetypes&#8221; on Tuesday, the former &#8220;Suits&#8221; actress talked about what she called the double standard when it comes to men and women &#8220;exploring&#8221; ...
 
@@ -156,7 +137,6 @@ Meghan Markle said she doesn&#8217;t understand why women are &#8220;vilified&#8
  - [https://www.dailywire.com/news/biden-extends-student-loan-pause-again-after-declaring-pandemic-is-over](https://www.dailywire.com/news/biden-extends-student-loan-pause-again-after-declaring-pandemic-is-over)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 17:02:25+00:00
- - tags: None
 
 President Joe Biden reportedly plans to extend the pause on federal student loan payments through the summer of 2023 as his student debt cancellation plan faces legal challenges. The Department of Education will soon announce the extension of the freeze, according to a report from CNN. The first payments will be due two months after ...
 
@@ -164,7 +144,6 @@ President Joe Biden reportedly plans to extend the pause on federal student loan
  - [https://www.dailywire.com/news/top-florida-state-lawmaker-backs-tweak-that-could-boost-a-desantis-2024-white-house-bid](https://www.dailywire.com/news/top-florida-state-lawmaker-backs-tweak-that-could-boost-a-desantis-2024-white-house-bid)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 16:43:03+00:00
- - tags: None
 
 Florida Governor Ron DeSantis won&#8217;t have to quit his current job to pursue a promotion to the White House if the Sunshine State&#8217;s top two lawmakers get their way, according to a report. Incoming Florida House Speaker Paul Renner, a Republican, said he supports changing a state law that would require DeSantis to resign in ...
 
@@ -172,7 +151,6 @@ Florida Governor Ron DeSantis won&#8217;t have to quit his current job to pursue
  - [https://www.dailywire.com/news/gop-asks-georgias-highest-court-to-limit-early-voting-in-senate-runoff](https://www.dailywire.com/news/gop-asks-georgias-highest-court-to-limit-early-voting-in-senate-runoff)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 16:30:10+00:00
- - tags: None
 
 GOP groups have requested that Georgia’s Supreme Court prohibit early voting this Saturday in the state’s runoff Senate election, arguing that state law dictates that early voting can&#8217;t take place on that day because it follows the Thanksgiving holiday. The Georgia Republican Party, the National Republican Senatorial Committee, and the Republican National Committee filed an ...
 
@@ -180,7 +158,6 @@ GOP groups have requested that Georgia’s Supreme Court prohibit early voting t
  - [https://www.dailywire.com/news/no-surprise-faucis-final-message-is-a-lecture-on-masks-getting-the-latest-booster](https://www.dailywire.com/news/no-surprise-faucis-final-message-is-a-lecture-on-masks-getting-the-latest-booster)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 16:20:23+00:00
- - tags: None
 
 Dr. Anthony Fauci is all but finished &#8220;serving&#8221; the American people in the federal government, but before he departs to most likely make boatloads of money with books and movies, he had one final lecture for the United States. The bureaucrat spoke from the White House on Tuesday and encouraged all citizens to get the ...
 
@@ -188,7 +165,6 @@ Dr. Anthony Fauci is all but finished &#8220;serving&#8221; the American people 
  - [https://www.dailywire.com/news/they-cant-even-respect-the-dead-megyn-kelly-slams-democrats-for-politicizing-club-q-shooting](https://www.dailywire.com/news/they-cant-even-respect-the-dead-megyn-kelly-slams-democrats-for-politicizing-club-q-shooting)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 16:19:28+00:00
- - tags: None
 
 Megyn Kelly slammed Democrats and those on the left who have been politicizing the Club Q shooting at a gay nightclub in Colorado that left five people dead, 19 others injured. During the Sirius XM &#8220;The Megyn Kelly Show&#8221; podcast on Tuesday, the host opened her show by calling out people like House Speaker Nancy ...
 
@@ -196,7 +172,6 @@ Megyn Kelly slammed Democrats and those on the left who have been politicizing t
  - [https://www.dailywire.com/news/lesbian-writer-says-she-couldnt-find-a-single-truly-transphobic-message-from-j-k-rowling-refuses-to-write-hit-piece](https://www.dailywire.com/news/lesbian-writer-says-she-couldnt-find-a-single-truly-transphobic-message-from-j-k-rowling-refuses-to-write-hit-piece)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 16:09:05+00:00
- - tags: None
 
 A freelance writer was assigned to write a hit-piece on J.K. Rowling, but after researching the controversy over the author&#8217;s purportedly &#8220;transphobic&#8221; tweets, she came out in support of her. E.J. Rosetta, who describes herself as a &#8220;lesbian writer&#8221; and has bylines in various LGBT and leftwing publications, was asked to write an article about ...
 
@@ -204,7 +179,6 @@ A freelance writer was assigned to write a hit-piece on J.K. Rowling, but after 
  - [https://www.dailywire.com/news/rent-in-some-large-cities-begins-to-fall](https://www.dailywire.com/news/rent-in-some-large-cities-begins-to-fall)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 16:05:21+00:00
- - tags: None
 
 Eleven major metropolitan areas in the United States saw median rental rates decline last month, according to an analysis from real estate brokerage Redfin, as economic headwinds and inflationary pressures discourage renters from moving. The company found that the median nationwide asking rent rose 7.8% year-over-year, constituting the second consecutive month of single-digit increases following ...
 
@@ -212,7 +186,6 @@ Eleven major metropolitan areas in the United States saw median rental rates dec
  - [https://www.dailywire.com/news/nhl-dragged-for-going-woke-promoting-trans-hockey-tournament](https://www.dailywire.com/news/nhl-dragged-for-going-woke-promoting-trans-hockey-tournament)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 15:52:46+00:00
- - tags: None
 
 The National Hockey League took some heat over a Tuesday tweet promoting a transgender and non-binary hockey tournament — and a follow-up comment asserting, &#8220;Trans women are women. Trans men are men. Nonbinary identity is real.&#8221; The tournament in question — the Team Trans Draft Tournament — took place over the weekend in Middleton, Wisconsin, and ...
 
@@ -220,7 +193,6 @@ The National Hockey League took some heat over a Tuesday tweet promoting a trans
  - [https://www.dailywire.com/news/associated-press-reporter-fired-over-inaccurate-russian-missile-attack-story](https://www.dailywire.com/news/associated-press-reporter-fired-over-inaccurate-russian-missile-attack-story)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 15:52:25+00:00
- - tags: None
 
 The Associated Press has fired a reporter who broke a now-retracted story that claimed Russian-launched missiles had hit Poland, which would have been a major escalation of the ongoing war in Ukraine.  National security reporter James LaPorta lost his job with the news outlet after it corrected a November 15 article he co-wrote containing inaccurate ...
 
@@ -228,7 +200,6 @@ The Associated Press has fired a reporter who broke a now-retracted story that c
  - [https://www.dailywire.com/news/breaking-supreme-court-clears-way-for-house-dems-to-obtain-trumps-taxes](https://www.dailywire.com/news/breaking-supreme-court-clears-way-for-house-dems-to-obtain-trumps-taxes)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 15:18:02+00:00
- - tags: None
 
 The Supreme Court paved the way on Tuesday for House Democrats to obtain former President Donald Trump&#8217;s taxes, denying a request from Trump&#8217;s legal team that he be permitted to withhold them from a congressional committee. The request was presented to Chief Justice John Roberts and did not contain any dissents. Roberts had earlier this ...
 
@@ -236,7 +207,6 @@ The Supreme Court paved the way on Tuesday for House Democrats to obtain former 
  - [https://www.dailywire.com/news/president-of-rail-union-says-congress-involvement-likely-ahead-of-looming-strike](https://www.dailywire.com/news/president-of-rail-union-says-congress-involvement-likely-ahead-of-looming-strike)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 15:17:26+00:00
- - tags: None
 
 The president of the nation’s largest freight railway union is warning that Congress will likely get involved in order to resolve disagreements between employers and union members and steer clear of a strike.  “I’m hopeful, but I doubt it’s really in the cards,” SMART Transportation Division President Jeremy Ferguson told Politico Monday night. “I’ve got ...
 
@@ -244,7 +214,6 @@ The president of the nation’s largest freight railway union is warning that Co
  - [https://www.dailywire.com/news/disgusting-and-creepy-tampax-boycott-trends-after-bizarre-tweet-from-the-brand-goes-viral](https://www.dailywire.com/news/disgusting-and-creepy-tampax-boycott-trends-after-bizarre-tweet-from-the-brand-goes-viral)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 15:16:39+00:00
- - tags: None
 
 The feminine product brand Tampax was trending on Twitter Tuesday as some followers demanded a boycott. Tampax had already come under fire this year due to its leftist ideology and willingness to promote gender theory. This time, Tampax is taking heat for a strange and snarky tweet that some have interpreted as trolling men, though ...
 
@@ -252,7 +221,6 @@ The feminine product brand Tampax was trending on Twitter Tuesday as some follow
  - [https://www.dailywire.com/news/hotel-staffers-had-to-break-up-fight-between-power-ranger-star-and-his-wife-just-hours-before-he-took-his-own-life-report](https://www.dailywire.com/news/hotel-staffers-had-to-break-up-fight-between-power-ranger-star-and-his-wife-just-hours-before-he-took-his-own-life-report)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 15:11:58+00:00
- - tags: None
 
 Hotel staffers reportedly had to break up a fight between the late &#8220;Power Rangers&#8221; star Jason David Frank and his wife, Tammie, who filed for divorce just a few months earlier in August. According to a report from the entertainment site TMZ, Frank and his wife had checked into a Texas hotel — where they ...
 
@@ -260,7 +228,6 @@ Hotel staffers reportedly had to break up a fight between the late &#8220;Power 
  - [https://www.dailywire.com/news/patients-must-be-a-doctors-priority-not-power-or-profits](https://www.dailywire.com/news/patients-must-be-a-doctors-priority-not-power-or-profits)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 14:57:07+00:00
- - tags: None
 
 Heading into the Thanksgiving holiday, hospitals across the United States are overwhelmed by a potent three-headed respiratory monster of COVID, seasonal flu, and Respiratory syncytial virus (RSV). The situation is expected to get worse before it improves, and yet our public officials are sticking with their tired “vaccine only” containment strategy. The Biden Administration has ...
 
@@ -268,7 +235,6 @@ Heading into the Thanksgiving holiday, hospitals across the United States are ov
  - [https://www.dailywire.com/news/videos-show-university-of-idaho-students-laughing-and-dancing-just-days-before-their-murders](https://www.dailywire.com/news/videos-show-university-of-idaho-students-laughing-and-dancing-just-days-before-their-murders)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 14:55:21+00:00
- - tags: None
 
 In the days before they were found murdered in their Moscow, Idaho, home, three of the four University of Idaho victims produced fun, joking videos for TikTok with their two other roommates, who survived the attack that occurred in the early hours of November 13. The videos, released by the Daily Mail, show victims Kaylee ...
 
@@ -276,7 +242,6 @@ In the days before they were found murdered in their Moscow, Idaho, home, three 
  - [https://www.dailywire.com/news/hunters-daughter-and-her-new-husband-have-been-living-at-the-white-house-the-past-few-months-huh](https://www.dailywire.com/news/hunters-daughter-and-her-new-husband-have-been-living-at-the-white-house-the-past-few-months-huh)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 14:55:10+00:00
- - tags: None
 
 The president&#8217;s granddaughter, Naomi, received a glamorous feature in the fashion magazine Vogue, detailing her mid-November wedding weekend at the White House. Slipped in the &#8220;exclusive&#8221; spread was the interesting nugget that the new bride — Hunter&#8217;s daughter — has been living at the President&#8217;s House with her new husband for the last few months. ...
 
@@ -284,7 +249,6 @@ The president&#8217;s granddaughter, Naomi, received a glamorous feature in the 
  - [https://www.dailywire.com/news/atlanta-agrees-to-pay-family-of-rayshard-brooks-who-fired-taser-at-officer-1m-after-deadly-police-shooting](https://www.dailywire.com/news/atlanta-agrees-to-pay-family-of-rayshard-brooks-who-fired-taser-at-officer-1m-after-deadly-police-shooting)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 14:38:58+00:00
- - tags: None
 
 Atlanta city officials unanimously voted Monday to pay $1 million to the family of 27-year-old Rayshard Brooks, who was fatally shot by police after failing a field sobriety test and resisting arrest in June 2020 outside a Wendy&#8217;s restaurant. Councilmembers voted 15-0 nearly three months after a specially appointed prosecutor said he would not pursue ...
 
@@ -292,7 +256,6 @@ Atlanta city officials unanimously voted Monday to pay $1 million to the family 
  - [https://www.dailywire.com/news/massive-swing-desantis-now-leads-in-poll-of-iowa-republicans-where-primary-season-begins](https://www.dailywire.com/news/massive-swing-desantis-now-leads-in-poll-of-iowa-republicans-where-primary-season-begins)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 14:35:41+00:00
- - tags: None
 
 A new poll from Iowa, where the presidential primary season gets underway every four years with the Iowa caucuses, shows Iowa Republicans have swung strongly toward Florida GOP Governor Ron DeSantis as their leading presidential candidate for 2024. The Neighborhood Research and Media poll, released on Monday, showed 32% of respondents selected DeSantis as their first ...
 
@@ -300,7 +263,6 @@ A new poll from Iowa, where the presidential primary season gets underway every 
  - [https://www.dailywire.com/news/that-is-bulls-cnn-head-honcho-says-hes-not-interested-in-being-centrist](https://www.dailywire.com/news/that-is-bulls-cnn-head-honcho-says-hes-not-interested-in-being-centrist)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 14:31:16+00:00
- - tags: None
 
 New CNN CEO Chris Licht pushed back — hard — against claims that he wanted the network to be more &#8220;centrist&#8221; under his leadership, calling the notion &#8220;bulls***.&#8221; Licht explained his position during a recent interview with The Financial Times, saying that his goal was not to drive the network straight down the middle — ...
 
@@ -308,7 +270,6 @@ New CNN CEO Chris Licht pushed back — hard — against claims that he wanted t
  - [https://www.dailywire.com/news/karine-jean-pierre-loses-control-of-briefing-room-and-herself-as-journalists-balk-at-her-skipping-conservative-reporter](https://www.dailywire.com/news/karine-jean-pierre-loses-control-of-briefing-room-and-herself-as-journalists-balk-at-her-skipping-conservative-reporter)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 14:29:32+00:00
- - tags: None
 
 White House Press Secretary Karine Jean-Pierre lost her cool against a conservative reporter after she pressed Dr. Anthony Fauci on his approach to COVID. The briefing room descended into chaos as the longtime director of the National Institute of Allergy and Infectious Diseases answered inquiries from reporters. As Daily Caller White House Correspondent Diana Glebova ...
 
@@ -316,7 +277,6 @@ White House Press Secretary Karine Jean-Pierre lost her cool against a conservat
  - [https://www.dailywire.com/news/this-isnt-right-brooke-shields-calls-out-barbara-walters-over-interview-question-when-actress-was-15](https://www.dailywire.com/news/this-isnt-right-brooke-shields-calls-out-barbara-walters-over-interview-question-when-actress-was-15)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 14:06:11+00:00
- - tags: None
 
 Hollywood star Brooke Shields called out journalist Barbara Walters for a question she asked the actress when she was just 15 years old in the early days of her career, saying it was inappropriate. During the 57-year-old actress&#8217; latest appearance on &#8220;The Drew Barrymore Show,&#8221; Shields told the host that she felt &#8220;taken advantage of&#8221; ...
 
@@ -324,7 +284,6 @@ Hollywood star Brooke Shields called out journalist Barbara Walters for a questi
  - [https://www.dailywire.com/news/skittles-takes-out-full-page-ad-urging-fans-not-to-throw-candy-after-harry-styles-incident](https://www.dailywire.com/news/skittles-takes-out-full-page-ad-urging-fans-not-to-throw-candy-after-harry-styles-incident)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 13:53:46+00:00
- - tags: None
 
 Skittles is urging fans to stop throwing candy at musicians, and the company has even taken out a full-page ad to spread the message. The candy brand’s new campaign appears to be a direct response to an incident involving Harry Styles. Apparently, a concertgoer kept throwing Skittles at the “Watermelon Sugar” composer while he was ...
 
@@ -332,7 +291,6 @@ Skittles is urging fans to stop throwing candy at musicians, and the company has
  - [https://www.dailywire.com/news/that-really-makes-me-nuts-joy-behar-ties-colorado-springs-shooting-to-lauren-boeberts-2021-christmas-photo](https://www.dailywire.com/news/that-really-makes-me-nuts-joy-behar-ties-colorado-springs-shooting-to-lauren-boeberts-2021-christmas-photo)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 13:32:16+00:00
- - tags: None
 
 &#8220;The View&#8221; host Joy Behar drew a straight line on Tuesday from the Saturday night shooting at a nightclub in Colorado Springs, Colorado, to Congresswoman Lauren Boebert&#8217;s 2021 Christmas photo. Behar was discussing the shooting — which took place at Club Q, an LGBTQ establishment — with Colorado&#8217;s Democrat Governor Jared Polis, who is the ...
 
@@ -340,7 +298,6 @@ Skittles is urging fans to stop throwing candy at musicians, and the company has
  - [https://www.dailywire.com/news/left-of-center-media-accepted-millions-from-democrat-donor-and-disgraced-crypto-wunderkind-sam-bankman-fried](https://www.dailywire.com/news/left-of-center-media-accepted-millions-from-democrat-donor-and-disgraced-crypto-wunderkind-sam-bankman-fried)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 13:29:37+00:00
- - tags: None
 
 The case of defunct cryptocurrency exchange FTX and now-broke multibillionaire founder Sam Bankman-Fried is among the most intriguing stories of alleged financial crime in decades, rivaling the heists executed by financier Bernie Madoff and startup darling Elizabeth Holmes. Yet even as institutional investors, celebrity brand ambassadors, and thousands of retail users appear poised to lose ...
 
@@ -348,7 +305,6 @@ The case of defunct cryptocurrency exchange FTX and now-broke multibillionaire f
  - [https://www.dailywire.com/news/idaho-police-work-to-dispel-rumors-surrounding-murder-of-four-university-of-idaho-students](https://www.dailywire.com/news/idaho-police-work-to-dispel-rumors-surrounding-murder-of-four-university-of-idaho-students)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 13:26:31+00:00
- - tags: None
 
 Police in Moscow, Idaho, are working to dispel rumors and speculation that have arisen in the week since four University of Idaho students were found murdered on November 13. No suspect has been identified in the murders of Ethan Chapin, 20; Kaylee Goncalves, 21; Xana Kernodle, 20; and Madison Mogen, 21, who were found stabbed ...
 
@@ -356,7 +312,6 @@ Police in Moscow, Idaho, are working to dispel rumors and speculation that have 
  - [https://www.dailywire.com/news/prosecutors-allege-second-person-involved-in-delphi-murders-of-two-teen-girls](https://www.dailywire.com/news/prosecutors-allege-second-person-involved-in-delphi-murders-of-two-teen-girls)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 12:37:41+00:00
- - tags: None
 
 Prosecutors in Delphi, Indiana, made a startling admission on Tuesday, revealing for the first time they believe that suspect Richard Allen is not the only person involved in the 2017 murders of two teenage girls. The news surprised not only those following the case but also Allen’s defense attorney, who said as much to reporters ...
 
@@ -364,7 +319,6 @@ Prosecutors in Delphi, Indiana, made a startling admission on Tuesday, revealing
  - [https://www.dailywire.com/news/entertainment-giants-and-media-companies-announce-massive-layoffs](https://www.dailywire.com/news/entertainment-giants-and-media-companies-announce-massive-layoffs)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 12:29:54+00:00
- - tags: None
 
 A number of entertainment conglomerates and media companies are announcing layoffs as the macroeconomy continues to impact several industries. Technology companies such as Amazon, Microsoft, and Tesla have announced hiring pauses or layoffs for their corporate offices over the past several months, citing recessionary risk and broader economic uncertainty. Leaders in the media sector are ...
 
@@ -372,7 +326,6 @@ A number of entertainment conglomerates and media companies are announcing layof
  - [https://www.dailywire.com/news/couple-welcomes-twins-from-30-year-old-frozen-embryos-breaking-previous-records](https://www.dailywire.com/news/couple-welcomes-twins-from-30-year-old-frozen-embryos-breaking-previous-records)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 12:20:28+00:00
- - tags: None
 
 A Tennessee couple made history by welcoming a pair of twins born from embryos that were frozen 30 years ago. Before the birth of these two babies, the record for longest-frozen embryos resulting in a successful birth was 27 years. Rachel Ridgeway delivered Lydia (5 lbs. 11 oz.) and Timothy (6 lbs. 7 oz.) on ...
 
@@ -380,7 +333,6 @@ A Tennessee couple made history by welcoming a pair of twins born from embryos t
  - [https://www.dailywire.com/news/sen-mark-kelly-warns-democrats-absolutely-do-not-understand-border-issues](https://www.dailywire.com/news/sen-mark-kelly-warns-democrats-absolutely-do-not-understand-border-issues)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 12:09:14+00:00
- - tags: None
 
 Sen. Mark Kelly (D-AZ) said during an interview with the Washington Post that members of his party are &#8220;not even close&#8221; to understanding the problems on the U.S. southern border. &#8220;Absolutely not. Not even close,&#8221; the incumbent senator said when asked if members of his party understood &#8220;the complexity of the issue and the frustrations ...
 
@@ -388,7 +340,6 @@ Sen. Mark Kelly (D-AZ) said during an interview with the Washington Post that me
  - [https://www.dailywire.com/news/ncca-champion-swimmer-fighting-against-men-in-womens-sports-endorses-herschel-walker-in-new-ad](https://www.dailywire.com/news/ncca-champion-swimmer-fighting-against-men-in-womens-sports-endorses-herschel-walker-in-new-ad)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 12:05:12+00:00
- - tags: None
 
 Riley Gaines, the University of Kentucky 12-time NCAA All-America swimmer on its women’s team who has forthrightly denounced men in women’s sports, endorsed Georgia GOP senatorial candidate Herschel Walker in a new ad noting Walker’s opponent, Raphael Warnock, voted down an amendment that would keep men out of women&#8217;s college sports. In the ad supporting ...
 
@@ -396,7 +347,6 @@ Riley Gaines, the University of Kentucky 12-time NCAA All-America swimmer on its
  - [https://www.dailywire.com/news/process-is-the-punishment-why-endless-trump-probes-never-require-convictions](https://www.dailywire.com/news/process-is-the-punishment-why-endless-trump-probes-never-require-convictions)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 12:02:20+00:00
- - tags: None
 
 The Manhattan district attorney is reopening an investigation into former President Trump’s hush-money payments to porn star Stormy Daniels, and you may be thinking, “When will they ever learn?” From Russiagate, a pair of impeachments, the Justice Department’s raid on Mar-a-Lago, to yet another special counsel, it seems like Trump’s tormentors are an army of ...
 
@@ -404,7 +354,6 @@ The Manhattan district attorney is reopening an investigation into former Presid
  - [https://www.dailywire.com/news/man-suspected-of-driving-suv-into-apple-store-arrested-charged-with-reckless-homicide](https://www.dailywire.com/news/man-suspected-of-driving-suv-into-apple-store-arrested-charged-with-reckless-homicide)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 11:54:33+00:00
- - tags: None
 
 A 53-year-old man was charged with reckless homicide with a motor vehicle after allegedly driving his SUV into a Massachusetts Apple store Monday, according to the district attorney’s office.  Bradley Rein of Hingham, Massachusetts, was arrested Monday and spent the night in jail after one person was killed and at least 19 more were injured ...
 
@@ -412,7 +361,6 @@ A 53-year-old man was charged with reckless homicide with a motor vehicle after 
  - [https://www.dailywire.com/news/mickey-kuhn-last-surviving-member-of-gone-with-the-wind-dies-at-90](https://www.dailywire.com/news/mickey-kuhn-last-surviving-member-of-gone-with-the-wind-dies-at-90)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 11:29:18+00:00
- - tags: None
 
 The last surviving member of the iconic film “Gone With The Wind” has died. Mickey Kuhn, who was cast as Beau Wilkes when he was six years old for the 1939 film, died at the age of 90 in Naples, Florida. Mickey Kuhn, last surviving star of 'Gone With the Wind, dead at 90 https://t.co/lEvJKbLKiW ...
 
@@ -420,7 +368,6 @@ The last surviving member of the iconic film “Gone With The Wind” has died. 
  - [https://www.dailywire.com/news/reality-stars-todd-and-julie-chrisley-sentenced-to-prison](https://www.dailywire.com/news/reality-stars-todd-and-julie-chrisley-sentenced-to-prison)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 11:09:25+00:00
- - tags: None
 
 The stars of “Chrisley Knows Best” were sentenced on Monday to federal prison after being convicted for a slew of financial crimes in June. Todd and Julie Chrisley were convicted of conspiracy to commit bank fraud, bank fraud, tax fraud, and conspiracy to defraud the United States. In addition, Julie was also convicted on a ...
 
@@ -428,7 +375,6 @@ The stars of “Chrisley Knows Best” were sentenced on Monday to federal priso
  - [https://www.dailywire.com/news/bob-dylans-publisher-offers-refunds-for-600-book-with-replica-autograph](https://www.dailywire.com/news/bob-dylans-publisher-offers-refunds-for-600-book-with-replica-autograph)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 10:47:08+00:00
- - tags: None
 
 Bob Dylan’s publisher is issuing refunds for a pricey book that contains his “replica” autograph. Copies of the singer’s new book “The Philosophy of Modern Song” were promoted as being hand-signed by the folk-rock legend and sold for $600 each. But now the publisher admits that the signatures were not being done by hand and ...
 
@@ -436,7 +382,6 @@ Bob Dylan’s publisher is issuing refunds for a pricey book that contains his �
  - [https://www.dailywire.com/news/chickening-out-butterball-ceo-denies-americans-will-switch-from-turkey-to-other-thanksgiving-fare-because-of-inflation](https://www.dailywire.com/news/chickening-out-butterball-ceo-denies-americans-will-switch-from-turkey-to-other-thanksgiving-fare-because-of-inflation)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 10:30:47+00:00
- - tags: None
 
 As inflation comes home to roost for many American families preparing to celebrate Thanksgiving, leadership at one of the largest poultry producers in the nation is denying that households will shift from turkey to other alternatives. Butterball CEO Jay Jandrain remarked during an interview with Fox Business that his company would be able to supply ...
 
@@ -444,7 +389,6 @@ As inflation comes home to roost for many American families preparing to celebra
  - [https://www.dailywire.com/news/the-right-wing-hates-women-gisele-fetterman-lashes-out-at-conservatives](https://www.dailywire.com/news/the-right-wing-hates-women-gisele-fetterman-lashes-out-at-conservatives)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 10:25:12+00:00
- - tags: None
 
 After conservatives noted her penchant for self-aggrandizement, seemingly pushing her senator-elect husband aside so she could be featured in photos, Pennsylvania Sen.-elect John Fetterman’s wife Gisele declared that the “right-wing hates women.” Gisele Fetterman reacted in an interview with the leftist The New Republic after photos she released on social media showed her next to ...
 
@@ -452,7 +396,6 @@ After conservatives noted her penchant for self-aggrandizement, seemingly pushin
  - [https://www.dailywire.com/news/courting-coach-prime-both-south-florida-and-colorado-want-sanders-but-only-one-is-the-perfect-fit](https://www.dailywire.com/news/courting-coach-prime-both-south-florida-and-colorado-want-sanders-but-only-one-is-the-perfect-fit)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 10:20:18+00:00
- - tags: None
 
 247 Sports reported yesterday that Deion Sanders, &#8216;Coach Prime,&#8217; has been in contact with both the University of Colorado and the University of South Florida about their head coaching vacancies. While Colorado would be a nice landing spot for anyone, including Prime Time, the USF job would be the perfect fit. Some people forget that ...
 
@@ -460,7 +403,6 @@ After conservatives noted her penchant for self-aggrandizement, seemingly pushin
  - [https://www.dailywire.com/news/trans-identifying-jeopardy-contestant-amy-schneider-wins-tournament-of-champions](https://www.dailywire.com/news/trans-identifying-jeopardy-contestant-amy-schneider-wins-tournament-of-champions)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 09:40:50+00:00
- - tags: None
 
 Trans-identifying contestant Amy Schnieder made history again on the show by winning the $250,000 prize on “Jeopardy!: Tournament of Champions.” Schneider defeated fellow contestants Andrew He and Sam Buttrey, securing the top spot after winning three games. Schneider is the first trans-identifying contestant to win the tournament. &#8220;I feel amazing,&#8221; Schneider said in a statement ...
 
@@ -468,7 +410,6 @@ Trans-identifying contestant Amy Schnieder made history again on the show by win
  - [https://www.dailywire.com/news/news-outlets-expose-themselves-as-tech-illiterate-by-taking-years-to-authenticate-hunters-laptop](https://www.dailywire.com/news/news-outlets-expose-themselves-as-tech-illiterate-by-taking-years-to-authenticate-hunters-laptop)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 09:36:28+00:00
- - tags: None
 
 For anyone with basic computer programming knowledge, it needed to take only minutes to conclusively say that emails on the laptop are authentic. An anti-spam measure called DKIM lets the possessor of an email ask the sender’s server whether it really sent a message with the given text in order to prevent spammers from impersonating others. Your email provider likely runs this check instantaneously anytime you open an email.
 
@@ -476,6 +417,5 @@ For anyone with basic computer programming knowledge, it needed to take only min
  - [https://www.dailywire.com/news/arizona-two-counties-delay-election-certification-as-ag-issues-letter-concerning-statutory-violations-in-maricopa-county](https://www.dailywire.com/news/arizona-two-counties-delay-election-certification-as-ag-issues-letter-concerning-statutory-violations-in-maricopa-county)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-22 09:21:51+00:00
- - tags: None
 
 At least two counties in Arizona have confirmed that their certification of the 2022 election will be delayed as the state&#8217;s attorney general&#8217;s office wrote a letter claiming there&#8217;s evidence of &#8220;statutory violations&#8221; that occurred in Maricopa County on Election Day. Republican-controlled Cochise County and Mohave County both voted to delay certification until the November 28 ...

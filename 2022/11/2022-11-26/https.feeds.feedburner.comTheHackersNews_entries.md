@@ -1,10 +1,9 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews
+# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
 
 ## All You Need to Know About Emotet in 2022
  - [https://thehackernews.com/2022/11/all-you-need-to-know-about-emotet-in.html](https://thehackernews.com/2022/11/all-you-need-to-know-about-emotet-in.html)
  - RSS feed: https://feeds.feedburner.com/TheHackersNews
  - date published: 2022-11-26 11:49:00+00:00
- - tags: None
 
 For 6 months, the infamous Emotet botnet has shown almost no activity, and now it's distributing malicious spam. Let's dive into details and discuss all you need to know about the notorious malware to combat it.
 Why is everyone scared of Emotet?
@@ -14,7 +13,6 @@ Emotet is by far one of the most dangerous trojans ever created. The malware be
  - [http://thehackernews.com/2022/11/all-you-need-to-know-about-emotet-in.html](http://thehackernews.com/2022/11/all-you-need-to-know-about-emotet-in.html)
  - RSS feed: https://feeds.feedburner.com/TheHackersNews
  - date published: 2022-11-26 11:49:00+00:00
- - tags: None
 
 For 6 months, the infamous Emotet botnet has shown almost no activity, and now it's distributing malicious spam. Let's dive into details and discuss all you need to know about the notorious malware to combat it.
 Why is everyone scared of Emotet?
@@ -24,7 +22,6 @@ Emotet is by far one of the most dangerous trojans ever created. The malware be
  - [https://thehackernews.com/2022/11/us-bans-chinese-telecom-equipment-and.html](https://thehackernews.com/2022/11/us-bans-chinese-telecom-equipment-and.html)
  - RSS feed: https://feeds.feedburner.com/TheHackersNews
  - date published: 2022-11-26 04:52:00+00:00
- - tags: None
 
 The U.S. Federal Communications Commission (FCC) formally announced it will no longer authorize electronic equipment from Huawei, ZTE, Hytera, Hikvision, and Dahua, deeming them an "unacceptable" national security threat.
 All these Chinese telecom and video surveillance companies were previously included in the Covered List as of March 12, 2021.
@@ -34,7 +31,6 @@ All these Chinese telecom and video surveillance companies were previously inclu
  - [http://thehackernews.com/2022/11/us-bans-chinese-telecom-equipment-and.html](http://thehackernews.com/2022/11/us-bans-chinese-telecom-equipment-and.html)
  - RSS feed: https://feeds.feedburner.com/TheHackersNews
  - date published: 2022-11-26 04:52:00+00:00
- - tags: None
 
 The U.S. Federal Communications Commission (FCC) formally announced it will no longer authorize electronic equipment from Huawei, ZTE, Hytera, Hikvision, and Dahua, deeming them an "unacceptable" national security threat.
 All these Chinese telecom and video surveillance companies were previously included in the Covered List as of March 12, 2021.
@@ -44,7 +40,6 @@ All these Chinese telecom and video surveillance companies were previously inclu
  - [https://thehackernews.com/2022/11/russia-based-ransomboggs-ransomware.html](https://thehackernews.com/2022/11/russia-based-ransomboggs-ransomware.html)
  - RSS feed: https://feeds.feedburner.com/TheHackersNews
  - date published: 2022-11-26 04:28:00+00:00
- - tags: None
 
 Ukraine has come under a fresh onslaught of ransomware attacks that mirror previous intrusions attributed to the Russia-based Sandworm nation-state group.
 Slovak cybersecurity company ESET, which dubbed the new ransomware strain RansomBoggs, said the attacks against several Ukrainian entities were first detected on November 21, 2022.

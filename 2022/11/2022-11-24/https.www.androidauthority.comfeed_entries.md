@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## Save up to $450 in the latest Samsung tablet and laptop Black Friday deals
  - [https://www.androidauthority.com/samsung-tablet-laptop-black-friday-deals-3241158/](https://www.androidauthority.com/samsung-tablet-laptop-black-friday-deals-3241158/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-24 23:24:06+00:00
- - tags: None
 
 There are new low prices on everything from the Galaxy Tab A8 to the Galaxy Book 2 Pro laptops right now.
 
@@ -12,7 +11,6 @@ There are new low prices on everything from the Galaxy Tab A8 to the Galaxy Book
  - [https://www.androidauthority.com/sonos-crutchfield-deals-3241110/](https://www.androidauthority.com/sonos-crutchfield-deals-3241110/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-24 20:56:42+00:00
- - tags: None
 
 The fantastic Sonos Black Friday deals are available at Crutchfield, with lifetime support, free returns, and much more.
 
@@ -20,7 +18,6 @@ The fantastic Sonos Black Friday deals are available at Crutchfield, with lifeti
  - [https://www.androidauthority.com/canada-black-friday-deals-2022-3241059/](https://www.androidauthority.com/canada-black-friday-deals-2022-3241059/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-24 18:54:33+00:00
- - tags: None
 
 Canadians can get in on the huge sales event with big deals on phones, smartwatches, and headphones.
 
@@ -28,7 +25,6 @@ Canadians can get in on the huge sales event with big deals on phones, smartwatc
  - [https://www.androidauthority.com/razer-huntsman-elite-3238089/](https://www.androidauthority.com/razer-huntsman-elite-3238089/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-24 17:31:01+00:00
- - tags: None
 
 Razer has put together a mechanical keyboard so compelling, it's almost a no-brainer when on sale.
 
@@ -36,7 +32,6 @@ Razer has put together a mechanical keyboard so compelling, it's almost a no-bra
  - [https://www.androidauthority.com/garmin-black-friday-deals-3241023/](https://www.androidauthority.com/garmin-black-friday-deals-3241023/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-24 17:20:37+00:00
- - tags: None
 
 You can save as much as $400 on select smartwatches in this impressive sale.
 
@@ -44,7 +39,6 @@ You can save as much as $400 on select smartwatches in this impressive sale.
  - [https://www.androidauthority.com/andor-season-2-disney-plus-3240667/](https://www.androidauthority.com/andor-season-2-disney-plus-3240667/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-24 15:30:35+00:00
- - tags: None
 
 With a stellar first season in the bag, we look ahead to what's next for the Disney Plus standout.
 
@@ -52,7 +46,6 @@ With a stellar first season in the bag, we look ahead to what's next for the Dis
  - [https://www.androidauthority.com/best-uk-black-friday-deals-3240604/](https://www.androidauthority.com/best-uk-black-friday-deals-3240604/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-24 09:42:13+00:00
- - tags: None
 
 From the Pixel 6a to the Apple Watch and beyond, here are the best UK deals we've uncovered.
 
@@ -60,6 +53,5 @@ From the Pixel 6a to the Apple Watch and beyond, here are the best UK deals we'v
  - [https://www.androidauthority.com/daily-authority-november-24-2022-3240917/](https://www.androidauthority.com/daily-authority-november-24-2022-3240917/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-24 08:32:17+00:00
- - tags: None
 
 Plus, a look at ramen-based fuel in Japan!

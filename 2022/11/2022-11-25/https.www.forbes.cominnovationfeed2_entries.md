@@ -1,10 +1,9 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2
+# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
 
 ## In Photos: NASA’s Orion SpaceCraft Sends Back New Images Of The Moon As It Heads For The Unknown
  - [https://www.forbes.com/sites/jamiecartereurope/2022/11/25/in-photos-nasas-orion-spacecraft-sends-back-new-images-of-the-moon-as-it-heads-for-the-unknown/](https://www.forbes.com/sites/jamiecartereurope/2022/11/25/in-photos-nasas-orion-spacecraft-sends-back-new-images-of-the-moon-as-it-heads-for-the-unknown/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 23:39:28+00:00
- - tags: None
 
 The first spacecraft designed for astronauts to visit the Moon for almost 50 years has taken some awesome images so far.
 
@@ -12,7 +11,6 @@ The first spacecraft designed for astronauts to visit the Moon for almost 50 yea
  - [https://www.forbes.com/sites/dennismersereau/2022/11/25/thanksgiving-tornado-warnings-are-a-reminder-severe-storms-dont-take-a-holiday/](https://www.forbes.com/sites/dennismersereau/2022/11/25/thanksgiving-tornado-warnings-are-a-reminder-severe-storms-dont-take-a-holiday/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 21:54:22+00:00
- - tags: None
 
 The risk for severe thunderstorms continues across the United States even as we dive into the holiday season.
 
@@ -20,7 +18,6 @@ The risk for severe thunderstorms continues across the United States even as we 
  - [https://www.forbes.com/sites/mariannelehnis/2022/11/25/which-european-renewable-energy-alternatives-will-dominate-in-the-long-term/](https://www.forbes.com/sites/mariannelehnis/2022/11/25/which-european-renewable-energy-alternatives-will-dominate-in-the-long-term/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 21:15:56+00:00
- - tags: None
 
 European energy policy has shifted more dramatically over the last two years than it has in the previous two decades.
 
@@ -28,7 +25,6 @@ European energy policy has shifted more dramatically over the last two years tha
  - [https://www.forbes.com/sites/roberthart/2022/11/25/elon-musk-is-restoring-banned-twitter-accounts-heres-why-the-most-controversial-users-were-suspended-and-whos-already-back/](https://www.forbes.com/sites/roberthart/2022/11/25/elon-musk-is-restoring-banned-twitter-accounts-heres-why-the-most-controversial-users-were-suspended-and-whos-already-back/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 20:31:25+00:00
- - tags: None
 
 A former Ku Klux Klan leader, a disgraced pharmaceutical executive, a prominent pillow salesman, a former pro baseball player, an outspoken rapper and a host of election conspiracists could all return to Twitter under Musk’s decision to restore banned accounts.
 
@@ -36,7 +32,6 @@ A former Ku Klux Klan leader, a disgraced pharmaceutical executive, a prominent 
  - [https://www.forbes.com/sites/anuradhavaranasi/2022/11/25/adhd-medication-might-help-in-treating-amphetamine-addiction/](https://www.forbes.com/sites/anuradhavaranasi/2022/11/25/adhd-medication-might-help-in-treating-amphetamine-addiction/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 20:30:34+00:00
- - tags: None
 
 A recent JAMA Psychiatry study found that an ADHD medicine called lisdexamfetamine reduced the risk of hospitalization due to amphetamine or methamphetamine addiciton by 18% and 14% for deaths caused by substance abuse disorders.
 
@@ -44,7 +39,6 @@ A recent JAMA Psychiatry study found that an ADHD medicine called lisdexamfetami
  - [https://www.forbes.com/sites/brucelee/2022/11/25/brazils-neymar-suffers-ankle-injury-may-miss-next-2-world-cup-matches/](https://www.forbes.com/sites/brucelee/2022/11/25/brazils-neymar-suffers-ankle-injury-may-miss-next-2-world-cup-matches/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 20:03:29+00:00
- - tags: None
 
 According to the Brazilian team doctor, “The tests showed a lateral ligament injury on Neymar's right ankle, along with a small bone edema."
 
@@ -52,7 +46,6 @@ According to the Brazilian team doctor, “The tests showed a lateral ligament i
  - [https://www.forbes.com/sites/priyashukla/2022/11/25/black-in-marine-science-week-returns-on-november-27/](https://www.forbes.com/sites/priyashukla/2022/11/25/black-in-marine-science-week-returns-on-november-27/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 19:00:00+00:00
- - tags: None
 
 Black in Marine Science Weeks returns for its third year starting Sunday, November 27.
 
@@ -60,7 +53,6 @@ Black in Marine Science Weeks returns for its third year starting Sunday, Novemb
  - [https://www.forbes.com/sites/ewanspence/2022/11/25/apple-headlines-iphone-15-specs-usb-design-leak-ipd-pro-ipad-air-manchester-united/](https://www.forbes.com/sites/ewanspence/2022/11/25/apple-headlines-iphone-15-specs-usb-design-leak-ipd-pro-ipad-air-manchester-united/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 17:57:53+00:00
- - tags: None
 
 This week’s Apple headlines; the new iPhone 15 design leaks, Apple’s sneaky USB trick, iPhone impacted by Foxconn protests, iPad Pro vs iPad Air, Apple’s latest privacy problem, will Tim Cook Buy Manchester United, and more...
 
@@ -68,7 +60,6 @@ This week’s Apple headlines; the new iPhone 15 design leaks, Apple’s sneaky 
  - [https://www.forbes.com/sites/andrewwilliams/2022/11/25/samsung-galaxy-watch-5-update-adds-world-cup-inspired-watch-face/](https://www.forbes.com/sites/andrewwilliams/2022/11/25/samsung-galaxy-watch-5-update-adds-world-cup-inspired-watch-face/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 17:53:48+00:00
- - tags: None
 
 Samsung has released an update for the Galaxy Watch 5 that adds a World Cup inspired watch face.
 
@@ -76,7 +67,6 @@ Samsung has released an update for the Galaxy Watch 5 that adds a World Cup insp
  - [https://www.forbes.com/sites/ewanspence/2022/11/25/android-news-google-samsung-s23-galaxy-honor-magic-vs-oneplus-tablet/](https://www.forbes.com/sites/ewanspence/2022/11/25/android-news-google-samsung-s23-galaxy-honor-magic-vs-oneplus-tablet/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 17:53:24+00:00
- - tags: None
 
 This week’s Android headlines; Samsung’s Galaxy S23 upgrade, how Samsung could benefit from Apple’s woes, Pixel 7 vs Galaxy S22, Honor Magic Vs launch, Qualcomm Snapdragon 782 introduced, why Samsung is leading the Android tablet race, and more...
 
@@ -84,7 +74,6 @@ This week’s Android headlines; Samsung’s Galaxy S23 upgrade, how Samsung cou
  - [https://www.forbes.com/sites/janetwburns/2022/11/25/another-black-friday-another-day-of-global-makeamazonpay-protests/](https://www.forbes.com/sites/janetwburns/2022/11/25/another-black-friday-another-day-of-global-makeamazonpay-protests/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 17:39:11+00:00
- - tags: None
 
 It’s one of the biggest shopping days of the year for the Western world, and that means Amazon workers around the globe are demonstrating once again to demand that the retail and web hosting giant clean up its act across the board.
 
@@ -92,7 +81,6 @@ It’s one of the biggest shopping days of the year for the Western world, and t
  - [https://www.forbes.com/sites/johnkoetsier/2022/11/25/twitter-launching-new-verified-account-program-next-week-multiple-colors-for-different-accounts/](https://www.forbes.com/sites/johnkoetsier/2022/11/25/twitter-launching-new-verified-account-program-next-week-multiple-colors-for-different-accounts/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 17:01:08+00:00
- - tags: None
 
 Twitter public relations AKA Elon Musk’s personal Twitter account announced just after midnight today that Twitter will likely re-launch the Verified program next week Friday, on December 2.
 
@@ -100,7 +88,6 @@ Twitter public relations AKA Elon Musk’s personal Twitter account announced ju
  - [https://www.forbes.com/sites/davidphelan/2022/11/25/apple-airpods-pro-2-secrets-revealed-including-why-theres-no-lossless-audio/](https://www.forbes.com/sites/davidphelan/2022/11/25/apple-airpods-pro-2-secrets-revealed-including-why-theres-no-lossless-audio/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 17:00:24+00:00
- - tags: None
 
 A new interview with an Apple audio engineer reveals the secrets of AirPods Pro 2.
 
@@ -108,7 +95,6 @@ A new interview with an Apple audio engineer reveals the secrets of AirPods Pro 
  - [https://www.forbes.com/sites/roberthart/2022/11/25/elon-musk-says-twitter-is-launching-a-new-color-coded-verification-scheme-next-week---heres-what-we-know-so-far/](https://www.forbes.com/sites/roberthart/2022/11/25/elon-musk-says-twitter-is-launching-a-new-color-coded-verification-scheme-next-week---heres-what-we-know-so-far/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 16:25:41+00:00
- - tags: None
 
 Musk said accounts will now be manually authenticated and Twitter’s ubiquitous blue check mark will be replaced with a system of blue, gold and gray ticks.
 
@@ -116,7 +102,6 @@ Musk said accounts will now be manually authenticated and Twitter’s ubiquitous
  - [https://www.forbes.com/sites/kateoflahertyuk/2022/11/25/do-you-use-the-worlds-most-common-password/](https://www.forbes.com/sites/kateoflahertyuk/2022/11/25/do-you-use-the-worlds-most-common-password/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 15:50:14+00:00
- - tags: None
 
 Do you use the world’s most common password? If so, you might want to change it.
 
@@ -124,7 +109,6 @@ Do you use the world’s most common password? If so, you might want to change i
  - [https://www.forbes.com/sites/taarinikaurdang/2022/11/25/inspiring-youngsters-leveraging-science-and-technology-for-improving-human-life/](https://www.forbes.com/sites/taarinikaurdang/2022/11/25/inspiring-youngsters-leveraging-science-and-technology-for-improving-human-life/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 15:35:51+00:00
- - tags: None
 
 Can age be a roadblock for driving social change? This article showcases people who have broken age-based barriers to bring meaningful impact to their communities. My goal in writing this article is to encourage youngsters to take the step forward for driving change.
 
@@ -132,7 +116,6 @@ Can age be a roadblock for driving social change? This article showcases people 
  - [https://www.forbes.com/sites/marksparrow/2022/11/25/plugables-pocket-size-docking-station-can-drive-two-4k-screens/](https://www.forbes.com/sites/marksparrow/2022/11/25/plugables-pocket-size-docking-station-can-drive-two-4k-screens/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 15:00:12+00:00
- - tags: None
 
 Plugable’s new docking station may be small but it's very powerful. Thanks to a DisplayLink chipset, the Plugable USBC-6950PDZ can drive a couple of 4K displays and has the ports you need for life on the road.
 
@@ -140,7 +123,6 @@ Plugable’s new docking station may be small but it's very powerful. Thanks to 
  - [https://www.forbes.com/sites/traversmark/2022/11/25/a-psychologist-explains-why-holiday-sales-are-so-hard-to-resist/](https://www.forbes.com/sites/traversmark/2022/11/25/a-psychologist-explains-why-holiday-sales-are-so-hard-to-resist/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 14:48:05+00:00
- - tags: None
 
 Science reveals why the holidays can trigger your shopping addiction.
 
@@ -148,7 +130,6 @@ Science reveals why the holidays can trigger your shopping addiction.
  - [https://www.forbes.com/sites/gilpress/2022/11/25/history-of-ai-in-33-breakthroughs-digital-storage/](https://www.forbes.com/sites/gilpress/2022/11/25/history-of-ai-in-33-breakthroughs-digital-storage/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 14:33:00+00:00
- - tags: None
 
 The information explosion has turned into the big digital data explosion, enabling deep learning-driven data analysis, today's AI
 
@@ -156,7 +137,6 @@ The information explosion has turned into the big digital data explosion, enabli
  - [https://www.forbes.com/sites/paulmonckton/2022/11/25/will-iphones-and-galaxies-adopt-this-radical-new-smartphone-camera-technology/](https://www.forbes.com/sites/paulmonckton/2022/11/25/will-iphones-and-galaxies-adopt-this-radical-new-smartphone-camera-technology/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 14:04:09+00:00
- - tags: None
 
 A radical new smartphone lens is expected to appear in 2023.
 
@@ -164,7 +144,6 @@ A radical new smartphone lens is expected to appear in 2023.
  - [https://www.forbes.com/sites/daveywinder/2022/11/25/twitter-users-warned-not-to-delete-their-accounts-heres-why/](https://www.forbes.com/sites/daveywinder/2022/11/25/twitter-users-warned-not-to-delete-their-accounts-heres-why/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 14:00:00+00:00
- - tags: None
 
 If you're fed up with Twitter, deleting your account is a dangerous idea. Do this instead.
 
@@ -172,7 +151,6 @@ If you're fed up with Twitter, deleting your account is a dangerous idea. Do thi
  - [https://www.forbes.com/sites/forrester/2022/11/25/marketers-turn-impressions-into-intent-this-holiday-season/](https://www.forbes.com/sites/forrester/2022/11/25/marketers-turn-impressions-into-intent-this-holiday-season/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 13:30:00+00:00
- - tags: None
 
 To generate and harvest demand while expanding sell-through this holiday season, many marketers are turning to retail media.
 
@@ -180,7 +158,6 @@ To generate and harvest demand while expanding sell-through this holiday season,
  - [https://www.forbes.com/sites/nilsrokke/2022/11/25/how-the-us-could-determine-future-electricity-prices-in-europe/](https://www.forbes.com/sites/nilsrokke/2022/11/25/how-the-us-could-determine-future-electricity-prices-in-europe/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 13:28:57+00:00
- - tags: None
 
 As the world’s third largest exporter of LNG after Australia and Qatar, the U.S. is well positioned to become a long-term supplier of energy to Europe.
 
@@ -188,7 +165,6 @@ As the world’s third largest exporter of LNG after Australia and Qatar, the U.
  - [https://www.forbes.com/sites/tomgroenfeldt/2022/11/25/real-time-payments-in-us-marks-fifth-year---fednow-coming-in-july/](https://www.forbes.com/sites/tomgroenfeldt/2022/11/25/real-time-payments-in-us-marks-fifth-year---fednow-coming-in-july/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 13:19:21+00:00
- - tags: None
 
 The Clearing House is eager to show that it provides services for small banks and credit unions and isn’t just a network for the major banks.
 
@@ -196,7 +172,6 @@ The Clearing House is eager to show that it provides services for small banks an
  - [https://www.forbes.com/sites/antonyleather/2022/11/25/elgato-stream-deck-review-a-must-have-for-streamers-and-content-creators/](https://www.forbes.com/sites/antonyleather/2022/11/25/elgato-stream-deck-review-a-must-have-for-streamers-and-content-creators/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 12:08:33+00:00
- - tags: None
 
 Streamers and content creators should check out Elgato's new Stream Deck+
 
@@ -204,7 +179,6 @@ Streamers and content creators should check out Elgato's new Stream Deck+
  - [https://www.forbes.com/sites/marksparrow/2022/11/25/haylou-purfree-bone-conducting-earbuds-are-waterproof-and-will-even-work-with-earplugs/](https://www.forbes.com/sites/marksparrow/2022/11/25/haylou-purfree-bone-conducting-earbuds-are-waterproof-and-will-even-work-with-earplugs/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 12:00:00+00:00
- - tags: None
 
 Bone-conduction is an alternative to regular earbuds. The Haylou PurFree headset is a great choice for sports and industrial use thanks to an IP67 rating that can resist water and dust.
 
@@ -212,7 +186,6 @@ Bone-conduction is an alternative to regular earbuds. The Haylou PurFree headset
  - [https://www.forbes.com/sites/emmawoollacott/2022/11/25/uk-government-departments-ordered-to-remove-chinese-security-cameras/](https://www.forbes.com/sites/emmawoollacott/2022/11/25/uk-government-departments-ordered-to-remove-chinese-security-cameras/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 11:02:07+00:00
- - tags: None
 
 The British government has ordered its departments to stop installing Chinese-made security cameras at 'sensitive' sites, citing security concerns.
 
@@ -220,7 +193,6 @@ The British government has ordered its departments to stop installing Chinese-ma
  - [https://www.forbes.com/sites/daveywinder/2022/11/25/google-issues-emergency-chrome-security-update-for-all-users/](https://www.forbes.com/sites/daveywinder/2022/11/25/google-issues-emergency-chrome-security-update-for-all-users/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 11:00:01+00:00
- - tags: None
 
 Google has just confirmed the eighth zero-day security exploit impacting the Chrome browser on Windows, Mac, Linux, and Android platforms.
 
@@ -228,7 +200,6 @@ Google has just confirmed the eighth zero-day security exploit impacting the Chr
  - [https://www.forbes.com/sites/steveforbes/2022/11/25/heres-how-to-show-youre-not-just-another-ambitious-hack-steve-forbes-has-message-for-buttigieg/](https://www.forbes.com/sites/steveforbes/2022/11/25/heres-how-to-show-youre-not-just-another-ambitious-hack-steve-forbes-has-message-for-buttigieg/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 11:00:00+00:00
- - tags: None
 
 Transportation Secretary Pete Buttigieg should order the Federal Highway Administration to lay off states that try to enliven dull—and ignored—road messages.
 
@@ -236,7 +207,6 @@ Transportation Secretary Pete Buttigieg should order the Federal Highway Adminis
  - [https://www.forbes.com/sites/evaamsen/2022/11/25/new-exhibits-at-wellcome-collection-reflect-on-historic-science-collections/](https://www.forbes.com/sites/evaamsen/2022/11/25/new-exhibits-at-wellcome-collection-reflect-on-historic-science-collections/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 10:55:32+00:00
- - tags: None
 
 A new temporary exhibit at London’s health and medicine museum the Wellcome Collection reftects on how museums are handling natural history and anthropological collections.
 
@@ -244,7 +214,6 @@ A new temporary exhibit at London’s health and medicine museum the Wellcome Co
  - [https://www.forbes.com/sites/anuradhavaranasi/2022/11/25/at-least-76-of-people-with-long-covid-face-stigma/](https://www.forbes.com/sites/anuradhavaranasi/2022/11/25/at-least-76-of-people-with-long-covid-face-stigma/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 10:40:22+00:00
- - tags: None
 
 In a recent UK-based study published in the journal PLOS One, researchers found that among people with long Covid, the prevalence of them facing stigma on a frequent basis was 95% and 76% for those who always experienced stigma.
 
@@ -252,7 +221,6 @@ In a recent UK-based study published in the journal PLOS One, researchers found 
  - [https://www.forbes.com/sites/charliefink/2022/11/24/this-week-in-xr-is-this-a-perilous-moment-for-vr/](https://www.forbes.com/sites/charliefink/2022/11/24/this-week-in-xr-is-this-a-perilous-moment-for-vr/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 03:59:41+00:00
- - tags: None
 
 It took the PC twenty years to reach 50% of American homes.
 
@@ -260,7 +228,6 @@ It took the PC twenty years to reach 50% of American homes.
  - [https://www.forbes.com/sites/russellflannery/2022/11/24/it-was-all-a-mistake-iphone-supplier-says-after-violent-worker-protests-in-china/](https://www.forbes.com/sites/russellflannery/2022/11/24/it-was-all-a-mistake-iphone-supplier-says-after-violent-worker-protests-in-china/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 03:30:42+00:00
- - tags: None
 
 Hon Hai apologized on Thursday for a "technical error" in announcing the amount of bonuses promised to staff, Central News Agency says
 
@@ -268,7 +235,6 @@ Hon Hai apologized on Thursday for a "technical error" in announcing the amount 
  - [https://www.forbes.com/sites/erikkain/2022/11/24/todays-wordle-friday-november-25th-hints-clues-and-answer-word-of-the-day-524/](https://www.forbes.com/sites/erikkain/2022/11/24/todays-wordle-friday-november-25th-hints-clues-and-answer-word-of-the-day-524/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 03:30:32+00:00
- - tags: None
 
 How to solve today's Wordle.
 
@@ -276,7 +242,6 @@ How to solve today's Wordle.
  - [https://www.forbes.com/sites/jonathanburgos/2022/11/24/hong-kong-fintech-xanpool-to-expand-across-europe-latin-america-after-raising-41-million/](https://www.forbes.com/sites/jonathanburgos/2022/11/24/hong-kong-fintech-xanpool-to-expand-across-europe-latin-america-after-raising-41-million/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 01:41:46+00:00
- - tags: None
 
 XanPool—a cross-border payments infrastructure provider—is expanding across Europe, Middle East, North Africa and Latin America after raising $41 million this year.
 
@@ -284,7 +249,6 @@ XanPool—a cross-border payments infrastructure provider—is expanding across 
  - [https://www.forbes.com/sites/krisholt/2022/11/24/todays-quordle-answers-and-clues-for-friday-november-25/](https://www.forbes.com/sites/krisholt/2022/11/24/todays-quordle-answers-and-clues-for-friday-november-25/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 01:15:32+00:00
- - tags: None
 
 Some hints and the solution for today's 'Quordle' are just ahead.
 
@@ -292,7 +256,6 @@ Some hints and the solution for today's 'Quordle' are just ahead.
  - [https://www.forbes.com/sites/krisholt/2022/11/24/todays-heardle-answer-and-clues-for-friday-november-25/](https://www.forbes.com/sites/krisholt/2022/11/24/todays-heardle-answer-and-clues-for-friday-november-25/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 01:00:54+00:00
- - tags: None
 
 Here's today's 'Heardle' song, along with some hints.
 
@@ -300,6 +263,5 @@ Here's today's 'Heardle' song, along with some hints.
  - [https://www.forbes.com/sites/jamiecartereurope/2022/11/24/would-you-pay-125000-to-see-the-northern-lights-from-a-space-balloon/](https://www.forbes.com/sites/jamiecartereurope/2022/11/24/would-you-pay-125000-to-see-the-northern-lights-from-a-space-balloon/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-25 01:00:00+00:00
- - tags: None
 
 Space Perspectives has announced that its high-altitude balloons will launch from a huge boat that can send passengers sky-wards from anywhere in the world.

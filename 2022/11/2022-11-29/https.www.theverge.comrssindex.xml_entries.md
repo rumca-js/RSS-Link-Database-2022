@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## The new Super Mario Bros. trailer is a peach
  - [https://www.theverge.com/2022/11/29/23484511/super-mario-bros-movie-trailer-princess-peach](https://www.theverge.com/2022/11/29/23484511/super-mario-bros-movie-trailer-princess-peach)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-29 22:09:48+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/S7gzqkRYhsmH-7ynbRBZgt4VO5Q=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71688948/The_Super_Mario_Bros._Movie_Direct___11.29.2022__Second_Trailer__33_43_screenshot.0.png" />
@@ -21,7 +20,6 @@
  - [https://www.theverge.com/2022/11/29/23484715/amazon-aws-simspace-weaver-ucloud-simulations-simcity](https://www.theverge.com/2022/11/29/23484715/amazon-aws-simspace-weaver-ucloud-simulations-simcity)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-29 22:07:37+00:00
- - tags: None
 
 <figure>
       <img alt="A lot of virtual people walking around a simulated Las Vegas." src="https://cdn.vox-cdn.com/thumbor/MyNd2X40_aEquj08mT-jSFZNsMw=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71688937/AWS_SimSpace_Weaver_and_uCrowds_city_demo_0_6_screenshot.0.png" />
@@ -38,7 +36,6 @@
  - [https://www.theverge.com/2022/11/29/23483947/nintendo-controller-self-repair-good-customer-service-ewaste](https://www.theverge.com/2022/11/29/23483947/nintendo-controller-self-repair-good-customer-service-ewaste)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-29 21:49:37+00:00
- - tags: None
 
 <figure>
       <img alt="Close-up of the hole where the right joystick cover should be, but now there’s an analog mechanism with a skinny metal rod protruding out. Visible face buttons are the B, Y, home, and plus buttons along with a silver directional pad on a matte black controller." src="https://cdn.vox-cdn.com/thumbor/7rlx3JYGgeIwBxUr9_W5VrM8J6g=/0x0:4032x2688/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71688846/IMG_5587.0.jpeg" />
@@ -55,7 +52,6 @@
  - [https://www.theverge.com/2022/11/29/23484661/lg-ultragear-45-oled-msi-project-491c-samsung-odyssey-g9-competition](https://www.theverge.com/2022/11/29/23484661/lg-ultragear-45-oled-msi-project-491c-samsung-odyssey-g9-competition)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-29 21:44:56+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/_5ehCvZmR6NMFc92XS_Un_U0aqU=/0x0:1593x1062/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71688826/lg_curved_gaming_monitor_45_inch.0.jpg" />
@@ -76,7 +72,6 @@
  - [https://www.theverge.com/2022/11/29/23484658/overwatch-2-season-2-battle-pass-hero-ramattra](https://www.theverge.com/2022/11/29/23484658/overwatch-2-season-2-battle-pass-hero-ramattra)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-29 21:34:15+00:00
- - tags: None
 
 <figure>
       <img alt="Graphic from Overwatch 2 highlighting three heroes Ramattra, Junker Queen, and Pharah in their new Olympian gods themed cosmetic skins" src="https://cdn.vox-cdn.com/thumbor/ewN5B7rx-QqA9c8ki1bUrjndZ9k=/97x0:1717x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71688773/OW2_S2_BPKeyArt.0.png" />
@@ -95,7 +90,6 @@
  - [https://www.theverge.com/2022/11/29/23484424/sony-playstation-tournament-prizes-contest-esports](https://www.theverge.com/2022/11/29/23484424/sony-playstation-tournament-prizes-contest-esports)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-29 21:12:08+00:00
- - tags: None
 
 <figure>
       <img alt="A promotional image for PlayStation’s Win-A-Thon tournament" src="https://cdn.vox-cdn.com/thumbor/JWosi9WI8zOqIYv-VBJpPwtcv44=/24x0:570x364/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71688657/Screenshot_2022_11_29_145813.0.jpg" />
@@ -116,7 +110,6 @@
  - [https://www.theverge.com/23460947/netflix-hulu-disney-plus-apple-tv-streaming-price-hikes-truth-behind](https://www.theverge.com/23460947/netflix-hulu-disney-plus-apple-tv-streaming-price-hikes-truth-behind)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-29 21:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="An illustration of the Netflix logo." src="https://cdn.vox-cdn.com/thumbor/bUDqsyGoMmzrMNQzj1CkT_6aKU0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71688581/acastro_STK072_04.0.jpg" />
@@ -133,7 +126,6 @@
  - [https://www.theverge.com/2022/11/29/23484646/music-streaming-trillion-spotify-apple-youtube-google](https://www.theverge.com/2022/11/29/23484646/music-streaming-trillion-spotify-apple-youtube-google)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-29 20:45:00+00:00
- - tags: None
 
 <figure>
       <img alt="A pattern of play and pause buttons" src="https://cdn.vox-cdn.com/thumbor/xdUnnsY5YRZo4WnYc5ybfXzJU3g=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71688527/VRG_Illo_STK427_Podcasting_buttons.0.jpg" />
@@ -152,7 +144,6 @@
  - [https://www.theverge.com/23484205/google-calendar-share-schedule-how-to](https://www.theverge.com/23484205/google-calendar-share-schedule-how-to)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-29 20:37:23+00:00
- - tags: None
 
 <figure>
       <img alt="A hand holds up a smartphone with the Google logo in the middle. " src="https://cdn.vox-cdn.com/thumbor/hEtvER2k_dbdfBP2tCJskMoTsN0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71688464/HT012_google_0005.0.jpg" />
@@ -175,7 +166,6 @@
  - [https://www.theverge.com/2022/11/29/23484571/artemis-1-halfway-record-distance](https://www.theverge.com/2022/11/29/23484571/artemis-1-halfway-record-distance)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-29 20:11:46+00:00
- - tags: None
 
 <figure>
       <img alt="The exterior of the Orion capsule, with the Moon and Earth in the distance." src="https://cdn.vox-cdn.com/thumbor/mbleJ984G0VhUUlNDO1u2Na-220=/0x51:1536x1075/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71688320/art001e000672_1536x1152.0.jpeg" />
@@ -193,7 +183,6 @@
  - [https://www.theverge.com/2022/11/29/23484202/that-90s-show-trailer-netflix](https://www.theverge.com/2022/11/29/23484202/that-90s-show-trailer-netflix)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-29 19:38:48+00:00
- - tags: None
 
 <figure>
       <img alt="A man wearing a black T-shirt and a green overshirt and a woman wearing a floral blouse sitting at a dinner table in the kitchen while drinking a beer and a glass of white wine, respectively" src="https://cdn.vox-cdn.com/thumbor/TGJdSw7B8pQaCZsJsBfpKn4WlzU=/500x401:3100x2134/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71688163/90SHOW_101_Unit_01610R.0.jpeg" />
@@ -210,7 +199,6 @@
  - [https://www.theverge.com/2022/11/29/23484383/kensington-slimblade-pro-trackball-mouse-wireless](https://www.theverge.com/2022/11/29/23484383/kensington-slimblade-pro-trackball-mouse-wireless)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-29 18:55:49+00:00
- - tags: None
 
 <figure>
       <img alt="The new SlimBlade Pro trackball mouse." src="https://cdn.vox-cdn.com/thumbor/sYin0nLQcN1Y7MBhBJhpD40nfeo=/0x0:2048x1365/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71688013/52456512850_e974a9adb2_k.0.jpg" />
@@ -227,7 +215,6 @@
  - [https://www.theverge.com/23484112/apple-music-replay-how-to](https://www.theverge.com/23484112/apple-music-replay-how-to)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-29 17:42:56+00:00
- - tags: None
 
 <figure>
       <img alt="A MacBook with Apple Music open on a background dotted with other Apple icons." src="https://cdn.vox-cdn.com/thumbor/Dao0s_41tYZDJYnZ70WHMzRQDrQ=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71687661/HT016_macOS_0002.0.jpg" />
@@ -251,7 +238,6 @@
  - [https://www.theverge.com/2022/11/29/23483889/rolls-royce-easyjet-hydrogen-fuel-jet-engine-test](https://www.theverge.com/2022/11/29/23483889/rolls-royce-easyjet-hydrogen-fuel-jet-engine-test)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-29 17:27:55+00:00
- - tags: None
 
 <figure>
       <img alt="A converted aircraft engine seen at night" src="https://cdn.vox-cdn.com/thumbor/dj9pDOcyVVtbSi2YLrAvLjJ9d08=/140x0:8036x5264/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71687571/52522748066_2bddb44566_o.0.jpg" />
@@ -268,7 +254,6 @@
  - [https://www.theverge.com/2022/11/29/23483941/apple-music-replay-year-end-review-spotify-wrapped-streaming](https://www.theverge.com/2022/11/29/23483941/apple-music-replay-year-end-review-spotify-wrapped-streaming)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-29 16:17:49+00:00
- - tags: None
 
 <figure>
       <img alt="An iPhone screen showing Apple Music Replay, with total listening minutes and top songs, artists, and albums." src="https://cdn.vox-cdn.com/thumbor/POZ63sOO1NdfR0nCXfkT2pgOkBs=/0x239:1306x1110/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71687151/Apple_Music_Replay_Listening_Insights_inline.jpg.large_2x.0.jpg" />
@@ -292,7 +277,6 @@
  - [https://www.theverge.com/2022/11/29/23466392/polestar-ebike-allebike-ceo-thomas-ingenlath-ev](https://www.theverge.com/2022/11/29/23466392/polestar-ebike-allebike-ceo-thomas-ingenlath-ev)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-29 16:00:08+00:00
- - tags: None
 
 <figure>
       <img alt="Polestar logo" src="https://cdn.vox-cdn.com/thumbor/earpDjiiomUPsyliD3GtYdFihJs=/0x167:4000x2834/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71687089/646281_20220302_Polestar_O2_electric_performance_roadster_concept.0.jpg" />
@@ -310,7 +294,6 @@
  - [https://www.theverge.com/23482627/bose-ceo-lila-snyder-interview-headphones-noise-control-apple-airpods-bluetooth-cars](https://www.theverge.com/23482627/bose-ceo-lila-snyder-interview-headphones-noise-control-apple-airpods-bluetooth-cars)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-29 16:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Bose CEO Lila Snyder smiles at the camera." src="https://cdn.vox-cdn.com/thumbor/tNxPL5rSeB5Y7gn_9irfRUXamYI=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71687067/226419_Decoder_Lila_Snyder_CEO_Bose_WJoel.0.jpg" />
@@ -327,7 +310,6 @@
  - [https://www.theverge.com/23483843/cyber-monday-2022-best-deals-still-available-tech-earbuds-streaming-smart-home](https://www.theverge.com/23483843/cyber-monday-2022-best-deals-still-available-tech-earbuds-streaming-smart-home)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-29 15:35:00+00:00
- - tags: None
 
 <figure>
       <img alt="An illustration of a person falling into tech deals, accompanied by electronic devices." src="https://cdn.vox-cdn.com/thumbor/4qqGwptMY6ovehL-1gpVyzGeRb8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71686958/226415_Noc_design_Cyber_Monday_deals_you_can_still_get.0.jpg" />
@@ -344,7 +326,6 @@
  - [https://www.theverge.com/23483703/youtube-music-recap-2022-year-in-review-spotify-wrapped](https://www.theverge.com/23483703/youtube-music-recap-2022-year-in-review-spotify-wrapped)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-29 15:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Three phones showing screenshots of 2022 Recap." src="https://cdn.vox-cdn.com/thumbor/m3oBCu4llxJP_qMq_tGDKonYW8g=/1x0:1774x1182/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71686794/1920x1080_1__2_.0.jpg" />
@@ -362,7 +343,6 @@
  - [https://www.theverge.com/2022/11/29/23483836/twitter-covid-misinformation-policy-enforcement-end](https://www.theverge.com/2022/11/29/23483836/twitter-covid-misinformation-policy-enforcement-end)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-29 14:51:29+00:00
- - tags: None
 
 <figure>
       <img alt="The Twitter logo on a red and black background." src="https://cdn.vox-cdn.com/thumbor/pPpSVAFIk9ChEHaWQIFi0Q0AWTw=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71686758/acastro_STK050_09.0.jpg" />
@@ -379,7 +359,6 @@
  - [https://www.theverge.com/2022/11/29/23476883/portal-rtx-dlc-release-date-ray-tracing-lighting-textures-remake](https://www.theverge.com/2022/11/29/23476883/portal-rtx-dlc-release-date-ray-tracing-lighting-textures-remake)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-29 14:38:01+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/hjck9ZjhWqW74CtFL6QJCgir7wM=/0x0:870x580/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71686710/gf_remix_bg_1350_l.0.jpg" />
@@ -395,7 +374,6 @@
  - [https://www.theverge.com/2022/11/29/23483812/elon-musk-tech-ceo-dei-inclusivity-twitter-ban-big-bang](https://www.theverge.com/2022/11/29/23483812/elon-musk-tech-ceo-dei-inclusivity-twitter-ban-big-bang)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-29 14:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Elon Musk grins in a photo illustration, lifting his arms over his head triumphantly" src="https://cdn.vox-cdn.com/thumbor/eUiI4Y_vtWQ7qMguZS_ImrfuZ1A=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71686546/VRG_Illo_STK022_K_Radtke_Musk_Void.0.jpg" />
@@ -413,7 +391,6 @@
  - [https://www.theverge.com/2022/11/29/23483756/lancia-stellantis-electric-car-company-revival-new-logo](https://www.theverge.com/2022/11/29/23483756/lancia-stellantis-electric-car-company-revival-new-logo)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-29 12:33:04+00:00
- - tags: None
 
 <figure>
       <img alt="Lancia’s new wordmark." src="https://cdn.vox-cdn.com/thumbor/Ixf-jpojBcTg9pv17V4j2sD0YKk=/0x2:8192x5463/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71686215/lanciapurazero_6383a9981c6dc.0.jpeg" />
@@ -434,7 +411,6 @@
  - [https://www.theverge.com/2022/11/29/23483707/november-29-2022-tech-news-liveblog](https://www.theverge.com/2022/11/29/23483707/november-29-2022-tech-news-liveblog)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-29 10:06:25+00:00
- - tags: None
 
 <figure>
       <img alt="Illustration of the App Store logo on a dark black and blue background." src="https://cdn.vox-cdn.com/thumbor/5UYze276jEQCwSkpxx6lJEvOxf4=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71685922/acastro_STK045_02.0.jpg" />
@@ -450,7 +426,6 @@
  - [https://www.theverge.com/23483096/cyber-monday-2022-lego-deals-best-prices](https://www.theverge.com/23483096/cyber-monday-2022-lego-deals-best-prices)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-29 01:46:41+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/StPVym8z8ZgXsqN35Ugo_kCwUZU=/0x0:2248x1499/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71685143/lego_tree_house_large_crop_2.0.jpg" />

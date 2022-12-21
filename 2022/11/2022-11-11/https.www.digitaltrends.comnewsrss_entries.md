@@ -1,10 +1,9 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss
+# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
 
 ## We’re lovin’ this official McDonald’s gaming chair — the McCrispy Ultimate
  - [https://www.digitaltrends.com/computing/were-lovin-this-mccrispy-ultimate-gaming-chair/](https://www.digitaltrends.com/computing/were-lovin-this-mccrispy-ultimate-gaming-chair/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-11-11 15:39:21.357006+00:00
- - tags: None
 
 Some lucky person in the U.K. is going to receive their very own McCrispy Ultimate gaming chair, courtesy of McDonald’s.
 
@@ -12,7 +11,6 @@ Some lucky person in the U.K. is going to receive their very own McCrispy Ultima
  - [https://www.digitaltrends.com/computing/scientists-find-answer-to-future-computers-in-paper/](https://www.digitaltrends.com/computing/scientists-find-answer-to-future-computers-in-paper/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-11-11 15:39:21.348041+00:00
- - tags: None
 
 In order to limit electronic waste, researchers have come up with a new idea: using paper to make electronics.
 
@@ -20,7 +18,6 @@ In order to limit electronic waste, researchers have come up with a new idea: us
  - [https://www.digitaltrends.com/computing/the-framework-laptop-is-officially-thunderbolt-4-certified/](https://www.digitaltrends.com/computing/the-framework-laptop-is-officially-thunderbolt-4-certified/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-11-11 15:39:21.340510+00:00
- - tags: None
 
 Framework laptops are officially Thunderbolt 4 certified after undergoing a rigorous Intel testing process.
 
@@ -28,7 +25,6 @@ Framework laptops are officially Thunderbolt 4 certified after undergoing a rigo
  - [https://www.digitaltrends.com/computing/evga-rtx-4090-prototype/](https://www.digitaltrends.com/computing/evga-rtx-4090-prototype/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-11-11 15:39:21.332631+00:00
- - tags: None
 
 This early prototype of an EVGA RTX 4090 GPU shows us what could have been, including a surprising power-related discovery.
 
@@ -36,7 +32,6 @@ This early prototype of an EVGA RTX 4090 GPU shows us what could have been, incl
  - [https://www.digitaltrends.com/computing/microsoft-direct-storage-1-1-now-available/](https://www.digitaltrends.com/computing/microsoft-direct-storage-1-1-now-available/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-11-11 15:39:21.324634+00:00
- - tags: None
 
 Microsoft has just released DirectStorage 1.1, officially adding the long-awaited GPU decompression that could lower loading times by 200%.
 
@@ -44,7 +39,6 @@ Microsoft has just released DirectStorage 1.1, officially adding the long-awaite
  - [https://www.digitaltrends.com/computing/nvidia-rtx-4090-melting-may-be-caused-by-user-error/](https://www.digitaltrends.com/computing/nvidia-rtx-4090-melting-may-be-caused-by-user-error/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-11-11 15:39:21.316732+00:00
- - tags: None
 
 An expert from Corsair weighed in on the Nvidia RTX 4090 melting problem, indicating that it might all come down to user error.
 
@@ -52,7 +46,6 @@ An expert from Corsair weighed in on the Nvidia RTX 4090 melting problem, indica
  - [https://www.digitaltrends.com/computing/someone-built-a-pc-in-a-microwave-because-why-not/](https://www.digitaltrends.com/computing/someone-built-a-pc-in-a-microwave-because-why-not/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-11-11 15:39:21.309221+00:00
- - tags: None
 
 Despite all the warnings about putting metal in a microwave, someone stuck an entire computer in there.
 
@@ -60,7 +53,6 @@ Despite all the warnings about putting metal in a microwave, someone stuck an en
  - [https://www.digitaltrends.com/computing/microsoft-fixes-exploits-and-vulnerabilities-in-windows/](https://www.digitaltrends.com/computing/microsoft-fixes-exploits-and-vulnerabilities-in-windows/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-11-11 15:39:21.300575+00:00
- - tags: None
 
 Microsoft has just fixed a whole lot of dangerous vulnerabilities as part of its latest Windows patch.
 
@@ -68,7 +60,6 @@ Microsoft has just fixed a whole lot of dangerous vulnerabilities as part of its
  - [https://www.digitaltrends.com/computing/nvidia-rtx-4070-ti-launching-soon/](https://www.digitaltrends.com/computing/nvidia-rtx-4070-ti-launching-soon/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-11-11 15:39:21.293167+00:00
- - tags: None
 
 Nvidia has another graphics card up its sleeve, and it may be launching soon. Is it the ill-fated RTX 4080 12GB in disguise?
 
@@ -76,6 +67,5 @@ Nvidia has another graphics card up its sleeve, and it may be launching soon. Is
  - [https://www.digitaltrends.com/computing/new-usb-c-dock-adds-four-displays-to-m1-mac/](https://www.digitaltrends.com/computing/new-usb-c-dock-adds-four-displays-to-m1-mac/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-11-11 15:39:21.285465+00:00
- - tags: None
 
 This new USB-C dock can help you add several external displays to a Mac running on Apple's own M1 or M2 chip.

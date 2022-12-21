@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## Lomi indoor composter review: Is this thing magic?
  - [https://www.zdnet.com/article/lomi-indoor-composter-review/#ftag=RSSbaffb68](https://www.zdnet.com/article/lomi-indoor-composter-review/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-19 22:18:00+00:00
- - tags: None
 
 I tried an indoor composter for a month. Here's why it quickly became a regular -- and long-term -- part of my family's routine.
 
@@ -12,7 +11,6 @@ I tried an indoor composter for a month. Here's why it quickly became a regular 
  - [https://www.zdnet.com/article/headphones-a-beginners-guide-to-terminology-and-technology/#ftag=RSSbaffb68](https://www.zdnet.com/article/headphones-a-beginners-guide-to-terminology-and-technology/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-19 16:36:30+00:00
- - tags: None
 
 We're going to help you learn all you'll need to know to secure yourself a much better audio experience the next time you go shopping for headphones.
 
@@ -20,7 +18,6 @@ We're going to help you learn all you'll need to know to secure yourself a much 
  - [https://www.zdnet.com/article/masterclass-review/#ftag=RSSbaffb68](https://www.zdnet.com/article/masterclass-review/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-19 15:48:16+00:00
- - tags: None
 
 MasterClass offers informative and useful talks from well-known figures in a range of fields. An early Black Friday two-for-one offer sweetens the deal.
 
@@ -28,7 +25,6 @@ MasterClass offers informative and useful talks from well-known figures in a ran
  - [https://www.zdnet.com/article/united-airlines-wants-more-of-your-money-and-itll-tell-you-exactly-why/#ftag=RSSbaffb68](https://www.zdnet.com/article/united-airlines-wants-more-of-your-money-and-itll-tell-you-exactly-why/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-19 13:00:21+00:00
- - tags: None
 
 It's always worth knowing what's in an airline's future plans.
 
@@ -36,7 +32,6 @@ It's always worth knowing what's in an airline's future plans.
  - [https://www.zdnet.com/article/why-technology-may-suck-the-life-out-of-the-world-cup/#ftag=RSSbaffb68](https://www.zdnet.com/article/why-technology-may-suck-the-life-out-of-the-world-cup/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-19 12:00:22+00:00
- - tags: None
 
 For most of the world, the World Cup is the biggest sporting event ever made. This time, technology will play an even bigger role, and it may not be a good one.
 
@@ -44,7 +39,6 @@ For most of the world, the World Cup is the biggest sporting event ever made. Th
  - [https://www.zdnet.com/home-and-office/early-hp-black-friday-deals-november-21-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/early-hp-black-friday-deals-november-21-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-19 02:17:00+00:00
- - tags: None
 
 HP is best known as one of the biggest PC makers out there, but the company also produces great monitors, printers, and accessories. Let's take a look at what deals are available for its products leading up to this year's Black Friday extravaganza.
 
@@ -52,6 +46,5 @@ HP is best known as one of the biggest PC makers out there, but the company also
  - [https://www.zdnet.com/home-and-office/early-black-friday-monitor-deals-november-21-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/early-black-friday-monitor-deals-november-21-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-19 02:13:00+00:00
- - tags: None
 
 Your monitor is the main point of communication between you and your PC, so it's of the utmost importance that you're using a good quality display with a size and spec sheet that suits your needs, regardless of whether you're a straight-laced office worker or a hardcore gamer.

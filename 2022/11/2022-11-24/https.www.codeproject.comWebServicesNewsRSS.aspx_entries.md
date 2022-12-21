@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## DevOps is hot but most IT pros say practices need improvement
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59611](https://www.codeproject.com/script/News/View.aspx?nwid=59611)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-24 05:00:00+00:00
- - tags: None
 
 Here's an idea - what if some DevOps people focus on development, and others focus on operations?
 
@@ -12,7 +11,6 @@ Here's an idea - what if some DevOps people focus on development, and others foc
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59612](https://www.codeproject.com/script/News/View.aspx?nwid=59612)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-24 05:00:00+00:00
- - tags: None
 
 Give me the place to type, and I shall move the earth.
 
@@ -20,7 +18,6 @@ Give me the place to type, and I shall move the earth.
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59604](https://www.codeproject.com/script/News/View.aspx?nwid=59604)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-24 05:00:00+00:00
- - tags: None
 
 Have you ever wondered about new features of .NET MAUI? Today, I’ll be teaching you about .NET MAUI Graphics focused on handling images.
 
@@ -28,7 +25,6 @@ Have you ever wondered about new features of .NET MAUI? Today, I’ll be teachin
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59608](https://www.codeproject.com/script/News/View.aspx?nwid=59608)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-24 05:00:00+00:00
- - tags: None
 
 In this blog post we’ll discuss Baseline Profiles and how they improve app and library performance, including startup time by up to 40%.
 
@@ -36,7 +32,6 @@ In this blog post we’ll discuss Baseline Profiles and how they improve app and
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59603](https://www.codeproject.com/script/News/View.aspx?nwid=59603)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-24 05:00:00+00:00
- - tags: None
 
 CameraViewfinder is a new artifact from the Jetpack library that allows you to quickly implement camera previews with minimal effort.
 
@@ -44,7 +39,6 @@ CameraViewfinder is a new artifact from the Jetpack library that allows you to q
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59605](https://www.codeproject.com/script/News/View.aspx?nwid=59605)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-24 05:00:00+00:00
- - tags: None
 
 Material Design has also been updated, so there is a lot of support for designers looking to create new experiences that go beyond a small phone screen.
 
@@ -52,7 +46,6 @@ Material Design has also been updated, so there is a lot of support for designer
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59602](https://www.codeproject.com/script/News/View.aspx?nwid=59602)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-24 05:00:00+00:00
- - tags: None
 
 Dart Extensions can help make your code smoother and simplify some code usage.
 
@@ -60,7 +53,6 @@ Dart Extensions can help make your code smoother and simplify some code usage.
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59609](https://www.codeproject.com/script/News/View.aspx?nwid=59609)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-24 05:00:00+00:00
- - tags: None
 
 I'd add a blurb, but I'm editing this on Remo
 
@@ -68,7 +60,6 @@ I'd add a blurb, but I'm editing this on Remo
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59601](https://www.codeproject.com/script/News/View.aspx?nwid=59601)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-24 05:00:00+00:00
- - tags: None
 
 Door's locked. Key is under the mat
 
@@ -76,7 +67,6 @@ Door's locked. Key is under the mat
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59598](https://www.codeproject.com/script/News/View.aspx?nwid=59598)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-24 05:00:00+00:00
- - tags: None
 
 You are here
 
@@ -84,7 +74,6 @@ You are here
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59606](https://www.codeproject.com/script/News/View.aspx?nwid=59606)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-24 05:00:00+00:00
- - tags: None
 
 Builders of the Apple-developed Swift language intend to also move the language forward in C++ interoperability and add a Swift parser.
 
@@ -92,7 +81,6 @@ Builders of the Apple-developed Swift language intend to also move the language 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59607](https://www.codeproject.com/script/News/View.aspx?nwid=59607)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-24 05:00:00+00:00
- - tags: None
 
 In this post I will show you how to use this feature to test your Uno Platform WebAssembly apps, which makes testing mobile-specific APIs much easier (looking at you, device sensor APIs ?? )!
 
@@ -100,7 +88,6 @@ In this post I will show you how to use this feature to test your Uno Platform W
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59599](https://www.codeproject.com/script/News/View.aspx?nwid=59599)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-24 05:00:00+00:00
- - tags: None
 
 It's The Year of yadda yadda
 
@@ -108,7 +95,6 @@ It's The Year of yadda yadda
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59600](https://www.codeproject.com/script/News/View.aspx?nwid=59600)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-24 05:00:00+00:00
- - tags: None
 
 If you didn't want them to look, why did you break your computer in the first place?
 
@@ -116,6 +102,5 @@ If you didn't want them to look, why did you break your computer in the first pl
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59610](https://www.codeproject.com/script/News/View.aspx?nwid=59610)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-24 05:00:00+00:00
- - tags: None
 
 Friction is in the eye of the beholder

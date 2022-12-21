@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## The 6 best iPad stylus of 2022
  - [https://www.zdnet.com/article/best-ipad-stylus/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-ipad-stylus/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-03 23:56:56+00:00
- - tags: None
 
 Looking to add a stylus to your iPad? The best iPad stylus pens have palm rejection technology, tilt recognition, and long battery life -- and they don't have to be an Apple Pencil.
 
@@ -12,7 +11,6 @@ Looking to add a stylus to your iPad? The best iPad stylus pens have palm reject
  - [https://www.zdnet.com/home-and-office/early-black-friday-vpn-deals-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/early-black-friday-vpn-deals-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-03 23:56:14+00:00
- - tags: None
 
 Many of the most popular VPNs are on sale, and the discounts aren't just fluff, they're legitimately cheaper than the standard pricing.
 
@@ -20,7 +18,6 @@ Many of the most popular VPNs are on sale, and the discounts aren't just fluff, 
  - [https://www.zdnet.com/article/early-black-friday-vpn-deals-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-black-friday-vpn-deals-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-03 23:56:00+00:00
- - tags: None
 
 Many of the most popular VPNs are on sale, and the discounts aren't just fluff, they're legitimately cheaper than the standard pricing.
 
@@ -28,7 +25,6 @@ Many of the most popular VPNs are on sale, and the discounts aren't just fluff, 
  - [https://www.zdnet.com/article/best-early-black-friday-deals-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-early-black-friday-deals-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-03 21:09:01+00:00
- - tags: None
 
 Black Friday may be a few weeks away, but if you look in the right places, you can find great deals now. Check out our list below to score some major savings on top tech items.
 
@@ -36,7 +32,6 @@ Black Friday may be a few weeks away, but if you look in the right places, you c
  - [https://www.zdnet.com/article/early-black-friday-smartwatch-deals-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-black-friday-smartwatch-deals-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-03 20:59:35+00:00
- - tags: None
 
 These days, you can get access to thousands of deals online -- nearly a month in advance of Black Friday. No more waiting in line at the stores. Check out these early Black Friday deals on smartwatches from the comfort of your own home this holiday season.
 
@@ -44,7 +39,6 @@ These days, you can get access to thousands of deals online -- nearly a month in
  - [https://www.zdnet.com/article/how-to-use-your-mobile-phone-as-a-webcam-in-windows/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-use-your-mobile-phone-as-a-webcam-in-windows/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-03 20:58:12+00:00
- - tags: None
 
 Your iPhone or Android phone can serve as a high-resolution webcam in a virtual meeting.
 
@@ -52,7 +46,6 @@ Your iPhone or Android phone can serve as a high-resolution webcam in a virtual 
  - [https://www.zdnet.com/article/how-to-use-your-phone-as-a-webcam-in-windows/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-use-your-phone-as-a-webcam-in-windows/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-03 20:58:00+00:00
- - tags: None
 
 Your iPhone or Android phone can serve as a high-resolution webcam in a virtual meeting.
 
@@ -60,7 +53,6 @@ Your iPhone or Android phone can serve as a high-resolution webcam in a virtual 
  - [https://www.zdnet.com/home-and-office/home-entertainment/secretlab-skins-are-stylish-car-seat-covers-for-your-gaming-chair/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/secretlab-skins-are-stylish-car-seat-covers-for-your-gaming-chair/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-03 20:49:02+00:00
- - tags: None
 
 Blemishes, wear and tear, coffee stains, Cheetos dust, begone!
 
@@ -68,7 +60,6 @@ Blemishes, wear and tear, coffee stains, Cheetos dust, begone!
  - [https://www.zdnet.com/article/early-black-friday-tablet-deals-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-black-friday-tablet-deals-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-03 20:40:00+00:00
- - tags: None
 
 Looking for a tablet? The best tablets from brands like Apple and Samsung are already on sale ahead of Black Friday.
 
@@ -76,7 +67,6 @@ Looking for a tablet? The best tablets from brands like Apple and Samsung are al
  - [https://www.zdnet.com/article/early-ipad-black-friday-deals-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-ipad-black-friday-deals-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-03 20:26:20+00:00
- - tags: None
 
 Apple notoriously rarely has sales, but ahead of Black Friday, some iPad models are already discounted.
 
@@ -84,7 +74,6 @@ Apple notoriously rarely has sales, but ahead of Black Friday, some iPad models 
  - [https://www.zdnet.com/article/best-fitbit/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-fitbit/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-03 20:22:00+00:00
- - tags: None
 
 The best Fitbits will help you stay plugged into your health with advanced activity-tracking and sleep sensors. ZDNET breaks down the top picks.
 
@@ -92,7 +81,6 @@ The best Fitbits will help you stay plugged into your health with advanced activ
  - [https://www.zdnet.com/finance/banking/singapore-to-pursue-cross-border-digital-currency-potential/#ftag=RSSbaffb68](https://www.zdnet.com/finance/banking/singapore-to-pursue-cross-border-digital-currency-potential/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-03 19:40:00+00:00
- - tags: None
 
 Monetary Authority of Singapore will work with global partners, including Swiss National Bank and Banque de France, to explore the use of wholesale central bank digital currency for cross-border foreign exchange settlements.
 
@@ -100,7 +88,6 @@ Monetary Authority of Singapore will work with global partners, including Swiss 
  - [https://www.zdnet.com/article/google-showcases-native-american-art-on-chrome-for-native-american-heritage-month/#ftag=RSSbaffb68](https://www.zdnet.com/article/google-showcases-native-american-art-on-chrome-for-native-american-heritage-month/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-03 19:28:31+00:00
- - tags: None
 
 Google commissioned Native American artists to create meaningful art that will be displayed on Chrome collection themes and a Google Doodle.
 
@@ -108,7 +95,6 @@ Google commissioned Native American artists to create meaningful art that will b
  - [https://www.zdnet.com/article/how-to-schedule-emails-in-macos-ventura/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-schedule-emails-in-macos-ventura/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-03 19:19:11+00:00
- - tags: None
 
 Here's an introduction to a new Apple Mail feature that allows you to compose an email and send it later.
 
@@ -116,7 +102,6 @@ Here's an introduction to a new Apple Mail feature that allows you to compose an
  - [https://www.zdnet.com/article/low-code-no-code-market-keeps-growing-portending-shifts-in-technology-roles/#ftag=RSSbaffb68](https://www.zdnet.com/article/low-code-no-code-market-keeps-growing-portending-shifts-in-technology-roles/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-03 18:53:03+00:00
- - tags: None
 
 Can there truly be a class of unfettered citizen developers, or is this just wishful marketing?
 
@@ -124,7 +109,6 @@ Can there truly be a class of unfettered citizen developers, or is this just wis
  - [https://www.zdnet.com/article/nasas-artemis-moon-mission-rocket-will-roll-out-to-launch-pad-tonight/#ftag=RSSbaffb68](https://www.zdnet.com/article/nasas-artemis-moon-mission-rocket-will-roll-out-to-launch-pad-tonight/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-03 18:42:26+00:00
- - tags: None
 
 After three failed attempts, NASA prepares to finally launch the Orion spacecraft in two weeks.
 
@@ -132,7 +116,6 @@ After three failed attempts, NASA prepares to finally launch the Orion spacecraf
  - [https://www.zdnet.com/home-and-office/networking/t-mobile-is-now-selling-a-325-un-carrier-on-suitcase/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/networking/t-mobile-is-now-selling-a-325-un-carrier-on-suitcase/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-03 18:21:28+00:00
- - tags: None
 
 The brightly colored bag comes with a battery pack for charging devices and an Apple AirTag to help you keep track of it while traveling.
 
@@ -140,7 +123,6 @@ The brightly colored bag comes with a battery pack for charging devices and an A
  - [https://www.zdnet.com/article/google-enhances-its-ai-powered-flood-and-wildfire-tracking-systems/#ftag=RSSbaffb68](https://www.zdnet.com/article/google-enhances-its-ai-powered-flood-and-wildfire-tracking-systems/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-03 17:40:59+00:00
- - tags: None
 
 Using AI, Google can predict floods and wildfires, as well as track them in real time.
 
@@ -148,7 +130,6 @@ Using AI, Google can predict floods and wildfires, as well as track them in real
  - [https://www.zdnet.com/home-and-office/smart-home/eve-nanoleaf-and-amazon-heres-when-you-can-expect-matter-devices-and-software-updates/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/eve-nanoleaf-and-amazon-heres-when-you-can-expect-matter-devices-and-software-updates/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-03 16:06:47+00:00
- - tags: None
 
 Matter is a new smart home standard that has support from tech companies big and small, but when can you start using it?
 
@@ -156,7 +137,6 @@ Matter is a new smart home standard that has support from tech companies big and
  - [https://www.zdnet.com/home-and-office/how-to-set-up-and-use-a-vpn-on-your-iphone/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/how-to-set-up-and-use-a-vpn-on-your-iphone/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-03 15:25:22+00:00
- - tags: None
 
 A VPN is essential for maintaining privacy online. Here's how to find the best one for you and how to set it up on your iPhone.
 
@@ -164,7 +144,6 @@ A VPN is essential for maintaining privacy online. Here's how to find the best o
  - [https://www.zdnet.com/article/how-to-set-up-and-use-a-vpn-on-your-iphone/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-set-up-and-use-a-vpn-on-your-iphone/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-03 15:25:00+00:00
- - tags: None
 
 A VPN is essential for maintaining privacy online. Here's how to find the best one for you and how to set it up on your iPhone.
 
@@ -172,7 +151,6 @@ A VPN is essential for maintaining privacy online. Here's how to find the best o
  - [https://www.zdnet.com/home-and-office/smart-home/amazon-launches-matter-over-wi-fi-for-echo-and-complete-sdk-program/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/amazon-launches-matter-over-wi-fi-for-echo-and-complete-sdk-program/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-03 14:15:19+00:00
- - tags: None
 
 Now that Matter's interoperability standard has arrived, manufacturers like Amazon are beginning the process of bringing it to their smart home platforms.
 
@@ -180,7 +158,6 @@ Now that Matter's interoperability standard has arrived, manufacturers like Amaz
  - [https://www.zdnet.com/article/microsoft-teams-heres-what-microsoft-added-in-the-last-month/#ftag=RSSbaffb68](https://www.zdnet.com/article/microsoft-teams-heres-what-microsoft-added-in-the-last-month/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-03 13:15:27+00:00
- - tags: None
 
 Microsoft continues to add new features to Teams. Here's its latest update.
 
@@ -188,7 +165,6 @@ Microsoft continues to add new features to Teams. Here's its latest update.
  - [https://www.zdnet.com/article/gmail-can-now-help-you-track-the-packages-you-ordered-online/#ftag=RSSbaffb68](https://www.zdnet.com/article/gmail-can-now-help-you-track-the-packages-you-ordered-online/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-03 13:04:44+00:00
- - tags: None
 
 Gmail will soon help users to track their packages in the post and tell them that a package is delayed.
 
@@ -196,7 +172,6 @@ Gmail will soon help users to track their packages in the post and tell them tha
  - [https://www.zdnet.com/article/i-went-to-the-zoo-with-a-2500-camera-and-a-pixel-7-pro-the-results-surprised-me/#ftag=RSSbaffb68](https://www.zdnet.com/article/i-went-to-the-zoo-with-a-2500-camera-and-a-pixel-7-pro-the-results-surprised-me/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-03 13:00:00+00:00
- - tags: None
 
 This past weekend, I went to the Cheyenne Mountain Zoo with my Sony Alpha 7 IV and Pixel 7 Pro. By the time I left, I wondered why I even bothered bringing two devices.
 
@@ -204,7 +179,6 @@ This past weekend, I went to the Cheyenne Mountain Zoo with my Sony Alpha 7 IV a
  - [https://www.zdnet.com/education/business-management/looking-for-a-remote-work-job-it-could-be-getting-harder-to-find-one/#ftag=RSSbaffb68](https://www.zdnet.com/education/business-management/looking-for-a-remote-work-job-it-could-be-getting-harder-to-find-one/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-03 12:56:51+00:00
- - tags: None
 
 Organizations are beginning to scale back on hiring, so there are fewer remote roles to go around.
 
@@ -212,7 +186,6 @@ Organizations are beginning to scale back on hiring, so there are fewer remote r
  - [https://www.zdnet.com/article/raspberry-pi-pico-has-a-problem-with-macs-using-macos-ventura/#ftag=RSSbaffb68](https://www.zdnet.com/article/raspberry-pi-pico-has-a-problem-with-macs-using-macos-ventura/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-03 12:05:08+00:00
- - tags: None
 
 macOS Ventura is causing headaches for devices using the UF2 USB specification.
 
@@ -220,7 +193,6 @@ macOS Ventura is causing headaches for devices using the UF2 USB specification.
  - [https://www.zdnet.com/home-and-office/home-entertainment/monoprice-dark-matter-arcade-fighting-stick-jump-into-modding/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/monoprice-dark-matter-arcade-fighting-stick-jump-into-modding/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-03 12:00:24+00:00
- - tags: None
 
 Monoprice's fight stick is designed from the ground up to encourage modifying it, with included tools and guides.
 
@@ -228,7 +200,6 @@ Monoprice's fight stick is designed from the ground up to encourage modifying it
  - [https://www.zdnet.com/article/google-wants-robots-to-write-their-own-python-code/#ftag=RSSbaffb68](https://www.zdnet.com/article/google-wants-robots-to-write-their-own-python-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-03 11:54:10+00:00
- - tags: None
 
 Robots can code their physical actions, in Python, when given instructions by humans.
 
@@ -236,7 +207,6 @@ Robots can code their physical actions, in Python, when given instructions by hu
  - [https://www.zdnet.com/article/apple-finally-gives-safari-tab-groups-the-one-feature-it-sorely-lacked/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-finally-gives-safari-tab-groups-the-one-feature-it-sorely-lacked/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-03 11:00:23+00:00
- - tags: None
 
 Among the new Safari features that ship with MacOS Ventura, there's something that can take the browser's tab group feature to the next level.
 
@@ -244,7 +214,6 @@ Among the new Safari features that ship with MacOS Ventura, there's something th
  - [https://www.zdnet.com/article/hybrid-and-remote-workers-risk-becoming-disconnected-from-company-culture-heres-how-to-fix-it/#ftag=RSSbaffb68](https://www.zdnet.com/article/hybrid-and-remote-workers-risk-becoming-disconnected-from-company-culture-heres-how-to-fix-it/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-03 10:49:07+00:00
- - tags: None
 
 According to Gartner, there are five ways managers can increase an employee's sense of connectedness to their company culture.
 
@@ -252,6 +221,5 @@ According to Gartner, there are five ways managers can increase an employee's se
  - [https://www.zdnet.com/home-and-office/samsung-5-1ch-soundbar-subwoofer-just-dropped-sale-deal-coupon-code/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/samsung-5-1ch-soundbar-subwoofer-just-dropped-sale-deal-coupon-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-03 10:17:00+00:00
- - tags: None
 
 A Samsung soundbar and subwoofer combination is available with a $60 discount.

@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## Russia’s Nuclear Weapons Rhetoric: How Concerned Should We Be?
  - [https://www.nytimes.com/2022/11/02/us/politics/putin-russia-nuclear-weapons.html](https://www.nytimes.com/2022/11/02/us/politics/putin-russia-nuclear-weapons.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-02 23:25:03+00:00
- - tags: None
 
 U.S. officials say they do not believe that Russia has decided to detonate a tactical device, but concerns are rising.
 
@@ -12,7 +11,6 @@ U.S. officials say they do not believe that Russia has decided to detonate a tac
  - [https://www.nytimes.com/2022/11/02/world/middleeast/iran-protests-united-nations.html](https://www.nytimes.com/2022/11/02/world/middleeast/iran-protests-united-nations.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-02 23:18:09+00:00
- - tags: None
 
 At an informal meeting of the United Nations Security Council on Wednesday, the American ambassador called on the global community to give its “moral support” to protesters in Iran.
 
@@ -20,7 +18,6 @@ At an informal meeting of the United Nations Security Council on Wednesday, the 
  - [https://www.nytimes.com/2022/11/02/world/americas/bolsonaro-election-protests.html](https://www.nytimes.com/2022/11/02/world/americas/bolsonaro-election-protests.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-02 22:57:02+00:00
- - tags: None
 
 Tens of thousands of people demonstrated in cities across Brazil, many of them demanding that the military stop the transfer of power to President-elect Luiz Inácio Lula da Silva.
 
@@ -28,7 +25,6 @@ Tens of thousands of people demonstrated in cities across Brazil, many of them d
  - [https://www.nytimes.com/2022/11/02/world/europe/ukraine-russia-grain-black-sea.html](https://www.nytimes.com/2022/11/02/world/europe/ukraine-russia-grain-black-sea.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-02 22:09:53+00:00
- - tags: None
 
 The agreement allows Ukraine, a major food producer, to export grain by sea, easing the threat of famine in other countries.
 
@@ -36,7 +32,6 @@ The agreement allows Ukraine, a major food producer, to export grain by sea, eas
  - [https://www.nytimes.com/2022/11/02/briefing/ethiopia-tigray-truce-asia.html](https://www.nytimes.com/2022/11/02/briefing/ethiopia-tigray-truce-asia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-02 20:58:19+00:00
- - tags: None
 
 Plus North Korea fired a record number of missiles, and Russia rejoined the grail deal.
 
@@ -44,7 +39,6 @@ Plus North Korea fired a record number of missiles, and Russia rejoined the grai
  - [https://www.nytimes.com/2022/11/02/world/europe/dobby-grave-beach-wales.html](https://www.nytimes.com/2022/11/02/world/europe/dobby-grave-beach-wales.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-02 17:39:54+00:00
- - tags: None
 
 After a grave site for the “Harry Potter” elf became a tourist attraction, tributes to the character prompted environmental concerns.
 
@@ -52,7 +46,6 @@ After a grave site for the “Harry Potter” elf became a tourist attraction, t
  - [https://www.nytimes.com/2022/11/02/world/europe/russia-ukraine-north-korea-ammunition.html](https://www.nytimes.com/2022/11/02/world/europe/russia-ukraine-north-korea-ammunition.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-02 17:30:55+00:00
- - tags: None
 
 The national security spokesman, John Kirby, said that it was unclear if the munitions had reached Russia, but that in any case, they would not “change the course of the war.”
 
@@ -60,7 +53,6 @@ The national security spokesman, John Kirby, said that it was unclear if the mun
  - [https://www.nytimes.com/2022/11/02/world/africa/ethiopia-tigray-civil-war.html](https://www.nytimes.com/2022/11/02/world/africa/ethiopia-tigray-civil-war.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-02 16:43:37+00:00
- - tags: None
 
 After two years of fighting that has left hundreds of thousands displaced and on the brink of starvation, the announcement came out of the latest round of peace talks in South Africa.
 
@@ -68,7 +60,6 @@ After two years of fighting that has left hundreds of thousands displaced and on
  - [https://www.nytimes.com/2022/11/02/world/middleeast/israel-election-5-takeaways.html](https://www.nytimes.com/2022/11/02/world/middleeast/israel-election-5-takeaways.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-02 16:42:10+00:00
- - tags: None
 
 Benjamin Netanyahu seems poised to take power again. But regardless of his fate, the election already highlights several trends that could have a lasting effect on Israel.
 
@@ -76,7 +67,6 @@ Benjamin Netanyahu seems poised to take power again. But regardless of his fate,
  - [https://www.nytimes.com/2022/11/02/world/middleeast/iran-protests-crackdown-tehran.html](https://www.nytimes.com/2022/11/02/world/middleeast/iran-protests-crackdown-tehran.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-02 16:40:31+00:00
- - tags: None
 
 Iran’s security forces shot at windows and threw stun grenades in a raid at the Shahrak Ekbatan complex, where a member of the feared Basij militia was killed last week, residents said.
 
@@ -84,7 +74,6 @@ Iran’s security forces shot at windows and threw stun grenades in a raid at th
  - [https://www.nytimes.com/2022/11/02/world/europe/kyiv-ukraine-shelters-nuclear-attack.html](https://www.nytimes.com/2022/11/02/world/europe/kyiv-ukraine-shelters-nuclear-attack.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-02 12:59:35+00:00
- - tags: None
 
 Worries that the Kremlin might turn to its nuclear arsenal have deepened since President Vladimir V. Putin of Russia raised the specter in September of using such weapons to hold on to territorial gains.
 
@@ -92,7 +81,6 @@ Worries that the Kremlin might turn to its nuclear arsenal have deepened since P
  - [https://www.nytimes.com/2022/11/02/world/europe/shipments-of-grain-from-ukraine-will-halt-on-wednesday-un-says.html](https://www.nytimes.com/2022/11/02/world/europe/shipments-of-grain-from-ukraine-will-halt-on-wednesday-un-says.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-02 11:04:40+00:00
- - tags: None
 
 
 
@@ -100,7 +88,6 @@ Worries that the Kremlin might turn to its nuclear arsenal have deepened since P
  - [https://www.nytimes.com/live/2022/11/02/world/ukraine-war-news-russia-updates](https://www.nytimes.com/live/2022/11/02/world/ukraine-war-news-russia-updates)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-02 10:48:44+00:00
- - tags: None
 
 Moscow announced it was resuming its participation in an international agreement aimed at helping countries facing acute food shortages.
 
@@ -108,7 +95,6 @@ Moscow announced it was resuming its participation in an international agreement
  - [https://www.nytimes.com/2022/11/02/briefing/abortion-pills.html](https://www.nytimes.com/2022/11/02/briefing/abortion-pills.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-02 10:41:26+00:00
- - tags: None
 
 Women in states with abortion bans are turning to telemedicine.
 
@@ -116,7 +102,6 @@ Women in states with abortion bans are turning to telemedicine.
  - [https://www.nytimes.com/2022/11/02/world/europe/denmark-election-social-democrats.html](https://www.nytimes.com/2022/11/02/world/europe/denmark-election-social-democrats.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-02 10:21:59+00:00
- - tags: None
 
 An unpredictable race ultimately gave the governing Social Democratic Party its best showing in two decades, though analysts said it looked set to form a more centrist government.
 
@@ -124,7 +109,6 @@ An unpredictable race ultimately gave the governing Social Democratic Party its 
  - [https://www.nytimes.com/2022/11/02/world/asia/hurricane-typhoon-tropical-cyclone.html](https://www.nytimes.com/2022/11/02/world/asia/hurricane-typhoon-tropical-cyclone.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-02 09:40:06+00:00
- - tags: None
 
 There are variations around the world, particularly in the Western Pacific, in how countries name and measure tropical cyclones. We can explain.
 
@@ -132,7 +116,6 @@ There are variations around the world, particularly in the Western Pacific, in h
  - [https://www.nytimes.com/article/hurricane-typhoon-tropical-cyclone.html](https://www.nytimes.com/article/hurricane-typhoon-tropical-cyclone.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-02 09:40:06+00:00
- - tags: None
 
 There are variations around the world, particularly in the Western Pacific, in how countries name and measure tropical cyclones. We can explain.
 
@@ -140,7 +123,6 @@ There are variations around the world, particularly in the Western Pacific, in h
  - [https://www.nytimes.com/2022/11/02/climate/native-tribes-relocation-climate.html](https://www.nytimes.com/2022/11/02/climate/native-tribes-relocation-climate.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-02 09:00:31+00:00
- - tags: None
 
 The Biden administration is considering proposals to relocate Native American communities threatened by global warming. It could become a template for the rest of the country.
 
@@ -148,7 +130,6 @@ The Biden administration is considering proposals to relocate Native American co
  - [https://www.nytimes.com/2022/11/02/world/asia/china-foxconn-workers.html](https://www.nytimes.com/2022/11/02/world/asia/china-foxconn-workers.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-02 07:56:24+00:00
- - tags: None
 
 Hundreds of workers are said to have fled, afraid of being forced into quarantine with inadequate food and supplies.
 
@@ -156,7 +137,6 @@ Hundreds of workers are said to have fled, afraid of being forced into quarantin
  - [https://www.nytimes.com/2022/11/02/world/middleeast/israel-election-netanyahu.html](https://www.nytimes.com/2022/11/02/world/middleeast/israel-election-netanyahu.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-02 07:47:30+00:00
- - tags: None
 
 If the right-wing bloc does cement an election victory, Benjamin Netanyahu, Israel’s longest-serving prime minister, will return to office even as he stands trial on corruption charges.
 
@@ -164,7 +144,6 @@ If the right-wing bloc does cement an election victory, Benjamin Netanyahu, Isra
  - [https://www.nytimes.com/2022/11/02/us/politics/isis-fluke-ekren-trial.html](https://www.nytimes.com/2022/11/02/us/politics/isis-fluke-ekren-trial.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-02 07:00:13+00:00
- - tags: None
 
 Allison Fluke-Ekren, a teacher from Kansas, dragged her family to Syria and forced her daughter, Leyla, to train for war on behalf of the Islamic State. Now her daughter wields final words against her.
 
@@ -172,7 +151,6 @@ Allison Fluke-Ekren, a teacher from Kansas, dragged her family to Syria and forc
  - [https://www.nytimes.com/2022/11/02/briefing/elections-brazil-denmark-israel.html](https://www.nytimes.com/2022/11/02/briefing/elections-brazil-denmark-israel.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-02 04:54:32+00:00
- - tags: None
 
 The latest developments from elections in Brazil, Denmark and Israel.
 
@@ -180,7 +158,6 @@ The latest developments from elections in Brazil, Denmark and Israel.
  - [https://www.nytimes.com/2022/11/02/world/europe/ukraine-kyiv-power-darkness.html](https://www.nytimes.com/2022/11/02/world/europe/ukraine-kyiv-power-darkness.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-02 04:01:15+00:00
- - tags: None
 
 The streets of Ukraine’s capital, illuminated with nightlife only weeks ago, are shrouded in darkness and shadows now because of restrictions on the use of electricity. The lack of light creates moments of apprehension, but also of beauty.
 
@@ -188,7 +165,6 @@ The streets of Ukraine’s capital, illuminated with nightlife only weeks ago, a
  - [https://www.nytimes.com/2022/11/01/world/asia/north-korea-missile-launch.html](https://www.nytimes.com/2022/11/01/world/asia/north-korea-missile-launch.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-02 03:11:23+00:00
- - tags: None
 
 People on an island took cover as one missile landed near South Korean territorial waters. The South promised to “ensure that North Korea pays a price.”
 
@@ -196,6 +172,5 @@ People on an island took cover as one missile landed near South Korean territori
  - [https://www.nytimes.com/2022/11/01/world/middleeast/israel-election-netanyahu-lapid.html](https://www.nytimes.com/2022/11/01/world/middleeast/israel-election-netanyahu-lapid.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-02 01:49:36+00:00
- - tags: None
 
 If the right-wing bloc does eke out a narrow victory, it would allow Mr. Netanyahu, Israel’s longest-serving prime minister, to return to office even as he stands trial on corruption charges.

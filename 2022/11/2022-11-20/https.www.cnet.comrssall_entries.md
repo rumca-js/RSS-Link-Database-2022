@@ -1,10 +1,9 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/
+# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
 
 ## 'Andor' Episode 11 Recap: An Escape Plan and a Glorious Space Battle     - CNET
  - [https://www.cnet.com/culture/entertainment/andor-episode-11-recap-an-escape-plan-and-a-glorious-space-battle/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/andor-episode-11-recap-an-escape-plan-and-a-glorious-space-battle/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 23:59:00+00:00
- - tags: None
 
 Rebel recruiter Luthen Rael reminds us why spinning is a good trick.
 
@@ -12,7 +11,6 @@ Rebel recruiter Luthen Rael reminds us why spinning is a good trick.
  - [https://www.cnet.com/health/personal-care/features/i-took-cold-showers-for-an-entire-year-heres-what-i-learned/#ftag=CADf328eec](https://www.cnet.com/health/personal-care/features/i-took-cold-showers-for-an-entire-year-heres-what-i-learned/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 23:42:00+00:00
- - tags: None
 
 Was it worth it? I'm still not sure...
 
@@ -20,7 +18,6 @@ Was it worth it? I'm still not sure...
  - [https://www.cnet.com/tech/mobile/best-high-tech-ski-gear-for-2022-2023/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/best-high-tech-ski-gear-for-2022-2023/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 23:31:58+00:00
- - tags: None
 
 With more winter sports gear going high-tech, we round up some of the more innovative ski gear available today.
 
@@ -28,7 +25,6 @@ With more winter sports gear going high-tech, we round up some of the more innov
  - [https://www.cnet.com/culture/entertainment/netflix-the-46-absolute-best-movies-to-watch-this-week/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/netflix-the-46-absolute-best-movies-to-watch-this-week/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 23:30:08+00:00
- - tags: None
 
 This week, catch 2015 sports drama Southpaw, starring Jake Gyllenhaal.
 
@@ -36,7 +32,6 @@ This week, catch 2015 sports drama Southpaw, starring Jake Gyllenhaal.
  - [https://www.cnet.com/culture/internet/here-are-the-10-most-difficult-wordle-words-of-2022/#ftag=CADf328eec](https://www.cnet.com/culture/internet/here-are-the-10-most-difficult-wordle-words-of-2022/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 23:06:00+00:00
- - tags: None
 
 Some of these words will surprise. Others... will not.
 
@@ -44,7 +39,6 @@ Some of these words will surprise. Others... will not.
  - [https://www.cnet.com/health/nutrition/13-best-foods-to-eat-for-kidney-health/#ftag=CADf328eec](https://www.cnet.com/health/nutrition/13-best-foods-to-eat-for-kidney-health/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 22:29:25+00:00
- - tags: None
 
 Consider adding these foods to you diet to maintain healthy kidneys.
 
@@ -52,7 +46,6 @@ Consider adding these foods to you diet to maintain healthy kidneys.
  - [https://www.cnet.com/culture/entertainment/watching-1899-on-netflix-make-sure-you-change-this-one-setting/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/watching-1899-on-netflix-make-sure-you-change-this-one-setting/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 22:29:22+00:00
- - tags: None
 
 If you don't switch from the dub, a lot of this show doesn't make sense.
 
@@ -60,7 +53,6 @@ If you don't switch from the dub, a lot of this show doesn't make sense.
  - [https://www.cnet.com/culture/ai-drew-this-stunning-comic-series-youd-never-know-it/#ftag=CADf328eec](https://www.cnet.com/culture/ai-drew-this-stunning-comic-series-youd-never-know-it/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 22:28:03+00:00
- - tags: None
 
 The Bestiary Chronicles is both a modern fable on the rise of artificial intelligence and a testament to how shockingly fast AI is evolving.
 
@@ -68,7 +60,6 @@ The Bestiary Chronicles is both a modern fable on the rise of artificial intelli
  - [https://www.cnet.com/news/watch-yellowstone-season-5-where-you-can-actually-stream-it/#ftag=CADf328eec](https://www.cnet.com/news/watch-yellowstone-season-5-where-you-can-actually-stream-it/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 22:14:04+00:00
- - tags: None
 
 And why Paramount's biggest show isn't on Paramount Plus.
 
@@ -76,7 +67,6 @@ And why Paramount's biggest show isn't on Paramount Plus.
  - [https://www.cnet.com/culture/entertainment/the-absolute-best-sci-fi-movies-on-prime-video-to-watch-this-evening/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-absolute-best-sci-fi-movies-on-prime-video-to-watch-this-evening/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 22:11:21+00:00
- - tags: None
 
 Unearth a ton of hidden sci-fi gems on Prime Video.
 
@@ -84,7 +74,6 @@ Unearth a ton of hidden sci-fi gems on Prime Video.
  - [https://www.cnet.com/culture/entertainment/best-sci-fi-tv-shows-prime-video-to-watch-this-evening/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/best-sci-fi-tv-shows-prime-video-to-watch-this-evening/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 22:08:56+00:00
- - tags: None
 
 Catch the very best sci-fi series on Amazon's streaming service.
 
@@ -92,7 +81,6 @@ Catch the very best sci-fi series on Amazon's streaming service.
  - [https://www.cnet.com/how-to/dont-turn-your-lights-off-when-you-leave-home-theres-a-good-reason-to-start/#ftag=CADf328eec](https://www.cnet.com/how-to/dont-turn-your-lights-off-when-you-leave-home-theres-a-good-reason-to-start/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 21:00:02+00:00
- - tags: None
 
 Hint: The reason will save you money.
 
@@ -100,7 +88,6 @@ Hint: The reason will save you money.
  - [https://www.cnet.com/tech/services-and-software/vikings-game-today-how-to-watch-livestream-nfl-week-11/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/vikings-game-today-how-to-watch-livestream-nfl-week-11/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 20:17:02+00:00
- - tags: None
 
 Want to watch the Minnesota Vikings against the Dallas Cowboys? Here's everything you need to watch Sunday's 4:25 p.m. ET game on CBS.
 
@@ -108,7 +95,6 @@ Want to watch the Minnesota Vikings against the Dallas Cowboys? Here's everythin
  - [https://www.cnet.com/tech/services-and-software/cowboys-game-today-how-to-watch-nfl-week-11-vs-the-vikings/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/cowboys-game-today-how-to-watch-nfl-week-11-vs-the-vikings/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 20:09:02+00:00
- - tags: None
 
 Want to livestream the Dallas Cowboys against the Minnesota Vikings? Here's everything you need to watch Sunday's 4:25 p.m. ET game on CBS.
 
@@ -116,7 +102,6 @@ Want to livestream the Dallas Cowboys against the Minnesota Vikings? Here's ever
  - [https://www.cnet.com/tech/services-and-software/raiders-vs-broncos-livestream-how-to-watch-nfl-week-11-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/raiders-vs-broncos-livestream-how-to-watch-nfl-week-11-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 20:02:02+00:00
- - tags: None
 
 Want to watch the Las Vegas Raiders play the Denver Broncos? Here's everything you need to stream Sunday's 1:05 p.m. PT game on Fox.
 
@@ -124,7 +109,6 @@ Want to watch the Las Vegas Raiders play the Denver Broncos? Here's everything y
  - [https://www.cnet.com/health/sleep/7-sleep-ruining-habits-you-need-to-cut-out-asap/#ftag=CADf328eec](https://www.cnet.com/health/sleep/7-sleep-ruining-habits-you-need-to-cut-out-asap/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 20:00:02+00:00
- - tags: None
 
 These are the most common factors that can negatively affect your sleep quality.
 
@@ -132,7 +116,6 @@ These are the most common factors that can negatively affect your sleep quality.
  - [https://www.cnet.com/culture/these-three-wordle-starter-words-practically-guarantee-a-a-winning-streak/#ftag=CADf328eec](https://www.cnet.com/culture/these-three-wordle-starter-words-practically-guarantee-a-a-winning-streak/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 19:45:00+00:00
- - tags: None
 
 These weird words are like cheat codes.
 
@@ -140,7 +123,6 @@ These weird words are like cheat codes.
  - [https://www.cnet.com/health/sleep/most-people-clean-their-sheets-wrong-and-not-often-enough/#ftag=CADf328eec](https://www.cnet.com/health/sleep/most-people-clean-their-sheets-wrong-and-not-often-enough/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 19:13:00+00:00
- - tags: None
 
 Learn the proper way to wash all that sweat and grime out of your bedding.
 
@@ -148,7 +130,6 @@ Learn the proper way to wash all that sweat and grime out of your bedding.
  - [https://www.cnet.com/science/space/thrilling-nasa-video-details-wild-plan-to-snatch-rocks-from-mars/#ftag=CADf328eec](https://www.cnet.com/science/space/thrilling-nasa-video-details-wild-plan-to-snatch-rocks-from-mars/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 18:31:00+00:00
- - tags: None
 
 Mars Sample Return is complicated, ambitious and totally possible.
 
@@ -156,7 +137,6 @@ Mars Sample Return is complicated, ambitious and totally possible.
  - [https://www.cnet.com/culture/this-taco-bell-discontinued-menu-item-is-back-after-nearly-a-decade/#ftag=CADf328eec](https://www.cnet.com/culture/this-taco-bell-discontinued-menu-item-is-back-after-nearly-a-decade/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 18:28:52+00:00
- - tags: None
 
 The Enchirito returned to the menu, but it won't be around for long.
 
@@ -164,7 +144,6 @@ The Enchirito returned to the menu, but it won't be around for long.
  - [https://www.cnet.com/health/medical/blood-pressure-medicine-recall-discuss-the-risks-with-your-doctor/#ftag=CADf328eec](https://www.cnet.com/health/medical/blood-pressure-medicine-recall-discuss-the-risks-with-your-doctor/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 18:12:01+00:00
- - tags: None
 
 Untreated hypertension can raise the risk of stroke, heart attack and other serious health issues. Consult your doctor before stopping any medication.
 
@@ -172,7 +151,6 @@ Untreated hypertension can raise the risk of stroke, heart attack and other seri
  - [https://www.cnet.com/culture/internet/google-celebrates-2022-world-cup-with-doodle-new-game/#ftag=CADf328eec](https://www.cnet.com/culture/internet/google-celebrates-2022-world-cup-with-doodle-new-game/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 18:06:00+00:00
- - tags: None
 
 New multiplayer game pits fans around the world against each other.
 
@@ -180,7 +158,6 @@ New multiplayer game pits fans around the world against each other.
  - [https://www.cnet.com/news/social-media/trump-says-hell-stay-off-twitter-as-elon-musk-lets-him-back/#ftag=CADf328eec](https://www.cnet.com/news/social-media/trump-says-hell-stay-off-twitter-as-elon-musk-lets-him-back/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 18:01:00+00:00
- - tags: None
 
 After polling users on Twitter, Musk reactivated Trump's account Saturday. The platform, like other social networks, had booted Trump after the Jan. 6 Capitol Hill riots.
 
@@ -188,7 +165,6 @@ After polling users on Twitter, Musk reactivated Trump's account Saturday. The p
  - [https://www.cnet.com/deals/amazons-black-friday-deals-came-early-save-big-on-echo-kindle-readers-fire-tablets-and-more/#ftag=CADf328eec](https://www.cnet.com/deals/amazons-black-friday-deals-came-early-save-big-on-echo-kindle-readers-fire-tablets-and-more/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 17:55:52+00:00
- - tags: None
 
 Black Friday is a few days away, but you can save on Amazon hardware right now.
 
@@ -196,7 +172,6 @@ Black Friday is a few days away, but you can save on Amazon hardware right now.
  - [https://www.cnet.com/deals/early-black-friday-deals-live-nov-20/#ftag=CADf328eec](https://www.cnet.com/deals/early-black-friday-deals-live-nov-20/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 17:48:35+00:00
- - tags: None
 
 With Black Friday less than a week away, there are  TONS of great deals and bargains to be had right now.
 
@@ -204,7 +179,6 @@ With Black Friday less than a week away, there are  TONS of great deals and barg
  - [https://www.cnet.com/culture/thanksgiving-is-this-week-24-cant-miss-deals-from-dunkin-krispy-kreme-and-more/#ftag=CADf328eec](https://www.cnet.com/culture/thanksgiving-is-this-week-24-cant-miss-deals-from-dunkin-krispy-kreme-and-more/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 17:37:23+00:00
- - tags: None
 
 From turkey deals to limited-edition treats, check out what your favorite grocery stores and restaurants are cooking up for Thanksgiving.
 
@@ -212,7 +186,6 @@ From turkey deals to limited-edition treats, check out what your favorite grocer
  - [https://www.cnet.com/deals/train-through-the-winter-with-up-to-500-off-horizon-fitness-exercise-bikes/#ftag=CADf328eec](https://www.cnet.com/deals/train-through-the-winter-with-up-to-500-off-horizon-fitness-exercise-bikes/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 17:04:56+00:00
- - tags: None
 
 Right now you can add one of these compact exercise bikes to your home gym for less, with prices starting at $599.
 
@@ -220,7 +193,6 @@ Right now you can add one of these compact exercise bikes to your home gym for l
  - [https://www.cnet.com/deals/favorite-jbl-speakers-on-sale-starting-at-30/#ftag=CADf328eec](https://www.cnet.com/deals/favorite-jbl-speakers-on-sale-starting-at-30/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 17:04:00+00:00
- - tags: None
 
 These are some of our favorite speakers, earbuds and headphones on the market in 2022, and right now you can pick them up at the lowest prices we've ever seen.
 
@@ -228,7 +200,6 @@ These are some of our favorite speakers, earbuds and headphones on the market in
  - [https://www.cnet.com/tech/services-and-software/eagles-vs-colts-livestream-how-to-watch-nfl-week-11-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/eagles-vs-colts-livestream-how-to-watch-nfl-week-11-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 17:03:02+00:00
- - tags: None
 
 Want to watch the Philadelphia Eagles take on the Indianapolis Colts? Here's everything you need to stream Sunday's 1:00 p.m. ET game on CBS.
 
@@ -236,7 +207,6 @@ Want to watch the Philadelphia Eagles take on the Indianapolis Colts? Here's eve
  - [https://www.cnet.com/tech/services-and-software/how-to-watch-browns-vs-bills-on-cbs-chiefs-vs-chargers-on-nbc-and-more-nfl-week-11-redzone-without-cable/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/how-to-watch-browns-vs-bills-on-cbs-chiefs-vs-chargers-on-nbc-and-more-nfl-week-11-redzone-without-cable/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 17:00:16+00:00
- - tags: None
 
 The NFL season is marching on.
 
@@ -244,7 +214,6 @@ The NFL season is marching on.
  - [https://www.cnet.com/culture/fashion/best-winter-athletic-wear-for-women/#ftag=CADf328eec](https://www.cnet.com/culture/fashion/best-winter-athletic-wear-for-women/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 17:00:03+00:00
- - tags: None
 
 Searching for the perfect athletic wear to make your morning run more bearable during wintertime? Look no further, we've got you covered.
 
@@ -252,7 +221,6 @@ Searching for the perfect athletic wear to make your morning run more bearable d
  - [https://www.cnet.com/tech/services-and-software/bears-vs-falcons-livestream-how-to-watch-nfl-week-11-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/bears-vs-falcons-livestream-how-to-watch-nfl-week-11-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 16:57:02+00:00
- - tags: None
 
 Want to watch the Chicago Bears play the Atlanta Falcons? Here's everything you need to stream Sunday's 1 p.m. ET game on Fox.
 
@@ -260,7 +228,6 @@ Want to watch the Chicago Bears play the Atlanta Falcons? Here's everything you 
  - [https://www.cnet.com/tech/services-and-software/commanders-vs-texans-livestream-how-to-watch-nfl-week-11-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/commanders-vs-texans-livestream-how-to-watch-nfl-week-11-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 16:54:02+00:00
- - tags: None
 
 Want to watch the Washington Commanders play the Houston Texans? Here's everything you need to stream Sunday's 1 p.m. ET game on Fox.
 
@@ -268,7 +235,6 @@ Want to watch the Washington Commanders play the Houston Texans? Here's everythi
  - [https://www.cnet.com/tech/services-and-software/patriots-game-today-how-to-watch-livestream-nfl-week-11/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/patriots-game-today-how-to-watch-livestream-nfl-week-11/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 16:52:02+00:00
- - tags: None
 
 Want to watch the New England Patriots take on the New York Jets? Here's everything you need to stream Sunday's 1:00 p.m. ET game on CBS.
 
@@ -276,7 +242,6 @@ Want to watch the New England Patriots take on the New York Jets? Here's everyth
  - [https://www.cnet.com/tech/services-and-software/rams-vs-saints-livestream-how-to-watch-nfl-week-11-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/rams-vs-saints-livestream-how-to-watch-nfl-week-11-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 16:49:02+00:00
- - tags: None
 
 Want to watch the Los Angeles Rams play the New Orleans Saints? Here's everything you need to stream Sunday's 1 p.m. ET game on Fox.
 
@@ -284,7 +249,6 @@ Want to watch the Los Angeles Rams play the New Orleans Saints? Here's everythin
  - [https://www.cnet.com/tech/services-and-software/lions-game-today-how-to-watch-livestream-nfl-week-11/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/lions-game-today-how-to-watch-livestream-nfl-week-11/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 16:47:02+00:00
- - tags: None
 
 Want to watch the Detroit Lions play the New York Giants? Here's everything you need to stream Sunday's 1 p.m. ET game on Fox.
 
@@ -292,7 +256,6 @@ Want to watch the Detroit Lions play the New York Giants? Here's everything you 
  - [https://www.cnet.com/tech/services-and-software/jets-game-today-how-to-watch-nfl-week-11-vs-the-patriots/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/jets-game-today-how-to-watch-nfl-week-11-vs-the-patriots/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 16:42:02+00:00
- - tags: None
 
 Want to livestream the New York Jets against the New England Patriots? Here's everything you need to watch Sunday's 1:00 p.m. ET game on CBS.
 
@@ -300,7 +263,6 @@ Want to livestream the New York Jets against the New England Patriots? Here's ev
  - [https://www.cnet.com/tech/services-and-software/giants-game-today-how-to-livestream-nfl-week-11-vs-the-lions/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/giants-game-today-how-to-livestream-nfl-week-11-vs-the-lions/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 16:41:00+00:00
- - tags: None
 
 Want to watch a live stream of the New York Giants against the Detroit Lions? Here's everything you need to watch Sunday's 1 p.m. ET game on Fox.
 
@@ -308,7 +270,6 @@ Want to watch a live stream of the New York Giants against the Detroit Lions? He
  - [https://www.cnet.com/deals/sonos-black-friday-sale-slashes-prices-on-top-rated-speakers-by-20/#ftag=CADf328eec](https://www.cnet.com/deals/sonos-black-friday-sale-slashes-prices-on-top-rated-speakers-by-20/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 16:11:28+00:00
- - tags: None
 
 Get some of our favorite wireless speakers and soundbars for up to $180 off.
 
@@ -316,7 +277,6 @@ Get some of our favorite wireless speakers and soundbars for up to $180 off.
  - [https://www.cnet.com/health/nutrition/the-best-foods-for-lung-health/#ftag=CADf328eec](https://www.cnet.com/health/nutrition/the-best-foods-for-lung-health/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 16:00:02+00:00
- - tags: None
 
 Add these foods to your diet to keep your lungs healthy and strong.
 
@@ -324,7 +284,6 @@ Add these foods to your diet to keep your lungs healthy and strong.
  - [https://www.cnet.com/tech/services-and-software/watch-qatar-vs-ecuador-world-cup-2022-match-from-anywhere/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/watch-qatar-vs-ecuador-world-cup-2022-match-from-anywhere/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 14:30:03+00:00
- - tags: None
 
 Want to watch the host nation play Ecuador in the first match of the 2022 World Cup? Here's how to stream the game live no matter where in the world you are.
 
@@ -332,7 +291,6 @@ Want to watch the host nation play Ecuador in the first match of the 2022 World 
  - [https://www.cnet.com/health/personal-care/this-is-the-only-hair-dryer-brush-youll-ever-need/#ftag=CADf328eec](https://www.cnet.com/health/personal-care/this-is-the-only-hair-dryer-brush-youll-ever-need/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 14:01:00+00:00
- - tags: None
 
 The InfinitiPro by Conair The Knot Dr. dryer brush gives you a salon-quality blowout and comes with attachments for different styles.
 
@@ -340,7 +298,6 @@ The InfinitiPro by Conair The Knot Dr. dryer brush gives you a salon-quality blo
  - [https://www.cnet.com/personal-finance/investing/the-hidden-costs-of-early-retirement-and-why-you-might-want-to-avoid-this-trend/#ftag=CADf328eec](https://www.cnet.com/personal-finance/investing/the-hidden-costs-of-early-retirement-and-why-you-might-want-to-avoid-this-trend/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 13:15:02+00:00
- - tags: None
 
 These two former "FIRE" enthusiasts abandoned the early retirement movement. Here's what they want you to know.
 
@@ -348,7 +305,6 @@ These two former "FIRE" enthusiasts abandoned the early retirement movement. Her
  - [https://www.cnet.com/science/meta-trained-an-ai-on-48-million-science-papers-it-was-shut-down-after-two-days/#ftag=CADf328eec](https://www.cnet.com/science/meta-trained-an-ai-on-48-million-science-papers-it-was-shut-down-after-two-days/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 13:00:15+00:00
- - tags: None
 
 Galactica was supposed to help "organize science." Instead, it spewed misinformation.
 
@@ -356,7 +312,6 @@ Galactica was supposed to help "organize science." Instead, it spewed misinforma
  - [https://www.cnet.com/news/politics/ukraines-hope-for-a-green-future-burns-bright-amid-environmental-devastation/#ftag=CADf328eec](https://www.cnet.com/news/politics/ukraines-hope-for-a-green-future-burns-bright-amid-environmental-devastation/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 13:00:11+00:00
- - tags: None
 
 Ukraine came to COP27 bearing its scars from Russia's war, but also imagining its green future.
 
@@ -364,7 +319,6 @@ Ukraine came to COP27 bearing its scars from Russia's war, but also imagining it
  - [https://www.cnet.com/science/climate/these-floaters-turns-ocean-waves-into-renewable-energy/#ftag=CADf328eec](https://www.cnet.com/science/climate/these-floaters-turns-ocean-waves-into-renewable-energy/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 13:00:02+00:00
- - tags: None
 
 Eco Wave Power uses wave data to determine the size of their floaters that can harvest renewable energy.
 
@@ -372,7 +326,6 @@ Eco Wave Power uses wave data to determine the size of their floaters that can h
  - [https://www.cnet.com/videos/watch-these-floaters-convert-waves-into-electricity/#ftag=CADf328eec](https://www.cnet.com/videos/watch-these-floaters-convert-waves-into-electricity/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 13:00:01+00:00
- - tags: None
 
 We spoke to the CEO of Eco Wave Power to learn how its hydraulic floater units convert the movement of the ocean into electricity.
 
@@ -380,7 +333,6 @@ We spoke to the CEO of Eco Wave Power to learn how its hydraulic floater units c
  - [https://www.cnet.com/personal-finance/will-social-security-exist-when-i-retire-answers-to-your-top-social-security-questions/#ftag=CADf328eec](https://www.cnet.com/personal-finance/will-social-security-exist-when-i-retire-answers-to-your-top-social-security-questions/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 12:45:02+00:00
- - tags: None
 
 Commentary: How to factor these benefits into your future retirement plans.
 
@@ -388,7 +340,6 @@ Commentary: How to factor these benefits into your future retirement plans.
  - [https://www.cnet.com/how-to/home-energy-saving-cheat-sheet-slash-your-water-electric-and-gas-bills/#ftag=CADf328eec](https://www.cnet.com/how-to/home-energy-saving-cheat-sheet-slash-your-water-electric-and-gas-bills/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 12:00:10+00:00
- - tags: None
 
 CNET's experts have found effective ways to pocket more money each month.
 
@@ -396,7 +347,6 @@ CNET's experts have found effective ways to pocket more money each month.
  - [https://www.cnet.com/how-to/your-home-security-cameras-can-be-hacked-heres-how-to-prevent-it/#ftag=CADf328eec](https://www.cnet.com/how-to/your-home-security-cameras-can-be-hacked-heres-how-to-prevent-it/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 12:00:06+00:00
- - tags: None
 
 Stop spying eyes from connecting to your security camera feed. Here's how.
 
@@ -404,7 +354,6 @@ Stop spying eyes from connecting to your security camera feed. Here's how.
  - [https://www.cnet.com/tech/services-and-software/use-this-new-feature-to-log-out-of-your-netflix-account-from-anywhere/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/use-this-new-feature-to-log-out-of-your-netflix-account-from-anywhere/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 12:00:02+00:00
- - tags: None
 
 Forgot to log out of Netflix? Don't worry. Securing your account is fast and easy.
 
@@ -412,7 +361,6 @@ Forgot to log out of Netflix? Don't worry. Securing your account is fast and eas
  - [https://www.cnet.com/how-to/is-it-okay-to-share-your-social-security-number/#ftag=CADf328eec](https://www.cnet.com/how-to/is-it-okay-to-share-your-social-security-number/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 11:00:02+00:00
- - tags: None
 
 What privacy experts have to say about the ultimate password.
 
@@ -420,7 +368,6 @@ What privacy experts have to say about the ultimate password.
  - [https://www.cnet.com/science/climate/at-cop27-an-historic-deal-to-compensate-poor-nations-for-climate-crisis-impacts/#ftag=CADf328eec](https://www.cnet.com/science/climate/at-cop27-an-historic-deal-to-compensate-poor-nations-for-climate-crisis-impacts/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 09:45:27+00:00
- - tags: None
 
 A win for vulnerable countries was offset by weak ambition in the final agreement to take necessary steps to limit global warming to 1.5 degrees Celsius.
 
@@ -428,7 +375,6 @@ A win for vulnerable countries was offset by weak ambition in the final agreemen
  - [https://www.cnet.com/science/climate/historic-deal-to-compensate-poor-nations-for-climate-impacts-agreed-at-cop27/#ftag=CADf328eec](https://www.cnet.com/science/climate/historic-deal-to-compensate-poor-nations-for-climate-impacts-agreed-at-cop27/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 03:10:00+00:00
- - tags: None
 
 The milestone agreement will channel financing into vulnerable countries that contributed the least to the climate crisis, but are now the hardest hit.
 
@@ -436,7 +382,6 @@ The milestone agreement will channel financing into vulnerable countries that co
  - [https://www.cnet.com/news/social-media/elon-musk-says-trumps-twitter-ban-will-be-reversed/#ftag=CADf328eec](https://www.cnet.com/news/social-media/elon-musk-says-trumps-twitter-ban-will-be-reversed/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 01:25:00+00:00
- - tags: None
 
 After polling users on Twitter, Musk reactivates Trump's account. The platform, like other social networks, had booted Trump after the Jan. 6 Capitol Hill riots.
 
@@ -444,7 +389,6 @@ After polling users on Twitter, Musk reactivates Trump's account. The platform, 
  - [https://www.cnet.com/tech/gaming/god-of-war-ragnaroks-touching-ending-explained/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/god-of-war-ragnaroks-touching-ending-explained/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 01:10:00+00:00
- - tags: None
 
 Here's how Kratos and Atreus' Ragnarok adventures come to and end. Be warned -- significant God of War: Ragnarok spoilers inside (duh).
 
@@ -452,7 +396,6 @@ Here's how Kratos and Atreus' Ragnarok adventures come to and end. Be warned -- 
  - [https://www.cnet.com/culture/entertainment/andor-episode-11-recap-an-escape-plan-a-tragic-loss-and-a-glorious-space-battle/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/andor-episode-11-recap-an-escape-plan-a-tragic-loss-and-a-glorious-space-battle/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 01:00:02+00:00
- - tags: None
 
 Rebel recruiter Luthen Rael reminds us why spinning is a good trick, in the Disney Plus Star Wars series' penultimate season 1 episode.
 
@@ -460,7 +403,6 @@ Rebel recruiter Luthen Rael reminds us why spinning is a good trick, in the Disn
  - [https://www.cnet.com/culture/entertainment/aew-full-gear-2022-results-live-updates-and-analysis/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/aew-full-gear-2022-results-live-updates-and-analysis/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 00:55:47+00:00
- - tags: None
 
 Full Gear 2022 is live on B/R Live and Fite TV right now. Moxley vs. MJF headlines.
 
@@ -468,7 +410,6 @@ Full Gear 2022 is live on B/R Live and Fite TV right now. Moxley vs. MJF headlin
  - [https://www.cnet.com/culture/entertainment/black-panther-wakanda-forever-post-credits-scene-mcu-teases-explained/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/black-panther-wakanda-forever-post-credits-scene-mcu-teases-explained/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 00:30:02+00:00
- - tags: None
 
 The 30th Marvel Cinematic Universe movie finishes with a surprise that's sure to bring tears to your eyes. Read on for spoilers.
 
@@ -476,6 +417,5 @@ The 30th Marvel Cinematic Universe movie finishes with a surprise that's sure to
  - [https://www.cnet.com/culture/entertainment/when-does-andor-episode-12-hit-disney-plus/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/when-does-andor-episode-12-hit-disney-plus/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-20 00:00:03+00:00
- - tags: None
 
 The Star Wars show's season 1 finale arrives on Disney Plus next week.

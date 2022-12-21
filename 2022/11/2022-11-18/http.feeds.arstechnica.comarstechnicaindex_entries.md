@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## New Meta AI demo writes racist and inaccurate scientific literature, gets pulled
  - [https://arstechnica.com/?p=1899005](https://arstechnica.com/?p=1899005)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-18 23:30:45+00:00
- - tags: None
 
 Galactica language model generated convincing text about fact and nonsense alike.
 
@@ -12,7 +11,6 @@ Galactica language model generated convincing text about fact and nonsense alike
  - [https://arstechnica.com/?p=1898947](https://arstechnica.com/?p=1898947)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-18 22:15:27+00:00
- - tags: None
 
 Holmes is expected to appeal.
 
@@ -20,7 +18,6 @@ Holmes is expected to appeal.
  - [https://arstechnica.com/?p=1899025](https://arstechnica.com/?p=1899025)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-18 21:10:33+00:00
- - tags: None
 
 ID.me said $414 billion was lost—10 times higher than feds' estimate.
 
@@ -28,7 +25,6 @@ ID.me said $414 billion was lost—10 times higher than feds' estimate.
  - [https://arstechnica.com/?p=1899030](https://arstechnica.com/?p=1899030)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-18 20:51:54+00:00
- - tags: None
 
 Sheet of atoms works similarly to silicon but has some unique properties.
 
@@ -36,7 +32,6 @@ Sheet of atoms works similarly to silicon but has some unique properties.
  - [https://arstechnica.com/?p=1899007](https://arstechnica.com/?p=1899007)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-18 20:31:34+00:00
- - tags: None
 
 Update can be installed on both Founders Edition and third-party GeForce GPUs.
 
@@ -44,7 +39,6 @@ Update can be installed on both Founders Edition and third-party GeForce GPUs.
  - [https://arstechnica.com/?p=1899006](https://arstechnica.com/?p=1899006)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-18 19:59:13+00:00
- - tags: None
 
 Musk email: "Anyone who actually writes software, please report to the 10th floor."
 
@@ -52,7 +46,6 @@ Musk email: "Anyone who actually writes software, please report to the 10th floo
  - [https://arstechnica.com/?p=1898951](https://arstechnica.com/?p=1898951)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-18 19:09:29+00:00
- - tags: None
 
 Graphical enhancements and a focus on varied input methods headline the port.
 
@@ -60,7 +53,6 @@ Graphical enhancements and a focus on varied input methods headline the port.
  - [https://arstechnica.com/?p=1898958](https://arstechnica.com/?p=1898958)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-18 18:54:07+00:00
- - tags: None
 
 Map is better but not perfect—look up your address to see if there are mistakes.
 
@@ -68,7 +60,6 @@ Map is better but not perfect—look up your address to see if there are mistake
  - [https://arstechnica.com/?p=1898908](https://arstechnica.com/?p=1898908)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-18 18:28:56+00:00
- - tags: None
 
 <em>Atari 50</em>'s "Vctr Sctr" is an addictive love letter to a long-lost arcade era.
 
@@ -76,7 +67,6 @@ Map is better but not perfect—look up your address to see if there are mistake
  - [https://arstechnica.com/?p=1898883](https://arstechnica.com/?p=1898883)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-18 17:47:24+00:00
- - tags: None
 
 Hyundai's UX team studied the effect lighting color combinations have on mood.
 
@@ -84,7 +74,6 @@ Hyundai's UX team studied the effect lighting color combinations have on mood.
  - [https://arstechnica.com/?p=1898851](https://arstechnica.com/?p=1898851)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-18 17:31:02+00:00
- - tags: None
 
 Targeted whole genome analysis strengthens case that he was a man named John Barber.
 
@@ -92,7 +81,6 @@ Targeted whole genome analysis strengthens case that he was a man named John Bar
  - [https://arstechnica.com/?p=1898865](https://arstechnica.com/?p=1898865)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-18 16:20:15+00:00
- - tags: None
 
 Twitter advertisers pausing ads over brand safety, cybersecurity concerns.
 
@@ -100,7 +88,6 @@ Twitter advertisers pausing ads over brand safety, cybersecurity concerns.
  - [https://arstechnica.com/?p=1898841](https://arstechnica.com/?p=1898841)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-18 15:13:53+00:00
- - tags: None
 
 Musk jokes through crisis, says record numbers "logging in to see if Twitter is dead."
 
@@ -108,7 +95,6 @@ Musk jokes through crisis, says record numbers "logging in to see if Twitter is 
  - [https://arstechnica.com/?p=1898824](https://arstechnica.com/?p=1898824)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-18 13:53:10+00:00
- - tags: None
 
 "We’re obviously not the only insulin company. But the tropes go on," he said.
 
@@ -116,7 +102,6 @@ Musk jokes through crisis, says record numbers "logging in to see if Twitter is 
  - [https://arstechnica.com/?p=1898729](https://arstechnica.com/?p=1898729)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-18 13:00:13+00:00
- - tags: None
 
 After Elon Musk’s staff cuts, there are hardly any moderators left to talk to.
 
@@ -124,6 +109,5 @@ After Elon Musk’s staff cuts, there are hardly any moderators left to talk to.
  - [https://arstechnica.com/?p=1895034](https://arstechnica.com/?p=1895034)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-18 13:00:08+00:00
- - tags: None
 
 Oddly named console made up for its mistakes with infinite quirky charm.

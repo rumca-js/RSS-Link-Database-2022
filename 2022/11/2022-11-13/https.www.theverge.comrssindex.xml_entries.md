@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## The Space Force’s X-37B spaceplane returns to Earth after over two years in space
  - [https://www.theverge.com/2022/11/13/23456718/space-force-x-37b-spaceplane-returns-two-years-falconsat-8](https://www.theverge.com/2022/11/13/23456718/space-force-x-37b-spaceplane-returns-two-years-falconsat-8)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-13 22:49:18+00:00
- - tags: None
 
 <figure>
       <img alt="An image showing the X-37B spaceplane upon landing" src="https://cdn.vox-cdn.com/thumbor/hJ4hv1Goyyq-f0peZ7TNfwPWNvY=/0x0:6240x4160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71623861/air_force_x_37b_spaceplane.0.jpeg" />
@@ -21,7 +20,6 @@
  - [https://www.theverge.com/2022/11/13/23456554/twitter-reportedly-cut-thousands-contractors-without-warning-layoffs-elon-musk](https://www.theverge.com/2022/11/13/23456554/twitter-reportedly-cut-thousands-contractors-without-warning-layoffs-elon-musk)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-13 21:08:54+00:00
- - tags: None
 
 <figure>
       <img alt="A black Twitter logo over a red illustration" src="https://cdn.vox-cdn.com/thumbor/ZJex-P_Bz4uRI-kmYZzj8JPJmL8=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71623569/acastro_STK050_08.0.jpg" />
@@ -39,7 +37,6 @@
  - [https://www.theverge.com/2022/11/13/23456230/elon-musk-senator-ed-markey-fix-your-companies-congress-will-twitter-warning](https://www.theverge.com/2022/11/13/23456230/elon-musk-senator-ed-markey-fix-your-companies-congress-will-twitter-warning)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-13 18:25:29+00:00
- - tags: None
 
 <figure>
       <img alt="A photo of Elon Musk over a purple illustration" src="https://cdn.vox-cdn.com/thumbor/LaeGN9CwfdAAfyfBNN1TLS-78JA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71623021/STK171_L_Allen_Musk_03.0.jpg" />
@@ -61,7 +58,6 @@
  - [https://www.theverge.com/2022/11/13/23456044/crypto-dot-com-accidentally-sent-400-million-wrong-recipent-ethereum](https://www.theverge.com/2022/11/13/23456044/crypto-dot-com-accidentally-sent-400-million-wrong-recipent-ethereum)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-13 16:26:26+00:00
- - tags: None
 
 <figure>
       <img alt="A coin is set aflame to reveal a digital wireframe underneath." src="https://cdn.vox-cdn.com/thumbor/9-n-1JCGtnA2xl4L8xaFAKZNpN4=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71622571/acastro_220524_STK428_0002.0.jpg" />
@@ -78,7 +74,6 @@
  - [https://www.theverge.com/23453621/lg-c2-oled-tv-review](https://www.theverge.com/23453621/lg-c2-oled-tv-review)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-13 14:00:00+00:00
- - tags: None
 
 <p>It’s far from the brightest TV out there, but as the sweet spot in LG’s lineup, the C2 combines stunning picture quality with an exhaustive list of features and terrific gaming prowess.</p>
   <p>

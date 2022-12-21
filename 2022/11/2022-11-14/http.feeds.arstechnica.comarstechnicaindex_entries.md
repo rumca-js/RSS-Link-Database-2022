@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## Google settles “Location History” lawsuit with 40 states, will pay $392 million
  - [https://arstechnica.com/?p=1897732](https://arstechnica.com/?p=1897732)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-14 22:04:22+00:00
- - tags: None
 
 Google also promises to change the Location History settings again.
 
@@ -12,7 +11,6 @@ Google also promises to change the Location History settings again.
  - [https://arstechnica.com/?p=1897608](https://arstechnica.com/?p=1897608)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-14 21:50:23+00:00
- - tags: None
 
 The device could be announced as soon as January.
 
@@ -20,7 +18,6 @@ The device could be announced as soon as January.
  - [https://arstechnica.com/?p=1897737](https://arstechnica.com/?p=1897737)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-14 21:16:49+00:00
- - tags: None
 
 SpaceX has spent more than $160,000 on Twitter so far.
 
@@ -28,7 +25,6 @@ SpaceX has spent more than $160,000 on Twitter so far.
  - [https://arstechnica.com/?p=1897734](https://arstechnica.com/?p=1897734)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-14 20:54:02+00:00
- - tags: None
 
 New trial has limited effect on cancer, but technology is likely to see further use.
 
@@ -36,7 +32,6 @@ New trial has limited effect on cancer, but technology is likely to see further 
  - [https://arstechnica.com/?p=1897587](https://arstechnica.com/?p=1897587)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-14 19:31:44+00:00
- - tags: None
 
 Zapping the satellite board at just the right time can grant deeper access.
 
@@ -44,7 +39,6 @@ Zapping the satellite board at just the right time can grant deeper access.
  - [https://arstechnica.com/?p=1897484](https://arstechnica.com/?p=1897484)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-14 19:16:46+00:00
- - tags: None
 
 Exascale Cerebras Andromeda cluster packs more cores than 1,954 Nvidia A100 GPUs.
 
@@ -52,7 +46,6 @@ Exascale Cerebras Andromeda cluster packs more cores than 1,954 Nvidia A100 GPUs
  - [https://arstechnica.com/?p=1897605](https://arstechnica.com/?p=1897605)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-14 18:53:48+00:00
- - tags: None
 
 “Selling the truth is dangerous and unacceptable."
 
@@ -60,7 +53,6 @@ Exascale Cerebras Andromeda cluster packs more cores than 1,954 Nvidia A100 GPUs
  - [https://arstechnica.com/?p=1897492](https://arstechnica.com/?p=1897492)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-14 17:34:23+00:00
- - tags: None
 
 Pick a wallpaper and the whole UI will change color.
 
@@ -68,7 +60,6 @@ Pick a wallpaper and the whole UI will change color.
  - [https://arstechnica.com/?p=1897523](https://arstechnica.com/?p=1897523)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-14 17:10:55+00:00
- - tags: None
 
 Smooth, fast, and it eats corners like they're going out of season.
 
@@ -76,7 +67,6 @@ Smooth, fast, and it eats corners like they're going out of season.
  - [https://arstechnica.com/?p=1897494](https://arstechnica.com/?p=1897494)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-14 16:42:23+00:00
- - tags: None
 
 "That is a huge, huge step for the agency."
 
@@ -84,7 +74,6 @@ Smooth, fast, and it eats corners like they're going out of season.
  - [https://arstechnica.com/?p=1897499](https://arstechnica.com/?p=1897499)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-14 16:28:20+00:00
- - tags: None
 
 One Twitter contractor was laid off mid-update to child safety.
 
@@ -92,7 +81,6 @@ One Twitter contractor was laid off mid-update to child safety.
  - [https://arstechnica.com/?p=1897509](https://arstechnica.com/?p=1897509)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-14 16:19:37+00:00
- - tags: None
 
 Scam devs also use Steam page as "evidence" for YouTube DMCA takedown.
 
@@ -100,7 +88,6 @@ Scam devs also use Steam page as "evidence" for YouTube DMCA takedown.
  - [https://arstechnica.com/?p=1897518](https://arstechnica.com/?p=1897518)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-14 16:15:45+00:00
- - tags: None
 
 Cryptocurrency theft has become one of the regime’s main sources of revenue.
 
@@ -108,7 +95,6 @@ Cryptocurrency theft has become one of the regime’s main sources of revenue.
  - [https://arstechnica.com/?p=1885293](https://arstechnica.com/?p=1885293)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-14 12:00:49+00:00
- - tags: None
 
 An unbiased industry source is back for more space policy spitballing.
 
@@ -116,6 +102,5 @@ An unbiased industry source is back for more space policy spitballing.
  - [https://arstechnica.com/?p=1897425](https://arstechnica.com/?p=1897425)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-14 08:00:58+00:00
- - tags: None
 
 The chassis department just couldn’t help itself.

@@ -1,10 +1,9 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss
+# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
 
 ## Frontier Airlines no longer has a customer service phone line
  - [https://www.cnn.com/2022/11/26/business/frontier-airlines-customer-service-call-center/index.html](https://www.cnn.com/2022/11/26/business/frontier-airlines-customer-service-call-center/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-26 19:12:34+00:00
- - tags: None
 
 Customers who need flight information or want to make changes to travel plans can no longer call Frontier Airlines and speak to an agent, the company confirmed to CNN Saturday.
 
@@ -12,7 +11,6 @@ Customers who need flight information or want to make changes to travel plans ca
  - [https://www.cnn.com/2022/11/26/us/us-washington-huawei-zte-ban-security-risk-intl-hnk/index.html](https://www.cnn.com/2022/11/26/us/us-washington-huawei-zte-ban-security-risk-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-26 05:02:35+00:00
- - tags: None
 
 The Biden administration has banned approvals of new telecommunications equipment from China's Huawei Technologies and ZTE because they pose "an unacceptable risk" to US national security.
 
@@ -20,7 +18,6 @@ The Biden administration has banned approvals of new telecommunications equipmen
  - [https://www.cnn.com/2022/11/25/asia/taiwan-local-election-china-intl-hnk/index.html](https://www.cnn.com/2022/11/25/asia/taiwan-local-election-china-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-26 03:39:59+00:00
- - tags: None
 
 Polls opened in Taiwan on Saturday in local elections that President Tsai Ing-wen has framed as being about sending a message to the world about the island's determination to defend its democracy in the face of China's rising bellicosity.
 
@@ -28,6 +25,5 @@ Polls opened in Taiwan on Saturday in local elections that President Tsai Ing-we
  - [https://www.cnn.com/2022/11/25/asia/south-korea-defense-industry-weapons-intl-hnk-dst-ml/index.html](https://www.cnn.com/2022/11/25/asia/south-korea-defense-industry-weapons-intl-hnk-dst-ml/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-26 00:59:56+00:00
- - tags: None
 
 With a blinding yellow flash and a concussion that shakes bones, K9 self-propelled howitzers launch artillery shells onto a hill that's just been hit by rockets fired from helicopters. Then K2 tanks roar in, speeding up roads and firing as they go.

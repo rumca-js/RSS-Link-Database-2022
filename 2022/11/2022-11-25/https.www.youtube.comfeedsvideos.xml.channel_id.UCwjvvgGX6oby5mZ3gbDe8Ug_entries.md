@@ -1,10 +1,9 @@
-# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
+# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug, Source language: en-US
 
 ## Chinese soccer team's corruption! It turned into World Cup "construction team" and pain for fans
  - [https://www.youtube.com/watch?v=p4FaLjzzfB0](https://www.youtube.com/watch?v=p4FaLjzzfB0)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
  - date published: 2022-11-25 00:01:54+00:00
- - tags: None
 
 #chinainsights 
 The Qatar World Cup opened on Nov. 20th, 2022. The Chinese men's soccer team failed to enter the Game. Yet, the Chinese government and its central media outlets took the opportunity, that is a globally watched sporting event, to praise the "omnipresence of Chinese elements in the World Cup", hoping to cultivate and inspire patriotism or love for the party.  But this propaganda campaign has provoked a lot of public resentment.

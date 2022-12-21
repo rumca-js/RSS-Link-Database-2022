@@ -1,10 +1,9 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml
+# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
 
 ## Meta layoffs, a setback for Mark Zuckerberg
  - [https://www.lemonde.fr/en/pixels/article/2022/11/10/meta-layoffs-a-setback-for-mark-zuckerberg_6003632_13.html](https://www.lemonde.fr/en/pixels/article/2022/11/10/meta-layoffs-a-setback-for-mark-zuckerberg_6003632_13.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 23:58:30+00:00
- - tags: None
 
 The parent company of Facebook, which is losing momentum and whose strategy is struggling to gain acceptance, is laying off 11,000 employees.
 
@@ -12,7 +11,6 @@ The parent company of Facebook, which is losing momentum and whose strategy is s
  - [https://www.lemonde.fr/en/climate-change/article/2022/11/10/in-india-one-climate-disaster-every-day_6003631_152.html](https://www.lemonde.fr/en/climate-change/article/2022/11/10/in-india-one-climate-disaster-every-day_6003631_152.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 23:06:58+00:00
- - tags: None
 
 The subcontinent is among the most vulnerable regions on earth to global warming. According to a study by the Center for Science and Environment, 241 of the first 273 days of the year were marked by an extreme weather event.
 
@@ -20,7 +18,6 @@ The subcontinent is among the most vulnerable regions on earth to global warming
  - [https://www.lemonde.fr/en/international/article/2022/11/09/biden-hails-good-day-for-democracy-as-republican-wave-flounders_6003629_4.html](https://www.lemonde.fr/en/international/article/2022/11/09/biden-hails-good-day-for-democracy-as-republican-wave-flounders_6003629_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 22:36:10+00:00
- - tags: None
 
 US president Joe Biden said Wednesday he was prepared to work with the opposition, after a surprisingly strong performance in midterm elections with Republicans inching toward a slim majority in only one chamber of Congress.
 
@@ -28,7 +25,6 @@ US president Joe Biden said Wednesday he was prepared to work with the oppositio
  - [https://www.lemonde.fr/en/pixels/article/2022/11/09/musk-kills-new-twitter-label-hours-after-launch-seeks-to-reassure-advertisers_6003627_13.html](https://www.lemonde.fr/en/pixels/article/2022/11/09/musk-kills-new-twitter-label-hours-after-launch-seeks-to-reassure-advertisers_6003627_13.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 21:11:49+00:00
- - tags: None
 
 Just hours after going live, Elon Musk 'killed' Twitter's 'official' gray checks. They were meant to be Twitter's way of identifying legitimate accounts like media outlets and politicians.
 
@@ -36,7 +32,6 @@ Just hours after going live, Elon Musk 'killed' Twitter's 'official' gray checks
  - [https://www.lemonde.fr/en/culture/article/2022/11/09/black-panther-wakanda-forever-in-wakanda-it-is-time-for-mourning-and-superheroines_6003622_30.html](https://www.lemonde.fr/en/culture/article/2022/11/09/black-panther-wakanda-forever-in-wakanda-it-is-time-for-mourning-and-superheroines_6003622_30.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 20:30:08+00:00
- - tags: None
 
 After the 2020 death of its star actor Chadwick Boseman, the Black Panther of the first film, the African kingdom must face a new threat from the ocean.
 
@@ -44,7 +39,6 @@ After the 2020 death of its star actor Chadwick Boseman, the Black Panther of th
  - [https://www.lemonde.fr/en/sports/article/2022/11/09/deschamps-names-doubtful-varane-and-in-form-giroud-to-french-world-cup-squad_6003619_9.html](https://www.lemonde.fr/en/sports/article/2022/11/09/deschamps-names-doubtful-varane-and-in-form-giroud-to-french-world-cup-squad_6003619_9.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 20:09:31+00:00
- - tags: None
 
 France's coach named 25 players to World Cup squad headed to Qatar in less than two weeks.
 
@@ -52,7 +46,6 @@ France's coach named 25 players to World Cup squad headed to Qatar in less than 
  - [https://www.lemonde.fr/en/united-states/article/2022/11/09/us-midterms-key-us-senate-race-in-georgia-goes-to-december-runoff_6003614_133.html](https://www.lemonde.fr/en/united-states/article/2022/11/09/us-midterms-key-us-senate-race-in-georgia-goes-to-december-runoff_6003614_133.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 19:42:49+00:00
- - tags: None
 
 Senator Raphael Warnock, Democrat, and Herschel Walker, Republican, will continue their race into a December runoff election as neither candidate earned the majority of votes needed by law to win outright.
 
@@ -60,7 +53,6 @@ Senator Raphael Warnock, Democrat, and Herschel Walker, Republican, will continu
  - [https://www.lemonde.fr/en/united-states/article/2022/11/09/tropical-storm-nicole-forces-evacuations-in-bahamas-florida_6003610_133.html](https://www.lemonde.fr/en/united-states/article/2022/11/09/tropical-storm-nicole-forces-evacuations-in-bahamas-florida_6003610_133.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 19:10:34+00:00
- - tags: None
 
 Tropical Storm Nicole is expected to strike as a hurricane overnight in Florida, including some places that are still feeling the effects of Hurricane Ian.
 
@@ -68,7 +60,6 @@ Tropical Storm Nicole is expected to strike as a hurricane overnight in Florida,
  - [https://www.lemonde.fr/en/environment/article/2022/11/09/flood-hit-pakistan-seeks-climate-damage-compensation_6003609_114.html](https://www.lemonde.fr/en/environment/article/2022/11/09/flood-hit-pakistan-seeks-climate-damage-compensation_6003609_114.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 19:00:19+00:00
- - tags: None
 
 The floods that devastated Pakistan during the summer marked a turning point in public opinion regarding financial support from industrial countries. The country has since become the focus of the debate on loss and damage at COP27.
 
@@ -76,7 +67,6 @@ The floods that devastated Pakistan during the summer marked a turning point in 
  - [https://www.lemonde.fr/en/europe/article/2022/11/09/french-firm-vinci-charged-over-alleged-qatar-labor-abuses_6003605_143.html](https://www.lemonde.fr/en/europe/article/2022/11/09/french-firm-vinci-charged-over-alleged-qatar-labor-abuses_6003605_143.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 18:13:26+00:00
- - tags: None
 
 A French judge is set to probe the Vinci construction company over allegations it violated the rights of migrant workers in Qatar.
 
@@ -84,7 +74,6 @@ A French judge is set to probe the Vinci construction company over allegations i
  - [https://www.lemonde.fr/en/environment/article/2022/11/09/at-cop27-the-battle-for-a-fossil-fuel-non-proliferation-treaty-is-underway_6003602_114.html](https://www.lemonde.fr/en/environment/article/2022/11/09/at-cop27-the-battle-for-a-fossil-fuel-non-proliferation-treaty-is-underway_6003602_114.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 18:06:00+00:00
- - tags: None
 
 Tuvalu was the first country at COP27 to call for the treaty, which 100 Nobel Prize winners and the WHO have said is necessary to stop the expansion of coal, oil and gas.
 
@@ -92,7 +81,6 @@ Tuvalu was the first country at COP27 to call for the treaty, which 100 Nobel Pr
  - [https://www.lemonde.fr/en/france/article/2022/11/09/france-to-put-13-on-trial-over-alleged-2018-plot-against-macron_6003594_7.html](https://www.lemonde.fr/en/france/article/2022/11/09/france-to-put-13-on-trial-over-alleged-2018-plot-against-macron_6003594_7.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 16:57:41+00:00
- - tags: None
 
 Thirteen members of the group called the 'Barjols' (Crazies) are suspected of planning a violent attack on French President Emmanuel Macron in 2018.
 
@@ -100,7 +88,6 @@ Thirteen members of the group called the 'Barjols' (Crazies) are suspected of pl
  - [https://www.lemonde.fr/en/m-le-mag/article/2022/11/09/rossy-de-palma-at-paris-photo-like-all-great-geniuses-william-klein-was-a-very-simple-man_6003593_117.html](https://www.lemonde.fr/en/m-le-mag/article/2022/11/09/rossy-de-palma-at-paris-photo-like-all-great-geniuses-william-klein-was-a-very-simple-man_6003593_117.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 16:57:11+00:00
- - tags: None
 
 The Spanish artist, guest of honor at the Paris photo exhibition, tells of her meeting and admiration for the photographer William Klein, who died in September.
 
@@ -108,7 +95,6 @@ The Spanish artist, guest of honor at the Paris photo exhibition, tells of her m
  - [https://www.lemonde.fr/en/politics/article/2022/11/09/macron-offers-biggest-polluters-a-decarbonization-deal_6003589_5.html](https://www.lemonde.fr/en/politics/article/2022/11/09/macron-offers-biggest-polluters-a-decarbonization-deal_6003589_5.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 16:46:48+00:00
- - tags: None
 
 Banking on incentives rather than coercion, the French president promised to set aside a package of €10 billion for large French companies to reduce their CO₂ emissions.
 
@@ -116,7 +102,6 @@ Banking on incentives rather than coercion, the French president promised to set
  - [https://www.lemonde.fr/en/international/article/2022/11/09/russia-orders-withdrawal-from-kherson-key-position-in-southern-ukraine_6003580_4.html](https://www.lemonde.fr/en/international/article/2022/11/09/russia-orders-withdrawal-from-kherson-key-position-in-southern-ukraine_6003580_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 16:12:09+00:00
- - tags: None
 
 The city of Kherson was the only regional capital captured during Moscow's February 24 invasion, and has been a key target of an ongoing counter-offensive.
 
@@ -124,7 +109,6 @@ The city of Kherson was the only regional capital captured during Moscow's Febru
  - [https://www.lemonde.fr/en/international/article/2022/11/09/after-ten-years-france-to-end-military-operation-barkhane-in-sahel_6003575_4.html](https://www.lemonde.fr/en/international/article/2022/11/09/after-ten-years-france-to-end-military-operation-barkhane-in-sahel_6003575_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 15:48:30+00:00
- - tags: None
 
 French President Emmanuel Macron said on Wednesday, November 7 that France was ending its anti-jihadist mission in Africa, with a new strategy to be worked out within the next half-year.
 
@@ -132,7 +116,6 @@ French President Emmanuel Macron said on Wednesday, November 7 that France was e
  - [https://www.lemonde.fr/en/france/article/2022/11/09/france-and-italy-quarrel-over-fate-of-humanitarian-ship-with-234-migrants_6003574_7.html](https://www.lemonde.fr/en/france/article/2022/11/09/france-and-italy-quarrel-over-fate-of-humanitarian-ship-with-234-migrants_6003574_7.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 15:46:24+00:00
- - tags: None
 
 The boat has requested a safe port in France, as there was no solution for disembarking in Italy.
 
@@ -140,7 +123,6 @@ The boat has requested a safe port in France, as there was no solution for disem
  - [https://www.lemonde.fr/en/france/article/2022/11/09/french-church-under-scrutiny-as-it-tries-to-manage-sexual-abuse-crisis_6003569_7.html](https://www.lemonde.fr/en/france/article/2022/11/09/french-church-under-scrutiny-as-it-tries-to-manage-sexual-abuse-crisis_6003569_7.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 14:48:03+00:00
- - tags: None
 
 The president of the French bishops' conference, Eric de Moulins-Beaufort, acknowledged on Tuesday that he had been told of Cardinal Jean-Pierre Ricard's abuse of a 14-year-old girl as early as February.
 
@@ -148,7 +130,6 @@ The president of the French bishops' conference, Eric de Moulins-Beaufort, ackno
  - [https://www.lemonde.fr/en/international/article/2022/11/09/nato-membership-erdogan-again-postpones-ratification-of-swedish-and-finnish-applications_6003564_4.html](https://www.lemonde.fr/en/international/article/2022/11/09/nato-membership-erdogan-again-postpones-ratification-of-swedish-and-finnish-applications_6003564_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 14:31:46+00:00
- - tags: None
 
 On a trip to Ankara on Tuesday, Swedish Prime Minister Ulf Kristersson gave the Turkish president certain guarantees, but they were not enough, according to some officials.
 
@@ -156,7 +137,6 @@ On a trip to Ankara on Tuesday, Swedish Prime Minister Ulf Kristersson gave the 
  - [https://www.lemonde.fr/en/politics/article/2022/11/09/macron-says-france-uk-to-hold-defense-summit-in-early-2023_6003561_5.html](https://www.lemonde.fr/en/politics/article/2022/11/09/macron-says-france-uk-to-hold-defense-summit-in-early-2023_6003561_5.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 14:11:59+00:00
- - tags: None
 
 The French president said the summit will strengthen military cooperation between the UK and France.
 
@@ -164,7 +144,6 @@ The French president said the summit will strengthen military cooperation betwee
  - [https://www.lemonde.fr/en/international/article/2022/11/09/midterms-2022-georgia-is-once-again-a-swing-state-for-the-senate_6003556_4.html](https://www.lemonde.fr/en/international/article/2022/11/09/midterms-2022-georgia-is-once-again-a-swing-state-for-the-senate_6003556_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 13:47:02+00:00
- - tags: None
 
 In the absence of an absolute majority, the two candidates for senator could face each other in a run-off election in December.
 
@@ -172,7 +151,6 @@ In the absence of an absolute majority, the two candidates for senator could fac
  - [https://www.lemonde.fr/en/sports/article/2022/11/09/police-raid-french-rugby-world-cup-hq-as-corruption-probe-opened_6003553_9.html](https://www.lemonde.fr/en/sports/article/2022/11/09/police-raid-french-rugby-world-cup-hq-as-corruption-probe-opened_6003553_9.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 13:32:13+00:00
- - tags: None
 
 Prosecutors confirmed for the first time that an investigation was opened for favoritism, corruption and influence-peddling at France-2023, the World Cup organizing committee.
 
@@ -180,7 +158,6 @@ Prosecutors confirmed for the first time that an investigation was opened for fa
  - [https://www.lemonde.fr/en/politics/article/2022/11/09/french-energy-minister-weakened-by-accusations-of-conflicts-of-interest_6003551_5.html](https://www.lemonde.fr/en/politics/article/2022/11/09/french-energy-minister-weakened-by-accusations-of-conflicts-of-interest_6003551_5.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 13:23:05+00:00
- - tags: None
 
 Investigative website Disclose revealed on Tuesday that Agnès Pannier-Runacher's children were stakeholders in a company whose funds are located in tax havens, with possible ties to an oil corporation.
 
@@ -188,7 +165,6 @@ Investigative website Disclose revealed on Tuesday that Agnès Pannier-Runacher'
  - [https://www.lemonde.fr/en/international/article/2022/11/09/us-midterms-uncertainty-over-congress-a-nasty-surprise-for-republicans_6003545_4.html](https://www.lemonde.fr/en/international/article/2022/11/09/us-midterms-uncertainty-over-congress-a-nasty-surprise-for-republicans_6003545_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 11:44:21+00:00
- - tags: None
 
 With Republicans still clinging to their goal of winning a majority in the House and even the Senate, the landscape emerging from the polls looks uncertain.
 
@@ -196,7 +172,6 @@ With Republicans still clinging to their goal of winning a majority in the House
  - [https://www.lemonde.fr/en/pixels/article/2022/11/09/facebook-parent-company-meta-cuts-11-000-jobs_6003542_13.html](https://www.lemonde.fr/en/pixels/article/2022/11/09/facebook-parent-company-meta-cuts-11-000-jobs_6003542_13.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 11:42:37+00:00
- - tags: None
 
 Meta announced it was laying off 13% off its workforce as a result of reduced revenue growth, at a time when a number of the tech giants are experiencing severe challenges.
 
@@ -204,7 +179,6 @@ Meta announced it was laying off 13% off its workforce as a result of reduced re
  - [https://www.lemonde.fr/en/opinion/article/2022/11/09/midterm-elections-the-two-takeaways-from-america_6003541_23.html](https://www.lemonde.fr/en/opinion/article/2022/11/09/midterm-elections-the-two-takeaways-from-america_6003541_23.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 11:41:46+00:00
- - tags: None
 
 The first results of the midterm elections show that the Democrats are doing better than expected and that the anticipated red wave has failed to materialize.
 
@@ -212,7 +186,6 @@ The first results of the midterm elections show that the Democrats are doing bet
  - [https://www.lemonde.fr/en/international/article/2022/11/09/sunak-government-experiences-first-turbulence-with-harassment-allegations_6003540_4.html](https://www.lemonde.fr/en/international/article/2022/11/09/sunak-government-experiences-first-turbulence-with-harassment-allegations_6003540_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 11:10:41+00:00
- - tags: None
 
 Gavin Williamson, minister without portfolio, was forced to resign just a fortnight after taking office amid accusations of harassment.
 
@@ -220,7 +193,6 @@ Gavin Williamson, minister without portfolio, was forced to resign just a fortni
  - [https://www.lemonde.fr/en/opinion/article/2022/11/09/midterms-2022-the-republican-party-is-content-in-the-wake-of-donald-trump-to-pile-on-slogans_6003538_23.html](https://www.lemonde.fr/en/opinion/article/2022/11/09/midterms-2022-the-republican-party-is-content-in-the-wake-of-donald-trump-to-pile-on-slogans_6003538_23.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 10:47:18+00:00
- - tags: None
 
 The former president of the United States intends to use the result of the mid-term elections to run for president in 2024, writes columnist Gilles Paris.
 
@@ -228,7 +200,6 @@ The former president of the United States intends to use the result of the mid-t
  - [https://www.lemonde.fr/en/united-states/article/2022/11/09/voter-id-passes-in-nebraska-as-states-decide-on-new-election-measures-ahead-of-2024_6003530_133.html](https://www.lemonde.fr/en/united-states/article/2022/11/09/voter-id-passes-in-nebraska-as-states-decide-on-new-election-measures-ahead-of-2024_6003530_133.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 10:10:30+00:00
- - tags: None
 
 Photo identification, an amendment prohibiting non-US citizens from voting and expanded access to early voting were among the electoral issues on ballots.
 
@@ -236,7 +207,6 @@ Photo identification, an amendment prohibiting non-US citizens from voting and e
  - [https://www.lemonde.fr/en/le-monde-africa/article/2022/11/09/cop27-burkina-faso-uses-improved-methods-to-predict-rainfall-and-extreme-weather-events_6003529_124.html](https://www.lemonde.fr/en/le-monde-africa/article/2022/11/09/cop27-burkina-faso-uses-improved-methods-to-predict-rainfall-and-extreme-weather-events_6003529_124.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 10:07:56+00:00
- - tags: None
 
 Burkina Faso, the pilot country of climate research in the Sahel under the ClimSA program, has been experiencing repeated droughts. It is working to strengthen weather information in a region where the means of observation are sorely lacking.
 
@@ -244,7 +214,6 @@ Burkina Faso, the pilot country of climate research in the Sahel under the ClimS
  - [https://www.lemonde.fr/en/economy/article/2022/11/09/ryanair-puts-the-global-pandemic-behind-it_6003521_19.html](https://www.lemonde.fr/en/economy/article/2022/11/09/ryanair-puts-the-global-pandemic-behind-it_6003521_19.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 09:45:11+00:00
- - tags: None
 
 The Irish low-cost airline recorded its biggest ever after-tax profit this summer.
 
@@ -252,7 +221,6 @@ The Irish low-cost airline recorded its biggest ever after-tax profit this summe
  - [https://www.lemonde.fr/en/international/article/2022/11/09/us-basketball-star-griner-gets-transferred-to-russian-penal-colony_6003520_4.html](https://www.lemonde.fr/en/international/article/2022/11/09/us-basketball-star-griner-gets-transferred-to-russian-penal-colony_6003520_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 09:42:01+00:00
- - tags: None
 
 The two-time Olympic gold medallist was arrested at a Moscow airport in February with vape cartridges containing cannabis oil, which is banned in Russia.
 
@@ -260,7 +228,6 @@ The two-time Olympic gold medallist was arrested at a Moscow airport in February
  - [https://www.lemonde.fr/en/united-states/article/2022/11/09/us-midterms-abortion-rights-protected-in-michigan-california-and-vermont_6003516_133.html](https://www.lemonde.fr/en/united-states/article/2022/11/09/us-midterms-abortion-rights-protected-in-michigan-california-and-vermont_6003516_133.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 09:24:31+00:00
- - tags: None
 
 The election comes months after the Supreme Court overturned Roe v. Wade and the right to abortion it guaranteed, making reproductive rights a key issue for voters.
 
@@ -268,7 +235,6 @@ The election comes months after the Supreme Court overturned Roe v. Wade and the
  - [https://www.lemonde.fr/en/france/article/2022/11/09/french-transport-strike-looks-set-to-severely-disrupt-paris_6003512_7.html](https://www.lemonde.fr/en/france/article/2022/11/09/french-transport-strike-looks-set-to-severely-disrupt-paris_6003512_7.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 09:07:14+00:00
- - tags: None
 
 Paris is preparing for a tumultuous day on Thursday with half of the city's Metro lines  closed completely, while the rest of the city's public transport network will see very heavy disruption.
 
@@ -276,7 +242,6 @@ Paris is preparing for a tumultuous day on Thursday with half of the city's Metr
  - [https://www.lemonde.fr/en/united-states/article/2022/11/09/us-midterms-on-election-day-trump-remains-focused-on-voter-fraud_6003507_133.html](https://www.lemonde.fr/en/united-states/article/2022/11/09/us-midterms-on-election-day-trump-remains-focused-on-voter-fraud_6003507_133.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 08:32:09+00:00
- - tags: None
 
 The former Republican president decried alleged voting anomalies on Tuesday, fuelling the idea of electoral fraud – as he has since he lost the 2020 presidential election.
 
@@ -284,7 +249,6 @@ The former Republican president decried alleged voting anomalies on Tuesday, fue
  - [https://www.lemonde.fr/en/economy/article/2022/11/09/cop27-development-banks-must-do-more-on-climate_6003504_19.html](https://www.lemonde.fr/en/economy/article/2022/11/09/cop27-development-banks-must-do-more-on-climate_6003504_19.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 07:32:19+00:00
- - tags: None
 
 Accused of not facing up to the climate emergency, the World Bank has been called upon to change.
 
@@ -292,7 +256,6 @@ Accused of not facing up to the climate emergency, the World Bank has been calle
  - [https://www.lemonde.fr/en/united-states/article/2022/11/09/midterm-elections-republicans-in-grinding-push-to-break-democrats-hold-on-congress_6003501_133.html](https://www.lemonde.fr/en/united-states/article/2022/11/09/midterm-elections-republicans-in-grinding-push-to-break-democrats-hold-on-congress_6003501_133.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 07:24:11+00:00
- - tags: None
 
 Republicans hoped for a wipeout, but the sweeping wins had yet to materialize early Wednesday. Meanwhile, the fate of Democrats narrow hold on the Senate was unclear.
 
@@ -300,7 +263,6 @@ Republicans hoped for a wipeout, but the sweeping wins had yet to materialize ea
  - [https://www.lemonde.fr/en/international/article/2022/11/09/midterms-elections-ron-desantis-contender-for-the-republican-presidential-nomination-wins-in-florida_6003500_4.html](https://www.lemonde.fr/en/international/article/2022/11/09/midterms-elections-ron-desantis-contender-for-the-republican-presidential-nomination-wins-in-florida_6003500_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 07:10:42+00:00
- - tags: None
 
 The Republican governor of the Sunshine State easily won by 20 points over his Democratic opponent. He has confirmed his position as the only credible alternative to Donald Trump within the Grand Old Party.
 
@@ -308,7 +270,6 @@ The Republican governor of the Sunshine State easily won by 20 points over his D
  - [https://www.lemonde.fr/en/united-states/article/2022/11/09/midterm-elections-democrat-fetterman-wins-key-pennsylvania-senate-race_6003497_133.html](https://www.lemonde.fr/en/united-states/article/2022/11/09/midterm-elections-democrat-fetterman-wins-key-pennsylvania-senate-race_6003497_133.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 07:05:30+00:00
- - tags: None
 
 Pennsylvania's lieutenant governor is giving Democrats hope they can retain control of the closely divided chamber.
 
@@ -316,7 +277,6 @@ Pennsylvania's lieutenant governor is giving Democrats hope they can retain cont
  - [https://www.lemonde.fr/en/pixels/article/2022/11/09/twitter-reveals-new-official-label-for-select-verified-accounts_6003494_13.html](https://www.lemonde.fr/en/pixels/article/2022/11/09/twitter-reveals-new-official-label-for-select-verified-accounts_6003494_13.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 06:09:30+00:00
- - tags: None
 
 The social media giant says governments, companies, media outlets and public figures will get the new label, which is not for sale.
 
@@ -324,7 +284,6 @@ The social media giant says governments, companies, media outlets and public fig
  - [https://www.lemonde.fr/en/united-states/article/2022/11/09/midterm-results-abrams-concedes-to-kemp-in-georgia-rematch_6003489_133.html](https://www.lemonde.fr/en/united-states/article/2022/11/09/midterm-results-abrams-concedes-to-kemp-in-georgia-rematch_6003489_133.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 05:30:12+00:00
- - tags: None
 
 The Democratic candidate was again beaten by her Republican rival, who clinched another term despite attacks from former President Donald Trump.
 
@@ -332,7 +291,6 @@ The Democratic candidate was again beaten by her Republican rival, who clinched 
  - [https://www.lemonde.fr/en/united-states/article/2022/11/09/trump-backed-jd-vance-wins-ohio-senate-race_6003485_133.html](https://www.lemonde.fr/en/united-states/article/2022/11/09/trump-backed-jd-vance-wins-ohio-senate-race_6003485_133.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 05:05:18+00:00
- - tags: None
 
 The best-selling 'Hillbilly Elegy' author backed by Donald Trump, won a contentious race for Ohio's open US Senate seat Tuesday, in a disappointment for Democratic President Joe Biden.
 
@@ -340,7 +298,6 @@ The best-selling 'Hillbilly Elegy' author backed by Donald Trump, won a contenti
  - [https://www.lemonde.fr/en/international/article/2022/11/09/war-in-ukraine-the-balance-of-power-between-russian-and-ukrainian-armies-is-shifting-with-winter-s-arrival_6003482_4.html](https://www.lemonde.fr/en/international/article/2022/11/09/war-in-ukraine-the-balance-of-power-between-russian-and-ukrainian-armies-is-shifting-with-winter-s-arrival_6003482_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 04:44:28+00:00
- - tags: None
 
 Frost and fog may slow down Ukrainian counter-offensives, but Kyiv's troops are better equipped than Moscow's to deal with the falling temperatures.
 
@@ -348,7 +305,6 @@ Frost and fog may slow down Ukrainian counter-offensives, but Kyiv's troops are 
  - [https://www.lemonde.fr/en/politics/article/2022/11/09/assisted-dying-french-president-emmanuel-macron-is-trying-to-depoliticize-the-debate_6003481_5.html](https://www.lemonde.fr/en/politics/article/2022/11/09/assisted-dying-french-president-emmanuel-macron-is-trying-to-depoliticize-the-debate_6003481_5.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 04:43:55+00:00
- - tags: None
 
 Following his supportive statements on euthanasia, the president seems to be stalling for fear of dividing public opinion and his majority.
 
@@ -356,7 +312,6 @@ Following his supportive statements on euthanasia, the president seems to be sta
  - [https://www.lemonde.fr/en/international/article/2022/11/09/midterm-elections-results-trailblazers-secure-big-wins_6003480_4.html](https://www.lemonde.fr/en/international/article/2022/11/09/midterm-elections-results-trailblazers-secure-big-wins_6003480_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 04:43:48+00:00
- - tags: None
 
 From the first openly lesbian governor to the first Generation Z member-elect of Congress, early results in the US midterms heralded a good night for diversity.
 
@@ -364,7 +319,6 @@ From the first openly lesbian governor to the first Generation Z member-elect of
  - [https://www.lemonde.fr/en/le-monde-africa/article/2022/11/09/sadek-hadjeres-figure-of-the-algerian-left-dies-at-94_6003479_124.html](https://www.lemonde.fr/en/le-monde-africa/article/2022/11/09/sadek-hadjeres-figure-of-the-algerian-left-dies-at-94_6003479_124.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 04:42:56+00:00
- - tags: None
 
 The nationalist activist, a former executive of the Algerian Communist Party, died on November 3 in Paris, where he had been living in exile since 1990.
 
@@ -372,7 +326,6 @@ The nationalist activist, a former executive of the Algerian Communist Party, di
  - [https://www.lemonde.fr/en/united-states/article/2022/11/09/midterm-results-gregot-abbott-defeats-beto-o-rourke-in-texas-governor-race_6003475_133.html](https://www.lemonde.fr/en/united-states/article/2022/11/09/midterm-results-gregot-abbott-defeats-beto-o-rourke-in-texas-governor-race_6003475_133.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 04:27:25+00:00
- - tags: None
 
 The Republican governor won a third term Tuesday, strengthening his position as a potential 2024 presidential contender and securing his place as the state’s second-longest serving governor.
 
@@ -380,7 +333,6 @@ The Republican governor won a third term Tuesday, strengthening his position as 
  - [https://www.lemonde.fr/en/international/article/2022/11/09/2022-midterm-elections-inflation-democracy-trump-biden-are-on-voters-minds_6003472_4.html](https://www.lemonde.fr/en/international/article/2022/11/09/2022-midterm-elections-inflation-democracy-trump-biden-are-on-voters-minds_6003472_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 03:43:48+00:00
- - tags: None
 
 An AP VoteCast survey depicts a country in distress at a moment when control of Congress – and a choice between sharply contrasting visions of America – hang in the balance.
 
@@ -388,7 +340,6 @@ An AP VoteCast survey depicts a country in distress at a moment when control of 
  - [https://www.lemonde.fr/en/les-decodeurs/article/2022/11/09/why-france-and-51-other-countries-voted-against-the-un-resolution-condemning-nazism_6003471_8.html](https://www.lemonde.fr/en/les-decodeurs/article/2022/11/09/why-france-and-51-other-countries-voted-against-the-un-resolution-condemning-nazism_6003471_8.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 03:30:12+00:00
- - tags: None
 
 For a decade, Russia has submitted a text denouncing the 'glorification of Nazism' at each session, but the resolution was particularly unpopular this year because of the war in Ukraine.
 
@@ -396,7 +347,6 @@ For a decade, Russia has submitted a text denouncing the 'glorification of Nazis
  - [https://www.lemonde.fr/en/united-states/article/2022/11/09/maryland-becomes-20th-state-to-legalize-marijuana_6003469_133.html](https://www.lemonde.fr/en/united-states/article/2022/11/09/maryland-becomes-20th-state-to-legalize-marijuana_6003469_133.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 03:27:10+00:00
- - tags: None
 
 Four other states – Arkansas, Missouri, North Dakota, and South Dakota – are deciding on Election Day whether to approve recreational marijuana.
 
@@ -404,7 +354,6 @@ Four other states – Arkansas, Missouri, North Dakota, and South Dakota – are
  - [https://www.lemonde.fr/en/france/article/2022/11/09/10-000-fake-health-passes-400-000-in-receipts-a-team-of-scammers-appears-before-french-court_6003466_7.html](https://www.lemonde.fr/en/france/article/2022/11/09/10-000-fake-health-passes-400-000-in-receipts-a-team-of-scammers-appears-before-french-court_6003466_7.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 03:00:12+00:00
- - tags: None
 
 Eleven people have been indicted in this case, which began in August 2021. A guilty plea procedure is due to be held on Wednesday for five of them.
 
@@ -412,7 +361,6 @@ Eleven people have been indicted in this case, which began in August 2021. A gui
  - [https://www.lemonde.fr/en/united-states/article/2022/11/09/maura-healey-becomes-first-openly-lesbian-us-governor_6003463_133.html](https://www.lemonde.fr/en/united-states/article/2022/11/09/maura-healey-becomes-first-openly-lesbian-us-governor_6003463_133.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 02:46:51+00:00
- - tags: None
 
 The Democratic Attorney General defeated Trump backed Republican Geoff Diehl to become Massachusetts' first woman and openly gay govenor.
 
@@ -420,7 +368,6 @@ The Democratic Attorney General defeated Trump backed Republican Geoff Diehl to 
  - [https://www.lemonde.fr/en/economy/article/2022/11/09/days-after-taking-control-of-twitter-elon-musk-sells-nearly-4-billion-in-tesla-stock_6003462_19.html](https://www.lemonde.fr/en/economy/article/2022/11/09/days-after-taking-control-of-twitter-elon-musk-sells-nearly-4-billion-in-tesla-stock_6003462_19.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 02:44:58+00:00
- - tags: None
 
 The US Securities and Exchange Commission documents show Musk, who financed much of his Twitter purchase with Tesla stock, sold more than 19 million shares.
 
@@ -428,7 +375,6 @@ The US Securities and Exchange Commission documents show Musk, who financed much
  - [https://www.lemonde.fr/en/m-le-mag/article/2022/11/09/christie-s-could-set-record-with-microsoft-co-founder-s-1-bn-art-collection_6003461_117.html](https://www.lemonde.fr/en/m-le-mag/article/2022/11/09/christie-s-could-set-record-with-microsoft-co-founder-s-1-bn-art-collection_6003461_117.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 02:30:13+00:00
- - tags: None
 
 More than 150 masterpieces by the likes of Sandro Botticelli, Claude Monet and Vincent Van Gogh will be sold on November 9 and 10.
 
@@ -436,7 +382,6 @@ More than 150 masterpieces by the likes of Sandro Botticelli, Claude Monet and V
  - [https://www.lemonde.fr/en/football/article/2022/11/09/world-cup-2022-the-time-has-come-for-french-coach-deschamps-to-reveal-his-team_6003460_130.html](https://www.lemonde.fr/en/football/article/2022/11/09/world-cup-2022-the-time-has-come-for-french-coach-deschamps-to-reveal-his-team_6003460_130.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 02:00:12+00:00
- - tags: None
 
 The list of players selected for the World Cup in Qatar will be unveiled on Wednesday evening on French television. From using Olivier Giroud to the doubts around Raphael Varane, a number of uncertainties still remain.
 
@@ -444,7 +389,6 @@ The list of players selected for the World Cup in Qatar will be unveiled on Wedn
  - [https://www.lemonde.fr/en/international/article/2022/11/09/midterm-election-results-governors_6003458_4.html](https://www.lemonde.fr/en/international/article/2022/11/09/midterm-election-results-governors_6003458_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 01:35:12+00:00
- - tags: None
 
 Thirty-six states are electing governors, with many of those races also poised to come down to the slimmest of margins.
 
@@ -452,7 +396,6 @@ Thirty-six states are electing governors, with many of those races also poised t
  - [https://www.lemonde.fr/en/international/article/2022/11/09/midterm-election-results-florida-s-republican-governor-ron-desantis-reelected_6003455_4.html](https://www.lemonde.fr/en/international/article/2022/11/09/midterm-election-results-florida-s-republican-governor-ron-desantis-reelected_6003455_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 01:23:12+00:00
- - tags: None
 
 The victory over Democrat Charlie Crist is bolstering his rise as a prominent GOP star with potential White House ambitions.
 
@@ -460,7 +403,6 @@ The victory over Democrat Charlie Crist is bolstering his rise as a prominent GO
  - [https://www.lemonde.fr/en/united-states/article/2022/11/09/midterm-election-results-senate-races_6003454_133.html](https://www.lemonde.fr/en/united-states/article/2022/11/09/midterm-election-results-senate-races_6003454_133.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 01:21:11+00:00
- - tags: None
 
 The 2022 midterm election is underway and Le Monde has results for key Senate races across the country.
 
@@ -468,6 +410,5 @@ The 2022 midterm election is underway and Le Monde has results for key Senate ra
  - [https://www.lemonde.fr/en/les-decodeurs/article/2022/11/09/2022-midterm-election-results-in-maps_6003452_8.html](https://www.lemonde.fr/en/les-decodeurs/article/2022/11/09/2022-midterm-election-results-in-maps_6003452_8.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-09 00:36:55+00:00
- - tags: None
 
 US voters were called to the polls to elect the House of Representatives and one-third of the Senate. Here are the results in both chambers.

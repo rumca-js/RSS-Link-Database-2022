@@ -1,10 +1,9 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml
+# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
 
 ## BREAKING: Biden Breaks Promise To Hold MBS Accountable For Killing Journalist, Shields Him From Lawsuit
  - [https://www.dailywire.com/news/breaking-biden-breaks-promise-to-hold-mbs-accountable-for-killing-journalist-shields-him-from-lawsuit](https://www.dailywire.com/news/breaking-biden-breaks-promise-to-hold-mbs-accountable-for-killing-journalist-shields-him-from-lawsuit)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 22:38:56+00:00
- - tags: None
 
 President Joe Biden&#8217;s administration moved to shield Saudi Arabia’s Crown Prince Mohammed bin Salman from a lawsuit on Thursday over his involvement in the murder of Washington Post columnist Jamal Khashoggi. The Biden administration said that MBS’ status holding a high office &#8220;allows immunity&#8221; in response to a lawsuit filed by Khashoggi&#8217;s fiancée and by ...
 
@@ -12,7 +11,6 @@ President Joe Biden&#8217;s administration moved to shield Saudi Arabia’s Crow
  - [https://www.dailywire.com/news/new-2024-florida-republican-presidential-primary-poll-between-trump-and-desantis-shows-a-total-blowout](https://www.dailywire.com/news/new-2024-florida-republican-presidential-primary-poll-between-trump-and-desantis-shows-a-total-blowout)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 22:15:42+00:00
- - tags: None
 
 A new poll surveying Florida residents has found that Florida Governor Ron DeSantis would trounce former President Donald Trump in a 2024 Republican Party presidential primary. The poll, conducted late last week by Sachs Media, found that DeSantis beats Trump by a whopping 45 points, 66% to 21%. The poll from Sachs Media, whose polls correctly showed ...
 
@@ -20,7 +18,6 @@ A new poll surveying Florida residents has found that Florida Governor Ron DeSan
  - [https://www.dailywire.com/news/lee-zeldin-very-seriously-considering-campaign-to-oust-ronna-mcdaniel-as-rnc-chair](https://www.dailywire.com/news/lee-zeldin-very-seriously-considering-campaign-to-oust-ronna-mcdaniel-as-rnc-chair)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 21:33:25+00:00
- - tags: None
 
 Rep. Lee Zeldin (R-NY) said Thursday he would &#8220;very seriously consider&#8221; running for Republican National Committee chair, challenging Ronna McDaniel in her bid for reelection. Zeldin, 42, who is coming off the heels of a defeat in the Empire State&#8217;s governor race last week, told Politico in an email that he has received requests both inside ...
 
@@ -28,7 +25,6 @@ Rep. Lee Zeldin (R-NY) said Thursday he would &#8220;very seriously consider&#8
  - [https://www.dailywire.com/news/indefensible-fbi-director-wray-grilled-for-leaving-oversight-hearing-early-for-vacation](https://www.dailywire.com/news/indefensible-fbi-director-wray-grilled-for-leaving-oversight-hearing-early-for-vacation)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 21:16:02+00:00
- - tags: None
 
 FBI Director Christopher Wray admitted Thursday that he left early a Senate oversight hearing in August to go on vacation. Wray appeared in front of the Senate Homeland Security and Governmental Affairs committee on Thursday alongside Homeland Security Secretary Alejandro Mayorkas and National Counterterrorism Center Director Christine Abizaid. The trio was brought before the committee ...
 
@@ -36,7 +32,6 @@ FBI Director Christopher Wray admitted Thursday that he left early a Senate over
  - [https://www.dailywire.com/news/the-purge-continues-hundreds-of-twitter-employees-resign-over-musks-extremely-hardcore-ultimatum-report-says](https://www.dailywire.com/news/the-purge-continues-hundreds-of-twitter-employees-resign-over-musks-extremely-hardcore-ultimatum-report-says)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 21:01:39+00:00
- - tags: None
 
 Hundreds of employees at Twitter have reportedly decided to resign from the company after CEO Elon Musk demanded that in order to stay at the company they would need to commit to “extremely hardcore&#8221; working conditions. The New York Times reported that the company was in disarray Thursday afternoon as the deadline approached as &#8220;hundreds ...
 
@@ -44,7 +39,6 @@ Hundreds of employees at Twitter have reportedly decided to resign from the comp
  - [https://www.dailywire.com/news/detransitioner-announces-lawsuit-against-oregon-gender-clinics-for-expediting-surgery](https://www.dailywire.com/news/detransitioner-announces-lawsuit-against-oregon-gender-clinics-for-expediting-surgery)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 20:20:54+00:00
- - tags: None
 
 A detransitioner is suing a social worker, therapist, and their respective clinics in Oregon for overlooking her mental health challenges and fast-tracking her &#8220;non-binary&#8221; double mastectomy surgery. Camille Kiefel, 32, represented by Jackson Bone LLP, announced a lawsuit last week against the health professionals who approved the surgery to have her breasts removed after only ...
 
@@ -52,7 +46,6 @@ A detransitioner is suing a social worker, therapist, and their respective clini
  - [https://www.dailywire.com/news/sitting-congresswoman-claims-that-reparations-could-have-slowed-the-spread-of-covid](https://www.dailywire.com/news/sitting-congresswoman-claims-that-reparations-could-have-slowed-the-spread-of-covid)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 19:56:16+00:00
- - tags: None
 
 Congresswoman Sheila Jackson Lee (D-TX) claimed that if reparations for slavery had been implemented, that might have helped to contain the spread of COVID during the recent global pandemic. Jackson Lee took to the House floor on Thursday to rally support for H.R. 40, a bill that would establish a congressional commission to study the ...
 
@@ -60,7 +53,6 @@ Congresswoman Sheila Jackson Lee (D-TX) claimed that if reparations for slavery 
  - [https://www.dailywire.com/news/the-death-of-marriage-is-killing-america](https://www.dailywire.com/news/the-death-of-marriage-is-killing-america)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 18:59:08+00:00
- - tags: None
 
 In the immediate aftermath of the 2022 midterm elections — a shocking overperformance by Democratic candidates given the fact that Republicans won the national popular vote by upwards of 4.5 percent — President Joe Biden celebrated with his followers. One group in particular, he said, ought to receive credit for the Democratic victory: women. “As ...
 
@@ -68,7 +60,6 @@ In the immediate aftermath of the 2022 midterm elections — a shocking overperf
  - [https://www.dailywire.com/news/jay-leno-reveals-treatments-hes-undergoing-after-suffering-significant-burns-in-car-fire](https://www.dailywire.com/news/jay-leno-reveals-treatments-hes-undergoing-after-suffering-significant-burns-in-car-fire)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 18:45:59+00:00
- - tags: None
 
 Jay Leno let camera crews in to see what kind of treatment he was undergoing after suffering &#8220;significant burns&#8221; when one of the cars he&#8217;s collected, a 1907 White Steam Car, caught fire in his garage earlier this week while he was working on it. The 72-year-old comedian appeared in an interview for &#8220;Inside Edition&#8221; on ...
 
@@ -76,7 +67,6 @@ Jay Leno let camera crews in to see what kind of treatment he was undergoing aft
  - [https://www.dailywire.com/news/spacex-employees-fired-for-writing-letter-blasting-elon-musks-behavior-and-values-take-their-case-to-the-feds](https://www.dailywire.com/news/spacex-employees-fired-for-writing-letter-blasting-elon-musks-behavior-and-values-take-their-case-to-the-feds)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 18:45:28+00:00
- - tags: None
 
 SpaceX employees who were fired after writing a letter publicly criticizing CEO Elon Musk for his “behavior” and “values” are taking their case to the federal government. The individuals, who encouraged the rocket company to “swiftly and explicitly separate itself from Elon’s personal brand” over the summer, filed unfair labor practices charges with the National ...
 
@@ -84,7 +74,6 @@ SpaceX employees who were fired after writing a letter publicly criticizing CEO 
  - [https://www.dailywire.com/news/cnn-chief-chafes-over-gutfeld-balks-when-journalist-points-out-he-beat-colbert](https://www.dailywire.com/news/cnn-chief-chafes-over-gutfeld-balks-when-journalist-points-out-he-beat-colbert)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 18:39:29+00:00
- - tags: None
 
 CNN President Chris Licht dismissed the news that Fox News host Greg Gutfeld was winning the ratings war against traditional late-night comedy hosts like his own former boss, Stephen Colbert. During a Thursday appearance on journalist Kara Swisher&#8217;s podcast — On With Kara Swisher — Licht argued that Gutfeld&#8217;s late-night comedic offering &#8220;Gutfeld!&#8221; could not ...
 
@@ -92,7 +81,6 @@ CNN President Chris Licht dismissed the news that Fox News host Greg Gutfeld was
  - [https://www.dailywire.com/news/three-convicted-in-downing-of-2014-malaysia-airlines-flight](https://www.dailywire.com/news/three-convicted-in-downing-of-2014-malaysia-airlines-flight)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 18:39:24+00:00
- - tags: None
 
 On Thursday, a Dutch court convicted three individuals of murder for their participation in downing a Malaysia Airlines flight eight years ago, killing 298 people. The Malaysia Airlines flight was shot down by a Russian missile while it was in air space over a portion of eastern Ukraine controlled by separatists in 2014. The plane ...
 
@@ -100,7 +88,6 @@ On Thursday, a Dutch court convicted three individuals of murder for their parti
  - [https://www.dailywire.com/news/social-media-platforms-have-no-plans-to-lift-bans-on-trumps-accounts-despite-third-white-house-bid](https://www.dailywire.com/news/social-media-platforms-have-no-plans-to-lift-bans-on-trumps-accounts-despite-third-white-house-bid)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 18:38:04+00:00
- - tags: None
 
 Facebook officials said Wednesday that the social media platform has no plans to reinstate the account of former President Donald Trump, despite announcing his bid earlier this week for a second term in the White House in 2024. Officials suspended Trump initially for only 24-hours after rioters hijacked the former president&#8217;s rally at the U.S. ...
 
@@ -108,7 +95,6 @@ Facebook officials said Wednesday that the social media platform has no plans to
  - [https://www.dailywire.com/news/desantis-has-strong-lead-over-trump-in-new-2024-primary-poll-beats-biden-in-popular-vote](https://www.dailywire.com/news/desantis-has-strong-lead-over-trump-in-new-2024-primary-poll-beats-biden-in-popular-vote)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 18:37:30+00:00
- - tags: None
 
 Florida Governor Ron DeSantis has a seven point lead over former President Donald Trump in who Republican voters want to see as the party&#8217;s 2024 presidential nominee, according to a new poll released this week. The Economist/YouGov poll found that Republican voters want DeSantis over Trump, 46% to 39%, and Independent voters also want DeSantis over ...
 
@@ -116,7 +102,6 @@ Florida Governor Ron DeSantis has a seven point lead over former President Dona
  - [https://www.dailywire.com/news/dailywire-tops-1-million-subscribers-announces-key-updates-on-coming-content](https://www.dailywire.com/news/dailywire-tops-1-million-subscribers-announces-key-updates-on-coming-content)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 18:26:16+00:00
- - tags: None
 
 Wrapping up a year full of blockbuster content — including the internationally-acclaimed documentary, “What is a Woman?” — Daily Wire co-CEO Jeremy Boreing announced in a livestreamed town hall address Thursday that the company has surpassed one million paid subscribers to its streaming platform, DailyWire+. Additionally, the company revealed that its razor subscription business, Jeremy’s ...
 
@@ -124,7 +109,6 @@ Wrapping up a year full of blockbuster content — including the internationally
  - [https://www.dailywire.com/news/dailywire-secures-exclusive-film-tv-rights-to-classic-novel-atlas-shrugged](https://www.dailywire.com/news/dailywire-secures-exclusive-film-tv-rights-to-classic-novel-atlas-shrugged)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 18:25:25+00:00
- - tags: None
 
 DailyWire+ has acquired exclusive film and television rights to Ayn Rand&#8217;s &#8220;Atlas Shrugged,&#8221; and will develop a series based on the groundbreaking 1957 novel, company co-CEO Jeremy Boreing announced Thursday. Plans for the series follow a year of blockbuster content, including the internationally-acclaimed documentary, “What is a Woman?” and the gritty western starring Gina Carano, ...
 
@@ -132,7 +116,6 @@ DailyWire+ has acquired exclusive film and television rights to Ayn Rand&#8217;s
  - [https://www.dailywire.com/news/lindsay-lohan-reacts-to-news-that-her-return-to-acting-in-christmas-film-hits-number-1-on-netflix](https://www.dailywire.com/news/lindsay-lohan-reacts-to-news-that-her-return-to-acting-in-christmas-film-hits-number-1-on-netflix)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 17:05:09+00:00
- - tags: None
 
 Lindsay Lohan reacted to the news that her return to acting in her new film &#8220;Falling for Christmas&#8221; hit number one on Netflix, as she thanked fans for all their support over the years. The 36-year-old actress had only kind words on Thursday for her fans in a post she shared on Instagram talking about how ...
 
@@ -140,7 +123,6 @@ Lindsay Lohan reacted to the news that her return to acting in her new film &#82
  - [https://www.dailywire.com/news/racism-against-white-people-is-alive-and-well](https://www.dailywire.com/news/racism-against-white-people-is-alive-and-well)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 16:53:30+00:00
- - tags: None
 
 Today’s opening to the column is going to be a little different. Instead of a question, let’s play a game. Imagine you are a sign language interpreter and working on the hit Broadway musical “The Lion King.&#8221; Then, suddenly, you&#8217;re fired. You say, “Why am I fired? What did I do wrong?” And they tell ...
 
@@ -148,7 +130,6 @@ Today’s opening to the column is going to be a little different. Instead of a 
  - [https://www.dailywire.com/news/philadelphia-district-attorney-larry-krasner-impeached-he-blames-racism](https://www.dailywire.com/news/philadelphia-district-attorney-larry-krasner-impeached-he-blames-racism)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 16:38:21+00:00
- - tags: None
 
 The Pennsylvania House of Representatives voted on Wednesday to impeach controversial Philadelphia District Attorney Larry Krasner (D-PA). Five lawmakers, including three Republicans and two Democrats with constituencies in Philadelphia, formed a committee to investigate Krasner earlier this year. Members of the lower chamber voted by a margin of 107 to 85 in favor of impeaching ...
 
@@ -156,7 +137,6 @@ The Pennsylvania House of Representatives voted on Wednesday to impeach controve
  - [https://www.dailywire.com/news/archeologists-discover-hundreds-of-mummies-tunnels-and-pyramid-of-unknown-queen-near-king-tuts-tomb](https://www.dailywire.com/news/archeologists-discover-hundreds-of-mummies-tunnels-and-pyramid-of-unknown-queen-near-king-tuts-tomb)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 16:27:51+00:00
- - tags: None
 
 Archeologists have discovered hundreds of mummies, interconnected tunnels, and even the pyramid of a previously unknown queen near the tomb of King Tutankhamun, which was unearthed 100 years ago.  The historical finds were discovered at an archeological site called Saqqara in Giza, just south of Egypt’s capital of Cairo, by a team that had been ...
 
@@ -164,7 +144,6 @@ Archeologists have discovered hundreds of mummies, interconnected tunnels, and e
  - [https://www.dailywire.com/news/scary-for-37-senate-democrats-covid-will-never-end](https://www.dailywire.com/news/scary-for-37-senate-democrats-covid-will-never-end)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 16:24:50+00:00
- - tags: None
 
 The U.S. Senate this week passed a resolution to terminate the national emergency declared in 2020 in response to the COVID pandemic, but 37 Democrats voted against it. Sen. Roger Marshall (R-KS) had proposed the bill for a second time in September, shortly after President Joe Biden told CBS News in an interview that the ...
 
@@ -172,7 +151,6 @@ The U.S. Senate this week passed a resolution to terminate the national emergenc
  - [https://www.dailywire.com/news/hogans-heroes-star-and-holocaust-survivor-robert-clary-dead-at-96](https://www.dailywire.com/news/hogans-heroes-star-and-holocaust-survivor-robert-clary-dead-at-96)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 16:19:24+00:00
- - tags: None
 
 &#8220;Hogans Heroes&#8221; star and Holocaust survivor Robert Clary died on Wednesday night at his home in Beverly Hills. He died of natural causes at the age of 96, his niece Brenda Hancock confirmed. Hancock shared Thursday with the Associated Press that the survivor &#8220;never let those horrors defeat him. He never let them take the joy ...
 
@@ -180,7 +158,6 @@ The U.S. Senate this week passed a resolution to terminate the national emergenc
  - [https://www.dailywire.com/news/federal-judge-suspends-stop-woke-act-in-florida](https://www.dailywire.com/news/federal-judge-suspends-stop-woke-act-in-florida)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 16:18:48+00:00
- - tags: None
 
 A federal judge on Thursday temporarily halted enforcement of a law known as the &#8220;Stop WOKE Act&#8221; at Florida universities. Chief U.S. District Judge Mark Walker issued a preliminary injunction against the &#8220;Stop Wrongs to Our Kids and Employees (W.O.K.E.) Act,&#8221; officially dubbed the Individual Freedom Act. The judge&#8217;s move means that the law cannot be enforced on college campuses ...
 
@@ -188,7 +165,6 @@ A federal judge on Thursday temporarily halted enforcement of a law known as the
  - [https://www.dailywire.com/news/princeton-considering-removing-statue-of-its-former-president-and-influential-founding-father](https://www.dailywire.com/news/princeton-considering-removing-statue-of-its-former-president-and-influential-founding-father)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 16:16:57+00:00
- - tags: None
 
 Princeton University has formed a committee to determine the fate of an on-campus statue of influential Founding Father John Witherspoon, who also served as the sixth president of the school. After complaints from students about Witherspoon, who was a signer of the Declaration of Independence and a mentor to James Madison, the university announced that ...
 
@@ -196,7 +172,6 @@ Princeton University has formed a committee to determine the fate of an on-campu
  - [https://www.dailywire.com/news/california-faces-25-billion-deficit-after-years-of-surplus](https://www.dailywire.com/news/california-faces-25-billion-deficit-after-years-of-surplus)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 16:06:03+00:00
- - tags: None
 
 California is projected to have a deficit after holding onto a budget surplus for the past several years. The state is expected to have a $25 billion deficit in the next fiscal year, according to the state legislature’s nonpartisan fiscal experts. The Legislative Analyst’s Office released its report on Wednesday, emphasizing the upcoming $25 billion ...
 
@@ -204,7 +179,6 @@ California is projected to have a deficit after holding onto a budget surplus fo
  - [https://www.dailywire.com/news/chris-hemsworth-confronts-mortality-after-discovering-genetic-predisposition-for-alzheimers-disease](https://www.dailywire.com/news/chris-hemsworth-confronts-mortality-after-discovering-genetic-predisposition-for-alzheimers-disease)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 16:05:59+00:00
- - tags: None
 
 Actor Chris Hemsworth is thinking about his own mortality after receiving news that he’s genetically predisposed to eventually developing Alzheimer’s, a condition which also affected his grandfather. The 39-year-old “Limitless” star made the comments during a recent interview with Vanity Fair. “Most of us, we like to avoid speaking about death,” Hemsworth told the publication. ...
 
@@ -212,7 +186,6 @@ Actor Chris Hemsworth is thinking about his own mortality after receiving news t
  - [https://www.dailywire.com/news/adam-kinzinger-suggests-he-risked-his-seat-to-save-democracy-democrat-gerrymandering-erased-his-district](https://www.dailywire.com/news/adam-kinzinger-suggests-he-risked-his-seat-to-save-democracy-democrat-gerrymandering-erased-his-district)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 16:04:57+00:00
- - tags: None
 
 Congressman Adam Kinzinger (R-IL) appeared to claim in a Wednesday interview that he had risked — and ultimately gave up — his political career because he stood up and fought against former President Donald Trump. Kinzinger, who announced over the summer that he would not seek re-election in last Tuesday&#8217;s midterms, invoked his time in ...
 
@@ -220,7 +193,6 @@ Congressman Adam Kinzinger (R-IL) appeared to claim in a Wednesday interview tha
  - [https://www.dailywire.com/news/candace-cameron-bure-vs-lgbtq-hollywood-the-battle-for-sanity-prevails](https://www.dailywire.com/news/candace-cameron-bure-vs-lgbtq-hollywood-the-battle-for-sanity-prevails)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 15:29:25+00:00
- - tags: None
 
 There’s no denying that Candace Cameron Bure has become a key figure in opposition to the LGBTQ agenda in Hollywood whether she likes it or not. Examining Bure’s original comments that set off a firestorm reveals nothing homophobic, hateful, rude, or close-minded. In fact, the 46-year-old “Full House” alum and the head of Great American ...
 
@@ -228,7 +200,6 @@ There’s no denying that Candace Cameron Bure has become a key figure in opposi
  - [https://www.dailywire.com/news/ftx-executives-reportedly-bought-themselves-real-estate-in-the-bahamas-with-corporate-funds](https://www.dailywire.com/news/ftx-executives-reportedly-bought-themselves-real-estate-in-the-bahamas-with-corporate-funds)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 15:02:31+00:00
- - tags: None
 
 John Ray III, the lawyer who is overseeing the bankruptcy proceedings of defunct cryptocurrency platform FTX, said that executives at the company formerly led by disgraced billionaire Sam Bankman-Fried purchased real estate for themselves using corporate funds with little formal oversight. According to a court filing submitted by the seasoned attorney, who previously represented plaintiffs ...
 
@@ -236,7 +207,6 @@ John Ray III, the lawyer who is overseeing the bankruptcy proceedings of defunct
  - [https://www.dailywire.com/news/kari-lake-exploring-every-avenue-for-legal-challenges-over-arizona-election](https://www.dailywire.com/news/kari-lake-exploring-every-avenue-for-legal-challenges-over-arizona-election)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 15:01:57+00:00
- - tags: None
 
 Republican Kari Lake is planning legal challenges to the Arizona election after her projected loss to Democrat candidate and Secretary of State Katie Hobbs. Multiple outlets called the Arizona gubernatorial race for Hobbs on Monday after nearly a week of counting ballots showed her with what is projected to be an insurmountable lead over Lake. ...
 
@@ -244,7 +214,6 @@ Republican Kari Lake is planning legal challenges to the Arizona election after 
  - [https://www.dailywire.com/news/trumps-2024-launch-could-not-be-going-worse](https://www.dailywire.com/news/trumps-2024-launch-could-not-be-going-worse)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 14:42:04+00:00
- - tags: None
 
 On Election Day 2022, Donald Trump couldn&#8217;t stand that the news of the day was going to be about &#8230; not him. So as Republicans prepared a last day of campaigning in hopes of winning control of the House and Senate, Trump announced that he&#8217;d be making a &#8220;special announcement&#8221; in exactly one week. But ...
 
@@ -252,7 +221,6 @@ On Election Day 2022, Donald Trump couldn&#8217;t stand that the news of the day
  - [https://www.dailywire.com/news/make-dj-gay-again-country-star-takes-time-out-from-feud-with-brittany-aldean-to-attack-candace-cameron-bure](https://www.dailywire.com/news/make-dj-gay-again-country-star-takes-time-out-from-feud-with-brittany-aldean-to-attack-candace-cameron-bure)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 14:35:49+00:00
- - tags: None
 
 Country music star Maren Morris joined the pile-on of woke celebrities attacking actress Candace Cameron Bure for saying that she planned to keep making movies that reflected her Christian faith and kept traditional marriage at the forefront. Morris recently squared off with fellow country musician Jason Aldean&#8217;s wife Brittany — calling her a &#8220;scumbag human&#8221; ...
 
@@ -260,7 +228,6 @@ Country music star Maren Morris joined the pile-on of woke celebrities attacking
  - [https://www.dailywire.com/news/target-says-organized-retail-theft-contributed-to-400-million-loss](https://www.dailywire.com/news/target-says-organized-retail-theft-contributed-to-400-million-loss)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 14:28:00+00:00
- - tags: None
 
 Target executives revealed on Wednesday that organized retail theft contributed to a $400 million decrease in gross margins. The nationwide retailer revealed that profits fell 50% in the third fiscal quarter as sales diminished ahead of the holiday season. Target announced earnings per share of $1.54, missing analyst expectations of $2.13, according to the company’s ...
 
@@ -268,7 +235,6 @@ Target executives revealed on Wednesday that organized retail theft contributed 
  - [https://www.dailywire.com/news/idaho-police-reverse-course-now-cannot-say-that-there-is-no-threat-to-the-community-in-case-of-four-murdered-students](https://www.dailywire.com/news/idaho-police-reverse-course-now-cannot-say-that-there-is-no-threat-to-the-community-in-case-of-four-murdered-students)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 14:25:58+00:00
- - tags: None
 
 Police in Moscow, Idaho, are now saying they can’t ensure the community is safe after four University of Idaho students were found dead on Sunday from an apparent homicide. During a press conference on Wednesday, Moscow Police Chief James Fry reversed course from what police had been saying all week, acknowledging that there may be ...
 
@@ -276,7 +242,6 @@ Police in Moscow, Idaho, are now saying they can’t ensure the community is saf
  - [https://www.dailywire.com/news/shootout-with-narcos-leaves-one-u-s-border-agent-dead-at-least-two-others-injured](https://www.dailywire.com/news/shootout-with-narcos-leaves-one-u-s-border-agent-dead-at-least-two-others-injured)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 14:14:10+00:00
- - tags: None
 
 Drug smugglers off the coast of Puerto Rico shot and killed a U.S. border agent and injured at least two others Thursday morning. The Washington Examiner reports three Customs and Border Protection&#8217;s Air and Marine Operations agents were involved in a shootout with narcos on board a suspected smuggling vessel upon approach near the coast ...
 
@@ -284,7 +249,6 @@ Drug smugglers off the coast of Puerto Rico shot and killed a U.S. border agent 
  - [https://www.dailywire.com/news/this-is-an-investigation-of-joe-biden-house-gop-leaders-vow-corruption-probe](https://www.dailywire.com/news/this-is-an-investigation-of-joe-biden-house-gop-leaders-vow-corruption-probe)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 13:56:58+00:00
- - tags: None
 
 Two Republican lawmakers poised to take over key House committees in the new year vowed Thursday to investigate President Joe Biden&#8216;s potential involvement in the shady business schemes exposed on his son&#8217;s abandoned laptop. Rep. James Comer, (R-KY), the incoming head of the House Oversight Committee, and Rep. Jim Jordan, (R-OH), who will chair the ...
 
@@ -292,7 +256,6 @@ Two Republican lawmakers poised to take over key House committees in the new yea
  - [https://www.dailywire.com/news/shameless-media-just-cant-quit-love-affair-with-crypto-creep-sbf](https://www.dailywire.com/news/shameless-media-just-cant-quit-love-affair-with-crypto-creep-sbf)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 13:47:04+00:00
- - tags: None
 
 Don’t expect the Left-wing press to admit it got snookered by a shibboleth-spewing schlub. Sam Bankman-Fried, who is accused of pulling off a Madoff-level investment scam, somehow still has the media in his otherwise empty pockets. Even his own shocking admission that his &#8220;woke&#8221; persona was as big a fraud as his cryptocurrency exchange may ...
 
@@ -300,7 +263,6 @@ Don’t expect the Left-wing press to admit it got snookered by a shibboleth-spe
  - [https://www.dailywire.com/news/bishop-who-denied-pelosi-communion-said-biden-brings-about-pain-and-death-elected-leader-of-pro-life-committee](https://www.dailywire.com/news/bishop-who-denied-pelosi-communion-said-biden-brings-about-pain-and-death-elected-leader-of-pro-life-committee)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 13:38:40+00:00
- - tags: None
 
 The Catholic bishops of America chose their new leader of their pro-life committee on Wednesday, and not only was he the first U.S. bishop to publish a catechetical letter discouraging gender “transitioning” and using gendered pronouns that had nothing to do with biological sex, he also issued a ban on House Speaker Nancy Pelosi receiving Communion in ...
 
@@ -308,7 +270,6 @@ The Catholic bishops of America chose their new leader of their pro-life committ
  - [https://www.dailywire.com/news/john-leguizamo-and-two-latina-women-complain-that-hispanics-who-vote-gop-arent-savvy](https://www.dailywire.com/news/john-leguizamo-and-two-latina-women-complain-that-hispanics-who-vote-gop-arent-savvy)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 12:56:26+00:00
- - tags: None
 
 Actor John Leguizamo joined the two Latina co-hosts of ABC&#8217;s &#8220;The View&#8221; — Sunny Hostin and Ana Navarro — to discuss why they believed Republicans were doing so well at earning the Hispanic vote in recent elections. Leguizamo, whose family is Colombian, joined Wednesday&#8217;s broadcast of the midday talk show, where he joined Hostin and ...
 
@@ -316,7 +277,6 @@ Actor John Leguizamo joined the two Latina co-hosts of ABC&#8217;s &#8220;The Vi
  - [https://www.dailywire.com/news/breaking-nancy-pelosi-will-not-seek-job-as-top-house-democrat](https://www.dailywire.com/news/breaking-nancy-pelosi-will-not-seek-job-as-top-house-democrat)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 12:34:26+00:00
- - tags: None
 
 Speaker Nancy Pelosi (D-CA), 82, announced Thursday that she will not seek re-election as the top Democrat in the House but will remain in Congress. Pelosi, who emerged as a Democratic leader during the George W. Bush administration, made the announcement from the House floor in a speech that touched on democracy, diversity, and elections ...
 
@@ -324,7 +284,6 @@ Speaker Nancy Pelosi (D-CA), 82, announced Thursday that she will not seek re-el
  - [https://www.dailywire.com/news/prosecutors-recommend-10-to-22-years-in-prison-for-reality-stars-todd-and-julie-chrisley](https://www.dailywire.com/news/prosecutors-recommend-10-to-22-years-in-prison-for-reality-stars-todd-and-julie-chrisley)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 12:17:41+00:00
- - tags: None
 
 Prosecutors in Atlanta, Georgia, are recommending reality stars Todd and Julie Chrisley spend 10 to 22 years in federal prison for financial crimes. Todd has been recommended to serve 17 to 22 years in prison after he was convicted of conspiracy to commit bank fraud, bank fraud, tax fraud, and conspiracy to defraud the United ...
 
@@ -332,7 +291,6 @@ Prosecutors in Atlanta, Georgia, are recommending reality stars Todd and Julie C
  - [https://www.dailywire.com/news/amphetamine-fueled-polycule-or-undersexed-group-of-nerds-inside-ftxs-bahamas-culture](https://www.dailywire.com/news/amphetamine-fueled-polycule-or-undersexed-group-of-nerds-inside-ftxs-bahamas-culture)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 11:51:54+00:00
- - tags: None
 
 As some reports claimed that executives at defunct cryptocurrency platform FTX engaged in rampant drug use and boasted a network of intertwined romantic relationships, a psychologist who worked closely with company leadership denied such allegations. The venture filed for bankruptcy last week after users discovered that companies controlled by former FTX CEO Sam Bankman-Fried and ...
 
@@ -340,7 +298,6 @@ As some reports claimed that executives at defunct cryptocurrency platform FTX e
  - [https://www.dailywire.com/news/its-about-self-love-actress-tia-mowry-reveals-why-she-chose-to-divorce-husband-of-14-years](https://www.dailywire.com/news/its-about-self-love-actress-tia-mowry-reveals-why-she-chose-to-divorce-husband-of-14-years)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 10:58:10+00:00
- - tags: None
 
 “Sister Sister” alum Tia Mowry recently filed for divorce from her husband of 14 years, and now she’s opening up about the moment that led to her decision. The 44-year-old actress made the revelation during an appearance on The Today Show. Mowry shares two children with Cory Hardrict but said her “awakening” which led to ...
 
@@ -348,7 +305,6 @@ As some reports claimed that executives at defunct cryptocurrency platform FTX e
  - [https://www.dailywire.com/news/crippling-buffalo-expects-up-to-4-feet-of-snow-state-of-emergency-declared](https://www.dailywire.com/news/crippling-buffalo-expects-up-to-4-feet-of-snow-state-of-emergency-declared)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 10:47:58+00:00
- - tags: None
 
 Buffalo and parts of Western New York are bracing for up to four feet of snow this week. New York Democratic Governor Kathy Hochul declared a state of emergency Wednesday afternoon, announcing that the New York State Thruway would be closed to commercial traffic as of Thursday afternoon from Rochester to the Pennsylvania state line. ...
 
@@ -356,7 +312,6 @@ Buffalo and parts of Western New York are bracing for up to four feet of snow th
  - [https://www.dailywire.com/news/lawyer-overseeing-ftx-fallout-never-in-my-career-have-i-seen-such-a-complete-failure](https://www.dailywire.com/news/lawyer-overseeing-ftx-fallout-never-in-my-career-have-i-seen-such-a-complete-failure)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 10:43:40+00:00
- - tags: None
 
 John Ray III, the lawyer who represented plaintiffs after the collapse of Enron and is now overseeing the bankruptcy proceedings of defunct cryptocurrency exchange FTX, revealed that the company led by Sam Bankman-Fried is the worst failure he has seen in his career. The seasoned attorney, who was appointed chief executive of FTX to manage ...
 
@@ -364,7 +319,6 @@ John Ray III, the lawyer who represented plaintiffs after the collapse of Enron 
  - [https://www.dailywire.com/news/critics-mad-about-tim-allens-right-wing-santa-in-the-santa-clauses-miniseries-on-disney](https://www.dailywire.com/news/critics-mad-about-tim-allens-right-wing-santa-in-the-santa-clauses-miniseries-on-disney)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 10:04:48+00:00
- - tags: None
 
 Fans love that Tim Allen is reprising his role as Santa for the Disney+ miniseries, “The Santa Clauses,” but some critics are complaining he’s too much of a “right-wing Santa.” The 69-year-old actor is one of the few openly conservative people in Hollywood. This makes it no surprise that critics zeroed in on a single ...
 
@@ -372,7 +326,6 @@ Fans love that Tim Allen is reprising his role as Santa for the Disney+ miniseri
  - [https://www.dailywire.com/news/nancy-pelosi-to-announce-her-future-plans-after-republicans-clinch-house-majority](https://www.dailywire.com/news/nancy-pelosi-to-announce-her-future-plans-after-republicans-clinch-house-majority)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 10:01:12+00:00
- - tags: None
 
 A spokesperson for House Speaker Nancy Pelosi announced that she would &#8220;address her future plans&#8221; on Thursday after Republicans are projected to win a slim majority in the House of Representatives. &#8220;@SpeakerPelosi has been overwhelmed by calls from colleagues, friends and supporters. This evening, the Speaker monitored returns in the three remaining critical states. The ...
 
@@ -380,7 +333,6 @@ A spokesperson for House Speaker Nancy Pelosi announced that she would &#8220;ad
  - [https://www.dailywire.com/news/baby-on-board-texas-bill-would-make-unborn-child-second-person-in-hov-lanes](https://www.dailywire.com/news/baby-on-board-texas-bill-would-make-unborn-child-second-person-in-hov-lanes)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 09:47:13+00:00
- - tags: None
 
 A new bill introduced in the Texas state legislature would legally include a child in the womb as a second person in high occupancy vehicle (HOV) lanes. State Rep. Briscoe Cain (R) introduced House Bill 521, which entitles a pregnant driver to use any HOV lane in the state, for the 2023 session this week. ...
 
@@ -388,6 +340,5 @@ A new bill introduced in the Texas state legislature would legally include a chi
  - [https://www.dailywire.com/news/an-army-of-woke-preachers-praised-stacey-abrams-as-modern-day-deborah-john-the-baptist-ahead-of-second-failed-gubernatorial-bid](https://www.dailywire.com/news/an-army-of-woke-preachers-praised-stacey-abrams-as-modern-day-deborah-john-the-baptist-ahead-of-second-failed-gubernatorial-bid)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-17 08:14:11+00:00
- - tags: None
 
 Georgia Democratic gubernatorial candidate Stacey Abrams welcomed support from multiple progressive preachers ahead of her second unsuccessful bid against incumbent Republican Brian Kemp. After narrowly defeating Abrams four years ago, Kemp was re-elected by a nearly 8-point margin, significantly outperforming his rival even as other swing-state Republicans across the country experienced lackluster results. As chronicled ...

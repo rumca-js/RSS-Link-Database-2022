@@ -1,10 +1,9 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
+# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
 
 ## Weirdest Senses Animals Have That You Don't
  - [https://www.youtube.com/watch?v=Iyfn4pkezfY](https://www.youtube.com/watch?v=Iyfn4pkezfY)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
  - date published: 2022-11-07 13:54:46+00:00
- - tags: None
 
 Go to https://nordvpn.com/joescott to get a 2-year plan plus 1 additional month with a HUGE discount. It’s risk-free with Nord’s 30-day money-back guarantee!
 Animals have senses that give them an entirely different experience of this world. Some of them are basically superpowers. Here's some of the weirdest ones that are almost impossible to imagine.

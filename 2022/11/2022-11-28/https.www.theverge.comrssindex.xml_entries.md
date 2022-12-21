@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## A crypto exchange agrees to pay $360,000 for possibly violating Iran sanctions
  - [https://www.theverge.com/2022/11/28/23482884/crypto-exchange-kraken-fined-sanctions-violation-iran](https://www.theverge.com/2022/11/28/23482884/crypto-exchange-kraken-fined-sanctions-violation-iran)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-28 23:09:48+00:00
- - tags: None
 
 <figure>
       <img alt="Gold coins on a red background." src="https://cdn.vox-cdn.com/thumbor/IogPdPGmJo5IoO8vILUu_z1mLMs=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71684602/acastro_220524_STK428_0001.0.jpg" />
@@ -22,7 +21,6 @@
  - [https://www.theverge.com/2022/11/28/23482138/samsung-galaxy-s21-ifixit-self-repair-assistant-app-trademark](https://www.theverge.com/2022/11/28/23482138/samsung-galaxy-s21-ifixit-self-repair-assistant-app-trademark)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-28 22:19:36+00:00
- - tags: None
 
 <figure>
       <img alt="Samsung’s One UI software on the Galaxy S21" src="https://cdn.vox-cdn.com/thumbor/N02OQNSQxNLzQbVi_OCHHJXEVNs=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71684347/vpavic_210119_4378_0228.0.jpg" />
@@ -46,7 +44,6 @@
  - [https://www.theverge.com/2022/11/28/23482636/google-iheartmedia-pixel-4-ads-ftc-radio-hosts](https://www.theverge.com/2022/11/28/23482636/google-iheartmedia-pixel-4-ads-ftc-radio-hosts)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-28 21:55:05+00:00
- - tags: None
 
 <figure>
       <img alt="A Google Pixel 4." src="https://cdn.vox-cdn.com/thumbor/Ux3C6A89b6SjrCuy0JErBEYpUxo=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71684169/akrales_191017_3725_0118.0.jpg" />
@@ -69,7 +66,6 @@
  - [https://www.theverge.com/23482189/pentiment-xbox-obsidian-entertainment-impressions](https://www.theverge.com/23482189/pentiment-xbox-obsidian-entertainment-impressions)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-28 20:59:50+00:00
- - tags: None
 
 <figure>
       <img alt="Graphic from the video game Pentiment featuring an artist with orange smoke billowing from their head sitting down to draw." src="https://cdn.vox-cdn.com/thumbor/YF2eBqVYMagCiGrdD4BMuaeg4t4=/30x0:840x540/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71683850/pentiment_hero_image_0cda70ffb0a07bbc81ba.0.jpg" />
@@ -86,7 +82,6 @@
  - [https://www.theverge.com/2022/11/28/23482339/chinese-police-searching-phones-instagram-twitter-telegram-protests-covid](https://www.theverge.com/2022/11/28/23482339/chinese-police-searching-phones-instagram-twitter-telegram-protests-covid)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-28 20:22:21+00:00
- - tags: None
 
 <figure>
       <img alt="People in Hong Kong protest in a line while holding blank white sheets of paper." src="https://cdn.vox-cdn.com/thumbor/IzhXov8EG5I_-g2HUmi0g_lAK8c=/0x0:6000x4000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71683683/1445198110.0.jpg" />
@@ -103,7 +98,6 @@
  - [https://www.theverge.com/2022/11/28/23482387/elon-musk-twitter-apple-threat-withhold-app-store](https://www.theverge.com/2022/11/28/23482387/elon-musk-twitter-apple-threat-withhold-app-store)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-28 18:58:39+00:00
- - tags: None
 
 <figure>
       <img alt="Image of Elon Musk with red flourishes in the background." src="https://cdn.vox-cdn.com/thumbor/L44Ep6en__qKiZGwa6uXTvvoBe8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71683220/VRG_Illo_STK022_K_Radtke_Musk_Bolts.0.jpg" />
@@ -121,7 +115,6 @@
  - [https://www.theverge.com/2022/11/28/23423251/n64-controller-nintendo-switch-restock-deal-sale](https://www.theverge.com/2022/11/28/23423251/n64-controller-nintendo-switch-restock-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-28 18:29:33+00:00
- - tags: None
 
 <figure>
       <img alt="A stock photo of the N64 controller for the Nintendo Switch" src="https://cdn.vox-cdn.com/thumbor/n2CEAqN5g42CPxEMphZSMqFpCYA=/0x20:1194x816/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71683051/114294_switch_nso_n64_controller_lifestyle_2000x2000.0.jpeg" />
@@ -138,7 +131,6 @@
  - [https://www.theverge.com/2022/11/28/23481881/message-self-whatsapp-messages-slack-signal](https://www.theverge.com/2022/11/28/23481881/message-self-whatsapp-messages-slack-signal)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-28 16:18:10+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot of the Messages app on an iPhone." src="https://cdn.vox-cdn.com/thumbor/awhmH9nvOiuQegihhuQ-JPJHFkg=/0x584:3500x2917/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71682412/Message_Self.0.jpg" />
@@ -156,7 +148,6 @@
  - [https://www.theverge.com/2022/11/28/23460543/blockfi-ftx-chapter-11-bankruptcy-crypto](https://www.theverge.com/2022/11/28/23460543/blockfi-ftx-chapter-11-bankruptcy-crypto)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-28 15:59:00+00:00
- - tags: None
 
 <figure>
       <img alt="A coin is set aflame to reveal a digital wireframe underneath." src="https://cdn.vox-cdn.com/thumbor/AWXN21Zpqbu23va3dnrz39vyr9I=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71682299/acastro_220524_STK428_0002.0.jpg" />
@@ -177,7 +168,6 @@
  - [https://www.theverge.com/2022/11/28/23481789/tesla-model-3-redesign-interior-exterior-report](https://www.theverge.com/2022/11/28/23481789/tesla-model-3-redesign-interior-exterior-report)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-28 15:47:58+00:00
- - tags: None
 
 <figure>
       <img alt="Tesla Model 3 Gallery" src="https://cdn.vox-cdn.com/thumbor/VB1-ySiRHGVSH8JbzdhmDcWZbEo=/0x43:1020x723/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71682258/tesla-model-3-first-ride-002-1020.0.0.jpg" />
@@ -194,7 +184,6 @@
  - [https://www.theverge.com/2022/11/25/23475780/nasa-lunar-flashlight-launch-water-moon-spacex](https://www.theverge.com/2022/11/25/23475780/nasa-lunar-flashlight-launch-water-moon-spacex)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-28 15:36:21+00:00
- - tags: None
 
 <figure>
       <img alt="A small solar-paneled spacecraft flies above the moon’s cratered surface. a beam of light emits from the spacecraft, illuminating the crater below. in the background, the curve of the Earth rises above the Moon." src="https://cdn.vox-cdn.com/thumbor/7foz_NW4F4TV5ln9m1C2weM4O7U=/0x412:9600x6812/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71682226/lunar_flashlight_over_south_pole.0.jpeg" />
@@ -211,7 +200,6 @@
  - [https://www.theverge.com/2022/11/28/23481851/apple-watch-ultra-dive-computer-oceanic-plus-app-huish-outdoors-price](https://www.theverge.com/2022/11/28/23481851/apple-watch-ultra-dive-computer-oceanic-plus-app-huish-outdoors-price)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-28 15:30:02+00:00
- - tags: None
 
 <figure>
       <img alt="Person wearing Apple Watch Ultra while looking at the Huish Oceanic Plus app on their iPhone." src="https://cdn.vox-cdn.com/thumbor/r9c70CI7nBPKBgFMFIwDpkeFP4A=/0x1:3840x2561/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71682194/Apple_Watch_Ultra_Oceanic_Plus_pre_dive.0.jpg" />
@@ -245,7 +233,6 @@
  - [https://www.theverge.com/23385623/holiday-gift-ideas-2022-content-creator-artist-creative-tech-gear-camera-laptop](https://www.theverge.com/23385623/holiday-gift-ideas-2022-content-creator-artist-creative-tech-gear-camera-laptop)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-28 15:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/fXZWo_hDrXUVygJQPd8bJwVdEX8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71682028/226333_HOLIDAYGIFTGUIDE_APPLEPENCIL_02_jgoldberg.0.jpg" />
@@ -262,7 +249,6 @@
  - [https://www.theverge.com/23481797/cyber-monday-2022-best-deals-tech-earbuds-smart-home-entertainment-gifts](https://www.theverge.com/23481797/cyber-monday-2022-best-deals-tech-earbuds-smart-home-entertainment-gifts)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-28 14:48:42+00:00
- - tags: None
 
 <figure>
       <img alt="An illustration by The Noc Design made for The Verge." src="https://cdn.vox-cdn.com/thumbor/zxYVph4CyW6e8xY-jbiWPLPAyys=/0x1:2040x1361/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71681969/226415_Noc_Design_Black_Friday_cart.0.jpg" />
@@ -293,7 +279,6 @@
  - [https://www.theverge.com/2022/11/28/23481811/vinfast-vf8-ev-ship-us-electric-specs-price](https://www.theverge.com/2022/11/28/23481811/vinfast-vf8-ev-ship-us-electric-specs-price)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-28 14:28:47+00:00
- - tags: None
 
 <figure>
       <img alt="Vinfast EVs heading to the US" src="https://cdn.vox-cdn.com/thumbor/PjqLh7aWafOEXNljpO-5lZruH30=/0x0:1200x800/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71681906/Anh_4.0.jpeg" />
@@ -312,7 +297,6 @@
  - [https://www.theverge.com/23475447/digital-creators-avatars-diigitals-social-media-podcast-vergecast](https://www.theverge.com/23475447/digital-creators-avatars-diigitals-social-media-podcast-vergecast)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-28 14:13:19+00:00
- - tags: None
 
 <figure>
       <img alt="Animated woman shown through smartphone camera" src="https://cdn.vox-cdn.com/thumbor/fpL2JJq9Kd-if_S69YO1RMxg2Xc=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71681870/226411_J_Sitter_Digital_Influencers_Vergecast_site.0.jpg" />
@@ -329,7 +313,6 @@
  - [https://www.theverge.com/2022/11/28/23466674/nasa-artemis-moon-race-testing-lunar-regolith-dirt](https://www.theverge.com/2022/11/28/23466674/nasa-artemis-moon-race-testing-lunar-regolith-dirt)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-28 14:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/VhdS1RnDymDdqmxU-aN2RWTFAAM=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71681786/regolith_syn_2.0.jpeg" />
@@ -345,7 +328,6 @@
  - [https://www.theverge.com/2022/11/28/23481711/obsolete-sounds-project-cities-and-memory-modem](https://www.theverge.com/2022/11/28/23481711/obsolete-sounds-project-cities-and-memory-modem)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-28 12:25:32+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/oaUDM5dHM2iwttolwp0XE2SKavg=/0x0:1582x1055/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71681492/Screen_Shot_2022_11_28_at_12.06.19_PM.0.jpg" />
@@ -363,7 +345,6 @@
  - [https://www.theverge.com/2022/11/28/23481673/twitter-porn-spam-chinese-protests-obscuring-information](https://www.theverge.com/2022/11/28/23481673/twitter-porn-spam-chinese-protests-obscuring-information)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-28 11:26:17+00:00
- - tags: None
 
 <figure>
       <img alt="A black Twitter logo over a red illustration" src="https://cdn.vox-cdn.com/thumbor/uNvGXI6-lylQKW-PNChb6fv517k=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71681374/acastro_STK050_08.0.jpg" />
@@ -380,7 +361,6 @@
  - [https://www.theverge.com/2022/11/28/23481637/european-union-inflight-5g-commission-spectrum](https://www.theverge.com/2022/11/28/23481637/european-union-inflight-5g-commission-spectrum)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-28 09:32:10+00:00
- - tags: None
 
 <figure>
       <img alt="A plane in flight." src="https://cdn.vox-cdn.com/thumbor/nZIf6mWhHDc79l4xZHKMrIa9ucI=/0x130:3381x2384/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71681208/1242900544.0.jpg" />

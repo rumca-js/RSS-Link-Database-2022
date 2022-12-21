@@ -1,10 +1,9 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
+# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
 
 ## The Catfish Is Basically A Tongue With Fins | #shorts
  - [https://www.youtube.com/watch?v=aAP9I6Y0_IQ](https://www.youtube.com/watch?v=aAP9I6Y0_IQ)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
  - date published: 2022-11-10 16:43:31+00:00
- - tags: None
 
 You have about 10,000 chemoreceptors on your tongue. Catfish have over 170,000 all over their bodies.
 

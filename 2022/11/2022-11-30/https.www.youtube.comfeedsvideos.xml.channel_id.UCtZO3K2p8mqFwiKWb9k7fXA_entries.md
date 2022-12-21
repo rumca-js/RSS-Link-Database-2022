@@ -1,10 +1,9 @@
-# Source Techaltar, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCtZO3K2p8mqFwiKWb9k7fXA
+# Source Techaltar, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCtZO3K2p8mqFwiKWb9k7fXA, Source language: en-US
 
 ## Diving | Running | Hiking - Apple Watch Ultra Test
  - [https://www.youtube.com/watch?v=RSaAPw9WK1g](https://www.youtube.com/watch?v=RSaAPw9WK1g)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCtZO3K2p8mqFwiKWb9k7fXA
  - date published: 2022-11-30 15:00:23+00:00
- - tags: None
 
 Sponsored by NordVPN. Get a huge discount & 4 extra months for free here: https://nordvpn.com/techaltar
  

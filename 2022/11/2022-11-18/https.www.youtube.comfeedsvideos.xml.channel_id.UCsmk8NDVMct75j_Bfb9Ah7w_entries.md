@@ -1,10 +1,9 @@
-# Source Virtual Reality Oasis, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w
+# Source Virtual Reality Oasis, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w, Source language: en-US
 
 ## VR Wingsuit Simulator Felt Scary REAL!
  - [https://www.youtube.com/watch?v=G3vfivqhw_4](https://www.youtube.com/watch?v=G3vfivqhw_4)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w
  - date published: 2022-11-18 18:00:07+00:00
- - tags: None
 
 This VR base jumping wingsuit simulator felt so real! It's the scariest and most exhilarating thing I've ever experienced in VR, I felt like I was actually flying! 
 

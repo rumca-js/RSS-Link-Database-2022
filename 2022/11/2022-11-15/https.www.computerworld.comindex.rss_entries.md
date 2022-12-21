@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Asana to lay off 9% of its workforce to improve operating costs
  - [https://www.computerworld.com/article/3680153/asana-to-lay-off-9-of-its-workforce-to-improve-operating-costs.html#tk.rss_all](https://www.computerworld.com/article/3680153/asana-to-lay-off-9-of-its-workforce-to-improve-operating-costs.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-15 20:30:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3680152/as-remote-work-gains-favor-employees-relationships-to-their-jobs-are-in-flux-report.html#tk.rss_all](https://www.computerworld.com/article/3680152/as-remote-work-gains-favor-employees-relationships-to-their-jobs-are-in-flux-report.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-15 18:03:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -24,7 +22,6 @@
  - [https://www.computerworld.com/article/3680089/how-to-use-emergency-sos-via-satellite-on-iphone-14.html#tk.rss_all](https://www.computerworld.com/article/3680089/how-to-use-emergency-sos-via-satellite-on-iphone-14.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-15 16:48:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -35,7 +32,6 @@
  - [https://www.computerworld.com/article/3679708/android-contacts-management-ultimate-guide.html#tk.rss_all](https://www.computerworld.com/article/3679708/android-contacts-management-ultimate-guide.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-15 11:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

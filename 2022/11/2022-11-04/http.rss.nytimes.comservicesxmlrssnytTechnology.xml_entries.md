@@ -1,10 +1,9 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
 
 ## On Twitter, Who Needs a Check Mark When You Can Have a Rat?
  - [https://www.nytimes.com/2022/11/04/style/twitter-verification-rat-emoji.html](https://www.nytimes.com/2022/11/04/style/twitter-verification-rat-emoji.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-04 22:10:49+00:00
- - tags: None
 
 Elon Musk wants Twitter users to pay to be verified. An artist offers a wry alternative.
 
@@ -12,7 +11,6 @@ Elon Musk wants Twitter users to pay to be verified. An artist offers a wry alte
  - [https://www.nytimes.com/2022/11/04/technology/elon-musk-twitter-layoffs.html](https://www.nytimes.com/2022/11/04/technology/elon-musk-twitter-layoffs.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-04 20:17:40+00:00
- - tags: None
 
 The layoffs hit across many divisions, including the engineering and machine learning units, the teams that manage content moderation, and the sales and advertising departments.
 
@@ -20,7 +18,6 @@ The layoffs hit across many divisions, including the engineering and machine lea
  - [https://www.nytimes.com/2022/11/04/technology/twitter-advertisers.html](https://www.nytimes.com/2022/11/04/technology/twitter-advertisers.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-04 18:43:18+00:00
- - tags: None
 
 Elon Musk, Twitter’s new owner, acknowledged that ad spending on the platform had slumped. He blamed the drop on pressure from activists.
 
@@ -28,7 +25,6 @@ Elon Musk, Twitter’s new owner, acknowledged that ad spending on the platform 
  - [https://www.nytimes.com/2022/11/04/technology/voter-fraud-social-media-games.html](https://www.nytimes.com/2022/11/04/technology/voter-fraud-social-media-games.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-04 14:55:48+00:00
- - tags: None
 
 Players who post about irregularities are awarded points or titles, leading participants to question the legitimacy of elections.
 
@@ -36,7 +32,6 @@ Players who post about irregularities are awarded points or titles, leading part
  - [https://www.nytimes.com/2022/11/04/dining/ai-thanksgiving-menu.html](https://www.nytimes.com/2022/11/04/dining/ai-thanksgiving-menu.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-04 09:00:47+00:00
- - tags: None
 
 Researchers are using artificial intelligence to create recipes, complete with appetizing photos and back stories. But Thanksgiving poses a challenge.
 
@@ -44,7 +39,6 @@ Researchers are using artificial intelligence to create recipes, complete with a
  - [https://www.nytimes.com/2022/11/04/travel/reef-line-miami-beach.html](https://www.nytimes.com/2022/11/04/travel/reef-line-miami-beach.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-04 09:00:35+00:00
- - tags: None
 
 Part public housing for fish, part carbon-capture project, part art installation, Ximena Caminos’s project for Miami Beach, known as the ReefLine, aims to call attention to the challenges facing the city’s marine life.
 
@@ -52,7 +46,6 @@ Part public housing for fish, part carbon-capture project, part art installation
  - [https://www.nytimes.com/2022/11/04/podcasts/life-under-musk-two-twitter-employees-speak-out.html](https://www.nytimes.com/2022/11/04/podcasts/life-under-musk-two-twitter-employees-speak-out.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-04 09:00:18+00:00
- - tags: None
 
 A radical shake-up is underway at the social media company.
 
@@ -60,7 +53,6 @@ A radical shake-up is underway at the social media company.
  - [https://www.nytimes.com/2022/11/04/technology/tiktok-deepfakes-disinformation.html](https://www.nytimes.com/2022/11/04/technology/tiktok-deepfakes-disinformation.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-04 07:00:08+00:00
- - tags: None
 
 Misleading edits, fake news stories and deepfake images of politicians are starting to warp reality on the popular video platform.
 
@@ -68,6 +60,5 @@ Misleading edits, fake news stories and deepfake images of politicians are start
  - [https://www.nytimes.com/2022/11/03/technology/twitter-layoffs-elon-musk.html](https://www.nytimes.com/2022/11/03/technology/twitter-layoffs-elon-musk.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-04 00:48:45+00:00
- - tags: None
 
 The social media company’s 7,500 employees have been bracing for job cuts since Mr. Musk took it over last week.

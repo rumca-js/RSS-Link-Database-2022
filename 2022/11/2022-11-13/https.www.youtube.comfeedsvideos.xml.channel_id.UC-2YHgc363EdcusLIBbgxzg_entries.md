@@ -1,10 +1,9 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
+# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
 
 ## Octopuses Have A Lot Of Brains #shorts
  - [https://www.youtube.com/watch?v=CLFHkgTEvxo](https://www.youtube.com/watch?v=CLFHkgTEvxo)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
  - date published: 2022-11-13 16:00:14+00:00
- - tags: None
 
 Octopuses have a brain in every tentacle. It's super weird. Also I am awkward at parties.
 

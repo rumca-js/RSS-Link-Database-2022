@@ -1,10 +1,9 @@
-# Source Virtual Reality Oasis, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w
+# Source Virtual Reality Oasis, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w, Source language: en-US
 
 ## Get This FREE VR FPS On Quest 2 While You Can!
  - [https://www.youtube.com/watch?v=TUdT7en3oVk](https://www.youtube.com/watch?v=TUdT7en3oVk)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w
  - date published: 2022-11-25 00:00:09+00:00
- - tags: None
 
 Breachers just released in Alpha on Quest 2! Breachers is a 5v5 tactical FPS similar to Rainbow Six Siege but in VR! Get it for free and play it during the Alpha / Beta while you can! 
 

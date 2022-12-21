@@ -1,10 +1,9 @@
-# Source Techlore, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg
+# Source Techlore, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg, Source language: en-US
 
 ## 5 Reasons to DITCH TWITTER For Mastodon!
  - [https://www.youtube.com/watch?v=BkRkTdm9efs](https://www.youtube.com/watch?v=BkRkTdm9efs)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg
  - date published: 2022-11-18 02:15:27+00:00
- - tags: None
 
 Here are 5 reasons why Mastodon is already Elon's dream twitter and you should switch to it!
 

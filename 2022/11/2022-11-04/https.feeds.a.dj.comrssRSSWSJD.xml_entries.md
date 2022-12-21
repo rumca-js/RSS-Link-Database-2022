@@ -1,10 +1,9 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml
+# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
 
 ## Elon Musk Says Twitter Has Had Massive Revenue Drop
  - [https://www.wsj.com/articles/elon-musk-says-twitter-has-had-massive-revenue-drop-11667573127?mod=rss_Technology](https://www.wsj.com/articles/elon-musk-says-twitter-has-had-massive-revenue-drop-11667573127?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-04 15:19:00+00:00
- - tags: None
 
 Elon Musk tweeted that Twitter has had a massive drop in revenue due to activist groups pressuring advertisers, as the social-media company started sweeping layoffs just over a week after the billionaire took it over.
 
@@ -12,7 +11,6 @@ Elon Musk tweeted that Twitter has had a massive drop in revenue due to activist
  - [https://www.wsj.com/articles/when-will-flying-taxis-get-off-the-ground-11667574346?mod=rss_Technology](https://www.wsj.com/articles/when-will-flying-taxis-get-off-the-ground-11667574346?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-04 15:05:00+00:00
- - tags: None
 
 The CEO of Boeing-backed Wisk Aero on what it will take to build the market, and what is the loudest part of the trip
 
@@ -20,7 +18,6 @@ The CEO of Boeing-backed Wisk Aero on what it will take to build the market, and
  - [https://www.wsj.com/articles/chip-makers-cut-costs-as-demand-slump-supplants-pandemics-chip-shortage-11667560050?mod=rss_Technology](https://www.wsj.com/articles/chip-makers-cut-costs-as-demand-slump-supplants-pandemics-chip-shortage-11667560050?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-04 11:07:00+00:00
- - tags: None
 
 After sharp growth from Covid, semiconductor executives are now enacting hiring pauses.
 
@@ -28,7 +25,6 @@ After sharp growth from Covid, semiconductor executives are now enacting hiring 
  - [https://www.wsj.com/articles/the-unraveling-of-trevor-milton-trouble-for-troublemakers-11667558546?mod=rss_Technology](https://www.wsj.com/articles/the-unraveling-of-trevor-milton-trouble-for-troublemakers-11667558546?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-04 10:42:00+00:00
- - tags: None
 
 As investors and General Motors bet on Trevor Milton’s vision, the short sellers at Hindenburg Research revealed that the company he founded, Nikola, wasn’t all that it seemed. The allegation that Nikola rolled its truck down a hill for a promotional video made Hindenburg’s report a sensation. In this episode, we’ll hear how Trevor Milton, investors and the U.S. government responded to the report—and how its authors ended up in a game of Spy vs. Spy with shadowy private investigators.
 
@@ -36,7 +32,6 @@ As investors and General Motors bet on Trevor Milton’s vision, the short selle
  - [https://www.wsj.com/articles/reported-ransomware-incidents-costs-soared-in-2021-treasury-says-11667513649?mod=rss_Technology](https://www.wsj.com/articles/reported-ransomware-incidents-costs-soared-in-2021-treasury-says-11667513649?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-04 09:30:00+00:00
- - tags: None
 
 Bank reports show the number and value of ransomware-related transactions more than doubled last year from 2020, though the true numbers are thought to be far higher.
 
@@ -44,7 +39,6 @@ Bank reports show the number and value of ransomware-related transactions more t
  - [https://www.wsj.com/articles/sorry-elon-the-masses-probably-wont-pay-for-social-mediabut-i-will-11667535473?mod=rss_Technology](https://www.wsj.com/articles/sorry-elon-the-masses-probably-wont-pay-for-social-mediabut-i-will-11667535473?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-04 09:30:00+00:00
- - tags: None
 
 Elon Musk plans to charge $8 a month for a premium Twitter subscription. Others like Snap, LinkedIn and Instagram all are embracing step-up subscriptions, too. What’s the value?
 
@@ -52,6 +46,5 @@ Elon Musk plans to charge $8 a month for a premium Twitter subscription. Others 
  - [https://www.wsj.com/articles/twitter-tells-employees-jobs-cuts-will-be-announced-friday-11667523638?mod=rss_Technology](https://www.wsj.com/articles/twitter-tells-employees-jobs-cuts-will-be-announced-friday-11667523638?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-04 01:58:00+00:00
- - tags: None
 
 The move comes about a week after Elon Musk acquired the social-media platform.

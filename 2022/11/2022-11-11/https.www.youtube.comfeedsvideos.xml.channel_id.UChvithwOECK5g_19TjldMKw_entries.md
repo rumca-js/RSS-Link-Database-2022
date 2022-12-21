@@ -1,10 +1,9 @@
-# Source Laowhy86, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UChvithwOECK5g_19TjldMKw
+# Source Laowhy86, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UChvithwOECK5g_19TjldMKw, Source language: en-US
 
 ## How China is Turning itself into a Fortress
  - [https://www.youtube.com/watch?v=47VnfoEpw3c](https://www.youtube.com/watch?v=47VnfoEpw3c)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UChvithwOECK5g_19TjldMKw
  - date published: 2022-11-11 18:58:15+00:00
- - tags: None
 
 Get up to 25% off all orders | 35% off above $200 + a free Cash Clip from 11/10 - 11/27
 Get the best wallet in the world at http://shop.ekster.com/laowhy86

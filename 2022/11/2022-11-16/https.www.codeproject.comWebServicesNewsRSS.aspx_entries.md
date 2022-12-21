@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## 44% of Financial institutions believe their own IT teams are the main risk to cloud security
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59518](https://www.codeproject.com/script/News/View.aspx?nwid=59518)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-16 05:00:00+00:00
- - tags: None
 
 Maybe it's time for a few more of those trust exercises?
 
@@ -12,7 +11,6 @@ Maybe it's time for a few more of those trust exercises?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59520](https://www.codeproject.com/script/News/View.aspx?nwid=59520)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-16 05:00:00+00:00
- - tags: None
 
 "Every citizen, or at least every citizen important enough to be worth watching, could be kept for twenty-four hours a day under the eyes of the police and in the sound of official propaganda, with all other channels of communication closed"
 
@@ -20,7 +18,6 @@ Maybe it's time for a few more of those trust exercises?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59514](https://www.codeproject.com/script/News/View.aspx?nwid=59514)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-16 05:00:00+00:00
- - tags: None
 
 Required reading (for some)
 
@@ -28,7 +25,6 @@ Required reading (for some)
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59521](https://www.codeproject.com/script/News/View.aspx?nwid=59521)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-16 05:00:00+00:00
- - tags: None
 
 Cake for everyone! (bring your own cake)
 
@@ -36,7 +32,6 @@ Cake for everyone! (bring your own cake)
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59519](https://www.codeproject.com/script/News/View.aspx?nwid=59519)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-16 05:00:00+00:00
- - tags: None
 
 To be defeated by new deepfakes in...
 
@@ -44,7 +39,6 @@ To be defeated by new deepfakes in...
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59515](https://www.codeproject.com/script/News/View.aspx?nwid=59515)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-16 05:00:00+00:00
- - tags: None
 
 Again surprising me that LinkedIn is for something other than telling your coworkers that you're looking for a new job
 
@@ -52,7 +46,6 @@ Again surprising me that LinkedIn is for something other than telling your cowor
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59517](https://www.codeproject.com/script/News/View.aspx?nwid=59517)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-16 05:00:00+00:00
- - tags: None
 
 How else are managers going to figure out how many whips to buy next year?
 
@@ -60,7 +53,6 @@ How else are managers going to figure out how many whips to buy next year?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59516](https://www.codeproject.com/script/News/View.aspx?nwid=59516)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-16 05:00:00+00:00
- - tags: None
 
 *Foot spray available separately
 
@@ -68,6 +60,5 @@ How else are managers going to figure out how many whips to buy next year?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59513](https://www.codeproject.com/script/News/View.aspx?nwid=59513)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-16 05:00:00+00:00
- - tags: None
 
 Today in news you already knows

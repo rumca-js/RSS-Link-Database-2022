@@ -1,10 +1,9 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
 
 ## Elon Musk Takes a Page Out of Mark Zuckerberg’s Social Media Playbook
  - [https://www.nytimes.com/2022/11/02/technology/musk-twitter-advertisers-civil-rights.html](https://www.nytimes.com/2022/11/02/technology/musk-twitter-advertisers-civil-rights.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-02 22:56:11+00:00
- - tags: None
 
 As Mr. Musk takes over Twitter, he is emulating some of the actions of Mr. Zuckerberg, who leads Facebook, Instagram and WhatsApp.
 
@@ -12,7 +11,6 @@ As Mr. Musk takes over Twitter, he is emulating some of the actions of Mr. Zucke
  - [https://www.nytimes.com/2022/11/02/technology/tumblr-nudity-explicit-posts.html](https://www.nytimes.com/2022/11/02/technology/tumblr-nudity-explicit-posts.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-02 21:48:35+00:00
- - tags: None
 
 Reversing a 2018 ban, the company said that nudity and “mature subject matter” would be allowed. But “visual depictions of sexually explicit acts” remain off limits, the company said.
 
@@ -20,7 +18,6 @@ Reversing a 2018 ban, the company said that nudity and “mature subject matter�
  - [https://www.nytimes.com/2022/11/02/technology/midterm-elections-misinformation.html](https://www.nytimes.com/2022/11/02/technology/midterm-elections-misinformation.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-02 20:38:49+00:00
- - tags: None
 
 Here are some of the main falsehoods and rumors that have spread on social media in the lead-up to Election Day.
 
@@ -28,7 +25,6 @@ Here are some of the main falsehoods and rumors that have spread on social media
  - [https://www.nytimes.com/2022/11/02/us/elections/influencers-political-ads-tiktok-instagram.html](https://www.nytimes.com/2022/11/02/us/elections/influencers-political-ads-tiktok-instagram.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-02 20:08:42+00:00
- - tags: None
 
 Campaigns are using social media influencers as a way to reach young and diverse voters, a novel and mostly unregulated strategy. Some are even spreading the message through dating apps.
 
@@ -36,7 +32,6 @@ Campaigns are using social media influencers as a way to reach young and diverse
  - [https://www.nytimes.com/2022/11/02/us/twitter-verification-elon-musk.html](https://www.nytimes.com/2022/11/02/us/twitter-verification-elon-musk.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-02 19:30:38+00:00
- - tags: None
 
 Elon Musk, who recently closed a deal to acquire the social media company, could soon charge a monthly fee for the blue verification badge that indicates a Twitter account is authentic.
 
@@ -44,7 +39,6 @@ Elon Musk, who recently closed a deal to acquire the social media company, could
  - [https://www.nytimes.com/2022/11/02/insider/personal-tech-brian-chen.html](https://www.nytimes.com/2022/11/02/insider/personal-tech-brian-chen.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-02 14:21:33+00:00
- - tags: None
 
 Our tech problems have become more complex, so we are rebooting the Tech Fix column to focus on the societal implications of the tech we use.
 
@@ -52,7 +46,6 @@ Our tech problems have become more complex, so we are rebooting the Tech Fix col
  - [https://www.nytimes.com/2022/11/02/technology/midterm-elections-falsehoods.html](https://www.nytimes.com/2022/11/02/technology/midterm-elections-falsehoods.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-02 13:37:33+00:00
- - tags: None
 
 Here are some of the main falsehoods and rumors that have spread on social media in the lead-up to Election Day.
 
@@ -60,7 +53,6 @@ Here are some of the main falsehoods and rumors that have spread on social media
  - [https://www.nytimes.com/2022/11/02/technology/online-suicide-assistance-bill.html](https://www.nytimes.com/2022/11/02/technology/online-suicide-assistance-bill.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-02 09:00:25+00:00
- - tags: None
 
 Bipartisan legislation in the House targets not only the online activity of individual users but also the website operators hosting it.
 
@@ -68,7 +60,6 @@ Bipartisan legislation in the House targets not only the online activity of indi
  - [https://www.nytimes.com/2022/11/02/technology/personaltech/security-cameras-surveillance-privacy.html](https://www.nytimes.com/2022/11/02/technology/personaltech/security-cameras-surveillance-privacy.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-02 09:00:23+00:00
- - tags: None
 
 Internet cameras like Amazon’s Ring come at a high cost to our privacy.
 
@@ -76,7 +67,6 @@ Internet cameras like Amazon’s Ring come at a high cost to our privacy.
  - [https://www.nytimes.com/2022/11/02/style/roku-city-screensaver.html](https://www.nytimes.com/2022/11/02/style/roku-city-screensaver.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-02 09:00:18+00:00
- - tags: None
 
 Instead of streaming a new TV show or movie, some Roku users are in it for the screen saver.
 
@@ -84,6 +74,5 @@ Instead of streaming a new TV show or movie, some Roku users are in it for the s
  - [https://www.nytimes.com/2022/11/02/magazine/the-playlist-netflix-spotify.html](https://www.nytimes.com/2022/11/02/magazine/the-playlist-netflix-spotify.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-02 09:00:13+00:00
- - tags: None
 
 “The Playlist” resembles other TV dramas that follow founders to their eventual comeuppance — except Spotify isn’t facing any messy implosion.

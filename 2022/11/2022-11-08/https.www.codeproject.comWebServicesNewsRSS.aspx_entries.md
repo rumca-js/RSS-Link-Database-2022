@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## A computer model made from real images of soccer matches that shows the strategies used by each team
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59435](https://www.codeproject.com/script/News/View.aspx?nwid=59435)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-08 05:00:00+00:00
- - tags: None
 
 Then they came for sports betting, and I said, "Hmmmm"
 
@@ -12,7 +11,6 @@ Then they came for sports betting, and I said, "Hmmmm"
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59436](https://www.codeproject.com/script/News/View.aspx?nwid=59436)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-08 05:00:00+00:00
- - tags: None
 
 It takes a community to develop .NET toolkits
 
@@ -20,7 +18,6 @@ It takes a community to develop .NET toolkits
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59431](https://www.codeproject.com/script/News/View.aspx?nwid=59431)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-08 05:00:00+00:00
- - tags: None
 
 SELECT 'surprise' FROM sys_reactions; (0 rows found)
 
@@ -28,7 +25,6 @@ SELECT 'surprise' FROM sys_reactions; (0 rows found)
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59428](https://www.codeproject.com/script/News/View.aspx?nwid=59428)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-08 05:00:00+00:00
- - tags: None
 
 A shared component library provides a way to create reusable, consistently-styled user experiences across multiple applications.
 
@@ -36,7 +32,6 @@ A shared component library provides a way to create reusable, consistently-style
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59424](https://www.codeproject.com/script/News/View.aspx?nwid=59424)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-08 05:00:00+00:00
- - tags: None
 
 Microsoft is exploring built-in container support for client-side Blazor WebAssembly apps.
 
@@ -44,7 +39,6 @@ Microsoft is exploring built-in container support for client-side Blazor WebAsse
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59434](https://www.codeproject.com/script/News/View.aspx?nwid=59434)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-08 05:00:00+00:00
- - tags: None
 
 That's the meal after elevensies, right?
 
@@ -52,7 +46,6 @@ That's the meal after elevensies, right?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59426](https://www.codeproject.com/script/News/View.aspx?nwid=59426)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-08 05:00:00+00:00
- - tags: None
 
 In this article, Yosra Emad explains how to create a rollercoaster path that a ball follows using cubic beziers and CSS transitions.
 
@@ -60,7 +53,6 @@ In this article, Yosra Emad explains how to create a rollercoaster path that a b
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59437](https://www.codeproject.com/script/News/View.aspx?nwid=59437)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-08 05:00:00+00:00
- - tags: None
 
 There's the feature everyone's been waiting for!
 
@@ -68,7 +60,6 @@ There's the feature everyone's been waiting for!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59432](https://www.codeproject.com/script/News/View.aspx?nwid=59432)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-08 05:00:00+00:00
- - tags: None
 
 All the grief, none of the power
 
@@ -76,7 +67,6 @@ All the grief, none of the power
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59430](https://www.codeproject.com/script/News/View.aspx?nwid=59430)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-08 05:00:00+00:00
- - tags: None
 
 This chapter focuses on Google’s solution to the problem: Core Web Vitals (CWV), web performance metrics introduced in 2020 and made a signal in search ranking during 2021.
 
@@ -84,7 +74,6 @@ This chapter focuses on Google’s solution to the problem: Core Web Vitals (CWV
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59427](https://www.codeproject.com/script/News/View.aspx?nwid=59427)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-08 05:00:00+00:00
- - tags: None
 
 Performance is a feature of .NET. In every release the .NET team and community contributors spend time making performance improvements, so .NET apps are faster and use less resources.
 
@@ -92,7 +81,6 @@ Performance is a feature of .NET. In every release the .NET team and community c
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59425](https://www.codeproject.com/script/News/View.aspx?nwid=59425)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-08 05:00:00+00:00
- - tags: None
 
 Routing is an important concept in web applications, and in this post we will go through the different ways to implement page routing in a Next.js application.
 
@@ -100,7 +88,6 @@ Routing is an important concept in web applications, and in this post we will go
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59429](https://www.codeproject.com/script/News/View.aspx?nwid=59429)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-08 05:00:00+00:00
- - tags: None
 
 One of the things I really like about Blazor is how often it is easy to implement features in your application that, if needed in a server-side application, would have you testing your JavaScript-fu or reaching for a third party component.
 
@@ -108,6 +95,5 @@ One of the things I really like about Blazor is how often it is easy to implemen
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59433](https://www.codeproject.com/script/News/View.aspx?nwid=59433)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-08 05:00:00+00:00
- - tags: None
 
 Launch?

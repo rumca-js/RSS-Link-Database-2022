@@ -1,10 +1,9 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml
+# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
 
 ## Apple store Glasgow workers unionise in UK first
  - [https://www.bbc.co.uk/news/technology-63485697?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63485697?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-11-02 17:44:52+00:00
- - tags: None
 
 The UK's first Apple retail workers union has been formed, following US action.
 
@@ -12,7 +11,6 @@ The UK's first Apple retail workers union has been formed, following US action.
  - [https://www.bbc.co.uk/news/technology-63483695?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63483695?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-11-02 11:30:26+00:00
- - tags: None
 
 The director of Visit Halland says the region's hashtag is now filled with photos of the footballer.
 
@@ -20,7 +18,6 @@ The director of Visit Halland says the region's hashtag is now filled with photo
  - [https://www.bbc.co.uk/news/business-63481119?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63481119?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-11-02 03:33:28+00:00
- - tags: None
 
 Foxconn locked down the world's largest iPhone factory in line with China's zero-Covid policy.
 
@@ -28,6 +25,5 @@ Foxconn locked down the world's largest iPhone factory in line with China's zero
  - [https://www.bbc.co.uk/news/technology-63476769?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63476769?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-11-02 01:18:26+00:00
- - tags: None
 
 BBC News has seen evidence Evolv, which claims to have the "signatures" of all weapons, has limitations.

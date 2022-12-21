@@ -1,10 +1,9 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml
+# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
 
 ## Twitter drama continues with blue-tick confusion
  - [https://www.bbc.co.uk/news/technology-63597087?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63597087?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-11-11 14:34:59+00:00
- - tags: None
 
 A number of executives have walked out after a turbulent launch of new Twitter features.
 
@@ -12,7 +11,6 @@ A number of executives have walked out after a turbulent launch of new Twitter f
  - [https://www.bbc.co.uk/news/entertainment-arts-63595320?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63595320?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-11-11 11:20:41+00:00
- - tags: None
 
 The comic will front a stand-up special as Netflix begins to experiment with screening live events.
 
@@ -20,7 +18,6 @@ The comic will front a stand-up special as Netflix begins to experiment with scr
  - [https://www.bbc.co.uk/news/technology-63596691?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63596691?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-11-11 10:42:50+00:00
- - tags: None
 
 Authorities say they know the names of cyber-criminals behind 'morally reprehensible' hack.
 
@@ -28,7 +25,6 @@ Authorities say they know the names of cyber-criminals behind 'morally reprehens
  - [https://www.bbc.co.uk/news/world-europe-63246153?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63246153?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-11-11 02:07:12+00:00
- - tags: None
 
 Why users of Russia's top search engine are unlikely to get to the truth about the war in Ukraine.
 
@@ -36,7 +32,6 @@ Why users of Russia's top search engine are unlikely to get to the truth about t
  - [https://www.bbc.co.uk/news/technology-63592983?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63592983?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-11-11 00:29:56+00:00
- - tags: None
 
 Ros Atkins looks at the twists and turns of Elon Musk’s early days in charge of the social media platform.
 
@@ -44,6 +39,5 @@ Ros Atkins looks at the twists and turns of Elon Musk’s early days in charge o
  - [https://www.bbc.co.uk/news/business-63593242?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63593242?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-11-11 00:16:31+00:00
- - tags: None
 
 The Federal Trade Commission says developments at Twitter could risk it violating regulatory orders.

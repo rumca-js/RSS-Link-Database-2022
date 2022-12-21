@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## Nurse who called 911 on her ER talks chaos, fear amid understaffing crisis
  - [https://arstechnica.com/?p=1896418](https://arstechnica.com/?p=1896418)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-09 23:26:12+00:00
- - tags: None
 
 A recent national poll found that half of nurses have considered leaving.
 
@@ -12,7 +11,6 @@ A recent national poll found that half of nurses have considered leaving.
  - [https://arstechnica.com/?p=1896208](https://arstechnica.com/?p=1896208)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-09 23:23:07+00:00
- - tags: None
 
 Version 4 offers greater detail and better compositions from simple prompts.
 
@@ -20,7 +18,6 @@ Version 4 offers greater detail and better compositions from simple prompts.
  - [https://arstechnica.com/?p=1896428](https://arstechnica.com/?p=1896428)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-09 22:43:32+00:00
- - tags: None
 
 Milestone is important for the company's road map, less critical for performance.
 
@@ -28,7 +25,6 @@ Milestone is important for the company's road map, less critical for performance
  - [https://arstechnica.com/?p=1896364](https://arstechnica.com/?p=1896364)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-09 20:11:21+00:00
- - tags: None
 
 Employees suing asked court to require Twitter to notify staff of lawsuit.
 
@@ -36,7 +32,6 @@ Employees suing asked court to require Twitter to notify staff of lawsuit.
  - [https://arstechnica.com/?p=1896341](https://arstechnica.com/?p=1896341)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-09 19:29:19+00:00
- - tags: None
 
 Built in South Carolina, the seven-seat SUV should sell for under $80,000.
 
@@ -44,7 +39,6 @@ Built in South Carolina, the seven-seat SUV should sell for under $80,000.
  - [https://arstechnica.com/?p=1896269](https://arstechnica.com/?p=1896269)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-09 19:16:58+00:00
- - tags: None
 
 Long marches into space will now complete their journey back on Earth.
 
@@ -52,7 +46,6 @@ Long marches into space will now complete their journey back on Earth.
  - [https://arstechnica.com/?p=1896224](https://arstechnica.com/?p=1896224)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-09 19:02:49+00:00
- - tags: None
 
 Apple says most M2- and M1-based computers only support 1 external monitor.
 
@@ -60,7 +53,6 @@ Apple says most M2- and M1-based computers only support 1 external monitor.
  - [https://arstechnica.com/?p=1896273](https://arstechnica.com/?p=1896273)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-09 18:22:59+00:00
- - tags: None
 
 CISPE says Microsoft has shown no progress addressing anti-competitive practices.
 
@@ -68,7 +60,6 @@ CISPE says Microsoft has shown no progress addressing anti-competitive practices
  - [https://arstechnica.com/?p=1896222](https://arstechnica.com/?p=1896222)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-09 18:13:05+00:00
- - tags: None
 
 Most OSes do this kind of thing, but Windows remains uniquely pushy about it.
 
@@ -76,7 +67,6 @@ Most OSes do this kind of thing, but Windows remains uniquely pushy about it.
  - [https://arstechnica.com/?p=1896245](https://arstechnica.com/?p=1896245)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-09 18:08:42+00:00
- - tags: None
 
 "I just killed it," Musk said after newly deployed Official labels disappeared.
 
@@ -84,7 +74,6 @@ Most OSes do this kind of thing, but Windows remains uniquely pushy about it.
  - [https://arstechnica.com/?p=1896235](https://arstechnica.com/?p=1896235)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-09 17:56:19+00:00
- - tags: None
 
 You can disable the new sidebar, though.
 
@@ -92,7 +81,6 @@ You can disable the new sidebar, though.
  - [https://arstechnica.com/?p=1896199](https://arstechnica.com/?p=1896199)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-09 17:08:36+00:00
- - tags: None
 
 The next Tensor SoC could use a 3 nm Samsung Exynos chip as its core.
 
@@ -100,7 +88,6 @@ The next Tensor SoC could use a 3 nm Samsung Exynos chip as its core.
  - [https://arstechnica.com/?p=1896223](https://arstechnica.com/?p=1896223)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-09 16:44:32+00:00
- - tags: None
 
 Officials say deal "may significantly reduce competition"; decision expected by March.
 
@@ -108,7 +95,6 @@ Officials say deal "may significantly reduce competition"; decision expected by 
  - [https://arstechnica.com/?p=1896211](https://arstechnica.com/?p=1896211)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-09 16:03:13+00:00
- - tags: None
 
 Swirling plasma around its edges will reveal more about galaxy’s history, evolution.
 
@@ -116,7 +102,6 @@ Swirling plasma around its edges will reveal more about galaxy’s history, evol
  - [https://arstechnica.com/?p=1896200](https://arstechnica.com/?p=1896200)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-09 15:32:44+00:00
- - tags: None
 
 Zuck: Meta hired too many people, expansion "did not play out the way I expected."
 
@@ -124,6 +109,5 @@ Zuck: Meta hired too many people, expansion "did not play out the way I expected
  - [https://arstechnica.com/?p=1896179](https://arstechnica.com/?p=1896179)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-09 00:14:46+00:00
- - tags: None
 
 Exchange, Windows, and a bunch of other Microsoft software all affected.

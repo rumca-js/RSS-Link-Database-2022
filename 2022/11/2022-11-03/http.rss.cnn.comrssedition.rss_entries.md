@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## See what happens when a coffee connoisseur tries deep-frying coffee
  - [https://www.cnn.com/videos/world/2022/11/03/deep-fried-coffee-beans-james-hoffmann-connoisseur-experiment-deep-fry-coffee-beans-moos-cprog-vpx.cnn](https://www.cnn.com/videos/world/2022/11/03/deep-fried-coffee-beans-james-hoffmann-connoisseur-experiment-deep-fry-coffee-beans-moos-cprog-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 23:18:07+00:00
- - tags: None
 
 A coffee connoisseur tries ultimate experiment...deep fried coffee. Jeanne Moos wonders whether it was good to the last drop...of grease.
 
@@ -12,7 +11,6 @@ A coffee connoisseur tries ultimate experiment...deep fried coffee. Jeanne Moos 
  - [https://www.cnn.com/2022/11/03/politics/doj-trump-investigation-expansion-special-counsel/index.html](https://www.cnn.com/2022/11/03/politics/doj-trump-investigation-expansion-special-counsel/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 23:01:55+00:00
- - tags: None
 
 As Donald Trump inches closer to launching another presidential run after the midterm election, Justice Department officials have discussed whether a Trump candidacy would create the need for a special counsel to oversee two sprawling federal investigations related to the former president, sources familiar with the matter tell CNN.
 
@@ -20,7 +18,6 @@ As Donald Trump inches closer to launching another presidential run after the mi
  - [https://www.cnn.com/videos/politics/2022/11/03/law-enforcement-voting-midterm-elections-griffin-sitroom-pkg-vpx.cnn](https://www.cnn.com/videos/politics/2022/11/03/law-enforcement-voting-midterm-elections-griffin-sitroom-pkg-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 22:54:31+00:00
- - tags: None
 
 When voters go to ballot dropboxes in Berks County, Pennsylvania, they're greeted by sheriff's deputies who question them. It's a new policy by the county that has civil rights organizations concerned -- but it's just one example of law enforcement becoming involved in elections across the country, in the name of "voter integrity." CNN'S Drew Griffin reports.
 
@@ -28,7 +25,6 @@ When voters go to ballot dropboxes in Berks County, Pennsylvania, they're greete
  - [https://www.cnn.com/2022/11/03/us/fbi-newark-threat-to-synagogues/index.html](https://www.cnn.com/2022/11/03/us/fbi-newark-threat-to-synagogues/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 22:53:42+00:00
- - tags: None
 
 The FBI in Newark, New Jersey, said Thursday afternoon it has received "credible information of a broad threat to synagogues" in the state, according to a tweet from the office.
 
@@ -36,7 +32,6 @@ The FBI in Newark, New Jersey, said Thursday afternoon it has received "credible
  - [https://www.cnn.com/2022/11/03/politics/elections-law-enforcement-conspiracy-theories-invs/index.html](https://www.cnn.com/2022/11/03/politics/elections-law-enforcement-conspiracy-theories-invs/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 22:30:26+00:00
- - tags: None
 
 Early voters dropping off ballots in Berks County, Pennsylvania, are confronted by a sight surprising for elections in the United States:  A pair of uniformed sheriff's deputies armed with guns and tasers guarding the ballot box.
 
@@ -44,7 +39,6 @@ Early voters dropping off ballots in Berks County, Pennsylvania, are confronted 
  - [https://edition.cnn.com/interactive/2022/10/politics/key-states-races-2022/](https://edition.cnn.com/interactive/2022/10/politics/key-states-races-2022/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 22:25:46.900415+00:00
- - tags: None
 
 
 
@@ -52,7 +46,6 @@ Early voters dropping off ballots in Berks County, Pennsylvania, are confronted 
  - [https://cnn.it/3FGfPrd](https://cnn.it/3FGfPrd)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 22:25:46.768033+00:00
- - tags: None
 
 
 
@@ -60,7 +53,6 @@ Early voters dropping off ballots in Berks County, Pennsylvania, are confronted 
  - [https://www.cnn.com/videos/world/2022/11/03/kherson-russian-military-presence-flag-ukraine-robertson-pkg-tsr-intl-vpx.cnn](https://www.cnn.com/videos/world/2022/11/03/kherson-russian-military-presence-flag-ukraine-robertson-pkg-tsr-intl-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 22:16:40+00:00
- - tags: None
 
 A Russian flag signifying a checkpoint has been removed from Kherson's main government building, leading the city's residents to celebrate. However, Ukrainian officials fear it could be a trick.
 
@@ -68,7 +60,6 @@ A Russian flag signifying a checkpoint has been removed from Kherson's main gove
  - [https://www.cnn.com/2022/11/03/politics/midterm-election-importance-what-matters/index.html](https://www.cnn.com/2022/11/03/politics/midterm-election-importance-what-matters/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 22:03:30+00:00
- - tags: None
 
 The heavy hitters of American politics are hitting the campaign trail to deliver some closing arguments about the importance of next Tuesday's election.
 
@@ -76,7 +67,6 @@ The heavy hitters of American politics are hitting the campaign trail to deliver
  - [https://www.cnn.com/collections/us-elections-intl-110322/](https://www.cnn.com/collections/us-elections-intl-110322/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 21:31:45+00:00
- - tags: None
 
 
 
@@ -84,7 +74,6 @@ The heavy hitters of American politics are hitting the campaign trail to deliver
  - [https://www.cnn.com/videos/business/2022/11/03/biden-election-speech-tucker-carlson-contd-orig-fj.cnn-business](https://www.cnn.com/videos/business/2022/11/03/biden-election-speech-tucker-carlson-contd-orig-fj.cnn-business)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 21:05:34+00:00
- - tags: None
 
 President Biden spoke about candidates denying election results in a speech right-wing media deemed hyper-political. CNN's senior media reporter Oliver Darcy discusses the rhetoric emanating from Tucker Carlson and others as these commentators encourage audiences to question election results that haven't been announced yet.
 
@@ -92,7 +81,6 @@ President Biden spoke about candidates denying election results in a speech righ
  - [https://www.cnn.com/videos/media/2022/11/03/jimmy-kimmel-halloween-candy-prank-cprog-orig-ht.cnn-business](https://www.cnn.com/videos/media/2022/11/03/jimmy-kimmel-halloween-candy-prank-cprog-orig-ht.cnn-business)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 20:39:00+00:00
- - tags: None
 
 Late night host Jimmy Kimmel brought back his controversial Halloween prank, where he encourages parents to tell their kids they ate all their Halloween candy and film the reactions.
 
@@ -100,7 +88,6 @@ Late night host Jimmy Kimmel brought back his controversial Halloween prank, whe
  - [https://www.cnn.com/2022/11/03/europe/french-mp-go-back-to-africa-intl/index.html](https://www.cnn.com/2022/11/03/europe/french-mp-go-back-to-africa-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 19:52:15+00:00
- - tags: None
 
 France's lower house of parliament suspended its session on Thursday after a far-right MP shouted, "Go back to Africa!" as a Black legislator from the far left asked a question about immigration.
 
@@ -108,7 +95,6 @@ France's lower house of parliament suspended its session on Thursday after a far
  - [https://www.cnn.com/videos/tv/2022/11/03/amanpour-portman-coons-ukraine.cnn](https://www.cnn.com/videos/tv/2022/11/03/amanpour-portman-coons-ukraine.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 19:05:46+00:00
- - tags: None
 
 Republican Rob Portman and Democrat Chris Coons are in Kyiv to show their solidarity. But polls show U.S. support slipping, particularly among Republicans.
 
@@ -116,7 +102,6 @@ Republican Rob Portman and Democrat Chris Coons are in Kyiv to show their solida
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-11-03-22/h_95b0921ebcaa5696e7af97842cc51e43](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-11-03-22/h_95b0921ebcaa5696e7af97842cc51e43)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 18:25:40.548133+00:00
- - tags: None
 
 
 
@@ -124,7 +109,6 @@ Republican Rob Portman and Democrat Chris Coons are in Kyiv to show their solida
  - [https://www.cnn.com/2022/11/03/world/tonga-eruption-plume-mesosphere-scn/index.html](https://www.cnn.com/2022/11/03/world/tonga-eruption-plume-mesosphere-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 18:03:26+00:00
- - tags: None
 
 When the Hunga Tonga-Hunga Ha'apai volcano erupted underwater in January, it created a plume of ash and water that broke through the third layer of Earth's atmosphere.
 
@@ -132,7 +116,6 @@ When the Hunga Tonga-Hunga Ha'apai volcano erupted underwater in January, it cre
  - [https://www.cnn.com/2022/11/03/africa/ethiopia-civil-war-truce-explainer-intl/index.html](https://www.cnn.com/2022/11/03/africa/ethiopia-civil-war-truce-explainer-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 17:22:36+00:00
- - tags: None
 
 When Ethiopian Prime Minister Abiy Ahmed received the Nobel Peace Prize in 2019, he was lauded as a regional peacemaker. A year later, he launched a conflict that spiraled into a brutal civil war, spawning one of the worst humanitarian crises in the world.
 
@@ -140,7 +123,6 @@ When Ethiopian Prime Minister Abiy Ahmed received the Nobel Peace Prize in 2019,
  - [https://www.cnn.com/2022/11/03/middleeast/israel-election-benjamin-netanyahu-intl/index.html](https://www.cnn.com/2022/11/03/middleeast/israel-election-benjamin-netanyahu-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 17:05:34+00:00
- - tags: None
 
 Israeli Prime Minister Yair Lapid called Benjamin Netanyahu to congratulate him on winning Israel's elections, the prime minister's office announced Thursday, just under 48 hours after polls closed.
 
@@ -148,7 +130,6 @@ Israeli Prime Minister Yair Lapid called Benjamin Netanyahu to congratulate him 
  - [https://www.cnn.com/2022/11/03/politics/oath-keepers-prosecution-rests/index.html](https://www.cnn.com/2022/11/03/politics/oath-keepers-prosecution-rests/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 16:35:48+00:00
- - tags: None
 
 Federal prosecutors rested their case on Thursday against five alleged leaders of the far-right  Oath Keepers militia group, ending the initial phase of the first seditious conspiracy trial in over a decade.
 
@@ -156,7 +137,6 @@ Federal prosecutors rested their case on Thursday against five alleged leaders o
  - [https://www.cnn.com/2022/11/03/entertainment/shelley-duvall-return-horror-movie-acting/index.html](https://www.cnn.com/2022/11/03/entertainment/shelley-duvall-return-horror-movie-acting/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 16:26:21+00:00
- - tags: None
 
 Shelley Duvall is returning to the big screen, 20 years after her last film role.
 
@@ -164,7 +144,6 @@ Shelley Duvall is returning to the big screen, 20 years after her last film role
  - [https://www.cnn.com/2022/11/03/economy/cnn-poll-economy-sentiment/index.html](https://www.cnn.com/2022/11/03/economy/cnn-poll-economy-sentiment/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 15:47:21+00:00
- - tags: None
 
 A new CNN poll shows that three-quarters of likely voters feel like the US economy is in a recession. It's probably not, but that's not the point.
 
@@ -172,7 +151,6 @@ A new CNN poll shows that three-quarters of likely voters feel like the US econo
  - [https://www.cnn.com/2022/11/03/opinions/rest-is-resistance-so-is-childlessness-stewart/index.html](https://www.cnn.com/2022/11/03/opinions/rest-is-resistance-so-is-childlessness-stewart/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 15:38:36+00:00
- - tags: None
 
 A bold manifesto is urging us to learn how to rest as an act of political and cultural self-preservation. "Rest is Resistance: A Manifesto," by Tricia Hersey (founder of The Nap Ministry), makes the important argument that "grind culture," a.k.a. our addiction to 24/7 busyness, is a product of White supremacy and dead-end capitalism.
 
@@ -180,7 +158,6 @@ A bold manifesto is urging us to learn how to rest as an act of political and cu
  - [https://www.cnn.com/2022/11/03/health/activist-patriotism-history-dolly-chugh-wellness/index.html](https://www.cnn.com/2022/11/03/health/activist-patriotism-history-dolly-chugh-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 15:30:26+00:00
- - tags: None
 
 Decades before George Takei became Mr. Sulu on the original "Star Trek" series, he was imprisoned for a crime he never committed.
 
@@ -188,7 +165,6 @@ Decades before George Takei became Mr. Sulu on the original "Star Trek" series, 
  - [https://www.cnn.com/2022/11/03/entertainment/selena-gomez-documentary-body-image/index.html](https://www.cnn.com/2022/11/03/entertainment/selena-gomez-documentary-body-image/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 15:12:35+00:00
- - tags: None
 
 Selena Gomez says her new documentary, "Selena Gomez: My Mind & Me," has shifted her view on her body image.
 
@@ -196,7 +172,6 @@ Selena Gomez says her new documentary, "Selena Gomez: My Mind & Me," has shifted
  - [https://www.cnn.com/2022/11/03/us/affirmative-action-asian-americans-qa-cec/index.html](https://www.cnn.com/2022/11/03/us/affirmative-action-asian-americans-qa-cec/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 15:01:52+00:00
- - tags: None
 
 Affirmative action is on trial again, and this time Asian Americans are at the center.
 
@@ -204,7 +179,6 @@ Affirmative action is on trial again, and this time Asian Americans are at the c
  - [https://www.cnn.com/2022/11/03/football/rico-lewis-manchester-city-champions-league-spt-intl/index.html](https://www.cnn.com/2022/11/03/football/rico-lewis-manchester-city-champions-league-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 14:58:16+00:00
- - tags: None
 
 It was a night to remember for Rico Lewis as the 17-year-old scored on his full debut to inspire Manchester City's comeback 3-1 victory over Sevilla.
 
@@ -212,7 +186,6 @@ It was a night to remember for Rico Lewis as the 17-year-old scored on his full 
  - [https://www.cnn.com/2022/11/03/business/national-sandwich-day-deals/index.html](https://www.cnn.com/2022/11/03/business/national-sandwich-day-deals/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 14:53:19+00:00
- - tags: None
 
 Who can resist a sandwich — especially if it's free?
 
@@ -220,7 +193,6 @@ Who can resist a sandwich — especially if it's free?
  - [https://www.cnn.com/2022/11/03/entertainment/ina-garten-jeffrey-texts/index.html](https://www.cnn.com/2022/11/03/entertainment/ina-garten-jeffrey-texts/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 14:37:50+00:00
- - tags: None
 
 It sounds like things are still hot in the kitchen with Ina Garten and her husband of more than 50 years.
 
@@ -228,7 +200,6 @@ It sounds like things are still hot in the kitchen with Ina Garten and her husba
  - [https://www.cnn.com/travel/article/climate-change-airplane-takeoff-scn/index.html](https://www.cnn.com/travel/article/climate-change-airplane-takeoff-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 14:31:25+00:00
- - tags: None
 
 Our planet's rising temperatures are making it harder for planes to take off at certain airports, presenting yet another challenge to civil aviation. And as heatwaves become more frequent, the problem could extend to more flights, forcing airlines to leave passengers on the ground.
 
@@ -236,7 +207,6 @@ Our planet's rising temperatures are making it harder for planes to take off at 
  - [https://www.cnn.com/2022/11/03/tech/tiktok-european-data-china-staff/index.html](https://www.cnn.com/2022/11/03/tech/tiktok-european-data-china-staff/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 14:13:29+00:00
- - tags: None
 
 TikTok updated its privacy policies for European users on Tuesday, adding explicit disclosures that personal data from the app may be viewed by employees in China.
 
@@ -244,7 +214,6 @@ TikTok updated its privacy policies for European users on Tuesday, adding explic
  - [https://www.cnn.com/2022/11/03/middleeast/iran-protests-arrests-united-nations-intl/index.html](https://www.cnn.com/2022/11/03/middleeast/iran-protests-arrests-united-nations-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 14:02:50+00:00
- - tags: None
 
 As many as 14,000 people have been arrested in Iran during protests there since September, according to a top United Nations official.
 
@@ -252,7 +221,6 @@ As many as 14,000 people have been arrested in Iran during protests there since 
  - [https://www.cnn.com/2022/11/03/sport/sam-shields-nfl-concussion-spt-intl/index.html](https://www.cnn.com/2022/11/03/sport/sam-shields-nfl-concussion-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 13:58:52+00:00
- - tags: None
 
 Former Green Bay Packers cornerback Sam Shields has said he regrets playing in the NFL, pointing to the effects concussions and head injuries had on his career and his later life.
 
@@ -260,7 +228,6 @@ Former Green Bay Packers cornerback Sam Shields has said he regrets playing in t
  - [https://www.cnn.com/2022/11/03/entertainment/takeoff-autopsy-offset/index.html](https://www.cnn.com/2022/11/03/entertainment/takeoff-autopsy-offset/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 13:42:41+00:00
- - tags: None
 
 New details regarding the death of Takeoff have been revealed as the artist continues to be mourned.
 
@@ -268,7 +235,6 @@ New details regarding the death of Takeoff have been revealed as the artist cont
  - [https://www.cnn.com/2022/11/03/politics/hillary-clinton-crime-cnntv/index.html](https://www.cnn.com/2022/11/03/politics/hillary-clinton-crime-cnntv/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 13:40:22+00:00
- - tags: None
 
 Former Secretary of State Hillary Clinton on Thursday said the Republican focus on crime ahead of the 2022 midterm elections was clear hypocrisy, telling CNN's Don Lemon that the party is not "concerned about voter safety, they just want to keep voters scared."
 
@@ -276,7 +242,6 @@ Former Secretary of State Hillary Clinton on Thursday said the Republican focus 
  - [https://www.cnn.com/videos/politics/2022/11/03/hillary-clinton-intv-messaging-gop-crime-sot-cnntm-vpx.cnn](https://www.cnn.com/videos/politics/2022/11/03/hillary-clinton-intv-messaging-gop-crime-sot-cnntm-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 13:39:09+00:00
- - tags: None
 
 Hillary Clinton talks with CNN's Don Lemon about campaign messaging ahead of the midterms and says that Republicans are trying to "scare voters" over crime.
 
@@ -284,7 +249,6 @@ Hillary Clinton talks with CNN's Don Lemon about campaign messaging ahead of the
  - [https://www.cnn.com/2022/11/03/media/netflix-with-ads-launch/index.html](https://www.cnn.com/2022/11/03/media/netflix-with-ads-launch/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 13:38:30+00:00
- - tags: None
 
 In 2019, Netflix said in a letter to shareholders "we... are advertising free," and added that being commercial-free is a "deep part of our brand proposition."
 
@@ -292,7 +256,6 @@ In 2019, Netflix said in a letter to shareholders "we... are advertising free," 
  - [https://www.cnn.com/travel/article/first-class-airplane-cabins-high-wall-suites/index.html](https://www.cnn.com/travel/article/first-class-airplane-cabins-high-wall-suites/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 13:29:36+00:00
- - tags: None
 
 With airlines seeking to use the floor space footprint of their first-class suites as efficiently as possible, the latest developments in making these ultraswanky experiences even more luxurious aren't about adding more width or length to the suites.
 
@@ -300,7 +263,6 @@ With airlines seeking to use the floor space footprint of their first-class suit
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-11-03-22/h_65ab50b7b2cb11e7dab56dd7c246e087](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-11-03-22/h_65ab50b7b2cb11e7dab56dd7c246e087)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 13:25:33.299353+00:00
- - tags: None
 
 
 
@@ -308,7 +270,6 @@ With airlines seeking to use the floor space footprint of their first-class suit
  - [https://www.cnn.com/2022/11/03/entertainment/enola-holmes-2-review/index.html](https://www.cnn.com/2022/11/03/entertainment/enola-holmes-2-review/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 13:14:03+00:00
- - tags: None
 
 The game is afoot (again) in "Enola Holmes 2," a wonderful showcase for Millie Bobby Brown that this time manages to work the character's famous brother, Sherlock, more organically into the mix. Throw in fact-based underpinnings about horrid working conditions during the time and you have the makings for a very polished sequel -- one that makes the whole thing look elementary, and a whole lot of fun.
 
@@ -316,7 +277,6 @@ The game is afoot (again) in "Enola Holmes 2," a wonderful showcase for Millie B
  - [https://www.cnn.com/videos/politics/2022/11/02/kari-lake-arizona-election-voter-questions-contd-orig-vf.cnn](https://www.cnn.com/videos/politics/2022/11/02/kari-lake-arizona-election-voter-questions-contd-orig-vf.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 12:57:05+00:00
- - tags: None
 
 Misinformation about voting has grown rampant in the last two years and confidence in elections has fallen. CNN asked an election official in the key swing state of Arizona to respond directly to questions from voters at recent events for Arizona Republican Gubernatorial nominee Kari Lake.
 
@@ -324,7 +284,6 @@ Misinformation about voting has grown rampant in the last two years and confiden
  - [https://www.cnn.com/2022/11/03/world/cnn-heroes-top-10-2022/index.html](https://www.cnn.com/2022/11/03/world/cnn-heroes-top-10-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 12:56:10+00:00
- - tags: None
 
 The smallest acts of kindness can have the biggest impact on the world, and these 10 men and women are shining examples of that.
 
@@ -332,7 +291,6 @@ The smallest acts of kindness can have the biggest impact on the world, and thes
  - [https://www.cnn.com/2022/11/03/asia/imran-khan-pakistan-rally-intl/index.html](https://www.cnn.com/2022/11/03/asia/imran-khan-pakistan-rally-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 12:49:29+00:00
- - tags: None
 
 Gunshots were fired Thursday at a rally held by Pakistan's ex-Prime Minister Imran Khan in Gujranwallah, Pakistan, according to a spokesperson for Khan's PTI party.
 
@@ -340,7 +298,6 @@ Gunshots were fired Thursday at a rally held by Pakistan's ex-Prime Minister Imr
  - [https://www.cnn.com/2022/11/03/us/home-appraisal-inequity-study-reaj/index.html](https://www.cnn.com/2022/11/03/us/home-appraisal-inequity-study-reaj/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 12:47:55+00:00
- - tags: None
 
 Homes in predominately White neighborhoods are being assessed at twice the value of homes in communities of color with comparable amenities, according to a new report released Wednesday.
 
@@ -348,7 +305,6 @@ Homes in predominately White neighborhoods are being assessed at twice the value
  - [https://www.cnn.com/videos/world/2022/11/03/imran-khan-rally-shots-nr-intl-ldn-vpx.cnn](https://www.cnn.com/videos/world/2022/11/03/imran-khan-rally-shots-nr-intl-ldn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 12:47:37+00:00
- - tags: None
 
 A livestream captured footage from a rally outside the town of Gujranwallah, Pakistan, where former Prime Minister Imran Khan was shot. CNN's Sophia Saifi reports.
 
@@ -356,7 +312,6 @@ A livestream captured footage from a rally outside the town of Gujranwallah, Pak
  - [https://www.cnn.com/videos/travel/2022/11/02/best-kolaches-texas-czech-stop-geriks-cprog-orig.cnn](https://www.cnn.com/videos/travel/2022/11/02/best-kolaches-texas-czech-stop-geriks-cprog-orig.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 12:46:38+00:00
- - tags: None
 
 They don't sound like your typical Texan delicacy, but thanks to Czech immigrants, kolaches hold a special place in the heart of hungry Texans.
 
@@ -364,7 +319,6 @@ They don't sound like your typical Texan delicacy, but thanks to Czech immigrant
  - [https://www.cnn.com/2022/11/03/tennis/rafael-nadal-tommy-paul-paris-intl-spt/index.html](https://www.cnn.com/2022/11/03/tennis/rafael-nadal-tommy-paul-paris-intl-spt/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 12:27:57+00:00
- - tags: None
 
 Rafael Nadal is out of the Paris Masters after being defeated by Tommy Paul -- and the Spaniard isn't betting on winning the ATP Tour Finals, either.
 
@@ -372,7 +326,6 @@ Rafael Nadal is out of the Paris Masters after being defeated by Tommy Paul -- a
  - [https://www.cnn.com/videos/health/2022/11/03/psychedelic-magic-mushrooms-depression-study-gupta-cnntm-contd-vpx.cnn](https://www.cnn.com/videos/health/2022/11/03/psychedelic-magic-mushrooms-depression-study-gupta-cnntm-contd-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 12:05:15+00:00
- - tags: None
 
 A single dose of a synthetic version of the mind-altering component of magic mushrooms, psilocybin, improved depression in people with a treatment-resistant form of the disease, a new study found. CNN's Dr. Sanjay Gupta reports.
 
@@ -380,7 +333,6 @@ A single dose of a synthetic version of the mind-altering component of magic mus
  - [https://www.cnn.com/2022/11/03/economy/bank-of-england-interest-rates/index.html](https://www.cnn.com/2022/11/03/economy/bank-of-england-interest-rates/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 12:02:22+00:00
- - tags: None
 
 The Bank of England raised interest rates by three quarters of a percentage point on Thursday, the biggest hike in 33 years, as it tries to contain soaring inflation even as the UK economy slides towards recession.
 
@@ -388,7 +340,6 @@ The Bank of England raised interest rates by three quarters of a percentage poin
  - [https://www.cnn.com/2022/11/03/politics/david-depape-paul-pelosi-attack/index.html](https://www.cnn.com/2022/11/03/politics/david-depape-paul-pelosi-attack/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 12:00:31+00:00
- - tags: None
 
 David DePape, the man accused of violently attacking Paul Pelosi last week, was in the United States illegally and may face deportation, the Department of Homeland Security said late Wednesday.
 
@@ -396,7 +347,6 @@ David DePape, the man accused of violently attacking Paul Pelosi last week, was 
  - [https://www.cnn.com/2022/11/03/opinions/fixing-problems-public-schools-culture-wars-roundup/index.html](https://www.cnn.com/2022/11/03/opinions/fixing-problems-public-schools-culture-wars-roundup/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 11:48:22+00:00
- - tags: None
 
 There are many problems roiling America's public schools, including culture wars that have found their way into the classroom, school libraries and school board meetings over the past several months. But some challenges are more endemic, the product of decades of low pay and lack of appreciation for the service that administrators and teachers perform. CNN Opinion gathered the views of nine experts in the field of education about the problems they feel should be most urgently addressed in the classroom -- and what solutions might be viable in our tumultuous political times.
 
@@ -404,7 +354,6 @@ There are many problems roiling America's public schools, including culture wars
  - [https://www.cnn.com/2022/11/03/politics/hillary-clinton-new-york-governor-hochul-2022-midterms/index.html](https://www.cnn.com/2022/11/03/politics/hillary-clinton-new-york-governor-hochul-2022-midterms/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 11:00:49+00:00
- - tags: None
 
 When Hillary Clinton takes the stage on Thursday in New York City to boost Democrats in her deep blue adopted home, it will be an unfamiliar scene for someone who was the party's presidential standard bearer just six years ago.
 
@@ -412,7 +361,6 @@ When Hillary Clinton takes the stage on Thursday in New York City to boost Democ
  - [https://www.cnn.com/2022/11/03/sport/luka-doncic-30-point-record-mavericks-spt-intl/index.html](https://www.cnn.com/2022/11/03/sport/luka-doncic-30-point-record-mavericks-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 10:56:22+00:00
- - tags: None
 
 Luka Doncic continued his scorching start to the 2022-23 NBA season and matched a record which only two NBA Hall of Famers have recorded.
 
@@ -420,7 +368,6 @@ Luka Doncic continued his scorching start to the 2022-23 NBA season and matched 
  - [https://www.cnn.com/2022/11/03/football/son-heung-min-south-korea-world-cup-injury-spt-intl/index.html](https://www.cnn.com/2022/11/03/football/son-heung-min-south-korea-world-cup-injury-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 10:18:52+00:00
- - tags: None
 
 Son Heung-Min's hopes of playing at the World Cup later this month are in doubt after Tottenham confirmed the South Korean star will need surgery on a fracture around his left eye.
 
@@ -428,7 +375,6 @@ Son Heung-Min's hopes of playing at the World Cup later this month are in doubt 
  - [https://www.cnn.com/2022/11/03/sport/kyrie-irving-brooklyn-nets-antisemitism-donation-spt-intl/index.html](https://www.cnn.com/2022/11/03/sport/kyrie-irving-brooklyn-nets-antisemitism-donation-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 10:05:12+00:00
- - tags: None
 
 Kyrie Irving and the Brooklyn Nets announced on Wednesday that they will both donate $500,000 towards anti-hate organizations after the point guard tweeted a documentary deemed to be antisemitic last week.
 
@@ -436,7 +382,6 @@ Kyrie Irving and the Brooklyn Nets announced on Wednesday that they will both do
  - [https://www.cnn.com/2022/11/03/politics/senate-race-rankings-november-elections/index.html](https://www.cnn.com/2022/11/03/politics/senate-race-rankings-november-elections/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 10:00:07+00:00
- - tags: None
 
 The race for the House is tilting strongly toward the GOP, but the struggle for Senate control is still very much a slog that could go either way, even as late-breaking national winds favor the party out of power.
 
@@ -444,7 +389,6 @@ The race for the House is tilting strongly toward the GOP, but the struggle for 
  - [https://www.cnn.com/2022/11/03/sport/gotytom-gebreslase-ethiopia-nyc-marathon-spt-intl/index.html](https://www.cnn.com/2022/11/03/sport/gotytom-gebreslase-ethiopia-nyc-marathon-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 09:49:09+00:00
- - tags: None
 
 It's almost a year since marathon runner Gotytom Gebreslase last spoke to her parents over the phone, a detachment she feels most strongly during races.
 
@@ -452,7 +396,6 @@ It's almost a year since marathon runner Gotytom Gebreslase last spoke to her pa
  - [https://www.cnn.com/2022/11/03/economy/jobs-report-october-midterms/index.html](https://www.cnn.com/2022/11/03/economy/jobs-report-october-midterms/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 09:43:46+00:00
- - tags: None
 
 When the Bureau of Labor Statistics releases its October jobs report on Friday, it will be the last major read of the economy before the midterm elections — and it will cap a week of new data signaling that the white-hot labor market is showing only tentative signs of cooling off.
 
@@ -460,7 +403,6 @@ When the Bureau of Labor Statistics releases its October jobs report on Friday, 
  - [https://www.cnn.com/videos/travel/2022/11/02/clocks-daylight-saving-time-cprog-lon-orig-cb.cnn](https://www.cnn.com/videos/travel/2022/11/02/clocks-daylight-saving-time-cprog-lon-orig-cb.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 09:26:16+00:00
- - tags: None
 
 From the Great Clock of Westminster to antique timepieces - when British Summertime ended and the clocks fell back one hour, a small team of clockmakers adjusted 2,000 clocks across the Palace of Westminster to keep British lawmakers working on time.
 
@@ -468,7 +410,6 @@ From the Great Clock of Westminster to antique timepieces - when British Summert
  - [https://www.cnn.com/2022/11/03/china/china-covid-lanzhou-child-death-outrage-intl-hnk/index.html](https://www.cnn.com/2022/11/03/china/china-covid-lanzhou-child-death-outrage-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 08:53:14+00:00
- - tags: None
 
 The death of a 3-year-old boy following a suspected gas leak at a locked down residential compound in northwestern China has triggered a fresh wave of outrage at the country's stringent zero-Covid policy.
 
@@ -476,7 +417,6 @@ The death of a 3-year-old boy following a suspected gas leak at a locked down re
  - [https://www.cnn.com/videos/world/2022/11/03/ukrainian-investigators-russian-war-crimes-sexual-violence-ward-pkg-tapperctn-vpx-contd.cnn](https://www.cnn.com/videos/world/2022/11/03/ukrainian-investigators-russian-war-crimes-sexual-violence-ward-pkg-tapperctn-vpx-contd.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 08:44:35+00:00
- - tags: None
 
 CNN's Clarissa Ward joins a team of Ukrainian investigators looking for evidence of war crimes -- specifically rape and other acts of sexual violence -- at the hands of Russian soldiers.
 
@@ -484,7 +424,6 @@ CNN's Clarissa Ward joins a team of Ukrainian investigators looking for evidence
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-11-03-22/index.html](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-11-03-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 08:02:28.117456+00:00
- - tags: None
 
 
 
@@ -492,7 +431,6 @@ CNN's Clarissa Ward joins a team of Ukrainian investigators looking for evidence
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-11-03-22/index.html](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-11-03-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 08:02:27.997119+00:00
- - tags: None
 
 
 
@@ -500,7 +438,6 @@ CNN's Clarissa Ward joins a team of Ukrainian investigators looking for evidence
  - [https://www.cnn.com/2022/11/03/us/louisiana-plaquemines-parish-drinking-water-advisory/index.html](https://www.cnn.com/2022/11/03/us/louisiana-plaquemines-parish-drinking-water-advisory/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 07:58:07+00:00
- - tags: None
 
 About 3,000 residents in a Louisiana community south of New Orleans have been warned saltwater permeated their drinking water supply, posing a threat to residents with health risks.
 
@@ -508,7 +445,6 @@ About 3,000 residents in a Louisiana community south of New Orleans have been wa
  - [https://www.cnn.com/style/article/vermeer-protest-just-add-oil-belgium-hague-prison/index.html](https://www.cnn.com/style/article/vermeer-protest-just-add-oil-belgium-hague-prison/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 07:44:07+00:00
- - tags: None
 
 A Dutch court sent two Belgian climate change activists to prison Wednesday for a protest targeting Johannes Vermeer's painting "Girl with a Pearl Earring."
 
@@ -516,7 +452,6 @@ A Dutch court sent two Belgian climate change activists to prison Wednesday for 
  - [https://www.cnn.com/videos/world/2022/11/03/russian-strike-kyiv-hospital-water-supply-abdelaziz-pkg-ovn-intl-contd.cnn](https://www.cnn.com/videos/world/2022/11/03/russian-strike-kyiv-hospital-water-supply-abdelaziz-pkg-ovn-intl-contd.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 07:27:17+00:00
- - tags: None
 
 CNN's Salma Abdelaziz reports from a Kyiv hospital that was left struggling without running water after Russian missiles plunged Ukraine's capital into darkness.
 
@@ -524,7 +459,6 @@ CNN's Salma Abdelaziz reports from a Kyiv hospital that was left struggling with
  - [https://www.cnn.com/2022/11/03/asia/seoul-halloween-friends-missing-intl-hnk-dst/index.html](https://www.cnn.com/2022/11/03/asia/seoul-halloween-friends-missing-intl-hnk-dst/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 04:31:26+00:00
- - tags: None
 
 • Halloween crush investigators raid police stations across Seoul
 
@@ -532,7 +466,6 @@ CNN's Salma Abdelaziz reports from a Kyiv hospital that was left struggling with
  - [https://edition.cnn.com/webview/world/live-news/call-to-earth-day-2022-c2e-spc-intl/index.html](https://edition.cnn.com/webview/world/live-news/call-to-earth-day-2022-c2e-spc-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 04:02:23.813822+00:00
- - tags: None
 
 
 
@@ -540,7 +473,6 @@ CNN's Salma Abdelaziz reports from a Kyiv hospital that was left struggling with
  - [https://www.cnn.com/2022/11/02/sport/astros-phillies-no-hitter-game-4-world-series-spt/index.html](https://www.cnn.com/2022/11/02/sport/astros-phillies-no-hitter-game-4-world-series-spt/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 03:47:26+00:00
- - tags: None
 
 For just the second time in World Series history, a no-hitter has been thrown as four Houston Astros pitchers completed the feat against the Philadelphia Phillies Wednesday night to win 5-0 and secure their place in baseball lore.
 
@@ -548,7 +480,6 @@ For just the second time in World Series history, a no-hitter has been thrown as
  - [https://www.cnn.com/2022/11/02/europe/russia-ukraine-kherson-sexual-violence-intl/index.html](https://www.cnn.com/2022/11/02/europe/russia-ukraine-kherson-sexual-violence-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 03:33:25+00:00
- - tags: None
 
 • Russian military discussed nuclear weapons: US intel
 • Live: The latest on Russia's war in Ukraine
@@ -557,7 +488,6 @@ For just the second time in World Series history, a no-hitter has been thrown as
  - [https://www.cnn.com/videos/us/2022/11/03/paramotor-rescue-woman-car-canal-miami-orig-jk.cnn](https://www.cnn.com/videos/us/2022/11/03/paramotor-rescue-woman-car-canal-miami-orig-jk.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 03:17:57+00:00
- - tags: None
 
 While paramotoring -- a form of flying with a small engine and a paraglider -- a Miami man spotted a woman clinging to her car submerged in a canal.
 
@@ -565,7 +495,6 @@ While paramotoring -- a form of flying with a small engine and a paraglider -- a
  - [https://www.cnn.com/videos/politics/2022/11/03/kari-lake-denies-paul-pelosi-comments-dale-cooper-kth-ac360-vpx.cnn](https://www.cnn.com/videos/politics/2022/11/03/kari-lake-denies-paul-pelosi-comments-dale-cooper-kth-ac360-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 03:06:03+00:00
- - tags: None
 
 CNN's Anderson Cooper and Daniel Dale discuss Arizona Republican gubernatorial nominee Kari Lake's recent comments denying that she made light of the attack of Paul Pelosi. Lake is blaming "creative editing" from the "fake news media," which is false.
 
@@ -573,7 +502,6 @@ CNN's Anderson Cooper and Daniel Dale discuss Arizona Republican gubernatorial n
  - [https://www.cnn.com/collections/intl-0311-earth-day/](https://www.cnn.com/collections/intl-0311-earth-day/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 03:02:52+00:00
- - tags: None
 
 
 
@@ -581,7 +509,6 @@ CNN's Anderson Cooper and Daniel Dale discuss Arizona Republican gubernatorial n
  - [https://www.cnn.com/videos/world/2022/11/03/jake-tapper-monologue-ukraine-russia-tapperctn-vpx.cnn](https://www.cnn.com/videos/world/2022/11/03/jake-tapper-monologue-ukraine-russia-tapperctn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 01:24:41+00:00
- - tags: None
 
 CNN's Jake Tapper sheds light on the Wagner Group, a private Russian mercenary group that has largely operated in the shadows.
 
@@ -589,7 +516,6 @@ CNN's Jake Tapper sheds light on the Wagner Group, a private Russian mercenary g
  - [https://www.cnn.com/2022/11/02/world/shalise-leesfield-fish-rock-c2e-spc-intl-scn/index.html](https://www.cnn.com/2022/11/02/world/shalise-leesfield-fish-rock-c2e-spc-intl-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 01:08:27+00:00
- - tags: None
 
 With a menacing grin, needle-like teeth, and a sharp pointed snout, a gray nurse shark isn't a creature that most people would want to encounter. But Shalise Leesfield isn't most people.
 
@@ -597,7 +523,6 @@ With a menacing grin, needle-like teeth, and a sharp pointed snout, a gray nurse
  - [https://biztoc.com/p/i5rwj8pq?ref=rss&rd=1](https://biztoc.com/p/i5rwj8pq?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 00:51:00+00:00
- - tags: None
 
 Nikolas Cruz, who murdered 17 students and staff with a semi-automatic rifle at a Florida high school, was formally sentenced to life in prison on Wednesday after listening to hours of anguished... <br /><br /> #survivors #highschool #prison #rifle #victims #florida #nikolascruz #schoolmassshooter #relatives
 
@@ -605,7 +530,6 @@ Nikolas Cruz, who murdered 17 students and staff with a semi-automatic rifle at 
  - [https://www.cnn.com/2022/11/02/asia/north-korea-missile-thursday-intl-hnk/index.html](https://www.cnn.com/2022/11/02/asia/north-korea-missile-thursday-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 00:21:18+00:00
- - tags: None
 
 • First on CNN: US accuses North Korea of hiding ammo shipments to Russia
 
@@ -613,7 +537,6 @@ Nikolas Cruz, who murdered 17 students and staff with a semi-automatic rifle at 
  - [https://biztoc.com/p/4gaj9pvc?ref=rss&rd=1](https://biztoc.com/p/4gaj9pvc?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 00:21:00+00:00
- - tags: None
 
 The future is bright for Future when it comes to his real estate portfolio ... because he just dropped 10 figures on an island paradise.
     Real estate sources tell TMZ ... the "Mask Off" rapper... <br /><br /> #rapper #allisonisland #mansion #miamibeach #realestatesources #tmz #miami #islandparadise #maskoff
@@ -622,7 +545,6 @@ The future is bright for Future when it comes to his real estate portfolio ... b
  - [https://biztoc.com/p/386nh238?ref=rss&rd=1](https://biztoc.com/p/386nh238?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 00:21:00+00:00
- - tags: None
 
 North Korea fired at least one unidentified ballistic missile on Thursday local time, according to South Korea's Joint Chiefs of Staff , who said it landed in waters off the east of the peninsula. <br /><br /> #northkorean #jointchiefsofstaff #east #peninsula #missilelaunch
 
@@ -630,6 +552,5 @@ North Korea fired at least one unidentified ballistic missile on Thursday local 
  - [https://www.cnn.com/2022/11/02/politics/biden-speech-democracy-dc/index.html](https://www.cnn.com/2022/11/02/politics/biden-speech-democracy-dc/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-03 00:11:35+00:00
- - tags: None
 
 President Joe Biden on Wednesday delivered a warning that American democracy is under assault from election deniers who are running for office at all levels as he tries to make defending democracy a top issue in next week's midterm elections.

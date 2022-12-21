@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Elon Musk just decided to bring the worst people on the internet back to Twitter
  - [https://www.theverge.com/2022/11/24/23476655/elon-musk-general-amnesty-mass-unban-twitter](https://www.theverge.com/2022/11/24/23476655/elon-musk-general-amnesty-mass-unban-twitter)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-24 20:32:13+00:00
- - tags: None
 
 <figure>
       <img alt="Smoke rises from burning rubbish at Dandora Dumping Site..." src="https://cdn.vox-cdn.com/thumbor/nWLdrE9T6Kg2rO1AKmeJg4hAjac=/0x0:5000x3333/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71671088/1243927683.0.jpg" />
@@ -21,7 +20,6 @@
  - [https://www.theverge.com/2022/11/24/23476821/what-is-tiktok-dabloons-meme-rpg-game-trend](https://www.theverge.com/2022/11/24/23476821/what-is-tiktok-dabloons-meme-rpg-game-trend)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-24 18:08:50+00:00
- - tags: None
 
 <figure>
       <img alt="A pixelart cat merchent in the woodlands. He has a sword on his back and potions or a chicken leg to sell. He is asking for a dabloon." src="https://cdn.vox-cdn.com/thumbor/BQdplPV8YUghQogsmIKEVoMcF8I=/100x0:3100x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71670840/Dabloon_cat_merchant_The_Verge.0.png" />
@@ -45,7 +43,6 @@
  - [https://www.theverge.com/23475851/black-friday-2022-phone-deals-cyber-monday-apple-iphone-samsung-google-motorola](https://www.theverge.com/23475851/black-friday-2022-phone-deals-cyber-monday-apple-iphone-samsung-google-motorola)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-24 17:53:01+00:00
- - tags: None
 
 <figure>
       <img alt="A hand holding the Hazel colored Pixel 7 Pro" src="https://cdn.vox-cdn.com/thumbor/esdCwxM6ZVteu2oXHfst3N_SpRI=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71670790/226337_Pixel_7_and_7_Pro_AKrales_0370.0.jpg" />
@@ -67,7 +64,6 @@
  - [https://www.theverge.com/2022/11/24/23475707/jwst-exoplanet-wasp-39b-atmosphere-details](https://www.theverge.com/2022/11/24/23475707/jwst-exoplanet-wasp-39b-atmosphere-details)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-24 17:30:00+00:00
- - tags: None
 
 <figure>
       <img alt="A large, pale gas giant sits to the right of a small yellow star." src="https://cdn.vox-cdn.com/thumbor/8k81IDg66wdptW-HGBKomPv8edI=/300x0:3540x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71670731/STScI_01GJ3Q3PRF2VG9DNG7J5YX1N44.0.jpeg" />
@@ -84,7 +80,6 @@
  - [https://www.theverge.com/23475599/black-friday-deals-gift-ideas-cyber-monday-holiday-shopping](https://www.theverge.com/23475599/black-friday-deals-gift-ideas-cyber-monday-holiday-shopping)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-24 17:25:01+00:00
- - tags: None
 
 <figure>
       <img alt="A photo of LG’s 65-inch C2 OLED displaying its home screen." src="https://cdn.vox-cdn.com/thumbor/ZHINxkSzTingPKb08XsawGOQCYk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71670719/209877FC_E1ED_499D_94D8_0CD833D167B6.0.jpeg" />
@@ -102,7 +97,6 @@
  - [https://www.theverge.com/2022/11/24/23472969/star-wars-squadrons-free-epic-games-store](https://www.theverge.com/2022/11/24/23472969/star-wars-squadrons-free-epic-games-store)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-24 16:06:23+00:00
- - tags: None
 
 <figure>
       <img alt="A TIE fighter surrounded by lasers and explosions." src="https://cdn.vox-cdn.com/thumbor/bPzqS0GKLg44USQWaBvLn7ecrbo=/227x0:1454x818/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71670484/sws_media_screenshot_all_wings.jpg.adapt.crop16x9.818p.0.jpg" />
@@ -121,7 +115,6 @@
  - [https://www.theverge.com/23466811/pokemon-scarlet-violet-eating-klawf-toedscool-food](https://www.theverge.com/23466811/pokemon-scarlet-violet-eating-klawf-toedscool-food)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-24 16:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="A pokémon trainer sitting in a cave and eating a sandwich with a dragon that looks like a futuristic motorcycle." src="https://cdn.vox-cdn.com/thumbor/_ixi0brNqGM4HzTovaoRCyCtEPU=/100x0:1180x720/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71670432/Image_from_iOS__13_.0.jpg" />
@@ -138,7 +131,6 @@
  - [https://www.theverge.com/23475433/black-friday-2022-smart-home-tech-deals-cyber-monday](https://www.theverge.com/23475433/black-friday-2022-smart-home-tech-deals-cyber-monday)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-24 15:58:01+00:00
- - tags: None
 
 <figure>
       <img alt="A robot vacuum on a wood floor." src="https://cdn.vox-cdn.com/thumbor/0UcDkv26fgY_IwEVM6Wg_8pv1U0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71670417/jtuohy_220224_5047_0010_straightened.0.jpg" />
@@ -156,7 +148,6 @@
  - [https://www.theverge.com/2022/11/24/23476746/sony-battlefield-roast-microsoft-activision-blizzard-acquisition-competition-markets-authority](https://www.theverge.com/2022/11/24/23476746/sony-battlefield-roast-microsoft-activision-blizzard-acquisition-competition-markets-authority)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-24 15:36:25+00:00
- - tags: None
 
 <figure>
       <img alt="A promotional image for Battlefield V." src="https://cdn.vox-cdn.com/thumbor/bQCucNxEKoZAVBgjUXSoCZGh_EE=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71670374/bfv_standard_16x9.0.png" />
@@ -174,7 +165,6 @@
  - [https://www.theverge.com/2022/11/24/23471507/nintendo-games-party-thanksgiving-holiday-break](https://www.theverge.com/2022/11/24/23471507/nintendo-games-party-thanksgiving-holiday-break)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-24 15:30:00+00:00
- - tags: None
 
 <figure>
       <img alt="An illustration of a gamer turkey wearing big headphones." src="https://cdn.vox-cdn.com/thumbor/R99fJ4xw3-p0-CAleFkFfI6wqFA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71670347/226421_thanksgiving_games_wjoel_1.0.jpg" />
@@ -191,7 +181,6 @@
  - [https://www.theverge.com/2022/11/24/23476622/ai-image-generator-stable-diffusion-version-2-nsfw-artists-data-changes](https://www.theverge.com/2022/11/24/23476622/ai-image-generator-stable-diffusion-version-2-nsfw-artists-data-changes)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-24 15:17:03+00:00
- - tags: None
 
 <figure>
       <img alt="An AI-generated image of a person in a spacesuit crouching next to a puddle and a group of ducks. " src="https://cdn.vox-cdn.com/thumbor/XZUfxOPUbZ7B8ctVGqo4V9B6NkM=/0x244:750x744/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71670325/Screenshot_2022_11_24_at_14.39.19.0.png" />
@@ -208,7 +197,6 @@
  - [https://www.theverge.com/23462322/onyx-boox-leaf-2-ebook-reader-review-android](https://www.theverge.com/23462322/onyx-boox-leaf-2-ebook-reader-review-android)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-24 15:00:00+00:00
- - tags: None
 
 <p>An Android E Ink tablet isn’t for people looking for a smooth and seamless experience, but if you’re reading across a wide variety of apps, its flexibility is unparalleled.</p>
   <p>
@@ -219,7 +207,6 @@
  - [https://www.theverge.com/2022/11/24/23476654/black-friday-early-days-thanksgiving-sales-tech-gaming-tvs-earbuds](https://www.theverge.com/2022/11/24/23476654/black-friday-early-days-thanksgiving-sales-tech-gaming-tvs-earbuds)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-24 14:38:37+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/1-YnBnPoF1uw0k6kjZij8dZkEd4=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71670147/226415_Noc_Design_Black_Friday_presents.0.jpg" />
@@ -237,7 +224,6 @@
  - [https://www.theverge.com/23475256/andor-season-one-finale-review-star-wars-disney-plus](https://www.theverge.com/23475256/andor-season-one-finale-review-star-wars-disney-plus)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-24 14:30:00+00:00
- - tags: None
 
 <figure>
       <img alt="A man standing in a dimly lit corridor next to a wall lined with grimy pipes." src="https://cdn.vox-cdn.com/thumbor/15XR4A9toOZLFWrLyLCdZbH5a7I=/731x0:3143x1608/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71670103/PGM_FF_005688.0.jpeg" />
@@ -254,7 +240,6 @@
  - [https://www.theverge.com/2022/11/24/23445995/dish-5g-network-genesis-las-vegas-trial](https://www.theverge.com/2022/11/24/23445995/dish-5g-network-genesis-las-vegas-trial)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-24 13:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Photo of a hand holding a phone running the Project Genesis app in front of the Welcome to Las Vegas sign." src="https://cdn.vox-cdn.com/thumbor/5tNgNuO3AZkmVCY4kCsekhUy_Oo=/0x0:5472x3648/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71669833/IMG_8841.0.jpg" />
@@ -271,7 +256,6 @@
  - [https://www.theverge.com/2022/11/24/23471033/tiktok-thanksgiving-food-recipes-ragebait-chefs-elis-kitchen-jane-brain](https://www.theverge.com/2022/11/24/23471033/tiktok-thanksgiving-food-recipes-ragebait-chefs-elis-kitchen-jane-brain)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-24 13:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/sAE3CiT87hr2oWJ7w2D-vFQ7QRQ=/0x0:1900x1267/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71669834/226386_Jackson_Gibbs_Ragebait_Chefs_TikTok.0.gif" />
@@ -289,7 +273,6 @@
  - [https://www.theverge.com/2022/11/24/23476617/pokemon-scarlet-violet-fastest-selling-nintendo-games](https://www.theverge.com/2022/11/24/23476617/pokemon-scarlet-violet-fastest-selling-nintendo-games)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-24 11:58:02+00:00
- - tags: None
 
 <figure>
       <img alt="Pokémon Scarlet and Violet" src="https://cdn.vox-cdn.com/thumbor/7IHTBQWcvHcLveglvCzp5rzjydQ=/0x0:620x413/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71669613/Pokemon_Scarlet_and_Violet_Double_Pack_2.0.jpg" />
@@ -306,7 +289,6 @@
  - [https://www.theverge.com/2022/11/24/23476593/foxconn-apple-factory-protest-apology-settlement](https://www.theverge.com/2022/11/24/23476593/foxconn-apple-factory-protest-apology-settlement)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-24 11:27:51+00:00
- - tags: None
 
 <figure>
       <img alt="A uniformed police officer watches as a crowd of people in hazmat suits kick a down person during protests at the Foxconn iPhone factory in&amp;nbsp;Zhengzhou, central China." src="https://cdn.vox-cdn.com/thumbor/9jXGdRZxnu2tt3b3UyJE3rUp7Lg=/149x0:3092x1962/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71669565/Foxconn_protest.0.jpg" />
@@ -323,7 +305,6 @@
  - [https://www.theverge.com/2022/11/24/23476570/teslas-full-self-driving-beta-release-north-america-safety-score](https://www.theverge.com/2022/11/24/23476570/teslas-full-self-driving-beta-release-north-america-safety-score)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-24 10:41:30+00:00
- - tags: None
 
 <figure>
       <img alt="The Tesla logo on a red, black, and white background." src="https://cdn.vox-cdn.com/thumbor/VpVqZjLyurji-nk1vIDkFKzWgXE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71669452/acastro_STK086_03.0.jpg" />
@@ -340,7 +321,6 @@
  - [https://www.theverge.com/2022/11/23/23475998/amazon-ftx-show-sam-bankman-fried](https://www.theverge.com/2022/11/23/23475998/amazon-ftx-show-sam-bankman-fried)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-24 01:05:57+00:00
- - tags: None
 
 <figure>
       <img alt="Key Speakers At IIF Annual Membership Meeting" src="https://cdn.vox-cdn.com/thumbor/5aPyZDE-CuGCZ5pK5k-dq4pqeQg=/0x0:3744x2496/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71668650/1243945786.0.jpg" />
@@ -357,7 +337,6 @@
  - [https://www.theverge.com/2022/11/23/23475857/hbo-max-cant-play-error-apple-tv-4k-temporary-fix](https://www.theverge.com/2022/11/23/23475857/hbo-max-cant-play-error-apple-tv-4k-temporary-fix)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-24 01:04:56+00:00
- - tags: None
 
 <figure>
       <img alt="A black, red, and yellow rendition of the HBO Max logo." src="https://cdn.vox-cdn.com/thumbor/krQhCOfaOuru-YZ0jZcvyjxcK4I=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71668646/acastro_STK055_04.0.jpg" />
@@ -375,7 +354,6 @@
  - [https://www.theverge.com/2022/11/23/23476092/ftc-investigating-microsoft-activision-deal-sony-call-of-duty](https://www.theverge.com/2022/11/23/23476092/ftc-investigating-microsoft-activision-deal-sony-call-of-duty)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-24 00:50:01+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/okHpiWhPSNPxBsVIuJWCutG1BOE=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71668599/acastro_STK048_04.0.jpg" />

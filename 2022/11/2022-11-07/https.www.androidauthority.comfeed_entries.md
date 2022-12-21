@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## Google reveals Black Friday deals, including Pixel 6a for $300
  - [https://www.androidauthority.com/google-pixel-black-friday-3232195/](https://www.androidauthority.com/google-pixel-black-friday-3232195/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-07 22:02:57+00:00
- - tags: None
 
 Google is preparing for Black Friday by revealing its deals for the shopping event.
 
@@ -12,7 +11,6 @@ Google is preparing for Black Friday by revealing its deals for the shopping eve
  - [https://www.androidauthority.com/change-password-amazon-3169877/](https://www.androidauthority.com/change-password-amazon-3169877/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-07 21:45:47+00:00
- - tags: None
 
 Please tell me your password isn't "Password."
 
@@ -20,7 +18,6 @@ Please tell me your password isn't "Password."
  - [https://www.androidauthority.com/what-is-the-cw-app-3229286/](https://www.androidauthority.com/what-is-the-cw-app-3229286/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-07 19:01:12+00:00
- - tags: None
 
 There are lots of hidden gems on the service.
 
@@ -28,7 +25,6 @@ There are lots of hidden gems on the service.
  - [https://www.androidauthority.com/galaxy-watch-4-bricking-3232056/](https://www.androidauthority.com/galaxy-watch-4-bricking-3232056/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-07 18:44:41+00:00
- - tags: None
 
 The bricking issue appears to be affect users in multiple countries.
 
@@ -36,7 +32,6 @@ The bricking issue appears to be affect users in multiple countries.
  - [https://www.androidauthority.com/november-2022-android-security-patch-3232089/](https://www.androidauthority.com/november-2022-android-security-patch-3232089/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-07 18:39:28+00:00
- - tags: None
 
 The latest update is the first for the Pixel 7 and Pixel 7 Pro and fixes some bugs.
 
@@ -44,7 +39,6 @@ The latest update is the first for the Pixel 7 and Pixel 7 Pro and fixes some bu
  - [https://www.androidauthority.com/android-13-galaxy-s20-series-3232005/](https://www.androidauthority.com/android-13-galaxy-s20-series-3232005/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-07 17:16:55+00:00
- - tags: None
 
 You can download One UI 5 right now if you live in Switzerland or Germany.
 
@@ -52,7 +46,6 @@ You can download One UI 5 right now if you live in Switzerland or Germany.
  - [https://www.androidauthority.com/best-vpn-for-fire-stick-1080110/](https://www.androidauthority.com/best-vpn-for-fire-stick-1080110/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-07 16:33:18+00:00
- - tags: None
 
 These VPNs for the Fire Stick allow you to get access to more content via streaming providers like Netflix and Prime Video.
 
@@ -60,7 +53,6 @@ These VPNs for the Fire Stick allow you to get access to more content via stream
  - [https://www.androidauthority.com/android-13-galaxy-note-20-3231973/](https://www.androidauthority.com/android-13-galaxy-note-20-3231973/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-07 16:10:46+00:00
- - tags: None
 
 Galaxy Note 20 and Galaxy Note 20 Ultra users in Switzerland can download the update right now.
 
@@ -68,7 +60,6 @@ Galaxy Note 20 and Galaxy Note 20 Ultra users in Switzerland can download the up
  - [https://www.androidauthority.com/google-pixel-watch-vs-apple-watch-3229547/](https://www.androidauthority.com/google-pixel-watch-vs-apple-watch-3229547/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-07 15:00:55+00:00
- - tags: None
 
 Find out how the new kid on the block compares to Apple's eighth generation
 
@@ -76,7 +67,6 @@ Find out how the new kid on the block compares to Apple's eighth generation
  - [https://www.androidauthority.com/poll-will-you-pay-more-for-disney-plus-3231928/](https://www.androidauthority.com/poll-will-you-pay-more-for-disney-plus-3231928/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-07 13:46:32+00:00
- - tags: None
 
 Will you cough up the extra cash?
 
@@ -84,7 +74,6 @@ Will you cough up the extra cash?
  - [https://www.androidauthority.com/best-80s-movies-3230702/](https://www.androidauthority.com/best-80s-movies-3230702/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-07 12:53:39+00:00
- - tags: None
 
 These totally radical movies still hold up today.
 
@@ -92,7 +81,6 @@ These totally radical movies still hold up today.
  - [https://www.androidauthority.com/samsung-galaxy-s21-stable-android-13-one-ui-5-3231896/](https://www.androidauthority.com/samsung-galaxy-s21-stable-android-13-one-ui-5-3231896/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-07 12:02:29+00:00
- - tags: None
 
 Owners of last year's Galaxy S series flagship are getting the stable One UI 5 update right now.
 
@@ -100,7 +88,6 @@ Owners of last year's Galaxy S series flagship are getting the stable One UI 5 u
  - [https://www.androidauthority.com/samsung-phones-back-tap-gesture-3231824/](https://www.androidauthority.com/samsung-phones-back-tap-gesture-3231824/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-07 11:30:25+00:00
- - tags: None
 
 The new Good Lock module also lets you tweak your settings menu and set up power button shortcuts.
 
@@ -108,7 +95,6 @@ The new Good Lock module also lets you tweak your settings menu and set up power
  - [https://www.androidauthority.com/daily-authority-november-7-2022-3231749/](https://www.androidauthority.com/daily-authority-november-7-2022-3231749/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-07 09:02:49+00:00
- - tags: None
 
 The latest Amazon Kindle is a great gift idea for you and yours.
 
@@ -116,7 +102,6 @@ The latest Amazon Kindle is a great gift idea for you and yours.
  - [https://www.androidauthority.com/xiaomi-13-pro-renders-leak-check-out-that-camera-bump-3231767/](https://www.androidauthority.com/xiaomi-13-pro-renders-leak-check-out-that-camera-bump-3231767/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-07 07:58:19+00:00
- - tags: None
 
 We're also intrigued by those four dots at the top of the phone.
 
@@ -124,7 +109,6 @@ We're also intrigued by those four dots at the top of the phone.
  - [https://www.androidauthority.com/amazon-prime-video-mobile-edition-plan-3231760/](https://www.androidauthority.com/amazon-prime-video-mobile-edition-plan-3231760/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-07 07:34:46+00:00
- - tags: None
 
 SD streaming and offline downloads on mobile only.
 
@@ -132,7 +116,6 @@ SD streaming and offline downloads on mobile only.
  - [https://www.androidauthority.com/qualcomm-nuvia-apple-silicon-rival-hamoa-3230654/](https://www.androidauthority.com/qualcomm-nuvia-apple-silicon-rival-hamoa-3230654/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-07 06:14:08+00:00
- - tags: None
 
 Qualcomm's 2024 PC chip will apparently offer up to 12 cores and "extremely promising" performance.
 
@@ -140,7 +123,6 @@ Qualcomm's 2024 PC chip will apparently offer up to 12 cores and "extremely prom
  - [https://www.androidauthority.com/disney-plus-price-hike-december-2022-3231748/](https://www.androidauthority.com/disney-plus-price-hike-december-2022-3231748/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-07 06:05:47+00:00
- - tags: None
 
 Get ready to pay more for your Disney Plus subscription.
 
@@ -148,6 +130,5 @@ Get ready to pay more for your Disney Plus subscription.
  - [https://www.androidauthority.com/how-to-apple-watch-ultra-siren-3231669/](https://www.androidauthority.com/how-to-apple-watch-ultra-siren-3231669/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-07 03:00:30+00:00
- - tags: None
 
 For the record, 86 decibels is pretty loud.

@@ -1,10 +1,9 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss
+# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
 
 ## Torrent sites are infiltrating Google Search with some crafty SEO hacks
  - [https://www.techradar.com/news/torrent-sites-are-infiltrating-google-search-with-some-crafty-seo-hacks/](https://www.techradar.com/news/torrent-sites-are-infiltrating-google-search-with-some-crafty-seo-hacks/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-21 21:15:05+00:00
- - tags: None
 
 Google Looker Studio is being abused to get sites promoting torrents high on search engine results pages.
 
@@ -12,7 +11,6 @@ Google Looker Studio is being abused to get sites promoting torrents high on sea
  - [https://www.techradar.com/news/meta-is-finally-trying-to-protect-teens-from-suspicious-adults-on-instagram-and-facebook/](https://www.techradar.com/news/meta-is-finally-trying-to-protect-teens-from-suspicious-adults-on-instagram-and-facebook/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-21 20:30:01+00:00
- - tags: None
 
 In addition to the security update, Meta will be working with the NCMEC to stop the spread of teens' private content.
 
@@ -20,7 +18,6 @@ In addition to the security update, Meta will be working with the NCMEC to stop 
  - [https://www.techradar.com/news/windows-11-really-wants-you-to-get-a-vpn/](https://www.techradar.com/news/windows-11-really-wants-you-to-get-a-vpn/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-21 20:02:29+00:00
- - tags: None
 
 Windows 11 goes all-out on VPN usage with new connection status icon in its upcoming build.
 
@@ -28,7 +25,6 @@ Windows 11 goes all-out on VPN usage with new connection status icon in its upco
  - [https://www.techradar.com/news/google-drive-malware-is-targeting-governments-around-the-world/](https://www.techradar.com/news/google-drive-malware-is-targeting-governments-around-the-world/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-21 18:10:05+00:00
- - tags: None
 
 Chinese hackers are storing malware on legitimate cloud services, hoping to bypass security protections.
 
@@ -36,7 +32,6 @@ Chinese hackers are storing malware on legitimate cloud services, hoping to bypa
  - [https://www.techradar.com/news/lgs-new-invisible-speakers-could-revolutionize-car-audio/](https://www.techradar.com/news/lgs-new-invisible-speakers-could-revolutionize-car-audio/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-21 17:58:01+00:00
- - tags: None
 
 South Korean brand claims its new system uses small flat panels to project audio without compromising sound quality.
 
@@ -44,7 +39,6 @@ South Korean brand claims its new system uses small flat panels to project audio
  - [https://www.techradar.com/news/wix-gathers-all-its-seo-tools-onto-one-page/](https://www.techradar.com/news/wix-gathers-all-its-seo-tools-onto-one-page/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-21 17:41:37+00:00
- - tags: None
 
 Wix aims to simply SEO offering by updating its tool to function on a single one page.
 
@@ -52,7 +46,6 @@ Wix aims to simply SEO offering by updating its tool to function on a single one
  - [https://www.techradar.com/news/microsoft-teams-could-about-to-solve-one-of-your-biggest-business-problems/](https://www.techradar.com/news/microsoft-teams-could-about-to-solve-one-of-your-biggest-business-problems/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-21 17:09:50+00:00
- - tags: None
 
 Microsoft Teams is adding more scheduling features to solve this major headache.
 
@@ -60,7 +53,6 @@ Microsoft Teams is adding more scheduling features to solve this major headache.
  - [https://www.techradar.com/news/should-i-buy-the-roborock-s4-max/](https://www.techradar.com/news/should-i-buy-the-roborock-s4-max/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-21 16:56:46+00:00
- - tags: None
 
 The Roborock S4 Max is a popular choice of robot vacuum cleaner - we find out why and if you should buy.
 
@@ -68,7 +60,6 @@ The Roborock S4 Max is a popular choice of robot vacuum cleaner - we find out wh
  - [https://www.techradar.com/news/the-best-ps5-ssd-just-hit-its-lowest-price-ever-for-black-friday/](https://www.techradar.com/news/the-best-ps5-ssd-just-hit-its-lowest-price-ever-for-black-friday/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-21 16:16:37+00:00
- - tags: None
 
 Amazon's PS5 SSD deals are currently offering the WD Black SN850 at a historic lowest-ever price for Black Friday.
 
@@ -76,7 +67,6 @@ Amazon's PS5 SSD deals are currently offering the WD Black SN850 at a historic l
  - [https://www.techradar.com/news/this-new-malware-is-able-to-bypass-all-of-microsofts-security-warnings/](https://www.techradar.com/news/this-new-malware-is-able-to-bypass-all-of-microsofts-security-warnings/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-21 16:13:42+00:00
- - tags: None
 
 Crooks bypass Mark of the Web and deliver powerful trojans by exploiting Windows zero-day.
 
@@ -84,7 +74,6 @@ Crooks bypass Mark of the Web and deliver powerful trojans by exploiting Windows
  - [https://www.techradar.com/news/bag-3-months-free-with-ipvanishs-killer-black-friday-vpn-deal/](https://www.techradar.com/news/bag-3-months-free-with-ipvanishs-killer-black-friday-vpn-deal/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-21 15:46:15+00:00
- - tags: None
 
 IPVanish is no stranger to Black Friday VPN deals, and this year it's dropped a doozy. At $3.19 a month including 3 months free, it's not to be missed.
 
@@ -92,7 +81,6 @@ IPVanish is no stranger to Black Friday VPN deals, and this year it's dropped a 
  - [https://www.techradar.com/news/charlie-coxs-treason-is-the-gritty-james-bond-style-show-that-netflix-needs/](https://www.techradar.com/news/charlie-coxs-treason-is-the-gritty-james-bond-style-show-that-netflix-needs/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-21 15:21:20+00:00
- - tags: None
 
 Daredevil star Charlie Cox makes his Netflix return in Treason, a new spy thriller series coming in December.
 
@@ -100,7 +88,6 @@ Daredevil star Charlie Cox makes his Netflix return in Treason, a new spy thrill
  - [https://www.techradar.com/news/vmware-adds-apple-silicon-support-for-its-desktop-hypervisors/](https://www.techradar.com/news/vmware-adds-apple-silicon-support-for-its-desktop-hypervisors/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-21 15:21:19+00:00
- - tags: None
 
 Macs using Apple Silicon will now be able to run and emulate foreign operating systems using VMware.
 
@@ -108,7 +95,6 @@ Macs using Apple Silicon will now be able to run and emulate foreign operating s
  - [https://www.techradar.com/news/this-ransomware-will-steal-your-discord-account-and-encrypt-all-your-files-for-good-measure/](https://www.techradar.com/news/this-ransomware-will-steal-your-discord-account-and-encrypt-all-your-files-for-good-measure/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-21 15:07:12+00:00
- - tags: None
 
 AXLocker is after the crypto community, who prefer to communicate on Discord.
 
@@ -116,7 +102,6 @@ AXLocker is after the crypto community, who prefer to communicate on Discord.
  - [https://www.techradar.com/news/the-rings-of-power-docuseries-is-a-lord-of-the-rings-fans-dream-homecoming/](https://www.techradar.com/news/the-rings-of-power-docuseries-is-a-lord-of-the-rings-fans-dream-homecoming/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-21 15:00:44+00:00
- - tags: None
 
 A docuseries detailing The Rings of Power's development has been announced by Amazon – and it's available now.
 
@@ -124,7 +109,6 @@ A docuseries detailing The Rings of Power's development has been announced by Am
  - [https://www.techradar.com/news/your-cio-may-now-wield-more-power-than-ever-before/](https://www.techradar.com/news/your-cio-may-now-wield-more-power-than-ever-before/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-21 13:30:23+00:00
- - tags: None
 
 CIOs are now second behind only CEOs in determining the future of their organizations, if research from Citrix is to be believed.
 
@@ -132,7 +116,6 @@ CIOs are now second behind only CEOs in determining the future of their organiza
  - [https://www.techradar.com/news/microsofts-embarrassing-windows-11-printer-fail-finally-gets-fixed-but-is-it-too-late/](https://www.techradar.com/news/microsofts-embarrassing-windows-11-printer-fail-finally-gets-fixed-but-is-it-too-late/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-21 12:54:51+00:00
- - tags: None
 
 Windows 11 is feeling a little too much like Windows 10 in terms of quality assurance at this point.
 
@@ -140,7 +123,6 @@ Windows 11 is feeling a little too much like Windows 10 in terms of quality assu
  - [https://www.techradar.com/news/mastodon-will-lose-to-hive-as-the-next-twitter-if-it-doesnt-fix-3-big-problems/](https://www.techradar.com/news/mastodon-will-lose-to-hive-as-the-next-twitter-if-it-doesnt-fix-3-big-problems/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-21 12:37:12+00:00
- - tags: None
 
 I've gone from using Mastodon once a week to once every hour, but it's still not a great replacement... and Hive could take its place.
 
@@ -148,7 +130,6 @@ I've gone from using Mastodon once a week to once every hour, but it's still not
  - [https://www.techradar.com/news/cyberattacks-are-basically-a-way-of-life-for-most-businesses-now/](https://www.techradar.com/news/cyberattacks-are-basically-a-way-of-life-for-most-businesses-now/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-21 12:02:14+00:00
- - tags: None
 
 Cyberattacks are the most prevalent disaster in the office, taking up almost half of all incidents that happen.
 
@@ -156,7 +137,6 @@ Cyberattacks are the most prevalent disaster in the office, taking up almost hal
  - [https://www.techradar.com/news/live/black-friday-TV-deals-live-2022/](https://www.techradar.com/news/live/black-friday-TV-deals-live-2022/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-21 11:11:00+00:00
- - tags: None
 
 We're live blogging the latest Black Friday TV deals and news today. Read on to see the biggest savings on 4K TVs, OLED sets and more.
 
@@ -164,7 +144,6 @@ We're live blogging the latest Black Friday TV deals and news today. Read on to 
  - [https://www.techradar.com/news/nvidia-rtx-4090-gpu-hits-jaw-dropping-38ghz-overclock-to-break-a-bunch-of-records/](https://www.techradar.com/news/nvidia-rtx-4090-gpu-hits-jaw-dropping-38ghz-overclock-to-break-a-bunch-of-records/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-21 10:59:50+00:00
- - tags: None
 
 A whole load of world records have fallen, including some big 3DMark scores.
 
@@ -172,6 +151,5 @@ A whole load of world records have fallen, including some big 3DMark scores.
  - [https://www.techradar.com/news/the-iphone-15-might-get-a-premium-makeover/](https://www.techradar.com/news/the-iphone-15-might-get-a-premium-makeover/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-21 10:54:14+00:00
- - tags: None
 
 A leaker claims that the iPhone 15 will have titanium sides and a new design, but that could come at a cost.

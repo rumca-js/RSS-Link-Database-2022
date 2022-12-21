@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## Nintendo goes after fan-made custom Steam “icons” with DMCA takedowns
  - [https://arstechnica.com/?p=1899399](https://arstechnica.com/?p=1899399)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-21 21:23:10+00:00
- - tags: None
 
 SteamGridDB images for five Switch games could "lead to consumer confusion."
 
@@ -12,7 +11,6 @@ SteamGridDB images for five Switch games could "lead to consumer confusion."
  - [https://arstechnica.com/?p=1899386](https://arstechnica.com/?p=1899386)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-21 21:08:05+00:00
- - tags: None
 
 Teens will finally have a way to proactively stop the spread of intimate images.
 
@@ -20,7 +18,6 @@ Teens will finally have a way to proactively stop the spread of intimate images.
  - [https://arstechnica.com/?p=1899171](https://arstechnica.com/?p=1899171)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-21 20:57:51+00:00
- - tags: None
 
 Ars chats with director Ryan White about recreating Mars from rover's perspective, and more.
 
@@ -28,7 +25,6 @@ Ars chats with director Ryan White about recreating Mars from rover's perspectiv
  - [https://arstechnica.com/?p=1899355](https://arstechnica.com/?p=1899355)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-21 20:16:02+00:00
- - tags: None
 
 Insurance companies will pay more, potentially leading to higher premiums.
 
@@ -36,7 +32,6 @@ Insurance companies will pay more, potentially leading to higher premiums.
  - [https://arstechnica.com/?p=1899259](https://arstechnica.com/?p=1899259)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-21 19:32:21+00:00
- - tags: None
 
 Layoffs reportedly hit the Alexa team hard as the company's biggest money loser.
 
@@ -44,7 +39,6 @@ Layoffs reportedly hit the Alexa team hard as the company's biggest money loser.
  - [https://arstechnica.com/?p=1898871](https://arstechnica.com/?p=1898871)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-21 18:10:07+00:00
- - tags: None
 
 Google's Black Friday deals start a week early, with some tantalizing discounts.
 
@@ -52,7 +46,6 @@ Google's Black Friday deals start a week early, with some tantalizing discounts.
  - [https://arstechnica.com/?p=1899233](https://arstechnica.com/?p=1899233)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-21 17:56:15+00:00
- - tags: None
 
 New AI aims to democratize 3D content creation, no modeling skills required.
 
@@ -60,7 +53,6 @@ New AI aims to democratize 3D content creation, no modeling skills required.
  - [https://arstechnica.com/?p=1899234](https://arstechnica.com/?p=1899234)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-21 17:22:13+00:00
- - tags: None
 
 Is 10 percent the thickness of a traditional car speaker, LG says.
 
@@ -68,7 +60,6 @@ Is 10 percent the thickness of a traditional car speaker, LG says.
  - [https://arstechnica.com/?p=1899250](https://arstechnica.com/?p=1899250)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-21 17:08:21+00:00
- - tags: None
 
 Musk relies on poll result—not content moderation council—to make the decision.
 
@@ -76,7 +67,6 @@ Musk relies on poll result—not content moderation council—to make the decisi
  - [https://arstechnica.com/?p=1899240](https://arstechnica.com/?p=1899240)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-21 16:21:38+00:00
- - tags: None
 
 After experimenting with sidewalk robot deliveries, the pizza giant is getting EVs.
 
@@ -84,7 +74,6 @@ After experimenting with sidewalk robot deliveries, the pizza giant is getting E
  - [https://arstechnica.com/?p=1899218](https://arstechnica.com/?p=1899218)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-21 16:13:05+00:00
- - tags: None
 
 The silvery spacecraft is on its way to an elongated orbit around the Moon.
 
@@ -92,7 +81,6 @@ The silvery spacecraft is on its way to an elongated orbit around the Moon.
  - [https://arstechnica.com/?p=1898433](https://arstechnica.com/?p=1898433)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-21 13:56:05+00:00
- - tags: None
 
 We waded through the early Black Friday flood so you don't have to.
 
@@ -100,6 +88,5 @@ We waded through the early Black Friday flood so you don't have to.
  - [https://arstechnica.com/?p=1896053](https://arstechnica.com/?p=1896053)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-21 12:00:12+00:00
- - tags: None
 
 What had started as twelve people and a dream was now a billion-dollar company.

@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## Chick-fil-A finally gave employees what it gives customers (no, not chicken)
  - [https://www.zdnet.com/article/chick-fil-a-finally-gave-employees-what-it-gives-customers-no-not-chicken/#ftag=RSSbaffb68](https://www.zdnet.com/article/chick-fil-a-finally-gave-employees-what-it-gives-customers-no-not-chicken/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-12 13:00:21+00:00
- - tags: None
 
 Do you want to be a good boss? Think about what your employees really want, just like you do about your customers.
 
@@ -12,7 +11,6 @@ Do you want to be a good boss? Think about what your employees really want, just
  - [https://www.zdnet.com/article/delta-air-lines-just-made-an-announcement-that-may-make-customers-eyes-roll/#ftag=RSSbaffb68](https://www.zdnet.com/article/delta-air-lines-just-made-an-announcement-that-may-make-customers-eyes-roll/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-12 12:00:20+00:00
- - tags: None
 
 Holiday travel is always fraught -- more so, perhaps, this year than ever. Is it all going to be fine?
 
@@ -20,7 +18,6 @@ Holiday travel is always fraught -- more so, perhaps, this year than ever. Is it
  - [https://www.zdnet.com/article/early-black-friday-storage-ssd-black-friday-deals-november-11-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-black-friday-storage-ssd-black-friday-deals-november-11-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-12 03:58:00+00:00
- - tags: None
 
 ZDNET has rounded up its top picks for early storage and SSD deals ahead of Black Friday, from retailers and manufacturers.
 
@@ -28,7 +25,6 @@ ZDNET has rounded up its top picks for early storage and SSD deals ahead of Blac
  - [https://www.zdnet.com/home-and-office/best-diy-gift/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/best-diy-gift/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-12 01:20:00+00:00
- - tags: None
 
 I found the best 12 gift ideas for people who like to do it themselves. Now, you can easily cross loved ones off of your present checklist and get back to enjoying the holidays.
 
@@ -36,7 +32,6 @@ I found the best 12 gift ideas for people who like to do it themselves. Now, you
  - [https://www.zdnet.com/home-and-office/kitchen-household/kitchen-gift/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/kitchen-household/kitchen-gift/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-12 00:23:00+00:00
- - tags: None
 
 Don't give your mom another robe this holiday season. The best smart kitchen tools make cooking with loved ones easier and more fun.
 
@@ -44,6 +39,5 @@ Don't give your mom another robe this holiday season. The best smart kitchen too
  - [https://www.zdnet.com/home-and-office/home-entertainment/tv-gift/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/tv-gift/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-12 00:00:00+00:00
- - tags: None
 
 If you're looking to splurge on a new television for a family member or friend, check these TVs to match your picture with your price point.

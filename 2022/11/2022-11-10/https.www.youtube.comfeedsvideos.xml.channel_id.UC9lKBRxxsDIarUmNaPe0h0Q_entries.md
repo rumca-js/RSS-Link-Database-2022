@@ -1,10 +1,9 @@
-# Source Sorelle Amore Finance, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q
+# Source Sorelle Amore Finance, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q, Source language: en-US
 
 ## Why the economy really sucks (blame Goldman Sachs)
  - [https://www.youtube.com/watch?v=V9IbYIpLM_U](https://www.youtube.com/watch?v=V9IbYIpLM_U)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q
  - date published: 2022-11-10 15:00:06+00:00
- - tags: None
 
 ✉️ OUR NEWSLETTER: https://www.abundantia.co/
 📚 OUR COURSE/MEMBERSHIP: http://jointheorder.co/

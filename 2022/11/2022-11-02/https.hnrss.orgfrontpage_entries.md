@@ -1,10 +1,9 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage
+# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
 
 ## Apple now valued at more than Amazon, Alphabet and Meta combined
  - [https://www.marketwatch.com/story/apple-now-valued-at-more-than-amazon-alphabet-and-meta-combined-11667430617](https://www.marketwatch.com/story/apple-now-valued-at-more-than-amazon-alphabet-and-meta-combined-11667430617)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 23:25:45+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.marketwatch.com/story/apple-now-valued-at-more-than-amazon-alphabet-and-meta-combined-11667430617">https://www.marketwatch.com/story/apple-now-valued-at-more-than-amazon-alphabet-and-meta-combined-11667430617</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33444266">https://news.ycombinator.com/item?id=33444266</a></p>
@@ -15,7 +14,6 @@
  - [https://www.economist.com/leaders/2022/11/02/american-society-is-so-focused-on-race-that-it-is-blind-to-class](https://www.economist.com/leaders/2022/11/02/american-society-is-so-focused-on-race-that-it-is-blind-to-class)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 23:09:02+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.economist.com/leaders/2022/11/02/american-society-is-so-focused-on-race-that-it-is-blind-to-class">https://www.economist.com/leaders/2022/11/02/american-society-is-so-focused-on-race-that-it-is-blind-to-class</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33444137">https://news.ycombinator.com/item?id=33444137</a></p>
@@ -26,7 +24,6 @@
  - [https://briancallahan.net/blog/20220704.html](https://briancallahan.net/blog/20220704.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 22:10:29+00:00
- - tags: None
 
 <p>Article URL: <a href="https://briancallahan.net/blog/20220704.html">https://briancallahan.net/blog/20220704.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33443615">https://news.ycombinator.com/item?id=33443615</a></p>
@@ -37,7 +34,6 @@
  - [https://www.laphamsquarterly.org/roundtable/vast-and-innumerable-throngs-ancient-dead](https://www.laphamsquarterly.org/roundtable/vast-and-innumerable-throngs-ancient-dead)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 21:32:28+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.laphamsquarterly.org/roundtable/vast-and-innumerable-throngs-ancient-dead">https://www.laphamsquarterly.org/roundtable/vast-and-innumerable-throngs-ancient-dead</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33443199">https://news.ycombinator.com/item?id=33443199</a></p>
@@ -48,7 +44,6 @@
  - [https://www.winehq.org/announce/7.20](https://www.winehq.org/announce/7.20)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 21:17:26+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.winehq.org/announce/7.20">https://www.winehq.org/announce/7.20</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33443035">https://news.ycombinator.com/item?id=33443035</a></p>
@@ -59,7 +54,6 @@
  - [https://fairinternetreport.com/research/facebook-meta-submarine-cable-ownership](https://fairinternetreport.com/research/facebook-meta-submarine-cable-ownership)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 21:02:09+00:00
- - tags: None
 
 <p>Article URL: <a href="https://fairinternetreport.com/research/facebook-meta-submarine-cable-ownership">https://fairinternetreport.com/research/facebook-meta-submarine-cable-ownership</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33442875">https://news.ycombinator.com/item?id=33442875</a></p>
@@ -70,7 +64,6 @@
  - [https://resources.mpi-inf.mpg.de/departments/d1/teaching/ws12/ct/Braess-paradox.pdf](https://resources.mpi-inf.mpg.de/departments/d1/teaching/ws12/ct/Braess-paradox.pdf)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 20:21:25+00:00
- - tags: None
 
 <p>Article URL: <a href="https://resources.mpi-inf.mpg.de/departments/d1/teaching/ws12/ct/Braess-paradox.pdf">https://resources.mpi-inf.mpg.de/departments/d1/teaching/ws12/ct/Braess-paradox.pdf</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33442415">https://news.ycombinator.com/item?id=33442415</a></p>
@@ -81,7 +74,6 @@
  - [https://cloudinary.com/blog/the-case-for-jpeg-xl](https://cloudinary.com/blog/the-case-for-jpeg-xl)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 20:11:19+00:00
- - tags: None
 
 <p>Article URL: <a href="https://cloudinary.com/blog/the-case-for-jpeg-xl">https://cloudinary.com/blog/the-case-for-jpeg-xl</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33442281">https://news.ycombinator.com/item?id=33442281</a></p>
@@ -92,7 +84,6 @@
  - [https://cree-led.com/news/photophyll-select/](https://cree-led.com/news/photophyll-select/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 20:08:11+00:00
- - tags: None
 
 <p>Article URL: <a href="https://cree-led.com/news/photophyll-select/">https://cree-led.com/news/photophyll-select/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33442235">https://news.ycombinator.com/item?id=33442235</a></p>
@@ -103,7 +94,6 @@
  - [https://www.tremendous.com/blog/5-employee-gift-ideas-make-people-feel-bad](https://www.tremendous.com/blog/5-employee-gift-ideas-make-people-feel-bad)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 20:05:57+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.tremendous.com/blog/5-employee-gift-ideas-make-people-feel-bad">https://www.tremendous.com/blog/5-employee-gift-ideas-make-people-feel-bad</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33442195">https://news.ycombinator.com/item?id=33442195</a></p>
@@ -114,7 +104,6 @@
  - [https://staff.tumblr.com/post/699744158019190784/this-is-not-a-drill-our-new-community-guidelines](https://staff.tumblr.com/post/699744158019190784/this-is-not-a-drill-our-new-community-guidelines)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 20:05:03+00:00
- - tags: None
 
 <p>Article URL: <a href="https://staff.tumblr.com/post/699744158019190784/this-is-not-a-drill-our-new-community-guidelines">https://staff.tumblr.com/post/699744158019190784/this-is-not-a-drill-our-new-community-guidelines</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33442183">https://news.ycombinator.com/item?id=33442183</a></p>
@@ -125,7 +114,6 @@
  - [https://www.sfchronicle.com/opinion/openforum/article/california-469-stevenson-court-ceqa-housing-17550982.php](https://www.sfchronicle.com/opinion/openforum/article/california-469-stevenson-court-ceqa-housing-17550982.php)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 19:16:35+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.sfchronicle.com/opinion/openforum/article/california-469-stevenson-court-ceqa-housing-17550982.php">https://www.sfchronicle.com/opinion/openforum/article/california-469-stevenson-court-ceqa-housing-17550982.php</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33441442">https://news.ycombinator.com/item?id=33441442</a></p>
@@ -136,7 +124,6 @@
  - [https://words.filippo.io/dispatches/openssl-punycode/](https://words.filippo.io/dispatches/openssl-punycode/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 18:06:55+00:00
- - tags: None
 
 <p>Article URL: <a href="https://words.filippo.io/dispatches/openssl-punycode/">https://words.filippo.io/dispatches/openssl-punycode/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33440341">https://news.ycombinator.com/item?id=33440341</a></p>
@@ -147,7 +134,6 @@
  - [https://www.federalreserve.gov/newsevents/pressreleases/monetary20221102a.htm](https://www.federalreserve.gov/newsevents/pressreleases/monetary20221102a.htm)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 18:00:37+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.federalreserve.gov/newsevents/pressreleases/monetary20221102a.htm">https://www.federalreserve.gov/newsevents/pressreleases/monetary20221102a.htm</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33440252">https://news.ycombinator.com/item?id=33440252</a></p>
@@ -158,7 +144,6 @@
  - [https://github.com/microsoft/TypeScript/pull/51387](https://github.com/microsoft/TypeScript/pull/51387)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 17:49:05+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/microsoft/TypeScript/pull/51387">https://github.com/microsoft/TypeScript/pull/51387</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33440030">https://news.ycombinator.com/item?id=33440030</a></p>
@@ -169,7 +154,6 @@
  - [https://www.crunchydata.com/blog/crunchy-bridges-ruby-backend-sorbet-tapioca-and-parlour-generated-type-stubs](https://www.crunchydata.com/blog/crunchy-bridges-ruby-backend-sorbet-tapioca-and-parlour-generated-type-stubs)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 17:47:42+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.crunchydata.com/blog/crunchy-bridges-ruby-backend-sorbet-tapioca-and-parlour-generated-type-stubs">https://www.crunchydata.com/blog/crunchy-bridges-ruby-backend-sorbet-tapioca-and-parlour-generated-type-stubs</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33440005">https://news.ycombinator.com/item?id=33440005</a></p>
@@ -180,7 +164,6 @@
  - [https://github.com/Olde-Skuul/doom3do](https://github.com/Olde-Skuul/doom3do)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 17:44:47+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/Olde-Skuul/doom3do">https://github.com/Olde-Skuul/doom3do</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33439947">https://news.ycombinator.com/item?id=33439947</a></p>
@@ -191,7 +174,6 @@
  - [https://grafana.com/blog/2022/11/02/introducing-grafana-faro-oss-application-observability/](https://grafana.com/blog/2022/11/02/introducing-grafana-faro-oss-application-observability/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 17:35:33+00:00
- - tags: None
 
 <p>Article URL: <a href="https://grafana.com/blog/2022/11/02/introducing-grafana-faro-oss-application-observability/">https://grafana.com/blog/2022/11/02/introducing-grafana-faro-oss-application-observability/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33439799">https://news.ycombinator.com/item?id=33439799</a></p>
@@ -202,7 +184,6 @@
  - [https://www.ft.com/content/662d4a0d-e8f5-4cd4-b03f-05b97e13e771](https://www.ft.com/content/662d4a0d-e8f5-4cd4-b03f-05b97e13e771)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 17:23:43+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.ft.com/content/662d4a0d-e8f5-4cd4-b03f-05b97e13e771">https://www.ft.com/content/662d4a0d-e8f5-4cd4-b03f-05b97e13e771</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33439561">https://news.ycombinator.com/item?id=33439561</a></p>
@@ -213,7 +194,6 @@
  - [https://mosh.org/mosh-1.4.0-released.html](https://mosh.org/mosh-1.4.0-released.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 17:22:36+00:00
- - tags: None
 
 <p>Article URL: <a href="https://mosh.org/mosh-1.4.0-released.html">https://mosh.org/mosh-1.4.0-released.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33439542">https://news.ycombinator.com/item?id=33439542</a></p>
@@ -224,7 +204,6 @@
  - [https://www.medpagetoday.com/gastroenterology/generalhepatology/101519](https://www.medpagetoday.com/gastroenterology/generalhepatology/101519)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 17:04:40+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.medpagetoday.com/gastroenterology/generalhepatology/101519">https://www.medpagetoday.com/gastroenterology/generalhepatology/101519</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33439221">https://news.ycombinator.com/item?id=33439221</a></p>
@@ -235,7 +214,6 @@
  - [https://nudges.fyi](https://nudges.fyi)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 17:00:12+00:00
- - tags: None
 
 <p>I built this app primarily for my wife, who has tried many mainstream todo-list apps (OmniFocus, Things, and Todoist come to mind) over the years with little success. She isn't particularly interested in setting up a productivity system and the administrivia that goes with it. Even having to remember to look at an app once a day was far from ideal for her. This app is an attempt at a solution for anyone that fits this description, with a focus on alerting over organization.<p>Here's how it works: you create a nudge that's set to trigger at a given date and time, and the app phones you, texts you, or emails you (or all three) at the right moment. Nudges can trigger on a schedule, so something like "call me about monthly bills for the next month on the last day of every month" is quite easy to set up. It also works well (sample size 1, admittedly) as a supplement to a more robust GTD system. I use Things for almost everything, but my most important reminders are set up as nudges.<p>I've worked on this on and off for the last month or so and I think it's ready for a Show HN. There's likely some rough edges in there so I wouldn't use it for anything _critical_ just yet (let me know if you see anything that looks buggy!). I cut a lot of scope in order to release an initial version quickly; here's a list of things I'm considering adding to the app in the near future:<p><pre><code>  - Implement something analogous to Pagerduty: create nudges that repeatedly nag you (with something like an escalation policy) until you acknowledge them
   - More notification channels: get nudges on Telegram, WhatsApp, Slack, etc.
@@ -254,7 +232,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://cohost.org/jamesmunns/post/167078-systems-engineering](https://cohost.org/jamesmunns/post/167078-systems-engineering)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 16:57:31+00:00
- - tags: None
 
 <p>Article URL: <a href="https://cohost.org/jamesmunns/post/167078-systems-engineering">https://cohost.org/jamesmunns/post/167078-systems-engineering</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33439052">https://news.ycombinator.com/item?id=33439052</a></p>
@@ -265,7 +242,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://vanitynotes.com/posts/20221101-the-real-problem-with-go](https://vanitynotes.com/posts/20221101-the-real-problem-with-go)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 16:56:19+00:00
- - tags: None
 
 <p>Article URL: <a href="https://vanitynotes.com/posts/20221101-the-real-problem-with-go">https://vanitynotes.com/posts/20221101-the-real-problem-with-go</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33439021">https://news.ycombinator.com/item?id=33439021</a></p>
@@ -276,7 +252,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://github.blog/2022-11-02-github-availability-report-october-2022/](https://github.blog/2022-11-02-github-availability-report-october-2022/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 16:41:23+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.blog/2022-11-02-github-availability-report-october-2022/">https://github.blog/2022-11-02-github-availability-report-october-2022/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33438729">https://news.ycombinator.com/item?id=33438729</a></p>
@@ -287,7 +262,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://aphyr.com/posts/342-typing-the-technical-interview](https://aphyr.com/posts/342-typing-the-technical-interview)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 16:41:13+00:00
- - tags: None
 
 <p>Article URL: <a href="https://aphyr.com/posts/342-typing-the-technical-interview">https://aphyr.com/posts/342-typing-the-technical-interview</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33438726">https://news.ycombinator.com/item?id=33438726</a></p>
@@ -298,7 +272,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://blog.phylum.io/phylum-discovers-dozens-more-pypi-packages-attempting-to-deliver-w4sp-stealer-in-ongoing-supply-chain-attack](https://blog.phylum.io/phylum-discovers-dozens-more-pypi-packages-attempting-to-deliver-w4sp-stealer-in-ongoing-supply-chain-attack)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 16:39:15+00:00
- - tags: None
 
 <p>Article URL: <a href="https://blog.phylum.io/phylum-discovers-dozens-more-pypi-packages-attempting-to-deliver-w4sp-stealer-in-ongoing-supply-chain-attack">https://blog.phylum.io/phylum-discovers-dozens-more-pypi-packages-attempting-to-deliver-w4sp-stealer-in-ongoing-supply-chain-attack</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33438678">https://news.ycombinator.com/item?id=33438678</a></p>
@@ -309,7 +282,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://getaegis.app/](https://getaegis.app/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 16:32:06+00:00
- - tags: None
 
 <p>Article URL: <a href="https://getaegis.app/">https://getaegis.app/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33438540">https://news.ycombinator.com/item?id=33438540</a></p>
@@ -320,7 +292,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://join-lemmy.org/news/2022-11-02-_First_release_of_LemmyBB](https://join-lemmy.org/news/2022-11-02-_First_release_of_LemmyBB)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 16:29:17+00:00
- - tags: None
 
 <p>Article URL: <a href="https://join-lemmy.org/news/2022-11-02-_First_release_of_LemmyBB">https://join-lemmy.org/news/2022-11-02-_First_release_of_LemmyBB</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33438493">https://news.ycombinator.com/item?id=33438493</a></p>
@@ -331,7 +302,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://www.caltech.edu/about/news/space-solar-power-atwater-hajimiri-pellegrino](https://www.caltech.edu/about/news/space-solar-power-atwater-hajimiri-pellegrino)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 16:22:19+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.caltech.edu/about/news/space-solar-power-atwater-hajimiri-pellegrino">https://www.caltech.edu/about/news/space-solar-power-atwater-hajimiri-pellegrino</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33438372">https://news.ycombinator.com/item?id=33438372</a></p>
@@ -342,7 +312,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://steamknight.itch.io/neonnoir](https://steamknight.itch.io/neonnoir)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 16:06:37+00:00
- - tags: None
 
 <p>Article URL: <a href="https://steamknight.itch.io/neonnoir">https://steamknight.itch.io/neonnoir</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33438092">https://news.ycombinator.com/item?id=33438092</a></p>
@@ -353,7 +322,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/](https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 15:57:35+00:00
- - tags: None
 
 <p>Article URL: <a href="https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/">https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33437911">https://news.ycombinator.com/item?id=33437911</a></p>
@@ -364,7 +332,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://www.engadget.com/t-mobile-will-start-charging-a-35-fee-on-all-new-activations-and-upgrades-065518011.html](https://www.engadget.com/t-mobile-will-start-charging-a-35-fee-on-all-new-activations-and-upgrades-065518011.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 15:50:52+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.engadget.com/t-mobile-will-start-charging-a-35-fee-on-all-new-activations-and-upgrades-065518011.html">https://www.engadget.com/t-mobile-will-start-charging-a-35-fee-on-all-new-activations-and-upgrades-065518011.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33437791">https://news.ycombinator.com/item?id=33437791</a></p>
@@ -375,7 +342,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://grafana.com/blog/2022/11/02/announcing-grafana-phlare-oss-continuous-profiling-database/](https://grafana.com/blog/2022/11/02/announcing-grafana-phlare-oss-continuous-profiling-database/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 15:28:26+00:00
- - tags: None
 
 <p>Article URL: <a href="https://grafana.com/blog/2022/11/02/announcing-grafana-phlare-oss-continuous-profiling-database/">https://grafana.com/blog/2022/11/02/announcing-grafana-phlare-oss-continuous-profiling-database/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33437419">https://news.ycombinator.com/item?id=33437419</a></p>
@@ -386,7 +352,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://asia.nikkei.com/Politics/International-relations/U.S.-pushes-Japan-and-other-allies-to-join-China-chip-curbs](https://asia.nikkei.com/Politics/International-relations/U.S.-pushes-Japan-and-other-allies-to-join-China-chip-curbs)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 15:24:48+00:00
- - tags: None
 
 <p>Article URL: <a href="https://asia.nikkei.com/Politics/International-relations/U.S.-pushes-Japan-and-other-allies-to-join-China-chip-curbs">https://asia.nikkei.com/Politics/International-relations/U.S.-pushes-Japan-and-other-allies-to-join-China-chip-curbs</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33437358">https://news.ycombinator.com/item?id=33437358</a></p>
@@ -397,7 +362,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://infiniteconversation.com/](https://infiniteconversation.com/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 15:21:32+00:00
- - tags: None
 
 <p>Article URL: <a href="https://infiniteconversation.com/">https://infiniteconversation.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33437296">https://news.ycombinator.com/item?id=33437296</a></p>
@@ -408,7 +372,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://twitter.com/hanno/status/1587775675397726209](https://twitter.com/hanno/status/1587775675397726209)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 15:13:52+00:00
- - tags: None
 
 <p>Article URL: <a href="https://twitter.com/hanno/status/1587775675397726209">https://twitter.com/hanno/status/1587775675397726209</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33437158">https://news.ycombinator.com/item?id=33437158</a></p>
@@ -419,7 +382,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://www.bbc.com/future/article/20221031-how-tucson-arizona-is-facing-up-to-a-1200-year-drought](https://www.bbc.com/future/article/20221031-how-tucson-arizona-is-facing-up-to-a-1200-year-drought)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 15:06:18+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.bbc.com/future/article/20221031-how-tucson-arizona-is-facing-up-to-a-1200-year-drought">https://www.bbc.com/future/article/20221031-how-tucson-arizona-is-facing-up-to-a-1200-year-drought</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33437020">https://news.ycombinator.com/item?id=33437020</a></p>
@@ -430,7 +392,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://www.space.com/dangerous-asteroid-discovered-in-sun-glare](https://www.space.com/dangerous-asteroid-discovered-in-sun-glare)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 15:06:00+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.space.com/dangerous-asteroid-discovered-in-sun-glare">https://www.space.com/dangerous-asteroid-discovered-in-sun-glare</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33437012">https://news.ycombinator.com/item?id=33437012</a></p>
@@ -441,7 +402,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://arstechnica.com/science/2022/11/spacex-is-now-building-a-raptor-engine-a-day-nasa-says/](https://arstechnica.com/science/2022/11/spacex-is-now-building-a-raptor-engine-a-day-nasa-says/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 15:00:46+00:00
- - tags: None
 
 <p>Article URL: <a href="https://arstechnica.com/science/2022/11/spacex-is-now-building-a-raptor-engine-a-day-nasa-says/">https://arstechnica.com/science/2022/11/spacex-is-now-building-a-raptor-engine-a-day-nasa-says/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33436918">https://news.ycombinator.com/item?id=33436918</a></p>
@@ -452,7 +412,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://www.efinancialcareers.com/news/2022/11/why-is-there-a-drought-in-the-talent-pool-for-c-developers](https://www.efinancialcareers.com/news/2022/11/why-is-there-a-drought-in-the-talent-pool-for-c-developers)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 14:23:05+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.efinancialcareers.com/news/2022/11/why-is-there-a-drought-in-the-talent-pool-for-c-developers">https://www.efinancialcareers.com/news/2022/11/why-is-there-a-drought-in-the-talent-pool-for-c-developers</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33436268">https://news.ycombinator.com/item?id=33436268</a></p>
@@ -463,7 +422,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://davidamos.dev/method-chaining-in-pandas/](https://davidamos.dev/method-chaining-in-pandas/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 13:50:56+00:00
- - tags: None
 
 <p>Article URL: <a href="https://davidamos.dev/method-chaining-in-pandas/">https://davidamos.dev/method-chaining-in-pandas/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33435731">https://news.ycombinator.com/item?id=33435731</a></p>
@@ -474,7 +432,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://ec.europa.eu/commission/presscorner/detail/en/IP_22_6272](https://ec.europa.eu/commission/presscorner/detail/en/IP_22_6272)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 13:49:52+00:00
- - tags: None
 
 <p>Article URL: <a href="https://ec.europa.eu/commission/presscorner/detail/en/IP_22_6272">https://ec.europa.eu/commission/presscorner/detail/en/IP_22_6272</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33435720">https://news.ycombinator.com/item?id=33435720</a></p>
@@ -485,7 +442,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://blogs.scientificamerican.com/sa-visual/why-are-so-many-babies-born-around-8-00-a-m/](https://blogs.scientificamerican.com/sa-visual/why-are-so-many-babies-born-around-8-00-a-m/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 13:47:57+00:00
- - tags: None
 
 <p>Article URL: <a href="https://blogs.scientificamerican.com/sa-visual/why-are-so-many-babies-born-around-8-00-a-m/">https://blogs.scientificamerican.com/sa-visual/why-are-so-many-babies-born-around-8-00-a-m/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33435695">https://news.ycombinator.com/item?id=33435695</a></p>
@@ -496,7 +452,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://news.ycombinator.com/item?id=33435682](https://news.ycombinator.com/item?id=33435682)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 13:47:07+00:00
- - tags: None
 
 <p>We are tired of the risk that SMS 2FA brings. Most of us have gotten smart enough to not use it but some companies (financial institutions especially) only have SMS based 2FA even in 2022.<p>Then, there are some shady ones that force you to enter a phone number even for non SMS/TOTP based (looking at you sendgrid)<p>People losing access to their phone is a scenario and puts users at significant risk of losing access to key accounts. I am not even talking about the security risk SMS 2FA brings which of course it does.<p>The worst part is that even now, companies are implementing it as a "updated security measure". Who are these people in the tech. departments making these decisions ? It is beyond ridiculous and why can't there be someone who understands that this needs to stop. I know most common people have no idea but there are plenty of us who know what a pain in the ass this is.<p>Is it time to try and force a legislation through Congress because I don't think these companies give a shit until forced to.</p>
 <hr />
@@ -508,7 +463,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://www.askedith.ai/](https://www.askedith.ai/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 13:25:22+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.askedith.ai/">https://www.askedith.ai/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33435361">https://news.ycombinator.com/item?id=33435361</a></p>
@@ -519,7 +473,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://ava.substack.com/p/psychedelics-a-personal-take](https://ava.substack.com/p/psychedelics-a-personal-take)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 13:11:59+00:00
- - tags: None
 
 <p>Article URL: <a href="https://ava.substack.com/p/psychedelics-a-personal-take">https://ava.substack.com/p/psychedelics-a-personal-take</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33435140">https://news.ycombinator.com/item?id=33435140</a></p>
@@ -530,7 +483,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://positive.security/blog/urlscan-data-leaks](https://positive.security/blog/urlscan-data-leaks)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 13:00:55+00:00
- - tags: None
 
 <p>Article URL: <a href="https://positive.security/blog/urlscan-data-leaks">https://positive.security/blog/urlscan-data-leaks</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33435002">https://news.ycombinator.com/item?id=33435002</a></p>
@@ -541,7 +493,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://news.ycombinator.com/item?id=33434742](https://news.ycombinator.com/item?id=33434742)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 12:38:33+00:00
- - tags: None
 
 <p>Hey HN,<p>Earlier this year I burned out hard and spectacularly, having nothing short of a total breakdown and being forced to take many, many months of medical leave by my GP.<p>My job wasn't overly difficult, but the corporate environment I found myself in was something I'd never done before and it was completely unsuited to me as an individual. It is the worst working experience I've ever been through.<p>I returned to my job late last month and I find that I simply don't care anymore. My burnout was never really fixed despite the time off. I'm unable to accomplish even basic tasks at work now and truthfully I'm at a point where I don't even care if I get fired. In the time I've been back I think I've been able to close one of two tiny tickets, the rest of the time I've literally done nothing.<p>During my time off I've been poked and prodded by psychologists and they seem to think I have ADHD and that it was a large contributing factor to this, though I'm not completely sure I buy this explanation.<p>I'm not well off like most people on here, I can survive 4-6 months with no salary, which I'm likely going to have to consider given my firing seems imminent at this point. I simply don't think I'm capable of maintaining this job anymore.<p>I really don't know how to get over this and how to move past it. I feel quite literally incapable of working. My mind knows what needs to be done, but my body says no and I am overwhelmed by apathy. I'm honestly not sure if I'm capable of working in tech anymore at this point and that's doing quite a number of any selfesteem I had.<p>Truthfully I didn't know things could get this bad. I'm trying to figure out what my future even looks like and how to move past this and any advice would be really appreciated.</p>
 <hr />
@@ -553,7 +504,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://www.wsj.com/articles/jony-ive-apple-design-interview-profile-lovefrom-11666733971](https://www.wsj.com/articles/jony-ive-apple-design-interview-profile-lovefrom-11666733971)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 12:35:08+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.wsj.com/articles/jony-ive-apple-design-interview-profile-lovefrom-11666733971">https://www.wsj.com/articles/jony-ive-apple-design-interview-profile-lovefrom-11666733971</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33434708">https://news.ycombinator.com/item?id=33434708</a></p>
@@ -564,7 +514,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://www.vice.com/en/article/y3pezm/scientists-increasingly-cant-explain-how-ai-works](https://www.vice.com/en/article/y3pezm/scientists-increasingly-cant-explain-how-ai-works)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 12:18:13+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.vice.com/en/article/y3pezm/scientists-increasingly-cant-explain-how-ai-works">https://www.vice.com/en/article/y3pezm/scientists-increasingly-cant-explain-how-ai-works</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33434512">https://news.ycombinator.com/item?id=33434512</a></p>
@@ -575,7 +524,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://loveofallwisdom.com/blog/2022/06/doing-what-you-love-when-the-money-wont-follow/](https://loveofallwisdom.com/blog/2022/06/doing-what-you-love-when-the-money-wont-follow/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 12:01:16+00:00
- - tags: None
 
 <p>Article URL: <a href="https://loveofallwisdom.com/blog/2022/06/doing-what-you-love-when-the-money-wont-follow/">https://loveofallwisdom.com/blog/2022/06/doing-what-you-love-when-the-money-wont-follow/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33434326">https://news.ycombinator.com/item?id=33434326</a></p>
@@ -586,7 +534,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://quillette.com/2022/10/30/moral-toddlerhood/](https://quillette.com/2022/10/30/moral-toddlerhood/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 11:47:35+00:00
- - tags: None
 
 <p>Article URL: <a href="https://quillette.com/2022/10/30/moral-toddlerhood/">https://quillette.com/2022/10/30/moral-toddlerhood/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33434209">https://news.ycombinator.com/item?id=33434209</a></p>
@@ -597,7 +544,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://davidlat.substack.com/p/affirmative-action-is-going-down](https://davidlat.substack.com/p/affirmative-action-is-going-down)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 11:43:21+00:00
- - tags: None
 
 <p>Article URL: <a href="https://davidlat.substack.com/p/affirmative-action-is-going-down">https://davidlat.substack.com/p/affirmative-action-is-going-down</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33434178">https://news.ycombinator.com/item?id=33434178</a></p>
@@ -608,7 +554,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://news.ycombinator.com/item?id=33434153](https://news.ycombinator.com/item?id=33434153)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 11:40:06+00:00
- - tags: None
 
 <p>I tried switching from T-Mobile to US Mobile after parking it on a VoIP service for a year (was abroad). They botched the port request completely. Ended up gaslighted by both companies, both claimed they "don't have the number".<p>Need my number for 2FA—literally can't move forward with a background check for my new job, can't send money to my family with my bank, etc. I'm sure I could theoretically get a new number but it seems the admin cost of this would possibly be in the hundreds of hours.<p>Do I have any recourse?</p>
 <hr />
@@ -620,7 +565,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2657r0.html](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2657r0.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 11:30:44+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2657r0.html">https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2657r0.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33434092">https://news.ycombinator.com/item?id=33434092</a></p>
@@ -631,7 +575,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://arstechnica.com/gadgets/2022/11/pantone-wants-15-month-for-the-privilege-of-using-its-colors-in-photoshop/](https://arstechnica.com/gadgets/2022/11/pantone-wants-15-month-for-the-privilege-of-using-its-colors-in-photoshop/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 11:00:24+00:00
- - tags: None
 
 <p>Article URL: <a href="https://arstechnica.com/gadgets/2022/11/pantone-wants-15-month-for-the-privilege-of-using-its-colors-in-photoshop/">https://arstechnica.com/gadgets/2022/11/pantone-wants-15-month-for-the-privilege-of-using-its-colors-in-photoshop/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33433882">https://news.ycombinator.com/item?id=33433882</a></p>
@@ -642,7 +585,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://spectrum.ieee.org/functional-programming](https://spectrum.ieee.org/functional-programming)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 10:49:13+00:00
- - tags: None
 
 <p>Article URL: <a href="https://spectrum.ieee.org/functional-programming">https://spectrum.ieee.org/functional-programming</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33433783">https://news.ycombinator.com/item?id=33433783</a></p>
@@ -653,7 +595,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://www.nature.com/articles/d41586-022-03539-1](https://www.nature.com/articles/d41586-022-03539-1)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 10:19:01+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.nature.com/articles/d41586-022-03539-1">https://www.nature.com/articles/d41586-022-03539-1</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33433583">https://news.ycombinator.com/item?id=33433583</a></p>
@@ -664,7 +605,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://news.ycombinator.com/item?id=33433316](https://news.ycombinator.com/item?id=33433316)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 09:43:35+00:00
- - tags: None
 
 <p>Hi!<p>At priceloop, we are working on a completely novel way of how businesses can run their pricing. Like really really novel. Not just another AI model for pricing but we want to strive to redefine this software category.<p>In particular, we are building a NoCode platform that enables businesses and IT to work together in a seamless way. Some of our features:<p>- A powerful spreadsheet that can handle millions of rows<p>- Many built-in and custom functions: you can easily write external function in Python and use it in the spreadsheet: https://medium.com/priceloop-tech-blog/how-to-build-an-external-function-on-priceloop-nocode-7d1325be7816<p>- Autosuggestion and syntax highlighting when creating formulas; kind of a powerful IDE for spreadsheet formulas<p>- An easy API interface to interact with the spreadsheet<p>We are in early development and just released our alpha version. In the next upcoming weeks, we will also open-source the core of our platform! So bookmark our github org already: https://github.com/priceloop<p>Sign up to Priceloop NoCode now and try it out: https://alpha.priceloop.ai<p>Feedback is welcomed!</p>
 <hr />
@@ -676,7 +616,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://www.telecomtv.com/content/digital-platforms-services/rakuten-dumps-red-hat-turns-to-true-open-source-linux-os-45803/](https://www.telecomtv.com/content/digital-platforms-services/rakuten-dumps-red-hat-turns-to-true-open-source-linux-os-45803/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 08:32:40+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.telecomtv.com/content/digital-platforms-services/rakuten-dumps-red-hat-turns-to-true-open-source-linux-os-45803/">https://www.telecomtv.com/content/digital-platforms-services/rakuten-dumps-red-hat-turns-to-true-open-source-linux-os-45803/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33432746">https://news.ycombinator.com/item?id=33432746</a></p>
@@ -687,7 +626,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://www.tomtom.com/newsroom/behind-the-map/the-future-of-mapmaking-tomtom-maps-platform/](https://www.tomtom.com/newsroom/behind-the-map/the-future-of-mapmaking-tomtom-maps-platform/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 08:28:21+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.tomtom.com/newsroom/behind-the-map/the-future-of-mapmaking-tomtom-maps-platform/">https://www.tomtom.com/newsroom/behind-the-map/the-future-of-mapmaking-tomtom-maps-platform/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33432720">https://news.ycombinator.com/item?id=33432720</a></p>
@@ -698,7 +636,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://memgraph.com/blog/how-to-upgrade-an-antiquated-identity-and-access-management-system](https://memgraph.com/blog/how-to-upgrade-an-antiquated-identity-and-access-management-system)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 08:19:34+00:00
- - tags: None
 
 <p>Article URL: <a href="https://memgraph.com/blog/how-to-upgrade-an-antiquated-identity-and-access-management-system">https://memgraph.com/blog/how-to-upgrade-an-antiquated-identity-and-access-management-system</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33432662">https://news.ycombinator.com/item?id=33432662</a></p>
@@ -709,7 +646,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://news.ycombinator.com/item?id=33432517](https://news.ycombinator.com/item?id=33432517)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 07:57:48+00:00
- - tags: None
 
 <p>i wonder if there is a tool can do this. for example: give a csv file, guess the schema.</p>
 <hr />
@@ -721,7 +657,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://github.com/ProtonMail/proton-bridge/issues/220](https://github.com/ProtonMail/proton-bridge/issues/220)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 07:22:58+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/ProtonMail/proton-bridge/issues/220">https://github.com/ProtonMail/proton-bridge/issues/220</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33432296">https://news.ycombinator.com/item?id=33432296</a></p>
@@ -732,7 +667,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 07:00:22+00:00
- - tags: None
 
 <p>Article URL: <a href="https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&amp;lever-source%5B%5D=Hacker%20News">https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&amp;lever-source%5B%5D=Hacker%20News</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33432159">https://news.ycombinator.com/item?id=33432159</a></p>
@@ -743,7 +677,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://www.bbc.com/news/world-asia-63456107](https://www.bbc.com/news/world-asia-63456107)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 06:48:17+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.bbc.com/news/world-asia-63456107">https://www.bbc.com/news/world-asia-63456107</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33432086">https://news.ycombinator.com/item?id=33432086</a></p>
@@ -754,7 +687,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://www.wtamu.edu/~cbaird/sq/2013/10/04/what-would-happen-if-you-fell-into-a-hole-that-went-through-the-center-of-the-earth/](https://www.wtamu.edu/~cbaird/sq/2013/10/04/what-would-happen-if-you-fell-into-a-hole-that-went-through-the-center-of-the-earth/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 06:10:30+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.wtamu.edu/~cbaird/sq/2013/10/04/what-would-happen-if-you-fell-into-a-hole-that-went-through-the-center-of-the-earth/">https://www.wtamu.edu/~cbaird/sq/2013/10/04/what-would-happen-if-you-fell-into-a-hole-that-went-through-the-center-of-the-earth/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33431910">https://news.ycombinator.com/item?id=33431910</a></p>
@@ -765,7 +697,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://www.forbes.com/sites/craighooper/2022/10/31/a-cook-shortage-threatens-to-sink-us-coast-guard-operations/](https://www.forbes.com/sites/craighooper/2022/10/31/a-cook-shortage-threatens-to-sink-us-coast-guard-operations/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 02:47:41+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.forbes.com/sites/craighooper/2022/10/31/a-cook-shortage-threatens-to-sink-us-coast-guard-operations/">https://www.forbes.com/sites/craighooper/2022/10/31/a-cook-shortage-threatens-to-sink-us-coast-guard-operations/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33430886">https://news.ycombinator.com/item?id=33430886</a></p>
@@ -776,7 +707,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://www.apricitas.io/p/how-rate-hikes-are-affecting-the](https://www.apricitas.io/p/how-rate-hikes-are-affecting-the)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 02:11:10+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.apricitas.io/p/how-rate-hikes-are-affecting-the">https://www.apricitas.io/p/how-rate-hikes-are-affecting-the</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33430660">https://news.ycombinator.com/item?id=33430660</a></p>
@@ -787,7 +717,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://lwn.net/SubscriberLink/913260/8819c42491a70e9b/](https://lwn.net/SubscriberLink/913260/8819c42491a70e9b/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 01:24:00+00:00
- - tags: None
 
 <p>Article URL: <a href="https://lwn.net/SubscriberLink/913260/8819c42491a70e9b/">https://lwn.net/SubscriberLink/913260/8819c42491a70e9b/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33430305">https://news.ycombinator.com/item?id=33430305</a></p>
@@ -798,7 +727,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://www.apple.com/support/systemstatus/](https://www.apple.com/support/systemstatus/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 00:50:51+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.apple.com/support/systemstatus/">https://www.apple.com/support/systemstatus/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33430049">https://news.ycombinator.com/item?id=33430049</a></p>
@@ -809,7 +737,6 @@ I work on distributed systems at my day job and haven't done frontend and CRUD t
  - [https://github.com/tierrun](https://github.com/tierrun)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-02 00:40:29+00:00
- - tags: None
 
 <p>Hi HN, we are Jevon, Blake and Isaac, we've been working on Tier for a little while ( <a href="http://github.com/tierrun" rel="nofollow">http://github.com/tierrun</a>)<p>Tier is "Terraform for Stripe" but it goes further and gives you feature flag style access checks, and allows you to count/report usage which can be used for metered billing.<p>When we started Tier, we knew that there was something interesting in the SaaS pricing and packaging space. Adjusting price is the single most effective lever a business can use to achieve product/market fit, and there's a strong correlation price nimbleness and market success.<p>In spite of overwhelming evidence of this, most startups pick the price for their product once and then never change it, opting instead to invest in less effective levers like CAC, sales efficiency, "virality", churn, etc. Why?<p>It's just too hard. Any change you make to the pricing model means refactoring not just the entire product, but sometimes the entire <i>company</i>. The path of least resistance leads to a place where there's no single source of truth, and changes anywhere require changes everywhere.After over 50 or so customer conversations and user research chats, this represents our third or fourth implementation (depending on how you count them), and our conception of how best to solve it has been refined and adjusted along the way.<p>The concept of "PriceOps" came out of those conversations, looking at where mature companies end up after several expensive rounds of iterating on how they implement their prices for flexibility and order. <a href="https://priceops.org" rel="nofollow">https://priceops.org</a><p>What we're releasing now is an open source tool you can use to set up your Stripe system that keeps everything organized around a single source of truth. With this, changes to your pricing model don't require changes to your application code or business processes.<p>As a bonus, I think it's actually easier to integrate with than integrating with Stripe the "normal" way. Use the identifiers for your customers and features that you already have. Define plans and subscribe customers to them. No ever-growing pile of object ids to manage.<p>If you are just starting to think about adding pricing to your product, or if you've built something custom but would like something less maintenance intensive, then please give Tier a try and we'd love your feedback.</p>
 <hr />

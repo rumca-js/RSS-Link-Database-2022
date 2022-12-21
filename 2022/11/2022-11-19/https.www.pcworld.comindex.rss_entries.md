@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## Here’s a lifetime Microsoft Office deal to be thankful for
  - [https://www.pcworld.com/article/1383015/heres-a-lifetime-microsoft-office-deal-to-be-thankful-for.html](https://www.pcworld.com/article/1383015/heres-a-lifetime-microsoft-office-deal-to-be-thankful-for.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-19 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>As we get deeper into the holiday season, it&rsquo;s a good time to check in and show gratitude for the good in your life. There&rsquo;s always something to be grateful for, and this year we&rsquo;re thankful for amazing deals on valuable products like Microsoft Office.</p>

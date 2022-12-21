@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## Share files between devices with this four-headed USB thumb drive
  - [https://www.pcworld.com/article/1074139/share-files-between-devices-with-this-four-headed-usb-thumb-drive.html](https://www.pcworld.com/article/1074139/share-files-between-devices-with-this-four-headed-usb-thumb-drive.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-05 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Transferring files from one phone to another is challenging enough. But if you&rsquo;re juggling multiple operating systems, switching from one cable to another can be a nightmare. For example, if you own an iPhone, you&rsquo;ll probably need a Lightning to USB-C or to USB-A just to port something over, at least for&nbsp;<a href="https://www.pcworld.com/article/788464/rip-lightning-cable-what-usb-c-should-have-been.html" rel="noreferrer noopener" target="_blank">a little while longer</a>.</p>

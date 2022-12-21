@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## Black Friday monitor deals: What to expect and early sales
  - [https://www.pcworld.com/article/1375450/black-friday-monitor-deals-what-to-expect.html](https://www.pcworld.com/article/1375450/black-friday-monitor-deals-what-to-expect.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-09 23:03:19+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Black Friday is almost upon us, and with it comes a plethora of deals on computer monitor. While Amazon already has some great monitors on sale, we suggest also checking out Walmart and Best Buy. And don&rsquo;t forget about HP and Lenovo, because their online retail stores sell more than just PCs. </p>
@@ -119,7 +118,6 @@ Monitors</div>
  - [https://www.pcworld.com/article/1374098/black-friday-laptop-deals-what-to-expect.html](https://www.pcworld.com/article/1374098/black-friday-laptop-deals-what-to-expect.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-09 22:25:42+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Black Friday will be here before you know it, and with it comes a colossal wave of awesome laptop deals. However, we&rsquo;re seeing a bunch of early sales popping up like tulips ahead of the main event. If you&rsquo;ve long been on the hunt for a screaming-fast gaming machine, a portable 2-in-1, or an affordable everyday laptop, there&rsquo;s no better time to take the plunge. </p>
@@ -230,7 +228,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/1374506/black-friday-tv-deals-what-to-expect.html](https://www.pcworld.com/article/1374506/black-friday-tv-deals-what-to-expect.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-09 21:20:10+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Black Friday TV deals typically begin in early November, then crescendo on Thanksgiving and Black Friday itself. And don&rsquo;t think of waiting until the last minute, either&mdash;you can always buy the TV you&rsquo;d like now, and then return it if you find a better TV deal afterwards.</p>
@@ -317,7 +314,6 @@ HDTVs</div>
  - [https://www.pcworld.com/article/699203/the-best-laptops-under-500-best-overall-best-for-oled-fans-and-more.html](https://www.pcworld.com/article/699203/the-best-laptops-under-500-best-overall-best-for-oled-fans-and-more.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-09 17:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>It&rsquo;s important to be smart about your choices when buying a sub-$500 laptop, since, realistically, you will need to make some compromises. That doesn&rsquo;t mean you can&rsquo;t still get a great laptop on a budget. And believe it or not, there are actually upsides to less-expensive laptops&mdash;their low-powered processors mean you can expect good battery life, and Chromebooks are often less vulnerable to malware. </p>
@@ -666,7 +662,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/1374628/black-friday-pc-desktop-computer-deals-what-to-expect.html](https://www.pcworld.com/article/1374628/black-friday-pc-desktop-computer-deals-what-to-expect.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-09 16:32:24+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>It&rsquo;s that time of the year again and Black Friday deals have already begun, with retailers offering deals on everything from home-office computers to gaming PCs and all-in-ones. While we&rsquo;d normally advise you to hold out until Black Friday itself, some truly great deals are already available. What&rsquo;s more, many retailers are offering price protection so you can make your purchase now and rest assured you&rsquo;ll end up with the best price.</p>
@@ -749,7 +744,6 @@ Desktop PCs</div>
  - [https://www.pcworld.com/article/1375361/ubisoft-games-may-make-an-overdue-return-to-steam.html](https://www.pcworld.com/article/1375361/ubisoft-games-may-make-an-overdue-return-to-steam.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-09 15:43:04+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Ubisoft is one of the biggest entertainment companies on the planet, and a remarkably platform-agnostic one at that. The company has major releases on every platform and console, including mobile and cloud &mdash; heck, it was even a quick and steady partner for <a href="https://www.pcworld.com/article/823826/best-cloud-gaming-services.html">game streaming services like Google Stadia and Amazon Luna</a>. It&rsquo;s strange, then, that every time the company releases a new AAA PC title, you have to look outside of the de facto PC gaming marketplace, Steam, to buy it. The company&rsquo;s newest games are only available on Ubisoft&rsquo;s self-branded store or Epic. </p>
@@ -779,7 +773,6 @@ Gaming</div>
  - [https://www.pcworld.com/article/1368969/how-to-add-the-developer-tab-to-the-microsoft-office-ribbon.html](https://www.pcworld.com/article/1368969/how-to-add-the-developer-tab-to-the-microsoft-office-ribbon.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-09 15:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Did you know that Microsoft Office applications offer a special tab? It&rsquo;s called the Developer tab and it provides easy access to several unique but advanced features like writing macros and importing XML files (more on that below). However, it&rsquo;s not enabled by default. If you&rsquo;re not sure how to enable this tab, don&rsquo;t worry. We did the heavy lifting for you. Below you&rsquo;ll find a comprehensive guide on how to enable it.</p>
@@ -881,7 +874,6 @@ Microsoft Office</div>
  - [https://www.pcworld.com/article/1375384/nab-this-1080p-logitech-webcam-for-just-40.html](https://www.pcworld.com/article/1375384/nab-this-1080p-logitech-webcam-for-just-40.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-09 15:27:32+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>There&rsquo;s nothing more annoying than blurry video during a videoconferencing call. If you&rsquo;re looking to upgrade your webcam, you&rsquo;re in luck, as we&rsquo;ve got a sweet deal for you today. GameStop&rsquo;s selling the fantastic <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.gamestop.com/pc-gaming/streaming/products/logitech-c922-pro-stream-webcam/215806.html&amp;xcust=2-1-1375384-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Logitech C922 Pro Stream webcam for $39.99</a>, which is a savings of $40. Not only does it work with popular streaming platforms like OBS, but it also has two omni-directional microphones, which captures more sound from different angles. Cool, right? Let&rsquo;s dive right into the specs and other features.</p>
@@ -902,7 +894,6 @@ Webcams</div>
  - [https://www.pcworld.com/article/1372988/heres-what-we-know-about-the-geforce-rtx-4090-12vhpwr-cables-melting.html](https://www.pcworld.com/article/1372988/heres-what-we-know-about-the-geforce-rtx-4090-12vhpwr-cables-melting.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-09 11:45:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Nvidia&rsquo;s <a href="https://www.pcworld.com/article/1348123/nvidia-geforce-rtx-4090-review-ada-lovelace.html">glorious GeForce RTX 4090 wowed reviewers</a> and set a new bar for just how stupidly fast a graphics card could be. Unfortunately, the launch of the $1,600 GPU has been marred by multiple reports of melting 12VHPWR connectors used in the cards damaging both the connector and the GPUs at times.</p>
@@ -983,7 +974,6 @@ GPUs</div>
  - [https://www.pcworld.com/article/560797/best-fitbit.html](https://www.pcworld.com/article/560797/best-fitbit.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-09 11:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>As one of the biggest names in fitness trackers, Fitbit is an easy pick for recording your daily steps or sleep patterns. Choosing a Fitbit suited to your needs can be more complex, though. The different models have a lot of overlap in features, and so it&rsquo;s not straightforward which one is the &ldquo;best.&rdquo;&nbsp;</p>
@@ -1153,7 +1143,6 @@ Fitness Devices</div>
  - [https://www.pcworld.com/article/1074154/take-control-over-your-digital-life-for-40-with-control-d.html](https://www.pcworld.com/article/1074154/take-control-over-your-digital-life-for-40-with-control-d.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-09 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Technology is supposed to make our lives easier. Unfortunately, our computers and phones are rife with social media feeds, dating apps, videos, and other distractions. If you need to re-center yourself and&nbsp;<a href="https://shop.pcworld.com/sales/control-d-5-year-subscriptions?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=control-d-5-year-subscriptions&amp;utm_term=scsf-555327&amp;utm_content=a0x1P000004lqdoQAA&amp;scsonar=1" rel="noreferrer noopener" target="_blank">break bad digital habits</a>, Control D is offering a five-year subscription for $39.99.</p>

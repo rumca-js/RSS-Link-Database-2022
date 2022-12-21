@@ -1,10 +1,9 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml
+# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
 
 ## PDC Players Championship Finals: Michael van Gerwen beats Rob Cross to win seventh title
  - [https://www.bbc.co.uk/sport/darts/63776767?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/darts/63776767?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 23:31:01+00:00
- - tags: None
 
 Michael van Gerwen beats Rob Cross 11-6 to win his seventh PDC Players Championship Finals title in 10 years.
 
@@ -12,7 +11,6 @@ Michael van Gerwen beats Rob Cross 11-6 to win his seventh PDC Players Champions
  - [https://www.bbc.co.uk/sport/football/63776700?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63776700?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 23:00:18+00:00
- - tags: None
 
 Germany teenager Jamal Musiala's performance in the 1-1 draw with Spain again shows how exciting his future in the game can be.
 
@@ -20,7 +18,6 @@ Germany teenager Jamal Musiala's performance in the 1-1 draw with Spain again sh
  - [https://www.bbc.co.uk/news/entertainment-arts-63653325?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63653325?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 22:46:37+00:00
- - tags: None
 
 The ex-health secretary was eliminated from I'm a Celebrity, so was his appearance a failure?
 
@@ -28,7 +25,6 @@ The ex-health secretary was eliminated from I'm a Celebrity, so was his appearan
  - [https://www.bbc.co.uk/news/health-63757539?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/health-63757539?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 22:39:18+00:00
- - tags: None
 
 Most of the UK lacks consistent round-the-clock care for the terminally ill, research suggests.
 
@@ -36,7 +32,6 @@ Most of the UK lacks consistent round-the-clock care for the terminally ill, res
  - [https://www.bbc.co.uk/news/entertainment-arts-63634455?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63634455?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 22:14:16+00:00
- - tags: None
 
 The former health secretary was beaten by footballer Jill Scott and actor Owen Warner in the final.
 
@@ -44,7 +39,6 @@ The former health secretary was beaten by footballer Jill Scott and actor Owen W
  - [https://www.bbc.co.uk/sport/football/63770741?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63770741?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 22:05:19+00:00
- - tags: None
 
 Brazil's 2002 World Cup winner Gilberto Silva on why Casemiro could hold the key to his nation's World Cup hopes in Qatar.
 
@@ -52,7 +46,6 @@ Brazil's 2002 World Cup winner Gilberto Silva on why Casemiro could hold the key
  - [https://www.bbc.co.uk/news/uk-wales-63777041?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-63777041?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 21:55:29+00:00
- - tags: None
 
 Two men and woman have been arrested after the bodies of two babies were found at a home.
 
@@ -60,7 +53,6 @@ Two men and woman have been arrested after the bodies of two babies were found a
  - [https://www.bbc.co.uk/sport/football/63692161?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63692161?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 21:21:05+00:00
- - tags: None
 
 A late Germany equaliser against Spain boosts their chances of qualifying for the World Cup last 16.
 
@@ -68,7 +60,6 @@ A late Germany equaliser against Spain boosts their chances of qualifying for th
  - [https://www.bbc.co.uk/sport/av/football/63767025?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63767025?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 20:54:44+00:00
- - tags: None
 
 Substitutes Alvaro Morata and Niclas Fullkrug score the goals as Spain and Germany play out a 1-1 draw at the World Cup which means that Group E will go down to the final set of fixtures.
 
@@ -76,7 +67,6 @@ Substitutes Alvaro Morata and Niclas Fullkrug score the goals as Spain and Germa
  - [https://www.bbc.co.uk/sport/av/football/63776214?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63776214?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 20:32:59+00:00
- - tags: None
 
 Alvaro Morata comes off the bench to give Spain the lead against Germany at the World Cup.
 
@@ -84,7 +74,6 @@ Alvaro Morata comes off the bench to give Spain the lead against Germany at the 
  - [https://www.bbc.co.uk/sport/football/63776692?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63776692?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 19:56:08+00:00
- - tags: None
 
 Bayern Munich's Alphonso Davies writes his name in Canadian footballing folklore but his goal is not enough as his country lose to Croatia and exit World Cup.
 
@@ -92,7 +81,6 @@ Bayern Munich's Alphonso Davies writes his name in Canadian footballing folklore
  - [https://www.bbc.co.uk/news/world-us-canada-63776227?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63776227?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 18:23:47+00:00
- - tags: None
 
 It was reported the man had accidentally fallen onto the tracks in Harlem, New York.
 
@@ -100,7 +88,6 @@ It was reported the man had accidentally fallen onto the tracks in Harlem, New Y
  - [https://www.bbc.co.uk/sport/football/63776313?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63776313?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 18:03:13+00:00
- - tags: None
 
 Newcastle United set a new Women's FA Cup attendance record in their 2-1 second-round win over Barnsley at St James' Park.
 
@@ -108,7 +95,6 @@ Newcastle United set a new Women's FA Cup attendance record in their 2-1 second-
  - [https://www.bbc.co.uk/news/uk-england-birmingham-63774581?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-birmingham-63774581?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 18:01:31+00:00
- - tags: None
 
 The artist says he takes drugs to slow his heart and creates the tiny engravings between heartbeats.
 
@@ -116,7 +102,6 @@ The artist says he takes drugs to slow his heart and creates the tiny engravings
  - [https://www.bbc.co.uk/sport/av/football/63767022?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63767022?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 17:59:19+00:00
- - tags: None
 
 Andrej Kramaric scores twice as Croatia beat Canada 4-1 to knock them out of the World Cup despite Alphonso Davies scoring their first ever men's World Cup goal.
 
@@ -124,7 +109,6 @@ Andrej Kramaric scores twice as Croatia beat Canada 4-1 to knock them out of the
  - [https://www.bbc.co.uk/sport/football/63776291?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63776291?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 17:56:02+00:00
- - tags: None
 
 Belgium show "a fear of losing" and "haven't been the best Belgium yet", says boss Roberto Martinez after a World Cup defeat by Morocco.
 
@@ -132,7 +116,6 @@ Belgium show "a fear of losing" and "haven't been the best Belgium yet", says bo
  - [https://www.bbc.co.uk/sport/av/football/63776208?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63776208?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 17:50:02+00:00
- - tags: None
 
 Andrej Kramaric gets his second goal and Croatia's third as they take 3-1 lead over Canada.
 
@@ -140,7 +123,6 @@ Andrej Kramaric gets his second goal and Croatia's third as they take 3-1 lead o
  - [https://www.bbc.co.uk/sport/football/63776093?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63776093?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 17:20:43+00:00
- - tags: None
 
 Iran's football federation complains to Fifa after the United States removed the emblem of the Islamic Republic from the country's flag in social media posts.
 
@@ -148,7 +130,6 @@ Iran's football federation complains to Fifa after the United States removed the
  - [https://www.bbc.co.uk/sport/football/63775273?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63775273?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 17:16:08+00:00
- - tags: None
 
 England's players do not "need fans to boo" them to know they have not played well, says forward Marcus Rashford.
 
@@ -156,7 +137,6 @@ England's players do not "need fans to boo" them to know they have not played we
  - [https://www.bbc.co.uk/news/uk-politics-63776009?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63776009?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 17:04:57+00:00
- - tags: None
 
 A round-up of key moments from Sunday with Laura Kuenssberg on 27 November 2022.
 
@@ -164,7 +144,6 @@ A round-up of key moments from Sunday with Laura Kuenssberg on 27 November 2022.
  - [https://www.bbc.co.uk/sport/av/football/63775827?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63775827?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 16:35:36+00:00
- - tags: None
 
 Canada take the lead against Croatia through Alphonso Davies for their first ever goal at a men's World Cup finals.
 
@@ -172,7 +151,6 @@ Canada take the lead against Croatia through Alphonso Davies for their first eve
  - [https://www.bbc.co.uk/news/world-europe-63773654?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63773654?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 16:24:09+00:00
- - tags: None
 
 The prosecutor-general tells the BBC Russian attacks aimed at "the full Ukrainian nation".
 
@@ -180,7 +158,6 @@ The prosecutor-general tells the BBC Russian attacks aimed at "the full Ukrainia
  - [https://www.bbc.co.uk/sport/tennis/63774946?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/tennis/63774946?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 16:23:45+00:00
- - tags: None
 
 Canada win the Davis Cup for the first time in the tournament's 122-year history with victory over Australia in the final in Malaga.
 
@@ -188,7 +165,6 @@ Canada win the Davis Cup for the first time in the tournament's 122-year history
  - [https://www.bbc.co.uk/news/entertainment-arts-63773613?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63773613?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 16:08:11+00:00
- - tags: None
 
 The former health secretary is among the final three contestants, despite criticism of his appearance.
 
@@ -196,7 +172,6 @@ The former health secretary is among the final three contestants, despite critic
  - [https://www.bbc.co.uk/sport/av/football/63774957?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63774957?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 15:35:20+00:00
- - tags: None
 
 Pablo Zabaleta says Belgium players are "not fighting for their country" after a 2-0 defeat by Morocco in their Group F match at the World Cup.
 
@@ -204,7 +179,6 @@ Pablo Zabaleta says Belgium players are "not fighting for their country" after a
  - [https://www.bbc.co.uk/sport/football/63692164?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63692164?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 15:33:00+00:00
- - tags: None
 
 Morocco cause the latest shock at a World Cup that has been full of surprises by beating Belgium with two late goals.
 
@@ -212,7 +186,6 @@ Morocco cause the latest shock at a World Cup that has been full of surprises by
  - [https://www.bbc.co.uk/sport/av/football/63767019?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63767019?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 14:55:43+00:00
- - tags: None
 
 Watch highlights as Abdelhamid Sabiri and Zakaria Aboukhlal's late goals give Morocco a shock 2-0 win over Belgium in their Group F match at the World Cup.
 
@@ -220,7 +193,6 @@ Watch highlights as Abdelhamid Sabiri and Zakaria Aboukhlal's late goals give Mo
  - [https://www.bbc.co.uk/sport/av/football/63774950?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63774950?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 14:51:28+00:00
- - tags: None
 
 Watch the moment Belgium's Thibaut Courtois lets an Abdelhamid Sabiri evade his grasp to put Morocco 1-0 up in their Group F match at the World Cup.
 
@@ -228,7 +200,6 @@ Watch the moment Belgium's Thibaut Courtois lets an Abdelhamid Sabiri evade his 
  - [https://www.bbc.co.uk/news/uk-england-south-yorkshire-63774388?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-south-yorkshire-63774388?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 14:32:21+00:00
- - tags: None
 
 Police launch a double murder inquiry after a man and a woman die in a house in Sheffield.
 
@@ -236,7 +207,6 @@ Police launch a double murder inquiry after a man and a woman die in a house in 
  - [https://www.bbc.co.uk/sport/av/football/63773388?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63773388?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 14:20:45+00:00
- - tags: None
 
 Morocco replace goalkeeper Bono with Munir Mohamedi between the pre-match anthems and team photographs against Belgium.
 
@@ -244,7 +214,6 @@ Morocco replace goalkeeper Bono with Munir Mohamedi between the pre-match anthem
  - [https://www.bbc.co.uk/news/uk-politics-63773083?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63773083?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 14:00:48+00:00
- - tags: None
 
 The transport secretary says the UK does not have "a proper seven-day railway" network.
 
@@ -252,7 +221,6 @@ The transport secretary says the UK does not have "a proper seven-day railway" n
  - [https://www.bbc.co.uk/news/uk-63772864?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63772864?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 13:57:39+00:00
- - tags: None
 
 The Wellcome Collection says its Medicine Man display will end on Sunday after a 15-year run.
 
@@ -260,7 +228,6 @@ The Wellcome Collection says its Medicine Man display will end on Sunday after a
  - [https://www.bbc.co.uk/news/business-63773595?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63773595?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 13:55:53+00:00
- - tags: None
 
 The government says companies must match bills with customers who are cutting energy use.
 
@@ -268,7 +235,6 @@ The government says companies must match bills with customers who are cutting en
  - [https://www.bbc.co.uk/news/world-europe-63773421?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63773421?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 13:44:47+00:00
- - tags: None
 
 Eleven people are unaccounted for after mud swept away homes and cars on the island of Ischia.
 
@@ -276,7 +242,6 @@ Eleven people are unaccounted for after mud swept away homes and cars on the isl
  - [https://www.bbc.co.uk/news/uk-wales-63771940?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-63771940?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 13:40:04+00:00
- - tags: None
 
 Wales' World Cup journey was started by the late manager, say fans on the anniversary of his death.
 
@@ -284,7 +249,6 @@ Wales' World Cup journey was started by the late manager, say fans on the annive
  - [https://www.bbc.co.uk/sport/football/63698283?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63698283?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 13:27:39+00:00
- - tags: None
 
 Brazil head coach Tite says the high number of fouls on Neymar "has to stop" after the forward was injured in their group-stage victory over Serbia.
 
@@ -292,7 +256,6 @@ Brazil head coach Tite says the high number of fouls on Neymar "has to stop" aft
  - [https://www.bbc.co.uk/sport/rugby-union/63772605?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63772605?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 13:11:18+00:00
- - tags: None
 
 The 2022 fixture list is over for the Wales national team and not many will look back on it with fondness.
 
@@ -300,7 +263,6 @@ The 2022 fixture list is over for the Wales national team and not many will look
  - [https://www.bbc.co.uk/sport/football/63773912?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63773912?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 13:07:45+00:00
- - tags: None
 
 Joe Allen says Gareth Bale and Aaron Ramsey can rise to the occasion when Wales face England knowing victory is essential for any chance of World Cup progress.
 
@@ -308,7 +270,6 @@ Joe Allen says Gareth Bale and Aaron Ramsey can rise to the occasion when Wales 
  - [https://www.bbc.co.uk/sport/rugby-union/63771071?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63771071?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 12:57:45+00:00
- - tags: None
 
 England are well short of the leading Rugby World Cup contenders. Any new coach would improve them. The Rugby Football Union now has a decision to make, says Matt Dawson.
 
@@ -316,7 +277,6 @@ England are well short of the leading Rugby World Cup contenders. Any new coach 
  - [https://www.bbc.co.uk/news/uk-england-leicestershire-63772881?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-leicestershire-63772881?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 12:47:22+00:00
- - tags: None
 
 The cross-party committee found Andrew Bridgen had displayed a "very cavalier" attitude to the rules.
 
@@ -324,7 +284,6 @@ The cross-party committee found Andrew Bridgen had displayed a "very cavalier" a
  - [https://www.bbc.co.uk/sport/football/63772098?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63772098?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 12:33:56+00:00
- - tags: None
 
 Bournemouth appoint Gary O'Neil as their manager on a permanent basis following his spell as interim boss.
 
@@ -332,7 +291,6 @@ Bournemouth appoint Gary O'Neil as their manager on a permanent basis following 
  - [https://www.bbc.co.uk/sport/football/63692163?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63692163?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 12:29:10+00:00
- - tags: None
 
 Japan fail to take another step towards the World Cup knockout rounds as Keysher Fuller's late goal earns Costa Rica a smash-and-grab Group E victory.
 
@@ -340,7 +298,6 @@ Japan fail to take another step towards the World Cup knockout rounds as Keysher
  - [https://www.bbc.co.uk/news/uk-scotland-63772470?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-63772470?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 12:10:07+00:00
- - tags: None
 
 Doddie Weir's friends and family say the former rugby hero's charity work will continue after his death.
 
@@ -348,7 +305,6 @@ Doddie Weir's friends and family say the former rugby hero's charity work will c
  - [https://www.bbc.co.uk/news/world-europe-63773704?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63773704?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 12:05:37+00:00
- - tags: None
 
 The BBC's Mark Lowen surveys the damage to homes and cars after a mudslide on the Italian island.
 
@@ -356,7 +312,6 @@ The BBC's Mark Lowen surveys the damage to homes and cars after a mudslide on th
  - [https://www.bbc.co.uk/sport/av/football/63769918?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63769918?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 12:00:36+00:00
- - tags: None
 
 Watch the moment Costa Rica defender Keysher Fuller scores his side's winning goal against Japan in their Group E match against Saudi Arabia at the World Cup.
 
@@ -364,7 +319,6 @@ Watch the moment Costa Rica defender Keysher Fuller scores his side's winning go
  - [https://www.bbc.co.uk/news/uk-wales-63772519?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-63772519?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 11:34:43+00:00
- - tags: None
 
 The singer hopes Wales can make the final 16 as a mathematician Hannah Fry crunches the numbers.
 
@@ -372,7 +326,6 @@ The singer hopes Wales can make the final 16 as a mathematician Hannah Fry crunc
  - [https://www.bbc.co.uk/news/world-asia-china-63772365?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-63772365?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 10:31:14+00:00
- - tags: None
 
 China's rulers appear to have drastically underestimated growing discontent at Xi Jinping's zero-Covid policy.
 
@@ -380,7 +333,6 @@ China's rulers appear to have drastically underestimated growing discontent at X
  - [https://www.bbc.co.uk/news/uk-england-manchester-63772618?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-manchester-63772618?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 10:18:47+00:00
- - tags: None
 
 The body of Liam Smith was found on a street covered in unidentified substances, police say.
 
@@ -388,7 +340,6 @@ The body of Liam Smith was found on a street covered in unidentified substances,
  - [https://www.bbc.co.uk/news/uk-wales-63768431?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-63768431?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 09:42:38+00:00
- - tags: None
 
 The suicide of Ricky Jones revealed a series of allegedly racist and sexist texts among officers.
 
@@ -396,7 +347,6 @@ The suicide of Ricky Jones revealed a series of allegedly racist and sexist text
  - [https://www.bbc.co.uk/sport/football/63772068?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63772068?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 09:32:26+00:00
- - tags: None
 
 Jurgen Klinsmann says he wants to speak to Carlos Queiroz to "calm things down" after the Iran manager said the German's criticism of his team was a "disgrace to football".
 
@@ -404,7 +354,6 @@ Jurgen Klinsmann says he wants to speak to Carlos Queiroz to "calm things down" 
  - [https://www.bbc.co.uk/news/uk-wales-63767558?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-63767558?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 07:08:19+00:00
- - tags: None
 
 A lack of alcohol and all games in one city are described as the Qatar World Cup's great strengths.
 
@@ -412,7 +361,6 @@ A lack of alcohol and all games in one city are described as the Qatar World Cup
  - [https://www.bbc.co.uk/news/uk-northern-ireland-63732347?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-northern-ireland-63732347?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 06:56:59+00:00
- - tags: None
 
 Residents in a housing estate in County Antrim are accessing low-cost hot meals run by a local group.
 
@@ -420,7 +368,6 @@ Residents in a housing estate in County Antrim are accessing low-cost hot meals 
  - [https://www.bbc.co.uk/news/uk-63770307?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63770307?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 06:05:19+00:00
- - tags: None
 
 Adm Sir Ben Key says independent investigations into complaints would "lead to less good outcomes".
 
@@ -428,7 +375,6 @@ Adm Sir Ben Key says independent investigations into complaints would "lead to l
  - [https://www.bbc.co.uk/news/entertainment-arts-63771437?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63771437?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 04:40:18+00:00
- - tags: None
 
 Cate Blanchett, Steven Spielberg and Kirsty Young will appear in series of specials in December.
 
@@ -436,7 +382,6 @@ Cate Blanchett, Steven Spielberg and Kirsty Young will appear in series of speci
  - [https://www.bbc.co.uk/news/world-asia-63771109?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-63771109?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 04:08:30+00:00
- - tags: None
 
 Videos on social media appear to show some protesters asking leader Xi Jinping to resign.
 
@@ -444,7 +389,6 @@ Videos on social media appear to show some protesters asking leader Xi Jinping t
  - [https://www.bbc.co.uk/news/world-latin-america-63771107?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-latin-america-63771107?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 02:48:26+00:00
- - tags: None
 
 The government and opposition agree that billions of dollars frozen abroad be released to help fund social projects.
 
@@ -452,7 +396,6 @@ The government and opposition agree that billions of dollars frozen abroad be re
  - [https://www.bbc.co.uk/news/uk-scotland-63542009?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-63542009?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 02:15:21+00:00
- - tags: None
 
 David Stirling, the Scot known as the founder of the SAS, was not what you would expect of a military hero.
 
@@ -460,7 +403,6 @@ David Stirling, the Scot known as the founder of the SAS, was not what you would
  - [https://www.bbc.co.uk/news/uk-63771091?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63771091?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 02:11:19+00:00
- - tags: None
 
 The number of cases among those to have recently arrived in the UK exceeds 50, the BBC understands.
 
@@ -468,7 +410,6 @@ The number of cases among those to have recently arrived in the UK exceeds 50, t
  - [https://www.bbc.co.uk/news/world-europe-63757443?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63757443?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 01:09:56+00:00
- - tags: None
 
 A French team has decoded a letter from Charles V, revealing rumours of an assassination plot.
 
@@ -476,7 +417,6 @@ A French team has decoded a letter from Charles V, revealing rumours of an assas
  - [https://www.bbc.co.uk/news/world-63721069?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-63721069?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 01:09:26+00:00
- - tags: None
 
 Russian air strikes have hit power supplies and health services, putting millions of lives at risk.
 
@@ -484,7 +424,6 @@ Russian air strikes have hit power supplies and health services, putting million
  - [https://www.bbc.co.uk/news/world-asia-india-63705190?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-india-63705190?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 01:09:00+00:00
- - tags: None
 
 Jyoti Bhatt documented the nuances of rural Indian culture that are on the cusp of disappearing.
 
@@ -492,7 +431,6 @@ Jyoti Bhatt documented the nuances of rural Indian culture that are on the cusp 
  - [https://www.bbc.co.uk/news/world-africa-63727936?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-africa-63727936?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 01:08:23+00:00
- - tags: None
 
 Anger mounts after the killing of children, including Keketso Saule, by pit bulls in South Africa.
 
@@ -500,7 +438,6 @@ Anger mounts after the killing of children, including Keketso Saule, by pit bull
  - [https://www.bbc.co.uk/news/stories-63746512?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/stories-63746512?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 00:43:28+00:00
- - tags: None
 
 Europe's first dedicated black music station, Dread Broadcasting Corporation
 
@@ -508,7 +445,6 @@ Europe's first dedicated black music station, Dread Broadcasting Corporation
  - [https://www.bbc.co.uk/news/uk-england-leicestershire-63756159?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-leicestershire-63756159?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 00:34:43+00:00
- - tags: None
 
 Stacey McDonnell and Darren Setford live in Leicester and are full-time carers for family members.
 
@@ -516,7 +452,6 @@ Stacey McDonnell and Darren Setford live in Leicester and are full-time carers f
  - [https://www.bbc.co.uk/news/science-environment-63457903?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/science-environment-63457903?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 00:22:39+00:00
- - tags: None
 
 Scientists are searching through a museum's wheat collection to find the crop of the future.
 
@@ -524,7 +459,6 @@ Scientists are searching through a museum's wheat collection to find the crop of
  - [https://www.bbc.co.uk/news/uk-63770727?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63770727?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 00:04:26+00:00
- - tags: None
 
 Due to the closeness and timings of the incidents, police say they are trying to establish if they are linked.
 
@@ -532,7 +466,6 @@ Due to the closeness and timings of the incidents, police say they are trying to
  - [https://www.bbc.co.uk/news/blogs-the-papers-63770710?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-63770710?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 00:01:17+00:00
- - tags: None
 
 The Sunday Telegraph reports about 4,000 patients a day are waiting more than 12 hours in A&amp;E.
 
@@ -540,6 +473,5 @@ The Sunday Telegraph reports about 4,000 patients a day are waiting more than 12
  - [https://www.bbc.co.uk/news/uk-63768031?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63768031?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-27 00:01:12+00:00
- - tags: None
 
 The Queen Consort is ending the traditional title of ladies-in-waiting for assistants at events.

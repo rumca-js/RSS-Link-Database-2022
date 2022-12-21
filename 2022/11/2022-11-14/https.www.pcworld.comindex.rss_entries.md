@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## MediaTek still plans to enter the Windows on Arm PC market
  - [https://www.pcworld.com/article/1377308/mediatek-still-plans-to-enter-the-pc-market.html](https://www.pcworld.com/article/1377308/mediatek-still-plans-to-enter-the-pc-market.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-14 20:32:40+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>MediaTek executives reiterated their plans to eventually enter the PC market with an Arm processor, challenging Qualcomm&rsquo;s Snapdragon in the Windows on Arm market. Unfortunately, the details of its plans are still skimpy.</p>
@@ -46,7 +45,6 @@ CPUs and Processors</div>
  - [https://www.pcworld.com/article/794278/best-laptops-for-kids.html](https://www.pcworld.com/article/794278/best-laptops-for-kids.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-14 17:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>In the market for a new laptop for your kid? It&rsquo;s easy to feel overwhelmed at all the options out there. You might even be asking yourself what makes for a good kid-friendly laptop? If so, don&rsquo;t worry, we&rsquo;re here to help. </p>
@@ -404,7 +402,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/1379279/nvidia-is-still-working-on-those-melting-rtx-4090-power-cables.html](https://www.pcworld.com/article/1379279/nvidia-is-still-working-on-those-melting-rtx-4090-power-cables.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-14 16:00:15+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>What&rsquo;s the last thing you want to hear after dropping $1,500+ on a brand new, ultra-powerful graphics card? Probably &ldquo;they just announced a new one,&rdquo; but a close second has got to be &ldquo;it might melt inside your computer.&rdquo; So it&rsquo;s understandable that Nvidia has been scrambling to get to the bottom of <a href="https://www.pcworld.com/article/1372988/heres-what-we-know-about-the-geforce-rtx-4090-12vhpwr-cables-melting.html" rel="noreferrer noopener" target="_blank">isolated reports that the RTX 4090 is frying adapter cables</a> for its fancy new 12VHPWR adapters. The good news: Nvidia is still on the case. The bad news: it doesn&rsquo;t have a solution just yet. </p>
@@ -426,7 +423,6 @@ GPUs</div>
  - [https://www.pcworld.com/article/1379190/the-latest-windows-11-update-impacts-game-performance.html](https://www.pcworld.com/article/1379190/the-latest-windows-11-update-impacts-game-performance.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-14 15:53:33+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Have your PC games been feeling a bit sluggish since you installed the 2022 update (a.k.a. 22H2) for Windows 11? You&rsquo;re not alone. Microsoft itself has confirmed the observations of many users, saying that the latest version of the operating system can cause systems to &ldquo;experience lower than expected performance or stuttering.&rdquo; According to <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://learn.microsoft.com/en-us/windows/release-health/status-windows-11-22h2#2950msgdesc&amp;xcust=2-1-1379190-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Microsoft&rsquo;s official bug-tracking system</a>, at least some games and other apps are accidentally triggering GPU debugging systems that aren&rsquo;t meant for consumers. </p>
@@ -444,7 +440,6 @@ Windows 11</div>
  - [https://www.pcworld.com/article/1372889/perfect-backup-review.html](https://www.pcworld.com/article/1372889/perfect-backup-review.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-14 15:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><div class="review" id="review-body"><img alt="Editors' Choice" class="review-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" /><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
@@ -587,7 +582,6 @@ Utilities</div>
  - [https://www.pcworld.com/article/1379088/save-170-on-this-sharp-lg-gaming-monitor.html](https://www.pcworld.com/article/1379088/save-170-on-this-sharp-lg-gaming-monitor.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-14 14:58:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you&rsquo;re on the hunt for a gaming monitor, then you&rsquo;re in luck, as we&rsquo;ve got a sweet deal for you today. Best Buy&rsquo;s selling the <a href="https://bestbuy.7tiv.net/c/321564/614286/10014?u=https://www.bestbuy.com/site/lg-27-ultragear-qhd-nano-ips-1ms-165hz-hdr-monitor-with-g-sync-compatibility-black/6451081.p?skuId=6451081&amp;subid1=2-1-1379088-1-0-0" rel="nofollow">LG UltraGear gaming monitor for $279.99</a>, which is a savings of $170. This monitor is fast, sharp, and the perfect size for a home office. Let&rsquo;s jump right into the specs.</p>
@@ -608,7 +602,6 @@ Monitors</div>
  - [https://www.pcworld.com/article/1378690/price-drop-get-a-lifetime-license-to-ms-office-pro-2021-for-just-40.html](https://www.pcworld.com/article/1378690/price-drop-get-a-lifetime-license-to-ms-office-pro-2021-for-just-40.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-14 14:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you work a corporate job, there&rsquo;s a good chance you use Microsoft Office at some point in your day. And that makes it a good idea to have it on your home computer too, which is why we&rsquo;re offering&nbsp;<a href="https://shop.pcworld.com/sales/microsoft-office-professional-plus-2021-for-windows?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=microsoft-office-professional-plus-2021-for-windows&amp;utm_term=scsf-557631&amp;utm_content=a0x1P000004ya7yQAA&amp;scsonar=1" rel="noreferrer noopener" target="_blank">lifetime Professional licenses</a>&nbsp;for the discounted price of just $39.99 for a limited time.</p>
@@ -649,7 +642,6 @@ Microsoft, Microsoft Office</div>
  - [https://www.pcworld.com/article/1376010/how-to-use-two-factor-authentication-to-lock-down-your-accounts-the-right-way.html](https://www.pcworld.com/article/1376010/how-to-use-two-factor-authentication-to-lock-down-your-accounts-the-right-way.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-14 11:45:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Ready or not, <a href="https://www.pcworld.com/article/403535/two-factor-authentication-faq-sms-authenticator-security-key-icloud.html">two-factor authentication</a> is something you&rsquo;ll need to start thinking more about.</p>
@@ -793,7 +785,6 @@ Internet Security</div>
  - [https://www.pcworld.com/article/1373190/asus-rog-strix-z790-e-gaming-wifi-motherboard-review.html](https://www.pcworld.com/article/1373190/asus-rog-strix-z790-e-gaming-wifi-motherboard-review.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-14 11:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
@@ -945,7 +936,6 @@ Desktop PCs, Gaming</div>
  - [https://www.pcworld.com/article/1378680/get-an-early-black-friday-deal-on-this-ai-powered-voiceover-generator.html](https://www.pcworld.com/article/1378680/get-an-early-black-friday-deal-on-this-ai-powered-voiceover-generator.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-14 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Black Friday isn&rsquo;t just for&nbsp;<a href="https://www.pcworld.com/article/1377302/black-friday-ssd-deals-what-to-expect.html" rel="noreferrer noopener" target="_blank">the day after Thanksgiving</a>. In our Every Friday is Black Friday sale, we&rsquo;re dropping new Black Friday deals every Friday, with no coupon needed. The latest is a lifetime subscription to Speechnow, which uses AI and voice technology to&nbsp;<a href="https://shop.pcworld.com/sales/speechnow-true-to-life-ai-text-to-speech-sn001-lifetime-subscription?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=speechnow-true-to-life-ai-text-to-speech-sn001-lifetime-subscription&amp;utm_term=scsf-557286&amp;utm_content=a0x1P000004yYqoQAE&amp;scsonar=1" rel="noreferrer noopener" target="_blank">create note-perfect voiceovers</a>&nbsp;for your video content.</p>

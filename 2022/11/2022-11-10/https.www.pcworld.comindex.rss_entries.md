@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## Black Friday SSD deals: What to expect and early sales
  - [https://www.pcworld.com/article/1377302/black-friday-ssd-deals-what-to-expect.html](https://www.pcworld.com/article/1377302/black-friday-ssd-deals-what-to-expect.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-10 22:45:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>This year has been a good one for SSD sales&mdash;and it looks like Black Friday deals are only going to get better. Some prices on this type of storage drives have already fallen to tantalizing lows, and we&rsquo;re still a couple of weeks out from the main event.</p>
@@ -99,7 +98,6 @@ Solid-State Drives</div>
  - [https://www.pcworld.com/article/1376146/black-friday-smartwatch-deals-what-to-expect.html](https://www.pcworld.com/article/1376146/black-friday-smartwatch-deals-what-to-expect.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-10 22:31:11+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Black Friday smartwatch deals have already begun, with retailers offering deals on watches from Apple, Fitbit, Garmin, and Samsung. While we&rsquo;d normally advise you to hold out until Black Friday itself, many retailers are offering price protection, so you can purchase a watch now and rest assured you&rsquo;ll end up with the best price.</p>
@@ -186,7 +184,6 @@ Smartwatches</div>
  - [https://www.pcworld.com/article/1377154/black-friday-graphics-card-deals-what-to-expect.html](https://www.pcworld.com/article/1377154/black-friday-graphics-card-deals-what-to-expect.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-10 21:10:06+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Black Friday is usually a great time to pick up hardware deals, but it&rsquo;s been a rough couple of years for bargain hunters. Chip shortages, the cryptocurrency boom, and worldwide supply chain issues have made the last two Black Fridays especially bleak for graphics card shoppers.&nbsp;</p>
@@ -325,7 +322,6 @@ GPUs</div>
  - [https://www.pcworld.com/article/1376128/black-friday-dash-cam-deals-what-to-expect.html](https://www.pcworld.com/article/1376128/black-friday-dash-cam-deals-what-to-expect.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-10 20:35:23+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Black Friday fast approaches, and retailers are already offering dash cam deals on everything from modest mini-cams to 4K front and rearview models. While we&rsquo;d normally advise you to hold out until Black Friday itself, some truly great deals are already available. What&rsquo;s more, many retailers are offering price protection, so you can make your purchase now and rest assured you&rsquo;ll end up with the best price.</p>
@@ -428,7 +424,6 @@ Dash Cams</div>
  - [https://www.pcworld.com/article/1377179/black-friday-chromebook-deals-what-to-expect-2.html](https://www.pcworld.com/article/1377179/black-friday-chromebook-deals-what-to-expect-2.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-10 19:51:08+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Consumers shopping for Black Friday bargains on computers should consider Chromebooks a capable alternative. Interested? We&rsquo;ve curated the best deals on Chromebooks from major retailers, focusing only on machines that offer respectable hardware at legitimate discounts.</p>
@@ -515,7 +510,6 @@ Chromebooks</div>
  - [https://www.pcworld.com/article/1377120/black-friday-ipad-deals-what-to-expect.html](https://www.pcworld.com/article/1377120/black-friday-ipad-deals-what-to-expect.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-10 18:23:15+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>The iPad is the 800-pound gorilla of the tablet market, and Apple knows it. It remains one of the best-selling pieces of consumer electronics ever, so trying to find discounts on the latest and greatest models is an exercise in patience. But if you&rsquo;re likely to find any deals, it&rsquo;s on Black Friday.&nbsp;</p>
@@ -666,7 +660,6 @@ Tablets</div>
  - [https://www.pcworld.com/article/820520/best-gaming-laptops-for-students.html](https://www.pcworld.com/article/820520/best-gaming-laptops-for-students.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-10 17:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>It&rsquo;s back-to-school season and that means there&rsquo;s no better time to buy a laptop. However, if you&rsquo;re a student who&rsquo;s also serious about gaming, you&rsquo;re going to need a laptop that&rsquo;s powerful enough for your late-night gaming sessions, yet portable enough to be a comfortable everyday carry.</p>
@@ -1042,7 +1035,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/394512/the-best-pcie-40-ssd.html](https://www.pcworld.com/article/394512/the-best-pcie-40-ssd.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-10 15:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Most computers and storage drives still use the common SATA or PCIe 3.0 interfaces to sling your bits of data around, but if you&rsquo;re lucky enough to own a relatively modern PC, you might be able to upgrade to a solid-state drive (SSD) built on the <a href="https://www.pcworld.com/article/3400176/pcie-40-everything-you-need-to-know-specs-compatibility.html">insanely fast PCIe 4.0 protocol</a>.</p>
@@ -1304,7 +1296,6 @@ Computer Components, Computer Storage Devices, Samsung Electronics, Seagate</div
  - [https://www.pcworld.com/article/1376879/alienwares-new-oled-monitor-drops-the-price-and-the-g-sync.html](https://www.pcworld.com/article/1376879/alienwares-new-oled-monitor-drops-the-price-and-the-g-sync.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-10 15:00:18+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Dell burst onto the gaming monitor scene earlier this year with the Alienware AW3423DW, a 34-inch ultrawide that was pricey, but still the best deal around when it comes to that sweet ultra-vibrant quantum dot OLED panel. (Oh, and a <a href="https://www.pcworld.com/article/624305/alienware-aw3423dw-review-quantum-dot-oled-makes-rival-monitors-feel-obsolete.html" rel="noreferrer noopener" target="_blank">PCWorld Editor&rsquo;s Choice!</a>) The company is bringing it back again for a nearly-identical model, the AW3423DWF, which swaps Nvidia&rsquo;s G-Sync for the more general AMD FreeSync Premium Pro system. It&rsquo;s launching later this year for a slightly more affordable $1099.99, $200 off the price of the original design. </p>
@@ -1370,7 +1361,6 @@ Monitors</div>
  - [https://www.pcworld.com/article/1375901/tested-nvidias-geforce-rtx-4090-is-a-content-creation-monster.html](https://www.pcworld.com/article/1375901/tested-nvidias-geforce-rtx-4090-is-a-content-creation-monster.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-10 11:45:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>When the <a href="https://www.pcworld.com/article/1348123/nvidia-geforce-rtx-4090-review-ada-lovelace.html">Nvidia GeForce RTX 4090</a> was announced with an eye-watering $1,600 price tag, memes spread like wildfire. While $1,600 is a little too much for most gamers to spend on a single component (most PC build budgets I see are less than that for the whole PC). I couldn&rsquo;t help but be intrigued at the potential performance improvements for my <em>work</em>&mdash;you know, the 3D and AI-accelerated tasks I spend most of my day doing as part of managing the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.youtube.com/channel/UCRBHiacaQb5S70pljtJYB2g&amp;xcust=2-1-1375901-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">EposVox YouTube channel</a>, instead of gaming.</p>
@@ -1709,7 +1699,6 @@ Gaming, GPUs</div>
  - [https://www.pcworld.com/article/1367331/xbox-elite-controller-series-2-core-review.html](https://www.pcworld.com/article/1367331/xbox-elite-controller-series-2-core-review.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-10 11:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
@@ -1939,7 +1928,6 @@ Computer Accessories, Gaming</div>
  - [https://www.pcworld.com/article/1339661/save-on-3-years-of-ps-plus-essential-for-you-or-your-friends.html](https://www.pcworld.com/article/1339661/save-on-3-years-of-ps-plus-essential-for-you-or-your-friends.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-10 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Going to be doing some gaming this fall? That&rsquo;s a trick question: Of course, you are. That windy weather is creeping in and your&nbsp;<em>Elden Ring</em>&nbsp;character isn&rsquo;t going to level themselves up. The only question is if you&rsquo;re going to do it with friends&nbsp;<a href="https://www.pcworld.com/article/625534/the-ps5-will-soon-look-great-on-your-gaming-monitor.html" rel="noreferrer noopener" target="_blank">on your Playstation</a>&nbsp;&ndash; and if you are, there&rsquo;s a can&rsquo;t-miss&nbsp;<a href="https://shop.pcworld.com/sales/playstation-plus-essential-3-yr-subscription-code-bundle?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=playstation-plus-essential-3-yr-subscription-code-bundle&amp;utm_term=scsf-555329&amp;utm_content=a0x1P000004lqdyQAA&amp;scsonar=1" rel="noreferrer noopener" target="_blank">deal on memberships</a>&nbsp;to the new-ish Playstation Plus Essential plan. Not only do you get access to online play and all the other sweet member benefits, but up to two of your friends can get the same perks.</p>
@@ -1984,7 +1972,6 @@ PlayStation</div>
  - [https://www.pcworld.com/article/1374542/black-friday-chromebook-deals-what-to-expect.html](https://www.pcworld.com/article/1374542/black-friday-chromebook-deals-what-to-expect.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-10 00:07:31+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Consumers shopping for Black Friday bargains on computers should consider Chromebooks a capable alternative. Interested? We&rsquo;ve curated the best deals on Chromebooks from major retailers, focusing only on machines that offer respectable hardware at legitimate discounts.</p>

@@ -1,10 +1,9 @@
-# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA
+# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, Source language: en-US
 
 ## The Pokemon Go Devs just did something MASSIVE with Qualcomm!
  - [https://www.youtube.com/watch?v=BK_wHlxAsYE](https://www.youtube.com/watch?v=BK_wHlxAsYE)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA
  - date published: 2022-11-17 20:00:08+00:00
- - tags: None
 
 Hello and welcome to.. TUES- THURSDAY NEWSDAY! Your number one resource for the entire week's worth of VR news! SORRY FOR THE DELAY, but I had to rewrite this one like 10 times to get this right and im glad I did! Lots of exciting stuff from Qualcomm launching its AR2 gen 1 chipset working with Pokemon Go developers Niantic, HTC Vive has a new VR headset on the way, Pimax makes some... very weird announcements... a potential Quest 2 competitor in the shape of a Nintendo Switch? hmm.. Also Pico isn't doing very well unfortunately. ALL THAT AND SO MUCH MORE! THANK YOU! OH! Also a final fantasy XIV VR mod!!
 

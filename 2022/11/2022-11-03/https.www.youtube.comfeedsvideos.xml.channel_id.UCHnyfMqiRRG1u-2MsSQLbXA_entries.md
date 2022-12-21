@@ -1,10 +1,9 @@
-# Source Veritasium, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA
+# Source Veritasium, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA, Source language: en-US
 
 ## The Algorithm That Transformed The World
  - [https://www.youtube.com/watch?v=nmgFG7PUHfo](https://www.youtube.com/watch?v=nmgFG7PUHfo)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA
  - date published: 2022-11-03 12:52:34+00:00
- - tags: None
 
 The Fast Fourier Transform is used everywhere but it has a fascinating origin story that could have ended the nuclear arms race. This video is sponsored by 80,000 Hours. Head to http://80000hours.org/veritasium to sign up for their newsletter and get sent a free copy of their in-depth career guide.
 

@@ -1,10 +1,9 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
 
 ## Frederick P. Brooks Jr., Computer Design Innovator, Dies at 91
  - [https://www.nytimes.com/2022/11/23/technology/frederick-p-brooks-jr-dead.html](https://www.nytimes.com/2022/11/23/technology/frederick-p-brooks-jr-dead.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-23 22:50:11+00:00
- - tags: None
 
 He was a lead designer of the computers that cemented IBM’s dominance for decades. He later wrote a book on software engineering that became a quirky classic.
 
@@ -12,7 +11,6 @@ He was a lead designer of the computers that cemented IBM’s dominance for deca
  - [https://www.nytimes.com/2022/11/23/business/ftx-cryptocurrency-bank.html](https://www.nytimes.com/2022/11/23/business/ftx-cryptocurrency-bank.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-23 20:03:19+00:00
- - tags: None
 
 Through a subsidiary, FTX invested $11.5 million in the parent company of Farmington State Bank, which has a single branch and, until this year, just three employees.
 
@@ -20,7 +18,6 @@ Through a subsidiary, FTX invested $11.5 million in the parent company of Farmin
  - [https://www.nytimes.com/2022/11/23/business/nfl-sunday-ticket-streaming.html](https://www.nytimes.com/2022/11/23/business/nfl-sunday-ticket-streaming.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-23 19:41:00+00:00
- - tags: None
 
 Talks for Sunday Ticket are expected to spill into next year, as Apple faces increased competition from Google for the league’s last available TV rights.
 
@@ -28,7 +25,6 @@ Talks for Sunday Ticket are expected to spill into next year, as Apple faces inc
  - [https://www.nytimes.com/2022/11/23/technology/personaltech/guide-to-ebooks.html](https://www.nytimes.com/2022/11/23/technology/personaltech/guide-to-ebooks.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-23 14:00:16+00:00
- - tags: None
 
 Even if you still love printed books, the digital option lets you put an entire library in your bag, just in time for holiday travel and vacation.
 
@@ -36,7 +32,6 @@ Even if you still love printed books, the digital option lets you put an entire 
  - [https://www.nytimes.com/2022/11/23/technology/copilot-microsoft-ai-lawsuit.html](https://www.nytimes.com/2022/11/23/technology/copilot-microsoft-ai-lawsuit.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-23 10:00:46+00:00
- - tags: None
 
 A programmer is suing Microsoft, GitHub and OpenAI over artificial intelligence technology that generates its own computer code.
 
@@ -44,7 +39,6 @@ A programmer is suing Microsoft, GitHub and OpenAI over artificial intelligence 
  - [https://www.nytimes.com/2022/11/23/business/opensensor-sensor-technology-offices-health.html](https://www.nytimes.com/2022/11/23/business/opensensor-sensor-technology-offices-health.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-23 10:00:44+00:00
- - tags: None
 
 The company OpenSensors uses small, inexpensive sensors to monitor air quality and other conditions in offices. The timing couldn’t be better.
 
@@ -52,6 +46,5 @@ The company OpenSensors uses small, inexpensive sensors to monitor air quality a
  - [https://www.nytimes.com/2022/11/23/business/holiday-shopping.html](https://www.nytimes.com/2022/11/23/business/holiday-shopping.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-23 10:00:40+00:00
- - tags: None
 
 It promises to be unpredictable, with retailers and consumers still figuring out how much will be spent and on what kinds of goods.

@@ -1,10 +1,9 @@
-# Source Jordan B Peterson, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
+# Source Jordan B Peterson, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q, Source language: en-US
 
 ## Exodus Clip: The Parallels Between Noah, Moses, and Water
  - [https://www.youtube.com/watch?v=VngecptafHg](https://www.youtube.com/watch?v=VngecptafHg)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
  - date published: 2022-11-25 20:00:15+00:00
- - tags: None
 
 Get 50% off your DailyWire+ membership using code DW50 at checkout, and watch Exodus now: https://bit.ly/3i99F9l
 

@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## If you extract with a gun in Warzone 2 DMZ, you unlock it forever in Modern Warfare 2
  - [https://www.pcgamer.com/if-you-extract-with-a-gun-in-warzone-2-dmz-you-unlock-it-forever-in-modern-warfare-2](https://www.pcgamer.com/if-you-extract-with-a-gun-in-warzone-2-dmz-you-unlock-it-forever-in-modern-warfare-2)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 23:47:00+00:00
- - tags: None
 
 There's an easier way to unlock Modern Warfare 2 guns: Just play DMZ.
 
@@ -12,7 +11,6 @@ There's an easier way to unlock Modern Warfare 2 guns: Just play DMZ.
  - [https://www.pcgamer.com/former-square-enix-employees-arrested-over-dragon-quest-related-insider-trading](https://www.pcgamer.com/former-square-enix-employees-arrested-over-dragon-quest-related-insider-trading)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 23:33:29+00:00
- - tags: None
 
 The two are alleged to have bought stock in a developer right before the public announcement it would make a Dragon Quest spinoff.
 
@@ -20,7 +18,6 @@ The two are alleged to have bought stock in a developer right before the public 
  - [https://www.pcgamer.com/modern-warfare-2-and-overwatch-2-drop-prepaid-phone-restrictions](https://www.pcgamer.com/modern-warfare-2-and-overwatch-2-drop-prepaid-phone-restrictions)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 23:19:55+00:00
- - tags: None
 
 Starting tomorrow, the SMS Protect system will work with any phone number.
 
@@ -28,7 +25,6 @@ Starting tomorrow, the SMS Protect system will work with any phone number.
  - [https://www.pcgamer.com/best-warzone-2-loadouts-call-of-duty](https://www.pcgamer.com/best-warzone-2-loadouts-call-of-duty)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 22:58:50+00:00
- - tags: None
 
 Not long into Call of Duty: Warzone 2's lifespan, verdicts are already coming in about the best loadouts, attachments, and guns.
 
@@ -36,7 +32,6 @@ Not long into Call of Duty: Warzone 2's lifespan, verdicts are already coming in
  - [https://www.pcgamer.com/this-wow-geoguessr-uses-roughly-3-million-images-and-im-still-lost](https://www.pcgamer.com/this-wow-geoguessr-uses-roughly-3-million-images-and-im-still-lost)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 22:53:35+00:00
- - tags: None
 
 Harder than Mythic raiding.
 
@@ -44,7 +39,6 @@ Harder than Mythic raiding.
  - [https://www.pcgamer.com/call-of-duty-warzone-2-m4-best-loadouts](https://www.pcgamer.com/call-of-duty-warzone-2-m4-best-loadouts)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 22:33:13+00:00
- - tags: None
 
 Call of Duty's iconic M4 is among the most flexible guns across Warzone 2, 6v6, and Ground War.
 
@@ -52,7 +46,6 @@ Call of Duty's iconic M4 is among the most flexible guns across Warzone 2, 6v6, 
  - [https://www.pcgamer.com/splinter-cell-goes-free-until-the-end-of-the-month-as-devs-reveal-early-concept-art-from-the-remake](https://www.pcgamer.com/splinter-cell-goes-free-until-the-end-of-the-month-as-devs-reveal-early-concept-art-from-the-remake)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 22:26:47+00:00
- - tags: None
 
 The Splinter Cell remake team is said in an update that it's "going dark" to focus on the game.
 
@@ -60,7 +53,6 @@ The Splinter Cell remake team is said in an update that it's "going dark" to foc
  - [https://www.pcgamer.com/call-of-duty-warzone-2-unhinged-br](https://www.pcgamer.com/call-of-duty-warzone-2-unhinged-br)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 21:57:20+00:00
- - tags: None
 
 The new Unhinged mode for Warzone 2 can sure make for a hectic squad; here's all the rules for the mode.
 
@@ -68,7 +60,6 @@ The new Unhinged mode for Warzone 2 can sure make for a hectic squad; here's all
  - [https://www.pcgamer.com/call-of-duty-warzone-2-assimilation-invite-enemy-players](https://www.pcgamer.com/call-of-duty-warzone-2-assimilation-invite-enemy-players)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 21:57:17+00:00
- - tags: None
 
 Warzone 2 squads now let you recruit your rivals, here's how to add them to your group in the middle of the action.
 
@@ -76,7 +67,6 @@ Warzone 2 squads now let you recruit your rivals, here's how to add them to your
  - [https://www.pcgamer.com/overwatchs-mei-is-finally-back-after-her-kiriko-induced-leave-of-absence](https://www.pcgamer.com/overwatchs-mei-is-finally-back-after-her-kiriko-induced-leave-of-absence)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 21:24:53+00:00
- - tags: None
 
 Hopefully no more hero hiatuses going forward.
 
@@ -84,7 +74,6 @@ Hopefully no more hero hiatuses going forward.
  - [https://www.pcgamer.com/my-favorite-city-builder-of-2022-just-got-a-major-update](https://www.pcgamer.com/my-favorite-city-builder-of-2022-just-got-a-major-update)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 20:58:02+00:00
- - tags: None
 
 This beautiful medieval city builder just added new buildings, markedly improved citizen AI, and a wagonload of other tweaks.
 
@@ -92,7 +81,6 @@ This beautiful medieval city builder just added new buildings, markedly improved
  - [https://www.pcgamer.com/this-new-card-game-on-steam-costs-dollar70-and-has-another-dollar216-in-dlc](https://www.pcgamer.com/this-new-card-game-on-steam-costs-dollar70-and-has-another-dollar216-in-dlc)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 20:39:23+00:00
- - tags: None
 
 Cardfight!! Vanguard Dear Days launched yesterday, and despite the price people seem to like it.
 
@@ -100,7 +88,6 @@ Cardfight!! Vanguard Dear Days launched yesterday, and despite the price people 
  - [https://www.pcgamer.com/classic-style-rts-crossfire-legion-gets-a-huge-early-access-update](https://www.pcgamer.com/classic-style-rts-crossfire-legion-gets-a-huge-early-access-update)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 19:30:58+00:00
- - tags: None
 
 The RTS from the makers of Homeworld: Deserts of Kharak advances towards full release.
 
@@ -108,7 +95,6 @@ The RTS from the makers of Homeworld: Deserts of Kharak advances towards full re
  - [https://www.pcgamer.com/endless-dungeon-everything-we-know](https://www.pcgamer.com/endless-dungeon-everything-we-know)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 19:30:55+00:00
- - tags: None
 
 The latest on Amplitude’s tower defence roguelite.
 
@@ -116,7 +102,6 @@ The latest on Amplitude’s tower defence roguelite.
  - [https://www.pcgamer.com/kitbash-together-a-creative-fortress-against-a-hostile-world-in-this-blimp-and-ship-festooned-city-builder](https://www.pcgamer.com/kitbash-together-a-creative-fortress-against-a-hostile-world-in-this-blimp-and-ship-festooned-city-builder)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 19:30:53+00:00
- - tags: None
 
 Bulwark: Falconeer Chronicles brings a new degree of freedom to rebuilding in a ruined world.
 
@@ -124,7 +109,6 @@ Bulwark: Falconeer Chronicles brings a new degree of freedom to rebuilding in a 
  - [https://www.pcgamer.com/masterplan-tycoon-is-a-chill-production-chain-sim-for-the-optimisation-obsessed](https://www.pcgamer.com/masterplan-tycoon-is-a-chill-production-chain-sim-for-the-optimisation-obsessed)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 19:30:52+00:00
- - tags: None
 
 Ever spent hours getting your supply lines juuust right in a management game? This one's for you.
 
@@ -132,7 +116,6 @@ Ever spent hours getting your supply lines juuust right in a management game? Th
  - [https://www.pcgamer.com/ova-magica-is-monster-rancher-meets-rune-factory-with-blobs](https://www.pcgamer.com/ova-magica-is-monster-rancher-meets-rune-factory-with-blobs)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 19:30:44+00:00
- - tags: None
 
 Ova Magica lets you build a new life and breed cute creatures for battle.
 
@@ -140,7 +123,6 @@ Ova Magica lets you build a new life and breed cute creatures for battle.
  - [https://www.pcgamer.com/once-human-brings-monsters-deep-customisation-and-a-test-of-your-survival-skills-in-2023](https://www.pcgamer.com/once-human-brings-monsters-deep-customisation-and-a-test-of-your-survival-skills-in-2023)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 19:30:30+00:00
- - tags: None
 
 This devastated, new weird world, arrives in 2023.
 
@@ -148,7 +130,6 @@ This devastated, new weird world, arrives in 2023.
  - [https://www.pcgamer.com/level-zero-brings-you-a-fresh-take-on-multiplayer-horror](https://www.pcgamer.com/level-zero-brings-you-a-fresh-take-on-multiplayer-horror)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 19:30:26+00:00
- - tags: None
 
 In space, no one can hear you PvPing.
 
@@ -156,7 +137,6 @@ In space, no one can hear you PvPing.
  - [https://www.pcgamer.com/ravenbound-throws-the-roguelite-into-a-nordic-inspired-open-world](https://www.pcgamer.com/ravenbound-throws-the-roguelite-into-a-nordic-inspired-open-world)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 19:30:26+00:00
- - tags: None
 
 Every death is a valuable lesson in this unique twist on the open-world fantasy game.
 
@@ -164,7 +144,6 @@ Every death is a valuable lesson in this unique twist on the open-world fantasy 
  - [https://www.pcgamer.com/meet-biogun-the-metroidvania-where-you-play-a-vaccine-inside-a-dog](https://www.pcgamer.com/meet-biogun-the-metroidvania-where-you-play-a-vaccine-inside-a-dog)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 19:30:24+00:00
- - tags: None
 
 The war on pugs.
 
@@ -172,7 +151,6 @@ The war on pugs.
  - [https://www.pcgamer.com/fix-toys-arcade-machines-and-even-your-own-home-in-the-next-game-from-the-creator-of-pc-building-simulator](https://www.pcgamer.com/fix-toys-arcade-machines-and-even-your-own-home-in-the-next-game-from-the-creator-of-pc-building-simulator)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 19:30:19+00:00
- - tags: None
 
 Repair House swaps motherboards for floorboards.
 
@@ -180,7 +158,6 @@ Repair House swaps motherboards for floorboards.
  - [https://www.pcgamer.com/sure-ill-be-a-hyper-violent-cat-kickflipping-with-a-weaponised-hoverboard](https://www.pcgamer.com/sure-ill-be-a-hyper-violent-cat-kickflipping-with-a-weaponised-hoverboard)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 19:30:18+00:00
- - tags: None
 
 Gori: Cuddly Carnage stars a very cute cat but… oh, oh that's not nice at all. Bad kitty! Stop!
 
@@ -188,7 +165,6 @@ Gori: Cuddly Carnage stars a very cute cat but… oh, oh that's not nice at all.
  - [https://www.pcgamer.com/warhammer-40000-darktide-is-upon-us-and-you-can-join-the-fight-early](https://www.pcgamer.com/warhammer-40000-darktide-is-upon-us-and-you-can-join-the-fight-early)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 19:30:15+00:00
- - tags: None
 
 Preorder, and you can already start playing what could be the most exciting co-op swarm shooter of this generation.
 
@@ -196,7 +172,6 @@ Preorder, and you can already start playing what could be the most exciting co-o
  - [https://www.pcgamer.com/the-great-war-western-front-is-an-rts-that-will-let-you-relive-history-or-even-rewrite-it](https://www.pcgamer.com/the-great-war-western-front-is-an-rts-that-will-let-you-relive-history-or-even-rewrite-it)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 19:30:12+00:00
- - tags: None
 
 The Command and Conquer Remastered studio is on a quest for realism in this new World War 1 strategy.
 
@@ -204,7 +179,6 @@ The Command and Conquer Remastered studio is on a quest for realism in this new 
  - [https://www.pcgamer.com/sci-fi-base-building-meets-action-rpg-in-cygnus-enterprises](https://www.pcgamer.com/sci-fi-base-building-meets-action-rpg-in-cygnus-enterprises)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 19:30:11+00:00
- - tags: None
 
 Team Miaozi and NetEase Games' genre hybrid hits Early Access on December 16.
 
@@ -212,7 +186,6 @@ Team Miaozi and NetEase Games' genre hybrid hits Early Access on December 16.
  - [https://www.pcgamer.com/solve-puzzles-flee-foes-and-hold-tight-to-your-friends-in-daydream-forgotten-sorrow](https://www.pcgamer.com/solve-puzzles-flee-foes-and-hold-tight-to-your-friends-in-daydream-forgotten-sorrow)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 19:30:11+00:00
- - tags: None
 
 An award-winning art style captures the story of a boy, his friendly bear, and their long, long journey home.
 
@@ -220,7 +193,6 @@ An award-winning art style captures the story of a boy, his friendly bear, and t
  - [https://www.pcgamer.com/narrative-collides-with-turn-based-fights-and-cards-in-untamed-tactics](https://www.pcgamer.com/narrative-collides-with-turn-based-fights-and-cards-in-untamed-tactics)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 19:30:00+00:00
- - tags: None
 
 Coming 2023, Grumpy Owl Games’ tactical RPG tells an epic story, one turn at a time.
 
@@ -228,7 +200,6 @@ Coming 2023, Grumpy Owl Games’ tactical RPG tells an epic story, one turn at a
  - [https://www.pcgamer.com/somehow-theres-never-been-a-battlefield-map-set-in-sweden-until-now](https://www.pcgamer.com/somehow-theres-never-been-a-battlefield-map-set-in-sweden-until-now)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 18:42:37+00:00
- - tags: None
 
 Battlefield 2042 Season 3 brings the series to developer DICE's home country for the first time.
 
@@ -236,7 +207,6 @@ Battlefield 2042 Season 3 brings the series to developer DICE's home country for
  - [https://www.pcgamer.com/survival-tribe-builder-aska-tasks-you-and-your-friends-with-building-a-viking-society](https://www.pcgamer.com/survival-tribe-builder-aska-tasks-you-and-your-friends-with-building-a-viking-society)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 18:40:28+00:00
- - tags: None
 
 Aska zooms out the survival genre, having you build and manage a village of NPCs.
 
@@ -244,7 +214,6 @@ Aska zooms out the survival genre, having you build and manage a village of NPCs
  - [https://www.pcgamer.com/warhammer-40000-rogue-trader-reveals-first-look-at-gameplay-at-the-pc-gaming-show](https://www.pcgamer.com/warhammer-40000-rogue-trader-reveals-first-look-at-gameplay-at-the-pc-gaming-show)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 18:28:26+00:00
- - tags: None
 
 Owlcat Games gives us our first real look at the upcoming Warhammer CRPG.
 
@@ -252,7 +221,6 @@ Owlcat Games gives us our first real look at the upcoming Warhammer CRPG.
  - [https://www.pcgamer.com/call-of-duty-Warzone-2-DMZ-mode-feels-like-Call-of-Dutys-future](https://www.pcgamer.com/call-of-duty-Warzone-2-DMZ-mode-feels-like-Call-of-Dutys-future)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 18:28:26+00:00
- - tags: None
 
 Heavily inspired by other games it may be, but Infinity Ward has hit a sweet spot between gung-ho spectacle and teamwork.
 
@@ -260,7 +228,6 @@ Heavily inspired by other games it may be, but Infinity Ward has hit a sweet spo
  - [https://www.pcgamer.com/kerbal-space-program-2-is-going-to-let-you-have-competitive-multiplayer-space-races](https://www.pcgamer.com/kerbal-space-program-2-is-going-to-let-you-have-competitive-multiplayer-space-races)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 18:24:39+00:00
- - tags: None
 
 Form cooperative space agencies with your friends, or compete in a race to the stars.
 
@@ -268,7 +235,6 @@ Form cooperative space agencies with your friends, or compete in a race to the s
  - [https://www.pcgamer.com/kerbal-space-program-director-explains-why-colonies-are-going-to-change-everything-lays-out-early-access-plans](https://www.pcgamer.com/kerbal-space-program-director-explains-why-colonies-are-going-to-change-everything-lays-out-early-access-plans)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 18:23:19+00:00
- - tags: None
 
 Here's what we learned about KSP2 during the PC Gaming Show 2023 Preview.
 
@@ -276,7 +242,6 @@ Here's what we learned about KSP2 during the PC Gaming Show 2023 Preview.
  - [https://www.pcgamer.com/jumplight-odyssey-turns-classic-space-anime-into-a-roguelite-and-youre-captaining-the-ship](https://www.pcgamer.com/jumplight-odyssey-turns-classic-space-anime-into-a-roguelite-and-youre-captaining-the-ship)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 18:02:35+00:00
- - tags: None
 
 Armello developer League of Geeks' new game is a gorgeous blend of '70s anime and RimWorld-esque colony sim.
 
@@ -284,7 +249,6 @@ Armello developer League of Geeks' new game is a gorgeous blend of '70s anime an
  - [https://www.pcgamer.com/call-of-duty-warzone-2-contracts](https://www.pcgamer.com/call-of-duty-warzone-2-contracts)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 17:48:46+00:00
- - tags: None
 
 Time to make some money.
 
@@ -292,7 +256,6 @@ Time to make some money.
  - [https://www.pcgamer.com/pentiment-director-says-he-never-would-have-proposed-the-game-without-game-pass](https://www.pcgamer.com/pentiment-director-says-he-never-would-have-proposed-the-game-without-game-pass)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 17:13:17+00:00
- - tags: None
 
 "In a traditional model, I just don't think I would have even bothered."
 
@@ -300,7 +263,6 @@ Time to make some money.
  - [https://www.pcgamer.com/survive-lurking-horrors-while-you-weaponize-human-cloning-in-paradoxs-new-deep-sea-survival-game](https://www.pcgamer.com/survive-lurking-horrors-while-you-weaponize-human-cloning-in-paradoxs-new-deep-sea-survival-game)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 17:03:34+00:00
- - tags: None
 
 Surviving the Abyss is set to launch into early access on Steam in January.
 
@@ -308,7 +270,6 @@ Surviving the Abyss is set to launch into early access on Steam in January.
  - [https://www.pcgamer.com/moore-threads-chinese-gpu-benchmarked-beaten-handily-by-rtx-3060](https://www.pcgamer.com/moore-threads-chinese-gpu-benchmarked-beaten-handily-by-rtx-3060)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 16:50:12+00:00
- - tags: None
 
 Nice hardware specs, but the software kinda sucks.
 
@@ -316,7 +277,6 @@ Nice hardware specs, but the software kinda sucks.
  - [https://www.pcgamer.com/it-all-started-with-a-missed-beer-how-riot-and-ubisoft-began-a-new-project-to-prevent-harmful-comms](https://www.pcgamer.com/it-all-started-with-a-missed-beer-how-riot-and-ubisoft-began-a-new-project-to-prevent-harmful-comms)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 16:40:26+00:00
- - tags: None
 
 Sometimes missing out on a beer with a friend can lead to great things.
 
@@ -324,7 +284,6 @@ Sometimes missing out on a beer with a friend can lead to great things.
  - [https://www.pcgamer.com/call-of-duty-warzone-2-aq-soldier-kills](https://www.pcgamer.com/call-of-duty-warzone-2-aq-soldier-kills)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 16:19:17+00:00
- - tags: None
 
 You might've seen this show up on the AAR.
 
@@ -332,7 +291,6 @@ You might've seen this show up on the AAR.
  - [https://www.pcgamer.com/modern-warfare-2s-new-map-arrives-with-giant-invisible-walls](https://www.pcgamer.com/modern-warfare-2s-new-map-arrives-with-giant-invisible-walls)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 15:28:26+00:00
- - tags: None
 
 Well that's one way to reduce the bodycount.
 
@@ -340,7 +298,6 @@ Well that's one way to reduce the bodycount.
  - [https://www.pcgamer.com/john-wick-writer-bringing-streets-of-rage-to-the-big-screen](https://www.pcgamer.com/john-wick-writer-bringing-streets-of-rage-to-the-big-screen)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 14:58:22+00:00
- - tags: None
 
 "To play with Sega? The 10-year-old me is still grinning."
 
@@ -348,7 +305,6 @@ Well that's one way to reduce the bodycount.
  - [https://www.pcgamer.com/marvels-midnight-suns-is-more-fire-emblem-than-xcom](https://www.pcgamer.com/marvels-midnight-suns-is-more-fire-emblem-than-xcom)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 14:00:48+00:00
- - tags: None
 
 And is better suited to superhero shenanigans as a result.
 
@@ -356,7 +312,6 @@ And is better suited to superhero shenanigans as a result.
  - [https://www.pcgamer.com/want-a-new-gaming-laptop-you-could-win-big-with-this-12th-gen-intel-core-powered-hp-omen-16-giveaway](https://www.pcgamer.com/want-a-new-gaming-laptop-you-could-win-big-with-this-12th-gen-intel-core-powered-hp-omen-16-giveaway)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 14:00:00+00:00
- - tags: None
 
 12th Gen Intel Core H-series laptop CPUs are some of the most powerful processors you can get in a gaming laptop, and right now, you can enter this giveaway for a chance to win an HP OMEN 16 with one.
 
@@ -364,7 +319,6 @@ And is better suited to superhero shenanigans as a result.
  - [https://www.pcgamer.com/you-could-win-a-powerful-gaming-pc-built-with-this-limited-edition-ouro-kronii-case-thanks-to-this-giveaway](https://www.pcgamer.com/you-could-win-a-powerful-gaming-pc-built-with-this-limited-edition-ouro-kronii-case-thanks-to-this-giveaway)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 14:00:00+00:00
- - tags: None
 
 Thanks to this giveaway, you could win a unique custom Ouro Kronii-themed PC built by iBUYPOWER that’s equipped with an Intel Core i9-13900KF CPU, an RTX 3080, and more.
 
@@ -372,7 +326,6 @@ Thanks to this giveaway, you could win a unique custom Ouro Kronii-themed PC bui
  - [https://www.pcgamer.com/call-of-duty-warzone-2-cash-money](https://www.pcgamer.com/call-of-duty-warzone-2-cash-money)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 13:28:14+00:00
- - tags: None
 
 Work towards victory by collecting cash.
 
@@ -380,7 +333,6 @@ Work towards victory by collecting cash.
  - [https://www.pcgamer.com/call-of-duty-warzone-2-best-starting-locations](https://www.pcgamer.com/call-of-duty-warzone-2-best-starting-locations)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 13:07:05+00:00
- - tags: None
 
 Where we dropping, boys?
 
@@ -388,7 +340,6 @@ Where we dropping, boys?
  - [https://www.pcgamer.com/nvidia-hit-with-class-action-suit-over-melting-rtx-4090-gpu-adapters](https://www.pcgamer.com/nvidia-hit-with-class-action-suit-over-melting-rtx-4090-gpu-adapters)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 13:02:47+00:00
- - tags: None
 
 Disgruntled RTX 4090 owner turns up the heat on the green team.
 
@@ -396,7 +347,6 @@ Disgruntled RTX 4090 owner turns up the heat on the green team.
  - [https://www.pcgamer.com/us-congresswoman-alexandria-ocasio-cortez-roasts-crypto-bros-for-scrub-tier-league-of-legends-play](https://www.pcgamer.com/us-congresswoman-alexandria-ocasio-cortez-roasts-crypto-bros-for-scrub-tier-league-of-legends-play)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 12:53:39+00:00
- - tags: None
 
 Publicly owned.
 
@@ -404,7 +354,6 @@ Publicly owned.
  - [https://www.pcgamer.com/the-four-pillars-of-society-in-floodland](https://www.pcgamer.com/the-four-pillars-of-society-in-floodland)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 12:38:19+00:00
- - tags: None
 
 Keeping your clan alive, happy, and productive in the post-apocalypse.
 
@@ -412,7 +361,6 @@ Keeping your clan alive, happy, and productive in the post-apocalypse.
  - [https://www.pcgamer.com/call-of-duty-warzone-2-black-site-keys](https://www.pcgamer.com/call-of-duty-warzone-2-black-site-keys)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 12:37:23+00:00
- - tags: None
 
 Raid a black site to get a weapon blueprint.
 
@@ -420,7 +368,6 @@ Raid a black site to get a weapon blueprint.
  - [https://www.pcgamer.com/call-of-duty-warzone-2-players-like-everything-but-the-microsoft-excel-looting](https://www.pcgamer.com/call-of-duty-warzone-2-players-like-everything-but-the-microsoft-excel-looting)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 12:34:24+00:00
- - tags: None
 
 The new Warzone 2 system is a bit of a deathtrap.
 
@@ -428,7 +375,6 @@ The new Warzone 2 system is a bit of a deathtrap.
  - [https://www.pcgamer.com/surprise-dead-island-2-gets-delayed-for-like-the-gajillionth-time](https://www.pcgamer.com/surprise-dead-island-2-gets-delayed-for-like-the-gajillionth-time)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 12:33:20+00:00
- - tags: None
 
 After nine years, what's another three months?
 
@@ -436,7 +382,6 @@ After nine years, what's another three months?
  - [https://www.pcgamer.com/save-the-date-nvidia-to-announce-new-gpus-january-3](https://www.pcgamer.com/save-the-date-nvidia-to-announce-new-gpus-january-3)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 11:56:46+00:00
- - tags: None
 
 Mobile chips and the rebranded RTX 4080 12GB likely to be in the mix.
 
@@ -444,7 +389,6 @@ Mobile chips and the rebranded RTX 4080 12GB likely to be in the mix.
  - [https://www.pcgamer.com/chinese-state-media-changes-its-mind-suggests-videogames-are-good-actually](https://www.pcgamer.com/chinese-state-media-changes-its-mind-suggests-videogames-are-good-actually)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 11:41:11+00:00
- - tags: None
 
 The Communist Party Central Committee-owned People's Daily signals a sea-change is underway.
 
@@ -452,7 +396,6 @@ The Communist Party Central Committee-owned People's Daily signals a sea-change 
  - [https://www.pcgamer.com/saints-row-developer-is-being-shifted-to-gearbox-following-tepid-launch](https://www.pcgamer.com/saints-row-developer-is-being-shifted-to-gearbox-following-tepid-launch)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 11:28:18+00:00
- - tags: None
 
 Embracer Group says Gearbox "has all the tools … to create future success at Volition."
 
@@ -460,7 +403,6 @@ Embracer Group says Gearbox "has all the tools … to create future success at V
  - [https://www.pcgamer.com/wordle-516-answer-november-17](https://www.pcgamer.com/wordle-516-answer-november-17)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 06:05:46+00:00
- - tags: None
 
 Wordle today: The solution and a hint for the #516 puzzle.
 
@@ -468,7 +410,6 @@ Wordle today: The solution and a hint for the #516 puzzle.
  - [https://www.pcgamer.com/most-of-blizzards-games-wont-be-available-in-china-as-of-next-year](https://www.pcgamer.com/most-of-blizzards-games-wont-be-available-in-china-as-of-next-year)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 05:18:03+00:00
- - tags: None
 
 Blizzard's deal with NetEase is about to end.
 
@@ -476,7 +417,6 @@ Blizzard's deal with NetEase is about to end.
  - [https://www.pcgamer.com/elgatos-new-stream-deck-looks-to-go-beyond-streaming-macros](https://www.pcgamer.com/elgatos-new-stream-deck-looks-to-go-beyond-streaming-macros)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 04:36:07+00:00
- - tags: None
 
 Plus more tactile control options.
 
@@ -484,7 +424,6 @@ Plus more tactile control options.
  - [https://www.pcgamer.com/huge-hd-mod-for-batman-arkham-city-enhances-more-than-1000-textures](https://www.pcgamer.com/huge-hd-mod-for-batman-arkham-city-enhances-more-than-1000-textures)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 03:11:11+00:00
- - tags: None
 
 Arkham City Redux has the 11-year-old Batman game looking fresh.
 
@@ -492,7 +431,6 @@ Arkham City Redux has the 11-year-old Batman game looking fresh.
  - [https://www.pcgamer.com/buckle-up-youre-now-entering-pc-gamings-peak-for-2022](https://www.pcgamer.com/buckle-up-youre-now-entering-pc-gamings-peak-for-2022)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 03:03:33+00:00
- - tags: None
 
 World of Warcraft: Dragonflight, Warzone 2.0, the PC Gaming Show: 2023 Preview, multiple Marvel games, and more add up to a stacked couple of weeks.
 
@@ -500,7 +438,6 @@ World of Warcraft: Dragonflight, Warzone 2.0, the PC Gaming Show: 2023 Preview, 
  - [https://www.pcgamer.com/now-theres-a-warzone-2-bug-making-players-die-instantly](https://www.pcgamer.com/now-theres-a-warzone-2-bug-making-players-die-instantly)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 02:45:24+00:00
- - tags: None
 
 When they should be experiencing several seconds of wailing and begging for a revive.
 
@@ -508,7 +445,6 @@ When they should be experiencing several seconds of wailing and begging for a re
  - [https://www.pcgamer.com/rainbow-six-sieges-secret-new-anti-cheat-tactic-is-causing-a-stir](https://www.pcgamer.com/rainbow-six-sieges-secret-new-anti-cheat-tactic-is-causing-a-stir)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 00:42:57+00:00
- - tags: None
 
 Ubisoft says it's "confident" in the strategy, although it may have the side effect of breaking certain overlays.
 
@@ -516,7 +452,6 @@ Ubisoft says it's "confident" in the strategy, although it may have the side eff
  - [https://www.pcgamer.com/call-of-duty-warzone-2-proximity-chat](https://www.pcgamer.com/call-of-duty-warzone-2-proximity-chat)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 00:21:44+00:00
- - tags: None
 
 A single new feature is already changing how Warzone is played.
 
@@ -524,6 +459,5 @@ A single new feature is already changing how Warzone is played.
  - [https://www.pcgamer.com/wow-dragonflights-dracthyr-are-more-evidence-that-rpg-players-just-want-to-make-characters](https://www.pcgamer.com/wow-dragonflights-dracthyr-are-more-evidence-that-rpg-players-just-want-to-make-characters)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-17 00:06:25+00:00
- - tags: None
 
 Everyone is going dragon mode.

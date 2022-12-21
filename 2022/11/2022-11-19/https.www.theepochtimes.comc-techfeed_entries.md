@@ -1,10 +1,9 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/
+# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
 
 ## Elon Musk Runs Poll Asking Whether Trump Should Be Reinstated
  - [https://www.theepochtimes.com/elon-musk-runs-poll-asking-whether-trump-should-be-reinstated_4873697.html](https://www.theepochtimes.com/elon-musk-runs-poll-asking-whether-trump-should-be-reinstated_4873697.html)
  - RSS feed: https://www.theepochtimes.com/c-tech/feed/
  - date published: 2022-11-19 10:33:10+00:00
- - tags: None
 
 Former President Donald Trump (L) and Elon Musk. (Joe Raedle/Getty Images; Theo Wargo/Getty Images for TIME)
 
@@ -12,7 +11,6 @@ Former President Donald Trump (L) and Elon Musk. (Joe Raedle/Getty Images; Theo 
  - [https://www.theepochtimes.com/google-struck-360-million-activision-deal-to-block-rival-app-store-lawsuit-says_4871818.html](https://www.theepochtimes.com/google-struck-360-million-activision-deal-to-block-rival-app-store-lawsuit-says_4871818.html)
  - RSS feed: https://www.theepochtimes.com/c-tech/feed/
  - date published: 2022-11-19 08:53:11+00:00
- - tags: None
 
 The logo of Google during the Viva Tech start-up and technology summit in Paris on May 25, 2018. (Charles Platiau/Reuters)
 
@@ -20,7 +18,6 @@ The logo of Google during the Viva Tech start-up and technology summit in Paris 
  - [https://www.theepochtimes.com/report-questions-bidens-push-to-install-e-car-chargers-at-gas-stations_4873265.html](https://www.theepochtimes.com/report-questions-bidens-push-to-install-e-car-chargers-at-gas-stations_4873265.html)
  - RSS feed: https://www.theepochtimes.com/c-tech/feed/
  - date published: 2022-11-19 07:05:26+00:00
- - tags: None
 
 A Tesla vehicle is plugged into a Tesla charging station in a parking lot in Santa Monica, Calif on Sept. 22, 2022. (Allison Dinner/Getty Images)
 
@@ -28,6 +25,5 @@ A Tesla vehicle is plugged into a Tesla charging station in a parking lot in San
  - [https://www.theepochtimes.com/tesla-recalls-30000-model-x-cars-shares-hit-two-year-low_4872012.html](https://www.theepochtimes.com/tesla-recalls-30000-model-x-cars-shares-hit-two-year-low_4872012.html)
  - RSS feed: https://www.theepochtimes.com/c-tech/feed/
  - date published: 2022-11-19 03:45:50+00:00
- - tags: None
 
 A Tesla Model X electric vehicle in a picture illustration taken in Moscow on July 23, 2020. (Evgenia Novozhenina/Reuters)

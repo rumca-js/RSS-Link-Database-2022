@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## Chinese police increase censorship and intimidation in attempt to stop protests
  - [https://www.cnn.com/videos/world/2022/11/29/chinese-police-intimidation-censorship-tactics-wang-sot-lead-vpx.cnn](https://www.cnn.com/videos/world/2022/11/29/chinese-police-intimidation-censorship-tactics-wang-sot-lead-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 23:10:27+00:00
- - tags: None
 
 Police in China are increasing censorship and intimidation tactics by taking residents' phones and deleting social media apps. This comes as an attempt to try and end protests over the government's zero-Covid policy. CNN's Selina Wang reports.
 
@@ -12,7 +11,6 @@ Police in China are increasing censorship and intimidation tactics by taking res
  - [https://edition.cnn.com/politics/live-news/oath-keepers-trial-verdict/index.html](https://edition.cnn.com/politics/live-news/oath-keepers-trial-verdict/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 23:00:08.900700+00:00
- - tags: None
 
 
 
@@ -20,7 +18,6 @@ Police in China are increasing censorship and intimidation tactics by taking res
  - [https://edition.cnn.com/webview/politics/live-news/oath-keepers-trial-verdict/index.html](https://edition.cnn.com/webview/politics/live-news/oath-keepers-trial-verdict/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 23:00:08.820185+00:00
- - tags: None
 
 
 
@@ -28,7 +25,6 @@ Police in China are increasing censorship and intimidation tactics by taking res
  - [https://www.cnn.com/videos/us/2022/11/29/two-missing-girls-reunited-parents-louisiana-contd-orig-aw.cnn](https://www.cnn.com/videos/us/2022/11/29/two-missing-girls-reunited-parents-louisiana-contd-orig-aw.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 21:56:08+00:00
- - tags: None
 
 Two young girls and their dog were found by search crews and reunited with their parents more than four hours after they went missing in Louisiana.
 
@@ -36,7 +32,6 @@ Two young girls and their dog were found by search crews and reunited with their
  - [https://edition.cnn.com/sport/live-news/world-cup-2022-11-29/index.html](https://edition.cnn.com/sport/live-news/world-cup-2022-11-29/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 21:28:41.305023+00:00
- - tags: None
 
 • Senegal and Netherlands progress to World Cup knockout stages
 
@@ -44,7 +39,6 @@ Two young girls and their dog were found by search crews and reunited with their
  - [https://www.cnn.com/videos/celebrities/2022/11/29/gloria-estefan-daughter-come-out-lgbtq-grandma-cprog-wtcw-vpx.cnn](https://www.cnn.com/videos/celebrities/2022/11/29/gloria-estefan-daughter-come-out-lgbtq-grandma-cprog-wtcw-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 21:23:17+00:00
- - tags: None
 
 Gloria Estefan talks to CNN's Chris Wallace about her reluctance to have her daughter come out to the singer's mother before she died.
 
@@ -52,7 +46,6 @@ Gloria Estefan talks to CNN's Chris Wallace about her reluctance to have her dau
  - [https://www.cnn.com/2022/11/29/health/osteoarthritis-steroid-injections-wellness/index.html](https://www.cnn.com/2022/11/29/health/osteoarthritis-steroid-injections-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 19:15:59+00:00
- - tags: None
 
 A common treatment for some arthritis pain might actually be making the condition worse, according to two new studies.
 
@@ -60,7 +53,6 @@ A common treatment for some arthritis pain might actually be making the conditio
  - [https://edition.cnn.com/webview/sport/live-news/world-cup-2022-11-29/index.html](https://edition.cnn.com/webview/sport/live-news/world-cup-2022-11-29/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 18:28:31.747458+00:00
- - tags: None
 
 
 
@@ -68,7 +60,6 @@ A common treatment for some arthritis pain might actually be making the conditio
  - [https://www.cnn.com/collections/china-us-tensions-intl-112922/](https://www.cnn.com/collections/china-us-tensions-intl-112922/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 17:49:23+00:00
- - tags: None
 
 
 
@@ -76,7 +67,6 @@ A common treatment for some arthritis pain might actually be making the conditio
  - [https://www.cnn.com/2022/11/29/world/china-space-station-astronauts-launch-scn/index.html](https://www.cnn.com/2022/11/29/world/china-space-station-astronauts-launch-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 17:24:21+00:00
- - tags: None
 
 Three astronauts lifted off to China's nearly completed space station on Tuesday, marking the beginning of the country's long-term presence in space.
 
@@ -84,7 +74,6 @@ Three astronauts lifted off to China's nearly completed space station on Tuesday
  - [https://www.cnn.com/videos/us/2022/11/29/groom-dives-for-ring-moos-cprog-orig-bdk.cnn](https://www.cnn.com/videos/us/2022/11/29/groom-dives-for-ring-moos-cprog-orig-bdk.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 16:52:13+00:00
- - tags: None
 
 "Will you marry me?" turns into "engagement ring overboard!" CNN's Jeanne Moos reports on a Titanic proposal.
 
@@ -92,7 +81,6 @@ Three astronauts lifted off to China's nearly completed space station on Tuesday
  - [https://www.cnn.com/2022/11/29/entertainment/hailey-bieber-ovarian-cyst/index.html](https://www.cnn.com/2022/11/29/entertainment/hailey-bieber-ovarian-cyst/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 16:48:57+00:00
- - tags: None
 
 Hailey Bieber is once again trying to make it clear that she is not pregnant.
 
@@ -100,7 +88,6 @@ Hailey Bieber is once again trying to make it clear that she is not pregnant.
  - [https://www.cnn.com/videos/world/2022/11/29/mauna-loa-volcano-eruption-contd-lon-orig-na.cnn](https://www.cnn.com/videos/world/2022/11/29/mauna-loa-volcano-eruption-contd-lon-orig-na.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 16:35:32+00:00
- - tags: None
 
 Hawaii's Mauna Loa, the world's largest active volcano, has been erupting since November 27, according to the US Geological Survey.
 
@@ -108,7 +95,6 @@ Hawaii's Mauna Loa, the world's largest active volcano, has been erupting since 
  - [https://www.cnn.com/2022/11/29/politics/mike-pence-donald-trump-nick-fuentes/index.html](https://www.cnn.com/2022/11/29/politics/mike-pence-donald-trump-nick-fuentes/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 16:31:36+00:00
- - tags: None
 
 Mike Pence on Monday condemned Donald Trump for having dinner with White nationalist and Holocaust denier Nick Fuentes and rapper Kanye West, who has voiced a number of antisemitic views of late.
 
@@ -116,7 +102,6 @@ Mike Pence on Monday condemned Donald Trump for having dinner with White nationa
  - [https://www.cnn.com/videos/us/2022/11/29/dwayne-the-rock-johnson-snickers-stole-youth-mxp-vpx.hln](https://www.cnn.com/videos/us/2022/11/29/dwayne-the-rock-johnson-snickers-stole-youth-mxp-vpx.hln)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 16:12:18+00:00
- - tags: None
 
 Dwayne 'The Rock' Johnson returns to his hometown's 7-Eleven to right a wrong from his youth. HLN's Melissa Knowles has the details.
 
@@ -124,7 +109,6 @@ Dwayne 'The Rock' Johnson returns to his hometown's 7-Eleven to right a wrong fr
  - [https://www.cnn.com/2022/11/29/health/gun-deaths-disparities/index.html](https://www.cnn.com/2022/11/29/health/gun-deaths-disparities/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 16:01:03+00:00
- - tags: None
 
 Firearm deaths surged in the US during the Covid-19 pandemic, killing a record number of people in 2021. But as America's gun epidemic gets worse, its burden is not equal.
 
@@ -132,7 +116,6 @@ Firearm deaths surged in the US during the Covid-19 pandemic, killing a record n
  - [https://www.cnn.com/style/article/supertall-skyscraper-austin-texas-wilson-tower/index.html](https://www.cnn.com/style/article/supertall-skyscraper-austin-texas-wilson-tower/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 15:54:32+00:00
- - tags: None
 
 There's a well-known saying that everything is bigger in Texas. But so far, that hasn't been the case for the state capital's skyline.
 
@@ -140,7 +123,6 @@ There's a well-known saying that everything is bigger in Texas. But so far, that
  - [https://www.cnn.com/2022/11/29/entertainment/horatio-sanz-lawsuit-dismissed/index.html](https://www.cnn.com/2022/11/29/entertainment/horatio-sanz-lawsuit-dismissed/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 15:40:40+00:00
- - tags: None
 
 The parties involved in a lawsuit brought by an undisclosed woman accusing former "Saturday Night Live" star Horatio Sanz of sexual assault two decades ago have agreed to dismiss the case, according to court records from the Supreme Court of New York.
 
@@ -148,7 +130,6 @@ The parties involved in a lawsuit brought by an undisclosed woman accusing forme
  - [https://www.cnn.com/2022/11/29/world/species-discovery-prehistoric-sea-turtle-scn/index.html](https://www.cnn.com/2022/11/29/world/species-discovery-prehistoric-sea-turtle-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 15:39:27+00:00
- - tags: None
 
 Long ago, gigantic marine turtles swam the Earth's seas. Until recently, these prehistoric giants, reaching lengths of over 3 meters (10 feet) from head to tail, had been thought to be found only in waters surrounding North America.
 
@@ -156,7 +137,6 @@ Long ago, gigantic marine turtles swam the Earth's seas. Until recently, these p
  - [https://www.cnn.com/style/article/carlisle-castle-carvings-scli-gbr-intl/index.html](https://www.cnn.com/style/article/carlisle-castle-carvings-scli-gbr-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 15:38:06+00:00
- - tags: None
 
 Conservators working at a castle in northwestern England have managed to rescue some unusual medieval stone carvings that were in danger of being destroyed by the elements.
 
@@ -164,7 +144,6 @@ Conservators working at a castle in northwestern England have managed to rescue 
  - [https://www.cnn.com/2022/11/29/economy/consumer-confidence-index-november/index.html](https://www.cnn.com/2022/11/29/economy/consumer-confidence-index-november/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 15:05:19+00:00
- - tags: None
 
 US consumer confidence fell in November as inflation and economic uncertainty continued to loom large and potentially dampen holiday shopping plans.
 
@@ -172,7 +151,6 @@ US consumer confidence fell in November as inflation and economic uncertainty co
  - [https://www.cnn.com/videos/business/2022/11/29/dirty-dancing-sequel-cnntm-cprog-vpx.cnn](https://www.cnn.com/videos/business/2022/11/29/dirty-dancing-sequel-cnntm-cprog-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 14:37:48+00:00
- - tags: None
 
 "Dirty Dancing" star Jennifer Grey talked to "Extra" about her character returning for the film's sequel, and teased what audiences can expect in the reprisal. CNN anchors Poppy Harlow and Don Lemon attempt one of the iconic moves from the film.
 
@@ -180,7 +158,6 @@ US consumer confidence fell in November as inflation and economic uncertainty co
  - [https://www.cnn.com/2022/11/29/business/mcgold-card-mcdonalds/index.html](https://www.cnn.com/2022/11/29/business/mcgold-card-mcdonalds/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 14:15:11+00:00
- - tags: None
 
 For the holidays, McDonald's is giving away one free meals for life. Well, sort of.
 
@@ -188,7 +165,6 @@ For the holidays, McDonald's is giving away one free meals for life. Well, sort 
  - [https://www.cnn.com/videos/politics/2022/11/29/georgia-gov-brian-kemp-warnock-walker-sot-intv-collins-pkg-cnntm-vpx.cnn](https://www.cnn.com/videos/politics/2022/11/29/georgia-gov-brian-kemp-warnock-walker-sot-intv-collins-pkg-cnntm-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 14:07:30+00:00
- - tags: None
 
 Republican Gov. Brian Kemp of Georgia sits down with CNN's Kaitlan Collins to discuss his state's runoff Senate election between the GOP's Herschel Walker and Democratic incumbent Sen. Raphael Warnock.
 
@@ -196,7 +172,6 @@ Republican Gov. Brian Kemp of Georgia sits down with CNN's Kaitlan Collins to di
  - [https://www.cnn.com/2022/11/29/uk/england-wales-christianity-census-intl/index.html](https://www.cnn.com/2022/11/29/uk/england-wales-christianity-census-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 14:07:20+00:00
- - tags: None
 
 England and Wales are no longer majority Christian, and are slightly less White than a decade ago, newly released 2021 census data show.
 
@@ -204,7 +179,6 @@ England and Wales are no longer majority Christian, and are slightly less White 
  - [https://www.cnn.com/videos/us/2022/11/29/hawaii-mauna-loa-volcano-eruption-hawaiian-goddess-pele-cnntm-weir-vpx.cnn](https://www.cnn.com/videos/us/2022/11/29/hawaii-mauna-loa-volcano-eruption-hawaiian-goddess-pele-cnntm-weir-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 13:43:51+00:00
- - tags: None
 
 CNN chief climate correspondent Bill Weir explains the cultural and religious significance of Hawaii's Mauna Loa eruption.
 
@@ -212,7 +186,6 @@ CNN chief climate correspondent Bill Weir explains the cultural and religious si
  - [https://www.cnn.com/2022/11/29/entertainment/eric-the-trainer-dead-intl-scli/index.html](https://www.cnn.com/2022/11/29/entertainment/eric-the-trainer-dead-intl-scli/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 13:34:10+00:00
- - tags: None
 
 Celebrity personal trainer Eric Fleishman has died at the age of 53.
 
@@ -220,7 +193,6 @@ Celebrity personal trainer Eric Fleishman has died at the age of 53.
  - [https://www.cnn.com/travel/article/gwendolyn-bruhn-hawaiian-airlines-flight-attendant-1940s/index.html](https://www.cnn.com/travel/article/gwendolyn-bruhn-hawaiian-airlines-flight-attendant-1940s/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 13:29:32+00:00
- - tags: None
 
 Earlier this year, Gwendolyn Bruhn, 94, traveled from her home on the Hawaiian island of Oahu to the Hawaiian island of Maui to attend her great-granddaughter's wedding.
 
@@ -228,7 +200,6 @@ Earlier this year, Gwendolyn Bruhn, 94, traveled from her home on the Hawaiian i
  - [https://www.cnn.com/2022/11/29/europe/pope-francis-chechens-buryats-intl/index.html](https://www.cnn.com/2022/11/29/europe/pope-francis-chechens-buryats-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 13:17:16+00:00
- - tags: None
 
 Pope Francis has described two of Russia's ethnic minority groups, the Chechens and Buryats, as some of the "cruelest" troops fighting in Ukraine.
 
@@ -236,7 +207,6 @@ Pope Francis has described two of Russia's ethnic minority groups, the Chechens 
  - [https://www.cnn.com/2022/11/29/entertainment/will-smith-daily-show/index.html](https://www.cnn.com/2022/11/29/entertainment/will-smith-daily-show/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 13:15:57+00:00
- - tags: None
 
 Will Smith opened up to Trevor Noah about the now-famous slap at the Oscars in March during an appearance that aired Monday night on "The Daily Show."
 
@@ -244,7 +214,6 @@ Will Smith opened up to Trevor Noah about the now-famous slap at the Oscars in M
  - [https://www.cnn.com/2022/11/29/africa/spanish-coastguard-rescues-stowaways-intl/index.html](https://www.cnn.com/2022/11/29/africa/spanish-coastguard-rescues-stowaways-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 13:05:10+00:00
- - tags: None
 
 The Spanish coast guard has rescued three people who were stowed on top of the rudder of a ship that arrived in the Canary Islands from Nigeria.
 
@@ -252,7 +221,6 @@ The Spanish coast guard has rescued three people who were stowed on top of the r
  - [https://www.cnn.com/videos/business/2022/11/29/rail-workers-possible-strike-matt-weaver-union-intv-cnntm-contd-vpx.cnn](https://www.cnn.com/videos/business/2022/11/29/rail-workers-possible-strike-matt-weaver-union-intv-cnntm-contd-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 12:51:25+00:00
- - tags: None
 
 President Biden is urging Congress to do something to avert the rail strike that would devastate our economy by causing shortages, spiking prices and halting factory production. Matthew Weaver, an organizer and Ohio's legislative director for the third largest rail union in the US, joins CNN This Morning to discuss.
 
@@ -260,7 +228,6 @@ President Biden is urging Congress to do something to avert the rail strike that
  - [https://www.cnn.com/2022/11/29/investing/premarket-stocks-trading/index.html](https://www.cnn.com/2022/11/29/investing/premarket-stocks-trading/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 12:49:52+00:00
- - tags: None
 
 Protests against China's prolonged and restrictive Covid regulations spread across the country over the weekend. The demonstrations against Chinese President Xi Jinping and his costly zero-Covid policy are an exceedingly rare case of widespread civil disobedience.
 
@@ -268,7 +235,6 @@ Protests against China's prolonged and restrictive Covid regulations spread acro
  - [https://www.cnn.com/2022/11/29/tech/twitter-covid-misinformation-policy/index.html](https://www.cnn.com/2022/11/29/tech/twitter-covid-misinformation-policy/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 12:12:46+00:00
- - tags: None
 
 Twitter said it will no longer enforce its longstanding Covid misinformation policy, yet another sign of how Elon Musk plans to transform the social media company he bought a month ago.
 
@@ -276,7 +242,6 @@ Twitter said it will no longer enforce its longstanding Covid misinformation pol
  - [https://www.cnn.com/2022/11/29/opinions/kherson-ukraine-putin-heroism-darkness-khan/index.html](https://www.cnn.com/2022/11/29/opinions/kherson-ukraine-putin-heroism-darkness-khan/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 11:46:19+00:00
- - tags: None
 
 The contrast couldn't have been more stark. Last week, as fires crackled in homes across America and families gathered to give thanks, half-a-world away a dictator sent missiles raining down on Ukrainian neighborhoods, cutting power in his quest to steal their independence.
 
@@ -284,7 +249,6 @@ The contrast couldn't have been more stark. Last week, as fires crackled in home
  - [https://www.cnn.com/2022/11/29/china/china-protest-crackdown-intl-hnk/index.html](https://www.cnn.com/2022/11/29/china/china-protest-crackdown-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 11:31:38+00:00
- - tags: None
 
 China's vast security apparatus has moved swiftly to smother mass protests that swept the country, with police patrolling streets, checking cell phones and even calling some demonstrators to warn them against a repeat.
 
@@ -292,7 +256,6 @@ China's vast security apparatus has moved swiftly to smother mass protests that 
  - [https://www.cnn.com/2022/11/29/entertainment/clarence-gilyard-jr-die-hard-dead-intl-scli/index.html](https://www.cnn.com/2022/11/29/entertainment/clarence-gilyard-jr-die-hard-dead-intl-scli/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 11:28:14+00:00
- - tags: None
 
 Clarence Gilyard Jr., the actor best known for playing computer hacker Theo in "Die Hard" and naval flight officer Marcus "Sundown" Williams in "Top Gun," has died at the age of 66.
 
@@ -300,7 +263,6 @@ Clarence Gilyard Jr., the actor best known for playing computer hacker Theo in "
  - [https://www.cnn.com/2022/11/29/us/austin-edwards-riverside-catfishing-murders-what-we-know/index.html](https://www.cnn.com/2022/11/29/us/austin-edwards-riverside-catfishing-murders-what-we-know/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 11:21:21+00:00
- - tags: None
 
 Roughly 10 days after a former Virginia state trooper was hired by a sheriff's office in that state, he traveled to Southern California and allegedly killed the family of a teenager he had catfished online, officials said.
 
@@ -308,7 +270,6 @@ Roughly 10 days after a former Virginia state trooper was hired by a sheriff's o
  - [https://www.cnn.com/2022/11/29/business/ecoworks-germany-cladding-climate-spc-intl/index.html](https://www.cnn.com/2022/11/29/business/ecoworks-germany-cladding-climate-spc-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 10:53:39+00:00
- - tags: None
 
 With soaring energy prices, home insulation is becoming increasingly important. But old buildings that fail to keep in the heat are not only expensive for residents — they're also costly for the climate.
 
@@ -316,7 +277,6 @@ With soaring energy prices, home insulation is becoming increasingly important. 
  - [https://www.cnn.com/2022/11/29/football/cristiano-ronaldo-goal-portugal-uruguay-world-cup-2022-spt-intl/index.html](https://www.cnn.com/2022/11/29/football/cristiano-ronaldo-goal-portugal-uruguay-world-cup-2022-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 10:41:55+00:00
- - tags: None
 
 As he sprinted away to the corner flag with his arms spread wide on Monday, Cristiano Ronaldo thought he'd leveled Portugal great Eusebio's record as the nation's all-time World Cup scorer.
 
@@ -324,7 +284,6 @@ As he sprinted away to the corner flag with his arms spread wide on Monday, Cris
  - [https://www.cnn.com/2022/11/29/business/bitfront-line-crypto-exchange-hnk-intl/index.html](https://www.cnn.com/2022/11/29/business/bitfront-line-crypto-exchange-hnk-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 10:40:43+00:00
- - tags: None
 
 Bitfront, a crypto exchange backed by Japanese social media app Line, is shutting down after failing to overcome turmoil in the industry.
 
@@ -332,7 +291,6 @@ Bitfront, a crypto exchange backed by Japanese social media app Line, is shuttin
  - [https://www.cnn.com/style/article/extinct-endangered-insects-levon-biss-c2e-scn-spc-intl/index.html](https://www.cnn.com/style/article/extinct-endangered-insects-levon-biss-c2e-scn-spc-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 10:12:50+00:00
- - tags: None
 
 The petrol-blue wings of a swallowtail butterfly, soft fur of a giant Patagonian bumblebee, and oil-painted smudges of a ladybug are some of the details captured by British photographer Levon Biss in a new book that documents insect decline.
 
@@ -340,7 +298,6 @@ The petrol-blue wings of a swallowtail butterfly, soft fur of a giant Patagonian
  - [https://www.cnn.com/2022/11/29/politics/same-sex-marriage-vote-senate/index.html](https://www.cnn.com/2022/11/29/politics/same-sex-marriage-vote-senate/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 10:00:20+00:00
- - tags: None
 
 The Senate is set to vote Tuesday on final passage of a bipartisan bill to protect same-sex and interracial marriage.
 
@@ -348,7 +305,6 @@ The Senate is set to vote Tuesday on final passage of a bipartisan bill to prote
  - [https://www.cnn.com/2022/11/29/politics/texas-supreme-court-immigration/index.html](https://www.cnn.com/2022/11/29/politics/texas-supreme-court-immigration/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 10:00:12+00:00
- - tags: None
 
 The Supreme Court on Tuesday will consider the Biden administration's discretion on removing non-citizens in a challenge brought by two Republican state attorneys general who say the Department of Homeland Security is skirting federal immigration law.
 
@@ -356,7 +312,6 @@ The Supreme Court on Tuesday will consider the Biden administration's discretion
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-11-29-22/index.html](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-11-29-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 09:59:26.586759+00:00
- - tags: None
 
 
 
@@ -364,7 +319,6 @@ The Supreme Court on Tuesday will consider the Biden administration's discretion
  - [https://www.cnn.com/2022/11/29/health/men-friendships-wellness/index.html](https://www.cnn.com/2022/11/29/health/men-friendships-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 09:55:57+00:00
- - tags: None
 
 Friendships aren't just about those you sit with on the school bus or play alongside on your childhood baseball team — they are a core component of the human experience, experts say.
 
@@ -372,7 +326,6 @@ Friendships aren't just about those you sit with on the school bus or play along
  - [https://www.cnn.com/videos/sports/2022/11/29/jason-rezaian-journalist-iran-us-interview-ovn-intl-hnk-vpx.cnn](https://www.cnn.com/videos/sports/2022/11/29/jason-rezaian-journalist-iran-us-interview-ovn-intl-hnk-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 09:34:42+00:00
- - tags: None
 
 Jason Rezaian is a global opinions writer for the Washington Post and served as the post's correspondent in Tehran, Iran, where he he was unjustly imprisoned for more than a year. He speaks to CNN's Paula Newton about why he's rooting for Iran in the US-Iran game.
 
@@ -380,7 +333,6 @@ Jason Rezaian is a global opinions writer for the Washington Post and served as 
  - [https://www.cnn.com/europe/live-news/russia-ukraine-war-news-11-29-22/index.html](https://www.cnn.com/europe/live-news/russia-ukraine-war-news-11-29-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 09:30:50+00:00
- - tags: None
 
 • In Kherson, Russian forces are killing the civilians they once vowed to protect
 • Opinion: The one light Putin cannot snuff out
@@ -390,7 +342,6 @@ Jason Rezaian is a global opinions writer for the Washington Post and served as 
  - [https://www.cnn.com/2022/11/29/us/uvalde-lawsuit-gun-maker-seller/index.html](https://www.cnn.com/2022/11/29/us/uvalde-lawsuit-gun-maker-seller/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 09:17:15+00:00
- - tags: None
 
 The family of Eliahna Torres, who was killed in the massacre at Robb Elementary in Uvalde, Texas, filed a lawsuit Monday against nearly two dozen people and entities, including the gun manufacturer and store that provided the rifle used in the May 24 attack and law enforcement officials who responded to the scene, according to court documents.
 
@@ -398,7 +349,6 @@ The family of Eliahna Torres, who was killed in the massacre at Robb Elementary 
  - [https://www.cnn.com/2022/11/29/china/china-covid-response-protests-intl-hnk/index.html](https://www.cnn.com/2022/11/29/china/china-covid-response-protests-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 09:12:13+00:00
- - tags: None
 
 China's top health officials have pledged to rectify Covid-19 control measures to reduce their impact on people's lives, while deflecting blame for public frustration away from the policy itself, in their first press briefing since protests erupted against the government's stringent zero-Covid policy over the weekend.
 
@@ -406,7 +356,6 @@ China's top health officials have pledged to rectify Covid-19 control measures t
  - [https://www.cnn.com/collections/intl-ukraine-2911/](https://www.cnn.com/collections/intl-ukraine-2911/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 09:02:12+00:00
- - tags: None
 
 
 
@@ -414,7 +363,6 @@ China's top health officials have pledged to rectify Covid-19 control measures t
  - [https://cnn.it/3Fbb6wX](https://cnn.it/3Fbb6wX)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 08:59:23.105377+00:00
- - tags: None
 
 
 
@@ -422,7 +370,6 @@ China's top health officials have pledged to rectify Covid-19 control measures t
  - [https://www.cnn.com/2022/11/29/asia/us-navy-freedom-of-navigation-south-china-sea-intl-hnk-ml/index.html](https://www.cnn.com/2022/11/29/asia/us-navy-freedom-of-navigation-south-china-sea-intl-hnk-ml/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 08:44:54+00:00
- - tags: None
 
 The United States and Chinese militaries exchanged harsh words Tuesday after a US Navy warship performed the first freedom of navigation operation (FONOP) in the South China Sea since the leaders of the two powers met earlier this month in an attempt to ease tensions.
 
@@ -430,7 +377,6 @@ The United States and Chinese militaries exchanged harsh words Tuesday after a U
  - [https://www.cnn.com/2022/11/29/us/joshua-cooper-pennsylvania-instagram-killing-complaint/index.html](https://www.cnn.com/2022/11/29/us/joshua-cooper-pennsylvania-instagram-killing-complaint/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 08:24:22+00:00
- - tags: None
 
 The 16-year-old Pennsylvania boy who allegedly confessed over Instagram video chat to killing a young girl told police when he was taken into custody that "it was an accident," according to a criminal complaint.
 
@@ -438,7 +384,6 @@ The 16-year-old Pennsylvania boy who allegedly confessed over Instagram video ch
  - [https://www.cnn.com/2022/11/29/us/melissa-highsmith-forth-worth-texas-kidnapping-reunion/index.html](https://www.cnn.com/2022/11/29/us/melissa-highsmith-forth-worth-texas-kidnapping-reunion/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 07:17:01+00:00
- - tags: None
 
 A family in Fort Worth, Texas, has been reunited with their daughter who was kidnapped as a baby more than five decades ago thanks to a DNA match from the ancestry service 23andMe, the family announced Sunday.
 
@@ -446,7 +391,6 @@ A family in Fort Worth, Texas, has been reunited with their daughter who was kid
  - [https://www.cnn.com/videos/world/2022/11/29/china-xinjiang-fire-urumqi-protest-watson-pkg-ovn-intl-hnk-vpx.cnn](https://www.cnn.com/videos/world/2022/11/29/china-xinjiang-fire-urumqi-protest-watson-pkg-ovn-intl-hnk-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 07:10:19+00:00
- - tags: None
 
 A fire incident in Urumqi, Xinjiang, has triggered the biggest nationwide display of discontent tightly-controlled China has seen in a generation. CNN's Ivan Watson exclusively speaks to family members of the victims killed in the fire in Xinjiang.
 
@@ -454,7 +398,6 @@ A fire incident in Urumqi, Xinjiang, has triggered the biggest nationwide displa
  - [https://www.cnn.com/2022/11/29/asia/hong-kong-jimmy-lai-lawyer-intl-hnk/index.html](https://www.cnn.com/2022/11/29/asia/hong-kong-jimmy-lai-lawyer-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 06:50:10+00:00
- - tags: None
 
 Hong Kong's leader said he'll ask Beijing to determine whether foreign lawyers can work on national security cases in the city, a move with repercussions for the upcoming trial of jailed pro-democracy media tycoon Jimmy Lai.
 
@@ -462,7 +405,6 @@ Hong Kong's leader said he'll ask Beijing to determine whether foreign lawyers c
  - [https://www.cnn.com/videos/us/2022/11/29/texas-family-reunited-with-daughter-51-years-affil-contd-vpx.ktvt](https://www.cnn.com/videos/us/2022/11/29/texas-family-reunited-with-daughter-51-years-affil-contd-vpx.ktvt)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 05:28:36+00:00
- - tags: None
 
 A family in Fort Worth is reunited after their daughter was kidnapped 51 years ago, thanks to a DNA match on 23&amp;Me, the family announced on Facebook. KTVT's Nick Starling reports.
 
@@ -470,7 +412,6 @@ A family in Fort Worth is reunited after their daughter was kidnapped 51 years a
  - [https://www.cnn.com/2022/11/29/health/skin-whitening-beauty-creams-mercury-vision-loss-mother-families-as-equals-intl-cmd/index.html](https://www.cnn.com/2022/11/29/health/skin-whitening-beauty-creams-mercury-vision-loss-mother-families-as-equals-intl-cmd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 05:05:19+00:00
- - tags: None
 
 
 
@@ -478,7 +419,6 @@ A family in Fort Worth is reunited after their daughter was kidnapped 51 years a
  - [https://www.cnn.com/videos/world/2022/11/29/russia-ukraine-war-bakhmut-putin-wesley-clark-ac360-vpx.cnn](https://www.cnn.com/videos/world/2022/11/29/russia-ukraine-war-bakhmut-putin-wesley-clark-ac360-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 04:10:00+00:00
- - tags: None
 
 Former NATO Supreme Allied Commander Gen. Wesley Clark (ret.) tells CNN's John Berman what Russia may be hoping to achieve in their latest attacks against Ukraine.
 
@@ -486,7 +426,6 @@ Former NATO Supreme Allied Commander Gen. Wesley Clark (ret.) tells CNN's John B
  - [https://www.cnn.com/videos/politics/2022/11/29/jonathan-greenblatt-adl-ceo-donald-trump-d-list-celebrity-nick-fuentes-sot-ac360-vpx.cnn](https://www.cnn.com/videos/politics/2022/11/29/jonathan-greenblatt-adl-ceo-donald-trump-d-list-celebrity-nick-fuentes-sot-ac360-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 03:24:41+00:00
- - tags: None
 
 CEO of the Anti-Defamation League Jonathan Greenblatt tell CNN's John Berman why he believes former President Donald Trump has "joined the 'D' list of celebrities" after Trump dined with known white supremacist Nick Fuentes.
 
@@ -494,7 +433,6 @@ CEO of the Anti-Defamation League Jonathan Greenblatt tell CNN's John Berman why
  - [https://www.cnn.com/style/article/balenciaga-lawsuit-controversial-campaign/index.html](https://www.cnn.com/style/article/balenciaga-lawsuit-controversial-campaign/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 02:53:33+00:00
- - tags: None
 
 Luxury fashion house Balenciaga is suing the production company behind its Spring 2023 ad campaign after paperwork about a Supreme Court ruling on child pornography was identified in one of the images.
 
@@ -502,7 +440,6 @@ Luxury fashion house Balenciaga is suing the production company behind its Sprin
  - [https://www.cnn.com/travel/article/driving-across-the-world-land-rover-1970s/index.html](https://www.cnn.com/travel/article/driving-across-the-world-land-rover-1970s/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 02:41:51+00:00
- - tags: None
 
 The #vanlife trend has taken off in a big way in recent years, with countless travelers opting to hit the road in tiny homes on wheels.
 
@@ -510,7 +447,6 @@ The #vanlife trend has taken off in a big way in recent years, with countless tr
  - [https://www.cnn.com/travel/article/ash-cloud-aircraft-explainer/index.html](https://www.cnn.com/travel/article/ash-cloud-aircraft-explainer/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 02:08:14+00:00
- - tags: None
 
 Travelers with upcoming flights to Hawaii's Hilo and Ellison Onizuka Kona international airports are being advised by the state's Department of Transportation to check with their airlines before setting out, due to the ongoing volcanic eruption at Mauna Loa.
 
@@ -518,7 +454,6 @@ Travelers with upcoming flights to Hawaii's Hilo and Ellison Onizuka Kona intern
  - [https://www.cnn.com/2022/11/28/world/nasa-artemis-1-orion-spacecraft-furthest-distance-moon-scn/index.html](https://www.cnn.com/2022/11/28/world/nasa-artemis-1-orion-spacecraft-furthest-distance-moon-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 01:31:37+00:00
- - tags: None
 
 The Orion spacecraft, which is at the core of NASA's historic Artemis I mission, reached its farthest distance from Earth Monday afternoon, shattering the record for the maximum distance a spacecraft designed to carry humans has ever traveled.
 
@@ -526,7 +461,6 @@ The Orion spacecraft, which is at the core of NASA's historic Artemis I mission,
  - [https://www.cnn.com/videos/us/2022/11/29/cold-stunned-sea-turtles-rescued-cape-cod-massachusetts-cprog-orig-aw.cnn](https://www.cnn.com/videos/us/2022/11/29/cold-stunned-sea-turtles-rescued-cape-cod-massachusetts-cprog-orig-aw.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 01:08:39+00:00
- - tags: None
 
 More than 150 cold-stunned sea turtles have been rescued in Cape Cod, Massachusetts and treated at the New England Aquarium.
 
@@ -534,6 +468,5 @@ More than 150 cold-stunned sea turtles have been rescued in Cape Cod, Massachuse
  - [https://www.cnn.com/2022/11/28/politics/trump-dinner-holocaust-denier-white-nationalist-pence-gop-condemn/index.html](https://www.cnn.com/2022/11/28/politics/trump-dinner-holocaust-denier-white-nationalist-pence-gop-condemn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-29 00:39:42+00:00
- - tags: None
 
 Former Vice President Mike Pence said Monday that Donald Trump was "wrong" to recently have dinner with White nationalist and Holocaust denier Nick Fuentes and rapper Kanye West at his Florida resort and that the former president should apologize for it.

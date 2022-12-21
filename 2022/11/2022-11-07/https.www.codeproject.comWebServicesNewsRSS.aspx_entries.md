@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## Bring WCF apps to the latest .NET with CoreWCF and Upgrade Assistant
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59415](https://www.codeproject.com/script/News/View.aspx?nwid=59415)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-07 05:00:00+00:00
- - tags: None
 
 Bad news: It's still WCF
 
@@ -12,7 +11,6 @@ Bad news: It's still WCF
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59414](https://www.codeproject.com/script/News/View.aspx?nwid=59414)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-07 05:00:00+00:00
- - tags: None
 
 They're just looking for the next PM
 
@@ -20,7 +18,6 @@ They're just looking for the next PM
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59418](https://www.codeproject.com/script/News/View.aspx?nwid=59418)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-07 05:00:00+00:00
- - tags: None
 
 "I suspect that there are just two sorts of lawyers: those who spend their efforts making life easy for other people—and parasites."
 
@@ -28,7 +25,6 @@ They're just looking for the next PM
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59412](https://www.codeproject.com/script/News/View.aspx?nwid=59412)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-07 05:00:00+00:00
- - tags: None
 
 It does! "A Future represents the result of an asynchronous computation."
 
@@ -36,7 +32,6 @@ It does! "A Future represents the result of an asynchronous computation."
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59416](https://www.codeproject.com/script/News/View.aspx?nwid=59416)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-07 05:00:00+00:00
- - tags: None
 
 Is 'engineers' a word meaning 'everyone' in that headline?
 
@@ -44,7 +39,6 @@ Is 'engineers' a word meaning 'everyone' in that headline?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59420](https://www.codeproject.com/script/News/View.aspx?nwid=59420)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-07 05:00:00+00:00
- - tags: None
 
 Just because you can compile it yourself, doesn't mean you can compile it yourself
 
@@ -52,7 +46,6 @@ Just because you can compile it yourself, doesn't mean you can compile it yourse
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59417](https://www.codeproject.com/script/News/View.aspx?nwid=59417)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-07 05:00:00+00:00
- - tags: None
 
 Thus irritating both music lovers, and computer nostalgia fans
 
@@ -60,7 +53,6 @@ Thus irritating both music lovers, and computer nostalgia fans
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59423](https://www.codeproject.com/script/News/View.aspx?nwid=59423)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-07 05:00:00+00:00
- - tags: None
 
 "You do the hokey pokey and you turn yourself around"
 
@@ -68,7 +60,6 @@ Thus irritating both music lovers, and computer nostalgia fans
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59419](https://www.codeproject.com/script/News/View.aspx?nwid=59419)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-07 05:00:00+00:00
- - tags: None
 
 "We're one, but we're not the same"
 
@@ -76,7 +67,6 @@ Thus irritating both music lovers, and computer nostalgia fans
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59413](https://www.codeproject.com/script/News/View.aspx?nwid=59413)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-07 05:00:00+00:00
- - tags: None
 
 Done.
 
@@ -84,6 +74,5 @@ Done.
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59421](https://www.codeproject.com/script/News/View.aspx?nwid=59421)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-07 05:00:00+00:00
- - tags: None
 
 Beware of hackers flying drones next to your house

@@ -1,10 +1,9 @@
-# Source Techlore, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg
+# Source Techlore, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg, Source language: en-US
 
 ## See If Your Browser Is Private with THIS Tool!
  - [https://www.youtube.com/watch?v=y9UJEn81UVw](https://www.youtube.com/watch?v=y9UJEn81UVw)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg
  - date published: 2022-11-11 20:15:01+00:00
- - tags: None
 
 Is your browser actually private & secure? This tool may help you answer that question!
 

@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## Microsoft Hackathon winner wants to help you fix your friend’s phone from afar
  - [https://www.pcworld.com/article/1398491/microsoft-may-allow-you-to-fix-your-folks-smartphone-while-in-bed.html](https://www.pcworld.com/article/1398491/microsoft-may-allow-you-to-fix-your-folks-smartphone-while-in-bed.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-29 18:25:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>It&rsquo;s the bane of a techie&rsquo;s existence: providing tech support to family and friends, especially at the holidays. But the winners of Microsoft&rsquo;s Hackathon app think they have a new twist: a remote-access app for smartphones to help out family members.</p>
@@ -34,7 +33,6 @@ Android</div>
  - [https://www.pcworld.com/article/1398160/this-steelseries-mechanical-keyboard-is-only-99.html](https://www.pcworld.com/article/1398160/this-steelseries-mechanical-keyboard-is-only-99.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-29 14:54:09+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you&rsquo;re on the hunt for a feature-packed mechanical keyboard, you&rsquo;re in luck, as we&rsquo;ve got an awesome deal for you today. Adorama&rsquo;s currently selling the <a href="https://adorama.rfvk.net/c/321564/51926/1036?subId1=2-1-1398160-1-0-0&amp;u=https%3A%2F%2Fwww.adorama.com%2Fss64734.html&amp;partnerpropertyid=322172" rel="nofollow">SteelSeries Apex Pro TKL wired mechanical gaming keyboard for just $99.99</a>, which is a savings of $80. Not only is this keyboard made of aircraft grade aluminum alloy, but it also has an OLED smart display. Let&rsquo;s get right into it.</p>
@@ -55,7 +53,6 @@ Keyboards</div>
  - [https://www.pcworld.com/article/1385708/hp-spectre-x360-14-review-oled-2022.html](https://www.pcworld.com/article/1385708/hp-spectre-x360-14-review-oled-2022.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-29 11:45:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
@@ -217,7 +214,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/1385986/asus-rog-crosshair-x670e-hero-motherboard-review.html](https://www.pcworld.com/article/1385986/asus-rog-crosshair-x670e-hero-motherboard-review.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-29 11:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
@@ -422,7 +418,6 @@ Desktop PCs, Gaming, Gaming PCs</div>
  - [https://www.pcworld.com/article/1395081/cyber-monday-extended-get-this-refurbished-microsoft-surface-pro-5-for-400.html](https://www.pcworld.com/article/1395081/cyber-monday-extended-get-this-refurbished-microsoft-surface-pro-5-for-400.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-29 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>You can do your job pretty much anywhere in the remote working world. But that&rsquo;s only if you have the right tools for the job. Whether you want to get some work done while in transit, at the airport, or in a coffee shop, the&nbsp;<a href="https://www.pcworld.com/article/406859/microsoft-surface-pro-2017-everything-you-need-to-know.html" rel="noreferrer noopener" target="_blank">Microsoft Surface Pro 5</a>&nbsp;is an excellent&nbsp;<a href="https://shop.pcworld.com/sales/microsoft-surface-pro-5-model-1796-intel-core-i5-8gb-256gb-windows-pro?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=microsoft-surface-pro-5-model-1796-intel-core-i5-8gb-256gb-windows-pro&amp;utm_term=scsf-458541&amp;utm_content=a0x1P000004YrXgQAK&amp;scsonar=1" rel="noreferrer noopener" target="_blank">portable workhorse machine</a>.</p>

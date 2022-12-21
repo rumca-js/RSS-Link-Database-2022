@@ -1,10 +1,9 @@
-# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
+# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug, Source language: en-US
 
 ## Why a missile frenzy in North Korea in 2022? The CCP is the crux of North Korea's nuclear problem
  - [https://www.youtube.com/watch?v=yPvbkUuJ96Q](https://www.youtube.com/watch?v=yPvbkUuJ96Q)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
  - date published: 2022-11-23 02:45:02+00:00
- - tags: None
 
 #chinainsights 
 For the CCP, it is a natural policy to support North Korea's nuclear and missile development and to cooperate with the Kim regime in order to keep the U.S. in check. 

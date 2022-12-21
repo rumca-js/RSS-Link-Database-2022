@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## First M2 Max benchmark scores appear to leak on Geekbench
  - [https://arstechnica.com/?p=1901150](https://arstechnica.com/?p=1901150)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-30 23:26:05+00:00
- - tags: None
 
 If the scores are legit, they show fairly modest gains compared to the M1 Max.
 
@@ -12,7 +11,6 @@ If the scores are legit, they show fairly modest gains compared to the M1 Max.
  - [https://arstechnica.com/?p=1901037](https://arstechnica.com/?p=1901037)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-30 23:13:19+00:00
- - tags: None
 
 "Production ready" neural net makes actors younger or older for film or TV.
 
@@ -20,7 +18,6 @@ If the scores are legit, they show fairly modest gains compared to the M1 Max.
  - [https://arstechnica.com/?p=1900424](https://arstechnica.com/?p=1900424)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-30 22:49:41+00:00
- - tags: None
 
 “It’s probably swallowing the star at the rate of half the mass of the sun per year.”
 
@@ -28,7 +25,6 @@ If the scores are legit, they show fairly modest gains compared to the M1 Max.
  - [https://arstechnica.com/?p=1900891](https://arstechnica.com/?p=1900891)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-30 22:16:50+00:00
- - tags: None
 
 The SFPD is now authorized to use explosive robots when lives are at stake.
 
@@ -36,7 +32,6 @@ The SFPD is now authorized to use explosive robots when lives are at stake.
  - [https://arstechnica.com/?p=1901081](https://arstechnica.com/?p=1901081)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-30 21:55:43+00:00
- - tags: None
 
 Device structure does energy-free desalination before water is split.
 
@@ -44,7 +39,6 @@ Device structure does energy-free desalination before water is split.
  - [https://arstechnica.com/?p=1901044](https://arstechnica.com/?p=1901044)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-30 21:34:47+00:00
- - tags: None
 
 From software to silicon carbide inverters, the sport's not just entertainment.
 
@@ -52,7 +46,6 @@ From software to silicon carbide inverters, the sport's not just entertainment.
  - [https://arstechnica.com/?p=1901042](https://arstechnica.com/?p=1901042)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-30 21:05:41+00:00
- - tags: None
 
 Twitter claims "none of our policies have changed" after abandoning COVID policy.
 
@@ -60,7 +53,6 @@ Twitter claims "none of our policies have changed" after abandoning COVID policy
  - [https://arstechnica.com/?p=1901008](https://arstechnica.com/?p=1901008)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-30 20:55:50+00:00
- - tags: None
 
 Customers claim that Google Play artificially inflated app prices.
 
@@ -68,7 +60,6 @@ Customers claim that Google Play artificially inflated app prices.
  - [https://arstechnica.com/?p=1900987](https://arstechnica.com/?p=1900987)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-30 20:19:45+00:00
- - tags: None
 
 A much bigger iOS update numbered 16.2 is expected soon.
 
@@ -76,7 +67,6 @@ A much bigger iOS update numbered 16.2 is expected soon.
  - [https://arstechnica.com/?p=1901003](https://arstechnica.com/?p=1901003)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-30 20:07:49+00:00
- - tags: None
 
 Texts were used to provide verification codes for fraudulent accounts.
 
@@ -84,7 +74,6 @@ Texts were used to provide verification codes for fraudulent accounts.
  - [https://arstechnica.com/?p=1900883](https://arstechnica.com/?p=1900883)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-30 19:33:13+00:00
- - tags: None
 
 Company says it should have better informed users of how it sends mobile alerts.
 
@@ -92,7 +81,6 @@ Company says it should have better informed users of how it sends mobile alerts.
  - [https://arstechnica.com/?p=1900924](https://arstechnica.com/?p=1900924)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-30 19:08:31+00:00
- - tags: None
 
 Only affected users living in specific states will be eligible for payouts.
 
@@ -100,7 +88,6 @@ Only affected users living in specific states will be eligible for payouts.
  - [https://arstechnica.com/?p=1900919](https://arstechnica.com/?p=1900919)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-30 18:55:47+00:00
- - tags: None
 
 Former safety chief Yoel Roth's advice for Musk: "Humility goes a really long way."
 
@@ -108,7 +95,6 @@ Former safety chief Yoel Roth's advice for Musk: "Humility goes a really long wa
  - [https://arstechnica.com/?p=1900864](https://arstechnica.com/?p=1900864)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-30 18:45:31+00:00
- - tags: None
 
 Trackball mice are still niche, but modern features keep new releases relevant.
 
@@ -116,7 +102,6 @@ Trackball mice are still niche, but modern features keep new releases relevant.
  - [https://arstechnica.com/?p=1900905](https://arstechnica.com/?p=1900905)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-30 18:03:31+00:00
- - tags: None
 
 Before sentencing, Juli Mazi claimed she had "sovereign immunity."
 
@@ -124,7 +109,6 @@ Before sentencing, Juli Mazi claimed she had "sovereign immunity."
  - [https://arstechnica.com/?p=1900859](https://arstechnica.com/?p=1900859)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-30 17:49:32+00:00
- - tags: None
 
 ispace is seeking to become the first private company to successfully land on the Moon.
 
@@ -132,7 +116,6 @@ ispace is seeking to become the first private company to successfully land on th
  - [https://arstechnica.com/?p=1900871](https://arstechnica.com/?p=1900871)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-30 17:40:38+00:00
- - tags: None
 
 Months of licensing talks fall apart, dooming December championship and 2023 season.
 
@@ -140,7 +123,6 @@ Months of licensing talks fall apart, dooming December championship and 2023 sea
  - [https://arstechnica.com/?p=1900867](https://arstechnica.com/?p=1900867)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-30 17:04:13+00:00
- - tags: None
 
 He also raised the price of blue checks by 1 cent.
 
@@ -148,7 +130,6 @@ He also raised the price of blue checks by 1 cent.
  - [https://arstechnica.com/?p=1900863](https://arstechnica.com/?p=1900863)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-30 16:48:13+00:00
- - tags: None
 
 OnePlus and Samsung are now tied in having the longest update plans.
 
@@ -156,7 +137,6 @@ OnePlus and Samsung are now tied in having the longest update plans.
  - [https://arstechnica.com/?p=1900851](https://arstechnica.com/?p=1900851)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-30 14:17:35+00:00
- - tags: None
 
 Russian assault on electricity grid drives Starlink prices up.
 
@@ -164,6 +144,5 @@ Russian assault on electricity grid drives Starlink prices up.
  - [https://arstechnica.com/?p=1898102](https://arstechnica.com/?p=1898102)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-30 12:00:46+00:00
- - tags: None
 
 Building your own can be considerably cheaper, but DIY-ing isn't always easy.

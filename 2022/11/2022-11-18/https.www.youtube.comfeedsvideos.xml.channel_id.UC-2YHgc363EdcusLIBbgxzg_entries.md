@@ -1,10 +1,9 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
+# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
 
 ## Dolphins Are Way OP
  - [https://www.youtube.com/watch?v=8iETbENPYA8](https://www.youtube.com/watch?v=8iETbENPYA8)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
  - date published: 2022-11-18 18:40:48+00:00
- - tags: None
 
 From telepathy to x-ray vision, dolphins have some crazy abilities.
 

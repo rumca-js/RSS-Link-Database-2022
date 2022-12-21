@@ -1,10 +1,9 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/
+# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
 
 ## 8 Black Friday Must-Haves That Have Never Had Prices Lower Than This     - CNET
  - [https://www.cnet.com/deals/8-black-friday-must-haves-that-have-never-had-prices-lower-than-this/#ftag=CADf328eec](https://www.cnet.com/deals/8-black-friday-must-haves-that-have-never-had-prices-lower-than-this/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 23:57:51+00:00
- - tags: None
 
 These Black Friday deals aren't just good -- they're the best ever.
 
@@ -12,7 +11,6 @@ These Black Friday deals aren't just good -- they're the best ever.
  - [https://www.cnet.com/culture/internet/you-can-vote-for-the-2022-word-of-the-year-but-theres-one-clear-choice/#ftag=CADf328eec](https://www.cnet.com/culture/internet/you-can-vote-for-the-2022-word-of-the-year-but-theres-one-clear-choice/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 23:39:00+00:00
- - tags: None
 
 Choose Goblin Mode please.
 
@@ -20,7 +18,6 @@ Choose Goblin Mode please.
  - [https://www.cnet.com/roadshow/pictures/2023-porsche-911-carrera-t-first-drive-review/#ftag=CADf328eec](https://www.cnet.com/roadshow/pictures/2023-porsche-911-carrera-t-first-drive-review/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 23:01:01+00:00
- - tags: None
 
 The base Carrera's 379-horsepower engine feels like more than enough for the task at hand.
 
@@ -28,7 +25,6 @@ The base Carrera's 379-horsepower engine feels like more than enough for the tas
  - [https://www.cnet.com/culture/entertainment/everyone-needs-to-watch-the-best-tv-show-on-hbo-max/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/everyone-needs-to-watch-the-best-tv-show-on-hbo-max/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 22:57:00+00:00
- - tags: None
 
 Station Eleven is a flat out masterpiece.
 
@@ -36,7 +32,6 @@ Station Eleven is a flat out masterpiece.
  - [https://www.cnet.com/culture/entertainment/everyone-needs-to-watch-this-incredible-sci-fi-show-on-prime-video/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/everyone-needs-to-watch-this-incredible-sci-fi-show-on-prime-video/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 22:52:00+00:00
- - tags: None
 
 Every single season is a banger.
 
@@ -44,7 +39,6 @@ Every single season is a banger.
  - [https://www.cnet.com/deals/meta-quest-2-bundle-for-350-is-the-best-black-friday-buy-in-vr/#ftag=CADf328eec](https://www.cnet.com/deals/meta-quest-2-bundle-for-350-is-the-best-black-friday-buy-in-vr/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 21:35:03+00:00
- - tags: None
 
 The best VR headset comes with Beat Saber and Resident Evil 4, too -- and Black Friday brings it back down to the best price we've seen.
 
@@ -52,7 +46,6 @@ The best VR headset comes with Beat Saber and Resident Evil 4, too -- and Black 
  - [https://www.cnet.com/tech/gaming/pokemon-scarlet-and-violet-best-ways-to-farm-exp-points/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/pokemon-scarlet-and-violet-best-ways-to-farm-exp-points/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 21:22:00+00:00
- - tags: None
 
 Every Pokemon trainer needs as much experience as they can get. Here are the quickest ways to level up your Pokemon.
 
@@ -60,7 +53,6 @@ Every Pokemon trainer needs as much experience as they can get. Here are the qui
  - [https://www.cnet.com/tech/services-and-software/nfl-thanksgiving-day-how-to-watch-stream-giants-vs-cowboys-on-fox-patriots-vs-vikings-on-nbc-and-more/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/nfl-thanksgiving-day-how-to-watch-stream-giants-vs-cowboys-on-fox-patriots-vs-vikings-on-nbc-and-more/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 21:21:40+00:00
- - tags: None
 
 Thanksgiving is a time for football, with the Giants and Cowboys game available in 4K.
 
@@ -68,7 +60,6 @@ Thanksgiving is a time for football, with the Giants and Cowboys game available 
  - [https://www.cnet.com/culture/internet/what-is-hive-social-a-guide-to-the-latest-twitter-alternative/#ftag=CADf328eec](https://www.cnet.com/culture/internet/what-is-hive-social-a-guide-to-the-latest-twitter-alternative/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 21:11:00+00:00
- - tags: None
 
 This small, mobile-only social media platform is growing.
 
@@ -76,7 +67,6 @@ This small, mobile-only social media platform is growing.
  - [https://www.cnet.com/deals/colgate-hum-and-teeth-whitening-products-black-friday-sale/#ftag=CADf328eec](https://www.cnet.com/deals/colgate-hum-and-teeth-whitening-products-black-friday-sale/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 21:05:02+00:00
- - tags: None
 
 These price cuts on electric toothbrushes, whitening kits, toothpaste and more are sure to keep you smiling into the new year.
 
@@ -84,7 +74,6 @@ These price cuts on electric toothbrushes, whitening kits, toothpaste and more a
  - [https://www.cnet.com/culture/entertainment/watching-1899-on-netflix-make-sure-you-change-this-setting/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/watching-1899-on-netflix-make-sure-you-change-this-setting/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 21:05:00+00:00
- - tags: None
 
 Switch to subtitles or this show won't make a lot of sense...
 
@@ -92,7 +81,6 @@ Switch to subtitles or this show won't make a lot of sense...
  - [https://www.cnet.com/news/skip-meat-once-a-week-and-watch-your-grocery-bills-drop/#ftag=CADf328eec](https://www.cnet.com/news/skip-meat-once-a-week-and-watch-your-grocery-bills-drop/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 21:00:02+00:00
- - tags: None
 
 Small changes in your eating habits can eventually lead to great savings.
 
@@ -100,7 +88,6 @@ Small changes in your eating habits can eventually lead to great savings.
  - [https://www.cnet.com/deals/walmart-ps5-black-friday-bundles-are-still-available/#ftag=CADf328eec](https://www.cnet.com/deals/walmart-ps5-black-friday-bundles-are-still-available/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 20:41:43+00:00
- - tags: None
 
 Walmart's PS5 bundles are back in stock -- but might not be available much longer.
 
@@ -108,7 +95,6 @@ Walmart's PS5 bundles are back in stock -- but might not be available much longe
  - [https://www.cnet.com/deals/jbl-go-3-drops-to-25-for-black-friday-2022-lowest-price-ever/#ftag=CADf328eec](https://www.cnet.com/deals/jbl-go-3-drops-to-25-for-black-friday-2022-lowest-price-ever/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 20:15:02+00:00
- - tags: None
 
 Black Friday sales bring one of our favorite Bluetooth speakers, the JBL Go 3, to its best price ever.
 
@@ -116,7 +102,6 @@ Black Friday sales bring one of our favorite Bluetooth speakers, the JBL Go 3, t
  - [https://www.cnet.com/tech/black-friday-cheat-sheet-your-guide-to-the-best-deals-in-2022/#ftag=CADf328eec](https://www.cnet.com/tech/black-friday-cheat-sheet-your-guide-to-the-best-deals-in-2022/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 19:18:54+00:00
- - tags: None
 
 Before you shop, get your strategy down.
 
@@ -124,7 +109,6 @@ Before you shop, get your strategy down.
  - [https://www.cnet.com/deals/9-great-black-friday-deals-you-can-only-get-at-amazon/#ftag=CADf328eec](https://www.cnet.com/deals/9-great-black-friday-deals-you-can-only-get-at-amazon/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 18:57:20+00:00
- - tags: None
 
 These are the exclusive Amazon Black Friday deals you need to look out for.
 
@@ -132,7 +116,6 @@ These are the exclusive Amazon Black Friday deals you need to look out for.
  - [https://www.cnet.com/deals/5-luxurious-black-friday-deals-worth-splurging-on/#ftag=CADf328eec](https://www.cnet.com/deals/5-luxurious-black-friday-deals-worth-splurging-on/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 18:54:41+00:00
- - tags: None
 
 These may not be bargain-bin prices, but these gifts are worth it.
 
@@ -140,7 +123,6 @@ These may not be bargain-bin prices, but these gifts are worth it.
  - [https://www.cnet.com/deals/wow-80-dollars-for-a-2022-insignia-fire-tv-amazon-aint-playing-around/#ftag=CADf328eec](https://www.cnet.com/deals/wow-80-dollars-for-a-2022-insignia-fire-tv-amazon-aint-playing-around/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 18:44:08+00:00
- - tags: None
 
 Amazon's Black Friday deals are... on fire.
 
@@ -148,7 +130,6 @@ Amazon's Black Friday deals are... on fire.
  - [https://www.cnet.com/tech/services-and-software/secret-alexa-deals-every-black-friday-amazon-hides-a-few-in-your-echo/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/secret-alexa-deals-every-black-friday-amazon-hides-a-few-in-your-echo/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 18:33:00+00:00
- - tags: None
 
 Just ask Alexa for this year's hidden Black Friday offerings.
 
@@ -156,7 +137,6 @@ Just ask Alexa for this year's hidden Black Friday offerings.
  - [https://www.cnet.com/deals/14-black-friday-deals-that-arent-gonna-be-in-stock-long/#ftag=CADf328eec](https://www.cnet.com/deals/14-black-friday-deals-that-arent-gonna-be-in-stock-long/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 17:49:00+00:00
- - tags: None
 
 You might miss out if you don't snag these deals ASAP.
 
@@ -164,7 +144,6 @@ You might miss out if you don't snag these deals ASAP.
  - [https://www.cnet.com/culture/these-three-wordle-starter-words-practically-ensure-a-winning-streak/#ftag=CADf328eec](https://www.cnet.com/culture/these-three-wordle-starter-words-practically-ensure-a-winning-streak/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 17:40:00+00:00
- - tags: None
 
 They're like a cheat code.
 
@@ -172,7 +151,6 @@ They're like a cheat code.
  - [https://www.cnet.com/culture/internet/remember-the-marie-callenders-burnt-pie-meme-lady-heres-an-update/#ftag=CADf328eec](https://www.cnet.com/culture/internet/remember-the-marie-callenders-burnt-pie-meme-lady-heres-an-update/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 17:37:00+00:00
- - tags: None
 
 A year after the cremated Thanksgiving calamity, we check in with the real-life cook behind that famous pumpkin pie.
 
@@ -180,7 +158,6 @@ A year after the cremated Thanksgiving calamity, we check in with the real-life 
  - [https://www.cnet.com/science/how-to-speak-to-a-loved-one-with-alzheimers-or-another-dementia/#ftag=CADf328eec](https://www.cnet.com/science/how-to-speak-to-a-loved-one-with-alzheimers-or-another-dementia/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 17:35:00+00:00
- - tags: None
 
 Holiday gatherings can mean communicating with relatives who have memory loss. An expert offers her best tips.
 
@@ -188,7 +165,6 @@ Holiday gatherings can mean communicating with relatives who have memory loss. A
  - [https://www.cnet.com/culture/entertainment/the-very-best-thanksgiving-movies-to-watch-after-your-feast/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-very-best-thanksgiving-movies-to-watch-after-your-feast/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 17:34:00+00:00
- - tags: None
 
 There's not a turkey in the batch.
 
@@ -196,7 +172,6 @@ There's not a turkey in the batch.
  - [https://www.cnet.com/deals/these-black-friday-beats-headphone-deals-cant-be-beat/#ftag=CADf328eec](https://www.cnet.com/deals/these-black-friday-beats-headphone-deals-cant-be-beat/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 17:18:00+00:00
- - tags: None
 
 Black Friday 2022 delivers some of the best-ever prices on new and popular Beats earbuds and headphones.
 
@@ -204,7 +179,6 @@ Black Friday 2022 delivers some of the best-ever prices on new and popular Beats
  - [https://www.cnet.com/tech/services-and-software/nfl-thanksgiving-day-how-to-watch-bills-vs-lions-on-cbs-giants-vs-cowboys-on-fox-and-more/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/nfl-thanksgiving-day-how-to-watch-bills-vs-lions-on-cbs-giants-vs-cowboys-on-fox-and-more/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 17:03:42+00:00
- - tags: None
 
 It's time for some Thanksgiving football.
 
@@ -212,7 +186,6 @@ It's time for some Thanksgiving football.
  - [https://www.cnet.com/health/nutrition/craving-a-post-dinner-nap-on-thanksgiving-this-is-why-your-meal-makes-you-sleepy/#ftag=CADf328eec](https://www.cnet.com/health/nutrition/craving-a-post-dinner-nap-on-thanksgiving-this-is-why-your-meal-makes-you-sleepy/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 17:00:02+00:00
- - tags: None
 
 Yes, turkey makes you sleepy, but these foods are also to blame.
 
@@ -220,7 +193,6 @@ Yes, turkey makes you sleepy, but these foods are also to blame.
  - [https://www.cnet.com/culture/internet/ai-art-is-about-to-get-sharper-better-looking-less-porn-y/#ftag=CADf328eec](https://www.cnet.com/culture/internet/ai-art-is-about-to-get-sharper-better-looking-less-porn-y/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 16:36:00+00:00
- - tags: None
 
 Stable Diffusion, one of the most popular AI-generated art programs, received a major software update.
 
@@ -228,7 +200,6 @@ Stable Diffusion, one of the most popular AI-generated art programs, received a 
  - [https://www.cnet.com/tech/services-and-software/watch-brazil-vs-serbia-world-cup-2022-match-from-anywhere/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/watch-brazil-vs-serbia-world-cup-2022-match-from-anywhere/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 16:30:02+00:00
- - tags: None
 
 South America and Europe square off as Serbia tries to knock off favorite Brazil.
 
@@ -236,7 +207,6 @@ South America and Europe square off as Serbia tries to knock off favorite Brazil
  - [https://www.cnet.com/deals/score-50-off-select-toys-for-all-ages-during-targets-black-friday-sale/#ftag=CADf328eec](https://www.cnet.com/deals/score-50-off-select-toys-for-all-ages-during-targets-black-friday-sale/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 16:21:00+00:00
- - tags: None
 
 Get a fun gift for everyone in the family.
 
@@ -244,7 +214,6 @@ Get a fun gift for everyone in the family.
  - [https://www.cnet.com/deals/top-10-kohls-deals-that-amazon-just-cant-compete-with-this-black-friday/#ftag=CADf328eec](https://www.cnet.com/deals/top-10-kohls-deals-that-amazon-just-cant-compete-with-this-black-friday/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 16:15:00+00:00
- - tags: None
 
 The department store retail chain has big sales right now -- including on toys -- you can't find on Amazon.
 
@@ -252,7 +221,6 @@ The department store retail chain has big sales right now -- including on toys -
  - [https://www.cnet.com/culture/entertainment/more-people-should-watch-this-tense-absorbing-sci-fi-movie-on-netflix/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/more-people-should-watch-this-tense-absorbing-sci-fi-movie-on-netflix/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 16:00:07+00:00
- - tags: None
 
 Oxygen will make you glad you're sitting in a comfortable chair.
 
@@ -260,7 +228,6 @@ Oxygen will make you glad you're sitting in a comfortable chair.
  - [https://www.cnet.com/news/social-media/twitter-musk-update-musk-lays-off-more-staff-before-thanksgiving/#ftag=CADf328eec](https://www.cnet.com/news/social-media/twitter-musk-update-musk-lays-off-more-staff-before-thanksgiving/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 15:44:00+00:00
- - tags: None
 
 Musk is making a lot of changes at Twitter. Here's a timeline to keep you up to speed.
 
@@ -268,7 +235,6 @@ Musk is making a lot of changes at Twitter. Here's a timeline to keep you up to 
  - [https://www.cnet.com/deals/elevate-your-meals-with-stags-leap-wine-for-up-to-40-off/#ftag=CADf328eec](https://www.cnet.com/deals/elevate-your-meals-with-stags-leap-wine-for-up-to-40-off/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 15:06:00+00:00
- - tags: None
 
 Snag red and white wines and rosé at a discount.
 
@@ -276,7 +242,6 @@ Snag red and white wines and rosé at a discount.
  - [https://www.cnet.com/deals/save-up-to-40-on-bestsellers-at-winky-lux/#ftag=CADf328eec](https://www.cnet.com/deals/save-up-to-40-on-bestsellers-at-winky-lux/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 14:18:00+00:00
- - tags: None
 
 Plus, get a free lavender confetti lip balm too.
 
@@ -284,7 +249,6 @@ Plus, get a free lavender confetti lip balm too.
  - [https://www.cnet.com/videos/check-out-the-three-best-tvs-for-every-budget/#ftag=CADf328eec](https://www.cnet.com/videos/check-out-the-three-best-tvs-for-every-budget/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 14:00:01+00:00
- - tags: None
 
 From OLED to Mini-LED to basic LCD, these big screens give premium picture for the price.
 
@@ -292,7 +256,6 @@ From OLED to Mini-LED to basic LCD, these big screens give premium picture for t
  - [https://www.cnet.com/news/ges-newest-reveal-bulbs-bring-color-enhancing-joy-to-the-smart-home/#ftag=CADf328eec](https://www.cnet.com/news/ges-newest-reveal-bulbs-bring-color-enhancing-joy-to-the-smart-home/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 14:00:00+00:00
- - tags: None
 
 GE Reveal bulbs were some of the best I tested as CNET's light bulb guy. And now they're smarter than ever.
 
@@ -300,7 +263,6 @@ GE Reveal bulbs were some of the best I tested as CNET's light bulb guy. And now
  - [https://www.cnet.com/personal-finance/mortgages/mortgage-interest-rates-today-for-nov-24-2022-rates-decreased/#ftag=CADf328eec](https://www.cnet.com/personal-finance/mortgages/mortgage-interest-rates-today-for-nov-24-2022-rates-decreased/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 14:00:00+00:00
- - tags: None
 
 Today quite a few important mortgage rates tailed off, though rates are generally expected to rise this year. If you're shopping for a mortgage, see how your future mortgage payments could be affected by interest rate hikes.
 
@@ -308,7 +270,6 @@ Today quite a few important mortgage rates tailed off, though rates are generall
  - [https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-on-nov-24-2022-rates-decline/#ftag=CADf328eec](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-on-nov-24-2022-rates-decline/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 14:00:00+00:00
- - tags: None
 
 Multiple important refinance rates ticked downward today. The Fed's interest rate hikes have affected the refinance market.
 
@@ -316,7 +277,6 @@ Multiple important refinance rates ticked downward today. The Fed's interest rat
  - [https://www.cnet.com/news/cove-home-security-review-promising-but-not-quite-delivering/#ftag=CADf328eec](https://www.cnet.com/news/cove-home-security-review-promising-but-not-quite-delivering/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 13:00:27+00:00
- - tags: None
 
 Despite a solid foundation, Cove Smart can't distinguish itself in the competitive DIY home security market.
 
@@ -324,7 +284,6 @@ Despite a solid foundation, Cove Smart can't distinguish itself in the competiti
  - [https://www.cnet.com/health/fitness/its-time-for-a-wash-heres-how-to-easily-clean-your-yoga-mat/#ftag=CADf328eec](https://www.cnet.com/health/fitness/its-time-for-a-wash-heres-how-to-easily-clean-your-yoga-mat/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 13:00:23+00:00
- - tags: None
 
 Get the funky smells out of your yoga mat without damaging it in the process.
 
@@ -332,7 +291,6 @@ Get the funky smells out of your yoga mat without damaging it in the process.
  - [https://www.cnet.com/tech/services-and-software/heres-how-one-retailer-is-prepping-for-the-black-friday-cyber-onslaught/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/heres-how-one-retailer-is-prepping-for-the-black-friday-cyber-onslaught/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 13:00:19+00:00
- - tags: None
 
 Fear of ransomware and other cyberattacks will keep IT professionals on their toes over the holiday weekend.
 
@@ -340,7 +298,6 @@ Fear of ransomware and other cyberattacks will keep IT professionals on their to
  - [https://www.cnet.com/health/medical/worried-about-rsv-this-thanksgiving-what-parents-should-know/#ftag=CADf328eec](https://www.cnet.com/health/medical/worried-about-rsv-this-thanksgiving-what-parents-should-know/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 13:00:15+00:00
- - tags: None
 
 Keeping sniffling relatives away from your baby might be especially important this year as RSV continues to soar in young children.
 
@@ -348,7 +305,6 @@ Keeping sniffling relatives away from your baby might be especially important th
  - [https://www.cnet.com/news/best-black-friday-and-cyber-monday-broadband-deals/#ftag=CADf328eec](https://www.cnet.com/news/best-black-friday-and-cyber-monday-broadband-deals/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 13:00:12+00:00
- - tags: None
 
 Yes, you can find gadgets and gizmos aplenty, but did you know you can also find home internet savings this time of year?
 
@@ -356,7 +312,6 @@ Yes, you can find gadgets and gizmos aplenty, but did you know you can also find
  - [https://www.cnet.com/tech/mobile/pixel-7-vs-iphone-14-vs-galaxy-s22-big-three-flagships-of-2022-spec-by-spec/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/pixel-7-vs-iphone-14-vs-galaxy-s22-big-three-flagships-of-2022-spec-by-spec/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 13:00:07+00:00
- - tags: None
 
 Google, Apple and Samsung's flagships set the tone for phones in 2022. Here's how they stack up.
 
@@ -364,7 +319,6 @@ Google, Apple and Samsung's flagships set the tone for phones in 2022. Here's ho
  - [https://www.cnet.com/culture/internet/enjoy-wordle-you-should-try-these-other-puzzle-games-next/#ftag=CADf328eec](https://www.cnet.com/culture/internet/enjoy-wordle-you-should-try-these-other-puzzle-games-next/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 13:00:02+00:00
- - tags: None
 
 Wordle isn't the only puzzle game out there. Try one of these while you wait for tomorrow's puzzle.
 
@@ -372,7 +326,6 @@ Wordle isn't the only puzzle game out there. Try one of these while you wait for
  - [https://www.cnet.com/culture/entertainment/guardians-of-the-galaxy-holiday-special-review-festive-fun-and-short/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/guardians-of-the-galaxy-holiday-special-review-festive-fun-and-short/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 12:36:46+00:00
- - tags: None
 
 Marvel unwraps another mini-film on Disney Plus this Thanksgiving weekend, as Chris Pratt, Dave Bautista and Pom Klementieff kidnap Kevin Bacon.
 
@@ -380,7 +333,6 @@ Marvel unwraps another mini-film on Disney Plus this Thanksgiving weekend, as Ch
  - [https://www.cnet.com/deals/peloton-black-friday-amazon-deal-brings-lowest-price-ever-to-original-bike/#ftag=CADf328eec](https://www.cnet.com/deals/peloton-black-friday-amazon-deal-brings-lowest-price-ever-to-original-bike/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 12:32:00+00:00
- - tags: None
 
 You can get the Peloton Bike delivered to your home for just $1,145 right now, its best price ever.
 
@@ -388,7 +340,6 @@ You can get the Peloton Bike delivered to your home for just $1,145 right now, i
  - [https://www.cnet.com/culture/giving-tuesday-2022-what-it-means-and-how-you-can-can-help/#ftag=CADf328eec](https://www.cnet.com/culture/giving-tuesday-2022-what-it-means-and-how-you-can-can-help/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 12:30:02+00:00
- - tags: None
 
 After the glut of Thanksgiving, Black Friday and Cyber Monday, dedicate the following Tuesday to helping a neighbor or giving back.
 
@@ -396,7 +347,6 @@ After the glut of Thanksgiving, Black Friday and Cyber Monday, dedicate the foll
  - [https://www.cnet.com/culture/entertainment/1899-on-netflix-that-bizarre-ending-explained/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/1899-on-netflix-that-bizarre-ending-explained/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 12:00:23+00:00
- - tags: None
 
 Is it "Lost" at sea, or "Lost" in space?
 
@@ -404,7 +354,6 @@ Is it "Lost" at sea, or "Lost" in space?
  - [https://www.cnet.com/tech/services-and-software/try-these-7-tips-to-speed-up-your-vpn-connection/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/try-these-7-tips-to-speed-up-your-vpn-connection/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 12:00:09+00:00
- - tags: None
 
 If you're streaming or gaming online, the last thing you want is your VPN dragging down your internet. Here are ways to boost your speed.
 
@@ -412,7 +361,6 @@ If you're streaming or gaming online, the last thing you want is your VPN draggi
  - [https://www.cnet.com/health/mental/6-practical-strategies-to-manage-stress-this-holiday-season/#ftag=CADf328eec](https://www.cnet.com/health/mental/6-practical-strategies-to-manage-stress-this-holiday-season/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 12:00:06+00:00
- - tags: None
 
 As jolly as it is, the holiday season can be a time of anxiety and stress. Here's how to handle it.
 
@@ -420,7 +368,6 @@ As jolly as it is, the holiday season can be a time of anxiety and stress. Here'
  - [https://www.cnet.com/tech/mobile/one-airpod-not-working-these-steps-should-fix-it/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/one-airpod-not-working-these-steps-should-fix-it/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 12:00:02+00:00
- - tags: None
 
 If putting your AirPods back in their case doesn't work, you may need to reset them.
 
@@ -428,7 +375,6 @@ If putting your AirPods back in their case doesn't work, you may need to reset t
  - [https://www.cnet.com/deals/black-friday-air-purifier-deal-saves-you-300-on-molekule/#ftag=CADf328eec](https://www.cnet.com/deals/black-friday-air-purifier-deal-saves-you-300-on-molekule/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 11:34:20+00:00
- - tags: None
 
 This FDA-cleared device purifies the air around you and destroys viruses, bacteria and mold in personal or professional spaces.
 
@@ -436,7 +382,6 @@ This FDA-cleared device purifies the air around you and destroys viruses, bacter
  - [https://www.cnet.com/deals/ultra-comfy-hey-dude-shoes-are-up-to-53-off-for-amazons-black-friday-sale/#ftag=CADf328eec](https://www.cnet.com/deals/ultra-comfy-hey-dude-shoes-are-up-to-53-off-for-amazons-black-friday-sale/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 11:31:00+00:00
- - tags: None
 
 You'll have a hard time finding a more comfortable shoe for the price, so just grab a few pairs for yourself today.
 
@@ -444,7 +389,6 @@ You'll have a hard time finding a more comfortable shoe for the price, so just g
  - [https://www.cnet.com/personal-finance/taxes/stimulus-payments-2022-your-state-could-still-owe-you-a-check/#ftag=CADf328eec](https://www.cnet.com/personal-finance/taxes/stimulus-payments-2022-your-state-could-still-owe-you-a-check/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 11:00:07+00:00
- - tags: None
 
 South Carolina and Massachusetts are just two of the states issuing payments to taxpayers.
 
@@ -452,7 +396,6 @@ South Carolina and Massachusetts are just two of the states issuing payments to 
  - [https://www.cnet.com/roadshow/reviews/2023-bmw-ix-m60-sports-activity-vehicle-review/#ftag=CADf328eec](https://www.cnet.com/roadshow/reviews/2023-bmw-ix-m60-sports-activity-vehicle-review/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 11:00:01+00:00
- - tags: None
 
 The more powerful spec of BMW's iX electric SUV is certainly quicker than the base model, but that extra oomph comes at too high a cost.
 
@@ -460,7 +403,6 @@ The more powerful spec of BMW's iX electric SUV is certainly quicker than the ba
  - [https://www.cnet.com/roadshow/pictures/2023-bmw-ix-m60-suv/#ftag=CADf328eec](https://www.cnet.com/roadshow/pictures/2023-bmw-ix-m60-suv/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 11:00:01+00:00
- - tags: None
 
 BMW imbues its electric SUV with significantly more power, but at what cost?
 
@@ -468,7 +410,6 @@ BMW imbues its electric SUV with significantly more power, but at what cost?
  - [https://www.cnet.com/deals/best-black-friday-deals-thanksgiving-2022/#ftag=CADf328eec](https://www.cnet.com/deals/best-black-friday-deals-thanksgiving-2022/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 09:34:25+00:00
- - tags: None
 
 We are tracking all the deals in real time so that you don't have to. Get your shopping done with the best Black Friday deals in one place.
 
@@ -476,7 +417,6 @@ We are tracking all the deals in real time so that you don't have to. Get your s
  - [https://www.cnet.com/deals/best-black-friday-headphones-and-earbuds-deals-save-big-on-airpods-sony-bose-jabra-and-more/#ftag=CADf328eec](https://www.cnet.com/deals/best-black-friday-headphones-and-earbuds-deals-save-big-on-airpods-sony-bose-jabra-and-more/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 08:55:00+00:00
- - tags: None
 
 Looking for the best Black Friday 2022 headphones and earbuds deals? These are our top picks for the best offers available right now.
 
@@ -484,7 +424,6 @@ Looking for the best Black Friday 2022 headphones and earbuds deals? These are o
  - [https://www.cnet.com/science/space/2022-geminid-meteor-shower-is-active-ready-to-rain-down-shooting-stars/#ftag=CADf328eec](https://www.cnet.com/science/space/2022-geminid-meteor-shower-is-active-ready-to-rain-down-shooting-stars/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 04:56:22+00:00
- - tags: None
 
 Bright cosmic fireballs and even "Earth grazers" are on the night sky calendar in coming weeks.
 
@@ -492,7 +431,6 @@ Bright cosmic fireballs and even "Earth grazers" are on the night sky calendar i
  - [https://www.cnet.com/culture/entertainment/in-the-andor-finale-on-disney-plus/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/in-the-andor-finale-on-disney-plus/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 04:30:02+00:00
- - tags: None
 
 Andor episode 12 is availabe on Disney's streaming service.
 
@@ -500,7 +438,6 @@ Andor episode 12 is availabe on Disney's streaming service.
  - [https://www.cnet.com/tech/home-entertainment/seven-black-friday-speaker-deals-to-grab-before-theyre-gone-for-good/#ftag=CADf328eec](https://www.cnet.com/tech/home-entertainment/seven-black-friday-speaker-deals-to-grab-before-theyre-gone-for-good/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 03:04:00+00:00
- - tags: None
 
 Bluetooth speak deals are hard to come by these days. Check out these sweet deals for Black Friday and Cyber Monday.
 
@@ -508,7 +445,6 @@ Bluetooth speak deals are hard to come by these days. Check out these sweet deal
  - [https://www.cnet.com/tech/black-friday-cheat-sheet-how-to-get-the-best-deals-possible/#ftag=CADf328eec](https://www.cnet.com/tech/black-friday-cheat-sheet-how-to-get-the-best-deals-possible/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 02:54:00+00:00
- - tags: None
 
 Make your Black Friday deal hunting as stress-free as possible.
 
@@ -516,7 +452,6 @@ Make your Black Friday deal hunting as stress-free as possible.
  - [https://www.cnet.com/deals/black-friday-tv-deals-samsung-lg-sony-vizio-roku/#ftag=CADf328eec](https://www.cnet.com/deals/black-friday-tv-deals-samsung-lg-sony-vizio-roku/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 02:27:00+00:00
- - tags: None
 
 Here are the best TV deals available right now.
 
@@ -524,7 +459,6 @@ Here are the best TV deals available right now.
  - [https://www.cnet.com/tech/services-and-software/best-clothing-subscription-boxes/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/best-clothing-subscription-boxes/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 02:19:40+00:00
- - tags: None
 
 Stitch Fix, Dia, Menlo... here's how the best clothing boxes for men and women stack up.
 
@@ -532,7 +466,6 @@ Stitch Fix, Dia, Menlo... here's how the best clothing boxes for men and women s
  - [https://www.cnet.com/deals/the-14-black-friday-deals-everyone-has-in-their-cart/#ftag=CADf328eec](https://www.cnet.com/deals/the-14-black-friday-deals-everyone-has-in-their-cart/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 01:55:00+00:00
- - tags: None
 
 These deals are so good, they could sell out before Black Friday.
 
@@ -540,7 +473,6 @@ These deals are so good, they could sell out before Black Friday.
  - [https://www.cnet.com/deals/best-black-friday-bed-accessory-deals-save-on-sheets-pillows-and-even-dog-beds/#ftag=CADf328eec](https://www.cnet.com/deals/best-black-friday-bed-accessory-deals-save-on-sheets-pillows-and-even-dog-beds/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 00:36:41+00:00
- - tags: None
 
 Brands like Sleep Number, Ettitude and Brooklinen are offering big savings this Black Friday on sheets, pillows and other bedroom accessories.
 
@@ -548,7 +480,6 @@ Brands like Sleep Number, Ettitude and Brooklinen are offering big savings this 
  - [https://www.cnet.com/culture/entertainment/andor-ending-explained-full-recap-of-an-epic-season-finale/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/andor-ending-explained-full-recap-of-an-epic-season-finale/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 00:35:00+00:00
- - tags: None
 
 Let's dive into the biggest moments from Andor's finale.
 
@@ -556,6 +487,5 @@ Let's dive into the biggest moments from Andor's finale.
  - [https://www.cnet.com/news/ftxs-bankman-fried-will-attend-nyt-dealbook-summit-despite-bankruptcy/#ftag=CADf328eec](https://www.cnet.com/news/ftxs-bankman-fried-will-attend-nyt-dealbook-summit-despite-bankruptcy/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-24 00:13:00+00:00
- - tags: None
 
 The former cryptocurrency CEO is accused of mismanaging billions of dollars of customers funds.

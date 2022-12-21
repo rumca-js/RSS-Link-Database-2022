@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## Gamers Nexus investigation finds loose cables, debris behind 12VHPWR melting
  - [https://www.pcworld.com/article/1382376/gamers-nexus-investigation-finds-loose-cables-manufacturing-debris-behind-12vhpwr-melting.html](https://www.pcworld.com/article/1382376/gamers-nexus-investigation-finds-loose-cables-manufacturing-debris-behind-12vhpwr-melting.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-16 22:31:53+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>The mystery of melting 12VHWPR connectors in RTX 4090 GPUs may be due to manufacturing defects as well as improper cable insertion, <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.youtube.com/watch?v=ig2px7ofKhQ&amp;xcust=2-1-1382376-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">an investigation by Gamers Nexus</a> published Wednesday has found.</p>
@@ -111,7 +110,6 @@ GPUs</div>
  - [https://www.pcworld.com/article/1382410/now-you-can-play-games-within-microsoft-teams.html](https://www.pcworld.com/article/1382410/now-you-can-play-games-within-microsoft-teams.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-16 18:42:13+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you&rsquo;re bored at work, you no longer need to furtively seek distraction in games&mdash;you can play games with your coworkers right within Microsoft Teams with the new <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://teams.microsoft.com/l/app/db7832f4-7ead-41d4-ae33-a58096cf0c6d?source=app-details-dialog&amp;xcust=2-2-1382410-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Games for Work app</a>. </p>
@@ -137,7 +135,6 @@ Microsoft Teams, Utilities</div>
  - [https://www.pcworld.com/article/1379747/nvidia-geforce-rtx-4080-tested-5-things.html](https://www.pcworld.com/article/1379747/nvidia-geforce-rtx-4080-tested-5-things.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-16 15:14:31+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Nvidia&rsquo;s new GeForce RTX 4080 Founders Edition hits stores today, lightning-fast performance and a massive new price tag in tow. While last generation&rsquo;s <a href="https://www.pcworld.com/article/393472/nvidia-geforce-rtx-3080-founders-edition-review.html">awesome RTX 3080</a> cost $700 at launch, delivering a monument 60 to 80 percent performance uplift over its predecessor, this new model is releasing with a staggering $1,200 price tag. Yes, that&rsquo;s right: a $500 (or <em>71 percent</em>) increase over the cost of its predecessor. For roughly 30 percent more performance. </p>
@@ -305,7 +302,6 @@ Gaming, GPUs</div>
  - [https://www.pcworld.com/article/1381990/this-4k-gigabyte-gaming-monitor-is-fast-sharp-and-200-off.html](https://www.pcworld.com/article/1381990/this-4k-gigabyte-gaming-monitor-is-fast-sharp-and-200-off.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-16 14:36:56+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Whether you&rsquo;re playing a competitive game or watching an epic movie, 4K monitors are the way to go. If you&rsquo;re on the hunt for one, you&rsquo;re in luck, as we&rsquo;ve got an awesome deal for you today. Amazon&rsquo;s selling the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/dp/B0B94TKRVP/ref=cm_sw_r_api_i_0KME6JXW5FC9KEQQSGQB_0?th=1&amp;xcust=2-1-1381990-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Gigabyte M28U-AE gaming monitor for $449.99</a>, which is a savings of $200. Let&rsquo;s get right into the thick of it then.</p>
@@ -322,7 +318,6 @@ Monitors</div>
  - [https://www.pcworld.com/article/1376183/asus-rog-maximus-z790-hero-motherboard-review.html](https://www.pcworld.com/article/1376183/asus-rog-maximus-z790-hero-motherboard-review.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-16 11:45:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><div class="review" id="review-body"><img alt="Editors' Choice" class="review-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" /><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
@@ -526,7 +521,6 @@ Desktop PCs, Gaming PCs</div>
  - [https://www.pcworld.com/article/1377160/your-laptops-battery-life-may-be-dropping-faster-than-you-think.html](https://www.pcworld.com/article/1377160/your-laptops-battery-life-may-be-dropping-faster-than-you-think.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-16 11:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Most laptop and CPU makers encourage you to upgrade your PC because its performance can&rsquo;t keep up with the latest hardware. But there&rsquo;s another, more compelling reason that&rsquo;s largely ignored: Your laptop&rsquo;s battery life will become significantly worse as time goes by. </p>

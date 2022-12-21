@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Elon Musk’s response to fake verified Elon Twitter accounts: a new permanent ban policy for impersonation
  - [https://www.theverge.com/2022/11/6/23443871/elon-musk-twitter-permaban-impersonation-parody](https://www.theverge.com/2022/11/6/23443871/elon-musk-twitter-permaban-impersonation-parody)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-06 23:58:01+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/fBAhri0h1kypqVMFgKCiKcUfylA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71593574/VRG_Illo_STK022_K_Radtke_Musk_Stock_Fire_Thumbs_Up.0.jpg" />
@@ -35,7 +34,6 @@
  - [https://www.theverge.com/2022/11/6/23443863/iphone-14-pro-max-longer-wait-times-factory-lockdown-foxconn](https://www.theverge.com/2022/11/6/23443863/iphone-14-pro-max-longer-wait-times-factory-lockdown-foxconn)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-06 23:48:36+00:00
- - tags: None
 
 <figure>
       <img alt="An iPhone 14 Pro showing the Dynamic Island making a phone call" src="https://cdn.vox-cdn.com/thumbor/YwXfeHOBYUuhGsNuMrJ2r5O1f8I=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71593592/226270_iPHONE_14_PHO_akrales_0152.0.jpg" />
@@ -53,7 +51,6 @@
  - [https://www.theverge.com/2022/11/6/23443699/meta-reportedly-planning-lay-off-thousands-workers-this-week](https://www.theverge.com/2022/11/6/23443699/meta-reportedly-planning-lay-off-thousands-workers-this-week)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-06 22:01:53+00:00
- - tags: None
 
 <figure>
       <img alt="Image of Meta’s logo with a red and blue background." src="https://cdn.vox-cdn.com/thumbor/eJKZN5y2XjYesMY1wjSwXy4fuXo=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71593309/STK043_VRG_Illo_N_Barclay_1_Meta.0.jpg" />
@@ -71,7 +68,6 @@
  - [https://www.theverge.com/2022/11/6/23443520/twitter-delaying-launch-blue-with-verification-after-midterm-elections-elon-musk](https://www.theverge.com/2022/11/6/23443520/twitter-delaying-launch-blue-with-verification-after-midterm-elections-elon-musk)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-06 20:10:21+00:00
- - tags: None
 
 <figure>
       <img alt="Twitter’s logo " src="https://cdn.vox-cdn.com/thumbor/o0BuvxI1mwXHjpjgosCu49lKxS8=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71592964/acastro_STK050_01.0.jpg" />
@@ -88,7 +84,6 @@
  - [https://www.theverge.com/2022/11/6/23443215/apple-copyright-claims-ripped-down-fan-archival-wwdc-youtube-channel](https://www.theverge.com/2022/11/6/23443215/apple-copyright-claims-ripped-down-fan-archival-wwdc-youtube-channel)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-06 18:07:05+00:00
- - tags: None
 
 <figure>
       <img alt="The Apple logo on a blue background" src="https://cdn.vox-cdn.com/thumbor/7HJ84lEq8pMUqMuHpreF40BybbU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71592572/acastro_170731_1777_0004_v4.0.jpg" />
@@ -105,7 +100,6 @@
  - [https://www.theverge.com/2022/11/6/23443110/apple-swap-hey-siri-wake-word-rumors-voice-assistant](https://www.theverge.com/2022/11/6/23443110/apple-swap-hey-siri-wake-word-rumors-voice-assistant)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-06 15:20:54+00:00
- - tags: None
 
 <figure>
       <img alt="Siri logo on a black background" src="https://cdn.vox-cdn.com/thumbor/g12clAtsxj7HmE_4g9WuOJjvUzk=/287x152:1802x1162/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71591997/acastro_180510_1777_siri_0001.0.jpg" />
@@ -123,7 +117,6 @@
  - [https://www.theverge.com/23438982/hp-victus-15-gaming-laptop-review-specs-price](https://www.theverge.com/23438982/hp-victus-15-gaming-laptop-review-specs-price)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-06 14:00:00+00:00
- - tags: None
 
 <p>It’s a budget laptop with budget frame rates.</p>
   <p>
@@ -134,7 +127,6 @@
  - [https://www.theverge.com/2022/11/6/23440640/worlds-2022-opening-ceremony-league-of-legends-lil-nas-x](https://www.theverge.com/2022/11/6/23440640/worlds-2022-opening-ceremony-league-of-legends-lil-nas-x)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-06 04:03:05+00:00
- - tags: None
 
 <figure>
       <img alt="Lil Nas X performs Star Walkin’ at the League of Legends World Championship Final in San Francisco." src="https://cdn.vox-cdn.com/thumbor/KzuxVpzgZey6Rng9TfoIYDglhG4=/557x0:6569x4008/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71590721/52479935866_d92a933137_o.0.jpg" />

@@ -1,10 +1,9 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
+# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
 
 ## The Full Plan For Artemis Part 3: The Moon Base And Beyond
  - [https://www.youtube.com/watch?v=rU_LiVJp3xg](https://www.youtube.com/watch?v=rU_LiVJp3xg)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
  - date published: 2022-11-14 13:45:11+00:00
- - tags: None
 
 Go to https://hensonshaving.com/joescott and enter "JOESCOTT" at checkout to get 100 free blades with your purchase. (Note: you must add both the 100 blade pack and the razor for the discount to apply.)
 The third and final installment of the Artemis series looks at what happens after we land on the moon again. What are the next steps and how does the Artemis program set us up for further exploration of the solar system?

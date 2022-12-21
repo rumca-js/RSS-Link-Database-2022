@@ -1,10 +1,9 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology
+# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
 
 ## Elon Musk restores Trump’s Twitter account
  - [https://www.washingtonpost.com/technology/2022/11/19/trump-musk-twitter/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/19/trump-musk-twitter/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-19 20:46:31+00:00
- - tags: None
 
 After posting a Twitter poll, Musk reinstated Trump to the platform. It remains unclear if Trump will command the following there that he once had.
 
@@ -12,7 +11,6 @@ After posting a Twitter poll, Musk reinstated Trump to the platform. It remains 
  - [https://www.washingtonpost.com/nation/2022/11/19/twitter-emergencies/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/nation/2022/11/19/twitter-emergencies/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-19 15:30:21+00:00
- - tags: None
 
 The Post interviewed a dozen local, state and federal officials, who said that Twitter is one of their most effective ways of communicating with the public.
 
@@ -20,7 +18,6 @@ The Post interviewed a dozen local, state and federal officials, who said that T
  - [https://www.washingtonpost.com/technology/2022/11/19/big-tech-layoffs-climate-tech/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/19/big-tech-layoffs-climate-tech/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-19 08:00:00+00:00
- - tags: None
 
 Layoffs are ravaging Big Tech, and it’s creating an unexpected boon for certain climate firms.
 
@@ -28,7 +25,6 @@ Layoffs are ravaging Big Tech, and it’s creating an unexpected boon for certai
  - [https://www.washingtonpost.com/technology/2022/11/19/student-journalist-harass-arizona/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/19/student-journalist-harass-arizona/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-19 06:00:22+00:00
- - tags: None
 
 The experience of an Arizona student journalist highlights the growing threat that online harassment poses to journalists, especially those just starting out.
 
@@ -36,6 +32,5 @@ The experience of an Arizona student journalist highlights the growing threat th
  - [https://www.washingtonpost.com/technology/2022/11/19/twitter-world-cup-hate-speech/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/19/twitter-world-cup-hate-speech/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-19 05:00:42+00:00
- - tags: None
 
 Advocates warn that chaos within Twitter could worsen the spread of hate speech during the tournament.

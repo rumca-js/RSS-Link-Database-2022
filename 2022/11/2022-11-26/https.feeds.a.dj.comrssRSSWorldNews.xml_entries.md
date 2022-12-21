@@ -1,10 +1,9 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml
+# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
 
 ## Vatican Says China Broke Agreement on Bishops
  - [https://www.wsj.com/articles/vatican-says-china-broke-agreement-on-bishops-11669480974](https://www.wsj.com/articles/vatican-says-china-broke-agreement-on-bishops-11669480974)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-26 16:42:00+00:00
- - tags: None
 
 Chinese officials installed a Catholic bishop as leader of a diocese unrecognized by Rome, the Vatican said, adding that the move broke a 2018 agreement and the spirit of dialogue between the two parties.
 
@@ -12,7 +11,6 @@ Chinese officials installed a Catholic bishop as leader of a diocese unrecognize
  - [https://www.wsj.com/articles/taiwans-president-steps-down-as-leader-of-ruling-party-after-drubbing-in-local-elections-11669474890](https://www.wsj.com/articles/taiwans-president-steps-down-as-leader-of-ruling-party-after-drubbing-in-local-elections-11669474890)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-26 15:01:00+00:00
- - tags: None
 
 Taiwan President Tsai Ing-wen relinquished her seat as head of the island’s ruling party after it lost several key contests in local elections, foreshadowing political uncertainty amid heightened tensions with China.
 
@@ -20,7 +18,6 @@ Taiwan President Tsai Ing-wen relinquished her seat as head of the island’s ru
  - [https://www.wsj.com/articles/russian-strikes-leave-six-million-in-ukraine-without-power-11669460694](https://www.wsj.com/articles/russian-strikes-leave-six-million-in-ukraine-without-power-11669460694)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-26 11:04:00+00:00
- - tags: None
 
 Authorities were working to repair critical infrastructure and bolster the spirits of residents who are struggling without water and electricity as temperatures drop.
 
@@ -28,6 +25,5 @@ Authorities were working to repair critical infrastructure and bolster the spiri
  - [https://www.wsj.com/articles/the-science-for-determining-climate-change-damage-is-unsettled-11669436469](https://www.wsj.com/articles/the-science-for-determining-climate-change-damage-is-unsettled-11669436469)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-26 10:30:00+00:00
- - tags: None
 
 Tying individual weather events to global warming remains a difficult challenge, and new research on the causes of recent catastrophic flooding in Pakistan yields mixed results.

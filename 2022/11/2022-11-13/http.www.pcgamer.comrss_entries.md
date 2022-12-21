@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## Dungeons & Dragons Monopoly is a thing now, because of course it is
  - [https://www.pcgamer.com/dungeons-and-dragons-monopoly-is-a-thing-now-because-of-course-it-is](https://www.pcgamer.com/dungeons-and-dragons-monopoly-is-a-thing-now-because-of-course-it-is)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-13 23:36:45+00:00
- - tags: None
 
 This is also not OK.
 
@@ -12,7 +11,6 @@ This is also not OK.
  - [https://www.pcgamer.com/best-pathfinder-mods](https://www.pcgamer.com/best-pathfinder-mods)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-13 22:05:55+00:00
- - tags: None
 
 Change your face, edit your stats, add extra classes, and more with these mods for the Pathfinder games.
 
@@ -20,7 +18,6 @@ Change your face, edit your stats, add extra classes, and more with these mods f
  - [https://www.pcgamer.com/massive-mod-brings-the-world-of-elder-scrolls-to-crusader-kings-3](https://www.pcgamer.com/massive-mod-brings-the-world-of-elder-scrolls-to-crusader-kings-3)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-13 18:23:08+00:00
- - tags: None
 
 Elder Kings 2 is out now—and it's one of the most impressive mods you've ever seen.
 
@@ -28,7 +25,6 @@ Elder Kings 2 is out now—and it's one of the most impressive mods you've ever 
  - [https://www.pcgamer.com/wordle-512-answer-november-13](https://www.pcgamer.com/wordle-512-answer-november-13)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-13 06:05:46+00:00
- - tags: None
 
 Wordle today: The solution and a hint for the #512 puzzle.
 
@@ -36,7 +32,6 @@ Wordle today: The solution and a hint for the #512 puzzle.
  - [https://www.pcgamer.com/great-moments-in-pc-gaming-killing-spelunkys-shopkeeper](https://www.pcgamer.com/great-moments-in-pc-gaming-killing-spelunkys-shopkeeper)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-13 03:33:49+00:00
- - tags: None
 
 Like him or loathe him, Spelunky's angry shopkeeper isn't messing around.
 
@@ -44,7 +39,6 @@ Like him or loathe him, Spelunky's angry shopkeeper isn't messing around.
  - [https://www.pcgamer.com/whats-the-best-summon-you-ever-summoned](https://www.pcgamer.com/whats-the-best-summon-you-ever-summoned)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-13 02:44:37+00:00
- - tags: None
 
 Time to phone a friend.
 
@@ -52,7 +46,6 @@ Time to phone a friend.
  - [https://www.pcgamer.com/dandd-has-a-new-inclusion-review-process-to-prevent-another-spelljammer-incident](https://www.pcgamer.com/dandd-has-a-new-inclusion-review-process-to-prevent-another-spelljammer-incident)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-13 01:39:20+00:00
- - tags: None
 
 "The studio's new process mandates that every word, illustration, and map must be reviewed by multiple outside cultural consultants prior to publication."
 
@@ -60,6 +53,5 @@ Time to phone a friend.
  - [https://www.pcgamer.com/obsidians-pentiment-has-steam-and-game-pass-pages-ahead-of-launch-this-week](https://www.pcgamer.com/obsidians-pentiment-has-steam-and-game-pass-pages-ahead-of-launch-this-week)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-13 00:51:49+00:00
- - tags: None
 
 A medieval murder mystery in manuscript motif.

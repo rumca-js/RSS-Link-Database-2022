@@ -1,10 +1,9 @@
-# Source Sorelle Amore Finance, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q
+# Source Sorelle Amore Finance, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q, Source language: en-US
 
 ## Jeff Bezos' ugly prediction for the 2023 recession
  - [https://www.youtube.com/watch?v=-b2nmBaT1Z0](https://www.youtube.com/watch?v=-b2nmBaT1Z0)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q
  - date published: 2022-11-17 15:00:42+00:00
- - tags: None
 
 🎨 JOIN MASTERWORKS (and skip the waiting list): http://masterworks.art/sorelle
 ✉️ OUR NEWSLETTER: https://www.abundantia.co/

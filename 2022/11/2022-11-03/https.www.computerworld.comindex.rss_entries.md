@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Podcast: Apple’s holiday push
  - [https://www.computerworld.com/article/3678770/podcast-apples-holiday-push.html#tk.rss_all](https://www.computerworld.com/article/3678770/podcast-apples-holiday-push.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-03 18:33:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -15,7 +14,6 @@
  - [https://www.computerworld.com/article/3678988/how-the-new-matter-standard-could-unleash-innovation-in-iot.html#tk.rss_all](https://www.computerworld.com/article/3678988/how-the-new-matter-standard-could-unleash-innovation-in-iot.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-03 15:42:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -26,7 +24,6 @@
  - [https://www.computerworld.com/article/3678969/can-todays-videoconferencing-tech-evolve-into-tomorrows-metaverse.html#tk.rss_all](https://www.computerworld.com/article/3678969/can-todays-videoconferencing-tech-evolve-into-tomorrows-metaverse.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-03 15:09:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -36,7 +33,6 @@
  - [https://www.computerworld.com/article/3678302/qa-expedia-cto-details-return-to-work-program-for-workers-who-come-back.html#tk.rss_all](https://www.computerworld.com/article/3678302/qa-expedia-cto-details-return-to-work-program-for-workers-who-come-back.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-03 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

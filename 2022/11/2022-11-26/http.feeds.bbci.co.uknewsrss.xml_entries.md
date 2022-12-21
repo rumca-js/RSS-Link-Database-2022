@@ -1,10 +1,9 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml
+# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
 
 ## Dillian Whyte: Briton delivers flat performance in points victory over Jermaine Franklin
  - [https://www.bbc.co.uk/sport/boxing/63770501?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/boxing/63770501?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 23:38:33+00:00
- - tags: None
 
 With Anthony Joshua watching ringside, Dillian Whyte's big comeback night fell flat as he laboured past Jermaine Franklin in London.
 
@@ -12,7 +11,6 @@ With Anthony Joshua watching ringside, Dillian Whyte's big comeback night fell f
  - [https://www.bbc.co.uk/sport/football/63770782?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63770782?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 22:27:43+00:00
- - tags: None
 
 BBC Sport's Phil McNulty reflects on a tense night for Argentina and Lionel Messi after their 2-0 victory over Mexico in their second group-stage match at the World Cup.
 
@@ -20,7 +18,6 @@ BBC Sport's Phil McNulty reflects on a tense night for Argentina and Lionel Mess
  - [https://www.bbc.co.uk/news/uk-63768496?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63768496?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 22:15:59+00:00
- - tags: None
 
 An update to the Online Safety Bill was influenced by Molly Russell who ended her life in 2017.
 
@@ -28,7 +25,6 @@ An update to the Online Safety Bill was influenced by Molly Russell who ended he
  - [https://www.bbc.co.uk/sport/rugby-union/63770560?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63770560?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 21:50:43+00:00
- - tags: None
 
 England head coach Eddie Jones says his side's 27-13 defeat by South Africa at Twickenham was "entirely my fault" but believes they can have a "really good go" at next year's World Cup.
 
@@ -36,7 +32,6 @@ England head coach Eddie Jones says his side's 27-13 defeat by South Africa at T
  - [https://www.bbc.co.uk/sport/av/football/63770404?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63770404?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 21:33:20+00:00
- - tags: None
 
 Argentina captain Lionel Messi opens the scoring for his side in their crucial clash with Mexico at the World Cup.
 
@@ -44,7 +39,6 @@ Argentina captain Lionel Messi opens the scoring for his side in their crucial c
  - [https://www.bbc.co.uk/news/uk-scotland-63769039?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-63769039?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 21:31:53+00:00
- - tags: None
 
 The ex-Scotland rugby international dies six years after being diagnosed with motor neurone disease.
 
@@ -52,7 +46,6 @@ The ex-Scotland rugby international dies six years after being diagnosed with mo
  - [https://www.bbc.co.uk/sport/football/63685898?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63685898?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 21:18:00+00:00
- - tags: None
 
 Lionel Messi scores a superb goal as Argentina get a vital victory over Mexico to boost their hopes of qualifying for the World Cup last 16.
 
@@ -60,7 +53,6 @@ Lionel Messi scores a superb goal as Argentina get a vital victory over Mexico t
  - [https://www.bbc.co.uk/news/world-us-canada-63770438?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63770438?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 21:16:06+00:00
- - tags: None
 
 Kevin Johnson faces execution in Missouri on Tuesday for the killing of a police officer.
 
@@ -68,7 +60,6 @@ Kevin Johnson faces execution in Missouri on Tuesday for the killing of a police
  - [https://www.bbc.co.uk/sport/rugby-union/63762022?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63762022?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 21:13:25+00:00
- - tags: None
 
 Warren Gatland is a leading contender to return as Wales coach if the Welsh Rugby Union decide to replace Wayne Pivac.
 
@@ -76,7 +67,6 @@ Warren Gatland is a leading contender to return as Wales coach if the Welsh Rugb
  - [https://www.bbc.co.uk/sport/av/football/63770400?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63770400?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 20:57:12+00:00
- - tags: None
 
 Lionel Messi's strike opens the scoring for Argentina in their must-not-lose World Cup Group C match with Mexico before Enzo Fernandez's sublime strike seals victory.
 
@@ -84,7 +74,6 @@ Lionel Messi's strike opens the scoring for Argentina in their must-not-lose Wor
  - [https://www.bbc.co.uk/sport/football/63770188?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63770188?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 20:50:19+00:00
- - tags: None
 
 Kylian Mbappe is the "superstar" France need to have a chance of retaining the World Cup after his match-winning performance against Denmark.
 
@@ -92,7 +81,6 @@ Kylian Mbappe is the "superstar" France need to have a chance of retaining the W
  - [https://www.bbc.co.uk/sport/boxing/63770499?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/boxing/63770499?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 20:35:52+00:00
- - tags: None
 
 Briton Nina Hughes is the new WBA bantamweight champion after dethroning Jamie Mitchell in Dubai.
 
@@ -100,7 +88,6 @@ Briton Nina Hughes is the new WBA bantamweight champion after dethroning Jamie M
  - [https://www.bbc.co.uk/sport/av/football/63770396?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63770396?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 19:41:24+00:00
- - tags: None
 
 After an out of character poor first-half Kylian Mbappe turns on the style in the second-half with two goals as France beat Denmark 2-1 to become the first team to progress to the round of 16 at the World Cup.
 
@@ -108,7 +95,6 @@ After an out of character poor first-half Kylian Mbappe turns on the style in th
  - [https://www.bbc.co.uk/sport/rugby-union/63769626?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63769626?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 19:31:05+00:00
- - tags: None
 
 An error-strewn and under-powered England are comfortably seen off by South Africa at Twickenham to end the hosts' autumn in deflating style.
 
@@ -116,7 +102,6 @@ An error-strewn and under-powered England are comfortably seen off by South Afri
  - [https://www.bbc.co.uk/sport/rugby-union/63767310?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63767310?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 18:38:31+00:00
- - tags: None
 
 Wales head coach Wayne Pivac says he wants to stay in the job after watching his side lose 39-34 against Australia.
 
@@ -124,7 +109,6 @@ Wales head coach Wayne Pivac says he wants to stay in the job after watching his
  - [https://www.bbc.co.uk/sport/football/63685895?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63685895?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 18:25:55+00:00
- - tags: None
 
 Kylian Mbappe scores twice for France as the defending champions lay down a marker by beating Denmark and becoming the first team to reach the World Cup knockout stage.
 
@@ -132,7 +116,6 @@ Kylian Mbappe scores twice for France as the defending champions lay down a mark
  - [https://www.bbc.co.uk/sport/av/football/63766886?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63766886?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 18:02:59+00:00
- - tags: None
 
 Watch highlights as Kylian Mbappe scores twice to give France a 2-1 victory against Denmark which makes them the first team to reach the knockout stage at the World Cup.
 
@@ -140,7 +123,6 @@ Watch highlights as Kylian Mbappe scores twice to give France a 2-1 victory agai
  - [https://www.bbc.co.uk/sport/rugby-union/63688926?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63688926?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 17:54:45+00:00
- - tags: None
 
 Tom English celebrates the life of Doddie Weir, a man who brought the best out of people and made it his mission to make them smile.
 
@@ -148,7 +130,6 @@ Tom English celebrates the life of Doddie Weir, a man who brought the best out o
  - [https://www.bbc.co.uk/sport/football/63769352?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63769352?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 17:53:16+00:00
- - tags: None
 
 Robert Lewandowski says he knew time was running out to fulfil his dream of scoring at a World Cup finals, after netting in Poland's Group C win over Saudi Arabia on Saturday.
 
@@ -156,7 +137,6 @@ Robert Lewandowski says he knew time was running out to fulfil his dream of scor
  - [https://www.bbc.co.uk/news/uk-england-kent-63768281?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-kent-63768281?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 17:46:51+00:00
- - tags: None
 
 It is the first bison calf to be born in the UK wild in thousands of years.
 
@@ -164,7 +144,6 @@ It is the first bison calf to be born in the UK wild in thousands of years.
  - [https://www.bbc.co.uk/sport/football/63762877?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63762877?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 17:34:41+00:00
- - tags: None
 
 Former Wales captain Ashley Williams explains why Wales can still end their World Cup on a high when they face England on Tuesday.
 
@@ -172,7 +151,6 @@ Former Wales captain Ashley Williams explains why Wales can still end their Worl
  - [https://www.bbc.co.uk/sport/rugby-union/63767267?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63767267?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 17:24:36+00:00
- - tags: None
 
 The position of Wales head coach Wayne Pivac is hanging by a thread after his side throw away victory against Australia.
 
@@ -180,7 +158,6 @@ The position of Wales head coach Wayne Pivac is hanging by a thread after his si
  - [https://www.bbc.co.uk/sport/rugby-union/63768331?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63768331?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 17:22:18+00:00
- - tags: None
 
 Former Scotland international Doddie Weir dies at the age of 52 after suffering with motor neurone disease.
 
@@ -188,7 +165,6 @@ Former Scotland international Doddie Weir dies at the age of 52 after suffering 
  - [https://www.bbc.co.uk/news/uk-politics-63769098?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63769098?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 17:00:23+00:00
- - tags: None
 
 With more strikes across the UK, is it time to bring out that Shakespeare quote again, asks Laura Kuenssberg?
 
@@ -196,7 +172,6 @@ With more strikes across the UK, is it time to bring out that Shakespeare quote 
  - [https://www.bbc.co.uk/sport/football/63768983?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63768983?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 16:53:13+00:00
- - tags: None
 
 Fifa opens disciplinary proceedings against Serbia's football association after its team hung a controversial flag depicting Kosovo in their dressing room.
 
@@ -204,7 +179,6 @@ Fifa opens disciplinary proceedings against Serbia's football association after 
  - [https://www.bbc.co.uk/news/uk-england-south-yorkshire-63767570?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-south-yorkshire-63767570?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 16:51:59+00:00
- - tags: None
 
 Yusuf Mahmud Nazir, five, was not admitted to hospital despite his uncle "begging" for help.
 
@@ -212,7 +186,6 @@ Yusuf Mahmud Nazir, five, was not admitted to hospital despite his uncle "beggin
  - [https://www.bbc.co.uk/sport/football/63692162?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63692162?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 15:57:38+00:00
- - tags: None
 
 Croatia boss Zlatko Dalic says his team deserve respect as World Cup runners-up, after Canada's John Herdman used an offensive phrase to gee his own side up for Sunday's meeting.
 
@@ -220,7 +193,6 @@ Croatia boss Zlatko Dalic says his team deserve respect as World Cup runners-up,
  - [https://www.bbc.co.uk/news/world-asia-63767040?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-63767040?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 15:51:49+00:00
- - tags: None
 
 Former Pakistan PM Imran Khan greets supporters in Rawalpindi weeks after he was shot at a similar event.
 
@@ -228,7 +200,6 @@ Former Pakistan PM Imran Khan greets supporters in Rawalpindi weeks after he was
  - [https://www.bbc.co.uk/sport/football/63685897?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63685897?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 15:26:32+00:00
- - tags: None
 
 Robert Lewandowski scores his first World Cup goal as Poland earn a crucial victory over Saudi Arabia that leaves Group C wide open.
 
@@ -236,7 +207,6 @@ Robert Lewandowski scores his first World Cup goal as Poland earn a crucial vict
  - [https://www.bbc.co.uk/sport/av/football/63767482?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63767482?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 15:13:21+00:00
- - tags: None
 
 Watch the moment Robert Lewandowski scores his fist ever World Cup goal for Poland in their Group C match against Saudi Arabia at the World Cup.
 
@@ -244,7 +214,6 @@ Watch the moment Robert Lewandowski scores his fist ever World Cup goal for Pola
  - [https://www.bbc.co.uk/sport/av/football/63766879?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63766879?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 15:08:56+00:00
- - tags: None
 
 Watch highlights as a Robert Lewandowski goal and Wojciech Szczesny penalty save help Poland beat Saudi Arabia 2-0 in Group C at the World Cup.
 
@@ -252,7 +221,6 @@ Watch highlights as a Robert Lewandowski goal and Wojciech Szczesny penalty save
  - [https://www.bbc.co.uk/news/uk-england-london-63767823?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-london-63767823?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 14:33:57+00:00
- - tags: None
 
 It comes after a scathing report found the London brigade was "institutionally misogynist and racist".
 
@@ -260,7 +228,6 @@ It comes after a scathing report found the London brigade was "institutionally m
  - [https://www.bbc.co.uk/sport/football/63762807?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63762807?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 14:31:08+00:00
- - tags: None
 
 Former England captain Alan Shearer says the Three Lions need to freshen things up against Wales in Tuesday's final game of the group stage at the 2022 World Cup
 
@@ -268,7 +235,6 @@ Former England captain Alan Shearer says the Three Lions need to freshen things 
  - [https://www.bbc.co.uk/news/world-us-canada-63767710?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63767710?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 13:32:49+00:00
- - tags: None
 
 The American singer and actress won an Oscar for Best Original Song in 1984.
 
@@ -276,7 +242,6 @@ The American singer and actress won an Oscar for Best Original Song in 1984.
  - [https://www.bbc.co.uk/news/world-europe-63767660?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63767660?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 12:21:21+00:00
- - tags: None
 
 A torrent of mud and debris dislodged trees, engulfed buildings and dragged cars into the sea.
 
@@ -284,7 +249,6 @@ A torrent of mud and debris dislodged trees, engulfed buildings and dragged cars
  - [https://www.bbc.co.uk/sport/football/63685896?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63685896?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 12:16:53+00:00
- - tags: None
 
 Australia hold on to a narrow first-half lead to pick up a crucial victory over Tunisia that keeps alive their hopes of qualifying for the World Cup last 16.
 
@@ -292,7 +256,6 @@ Australia hold on to a narrow first-half lead to pick up a crucial victory over 
  - [https://www.bbc.co.uk/sport/av/football/63671558?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63671558?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 12:02:44+00:00
- - tags: None
 
 Watch highlights as Mitchell Duke heads Australia to a 1-0 win against Tunisia in their Group D match at the World Cup.
 
@@ -300,7 +263,6 @@ Watch highlights as Mitchell Duke heads Australia to a 1-0 win against Tunisia i
  - [https://www.bbc.co.uk/sport/football/63766408?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63766408?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 12:01:59+00:00
- - tags: None
 
 Fans in Saudi Arabia have been unable to watch all of the World Cup after a streaming service was blocked by the country's government.
 
@@ -308,7 +270,6 @@ Fans in Saudi Arabia have been unable to watch all of the World Cup after a stre
  - [https://www.bbc.co.uk/news/uk-england-nottinghamshire-63766967?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-nottinghamshire-63766967?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 11:39:03+00:00
- - tags: None
 
 The man whose wife and children died after a flat fire says they were set to join him in the US.
 
@@ -316,7 +277,6 @@ The man whose wife and children died after a flat fire says they were set to joi
  - [https://www.bbc.co.uk/news/uk-63766770?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63766770?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 11:38:46+00:00
- - tags: None
 
 The centre was cleared of people last week after reports of overcrowding and outbreaks of disease.
 
@@ -324,7 +284,6 @@ The centre was cleared of people last week after reports of overcrowding and out
  - [https://www.bbc.co.uk/news/world-australia-63767282?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-australia-63767282?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 11:34:56+00:00
- - tags: None
 
 The installation was designed by artist Spencer Tunick, to raise awareness of skin cancer.
 
@@ -332,7 +291,6 @@ The installation was designed by artist Spencer Tunick, to raise awareness of sk
  - [https://www.bbc.co.uk/sport/av/football/63737772?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63737772?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 10:43:22+00:00
- - tags: None
 
 Australia centre-forward Mitchell Duke nets a brilliant header to put his side in the lead against Tunisia in their Group D match at the World Cup.
 
@@ -340,7 +298,6 @@ Australia centre-forward Mitchell Duke nets a brilliant header to put his side i
  - [https://www.bbc.co.uk/sport/football/63766703?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63766703?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 10:31:56+00:00
- - tags: None
 
 Cristiano Ronaldo is called a "total genius" by Fifa for winning Portugal's penalty in their opening World Cup victory over Ghana.
 
@@ -348,7 +305,6 @@ Cristiano Ronaldo is called a "total genius" by Fifa for winning Portugal's pena
  - [https://www.bbc.co.uk/news/world-us-canada-63766365?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63766365?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 09:45:24+00:00
- - tags: None
 
 Rescuers say it was a miracle he was saved after disappearing from a ship in the Gulf of Mexico.
 
@@ -356,7 +312,6 @@ Rescuers say it was a miracle he was saved after disappearing from a ship in the
  - [https://www.bbc.co.uk/news/uk-england-essex-63758111?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-essex-63758111?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 09:06:28+00:00
- - tags: None
 
 An 81-year-old woman is sent home at night due to a lack of hospital beds, her family says.
 
@@ -364,7 +319,6 @@ An 81-year-old woman is sent home at night due to a lack of hospital beds, her f
  - [https://www.bbc.co.uk/news/world-asia-china-63766125?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-63766125?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 08:33:29+00:00
- - tags: None
 
 Urumqi residents confronted officials amid claims Covid restrictions stopped people escaping a blaze.
 
@@ -372,7 +326,6 @@ Urumqi residents confronted officials amid claims Covid restrictions stopped peo
  - [https://www.bbc.co.uk/sport/football/63526754?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63526754?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 06:35:43+00:00
- - tags: None
 
 As Argentina look to bounce back from Tuesday's shock defeat by Saudi Arabia, BBC Sport takes a closer at manager Lionel Scaloni.
 
@@ -380,7 +333,6 @@ As Argentina look to bounce back from Tuesday's shock defeat by Saudi Arabia, BB
  - [https://www.bbc.co.uk/sport/mixed-martial-arts/63765553?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/mixed-martial-arts/63765553?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 06:29:24+00:00
- - tags: None
 
 Britain's Brendan Loughnane beats Bubba Jenkins for the featherweight title at the PFL World Championship in New York.
 
@@ -388,7 +340,6 @@ Britain's Brendan Loughnane beats Bubba Jenkins for the featherweight title at t
  - [https://www.bbc.co.uk/sport/rugby-union/63758189?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63758189?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 06:07:57+00:00
- - tags: None
 
 South Africa are without their figurehead, director of rugby Rassie Erasmus, as they prepare to face England at Twickenham - but a sense of grievance is powering them into the meeting.
 
@@ -396,7 +347,6 @@ South Africa are without their figurehead, director of rugby Rassie Erasmus, as 
  - [https://www.bbc.co.uk/news/world-us-canada-63764450?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63764450?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 05:32:03+00:00
- - tags: None
 
 The restrictions on five Chinese companies are the first to be put in place on security grounds.
 
@@ -404,7 +354,6 @@ The restrictions on five Chinese companies are the first to be put in place on s
  - [https://www.bbc.co.uk/sport/darts/63764120?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/darts/63764120?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 04:53:02+00:00
- - tags: None
 
 Ryan Joyce produces the biggest shock of the Players Championship Finals first round as he beats world number one Gerwyn Price.
 
@@ -412,7 +361,6 @@ Ryan Joyce produces the biggest shock of the Players Championship Finals first r
  - [https://www.bbc.co.uk/news/world-australia-63764448?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-australia-63764448?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 02:39:24+00:00
- - tags: None
 
 Spencer Tunick's latest work on Sydney's famous landmark hopes to raise awareness of skin cancer.
 
@@ -420,7 +368,6 @@ Spencer Tunick's latest work on Sydney's famous landmark hopes to raise awarenes
  - [https://www.bbc.co.uk/news/uk-63765377?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63765377?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 01:48:31+00:00
- - tags: None
 
 The Princess of Wales says a "healthier and happier society for future generations" can be created.
 
@@ -428,7 +375,6 @@ The Princess of Wales says a "healthier and happier society for future generatio
  - [https://www.bbc.co.uk/news/world-europe-63764445?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63764445?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 01:33:39+00:00
- - tags: None
 
 Blackouts continue across most regions after missile strikes earlier this week, according to President Volodymyr Zelensky.
 
@@ -436,7 +382,6 @@ Blackouts continue across most regions after missile strikes earlier this week, 
  - [https://www.bbc.co.uk/news/entertainment-arts-63647648?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63647648?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 00:48:15+00:00
- - tags: None
 
 It's 70 years since the BBC launched its first televised chart show. How have things changed since?
 
@@ -444,7 +389,6 @@ It's 70 years since the BBC launched its first televised chart show. How have th
  - [https://www.bbc.co.uk/news/blogs-the-papers-63764242?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-63764242?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 00:25:04+00:00
- - tags: None
 
 Leading several of Saturday's front pages is England's 0-0 World Cup draw with the USA.
 
@@ -452,7 +396,6 @@ Leading several of Saturday's front pages is England's 0-0 World Cup draw with t
  - [https://www.bbc.co.uk/news/world-middle-east-63742475?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-middle-east-63742475?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 00:15:02+00:00
- - tags: None
 
 Egyptologists are still learning about his life and treasures a century after his tomb was opened.
 
@@ -460,7 +403,6 @@ Egyptologists are still learning about his life and treasures a century after hi
  - [https://www.bbc.co.uk/news/stories-63755128?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/stories-63755128?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 00:13:52+00:00
- - tags: None
 
 An Indian company has developed a cheap, non-invasive test for breast cancer that uses thermal imaging and AI.
 
@@ -468,7 +410,6 @@ An Indian company has developed a cheap, non-invasive test for breast cancer tha
  - [https://www.bbc.co.uk/news/technology-63717890?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63717890?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 00:10:16+00:00
- - tags: None
 
 Three women share their stories of how being on Twitter has changed their lives for the better.
 
@@ -476,7 +417,6 @@ Three women share their stories of how being on Twitter has changed their lives 
  - [https://www.bbc.co.uk/news/science-environment-63748189?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/science-environment-63748189?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 00:09:27+00:00
- - tags: None
 
 Nearly 100 species of sharks and rays were added to an international treaty which experts say will help control trade of their meat and fins.
 
@@ -484,6 +424,5 @@ Nearly 100 species of sharks and rays were added to an international treaty whic
  - [https://www.bbc.co.uk/news/in-pictures-63755158?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/in-pictures-63755158?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-26 00:08:51+00:00
- - tags: None
 
 A selection of powerful images from all over the globe, taken in the past seven days.

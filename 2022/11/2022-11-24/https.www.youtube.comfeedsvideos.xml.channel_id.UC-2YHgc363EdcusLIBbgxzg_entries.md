@@ -1,10 +1,9 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
+# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
 
 ## The Coolest Spaceflight Footage Of All Time
  - [https://www.youtube.com/watch?v=jdlCO-bJvZE](https://www.youtube.com/watch?v=jdlCO-bJvZE)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
  - date published: 2022-11-24 15:04:02+00:00
- - tags: None
 
 Visit http://www.brilliant.org/answerswithjoe to start learning STEM for free, and the first 200 people will get 20% off their annual premium subscription.
 It's Thanksgiving here in the States so here's something a little different, just an inspirational compilation of some of the coolest space flight footage of all time. Enjoy!

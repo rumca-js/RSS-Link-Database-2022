@@ -1,10 +1,9 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/
+# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
 
 ## Twitter-Musk Update: Child Safety Team Reportedly Gutted     - CNET
  - [https://www.cnet.com/news/social-media/twitter-musk-update-spam-obscured-chinese-covid-19-protest-tweets/#ftag=CADf328eec](https://www.cnet.com/news/social-media/twitter-musk-update-spam-obscured-chinese-covid-19-protest-tweets/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 23:54:00+00:00
- - tags: None
 
 The changes at Twitter are happening fast. Here's a timeline to keep you up to date.
 
@@ -12,7 +11,6 @@ The changes at Twitter are happening fast. Here's a timeline to keep you up to d
  - [https://www.cnet.com/deals/these-cyber-monday-google-store-deals-end-soon-save-on-pixel-nest-fitbit-and-more/#ftag=CADf328eec](https://www.cnet.com/deals/these-cyber-monday-google-store-deals-end-soon-save-on-pixel-nest-fitbit-and-more/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 23:24:50+00:00
- - tags: None
 
 Google has marked down everything from Pixel phones to Chromecast streamers, but the deals won't last much longer.
 
@@ -20,7 +18,6 @@ Google has marked down everything from Pixel phones to Chromecast streamers, but
  - [https://www.cnet.com/deals/last-chance-for-best-buy-cyber-monday-deals-amazon-cant-beat/#ftag=CADf328eec](https://www.cnet.com/deals/last-chance-for-best-buy-cyber-monday-deals-amazon-cant-beat/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 23:17:27+00:00
- - tags: None
 
 Best Buy is selling air fryers, laptops, Google Nest Minis and more at prices Amazon can't compete with this Cyber Monday.
 
@@ -28,7 +25,6 @@ Best Buy is selling air fryers, laptops, Google Nest Minis and more at prices Am
  - [https://www.cnet.com/culture/merriam-webster-names-the-word-of-the-year-for-2022/#ftag=CADf328eec](https://www.cnet.com/culture/merriam-webster-names-the-word-of-the-year-for-2022/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 23:15:00+00:00
- - tags: None
 
 The online dictionary rounds up the top words searched in 2022.
 
@@ -36,7 +32,6 @@ The online dictionary rounds up the top words searched in 2022.
  - [https://www.cnet.com/culture/merriam-websters-word-of-the-year-is-as-grim-as-youd-expect/#ftag=CADf328eec](https://www.cnet.com/culture/merriam-websters-word-of-the-year-is-as-grim-as-youd-expect/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 23:15:00+00:00
- - tags: None
 
 The online dictionary rounds up the top words searched in 2022.
 
@@ -44,7 +39,6 @@ The online dictionary rounds up the top words searched in 2022.
  - [https://www.cnet.com/deals/last-chance-cyber-monday-deals-lowest-prices-ever/#ftag=CADf328eec](https://www.cnet.com/deals/last-chance-cyber-monday-deals-lowest-prices-ever/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 23:02:50+00:00
- - tags: None
 
 Cyber Monday has brought us all-time low prices on these eight products.
 
@@ -52,7 +46,6 @@ Cyber Monday has brought us all-time low prices on these eight products.
  - [https://www.cnet.com/roadshow/news/2023-audi-rs6-avant-rs7-sportback-performance-debut/#ftag=CADf328eec](https://www.cnet.com/roadshow/news/2023-audi-rs6-avant-rs7-sportback-performance-debut/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 23:02:02+00:00
- - tags: None
 
 The more aggressive RS 6 and RS 7 Performance variants boast bigger turbos, more power and optional lightweight wheels.
 
@@ -60,7 +53,6 @@ The more aggressive RS 6 and RS 7 Performance variants boast bigger turbos, more
  - [https://www.cnet.com/roadshow/pictures/2023-audi-rs-6-avant-performance-debut/#ftag=CADf328eec](https://www.cnet.com/roadshow/pictures/2023-audi-rs-6-avant-performance-debut/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 23:01:05+00:00
- - tags: None
 
 Larger turbochargers and more boost add 30 extra ponies to Audi's super sport wagon.
 
@@ -68,7 +60,6 @@ Larger turbochargers and more boost add 30 extra ponies to Audi's super sport wa
  - [https://www.cnet.com/roadshow/pictures/2023-audi-rs-7-sportback-performance-debut/#ftag=CADf328eec](https://www.cnet.com/roadshow/pictures/2023-audi-rs-7-sportback-performance-debut/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 23:01:01+00:00
- - tags: None
 
 Audi debuts the most powerful version of its RS 7 Sportback yet.
 
@@ -76,7 +67,6 @@ Audi debuts the most powerful version of its RS 7 Sportback yet.
  - [https://www.cnet.com/culture/entertainment/black-panther-wakanda-forever-post-credits-scene-and-mcu-teases-explained/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/black-panther-wakanda-forever-post-credits-scene-and-mcu-teases-explained/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 23:00:02+00:00
- - tags: None
 
 The 30th Marvel Cinematic Universe film finishes with a surprise that's sure to bring tears to your eyes. Read on for all the spoilers.
 
@@ -84,7 +74,6 @@ The 30th Marvel Cinematic Universe film finishes with a surprise that's sure to 
  - [https://www.cnet.com/tech/services-and-software/cyber-monday-last-day-to-get-peacock-premium-for-just-1-a-month-save-48/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/cyber-monday-last-day-to-get-peacock-premium-for-just-1-a-month-save-48/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 22:50:40+00:00
- - tags: None
 
 You can watch the 2022 FIFA World Cup in Spanish, NFL games and classics like The Office with your Peacock Premium subscription.
 
@@ -92,7 +81,6 @@ You can watch the 2022 FIFA World Cup in Spanish, NFL games and classics like Th
  - [https://www.cnet.com/news/social-media/elon-musk-is-weaponizing-twitter-against-apple-now/#ftag=CADf328eec](https://www.cnet.com/news/social-media/elon-musk-is-weaponizing-twitter-against-apple-now/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 22:49:17+00:00
- - tags: None
 
 The world's richest man is using the social network he bought to attack the world's most highly valued company.
 
@@ -100,7 +88,6 @@ The world's richest man is using the social network he bought to attack the worl
  - [https://www.cnet.com/deals/gift-idea-for-a-film-lover-alamo-drafthouse-gift-card-deal-ends-soon/#ftag=CADf328eec](https://www.cnet.com/deals/gift-idea-for-a-film-lover-alamo-drafthouse-gift-card-deal-ends-soon/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 22:30:02+00:00
- - tags: None
 
 You have until midnight Pacific time to get 25% off a gift card at Alamo Drafthouse.
 
@@ -108,7 +95,6 @@ You have until midnight Pacific time to get 25% off a gift card at Alamo Draftho
  - [https://www.cnet.com/deals/77-under-50-cyber-monday-deals/#ftag=CADf328eec](https://www.cnet.com/deals/77-under-50-cyber-monday-deals/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 22:21:41+00:00
- - tags: None
 
 You still can snag super affordable deals on tech, shoes, toys and more.
 
@@ -116,7 +102,6 @@ You still can snag super affordable deals on tech, shoes, toys and more.
  - [https://www.cnet.com/personal-finance/credit-cards/free-credit-checks/#ftag=CADf328eec](https://www.cnet.com/personal-finance/credit-cards/free-credit-checks/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 22:19:25+00:00
- - tags: None
 
 Tracking your credit is a good call. Here's how to do it for free.
 
@@ -124,7 +109,6 @@ Tracking your credit is a good call. Here's how to do it for free.
  - [https://www.cnet.com/tech/amazon-spin-and-win-last-chance-to-play-to-win-20-in-credit-for-cyber-monday/#ftag=CADf328eec](https://www.cnet.com/tech/amazon-spin-and-win-last-chance-to-play-to-win-20-in-credit-for-cyber-monday/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 22:15:02+00:00
- - tags: None
 
 You have just hours left to play Amazon's Spin & Win game, which gives you the chance to save more money on future purchases.
 
@@ -132,7 +116,6 @@ You have just hours left to play Amazon's Spin & Win game, which gives you the c
  - [https://www.cnet.com/culture/entertainment/more-people-should-watch-this-slick-time-travel-mystery-on-netflix/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/more-people-should-watch-this-slick-time-travel-mystery-on-netflix/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 22:11:26+00:00
- - tags: None
 
 Become immersed in this reality-bending sci-fi gem.
 
@@ -140,7 +123,6 @@ Become immersed in this reality-bending sci-fi gem.
  - [https://www.cnet.com/deals/sonos-cyber-monday-sale-last-chance-to-save-20-on-speakers-soundbars-and-more/#ftag=CADf328eec](https://www.cnet.com/deals/sonos-cyber-monday-sale-last-chance-to-save-20-on-speakers-soundbars-and-more/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 22:07:00+00:00
- - tags: None
 
 You don't have long to snag some of your favorite Sonos speakers for a discount.
 
@@ -148,7 +130,6 @@ You don't have long to snag some of your favorite Sonos speakers for a discount.
  - [https://www.cnet.com/culture/entertainment/best-sci-fi-tv-shows-prime-video-to-watch-this-week/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/best-sci-fi-tv-shows-prime-video-to-watch-this-week/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 22:06:34+00:00
- - tags: None
 
 The very best sci-fi series on Amazon's streaming service.
 
@@ -156,7 +137,6 @@ The very best sci-fi series on Amazon's streaming service.
  - [https://www.cnet.com/tech/mobile/google-settles-ftc-charges-about-deceptive-pixel-4-endorsements/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/google-settles-ftc-charges-about-deceptive-pixel-4-endorsements/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 22:06:00+00:00
- - tags: None
 
 Both Google and radio company iHeartMedia are paying $9.4 million to end the case.
 
@@ -164,7 +144,6 @@ Both Google and radio company iHeartMedia are paying $9.4 million to end the cas
  - [https://www.cnet.com/deals/the-best-cyber-monday-deals-on-amazon-devices-wont-be-around-for-much-longer/#ftag=CADf328eec](https://www.cnet.com/deals/the-best-cyber-monday-deals-on-amazon-devices-wont-be-around-for-much-longer/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 22:01:00+00:00
- - tags: None
 
 Amazon's best deals have included its own devices, but if you've wanted to pick one up at Cyber Monday prices, you better act fast.
 
@@ -172,7 +151,6 @@ Amazon's best deals have included its own devices, but if you've wanted to pick 
  - [https://www.cnet.com/tech/mobile/apple-watch-vs-oura-ring-which-is-the-better-sleep-tracker/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/apple-watch-vs-oura-ring-which-is-the-better-sleep-tracker/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 22:00:06+00:00
- - tags: None
 
 I wore both devices to sleep over the course of several nights to put them to the test.
 
@@ -180,7 +158,6 @@ I wore both devices to sleep over the course of several nights to put them to th
  - [https://www.cnet.com/health/mental/7-science-backed-foods-that-will-make-you-happy/#ftag=CADf328eec](https://www.cnet.com/health/mental/7-science-backed-foods-that-will-make-you-happy/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 22:00:02+00:00
- - tags: None
 
 Try eating these foods for a boost of happiness.
 
@@ -188,7 +165,6 @@ Try eating these foods for a boost of happiness.
  - [https://www.cnet.com/culture/entertainment/the-absolute-best-sci-fi-movies-on-hbo-max-to-watch-this-week/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-absolute-best-sci-fi-movies-on-hbo-max-to-watch-this-week/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 21:53:22+00:00
- - tags: None
 
 Find a trove of sci-fi gems on HBO Max.
 
@@ -196,7 +172,6 @@ Find a trove of sci-fi gems on HBO Max.
  - [https://www.cnet.com/deals/why-the-12-dollar-tamagotchi-is-the-best-gift-to-buy-on-cyber-monday/#ftag=CADf328eec](https://www.cnet.com/deals/why-the-12-dollar-tamagotchi-is-the-best-gift-to-buy-on-cyber-monday/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 21:50:50+00:00
- - tags: None
 
 My go-to white elephant gift is cheaper than ever today.
 
@@ -204,7 +179,6 @@ My go-to white elephant gift is cheaper than ever today.
  - [https://www.cnet.com/deals/best-cyber-monday-deals-2022-late-pm-update/#ftag=CADf328eec](https://www.cnet.com/deals/best-cyber-monday-deals-2022-late-pm-update/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 21:48:16+00:00
- - tags: None
 
 Black Friday is behind us and the Cyber Monday deals are here in full force -- but the deals are going away soon.
 
@@ -212,7 +186,6 @@ Black Friday is behind us and the Cyber Monday deals are here in full force -- b
  - [https://www.cnet.com/health/sleep/lucid-mattress-review-the-affordable-amazon-choice-mattress/#ftag=CADf328eec](https://www.cnet.com/health/sleep/lucid-mattress-review-the-affordable-amazon-choice-mattress/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 21:45:37+00:00
- - tags: None
 
 If you're looking for a budget-friendly mattress that most people find comfortable, check out the Lucid mattress.
 
@@ -220,7 +193,6 @@ If you're looking for a budget-friendly mattress that most people find comfortab
  - [https://www.cnet.com/health/sleep/puffy-lux-mattress-review/#ftag=CADf328eec](https://www.cnet.com/health/sleep/puffy-lux-mattress-review/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 21:45:05+00:00
- - tags: None
 
 With a light and airy memory foam feel, there's a reason why this mattress is covered in clouds.
 
@@ -228,7 +200,6 @@ With a light and airy memory foam feel, there's a reason why this mattress is co
  - [https://www.cnet.com/deals/best-meal-delivery-deals-for-cyber-monday/#ftag=CADf328eec](https://www.cnet.com/deals/best-meal-delivery-deals-for-cyber-monday/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 21:44:00+00:00
- - tags: None
 
 Cyber Monday is the cheapest day of the year to sign up for a meal kit subscription. We've rounded up the best deals so far.
 
@@ -236,7 +207,6 @@ Cyber Monday is the cheapest day of the year to sign up for a meal kit subscript
  - [https://www.cnet.com/health/sleep/nectar-mattress-review/#ftag=CADf328eec](https://www.cnet.com/health/sleep/nectar-mattress-review/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 21:42:25+00:00
- - tags: None
 
 The original Nectar mattress offers enough support for most bodies without costing an arm and a leg.
 
@@ -244,7 +214,6 @@ The original Nectar mattress offers enough support for most bodies without costi
  - [https://www.cnet.com/health/sleep/ghostbed-mattress-review/#ftag=CADf328eec](https://www.cnet.com/health/sleep/ghostbed-mattress-review/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 21:38:22+00:00
- - tags: None
 
 The GhostBed Classic is one of the few bed-in-a-box mattresses that uses synthetic latex foam for that breathable and supportive feel without a marked-up price tag.
 
@@ -252,7 +221,6 @@ The GhostBed Classic is one of the few bed-in-a-box mattresses that uses synthet
  - [https://www.cnet.com/health/sleep/ghostbed-flex-hybrid-mattress-review/#ftag=CADf328eec](https://www.cnet.com/health/sleep/ghostbed-flex-hybrid-mattress-review/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 21:37:59+00:00
- - tags: None
 
 GhostBed's premium mattress, the Flex Hybrid, accommodates a wide range of sleepers. Find out if you're one of them.
 
@@ -260,7 +228,6 @@ GhostBed's premium mattress, the Flex Hybrid, accommodates a wide range of sleep
  - [https://www.cnet.com/science/space/new-3d-map-of-mars-north-pole-reveals-buried-canyon/#ftag=CADf328eec](https://www.cnet.com/science/space/new-3d-map-of-mars-north-pole-reveals-buried-canyon/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 21:36:08+00:00
- - tags: None
 
 A radar-generated view teases out geologic secrets from below the surface of Mars.
 
@@ -268,7 +235,6 @@ A radar-generated view teases out geologic secrets from below the surface of Mar
  - [https://www.cnet.com/videos/scuba-diving-with-the-apple-watch-ultra/#ftag=CADf328eec](https://www.cnet.com/videos/scuba-diving-with-the-apple-watch-ultra/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 21:30:51+00:00
- - tags: None
 
 The Oceanic Plus app turns the Apple Watch Ultra into a dive computer, dive planner, dive tracker and more. We tested it out with a full day of diving in the Pacific.
 
@@ -276,7 +242,6 @@ The Oceanic Plus app turns the Apple Watch Ultra into a dive computer, dive plan
  - [https://www.cnet.com/health/personal-care/derma-es-vitamin-c-serum-is-50-off-this-cyber-monday/#ftag=CADf328eec](https://www.cnet.com/health/personal-care/derma-es-vitamin-c-serum-is-50-off-this-cyber-monday/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 21:30:02+00:00
- - tags: None
 
 If you're looking for a solid, vegan vitamin C serum that won't break the bank, look no further.
 
@@ -284,7 +249,6 @@ If you're looking for a solid, vegan vitamin C serum that won't break the bank, 
  - [https://www.cnet.com/health/fitness/recharge-your-home-workout-space-with-these-easy-hacks/#ftag=CADf328eec](https://www.cnet.com/health/fitness/recharge-your-home-workout-space-with-these-easy-hacks/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 21:27:55+00:00
- - tags: None
 
 Here are five tips to transform your living room -- and your mindset -- for exercise.
 
@@ -292,7 +256,6 @@ Here are five tips to transform your living room -- and your mindset -- for exer
  - [https://www.cnet.com/deals/cyber-monday-deals-lowest-prices-ever/#ftag=CADf328eec](https://www.cnet.com/deals/cyber-monday-deals-lowest-prices-ever/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 21:27:00+00:00
- - tags: None
 
 Cyber Monday has brought us all-time low prices on these eight products.
 
@@ -300,7 +263,6 @@ Cyber Monday has brought us all-time low prices on these eight products.
  - [https://www.cnet.com/deals/target-cyber-monday-deals-that-wont-last-long/#ftag=CADf328eec](https://www.cnet.com/deals/target-cyber-monday-deals-that-wont-last-long/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 21:24:00+00:00
- - tags: None
 
 Cyber Monday is in full effect. Here's your chance to grab these gadgets, electronics and more for a bargain.
 
@@ -308,7 +270,6 @@ Cyber Monday is in full effect. Here's your chance to grab these gadgets, electr
  - [https://www.cnet.com/health/medical/heres-what-to-know-about-rsv-this-holiday-season/#ftag=CADf328eec](https://www.cnet.com/health/medical/heres-what-to-know-about-rsv-this-holiday-season/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 21:00:02+00:00
- - tags: None
 
 With an RSV wave affecting young kids, here's what parents should know about symptoms, who needs treatment and how to minimize exposure.
 
@@ -316,7 +277,6 @@ With an RSV wave affecting young kids, here's what parents should know about sym
  - [https://www.cnet.com/deals/best-cyber-monday-deals-2022-late-update/#ftag=CADf328eec](https://www.cnet.com/deals/best-cyber-monday-deals-2022-late-update/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 20:59:00+00:00
- - tags: None
 
 We've rounded up the best Cyber Monday deals.
 
@@ -324,7 +284,6 @@ We've rounded up the best Cyber Monday deals.
  - [https://www.cnet.com/deals/cyber-monday-deals-under-25-best-buy-amazon-target-pm-update/#ftag=CADf328eec](https://www.cnet.com/deals/cyber-monday-deals-under-25-best-buy-amazon-target-pm-update/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 20:57:00+00:00
- - tags: None
 
 Save on everything from wireless earbuds to streaming subscriptions this Cyber Monday.
 
@@ -332,7 +291,6 @@ Save on everything from wireless earbuds to streaming subscriptions this Cyber M
  - [https://www.cnet.com/culture/entertainment/more-people-should-watch-this-tense-thrilling-sci-fi-movie-on-netflix/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/more-people-should-watch-this-tense-thrilling-sci-fi-movie-on-netflix/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 20:56:00+00:00
- - tags: None
 
 Oxygen will make you super glad you're sitting in a comfortable chair.
 
@@ -340,7 +298,6 @@ Oxygen will make you super glad you're sitting in a comfortable chair.
  - [https://www.cnet.com/personal-finance/credit-cards/cancel-credit-card-application/#ftag=CADf328eec](https://www.cnet.com/personal-finance/credit-cards/cancel-credit-card-application/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 20:44:04+00:00
- - tags: None
 
 You'll have to move quickly if you want to cancel your application.
 
@@ -348,7 +305,6 @@ You'll have to move quickly if you want to cancel your application.
  - [https://www.cnet.com/deals/big-cyber-monday-deal-save-50-on-this-oral-b-electric-toothbrush/#ftag=CADf328eec](https://www.cnet.com/deals/big-cyber-monday-deal-save-50-on-this-oral-b-electric-toothbrush/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 20:22:05+00:00
- - tags: None
 
 Colgate whitening kits are discounted at Amazon, too.
 
@@ -356,7 +312,6 @@ Colgate whitening kits are discounted at Amazon, too.
  - [https://www.cnet.com/tech/gaming/arcade1up-deals-abound-for-cyber-monday/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/arcade1up-deals-abound-for-cyber-monday/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 20:21:00+00:00
- - tags: None
 
 Ever wanted an arcade cabinet? Cyber Monday is the perfect time to buy.
 
@@ -364,7 +319,6 @@ Ever wanted an arcade cabinet? Cyber Monday is the perfect time to buy.
  - [https://www.cnet.com/science/space/see-space-views-of-mauna-loa-volcano-erupting-for-first-time-since-1984/#ftag=CADf328eec](https://www.cnet.com/science/space/see-space-views-of-mauna-loa-volcano-erupting-for-first-time-since-1984/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 20:20:00+00:00
- - tags: None
 
 Hawaii's Mauna Loa last spewed ash decades ago.
 
@@ -372,7 +326,6 @@ Hawaii's Mauna Loa last spewed ash decades ago.
  - [https://www.cnet.com/personal-finance/social-security-benefits-for-children-whos-eligible-how-to-apply-and-payment-dates/#ftag=CADf328eec](https://www.cnet.com/personal-finance/social-security-benefits-for-children-whos-eligible-how-to-apply-and-payment-dates/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 20:15:02+00:00
- - tags: None
 
 Find out if your child is eligible to receive a portion of your full Social Security benefit amount.
 
@@ -380,7 +333,6 @@ Find out if your child is eligible to receive a portion of your full Social Secu
  - [https://www.cnet.com/tech/home-entertainment/9-awesome-cyber-monday-deals-on-bluetooth-speakers/#ftag=CADf328eec](https://www.cnet.com/tech/home-entertainment/9-awesome-cyber-monday-deals-on-bluetooth-speakers/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 19:56:00+00:00
- - tags: None
 
 Save big on wireless speakers this Cyber Monday.
 
@@ -388,7 +340,6 @@ Save big on wireless speakers this Cyber Monday.
  - [https://www.cnet.com/culture/entertainment/prime-video-the-best-movies-to-watch-in-november-2022/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/prime-video-the-best-movies-to-watch-in-november-2022/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 19:47:00+00:00
- - tags: None
 
 The documentary Good Night Oppy arrived on Prime Video last week.
 
@@ -396,7 +347,6 @@ The documentary Good Night Oppy arrived on Prime Video last week.
  - [https://www.cnet.com/deals/find-8-walmart-cyber-monday-deals-with-prices-amazon-cant-beat/#ftag=CADf328eec](https://www.cnet.com/deals/find-8-walmart-cyber-monday-deals-with-prices-amazon-cant-beat/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 19:43:00+00:00
- - tags: None
 
 Amazon has some great Cyber Monday sales, but not on these items with big Walmart discounts.
 
@@ -404,7 +354,6 @@ Amazon has some great Cyber Monday sales, but not on these items with big Walmar
  - [https://www.cnet.com/deals/get-cozy-for-less-with-these-aerie-cyber-monday-discounts/#ftag=CADf328eec](https://www.cnet.com/deals/get-cozy-for-less-with-these-aerie-cyber-monday-discounts/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 19:24:41+00:00
- - tags: None
 
 Cozy up this holiday season with 50% off Aerie pajamas and bralettes; and 40% off all sweaters, sweatshirts and leggings.
 
@@ -412,7 +361,6 @@ Cozy up this holiday season with 50% off Aerie pajamas and bralettes; and 40% of
  - [https://www.cnet.com/deals/this-25-amazon-cyber-monday-deal-is-actually-pretty-useful/#ftag=CADf328eec](https://www.cnet.com/deals/this-25-amazon-cyber-monday-deal-is-actually-pretty-useful/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 19:18:30+00:00
- - tags: None
 
 You can save over 60% with Amazon's Echo Dot and Hue smart bulb bundle.
 
@@ -420,7 +368,6 @@ You can save over 60% with Amazon's Echo Dot and Hue smart bulb bundle.
  - [https://www.cnet.com/personal-finance/banking/dont-get-fooled-by-zelle-scams-how-they-work-and-how-to-protect-yourself/#ftag=CADf328eec](https://www.cnet.com/personal-finance/banking/dont-get-fooled-by-zelle-scams-how-they-work-and-how-to-protect-yourself/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 19:17:02+00:00
- - tags: None
 
 Zelle scams could end up costing Americans $255 million this year.
 
@@ -428,7 +375,6 @@ Zelle scams could end up costing Americans $255 million this year.
  - [https://www.cnet.com/culture/entertainment/who-dies-in-the-white-lotus-season-2-what-we-know-as-of-episode-5/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/who-dies-in-the-white-lotus-season-2-what-we-know-as-of-episode-5/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 19:07:53+00:00
- - tags: None
 
 Episode 5, That's Amore, was a real doozy.
 
@@ -436,7 +382,6 @@ Episode 5, That's Amore, was a real doozy.
  - [https://www.cnet.com/deals/grab-a-pack-of-extra-apple-airtags-batteries-for-under-10/#ftag=CADf328eec](https://www.cnet.com/deals/grab-a-pack-of-extra-apple-airtags-batteries-for-under-10/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 19:07:00+00:00
- - tags: None
 
 Give the gift of peace of mind. Get batteries for your Apple AirTags this holiday.
 
@@ -444,7 +389,6 @@ Give the gift of peace of mind. Get batteries for your Apple AirTags this holida
  - [https://www.cnet.com/culture/entertainment/best-new-hallmark-christmas-movies-to-snuggle-up-to-this-season/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/best-new-hallmark-christmas-movies-to-snuggle-up-to-this-season/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 19:04:00+00:00
- - tags: None
 
 There are 40 brand new holiday movies out this year between two channels: Hallmark and Hallmark Movies & Mysteries.
 
@@ -452,7 +396,6 @@ There are 40 brand new holiday movies out this year between two channels: Hallma
  - [https://www.cnet.com/health/nutrition/8-vitamin-b-benefits-according-to-science/#ftag=CADf328eec](https://www.cnet.com/health/nutrition/8-vitamin-b-benefits-according-to-science/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 19:00:02+00:00
- - tags: None
 
 Vitamin B plays an important roll in your overall well-being. Here's what to know.
 
@@ -460,7 +403,6 @@ Vitamin B plays an important roll in your overall well-being. Here's what to kno
  - [https://www.cnet.com/deals/mint-mobile-epic-cyber-monday-deal-includes-3-months-of-free-service/#ftag=CADf328eec](https://www.cnet.com/deals/mint-mobile-epic-cyber-monday-deal-includes-3-months-of-free-service/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 18:53:00+00:00
- - tags: None
 
 Pricing starts at $45 for the six months of service with this Cyber Monday deal, which is hard to beat.
 
@@ -468,7 +410,6 @@ Pricing starts at $45 for the six months of service with this Cyber Monday deal,
  - [https://www.cnet.com/culture/entertainment/1899-on-netflix-that-weird-ending-explained/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/1899-on-netflix-that-weird-ending-explained/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 18:51:00+00:00
- - tags: None
 
 Is it "Lost" at sea, or "Lost" in space?
 
@@ -476,7 +417,6 @@ Is it "Lost" at sea, or "Lost" in space?
  - [https://www.cnet.com/videos/neuralink-explained-elon-musk-plans-to-tap-our-minds-with-brain-implants/#ftag=CADf328eec](https://www.cnet.com/videos/neuralink-explained-elon-musk-plans-to-tap-our-minds-with-brain-implants/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 18:49:00+00:00
- - tags: None
 
 Elon Musk wants to implant a chip inside our skulls to allow "consensual telepathy." He says it could open the door to a Black Mirror future, but is this tech anything more than science fiction?
 
@@ -484,7 +424,6 @@ Elon Musk wants to implant a chip inside our skulls to allow "consensual telepat
  - [https://www.cnet.com/deals/dont-wait-to-shop-kylie-cosmetics-biggest-sale-of-the-year/#ftag=CADf328eec](https://www.cnet.com/deals/dont-wait-to-shop-kylie-cosmetics-biggest-sale-of-the-year/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 18:48:00+00:00
- - tags: None
 
 These Cyber Monday deals on all Kylie brand cosmetics and skin care can't be missed.
 
@@ -492,7 +431,6 @@ These Cyber Monday deals on all Kylie brand cosmetics and skin care can't be mis
  - [https://www.cnet.com/deals/5-cyber-monday-deals-to-splurge-on-high-cost-items-worth-the/#ftag=CADf328eec](https://www.cnet.com/deals/5-cyber-monday-deals-to-splurge-on-high-cost-items-worth-the/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 18:45:00+00:00
- - tags: None
 
 Treat yourself with these luxury Cyber Monday deals.
 
@@ -500,7 +438,6 @@ Treat yourself with these luxury Cyber Monday deals.
  - [https://www.cnet.com/culture/entertainment/watching-1899-on-netflix-be-sure-to-change-this-one-setting/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/watching-1899-on-netflix-be-sure-to-change-this-one-setting/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 18:44:00+00:00
- - tags: None
 
 If you don't, this show won't make a lot of sense...
 
@@ -508,7 +445,6 @@ If you don't, this show won't make a lot of sense...
  - [https://www.cnet.com/health/medical/who-renames-monkeypox-as-mpox/#ftag=CADf328eec](https://www.cnet.com/health/medical/who-renames-monkeypox-as-mpox/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 18:33:00+00:00
- - tags: None
 
 Officials have been looking for a new name in an effort to fight "racist and stigmatizing language" associated with the original name.
 
@@ -516,7 +452,6 @@ Officials have been looking for a new name in an effort to fight "racist and sti
  - [https://www.cnet.com/deals/sonos-cyber-monday-sale-save-20-on-move-speaker-and-more/#ftag=CADf328eec](https://www.cnet.com/deals/sonos-cyber-monday-sale-save-20-on-move-speaker-and-more/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 18:30:02+00:00
- - tags: None
 
 You can snag some of our favorite wireless speakers and soundbars for hundreds less than the list price, but you only have hours left.
 
@@ -524,7 +459,6 @@ You can snag some of our favorite wireless speakers and soundbars for hundreds l
  - [https://www.cnet.com/science/space/see-vivid-space-views-of-mauna-loa-volcano-erupting-for-first-time-in-decades/#ftag=CADf328eec](https://www.cnet.com/science/space/see-vivid-space-views-of-mauna-loa-volcano-erupting-for-first-time-in-decades/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 18:21:00+00:00
- - tags: None
 
 Hawaii's Mauna Loa last spewed ash in 1984.
 
@@ -532,7 +466,6 @@ Hawaii's Mauna Loa last spewed ash in 1984.
  - [https://www.cnet.com/deals/you-wont-find-these-best-buy-cyber-monday-deals-on-amazon/#ftag=CADf328eec](https://www.cnet.com/deals/you-wont-find-these-best-buy-cyber-monday-deals-on-amazon/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 18:21:00+00:00
- - tags: None
 
 Best Buy is selling laptops, air fryers, Google Nest Minis and more at Cyber Monday prices Amazon can't compete with.
 
@@ -540,7 +473,6 @@ Best Buy is selling laptops, air fryers, Google Nest Minis and more at Cyber Mon
  - [https://www.cnet.com/deals/spice-up-game-night-with-up-to-44-off-party-games-on-amazon/#ftag=CADf328eec](https://www.cnet.com/deals/spice-up-game-night-with-up-to-44-off-party-games-on-amazon/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 18:18:00+00:00
- - tags: None
 
 Make game night more fun this holiday season with these major Amazon discounts on party games.
 
@@ -548,7 +480,6 @@ Make game night more fun this holiday season with these major Amazon discounts o
  - [https://www.cnet.com/deals/target-cyber-monday-amazing-deals-live-right-now/#ftag=CADf328eec](https://www.cnet.com/deals/target-cyber-monday-amazing-deals-live-right-now/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 18:11:00+00:00
- - tags: None
 
 Target has unleashed a new wave of discounts for Cyber Monday.
 
@@ -556,7 +487,6 @@ Target has unleashed a new wave of discounts for Cyber Monday.
  - [https://www.cnet.com/deals/snag-30-off-the-base-rental-car-rate-from-hertz-for-cyber-monday/#ftag=CADf328eec](https://www.cnet.com/deals/snag-30-off-the-base-rental-car-rate-from-hertz-for-cyber-monday/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 17:40:53+00:00
- - tags: None
 
 A jaunt over the river and through the woods might be a little more affordable for the holiday season.
 
@@ -564,7 +494,6 @@ A jaunt over the river and through the woods might be a little more affordable f
  - [https://www.cnet.com/culture/internet/spotify-instafest-forget-spotify-wrapped-and-share-your-dream-festival-line-up-instead/#ftag=CADf328eec](https://www.cnet.com/culture/internet/spotify-instafest-forget-spotify-wrapped-and-share-your-dream-festival-line-up-instead/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 17:38:00+00:00
- - tags: None
 
 Seen those festival lineups on social media? Here's how to get yours from Spotify.
 
@@ -572,7 +501,6 @@ Seen those festival lineups on social media? Here's how to get yours from Spotif
  - [https://www.cnet.com/culture/entertainment/the-absolute-best-netflix-fantasy-movies-you-can-stream-today/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-absolute-best-netflix-fantasy-movies-you-can-stream-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 17:37:16+00:00
- - tags: None
 
 Netflix's fantasy options range from pure magic to touching allegories of the human condition.
 
@@ -580,7 +508,6 @@ Netflix's fantasy options range from pure magic to touching allegories of the hu
  - [https://www.cnet.com/personal-finance/credit-cards/how-old-to-get-a-credit-card/#ftag=CADf328eec](https://www.cnet.com/personal-finance/credit-cards/how-old-to-get-a-credit-card/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 17:35:38+00:00
- - tags: None
 
 You typically need to be 18 or older -- but there are exceptions.
 
@@ -588,7 +515,6 @@ You typically need to be 18 or older -- but there are exceptions.
  - [https://www.cnet.com/culture/entertainment/glass-onion-temporarily-in-theaters-what-to-know/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/glass-onion-temporarily-in-theaters-what-to-know/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 17:33:00+00:00
- - tags: None
 
 You can catch the Knives Out sequel in some theaters now and on Netflix in December.
 
@@ -596,7 +522,6 @@ You can catch the Knives Out sequel in some theaters now and on Netflix in Decem
  - [https://www.cnet.com/tech/gaming/microsoft-to-offer-concessions-for-activision-deal-to-eu-report-says/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/microsoft-to-offer-concessions-for-activision-deal-to-eu-report-says/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 17:25:00+00:00
- - tags: None
 
 The software giant's blockbuster $68.7 billion acquisition of Activision Blizzard appears to be entering a new phase.
 
@@ -604,7 +529,6 @@ The software giant's blockbuster $68.7 billion acquisition of Activision Blizzar
  - [https://www.cnet.com/tech/services-and-software/peacock-premium-is-just-1-a-month-for-cyber-monday-save-48/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/peacock-premium-is-just-1-a-month-for-cyber-monday-save-48/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 17:24:00+00:00
- - tags: None
 
 A Peacock premium subscription comes with every live game of the 2022 FIFA World Cup in Spanish, plus Sunday night NFL football games, as well as classics like The Office.
 
@@ -612,7 +536,6 @@ A Peacock premium subscription comes with every live game of the 2022 FIFA World
  - [https://www.cnet.com/culture/entertainment/the-absolute-best-netflix-sci-fi-tv-shows-to-check-out-this-week/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-absolute-best-netflix-sci-fi-tv-shows-to-check-out-this-week/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 17:17:32+00:00
- - tags: None
 
 These are the best of the sci-fi series on Netflix.
 
@@ -620,7 +543,6 @@ These are the best of the sci-fi series on Netflix.
  - [https://www.cnet.com/personal-finance/social-security-cola-when-will-my-checks-be-increased/#ftag=CADf328eec](https://www.cnet.com/personal-finance/social-security-cola-when-will-my-checks-be-increased/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 17:15:02+00:00
- - tags: None
 
 The average retiree can expect to see $146 more on their checks each month, thanks to the biggest increase in more than 40 years.
 
@@ -628,7 +550,6 @@ The average retiree can expect to see $146 more on their checks each month, than
  - [https://www.cnet.com/deals/cyber-monday-gaming-chair-deals-secretlab-anda-seat-x-chair-and-more/#ftag=CADf328eec](https://www.cnet.com/deals/cyber-monday-gaming-chair-deals-secretlab-anda-seat-x-chair-and-more/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 17:13:00+00:00
- - tags: None
 
 Save up to $600 on an amazing gaming chair. Your back will thank you.
 
@@ -636,7 +557,6 @@ Save up to $600 on an amazing gaming chair. Your back will thank you.
  - [https://www.cnet.com/how-to/want-to-save-on-heat-try-this-simple-home-upgrade/#ftag=CADf328eec](https://www.cnet.com/how-to/want-to-save-on-heat-try-this-simple-home-upgrade/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 17:00:02+00:00
- - tags: None
 
 It's possible to lower your energy bills by making a change. Here's how.
 
@@ -644,7 +564,6 @@ It's possible to lower your energy bills by making a change. Here's how.
  - [https://www.cnet.com/deals/79-under-50-cyber-monday-deals/#ftag=CADf328eec](https://www.cnet.com/deals/79-under-50-cyber-monday-deals/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 16:55:00+00:00
- - tags: None
 
 Cyber Monday is here and so are some super affordable deals on tech, shoes, toys and more.
 
@@ -652,7 +571,6 @@ Cyber Monday is here and so are some super affordable deals on tech, shoes, toys
  - [https://www.cnet.com/culture/entertainment/the-best-movies-to-see-on-apple-tv-plus-right-now-this-week/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-best-movies-to-see-on-apple-tv-plus-right-now-this-week/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 16:51:57+00:00
- - tags: None
 
 Apple TV Plus has an assortment of options, from dramas to music documentaries and animated movies.
 
@@ -660,7 +578,6 @@ Apple TV Plus has an assortment of options, from dramas to music documentaries a
  - [https://www.cnet.com/deals/commemorate-every-moment-with-discounted-pandora-jewelry/#ftag=CADf328eec](https://www.cnet.com/deals/commemorate-every-moment-with-discounted-pandora-jewelry/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 16:49:25+00:00
- - tags: None
 
 Treasure every moment with Pandora jewelry now 30% off for 2 days only.
 
@@ -668,7 +585,6 @@ Treasure every moment with Pandora jewelry now 30% off for 2 days only.
  - [https://www.cnet.com/deals/best-cyber-monday-xbox-controller-deals/#ftag=CADf328eec](https://www.cnet.com/deals/best-cyber-monday-xbox-controller-deals/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 16:48:37+00:00
- - tags: None
 
 Your game pad is going to break, so you might as well stock up on extras with these Cyber Monday deals.
 
@@ -676,7 +592,6 @@ Your game pad is going to break, so you might as well stock up on extras with th
  - [https://www.cnet.com/tech/services-and-software/watch-portugal-vs-uruguay-world-cup-2022-match-from-anywhere/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/watch-portugal-vs-uruguay-world-cup-2022-match-from-anywhere/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 16:30:02+00:00
- - tags: None
 
 Cristiano Ronaldo and Portugal could take a commanding lead in a tough Group H with a win today.
 
@@ -684,7 +599,6 @@ Cristiano Ronaldo and Portugal could take a commanding lead in a tough Group H w
  - [https://www.cnet.com/deals/96-cyber-monday-deals-under-25-amazon-best-buy-target-more/#ftag=CADf328eec](https://www.cnet.com/deals/96-cyber-monday-deals-under-25-amazon-best-buy-target-more/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 16:24:00+00:00
- - tags: None
 
 Save on everything from wireless earbuds to streaming subscriptions this Cyber Monday.
 
@@ -692,7 +606,6 @@ Save on everything from wireless earbuds to streaming subscriptions this Cyber M
  - [https://www.cnet.com/tech/final-day-to-spin-the-wheel-to-win-20-in-amazon-credit-for-cyber-monday/#ftag=CADf328eec](https://www.cnet.com/tech/final-day-to-spin-the-wheel-to-win-20-in-amazon-credit-for-cyber-monday/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 16:15:02+00:00
- - tags: None
 
 Today is the last day to play Amazon's Spin & Win game, which gives you the chance to save more money on purchases.
 
@@ -700,7 +613,6 @@ Today is the last day to play Amazon's Spin & Win game, which gives you the chan
  - [https://www.cnet.com/news/social-media/meta-hit-with-275m-fine-over-scraped-facebook-data/#ftag=CADf328eec](https://www.cnet.com/news/social-media/meta-hit-with-275m-fine-over-scraped-facebook-data/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 16:01:34+00:00
- - tags: None
 
 Europe's GDPR strikes again after personal Facebook data, including phone numbers, was found on the internet in 2021.
 
@@ -708,7 +620,6 @@ Europe's GDPR strikes again after personal Facebook data, including phone number
  - [https://www.cnet.com/news/yellowstone-season-5-why-paramounts-top-show-isnt-on-paramount-plus/#ftag=CADf328eec](https://www.cnet.com/news/yellowstone-season-5-why-paramounts-top-show-isnt-on-paramount-plus/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 15:54:30+00:00
- - tags: None
 
 And where you actually can stream it.
 
@@ -716,7 +627,6 @@ And where you actually can stream it.
  - [https://www.cnet.com/deals/best-cyber-monday-deals-2022/#ftag=CADf328eec](https://www.cnet.com/deals/best-cyber-monday-deals-2022/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 15:40:16+00:00
- - tags: None
 
 Black Friday is behind us and the Cyber Monday deals are here in full force.
 
@@ -724,7 +634,6 @@ Black Friday is behind us and the Cyber Monday deals are here in full force.
  - [https://www.cnet.com/tech/musk-twitter-crypto-crash-metaverse-lessons-from-techs-biggest-fails/#ftag=CADf328eec](https://www.cnet.com/tech/musk-twitter-crypto-crash-metaverse-lessons-from-techs-biggest-fails/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 15:24:09+00:00
- - tags: None
 
 Commentary: From the saga of Elon Musk and Twitter to the spectacular fall of cryptocurrencies, there's a lot to take in.
 
@@ -732,7 +641,6 @@ Commentary: From the saga of Elon Musk and Twitter to the spectacular fall of cr
  - [https://www.cnet.com/how-to/the-3-worst-spots-to-put-a-home-security-camera/#ftag=CADf328eec](https://www.cnet.com/how-to/the-3-worst-spots-to-put-a-home-security-camera/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 15:21:00+00:00
- - tags: None
 
 Don't compromise your home security: Put your home security cameras in the right places.
 
@@ -740,7 +648,6 @@ Don't compromise your home security: Put your home security cameras in the right
  - [https://www.cnet.com/deals/ankers-cyber-monday-deals-make-charging-your-gear-more-affordable-with-up-to-43-off/#ftag=CADf328eec](https://www.cnet.com/deals/ankers-cyber-monday-deals-make-charging-your-gear-more-affordable-with-up-to-43-off/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 15:16:00+00:00
- - tags: None
 
 This Cyber Monday sale is sure to supercharge all your technology.
 
@@ -748,7 +655,6 @@ This Cyber Monday sale is sure to supercharge all your technology.
  - [https://www.cnet.com/deals/the-glossier-perfume-everyones-been-talking-about-is-now-on-sale/#ftag=CADf328eec](https://www.cnet.com/deals/the-glossier-perfume-everyones-been-talking-about-is-now-on-sale/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 15:08:00+00:00
- - tags: None
 
 Glossier's Cyber Monday sale is happening now and you don't want to miss out on snagging the Glossier You perfume for 20% off.
 
@@ -756,7 +662,6 @@ Glossier's Cyber Monday sale is happening now and you don't want to miss out on 
  - [https://www.cnet.com/culture/entertainment/best-new-christmas-movies-to-stream/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/best-new-christmas-movies-to-stream/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 15:05:02+00:00
- - tags: None
 
 Feeling festive? Here's your guide to the best holiday movies hitting theaters and Netflix, Apple TV Plus and other streamers this year.
 
@@ -764,7 +669,6 @@ Feeling festive? Here's your guide to the best holiday movies hitting theaters a
  - [https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-stream-steelers-vs-colts-tonight-without-cable/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-stream-steelers-vs-colts-tonight-without-cable/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 15:01:09+00:00
- - tags: None
 
 Pittsburgh and Indianapolis wrap up Week 12 tonight on ESPN.
 
@@ -772,7 +676,6 @@ Pittsburgh and Indianapolis wrap up Week 12 tonight on ESPN.
  - [https://www.cnet.com/health/medical/elon-musks-next-neuralink-demo-is-coming-heres-how-to-watch/#ftag=CADf328eec](https://www.cnet.com/health/medical/elon-musks-next-neuralink-demo-is-coming-heres-how-to-watch/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 15:00:00+00:00
- - tags: None
 
 Get ready for an update Wednesday from the the brain-implant startup founded by Musk.
 
@@ -780,7 +683,6 @@ Get ready for an update Wednesday from the the brain-implant startup founded by 
  - [https://www.cnet.com/deals/give-the-gift-of-travel-this-holiday-with-30-off-southwest-airlines/#ftag=CADf328eec](https://www.cnet.com/deals/give-the-gift-of-travel-this-holiday-with-30-off-southwest-airlines/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 14:59:00+00:00
- - tags: None
 
 This Cyber Monday Southwest is offering 30% off base fare prices for trips between 1/10-3/8/2023.
 
@@ -788,7 +690,6 @@ This Cyber Monday Southwest is offering 30% off base fare prices for trips betwe
  - [https://www.cnet.com/tech/home-entertainment/11-awesome-cyber-monday-deals-on-bluetooth-speakers/#ftag=CADf328eec](https://www.cnet.com/tech/home-entertainment/11-awesome-cyber-monday-deals-on-bluetooth-speakers/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 14:52:05+00:00
- - tags: None
 
 Save big on wireless speakers this Cyber Monday.
 
@@ -796,7 +697,6 @@ Save big on wireless speakers this Cyber Monday.
  - [https://www.cnet.com/deals/best-cyber-monday-google-store-deals/#ftag=CADf328eec](https://www.cnet.com/deals/best-cyber-monday-google-store-deals/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 14:28:00+00:00
- - tags: None
 
 From Pixel phones to smart home accessories, Google is discounting nearly everything for Cyber Monday.
 
@@ -804,7 +704,6 @@ From Pixel phones to smart home accessories, Google is discounting nearly everyt
  - [https://www.cnet.com/deals/get-half-off-your-first-month-of-sling-tv-and-a-free-fire-tv-stick-this-cyber-monday/#ftag=CADf328eec](https://www.cnet.com/deals/get-half-off-your-first-month-of-sling-tv-and-a-free-fire-tv-stick-this-cyber-monday/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 14:28:00+00:00
- - tags: None
 
 One of the best cord-cutting services out there now comes with a free Amazon streaming device to get you started.
 
@@ -812,7 +711,6 @@ One of the best cord-cutting services out there now comes with a free Amazon str
  - [https://www.cnet.com/tech/mobile/i-went-scuba-diving-with-apple-watch-ultra-heres-how-it-works/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/i-went-scuba-diving-with-apple-watch-ultra-heres-how-it-works/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 14:00:06+00:00
- - tags: None
 
 Commentary: The Oceanic Plus app turns the Apple Watch Ultra into a dive computer. I tested it with a full day of diving.
 
@@ -820,7 +718,6 @@ Commentary: The Oceanic Plus app turns the Apple Watch Ultra into a dive compute
  - [https://www.cnet.com/personal-finance/mortgages/here-are-mortgage-rates-for-nov-28-2022-rates-decrease/#ftag=CADf328eec](https://www.cnet.com/personal-finance/mortgages/here-are-mortgage-rates-for-nov-28-2022-rates-decrease/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 14:00:00+00:00
- - tags: None
 
 Some important mortgage rates tailed off over the last week, though rates are generally expected to rise this year. If you're shopping for a mortgage, see how your future mortgage payments could be affected by interest rate hikes.
 
@@ -828,7 +725,6 @@ Some important mortgage rates tailed off over the last week, though rates are ge
  - [https://www.cnet.com/tech/home-entertainment/looking-to-give-the-ultimate-gift-try-an-oled-tv/#ftag=CADf328eec](https://www.cnet.com/tech/home-entertainment/looking-to-give-the-ultimate-gift-try-an-oled-tv/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 14:00:00+00:00
- - tags: None
 
 The LG C2 will make somebody's holiday (maybe yours) brighter.
 
@@ -836,7 +732,6 @@ The LG C2 will make somebody's holiday (maybe yours) brighter.
  - [https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-on-nov-28-2022-rates-retreat/#ftag=CADf328eec](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-on-nov-28-2022-rates-retreat/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 14:00:00+00:00
- - tags: None
 
 Multiple benchmark refinance rates slid lower over the last week. If you haven't locked in a rate yet, now's a good time to assess your options.
 
@@ -844,7 +739,6 @@ Multiple benchmark refinance rates slid lower over the last week. If you haven't
  - [https://www.cnet.com/health/nutrition/why-are-there-so-many-recalls-heres-what-to-know/#ftag=CADf328eec](https://www.cnet.com/health/nutrition/why-are-there-so-many-recalls-heres-what-to-know/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 14:00:00+00:00
- - tags: None
 
 We break down why recalls happen, and when you should take action.
 
@@ -852,7 +746,6 @@ We break down why recalls happen, and when you should take action.
  - [https://www.cnet.com/deals/you-definitely-dont-want-to-miss-out-on-aeropostales-huge-cyber-monday-sale/#ftag=CADf328eec](https://www.cnet.com/deals/you-definitely-dont-want-to-miss-out-on-aeropostales-huge-cyber-monday-sale/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 13:59:00+00:00
- - tags: None
 
 Couldn't shop in person for Black Friday? No sweat, Aeropostale's 60% off deal continues online today. Trust me, you don't want to miss out on this sale.
 
@@ -860,7 +753,6 @@ Couldn't shop in person for Black Friday? No sweat, Aeropostale's 60% off deal c
  - [https://www.cnet.com/deals/best-cyber-monday-3d-printer-deals/#ftag=CADf328eec](https://www.cnet.com/deals/best-cyber-monday-3d-printer-deals/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 13:25:00+00:00
- - tags: None
 
 There are heavy discounts on 3D printers for Cyber Monday and through the holiday season, if you know where to look.
 
@@ -868,7 +760,6 @@ There are heavy discounts on 3D printers for Cyber Monday and through the holida
  - [https://www.cnet.com/deals/target-cyber-monday-27-amazing-deals-live-right-now/#ftag=CADf328eec](https://www.cnet.com/deals/target-cyber-monday-27-amazing-deals-live-right-now/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 13:04:00+00:00
- - tags: None
 
 Target has unleashed a new wave of discounts.
 
@@ -876,7 +767,6 @@ Target has unleashed a new wave of discounts.
  - [https://www.cnet.com/tech/what-techs-biggest-failures-in-2022-can-teach-us/#ftag=CADf328eec](https://www.cnet.com/tech/what-techs-biggest-failures-in-2022-can-teach-us/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 13:00:02+00:00
- - tags: None
 
 Commentary: From the saga of Elon Musk and Twitter to the spectacular fall of cryptocurrencies, there's a lot to take in.
 
@@ -884,7 +774,6 @@ Commentary: From the saga of Elon Musk and Twitter to the spectacular fall of cr
  - [https://www.cnet.com/videos/best-gaming-laptops-of-2022-gifts-for-gamers-at-any-budget/#ftag=CADf328eec](https://www.cnet.com/videos/best-gaming-laptops-of-2022-gifts-for-gamers-at-any-budget/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 13:00:01+00:00
- - tags: None
 
 Gaming laptops are the best gift to give and receive. Dan Ackerman goes through the best ones, whether money matters or it's no object.
 
@@ -892,7 +781,6 @@ Gaming laptops are the best gift to give and receive. Dan Ackerman goes through 
  - [https://www.cnet.com/culture/entertainment/the-white-lotus-hidden-clues-in-those-opening-credits-explained/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-white-lotus-hidden-clues-in-those-opening-credits-explained/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 12:00:09+00:00
- - tags: None
 
 In what's becoming a clever trend for the HBO show, the opening credits are laden with hints to the murder mystery.
 
@@ -900,7 +788,6 @@ In what's becoming a clever trend for the HBO show, the opening credits are lade
  - [https://www.cnet.com/news/are-household-essentials-cheaper-on-amazon-we-do-the-math/#ftag=CADf328eec](https://www.cnet.com/news/are-household-essentials-cheaper-on-amazon-we-do-the-math/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 12:00:06+00:00
- - tags: None
 
 Amazon's items aren't the most expensive, but they aren't the cheapest, either.
 
@@ -908,7 +795,6 @@ Amazon's items aren't the most expensive, but they aren't the cheapest, either.
  - [https://www.cnet.com/tech/services-and-software/7-google-feature-to-use-when-you-dont-know-whats-for-dinner/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/7-google-feature-to-use-when-you-dont-know-whats-for-dinner/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 12:00:02+00:00
- - tags: None
 
 Google can have food delivered to your door, offer personalized recommendations and help you avoid crowds.
 
@@ -916,7 +802,6 @@ Google can have food delivered to your door, offer personalized recommendations 
  - [https://www.cnet.com/deals/15-cyber-monday-deals-that-make-perfect-gifts-at-impulsive-prices/#ftag=CADf328eec](https://www.cnet.com/deals/15-cyber-monday-deals-that-make-perfect-gifts-at-impulsive-prices/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 11:22:24+00:00
- - tags: None
 
 These deep discounts end before when Cyber Monday does, so you'll want to move fast to nab these deals.
 
@@ -924,7 +809,6 @@ These deep discounts end before when Cyber Monday does, so you'll want to move f
  - [https://www.cnet.com/deals/cyber-monday-deals-2022-walmart-amazon-best-buy-more/#ftag=CADf328eec](https://www.cnet.com/deals/cyber-monday-deals-2022-walmart-amazon-best-buy-more/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 11:10:00+00:00
- - tags: None
 
 Now that Black Friday weekend is behind us, it's time to really dive into all the best Cyber Monday deals.
 
@@ -932,7 +816,6 @@ Now that Black Friday weekend is behind us, it's time to really dive into all th
  - [https://www.cnet.com/deals/nab-these-deals-under-50-cyber-monday/#ftag=CADf328eec](https://www.cnet.com/deals/nab-these-deals-under-50-cyber-monday/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 10:44:25+00:00
- - tags: None
 
 Cyber Monday is here and so are the affordable deals on Apple AirTags, Amazon tablets, shoes and toys.
 
@@ -940,7 +823,6 @@ Cyber Monday is here and so are the affordable deals on Apple AirTags, Amazon ta
  - [https://www.cnet.com/deals/81-cyber-monday-deals-under-25-amazon-best-buy-target-more/#ftag=CADf328eec](https://www.cnet.com/deals/81-cyber-monday-deals-under-25-amazon-best-buy-target-more/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 10:25:00+00:00
- - tags: None
 
 This Cyber Monday, you'll find big discounts on everything from wireless earbuds to an HBO Max subscription.
 
@@ -948,7 +830,6 @@ This Cyber Monday, you'll find big discounts on everything from wireless earbuds
  - [https://www.cnet.com/deals/cyber-monday-sonos-deals-save-up-to-20-on-speakers-soundbars-and-more/#ftag=CADf328eec](https://www.cnet.com/deals/cyber-monday-sonos-deals-save-up-to-20-on-speakers-soundbars-and-more/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 03:43:00+00:00
- - tags: None
 
 Get some of our favorite wireless speakers and soundbars for hundreds less than the list price.
 
@@ -956,7 +837,6 @@ Get some of our favorite wireless speakers and soundbars for hundreds less than 
  - [https://www.cnet.com/deals/these-cyber-monday-google-store-deals-are-already-live/#ftag=CADf328eec](https://www.cnet.com/deals/these-cyber-monday-google-store-deals-are-already-live/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 02:52:00+00:00
- - tags: None
 
 From Pixel phones to smart home accessories, Google is discounted nearly everything for Cyber Monday.
 
@@ -964,7 +844,6 @@ From Pixel phones to smart home accessories, Google is discounted nearly everyth
  - [https://www.cnet.com/culture/entertainment/who-dies-in-the-white-lotus-season-2-episode-4-clues-explained/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/who-dies-in-the-white-lotus-season-2-episode-4-clues-explained/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 02:42:00+00:00
- - tags: None
 
 Episode 4, In the Sandbox, provided new evidence about who does and doesn't survive the trip.
 
@@ -972,7 +851,6 @@ Episode 4, In the Sandbox, provided new evidence about who does and doesn't surv
  - [https://www.cnet.com/deals/8-cyber-monday-deals-that-have-never-been-cheaper/#ftag=CADf328eec](https://www.cnet.com/deals/8-cyber-monday-deals-that-have-never-been-cheaper/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 02:41:00+00:00
- - tags: None
 
 These are at all-time low prices this weekend.
 
@@ -980,7 +858,6 @@ These are at all-time low prices this weekend.
  - [https://www.cnet.com/science/space/2022-geminid-meteor-shower-active-now-ready-to-rain-down-shooting-stars/#ftag=CADf328eec](https://www.cnet.com/science/space/2022-geminid-meteor-shower-active-now-ready-to-rain-down-shooting-stars/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 02:35:00+00:00
- - tags: None
 
 Bright cosmic fireballs and even "Earth grazers" are on the night sky calendar in coming weeks.
 
@@ -988,7 +865,6 @@ Bright cosmic fireballs and even "Earth grazers" are on the night sky calendar i
  - [https://www.cnet.com/culture/these-wordle-starter-words-practically-guarantee-a-winning-streak/#ftag=CADf328eec](https://www.cnet.com/culture/these-wordle-starter-words-practically-guarantee-a-winning-streak/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 02:31:00+00:00
- - tags: None
 
 They're like a cheat code.
 
@@ -996,7 +872,6 @@ They're like a cheat code.
  - [https://www.cnet.com/deals/target-cyber-monday-25-amazing-deals-live-right-now/#ftag=CADf328eec](https://www.cnet.com/deals/target-cyber-monday-25-amazing-deals-live-right-now/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 02:11:00+00:00
- - tags: None
 
 Target has unleashed a new wave of discounts .
 
@@ -1004,7 +879,6 @@ Target has unleashed a new wave of discounts .
  - [https://www.cnet.com/deals/all-the-best-buy-cyber-monday-deals-you-wont-find-on-amazon/#ftag=CADf328eec](https://www.cnet.com/deals/all-the-best-buy-cyber-monday-deals-you-wont-find-on-amazon/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 02:00:03+00:00
- - tags: None
 
 Score major discounts on laptops, smart speakers, blenders and more ahead of Cyber Monday.
 
@@ -1012,7 +886,6 @@ Score major discounts on laptops, smart speakers, blenders and more ahead of Cyb
  - [https://www.cnet.com/deals/beats-headphones-are-at-an-all-time-low-price-for-cyber-monday/#ftag=CADf328eec](https://www.cnet.com/deals/beats-headphones-are-at-an-all-time-low-price-for-cyber-monday/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 01:54:00+00:00
- - tags: None
 
 Beats headphones are some of the best you can buy. Now is a good time to jump in.
 
@@ -1020,7 +893,6 @@ Beats headphones are some of the best you can buy. Now is a good time to jump in
  - [https://www.cnet.com/deals/target-cyber-monday-deals-the-best-25-discounts-live-now/#ftag=CADf328eec](https://www.cnet.com/deals/target-cyber-monday-deals-the-best-25-discounts-live-now/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 01:33:00+00:00
- - tags: None
 
 Target has unleashed a new wave of discounts on Apple devices, headphones, 4K TVs and way more following Black Friday.
 
@@ -1028,7 +900,6 @@ Target has unleashed a new wave of discounts on Apple devices, headphones, 4K TV
  - [https://www.cnet.com/deals/cyber-monday-best-deals-amazon-devices/#ftag=CADf328eec](https://www.cnet.com/deals/cyber-monday-best-deals-amazon-devices/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 01:03:37+00:00
- - tags: None
 
 Cyber Monday is here, which means Amazon's best deals are live.
 
@@ -1036,6 +907,5 @@ Cyber Monday is here, which means Amazon's best deals are live.
  - [https://www.cnet.com/deals/cyber-monday-is-tomorrow-get-these-deals-for-under-50-now/#ftag=CADf328eec](https://www.cnet.com/deals/cyber-monday-is-tomorrow-get-these-deals-for-under-50-now/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-28 00:08:32+00:00
- - tags: None
 
 No need to wait for Cyber Monday: Grab deep discounts on items like Apple AirTags, Amazon tablets, shoes and toys right now.

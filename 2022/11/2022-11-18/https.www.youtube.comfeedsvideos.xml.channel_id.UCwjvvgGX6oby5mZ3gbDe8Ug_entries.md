@@ -1,10 +1,9 @@
-# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
+# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug, Source language: en-US
 
 ## Tens of thousands of people storm the blockade, workers free to escape Guangzhou/Foxconn Updates
  - [https://www.youtube.com/watch?v=RcOTkaC0UxQ](https://www.youtube.com/watch?v=RcOTkaC0UxQ)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
  - date published: 2022-11-18 15:25:06+00:00
- - tags: None
 
 #Chinainsights#Guangzhouprotest
 Throughout the history of the rule of the Chinese Communist Party in China, one of its main tactics has been to instill fear in the people. It sends this message of terror around the country by severely suppressing and punishing individuals who challenge it.

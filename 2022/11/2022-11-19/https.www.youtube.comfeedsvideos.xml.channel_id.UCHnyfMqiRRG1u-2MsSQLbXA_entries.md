@@ -1,10 +1,9 @@
-# Source Veritasium, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA
+# Source Veritasium, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA, Source language: en-US
 
 ## The world depends on a strange collection of items. They're not cheap
  - [https://www.youtube.com/watch?v=esQyYGezS7c](https://www.youtube.com/watch?v=esQyYGezS7c)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA
  - date published: 2022-11-19 14:00:24+00:00
- - tags: None
 
 This government warehouse keeps our entire society up to standard. Part of this video was sponsored by Google Domains. Take the first step to get online with a domain name from Google Domains - go to domains.google/veritasium to get 20% off your first year. #GoogleDomains
 

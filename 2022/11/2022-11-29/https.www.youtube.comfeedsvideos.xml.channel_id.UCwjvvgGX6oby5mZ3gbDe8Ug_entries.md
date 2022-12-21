@@ -1,10 +1,9 @@
-# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
+# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug, Source language: en-US
 
 ## More and more protests: "There is only one disease in China, and it is called not being free!"
  - [https://www.youtube.com/watch?v=etsNfRVeddI](https://www.youtube.com/watch?v=etsNfRVeddI)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
  - date published: 2022-11-29 17:40:02+00:00
- - tags: None
 
 #chinainsights 
 "CCP, step down, CCP, step down, CCP step down..."

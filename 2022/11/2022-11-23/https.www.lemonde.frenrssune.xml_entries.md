@@ -1,10 +1,9 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml
+# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
 
 ## Most Ukranians without power after latest wave of Russian air strikes
  - [https://www.lemonde.fr/en/energies/article/2022/11/24/most-ukranians-without-power-after-latest-wave-of-russian-air-strikes_6005397_98.html](https://www.lemonde.fr/en/energies/article/2022/11/24/most-ukranians-without-power-after-latest-wave-of-russian-air-strikes_6005397_98.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 23:15:12+00:00
- - tags: None
 
 Ukrainian President Volodymyr Zelensky told an emergency meeting of the UN Security Council Wednesday that Russian air strikes on Ukraine's battered power grid were an 'obvious crime against humanity.'
 
@@ -12,7 +11,6 @@ Ukrainian President Volodymyr Zelensky told an emergency meeting of the UN Secur
  - [https://www.lemonde.fr/en/sports/article/2022/11/23/canada-loses-to-belgium-in-their-world-cup-return_6005395_9.html](https://www.lemonde.fr/en/sports/article/2022/11/23/canada-loses-to-belgium-in-their-world-cup-return_6005395_9.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 22:28:00+00:00
- - tags: None
 
 Thibaut Courtois saved an early penalty and Michy Batshuayi scored the only goal to give Belgium a 1-0 win over Canada at the World Cup on Wednesday, spoiling the North American team's return to the tournament after 36 years.
 
@@ -20,7 +18,6 @@ Thibaut Courtois saved an early penalty and Michy Batshuayi scored the only goal
  - [https://www.lemonde.fr/en/environment/article/2022/11/23/the-cevennes-is-france-s-shrine-to-the-dark-night-and-the-starry-sky_6005392_114.html](https://www.lemonde.fr/en/environment/article/2022/11/23/the-cevennes-is-france-s-shrine-to-the-dark-night-and-the-starry-sky_6005392_114.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 19:30:10+00:00
- - tags: None
 
 While 85% of metropolitan France is exposed to light pollution, the Cévennes national park – the largest dark sky reserve in Europe – is encouraging its districts to preserve the night environment by limiting lighting.
 
@@ -28,7 +25,6 @@ While 85% of metropolitan France is exposed to light pollution, the Cévennes na
  - [https://www.lemonde.fr/en/m-le-mag/article/2022/11/23/alice-diop-the-new-face-of-french-cinema_6005388_117.html](https://www.lemonde.fr/en/m-le-mag/article/2022/11/23/alice-diop-the-new-face-of-french-cinema_6005388_117.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 19:00:10+00:00
- - tags: None
 
 Her name emerged as a result of the Silver Lion awarded at the Venice Film Festival to 'Saint Omer,' her first fiction film, in theaters on November 23. However, Alice Diop, 43, has been making award-winning documentaries for 20 years.
 
@@ -36,7 +32,6 @@ Her name emerged as a result of the Silver Lion awarded at the Venice Film Festi
  - [https://www.lemonde.fr/en/international/article/2022/11/23/the-uprising-in-iran-is-already-having-an-impact-on-the-whole-of-iranian-society_6005386_4.html](https://www.lemonde.fr/en/international/article/2022/11/23/the-uprising-in-iran-is-already-having-an-impact-on-the-whole-of-iranian-society_6005386_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 18:36:12+00:00
- - tags: None
 
 In an interview, researcher Stéphane Dudoignon explains the erosion of the ideological base of the Islamic Republic's regime since the protest movement began.
 
@@ -44,7 +39,6 @@ In an interview, researcher Stéphane Dudoignon explains the erosion of the ideo
  - [https://www.lemonde.fr/en/economy/article/2022/11/23/with-hope-and-skepticism-edf-waits-to-see-what-its-new-boss-will-do-next_6005384_19.html](https://www.lemonde.fr/en/economy/article/2022/11/23/with-hope-and-skepticism-edf-waits-to-see-what-its-new-boss-will-do-next_6005384_19.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 17:49:56+00:00
- - tags: None
 
 Luc Rémont was appointed the new CEO of France's state-owned energy company on Thursday. His first moves will be heavily scrutinized.
 
@@ -52,7 +46,6 @@ Luc Rémont was appointed the new CEO of France's state-owned energy company on 
  - [https://www.lemonde.fr/en/economy/article/2022/11/23/world-cup-2022-french-broadcasters-breathe-a-sigh-of-relief-as-boycott-fails-to-materialise_6005375_19.html](https://www.lemonde.fr/en/economy/article/2022/11/23/world-cup-2022-french-broadcasters-breathe-a-sigh-of-relief-as-boycott-fails-to-materialise_6005375_19.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 16:46:13+00:00
- - tags: None
 
 The tournament is a major investment for official broadcasters, and the controversy surrounding this edition has so far failed to impact audience figures or advertising.
 
@@ -60,7 +53,6 @@ The tournament is a major investment for official broadcasters, and the controve
  - [https://www.lemonde.fr/en/international/article/2022/11/23/war-in-ukraine-in-the-donbas-the-last-inhabitants-of-bakhmut-live-under-continual-bombardment_6005371_4.html](https://www.lemonde.fr/en/international/article/2022/11/23/war-in-ukraine-in-the-donbas-the-last-inhabitants-of-bakhmut-live-under-continual-bombardment_6005371_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 16:02:39+00:00
- - tags: None
 
 Since its retreat from Kherson, Putin's army is focusing its offensive on the town of Bakhmut – which has no electricty, gas or running water – but is being met by fierce resistance.
 
@@ -68,7 +60,6 @@ Since its retreat from Kherson, Putin's army is focusing its offensive on the to
  - [https://www.lemonde.fr/en/culture/article/2022/11/23/saint-omer-trial-of-an-infanticide-mother-a-reflection-of-skin-color_6005370_30.html](https://www.lemonde.fr/en/culture/article/2022/11/23/saint-omer-trial-of-an-infanticide-mother-a-reflection-of-skin-color_6005370_30.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 16:00:15+00:00
- - tags: None
 
 Inspired by the case of the French woman accused of murdering her baby on a beach, Alice Diop's fiction magnificently restores the complexities of this Black woman, far from simplistic clichés.
 
@@ -76,7 +67,6 @@ Inspired by the case of the French woman accused of murdering her baby on a beac
  - [https://www.lemonde.fr/en/europe/article/2022/11/23/european-parliament-website-hit-by-cyber-attack_6005369_143.html](https://www.lemonde.fr/en/europe/article/2022/11/23/european-parliament-website-hit-by-cyber-attack_6005369_143.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 15:53:51+00:00
- - tags: None
 
 European officials said on Wednesday that the European Parliament website had been affected by a hacking attack.
 
@@ -84,7 +74,6 @@ European officials said on Wednesday that the European Parliament website had be
  - [https://www.lemonde.fr/en/europe/article/2022/11/23/european-space-agency-reveals-five-new-astronauts-including-france-s-sophie-adenot_6005368_143.html](https://www.lemonde.fr/en/europe/article/2022/11/23/european-space-agency-reveals-five-new-astronauts-including-france-s-sophie-adenot_6005368_143.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 15:53:18+00:00
- - tags: None
 
 The European Space Agency announced its class of 2022 on Wednesday, concluding its first recruitment drive in over a decade that aims to bring diversity to space travel.
 
@@ -92,7 +81,6 @@ The European Space Agency announced its class of 2022 on Wednesday, concluding i
  - [https://www.lemonde.fr/en/sports/article/2022/11/23/world-cup-2022-japan-scores-two-late-goals-to-get-shock-victory-against-germany_6005363_9.html](https://www.lemonde.fr/en/sports/article/2022/11/23/world-cup-2022-japan-scores-two-late-goals-to-get-shock-victory-against-germany_6005363_9.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 15:31:59+00:00
- - tags: None
 
 Substitutes Ritsu Doan and Takuma Asano scored late goals Wednesday to give Japan a come-from-behind 2-1 victory over Germany at the World Cup.
 
@@ -100,7 +88,6 @@ Substitutes Ritsu Doan and Takuma Asano scored late goals Wednesday to give Japa
  - [https://www.lemonde.fr/en/international/article/2022/11/23/kamala-harris-asia-tour-washington-seeks-support-in-the-indo-pacific_6005358_4.html](https://www.lemonde.fr/en/international/article/2022/11/23/kamala-harris-asia-tour-washington-seeks-support-in-the-indo-pacific_6005358_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 14:46:31+00:00
- - tags: None
 
 In addition to the South China Sea, the defense of Taiwan is motivating the reinforcement of American forces in Southeast Asia, particularly in the Philippines.
 
@@ -108,7 +95,6 @@ In addition to the South China Sea, the defense of Taiwan is motivating the rein
  - [https://www.lemonde.fr/en/france/article/2022/11/23/world-cup-2022-the-rise-and-fall-of-the-architect-of-qatar-s-bid-mohamed-bin-hammam_6005352_7.html](https://www.lemonde.fr/en/france/article/2022/11/23/world-cup-2022-the-rise-and-fall-of-the-architect-of-qatar-s-bid-mohamed-bin-hammam_6005352_7.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 14:20:17+00:00
- - tags: None
 
 The former vice-president of FIFA, suspended for life in 2012, is a suspect in the French investigation into the controversial awarding of the World Cup to Qatar.
 
@@ -116,7 +102,6 @@ The former vice-president of FIFA, suspended for life in 2012, is a suspect in t
  - [https://www.lemonde.fr/en/international/article/2022/11/23/berlin-will-withdraw-soldiers-from-mali-despite-wanting-more-sway-in-africa_6005350_4.html](https://www.lemonde.fr/en/international/article/2022/11/23/berlin-will-withdraw-soldiers-from-mali-despite-wanting-more-sway-in-africa_6005350_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 14:03:49+00:00
- - tags: None
 
 Germany will pull out of MINUSMA in May 2024, a decision that has stirred up tension within the coalition.
 
@@ -124,7 +109,6 @@ Germany will pull out of MINUSMA in May 2024, a decision that has stirred up ten
  - [https://www.lemonde.fr/en/international/article/2022/11/23/china-s-zero-covid-policy-is-at-a-dead-end_6005347_4.html](https://www.lemonde.fr/en/international/article/2022/11/23/china-s-zero-covid-policy-is-at-a-dead-end_6005347_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 13:54:38+00:00
- - tags: None
 
 Following another increase in cases, Beijing has been virtually locked down for several days. Despite promises that it will relax its strict policy, the country is unable to do so.
 
@@ -132,7 +116,6 @@ Following another increase in cases, Beijing has been virtually locked down for 
  - [https://www.lemonde.fr/en/international/article/2022/11/23/iran-crosses-another-nuclear-threshold_6005341_4.html](https://www.lemonde.fr/en/international/article/2022/11/23/iran-crosses-another-nuclear-threshold_6005341_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 13:45:56+00:00
- - tags: None
 
 The International Atomic Energy Agency (IAEA) confirmed on Tuesday that Tehran had begun producing 60% enriched uranium at its Fordo plant.
 
@@ -140,7 +123,6 @@ The International Atomic Energy Agency (IAEA) confirmed on Tuesday that Tehran h
  - [https://www.lemonde.fr/en/international/article/2022/11/23/eu-parliament-declares-russia-a-state-sponsor-of-terrorism_6005338_4.html](https://www.lemonde.fr/en/international/article/2022/11/23/eu-parliament-declares-russia-a-state-sponsor-of-terrorism_6005338_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 12:24:18+00:00
- - tags: None
 
 The European Parliament on Wednesday overwhelmingly backed a resolution calling Russia a state sponsor of terrorism, with 494 MEPs backing the resolution.
 
@@ -148,7 +130,6 @@ The European Parliament on Wednesday overwhelmingly backed a resolution calling 
  - [https://www.lemonde.fr/en/economy/article/2022/11/23/the-eu-finally-adopts-directive-to-increase-the-number-of-women-on-boards_6005337_19.html](https://www.lemonde.fr/en/economy/article/2022/11/23/the-eu-finally-adopts-directive-to-increase-the-number-of-women-on-boards_6005337_19.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 12:23:53+00:00
- - tags: None
 
 The text provides that, in the European Union, 40% of company directors will have to be women. This obligation has already existed in France for 10 years.
 
@@ -156,7 +137,6 @@ The text provides that, in the European Union, 40% of company directors will hav
  - [https://www.lemonde.fr/en/international/article/2022/11/23/war-in-ukraine-is-putting-western-arms-stocks-under-pressure_6005330_4.html](https://www.lemonde.fr/en/international/article/2022/11/23/war-in-ukraine-is-putting-western-arms-stocks-under-pressure_6005330_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 11:30:15+00:00
- - tags: None
 
 Western arsenals are being depleted to the point of having reached a critical level, including in the United States.
 
@@ -164,7 +144,6 @@ Western arsenals are being depleted to the point of having reached a critical le
  - [https://www.lemonde.fr/en/sports/article/2022/11/23/paris-2024-even-the-olympic-games-budget-can-t-escape-inflation_6005323_9.html](https://www.lemonde.fr/en/sports/article/2022/11/23/paris-2024-even-the-olympic-games-budget-can-t-escape-inflation_6005323_9.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 11:07:26+00:00
- - tags: None
 
 The Organizing Committee said that the multi-billion dollar budget for the 2024 Olympics in Paris will increase by 10%, or €400 million, due to inflation as well as 'poorly anticipated' expenses.
 
@@ -172,7 +151,6 @@ The Organizing Committee said that the multi-billion dollar budget for the 2024 
  - [https://www.lemonde.fr/en/united-states/article/2022/11/23/three-french-lessons-on-the-us-midterms_6005322_133.html](https://www.lemonde.fr/en/united-states/article/2022/11/23/three-french-lessons-on-the-us-midterms_6005322_133.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 10:58:38+00:00
- - tags: None
 
 With the dust still settling on the November elections, it is a good time to see what the rest of the world can learn from them, writes former US correspondent Gilles Paris.
 
@@ -180,7 +158,6 @@ With the dust still settling on the November elections, it is a good time to see
  - [https://www.lemonde.fr/en/asia-and-pacific/article/2022/11/23/violent-protests-break-out-at-biggest-iphone-factory-in-china_6005321_153.html](https://www.lemonde.fr/en/asia-and-pacific/article/2022/11/23/violent-protests-break-out-at-biggest-iphone-factory-in-china_6005321_153.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 10:46:40+00:00
- - tags: None
 
 Employees at the world's biggest Apple iPhone factory were beaten and detained in protests over contract disputes amid anti-virus controls, according to witnesses and videos on social media.
 
@@ -188,7 +165,6 @@ Employees at the world's biggest Apple iPhone factory were beaten and detained i
  - [https://www.lemonde.fr/en/football/article/2022/11/23/world-cup-2022-france-secures-a-decisive-win-over-australia-but-doubts-persist_6005319_130.html](https://www.lemonde.fr/en/football/article/2022/11/23/world-cup-2022-france-secures-a-decisive-win-over-australia-but-doubts-persist_6005319_130.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 10:34:24+00:00
- - tags: None
 
 Despite a difficult start, 'Les Bleus' overpowered Australia 4-1 in their opener to the Qatar World Cup.
 
@@ -196,7 +172,6 @@ Despite a difficult start, 'Les Bleus' overpowered Australia 4-1 in their opener
  - [https://www.lemonde.fr/en/international/article/2022/11/23/uk-court-rules-against-scottish-independence-referendum-without-westminster-approval_6005316_4.html](https://www.lemonde.fr/en/international/article/2022/11/23/uk-court-rules-against-scottish-independence-referendum-without-westminster-approval_6005316_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 10:17:29+00:00
- - tags: None
 
 The Supreme Court ruled that Scotland does not have the power to hold a second referendum, planned for October 2023, without the UK Government's permission.
 
@@ -204,7 +179,6 @@ The Supreme Court ruled that Scotland does not have the power to hold a second r
  - [https://www.lemonde.fr/en/european-union/article/2022/11/23/eu-court-curbs-financial-transparency-for-european-companies_6005310_156.html](https://www.lemonde.fr/en/european-union/article/2022/11/23/eu-court-curbs-financial-transparency-for-european-companies_6005310_156.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 09:44:27+00:00
- - tags: None
 
 The Court of Justice of the European Union (CJEU) has struck down a provision of an anti-money laundering regulation that made beneficial ownership records of EU-registered companies freely accessible, saying that it goes against the right to privacy.
 
@@ -212,7 +186,6 @@ The Court of Justice of the European Union (CJEU) has struck down a provision of
  - [https://www.lemonde.fr/en/united-kingdom/article/2022/11/23/citizen-scientists-take-action-over-england-s-troubled-waters_6005305_135.html](https://www.lemonde.fr/en/united-kingdom/article/2022/11/23/citizen-scientists-take-action-over-england-s-troubled-waters_6005305_135.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 09:26:58+00:00
- - tags: None
 
 'The English malaise' (3/6): In this series, 'Le Monde' examines the deepening crisis that England is enduring, marked by political instability and a deteriorating social climate. Part three looks at the trouble with ageing water treatment infrastructures, a sector privatized in 1989.
 
@@ -220,7 +193,6 @@ The Court of Justice of the European Union (CJEU) has struck down a provision of
  - [https://www.lemonde.fr/en/international/article/2022/11/23/russian-strikes-kill-newborn-in-ukraine-maternity-ward-zelensky-slams-terror-and-murder_6005298_4.html](https://www.lemonde.fr/en/international/article/2022/11/23/russian-strikes-kill-newborn-in-ukraine-maternity-ward-zelensky-slams-terror-and-murder_6005298_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 09:04:56+00:00
- - tags: None
 
 The strike in the city of Vilniansk adds to the gruesome toll suffered by Ukrainian hospitals and other medical facilities – and their patients and staff – in the Russian invasion entering its tenth month this week.
 
@@ -228,7 +200,6 @@ The strike in the city of Vilniansk adds to the gruesome toll suffered by Ukrain
  - [https://www.lemonde.fr/en/international/article/2022/11/23/multiple-fatalities-in-shooting-at-walmart-in-chesapeake-virginia_6005294_4.html](https://www.lemonde.fr/en/international/article/2022/11/23/multiple-fatalities-in-shooting-at-walmart-in-chesapeake-virginia_6005294_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 07:09:40+00:00
- - tags: None
 
 Local authorities said the number of fatalities was believed to be no higher than 10, and that the shooter was found dead at the store.
 
@@ -236,7 +207,6 @@ Local authorities said the number of fatalities was believed to be no higher tha
  - [https://www.lemonde.fr/en/international/article/2022/11/23/in-spain-doctors-are-exhausted-angry-and-striking-indefinitely_6005287_4.html](https://www.lemonde.fr/en/international/article/2022/11/23/in-spain-doctors-are-exhausted-angry-and-striking-indefinitely_6005287_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 06:00:11+00:00
- - tags: None
 
 An indefinite strike movement began Monday in Madrid to demand better working conditions and wage increases
 
@@ -244,7 +214,6 @@ An indefinite strike movement began Monday in Madrid to demand better working co
  - [https://www.lemonde.fr/en/france/article/2022/11/23/rescuers-say-migrants-are-taking-more-risks-to-cross-the-english-channel-our-boats-are-not-made-for-mass-rescues_6005281_7.html](https://www.lemonde.fr/en/france/article/2022/11/23/rescuers-say-migrants-are-taking-more-risks-to-cross-the-english-channel-our-boats-are-not-made-for-mass-rescues_6005281_7.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 04:30:10+00:00
- - tags: None
 
 One year after a shipwreck in which 27 people drowned, the increase in the number of crossings and the number of people on board the boats is putting pressure on rescue services.
 
@@ -252,7 +221,6 @@ One year after a shipwreck in which 27 people drowned, the increase in the numbe
  - [https://www.lemonde.fr/en/france/article/2022/11/23/nothing-we-didn-t-notice-anything-new-with-him-in-the-small-town-of-bullecourt-the-murder-of-a-tax-officer-by-an-antique-dealer-raises-questions_6005280_7.html](https://www.lemonde.fr/en/france/article/2022/11/23/nothing-we-didn-t-notice-anything-new-with-him-in-the-small-town-of-bullecourt-the-murder-of-a-tax-officer-by-an-antique-dealer-raises-questions_6005280_7.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 04:23:57+00:00
- - tags: None
 
 The initial findings of the investigation points to "first-degree murder," declared Arras' chief prosecutor on Tuesday, November 22. Meanwhile, in Sandy T.'s town, those who knew him are trying to understand the incomprehensible.
 
@@ -260,7 +228,6 @@ The initial findings of the investigation points to "first-degree murder," decla
  - [https://www.lemonde.fr/en/france/article/2022/11/23/distrust-and-dismay-among-france-s-faithful-over-sexual-abuse-crisis-in-catholic-church_6005279_7.html](https://www.lemonde.fr/en/france/article/2022/11/23/distrust-and-dismay-among-france-s-faithful-over-sexual-abuse-crisis-in-catholic-church_6005279_7.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 04:00:15+00:00
- - tags: None
 
 After revelations of abuse committed by bishops, the Catholic community tells of a widespread discontent, a growing distrust of priests and their hope for a rebuilding of the Church.
 
@@ -268,7 +235,6 @@ After revelations of abuse committed by bishops, the Catholic community tells of
  - [https://www.lemonde.fr/en/campus/article/2022/11/23/remote-workers-with-children-rarely-leave-paris-to-settle-in-small-villages_6005277_11.html](https://www.lemonde.fr/en/campus/article/2022/11/23/remote-workers-with-children-rarely-leave-paris-to-settle-in-small-villages_6005277_11.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 03:08:34+00:00
- - tags: None
 
 WFH, escaping to the beach, moving to the countryside, and 'Airbnbisation': The results of a multidisciplinary study on the movements of the French population since the pandemic show nuanced trends, explains geographer Hélène Milet.
 
@@ -276,7 +242,6 @@ WFH, escaping to the beach, moving to the countryside, and 'Airbnbisation': The 
  - [https://www.lemonde.fr/en/international/article/2022/11/23/us-supreme-court-clears-way-for-congress-to-obtain-donald-trump-s-tax-records_6005273_4.html](https://www.lemonde.fr/en/international/article/2022/11/23/us-supreme-court-clears-way-for-congress-to-obtain-donald-trump-s-tax-records_6005273_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 01:49:48+00:00
- - tags: None
 
 Ending a long legal fight, the Supreme Court rejected on Tuesday, November 22, the former American president's request that it blocks the Internal Revenue Service from turning over the records files.
 
@@ -284,6 +249,5 @@ Ending a long legal fight, the Supreme Court rejected on Tuesday, November 22, t
  - [https://www.lemonde.fr/en/international/article/2022/11/23/bolsonaro-s-party-contests-presidential-election-results_6005268_4.html](https://www.lemonde.fr/en/international/article/2022/11/23/bolsonaro-s-party-contests-presidential-election-results_6005268_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-23 00:37:08+00:00
- - tags: None
 
 Citing a software bug, Brazilian Liberal party contested on Tuesday, November 22, the victory of Luiz Inacio Lula da Silva against the incumbent Jair Bolsonaro.

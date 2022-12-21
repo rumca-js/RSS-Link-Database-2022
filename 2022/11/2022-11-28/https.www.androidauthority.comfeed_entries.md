@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## Cyber Monday pick: Score up to $500 off Samsung home audio
  - [https://www.androidauthority.com/cyber-monday-samsung-home-audio-3242061/](https://www.androidauthority.com/cyber-monday-samsung-home-audio-3242061/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-28 23:40:13+00:00
- - tags: None
 
 The Cyber Monday sale at Samsung has some unmissable deals on a variety of soundbars and speakers.
 
@@ -12,7 +11,6 @@ The Cyber Monday sale at Samsung has some unmissable deals on a variety of sound
  - [https://www.androidauthority.com/spotify-vs-youtube-music-vs-apple-music-3232702/](https://www.androidauthority.com/spotify-vs-youtube-music-vs-apple-music-3232702/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-28 23:24:21+00:00
- - tags: None
 
 Spotify, YouTube Music, and Apple Music are three titans in the music streaming business.
 
@@ -20,7 +18,6 @@ Spotify, YouTube Music, and Apple Music are three titans in the music streaming 
  - [https://www.androidauthority.com/how-to-sync-myfitnesspal-apple-watch-3238610/](https://www.androidauthority.com/how-to-sync-myfitnesspal-apple-watch-3238610/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-28 23:15:53+00:00
- - tags: None
 
 Tie your device to one of the market's most popular health and fitness apps.
 
@@ -28,7 +25,6 @@ Tie your device to one of the market's most popular health and fitness apps.
  - [https://www.androidauthority.com/google-maps-wear-os-2-3241978/](https://www.androidauthority.com/google-maps-wear-os-2-3241978/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-28 20:31:14+00:00
- - tags: None
 
 You won't be able to find Google Maps in the Play Store on your Wear OS 2 device.
 
@@ -36,7 +32,6 @@ You won't be able to find Google Maps in the Play Store on your Wear OS 2 device
  - [https://www.androidauthority.com/best-selling-cyber-monday-deals-3241956/](https://www.androidauthority.com/best-selling-cyber-monday-deals-3241956/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-28 19:25:23+00:00
- - tags: None
 
 From TVs to headphones, these are the Best Buy deals people have jumped on during the sales.
 
@@ -44,7 +39,6 @@ From TVs to headphones, these are the Best Buy deals people have jumped on durin
  - [https://www.androidauthority.com/galaxy-s23-reveal-date-3241906/](https://www.androidauthority.com/galaxy-s23-reveal-date-3241906/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-28 16:38:02+00:00
- - tags: None
 
 The Galaxy S23 could be introduced during Samsung's Unpacked event.
 
@@ -52,7 +46,6 @@ The Galaxy S23 could be introduced during Samsung's Unpacked event.
  - [https://www.androidauthority.com/microsoft-365-family-deal-3241899/](https://www.androidauthority.com/microsoft-365-family-deal-3241899/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-28 16:15:20+00:00
- - tags: None
 
 Get a 12-month subscription to Microsoft 365 Family and a $50 Amazon gift card for less than $93 in this rare deal.
 
@@ -60,7 +53,6 @@ Get a 12-month subscription to Microsoft 365 Family and a $50 Amazon gift card f
  - [https://www.androidauthority.com/oled-tv-vs-movie-theater-3241026/](https://www.androidauthority.com/oled-tv-vs-movie-theater-3241026/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-28 15:47:01+00:00
- - tags: None
 
 It's an unfair fight through and through, but not for obvious reasons.
 
@@ -68,7 +60,6 @@ It's an unfair fight through and through, but not for obvious reasons.
  - [https://www.androidauthority.com/sony-wh-1000xm5-favorite-features-3241805/](https://www.androidauthority.com/sony-wh-1000xm5-favorite-features-3241805/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-28 15:25:10+00:00
- - tags: None
 
 Recounting the best and worst things about Sony's flagship ANC headset.
 
@@ -76,7 +67,6 @@ Recounting the best and worst things about Sony's flagship ANC headset.
  - [https://www.androidauthority.com/smartphone-tripod-poll-results-3241870/](https://www.androidauthority.com/smartphone-tripod-poll-results-3241870/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-28 12:35:38+00:00
- - tags: None
 
 The results are almost split down the middle in this poll.
 
@@ -84,7 +74,6 @@ The results are almost split down the middle in this poll.
  - [https://www.androidauthority.com/daily-authority-november-28-2022-3241807/](https://www.androidauthority.com/daily-authority-november-28-2022-3241807/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-28 08:03:32+00:00
- - tags: None
 
 Can a traditional cyclist grow to love e-bikes? Here's the biggest test for the technology yet.
 
@@ -92,7 +81,6 @@ Can a traditional cyclist grow to love e-bikes? Here's the biggest test for the 
  - [https://www.androidauthority.com/delivery-tracking-habit-poll-3241814/](https://www.androidauthority.com/delivery-tracking-habit-poll-3241814/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-28 06:18:58+00:00
- - tags: None
 
 Do you obsessively check the delivery tracker? Let us know via our featured poll.
 
@@ -100,7 +88,6 @@ Do you obsessively check the delivery tracker? Let us know via our featured poll
  - [https://www.androidauthority.com/xiaomi-13-series-launch-3241809/](https://www.androidauthority.com/xiaomi-13-series-launch-3241809/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-28 05:50:55+00:00
- - tags: None
 
 No mention of a Xiaomi 13X model, though.
 
@@ -108,7 +95,6 @@ No mention of a Xiaomi 13X model, though.
  - [https://www.androidauthority.com/watch-apple-tv-plus-roku-3140348/](https://www.androidauthority.com/watch-apple-tv-plus-roku-3140348/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-28 05:00:21+00:00
- - tags: None
 
 It's pretty easy to start streaming Apple TV Plus if you've got an Apple ID and any recent Roku.
 
@@ -116,6 +102,5 @@ It's pretty easy to start streaming Apple TV Plus if you've got an Apple ID and 
  - [https://www.androidauthority.com/hey-siri-not-working-how-to-fix-it-3154945/](https://www.androidauthority.com/hey-siri-not-working-how-to-fix-it-3154945/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-28 05:00:12+00:00
- - tags: None
 
 By going methodically, you can probably diagnose any problems with triggering Siri.

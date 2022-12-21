@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## This leading VPN is under $60 with this Black Friday weekend doorbuster deal
  - [https://www.pcworld.com/article/1395059/this-leading-vpn-is-under-60-with-this-black-friday-weekend-doorbuster-deal.html](https://www.pcworld.com/article/1395059/this-leading-vpn-is-under-60-with-this-black-friday-weekend-doorbuster-deal.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-26 10:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>You know you should be using a VPN, but the market is so saturated that it&rsquo;s hard to know what is most worth your time. Sometimes, it just comes down to money.&nbsp;Fortunately, one of our notable VPNs is available for a Black Friday Weekend doorbuster price &mdash; but only for two days.</p>

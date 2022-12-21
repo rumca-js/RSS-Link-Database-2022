@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## A Brief Introduction to BERT
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59398](https://www.codeproject.com/script/News/View.aspx?nwid=59398)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-04 04:00:00+00:00
- - tags: None
 
 Given the time it takes to train a Transformer model is enormous, we would like to have a solution that enables us to readily reuse the trained Transformer for many different tasks. BERT is such a model. It is an extension of the encoder part of a Transformer.
 
@@ -12,7 +11,6 @@ Given the time it takes to train a Transformer model is enormous, we would like 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59400](https://www.codeproject.com/script/News/View.aspx?nwid=59400)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-04 04:00:00+00:00
- - tags: None
 
 Boosting is a type of ensemble machine-learning technique that combines a set of weak learners into a stronger learner to minimize training error and loss.
 
@@ -20,7 +18,6 @@ Boosting is a type of ensemble machine-learning technique that combines a set of
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59395](https://www.codeproject.com/script/News/View.aspx?nwid=59395)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-04 04:00:00+00:00
- - tags: None
 
 Computer vision uses image processing to compare an image with a database of pre-existing images, and then uses that information to conclude what’s in the image.
 
@@ -28,7 +25,6 @@ Computer vision uses image processing to compare an image with a database of pre
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59405](https://www.codeproject.com/script/News/View.aspx?nwid=59405)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-04 04:00:00+00:00
- - tags: None
 
 "I'm gonna make him an offer he can't refuse"
 
@@ -36,7 +32,6 @@ Computer vision uses image processing to compare an image with a database of pre
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59402](https://www.codeproject.com/script/News/View.aspx?nwid=59402)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-04 04:00:00+00:00
- - tags: None
 
 Good news for those who have finished all the PC games
 
@@ -44,7 +39,6 @@ Good news for those who have finished all the PC games
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59404](https://www.codeproject.com/script/News/View.aspx?nwid=59404)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-04 04:00:00+00:00
- - tags: None
 
 When in doubt, create a new language
 
@@ -52,7 +46,6 @@ When in doubt, create a new language
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59408](https://www.codeproject.com/script/News/View.aspx?nwid=59408)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-04 04:00:00+00:00
- - tags: None
 
 Oh, good. I've been trying to get rid of that 'kernel32.dll' file for ages
 
@@ -60,7 +53,6 @@ Oh, good. I've been trying to get rid of that 'kernel32.dll' file for ages
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59406](https://www.codeproject.com/script/News/View.aspx?nwid=59406)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-04 04:00:00+00:00
- - tags: None
 
 "Where is the real? All appearance are deceitful, the visible surface is deceptive"
 
@@ -68,7 +60,6 @@ Oh, good. I've been trying to get rid of that 'kernel32.dll' file for ages
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59403](https://www.codeproject.com/script/News/View.aspx?nwid=59403)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-04 04:00:00+00:00
- - tags: None
 
 Seems like a lot of money for a hex code
 
@@ -76,7 +67,6 @@ Seems like a lot of money for a hex code
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59399](https://www.codeproject.com/script/News/View.aspx?nwid=59399)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-04 04:00:00+00:00
- - tags: None
 
 We deprecated CUDA 10.2 and 11.3 and completed migration of CUDA 11.6 and 11.7. Beta includes improved support for Apple M1 chips and functorch, a library that offers composable vmap (vectorization) and autodiff transforms, being included in-tree with the PyTorch release.
 
@@ -84,7 +74,6 @@ We deprecated CUDA 10.2 and 11.3 and completed migration of CUDA 11.6 and 11.7. 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59396](https://www.codeproject.com/script/News/View.aspx?nwid=59396)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-04 04:00:00+00:00
- - tags: None
 
 Machine learning with deep neural techniques has advanced quickly, so Dr. James McCaffrey of Microsoft Research updates regression techniques and best practices guidance based on experience over the past two years.
 
@@ -92,7 +81,6 @@ Machine learning with deep neural techniques has advanced quickly, so Dr. James 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59409](https://www.codeproject.com/script/News/View.aspx?nwid=59409)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-04 04:00:00+00:00
- - tags: None
 
 Sadly, not a Ring World
 
@@ -100,7 +88,6 @@ Sadly, not a Ring World
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59401](https://www.codeproject.com/script/News/View.aspx?nwid=59401)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-04 04:00:00+00:00
- - tags: None
 
 Amazon SageMaker JumpStart provides pre-trained, open-source models for a wide range of problem types to help you get started with machine learning (ML).
 
@@ -108,7 +95,6 @@ Amazon SageMaker JumpStart provides pre-trained, open-source models for a wide r
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59410](https://www.codeproject.com/script/News/View.aspx?nwid=59410)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-04 04:00:00+00:00
- - tags: None
 
 So we can have VMs all the way down
 
@@ -116,7 +102,6 @@ So we can have VMs all the way down
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59407](https://www.codeproject.com/script/News/View.aspx?nwid=59407)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-04 04:00:00+00:00
- - tags: None
 
 That's because it never sleeps
 
@@ -124,7 +109,6 @@ That's because it never sleeps
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59397](https://www.codeproject.com/script/News/View.aspx?nwid=59397)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-04 04:00:00+00:00
- - tags: None
 
 WebAssembly (WASM) and WebAssembly System Interface (WASI) are opening new opportunities for developers.
 
@@ -132,6 +116,5 @@ WebAssembly (WASM) and WebAssembly System Interface (WASI) are opening new oppor
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59411](https://www.codeproject.com/script/News/View.aspx?nwid=59411)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-04 04:00:00+00:00
- - tags: None
 
 The update was to their bottom line

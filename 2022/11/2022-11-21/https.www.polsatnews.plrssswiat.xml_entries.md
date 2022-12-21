@@ -1,10 +1,9 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml
+# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
 
 ## Włoskie miasteczko Presicce poszukuje mieszkańców. Za przeprowadzkę oferują ponad 140 tys.
  - [https://www.polsatnews.pl/wiadomosc/2022-11-21/wloskie-miasteczko-presicce-poszukuje-mieszkancow-za-przeprowadzke-oferuja-ponad-140-tys/](https://www.polsatnews.pl/wiadomosc/2022-11-21/wloskie-miasteczko-presicce-poszukuje-mieszkancow-za-przeprowadzke-oferuja-ponad-140-tys/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-21 20:42:00+00:00
- - tags: None
 
 Władze jednego z miasteczek we Włoszech oferują 30 tys. euro (ponad 140 tys. zł) dla osób, które zdecydują się do niego przeprowadzić. Zachęta finansowa ma spowodować, że do miasta Presicce zostanie tchnięte nowe życie. - W historycznym centrum jest wiele pustych domów zbudowanych przed 1991 rokiem, w których chcielibyśmy zobaczyć nowych mieszkańców - przekazał przedstawiciel lokalnych władz.
 
@@ -12,7 +11,6 @@ Władze jednego z miasteczek we Włoszech oferują 30 tys. euro (ponad 140 tys. 
  - [https://www.polsatnews.pl/wiadomosc/2022-11-21/rekord-na-instagramie-pobity-cristiano-ronaldo-ma-500-mln-obserwatorow/](https://www.polsatnews.pl/wiadomosc/2022-11-21/rekord-na-instagramie-pobity-cristiano-ronaldo-ma-500-mln-obserwatorow/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-21 19:59:00+00:00
- - tags: None
 
 Cristiano Ronaldo jest obecnie jedyną osobą na świecie, która zdobyła 500 milionów obserwujących w serwisie Instagram. Na liście najczęściej obserwowanych osób znalazł się jeszcze jeden piłkarz, który tak jak kapitan reprezentacji Portugalii, obecnie bierze udział w Mistrzostwach Świata w Katarze.
 
@@ -20,7 +18,6 @@ Cristiano Ronaldo jest obecnie jedyną osobą na świecie, która zdobyła 500 m
  - [https://www.polsatnews.pl/wiadomosc/2022-11-21/usa-joe-biden-ulaskawil-indyki-przed-swietem-dziekczynienia-nawiazal-do-wyborow/](https://www.polsatnews.pl/wiadomosc/2022-11-21/usa-joe-biden-ulaskawil-indyki-przed-swietem-dziekczynienia-nawiazal-do-wyborow/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-21 18:07:00+00:00
- - tags: None
 
 Chocolate i Chip - tak nazywają się dwa indyki, które ułaskawił prezydent USA Joe Biden. Darowanie życia indykom to tradycja związana z obchodzonym w Stanach Zjednoczonych w czwartek Świętem Dziękczynienia. Zwierzęta trafią na Uniwersytet w Karolinie Północnej. Prezydent nawiązał też do wyborów i zapowiadanych zwycięstw Republikanów, nazywanych czerwoną falą, które nie doszły do skutku.
 
@@ -28,7 +25,6 @@ Chocolate i Chip - tak nazywają się dwa indyki, które ułaskawił prezydent U
  - [https://www.polsatnews.pl/wiadomosc/2022-11-21/janusz-walus-warunkowo-zwolniony-sad-w-rpa-wydal-wyrok/](https://www.polsatnews.pl/wiadomosc/2022-11-21/janusz-walus-warunkowo-zwolniony-sad-w-rpa-wydal-wyrok/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-21 17:36:00+00:00
- - tags: None
 
 Janusz Waluś musi zostać zwolniony z więzienia - taką decyzję podjął sąd w Republice Południowej Afryki. W 1993 roku Polak został skazany za zabójstwo działacza komunistycznego Chrisa Haniego.
 
@@ -36,7 +32,6 @@ Janusz Waluś musi zostać zwolniony z więzienia - taką decyzję podjął sąd
  - [https://www.polsatnews.pl/wiadomosc/2022-11-21/rosja-dmitrij-pieskow-celem-specjalnej-operacji-nie-jest-zmiana-wladzy-w-ukrainie/](https://www.polsatnews.pl/wiadomosc/2022-11-21/rosja-dmitrij-pieskow-celem-specjalnej-operacji-nie-jest-zmiana-wladzy-w-ukrainie/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-21 15:46:00+00:00
- - tags: None
 
 Zmiana obecnej władzy w Ukrainie nie jest celem specjalnej operacji wojskowej, którą przeprowadza Rosja, o czym już wcześniej informował Władimir Putin - przekazał w poniedziałek rzecznik prezydenta Rosji Dmitrij Pieskow. Jak dodał, Rosja ma swoje cele i je osiągnie.
 
@@ -44,7 +39,6 @@ Zmiana obecnej władzy w Ukrainie nie jest celem specjalnej operacji wojskowej, 
  - [https://www.polsatnews.pl/wiadomosc/2022-11-21/katar-dziennikarka-okradziona-podczas-relacji-na-zywo-zaskoczylo-ja-pytanie-policji/](https://www.polsatnews.pl/wiadomosc/2022-11-21/katar-dziennikarka-okradziona-podczas-relacji-na-zywo-zaskoczylo-ja-pytanie-policji/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-21 15:42:00+00:00
- - tags: None
 
 Jaką karę mamy wymierzyć złodziejom, którzy ukradli twój portfel, gdy ich znajdziemy? - takie pytanie usłyszała argentyńska dziennikarka, która została okradziona podczas relacji z mistrzostw świata w Katarze. Kobieta straciła pieniądze i dokumenty, najbardziej jednak zaskoczyła ją relacja policji.
 
@@ -52,7 +46,6 @@ Jaką karę mamy wymierzyć złodziejom, którzy ukradli twój portfel, gdy ich 
  - [https://www.polsatnews.pl/wiadomosc/2022-11-21/wykrywaczem-metali-znalazl-sredniowieczna-obraczke-jest-warta-47-tys-dolarow/](https://www.polsatnews.pl/wiadomosc/2022-11-21/wykrywaczem-metali-znalazl-sredniowieczna-obraczke-jest-warta-47-tys-dolarow/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-21 14:49:00+00:00
- - tags: None
 
 To coś niesamowitego - tak swoje znalezisko podsumował jeden z pasjonatów spacerujących z wykrywaczem metali. 69-latek w Anglii znalazł... obrączkę wartą 47 tysięcy dolarów. Pochodzi ona z okresu średniowiecza. Zachowała się w idealnym stanie.
 
@@ -60,7 +53,6 @@ To coś niesamowitego - tak swoje znalezisko podsumował jeden z pasjonatów spa
  - [https://www.polsatnews.pl/wiadomosc/2022-11-21/bialorus-alaksandr-lukaszenka-o-eksplozji-w-przewodowie-takie-wypadki-sie-nie-zdarzaja/](https://www.polsatnews.pl/wiadomosc/2022-11-21/bialorus-alaksandr-lukaszenka-o-eksplozji-w-przewodowie-takie-wypadki-sie-nie-zdarzaja/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-21 14:35:00+00:00
- - tags: None
 
 Alaksandr Łukaszenka uważa, że rakieta, która spadła na terytorium Polski, była ukraińska i jak dodał, takie wypadki się nie zdarzają - informują w poniedziałek prokremlowskie media. Białoruski dyktator odniósł się do eksplozji w Przewodowie, podczas której zginęło dwóch obywateli Polski.
 
@@ -68,7 +60,6 @@ Alaksandr Łukaszenka uważa, że rakieta, która spadła na terytorium Polski, 
  - [https://www.polsatnews.pl/wiadomosc/2022-11-21/usa-zawodowy-bokser-sfingowal-swoja-smierc-to-czesc-policyjnego-sledztwa-przeciwko-jego-zonie/](https://www.polsatnews.pl/wiadomosc/2022-11-21/usa-zawodowy-bokser-sfingowal-swoja-smierc-to-czesc-policyjnego-sledztwa-przeciwko-jego-zonie/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-21 13:59:00+00:00
- - tags: None
 
 Były zawodowy bokser Ramon Sosa sfingował swoją śmierć. Była to część policyjnego śledztwa, które miało doprowadzić do oskarżenia jego żony. Ta planowała zabójstwo pochodzącego z Portoryko Sosy i wynajęła w tym celu płatnego mordercę. Teraz poszkodowany swoją historię opowiedział w telewizyjnym dokumencie.
 
@@ -76,7 +67,6 @@ Były zawodowy bokser Ramon Sosa sfingował swoją śmierć. Była to część p
  - [https://www.polsatnews.pl/wiadomosc/2022-11-21/bialorus-lukaszenka-zegna-mcdonalda-zastapi-go-rosyjska-siec/](https://www.polsatnews.pl/wiadomosc/2022-11-21/bialorus-lukaszenka-zegna-mcdonalda-zastapi-go-rosyjska-siec/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-21 13:30:00+00:00
- - tags: None
 
 Od wtorku McDonalds w Białorusi zostanie zastąpiony przez rosyjska sieć Wkusno i Toczka. To efekt zachodnich sankcji na ten kraj. - I chwała Bogu, kto to w ogóle je? - skomentował prezydent Alaksandr Łukaszenka. - Potrafimy sami przekroić bułkę na pół i włożyć tam kawałek mięsa - dodał.
 
@@ -84,7 +74,6 @@ Od wtorku McDonalds w Białorusi zostanie zastąpiony przez rosyjska sieć Wkusn
  - [https://www.polsatnews.pl/wiadomosc/2022-11-21/wielka-brytania-masowa-bojka-z-udzialem-40-gosci-podczas-wesela-osmiu-krewnych-trafilo-do-wiezienia/](https://www.polsatnews.pl/wiadomosc/2022-11-21/wielka-brytania-masowa-bojka-z-udzialem-40-gosci-podczas-wesela-osmiu-krewnych-trafilo-do-wiezienia/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-21 12:27:00+00:00
- - tags: None
 
 Ośmiu członków tej samej rodziny trafiło do więzienia po krwawej jatce, do której doszło na przyjęciu weselnym z udziałem 60 gości w brytyjskim Runcorn. W masowej bójce łącznie udział miało brać około 40 osób. W ruch poszły krzesła, stoły, szklanki, a nawet gaśnice. Wszyscy aresztowani mają to samo nazwisko - Stokes.
 
@@ -92,7 +81,6 @@ Ośmiu członków tej samej rodziny trafiło do więzienia po krwawej jatce, do 
  - [https://www.polsatnews.pl/wiadomosc/2022-11-21/indonezja-trzesienie-ziemi-na-jawie-ponad-44-ofiary/](https://www.polsatnews.pl/wiadomosc/2022-11-21/indonezja-trzesienie-ziemi-na-jawie-ponad-44-ofiary/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-21 11:11:00+00:00
- - tags: None
 
 Co najmniej 44 osoby zginęły w poniedziałkowym trzęsieniu ziemi na Jawie, głównej wyspie Indonezji. Osiągnęło ono magnitudę 5,6. Co najmniej 300 mieszkańców zostało rannych - podał Reuters.
 
@@ -100,7 +88,6 @@ Co najmniej 44 osoby zginęły w poniedziałkowym trzęsieniu ziemi na Jawie, g�
  - [https://www.polsatnews.pl/wiadomosc/2022-11-21/rosja-fso-cwiczy-na-wypadek-zamachu-stanu-ochrona-putina-obawia-sie-hipnozy-i-psychologii/](https://www.polsatnews.pl/wiadomosc/2022-11-21/rosja-fso-cwiczy-na-wypadek-zamachu-stanu-ochrona-putina-obawia-sie-hipnozy-i-psychologii/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-21 10:08:00+00:00
- - tags: None
 
 Rosyjska Federalna Służba Ochrony (FSO), odpowiadająca m.in. za ochronę Władimira Putina, przygotowuje się do ewentualnego zamachu stanu i przejścia w tryb wojenny. Oprócz ćwiczeń taktycznych, personel szkolony jest na wypadek masowego ataku ideologicznego - wynika z dokumentu przedstawionego przez rosyjski niezależny portal śledczy. Chodzi np. o hipnozę czy operacje psychologiczne.
 
@@ -108,7 +95,6 @@ Rosyjska Federalna Służba Ochrony (FSO), odpowiadająca m.in. za ochronę Wła
  - [https://www.polsatnews.pl/wiadomosc/2022-11-21/usa-najstarsze-dzieci-z-in-vitro-zarodki-rozmrozono-po-30-latach/](https://www.polsatnews.pl/wiadomosc/2022-11-21/usa-najstarsze-dzieci-z-in-vitro-zarodki-rozmrozono-po-30-latach/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-21 09:06:00+00:00
- - tags: None
 
 30 lat czekały na rozmrożenie zarodki, z których dzieci - dzięki metodzie in vitro - urodziły się 31 października w USA. Małżeństwo Ridgewayów podkreśla, że to cud. Tym samym ich bliźniaki pobiły rekord.
 
@@ -116,7 +102,6 @@ Rosyjska Federalna Służba Ochrony (FSO), odpowiadająca m.in. za ochronę Wła
  - [https://www.polsatnews.pl/wiadomosc/2022-11-21/japonia-97-letni-kierowca-smiertelnie-potracil-kobiete-wjechal-w-samochod-ktorym-jechala-stulatka/](https://www.polsatnews.pl/wiadomosc/2022-11-21/japonia-97-letni-kierowca-smiertelnie-potracil-kobiete-wjechal-w-samochod-ktorym-jechala-stulatka/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-21 07:54:00+00:00
- - tags: None
 
 97-letni mężczyzna śmiertelnie potrącił kobietę idącą chodnikiem w japońskiej Fukushimie. Wjechał także w trzy samochody, raniąc przy tym cztery kobiety. Jedną z nich była stulatka.
 
@@ -124,7 +109,6 @@ Rosyjska Federalna Służba Ochrony (FSO), odpowiadająca m.in. za ochronę Wła
  - [https://www.polsatnews.pl/wiadomosc/2022-11-21/szef-nato-jens-stoltenberg-uderzenie-rakietowe-w-polske-bylo-prawdopodobnie-wypadkiem/](https://www.polsatnews.pl/wiadomosc/2022-11-21/szef-nato-jens-stoltenberg-uderzenie-rakietowe-w-polske-bylo-prawdopodobnie-wypadkiem/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-21 07:04:00+00:00
- - tags: None
 
 Sekretarz generalny NATO Jens Stoltenberg określił wydarzenie, do którego doszło w Przewodowie jako wypadek, a nie atak Rosji na NATO. Zastrzegł jednak, że z ostateczną oceną należy się wstrzymać aż poznamy wyniki toczącego się śledztwa.
 
@@ -132,6 +116,5 @@ Sekretarz generalny NATO Jens Stoltenberg określił wydarzenie, do którego dos
  - [https://www.polsatnews.pl/wiadomosc/2022-11-21/rosja-pozar-w-centrum-moskwy-szesc-ofiar-smiertelnych/](https://www.polsatnews.pl/wiadomosc/2022-11-21/rosja-pozar-w-centrum-moskwy-szesc-ofiar-smiertelnych/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-21 05:22:00+00:00
- - tags: None
 
 Nie żyje co najmniej sześć osób po tym, jak wybuchł pożar w dwupiętrowym budynku w centrum Moskwy.

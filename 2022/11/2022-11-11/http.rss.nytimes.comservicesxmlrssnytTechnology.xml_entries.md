@@ -1,10 +1,9 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
 
 ## Twitter Users Create Havoc by Impersonating Brands
  - [https://www.nytimes.com/2022/11/11/technology/twitter-blue-impersonation-brands.html](https://www.nytimes.com/2022/11/11/technology/twitter-blue-impersonation-brands.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-11 21:57:52+00:00
- - tags: None
 
 The social media service, which is undergoing changes from its new owner Elon Musk, has descended into a messy swirl of spoof messages and parody accounts.
 
@@ -12,7 +11,6 @@ The social media service, which is undergoing changes from its new owner Elon Mu
  - [https://www.nytimes.com/2022/11/11/technology/twitter-blue-fake-accounts.html](https://www.nytimes.com/2022/11/11/technology/twitter-blue-fake-accounts.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-11 21:57:52+00:00
- - tags: None
 
 The social media service, which is undergoing changes from its new owner Elon Musk, has descended into a messy swirl of spoof messages and parody accounts.
 
@@ -20,7 +18,6 @@ The social media service, which is undergoing changes from its new owner Elon Mu
  - [https://www.nytimes.com/2022/11/11/technology/ftx-investors-venture-capital.html](https://www.nytimes.com/2022/11/11/technology/ftx-investors-venture-capital.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-11 19:45:05+00:00
- - tags: None
 
 Venture capital firms and investment funds showered the failed crypto exchange and its founder with money. There were few strings attached.
 
@@ -28,7 +25,6 @@ Venture capital firms and investment funds showered the failed crypto exchange a
  - [https://www.nytimes.com/2022/11/11/business/ftx-bankruptcy.html](https://www.nytimes.com/2022/11/11/business/ftx-bankruptcy.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-11 15:06:26+00:00
- - tags: None
 
 The announcement capped a stunning week that has sent shock waves through the crypto industry.
 
@@ -36,7 +32,6 @@ The announcement capped a stunning week that has sent shock waves through the cr
  - [https://www.nytimes.com/2022/11/11/technology/elon-musk-twitter-takeover.html](https://www.nytimes.com/2022/11/11/technology/elon-musk-twitter-takeover.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-11 10:00:27+00:00
- - tags: None
 
 Mr. Musk ordered immediate layoffs, fired executives by email, laid down product deadlines and has transformed the company.
 
@@ -44,6 +39,5 @@ Mr. Musk ordered immediate layoffs, fired executives by email, laid down product
  - [https://www.nytimes.com/2022/11/11/podcasts/elon-musk-twitter-ftx-meta.html](https://www.nytimes.com/2022/11/11/podcasts/elon-musk-twitter-ftx-meta.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-11 10:00:11+00:00
- - tags: None
 
 Plus: Is the latest round of tech layoffs a sign of impending doom, or a much-needed structural correction?

@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## Computer chip made using mushroom skin could be easily recycled
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59486](https://www.codeproject.com/script/News/View.aspx?nwid=59486)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-14 05:00:00+00:00
- - tags: None
 
 No, you can't just grow a new computer off that old pizza crust on your desk
 
@@ -12,7 +11,6 @@ No, you can't just grow a new computer off that old pizza crust on your desk
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59492](https://www.codeproject.com/script/News/View.aspx?nwid=59492)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-14 05:00:00+00:00
- - tags: None
 
 *May* have been? Even Chris doesn't do $600MM withdraws these days
 
@@ -20,7 +18,6 @@ No, you can't just grow a new computer off that old pizza crust on your desk
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59485](https://www.codeproject.com/script/News/View.aspx?nwid=59485)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-14 05:00:00+00:00
- - tags: None
 
 For all your coding...IN SPACE!
 
@@ -28,7 +25,6 @@ For all your coding...IN SPACE!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59493](https://www.codeproject.com/script/News/View.aspx?nwid=59493)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-14 05:00:00+00:00
- - tags: None
 
 Time to get your 'oonce oonce' going
 
@@ -36,7 +32,6 @@ Time to get your 'oonce oonce' going
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59484](https://www.codeproject.com/script/News/View.aspx?nwid=59484)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-14 05:00:00+00:00
- - tags: None
 
 Don't forget!
 
@@ -44,7 +39,6 @@ Don't forget!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59482](https://www.codeproject.com/script/News/View.aspx?nwid=59482)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-14 05:00:00+00:00
- - tags: None
 
 Replace all dialogs with long form fields for the user to describe what they want
 
@@ -52,7 +46,6 @@ Replace all dialogs with long form fields for the user to describe what they wan
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59488](https://www.codeproject.com/script/News/View.aspx?nwid=59488)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-14 05:00:00+00:00
- - tags: None
 
 In case you don't have a developer with an opinion handy
 
@@ -60,7 +53,6 @@ In case you don't have a developer with an opinion handy
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59490](https://www.codeproject.com/script/News/View.aspx?nwid=59490)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-14 05:00:00+00:00
- - tags: None
 
 Yes, *this* is why my credit score is so low
 
@@ -68,7 +60,6 @@ Yes, *this* is why my credit score is so low
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59487](https://www.codeproject.com/script/News/View.aspx?nwid=59487)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-14 05:00:00+00:00
- - tags: None
 
 Now you can find that needle
 
@@ -76,7 +67,6 @@ Now you can find that needle
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59483](https://www.codeproject.com/script/News/View.aspx?nwid=59483)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-14 05:00:00+00:00
- - tags: None
 
 
 
@@ -84,7 +74,6 @@ Now you can find that needle
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59491](https://www.codeproject.com/script/News/View.aspx?nwid=59491)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-14 05:00:00+00:00
- - tags: None
 
 "All in all, it's just another brick in the wall"
 
@@ -92,6 +81,5 @@ Now you can find that needle
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59489](https://www.codeproject.com/script/News/View.aspx?nwid=59489)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-14 05:00:00+00:00
- - tags: None
 
 Because nothing fixes things like governments

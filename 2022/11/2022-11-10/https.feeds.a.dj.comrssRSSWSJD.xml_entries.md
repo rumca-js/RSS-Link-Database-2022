@@ -1,10 +1,9 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml
+# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
 
 ## Oracle Hires Chief Legal Officer From Facebook's Blockchain Project
  - [https://www.wsj.com/articles/oracle-hires-chief-legal-officer-from-facebooks-blockchain-project-11668120811?mod=rss_Technology](https://www.wsj.com/articles/oracle-hires-chief-legal-officer-from-facebooks-blockchain-project-11668120811?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-10 22:53:00+00:00
- - tags: None
 
 Stuart Levey most recently served as the CEO of Meta Platform’s cryptocurrency project, which sold its assets earlier this year.
 
@@ -12,7 +11,6 @@ Stuart Levey most recently served as the CEO of Meta Platform’s cryptocurrency
  - [https://www.wsj.com/articles/silicon-valley-poured-money-into-ftx-with-few-strings-attached-11668103682?mod=rss_Technology](https://www.wsj.com/articles/silicon-valley-poured-money-into-ftx-with-few-strings-attached-11668103682?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-10 22:17:00+00:00
- - tags: None
 
 Investors from Silicon Valley and Wall Street promoted the crypto exchange as a safe bet and invested nearly $2 billion with no oversight on its board.
 
@@ -20,7 +18,6 @@ Investors from Silicon Valley and Wall Street promoted the crypto exchange as a 
  - [https://www.wsj.com/articles/its-the-new-saying-among-tech-ceos-i-apologize-11668109641?mod=rss_Technology](https://www.wsj.com/articles/its-the-new-saying-among-tech-ceos-i-apologize-11668109641?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-10 20:06:00+00:00
- - tags: None
 
 Facebook, Twitter and other firms are slashing jobs, and their leaders’ mea culpas are abundant.
 
@@ -28,7 +25,6 @@ Facebook, Twitter and other firms are slashing jobs, and their leaders’ mea cu
  - [https://www.wsj.com/articles/elon-musk-tells-twitter-employees-remote-work-is-over-11668096828?mod=rss_Technology](https://www.wsj.com/articles/elon-musk-tells-twitter-employees-remote-work-is-over-11668096828?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-10 16:13:00+00:00
- - tags: None
 
 The billionaire owner says the economic picture is dire; ‘The road ahead is arduous and will require intense work to succeed’
 
@@ -36,7 +32,6 @@ The billionaire owner says the economic picture is dire; ‘The road ahead is ar
  - [https://www.wsj.com/articles/solar-panels-farmers-crops-11668018216?mod=rss_Technology](https://www.wsj.com/articles/solar-panels-farmers-crops-11668018216?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-10 16:00:00+00:00
- - tags: None
 
 By using elevated panels, researchers hope they can generate electricity without reducing yields on the crops growing underneath.
 
@@ -44,7 +39,6 @@ By using elevated panels, researchers hope they can generate electricity without
  - [https://www.wsj.com/articles/amazon-has-launched-a-cost-cutting-review-focused-on-unprofitable-business-units-11668094823?mod=rss_Technology](https://www.wsj.com/articles/amazon-has-launched-a-cost-cutting-review-focused-on-unprofitable-business-units-11668094823?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-10 15:40:00+00:00
- - tags: None
 
 CEO Andy Jassy is leading the review including the devices unit, which includes Alexa and has had an annual operating loss of $5 billion in some recent years, documents show.
 
@@ -52,7 +46,6 @@ CEO Andy Jassy is leading the review including the devices unit, which includes 
  - [https://www.wsj.com/articles/ftx-tapped-into-customer-accounts-to-fund-risky-bets-setting-up-its-downfall-11668093732?mod=rss_Technology](https://www.wsj.com/articles/ftx-tapped-into-customer-accounts-to-fund-risky-bets-setting-up-its-downfall-11668093732?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-10 15:22:00+00:00
- - tags: None
 
 Crypto exchange FTX lent billions of dollars worth of customer assets to fund bets by its affiliated trading firm, Alameda Research, setting the stage for the exchange’s implosion, a person familiar with the matter said.
 
@@ -60,7 +53,6 @@ Crypto exchange FTX lent billions of dollars worth of customer assets to fund be
  - [https://www.wsj.com/articles/how-many-people-are-watching-thursday-night-football-that-is-up-for-debate-11668090672?mod=rss_Technology](https://www.wsj.com/articles/how-many-people-are-watching-thursday-night-football-that-is-up-for-debate-11668090672?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-10 14:31:00+00:00
- - tags: None
 
 Analyzing ratings for Amazon Prime Video’s ‘Thursday Night Football’ has become as complicated as some National Football League rules.
 
@@ -68,7 +60,6 @@ Analyzing ratings for Amazon Prime Video’s ‘Thursday Night Football’ has b
  - [https://www.wsj.com/articles/twitch-ceo-emmett-shear-phone-download-11667941249?mod=rss_Technology](https://www.wsj.com/articles/twitch-ceo-emmett-shear-phone-download-11667941249?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-10 13:30:00+00:00
- - tags: None
 
 The 39-year-old head of the gaming and entertainment live-streaming service shares what’s on his phone.
 
@@ -76,7 +67,6 @@ The 39-year-old head of the gaming and entertainment live-streaming service shar
  - [https://www.wsj.com/articles/apple-supply-crunch-on-premium-iphone-threatens-to-derail-record-sales-run-11668084646?mod=rss_Technology](https://www.wsj.com/articles/apple-supply-crunch-on-premium-iphone-threatens-to-derail-record-sales-run-11668084646?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-10 12:58:00+00:00
- - tags: None
 
 Apple’s warning this week about iPhone supply limitations threatens one of biggest drivers of the company’s record-breaking sales in recent years: persuading customers to buy its priciest smartphones.
 
@@ -84,7 +74,6 @@ Apple’s warning this week about iPhone supply limitations threatens one of big
  - [https://www.wsj.com/articles/layoffs-arent-a-good-look-for-big-techs-growth-story-11668045118?mod=rss_Technology](https://www.wsj.com/articles/layoffs-arent-a-good-look-for-big-techs-growth-story-11668045118?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-10 12:00:00+00:00
- - tags: None
 
 Meta Platforms, Twitter and other tech companies have shown they are economically sensitive, puncturing the myth of “permanent acceleration.”
 
@@ -92,7 +81,6 @@ Meta Platforms, Twitter and other tech companies have shown they are economicall
  - [https://www.wsj.com/articles/foxconn-says-aims-to-swiftly-recover-iphone-production-levels-at-covid-hit-site-11668078675?mod=rss_Technology](https://www.wsj.com/articles/foxconn-says-aims-to-swiftly-recover-iphone-production-levels-at-covid-hit-site-11668078675?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-10 11:11:00+00:00
- - tags: None
 
 Foxconn is still operating its main iPhone plant in Zhengzhou under a closed-loop system.
 
@@ -100,7 +88,6 @@ Foxconn is still operating its main iPhone plant in Zhengzhou under a closed-loo
  - [https://www.wsj.com/articles/twitters-moderation-boss-is-an-unlikely-ally-of-elon-musk-11668056718?mod=rss_Technology](https://www.wsj.com/articles/twitters-moderation-boss-is-an-unlikely-ally-of-elon-musk-11668056718?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-10 10:30:00+00:00
- - tags: None
 
 Yoel Roth, who has been accused of being anticonservative, polices the site’s content.
 
@@ -108,7 +95,6 @@ Yoel Roth, who has been accused of being anticonservative, polices the site’s 
  - [https://www.wsj.com/articles/paul-allens-art-collection-sets-record-with-1-5-billion-sale-11668048273?mod=rss_Technology](https://www.wsj.com/articles/paul-allens-art-collection-sets-record-with-1-5-billion-sale-11668048273?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-10 03:31:00+00:00
- - tags: None
 
 The auction at Christie’s offered a trove of trophies from artists like Cézanne, Seurat and Botticelli.
 
@@ -116,6 +102,5 @@ The auction at Christie’s offered a trove of trophies from artists like Cézan
  - [https://www.wsj.com/articles/rivians-losses-mount-as-it-continues-to-burn-through-cash-11668033125?mod=rss_Technology](https://www.wsj.com/articles/rivians-losses-mount-as-it-continues-to-burn-through-cash-11668033125?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-10 00:45:00+00:00
- - tags: None
 
 The electric-vehicle startup said it lost $1.74 billion in the third quarter as it continued to struggle with higher material costs and underused assembly lines.

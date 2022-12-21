@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## Latest Super Mario Bros. movie trailer features a bold, new Princess Peach
  - [https://arstechnica.com/?p=1900814](https://arstechnica.com/?p=1900814)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-29 22:59:09+00:00
- - tags: None
 
 Luigi, Donkey Kong, and Yoshis also make appearances in fresh two-minute promo.
 
@@ -12,7 +11,6 @@ Luigi, Donkey Kong, and Yoshis also make appearances in fresh two-minute promo.
  - [https://arstechnica.com/?p=1900698](https://arstechnica.com/?p=1900698)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-29 22:49:07+00:00
- - tags: None
 
 Refinement to AI language model generates rhyming compositions in various styles.
 
@@ -20,7 +18,6 @@ Refinement to AI language model generates rhyming compositions in various styles
  - [https://arstechnica.com/?p=1900748](https://arstechnica.com/?p=1900748)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-29 22:24:01+00:00
- - tags: None
 
 Nothing blew up, which is always a win.
 
@@ -28,7 +25,6 @@ Nothing blew up, which is always a win.
  - [https://arstechnica.com/?p=1900717](https://arstechnica.com/?p=1900717)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-29 22:05:19+00:00
- - tags: None
 
 The demise of Twitter's security and privacy teams has people looking for alternatives.
 
@@ -36,7 +32,6 @@ The demise of Twitter's security and privacy teams has people looking for altern
  - [https://arstechnica.com/?p=1900697](https://arstechnica.com/?p=1900697)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-29 21:32:46+00:00
- - tags: None
 
 Google Workspace's wearables neglect is hopefully coming to an end.
 
@@ -44,7 +39,6 @@ Google Workspace's wearables neglect is hopefully coming to an end.
  - [https://arstechnica.com/?p=1900355](https://arstechnica.com/?p=1900355)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-29 20:48:28+00:00
- - tags: None
 
 Holy Roman Emperor wrote of being targeted by Italian mercenary, among other topics.
 
@@ -52,7 +46,6 @@ Holy Roman Emperor wrote of being targeted by Italian mercenary, among other top
  - [https://arstechnica.com/?p=1900693](https://arstechnica.com/?p=1900693)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-29 20:03:40+00:00
- - tags: None
 
 "In cases like this pandemic, good information is life-saving."
 
@@ -60,7 +53,6 @@ Holy Roman Emperor wrote of being targeted by Italian mercenary, among other top
  - [https://arstechnica.com/?p=1900571](https://arstechnica.com/?p=1900571)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-29 19:20:50+00:00
- - tags: None
 
 Epson will sell only inkjet printers as of 2026.
 
@@ -68,7 +60,6 @@ Epson will sell only inkjet printers as of 2026.
  - [https://arstechnica.com/?p=1900598](https://arstechnica.com/?p=1900598)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-29 18:49:10+00:00
- - tags: None
 
 Its fancy new effects have much higher system requirements than the original.
 
@@ -76,7 +67,6 @@ Its fancy new effects have much higher system requirements than the original.
  - [https://arstechnica.com/?p=1900570](https://arstechnica.com/?p=1900570)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-29 18:23:37+00:00
- - tags: None
 
 The FTC says Google paid radio DJs to say they loved the Pixel 4.
 
@@ -84,7 +74,6 @@ The FTC says Google paid radio DJs to say they loved the Pixel 4.
  - [https://arstechnica.com/?p=1900621](https://arstechnica.com/?p=1900621)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-29 18:14:48+00:00
- - tags: None
 
 A parasite associated with bold behavior is also associated with pack leadership.
 
@@ -92,7 +81,6 @@ A parasite associated with bold behavior is also associated with pack leadership
  - [https://arstechnica.com/?p=1900569](https://arstechnica.com/?p=1900569)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-29 18:03:00+00:00
- - tags: None
 
 Turn yesterday's corporate computer into today's Pi-like system—with some work.
 
@@ -100,7 +88,6 @@ Turn yesterday's corporate computer into today's Pi-like system—with some work
  - [https://arstechnica.com/?p=1900596](https://arstechnica.com/?p=1900596)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-29 17:40:41+00:00
- - tags: None
 
 Already overworked child safety team went from 20 to less than 10 members.
 
@@ -108,7 +95,6 @@ Already overworked child safety team went from 20 to less than 10 members.
  - [https://arstechnica.com/?p=1900580](https://arstechnica.com/?p=1900580)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-29 17:10:41+00:00
- - tags: None
 
 Musk: Apple threatened to pull Twitter from iOS and "mostly stopped advertising."
 
@@ -116,7 +102,6 @@ Musk: Apple threatened to pull Twitter from iOS and "mostly stopped advertising.
  - [https://arstechnica.com/?p=1900153](https://arstechnica.com/?p=1900153)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-29 17:05:55+00:00
- - tags: None
 
 Our special 4-part look at <em>The Callisto Protocol</em> concludes!
 
@@ -124,7 +109,6 @@ Our special 4-part look at <em>The Callisto Protocol</em> concludes!
  - [https://arstechnica.com/?p=1900549](https://arstechnica.com/?p=1900549)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-29 15:05:24+00:00
- - tags: None
 
 Evidence from millennia of Atlantic storms is not good news for the coast.
 
@@ -132,7 +116,6 @@ Evidence from millennia of Atlantic storms is not good news for the coast.
  - [https://arstechnica.com/?p=1900530](https://arstechnica.com/?p=1900530)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-29 13:42:24+00:00
- - tags: None
 
 "It’s really hard to articulate what the feeling is."
 
@@ -140,6 +123,5 @@ Evidence from millennia of Atlantic storms is not good news for the coast.
  - [https://arstechnica.com/?p=1900527](https://arstechnica.com/?p=1900527)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-29 13:18:20+00:00
- - tags: None
 
 The man reportedly infected 39 people in one outdoor jog through a park.

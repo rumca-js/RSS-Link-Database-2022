@@ -1,10 +1,9 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml
+# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
 
 ## Looming Oil-Supply Shock Launches Debate in OPEC
  - [https://www.wsj.com/articles/looming-oil-supply-shock-launches-debate-in-opec-11669150705](https://www.wsj.com/articles/looming-oil-supply-shock-launches-debate-in-opec-11669150705)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-22 21:06:00+00:00
- - tags: None
 
 The prospect of a European embargo and a price cap on Russian oil, along with rising winter demand, are weighing on the production group.
 
@@ -12,7 +11,6 @@ The prospect of a European embargo and a price cap on Russian oil, along with ri
  - [https://www.wsj.com/articles/iran-protests-government-mahsa-amini-11669137860](https://www.wsj.com/articles/iran-protests-government-mahsa-amini-11669137860)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-22 18:11:00+00:00
- - tags: None
 
 The unrest poses a serious challenge to the clerical regime’s rule. Purges of rivals and reformists from the government have narrowed officials’ options for a response.
 
@@ -20,7 +18,6 @@ The unrest poses a serious challenge to the clerical regime’s rule. Purges of 
  - [https://www.wsj.com/articles/western-allies-aim-to-agree-on-russian-oil-price-cap-wednesday-11669134657](https://www.wsj.com/articles/western-allies-aim-to-agree-on-russian-oil-price-cap-wednesday-11669134657)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-22 17:30:00+00:00
- - tags: None
 
 Officials are discussing setting the price cap at around $60 a barrel, as the group rushes to finalize the plan before it begins early next month.
 
@@ -28,7 +25,6 @@ Officials are discussing setting the price cap at around $60 a barrel, as the gr
  - [https://www.wsj.com/articles/eu-unveils-proposal-to-cap-natural-gas-prices-11669129032](https://www.wsj.com/articles/eu-unveils-proposal-to-cap-natural-gas-prices-11669129032)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-22 15:45:00+00:00
- - tags: None
 
 The bloc’s executive arm said its proposal was designed to deal with exceptional circumstances where the benchmark price for natural gas in Europe reaches a certain threshold.
 
@@ -36,7 +32,6 @@ The bloc’s executive arm said its proposal was designed to deal with exception
  - [https://www.wsj.com/articles/iran-says-it-has-stepped-up-production-of-highly-enriched-uranium-11669128351](https://www.wsj.com/articles/iran-says-it-has-stepped-up-production-of-highly-enriched-uranium-11669128351)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-22 14:45:00+00:00
- - tags: None
 
 Iranian officials said Tuesday that the country has started producing near-weapons-grade enriched uranium at a second nuclear facility in response to Tehran being formally rebuked last week for failing to cooperate with the United Nations’ atomic-energy agency.
 
@@ -44,7 +39,6 @@ Iranian officials said Tuesday that the country has started producing near-weapo
  - [https://www.wsj.com/articles/senators-urge-biden-administration-to-provide-ukraine-with-armed-drones-11669122668](https://www.wsj.com/articles/senators-urge-biden-administration-to-provide-ukraine-with-armed-drones-11669122668)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-22 13:59:00+00:00
- - tags: None
 
 A bipartisan group of legislators wants the U.S. to give Ukraine Grey Eagle drones, saying the technology could help Kyiv to hold its territory.
 
@@ -52,7 +46,6 @@ A bipartisan group of legislators wants the U.S. to give Ukraine Grey Eagle dron
  - [https://www.wsj.com/articles/ukraine-launches-assault-to-oust-russia-from-key-black-sea-peninsula-11669114391](https://www.wsj.com/articles/ukraine-launches-assault-to-oust-russia-from-key-black-sea-peninsula-11669114391)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-22 13:12:00+00:00
- - tags: None
 
 Ukrainian forces began an assault on the Kinburn Spit, a strip of land jutting into the sea south of Mykolaiv, that has been occupied for months by Russian forces, as Kyiv looks to open up its besieged ports.
 
@@ -60,7 +53,6 @@ Ukrainian forces began an assault on the Kinburn Spit, a strip of land jutting i
  - [https://www.wsj.com/articles/kamala-harris-seeks-to-strengthen-philippines-alliance-amid-fraught-china-relations-11669122344](https://www.wsj.com/articles/kamala-harris-seeks-to-strengthen-philippines-alliance-amid-fraught-china-relations-11669122344)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-22 13:05:00+00:00
- - tags: None
 
 Vice president touts the proposed expansion of a military pact and pledges $7.5 million for the country’s maritime law-enforcement agencies on a visit to the country.
 
@@ -68,7 +60,6 @@ Vice president touts the proposed expansion of a military pact and pledges $7.5 
  - [https://www.wsj.com/articles/a-big-winner-from-qatars-world-cup-dubai-11669119365](https://www.wsj.com/articles/a-big-winner-from-qatars-world-cup-dubai-11669119365)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-22 12:16:00+00:00
- - tags: None
 
 While its neighbor grapples with a culture clash and the logistics of running the tournament, Dubai is awash with supporters wanting easy access to beer, cheaper accommodation and a setting more accustomed to Western tourism.
 
@@ -76,7 +67,6 @@ While its neighbor grapples with a culture clash and the logistics of running th
  - [https://www.wsj.com/articles/russias-munitions-shortages-raise-questions-over-how-long-it-can-continue-ukraine-war-11669107174](https://www.wsj.com/articles/russias-munitions-shortages-raise-questions-over-how-long-it-can-continue-ukraine-war-11669107174)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-22 10:30:00+00:00
- - tags: None
 
 Both sides have suffered heavy losses of men and materiel, but Moscow is more dependent on its shrinking economy to replenish supplies, while Kyiv has powerful backers.
 
@@ -84,7 +74,6 @@ Both sides have suffered heavy losses of men and materiel, but Moscow is more de
  - [https://www.wsj.com/articles/after-deadly-indonesia-earthquake-rescue-workers-search-for-survivors-11669110920](https://www.wsj.com/articles/after-deadly-indonesia-earthquake-rescue-workers-search-for-survivors-11669110920)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-22 10:27:00+00:00
- - tags: None
 
 Search-and-rescue teams continued to find bodies under wrecked buildings, a day after the 5.6-magnitude quake.
 
@@ -92,6 +81,5 @@ Search-and-rescue teams continued to find bodies under wrecked buildings, a day 
  - [https://www.wsj.com/articles/u-s-and-chinese-defense-chiefs-meet-in-reflection-of-easing-tensions-11669110111](https://www.wsj.com/articles/u-s-and-chinese-defense-chiefs-meet-in-reflection-of-easing-tensions-11669110111)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-22 09:41:00+00:00
- - tags: None
 
 The meeting was the latest sign of thawing ties between the two countries after a rupture in August following a trip to Taiwan by House Speaker Nancy Pelosi.

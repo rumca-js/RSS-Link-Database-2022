@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## Anker 767 PowerHouse deal: Score $400 off this next level power station
  - [https://www.androidauthority.com/anker-767-powerhouse-power-station-deal-3229963/](https://www.androidauthority.com/anker-767-powerhouse-power-station-deal-3229963/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-01 23:47:39+00:00
- - tags: None
 
 A quick sign-up saves you $400 on this cutting-edge portable power station, with the chance to also win a power bank.
 
@@ -12,7 +11,6 @@ A quick sign-up saves you $400 on this cutting-edge portable power station, with
  - [https://www.androidauthority.com/what-to-watch-before-black-panther-2-wakanda-forever-3226216/](https://www.androidauthority.com/what-to-watch-before-black-panther-2-wakanda-forever-3226216/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-01 20:45:16+00:00
- - tags: None
 
 These seven titles will give you all the background info you could want going into the Black Panther sequel.
 
@@ -20,7 +18,6 @@ These seven titles will give you all the background info you could want going in
  - [https://www.androidauthority.com/motorola-flagship-specs-3229844/](https://www.androidauthority.com/motorola-flagship-specs-3229844/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-01 20:16:56+00:00
- - tags: None
 
 A listing on the TENAA certification website has given us new information on the Edge X40.
 
@@ -28,7 +25,6 @@ A listing on the TENAA certification website has given us new information on the
  - [https://www.androidauthority.com/google-nest-audio-deal-nov-22-3229871/](https://www.androidauthority.com/google-nest-audio-deal-nov-22-3229871/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-01 19:50:23+00:00
- - tags: None
 
 You can now get two Nest Audios for less than the MSRP of just one.
 
@@ -36,7 +32,6 @@ You can now get two Nest Audios for less than the MSRP of just one.
  - [https://www.androidauthority.com/how-to-pair-mpow-headphones-3224990/](https://www.androidauthority.com/how-to-pair-mpow-headphones-3224990/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-01 19:21:15+00:00
- - tags: None
 
 Get your MPOW headphones working with almost any device.
 
@@ -44,7 +39,6 @@ Get your MPOW headphones working with almost any device.
  - [https://www.androidauthority.com/how-to-pair-onn-headphones-3225592/](https://www.androidauthority.com/how-to-pair-onn-headphones-3225592/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-01 19:19:48+00:00
- - tags: None
 
 Here's how to get your Onn headphones paired with your other Bluetooth-enabled devices.
 
@@ -52,7 +46,6 @@ Here's how to get your Onn headphones paired with your other Bluetooth-enabled d
  - [https://www.androidauthority.com/how-to-get-free-apple-music-3225664/](https://www.androidauthority.com/how-to-get-free-apple-music-3225664/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-01 19:17:39+00:00
- - tags: None
 
 You can listen to your tunes for free (for a limited time).
 
@@ -60,7 +53,6 @@ You can listen to your tunes for free (for a limited time).
  - [https://www.androidauthority.com/google-hangouts-shutdown-3229810/](https://www.androidauthority.com/google-hangouts-shutdown-3229810/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-01 18:22:31+00:00
- - tags: None
 
 Google is shutting down the web app for Google Hangouts.
 
@@ -68,7 +60,6 @@ Google is shutting down the web app for Google Hangouts.
  - [https://www.androidauthority.com/pair-jbl-earbuds-speakers-headphones-3226088/](https://www.androidauthority.com/pair-jbl-earbuds-speakers-headphones-3226088/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-01 18:07:01+00:00
- - tags: None
 
 Get your JBL device working with your PC, Mac, or smartphone.
 
@@ -76,7 +67,6 @@ Get your JBL device working with your PC, Mac, or smartphone.
  - [https://www.androidauthority.com/recover-deleted-playlists-spotify-3225746/](https://www.androidauthority.com/recover-deleted-playlists-spotify-3225746/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-01 18:04:31+00:00
- - tags: None
 
 They're not gone forever just yet.
 
@@ -84,7 +74,6 @@ They're not gone forever just yet.
  - [https://www.androidauthority.com/how-to-see-subscribers-youtube-3159575/](https://www.androidauthority.com/how-to-see-subscribers-youtube-3159575/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-01 17:47:27+00:00
- - tags: None
 
 Do you ever wonder who's following you?
 
@@ -92,7 +81,6 @@ Do you ever wonder who's following you?
  - [https://www.androidauthority.com/apple-imessage-dma-3229780/](https://www.androidauthority.com/apple-imessage-dma-3229780/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-01 17:19:50+00:00
- - tags: None
 
 The rules in the DMA are scheduled to apply starting early next year.
 
@@ -100,7 +88,6 @@ The rules in the DMA are scheduled to apply starting early next year.
  - [https://www.androidauthority.com/best-discovery-plus-shows-3225539/](https://www.androidauthority.com/best-discovery-plus-shows-3225539/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-01 16:18:50+00:00
- - tags: None
 
 From fun reality shows to hard-hitting documentaries, there's a lot to check out on the service.
 
@@ -108,7 +95,6 @@ From fun reality shows to hard-hitting documentaries, there's a lot to check out
  - [https://www.androidauthority.com/best-quiz-games-and-trivia-games-for-android-692955/](https://www.androidauthority.com/best-quiz-games-and-trivia-games-for-android-692955/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-01 16:05:43+00:00
- - tags: None
 
 Quiz games aren't in the headlines but they're fun! Test your knowledge with a few of these!
 
@@ -116,7 +102,6 @@ Quiz games aren't in the headlines but they're fun! Test your knowledge with a f
  - [https://www.androidauthority.com/youtube-prime-channels-3229728/](https://www.androidauthority.com/youtube-prime-channels-3229728/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-01 15:19:43+00:00
- - tags: None
 
 YouTube's new feature aims to streamline your viewing experience.
 
@@ -124,7 +109,6 @@ YouTube's new feature aims to streamline your viewing experience.
  - [https://www.androidauthority.com/elon-musk-buys-twitter-3226401/](https://www.androidauthority.com/elon-musk-buys-twitter-3226401/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-01 14:30:22+00:00
- - tags: None
 
 Twitter will never be the same again.
 
@@ -132,7 +116,6 @@ Twitter will never be the same again.
  - [https://www.androidauthority.com/amazon-prime-music-free-3229717/](https://www.androidauthority.com/amazon-prime-music-free-3229717/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-01 14:17:24+00:00
- - tags: None
 
 Prime members now have access to 100 million ad-free songs, but don't cancel Spotify just yet.
 
@@ -140,7 +123,6 @@ Prime members now have access to 100 million ad-free songs, but don't cancel Spo
  - [https://www.androidauthority.com/daily-authority-november-1-2022-3229610/](https://www.androidauthority.com/daily-authority-november-1-2022-3229610/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-01 10:01:16+00:00
- - tags: None
 
 A trip reveals some Pixel weaknesses, and plenty more in today's edition.
 
@@ -148,7 +130,6 @@ A trip reveals some Pixel weaknesses, and plenty more in today's edition.
  - [https://www.androidauthority.com/download-imessage-android-poll-results-3229589/](https://www.androidauthority.com/download-imessage-android-poll-results-3229589/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-01 08:45:59+00:00
- - tags: None
 
 It turns out that most of you would download iMessage for Android. Now, about Apple delivering an Android port...
 
@@ -156,7 +137,6 @@ It turns out that most of you would download iMessage for Android. Now, about Ap
  - [https://www.androidauthority.com/pixel-7-pro-durability-3229577/](https://www.androidauthority.com/pixel-7-pro-durability-3229577/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-01 07:44:45+00:00
- - tags: None
 
 If you like it, you should put a case on it.
 
@@ -164,7 +144,6 @@ If you like it, you should put a case on it.
  - [https://www.androidauthority.com/first-android-phone-google-g1-3229553/](https://www.androidauthority.com/first-android-phone-google-g1-3229553/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-01 06:28:00+00:00
- - tags: None
 
 We sure do dig the black and neon.
 
@@ -172,7 +151,6 @@ We sure do dig the black and neon.
  - [https://www.androidauthority.com/oppo-a58-camera-housing-3229550/](https://www.androidauthority.com/oppo-a58-camera-housing-3229550/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-01 06:15:23+00:00
- - tags: None
 
 The Oppo A58 gives the OnePlus Nord 2T a run for its money when it comes to ugly camera housings.
 
@@ -180,6 +158,5 @@ The Oppo A58 gives the OnePlus Nord 2T a run for its money when it comes to ugly
  - [https://www.androidauthority.com/set-up-roku-3118259/](https://www.androidauthority.com/set-up-roku-3118259/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-01 04:00:23+00:00
- - tags: None
 
 Roku devices are simple to install, but this is what you need to know and expect.

@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## U.S. Pledges $53 Million to Help Fix Ukraine’s Electrical Grid
  - [https://www.nytimes.com/2022/11/29/world/europe/nato-ukraine.html](https://www.nytimes.com/2022/11/29/world/europe/nato-ukraine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-29 22:55:15+00:00
- - tags: None
 
 American officials said they hoped the commitment would spur allies to make similar donations, as many Ukrainians head into winter without power or water.
 
@@ -12,7 +11,6 @@ American officials said they hoped the commitment would spur allies to make simi
  - [https://www.nytimes.com/2022/11/29/world/europe/poland-ukraine-refugees.html](https://www.nytimes.com/2022/11/29/world/europe/poland-ukraine-refugees.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-29 22:06:47+00:00
- - tags: None
 
 Poland has taken in more Ukrainians fleeing the war than any other European country and by the end of the year, will have also spent more on services for them.
 
@@ -20,7 +18,6 @@ Poland has taken in more Ukrainians fleeing the war than any other European coun
  - [https://www.nytimes.com/2022/11/29/briefing/us-iran-world-cup-china.html](https://www.nytimes.com/2022/11/29/briefing/us-iran-world-cup-china.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-29 21:46:12+00:00
- - tags: None
 
 Plus China cracks down on protests and the U.S. pledges more aid to Ukraine.
 
@@ -28,7 +25,6 @@ Plus China cracks down on protests and the U.S. pledges more aid to Ukraine.
  - [https://www.nytimes.com/2022/11/29/climate/hurricane-season-noaa.html](https://www.nytimes.com/2022/11/29/climate/hurricane-season-noaa.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-29 20:15:38+00:00
- - tags: None
 
 The six-month total of 14 named storms was about average. But two late-season hurricanes proved catastrophic in Florida and Puerto Rico.
 
@@ -36,7 +32,6 @@ The six-month total of 14 named storms was about average. But two late-season hu
  - [https://www.nytimes.com/2022/11/29/world/africa/south-africa-assassin-stabbed.html](https://www.nytimes.com/2022/11/29/world/africa/south-africa-assassin-stabbed.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-29 19:55:47+00:00
- - tags: None
 
 Janusz Walus, who killed the charismatic anti-apartheid leader Chris Hani, was stabbed just before he was due to be freed on parole, in a ruling that ignited anger in South Africa. He survived.
 
@@ -44,7 +39,6 @@ Janusz Walus, who killed the charismatic anti-apartheid leader Chris Hani, was s
  - [https://www.nytimes.com/2022/11/29/world/europe/vladimir-makei-belarus-dies.html](https://www.nytimes.com/2022/11/29/world/europe/vladimir-makei-belarus-dies.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-29 18:23:12+00:00
- - tags: None
 
 Vladimir Makei, a former foreign minister who led failed efforts to improve relations with the West, died over the weekend. His death comes as Russia presses Belarus to send troops to Ukraine.
 
@@ -52,7 +46,6 @@ Vladimir Makei, a former foreign minister who led failed efforts to improve rela
  - [https://www.nytimes.com/2022/11/29/world/europe/biden-macron-state-visit.html](https://www.nytimes.com/2022/11/29/world/europe/biden-macron-state-visit.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-29 17:51:51+00:00
- - tags: None
 
 The French president goes to Washington with differences over how to end the war in Ukraine, and how to share its burdens, at the heart of talks with President Biden.
 
@@ -60,7 +53,6 @@ The French president goes to Washington with differences over how to end the war
  - [https://www.nytimes.com/2022/11/29/world/europe/nato-ukraine-russia.html](https://www.nytimes.com/2022/11/29/world/europe/nato-ukraine-russia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-29 17:27:16+00:00
- - tags: None
 
 
 
@@ -68,7 +60,6 @@ The French president goes to Washington with differences over how to end the war
  - [https://www.nytimes.com/2022/11/29/world/asia/india-film-kashmir-files.html](https://www.nytimes.com/2022/11/29/world/asia/india-film-kashmir-files.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-29 15:04:14+00:00
- - tags: None
 
 The filmmaker, Nadav Lapid, criticized “The Kashmir Files,” a Hindi-language film that depicts a violent chapter in the restive region of Indian-administered Jammu and Kashmir.
 
@@ -76,7 +67,6 @@ The filmmaker, Nadav Lapid, criticized “The Kashmir Files,” a Hindi-language
  - [https://www.nytimes.com/2022/11/29/briefing/nick-fuentes-trump.html](https://www.nytimes.com/2022/11/29/briefing/nick-fuentes-trump.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-29 11:40:28+00:00
- - tags: None
 
 Why it’s important to know more about Nick Fuentes.
 
@@ -84,7 +74,6 @@ Why it’s important to know more about Nick Fuentes.
  - [https://www.nytimes.com/live/2022/11/29/world/russia-ukraine-war-news](https://www.nytimes.com/live/2022/11/29/world/russia-ukraine-war-news)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-29 11:25:05+00:00
- - tags: None
 
 The U.S. is planning an emergency cash injection for Ukraine to shore up its energy infrastructure after an onslaught of Russian attacks.
 
@@ -92,7 +81,6 @@ The U.S. is planning an emergency cash injection for Ukraine to shore up its ene
  - [https://www.nytimes.com/2022/11/29/world/asia/china-protest-covid-security.html](https://www.nytimes.com/2022/11/29/world/asia/china-protest-covid-security.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-29 11:14:48+00:00
- - tags: None
 
 Officials are using the ruling Communist Party’s decades-old policy of repression and surveillance to quash the most widespread protests in decades. But Xi Jinping is silent.
 
@@ -100,7 +88,6 @@ Officials are using the ruling Communist Party’s decades-old policy of repress
  - [https://www.nytimes.com/2022/11/29/business/china-protests-covid-jobs.html](https://www.nytimes.com/2022/11/29/business/china-protests-covid-jobs.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-29 10:00:25+00:00
- - tags: None
 
 President Xi Jinping’s unbending approach to the pandemic has hurt businesses and strangled growth, squeezing the world’s second-largest economy.
 
@@ -108,7 +95,6 @@ President Xi Jinping’s unbending approach to the pandemic has hurt businesses 
  - [https://www.nytimes.com/2022/11/29/business/china-protesters.html](https://www.nytimes.com/2022/11/29/business/china-protesters.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-29 10:00:21+00:00
- - tags: None
 
 In more than a dozen interviews, young people explained how the events of the past few days became what one called a “tipping point.”
 
@@ -116,7 +102,6 @@ In more than a dozen interviews, young people explained how the events of the pa
  - [https://www.nytimes.com/2022/11/29/health/universal-flu-vaccine.html](https://www.nytimes.com/2022/11/29/health/universal-flu-vaccine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-29 10:00:14+00:00
- - tags: None
 
 Scientist have tested in animals a vaccine that may protect against 20 strains of influenza, helping to prevent another pandemic.
 
@@ -124,7 +109,6 @@ Scientist have tested in animals a vaccine that may protect against 20 strains o
  - [https://www.nytimes.com/2022/11/29/world/africa/angola-isabel-dos-santos-arrest-warrant.html](https://www.nytimes.com/2022/11/29/world/africa/angola-isabel-dos-santos-arrest-warrant.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-29 08:11:56+00:00
- - tags: None
 
 Isabel dos Santos, the daughter of Angola’s former president, was accused of enriching herself with state resources during her time in control of the country’s oil company.
 
@@ -132,7 +116,6 @@ Isabel dos Santos, the daughter of Angola’s former president, was accused of e
  - [https://www.nytimes.com/2022/11/29/world/americas/haiti-gangs-foreign-intervention.html](https://www.nytimes.com/2022/11/29/world/americas/haiti-gangs-foreign-intervention.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-29 08:00:28+00:00
- - tags: None
 
 Fearing a mass exodus, some Biden officials are pressing for a multinational force, but they don’t want to send U.S. troops and haven’t been able to persuade other countries to take the lead.
 
@@ -140,7 +123,6 @@ Fearing a mass exodus, some Biden officials are pressing for a multinational for
  - [https://www.nytimes.com/2022/11/29/briefing/ukraine-attacks-china-protests.html](https://www.nytimes.com/2022/11/29/briefing/ukraine-attacks-china-protests.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-29 05:54:14+00:00
- - tags: None
 
 Ukrainian military officials say Russia is planning more strikes on infrastructure.
 
@@ -148,7 +130,6 @@ Ukrainian military officials say Russia is planning more strikes on infrastructu
  - [https://www.nytimes.com/2022/11/29/world/europe/ukraine-russia-pravdyne-grave.html](https://www.nytimes.com/2022/11/29/world/europe/ukraine-russia-pravdyne-grave.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-29 05:01:10+00:00
- - tags: None
 
 In the southern Kherson region, the pattern seen in eastern Ukraine is repeating: The withdrawal of Russian forces yields evidence of possible war crimes.
 
@@ -156,7 +137,6 @@ In the southern Kherson region, the pattern seen in eastern Ukraine is repeating
  - [https://www.nytimes.com/2022/11/29/world/asia/china-space-launch-astronauts.html](https://www.nytimes.com/2022/11/29/world/asia/china-space-launch-astronauts.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-29 05:00:09+00:00
- - tags: None
 
 The crew will set off from a secretive desert launch center to rendezvous with fellow astronauts aboard Tiangong, the country’s newly completed outpost in orbit.
 
@@ -164,7 +144,6 @@ The crew will set off from a secretive desert launch center to rendezvous with f
  - [https://www.nytimes.com/2022/11/28/world/europe/russia-nuclear-arms-control-treaty.html](https://www.nytimes.com/2022/11/28/world/europe/russia-nuclear-arms-control-treaty.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-29 00:40:30+00:00
- - tags: None
 
 The treaty,  New START, calls for reciprocal inspections, but they have not been occurring, first because of the coronavirus pandemic, and now amid tensions over U.S. sanctions on Russia.
 
@@ -172,6 +151,5 @@ The treaty,  New START, calls for reciprocal inspections, but they have not been
  - [https://www.nytimes.com/2022/11/28/world/europe/ukraine-russia-war-kherson.html](https://www.nytimes.com/2022/11/28/world/europe/ukraine-russia-war-kherson.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-29 00:24:29+00:00
- - tags: None
 
 Russian forces are fortifying positions in southern Ukraine after retreating from Kherson, and the Kremlin denied planning to withdraw from the Zaporizhzhia nuclear plant.

@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## The worst map in all of videogames is coming back
  - [https://www.pcgamer.com/the-worst-map-in-all-of-videogames-is-coming-back](https://www.pcgamer.com/the-worst-map-in-all-of-videogames-is-coming-back)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 23:26:05+00:00
- - tags: None
 
 Or the best, depending on who you are.
 
@@ -12,7 +11,6 @@ Or the best, depending on who you are.
  - [https://www.pcgamer.com/elon-musk-reportedly-laid-off-everyone-who-ran-twitters-million-follower-gaming-account-and-now-its-gone-silent](https://www.pcgamer.com/elon-musk-reportedly-laid-off-everyone-who-ran-twitters-million-follower-gaming-account-and-now-its-gone-silent)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 23:22:39+00:00
- - tags: None
 
 The account hasn't tweeted since the day before Twitter owner Elon Musk imposed massive layoffs across the company.
 
@@ -20,7 +18,6 @@ The account hasn't tweeted since the day before Twitter owner Elon Musk imposed 
  - [https://www.pcgamer.com/if-youre-seeing-unexplained-stuttering-while-gaming-you-may-want-to-roll-back-the-latest-windows-11-update](https://www.pcgamer.com/if-youre-seeing-unexplained-stuttering-while-gaming-you-may-want-to-roll-back-the-latest-windows-11-update)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 23:06:53+00:00
- - tags: None
 
 Version 22H2 may cause "lower than expected performance" or stuttering in some games.
 
@@ -28,7 +25,6 @@ Version 22H2 may cause "lower than expected performance" or stuttering in some g
  - [https://www.pcgamer.com/the-sims-5-leaked-screenshots-show-apartments-and-a-city-neighborhood](https://www.pcgamer.com/the-sims-5-leaked-screenshots-show-apartments-and-a-city-neighborhood)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 21:54:15+00:00
- - tags: None
 
 Photos of an apartment Sims 5 playtest build have been posted giving a look at some tutorials and a city neighborhood.
 
@@ -36,7 +32,6 @@ Photos of an apartment Sims 5 playtest build have been posted giving a look at s
  - [https://www.pcgamer.com/diablo-4-dev-says-players-want-open-world-and-free-choice-but-they-also-want-to-be-told-where-to-go](https://www.pcgamer.com/diablo-4-dev-says-players-want-open-world-and-free-choice-but-they-also-want-to-be-told-where-to-go)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 21:21:05+00:00
- - tags: None
 
 Blizzard has revealed more about its approach to open-world design in the upcoming action RPG.
 
@@ -44,7 +39,6 @@ Blizzard has revealed more about its approach to open-world design in the upcomi
  - [https://www.pcgamer.com/modern-warfare-2-players-should-update-their-nvidia-drivers-now](https://www.pcgamer.com/modern-warfare-2-players-should-update-their-nvidia-drivers-now)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 20:16:27+00:00
- - tags: None
 
 The newest Game Ready Driver kicks major visual glitches to the curb.
 
@@ -52,7 +46,6 @@ The newest Game Ready Driver kicks major visual glitches to the curb.
  - [https://www.pcgamer.com/origin-evo16-s-2022-review](https://www.pcgamer.com/origin-evo16-s-2022-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 19:33:06+00:00
- - tags: None
 
 A modest package with not so modest performance.
 
@@ -60,7 +53,6 @@ A modest package with not so modest performance.
  - [https://www.pcgamer.com/batman-voice-actor-kevin-conroy-has-died](https://www.pcgamer.com/batman-voice-actor-kevin-conroy-has-died)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 18:44:24+00:00
- - tags: None
 
 Conroy was celebrated as the voice of Batman across multiple animated series and videogames.
 
@@ -68,7 +60,6 @@ Conroy was celebrated as the voice of Batman across multiple animated series and
  - [https://www.pcgamer.com/this-man-should-be-put-in-jailnft-bro-burns-dollar10-million-frida-kahlo-painting-as-mariachi-band-plays](https://www.pcgamer.com/this-man-should-be-put-in-jailnft-bro-burns-dollar10-million-frida-kahlo-painting-as-mariachi-band-plays)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 18:30:10+00:00
- - tags: None
 
 "I had to do something drastic to get attention."
 
@@ -76,7 +67,6 @@ Conroy was celebrated as the voice of Batman across multiple animated series and
  - [https://www.pcgamer.com/this-years-unpacking-like-is-called-a-little-to-the-left](https://www.pcgamer.com/this-years-unpacking-like-is-called-a-little-to-the-left)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 17:50:07+00:00
- - tags: None
 
 Organisation has never been so pleasing.
 
@@ -84,7 +74,6 @@ Organisation has never been so pleasing.
  - [https://www.pcgamer.com/sonic-frontiers-egg-memo](https://www.pcgamer.com/sonic-frontiers-egg-memo)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 17:02:15+00:00
- - tags: None
 
 Collect every Dr. Eggman voice log.
 
@@ -92,7 +81,6 @@ Collect every Dr. Eggman voice log.
  - [https://www.pcgamer.com/krafton-sets-its-sights-on-the-ascent-studio-neon-giant](https://www.pcgamer.com/krafton-sets-its-sights-on-the-ascent-studio-neon-giant)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 17:01:41+00:00
- - tags: None
 
 The plan to pick up yet another studio was revealed in Krafton's quarterly financial report.
 
@@ -100,7 +88,6 @@ The plan to pick up yet another studio was revealed in Krafton's quarterly finan
  - [https://www.pcgamer.com/nzxt-streaming-plus-bld-kit-pc-review](https://www.pcgamer.com/nzxt-streaming-plus-bld-kit-pc-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 16:38:01+00:00
- - tags: None
 
 Lego for adults… and there's nothing wrong with adults playing with Lego either.
 
@@ -108,7 +95,6 @@ Lego for adults… and there's nothing wrong with adults playing with Lego eithe
  - [https://www.pcgamer.com/after-three-days-of-april-fools-you-cant-pay-dollar8-to-impersonate-nintendo-on-twitter-anymore-at-least-for-now](https://www.pcgamer.com/after-three-days-of-april-fools-you-cant-pay-dollar8-to-impersonate-nintendo-on-twitter-anymore-at-least-for-now)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 16:29:32+00:00
- - tags: None
 
 Do you think someone would do that? Just lie on the internet?
 
@@ -116,7 +102,6 @@ Do you think someone would do that? Just lie on the internet?
  - [https://www.pcgamer.com/2022s-wildest-mod-might-be-for-a-snes-game](https://www.pcgamer.com/2022s-wildest-mod-might-be-for-a-snes-game)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 16:15:07+00:00
- - tags: None
 
 Starfox EX is more like a new entry in the series and even runs on the original hardware.
 
@@ -124,7 +109,6 @@ Starfox EX is more like a new entry in the series and even runs on the original 
  - [https://www.pcgamer.com/build-redux-good-pc-review](https://www.pcgamer.com/build-redux-good-pc-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 16:15:01+00:00
- - tags: None
 
 A good spec and build produce a good gaming PC.
 
@@ -132,7 +116,6 @@ A good spec and build produce a good gaming PC.
  - [https://www.pcgamer.com/surprise-west-of-loathings-developer-made-a-new-stick-figure-rpg-and-its-out-now](https://www.pcgamer.com/surprise-west-of-loathings-developer-made-a-new-stick-figure-rpg-and-its-out-now)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 16:00:09+00:00
- - tags: None
 
 Five years in the making, Shadows Over Loathing has been announced and released on Steam all at once.
 
@@ -140,7 +123,6 @@ Five years in the making, Shadows Over Loathing has been announced and released 
  - [https://www.pcgamer.com/shadows-over-loathing-preview](https://www.pcgamer.com/shadows-over-loathing-preview)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 16:00:06+00:00
- - tags: None
 
 Explore a bizarre comedy world filled with gangsters, goblins, and gatormen in Asymmetric's surprise new stick-figure RPG.
 
@@ -148,7 +130,6 @@ Explore a bizarre comedy world filled with gangsters, goblins, and gatormen in A
  - [https://www.pcgamer.com/genshin-impact-corruscating-potential-solutions](https://www.pcgamer.com/genshin-impact-corruscating-potential-solutions)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 15:41:54+00:00
- - tags: None
 
 Rearrange Floral Jellies to train your captured Fungi.
 
@@ -156,7 +137,6 @@ Rearrange Floral Jellies to train your captured Fungi.
  - [https://www.pcgamer.com/ibuypower-gaming-rdy-slmbg218-pc-review](https://www.pcgamer.com/ibuypower-gaming-rdy-slmbg218-pc-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 15:28:09+00:00
- - tags: None
 
 The CPU focus will appeal to a niche but gamers would benefit more from a better GPU.
 
@@ -164,7 +144,6 @@ The CPU focus will appeal to a niche but gamers would benefit more from a better
  - [https://www.pcgamer.com/dying-light-2-bloody-ties-start-unlock](https://www.pcgamer.com/dying-light-2-bloody-ties-start-unlock)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 15:26:05+00:00
- - tags: None
 
 The first big story update is here.
 
@@ -172,7 +151,6 @@ The first big story update is here.
  - [https://www.pcgamer.com/tactics-ogre-reborn-review](https://www.pcgamer.com/tactics-ogre-reborn-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 15:20:08+00:00
- - tags: None
 
 Graceful and steadfast, the grandfather of tactical RPGs still has it.
 
@@ -180,7 +158,6 @@ Graceful and steadfast, the grandfather of tactical RPGs still has it.
  - [https://www.pcgamer.com/ataris-50th-anniversary-game-is-actually-great](https://www.pcgamer.com/ataris-50th-anniversary-game-is-actually-great)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 15:15:54+00:00
- - tags: None
 
 Away from the blockchain nonsense, modern Atari is doing a good job with its back catalogue.
 
@@ -188,7 +165,6 @@ Away from the blockchain nonsense, modern Atari is doing a good job with its bac
  - [https://www.pcgamer.com/halo-infinite-mix-things-up-achievement](https://www.pcgamer.com/halo-infinite-mix-things-up-achievement)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 14:33:59+00:00
- - tags: None
 
 I need a weapon—or ten.
 
@@ -196,7 +172,6 @@ I need a weapon—or ten.
  - [https://www.pcgamer.com/ancient-pc-rare-retro-discovery](https://www.pcgamer.com/ancient-pc-rare-retro-discovery)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 14:18:56+00:00
- - tags: None
 
 The rarity of such a haul makes me wonder about Grandad's true occupation.
 
@@ -204,7 +179,6 @@ The rarity of such a haul makes me wonder about Grandad's true occupation.
  - [https://www.pcgamer.com/remedy-confirms-that-codename-heron-is-control-2](https://www.pcgamer.com/remedy-confirms-that-codename-heron-is-control-2)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 14:03:10+00:00
- - tags: None
 
 It's being co-developed and co-published with 505 Games but won't be appearing soon.
 
@@ -212,7 +186,6 @@ It's being co-developed and co-published with 505 Games but won't be appearing s
  - [https://www.pcgamer.com/dying-light-2-skullface-safe-code](https://www.pcgamer.com/dying-light-2-skullface-safe-code)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 13:05:30+00:00
- - tags: None
 
 You'll need this code for the Gilded Cage side mission.
 
@@ -220,7 +193,6 @@ You'll need this code for the Gilded Cage side mission.
  - [https://www.pcgamer.com/marvel-snap-is-making-ranked-overwatch-2-much-more-fun](https://www.pcgamer.com/marvel-snap-is-making-ranked-overwatch-2-much-more-fun)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 12:14:01+00:00
- - tags: None
 
 Winning Marvel Snap and Overwatch 2 at the same time is a flex, right?
 
@@ -228,7 +200,6 @@ Winning Marvel Snap and Overwatch 2 at the same time is a flex, right?
  - [https://www.pcgamer.com/baldurs-gate-3-is-getting-new-features-and-a-release-date-announcement-in-december](https://www.pcgamer.com/baldurs-gate-3-is-getting-new-features-and-a-release-date-announcement-in-december)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 12:13:52+00:00
- - tags: None
 
 It's still coming in 2023, and the next Panel From Hell will share more details.
 
@@ -236,7 +207,6 @@ It's still coming in 2023, and the next Panel From Hell will share more details.
  - [https://www.pcgamer.com/destiny-2-telesto-emblem-code](https://www.pcgamer.com/destiny-2-telesto-emblem-code)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 11:58:26+00:00
- - tags: None
 
 Glory be to Telesto.
 
@@ -244,7 +214,6 @@ Glory be to Telesto.
  - [https://www.pcgamer.com/jbls-quantum-gaming-headsets-are-ready-for-deployment](https://www.pcgamer.com/jbls-quantum-gaming-headsets-are-ready-for-deployment)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 11:24:59+00:00
- - tags: None
 
 These headsets bring 75 years of acoustic mastery to your gaming headspace.
 
@@ -252,7 +221,6 @@ These headsets bring 75 years of acoustic mastery to your gaming headspace.
  - [https://www.pcgamer.com/acer-nitro-50-gaming-pc-review](https://www.pcgamer.com/acer-nitro-50-gaming-pc-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 10:00:44+00:00
- - tags: None
 
 It games, but this config really suffers when it comes to storage.
 
@@ -260,7 +228,6 @@ It games, but this config really suffers when it comes to storage.
  - [https://www.pcgamer.com/wordle-510-answer-november-11](https://www.pcgamer.com/wordle-510-answer-november-11)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 06:05:46+00:00
- - tags: None
 
 Wordle today: The solution and a hint for the #510 puzzle.
 
@@ -268,7 +235,6 @@ Wordle today: The solution and a hint for the #510 puzzle.
  - [https://www.pcgamer.com/best-40k-books-novels](https://www.pcgamer.com/best-40k-books-novels)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 03:42:31+00:00
- - tags: None
 
 There is no time for peace. No respite, no forgiveness. There is only READING THE BEST 40K BOOKS.
 
@@ -276,6 +242,5 @@ There is no time for peace. No respite, no forgiveness. There is only READING TH
  - [https://www.pcgamer.com/battlefield-2042-class-system-rework](https://www.pcgamer.com/battlefield-2042-class-system-rework)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-11 01:09:29+00:00
- - tags: None
 
 Season 3 will see some big changes to Battlefield 2042, as well as a week of free access.

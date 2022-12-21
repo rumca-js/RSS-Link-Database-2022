@@ -1,10 +1,9 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2
+# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
 
 ## New Apple Leak Reveals iPhone 15 Release Shock
  - [https://www.forbes.com/sites/gordonkelly/2022/11/06/apple-iphone-15-pro-max-ultra-qualcomm-apple-modem-fears/](https://www.forbes.com/sites/gordonkelly/2022/11/06/apple-iphone-15-pro-max-ultra-qualcomm-apple-modem-fears/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-06 22:33:05+00:00
- - tags: None
 
 Apple's iPhone 15 range will not have an upgrade you may have expected...
 
@@ -12,7 +11,6 @@ Apple's iPhone 15 range will not have an upgrade you may have expected...
  - [https://www.forbes.com/sites/krisholt/2022/11/06/netflix-announces-a-stranger-things-vr-game-where-you-can-play-as-vecna/](https://www.forbes.com/sites/krisholt/2022/11/06/netflix-announces-a-stranger-things-vr-game-where-you-can-play-as-vecna/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-06 21:35:49+00:00
- - tags: None
 
 The game is coming to major VR platforms in winter 2023.
 
@@ -20,7 +18,6 @@ The game is coming to major VR platforms in winter 2023.
  - [https://www.forbes.com/sites/joshuacohen/2022/11/06/fentanyl-is-the-biggest-public-health-problem-currently-facing-the-us-federal-state-and-local-governments-arent-doing-enough-to-combat-it/](https://www.forbes.com/sites/joshuacohen/2022/11/06/fentanyl-is-the-biggest-public-health-problem-currently-facing-the-us-federal-state-and-local-governments-arent-doing-enough-to-combat-it/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-06 20:33:11+00:00
- - tags: None
 
 While the U.S. has been battling the Covid-19 pandemic it’s gotten lost in the shuffle that the nation endured record numbers of drug overdose-related deaths. Illicit fentanyl is the primary culprit. Federal, state, and local governments aren't doing enough to combat this massive problem.
 
@@ -28,7 +25,6 @@ While the U.S. has been battling the Covid-19 pandemic it’s gotten lost in the
  - [https://www.forbes.com/sites/traversmark/2022/11/06/why-its-not-enough-to-just-spend-more-time-with-your-partner-according-to-a-psychologist/](https://www.forbes.com/sites/traversmark/2022/11/06/why-its-not-enough-to-just-spend-more-time-with-your-partner-according-to-a-psychologist/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-06 20:00:54+00:00
- - tags: None
 
 How you spend time with your partner is an excellent predictor of whether you will work as a couple.
 
@@ -36,7 +32,6 @@ How you spend time with your partner is an excellent predictor of whether you wi
  - [https://www.forbes.com/sites/erikkain/2022/11/06/the-walking-dead-season-11-episode-22-review-the-trial-of-eugene-porter/](https://www.forbes.com/sites/erikkain/2022/11/06/the-walking-dead-season-11-episode-22-review-the-trial-of-eugene-porter/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-06 19:50:57+00:00
- - tags: None
 
 The Walking Dead offers up another pretty decent episode in its final push to the series finale.
 
@@ -44,7 +39,6 @@ The Walking Dead offers up another pretty decent episode in its final push to th
  - [https://www.forbes.com/sites/erikkain/2022/11/06/the-walking-dead-season-11-episode-21-review-outpost-22/](https://www.forbes.com/sites/erikkain/2022/11/06/the-walking-dead-season-11-episode-21-review-outpost-22/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-06 17:55:11+00:00
- - tags: None
 
 At last, interesting things start happening in the Commonwealth storyline.
 
@@ -52,7 +46,6 @@ At last, interesting things start happening in the Commonwealth storyline.
  - [https://www.forbes.com/sites/brucelee/2022/11/06/after-elon-musk-acquisition-will-sciencetwitter-medtwitter-move-to-mastodon-other-platforms/](https://www.forbes.com/sites/brucelee/2022/11/06/after-elon-musk-acquisition-will-sciencetwitter-medtwitter-move-to-mastodon-other-platforms/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-06 16:36:44+00:00
- - tags: None
 
 Mastodon has experienced a surge in new users since the world’s richest man has gotten control of Twitter.
 
@@ -60,7 +53,6 @@ Mastodon has experienced a surge in new users since the world’s richest man ha
  - [https://www.forbes.com/sites/paultassi/2022/11/06/netflixs-blockbuster-is-the-worst-reviewed-show-on-tv-right-now/](https://www.forbes.com/sites/paultassi/2022/11/06/netflixs-blockbuster-is-the-worst-reviewed-show-on-tv-right-now/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-06 15:49:14+00:00
- - tags: None
 
 Netflix, yet again, seems to have made a significant misstep with content greenlighting, this time with Blockbuster, a new comedy meant to capture the nostalgia of millennials.
 
@@ -68,7 +60,6 @@ Netflix, yet again, seems to have made a significant misstep with content greenl
  - [https://www.forbes.com/sites/craigsmith/2022/11/06/teleportation-anyone-xprize-winner-is-the-closest-you-can-get/](https://www.forbes.com/sites/craigsmith/2022/11/06/teleportation-anyone-xprize-winner-is-the-closest-you-can-get/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-06 15:40:18+00:00
- - tags: None
 
 Teleportation became a bit more real on Saturday when a German team of data scientists and engineers won the ANA Avatar XPRIZE competition in Long Beach, California, with a four-wheeled, humanoid robot named NimbRo.
 
@@ -76,7 +67,6 @@ Teleportation became a bit more real on Saturday when a German team of data scie
  - [https://www.forbes.com/sites/paultassi/2022/11/06/who-will-the-walking-dead-kill-with-its-spin-off-characters-off-limits/](https://www.forbes.com/sites/paultassi/2022/11/06/who-will-the-walking-dead-kill-with-its-spin-off-characters-off-limits/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-06 15:33:31+00:00
- - tags: None
 
 The Walking Dead has deemed a number of characters safe already. So who will die in the final episodes then?
 
@@ -84,7 +74,6 @@ The Walking Dead has deemed a number of characters safe already. So who will die
  - [https://www.forbes.com/sites/marshallshepherd/2022/11/06/somethings-brewing-in-the-tropics-that-might-affect-florida-this-week/](https://www.forbes.com/sites/marshallshepherd/2022/11/06/somethings-brewing-in-the-tropics-that-might-affect-florida-this-week/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-06 15:26:53+00:00
- - tags: None
 
 According to weather experts, Florida could be dealing with a subtropical or tropical system this election week.
 
@@ -92,7 +81,6 @@ According to weather experts, Florida could be dealing with a subtropical or tro
  - [https://www.forbes.com/sites/anthonykarcz/2022/11/06/samsara-and-t-mobile-create-an-un-carrier-on-thats-hard-to-lose/](https://www.forbes.com/sites/anthonykarcz/2022/11/06/samsara-and-t-mobile-create-an-un-carrier-on-thats-hard-to-lose/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-06 15:21:03+00:00
- - tags: None
 
 Awkward name aside, this Samsara/T-Mobile collaboration is their best bag yet.
 
@@ -100,7 +88,6 @@ Awkward name aside, this Samsara/T-Mobile collaboration is their best bag yet.
  - [https://www.forbes.com/sites/paultassi/2022/11/06/bungie-says-destiny-2s-black-armory-weapons-will-return-on-one-condition/](https://www.forbes.com/sites/paultassi/2022/11/06/bungie-says-destiny-2s-black-armory-weapons-will-return-on-one-condition/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-06 15:17:08+00:00
- - tags: None
 
 Here's when Destiny 2's Black Armory weapons are coming back.
 
@@ -108,7 +95,6 @@ Here's when Destiny 2's Black Armory weapons are coming back.
  - [https://www.forbes.com/sites/mattgardner1/2022/11/06/the-entropy-centre-review-turning-back-time-in-more-ways-than-one/](https://www.forbes.com/sites/mattgardner1/2022/11/06/the-entropy-centre-review-turning-back-time-in-more-ways-than-one/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-06 15:15:02+00:00
- - tags: None
 
 It may be inspired by 'Portal', but 'The Entropy Tale' is far from derivative; it’s one of the most engrossing and compelling indie titles of 2022.
 
@@ -116,7 +102,6 @@ It may be inspired by 'Portal', but 'The Entropy Tale' is far from derivative; i
  - [https://www.forbes.com/sites/joannechen/2022/11/06/american-dreamers-how-metas-new-cfo-susan-li-embraced-being-different/](https://www.forbes.com/sites/joannechen/2022/11/06/american-dreamers-how-metas-new-cfo-susan-li-embraced-being-different/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-06 15:00:00+00:00
- - tags: None
 
 American Dreamers: How Meta’s New CFO, Susan Li, Embraced Being Different
 
@@ -124,7 +109,6 @@ American Dreamers: How Meta’s New CFO, Susan Li, Embraced Being Different
  - [https://www.forbes.com/sites/paultassi/2022/11/06/the-best-marvel-snap-cards-for-new-players-in-pool-1/](https://www.forbes.com/sites/paultassi/2022/11/06/the-best-marvel-snap-cards-for-new-players-in-pool-1/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-06 14:54:46+00:00
- - tags: None
 
 Here are the best Marvel Snap cards for new players in Pool 1.
 
@@ -132,7 +116,6 @@ Here are the best Marvel Snap cards for new players in Pool 1.
  - [https://www.forbes.com/sites/brucelee/2022/11/06/joe-rogan-backtracks-on-claims-about-school-having-litter-boxes-for-kids/](https://www.forbes.com/sites/brucelee/2022/11/06/joe-rogan-backtracks-on-claims-about-school-having-litter-boxes-for-kids/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-06 14:29:42+00:00
- - tags: None
 
 In an episode of his podcast this past week, Rogan admitted that “It doesn’t seem like there was any proof that they actually put the litter box in there.”
 
@@ -140,7 +123,6 @@ In an episode of his podcast this past week, Rogan admitted that “It doesn’t
  - [https://www.forbes.com/sites/paultassi/2022/11/06/report-diablo-4s-release-date-is-shockingly-close/](https://www.forbes.com/sites/paultassi/2022/11/06/report-diablo-4s-release-date-is-shockingly-close/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-06 14:28:41+00:00
- - tags: None
 
 Here's what is supposed to the Diablo 4 release date. It's soon than you think.
 
@@ -148,7 +130,6 @@ Here's what is supposed to the Diablo 4 release date. It's soon than you think.
  - [https://www.forbes.com/sites/traversmark/2022/11/06/a-psychologist-teaches-you-how-to-turn-self-doubt-into-career-rocket-fuel/](https://www.forbes.com/sites/traversmark/2022/11/06/a-psychologist-teaches-you-how-to-turn-self-doubt-into-career-rocket-fuel/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-06 13:35:41+00:00
- - tags: None
 
 A healthy dose of self-doubt can be a game-changer when it comes to advancing your career.
 
@@ -156,7 +137,6 @@ A healthy dose of self-doubt can be a game-changer when it comes to advancing yo
  - [https://www.forbes.com/sites/christinero/2022/11/06/the-world-is-falling-far-short-on-climate-adaptation-plans/](https://www.forbes.com/sites/christinero/2022/11/06/the-world-is-falling-far-short-on-climate-adaptation-plans/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-06 13:17:17+00:00
- - tags: None
 
 Compared to the current amounts, low- and middle-income countries need 5–10 times as much international finance to adapt to climate change.
 
@@ -164,7 +144,6 @@ Compared to the current amounts, low- and middle-income countries need 5–10 ti
  - [https://www.forbes.com/sites/johnbbrandon/2022/11/06/jack-dorsey-expresses-regret-over-elon-musks-massive-twitter-layoffs/](https://www.forbes.com/sites/johnbbrandon/2022/11/06/jack-dorsey-expresses-regret-over-elon-musks-massive-twitter-layoffs/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-06 13:07:12+00:00
- - tags: None
 
 What would have landed a little better, especially after looking through some of the Twitter comments, is an apology for the hype.
 
@@ -172,7 +151,6 @@ What would have landed a little better, especially after looking through some of
  - [https://www.forbes.com/sites/brucejapsen/2022/11/06/gop-faces-another-red-state-blow-in-tuesdays-south-dakota-medicaid-expansion-vote/](https://www.forbes.com/sites/brucejapsen/2022/11/06/gop-faces-another-red-state-blow-in-tuesdays-south-dakota-medicaid-expansion-vote/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-06 13:00:00+00:00
- - tags: None
 
 South Dakota voters Tuesday will decide whether to expand Medicaid via ballot initiative.
 
@@ -180,7 +158,6 @@ South Dakota voters Tuesday will decide whether to expand Medicaid via ballot in
  - [https://www.forbes.com/sites/joemckendrick/2022/11/06/all-remote-organizations-once-far-fetched-enter-the-mainstream/](https://www.forbes.com/sites/joemckendrick/2022/11/06/all-remote-organizations-once-far-fetched-enter-the-mainstream/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-06 12:00:00+00:00
- - tags: None
 
 Business leaders and experts across the board still have mixed feelings about the possibilities of all-remote organizations,
 
@@ -188,7 +165,6 @@ Business leaders and experts across the board still have mixed feelings about th
  - [https://www.forbes.com/sites/davidphelan/2022/11/06/apple-tv-4k-2022-review-faster-cheaper-better/](https://www.forbes.com/sites/davidphelan/2022/11/06/apple-tv-4k-2022-review-faster-cheaper-better/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-06 11:00:37+00:00
- - tags: None
 
 The latest streaming box from Apple is here. And it’s a doozy.
 
@@ -196,7 +172,6 @@ The latest streaming box from Apple is here. And it’s a doozy.
  - [https://www.forbes.com/sites/marksparrow/2022/11/06/the-beyerdynamic-xelento-wireless-earbuds-are-state-of-the-art/](https://www.forbes.com/sites/marksparrow/2022/11/06/the-beyerdynamic-xelento-wireless-earbuds-are-state-of-the-art/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-06 10:00:00+00:00
- - tags: None
 
 These high-end wireless IEMs from beyerdynamic have an exquisite sound but you'll need deep pockets to own a pair. If you have the cash to splash, these really are worth a listen.
 
@@ -204,7 +179,6 @@ These high-end wireless IEMs from beyerdynamic have an exquisite sound but you'l
  - [https://www.forbes.com/sites/katherinehignett/2022/11/06/british-nurses-vote-to-strike-over-pay-reports/](https://www.forbes.com/sites/katherinehignett/2022/11/06/british-nurses-vote-to-strike-over-pay-reports/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-06 08:26:08+00:00
- - tags: None
 
 This is one of several union ballots that could see hospital procedures cancelled across the country.
 
@@ -212,7 +186,6 @@ This is one of several union ballots that could see hospital procedures cancelle
  - [https://www.forbes.com/sites/krisholt/2022/11/06/todays-quordle-answers-and-clues-for-sunday-november-6/](https://www.forbes.com/sites/krisholt/2022/11/06/todays-quordle-answers-and-clues-for-sunday-november-6/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-06 05:22:51+00:00
- - tags: None
 
 Some hints and the solution for today's 'Quordle' are just ahead.
 
@@ -220,7 +193,6 @@ Some hints and the solution for today's 'Quordle' are just ahead.
  - [https://www.forbes.com/sites/krisholt/2022/11/06/todays-heardle-answer-and-clues-for-sunday-november-6/](https://www.forbes.com/sites/krisholt/2022/11/06/todays-heardle-answer-and-clues-for-sunday-november-6/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-06 05:10:58+00:00
- - tags: None
 
 Here's today's 'Heardle' song, along with some hints.
 
@@ -228,7 +200,6 @@ Here's today's 'Heardle' song, along with some hints.
  - [https://www.forbes.com/sites/erikkain/2022/11/05/todays-wordle-505-hint-clues-and-answer-for-sunday-november-6th/](https://www.forbes.com/sites/erikkain/2022/11/05/todays-wordle-505-hint-clues-and-answer-for-sunday-november-6th/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-06 03:01:40+00:00
- - tags: None
 
 How to solve today's Wordle.
 
@@ -236,7 +207,6 @@ How to solve today's Wordle.
  - [https://www.forbes.com/sites/jamiecartereurope/2022/11/05/your-last-minute-blood-moon-eclipse-2022-toolkit-see-and-photograph-the-election-day-eclipse/](https://www.forbes.com/sites/jamiecartereurope/2022/11/05/your-last-minute-blood-moon-eclipse-2022-toolkit-see-and-photograph-the-election-day-eclipse/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-06 03:00:00+00:00
- - tags: None
 
 A total lunar eclipse is coming to North America on Tuesday for the last time until 2025. Here’s everything you need to know to see it, photograph it and livestream it online.
 
@@ -244,6 +214,5 @@ A total lunar eclipse is coming to North America on Tuesday for the last time un
  - [https://www.forbes.com/sites/brucelee/2022/11/05/your-clitoris-may-have-more-nerve-endings-than-previously-realized-over-10000/](https://www.forbes.com/sites/brucelee/2022/11/05/your-clitoris-may-have-more-nerve-endings-than-previously-realized-over-10000/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-06 01:58:17+00:00
- - tags: None
 
 This number is well above and beyond the 8,000 that's long been circulated.

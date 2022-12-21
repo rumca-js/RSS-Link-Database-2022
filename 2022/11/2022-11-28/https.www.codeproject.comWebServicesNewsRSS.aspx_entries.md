@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## Elimination of programmers
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59633](https://www.codeproject.com/script/News/View.aspx?nwid=59633)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-28 05:00:00+00:00
- - tags: None
 
 "Exterminate! EXTERMINATE! EX-TER-MIN-ATE!"
 
@@ -12,7 +11,6 @@
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59639](https://www.codeproject.com/script/News/View.aspx?nwid=59639)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-28 05:00:00+00:00
- - tags: None
 
 Stop me if you've heard this one before
 
@@ -20,7 +18,6 @@ Stop me if you've heard this one before
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59634](https://www.codeproject.com/script/News/View.aspx?nwid=59634)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-28 05:00:00+00:00
- - tags: None
 
 I hear your documentation needs more code
 
@@ -28,7 +25,6 @@ I hear your documentation needs more code
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59636](https://www.codeproject.com/script/News/View.aspx?nwid=59636)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-28 05:00:00+00:00
- - tags: None
 
 And 60% of this headline is duplicate
 
@@ -36,7 +32,6 @@ And 60% of this headline is duplicate
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59640](https://www.codeproject.com/script/News/View.aspx?nwid=59640)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-28 05:00:00+00:00
- - tags: None
 
 Does the IDE also allow you to speak to fish?
 
@@ -44,7 +39,6 @@ Does the IDE also allow you to speak to fish?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59637](https://www.codeproject.com/script/News/View.aspx?nwid=59637)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-28 05:00:00+00:00
- - tags: None
 
 It's a little awkward to carry around with you though
 
@@ -52,7 +46,6 @@ It's a little awkward to carry around with you though
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59631](https://www.codeproject.com/script/News/View.aspx?nwid=59631)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-28 05:00:00+00:00
- - tags: None
 
 I read this on my smartphone
 
@@ -60,7 +53,6 @@ I read this on my smartphone
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59638](https://www.codeproject.com/script/News/View.aspx?nwid=59638)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-28 05:00:00+00:00
- - tags: None
 
 More or less
 
@@ -68,7 +60,6 @@ More or less
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59630](https://www.codeproject.com/script/News/View.aspx?nwid=59630)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-28 05:00:00+00:00
- - tags: None
 
 Acres of fun!
 
@@ -76,7 +67,6 @@ Acres of fun!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59635](https://www.codeproject.com/script/News/View.aspx?nwid=59635)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-28 05:00:00+00:00
- - tags: None
 
 For those that still write everything in Graffiti
 
@@ -84,6 +74,5 @@ For those that still write everything in Graffiti
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59632](https://www.codeproject.com/script/News/View.aspx?nwid=59632)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-28 05:00:00+00:00
- - tags: None
 
 Because you needed a new icon down there

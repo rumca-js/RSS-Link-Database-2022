@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## 7 foldable phone problems that haven’t been fixed yet
  - [https://www.androidauthority.com/foldable-phone-problems-not-fixed-3224899/](https://www.androidauthority.com/foldable-phone-problems-not-fixed-3224899/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-06 19:00:43+00:00
- - tags: None
 
 From the screen to pricing and more, here's what we want to see addressed.
 
@@ -12,7 +11,6 @@ From the screen to pricing and more, here's what we want to see addressed.
  - [https://www.androidauthority.com/google-pixel-tablet-smart-home-strategy-3222694/](https://www.androidauthority.com/google-pixel-tablet-smart-home-strategy-3222694/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-06 17:00:37+00:00
- - tags: None
 
 Google's decision to focus on everyday usability is the right choice for the Pixel Tablet.
 
@@ -20,7 +18,6 @@ Google's decision to focus on everyday usability is the right choice for the Pix
  - [https://www.androidauthority.com/pixel-7-pro-vs-iphone-14-pro-cinematic-video-3224690/](https://www.androidauthority.com/pixel-7-pro-vs-iphone-14-pro-cinematic-video-3224690/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-06 15:00:01+00:00
- - tags: None
 
 Rocking in and out of focus.
 
@@ -28,6 +25,5 @@ Rocking in and out of focus.
  - [https://www.androidauthority.com/marshall-monitor-ii-anc-3229633/](https://www.androidauthority.com/marshall-monitor-ii-anc-3229633/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-06 13:00:54+00:00
- - tags: None
 
 Superb comfort and unparalleled portability have won me over.

@@ -1,10 +1,9 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss
+# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
 
 ## China's Xi Jinping lectures Justin Trudeau over alleged leaks
  - [https://www.cnn.com/2022/11/16/asia/china-xi-jinping-canada-justin-trudeau-g20-intl/index.html](https://www.cnn.com/2022/11/16/asia/china-xi-jinping-canada-justin-trudeau-g20-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-16 22:03:45+00:00
- - tags: None
 
 Chinese leader Xi Jinping was captured by Canadian broadcasters in a rare candid moment on Wednesday, where he was filmed chiding his Canadian counterpart, Prime Minister Justin Trudeau, over what he described as "leaked" discussions.
 
@@ -12,7 +11,6 @@ Chinese leader Xi Jinping was captured by Canadian broadcasters in a rare candid
  - [https://www.cnn.com/2022/11/16/economy/recession-white-collar-workers/index.html](https://www.cnn.com/2022/11/16/economy/recession-white-collar-workers/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-16 20:46:02+00:00
- - tags: None
 
 White collar workers would be hit harder than blue collar workers if the United States enters a recession soon, according to one economist, who said businesses have undergone a dramatic restructuring after the pandemic.
 
@@ -20,7 +18,6 @@ White collar workers would be hit harder than blue collar workers if the United 
  - [https://www.cnn.com/2022/11/16/politics/biden-egypt-cambodia-indonesia-trip-takeaways/index.html](https://www.cnn.com/2022/11/16/politics/biden-egypt-cambodia-indonesia-trip-takeaways/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-16 20:14:51+00:00
- - tags: None
 
 President Joe Biden arrives in Washington on Wednesday evening after a whirlwind slate of summits across two different continents -- his largest opportunity yet to play diplomat-in-chief among other world leaders in a world reemerging from the Covid-19 pandemic.
 
@@ -28,7 +25,6 @@ President Joe Biden arrives in Washington on Wednesday evening after a whirlwind
  - [https://www.cnn.com/2022/11/16/world/ways-to-save-water-climate-environmental-benefits-wellness-scn-lbg/index.html](https://www.cnn.com/2022/11/16/world/ways-to-save-water-climate-environmental-benefits-wellness-scn-lbg/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-16 18:57:14+00:00
- - tags: None
 
 The reliability of our faucets providing water every time we turn them on can make water seem like a magical, never-ending resource.
 
@@ -36,7 +32,6 @@ The reliability of our faucets providing water every time we turn them on can ma
  - [https://www.cnn.com/2022/11/16/business/coffee-prices/index.html](https://www.cnn.com/2022/11/16/business/coffee-prices/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-16 16:14:24+00:00
- - tags: None
 
 Coffee futures are crashing. But that might not mean too much for the price of your cup of coffee.
 
@@ -44,7 +39,6 @@ Coffee futures are crashing. But that might not mean too much for the price of y
  - [https://www.cnn.com/2022/11/16/business/target-earnings-holiday-sales/index.html](https://www.cnn.com/2022/11/16/business/target-earnings-holiday-sales/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-16 12:47:52+00:00
- - tags: None
 
 Target's profit plunged 52% in the third quarter and the retailer warned of a sluggish holiday.
 
@@ -52,7 +46,6 @@ Target's profit plunged 52% in the third quarter and the retailer warned of a sl
  - [https://www.cnn.com/2022/11/16/business/thanksgiving-dinner-cost-inflation-2022/index.html](https://www.cnn.com/2022/11/16/business/thanksgiving-dinner-cost-inflation-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-16 10:44:30+00:00
- - tags: None
 
 Thanksgiving dinner will cost a whopping 20% more than it did last year, according to a new survey released Wednesday by the American Farm Bureau Federation.
 
@@ -60,7 +53,6 @@ Thanksgiving dinner will cost a whopping 20% more than it did last year, accordi
  - [https://www.cnn.com/2022/11/16/asia/g20-summit-day-2-russia-intl-hnk/index.html](https://www.cnn.com/2022/11/16/asia/g20-summit-day-2-russia-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-16 08:09:07+00:00
- - tags: None
 
 Russia's international isolation grew Wednesday, as world leaders sought to gain unanimous support in condemning its war in Ukraine that has killed thousands of people and roiled the global economy.
 
@@ -68,7 +60,6 @@ Russia's international isolation grew Wednesday, as world leaders sought to gain
  - [https://www.cnn.com/2022/11/16/politics/biden-diplomacy-mangroves/index.html](https://www.cnn.com/2022/11/16/politics/biden-diplomacy-mangroves/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-16 05:45:01+00:00
- - tags: None
 
 President Joe Biden capped off a consequential week of meetings with his foreign counterparts abroad -- in which discussions centered on Russia's ongoing war in Ukraine, climate change's existential threat to the Earth and a pandemic that has unleashed food, energy and economic crises across the globe -- with a final symbolic gesture in Bali.
 
@@ -76,7 +67,6 @@ President Joe Biden capped off a consequential week of meetings with his foreign
  - [https://www.cnn.com/2022/11/16/world/cop27-loss-and-damage-negotiations-climate-intl/index.html](https://www.cnn.com/2022/11/16/world/cop27-loss-and-damage-negotiations-climate-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-16 05:07:18+00:00
- - tags: None
 
 The past week has given the world a glimpse of what climate-vulnerable countries have long known: while rich countries bend over backwards to pledge their support for climate action, they are far less enthusiastic when it comes to forking over the cash.
 
@@ -84,6 +74,5 @@ The past week has given the world a glimpse of what climate-vulnerable countries
  - [https://www.cnn.com/2022/11/15/asia/pakistan-joyland-release-blocked-intl-hnk/index.html](https://www.cnn.com/2022/11/15/asia/pakistan-joyland-release-blocked-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-16 00:36:43+00:00
- - tags: None
 
 Pakistan's government has blocked the nationwide release of "Joyland," the first Pakistani movie shown at the Cannes Film Festival, just one week before it was due to hit theaters in the South Asian country.

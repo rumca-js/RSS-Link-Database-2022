@@ -1,10 +1,9 @@
-# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
+# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug, Source language: en-US
 
 ## A Chinese youth unveils overseas Chinese secret police stations/There are at least 54 worldwide
  - [https://www.youtube.com/watch?v=e8hX7z3onzk](https://www.youtube.com/watch?v=e8hX7z3onzk)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
  - date published: 2022-11-16 21:08:17+00:00
- - tags: None
 
 This young man, Wang Jingyu, is one of the targets of the Chinese Communist Party's overseas manhunt. In the hunt for him, the Chinese Communist Party CCP has used not only the police force in China but has activated its overseas police force. In China, the phone number to call the police is "110", so the CCP's overseas police are also known as the "Overseas 110 Agency".
 

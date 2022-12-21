@@ -1,10 +1,9 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml
+# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
 
 ## From Berlin to Paris, French PM Elisabeth Borne juggles crises
  - [https://www.lemonde.fr/en/politics/article/2022/11/27/from-berlin-to-paris-french-pm-elisabeth-borne-juggles-crises_6005769_5.html](https://www.lemonde.fr/en/politics/article/2022/11/27/from-berlin-to-paris-french-pm-elisabeth-borne-juggles-crises_6005769_5.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-26 23:52:18+00:00
- - tags: None
 
 On Friday, the prime minister signed a 'joint declaration on energy solidarity' with the German Chancellor. A few hours later, she faced a new vote of confidence motion tabled by the LFI group, before using for the sixth time Article 49.3 of the French constitution.
 
@@ -12,7 +11,6 @@ On Friday, the prime minister signed a 'joint declaration on energy solidarity' 
  - [https://www.lemonde.fr/en/international/article/2022/11/27/donald-trump-criticized-for-mar-a-lago-dinner-with-white-nationalist-and-antisemite_6005766_4.html](https://www.lemonde.fr/en/international/article/2022/11/27/donald-trump-criticized-for-mar-a-lago-dinner-with-white-nationalist-and-antisemite_6005766_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-26 23:39:51+00:00
- - tags: None
 
 The former president met on Tuesday with Kanye West, who made a series of antisemitic statements recently, as well as Holocaust-denying white nationalist Nick Fuentes. The meeting drew immediate criticism from critics as well as some supporters.
 
@@ -20,7 +18,6 @@ The former president met on Tuesday with Kanye West, who made a series of antise
  - [https://www.lemonde.fr/en/sports/article/2022/11/26/world-cup-messi-scores-as-argentina-defeat-mexico-2-0_6005759_9.html](https://www.lemonde.fr/en/sports/article/2022/11/26/world-cup-messi-scores-as-argentina-defeat-mexico-2-0_6005759_9.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-26 21:06:05+00:00
- - tags: None
 
 Lionel Messi helped keep Argentina's World Cup bid alive with the first goal in a 2-0 victory over Mexico on Saturday. Messi tied icon Diego Maradona on eight goals and 21 appearances at the World Cup for Argentina.
 
@@ -28,7 +25,6 @@ Lionel Messi helped keep Argentina's World Cup bid alive with the first goal in 
  - [https://www.lemonde.fr/en/international/article/2022/11/26/meet-the-jewish-antwerp-diamond-dealer-who-collects-anti-semitic-cartoons_6005757_4.html](https://www.lemonde.fr/en/international/article/2022/11/26/meet-the-jewish-antwerp-diamond-dealer-who-collects-anti-semitic-cartoons_6005757_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-26 19:00:09+00:00
- - tags: None
 
 Since 1962, this son of an Auschwitz survivor has been collecting drawings, books, posters, newspapers, paintings and objects, a selection of which can currently be seen in the Brussels offices of the European Commission.
 
@@ -36,7 +32,6 @@ Since 1962, this son of an Auschwitz survivor has been collecting drawings, book
  - [https://www.lemonde.fr/en/economy/article/2022/11/26/europe-is-struggling-to-find-a-response-to-us-anti-inflation-plan_6005749_19.html](https://www.lemonde.fr/en/economy/article/2022/11/26/europe-is-struggling-to-find-a-response-to-us-anti-inflation-plan_6005749_19.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-26 17:17:27+00:00
- - tags: None
 
 Faced with massive subsidies for green "made in America" products starting in January, European leaders fear that companies will favor the United States for their investments and production.
 
@@ -44,7 +39,6 @@ Faced with massive subsidies for green "made in America" products starting in Ja
  - [https://www.lemonde.fr/en/opinion/article/2022/11/26/do-we-have-to-lose-european-citizenship-to-understand-the-price-ask-britons-who-regret-brexit_6005748_23.html](https://www.lemonde.fr/en/opinion/article/2022/11/26/do-we-have-to-lose-european-citizenship-to-understand-the-price-ask-britons-who-regret-brexit_6005748_23.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-26 16:30:11+00:00
- - tags: None
 
 Many Britons have experienced Brexit as an amputation after leaving the EU took away their European citizenship. Now, those who can are applying for German or Irish passports.
 
@@ -52,7 +46,6 @@ Many Britons have experienced Brexit as an amputation after leaving the EU took 
  - [https://www.lemonde.fr/en/football/article/2022/11/26/varane-back-for-france-in-denmark-world-cup-clash_6005745_130.html](https://www.lemonde.fr/en/football/article/2022/11/26/varane-back-for-france-in-denmark-world-cup-clash_6005745_130.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-26 16:10:14+00:00
- - tags: None
 
 The center-back returns for France's match against Denmark at the 2022 World Cup in Qatar.
 
@@ -60,7 +53,6 @@ The center-back returns for France's match against Denmark at the 2022 World Cup
  - [https://www.lemonde.fr/en/international/article/2022/11/26/xinjiang-loosens-some-restrictions-after-anti-lockdown-protests_6005742_4.html](https://www.lemonde.fr/en/international/article/2022/11/26/xinjiang-loosens-some-restrictions-after-anti-lockdown-protests_6005742_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-26 15:47:41+00:00
- - tags: None
 
 Residents had been holding demonstrations against the city's draconian zero-Covid lockdown.
 
@@ -68,7 +60,6 @@ Residents had been holding demonstrations against the city's draconian zero-Covi
  - [https://www.lemonde.fr/en/culture/article/2022/11/26/she-said-a-return-to-the-roots-of-metoo_6005740_30.html](https://www.lemonde.fr/en/culture/article/2022/11/26/she-said-a-return-to-the-roots-of-metoo_6005740_30.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-26 15:30:01+00:00
- - tags: None
 
 Maria Schrader's film chronicles the 'New York Times' investigation that broke the Harvey Weinstein case in 2017.
 
@@ -76,7 +67,6 @@ Maria Schrader's film chronicles the 'New York Times' investigation that broke t
  - [https://www.lemonde.fr/en/football/article/2022/11/26/world-cup-2022-changing-how-stoppage-time-is-calculated-risks-breaking-up-the-game_6005738_130.html](https://www.lemonde.fr/en/football/article/2022/11/26/world-cup-2022-changing-how-stoppage-time-is-calculated-risks-breaking-up-the-game_6005738_130.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-26 15:13:18+00:00
- - tags: None
 
 FIFA has introduced new rules to establish the duration of stoppages in play, but the inflation of this play time could risk the uniqueness of the sport, according to sports journalist Jérôme Latta.
 
@@ -84,7 +74,6 @@ FIFA has introduced new rules to establish the duration of stoppages in play, bu
  - [https://www.lemonde.fr/en/obituaries/article/2022/11/26/fame-and-flashdance-singer-and-actress-irene-cara-dies-aged-63_6005734_15.html](https://www.lemonde.fr/en/obituaries/article/2022/11/26/fame-and-flashdance-singer-and-actress-irene-cara-dies-aged-63_6005734_15.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-26 14:52:11+00:00
- - tags: None
 
 The Oscar-winning singer passed away at her home in Florida on Friday, according to her publicist.
 
@@ -92,7 +81,6 @@ The Oscar-winning singer passed away at her home in Florida on Friday, according
  - [https://www.lemonde.fr/en/international/article/2022/11/26/taiwan-leader-tsai-resigns-as-ruling-party-chief-after-local-elections-loss_6005733_4.html](https://www.lemonde.fr/en/international/article/2022/11/26/taiwan-leader-tsai-resigns-as-ruling-party-chief-after-local-elections-loss_6005733_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-26 14:42:13+00:00
- - tags: None
 
 Voters in Taiwan overwhelmingly chose the opposition Nationalist party in several major races across the self-ruled island.
 
@@ -100,7 +88,6 @@ Voters in Taiwan overwhelmingly chose the opposition Nationalist party in severa
  - [https://www.lemonde.fr/en/culture/article/2022/11/26/bono-surrenders-on-intimate-book-tour-at-paris-grand-rex_6005732_30.html](https://www.lemonde.fr/en/culture/article/2022/11/26/bono-surrenders-on-intimate-book-tour-at-paris-grand-rex_6005732_30.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-26 14:37:11+00:00
- - tags: None
 
 The U2 frontman was open-hearted at the Grand Rex in Paris on Friday, on the European leg of his 'Stories of Surrender' tour.
 
@@ -108,7 +95,6 @@ The U2 frontman was open-hearted at the Grand Rex in Paris on Friday, on the Eur
  - [https://www.lemonde.fr/en/france/article/2022/11/26/french-investigative-site-mediapart-goes-to-court-to-denounce-censorship-defend-press-freedom_6005731_7.html](https://www.lemonde.fr/en/france/article/2022/11/26/french-investigative-site-mediapart-goes-to-court-to-denounce-censorship-defend-press-freedom_6005731_7.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-26 14:07:33+00:00
- - tags: None
 
 The site had been forced to halt publishing a new article on a French mayor, Gaël Perdriau, on the grounds that it would constitute an invasion of his privacy.
 
@@ -116,7 +102,6 @@ The site had been forced to halt publishing a new article on a French mayor, Ga�
  - [https://www.lemonde.fr/en/international/article/2022/11/26/landslide-leaves-up-to-a-dozen-missing-on-the-italian-island-ischia_6005728_4.html](https://www.lemonde.fr/en/international/article/2022/11/26/landslide-leaves-up-to-a-dozen-missing-on-the-italian-island-ischia_6005728_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-26 13:58:55+00:00
- - tags: None
 
 Deaths are feared after homes were swept away by a landslide triggered by heavy rain on the island of Ischia, near Naples.
 
@@ -124,7 +109,6 @@ Deaths are feared after homes were swept away by a landslide triggered by heavy 
  - [https://www.lemonde.fr/en/international/article/2022/11/26/report-finds-london-fire-brigade-is-institutionally-racist-and-misogynist_6005725_4.html](https://www.lemonde.fr/en/international/article/2022/11/26/report-finds-london-fire-brigade-is-institutionally-racist-and-misogynist_6005725_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-26 13:06:48+00:00
- - tags: None
 
 The report, which comes only one month after the UK's justice system was found to be 'racist,' found women, those from an ethnic minority, and LGBTQ+ people were more likely to experience 'poor treatment.'
 
@@ -132,7 +116,6 @@ The report, which comes only one month after the UK's justice system was found t
  - [https://www.lemonde.fr/en/sports/article/2022/11/26/australia-beats-tunisia-1-0-to-revive-its-world-cup-campaign_6005722_9.html](https://www.lemonde.fr/en/sports/article/2022/11/26/australia-beats-tunisia-1-0-to-revive-its-world-cup-campaign_6005722_9.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-26 12:42:37+00:00
- - tags: None
 
 Australia won a World Cup game for only the third time in their history with a dogged 1-0 victory over Tunisia.
 
@@ -140,7 +123,6 @@ Australia won a World Cup game for only the third time in their history with a d
  - [https://www.lemonde.fr/en/international/article/2022/11/26/a-wall-of-distrust-separates-the-english-from-their-politicians_6005719_4.html](https://www.lemonde.fr/en/international/article/2022/11/26/a-wall-of-distrust-separates-the-english-from-their-politicians_6005719_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-26 11:30:12+00:00
- - tags: None
 
 'The English malaise' (6/6): In this series, 'Le Monde' examines the deepening crisis that England is enduring, marked by political instability and a deteriorating social climate.
 
@@ -148,7 +130,6 @@ Australia won a World Cup game for only the third time in their history with a d
  - [https://www.lemonde.fr/en/politics/article/2022/11/26/mckinsey-affair-becomes-main-focus-of-macron-s-trip-marking-awareness-of-violence-against-women_6005715_5.html](https://www.lemonde.fr/en/politics/article/2022/11/26/mckinsey-affair-becomes-main-focus-of-macron-s-trip-marking-awareness-of-violence-against-women_6005715_5.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-26 11:14:42+00:00
- - tags: None
 
 Under a heavy atmosphere, the French president spoke about measures to help victims of domestic violence in France on the International Day of the Elimination of Violence against Women.
 
@@ -156,7 +137,6 @@ Under a heavy atmosphere, the French president spoke about measures to help vict
  - [https://www.lemonde.fr/en/politics/article/2022/11/26/i-wasn-t-elected-for-this-french-mayors-in-firing-line-as-violence-and-death-threats-on-the-rise_6005714_5.html](https://www.lemonde.fr/en/politics/article/2022/11/26/i-wasn-t-elected-for-this-french-mayors-in-firing-line-as-violence-and-death-threats-on-the-rise_6005714_5.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-26 11:00:09+00:00
- - tags: None
 
 The number of French elected officials who are victims of attacks is constantly increasing.
 
@@ -164,7 +144,6 @@ The number of French elected officials who are victims of attacks is constantly 
  - [https://www.lemonde.fr/en/opinion/article/2022/11/26/fifa-turning-a-blind-eye-to-qatar-issues_6005710_23.html](https://www.lemonde.fr/en/opinion/article/2022/11/26/fifa-turning-a-blind-eye-to-qatar-issues_6005710_23.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-26 10:38:29+00:00
- - tags: None
 
 One might have expected the Italian-Swiss Gianni Infantino, head of the football association since 2016, to invite Qatar to commit to initiatives to be more progressive. Instead, the opposite has happened.
 
@@ -172,7 +151,6 @@ One might have expected the Italian-Swiss Gianni Infantino, head of the football
  - [https://www.lemonde.fr/en/football/article/2022/11/26/world-cup-2022-the-elusive-art-of-didier-deschamps-public-speaking_6005707_130.html](https://www.lemonde.fr/en/football/article/2022/11/26/world-cup-2022-the-elusive-art-of-didier-deschamps-public-speaking_6005707_130.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-26 08:00:10+00:00
- - tags: None
 
 Between political cant and humor, the boss of  'Les Bleus', who are playing their second World Cup game on Saturday, answers questions with a consummate art of evasion.
 
@@ -180,7 +158,6 @@ Between political cant and humor, the boss of  'Les Bleus', who are playing thei
  - [https://www.lemonde.fr/en/culture/article/2022/11/26/english-design-maestro-william-morris-celebrated-in-french-exhibition_6005706_30.html](https://www.lemonde.fr/en/culture/article/2022/11/26/english-design-maestro-william-morris-celebrated-in-french-exhibition_6005706_30.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-26 07:00:09+00:00
- - tags: None
 
 This British figure was an acclaimed creator of wallpaper for Victorian houses, a designer of furniture, books and stained glass, a socialist activist and a writer.
 
@@ -188,7 +165,6 @@ This British figure was an acclaimed creator of wallpaper for Victorian houses, 
  - [https://www.lemonde.fr/en/cities/article/2022/11/26/relational-urbanism-or-how-to-reconcile-the-need-for-space-with-the-need-for-social-contact_6005705_87.html](https://www.lemonde.fr/en/cities/article/2022/11/26/relational-urbanism-or-how-to-reconcile-the-need-for-space-with-the-need-for-social-contact_6005705_87.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-26 05:30:15+00:00
- - tags: None
 
 Incorporating mental health into city planning is becoming a necessity. Including more green spaces and making public spaces more vibrant will help to create a "functional city" that combats loneliness and helps to forge social bonds.
 
@@ -196,7 +172,6 @@ Incorporating mental health into city planning is becoming a necessity. Includin
  - [https://www.lemonde.fr/en/le-monde-africa/article/2022/11/26/africa-s-moment-of-reckoning-with-france_6005698_124.html](https://www.lemonde.fr/en/le-monde-africa/article/2022/11/26/africa-s-moment-of-reckoning-with-france_6005698_124.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-26 04:30:11+00:00
- - tags: None
 
 The former colonial power is increasingly contested in the streets of the continent – a situation that benefits the interests of Russia.
 
@@ -204,7 +179,6 @@ The former colonial power is increasingly contested in the streets of the contin
  - [https://www.lemonde.fr/en/international/article/2022/11/26/the-war-in-ukraine-is-a-steamroller-that-crushes-other-crisis-situations-like-those-in-ethiopia-or-haiti_6005696_4.html](https://www.lemonde.fr/en/international/article/2022/11/26/the-war-in-ukraine-is-a-steamroller-that-crushes-other-crisis-situations-like-those-in-ethiopia-or-haiti_6005696_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-26 04:24:21+00:00
- - tags: None
 
 The Ethiopian conflict and the Haitian crisis are reduced to limited visibility, according to Jean-Philippe Rémy, head of 'Le Monde' international section, in his column.
 
@@ -212,7 +186,6 @@ The Ethiopian conflict and the Haitian crisis are reduced to limited visibility,
  - [https://www.lemonde.fr/en/les-decodeurs/article/2022/11/26/giorgia-meloni-s-exaggerations-about-france-s-colonial-currency_6005693_8.html](https://www.lemonde.fr/en/les-decodeurs/article/2022/11/26/giorgia-meloni-s-exaggerations-about-france-s-colonial-currency_6005693_8.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-26 04:00:10+00:00
- - tags: None
 
 In a video from 2019 that recently resurfaced on Twitter, the Italian Prime Minister accused France of using the CFA franc to 'exploit the resources' of African countries.
 
@@ -220,7 +193,6 @@ In a video from 2019 that recently resurfaced on Twitter, the Italian Prime Mini
  - [https://www.lemonde.fr/en/culture/article/2022/11/26/the-russian-anti-war-artists-who-have-found-exile-in-paris_6005689_30.html](https://www.lemonde.fr/en/culture/article/2022/11/26/the-russian-anti-war-artists-who-have-found-exile-in-paris_6005689_30.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-26 03:30:11+00:00
- - tags: None
 
 Forced into exile after Russia's invasion of Ukraine, producers, directors and artists are organizing the first delocalized version of a Moscow festival in central Paris at the Récollets residential center.
 
@@ -228,7 +200,6 @@ Forced into exile after Russia's invasion of Ukraine, producers, directors and a
  - [https://www.lemonde.fr/en/international/article/2022/11/26/three-killed-in-double-school-shootings-in-brazil_6005687_4.html](https://www.lemonde.fr/en/international/article/2022/11/26/three-killed-in-double-school-shootings-in-brazil_6005687_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-26 02:59:28+00:00
- - tags: None
 
 A 16-year-old opened fire on Friday in two schools in the city of Aracruz. President-elect Lula called the shootings an 'absurd tragedy.'
 
@@ -236,7 +207,6 @@ A 16-year-old opened fire on Friday in two schools in the city of Aracruz. Presi
  - [https://www.lemonde.fr/en/international/article/2022/11/26/vladimir-putin-s-highly-supervised-meeting-with-mothers-of-soldiers_6005684_4.html](https://www.lemonde.fr/en/international/article/2022/11/26/vladimir-putin-s-highly-supervised-meeting-with-mothers-of-soldiers_6005684_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-26 02:18:25+00:00
- - tags: None
 
 The Russian leader met with a select group of women, who refrained from giving any criticism. He hoped to ease the growing dissatisfaction of some wives and mothers.
 
@@ -244,7 +214,6 @@ The Russian leader met with a select group of women, who refrained from giving a
  - [https://www.lemonde.fr/en/international/article/2022/11/26/taiwan-s-long-standing-party-tries-to-stay-relevant_6005681_4.html](https://www.lemonde.fr/en/international/article/2022/11/26/taiwan-s-long-standing-party-tries-to-stay-relevant_6005681_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-26 01:35:32+00:00
- - tags: None
 
 The Kuomintang party is attempting to reinvent itself in the local elections on November 26, without changing its position in relation to China.
 
@@ -252,7 +221,6 @@ The Kuomintang party is attempting to reinvent itself in the local elections on 
  - [https://www.lemonde.fr/en/international/article/2022/11/26/london-fire-brigade-taking-immediate-action-after-a-report-concluded-it-was-misogynistic-and-racist_6005679_4.html](https://www.lemonde.fr/en/international/article/2022/11/26/london-fire-brigade-taking-immediate-action-after-a-report-concluded-it-was-misogynistic-and-racist_6005679_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-26 00:23:45+00:00
- - tags: None
 
 An independent review, launched in March last year, was conducted following the death by suicide of a trainee firefighter.
 
@@ -260,6 +228,5 @@ An independent review, launched in March last year, was conducted following the 
  - [https://www.lemonde.fr/en/international/article/2022/11/26/honduras-declares-state-of-emergency-against-gang-crime_6005677_4.html](https://www.lemonde.fr/en/international/article/2022/11/26/honduras-declares-state-of-emergency-against-gang-crime_6005677_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-26 00:01:28+00:00
- - tags: None
 
 It is the second country in Central America, after El Salvador, to do so to fight crimes like extortion. The measure must still be approved by Congress.

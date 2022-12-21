@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## Cyber Monday deal 2022: $300 off the Samsung Galaxy S21 FE 5G
  - [https://www.zdnet.com/article/cyber-monday-deal-2022-300-off-the-samsung-galaxy-s21-fe-5g/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-deal-2022-300-off-the-samsung-galaxy-s21-fe-5g/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 23:02:00+00:00
- - tags: None
 
 In this Cyber Monday deal 2022, save $300 on the Samsung Galaxy S21 FE 5G. Don't miss the sale on this  6.4-inch, 6GB beauty of a phone.
 
@@ -12,7 +11,6 @@ In this Cyber Monday deal 2022, save $300 on the Samsung Galaxy S21 FE 5G. Don't
  - [https://www.zdnet.com/article/save-180-on-the-11-inch-ipad-pro-256gb-at-best-buy-cyber-monday-deal-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/save-180-on-the-11-inch-ipad-pro-256gb-at-best-buy-cyber-monday-deal-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 22:50:00+00:00
- - tags: None
 
 Even with Cyber Monday deals 2022 nearing the end, you can still snag a great last-minute deal on the 11-inch iPad Pro 256GB at Best Buy.
 
@@ -20,7 +18,6 @@ Even with Cyber Monday deals 2022 nearing the end, you can still snag a great la
  - [https://www.zdnet.com/article/apple-macbook-air-laptop-2022-m2-chip-cyber-monday-deals-2022-lowest-prices-ever/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-macbook-air-laptop-2022-m2-chip-cyber-monday-deals-2022-lowest-prices-ever/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 22:44:00+00:00
- - tags: None
 
 Looking to upgrade your MacBook? The Cyber Monday deals on the M2-powered 2022 Apple MacBook Air see this amazing laptop hitting its lowest price ever.
 
@@ -28,7 +25,6 @@ Looking to upgrade your MacBook? The Cyber Monday deals on the M2-powered 2022 A
  - [https://www.zdnet.com/home-and-office/home-entertainment/cyber-monday-gaming-deals-november-28-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/cyber-monday-gaming-deals-november-28-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 22:32:00+00:00
- - tags: None
 
 Get a jump on your Christmas list with these awesome Cyber Monday 2022 deals on gaming laptops, consoles, and accessories. Retailers like Amazon, Best Buy, and Target have huge discounts on everything you need to create the ultimate gaming space.
 
@@ -36,7 +32,6 @@ Get a jump on your Christmas list with these awesome Cyber Monday 2022 deals on 
  - [https://www.zdnet.com/home-and-office/home-entertainment/tv-cyber-monday-deals-november-28-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/tv-cyber-monday-deals-november-28-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 22:25:00+00:00
- - tags: None
 
 Whether you're buying your first TV or upgrading your home theater, these awesome Black Friday and Cyber Monday TV deals make it more affordable than ever. Brands like Samsung, Sony, LG, and TCL have great discounts on already budget-friendly models, as well as high-end TVs for shoppers looking for premium features like OLED panels and virtual surround sound.
 
@@ -44,7 +39,6 @@ Whether you're buying your first TV or upgrading your home theater, these awesom
  - [https://www.zdnet.com/article/cyber-monday-deals-november-28-2022-live/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-deals-november-28-2022-live/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 21:55:00+00:00
- - tags: None
 
 Cyber Monday deals are here, with internet retailers offering all-time lows on the year's hottest tech, including TVs, laptops, tablets, and more. ZDNET is surfacing the latest and best sales online in real time for you to check out now.
 
@@ -52,7 +46,6 @@ Cyber Monday deals are here, with internet retailers offering all-time lows on t
  - [https://www.zdnet.com/article/cyber-monday-deal-elephant-card-iphone-webcam-mount-sale-coupon-code/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-deal-elephant-card-iphone-webcam-mount-sale-coupon-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 20:29:00+00:00
- - tags: None
 
 Thanks to Continuity Camera, we now have an $8 iPhone mount called 'Elephant Card' that turns your best pocket camera into a MacBook webcam.
 
@@ -60,7 +53,6 @@ Thanks to Continuity Camera, we now have an $8 iPhone mount called 'Elephant Car
  - [https://www.zdnet.com/article/bluestar-linux-makes-arch-linux-easy-and-beautiful/#ftag=RSSbaffb68](https://www.zdnet.com/article/bluestar-linux-makes-arch-linux-easy-and-beautiful/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 20:17:00+00:00
- - tags: None
 
 Here's an introduction to an Arch-based Linux distribution that can be enjoyed by users of all skill levels.
 
@@ -68,7 +60,6 @@ Here's an introduction to an Arch-based Linux distribution that can be enjoyed b
  - [https://www.zdnet.com/article/cyber-monday-ipad-pro-deal-2022-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-ipad-pro-deal-2022-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 20:04:00+00:00
- - tags: None
 
 During this year's Black Friday and Cyber Monday sale, you can save $400 on the 2021 12.9-inch iPad Pro with the M1 chip at Best Buy.
 
@@ -76,7 +67,6 @@ During this year's Black Friday and Cyber Monday sale, you can save $400 on the 
  - [https://www.zdnet.com/article/cyber-monday-airpods-deal-2022-airpods-pro-2-wireless-earbuds-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-airpods-deal-2022-airpods-pro-2-wireless-earbuds-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 19:55:00+00:00
- - tags: None
 
 Shut out the background noise with these noise-canceling Apple AirPods Pro 2 for $50 off during Cyber Monday 2022.
 
@@ -84,7 +74,6 @@ Shut out the background noise with these noise-canceling Apple AirPods Pro 2 for
  - [https://www.zdnet.com/article/cyber-monday-tablet-deal-2022-snag-samsung-galaxy-tab-a7/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-tablet-deal-2022-snag-samsung-galaxy-tab-a7/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 19:48:00+00:00
- - tags: None
 
 It won't replace your MacBook or spec 'd-out PC rig, but for less than $100, this Samsung Galaxy Tab A7 Lite deal is hard to pass on.
 
@@ -92,7 +81,6 @@ It won't replace your MacBook or spec 'd-out PC rig, but for less than $100, thi
  - [https://www.zdnet.com/article/what-is-amazon-business-and-how-does-it-work/#ftag=RSSbaffb68](https://www.zdnet.com/article/what-is-amazon-business-and-how-does-it-work/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 19:42:00+00:00
- - tags: None
 
 Amazon Business has the same look and feel of the original Amazon storefront, but is tailored to serve businesses. What exactly does that mean, and is it worth making an account?
 
@@ -100,7 +88,6 @@ Amazon Business has the same look and feel of the original Amazon storefront, bu
  - [https://www.zdnet.com/article/cyber-monday-deal-seagate-ps5-external-hard-drive-sale-coupon-code/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-deal-seagate-ps5-external-hard-drive-sale-coupon-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 19:41:00+00:00
- - tags: None
 
 Best Buy has Cyber Monday deals on Seagate external hard drives that PS5 owners will love, including a limited edition drive inspired by Horizon Forbidden West.
 
@@ -108,7 +95,6 @@ Best Buy has Cyber Monday deals on Seagate external hard drives that PS5 owners 
  - [https://www.zdnet.com/article/best-cyber-monday-deals-november-28-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-cyber-monday-deals-november-28-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 19:34:00+00:00
- - tags: None
 
 Black Friday is over and Cyber Monday is tomorrow, so the best deals are already here. Check out our pick of the best early Cyber Monday tech deals to score savings on laptops, earbuds, and more.
 
@@ -116,7 +102,6 @@ Black Friday is over and Cyber Monday is tomorrow, so the best deals are already
  - [https://www.zdnet.com/home-and-office/home-entertainment/find-the-elusive-nintendo-switch-lite-on-cyber-monday-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/find-the-elusive-nintendo-switch-lite-on-cyber-monday-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 19:18:54+00:00
- - tags: None
 
 Nintendo is notorious for being ungenerous with gaming console deals and it's no surprise: The Switch Lite console is running out everywhere you look. We've gathered the best places to find a Nintendo Switch Lite this Cyber Monday 2022.
 
@@ -124,7 +109,6 @@ Nintendo is notorious for being ungenerous with gaming console deals and it's no
  - [https://www.zdnet.com/article/cyber-monday-apple-deal-2022-apple-pencil-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-apple-deal-2022-apple-pencil-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 19:01:00+00:00
- - tags: None
 
 During this year's Cyber Monday sale, you can save $40 on the latest Apple Pencil for your iPad Pro or iPad Air.
 
@@ -132,7 +116,6 @@ During this year's Cyber Monday sale, you can save $40 on the latest Apple Penci
  - [https://www.zdnet.com/article/cyber-monday-fitness-tracker-deal-2022-amazon-halo-band-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-fitness-tracker-deal-2022-amazon-halo-band-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 18:58:00+00:00
- - tags: None
 
 If one of your goals for 2023 is to take more control of your health, the Amazon Halo band is a subtle tool that can be a big motivator. From tracking your steps to your sleep, you can monitor your progress for only $35.
 
@@ -140,7 +123,6 @@ If one of your goals for 2023 is to take more control of your health, the Amazon
  - [https://www.zdnet.com/home-and-office/kitchen-household/cyber-monday-deal-2022-ninja-airfryer-xl-sale/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/kitchen-household/cyber-monday-deal-2022-ninja-airfryer-xl-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 17:31:00+00:00
- - tags: None
 
 With holiday cooking being just around the corner, an air fryer can come in especially handy. During this year's Cyber Monday 2022 sale, you can save $60 on the Ninja AF150AMZ Air Fryer XL. That's 38% off.
 
@@ -148,7 +130,6 @@ With holiday cooking being just around the corner, an air fryer can come in espe
  - [https://www.zdnet.com/article/cyber-monday-smartwatch-deal-2022-google-pixel-watch-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-smartwatch-deal-2022-google-pixel-watch-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 17:30:00+00:00
- - tags: None
 
 The Pixel Watch only came out last month, and today only you can get the new Google smartwatch for $300.
 
@@ -156,7 +137,6 @@ The Pixel Watch only came out last month, and today only you can get the new Goo
  - [https://www.zdnet.com/article/cyber-monday-headphones-deal-2022-beats-studio-buds-noise-canceling-earbuds/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-headphones-deal-2022-beats-studio-buds-noise-canceling-earbuds/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 17:19:00+00:00
- - tags: None
 
 Beats Studio Buds Noise Canceling Earbuds are 40% off at Best Buy for Cyber Monday 2022. But the sale ends today.
 
@@ -164,7 +144,6 @@ Beats Studio Buds Noise Canceling Earbuds are 40% off at Best Buy for Cyber Mond
  - [https://www.zdnet.com/article/cyber-monday-drone-deals-2022-drone-accessories-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-drone-deals-2022-drone-accessories-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 17:09:00+00:00
- - tags: None
 
 Save $90 on a DJI drone, or get up to 65% off drone accessories during Cyber Monday 2022.
 
@@ -172,7 +151,6 @@ Save $90 on a DJI drone, or get up to 65% off drone accessories during Cyber Mon
  - [https://www.zdnet.com/article/cyber-monday-laptop-deals-2022-under-1000/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-laptop-deals-2022-under-1000/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 16:54:00+00:00
- - tags: None
 
 You can't miss out on these Cyber Monday 2022 laptop deals. The Dell Latitude 7420 business laptop benefits from savings of over $1,300, bringing its price down to $889. Costco and Amazon have deals on MacBooks and LG laptops.
 
@@ -180,7 +158,6 @@ You can't miss out on these Cyber Monday 2022 laptop deals. The Dell Latitude 74
  - [https://www.zdnet.com/home-and-office/energy/jackery-cyber-monday-deals-2022-power-station-sale/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/energy/jackery-cyber-monday-deals-2022-power-station-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 16:41:28+00:00
- - tags: None
 
 Power stations are the perfect off-grid or blackout power source. Get up to 40% off Jackery power stations and solar panels.
 
@@ -188,7 +165,6 @@ Power stations are the perfect off-grid or blackout power source. Get up to 40% 
  - [https://www.zdnet.com/article/cyber-monday-laptop-deal-2022-lg-gram-17-laptop-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-laptop-deal-2022-lg-gram-17-laptop-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 16:38:00+00:00
- - tags: None
 
 If you need a 17-inch laptop you normally have to sacrifice some portability, but that's not the case with the LG Gram 17, which you can get for 19% off.
 
@@ -196,7 +172,6 @@ If you need a 17-inch laptop you normally have to sacrifice some portability, bu
  - [https://www.zdnet.com/article/how-to-create-and-manage-windows-accounts-for-your-family/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-create-and-manage-windows-accounts-for-your-family/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 15:50:27+00:00
- - tags: None
 
 Need to set up access to Windows for other people in your household? Here's how to give them their own dedicated accounts.
 
@@ -204,7 +179,6 @@ Need to set up access to Windows for other people in your household? Here's how 
  - [https://www.zdnet.com/article/four-day-working-week-gains-momentum-as-more-firms-sign-up/#ftag=RSSbaffb68](https://www.zdnet.com/article/four-day-working-week-gains-momentum-as-more-firms-sign-up/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 15:41:45+00:00
- - tags: None
 
 More businesses have signed up to the campaign to make the four-day working week - for the same pay as a five-day week - the new norm.
 
@@ -212,7 +186,6 @@ More businesses have signed up to the campaign to make the four-day working week
  - [https://www.zdnet.com/article/cloud-computing-dont-make-these-10-mistakes/#ftag=RSSbaffb68](https://www.zdnet.com/article/cloud-computing-dont-make-these-10-mistakes/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 15:12:27+00:00
- - tags: None
 
 Here are ten things you should avoid when developing a plan for cloud computing.
 
@@ -220,7 +193,6 @@ Here are ten things you should avoid when developing a plan for cloud computing.
  - [https://www.zdnet.com/article/cyber-monday-deal-anker-737-portable-power-bank-sale-coupon-code/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-deal-anker-737-portable-power-bank-sale-coupon-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 14:54:00+00:00
- - tags: None
 
 This Cyber Monday, you can save $50 on an excellent power bank at Amazon.
 
@@ -228,7 +200,6 @@ This Cyber Monday, you can save $50 on an excellent power bank at Amazon.
  - [https://www.zdnet.com/home-and-office/cyber-monday-kindle-deal-sale-coupon-code/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/cyber-monday-kindle-deal-sale-coupon-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 14:38:00+00:00
- - tags: None
 
 Amazon's latest Kindle is on sale during Cyber Monday.
 
@@ -236,7 +207,6 @@ Amazon's latest Kindle is on sale during Cyber Monday.
  - [https://www.zdnet.com/article/walmart-cyber-monday-deals-november-28-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/walmart-cyber-monday-deals-november-28-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 14:25:00+00:00
- - tags: None
 
 Walmart has launched great tech deals for Cyber Monday. You can still save big on the best tech gifts this holiday season, including TVs, laptops, headphones, tablets, and more.
 
@@ -244,7 +214,6 @@ Walmart has launched great tech deals for Cyber Monday. You can still save big o
  - [https://www.zdnet.com/article/cyber-monday-laptop-deal-save-450-on-this-13-inch-samsung-galaxy-book2-360/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-laptop-deal-save-450-on-this-13-inch-samsung-galaxy-book2-360/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 13:32:54+00:00
- - tags: None
 
 Get a big Cyber Monday discount on this excellent 2-in-1 convertible laptop from Samsung.
 
@@ -252,7 +221,6 @@ Get a big Cyber Monday discount on this excellent 2-in-1 convertible laptop from
  - [https://www.zdnet.com/article/artemis-i-mission-orion-spaceship-just-passed-another-milestone/#ftag=RSSbaffb68](https://www.zdnet.com/article/artemis-i-mission-orion-spaceship-just-passed-another-milestone/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 13:01:42+00:00
- - tags: None
 
 While Orion doesn't have a human crew, its odd assortment of passengers just witnessed it setting another record.
 
@@ -260,7 +228,6 @@ While Orion doesn't have a human crew, its odd assortment of passengers just wit
  - [https://www.zdnet.com/article/lgs-big-screen-lightweight-lg-gram-17-laptop-is-400-off-for-cyber-monday/#ftag=RSSbaffb68](https://www.zdnet.com/article/lgs-big-screen-lightweight-lg-gram-17-laptop-is-400-off-for-cyber-monday/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 12:12:32+00:00
- - tags: None
 
 If you need a 17-inch laptop you normally have to sacrifice some portability, but that's not the case with the LG Gram 17, which you can get for 19% off.
 
@@ -268,7 +235,6 @@ If you need a 17-inch laptop you normally have to sacrifice some portability, bu
  - [https://www.zdnet.com/home-and-office/2022-kindle-e-reader-just-dropped-deal-sale-coupon-code/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/2022-kindle-e-reader-just-dropped-deal-sale-coupon-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 11:12:37+00:00
- - tags: None
 
 Amazon's latest Kindle is on sale during Cyber Monday.
 
@@ -276,7 +242,6 @@ Amazon's latest Kindle is on sale during Cyber Monday.
  - [https://www.zdnet.com/article/cyber-monday-chromebook-deals-november-28-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-chromebook-deals-november-28-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 09:53:00+00:00
- - tags: None
 
 Cyber Monday deals: Chromebooks are perfect for everything -- from classroom work and web browsing to streaming movies and working on the go. Here are the top Chromebook deals we could find for Black Friday and Cyber Monday.
 
@@ -284,7 +249,6 @@ Cyber Monday deals: Chromebooks are perfect for everything -- from classroom wor
  - [https://www.zdnet.com/article/australia-beefs-up-scrutiny-of-medibank-following-data-breach/#ftag=RSSbaffb68](https://www.zdnet.com/article/australia-beefs-up-scrutiny-of-medibank-following-data-breach/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 08:44:56+00:00
- - tags: None
 
 Financial services regulator says it has "intensified" its supervision of Medibank following a data breach that impacted 9.7 million customers and believed to be the work of Russian hackers.
 
@@ -292,7 +256,6 @@ Financial services regulator says it has "intensified" its supervision of Mediba
  - [https://www.zdnet.com/article/cyber-monday-deals-live-november-28-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-deals-live-november-28-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 05:47:00+00:00
- - tags: None
 
 Did you miss out on Black Friday 2022? No problem: Cyber Monday deals are here, with internet retailers offering their lowest prices of the year. ZDNET is surfacing the latest and best sales online in real time for you to check out now.
 
@@ -300,7 +263,6 @@ Did you miss out on Black Friday 2022? No problem: Cyber Monday deals are here, 
  - [https://www.zdnet.com/home-and-office/cyber-monday-deals-under-30-november-28-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/cyber-monday-deals-under-30-november-28-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 05:39:00+00:00
- - tags: None
 
 These Cyber Monday deals under $30 include super affordable tech gifts perfect for anyone on your list this holiday season.
 
@@ -308,7 +270,6 @@ These Cyber Monday deals under $30 include super affordable tech gifts perfect f
  - [https://www.zdnet.com/article/best-buy-cyber-monday-deals-november-28-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-buy-cyber-monday-deals-november-28-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 05:37:00+00:00
- - tags: None
 
 The big box store is one of the best places to score great deals on tech. You can start shopping Cyber Monday right now with great deals in Best Buy's catalog.
 
@@ -316,7 +277,6 @@ The big box store is one of the best places to score great deals on tech. You ca
  - [https://www.zdnet.com/article/cyber-monday-apple-watch-deals-november-28-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-apple-watch-deals-november-28-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 05:36:00+00:00
- - tags: None
 
 Some great Apple Watch deals landed for Black Friday, and now we're seeing those turn into early Cyber Monday deals. New ones are popping up, as well. We're rounding them all up here and will keep this page maintained throughout November.
 
@@ -324,7 +284,6 @@ Some great Apple Watch deals landed for Black Friday, and now we're seeing those
  - [https://www.zdnet.com/home-and-office/target-cyber-monday-deals-november-28-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/target-cyber-monday-deals-november-28-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 05:34:00+00:00
- - tags: None
 
 These are the best early Cyber Monday discounts Target has to offer on tech. Make sure to check back later, as we'll be updating the list again on Cyber Monday.
 
@@ -332,7 +291,6 @@ These are the best early Cyber Monday discounts Target has to offer on tech. Mak
  - [https://www.zdnet.com/article/cyber-monday-storage-ssd-deals-november-28-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-storage-ssd-deals-november-28-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 05:33:00+00:00
- - tags: None
 
 ZDNET has rounded up its top picks for Black Friday and early Cyber Monday 2022 storage and SSD deals, from retailers and manufacturers, and you can still save.
 
@@ -340,7 +298,6 @@ ZDNET has rounded up its top picks for Black Friday and early Cyber Monday 2022 
  - [https://www.zdnet.com/article/cyber-monday-smartwatch-deals-november-28-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-smartwatch-deals-november-28-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 05:30:00+00:00
- - tags: None
 
 These days, you can get access to thousands of deals online from the comfort of your own home this holiday season. Though Black Friday is over, Cyber Monday is here and there are deals on seemingly everything.
 
@@ -348,7 +305,6 @@ These days, you can get access to thousands of deals online from the comfort of 
  - [https://www.zdnet.com/home-and-office/smart-home/cyber-monday-security-camera-deals-november-28-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/cyber-monday-security-camera-deals-november-28-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 05:29:00+00:00
- - tags: None
 
 Looking for some extra peace of mind at home but don't want to pay full price? If you missed Black Friday 2022, you can still save on security cameras with the best deals available right now all the way through Cyber Monday 2022.
 
@@ -356,7 +312,6 @@ Looking for some extra peace of mind at home but don't want to pay full price? I
  - [https://www.zdnet.com/article/newegg-cyber-monday-deals-november-28-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/newegg-cyber-monday-deals-november-28-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 05:28:00+00:00
- - tags: None
 
 As a Black Friday and Cyber Monday staple, Newegg is offering loads of deals on everything from sound systems to gaming PCs that you can shop from today.
 
@@ -364,7 +319,6 @@ As a Black Friday and Cyber Monday staple, Newegg is offering loads of deals on 
  - [https://www.zdnet.com/article/hp-cyber-monday-deals-november-28-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/hp-cyber-monday-deals-november-28-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 05:27:00+00:00
- - tags: None
 
 HP is known as one of the biggest PC makers out there, but the company also produces great monitors, printers, and accessories. Let's take a look at what deals are available for its products during this year's annual sales extravaganza from Black Friday to early Cyber Monday.
 
@@ -372,7 +326,6 @@ HP is known as one of the biggest PC makers out there, but the company also prod
  - [https://www.zdnet.com/article/verizon-cyber-monday-deals-november-28-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/verizon-cyber-monday-deals-november-28-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 05:26:00+00:00
- - tags: None
 
 Black Friday and Cyber Monday deal alart: New and existing Verizon customers can still upgrade to a 5G smartphone like the iPhone 12 mini, the Google Pixel 6, or the Samsung Galaxy S20 and get three free gifts: A free smartwatch, tablet, and earbuds.
 
@@ -380,7 +333,6 @@ Black Friday and Cyber Monday deal alart: New and existing Verizon customers can
  - [https://www.zdnet.com/home-and-office/home-entertainment/cyber-monday-streaming-deals-november-28-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/cyber-monday-streaming-deals-november-28-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 05:23:00+00:00
- - tags: None
 
 After some great deals from Black Friday, here are some Cyber Monday streaming deals: Save on memberships, streaming devices, smart TVs, projectors, and more this holiday season. Upgrade your entertainment options on a budget.
 
@@ -388,7 +340,6 @@ After some great deals from Black Friday, here are some Cyber Monday streaming d
  - [https://www.zdnet.com/article/dell-cyber-monday-deals-november-28-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/dell-cyber-monday-deals-november-28-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 05:22:00+00:00
- - tags: None
 
 Dell Cyber Monday deals: Get the Dell Latitude 5520 laptop for $1,090 (save $1,648) or the Dell XPS 13 Plus for $1,400 (save $500) with free two-day delivery on your purchase. Black Friday may be over, but Dell deals are going strong.
 
@@ -396,7 +347,6 @@ Dell Cyber Monday deals: Get the Dell Latitude 5520 laptop for $1,090 (save $1,6
  - [https://www.zdnet.com/article/cyber-monday-ipad-deals-november-28-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-ipad-deals-november-28-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 05:21:00+00:00
- - tags: None
 
 Apple notoriously rarely has deals or sales, but some iPad models are still discounted by hundreds of dollars for Black Friday weekend. These are the best early Cyber Monday iPad deals.
 
@@ -404,7 +354,6 @@ Apple notoriously rarely has deals or sales, but some iPad models are still disc
  - [https://www.zdnet.com/home-and-office/costco-cyber-monday-deals-november-28-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/costco-cyber-monday-deals-november-28-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 05:19:00+00:00
- - tags: None
 
 Costco doesn't disappoint when it comes to savings, and it continues the tradition with Cyber Monday just around the corner. ZDNET will keep finding the best early deals available through Cyber Monday 2022.
 
@@ -412,7 +361,6 @@ Costco doesn't disappoint when it comes to savings, and it continues the traditi
  - [https://www.zdnet.com/article/cyber-monday-tablet-deals-november-28-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-tablet-deals-november-28-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 05:12:00+00:00
- - tags: None
 
 Looking for a tablet? The best tablets from brands like Apple and Samsung are on sale. Here are the best Cyber Monday tablet deals that we could find.
 
@@ -420,7 +368,6 @@ Looking for a tablet? The best tablets from brands like Apple and Samsung are on
  - [https://www.zdnet.com/article/samsung-cyber-monday-deals-november-28-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/samsung-cyber-monday-deals-november-28-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 04:56:00+00:00
- - tags: None
 
 Calling all Samsung fans! Let this Cyber Monday deals hub serve as your home ground for the latest and best savings on Samsung Galaxy smartphones, wearables, TVs, appliances, and more. Here are the best Samsung Black Friday and Cyber Monday sales now.
 
@@ -428,7 +375,6 @@ Calling all Samsung fans! Let this Cyber Monday deals hub serve as your home gro
  - [https://www.zdnet.com/article/cyber-monday-smartphone-deals-november-28-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-smartphone-deals-november-28-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 04:54:00+00:00
- - tags: None
 
 With Black Friday nearing its end and Cyber Monday on the horizon, there's never been a better time to upgrade your everyday smartphone companion. These are the best deals on iPhones, Androids, and more across major retailers.
 
@@ -436,7 +382,6 @@ With Black Friday nearing its end and Cyber Monday on the horizon, there's never
  - [https://www.zdnet.com/home-and-office/cyber-monday-robot-vacuum-deals-november-28-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/cyber-monday-robot-vacuum-deals-november-28-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 04:53:00+00:00
- - tags: None
 
 Cyber Monday is tomorrow, but today you can already save hundreds on a robot vacuum with these great deals.
 
@@ -444,7 +389,6 @@ Cyber Monday is tomorrow, but today you can already save hundreds on a robot vac
  - [https://www.zdnet.com/home-and-office/cyber-monday-monitor-deals-november-28-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/cyber-monday-monitor-deals-november-28-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 04:51:00+00:00
- - tags: None
 
 Your monitor is the main point of communication between you and your PC, so it's important that you're using a good-quality display with a size and spec sheet that suit your needs and your budget. With that in mind, here are the best early Cyber Monday monitor deals after we saw some great Black Friday deals.
 
@@ -452,7 +396,6 @@ Your monitor is the main point of communication between you and your PC, so it's
  - [https://www.zdnet.com/article/cyber-monday-laptop-deals-november-28-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-laptop-deals-november-28-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 04:49:00+00:00
- - tags: None
 
 ZDNET has rounded up its top picks for Cyber Monday laptop deals. We've included Windows laptops from Dell, Lenovo and HP, as well as MacBooks, large-screen laptops, 2-in-1s and Chromebooks.
 
@@ -460,7 +403,6 @@ ZDNET has rounded up its top picks for Cyber Monday laptop deals. We've included
  - [https://www.zdnet.com/article/cyber-monday-headphone-deals-november-28-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-headphone-deals-november-28-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 04:47:00+00:00
- - tags: None
 
 Everyone deserves a new pair of headphones for the holidays -- especially if they're at half the price. After we saw some great Black Friday deals, let's check out the best early Cyber Monday deals on headphones and wireless earbuds below.
 
@@ -468,7 +410,6 @@ Everyone deserves a new pair of headphones for the holidays -- especially if the
  - [https://www.zdnet.com/article/airpods-cyber-monday-deals-november-28-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/airpods-cyber-monday-deals-november-28-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 04:45:00+00:00
- - tags: None
 
 AirPods are on everyone's wishlist. The buds that rarely go on sale are about to spread holiday cheer through both their crystal-clear sound quality and their amazing prices. Here are the best AirPods Black Friday and Cyber Deals deals we could find.
 
@@ -476,7 +417,6 @@ AirPods are on everyone's wishlist. The buds that rarely go on sale are about to
  - [https://www.zdnet.com/home-and-office/home-entertainment/cyber-monday-gaming-deals-november-27-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/cyber-monday-gaming-deals-november-27-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 04:43:00+00:00
- - tags: None
 
 Get a jump on your Christmas list with these awesome Black Friday deals on gaming laptops, consoles, and accessories. Retailers like Amazon, Best Buy, and Target have huge discounts on everything you need to create the ultimate gaming space.
 
@@ -484,7 +424,6 @@ Get a jump on your Christmas list with these awesome Black Friday deals on gamin
  - [https://www.zdnet.com/article/amazon-cyber-monday-deals-november-28-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/amazon-cyber-monday-deals-november-28-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 04:32:00+00:00
- - tags: None
 
 Amazon's Black Friday 2022 came and went, but the deals are still going strong thanks to the upcoming Cyber Monday. Shop its deals and score big savings on top tech items and gifts.
 
@@ -492,7 +431,6 @@ Amazon's Black Friday 2022 came and went, but the deals are still going strong t
  - [https://www.zdnet.com/article/apple-cyber-monday-deals-november-28-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-cyber-monday-deals-november-28-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 04:30:00+00:00
- - tags: None
 
 If someone on your holiday shopping list already owns an Apple device, they'll be ecstatic to find another Apple product under the tree. If you want to buy an Apple product without breaking the bank, here are some great Apple Black Friday deals.
 
@@ -500,7 +438,6 @@ If someone on your holiday shopping list already owns an Apple device, they'll b
  - [https://www.zdnet.com/article/best-cyber-monday-deals-november-27-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-cyber-monday-deals-november-27-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 04:29:00+00:00
- - tags: None
 
 Black Friday is over and Cyber Monday is tomorrow, so the best deals are already here. Check out our pick of the best early Cyber Monday tech deals to score savings on laptops, earbuds, and more.
 
@@ -508,7 +445,6 @@ Black Friday is over and Cyber Monday is tomorrow, so the best deals are already
  - [https://www.zdnet.com/article/save-220-on-this-gorgeous-65-inch-sharp-roku-smart-tv-for-cyber-monday/#ftag=RSSbaffb68](https://www.zdnet.com/article/save-220-on-this-gorgeous-65-inch-sharp-roku-smart-tv-for-cyber-monday/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 03:49:16+00:00
- - tags: None
 
 During Cyber Monday 2022, save $220 on a 65-inch Sharp Roku TV. If you love streaming services and a big, beautiful picture, this deal is too hot to pass up.
 
@@ -516,7 +452,6 @@ During Cyber Monday 2022, save $220 on a 65-inch Sharp Roku TV. If you love stre
  - [https://www.zdnet.com/article/this-flexispot-eg1-electric-standing-desk-is-only-174-for-cyber-monday/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-flexispot-eg1-electric-standing-desk-is-only-174-for-cyber-monday/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 02:57:10+00:00
- - tags: None
 
 During Cyber Monday 2022, save $105 on the Flexispot EG1 standing desk. This is a great sit/stand desk with an electronic height adjustment.
 
@@ -524,7 +459,6 @@ During Cyber Monday 2022, save $105 on the Flexispot EG1 standing desk. This is 
  - [https://www.zdnet.com/article/cyber-monday-chromebook-deal-2022-asus-laptop/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-chromebook-deal-2022-asus-laptop/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 02:33:00+00:00
- - tags: None
 
 During this year's Cyber Monday sale, save $210 on the C425TA Asus Chromebook. This isn't going to win any awards for speed, but it'll do the job -- for crazy-cheap.
 
@@ -532,7 +466,6 @@ During this year's Cyber Monday sale, save $210 on the C425TA Asus Chromebook. T
  - [https://www.zdnet.com/article/cyber-monday-robot-vacuum-deal-anker-eufy-sale-coupon-code/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-robot-vacuum-deal-anker-eufy-sale-coupon-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 02:32:00+00:00
- - tags: None
 
 The entry-level robot vacuum is now on sale for $99, a major drop from the typical $250 RRP as part of the Cyber Monday 2022 sales.
 
@@ -540,7 +473,6 @@ The entry-level robot vacuum is now on sale for $99, a major drop from the typic
  - [https://www.zdnet.com/home-and-office/home-entertainment/cyber-monday-65-inch-tv-deal-2022-hisense-4k-google-tv-sale/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/cyber-monday-65-inch-tv-deal-2022-hisense-4k-google-tv-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 02:31:00+00:00
- - tags: None
 
 Under $400, this Cyber Monday 65-inch TV deal likely won't be available for too long.
 
@@ -548,7 +480,6 @@ Under $400, this Cyber Monday 65-inch TV deal likely won't be available for too 
  - [https://www.zdnet.com/article/cyber-monday-laptop-deal-2022-hp-pavilion-15t-eg200-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-laptop-deal-2022-hp-pavilion-15t-eg200-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 02:28:00+00:00
- - tags: None
 
 Cyber Monday is here, and the laptop deals are coming in fast. But this one on the HP Pavilion Laptop 15t-eg200 caught our eye. It's $450 off, bringing the price down to $450. If you want a laptop for under $500, this is a must-see Cyber Monday laptop deal.
 
@@ -556,7 +487,6 @@ Cyber Monday is here, and the laptop deals are coming in fast. But this one on t
  - [https://www.zdnet.com/home-and-office/smart-home/cyber-monday-smart-light-deal-2022-govee-glide-hexa-smart-light-panels-sale/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/cyber-monday-smart-light-deal-2022-govee-glide-hexa-smart-light-panels-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 02:27:00+00:00
- - tags: None
 
 Looking to add some flair to your space? These discounted smart panels can add color, pizzazz, and so much more.
 
@@ -564,7 +494,6 @@ Looking to add some flair to your space? These discounted smart panels can add c
  - [https://www.zdnet.com/article/cyber-monday-headphone-deal-2022-bose-quietcomfort-45/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-headphone-deal-2022-bose-quietcomfort-45/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 02:25:00+00:00
- - tags: None
 
 If you're traveling this holiday season, noise-cancelling headphones are essential. Right now, the Bose QuietComfort 45 headphones are 30% off on Amazon for Cyber Monday 2022.
 
@@ -572,7 +501,6 @@ If you're traveling this holiday season, noise-cancelling headphones are essenti
  - [https://www.zdnet.com/article/cyber-monday-headphone-deal-2022-google-pixel-buds-pro-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-headphone-deal-2022-google-pixel-buds-pro-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 02:23:00+00:00
- - tags: None
 
 Released only recently, the Pixel Buds Pro just dropped by $50 -- the lowest price since their debut. Grab them while the Cyber Monday 2022 sale lasts.
 
@@ -580,7 +508,6 @@ Released only recently, the Pixel Buds Pro just dropped by $50 -- the lowest pri
  - [https://www.zdnet.com/home-and-office/home-entertainment/cyber-monday-tv-deal-2022-sony-55-inch-a80j-oled-sale/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/cyber-monday-tv-deal-2022-sony-55-inch-a80j-oled-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 02:22:00+00:00
- - tags: None
 
 The last time this price dropped this low was in July – shop now to get the $900 savings.
 
@@ -588,7 +515,6 @@ The last time this price dropped this low was in July – shop now to get the $9
  - [https://www.zdnet.com/home-and-office/home-entertainment/cyber-monday-tv-deal-2022-sony-x80j-4k-uhd-google-tv-sale/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/cyber-monday-tv-deal-2022-sony-x80j-4k-uhd-google-tv-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 02:20:00+00:00
- - tags: None
 
 Best Buy's Cyber Monday TV sale is not to be missed if you want an impressive TV for your living room. The 75-inch Sony Bravia X80J 4K UHD is normally $1,399 but is currently marked down by $850, which means you can get it for just $549.
 
@@ -596,7 +522,6 @@ Best Buy's Cyber Monday TV sale is not to be missed if you want an impressive TV
  - [https://www.zdnet.com/article/airpods-pro-2-cyber-monday-deal-2022-apple-earbuds-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/airpods-pro-2-cyber-monday-deal-2022-apple-earbuds-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 02:19:00+00:00
- - tags: None
 
 Shut out the background noise with these noise-canceling Apple AirPods Pro 2 for $50 off during Cyber Monday 2022.
 
@@ -604,7 +529,6 @@ Shut out the background noise with these noise-canceling Apple AirPods Pro 2 for
  - [https://www.zdnet.com/home-and-office/home-entertainment/cyber-monday-tv-deal-65-inch-lg-c1-oled-tv-black-friday-2022-sale/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/cyber-monday-tv-deal-65-inch-lg-c1-oled-tv-black-friday-2022-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 02:17:00+00:00
- - tags: None
 
 Cyber Monday is coming up, and we're seeing till incredible deals on 65-inch TVs. One of the best OLED televisions on the market, the LG C1 Series 65-inch TV is still 36% off. Add it to your cart today to save $1,000.
 
@@ -612,7 +536,6 @@ Cyber Monday is coming up, and we're seeing till incredible deals on 65-inch TVs
  - [https://www.zdnet.com/article/cyber-monday-headphone-deal-2022-skullcandy-indy-anc-earbuds/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-headphone-deal-2022-skullcandy-indy-anc-earbuds/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 02:16:00+00:00
- - tags: None
 
 During this year's Black Friday and Cyber Monday 2022 sale, save $80 on the Skullcandy Indy ANC Bluetooth earbuds. These fantastic noise-cancellation earbuds are now on sale for a massive 62% off.
 
@@ -620,7 +543,6 @@ During this year's Black Friday and Cyber Monday 2022 sale, save $80 on the Skul
  - [https://www.zdnet.com/article/cyber-monday-tablet-deal-samsung-galaxy-tab-a8-black-friday-2022-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-tablet-deal-samsung-galaxy-tab-a8-black-friday-2022-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 01:42:00+00:00
- - tags: None
 
 During this year's Black Friday and Cyber Monday sale, save up to $130 on the Samsung Galaxy Tab A8 Android tablet. An iPad for Android users.
 
@@ -628,7 +550,6 @@ During this year's Black Friday and Cyber Monday sale, save up to $130 on the Sa
  - [https://www.zdnet.com/home-and-office/home-entertainment/cyber-monday-tv-deal-2022-amazon-50-inch-4k-fire-tv-sale/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/cyber-monday-tv-deal-2022-amazon-50-inch-4k-fire-tv-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 01:40:00+00:00
- - tags: None
 
 Black Friday and Cyber Monday TV deal alert: Amazon's Fire TV is on sale for only $289 down from the original price of $469, and it will not disappoint.
 
@@ -636,7 +557,6 @@ Black Friday and Cyber Monday TV deal alert: Amazon's Fire TV is on sale for onl
  - [https://www.zdnet.com/article/this-14-inch-asus-chromebook-is-on-sale-for-a-crazy-low-119/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-14-inch-asus-chromebook-is-on-sale-for-a-crazy-low-119/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 01:38:23+00:00
- - tags: None
 
 During this year's Cyber Monday sale, save $210 on the C425TA Asus Chromebook. This isn't going to win any awards for speed, but it'll do the job -- for crazy-cheap.
 
@@ -644,7 +564,6 @@ During this year's Cyber Monday sale, save $210 on the C425TA Asus Chromebook. T
  - [https://www.zdnet.com/home-and-office/smart-home/cyber-monday-robot-vacuum-deal-braava-jet-m6-mop-black-friday-2022-sale/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/cyber-monday-robot-vacuum-deal-braava-jet-m6-mop-black-friday-2022-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 01:37:00+00:00
- - tags: None
 
 Black Friday and Cyber Monday robot vacuum deal alert: With a $200 discount on this iRobot Braava Jet m6 ultimate robot mop, you can keep your floors sparkling clean for just $300.
 
@@ -652,7 +571,6 @@ Black Friday and Cyber Monday robot vacuum deal alert: With a $200 discount on t
  - [https://www.zdnet.com/article/cyber-monday-tablet-deal-microsoft-surface-pro-8-black-friday-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-tablet-deal-microsoft-surface-pro-8-black-friday-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 01:36:00+00:00
- - tags: None
 
 Black Friday and Cyber Monday deal alert: Stock is low so if you want a bargain Surface Pro 8, you'll need to move quickly.
 
@@ -660,7 +578,6 @@ Black Friday and Cyber Monday deal alert: Stock is low so if you want a bargain 
  - [https://www.zdnet.com/article/cyber-monday-robot-vacuum-deal-2022-anker-eufy-walmart-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-robot-vacuum-deal-2022-anker-eufy-walmart-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 01:33:00+00:00
- - tags: None
 
 If you're looking for a cheap robot vacuum, you can pick up this Eufy model for $180 off during Black Friday and Cyber Monday.
 
@@ -668,7 +585,6 @@ If you're looking for a cheap robot vacuum, you can pick up this Eufy model for 
  - [https://www.zdnet.com/home-and-office/networking/cyber-monday-router-deal-2022-google-nest-wifi-3-pack-sale/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/networking/cyber-monday-router-deal-2022-google-nest-wifi-3-pack-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 01:32:00+00:00
- - tags: None
 
 During this year's Black Friday and Cyber Monday 2022 sale, save $150 on the Nest Wifi 3-pack (latest generation). If you want to expand your Wi-Fi, this kit might be the best deal you'll see.
 
@@ -676,7 +592,6 @@ During this year's Black Friday and Cyber Monday 2022 sale, save $150 on the Nes
  - [https://www.zdnet.com/article/cyber-monday-apple-watch-deal-apple-series-8-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-apple-watch-deal-apple-series-8-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 01:31:00+00:00
- - tags: None
 
 You can save $50 on Apple's latest watch through Cyber Monday.
 
@@ -684,7 +599,6 @@ You can save $50 on Apple's latest watch through Cyber Monday.
  - [https://www.zdnet.com/article/cyber-monday-apple-deal-2022-iphone-magsafe-battery-pack-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-apple-deal-2022-iphone-magsafe-battery-pack-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 01:30:00+00:00
- - tags: None
 
 The MagSafe Battery Pack will keep the iPhone 12, iPhone 13 and iPhone 14 charged without adding bulk. Normally $99, you can get it right now for $74 during Cyber Monday 2022.
 
@@ -692,7 +606,6 @@ The MagSafe Battery Pack will keep the iPhone 12, iPhone 13 and iPhone 14 charge
  - [https://www.zdnet.com/article/best-cyber-monday-laptop-deals-under-500/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-cyber-monday-laptop-deals-under-500/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 01:29:00+00:00
- - tags: None
 
 I looked at brands like HP, Apple, Samsung, Dell, and Lenovo to narrow down the best laptop on sale for Cyber Monday for more limited price ranges -- under $100 and under $500.
 
@@ -700,7 +613,6 @@ I looked at brands like HP, Apple, Samsung, Dell, and Lenovo to narrow down the 
  - [https://www.zdnet.com/article/cyber-monday-tv-deal-2022-amplified-hd-digital-tv-antenna/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-tv-deal-2022-amplified-hd-digital-tv-antenna/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 01:28:00+00:00
- - tags: None
 
 Is your existing HD Digital TV antenna letting you down? How about making use of the Cyber Monday deal 2022 and getting yourself a massive 46% off?
 
@@ -708,7 +620,6 @@ Is your existing HD Digital TV antenna letting you down? How about making use of
  - [https://www.zdnet.com/article/cyber-monday-deal-2022-meshforce-m3-mesh-wi-fi-system-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-deal-2022-meshforce-m3-mesh-wi-fi-system-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 01:24:00+00:00
- - tags: None
 
 With this Cyber Monday deal 2022, set up a rock-solid Wi-Fi system that blankets your home in under 10 minutes!
 
@@ -716,7 +627,6 @@ With this Cyber Monday deal 2022, set up a rock-solid Wi-Fi system that blankets
  - [https://www.zdnet.com/article/cyber-monday-deal-2022-oura-ring-gen3/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-deal-2022-oura-ring-gen3/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 01:20:00+00:00
- - tags: None
 
 Fitness trackers and smartwatches can sometimes weigh your wrist down with its sizes steadily increasing. But, you can save $50 on an Oura Ring in this Cyber Monday deal 2022 and see similar fitness information at just a fraction of the size of a smartwatch.
 
@@ -724,7 +634,6 @@ Fitness trackers and smartwatches can sometimes weigh your wrist down with its s
  - [https://www.zdnet.com/home-and-office/networking/cyber-monday-deal-2022-amazon-eero-pro-6e-mesh-wi-fi-sale/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/networking/cyber-monday-deal-2022-amazon-eero-pro-6e-mesh-wi-fi-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 00:38:00+00:00
- - tags: None
 
 During this year's Black Friday and Cyber Monday 2022 sale, save a massive $280 on the Amazon eero Pro 6E mesh Wi-Fi system so you can bathe your whole home in strong, stable Wi-Fi.
 
@@ -732,7 +641,6 @@ During this year's Black Friday and Cyber Monday 2022 sale, save a massive $280 
  - [https://www.zdnet.com/home-and-office/networking/cyber-monday-deal-2022-amazon-eero-6-mesh-wi-fi-system-sale/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/networking/cyber-monday-deal-2022-amazon-eero-6-mesh-wi-fi-system-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 00:37:00+00:00
- - tags: None
 
 Amazon's Eero 6+ is one of its best mesh Wi-Fi systems that combines speed, reliability, and coverage -- and you can get a three-pack for under $200 in this Cyber Monday deal 2022.
 
@@ -740,7 +648,6 @@ Amazon's Eero 6+ is one of its best mesh Wi-Fi systems that combines speed, reli
  - [https://www.zdnet.com/article/cyber-monday-phone-deal-2022-samsung-galaxy-z-fold-4/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-phone-deal-2022-samsung-galaxy-z-fold-4/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 00:35:00+00:00
- - tags: None
 
 During this year's Black Friday and Cyber Monday 2022 sale, save $429 on this Galaxy Z Fold 4. This cutting-edge folding design, equipped fully, is normally almost $2,000.
 
@@ -748,6 +655,5 @@ During this year's Black Friday and Cyber Monday 2022 sale, save $429 on this Ga
  - [https://www.zdnet.com/article/smartwatch-cyber-monday-deals-2022-garmin-instinct-solar-for-100-off/#ftag=RSSbaffb68](https://www.zdnet.com/article/smartwatch-cyber-monday-deals-2022-garmin-instinct-solar-for-100-off/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-28 00:18:03+00:00
- - tags: None
 
 Everyone talks about how long their battery lasts but do any of them get their power from the sun? The Garmin Instinct Solar uses advanced features to prove itself in the smartwatch industry. Don't miss this Cyber Monday deal 2022.

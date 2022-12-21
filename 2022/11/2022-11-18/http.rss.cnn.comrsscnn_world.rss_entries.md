@@ -1,10 +1,9 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss
+# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
 
 ## Analysis: Princes Andrew and Harry will keep their last royal roles. But there's a catch
  - [https://www.cnn.com/2022/11/18/uk/royal-news-newsletter-11-18-22-scli-gbr-cmd-intl/index.html](https://www.cnn.com/2022/11/18/uk/royal-news-newsletter-11-18-22-scli-gbr-cmd-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-18 14:26:09+00:00
- - tags: None
 
 When King Charles III celebrated his birthday earlier this week, the headlines focused on the new monarch taking on a new park ranger post previously held by his father, Prince Philip.
 
@@ -12,7 +11,6 @@ When King Charles III celebrated his birthday earlier this week, the headlines f
  - [https://www.cnn.com/2022/11/18/business/bud-zero-world-cup-beer/index.html](https://www.cnn.com/2022/11/18/business/bud-zero-world-cup-beer/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-18 13:36:27+00:00
- - tags: None
 
 In a surprise reversal, Qatar announced a ban of alcoholic beer at the eight stadiums hosting the World Cup. That leaves fans with just one "beer" choice — albeit one that isn't boozy.
 
@@ -20,7 +18,6 @@ In a surprise reversal, Qatar announced a ban of alcoholic beer at the eight sta
  - [https://www.cnn.com/2022/11/18/investing/premarket-stocks-trading/index.html](https://www.cnn.com/2022/11/18/investing/premarket-stocks-trading/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-18 12:02:22+00:00
- - tags: None
 
 Investors sleuthing for clues about what the Federal Reserve will decide during its December policy meeting got quite a few this week. But those hints about the future of monetary policy point to an outcome they won't be very happy about.
 
@@ -28,7 +25,6 @@ Investors sleuthing for clues about what the Federal Reserve will decide during 
  - [https://www.cnn.com/2022/11/17/asia/apec-day-1-bangkok-thailand-intl-hnk/index.html](https://www.cnn.com/2022/11/17/asia/apec-day-1-bangkok-thailand-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-18 04:48:58+00:00
- - tags: None
 
 Chinese leader Xi Jinping has stressed the need to reject confrontation in Asia, warning against the risk of cold war tensions, as leaders gather for the last of three world summits hosted in the region this month.
 
@@ -36,7 +32,6 @@ Chinese leader Xi Jinping has stressed the need to reject confrontation in Asia,
  - [https://www.cnn.com/2022/11/17/investing/china-bull-market-policy-shifts-intl-hnk/index.html](https://www.cnn.com/2022/11/17/investing/china-bull-market-policy-shifts-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-18 04:47:23+00:00
- - tags: None
 
 Market sentiment on Chinese stocks hit rock bottom just weeks ago after President Xi Jinping secured a historic third term in power and stacked his top team with loyalists in a clean sweep not seen since the Mao era.
 
@@ -44,7 +39,6 @@ Market sentiment on Chinese stocks hit rock bottom just weeks ago after Presiden
  - [https://www.cnn.com/2022/11/17/media/twitter-exodus-reliable-sources/index.html](https://www.cnn.com/2022/11/17/media/twitter-exodus-reliable-sources/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-18 03:58:23+00:00
- - tags: None
 
 Death is in the air on Twitter.
 
@@ -52,6 +46,5 @@ Death is in the air on Twitter.
  - [https://www.cnn.com/2022/11/17/entertainment/latin-grammys-2022-winners/index.html](https://www.cnn.com/2022/11/17/entertainment/latin-grammys-2022-winners/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-11-18 01:40:44+00:00
- - tags: None
 
 The 23rd Latin Grammy Awards are taking place on Thursday.

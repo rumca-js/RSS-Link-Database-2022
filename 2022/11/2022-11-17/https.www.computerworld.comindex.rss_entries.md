@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Why Macs and iPhones should avoid installing 'orphan' apps
  - [https://www.computerworld.com/article/3680548/why-macs-and-iphones-should-avoid-installing-orphan-apps.html#tk.rss_all](https://www.computerworld.com/article/3680548/why-macs-and-iphones-should-avoid-installing-orphan-apps.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-17 16:40:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -15,7 +14,6 @@
  - [https://www.computerworld.com/article/2474114/chrome-android-smarter-settings.html#tk.rss_all](https://www.computerworld.com/article/2474114/chrome-android-smarter-settings.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-17 11:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -25,7 +23,6 @@
  - [https://www.computerworld.com/article/3680230/how-intelligent-automation-will-change-the-way-we-work.html#tk.rss_all](https://www.computerworld.com/article/3680230/how-intelligent-automation-will-change-the-way-we-work.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-17 11:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

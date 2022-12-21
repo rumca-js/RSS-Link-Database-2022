@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## Fireball Flashes Above Ontario and Parts of the U.S.
  - [https://www.nytimes.com/2022/11/19/science/fireball-asteroid-toronto-new-york.html](https://www.nytimes.com/2022/11/19/science/fireball-asteroid-toronto-new-york.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-19 20:13:44+00:00
- - tags: None
 
 The bright meteor was the sixth object detected in space before striking Earth, the European Space Agency said.
 
@@ -12,7 +11,6 @@ The bright meteor was the sixth object detected in space before striking Earth, 
  - [https://www.nytimes.com/2022/11/19/world/middleeast/red-sea-coral-climate.html](https://www.nytimes.com/2022/11/19/world/middleeast/red-sea-coral-climate.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-19 16:53:05+00:00
- - tags: None
 
 As warming waters devastate coral around the world, the sea’s stunningly colorful reefs have been remarkably resilient. But pollution, mass tourism and overfishing put them at risk.
 
@@ -20,7 +18,6 @@ As warming waters devastate coral around the world, the sea’s stunningly color
  - [https://www.nytimes.com/2022/11/19/climate/un-climate-damage-cop27.html](https://www.nytimes.com/2022/11/19/climate/un-climate-damage-cop27.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-19 16:49:03+00:00
- - tags: None
 
 Disputes among nations centered on a fund to help developing countries cope with “loss and damage” caused by global warming.
 
@@ -28,7 +25,6 @@ Disputes among nations centered on a fund to help developing countries cope with
  - [https://www.nytimes.com/2022/11/19/world/europe/ukraine-russia-electrical-grid-rebuild.html](https://www.nytimes.com/2022/11/19/world/europe/ukraine-russia-electrical-grid-rebuild.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-19 16:44:36+00:00
- - tags: None
 
 Fully 61,000 square miles could be littered with land mines and other explosives left by retreating Russian forces, while half the electric grid has been destroyed.
 
@@ -36,7 +32,6 @@ Fully 61,000 square miles could be littered with land mines and other explosives
  - [https://www.nytimes.com/2022/11/19/world/asia/qatar-sports-world-cup.html](https://www.nytimes.com/2022/11/19/world/asia/qatar-sports-world-cup.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-19 16:34:02+00:00
- - tags: None
 
 In hosting major international sporting events, buying up soccer teams and even creating a golf league, the resource-rich Gulf States are seeking attention, prestige, economic diversification and political credibility.
 
@@ -44,7 +39,6 @@ In hosting major international sporting events, buying up soccer teams and even 
  - [https://www.nytimes.com/2022/11/19/world/europe/train-kyiv-kherson-ukraine.html](https://www.nytimes.com/2022/11/19/world/europe/train-kyiv-kherson-ukraine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-19 15:23:33+00:00
- - tags: None
 
 The train, carrying 200 passengers, is to be the start of regular service between the cities, a senior official said.
 
@@ -52,7 +46,6 @@ The train, carrying 200 passengers, is to be the start of regular service betwee
  - [https://www.nytimes.com/2022/11/19/world/europe/yahidne-ukraine-school-trauma.html](https://www.nytimes.com/2022/11/19/world/europe/yahidne-ukraine-school-trauma.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-19 13:41:10+00:00
- - tags: None
 
 In Yahidne, a village in northern Ukraine, a basement became a virtual prison for hundreds of residents for four weeks. Months later, that horror lingers.
 
@@ -60,7 +53,6 @@ In Yahidne, a village in northern Ukraine, a basement became a virtual prison fo
  - [https://www.nytimes.com/2022/11/19/world/europe/first-train-in-nine-months-leaves-kyiv-for-kherson.html](https://www.nytimes.com/2022/11/19/world/europe/first-train-in-nine-months-leaves-kyiv-for-kherson.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-19 13:30:18+00:00
- - tags: None
 
 The train, carrying 200 passengers, is to be the start of regular service between the cities, a senior official said.
 
@@ -68,7 +60,6 @@ The train, carrying 200 passengers, is to be the start of regular service betwee
  - [https://www.nytimes.com/2022/11/19/briefing/thanksgiving-pie-baking-tips.html](https://www.nytimes.com/2022/11/19/briefing/thanksgiving-pie-baking-tips.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-19 11:49:43+00:00
- - tags: None
 
 Stressed about a homemade Thanksgiving pie? Don’t be. My tips will help.
 
@@ -76,7 +67,6 @@ Stressed about a homemade Thanksgiving pie? Don’t be. My tips will help.
  - [https://www.nytimes.com/2022/11/19/world/canada/canada-homeless-housing-market.html](https://www.nytimes.com/2022/11/19/world/canada/canada-homeless-housing-market.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-19 11:00:03+00:00
- - tags: None
 
 An auditor general’s report found that multibillion-dollar federal housing programs were not being tracked to see whether they actually reduced homelessness.
 
@@ -84,7 +74,6 @@ An auditor general’s report found that multibillion-dollar federal housing pro
  - [https://www.nytimes.com/2022/11/19/world/europe/with-nearly-half-of-ukraines-energy-grid-knocked-out-zelensky-says-17-regions-face-a-difficult-situation.html](https://www.nytimes.com/2022/11/19/world/europe/with-nearly-half-of-ukraines-energy-grid-knocked-out-zelensky-says-17-regions-face-a-difficult-situation.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-19 10:32:08+00:00
- - tags: None
 
 
 
@@ -92,7 +81,6 @@ An auditor general’s report found that multibillion-dollar federal housing pro
  - [https://www.nytimes.com/2022/11/19/world/asia/iran-protesters-eye-injuries.html](https://www.nytimes.com/2022/11/19/world/asia/iran-protesters-eye-injuries.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-19 10:01:59+00:00
- - tags: None
 
 Security forces have been firing ammunition that has ruptured the eyes of antigovernment demonstrators in the past two months. “Everything went dark,” one said.
 
@@ -100,7 +88,6 @@ Security forces have been firing ammunition that has ruptured the eyes of antigo
  - [https://www.nytimes.com/2022/11/19/world/americas/haiti-cholera-gang-violence.html](https://www.nytimes.com/2022/11/19/world/americas/haiti-cholera-gang-violence.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-19 10:00:33+00:00
- - tags: None
 
 The disease is spreading in the Caribbean nation in part because armed groups control poor neighborhoods with ruthless violence and prevent doctors from providing basic care.
 
@@ -108,7 +95,6 @@ The disease is spreading in the Caribbean nation in part because armed groups co
  - [https://www.nytimes.com/live/2022/11/19/world/russia-ukraine-war-news](https://www.nytimes.com/live/2022/11/19/world/russia-ukraine-war-news)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-19 08:43:27+00:00
- - tags: None
 
 The first train since before Russia’s invasion left the capital, Kyiv, for the strategically important southern city.
 
@@ -116,7 +102,6 @@ The first train since before Russia’s invasion left the capital, Kyiv, for the
  - [https://www.nytimes.com/2022/11/19/world/asia/kim-jong-un-daughter-missile-launch.html](https://www.nytimes.com/2022/11/19/world/asia/kim-jong-un-daughter-missile-launch.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-19 06:33:41+00:00
- - tags: None
 
 Little is known about North Korea’s ruling family. Yesterday was the first public appearance of the child, who is thought to be named Ju-ae.
 
@@ -124,7 +109,6 @@ Little is known about North Korea’s ruling family. Yesterday was the first pub
  - [https://www.nytimes.com/2022/11/19/world/corrections-nov-19-2022.html](https://www.nytimes.com/2022/11/19/world/corrections-nov-19-2022.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-19 05:01:01+00:00
- - tags: None
 
 Corrections that appeared in print on Saturday, Nov. 19, 2022.
 
@@ -132,7 +116,6 @@ Corrections that appeared in print on Saturday, Nov. 19, 2022.
  - [https://www.nytimes.com/article/north-korea-arsenal-nukes.html](https://www.nytimes.com/article/north-korea-arsenal-nukes.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-19 03:48:12+00:00
- - tags: None
 
 Kim Jong-un has sought to solidify the country’s stance as a nuclear-armed power, and his position at its helm.
 
@@ -140,7 +123,6 @@ Kim Jong-un has sought to solidify the country’s stance as a nuclear-armed pow
  - [https://www.nytimes.com/2022/11/18/world/middleeast/iran-protests-khomeini-children.html](https://www.nytimes.com/2022/11/18/world/middleeast/iran-protests-khomeini-children.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-19 01:01:18+00:00
- - tags: None
 
 The house where the Islamic revolution’s founder grew up was set on fire during a fresh surge of anger over the government’s killing of children, including three in the city of Izeh.
 
@@ -148,6 +130,5 @@ The house where the Islamic revolution’s founder grew up was set on fire durin
  - [https://www.nytimes.com/2022/11/18/world/europe/russia-us-brittney-griner.html](https://www.nytimes.com/2022/11/18/world/europe/russia-us-brittney-griner.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-11-19 00:27:18+00:00
- - tags: None
 
 The State Department says Russia refuses to negotiate seriously to free the basketball star Brittney Griner, who was sent to a penal colony with a nine-year sentence on a cannabis charge.

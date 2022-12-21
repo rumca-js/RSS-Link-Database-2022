@@ -1,10 +1,9 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
+# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
 
 ## We Can Now Predict Disease With Smell
  - [https://www.youtube.com/watch?v=8LGtG8iACIQ](https://www.youtube.com/watch?v=8LGtG8iACIQ)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
  - date published: 2022-11-28 14:29:38+00:00
- - tags: None
 
 Get a year of Nebula and Curiosity Stream for only $14.79 when you sign up at http://www.curiositystream.com/joescott
 In 2015, Joy Milne made waves when it was revealed that she had an amazing talent - she could smell Parkinson's Disease. And now she's helping develop tests that could diagnose Parkinson's long before symptoms begin to show.

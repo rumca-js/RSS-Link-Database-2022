@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## Retired general predicts how Russia's war will change in the winter months
  - [https://www.cnn.com/videos/world/2022/11/25/russia-war-winter-spider-marks-analysis-putin-meeting-mothers-dead-soldiers-sot-tsr-vpx.cnn](https://www.cnn.com/videos/world/2022/11/25/russia-war-winter-spider-marks-analysis-putin-meeting-mothers-dead-soldiers-sot-tsr-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 23:59:18+00:00
- - tags: None
 
 Retired Maj. General James "Spider" Marks and former US Ambassador to Ukraine William Taylor join CNN's Alex Marquardt to discuss how Russia's war will change in the winter months, and Vladimir Putin's recent meeting with mothers of soldiers killed in Ukraine.
 
@@ -12,7 +11,6 @@ Retired Maj. General James "Spider" Marks and former US Ambassador to Ukraine Wi
  - [https://www.cnn.com/2022/11/25/football/lionel-messi-argentina-france-world-cup-spt-intl/index.html](https://www.cnn.com/2022/11/25/football/lionel-messi-argentina-france-world-cup-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 23:44:26+00:00
- - tags: None
 
 • England and US battle to a draw in key match
 • FIFA: England fans' costumes are 'offensive'
@@ -21,7 +19,6 @@ Retired Maj. General James "Spider" Marks and former US Ambassador to Ukraine Wi
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-11-25-22/h_6ae2ef82eb628333166c7defda5b16d1](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-11-25-22/h_6ae2ef82eb628333166c7defda5b16d1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 23:43:49.019743+00:00
- - tags: None
 
 
 
@@ -29,7 +26,6 @@ Retired Maj. General James "Spider" Marks and former US Ambassador to Ukraine Wi
  - [https://www.edition.com/webview/europe/live-news/russia-ukraine-war-news-11-25-22/h_ef4cdb328d14b024f6acff6be9ce6aa0](https://www.edition.com/webview/europe/live-news/russia-ukraine-war-news-11-25-22/h_ef4cdb328d14b024f6acff6be9ce6aa0)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 22:43:46.986396+00:00
- - tags: None
 
 
 
@@ -37,7 +33,6 @@ Retired Maj. General James "Spider" Marks and former US Ambassador to Ukraine Wi
  - [https://www.cnn.com/2022/11/25/americas/brazil-school-shooting-intl-latam/index.html](https://www.cnn.com/2022/11/25/americas/brazil-school-shooting-intl-latam/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 21:58:34+00:00
- - tags: None
 
 At least three people were killed and 11 others injured Friday after a gunman opened fire at two schools in the Brazilian state of Espirito Santo, according to local authorities.
 
@@ -45,7 +40,6 @@ At least three people were killed and 11 others injured Friday after a gunman op
  - [https://www.cnn.com/2022/11/25/business/epstein-accusers-sue-jp-morgan-deutsche-bank-alleged-sex-trafficking/index.html](https://www.cnn.com/2022/11/25/business/epstein-accusers-sue-jp-morgan-deutsche-bank-alleged-sex-trafficking/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 21:03:46+00:00
- - tags: None
 
 Two anonymous women who accuse the late Jeffrey Epstein of sexual abuse have filed separate civil lawsuits against JP Morgan Chase & Co. and Deutsche Bank AG, claiming the big banks enabled and benefitted financially from Epstein's alleged sex trafficking operation.
 
@@ -53,7 +47,6 @@ Two anonymous women who accuse the late Jeffrey Epstein of sexual abuse have fil
  - [https://www.cnn.com/videos/world/2022/11/25/jeddah-saudi-arabia-flooding-contd-lon-orig-na.cnn](https://www.cnn.com/videos/world/2022/11/25/jeddah-saudi-arabia-flooding-contd-lon-orig-na.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 20:48:33+00:00
- - tags: None
 
 A heavy rainstorm hit the city of Jeddah causing flooding and at least two deaths, according to the Saudi Civil Defense.
 
@@ -61,7 +54,6 @@ A heavy rainstorm hit the city of Jeddah causing flooding and at least two death
  - [https://www.cnn.com/videos/world/2022/11/25/china-xinjiang-building-fire-covid-anger-wang-contd-nr-vpx.cnn](https://www.cnn.com/videos/world/2022/11/25/china-xinjiang-building-fire-covid-anger-wang-contd-nr-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 20:26:19+00:00
- - tags: None
 
 At least ten people are dead and nine others injured after a fire at a residential building in China's Xinjiang Region, according to the local fire department's statement. The lockdown measures appeared to delay firefighters from getting through to the scene, based on videos circulating on social media reviewed by CNN. CNN's Selina Wang reports.
 
@@ -69,7 +61,6 @@ At least ten people are dead and nine others injured after a fire at a residenti
  - [https://www.cnn.com/2022/11/25/politics/trump-kanye-west-nick-fuentes-mar-a-lago/index.html](https://www.cnn.com/2022/11/25/politics/trump-kanye-west-nick-fuentes-mar-a-lago/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 20:21:09+00:00
- - tags: None
 
 Former President Donald Trump hosted White nationalist and Holocaust denier Nick Fuentes and rapper Kanye West at his Mar-a-Lago estate this week, demonstrating his continued willingness to associate with figures who have well-publicized antisemitic views as he embarks on another White House run.
 
@@ -77,7 +68,6 @@ Former President Donald Trump hosted White nationalist and Holocaust denier Nick
  - [https://www.cnn.com/2022/11/25/us/arrest-warrant-north-carolina-woman-dead-mexico-friday/index.html](https://www.cnn.com/2022/11/25/us/arrest-warrant-north-carolina-woman-dead-mexico-friday/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 19:53:49+00:00
- - tags: None
 
 An arrest warrant has been issued in Mexico for a woman suspected of fatally assaulting a friend from North Carolina while on vacation last month in San Jose del Cabo, a prosecutor says.
 
@@ -85,7 +75,6 @@ An arrest warrant has been issued in Mexico for a woman suspected of fatally ass
  - [https://www.cnn.com/2022/11/25/health/seniors-major-surgery-khn-partner/index.html](https://www.cnn.com/2022/11/25/health/seniors-major-surgery-khn-partner/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 19:07:42+00:00
- - tags: None
 
 Nearly 1 in 7 older adults die within a year of undergoing major surgery, according to an important new study that sheds much-needed light on the risks seniors face when having invasive procedures.
 
@@ -93,7 +82,6 @@ Nearly 1 in 7 older adults die within a year of undergoing major surgery, accord
  - [https://www.cnn.com/videos/sports/2022/11/25/4000-miles-cycle-qatar-cprog-lon-orig-bb.cnn](https://www.cnn.com/videos/sports/2022/11/25/4000-miles-cycle-qatar-cprog-lon-orig-bb.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 19:05:58+00:00
- - tags: None
 
 Gabriel Martin and Mehdi Balamissa, two cyclists from France, undertook the challenge of cycling more than 4000 miles, through 13 countries to get to the World Cup in Qatar.
 
@@ -101,7 +89,6 @@ Gabriel Martin and Mehdi Balamissa, two cyclists from France, undertook the chal
  - [https://www.cnn.com/2022/11/25/business/ford-escape-bronco-sport-recall/index.html](https://www.cnn.com/2022/11/25/business/ford-escape-bronco-sport-recall/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 19:05:23+00:00
- - tags: None
 
 Ford has announced another SUV recall, this time impacting about 520,000 Ford Escape and Bronco Sport compacts in the United States. Potential cracks in the vehicles' fuel line can cause fires to break out under the hood of some cars, according to Ford and the National Highway Traffic Safety Administration.
 
@@ -109,7 +96,6 @@ Ford has announced another SUV recall, this time impacting about 520,000 Ford Es
  - [https://www.cnn.com/travel/article/advent-traditions-world/index.html](https://www.cnn.com/travel/article/advent-traditions-world/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 17:14:44+00:00
- - tags: None
 
 Wreaths, candles and calendars. These are sure signs of Advent for many Christian groups around the world. But what is Advent exactly?
 
@@ -117,7 +103,6 @@ Wreaths, candles and calendars. These are sure signs of Advent for many Christia
  - [https://www.cnn.com/2022/11/25/world/flair-airlines-plane-exits-canada-runway/index.html](https://www.cnn.com/2022/11/25/world/flair-airlines-plane-exits-canada-runway/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 17:07:46+00:00
- - tags: None
 
 A Canadian airport "will be closed to commercial traffic the rest of today" after a Flair Airlines plane "exited the runway" Friday morning during its landing, the airport and the airline said in statements.
 
@@ -125,7 +110,6 @@ A Canadian airport "will be closed to commercial traffic the rest of today" afte
  - [https://www.cnn.com/2022/11/25/europe/women-killed-italy-femicide-intl/index.html](https://www.cnn.com/2022/11/25/europe/women-killed-italy-femicide-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 17:06:51+00:00
- - tags: None
 
 More than 100 women have been murdered in Italy so far this year, with almost half of them killed by their intimate partner or ex-partner, the Italian police said.
 
@@ -133,7 +117,6 @@ More than 100 women have been murdered in Italy so far this year, with almost ha
  - [https://www.cnn.com/2022/11/25/world/oldest-meal-550-million-year-old-fossil-intl-scli-scn/index.html](https://www.cnn.com/2022/11/25/world/oldest-meal-550-million-year-old-fossil-intl-scli-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 17:06:10+00:00
- - tags: None
 
 An international team of scientists say they have new insight into how the very earliest animals survived after traces of what they described as the world's oldest meal were found in a 550 million-year-old fossil.
 
@@ -141,7 +124,6 @@ An international team of scientists say they have new insight into how the very 
  - [https://www.cnn.com/2022/11/25/business/nigeria-launches-new-banknotes-lgs-intl/index.html](https://www.cnn.com/2022/11/25/business/nigeria-launches-new-banknotes-lgs-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 16:39:23+00:00
- - tags: None
 
 Nigerians have criticized the "redesigning" of the country's local currency proposed by its central bank to rein in counterfeiting and hoarding of large sums outside the banking system.
 
@@ -149,7 +131,6 @@ Nigerians have criticized the "redesigning" of the country's local currency prop
  - [https://www.cnn.com/style/article/david-hockney-crocs-palace-gbr-intl-scli/index.html](https://www.cnn.com/style/article/david-hockney-crocs-palace-gbr-intl-scli/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 16:21:47+00:00
- - tags: None
 
 Celebrated British artist David Hockney is renowned for the bold and expressive use of color in his paintings. So, it was only right that he made a daring sartorial statement when he was invited to the Order of Merit luncheon at Buckingham Palace.
 
@@ -157,7 +138,6 @@ Celebrated British artist David Hockney is renowned for the bold and expressive 
  - [https://www.cnn.com/2022/11/25/tech/musk-verified-twitter-account-plans-colors/index.html](https://www.cnn.com/2022/11/25/tech/musk-verified-twitter-account-plans-colors/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 16:18:51+00:00
- - tags: None
 
 Elon Musk is ready to try his troubled new verification system for Twitter once again. This time, in color.
 
@@ -165,7 +145,6 @@ Elon Musk is ready to try his troubled new verification system for Twitter once 
  - [https://www.cnn.com/2022/11/25/entertainment/margot-robbie-wolf-wall-street/index.html](https://www.cnn.com/2022/11/25/entertainment/margot-robbie-wolf-wall-street/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 15:39:23+00:00
- - tags: None
 
 According to Margot Robbie, she needed a little bit of liquid courage to film a now-famous scene in "The Wolf of Wall Street."
 
@@ -173,7 +152,6 @@ According to Margot Robbie, she needed a little bit of liquid courage to film a 
  - [https://www.cnn.com/2022/11/25/uk/royal-news-newsletter-11-25-22-scli-gbr-cmd-intl/index.html](https://www.cnn.com/2022/11/25/uk/royal-news-newsletter-11-25-22-scli-gbr-cmd-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 15:38:59+00:00
- - tags: None
 
 Another week, another set of firsts for the new King. This time round, Charles III hosted the first state visit of his reign and welcomed South African President Cyril Ramaphosa to the UK.
 
@@ -181,7 +159,6 @@ Another week, another set of firsts for the new King. This time round, Charles I
  - [https://www.cnn.com/2022/11/25/opinions/palin-legacy-politics-election-defeat-2022-zelizer/index.html](https://www.cnn.com/2022/11/25/opinions/palin-legacy-politics-election-defeat-2022-zelizer/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 15:25:50+00:00
- - tags: None
 
 The results are in: Democrat Mary Peltola has defeated former vice presidential candidate Sarah Palin in their House race, a loss that could mark the end of Palin's political career. The fact that a Democrat won in Alaska, a state that has gone Republican in every presidential election since President Lyndon Johnson's landslide 1964 defeat against Sen. Barry Goldwater won't sit well with GOP party elders.
 
@@ -189,7 +166,6 @@ The results are in: Democrat Mary Peltola has defeated former vice presidential 
  - [https://www.cnn.com/2022/11/25/europe/pope-francis-secretly-taped-phone-call-intl/index.html](https://www.cnn.com/2022/11/25/europe/pope-francis-secretly-taped-phone-call-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 15:16:21+00:00
- - tags: None
 
 Pope Francis was secretly taped during a phone call with one of his cardinals, it emerged during an on-going financial trial at the Vatican on Thursday.
 
@@ -197,7 +173,6 @@ Pope Francis was secretly taped during a phone call with one of his cardinals, i
  - [https://www.cnn.com/videos/us/2022/11/25/coast-guard-rescue-cruise-ship-overboard-louisiana-seth-gross-cnntm-contd-vpx.cnn](https://www.cnn.com/videos/us/2022/11/25/coast-guard-rescue-cruise-ship-overboard-louisiana-seth-gross-cnntm-contd-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 15:11:54+00:00
- - tags: None
 
 The US Coast Guard rescued a man after he was reported missing from a cruise ship in the Gulf of Mexico. US Coast Guard search and rescue coordinator Lt. Seth Gross joins CNN This Morning to discuss the rescue.
 
@@ -205,7 +180,6 @@ The US Coast Guard rescued a man after he was reported missing from a cruise shi
  - [https://www.cnn.com/videos/us/2022/11/25/little-rock-nine-member-ernest-green-reaction-jerry-jones-resurfaced-photo-cnntm-contd-vpx.cnn](https://www.cnn.com/videos/us/2022/11/25/little-rock-nine-member-ernest-green-reaction-jerry-jones-resurfaced-photo-cnntm-contd-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 14:59:39+00:00
- - tags: None
 
 A resurfaced photograph from 1957 pictures Dallas Cowboys owner Jerry Jones standing with a crowd of White students blocking six Black students from entering North Little Rock High School in Arkansas. CNN spoke with Ernest Green, a member of nine African-American students -- known as 'Little Rock Nine' who integrated Arkansas' Little Rock Central High School.
 
@@ -213,7 +187,6 @@ A resurfaced photograph from 1957 pictures Dallas Cowboys owner Jerry Jones stan
  - [https://www.cnn.com/videos/politics/2022/11/25/chasten-buttigieg-response-to-carlson-tucker-attack-pete-cnntm-vpx.cnn](https://www.cnn.com/videos/politics/2022/11/25/chasten-buttigieg-response-to-carlson-tucker-attack-pete-cnntm-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 14:49:48+00:00
- - tags: None
 
 Chasten Buttigieg joins CNN This Morning and responds to Fox News' Tucker Carlson's attack on his husband, transportation secretary Pete Buttigieg.
 
@@ -221,7 +194,6 @@ Chasten Buttigieg joins CNN This Morning and responds to Fox News' Tucker Carlso
  - [https://edition.cnn.com/webview/sport/live-news/world-cup-11-25-2022/index.html](https://edition.cnn.com/webview/sport/live-news/world-cup-11-25-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 14:43:35.320313+00:00
- - tags: None
 
 
 
@@ -229,7 +201,6 @@ Chasten Buttigieg joins CNN This Morning and responds to Fox News' Tucker Carlso
  - [https://www.cnn.com/2022/11/25/entertainment/mariah-carey-twins-thanksgiving-parade/index.html](https://www.cnn.com/2022/11/25/entertainment/mariah-carey-twins-thanksgiving-parade/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 14:34:16+00:00
- - tags: None
 
 Mariah Carey made the 2022 Macy's Thanksgiving Day Parade a family affair.
 
@@ -237,7 +208,6 @@ Mariah Carey made the 2022 Macy's Thanksgiving Day Parade a family affair.
  - [https://www.cnn.com/2022/11/25/energy/russia-oil-price-cap/index.html](https://www.cnn.com/2022/11/25/energy/russia-oil-price-cap/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 14:22:45+00:00
- - tags: None
 
 Allies of Ukraine want to put a price limit on Russian oil. But there's a problem: They can't agree on a number that would actually pile pressure on the Kremlin.
 
@@ -245,7 +215,6 @@ Allies of Ukraine want to put a price limit on Russian oil. But there's a proble
  - [https://www.cnn.com/2022/11/25/entertainment/christmas-movie-secrets-holiday-films-cec/index.html](https://www.cnn.com/2022/11/25/entertainment/christmas-movie-secrets-holiday-films-cec/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 14:21:13+00:00
- - tags: None
 
 Watching Christmas movies is a whole tradition unto itself. Every family has their mainstays, whether it's an animated classic from yesteryear or a more modern take on holiday cheer.
 
@@ -253,7 +222,6 @@ Watching Christmas movies is a whole tradition unto itself. Every family has the
  - [https://www.cnn.com/2022/11/25/entertainment/aaron-carter-prince-birthday/index.html](https://www.cnn.com/2022/11/25/entertainment/aaron-carter-prince-birthday/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 14:06:02+00:00
- - tags: None
 
 Melanie Martin celebrated her son Prince's first birthday, while also honoring her child's late father, singer Aaron Carter.
 
@@ -261,7 +229,6 @@ Melanie Martin celebrated her son Prince's first birthday, while also honoring h
  - [https://www.cnn.com/style/article/lady-chatterley-costumes-emma-fryer-culture-queue/index.html](https://www.cnn.com/style/article/lady-chatterley-costumes-emma-fryer-culture-queue/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 14:05:32+00:00
- - tags: None
 
 From the moment Emma Corrin appears on screen in the titular role of Netflix's new adaptation of  D. H. Lawrence's novel  "Lady Chatterley's Lover," her clothing mirrors the emotions of her character.
 
@@ -269,7 +236,6 @@ From the moment Emma Corrin appears on screen in the titular role of Netflix's n
  - [https://www.cnn.com/videos/us/2022/11/25/french-bulldog-national-dog-show-winner-cprog-lon-orig.cnn](https://www.cnn.com/videos/us/2022/11/25/french-bulldog-national-dog-show-winner-cprog-lon-orig.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 13:46:38+00:00
- - tags: None
 
 Winston beat hundreds of other dogs to take home "Best in Show" at the 2022 National Dog Show, becoming the first French Bulldog to win the event's top prize.
 
@@ -277,7 +243,6 @@ Winston beat hundreds of other dogs to take home "Best in Show" at the 2022 Nati
  - [https://www.cnn.com/videos/world/2022/11/25/ukraine-blackout-doctors-surgery-flashlight-cnntm-sebastian-vpx.cnn](https://www.cnn.com/videos/world/2022/11/25/ukraine-blackout-doctors-surgery-flashlight-cnntm-sebastian-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 13:34:16+00:00
- - tags: None
 
 Russia struck critical infrastructure in Ukraine with missiles and caused a temporary shutdown of many Ukrainian power plants. Fifty percent of Kyiv is currently without power, the Kyiv city military administration wrote on Telegram. CNN's Clare Sebastian reports.
 
@@ -285,7 +250,6 @@ Russia struck critical infrastructure in Ukraine with missiles and caused a temp
  - [https://www.cnn.com/collections/videos-of-the-week-112522/](https://www.cnn.com/collections/videos-of-the-week-112522/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 13:30:23+00:00
- - tags: None
 
 
 
@@ -293,7 +257,6 @@ Russia struck critical infrastructure in Ukraine with missiles and caused a temp
  - [https://www.cnn.com/2022/11/25/golf/10-rules-golf-gd-spt-intl/index.html](https://www.cnn.com/2022/11/25/golf/10-rules-golf-gd-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 13:23:08+00:00
- - tags: None
 
 Please don't take offense to this statement of fact, but public-course golfers tend to nudge their golf balls to a better lie more often than private-course players do. I consider myself somewhat of an authority on this subject because I've played half my life at public courses and the other half at private clubs.
 
@@ -301,7 +264,6 @@ Please don't take offense to this statement of fact, but public-course golfers t
  - [https://www.cnn.com/sport/live-news/world-cup-11-25-2022/index.html](https://www.cnn.com/sport/live-news/world-cup-11-25-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 12:51:40+00:00
- - tags: None
 
 • USA to take on England in potentially decisive World Cup match
 • Brazil dealt major blow as team doctor confirms Neymar's injury
@@ -311,7 +273,6 @@ Please don't take offense to this statement of fact, but public-course golfers t
  - [https://www.cnn.com/2022/11/25/china/china-pop-star-sentenced-rape-intl/index.html](https://www.cnn.com/2022/11/25/china/china-pop-star-sentenced-rape-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 12:43:17+00:00
- - tags: None
 
 A Chinese court in Beijing sentenced Chinese-Canadian pop star Kris Wu, also known as Wu Yifan, to 13 years in jail after finding him guilty of sexual offenses, including rape, the court said in a post on its official Weibo account.
 
@@ -319,7 +280,6 @@ A Chinese court in Beijing sentenced Chinese-Canadian pop star Kris Wu, also kno
  - [https://www.cnn.com/2022/11/25/us/real-or-artificial-christmas-tree-climate/index.html](https://www.cnn.com/2022/11/25/us/real-or-artificial-christmas-tree-climate/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 12:39:06+00:00
- - tags: None
 
 It's that time of the year when most Americans finish Thanksgiving leftovers and venture out in search for the best holiday sales. More importantly, they plan their household centerpiece of the season: the Christmas tree.
 
@@ -327,7 +287,6 @@ It's that time of the year when most Americans finish Thanksgiving leftovers and
  - [https://www.cnn.com/travel/article/iryo-high-speed-train-spain/index.html](https://www.cnn.com/travel/article/iryo-high-speed-train-spain/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 12:17:16+00:00
- - tags: None
 
 What could be better than one wide-ranging high-speed rail network? Three or four competing ones, which look set to not only improve travelers' options but also (hopefully) drive prices down.
 
@@ -335,7 +294,6 @@ What could be better than one wide-ranging high-speed rail network? Three or fou
  - [https://www.cnn.com/2022/11/25/football/iran-wales-2022-world-cup-spt-intl/index.html](https://www.cnn.com/2022/11/25/football/iran-wales-2022-world-cup-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 12:14:23+00:00
- - tags: None
 
 Two late goals secured Iran a sensational 2-0 win against Wales to maintain its hopes of qualifying to the World Cup knockout stages.
 
@@ -343,7 +301,6 @@ Two late goals secured Iran a sensational 2-0 win against Wales to maintain its 
  - [https://www.cnn.com/travel/article/chance-encounters-lost-luggage-friendship/index.html](https://www.cnn.com/travel/article/chance-encounters-lost-luggage-friendship/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 11:55:13+00:00
- - tags: None
 
 It had been seven days since she landed in New York City, and Hana Sofia Lopes' luggage was still lost.
 
@@ -351,7 +308,6 @@ It had been seven days since she landed in New York City, and Hana Sofia Lopes' 
  - [https://www.cnn.com/2022/11/25/golf/suck-less-at-golf-gd-spt-intl/index.html](https://www.cnn.com/2022/11/25/golf/suck-less-at-golf-gd-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 11:51:46+00:00
- - tags: None
 
 On the tee
 
@@ -359,7 +315,6 @@ On the tee
  - [https://www.cnn.com/2022/11/25/investing/gautam-adani-share-issue/index.html](https://www.cnn.com/2022/11/25/investing/gautam-adani-share-issue/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 11:37:08+00:00
- - tags: None
 
 Indian billionaire Gautam Adani's business empire is planning to raise nearly $2.5 billion in a new share offering as it pushes to expand into new areas.
 
@@ -367,7 +322,6 @@ Indian billionaire Gautam Adani's business empire is planning to raise nearly $2
  - [https://www.cnn.com/2022/11/25/health/racial-inequities-sleep/index.html](https://www.cnn.com/2022/11/25/health/racial-inequities-sleep/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 11:26:32+00:00
- - tags: None
 
 As the United States rolled back the clocks one hour this month to observe the end of Daylight Saving Time, many people got a bit more sleep than usual -- but some not as much as others.
 
@@ -375,7 +329,6 @@ As the United States rolled back the clocks one hour this month to observe the e
  - [https://www.cnn.com/2022/11/25/tech/uk-chinese-surveillance-cameras-restrictions-intl-hnk/index.html](https://www.cnn.com/2022/11/25/tech/uk-chinese-surveillance-cameras-restrictions-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 11:09:46+00:00
- - tags: None
 
 Hikvision, a leading Chinese survelliance company, has denied suggestions that it poses a threat to Britain's national security after the UK government banned the use of its camera systems at "sensitive" sites.
 
@@ -383,7 +336,6 @@ Hikvision, a leading Chinese survelliance company, has denied suggestions that i
  - [https://www.cnn.com/2022/11/25/us/chesapeake-virginia-walmart-shooting-friday/index.html](https://www.cnn.com/2022/11/25/us/chesapeake-virginia-walmart-shooting-friday/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 10:59:10+00:00
- - tags: None
 
 As authorities investigate this week's mass shooting inside a Walmart in Chesapeake, Virginia, at least two employees remained hospitalized after a manager killed six coworkers before taking his own life.
 
@@ -391,7 +343,6 @@ As authorities investigate this week's mass shooting inside a Walmart in Chesape
  - [https://edition.cnn.com/sport/live-news/world-cup-11-25-2022/index.html](https://edition.cnn.com/sport/live-news/world-cup-11-25-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 10:43:28.339596+00:00
- - tags: None
 
 
 
@@ -399,7 +350,6 @@ As authorities investigate this week's mass shooting inside a Walmart in Chesape
  - [https://www.cnn.com/2022/11/25/us/utah-zion-national-park-couple-deadly-hike-trip/index.html](https://www.cnn.com/2022/11/25/us/utah-zion-national-park-couple-deadly-hike-trip/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 10:31:37+00:00
- - tags: None
 
 A married couple's hiking trip in a Utah national park turned deadly when they started experiencing symptoms of hypothermia, leading to the wife's death, officials said.
 
@@ -407,7 +357,6 @@ A married couple's hiking trip in a Utah national park turned deadly when they s
  - [https://www.cnn.com/2022/11/25/business/black-friday-strikes-britain/index.html](https://www.cnn.com/2022/11/25/business/black-friday-strikes-britain/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 10:30:11+00:00
- - tags: None
 
 Britain's cost-of-living crisis is already taking the shine off Black Friday. Now, the annual shopping bonanza faces an additional threat from strikes that could disrupt deliveries, subdue online sales and deliver another blow to the slumping economy.
 
@@ -415,7 +364,6 @@ Britain's cost-of-living crisis is already taking the shine off Black Friday. No
  - [https://www.cnn.com/2022/11/25/asia/anwar-ibrahim-malaysia-new-prime-minister-explainer-intl-hnk/index.html](https://www.cnn.com/2022/11/25/asia/anwar-ibrahim-malaysia-new-prime-minister-explainer-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 10:02:43+00:00
- - tags: None
 
 It's a political journey decades in the making -- the transformation of a young student firebrand into an icon of democracy and eventually the leader of his country, via two stints in jail.
 
@@ -423,7 +371,6 @@ It's a political journey decades in the making -- the transformation of a young 
  - [https://www.cnn.com/2022/11/25/health/thanksgiving-holiday-leftovers-ideas-wellness/index.html](https://www.cnn.com/2022/11/25/health/thanksgiving-holiday-leftovers-ideas-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 09:53:58+00:00
- - tags: None
 
 After the last plate has been cleared from the table and everyone — except the person stuck washing dishes — has migrated to the couch, it's time to begin the next part of the Thanksgiving tradition.
 
@@ -431,7 +378,6 @@ After the last plate has been cleared from the table and everyone — except the
  - [https://www.cnn.com/style/article/kendall-jenner-tights-lotw/index.html](https://www.cnn.com/style/article/kendall-jenner-tights-lotw/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 09:42:51+00:00
- - tags: None
 
 Kendall Jenner's latest street style snap is a masterclass in minimalism, with one notable element missing: trousers.
 
@@ -439,7 +385,6 @@ Kendall Jenner's latest street style snap is a masterclass in minimalism, with o
  - [https://www.cnn.com/travel/article/ellinikon-athens-airport-greece-development-c2e-spc-intl/index.html](https://www.cnn.com/travel/article/ellinikon-athens-airport-greece-development-c2e-spc-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 09:17:01+00:00
- - tags: None
 
 Renowned for its iconic, ancient architecture perched atop dusty hilltops, the Greek capital of Athens is not usually associated with green, open space. But this may soon change, as the city's former international airport and its surrounding waterfront is set to be transformed into a giant coastal park bigger than London's Hyde Park.
 
@@ -447,7 +392,6 @@ Renowned for its iconic, ancient architecture perched atop dusty hilltops, the G
  - [https://www.cnn.com/2022/11/25/china/china-zero-covid-discontent-reopening-mic-intl-hnk/index.html](https://www.cnn.com/2022/11/25/china/china-zero-covid-discontent-reopening-mic-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 09:06:46+00:00
- - tags: None
 
 Zhou, an auto dealer in northeastern China, last saw his father alive in a video chat on the afternoon of November 1, hours after their home on the far outskirts of Beijing was locked down.
 
@@ -455,7 +399,6 @@ Zhou, an auto dealer in northeastern China, last saw his father alive in a video
  - [https://www.cnn.com/2022/11/25/entertainment/bts-jin-south-korea-military-intl-hnk/index.html](https://www.cnn.com/2022/11/25/entertainment/bts-jin-south-korea-military-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 09:05:41+00:00
- - tags: None
 
 K-pop superstar Jin will begin his mandatory military service next month, a source with direct knowledge of the situation confirmed Friday, after the BTS singer appealed to the supergroup's devoted fans to stay away from his South Korean army training center.
 
@@ -463,7 +406,6 @@ K-pop superstar Jin will begin his mandatory military service next month, a sour
  - [https://www.cnn.com/2022/11/25/cars/tesla-recalls-china/index.html](https://www.cnn.com/2022/11/25/cars/tesla-recalls-china/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 08:45:32+00:00
- - tags: None
 
 Tesla Inc is recalling more than 80,000 China-made and imported cars produced from as early as 2013, for software and seat belt issues, a statement by the Chinese market regulator revealed on Friday.
 
@@ -471,7 +413,6 @@ Tesla Inc is recalling more than 80,000 China-made and imported cars produced fr
  - [https://www.cnn.com/travel/article/best-net-zero-hotels-cmd/index.html](https://www.cnn.com/travel/article/best-net-zero-hotels-cmd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 08:04:18+00:00
- - tags: None
 
 As we wrap up the final months of 2022 and look ahead to a new year, there's a buzz phrase that's gaining steam in the world of sustainable travel: net-zero hotels. In other words, accommodations that are powered entirely by renewable energy sources.
 
@@ -479,7 +420,6 @@ As we wrap up the final months of 2022 and look ahead to a new year, there's a b
  - [https://www.cnn.com/travel/article/man-rescued-carnival-cruise-gulf-of-mexico/index.html](https://www.cnn.com/travel/article/man-rescued-carnival-cruise-gulf-of-mexico/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 07:05:17+00:00
- - tags: None
 
 In a remarkable act of service and good fortune, a man reported missing from the Carnival Valor sailing in the Gulf of Mexico was found in the water and rescued on Thursday, according to the US Coast Guard.
 
@@ -487,7 +427,6 @@ In a remarkable act of service and good fortune, a man reported missing from the
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-11-25-22/index.html](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-11-25-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 06:43:23.594203+00:00
- - tags: None
 
 
 
@@ -495,7 +434,6 @@ In a remarkable act of service and good fortune, a man reported missing from the
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-11-25-22/index.html](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-11-25-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 06:43:23.444219+00:00
- - tags: None
 
 
 
@@ -503,7 +441,6 @@ In a remarkable act of service and good fortune, a man reported missing from the
  - [https://www.cnn.com/2022/11/24/us/chesapeake-virginia-walmart-shooting-thursday/index.html](https://www.cnn.com/2022/11/24/us/chesapeake-virginia-walmart-shooting-thursday/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 05:56:28+00:00
- - tags: None
 
 After an ordinary workday turned deadly at a Walmart in Chesapeake, Virginia, survivors and investigators are spending the Thanksgiving holiday questioning the motive of an employee who opened fire on coworkers, killing six before fatally turning the gun on himself.
 
@@ -511,7 +448,6 @@ After an ordinary workday turned deadly at a Walmart in Chesapeake, Virginia, su
  - [https://www.cnn.com/2022/11/24/world/nasa-orion-capsule-selfie-moon-scn/index.html](https://www.cnn.com/2022/11/24/world/nasa-orion-capsule-selfie-moon-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 05:09:20+00:00
- - tags: None
 
 NASA released a selfie taken by the Orion capsule and close-up photos of the moon's crater-marked landscape as the spacecraft continues on the Artemis 1 mission, a 25-and-a-half day journey that will take it more than 40,000 miles beyond the far side of the moon.
 
@@ -519,7 +455,6 @@ NASA released a selfie taken by the Orion capsule and close-up photos of the moo
  - [https://www.cnn.com/videos/business/2022/11/25/china-chip-war-us-wang-pkg-qmb-contd-intl-hnk-vpx.cnn](https://www.cnn.com/videos/business/2022/11/25/china-chip-war-us-wang-pkg-qmb-contd-intl-hnk-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 04:45:50+00:00
- - tags: None
 
 The US and China are locked in a battle over microchips, which is stretching the global supply chains to their limits. President Biden's CHIPS Act that bans certain chip exports to China is hurting the country's tech ambitions. CNN's Selina Wang reports.
 
@@ -527,6 +462,5 @@ The US and China are locked in a battle over microchips, which is stretching the
  - [https://www.cnn.com/collections/intl-world-cup-241122/](https://www.cnn.com/collections/intl-world-cup-241122/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-25 00:26:39+00:00
- - tags: None
 
 

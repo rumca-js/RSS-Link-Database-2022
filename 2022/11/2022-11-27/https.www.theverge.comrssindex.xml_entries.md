@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Gran Turismo chief says devs are ‘looking into’ a PC port
  - [https://www.theverge.com/2022/11/27/23480846/gran-turismo-chief-looking-into-pc-port-playstation](https://www.theverge.com/2022/11/27/23480846/gran-turismo-chief-looking-into-pc-port-playstation)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-27 22:51:53+00:00
- - tags: None
 
 <figure>
       <img alt="An image showing a vehicle in Gran Turismo 7" src="https://cdn.vox-cdn.com/thumbor/pPkrUyPAV2SIUVwSshRkHs5y6m0=/300x0:3540x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71679929/GT7_Ferrari_F40_92_Scapes_03_.0.jpg" />
@@ -22,7 +21,6 @@
  - [https://www.theverge.com/2022/11/27/23480560/sonos-speakers-soundbars-cyber-monday-deal-best-buy-target](https://www.theverge.com/2022/11/27/23480560/sonos-speakers-soundbars-cyber-monday-deal-best-buy-target)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-27 22:33:28+00:00
- - tags: None
 
 <figure>
       <img alt="An image of the front of the Sonos Arc soundbar with a TV in the background." src="https://cdn.vox-cdn.com/thumbor/qomgAJszRn-tK6zRjffawkMFZmY=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71679888/DSCF0849.0.jpg" />
@@ -48,7 +46,6 @@
  - [https://www.theverge.com/23480442/cyber-monday-2022-tech-deals-under-100-streaming-speakers-gaming](https://www.theverge.com/23480442/cyber-monday-2022-tech-deals-under-100-streaming-speakers-gaming)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-27 20:33:46+00:00
- - tags: None
 
 <figure>
       <img alt="The Kindle Paperwhite e-reader turned on resting on a bunch of analog books." src="https://cdn.vox-cdn.com/thumbor/q-hugm5Zz0rQLSYDE3DJz3YjqRc=/0x227:1360x1134/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71679559/cgartenberg_211020_4819_0006_2.0.jpg" />
@@ -81,7 +78,6 @@
  - [https://www.theverge.com/2022/11/27/23480405/til-lg-libero-space-saving-cubicle-monitor](https://www.theverge.com/2022/11/27/23480405/til-lg-libero-space-saving-cubicle-monitor)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-27 19:21:50+00:00
- - tags: None
 
 <figure>
       <img alt="An image of LG’s Libero Monitor hanging on a cubicle" src="https://cdn.vox-cdn.com/thumbor/OCCzHW3UQtEnlI7B5U3y-GVke2E=/200x0:1400x800/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71679322/lg_libero_cubicle_monitor_1.0.jpg" />
@@ -100,7 +96,6 @@
  - [https://www.theverge.com/2022/11/27/23473680/tiktok-text-to-speech-actress-kat-callaghan-interview](https://www.theverge.com/2022/11/27/23473680/tiktok-text-to-speech-actress-kat-callaghan-interview)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-27 16:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="The image shows the TikTok logo superimposed on a white background." src="https://cdn.vox-cdn.com/thumbor/_tK4quGVWfQ51hPMKM1xWBzjDrM=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71678736/STK051_VRG_Illo_N_Barclay_10_tiktok.0.jpg" />
@@ -118,7 +113,6 @@
  - [https://www.theverge.com/2022/11/27/23480167/frontier-airlines-shut-down-customer-service-phone-line](https://www.theverge.com/2022/11/27/23480167/frontier-airlines-shut-down-customer-service-phone-line)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-27 15:57:07+00:00
- - tags: None
 
 <figure>
       <img alt="Frontier employees and executives physically pull a 46-ton Airbus A320 out of the Frontier Airlines hanger at Denver International Airport in Denver." src="https://cdn.vox-cdn.com/thumbor/rS6BkFryx2dj9d4zrKoRPODSXZM=/0x16:4676x3133/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71678728/455051552.0.jpg" />
@@ -135,7 +129,6 @@
  - [https://www.theverge.com/2022/11/27/23475551/genki-covert-dock-mini-nintendo-switch](https://www.theverge.com/2022/11/27/23475551/genki-covert-dock-mini-nintendo-switch)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-27 14:30:00+00:00
- - tags: None
 
 <figure>
       <img alt="Genki Mini dock in-hand." src="https://cdn.vox-cdn.com/thumbor/S-6EVVCJS1Pjqj_PVcagQNnMbIM=/0x0:2000x1333/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71678516/DSC03869_processed.0.jpg" />
@@ -152,7 +145,6 @@
  - [https://www.theverge.com/23480106/cyber-monday-2022-early-deals-tech-best-phones-gaming-headphones](https://www.theverge.com/23480106/cyber-monday-2022-early-deals-tech-best-phones-gaming-headphones)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-27 13:05:07+00:00
- - tags: None
 
 <figure>
       <img alt="An illustration by The Noc Design made for The Verge." src="https://cdn.vox-cdn.com/thumbor/zXLKldKsXze9bb9_TOnen75Xnhs=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71678349/226415_Noc_Design_Black_Friday_deals.0.jpg" />

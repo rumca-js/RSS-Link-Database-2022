@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## Add 'Diplomacy' to the list of games AI can play as well as humans
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59588](https://www.codeproject.com/script/News/View.aspx?nwid=59588)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-23 05:00:00+00:00
- - tags: None
 
 After watching most nations' leaders negotiate, I'm not surprised
 
@@ -12,7 +11,6 @@ After watching most nations' leaders negotiate, I'm not surprised
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59590](https://www.codeproject.com/script/News/View.aspx?nwid=59590)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-23 05:00:00+00:00
- - tags: None
 
 You just need to get your computer up to 88 mph
 
@@ -20,7 +18,6 @@ You just need to get your computer up to 88 mph
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59587](https://www.codeproject.com/script/News/View.aspx?nwid=59587)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-23 05:00:00+00:00
- - tags: None
 
 Go on: you know you want to read it
 
@@ -28,7 +25,6 @@ Go on: you know you want to read it
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59595](https://www.codeproject.com/script/News/View.aspx?nwid=59595)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-23 05:00:00+00:00
- - tags: None
 
 
 
@@ -36,7 +32,6 @@ Go on: you know you want to read it
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59597](https://www.codeproject.com/script/News/View.aspx?nwid=59597)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-23 05:00:00+00:00
- - tags: None
 
 Or maybe people would rather write the code themselves?
 
@@ -44,7 +39,6 @@ Or maybe people would rather write the code themselves?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59592](https://www.codeproject.com/script/News/View.aspx?nwid=59592)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-23 05:00:00+00:00
- - tags: None
 
 "It's a small world after all"
 
@@ -52,7 +46,6 @@ Or maybe people would rather write the code themselves?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59593](https://www.codeproject.com/script/News/View.aspx?nwid=59593)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-23 05:00:00+00:00
- - tags: None
 
 But of course - your entries on Schedule A are important for determining your friend status
 
@@ -60,7 +53,6 @@ But of course - your entries on Schedule A are important for determining your fr
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59596](https://www.codeproject.com/script/News/View.aspx?nwid=59596)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-23 05:00:00+00:00
- - tags: None
 
 Turn your tech and cough
 
@@ -68,7 +60,6 @@ Turn your tech and cough
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59586](https://www.codeproject.com/script/News/View.aspx?nwid=59586)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-23 05:00:00+00:00
- - tags: None
 
 Behind every great computer...
 
@@ -76,7 +67,6 @@ Behind every great computer...
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59589](https://www.codeproject.com/script/News/View.aspx?nwid=59589)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-23 05:00:00+00:00
- - tags: None
 
 Don't put it on toast
 
@@ -84,7 +74,6 @@ Don't put it on toast
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59594](https://www.codeproject.com/script/News/View.aspx?nwid=59594)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-23 05:00:00+00:00
- - tags: None
 
 Perhaps they could try some Appexit, or Googexit?
 
@@ -92,7 +81,6 @@ Perhaps they could try some Appexit, or Googexit?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59591](https://www.codeproject.com/script/News/View.aspx?nwid=59591)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-23 05:00:00+00:00
- - tags: None
 
 Just ignore all invoices to be safe
 
@@ -100,6 +88,5 @@ Just ignore all invoices to be safe
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59585](https://www.codeproject.com/script/News/View.aspx?nwid=59585)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-23 05:00:00+00:00
- - tags: None
 
 Not to be confused with Windows 11 22H2, or the Hummer H2

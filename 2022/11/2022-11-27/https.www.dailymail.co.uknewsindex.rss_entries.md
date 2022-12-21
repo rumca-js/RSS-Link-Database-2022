@@ -1,10 +1,9 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss
+# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
 
 ## Huntsman spider influx, Queensland: Residents warned they'll be 'bigger' than before
  - [https://www.dailymail.co.uk/news/article-11475253/Huntsman-spider-influx-Queensland-Residents-warned-theyll-bigger-before.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11475253/Huntsman-spider-influx-Queensland-Residents-warned-theyll-bigger-before.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 23:59:37+00:00
- - tags: None
 
 Arachnophobes across Australia are in for their worst nightmare this summer - as experts warn of an influx of huge and hairy huntsman spiders.
 
@@ -12,7 +11,6 @@ Arachnophobes across Australia are in for their worst nightmare this summer - as
  - [https://www.dailymail.co.uk/sport/sportsnews/article-11475041/Tottenham-legend-former-England-defender-Maurice-Norman-dies-aged-88.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sport/sportsnews/article-11475041/Tottenham-legend-former-England-defender-Maurice-Norman-dies-aged-88.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 23:58:47+00:00
- - tags: None
 
 After making 35 appearances for Norwich, a teenage Norman joined Spurs in 1955 and went on to play 411 times for the north London outfit over the 10 years that followed.
 
@@ -20,7 +18,6 @@ After making 35 appearances for Norwich, a teenage Norman joined Spurs in 1955 a
  - [https://www.dailymail.co.uk/news/article-11475237/Death-Sydney-woman-Legionnaires-disease-prompts-urgent-warning-Aussie-gardeners.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11475237/Death-Sydney-woman-Legionnaires-disease-prompts-urgent-warning-Aussie-gardeners.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 23:56:27+00:00
- - tags: None
 
 Australian gardeners have been urged to take care while handling potting mix after a Sydney woman, aged in her 60s, died of the potentially fatal disease last week.
 
@@ -28,7 +25,6 @@ Australian gardeners have been urged to take care while handling potting mix aft
  - [https://www.dailymail.co.uk/news/article-11281757/The-cost-electric-cars-EVs-vehicle-government-control.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11281757/The-cost-electric-cars-EVs-vehicle-government-control.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 23:52:34+00:00
- - tags: None
 
 Electric cars give governments more control than ever before over how we drive, and if Australians don't want to lose one of our last freedoms we need to hold onto our petrol and diesel powered vehicles.
 
@@ -36,7 +32,6 @@ Electric cars give governments more control than ever before over how we drive, 
  - [https://www.dailymail.co.uk/news/article-11475339/Met-Policewoman-suspended-setting-raunchy-OnlyFans-porn-site-quits-Scotland-Yard.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11475339/Met-Policewoman-suspended-setting-raunchy-OnlyFans-porn-site-quits-Scotland-Yard.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 23:45:36+00:00
- - tags: None
 
 Sam Helena, who has posted a number of raunchy and half-naked pictures to her Instagram account, is self-styled as 'Good Girl Gone Bad'.
 
@@ -44,7 +39,6 @@ Sam Helena, who has posted a number of raunchy and half-naked pictures to her In
  - [https://www.dailymail.co.uk/news/article-11475373/Road-rage-Cabramatta-stabbing-Toyota-Yaris-driver-allegedly-set-man-Hume-Highway-Sydney.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11475373/Road-rage-Cabramatta-stabbing-Toyota-Yaris-driver-allegedly-set-man-Hume-Highway-Sydney.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 23:42:39+00:00
- - tags: None
 
 The 46-year-old had to undergo surgery after he was allegedly knifed at the intersection of the Hume Highway and Cabramatta Road, in Sydney's south west at 8pm on Sunday.
 
@@ -52,7 +46,6 @@ The 46-year-old had to undergo surgery after he was allegedly knifed at the inte
  - [https://www.dailymail.co.uk/news/article-11475399/Pennsylvania-Teen-ADMITS-murdering-girl-Instagram-video-shows-friend-victims-bloody-feet.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11475399/Pennsylvania-Teen-ADMITS-murdering-girl-Instagram-video-shows-friend-victims-bloody-feet.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 23:39:26+00:00
- - tags: None
 
 Police in Pennsylvania received a 911 call about a possible homicide from a teenage girl who had received an Instagram video chat from a 16-year-old friend.
 
@@ -60,7 +53,6 @@ Police in Pennsylvania received a 911 call about a possible homicide from a teen
  - [https://www.dailymail.co.uk/news/article-11475557/Rishi-Sunak-warned-real-danger-Government-amid-rebellion-new-onshore-turbines-ban.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11475557/Rishi-Sunak-warned-real-danger-Government-amid-rebellion-new-onshore-turbines-ban.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 23:26:29+00:00
- - tags: None
 
 Former party chairman Jake Berry said Mr Gove's alleged support for onshore wind developments in the UK spelt 'real danger for the government'.
 
@@ -68,7 +60,6 @@ Former party chairman Jake Berry said Mr Gove's alleged support for onshore wind
  - [https://www.dailymail.co.uk/news/article-11475183/Arnotts-removes-loved-biscuit-pack-shelves.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11475183/Arnotts-removes-loved-biscuit-pack-shelves.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 23:13:53+00:00
- - tags: None
 
 Arnott's has confirmed another Australian morning tea biscuit staple has been discontinued and is gone for good, citing low sales and consumer demand.
 
@@ -76,7 +67,6 @@ Arnott's has confirmed another Australian morning tea biscuit staple has been di
  - [https://www.dailymail.co.uk/news/article-11475427/Outback-Wrangler-Matt-Wright-helicopter-crash-arrest-Warrant-issued-crocodile-TV-star.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11475427/Outback-Wrangler-Matt-Wright-helicopter-crash-arrest-Warrant-issued-crocodile-TV-star.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 22:55:10+00:00
- - tags: None
 
 Police have issued an arrest warrant for reality television star Matt Wright, nine months after a helicopter crash tragically killed one of his co-stars.
 
@@ -84,7 +74,6 @@ Police have issued an arrest warrant for reality television star Matt Wright, n
  - [https://www.dailymail.co.uk/news/article-11475299/Scott-Morrison-MP-censured-parliament-2018.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11475299/Scott-Morrison-MP-censured-parliament-2018.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 22:52:35+00:00
- - tags: None
 
 Prime Minister Anthony Albanese has called on his predecessor to apologise to parliament for his role in secretly appointing himself to five ministerial positions.
 
@@ -92,7 +81,6 @@ Prime Minister Anthony Albanese has called on his predecessor to apologise to pa
  - [https://www.dailymail.co.uk/news/article-11475233/Cops-one-body-search-missing-Arizona-parents-disappeared-kayaking-Mexico.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11475233/Cops-one-body-search-missing-Arizona-parents-disappeared-kayaking-Mexico.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 22:47:40+00:00
- - tags: None
 
 Corey Allen and Yeon-Su Kim, parents of two children, went missing on Thanksgiving during a kayaking expenditure in Puerto Peñasco, Mexico.
 
@@ -100,7 +88,6 @@ Corey Allen and Yeon-Su Kim, parents of two children, went missing on Thanksgivi
  - [https://www.dailymail.co.uk/news/article-11475423/Less-half-students-Cambridge-University-heterosexual-survey-suggests.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11475423/Less-half-students-Cambridge-University-heterosexual-survey-suggests.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 22:43:46+00:00
- - tags: None
 
 Around 600 Cambridge undergraduates took part in the anonymous online poll for student newspaper Varsity last month. Of those, just 49.7 per cent said they were heterosexual.
 
@@ -108,7 +95,6 @@ Around 600 Cambridge undergraduates took part in the anonymous online poll for s
  - [https://www.dailymail.co.uk/news/article-11475385/Dinosaur-senior-Enormous-skeleton-history-museum.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11475385/Dinosaur-senior-Enormous-skeleton-history-museum.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 22:40:15+00:00
- - tags: None
 
 Titanosaurs were a diverse group of gigantic long-necked, plant-eating dinosaurs, found on all continents 100million years ago.
 
@@ -116,7 +102,6 @@ Titanosaurs were a diverse group of gigantic long-necked, plant-eating dinosaurs
  - [https://www.dailymail.co.uk/news/article-11475397/Keir-Starmer-vows-Corbyn-policy-scrapping-private-school-charitable-status.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11475397/Keir-Starmer-vows-Corbyn-policy-scrapping-private-school-charitable-status.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 22:29:28+00:00
- - tags: None
 
 Keir Starmer has vowed to retain Jeremy Corbyn's policy of scrapping their charitable status. Tory MPs said it was a 'spite measure' that would make the schools the preserve of wealthy foreigners.
 
@@ -124,7 +109,6 @@ Keir Starmer has vowed to retain Jeremy Corbyn's policy of scrapping their chari
  - [https://www.dailymail.co.uk/news/article-11475173/Author-Elizabeth-Blackwell-accuses-Columbia-professor-giving-female-jobs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11475173/Author-Elizabeth-Blackwell-accuses-Columbia-professor-giving-female-jobs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 22:29:09+00:00
- - tags: None
 
 A best-selling author and Columbia University professor is being sued by a female former student who alleges she was discriminated against based on her gender.
 
@@ -132,7 +116,6 @@ A best-selling author and Columbia University professor is being sued by a femal
  - [https://www.dailymail.co.uk/news/article-11475101/Boy-12-shot-dead-playing-Russian-Roulette-abandoned-house-three-arrested-murder.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11475101/Boy-12-shot-dead-playing-Russian-Roulette-abandoned-house-three-arrested-murder.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 22:26:20+00:00
- - tags: None
 
 A 12-year-old boy is dead after reportedly becoming involved in a game of Russian Roulette.
 
@@ -140,7 +123,6 @@ A 12-year-old boy is dead after reportedly becoming involved in a game of Russia
  - [https://www.dailymail.co.uk/news/article-11475309/How-Covid-revolt-swept-China-Hundreds-demand-Communist-leader-steps-lockdowns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11475309/How-Covid-revolt-swept-China-Hundreds-demand-Communist-leader-steps-lockdowns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 22:16:44+00:00
- - tags: None
 
 IAN BIRRELL: The blaze broke out in a residential high-rise building in Urumqi, a city in western China infamous for the repression of Uighur citizens.
 
@@ -148,7 +130,6 @@ IAN BIRRELL: The blaze broke out in a residential high-rise building in Urumqi, 
  - [https://www.dailymail.co.uk/news/article-11475345/Stephen-Lawrence-killer-David-Norris-caught-mobile-phone-cell-SECOND-time.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11475345/Stephen-Lawrence-killer-David-Norris-caught-mobile-phone-cell-SECOND-time.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 22:13:56+00:00
- - tags: None
 
 Prison chiefs are facing questions after David Norris, one of Stephen Lawrence's jailed killers, was found in possession of a mobile phone for the second time in two months.
 
@@ -156,7 +137,6 @@ Prison chiefs are facing questions after David Norris, one of Stephen Lawrence's
  - [https://www.dailymail.co.uk/news/article-11475009/Will-Barbados-make-MP-pay-slavery-debt-Tory-Richard-Drax-forced-hand-reparations.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11475009/Will-Barbados-make-MP-pay-slavery-debt-Tory-Richard-Drax-forced-hand-reparations.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 22:06:46+00:00
- - tags: None
 
 Richard Drax, 64, has reportedly been threatened with legal action in the international courts by politicians on the Caribbean island if he refuses to comply with their demands.
 
@@ -164,7 +144,6 @@ Richard Drax, 64, has reportedly been threatened with legal action in the intern
  - [https://www.dailymail.co.uk/news/article-11475289/Police-blunders-let-gun-officer-kill-airport-drink-drive-arrest-coroner-hears.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11475289/Police-blunders-let-gun-officer-kill-airport-drink-drive-arrest-coroner-hears.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 22:04:49+00:00
- - tags: None
 
 The officer was swiped in to a police armoury where he obtained the gun he shot himself with despite having his access withdrawn following a drink-driving arrest days earlier.
 
@@ -172,7 +151,6 @@ The officer was swiped in to a police armoury where he obtained the gun he shot 
  - [https://www.dailymail.co.uk/news/article-11475271/Britains-richest-family-Hindujas-torn-apart-Succession-style-feud.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11475271/Britains-richest-family-Hindujas-torn-apart-Succession-style-feud.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 22:01:21+00:00
- - tags: None
 
 The Hinduja brothers, Britain's richest family, built everything together, operating as what PR men dubbed a sort of 'Fab Four' of the global business elite.
 
@@ -180,7 +158,6 @@ The Hinduja brothers, Britain's richest family, built everything together, opera
  - [https://www.dailymail.co.uk/news/article-11475197/Mariah-Carey-seen-using-teleprompter-Macys-Thanksgiving-Day-Parade.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11475197/Mariah-Carey-seen-using-teleprompter-Macys-Thanksgiving-Day-Parade.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 21:55:23+00:00
- - tags: None
 
 Mariah Carey has been called out by fans for using a teleprompter to perform her hit song All I Want for Christmas at the 96th annual Macy's Thanksgiving Day Parade.
 
@@ -188,7 +165,6 @@ Mariah Carey has been called out by fans for using a teleprompter to perform her
  - [https://www.dailymail.co.uk/news/article-11474945/Balenciaga-files-25M-suit-against-producers-controversial-BDSM-teddy-bear-ad-campaign.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474945/Balenciaga-files-25M-suit-against-producers-controversial-BDSM-teddy-bear-ad-campaign.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 21:55:17+00:00
- - tags: None
 
 The high-end luxury fashion house is suing ad production company North Six Inc., and set designer Nicholas Des Jardins, for including images of legal documents of SCOTUS' opinion on child porn laws.
 
@@ -196,7 +172,6 @@ The high-end luxury fashion house is suing ad production company North Six Inc.,
  - [https://www.dailymail.co.uk/news/article-11475135/Text-message-scam-targeting-Aussie-drivers-demand-pay-thousands-dollars-unpaid-tolls.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11475135/Text-message-scam-targeting-Aussie-drivers-demand-pay-thousands-dollars-unpaid-tolls.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 21:54:29+00:00
- - tags: None
 
 Clever scammers have been targeting thousands of Aussie drivers by pretending to be from toll company Linkt with fake messages that ask they cough up thousands of dollars in unpaid tolls.
 
@@ -204,7 +179,6 @@ Clever scammers have been targeting thousands of Aussie drivers by pretending to
  - [https://www.dailymail.co.uk/news/article-11475291/Horror-South-Wales-bodies-two-dead-babies-house-Police-arrest-two-people.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11475291/Horror-South-Wales-bodies-two-dead-babies-house-Police-arrest-two-people.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 21:54:02+00:00
- - tags: None
 
 Two men aged 37 and 47, and a 29-year-old woman, were arrested on suspicion of concealing the birth of a child and they remain in police custody, South Wales Police said.
 
@@ -212,7 +186,6 @@ Two men aged 37 and 47, and a 29-year-old woman, were arrested on suspicion of c
  - [https://www.dailymail.co.uk/news/article-11475029/Ukraine-medics-removing-red-crosses-uniforms-avoid-targeting-Russian-forces-charity-says.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11475029/Ukraine-medics-removing-red-crosses-uniforms-avoid-targeting-Russian-forces-charity-says.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 21:48:27+00:00
- - tags: None
 
 Frontline medical staff in Ukraine are being targeted by enemy fire  more than in any other war and are being treated as 'high-value targets' by Russian forces, according to a humanitarian charity.
 
@@ -220,7 +193,6 @@ Frontline medical staff in Ukraine are being targeted by enemy fire  more than i
  - [https://www.dailymail.co.uk/news/article-11475117/Daniel-Andrews-election-prompts-exodus-Victorians-vow-leave-state.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11475117/Daniel-Andrews-election-prompts-exodus-Victorians-vow-leave-state.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 21:43:09+00:00
- - tags: None
 
 Residents have lashed out against the Labor leader after he was handed the  election win against Opposition leader Matthew Guy on Saturday night.
 
@@ -228,7 +200,6 @@ Residents have lashed out against the Labor leader after he was handed the  elec
  - [https://www.dailymail.co.uk/news/article-11475081/Rep-Adam-Schiff-REFUSES-say-comply-subpoenaed-House-Republicans.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11475081/Rep-Adam-Schiff-REFUSES-say-comply-subpoenaed-House-Republicans.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 21:38:56+00:00
- - tags: None
 
 The California Democrat has been a top political scalp for Republicans after his prominent role in Donald Trump's impeachments and investigating the ex-president.
 
@@ -236,7 +207,6 @@ The California Democrat has been a top political scalp for Republicans after his
  - [https://www.dailymail.co.uk/news/article-11475103/Man-killed-attack-near-Richmond-Bridge-Ian-Wrights-friend-boxing-trainer-31.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11475103/Man-killed-attack-near-Richmond-Bridge-Ian-Wrights-friend-boxing-trainer-31.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 21:24:37+00:00
- - tags: None
 
 Boxer Reece Newcombe, 31, helped train the ex-Arsenal footballer for a charity boxing match and has just become father to a baby girl Misse in June.
 
@@ -244,7 +214,6 @@ Boxer Reece Newcombe, 31, helped train the ex-Arsenal footballer for a charity b
  - [https://www.dailymail.co.uk/news/article-11475079/Whole-Foods-pulls-Main-lobster-shelves-industry-threatens-right-whales.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11475079/Whole-Foods-pulls-Main-lobster-shelves-industry-threatens-right-whales.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 21:21:35+00:00
- - tags: None
 
 Whole Foods will stop selling lobsters from the Gulf of Maine in an effort to protect endangered whales. The decision comes after a judge ruled for stricter fishing restrictions by 2024.
 
@@ -252,7 +221,6 @@ Whole Foods will stop selling lobsters from the Gulf of Maine in an effort to pr
  - [https://www.dailymail.co.uk/news/article-11474963/Public-health-officials-tell-hotels-migrants-isolated-rooms-prevent-outbreak.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474963/Public-health-officials-tell-hotels-migrants-isolated-rooms-prevent-outbreak.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 21:20:18+00:00
- - tags: None
 
 As part of the emergency measures, UK asylum seekers housed in hotels must remain in their rooms and will be sent meals with crockery and utensils that must not be used by others.
 
@@ -260,7 +228,6 @@ As part of the emergency measures, UK asylum seekers housed in hotels must remai
  - [https://www.dailymail.co.uk/news/article-11474985/Gold-Coast-Schoolies-School-leavers-reveal-theyre-offered-drugs-Surfers-Paradise-party-strip.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474985/Gold-Coast-Schoolies-School-leavers-reveal-theyre-offered-drugs-Surfers-Paradise-party-strip.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 20:56:50+00:00
- - tags: None
 
 Thousands of school leavers have converged on Surfers Paradise for the biggest Schoolies celebration on the glitter party strip since pre-Covid 2019.
 
@@ -268,7 +235,6 @@ Thousands of school leavers have converged on Surfers Paradise for the biggest S
  - [https://www.dailymail.co.uk/news/article-11475017/Idaho-police-chief-SLAMS-rumors-swirling-death-four-students.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11475017/Idaho-police-chief-SLAMS-rumors-swirling-death-four-students.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 20:55:26+00:00
- - tags: None
 
 Idaho state police have slammed rumors being spread about the deaths of four university students, saying the speculation does a disservice to the victims' families and to the community in general.
 
@@ -276,7 +242,6 @@ Idaho state police have slammed rumors being spread about the deaths of four uni
  - [https://www.dailymail.co.uk/news/article-11475115/biden-nantucket-thanksgiving.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11475115/biden-nantucket-thanksgiving.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 20:50:51+00:00
- - tags: None
 
 He's headed back to D.C. for a week in which the White House Christmas decorations will be revealed - and he'll host French President Emmanuel Macron.
 
@@ -284,7 +249,6 @@ He's headed back to D.C. for a week in which the White House Christmas decoratio
  - [https://www.dailymail.co.uk/news/article-11475035/London-Fire-Brigade-chief-Andy-Roe-vows-sack-racist-sexist-firefighters-damning-report.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11475035/London-Fire-Brigade-chief-Andy-Roe-vows-sack-racist-sexist-firefighters-damning-report.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 20:49:57+00:00
- - tags: None
 
 Andy Roe said said the findings of the 70-page London Fire Brigade review were 'horrifying' and that 'public confidence and trust' had been 'betrayed'.
 
@@ -292,7 +256,6 @@ Andy Roe said said the findings of the 70-page London Fire Brigade review were '
  - [https://www.dailymail.co.uk/news/article-11474569/Airbnb-customer-left-disgusted-paying-2-750-stay-seven-nights-shabby-dirty-flat.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474569/Airbnb-customer-left-disgusted-paying-2-750-stay-seven-nights-shabby-dirty-flat.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 20:47:32+00:00
- - tags: None
 
 A tourist visiting her daughter in Edinburgh was left disgusted after she was charged £2,750 to stay seven nights in a 'shabby and dirty' Airbnb which had been advertised as a 'stunning' large flat.
 
@@ -300,7 +263,6 @@ A tourist visiting her daughter in Edinburgh was left disgusted after she was ch
  - [https://www.dailymail.co.uk/news/article-11474953/University-Oregon-football-player-punches-State-fan-tipped-hat-him.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474953/University-Oregon-football-player-punches-State-fan-tipped-hat-him.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 20:36:59+00:00
- - tags: None
 
 After a football game between the Oregon Ducks and their in-state rivals on Saturday Ducks linebacker DJ Johnson was filmed punching a fan.
 
@@ -308,7 +270,6 @@ After a football game between the Oregon Ducks and their in-state rivals on Satu
  - [https://www.dailymail.co.uk/news/article-11474849/Im-Celebrity-finalist-Matt-Hancocks-PR-team-lobbied-legion-TikTok-fans-vote-him.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474849/Im-Celebrity-finalist-Matt-Hancocks-PR-team-lobbied-legion-TikTok-fans-vote-him.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 20:35:44+00:00
- - tags: None
 
 The former Health Secretary, who quit after breaking his own lockdown rules by having an affair with aide Gina Coladangelo, lost the Tory whip over the decision to enter the Australian jungle.
 
@@ -316,7 +277,6 @@ The former Health Secretary, who quit after breaking his own lockdown rules by h
  - [https://www.dailymail.co.uk/news/article-11474933/100-British-companies-PERMANENT-four-day-week.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474933/100-British-companies-PERMANENT-four-day-week.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 20:17:25+00:00
- - tags: None
 
 A hundred British businesses have signed up for a permanent four-day working week for all their employees - with no loss of pay. Now, roughly 2,600 employees are set to benefit.
 
@@ -324,7 +284,6 @@ A hundred British businesses have signed up for a permanent four-day working wee
  - [https://www.dailymail.co.uk/news/article-11474841/Devout-Julie-Chrisley-reveals-living-fear-handed-30M-tax-fraud-sentence.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474841/Devout-Julie-Chrisley-reveals-living-fear-handed-30M-tax-fraud-sentence.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 19:57:48+00:00
- - tags: None
 
 Reality star Julie Chrisley revealed she had been 'living in fear' prior to her and her husband Todd's multi-year sentencing for tax fraud.
 
@@ -332,7 +291,6 @@ Reality star Julie Chrisley revealed she had been 'living in fear' prior to her 
  - [https://www.dailymail.co.uk/news/article-11474695/Forecasters-warn-severe-weather-spawn-devastating-tornadoes-damaging-winds.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474695/Forecasters-warn-severe-weather-spawn-devastating-tornadoes-damaging-winds.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 19:51:45+00:00
- - tags: None
 
 Tornadoes and high winds are predicted to hit the lower Mississippi River Valley on Tuesday night. The storm warning comes after a tornado hit New Orleans on Saturday.
 
@@ -340,7 +298,6 @@ Tornadoes and high winds are predicted to hit the lower Mississippi River Valley
  - [https://www.dailymail.co.uk/news/article-11474761/Suella-Braverman-set-read-riot-act-police-chiefs-Just-Stop-Oil-mayhem.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474761/Suella-Braverman-set-read-riot-act-police-chiefs-Just-Stop-Oil-mayhem.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 19:48:43+00:00
- - tags: None
 
 The Home Secretary will read the riot act to police chiefs and order a hard-line stance on protests as eco-zealots resume their disruption today.
 
@@ -348,7 +305,6 @@ The Home Secretary will read the riot act to police chiefs and order a hard-line
  - [https://www.dailymail.co.uk/news/article-11474865/Met-Police-protection-remains-London-HQ-Iran-news-channel-journalists-death-threats.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474865/Met-Police-protection-remains-London-HQ-Iran-news-channel-journalists-death-threats.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 19:43:27+00:00
- - tags: None
 
 Armed police have been spotted outside the Iran International offices in Chiswick, west London, alongside multi-role armoured vehicles called Jankels.
 
@@ -356,7 +312,6 @@ Armed police have been spotted outside the Iran International offices in Chiswic
  - [https://www.dailymail.co.uk/news/article-11474795/Democrat-Sen-Chris-Murphy-suggests-DEFUNDING-police-dont-enforce-gun-control-laws.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474795/Democrat-Sen-Chris-Murphy-suggests-DEFUNDING-police-dont-enforce-gun-control-laws.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 19:28:37+00:00
- - tags: None
 
 Sheriffs where the Colorado Springs shooting took place, had previously dubbed their jurisdiction a 'Second Amendment Preservation County' and refused to enforce the state's red flag laws
 
@@ -364,7 +319,6 @@ Sheriffs where the Colorado Springs shooting took place, had previously dubbed t
  - [https://www.dailymail.co.uk/news/article-11474729/England-superfan-visits-Qatar-NINTH-World-Cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474729/England-superfan-visits-Qatar-NINTH-World-Cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 18:59:44+00:00
- - tags: None
 
 Terry Matson, 61, was in Mexico to witness Maradonna's 'Hand of God' goal and Italy for England's infamous penalty shoot-out against Germany. He is now at his ninth World Cup.
 
@@ -372,7 +326,6 @@ Terry Matson, 61, was in Mexico to witness Maradonna's 'Hand of God' goal and It
  - [https://www.dailymail.co.uk/news/article-11474851/Traditional-pie-mash-shop-forced-East-End-residents-just-want-lattes-paninis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474851/Traditional-pie-mash-shop-forced-East-End-residents-just-want-lattes-paninis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 18:57:20+00:00
- - tags: None
 
 F. Cooke's pies in Harold Hill, Romford, which offers pie and mash with liquor sauce and jellied eels, is being forced to move from its traditional base due to 'gentrification'.
 
@@ -380,7 +333,6 @@ F. Cooke's pies in Harold Hill, Romford, which offers pie and mash with liquor s
  - [https://www.dailymail.co.uk/news/article-11474823/Boy-12-dies-hospital-hit-car-heartbroken-family-pay-tribute.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474823/Boy-12-dies-hospital-hit-car-heartbroken-family-pay-tribute.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 18:53:24+00:00
- - tags: None
 
 12-year-old Tyler Wills was knocked down on Friday afternoon in West Sussex after a car collided with him. Police and paramedics were called to the scene along Crawley Avenue at roughly 2.45pm.
 
@@ -388,7 +340,6 @@ F. Cooke's pies in Harold Hill, Romford, which offers pie and mash with liquor s
  - [https://www.dailymail.co.uk/news/article-11474771/Croatian-model-flouts-Muslim-Qatars-draconian-dress-code-rules-wearing-series-daring-outfits.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474771/Croatian-model-flouts-Muslim-Qatars-draconian-dress-code-rules-wearing-series-daring-outfits.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 18:23:46+00:00
- - tags: None
 
 The model and influencer from Croatia said what she was doing was not hurting others, however, saying: 'And I think how my dress or bikini can hurt someone? Please explain me that.'
 
@@ -396,7 +347,6 @@ The model and influencer from Croatia said what she was doing was not hurting ot
  - [https://www.dailymail.co.uk/news/article-11474591/Reveller-drove-safe-bus-drunken-night-told-grow-judge.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474591/Reveller-drove-safe-bus-drunken-night-told-grow-judge.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 18:22:52+00:00
- - tags: None
 
 Tree surgeon Alexander Farrell, 23, jumped into the cab of the single decker 'safe bus' - intended to be a haven for those in distress or injured - at the end of a night out in Bournemouth, Dorset.
 
@@ -404,7 +354,6 @@ Tree surgeon Alexander Farrell, 23, jumped into the cab of the single decker 'sa
  - [https://www.dailymail.co.uk/news/article-11474703/New-book-Queen-reveals-late-monarchs-amusing-attempt-make-light-threat-life.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474703/New-book-Queen-reveals-late-monarchs-amusing-attempt-make-light-threat-life.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 17:56:23+00:00
- - tags: None
 
 EXCLUSIVE: Written by author and broadcaster Gyles Brandreth, the fascinating new book gives a charming insight the Queen's remarkable sense of humour.
 
@@ -412,7 +361,6 @@ EXCLUSIVE: Written by author and broadcaster Gyles Brandreth, the fascinating ne
  - [https://www.dailymail.co.uk/news/article-11474741/Shocking-photos-familys-three-bed-home-mushrooms-SEWAGE-seeping-walls.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474741/Shocking-photos-familys-three-bed-home-mushrooms-SEWAGE-seeping-walls.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 17:55:32+00:00
- - tags: None
 
 Shocking videos show the appalling state of a family's home in London which is covered in black mould and has mushrooms growing out of the walls and ceilings where sewage has leaked.
 
@@ -420,7 +368,6 @@ Shocking videos show the appalling state of a family's home in London which is c
  - [https://www.dailymail.co.uk/news/article-11474731/Rioters-set-blazes-pelt-cars-bricks-Brussels-Belgium-lose-Morocco-World-Cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474731/Rioters-set-blazes-pelt-cars-bricks-Brussels-Belgium-lose-Morocco-World-Cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 17:53:52+00:00
- - tags: None
 
 Dozens of rioters set steps on fire and pelted cars with bricks. Police moved in after one person suffered facial injuries, said Brussels police spokeswoman Ilse Van de Keere.
 
@@ -428,7 +375,6 @@ Dozens of rioters set steps on fire and pelted cars with bricks. Police moved in
  - [https://www.dailymail.co.uk/news/article-11474767/PICTURED-Erratic-mother-stabbed-two-young-children-death-hid-bathtub.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474767/PICTURED-Erratic-mother-stabbed-two-young-children-death-hid-bathtub.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 17:52:19+00:00
- - tags: None
 
 An 'erratic' mother  was arrested for allegedly stabbing her two young children to death in their New York City apartment - after cops missed the tots' bodies during their first visit to the scene.
 
@@ -436,7 +382,6 @@ An 'erratic' mother  was arrested for allegedly stabbing her two young children 
  - [https://www.dailymail.co.uk/news/article-11474559/Horrific-moment-Malibu-motorcyclist-struck-flying-truck-three-vehicle-fatal-crash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474559/Horrific-moment-Malibu-motorcyclist-struck-flying-truck-three-vehicle-fatal-crash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 17:51:24+00:00
- - tags: None
 
 A petrifying video from a motorcyclist stopped at a traffic light in Malibu, California showed footage of a pick-up truck flying into him after being slammed into by a black SUV.
 
@@ -444,7 +389,6 @@ A petrifying video from a motorcyclist stopped at a traffic light in Malibu, Cal
  - [https://www.dailymail.co.uk/news/article-11474611/Elderly-Arizona-couple-married-grocery-store-met.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474611/Elderly-Arizona-couple-married-grocery-store-met.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 17:50:28+00:00
- - tags: None
 
 On November 19, Brenda Williams, 72, and Dennis Delgado, 78, tied the knot in aisle eight of the Fry's Food and Drug Store in Cada Grande, where they had initially met during COVID in August 2021.
 
@@ -452,7 +396,6 @@ On November 19, Brenda Williams, 72, and Dennis Delgado, 78, tied the knot in ai
  - [https://www.dailymail.co.uk/news/article-11474573/GOP-Rep-James-Comer-says-Trump-needs-better-judgement-dinner-Nick-Fuentes-Kanye.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474573/GOP-Rep-James-Comer-says-Trump-needs-better-judgement-dinner-Nick-Fuentes-Kanye.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 17:38:14+00:00
- - tags: None
 
 Outgoing Arkansas Governor Asa Hutchinson, who is no stranger to criticizing Trump, accused him of 'empowering' extremists with his Mar-a-Lago meeting with Fuentes and West.
 
@@ -460,7 +403,6 @@ Outgoing Arkansas Governor Asa Hutchinson, who is no stranger to criticizing Tru
  - [https://www.dailymail.co.uk/news/article-11474607/Man-34-steals-Muni-bus-San-Francisco-slams-TEN-cars-joyride.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474607/Man-34-steals-Muni-bus-San-Francisco-slams-TEN-cars-joyride.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 17:35:37+00:00
- - tags: None
 
 A man in San Francisco hijacked a bus by assaulting its driver and then hit around ten cars during a one and a half mile joyride.
 
@@ -468,7 +410,6 @@ A man in San Francisco hijacked a bus by assaulting its driver and then hit arou
  - [https://www.dailymail.co.uk/news/article-11474613/Black-student-1957-photo-Jerry-Jones-outside-segregated-school-says-forgives-him.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474613/Black-student-1957-photo-Jerry-Jones-outside-segregated-school-says-forgives-him.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 16:56:45+00:00
- - tags: None
 
 Harold Jean Smith, 82, says he forgives Dallas Cowboys owner Jerry Jones for joining a group preventing him from desegregating a school in 1957.
 
@@ -476,7 +417,6 @@ Harold Jean Smith, 82, says he forgives Dallas Cowboys owner Jerry Jones for joi
  - [https://www.dailymail.co.uk/news/article-11474565/Suspect-51-arrested-man-woman-70s-dead-Sheffield.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474565/Suspect-51-arrested-man-woman-70s-dead-Sheffield.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 16:16:57+00:00
- - tags: None
 
 A murder investigation has been launched after a man and a woman in their 70s were found dead at a house in Sheffield this morning, both with signs of injuries.
 
@@ -484,7 +424,6 @@ A murder investigation has been launched after a man and a woman in their 70s we
  - [https://www.dailymail.co.uk/news/article-11474467/Woke-former-NBA-champ-Lamar-Odom-says-Phoenix-Suns-mascot-racist-teams-owner-suspended.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474467/Woke-former-NBA-champ-Lamar-Odom-says-Phoenix-Suns-mascot-racist-teams-owner-suspended.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 15:54:17+00:00
- - tags: None
 
 Former NBA star Lamar Odom appeared on the Bootleg Kev Podcast on November 23 and argued that Phoenix Suns' mascot is racist.
 
@@ -492,7 +431,6 @@ Former NBA star Lamar Odom appeared on the Bootleg Kev Podcast on November 23 an
  - [https://www.dailymail.co.uk/news/article-11474441/Father-Idaho-murder-house-victim-says-heard-cops-press-conference.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474441/Father-Idaho-murder-house-victim-says-heard-cops-press-conference.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 15:53:59+00:00
- - tags: None
 
 Steve Goncalves, the father of 21-year-old Kaylee Goncalves, said he has not heard anything from law enforcement since Wednesday night, when police admitted they don't have a suspect.
 
@@ -500,7 +438,6 @@ Steve Goncalves, the father of 21-year-old Kaylee Goncalves, said he has not hea
  - [https://www.dailymail.co.uk/news/article-11474405/Joe-Biden-branded-creepy-peering-window-Nantucket-restaurant.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474405/Joe-Biden-branded-creepy-peering-window-Nantucket-restaurant.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 15:53:47+00:00
- - tags: None
 
 President Joe Biden has been once again  roasted for his creepy behavior around kids - after he was seen lurking in the background of children's selfies.
 
@@ -508,7 +445,6 @@ President Joe Biden has been once again  roasted for his creepy behavior around 
  - [https://www.dailymail.co.uk/news/article-11474445/Chris-Watts-600-000-Colorado-house-killed-wife-daughters-sells.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474445/Chris-Watts-600-000-Colorado-house-killed-wife-daughters-sells.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 15:43:38+00:00
- - tags: None
 
 The house in Colorado where convicted murderer Chris Watts strangled his pregnant wife before murdering their two daughters has been sold for $600,000.
 
@@ -516,7 +452,6 @@ The house in Colorado where convicted murderer Chris Watts strangled his pregnan
  - [https://www.dailymail.co.uk/news/article-11474471/Fauci-says-testify-House-Republicans-asked-rips-GOPs-anti-Fauci-element.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474471/Fauci-says-testify-House-Republicans-asked-rips-GOPs-anti-Fauci-element.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 15:42:15+00:00
- - tags: None
 
 Speaking to CBS News' Face The Nation on Sunday, Fauci would not give any details on his post-retirement plans, but said he was ready to testify before Congress to defend his record.
 
@@ -524,7 +459,6 @@ Speaking to CBS News' Face The Nation on Sunday, Fauci would not give any detail
  - [https://www.dailymail.co.uk/news/article-11474399/HireSanta-com-sees-demand-30-faces-Saint-Nick-shortage-2-250-jobs-open.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474399/HireSanta-com-sees-demand-30-faces-Saint-Nick-shortage-2-250-jobs-open.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 15:41:30+00:00
- - tags: None
 
 HireSanta.com, which was featured on NBC's Shark Tank, has '20 open positions' for 'every Santa that reaches out'. Many of the company's elderly employees have retired or died from COVID-19.
 
@@ -532,7 +466,6 @@ HireSanta.com, which was featured on NBC's Shark Tank, has '20 open positions' f
  - [https://www.dailymail.co.uk/news/article-11474477/Girl-12-sexually-touched-man-60s-bus-stop.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474477/Girl-12-sexually-touched-man-60s-bus-stop.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 15:39:17+00:00
- - tags: None
 
 A 12-year-old girl was 'sexually touched' by a man when she sat next to him on a bench near a bus stop in Essex. The horrifying incident happened last month.
 
@@ -540,7 +473,6 @@ A 12-year-old girl was 'sexually touched' by a man when she sat next to him on a
  - [https://www.dailymail.co.uk/news/article-11474227/Bondi-Beast-rapist-Keith-Simms-victims-reveal-bizarre-words-told-sexual-assault.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474227/Bondi-Beast-rapist-Keith-Simms-victims-reveal-bizarre-words-told-sexual-assault.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 14:52:42+00:00
- - tags: None
 
 Two of his victims, Jennifer, 69, and Linda, 52, recalled the horrific moment they came face-to-face with one of Australia's worst rapists and the bizarre things he said.
 
@@ -548,7 +480,6 @@ Two of his victims, Jennifer, 69, and Linda, 52, recalled the horrific moment th
  - [https://www.dailymail.co.uk/news/article-11474295/Wife-former-NRL-boss-Todd-Greenberg-speaks-alcohol-addiction-Lisa-Greenberg-60-Minutes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474295/Wife-former-NRL-boss-Todd-Greenberg-speaks-alcohol-addiction-Lisa-Greenberg-60-Minutes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 14:51:35+00:00
- - tags: None
 
 Ex-NRL boss Todd Greenberg's wife has laid bare her heart-wrenching battle with alcoholism that saw her hit rock-bottom when her family walked out on her.
 
@@ -556,7 +487,6 @@ Ex-NRL boss Todd Greenberg's wife has laid bare her heart-wrenching battle with 
  - [https://www.dailymail.co.uk/news/article-11459481/Anthony-Koletti-interview-Melissa-Caddicks-husband-reveals-really-thinks-happened-her.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11459481/Anthony-Koletti-interview-Melissa-Caddicks-husband-reveals-really-thinks-happened-her.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 14:50:43+00:00
- - tags: None
 
 In an exclusive interview with Daily Mail Australia, Anthony Koletti reveals how he's trying to get on with his life two years years after Caddick vanished without a trace.
 
@@ -564,7 +494,6 @@ In an exclusive interview with Daily Mail Australia, Anthony Koletti reveals how
  - [https://www.dailymail.co.uk/news/article-11474429/Sudden-death-foreign-minister-Belarus-raises-suspicions-foul-play.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474429/Sudden-death-foreign-minister-Belarus-raises-suspicions-foul-play.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 14:25:33+00:00
- - tags: None
 
 'Foreign Minister Vladimir Makei has passed away suddenly,' Belta reported today without giving further detail. Makei, 64, had held his post since 2012 and wasn't known to suffer from any chronic illness.
 
@@ -572,7 +501,6 @@ In an exclusive interview with Daily Mail Australia, Anthony Koletti reveals how
  - [https://www.dailymail.co.uk/news/article-11474407/Marjorie-Taylor-Greene-gun-control-dead-hog.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474407/Marjorie-Taylor-Greene-gun-control-dead-hog.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 13:55:45+00:00
- - tags: None
 
 The firebrand Georgia Republican lawmaker also labeled the shooter 'a transgender' after defense attorneys said the suspect uses 'they/them' pronouns.
 
@@ -580,7 +508,6 @@ The firebrand Georgia Republican lawmaker also labeled the shooter 'a transgende
  - [https://www.dailymail.co.uk/news/article-11474309/Brothers-aged-3-11-stabbed-death-Bronx-apartment.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474309/Brothers-aged-3-11-stabbed-death-Bronx-apartment.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 13:51:04+00:00
- - tags: None
 
 The incident occurred at an apartment in a family shelter near in Mount Hope around 7:20 pm, and saw both brothers brutally killed.
 
@@ -588,7 +515,6 @@ The incident occurred at an apartment in a family shelter near in Mount Hope ar
  - [https://www.dailymail.co.uk/news/article-11474327/Albanian-drug-offender-twice-deported-Britain-fails-bid-stay.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474327/Albanian-drug-offender-twice-deported-Britain-fails-bid-stay.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 13:46:03+00:00
- - tags: None
 
 30-year-old Blerim Ismalaj was first ejected from the UK in January 2013 after spending 16 months in a Young Offenders Institute, upon his conviction for 'producing a controlled substance'.
 
@@ -596,7 +522,6 @@ The incident occurred at an apartment in a family shelter near in Mount Hope ar
  - [https://www.dailymail.co.uk/news/article-11474401/Tory-housing-rebel-claims-affluent-areas-siege-homes-ruin-quality-life.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474401/Tory-housing-rebel-claims-affluent-areas-siege-homes-ruin-quality-life.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 13:46:02+00:00
- - tags: None
 
 Former minister Theresa Villers is at the head of a Conservative revolt that forced ministers to tear up plans for a Commons vote this week amid fears it could be lost.
 
@@ -604,7 +529,6 @@ Former minister Theresa Villers is at the head of a Conservative revolt that for
  - [https://www.dailymail.co.uk/news/article-11474355/Murder-investigation-launched-man-90s-dies-burglary-High-Wycombe.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474355/Murder-investigation-launched-man-90s-dies-burglary-High-Wycombe.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 13:43:37+00:00
- - tags: None
 
 A murder investigation has been launched after a man in his 90s died in hospital a week after being seriously injured during a burglary in High Wycombe, Buckinghamshire, on Saturday, November 19.
 
@@ -612,7 +536,6 @@ A murder investigation has been launched after a man in his 90s died in hospital
  - [https://www.dailymail.co.uk/news/article-11474369/TWENTY-revellers-dressed-tuxedos-ball-gowns-crammed-HORSE-BOX.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474369/TWENTY-revellers-dressed-tuxedos-ball-gowns-crammed-HORSE-BOX.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 13:41:03+00:00
- - tags: None
 
 The Warwickshire Rural Crime Team were conducting checks of trailers on the busy A422 near Banbury on November 19 when they found the group of ballgoers.
 
@@ -620,7 +543,6 @@ The Warwickshire Rural Crime Team were conducting checks of trailers on the busy
  - [https://www.dailymail.co.uk/news/article-11474383/Cardiff-Winter-Wonderland-horror-two-people-come-Ice-Skater-ride-massive-bang.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474383/Cardiff-Winter-Wonderland-horror-two-people-come-Ice-Skater-ride-massive-bang.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 13:30:33+00:00
- - tags: None
 
 Witnesses saw a number of people fall from the ride at about 5.15pm yesterday after hearing a 'massive bang'. A Welsh Ambulance Service spokesman confirmed that two patients were taken to hospital.
 
@@ -628,7 +550,6 @@ Witnesses saw a number of people fall from the ride at about 5.15pm yesterday af
  - [https://www.dailymail.co.uk/news/christmas/article-11474267/Co-op-boss-earn-1m-year-says-twins-ONE-stocking-gift-Christmas.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/christmas/article-11474267/Co-op-boss-earn-1m-year-says-twins-ONE-stocking-gift-Christmas.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 13:22:55+00:00
- - tags: None
 
 Shirine Khoury-Haq, who earns more than £1million, said she cannot 'in good conscience' give her six-year-old twins more presents while millions of homes face soaring energy bills and inflation.
 
@@ -636,7 +557,6 @@ Shirine Khoury-Haq, who earns more than £1million, said she cannot 'in good con
  - [https://www.dailymail.co.uk/news/article-11474195/Moment-cyclist-swears-unmarked-police-car-officer-accuses-public-order-offence.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474195/Moment-cyclist-swears-unmarked-police-car-officer-accuses-public-order-offence.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 13:00:36+00:00
- - tags: None
 
 From his helmet camera the cyclist recorded a four-minute exchange in Wandsworth, London, with officers, one of whom warned he could be 'overran' or 'stabbed' for the expletive.
 
@@ -644,7 +564,6 @@ From his helmet camera the cyclist recorded a four-minute exchange in Wandsworth
  - [https://www.dailymail.co.uk/news/article-11474237/Nearly-60-flood-alerts-issued-England-yellow-weather-heavy-rain-warning-southeast.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474237/Nearly-60-flood-alerts-issued-England-yellow-weather-heavy-rain-warning-southeast.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 12:54:10+00:00
- - tags: None
 
 The brutal weather shows no sign of stopping as the Met Office has issued 56 flood alerts in England along with four flood warnings - where flooding is expected today.
 
@@ -652,7 +571,6 @@ The brutal weather shows no sign of stopping as the Met Office has issued 56 flo
  - [https://www.dailymail.co.uk/news/article-11474177/Shocking-moment-van-flips-cutting-lorry-roundabout.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474177/Shocking-moment-van-flips-cutting-lorry-roundabout.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 12:52:52+00:00
- - tags: None
 
 The unbelievable maneuver at a roundabout led to the transit van being clipped by the large lorry, before being overturned near the slip road.
 
@@ -660,7 +578,6 @@ The unbelievable maneuver at a roundabout led to the transit van being clipped b
  - [https://www.dailymail.co.uk/news/article-11474269/Supermarkets-face-shortage-cucumbers-peppers-aubergines-tomatoes-MONTHS.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474269/Supermarkets-face-shortage-cucumbers-peppers-aubergines-tomatoes-MONTHS.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 12:37:50+00:00
- - tags: None
 
 A combination of soaring energy costs and a lack of people to pick crops continues to affect Britain's  vegetable industry, with many retailers having to import from abroad.
 
@@ -668,7 +585,6 @@ A combination of soaring energy costs and a lack of people to pick crops continu
  - [https://www.dailymail.co.uk/news/article-11474037/Project-hosts-clash-boring-employees-right-skip-work-drinks-paid.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474037/Project-hosts-clash-boring-employees-right-skip-work-drinks-paid.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 12:36:24+00:00
- - tags: None
 
 The hosts of The Project have butted heads over the etiquette of attending after-work social functions and whether Australians are still on the clock.
 
@@ -676,7 +592,6 @@ The hosts of The Project have butted heads over the etiquette of attending after
  - [https://www.dailymail.co.uk/news/article-11474023/Sydney-raid-Comanchero-bikie-uncovers-rare-million-dollar-watch-Ferrari-coupe.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474023/Sydney-raid-Comanchero-bikie-uncovers-rare-million-dollar-watch-Ferrari-coupe.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 12:14:41+00:00
- - tags: None
 
 A police raid on a bikie's home has uncovered a rare wristwatch worth $1million and a Ferrari F12 coupe.
 
@@ -684,7 +599,6 @@ A police raid on a bikie's home has uncovered a rare wristwatch worth $1million 
  - [https://www.dailymail.co.uk/news/article-11474205/Ministers-face-calls-come-clean-details-1-6billion-deal-new-Royal-Navy-ships.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474205/Ministers-face-calls-come-clean-details-1-6billion-deal-new-Royal-Navy-ships.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 12:10:41+00:00
- - tags: None
 
 Team Resolute consortium including Navantia, the Spanish state-owned shipbuilding company, is the preferred bidder to construct three Fleet Solid Support (FSS) vessels.
 
@@ -692,7 +606,6 @@ Team Resolute consortium including Navantia, the Spanish state-owned shipbuildin
  - [https://www.dailymail.co.uk/news/article-11474141/British-father-three-held-Baghdad-jail-says-cell-infested-rats-big-cats.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474141/British-father-three-held-Baghdad-jail-says-cell-infested-rats-big-cats.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 11:54:37+00:00
- - tags: None
 
 Scottish construction engineer Brian Glendinning, 43, said he 'pressed the pause button' on his life during two months in Baghdad jail where getting through the days was just 'survival'.
 
@@ -700,7 +613,6 @@ Scottish construction engineer Brian Glendinning, 43, said he 'pressed the pause
  - [https://www.dailymail.co.uk/news/article-11474075/Horrific-moment-bloody-Argentina-fan-led-away-stands-following-brawl-Mexico-supporters.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474075/Horrific-moment-bloody-Argentina-fan-led-away-stands-following-brawl-Mexico-supporters.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 11:54:01+00:00
- - tags: None
 
 This is the horrific moment a bloodied Argentine fan is led away after a punch-up with Mexican fans in the stands at last night's match between the two nations.
 
@@ -708,7 +620,6 @@ This is the horrific moment a bloodied Argentine fan is led away after a punch-u
  - [https://www.dailymail.co.uk/news/article-11467539/Danny-Lim-cultural-icon-failed-political-career-saw-receive-death-threats.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11467539/Danny-Lim-cultural-icon-failed-political-career-saw-receive-death-threats.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 11:44:35+00:00
- - tags: None
 
 Danny Lim's smiling face has been a fixture on the streets of Sydney for more than a decade, along with his dog Smarty and the sandwich boards he wears to spread political and spiritual messages.
 
@@ -716,7 +627,6 @@ Danny Lim's smiling face has been a fixture on the streets of Sydney for more th
  - [https://www.dailymail.co.uk/news/article-11474099/Nigel-Farage-holds-secret-meetings-Red-Wall-Tories-unhappy-Rishi-Sunak.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474099/Nigel-Farage-holds-secret-meetings-Red-Wall-Tories-unhappy-Rishi-Sunak.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 11:39:43+00:00
- - tags: None
 
 Nigel Farage has been 'testing the water' with northern MPs who are unhappy with Rishi Sunak's leadership.
 
@@ -724,7 +634,6 @@ Nigel Farage has been 'testing the water' with northern MPs who are unhappy with
  - [https://www.dailymail.co.uk/news/article-11474001/Prince-Andrew-furious-axe-3m-year-police-bodyguard-Epstein-scandal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474001/Prince-Andrew-furious-axe-3m-year-police-bodyguard-Epstein-scandal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 11:28:47+00:00
- - tags: None
 
 As a working royal Prince Andrew was entitled to a taxpayer funded security detail, but this will now end next month. It follows him being stripped of all his official duties following the Jeffrey Epstein scandal.
 
@@ -732,7 +641,6 @@ As a working royal Prince Andrew was entitled to a taxpayer funded security deta
  - [https://www.dailymail.co.uk/news/article-11474111/Fury-bosses-axe-museums-racist-sexist-ableist-medical-history-display.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474111/Fury-bosses-axe-museums-racist-sexist-ableist-medical-history-display.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 10:57:01+00:00
- - tags: None
 
 The Wellcome Collection, has been accused of 'cultural vandalism' after it said it is scrapping its 'Medicine Man' exhibit, which it says perpetuates 'racist, sexist and ableist theories and language'.
 
@@ -740,7 +648,6 @@ The Wellcome Collection, has been accused of 'cultural vandalism' after it said 
  - [https://www.dailymail.co.uk/news/article-11474113/Putin-traitor-Russia-commanders-murdered-son-rages-father-conscript.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474113/Putin-traitor-Russia-commanders-murdered-son-rages-father-conscript.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 10:45:24+00:00
- - tags: None
 
 Dmitry Shkrebets, 44 (L), accused the Russian president and his commanders of 'murdering' his son Yevgeny, 20 (R), by their incompetence and rule-breaking
 
@@ -748,7 +655,6 @@ Dmitry Shkrebets, 44 (L), accused the Russian president and his commanders of 'm
  - [https://www.dailymail.co.uk/news/article-11473849/Dr-Karl-Kruszelnick-reveals-quit-working-paediatrician-join-ABC-like-Norman-Swan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473849/Dr-Karl-Kruszelnick-reveals-quit-working-paediatrician-join-ABC-like-Norman-Swan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 10:35:31+00:00
- - tags: None
 
 Dr Karl Kruszelnick revealed he left his 'dream job' as a paediatrician to become a full-time presenter for the ABC following the death of a baby under his care four decades ago.
 
@@ -756,7 +662,6 @@ Dr Karl Kruszelnick revealed he left his 'dream job' as a paediatrician to beco
  - [https://www.dailymail.co.uk/tvshowbiz/celebrity/article-11473985/Mike-Tindall-royal-wife-Zara-Tindall-arrive-hotel.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/celebrity/article-11473985/Mike-Tindall-royal-wife-Zara-Tindall-arrive-hotel.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 10:24:28+00:00
- - tags: None
 
 Mike Tindall and his wife Zara received a warm welcome as they arrived back at their hotel after he became the eighth star eliminated from I'm A Celebrity.
 
@@ -764,7 +669,6 @@ Mike Tindall and his wife Zara received a warm welcome as they arrived back at t
  - [https://www.dailymail.co.uk/news/article-11474153/Police-launch-murder-probe-man-30s-died-fight-Richmond-Bridge.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474153/Police-launch-murder-probe-man-30s-died-fight-Richmond-Bridge.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 10:14:03+00:00
- - tags: None
 
 Police were called to the scene in south-west London at about 4am on Saturday and found a man in his early 30s who had suffered serious injuries. He sadly later died in hospital.
 
@@ -772,7 +676,6 @@ Police were called to the scene in south-west London at about 4am on Saturday an
  - [https://www.dailymail.co.uk/sport/mma/article-11474081/Conor-McGregor-calls-UFC-sign-PFL-Featherweight-Champion-Brendan-Loughnane.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sport/mma/article-11474081/Conor-McGregor-calls-UFC-sign-PFL-Featherweight-Champion-Brendan-Loughnane.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 10:05:49+00:00
- - tags: None
 
 Loughnane enjoyed the biggest night of his professional career on Friday as he faced off against Bubba Jenkins for the Professional Fighters League's Featherweight World Championship.
 
@@ -780,7 +683,6 @@ Loughnane enjoyed the biggest night of his professional career on Friday as he f
  - [https://www.dailymail.co.uk/news/article-11474083/Brisbane-Airport-evacuated-following-security-breach.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474083/Brisbane-Airport-evacuated-following-security-breach.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 09:52:11+00:00
- - tags: None
 
 A general evacuation order has been issued at Brisbane Airport on Sunday night after a 'security breach' at the terminal.
 
@@ -788,7 +690,6 @@ A general evacuation order has been issued at Brisbane Airport on Sunday night a
  - [https://www.dailymail.co.uk/news/article-11474089/Experts-warn-Indian-restaurants-close-rate-ONE-DAY-businesses-battle-soaring-prices.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474089/Experts-warn-Indian-restaurants-close-rate-ONE-DAY-businesses-battle-soaring-prices.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 09:43:34+00:00
- - tags: None
 
 Fewer diners and rising costs are making business harder for Britain's Indian restaurants. One in four has closed since 2007 and the remaining 9,000 are battling to survive the cost-of-living crisis.
 
@@ -796,7 +697,6 @@ Fewer diners and rising costs are making business harder for Britain's Indian re
  - [https://www.dailymail.co.uk/news/article-11474085/Unions-told-simply-isnt-money-public-sector-workers-inflation-busting-pay-rises.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474085/Unions-told-simply-isnt-money-public-sector-workers-inflation-busting-pay-rises.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 09:43:17+00:00
- - tags: None
 
 Transport Secretary Mark Harper said he did not have 'a bottomless pit of taxpayers money' to hand out to rail workers, nurses and thousands of others who will walk out in December.
 
@@ -804,7 +704,6 @@ Transport Secretary Mark Harper said he did not have 'a bottomless pit of taxpay
  - [https://www.dailymail.co.uk/news/article-11474105/Scientists-search-300-year-old-wheat-collection-strain-cope-climate-change.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474105/Scientists-search-300-year-old-wheat-collection-strain-cope-climate-change.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 09:42:06+00:00
- - tags: None
 
 Scientists are hunting through 300-year-old wheat samples kept by the Natural History Museum to find a variety resilient enough to face the challenges of our changing climate.
 
@@ -812,7 +711,6 @@ Scientists are hunting through 300-year-old wheat samples kept by the Natural Hi
  - [https://www.dailymail.co.uk/femail/article-11453559/Written-stars-astrologer-explores-best-cocktails-pair-star-sign.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11453559/Written-stars-astrologer-explores-best-cocktails-pair-star-sign.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 09:38:10+00:00
- - tags: None
 
 British celebrity psychic Inbaal Honigman has told FEMAIL the best alcoholic drink for each member of the zodiac, from 'party animal' Aries to 'romantic' Pisces.
 
@@ -820,7 +718,6 @@ British celebrity psychic Inbaal Honigman has told FEMAIL the best alcoholic dri
  - [https://www.dailymail.co.uk/femail/article-11435431/Experts-reveal-healthy-selfishness-way-function-best.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11435431/Experts-reveal-healthy-selfishness-way-function-best.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 09:25:46+00:00
- - tags: None
 
 Experts told FEMAIL  how 'healthy selfishness' could help to combat burnout and stress, with one saying it should be practiced 'until you can get back on your feet.'
 
@@ -828,7 +725,6 @@ Experts told FEMAIL  how 'healthy selfishness' could help to combat burnout and 
  - [https://www.dailymail.co.uk/news/article-11474007/Now-Nicola-Sturgeons-SNP-says-court-ruling-against-IndyRef2-INCREASE-support-separatism.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11474007/Now-Nicola-Sturgeons-SNP-says-court-ruling-against-IndyRef2-INCREASE-support-separatism.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 09:04:59+00:00
- - tags: None
 
 Sturgeon has come under fire for pushing ahead with her independence campaign in the wake of this week's Supreme Court ruling she must get Westminster's approval before a new vote.
 
@@ -836,7 +732,6 @@ Sturgeon has come under fire for pushing ahead with her independence campaign in
  - [https://www.dailymail.co.uk/tvshowbiz/article-11473093/EMILY-PRESCOTT-Princess-Beatrices-husband-Edoardo-Mapelli-Mozzis-business-crown-slips.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-11473093/EMILY-PRESCOTT-Princess-Beatrices-husband-Edoardo-Mapelli-Mozzis-business-crown-slips.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 08:04:27+00:00
- - tags: None
 
 EMILY PRESCOTT: He is married to a Princess, but is Edoardo Mapelli Mozzi (pictured left with his wife Princess Beatrice, right) losing control of part of his business kingdom?
 
@@ -844,7 +739,6 @@ EMILY PRESCOTT: He is married to a Princess, but is Edoardo Mapelli Mozzi (pictu
  - [https://www.dailymail.co.uk/news/article-11473845/Australians-Centrelink-payment-boost.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473845/Australians-Centrelink-payment-boost.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 08:01:41+00:00
- - tags: None
 
 Senator David Pocock described the new process to review Australian welfare payments as a 'game changer for people living below the poverty line'.
 
@@ -852,7 +746,6 @@ Senator David Pocock described the new process to review Australian welfare paym
  - [https://www.dailymail.co.uk/news/article-11473763/Personal-trainer-photographed-topless-without-consent-Sydney-beach.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473763/Personal-trainer-photographed-topless-without-consent-Sydney-beach.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 07:50:51+00:00
- - tags: None
 
 Lily Cook, enjoyed a day of sunbaking with her sister on a beach in Sydney's eastern suburbs on November 12. That night, she received a photo from a friend showing her topless.
 
@@ -860,7 +753,6 @@ Lily Cook, enjoyed a day of sunbaking with her sister on a beach in Sydney's eas
  - [https://www.dailymail.co.uk/news/article-11473825/Elon-Musk-proves-hate-speech-44B-takeover.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473825/Elon-Musk-proves-hate-speech-44B-takeover.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 06:57:00+00:00
- - tags: None
 
 Elon Musk has shared slides from his talk with Twitter workers saying hate speech is down since his takeover, and revealed that new user signups were up as he teased a new payment feature.
 
@@ -868,7 +760,6 @@ Elon Musk has shared slides from his talk with Twitter workers saying hate speec
  - [https://www.dailymail.co.uk/news/article-11473819/Donald-Trump-calls-Kanye-West-seriously-troubled-man-rant-Mar-Lago-meeting-Fuentes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473819/Donald-Trump-calls-Kanye-West-seriously-troubled-man-rant-Mar-Lago-meeting-Fuentes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 06:51:23+00:00
- - tags: None
 
 Trump, posting on his Truth Social account, was defiant amid the media criticism of the meeting with the embattled rapper and Fuentes.
 
@@ -876,7 +767,6 @@ Trump, posting on his Truth Social account, was defiant amid the media criticism
  - [https://www.dailymail.co.uk/news/article-11473721/Adelaide-homeowner-trapped-18-month-Tesla-nightmare.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473721/Adelaide-homeowner-trapped-18-month-Tesla-nightmare.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 06:47:33+00:00
- - tags: None
 
 Chris Firgaira, 33, said  the $220,000 solar energy system turned off up to 100 times in a day and the company owned by billionaire Elon Musk has failed to fix it.
 
@@ -884,7 +774,6 @@ Chris Firgaira, 33, said  the $220,000 solar energy system turned off up to 100 
  - [https://www.dailymail.co.uk/news/article-11473699/Cherie-Barber-shares-urgent-asbestos-warning-fears-exposed-dangerous-material.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473699/Cherie-Barber-shares-urgent-asbestos-warning-fears-exposed-dangerous-material.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 05:56:27+00:00
- - tags: None
 
 Cherie Barber was aged in her 20s when she breathed in the deadly fibres while working on an early renovation project in Balmain, inner west Sydney.
 
@@ -892,7 +781,6 @@ Cherie Barber was aged in her 20s when she breathed in the deadly fibres while w
  - [https://www.dailymail.co.uk/news/article-11473691/Fans-slam-Disney-teaching-kids-sexual-preferences-cartoon-gay-main-character.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473691/Fans-slam-Disney-teaching-kids-sexual-preferences-cartoon-gay-main-character.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 05:48:22+00:00
- - tags: None
 
 The film, starring a voice cast with Jake Gylenhaal, Dennis Quaid and Daily Show contributor Jaboukie Young-White as the voice of what's been heralded as Disney's first openly gay character.
 
@@ -900,7 +788,6 @@ The film, starring a voice cast with Jake Gylenhaal, Dennis Quaid and Daily Show
  - [https://www.dailymail.co.uk/news/article-11473715/Man-posed-oil-barons-son-faces-20-years-prison.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473715/Man-posed-oil-barons-son-faces-20-years-prison.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 05:41:32+00:00
- - tags: None
 
 A man who posed as an oil baron's son to hire 17 private jets, rent $30k a night luxury homes and obtain five cars was caught when he failed to pay $76k to a jet firm.
 
@@ -908,7 +795,6 @@ A man who posed as an oil baron's son to hire 17 private jets, rent $30k a night
  - [https://www.dailymail.co.uk/news/article-11473123/Doctor-sees-300-transgender-patients-year-Brisbane-clinic-seeking-transition.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473123/Doctor-sees-300-transgender-patients-year-Brisbane-clinic-seeking-transition.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 04:56:58+00:00
- - tags: None
 
 Dr Matt Barber, who prescribes cross sex hormones and puberty blockers to adults and children, says hundreds of trans patients visit him at Brisbane's Stonewall Medical Centre each year.
 
@@ -916,7 +802,6 @@ Dr Matt Barber, who prescribes cross sex hormones and puberty blockers to adults
  - [https://www.dailymail.co.uk/news/article-11473663/Washington-Post-reporter-Taylor-Lorenz-slams-paper-opposing-Chinese-COVID-lockdowns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473663/Washington-Post-reporter-Taylor-Lorenz-slams-paper-opposing-Chinese-COVID-lockdowns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 04:50:31+00:00
- - tags: None
 
 Washington Post journalist Taylor Lorenz has criticized her own newspaper's reporting of how China is dealing with the coronavirus. Lorenz tore apart the piece in a single tweet.
 
@@ -924,7 +809,6 @@ Washington Post journalist Taylor Lorenz has criticized her own newspaper's repo
  - [https://www.dailymail.co.uk/news/article-11459433/Australias-violent-colonial-hangman-delighted-sending-fellow-crims-gruesome-deaths.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11459433/Australias-violent-colonial-hangman-delighted-sending-fellow-crims-gruesome-deaths.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 04:44:43+00:00
- - tags: None
 
 Convict turned hangman Michael Gately was so despised for his extreme brutality against prisoners in the 1870s he was chased by mobs of hooligans through Melbourne's streets.
 
@@ -932,7 +816,6 @@ Convict turned hangman Michael Gately was so despised for his extreme brutality 
  - [https://www.dailymail.co.uk/news/article-11473665/Statue-Young-Abraham-Lincoln-vandalized-red-paint-Thanksgiving-day.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473665/Statue-Young-Abraham-Lincoln-vandalized-red-paint-Thanksgiving-day.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 03:53:36+00:00
- - tags: None
 
 A statue of young Abraham Lincoln has been splashed with red paint with the words 'COLONIZER' and 'LAND BACK' written below it in Chicago's Edgewater neighborhood.
 
@@ -940,7 +823,6 @@ A statue of young Abraham Lincoln has been splashed with red paint with the word
  - [https://www.dailymail.co.uk/news/article-11473553/Scott-Morrisons-closest-allies-believe-former-PM-quit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473553/Scott-Morrisons-closest-allies-believe-former-PM-quit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 03:40:34+00:00
- - tags: None
 
 Scott Morrison's once closest allies feel he 'treated them like dirt' and he needs to 'pack his bags' and leave political life as anger boils over the former prime minister secretly taking on ministerial jobs.
 
@@ -948,7 +830,6 @@ Scott Morrison's once closest allies feel he 'treated them like dirt' and he nee
  - [https://www.dailymail.co.uk/news/article-11473497/Flooding-update-NSW-Victoria-South-Australia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473497/Flooding-update-NSW-Victoria-South-Australia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 02:56:52+00:00
- - tags: None
 
 As NSW enters the 74th day of its flood crisis, dozens of emergency warnings remain in place on Sunday across Australia's east, while flood peaks continue to wreak havoc.
 
@@ -956,7 +837,6 @@ As NSW enters the 74th day of its flood crisis, dozens of emergency warnings rem
  - [https://www.dailymail.co.uk/news/article-11473581/DAME-ESTHER-RANTZEN-phone-call-help-millions-Britons-blighted-loneliness.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473581/DAME-ESTHER-RANTZEN-phone-call-help-millions-Britons-blighted-loneliness.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 02:43:48+00:00
- - tags: None
 
 DAME ESTHER RANTZEN: During the early days of Covid in 2020, I moved from my flat in the bustling heart of North London to my ancient cottage in the New Forest.
 
@@ -964,7 +844,6 @@ DAME ESTHER RANTZEN: During the early days of Covid in 2020, I moved from my fla
  - [https://www.dailymail.co.uk/news/article-11473587/Heavy-curtains-doors-making-comeback-block-draughts-reduce-need-heating.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473587/Heavy-curtains-doors-making-comeback-block-draughts-reduce-need-heating.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 02:39:35+00:00
- - tags: None
 
 Stores report a surge in sales of hanging door curtains, often for open-plan homes where front doors lead directly into sitting rooms.
 
@@ -972,7 +851,6 @@ Stores report a surge in sales of hanging door curtains, often for open-plan hom
  - [https://www.dailymail.co.uk/news/article-11473575/Dialysis-patients-left-THOUSANDS-pounds-pocket-cost-run-machines-home-soar.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473575/Dialysis-patients-left-THOUSANDS-pounds-pocket-cost-run-machines-home-soar.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 02:27:11+00:00
- - tags: None
 
 Campaigners say the patients - who save the NHS money by treating themselves - are struggling to cope financially, with some even considering cutting out dialysis sessions.
 
@@ -980,7 +858,6 @@ Campaigners say the patients - who save the NHS money by treating themselves - a
  - [https://www.dailymail.co.uk/news/article-11473483/Late-Rangers-legend-Rod-Gilberts-kids-stepmom-battle-will.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473483/Late-Rangers-legend-Rod-Gilberts-kids-stepmom-battle-will.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 02:23:14+00:00
- - tags: None
 
 The two children of late New York Ranger, Rod Gilbert, are in fierce battle with their stepmother over his will. The children claiming that she manipulated him on his deathbed to cut them out.
 
@@ -988,7 +865,6 @@ The two children of late New York Ranger, Rod Gilbert, are in fierce battle with
  - [https://www.dailymail.co.uk/news/article-11473515/Just-Stop-Oil-target-roundabouts-Monday-rush-hour.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473515/Just-Stop-Oil-target-roundabouts-Monday-rush-hour.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 02:21:20+00:00
- - tags: None
 
 Just Stop Oil are said to be planning to 'swarm and block' roundabouts in a fresh wave of action targeting road users, expected to take place during rush hour tomorrow.
 
@@ -996,7 +872,6 @@ Just Stop Oil are said to be planning to 'swarm and block' roundabouts in a fres
  - [https://www.dailymail.co.uk/news/article-11473423/Its-heresy-Worshippers-left-tears-Cambridge-dean-claims-Jesus-TRANSGENDER.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473423/Its-heresy-Worshippers-left-tears-Cambridge-dean-claims-Jesus-TRANSGENDER.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 02:17:47+00:00
- - tags: None
 
 The view of a transgender Jesus is 'legitimate', according to Dr Michael Banner, the Dean who stepped in to defend the claim made at a Sermon last Sunday that Christ had a 'trans body'.
 
@@ -1004,7 +879,6 @@ The view of a transgender Jesus is 'legitimate', according to Dr Michael Banner,
  - [https://www.dailymail.co.uk/news/article-11473231/Victorian-Liberals-turn-minutes-thumped-Dan-Andrews.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473231/Victorian-Liberals-turn-minutes-thumped-Dan-Andrews.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 02:15:49+00:00
- - tags: None
 
 After high hopes the political tide had finally turned in their favour Victoria's Liberals have been left shattered by another night of electoral defeat and the blame game has started.
 
@@ -1012,7 +886,6 @@ After high hopes the political tide had finally turned in their favour Victoria'
  - [https://www.dailymail.co.uk/news/article-11473541/Cat-owners-place-feline-pets-VEGAN-diets-despite-warnings-vets.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473541/Cat-owners-place-feline-pets-VEGAN-diets-despite-warnings-vets.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 02:11:51+00:00
- - tags: None
 
 Cats are being put on trendy vegan diets by owners, despite vets warning that a total lack of meat can be fatal for their pets.
 
@@ -1020,7 +893,6 @@ Cats are being put on trendy vegan diets by owners, despite vets warning that a 
  - [https://www.dailymail.co.uk/news/article-11473397/Lord-Pannick-blasts-Partygate-investigation-Boris-Johnson-cost-taxpayer-surpasses-250k.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473397/Lord-Pannick-blasts-Partygate-investigation-Boris-Johnson-cost-taxpayer-surpasses-250k.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 02:09:41+00:00
- - tags: None
 
 Lord Pannick KC criticises Privilege Committee's probe into Partygate scandal as former PM Johnson's allies accuse the Committee of being a 'kangaroo court' conducting a 'witch hunt'
 
@@ -1028,7 +900,6 @@ Lord Pannick KC criticises Privilege Committee's probe into Partygate scandal as
  - [https://www.dailymail.co.uk/news/article-11473545/Could-ditching-breakdown-cover-save-fortune-road-ruin.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473545/Could-ditching-breakdown-cover-save-fortune-road-ruin.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 02:05:07+00:00
- - tags: None
 
 Millions of insurance-holders have cancelled their insurance cover this year, instead choosing to put money aside each month as the cost of living crisis worsens
 
@@ -1036,7 +907,6 @@ Millions of insurance-holders have cancelled their insurance cover this year, in
  - [https://www.dailymail.co.uk/news/article-11473429/Tributes-pour-MoS-Gambols-cartoonist-Roger-Mahoney-following-death-89.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473429/Tributes-pour-MoS-Gambols-cartoonist-Roger-Mahoney-following-death-89.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 02:04:19+00:00
- - tags: None
 
 Tributes have been paid to The Mail on Sunday's Gambols cartoonist Roger Mahoney, who has died aged 89. His weekly cartoon strip The Gambols entertained readers with a comical look into suburbia.
 
@@ -1044,7 +914,6 @@ Tributes have been paid to The Mail on Sunday's Gambols cartoonist Roger Mahone
  - [https://www.dailymail.co.uk/news/article-11473529/Number-submarines-UKs-coast-DOUBLED-year-ward-Russians.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473529/Number-submarines-UKs-coast-DOUBLED-year-ward-Russians.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 02:03:07+00:00
- - tags: None
 
 Double the usual number of Nato submarines have been spotted on the surface of the Clyde recently, heading to and from the key Faslane naval base 40 miles from Glasgow.
 
@@ -1052,7 +921,6 @@ Double the usual number of Nato submarines have been spotted on the surface of t
  - [https://www.dailymail.co.uk/news/article-11473301/Post-Thanksgiving-chaos-hundreds-flights-set-impacted-storms-powerful-winds.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473301/Post-Thanksgiving-chaos-hundreds-flights-set-impacted-storms-powerful-winds.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 01:55:54+00:00
- - tags: None
 
 With everyone trying to get back home to return to work, wind advisories are set for about nine million people in the southeast, including Louisiana, where a tornado was confirmed Saturday.
 
@@ -1060,7 +928,6 @@ With everyone trying to get back home to return to work, wind advisories are set
  - [https://www.dailymail.co.uk/news/article-11473485/Tinder-Swindler-victim-goes-dating-reignite-love-life.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473485/Tinder-Swindler-victim-goes-dating-reignite-love-life.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 01:54:59+00:00
- - tags: None
 
 Cecilie Fjellhoy was one of countless women defrauded by Hayut, who posed as the son of a Russian-Israeli diamond mogul on the dating app.
 
@@ -1068,7 +935,6 @@ Cecilie Fjellhoy was one of countless women defrauded by Hayut, who posed as the
  - [https://www.dailymail.co.uk/news/article-11473481/Boy-15-convicted-running-county-lines-drug-smuggling-operation-living-care-homes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473481/Boy-15-convicted-running-county-lines-drug-smuggling-operation-living-care-homes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 01:54:22+00:00
- - tags: None
 
 A teenager living in care homes has been convicted of running a 'county lines' drugs network supplying heroin and cocaine worth hundreds of thousands of pounds.
 
@@ -1076,7 +942,6 @@ A teenager living in care homes has been convicted of running a 'county lines' d
  - [https://www.dailymail.co.uk/news/article-11473285/Dan-Andrews-responds-Peta-Credlin-claim-wanted-win-Victorian-election-statue.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473285/Dan-Andrews-responds-Peta-Credlin-claim-wanted-win-Victorian-election-statue.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 01:50:42+00:00
- - tags: None
 
 Daniel Andrews has denied claims that the only reason he led Labor to a third straight election was so if he won he could have a statue of him erected early next year outside his government office.
 
@@ -1084,7 +949,6 @@ Daniel Andrews has denied claims that the only reason he led Labor to a third st
  - [https://www.dailymail.co.uk/news/article-11473451/Women-left-agony-18-month-gynaecology-waiting-list-NHS.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473451/Women-left-agony-18-month-gynaecology-waiting-list-NHS.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 01:48:59+00:00
- - tags: None
 
 More than 40,000 women have been waiting for more than a year to see a gynaecologist. Among them are almost 5,000 patients who have been on the waiting list for more than 18 months.
 
@@ -1092,7 +956,6 @@ More than 40,000 women have been waiting for more than a year to see a gynaecol
  - [https://www.dailymail.co.uk/tvshowbiz/celebrity/article-11473453/Im-Celebrity-2022-Jill-Scott-earn-millions-TV-endorsement-deals.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/celebrity/article-11473453/Im-Celebrity-2022-Jill-Scott-earn-millions-TV-endorsement-deals.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 01:48:55+00:00
- - tags: None
 
 Jill Scott, 35, is reportedly set to earn millions after proving popular with I'm A Celebrity... Get Me Out of Here! viewers.
 
@@ -1100,7 +963,6 @@ Jill Scott, 35, is reportedly set to earn millions after proving popular with I'
  - [https://www.dailymail.co.uk/debate/article-11473445/ALEXANDRA-SHULMANS-NOTEBOOK-big-issue-Qatar-Just-WAGs-bags.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/debate/article-11473445/ALEXANDRA-SHULMANS-NOTEBOOK-big-issue-Qatar-Just-WAGs-bags.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 01:47:52+00:00
- - tags: None
 
 ALEXANDRA SHULMAN: At a time when there is relentless downbeat news, the football - despite being controversially hosted in Qatar - has come along as a mightily welcome distraction.
 
@@ -1108,7 +970,6 @@ ALEXANDRA SHULMAN: At a time when there is relentless downbeat news, the footbal
  - [https://www.dailymail.co.uk/news/article-11473393/Passenger-Salutes-Hitler-Calls-Race-War-American-Airlines-Flight-Dallas-Nicholas-Letney.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473393/Passenger-Salutes-Hitler-Calls-Race-War-American-Airlines-Flight-Dallas-Nicholas-Letney.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 01:45:07+00:00
- - tags: None
 
 An airline passenger has been caught on camera  screaming Nazi slurs at passengers at the Seattle airport. Nicholas Letney, 31, shouted racial slurs and performed a Nazi salute.
 
@@ -1116,7 +977,6 @@ An airline passenger has been caught on camera  screaming Nazi slurs at passenge
  - [https://www.dailymail.co.uk/news/article-11473469/Stalkers-using-Amazon-Alexa-devices-terrorise-victims-experts-warn.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473469/Stalkers-using-Amazon-Alexa-devices-terrorise-victims-experts-warn.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 01:40:33+00:00
- - tags: None
 
 The gadgets, which are voice activated and used to activate devices such as light controls or to play music, are being hijacked by vindictive ex-partners, who know the password or by using an app.
 
@@ -1124,7 +984,6 @@ The gadgets, which are voice activated and used to activate devices such as ligh
  - [https://www.dailymail.co.uk/tvshowbiz/celebrity/article-11473043/Im-Celebrity-2022-Mike-Tindall-EIGHTH-star-eliminated.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/celebrity/article-11473043/Im-Celebrity-2022-Mike-Tindall-EIGHTH-star-eliminated.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 01:38:20+00:00
- - tags: None
 
 The former rugby player, 44, was the latest star to be booted out of the Australian jungle, after the four celebrities took on the iconic Cyclone trial.
 
@@ -1132,7 +991,6 @@ The former rugby player, 44, was the latest star to be booted out of the Austral
  - [https://www.dailymail.co.uk/news/article-11472409/England-fans-nearly-riot-World-Cup-screening-TV-wrong-channel-30-minutes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11472409/England-fans-nearly-riot-World-Cup-screening-TV-wrong-channel-30-minutes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 01:36:07+00:00
- - tags: None
 
 Fuming England fans 'nearly rioted' last night as 'technical issues' at a screening meant they missed almost 30 minutes of the Three Lions' disappointing match against the USA.
 
@@ -1140,7 +998,6 @@ Fuming England fans 'nearly rioted' last night as 'technical issues' at a screen
  - [https://www.dailymail.co.uk/news/article-11473431/Retired-chaplain-77-banned-wearing-half-inch-Christian-cross-volunteering-hospice.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473431/Retired-chaplain-77-banned-wearing-half-inch-Christian-cross-volunteering-hospice.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 01:35:05+00:00
- - tags: None
 
 Retired businessman Derek Timms said he 'never received a single complaint' in the five years he has spent comforting terminally ill patients at the Solihull Marie Curie hospice in Birmingham.
 
@@ -1148,7 +1005,6 @@ Retired businessman Derek Timms said he 'never received a single complaint' in t
  - [https://www.dailymail.co.uk/news/article-11473417/Kirsty-Young-returns-Desert-Island-Discs-years-Christmas-Special-stepping-down.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473417/Kirsty-Young-returns-Desert-Island-Discs-years-Christmas-Special-stepping-down.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 01:19:17+00:00
- - tags: None
 
 Former Desert Island Discs host Kirsty Young, who stepped down from the role in 2018 due to long-term health concerns, will make a return as a guest for this year's Christmas special.
 
@@ -1156,7 +1012,6 @@ Former Desert Island Discs host Kirsty Young, who stepped down from the role in 
  - [https://www.dailymail.co.uk/news/article-11473455/Protests-erupt-China-thousands-streets-draconian-Covid-restrictions.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473455/Protests-erupt-China-thousands-streets-draconian-Covid-restrictions.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 01:12:15+00:00
- - tags: None
 
 Angry protests erupted across China yesterday as citizens took to the streets in a rare display of defiance over Beijing's draconian coronavirus restrictions.
 
@@ -1164,7 +1019,6 @@ Angry protests erupted across China yesterday as citizens took to the streets in
  - [https://www.dailymail.co.uk/news/article-11473089/Florida-Russian-familys-kids-YouTube-channels-earns-millions.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473089/Florida-Russian-familys-kids-YouTube-channels-earns-millions.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 00:57:05+00:00
- - tags: None
 
 A Florida-based Russian family's YouTube channel of their kids has netted them tens of millions of dollars and bought them a $12.5m Miami mansion, a Ferrari and a Range Rover.
 
@@ -1172,7 +1026,6 @@ A Florida-based Russian family's YouTube channel of their kids has netted them t
  - [https://www.dailymail.co.uk/news/article-11472759/Terrifying-video-captures-moment-woman-hit-car-crashes-cake-shop-window.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11472759/Terrifying-video-captures-moment-woman-hit-car-crashes-cake-shop-window.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 00:56:48+00:00
- - tags: None
 
 This is the terrifying moment a silver Toyota Hatchback flew across a pavement before crashing into Kake Temptations in Batley, West Yorkshire, sending a customer flying across the bakery floor.
 
@@ -1180,7 +1033,6 @@ This is the terrifying moment a silver Toyota Hatchback flew across a pavement b
  - [https://www.dailymail.co.uk/news/article-11473229/Trolls-encourage-self-harm-face-prison-following-campaign-tragic-Molly-Russells-family.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473229/Trolls-encourage-self-harm-face-prison-following-campaign-tragic-Molly-Russells-family.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 00:55:43+00:00
- - tags: None
 
 Changes to the Online Safety Bill will see encouraging self-harm online made a criminal offence following a successful campaign by the Molly Rose Foundation
 
@@ -1188,7 +1040,6 @@ Changes to the Online Safety Bill will see encouraging self-harm online made a c
  - [https://www.dailymail.co.uk/news/article-11473407/Matthew-Guy-resigns-Victoria-Liberal-leader-losing-election-Daniel-Andrews.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473407/Matthew-Guy-resigns-Victoria-Liberal-leader-losing-election-Daniel-Andrews.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 00:55:36+00:00
- - tags: None
 
 Victoria Liberal leader Matthew Guy has resigned from his role after a humiliating upset to Daniel Andrews at the state election.
 
@@ -1196,7 +1047,6 @@ Victoria Liberal leader Matthew Guy has resigned from his role after a humiliati
  - [https://www.dailymail.co.uk/news/article-11473341/How-MOS-pilloried-alarmist-exposing-blood-scandal-set-vindicated.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473341/How-MOS-pilloried-alarmist-exposing-blood-scandal-set-vindicated.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 00:44:30+00:00
- - tags: None
 
 The full story behind The Mail on Sunday's campaign to expose a scandal involving vulnerable patients given infected blood can be revealed today.
 
@@ -1204,7 +1054,6 @@ The full story behind The Mail on Sunday's campaign to expose a scandal involvin
  - [https://www.dailymail.co.uk/news/article-11473351/Neighbours-cry-foul-plans-day-music-venue-Chelsea-stadium-Stamford-Bridge.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473351/Neighbours-cry-foul-plans-day-music-venue-Chelsea-stadium-Stamford-Bridge.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 00:43:51+00:00
- - tags: None
 
 Chelsea FC have submitted plans to Hammersmith and Fulham Council for their Stamford Bridge stadium to become a live music venue selling alcohol between 10am and 11pm each day.
 
@@ -1212,7 +1061,6 @@ Chelsea FC have submitted plans to Hammersmith and Fulham Council for their Stam
  - [https://www.dailymail.co.uk/news/article-11473355/Junior-RAF-officer-claims-told-abortion-following-affair-Red-Arrows-commander.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473355/Junior-RAF-officer-claims-told-abortion-following-affair-Red-Arrows-commander.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 00:42:57+00:00
- - tags: None
 
 'I was so frightened,' remembers the former RAF non-commissioned officer, an attractive woman now in her 40s, who at the time of the affair in 2017 was part of the Red Arrows' crew.
 
@@ -1220,7 +1068,6 @@ Chelsea FC have submitted plans to Hammersmith and Fulham Council for their Stam
  - [https://www.dailymail.co.uk/news/article-11473309/Fans-blame-Englands-draw-air-conditioning-turned-HOUR-kick-off.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473309/Fans-blame-Englands-draw-air-conditioning-turned-HOUR-kick-off.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 00:41:26+00:00
- - tags: None
 
 The air conditioning at the Al Bayt Stadium was switched off an hour before England's 10pm local time kick-off against the USA at the request of the FIFA-supplied operations manager.
 
@@ -1228,7 +1075,6 @@ The air conditioning at the Al Bayt Stadium was switched off an hour before Engl
  - [https://www.dailymail.co.uk/news/article-11473343/A-cri-coeur-MoS-medical-reporter-broke-HIV-blood-scandal-story-39-years-ago.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473343/A-cri-coeur-MoS-medical-reporter-broke-HIV-blood-scandal-story-39-years-ago.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 00:40:47+00:00
- - tags: None
 
 SUSAN DOUGLAS: Almost 40 years ago, in what became one of the greatest medical scandals ever, doctors were forced to make an unimaginable choice and sign the death warrant of 2,400 patients.
 
@@ -1236,7 +1082,6 @@ SUSAN DOUGLAS: Almost 40 years ago, in what became one of the greatest medical s
  - [https://www.dailymail.co.uk/news/article-11473223/Call-Covid-chief-Jonathan-Van-Tam-lines-role-BBCs-Midwives.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473223/Call-Covid-chief-Jonathan-Van-Tam-lines-role-BBCs-Midwives.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 00:40:06+00:00
- - tags: None
 
 Former Deputy Chief Medical Officer Jonathan Van-Tam is in talks with producers of the BBC's hit show Call the Midwife for a role in the next series after recently visiting the set.
 
@@ -1244,7 +1089,6 @@ Former Deputy Chief Medical Officer Jonathan Van-Tam is in talks with producers 
  - [https://www.dailymail.co.uk/news/article-11473367/King-Charles-favourite-actor-Antony-Sher-leaves-2-3m-will.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473367/King-Charles-favourite-actor-Antony-Sher-leaves-2-3m-will.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 00:30:33+00:00
- - tags: None
 
 Sir Antony Sher, who was one of King Charles's favourite actors, left nearly £2.3 million in his will. The Olivier Award-winning stage star had cancer and died aged 72 last December.
 
@@ -1252,7 +1096,6 @@ Sir Antony Sher, who was one of King Charles's favourite actors, left nearly £2
  - [https://www.dailymail.co.uk/news/article-11473361/Migrants-suspected-diphtheria-moved-Manston-centre-hotels-UK.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473361/Migrants-suspected-diphtheria-moved-Manston-centre-hotels-UK.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 00:28:06+00:00
- - tags: None
 
 Concerns grew after the Home Office yesterday confirmed that a migrant who died at the former military base in Kent last weekend had contracted the infection, which may have caused his death.
 
@@ -1260,7 +1103,6 @@ Concerns grew after the Home Office yesterday confirmed that a migrant who died 
  - [https://www.dailymail.co.uk/news/article-11473279/Top-surgeon-says-sex-change-breast-removals-tenfold-decade.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473279/Top-surgeon-says-sex-change-breast-removals-tenfold-decade.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 00:23:11+00:00
- - tags: None
 
 The number of sex-change breast removal operations carried out by a leading specialist has surged ten-fold in a decade, The Mail on Sunday has learned.
 
@@ -1268,7 +1110,6 @@ The number of sex-change breast removal operations carried out by a leading spec
  - [https://www.dailymail.co.uk/femail/parenting/article-11473009/American-child-sex-crime-specialist-reveals-things-children-arent-allowed-do.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/parenting/article-11473009/American-child-sex-crime-specialist-reveals-things-children-arent-allowed-do.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 00:22:45+00:00
- - tags: None
 
 The US child sex crime investigator has a list of five rules her children must follow in order to protect them from predators.
 
@@ -1276,6 +1117,5 @@ The US child sex crime investigator has a list of five rules her children must f
  - [https://www.dailymail.co.uk/news/article-11473101/Nationals-leader-David-Littleproud-party-bucked-trend-won-key-seats-Victoria.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473101/Nationals-leader-David-Littleproud-party-bucked-trend-won-key-seats-Victoria.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 00:10:24+00:00
- - tags: None
 
 The Nationals' federal leader David Littleproud has praised his Victorian branch for its strong state election performance, but warned some 'soul searching' is needed in the Liberal party.

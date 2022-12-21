@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## Cristiano Ronaldo refuses to let light dim on his career as he makes history at Qatar 2022
  - [https://www.cnn.com/2022/11/24/football/portugal-ghana-cristiano-ronaldo-spt-intl/index.html](https://www.cnn.com/2022/11/24/football/portugal-ghana-cristiano-ronaldo-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 22:04:26+00:00
- - tags: None
 
 • LIVE: Iranian players sing anthem before match against Wales
 • USMNT takes on England in potentially decisive World Cup meeting
@@ -13,7 +12,6 @@
  - [https://www.cnn.com/videos/world/2022/11/24/anastasia-shevchenko-russian-activist-dissident-arrested-protesting-sot-interview-ist-intl-vpx.cnn](https://www.cnn.com/videos/world/2022/11/24/anastasia-shevchenko-russian-activist-dissident-arrested-protesting-sot-interview-ist-intl-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 21:55:09+00:00
- - tags: None
 
 CNN's Isa Soares speaks with Anastasia Shevchenko, a Russian activist whose two-year house arrest kept her from being by her ailing daughter's side during her death.
 
@@ -21,7 +19,6 @@ CNN's Isa Soares speaks with Anastasia Shevchenko, a Russian activist whose two-
  - [https://www.cnn.com/videos/business/2022/11/24/al-roker-misses-macys-thanksgiving-day-parade.cnn-business](https://www.cnn.com/videos/business/2022/11/24/al-roker-misses-macys-thanksgiving-day-parade.cnn-business)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 21:28:19+00:00
- - tags: None
 
 Famed "Today" meteorologist Al Roker was recently hospitalized and had to miss this year's Macy's Thanksgiving Day Parade. His co-hosts Savannah Guthrie and Hoda Kotb wished him a speedy recovery.
 
@@ -29,7 +26,6 @@ Famed "Today" meteorologist Al Roker was recently hospitalized and had to miss t
  - [https://www.cnn.com/2022/11/24/tech/elon-musk-amnesty-poll/index.html](https://www.cnn.com/2022/11/24/tech/elon-musk-amnesty-poll/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 20:36:04+00:00
- - tags: None
 
 Elon Musk said Thursday that he will begin restoring most previously banned accounts on Twitter starting next week, in his most wide-reaching move yet to undo the social media platform's policy of permanently suspending users who repeatedly violated its rules.
 
@@ -37,7 +33,6 @@ Elon Musk said Thursday that he will begin restoring most previously banned acco
  - [https://www.cnn.com/collections/intl-ukraine-2411/](https://www.cnn.com/collections/intl-ukraine-2411/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 18:01:13+00:00
- - tags: None
 
 
 
@@ -45,7 +40,6 @@ Elon Musk said Thursday that he will begin restoring most previously banned acco
  - [https://www.cnn.com/videos/world/2022/11/24/russian-orphanage-infant-twins-texas-family-project-dynamo-bryan-stern-cprog-ath-vpx.cnn](https://www.cnn.com/videos/world/2022/11/24/russian-orphanage-infant-twins-texas-family-project-dynamo-bryan-stern-cprog-ath-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 17:56:00+00:00
- - tags: None
 
 Project Dynamo founder Bryan Stern explains how the organization united parents with their infant children who were in a Russian orphanage during the war in Ukraine.
 
@@ -53,7 +47,6 @@ Project Dynamo founder Bryan Stern explains how the organization united parents 
  - [https://www.cnn.com/videos/business/2022/11/24/china-protests-foxconn-apple-ek-lon-orig.cnn](https://www.cnn.com/videos/business/2022/11/24/china-protests-foxconn-apple-ek-lon-orig.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 17:09:16+00:00
- - tags: None
 
 Protesters clashed with police at the Foxconn facility in Zhengzhou over payments for new hires, dirty living conditions and chaotic Covid protocols.
 
@@ -61,7 +54,6 @@ Protesters clashed with police at the Foxconn facility in Zhengzhou over payment
  - [https://www.cnn.com/2022/11/24/europe/ukraine-power-russia-strikes-intl-cmd/index.html](https://www.cnn.com/2022/11/24/europe/ukraine-power-russia-strikes-intl-cmd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 17:08:57+00:00
- - tags: None
 
 Ukraine raced to restore power across the country on Thursday, a day after Russia sent a new barrage of missiles to target critical infrastructure, resulting in the temporary shutdown of most of its power plants and leaving the "vast majority" of people without electricity.
 
@@ -69,7 +61,6 @@ Ukraine raced to restore power across the country on Thursday, a day after Russi
  - [https://www.cnn.com/2022/11/24/us/arrest-warrant-north-carolina-woman-dead-mexico/index.html](https://www.cnn.com/2022/11/24/us/arrest-warrant-north-carolina-woman-dead-mexico/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 16:16:41+00:00
- - tags: None
 
 Mexican prosecutors have gotten an arrest warrant for the friend of a North Carolina woman who was found dead last month while on vacation in Cabo San Lucas, Mexico.
 
@@ -77,7 +68,6 @@ Mexican prosecutors have gotten an arrest warrant for the friend of a North Caro
  - [https://www.cnn.com/2022/11/24/entertainment/keke-palmer-snl-saturday-night-live-thanksgiving/index.html](https://www.cnn.com/2022/11/24/entertainment/keke-palmer-snl-saturday-night-live-thanksgiving/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 16:16:30+00:00
- - tags: None
 
 Keke Palmer is set to host "Saturday Night Live" for the first time on Dec. 3, alongside musical guest SZA.
 
@@ -85,7 +75,6 @@ Keke Palmer is set to host "Saturday Night Live" for the first time on Dec. 3, a
  - [https://www.cnn.com/style/article/steinway-skyscaper-interior-design/index.html](https://www.cnn.com/style/article/steinway-skyscaper-interior-design/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 15:57:04+00:00
- - tags: None
 
 The designers behind the world's skinniest skyscraper have just given fans of ultra-luxury living an early Christmas gift.
 
@@ -93,7 +82,6 @@ The designers behind the world's skinniest skyscraper have just given fans of ul
  - [https://www.cnn.com/2022/11/24/media/coindesk-scoop-ftx-reliable-sources/index.html](https://www.cnn.com/2022/11/24/media/coindesk-scoop-ftx-reliable-sources/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 15:48:32+00:00
- - tags: None
 
 The staggering level of apparent deception staged by former crypto king Sam Bankman-Fried wasn't uncovered by government investigators or a major powerhouse financial news organization, such as The Wall Street Journal.
 
@@ -101,7 +89,6 @@ The staggering level of apparent deception staged by former crypto king Sam Bank
  - [https://www.cnn.com/videos/us/2022/11/24/mugshot-colorado-club-q-shooting-suspect-watt-nr-vpx.cnn](https://www.cnn.com/videos/us/2022/11/24/mugshot-colorado-club-q-shooting-suspect-watt-nr-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 15:23:56+00:00
- - tags: None
 
 The suspect in the Club Q shooting that left six people dead and more than a dozen injured in Colorado Springs, Colorado made their first court appearce via video conference. The court appearance and mugshot show just how badly they were beaten after witnesses took the suspect down.
 
@@ -109,7 +96,6 @@ The suspect in the Club Q shooting that left six people dead and more than a doz
  - [https://www.cnn.com/2022/11/24/politics/e-jean-carroll-trump-battery-defamation-lawsuit/index.html](https://www.cnn.com/2022/11/24/politics/e-jean-carroll-trump-battery-defamation-lawsuit/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 15:14:42+00:00
- - tags: None
 
 Ex-magazine columnist E. Jean Carroll sued former President Donald Trump for battery and defamation under a new New York law that allows adults alleging sexual assault to bring claims years after the attack.
 
@@ -117,7 +103,6 @@ Ex-magazine columnist E. Jean Carroll sued former President Donald Trump for bat
  - [https://www.cnn.com/2022/11/24/us/club-q-shooting-vulnerable-groups-race-deconstructed-reaj/index.html](https://www.cnn.com/2022/11/24/us/club-q-shooting-vulnerable-groups-race-deconstructed-reaj/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 15:09:08+00:00
- - tags: None
 
 A version of this story appeared in CNN's Race Deconstructed newsletter. To get it in your inbox every week, sign up for free here.
 
@@ -125,7 +110,6 @@ A version of this story appeared in CNN's Race Deconstructed newsletter. To get 
  - [https://www.cnn.com/videos/politics/2022/11/24/maggie-haberman-pence-trump-doj-testimony-january-6-cnntm-vpx.cnn](https://www.cnn.com/videos/politics/2022/11/24/maggie-haberman-pence-trump-doj-testimony-january-6-cnntm-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 15:03:39+00:00
- - tags: None
 
 CNN political analyst Maggie Haberman explains why former Vice President Mike Pence is now considering speaking to the Department of Justice after they made a request for an interview in its investigation into the January 6th insurrection.
 
@@ -133,7 +117,6 @@ CNN political analyst Maggie Haberman explains why former Vice President Mike Pe
  - [https://www.cnn.com/videos/business/2022/11/24/elon-musk-twitter-shirt-stay-woke-michael-brown-cnntm-vpx.cnn](https://www.cnn.com/videos/business/2022/11/24/elon-musk-twitter-shirt-stay-woke-michael-brown-cnntm-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 14:37:39+00:00
- - tags: None
 
 Elon Musk tweeted a video mocking a Twitter closet full of "#StayWoke" apparel. In a since deleted tweet, Musk called the "hands up, don't shoot" movement "fiction." CNN's Don Lemon lays out the facts behind the social justice movement.
 
@@ -141,7 +124,6 @@ Elon Musk tweeted a video mocking a Twitter closet full of "#StayWoke" apparel. 
  - [https://www.cnn.com/videos/us/2022/11/24/jerry-jones-dallas-cowboys-little-rock-arkansas-segregation-washington-post-cnntm-contd-ldn-vpx.cnn](https://www.cnn.com/videos/us/2022/11/24/jerry-jones-dallas-cowboys-little-rock-arkansas-segregation-washington-post-cnntm-contd-ldn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 14:34:34+00:00
- - tags: None
 
 A resurfaced photograph from 1957 pictures Dallas Cowboys owner Jerry Jones standing with a crowd of White students blocking six Black students from entering North Little Rock High School in Arkansas. CNN spoke with Washington Post reporter Sally Jenkins who was part of the team that discovered the photo.
 
@@ -149,7 +131,6 @@ A resurfaced photograph from 1957 pictures Dallas Cowboys owner Jerry Jones stan
  - [https://www.cnn.com/2022/11/24/entertainment/dolly-parton-miley-cyrus-birthday/index.html](https://www.cnn.com/2022/11/24/entertainment/dolly-parton-miley-cyrus-birthday/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 14:01:26+00:00
- - tags: None
 
 Dolly Parton paid tribute to her goddaughter Miley Cyrus on her 30th birthday.
 
@@ -157,7 +138,6 @@ Dolly Parton paid tribute to her goddaughter Miley Cyrus on her 30th birthday.
  - [https://www.cnn.com/videos/world/2022/11/24/iran-doctor-protester-un-human-rights-council-karadsheh-pkg-ovn-contd-intl-hnk-vpx.cnn](https://www.cnn.com/videos/world/2022/11/24/iran-doctor-protester-un-human-rights-council-karadsheh-pkg-ovn-contd-intl-hnk-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 13:43:39+00:00
- - tags: None
 
 As Iranians continue to take to the streets in protest against the regime, risking bullets and brutality, the international community is being called on to respond. CNN's Jomana Karadsheh spoke to an Iranian protester who urged the UN to take "concrete action" in response to the vicious government crackdown.
 
@@ -165,7 +145,6 @@ As Iranians continue to take to the streets in protest against the regime, riski
  - [https://edition.cnn.com/sport/live-news/world-cup-11-24-22/index.html](https://edition.cnn.com/sport/live-news/world-cup-11-24-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 13:42:57.976341+00:00
- - tags: None
 
 • 'The greatest sporting upset of all time': When the US beat England at 1950 World Cup
 
@@ -173,7 +152,6 @@ As Iranians continue to take to the streets in protest against the regime, riski
  - [https://cnn.it/3gvtJSR](https://cnn.it/3gvtJSR)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 13:42:57.810042+00:00
- - tags: None
 
 
 
@@ -181,7 +159,6 @@ As Iranians continue to take to the streets in protest against the regime, riski
  - [https://www.cnn.com/2022/11/24/middleeast/iran-protests-un-human-rights-council-intl/index.html](https://www.cnn.com/2022/11/24/middleeast/iran-protests-un-human-rights-council-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 13:37:56+00:00
- - tags: None
 
 Iran is in a "full-fledged human rights crisis" as authorities clamp down on anti-regime dissidents, according to the United Nations High Commissioner for Human Rights Chief Volker Turk.
 
@@ -189,7 +166,6 @@ Iran is in a "full-fledged human rights crisis" as authorities clamp down on ant
  - [https://www.cnn.com/videos/world/2022/11/24/ukraine-maternity-ward-infant-russia-missile-strike-chance-intl-ldn-vpx.cnn](https://www.cnn.com/videos/world/2022/11/24/ukraine-maternity-ward-infant-russia-missile-strike-chance-intl-ldn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 13:03:22+00:00
- - tags: None
 
 CNN's Matthew Chance reports on the destruction of a maternity ward in Vilnyansk, Ukraine, which mirrors the attack on a maternity and children's hospital in Mariupol back in March.
 
@@ -197,7 +173,6 @@ CNN's Matthew Chance reports on the destruction of a maternity ward in Vilnyansk
  - [https://www.cnn.com/2022/11/24/opinions/cop27-africa-green-finance-lgs-intl/index.html](https://www.cnn.com/2022/11/24/opinions/cop27-africa-green-finance-lgs-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 13:02:33+00:00
- - tags: None
 
 The recently-concluded COP27 was dubbed the "African COP" -- with the continent center stage in the global effort to fight the causes and effects of climate change.
 
@@ -205,7 +180,6 @@ The recently-concluded COP27 was dubbed the "African COP" -- with the continent 
  - [https://www.cnn.com/2022/11/24/football/england-usa-world-cup-1950-spt-intl/index.html](https://www.cnn.com/2022/11/24/football/england-usa-world-cup-1950-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 12:58:39+00:00
- - tags: None
 
 On one side of the pitch was a team made up some of the biggest names in world soccer. On the other was a grave digger, a dishwasher and a postman. The result seemed a formality.
 
@@ -213,7 +187,6 @@ On one side of the pitch was a team made up some of the biggest names in world s
  - [https://www.cnn.com/travel/article/genoa-rolli-palaces/index.html](https://www.cnn.com/travel/article/genoa-rolli-palaces/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 12:56:35+00:00
- - tags: None
 
 It's the Italian city home to palaces so spectacular that they're UNESCO World Heritage sites. A city that was once home to so much wealth that the local aristocracy lived in environments literally fit for a king, and the place where Rubens began his great artistic career.
 
@@ -221,7 +194,6 @@ It's the Italian city home to palaces so spectacular that they're UNESCO World H
  - [https://www.cnn.com/collections/intl-thanksgiving-241122/](https://www.cnn.com/collections/intl-thanksgiving-241122/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 12:45:43+00:00
- - tags: None
 
 
 
@@ -229,7 +201,6 @@ It's the Italian city home to palaces so spectacular that they're UNESCO World H
  - [https://www.cnn.com/2022/11/24/uk/flossie-oldest-living-cat-intl-scli-gbr/index.html](https://www.cnn.com/2022/11/24/uk/flossie-oldest-living-cat-intl-scli-gbr/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 12:34:40+00:00
- - tags: None
 
 Flossie, at the age of almost 27 -- which is the feline equivalent of being 120 human years old, according to Guinness World Records -- has been crowned the world's oldest living cat.
 
@@ -237,7 +208,6 @@ Flossie, at the age of almost 27 -- which is the feline equivalent of being 120 
  - [https://www.cnn.com/2022/11/24/football/ruben-dias-portugal-world-cup-2022-spt-intl/index.html](https://www.cnn.com/2022/11/24/football/ruben-dias-portugal-world-cup-2022-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 12:01:33+00:00
- - tags: None
 
 Before anyone else has arrived, Ruben Dias is at Manchester City's training ground, ready to begin his day.
 
@@ -245,7 +215,6 @@ Before anyone else has arrived, Ruben Dias is at Manchester City's training grou
  - [https://www.cnn.com/2022/11/24/us/new-york-adult-survivors-act/index.html](https://www.cnn.com/2022/11/24/us/new-york-adult-survivors-act/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 11:53:45+00:00
- - tags: None
 
 Adult survivors of sexual abuse now can sue their abusers in New York -- even if the statute of limitations on their claims has expired -- under a state law that goes into effect Thursday.
 
@@ -253,7 +222,6 @@ Adult survivors of sexual abuse now can sue their abusers in New York -- even if
  - [https://www.cnn.com/2022/11/24/europe/russia-lgbt-propaganda-law-amendment-intl/index.html](https://www.cnn.com/2022/11/24/europe/russia-lgbt-propaganda-law-amendment-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 11:01:47+00:00
- - tags: None
 
 Russia's lower house of parliament passed in the third reading amendments to a law on so-called "LGBT propaganda" on Thursday, expanding liability to all ages.
 
@@ -261,7 +229,6 @@ Russia's lower house of parliament passed in the third reading amendments to a l
  - [https://www.cnn.com/2022/11/24/business/thanksgiving-stores-open-and-closed/index.html](https://www.cnn.com/2022/11/24/business/thanksgiving-stores-open-and-closed/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 10:58:10+00:00
- - tags: None
 
 Stores and businesses across the United States will be closed Thursday as Americans celebrate Thanksgiving — but it can be confusing to figure out what will remain open. Many stores that were once open on Thanksgiving have changed policy since the pandemic, shuttering for the day before Black Friday sales.
 
@@ -269,7 +236,6 @@ Stores and businesses across the United States will be closed Thursday as Americ
  - [https://www.cnn.com/style/article/celtic-coins-theft-bavaria-museum/index.html](https://www.cnn.com/style/article/celtic-coins-theft-bavaria-museum/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 10:46:23+00:00
- - tags: None
 
 A horde of ancient coins has been stolen from a museum in southern Germany, according to the Bavarian State Police.
 
@@ -277,7 +243,6 @@ A horde of ancient coins has been stolen from a museum in southern Germany, acco
  - [https://www.cnn.com/2022/11/24/asia/kazumi-muraki-carbon-fuel-climate-scn-spc-intl/index.html](https://www.cnn.com/2022/11/24/asia/kazumi-muraki-carbon-fuel-climate-scn-spc-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 10:30:48+00:00
- - tags: None
 
 When he was just 15, Kazumi Muraki created a small, portable device to capture carbon from the atmosphere. Seven years later, the Japanese chemist is researching how to convert this captured carbon into fuel.
 
@@ -285,7 +250,6 @@ When he was just 15, Kazumi Muraki created a small, portable device to capture c
  - [https://www.cnn.com/2022/11/24/football/pope-francis-knee-injury-atletico-madrid-spt-intl/index.html](https://www.cnn.com/2022/11/24/football/pope-francis-knee-injury-atletico-madrid-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 09:52:00+00:00
- - tags: None
 
 The head doctor at Spanish football club Atlético Madrid has been called upon by the Vatican to treat Pope Francis' knee injury.
 
@@ -293,7 +257,6 @@ The head doctor at Spanish football club Atlético Madrid has been called upon b
  - [https://www.cnn.com/2022/11/24/world/wasp-39b-bocaprins-webb-atmosphere-discovery-scn/index.html](https://www.cnn.com/2022/11/24/world/wasp-39b-bocaprins-webb-atmosphere-discovery-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 09:43:18+00:00
- - tags: None
 
 The James Webb Space Telescope has captured a detailed molecular and chemical portrait of a faraway planet's skies, scoring another first for the exoplanet science community.
 
@@ -301,7 +264,6 @@ The James Webb Space Telescope has captured a detailed molecular and chemical po
  - [https://www.cnn.com/2022/11/24/health/turkey-sleep-tryptophan-myth-wellness/index.html](https://www.cnn.com/2022/11/24/health/turkey-sleep-tryptophan-myth-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 09:35:27+00:00
- - tags: None
 
 Do you believe in the holiday food coma?
 
@@ -309,7 +271,6 @@ Do you believe in the holiday food coma?
  - [https://www.cnn.com/2022/11/24/business/trapview-ai-pest-management-spc-intl/index.html](https://www.cnn.com/2022/11/24/business/trapview-ai-pest-management-spc-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 09:30:53+00:00
- - tags: None
 
 Pests destroy up 40% of the world's crops each year, causing $220 billion in economic losses, according to the UN Food and Agriculture Organization (FAO). Trapview is harnessing the power of AI to help tackle the problem.
 
@@ -317,7 +278,6 @@ Pests destroy up 40% of the world's crops each year, causing $220 billion in eco
  - [https://www.cnn.com/2022/11/24/us/katie-meyer-wrongful-death-lawsuit-stanford-university/index.html](https://www.cnn.com/2022/11/24/us/katie-meyer-wrongful-death-lawsuit-stanford-university/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 09:23:17+00:00
- - tags: None
 
 The family of Katie Meyer, a star soccer player who died by suicide last spring, has filed a wrongful death lawsuit against Stanford University and several administrators alleging their actions surrounding a potential disciplinary action caused her "to suffer an acute stress reaction that impulsively led to her suicide."
 
@@ -325,7 +285,6 @@ The family of Katie Meyer, a star soccer player who died by suicide last spring,
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-11-24-22/index.html](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-11-24-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 08:42:51.594780+00:00
- - tags: None
 
 
 
@@ -333,7 +292,6 @@ The family of Katie Meyer, a star soccer player who died by suicide last spring,
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-11-24-22/index.html](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-11-24-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 08:42:51.457676+00:00
- - tags: None
 
 
 
@@ -341,7 +299,6 @@ The family of Katie Meyer, a star soccer player who died by suicide last spring,
  - [https://www.cnn.com/2022/11/24/opinions/russia-ukraine-truce-negotiations-war-andelman/index.html](https://www.cnn.com/2022/11/24/opinions/russia-ukraine-truce-negotiations-war-andelman/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 08:40:55+00:00
- - tags: None
 
 A truce now in the war in Ukraine would essentially spell victory for Russian President Vladimir Putin.
 
@@ -349,7 +306,6 @@ A truce now in the war in Ukraine would essentially spell victory for Russian Pr
  - [https://www.cnn.com/2022/11/23/middleeast/why-arabs-are-furious-world-cup-mime-intl/index.html](https://www.cnn.com/2022/11/23/middleeast/why-arabs-are-furious-world-cup-mime-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 08:16:52+00:00
- - tags: None
 
 • A silent protest against FIFA by Germany's World Cup team
 • Messi fronts up to Saudi defeat
@@ -358,7 +314,6 @@ A truce now in the war in Ukraine would essentially spell victory for Russian Pr
  - [https://www.cnn.com/collections/intl-2411-china-covid/](https://www.cnn.com/collections/intl-2411-china-covid/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 07:56:03+00:00
- - tags: None
 
 
 
@@ -366,7 +321,6 @@ A truce now in the war in Ukraine would essentially spell victory for Russian Pr
  - [https://www.cnn.com/style/article/alessandro-michele-gucci-steps-down/index.html](https://www.cnn.com/style/article/alessandro-michele-gucci-steps-down/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 07:31:59+00:00
- - tags: None
 
 Alessandro Michele has stepped down as Gucci's creative director after almost eight years, a period that saw him help revive and transform the Italian label's fortunes.
 
@@ -374,7 +328,6 @@ Alessandro Michele has stepped down as Gucci's creative director after almost ei
  - [https://www.cnn.com/2022/11/24/europe/kherson-pullout-ukrainian-resistance-intl/index.html](https://www.cnn.com/2022/11/24/europe/kherson-pullout-ukrainian-resistance-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 05:22:17+00:00
- - tags: None
 
 Two Russian soldiers walked down a street in Kherson on a spring evening in early March, just days after Moscow captured the city. The temperature that night was still below freezing and the power was out, leaving the city in complete darkness as the soldiers made their way back to camp after a few drinks.
 
@@ -382,7 +335,6 @@ Two Russian soldiers walked down a street in Kherson on a spring evening in earl
  - [https://www.cnn.com/2022/11/23/movies/avatar-china-release-intl-hnk/index.html](https://www.cnn.com/2022/11/23/movies/avatar-china-release-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 04:28:39+00:00
- - tags: None
 
 The long-awaited sequel to director James Cameron's blockbuster "Avatar" will be released in mainland Chinese cinemas on Dec. 16, 20th Century Studios said on Wednesday.
 
@@ -390,7 +342,6 @@ The long-awaited sequel to director James Cameron's blockbuster "Avatar" will be
  - [https://www.cnn.com/2022/11/23/us/witnesses-walmart-chesapeake-shooting/index.html](https://www.cnn.com/2022/11/23/us/witnesses-walmart-chesapeake-shooting/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 04:26:19+00:00
- - tags: None
 
 Though Jessie Wilczewski had only been working at the Chesapeake, Virginia, Walmart for a few days, her Tuesday night shift started like all the rest, with a routine team meeting in the break room.
 
@@ -398,7 +349,6 @@ Though Jessie Wilczewski had only been working at the Chesapeake, Virginia, Walm
  - [https://www.cnn.com/videos/politics/2022/11/24/mick-mulvaney-trump-republicans-gop-nomination-2024-elections-desantis-scott-interview-sot-ctn-vpx.cnn](https://www.cnn.com/videos/politics/2022/11/24/mick-mulvaney-trump-republicans-gop-nomination-2024-elections-desantis-scott-interview-sot-ctn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 03:20:44+00:00
- - tags: None
 
 Former President Donald Trump's acting Chief of Staff, Mick Mulvaney joins CNN's Kasie Hunt to discuss the future of the GOP and possible 2024 Republican nominees.
 
@@ -406,7 +356,6 @@ Former President Donald Trump's acting Chief of Staff, Mick Mulvaney joins CNN's
  - [https://www.cnn.com/videos/world/2022/11/24/grieving-son-blames-china-covid-policies-wang-dnt-contd-ebof-vpx.cnn](https://www.cnn.com/videos/world/2022/11/24/grieving-son-blames-china-covid-policies-wang-dnt-contd-ebof-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 01:52:32+00:00
- - tags: None
 
 CNN's Selina Wang speaks to a grieving son who says his dad was unable to get medical aid and blames China's draconian, zero-Covid policy for killing him.
 
@@ -414,7 +363,6 @@ CNN's Selina Wang speaks to a grieving son who says his dad was unable to get me
  - [https://www.cnn.com/style/article/greg-girard-tokyo-jal-76-88/index.html](https://www.cnn.com/style/article/greg-girard-tokyo-jal-76-88/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 01:43:30+00:00
- - tags: None
 
 When celebrated photographer Greg Girard landed in Tokyo in April 1976, he expected to spend only a few days in the Japanese capital. At that time a "broke traveler" in his early 20s, he was headed to more affordable destinations in southeast Asia.
 
@@ -422,7 +370,6 @@ When celebrated photographer Greg Girard landed in Tokyo in April 1976, he expec
  - [https://www.cnn.com/videos/us/2022/11/24/walmart-shooting-virginia-survivor-jessie-wilczewski-ebof-sot-vpx.cnn](https://www.cnn.com/videos/us/2022/11/24/walmart-shooting-virginia-survivor-jessie-wilczewski-ebof-sot-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 01:14:44+00:00
- - tags: None
 
 Jessie Wilczewski was an employee for only five days at Walmart in Chesapeake, VA, when a fellow employee opened fire in the store's break room. She recounts her horrifying experience to CNN's Erica Hill.
 
@@ -430,7 +377,6 @@ Jessie Wilczewski was an employee for only five days at Walmart in Chesapeake, V
  - [https://www.cnn.com/videos/world/2022/11/23/kherson-ukraine-resistance-fighters-russia-kiley-dnt-tsr-vpx.cnn](https://www.cnn.com/videos/world/2022/11/23/kherson-ukraine-resistance-fighters-russia-kiley-dnt-tsr-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 00:53:12+00:00
- - tags: None
 
 In a CNN exclusive, Sam Kiley speaks to Kherson resistance fighters that helped liberate the Ukrainian city from Russia.
 
@@ -438,6 +384,5 @@ In a CNN exclusive, Sam Kiley speaks to Kherson resistance fighters that helped 
  - [https://www.cnn.com/videos/world/2022/11/24/paramedic-mother-crash-victim-daughter-canada-contd-affil-vpx.ctv](https://www.cnn.com/videos/world/2022/11/24/paramedic-mother-crash-victim-daughter-canada-contd-affil-vpx.ctv)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-24 00:31:31+00:00
- - tags: None
 
 A paramedic who responded to a horrific crash and attempted to rescue two teenage girls was unknowingly treating her own daughter. CNN affiliate CTV reports.

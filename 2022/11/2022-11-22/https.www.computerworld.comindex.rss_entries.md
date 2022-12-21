@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Zoom sales growth slows as online business slumps in post-pandemic era
  - [https://www.computerworld.com/article/3680374/zoom-sales-growth-slows-as-online-business-slumps-in-post-pandemic-era.html#tk.rss_all](https://www.computerworld.com/article/3680374/zoom-sales-growth-slows-as-online-business-slumps-in-post-pandemic-era.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-22 15:41:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3680394/apple-google-face-legal-pressure-over-uk-mobile-services-dominance.html#tk.rss_all](https://www.computerworld.com/article/3680394/apple-google-face-legal-pressure-over-uk-mobile-services-dominance.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-22 14:44:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -25,7 +23,6 @@
  - [https://www.computerworld.com/article/2893364/is-chrome-os-right-for-you.html#tk.rss_all](https://www.computerworld.com/article/2893364/is-chrome-os-right-for-you.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-22 11:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

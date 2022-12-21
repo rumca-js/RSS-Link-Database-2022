@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## The future of security: smarter devices that protect themselves
  - [https://www.computerworld.com/article/3680728/the-future-of-security-smarter-devices-that-protect-themselves.html#tk.rss_all](https://www.computerworld.com/article/3680728/the-future-of-security-smarter-devices-that-protect-themselves.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-18 16:37:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -15,7 +14,6 @@
  - [https://www.computerworld.com/article/3680391/nvidia-nudges-omniverse-closer-to-connected-digital-twins-and-full-automation.html#tk.rss_all](https://www.computerworld.com/article/3680391/nvidia-nudges-omniverse-closer-to-connected-digital-twins-and-full-automation.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-18 13:36:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -25,7 +23,6 @@
  - [https://www.computerworld.com/article/3677859/google-sheets-how-to-use-dropdown-lists.html#tk.rss_all](https://www.computerworld.com/article/3677859/google-sheets-how-to-use-dropdown-lists.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-18 11:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

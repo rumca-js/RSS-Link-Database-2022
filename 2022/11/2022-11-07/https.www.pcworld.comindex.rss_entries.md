@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## The best free antivirus: Keep your PC safe without spending a dime
  - [https://www.pcworld.com/article/398720/best-free-antivirus.html](https://www.pcworld.com/article/398720/best-free-antivirus.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-07 17:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <div class="wp-container-3 wp-block-columns">
@@ -186,7 +185,6 @@ Productivity Software, Security</div>
  - [https://www.pcworld.com/article/1368068/how-to-enable-dark-mode-in-microsoft-office.html](https://www.pcworld.com/article/1368068/how-to-enable-dark-mode-in-microsoft-office.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-07 16:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you suffer from eye strain or tension headaches, you may want to consider enabling dark mode in Microsoft Office. Not only is it easier on the eyes, but it also helps reduce any issues with glare. Not sure how to go about it? Don&rsquo;t sweat it. We&rsquo;ve got you covered. Whether you tango with Windows or Mac, we&rsquo;ll guide you every step of the way.</p>
@@ -299,7 +297,6 @@ Microsoft Office</div>
  - [https://www.pcworld.com/article/1372585/save-167-on-this-144hz-ultrawide-curved-gaming-monitor.html](https://www.pcworld.com/article/1372585/save-167-on-this-144hz-ultrawide-curved-gaming-monitor.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-07 14:32:43+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you&rsquo;re on the hunt for the ultimate gaming experience, you&rsquo;re in luck, as we&rsquo;ve got a sweet deal on an ultrawide curved monitor that our own Brad Chacos uses for ultra-immersive <em>Forza Horizon </em>and <em>Call of Duty</em> sessions. Amazon&rsquo;s selling the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/dp/B07ZG7R5BB&amp;xcust=2-2-1372585-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Nixeus EDG34S ultrawide curved gaming monitor for $383.12</a>, which is a savings of $166.87. From a high refresh rate to a tilting stand, this souped-up monitor has just about anything you could possibly want. Let&rsquo;s dive right into the specs and features.</p>
@@ -320,7 +317,6 @@ Monitors</div>
  - [https://www.pcworld.com/article/1369361/what-you-need-to-know-before-buying-a-new-pc-power-supply.html](https://www.pcworld.com/article/1369361/what-you-need-to-know-before-buying-a-new-pc-power-supply.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-07 14:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Power supplies are simple, right? Just figure out how much power draw all your computer parts use, get one with a few more watts, and call it a day. Wrong! In addition to creature comforts like standard versus modular rails, you need to think about compatible sizes, brand reliability, and power efficiency. And with the new ATX 3.0 spec and the 12VHPWR connector for the latest graphics cards, it just got more complicated. To make it simple again, let Gordon and Adam walk you through your options in the latest PCWorld YouTube video. </p>
@@ -356,7 +352,6 @@ Desktop PCs</div>
  - [https://www.pcworld.com/article/1363182/steelseries-arctis-nova-3-gaming-headset-review.html](https://www.pcworld.com/article/1363182/steelseries-arctis-nova-3-gaming-headset-review.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-07 10:45:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
@@ -520,7 +515,6 @@ Computer Accessories, Gaming</div>
  - [https://www.pcworld.com/article/1074146/train-your-coding-skills-with-four-internationally-accredited-courses-for-40.html](https://www.pcworld.com/article/1074146/train-your-coding-skills-with-four-internationally-accredited-courses-for-40.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-07 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Want to learn how to code? Luckily, you don&rsquo;t necessarily have to go back to school or enroll in a stressful bootcamp. With the 2022 CPD Certified Coding Certification Bundle, you can&nbsp;<a href="https://shop.pcworld.com/sales/the-2022-cpd-certified-coding-certification-bundle?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=the-2022-cpd-certified-coding-certification-bundle&amp;utm_term=scsf-555325&amp;utm_content=a0x1P000004lqdeQAA&amp;scsonar=1" rel="noreferrer noopener" target="_blank">study how you want, when you want</a>, and PCWorld readers can purchase it for just $39.99 for a limited time.</p>
@@ -561,7 +555,6 @@ Certifications</div>
  - [https://www.pcworld.com/article/402850/black-friday-everything-you-need-to-know.html](https://www.pcworld.com/article/402850/black-friday-everything-you-need-to-know.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-07 01:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Black Friday used to be a single day of shopping excess. People woke up early the day after Thanksgiving, headed to malls, and fought over deeply discounted sweaters, coffee makers, and TVs. If you looked hard enough, you could find amazing deep discounts amid piles of questionable &ldquo;bargains.&rdquo; A while later online retailers cooked up Cyber Monday in a bid for some of that free-flowing cash.</p>

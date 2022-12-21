@@ -1,10 +1,9 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage
+# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
 
 ## Twenty questions is a weird game
  - [https://aaronson.org/blog/twenty-questions](https://aaronson.org/blog/twenty-questions)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 23:10:37+00:00
- - tags: None
 
 <p>Article URL: <a href="https://aaronson.org/blog/twenty-questions">https://aaronson.org/blog/twenty-questions</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33602716">https://news.ycombinator.com/item?id=33602716</a></p>
@@ -15,7 +14,6 @@
  - [https://chess2.fun](https://chess2.fun)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 22:25:05+00:00
- - tags: None
 
 <p>Article URL: <a href="https://chess2.fun">https://chess2.fun</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33602180">https://news.ycombinator.com/item?id=33602180</a></p>
@@ -26,7 +24,6 @@
  - [https://github.com/paiv/latynka](https://github.com/paiv/latynka)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 22:03:09+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/paiv/latynka">https://github.com/paiv/latynka</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33601888">https://news.ycombinator.com/item?id=33601888</a></p>
@@ -37,7 +34,6 @@
  - [https://www.paypal.com/re/smarthelp/article/what-is-the-inactivity-fee-(eu-countries)-faq4427](https://www.paypal.com/re/smarthelp/article/what-is-the-inactivity-fee-(eu-countries)-faq4427)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 22:01:42+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.paypal.com/re/smarthelp/article/what-is-the-inactivity-fee-(eu-countries)-faq4427">https://www.paypal.com/re/smarthelp/article/what-is-the-inactivity-fee-(eu-countries)-faq4427</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33601868">https://news.ycombinator.com/item?id=33601868</a></p>
@@ -48,7 +44,6 @@
  - [https://www.peterispedaling.com/blog/wrap-up-trip-logistics](https://www.peterispedaling.com/blog/wrap-up-trip-logistics)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 21:28:35+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.peterispedaling.com/blog/wrap-up-trip-logistics">https://www.peterispedaling.com/blog/wrap-up-trip-logistics</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33601403">https://news.ycombinator.com/item?id=33601403</a></p>
@@ -59,7 +54,6 @@
  - [https://topology.mitpress.mit.edu/](https://topology.mitpress.mit.edu/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 21:22:59+00:00
- - tags: None
 
 <p>Article URL: <a href="https://topology.mitpress.mit.edu/">https://topology.mitpress.mit.edu/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33601318">https://news.ycombinator.com/item?id=33601318</a></p>
@@ -70,7 +64,6 @@
  - [https://single-emoji.vercel.app](https://single-emoji.vercel.app)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 21:18:43+00:00
- - tags: None
 
 <p>Article URL: <a href="https://single-emoji.vercel.app">https://single-emoji.vercel.app</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33601249">https://news.ycombinator.com/item?id=33601249</a></p>
@@ -81,7 +74,6 @@
  - [https://www.ibm.com/uk-en/products/linuxone-emperor-4](https://www.ibm.com/uk-en/products/linuxone-emperor-4)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 21:11:51+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.ibm.com/uk-en/products/linuxone-emperor-4">https://www.ibm.com/uk-en/products/linuxone-emperor-4</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33601144">https://news.ycombinator.com/item?id=33601144</a></p>
@@ -92,7 +84,6 @@
  - [https://docs.hylang.org/en/stable/tutorial.html](https://docs.hylang.org/en/stable/tutorial.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 20:58:55+00:00
- - tags: None
 
 <p>Article URL: <a href="https://docs.hylang.org/en/stable/tutorial.html">https://docs.hylang.org/en/stable/tutorial.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33600941">https://news.ycombinator.com/item?id=33600941</a></p>
@@ -103,7 +94,6 @@
  - [https://www.strongtowns.org/journal/2022/11/14/mdf2022-speed-traps-have-no-long-term-effect-on-speeding](https://www.strongtowns.org/journal/2022/11/14/mdf2022-speed-traps-have-no-long-term-effect-on-speeding)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 20:08:04+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.strongtowns.org/journal/2022/11/14/mdf2022-speed-traps-have-no-long-term-effect-on-speeding">https://www.strongtowns.org/journal/2022/11/14/mdf2022-speed-traps-have-no-long-term-effect-on-speeding</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33600200">https://news.ycombinator.com/item?id=33600200</a></p>
@@ -114,7 +104,6 @@
  - [https://divestos.org](https://divestos.org)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 19:00:44+00:00
- - tags: None
 
 <p>Article URL: <a href="https://divestos.org">https://divestos.org</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33599095">https://news.ycombinator.com/item?id=33599095</a></p>
@@ -125,7 +114,6 @@
  - [https://www.bbc.com/news/uk-wales-63600184](https://www.bbc.com/news/uk-wales-63600184)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 18:53:13+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.bbc.com/news/uk-wales-63600184">https://www.bbc.com/news/uk-wales-63600184</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33598974">https://news.ycombinator.com/item?id=33598974</a></p>
@@ -136,7 +124,6 @@
  - [https://davidlaprade.github.io/your-dietbet-destroyed-the-world](https://davidlaprade.github.io/your-dietbet-destroyed-the-world)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 18:27:57+00:00
- - tags: None
 
 <p>Inspired by some awesome comments in: <a href="https://news.ycombinator.com/item?id=33453037" rel="nofollow">https://news.ycombinator.com/item?id=33453037</a></p>
 <hr />
@@ -148,7 +135,6 @@
  - [https://www.bloomberg.com/opinion/articles/2022-11-14/ftx-s-balance-sheet-was-bad](https://www.bloomberg.com/opinion/articles/2022-11-14/ftx-s-balance-sheet-was-bad)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 18:12:47+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.bloomberg.com/opinion/articles/2022-11-14/ftx-s-balance-sheet-was-bad">https://www.bloomberg.com/opinion/articles/2022-11-14/ftx-s-balance-sheet-was-bad</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33598330">https://news.ycombinator.com/item?id=33598330</a></p>
@@ -159,7 +145,6 @@
  - [https://statmodeling.stat.columbia.edu/2022/11/14/which-one-of-these-will-be-the-biggest-unicorn-failure-ever/](https://statmodeling.stat.columbia.edu/2022/11/14/which-one-of-these-will-be-the-biggest-unicorn-failure-ever/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 18:08:42+00:00
- - tags: None
 
 <p>Article URL: <a href="https://statmodeling.stat.columbia.edu/2022/11/14/which-one-of-these-will-be-the-biggest-unicorn-failure-ever/">https://statmodeling.stat.columbia.edu/2022/11/14/which-one-of-these-will-be-the-biggest-unicorn-failure-ever/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33598263">https://news.ycombinator.com/item?id=33598263</a></p>
@@ -170,7 +155,6 @@
  - [https://godotengine.org/article/movie-maker-mode-arrives-in-godot-4](https://godotengine.org/article/movie-maker-mode-arrives-in-godot-4)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 18:08:11+00:00
- - tags: None
 
 <p>Article URL: <a href="https://godotengine.org/article/movie-maker-mode-arrives-in-godot-4">https://godotengine.org/article/movie-maker-mode-arrives-in-godot-4</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33598256">https://news.ycombinator.com/item?id=33598256</a></p>
@@ -181,7 +165,6 @@
  - [https://twitter.com/matthew_d_green/status/1592209243331268608](https://twitter.com/matthew_d_green/status/1592209243331268608)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 17:37:27+00:00
- - tags: None
 
 <p>Article URL: <a href="https://twitter.com/matthew_d_green/status/1592209243331268608">https://twitter.com/matthew_d_green/status/1592209243331268608</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33597746">https://news.ycombinator.com/item?id=33597746</a></p>
@@ -192,7 +175,6 @@
  - [https://datatracker.ietf.org/doc/html/draft-sporny-hashlink-07](https://datatracker.ietf.org/doc/html/draft-sporny-hashlink-07)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 17:32:36+00:00
- - tags: None
 
 <p>Article URL: <a href="https://datatracker.ietf.org/doc/html/draft-sporny-hashlink-07">https://datatracker.ietf.org/doc/html/draft-sporny-hashlink-07</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33597657">https://news.ycombinator.com/item?id=33597657</a></p>
@@ -203,7 +185,6 @@
  - [https://endpts.com/aa/GNCCE127YE96J7TZ/?utm_medium=email&utm_campaign=1596%20-%20Eli%20Lilly%20reportedly%20halts%20Twitter%20ad%20spending%20after%20fake%20accounts%20Intellia%20touts%20new%20data%20from%20gene%20editing%20therapy%20Basic&utm_content=1596%20-%20Eli%20Lilly%20reportedly%20halts%20Twitter%20ad%20spending%20after%20fake%20accounts%20Intellia%20touts%20new%20data%20from%20gene%20editing%20therapy%20Basic+CID_0fa9b6fa9b5c73a2803c8bd50878620c&utm_source=ENDPOINTS%20emails&utm_term=Eli%20Lilly%20pulls%20millions%20in%20Twitter%20advertising%20after%20fake%20account%20debacle%20%20report](https://endpts.com/aa/GNCCE127YE96J7TZ/?utm_medium=email&utm_campaign=1596%20-%20Eli%20Lilly%20reportedly%20halts%20Twitter%20ad%20spending%20after%20fake%20accounts%20Intellia%20touts%20new%20data%20from%20gene%20editing%20therapy%20Basic&utm_content=1596%20-%20Eli%20Lilly%20reportedly%20halts%20Twitter%20ad%20spending%20after%20fake%20accounts%20Intellia%20touts%20new%20data%20from%20gene%20editing%20therapy%20Basic+CID_0fa9b6fa9b5c73a2803c8bd50878620c&utm_source=ENDPOINTS%20emails&utm_term=Eli%20Lilly%20pulls%20millions%20in%20Twitter%20advertising%20after%20fake%20account%20debacle%20%20report)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 17:07:57+00:00
- - tags: None
 
 <p>Article URL: <a href="https://endpts.com/aa/GNCCE127YE96J7TZ/?utm_medium=email&amp;utm_campaign=1596%20-%20Eli%20Lilly%20reportedly%20halts%20Twitter%20ad%20spending%20after%20fake%20accounts%20Intellia%20touts%20new%20data%20from%20gene%20editing%20therapy%20Basic&amp;utm_content=1596%20-%20Eli%20Lilly%20reportedly%20halts%20Twitter%20ad%20spending%20after%20fake%20accounts%20Intellia%20touts%20new%20data%20from%20gene%20editing%20therapy%20Basic+CID_0fa9b6fa9b5c73a2803c8bd50878620c&amp;utm_source=ENDPOINTS%20emails&amp;utm_term=Eli%20Lilly%20pulls%20millions%20in%20Twitter%20advertising%20after%20fake%20account%20debacle%20%20report">https://endpts.com/aa/GNCCE127YE96J7TZ/?utm_medium=email&amp;utm_campaign=1596%20-%20Eli%20Lilly%20reportedly%20halts%20Twitter%20ad%20spending%20after%20fake%20accounts%20Intellia%20touts%20new%20data%20from%20gene%20editing%20therapy%20Basic&amp;utm_content=1596%20-%20Eli%20Lilly%20reportedly%20halts%20Twitter%20ad%20spending%20after%20fake%20accounts%20Intellia%20touts%20new%20data%20from%20gene%20editing%20therapy%20Basic+CID_0fa9b6fa9b5c73a2803c8bd50878620c&amp;utm_source=ENDPOINTS%20emails&amp;utm_term=Eli%20Lilly%20pulls%20millions%20in%20Twitter%20advertising%20after%20fake%20account%20debacle%20%20report</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33597219">https://news.ycombinator.com/item?id=33597219</a></p>
@@ -214,7 +195,6 @@
  - [https://snowsoft.notion.site/Founding-Engineer-UI-UX-remote-36927d874eae4bb48e7b03df7c2632f4](https://snowsoft.notion.site/Founding-Engineer-UI-UX-remote-36927d874eae4bb48e7b03df7c2632f4)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 17:01:15+00:00
- - tags: None
 
 <p>Article URL: <a href="https://snowsoft.notion.site/Founding-Engineer-UI-UX-remote-36927d874eae4bb48e7b03df7c2632f4">https://snowsoft.notion.site/Founding-Engineer-UI-UX-remote-36927d874eae4bb48e7b03df7c2632f4</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33597131">https://news.ycombinator.com/item?id=33597131</a></p>
@@ -225,7 +205,6 @@
  - [https://bibelo.info/en/the-plague-of-emoji-in-docs/](https://bibelo.info/en/the-plague-of-emoji-in-docs/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 16:54:10+00:00
- - tags: None
 
 <p>Article URL: <a href="https://bibelo.info/en/the-plague-of-emoji-in-docs/">https://bibelo.info/en/the-plague-of-emoji-in-docs/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33597012">https://news.ycombinator.com/item?id=33597012</a></p>
@@ -236,7 +215,6 @@
  - [https://github.com/picolibc/picolibc](https://github.com/picolibc/picolibc)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 16:52:27+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/picolibc/picolibc">https://github.com/picolibc/picolibc</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33596966">https://news.ycombinator.com/item?id=33596966</a></p>
@@ -247,7 +225,6 @@
  - [https://news.ycombinator.com/item?id=33596779](https://news.ycombinator.com/item?id=33596779)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 16:43:07+00:00
- - tags: None
 
 <p>I'm in the middle of a job search and wanted to share my impression after discussions like https://news.ycombinator.com/item?id=33563083.<p>I'm an unemployed mid/senior-level developer in the U.S. with a mediocre but solid portfolio and passable social skills. I've applied for many jobs at normal non-FAANG places, almost all of which were a decent match for my background, and employers don't seem desperate. Lots of no responses or form rejections, several places where I was rejected after either the initial or tech screen. I haven't gotten to the negotiation phase yet anywhere. When I asked, most seemed serious about hiring: they just got a new round of funding, there was a backlog of work, something, but still no hire. Also almost no response from external recruiters, and very little inbound LinkedIn messaging from anyone.<p>I'm not complaining, it's just how the grind is. I'm getting enough traction that I'm sure it's just a numbers game. But the employers are not desperate.<p>If you are a candidate without a golden resume or big network and need a job, then definitely don't get complacent because of HNers telling you that $100k-150k jobs are falling off trees. Put together a decent portfolio and then get those applications numbers up from day one. My personal goal is at least 100 applications before seriously considering pivoting to something else.</p>
 <hr />
@@ -259,7 +236,6 @@
  - [https://justinblank.com/notebooks/performanceoptimizationscanhaveunexpectedlylargeeffectswhencombinedwithcaches.html](https://justinblank.com/notebooks/performanceoptimizationscanhaveunexpectedlylargeeffectswhencombinedwithcaches.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 16:30:59+00:00
- - tags: None
 
 <p>Article URL: <a href="https://justinblank.com/notebooks/performanceoptimizationscanhaveunexpectedlylargeeffectswhencombinedwithcaches.html">https://justinblank.com/notebooks/performanceoptimizationscanhaveunexpectedlylargeeffectswhencombinedwithcaches.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33596546">https://news.ycombinator.com/item?id=33596546</a></p>
@@ -270,7 +246,6 @@
  - [https://blockfi.com/november-11-2022-blockfi-update](https://blockfi.com/november-11-2022-blockfi-update)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 16:25:04+00:00
- - tags: None
 
 <p>Article URL: <a href="https://blockfi.com/november-11-2022-blockfi-update">https://blockfi.com/november-11-2022-blockfi-update</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33596419">https://news.ycombinator.com/item?id=33596419</a></p>
@@ -281,7 +256,6 @@
  - [https://www.cnbc.com/2022/11/14/amazon-reportedly-plans-to-lay-off-about-10000-employees-starting-this-week.html](https://www.cnbc.com/2022/11/14/amazon-reportedly-plans-to-lay-off-about-10000-employees-starting-this-week.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 16:07:38+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.cnbc.com/2022/11/14/amazon-reportedly-plans-to-lay-off-about-10000-employees-starting-this-week.html">https://www.cnbc.com/2022/11/14/amazon-reportedly-plans-to-lay-off-about-10000-employees-starting-this-week.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33596079">https://news.ycombinator.com/item?id=33596079</a></p>
@@ -292,7 +266,6 @@
  - [https://news.ycombinator.com/item?id=33595879](https://news.ycombinator.com/item?id=33595879)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 15:57:11+00:00
- - tags: None
 
 <p>Long store:
 I purchased a bunch of audio CDs and Apple Music (the Mac app) offered to rip it and save it into my iCloud library. I was very happy and saw to it that all the audio files were uploaded. I even saved it into a new playlist. I also have the paid Apple Music subscription which I pay for monthly.<p>In just an hour, iTunes Match (a feature of the paid Apple Music subscription) tried to match the songs and deleted almost all of them and just left 3 songs in my playlist. I tried it a couple of times and this was still the result.<p>Apparently some songs aren't licensed for my location/country and/or aren't available in the catalog of Apple music for my country and therefore they were all deleted except the ones that Apple already has in their catalog.<p>That got me thinking - Is there a reliable paid service where I could just upload MY music I legally purchased and they wouldn't be deleted just because of some stupid location based licensing or some other reason?<p>Spotify is no better as my songs in their library have disappeared a couple of times as well.<p>Thank you in advance.</p>
@@ -305,7 +278,6 @@ I purchased a bunch of audio CDs and Apple Music (the Mac app) offered to rip it
  - [https://news.ycombinator.com/item?id=33595763](https://news.ycombinator.com/item?id=33595763)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 15:51:35+00:00
- - tags: None
 
 <p>A scammer contacted me on reddit to invite me to join his carding ring. They are using people's stolen identities to open bank accounts in their name, making fraudulent Amazon purchases with that account, and then selling the Amazon goods on ebay before finally laundering the profits through crypto.<p>I think the scammer made an error though, which is that he posted his coinbase account url directly in the invitation email.<p>The scam is structured so that all of the "students" send crypto payments directly to the ringleader; seems fairly simple to find the ringleader's account and then find the rest of the ring by tracing who is sending money to that account.<p>Here's the intro video I was sent where you can see the coinbase account (I copied the video and made a youtube backup):<p>https://vimeo.com/user188604890?embedded=true&amp;source=owner_name&amp;owner=188604890<p>https://youtu.be/eZGqHx8NS1o<p>Here's also the original text message I was sent:<p>༺◍━═━═━◓━═━═━◍༻<p>The only time you'll be invited. Read thoroughly.<p>Online Carding is when you buy compromised credit card details for $10-$20 via autoshops (jstash, feshop, yalelodge, etc) and use it to place big orders on online sites like Amazon, BestBuy, etc.<p>Assuming you could navigate Amazon's fraud detection, you could place an $800 order using the card. What I do is simple, I provide a mentorship where I will (1-on-1) walk you through making at least $3,500 per week through routinely carding Amazon, start to finish, in exchange for less than 1/10th of the profit you make long-term. This is 100% digital.<p>ALL students make over $3,500 per week from this, some nearing up to $6,000.
 What I'm about to show you is heavily substantiated with mountains of indisputable proof.<p>◉⎯⎯⎯⎯⎯⊰ LEGIT ⊱⎯⎯⎯⎯⎯◉
@@ -321,7 +293,6 @@ The government convicts 1/13,698 online carders. 1/48 shoplifters for comparison
  - [https://www.bbc.com/travel/article/20221113-kanaye-nagasawa-the-samurai-who-forever-changed-california](https://www.bbc.com/travel/article/20221113-kanaye-nagasawa-the-samurai-who-forever-changed-california)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 15:17:50+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.bbc.com/travel/article/20221113-kanaye-nagasawa-the-samurai-who-forever-changed-california">https://www.bbc.com/travel/article/20221113-kanaye-nagasawa-the-samurai-who-forever-changed-california</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33595202">https://news.ycombinator.com/item?id=33595202</a></p>
@@ -332,7 +303,6 @@ The government convicts 1/13,698 online carders. 1/48 shoplifters for comparison
  - [https://www.theregister.com/2022/11/10/rivian_q3_losses/](https://www.theregister.com/2022/11/10/rivian_q3_losses/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 15:03:48+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.theregister.com/2022/11/10/rivian_q3_losses/">https://www.theregister.com/2022/11/10/rivian_q3_losses/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33594966">https://news.ycombinator.com/item?id=33594966</a></p>
@@ -343,7 +313,6 @@ The government convicts 1/13,698 online carders. 1/48 shoplifters for comparison
  - [https://lucumr.pocoo.org/2022/11/14/scaling-mastodon/](https://lucumr.pocoo.org/2022/11/14/scaling-mastodon/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 15:03:34+00:00
- - tags: None
 
 <p>Article URL: <a href="https://lucumr.pocoo.org/2022/11/14/scaling-mastodon/">https://lucumr.pocoo.org/2022/11/14/scaling-mastodon/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33594961">https://news.ycombinator.com/item?id=33594961</a></p>
@@ -354,7 +323,6 @@ The government convicts 1/13,698 online carders. 1/48 shoplifters for comparison
  - [https://stratechery.com/2022/narratives/](https://stratechery.com/2022/narratives/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 14:57:33+00:00
- - tags: None
 
 <p>Article URL: <a href="https://stratechery.com/2022/narratives/">https://stratechery.com/2022/narratives/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33594871">https://news.ycombinator.com/item?id=33594871</a></p>
@@ -365,7 +333,6 @@ The government convicts 1/13,698 online carders. 1/48 shoplifters for comparison
  - [https://hmarr.com/blog/go-allocation-hunting/](https://hmarr.com/blog/go-allocation-hunting/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 14:47:23+00:00
- - tags: None
 
 <p>Article URL: <a href="https://hmarr.com/blog/go-allocation-hunting/">https://hmarr.com/blog/go-allocation-hunting/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33594676">https://news.ycombinator.com/item?id=33594676</a></p>
@@ -376,7 +343,6 @@ The government convicts 1/13,698 online carders. 1/48 shoplifters for comparison
  - [https://blog.nlnetlabs.nl/open-source-software-vs-the-cyber-resilience-act/](https://blog.nlnetlabs.nl/open-source-software-vs-the-cyber-resilience-act/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 14:33:31+00:00
- - tags: None
 
 <p>Article URL: <a href="https://blog.nlnetlabs.nl/open-source-software-vs-the-cyber-resilience-act/">https://blog.nlnetlabs.nl/open-source-software-vs-the-cyber-resilience-act/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33594440">https://news.ycombinator.com/item?id=33594440</a></p>
@@ -387,7 +353,6 @@ The government convicts 1/13,698 online carders. 1/48 shoplifters for comparison
  - [https://www.bbc.co.uk/news/business-63619512](https://www.bbc.co.uk/news/business-63619512)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 14:32:13+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.bbc.co.uk/news/business-63619512">https://www.bbc.co.uk/news/business-63619512</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33594418">https://news.ycombinator.com/item?id=33594418</a></p>
@@ -398,7 +363,6 @@ The government convicts 1/13,698 online carders. 1/48 shoplifters for comparison
  - [https://twitter.com/gerrymcbride/status/1591907714208518145](https://twitter.com/gerrymcbride/status/1591907714208518145)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 14:29:04+00:00
- - tags: None
 
 <p>Article URL: <a href="https://twitter.com/gerrymcbride/status/1591907714208518145">https://twitter.com/gerrymcbride/status/1591907714208518145</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33594369">https://news.ycombinator.com/item?id=33594369</a></p>
@@ -409,7 +373,6 @@ The government convicts 1/13,698 online carders. 1/48 shoplifters for comparison
  - [https://www.bloomberg.com/news/articles/2022-11-14/crypto-exchange-aax-halts-withdrawals-says-normal-operations-7-10-days-away](https://www.bloomberg.com/news/articles/2022-11-14/crypto-exchange-aax-halts-withdrawals-says-normal-operations-7-10-days-away)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 14:20:49+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.bloomberg.com/news/articles/2022-11-14/crypto-exchange-aax-halts-withdrawals-says-normal-operations-7-10-days-away">https://www.bloomberg.com/news/articles/2022-11-14/crypto-exchange-aax-halts-withdrawals-says-normal-operations-7-10-days-away</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33594245">https://news.ycombinator.com/item?id=33594245</a></p>
@@ -420,7 +383,6 @@ The government convicts 1/13,698 online carders. 1/48 shoplifters for comparison
  - [https://www.bloomberg.com/news/articles/2022-11-14/ftx-fiasco-sparks-billions-of-dollars-of-outflows-from-exchanges](https://www.bloomberg.com/news/articles/2022-11-14/ftx-fiasco-sparks-billions-of-dollars-of-outflows-from-exchanges)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 14:18:29+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.bloomberg.com/news/articles/2022-11-14/ftx-fiasco-sparks-billions-of-dollars-of-outflows-from-exchanges">https://www.bloomberg.com/news/articles/2022-11-14/ftx-fiasco-sparks-billions-of-dollars-of-outflows-from-exchanges</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33594217">https://news.ycombinator.com/item?id=33594217</a></p>
@@ -431,7 +393,6 @@ The government convicts 1/13,698 online carders. 1/48 shoplifters for comparison
  - [https://www.nbcnews.com/health/health-news/myocarditis-covid-vaccine-research-long-term-effects-rcna55666](https://www.nbcnews.com/health/health-news/myocarditis-covid-vaccine-research-long-term-effects-rcna55666)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 14:15:40+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.nbcnews.com/health/health-news/myocarditis-covid-vaccine-research-long-term-effects-rcna55666">https://www.nbcnews.com/health/health-news/myocarditis-covid-vaccine-research-long-term-effects-rcna55666</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33594175">https://news.ycombinator.com/item?id=33594175</a></p>
@@ -442,7 +403,6 @@ The government convicts 1/13,698 online carders. 1/48 shoplifters for comparison
  - [https://www.npr.org/2022/11/13/1136376981/al-gore-climate-change](https://www.npr.org/2022/11/13/1136376981/al-gore-climate-change)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 14:08:02+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.npr.org/2022/11/13/1136376981/al-gore-climate-change">https://www.npr.org/2022/11/13/1136376981/al-gore-climate-change</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33594078">https://news.ycombinator.com/item?id=33594078</a></p>
@@ -453,7 +413,6 @@ The government convicts 1/13,698 online carders. 1/48 shoplifters for comparison
  - [https://deno.com/blog/v1.28](https://deno.com/blog/v1.28)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 13:35:25+00:00
- - tags: None
 
 <p>Article URL: <a href="https://deno.com/blog/v1.28">https://deno.com/blog/v1.28</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33593668">https://news.ycombinator.com/item?id=33593668</a></p>
@@ -464,7 +423,6 @@ The government convicts 1/13,698 online carders. 1/48 shoplifters for comparison
  - [https://trends.aax.com/important-update-forward-through-adversity](https://trends.aax.com/important-update-forward-through-adversity)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 13:33:21+00:00
- - tags: None
 
 <p>Article URL: <a href="https://trends.aax.com/important-update-forward-through-adversity">https://trends.aax.com/important-update-forward-through-adversity</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33593646">https://news.ycombinator.com/item?id=33593646</a></p>
@@ -475,7 +433,6 @@ The government convicts 1/13,698 online carders. 1/48 shoplifters for comparison
  - [https://news.ycombinator.com/item?id=33593631](https://news.ycombinator.com/item?id=33593631)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 13:31:53+00:00
- - tags: None
 
 <p>Sometimes it takes a book or a course (or explanation from a mentor) for a topic to finally click for you that you were struggling with for a long time.<p>For me, it was Stanford's EE261 course that made Fourier Transform click for me. Here is the link: https://see.stanford.edu/course/ee261<p>Similarly for deep learning it was fast.ai courses.<p>For programming it was How to Design Programs at www.htdp.org.<p>Your topic of choice may be anything, not necessarily CS.</p>
 <hr />
@@ -487,7 +444,6 @@ The government convicts 1/13,698 online carders. 1/48 shoplifters for comparison
  - [https://news.ycombinator.com/item?id=33593456](https://news.ycombinator.com/item?id=33593456)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 13:13:50+00:00
- - tags: None
 
 <p>Howdy HN! Tom and Jake here from Unthread (<a href="https://unthread.io" rel="nofollow">https://unthread.io</a>). We make it easy for businesses to manage customer experience (CX) end-to-end inside of Slack. We automatically create tickets for new conversations, handle assignments & escalations, triage with other teams, etc — all without leaving Slack.<p>Here’s a quick Loom showing how it works: <a href="https://www.loom.com/share/8158371d29c84550863adbd6719bb112" rel="nofollow">https://www.loom.com/share/8158371d29c84550863adbd6719bb112</a><p>Unthread was born out of a failed B2B SaaS startup that we were running for about 2 years. We found clients preferred sending bug reports and feature requests through Slack instead of email or the Intercom widget embedded in our app. This was great for us - Slack is a tool we were already using every day, it’s quick and easy to respond, and it’s less formal than composing an email. The problem is that chat != ticketing, and we struggled to keep track of what needed responses or follow-ups. We used a combination of “mark unread”, “remind me”, and DMs to try to triage, and things still slipped through the cracks.<p>We started building Unthread to manage our own customers’ requests inside of Slack. After piloting with other companies in our YC batch who were having the same pain point, we decided to pivot to it being our product.<p>Unthread automatically tracks incoming messages to a channel. We use some basic NLP to determine if it’s an issue or a friendly hello. If it’s an issue, we create a ticket, assign an owner, and send a private message to the assignee that they need to respond. We have an “inbox” in Slack where you can see all of the open conversations that are assigned to you, manage the status of each conversation, and close them out when you're done. If you’re also doing email support, you can forward emails into a Slack channel where reps can compose a response to be sent via email.<p>The unique approach Unthread takes is that none of this is visible to the end customer. We use a combination of ephemeral messages (only visible to your team) and DMs to keep things private. Customers don’t want to talk to a chatbot, so we help support reps provide real responses to customers by giving them the tools behind the scenes to organize and collaborate.<p>We also have an escalation system (think PagerDuty for Slack messages) to notify a backup person if there hasn’t been a response in time. You can configure this on a per-customer basis to set shorter SLAs for more valuable accounts, and we’re working on adding rotations of who’s the primary point of contact.<p>Anyone in the HN community can install the Slack app directly by using this special link: unthread.io/?referral=hn.<p>We’re excited to hear how this resonates with folks’ current experience using Slack for CX! I imagine there are some opinionated workflows out there :)</p>
 <hr />
@@ -499,7 +455,6 @@ The government convicts 1/13,698 online carders. 1/48 shoplifters for comparison
  - [https://www.macrumors.com/2022/11/14/apple-class-action-user-tracking-allegations/](https://www.macrumors.com/2022/11/14/apple-class-action-user-tracking-allegations/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 13:13:48+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.macrumors.com/2022/11/14/apple-class-action-user-tracking-allegations/">https://www.macrumors.com/2022/11/14/apple-class-action-user-tracking-allegations/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33593455">https://news.ycombinator.com/item?id=33593455</a></p>
@@ -510,7 +465,6 @@ The government convicts 1/13,698 online carders. 1/48 shoplifters for comparison
  - [http://paulgraham.com/want.html](http://paulgraham.com/want.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 13:04:25+00:00
- - tags: None
 
 <p>Article URL: <a href="http://paulgraham.com/want.html">http://paulgraham.com/want.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33593349">https://news.ycombinator.com/item?id=33593349</a></p>
@@ -521,7 +475,6 @@ The government convicts 1/13,698 online carders. 1/48 shoplifters for comparison
  - [https://twitter.com/hautepop/status/1591477455210283010](https://twitter.com/hautepop/status/1591477455210283010)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 12:51:39+00:00
- - tags: None
 
 <p>Article URL: <a href="https://twitter.com/hautepop/status/1591477455210283010">https://twitter.com/hautepop/status/1591477455210283010</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33593234">https://news.ycombinator.com/item?id=33593234</a></p>
@@ -532,7 +485,6 @@ The government convicts 1/13,698 online carders. 1/48 shoplifters for comparison
  - [https://www.poker.org/ftx-collapse-tether-operations-have-links-to-infamous-online-poker-cheating-scandals/](https://www.poker.org/ftx-collapse-tether-operations-have-links-to-infamous-online-poker-cheating-scandals/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 12:38:47+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.poker.org/ftx-collapse-tether-operations-have-links-to-infamous-online-poker-cheating-scandals/">https://www.poker.org/ftx-collapse-tether-operations-have-links-to-infamous-online-poker-cheating-scandals/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33593108">https://news.ycombinator.com/item?id=33593108</a></p>
@@ -543,7 +495,6 @@ The government convicts 1/13,698 online carders. 1/48 shoplifters for comparison
  - [https://www.nxtaltfoods.com/news/articles/plant-based/one-of-the-uks-largest-pig-farms-closes-down-following-animal-welfare-breaches/](https://www.nxtaltfoods.com/news/articles/plant-based/one-of-the-uks-largest-pig-farms-closes-down-following-animal-welfare-breaches/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 12:26:35+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.nxtaltfoods.com/news/articles/plant-based/one-of-the-uks-largest-pig-farms-closes-down-following-animal-welfare-breaches/">https://www.nxtaltfoods.com/news/articles/plant-based/one-of-the-uks-largest-pig-farms-closes-down-following-animal-welfare-breaches/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33593027">https://news.ycombinator.com/item?id=33593027</a></p>
@@ -554,7 +505,6 @@ The government convicts 1/13,698 online carders. 1/48 shoplifters for comparison
  - [https://github.com/openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 12:20:36+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/openblocks-dev/openblocks">https://github.com/openblocks-dev/openblocks</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33592990">https://news.ycombinator.com/item?id=33592990</a></p>
@@ -565,7 +515,6 @@ The government convicts 1/13,698 online carders. 1/48 shoplifters for comparison
  - [https://news.ycombinator.com/item?id=33592860](https://news.ycombinator.com/item?id=33592860)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 12:05:23+00:00
- - tags: None
 
 <p>After reading this (https://news.ycombinator.com/item?id=33525673), I felt scammed for buying my glasses for 400 euros, hence the question. The thread talked a lot about Zenni Optical, any other option for EU people?</p>
 <hr />
@@ -577,7 +526,6 @@ The government convicts 1/13,698 online carders. 1/48 shoplifters for comparison
  - [https://www.petpic.ai/](https://www.petpic.ai/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 11:41:36+00:00
- - tags: None
 
 <p>Hey HN,
 I have Goats and a camel as my pets and I recently saw some very cool AI-generated pictures so I decided to build a startup with my 19 y/o brother where you can generate these AI photos for your pet.
@@ -592,7 +540,6 @@ Let me know if you have any feedback or questions!</p>
  - [https://www.bbc.com/news/entertainment-arts-63583081](https://www.bbc.com/news/entertainment-arts-63583081)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 11:39:22+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.bbc.com/news/entertainment-arts-63583081">https://www.bbc.com/news/entertainment-arts-63583081</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33592678">https://news.ycombinator.com/item?id=33592678</a></p>
@@ -603,7 +550,6 @@ Let me know if you have any feedback or questions!</p>
  - [https://www.c82.net/blog/?id=90](https://www.c82.net/blog/?id=90)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 11:33:06+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.c82.net/blog/?id=90">https://www.c82.net/blog/?id=90</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33592636">https://news.ycombinator.com/item?id=33592636</a></p>
@@ -614,7 +560,6 @@ Let me know if you have any feedback or questions!</p>
  - [https://twitter.com/internetfreedom/status/1592095634013949962](https://twitter.com/internetfreedom/status/1592095634013949962)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 11:24:41+00:00
- - tags: None
 
 <p>Article URL: <a href="https://twitter.com/internetfreedom/status/1592095634013949962">https://twitter.com/internetfreedom/status/1592095634013949962</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33592589">https://news.ycombinator.com/item?id=33592589</a></p>
@@ -625,7 +570,6 @@ Let me know if you have any feedback or questions!</p>
  - [https://blog.codeberg.org/codeberg-is-moving-and-what-this-means-to-you.html](https://blog.codeberg.org/codeberg-is-moving-and-what-this-means-to-you.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 10:53:22+00:00
- - tags: None
 
 <p>Article URL: <a href="https://blog.codeberg.org/codeberg-is-moving-and-what-this-means-to-you.html">https://blog.codeberg.org/codeberg-is-moving-and-what-this-means-to-you.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33592381">https://news.ycombinator.com/item?id=33592381</a></p>
@@ -636,7 +580,6 @@ Let me know if you have any feedback or questions!</p>
  - [https://assets.ey.com/content/dam/ey-sites/ey-com/de_de/news/2022/11/ey-mixed-compensation-2022.pdf](https://assets.ey.com/content/dam/ey-sites/ey-com/de_de/news/2022/11/ey-mixed-compensation-2022.pdf)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 10:12:27+00:00
- - tags: None
 
 <p>Article URL: <a href="https://assets.ey.com/content/dam/ey-sites/ey-com/de_de/news/2022/11/ey-mixed-compensation-2022.pdf">https://assets.ey.com/content/dam/ey-sites/ey-com/de_de/news/2022/11/ey-mixed-compensation-2022.pdf</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33592081">https://news.ycombinator.com/item?id=33592081</a></p>
@@ -647,7 +590,6 @@ Let me know if you have any feedback or questions!</p>
  - [https://bob-cd.github.io/](https://bob-cd.github.io/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 09:38:25+00:00
- - tags: None
 
 <p>Article URL: <a href="https://bob-cd.github.io/">https://bob-cd.github.io/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33591858">https://news.ycombinator.com/item?id=33591858</a></p>
@@ -658,7 +600,6 @@ Let me know if you have any feedback or questions!</p>
  - [https://www.businessinsider.com/meta-employee-fired-two-days-after-moving-to-canada-post-2022-11](https://www.businessinsider.com/meta-employee-fired-two-days-after-moving-to-canada-post-2022-11)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 09:19:53+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.businessinsider.com/meta-employee-fired-two-days-after-moving-to-canada-post-2022-11">https://www.businessinsider.com/meta-employee-fired-two-days-after-moving-to-canada-post-2022-11</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33591755">https://news.ycombinator.com/item?id=33591755</a></p>
@@ -669,7 +610,6 @@ Let me know if you have any feedback or questions!</p>
  - [https://www.openculture.com/2022/08/when-we-all-have-pocket-telephones.html](https://www.openculture.com/2022/08/when-we-all-have-pocket-telephones.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 08:44:25+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.openculture.com/2022/08/when-we-all-have-pocket-telephones.html">https://www.openculture.com/2022/08/when-we-all-have-pocket-telephones.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33591556">https://news.ycombinator.com/item?id=33591556</a></p>
@@ -680,7 +620,6 @@ Let me know if you have any feedback or questions!</p>
  - [https://news.ycombinator.com/item?id=33591224](https://news.ycombinator.com/item?id=33591224)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 07:48:37+00:00
- - tags: None
 
 <p>The recent layoffs have heightened my my feeling of insecurity and anxiety. Company I work for had a massive layoff and it’s the first I’ve ever experienced. I wasn’t impacted but can’t shake this feeling of insecurity.<p>I’m expecting a second kid and my wife isn’t working and I feel like I need to diversify my income but have never been entrepreneurial and don’t know where to start.<p>I have more than a couple years worth of savings. But this is partly due to not owning a house. Where I live the downpayment would consume most of those savings.<p>Ny wife wouldn’t be able to make high skilled wages unless she invested substantial time into upskilling which she doesn’t have at the moment.<p>How do I shake this feeling? Is there something I should be doing to protect myself besides what I’ve already ?</p>
 <hr />
@@ -692,7 +631,6 @@ Let me know if you have any feedback or questions!</p>
  - [https://www.scs.stanford.edu/~dm/home/papers/remove.pdf](https://www.scs.stanford.edu/~dm/home/papers/remove.pdf)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 07:26:41+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.scs.stanford.edu/~dm/home/papers/remove.pdf">https://www.scs.stanford.edu/~dm/home/papers/remove.pdf</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33591110">https://news.ycombinator.com/item?id=33591110</a></p>
@@ -703,7 +641,6 @@ Let me know if you have any feedback or questions!</p>
  - [https://fchollet.substack.com/p/education-as-civilization-building](https://fchollet.substack.com/p/education-as-civilization-building)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 05:25:43+00:00
- - tags: None
 
 <p>Article URL: <a href="https://fchollet.substack.com/p/education-as-civilization-building">https://fchollet.substack.com/p/education-as-civilization-building</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33590447">https://news.ycombinator.com/item?id=33590447</a></p>
@@ -714,7 +651,6 @@ Let me know if you have any feedback or questions!</p>
  - [https://www.darpa.mil/program/next-generation-nonsurgical-neurotechnology](https://www.darpa.mil/program/next-generation-nonsurgical-neurotechnology)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 05:21:46+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.darpa.mil/program/next-generation-nonsurgical-neurotechnology">https://www.darpa.mil/program/next-generation-nonsurgical-neurotechnology</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33590425">https://news.ycombinator.com/item?id=33590425</a></p>
@@ -725,7 +661,6 @@ Let me know if you have any feedback or questions!</p>
  - [https://www.atlasobscura.com/articles/desert-of-maine-archaeology](https://www.atlasobscura.com/articles/desert-of-maine-archaeology)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 05:07:02+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.atlasobscura.com/articles/desert-of-maine-archaeology">https://www.atlasobscura.com/articles/desert-of-maine-archaeology</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33590356">https://news.ycombinator.com/item?id=33590356</a></p>
@@ -736,7 +671,6 @@ Let me know if you have any feedback or questions!</p>
  - [https://thechainsaw.com/defi/crypto/mass-of-transactions-leaving-crypto-com-wallets/](https://thechainsaw.com/defi/crypto/mass-of-transactions-leaving-crypto-com-wallets/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 05:02:44+00:00
- - tags: None
 
 <p>Article URL: <a href="https://thechainsaw.com/defi/crypto/mass-of-transactions-leaving-crypto-com-wallets/">https://thechainsaw.com/defi/crypto/mass-of-transactions-leaving-crypto-com-wallets/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33590343">https://news.ycombinator.com/item?id=33590343</a></p>
@@ -747,7 +681,6 @@ Let me know if you have any feedback or questions!</p>
  - [https://slint-ui.com/blog/rust-and-cpp.html](https://slint-ui.com/blog/rust-and-cpp.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 04:54:21+00:00
- - tags: None
 
 <p>Article URL: <a href="https://slint-ui.com/blog/rust-and-cpp.html">https://slint-ui.com/blog/rust-and-cpp.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33590308">https://news.ycombinator.com/item?id=33590308</a></p>
@@ -758,7 +691,6 @@ Let me know if you have any feedback or questions!</p>
  - [https://www.rnz.co.nz/news/national/478715/spy-agency-uses-computer-network-exploitation-to-take-digital-information](https://www.rnz.co.nz/news/national/478715/spy-agency-uses-computer-network-exploitation-to-take-digital-information)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 04:37:31+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.rnz.co.nz/news/national/478715/spy-agency-uses-computer-network-exploitation-to-take-digital-information">https://www.rnz.co.nz/news/national/478715/spy-agency-uses-computer-network-exploitation-to-take-digital-information</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33590238">https://news.ycombinator.com/item?id=33590238</a></p>
@@ -769,7 +701,6 @@ Let me know if you have any feedback or questions!</p>
  - [http://www.cordellaudio.com/book/](http://www.cordellaudio.com/book/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 04:03:18+00:00
- - tags: None
 
 <p>Article URL: <a href="http://www.cordellaudio.com/book/">http://www.cordellaudio.com/book/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33590083">https://news.ycombinator.com/item?id=33590083</a></p>
@@ -780,7 +711,6 @@ Let me know if you have any feedback or questions!</p>
  - [https://www.whichfaceisreal.com/index.php](https://www.whichfaceisreal.com/index.php)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 03:54:18+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.whichfaceisreal.com/index.php">https://www.whichfaceisreal.com/index.php</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33590041">https://news.ycombinator.com/item?id=33590041</a></p>
@@ -791,7 +721,6 @@ Let me know if you have any feedback or questions!</p>
  - [https://blog.hansenpartnership.com/the-community-corrosive-effects-of-clas/](https://blog.hansenpartnership.com/the-community-corrosive-effects-of-clas/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 02:29:54+00:00
- - tags: None
 
 <p>Article URL: <a href="https://blog.hansenpartnership.com/the-community-corrosive-effects-of-clas/">https://blog.hansenpartnership.com/the-community-corrosive-effects-of-clas/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33589631">https://news.ycombinator.com/item?id=33589631</a></p>
@@ -802,7 +731,6 @@ Let me know if you have any feedback or questions!</p>
  - [https://www.nanog.org/stories/in-memory-of-betty-burke/](https://www.nanog.org/stories/in-memory-of-betty-burke/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 02:02:18+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.nanog.org/stories/in-memory-of-betty-burke/">https://www.nanog.org/stories/in-memory-of-betty-burke/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33589473">https://news.ycombinator.com/item?id=33589473</a></p>
@@ -813,7 +741,6 @@ Let me know if you have any feedback or questions!</p>
  - [https://lookify.io/blog/555-phone-number](https://lookify.io/blog/555-phone-number)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 01:53:00+00:00
- - tags: None
 
 <p>Article URL: <a href="https://lookify.io/blog/555-phone-number">https://lookify.io/blog/555-phone-number</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33589399">https://news.ycombinator.com/item?id=33589399</a></p>
@@ -824,7 +751,6 @@ Let me know if you have any feedback or questions!</p>
  - [https://github.com/KULeuven-COSIC/Starlink-FI](https://github.com/KULeuven-COSIC/Starlink-FI)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 01:46:15+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/KULeuven-COSIC/Starlink-FI">https://github.com/KULeuven-COSIC/Starlink-FI</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33589362">https://news.ycombinator.com/item?id=33589362</a></p>
@@ -835,7 +761,6 @@ Let me know if you have any feedback or questions!</p>
  - [https://andrewleahey.com/its-a-wonderful-lie-that-movie-misled-us-about-money/](https://andrewleahey.com/its-a-wonderful-lie-that-movie-misled-us-about-money/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 01:14:12+00:00
- - tags: None
 
 <p>Article URL: <a href="https://andrewleahey.com/its-a-wonderful-lie-that-movie-misled-us-about-money/">https://andrewleahey.com/its-a-wonderful-lie-that-movie-misled-us-about-money/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33589163">https://news.ycombinator.com/item?id=33589163</a></p>
@@ -846,7 +771,6 @@ Let me know if you have any feedback or questions!</p>
  - [https://marc.info/?l=openbsd-tech&m=166203784715942](https://marc.info/?l=openbsd-tech&m=166203784715942)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 00:37:32+00:00
- - tags: None
 
 <p>Article URL: <a href="https://marc.info/?l=openbsd-tech&amp;m=166203784715942">https://marc.info/?l=openbsd-tech&amp;m=166203784715942</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33588919">https://news.ycombinator.com/item?id=33588919</a></p>
@@ -857,7 +781,6 @@ Let me know if you have any feedback or questions!</p>
  - [https://www.wolfeden.org/unix-museum/motorola/powerstack.html](https://www.wolfeden.org/unix-museum/motorola/powerstack.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-14 00:14:10+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.wolfeden.org/unix-museum/motorola/powerstack.html">https://www.wolfeden.org/unix-museum/motorola/powerstack.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33588778">https://news.ycombinator.com/item?id=33588778</a></p>

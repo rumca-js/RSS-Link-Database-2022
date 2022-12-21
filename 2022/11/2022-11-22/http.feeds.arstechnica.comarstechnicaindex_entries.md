@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## Meta researchers create AI that masters Diplomacy, tricking human players
  - [https://arstechnica.com/?p=1899693](https://arstechnica.com/?p=1899693)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-22 23:32:55+00:00
- - tags: None
 
 Meta's Cicero can negotiate or persuade with natural language—just like a human.
 
@@ -12,7 +11,6 @@ Meta's Cicero can negotiate or persuade with natural language—just like a huma
  - [https://arstechnica.com/?p=1899726](https://arstechnica.com/?p=1899726)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-22 22:28:20+00:00
- - tags: None
 
 Rockstar follows similar recent ban by Mojang and <em>Minecraft</em>.
 
@@ -20,7 +18,6 @@ Rockstar follows similar recent ban by Mojang and <em>Minecraft</em>.
  - [https://arstechnica.com/?p=1899664](https://arstechnica.com/?p=1899664)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-22 20:51:52+00:00
- - tags: None
 
 Not surprisingly, female customers bear the brunt of the privacy violations.
 
@@ -28,7 +25,6 @@ Not surprisingly, female customers bear the brunt of the privacy violations.
  - [https://arstechnica.com/?p=1881111](https://arstechnica.com/?p=1881111)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-22 20:01:27+00:00
- - tags: None
 
 Beefed-up image quality topped with a souped-up camera.
 
@@ -36,7 +32,6 @@ Beefed-up image quality topped with a souped-up camera.
  - [https://arstechnica.com/?p=1899620](https://arstechnica.com/?p=1899620)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-22 19:32:07+00:00
- - tags: None
 
 Financial data was sent to Meta by TaxAct, H&#038;R Block, and TaxSlayer.
 
@@ -44,7 +39,6 @@ Financial data was sent to Meta by TaxAct, H&#038;R Block, and TaxSlayer.
  - [https://arstechnica.com/?p=1899518](https://arstechnica.com/?p=1899518)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-22 19:08:32+00:00
- - tags: None
 
 Bundles save space, with the tradeoff that developers give Google the app-signing keys.
 
@@ -52,7 +46,6 @@ Bundles save space, with the tradeoff that developers give Google the app-signin
  - [https://arstechnica.com/?p=1899592](https://arstechnica.com/?p=1899592)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-22 18:55:14+00:00
- - tags: None
 
 "The bottom line is: We need more Americans vaccinated."
 
@@ -60,7 +53,6 @@ Bundles save space, with the tradeoff that developers give Google the app-signin
  - [https://arstechnica.com/?p=1899505](https://arstechnica.com/?p=1899505)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-22 18:44:34+00:00
- - tags: None
 
 Speed is the name of the game for this one.
 
@@ -68,7 +60,6 @@ Speed is the name of the game for this one.
  - [https://arstechnica.com/?p=1899464](https://arstechnica.com/?p=1899464)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-22 18:19:10+00:00
- - tags: None
 
 Someday our holiday whipped topping could be made from beer-brewing residues or plants.
 
@@ -76,7 +67,6 @@ Someday our holiday whipped topping could be made from beer-brewing residues or 
  - [https://arstechnica.com/?p=1899533](https://arstechnica.com/?p=1899533)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-22 17:34:39+00:00
- - tags: None
 
 Musk: "People who are great at writing software are the highest priority."
 
@@ -84,7 +74,6 @@ Musk: "People who are great at writing software are the highest priority."
  - [https://arstechnica.com/?p=1899432](https://arstechnica.com/?p=1899432)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-22 17:26:45+00:00
- - tags: None
 
 The monkey is the oldest known captive, exported primate in Mesoamerica.
 
@@ -92,7 +81,6 @@ The monkey is the oldest known captive, exported primate in Mesoamerica.
  - [https://arstechnica.com/?p=1899437](https://arstechnica.com/?p=1899437)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-22 17:05:09+00:00
- - tags: None
 
 Our behind-the-scenes look at <em>Callisto Protocol</em> continues with a look at terrifying visuals.
 
@@ -100,7 +88,6 @@ Our behind-the-scenes look at <em>Callisto Protocol</em> continues with a look a
  - [https://arstechnica.com/?p=1899455](https://arstechnica.com/?p=1899455)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-22 16:46:37+00:00
- - tags: None
 
 Our 50-year chronological rounding-error nightmare will soon be over.
 
@@ -108,7 +95,6 @@ Our 50-year chronological rounding-error nightmare will soon be over.
  - [https://arstechnica.com/?p=1899491](https://arstechnica.com/?p=1899491)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-22 16:27:57+00:00
- - tags: None
 
 In 2019, company said Valve's 30 percent commissions were "unrealistic."
 
@@ -116,7 +102,6 @@ In 2019, company said Valve's 30 percent commissions were "unrealistic."
  - [https://arstechnica.com/?p=1899474](https://arstechnica.com/?p=1899474)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-22 16:20:27+00:00
- - tags: None
 
 Signal contradicts Musk, says it’s not helping to encrypt Twitter DMs.
 
@@ -124,7 +109,6 @@ Signal contradicts Musk, says it’s not helping to encrypt Twitter DMs.
  - [https://arstechnica.com/?p=1899479](https://arstechnica.com/?p=1899479)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-22 16:08:41+00:00
- - tags: None
 
 Cupras drive very differently from VWs; Cupra's head of R&#038;D explains how.
 
@@ -132,6 +116,5 @@ Cupras drive very differently from VWs; Cupra's head of R&#038;D explains how.
  - [https://arstechnica.com/?p=1899436](https://arstechnica.com/?p=1899436)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-22 14:23:26+00:00
- - tags: None
 
 "This is a dream for many of us who work at NASA."

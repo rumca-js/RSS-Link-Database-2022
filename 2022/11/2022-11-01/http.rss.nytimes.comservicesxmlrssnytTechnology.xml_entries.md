@@ -1,10 +1,9 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
 
 ## Elon Musk’s Twitter Faces Exodus of Advertisers and Executives
  - [https://www.nytimes.com/2022/11/01/technology/elon-musk-twitter-advertisers.html](https://www.nytimes.com/2022/11/01/technology/elon-musk-twitter-advertisers.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-01 20:42:24+00:00
- - tags: None
 
 At least three Twitter executives have left in recent days, as one of the world’s largest ad companies said clients should pause spending on the social media platform.
 
@@ -12,7 +11,6 @@ At least three Twitter executives have left in recent days, as one of the world�
  - [https://www.nytimes.com/2022/11/01/technology/elon-musk-twitter-exodus-advertisers-executives.html](https://www.nytimes.com/2022/11/01/technology/elon-musk-twitter-exodus-advertisers-executives.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-01 18:06:46+00:00
- - tags: None
 
 At least three Twitter executives have left in recent days, as one of the world’s largest ad companies said clients should pause spending on the social media platform.
 
@@ -20,7 +18,6 @@ At least three Twitter executives have left in recent days, as one of the world�
  - [https://www.nytimes.com/2022/11/01/technology/musk-twitter-antisemitism-security-group.html](https://www.nytimes.com/2022/11/01/technology/musk-twitter-antisemitism-security-group.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-01 16:33:46+00:00
- - tags: None
 
 An organization that helps secure Jewish facilities across North America said Twitter had an “antisemitism problem,” and asked its new owner to fix it.
 
@@ -28,7 +25,6 @@ An organization that helps secure Jewish facilities across North America said Tw
  - [https://www.nytimes.com/2022/11/01/technology/uber-revenue.html](https://www.nytimes.com/2022/11/01/technology/uber-revenue.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-01 11:32:51+00:00
- - tags: None
 
 The ride-hailing company had strong revenue growth, but it still lost money in part because of its investments in other ride-hailing businesses.
 
@@ -36,6 +32,5 @@ The ride-hailing company had strong revenue growth, but it still lost money in p
  - [https://www.nytimes.com/2022/11/01/technology/truth-social-conservative-social-app.html](https://www.nytimes.com/2022/11/01/technology/truth-social-conservative-social-app.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-01 09:00:29+00:00
- - tags: None
 
 The right-wing social network faces two federal investigations and an uncertain financial future. But it has still managed to outpace its rivals.

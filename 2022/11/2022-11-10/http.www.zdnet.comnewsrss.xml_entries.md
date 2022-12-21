@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## Nonprofit trend report: Technology is fueling relevance and growth
  - [https://www.zdnet.com/article/nonprofit-trend-report-technology-is-fueling-relevance-and-growth/#ftag=RSSbaffb68](https://www.zdnet.com/article/nonprofit-trend-report-technology-is-fueling-relevance-and-growth/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 22:20:18+00:00
- - tags: None
 
 In a more decentralized and digital-first economy, efficient and productive nonprofits are more effective at delivering impact. Digitally mature nonprofits exceed their organizational goals.
 
@@ -12,7 +11,6 @@ In a more decentralized and digital-first economy, efficient and productive nonp
  - [https://www.zdnet.com/article/how-you-can-better-position-yourself-for-success-in-todays-economy/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-you-can-better-position-yourself-for-success-in-todays-economy/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 21:43:06+00:00
- - tags: None
 
 The workforce of today must be flexible and adaptable in today's dynamic era of work. To this effectively, employees must be self-aware, forward looking, and deliberately focused on adding value to their communities.
 
@@ -20,7 +18,6 @@ The workforce of today must be flexible and adaptable in today's dynamic era of 
  - [https://www.zdnet.com/article/a-tour-of-the-doogee-s96-gt-ruggedized-android-smartphone/#ftag=RSSbaffb68](https://www.zdnet.com/article/a-tour-of-the-doogee-s96-gt-ruggedized-android-smartphone/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 21:28:22+00:00
- - tags: None
 
 The specs were decent for the price, but I was let down by one big weakness.
 
@@ -28,7 +25,6 @@ The specs were decent for the price, but I was let down by one big weakness.
  - [https://www.zdnet.com/article/how-to-connect-your-laptop-to-a-tv-quickly-and-easily/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-connect-your-laptop-to-a-tv-quickly-and-easily/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 20:52:29+00:00
- - tags: None
 
 With a little know-how and the right hardware, connecting your laptop to a TV can be easy-peasy.
 
@@ -36,7 +32,6 @@ With a little know-how and the right hardware, connecting your laptop to a TV ca
  - [https://www.zdnet.com/home-and-office/home-entertainment/how-to-buy-a-ps5/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/how-to-buy-a-ps5/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 20:52:07+00:00
- - tags: None
 
 Want to purchase a PlayStation 5 in time for Christmas? Here's how to buy the coveted gaming system from Sony.
 
@@ -44,7 +39,6 @@ Want to purchase a PlayStation 5 in time for Christmas? Here's how to buy the co
  - [https://www.zdnet.com/article/how-to-connect-laptop-to-a-tv/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-connect-laptop-to-a-tv/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 20:52:00+00:00
- - tags: None
 
 With a little know-how and the right hardware, connecting your laptop to a TV can be easy-peasy.
 
@@ -52,7 +46,6 @@ With a little know-how and the right hardware, connecting your laptop to a TV ca
  - [https://www.zdnet.com/article/how-to-remap-keys-using-keyboard-manager-in-microsofts-powertoys/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-remap-keys-using-keyboard-manager-in-microsofts-powertoys/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 20:33:33+00:00
- - tags: None
 
 With Keyboard Manager, you can redefine keyboard keys and shortcuts used to trigger different commands.
 
@@ -60,7 +53,6 @@ With Keyboard Manager, you can redefine keyboard keys and shortcuts used to trig
  - [https://www.zdnet.com/home-and-office/smart-home/save-30-on-the-click-grow-smart-garden/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/save-30-on-the-click-grow-smart-garden/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 19:32:00+00:00
- - tags: None
 
 Miss growing your own veggies during those long winter months? Now you can with the Click & Grow Smart Garden 3, and save an extra 5% with a special ZDNET code.
 
@@ -68,7 +60,6 @@ Miss growing your own veggies during those long winter months? Now you can with 
  - [https://www.zdnet.com/home-and-office/smart-home/save-27-on-the-newest-ge-cync-light-strip/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/save-27-on-the-newest-ge-cync-light-strip/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 19:09:00+00:00
- - tags: None
 
 Light strips add pizzazz to your home with fun colors and smart connectivity. The latest and greatest from GE just dropped in price so you can enjoy it in your space for less.
 
@@ -76,7 +67,6 @@ Light strips add pizzazz to your home with fun colors and smart connectivity. Th
  - [https://www.zdnet.com/home-and-office/smart-home/neato-d10-robot-vacuum-deal-promo-code-coupon/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/neato-d10-robot-vacuum-deal-promo-code-coupon/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 18:52:00+00:00
- - tags: None
 
 With every holiday prep task on your to-do list, why worry about vacuuming? Swap to this Neato D10 robot vacuum and not only save money but your valuable time.
 
@@ -84,7 +74,6 @@ With every holiday prep task on your to-do list, why worry about vacuuming? Swap
  - [https://www.zdnet.com/article/a-450-million-apple-investment-brings-satellite-powered-sos-system-to-latest-iphones/#ftag=RSSbaffb68](https://www.zdnet.com/article/a-450-million-apple-investment-brings-satellite-powered-sos-system-to-latest-iphones/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 18:17:46+00:00
- - tags: None
 
 Even when you are off the grid, you'll be able to connect to emergency services via a new satellite service.
 
@@ -92,7 +81,6 @@ Even when you are off the grid, you'll be able to connect to emergency services 
  - [https://www.zdnet.com/article/how-to-break-a-tempered-glass-screen-protector/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-break-a-tempered-glass-screen-protector/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 18:00:40+00:00
- - tags: None
 
 We rubbed it with rocks, took a knife to it, and more, to see what it would take to scratch a good-quality screen protector like the ESR Armorite.
 
@@ -100,7 +88,6 @@ We rubbed it with rocks, took a knife to it, and more, to see what it would take
  - [https://www.zdnet.com/article/with-linode-akamai-expands-into-edge-cloud-computing-development/#ftag=RSSbaffb68](https://www.zdnet.com/article/with-linode-akamai-expands-into-edge-cloud-computing-development/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 17:53:26+00:00
- - tags: None
 
 The market-leading content delivery network has big plans for Linode's infrastructure-as-a-service cloud.
 
@@ -108,7 +95,6 @@ The market-leading content delivery network has big plans for Linode's infrastru
  - [https://www.zdnet.com/home-and-office/home-entertainment/acer-chromebook-516-ge-review-as-good-as-cloud-gaming-gets/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/acer-chromebook-516-ge-review-as-good-as-cloud-gaming-gets/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 17:25:48+00:00
- - tags: None
 
 Acer's first gaming Chromebook packs impressive hardware and some of the best cloud-based gaming performance I've experienced. But it's still entirely dependent on how well services like GeForce Now and Xbox Game Pass work for you.
 
@@ -116,7 +102,6 @@ Acer's first gaming Chromebook packs impressive hardware and some of the best cl
  - [https://www.zdnet.com/article/acer-chromebook-516-ge-review-as-good-as-cloud-gaming-gets/#ftag=RSSbaffb68](https://www.zdnet.com/article/acer-chromebook-516-ge-review-as-good-as-cloud-gaming-gets/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 17:25:00+00:00
- - tags: None
 
 Acer's first gaming Chromebook packs impressive hardware and some of the best cloud-based gaming performance I've experienced. But it's still entirely dependent on how well services like GeForce Now and Xbox Game Pass work for you.
 
@@ -124,7 +109,6 @@ Acer's first gaming Chromebook packs impressive hardware and some of the best cl
  - [https://www.zdnet.com/article/why-im-not-deleting-twitter-yet/#ftag=RSSbaffb68](https://www.zdnet.com/article/why-im-not-deleting-twitter-yet/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 16:34:00+00:00
- - tags: None
 
 Twitter is still a powerful communication mechanism for many folks. Is quitting an over-reaction? Let's look at what's really happening at Twitter and what it may mean for you.
 
@@ -132,7 +116,6 @@ Twitter is still a powerful communication mechanism for many folks. Is quitting 
  - [https://www.zdnet.com/article/less-is-more-why-the-four-day-week-rocking-the-world-of-work/#ftag=RSSbaffb68](https://www.zdnet.com/article/less-is-more-why-the-four-day-week-rocking-the-world-of-work/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 16:26:05+00:00
- - tags: None
 
 The working week doesn't work anymore. One big change could be better for everyone.
 
@@ -140,7 +123,6 @@ The working week doesn't work anymore. One big change could be better for everyo
  - [https://www.zdnet.com/article/the-metaverses-biggest-unknown-where-we-go-from-here/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-metaverses-biggest-unknown-where-we-go-from-here/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 16:12:38+00:00
- - tags: None
 
 Just because some elements of the metaverse are familiar, that doesn't mean we know what will happen from here.
 
@@ -148,7 +130,6 @@ Just because some elements of the metaverse are familiar, that doesn't mean we k
  - [https://www.zdnet.com/home-and-office/home-entertainment/amazon-echo-studio-review-is-it-really-better-than-before/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/amazon-echo-studio-review-is-it-really-better-than-before/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 16:06:25+00:00
- - tags: None
 
 The Echo Studio saw some significant software updates in 2022. But has Amazon's biggest smart speaker improved and is it worth the $200 price tag?
 
@@ -156,7 +137,6 @@ The Echo Studio saw some significant software updates in 2022. But has Amazon's 
  - [https://www.zdnet.com/article/best-popsocket/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-popsocket/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 15:40:00+00:00
- - tags: None
 
 PopSockets offer you an excellent grip on your mobile device. We analyzed the best PopSockets for your family's devices, no matter what kind of phone you have.
 
@@ -164,7 +144,6 @@ PopSockets offer you an excellent grip on your mobile device. We analyzed the be
  - [https://www.zdnet.com/article/apple-icloud-photos-now-works-with-windows-11-photos-app/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-icloud-photos-now-works-with-windows-11-photos-app/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 14:29:23+00:00
- - tags: None
 
 Apple iCloud Photos will now automatically appear in the Windows 11 Photos app after syncing.
 
@@ -172,7 +151,6 @@ Apple iCloud Photos will now automatically appear in the Windows 11 Photos app a
  - [https://www.zdnet.com/home-and-office/home-entertainment/rokus-new-sports-section-puts-live-games-and-schedules-right-on-your-roku-home-screen/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/rokus-new-sports-section-puts-live-games-and-schedules-right-on-your-roku-home-screen/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 14:00:31+00:00
- - tags: None
 
 The new Sports experience on Roku aims to overcome streaming's biggest hurdle.
 
@@ -180,7 +158,6 @@ The new Sports experience on Roku aims to overcome streaming's biggest hurdle.
  - [https://www.zdnet.com/article/tech-jobs-are-changing-here-are-the-real-skills-youll-need-to-get-promoted/#ftag=RSSbaffb68](https://www.zdnet.com/article/tech-jobs-are-changing-here-are-the-real-skills-youll-need-to-get-promoted/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 14:00:22+00:00
- - tags: None
 
 The old assumptions about tech and tech jobs are going away. Don't get left behind.
 
@@ -188,7 +165,6 @@ The old assumptions about tech and tech jobs are going away. Don't get left behi
  - [https://www.zdnet.com/article/elon-musk-tells-twitter-staff-no-more-remote-working/#ftag=RSSbaffb68](https://www.zdnet.com/article/elon-musk-tells-twitter-staff-no-more-remote-working/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 13:15:19+00:00
- - tags: None
 
 Twitter staff must be in the office at least 40 hours per week unless personally approved by Elon Musk, according to a report.
 
@@ -196,7 +172,6 @@ Twitter staff must be in the office at least 40 hours per week unless personally
  - [https://www.zdnet.com/article/programming-languages-these-top-four-rule-and-developers-are-happy-for-now/#ftag=RSSbaffb68](https://www.zdnet.com/article/programming-languages-these-top-four-rule-and-developers-are-happy-for-now/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 13:10:18+00:00
- - tags: None
 
 Programmers are happy with their choices – and innovation has moved to other areas of technology, for the time being.
 
@@ -204,7 +179,6 @@ Programmers are happy with their choices – and innovation has moved to other a
  - [https://www.zdnet.com/article/how-to-automatically-convert-google-drive-uploads-to-docs-format/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-automatically-convert-google-drive-uploads-to-docs-format/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 13:00:21+00:00
- - tags: None
 
 Here's why you might want to automatically convert Google Drive uploads to Google's native document format, and how to do it.
 
@@ -212,7 +186,6 @@ Here's why you might want to automatically convert Google Drive uploads to Googl
  - [https://www.zdnet.com/article/iphone-ios-16-1-1-fixes-two-security-vulnerabilities-time-to-update/#ftag=RSSbaffb68](https://www.zdnet.com/article/iphone-ios-16-1-1-fixes-two-security-vulnerabilities-time-to-update/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 11:50:35+00:00
- - tags: None
 
 Two security flaws could allow attackers to remotely crash apps or run commands on iPhones and iPads.
 
@@ -220,7 +193,6 @@ Two security flaws could allow attackers to remotely crash apps or run commands 
  - [https://www.zdnet.com/article/google-one-vpn-is-coming-to-windows-pcs-and-mac/#ftag=RSSbaffb68](https://www.zdnet.com/article/google-one-vpn-is-coming-to-windows-pcs-and-mac/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 11:34:33+00:00
- - tags: None
 
 The VPN in Google's premium Google One plan is now available for Windows and Mac.
 
@@ -228,7 +200,6 @@ The VPN in Google's premium Google One plan is now available for Windows and Mac
  - [https://www.zdnet.com/article/office-attendance-changes-with-the-seasons-employers-should-take-note/#ftag=RSSbaffb68](https://www.zdnet.com/article/office-attendance-changes-with-the-seasons-employers-should-take-note/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 10:52:32+00:00
- - tags: None
 
 To make hybrid work more meaningful, office policy should change with the season, says Robin.
 
@@ -236,7 +207,6 @@ To make hybrid work more meaningful, office policy should change with the season
  - [https://www.zdnet.com/home-and-office/corsair-k60-gaming-keyboard-just-dropped-deal-sale-coupon-code/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/corsair-k60-gaming-keyboard-just-dropped-deal-sale-coupon-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 10:39:31+00:00
- - tags: None
 
 You're unlikely to pick up this gaming keyboard cheaper, even with Black Friday on the horizon.
 
@@ -244,7 +214,6 @@ You're unlikely to pick up this gaming keyboard cheaper, even with Black Friday 
  - [https://www.zdnet.com/article/medibank-wont-pay-ransom-as-more-stolen-data-shows-up-on-dark-web/#ftag=RSSbaffb68](https://www.zdnet.com/article/medibank-wont-pay-ransom-as-more-stolen-data-shows-up-on-dark-web/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 09:45:00+00:00
- - tags: None
 
 Australian health insurer calls the release of data compromised in recent security breach "disgraceful", saying it will not fork out any ransom payment based on expert advice and government guidelines.
 
@@ -252,7 +221,6 @@ Australian health insurer calls the release of data compromised in recent securi
  - [https://www.zdnet.com/article/early-apple-watch-black-friday-deals-november-10-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-apple-watch-black-friday-deals-november-10-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 08:16:00+00:00
- - tags: None
 
 Black Friday isn't until the end of November but some great deals on the Apple Watch have already landed.
 
@@ -260,7 +228,6 @@ Black Friday isn't until the end of November but some great deals on the Apple W
  - [https://www.zdnet.com/article/early-walmart-black-friday-deals-november-10-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-walmart-black-friday-deals-november-10-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 08:02:00+00:00
- - tags: None
 
 Black Friday is a few weeks away, but Walmart has already started launching great tech deals. You can save big on the best tech gifts this holiday season.
 
@@ -268,7 +235,6 @@ Black Friday is a few weeks away, but Walmart has already started launching grea
  - [https://www.zdnet.com/article/early-best-buy-black-friday-deals-november-10-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-best-buy-black-friday-deals-november-10-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 07:56:00+00:00
- - tags: None
 
 The big box store is one of the best places to score great deals on tech. This year, you can start shopping earlier with great deals in Best Buy's catalog.
 
@@ -276,7 +242,6 @@ The big box store is one of the best places to score great deals on tech. This y
  - [https://www.zdnet.com/article/early-target-black-friday-deals-november-10-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-target-black-friday-deals-november-10-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 07:45:00+00:00
- - tags: None
 
 These are the best deals Target has to offer ahead of Black Friday. Make sure to check back later, as we'll be updating the list in the days leading up to Black Friday.
 
@@ -284,7 +249,6 @@ These are the best deals Target has to offer ahead of Black Friday. Make sure to
  - [https://www.zdnet.com/home-and-office/early-hp-black-friday-deals-november-10-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/early-hp-black-friday-deals-november-10-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 07:41:00+00:00
- - tags: None
 
 HP is best known as one of the biggest PC makers out there, but the company also produces great monitors, printers, and accessories. Let's take a look at what deals are available for its products leading up to this year's Black Friday extravaganza.
 
@@ -292,7 +256,6 @@ HP is best known as one of the biggest PC makers out there, but the company also
  - [https://www.zdnet.com/article/early-amazon-black-friday-deals-november-10-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-amazon-black-friday-deals-november-10-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 07:36:00+00:00
- - tags: None
 
 Amazon's Black Friday plan involves getting the deals straight to you earlier this year. Shop its deals and score big savings on top tech items and gifts.
 
@@ -300,7 +263,6 @@ Amazon's Black Friday plan involves getting the deals straight to you earlier th
  - [https://www.zdnet.com/article/early-black-friday-headphone-deals-november-10-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-black-friday-headphone-deals-november-10-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 07:31:00+00:00
- - tags: None
 
 Everyone deserves a new pair of headphones for the holidays -- especially if they're at half the price.
 
@@ -308,7 +270,6 @@ Everyone deserves a new pair of headphones for the holidays -- especially if the
  - [https://www.zdnet.com/article/early-airpods-black-friday-deals-november-10-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-airpods-black-friday-deals-november-10-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 07:27:00+00:00
- - tags: None
 
 AirPods are on everyone's wishlist. The buds that barely go on sale are about to spread holiday cheer through both their crystal clear sound quality and amazing prices.
 
@@ -316,7 +277,6 @@ AirPods are on everyone's wishlist. The buds that barely go on sale are about to
  - [https://www.zdnet.com/article/early-black-friday-laptop-deals-november-10-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-black-friday-laptop-deals-november-10-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 07:08:00+00:00
- - tags: None
 
 ZDNET has rounded up its top picks for early laptop deals ahead of Black Friday, from retailers and manufacturers.
 
@@ -324,7 +284,6 @@ ZDNET has rounded up its top picks for early laptop deals ahead of Black Friday,
  - [https://www.zdnet.com/article/early-black-friday-tablet-deals-november-10-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-black-friday-tablet-deals-november-10-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 06:48:00+00:00
- - tags: None
 
 Looking for a tablet? The best tablets from brands like Apple and Samsung are already on sale ahead of Black Friday.
 
@@ -332,7 +291,6 @@ Looking for a tablet? The best tablets from brands like Apple and Samsung are al
  - [https://www.zdnet.com/home-and-office/home-entertainment/early-black-friday-tv-deals-november-10-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/early-black-friday-tv-deals-november-10-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 06:44:00+00:00
- - tags: None
 
 Whether you're buying your first TV or upgrading your home theater, these awesome Black Friday and Cyber Monday deals make it more affordable than ever. Brands like Samsung, Sony, LG, and TCL have great discounts on already budget-friendly models as well as high-end TVs for shoppers looking for premium features like OLED panels and virtual surround sound.
 
@@ -340,7 +298,6 @@ Whether you're buying your first TV or upgrading your home theater, these awesom
  - [https://www.zdnet.com/article/early-black-friday-chromebook-deals-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-black-friday-chromebook-deals-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 06:20:00+00:00
- - tags: None
 
 Chromebooks are perfect for everything -- from classroom work and web browsing to streaming movies and working on the go. But with laptops seeing a price increase over years, it's hard to find the perfect laptop without breaking the bank. Here are our top picks.
 
@@ -348,7 +305,6 @@ Chromebooks are perfect for everything -- from classroom work and web browsing t
  - [https://www.zdnet.com/article/early-apple-black-friday-deals-november-10-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/early-apple-black-friday-deals-november-10-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 05:06:00+00:00
- - tags: None
 
 If someone on your holiday shopping list already owns an Apple device, they'll be ecstatic to find another Apple product under the tree. If you want to buy an Apple product without breaking the bank, here are some great deals.
 
@@ -356,6 +312,5 @@ If someone on your holiday shopping list already owns an Apple device, they'll b
  - [https://www.zdnet.com/article/best-phones-for-holiday-gifts/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-phones-for-holiday-gifts/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-10 00:44:00+00:00
- - tags: None
 
 We've rounded up a list of the 12 best phones to give as gifts. There's something for everyone, even if you're on a budget or have a loved one that hates smartphones.

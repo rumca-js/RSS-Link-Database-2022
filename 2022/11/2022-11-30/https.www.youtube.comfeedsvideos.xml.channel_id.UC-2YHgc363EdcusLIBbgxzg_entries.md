@@ -1,10 +1,9 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
+# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
 
 ## How Many People Can You Possibly Know?
  - [https://www.youtube.com/watch?v=LDTo5JEUUa0](https://www.youtube.com/watch?v=LDTo5JEUUa0)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
  - date published: 2022-11-30 21:15:01+00:00
- - tags: None
 
 Dunbar's Number suggests that human groups can only sustain about 150 people, and after that tribal groups fall apart.
 

@@ -1,10 +1,9 @@
-# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA
+# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, Source language: en-US
 
 ## Dear Meta, Your Metaverse is CRUMBLING
  - [https://www.youtube.com/watch?v=iV2RQ5yYAmI](https://www.youtube.com/watch?v=iV2RQ5yYAmI)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA
  - date published: 2022-11-12 18:20:38+00:00
- - tags: None
 
 In this video I take off my "Professional" hat and really call out where I think Meta's Metaverse has gone wrong- and right. This is not meant to be me trashing on Meta, but instead calling out where i think they can be better for the VR space.
 

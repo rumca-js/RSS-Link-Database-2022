@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## T-Mobile may be looking to spend big on fiber home internet
  - [https://www.theverge.com/2022/11/7/23445777/t-mobile-home-internet-fiber-5g-partnership-search](https://www.theverge.com/2022/11/7/23445777/t-mobile-home-internet-fiber-5g-partnership-search)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-07 23:09:11+00:00
- - tags: None
 
 <figure>
       <img alt="Illustration of the T-Mobile logo, the letter T in a pink box with two squares on either side of it, in front of a blue and aqua background." src="https://cdn.vox-cdn.com/thumbor/ATZWhXoa_3Vk1cVWx-UJjEScDpk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71598165/acastro_STK067__02.0.jpg" />
@@ -22,7 +21,6 @@
  - [https://www.theverge.com/2022/11/7/23445765/activision-call-of-duty-2023-next-full-premium-game-title](https://www.theverge.com/2022/11/7/23445765/activision-call-of-duty-2023-next-full-premium-game-title)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-07 22:16:17+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot from Call of Duty: Modern Warfare II." src="https://cdn.vox-cdn.com/thumbor/81RhVnj3UaVV4RlNR-C2TEnDmMI=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71597946/new_era_mw2.0.jpg" />
@@ -40,7 +38,6 @@
  - [https://www.theverge.com/2022/11/7/23445329/nanoleaf-lines-squared-release-date-price](https://www.theverge.com/2022/11/7/23445329/nanoleaf-lines-squared-release-date-price)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-07 21:59:24+00:00
- - tags: None
 
 <figure>
       <img alt="A computer monitor on a desk in a living room. The monitor is framed by colored LED light bars on one side." src="https://cdn.vox-cdn.com/thumbor/biXOCZLp9kjJP3fbOL2RvN8XclI=/250x0:3625x2250/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71597870/Lines_Squared_4x_Living_Room_Cool_4000x2250.0.jpg" />
@@ -58,7 +55,6 @@
  - [https://www.theverge.com/2022/11/7/23445125/bitcoin-silk-road-recovered-investigators-billions](https://www.theverge.com/2022/11/7/23445125/bitcoin-silk-road-recovered-investigators-billions)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-07 21:15:26+00:00
- - tags: None
 
 <figure>
       <img alt="Illustration of the Bitcoin symbol on a blue and orange polka dot background." src="https://cdn.vox-cdn.com/thumbor/11ozvLN4ud-5W4arKbcbF2xtW7A=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71597754/STK087_VRG_Illo_N_Barclay_2_bitcoin.0.jpg" />
@@ -75,7 +71,6 @@
  - [https://www.theverge.com/2022/11/7/23445476/elon-musk-twitter-user-growth-all-time-high-advertisers](https://www.theverge.com/2022/11/7/23445476/elon-musk-twitter-user-growth-all-time-high-advertisers)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-07 21:13:28+00:00
- - tags: None
 
 <figure>
       <img alt="Elon Musk, in a tux, looking befuddled" src="https://cdn.vox-cdn.com/thumbor/CXrGLdGVllmujvu-BiS7V0zwIVw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71597742/STK171_L_Allen_Musk_01.0.jpg" />
@@ -93,7 +88,6 @@
  - [https://www.theverge.com/2022/11/7/23445606/pixel-7-pro-november-update-battery-life-improvements-google](https://www.theverge.com/2022/11/7/23445606/pixel-7-pro-november-update-battery-life-improvements-google)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-07 21:08:20+00:00
- - tags: None
 
 <figure>
       <img alt="Pixel 7 and 7 Pro from the back" src="https://cdn.vox-cdn.com/thumbor/wUls6E-uWI2EaBNPv_8P50fSKEM=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71597712/226337_Pixel_7_and_7_Pro_AKrales_0494.0.jpg" />
@@ -110,7 +104,6 @@
  - [https://www.theverge.com/2022/11/7/23445167/wordle-the-new-york-times-editor-tracy-bennett](https://www.theverge.com/2022/11/7/23445167/wordle-the-new-york-times-editor-tracy-bennett)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-07 21:01:31+00:00
- - tags: None
 
 <figure>
       <img alt="Wordle Smartphone Game" src="https://cdn.vox-cdn.com/thumbor/Jp74DVkboUwC6b7INA1ANW_kANg=/0x0:5123x3415/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71597696/1242569720.0.jpg" />
@@ -128,7 +121,6 @@
  - [https://www.theverge.com/2022/11/7/23445408/netflix-gears-of-war-movie-animated-tv-series-show](https://www.theverge.com/2022/11/7/23445408/netflix-gears-of-war-movie-animated-tv-series-show)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-07 19:35:42+00:00
- - tags: None
 
 <figure>
       <img alt="Promotional art featuring three Gears of War characters." src="https://cdn.vox-cdn.com/thumbor/079YtKilqrD175LOdBS7YGLLmLQ=/107x0:2453x1564/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71597252/GearsofWar_KeyArt.0.jpg" />
@@ -145,7 +137,6 @@
  - [https://www.theverge.com/2022/11/7/23445412/ps5-playstation-5-restock-sony-direct-consoles-november](https://www.theverge.com/2022/11/7/23445412/ps5-playstation-5-restock-sony-direct-consoles-november)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-07 19:26:54+00:00
- - tags: None
 
 <figure>
       <img alt="A PlayStation 5 DualSense controller rests on a PlayStation 5 console." src="https://cdn.vox-cdn.com/thumbor/W3Mci74NMYOnyCgxfk6HKdcPsnA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71597202/vpavic_4278_20201030_0247.0.jpg" />
@@ -163,7 +154,6 @@
  - [https://www.theverge.com/2022/11/7/23444773/ifixit-google-pixel-6a-parts-right-to-repair](https://www.theverge.com/2022/11/7/23444773/ifixit-google-pixel-6a-parts-right-to-repair)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-07 19:16:48+00:00
- - tags: None
 
 <figure>
       <img alt="Hero shot of the Google Pixel 6A on a grey background with some rocks" src="https://cdn.vox-cdn.com/thumbor/yprqVssmBcLk1cZgz61H6ipWYwg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71597155/vpavic_220708_5335_0001.0.jpg" />
@@ -181,7 +171,6 @@
  - [https://www.theverge.com/2022/11/7/23445099/netflix-monster-dahmer-the-watcher-renewed](https://www.theverge.com/2022/11/7/23445099/netflix-monster-dahmer-the-watcher-renewed)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-07 18:35:28+00:00
- - tags: None
 
 <figure>
       <img alt="Evan Peters as Jeffrey Dahmer." src="https://cdn.vox-cdn.com/thumbor/ZpAzikJnzYYoP9JyVz7zN8sm4BE=/227x0:2486x1506/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71596921/DAHMER_S1_E1_00_22_01_11R.0.jpeg" />
@@ -198,7 +187,6 @@
  - [https://www.theverge.com/2022/11/7/23444848/climate-risk-property-search-online-tools-fire-heat-flood-map](https://www.theverge.com/2022/11/7/23444848/climate-risk-property-search-online-tools-fire-heat-flood-map)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-07 18:00:15+00:00
- - tags: None
 
 <figure>
       <img alt="A white house surrounded by floodwater." src="https://cdn.vox-cdn.com/thumbor/qRtXQt4JCJL0wEgMxUS9yiLc4S4=/0x0:6702x4468/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71596699/1243596172.0.jpg" />
@@ -215,7 +203,6 @@
  - [https://www.theverge.com/2022/11/7/23444530/youtube-shorts-tv-app-tiktok](https://www.theverge.com/2022/11/7/23444530/youtube-shorts-tv-app-tiktok)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-07 17:19:02+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot of YouTube Shorts on a TV." src="https://cdn.vox-cdn.com/thumbor/0gfrnUKtdXL1kxgr2SYBk0ht7GE=/0x117:2800x1984/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71596403/shorts_tv_static__1___2_.0.png" />
@@ -232,7 +219,6 @@
  - [https://www.theverge.com/23440913/hp-pavilion-plus-14-intel-oled-laptop-review-price-specs-features-design](https://www.theverge.com/23440913/hp-pavilion-plus-14-intel-oled-laptop-review-price-specs-features-design)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-07 17:00:00+00:00
- - tags: None
 
 <p>It’s a $999 package you’ll have trouble finding elsewhere.</p>
   <p>
@@ -243,7 +229,6 @@
  - [https://www.theverge.com/2022/11/7/23444791/signal-stories-ios-android-now-available](https://www.theverge.com/2022/11/7/23444791/signal-stories-ios-android-now-available)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-07 17:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Two mobile devices on a lavender purple background. One is displaying a list of contacts, while the other has a screenshot of a story with an image of a beautiful sunset." src="https://cdn.vox-cdn.com/thumbor/cSdeBpyQM45s9Nj_TAg4ncIKBVU=/12x0:1548x1024/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71596248/stories_tab_and_reply.0.png" />
@@ -266,7 +251,6 @@
  - [https://www.theverge.com/2022/11/7/23444811/star-wars-the-acolyte-cast-lee-jung-jae-carrie-anne-moss-disney-plus](https://www.theverge.com/2022/11/7/23444811/star-wars-the-acolyte-cast-lee-jung-jae-carrie-anne-moss-disney-plus)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-07 15:51:30+00:00
- - tags: None
 
 <figure>
       <img alt="A photo of Carrie-Anne Moss." src="https://cdn.vox-cdn.com/thumbor/CrIiW6EzhVvNncEjU9nMpxUkmUA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71595804/vpavic_211203_4921_0005.0.jpg" />
@@ -284,7 +268,6 @@
  - [https://www.theverge.com/23435489/holiday-gift-guide-best-ideas-cool-tech](https://www.theverge.com/23435489/holiday-gift-guide-best-ideas-cool-tech)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-07 15:30:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/VP3_RMi5WfAXLZm3Xe_KiiszQc8=/0x0:2538x1692/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71595709/226333_HOLIDAYGIFTGUIDE_TABLESCAPE_01_jgoldberg.0.gif" />
@@ -301,7 +284,6 @@
  - [https://www.theverge.com/23444665/glass-onion-knives-out-mystery-trailer-netflix](https://www.theverge.com/23444665/glass-onion-knives-out-mystery-trailer-netflix)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-07 15:13:59+00:00
- - tags: None
 
 <figure>
       <img alt="A photo of Daniel Craig and Janelle Monáe in Glass Onion: A Knives out Mystery on Netflix." src="https://cdn.vox-cdn.com/thumbor/4TrDKyJEaL73eVVcIQ1YDehnO_8=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71595651/_KO2_20210708_11644r.0.jpg" />
@@ -320,7 +302,6 @@
  - [https://www.theverge.com/23438967/hakcat-wifi-nugget-hacking-open-source-hak5](https://www.theverge.com/23438967/hakcat-wifi-nugget-hacking-open-source-hak5)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-07 14:30:00+00:00
- - tags: None
 
 <figure>
       <img alt="The HakCat WiFi Nugget over a black and red background" src="https://cdn.vox-cdn.com/thumbor/biNq-sIf1AejnUj2Op6jnOe4e1g=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71595454/HackCat_Wifi_Nugget.0.jpeg" />
@@ -339,7 +320,6 @@
  - [https://www.theverge.com/2022/11/7/23441056/fortnite-fncs-trophy-swarovski-epic-games](https://www.theverge.com/2022/11/7/23441056/fortnite-fncs-trophy-swarovski-epic-games)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-07 14:03:13+00:00
- - tags: None
 
 <figure>
       <img alt="A photo of the FNCS Invitational championship trophy, designed by jewelry company Swarovski." src="https://cdn.vox-cdn.com/thumbor/rNNPUwIsAR_zRyFcqx0VWG0m7rY=/280x0:6598x4212/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71595407/Swarovski_Fortnite_2022_Image_1.0.jpg" />
@@ -357,7 +337,6 @@
  - [https://www.theverge.com/2022/11/7/23444561/airbnb-total-price-update-cleaning-fee-filter](https://www.theverge.com/2022/11/7/23444561/airbnb-total-price-update-cleaning-fee-filter)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-07 13:57:14+00:00
- - tags: None
 
 <figure>
       <img alt="A phone on an orange and blue gradient background. The phone is displaying the Airbnb app, with a new “Display total price” toggle." src="https://cdn.vox-cdn.com/thumbor/a0FcXMw2giYroOcRv9iP3zGm2ro=/0x43:3200x2176/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71595309/Airbnb_hidden_fee_update.0.jpg" />
@@ -379,7 +358,6 @@
  - [https://www.theverge.com/2022/11/7/23444518/target-games-sale-wireless-earbuds-gaming-laptop-lenovo-ipad-deal](https://www.theverge.com/2022/11/7/23444518/target-games-sale-wireless-earbuds-gaming-laptop-lenovo-ipad-deal)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-07 13:54:41+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot of Mario + Rabbids: Sparks of Hope for the Nintendo Switch. It shows Mario, Princess Peach, Bowser, and several Rabbids surrounded by enemies." src="https://cdn.vox-cdn.com/thumbor/cShV7ONn8HlA4A7fm7PGvXZRTsQ=/0x0:1620x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71595295/mariorabbidssparksofhope.0.jpg" />
@@ -396,7 +374,6 @@
  - [https://www.theverge.com/2022/11/7/23444433/telegram-update-video-transcription-delay-apple](https://www.theverge.com/2022/11/7/23444433/telegram-update-video-transcription-delay-apple)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-07 11:13:39+00:00
- - tags: None
 
 <figure>
       <img alt="A mobile phone against a purple background. The phone is displaying a screenshot of Telegrams new voice-to-text transcription for video messages feature." src="https://cdn.vox-cdn.com/thumbor/97lROV0vCl--vO3MYIDcuPDgqhc=/0x84:3200x2217/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71594792/Telegram_new_update.0.jpg" />
@@ -418,7 +395,6 @@
  - [https://www.theverge.com/2022/11/7/23443995/amazon-rivian-electric-delivery-van-fleet-ev](https://www.theverge.com/2022/11/7/23443995/amazon-rivian-electric-delivery-van-fleet-ev)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-07 11:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Rivian Electric Delivery Van for Amazon" src="https://cdn.vox-cdn.com/thumbor/77-tKQiJytbkaEb4h6nNKPFXXfk=/0x2:2880x1922/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71594755/Amazon_EDV7.0.jpg" />
@@ -437,7 +413,6 @@
  - [https://www.theverge.com/2022/11/7/23436994/devialet-mania-design-bluetooth-speaker-features-battery-spotify-airplay](https://www.theverge.com/2022/11/7/23436994/devialet-mania-design-bluetooth-speaker-features-battery-spotify-airplay)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-07 09:30:00+00:00
- - tags: None
 
 <figure>
       <img alt="The Devialet Mania speaker." src="https://cdn.vox-cdn.com/thumbor/evlTj40yDaZgfXxXV6bDCusPUOE=/0x0:7212x4808/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71594646/DEVIALET___Black_72188___UNDER_STRICT_EMBARGO_UNTIL_8_NOVEMBER_2022_8H00AM_CET.0.jpg" />

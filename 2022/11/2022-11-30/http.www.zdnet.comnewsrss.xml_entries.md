@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## Google shares newly-found commercial spyware threats
  - [https://www.zdnet.com/article/google-shares-newly-found-commercial-spyware-threats/#ftag=RSSbaffb68](https://www.zdnet.com/article/google-shares-newly-found-commercial-spyware-threats/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 22:27:15+00:00
- - tags: None
 
 The 'Heliconia' framework, with apparent ties to a Spanish IT company, exploits vulnerabilities previously found in Chrome, Firefox and Microsoft Defender.
 
@@ -12,7 +11,6 @@ The 'Heliconia' framework, with apparent ties to a Spanish IT company, exploits 
  - [https://www.zdnet.com/article/cyber-monday-headphone-deals-still-available-november-30-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyber-monday-headphone-deals-still-available-november-30-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 22:09:00+00:00
- - tags: None
 
 Everyone deserves a new pair of headphones for the holidays -- especially if they're at half the price. Black Friday and Cyber Monday may be over, but the best part about Thanksgiving are the leftovers -- and here are the best leftover deals on headphones and wireless earbuds.
 
@@ -20,7 +18,6 @@ Everyone deserves a new pair of headphones for the holidays -- especially if the
  - [https://www.zdnet.com/article/best-holiday-headphone-deals-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-holiday-headphone-deals-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 22:09:00+00:00
- - tags: None
 
 Everyone deserves a new pair of headphones for the holidays -- especially if they're at half the price. Black Friday and Cyber Monday may be over, but the best part about Thanksgiving are the leftovers -- and here are the best leftover deals on headphones and wireless earbuds.
 
@@ -28,7 +25,6 @@ Everyone deserves a new pair of headphones for the holidays -- especially if the
  - [https://www.zdnet.com/article/airpods-cyber-monday-deals-still-available-november-30-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/airpods-cyber-monday-deals-still-available-november-30-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 22:01:00+00:00
- - tags: None
 
 AirPods are on everyone's wishlist. The buds that rarely go on sale are still spreading holiday cheer through savings and their renowned sound quality. Here are the best AirPods deals we found after Cyber Monday.
 
@@ -36,7 +32,6 @@ AirPods are on everyone's wishlist. The buds that rarely go on sale are still sp
  - [https://www.zdnet.com/article/best-holiday-airpods-deals-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-holiday-airpods-deals-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 22:01:00+00:00
- - tags: None
 
 AirPods are on everyone's wishlist. The buds that rarely go on sale are still spreading holiday cheer through savings and their renowned sound quality. Here are the best AirPods deals we found after Cyber Monday.
 
@@ -44,7 +39,6 @@ AirPods are on everyone's wishlist. The buds that rarely go on sale are still sp
  - [https://www.zdnet.com/article/you-can-use-an-ai-time-machine-to-see-what-youd-look-like-in-different-eras-throughout-history/#ftag=RSSbaffb68](https://www.zdnet.com/article/you-can-use-an-ai-time-machine-to-see-what-youd-look-like-in-different-eras-throughout-history/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 21:59:00+00:00
- - tags: None
 
 A TikTok trend popularized the MyHeritage's AI Time Machine, which generates realistic photos of what you would have looked like in past eras.
 
@@ -52,7 +46,6 @@ A TikTok trend popularized the MyHeritage's AI Time Machine, which generates rea
  - [https://www.zdnet.com/home-and-office/home-entertainment/cyber-monday-gaming-deals-still-available-november-30-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/cyber-monday-gaming-deals-still-available-november-30-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 21:56:00+00:00
- - tags: None
 
 Get a jump on your Christmas list with these awesome Cyber Monday 2022 deals still available on gaming laptops, consoles, and accessories. Retailers like Amazon, Best Buy, and Target discounted everything you need.
 
@@ -60,7 +53,6 @@ Get a jump on your Christmas list with these awesome Cyber Monday 2022 deals sti
  - [https://www.zdnet.com/home-and-office/home-entertainment/best-holiday-gaming-deals-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/best-holiday-gaming-deals-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 21:56:00+00:00
- - tags: None
 
 Get a jump on your Christmas list with these awesome Cyber Monday 2022 deals still available on gaming laptops, consoles, and accessories. Retailers like Amazon, Best Buy, and Target discounted everything you need.
 
@@ -68,7 +60,6 @@ Get a jump on your Christmas list with these awesome Cyber Monday 2022 deals sti
  - [https://www.zdnet.com/article/best-cyber-monday-deals-still-available-november-30-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-cyber-monday-deals-still-available-november-30-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 21:31:00+00:00
- - tags: None
 
 Even though Cyber Monday is over, plenty of deals are still available. Check out our pick of the best Cyber Monday tech deals to score savings on laptops, earbuds, and more.
 
@@ -76,7 +67,6 @@ Even though Cyber Monday is over, plenty of deals are still available. Check out
  - [https://www.zdnet.com/article/best-holiday-deals-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-holiday-deals-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 21:31:00+00:00
- - tags: None
 
 Even though Cyber Monday is over, plenty of deals are still available. Check out our pick of the best Cyber Monday tech deals to score savings on laptops, earbuds, and more.
 
@@ -84,7 +74,6 @@ Even though Cyber Monday is over, plenty of deals are still available. Check out
  - [https://www.zdnet.com/article/how-to-add-a-quick-access-app-launcher-to-the-macos-dock/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-add-a-quick-access-app-launcher-to-the-macos-dock/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 20:59:58+00:00
- - tags: None
 
 If you want to work more efficiently, here's how to access your apps from both the left and right side of the display.
 
@@ -92,7 +81,6 @@ If you want to work more efficiently, here's how to access your apps from both t
  - [https://www.zdnet.com/article/you-can-use-an-ai-time-machine-to-see-what-youd-like-in-different-eras-throughout-history/#ftag=RSSbaffb68](https://www.zdnet.com/article/you-can-use-an-ai-time-machine-to-see-what-youd-like-in-different-eras-throughout-history/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 20:55:48+00:00
- - tags: None
 
 A TikTok trend popularized the MyHeritage's AI Time Machine, which generates realistic photos of what you would have looked like in past eras.
 
@@ -100,7 +88,6 @@ A TikTok trend popularized the MyHeritage's AI Time Machine, which generates rea
  - [https://www.zdnet.com/home-and-office/home-entertainment/hisense-65-inch-u8h-4k-tv-review/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/hisense-65-inch-u8h-4k-tv-review/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 20:45:00+00:00
- - tags: None
 
 The Hisense U8H has given me plenty of reasons to shoulder off its quirks and remain as my main living room TV.
 
@@ -108,7 +95,6 @@ The Hisense U8H has given me plenty of reasons to shoulder off its quirks and re
  - [https://www.zdnet.com/article/what-is-macos-stage-manager-and-how-do-you-enable-it/#ftag=RSSbaffb68](https://www.zdnet.com/article/what-is-macos-stage-manager-and-how-do-you-enable-it/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 20:31:38+00:00
- - tags: None
 
 Jack Wallen explains what MacOS Stage Manager is good for and how to enable it to make your workflow more efficient.
 
@@ -116,7 +102,6 @@ Jack Wallen explains what MacOS Stage Manager is good for and how to enable it t
  - [https://www.zdnet.com/article/singapore-releases-blueprint-to-combat-ransomware-attacks/#ftag=RSSbaffb68](https://www.zdnet.com/article/singapore-releases-blueprint-to-combat-ransomware-attacks/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 19:38:47+00:00
- - tags: None
 
 Inter-agency task force set up to boost the country's counter-ransomware efforts offers guidelines on how to mitigate such attacks, including a reference "kill chain" and recommendations on whether to pay the ransom.
 
@@ -124,7 +109,6 @@ Inter-agency task force set up to boost the country's counter-ransomware efforts
  - [https://www.zdnet.com/article/dont-waste-your-money-on-these-apple-products-december-2022-edition/#ftag=RSSbaffb68](https://www.zdnet.com/article/dont-waste-your-money-on-these-apple-products-december-2022-edition/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 19:15:00+00:00
- - tags: None
 
 Here's what you should and shouldn't buy from Apple this month.
 
@@ -132,7 +116,6 @@ Here's what you should and shouldn't buy from Apple this month.
  - [https://www.zdnet.com/article/best-compact-cameras/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-compact-cameras/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 18:53:00+00:00
- - tags: None
 
 Whether it is for travel or work, the best compact cameras are built for a life on the go. They are small enough to manage yet don't sacrifice features like zoom, 4K filming, and vlogging.
 
@@ -140,7 +123,6 @@ Whether it is for travel or work, the best compact cameras are built for a life 
  - [https://www.zdnet.com/article/ransomware-smbs-remain-key-security-concerns-amidst-focus-on-critical-infrastructures/#ftag=RSSbaffb68](https://www.zdnet.com/article/ransomware-smbs-remain-key-security-concerns-amidst-focus-on-critical-infrastructures/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 18:30:13+00:00
- - tags: None
 
 Countries including Japan and Singapore see growing impact of ransomware attacks, where small and midsize businesses and critical infrastructures are of particular concern.
 
@@ -148,7 +130,6 @@ Countries including Japan and Singapore see growing impact of ransomware attacks
  - [https://www.zdnet.com/home-and-office/rural-and-southern-us-states-pay-the-most-for-the-worst-quality-internet-a-study-finds/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/rural-and-southern-us-states-pay-the-most-for-the-worst-quality-internet-a-study-finds/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 18:21:38+00:00
- - tags: None
 
 Rural Americans are paying more money for slower internet speeds, while urbanized states pay less for faster internet, widening the digital divide
 
@@ -156,7 +137,6 @@ Rural Americans are paying more money for slower internet speeds, while urbanize
  - [https://www.zdnet.com/article/apple-cyber-monday-deals-still-available-november-30-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-cyber-monday-deals-still-available-november-30-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 18:21:00+00:00
- - tags: None
 
 If someone on your holiday shopping list already owns an Apple device, they'll be ecstatic to find another Apple product under the tree. If you want to buy an Apple product without breaking the bank, here are some great Apple Cyber Monday deals.
 
@@ -164,7 +144,6 @@ If someone on your holiday shopping list already owns an Apple device, they'll b
  - [https://www.zdnet.com/article/amazon-cyber-monday-deals-still-available-november-30-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/amazon-cyber-monday-deals-still-available-november-30-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 18:20:00+00:00
- - tags: None
 
 Amazon's Cyber Monday 2022 came and went, but the deals are still going strong. Shop deals and score big savings on top tech items and gifts.
 
@@ -172,7 +151,6 @@ Amazon's Cyber Monday 2022 came and went, but the deals are still going strong. 
  - [https://www.zdnet.com/article/you-can-now-get-your-personalized-year-end-music-round-up-with-both-spotify-or-apple-music/#ftag=RSSbaffb68](https://www.zdnet.com/article/you-can-now-get-your-personalized-year-end-music-round-up-with-both-spotify-or-apple-music/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 17:56:00+00:00
- - tags: None
 
 Spotify Wrapped and Apple Music Replay are here to give your personalized year-end music round-up.
 
@@ -180,7 +158,6 @@ Spotify Wrapped and Apple Music Replay are here to give your personalized year-e
  - [https://www.zdnet.com/article/best-gaming-vpn/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-gaming-vpn/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 17:52:00+00:00
- - tags: None
 
 Are you a casual gamer or Twitch viewer seeking secure and fast ways to enjoy gaming? The best gaming VPNs offer easy to use apps, quick connection speeds, and works on multiple platforms.
 
@@ -188,7 +165,6 @@ Are you a casual gamer or Twitch viewer seeking secure and fast ways to enjoy ga
  - [https://www.zdnet.com/article/how-to-unsubscribe-from-emails-on-gmail-outlook-and-more/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-unsubscribe-from-emails-on-gmail-outlook-and-more/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 17:41:49+00:00
- - tags: None
 
 This is your yearly reminder that you do have the power to unsubscribe from that flood of emails you're not even sure you signed up for.
 
@@ -196,7 +172,6 @@ This is your yearly reminder that you do have the power to unsubscribe from that
  - [https://www.zdnet.com/article/hp-cyber-week-sale-monitors-laptops-deal-sale-coupon-code/#ftag=RSSbaffb68](https://www.zdnet.com/article/hp-cyber-week-sale-monitors-laptops-deal-sale-coupon-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 17:10:00+00:00
- - tags: None
 
 You can save big on HP monitors, PCs, and accessories with the best Cyber Monday deals still available.
 
@@ -204,7 +179,6 @@ You can save big on HP monitors, PCs, and accessories with the best Cyber Monday
  - [https://www.zdnet.com/home-and-office/best-cable-management/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/best-cable-management/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 16:49:00+00:00
- - tags: None
 
 Don't trip over wayward cords and cables. The best cable management and cord storage options can keep your desk neat, tidy, and attractive for years to come.
 
@@ -212,7 +186,6 @@ Don't trip over wayward cords and cables. The best cable management and cord sto
  - [https://www.zdnet.com/article/this-cruel-email-hacking-gang-aims-to-tug-on-your-heartstrings-and-steal-your-cash/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-cruel-email-hacking-gang-aims-to-tug-on-your-heartstrings-and-steal-your-cash/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 15:20:26+00:00
- - tags: None
 
 Crooks hack into email accounts then use the the address book to send email to contacts with heart-wrenching stories.
 
@@ -220,7 +193,6 @@ Crooks hack into email accounts then use the the address book to send email to c
  - [https://www.zdnet.com/article/now-aws-will-let-you-simulate-entire-cities-in-the-cloud/#ftag=RSSbaffb68](https://www.zdnet.com/article/now-aws-will-let-you-simulate-entire-cities-in-the-cloud/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 15:10:58+00:00
- - tags: None
 
 Amazon Web Services lets developers run large urban simulations across up to 10 EC2 instances.
 
@@ -228,7 +200,6 @@ Amazon Web Services lets developers run large urban simulations across up to 10 
  - [https://www.zdnet.com/home-and-office/work-life/kindle-scribe-tips-9-ways-to-get-the-most-out-of-amazons-digital-notebook/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/work-life/kindle-scribe-tips-9-ways-to-get-the-most-out-of-amazons-digital-notebook/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 14:34:00+00:00
- - tags: None
 
 From creating new notebooks to creating notes in your favorite book, there's a lot to learn about Amazon's new Kindle Scribe.
 
@@ -236,7 +207,6 @@ From creating new notebooks to creating notes in your favorite book, there's a l
  - [https://www.zdnet.com/article/iphone-14-pro-supplies-are-going-to-be-lower-than-expected-says-analyst/#ftag=RSSbaffb68](https://www.zdnet.com/article/iphone-14-pro-supplies-are-going-to-be-lower-than-expected-says-analyst/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 13:02:35+00:00
- - tags: None
 
 Manufacturing disruption will mean there are fewer iPhone 14 Pro and iPhone 14 Pro Max handsets to sell over the next few months, according to a noted Apple analyst.
 
@@ -244,7 +214,6 @@ Manufacturing disruption will mean there are fewer iPhone 14 Pro and iPhone 14 P
  - [https://www.zdnet.com/article/cornings-gorilla-glass-victus-2-promises-better-resistance-to-drops-on-concrete/#ftag=RSSbaffb68](https://www.zdnet.com/article/cornings-gorilla-glass-victus-2-promises-better-resistance-to-drops-on-concrete/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 13:00:23+00:00
- - tags: None
 
 The company's trademark glass for smartphones and other mobile devices just received another upgrade designed to help it better survive hard drops on rough surfaces like concrete.
 
@@ -252,7 +221,6 @@ The company's trademark glass for smartphones and other mobile devices just rece
  - [https://www.zdnet.com/article/cornings-new-gorilla-glass-can-now-survive-concrete-drops/#ftag=RSSbaffb68](https://www.zdnet.com/article/cornings-new-gorilla-glass-can-now-survive-concrete-drops/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 13:00:00+00:00
- - tags: None
 
 The company's trademark glass for smartphones and other mobile devices just received another upgrade designed to help it better survive hard drops on rough surfaces like concrete.
 
@@ -260,7 +228,6 @@ The company's trademark glass for smartphones and other mobile devices just rece
  - [https://www.zdnet.com/article/cornings-new-gorilla-glass-can-now-survive-6-foot-concrete-drops/#ftag=RSSbaffb68](https://www.zdnet.com/article/cornings-new-gorilla-glass-can-now-survive-6-foot-concrete-drops/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 13:00:00+00:00
- - tags: None
 
 The company's trademark glass for smartphones and other mobile devices just received another upgrade designed to help it better survive hard drops on rough surfaces like concrete.
 
@@ -268,7 +235,6 @@ The company's trademark glass for smartphones and other mobile devices just rece
  - [https://www.zdnet.com/article/microsoft-tests-windows-vpn-notification-taskbar-search-updates/#ftag=RSSbaffb68](https://www.zdnet.com/article/microsoft-tests-windows-vpn-notification-taskbar-search-updates/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 11:52:21+00:00
- - tags: None
 
 Microsoft continues tweaking the search experience on the Windows Taskbar. Is a search button, box or no icon better?
 
@@ -276,7 +242,6 @@ Microsoft continues tweaking the search experience on the Windows Taskbar. Is a 
  - [https://www.zdnet.com/article/epson-is-going-to-stop-selling-laser-printers-heres-why/#ftag=RSSbaffb68](https://www.zdnet.com/article/epson-is-going-to-stop-selling-laser-printers-heres-why/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 10:58:34+00:00
- - tags: None
 
 Epson will stop selling laser printers by 2026 and switch fully to more inkjet printers.
 
@@ -284,6 +249,5 @@ Epson will stop selling laser printers by 2026 and switch fully to more inkjet p
  - [https://www.zdnet.com/home-and-office/hp-cyber-week-sale-monitors-laptops-deal-sale-coupon-code/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/hp-cyber-week-sale-monitors-laptops-deal-sale-coupon-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-30 10:42:52+00:00
- - tags: None
 
 You can save big on monitors, PCs, and accessories this week at HP.

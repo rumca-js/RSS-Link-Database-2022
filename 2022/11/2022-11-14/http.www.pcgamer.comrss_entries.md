@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## Nerf is making a $170 gun based on a League of Legends rocket launcher
  - [https://www.pcgamer.com/nerf-is-making-a-dollar170-gun-based-on-a-league-of-legends-rocket-launcher](https://www.pcgamer.com/nerf-is-making-a-dollar170-gun-based-on-a-league-of-legends-rocket-launcher)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-14 23:05:40+00:00
- - tags: None
 
 Fishbones, inspired by Jinx, is now available for preorder.
 
@@ -12,7 +11,6 @@ Fishbones, inspired by Jinx, is now available for preorder.
  - [https://www.pcgamer.com/call-of-duty-warzone-2-launch-times-preload](https://www.pcgamer.com/call-of-duty-warzone-2-launch-times-preload)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-14 21:39:53+00:00
- - tags: None
 
 You can drop in to Warzone 2 starting this week after old Warzone goes down for maintenance.
 
@@ -20,7 +18,6 @@ You can drop in to Warzone 2 starting this week after old Warzone goes down for 
  - [https://www.pcgamer.com/call-of-duty-warzone-2-preload-pc-steam-battlenet](https://www.pcgamer.com/call-of-duty-warzone-2-preload-pc-steam-battlenet)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-14 21:21:05+00:00
- - tags: None
 
 Call of Duty: Warzone 2.0 Steam page reveals file size, tiny GPU requirement.
 
@@ -28,7 +25,6 @@ Call of Duty: Warzone 2.0 Steam page reveals file size, tiny GPU requirement.
  - [https://www.pcgamer.com/the-game-awards-2022-nominations](https://www.pcgamer.com/the-game-awards-2022-nominations)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-14 21:13:52+00:00
- - tags: None
 
 Elden Ring and Horizon Forbidden West round out the top three.
 
@@ -36,7 +32,6 @@ Elden Ring and Horizon Forbidden West round out the top three.
  - [https://www.pcgamer.com/this-blimp-survival-games-demo-was-so-popular-the-devs-want-to-expand-the-scope](https://www.pcgamer.com/this-blimp-survival-games-demo-was-so-popular-the-devs-want-to-expand-the-scope)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-14 21:08:55+00:00
- - tags: None
 
 The developer of survival game Forever Skies is delaying the Early Access release until 2023 to add more to it.
 
@@ -44,7 +39,6 @@ The developer of survival game Forever Skies is delaying the Early Access releas
  - [https://www.pcgamer.com/the-best-new-batman-game-might-be-this-doom-mod](https://www.pcgamer.com/the-best-new-batman-game-might-be-this-doom-mod)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-14 19:38:30+00:00
- - tags: None
 
 Batman Rogue City is an upcoming full conversion mod for Doom 2, and it looks amazing. It even has a drivable batmobile.
 
@@ -52,7 +46,6 @@ Batman Rogue City is an upcoming full conversion mod for Doom 2, and it looks am
  - [https://www.pcgamer.com/the-worlds-biggest-esports-company-is-consulting-legal-counsel-over-ftx-bankruptcy](https://www.pcgamer.com/the-worlds-biggest-esports-company-is-consulting-legal-counsel-over-ftx-bankruptcy)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-14 18:06:47+00:00
- - tags: None
 
 TSM signed a $210 million sponsorship deal with cryptocurrency exchange FTX in 2021.
 
@@ -60,7 +53,6 @@ TSM signed a $210 million sponsorship deal with cryptocurrency exchange FTX in 2
  - [https://www.pcgamer.com/2022-years-later-the-bible-gets-a-steam-version](https://www.pcgamer.com/2022-years-later-the-bible-gets-a-steam-version)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-14 18:05:31+00:00
- - tags: None
 
 And gamers are already heading to hell for speedrunning the achievements.
 
@@ -68,7 +60,6 @@ And gamers are already heading to hell for speedrunning the achievements.
  - [https://www.pcgamer.com/what-the-golf-dev-has-a-new-vr-game-that-turns-your-precious-hands-into-wooden-smacking-sticks](https://www.pcgamer.com/what-the-golf-dev-has-a-new-vr-game-that-turns-your-precious-hands-into-wooden-smacking-sticks)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-14 16:51:09+00:00
- - tags: None
 
 What the Bat? lets you make toast, pet dogs and brush your teeth with clubs for hands.
 
@@ -76,7 +67,6 @@ What the Bat? lets you make toast, pet dogs and brush your teeth with clubs for 
  - [https://www.pcgamer.com/the-witcher-3s-next-gen-update-brings-netflix-skins-and-integrated-mods-next-month](https://www.pcgamer.com/the-witcher-3s-next-gen-update-brings-netflix-skins-and-integrated-mods-next-month)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-14 16:39:52+00:00
- - tags: None
 
 But which Geralt actor are we getting?
 
@@ -84,7 +74,6 @@ But which Geralt actor are we getting?
  - [https://www.pcgamer.com/amds-innovative-new-rdna-3-gpu-started-life-as-a-doodle-during-a-boring-meeting](https://www.pcgamer.com/amds-innovative-new-rdna-3-gpu-started-life-as-a-doodle-during-a-boring-meeting)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-14 15:38:22+00:00
- - tags: None
 
 "Start with a napkin. Then it's PowerPoint, and then the engineering teams just do it."
 
@@ -92,7 +81,6 @@ But which Geralt actor are we getting?
  - [https://www.pcgamer.com/sonic-frontiers-combo-crackerjack-achievement](https://www.pcgamer.com/sonic-frontiers-combo-crackerjack-achievement)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-14 15:32:07+00:00
- - tags: None
 
 The best method to complete this tricky challenge.
 
@@ -100,7 +88,6 @@ The best method to complete this tricky challenge.
  - [https://www.pcgamer.com/amd-infinity-links-rdna-3](https://www.pcgamer.com/amd-infinity-links-rdna-3)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-14 15:04:20+00:00
- - tags: None
 
 A new interconnect technology for massive bandwidth in a miniscule footprint.
 
@@ -108,7 +95,6 @@ A new interconnect technology for massive bandwidth in a miniscule footprint.
  - [https://www.pcgamer.com/flat-eye-review](https://www.pcgamer.com/flat-eye-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-14 15:00:19+00:00
- - tags: None
 
 What will you do to keep your Icelandic pit stop running?
 
@@ -116,7 +102,6 @@ What will you do to keep your Icelandic pit stop running?
  - [https://www.pcgamer.com/who-is-csgos-player-of-the-decade-its-s1mple](https://www.pcgamer.com/who-is-csgos-player-of-the-decade-its-s1mple)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-14 14:30:33+00:00
- - tags: None
 
 Na'vi's Ukrainian sniper has been both outstanding and consistent.
 
@@ -124,7 +109,6 @@ Na'vi's Ukrainian sniper has been both outstanding and consistent.
  - [https://www.pcgamer.com/pentiment-review](https://www.pcgamer.com/pentiment-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-14 14:00:37+00:00
- - tags: None
 
 A brilliant murder mystery that understands class, community, and the march of history.
 
@@ -132,7 +116,6 @@ A brilliant murder mystery that understands class, community, and the march of h
  - [https://www.pcgamer.com/free-superman-game-ripped-off-by-supervillains-and-sold-on-steam](https://www.pcgamer.com/free-superman-game-ripped-off-by-supervillains-and-sold-on-steam)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-14 13:10:48+00:00
- - tags: None
 
 Is it a bird? Is it a plane? No! It's copyright infringeman!
 
@@ -140,7 +123,6 @@ Is it a bird? Is it a plane? No! It's copyright infringeman!
  - [https://www.pcgamer.com/call-of-duty-my-warzone-legacy](https://www.pcgamer.com/call-of-duty-my-warzone-legacy)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-14 12:57:52+00:00
- - tags: None
 
 Claim your CoD highlight reel.
 
@@ -148,7 +130,6 @@ Claim your CoD highlight reel.
  - [https://www.pcgamer.com/blade-and-soul-developer-has-a-new-mmo-coming-out-in-2024](https://www.pcgamer.com/blade-and-soul-developer-has-a-new-mmo-coming-out-in-2024)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-14 12:07:25+00:00
- - tags: None
 
 Project LLL is NCSoft's latest endeavour.
 
@@ -156,7 +137,6 @@ Project LLL is NCSoft's latest endeavour.
  - [https://www.pcgamer.com/one-of-the-biggest-annual-events-in-lords-mobile-is-upon-us](https://www.pcgamer.com/one-of-the-biggest-annual-events-in-lords-mobile-is-upon-us)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-14 11:27:25+00:00
- - tags: None
 
 Ultimate Guild 2022 will set the world ablaze once more, with plenty of prizes at stake.
 
@@ -164,7 +144,6 @@ Ultimate Guild 2022 will set the world ablaze once more, with plenty of prizes a
  - [https://www.pcgamer.com/wordle-513-answer-november-14](https://www.pcgamer.com/wordle-513-answer-november-14)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-14 06:05:46+00:00
- - tags: None
 
 Wordle today: The solution and a hint for the #513 puzzle.
 
@@ -172,7 +151,6 @@ Wordle today: The solution and a hint for the #513 puzzle.
  - [https://www.pcgamer.com/microsoft-flight-simulators-40th-anniversary-edition-is-full-of-hardware-improvements](https://www.pcgamer.com/microsoft-flight-simulators-40th-anniversary-edition-is-full-of-hardware-improvements)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-14 05:26:35+00:00
- - tags: None
 
 Get ready for the smoothest flight yet.
 
@@ -180,7 +158,6 @@ Get ready for the smoothest flight yet.
  - [https://www.pcgamer.com/our-favourite-mmo-mouse-just-got-better](https://www.pcgamer.com/our-favourite-mmo-mouse-just-got-better)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-14 05:14:20+00:00
- - tags: None
 
 Super customisable, but with a price-tag to match.
 
@@ -188,7 +165,6 @@ Super customisable, but with a price-tag to match.
  - [https://www.pcgamer.com/the-profanity-filter-in-tactics-ogre-reborn-is-so-strict-you-cant-use-one-of-the-default-names](https://www.pcgamer.com/the-profanity-filter-in-tactics-ogre-reborn-is-so-strict-you-cant-use-one-of-the-default-names)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-14 04:30:06+00:00
- - tags: None
 
 "Flamescale" is a banned word.
 
@@ -196,7 +172,6 @@ Super customisable, but with a price-tag to match.
  - [https://www.pcgamer.com/saints-and-seducers-extended-cut-makes-skyrim-anniversary-edition-worthwhile-at-last](https://www.pcgamer.com/saints-and-seducers-extended-cut-makes-skyrim-anniversary-edition-worthwhile-at-last)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-14 02:11:30+00:00
- - tags: None
 
 A fully voiced replacement for a Creation Club quest.
 
@@ -204,7 +179,6 @@ A fully voiced replacement for a Creation Club quest.
  - [https://www.pcgamer.com/heroes-of-might-and-magic-3-specifically-has-a-board-game-adaptation-on-the-way](https://www.pcgamer.com/heroes-of-might-and-magic-3-specifically-has-a-board-game-adaptation-on-the-way)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-14 01:33:42+00:00
- - tags: None
 
 "We are going back to Erathia - are you coming?"
 
@@ -212,7 +186,6 @@ A fully voiced replacement for a Creation Club quest.
  - [https://www.pcgamer.com/skyrim-console-commands-let-you-cheat-and-do-other-stuff](https://www.pcgamer.com/skyrim-console-commands-let-you-cheat-and-do-other-stuff)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-14 01:19:52+00:00
- - tags: None
 
 God mode, no clip, and and maxed out skills are just a few Skyrim console commands away.
 
@@ -220,6 +193,5 @@ God mode, no clip, and and maxed out skills are just a few Skyrim console comman
  - [https://www.pcgamer.com/five-new-steam-games-you-probably-missed-november-14-2022](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-november-14-2022)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-14 00:05:05+00:00
- - tags: None
 
 Sorting through every new game on Steam so you don't have to.

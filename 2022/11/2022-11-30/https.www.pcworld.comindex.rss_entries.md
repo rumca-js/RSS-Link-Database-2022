@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## Hands on with Microsoft Designer, an AI art masterpiece
  - [https://www.pcworld.com/article/1419066/microsoft-designer-is-almost-a-masterpiece-already.html](https://www.pcworld.com/article/1419066/microsoft-designer-is-almost-a-masterpiece-already.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-30 21:59:02+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>The upcoming Microsoft Designer is a visual art design tool that you simply <em>must </em>try for yourself. It&rsquo;s simply one of the best consumer apps Microsoft has ever made, following in the footsteps of Clipchamp.</p>
@@ -133,7 +132,6 @@ Microsoft 365, Utilities</div>
  - [https://www.pcworld.com/article/1418844/windows-11s-borked-gaming-performance-is-mostly-fixed-microsoft-says.html](https://www.pcworld.com/article/1418844/windows-11s-borked-gaming-performance-is-mostly-fixed-microsoft-says.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-30 16:23:23+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>A couple of weeks ago Microsoft confirmed what gamers suspected: the big 2022 update to Windows 11 was affecting the performance of high-end games. It said as much in an official bug-tracker, and <a href="https://www.pcworld.com/article/1379190/the-latest-windows-11-update-impacts-game-performance.html" rel="noreferrer noopener" target="_blank">delayed the rollout of the big 2022 Update</a> for quite a few users. According to the same changelog, the issue isn&rsquo;t fully resolved, but it&rsquo;s now limited to only &ldquo;small subset of games and apps.&rdquo; So the latest update is heading out to a lot more users. </p>
@@ -151,7 +149,6 @@ Windows 11</div>
  - [https://www.pcworld.com/article/1378212/vanture-element-3-dash-cam-review.html](https://www.pcworld.com/article/1378212/vanture-element-3-dash-cam-review.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-30 15:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><div class="review" id="review-body"><img alt="Editors' Choice" class="review-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" /><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
@@ -383,7 +380,6 @@ Dash Cams</div>
  - [https://www.pcworld.com/article/1418684/keychron-shrinks-its-premium-keyboards-with-new-s1-design.html](https://www.pcworld.com/article/1418684/keychron-shrinks-its-premium-keyboards-with-new-s1-design.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-30 15:19:03+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Keychron continues to wow us with its <a href="https://www.pcworld.com/article/823922/keychron-q5-mechanical-keyboard-review.html" rel="noreferrer noopener" target="_blank">Q series keyboards</a>, which incorporate premium features from boutique mechanical builds into designs that are attainable (if not exactly cheap). While they&rsquo;re all lookers, the Q series keyboards are a long way from portable, and they won&rsquo;t appeal unless you&rsquo;re already a fan of big, chunky mechanical keyboards. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.keychron.com/products/keychron-s1-qmk-custom-mechanical-keyboard?variant=40299845910617&amp;xcust=2-1-1418684-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Enter the Keychron S1</a>: a new design that combines the low-profile looks of Keychron&rsquo;s portable wireless designs with the more premium materials and features of the pricier boards. </p>
@@ -408,7 +404,6 @@ Keyboards</div>
  - [https://www.pcworld.com/article/1418592/this-4k-gigabyte-gaming-laptop-is-a-whopping-1000-off.html](https://www.pcworld.com/article/1418592/this-4k-gigabyte-gaming-laptop-is-a-whopping-1000-off.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-30 14:54:50+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you&rsquo;re on the hunt for serious graphics power, we&rsquo;ve got a killer deal for you today. Newegg&rsquo;s selling the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.newegg.com/p/N82E16834725204&amp;xcust=2-1-1418592-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Gigabyte Aorus 15 XE5 for $1,299</a>, which saves you a whopping $1,000. Not only does this laptop have a spacious screen with skinny bezels, but it&rsquo;s also pretty darn powerful&mdash;it&rsquo;s rare to see a laptop with an RTX 3070 Ti inside going for this cheap. Let&rsquo;s go ahead and take a peek under the hood.</p>
@@ -429,7 +424,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/1404826/how-mastodon-and-federated-services-are-putting-social-media-back-in-your-hands.html](https://www.pcworld.com/article/1404826/how-mastodon-and-federated-services-are-putting-social-media-back-in-your-hands.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-30 11:45:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>The Internet is getting weird again. <a href="https://www.pcworld.com/article/1381758/dont-get-scammed-why-you-cant-trust-elon-musks-twitter-right-now.html">Twitter&rsquo;s recent stumbles</a> under new ownership have surprisingly shined a quick light on the world of federated and decentralized social networking services, like Mastodon. These services are peer-to-peer or community-run networks, depending on the particulars. Federated services are services that are managed by individual organizations or &ldquo;offices,&rdquo; such as the Post Office, email, or self-hosted forums.</p>
@@ -749,7 +743,6 @@ Social Networking Apps</div>
  - [https://www.pcworld.com/article/1389780/best-home-office-monitors.html](https://www.pcworld.com/article/1389780/best-home-office-monitors.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-30 11:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Working from home has gone from being a growing trend to a full-scale phenomenon: One recent Gallup poll <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://news.gallup.com/poll/355907/remote-work-persisting-trending-permanent.aspx&amp;xcust=2-2-1389780-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">found 1 in 4 full-time U.S. employees works entirely from a home office</a>. There are many perks to a work-from-home arrangement, to be sure, but there can also be downsides: For example, there&rsquo;s a good chance you&rsquo;ll need to supply your own monitor. Fortunately, there are many great home office monitors to choose from, and the most affordable models start at just $100.</p>
@@ -1185,7 +1178,6 @@ Monitors</div>
  - [https://www.pcworld.com/article/1396287/get-best-of-web-pricing-on-this-comptia-training-during-our-extended-cyber-monday-sale.html](https://www.pcworld.com/article/1396287/get-best-of-web-pricing-on-this-comptia-training-during-our-extended-cyber-monday-sale.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-30 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Have you ever wanted to do more in the IT field? You have more opportunities to invest in your professional development when working from home. For example, we&rsquo;re offering a&nbsp;<a href="https://shop.pcworld.com/sales/the-complete-2023-comptia-certification-course-super-bundle?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=the-complete-2023-comptia-certification-course-super-bundle&amp;utm_term=scsf-458542&amp;utm_content=a0x1P000004YrXhQAK&amp;scsonar=1" rel="noreferrer noopener" target="_blank">13-part CompTIA exam prep bundle</a>&nbsp;for just $49 as part of our extended Cyber Monday Sale, which runs through November 30 &mdash; no coupon necessary.<br />.</p>

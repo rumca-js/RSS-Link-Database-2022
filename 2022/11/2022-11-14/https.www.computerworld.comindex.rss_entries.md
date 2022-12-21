@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Tech layoffs in 2022: A timeline
  - [https://www.computerworld.com/article/3679733/tech-layoffs-in-2022-a-timeline.html#tk.rss_all](https://www.computerworld.com/article/3679733/tech-layoffs-in-2022-a-timeline.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-14 21:40:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3680068/amazon-to-layoff-10-000-employees-report.html#tk.rss_all](https://www.computerworld.com/article/3680068/amazon-to-layoff-10-000-employees-report.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-14 21:11:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -24,7 +22,6 @@
  - [https://www.computerworld.com/article/3679694/do-you-really-know-whats-inside-your-ios-and-android-apps.html#tk.rss_all](https://www.computerworld.com/article/3679694/do-you-really-know-whats-inside-your-ios-and-android-apps.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-14 16:25:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -35,7 +32,6 @@
  - [https://www.computerworld.com/article/3679709/qa-rpi-president-says-chips-act-will-spur-quantum-computing-next-gen-tech.html#tk.rss_all](https://www.computerworld.com/article/3679709/qa-rpi-president-says-chips-act-will-spur-quantum-computing-next-gen-tech.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-14 11:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

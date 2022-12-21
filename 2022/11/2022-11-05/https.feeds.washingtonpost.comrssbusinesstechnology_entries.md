@@ -1,10 +1,9 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology
+# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
 
 ## Twitter co-founder apologizes for growing company ‘too quickly’
  - [https://www.washingtonpost.com/technology/2022/11/05/jack-dorsey-elon-musk-twitter/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/05/jack-dorsey-elon-musk-twitter/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-05 15:11:36+00:00
- - tags: None
 
 Co-founder Jack Dorsey says he has "responsibility for why everyone is in this situation"
 
@@ -12,7 +11,6 @@ Co-founder Jack Dorsey says he has "responsibility for why everyone is in this s
  - [https://www.washingtonpost.com/technology/2022/11/05/twitter-replacement-mastodon-social-reviews/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/05/twitter-replacement-mastodon-social-reviews/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-05 06:00:24+00:00
- - tags: None
 
 People are swapping Twitter for a tech-savvy replacement called Mastodon Social. But when they get there, many are underwhelmed and craving another alternative.
 
@@ -20,7 +18,6 @@ People are swapping Twitter for a tech-savvy replacement called Mastodon Social.
  - [https://www.washingtonpost.com/technology/2022/11/05/elon-musk-twitter/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/05/elon-musk-twitter/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-05 06:00:08+00:00
- - tags: None
 
 Elon Musk turned his hobby into a career when he purchased Twitter a week ago. Owners of Tesla and SpaceX, Musk has always been extremely engaged online.
 
@@ -28,6 +25,5 @@ Elon Musk turned his hobby into a career when he purchased Twitter a week ago. O
  - [https://www.washingtonpost.com/video-games/esports/2022/11/05/overwatch-2-grand-finals-san-francisco-shock-dallas-fuel/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/esports/2022/11/05/overwatch-2-grand-finals-san-francisco-shock-dallas-fuel/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-05 00:44:23+00:00
- - tags: None
 
 The Dallas Fuel victory over the San Francisco Shock marks the team's first Grand Finals victory. A new tank hero, Ramattra, was also announced at the event.

@@ -1,10 +1,9 @@
-# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA
+# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, Source language: en-US
 
 ## VRChat just got WAY BETTER, Full Body Tracking FOR QUEST 2!!
  - [https://www.youtube.com/watch?v=KKPfbpPYWQk](https://www.youtube.com/watch?v=KKPfbpPYWQk)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA
  - date published: 2022-11-29 22:04:07+00:00
- - tags: None
 
 Hello and welcome to, TUESDAY NEWSDAY! Your number one resource for the entire week's worth of VR news! Finally we got a good week of VR news! Full body trackers from Sony.. a bunch of updates coming to VRChat.. INCLUDING full body tracking support on Standalone. Meta runs into some good luck with selling Quest 2 in germany, Neurolink showcases are on their way and SO much more!
 

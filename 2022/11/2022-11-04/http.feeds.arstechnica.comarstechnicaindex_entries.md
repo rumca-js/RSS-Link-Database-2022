@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## IceCube neutrino analysis pegs possible galactic source for cosmic rays
  - [https://arstechnica.com/?p=1894039](https://arstechnica.com/?p=1894039)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-04 23:18:46+00:00
- - tags: None
 
 Physicists re-analyzed 10 years of data and found a tantalizing excess of 79 neutrinos.
 
@@ -12,7 +11,6 @@ Physicists re-analyzed 10 years of data and found a tantalizing excess of 79 neu
  - [https://arstechnica.com/?p=1895474](https://arstechnica.com/?p=1895474)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-04 22:02:53+00:00
- - tags: None
 
 New site provides all the finest points of nonsense philosophy, verbalized forever.
 
@@ -20,7 +18,6 @@ New site provides all the finest points of nonsense philosophy, verbalized forev
  - [https://arstechnica.com/?p=1895497](https://arstechnica.com/?p=1895497)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-04 21:41:01+00:00
- - tags: None
 
 HBO canceled the series due to high production costs and declining viewership.
 
@@ -28,7 +25,6 @@ HBO canceled the series due to high production costs and declining viewership.
  - [https://arstechnica.com/?p=1895502](https://arstechnica.com/?p=1895502)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-04 21:26:39+00:00
- - tags: None
 
 But the shots are only effective if people actually get them.
 
@@ -36,7 +32,6 @@ But the shots are only effective if people actually get them.
  - [https://arstechnica.com/?p=1895391](https://arstechnica.com/?p=1895391)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-04 19:47:25+00:00
- - tags: None
 
 Firmware updates are rare, but if ever a GPU was going to need one, it's Arc.
 
@@ -44,7 +39,6 @@ Firmware updates are rare, but if ever a GPU was going to need one, it's Arc.
  - [https://arstechnica.com/?p=1895335](https://arstechnica.com/?p=1895335)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-04 19:12:53+00:00
- - tags: None
 
 Pivot to paid features starts with Twitter Blue, reportedly launching next week.
 
@@ -52,7 +46,6 @@ Pivot to paid features starts with Twitter Blue, reportedly launching next week.
  - [https://arstechnica.com/?p=1895257](https://arstechnica.com/?p=1895257)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-04 18:50:59+00:00
- - tags: None
 
 Nicknamed Nixies, they're like MX Blacks, but stiffer and, purportedly, smoother.
 
@@ -60,7 +53,6 @@ Nicknamed Nixies, they're like MX Blacks, but stiffer and, purportedly, smoother
  - [https://arstechnica.com/?p=1894944](https://arstechnica.com/?p=1894944)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-04 18:26:18+00:00
- - tags: None
 
 Linus Åkesson's instrument sports custom software and a bellows made of floppy disks.
 
@@ -68,7 +60,6 @@ Linus Åkesson's instrument sports custom software and a bellows made of floppy 
  - [https://arstechnica.com/?p=1895159](https://arstechnica.com/?p=1895159)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-04 16:22:52+00:00
- - tags: None
 
 Some brand-new and months-old devices don't currently work with ads.
 
@@ -76,7 +67,6 @@ Some brand-new and months-old devices don't currently work with ads.
  - [https://arstechnica.com/?p=1895227](https://arstechnica.com/?p=1895227)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-04 15:56:07+00:00
- - tags: None
 
 Reducing servers and cloud services risks outages during peak traffic times.
 
@@ -84,7 +74,6 @@ Reducing servers and cloud services risks outages during peak traffic times.
  - [https://arstechnica.com/?p=1895218](https://arstechnica.com/?p=1895218)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-04 15:30:26+00:00
- - tags: None
 
 A "notable" number of players haven't downloaded the free upgrade, Bungie says.
 
@@ -92,7 +81,6 @@ A "notable" number of players haven't downloaded the free upgrade, Bungie says.
  - [https://arstechnica.com/?p=1895181](https://arstechnica.com/?p=1895181)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-04 14:47:42+00:00
- - tags: None
 
 Twitter staff plans to fight layoffs in a San Francisco court.
 
@@ -100,7 +88,6 @@ Twitter staff plans to fight layoffs in a San Francisco court.
  - [https://arstechnica.com/?p=1895146](https://arstechnica.com/?p=1895146)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-04 13:59:42+00:00
- - tags: None
 
 "The economic momentum of the company is around the Delta ships."
 
@@ -108,7 +95,6 @@ Twitter staff plans to fight layoffs in a San Francisco court.
  - [https://arstechnica.com/?p=1895162](https://arstechnica.com/?p=1895162)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-04 13:50:40+00:00
- - tags: None
 
 Concerns over ecological destruction have delayed desalination plans for years.
 
@@ -116,6 +102,5 @@ Concerns over ecological destruction have delayed desalination plans for years.
  - [https://arstechnica.com/?p=1894795](https://arstechnica.com/?p=1894795)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-04 11:00:31+00:00
- - tags: None
 
 "We’re eager to get the helicopter back out there and advance our rocket reusability."

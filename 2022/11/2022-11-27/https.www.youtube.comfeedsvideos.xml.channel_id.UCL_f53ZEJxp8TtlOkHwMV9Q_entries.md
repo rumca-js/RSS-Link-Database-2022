@@ -1,10 +1,9 @@
-# Source Jordan B Peterson, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
+# Source Jordan B Peterson, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q, Source language: en-US
 
 ## Exodus Clip: The Fear of God Is the Beginning of Wisdom
  - [https://www.youtube.com/watch?v=w0zLXEj-8EQ](https://www.youtube.com/watch?v=w0zLXEj-8EQ)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
  - date published: 2022-11-27 01:12:05+00:00
- - tags: None
 
 Get 50% off your DailyWire+ membership using code DW50 at checkout, and watch Exodus now: https://bit.ly/3i99F9l
 

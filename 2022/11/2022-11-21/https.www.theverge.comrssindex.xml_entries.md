@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Apple changed how reading books works in iOS 16, and I may never be happy again
  - [https://www.theverge.com/2022/11/21/23471306/apple-books-ios-16-page-flip-animation-sucks](https://www.theverge.com/2022/11/21/23471306/apple-books-ios-16-page-flip-animation-sucks)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-22 00:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Nilay Patel holds an iPhone 14 Pro in his hands." src="https://cdn.vox-cdn.com/thumbor/fy-1OSl08rP0neOAsPVBx3gB7kM=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71659548/226270_iPHONE_14_PHO_akrales_0030.0.jpg" />
@@ -21,7 +20,6 @@
  - [https://www.theverge.com/2022/11/21/23471827/apple-app-store-data-collection-analytics-personal-info-privacy](https://www.theverge.com/2022/11/21/23471827/apple-app-store-data-collection-analytics-personal-info-privacy)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-21 23:46:49+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/eYqZ0c_m283srxzRlmzfjkoh_pQ=/119x0:1952x1222/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71659501/Screenshot_2022_11_21_at_14.03.07.0.png" />
@@ -38,7 +36,6 @@
  - [https://www.theverge.com/23466456/amazon-black-friday-2022-deals-cyber-monday-tech-games-tv](https://www.theverge.com/23466456/amazon-black-friday-2022-deals-cyber-monday-tech-games-tv)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-21 22:51:41+00:00
- - tags: None
 
 <figure>
       <img alt="Google’s Pixel Buds Pro earbuds, in yellow lemongrass color, resting at the foot of their white charging case on a tabletop." src="https://cdn.vox-cdn.com/thumbor/iYwRuqLOBOqomCH1lG0lDWFheGA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71659281/DSCF8502.0.jpg" />
@@ -67,7 +64,6 @@
  - [https://www.theverge.com/2022/11/21/23472025/elon-musk-twitter-hiring-again-ending-layoffs](https://www.theverge.com/2022/11/21/23472025/elon-musk-twitter-hiring-again-ending-layoffs)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-21 22:50:03+00:00
- - tags: None
 
 <figure>
       <img alt="A photo illustration of Elon Musk making a thumbs-up gesture against a background of arrows pointing up." src="https://cdn.vox-cdn.com/thumbor/Qfz2k6Wv1D2hjM4H3QrX0jqzsy8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71659269/VRG_Illo_STK022_K_Radtke_Musk_Thumbs_Up.0.jpg" />
@@ -85,7 +81,6 @@
  - [https://www.theverge.com/2022/11/21/23471049/cop27-takeaways-egypt-climate-summit-united-nations](https://www.theverge.com/2022/11/21/23471049/cop27-takeaways-egypt-climate-summit-united-nations)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-21 22:04:41+00:00
- - tags: None
 
 <figure>
       <img alt="Protesters carry a sign that says “Pay your climate debt.”" src="https://cdn.vox-cdn.com/thumbor/LM9jbmm3cTLHnS1XoaV8eVB--dA=/0x0:5000x3333/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71659045/1244709202.0.jpg" />
@@ -104,7 +99,6 @@
  - [https://www.theverge.com/21530290/refurbished-tech-products-gadgets-where-to-buy-amazon-ebay](https://www.theverge.com/21530290/refurbished-tech-products-gadgets-where-to-buy-amazon-ebay)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-21 21:50:24+00:00
- - tags: None
 
 <figure>
       <img alt="Woman looking at new color background on watchOS 9 watchface on Series 8." src="https://cdn.vox-cdn.com/thumbor/SJPAr32y5y75EZUiuUcvo-gfc7k=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/67680074/226266_APPLE_WATCH_8_SE_PHO_akrales_0350.5.jpg" />
@@ -121,7 +115,6 @@
  - [https://www.theverge.com/21286781/best-video-call-apps-free](https://www.theverge.com/21286781/best-video-call-apps-free)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-21 21:02:20+00:00
- - tags: None
 
 <figure>
       <img alt="A computer showing a group of people having a video meeting; the computer is surrounded by an assortment of blue icons against a purple background." src="https://cdn.vox-cdn.com/thumbor/fQj6r0bHP5nOrtxHEULCvRhhAGc=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/66922524/VRG_ILL_4947_Zoom_secure_call.5.jpg" />
@@ -141,7 +134,6 @@
  - [https://www.theverge.com/2022/11/21/23471064/lg-oled-gaming-monitor-27-inch-qhd-1440p-price-features](https://www.theverge.com/2022/11/21/23471064/lg-oled-gaming-monitor-27-inch-qhd-1440p-price-features)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-21 20:55:43+00:00
- - tags: None
 
 <figure>
       <img alt="LG’s UltraGear OLED gaming monitor faces the viewer, displaying an abstract background." src="https://cdn.vox-cdn.com/thumbor/HQjrpEsSLoX7QvizYCxxqXBHoBo=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71658641/lgultragearoled.0.jpg" />
@@ -158,7 +150,6 @@
  - [https://www.theverge.com/2022/11/21/23470864/sony-honda-mobility-ps5-electric-car-ev-autonomous](https://www.theverge.com/2022/11/21/23470864/sony-honda-mobility-ps5-electric-car-ev-autonomous)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-21 20:36:39+00:00
- - tags: None
 
 <figure>
       <img alt="Sony’s Vision-S car is on the CES show floor with lots of people surrounding it. The car, a four-door midsize sedan, is silver with a black top and all-glass roof." src="https://cdn.vox-cdn.com/thumbor/aVdLwj6sz15WIbYDODFlQkqhxE0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71658535/sony_vision_s_9838.0.jpg" />
@@ -176,7 +167,6 @@
  - [https://www.theverge.com/2022/11/21/23471589/ubisoft-return-steam-2022-assassins-creed-valhalla](https://www.theverge.com/2022/11/21/23471589/ubisoft-return-steam-2022-assassins-creed-valhalla)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-21 19:52:44+00:00
- - tags: None
 
 <figure>
       <img alt="A viking holds a mean ax in front of ships and warriors ready for battle" src="https://cdn.vox-cdn.com/thumbor/aCqW8zxNxuP-1H7k7uSOEONQOyQ=/1205x0:7358x4102/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71658321/491495ea900f5ba3ec0.96570303_ACV_BossLogic_Setting_Art.0.jpg" />
@@ -194,7 +184,6 @@
  - [https://www.theverge.com/2022/11/21/23471183/waymo-zeekr-geely-autonomous-vehicle-av-robotaxi](https://www.theverge.com/2022/11/21/23471183/waymo-zeekr-geely-autonomous-vehicle-av-robotaxi)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-21 19:16:09+00:00
- - tags: None
 
 <figure>
       <img alt="Waymo robotaxi" src="https://cdn.vox-cdn.com/thumbor/8HUHB9U2fRs5tMDUF6b6KiPlpzk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71658154/226414_Waymo_Zeekr_ABassett_0001.0.jpg" />
@@ -212,7 +201,6 @@
  - [https://www.theverge.com/23471283/sonic-frontiers-review-sega-platforming](https://www.theverge.com/23471283/sonic-frontiers-review-sega-platforming)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-21 18:53:56+00:00
- - tags: None
 
 <figure>
       <img alt="Splash screen for Sonic Frontiers featuring Sonic the Hedgehog grinding on a rail with the words Sonic Frontiers in the upper right hand corner against a blurred background of brightly light ruins and a lush green landscape" src="https://cdn.vox-cdn.com/thumbor/AfMobwu2fHPAUWT7gP4k-9hVBZE=/0x97:1000x764/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71658058/SONIC_FRONTIERS_KeyVisual2_sample.0.jpg" />
@@ -229,7 +217,6 @@
  - [https://www.theverge.com/2022/11/21/23471021/elon-musk-twitter-layoffs-sales-partnerships-workers](https://www.theverge.com/2022/11/21/23471021/elon-musk-twitter-layoffs-sales-partnerships-workers)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-21 18:04:59+00:00
- - tags: None
 
 <figure>
       <img alt="Elon Musk shown looking downward in front of upside-down Twitter logos." src="https://cdn.vox-cdn.com/thumbor/BiKA2zLbkHFwqOlAC8XEtKbtOJ4=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71657718/STK171_VRG_Illo_1_Normand_ElonMusk_001.0.jpg" />
@@ -247,7 +234,6 @@
  - [https://www.theverge.com/2022/11/21/23470862/facebook-teen-accounts-privacy-default-age](https://www.theverge.com/2022/11/21/23470862/facebook-teen-accounts-privacy-default-age)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-21 15:27:13+00:00
- - tags: None
 
 <figure>
       <img alt="The Facebook logo on a blue background, surrounded by dark blue circles of various sizes" src="https://cdn.vox-cdn.com/thumbor/EUwcjPe3F79SicfiTKMZZzOpucE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71657016/STK040_VRG_Illo_N_Barclay_2_facebook.0.jpg" />
@@ -268,7 +254,6 @@
  - [https://www.theverge.com/2022/11/21/23470822/apple-airpods-pro-black-friday-airtags-gaming-laptop-ps5-deal-sale](https://www.theverge.com/2022/11/21/23470822/apple-airpods-pro-black-friday-airtags-gaming-laptop-ps5-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-21 15:21:38+00:00
- - tags: None
 
 <figure>
       <img alt="AirPods Pro 2022 model sitting on an orange pedestal." src="https://cdn.vox-cdn.com/thumbor/kbBlchet9icKBKrqd8FptODtgjc=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71656993/226285_AIRPODS_PRO_2_cwelch_0011.0.jpg" />
@@ -285,7 +270,6 @@
  - [https://www.theverge.com/2022/11/21/23470925/mario-kart-8-deluxe-dlc-tracks-wave-3-trailer-release-date](https://www.theverge.com/2022/11/21/23470925/mario-kart-8-deluxe-dlc-tracks-wave-3-trailer-release-date)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-21 15:15:56+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot of Mario Kart 8 Deluxe." src="https://cdn.vox-cdn.com/thumbor/HwesimcSyBN_U-nW8brNCUp3a30=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71656981/BCP_01.0.jpg" />
@@ -304,7 +288,6 @@
  - [https://www.theverge.com/23386171/smart-home-tech-holiday-gift-guide-2022-kitchen-gadgets-lights-smart-speakers-vacuums](https://www.theverge.com/23386171/smart-home-tech-holiday-gift-guide-2022-kitchen-gadgets-lights-smart-speakers-vacuums)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-21 15:05:53+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/0o7Ckeeesu2dXXkGbd7-zXHDVGg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71656944/226333_HOLIDAYGIFTGUIDE_KASASMARTPLUG_02_jgoldberg.0.jpg" />
@@ -321,7 +304,6 @@
  - [https://www.theverge.com/2022/11/21/23470888/hyundai-home-solar-energy-battery-products](https://www.theverge.com/2022/11/21/23470888/hyundai-home-solar-energy-battery-products)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-21 14:55:19+00:00
- - tags: None
 
 <figure>
       <img alt="Hyundai electric vehicle next to a small home with solar panels" src="https://cdn.vox-cdn.com/thumbor/9ayUrp3pRo_1OLwMYFhpAUjkdT8=/0x0:640x427/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71656830/Large_48624_HyundaiHomeBringsCleanAffordableSolarEnergyDirectlytoCustomers.0.jpg" />
@@ -339,7 +321,6 @@
  - [https://www.theverge.com/2022/11/21/23464338/black-friday-sonos-soundbar-speaker-best-buy-deal-sale](https://www.theverge.com/2022/11/21/23464338/black-friday-sonos-soundbar-speaker-best-buy-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-21 14:52:30+00:00
- - tags: None
 
 <figure>
       <img alt="A photo of the white second-generation Sonos Beam soundbar in front of a TV" src="https://cdn.vox-cdn.com/thumbor/Md7BoBKqf25KJsGSkQL0oljvWDU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71656812/cwelch_290921_4780_5672.0.jpg" />
@@ -358,7 +339,6 @@
  - [https://www.theverge.com/2022/11/21/23466219/amazon-warehouse-surveillance-camera-offshore-workers-india-costa-rica](https://www.theverge.com/2022/11/21/23466219/amazon-warehouse-surveillance-camera-offshore-workers-india-costa-rica)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-21 13:30:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/NghXtigb_5JEbqAxBO3zZc2-Th8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71656441/Adrian_Astorgano_Amazon.0.jpg" />
@@ -377,7 +357,6 @@
  - [https://www.theverge.com/2022/11/21/23470759/leap-second-scrapped-2035-time-computer-chaos](https://www.theverge.com/2022/11/21/23470759/leap-second-scrapped-2035-time-computer-chaos)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-21 13:00:14+00:00
- - tags: None
 
 <figure>
       <img alt="A photo taken on October 19, 2021 shows the landmark Television Tower (Fernsehturm, L) and the World Time Clock (Weltzeituhr) in Berlin." src="https://cdn.vox-cdn.com/thumbor/hlHSuwbXLCDnhTTujV7mkkfEhVQ=/174x0:7227x4702/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71656376/1235975995.0.jpg" />
@@ -394,7 +373,6 @@
  - [https://www.theverge.com/c/23440723/glucose-monitor-wellness-diet-diabetes-startups](https://www.theverge.com/c/23440723/glucose-monitor-wellness-diet-diabetes-startups)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-21 13:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="A black and white photo of Nicole Wetsman applying a Dexcom G6 transmitter to the back of her upper arm." src="https://cdn.vox-cdn.com/thumbor/Iv8aQtdI7hB8NmgsM_XPbfXPwOM=/0x728:1360x1635/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71656305/226344_Dueling_glucose_monitors_AKrales_0539.0.jpg" />
@@ -411,7 +389,6 @@
  - [https://www.theverge.com/2022/11/21/23470667/lg-display-vibrating-car-speaker-audio-ces](https://www.theverge.com/2022/11/21/23470667/lg-display-vibrating-car-speaker-audio-ces)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-21 10:21:26+00:00
- - tags: None
 
 <figure>
       <img alt="A woman in a car, holding LG Display’s Thin Actuator Sound Solution panel. The panel is a slim, black slab of plastic-looking material." src="https://cdn.vox-cdn.com/thumbor/jdDiQHDYion6EirEKtTZ3wkFIk8=/0x50:1200x850/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71655909/20221121_015029.0.jpg" />
@@ -428,7 +405,6 @@
  - [https://www.theverge.com/2022/11/21/23470653/november-21-2022-tech-news-liveblog](https://www.theverge.com/2022/11/21/23470653/november-21-2022-tech-news-liveblog)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-21 08:43:58+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/rlZg4iSkpUWtZ1EuutZVKNvfe8Y=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71655819/STK080_VRG_Illo_N_Barclay_4_disney_.0.jpg" />
@@ -444,7 +420,6 @@
  - [https://www.theverge.com/2022/11/20/23470368/disney-ceo-bob-iger-in-bob-chapek-out](https://www.theverge.com/2022/11/20/23470368/disney-ceo-bob-iger-in-bob-chapek-out)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-21 03:45:51+00:00
- - tags: None
 
 <figure>
       <img alt="A colorful graphical illustration of the Disney Plus logo." src="https://cdn.vox-cdn.com/thumbor/LBZpzWdUUjxgvybEwhbunWt_HHw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71655348/acastro_STK080_disneyPlus_02.0.jpg" />

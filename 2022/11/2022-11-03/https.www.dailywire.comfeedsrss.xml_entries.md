@@ -1,10 +1,9 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml
+# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
 
 ## BREAKING: Elon Musk Sends Email To Twitter Staff Notifying Them Of Mass Layoffs
  - [https://www.dailywire.com/news/breaking-elon-musk-sends-email-to-twitter-staff-notifying-them-of-mass-layoffs](https://www.dailywire.com/news/breaking-elon-musk-sends-email-to-twitter-staff-notifying-them-of-mass-layoffs)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 22:06:41+00:00
- - tags: None
 
 New Twitter CEO Elon Musk informed employees Thursday evening to not come into the office tomorrow as the company was laying off a substantial portion of its workforce. The news comes after Bloomberg News reported earlier this week that Musk was cutting 3,700 of the company’s 7,500 employees on Friday. Musk is also reportedly canceling a ...
 
@@ -12,7 +11,6 @@ New Twitter CEO Elon Musk informed employees Thursday evening to not come into t
  - [https://www.dailywire.com/news/brooklyn-nets-suspend-kyrie-irving-after-he-refuses-to-apologize-for-tweeting-anti-semitic-movie](https://www.dailywire.com/news/brooklyn-nets-suspend-kyrie-irving-after-he-refuses-to-apologize-for-tweeting-anti-semitic-movie)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 21:43:48+00:00
- - tags: None
 
 The Brooklyn Nets suspended Kyrie Irving for at least five games without pay for failure to &#8220;unequivocally say he has no antisemitic beliefs.&#8221; Irving shared a tweet Thursday — which appears to have been deleted — including a clip from a movie titled &#8220;Hebrews to Negroes: Wake Up Black America,&#8221; a film based on the ...
 
@@ -20,7 +18,6 @@ The Brooklyn Nets suspended Kyrie Irving for at least five games without pay for
  - [https://www.dailywire.com/news/shots-fired-at-family-home-of-republican-congressional-candidate-while-his-children-were-inside-report](https://www.dailywire.com/news/shots-fired-at-family-home-of-republican-congressional-candidate-while-his-children-were-inside-report)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 21:14:40+00:00
- - tags: None
 
 Federal law enforcement officials have launched a criminal investigation into gunshots that were fired late last month at the family home of North Carolina congressional candidate Pat Harrigan (R), a former Green Beret. News of the shots that hit Harrigan&#8217;s parent&#8217;s home broke Thursday afternoon after the family disclosed the incident in an interview with ...
 
@@ -28,7 +25,6 @@ Federal law enforcement officials have launched a criminal investigation into gu
  - [https://www.dailywire.com/news/jimmy-kimmel-admits-he-lost-half-his-audience-for-bashing-trump-and-hes-fine-with-that](https://www.dailywire.com/news/jimmy-kimmel-admits-he-lost-half-his-audience-for-bashing-trump-and-hes-fine-with-that)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 20:39:52+00:00
- - tags: None
 
 Late-night comedian Jimmy Kimmel admitted during a Wednesday podcast appearance that he may have lost half of his audience — possibly even more than that — when he made a conscious choice to bash former President Donald Trump. Kimmel discussed the issue with the &#8220;Naked Lunch&#8221; podcast host and &#8220;Everybody Loves Raymond&#8221; creator Phil Rosenthal, ...
 
@@ -36,7 +32,6 @@ Late-night comedian Jimmy Kimmel admitted during a Wednesday podcast appearance 
  - [https://www.dailywire.com/news/aoc-doubles-down-on-promoting-elon-musk-conspiracy-theories](https://www.dailywire.com/news/aoc-doubles-down-on-promoting-elon-musk-conspiracy-theories)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 20:33:20+00:00
- - tags: None
 
 Rep. Alexandria Ocasio-Cortez (D-NY) doubled down on an unfounded conspiracy theory Thursday afternoon after Twitter CEO Elon Musk mocked her complaints about having to pay $8 per month for premium services on the platform. Ocasio-Cortez claimed in a tweet Wednesday night that her notifications on Twitter stopped working after Musk responded to her criticisms as ...
 
@@ -44,7 +39,6 @@ Rep. Alexandria Ocasio-Cortez (D-NY) doubled down on an unfounded conspiracy the
  - [https://www.dailywire.com/news/vulnerable-michigan-democrats-lead-erased-after-campaign-event-with-liz-cheney-new-poll-shows](https://www.dailywire.com/news/vulnerable-michigan-democrats-lead-erased-after-campaign-event-with-liz-cheney-new-poll-shows)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 20:26:41+00:00
- - tags: None
 
 A campaign stump from Rep. Liz Cheney (R-WY) appears to have had no positive effect for a vulnerable House Democrat in Michigan. A survey conducted Wednesday of 402 likely voters in Michigan’s 7th Congressional District showed Rep. Elissa Slotkin (D-MI) in a dead heat with Republican challenger Tom Barrett. The new poll from Mitchell Research/MIRS ...
 
@@ -52,7 +46,6 @@ A campaign stump from Rep. Liz Cheney (R-WY) appears to have had no positive eff
  - [https://www.dailywire.com/news/desantis-makes-endorsement-in-key-senate-race](https://www.dailywire.com/news/desantis-makes-endorsement-in-key-senate-race)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 20:15:39+00:00
- - tags: None
 
 On Thursday, Florida GOP Governor Ron DeSantis endorsed New Hampshire GOP senatorial candidate General Don Bolduc, who is in a neck-and-neck battle with incumbent Democratic Senator Maggie Hassan. Bolduc became the youngest police officer in New Hampshire’s history at the age of 18, later serving for 33 years in the United States Army, as his campaign ...
 
@@ -60,7 +53,6 @@ On Thursday, Florida GOP Governor Ron DeSantis endorsed New Hampshire GOP senat
  - [https://www.dailywire.com/news/i-didnt-want-to-be-alive-former-disney-star-says-psychotic-break-left-her-suicidal](https://www.dailywire.com/news/i-didnt-want-to-be-alive-former-disney-star-says-psychotic-break-left-her-suicidal)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 19:59:51+00:00
- - tags: None
 
 Former Disney Channel star Selena Gomez reveals a number of scary and painful moments in her upcoming AppleTV+ documentary &#8220;My Mind &amp; Me&#8221; — including a mental breakdown during her 2016 &#8220;Revival&#8221; tour that left her feeling as though she wanted to die. Gomez’s former assistant Theresa explained the situation in a straight-to-camera segment for ...
 
@@ -68,7 +60,6 @@ Former Disney Channel star Selena Gomez reveals a number of scary and painful mo
  - [https://www.dailywire.com/news/paul-pelosi-released-from-hospital-after-violent-attack](https://www.dailywire.com/news/paul-pelosi-released-from-hospital-after-violent-attack)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 19:43:27+00:00
- - tags: None
 
 Paul Pelosi is out of the hospital Thursday after being violently attacked at his California home. CNN broke the news Thursday afternoon that Pelosi had been released from Zuckerberg San Francisco General Hospital, citing a source. Pelosi underwent surgery to repair a skull fracture and injuries to his hand and arm. Pelosi&#8217;s release comes less ...
 
@@ -76,7 +67,6 @@ Paul Pelosi is out of the hospital Thursday after being violently attacked at hi
  - [https://www.dailywire.com/news/chuck-schumer-democrats-will-hold-the-senate-and-maybe-even-pick-up-seats-in-midterms](https://www.dailywire.com/news/chuck-schumer-democrats-will-hold-the-senate-and-maybe-even-pick-up-seats-in-midterms)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 19:02:19+00:00
- - tags: None
 
 Democratic Senate Majority Leader Chuck Schumer (D-NY) said that Democrats would hold the Senate and potentially add seats in the 2022 midterms. In an interview with the Associated Press Thursday, Schumer said he was bullish on the Democrats&#8217; prospects for the midterms. Schumer claimed that Democrats had overcome the pre-summer electoral environment and were closing ...
 
@@ -84,7 +74,6 @@ Democratic Senate Majority Leader Chuck Schumer (D-NY) said that Democrats would
  - [https://www.dailywire.com/news/arizona-gov-candidate-katie-hobbs-child-therapist-husband-had-10-year-old-trans-patient-lawsuit-says](https://www.dailywire.com/news/arizona-gov-candidate-katie-hobbs-child-therapist-husband-had-10-year-old-trans-patient-lawsuit-says)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 19:01:49+00:00
- - tags: None
 
 Arizona gubernatorial candidate Katie Hobbs’ husband is a child psychiatrist who was named in an explosive lawsuit brought against the state by the parents of a 10-year-old transgender child in 2020, according to documents reviewed by The Daily Wire. Patrick Goodman is a psychiatrist on staff at Phoenix Children’s Hospital and specializes “in serving youth ...
 
@@ -92,7 +81,6 @@ Arizona gubernatorial candidate Katie Hobbs’ husband is a child psychiatrist w
  - [https://www.dailywire.com/news/biden-administration-warns-americans-student-debt-payments-resume-next-year-if-republican-officials-get-their-way-16-million-applications-already-approved](https://www.dailywire.com/news/biden-administration-warns-americans-student-debt-payments-resume-next-year-if-republican-officials-get-their-way-16-million-applications-already-approved)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 18:57:24+00:00
- - tags: None
 
 The Biden administration warned Americans Thursday that 16 million student loan debts already forgiven by his administration would resume if Republicans sweep the midterms next week. &#8220;If Republican officials get their way, tens of millions of Americans&#8217; monthly costs will rise dramatically when student loan payments resume next year,&#8221; said a statement by the administration ...
 
@@ -100,7 +88,6 @@ The Biden administration warned Americans Thursday that 16 million student loan 
  - [https://www.dailywire.com/news/republicans-outpace-democrats-in-floridas-most-populous-blue-stronghold-after-biden-visit-report](https://www.dailywire.com/news/republicans-outpace-democrats-in-floridas-most-populous-blue-stronghold-after-biden-visit-report)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 18:46:44+00:00
- - tags: None
 
 President Joe Biden (D) visited Florida this week in an attempt to boost Democrat candidates ahead of next week&#8217;s midterm election, and it appears to have backfired. Not only do Republicans now have hundreds of thousands more registered in the state than Democrats, Republicans are also leading the state through early voting and have taken ...
 
@@ -108,7 +95,6 @@ President Joe Biden (D) visited Florida this week in an attempt to boost Democra
  - [https://www.dailywire.com/news/in-final-midterm-stretch-democrats-focus-on-election-deniers-abortion-and-concert-ticket-fees](https://www.dailywire.com/news/in-final-midterm-stretch-democrats-focus-on-election-deniers-abortion-and-concert-ticket-fees)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 18:32:22+00:00
- - tags: None
 
 In the final days of the midterm elections, for some reason, Democratic leaders are focusing on dastardly &#8220;election deniers,&#8221; abortion, and even concert ticket fees. Threats to democracy and the issue of abortion rank toward the bottom of what voters are most concerned about. Concert ticket fees, supposedly, are lumped into addressing inflation by President Joe ...
 
@@ -116,7 +102,6 @@ In the final days of the midterm elections, for some reason, Democratic leaders 
  - [https://www.dailywire.com/news/i-fell-down-so-fast-former-saturday-night-live-star-opens-up-about-attack-outside-comedy-club](https://www.dailywire.com/news/i-fell-down-so-fast-former-saturday-night-live-star-opens-up-about-attack-outside-comedy-club)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 18:21:31+00:00
- - tags: None
 
 Former &#8220;Saturday Night Live&#8221; star Chris Redd opened up about his attack outside the New York City comedy club Comedy Cellar, detailing that he was struck in the face by something like &#8220;brass knuckles.&#8221; During an interview with the 37-year-old stand-up comedian, Redd said after he was struck on October 26 he didn&#8217;t even realize ...
 
@@ -124,7 +109,6 @@ Former &#8220;Saturday Night Live&#8221; star Chris Redd opened up about his att
  - [https://www.dailywire.com/news/cancer-shows-no-favoritism-nfls-legendary-terry-bradshaw-humbly-speaks-of-his-christian-faith](https://www.dailywire.com/news/cancer-shows-no-favoritism-nfls-legendary-terry-bradshaw-humbly-speaks-of-his-christian-faith)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 18:10:36+00:00
- - tags: None
 
 Four-time Super Bowl champion and NFL Hall of Fame quarterback Terry Bradshaw, who was diagnosed with cancer months before he went public about it in early October, came forward to explain his reticence. Bradshaw revealed he had been suffering from bladder cancer and a Merkel cell tumor on October 2 on “Fox NFL Sunday” after ...
 
@@ -132,7 +116,6 @@ Four-time Super Bowl champion and NFL Hall of Fame quarterback Terry Bradshaw, w
  - [https://www.dailywire.com/news/planned-parenthood-raises-20-million-in-midterms](https://www.dailywire.com/news/planned-parenthood-raises-20-million-in-midterms)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 18:04:21+00:00
- - tags: None
 
 Contributions to abortion conglomerate Planned Parenthood have surpassed $20 million in the most recent midterm fundraising cycle, according to an analysis of federal election data by watchdog group OpenSecrets. Democrats have wagered heavily on progressive backlash against the Supreme Court’s decision to overturn Roe v. Wade earlier this year as a tailwind for keeping vulnerable ...
 
@@ -140,7 +123,6 @@ Contributions to abortion conglomerate Planned Parenthood have surpassed $20 mil
  - [https://www.dailywire.com/news/kim-kardashian-claims-she-can-squeeze-into-any-dress-after-marilyn-monroe-dress-backlash](https://www.dailywire.com/news/kim-kardashian-claims-she-can-squeeze-into-any-dress-after-marilyn-monroe-dress-backlash)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 17:58:51+00:00
- - tags: None
 
 Kim Kardashian said she can &#8220;squeeze&#8221; into any dress, calling herself a &#8220;shapeshifter&#8221; in a clip of her checking out Marilyn Monroe&#8217;s iconic gold sequin dress for her Met Gala appearance — for which she faced a ton of backlash. In a clip from her family&#8217;s &#8220;The Kardashians&#8221; Hulu show, the 42-year-old reality TV star ...
 
@@ -148,7 +130,6 @@ Kim Kardashian said she can &#8220;squeeze&#8221; into any dress, calling hersel
  - [https://www.dailywire.com/news/democratic-washington-congressional-candidate-doesnt-give-definitive-answer-on-boys-playing-in-girls-sports](https://www.dailywire.com/news/democratic-washington-congressional-candidate-doesnt-give-definitive-answer-on-boys-playing-in-girls-sports)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 17:57:03+00:00
- - tags: None
 
 Marie Gluesenkamp Perez, a Democratic candidate running to represent Washington’s third congressional district, was asked this week about biological males competing in girls sports, surprising some with her response.  Her Republican opponent, Joe Kent, tweeted a video of her answering a question during a debate with Kent. A woman in the audience asked her about ...
 
@@ -156,7 +137,6 @@ Marie Gluesenkamp Perez, a Democratic candidate running to represent Washington�
  - [https://www.dailywire.com/news/j-k-rowling-vs-the-trans-agenda-heres-what-harry-potter-cast-members-have-said-about-the-ongoing-battle](https://www.dailywire.com/news/j-k-rowling-vs-the-trans-agenda-heres-what-harry-potter-cast-members-have-said-about-the-ongoing-battle)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 17:55:47+00:00
- - tags: None
 
 Author J.K. Rowling became a billionaire thanks to her brilliantly conceived story of a young wizard named Harry Potter.  Not too long ago, the book and movie franchise had one of the most dedicated fandoms in the world, with Rowling as their beloved matriarch. But then the British born author made the fatal error of ...
 
@@ -164,7 +144,6 @@ Author J.K. Rowling became a billionaire thanks to her brilliantly conceived sto
  - [https://www.dailywire.com/news/thats-a-tactic-megyn-kellys-podcast-gets-heated-as-she-questions-virologist-dodging-covid-lab-leak-theory-questions](https://www.dailywire.com/news/thats-a-tactic-megyn-kellys-podcast-gets-heated-as-she-questions-virologist-dodging-covid-lab-leak-theory-questions)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 17:47:39+00:00
- - tags: None
 
 Megyn Kelly&#8217;s podcast got heated on Thursday as she questioned virologist Dr. Robert Garry about the Wuhan lab leak theory, asking him several times to stop dodging her questions. During Sirius XM’s “The Megyn Kelly Show&#8221; podcast, the host spoke with Garry, a Tulane virologist, about the &#8220;furin cleavage site&#8221; in the virus, and how he ...
 
@@ -172,7 +151,6 @@ Megyn Kelly&#8217;s podcast got heated on Thursday as she questioned virologist 
  - [https://www.dailywire.com/news/wife-of-netflix-co-ceo-backs-law-and-order-l-a-mayoral-candidate-after-elderly-mother-murdered-in-home](https://www.dailywire.com/news/wife-of-netflix-co-ceo-backs-law-and-order-l-a-mayoral-candidate-after-elderly-mother-murdered-in-home)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 17:43:20+00:00
- - tags: None
 
 Nicole Avant, the wife of Netflix co-CEO Ted Sarandos and a major player in Hollywood, is supporting law-and-order Los Angeles mayoral candidate Rick Caruso over far-left Rep. Karen Bass (D-CA).  Avant’s mother, Jacqueline Avant, was shot and killed last year in her Beverly Hills home. She was 81 and married to esteemed music producer Clarence ...
 
@@ -180,7 +158,6 @@ Nicole Avant, the wife of Netflix co-CEO Ted Sarandos and a major player in Holl
  - [https://www.dailywire.com/news/report-jeff-bezos-interested-in-buying-washington-commanders-potentially-in-partnership-with-jay-z](https://www.dailywire.com/news/report-jeff-bezos-interested-in-buying-washington-commanders-potentially-in-partnership-with-jay-z)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 17:28:33+00:00
- - tags: None
 
 Jeff Bezos may be angling to buy the Washington Commanders, according to multiple reports. Sources close to Bezos told People magazine and the Washington Post that Bezos, the second richest man in the world and founder of Amazon, is interested in buying the team, after it was announced that team owner Dan Synder was exploring ...
 
@@ -188,7 +165,6 @@ Jeff Bezos may be angling to buy the Washington Commanders, according to multipl
  - [https://www.dailywire.com/news/npr-airs-audio-of-woman-having-an-abortion](https://www.dailywire.com/news/npr-airs-audio-of-woman-having-an-abortion)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 17:23:19+00:00
- - tags: None
 
 NPR&#8217;s Michigan Morning Edition aired an abortion on air Thursday morning, complete with the sound of the 11-week-old preborn child being vacuumed from the womb. Reporter Katie Wells narrated the account of the unnamed woman undergoing the abortion at a Northland Family Planning in the Detroit area. “Most patients are partially awake during the procedures, ...
 
@@ -196,7 +172,6 @@ NPR&#8217;s Michigan Morning Edition aired an abortion on air Thursday morning, 
  - [https://www.dailywire.com/news/early-voting-in-nashville-results-in-over-200-ballots-cast-in-wrong-races](https://www.dailywire.com/news/early-voting-in-nashville-results-in-over-200-ballots-cast-in-wrong-races)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 17:19:35+00:00
- - tags: None
 
 Tennessee election officials said Wednesday that more than 200 voters cast ballots in three different races since early voting began in Nashville. Jeff Roberts, the administrator of the Davidson County Election office, told The Associated Press that 190 voters cast ballots in the wrong congressional race, 16 cast votes in an incorrect state Senate race, ...
 
@@ -204,7 +179,6 @@ Tennessee election officials said Wednesday that more than 200 voters cast ballo
  - [https://www.dailywire.com/news/cnbc-to-axe-shep-smiths-primetime-newscast-after-just-two-years](https://www.dailywire.com/news/cnbc-to-axe-shep-smiths-primetime-newscast-after-just-two-years)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 17:05:17+00:00
- - tags: None
 
 CNBC plans to drop anchor Shepard Smith&#8217;s evening news show, &#8220;The News with Shepard Smith,&#8221; after just two years. Variety reported on Thursday that the veteran journalist — who anchored a mid-afternoon slot for years on Fox News before moving to CNBC — was leaving the network, and his time slot would transition to a ...
 
@@ -212,7 +186,6 @@ CNBC plans to drop anchor Shepard Smith&#8217;s evening news show, &#8220;The Ne
  - [https://www.dailywire.com/news/white-house-chief-of-staff-we-are-not-in-a-recession](https://www.dailywire.com/news/white-house-chief-of-staff-we-are-not-in-a-recession)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 17:00:13+00:00
- - tags: None
 
 White House Chief of Staff Ron Klain insisted that the United States is not in a recession as Democrats make their final pitch days before the midterm elections. Despite an increase in economic output during the third quarter, the United States previously met the rule-of-thumb definition of a recession, two consecutive quarters of negative growth, as ...
 
@@ -220,7 +193,6 @@ White House Chief of Staff Ron Klain insisted that the United States is not in a
  - [https://www.dailywire.com/news/suburban-women-join-blacks-hispanics-in-exodus-to-gop-ahead-of-elections](https://www.dailywire.com/news/suburban-women-join-blacks-hispanics-in-exodus-to-gop-ahead-of-elections)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 16:41:59+00:00
- - tags: None
 
 You gotta&#8217; wonder about pollsters. For the last few months, nearly every pollster said the midterm elections were tight. Pick &#8217;em, they said. Could go either way, they said. Democrats hold the Senate, could keep House, too, they said. Suddenly, all that has changed. Nationwide surveys now show a flood of voters to the Republican ...
 
@@ -228,7 +200,6 @@ You gotta&#8217; wonder about pollsters. For the last few months, nearly every p
  - [https://www.dailywire.com/news/pelosi-family-will-be-allowed-to-view-footage-from-attack-hear-911-call-but-will-the-public](https://www.dailywire.com/news/pelosi-family-will-be-allowed-to-view-footage-from-attack-hear-911-call-but-will-the-public)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 16:35:08+00:00
- - tags: None
 
 Members of the Pelosi family will be allowed to listen to the 911 call and view officers&#8217; body camera footage related to an attack on Paul Pelosi, the husband of House Speaker Nancy Pelosi (D-CA). David DePape, 42, allegedly assaulted Mr. Pelosi with a hammer when police arrived at the San Francisco home early Friday ...
 
@@ -236,7 +207,6 @@ Members of the Pelosi family will be allowed to listen to the 911 call and view 
  - [https://www.dailywire.com/news/team-behind-5m-bid-to-block-kentucky-pro-life-law-includes-staffer-who-posted-satanic-temple-message-another-marched-with-radical-socialists](https://www.dailywire.com/news/team-behind-5m-bid-to-block-kentucky-pro-life-law-includes-staffer-who-posted-satanic-temple-message-another-marched-with-radical-socialists)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 16:08:11+00:00
- - tags: None
 
 Kentucky voters will vote next week on whether to amend the state constitution to clarify that nothing in the constitution guarantees abortion access – a measure that does not change state laws either in favor or against abortion, but is being pushed by conservatives to ensure that leftist judges cannot rule that there is some implied constitutional right to abortion that prevents lawmakers from passing pro-life laws.
 
@@ -244,7 +214,6 @@ Kentucky voters will vote next week on whether to amend the state constitution t
  - [https://www.dailywire.com/news/rise-in-holiday-spending-to-be-outpaced-by-inflation-forecast-says](https://www.dailywire.com/news/rise-in-holiday-spending-to-be-outpaced-by-inflation-forecast-says)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 15:47:03+00:00
- - tags: None
 
 This year’s projected rise in holiday spending will be surpassed by inflation, according to a forecast from the National Retail Federation. Holiday retail sales are expected to grow between 6% and 8% since last year to possibly surpass $960 billion, according to the trade association. Although the growth appears to exceed the average 4.9% annual ...
 
@@ -252,7 +221,6 @@ This year’s projected rise in holiday spending will be surpassed by inflation,
  - [https://www.dailywire.com/news/do-they-want-to-live-in-a-handmaids-tale-sunny-hostin-screams-at-white-women-compares-them-to-roaches-voting-for-raid](https://www.dailywire.com/news/do-they-want-to-live-in-a-handmaids-tale-sunny-hostin-screams-at-white-women-compares-them-to-roaches-voting-for-raid)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 15:46:24+00:00
- - tags: None
 
 &#8220;The View&#8221; host Sunny Hostin compared white women to roaches in a Thursday tirade, accusing them of voting &#8220;against their own interests&#8221; if they didn&#8217;t vote the way she thought they should. Hostin and her cohosts spent a portion of their midday broadcast — with just a few days left before the November 8 midterm ...
 
@@ -260,7 +228,6 @@ This year’s projected rise in holiday spending will be surpassed by inflation,
  - [https://www.dailywire.com/news/we-should-deport-pelosi-attacker-and-all-other-illegal-aliens](https://www.dailywire.com/news/we-should-deport-pelosi-attacker-and-all-other-illegal-aliens)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 15:35:29+00:00
- - tags: None
 
 David DePape — the alleged attacker who pummeled Speaker of the House Nancy Pelosi&#8217;s husband, Paul, with a hammer — was in the country illegally after overstaying his visa 14 years ago, according to the Department of Homeland Security. DePape, such as all other illegal aliens, should be deported. According to The Hill, Immigration and ...
 
@@ -268,7 +235,6 @@ David DePape — the alleged attacker who pummeled Speaker of the House Nancy Pe
  - [https://www.dailywire.com/news/milwaukee-elections-official-fired-after-possible-gambit-to-expose-voter-fraud](https://www.dailywire.com/news/milwaukee-elections-official-fired-after-possible-gambit-to-expose-voter-fraud)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 15:26:50+00:00
- - tags: None
 
 A top Milwaukee elections official has been fired for alleged fraud in what may have been a stunt to spotlight how easy fake military ballots can be trafficked in Wisconsin, authorities said. Kimberly Zapata, 44, was fired as deputy director of the city’s Election Commission after she allegedly had unsolicited military ballots sent to a ...
 
@@ -276,7 +242,6 @@ A top Milwaukee elections official has been fired for alleged fraud in what may 
  - [https://www.dailywire.com/news/co-host-joins-audience-boos-conservative-on-the-view-for-saying-gop-could-win-in-midterms](https://www.dailywire.com/news/co-host-joins-audience-boos-conservative-on-the-view-for-saying-gop-could-win-in-midterms)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 15:04:37+00:00
- - tags: None
 
 The audience – and even one or two of her co-hosts — broke into boos on Thursday when Republican host Alyssa Farah Griffin said that her party could win big in next Tuesday&#8217;s midterm elections. Griffin and her co-hosts began Thursday&#8217;s broadcast of the ABC midday talk show &#8220;The View&#8221; with a conversation about the ...
 
@@ -284,7 +249,6 @@ The audience – and even one or two of her co-hosts — broke into boos on Thur
  - [https://www.dailywire.com/news/sacramento-sees-spike-in-homelessness-but-a-new-ballot-measure-could-change-everything](https://www.dailywire.com/news/sacramento-sees-spike-in-homelessness-but-a-new-ballot-measure-could-change-everything)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 15:02:44+00:00
- - tags: None
 
 Some major changes could be coming to address the homelessness crisis in Sacramento, California, the capital of the state.  The area has seen an almost 70% increase in homelessness in the city over the past few years, but a new ballot measure is up for a vote on Tuesday that could change the situation. Estimates ...
 
@@ -292,7 +256,6 @@ Some major changes could be coming to address the homelessness crisis in Sacrame
  - [https://www.dailywire.com/news/hes-not-buying-it-adam-carolla-lays-siege-to-dishonest-far-left-media-coverage](https://www.dailywire.com/news/hes-not-buying-it-adam-carolla-lays-siege-to-dishonest-far-left-media-coverage)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 14:55:47+00:00
- - tags: None
 
 Bernard Goldberg provided a valuable service to his country back in 2001 with “Bias.”  The book’s subtitle said it all – “A CBS Insider Exposes How the Media Distort the News.” Goldberg broke down how the press tilts the scales in favor of Democrats and progressive causes. To say the problem got worse since then ...
 
@@ -300,7 +263,6 @@ Bernard Goldberg provided a valuable service to his country back in 2001 with �
  - [https://www.dailywire.com/news/don-bolduc-dodged-punch-from-would-be-attacker-ahead-of-debate-campaign-says](https://www.dailywire.com/news/don-bolduc-dodged-punch-from-would-be-attacker-ahead-of-debate-campaign-says)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 14:53:51+00:00
- - tags: None
 
 New Hampshire Republican Senate candidate Don Bolduc dodged a punch from a man who tried to assault him just before his debate Wednesday evening with incumbent Sen. Maggie Hassan (D-NH), his campaign said Thursday. According to Bolduc&#8217;s campaign, the man attempted to physically strike the GOP nominee for the closely watched race outside Saint Anselm ...
 
@@ -308,7 +270,6 @@ New Hampshire Republican Senate candidate Don Bolduc dodged a punch from a man w
  - [https://www.dailywire.com/news/two-more-tech-companies-fire-large-portions-of-their-staff](https://www.dailywire.com/news/two-more-tech-companies-fire-large-portions-of-their-staff)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 14:52:19+00:00
- - tags: None
 
 Stripe and Lyft became the latest technology companies on Thursday to dismiss large portions of their workforce, while Amazon announced that they would freeze hiring. Although macroeconomic headwinds have impacted most industries, the technology sector has witnessed the most pronounced stock market selloffs. Companies such as Meta recently issued dismal third-quarter earnings reports, leading some ...
 
@@ -316,7 +277,6 @@ Stripe and Lyft became the latest technology companies on Thursday to dismiss la
  - [https://www.dailywire.com/news/we-are-not-safe-new-amsterdam-producers-shill-for-abortion-with-extremist-episode](https://www.dailywire.com/news/we-are-not-safe-new-amsterdam-producers-shill-for-abortion-with-extremist-episode)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 14:48:38+00:00
- - tags: None
 
 The NBC primetime medical drama “New Amsterdam” creators included a storyline about the overturning of Roe v. Wade, all while pushing their extreme pro-abortion viewpoint. The recent episode, “Maybe Tomorrow,” explores a world with restricted access to abortion. Showrunners spoke with TV Line about their motivations and aims for the episode, which had leftist fans ...
 
@@ -324,7 +284,6 @@ The NBC primetime medical drama “New Amsterdam” creators included a storylin
  - [https://www.dailywire.com/news/made-the-difficult-decision-country-legend-reba-mcentire-postpones-handful-of-shows-per-doctors-orders](https://www.dailywire.com/news/made-the-difficult-decision-country-legend-reba-mcentire-postpones-handful-of-shows-per-doctors-orders)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 14:43:26+00:00
- - tags: None
 
 Country legend Reba McEntire decided to cancel a handful of shows on her current tour after being advised by doctors to take it easy and get some vocal rest. The 67-year-old singer on Wednesday shared the news on her social media platforms. The affected stops on her &#8220;REBA: LIVE IN CONCERT tour&#8221; include Columbus, Ohio; ...
 
@@ -332,7 +291,6 @@ Country legend Reba McEntire decided to cancel a handful of shows on her current
  - [https://www.dailywire.com/news/a-little-unfair-nightmare-before-christmas-director-claims-tim-burton-gets-too-much-credit](https://www.dailywire.com/news/a-little-unfair-nightmare-before-christmas-director-claims-tim-burton-gets-too-much-credit)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 14:36:21+00:00
- - tags: None
 
 Most fans associate the stop-motion animated musical dark fantasy Disney film “The Nightmare Before Christmas” with Tim Burton, but the film&#8217;s director Henry Selick says he deserves credit too. Selick directed the 1993 cult classic film and now he’s giving his opinion on why Burton shouldn’t be the only one lauded for the project. “No, ...
 
@@ -340,7 +298,6 @@ Most fans associate the stop-motion animated musical dark fantasy Disney film �
  - [https://www.dailywire.com/news/trucking-ceo-discusses-diesel-shortage-says-truckers-are-feeling-the-hurt-right-now](https://www.dailywire.com/news/trucking-ceo-discusses-diesel-shortage-says-truckers-are-feeling-the-hurt-right-now)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 14:22:59+00:00
- - tags: None
 
 Companies are continuing to warn against the diesel fuel shortage and how it will affect the trucking industry moving forward.  South Carolina Trucking Association CEO Rick Todd recently spoke about the problems facing trucking businesses and the reasons behind the fuel shortage, as well as high costs.  “Truckers are feeling the hurt right now. Supply ...
 
@@ -348,7 +305,6 @@ Companies are continuing to warn against the diesel fuel shortage and how it wil
  - [https://www.dailywire.com/news/ahead-of-midterms-most-eligible-voters-want-more-stimulus-checks-to-fight-inflation](https://www.dailywire.com/news/ahead-of-midterms-most-eligible-voters-want-more-stimulus-checks-to-fight-inflation)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 14:22:32+00:00
- - tags: None
 
 A majority of Americans want the government to spend money to solve the problem of inflation. According to a poll conducted by Newsweek, roughly 63% of respondents agree that Uncle Sam should issue another round of stimulus checks to battle inflation, including 42% of respondents who strongly agree. Meanwhile, a meager 18% said they disagree, ...
 
@@ -356,7 +312,6 @@ A majority of Americans want the government to spend money to solve the problem 
  - [https://www.dailywire.com/news/joy-behar-suggests-americans-who-are-worried-about-inflation-are-stupid](https://www.dailywire.com/news/joy-behar-suggests-americans-who-are-worried-about-inflation-are-stupid)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 14:05:39+00:00
- - tags: None
 
 Joy Behar lashed out at Americans worried about inflation on Thursday, suggesting that they were stupid if they were more worried about inflation than they were about the state of democracy in the United States. Behar and her cohosts spent the opening moments of ABC&#8217;s midday talk show &#8220;The View&#8221; complaining about the fact that ...
 
@@ -364,7 +319,6 @@ Joy Behar lashed out at Americans worried about inflation on Thursday, suggestin
  - [https://www.dailywire.com/news/election-2022-soft-on-crime-drag-queen-loving-democrats-picked-all-the-wrong-issues-this-time-around](https://www.dailywire.com/news/election-2022-soft-on-crime-drag-queen-loving-democrats-picked-all-the-wrong-issues-this-time-around)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 14:00:00+00:00
- - tags: None
 
 During a debate last week between candidates for governor in New York, incumbent Democrat Kathy Hochul was pushed by her Republican challenger, Rep. Lee Zeldin, about soaring crime. &#8220;I don&#8217;t know why that&#8217;s so important to you,&#8221; Hochul said dismissively. Bad answer. Very bad answer. Democrats have long taken the black vote for granted — ...
 
@@ -372,7 +326,6 @@ During a debate last week between candidates for governor in New York, incumbent
  - [https://www.dailywire.com/news/large-majority-of-americans-say-they-wont-vote-for-candidates-who-supports-transgender-procedures-for-youth-poll](https://www.dailywire.com/news/large-majority-of-americans-say-they-wont-vote-for-candidates-who-supports-transgender-procedures-for-youth-poll)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 13:59:51+00:00
- - tags: None
 
 A new poll found that more than 70% of American voters in the 2022 midterm elections are not likely to vote for a candidate who supports allowing minors to undergo gender transition procedures. According to the survey, nearly 80% of independent voters and 43% of Democrats join Republicans in opposing candidates who support allowing minors ...
 
@@ -380,7 +333,6 @@ A new poll found that more than 70% of American voters in the 2022 midterm elect
  - [https://www.dailywire.com/news/baggate-cornhole-controversy-after-top-players-accused-of-cheating](https://www.dailywire.com/news/baggate-cornhole-controversy-after-top-players-accused-of-cheating)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 13:35:25+00:00
- - tags: None
 
 A roiling controversy has sprung out in the world of professional cornhole, the game in which players toss bags of resin beads into a hole in slanted boards. The No.1 ranked doubles team at the 2022 American Cornhole League World Championships in August was accused of cheating in a scenario now referred to as BagGate. ...
 
@@ -388,7 +340,6 @@ A roiling controversy has sprung out in the world of professional cornhole, the 
  - [https://www.dailywire.com/news/blackrock-makes-major-change-after-backlash-against-woke-investing](https://www.dailywire.com/news/blackrock-makes-major-change-after-backlash-against-woke-investing)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 13:01:48+00:00
- - tags: None
 
 BlackRock CEO Larry Fink said in a letter that his asset management company would extend choice in proxy voting to more large-scale investors. The firm, which handles roughly $8 trillion in assets, has been criticized for leveraging shareholder votes on behalf of clients to support the company’s own interests, which are linked to the environmental, ...
 
@@ -396,7 +347,6 @@ BlackRock CEO Larry Fink said in a letter that his asset management company woul
  - [https://www.dailywire.com/news/former-pakistani-prime-minister-shot](https://www.dailywire.com/news/former-pakistani-prime-minister-shot)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 12:54:21+00:00
- - tags: None
 
 Former Pakistani Prime Minister Imran Khan was shot in an alleged assassination attempt Thursday. He was rushed to the hospital where he is in stable condition, and the alleged gunman has been arrested. Khan was waving to a crowd from atop a container truck during a protest march when shots rang out. The former prime ...
 
@@ -404,7 +354,6 @@ Former Pakistani Prime Minister Imran Khan was shot in an alleged assassination 
  - [https://www.dailywire.com/news/judge-sentences-climate-activists-who-glued-themselves-to-painting-to-light-sentence-to-avoid-discouraging-future-protests](https://www.dailywire.com/news/judge-sentences-climate-activists-who-glued-themselves-to-painting-to-light-sentence-to-avoid-discouraging-future-protests)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 12:38:51+00:00
- - tags: None
 
 A judge said she sentenced two Belgian climate change activists who glued themselves to a well-known painting in the Netherlands to a lighter sentence than the public prosecutor requested because she did not want to discourage others from demonstrating by imposing a harsher punishment, according to Reuters. On Wednesday, the two individuals received sentences of ...
 
@@ -412,7 +361,6 @@ A judge said she sentenced two Belgian climate change activists who glued themse
  - [https://www.dailywire.com/news/gwen-stefani-thought-life-was-over-before-blake-shelton-god-just-put-us-together](https://www.dailywire.com/news/gwen-stefani-thought-life-was-over-before-blake-shelton-god-just-put-us-together)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 12:38:03+00:00
- - tags: None
 
 Gwen Stefani wants the world to know that after she had resigned herself to a life of loneliness following her divorce, God sent her future husband, Blake Shelton, into her world. The 53-year-old pop star shared her feelings for Shelton during a recent episode of Drew Barrymore’s podcast. Stefani made it clear that she had ...
 
@@ -420,7 +368,6 @@ Gwen Stefani wants the world to know that after she had resigned herself to a li
  - [https://www.dailywire.com/news/give-them-pandemic-amnesty-and-heres-what-theyll-beg-for-next](https://www.dailywire.com/news/give-them-pandemic-amnesty-and-heres-what-theyll-beg-for-next)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 12:04:14+00:00
- - tags: None
 
 If the pandemic brownshirts get “amnesty” for setting a generation of children back two grades and wishing unemployment and even death on skeptics of a hastily formulated COVID vaccine, you can bet they’re going to seek a mulligan for another cause in a year or two: The systematic maiming of thousands of kids who became ...
 
@@ -428,7 +375,6 @@ If the pandemic brownshirts get “amnesty” for setting a generation of childr
  - [https://www.dailywire.com/news/gop-house-members-investigate-following-report-of-amtraks-lavish-bonuses](https://www.dailywire.com/news/gop-house-members-investigate-following-report-of-amtraks-lavish-bonuses)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 11:51:40+00:00
- - tags: None
 
 Two GOP lawmakers are looking for answers after a recent report regarding Amtrak executives receiving six-figure bonuses despite the company losing money and receiving billions in taxpayer-funded support. Railroads, Pipelines, and Hazardous Materials Subcommittee Ranking Member Rick Crawford (R-AR) and Transportation and Infrastructure Committee Ranking Member Sam Graves (R-MO) sent a letter to Amtrak&#8217;s Chairman ...
 
@@ -436,7 +382,6 @@ Two GOP lawmakers are looking for answers after a recent report regarding Amtrak
  - [https://www.dailywire.com/news/we-cant-let-it-happen-trump-warns-inner-circle-of-free-speech-erosion-in-new-documentary](https://www.dailywire.com/news/we-cant-let-it-happen-trump-warns-inner-circle-of-free-speech-erosion-in-new-documentary)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 11:27:37+00:00
- - tags: None
 
 Former President Donald Trump issued a dire warning about free speech in America during a rare glimpse of Trump’s inner circle caught on camera. “My Dinner with Trump,” a new Daily Wire+ documentary featuring footage shot at Trump’s Bedminster, N.J., golf club, captures the former president talking with key advisers at a crucial time in ...
 
@@ -444,7 +389,6 @@ Former President Donald Trump issued a dire warning about free speech in America
  - [https://www.dailywire.com/news/bill-clinton-claims-its-the-gop-that-wants-americans-feeling-like-victims](https://www.dailywire.com/news/bill-clinton-claims-its-the-gop-that-wants-americans-feeling-like-victims)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 11:09:56+00:00
- - tags: None
 
 Former President Bill Clinton told a cheering crowd that Republicans want Americans to be “miserable,” accusing the GOP of “making everybody feel like a victim.” Clinton made the comments on Wednesday at a rally for Democrat congressional candidate Josh Riley in Hurleyville, New York. “Republicans are pretty simple actually, and pretty straightforward,” Clinton declared. “They ...
 
@@ -452,7 +396,6 @@ Former President Bill Clinton told a cheering crowd that Republicans want Americ
  - [https://www.dailywire.com/news/fetterman-bought-land-from-his-own-nonprofit-at-fraction-of-market-value-in-eyebrow-raising-deal-with-deputy-mayor-complaint-alleges](https://www.dailywire.com/news/fetterman-bought-land-from-his-own-nonprofit-at-fraction-of-market-value-in-eyebrow-raising-deal-with-deputy-mayor-complaint-alleges)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 10:52:32+00:00
- - tags: None
 
 Pennsylvania Lt. Governor and Democratic Senate candidate John Fetterman purchased a $75,000 property in Braddock from his own nonprofit for a mere $1,100, according to a complaint from the Center for Accountability and Government Ethics. The organization, a spinoff from the CPAC Foundation, contended that Braddock Redux, a nonprofit run by Fetterman and intended as ...
 
@@ -460,7 +403,6 @@ Pennsylvania Lt. Governor and Democratic Senate candidate John Fetterman purchas
  - [https://www.dailywire.com/news/shadow-ban-of-comic-book-series-on-indiegogo-is-another-example-of-big-tech-censorship](https://www.dailywire.com/news/shadow-ban-of-comic-book-series-on-indiegogo-is-another-example-of-big-tech-censorship)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 10:36:39+00:00
- - tags: None
 
 Elon Musk has his work cut out for him. The eccentric billionaire recently took over Twitter, vowing to restore previously banned accounts and offer a healthier approach to content moderation. We’ll have to wait and see how he lives up to those promises. Twitter’s existing censorship is considerable, of course. Some progressive stars can Tweet ...
 
@@ -468,7 +410,6 @@ Elon Musk has his work cut out for him. The eccentric billionaire recently took 
  - [https://www.dailywire.com/news/ice-ts-wife-insists-6-year-old-didnt-learn-sexy-dance-from-her-it-was-all-tiktok](https://www.dailywire.com/news/ice-ts-wife-insists-6-year-old-didnt-learn-sexy-dance-from-her-it-was-all-tiktok)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 10:18:52+00:00
- - tags: None
 
 Rapper Ice-T’s wife, Coco Austin, has a message for her critics, saying that her 6-year-old daughter’s sexy dance moves don’t come from her — they’re from TikTok. The 43-year-old actress has been frequently called out for her less-than-mainstream parenting tactics, including putting daughter Chanel in a stroller even at the age of 6 and bathing ...
 
@@ -476,7 +417,6 @@ Rapper Ice-T’s wife, Coco Austin, has a message for her critics, saying that h
  - [https://www.dailywire.com/news/dwyane-wade-responds-to-ex-wife-objecting-to-childs-gender-change-this-isnt-a-game](https://www.dailywire.com/news/dwyane-wade-responds-to-ex-wife-objecting-to-childs-gender-change-this-isnt-a-game)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 10:11:40+00:00
- - tags: None
 
 Former NBA player Dwyane Wade just responded to his ex-wife Siohvaughn Funches-Wade&#8217;s claims that he&#8217;s trying to make money off their transgender-identifying child Zaya’s “name and gender change.” The 40-year-old basketball took to Instagram on Thursday to defend his parenting. &#8220;Since this must be the new way of parenting, I guess I have to address ...
 
@@ -484,7 +424,6 @@ Former NBA player Dwyane Wade just responded to his ex-wife Siohvaughn Funches-W
  - [https://www.dailywire.com/news/joe-biden-the-groundhog-day-president](https://www.dailywire.com/news/joe-biden-the-groundhog-day-president)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 10:03:00+00:00
- - tags: None
 
 Remember that classic movie &#8220;Groundhog Day&#8221; with Bill Murray? Murray&#8217;s character, Phil Connors, is stuck in a time loop and hears the same stories and quotes from his acquaintances day in and day out, ad nauseam. That&#8217;s a bit of what President Joe Biden&#8216;s presidency is like for all Americans. The man just can&#8217;t help ...
 
@@ -492,7 +431,6 @@ Remember that classic movie &#8220;Groundhog Day&#8221; with Bill Murray? Murray
  - [https://www.dailywire.com/news/joe-rogan-torches-karine-jean-pierre-for-gaslighting-fing-everybody-hates-you](https://www.dailywire.com/news/joe-rogan-torches-karine-jean-pierre-for-gaslighting-fing-everybody-hates-you)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 08:47:17+00:00
- - tags: None
 
 Joe Rogan, host of the wildly popular &#8220;Joe Rogan Experience,&#8221; tore into White House Press Secretary Karine Jean-Pierre during an episode this week over her &#8220;incredible gaslighting.&#8221; Rogan made the remarks while talking to comedian Duncan Trussell as the two men donned their Halloween costumes. “If you’re a lawyer, your job is not to make ...
 
@@ -500,7 +438,6 @@ Joe Rogan, host of the wildly popular &#8220;Joe Rogan Experience,&#8221; tore i
  - [https://www.dailywire.com/news/michigans-largest-newspaper-rebuts-stephen-colbert-over-false-attack-on-gop-gov-candidate-tudor-dixon](https://www.dailywire.com/news/michigans-largest-newspaper-rebuts-stephen-colbert-over-false-attack-on-gop-gov-candidate-tudor-dixon)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 08:29:09+00:00
- - tags: None
 
 Michigan&#8217;s largest newspaper fact checked leftist comedian Stephen Colbert, host of &#8220;The Late Show,&#8221; for a false claim that he made about Republican gubernatorial nominee Tudor Dixon. At a debate last week against Democrat Governor Gretchen Whitmer, Dixon said, &#8220;I had a gentleman come up to me just a few nights ago, and he said, ...
 
@@ -508,7 +445,6 @@ Michigan&#8217;s largest newspaper fact checked leftist comedian Stephen Colbert
  - [https://www.dailywire.com/news/as-biden-demonizes-republicans-obama-warns-people-are-going-to-get-hurt-amid-demonizing-in-politics](https://www.dailywire.com/news/as-biden-demonizes-republicans-obama-warns-people-are-going-to-get-hurt-amid-demonizing-in-politics)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 08:11:23+00:00
- - tags: None
 
 Former President Barack Obama warned on the campaign trail Tuesday that &#8220;demonizing&#8221; political opponents was going to cause people to &#8220;get hurt,&#8221; remarks that he made just a day before President Joe Biden demonized Republicans in an address to the nation. The remarks from Obama come as Democrats have needed him on the campaign trail ...
 
@@ -516,7 +452,6 @@ Former President Barack Obama warned on the campaign trail Tuesday that &#8220;d
  - [https://www.dailywire.com/news/california-governor-gavin-newsom-warns-democrats-are-getting-destroyed-were-going-to-have-to-do-better](https://www.dailywire.com/news/california-governor-gavin-newsom-warns-democrats-are-getting-destroyed-were-going-to-have-to-do-better)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 07:47:47+00:00
- - tags: None
 
 California Democrat Governor Gavin Newsom warned in an interview that aired Wednesday night that Democrats were getting destroyed on messaging heading into next week&#8217;s midterm elections. &#8220;We’re getting crushed on narrative,&#8221; Newsom told CBS News’ Chief Washington Correspondent Major Garrett. &#8220;We’re going to have to do better in terms of getting on the offense and ...
 
@@ -524,7 +459,6 @@ California Democrat Governor Gavin Newsom warned in an interview that aired Wedn
  - [https://www.dailywire.com/news/ocasio-cortez-floats-conspiracy-theory-after-elon-musk-mocks-her](https://www.dailywire.com/news/ocasio-cortez-floats-conspiracy-theory-after-elon-musk-mocks-her)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 07:22:25+00:00
- - tags: None
 
 Rep. Alexandria Ocasio-Cortez (D-NY) appeared to float a conspiracy theory Wednesday night after new Twitter CEO Elon Musk mocked her on the platform, suggesting without evidence that he disabled features on her account. The drama started after AOC complained on Twitter this week about the changes that Musk is making to the platform, which garnered ...
 
@@ -532,6 +466,5 @@ Rep. Alexandria Ocasio-Cortez (D-NY) appeared to float a conspiracy theory Wedne
  - [https://www.dailywire.com/news/new-hampshire-could-see-general-election-as-bolduc-takes-lead-in-trafalgar-daily-wire-poll](https://www.dailywire.com/news/new-hampshire-could-see-general-election-as-bolduc-takes-lead-in-trafalgar-daily-wire-poll)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-03 03:30:27+00:00
- - tags: None
 
 New Hampshire could be having a “General” election on Tuesday. Retired U.S. Army Brigadier General Don Bolduc has taken the lead in what began as a longshot bid to unseat New Hampshire Democratic Sen. Maggie Hassan, according to a new Trafalgar/Daily Wire poll. The new data came just hours before the pair squared off in ...

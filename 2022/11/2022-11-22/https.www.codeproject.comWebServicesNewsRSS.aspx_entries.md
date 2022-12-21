@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## A Guide To Keyboard Accessibility: HTML And CSS (Part 1)
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59575](https://www.codeproject.com/script/News/View.aspx?nwid=59575)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-22 05:00:00+00:00
- - tags: None
 
 Here Cristian Diaz covers a good set of practices and recommendations on how to use HTML and CSS to create a great experience for keyboard users.
 
@@ -12,7 +11,6 @@ Here Cristian Diaz covers a good set of practices and recommendations on how to 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59571](https://www.codeproject.com/script/News/View.aspx?nwid=59571)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-22 05:00:00+00:00
- - tags: None
 
 "Let there be light, sound, drums, guitar. Oh, let there be rock!"(et)
 
@@ -20,7 +18,6 @@ Here Cristian Diaz covers a good set of practices and recommendations on how to 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59574](https://www.codeproject.com/script/News/View.aspx?nwid=59574)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-22 05:00:00+00:00
- - tags: None
 
 I recently wrote about How I massively improved my website performance by using the right tool for the job, and the TL;DR is that being mindful and purposeful about using less JavaScript, CSS, third-party scripts and whatever else we build websites with these days — dramatically increases site performance, accessibility and the end-user experience.
 
@@ -28,7 +25,6 @@ I recently wrote about How I massively improved my website performance by using 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59577](https://www.codeproject.com/script/News/View.aspx?nwid=59577)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-22 05:00:00+00:00
- - tags: None
 
 If only there were another web browser that could be used
 
@@ -36,7 +32,6 @@ If only there were another web browser that could be used
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59581](https://www.codeproject.com/script/News/View.aspx?nwid=59581)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-22 05:00:00+00:00
- - tags: None
 
 "I really believe that if the political leaders of the world could see their planet from a distance of, let's say 100,000 miles, their outlook would be fundamentally changed. "
 
@@ -44,7 +39,6 @@ If only there were another web browser that could be used
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59573](https://www.codeproject.com/script/News/View.aspx?nwid=59573)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-22 05:00:00+00:00
- - tags: None
 
 In a previous blog post we introduced the private preview for port forwarding in Visual Studio, this support has now been renamed to “dev tunnels” and is now in public preview.
 
@@ -52,7 +46,6 @@ In a previous blog post we introduced the private preview for port forwarding in
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59569](https://www.codeproject.com/script/News/View.aspx?nwid=59569)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-22 05:00:00+00:00
- - tags: None
 
 [ItIsAStringAttribute()]
 
@@ -60,7 +53,6 @@ In a previous blog post we introduced the private preview for port forwarding in
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59572](https://www.codeproject.com/script/News/View.aspx?nwid=59572)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-22 05:00:00+00:00
- - tags: None
 
 BEM. Like seemingly all techniques in the world of front-end development, writing CSS in a BEM format can be polarizing.
 
@@ -68,7 +60,6 @@ BEM. Like seemingly all techniques in the world of front-end development, writin
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59570](https://www.codeproject.com/script/News/View.aspx?nwid=59570)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-22 05:00:00+00:00
- - tags: None
 
 Because we can always use another package manager
 
@@ -76,7 +67,6 @@ Because we can always use another package manager
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59579](https://www.codeproject.com/script/News/View.aspx?nwid=59579)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-22 05:00:00+00:00
- - tags: None
 
 A deep dive into the problems with scaling CSS on large projects. Understand the evolution of CSS best practices.
 
@@ -84,7 +74,6 @@ A deep dive into the problems with scaling CSS on large projects. Understand the
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59583](https://www.codeproject.com/script/News/View.aspx?nwid=59583)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-22 05:00:00+00:00
- - tags: None
 
 "Time is on my side"
 
@@ -92,7 +81,6 @@ A deep dive into the problems with scaling CSS on large projects. Understand the
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59582](https://www.codeproject.com/script/News/View.aspx?nwid=59582)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-22 05:00:00+00:00
- - tags: None
 
 "There's no place like home"
 
@@ -100,7 +88,6 @@ A deep dive into the problems with scaling CSS on large projects. Understand the
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59584](https://www.codeproject.com/script/News/View.aspx?nwid=59584)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-22 05:00:00+00:00
- - tags: None
 
 Because I know you all want to be trendy
 
@@ -108,7 +95,6 @@ Because I know you all want to be trendy
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59578](https://www.codeproject.com/script/News/View.aspx?nwid=59578)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-22 05:00:00+00:00
- - tags: None
 
 Here is the new-good stuff. You get to find the new-bad stuff on your own
 
@@ -116,7 +102,6 @@ Here is the new-good stuff. You get to find the new-bad stuff on your own
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59580](https://www.codeproject.com/script/News/View.aspx?nwid=59580)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-22 05:00:00+00:00
- - tags: None
 
 Let’s be very clear: it absolutely does matter what unit you use in your CSS.
 
@@ -124,6 +109,5 @@ Let’s be very clear: it absolutely does matter what unit you use in your CSS.
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59576](https://www.codeproject.com/script/News/View.aspx?nwid=59576)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-22 05:00:00+00:00
- - tags: None
 
 Unlike previous Windows APIs, the WinUI MenuBar and MenuBarItem do not support data binding, so you must build your menu tree from MenuFlyoutItem, MenuFlyoutSubItem, and MenuFlyoutSeparator, either in code or directly in your XAML.

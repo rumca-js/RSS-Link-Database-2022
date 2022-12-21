@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## AMD’s radical Radeon RX 7900 XTX is brutally fast and a lot cheaper than Nvidia
  - [https://www.pcworld.com/article/1370428/amd-rdna-3-radeon-rx-7900-xtx-reveal.html](https://www.pcworld.com/article/1370428/amd-rdna-3-radeon-rx-7900-xtx-reveal.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-03 20:47:56+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>The <a href="https://www.pcworld.com/article/1348123/nvidia-geforce-rtx-4090-review-ada-lovelace.html">GeForce RTX 4090 is an absolute monster</a> of a graphics card, but the <a href="https://www.pcworld.com/article/416006/the-best-graphics-cards-for-pc-gaming.html">battle for the next generation of GPUs</a> is only getting started. On Thursday, AMD revealed its own 4K gaming champion, and the Radeon RX 7900 XTX and 7900 XT aim to topple Nvidia&rsquo;s goliath with help from a stash of smart tricks that could make David himself blush. </p>
@@ -180,7 +179,6 @@ Gaming, GPUs</div>
  - [https://www.pcworld.com/article/1370186/steam-for-chromeos-enters-beta-now-available-on-20-chromebooks.html](https://www.pcworld.com/article/1370186/steam-for-chromeos-enters-beta-now-available-on-20-chromebooks.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-03 16:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>ChromeOS has a reputation for running on lightweight, affordable Chromebooks, but that seems to be shifting as of late. With the rise of game streaming services (RIP Stadia), several manufacturers have now made &ldquo;gaming&rdquo; Chromebooks with powerful processors and fast screens. So it&rsquo;s appropriate that Steam, the de facto home of PC gaming, is expanding to more Chromebooks as it graduates from a very limited alpha. </p>
@@ -210,7 +208,6 @@ Chromebooks</div>
  - [https://www.pcworld.com/article/1370152/how-to-watch-amds-radeon-7000-and-rdna-3-event-live.html](https://www.pcworld.com/article/1370152/how-to-watch-amds-radeon-7000-and-rdna-3-event-live.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-03 15:13:47+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>The day is finally here: AMD is set to announce the first of its next-gen desktop graphics cards based on the long-awaited RDNA 3 design. This will be AMD&rsquo;s answer to <a href="https://www.pcworld.com/article/1348123/nvidia-geforce-rtx-4090-review-ada-lovelace.html" rel="noreferrer noopener" target="_blank">Nvidia&rsquo;s RTX 40-series</a> and <a href="https://www.pcworld.com/article/1341464/intel-arc-a770-a750-graphics-card-xe-hpg-review.html" rel="noreferrer noopener" target="_blank">Intel&rsquo;s brand new ARC cards</a> and, most likely, the last major announcement for desktop hardware in the 2022 calendar year. AMD is live-streaming the announcement this afternoon at 4:00 PM Eastern US time, 1:00 PM Pacific. </p>
@@ -234,7 +231,6 @@ GPUs</div>
  - [https://www.pcworld.com/article/1370121/new-windows-powertoys-locksmith-tool.html](https://www.pcworld.com/article/1370121/new-windows-powertoys-locksmith-tool.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-03 14:35:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>How often have you been in the middle of clearing off your desktop by deleting a bunch of unused files, only for Windows to tell you that it&rsquo;s in use by another program? Except that Windows often doesn&rsquo;t tell you <em>which </em>program is using it, so you shrug like John Travolta in that one <em>Pulp Fiction</em> scene. The latest addition to the immanently useful PowerToys collection can fix that problem. The File Locksmith tool is available in <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://learn.microsoft.com/en-us/windows/powertoys/&amp;xcust=2-2-1370121-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">the latest version of the program, v0.64.0</a>. </p>
@@ -255,7 +251,6 @@ Utilities</div>
  - [https://www.pcworld.com/article/1367130/how-to-download-e-mail-from-gmail.html](https://www.pcworld.com/article/1367130/how-to-download-e-mail-from-gmail.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-03 14:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Most folks nowadays use Gmail. Known for its intuitive interface, it&rsquo;s probably one of the most popular e-mail services around. In just a few easy steps, you can download an email or an attachment. If you plan on <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.howtogeek.com/792891/how-to-delete-a-gmail-account/&amp;xcust=2-1-1367130-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">deleting your account</a>, you can <a href="https://www.pcworld.com/article/448915/google-finally-lets-you-download-your-gmail-and-calendar-data-heres-how.html">download all of your Gmail data at once</a>. Let&rsquo;s get right into it. </p>
@@ -382,7 +377,6 @@ Gmail</div>
  - [https://www.pcworld.com/article/1369962/nab-our-favorite-logitech-gaming-mouse-for-just-25.html](https://www.pcworld.com/article/1369962/nab-our-favorite-logitech-gaming-mouse-for-just-25.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-03 13:26:34+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you&rsquo;re on the hunt for an affordable gaming mouse, you&rsquo;re in luck, as we&rsquo;ve got an awesome deal for you today. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/Logitech-G502-Performance-Gaming-Mouse/dp/B07GBZ4Q68?pldnSite=1&amp;th=1&amp;xcust=2-1-1369962-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Amazon&rsquo;s selling the Logitech G502 Hero wired gaming mouse for just $34.99</a>. It also happens to be our top pick as the best wired gaming mouse here at PCWorld. <a href="https://www.pcworld.com/article/402764/logitech-g502-hero-mouse-review.html">In our review of the G502 Hero</a>, we rated it four and a half out of five stars plus an Editor&rsquo;s Choice award. It tics off all the right boxes in terms of power, comfort, and durability. Let&rsquo;s dive right into the specs and features then. </p>
@@ -399,7 +393,6 @@ Mice</div>
  - [https://www.pcworld.com/article/1364305/keychron-q8-review-a-quality-keyboard-for-the-ergo-riche.html](https://www.pcworld.com/article/1364305/keychron-q8-review-a-quality-keyboard-for-the-ergo-riche.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-03 10:45:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><div class="review" id="review-body"><img alt="Editors' Choice" class="review-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" /><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
@@ -545,7 +538,6 @@ Keyboards</div>
  - [https://www.pcworld.com/article/1368266/how-to-delete-your-twitter-account-2.html](https://www.pcworld.com/article/1368266/how-to-delete-your-twitter-account-2.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-03 10:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>So you&rsquo;re done with Twitter. If you want to leave the service completely, you can delete your account&mdash;though it will hang around for a bit before finally disappearing into the great digital beyond.</p>
@@ -604,7 +596,6 @@ Internet, Social Networking Apps</div>
  - [https://www.pcworld.com/article/1368195/how-to-download-your-twitter-data.html](https://www.pcworld.com/article/1368195/how-to-download-your-twitter-data.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-03 10:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>The future of Twitter has now become much murkier, thanks to the recent shake-up in Twitter&rsquo;s management. But even if you&rsquo;re not wondering how you&rsquo;ll have access to your Twitter account as it is, grabbing a copy of your data is never a bad idea. Especially when it&rsquo;s so easy&mdash;exporting your account info is straightforward. Just a few clicks (and a reauthentication of your account credentials) will put in your request for your data archive, which you&rsquo;ll receive a day or so later.</p>
@@ -650,7 +641,6 @@ Internet, Social Networking Apps</div>
  - [https://www.pcworld.com/article/1074131/save-20-off-the-cost-of-a-three-month-subscription-to-xbox-live-gold.html](https://www.pcworld.com/article/1074131/save-20-off-the-cost-of-a-three-month-subscription-to-xbox-live-gold.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-03 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you own an Xbox gaming console, then this deal should be of particular interest. That&rsquo;s because, for a limited time, you can get a&nbsp;<a href="https://shop.pcworld.com/sales/xbox-live-gold-3-month-subscription-4?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=xbox-live-gold-3-month-subscription-4&amp;utm_term=scsf-555758&amp;utm_content=a0x1P000004yTRLQA2&amp;scsonar=1" rel="noreferrer noopener" target="_blank">three-month subscription to Xbox Live Gold</a>&nbsp;&mdash; which offers access to a wide assortment of premium gameplay features &mdash; for just $19.99.</p>

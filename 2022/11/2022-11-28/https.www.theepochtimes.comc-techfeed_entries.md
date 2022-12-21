@@ -1,10 +1,9 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/
+# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
 
 ## Facebook Fined $277 Million for Privacy Violations
  - [https://www.theepochtimes.com/facebook-fined-275-million-for-privacy-violations_4890444.html](https://www.theepochtimes.com/facebook-fined-275-million-for-privacy-violations_4890444.html)
  - RSS feed: https://www.theepochtimes.com/c-tech/feed/
  - date published: 2022-11-28 20:05:54+00:00
- - tags: None
 
 The Meta logo, and Facebook's logo, on a smartphone screen. (Kirill Kudryavtsev/AFP via Getty Images)
 
@@ -12,7 +11,6 @@ The Meta logo, and Facebook's logo, on a smartphone screen. (Kirill Kudryavtsev/
  - [https://www.theepochtimes.com/bahamas-ag-says-ftx-debacle-not-their-fault_4890134.html](https://www.theepochtimes.com/bahamas-ag-says-ftx-debacle-not-their-fault_4890134.html)
  - RSS feed: https://www.theepochtimes.com/c-tech/feed/
  - date published: 2022-11-28 19:59:21+00:00
- - tags: None
 
 Illustration by The Epoch Times. (Craig Barritt/Getty Images)
 
@@ -20,7 +18,6 @@ Illustration by The Epoch Times. (Craig Barritt/Getty Images)
  - [https://www.theepochtimes.com/blockfi-files-for-chapter-11-bankruptcy-protection-as-ftx-contagion-spread_4890225.html](https://www.theepochtimes.com/blockfi-files-for-chapter-11-bankruptcy-protection-as-ftx-contagion-spread_4890225.html)
  - RSS feed: https://www.theepochtimes.com/c-tech/feed/
  - date published: 2022-11-28 19:40:53+00:00
- - tags: None
 
 Souvenir tokens representing cryptocurrency networks Bitcoin, Ethereum, Dogecoin, and Ripple plunge into water in this illustration, on May 17, 2022. (Dado Ruvic/Illustration/Reuters)
 
@@ -28,7 +25,6 @@ Souvenir tokens representing cryptocurrency networks Bitcoin, Ethereum, Dogecoin
  - [https://www.theepochtimes.com/fearing-revenue-losses-local-governments-mobilize-veterans-to-cover-worker-shortage-at-foxconn_4888169.html](https://www.theepochtimes.com/fearing-revenue-losses-local-governments-mobilize-veterans-to-cover-worker-shortage-at-foxconn_4888169.html)
  - RSS feed: https://www.theepochtimes.com/c-tech/feed/
  - date published: 2022-11-28 00:46:57+00:00
- - tags: None
 
 A Chinese worker walks past a Foxconn factory in an industrial district of Foshan City, southern China's Guangdong province on June 17, 2010. (STR/AFP via Getty Images)
 
@@ -36,6 +32,5 @@ A Chinese worker walks past a Foxconn factory in an industrial district of Fosha
  - [https://www.theepochtimes.com/twitter-ceo-musk-says-user-signups-at-all-time-high-touts-features-of-everything-app_4888398.html](https://www.theepochtimes.com/twitter-ceo-musk-says-user-signups-at-all-time-high-touts-features-of-everything-app_4888398.html)
  - RSS feed: https://www.theepochtimes.com/c-tech/feed/
  - date published: 2022-11-28 00:01:08+00:00
- - tags: None
 
 Elon Musk's Twitter profile on a smartphone placed on printed Twitter logos on April 28, 2022. (Dado Ruvic/Illustration/Reuters)

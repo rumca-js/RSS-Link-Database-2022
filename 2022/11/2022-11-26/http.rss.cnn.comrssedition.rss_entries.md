@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## Police believe the attack on four Idaho college students was targeted
  - [https://www.cnn.com/collections/crime-for-intl-112622/](https://www.cnn.com/collections/crime-for-intl-112622/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 23:33:03+00:00
- - tags: None
 
 
 
@@ -12,7 +11,6 @@
  - [https://www.cnn.com/collections/architecture-for-intl-112622/](https://www.cnn.com/collections/architecture-for-intl-112622/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 23:14:58+00:00
- - tags: None
 
 
 
@@ -20,7 +18,6 @@
  - [https://www.cnn.com/collections/tasting-the-world-for-intl-sponsorship-through-nov-30/](https://www.cnn.com/collections/tasting-the-world-for-intl-sponsorship-through-nov-30/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 23:10:23+00:00
- - tags: None
 
 
 
@@ -28,7 +25,6 @@
  - [https://www.edition.com/webview/europe/live-news/russia-ukraine-war-news-11-26-22/h_6c1034ad4e86bece78fb54adc16539e5](https://www.edition.com/webview/europe/live-news/russia-ukraine-war-news-11-26-22/h_6c1034ad4e86bece78fb54adc16539e5)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 22:44:22.203967+00:00
- - tags: None
 
 
 
@@ -36,7 +32,6 @@
  - [https://www.cnn.com/collections/world-cup-for-intl-112622/](https://www.cnn.com/collections/world-cup-for-intl-112622/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 22:36:59+00:00
- - tags: None
 
 
 
@@ -44,7 +39,6 @@
  - [https://www.cnn.com/videos/world/2022/11/26/escaped-ostriches-alberta-cprog-orig-kj.cnn](https://www.cnn.com/videos/world/2022/11/26/escaped-ostriches-alberta-cprog-orig-kj.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 21:37:15+00:00
- - tags: None
 
 A farmer's flock of ostriches escaped and ran wild in Alberta, Canada, leaving onlookers in awe and Mounted Police officers in the dust.
 
@@ -52,7 +46,6 @@ A farmer's flock of ostriches escaped and ran wild in Alberta, Canada, leaving o
  - [https://www.cnn.com/2022/11/26/football/lionel-messi-argentina-mexico-world-cup-spt-intl/index.html](https://www.cnn.com/2022/11/26/football/lionel-messi-argentina-mexico-world-cup-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 21:15:22+00:00
- - tags: None
 
 Yet another moment of Lionel Messi magic helped salvage Argentina's World Cup hopes at Qatar 2022 as La Albiceleste secured a much-needed victory over Mexico.
 
@@ -60,7 +53,6 @@ Yet another moment of Lionel Messi magic helped salvage Argentina's World Cup ho
  - [https://www.cnn.com/2022/11/26/sport/doddie-weir-rugby-union-obituary-spt-intl/index.html](https://www.cnn.com/2022/11/26/sport/doddie-weir-rugby-union-obituary-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 20:17:33+00:00
- - tags: None
 
 Rugby great Doddie Weir has died at age 52, according to a statement from the Weir family that was released through the Scottish Rugby Union.
 
@@ -68,7 +60,6 @@ Rugby great Doddie Weir has died at age 52, according to a statement from the We
  - [https://www.cnn.com/2022/11/26/politics/us-chevron-venezuela-oil-agreement/index.html](https://www.cnn.com/2022/11/26/politics/us-chevron-venezuela-oil-agreement/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 19:16:24+00:00
- - tags: None
 
 The US has granted Chevron limited authorization to resume pumping oil from Venezuela following the announcement Saturday that the Venezuelan government and the opposition group have reached an agreement on humanitarian relief and will continue to negotiate for a solution to the country's chronic economic and political crisis, including a focus on the 2024 elections.
 
@@ -76,7 +67,6 @@ The US has granted Chevron limited authorization to resume pumping oil from Vene
  - [https://edition.cnn.com/sport/live-news/world-cup-2022-11-26-2022/index.html](https://edition.cnn.com/sport/live-news/world-cup-2022-11-26-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 17:44:14.267786+00:00
- - tags: None
 
 
 
@@ -84,7 +74,6 @@ The US has granted Chevron limited authorization to resume pumping oil from Vene
  - [https://edition.cnn.com/webview/sport/live-news/world-cup-2022-11-26-2022/index.html](https://edition.cnn.com/webview/sport/live-news/world-cup-2022-11-26-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 17:44:14.148249+00:00
- - tags: None
 
 
 
@@ -92,7 +81,6 @@ The US has granted Chevron limited authorization to resume pumping oil from Vene
  - [https://www.cnn.com/2022/11/26/europe/belarus-foreign-minister-dies-intl/index.html](https://www.cnn.com/2022/11/26/europe/belarus-foreign-minister-dies-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 16:51:56+00:00
- - tags: None
 
 The Foreign Minister of Belarus Vladimir Makei has died at the age of 64, the country's foreign ministry said Saturday.
 
@@ -100,7 +88,6 @@ The Foreign Minister of Belarus Vladimir Makei has died at the age of 64, the co
  - [https://www.cnn.com/2022/11/21/business/nightcap-disney-iger-chapek/index.html](https://www.cnn.com/2022/11/21/business/nightcap-disney-iger-chapek/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 14:49:02+00:00
- - tags: None
 
 Over at Disney, it's out with the new Bob and in with the old...
 
@@ -108,7 +95,6 @@ Over at Disney, it's out with the new Bob and in with the old...
  - [https://www.cnn.com/2022/11/26/football/football-soccer-history-world-cup-spt-intl/index.html](https://www.cnn.com/2022/11/26/football/football-soccer-history-world-cup-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 14:40:44+00:00
- - tags: None
 
 "A rose by any other name would smell as sweet."
 
@@ -116,7 +102,6 @@ Over at Disney, it's out with the new Bob and in with the old...
  - [https://www.cnn.com/2022/11/26/entertainment/welcome-to-chippendales-hulu-plc/index.html](https://www.cnn.com/2022/11/26/entertainment/welcome-to-chippendales-hulu-plc/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 14:40:08+00:00
- - tags: None
 
 Gratitude. That's the word and exactly how I feel.
 
@@ -124,7 +109,6 @@ Gratitude. That's the word and exactly how I feel.
  - [https://www.cnn.com/2022/11/26/us/university-of-idaho-murders-saturday/index.html](https://www.cnn.com/2022/11/26/us/university-of-idaho-murders-saturday/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 14:35:43+00:00
- - tags: None
 
 Almost two weeks after the stabbing deaths of four University of Idaho students, police are still searching for clues and asking the public for help.
 
@@ -132,7 +116,6 @@ Almost two weeks after the stabbing deaths of four University of Idaho students,
  - [https://www.cnn.com/2022/11/26/entertainment/irene-cara-obit/index.html](https://www.cnn.com/2022/11/26/entertainment/irene-cara-obit/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 14:34:01+00:00
- - tags: None
 
 Academy Award winner Irene Cara, best known for singing the theme songs for "Fame" and "Flashdance," has died in her Florida home, according to a statement from her publicist made on behalf of the singer's family. She was 63.
 
@@ -140,7 +123,6 @@ Academy Award winner Irene Cara, best known for singing the theme songs for "Fam
  - [https://www.cnn.com/2022/11/26/opinions/lisa-ling-what-ive-learned-this-is-life/index.html](https://www.cnn.com/2022/11/26/opinions/lisa-ling-what-ive-learned-this-is-life/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 14:30:44+00:00
- - tags: None
 
 It's hard to describe what it's like when less than an hour after I meet someone, a person divulges a trauma, or some deeply held secret.
 
@@ -148,7 +130,6 @@ It's hard to describe what it's like when less than an hour after I meet someone
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-11-26-22/index.html](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-11-26-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 13:58:10.992496+00:00
- - tags: None
 
 
 
@@ -156,7 +137,6 @@ It's hard to describe what it's like when less than an hour after I meet someone
  - [https://www.cnn.com/style/article/spencer-tunick-naked-photoshoot-bondi-beach-intl/index.html](https://www.cnn.com/style/article/spencer-tunick-naked-photoshoot-bondi-beach-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 13:40:25+00:00
- - tags: None
 
 Around 2,500 people stripped off for a naked photo shoot on Australia's Bondi Beach on Saturday, designed to raise awareness of skin cancer.
 
@@ -164,7 +144,6 @@ Around 2,500 people stripped off for a naked photo shoot on Australia's Bondi Be
  - [https://www.cnn.com/2022/11/26/politics/georgia-runoff-early-voting-starts/index.html](https://www.cnn.com/2022/11/26/politics/georgia-runoff-early-voting-starts/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 13:02:21+00:00
- - tags: None
 
 A week-long early voting period begins Saturday in some Georgia counties as Democratic Sen. Raphael Warnock and Republican challenger Herschel Walker enter a week-and-a-half, post-Thanksgiving sprint to their December 6 runoff election.
 
@@ -172,7 +151,6 @@ A week-long early voting period begins Saturday in some Georgia counties as Demo
  - [https://www.cnn.com/2022/11/26/europe/landslide-italy-ischia-intl/index.html](https://www.cnn.com/2022/11/26/europe/landslide-italy-ischia-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 13:02:19+00:00
- - tags: None
 
 Rescuers were searching for at least 13 people Saturday after heavy rain caused a landslide on the Italian holiday island of Ischia.
 
@@ -180,7 +158,6 @@ Rescuers were searching for at least 13 people Saturday after heavy rain caused 
  - [https://edition.cnn.com/interactive/2022/11/middleeast/iran-protests-sexual-assault/index.html](https://edition.cnn.com/interactive/2022/11/middleeast/iran-protests-sexual-assault/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 12:44:07.224426+00:00
- - tags: None
 
 
 
@@ -188,7 +165,6 @@ Rescuers were searching for at least 13 people Saturday after heavy rain caused 
  - [https://www.cnn.com/2022/11/26/football/tunisia-australia-saudi-arabia-poland-france-denmark-world-cup-2022-spt-intl/index.html](https://www.cnn.com/2022/11/26/football/tunisia-australia-saudi-arabia-poland-france-denmark-world-cup-2022-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 12:18:07+00:00
- - tags: None
 
 Australia won its first World Cup match since June 2010, defeating Tunisia 1-0 to give itself a chance of qualifying for the knockout stages in Qatar.
 
@@ -196,7 +172,6 @@ Australia won its first World Cup match since June 2010, defeating Tunisia 1-0 t
  - [https://www.cnn.com/2022/11/26/football/onelove-armband-qatar-world-cup-fifa-spt-intl/index.html](https://www.cnn.com/2022/11/26/football/onelove-armband-qatar-world-cup-fifa-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 11:04:03+00:00
- - tags: None
 
 FIFA President Gianni Infantino pleaded with countries to let football take center stage ahead of the World Cup in Qatar, but it hasn't quite worked out like that.
 
@@ -204,7 +179,6 @@ FIFA President Gianni Infantino pleaded with countries to let football take cent
  - [https://www.cnn.com/2022/11/26/world/spacex-launch-saturday-iss-dwarf-tomatoes-scn/index.html](https://www.cnn.com/2022/11/26/world/spacex-launch-saturday-iss-dwarf-tomatoes-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 11:02:08+00:00
- - tags: None
 
 SpaceX will once again try to get a fresh haul of supplies to the International Space Station this weekend after bad weather at the launch site forced the company to wave off its first attempt.
 
@@ -212,7 +186,6 @@ SpaceX will once again try to get a fresh haul of supplies to the International 
  - [https://www.cnn.com/2022/11/26/politics/biden-winter-challenges/index.html](https://www.cnn.com/2022/11/26/politics/biden-winter-challenges/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 11:00:49+00:00
- - tags: None
 
 This holiday season looks very different from the last for many Americans, when Covid-19 test shortages and an Omicron variant surge disrupted numerous family celebrations.
 
@@ -220,7 +193,6 @@ This holiday season looks very different from the last for many Americans, when 
  - [https://www.cnn.com/2022/11/26/middleeast/iran-supreme-leader-praises-crackdown-intl/index.html](https://www.cnn.com/2022/11/26/middleeast/iran-supreme-leader-praises-crackdown-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 10:55:20+00:00
- - tags: None
 
 Iran's Supreme Leader has praised the country's Basij paramilitary force for its role in the deadly crackdown on anti-regime protesters.
 
@@ -228,7 +200,6 @@ Iran's Supreme Leader has praised the country's Basij paramilitary force for its
  - [https://www.cnn.com/2022/11/26/health/superager-secrets-good-memory-wellness/index.html](https://www.cnn.com/2022/11/26/health/superager-secrets-good-memory-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 10:02:01+00:00
- - tags: None
 
 Despite volunteering and working out at the gym several days each week, socializing frequently with friends and family, reading all manner of books and doing daily crossword puzzles, 85-year-old Carol Siegler is restless.
 
@@ -236,7 +207,6 @@ Despite volunteering and working out at the gym several days each week, socializ
  - [https://www.cnn.com/2022/11/26/us/chesapeake-virginia-walmart-shooting-saturday/index.html](https://www.cnn.com/2022/11/26/us/chesapeake-virginia-walmart-shooting-saturday/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 09:59:13+00:00
- - tags: None
 
 The youngest victim in this week's mass shooting inside a Walmart in Chesapeake, Virginia, is a 16-year-old employee who reportedly used his first paycheck to buy his mother a gift before he was killed two days ahead of Thanksgiving.
 
@@ -244,7 +214,6 @@ The youngest victim in this week's mass shooting inside a Walmart in Chesapeake,
  - [https://www.cnn.com/travel/article/travel-news-spain-high-speed-rail-greece-airport/index.html](https://www.cnn.com/travel/article/travel-news-spain-high-speed-rail-greece-airport/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 09:58:34+00:00
- - tags: None
 
 We're more than halfway through the US Thanksgiving weekend, but the most expensive holiday travel season yet is just getting started. If you're planning a trip in the coming months, get prepped by reading air travel secrets as revealed by flight attendants.
 
@@ -252,7 +221,6 @@ We're more than halfway through the US Thanksgiving weekend, but the most expens
  - [https://www.cnn.com/style/article/coin-fake-emperor-real-intl-scli-scn/index.html](https://www.cnn.com/style/article/coin-fake-emperor-real-intl-scli-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 09:49:28+00:00
- - tags: None
 
 Scientists in the United Kingdom say they have proven the authenticity of several Roman coins previously dismissed as forgeries -- providing evidence that an emperor disregarded as fake might in fact have been real.
 
@@ -260,7 +228,6 @@ Scientists in the United Kingdom say they have proven the authenticity of severa
  - [https://www.cnn.com/2022/11/26/europe/kyiv-hospital-water-supply-intl/index.html](https://www.cnn.com/2022/11/26/europe/kyiv-hospital-water-supply-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 09:43:01+00:00
- - tags: None
 
 One of Ukraine's largest state hospitals was "on the verge of evacuating" some patients after it lost water supply because of Russian air strikes on Wednesday, a regional official told CNN.
 
@@ -268,7 +235,6 @@ One of Ukraine's largest state hospitals was "on the verge of evacuating" some p
  - [https://www.cnn.com/2022/11/26/world/india-arrest-toyah-cordingley-murder-case-intl-hnk/index.html](https://www.cnn.com/2022/11/26/world/india-arrest-toyah-cordingley-murder-case-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 09:10:04+00:00
- - tags: None
 
 Indian police have arrested a man in New Delhi in connection with the murder of an Australian woman found dead on a beach in 2018 -- ending a four-year international manhunt for her suspected killer.
 
@@ -276,7 +242,6 @@ Indian police have arrested a man in New Delhi in connection with the murder of 
  - [https://www.cnn.com/2022/11/26/us/black-twitter-future-reaj/index.html](https://www.cnn.com/2022/11/26/us/black-twitter-future-reaj/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 09:05:31+00:00
- - tags: None
 
 Black Twitter is mourning the possible end of the influential community they found on Twitter more than a decade ago, but users are split between finding a new app or staying put.
 
@@ -284,7 +249,6 @@ Black Twitter is mourning the possible end of the influential community they fou
  - [https://www.cnn.com/2022/11/26/health/sebastian-junger-blood-donation-wellness/index.html](https://www.cnn.com/2022/11/26/health/sebastian-junger-blood-donation-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 08:02:25+00:00
- - tags: None
 
 Sebastian Junger is used to dodging bullets in war zones, so he didn't expect to almost die in his own driveway.
 
@@ -292,7 +256,6 @@ Sebastian Junger is used to dodging bullets in war zones, so he didn't expect to
  - [https://www.cnn.com/2022/11/26/asia/xinjiang-urumqi-china-lockdown-protests-intl-hnk/index.html](https://www.cnn.com/2022/11/26/asia/xinjiang-urumqi-china-lockdown-protests-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 07:27:25+00:00
- - tags: None
 
 Chinese authorities said Saturday they would lift a months-long Covid lockdown in the country's far western region of Xinjiang "in stages", following protests over a deadly fire at an apartment building in the regional capital of Urumqi.
 
@@ -300,7 +263,6 @@ Chinese authorities said Saturday they would lift a months-long Covid lockdown i
  - [https://www.cnn.com/2022/11/25/tech/apple-foxconn-iphone-supply-china-covid-intl-hnk/index.html](https://www.cnn.com/2022/11/25/tech/apple-foxconn-iphone-supply-china-covid-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 01:12:30+00:00
- - tags: None
 
 A violent workers' revolt at the world's largest iPhone factory this week in central China is further scrambling Apple's strained supply and highlighting how the country's stringent zero-Covid policy is hurting global technology firms.
 
@@ -308,6 +270,5 @@ A violent workers' revolt at the world's largest iPhone factory this week in cen
  - [https://www.cnn.com/videos/world/2022/11/25/putin-meets-with-mothers-of-fallen-russian-soldiers-pkg-tsr-intl-vpx.cnn](https://www.cnn.com/videos/world/2022/11/25/putin-meets-with-mothers-of-fallen-russian-soldiers-pkg-tsr-intl-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-26 00:32:56+00:00
- - tags: None
 
 Russian President Vladmir Putin met with the mothers of Russian soldiers, some of whom have died while fighting his war in Ukraine. CNN's Fred Pleitgen reports.

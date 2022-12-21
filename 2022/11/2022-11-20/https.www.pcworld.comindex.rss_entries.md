@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## Give thanks for early Black Friday savings on this projector and screen bundle
  - [https://www.pcworld.com/article/1383034/give-thanks-for-early-black-friday-savings-on-this-projector-and-screen-bundle.html](https://www.pcworld.com/article/1383034/give-thanks-for-early-black-friday-savings-on-this-projector-and-screen-bundle.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-20 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you need a reason to be thankful for this season, here&rsquo;s a big one: Black Friday came early, and you can save on two hot items: a&nbsp;<a href="https://shop.pcworld.com/sales/watch-from-anywhere-bundle-wemax-go-projector-and-40-portable-screen-bundle?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=watch-from-anywhere-bundle-wemax-go-projector-and-40-portable-screen-bundle&amp;utm_term=scsf-557628&amp;utm_content=a0x1P000004ya7vQAA&amp;scsonar=1" rel="noreferrer noopener" target="_blank">1080P projector and a 40-inch portable screen</a>. During our Thankful Deals sale, which runs until November 23 at 11:59 PM Pacific, both items are on sale for $199.99. That&rsquo;s much less than if you were to buy each item from our shop individually.</p>

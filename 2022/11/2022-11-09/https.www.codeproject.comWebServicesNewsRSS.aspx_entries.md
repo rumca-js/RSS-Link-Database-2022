@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## .NET 7 is available today
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59439](https://www.codeproject.com/script/News/View.aspx?nwid=59439)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-09 05:00:00+00:00
- - tags: None
 
 Your lucky number!
 
@@ -12,7 +11,6 @@ Your lucky number!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59440](https://www.codeproject.com/script/News/View.aspx?nwid=59440)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-09 05:00:00+00:00
- - tags: None
 
 Due to patch 202310.4512, the operation of the accelerator and windshield wipers have been switched.
 
@@ -20,7 +18,6 @@ Due to patch 202310.4512, the operation of the accelerator and windshield wipers
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59443](https://www.codeproject.com/script/News/View.aspx?nwid=59443)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-09 05:00:00+00:00
- - tags: None
 
 For sale, used once
 
@@ -28,7 +25,6 @@ For sale, used once
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59441](https://www.codeproject.com/script/News/View.aspx?nwid=59441)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-09 05:00:00+00:00
- - tags: None
 
 Are you happy to see me, or are you just trying to increase your resolution?
 
@@ -36,7 +32,6 @@ Are you happy to see me, or are you just trying to increase your resolution?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59444](https://www.codeproject.com/script/News/View.aspx?nwid=59444)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-09 05:00:00+00:00
- - tags: None
 
 OK, switching to 'P@ssword2' to be twice as secure
 
@@ -44,7 +39,6 @@ OK, switching to 'P@ssword2' to be twice as secure
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59446](https://www.codeproject.com/script/News/View.aspx?nwid=59446)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-09 05:00:00+00:00
- - tags: None
 
 The coincidence that this always launches the same time as a .NET version amazes me
 
@@ -52,7 +46,6 @@ The coincidence that this always launches the same time as a .NET version amazes
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59445](https://www.codeproject.com/script/News/View.aspx?nwid=59445)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-09 05:00:00+00:00
- - tags: None
 
 .NET 7, C# 11... is this some kind of cross-promotion with 7-11? Can I get a Slurpee?
 
@@ -60,7 +53,6 @@ The coincidence that this always launches the same time as a .NET version amazes
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59442](https://www.codeproject.com/script/News/View.aspx?nwid=59442)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-09 05:00:00+00:00
- - tags: None
 
 Now you can become the next media sensation
 
@@ -68,6 +60,5 @@ Now you can become the next media sensation
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59438](https://www.codeproject.com/script/News/View.aspx?nwid=59438)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-09 05:00:00+00:00
- - tags: None
 
 In order to send an email, you will have to remind the service that it's muted first

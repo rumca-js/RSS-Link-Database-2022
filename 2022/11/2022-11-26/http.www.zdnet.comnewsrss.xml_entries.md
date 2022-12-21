@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## Black Friday AirPods Pro 2 deal 2022: Save $50 on Apple's new earbuds
  - [https://www.zdnet.com/article/airpods-pro-2-black-friday-deal-cyber-monday-2022-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/airpods-pro-2-black-friday-deal-cyber-monday-2022-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 23:29:00+00:00
- - tags: None
 
 Shut out the background noise with these noise-canceling Apple AirPods Pro 2 for $50 off during Black Friday.
 
@@ -12,7 +11,6 @@ Shut out the background noise with these noise-canceling Apple AirPods Pro 2 for
  - [https://www.zdnet.com/article/black-friday-tool-deal-2022-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/black-friday-tool-deal-2022-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 21:21:00+00:00
- - tags: None
 
 Whether you're looking to fix a PC or a car, Cyber Monday is a great time to pick up some great tool bargains.
 
@@ -20,7 +18,6 @@ Whether you're looking to fix a PC or a car, Cyber Monday is a great time to pic
  - [https://www.zdnet.com/article/off-grid-power-unbeatable-cyber-monday-deals-on-ecoflow-power-stations-and-solar-panels/#ftag=RSSbaffb68](https://www.zdnet.com/article/off-grid-power-unbeatable-cyber-monday-deals-on-ecoflow-power-stations-and-solar-panels/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 18:29:40+00:00
- - tags: None
 
 Power stations are the perfect off-grid or blackout power source. Pick up an amazing deal -- up to 50% off on EcoFlow power stations and solar panels.
 
@@ -28,7 +25,6 @@ Power stations are the perfect off-grid or blackout power source. Pick up an ama
  - [https://www.zdnet.com/home-and-office/home-entertainment/supercharge-your-pc-240hz-gaming-monitor-black-friday-2022-deals/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/supercharge-your-pc-240hz-gaming-monitor-black-friday-2022-deals/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 18:14:00+00:00
- - tags: None
 
 Upgrade your gaming experience by grabbing yourself a 240Hz gaming monitor in this weekend's great deals that continue through Cyber Monday.
 
@@ -36,7 +32,6 @@ Upgrade your gaming experience by grabbing yourself a 240Hz gaming monitor in th
  - [https://www.zdnet.com/article/dell-black-friday-deals-november-26-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/dell-black-friday-deals-november-26-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 17:58:00+00:00
- - tags: None
 
 Dell Black Friday deals still available: Get the Dell Precision 5570 Workstation for $2,329 (save $2,225) or get the Dell XPS 15 touchscreen laptop for $1,899 (save $650) with free two-day delivery on your purchase.
 
@@ -44,7 +39,6 @@ Dell Black Friday deals still available: Get the Dell Precision 5570 Workstation
  - [https://www.zdnet.com/article/apple-black-friday-deals-2022-november-26-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-black-friday-deals-2022-november-26-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 17:50:00+00:00
- - tags: None
 
 If someone on your holiday shopping list already owns an Apple device, they'll be ecstatic to find another Apple product under the tree. If you want to buy an Apple product without breaking the bank, here are some great Apple Black Friday deals.
 
@@ -52,7 +46,6 @@ If someone on your holiday shopping list already owns an Apple device, they'll b
  - [https://www.zdnet.com/article/live-blog-best-black-friday-deals-november-26-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/live-blog-best-black-friday-deals-november-26-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 16:26:00+00:00
- - tags: None
 
 Did you miss out on Black Friday 2022? No problem: Black Friday deals are still going strong, with retailers offering the lowest prices of the year. ZDNET is surfacing the latest and best sales online in real-time for you to check out now.
 
@@ -60,7 +53,6 @@ Did you miss out on Black Friday 2022? No problem: Black Friday deals are still 
  - [https://www.zdnet.com/article/black-friday-laptop-deal-2022-hp-envy-x360-touchscreen-2-in-1-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/black-friday-laptop-deal-2022-hp-envy-x360-touchscreen-2-in-1-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 15:51:00+00:00
- - tags: None
 
 Black Friday laptop deal alert: We found a touchscreen 2-in-1 Windows laptop for less than $500 at Best Buy. But the sale ends tonight -- so run, don't walk.
 
@@ -68,7 +60,6 @@ Black Friday laptop deal alert: We found a touchscreen 2-in-1 Windows laptop for
  - [https://www.zdnet.com/home-and-office/home-entertainment/black-friday-gaming-deals-november-26-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/black-friday-gaming-deals-november-26-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 15:03:00+00:00
- - tags: None
 
 Get a jump on your Christmas list with these awesome Black Friday deals on gaming laptops, consoles, and accessories. Retailers like Amazon, Best Buy, and Target have huge discounts on everything you need to create the ultimate gaming space.
 
@@ -76,7 +67,6 @@ Get a jump on your Christmas list with these awesome Black Friday deals on gamin
  - [https://www.zdnet.com/article/best-black-friday-deals-november-26-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-black-friday-deals-november-26-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 15:02:00+00:00
- - tags: None
 
 Black Friday may have been yesterday, but the deals are still ongoing. Check out our best picks to score savings on laptops, earbuds, and more.
 
@@ -84,7 +74,6 @@ Black Friday may have been yesterday, but the deals are still ongoing. Check out
  - [https://www.zdnet.com/home-and-office/black-friday-robot-vacuum-deals-november-26-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/black-friday-robot-vacuum-deals-november-26-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 14:14:00+00:00
- - tags: None
 
 Black Friday may be over, but you can save hundreds on a robot vacuum with these great deals. Keep checking back because we'll be adding more deals as we get closer to Cyber Monday.
 
@@ -92,7 +81,6 @@ Black Friday may be over, but you can save hundreds on a robot vacuum with these
  - [https://www.zdnet.com/article/black-friday-laptop-deals-november-26-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/black-friday-laptop-deals-november-26-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 10:54:00+00:00
- - tags: None
 
 ZDNET has rounded up its top picks for laptop deals for Black Friday and Cyber Monday, from retailers and manufacturers. We've included Windows laptops like Dell and HP, as well as MacBooks, 2-in-1s and Chromebooks.
 
@@ -100,7 +88,6 @@ ZDNET has rounded up its top picks for laptop deals for Black Friday and Cyber M
  - [https://www.zdnet.com/article/black-friday-chromebook-deals-november-26-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/black-friday-chromebook-deals-november-26-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 06:38:00+00:00
- - tags: None
 
 Chromebooks are perfect for everything -- from classroom work and web browsing to streaming movies and working on the go. Here are our top picks for Black Friday deals on Chromebook laptops.
 
@@ -108,7 +95,6 @@ Chromebooks are perfect for everything -- from classroom work and web browsing t
  - [https://www.zdnet.com/home-and-office/best-black-friday-deals-under-30-november-26-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/best-black-friday-deals-under-30-november-26-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 06:37:00+00:00
- - tags: None
 
 Best Black Friday deals under $30: These super affordable tech gifts are perfect for anyone on your list this holiday season.
 
@@ -116,7 +102,6 @@ Best Black Friday deals under $30: These super affordable tech gifts are perfect
  - [https://www.zdnet.com/article/best-buy-black-friday-deals-november-26-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-buy-black-friday-deals-november-26-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 06:36:00+00:00
- - tags: None
 
 Best Buy Black Friday deals: The big box store is one of the best places to score great deals on tech. This year, you can start shopping right now with great deals in Best Buy's catalog.
 
@@ -124,7 +109,6 @@ Best Buy Black Friday deals: The big box store is one of the best places to scor
  - [https://www.zdnet.com/article/walmart-black-friday-deals-november-26-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/walmart-black-friday-deals-november-26-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 06:35:00+00:00
- - tags: None
 
 Walmart has launched great tech deals for the Black Friday event. You can save big on the best tech gifts this holiday season.
 
@@ -132,7 +116,6 @@ Walmart has launched great tech deals for the Black Friday event. You can save b
  - [https://www.zdnet.com/article/black-friday-apple-watch-deals-november-26-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/black-friday-apple-watch-deals-november-26-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 06:33:00+00:00
- - tags: None
 
 Some great Apple Watch deals have landed during Black Friday week.
 
@@ -140,7 +123,6 @@ Some great Apple Watch deals have landed during Black Friday week.
  - [https://www.zdnet.com/home-and-office/target-black-friday-deals-november-26-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/target-black-friday-deals-november-26-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 06:32:00+00:00
- - tags: None
 
 These are the best discounts Target has to offer on tech for Black Friday. Make sure to check back later, as we'll be updating the list during Black Friday and again for Cyber Monday.
 
@@ -148,7 +130,6 @@ These are the best discounts Target has to offer on tech for Black Friday. Make 
  - [https://www.zdnet.com/article/black-friday-storage-ssd-black-friday-deals-november-26-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/black-friday-storage-ssd-black-friday-deals-november-26-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 06:31:00+00:00
- - tags: None
 
 ZDNET has rounded up its top picks for Black Friday storage and SSD deals, from retailers and manufacturers.
 
@@ -156,7 +137,6 @@ ZDNET has rounded up its top picks for Black Friday storage and SSD deals, from 
  - [https://www.zdnet.com/article/black-friday-smartwatch-deals-november-26-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/black-friday-smartwatch-deals-november-26-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 06:31:00+00:00
- - tags: None
 
 These days, you can get access to thousands of deals online from the comfort of your own home this holiday season. the smartwatch deals are already rolling in now that Black Friday is here.
 
@@ -164,7 +144,6 @@ These days, you can get access to thousands of deals online from the comfort of 
  - [https://www.zdnet.com/home-and-office/smart-home/black-friday-security-camera-deals-november-26-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/black-friday-security-camera-deals-november-26-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 06:29:00+00:00
- - tags: None
 
 Black Friday security camera deals: Looking for some extra peace of mind at home but don't want to pay full price? You can save on security cameras right now if you know where to look.
 
@@ -172,7 +151,6 @@ Black Friday security camera deals: Looking for some extra peace of mind at home
  - [https://www.zdnet.com/article/newegg-black-friday-deals-november-26-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/newegg-black-friday-deals-november-26-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 06:29:00+00:00
- - tags: None
 
 Before this Black Friday, Newegg is offering loads of deals on everything from sound systems to gaming PCs. Some come with a bonus Black Friday price guarantee.
 
@@ -180,7 +158,6 @@ Before this Black Friday, Newegg is offering loads of deals on everything from s
  - [https://www.zdnet.com/article/hp-black-friday-deals-november-26-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/hp-black-friday-deals-november-26-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 06:28:00+00:00
- - tags: None
 
 HP Black Friday deals: HP is best known as one of the biggest PC makers out there, but the company also produces great monitors, printers, and accessories. Let's take a look at what deals are available for its products leading up to this year's annual sales extravaganza.
 
@@ -188,7 +165,6 @@ HP Black Friday deals: HP is best known as one of the biggest PC makers out ther
  - [https://www.zdnet.com/article/verizon-black-friday-deals-november-26-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/verizon-black-friday-deals-november-26-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 06:27:00+00:00
- - tags: None
 
 New and existing Verizon customers can upgrade to a 5G smartphone like the iPhone 12 mini, the Google Pixel 6, or the Samsung Galaxy S20 and get three free gifts: A free smartwatch, tablet, and earbuds.
 
@@ -196,7 +172,6 @@ New and existing Verizon customers can upgrade to a 5G smartphone like the iPhon
  - [https://www.zdnet.com/home-and-office/home-entertainment/black-friday-streaming-deals-november-26-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/black-friday-streaming-deals-november-26-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 06:26:00+00:00
- - tags: None
 
 Black Friday streaming deals: Save on memberships, streaming devices, smart TVs, projectors, and more this holiday season. Upgrade your entertainment options on a budget.
 
@@ -204,7 +179,6 @@ Black Friday streaming deals: Save on memberships, streaming devices, smart TVs,
  - [https://www.zdnet.com/article/ipad-black-friday-deals-november-26-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/ipad-black-friday-deals-november-26-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 06:25:00+00:00
- - tags: None
 
 Apple notoriously rarely has deals or sales, but for Black Friday, some iPad models are discounted by hundreds of dollars.
 
@@ -212,7 +186,6 @@ Apple notoriously rarely has deals or sales, but for Black Friday, some iPad mod
  - [https://www.zdnet.com/home-and-office/costco-black-friday-deals-november-26-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/costco-black-friday-deals-november-26-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 06:24:00+00:00
- - tags: None
 
 Costco doesn't disappoint when it comes to savings, and it's continuing the tradition for Black Friday 2022. But you don't have to wait; ZDNET gathered the best deals at Costco right now.
 
@@ -220,7 +193,6 @@ Costco doesn't disappoint when it comes to savings, and it's continuing the trad
  - [https://www.zdnet.com/article/black-friday-vpn-deals-november-26-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/black-friday-vpn-deals-november-26-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 06:23:00+00:00
- - tags: None
 
 Many of the most popular VPNs are on sale, and the discounts aren't just fluff, they're legitimately cheaper than the standard pricing. Here are the best Black Friday VPN deals we've seen so far.
 
@@ -228,7 +200,6 @@ Many of the most popular VPNs are on sale, and the discounts aren't just fluff, 
  - [https://www.zdnet.com/home-and-office/home-entertainment/black-friday-tv-deals-november-26-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/black-friday-tv-deals-november-26-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 06:22:00+00:00
- - tags: None
 
 Whether you're buying your first TV or upgrading your home theater, these awesome Black Friday TV deals make it more affordable than ever. Brands like Samsung, Sony, LG, and TCL have great discounts on already budget-friendly models as well as high-end TVs for shoppers looking for premium features like OLED panels and virtual surround sound.
 
@@ -236,7 +207,6 @@ Whether you're buying your first TV or upgrading your home theater, these awesom
  - [https://www.zdnet.com/article/black-friday-tablet-deals-november-26-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/black-friday-tablet-deals-november-26-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 06:21:00+00:00
- - tags: None
 
 Looking for a tablet? The best tablets from brands like Apple and Samsung are on sale right now. Here are the best Black Friday tablet deals we could find.
 
@@ -244,7 +214,6 @@ Looking for a tablet? The best tablets from brands like Apple and Samsung are on
  - [https://www.zdnet.com/article/samsung-black-friday-deals-november-26-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/samsung-black-friday-deals-november-26-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 06:20:00+00:00
- - tags: None
 
 Calling all Samsung fans! Let this Black Friday deals hub serve as your home ground for the latest and best savings on Samsung Galaxy smartphones, wearables, TVs, appliances, and more. Here are the best Samsung Black Friday sales we could find.
 
@@ -252,7 +221,6 @@ Calling all Samsung fans! Let this Black Friday deals hub serve as your home gro
  - [https://www.zdnet.com/article/black-friday-smartphone-deals-november-26-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/black-friday-smartphone-deals-november-26-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 06:19:00+00:00
- - tags: None
 
 If you held off on upgrading your smartphone until the holiday shopping season, your patience is finally being rewarded. These are the best Black Friday phone deals that will save you hundreds on prime-time handsets.
 
@@ -260,7 +228,6 @@ If you held off on upgrading your smartphone until the holiday shopping season, 
  - [https://www.zdnet.com/article/amazon-black-friday-deals-november-26-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/amazon-black-friday-deals-november-26-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 05:49:00+00:00
- - tags: None
 
 Amazon's Black Friday 2022 deal plan involves getting the discounts straight to you earlier this year. Shop its deals and score big savings on top tech items and gifts.
 
@@ -268,7 +235,6 @@ Amazon's Black Friday 2022 deal plan involves getting the discounts straight to 
  - [https://www.zdnet.com/article/live-blog-black-friday-deals-november-26-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/live-blog-black-friday-deals-november-26-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 05:43:00+00:00
- - tags: None
 
 Black Friday deals are still going strong, with retailers offering the lowest prices of the year. ZDNET is surfacing the latest and best sales online right here.
 
@@ -276,7 +242,6 @@ Black Friday deals are still going strong, with retailers offering the lowest pr
  - [https://www.zdnet.com/home-and-office/home-entertainment/black-friday-tv-deal-2022-sony-x80j-4k-uhd-google-tv-sale/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/black-friday-tv-deal-2022-sony-x80j-4k-uhd-google-tv-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 05:01:00+00:00
- - tags: None
 
 Best Buy's Black Friday sale is not to be missed if you want an impressive TV for your living room. The 75-inch Sony Bravia X80J 4K UHD is normally $1,399 but is currently marked down by $850, which means you can get it for just $549.
 
@@ -284,7 +249,6 @@ Best Buy's Black Friday sale is not to be missed if you want an impressive TV fo
  - [https://www.zdnet.com/home-and-office/home-entertainment/black-friday-tv-deal-2022-sony-bravia-a9s-48-inch-oled-tv-sale/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/black-friday-tv-deal-2022-sony-bravia-a9s-48-inch-oled-tv-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 04:58:00+00:00
- - tags: None
 
 Need a new TV for football? Enjoy $300 off the Sony 48-inch A9S Series OLED 4K UHD Smart Android TV that offers great picture quality and a smart hub for watching your favorite shows.
 
@@ -292,7 +256,6 @@ Need a new TV for football? Enjoy $300 off the Sony 48-inch A9S Series OLED 4K U
  - [https://www.zdnet.com/article/theragun-deal-black-friday-2022-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/theragun-deal-black-friday-2022-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 04:47:00+00:00
- - tags: None
 
 During Black Friday 2022, you save the cost of an in-person massage ($100) on the usually pricey Theragun Prime electric massager.
 
@@ -300,7 +263,6 @@ During Black Friday 2022, you save the cost of an in-person massage ($100) on th
  - [https://www.zdnet.com/article/black-friday-phone-deal-2022-google-pixel-6a-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/black-friday-phone-deal-2022-google-pixel-6a-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 04:43:00+00:00
- - tags: None
 
 Black Friday phone deal alert: Google's latest phone is down $150. The best part? You don't have to commit to a carrier, because the phone is on sale through Best Buy and arrives unlocked.
 
@@ -308,7 +270,6 @@ Black Friday phone deal alert: Google's latest phone is down $150. The best part
  - [https://www.zdnet.com/article/black-friday-apple-watch-deal-2022-series-7-product-red-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/black-friday-apple-watch-deal-2022-series-7-product-red-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 04:38:00+00:00
- - tags: None
 
 While the new Series 8 may be available for purchase, you shouldn't disregard its older sibling. You'll still get great features – and save 30%.
 
@@ -316,7 +277,6 @@ While the new Series 8 may be available for purchase, you shouldn't disregard it
  - [https://www.zdnet.com/home-and-office/home-entertainment/black-friday-tv-deal-2022-sony-55-inch-a80j-oled-sale/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/black-friday-tv-deal-2022-sony-55-inch-a80j-oled-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 04:24:00+00:00
- - tags: None
 
 The last time this price dropped this low was in July – shop now to get the savings.
 
@@ -324,7 +284,6 @@ The last time this price dropped this low was in July – shop now to get the sa
  - [https://www.zdnet.com/article/black-friday-camera-deal-2022-fujifilm-bundle-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/black-friday-camera-deal-2022-fujifilm-bundle-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 02:53:00+00:00
- - tags: None
 
 An $800 discount is on offer for a high-spec Fujifilm mirrorless camera at Best Buy, with a lens thrown in.
 
@@ -332,7 +291,6 @@ An $800 discount is on offer for a high-spec Fujifilm mirrorless camera at Best 
  - [https://www.zdnet.com/article/black-friday-headphone-deal-2022-google-pixel-buds-pro-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/black-friday-headphone-deal-2022-google-pixel-buds-pro-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 02:52:00+00:00
- - tags: None
 
 Released only recently, the Pixel Buds Pro just dropped by $50 -- the lowest price since their debut. Grab them while the sale lasts.
 
@@ -340,7 +298,6 @@ Released only recently, the Pixel Buds Pro just dropped by $50 -- the lowest pri
  - [https://www.zdnet.com/article/black-friday-tablet-deal-2022-samsung-galaxy-tab-s7-fe-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/black-friday-tablet-deal-2022-samsung-galaxy-tab-s7-fe-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 02:12:00+00:00
- - tags: None
 
 Black Friday tablet deal: You can expect to pay $368 for as long as stock lasts.
 
@@ -348,7 +305,6 @@ Black Friday tablet deal: You can expect to pay $368 for as long as stock lasts.
  - [https://www.zdnet.com/article/black-friday-fitbit-deal-2022-sense-2-smartwatch-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/black-friday-fitbit-deal-2022-sense-2-smartwatch-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 02:01:00+00:00
- - tags: None
 
 Fitbit's latest smartwatch is on sale for 33% off. We recommend you add it to your cart ASAP before the deal expires.
 
@@ -356,7 +312,6 @@ Fitbit's latest smartwatch is on sale for 33% off. We recommend you add it to yo
  - [https://www.zdnet.com/article/black-friday-kindle-deal-2022-paperwhite-bundle-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/black-friday-kindle-deal-2022-paperwhite-bundle-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 01:57:00+00:00
- - tags: None
 
 Before Black Friday 2022 kicks off, you can pick up a Kindle for a substantial discount.
 
@@ -364,7 +319,6 @@ Before Black Friday 2022 kicks off, you can pick up a Kindle for a substantial d
  - [https://www.zdnet.com/article/black-friday-microsoft-deal-2022-surface-pro-8-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/black-friday-microsoft-deal-2022-surface-pro-8-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 01:49:00+00:00
- - tags: None
 
 Black Friday deal alert: Stock is low so if you want a bargain Surface Pro 8, you'll need to move quickly.
 
@@ -372,7 +326,6 @@ Black Friday deal alert: Stock is low so if you want a bargain Surface Pro 8, yo
  - [https://www.zdnet.com/article/black-friday-ryzen-deal-2022-amd-ryzen-7-processor-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/black-friday-ryzen-deal-2022-amd-ryzen-7-processor-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 01:45:00+00:00
- - tags: None
 
 If you're a gamer, the AMD Ryzen 7 5800X3D processor will be a great way to enjoy a speedy response when you need it the most. You'll have to use ZIP checkout and a special promo code to get a deal on it.
 
@@ -380,7 +333,6 @@ If you're a gamer, the AMD Ryzen 7 5800X3D processor will be a great way to enjo
  - [https://www.zdnet.com/article/black-friday-laptop-deal-2022-asus-vivobook-pro-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/black-friday-laptop-deal-2022-asus-vivobook-pro-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 01:42:00+00:00
- - tags: None
 
 If you work remotely or enjoy gaming, it may be time to upgrade your laptop. With early Black Friday sales, you can pick up the Asus VivoBook Pro for 28% off.
 
@@ -388,7 +340,6 @@ If you work remotely or enjoy gaming, it may be time to upgrade your laptop. Wit
  - [https://www.zdnet.com/article/black-friday-robot-vacuum-deal-2022-anker-eufy-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/black-friday-robot-vacuum-deal-2022-anker-eufy-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 01:40:00+00:00
- - tags: None
 
 If you're looking for a cheap robot vacuum, you can pick up this Eufy model for $180 off.
 
@@ -396,7 +347,6 @@ If you're looking for a cheap robot vacuum, you can pick up this Eufy model for 
  - [https://www.zdnet.com/home-and-office/home-entertainment/black-friday-gopro-deal-2022-gopro-hero10-black-sale/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/black-friday-gopro-deal-2022-gopro-hero10-black-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 01:39:00+00:00
- - tags: None
 
 Even though Black Friday is a week away, you can already save 22% on the GoPro HERO10 Black at Amazon.
 
@@ -404,7 +354,6 @@ Even though Black Friday is a week away, you can already save 22% on the GoPro H
  - [https://www.zdnet.com/article/live-blog-black-friday-deals-november-25-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/live-blog-black-friday-deals-november-25-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 01:31:00+00:00
- - tags: None
 
 Black Friday deals started earlier than ever, with retailers offering the lowest prices of the year. ZDNET is surfacing the latest and best sales online right here.
 
@@ -412,6 +361,5 @@ Black Friday deals started earlier than ever, with retailers offering the lowest
  - [https://www.zdnet.com/article/verizon-black-friday-deals-november-25-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/verizon-black-friday-deals-november-25-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-26 00:11:00+00:00
- - tags: None
 
 New and existing Verizon customers can upgrade to a 5G smartphone like the iPhone 12 mini, the Google Pixel 6, or the Samsung Galaxy S20 and get three free gifts: A free smartwatch, tablet, and earbuds.

@@ -1,10 +1,9 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml
+# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
 
 ## Indian Bridge Collapse Casts Harsh Spotlight on Safety Practices
  - [https://www.wsj.com/articles/indian-bridge-collapse-casts-harsh-spotlight-on-safety-practices-11667750104](https://www.wsj.com/articles/indian-bridge-collapse-casts-harsh-spotlight-on-safety-practices-11667750104)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-06 15:55:00+00:00
- - tags: None
 
 Police say a business without expertise in bridge repairs was tasked with renovating a small town’s star attraction.
 
@@ -12,7 +11,6 @@ Police say a business without expertise in bridge repairs was tasked with renova
  - [https://www.wsj.com/articles/u-k-sees-record-numbers-of-migrants-crossing-english-channel-in-small-boats-11667746870](https://www.wsj.com/articles/u-k-sees-record-numbers-of-migrants-crossing-english-channel-in-small-boats-11667746870)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-06 15:01:00+00:00
- - tags: None
 
 The British asylum system is overwhelmed by migrants from both developing countries and more stable nations such as Albania, officials say.
 
@@ -20,7 +18,6 @@ The British asylum system is overwhelmed by migrants from both developing countr
  - [https://www.wsj.com/articles/behind-benjamin-netanyahus-win-in-israel-the-rise-of-religious-zionism-11667743595](https://www.wsj.com/articles/behind-benjamin-netanyahus-win-in-israel-the-rise-of-religious-zionism-11667743595)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-06 14:06:00+00:00
- - tags: None
 
 An ultranationalist political outlook forged in Jewish West Bank settlements could play a central role in Israel’s next government.
 
@@ -28,7 +25,6 @@ An ultranationalist political outlook forged in Jewish West Bank settlements cou
  - [https://www.wsj.com/articles/ukraine-accuses-iran-of-training-russian-drone-pilots-11667736371](https://www.wsj.com/articles/ukraine-accuses-iran-of-training-russian-drone-pilots-11667736371)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-06 12:06:00+00:00
- - tags: None
 
 Drone strikes on civilian targets across Ukraine have been so damaging that the capital’s mayor urged residents to consider temporarily leaving the city.
 
@@ -36,7 +32,6 @@ Drone strikes on civilian targets across Ukraine have been so damaging that the 
  - [https://www.wsj.com/articles/west-sees-little-choice-but-to-keep-backing-ukraine-11667732754](https://www.wsj.com/articles/west-sees-little-choice-but-to-keep-backing-ukraine-11667732754)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-06 11:05:00+00:00
- - tags: None
 
 Washington and its allies see little prospect of a negotiated end to the war in Ukraine soon given the high stakes for Moscow and Kyiv, and the fact that both sides believe they can win, Western diplomats say.
 
@@ -44,6 +39,5 @@ Washington and its allies see little prospect of a negotiated end to the war in 
  - [https://www.wsj.com/articles/cop27-summit-begins-as-economy-ukraine-war-overshadow-climate-concerns-11667730626](https://www.wsj.com/articles/cop27-summit-begins-as-economy-ukraine-war-overshadow-climate-concerns-11667730626)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-06 10:30:00+00:00
- - tags: None
 
 Geopolitical and economic upheaval has stalled progress and led to backsliding by some measures over the past year, but countries are spending more to address climate change.

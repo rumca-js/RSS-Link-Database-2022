@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## This top-rated PDF editing program is 33% off for a limited time
  - [https://www.pcworld.com/article/1074143/this-top-rated-pdf-editing-program-is-33-off-for-a-limited-time.html](https://www.pcworld.com/article/1074143/this-top-rated-pdf-editing-program-is-33-off-for-a-limited-time.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-06 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you study at university or work in an office environment, you&rsquo;ve undoubtedly created, shared, or received PDFs at one point. This file type is perhaps the most common document extension in the world, and for good reason. They&rsquo;re lightweight, making them easy to send to colleagues. Plus, they hold document formatting well.</p>

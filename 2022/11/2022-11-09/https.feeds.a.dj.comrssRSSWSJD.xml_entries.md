@@ -1,10 +1,9 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml
+# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
 
 ## Binance Is Said to Be Likely to Walk Away from Deal to Buy FTX
  - [https://www.wsj.com/articles/binance-is-said-to-be-likely-to-walk-away-from-deal-to-buy-ftx-11668020963?mod=rss_Technology](https://www.wsj.com/articles/binance-is-said-to-be-likely-to-walk-away-from-deal-to-buy-ftx-11668020963?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-09 19:52:00+00:00
- - tags: None
 
 The crypto exchange is expected to walk away from deal to buy a collapsing competitor following a review of its structure and books, according to a person familiar with the matter.
 
@@ -12,7 +11,6 @@ The crypto exchange is expected to walk away from deal to buy a collapsing compe
  - [https://www.wsj.com/articles/whats-ahead-for-transportation-11668021007?mod=rss_Technology](https://www.wsj.com/articles/whats-ahead-for-transportation-11668021007?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-09 19:10:00+00:00
- - tags: None
 
 This special report explores what’s ahead for transportation, from the weird-looking planes that could fly you on vacation to the ways e-bikes could change our cities
 
@@ -20,7 +18,6 @@ This special report explores what’s ahead for transportation, from the weird-l
  - [https://www.wsj.com/articles/lyft-backed-proposal-to-tax-rich-for-green-initiatives-rejected-in-california-11668012583?mod=rss_Technology](https://www.wsj.com/articles/lyft-backed-proposal-to-tax-rich-for-green-initiatives-rejected-in-california-11668012583?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-09 18:37:00+00:00
- - tags: None
 
 Voters rejected a ballot measure aimed to raise more money to promote electric vehicles and fight wildfires.
 
@@ -28,7 +25,6 @@ Voters rejected a ballot measure aimed to raise more money to promote electric v
  - [https://www.wsj.com/articles/spyware-scandals-prompt-calls-for-further-bans-in-europe-11668011870?mod=rss_Technology](https://www.wsj.com/articles/spyware-scandals-prompt-calls-for-further-bans-in-europe-11668011870?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-09 16:37:00+00:00
- - tags: None
 
 A Europe-wide moratorium on surveillance software such as NSO Group’s Pegasus and similar products is needed to clamp down on abuses, according to a draft report from European Union lawmakers.
 
@@ -36,7 +32,6 @@ A Europe-wide moratorium on surveillance software such as NSO Group’s Pegasus 
  - [https://www.wsj.com/articles/bone-conduction-headphones-review-11667945486?mod=rss_Technology](https://www.wsj.com/articles/bone-conduction-headphones-review-11667945486?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-09 16:00:00+00:00
- - tags: None
 
 Equipped with bone conduction technology, these headphones offer a robust sound profile without obstructing your ear canal. They make for great running companions.
 
@@ -44,7 +39,6 @@ Equipped with bone conduction technology, these headphones offer a robust sound 
  - [https://www.wsj.com/articles/twitter-launches-gray-official-label-to-verify-certain-accounts-11668008210?mod=rss_Technology](https://www.wsj.com/articles/twitter-launches-gray-official-label-to-verify-certain-accounts-11668008210?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-09 15:36:00+00:00
- - tags: None
 
 Designation confers authenticity on the account and differs from the for-purchase blue check mark.
 
@@ -52,7 +46,6 @@ Designation confers authenticity on the account and differs from the for-purchas
  - [https://www.wsj.com/articles/dont-have-44-billion-for-your-own-social-media-network-try-mastodon-11668002451?mod=rss_Technology](https://www.wsj.com/articles/dont-have-44-billion-for-your-own-social-media-network-try-mastodon-11668002451?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-09 14:00:00+00:00
- - tags: None
 
 As Elon Musk takes over Twitter, many are checking out this alternative. It could be the future of social media—if you can figure it out. Here’s a guide.
 
@@ -60,7 +53,6 @@ As Elon Musk takes over Twitter, many are checking out this alternative. It coul
  - [https://www.wsj.com/articles/ibm-unveils-new-chip-in-push-to-realize-quantum-computings-promise-11667854695?mod=rss_Technology](https://www.wsj.com/articles/ibm-unveils-new-chip-in-push-to-realize-quantum-computings-promise-11667854695?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-09 14:00:00+00:00
- - tags: None
 
 ‘We’re getting closer and closer,’ said Director of IBM Research Dario Gil
 
@@ -68,7 +60,6 @@ As Elon Musk takes over Twitter, many are checking out this alternative. It coul
  - [https://www.wsj.com/articles/facebook-parent-meta-to-cut-11-000-jobs-11667992427?mod=rss_Technology](https://www.wsj.com/articles/facebook-parent-meta-to-cut-11-000-jobs-11667992427?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-09 11:24:00+00:00
- - tags: None
 
 Meta Platforms said it would cut more than 11,000 workers, or 13% of staff, embarking on the company’s first broad restructuring to cope with a slumping digital-ad market and falling stock price.
 
@@ -76,7 +67,6 @@ Meta Platforms said it would cut more than 11,000 workers, or 13% of staff, emba
  - [https://www.wsj.com/articles/entrepreneur-caught-in-the-middle-of-u-s-china-chip-war-11667989801?mod=rss_Technology](https://www.wsj.com/articles/entrepreneur-caught-in-the-middle-of-u-s-china-chip-war-11667989801?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-09 10:30:00+00:00
- - tags: None
 
 An American’s vision to build a global semiconductor player in China has been thrown into uncertainty as U.S. restrictions undermine the global industry integration he celebrated.
 
@@ -84,7 +74,6 @@ An American’s vision to build a global semiconductor player in China has been 
  - [https://www.wsj.com/articles/chip-making-juggernaut-tsmc-eyes-multibillion-dollar-arizona-factory-expansion-11667973859?mod=rss_Technology](https://www.wsj.com/articles/chip-making-juggernaut-tsmc-eyes-multibillion-dollar-arizona-factory-expansion-11667973859?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-09 06:04:00+00:00
- - tags: None
 
 Taiwan Semiconductor Manufacturing, the world’s largest contract chip maker, plans to announce a second multibillion-dollar factory in Arizona.
 
@@ -92,6 +81,5 @@ Taiwan Semiconductor Manufacturing, the world’s largest contract chip maker, p
  - [https://www.wsj.com/articles/elon-musk-sells-almost-4-billion-of-tesla-stock-after-completing-twitter-takeover-11667957983?mod=rss_Technology](https://www.wsj.com/articles/elon-musk-sells-almost-4-billion-of-tesla-stock-after-completing-twitter-takeover-11667957983?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-09 02:59:00+00:00
- - tags: None
 
 The sale this month of 19.5 million shares came after the billionaire completed his $44 billion purchase of Twitter.

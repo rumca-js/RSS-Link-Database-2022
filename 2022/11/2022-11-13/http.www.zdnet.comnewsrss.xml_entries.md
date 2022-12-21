@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## Hiring or firing? Why job cuts at big tech don't always show the true picture
  - [https://www.zdnet.com/article/hiring-or-firing-why-job-cuts-at-big-tech-dont-show-the-true-picture/#ftag=RSSbaffb68](https://www.zdnet.com/article/hiring-or-firing-why-job-cuts-at-big-tech-dont-show-the-true-picture/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-13 22:00:21+00:00
- - tags: None
 
 But despite the doom and gloom, the tech-hiring market remains strong for developers and other IT workers.
 
@@ -12,7 +11,6 @@ But despite the doom and gloom, the tech-hiring market remains strong for develo
  - [https://www.zdnet.com/article/samsung-has-a-new-message-for-iphone-users-what-is-wrong-with-you/#ftag=RSSbaffb68](https://www.zdnet.com/article/samsung-has-a-new-message-for-iphone-users-what-is-wrong-with-you/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-13 12:00:21+00:00
- - tags: None
 
 You can understand Samsung's frustration, can't you? Or can you?
 
@@ -20,6 +18,5 @@ You can understand Samsung's frustration, can't you? Or can you?
  - [https://www.zdnet.com/article/microsoft-has-a-new-idea-to-make-meetings-a-little-more-awful/#ftag=RSSbaffb68](https://www.zdnet.com/article/microsoft-has-a-new-idea-to-make-meetings-a-little-more-awful/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-13 11:00:20+00:00
- - tags: None
 
 Why would this be a good idea? Why would it even be a thing?

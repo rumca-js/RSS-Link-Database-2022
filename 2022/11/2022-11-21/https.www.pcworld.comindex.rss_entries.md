@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## This $189 Asus Chromebook is the one to buy before Black Friday
  - [https://www.pcworld.com/article/1388232/this-189-asus-chromebook-is-the-one-to-buy-before-black-friday.html](https://www.pcworld.com/article/1388232/this-189-asus-chromebook-is-the-one-to-buy-before-black-friday.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-21 22:25:29+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>It&rsquo;s hard to say whether Black Friday will offer a better deal than this one: a $179 14-inch Asus 2-in-1 Chromebook, on sale for 52 percent off at Best Buy.</p>
@@ -28,7 +27,6 @@ Chromebooks</div>
  - [https://www.pcworld.com/article/1388198/this-gorgeous-oled-tv-is-56-percent-off-before-black-friday.html](https://www.pcworld.com/article/1388198/this-gorgeous-oled-tv-is-56-percent-off-before-black-friday.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-21 21:37:18+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>The best TV deal that we&rsquo;ve seen today is the LG 48-inch A2 OLED Smart TV, available for <a href="https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flg-48-class-a2-series-oled-4k-uhd-smart-webos-tv%2F6501902.p%3FskuId%3D6501902&amp;publisher_slug=pcworld&amp;exclusive=1&amp;article_name=pcworld&amp;article_url=https%3A%2F%2Fwww.pcworld.com%2Ffeed" rel="nofollow">$569.99 (a whopping $730 off!) at Best Buy</a>.</p>
@@ -49,7 +47,6 @@ HDTVs, Smart TVs</div>
  - [https://www.pcworld.com/article/1388036/the-best-1080p-gpu-is-100-off-for-black-friday.html](https://www.pcworld.com/article/1388036/the-best-1080p-gpu-is-100-off-for-black-friday.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-21 20:05:53+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Just because you&rsquo;re a PC gamer doesn&rsquo;t mean you can afford to buy a desktop made out of pure platinum, water-cooled with the tears of extremely wealthy angels. And if you&rsquo;re trying to build a budget machine, you&rsquo;ve had a really hard time of it lately. That&rsquo;s why you should pounce on this Black Friday deal: an AMD Radeon RX 6600 graphics card for <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.newegg.com/msi-radeon-rx-6600-mech-2x-8g/p/N82E16814137690?&amp;xcust=2-2-1388036-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">more than a hundred bucks off the MSRP</a>. </p>
@@ -78,7 +75,6 @@ GPUs</div>
  - [https://www.pcworld.com/article/1386284/startech-thunderbolt-4-usb4-dock-review.html](https://www.pcworld.com/article/1386284/startech-thunderbolt-4-usb4-dock-review.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-21 19:48:40+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
@@ -211,7 +207,6 @@ Docking Stations</div>
  - [https://www.pcworld.com/article/1387952/this-899-hp-gaming-pc-is-a-cant-miss-early-black-friday-deal.html](https://www.pcworld.com/article/1387952/this-899-hp-gaming-pc-is-a-cant-miss-early-black-friday-deal.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-21 18:49:08+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Black Friday is almost here, but great discounts can <a href="https://www.pcworld.com/article/1382181/black-friday-desktop-pc-computer-deals.html">already be found on desktop computers</a>. This killer deal on a budget-friendly option from HP is no exception. The <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.hp.com/us-en/shop/pdp/hp-pavilion-gaming-desktop-tg01-2176z-bundle-pc?jumpid=ma_weekly-deals_product-tile_gaming_11_33v39aa_hp-pavilion-gaming-d#techSpecs&amp;xcust=2-1-1387952-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">HP Pavilion Gaming Desktop is currently on sale for $899</a> which is an impressive savings of $400. It may have an unassuming exterior, but what it lacks in flair, it more than makes up for in performance.</p>
@@ -232,7 +227,6 @@ Desktop PCs</div>
  - [https://www.pcworld.com/article/1387751/the-best-black-friday-ipad-deal-is-already-here.html](https://www.pcworld.com/article/1387751/the-best-black-friday-ipad-deal-is-already-here.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-21 17:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Apple&rsquo;s iPads are hot ticket items, and hard to find on sale at any time of the year. And even on Black Friday, you&rsquo;re more likely to see, say, two hundred bucks off a $1,200 iPad Pro than a discount on the cheapest one available. But that&rsquo;s just what we have here: the 9th-generation 10-inch iPad (the last one Apple makes with a standard home button) is $60 off, at both Amazon and Best Buy. That brings the price for the base 64GB version down to just $269.99. </p>
@@ -265,7 +259,6 @@ Tablets</div>
  - [https://www.pcworld.com/article/1387567/lgs-new-oled-gaming-monitor-is-the-cheapest-yet.html](https://www.pcworld.com/article/1387567/lgs-new-oled-gaming-monitor-is-the-cheapest-yet.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-21 15:52:53+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>The floodgates seem to be opening for OLED monitors, with Dell, Asus, and of course, LG all releasing multiple models. Unfortunately they&rsquo;re all rather on the pricey side &mdash; LG in particular can <a href="https://www.pcworld.com/search?q=lg+oled#gsc.tab=0&amp;gsc.q=lg%20oled&amp;gsc.page=1">chop a grand off its price tags</a> and <em>still </em>be unaffordable for most consumers. The latest LG gaming monitor is a little more attainable: The <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.lg.com/us/monitors/lg-27gr95qe-b&amp;xcust=2-2-1387567-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Ultragear 27GR95QE-B</a> has a retail price of just $999.99. </p>
@@ -290,7 +283,6 @@ Monitors</div>
  - [https://www.pcworld.com/article/1387423/nab-dells-swanky-xps-laptop-for-999-this-black-friday.html](https://www.pcworld.com/article/1387423/nab-dells-swanky-xps-laptop-for-999-this-black-friday.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-21 14:51:21+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Black Friday is fast approaching, which is good news if you&rsquo;re looking to pick up a luxurious laptop for work or personal use. Fortunately, you don&rsquo;t have to wait until the main event to take advantage of those juicy deals. Dell&rsquo;s currently selling the spectacular <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://deals.dell.com/en-us/productdetail/fmjc&amp;xcust=2-1-1387423-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">XPS 13 for $999, which is a savings of $350</a>. Not only does this laptop weigh about two and a half pounds, which is perfect for traveling, but it also promises peppy performance. Let&rsquo;s dive right into the details and take a peek at what&rsquo;s going on underneath the hood.</p>
@@ -311,7 +303,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/1387459/amds-new-ryzen-7000-cpus-get-massive-discounts-ahead-of-black-friday.html](https://www.pcworld.com/article/1387459/amds-new-ryzen-7000-cpus-get-massive-discounts-ahead-of-black-friday.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-21 14:39:32+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Black Friday may be right around the corner, but AMD isn&rsquo;t waiting to get the discount party started. Prices for its killer new Ryzen 7000 CPUs just got slashed across the board at retailers like Amazon and Newegg, and by substantial margins you&rsquo;ll be able to feel in your wallet. The flagship Ryzen 9 7950X leads the charge with a whopping $225 discount, bringing <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.newegg.com/amd-ryzen-9-7950x-ryzen-9-7000-series/p/N82E16819113771&amp;xcust=2-1-1387459-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">its cost down to $574</a>, and if you use the discount code BFFDAY246 at Newegg, you&rsquo;ll get another $20 off.</p>
@@ -336,7 +327,6 @@ CPUs and Processors</div>
  - [https://www.pcworld.com/article/1381002/best-monitors-for-programming.html](https://www.pcworld.com/article/1381002/best-monitors-for-programming.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-21 11:45:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Programming is possible on nearly any monitor, but most programmers prefer a big, pixel-dense, attractive screen that can render tiny code with clarity and display numerous windows at once. Prolific multi-taskers, many programmers also go all-in on multiple displays and use two or three monitors at once.</p>
@@ -755,7 +745,6 @@ Monitors</div>
  - [https://www.pcworld.com/article/1381119/windows-8-1-is-on-its-deathbed-prepare-now.html](https://www.pcworld.com/article/1381119/windows-8-1-is-on-its-deathbed-prepare-now.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-21 11:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Windows 8 stunk. It might have helped cost chief executive Steve Ballmer his job. <a href="https://www.pcworld.com/article/447608/windows-8-1-review-the-great-compromise.html">Windows 8.1 was a bit better</a> &mdash; but if <em>you</em> love it, you have only a month or so left to enjoy it.</p>

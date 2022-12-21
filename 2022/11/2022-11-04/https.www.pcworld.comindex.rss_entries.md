@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## The best graphics cards for PC gaming: A blistering new generation arrives
  - [https://www.pcworld.com/article/416006/the-best-graphics-cards-for-pc-gaming.html](https://www.pcworld.com/article/416006/the-best-graphics-cards-for-pc-gaming.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-04 18:05:06+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Most people who are in the market for a new graphics card have one primary question in mind: Which card will give me the most bang for my buck? Obviously, the answer will vary depending on your budget. Beyond that, there are a number of factors to consider:&nbsp;Raw performance is important, but so are things like noise, the driver experience, and supplemental software.&nbsp;And do you want to pay a premium to get in on the bleeding edge of real-time ray tracing?</p>
@@ -282,7 +281,6 @@ AMD, Computers, Gaming, Graphics Cards, Holidays, Nvidia, Video Games</div>
  - [https://www.pcworld.com/article/452384/best-gaming-mice.html](https://www.pcworld.com/article/452384/best-gaming-mice.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-04 16:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you want to be competitive in PC games these days you can forget about using a run-of-the-mill office mouse. Instead, you&rsquo;ll need a powerful device that&rsquo;s optimized just for gaming. </p>
@@ -999,7 +997,6 @@ Gaming, Mice</div>
  - [https://www.pcworld.com/article/1371206/samsungs-insane-8k-ultrawide-monitor-can-hit-up-to-900hz.html](https://www.pcworld.com/article/1371206/samsungs-insane-8k-ultrawide-monitor-can-hit-up-to-900hz.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-04 15:25:25+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Samsung has been building super-wide gaming monitors for a while now, but its latest one is the most bombastic yet. The newest 49-inch Odyssey monitor has an &ldquo;8K&rdquo; resolution, according to its reveal in the AMD Radeon 7000 presentation, though it&rsquo;s only on the horizontal axis. Assuming the same 32:9 aspect ratio as the current model of the Odyssey Neo G9, that would give it a resolution of 7680&times;2160, essentially two 4K monitors side by side (and the bottom half of a full proper 8K display). But what&rsquo;s really amazing is how fast the display can push those pixels. </p>
@@ -1025,7 +1022,6 @@ Monitors</div>
  - [https://www.pcworld.com/article/1371275/a-closer-look-at-amds-gorgeous-radeon-rx-7900-xtx.html](https://www.pcworld.com/article/1371275/a-closer-look-at-amds-gorgeous-radeon-rx-7900-xtx.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-04 15:20:58+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>The cat is out of the bag. Thursday night, AMD formally unveiled its next-gen graphics cards, spearheaded by the $999 Radeon RX 7900 XTX and $899 Radeon RX 7900 XT. These GPUs were built using AMD&rsquo;s new, radical RDNA 3 architecture, complete with a Ryzen-like chiplet design and the introduction of AI cores.</p>
@@ -1100,7 +1096,6 @@ Gaming, GPUs</div>
  - [https://www.pcworld.com/article/1369318/how-to-swap-out-the-steam-decks-noisy-fan.html](https://www.pcworld.com/article/1369318/how-to-swap-out-the-steam-decks-noisy-fan.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-04 14:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>The Steam Deck is rapidly becoming ubiquitous, sort of the original Game Boy for the modern gaming generation. But one of the many differences between now and then is that Valve has been so open about inviting owners to mod and upgrade its hardware. One of the easiest changes you can make is to swap out the noisy, high-RPM cooling fan that comes with the Steam Deck for a quieter version. Adam Patrick Murray guides you through the upgrade process in the latest PCWorld YouTube video. </p>
@@ -1143,7 +1138,6 @@ Computer Accessories</div>
  - [https://www.pcworld.com/article/1371085/save-150-on-this-fast-asus-gaming-laptop.html](https://www.pcworld.com/article/1371085/save-150-on-this-fast-asus-gaming-laptop.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-04 14:14:33+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>The Asus TUF Gaming laptop delivers solid gaming performance in a robust package. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.walmart.com/ip/Asus-TUF-Gaming-15-6-144Hz-FHD-AMD-Ryzen-7-4800H-NVIDIA-GeForce-RTX-3050TI-16GB-RAM-512GB-SSD-Windows-11-Home-Eclipse-Gray-FA506IE-US73/1201881815?athbdg=L1700&amp;irgwc=1&amp;sourceid=imp_zVHVqyy6VxyITIQ2tDUjyxG3UkDXICyxo00nTQ0&amp;veh=aff&amp;wmlspartner=imp_321564&amp;clickid=zVHVqyy6VxyITIQ2tDUjyxG3UkDXICyxo00nTQ0&amp;sharedid=&amp;affiliates_ad_id=565706&amp;campaign_id=9383&amp;xcust=2-1-1371085-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Walmart&rsquo;s selling this rig for just $749, which is a savings of $150.</a> According to Asus, it&rsquo;s made of durable MIL-STD-810H (aka military standard construction), so we expect a relatively robust build. It also has dual fans that self clean and an RGB backlit keyboard. Cool, right? Let&rsquo;s get into the guts.</p>
@@ -1164,7 +1158,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/1370671/amd-advantage-desktops-leverage-ryzen-radeon.html](https://www.pcworld.com/article/1370671/amd-advantage-desktops-leverage-ryzen-radeon.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-04 13:58:14+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>AMD&rsquo;s Advantage series of laptops, built in cooperation with OEM laptop makers like Dell, Lenovo, and Asus, are a hit. Closely integrating Ryzen CPUs and Radeon GPUs under the watchful technical guidance of AMD itself makes some fan-favorite gaming laptop designs, like the <a href="https://www.pcworld.com/article/617171/asus-rog-zephyrus-g14-2022-review.html" rel="noreferrer noopener" target="_blank">Asus ROG Zephyrus G14</a>. Along with the announcement of the Radeon 7000 GPU series, AMD has decided to expand the program to include desktops as well. AMD Advantage Desktops will be available soon from CSL, CyberpowerPC, eBuyer, Falcon Northwest, Maingear, Origin, and Xidax. </p>
@@ -1193,7 +1186,6 @@ Desktop PCs</div>
  - [https://www.pcworld.com/article/1369330/best-pc-hardware-and-software-of-2022-2023.html](https://www.pcworld.com/article/1369330/best-pc-hardware-and-software-of-2022-2023.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-04 10:45:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>After years of shortages and product delays, the PC industry slammed on the gas pedal in 2022, unleashing bleeding-edge hardware at a truly frenetic pace.</p>
@@ -2482,7 +2474,6 @@ CPUs and Processors, GPUs, Laptops, Productivity Software, Solid-State Drives</d
  - [https://www.pcworld.com/article/1370609/amd-radeon-rx-7900-xtx-5-crucial-details-pc-gamers-need-to-know.html](https://www.pcworld.com/article/1370609/amd-radeon-rx-7900-xtx-5-crucial-details-pc-gamers-need-to-know.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-04 10:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>After a so-called &ldquo;lost generation&rdquo; for graphics cards plagued by shortages and scalpers, things are finally looking up for PC gamers&mdash;and the battle for next-generation GPU supremacy has finally arrived. Nvidia launched its <a href="https://www.pcworld.com/article/1348123/nvidia-geforce-rtx-4090-review-ada-lovelace.html">ferocious GeForce RTX 4090</a> mere weeks ago, but its monitor-melting lead isn&rsquo;t going uncontested for long. This week, AMD revealed its next-gen RDNA 3 architecture and two GPUs serving as its paragon: the <a href="https://www.pcworld.com/article/1370428/amd-rdna-3-radeon-rx-7900-xtx-reveal.html">Radeon RX 7900 XTX and 7900 XT</a>.</p>
@@ -2595,7 +2586,6 @@ Gaming, GPUs</div>
  - [https://www.pcworld.com/article/1074135/get-online-coding-instruction-from-top-teachers-for-under-40.html](https://www.pcworld.com/article/1074135/get-online-coding-instruction-from-top-teachers-for-under-40.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-04 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you&rsquo;re on the outside looking into today&rsquo;s job market for programmers, it might seem too late to learn how to code. After all, learning one computer language can be intimidating, much less the several languages you&rsquo;ll need to know to have a competitive resume. But take heart: Once you&rsquo;ve got the programmer&rsquo;s mindset, each new language you learn is easier than the last. You&rsquo;ve just got to find the right teachers &ndash; and with the&nbsp;<a href="https://shop.pcworld.com/sales/the-2023-premium-learn-to-code-certification-bundle?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=the-2023-premium-learn-to-code-certification-bundle&amp;utm_term=scsf-555759&amp;utm_content=a0x1P000004yTRMQA2&amp;scsonar=1" rel="noreferrer noopener" target="_blank">2023 Premium Learn to Code Certification Bundle</a>, you&rsquo;ve got your pick of them, accessible on&nbsp;<a href="https://www.pcworld.com/article/436674/the-best-pc-laptops-of-the-year.html" rel="noreferrer noopener" target="_blank">any device</a>.</p>

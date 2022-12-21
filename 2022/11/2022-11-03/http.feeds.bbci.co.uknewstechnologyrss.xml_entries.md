@@ -1,10 +1,9 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml
+# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
 
 ## Former exec says charge will cost Twitter its magic
  - [https://www.bbc.co.uk/news/technology-63495124?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63495124?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-11-03 12:15:29+00:00
- - tags: None
 
 Twitter's former global communications head tells BBC News he is worried about Elon Musk's plans.
 
@@ -12,7 +11,6 @@ Twitter's former global communications head tells BBC News he is worried about E
  - [https://www.bbc.co.uk/news/business-63494951?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63494951?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-11-03 05:05:36+00:00
- - tags: None
 
 The Chinese social media giant said the policy is "based on a demonstrated need to do their job".
 
@@ -20,6 +18,5 @@ The Chinese social media giant said the policy is "based on a demonstrated need 
  - [https://www.bbc.co.uk/news/world-asia-china-63481793?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-63481793?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-11-03 00:05:35+00:00
- - tags: None
 
 Workers at the plant in Zhengzhou, China, thought they were going to be part of a huge Covid experiment.

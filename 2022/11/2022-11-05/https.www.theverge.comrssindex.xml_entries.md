@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Jack Dorsey takes responsibility for Elon Musk’s mass layoffs at Twitter
  - [https://www.theverge.com/2022/11/5/23442086/jack-dorsey-responsibility-twitter-mass-layoffs-elon-musk-apology-former-ceo](https://www.theverge.com/2022/11/5/23442086/jack-dorsey-responsibility-twitter-mass-layoffs-elon-musk-apology-former-ceo)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-05 22:59:59+00:00
- - tags: None
 
 <figure>
       <img alt="Jack Dorsey on a purple background" src="https://cdn.vox-cdn.com/thumbor/6bofqnCRrPCJMS689SU3wl9pXEk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71590049/VRG_Illo_STK172_L_Normand_JackDorsey_Neutral.0.jpg" />
@@ -26,7 +25,6 @@
  - [https://www.theverge.com/2022/11/5/23442149/twitter-blue-checkmark-ios-update-elon-musk](https://www.theverge.com/2022/11/5/23442149/twitter-blue-checkmark-ios-update-elon-musk)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-05 19:09:34+00:00
- - tags: None
 
 <figure>
       <img alt="Elon Musk shrugging on a background with the Twitter logo" src="https://cdn.vox-cdn.com/thumbor/H0j5UtC4O9VRNENatURy4mAT7tE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71589287/VRG_Illo_STK022_K_Radtke_Musk_Twitter_Shrug.0.jpg" />
@@ -47,7 +45,6 @@
  - [https://www.theverge.com/2022/11/5/23441872/apple-advertisements-mls-major-league-soccer-games-2023](https://www.theverge.com/2022/11/5/23441872/apple-advertisements-mls-major-league-soccer-games-2023)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-05 16:08:54+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/Mvgv5ibB2bsvhNqyueGGbb5n7TU=/154x0:1807x1102/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71588871/Apple_MLS_partnership_June_2022.0.jpg" />
@@ -65,7 +62,6 @@
  - [https://www.theverge.com/2022/11/5/23441039/sony-wf-1000xm4-earbuds-apple-ipad-pro-m1-m2-segway-scooter-xbox-playstation-gift-card-deal-sale](https://www.theverge.com/2022/11/5/23441039/sony-wf-1000xm4-earbuds-apple-ipad-pro-m1-m2-segway-scooter-xbox-playstation-gift-card-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-05 13:39:15+00:00
- - tags: None
 
 <figure>
       <img alt="Sony WF-1000XM4 earbuds and their charging case held in the palm of a hand." src="https://cdn.vox-cdn.com/thumbor/2jHAS7Az0PXmB-_tOx2CJVDzVsc=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71588384/DSCF4082_Edited.0.jpg" />
@@ -83,7 +79,6 @@
  - [https://www.theverge.com/23440189/matter-launch-event-hands-on-rollout](https://www.theverge.com/23440189/matter-launch-event-hands-on-rollout)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-05 13:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/J3dsPXVXVdqsorjnKlnW9ddTLw0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71588234/226392_Matter_event_JTuohy_0006.0.jpg" />
@@ -101,7 +96,6 @@
  - [https://www.theverge.com/2022/11/5/23440408/sema-2022-ev-restomod-ford-nissan-vw-jeep](https://www.theverge.com/2022/11/5/23440408/sema-2022-ev-restomod-ford-nissan-vw-jeep)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-05 12:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Nissan Sunny restomod truck" src="https://cdn.vox-cdn.com/thumbor/m2iLifeDgsT4HwIVJTo-9KG3O7s=/0x0:6000x4000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71588105/Sunny_LEAF_Hero.0.jpg" />
@@ -126,7 +120,6 @@
  - [https://www.theverge.com/2022/11/4/23441167/overwatch-2-new-hero-ramattra-tank](https://www.theverge.com/2022/11/4/23441167/overwatch-2-new-hero-ramattra-tank)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-05 01:41:10+00:00
- - tags: None
 
 <figure>
       <img alt="Graphic from Overwatch 2’s new hero reveal trailer featuring a sentient robot holding a giant staff with robotic hair blowing in the breeze." src="https://cdn.vox-cdn.com/thumbor/K2PqwwoXwnotXbHjhibJ29zL3K8=/209x0:974x510/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71587143/ezgif.com_gif_maker__2_.0.png" />
@@ -145,7 +138,6 @@
  - [https://www.theverge.com/2022/11/4/23441336/belkin-boost-charge-pro-wireless-car-charger-with-magsafe-iphone-accessory](https://www.theverge.com/2022/11/4/23441336/belkin-boost-charge-pro-wireless-car-charger-with-magsafe-iphone-accessory)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-05 00:44:51+00:00
- - tags: None
 
 <figure>
       <img alt="Image of an iPhone and the Belkin mount." src="https://cdn.vox-cdn.com/thumbor/NoaJFkkvWCzmHj4qWYuT8JvpZ74=/0x153:2000x1486/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71587063/HQ6A2.0.jpeg" />
@@ -162,7 +154,6 @@
  - [https://www.theverge.com/2022/11/4/23441404/twitter-trust-safety-staff-layoffs-content-moderation](https://www.theverge.com/2022/11/4/23441404/twitter-trust-safety-staff-layoffs-content-moderation)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-05 00:28:23+00:00
- - tags: None
 
 <figure>
       <img alt="An illustration of the Twitter logo." src="https://cdn.vox-cdn.com/thumbor/rJoSoOWsKMhGHbavubuYsK5iFhU=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71587035/acastro_STK050_06.0.jpg" />

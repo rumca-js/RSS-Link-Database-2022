@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## HP to cut up to 6,000 staff in plan to mitigate PC market softness
  - [https://www.computerworld.com/article/3681068/hp-to-cut-up-to-6000-staff-in-plan-to-mitigate-pc-market-softness.html#tk.rss_all](https://www.computerworld.com/article/3681068/hp-to-cut-up-to-6000-staff-in-plan-to-mitigate-pc-market-softness.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-23 20:17:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3680396/apple-has-improved-mac-mdm-with-this-important-feature.html#tk.rss_all](https://www.computerworld.com/article/3680396/apple-has-improved-mac-mdm-with-this-important-feature.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-23 15:14:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -25,7 +23,6 @@
  - [https://www.computerworld.com/article/3680731/demand-for-it-pros-remains-high-even-as-layoffs-continue.html#tk.rss_all](https://www.computerworld.com/article/3680731/demand-for-it-pros-remains-high-even-as-layoffs-continue.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-23 11:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

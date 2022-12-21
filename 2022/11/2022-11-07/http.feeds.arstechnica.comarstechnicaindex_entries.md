@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## US hospitals are so overloaded that one ER called 911 on itself
  - [https://arstechnica.com/?p=1895862](https://arstechnica.com/?p=1895862)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-07 23:03:53+00:00
- - tags: None
 
 Patients are reporting crowded waiting rooms and hours-long wait times.
 
@@ -12,7 +11,6 @@ Patients are reporting crowded waiting rooms and hours-long wait times.
  - [https://arstechnica.com/?p=1895809](https://arstechnica.com/?p=1895809)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-07 22:48:43+00:00
- - tags: None
 
 Netflix moves forward with a live-action film, animated series, and maybe more.
 
@@ -20,7 +18,6 @@ Netflix moves forward with a live-action film, animated series, and maybe more.
  - [https://arstechnica.com/?p=1895826](https://arstechnica.com/?p=1895826)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-07 22:17:30+00:00
- - tags: None
 
 The haul, the second biggest in DOJ history, shows the difficulty of hiding cryptocurrency.
 
@@ -28,7 +25,6 @@ The haul, the second biggest in DOJ history, shows the difficulty of hiding cryp
  - [https://arstechnica.com/?p=1895813](https://arstechnica.com/?p=1895813)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-07 21:28:20+00:00
- - tags: None
 
 <em>Sword Art Online</em> inspires Palmer Luckey to put explosive charges on a Quest Pro.
 
@@ -36,7 +32,6 @@ The haul, the second biggest in DOJ history, shows the difficulty of hiding cryp
  - [https://arstechnica.com/?p=1895749](https://arstechnica.com/?p=1895749)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-07 20:41:59+00:00
- - tags: None
 
 Travis Beacham's "Victorian neo-noir" fantasy series debuted in 2019.
 
@@ -44,7 +39,6 @@ Travis Beacham's "Victorian neo-noir" fantasy series debuted in 2019.
  - [https://arstechnica.com/?p=1894833](https://arstechnica.com/?p=1894833)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-07 19:43:29+00:00
- - tags: None
 
 Adversarial policy attacks blind spots in the AI—with broader implications than games.
 
@@ -52,7 +46,6 @@ Adversarial policy attacks blind spots in the AI—with broader implications tha
  - [https://arstechnica.com/?p=1895683](https://arstechnica.com/?p=1895683)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-07 19:12:30+00:00
- - tags: None
 
 "Ticking boxes, running around, searching all the rooms...."
 
@@ -60,7 +53,6 @@ Adversarial policy attacks blind spots in the AI—with broader implications tha
  - [https://arstechnica.com/?p=1895712](https://arstechnica.com/?p=1895712)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-07 18:53:31+00:00
- - tags: None
 
 Famous people trolled Musk by tweeting under his name and profile picture.
 
@@ -68,7 +60,6 @@ Famous people trolled Musk by tweeting under his name and profile picture.
  - [https://arstechnica.com/?p=1895641](https://arstechnica.com/?p=1895641)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-07 15:43:48+00:00
- - tags: None
 
 Cutting-edge semiconductor companies tweak specs to comply with export controls.
 
@@ -76,7 +67,6 @@ Cutting-edge semiconductor companies tweak specs to comply with export controls.
  - [https://arstechnica.com/?p=1895634](https://arstechnica.com/?p=1895634)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-07 15:29:42+00:00
- - tags: None
 
 Dozens of canned workers asked back after Twitter realizes they're still needed.
 
@@ -84,6 +74,5 @@ Dozens of canned workers asked back after Twitter realizes they're still needed.
  - [https://arstechnica.com/?p=1890509](https://arstechnica.com/?p=1890509)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-07 12:00:27+00:00
- - tags: None
 
 The largest sharks ever seem to have left their young in an unsupervised daycare.

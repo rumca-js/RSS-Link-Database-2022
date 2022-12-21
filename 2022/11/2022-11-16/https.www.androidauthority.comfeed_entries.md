@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## Qualcomm doubles down on augmented reality, spatial audio updates, more
  - [https://www.androidauthority.com/qualcomm-snapdragon-day-2-2022-3235537/](https://www.androidauthority.com/qualcomm-snapdragon-day-2-2022-3235537/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-16 23:00:06+00:00
- - tags: None
 
 Audiophiles should be particularly excited about this news.
 
@@ -12,7 +11,6 @@ Audiophiles should be particularly excited about this news.
  - [https://www.androidauthority.com/samsung-cloud-gaming-2021-tvs-3235659/](https://www.androidauthority.com/samsung-cloud-gaming-2021-tvs-3235659/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-16 19:31:30+00:00
- - tags: None
 
 Xbox Cloud Gaming and other streaming apps are coming to older Samsung TVs
 
@@ -20,7 +18,6 @@ Xbox Cloud Gaming and other streaming apps are coming to older Samsung TVs
  - [https://www.androidauthority.com/how-to-use-personal-heatmap-strava-3234626/](https://www.androidauthority.com/how-to-use-personal-heatmap-strava-3234626/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-16 18:38:13+00:00
- - tags: None
 
 Check out the paths you've covered, on foot, bike, and more.
 
@@ -28,7 +25,6 @@ Check out the paths you've covered, on foot, bike, and more.
  - [https://www.androidauthority.com/motorola-edge-10-pro-3235564/](https://www.androidauthority.com/motorola-edge-10-pro-3235564/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-16 17:43:25+00:00
- - tags: None
 
 The filing reveals 125W fast charging and a dual-SIM variant.
 
@@ -36,7 +32,6 @@ The filing reveals 125W fast charging and a dual-SIM variant.
  - [https://www.androidauthority.com/android-auto-beta-sign-ups-3235527/](https://www.androidauthority.com/android-auto-beta-sign-ups-3235527/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-16 16:21:28+00:00
- - tags: None
 
 The beta program has added new spots for those wanting to try the new beta.
 
@@ -44,7 +39,6 @@ The beta program has added new spots for those wanting to try the new beta.
  - [https://www.androidauthority.com/wallpaper-wednesday-nov-16-2022-3234675/](https://www.androidauthority.com/wallpaper-wednesday-nov-16-2022-3234675/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-16 14:30:52+00:00
- - tags: None
 
 Here is a weekly selection of Android wallpapers created by our readers and members of the Android Authority team!
 
@@ -52,7 +46,6 @@ Here is a weekly selection of Android wallpapers created by our readers and memb
  - [https://www.androidauthority.com/pixel-7-series-issues-poll-results-3235428/](https://www.androidauthority.com/pixel-7-series-issues-poll-results-3235428/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-16 10:33:24+00:00
- - tags: None
 
 It's not a landslide victory for the new Pixels, as some people are reporting annoying issues with the phones.
 
@@ -60,7 +53,6 @@ It's not a landslide victory for the new Pixels, as some people are reporting an
  - [https://www.androidauthority.com/diesel-griffed-gen-6-3235400/](https://www.androidauthority.com/diesel-griffed-gen-6-3235400/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-16 09:12:19+00:00
- - tags: None
 
 Want a Fossil Gen 6 with more aggressive styling? You've found it.
 
@@ -68,7 +60,6 @@ Want a Fossil Gen 6 with more aggressive styling? You've found it.
  - [https://www.androidauthority.com/daily-authority-november-16-2022-3235363/](https://www.androidauthority.com/daily-authority-november-16-2022-3235363/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-16 08:47:53+00:00
- - tags: None
 
 We decode the Snapdragon 8 Gen 2 chip for you. Also read about Musk's latest Twitter goof-up, and more tech news of the day.
 
@@ -76,7 +67,6 @@ We decode the Snapdragon 8 Gen 2 chip for you. Also read about Musk's latest Twi
  - [https://www.androidauthority.com/best-google-pixel-6a-cases-3164211/](https://www.androidauthority.com/best-google-pixel-6a-cases-3164211/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-16 08:03:21+00:00
- - tags: None
 
 Google's latest budget-friendly phone isn't as rugged as its premium counterparts, so slap a case on it.
 
@@ -84,7 +74,6 @@ Google's latest budget-friendly phone isn't as rugged as its premium counterpart
  - [https://www.androidauthority.com/oneplus-8-android-13-update-3235371/](https://www.androidauthority.com/oneplus-8-android-13-update-3235371/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-16 07:00:00+00:00
- - tags: None
 
 OnePlus' 2020 devices are now getting their long-awaited Oxygen OS 13 update.
 
@@ -92,7 +81,6 @@ OnePlus' 2020 devices are now getting their long-awaited Oxygen OS 13 update.
  - [https://www.androidauthority.com/twitter-paid-verification-delayed-3235376/](https://www.androidauthority.com/twitter-paid-verification-delayed-3235376/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-16 06:43:29+00:00
- - tags: None
 
 He wants the service to be "rock solid."
 
@@ -100,7 +88,6 @@ He wants the service to be "rock solid."
  - [https://www.androidauthority.com/what-is-whatnot-3235330/](https://www.androidauthority.com/what-is-whatnot-3235330/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-16 05:45:04+00:00
- - tags: None
 
 Collectibles were never so fun to buy or sell!
 
@@ -108,7 +95,6 @@ Collectibles were never so fun to buy or sell!
  - [https://www.androidauthority.com/check-amazon-gift-card-3166669/](https://www.androidauthority.com/check-amazon-gift-card-3166669/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-16 02:51:23+00:00
- - tags: None
 
 How much is your gift card worth?
 
@@ -116,6 +102,5 @@ How much is your gift card worth?
  - [https://www.androidauthority.com/loop-videos-youtube-3158098/](https://www.androidauthority.com/loop-videos-youtube-3158098/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-16 02:34:13+00:00
- - tags: None
 
 Some videos are worth watching again and again.

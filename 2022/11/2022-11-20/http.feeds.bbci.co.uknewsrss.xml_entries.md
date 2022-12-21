@@ -1,10 +1,9 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml
+# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
 
 ## The Papers: 'Lions of Arabia' and 'soft Brexit warnings'
  - [https://www.bbc.co.uk/news/blogs-the-papers-63697978?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-63697978?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 23:59:23+00:00
- - tags: None
 
 The final countdown to England's World Cup kick off is causing much excitement on Monday's front pages.
 
@@ -12,7 +11,6 @@ The final countdown to England's World Cup kick off is causing much excitement o
  - [https://www.bbc.co.uk/sport/snooker/63691850?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/snooker/63691850?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 23:53:52+00:00
- - tags: None
 
 Mark Allen produces a sensational recovery as he fights back from 6-1 down to beat Ding Junhui 10-7 for his first UK Championship title.
 
@@ -20,7 +18,6 @@ Mark Allen produces a sensational recovery as he fights back from 6-1 down to be
  - [https://www.bbc.co.uk/news/uk-wales-63208053?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-63208053?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 22:05:45+00:00
- - tags: None
 
 It is a day many fans feared they would never see, with 64 years of hurt finally coming to an end.
 
@@ -28,7 +25,6 @@ It is a day many fans feared they would never see, with 64 years of hurt finally
  - [https://www.bbc.co.uk/sport/football/63695036?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63695036?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 21:35:05+00:00
- - tags: None
 
 Qatar were beaten by Ecuador as the dreams of the host nation turned into a nightmare at Al Bayt Stadium.
 
@@ -36,7 +32,6 @@ Qatar were beaten by Ecuador as the dreams of the host nation turned into a nigh
  - [https://www.bbc.co.uk/news/world-middle-east-63696648?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-middle-east-63696648?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 21:20:52+00:00
- - tags: None
 
 How Qataris feel about their country becoming the first in the Arab world to host a World Cup.
 
@@ -44,7 +39,6 @@ How Qataris feel about their country becoming the first in the Arab world to hos
  - [https://www.bbc.co.uk/news/world-middle-east-63697644?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-middle-east-63697644?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 20:47:15+00:00
- - tags: None
 
 After the recent bombing in Istanbul, Turkish retaliatory air strikes on Kurdish targets have left a population on edge.
 
@@ -52,7 +46,6 @@ After the recent bombing in Istanbul, Turkish retaliatory air strikes on Kurdish
  - [https://www.bbc.co.uk/sport/tennis/63696459?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/tennis/63696459?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 20:44:43+00:00
- - tags: None
 
 Former world number one Novak Djokovic beats Casper Ruud to win a record-equalling sixth ATP Finals.
 
@@ -60,7 +53,6 @@ Former world number one Novak Djokovic beats Casper Ruud to win a record-equalli
  - [https://www.bbc.co.uk/sport/football/63693420?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63693420?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 20:12:06+00:00
- - tags: None
 
 With England set to open their World Cup campaign against Iran on Monday, BBC Sport's Phil McNulty takes a closer look at what is at stake.
 
@@ -68,7 +60,6 @@ With England set to open their World Cup campaign against Iran on Monday, BBC Sp
  - [https://www.bbc.co.uk/sport/football/63697402?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63697402?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 20:06:41+00:00
- - tags: None
 
 Gareth Southgate says he wants to take England fans on a happy journey while Wales captain Gareth Bale relishes a "massive piece" of Wales' football history.
 
@@ -76,7 +67,6 @@ Gareth Southgate says he wants to take England fans on a happy journey while Wal
  - [https://www.bbc.co.uk/news/uk-england-manchester-63695982?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-manchester-63695982?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 18:21:09+00:00
- - tags: None
 
 Protect Duty, or Martyn's Law, was introduced in the wake of the Manchester Arena bombing.
 
@@ -84,7 +74,6 @@ Protect Duty, or Martyn's Law, was introduced in the wake of the Manchester Aren
  - [https://www.bbc.co.uk/sport/football/63603375?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63603375?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 18:16:07+00:00
- - tags: None
 
 Hosts Qatar open the 2022 Fifa World Cup in calamitous fashion, easily beaten by Ecuador in a humbling defeat at Al Bayt.
 
@@ -92,7 +81,6 @@ Hosts Qatar open the 2022 Fifa World Cup in calamitous fashion, easily beaten by
  - [https://www.bbc.co.uk/sport/av/football/63669797?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63669797?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 18:12:38+00:00
- - tags: None
 
 Watch highlights as Qatar become the first host nation to lose their opening game as Ecuador captain Enner Valencia scores twice.
 
@@ -100,7 +88,6 @@ Watch highlights as Qatar become the first host nation to lose their opening gam
  - [https://www.bbc.co.uk/sport/football/63603382?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63603382?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 17:49:06+00:00
- - tags: None
 
 Gareth Southgate hopes England can go on a "fantastic journey" at the World Cup to bring "real happiness" to the nation
 
@@ -108,7 +95,6 @@ Gareth Southgate hopes England can go on a "fantastic journey" at the World Cup 
  - [https://www.bbc.co.uk/sport/av/football/63697097?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63697097?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 17:44:46+00:00
- - tags: None
 
 Wales captain Gareth Bale wants their historic World Cup appearance to inspire the next generation.
 
@@ -116,7 +102,6 @@ Wales captain Gareth Bale wants their historic World Cup appearance to inspire t
  - [https://www.bbc.co.uk/sport/football/63695662?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63695662?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 17:40:00+00:00
- - tags: None
 
 Gareth Southgate says his England players will take the knee before Monday's World Cup opener against Iran.
 
@@ -124,7 +109,6 @@ Gareth Southgate says his England players will take the knee before Monday's Wor
  - [https://www.bbc.co.uk/news/uk-63692988?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63692988?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 17:38:27+00:00
- - tags: None
 
 The comedian appears to destroy wads of banknotes in an industrial shredder in a clip posted on Twitter.
 
@@ -132,7 +116,6 @@ The comedian appears to destroy wads of banknotes in an industrial shredder in a
  - [https://www.bbc.co.uk/news/uk-63696400?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63696400?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 17:27:27+00:00
- - tags: None
 
 Dominic Raab says terrorist offenders will be punished if they are "unwilling to change their ways".
 
@@ -140,7 +123,6 @@ Dominic Raab says terrorist offenders will be punished if they are "unwilling to
  - [https://www.bbc.co.uk/sport/football/63692043?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63692043?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 17:13:31+00:00
- - tags: None
 
 The 2022 World Cup kicks off with a visually striking opening ceremony before the first match between hosts Qatar and Ecuador.
 
@@ -148,7 +130,6 @@ The 2022 World Cup kicks off with a visually striking opening ceremony before th
  - [https://www.bbc.co.uk/sport/football/63696125?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63696125?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 16:58:32+00:00
- - tags: None
 
 Iran captain Ehsan Hajsafi speaks out against the situation in his home country before his nation's opening game against England at the World Cup.
 
@@ -156,7 +137,6 @@ Iran captain Ehsan Hajsafi speaks out against the situation in his home country 
  - [https://www.bbc.co.uk/sport/av/football/63696412?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63696412?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 16:54:49+00:00
- - tags: None
 
 Watch as Ecuador captain Enner Valencia scores his second goal as Ecuador lead Qatar 2-0 in the opening game of the Fifa World Cup in Qatar.
 
@@ -164,7 +144,6 @@ Watch as Ecuador captain Enner Valencia scores his second goal as Ecuador lead Q
  - [https://www.bbc.co.uk/news/uk-england-nottinghamshire-63690097?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-nottinghamshire-63690097?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 16:42:41+00:00
- - tags: None
 
 Firefighters say they were called out after neighbours in Nottingham saw smoke coming from the flat.
 
@@ -172,7 +151,6 @@ Firefighters say they were called out after neighbours in Nottingham saw smoke c
  - [https://www.bbc.co.uk/sport/av/football/63696120?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63696120?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 16:40:44+00:00
- - tags: None
 
 Watch the best moments from the opening ceremony of the 2022 World Cup from the Al Bayt Stadium including an appearance from Morgan Freeman and BTS's Jungkook.
 
@@ -180,7 +158,6 @@ Watch the best moments from the opening ceremony of the 2022 World Cup from the 
  - [https://www.bbc.co.uk/sport/rugby-union/63696370?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63696370?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 16:30:56+00:00
- - tags: None
 
 England fans saw reasons to be cheerful and fearful in the dramatic draw with New Zealand, writes World Cup winner Matt Dawson.
 
@@ -188,7 +165,6 @@ England fans saw reasons to be cheerful and fearful in the dramatic draw with Ne
  - [https://www.bbc.co.uk/sport/av/football/63696118?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63696118?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 16:19:18+00:00
- - tags: None
 
 Watch as BBC Sport pundits Alan Shearer, Alex Scott and Ashely Williams have an important conversation surrounding the World Cup in Qatar.
 
@@ -196,7 +172,6 @@ Watch as BBC Sport pundits Alan Shearer, Alex Scott and Ashely Williams have an 
  - [https://www.bbc.co.uk/sport/rugby-league/63691695?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-league/63691695?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 16:00:47+00:00
- - tags: None
 
 Australia's victory over Samoa brought the curtain down on the World Cup - but what's the future for international rugby league?
 
@@ -204,7 +179,6 @@ Australia's victory over Samoa brought the curtain down on the World Cup - but w
  - [https://www.bbc.co.uk/sport/football/63603389?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63603389?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 16:00:41+00:00
- - tags: None
 
 Gareth Bale is ready to lead Wales in a "massive piece of history" when he captains them in their first World Cup match for 64 years on Monday.
 
@@ -212,7 +186,6 @@ Gareth Bale is ready to lead Wales in a "massive piece of history" when he capta
  - [https://www.bbc.co.uk/news/world-europe-63694763?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63694763?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 15:53:30+00:00
- - tags: None
 
 The head of the nuclear watchdog issues an urgent plea after new blasts near the Zaporizhzhia plant.
 
@@ -220,7 +193,6 @@ The head of the nuclear watchdog issues an urgent plea after new blasts near the
  - [https://www.bbc.co.uk/news/science-environment-63478446?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/science-environment-63478446?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 14:56:50+00:00
- - tags: None
 
 In a landmark deal, richer nations agree to give money to developing nations facing climate change.
 
@@ -228,7 +200,6 @@ In a landmark deal, richer nations agree to give money to developing nations fac
  - [https://www.bbc.co.uk/sport/football/63612798?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63612798?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 14:56:23+00:00
- - tags: None
 
 Chelsea mark the return of manager Emma Hayes and a record home crowd by beating Tottenham 3-0 at Stamford Bridge.
 
@@ -236,7 +207,6 @@ Chelsea mark the return of manager Emma Hayes and a record home crowd by beating
  - [https://www.bbc.co.uk/sport/formula1/63691532?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/formula1/63691532?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 14:36:52+00:00
- - tags: None
 
 Red Bull's Max Verstappen wins the final race of the season in Abu Dhabi as Ferrari's Charles Leclerc beats Sergio Perez to secure second in the championship.
 
@@ -244,7 +214,6 @@ Red Bull's Max Verstappen wins the final race of the season in Abu Dhabi as Ferr
  - [https://www.bbc.co.uk/sport/football/63695407?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63695407?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 14:15:08+00:00
- - tags: None
 
 Wales midfielder Joe Allen is out of Monday's World Cup opener against the United States with a hamstring injury.
 
@@ -252,7 +221,6 @@ Wales midfielder Joe Allen is out of Monday's World Cup opener against the Unite
  - [https://www.bbc.co.uk/sport/football/63680715?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63680715?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 14:11:03+00:00
- - tags: None
 
 Former Wales defender and BBC pundit Danny Gabbidon on how Rob Page's side can start their first World Cup for 64 years by beating the United States.
 
@@ -260,7 +228,6 @@ Former Wales defender and BBC pundit Danny Gabbidon on how Rob Page's side can s
  - [https://www.bbc.co.uk/news/uk-wales-63689022?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-63689022?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 13:47:08+00:00
- - tags: None
 
 The messages include Jimmy Savile jokes, a video of a woman stripping, and leaked nude images.
 
@@ -268,7 +235,6 @@ The messages include Jimmy Savile jokes, a video of a woman stripping, and leake
  - [https://www.bbc.co.uk/news/business-63694717?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63694717?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 13:35:43+00:00
- - tags: None
 
 Tony Danker tells the BBC the Autumn Statement will tackle inflation but won't revive growth.
 
@@ -276,7 +242,6 @@ Tony Danker tells the BBC the Autumn Statement will tackle inflation but won't r
  - [https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-63694148?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-63694148?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 13:32:46+00:00
- - tags: None
 
 Police confirm the search has entered its third day at Monymusk as the local community gathers in hope.
 
@@ -284,7 +249,6 @@ Police confirm the search has entered its third day at Monymusk as the local com
  - [https://www.bbc.co.uk/news/world-europe-63694707?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63694707?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 12:55:26+00:00
- - tags: None
 
 The key city is occupied by Russia - but the exiled Ukrainian mayor is still making plans.
 
@@ -292,7 +256,6 @@ The key city is occupied by Russia - but the exiled Ukrainian mayor is still mak
  - [https://www.bbc.co.uk/news/uk-politics-63693931?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63693931?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 11:52:50+00:00
- - tags: None
 
 Steve Barclay says the delay is a "difficult decision" but will allow more funding for social care.
 
@@ -300,7 +263,6 @@ Steve Barclay says the delay is a "difficult decision" but will allow more fundi
  - [https://www.bbc.co.uk/news/science-environment-63677466?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/science-environment-63677466?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 11:45:06+00:00
- - tags: None
 
 Rich nations will pay climate damages, but the final deal does not cut fossil fuels further.
 
@@ -308,7 +270,6 @@ Rich nations will pay climate damages, but the final deal does not cut fossil fu
  - [https://www.bbc.co.uk/news/world-us-canada-63693310?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63693310?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 11:41:16+00:00
- - tags: None
 
 The Club Q nightclub in Colorado Springs thanked customers who subdued the gunman on Saturday.
 
@@ -316,7 +277,6 @@ The Club Q nightclub in Colorado Springs thanked customers who subdued the gunma
  - [https://www.bbc.co.uk/news/uk-england-london-63690651?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-london-63690651?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 10:38:45+00:00
- - tags: None
 
 It has been alleged a donor to one of the King's charities was offered help securing a knighthood.
 
@@ -324,7 +284,6 @@ It has been alleged a donor to one of the King's charities was offered help secu
  - [https://www.bbc.co.uk/news/science-environment-63693738?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/science-environment-63693738?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 10:26:26+00:00
- - tags: None
 
 The biggest win on climate since the Paris Agreement in 2015... or the biggest loss?
 
@@ -332,7 +291,6 @@ The biggest win on climate since the Paris Agreement in 2015... or the biggest l
  - [https://www.bbc.co.uk/sport/av/football/63691289?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63691289?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 10:00:26+00:00
- - tags: None
 
 BBC Sport pundit Rio Ferdinand answers questions from our followers about the World Cup, England and whether he's still got it.
 
@@ -340,7 +298,6 @@ BBC Sport pundit Rio Ferdinand answers questions from our followers about the Wo
  - [https://www.bbc.co.uk/news/uk-england-cambridgeshire-63693336?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-cambridgeshire-63693336?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 09:51:53+00:00
- - tags: None
 
 Three teenagers are arrested after a 17-year-old dies in a "targeted attack" in Cambridge.
 
@@ -348,7 +305,6 @@ Three teenagers are arrested after a 17-year-old dies in a "targeted attack" in 
  - [https://www.bbc.co.uk/sport/football/63685169?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63685169?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 09:19:43+00:00
- - tags: None
 
 The BBC titles for the World Cup features 61 individual players. But how many of them can you name against the clock?
 
@@ -356,7 +312,6 @@ The BBC titles for the World Cup features 61 individual players. But how many of
  - [https://www.bbc.co.uk/sport/northern-ireland/63693626?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/northern-ireland/63693626?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 09:13:54+00:00
- - tags: None
 
 Eugene Laverty is taken to a Melbourne hospital by helicopter after crashing during the final race of his World Superbike career.
 
@@ -364,7 +319,6 @@ Eugene Laverty is taken to a Melbourne hospital by helicopter after crashing dur
  - [https://www.bbc.co.uk/news/world-middle-east-63693308?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-middle-east-63693308?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 09:05:11+00:00
- - tags: None
 
 Operation Claw-Sword targeted sites in Syria and Iraq a week after a deadly bombing in Istanbul.
 
@@ -372,7 +326,6 @@ Operation Claw-Sword targeted sites in Syria and Iraq a week after a deadly bomb
  - [https://www.bbc.co.uk/news/world-middle-east-63693408?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-middle-east-63693408?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 08:05:51+00:00
- - tags: None
 
 The Colombian star, who features on the World Cup anthem, was asked about human rights issues.
 
@@ -380,7 +333,6 @@ The Colombian star, who features on the World Cup anthem, was asked about human 
  - [https://www.bbc.co.uk/news/uk-politics-63692981?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63692981?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 07:38:19+00:00
- - tags: None
 
 The House would be replaced with a "new, reformed upper chamber", the BBC is told.
 
@@ -388,7 +340,6 @@ The House would be replaced with a "new, reformed upper chamber", the BBC is tol
  - [https://www.bbc.co.uk/sport/football/63490589?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63490589?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 06:41:22+00:00
- - tags: None
 
 Qatar's national team is aiming to 'dazzle the world' at this year's World Cup, with the hosts hoping that plans put in place long before they were awarded the tournament pay off.
 
@@ -396,7 +347,6 @@ Qatar's national team is aiming to 'dazzle the world' at this year's World Cup, 
  - [https://www.bbc.co.uk/news/business-63420545?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63420545?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 06:34:36+00:00
- - tags: None
 
 Bosses have to decide whether to get behind the controversial World Cup.
 
@@ -404,7 +354,6 @@ Bosses have to decide whether to get behind the controversial World Cup.
  - [https://www.bbc.co.uk/sport/av/football/63689011?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63689011?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 06:01:06+00:00
- - tags: None
 
 BBC Analysis editor Ros Atkins looks at how Qatar won the World Cup, as well as the human rights and environmental issues surrounding the tournament.
 
@@ -412,7 +361,6 @@ BBC Analysis editor Ros Atkins looks at how Qatar won the World Cup, as well as 
  - [https://www.bbc.co.uk/sport/football/63690765?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63690765?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 05:56:32+00:00
- - tags: None
 
 BBC Sport's Nesta McGregor visits Qatar's £175-a-night tented fan village to find out what supporters think of the experience.
 
@@ -420,7 +368,6 @@ BBC Sport's Nesta McGregor visits Qatar's £175-a-night tented fan village to fi
  - [https://www.bbc.co.uk/sport/av/football/63691286?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63691286?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 05:55:01+00:00
- - tags: None
 
 BBC Sport's Nesta McGregor spends the night at the Qetaifan Island Fan Village just north of Doha, where football fans are arriving for the 2022 World Cup in Qatar.
 
@@ -428,7 +375,6 @@ BBC Sport's Nesta McGregor spends the night at the Qetaifan Island Fan Village j
  - [https://www.bbc.co.uk/news/uk-63691578?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63691578?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 04:46:16+00:00
- - tags: None
 
 The housing secretary tells providers to improve conditions after Awaab Ishak's death due to mould in his home.
 
@@ -436,7 +382,6 @@ The housing secretary tells providers to improve conditions after Awaab Ishak's 
  - [https://www.bbc.co.uk/news/world-us-canada-63692369?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63692369?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 03:06:01+00:00
- - tags: None
 
 The ban against the ex-US president is lifted, but Trump says he sees no reason to return.
 
@@ -444,7 +389,6 @@ The ban against the ex-US president is lifted, but Trump says he sees no reason 
  - [https://www.bbc.co.uk/news/blogs-the-papers-63691816?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-63691816?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 00:24:01+00:00
- - tags: None
 
 Plenty of stories on Sunday's front pages look forward to the World Cup finally kicking off in Qatar.
 
@@ -452,7 +396,6 @@ Plenty of stories on Sunday's front pages look forward to the World Cup finally 
  - [https://www.bbc.co.uk/news/entertainment-arts-63668308?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63668308?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 00:22:05+00:00
- - tags: None
 
 While Three Lions still gets played every tournament, the days of squad singles are long gone.
 
@@ -460,7 +403,6 @@ While Three Lions still gets played every tournament, the days of squad singles 
  - [https://www.bbc.co.uk/news/uk-63503970?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63503970?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 00:14:57+00:00
- - tags: None
 
 Artist Annie Nicholson's work has centred around grief since she lost family members in a tragic accident.
 
@@ -468,7 +410,6 @@ Artist Annie Nicholson's work has centred around grief since she lost family mem
  - [https://www.bbc.co.uk/news/world-us-canada-63387906?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63387906?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 00:12:59+00:00
- - tags: None
 
 Michelle told no-one she was pregnant. So when she gave birth by the roadside, she did something she came to regret.
 
@@ -476,6 +417,5 @@ Michelle told no-one she was pregnant. So when she gave birth by the roadside, s
  - [https://www.bbc.co.uk/news/world-asia-63644829?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-63644829?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-20 00:02:51+00:00
- - tags: None
 
 Jang Jung Hyuck used kickboxing to cope with the trauma of escaping North Korea.

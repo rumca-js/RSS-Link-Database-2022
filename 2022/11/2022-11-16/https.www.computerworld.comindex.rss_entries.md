@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Offboarding processes pose security risks as job turnover increases: Report
  - [https://www.computerworld.com/article/3680368/offboarding-processes-pose-security-risks-as-job-turnover-increases-report.html#tk.rss_all](https://www.computerworld.com/article/3680368/offboarding-processes-pose-security-risks-as-job-turnover-increases-report.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-16 18:25:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3680232/mosyle-brings-new-iphone-ipad-endpoint-security-options.html#tk.rss_all](https://www.computerworld.com/article/3680232/mosyle-brings-new-iphone-ipad-endpoint-security-options.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-16 16:50:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -25,7 +23,6 @@
  - [https://www.computerworld.com/article/3680131/ftx-meltdown-likely-to-spur-crypto-regulations-cool-digital-currency-push.html#tk.rss_all](https://www.computerworld.com/article/3680131/ftx-meltdown-likely-to-spur-crypto-regulations-cool-digital-currency-push.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-16 11:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

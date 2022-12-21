@@ -1,10 +1,9 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss
+# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
 
 ## Qualcomm's new chip will lead to augmented reality glasses you'll actually want to wear
  - [https://www.techradar.com/news/qualcomms-new-chip-will-lead-to-augmented-reality-glasses-youll-actually-want-to-wear/](https://www.techradar.com/news/qualcomms-new-chip-will-lead-to-augmented-reality-glasses-youll-actually-want-to-wear/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-16 23:31:22+00:00
- - tags: None
 
 The new Snapdragon AR2 Gen 1 fits WiFi 7, and a design and features tailor-made for AR into more compact headworn wearables.
 
@@ -12,7 +11,6 @@ The new Snapdragon AR2 Gen 1 fits WiFi 7, and a design and features tailor-made 
  - [https://www.techradar.com/news/airpods-pro-make-surprisingly-great-cheap-hearing-aids-study-says/](https://www.techradar.com/news/airpods-pro-make-surprisingly-great-cheap-hearing-aids-study-says/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-16 21:05:08+00:00
- - tags: None
 
 A scientific journal finds that Apple’s $249 earbuds fair well against some dedicated hearing devices.
 
@@ -20,7 +18,6 @@ A scientific journal finds that Apple’s $249 earbuds fair well against some de
  - [https://www.techradar.com/news/tp-link-says-it-has-wi-fi-7-routers-ready/](https://www.techradar.com/news/tp-link-says-it-has-wi-fi-7-routers-ready/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-16 20:56:00+00:00
- - tags: None
 
 TP-Link is retooling its entire product line for the new spec, promising faster speeds, reduced latency, and more.
 
@@ -28,7 +25,6 @@ TP-Link is retooling its entire product line for the new spec, promising faster 
  - [https://www.techradar.com/news/fbi-director-worried-about-how-china-uses-tiktok-user-data/](https://www.techradar.com/news/fbi-director-worried-about-how-china-uses-tiktok-user-data/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-16 19:58:39+00:00
- - tags: None
 
 Christopher Wray says that TikTok could be the country's best resource in covert cyber warfare.
 
@@ -36,7 +32,6 @@ Christopher Wray says that TikTok could be the country's best resource in covert
  - [https://www.techradar.com/news/ibm-is-retiring-its-watson-iot-cloud-management-platform/](https://www.techradar.com/news/ibm-is-retiring-its-watson-iot-cloud-management-platform/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-16 18:29:28+00:00
- - tags: None
 
 It is believed that IBM will be closing its Watson IoT platform, following Google Cloud's own announcement earlier this year.
 
@@ -44,7 +39,6 @@ It is believed that IBM will be closing its Watson IoT platform, following Googl
  - [https://www.techradar.com/news/asus-details-power-demands-of-rdna-3-gpus-and-they-may-not-be-as-much-as-you-think/](https://www.techradar.com/news/asus-details-power-demands-of-rdna-3-gpus-and-they-may-not-be-as-much-as-you-think/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-16 17:40:02+00:00
- - tags: None
 
 We’ve also been told the official power requirements of the freshly unleashed Nvidia RTX 4080, too.
 
@@ -52,7 +46,6 @@ We’ve also been told the official power requirements of the freshly unleashed 
  - [https://www.techradar.com/news/microsoft-office-lets-hackers-execute-arbitrary-code-update-now/](https://www.techradar.com/news/microsoft-office-lets-hackers-execute-arbitrary-code-update-now/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-16 17:01:09+00:00
- - tags: None
 
 A newly discovered flaw in Excel lets hackers run arbitrary code on target devices, but a patch is available.
 
@@ -60,7 +53,6 @@ A newly discovered flaw in Excel lets hackers run arbitrary code on target devic
  - [https://www.techradar.com/news/nvidias-h100-enterprise-gpu-sees-huge-workflow-performance-boosts/](https://www.techradar.com/news/nvidias-h100-enterprise-gpu-sees-huge-workflow-performance-boosts/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-16 16:28:44+00:00
- - tags: None
 
 Nvidia has announced its H100 GPU, and promises customers five years’ free access to AI Enterprise, too.
 
@@ -68,7 +60,6 @@ Nvidia has announced its H100 GPU, and promises customers five years’ free acc
  - [https://www.techradar.com/news/xbox-game-pass-ultimate-is-giving-you-a-great-reason-to-finally-try-apple-tv-plus/](https://www.techradar.com/news/xbox-game-pass-ultimate-is-giving-you-a-great-reason-to-finally-try-apple-tv-plus/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-16 16:09:12+00:00
- - tags: None
 
 Free three-month trials of Apple TV Plus and Apple Music are now available for all Xbox Game Pass Ultimate members.
 
@@ -76,7 +67,6 @@ Free three-month trials of Apple TV Plus and Apple Music are now available for a
  - [https://www.techradar.com/news/north-korean-hackers-return-with-updated-version-of-this-dangerous-malware/](https://www.techradar.com/news/north-korean-hackers-return-with-updated-version-of-this-dangerous-malware/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-16 16:02:37+00:00
- - tags: None
 
 Lazarus is targeting EU and Latin America businesses with new malware.
 
@@ -84,7 +74,6 @@ Lazarus is targeting EU and Latin America businesses with new malware.
  - [https://www.techradar.com/news/xbox-keystone-microsofts-cloud-gaming-console-is-years-away/](https://www.techradar.com/news/xbox-keystone-microsofts-cloud-gaming-console-is-years-away/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-16 16:01:14+00:00
- - tags: None
 
 Phil Spencer says the Xbox Cloud Gaming console has been shelved for now, citing higher-than-expected production costs.
 
@@ -92,7 +81,6 @@ Phil Spencer says the Xbox Cloud Gaming console has been shelved for now, citing
  - [https://www.techradar.com/news/microsoft-admits-it-banned-more-than-7-million-xbox-live-accounts-in-6-months/](https://www.techradar.com/news/microsoft-admits-it-banned-more-than-7-million-xbox-live-accounts-in-6-months/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-16 15:40:19+00:00
- - tags: None
 
 Microsoft has proactively banned an eyewatering amount of accounts for breaching its community guidelines.
 
@@ -100,7 +88,6 @@ Microsoft has proactively banned an eyewatering amount of accounts for breaching
  - [https://www.techradar.com/news/phil-spencer-says-the-cost-of-living-is-hurting-xbox-we-arent-food-or-shelter/](https://www.techradar.com/news/phil-spencer-says-the-cost-of-living-is-hurting-xbox-we-arent-food-or-shelter/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-16 15:25:40+00:00
- - tags: None
 
 Phil Spencer talks about how Xbox has been affected by the cost of living crisis and how they’re trying to ease the pain.
 
@@ -108,7 +95,6 @@ Phil Spencer talks about how Xbox has been affected by the cost of living crisis
  - [https://www.techradar.com/news/the-samsung-980-pro-ps5-ssd-is-selling-for-its-historic-lowest-ever-price/](https://www.techradar.com/news/the-samsung-980-pro-ps5-ssd-is-selling-for-its-historic-lowest-ever-price/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-16 15:23:30+00:00
- - tags: None
 
 Amazon's PS5 SSD deals are currently offering the lowest-ever price on the Samsung 980 Pro 1TB model.
 
@@ -116,7 +102,6 @@ Amazon's PS5 SSD deals are currently offering the lowest-ever price on the Samsu
  - [https://www.techradar.com/news/the-cheapest-black-friday-vpn-deal-just-dropped-get-purevpn-for-just-dollar120-per-month/](https://www.techradar.com/news/the-cheapest-black-friday-vpn-deal-just-dropped-get-purevpn-for-just-dollar120-per-month/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-16 14:26:14+00:00
- - tags: None
 
 PureVPN has just launched the best Black Friday VPN deal of this year – bag yourself a bargain on a range of different plans.
 
@@ -124,7 +109,6 @@ PureVPN has just launched the best Black Friday VPN deal of this year – bag yo
  - [https://www.techradar.com/news/one-of-spotifys-biggest-projects-had-a-rather-critical-security-flaw/](https://www.techradar.com/news/one-of-spotifys-biggest-projects-had-a-rather-critical-security-flaw/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-16 14:00:55+00:00
- - tags: None
 
 Backstage allowed for remote code execution, and users are now urged to update to the latest version.
 
@@ -132,7 +116,6 @@ Backstage allowed for remote code execution, and users are now urged to update t
  - [https://www.techradar.com/news/left-4-dead-style-warhammer-sci-fi-shooter-is-coming-to-game-pass/](https://www.techradar.com/news/left-4-dead-style-warhammer-sci-fi-shooter-is-coming-to-game-pass/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-16 12:25:04+00:00
- - tags: None
 
 Warhammer 40k Darktide is to replace Battlesector on Game Pass this month, evoking all the gunslinging fun of Left 4 Dead
 
@@ -140,7 +123,6 @@ Warhammer 40k Darktide is to replace Battlesector on Game Pass this month, evoki
  - [https://www.techradar.com/news/forget-black-friday-grab-a-great-security-upgrade-with-these-tips/](https://www.techradar.com/news/forget-black-friday-grab-a-great-security-upgrade-with-these-tips/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-16 11:46:56+00:00
- - tags: None
 
 Stay safe when bargain-hunting this holiday season.
 
@@ -148,7 +130,6 @@ Stay safe when bargain-hunting this holiday season.
  - [https://www.techradar.com/news/nvidias-own-rtx-4090-graphics-card-has-now-apparently-suffered-a-melting-cable/](https://www.techradar.com/news/nvidias-own-rtx-4090-graphics-card-has-now-apparently-suffered-a-melting-cable/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-16 11:04:53+00:00
- - tags: None
 
 Some believed that Nvidia’s Founders Edition might be immune to this problem, but that seemingly isn’t the case.
 
@@ -156,7 +137,6 @@ Some believed that Nvidia’s Founders Edition might be immune to this problem, 
  - [https://www.techradar.com/news/live/where-to-buy-nvidia-geforce-rtx-4080/](https://www.techradar.com/news/live/where-to-buy-nvidia-geforce-rtx-4080/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-16 11:02:53+00:00
- - tags: None
 
 The Nvidia GeForce RTX 4080 goes on sale on November 16 - here's where you can pre-order and buy it from.
 
@@ -164,7 +144,6 @@ The Nvidia GeForce RTX 4080 goes on sale on November 16 - here's where you can p
  - [https://www.techradar.com/news/live/where-to-buy-nvidia-geforce-rtx-4080](https://www.techradar.com/news/live/where-to-buy-nvidia-geforce-rtx-4080)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-16 11:02:53+00:00
- - tags: None
 
 The Nvidia GeForce RTX 4080 went on sale on November 16 - here's where you can pre-order and buy it from.
 
@@ -172,7 +151,6 @@ The Nvidia GeForce RTX 4080 went on sale on November 16 - here's where you can p
  - [https://www.techradar.com/news/the-iphone-14-pros-most-flawed-feature-is-about-to-get-better/](https://www.techradar.com/news/the-iphone-14-pros-most-flawed-feature-is-about-to-get-better/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-16 10:52:44+00:00
- - tags: None
 
 The latest iOS 16.2 beta includes changes to the always-on display that are sure to please some users.
 
@@ -180,7 +158,6 @@ The latest iOS 16.2 beta includes changes to the always-on display that are sure
  - [https://www.techradar.com/news/hunters-season-2-gets-a-prime-video-release-date-and-a-worrying-cancellation/](https://www.techradar.com/news/hunters-season-2-gets-a-prime-video-release-date-and-a-worrying-cancellation/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-16 10:44:01+00:00
- - tags: None
 
 Amazon has announced Hunters season 2 will be the final entry for its conspiracy drama original series.
 
@@ -188,7 +165,6 @@ Amazon has announced Hunters season 2 will be the final entry for its conspiracy
  - [https://www.techradar.com/news/oppo-showcases-mobile-gaming-with-ray-tracing-on-the-new-snapdragon-8-gen-2/](https://www.techradar.com/news/oppo-showcases-mobile-gaming-with-ray-tracing-on-the-new-snapdragon-8-gen-2/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-16 10:00:11+00:00
- - tags: None
 
 Oppo took to the stage during Qualcomm's Snapdragon Summit to showcase the next visual leap in mobile gaming.
 
@@ -196,7 +172,6 @@ Oppo took to the stage during Qualcomm's Snapdragon Summit to showcase the next 
  - [https://www.techradar.com/news/overwatch-2-is-effectively-erasing-doomfist-with-its-newest-hero/](https://www.techradar.com/news/overwatch-2-is-effectively-erasing-doomfist-with-its-newest-hero/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-16 09:30:00+00:00
- - tags: None
 
 Ramattra's the hottest topic now his abilities have been revealed, but I've seen them before.
 
@@ -204,7 +179,6 @@ Ramattra's the hottest topic now his abilities have been revealed, but I've seen
  - [https://www.techradar.com/news/how-to-demo-emergency-sos-via-satellite-on-your-iphone-right-now/](https://www.techradar.com/news/how-to-demo-emergency-sos-via-satellite-on-your-iphone-right-now/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-16 07:00:01+00:00
- - tags: None
 
 Emergency SOS via satellite is now active on iPhone 14 devices, and there is a demo users can try to see how it works
 
@@ -212,6 +186,5 @@ Emergency SOS via satellite is now active on iPhone 14 devices, and there is a d
  - [https://www.techradar.com/news/not-feeling-well-maybe-its-time-to-call-on-amazon/](https://www.techradar.com/news/not-feeling-well-maybe-its-time-to-call-on-amazon/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-16 06:00:40+00:00
- - tags: None
 
 Called Amazon Clinic, the platform offers direct access to physicians for common conditions and prescription renewals.

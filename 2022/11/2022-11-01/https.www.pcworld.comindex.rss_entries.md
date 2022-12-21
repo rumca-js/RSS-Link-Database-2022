@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## PCWorld specs out Will Smith’s RTX 4090 gaming PC
  - [https://www.pcworld.com/article/1367226/pcworld-plans-out-will-smiths-new-gaming-pc.html](https://www.pcworld.com/article/1367226/pcworld-plans-out-will-smiths-new-gaming-pc.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-01 16:02:33+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If there&rsquo;s anything more fun than building a new gaming PC, it&rsquo;s building one for a buddy. That&rsquo;s why the PCWorld crew invited <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://notthatwillsmith.com/&amp;xcust=2-1-1367226-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Will Smith</a>, prolific podcaster and game streamer and a former coworker of Gordon, on the PCWorld YouTube channel. Will needs a new gaming PC and Gordon and Adam are more than happy to lend their expertise to his build. He&rsquo;s ready to put together a new super-powered desktop and send his current gaming machine to secondary streaming duties. </p>
@@ -32,7 +31,6 @@ Gaming PCs</div>
  - [https://www.pcworld.com/article/695190/best-free-vpn-for-android.html](https://www.pcworld.com/article/695190/best-free-vpn-for-android.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-01 16:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Free VPNs aren&rsquo;t just for PCs. You can also use them to step-up your security and privacy game on an Android phone or tablet. Whether you want extra security for your connection on a public Wi-Fi network, or to get around geo-restrictions for <em>most</em> of your favorite streaming services, a free VPN can help you do it at no additional charge.</p>
@@ -333,7 +331,6 @@ VPN</div>
  - [https://www.pcworld.com/article/1359589/why-i-quit-overwatch-2-breakup-letter.html](https://www.pcworld.com/article/1359589/why-i-quit-overwatch-2-breakup-letter.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-01 15:51:22+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>It&rsquo;s possible to love a video game. To be devoted to it, to value what it does for you, and how it makes you feel. To want the best for it. Not in the same way you love a person &mdash; or at least, I hope not. But take a look at any major fan convention for video games, movies, TV, or almost anything that develops a subculture, and you can see this love is real, active, and powerful.&nbsp;</p>
@@ -573,7 +570,6 @@ Gaming</div>
  - [https://www.pcworld.com/article/418660/the-best-gaming-headsets.html](https://www.pcworld.com/article/418660/the-best-gaming-headsets.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-01 14:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>The quality of the game you&rsquo;re playing and the processing power of your computer will play a big role in determining your gaming experience. But one often overlooked consideration is a decent gaming headset. It&rsquo;s especially important if you plan on getting the best out of dynamic multiplayer games, where you&rsquo;re just as likely to chat to friends as you are to use your headset as a strategic tool to help you win. </p>
@@ -1255,7 +1251,6 @@ Computers and Peripherals, Gaming, Gaming Accessories, Holidays, Logitech</div>
  - [https://www.pcworld.com/article/1367670/start-your-fifitbits-sense-2-smartwatch-is-feature-packed-and-100-off.html](https://www.pcworld.com/article/1367670/start-your-fifitbits-sense-2-smartwatch-is-feature-packed-and-100-off.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-01 14:05:28+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you&rsquo;re interested in living a healthier lifestyle, you&rsquo;re in luck, as we&rsquo;ve got an awesome deal on the new Fitbit Sense 2 smartwatch today. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/dp/B0B4N2T7GL/ref=twister_B0BGK8R2SG?tag=theverge02-20&amp;ascsubtag=%5B%5Dvg%5Bp%5D23196519%5Bt%5Dw%5Bd%5DD&amp;xcust=2-1-1367670-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Amazon&rsquo;s selling it for $199.95, which is a savings of $100</a>. This fancy wearable is chock-full of features. Not only does it have a built-in GPS, but it also tracks and rates your stress level. Cool, right? Let&rsquo;s dive in.</p>
@@ -1276,7 +1271,6 @@ Smartwatches</div>
  - [https://www.pcworld.com/article/1364477/nvidia-rtx-4090-vs-nvidia-rtx-3090.html](https://www.pcworld.com/article/1364477/nvidia-rtx-4090-vs-nvidia-rtx-3090.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-01 10:45:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Move over, <a href="https://www.pcworld.com/article/393531/nvidia-geforce-rtx-3090-founders-edition-review.html">GeForce RTX 3090</a> (and your <a href="https://www.pcworld.com/article/693820/5-things-i-learned-using-nvidias-monstrous-geforce-rtx-3090-ti-for-a-month.html">meaner RTX 3090 Ti brother</a>). There&rsquo;s a <a href="https://www.pcworld.com/article/416006/the-best-graphics-cards-for-pc-gaming.html">new graphics card</a> sheriff in town&mdash;the <a href="https://www.pcworld.com/article/1348123/nvidia-geforce-rtx-4090-review-ada-lovelace.html">brutally, futuristically fast GeForce RTX 4090</a>, powered by Nvidia&rsquo;s next-gen &ldquo;Ada Lovelace&rdquo; GPU architecture. The newcomer arrived shortly after the release of the previous top dog, but there&rsquo;s a <em>lot</em> more to the story.&nbsp;</p>
@@ -1632,7 +1626,6 @@ GPUs</div>
  - [https://www.pcworld.com/article/1358842/acer-chromebook-spin-513-review-a-wonderful-display-but-youll-pay-for-it.html](https://www.pcworld.com/article/1358842/acer-chromebook-spin-513-review-a-wonderful-display-but-youll-pay-for-it.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-11-01 10:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>

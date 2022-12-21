@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## Amazon reportedly plans sweeping layoffs that could affect thousands of employees
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59507](https://www.codeproject.com/script/News/View.aspx?nwid=59507)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-15 05:00:00+00:00
- - tags: None
 
 Better get your holiday shopping done early this year
 
@@ -12,7 +11,6 @@ Better get your holiday shopping done early this year
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59498](https://www.codeproject.com/script/News/View.aspx?nwid=59498)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-15 05:00:00+00:00
- - tags: None
 
 ASP.NET Core in .NET 7 includes everything you need to build rich modern web UI and powerful back-end services.
 
@@ -20,7 +18,6 @@ ASP.NET Core in .NET 7 includes everything you need to build rich modern web UI 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59501](https://www.codeproject.com/script/News/View.aspx?nwid=59501)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-15 05:00:00+00:00
- - tags: None
 
 Rome is an ambitious project aiming to unify the dozens of frontend language tools into a single easy-to-use tool built from scratch.
 
@@ -28,7 +25,6 @@ Rome is an ambitious project aiming to unify the dozens of frontend language too
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59511](https://www.codeproject.com/script/News/View.aspx?nwid=59511)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-15 05:00:00+00:00
- - tags: None
 
 How short is a path?
 
@@ -36,7 +32,6 @@ How short is a path?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59499](https://www.codeproject.com/script/News/View.aspx?nwid=59499)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-15 05:00:00+00:00
- - tags: None
 
 Web platform concepts can sometimes be quite different, yet seem very similar.
 
@@ -44,7 +39,6 @@ Web platform concepts can sometimes be quite different, yet seem very similar.
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59512](https://www.codeproject.com/script/News/View.aspx?nwid=59512)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-15 05:00:00+00:00
- - tags: None
 
 Not evil, just nosy?
 
@@ -52,7 +46,6 @@ Not evil, just nosy?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59508](https://www.codeproject.com/script/News/View.aspx?nwid=59508)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-15 05:00:00+00:00
- - tags: None
 
 Unless you're part of the cuts, of course
 
@@ -60,7 +53,6 @@ Unless you're part of the cuts, of course
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59500](https://www.codeproject.com/script/News/View.aspx?nwid=59500)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-15 05:00:00+00:00
- - tags: None
 
 What is CSS in JavaScript and why is it suddenly popular? Learn how it works and get introduced to some of the leading CSS-in-JS frameworks.
 
@@ -68,7 +60,6 @@ What is CSS in JavaScript and why is it suddenly popular? Learn how it works and
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59496](https://www.codeproject.com/script/News/View.aspx?nwid=59496)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-15 05:00:00+00:00
- - tags: None
 
 Always wait for the updates to the updates
 
@@ -76,7 +67,6 @@ Always wait for the updates to the updates
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59497](https://www.codeproject.com/script/News/View.aspx?nwid=59497)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-15 05:00:00+00:00
- - tags: None
 
 Great news for those who like debugging interop code
 
@@ -84,7 +74,6 @@ Great news for those who like debugging interop code
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59510](https://www.codeproject.com/script/News/View.aspx?nwid=59510)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-15 05:00:00+00:00
- - tags: None
 
 Repositoryception!
 
@@ -92,7 +81,6 @@ Repositoryception!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59504](https://www.codeproject.com/script/News/View.aspx?nwid=59504)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-15 05:00:00+00:00
- - tags: None
 
 This document intends to extend the current threat model and provide extensive guidelines on how to secure a Node.js application.
 
@@ -100,7 +88,6 @@ This document intends to extend the current threat model and provide extensive g
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59505](https://www.codeproject.com/script/News/View.aspx?nwid=59505)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-15 05:00:00+00:00
- - tags: None
 
 
 
@@ -108,7 +95,6 @@ This document intends to extend the current threat model and provide extensive g
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59509](https://www.codeproject.com/script/News/View.aspx?nwid=59509)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-15 05:00:00+00:00
- - tags: None
 
 Just don't take the splitting too far
 
@@ -116,7 +102,6 @@ Just don't take the splitting too far
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59495](https://www.codeproject.com/script/News/View.aspx?nwid=59495)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-15 05:00:00+00:00
- - tags: None
 
 Read this later
 
@@ -124,7 +109,6 @@ Read this later
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59506](https://www.codeproject.com/script/News/View.aspx?nwid=59506)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-15 05:00:00+00:00
- - tags: None
 
 "Now the light commands: this is my home. I'm coming home"
 
@@ -132,7 +116,6 @@ Read this later
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59494](https://www.codeproject.com/script/News/View.aspx?nwid=59494)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-15 05:00:00+00:00
- - tags: None
 
 What is the sound of one extension extending?
 
@@ -140,7 +123,6 @@ What is the sound of one extension extending?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59503](https://www.codeproject.com/script/News/View.aspx?nwid=59503)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-15 05:00:00+00:00
- - tags: None
 
 WebSocket is a protocol for creating two-way communication between a client and a server. See how it eases the process of sending and receiving data in real-time React apps.
 
@@ -148,6 +130,5 @@ WebSocket is a protocol for creating two-way communication between a client and 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59502](https://www.codeproject.com/script/News/View.aspx?nwid=59502)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-15 05:00:00+00:00
- - tags: None
 
 There may have been a time when it was possible to know most CSS properties and how they work. Those days are long-gone, at least for an old hand like me. But that sort of begs the question: what CSS do you absolutely have to know?

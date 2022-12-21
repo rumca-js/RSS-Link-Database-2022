@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## CNN panelists call out Lara Trump's warning for DeSantis
  - [https://www.cnn.com/videos/politics/2022/11/14/lara-trump-desantis-run-presidential-election-candidate-lead-vpx.cnn](https://www.cnn.com/videos/politics/2022/11/14/lara-trump-desantis-run-presidential-election-candidate-lead-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 23:47:22+00:00
- - tags: None
 
 Former President Donald Trump's daughter-in-law Lara Trump said it would be "nicer" if Florida Gov. Ron DeSantis held off running for president until 2028.
 
@@ -12,7 +11,6 @@ Former President Donald Trump's daughter-in-law Lara Trump said it would be "nic
  - [https://edition.cnn.com/politics/live-news/midterm-election-updates-11-14-22/index.html](https://edition.cnn.com/politics/live-news/midterm-election-updates-11-14-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 23:03:57.213610+00:00
- - tags: None
 
 • Analysis: Failure to win the Senate is reverberating inside the Republican Party
 
@@ -20,7 +18,6 @@ Former President Donald Trump's daughter-in-law Lara Trump said it would be "nic
  - [https://edition.cnn.com/webview/politics/live-news/midterm-election-updates-11-14-22/h_042673afc340fe26d5e8864b389756f4](https://edition.cnn.com/webview/politics/live-news/midterm-election-updates-11-14-22/h_042673afc340fe26d5e8864b389756f4)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 23:03:57.121628+00:00
- - tags: None
 
 
 
@@ -28,7 +25,6 @@ Former President Donald Trump's daughter-in-law Lara Trump said it would be "nic
  - [https://www.cnn.com/videos/business/2022/11/14/kraft-heinz-ceo-velveeta-oscar-mayer-patricio-risk-takers-orig.cnn-business](https://www.cnn.com/videos/business/2022/11/14/kraft-heinz-ceo-velveeta-oscar-mayer-patricio-risk-takers-orig.cnn-business)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 22:39:32+00:00
- - tags: None
 
 Kraft Heinz CEO Miguel Patricio explains how he brought the company back from the brink by selling off peanuts and natural cheeses and embracing our nostalgia.
 
@@ -36,7 +32,6 @@ Kraft Heinz CEO Miguel Patricio explains how he brought the company back from th
  - [https://www.cnn.com/videos/politics/2022/11/14/charlie-baker-republicans-trump-midterm-election-tapper-intv-lead-vpx.cnn](https://www.cnn.com/videos/politics/2022/11/14/charlie-baker-republicans-trump-midterm-election-tapper-intv-lead-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 22:07:27+00:00
- - tags: None
 
 Outgoing Republican Massachusetts Gov. Charlie Baker talks with CNN's Jake Tapper about former President Donald Trump's impact on Republicans in the 2022 midterm election.
 
@@ -44,7 +39,6 @@ Outgoing Republican Massachusetts Gov. Charlie Baker talks with CNN's Jake Tappe
  - [https://www.cnn.com/style/article/banksy-ukraine-murals/index.html](https://www.cnn.com/style/article/banksy-ukraine-murals/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 21:25:28+00:00
- - tags: None
 
 Three days after Banksy debuted his latest mural on Instagram, spray painted on the wall of a bombed building in the city of Borodianka, Ukraine, the anonymous street artist confirmed that he completed seven new works in Ukraine in total.
 
@@ -52,7 +46,6 @@ Three days after Banksy debuted his latest mural on Instagram, spray painted on 
  - [https://www.cnn.com/2022/11/14/politics/us-ukraine-military-drones-gray-eagle/index.html](https://www.cnn.com/2022/11/14/politics/us-ukraine-military-drones-gray-eagle/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 20:57:18+00:00
- - tags: None
 
 As Russian forces have retreated in Ukraine's south, the Biden administration has announced a slew of new military aid packages for Ukraine, but all were missing a piece of weaponry that Ukraine's military has long sought: the multi-use Gray Eagle drone, armed with Hellfire missiles.
 
@@ -60,7 +53,6 @@ As Russian forces have retreated in Ukraine's south, the Biden administration ha
  - [https://www.cnn.com/2022/11/14/politics/joe-biden-xi-jinping-china-us-relations/index.html](https://www.cnn.com/2022/11/14/politics/joe-biden-xi-jinping-china-us-relations/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 20:41:10+00:00
- - tags: None
 
 The world can breathe a little easier after US President Joe Biden's talks with Chinese leader Xi Jinping on Monday.
 
@@ -68,7 +60,6 @@ The world can breathe a little easier after US President Joe Biden's talks with 
  - [https://www.cnn.com/2022/11/14/entertainment/jay-leno-hospitalized/index.html](https://www.cnn.com/2022/11/14/entertainment/jay-leno-hospitalized/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 20:38:54+00:00
- - tags: None
 
 Jay Leno is recovering from burn injuries following a gasoline fire, the former "The Tonight Show" host told Variety.
 
@@ -76,7 +67,6 @@ Jay Leno is recovering from burn injuries following a gasoline fire, the former 
  - [https://www.cnn.com/2022/11/14/health/gantenerumab-fails-clinical-trials-alzheimers/index.html](https://www.cnn.com/2022/11/14/health/gantenerumab-fails-clinical-trials-alzheimers/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 19:41:28+00:00
- - tags: None
 
 An experimental treatment, gantenerumab, failed to help people at high risk of memory loss from Alzheimer's or those who were in the early phases of the disease, the manufacturer said Monday.
 
@@ -84,7 +74,6 @@ An experimental treatment, gantenerumab, failed to help people at high risk of m
  - [https://www.cnn.com/2022/11/14/world/earliest-evidence-of-cooking-with-fire-scn/index.html](https://www.cnn.com/2022/11/14/world/earliest-evidence-of-cooking-with-fire-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 19:06:46+00:00
- - tags: None
 
 Scientists have found the earliest known evidence of cooking at an archaeological site in Israel.
 
@@ -92,7 +81,6 @@ Scientists have found the earliest known evidence of cooking at an archaeologica
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-11-14-22/index.html](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-11-14-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 19:03:54.901427+00:00
- - tags: None
 
 
 
@@ -100,7 +88,6 @@ Scientists have found the earliest known evidence of cooking at an archaeologica
  - [https://www.cnn.com/videos/politics/2022/11/14/chuck-schumer-democratic-party-midterm-election-cnntm-vpx.cnn](https://www.cnn.com/videos/politics/2022/11/14/chuck-schumer-democratic-party-midterm-election-cnntm-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 18:25:40+00:00
- - tags: None
 
 Senate Majority Leader Chuck Schumer (D-NY), who won his reelection, discusses how the Democratic Party defied historic odds during the midterm election. Schumer says he feels the "American people saw that democracy was at risk" and that impacted votes.
 
@@ -108,7 +95,6 @@ Senate Majority Leader Chuck Schumer (D-NY), who won his reelection, discusses h
  - [https://www.cnn.com/2022/11/14/entertainment/daniel-craig-belvedere-vodka-advert-gbr-intl-scli/index.html](https://www.cnn.com/2022/11/14/entertainment/daniel-craig-belvedere-vodka-advert-gbr-intl-scli/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 17:26:50+00:00
- - tags: None
 
 Since ending his 15-year run as James Bond with "No Time to Die" last year, Daniel Craig has not been sitting idle.
 
@@ -116,7 +102,6 @@ Since ending his 15-year run as James Bond with "No Time to Die" last year, Dani
  - [https://www.cnn.com/travel/article/united-airlines-unruly-passenger-chicago/index.html](https://www.cnn.com/travel/article/united-airlines-unruly-passenger-chicago/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 17:13:45+00:00
- - tags: None
 
 The FBI and the FAA are investigating an incident involving an "unruly passenger" on board a commercial flight that sent two passengers and one flight attendant to the hospital.
 
@@ -124,7 +109,6 @@ The FBI and the FAA are investigating an incident involving an "unruly passenger
  - [https://www.cnn.com/2022/11/14/politics/trump-hotel-spending-foreign-governments/index.html](https://www.cnn.com/2022/11/14/politics/trump-hotel-spending-foreign-governments/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 17:04:31+00:00
- - tags: None
 
 The governments of six foreign countries, including Saudi Arabia, Qatar and the United Arab Emirates, spent more than $700,000 at then-President Donald Trump's Washington, DC, hotel over the first two years of his presidency, according to newly released accounting documents.
 
@@ -132,7 +116,6 @@ The governments of six foreign countries, including Saudi Arabia, Qatar and the 
  - [https://www.cnn.com/2022/11/14/politics/kelli-ward-supreme-court/index.html](https://www.cnn.com/2022/11/14/politics/kelli-ward-supreme-court/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 16:46:17+00:00
- - tags: None
 
 The Supreme Court cleared the way on Monday for the House select committee investigating the January 6 US Capitol attack to obtain the phone and text records of Arizona Republican Party Chair Kelli Ward.
 
@@ -140,7 +123,6 @@ The Supreme Court cleared the way on Monday for the House select committee inves
  - [https://www.cnn.com/videos/world/2022/11/14/one-china-policy-explained-contd-ll-lon-orig.cnn](https://www.cnn.com/videos/world/2022/11/14/one-china-policy-explained-contd-ll-lon-orig.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 16:38:42+00:00
- - tags: None
 
 CNN correspondents Will Ripley and Selina Wang explain how US-China relations have evolved since 1949, particularly in relation to diplomatic ties with Taiwan and the 'One China' policy.
 
@@ -148,7 +130,6 @@ CNN correspondents Will Ripley and Selina Wang explain how US-China relations ha
  - [https://www.cnn.com/2022/11/14/football/david-beckham-qatar-world-cup-spt-intl/index.html](https://www.cnn.com/2022/11/14/football/david-beckham-qatar-world-cup-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 16:10:28+00:00
- - tags: None
 
 David Beckham's "status as a gay icon will be shredded" if the former England captain and Manchester United star continues in his role as a Qatar World Cup ambassador said British comedian Joe Lycett on Sunday.
 
@@ -156,7 +137,6 @@ David Beckham's "status as a gay icon will be shredded" if the former England ca
  - [https://www.cnn.com/2022/11/10/politics/microsoft-russian-linked-hackers-poland-ukraine/index.html](https://www.cnn.com/2022/11/10/politics/microsoft-russian-linked-hackers-poland-ukraine/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 16:03:53+00:00
- - tags: None
 
 Hackers linked to Russia's military were very likely behind ransomware attacks last month on Ukrainian and Polish transportation and logistics organizations, Microsoft said Thursday.
 
@@ -164,7 +144,6 @@ Hackers linked to Russia's military were very likely behind ransomware attacks l
  - [https://www.cnn.com/2022/11/14/entertainment/stranger-things-duffer-brothers/index.html](https://www.cnn.com/2022/11/14/entertainment/stranger-things-duffer-brothers/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 15:56:07+00:00
- - tags: None
 
 It sounds like the end of "Stranger Things" might have viewers in their feelings.
 
@@ -172,7 +151,6 @@ It sounds like the end of "Stranger Things" might have viewers in their feelings
  - [https://www.cnn.com/collections/intl-musk-141122/](https://www.cnn.com/collections/intl-musk-141122/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 15:55:33+00:00
- - tags: None
 
 
 
@@ -180,7 +158,6 @@ It sounds like the end of "Stranger Things" might have viewers in their feelings
  - [https://www.cnn.com/2022/11/14/europe/kherson-zelensky-war-crimes-intl/index.html](https://www.cnn.com/2022/11/14/europe/kherson-zelensky-war-crimes-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 15:48:38+00:00
- - tags: None
 
 Ukraine President Volodymyr Zelenksy made a surprise visit to Kherson Monday to offer support to residents of the newly recaptured city, where investigators have begun to uncover possible proof of wartime atrocities committed during the months-long occupation by Russian forces.
 
@@ -188,7 +165,6 @@ Ukraine President Volodymyr Zelenksy made a surprise visit to Kherson Monday to 
  - [https://www.cnn.com/2022/11/14/middleeast/iran-protests-first-death-sentence-intl/index.html](https://www.cnn.com/2022/11/14/middleeast/iran-protests-first-death-sentence-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 15:45:56+00:00
- - tags: None
 
 An Iranian court has issued the first death sentence linked to recent protests, convicting the unnamed person of "enmity against God" and "spreading corruption on Earth," state media reports.
 
@@ -196,7 +172,6 @@ An Iranian court has issued the first death sentence linked to recent protests, 
  - [https://www.cnn.com/style/article/taylor-swift-mtv-ema-jewel-dress-red-carpet/index.html](https://www.cnn.com/style/article/taylor-swift-mtv-ema-jewel-dress-red-carpet/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 15:30:55+00:00
- - tags: None
 
 Taylor Swift arrived at MTV's Europe Music Awards last night in Düsseldorf, Germany in an evening gown that flipped the scripts on red carpet jewelry.
 
@@ -204,7 +179,6 @@ Taylor Swift arrived at MTV's Europe Music Awards last night in Düsseldorf, Ger
  - [https://www.cnn.com/2022/11/14/middleeast/alaa-abd-el-fattah-letter-intl/index.html](https://www.cnn.com/2022/11/14/middleeast/alaa-abd-el-fattah-letter-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 15:27:50+00:00
- - tags: None
 
 Alaa Abd El-Fattah, a jailed British-Egyptian activist who has been on a hunger and water strike, is alive and has resumed drinking water, authorities said in a letter to his family.
 
@@ -212,7 +186,6 @@ Alaa Abd El-Fattah, a jailed British-Egyptian activist who has been on a hunger 
  - [https://www.cnn.com/videos/world/2022/11/14/kherson-liberation-russian-occupation-aftermath-robertson-dnt-cnntm-intl-ldn-vpx.cnn](https://www.cnn.com/videos/world/2022/11/14/kherson-liberation-russian-occupation-aftermath-robertson-dnt-cnntm-intl-ldn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 15:26:36+00:00
- - tags: None
 
 CNN's Nic Robertson witnessed the scenes in Kherson following the withdrawal of Russian forces. Some residents shared their experience living under occupation.
 
@@ -220,7 +193,6 @@ CNN's Nic Robertson witnessed the scenes in Kherson following the withdrawal of 
  - [https://www.cnn.com/videos/world/2022/11/14/biden-xi-jinping-china-taiwan-g20-summit-meeting-sot-vpx.cnn](https://www.cnn.com/videos/world/2022/11/14/biden-xi-jinping-china-taiwan-g20-summit-meeting-sot-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 15:12:29+00:00
- - tags: None
 
 President Joe Biden shared what he discussed with Chinese leader Xi Jinping at their G20 summit meeting in Bali, Indonesia, including China's position on Taiwan and Xi's willingness to compromise with the US on various issues.
 
@@ -228,7 +200,6 @@ President Joe Biden shared what he discussed with Chinese leader Xi Jinping at t
  - [https://www.cnn.com/2022/11/14/africa/western-hypocrisy-climate-change-intl/index.html](https://www.cnn.com/2022/11/14/africa/western-hypocrisy-climate-change-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 15:10:18+00:00
- - tags: None
 
 Uganda's President Yoweri Museveni has slammed Western countries over what he calls a "reprehensible double standard" in their response to the energy crisis brought about by the Russian invasion of Ukraine.
 
@@ -236,7 +207,6 @@ Uganda's President Yoweri Museveni has slammed Western countries over what he ca
  - [https://www.cnn.com/style/article/steve-jobs-birkenstocks-auction-intl-scli/index.html](https://www.cnn.com/style/article/steve-jobs-birkenstocks-auction-intl-scli/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 15:09:44+00:00
- - tags: None
 
 How much would you pay for a pair of secondhand shoes?
 
@@ -244,7 +214,6 @@ How much would you pay for a pair of secondhand shoes?
  - [https://www.cnn.com/travel/article/flight-carbon-calculator-methodologies/index.html](https://www.cnn.com/travel/article/flight-carbon-calculator-methodologies/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 14:56:18+00:00
- - tags: None
 
 As we gratefully return to air travel post-Covid, it's a good time to reflect on the choices we can personally make to reduce our environmental footprint.
 
@@ -252,7 +221,6 @@ As we gratefully return to air travel post-Covid, it's a good time to reflect on
  - [https://www.cnn.com/2022/11/14/middleeast/what-iran-regime-learned-mime-intl/index.html](https://www.cnn.com/2022/11/14/middleeast/what-iran-regime-learned-mime-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 14:34:13+00:00
- - tags: None
 
 The latest wave of protests in Iran is perhaps one of the longest-running challenges the Islamic Republic has faced in recent years.
 
@@ -260,7 +228,6 @@ The latest wave of protests in Iran is perhaps one of the longest-running challe
  - [https://www.cnn.com/2022/11/14/entertainment/neighbourhood-brandon-fried-maria-zardoya/index.html](https://www.cnn.com/2022/11/14/entertainment/neighbourhood-brandon-fried-maria-zardoya/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 14:25:09+00:00
- - tags: None
 
 The Neighbourhood have ousted drummer Brandon Fried after he was accused of groping a woman and apologized for it.
 
@@ -268,7 +235,6 @@ The Neighbourhood have ousted drummer Brandon Fried after he was accused of grop
  - [https://www.cnn.com/2022/11/14/sport/anthony-rumble-johnson-mma-dies-spt-intl/index.html](https://www.cnn.com/2022/11/14/sport/anthony-rumble-johnson-mma-dies-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 14:05:41+00:00
- - tags: None
 
 American MMA lightweight fighter Anthony 'Rumble' Johnson has died at the age of 38 from an undisclosed illness, according to Bellator MMA.
 
@@ -276,7 +242,6 @@ American MMA lightweight fighter Anthony 'Rumble' Johnson has died at the age of
  - [https://edition.cnn.com/asia/live-news/biden-xi-meeting-g20-summit-bali-indonesia/h_9a7cfab563b4efff33c0194c19fbedb0](https://edition.cnn.com/asia/live-news/biden-xi-meeting-g20-summit-bali-indonesia/h_9a7cfab563b4efff33c0194c19fbedb0)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 14:03:53.429157+00:00
- - tags: None
 
 
 
@@ -284,7 +249,6 @@ American MMA lightweight fighter Anthony 'Rumble' Johnson has died at the age of
  - [https://edition.cnn.com/webview/politics/live-news/midterm-election-updates-11-14-22/index.html](https://edition.cnn.com/webview/politics/live-news/midterm-election-updates-11-14-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 14:03:53.312585+00:00
- - tags: None
 
 
 
@@ -292,7 +256,6 @@ American MMA lightweight fighter Anthony 'Rumble' Johnson has died at the age of
  - [https://www.cnn.com/videos/sports/2022/11/14/nfl-tom-brady-germany-munich-pleitgen-lok-ovn-cprog-ldn-vpx.cnn](https://www.cnn.com/videos/sports/2022/11/14/nfl-tom-brady-germany-munich-pleitgen-lok-ovn-cprog-ldn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 13:41:52+00:00
- - tags: None
 
 Tom Brady and the Tampa Bay Buccaneers beat the Seattle Seahawks 21-16 at the Allianz Arena in Germany during what was the NFL's first regular season game in the country. CNN's Fred Pleitgen was there and captured the excitement around the event.
 
@@ -300,7 +263,6 @@ Tom Brady and the Tampa Bay Buccaneers beat the Seattle Seahawks 21-16 at the Al
  - [https://www.cnn.com/style/article/king-charles-first-birthday-photograph-royals-scli-gbr-intl/index.html](https://www.cnn.com/style/article/king-charles-first-birthday-photograph-royals-scli-gbr-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 13:28:42+00:00
- - tags: None
 
 King Charles III is celebrating his first birthday on the British throne with a new photograph and a new role as Ranger of Windsor Great Park.
 
@@ -308,7 +270,6 @@ King Charles III is celebrating his first birthday on the British throne with a 
  - [https://www.cnn.com/videos/business/2022/11/13/jeff-bezos-advice-on-recession-orig-zw-jm.cnn](https://www.cnn.com/videos/business/2022/11/13/jeff-bezos-advice-on-recession-orig-zw-jm.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 13:17:13+00:00
- - tags: None
 
 In an exclusive interview with CNN's Chloe Melas, Jeff Bezos, Executive Chair of Amazon, explains what he meant when he tweeted that folks should "batten down the hatches."
 
@@ -316,7 +277,6 @@ In an exclusive interview with CNN's Chloe Melas, Jeff Bezos, Executive Chair of
  - [https://www.cnn.com/2022/11/14/world/istanbul-turkey-attack-suspect-syria-intl/index.html](https://www.cnn.com/2022/11/14/world/istanbul-turkey-attack-suspect-syria-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 13:12:05+00:00
- - tags: None
 
 The woman detained under suspicion of carrying out the deadly bomb blast in Istanbul on Sunday is a Syrian national who was trained by Kurdish militants, according to Turkish authorities.
 
@@ -324,7 +284,6 @@ The woman detained under suspicion of carrying out the deadly bomb blast in Ista
  - [https://www.cnn.com/collections/intl-ukraine-141122/](https://www.cnn.com/collections/intl-ukraine-141122/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 12:45:03+00:00
- - tags: None
 
 
 
@@ -332,7 +291,6 @@ The woman detained under suspicion of carrying out the deadly bomb blast in Ista
  - [https://www.cnn.com/2022/11/14/world/road-verges-wildflowers-pollinators-climate-cop27-intl/index.html](https://www.cnn.com/2022/11/14/world/road-verges-wildflowers-pollinators-climate-cop27-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 12:44:53+00:00
- - tags: None
 
 This roundabout would have been easily overlooked just a few months ago -- wedged between busy traffic lanes, there wasn't much growing apart from bog-standard grass. But local residents who drove past every day thought it had potential.
 
@@ -340,7 +298,6 @@ This roundabout would have been easily overlooked just a few months ago -- wedge
  - [https://www.cnn.com/2022/11/14/golf/padraig-harrington-golf-beers-shadows-spt-intl/index.html](https://www.cnn.com/2022/11/14/golf/padraig-harrington-golf-beers-shadows-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 12:44:33+00:00
- - tags: None
 
 The beers were well and truly on Pádraig Harrington on Sunday.
 
@@ -348,7 +305,6 @@ The beers were well and truly on Pádraig Harrington on Sunday.
  - [https://www.cnn.com/2022/11/14/sport/buffalo-bills-minnesota-vikings-nfl-spt-intl/index.html](https://www.cnn.com/2022/11/14/sport/buffalo-bills-minnesota-vikings-nfl-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 12:43:00+00:00
- - tags: None
 
 It is already being called the game of the year.
 
@@ -356,7 +312,6 @@ It is already being called the game of the year.
  - [https://www.cnn.com/2022/11/14/entertainment/kate-winslet-disabled-child-energy-bill-gbr-intl-scli/index.html](https://www.cnn.com/2022/11/14/entertainment/kate-winslet-disabled-child-energy-bill-gbr-intl-scli/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 12:35:00+00:00
- - tags: None
 
 Oscar-winning actress Kate Winslet has donated £17,000 ($20,000) to a mother facing astronomical home energy bills to operate her disabled daughter's life-support equipment.
 
@@ -364,7 +319,6 @@ Oscar-winning actress Kate Winslet has donated £17,000 ($20,000) to a mother fa
  - [https://www.cnn.com/2022/11/14/business/jeff-bezos-charity/index.html](https://www.cnn.com/2022/11/14/business/jeff-bezos-charity/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 11:43:09+00:00
- - tags: None
 
 Amazon founder Jeff Bezos plans to give away the majority of his $124 billion net worth during his lifetime, telling CNN in an exclusive interview he will devote the bulk of his wealth to fighting climate change and supporting people who can unify humanity in the face of deep social and political divisions.
 
@@ -372,7 +326,6 @@ Amazon founder Jeff Bezos plans to give away the majority of his $124 billion ne
  - [https://www.cnn.com/videos/world/2022/11/14/food-storage-tips-lbb-lon-orig.cnn](https://www.cnn.com/videos/world/2022/11/14/food-storage-tips-lbb-lon-orig.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 11:21:42+00:00
- - tags: None
 
 Scientist Brittany Towers Lewis explains why cutting your kitchen food waste is linked to how you put it away in the first place.
 
@@ -380,7 +333,6 @@ Scientist Brittany Towers Lewis explains why cutting your kitchen food waste is 
  - [https://cnn.it/3GfX0vm](https://cnn.it/3GfX0vm)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 11:03:52.136864+00:00
- - tags: None
 
 
 
@@ -388,7 +340,6 @@ Scientist Brittany Towers Lewis explains why cutting your kitchen food waste is 
  - [https://www.cnn.com/2022/11/14/sport/joel-embiid-records-philadelphia-76ers-utah-jazz-spt-intl/index.html](https://www.cnn.com/2022/11/14/sport/joel-embiid-records-philadelphia-76ers-utah-jazz-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 10:44:33+00:00
- - tags: None
 
 Joel Embiid produced arguably the greatest performance of his career to inspire the Philadelphia 76ers to a 105-98 victory over the surprising Utah Jazz on Sunday.
 
@@ -396,7 +347,6 @@ Joel Embiid produced arguably the greatest performance of his career to inspire 
  - [https://www.cnn.com/videos/world/2022/11/14/biden-xi-us-china-g20-meeting-sot-ovn-intl-hnk-vpx.cnn](https://www.cnn.com/videos/world/2022/11/14/biden-xi-us-china-g20-meeting-sot-ovn-intl-hnk-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 10:16:44+00:00
- - tags: None
 
 President Joe Biden and Chinese leader Xi Jinping sat down face-to-face for the first time since Biden took office in a meeting that could have long-lasting consequences for the world's most important bilateral relationship.
 
@@ -404,7 +354,6 @@ President Joe Biden and Chinese leader Xi Jinping sat down face-to-face for the 
  - [https://edition.cnn.com/asia/live-news/biden-xi-meeting-g20-summit-bali-indonesia/index.html](https://edition.cnn.com/asia/live-news/biden-xi-meeting-g20-summit-bali-indonesia/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 10:03:51.104195+00:00
- - tags: None
 
 • Analysis: Biden and Xi return to the table with high stakes -- and low expectations
 • Biden and Xi's meeting could have long-lasting consequences
@@ -414,7 +363,6 @@ President Joe Biden and Chinese leader Xi Jinping sat down face-to-face for the 
  - [https://www.cnn.com/2022/11/14/health/best-stuffing-recipes-thanksgiving-wellness/index.html](https://www.cnn.com/2022/11/14/health/best-stuffing-recipes-thanksgiving-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 10:03:16+00:00
- - tags: None
 
 As iconic Thanksgiving dishes go, stuffing is likely runner-up only to turkey as the dish most often on the dining table. Whether you call it stuffing or dressing or whether you cook the dish inside the turkey or as its own separate casserole is typically a matter of personal family tradition -- it's a collective tradition that's been part of the holiday for hundreds of years.
 
@@ -422,7 +370,6 @@ As iconic Thanksgiving dishes go, stuffing is likely runner-up only to turkey as
  - [https://www.cnn.com/2022/11/14/politics/congress-lame-duck-agenda/index.html](https://www.cnn.com/2022/11/14/politics/congress-lame-duck-agenda/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 10:00:25+00:00
- - tags: None
 
 Lawmakers are set to return on Monday after being away for several weeks campaigning for the crucial midterm elections.
 
@@ -430,7 +377,6 @@ Lawmakers are set to return on Monday after being away for several weeks campaig
  - [https://www.cnn.com/2022/11/14/us/rachel-castillo-california-missing-woman-remains-found-arrest/index.html](https://www.cnn.com/2022/11/14/us/rachel-castillo-california-missing-woman-remains-found-arrest/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 09:53:08+00:00
- - tags: None
 
 Human remains found in a remote California location are those of a mother reported missing Thursday after a "significant amount of blood" was seen in her home, authorities say.
 
@@ -438,7 +384,6 @@ Human remains found in a remote California location are those of a mother report
  - [https://www.cnn.com/2022/11/14/sport/project-shakthi-virgin-peak-nasa-everest-spt-intl/index.html](https://www.cnn.com/2022/11/14/sport/project-shakthi-virgin-peak-nasa-everest-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 09:48:52+00:00
- - tags: None
 
 Exploring the peaks of the world's highest mountains or the secrets of space's deepest labyrinths has become almost second nature for Poorna Malavath and Kavya Manyapu.
 
@@ -446,7 +391,6 @@ Exploring the peaks of the world's highest mountains or the secrets of space's d
  - [https://www.cnn.com/2022/11/13/politics/joe-biden-xi-jinping-meeting-g20-bali/index.html](https://www.cnn.com/2022/11/13/politics/joe-biden-xi-jinping-meeting-g20-bali/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 09:45:37+00:00
- - tags: None
 
 President Joe Biden's meeting with his Chinese counterpart Xi Jinping on Monday may last only a few hours, but could have consequences stretching months or even years as the world's largest economies veer toward increasingly hostile relations.
 
@@ -454,7 +398,6 @@ President Joe Biden's meeting with his Chinese counterpart Xi Jinping on Monday 
  - [https://www.cnn.com/2022/11/14/tech/dryad-forest-fire-prevention-spc-intl/index.html](https://www.cnn.com/2022/11/14/tech/dryad-forest-fire-prevention-spc-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 09:37:17+00:00
- - tags: None
 
 In the summer of 2021, wildfires caused a "disaster without precedence" in the Italian island of Sardinia, burning over 28,000 hectares (69,000 acres) of land and displacing thousands from their homes.
 
@@ -462,7 +405,6 @@ In the summer of 2021, wildfires caused a "disaster without precedence" in the I
  - [https://www.cnn.com/europe/live-news/russia-ukraine-war-news-11-14-22/index.html](https://www.cnn.com/europe/live-news/russia-ukraine-war-news-11-14-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 09:15:01+00:00
- - tags: None
 
 • Orphaned boy who endured horrors of Mariupol siege finds new family
 
@@ -470,7 +412,6 @@ In the summer of 2021, wildfires caused a "disaster without precedence" in the I
  - [https://edition.cnn.com/webview/asia/live-news/biden-xi-meeting-g20-summit-bali-indonesia/index.html](https://edition.cnn.com/webview/asia/live-news/biden-xi-meeting-g20-summit-bali-indonesia/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 09:03:50.297959+00:00
- - tags: None
 
 
 
@@ -478,7 +419,6 @@ In the summer of 2021, wildfires caused a "disaster without precedence" in the I
  - [https://www.cnn.com/2022/11/14/business/china-us-trade-issues-g20-meeting-intl-hnk/index.html](https://www.cnn.com/2022/11/14/business/china-us-trade-issues-g20-meeting-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 09:02:39+00:00
- - tags: None
 
 When President Joe Biden took office in January 2021, there were expectations on both sides of the Pacific that he would back away from the trade war his predecessor started with China nearly three years earlier.
 
@@ -486,7 +426,6 @@ When President Joe Biden took office in January 2021, there were expectations on
  - [https://www.cnn.com/videos/tv/2022/11/13/exp-gps-1113-bremmer-and-applebaum-midterm-global-reaction.cnn](https://www.cnn.com/videos/tv/2022/11/13/exp-gps-1113-bremmer-and-applebaum-midterm-global-reaction.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 08:36:38+00:00
- - tags: None
 
 Bianna Golodryga talks with Eurasia Group President Ian Bremmer and The Atlantic Staff Writer Anne Applebaum about President Joe Biden's first in-person meeting as president with Chinese leader Xi Jinping -- what's at stake and how the world might look with a more stable relationship between its two largest economies.
 
@@ -494,7 +433,6 @@ Bianna Golodryga talks with Eurasia Group President Ian Bremmer and The Atlantic
  - [https://www.cnn.com/2022/11/14/business/ftx-crypto-collapse-updates-hnk-intl/index.html](https://www.cnn.com/2022/11/14/business/ftx-crypto-collapse-updates-hnk-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 08:29:51+00:00
- - tags: None
 
 Aftershocks from the massive earthquake in the trillion-dollar crypto industry last week continued to be felt on Monday.
 
@@ -502,7 +440,6 @@ Aftershocks from the massive earthquake in the trillion-dollar crypto industry l
  - [https://edition.cnn.com/politics/live-news/election-results-congress-senate-house-11-13-2022/index.html](https://edition.cnn.com/politics/live-news/election-results-congress-senate-house-11-13-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 08:03:50.481571+00:00
- - tags: None
 
 Senate | House | Gov | Sec of State | Track key remaining votes
 
@@ -510,7 +447,6 @@ Senate | House | Gov | Sec of State | Track key remaining votes
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-11-14-22/index.html](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-11-14-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 08:03:50.418534+00:00
- - tags: None
 
 
 
@@ -518,7 +454,6 @@ Senate | House | Gov | Sec of State | Track key remaining votes
  - [https://www.cnn.com/2022/11/14/us/university-idaho-moscow-homicide-investigation/index.html](https://www.cnn.com/2022/11/14/us/university-idaho-moscow-homicide-investigation/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 07:11:53+00:00
- - tags: None
 
 A homicide investigation has been opened by police after four people were found dead at a home just outside the University of Idaho's campus in Moscow on Sunday, according to authorities.
 
@@ -526,7 +461,6 @@ A homicide investigation has been opened by police after four people were found 
  - [https://www.cnn.com/2022/11/14/investing/china-real-estate-crisis-over-rescue-plan-intl-hnk/index.html](https://www.cnn.com/2022/11/14/investing/china-real-estate-crisis-over-rescue-plan-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 06:28:34+00:00
- - tags: None
 
 Chinese authorities are making their biggest effort yet to end a crisis in the country's vast real estate sector that has weighed heavily on the economy over the past year.
 
@@ -534,7 +468,6 @@ Chinese authorities are making their biggest effort yet to end a crisis in the c
  - [https://www.cnn.com/videos/politics/2022/11/14/arizona-governor-us-midterm-election-maricopa-vote-update-lah-vpx.cnn](https://www.cnn.com/videos/politics/2022/11/14/arizona-governor-us-midterm-election-maricopa-vote-update-lah-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 06:21:45+00:00
- - tags: None
 
 Republican Kari Lake has closed the gap on Democrat Katie Hobbs in the Arizona gubernatorial race, but her path to victory continues to narrow. CNN's Kyung Lah reports.
 
@@ -542,7 +475,6 @@ Republican Kari Lake has closed the gap on Democrat Katie Hobbs in the Arizona g
  - [https://www.cnn.com/2022/11/14/europe/ukraine-orphaned-boy-new-family-intl-cmd/index.html](https://www.cnn.com/2022/11/14/europe/ukraine-orphaned-boy-new-family-intl-cmd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 05:43:24+00:00
- - tags: None
 
 When Russian forces invaded their country in late February, Vladimir Bespalov and Maria Bespalaya feared their long-held dream of starting a family through adoption was over.
 
@@ -550,7 +482,6 @@ When Russian forces invaded their country in late February, Vladimir Bespalov an
  - [https://www.cnn.com/videos/world/2022/11/14/ukraine-orphaned-boy-adoptee-abdelaziz-contd-pkg-intl-hnk-vpx.cnn](https://www.cnn.com/videos/world/2022/11/14/ukraine-orphaned-boy-adoptee-abdelaziz-contd-pkg-intl-hnk-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 05:40:35+00:00
- - tags: None
 
 In the first week of the Russian invasion of Ukraine, 6-year-old Ilya Kostushevich lost both his parents to Russian shelling. Orphaned and alone, he was left to shelter with strangers in a cold, dark basement for weeks. He eventually escaped and found love with a young couple now living in Kyiv. CNN's Salma Abdelaziz has more.
 
@@ -558,7 +489,6 @@ In the first week of the Russian invasion of Ukraine, 6-year-old Ilya Kostushevi
  - [https://www.cnn.com/2022/11/14/tech/elon-musk-twitter-tesla-workload/index.html](https://www.cnn.com/2022/11/14/tech/elon-musk-twitter-tesla-workload/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 05:21:49+00:00
- - tags: None
 
 Billionaire Elon Musk said on Monday he was working "at the absolute most amount ... from morning til night, seven days a week" when asked about his recent acquisition of Twitter and his leadership of automaker Tesla.
 
@@ -566,7 +496,6 @@ Billionaire Elon Musk said on Monday he was working "at the absolute most amount
  - [https://www.cnn.com/2022/11/14/politics/michelle-obama-joe-biden-2024/index.html](https://www.cnn.com/2022/11/14/politics/michelle-obama-joe-biden-2024/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 05:18:48+00:00
- - tags: None
 
 Former First Lady Michelle Obama said she thinks President Joe Biden is "doing a great job," but stopped short of a full-throated endorsement for another White House run in a recent interview.
 
@@ -574,7 +503,6 @@ Former First Lady Michelle Obama said she thinks President Joe Biden is "doing a
  - [https://www.cnn.com/2022/11/13/us/university-of-virginia-shooting/index.html](https://www.cnn.com/2022/11/13/us/university-of-virginia-shooting/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 04:49:33+00:00
- - tags: None
 
 The University of Virginia is on lockdown following reports of a shooting, according to tweets from the University of Virginia Police Department.
 
@@ -582,7 +510,6 @@ The University of Virginia is on lockdown following reports of a shooting, accor
  - [https://www.cnn.com/2022/11/13/opinions/dave-chappelle-trump-base-snl-obeidallah/index.html](https://www.cnn.com/2022/11/13/opinions/dave-chappelle-trump-base-snl-obeidallah/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 04:46:24+00:00
- - tags: None
 
 Comedian Dave Chappelle is making headlines for his "Saturday Night Live" monologue in which he joked, among other topics, about Kanye West's recent antisemitic comments.
 
@@ -590,7 +517,6 @@ Comedian Dave Chappelle is making headlines for his "Saturday Night Live" monolo
  - [https://www.cnn.com/2022/11/13/politics/trump-irs-audits-kelly-mccabe-comey/index.html](https://www.cnn.com/2022/11/13/politics/trump-irs-audits-kelly-mccabe-comey/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 04:30:55+00:00
- - tags: None
 
 Former President Donald Trump repeatedly told his onetime White House chief of staff, John Kelly, that he wanted the Internal Revenue Service to investigate his political foes, Kelly told The New York Times.
 
@@ -598,7 +524,6 @@ Former President Donald Trump repeatedly told his onetime White House chief of s
  - [https://edition.cnn.com/politics/live-news/election-results-congress-senate-house-11-13-2022/h_71d1892b2ef13be74299e05fbb4ecfee](https://edition.cnn.com/politics/live-news/election-results-congress-senate-house-11-13-2022/h_71d1892b2ef13be74299e05fbb4ecfee)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 04:03:47.946355+00:00
- - tags: None
 
 
 
@@ -606,7 +531,6 @@ Former President Donald Trump repeatedly told his onetime White House chief of s
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-11-13-22/h_1a6e424239f528756ae8806ebfcd5ab0](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-11-13-22/h_1a6e424239f528756ae8806ebfcd5ab0)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 04:03:47.863641+00:00
- - tags: None
 
 
 
@@ -614,7 +538,6 @@ Former President Donald Trump repeatedly told his onetime White House chief of s
  - [https://www.cnn.com/2022/11/13/politics/pence-trump-january-6-tweet/index.html](https://www.cnn.com/2022/11/13/politics/pence-trump-january-6-tweet/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 03:24:14+00:00
- - tags: None
 
 Former Vice President Mike Pence said former President Donald Trump's words on social media during the January 6, 2021, attack on the US Capitol were "reckless" and criticized Trump for being "part of the problem" that day.
 
@@ -622,7 +545,6 @@ Former Vice President Mike Pence said former President Donald Trump's words on s
  - [https://www.cnn.com/collections/intl-1114-midterms/](https://www.cnn.com/collections/intl-1114-midterms/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 03:05:41+00:00
- - tags: None
 
 
 
@@ -630,7 +552,6 @@ Former Vice President Mike Pence said former President Donald Trump's words on s
  - [https://www.cnn.com/2022/11/13/politics/joe-biden-taiwan/index.html](https://www.cnn.com/2022/11/13/politics/joe-biden-taiwan/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 02:46:46+00:00
- - tags: None
 
 When President Joe Biden first declared that the United States had an obligation to protect Taiwan should China move on it, his words were written off by some as a casual, if unfortunate, mischaracterization of American policy.
 
@@ -638,7 +559,6 @@ When President Joe Biden first declared that the United States had an obligation
  - [https://www.cnn.com/2022/11/13/football/ronaldo-manchester-united-betrayal-intl-hnk-spt/index.html](https://www.cnn.com/2022/11/13/football/ronaldo-manchester-united-betrayal-intl-hnk-spt/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 02:44:56+00:00
- - tags: None
 
 Manchester United's Cristiano Ronaldo says the club have betrayed him and he is being forced out, while he has no respect for manager Erik ten Hag.
 
@@ -646,7 +566,6 @@ Manchester United's Cristiano Ronaldo says the club have betrayed him and he is 
  - [https://www.cnn.com/videos/business/2022/11/10/nightcap-sam-bankman-fried-crypto-clip-orig-wl.cnn](https://www.cnn.com/videos/business/2022/11/10/nightcap-sam-bankman-fried-crypto-clip-orig-wl.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 02:35:19+00:00
- - tags: None
 
 CNN's Allison Morrow describes to "Nightcap's" Jon Sarlin the collapse of Sam Bankman-Fried's crypto empire and how this could be a "Lehman Brothers" moment for the crypto market. For more, watch the full Nightcap episode here.
 
@@ -654,7 +573,6 @@ CNN's Allison Morrow describes to "Nightcap's" Jon Sarlin the collapse of Sam Ba
  - [https://www.cnn.com/videos/world/2022/11/13/brittney-griner-russian-penal-colony-pussy-riot-orig-kj.cnn](https://www.cnn.com/videos/world/2022/11/13/brittney-griner-russian-penal-colony-pussy-riot-orig-kj.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 02:34:28+00:00
- - tags: None
 
 Pussy Riot's Nadya Tolokonnikova spent nearly two years in a Russian penal colony. She describes what US basketball star Brittney Griner, who has been sentenced to nine years for drug possession, should expect, and shares the harsh conditions of colony life.
 
@@ -662,7 +580,6 @@ Pussy Riot's Nadya Tolokonnikova spent nearly two years in a Russian penal colon
  - [https://www.cnn.com/videos/politics/2022/11/14/mike-pence-trump-january-6-acosta-nr-vpx.cnn](https://www.cnn.com/videos/politics/2022/11/14/mike-pence-trump-january-6-acosta-nr-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 02:18:20+00:00
- - tags: None
 
 Former Vice-President Mike Pence told ABC News that a tweet sent out by then-President Donald Trump during the January 6 capitol riot was "reckless."
 
@@ -670,7 +587,6 @@ Former Vice-President Mike Pence told ABC News that a tweet sent out by then-Pre
  - [https://www.cnn.com/videos/politics/2022/11/14/enten-2022-midterms-house-uncalled-races-vpx.cnn](https://www.cnn.com/videos/politics/2022/11/14/enten-2022-midterms-house-uncalled-races-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 01:54:03+00:00
- - tags: None
 
 CNN senior data reporter Harry Enten discusses where Democrats and Republicans stand in the 2022 House race.
 
@@ -678,7 +594,6 @@ CNN senior data reporter Harry Enten discusses where Democrats and Republicans s
  - [https://www.cnn.com/travel/article/japan-kobe-beef-croquettes-30-year-waitlist/index.html](https://www.cnn.com/travel/article/japan-kobe-beef-croquettes-30-year-waitlist/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 01:24:03+00:00
- - tags: None
 
 If you order a box of frozen Kobe beef croquettes from Asahiya, a family-run butcher shop in Takasago City in western Japan's Hyogo Prefecture, it'll take another 30 years before you receive your order.
 
@@ -686,6 +601,5 @@ If you order a box of frozen Kobe beef croquettes from Asahiya, a family-run but
  - [https://edition.cnn.com/webview/politics/live-news/election-results-congress-senate-house-11-13-2022/index.html](https://edition.cnn.com/webview/politics/live-news/election-results-congress-senate-house-11-13-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-14 01:03:46.870032+00:00
- - tags: None
 
 

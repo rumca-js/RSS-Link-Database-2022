@@ -1,10 +1,9 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2
+# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
 
 ## Elizabeth Holmes Theranos Update: Prosecutors Seek 15-Year Prison Sentence
  - [https://www.forbes.com/sites/brucelee/2022/11/12/elizabeth-holmes-theranos-update-prosecutors-seek-15-year-prison-sentence/](https://www.forbes.com/sites/brucelee/2022/11/12/elizabeth-holmes-theranos-update-prosecutors-seek-15-year-prison-sentence/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-12 21:12:48+00:00
- - tags: None
 
 On Friday, the U.S. Department of Justice filed a recommendation that Holmes serve a 15-years prison sentence and pay $800 million to investors for defrauding them.
 
@@ -12,7 +11,6 @@ On Friday, the U.S. Department of Justice filed a recommendation that Holmes ser
  - [https://www.forbes.com/sites/johnbbrandon/2022/11/12/is-social-media-finally-ready-to-evolve/](https://www.forbes.com/sites/johnbbrandon/2022/11/12/is-social-media-finally-ready-to-evolve/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-12 21:07:01+00:00
- - tags: None
 
 Birthed in the dorm rooms of Harvard by Mark Zuckerberg, catalyzed on the whiteboards of Twitter back in the early days, the entire concept of the early social media firms hinged on massive social connection.
 
@@ -20,7 +18,6 @@ Birthed in the dorm rooms of Harvard by Mark Zuckerberg, catalyzed on the whiteb
  - [https://www.forbes.com/sites/traversmark/2022/11/12/a-psychologist-explains-the-dangers-of-manifesting-your-goals---and-offers-a-solution/](https://www.forbes.com/sites/traversmark/2022/11/12/a-psychologist-explains-the-dangers-of-manifesting-your-goals---and-offers-a-solution/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-12 20:37:03+00:00
- - tags: None
 
 Manifestation has its merits, but only if you follow up with real effort.
 
@@ -28,7 +25,6 @@ Manifestation has its merits, but only if you follow up with real effort.
  - [https://www.forbes.com/sites/maxthielmeyer/2022/11/12/how-to-earn-free-items-through-rocket-leagues-jump-start-a-friend-event/](https://www.forbes.com/sites/maxthielmeyer/2022/11/12/how-to-earn-free-items-through-rocket-leagues-jump-start-a-friend-event/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-12 20:25:10+00:00
- - tags: None
 
 Rocket League’s newest event is all about getting players back into the game, and Psyonix are offering some pretty sweet rewards to those who party up with current or former players.
 
@@ -36,7 +32,6 @@ Rocket League’s newest event is all about getting players back into the game, 
  - [https://www.forbes.com/sites/ewanspence/2022/11/12/apple-macbook-pro-m2-pro-m2-ultra-delay-decision/](https://www.forbes.com/sites/ewanspence/2022/11/12/apple-macbook-pro-m2-pro-m2-ultra-delay-decision/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-12 20:20:34+00:00
- - tags: None
 
 If Apple can offer confidence to the iPhone user base, why can it not do the same for MacBook Pro users?
 
@@ -44,7 +39,6 @@ If Apple can offer confidence to the iPhone user base, why can it not do the sam
  - [https://www.forbes.com/sites/ewanspence/2022/11/12/apple-macbook-pro-m2-pro-m2-ultra-release-delay-decision/](https://www.forbes.com/sites/ewanspence/2022/11/12/apple-macbook-pro-m2-pro-m2-ultra-release-delay-decision/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-12 20:20:34+00:00
- - tags: None
 
 Will Apple offer MacBook Pro users the same level of reliability and confidence as iPhone users?
 
@@ -52,7 +46,6 @@ Will Apple offer MacBook Pro users the same level of reliability and confidence 
  - [https://www.forbes.com/sites/mattgardner1/2022/11/12/atari-50-the-anniversary-celebration-review-a-golden-experience/](https://www.forbes.com/sites/mattgardner1/2022/11/12/atari-50-the-anniversary-celebration-review-a-golden-experience/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-12 18:20:34+00:00
- - tags: None
 
 If ‘Atari 50’ doesn’t deliver the ultimate experience of the company’s history, nothing ever will.
 
@@ -60,7 +53,6 @@ If ‘Atari 50’ doesn’t deliver the ultimate experience of the company’s h
  - [https://www.forbes.com/sites/davidjeans/2022/11/12/the-devil-in-nerds-clothes-how-sam-bankman-frieds-cult-of-genius-fooled-everyone/](https://www.forbes.com/sites/davidjeans/2022/11/12/the-devil-in-nerds-clothes-how-sam-bankman-frieds-cult-of-genius-fooled-everyone/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-12 17:46:04+00:00
- - tags: None
 
 Crypto insiders paint a picture of a charismatic tech founder who became the darling of high-powered investors, even as he was brazen about his cryptocurrency exchange’s shaky business model and kept the books closed to all but a few confidants.
 
@@ -68,7 +60,6 @@ Crypto insiders paint a picture of a charismatic tech founder who became the dar
  - [https://www.forbes.com/sites/paultassi/2022/11/12/cyberpunk-2077-confirms-it-will-not-finish-its-most-maddening-side-quest/](https://www.forbes.com/sites/paultassi/2022/11/12/cyberpunk-2077-confirms-it-will-not-finish-its-most-maddening-side-quest/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-12 17:31:26+00:00
- - tags: None
 
 Easily one of the most memorable and interesting side quests in the Cyberpunk 2077 is the story of the Peralez’s, a Nighy City power couple where the husband was running for mayor.
 
@@ -76,7 +67,6 @@ Easily one of the most memorable and interesting side quests in the Cyberpunk 20
  - [https://www.forbes.com/sites/paultassi/2022/11/12/eu-regulator-under-fire-for-promising-call-of-duty-will-remain-on-his-playstation/](https://www.forbes.com/sites/paultassi/2022/11/12/eu-regulator-under-fire-for-promising-call-of-duty-will-remain-on-his-playstation/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-12 17:06:02+00:00
- - tags: None
 
 The case against the Microsoft Activision deal would be a lot more convincing if regulators were not constantly parroting purely Sony talking points.
 
@@ -84,7 +74,6 @@ The case against the Microsoft Activision deal would be a lot more convincing if
  - [https://www.forbes.com/sites/paultassi/2022/11/12/elon-musk-claims-hell-pay-twitter-video-creators-10-more-than-youtube/](https://www.forbes.com/sites/paultassi/2022/11/12/elon-musk-claims-hell-pay-twitter-video-creators-10-more-than-youtube/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-12 16:43:58+00:00
- - tags: None
 
 Elon Musk has roughly ten zillion ideas about how to generate revenue from Twitter, the most public of which, of course, has been his new $8 Twitter Blue auto-verification system that wreaked so much havoc in its first few days its been “paused” already.
 
@@ -92,7 +81,6 @@ Elon Musk has roughly ten zillion ideas about how to generate revenue from Twitt
  - [https://www.forbes.com/sites/williamhaseltine/2022/11/12/reimagining-alzheimers-part-5-setback-for-potential-alzheimers-treatment/](https://www.forbes.com/sites/williamhaseltine/2022/11/12/reimagining-alzheimers-part-5-setback-for-potential-alzheimers-treatment/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-12 16:27:06+00:00
- - tags: None
 
 In the last installment of this series, I discussed a promising treatment for Alzheimer’s disease called lecanemab. Here, I describe a recent setback for lecanemab’s clinical trials and introduce other potential treatments for Alzheimer’s that are currently underway.
 
@@ -100,7 +88,6 @@ In the last installment of this series, I discussed a promising treatment for Al
  - [https://www.forbes.com/sites/paultassi/2022/11/12/on-destiny-2-secrets-expectations-and-reading-the-room/](https://www.forbes.com/sites/paultassi/2022/11/12/on-destiny-2-secrets-expectations-and-reading-the-room/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-12 16:26:14+00:00
- - tags: None
 
 It's still not clear why Destiny 2 is not doing cool secret stuff anymore, and the past week has only made that more confusing.
 
@@ -108,7 +95,6 @@ It's still not clear why Destiny 2 is not doing cool secret stuff anymore, and t
  - [https://www.forbes.com/sites/danidiplacido/2022/11/12/stephen-king-is-not-a-fan-of-elon-musks-twitter-and-hes-not-alone/](https://www.forbes.com/sites/danidiplacido/2022/11/12/stephen-king-is-not-a-fan-of-elon-musks-twitter-and-hes-not-alone/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-12 16:03:24+00:00
- - tags: None
 
 Stephen King and Elon Musk are having one-sided conversations on Twitter again.
 
@@ -116,7 +102,6 @@ Stephen King and Elon Musk are having one-sided conversations on Twitter again.
  - [https://www.forbes.com/sites/johnbbrandon/2022/11/12/social-media-users-love-these-fall-cookout-products/](https://www.forbes.com/sites/johnbbrandon/2022/11/12/social-media-users-love-these-fall-cookout-products/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-12 15:06:14+00:00
- - tags: None
 
 Fall in most places of the U.S. is not quite cold enough for wearing winter jackets, which means it’s still time to do cookouts.
 
@@ -124,7 +109,6 @@ Fall in most places of the U.S. is not quite cold enough for wearing winter jack
  - [https://www.forbes.com/sites/paultassi/2022/11/12/god-of-war-ragnarok-what-i-couldnt-talk-about-in-my-review/](https://www.forbes.com/sites/paultassi/2022/11/12/god-of-war-ragnarok-what-i-couldnt-talk-about-in-my-review/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-12 14:58:17+00:00
- - tags: None
 
 When asked “What’s different about God of War Ragnarok compared to the last game?” most of the biggest things were items that would probably be considered spoilers in a pre-launch review.
 
@@ -132,7 +116,6 @@ When asked “What’s different about God of War Ragnarok compared to the last 
  - [https://www.forbes.com/sites/brucelee/2022/11/12/fake-eli-lilly-twitter-account-claims-insulin-is-free-stock-falls-43/](https://www.forbes.com/sites/brucelee/2022/11/12/fake-eli-lilly-twitter-account-claims-insulin-is-free-stock-falls-43/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-12 14:50:09+00:00
- - tags: None
 
 This week showed what can happen after Elon Musk instituted a new pay $8 and you can get a blue verified check mark from Twitter policy.
 
@@ -140,7 +123,6 @@ This week showed what can happen after Elon Musk instituted a new pay $8 and you
  - [https://www.forbes.com/sites/daphneewingchow/2022/11/12/groundbreaking-nutrition-climate-initiative-launched-at-cop27/](https://www.forbes.com/sites/daphneewingchow/2022/11/12/groundbreaking-nutrition-climate-initiative-launched-at-cop27/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-12 14:48:17+00:00
- - tags: None
 
 The official launch of the Initiative on Climate Action and Nutrition (I-CAN) took place at Adaptation and Agriculture Day at COP27, adding to the food systems momentum at this year's COP. This was the first time that nutrition and climate have come together in this way at a UN Climate Conference.
 
@@ -148,7 +130,6 @@ The official launch of the Initiative on Climate Action and Nutrition (I-CAN) to
  - [https://www.forbes.com/sites/janakirammsv/2022/11/12/10-predictions-and-a-wishlist-from-aws-reinvent-2022/](https://www.forbes.com/sites/janakirammsv/2022/11/12/10-predictions-and-a-wishlist-from-aws-reinvent-2022/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-12 14:26:10+00:00
- - tags: None
 
 Continuing the tradition of publishing the predictions and wishlist weeks before re:Invent, here is my list of the top 10 announcements to expect from this massive conference.
 
@@ -156,7 +137,6 @@ Continuing the tradition of publishing the predictions and wishlist weeks before
  - [https://www.forbes.com/sites/lanceeliot/2022/11/12/ai-ethics-and-ai-law-are-warning-about-unchecked-ai-ageism-discrimination/](https://www.forbes.com/sites/lanceeliot/2022/11/12/ai-ethics-and-ai-law-are-warning-about-unchecked-ai-ageism-discrimination/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-12 13:00:00+00:00
- - tags: None
 
 AI ageism is a neglected and generally unknown AI Ethics and AI Law problem. Time to wise up and realize the truth about AI ageism. We share what it is and what needs to be done about the scourge.
 
@@ -164,7 +144,6 @@ AI ageism is a neglected and generally unknown AI Ethics and AI Law problem. Tim
  - [https://www.forbes.com/sites/alanohnsman/2022/11/12/biden-at-cop27-a-tesla-bull-goes-bearish-and-carbon-emissions-keep-climbing/](https://www.forbes.com/sites/alanohnsman/2022/11/12/biden-at-cop27-a-tesla-bull-goes-bearish-and-carbon-emissions-keep-climbing/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-12 13:00:00+00:00
- - tags: None
 
 This week’s Current Climate, which every Saturday brings you the latest news about the business of sustainability.
 
@@ -172,7 +151,6 @@ This week’s Current Climate, which every Saturday brings you the latest news a
  - [https://www.forbes.com/sites/gordonkelly/2022/11/12/apple-iphone-15-pro-max-ultra-price-rise-iphone-14-pro-max-upgrade/](https://www.forbes.com/sites/gordonkelly/2022/11/12/apple-iphone-15-pro-max-ultra-price-rise-iphone-14-pro-max-upgrade/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-12 12:42:53+00:00
- - tags: None
 
 Apple's iPhone 15 range may cost a lot more than expected...
 
@@ -180,7 +158,6 @@ Apple's iPhone 15 range may cost a lot more than expected...
  - [https://www.forbes.com/sites/davidphelan/2022/11/12/apple-airpods-pro-2-important-firmware-released-following-audio-issues/](https://www.forbes.com/sites/davidphelan/2022/11/12/apple-airpods-pro-2-important-firmware-released-following-audio-issues/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-12 12:00:50+00:00
- - tags: None
 
 Last month, users of the second-gen AirPods Pro complained of serious issues. Now, Apple has released new firmware.
 
@@ -188,7 +165,6 @@ Last month, users of the second-gen AirPods Pro complained of serious issues. No
  - [https://www.forbes.com/sites/russellflannery/2022/11/12/china-hotel-chains-nasdaq-ipo-gains-17-on-hopes-for-eased-travel-rules/](https://www.forbes.com/sites/russellflannery/2022/11/12/china-hotel-chains-nasdaq-ipo-gains-17-on-hopes-for-eased-travel-rules/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-12 11:34:21+00:00
- - tags: None
 
 Trip.com, H World GreenTree Also Soared
 
@@ -196,7 +172,6 @@ Trip.com, H World GreenTree Also Soared
  - [https://www.forbes.com/sites/jamesmorris/2022/11/12/sustainable-motorsport-why-hasnt-the-world-rally-championship-gone-all-electric/](https://www.forbes.com/sites/jamesmorris/2022/11/12/sustainable-motorsport-why-hasnt-the-world-rally-championship-gone-all-electric/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-12 11:33:07+00:00
- - tags: None
 
 The World Rally Championship has chosen hybrids and synthetic fuels over electrification. Is this the right choice when motorsport is meant to be a test bed for developing road cars?
 
@@ -204,7 +179,6 @@ The World Rally Championship has chosen hybrids and synthetic fuels over electri
  - [https://www.forbes.com/sites/solitairetownsend/2022/11/12/change-the-story-save-the-world-lets-flip-the-script-on-climate/](https://www.forbes.com/sites/solitairetownsend/2022/11/12/change-the-story-save-the-world-lets-flip-the-script-on-climate/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-12 11:06:51+00:00
- - tags: None
 
 Better stories might matter more than settling goals at #COP27. Or at very least, for the goals to have a chance of succeeding, they’ve got to have better stories around them.
 
@@ -212,7 +186,6 @@ Better stories might matter more than settling goals at #COP27. Or at very least
  - [https://www.forbes.com/sites/ninashapiro/2022/11/12/whats-a-tripledemic-rsv-covid-and-flu-oh-my/](https://www.forbes.com/sites/ninashapiro/2022/11/12/whats-a-tripledemic-rsv-covid-and-flu-oh-my/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-12 11:00:00+00:00
- - tags: None
 
 A new surge in three viruses is leading to rise in hospitalizations in children, even before winter hits. This "tripledemic" is something we've never seen.
 
@@ -220,7 +193,6 @@ A new surge in three viruses is leading to rise in hospitalizations in children,
  - [https://www.forbes.com/sites/louiseschiavone/2022/11/12/cop27s-soil-reckoning-how-agriculture-is-returning-to-its-roots/](https://www.forbes.com/sites/louiseschiavone/2022/11/12/cop27s-soil-reckoning-how-agriculture-is-returning-to-its-roots/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-12 06:59:55+00:00
- - tags: None
 
 While the science, machinery, and now technology of farming have leapt into the 21st century, so have the brutal environmental realities. These are the challenges of planet earth in 2022.
 
@@ -228,7 +200,6 @@ While the science, machinery, and now technology of farming have leapt into the 
  - [https://www.forbes.com/sites/erikkain/2022/11/11/todays-wordle-511-saturday-november-12th-hints-clues-and-answer/](https://www.forbes.com/sites/erikkain/2022/11/11/todays-wordle-511-saturday-november-12th-hints-clues-and-answer/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-12 03:30:49+00:00
- - tags: None
 
 We all isolated for a couple years and wore masks and did everything we could to not catch COVID-19 and so nobody caught anything.
 
@@ -236,7 +207,6 @@ We all isolated for a couple years and wore masks and did everything we could to
  - [https://www.forbes.com/sites/bradtempleton/2022/11/11/tesla-opens-up-its-charging-connectors-to-all-but-the-world-probably-wont-listen/](https://www.forbes.com/sites/bradtempleton/2022/11/11/tesla-opens-up-its-charging-connectors-to-all-but-the-world-probably-wont-listen/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-12 02:29:19+00:00
- - tags: None
 
 Tesla today declared it was opening up the Tesla charging connector for use by anybody, and renaming it the “North American Charging Standard” (NACS.)  Here's why the world may still resist using this superior and popular connector
 
@@ -244,7 +214,6 @@ Tesla today declared it was opening up the Tesla charging connector for use by a
  - [https://www.forbes.com/sites/krisholt/2022/11/11/todays-quordle-answers-and-clues-for-saturday-november-11/](https://www.forbes.com/sites/krisholt/2022/11/11/todays-quordle-answers-and-clues-for-saturday-november-11/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-12 02:15:48+00:00
- - tags: None
 
 Some hints and the solution for today's 'Quordle' are just ahead.
 
@@ -252,7 +221,6 @@ Some hints and the solution for today's 'Quordle' are just ahead.
  - [https://www.forbes.com/sites/krisholt/2022/11/11/todays-heardle-answer-and-clues-for-saturday-november-12/](https://www.forbes.com/sites/krisholt/2022/11/11/todays-heardle-answer-and-clues-for-saturday-november-12/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-12 02:00:14+00:00
- - tags: None
 
 Here's today's 'Heardle' song, along with some hints.
 
@@ -260,7 +228,6 @@ Here's today's 'Heardle' song, along with some hints.
  - [https://www.forbes.com/sites/brucedorminey/2022/11/11/london-space-startup-is-turning-astronomy-into-for-profit-enterprise/](https://www.forbes.com/sites/brucedorminey/2022/11/11/london-space-startup-is-turning-astronomy-into-for-profit-enterprise/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-12 01:02:47+00:00
- - tags: None
 
 Space startup aims to radically redefine the way astronomy in space is funded. Think commercial profitability.
 
@@ -268,6 +235,5 @@ Space startup aims to radically redefine the way astronomy in space is funded. T
  - [https://www.forbes.com/sites/jamiecartereurope/2022/11/11/major-step-for-crewed-mission-to-mars-as-nasa-aces-inflatable-heat-shield-test/](https://www.forbes.com/sites/jamiecartereurope/2022/11/11/major-step-for-crewed-mission-to-mars-as-nasa-aces-inflatable-heat-shield-test/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-12 01:00:00+00:00
- - tags: None
 
 The experimental heat shield technology is needed for future crewed missions to Mars and beyond.

@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## .NET MAUI for Android and cross-platform apps
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59527](https://www.codeproject.com/script/News/View.aspx?nwid=59527)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-17 05:00:00+00:00
- - tags: None
 
 The latest .NET MAUI release includes dual-screen Android support based on Jetpack Window Manager, so you can build cross-platform apps for mobile and desktop that also adapt to foldable Android devices.
 
@@ -12,7 +11,6 @@ The latest .NET MAUI release includes dual-screen Android support based on Jetpa
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59524](https://www.codeproject.com/script/News/View.aspx?nwid=59524)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-17 05:00:00+00:00
- - tags: None
 
 They don't even have Ketchup-flavoured ones. How good could they be?
 
@@ -20,7 +18,6 @@ They don't even have Ketchup-flavoured ones. How good could they be?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59533](https://www.codeproject.com/script/News/View.aspx?nwid=59533)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-17 05:00:00+00:00
- - tags: None
 
 "Is this the right room for an argument?"
 
@@ -28,7 +25,6 @@ They don't even have Ketchup-flavoured ones. How good could they be?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59535](https://www.codeproject.com/script/News/View.aspx?nwid=59535)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-17 05:00:00+00:00
- - tags: None
 
 DuckDuckGo for Android's 'App Tracking Protection' feature has reached open beta, allowing all Android users to block third-party trackers across all their installed apps.
 
@@ -36,7 +32,6 @@ DuckDuckGo for Android's 'App Tracking Protection' feature has reached open beta
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59534](https://www.codeproject.com/script/News/View.aspx?nwid=59534)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-17 05:00:00+00:00
- - tags: None
 
 I was searching for the most orange website on the internet
 
@@ -44,7 +39,6 @@ I was searching for the most orange website on the internet
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59537](https://www.codeproject.com/script/News/View.aspx?nwid=59537)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-17 05:00:00+00:00
- - tags: None
 
 Because sometimes, you don't need all the whistles, bells, and other gewgaws
 
@@ -52,7 +46,6 @@ Because sometimes, you don't need all the whistles, bells, and other gewgaws
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59528](https://www.codeproject.com/script/News/View.aspx?nwid=59528)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-17 05:00:00+00:00
- - tags: None
 
 Be among the first to launch news mobile applications with the Flutter News Toolkit
 
@@ -60,7 +53,6 @@ Be among the first to launch news mobile applications with the Flutter News Tool
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59523](https://www.codeproject.com/script/News/View.aspx?nwid=59523)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-17 05:00:00+00:00
- - tags: None
 
 I guess I will show up for the next team meeting after all
 
@@ -68,7 +60,6 @@ I guess I will show up for the next team meeting after all
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59539](https://www.codeproject.com/script/News/View.aspx?nwid=59539)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-17 05:00:00+00:00
- - tags: None
 
 It looks like you're trying to appear silly. Would you like help with that?
 
@@ -76,7 +67,6 @@ It looks like you're trying to appear silly. Would you like help with that?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59531](https://www.codeproject.com/script/News/View.aspx?nwid=59531)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-17 05:00:00+00:00
- - tags: None
 
 "The beatings will continue until morale improves"
 
@@ -84,7 +74,6 @@ It looks like you're trying to appear silly. Would you like help with that?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59529](https://www.codeproject.com/script/News/View.aspx?nwid=59529)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-17 05:00:00+00:00
- - tags: None
 
 We're sharing more details about the Privacy Sandbox Beta so that developers can get prepared.
 
@@ -92,7 +81,6 @@ We're sharing more details about the Privacy Sandbox Beta so that developers can
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59532](https://www.codeproject.com/script/News/View.aspx?nwid=59532)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-17 05:00:00+00:00
- - tags: None
 
 Beware of hackers near your spacecraft
 
@@ -100,7 +88,6 @@ Beware of hackers near your spacecraft
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59536](https://www.codeproject.com/script/News/View.aspx?nwid=59536)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-17 05:00:00+00:00
- - tags: None
 
 Same great database you remember, now with many more features you'll never need!
 
@@ -108,7 +95,6 @@ Same great database you remember, now with many more features you'll never need!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59525](https://www.codeproject.com/script/News/View.aspx?nwid=59525)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-17 05:00:00+00:00
- - tags: None
 
 Click 'Like' to clone repo
 
@@ -116,7 +102,6 @@ Click 'Like' to clone repo
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59538](https://www.codeproject.com/script/News/View.aspx?nwid=59538)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-17 05:00:00+00:00
- - tags: None
 
 Well, don't do that then
 
@@ -124,7 +109,6 @@ Well, don't do that then
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59522](https://www.codeproject.com/script/News/View.aspx?nwid=59522)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-17 05:00:00+00:00
- - tags: None
 
 "The low rider is a little higher"
 
@@ -132,7 +116,6 @@ Well, don't do that then
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59526](https://www.codeproject.com/script/News/View.aspx?nwid=59526)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-17 05:00:00+00:00
- - tags: None
 
 "You too may be a big hero, once you've learned to count backwards to zero"
 
@@ -140,6 +123,5 @@ Well, don't do that then
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59530](https://www.codeproject.com/script/News/View.aspx?nwid=59530)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-17 05:00:00+00:00
- - tags: None
 
 Unlike previous Windows APIs, the WinUI MenuBar and MenuBarItem do not support data binding, so you must build your menu tree from MenuFlyoutItem, MenuFlyoutSubItem, and MenuFlyoutSeparator, either in code or directly in your XAML.

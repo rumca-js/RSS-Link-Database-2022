@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## San Francisco police consider letting robots use ‘deadly force’
  - [https://www.theverge.com/2022/11/23/23475817/san-francisco-police-department-robots-deadly-force](https://www.theverge.com/2022/11/23/23475817/san-francisco-police-department-robots-deadly-force)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 23:57:05+00:00
- - tags: None
 
 <figure>
       <img alt="An image showing a remote-controlled robot used to disarm bombs" src="https://cdn.vox-cdn.com/thumbor/1u--DJjlnWfB5x5SDZb7H3IjZgY=/0x0:1656x1104/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71668437/613349262.0.jpg" />
@@ -21,7 +20,6 @@
  - [https://www.theverge.com/23474206/black-friday-2022-tech-deals-under-25-cyber-monday-smart-home-streaming-gaming](https://www.theverge.com/23474206/black-friday-2022-tech-deals-under-25-cyber-monday-smart-home-streaming-gaming)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 22:41:52+00:00
- - tags: None
 
 <figure>
       <img alt="A bunch of AirTags" src="https://cdn.vox-cdn.com/thumbor/5DxqVE9UH2Ug5PT_IFGSjeL-QSw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71668133/vpavic_4547_20210421_0131.0.jpg" />
@@ -38,7 +36,6 @@
  - [https://www.theverge.com/2022/11/23/23475819/google-messages-any-emoji-reaction-test](https://www.theverge.com/2022/11/23/23475819/google-messages-any-emoji-reaction-test)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 22:22:09+00:00
- - tags: None
 
 <figure>
       <img alt="Two screenshots, one showing the extra emoji button in the reactions pop-up, and the other showing the emoji picker that appears when you tap that button." src="https://cdn.vox-cdn.com/thumbor/XW4jKbauVJTOIeCx6XrxCPXBMLA=/0x0:1638x1092/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71668041/Reactions.0.png" />
@@ -55,7 +52,6 @@
  - [https://www.theverge.com/23475121/amazon-alexa-english-accent-switch-update-region-free](https://www.theverge.com/23475121/amazon-alexa-english-accent-switch-update-region-free)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 22:00:40+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/VY8ZUfrkm7pPu3HUTXfsymEVJUk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71667950/HT006_alexa_0003.0.jpg" />
@@ -73,7 +69,6 @@
  - [https://www.theverge.com/23475130/black-friday-2022-headphones-earbuds-deals-cyber-monday-airpods-bose-sony](https://www.theverge.com/23475130/black-friday-2022-headphones-earbuds-deals-cyber-monday-airpods-bose-sony)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 21:15:43+00:00
- - tags: None
 
 <figure>
       <img alt="Apple’s second-generation AirPods Pro photographed on a reflective black surface." src="https://cdn.vox-cdn.com/thumbor/qoeNynWU3Ddy4-WDfi69XYc6rC4=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71667759/DSCF9466.0.jpg" />
@@ -93,7 +88,6 @@
  - [https://www.theverge.com/22985108/best-fitness-tracker](https://www.theverge.com/22985108/best-fitness-tracker)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 21:13:35+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/9NfU5CzAkm1H45234kKpT8gicKk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/70657030/acastro_220321_5092_0001.0.jpg" />
@@ -110,7 +104,6 @@
  - [https://www.theverge.com/23475045/black-friday-2022-smartwatch-deals-cyber-monday-fitness-trackers](https://www.theverge.com/23475045/black-friday-2022-smartwatch-deals-cyber-monday-fitness-trackers)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 20:41:16+00:00
- - tags: None
 
 <figure>
       <img alt="The Apple Watch Ultra under water" src="https://cdn.vox-cdn.com/thumbor/8fFRvv_QdZC97zAIsPUFzsDk264=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71667631/226274_APPLE_WATCH_ULTRA_PHO_akrales_0035.0.jpg" />
@@ -131,7 +124,6 @@
  - [https://www.theverge.com/21420196/best-budget-smartphone-cheap](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 19:51:57+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/t2Mje1exJnZyEZRBhf5hrBEQbvE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/67732462/226422_K_Radtke_budget_phone_buying_guide.13.jpg" />
@@ -148,7 +140,6 @@
  - [https://www.theverge.com/2022/11/23/23474163/hashflare-crypto-mining-alleged-scam-arrests](https://www.theverge.com/2022/11/23/23474163/hashflare-crypto-mining-alleged-scam-arrests)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 19:47:44+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/A3nnMXzJL0am9YNYPHqRwknDJe4=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71667390/acastro_170726_1777_0008.0.jpg" />
@@ -165,7 +156,6 @@
  - [https://www.theverge.com/2022/11/23/23475472/elon-musk-twitter-unbanning-suspended-accounts-law-spam-amnesty](https://www.theverge.com/2022/11/23/23475472/elon-musk-twitter-unbanning-suspended-accounts-law-spam-amnesty)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 18:40:13+00:00
- - tags: None
 
 <figure>
       <img alt="An image of Elon Musk in a tuxedo making an odd face. The background is red with weight scales on it." src="https://cdn.vox-cdn.com/thumbor/lqIaClmdS9aHUwEV-1TJCdOdeHE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71667069/VRG_Illo_STK022_K_Radtke_Musk_Scales_2.0.jpg" />
@@ -187,7 +177,6 @@
  - [https://www.theverge.com/23466780/black-friday-2022-tech-deals-under-50-best-cyber-monday-earbuds-gaming](https://www.theverge.com/23466780/black-friday-2022-tech-deals-under-50-best-cyber-monday-earbuds-gaming)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 18:34:26+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/e9_CiGWAKB77etEAK9DTTHd77EQ=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71667040/adbenedetto_220508_5192_0036.0.jpg" />
@@ -212,7 +201,6 @@
  - [https://www.theverge.com/23066024/alexa-together-review-elder-care-urgent-response](https://www.theverge.com/23066024/alexa-together-review-elder-care-urgent-response)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 18:30:00+00:00
- - tags: None
 
 <p>For $20 a month, the service provides peace of mind, but many of its features should be free </p>
   <p>
@@ -223,7 +211,6 @@
  - [https://www.theverge.com/23473739/black-friday-2022-laptop-deals-cyber-monday-apple-microsoft-amazon](https://www.theverge.com/23473739/black-friday-2022-laptop-deals-cyber-monday-apple-microsoft-amazon)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 18:25:22+00:00
- - tags: None
 
 <figure>
       <img alt="The M2 MacBook Air." src="https://cdn.vox-cdn.com/thumbor/yu_U-hHNBtcuzIaqazA5fFMjnFg=/0x0:1440x960/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71666979/macbookairm2.0.jpg" />
@@ -245,7 +232,6 @@
  - [https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-sony-bose-apple-microsoft-deal-sale](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-sony-bose-apple-microsoft-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 18:09:30+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/D5Gf03zwZZi_fUB_g6FfF47eQRw=/59x0:1982x1282/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/70392555/IMG_6828_3.12.jpg" />
@@ -262,7 +248,6 @@
  - [https://www.theverge.com/23466644/black-friday-2022-streaming-deals-cyber-monday-hulu-hbo-max-paramount-peacock](https://www.theverge.com/23466644/black-friday-2022-streaming-deals-cyber-monday-hulu-hbo-max-paramount-peacock)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 18:06:00+00:00
- - tags: None
 
 <figure>
       <img alt="Hulu logo in the middle of a striped background." src="https://cdn.vox-cdn.com/thumbor/8tkrwGKjPp4iT4F8qMn7wGVByEU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71666876/acastro_STK061_hulu_03.0.jpg" />
@@ -279,7 +264,6 @@
  - [https://www.theverge.com/23474116/oneplus-nord-n300-5g-review-screen-battery-camera](https://www.theverge.com/23474116/oneplus-nord-n300-5g-review-screen-battery-camera)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 17:20:16+00:00
- - tags: None
 
 <p>OnePlus’ N300 comes with 33W wired charging and a very budget-friendly price tag, but it’s not enough to make up for a less-than-enjoyable experience.</p>
   <p>
@@ -290,7 +274,6 @@
  - [https://www.theverge.com/2022/11/23/23474965/samsung-galaxy-buds-earbuds-roomba-peak-design-ember-mug-deal-sale](https://www.theverge.com/2022/11/23/23474965/samsung-galaxy-buds-earbuds-roomba-peak-design-ember-mug-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 17:04:15+00:00
- - tags: None
 
 <figure>
       <img alt="The Samsung Galaxy Watch 4 Classic in black, resting on a wood table." src="https://cdn.vox-cdn.com/thumbor/UQLGbViNaQw-GcVzoWnURmWZKFw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71666550/dbohn_210816_4717_0011.0.jpg" />
@@ -307,7 +290,6 @@
  - [https://www.theverge.com/23475046/guardians-of-the-galaxy-holiday-special-review-disney-plus](https://www.theverge.com/23475046/guardians-of-the-galaxy-holiday-special-review-disney-plus)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 17:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="A photo of Dave Bautista as Drax&amp;nbsp;in the Guardians of the Galaxy holiday special." src="https://cdn.vox-cdn.com/thumbor/Jpixbg4dkszoAOp82fcwNJOX6u4=/300x0:3540x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71666495/ptk1570_comp_fra_v0060_r709_a1c0fd53.0.jpeg" />
@@ -324,7 +306,6 @@
  - [https://www.theverge.com/22997597/best-robot-vacuum-cleaner](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 16:51:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/Pu5ZeNJJutVNZgb9bdp1DNshxtA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/70693925/VRG_ILLO_5103_RobotVacuum_Guide.0.jpg" />
@@ -341,7 +322,6 @@
  - [https://www.theverge.com/2022/11/23/23475019/bitcoin-new-york-moratorium-crypto-mining-kathy-hochul](https://www.theverge.com/2022/11/23/23475019/bitcoin-new-york-moratorium-crypto-mining-kathy-hochul)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 16:24:08+00:00
- - tags: None
 
 <figure>
       <img alt="Kathy Hochul stands with her arms spread wide." src="https://cdn.vox-cdn.com/thumbor/3HkxC-JvX7ZKDyUSZMoxH7uViL8=/0x0:3500x2333/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71666341/1244631980.0.jpg" />
@@ -359,7 +339,6 @@
  - [https://www.theverge.com/2022/11/23/23475192/keychron-s1-wired-mechanical-keyboard-price-news-features-gateron-switches](https://www.theverge.com/2022/11/23/23475192/keychron-s1-wired-mechanical-keyboard-price-news-features-gateron-switches)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 16:22:38+00:00
- - tags: None
 
 <figure>
       <img alt="Keychron S1 keyboard on a desk." src="https://cdn.vox-cdn.com/thumbor/hKEQ8qaalf6oBkQ62-66Epwp-MY=/0x0:2160x1440/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71666333/Keychron_s1_low_profile_qmk_keyboard_4.0.jpg" />
@@ -376,7 +355,6 @@
  - [https://www.theverge.com/2022/11/23/23474958/twitch-detecting-blocking-young-users-child-safety](https://www.theverge.com/2022/11/23/23474958/twitch-detecting-blocking-young-users-child-safety)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 16:19:39+00:00
- - tags: None
 
 <figure>
       <img alt="Twitch logo pink and purple backdrop" src="https://cdn.vox-cdn.com/thumbor/m2tsNAWZIXyLrDQV-2OeQaaaBRA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71666316/STK044_VRG_Illo_N_Barclay_1_twitch.0.jpg" />
@@ -393,7 +371,6 @@
  - [https://www.theverge.com/2022/11/23/23475134/apple-tv-4k-2021-sale-black-friday-cyber-monday-2022](https://www.theverge.com/2022/11/23/23475134/apple-tv-4k-2021-sale-black-friday-cyber-monday-2022)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 16:07:22+00:00
- - tags: None
 
 <figure>
       <img alt="An Apple TV from 2021 and its Siri Remote sit on top of a wooden entertainment center." src="https://cdn.vox-cdn.com/thumbor/D_QFwjG3aLVh0M8Zi7kJH389vIo=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71666252/DSCF3875_2.0.jpg" />
@@ -411,7 +388,6 @@
  - [https://www.theverge.com/23473828/gatorade-smart-gx-review-hydration-wearable](https://www.theverge.com/23473828/gatorade-smart-gx-review-hydration-wearable)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 15:00:00+00:00
- - tags: None
 
 <p>There’s some merit to the idea behind this smart bottle and sweat patch combo, but the execution is sorely lacking.</p>
   <p>
@@ -422,7 +398,6 @@
  - [https://www.theverge.com/23411834/travel-gift-guide-2022-pillows-bags-adapters-chargers-ideas-tech](https://www.theverge.com/23411834/travel-gift-guide-2022-pillows-bags-adapters-chargers-ideas-tech)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 15:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/kfmyWeCF6WjDm4MFbxh-uajGm-g=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71665919/226333_HOLIDAYGIFTGUIDE_EPICKA_01_jgoldberg.0.jpg" />
@@ -439,7 +414,6 @@
  - [https://www.theverge.com/23474992/thanksgiving-meal-kitchen-gadgets-podcast-vergecast](https://www.theverge.com/23474992/thanksgiving-meal-kitchen-gadgets-podcast-vergecast)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 14:37:02+00:00
- - tags: None
 
 <figure>
       <img alt="An illustration featuring various kitchen appliances, including an air fryer " src="https://cdn.vox-cdn.com/thumbor/QMkVXYdJDsEz9drqMLRiyJvjEJo=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71665785/VRG_Kitchen_Gadgets_4046_Lede.0.0.jpg" />
@@ -456,7 +430,6 @@
  - [https://www.theverge.com/2022/11/23/23475009/netflix-aaa-pc-game-job-listing-project](https://www.theverge.com/2022/11/23/23475009/netflix-aaa-pc-game-job-listing-project)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 14:35:57+00:00
- - tags: None
 
 <figure>
       <img alt="Netflix logo illustration" src="https://cdn.vox-cdn.com/thumbor/Xwl7PJ9S_hF69LQl0v7lxRZ65-Y=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71665777/STK072_VRG_Illo_N_Barclay_2_netflix.0.jpg" />
@@ -473,7 +446,6 @@
  - [https://www.theverge.com/2022/11/23/23474969/mercedes-car-subscription-faster-acceleration-feature-price](https://www.theverge.com/2022/11/23/23474969/mercedes-car-subscription-faster-acceleration-feature-price)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 14:24:10+00:00
- - tags: None
 
 <figure>
       <img alt="A Mercedes-EQ EQE and Mercedes-EQ EQS on a beach. Wet sand is reflecting the cars and horizon." src="https://cdn.vox-cdn.com/thumbor/OGzUf9NkyKtMq4HNzr6s8qcx1AE=/159x0:1887x1152/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71665704/en_pdp_gallery_accelerationincrease.0.jpg" />
@@ -490,7 +462,6 @@
  - [https://www.theverge.com/23472968/elephant-card-continuity-camara-mount-review-price](https://www.theverge.com/23472968/elephant-card-continuity-camara-mount-review-price)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 13:55:10+00:00
- - tags: None
 
 <p>The Elephant Card supports your iPhone for use as a full-featured Mac webcam. It costs less than $10 and folds up flat to easily fit into a pocket or wallet.</p>
   <p>
@@ -501,7 +472,6 @@
  - [https://www.theverge.com/2022/11/23/23474090/smartphone-next-big-thing-ar-vr-metaverse-alexa](https://www.theverge.com/2022/11/23/23474090/smartphone-next-big-thing-ar-vr-metaverse-alexa)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 13:30:00+00:00
- - tags: None
 
 <figure>
       <img alt="iPhone 14 Pro and 14 Pro Max on a backdrop of colorful bouncy balls." src="https://cdn.vox-cdn.com/thumbor/n6Z1QxtHNkQ4WP0nQ0KnQKxNpKo=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71665486/226270_iPHONE_14_PHO_akrales_0685.0.jpg" />
@@ -518,7 +488,6 @@
  - [https://www.theverge.com/22954554/best-video-doorbell-camera](https://www.theverge.com/22954554/best-video-doorbell-camera)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 13:09:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/sxSidjIZg78EqJRBlKmHTpPiwcA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/70564714/VRG_ILLO_5012_K_Radtke_Doorbell_Buying_Guide.0.jpg" />
@@ -535,7 +504,6 @@
  - [https://www.theverge.com/2022/11/23/23474864/aqara-cube-t1-pro-controller-apple-home-price-release-date](https://www.theverge.com/2022/11/23/23474864/aqara-cube-t1-pro-controller-apple-home-price-release-date)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 13:08:35+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/fe4HUTK0wGZ0axApoXUcO-88CVA=/0x0:6720x4480/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71665412/Cube_T1_Pro_3.0.jpg" />
@@ -552,7 +520,6 @@
  - [https://www.theverge.com/23473181/google-nest-wifi-pro-review](https://www.theverge.com/23473181/google-nest-wifi-pro-review)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 13:00:00+00:00
- - tags: None
 
 <p>A big upgrade over its predecessors, Google’s Nest Wifi Pro adds Wi-Fi 6 and 6E, bringing faster speeds, and improved reliability. It’s not a ‘Pro’ router — for top throughput, look elsewhere — but it packs a lot into an affordable package.</p>
   <p>
@@ -563,7 +530,6 @@
  - [https://www.theverge.com/2022/11/23/23474868/foxconn-iphone-factory-protest-riot-covid-lockdown](https://www.theverge.com/2022/11/23/23474868/foxconn-iphone-factory-protest-riot-covid-lockdown)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 11:22:23+00:00
- - tags: None
 
 <figure>
       <img alt="A uniformed police officer watches as a crowd of people in hazmat suits kick a down person during protests at the Foxconn iPhone factory in&amp;nbsp;Zhengzhou, central China." src="https://cdn.vox-cdn.com/thumbor/5u-3UAZ8zU4_gcNNuLZaxVIo5XA=/149x0:3092x1962/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71665104/Foxconn_protest.0.jpg" />
@@ -585,7 +551,6 @@
  - [https://www.theverge.com/2022/11/23/23474840/november-23-2022-tech-news-liveblog](https://www.theverge.com/2022/11/23/23474840/november-23-2022-tech-news-liveblog)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 10:16:16+00:00
- - tags: None
 
 <figure>
       <img alt="Honor Magic VS in cyan." src="https://cdn.vox-cdn.com/thumbor/wFZ7CwPWk4fw9XysJP0s062Mfto=/1x0:1086x723/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71664979/PRODUCT_PHOTO_Cyan_Half_Fold_Rear.0.jpg" />
@@ -601,7 +566,6 @@
  - [https://www.theverge.com/2022/11/23/23474820/honors-magic-vs-price-release-date-features-foldable-smartphone](https://www.theverge.com/2022/11/23/23474820/honors-magic-vs-price-release-date-features-foldable-smartphone)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 09:19:48+00:00
- - tags: None
 
 <figure>
       <img alt="Five Honor foldable phones in a row." src="https://cdn.vox-cdn.com/thumbor/rOKgVZcfYXJ-kVTmpVskHZG5sew=/2x0:2987x1990/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71664931/HONOR_Magic_Vs_Scenario_photo.0.jpg" />
@@ -618,7 +582,6 @@
  - [https://www.theverge.com/2022/11/22/23474381/elon-musk-twitter-moderation-council-activist-promise](https://www.theverge.com/2022/11/22/23474381/elon-musk-twitter-moderation-council-activist-promise)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 01:27:44+00:00
- - tags: None
 
 <figure>
       <img alt="Elon Musk gives a thumbs up while smiley faces melt in the background" src="https://cdn.vox-cdn.com/thumbor/rQoztH-jp0qCR03M28RNqt7GGbw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71664211/VRG_Illo_STK022_K_Radtke_Musk_Smiles.0.jpg" />
@@ -639,7 +602,6 @@
  - [https://www.theverge.com/2022/11/22/23474317/deus-ex-go-embracer-onoma-square-enix-shutting-down](https://www.theverge.com/2022/11/22/23474317/deus-ex-go-embracer-onoma-square-enix-shutting-down)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-23 00:57:25+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/ZjfrzYGdaunXfIQEGVuQbxcmRfo=/100x0:1180x720/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71664159/maxresdefault.0.jpg" />

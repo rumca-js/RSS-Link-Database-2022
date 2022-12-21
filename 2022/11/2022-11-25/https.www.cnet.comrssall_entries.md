@@ -1,10 +1,9 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/
+# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
 
 ## If You Love To Read, Grab the Kindle Paperwhite Black Friday Deal Right Now     - CNET
  - [https://www.cnet.com/tech/computing/if-you-love-to-read-grab-the-kindle-paperwhite-black-friday-deal-right-now/#ftag=CADf328eec](https://www.cnet.com/tech/computing/if-you-love-to-read-grab-the-kindle-paperwhite-black-friday-deal-right-now/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 23:58:26+00:00
- - tags: None
 
 The Kindle Paperwhite is one of the best e-readers available and is now at an all-time low of $95.
 
@@ -12,7 +11,6 @@ The Kindle Paperwhite is one of the best e-readers available and is now at an al
  - [https://www.cnet.com/deals/limited-time-black-friday-deal-drops-the-amazon-echo-show-5-to-its-lowest-price-ever/#ftag=CADf328eec](https://www.cnet.com/deals/limited-time-black-friday-deal-drops-the-amazon-echo-show-5-to-its-lowest-price-ever/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 23:52:08+00:00
- - tags: None
 
 If you want Alexa in your house, Amazon's Echo Show 5 is only $35 during Black Friday.
 
@@ -20,7 +18,6 @@ If you want Alexa in your house, Amazon's Echo Show 5 is only $35 during Black F
  - [https://www.cnet.com/tech/spin-the-wheel-to-win-20-in-amazon-credit-for-black-friday/#ftag=CADf328eec](https://www.cnet.com/tech/spin-the-wheel-to-win-20-in-amazon-credit-for-black-friday/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 23:43:22+00:00
- - tags: None
 
 Amazon's new Spin & Win game gives you the chance to save money on your purchases.
 
@@ -28,7 +25,6 @@ Amazon's new Spin & Win game gives you the chance to save money on your purchase
  - [https://www.cnet.com/deals/5-black-friday-splurges-high-cost-items-worth-the/#ftag=CADf328eec](https://www.cnet.com/deals/5-black-friday-splurges-high-cost-items-worth-the/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 23:02:00+00:00
- - tags: None
 
 Spoil your loved ones (or yourself) with these luxury products -- currently discounted for Black Friday.
 
@@ -36,7 +32,6 @@ Spoil your loved ones (or yourself) with these luxury products -- currently disc
  - [https://www.cnet.com/deals/escape-into-a-meta-quest-2-and-save-50-on-this-black-friday-bundle/#ftag=CADf328eec](https://www.cnet.com/deals/escape-into-a-meta-quest-2-and-save-50-on-this-black-friday-bundle/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 22:52:00+00:00
- - tags: None
 
 One of the best Black Friday VR deals we've seen bundles the Meta Quest 2 with Beat Saber and Resident Evil 4.
 
@@ -44,7 +39,6 @@ One of the best Black Friday VR deals we've seen bundles the Meta Quest 2 with B
  - [https://www.cnet.com/deals/apple-airtags-just-got-a-huge-black-friday-price-drop/#ftag=CADf328eec](https://www.cnet.com/deals/apple-airtags-just-got-a-huge-black-friday-price-drop/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 22:34:05+00:00
- - tags: None
 
 You can get an Apple AirTag 4-pack for only $80 during Black Friday.
 
@@ -52,7 +46,6 @@ You can get an Apple AirTag 4-pack for only $80 during Black Friday.
  - [https://www.cnet.com/health/nutrition/cheapest-meal-delivery-service/#ftag=CADf328eec](https://www.cnet.com/health/nutrition/cheapest-meal-delivery-service/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 22:30:03+00:00
- - tags: None
 
 Save your time and money with meal kits and prepared meal deliveries. Here are our top picks.
 
@@ -60,7 +53,6 @@ Save your time and money with meal kits and prepared meal deliveries. Here are o
  - [https://www.cnet.com/deals/kohls-beats-amazon-with-thse-10-black-friday-deals/#ftag=CADf328eec](https://www.cnet.com/deals/kohls-beats-amazon-with-thse-10-black-friday-deals/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 22:18:00+00:00
- - tags: None
 
 These gifts are extra cheap at Kohl's today.
 
@@ -68,7 +60,6 @@ These gifts are extra cheap at Kohl's today.
  - [https://www.cnet.com/news/politics/fcc-bans-huawei-and-zte-gear-over-national-security-risk/#ftag=CADf328eec](https://www.cnet.com/news/politics/fcc-bans-huawei-and-zte-gear-over-national-security-risk/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 22:16:00+00:00
- - tags: None
 
 This comes after FCC commissioner Brendan Carr reiterated earlier this month that Congress should ban TikTok over its ties to the Chinese government.
 
@@ -76,7 +67,6 @@ This comes after FCC commissioner Brendan Carr reiterated earlier this month tha
  - [https://www.cnet.com/deals/black-friday-tv-deals-roku-samsung-lg-sony-vizio/#ftag=CADf328eec](https://www.cnet.com/deals/black-friday-tv-deals-roku-samsung-lg-sony-vizio/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 21:28:17+00:00
- - tags: None
 
 Black Friday deals are still available and it's a great time to snag a huge TV discount from Amazon, Best Buy or elsewhere.
 
@@ -84,7 +74,6 @@ Black Friday deals are still available and it's a great time to snag a huge TV d
  - [https://www.cnet.com/culture/entertainment/guardians-of-the-galaxy-holiday-special-review-festive-fun-disne-plus/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/guardians-of-the-galaxy-holiday-special-review-festive-fun-disne-plus/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 21:23:26+00:00
- - tags: None
 
 Marvel and James Gunn unwrap this Disney Plus mini-film starring Chris Pratt, Dave Bautista, Pom Klementieff and a kidnapped Kevin Bacon.
 
@@ -92,7 +81,6 @@ Marvel and James Gunn unwrap this Disney Plus mini-film starring Chris Pratt, Da
  - [https://www.cnet.com/culture/entertainment/guardians-of-the-galaxy-holiday-special-review-festive-fun-disney-plus/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/guardians-of-the-galaxy-holiday-special-review-festive-fun-disney-plus/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 21:23:00+00:00
- - tags: None
 
 Marvel and James Gunn unwrap this Disney Plus mini-film starring Chris Pratt, Dave Bautista, Pom Klementieff and a kidnapped Kevin Bacon.
 
@@ -100,7 +88,6 @@ Marvel and James Gunn unwrap this Disney Plus mini-film starring Chris Pratt, Da
  - [https://www.cnet.com/deals/star-wars-squadrons-is-free-at-epic-games-store/#ftag=CADf328eec](https://www.cnet.com/deals/star-wars-squadrons-is-free-at-epic-games-store/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 21:12:00+00:00
- - tags: None
 
 Fire up those engines, R2, you can't argue with a free game on Black Friday.
 
@@ -108,7 +95,6 @@ Fire up those engines, R2, you can't argue with a free game on Black Friday.
  - [https://www.cnet.com/deals/disneys-black-friday-sale-is-here-score-30-off-toys-clothing-and-more/#ftag=CADf328eec](https://www.cnet.com/deals/disneys-black-friday-sale-is-here-score-30-off-toys-clothing-and-more/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 20:53:00+00:00
- - tags: None
 
 If you've got a Disney lover on your list, this is the sale you don't want to miss.
 
@@ -116,7 +102,6 @@ If you've got a Disney lover on your list, this is the sale you don't want to mi
  - [https://www.cnet.com/deals/amazon-prices-cant-compare-to-these-11-walmart-black-friday-deals/#ftag=CADf328eec](https://www.cnet.com/deals/amazon-prices-cant-compare-to-these-11-walmart-black-friday-deals/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 20:50:00+00:00
- - tags: None
 
 Walmart has deals on a Keurig coffee maker, a Vizio TV and Rainbow High dolls that are all priced lower than at Amazon.
 
@@ -124,7 +109,6 @@ Walmart has deals on a Keurig coffee maker, a Vizio TV and Rainbow High dolls th
  - [https://www.cnet.com/roadshow/news/ford-recalls-more-than-500000-cars-over-fire-risk/#ftag=CADf328eec](https://www.cnet.com/roadshow/news/ford-recalls-more-than-500000-cars-over-fire-risk/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 20:47:00+00:00
- - tags: None
 
 This comes after Tesla issued a 322,000 vehicle recall earlier this week.
 
@@ -132,7 +116,6 @@ This comes after Tesla issued a 322,000 vehicle recall earlier this week.
  - [https://www.cnet.com/deals/black-friday-brings-some-of-the-best-beats-headphone-deals-yet/#ftag=CADf328eec](https://www.cnet.com/deals/black-friday-brings-some-of-the-best-beats-headphone-deals-yet/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 20:45:06+00:00
- - tags: None
 
 Some of the latest and greatest models are on sale, alongside some classic headphones, too.
 
@@ -140,7 +123,6 @@ Some of the latest and greatest models are on sale, alongside some classic headp
  - [https://www.cnet.com/culture/entertainment/best-new-christmas-movies-to-watch-tonight/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/best-new-christmas-movies-to-watch-tonight/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 20:15:02+00:00
- - tags: None
 
 Your guide to the best holiday movies hitting theaters and Netflix, Apple TV Plus and other streamers this year.
 
@@ -148,7 +130,6 @@ Your guide to the best holiday movies hitting theaters and Netflix, Apple TV Plu
  - [https://www.cnet.com/culture/entertainment/the-wonder-on-netflix-that-ending-explained-and-your-questions-answered/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-wonder-on-netflix-that-ending-explained-and-your-questions-answered/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 20:10:02+00:00
- - tags: None
 
 The psychological period drama starring Florence Pugh has a fairly unconventional beginning and ending.
 
@@ -156,7 +137,6 @@ The psychological period drama starring Florence Pugh has a fairly unconventiona
  - [https://www.cnet.com/culture/entertainment/the-english-on-prime-video-the-ending-explained-and-your-questions-answered/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-english-on-prime-video-the-ending-explained-and-your-questions-answered/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 20:05:02+00:00
- - tags: None
 
 The Prime Video Western is a triumph, but a few parts of its narrative aren't explained in detail. Let's discuss in full-on spoiler territory.
 
@@ -164,7 +144,6 @@ The Prime Video Western is a triumph, but a few parts of its narrative aren't ex
  - [https://www.cnet.com/tech/mobile/please-dont-forget-to-clear-your-iphone-cache/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/please-dont-forget-to-clear-your-iphone-cache/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 20:02:02+00:00
- - tags: None
 
 This simple reset could speed up your web browsing.
 
@@ -172,7 +151,6 @@ This simple reset could speed up your web browsing.
  - [https://www.cnet.com/deals/black-friday-nintendo-switch-bundle-includes-mario-kart-8-deluxe-and-more-for-299/#ftag=CADf328eec](https://www.cnet.com/deals/black-friday-nintendo-switch-bundle-includes-mario-kart-8-deluxe-and-more-for-299/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 20:01:44+00:00
- - tags: None
 
 A perfect gift for a gamer who doesn't have a Switch yet.
 
@@ -180,7 +158,6 @@ A perfect gift for a gamer who doesn't have a Switch yet.
  - [https://www.cnet.com/deals/amazons-just-giving-away-smart-bulbs-now/#ftag=CADf328eec](https://www.cnet.com/deals/amazons-just-giving-away-smart-bulbs-now/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 20:00:07+00:00
- - tags: None
 
 Amazon's Black Friday deal scores you two free Philips smart bulbs when you buy a smart speaker.
 
@@ -188,7 +165,6 @@ Amazon's Black Friday deal scores you two free Philips smart bulbs when you buy 
  - [https://www.cnet.com/deals/this-50-off-oura-ring-smart-wearable-black-friday-deal-ends-soon/#ftag=CADf328eec](https://www.cnet.com/deals/this-50-off-oura-ring-smart-wearable-black-friday-deal-ends-soon/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 20:00:00+00:00
- - tags: None
 
 The Gen 3 Oura Ring looks like a normal ring, but provides various health tracking features.
 
@@ -196,7 +172,6 @@ The Gen 3 Oura Ring looks like a normal ring, but provides various health tracki
  - [https://www.cnet.com/deals/this-270-ipad-black-friday-deal-wont-last-all-weekend/#ftag=CADf328eec](https://www.cnet.com/deals/this-270-ipad-black-friday-deal-wont-last-all-weekend/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 19:00:15+00:00
- - tags: None
 
 This Black Friday iPad deal is almost an all-time-low price.
 
@@ -204,7 +179,6 @@ This Black Friday iPad deal is almost an all-time-low price.
  - [https://www.cnet.com/deals/forget-amazon-kohls-has-way-better-black-friday-deals-on-these-10-gifts/#ftag=CADf328eec](https://www.cnet.com/deals/forget-amazon-kohls-has-way-better-black-friday-deals-on-these-10-gifts/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 18:26:00+00:00
- - tags: None
 
 You can't find these deals on Amazon.
 
@@ -212,7 +186,6 @@ You can't find these deals on Amazon.
  - [https://www.cnet.com/deals/save-25-on-olipops-tasty-alternative-to-sugary-sodas-this-black-friday/#ftag=CADf328eec](https://www.cnet.com/deals/save-25-on-olipops-tasty-alternative-to-sugary-sodas-this-black-friday/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 18:15:18+00:00
- - tags: None
 
 Sparkling tonic Olipop is taking 25% off its beverages on Black Friday.
 
@@ -220,7 +193,6 @@ Sparkling tonic Olipop is taking 25% off its beverages on Black Friday.
  - [https://www.cnet.com/deals/the-viral-revlon-hot-air-brush-has-never-been-cheaper-than-today-19-dollars-target/#ftag=CADf328eec](https://www.cnet.com/deals/the-viral-revlon-hot-air-brush-has-never-been-cheaper-than-today-19-dollars-target/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 17:41:07+00:00
- - tags: None
 
 I recommend this thing to everyone, and it's only $19 at Target for Black Friday.
 
@@ -228,7 +200,6 @@ I recommend this thing to everyone, and it's only $19 at Target for Black Friday
  - [https://www.cnet.com/deals/amazon-is-offering-up-to-30-off-peloton-accessories-during-its-black-friday-sale/#ftag=CADf328eec](https://www.cnet.com/deals/amazon-is-offering-up-to-30-off-peloton-accessories-during-its-black-friday-sale/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 17:29:27+00:00
- - tags: None
 
 Find bike shoes, bike mats, dumb bells and other Peloton accessories discounted on Amazon on Black Friday.
 
@@ -236,7 +207,6 @@ Find bike shoes, bike mats, dumb bells and other Peloton accessories discounted 
  - [https://www.cnet.com/deals/10-black-friday-deals-that-are-at-historic-low-prices-right-now/#ftag=CADf328eec](https://www.cnet.com/deals/10-black-friday-deals-that-are-at-historic-low-prices-right-now/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 17:02:00+00:00
- - tags: None
 
 These Black Friday deals aren't just good -- they're the best ever.
 
@@ -244,7 +214,6 @@ These Black Friday deals aren't just good -- they're the best ever.
  - [https://www.cnet.com/deals/amazons-echo-show-5-is-at-its-lowest-price-ever/#ftag=CADf328eec](https://www.cnet.com/deals/amazons-echo-show-5-is-at-its-lowest-price-ever/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 17:00:02+00:00
- - tags: None
 
 Black Friday discounts mean you can pick the smart display up with a huge $50 saving.
 
@@ -252,7 +221,6 @@ Black Friday discounts mean you can pick the smart display up with a huge $50 sa
  - [https://www.cnet.com/deals/nutribullets-immersion-blender-is-21-for-black-friday-and-makes-cooking-so-much-easier/#ftag=CADf328eec](https://www.cnet.com/deals/nutribullets-immersion-blender-is-21-for-black-friday-and-makes-cooking-so-much-easier/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 16:54:00+00:00
- - tags: None
 
 It's simple, it's powerful and right now it's $18 off.
 
@@ -260,7 +228,6 @@ It's simple, it's powerful and right now it's $18 off.
  - [https://www.cnet.com/deals/my-favorite-vitamix-blender-is-almost-half-off-for-black-friday/#ftag=CADf328eec](https://www.cnet.com/deals/my-favorite-vitamix-blender-is-almost-half-off-for-black-friday/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 16:50:00+00:00
- - tags: None
 
 This Vitamin 5200 blender is almost never at this low of a price. Get it before it's gone.
 
@@ -268,7 +235,6 @@ This Vitamin 5200 blender is almost never at this low of a price. Get it before 
  - [https://www.cnet.com/deals/score-25-off-select-cratejoy-subscription-boxes-today/#ftag=CADf328eec](https://www.cnet.com/deals/score-25-off-select-cratejoy-subscription-boxes-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 16:43:03+00:00
- - tags: None
 
 Learn something new, read and even eat tasty treats monthly using this Black Friday sale.
 
@@ -276,7 +242,6 @@ Learn something new, read and even eat tasty treats monthly using this Black Fri
  - [https://www.cnet.com/deals/wellbots-black-friday-sale-has-slashed-prices-on-portable-power-stations/#ftag=CADf328eec](https://www.cnet.com/deals/wellbots-black-friday-sale-has-slashed-prices-on-portable-power-stations/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 16:42:06+00:00
- - tags: None
 
 Massive discounts on Jackery, Ecoflow, Zendure and more.
 
@@ -284,7 +249,6 @@ Massive discounts on Jackery, Ecoflow, Zendure and more.
  - [https://www.cnet.com/deals/shop-sustainably-for-less-with-up-to-60-off-this-clothing-brand/#ftag=CADf328eec](https://www.cnet.com/deals/shop-sustainably-for-less-with-up-to-60-off-this-clothing-brand/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 16:39:29+00:00
- - tags: None
 
 Shopping Happy Earth won't just make your bank account happy, but Mother Nature too.
 
@@ -292,7 +256,6 @@ Shopping Happy Earth won't just make your bank account happy, but Mother Nature 
  - [https://www.cnet.com/tech/services-and-software/watch-usa-vs-england-world-cup-2022-match-from-anywhere/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/watch-usa-vs-england-world-cup-2022-match-from-anywhere/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 16:30:02+00:00
- - tags: None
 
 On Black Friday, the two favorites in Group B face off in one of the most anticipated early matches of the tournament.
 
@@ -300,7 +263,6 @@ On Black Friday, the two favorites in Group B face off in one of the most antici
  - [https://www.cnet.com/deals/meta-quest-2-bundle-50-off-deal-black-friday/#ftag=CADf328eec](https://www.cnet.com/deals/meta-quest-2-bundle-50-off-deal-black-friday/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 16:15:03+00:00
- - tags: None
 
 The best VR headset has Beat Saber and Resident Evil 4 bundled -- and Black Friday savings make it the best price we've seen.
 
@@ -308,7 +270,6 @@ The best VR headset has Beat Saber and Resident Evil 4 bundled -- and Black Frid
  - [https://www.cnet.com/deals/black-friday-travel-deal-dollar-flight-club-subscription-two-pack/#ftag=CADf328eec](https://www.cnet.com/deals/black-friday-travel-deal-dollar-flight-club-subscription-two-pack/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 15:45:38+00:00
- - tags: None
 
 Two accounts, one great price. Save big with this Black Friday travel deal today.
 
@@ -316,7 +277,6 @@ Two accounts, one great price. Save big with this Black Friday travel deal today
  - [https://www.cnet.com/deals/show-up-in-style-this-holiday-with-35-off-a-rent-the-runway-membership/#ftag=CADf328eec](https://www.cnet.com/deals/show-up-in-style-this-holiday-with-35-off-a-rent-the-runway-membership/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 15:40:26+00:00
- - tags: None
 
 Give the gift of designer fashion at discount prices this year with a Rent the Runway membership.
 
@@ -324,7 +284,6 @@ Give the gift of designer fashion at discount prices this year with a Rent the R
  - [https://www.cnet.com/tech/heres-how-to-keep-your-purchases-a-secret-while-buying-gifts-on-black-friday/#ftag=CADf328eec](https://www.cnet.com/tech/heres-how-to-keep-your-purchases-a-secret-while-buying-gifts-on-black-friday/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 15:29:00+00:00
- - tags: None
 
 Hide your purchases from the other people who use your Amazon Prime account to keep them from seeing what you've bought.
 
@@ -332,7 +291,6 @@ Hide your purchases from the other people who use your Amazon Prime account to k
  - [https://www.cnet.com/deals/get-up-to-250-off-gaming-chairs-during-vertagears-black-friday-sale/#ftag=CADf328eec](https://www.cnet.com/deals/get-up-to-250-off-gaming-chairs-during-vertagears-black-friday-sale/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 15:20:35+00:00
- - tags: None
 
 Say goodbye to a bad back with chairs designed to support everyone.
 
@@ -340,7 +298,6 @@ Say goodbye to a bad back with chairs designed to support everyone.
  - [https://www.cnet.com/health/nutrition/why-you-should-take-elderberry-this-flu-season/#ftag=CADf328eec](https://www.cnet.com/health/nutrition/why-you-should-take-elderberry-this-flu-season/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 15:00:02+00:00
- - tags: None
 
 Protect yourself this cold season with this delicious, dark purple berry.
 
@@ -348,7 +305,6 @@ Protect yourself this cold season with this delicious, dark purple berry.
  - [https://www.cnet.com/deals/take-40-off-sitewide-with-black-friday-deals-at-speck/#ftag=CADf328eec](https://www.cnet.com/deals/take-40-off-sitewide-with-black-friday-deals-at-speck/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 14:37:58+00:00
- - tags: None
 
 Protect your Black Friday splurges with new phone cases, screen protectors and more for less.
 
@@ -356,7 +312,6 @@ Protect your Black Friday splurges with new phone cases, screen protectors and m
  - [https://www.cnet.com/deals/run-away-with-35-off-brooks-ghost-14-shoes/#ftag=CADf328eec](https://www.cnet.com/deals/run-away-with-35-off-brooks-ghost-14-shoes/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 14:27:31+00:00
- - tags: None
 
 Don't miss 35% off of the best running shoes on the market.
 
@@ -364,7 +319,6 @@ Don't miss 35% off of the best running shoes on the market.
  - [https://www.cnet.com/deals/save-up-to-30-on-elgato-gear-and-turn-your-office-into-the-ultimate-gaming-space/#ftag=CADf328eec](https://www.cnet.com/deals/save-up-to-30-on-elgato-gear-and-turn-your-office-into-the-ultimate-gaming-space/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 14:24:19+00:00
- - tags: None
 
 Look and sound great online using this high-quality gear from my favorite brand.
 
@@ -372,7 +326,6 @@ Look and sound great online using this high-quality gear from my favorite brand.
  - [https://www.cnet.com/deals/dont-miss-beis-only-sale-of-the-year/#ftag=CADf328eec](https://www.cnet.com/deals/dont-miss-beis-only-sale-of-the-year/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 14:02:00+00:00
- - tags: None
 
 Shop 25% off today only at Béis. Trust me, this is a sale you don't want to miss.
 
@@ -380,7 +333,6 @@ Shop 25% off today only at Béis. Trust me, this is a sale you don't want to mis
  - [https://www.cnet.com/deals/apple-airtags-are-never-this-cheap-4-for-80-on-black-friday-2022/#ftag=CADf328eec](https://www.cnet.com/deals/apple-airtags-are-never-this-cheap-4-for-80-on-black-friday-2022/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 14:00:20+00:00
- - tags: None
 
 Looking to stock up on Apple's wireless tracking gadgets? Now's the time.
 
@@ -388,7 +340,6 @@ Looking to stock up on Apple's wireless tracking gadgets? Now's the time.
  - [https://www.cnet.com/personal-finance/mortgages/current-mortgage-rates-for-nov-25-2022-rates-fall/#ftag=CADf328eec](https://www.cnet.com/personal-finance/mortgages/current-mortgage-rates-for-nov-25-2022-rates-fall/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 14:00:00+00:00
- - tags: None
 
 Some notable mortgage rates moved down this week, though rates are generally expected to rise this year. See how the Fed's interest rate hikes could affect your mortgage payments.
 
@@ -396,7 +347,6 @@ Some notable mortgage rates moved down this week, though rates are generally exp
  - [https://www.cnet.com/personal-finance/mortgages/current-refinance-rates-on-nov-25-2022-rates-tick-lower/#ftag=CADf328eec](https://www.cnet.com/personal-finance/mortgages/current-refinance-rates-on-nov-25-2022-rates-tick-lower/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 14:00:00+00:00
- - tags: None
 
 Several important refinance rates dropped over the last week. If you haven't locked in a rate yet, now's a good time to assess your options.
 
@@ -404,7 +354,6 @@ Several important refinance rates dropped over the last week. If you haven't loc
  - [https://www.cnet.com/tech/mobile/give-the-gift-of-premium-sound-with-boses-quietcomfort-earbuds-2/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/give-the-gift-of-premium-sound-with-boses-quietcomfort-earbuds-2/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 14:00:00+00:00
- - tags: None
 
 Supreme comfort and the best noise-canceling technology around make these earbuds an awesome gift.
 
@@ -412,7 +361,6 @@ Supreme comfort and the best noise-canceling technology around make these earbud
  - [https://www.cnet.com/personal-finance/heres-where-to-get-free-food-and-deals-while-you-shop-on-black-friday-2022/#ftag=CADf328eec](https://www.cnet.com/personal-finance/heres-where-to-get-free-food-and-deals-while-you-shop-on-black-friday-2022/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 13:50:00+00:00
- - tags: None
 
 Chains like Taco Bell, Dunkin' Donuts and Popeyes all have exclusive deals on Black Friday so you won't go hungry while you shop.
 
@@ -420,7 +368,6 @@ Chains like Taco Bell, Dunkin' Donuts and Popeyes all have exclusive deals on Bl
  - [https://www.cnet.com/tech/services-and-software/is-amazon-overcharging-you-legal-wars-are-waging-to-prove-it/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/is-amazon-overcharging-you-legal-wars-are-waging-to-prove-it/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 13:00:13+00:00
- - tags: None
 
 The e-commerce giant is again touting discounts for Black Friday, but regulators claim Amazon's rules make online shopping more expensive.
 
@@ -428,7 +375,6 @@ The e-commerce giant is again touting discounts for Black Friday, but regulators
  - [https://www.cnet.com/health/fitness/heart-health-this-is-a-normal-heart-rate-and-four-ways-to-measure-it/#ftag=CADf328eec](https://www.cnet.com/health/fitness/heart-health-this-is-a-normal-heart-rate-and-four-ways-to-measure-it/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 13:00:06+00:00
- - tags: None
 
 When's the last time you measured your own pulse?
 
@@ -436,7 +382,6 @@ When's the last time you measured your own pulse?
  - [https://www.cnet.com/tech/gaming/spongebob-solitairepants-brings-nautical-card-play-to-apple-arcade/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/spongebob-solitairepants-brings-nautical-card-play-to-apple-arcade/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 13:00:02+00:00
- - tags: None
 
 Apple Arcade subscribers can check out the new game today.
 
@@ -444,7 +389,6 @@ Apple Arcade subscribers can check out the new game today.
  - [https://www.cnet.com/deals/ancestrydna-kits-are-just-49-for-black-friday/#ftag=CADf328eec](https://www.cnet.com/deals/ancestrydna-kits-are-just-49-for-black-friday/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 12:55:00+00:00
- - tags: None
 
 This popular DNA test kit can be had at a healthy discount during Black Friday and makes a great gift for the holidays.
 
@@ -452,7 +396,6 @@ This popular DNA test kit can be had at a healthy discount during Black Friday a
  - [https://www.cnet.com/tech/services-and-software/want-to-shop-more-sustainably-on-black-friday-try-these-10-eco-friendly-brands/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/want-to-shop-more-sustainably-on-black-friday-try-these-10-eco-friendly-brands/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 12:30:03+00:00
- - tags: None
 
 Try these brands for a greener holiday shopping experience.
 
@@ -460,7 +403,6 @@ Try these brands for a greener holiday shopping experience.
  - [https://www.cnet.com/deals/black-friday-makes-my-favorite-15-6-inch-portable-monitor-just-130-for-prime-members/#ftag=CADf328eec](https://www.cnet.com/deals/black-friday-makes-my-favorite-15-6-inch-portable-monitor-just-130-for-prime-members/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 12:11:00+00:00
- - tags: None
 
 This second screen is the perfect accessory to take with you on the go -- and right now it's $50 less with a Prime Member exclusive Black Friday deal.
 
@@ -468,7 +410,6 @@ This second screen is the perfect accessory to take with you on the go -- and ri
  - [https://www.cnet.com/tech/computing/hp-pavilion-14-2022-review/#ftag=CADf328eec](https://www.cnet.com/tech/computing/hp-pavilion-14-2022-review/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 12:00:13+00:00
- - tags: None
 
 With lots of configuration options and a nice-looking, lightweight design, the HP Pavilion 14 is a bargain.
 
@@ -476,7 +417,6 @@ With lots of configuration options and a nice-looking, lightweight design, the H
  - [https://www.cnet.com/tech/mobile/your-old-tech-doesnt-belong-in-the-trash-how-to-recycle-outdated-gadgets-for-free/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/your-old-tech-doesnt-belong-in-the-trash-how-to-recycle-outdated-gadgets-for-free/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 12:00:06+00:00
- - tags: None
 
 Upgraded to a new device on Black Friday? Don't throw your old gadget away. Here's what to do instead.
 
@@ -484,7 +424,6 @@ Upgraded to a new device on Black Friday? Don't throw your old gadget away. Here
  - [https://www.cnet.com/tech/mobile/samsung-galaxy-s22-vs-galaxy-s21-fe-how-to-decide/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/samsung-galaxy-s22-vs-galaxy-s21-fe-how-to-decide/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 12:00:02+00:00
- - tags: None
 
 The Galaxy S22 is smaller and has a better camera, while the Galaxy S21 FE has a larger screen and a sharper selfie camera.
 
@@ -492,7 +431,6 @@ The Galaxy S22 is smaller and has a better camera, while the Galaxy S21 FE has a
  - [https://www.cnet.com/deals/even-black-friday-haters-are-jumping-on-this-deal/#ftag=CADf328eec](https://www.cnet.com/deals/even-black-friday-haters-are-jumping-on-this-deal/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 11:04:15+00:00
- - tags: None
 
 Honestly, it's surprising that this is still even in stock.
 
@@ -500,7 +438,6 @@ Honestly, it's surprising that this is still even in stock.
  - [https://www.cnet.com/deals/nomad-is-offering-30-off-your-favorite-tech-accessories-during-its-black-friday-sale/#ftag=CADf328eec](https://www.cnet.com/deals/nomad-is-offering-30-off-your-favorite-tech-accessories-during-its-black-friday-sale/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 10:57:46+00:00
- - tags: None
 
 Sitewide discounts on everything, including phone cases, screen protectors, smartwatch bands, wireless chargers, wallets and more.
 
@@ -508,7 +445,6 @@ Sitewide discounts on everything, including phone cases, screen protectors, smar
  - [https://www.cnet.com/deals/best-black-friday-deals-2022-live-updates/#ftag=CADf328eec](https://www.cnet.com/deals/best-black-friday-deals-2022-live-updates/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 10:39:54+00:00
- - tags: None
 
 Black Friday is officially here and so are all the best Black Friday deals. Check them all out now.
 
@@ -516,7 +452,6 @@ Black Friday is officially here and so are all the best Black Friday deals. Chec
  - [https://www.cnet.com/deals/woot-has-nintendo-switch-consoles-starting-at-all-time-low-of-268-during-black-friday-deal/#ftag=CADf328eec](https://www.cnet.com/deals/woot-has-nintendo-switch-consoles-starting-at-all-time-low-of-268-during-black-friday-deal/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 10:28:14+00:00
- - tags: None
 
 The original Switch model, along with the OLED version and a couple of special editions are on sale now -- but they won't last long.
 
@@ -524,7 +459,6 @@ The original Switch model, along with the OLED version and a couple of special e
  - [https://www.cnet.com/deals/chamberlain-myq-deal-black-friday/#ftag=CADf328eec](https://www.cnet.com/deals/chamberlain-myq-deal-black-friday/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 09:44:00+00:00
- - tags: None
 
 The MyQ Smart Garage Control is down to just $17 right now, a match of its lowest price ever.
 
@@ -532,7 +466,6 @@ The MyQ Smart Garage Control is down to just $17 right now, a match of its lowes
  - [https://www.cnet.com/culture/black-friday-store-hours-2022-when-do-target-walmart-best-buy-and-more-open/#ftag=CADf328eec](https://www.cnet.com/culture/black-friday-store-hours-2022-when-do-target-walmart-best-buy-and-more-open/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 09:00:07+00:00
- - tags: None
 
 Black Friday is expected to attract nearly 115 million shoppers this year.
 
@@ -540,7 +473,6 @@ Black Friday is expected to attract nearly 115 million shoppers this year.
  - [https://www.cnet.com/tech/mobile/my-favorite-magsafe-accessory-is-on-sale-for-black-friday-but-theres-a-catch/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/my-favorite-magsafe-accessory-is-on-sale-for-black-friday-but-theres-a-catch/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 08:52:00+00:00
- - tags: None
 
 I'm a fan of Clckr's newest Stand and Grip accessory, which is 20% off for Black Friday and Cyber Monday. But you have to buy two to get a deal.
 
@@ -548,7 +480,6 @@ I'm a fan of Clckr's newest Stand and Grip accessory, which is 20% off for Black
  - [https://www.cnet.com/culture/entertainment/andor-ending-explained-full-recap-of-the-epic-season-finale/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/andor-ending-explained-full-recap-of-the-epic-season-finale/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 04:26:00+00:00
- - tags: None
 
 Let's talk about Andor's explosive final episode.
 
@@ -556,7 +487,6 @@ Let's talk about Andor's explosive final episode.
  - [https://www.cnet.com/culture/entertainment/black-panther-wakanda-forever-post-credits-scene-and-marvel-hints-explained/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/black-panther-wakanda-forever-post-credits-scene-and-marvel-hints-explained/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 02:30:02+00:00
- - tags: None
 
 The 30th Marvel Cinematic Universe film finishes with a surprise that's sure to bring tears to your eyes. Read on for all the spoilers.
 
@@ -564,7 +494,6 @@ The 30th Marvel Cinematic Universe film finishes with a surprise that's sure to 
  - [https://www.cnet.com/personal-finance/6-tips-to-spend-smarter-and-avoid-debt-this-black-friday-and-cyber-monday/#ftag=CADf328eec](https://www.cnet.com/personal-finance/6-tips-to-spend-smarter-and-avoid-debt-this-black-friday-and-cyber-monday/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 02:00:02+00:00
- - tags: None
 
 Before you spend a dollar this holiday season, keep these money-savings tips in mind.
 
@@ -572,7 +501,6 @@ Before you spend a dollar this holiday season, keep these money-savings tips in 
  - [https://www.cnet.com/deals/the-echo-show-5-is-almost-never-this-cheap/#ftag=CADf328eec](https://www.cnet.com/deals/the-echo-show-5-is-almost-never-this-cheap/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 02:00:00+00:00
- - tags: None
 
 Save $50 on this smart display before it's sold out.
 
@@ -580,7 +508,6 @@ Save $50 on this smart display before it's sold out.
  - [https://www.cnet.com/deals/we-love-this-basic-ipad-and-its-super-cheap-for-black-friday/#ftag=CADf328eec](https://www.cnet.com/deals/we-love-this-basic-ipad-and-its-super-cheap-for-black-friday/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 01:56:23+00:00
- - tags: None
 
 This Black Friday deal on the ninth-gen iPad isn't likely to last all weekend.
 
@@ -588,7 +515,6 @@ This Black Friday deal on the ninth-gen iPad isn't likely to last all weekend.
  - [https://www.cnet.com/culture/internet/theres-one-clear-choice-for-the-oxford-word-of-the-year/#ftag=CADf328eec](https://www.cnet.com/culture/internet/theres-one-clear-choice-for-the-oxford-word-of-the-year/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 01:29:00+00:00
- - tags: None
 
 Vote for Goblin Mode.
 
@@ -596,7 +522,6 @@ Vote for Goblin Mode.
  - [https://www.cnet.com/deals/buy-an-echo-dot-with-clock-get-2-smart-bulbs-free/#ftag=CADf328eec](https://www.cnet.com/deals/buy-an-echo-dot-with-clock-get-2-smart-bulbs-free/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 01:13:02+00:00
- - tags: None
 
 When you buy one of Amazon's latest smart speakers, you'll get a two-pack of Philips smart lights for free with the Black Friday deal.
 
@@ -604,7 +529,6 @@ When you buy one of Amazon's latest smart speakers, you'll get a two-pack of Phi
  - [https://www.cnet.com/deals/the-echo-show-5-is-almost-never-on-this-good-of-a-sale/#ftag=CADf328eec](https://www.cnet.com/deals/the-echo-show-5-is-almost-never-on-this-good-of-a-sale/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 00:53:49+00:00
- - tags: None
 
 Save $50 on this smart display before it's sold out.
 
@@ -612,7 +536,6 @@ Save $50 on this smart display before it's sold out.
  - [https://www.cnet.com/deals/pixel-6a-for-299-is-one-of-the-best-black-friday-deals-out-right-now/#ftag=CADf328eec](https://www.cnet.com/deals/pixel-6a-for-299-is-one-of-the-best-black-friday-deals-out-right-now/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 00:45:02+00:00
- - tags: None
 
 Not only is the Pixel 6A $200 off right now -- if you're an Amazon Prime subscriber, you can also get free 2-day shipping.
 
@@ -620,7 +543,6 @@ Not only is the Pixel 6A $200 off right now -- if you're an Amazon Prime subscri
  - [https://www.cnet.com/deals/6-incredible-target-black-friday-deals-you-wont-find-at-amazon/#ftag=CADf328eec](https://www.cnet.com/deals/6-incredible-target-black-friday-deals-you-wont-find-at-amazon/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 00:34:00+00:00
- - tags: None
 
 Target has some amazing exclusive deals.
 
@@ -628,7 +550,6 @@ Target has some amazing exclusive deals.
  - [https://www.cnet.com/deals/14-black-friday-deals-to-snag-now-before-they-sell-out/#ftag=CADf328eec](https://www.cnet.com/deals/14-black-friday-deals-to-snag-now-before-they-sell-out/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 00:30:51+00:00
- - tags: None
 
 Check out these 14 Black Friday deals before they're gone.
 
@@ -636,6 +557,5 @@ Check out these 14 Black Friday deals before they're gone.
  - [https://www.cnet.com/deals/best-black-friday-deals-2022-thanksgiving/#ftag=CADf328eec](https://www.cnet.com/deals/best-black-friday-deals-2022-thanksgiving/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-11-25 00:26:26+00:00
- - tags: None
 
 If you want just the best Black Friday deals available to shop today, you've landed at the right place.

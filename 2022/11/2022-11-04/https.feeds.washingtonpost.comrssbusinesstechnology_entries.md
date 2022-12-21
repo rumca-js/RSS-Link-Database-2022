@@ -1,10 +1,9 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology
+# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
 
 ## Twitter layoffs gutted election information teams days before midterms
  - [https://www.washingtonpost.com/technology/2022/11/05/twitter-layoffs-election-impact/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/05/twitter-layoffs-election-impact/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-04 19:00:21+00:00
- - tags: None
 
 Twitter has become one of America’s most influential platforms for spreading accurate voting information, but politicians, local officials and misinformation experts say Friday's layoffs have compromised that.
 
@@ -12,7 +11,6 @@ Twitter has become one of America’s most influential platforms for spreading a
  - [https://www.washingtonpost.com/technology/2022/11/04/elon-musk-private-jet-twitter/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/04/elon-musk-private-jet-twitter/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-04 18:49:03+00:00
- - tags: None
 
 Flight data shows the Gulfstream jet crisscrossing the country as Musk bounced around from meetings to parties.
 
@@ -20,7 +18,6 @@ Flight data shows the Gulfstream jet crisscrossing the country as Musk bounced a
  - [https://www.washingtonpost.com/technology/2022/11/04/twitter-layoffs-explained/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/04/twitter-layoffs-explained/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-04 17:35:31+00:00
- - tags: None
 
 As advertisers desert Twitter and former employees sue the company, here’s everything you need to know
 
@@ -28,7 +25,6 @@ As advertisers desert Twitter and former employees sue the company, here’s eve
  - [https://www.washingtonpost.com/technology/2022/11/05/china-space-station-tiangong/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/05/china-space-station-tiangong/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-04 17:17:32+00:00
- - tags: None
 
 The completion of China's space station could cement Beijing's status as a celestial superpower -- and threaten U.S. dominance in space.
 
@@ -36,7 +32,6 @@ The completion of China's space station could cement Beijing's status as a celes
  - [https://www.washingtonpost.com/video-games/2022/11/04/every-god-of-war-game-ranked/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/11/04/every-god-of-war-game-ranked/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-04 17:00:26+00:00
- - tags: None
 
 2018's "God of War" nets third place.
 
@@ -44,7 +39,6 @@ The completion of China's space station could cement Beijing's status as a celes
  - [https://www.washingtonpost.com/video-games/2022/11/04/call-duty-modern-warfare-2-sales/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/11/04/call-duty-modern-warfare-2-sales/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-04 13:25:36+00:00
- - tags: None
 
 In three days, "Call of Duty: Modern Warfare II" recorded $800 million in sales revenue, emphatically showing why gaming needs to be taken more seriously.
 
@@ -52,7 +46,6 @@ In three days, "Call of Duty: Modern Warfare II" recorded $800 million in sales 
  - [https://www.washingtonpost.com/technology/2022/11/04/twitter-layoffs-musk/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/04/twitter-layoffs-musk/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-04 12:07:07+00:00
- - tags: None
 
 Twitter was hailed for its welcoming and relaxed work environment. Elon Musk made it a relic of the past.
 
@@ -60,7 +53,6 @@ Twitter was hailed for its welcoming and relaxed work environment. Elon Musk mad
  - [https://www.washingtonpost.com/technology/2022/11/04/quitting-a-job-over-text/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/04/quitting-a-job-over-text/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-04 06:00:00+00:00
- - tags: None
 
 The pandemic created new communication habits at work, but has anything changed when it comes time to quit your job?
 
@@ -68,6 +60,5 @@ The pandemic created new communication habits at work, but has anything changed 
  - [https://www.washingtonpost.com/technology/2022/11/04/china-rocket-long-march-earth/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/04/china-rocket-long-march-earth/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-04 00:01:08+00:00
- - tags: None
 
 The remains of the massive rocket, which carried the last module of a Chinese space station to orbit on Monday, is expected to plunge through the atmosphere, perhaps as soon as Friday.

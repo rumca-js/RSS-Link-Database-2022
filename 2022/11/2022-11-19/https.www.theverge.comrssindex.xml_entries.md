@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## The US government still isn’t sure about Elon Musk’s Twitter
  - [https://www.theverge.com/2022/11/19/23468283/us-government-elon-musk-twitter-investigation-investors-ftc-cfius](https://www.theverge.com/2022/11/19/23468283/us-government-elon-musk-twitter-investigation-investors-ftc-cfius)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-19 23:30:52+00:00
- - tags: None
 
 <figure>
       <img alt="Elon Musk in front of the Twitter logo." src="https://cdn.vox-cdn.com/thumbor/X_Mh_dXN_5zXKtCxqm2WMNUjd0o=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71651128/VRG_Illo_STK022_K_Radtke_Musk_Twitter_Upside_Down.5.jpg" />
@@ -22,7 +21,6 @@
  - [https://www.theverge.com/2022/11/19/23468065/wickr-free-encrypted-messaging-app-shutting-down-amazon-web-services](https://www.theverge.com/2022/11/19/23468065/wickr-free-encrypted-messaging-app-shutting-down-amazon-web-services)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-19 19:41:58+00:00
- - tags: None
 
 <figure>
       <img alt="An image showing a red lock made up of code" src="https://cdn.vox-cdn.com/thumbor/EZ73Cf9KAlUM8DKByUQ0R-MWLw4=/236x123:1804x1168/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71650487/acastro_170629_1777_0008_v2.0.jpg" />
@@ -40,7 +38,6 @@
  - [https://www.theverge.com/2022/11/19/23467784/waymo-provide-fully-driverless-rides-san-francisco-california](https://www.theverge.com/2022/11/19/23467784/waymo-provide-fully-driverless-rides-san-francisco-california)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-19 17:50:37+00:00
- - tags: None
 
 <figure>
       <img alt="A white Waymo vehicle on the road" src="https://cdn.vox-cdn.com/thumbor/hvurWyNaWobZrVucehHdZZGjw3o=/96x0:5154x3372/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71650188/1390904981.0.jpg" />
@@ -57,7 +54,6 @@
  - [https://www.theverge.com/2022/11/19/23466357/marvel-snap-tips-collection-level-card-pools](https://www.theverge.com/2022/11/19/23466357/marvel-snap-tips-collection-level-card-pools)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-19 14:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Graphic from Marvel Snap featuring Ironman rocketing into battle" src="https://cdn.vox-cdn.com/thumbor/lXon0GJhCUI14j953X8mkBHxruE=/300x0:1920x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71649358/marvel_snap1.0.png" />
@@ -79,7 +75,6 @@
  - [https://www.theverge.com/2022/11/19/23466039/sony-ps5-digital-games-dualsense-controller-meta-quest-2-bundle-black-friday-deal-sale](https://www.theverge.com/2022/11/19/23466039/sony-ps5-digital-games-dualsense-controller-meta-quest-2-bundle-black-friday-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-19 13:30:00+00:00
- - tags: None
 
 <figure>
       <img alt="A PlayStation 5 DualSense controller rests on a PlayStation 5 console." src="https://cdn.vox-cdn.com/thumbor/DLHRhtK46iWgGx3IQSlWTkgtQxE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71649314/vpavic_4278_20201030_0247.0.jpg" />
@@ -96,7 +91,6 @@
  - [https://www.theverge.com/2022/11/19/23465286/apple-airpods-pro-2-wireless-earbuds-woot-black-friday-deal-sale](https://www.theverge.com/2022/11/19/23465286/apple-airpods-pro-2-wireless-earbuds-woot-black-friday-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-19 08:23:11+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/GVn320AvWJJnUYOxA_WooiYxHM8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71648893/airpodsmirror.0.jpg" />
@@ -114,7 +108,6 @@
  - [https://www.theverge.com/2022/11/18/23467324/twitter-ad-sales-lead-robin-wheeler-reportedly-fired-salute](https://www.theverge.com/2022/11/18/23467324/twitter-ad-sales-lead-robin-wheeler-reportedly-fired-salute)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-19 02:13:22+00:00
- - tags: None
 
 <figure>
       <img alt="A black Twitter logo over a red and white background" src="https://cdn.vox-cdn.com/thumbor/1dvmXFbyRtKkChPW2OCZARa_AjI=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71648380/acastro_STK050_07.0.jpg" />
@@ -136,7 +129,6 @@
  - [https://www.theverge.com/2022/11/18/23466974/nvidia-rtx-4090-power-cable-12vhpwr-melt-burn-plugged-in](https://www.theverge.com/2022/11/18/23466974/nvidia-rtx-4090-power-cable-12vhpwr-melt-burn-plugged-in)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-19 00:45:07+00:00
- - tags: None
 
 <figure>
       <img alt="The GeForce RTX logo on the Nvidia GeForce RTX 4090 Founders Edition." src="https://cdn.vox-cdn.com/thumbor/VwhZ48S59P1GAlO2nXN5GWv45p0=/0x0:2027x1351/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71648194/226321_Nvidia_RTX_4090_twarren_0013.0.jpg" />
@@ -154,7 +146,6 @@
  - [https://www.theverge.com/2022/11/18/23467204/swiftkey-ios-iphone-app-store-return-back-microsoft](https://www.theverge.com/2022/11/18/23467204/swiftkey-ios-iphone-app-store-return-back-microsoft)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-19 00:27:12+00:00
- - tags: None
 
 <figure>
       <img alt="Nilay Patel holds an iPhone 14 Pro in his hands." src="https://cdn.vox-cdn.com/thumbor/iJC5Rg9T_3XqazSkZK4L4HNZuH8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71648120/226270_iPHONE_14_PHO_akrales_0030.0.jpg" />

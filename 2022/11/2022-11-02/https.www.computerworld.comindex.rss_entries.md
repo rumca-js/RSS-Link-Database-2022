@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Apple must take another brick from its wall, says EU
  - [https://www.computerworld.com/article/3678689/apple-must-take-another-brick-from-its-wall-says-eu.html#tk.rss_all](https://www.computerworld.com/article/3678689/apple-must-take-another-brick-from-its-wall-says-eu.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-02 17:08:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -15,7 +14,6 @@
  - [https://www.computerworld.com/article/3678299/from-banks-to-bananas-the-future-of-ai-for-it-operations.html#tk.rss_all](https://www.computerworld.com/article/3678299/from-banks-to-bananas-the-future-of-ai-for-it-operations.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-02 14:49:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -26,7 +24,6 @@
  - [https://www.computerworld.com/article/3678357/the-economics-of-technology-investments.html#tk.rss_all](https://www.computerworld.com/article/3678357/the-economics-of-technology-investments.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-02 14:38:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -37,7 +34,6 @@
  - [https://www.computerworld.com/article/3678356/compliance-meeting-regulatory-requirements-and-more.html#tk.rss_all](https://www.computerworld.com/article/3678356/compliance-meeting-regulatory-requirements-and-more.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-02 14:30:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -47,7 +43,6 @@
  - [https://www.computerworld.com/article/3678151/google-assistant-android-shortcuts.html#tk.rss_all](https://www.computerworld.com/article/3678151/google-assistant-android-shortcuts.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-02 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

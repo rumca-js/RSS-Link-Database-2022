@@ -1,10 +1,9 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology
+# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
 
 ## Musk to meet with Twitter advertisers after ‘name & shame’ warning
  - [https://www.washingtonpost.com/technology/2022/11/09/elon-musk-twitter-advertisers/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/09/elon-musk-twitter-advertisers/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-09 10:32:40+00:00
- - tags: None
 
 The billionaire owner had threatened a “thermonuclear name & shame” campaign against advertisers that abandon the platform.
 
@@ -12,7 +11,6 @@ The billionaire owner had threatened a “thermonuclear name & shame” campaign
  - [https://www.washingtonpost.com/technology/2022/02/24/tips-avoid-misinformation-ukraine-2/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/02/24/tips-avoid-misinformation-ukraine-2/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-09 07:00:17+00:00
- - tags: None
 
 Breaking news moves fast online, and it can be difficult to tell what's real and what's purposefully misleading or fake. Here's how to sort through it all.
 
@@ -20,7 +18,6 @@ Breaking news moves fast online, and it can be difficult to tell what's real and
  - [https://www.washingtonpost.com/technology/2022/11/09/facebook-layoffs/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/09/facebook-layoffs/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-09 06:21:48+00:00
- - tags: None
 
 Mark Zuckerberg, CEO of Facebook parent Meta, announced more than 11,000 layoffs as the company seeks to cut back on expenses and transform its business model.
 
@@ -28,7 +25,6 @@ Mark Zuckerberg, CEO of Facebook parent Meta, announced more than 11,000 layoffs
  - [https://www.washingtonpost.com/technology/2022/11/09/debunking-gap-app-sex-trafficking-rumor/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/09/debunking-gap-app-sex-trafficking-rumor/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-09 06:00:37+00:00
- - tags: None
 
 The app quickly took off with teens, until an unfounded rumor, repeated by police and TV, linked it to sex trafficking.
 
@@ -36,6 +32,5 @@ The app quickly took off with teens, until an unfounded rumor, repeated by polic
  - [https://www.washingtonpost.com/technology/2022/11/09/twitter-birdwatch-factcheck-musk-misinfo/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/09/twitter-birdwatch-factcheck-musk-misinfo/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-09 04:00:44+00:00
- - tags: None
 
 In private chats, a cadre of volunteers is shaping a new approach to policing misinformation — one Elon Musk has endorsed as he scales back on professional debunkings.

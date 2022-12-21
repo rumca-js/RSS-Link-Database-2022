@@ -1,10 +1,9 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology
+# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
 
 ## Twitter ends its ban on covid misinformation
  - [https://www.washingtonpost.com/technology/2022/11/29/twitter-covid-misinformation-policy/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/29/twitter-covid-misinformation-policy/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-29 20:06:42+00:00
- - tags: None
 
 The rollback of Twitter’s covid misinformation policy is just the latest pivot since Elon Musk took control of the company a month ago.
 
@@ -12,7 +11,6 @@ The rollback of Twitter’s covid misinformation policy is just the latest pivot
  - [https://www.washingtonpost.com/video-games/2022/11/29/new-trailer-mario-franchises-supporting-cast-takes-center-stage/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/11/29/new-trailer-mario-franchises-supporting-cast-takes-center-stage/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-29 17:58:58+00:00
- - tags: None
 
 The trailer revealed just how involved Peach would be in Nintendo’s new movie, all but ensuring her place as more than just a princess in another castle.
 
@@ -20,7 +18,6 @@ The trailer revealed just how involved Peach would be in Nintendo’s new movie,
  - [https://www.washingtonpost.com/technology/2022/11/29/holiday-shopping-money-saving-tips/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/29/holiday-shopping-money-saving-tips/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-29 12:30:54+00:00
- - tags: None
 
 If you don’t have hours to spend coupon hunting, here are manageable online shopping tips to save money, time and sanity this holiday season.
 
@@ -28,7 +25,6 @@ If you don’t have hours to spend coupon hunting, here are manageable online sh
  - [https://www.washingtonpost.com/video-games/2022/11/29/sitting-toilet-10-minutes-phone-nintendo-switch/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/11/29/sitting-toilet-10-minutes-phone-nintendo-switch/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-29 12:16:18+00:00
- - tags: None
 
 Phones and devices like the Nintendo Switch and Steam Deck have turned porcelain thrones into fortresses of solitude. But there are risks to sitting too long.
 
@@ -36,7 +32,6 @@ Phones and devices like the Nintendo Switch and Steam Deck have turned porcelain
  - [https://www.washingtonpost.com/technology/2022/11/29/china-space-station-crew-launch/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/11/29/china-space-station-crew-launch/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-29 09:39:54+00:00
- - tags: None
 
 China has big ambitions in space that rival those of the United States.
 
@@ -44,6 +39,5 @@ China has big ambitions in space that rival those of the United States.
  - [https://www.washingtonpost.com/nation/2022/11/29/goncharov-martin-scorsese-movie/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/nation/2022/11/29/goncharov-martin-scorsese-movie/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-11-29 03:13:38+00:00
- - tags: None
 
 There are posters, scripts and music for a 1973 film by Martin Scorsese — but none of it is real.

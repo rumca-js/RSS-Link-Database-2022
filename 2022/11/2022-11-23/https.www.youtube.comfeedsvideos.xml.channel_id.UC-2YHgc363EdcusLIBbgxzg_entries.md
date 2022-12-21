@@ -1,10 +1,9 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
+# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
 
 ## The Incredible Life And Weird Death Of Charles Lightoller
  - [https://www.youtube.com/watch?v=8YkChgvOnjw](https://www.youtube.com/watch?v=8YkChgvOnjw)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
  - date published: 2022-11-23 22:00:10+00:00
- - tags: None
 
 Charles Lightoller was an officer on the Titanic, but surviving the biggest ship sinking in history is just the start of his story.
 

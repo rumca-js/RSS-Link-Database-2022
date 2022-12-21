@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## AI, it turns out, is not currently a very good physicist
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59392](https://www.codeproject.com/script/News/View.aspx?nwid=59392)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-03 04:00:00+00:00
- - tags: None
 
 But does it have momentum?
 
@@ -12,7 +11,6 @@ But does it have momentum?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59378](https://www.codeproject.com/script/News/View.aspx?nwid=59378)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-03 04:00:00+00:00
- - tags: None
 
 A new design-to-code workflow for Android UI
 
@@ -20,7 +18,6 @@ A new design-to-code workflow for Android UI
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59385](https://www.codeproject.com/script/News/View.aspx?nwid=59385)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-03 04:00:00+00:00
- - tags: None
 
 The job interview goes both ways
 
@@ -28,7 +25,6 @@ The job interview goes both ways
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59391](https://www.codeproject.com/script/News/View.aspx?nwid=59391)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-03 04:00:00+00:00
- - tags: None
 
 Does "smacking them on the back of the head" count as a nudge?
 
@@ -36,7 +32,6 @@ Does "smacking them on the back of the head" count as a nudge?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59377](https://www.codeproject.com/script/News/View.aspx?nwid=59377)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-03 04:00:00+00:00
- - tags: None
 
 When designing navigation on mobile, we don’t have to rely on slide-in-menus or nested accordions. We can also use the curtain and billboard design patterns, and show multiple levels of navigation at once.
 
@@ -44,7 +39,6 @@ When designing navigation on mobile, we don’t have to rely on slide-in-menus o
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59382](https://www.codeproject.com/script/News/View.aspx?nwid=59382)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-03 04:00:00+00:00
- - tags: None
 
 Now that we have three working views from our previous articles (Part 1, Part 2, Part 3), we can consume them in an Uno Platform App right from Visual Studio.
 
@@ -52,7 +46,6 @@ Now that we have three working views from our previous articles (Part 1, Part 2,
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59379](https://www.codeproject.com/script/News/View.aspx?nwid=59379)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-03 04:00:00+00:00
- - tags: None
 
 We’re sharing lessons learned from shifting our Android development from Java to Kotlin.
 
@@ -60,7 +53,6 @@ We’re sharing lessons learned from shifting our Android development from Java 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59383](https://www.codeproject.com/script/News/View.aspx?nwid=59383)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-03 04:00:00+00:00
- - tags: None
 
 Learn how to implement different gestures in Jetpack Compose and provide your app an intuitive user experience.
 
@@ -68,7 +60,6 @@ Learn how to implement different gestures in Jetpack Compose and provide your ap
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59376](https://www.codeproject.com/script/News/View.aspx?nwid=59376)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-03 04:00:00+00:00
- - tags: None
 
 "Then they came for me—and there was no one left to speak for me."
 
@@ -76,7 +67,6 @@ Learn how to implement different gestures in Jetpack Compose and provide your ap
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59388](https://www.codeproject.com/script/News/View.aspx?nwid=59388)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-03 04:00:00+00:00
- - tags: None
 
 "Go learn this" counts as training, doesn't it?
 
@@ -84,7 +74,6 @@ Learn how to implement different gestures in Jetpack Compose and provide your ap
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59390](https://www.codeproject.com/script/News/View.aspx?nwid=59390)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-03 04:00:00+00:00
- - tags: None
 
 Time for a Napster comeback?
 
@@ -92,7 +81,6 @@ Time for a Napster comeback?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59389](https://www.codeproject.com/script/News/View.aspx?nwid=59389)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-03 04:00:00+00:00
- - tags: None
 
 Security vs. Performance: The latest edition
 
@@ -100,7 +88,6 @@ Security vs. Performance: The latest edition
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59386](https://www.codeproject.com/script/News/View.aspx?nwid=59386)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-03 04:00:00+00:00
- - tags: None
 
 Who secures the security software?
 
@@ -108,7 +95,6 @@ Who secures the security software?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59394](https://www.codeproject.com/script/News/View.aspx?nwid=59394)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-03 04:00:00+00:00
- - tags: None
 
 These things are coming out of the woodwork now, aren't they?
 
@@ -116,7 +102,6 @@ These things are coming out of the woodwork now, aren't they?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59380](https://www.codeproject.com/script/News/View.aspx?nwid=59380)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-03 04:00:00+00:00
- - tags: None
 
 .NET MAUI is out, Xamarin.Forms support will end on May 1, 2024, and you are probably thinking “How can I migrate my Xamarin.Forms app to this new .NET MAUI framework?”
 
@@ -124,7 +109,6 @@ These things are coming out of the woodwork now, aren't they?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59387](https://www.codeproject.com/script/News/View.aspx?nwid=59387)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-03 04:00:00+00:00
- - tags: None
 
 Present company not included, of course
 
@@ -132,7 +116,6 @@ Present company not included, of course
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59381](https://www.codeproject.com/script/News/View.aspx?nwid=59381)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-03 04:00:00+00:00
- - tags: None
 
 With Material Design 3 support, new Bill Of Materials, Compose WearOS Stable and Android TV (alpha), Compose Camp, and many other pieces of news… It's an exciting release!
 
@@ -140,7 +123,6 @@ With Material Design 3 support, new Bill Of Materials, Compose WearOS Stable and
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59393](https://www.codeproject.com/script/News/View.aspx?nwid=59393)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-03 04:00:00+00:00
- - tags: None
 
 If it ain't broke, don't upgrade
 
@@ -148,6 +130,5 @@ If it ain't broke, don't upgrade
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59384](https://www.codeproject.com/script/News/View.aspx?nwid=59384)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-03 04:00:00+00:00
- - tags: None
 
 And keep your answer to 140 characters or less

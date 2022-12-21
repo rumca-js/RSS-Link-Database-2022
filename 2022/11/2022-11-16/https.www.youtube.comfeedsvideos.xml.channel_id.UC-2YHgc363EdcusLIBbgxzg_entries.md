@@ -1,10 +1,9 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
+# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
 
 ## Why Spice Tastes Hot And Mint Tastes Cool #shorts
  - [https://www.youtube.com/watch?v=3GtNWBaTRxM](https://www.youtube.com/watch?v=3GtNWBaTRxM)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
  - date published: 2022-11-16 18:28:01+00:00
- - tags: None
 
 Spices and mint make our mouths feel warmer and colder temperatures, because they hack the nerves that detect those sensations. It's a neat little trick.
 

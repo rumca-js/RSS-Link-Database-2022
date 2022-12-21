@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## There are altogether too many eyeballs in this Darkest Dungeon 2 update
  - [https://www.pcgamer.com/there-are-altogether-too-many-eyeballs-in-this-darkest-dungeon-2-update](https://www.pcgamer.com/there-are-altogether-too-many-eyeballs-in-this-darkest-dungeon-2-update)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-20 22:40:21+00:00
- - tags: None
 
 One creature is allowed to have two eyeballs, eight if it's a spider. That's the rules.
 
@@ -12,7 +11,6 @@ One creature is allowed to have two eyeballs, eight if it's a spider. That's the
  - [https://www.pcgamer.com/do-some-sci-fi-dungeoneering-in-the-open-beta-of-endless-dungeon](https://www.pcgamer.com/do-some-sci-fi-dungeoneering-in-the-open-beta-of-endless-dungeon)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-20 22:03:00+00:00
- - tags: None
 
 It's running until November 28th.
 
@@ -20,7 +18,6 @@ It's running until November 28th.
  - [https://www.pcgamer.com/great-moments-in-pc-gaming-clearing-your-first-savage-raid-in-final-fantasy-14](https://www.pcgamer.com/great-moments-in-pc-gaming-clearing-your-first-savage-raid-in-final-fantasy-14)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-20 20:47:16+00:00
- - tags: None
 
 Pushing past your comfort zone might unlock a newfound love.
 
@@ -28,7 +25,6 @@ Pushing past your comfort zone might unlock a newfound love.
  - [https://www.pcgamer.com/wordle-519-answer-november-20](https://www.pcgamer.com/wordle-519-answer-november-20)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-20 08:05:46+00:00
- - tags: None
 
 Wordle today: The solution and a hint for the #519 puzzle.
 
@@ -36,7 +32,6 @@ Wordle today: The solution and a hint for the #519 puzzle.
  - [https://www.pcgamer.com/warhammer-40k-darktide-tips-hints](https://www.pcgamer.com/warhammer-40k-darktide-tips-hints)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-20 05:22:44+00:00
- - tags: None
 
 "Ignorance is thy best defence," says the Imperium. Maybe don't let the Inquisitor know you read these hints and tips for Darktide.
 
@@ -44,7 +39,6 @@ Wordle today: The solution and a hint for the #519 puzzle.
  - [https://www.pcgamer.com/obscure-rtses-the-world-forgot-about](https://www.pcgamer.com/obscure-rtses-the-world-forgot-about)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-20 01:18:27+00:00
- - tags: None
 
 Overlooked real-time strategy games that should have been classics.
 
@@ -52,6 +46,5 @@ Overlooked real-time strategy games that should have been classics.
  - [https://www.pcgamer.com/broforce-is-coming-back-for-one-last-job-will-probably-punch-satan](https://www.pcgamer.com/broforce-is-coming-back-for-one-last-job-will-probably-punch-satan)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-11-20 00:31:35+00:00
- - tags: None
 
 Check out the animated teaser for Broforce Forever.

@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## How to set up and use the Action Button on the Apple Watch Ultra
  - [https://www.androidauthority.com/how-to-set-up-action-button-apple-watch-3231493/](https://www.androidauthority.com/how-to-set-up-action-button-apple-watch-3231493/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-04 21:53:33+00:00
- - tags: None
 
 Apple's oversized pusher packs a ton of functionality.
 
@@ -12,7 +11,6 @@ Apple's oversized pusher packs a ton of functionality.
  - [https://www.androidauthority.com/how-to-check-uv-index-wear-os-3226326/](https://www.androidauthority.com/how-to-check-uv-index-wear-os-3226326/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-04 19:32:21+00:00
- - tags: None
 
 Learn how to use your Wear OS watch to find out the UV index in your location.
 
@@ -20,7 +18,6 @@ Learn how to use your Wear OS watch to find out the UV index in your location.
  - [https://www.androidauthority.com/shows-the-white-lotus-hbo-max-3230881/](https://www.androidauthority.com/shows-the-white-lotus-hbo-max-3230881/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-04 19:03:19+00:00
- - tags: None
 
 Rich people behaving badly, resorts, mysterious deaths, and more!
 
@@ -28,7 +25,6 @@ Rich people behaving badly, resorts, mysterious deaths, and more!
  - [https://www.androidauthority.com/sony-headphone-deals-3231384/](https://www.androidauthority.com/sony-headphone-deals-3231384/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-04 17:26:28+00:00
- - tags: None
 
 Sony isn't waiting for Black Friday to bring you record-breaking offers on its best headphones and earbuds.
 
@@ -36,7 +32,6 @@ Sony isn't waiting for Black Friday to bring you record-breaking offers on its b
  - [https://www.androidauthority.com/whatsapp-communities-new-features-3153950/](https://www.androidauthority.com/whatsapp-communities-new-features-3153950/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-04 16:29:58+00:00
- - tags: None
 
 If groups didn't do the trick, you can now use the new Communities on WhatsApp features.
 
@@ -44,7 +39,6 @@ If groups didn't do the trick, you can now use the new Communities on WhatsApp f
  - [https://www.androidauthority.com/samsung-galaxy-s10-plus-update-969909/](https://www.androidauthority.com/samsung-galaxy-s10-plus-update-969909/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-04 15:47:47+00:00
- - tags: None
 
 Samsung's latest patch comes shortly after releasing the October security patch.
 
@@ -52,7 +46,6 @@ Samsung's latest patch comes shortly after releasing the October security patch.
  - [https://www.androidauthority.com/ai-image-generator-dall-e-3231305/](https://www.androidauthority.com/ai-image-generator-dall-e-3231305/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-04 15:41:38+00:00
- - tags: None
 
 Developers can now use OpenAI's API to integrate DALL-E into their apps.
 
@@ -60,7 +53,6 @@ Developers can now use OpenAI's API to integrate DALL-E into their apps.
  - [https://www.androidauthority.com/stay-safe-online-lower-risk-hacked-3230779/](https://www.androidauthority.com/stay-safe-online-lower-risk-hacked-3230779/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-04 15:03:32+00:00
- - tags: None
 
 Tinfoil hat optional.
 
@@ -68,7 +60,6 @@ Tinfoil hat optional.
  - [https://www.androidauthority.com/google-home-pixel-watch-3230218/](https://www.androidauthority.com/google-home-pixel-watch-3230218/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-04 13:00:09+00:00
- - tags: None
 
 Why can't I organize the list of devices or tap to turn on my TV?
 
@@ -76,7 +67,6 @@ Why can't I organize the list of devices or tap to turn on my TV?
  - [https://www.androidauthority.com/samsung-dropship-3231254/](https://www.androidauthority.com/samsung-dropship-3231254/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-04 12:33:06+00:00
- - tags: None
 
 Samsung's latest Good Lock module has a number of limitations though.
 
@@ -84,7 +74,6 @@ Samsung's latest Good Lock module has a number of limitations though.
  - [https://www.androidauthority.com/google-pixel-7-pro-problems-fixes-3230619/](https://www.androidauthority.com/google-pixel-7-pro-problems-fixes-3230619/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-04 11:50:50+00:00
- - tags: None
 
 Most have workarounds.
 
@@ -92,7 +81,6 @@ Most have workarounds.
  - [https://www.androidauthority.com/send-voice-notes-smartphone-poll-results-3231215/](https://www.androidauthority.com/send-voice-notes-smartphone-poll-results-3231215/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-04 11:01:45+00:00
- - tags: None
 
 Voice notes are a fixture on mobile messaging apps, but do you send them?
 
@@ -100,7 +88,6 @@ Voice notes are a fixture on mobile messaging apps, but do you send them?
  - [https://www.androidauthority.com/daily-authority-november-4-2022-3231212/](https://www.androidauthority.com/daily-authority-november-4-2022-3231212/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-04 10:31:39+00:00
- - tags: None
 
 Twitter's massive layoffs, Samsung Galaxy S23 launch window, Chess cheating controversy, and more tech news today!
 
@@ -108,7 +95,6 @@ Twitter's massive layoffs, Samsung Galaxy S23 launch window, Chess cheating cont
  - [https://www.androidauthority.com/samsung-galaxy-s23-series-february-2023-launch-3231203/](https://www.androidauthority.com/samsung-galaxy-s23-series-february-2023-launch-3231203/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-04 08:53:50+00:00
- - tags: None
 
 Here's when you can expect to buy the new Samsung flagships.
 
@@ -116,7 +102,6 @@ Here's when you can expect to buy the new Samsung flagships.
  - [https://www.androidauthority.com/oppo-find-x6-pro-specs-3231195/](https://www.androidauthority.com/oppo-find-x6-pro-specs-3231195/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-04 08:33:45+00:00
- - tags: None
 
 The Find X6 Pro looks like a conversative upgrade in almost every way, bar one.
 
@@ -124,7 +109,6 @@ The Find X6 Pro looks like a conversative upgrade in almost every way, bar one.
  - [https://www.androidauthority.com/samsung-apple-funny-foldable-commercial-3231181/](https://www.androidauthority.com/samsung-apple-funny-foldable-commercial-3231181/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-04 07:09:25+00:00
- - tags: None
 
 Samsung's new ad pokes fun at Apple's lack of foldable phones.
 
@@ -132,7 +116,6 @@ Samsung's new ad pokes fun at Apple's lack of foldable phones.
  - [https://www.androidauthority.com/samsung-vs-apple-foldable-3231174/](https://www.androidauthority.com/samsung-vs-apple-foldable-3231174/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-04 06:32:41+00:00
- - tags: None
 
 The Android phone maker expects Apple's first foldable device in 2024.
 
@@ -140,7 +123,6 @@ The Android phone maker expects Apple's first foldable device in 2024.
  - [https://www.androidauthority.com/netflixs-basic-with-ads-plan-supported-devices-3231151/](https://www.androidauthority.com/netflixs-basic-with-ads-plan-supported-devices-3231151/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-04 05:22:27+00:00
- - tags: None
 
 Not all devices support Netflix's new plan.
 
@@ -148,6 +130,5 @@ Not all devices support Netflix's new plan.
  - [https://www.androidauthority.com/best-free-vpn-iphone-3230990/](https://www.androidauthority.com/best-free-vpn-iphone-3230990/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-04 01:21:15+00:00
- - tags: None
 
 You don't need to pay for a good VPN!

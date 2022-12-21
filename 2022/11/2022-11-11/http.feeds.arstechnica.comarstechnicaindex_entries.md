@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## Southeast US has hit the roof of CDC’s respiratory illness level scale
  - [https://arstechnica.com/?p=1897339](https://arstechnica.com/?p=1897339)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-11 23:26:33+00:00
- - tags: None
 
 Uptake of flu shots is lagging this year, CDC says.
 
@@ -12,7 +11,6 @@ Uptake of flu shots is lagging this year, CDC says.
  - [https://arstechnica.com/?p=1897321](https://arstechnica.com/?p=1897321)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-11 23:12:17+00:00
- - tags: None
 
 Automation features make LockBit one of the more destructive pieces of ransomware.
 
@@ -20,7 +18,6 @@ Automation features make LockBit one of the more destructive pieces of ransomwar
  - [https://arstechnica.com/?p=1897331](https://arstechnica.com/?p=1897331)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-11 23:08:37+00:00
- - tags: None
 
 One of PC gaming's proudest new franchises is going big.
 
@@ -28,7 +25,6 @@ One of PC gaming's proudest new franchises is going big.
  - [https://arstechnica.com/?p=1897247](https://arstechnica.com/?p=1897247)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-11 22:47:14+00:00
- - tags: None
 
 Confused artists discover their work is used for AI training by default.
 
@@ -36,7 +32,6 @@ Confused artists discover their work is used for AI training by default.
  - [https://arstechnica.com/?p=1897239](https://arstechnica.com/?p=1897239)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-11 22:28:28+00:00
- - tags: None
 
 "If we didn’t design it to be out there in harsh weather we picked the wrong launch spot."
 
@@ -44,7 +39,6 @@ Confused artists discover their work is used for AI training by default.
  - [https://arstechnica.com/?p=1891572](https://arstechnica.com/?p=1891572)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-11 21:29:45+00:00
- - tags: None
 
 Ars chats with series producers Jonathan Nolan, Vincenzo Natali, and Scott Smith.
 
@@ -52,7 +46,6 @@ Ars chats with series producers Jonathan Nolan, Vincenzo Natali, and Scott Smith
  - [https://arstechnica.com/?p=1897185](https://arstechnica.com/?p=1897185)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-11 19:31:50+00:00
- - tags: None
 
 Musk aims to grow Twitter users by 1 billion, then link accounts to debit cards.
 
@@ -60,7 +53,6 @@ Musk aims to grow Twitter users by 1 billion, then link accounts to debit cards.
  - [https://arstechnica.com/?p=1897062](https://arstechnica.com/?p=1897062)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-11 19:16:21+00:00
- - tags: None
 
 If you've got to rebrand an existing phone, the Aquos R7 is a good starting point.
 
@@ -68,7 +60,6 @@ If you've got to rebrand an existing phone, the Aquos R7 is a good starting poin
  - [https://arstechnica.com/?p=1897097](https://arstechnica.com/?p=1897097)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-11 18:20:27+00:00
- - tags: None
 
 Fake pharma account ignited fury over insulin pricing by falsely saying it's now free.
 
@@ -76,7 +67,6 @@ Fake pharma account ignited fury over insulin pricing by falsely saying it's now
  - [https://arstechnica.com/?p=1897031](https://arstechnica.com/?p=1897031)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-11 17:49:20+00:00
- - tags: None
 
 Let's just hope the wheel's not too rattly.
 
@@ -84,7 +74,6 @@ Let's just hope the wheel's not too rattly.
  - [https://arstechnica.com/?p=1896911](https://arstechnica.com/?p=1896911)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-11 17:23:57+00:00
- - tags: None
 
 Robots will wander a Texas campus so researchers can study human-robot relations.
 
@@ -92,7 +81,6 @@ Robots will wander a Texas campus so researchers can study human-robot relations
  - [https://arstechnica.com/?p=1897014](https://arstechnica.com/?p=1897014)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-11 17:11:43+00:00
- - tags: None
 
 Microsoft says it will offer parts, manuals, and retail repair in early 2023.
 
@@ -100,7 +88,6 @@ Microsoft says it will offer parts, manuals, and retail repair in early 2023.
  - [https://arstechnica.com/?p=1897013](https://arstechnica.com/?p=1897013)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-11 16:17:33+00:00
- - tags: None
 
 Twitter usage is up, Musk says, as fake accounts wreak havoc.
 
@@ -108,7 +95,6 @@ Twitter usage is up, Musk says, as fake accounts wreak havoc.
  - [https://arstechnica.com/?p=1897035](https://arstechnica.com/?p=1897035)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-11 15:59:34+00:00
- - tags: None
 
 Collapse comes after FTX failed to meet surge in customer withdrawals.
 
@@ -116,7 +102,6 @@ Collapse comes after FTX failed to meet surge in customer withdrawals.
  - [https://arstechnica.com/?p=1897004](https://arstechnica.com/?p=1897004)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-11 14:39:37+00:00
- - tags: None
 
 Prop 30 would've taxed wealthiest residents to build EV infrastructure, wildfire protection.
 
@@ -124,7 +109,6 @@ Prop 30 would've taxed wealthiest residents to build EV infrastructure, wildfire
  - [https://arstechnica.com/?p=1896586](https://arstechnica.com/?p=1896586)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-11 12:00:41+00:00
- - tags: None
 
 "As this was a final qualification test, we also tested it to destruction."
 
@@ -132,6 +116,5 @@ Prop 30 would've taxed wealthiest residents to build EV infrastructure, wildfire
  - [https://arstechnica.com/?p=1896971](https://arstechnica.com/?p=1896971)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-11 01:00:07+00:00
- - tags: None
 
 The hacking group Microsoft ID'd is among the world's most cutthroat and skilled.

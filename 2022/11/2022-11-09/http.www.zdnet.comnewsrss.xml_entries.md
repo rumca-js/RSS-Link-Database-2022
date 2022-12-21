@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## Love birds? Help protect them with this free birding app
  - [https://www.zdnet.com/home-and-office/yard-outdoors/go-from-zero-to-birding-hero-with-this-free-app-that-helps-protect-our-feathered-friends/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/yard-outdoors/go-from-zero-to-birding-hero-with-this-free-app-that-helps-protect-our-feathered-friends/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-09 23:31:00+00:00
- - tags: None
 
 Here's how you can go from zero to birding hero.
 
@@ -12,7 +11,6 @@ Here's how you can go from zero to birding hero.
  - [https://www.zdnet.com/article/how-to-create-a-form-in-google-workspace-to-simplify-the-collection-of-information/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-create-a-form-in-google-workspace-to-simplify-the-collection-of-information/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-09 21:43:08+00:00
- - tags: None
 
 Here's how easy it is to create a form in the Google ecosystem, so you can more easily collect necessary information from various groups.
 
@@ -20,7 +18,6 @@ Here's how easy it is to create a form in the Google ecosystem, so you can more 
  - [https://www.zdnet.com/article/best-usb-c-laptop-charger/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-usb-c-laptop-charger/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-09 21:34:00+00:00
- - tags: None
 
 With more laptops requiring USB-C chargers, finding the right one is essential to keeping your laptop juiced. The best options include multiple ports, ample power, and cooling technology.
 
@@ -28,7 +25,6 @@ With more laptops requiring USB-C chargers, finding the right one is essential t
  - [https://www.zdnet.com/article/muse-s-2nd-gen-review/#ftag=RSSbaffb68](https://www.zdnet.com/article/muse-s-2nd-gen-review/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-09 20:51:00+00:00
- - tags: None
 
 Review: The new Muse S (2nd Gen) headband gamifies meditation to help you better manage your stress and your sleep.
 
@@ -36,7 +32,6 @@ Review: The new Muse S (2nd Gen) headband gamifies meditation to help you better
  - [https://www.zdnet.com/article/this-remarkable-iphone-powered-headset-gave-me-a-glimpse-into-apples-ar-future/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-remarkable-iphone-powered-headset-gave-me-a-glimpse-into-apples-ar-future/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-09 18:57:00+00:00
- - tags: None
 
 The $129 HoloKit X leverages the iPhone's existing technology to bring you into the wizarding world of AR.
 
@@ -44,7 +39,6 @@ The $129 HoloKit X leverages the iPhone's existing technology to bring you into 
  - [https://www.zdnet.com/home-and-office/gifts-under-50/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/gifts-under-50/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-09 18:47:00+00:00
- - tags: None
 
 With the holiday shopping season quickly approaching, you're probably looking for the best cheap tech gifts. ZDNET compiled all the top picks for under $50.
 
@@ -52,7 +46,6 @@ With the holiday shopping season quickly approaching, you're probably looking fo
  - [https://www.zdnet.com/article/what-are-android-rules-and-how-do-you-create-a-do-not-disturb-rule/#ftag=RSSbaffb68](https://www.zdnet.com/article/what-are-android-rules-and-how-do-you-create-a-do-not-disturb-rule/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-09 18:39:44+00:00
- - tags: None
 
 Here's an Android feature that can really help to make your mobile life a bit more efficient.
 
@@ -60,7 +53,6 @@ Here's an Android feature that can really help to make your mobile life a bit mo
  - [https://www.zdnet.com/article/in-latest-benchmark-test-of-ai-its-mostly-nvidia-competing-against-nvidia/#ftag=RSSbaffb68](https://www.zdnet.com/article/in-latest-benchmark-test-of-ai-its-mostly-nvidia-competing-against-nvidia/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-09 18:15:20+00:00
- - tags: None
 
 For the first time since the benchmark MLPerf test of AI training started in 2018, Nvidia had virtually no competition to its dominant chips.
 
@@ -68,7 +60,6 @@ For the first time since the benchmark MLPerf test of AI training started in 201
  - [https://www.zdnet.com/article/github-rolls-out-copilot-for-business-experiments-with-voice-control-for-copilot/#ftag=RSSbaffb68](https://www.zdnet.com/article/github-rolls-out-copilot-for-business-experiments-with-voice-control-for-copilot/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-09 17:35:15+00:00
- - tags: None
 
 GitHub is expanding Copilot, anticipating a future where AI will be integrated into every aspect of the developer experience.
 
@@ -76,7 +67,6 @@ GitHub is expanding Copilot, anticipating a future where AI will be integrated i
  - [https://www.zdnet.com/article/protect-your-smartphone-with-an-esr-tempered-glass-screen-protector/#ftag=RSSbaffb68](https://www.zdnet.com/article/protect-your-smartphone-with-an-esr-tempered-glass-screen-protector/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-09 17:12:25+00:00
- - tags: None
 
 A tempered glass screen protector is a good way to protect your smartphone's screen from unexpected damage.
 
@@ -84,7 +74,6 @@ A tempered glass screen protector is a good way to protect your smartphone's scr
  - [https://www.zdnet.com/home-and-office/ecoflow-river-2-grab-and-go-power/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/ecoflow-river-2-grab-and-go-power/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-09 17:07:16+00:00
- - tags: None
 
 A light power station for when you're on the move.
 
@@ -92,7 +81,6 @@ A light power station for when you're on the move.
  - [https://www.zdnet.com/home-and-office/looking-for-a-truly-portable-power-station-the-ecoflow-river-2-delivers-grab-and-go-power/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/looking-for-a-truly-portable-power-station-the-ecoflow-river-2-delivers-grab-and-go-power/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-09 17:07:00+00:00
- - tags: None
 
 Here's a reliable, lighter-weight power station for when you're on the move.
 
@@ -100,7 +88,6 @@ Here's a reliable, lighter-weight power station for when you're on the move.
  - [https://www.zdnet.com/article/what-is-app-pinning-on-android-and-how-do-you-set-it-up/#ftag=RSSbaffb68](https://www.zdnet.com/article/what-is-app-pinning-on-android-and-how-do-you-set-it-up/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-09 17:00:56+00:00
- - tags: None
 
 Here's why you might want to use this feature when navigating the apps on your Android and how to use it.
 
@@ -108,7 +95,6 @@ Here's why you might want to use this feature when navigating the apps on your A
  - [https://www.zdnet.com/article/zoom-video-conferencing-will-be-coming-to-your-tesla-vehicle-soon/#ftag=RSSbaffb68](https://www.zdnet.com/article/zoom-video-conferencing-will-be-coming-to-your-tesla-vehicle-soon/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-09 17:00:19+00:00
- - tags: None
 
 A new partnership between Zoom and Tesla will allow drivers to take video calls from their car –  although some details remain unclear.
 
@@ -116,7 +102,6 @@ A new partnership between Zoom and Tesla will allow drivers to take video calls 
  - [https://www.zdnet.com/article/google-chrome-security-update-fixes-six-high-severity-vulnerabilities-which-attackers-could-use-to-crash-your-computer/#ftag=RSSbaffb68](https://www.zdnet.com/article/google-chrome-security-update-fixes-six-high-severity-vulnerabilities-which-attackers-could-use-to-crash-your-computer/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-09 16:35:00+00:00
- - tags: None
 
 A total of 10 security vulnerabilities have been addressed in the latest Google Chrome update, some of which could remote attackers to crash your PC.
 
@@ -124,7 +109,6 @@ A total of 10 security vulnerabilities have been addressed in the latest Google 
  - [https://www.zdnet.com/article/looking-for-a-job-in-science-national-labs-are-set-for-a-hiring-spree/#ftag=RSSbaffb68](https://www.zdnet.com/article/looking-for-a-job-in-science-national-labs-are-set-for-a-hiring-spree/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-09 16:31:13+00:00
- - tags: None
 
 A massive allocation will support new jobs in experimental computing tech, fusion energy, energy grid, and more.
 
@@ -132,7 +116,6 @@ A massive allocation will support new jobs in experimental computing tech, fusio
  - [https://www.zdnet.com/article/cybersecurity-cloud-c-or-creativity-these-are-the-skills-that-will-be-most-in-demand-in-2023/#ftag=RSSbaffb68](https://www.zdnet.com/article/cybersecurity-cloud-c-or-creativity-these-are-the-skills-that-will-be-most-in-demand-in-2023/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-09 16:02:41+00:00
- - tags: None
 
 Cybersecurity, coding and data skills are like gold dust - and demand in 2023 will only grow.
 
@@ -140,7 +123,6 @@ Cybersecurity, coding and data skills are like gold dust - and demand in 2023 wi
  - [https://www.zdnet.com/article/cybersecurity-cloud-and-coding-why-these-three-skills-will-lead-demand-in-2023/#ftag=RSSbaffb68](https://www.zdnet.com/article/cybersecurity-cloud-and-coding-why-these-three-skills-will-lead-demand-in-2023/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-09 16:02:00+00:00
- - tags: None
 
 Cybersecurity, coding and data skills are like gold dust - and demand in 2023 will only grow.
 
@@ -148,7 +130,6 @@ Cybersecurity, coding and data skills are like gold dust - and demand in 2023 wi
  - [https://www.zdnet.com/article/cybersecurity-these-are-the-new-things-to-worry-about-in-2023/#ftag=RSSbaffb68](https://www.zdnet.com/article/cybersecurity-these-are-the-new-things-to-worry-about-in-2023/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-09 16:01:54+00:00
- - tags: None
 
 Today's security problems are still to be fixed. But evolving technologies and a fast-changing world mean there are new challenges, too.
 
@@ -156,7 +137,6 @@ Today's security problems are still to be fixed. But evolving technologies and a
  - [https://www.zdnet.com/article/tech-in-2023-weve-analysed-the-data-and-heres-whats-really-going-to-matter/#ftag=RSSbaffb68](https://www.zdnet.com/article/tech-in-2023-weve-analysed-the-data-and-heres-whats-really-going-to-matter/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-09 16:00:56+00:00
- - tags: None
 
 Uncertain times make forecasting difficult, but analysts and pundits have given it their best shot. Here's ZDNET's roundup.
 
@@ -164,7 +144,6 @@ Uncertain times make forecasting difficult, but analysts and pundits have given 
  - [https://www.zdnet.com/home-and-office/smart-home/how-to-keep-your-home-secure-when-you-travel/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/how-to-keep-your-home-secure-when-you-travel/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-09 15:23:00+00:00
- - tags: None
 
 With travel stressful enough, you don't need the anxiety of wondering if your home is protected.
 
@@ -172,7 +151,6 @@ With travel stressful enough, you don't need the anxiety of wondering if your ho
  - [https://www.zdnet.com/article/instagram-is-finally-bringing-long-awaited-feature-to-its-platform/#ftag=RSSbaffb68](https://www.zdnet.com/article/instagram-is-finally-bringing-long-awaited-feature-to-its-platform/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-09 15:02:37+00:00
- - tags: None
 
 The head of Instagram says the new features are 'one of those things we really should have gotten to a long time ago'.
 
@@ -180,7 +158,6 @@ The head of Instagram says the new features are 'one of those things we really s
  - [https://www.zdnet.com/article/glimpse-apples-ar-future-today-in-this-remarkable-iphone-powered-headset/#ftag=RSSbaffb68](https://www.zdnet.com/article/glimpse-apples-ar-future-today-in-this-remarkable-iphone-powered-headset/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-09 15:00:00+00:00
- - tags: None
 
 The $129 HoloKit X leverages the iPhone's existing technology to bring you into the wizarding world of AR.
 
@@ -188,7 +165,6 @@ The $129 HoloKit X leverages the iPhone's existing technology to bring you into 
  - [https://www.zdnet.com/article/intel-unveils-new-chips-that-will-power-the-upcoming-aurora-supercomputer/#ftag=RSSbaffb68](https://www.zdnet.com/article/intel-unveils-new-chips-that-will-power-the-upcoming-aurora-supercomputer/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-09 14:00:20+00:00
- - tags: None
 
 While the new Intel Max Series product family is powering the Argonne National Lab's latest supercomputer, the chips are really designed for mainstream high-performance computing, Intel says.
 
@@ -196,7 +172,6 @@ While the new Intel Max Series product family is powering the Argonne National L
  - [https://www.zdnet.com/article/mark-zuckerberg-memo-meta-is-cutting-11000-jobs-today/#ftag=RSSbaffb68](https://www.zdnet.com/article/mark-zuckerberg-memo-meta-is-cutting-11000-jobs-today/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-09 12:39:00+00:00
- - tags: None
 
 Meta has announced it is laying off 11,000 staff and is immediately cutting off their access to most work systems.
 
@@ -204,7 +179,6 @@ Meta has announced it is laying off 11,000 staff and is immediately cutting off 
  - [https://www.zdnet.com/article/a-hurricane-delays-nasas-artemis-moon-rocket-launch-again/#ftag=RSSbaffb68](https://www.zdnet.com/article/a-hurricane-delays-nasas-artemis-moon-rocket-launch-again/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-09 12:15:05+00:00
- - tags: None
 
 NASA has delayed its third Artemis moon mission launch attempt due to a hurricane, but it's not rolling its giant rocket back to cover.
 
@@ -212,7 +186,6 @@ NASA has delayed its third Artemis moon mission launch attempt due to a hurrican
  - [https://www.zdnet.com/article/microsoft-patch-tuesday-fixes-11-critical-security-vulnerabilities-and-six-zero-days-being-actively-exploited/#ftag=RSSbaffb68](https://www.zdnet.com/article/microsoft-patch-tuesday-fixes-11-critical-security-vulnerabilities-and-six-zero-days-being-actively-exploited/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-09 11:52:39+00:00
- - tags: None
 
 Microsoft issues 64 patches to address security flaws in products including Windows, Exchange and Office - get updating now.
 
@@ -220,7 +193,6 @@ Microsoft issues 64 patches to address security flaws in products including Wind
  - [https://www.zdnet.com/article/a-month-with-fitbits-sense-2-and-versa-4-good-health-and-fitness-features-but-beware-gps-use/#ftag=RSSbaffb68](https://www.zdnet.com/article/a-month-with-fitbits-sense-2-and-versa-4-good-health-and-fitness-features-but-beware-gps-use/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-09 11:01:24+00:00
- - tags: None
 
 The latest smartwatches from Fitbit are very similar in design and features, with the Sense 2 offering extra heart monitoring and stress management capabilities.
 
@@ -228,7 +200,6 @@ The latest smartwatches from Fitbit are very similar in design and features, wit
  - [https://www.zdnet.com/article/microsoft-teams-progressive-web-app-arrives-for-linux-users/#ftag=RSSbaffb68](https://www.zdnet.com/article/microsoft-teams-progressive-web-app-arrives-for-linux-users/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-09 10:37:00+00:00
- - tags: None
 
 Teams Linux users should switch over to the PWA to get the latest features and a desktop-like experience, says Microsoft.
 
@@ -236,7 +207,6 @@ Teams Linux users should switch over to the PWA to get the latest features and a
  - [https://www.zdnet.com/article/cybersecurity-leaders-want-to-quit-heres-what-is-pushing-them-to-leave/#ftag=RSSbaffb68](https://www.zdnet.com/article/cybersecurity-leaders-want-to-quit-heres-what-is-pushing-them-to-leave/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-09 10:27:12+00:00
- - tags: None
 
 Cybersecurity might just be the most stressful job in tech right now. But there might be a (tiny) glimmer of light at the end of the tunnel.
 
@@ -244,7 +214,6 @@ Cybersecurity might just be the most stressful job in tech right now. But there 
  - [https://www.zdnet.com/home-and-office/save-on-the-lenovo-13-thinkpad-x1-gen-3-tablet-deal-sale-coupon-code/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/save-on-the-lenovo-13-thinkpad-x1-gen-3-tablet-deal-sale-coupon-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-09 09:59:07+00:00
- - tags: None
 
 This tablet is available before Black Friday with a hefty $1900 discount.
 
@@ -252,7 +221,6 @@ This tablet is available before Black Friday with a hefty $1900 discount.
  - [https://www.zdnet.com/article/best-gaming-laptop/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-gaming-laptop/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-09 00:44:00+00:00
- - tags: None
 
 The best gaming laptops offer excellent graphics, fast processors, and portability. So, whether you're gaming at home or on the go, these options enhance game play.
 
@@ -260,6 +228,5 @@ The best gaming laptops offer excellent graphics, fast processors, and portabili
  - [https://www.zdnet.com/article/best-rugged-tablet/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-rugged-tablet/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-09 00:32:00+00:00
- - tags: None
 
 Looking for a device that's more durable? The best rugged tablets are made of reliable materials, have long battery lives, and have been tested and rated against drops, shocks, dirt, and moisture.
