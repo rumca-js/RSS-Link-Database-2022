@@ -1,0 +1,57 @@
+# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
+
+## A couple’s car fell 300 feet. A new iPhone feature aided their rescue.
+ - [https://www.washingtonpost.com/nation/2022/12/20/iphone-crash-detection-couple-saved/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/nation/2022/12/20/iphone-crash-detection-couple-saved/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
+ - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
+ - date published: 2022-12-20 21:34:32+00:00
+
+California couple Cloe Fields and Christian Zelada survived the fall with help from the iPhone 14’s Emergency SOS via satellite.
+
+## From Jared Kushner to Salt Bae: Here’s who Elon Musk was seen with at the World Cup
+ - [https://www.washingtonpost.com/investigations/2022/12/20/elon-musk-spotted-world-cup-final/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/investigations/2022/12/20/elon-musk-spotted-world-cup-final/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
+ - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
+ - date published: 2022-12-20 21:06:19+00:00
+
+Photos taken of Musk during the World Cup show him amid a group that included Jared Kushner, Qatari leaders and an Indian steelmaking magnate.
+
+## Musk says he will find new Twitter CEO but keep control of key divisions
+ - [https://www.washingtonpost.com/technology/2022/12/20/elon-musk-resign-twitter-ceo/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/12/20/elon-musk-resign-twitter-ceo/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
+ - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
+ - date published: 2022-12-20 20:59:09+00:00
+
+Elon Musk said he would find a new Twitter CEO after a poll mandated he step down.
+
+## Meta CEO Mark Zuckerberg snubs fitness as key to metaverse growth
+ - [https://www.washingtonpost.com/technology/2022/12/20/zuckerberg-testimony-ftc-case/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/12/20/zuckerberg-testimony-ftc-case/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
+ - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
+ - date published: 2022-12-20 17:32:48+00:00
+
+Zuckerberg defended Meta’s reliance on acquisitions to build out virtual and augmented reality services, saying that under current economic conditions, Meta would be unlikely to take on developing a fitness app of its own.
+
+## How a group of ‘GTA V’ developers became unlikely motorsports champions
+ - [https://www.washingtonpost.com/video-games/2022/12/20/rockstar-north-gta-grand-theft-auto-online-motorsports-racing/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/12/20/rockstar-north-gta-grand-theft-auto-online-motorsports-racing/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
+ - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
+ - date published: 2022-12-20 15:35:54+00:00
+
+The passion project emerged after the technical director behind "GTA V's" car physics asked himself: “What if I tried racing these cars in real life?”
+
+## Sweeping spending bill would ban TikTok on government devices
+ - [https://www.washingtonpost.com/politics/2022/12/20/tiktok-ban-spending-bill-china/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/politics/2022/12/20/tiktok-ban-spending-bill-china/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
+ - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
+ - date published: 2022-12-20 13:21:45+00:00
+
+The prohibition is the latest step by governments, mostly at the state level, to try to curb TikTok’s reach.
+
+## How families can get the most from YouTube for kids, or dump it
+ - [https://www.washingtonpost.com/technology/2022/12/20/youtube-kids-tips-parents/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/12/20/youtube-kids-tips-parents/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
+ - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
+ - date published: 2022-12-20 12:30:10+00:00
+
+Opt for YouTube Kids. Check out these three great kids channels. And try more tips from experts on how your family can get the most from YouTube.
+
+## Faxes and floppy disks: Japan’s bureaucracy needs an upgrade
+ - [https://www.washingtonpost.com/world/2022/12/20/japan-digital-taro-kono-modernize/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/world/2022/12/20/japan-digital-taro-kono-modernize/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
+ - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
+ - date published: 2022-12-20 04:00:08+00:00
+
+Digital Minister Taro Kono wants to take Japan’s government out of the analog age and into the digital.
