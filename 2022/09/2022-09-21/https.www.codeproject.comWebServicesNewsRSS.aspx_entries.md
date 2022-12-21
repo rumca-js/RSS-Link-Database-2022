@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## A VM that can get around Windows 11's hypervisor and VT security nonsense?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58948](https://www.codeproject.com/script/News/View.aspx?nwid=58948)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-21 04:00:00+00:00
- - tags: None
 
 More virtual madness
 
@@ -12,7 +11,6 @@ More virtual madness
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58947](https://www.codeproject.com/script/News/View.aspx?nwid=58947)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-21 04:00:00+00:00
- - tags: None
 
 "It's comin' right for us!"
 
@@ -20,7 +18,6 @@ More virtual madness
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58952](https://www.codeproject.com/script/News/View.aspx?nwid=58952)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-21 04:00:00+00:00
- - tags: None
 
 Why is the hype pile so much bigger?
 
@@ -28,7 +25,6 @@ Why is the hype pile so much bigger?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58950](https://www.codeproject.com/script/News/View.aspx?nwid=58950)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-21 04:00:00+00:00
- - tags: None
 
 Do you want cream and sugar with that coffee?
 
@@ -36,7 +32,6 @@ Do you want cream and sugar with that coffee?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58945](https://www.codeproject.com/script/News/View.aspx?nwid=58945)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-21 04:00:00+00:00
- - tags: None
 
 More like RusTinovich, amirite?
 
@@ -44,7 +39,6 @@ More like RusTinovich, amirite?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58949](https://www.codeproject.com/script/News/View.aspx?nwid=58949)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-21 04:00:00+00:00
- - tags: None
 
 And whether you need it or not
 
@@ -52,7 +46,6 @@ And whether you need it or not
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58951](https://www.codeproject.com/script/News/View.aspx?nwid=58951)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-21 04:00:00+00:00
- - tags: None
 
 Read about it now, because it's probably the last you'll hear of it
 
@@ -60,7 +53,6 @@ Read about it now, because it's probably the last you'll hear of it
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58946](https://www.codeproject.com/script/News/View.aspx?nwid=58946)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-21 04:00:00+00:00
- - tags: None
 
 Collaborative Apps - because everyone knows only good things come from a committee
 
@@ -68,7 +60,6 @@ Collaborative Apps - because everyone knows only good things come from a committ
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58953](https://www.codeproject.com/script/News/View.aspx?nwid=58953)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-21 04:00:00+00:00
- - tags: None
 
 :-|
 
@@ -76,7 +67,6 @@ Collaborative Apps - because everyone knows only good things come from a committ
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58944](https://www.codeproject.com/script/News/View.aspx?nwid=58944)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-21 04:00:00+00:00
- - tags: None
 
 It's the pause (and reboots) that refreshes
 
@@ -84,6 +74,5 @@ It's the pause (and reboots) that refreshes
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58954](https://www.codeproject.com/script/News/View.aspx?nwid=58954)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-21 04:00:00+00:00
- - tags: None
 
 "Everybody's taking the chance"

@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## Royal Shakespeare Company Names Two Directors for Top Job
  - [https://www.nytimes.com/2022/09/20/theater/royal-shakespeare-company-daniel-evans-tamara-harvey.html](https://www.nytimes.com/2022/09/20/theater/royal-shakespeare-company-daniel-evans-tamara-harvey.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-20 23:37:40+00:00
- - tags: None
 
 In an usual move for a major British theater, Daniel Evans and Tamara Harvey will jointly helm the major British theater troupe.
 
@@ -12,7 +11,6 @@ In an usual move for a major British theater, Daniel Evans and Tamara Harvey wil
  - [https://www.nytimes.com/2022/09/20/world/europe/russia-annex-ukraine-referendum.html](https://www.nytimes.com/2022/09/20/world/europe/russia-annex-ukraine-referendum.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-20 23:00:48+00:00
- - tags: None
 
 Kremlin-backed officials in four partially occupied regions announced referendums on joining Russia, as Moscow tightens its grip and hints at escalation.
 
@@ -20,7 +18,6 @@ Kremlin-backed officials in four partially occupied regions announced referendum
  - [https://www.nytimes.com/2022/09/20/world/europe/unga-russia-ukraine-macron-erdogan.html](https://www.nytimes.com/2022/09/20/world/europe/unga-russia-ukraine-macron-erdogan.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-20 22:21:56+00:00
- - tags: None
 
 Presidents Recep Tayyip Erdogan of Turkey and Emmanuel Macron of France used the gathering as a stage to cast themselves as would-be peacemakers in the war in Ukraine.
 
@@ -28,7 +25,6 @@ Presidents Recep Tayyip Erdogan of Turkey and Emmanuel Macron of France used the
  - [https://www.nytimes.com/2022/09/20/world/europe/putin-speech-russia.html](https://www.nytimes.com/2022/09/20/world/europe/putin-speech-russia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-20 21:53:50+00:00
- - tags: None
 
 The Kremlin did not explain why it was delayed — or even that it had been planned at all. But the caginess telegraphed the rapid speed — and apparent improvisation — with which Moscow is plotting out its next moves.
 
@@ -36,7 +32,6 @@ The Kremlin did not explain why it was delayed — or even that it had been plan
  - [https://www.nytimes.com/2022/09/20/world/americas/al-gore-david-malpass-climate.html](https://www.nytimes.com/2022/09/20/world/americas/al-gore-david-malpass-climate.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-20 21:41:20+00:00
- - tags: None
 
 The former vice president also said President Biden should seek to have the Trump-nominated bank leader, David Malpass, removed from his role.
 
@@ -44,7 +39,6 @@ The former vice president also said President Biden should seek to have the Trum
  - [https://www.nytimes.com/2022/09/20/briefing/russia-annex-un-asia.html](https://www.nytimes.com/2022/09/20/briefing/russia-annex-un-asia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-20 21:38:53+00:00
- - tags: None
 
 Plus leaders address a world in peril at the U.N. General Assembly and protests sweep Iran.
 
@@ -52,7 +46,6 @@ Plus leaders address a world in peril at the U.N. General Assembly and protests 
  - [https://www.nytimes.com/2022/09/20/world/europe/siversk-ukraine-russia.html](https://www.nytimes.com/2022/09/20/world/europe/siversk-ukraine-russia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-20 21:26:23+00:00
- - tags: None
 
 After the Ukrainian military’s sweeping victory in the northeast last week, the fate of Siversk, in the Donbas region, appears once more undecided.
 
@@ -60,7 +53,6 @@ After the Ukrainian military’s sweeping victory in the northeast last week, th
  - [https://www.nytimes.com/2022/09/20/world/europe/truss-britain-queen.html](https://www.nytimes.com/2022/09/20/world/europe/truss-britain-queen.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-20 20:15:14+00:00
- - tags: None
 
 Liz Truss’s government will roll out major initiatives to confront an array of economic and social problems: soaring energy costs, surging inflation and pressure on public services.
 
@@ -68,7 +60,6 @@ Liz Truss’s government will roll out major initiatives to confront an array of
  - [https://www.nytimes.com/2022/09/20/us/politics/biden-gas-russia-europe.html](https://www.nytimes.com/2022/09/20/us/politics/biden-gas-russia-europe.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-20 20:03:47+00:00
- - tags: None
 
 The Biden administration is trying to keep its allies on board as the Russian invasion has sent energy prices soaring.
 
@@ -76,7 +67,6 @@ The Biden administration is trying to keep its allies on board as the Russian in
  - [https://www.nytimes.com/2022/09/20/world/europe/ukraine-bilohorivka-russia.html](https://www.nytimes.com/2022/09/20/world/europe/ukraine-bilohorivka-russia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-20 19:07:12+00:00
- - tags: None
 
 The Ukrainian military has not declared victory yet in Bilohorivka, given that control over towns has proved tenuous in the past. Reclaiming it would signal that Russia no longer has full control of the Luhansk region.
 
@@ -84,7 +74,6 @@ The Ukrainian military has not declared victory yet in Bilohorivka, given that c
  - [https://www.nytimes.com/2022/09/20/world/europe/erdogan-russia-ukraine.html](https://www.nytimes.com/2022/09/20/world/europe/erdogan-russia-ukraine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-20 18:18:16+00:00
- - tags: None
 
 Erdogan has positioned himself as a mediator between Ukraine and Russia and hosted preliminary peace talks in Istanbul in March.
 
@@ -92,7 +81,6 @@ Erdogan has positioned himself as a mediator between Ukraine and Russia and host
  - [https://www.nytimes.com/2022/09/19/world/europe/most-of-the-146-bodies-exhumed-in-izium-so-far-were-civilians-a-ukrainian-official-said.html](https://www.nytimes.com/2022/09/19/world/europe/most-of-the-146-bodies-exhumed-in-izium-so-far-were-civilians-a-ukrainian-official-said.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-20 16:59:09+00:00
- - tags: None
 
 
 
@@ -100,7 +88,6 @@ Erdogan has positioned himself as a mediator between Ukraine and Russia and host
  - [https://www.nytimes.com/2022/09/20/world/middleeast/world-leaders-begin-their-public-addresses-today-heres-what-to-expect.html](https://www.nytimes.com/2022/09/20/world/middleeast/world-leaders-begin-their-public-addresses-today-heres-what-to-expect.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-20 16:26:18+00:00
- - tags: None
 
 
 
@@ -108,7 +95,6 @@ Erdogan has positioned himself as a mediator between Ukraine and Russia and host
  - [https://www.nytimes.com/2022/09/20/world/europe/russia-oil-united-nations.html](https://www.nytimes.com/2022/09/20/world/europe/russia-oil-united-nations.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-20 15:34:39+00:00
- - tags: None
 
 The
 
@@ -116,7 +102,6 @@ The
  - [https://www.nytimes.com/2022/09/20/climate/food-waste-app.html](https://www.nytimes.com/2022/09/20/climate/food-waste-app.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-20 15:12:02+00:00
- - tags: None
 
 Several companies say they are tackling food waste by connecting people with unsold food from restaurants and grocery stores.
 
@@ -124,7 +109,6 @@ Several companies say they are tackling food waste by connecting people with uns
  - [https://www.nytimes.com/2022/09/20/world/europe/the-war-in-ukraine-will-be-center-stage-as-world-leaders-begin-speaking-at-the-un.html](https://www.nytimes.com/2022/09/20/world/europe/the-war-in-ukraine-will-be-center-stage-as-world-leaders-begin-speaking-at-the-un.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-20 14:42:40+00:00
- - tags: None
 
 
 
@@ -132,7 +116,6 @@ Several companies say they are tackling food waste by connecting people with uns
  - [https://www.nytimes.com/2022/09/20/world/1922-ex-kaiser-to-marry-princess-hermine.html](https://www.nytimes.com/2022/09/20/world/1922-ex-kaiser-to-marry-princess-hermine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-20 12:12:05+00:00
- - tags: None
 
 Wilhelm II, who abdicated as emperor of Germany in the midst of defeat in World War I, had become a widower in 1921.
 
@@ -140,7 +123,6 @@ Wilhelm II, who abdicated as emperor of Germany in the midst of defeat in World 
  - [https://www.nytimes.com/live/2022/09/20/world/united-nations-general-assembly](https://www.nytimes.com/live/2022/09/20/world/united-nations-general-assembly)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-20 10:42:15+00:00
- - tags: None
 
 For the first time in three years, world leaders are convening in New York to discuss sweeping crises that include climate change, food insecurity and the war in Ukraine.
 
@@ -148,7 +130,6 @@ For the first time in three years, world leaders are convening in New York to di
  - [https://www.nytimes.com/live/2022/09/20/world/ukraine-russia-war](https://www.nytimes.com/live/2022/09/20/world/ukraine-russia-war)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-20 10:29:42+00:00
- - tags: None
 
 A senior Pentagon official contended that Moscow was failing in its strategic objectives and that the U.S. was open to sending Western tanks to Ukraine.
 
@@ -156,7 +137,6 @@ A senior Pentagon official contended that Moscow was failing in its strategic ob
  - [https://www.nytimes.com/2022/09/20/briefing/adnan-syed-freed-serial-sarah-koenig.html](https://www.nytimes.com/2022/09/20/briefing/adnan-syed-freed-serial-sarah-koenig.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-20 10:16:36+00:00
- - tags: None
 
 We talk with Sarah Koenig, host of the “Serial” podcast.
 
@@ -164,7 +144,6 @@ We talk with Sarah Koenig, host of the “Serial” podcast.
  - [https://www.nytimes.com/2022/09/20/style/tom-moore-trapeze.html](https://www.nytimes.com/2022/09/20/style/tom-moore-trapeze.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-20 09:00:32+00:00
- - tags: None
 
 Tom Moore made a name for himself as a film, TV and theater director. But his dream has always been to “fly” on the trapeze, high in the air. And that’s what he is doing at age 79.
 
@@ -172,7 +151,6 @@ Tom Moore made a name for himself as a film, TV and theater director. But his dr
  - [https://www.nytimes.com/2022/09/20/world/middleeast/egypt-economy-ukraine-war-pandemic.html](https://www.nytimes.com/2022/09/20/world/middleeast/egypt-economy-ukraine-war-pandemic.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-20 09:00:17+00:00
- - tags: None
 
 The country’s economy has been very hard hit by cascading crises which have disrupted worldwide trade.
 
@@ -180,7 +158,6 @@ The country’s economy has been very hard hit by cascading crises which have di
  - [https://www.nytimes.com/2022/09/20/world/middleeast/iran-protests-mahsa-amini.html](https://www.nytimes.com/2022/09/20/world/middleeast/iran-protests-mahsa-amini.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-20 06:50:48+00:00
- - tags: None
 
 The 22-year-old’s death sparked outrage across social, religious and political factions. Four people were reported to have been killed by the security forces.
 
@@ -188,7 +165,6 @@ The 22-year-old’s death sparked outrage across social, religious and political
  - [https://www.nytimes.com/2022/09/20/briefing/elizabeth-queen-funeral-general-assembly.html](https://www.nytimes.com/2022/09/20/briefing/elizabeth-queen-funeral-general-assembly.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-20 04:52:13+00:00
- - tags: None
 
 The funeral of Queen Elizabeth II.
 
@@ -196,7 +172,6 @@ The funeral of Queen Elizabeth II.
  - [https://www.nytimes.com/2022/09/20/world/europe/putin-russia-kosovo.html](https://www.nytimes.com/2022/09/20/world/europe/putin-russia-kosovo.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-20 04:01:09+00:00
- - tags: None
 
 Many ethnic Serbs, nursing grievances against NATO for a 1999 bombing campaign that broke Serbia’s grip on the territory, see President Vladimir V. Putin’s Russia as a potential savior.
 
@@ -204,6 +179,5 @@ Many ethnic Serbs, nursing grievances against NATO for a 1999 bombing campaign t
  - [https://www.nytimes.com/2022/09/20/world/russia-is-struggling-to-attract-new-recruits-for-its-army-a-us-official-says.html](https://www.nytimes.com/2022/09/20/world/russia-is-struggling-to-attract-new-recruits-for-its-army-a-us-official-says.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-20 00:32:42+00:00
- - tags: None
 
 

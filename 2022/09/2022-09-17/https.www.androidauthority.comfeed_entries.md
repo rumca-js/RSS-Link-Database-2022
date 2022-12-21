@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## Carriers should stop charging extra for using smartwatch data
  - [https://www.androidauthority.com/carrier-charging-extra-smartwatch-data-3207849/](https://www.androidauthority.com/carrier-charging-extra-smartwatch-data-3207849/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-17 20:00:31+00:00
- - tags: None
 
 Wearables as a whole would benefit from affordable cellular options. And so would we.
 
@@ -12,7 +11,6 @@ Wearables as a whole would benefit from affordable cellular options. And so woul
  - [https://www.androidauthority.com/samsung-galaxy-z-fold-4-android-12l-3208362/](https://www.androidauthority.com/samsung-galaxy-z-fold-4-android-12l-3208362/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-17 18:00:37+00:00
- - tags: None
 
 Google and Samsung have set the bar for what software on a foldable can be.
 
@@ -20,7 +18,6 @@ Google and Samsung have set the bar for what software on a foldable can be.
  - [https://www.androidauthority.com/android-apps-weekly-450-3209523/](https://www.androidauthority.com/android-apps-weekly-450-3209523/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-17 16:00:00+00:00
- - tags: None
 
 We think this whole Discord and Xbox thing is going to be a big deal.
 
@@ -28,7 +25,6 @@ We think this whole Discord and Xbox thing is going to be a big deal.
  - [https://www.androidauthority.com/google-pixel-recorder-features-wishlist-3209137/](https://www.androidauthority.com/google-pixel-recorder-features-wishlist-3209137/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-17 14:00:49+00:00
- - tags: None
 
 Google can take this superb app to even higher grounds with a few additions.
 
@@ -36,7 +32,6 @@ Google can take this superb app to even higher grounds with a few additions.
  - [https://www.androidauthority.com/stock-android-auto-pixelate-screenshots-tool-3207663/](https://www.androidauthority.com/stock-android-auto-pixelate-screenshots-tool-3207663/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-17 12:00:44+00:00
- - tags: None
 
 Oppo and OnePlus have implemented a neat privacy feature for screenshots, and we want it in stock Android.
 
@@ -44,6 +39,5 @@ Oppo and OnePlus have implemented a neat privacy feature for screenshots, and we
  - [https://www.androidauthority.com/weekly-authority-september-17-2022-212-3209069/](https://www.androidauthority.com/weekly-authority-september-17-2022-212-3209069/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-17 11:11:38+00:00
- - tags: None
 
 Google parts with Pixelbook, OnePlus 11 Pro renders leak, Sony's State of Play highlights, and speedier cup noodles.

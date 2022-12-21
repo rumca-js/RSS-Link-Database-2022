@@ -1,10 +1,9 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage
+# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
 
 ## Google is deprecating Google Surveys
  - [https://support.google.com/surveys/answer/12626240?hl=en](https://support.google.com/surveys/answer/12626240?hl=en)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 23:00:07+00:00
- - tags: None
 
 <p>Article URL: <a href="https://support.google.com/surveys/answer/12626240?hl=en">https://support.google.com/surveys/answer/12626240?hl=en</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32918915">https://news.ycombinator.com/item?id=32918915</a></p>
@@ -15,7 +14,6 @@
  - [https://spectrum.ieee.org/upcycle-a-vintage-lcd](https://spectrum.ieee.org/upcycle-a-vintage-lcd)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 21:52:53+00:00
- - tags: None
 
 <p>Article URL: <a href="https://spectrum.ieee.org/upcycle-a-vintage-lcd">https://spectrum.ieee.org/upcycle-a-vintage-lcd</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32918301">https://news.ycombinator.com/item?id=32918301</a></p>
@@ -26,7 +24,7 @@
  - [https://www.engadget.com/mozilla-youtube-recommendation-study-080006930.html](https://www.engadget.com/mozilla-youtube-recommendation-study-080006930.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 20:33:35+00:00
- - tags: None
+ - tags: youtube
 
 <p>Article URL: <a href="https://www.engadget.com/mozilla-youtube-recommendation-study-080006930.html">https://www.engadget.com/mozilla-youtube-recommendation-study-080006930.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32917407">https://news.ycombinator.com/item?id=32917407</a></p>
@@ -37,7 +35,6 @@
  - [https://github.com/OhMyGuus/I-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 20:27:43+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/OhMyGuus/I-Dont-Care-About-Cookies">https://github.com/OhMyGuus/I-Dont-Care-About-Cookies</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32917340">https://news.ycombinator.com/item?id=32917340</a></p>
@@ -48,7 +45,6 @@
  - [https://www.logicmatters.net/2020/11/16/philosophy-of-mathematics-a-reading-list/](https://www.logicmatters.net/2020/11/16/philosophy-of-mathematics-a-reading-list/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 20:00:40+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.logicmatters.net/2020/11/16/philosophy-of-mathematics-a-reading-list/">https://www.logicmatters.net/2020/11/16/philosophy-of-mathematics-a-reading-list/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32916994">https://news.ycombinator.com/item?id=32916994</a></p>
@@ -59,7 +55,6 @@
  - [https://robertsspaceindustries.com/funding-goals](https://robertsspaceindustries.com/funding-goals)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 19:16:44+00:00
- - tags: None
 
 <p>Article URL: <a href="https://robertsspaceindustries.com/funding-goals">https://robertsspaceindustries.com/funding-goals</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32916496">https://news.ycombinator.com/item?id=32916496</a></p>
@@ -70,7 +65,6 @@
  - [https://github.com/libredirect/libredirect](https://github.com/libredirect/libredirect)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 19:01:39+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/libredirect/libredirect">https://github.com/libredirect/libredirect</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32916318">https://news.ycombinator.com/item?id=32916318</a></p>
@@ -81,7 +75,6 @@
  - [https://en.wikipedia.org/wiki/List_of_most_expensive_video_games_to_develop](https://en.wikipedia.org/wiki/List_of_most_expensive_video_games_to_develop)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 18:33:01+00:00
- - tags: None
 
 <p>Article URL: <a href="https://en.wikipedia.org/wiki/List_of_most_expensive_video_games_to_develop">https://en.wikipedia.org/wiki/List_of_most_expensive_video_games_to_develop</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32915940">https://news.ycombinator.com/item?id=32915940</a></p>
@@ -92,7 +85,6 @@
  - [https://tasktxt.com/](https://tasktxt.com/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 18:25:43+00:00
- - tags: None
 
 <p>I built TaskTXT.com based on my experience timing my tasks. I found that committing to a task before I start helps with my focus, and guessing how long it will take, then timing it prevents me from wanting to give in to distractions because I'm "on the clock".<p>Video Overview: <a href="https://www.youtube.com/watch?v=HOYO0c_D6w0" rel="nofollow">https://www.youtube.com/watch?v=HOYO0c_D6w0</a><p>There's also a Mac app which you can download here: <a href="https://dl.todesktop.com/22080519n9z1j
 
@@ -100,7 +92,6 @@
  - [https://www.nvidia.com/en-us/geforce/news/rtx-remix-announcement/](https://www.nvidia.com/en-us/geforce/news/rtx-remix-announcement/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 17:59:48+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.nvidia.com/en-us/geforce/news/rtx-remix-announcement/">https://www.nvidia.com/en-us/geforce/news/rtx-remix-announcement/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32915455">https://news.ycombinator.com/item?id=32915455</a></p>
@@ -111,7 +102,6 @@
  - [https://www.zylstra.org/blog/2022/09/eu-open-web-search-project-started/](https://www.zylstra.org/blog/2022/09/eu-open-web-search-project-started/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 17:50:27+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.zylstra.org/blog/2022/09/eu-open-web-search-project-started/">https://www.zylstra.org/blog/2022/09/eu-open-web-search-project-started/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32915263">https://news.ycombinator.com/item?id=32915263</a></p>
@@ -122,7 +112,6 @@
  - [https://openwebsearch.eu/](https://openwebsearch.eu/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 17:50:27+00:00
- - tags: None
 
 <p>Article URL: <a href="https://openwebsearch.eu/">https://openwebsearch.eu/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32915263">https://news.ycombinator.com/item?id=32915263</a></p>
@@ -133,7 +122,6 @@
  - [https://docs.tigrisdata.com/quickstart](https://docs.tigrisdata.com/quickstart)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 17:47:27+00:00
- - tags: None
 
 <p>Tigris is the first truly open source developer data platform with a simple yet powerful, unified API that spans search, event streaming, and transactional document store. It enables you to focus on building your applications and stop worrying about the data infrastructure.</p>
 <hr />
@@ -145,7 +133,6 @@
  - [https://www.righto.com/2015/05/the-texas-instruments-tmx-1795-first.html](https://www.righto.com/2015/05/the-texas-instruments-tmx-1795-first.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 17:33:47+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.righto.com/2015/05/the-texas-instruments-tmx-1795-first.html">https://www.righto.com/2015/05/the-texas-instruments-tmx-1795-first.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32915049">https://news.ycombinator.com/item?id=32915049</a></p>
@@ -156,7 +143,6 @@
  - [https://blogs.windows.com/windowsexperience/2022/09/20/available-today-the-windows-11-2022-update/](https://blogs.windows.com/windowsexperience/2022/09/20/available-today-the-windows-11-2022-update/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 17:25:35+00:00
- - tags: None
 
 <p>Article URL: <a href="https://blogs.windows.com/windowsexperience/2022/09/20/available-today-the-windows-11-2022-update/">https://blogs.windows.com/windowsexperience/2022/09/20/available-today-the-windows-11-2022-update/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32914930">https://news.ycombinator.com/item?id=32914930</a></p>
@@ -167,7 +153,6 @@
  - [https://house.dwell.com/](https://house.dwell.com/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 17:19:59+00:00
- - tags: None
 
 <p>Article URL: <a href="https://house.dwell.com/">https://house.dwell.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32914859">https://news.ycombinator.com/item?id=32914859</a></p>
@@ -178,7 +163,6 @@
  - [https://www.sciencedirect.com/science/article/pii/S0160289622000800](https://www.sciencedirect.com/science/article/pii/S0160289622000800)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 17:12:15+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.sciencedirect.com/science/article/pii/S0160289622000800">https://www.sciencedirect.com/science/article/pii/S0160289622000800</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32914750">https://news.ycombinator.com/item?id=32914750</a></p>
@@ -189,7 +173,6 @@
  - [https://gradientflow.com/the-vector-database-index/](https://gradientflow.com/the-vector-database-index/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 16:48:00+00:00
- - tags: None
 
 <p>Article URL: <a href="https://gradientflow.com/the-vector-database-index/">https://gradientflow.com/the-vector-database-index/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32914387">https://news.ycombinator.com/item?id=32914387</a></p>
@@ -200,7 +183,6 @@
  - [https://bytecodealliance.org/articles/wasmtime-1-0-fast-safe-and-production-ready](https://bytecodealliance.org/articles/wasmtime-1-0-fast-safe-and-production-ready)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 15:57:56+00:00
- - tags: None
 
 <p>Article URL: <a href="https://bytecodealliance.org/articles/wasmtime-1-0-fast-safe-and-production-ready">https://bytecodealliance.org/articles/wasmtime-1-0-fast-safe-and-production-ready</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32913533">https://news.ycombinator.com/item?id=32913533</a></p>
@@ -211,7 +193,6 @@
  - [https://www.jitx.com/blog/series-a-announcement](https://www.jitx.com/blog/series-a-announcement)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 15:52:11+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.jitx.com/blog/series-a-announcement">https://www.jitx.com/blog/series-a-announcement</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32913443">https://news.ycombinator.com/item?id=32913443</a></p>
@@ -222,7 +203,6 @@
  - [https://news.ycombinator.com/item?id=32913377](https://news.ycombinator.com/item?id=32913377)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 15:47:54+00:00
- - tags: None
 
 <p>Hello HN, I just learned that we are going to have a baby, but I'm just so burnt out at my job. I can barely afford my health insurance, and now we are looking at adding a dependent, there's just no way. I've been here since 2012, and I've never felt like I wasn't <i>just</i> about to be fired.<p>And this baby is going to be here, like, imminently. It's always been my dream to be a dad, and now I realize how laughably unprepared I am to be bringing somebody into this world.  I can barely do m
 
@@ -230,7 +210,6 @@
  - [https://github.com/bohonghuang/cl-gtk4](https://github.com/bohonghuang/cl-gtk4)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 15:42:50+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/bohonghuang/cl-gtk4">https://github.com/bohonghuang/cl-gtk4</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32913301">https://news.ycombinator.com/item?id=32913301</a></p>
@@ -241,7 +220,6 @@
  - [https://type-level-typescript.com/](https://type-level-typescript.com/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 15:31:50+00:00
- - tags: None
 
 <p>Article URL: <a href="https://type-level-typescript.com/">https://type-level-typescript.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32913125">https://news.ycombinator.com/item?id=32913125</a></p>
@@ -252,7 +230,6 @@
  - [https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/](https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 15:21:25+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/">https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32912953">https://news.ycombinator.com/item?id=32912953</a></p>
@@ -263,7 +240,6 @@
  - [https://www.projecthoneypot.org/cloudflare_beta.html](https://www.projecthoneypot.org/cloudflare_beta.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 14:59:24+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.projecthoneypot.org/cloudflare_beta.html">https://www.projecthoneypot.org/cloudflare_beta.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32912584">https://news.ycombinator.com/item?id=32912584</a></p>
@@ -274,7 +250,6 @@
  - [https://www.theregister.com/2022/09/20/fcc_phone_locking_public_knowledge/](https://www.theregister.com/2022/09/20/fcc_phone_locking_public_knowledge/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 14:30:11+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.theregister.com/2022/09/20/fcc_phone_locking_public_knowledge/">https://www.theregister.com/2022/09/20/fcc_phone_locking_public_knowledge/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32912125">https://news.ycombinator.com/item?id=32912125</a></p>
@@ -285,7 +260,6 @@
  - [https://www.ctrl.blog/entry/cloudflare-ip-blockade.html](https://www.ctrl.blog/entry/cloudflare-ip-blockade.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 14:26:03+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.ctrl.blog/entry/cloudflare-ip-blockade.html">https://www.ctrl.blog/entry/cloudflare-ip-blockade.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32912075">https://news.ycombinator.com/item?id=32912075</a></p>
@@ -296,7 +270,6 @@
  - [https://gpodder.github.io/](https://gpodder.github.io/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 14:23:43+00:00
- - tags: None
 
 <p>Article URL: <a href="https://gpodder.github.io/">https://gpodder.github.io/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32912046">https://news.ycombinator.com/item?id=32912046</a></p>
@@ -307,7 +280,6 @@
  - [https://github.com/marmolak/gray386linux](https://github.com/marmolak/gray386linux)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 14:16:27+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/marmolak/gray386linux">https://github.com/marmolak/gray386linux</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32911953">https://news.ycombinator.com/item?id=32911953</a></p>
@@ -318,7 +290,6 @@
  - [https://github.com/gorhill/uBlock/blob/master/platform/mv3/description/en.md](https://github.com/gorhill/uBlock/blob/master/platform/mv3/description/en.md)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 13:50:09+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/gorhill/uBlock/blob/master/platform/mv3/description/en.md">https://github.com/gorhill/uBlock/blob/master/platform/mv3/description/en.md</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32911640">https://news.ycombinator.com/item?id=32911640</a></p>
@@ -329,7 +300,6 @@
  - [https://druids.datadoghq.com/?ref=hackernews](https://druids.datadoghq.com/?ref=hackernews)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 13:42:42+00:00
- - tags: None
 
 <p>Article URL: <a href="https://druids.datadoghq.com/?ref=hackernews">https://druids.datadoghq.com/?ref=hackernews</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32911549">https://news.ycombinator.com/item?id=32911549</a></p>
@@ -340,7 +310,6 @@
  - [https://marmelab.com/blog/2022/09/20/react-i-love-you.html](https://marmelab.com/blog/2022/09/20/react-i-love-you.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 13:38:44+00:00
- - tags: None
 
 <p>Article URL: <a href="https://marmelab.com/blog/2022/09/20/react-i-love-you.html">https://marmelab.com/blog/2022/09/20/react-i-love-you.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32911492">https://news.ycombinator.com/item?id=32911492</a></p>
@@ -351,7 +320,6 @@
  - [https://setharielgreen.com/blog/ux-testing-for-public-infrastructure/](https://setharielgreen.com/blog/ux-testing-for-public-infrastructure/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 13:23:06+00:00
- - tags: None
 
 <p>Article URL: <a href="https://setharielgreen.com/blog/ux-testing-for-public-infrastructure/">https://setharielgreen.com/blog/ux-testing-for-public-infrastructure/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32911306">https://news.ycombinator.com/item?id=32911306</a></p>
@@ -362,7 +330,6 @@
  - [https://news.ycombinator.com/item?id=32911299](https://news.ycombinator.com/item?id=32911299)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 13:22:48+00:00
- - tags: None
 
 <p>So a while ago I wrote about how 2FA was missing a key feature: https://syslog.ravelin.com/2fa-is-missing-a-key-feature-c781c3861db
 Having not had any feedback on it in a while and the idea not taking off, today somebody messaged me to say that had implemented it in their product.
@@ -375,7 +342,6 @@ Having not had any feedback on it in a while and the idea not taking off, today 
  - [https://mailbox.org/en/post/european-court-of-justice-overturns-german-law-on-indiscriminate-data-retention](https://mailbox.org/en/post/european-court-of-justice-overturns-german-law-on-indiscriminate-data-retention)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 13:17:46+00:00
- - tags: None
 
 <p>Article URL: <a href="https://mailbox.org/en/post/european-court-of-justice-overturns-german-law-on-indiscriminate-data-retention">https://mailbox.org/en/post/european-court-of-justice-overturns-german-law-on-indiscriminate-data-retention</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32911247">https://news.ycombinator.com/item?id=32911247</a></p>
@@ -386,7 +352,6 @@ Having not had any feedback on it in a while and the idea not taking off, today 
  - [https://www.reuters.com/technology/indiscriminate-data-retention-is-illegal-eu-top-court-says-2022-09-20/](https://www.reuters.com/technology/indiscriminate-data-retention-is-illegal-eu-top-court-says-2022-09-20/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 13:17:46+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.reuters.com/technology/indiscriminate-data-retention-is-illegal-eu-top-court-says-2022-09-20/">https://www.reuters.com/technology/indiscriminate-data-retention-is-illegal-eu-top-court-says-2022-09-20/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32911247">https://news.ycombinator.com/item?id=32911247</a></p>
@@ -397,7 +362,6 @@ Having not had any feedback on it in a while and the idea not taking off, today 
  - [https://news.ycombinator.com/item?id=32911232](https://news.ycombinator.com/item?id=32911232)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 13:16:23+00:00
- - tags: None
 
 <p>Hi HN, we’re Josh, Yoav and Matan and we’re building Spinach.io (<a href="https://spinach.io" rel="nofollow">https://spinach.io</a>). We help development teams run projects more effectively, starting with better daily standups.<p>I (Matan) am an engineer, and Josh and Yoav led design and product teams. One of the big pains we’ve all experienced is the massive overhead that goes on in dev projects: meetings, planning, goal setting, communication, project and task management—and on and on. All 
 
@@ -405,7 +369,6 @@ Having not had any feedback on it in a while and the idea not taking off, today 
  - [http://paulgraham.com/users.html](http://paulgraham.com/users.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 13:13:50+00:00
- - tags: None
 
 <p>Article URL: <a href="http://paulgraham.com/users.html">http://paulgraham.com/users.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32911195">https://news.ycombinator.com/item?id=32911195</a></p>
@@ -416,7 +379,6 @@ Having not had any feedback on it in a while and the idea not taking off, today 
  - [https://edwardsnowden.substack.com/p/americas-open-wound](https://edwardsnowden.substack.com/p/americas-open-wound)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 13:05:57+00:00
- - tags: None
 
 <p>Article URL: <a href="https://edwardsnowden.substack.com/p/americas-open-wound">https://edwardsnowden.substack.com/p/americas-open-wound</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32911109">https://news.ycombinator.com/item?id=32911109</a></p>
@@ -427,7 +389,6 @@ Having not had any feedback on it in a while and the idea not taking off, today 
  - [https://news.ycombinator.com/item?id=32911083](https://news.ycombinator.com/item?id=32911083)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 13:03:46+00:00
- - tags: None
 
 <p>Currently in a situation where our company is asking us to work weekends and extra hours because of a poorly managed project. There were too many meetings and processes during the early months of the project and now we are way behind, no longer have any of those time wasting meetings as we are now scrambling to deliver on time. It’s created a stressful environment where I am now at a point of looking for a new job. 
 I really believe that companies should use better strategies then putting mor
@@ -436,7 +397,6 @@ I really believe that companies should use better strategies then putting mor
  - [https://postadio.com/PC_Master_Race/116620996134](https://postadio.com/PC_Master_Race/116620996134)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 12:55:42+00:00
- - tags: None
 
 <p>Article URL: <a href="https://postadio.com/PC_Master_Race/116620996134">https://postadio.com/PC_Master_Race/116620996134</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32910993">https://news.ycombinator.com/item?id=32910993</a></p>
@@ -447,7 +407,6 @@ I really believe that companies should use better strategies then putting mor
  - [https://www.openmainframeproject.org/all-projects/cobolprogrammingcourse](https://www.openmainframeproject.org/all-projects/cobolprogrammingcourse)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 12:51:30+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.openmainframeproject.org/all-projects/cobolprogrammingcourse">https://www.openmainframeproject.org/all-projects/cobolprogrammingcourse</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32910954">https://news.ycombinator.com/item?id=32910954</a></p>
@@ -458,7 +417,6 @@ I really believe that companies should use better strategies then putting mor
  - [https://gist.github.com/belm0/4c6d11f47ccd31a231cde04616d6bb22](https://gist.github.com/belm0/4c6d11f47ccd31a231cde04616d6bb22)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 12:24:24+00:00
- - tags: None
 
 <p>Article URL: <a href="https://gist.github.com/belm0/4c6d11f47ccd31a231cde04616d6bb22">https://gist.github.com/belm0/4c6d11f47ccd31a231cde04616d6bb22</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32910719">https://news.ycombinator.com/item?id=32910719</a></p>
@@ -469,7 +427,6 @@ I really believe that companies should use better strategies then putting mor
  - [https://jdk.java.net/19/release-notes](https://jdk.java.net/19/release-notes)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 11:34:50+00:00
- - tags: None
 
 <p>Article URL: <a href="https://jdk.java.net/19/release-notes">https://jdk.java.net/19/release-notes</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32910348">https://news.ycombinator.com/item?id=32910348</a></p>
@@ -480,7 +437,6 @@ I really believe that companies should use better strategies then putting mor
  - [https://github.com/corkami/collisions](https://github.com/corkami/collisions)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 11:07:02+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/corkami/collisions">https://github.com/corkami/collisions</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32910168">https://news.ycombinator.com/item?id=32910168</a></p>
@@ -491,7 +447,6 @@ I really believe that companies should use better strategies then putting mor
  - [https://webplatform.news/#1663639656000](https://webplatform.news/#1663639656000)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 10:24:21+00:00
- - tags: None
 
 <p>Article URL: <a href="https://webplatform.news/#1663639656000">https://webplatform.news/#1663639656000</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32909908">https://news.ycombinator.com/item?id=32909908</a></p>
@@ -502,7 +457,6 @@ I really believe that companies should use better strategies then putting mor
  - [https://www.renehersecycles.com/aerodynamics-of-gravel-bikes/](https://www.renehersecycles.com/aerodynamics-of-gravel-bikes/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 09:36:00+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.renehersecycles.com/aerodynamics-of-gravel-bikes/">https://www.renehersecycles.com/aerodynamics-of-gravel-bikes/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32909604">https://news.ycombinator.com/item?id=32909604</a></p>
@@ -513,7 +467,6 @@ I really believe that companies should use better strategies then putting mor
  - [https://news.ycombinator.com/item?id=32909410](https://news.ycombinator.com/item?id=32909410)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 09:11:24+00:00
- - tags: None
 
 <p>I'm in this line of work for almost 17 years now and having yet one more of these days where I'm measuring how much time I am in my current company to see if I'm ok to start looking.<p>And I remember that every single time I wanted to run away from a role/company/project the main reason was always the other people in and around it. Personality incompatibilities, to put it gently. Ar$eholes to put it right.<p>That kind of stuff dissolves teams, burns people out, drives people out, wrecks proje
 
@@ -521,7 +474,6 @@ I really believe that companies should use better strategies then putting mor
  - [http://muratbuffalo.blogspot.com/2022/09/sqlite-past-present-and-future.html](http://muratbuffalo.blogspot.com/2022/09/sqlite-past-present-and-future.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 08:38:50+00:00
- - tags: None
 
 <p>Article URL: <a href="http://muratbuffalo.blogspot.com/2022/09/sqlite-past-present-and-future.html">http://muratbuffalo.blogspot.com/2022/09/sqlite-past-present-and-future.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32909167">https://news.ycombinator.com/item?id=32909167</a></p>
@@ -532,7 +484,6 @@ I really believe that companies should use better strategies then putting mor
  - [https://new.chess24.com/wall/news/magnus-carlsen-resigns-against-hans-niemann-after-one-move](https://new.chess24.com/wall/news/magnus-carlsen-resigns-against-hans-niemann-after-one-move)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 08:30:09+00:00
- - tags: None
 
 <p>Article URL: <a href="https://new.chess24.com/wall/news/magnus-carlsen-resigns-against-hans-niemann-after-one-move">https://new.chess24.com/wall/news/magnus-carlsen-resigns-against-hans-niemann-after-one-move</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32909106">https://news.ycombinator.com/item?id=32909106</a></p>
@@ -543,7 +494,6 @@ I really believe that companies should use better strategies then putting mor
  - [https://www.theregister.com/2022/09/20/libre_office_macos_fees/](https://www.theregister.com/2022/09/20/libre_office_macos_fees/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 07:23:04+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.theregister.com/2022/09/20/libre_office_macos_fees/">https://www.theregister.com/2022/09/20/libre_office_macos_fees/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32908712">https://news.ycombinator.com/item?id=32908712</a></p>
@@ -554,7 +504,6 @@ I really believe that companies should use better strategies then putting mor
  - [https://news.ycombinator.com/item?id=32908160](https://news.ycombinator.com/item?id=32908160)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 05:56:50+00:00
- - tags: None
 
 <p>I am an amateur developer and bounce back and forth between Go and Typescript. Since I code in my free time, I usually do a week of Go, then maybe a few days of Python, and then back to Typescript.<p>I find it difficult to switch between the grammar of the languages (especially ones that are rather close such as Go and TS) and spend a day pondering over bugs which are an extra colon, or a dot in the wrong line.<p>Do you have any tricks/hacks to make the switch easier?<p>---<p>Note: by "close"
 
@@ -562,7 +511,6 @@ I really believe that companies should use better strategies then putting mor
  - [https://developer.apple.com/news/?id=e1b1hcmv](https://developer.apple.com/news/?id=e1b1hcmv)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 05:22:50+00:00
- - tags: None
 
 <p>Article URL: <a href="https://developer.apple.com/news/?id=e1b1hcmv">https://developer.apple.com/news/?id=e1b1hcmv</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32907963">https://news.ycombinator.com/item?id=32907963</a></p>
@@ -573,7 +521,6 @@ I really believe that companies should use better strategies then putting mor
  - [https://lucasfcosta.com/2022/09/15/deadlines.html](https://lucasfcosta.com/2022/09/15/deadlines.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 04:41:05+00:00
- - tags: None
 
 <p>Article URL: <a href="https://lucasfcosta.com/2022/09/15/deadlines.html">https://lucasfcosta.com/2022/09/15/deadlines.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32907726">https://news.ycombinator.com/item?id=32907726</a></p>
@@ -584,7 +531,6 @@ I really believe that companies should use better strategies then putting mor
  - [https://matthias-buehlmann.medium.com/stable-diffusion-based-image-compresssion-6f1f0a399202](https://matthias-buehlmann.medium.com/stable-diffusion-based-image-compresssion-6f1f0a399202)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 03:58:48+00:00
- - tags: None
 
 <p>Article URL: <a href="https://matthias-buehlmann.medium.com/stable-diffusion-based-image-compresssion-6f1f0a399202">https://matthias-buehlmann.medium.com/stable-diffusion-based-image-compresssion-6f1f0a399202</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32907494">https://news.ycombinator.com/item?id=32907494</a></p>
@@ -595,7 +541,6 @@ I really believe that companies should use better strategies then putting mor
  - [https://samkriss.substack.com/p/the-internet-is-already-over](https://samkriss.substack.com/p/the-internet-is-already-over)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 03:53:08+00:00
- - tags: None
 
 <p>Article URL: <a href="https://samkriss.substack.com/p/the-internet-is-already-over">https://samkriss.substack.com/p/the-internet-is-already-over</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32907473">https://news.ycombinator.com/item?id=32907473</a></p>
@@ -606,7 +551,6 @@ I really believe that companies should use better strategies then putting mor
  - [https://httptoolkit.tech/blog/cache-your-cors/](https://httptoolkit.tech/blog/cache-your-cors/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 03:13:59+00:00
- - tags: None
 
 <p>Article URL: <a href="https://httptoolkit.tech/blog/cache-your-cors/">https://httptoolkit.tech/blog/cache-your-cors/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32907234">https://news.ycombinator.com/item?id=32907234</a></p>
@@ -617,7 +561,6 @@ I really believe that companies should use better strategies then putting mor
  - [https://www.industryweek.com/supply-chain/article/22027840/boeings-737-max-software-outsourced-to-9anhour-engineers](https://www.industryweek.com/supply-chain/article/22027840/boeings-737-max-software-outsourced-to-9anhour-engineers)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 02:06:43+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.industryweek.com/supply-chain/article/22027840/boeings-737-max-software-outsourced-to-9anhour-engineers">https://www.industryweek.com/supply-chain/article/22027840/boeings-737-max-software-outsourced-to-9anhour-engineers</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32906789">https://news.ycombinator.com/item?id=32906789</a></p>
@@ -628,7 +571,6 @@ I really believe that companies should use better strategies then putting mor
  - [https://www.wired.com/2012/12/public-bus-audio-surveillance/](https://www.wired.com/2012/12/public-bus-audio-surveillance/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 01:29:53+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.wired.com/2012/12/public-bus-audio-surveillance/">https://www.wired.com/2012/12/public-bus-audio-surveillance/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32906538">https://news.ycombinator.com/item?id=32906538</a></p>
@@ -639,7 +581,6 @@ I really believe that companies should use better strategies then putting mor
  - [https://github.com/faster-cpython/ideas/wiki/Workflow-for-3.12-cycle](https://github.com/faster-cpython/ideas/wiki/Workflow-for-3.12-cycle)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 00:33:57+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/faster-cpython/ideas/wiki/Workflow-for-3.12-cycle">https://github.com/faster-cpython/ideas/wiki/Workflow-for-3.12-cycle</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32906085">https://news.ycombinator.com/item?id=32906085</a></p>
@@ -650,7 +591,6 @@ I really believe that companies should use better strategies then putting mor
  - [https://twitter.com/markrussinovich/status/1571995117233504257](https://twitter.com/markrussinovich/status/1571995117233504257)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-20 00:07:24+00:00
- - tags: None
 
 <p>Article URL: <a href="https://twitter.com/markrussinovich/status/1571995117233504257">https://twitter.com/markrussinovich/status/1571995117233504257</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32905885">https://news.ycombinator.com/item?id=32905885</a></p>

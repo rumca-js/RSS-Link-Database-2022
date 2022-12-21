@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## The 19-year evolution of Steam
  - [https://www.pcgamer.com/steam-versions](https://www.pcgamer.com/steam-versions)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 23:47:31+00:00
- - tags: None
 
 A visual history of PC gaming's most popular way to buy, play, and update games.
 
@@ -12,7 +11,6 @@ A visual history of PC gaming's most popular way to buy, play, and update games.
  - [https://www.pcgamer.com/crafty-mod-adds-glorious-ps1-neversoft-spider-man-to-heros-latest-outing](https://www.pcgamer.com/crafty-mod-adds-glorious-ps1-neversoft-spider-man-to-heros-latest-outing)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 22:56:55+00:00
- - tags: None
 
 Play as Spider-Man from 2000 in the 2022 port of the 2018 game.
 
@@ -20,7 +18,6 @@ Play as Spider-Man from 2000 in the 2022 port of the 2018 game.
  - [https://www.pcgamer.com/overwatch-fans-revolt-over-blizzards-plan-to-lock-heroes-behind-battle-pass](https://www.pcgamer.com/overwatch-fans-revolt-over-blizzards-plan-to-lock-heroes-behind-battle-pass)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 22:51:00+00:00
- - tags: None
 
 Fans are burying Overwatch 2 with heaps of criticism before it's even out.
 
@@ -28,7 +25,6 @@ Fans are burying Overwatch 2 with heaps of criticism before it's even out.
  - [https://www.pcgamer.com/nuclear-flamingos-and-deep-fried-elephants-invade-fallout-4s-nuka-world](https://www.pcgamer.com/nuclear-flamingos-and-deep-fried-elephants-invade-fallout-4s-nuka-world)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 22:03:11+00:00
- - tags: None
 
 The Mutant Menagerie—Nuclear Safari mod adds new exotic and mutated creatures to Fallout 4's final expansion.
 
@@ -36,7 +32,6 @@ The Mutant Menagerie—Nuclear Safari mod adds new exotic and mutated creatures 
  - [https://www.pcgamer.com/the-witcher-s3-reportedly-wraps-filming-bringing-us-one-step-closer-to-geralts-next-adventure](https://www.pcgamer.com/the-witcher-s3-reportedly-wraps-filming-bringing-us-one-step-closer-to-geralts-next-adventure)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 21:06:17+00:00
- - tags: None
 
 There's still a long way to go before we can watch it, however.
 
@@ -44,7 +39,6 @@ There's still a long way to go before we can watch it, however.
  - [https://www.pcgamer.com/in-the-early-days-of-everquest-a-cheater-and-designer-waged-a-secret-war-from-a-san-diego-gaming-store](https://www.pcgamer.com/in-the-early-days-of-everquest-a-cheater-and-designer-waged-a-secret-war-from-a-san-diego-gaming-store)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 21:03:19+00:00
- - tags: None
 
 One of New World's key developers actually got his start by breaking EverQuest.
 
@@ -52,7 +46,6 @@ One of New World's key developers actually got his start by breaking EverQuest.
  - [https://www.pcgamer.com/ive-been-playing-this-lo-fi-stardew-valley-soundtrack-as-obsessively-as-the-game](https://www.pcgamer.com/ive-been-playing-this-lo-fi-stardew-valley-soundtrack-as-obsessively-as-the-game)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 20:47:54+00:00
- - tags: None
 
 As if it weren't chill enough already, Stardew & Chill brings the beats down.
 
@@ -60,7 +53,6 @@ As if it weren't chill enough already, Stardew & Chill brings the beats down.
  - [https://www.pcgamer.com/best-pc-games](https://www.pcgamer.com/best-pc-games)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 18:56:08+00:00
- - tags: None
 
 Looking for a great new game? Here's what we're playing in 2022.
 
@@ -68,7 +60,6 @@ Looking for a great new game? Here's what we're playing in 2022.
  - [https://www.pcgamer.com/us-regulators-say-multi-billion-dollar-crypto-lender-celsius-was-operating-like-a-ponzi-scheme](https://www.pcgamer.com/us-regulators-say-multi-billion-dollar-crypto-lender-celsius-was-operating-like-a-ponzi-scheme)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 18:20:08+00:00
- - tags: None
 
 "At some points in time, yields to existing investors were probably being paid with the assets of new investors."
 
@@ -76,7 +67,6 @@ Looking for a great new game? Here's what we're playing in 2022.
  - [https://www.pcgamer.com/even-google-is-counting-down-the-hours-to-the-end-of-ethereum-gpu-mining](https://www.pcgamer.com/even-google-is-counting-down-the-hours-to-the-end-of-ethereum-gpu-mining)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 18:09:41+00:00
- - tags: None
 
 The countdown to The Merge has begun.
 
@@ -84,7 +74,6 @@ The countdown to The Merge has begun.
  - [https://www.pcgamer.com/corsair-xeneon-flex-oled-gaming-monitor-hands-on](https://www.pcgamer.com/corsair-xeneon-flex-oled-gaming-monitor-hands-on)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 16:08:40+00:00
- - tags: None
 
 Hands-on with Corsair's bendy Xeneon Flex OLED monitor.
 
@@ -92,7 +81,6 @@ Hands-on with Corsair's bendy Xeneon Flex OLED monitor.
  - [https://www.pcgamer.com/disney-dreamlight-valley-seaweed](https://www.pcgamer.com/disney-dreamlight-valley-seaweed)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 15:53:05+00:00
- - tags: None
 
 This is how far I'll go to finish a quest.
 
@@ -100,7 +88,6 @@ This is how far I'll go to finish a quest.
  - [https://www.pcgamer.com/best-pc-fans](https://www.pcgamer.com/best-pc-fans)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 15:38:03+00:00
- - tags: None
 
 The best PC fans will keep your gaming PC cool and quiet.
 
@@ -108,7 +95,6 @@ The best PC fans will keep your gaming PC cool and quiet.
  - [https://www.pcgamer.com/best-cpu-coolers](https://www.pcgamer.com/best-cpu-coolers)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 15:24:26+00:00
- - tags: None
 
 Our picks for the best CPU coolers will have your processor running cool with air or liquid during this summer heat.
 
@@ -116,7 +102,6 @@ Our picks for the best CPU coolers will have your processor running cool with ai
  - [https://www.pcgamer.com/cyberpunk-2077-davids-jacket-edgerunners](https://www.pcgamer.com/cyberpunk-2077-davids-jacket-edgerunners)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 15:15:59+00:00
- - tags: None
 
 Complete the Over the Edge quest to dress like David Martinez.
 
@@ -124,7 +109,6 @@ Complete the Over the Edge quest to dress like David Martinez.
  - [https://www.pcgamer.com/ubisoft-finally-realises-everyone-hates-nfts-says-its-just-researching-honest](https://www.pcgamer.com/ubisoft-finally-realises-everyone-hates-nfts-says-its-just-researching-honest)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 15:07:48+00:00
- - tags: None
 
 'When we have something that gives you a real benefit, we'll bring it to you'.
 
@@ -132,7 +116,6 @@ Complete the Over the Edge quest to dress like David Martinez.
  - [https://www.pcgamer.com/look-out-zen-4-intel-says-raptor-lakes-single-thread-performance-is-15-higher-than-alder-lake](https://www.pcgamer.com/look-out-zen-4-intel-says-raptor-lakes-single-thread-performance-is-15-higher-than-alder-lake)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 14:58:39+00:00
- - tags: None
 
 It was also a last minute addition to the roadmap: "We predicted, the next one, which was very complex... would not make it on time."
 
@@ -140,7 +123,6 @@ It was also a last minute addition to the roadmap: "We predicted, the next one, 
  - [https://www.pcgamer.com/men-of-war-2-aims-to-balance-the-spectacle-of-company-of-heroes-with-the-tactical-nuance-of-commandos](https://www.pcgamer.com/men-of-war-2-aims-to-balance-the-spectacle-of-company-of-heroes-with-the-tactical-nuance-of-commandos)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 14:56:46+00:00
- - tags: None
 
 Best Way's sequel is shaping up to be an impressive WW2 RTS.
 
@@ -148,7 +130,6 @@ Best Way's sequel is shaping up to be an impressive WW2 RTS.
  - [https://www.pcgamer.com/square-enix-joins-a-blockchain-looks-forward-to-harnessing-user-contributions](https://www.pcgamer.com/square-enix-joins-a-blockchain-looks-forward-to-harnessing-user-contributions)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 14:30:51+00:00
- - tags: None
 
 Every Cloud has a silver NFT version for sale.
 
@@ -156,7 +137,6 @@ Every Cloud has a silver NFT version for sale.
  - [https://www.pcgamer.com/musks-lawyers-flail-as-judge-refuses-to-delay-twitter-trial](https://www.pcgamer.com/musks-lawyers-flail-as-judge-refuses-to-delay-twitter-trial)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 13:36:00+00:00
- - tags: None
 
 Legal team's gonna legal team.
 
@@ -164,7 +144,6 @@ Legal team's gonna legal team.
  - [https://www.pcgamer.com/f1-manager-2022-tips](https://www.pcgamer.com/f1-manager-2022-tips)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 13:18:33+00:00
- - tags: None
 
 Here's how to get ahead to P1.
 
@@ -172,7 +151,6 @@ Here's how to get ahead to P1.
  - [https://www.pcgamer.com/f1-manager-2022-best-teams-drivers](https://www.pcgamer.com/f1-manager-2022-best-teams-drivers)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 13:16:55+00:00
- - tags: None
 
 Who to choose as your employer in Frontier’s in-depth F1 sim, and who to employ when you get there.
 
@@ -180,7 +158,6 @@ Who to choose as your employer in Frontier’s in-depth F1 sim, and who to emplo
  - [https://www.pcgamer.com/intel-arc-rumour-raja-koduri-twitter-response](https://www.pcgamer.com/intel-arc-rumour-raja-koduri-twitter-response)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 12:37:16+00:00
- - tags: None
 
 "One must wonder, who do they help?" Raja Koduri takes the cui bono line of reasoning to the recent rumours.
 
@@ -188,7 +165,6 @@ Who to choose as your employer in Frontier’s in-depth F1 sim, and who to emplo
  - [https://www.pcgamer.com/ubisoft-ceo-defends-company-against-criticism-of-reforms-but-campaigners-demand-deeper-change](https://www.pcgamer.com/ubisoft-ceo-defends-company-against-criticism-of-reforms-but-campaigners-demand-deeper-change)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 12:29:03+00:00
- - tags: None
 
 'We have done a lot and I think we are a company that can be proud of itself'
 
@@ -196,7 +172,6 @@ Who to choose as your employer in Frontier’s in-depth F1 sim, and who to emplo
  - [https://www.pcgamer.com/world-of-warcraft-wow-frostbrood-proto-wyrm-mount](https://www.pcgamer.com/world-of-warcraft-wow-frostbrood-proto-wyrm-mount)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 12:20:27+00:00
- - tags: None
 
 Add to your mount collection by playing Wrath Classic.
 
@@ -204,7 +179,6 @@ Add to your mount collection by playing Wrath Classic.
  - [https://www.pcgamer.com/genshin-impact-kalpalata-lotus-locations](https://www.pcgamer.com/genshin-impact-kalpalata-lotus-locations)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 12:17:45+00:00
- - tags: None
 
 Root out this Sumeru region speciality.
 
@@ -212,7 +186,6 @@ Root out this Sumeru region speciality.
  - [https://www.pcgamer.com/the-best-gaming-mouse](https://www.pcgamer.com/the-best-gaming-mouse)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 11:18:31+00:00
- - tags: None
 
 The best gaming mouse for every game, budget, grip, and size.
 
@@ -220,7 +193,6 @@ The best gaming mouse for every game, budget, grip, and size.
  - [https://www.pcgamer.com/finnish-study-claims-our-brains-sync-up-while-gaming-together](https://www.pcgamer.com/finnish-study-claims-our-brains-sync-up-while-gaming-together)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 11:07:24+00:00
- - tags: None
 
 The experiment was inspired by, of all things, an episode of Top Gear.
 
@@ -228,7 +200,6 @@ The experiment was inspired by, of all things, an episode of Top Gear.
  - [https://www.pcgamer.com/best-computer-speakers](https://www.pcgamer.com/best-computer-speakers)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 10:36:40+00:00
- - tags: None
 
 Treat yourself to an awesome audio experience with the best PC speakers.
 
@@ -236,7 +207,6 @@ Treat yourself to an awesome audio experience with the best PC speakers.
  - [https://www.pcgamer.com/todays-wordle-450-answer-hint](https://www.pcgamer.com/todays-wordle-450-answer-hint)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 07:01:28+00:00
- - tags: None
 
 Wordle today: The solution and a hint for Monday's puzzle.
 
@@ -244,7 +214,6 @@ Wordle today: The solution and a hint for Monday's puzzle.
  - [https://www.pcgamer.com/gifs-in-microsoft-teams-not-just-annoying-actively-dangerous](https://www.pcgamer.com/gifs-in-microsoft-teams-not-just-annoying-actively-dangerous)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 04:36:36+00:00
- - tags: None
 
 Multiple exploits have been discovered linked to GIFs.
 
@@ -252,7 +221,6 @@ Multiple exploits have been discovered linked to GIFs.
  - [https://www.pcgamer.com/castlevania-characters-coming-to-brawlhalla](https://www.pcgamer.com/castlevania-characters-coming-to-brawlhalla)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 04:10:12+00:00
- - tags: None
 
 I guess they died in battle.
 
@@ -260,7 +228,6 @@ I guess they died in battle.
  - [https://www.pcgamer.com/intels-13th-gen-13600-and-below-to-be-based-on-the-older-alder-lake-architecture](https://www.pcgamer.com/intels-13th-gen-13600-and-below-to-be-based-on-the-older-alder-lake-architecture)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 03:52:15+00:00
- - tags: None
 
 Only the 13600K, i7 and i9 ranges come with the Raptor Lake architecture.
 
@@ -268,7 +235,6 @@ Only the 13600K, i7 and i9 ranges come with the Raptor Lake architecture.
  - [https://www.pcgamer.com/us-military-set-to-get-first-delivery-from-dollar22-billion-microsoft-hololens-deal](https://www.pcgamer.com/us-military-set-to-get-first-delivery-from-dollar22-billion-microsoft-hololens-deal)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 03:33:11+00:00
- - tags: None
 
 Despite employee protests, Microsoft has gone ahead with the deal.
 
@@ -276,6 +242,5 @@ Despite employee protests, Microsoft has gone ahead with the deal.
  - [https://www.pcgamer.com/mass-effect-mod-adds-a-mineral-stock-market-so-you-can-trade-instead-of-probing](https://www.pcgamer.com/mass-effect-mod-adds-a-mineral-stock-market-so-you-can-trade-instead-of-probing)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-12 01:25:22+00:00
- - tags: None
 
 "Really, Commander?"

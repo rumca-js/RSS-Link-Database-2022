@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Elden Ring is getting its own board game
  - [https://www.theverge.com/2022/9/17/23358231/elden-ring-board-game-kickstarter-steamforged-games-tabletop](https://www.theverge.com/2022/9/17/23358231/elden-ring-board-game-kickstarter-steamforged-games-tabletop)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-17 21:25:10+00:00
- - tags: None
 
 <figure>
       <img alt="An image showing the logo for Elden Ring: The Board Game" src="https://cdn.vox-cdn.com/thumbor/ODAGxWRRNApUii257BmNHSz_EBo=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71381341/elden_ring_board_game.5.jpg" />
@@ -17,7 +16,6 @@
  - [https://www.theverge.com/2022/9/17/23356685/razer-firefly-gaming-mousepad-rgb-colors-office-setup-work](https://www.theverge.com/2022/9/17/23356685/razer-firefly-gaming-mousepad-rgb-colors-office-setup-work)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-17 16:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Razer firefly" src="https://cdn.vox-cdn.com/thumbor/5KDQDXLiYFR6RORxLIDdPRSMBfU=/0x142:7015x4819/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71380571/RzrFirefly_01_DA.0.0.jpg" />
@@ -30,7 +28,6 @@
  - [https://www.theverge.com/2022/9/17/23357796/constantine-sequel-keanu-reeves-warner-bros-dc-comics](https://www.theverge.com/2022/9/17/23357796/constantine-sequel-keanu-reeves-warner-bros-dc-comics)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-17 15:22:01+00:00
- - tags: None
 
 <figure>
       <img alt="Keanu Reeves starring in the 2005 film Constantine." src="https://cdn.vox-cdn.com/thumbor/7IS0802WEmtpDGlxwG43I9tl3iE=/197x0:1982x1190/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71380445/constantine_2005_trailer.0.png" />
@@ -43,7 +40,6 @@
  - [https://www.theverge.com/2022/9/17/23354933/tiff-2022-movie-reviews-glass-onion-weird-broker](https://www.theverge.com/2022/9/17/23354933/tiff-2022-movie-reviews-glass-onion-weird-broker)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-17 15:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Lee Jung-jae and Jung Woo-sung in Hunt." src="https://cdn.vox-cdn.com/thumbor/EGb01hy63lSr_UqT7kyVkx01VY0=/150x0:1050x600/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71380373/film_still_2021_0001_hunt_08.0.jpg" />
@@ -59,7 +55,6 @@
  - [https://www.theverge.com/2022/9/17/23357404/adobe-figma-acquisition-20-billion-bet-control-creative-market-antitrust](https://www.theverge.com/2022/9/17/23357404/adobe-figma-acquisition-20-billion-bet-control-creative-market-antitrust)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-17 14:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="An illustration containing black Adobe logos in front of white Figma logos on a red background." src="https://cdn.vox-cdn.com/thumbor/36jQolK6VAAhvT_GapL29w3yNm0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71380193/STK251_Figma_Adobe_K_Radtke_01.0.jpg" />
@@ -72,7 +67,6 @@
  - [https://www.theverge.com/2022/9/17/23356479/ifixit-iphone-pixel-google-buds-pro-nacon-xbox-anker-gan-deal-sale](https://www.theverge.com/2022/9/17/23356479/ifixit-iphone-pixel-google-buds-pro-nacon-xbox-anker-gan-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-17 13:30:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/B2tZbfiLZ7Yj1z4eXkhF_swHyh8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71380148/akrales_170620_1794_0029.0.jpg" />
@@ -85,7 +79,6 @@
  - [https://www.theverge.com/2022/9/17/23357060/tp-link-tapo-l930-review-apple-home-smart-lighting](https://www.theverge.com/2022/9/17/23357060/tp-link-tapo-l930-review-apple-home-smart-lighting)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-17 13:00:00+00:00
- - tags: None
 
 <p>The Tapo L930 has gradient RGB and tunable white light, and works with Apple Home, Google, and Alexa for under $50</p>
   <p>
@@ -96,7 +89,6 @@
  - [https://www.theverge.com/2022/9/17/23355403/ps-vita-2022-wishlist-soliloquy](https://www.theverge.com/2022/9/17/23355403/ps-vita-2022-wishlist-soliloquy)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-17 12:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="The PS Vita revision facing the camera with its screen on, displaying its bubble-filled user interface." src="https://cdn.vox-cdn.com/thumbor/LfEQHodohSFy2fVKGtCOSPQcBfk=/0x0:1024x683/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71379876/DSCF2841-1024.0.jpg" />

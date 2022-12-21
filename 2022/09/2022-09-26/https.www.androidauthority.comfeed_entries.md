@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## What is TikTok Now and how to use it?
  - [https://www.androidauthority.com/tiktok-now-explained-3213123/](https://www.androidauthority.com/tiktok-now-explained-3213123/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-26 20:36:50+00:00
- - tags: None
 
 Is TikTok's BeReal clone a little too close for comfort?
 
@@ -12,7 +11,6 @@ Is TikTok's BeReal clone a little too close for comfort?
  - [https://www.androidauthority.com/error-google-wallet-3213122/](https://www.androidauthority.com/error-google-wallet-3213122/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-26 20:12:19+00:00
- - tags: None
 
 Google Wallet has started running into an error that's preventing users from sending mobile payments.
 
@@ -20,7 +18,6 @@ Google Wallet has started running into an error that's preventing users from sen
  - [https://www.androidauthority.com/change-xbox-gamertag-3169815/](https://www.androidauthority.com/change-xbox-gamertag-3169815/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-26 19:00:33+00:00
- - tags: None
 
 Update your alias on Xbox to suit your personality.
 
@@ -28,7 +25,6 @@ Update your alias on Xbox to suit your personality.
  - [https://www.androidauthority.com/how-to-sell-on-ebay-3147120/](https://www.androidauthority.com/how-to-sell-on-ebay-3147120/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-26 18:50:39+00:00
- - tags: None
 
 Want to make some extra cash or clear out items around the house? It's easy to start selling on eBay.
 
@@ -36,7 +32,6 @@ Want to make some extra cash or clear out items around the house? It's easy to s
  - [https://www.androidauthority.com/iphone-15-ultra-leak-3213071/](https://www.androidauthority.com/iphone-15-ultra-leak-3213071/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-26 18:48:28+00:00
- - tags: None
 
 The iPhone 15 Ultra could have a dual front camera setup and more storage.
 
@@ -44,7 +39,6 @@ The iPhone 15 Ultra could have a dual front camera setup and more storage.
  - [https://www.androidauthority.com/connect-fire-tv-stick-wi-fi-3125198/](https://www.androidauthority.com/connect-fire-tv-stick-wi-fi-3125198/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-26 18:25:51+00:00
- - tags: None
 
 Access the internet to unlock the full potential of your Fire TV Stick.
 
@@ -52,7 +46,6 @@ Access the internet to unlock the full potential of your Fire TV Stick.
  - [https://www.androidauthority.com/share-screen-zoom-3167021/](https://www.androidauthority.com/share-screen-zoom-3167021/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-26 18:14:19+00:00
- - tags: None
 
 Meetings are always easier when everyone's on the same page.
 
@@ -60,7 +53,6 @@ Meetings are always easier when everyone's on the same page.
  - [https://www.androidauthority.com/huawei-mate-50-2-3212965/](https://www.androidauthority.com/huawei-mate-50-2-3212965/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-26 17:07:17+00:00
- - tags: None
 
 The Mate 50 series will be Huawei's latest flagship.
 
@@ -68,7 +60,6 @@ The Mate 50 series will be Huawei's latest flagship.
  - [https://www.androidauthority.com/new-android-games-658872/](https://www.androidauthority.com/new-android-games-658872/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-26 16:00:07+00:00
- - tags: None
 
 Looking for a fun, new Android game? We can help. Here are the best new Android games from the last month.
 
@@ -76,7 +67,6 @@ Looking for a fun, new Android game? We can help. Here are the best new Android 
  - [https://www.androidauthority.com/new-on-netflix-939257/](https://www.androidauthority.com/new-on-netflix-939257/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-26 16:00:06+00:00
- - tags: None
 
 This month, the streamer premieres returning favorites, brand new titles, classic movies, and more.
 
@@ -84,7 +74,6 @@ This month, the streamer premieres returning favorites, brand new titles, classi
  - [https://www.androidauthority.com/pixel-watch-found-3212894/](https://www.androidauthority.com/pixel-watch-found-3212894/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-26 15:26:48+00:00
- - tags: None
 
 A Pixel Watch was discovered in the wild.
 
@@ -92,7 +81,6 @@ A Pixel Watch was discovered in the wild.
  - [https://www.androidauthority.com/new-android-apps-658839/](https://www.androidauthority.com/new-android-apps-658839/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-26 15:00:52+00:00
- - tags: None
 
 Are you looking for some new apps? We got you covered with the best new Android apps from the last month.
 
@@ -100,7 +88,6 @@ Are you looking for some new apps? We got you covered with the best new Android 
  - [https://www.androidauthority.com/how-to-connect-airpods-to-android-1098779/](https://www.androidauthority.com/how-to-connect-airpods-to-android-1098779/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-26 14:45:32+00:00
- - tags: None
 
 Connecting AirPods to your Android phone? It's easy to escape the walled garden with this guide.
 
@@ -108,7 +95,6 @@ Connecting AirPods to your Android phone? It's easy to escape the walled garden 
  - [https://www.androidauthority.com/apple-iphone-14-pro-dynamic-island-3211292/](https://www.androidauthority.com/apple-iphone-14-pro-dynamic-island-3211292/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-26 14:00:31+00:00
- - tags: None
 
 An island for your time-sensitive notifications.
 
@@ -116,7 +102,6 @@ An island for your time-sensitive notifications.
  - [https://www.androidauthority.com/what-to-watch-on-hulu-3159423/](https://www.androidauthority.com/what-to-watch-on-hulu-3159423/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-26 13:00:43+00:00
- - tags: None
 
 Check out one of these great titles if you're stumped for what to watch tonight.
 
@@ -124,7 +109,6 @@ Check out one of these great titles if you're stumped for what to watch tonight.
  - [https://www.androidauthority.com/live-captions-ios-16-3212808/](https://www.androidauthority.com/live-captions-ios-16-3212808/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-26 12:33:49+00:00
- - tags: None
 
 It's a great feature — if your callers are all American.
 
@@ -132,7 +116,6 @@ It's a great feature — if your callers are all American.
  - [https://www.androidauthority.com/phone-thickness-poll-3212820/](https://www.androidauthority.com/phone-thickness-poll-3212820/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-26 12:21:02+00:00
- - tags: None
 
 It was a major trend years ago, but do you still value a thin phone?
 
@@ -140,7 +123,6 @@ It was a major trend years ago, but do you still value a thin phone?
  - [https://www.androidauthority.com/phone-seamless-updates-poll-results-3212809/](https://www.androidauthority.com/phone-seamless-updates-poll-results-3212809/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-26 11:28:01+00:00
- - tags: None
 
 The good news is that Seamless Updates could soon be mandatory on Android.
 
@@ -148,7 +130,6 @@ The good news is that Seamless Updates could soon be mandatory on Android.
  - [https://www.androidauthority.com/daily-authority-september-26-2022-3212729/](https://www.androidauthority.com/daily-authority-september-26-2022-3212729/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-26 08:46:00+00:00
- - tags: None
 
 A familiar Pixel 7 approaches, TV series memes will be made, and more in today's TDA.
 
@@ -156,7 +137,6 @@ A familiar Pixel 7 approaches, TV series memes will be made, and more in today's
  - [https://www.androidauthority.com/amazon-prime-early-access-sale-2022-3212747/](https://www.androidauthority.com/amazon-prime-early-access-sale-2022-3212747/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-26 08:09:01+00:00
- - tags: None
 
 The inaugural Prime Early Access Sale kicks off from October 11-12. Here's what else you should know.
 
@@ -164,7 +144,6 @@ The inaugural Prime Early Access Sale kicks off from October 11-12. Here's what 
  - [https://www.androidauthority.com/google-photos-corrupted-images-3212737/](https://www.androidauthority.com/google-photos-corrupted-images-3212737/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-26 07:00:45+00:00
- - tags: None
 
 Many Google Photos users are reporting that their old images have been damaged.
 
@@ -172,7 +151,6 @@ Many Google Photos users are reporting that their old images have been damaged.
  - [https://www.androidauthority.com/google-pixel-7-specs-3212161/](https://www.androidauthority.com/google-pixel-7-specs-3212161/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-26 06:26:51+00:00
- - tags: None
 
 Is this real 30W charging support, though?
 
@@ -180,6 +158,5 @@ Is this real 30W charging support, though?
  - [https://www.androidauthority.com/apple-watch-ultra-hammer-beating-3212732/](https://www.androidauthority.com/apple-watch-ultra-hammer-beating-3212732/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-26 06:12:22+00:00
- - tags: None
 
 A tough nut to crack.

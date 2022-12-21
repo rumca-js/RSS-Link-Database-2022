@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## Alan Perlis and the evolution of programming languages
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58814](https://www.codeproject.com/script/News/View.aspx?nwid=58814)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-08 04:00:00+00:00
- - tags: None
 
 Some of them certainly aren't intelligently designed
 
@@ -12,7 +11,6 @@ Some of them certainly aren't intelligently designed
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58803](https://www.codeproject.com/script/News/View.aspx?nwid=58803)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-08 04:00:00+00:00
- - tags: None
 
 As your app grows in size and complexity, it becomes increasingly difficult to manage, build and scale. One way to address this challenge is a software technique called modular programming.
 
@@ -20,7 +18,6 @@ As your app grows in size and complexity, it becomes increasingly difficult to m
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58809](https://www.codeproject.com/script/News/View.aspx?nwid=58809)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-08 04:00:00+00:00
- - tags: None
 
 Finally! Time to dig my IIe out of wherever it's stored
 
@@ -28,7 +25,6 @@ Finally! Time to dig my IIe out of wherever it's stored
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58819](https://www.codeproject.com/script/News/View.aspx?nwid=58819)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-08 04:00:00+00:00
- - tags: None
 
 Now I'll know the next time I crash!
 
@@ -36,7 +32,6 @@ Now I'll know the next time I crash!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58806](https://www.codeproject.com/script/News/View.aspx?nwid=58806)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-08 04:00:00+00:00
- - tags: None
 
 The .NET MAUI Community Toolkit provides the Popup view, which you can use to create a custom UI that you can present to your users. We’ll use this and populate it with an ActivityIndicator, which will be our spinner.
 
@@ -44,7 +39,6 @@ The .NET MAUI Community Toolkit provides the Popup view, which you can use to cr
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58805](https://www.codeproject.com/script/News/View.aspx?nwid=58805)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-08 04:00:00+00:00
- - tags: None
 
 If you’re currently using SharedPreferences to store data, consider migrating to DataStore instead.
 
@@ -52,7 +46,6 @@ If you’re currently using SharedPreferences to store data, consider migrating 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58810](https://www.codeproject.com/script/News/View.aspx?nwid=58810)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-08 04:00:00+00:00
- - tags: None
 
 "Move fast and break things"
 
@@ -60,7 +53,6 @@ If you’re currently using SharedPreferences to store data, consider migrating 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58815](https://www.codeproject.com/script/News/View.aspx?nwid=58815)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-08 04:00:00+00:00
- - tags: None
 
 " Wouldn't you prefer a good game of chess?"
 
@@ -68,7 +60,6 @@ If you’re currently using SharedPreferences to store data, consider migrating 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58811](https://www.codeproject.com/script/News/View.aspx?nwid=58811)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-08 04:00:00+00:00
- - tags: None
 
 Go, go gadget checkup!
 
@@ -76,7 +67,6 @@ Go, go gadget checkup!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58812](https://www.codeproject.com/script/News/View.aspx?nwid=58812)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-08 04:00:00+00:00
- - tags: None
 
 "We be been taking care of business"
 
@@ -84,7 +74,6 @@ Go, go gadget checkup!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58808](https://www.codeproject.com/script/News/View.aspx?nwid=58808)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-08 04:00:00+00:00
- - tags: None
 
 The easiest way to automate UI testing for your mobile app
 
@@ -92,7 +81,6 @@ The easiest way to automate UI testing for your mobile app
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58726](https://www.codeproject.com/script/News/View.aspx?nwid=58726)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-08 04:00:00+00:00
- - tags: None
 
 Today in our .NET MAUI explorations, let’s see how to use one of the primary tools for any app—a menu bar!
 
@@ -100,7 +88,6 @@ Today in our .NET MAUI explorations, let’s see how to use one of the primary t
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58817](https://www.codeproject.com/script/News/View.aspx?nwid=58817)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-08 04:00:00+00:00
- - tags: None
 
 Time to block it?
 
@@ -108,7 +95,6 @@ Time to block it?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58813](https://www.codeproject.com/script/News/View.aspx?nwid=58813)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-08 04:00:00+00:00
- - tags: None
 
 Happiness is a warm keyboard. Click, click. Shift, shift
 
@@ -116,7 +102,6 @@ Happiness is a warm keyboard. Click, click. Shift, shift
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58816](https://www.codeproject.com/script/News/View.aspx?nwid=58816)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-08 04:00:00+00:00
- - tags: None
 
 I'm sad because I crushed all the candy, and I could crush all the candy because I was sad
 
@@ -124,7 +109,6 @@ I'm sad because I crushed all the candy, and I could crush all the candy because
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58807](https://www.codeproject.com/script/News/View.aspx?nwid=58807)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-08 04:00:00+00:00
- - tags: None
 
 The main appeal of building apps in SwiftUI is being able to share UI code across platforms, in particular iOS and macOS.
 
@@ -132,7 +116,6 @@ The main appeal of building apps in SwiftUI is being able to share UI code acros
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58818](https://www.codeproject.com/script/News/View.aspx?nwid=58818)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-08 04:00:00+00:00
- - tags: None
 
 When AI meets political intelligence
 
@@ -140,6 +123,5 @@ When AI meets political intelligence
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58804](https://www.codeproject.com/script/News/View.aspx?nwid=58804)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-08 04:00:00+00:00
- - tags: None
 
 The version of The Swift Programming Language published on docs.swift.org is currently built using a legacy toolchain, not from this repository or its content. The goal is to replace that version with a version built from this repository, working with the community to extend Swift-DocC where needed.

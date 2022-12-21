@@ -1,10 +1,9 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology
+# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
 
 ## Musk cites $7 million Twitter payout to whistleblower as violation of deal
  - [https://www.washingtonpost.com/technology/2022/09/09/twitter-musk-sell-mudge-termination-payment/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/09/twitter-musk-sell-mudge-termination-payment/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-09 19:08:17+00:00
- - tags: None
 
 Musk's lawyers said the payout violated a specific provision of the purchase agreement that barred Twitter from making payments to "service providers" outside ordinary fringe benefits.
 
@@ -12,7 +11,6 @@ Musk's lawyers said the payout violated a specific provision of the purchase agr
  - [https://www.washingtonpost.com/video-games/2022/09/09/ninja-pokimane-twitch-tiktok-youtube/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/09/09/ninja-pokimane-twitch-tiktok-youtube/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-09 17:26:13+00:00
- - tags: None
 
 The two streamers, mainstays of Twitch’s ‘Fortnite’ era, announced big moves recently. The two were received very differently.
 
@@ -20,7 +18,6 @@ The two streamers, mainstays of Twitch’s ‘Fortnite’ era, announced big mov
  - [https://www.washingtonpost.com/video-games/2022/09/09/disney-marvel-d23-video-games-star-wars/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/09/09/disney-marvel-d23-video-games-star-wars/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-09 15:50:27+00:00
- - tags: None
 
 The event, which begins at 4 p.m. Eastern time, promises updates relating to games from Disney, Marvel, Lucasfilm, Pixar and 20th Century Studios.
 
@@ -28,7 +25,6 @@ The event, which begins at 4 p.m. Eastern time, promises updates relating to gam
  - [https://www.washingtonpost.com/video-games/2022/09/09/roblox-ads-metaverse/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/09/09/roblox-ads-metaverse/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-09 13:00:22+00:00
- - tags: None
 
 The metaverse-hungry platform is looking for more ways to monetize Roblox experiences.
 
@@ -36,6 +32,5 @@ The metaverse-hungry platform is looking for more ways to monetize Roblox experi
  - [https://www.washingtonpost.com/technology/2022/09/09/remote-work-culture-tips/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/09/remote-work-culture-tips/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-09 07:00:45+00:00
- - tags: None
 
 Companies that have operated remotely since inception offer their best advice for creating and maintaining company culture with a distributed workforce.

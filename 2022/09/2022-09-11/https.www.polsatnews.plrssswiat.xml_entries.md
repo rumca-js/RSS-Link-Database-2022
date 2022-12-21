@@ -1,10 +1,9 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml
+# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
 
 ## Ukraina. Rosjanie ostrzelali cywilną infrastrukturę krytyczną
  - [https://www.polsatnews.pl/wiadomosc/2022-09-11/ukraina-rosjanie-ostrzelali-cywilna-infrastrukture-krytyczna/](https://www.polsatnews.pl/wiadomosc/2022-09-11/ukraina-rosjanie-ostrzelali-cywilna-infrastrukture-krytyczna/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-11 20:46:00+00:00
- - tags: None
 
 Celowe i cyniczne uderzenia rakietowe na cywilną infrastrukturę krytyczną. Ani jednego obiektu wojskowego - tak prezydent Ukrainy Wołodymyr Zełenski skomentował ataki rakietowe Rosjan. Ze zdjęć i nagrań opublikowanych w sieci wynika, że Rosjanom udało się uszkodzić sieć elektroenergetyczną w Charkowie.
 
@@ -12,7 +11,6 @@ Celowe i cyniczne uderzenia rakietowe na cywilną infrastrukturę krytyczną. An
  - [https://www.polsatnews.pl/wiadomosc/2022-09-11/hiszpania-nie-zyje-wybitny-pisarz-javier-marias-mial-70-lat/](https://www.polsatnews.pl/wiadomosc/2022-09-11/hiszpania-nie-zyje-wybitny-pisarz-javier-marias-mial-70-lat/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-11 19:44:00+00:00
- - tags: None
 
 W wieku 70 lat zmarł Javier Marias - wielokrotnie nagradzany hiszpański pisarz. Był jednym z wielkich pisarzy naszych czasów - napisał o nim premier Hiszpanii Pedro Sanchez.
 
@@ -20,7 +18,6 @@ W wieku 70 lat zmarł Javier Marias - wielokrotnie nagradzany hiszpański pisarz
  - [https://www.polsatnews.pl/wiadomosc/2022-09-11/badanie-mozg-zmniejsza-sie-u-ojcow-po-narodzinach-pierwszego-dziecka/](https://www.polsatnews.pl/wiadomosc/2022-09-11/badanie-mozg-zmniejsza-sie-u-ojcow-po-narodzinach-pierwszego-dziecka/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-11 18:51:00+00:00
- - tags: None
 
 Według hiszpańskich i amerykańskich badaczy, u ojców, którzy po raz pierwszy zostali rodzicami, dochodzi do zmniejszenia objętości kory mózgowej. Choć taka informacja może martwić, w rzeczywistości jest bardzo pozytywna i świadczy o przygotowaniach organizmu na nadejście dziecka.
 
@@ -28,7 +25,6 @@ Według hiszpańskich i amerykańskich badaczy, u ojców, którzy po raz pierwsz
  - [https://www.polsatnews.pl/wiadomosc/2022-09-11/ukrainska-kontrofensywa-ponad-40-wyzwolonych-miejscowosci/](https://www.polsatnews.pl/wiadomosc/2022-09-11/ukrainska-kontrofensywa-ponad-40-wyzwolonych-miejscowosci/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-11 16:59:00+00:00
- - tags: None
 
 Ponad 40 wyzwolonych miejscowości - to najnowszy bilans ukraińskiej kontrofensywy. Żołnierze dotarli też do miast przy rosyjskiej granicy, a walki w tym miejscu zatrzymują przysyłane z północy wsparcie dla oddziałów rosyjskich.
 
@@ -36,7 +32,6 @@ Ponad 40 wyzwolonych miejscowości - to najnowszy bilans ukraińskiej kontrofens
  - [https://www.polsatnews.pl/wiadomosc/2022-09-11/moskwa-putin-otworzyl-najwieksze-w-europie-kolo-widokowe-dzialalo-jeden-dzien/](https://www.polsatnews.pl/wiadomosc/2022-09-11/moskwa-putin-otworzyl-najwieksze-w-europie-kolo-widokowe-dzialalo-jeden-dzien/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-11 16:15:00+00:00
- - tags: None
 
 Rosjanie hucznie obchodzili święto swojej stolicy i otworzyli w Moskwie wielkie koło widokowe. Diabelski młyn jest o pięć metrów wyższy od londyńskiego London Eye. Tyle tylko, że konstrukcja w stolicy Wielkiej Brytanii działa bez zarzutu, a rosyjska inwestycja przestała działać po jednym dniu.
 
@@ -44,7 +39,6 @@ Rosjanie hucznie obchodzili święto swojej stolicy i otworzyli w Moskwie wielki
  - [https://www.polsatnews.pl/wiadomosc/2022-09-11/wlochy-wicemistrz-europy-ahmed-abdelwahed-z-pozytywnym-wynikiem-testu-dopingowego/](https://www.polsatnews.pl/wiadomosc/2022-09-11/wlochy-wicemistrz-europy-ahmed-abdelwahed-z-pozytywnym-wynikiem-testu-dopingowego/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-11 15:00:00+00:00
- - tags: None
 
 Ahmed Abdelwahed uzyskał pozytywny wynik kontroli antydopingowej - przekazał portal gazety La Repubblica. W organizmie włoskiego lekkoatlety wykryto meldonium.
 
@@ -52,7 +46,6 @@ Ahmed Abdelwahed uzyskał pozytywny wynik kontroli antydopingowej - przekazał p
  - [https://www.polsatnews.pl/wiadomosc/2022-09-11/usa-festiwal-burning-man-i-wielki-korek-12-godzin-oczekiwania/](https://www.polsatnews.pl/wiadomosc/2022-09-11/usa-festiwal-burning-man-i-wielki-korek-12-godzin-oczekiwania/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-11 14:37:00+00:00
- - tags: None
 
 Uczestnicy festiwalu Burning Man w Nevadzie musieli czekać nawet 12 godzin, by wydostać się z imprezy. Oczekiwanie uprzykrzał im 40 stopniowy upał. Stanie w korku porównywali do filmu katastroficznego.
 
@@ -60,7 +53,6 @@ Uczestnicy festiwalu Burning Man w Nevadzie musieli czekać nawet 12 godzin, by 
  - [https://www.polsatnews.pl/wiadomosc/2022-09-11/meksyk-zderzenie-cysterny-z-autobusem-pojazdy-w-plomieniach/](https://www.polsatnews.pl/wiadomosc/2022-09-11/meksyk-zderzenie-cysterny-z-autobusem-pojazdy-w-plomieniach/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-11 13:28:00+00:00
- - tags: None
 
 Co najmniej 18 osób zginęło w Meksyku, po tym, jak wypełniona paliwem cysterna zderzyła się z autobusem. Oba pojazdy stanęły w płomieniach. Wypadek miał miejsce w stanie Tamaulipas, na północy kraju.
 
@@ -68,7 +60,6 @@ Co najmniej 18 osób zginęło w Meksyku, po tym, jak wypełniona paliwem cyster
  - [https://www.polsatnews.pl/wiadomosc/2022-09-11/wielka-brytania-pszczoly-krolowej-zostaly-poinformowane-o-jej-smierci/](https://www.polsatnews.pl/wiadomosc/2022-09-11/wielka-brytania-pszczoly-krolowej-zostaly-poinformowane-o-jej-smierci/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-11 13:01:00+00:00
- - tags: None
 
 Królewskie pszczoły w żałobie. Poinformowanie ich w królewskiej pasiecie o śmierci monarchy jest kolejnym z elementów związanych z obrzędami żałobnymi po śmierci Elżbiety II.
 
@@ -76,7 +67,6 @@ Królewskie pszczoły w żałobie. Poinformowanie ich w królewskiej pasiecie o 
  - [https://www.polsatnews.pl/wiadomosc/2022-09-11/wojna-w-ukrainie-gubernator-z-ukrainy-uciekaja-okupacyjne-wladze-miast-zajetych-w-2014-roku/](https://www.polsatnews.pl/wiadomosc/2022-09-11/wojna-w-ukrainie-gubernator-z-ukrainy-uciekaja-okupacyjne-wladze-miast-zajetych-w-2014-roku/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-11 12:09:00+00:00
- - tags: None
 
 Ukraińska armia prowadzi w ostatnich dniach udane natarcie na wschodzie kraju. W wyniku tych działań, Rosjanie wycofują się z zajmowanych terenów. Jak informuje Serhij Hajdaj, okupacyjne władze uciekają nawet z miejsc, które zostały zajęte w 2014 roku.
 
@@ -84,7 +74,6 @@ Ukraińska armia prowadzi w ostatnich dniach udane natarcie na wschodzie kraju. 
  - [https://www.polsatnews.pl/wiadomosc/2022-09-11/wielka-brytania-osobliwe-zachowanie-nowego-krola-kazal-sprzatac-dla-siebie-stolik/](https://www.polsatnews.pl/wiadomosc/2022-09-11/wielka-brytania-osobliwe-zachowanie-nowego-krola-kazal-sprzatac-dla-siebie-stolik/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-11 11:32:00+00:00
- - tags: None
 
 Karol III został oficjalnie proklamowany królem Zjednoczonego Królestwa. Uwadze brytyjskich dziennikarzy nie umknęło osobliwe zachowanie nowego monarchy, który swoimi gestami wymuszał na służbie uprzątnięcie stolika, na którym podpisywał dokumenty.
 
@@ -92,7 +81,6 @@ Karol III został oficjalnie proklamowany królem Zjednoczonego Królestwa. Uwad
  - [https://www.polsatnews.pl/wiadomosc/2022-09-11/wielka-brytania-cialo-elzbiety-ii-opuscilo-rezydencje-w-balmoral/](https://www.polsatnews.pl/wiadomosc/2022-09-11/wielka-brytania-cialo-elzbiety-ii-opuscilo-rezydencje-w-balmoral/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-11 09:40:00+00:00
- - tags: None
 
 Trumna z ciałem królowej Elżbiety II opuściła w niedzielę rezydencję w Balmoral. Specjalnym konduktem ciało monarchini zostanie przewiezione do Pałacu Holyroodhouse w stolicy Szkocji, Edynburgu.
 
@@ -100,7 +88,6 @@ Trumna z ciałem królowej Elżbiety II opuściła w niedzielę rezydencję w Ba
  - [https://www.polsatnews.pl/wiadomosc/2022-09-11/wojna-na-ukrainie-zajecie-balaklii-zajelo-nam-okolo-17-minut/](https://www.polsatnews.pl/wiadomosc/2022-09-11/wojna-na-ukrainie-zajecie-balaklii-zajelo-nam-okolo-17-minut/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-11 09:37:00+00:00
- - tags: None
 
 Zajęcie Bałaklii zajęło nam około 17 minut - powiedział portalowi Vok-Tak białoruskiej niezależnej telewizji Białest ukraiński snajper uczestniczący w operacji odbicia miasta.
 
@@ -108,7 +95,6 @@ Zajęcie Bałaklii zajęło nam około 17 minut - powiedział portalowi Vok-Tak 
  - [https://www.polsatnews.pl/wiadomosc/2022-09-11/wojna-w-ukrainie-rosjanie-potwierdzaja-wycofanie-sie-z-rejonu-iziumia-by-osiagnac-cele/](https://www.polsatnews.pl/wiadomosc/2022-09-11/wojna-w-ukrainie-rosjanie-potwierdzaja-wycofanie-sie-z-rejonu-iziumia-by-osiagnac-cele/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-11 08:28:00+00:00
- - tags: None
 
 Rosyjskie ministerstwo obrony przyznało w niedzielę w komunikacie, że wojska Federacji opuściły tereny Iziumia w obwodzie charkowskich we wschodniej Ukrainie. Jak tłumaczy resort, ma to służyć osiągnięciu celów specjalnej operacji wojskowej.
 
@@ -116,7 +102,6 @@ Rosyjskie ministerstwo obrony przyznało w niedzielę w komunikacie, że wojska 
  - [https://www.polsatnews.pl/wiadomosc/2022-09-11/trwa-deokupacja-ukrainska-armia-odzyskuje-utracone-terytorium-wydano-komunikat/](https://www.polsatnews.pl/wiadomosc/2022-09-11/trwa-deokupacja-ukrainska-armia-odzyskuje-utracone-terytorium-wydano-komunikat/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-11 05:49:00+00:00
- - tags: None
 
 - Trwa deokupacja Ukrainy. W ciągu dnia, aby wesprzeć działania grup naziemnych, lotnictwo Wojsk Obrony przeprowadziło 23 uderzenia, które zniszczyły cztery kompleksy rakietowe przeciwlotnicze, uderzyły w cztery punkty wsparcia i piętnaście lokalizacji żywej siły i technologii wroga - informuje Sztab Generalny Sił Zbrojnych Ukrainy.
 
@@ -124,6 +109,5 @@ Rosyjskie ministerstwo obrony przyznało w niedzielę w komunikacie, że wojska 
  - [https://www.polsatnews.pl/wiadomosc/2022-09-11/karol-iii-oficjalnie-ogloszony-glowa-panstwa-w-australii-i-nowej-zelandii/](https://www.polsatnews.pl/wiadomosc/2022-09-11/karol-iii-oficjalnie-ogloszony-glowa-panstwa-w-australii-i-nowej-zelandii/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-11 05:21:00+00:00
- - tags: None
 
 Nowy monarcha brytyjski Karol III został oficjalnie ogłoszony głową państwa w Australii i w Nowej Zelandii podczas uroczystości, które odbyły się w stolicach obu państw. Rola brytyjskiego monarchy jako głowy państwa ma tam charakter symboliczny.

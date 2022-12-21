@@ -1,10 +1,9 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss
+# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
 
 ## Four teenagers were shot at a protest in Papua. Eight years on, only one suspect is facing trial
  - [https://www.cnn.com/2022/09/30/asia/papua-children-massacre-indonesia-justice-trial-intl-hnk/index.html](https://www.cnn.com/2022/09/30/asia/papua-children-massacre-indonesia-justice-trial-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-30 23:57:21+00:00
- - tags: None
 
 Even by the bloody standards of Indonesia's decades-long Papua conflict, one massacre stands out for its brutality -- and the seeming impunity of those behind it.
 
@@ -12,7 +11,6 @@ Even by the bloody standards of Indonesia's decades-long Papua conflict, one mas
  - [https://www.cnn.com/2022/09/30/middleeast/donya-rad-iran-hijab-arrest-intl/index.html](https://www.cnn.com/2022/09/30/middleeast/donya-rad-iran-hijab-arrest-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-30 19:27:26+00:00
- - tags: None
 
 Iranian security forces arrested a woman after a photo of her and another woman eating at a Tehran restaurant without their head scarves was widely circulated online, her family said Friday. The photo emerged Wednesday showing the two women having breakfast at a cafe that, like most coffeehouses in Iran, is traditionally patronized by men.
 
@@ -20,7 +18,6 @@ Iranian security forces arrested a woman after a photo of her and another woman 
  - [https://www.cnn.com/2022/09/30/middleeast/palestinian-west-bank-israel-suleiman-intl/index.html](https://www.cnn.com/2022/09/30/middleeast/palestinian-west-bank-israel-suleiman-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-30 17:49:09+00:00
- - tags: None
 
 Thousands of Palestinians turned out Friday to mourn a seven-year-old Palestinian boy who died, his father said, while being chased by Israeli troops on Thursday -- an account rejected by the Israeli army but which prompted the US State Department to call for an investigation.
 
@@ -28,7 +25,6 @@ Thousands of Palestinians turned out Friday to mourn a seven-year-old Palestinia
  - [https://www.cnn.com/2022/09/30/business/monica-geingos-namibia-green-energy-spc-intl/index.html](https://www.cnn.com/2022/09/30/business/monica-geingos-namibia-green-energy-spc-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-30 14:54:34+00:00
- - tags: None
 
 With Europe looking for alternatives to Russian energy, the European Union has set a target to produce 11 million tons of green hydrogen, and import another 11 million tons, by 2030.
 
@@ -36,7 +32,6 @@ With Europe looking for alternatives to Russian energy, the European Union has s
  - [https://www.cnn.com/2022/09/30/middleeast/palestinian-textbooks-jerusalem-mime-intl/index.html](https://www.cnn.com/2022/09/30/middleeast/palestinian-textbooks-jerusalem-mime-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-30 14:41:32+00:00
- - tags: None
 
 On September 19, some 150 schools in East Jerusalem went on strike, keeping tens of thousands of students out of the classroom, to protest the introduction of Israeli textbooks.
 
@@ -44,7 +39,6 @@ On September 19, some 150 schools in East Jerusalem went on strike, keeping tens
  - [https://www.cnn.com/2022/09/30/africa/heavy-gunfire-in-burkina-faso-intl/index.html](https://www.cnn.com/2022/09/30/africa/heavy-gunfire-in-burkina-faso-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-30 09:11:26+00:00
- - tags: None
 
 Heavy gunfire was heard coming from the main military camp and some residential areas of Burkina Faso's capital early on Friday morning, Reuters reporters said.
 
@@ -52,7 +46,6 @@ Heavy gunfire was heard coming from the main military camp and some residential 
  - [https://www.cnn.com/2022/09/29/asia/philippines-martial-law-50-years-marcos-intl-hnk/index.html](https://www.cnn.com/2022/09/29/asia/philippines-martial-law-50-years-marcos-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-30 03:31:09+00:00
- - tags: None
 
 When Philippine President Ferdinand "Bongbong" Marcos Jnr. met US President Joe Biden in New York last week, there was an uncomfortable sense of deja vu for some older Filipinos.
 
@@ -60,7 +53,6 @@ When Philippine President Ferdinand "Bongbong" Marcos Jnr. met US President Joe 
  - [https://www.cnn.com/2022/09/29/asia/vatican-disciplined-east-timor-bishop-intl-hnk/index.html](https://www.cnn.com/2022/09/29/asia/vatican-disciplined-east-timor-bishop-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-30 03:06:28+00:00
- - tags: None
 
 The Vatican on Thursday acknowledged that it had secretly disciplined East Timor bishop and Nobel Peace Prize winner Carlos Ximenes Belo two years ago, responding to allegations that he sexually abused boys in East Timor decades before.
 
@@ -68,6 +60,5 @@ The Vatican on Thursday acknowledged that it had secretly disciplined East Timor
  - [https://www.cnn.com/2022/09/29/business/nightcap-recession-fears/index.html](https://www.cnn.com/2022/09/29/business/nightcap-recession-fears/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-30 00:00:11+00:00
- - tags: None
 
 All week, there have events in the news that have come in under of the banner of "this hasn't happened since 2007/2008."

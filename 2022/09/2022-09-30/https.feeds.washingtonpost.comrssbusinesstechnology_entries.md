@@ -1,10 +1,9 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology
+# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
 
 ## 10 great games to play on iPhone
  - [https://www.washingtonpost.com/video-games/2022/09/30/best-iphone-games/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/09/30/best-iphone-games/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-30 16:29:32+00:00
- - tags: None
 
 From Mario Kart to Pokémon Unite to Desta, if you’ve got an iPhone, we’ve got recommendations.
 
@@ -12,7 +11,6 @@ From Mario Kart to Pokémon Unite to Desta, if you’ve got an iPhone, we’ve g
  - [https://www.washingtonpost.com/video-games/2022/09/30/modern-warfare-2-beta-cheats-impressions/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/09/30/modern-warfare-2-beta-cheats-impressions/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-30 15:15:23+00:00
- - tags: None
 
 All of the tweaks and changes for "Modern Warfare II" and "Warzone 2.0" will be for naught if Call of Duty's cheating can't be curbed.
 
@@ -20,7 +18,6 @@ All of the tweaks and changes for "Modern Warfare II" and "Warzone 2.0" will be 
  - [https://www.washingtonpost.com/technology/2020/05/28/what-is-section-230/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2020/05/28/what-is-section-230/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-30 13:49:49+00:00
- - tags: None
 
 Often called the law that “created the Internet,” the legal section is under fire again. So what is it?
 
@@ -28,7 +25,6 @@ Often called the law that “created the Internet,” the legal section is under
  - [https://www.washingtonpost.com/technology/2022/09/30/work-mobile-phone-number/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/30/work-mobile-phone-number/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-30 07:00:54+00:00
- - tags: None
 
 If you’ve used your company-issued phone for personal as well as professional purposes, leaving your phone number behind may cause some headaches. Here’s how to navigate.
 
@@ -36,7 +32,6 @@ If you’ve used your company-issued phone for personal as well as professional 
  - [https://www.washingtonpost.com/technology/2022/09/30/nasa-spacex-hubble-telescope/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/30/nasa-spacex-hubble-telescope/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-30 07:00:34+00:00
- - tags: None
 
 The space agency is studying a potential mission with SpaceX to boost the telescope, which has been in space for more than 30 years.
 
@@ -44,7 +39,6 @@ The space agency is studying a potential mission with SpaceX to boost the telesc
  - [https://www.washingtonpost.com/technology/2022/09/30/elon-musk-texts-twitter/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/30/elon-musk-texts-twitter/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-30 06:00:56+00:00
- - tags: None
 
 Elon Musk’s phone was flooded with the thoughts of key advisers, peers and close confidants: Jack Dorsey, Joe Rogan and Gov. Ron DeSantis, the text messages reveal.
 
@@ -52,6 +46,5 @@ Elon Musk’s phone was flooded with the thoughts of key advisers, peers and clo
  - [https://www.washingtonpost.com/technology/2022/09/30/elon-musk-tesla-bot/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/30/elon-musk-tesla-bot/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-30 06:00:52+00:00
- - tags: None
 
 Elon Musk will take the stage at Tesla’s AI Day to reveal details about the cyborg dubbed Optimus, which he claims will revolutionize physical work.

@@ -1,10 +1,9 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss
+# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
 
 ## These fake Zoom websites want to trick you into downloading malware
  - [https://www.techradar.com/news/these-fake-zoom-websites-want-to-trick-you-into-downloading-malware/](https://www.techradar.com/news/these-fake-zoom-websites-want-to-trick-you-into-downloading-malware/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-23 21:32:03+00:00
- - tags: None
 
 Make sure you're downloading your Zoom clients from a legitimate source.
 
@@ -12,7 +11,6 @@ Make sure you're downloading your Zoom clients from a legitimate source.
  - [https://www.techradar.com/news/this-dangerous-android-spyware-could-affect-millions-of-devices/](https://www.techradar.com/news/this-dangerous-android-spyware-could-affect-millions-of-devices/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-23 20:20:57+00:00
- - tags: None
 
 Microsoft warns a known Android spyware is back, with new weapons in its arsenal.
 
@@ -20,7 +18,6 @@ Microsoft warns a known Android spyware is back, with new weapons in its arsenal
  - [https://www.techradar.com/news/garmins-new-gadget-capitalizes-on-missing-smartwatch-feature/](https://www.techradar.com/news/garmins-new-gadget-capitalizes-on-missing-smartwatch-feature/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-23 20:17:26+00:00
- - tags: None
 
 Currently available for sale, the Index BPM can measure the blood pressure of up 16 different people.
 
@@ -28,7 +25,6 @@ Currently available for sale, the Index BPM can measure the blood pressure of up
  - [https://www.techradar.com/news/iphone-14-pro-max-drop-test-goes-about-as-well-as-youd-expect/](https://www.techradar.com/news/iphone-14-pro-max-drop-test-goes-about-as-well-as-youd-expect/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-23 19:20:52+00:00
- - tags: None
 
 YouTuber pits the iPhone 14 Pro Max against the Samsung Galaxy S22 Ultra in a series of brutal drop tests
 
@@ -36,7 +32,6 @@ YouTuber pits the iPhone 14 Pro Max against the Samsung Galaxy S22 Ultra in a se
  - [https://www.techradar.com/news/facebook-sued-for-allegedly-spying-on-users-via-in-app-web-browser/](https://www.techradar.com/news/facebook-sued-for-allegedly-spying-on-users-via-in-app-web-browser/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-23 19:11:05+00:00
- - tags: None
 
 Lawsuit says Facebook and Instagram should have been upfront about how its browser gathers data.
 
@@ -44,7 +39,6 @@ Lawsuit says Facebook and Instagram should have been upfront about how its brows
  - [https://www.techradar.com/news/mozilla-claims-apple-google-and-microsoft-force-users-to-use-default-web-browsers/](https://www.techradar.com/news/mozilla-claims-apple-google-and-microsoft-force-users-to-use-default-web-browsers/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-23 18:34:04+00:00
- - tags: None
 
 Report from Firefox's parent organization accuses many of the largest browsers of abusing their market position.
 
@@ -52,7 +46,6 @@ Report from Firefox's parent organization accuses many of the largest browsers o
  - [https://www.techradar.com/news/new-amazon-kindle-update-will-change-the-way-you-read-ebooks-and-tiktoks-to-blame/](https://www.techradar.com/news/new-amazon-kindle-update-will-change-the-way-you-read-ebooks-and-tiktoks-to-blame/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-23 17:30:21+00:00
- - tags: None
 
 Amazon is changing its Kindle ebook returns policy, thanks to some TikTok users gaming the system to hurt authors.
 
@@ -60,7 +53,6 @@ Amazon is changing its Kindle ebook returns policy, thanks to some TikTok users 
  - [https://www.techradar.com/news/intel-raptor-lake-flagship-benchmark-leak-shows-a-seriously-fast-cpu/](https://www.techradar.com/news/intel-raptor-lake-flagship-benchmark-leak-shows-a-seriously-fast-cpu/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-23 16:52:26+00:00
- - tags: None
 
 The Core i9-13900K doesn’t just easily beat its predecessor, but also the 12900KS special edition by some margin.
 
@@ -68,7 +60,6 @@ The Core i9-13900K doesn’t just easily beat its predecessor, but also the 1290
  - [https://www.techradar.com/news/github-accounts-are-being-stolen-by-fake-circleci-accounts/](https://www.techradar.com/news/github-accounts-are-being-stolen-by-fake-circleci-accounts/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-23 16:45:48+00:00
- - tags: None
 
 GitHub and CircleCI are urging users to stay vigilant.
 
@@ -76,7 +67,6 @@ GitHub and CircleCI are urging users to stay vigilant.
  - [https://www.techradar.com/news/jamf-wants-to-make-aws-ec2-instances-safer-than-ever/](https://www.techradar.com/news/jamf-wants-to-make-aws-ec2-instances-safer-than-ever/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-23 15:53:56+00:00
- - tags: None
 
 Jamf partnership with AWS offers users better security and a new way to manage EC2 instances.
 
@@ -84,7 +74,6 @@ Jamf partnership with AWS offers users better security and a new way to manage E
  - [https://www.techradar.com/news/prime-early-access-sale-dates-leak-for-amazons-prime-day-2-deals-event/](https://www.techradar.com/news/prime-early-access-sale-dates-leak-for-amazons-prime-day-2-deals-event/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-23 15:35:48+00:00
- - tags: None
 
 Information on a Prime Early Access Sale at Amazon has leaked and suggests a prelude to the retailer's Black Friday deals starts in October.
 
@@ -92,7 +81,6 @@ Information on a Prime Early Access Sale at Amazon has leaked and suggests a pre
  - [https://www.techradar.com/news/netflixs-wednesday-addams-tv-show-gets-surprising-post-halloween-release-date/](https://www.techradar.com/news/netflixs-wednesday-addams-tv-show-gets-surprising-post-halloween-release-date/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-23 15:08:14+00:00
- - tags: None
 
 Netflix has revealed the release date for its upcoming The Addams Family TV series, Wednesday.
 
@@ -100,7 +88,6 @@ Netflix has revealed the release date for its upcoming The Addams Family TV seri
  - [https://www.techradar.com/news/microsoft-ceo-doesnt-want-employees-spied-on-in-shift-to-remote-work/](https://www.techradar.com/news/microsoft-ceo-doesnt-want-employees-spied-on-in-shift-to-remote-work/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-23 14:12:18+00:00
- - tags: None
 
 Microsoft says eight in 10 workers working from home are productive, but companies continue to spy on them.
 
@@ -108,7 +95,6 @@ Microsoft says eight in 10 workers working from home are productive, but compani
  - [https://www.techradar.com/news/7-new-movies-and-tv-shows-on-netflix-prime-video-hbo-max-and-more-this-weekend-september-23-2022/](https://www.techradar.com/news/7-new-movies-and-tv-shows-on-netflix-prime-video-hbo-max-and-more-this-weekend-september-23-2022/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-23 14:00:00+00:00
- - tags: None
 
 From brand new Star Wars shows to powerful documentaries, there’s plenty to watch this weekend.
 
@@ -116,7 +102,6 @@ From brand new Star Wars shows to powerful documentaries, there’s plenty to wa
  - [https://www.techradar.com/news/6-strategies-for-cutting-your-web-hosting-bill/](https://www.techradar.com/news/6-strategies-for-cutting-your-web-hosting-bill/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-23 13:47:01+00:00
- - tags: None
 
 You don't need to break the bank or empty your savings on your web hosting service.
 
@@ -124,7 +109,6 @@ You don't need to break the bank or empty your savings on your web hosting servi
  - [https://www.techradar.com/news/samsung-galaxy-z-flip-5/](https://www.techradar.com/news/samsung-galaxy-z-flip-5/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-23 13:42:04+00:00
- - tags: None
 
 The Samsung Galaxy Z Flip 5 could be the most popular foldable phone of 2023. Here's what we want from it.
 
@@ -132,7 +116,6 @@ The Samsung Galaxy Z Flip 5 could be the most popular foldable phone of 2023. He
  - [https://www.techradar.com/news/samsung-galaxy-z-flip-5](https://www.techradar.com/news/samsung-galaxy-z-flip-5)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-23 13:42:04+00:00
- - tags: None
 
 The Samsung Galaxy Z Flip 5 could be the most popular foldable phone of 2023. Here's what we want from it.
 
@@ -140,7 +123,6 @@ The Samsung Galaxy Z Flip 5 could be the most popular foldable phone of 2023. He
  - [https://www.techradar.com/news/microsoft-viva-update-looks-to-address-some-of-the-most-annoying-aspects-of-hybrid-working/](https://www.techradar.com/news/microsoft-viva-update-looks-to-address-some-of-the-most-annoying-aspects-of-hybrid-working/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-23 13:09:43+00:00
- - tags: None
 
 Microsoft wants to help remot working issues with new Viva updates.
 
@@ -148,7 +130,6 @@ Microsoft wants to help remot working issues with new Viva updates.
  - [https://www.techradar.com/news/windows-11-22h2-fail-is-tanking-nvidia-gpu-framerates-and-gamers-arent-happy/](https://www.techradar.com/news/windows-11-22h2-fail-is-tanking-nvidia-gpu-framerates-and-gamers-arent-happy/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-23 11:42:03+00:00
- - tags: None
 
 Windows 11 22H2’s list of problems grow with PC game performance hit.
 
@@ -156,7 +137,6 @@ Windows 11 22H2’s list of problems grow with PC game performance hit.
  - [https://www.techradar.com/news/alibaba-cloud-set-to-invest-dollar1bn-in-overseas-partnerships/](https://www.techradar.com/news/alibaba-cloud-set-to-invest-dollar1bn-in-overseas-partnerships/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-23 11:41:42+00:00
- - tags: None
 
 Chinese tech giant looks to expand its already huge cloud computing division with a new partnership program.
 
@@ -164,7 +144,6 @@ Chinese tech giant looks to expand its already huge cloud computing division wit
  - [https://www.techradar.com/news/new-apple-m2-pro-and-m2-max-macbook-pros-may-be-coming-our-way-very-soon/](https://www.techradar.com/news/new-apple-m2-pro-and-m2-max-macbook-pros-may-be-coming-our-way-very-soon/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-23 11:07:21+00:00
- - tags: None
 
 New rumors suggest Apple could be getting ready to launch yet more MacBook Pros before 2022 ends.
 
@@ -172,7 +151,6 @@ New rumors suggest Apple could be getting ready to launch yet more MacBook Pros 
  - [https://www.techradar.com/news/wish-you-had-the-iphone-14-pros-new-dynamic-island-android-has-an-app-for-that/](https://www.techradar.com/news/wish-you-had-the-iphone-14-pros-new-dynamic-island-android-has-an-app-for-that/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-23 11:01:36+00:00
- - tags: None
 
 If you've been wanting to find out how Apple's Dynamic Island feature could work on Android, you're in luck.
 
@@ -180,7 +158,6 @@ If you've been wanting to find out how Apple's Dynamic Island feature could work
  - [https://www.techradar.com/news/nothing-shows-off-new-earbuds-at-fashion-week-but-i-need-more-than-catwalk-looks/](https://www.techradar.com/news/nothing-shows-off-new-earbuds-at-fashion-week-but-i-need-more-than-catwalk-looks/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-23 10:59:30+00:00
- - tags: None
 
 Nothing took to London Fashion Week to show off its hotly-anticipated Nothing Ear (stick) earbuds, but it hasn't released any details on the actual headphones…
 
@@ -188,7 +165,6 @@ Nothing took to London Fashion Week to show off its hotly-anticipated Nothing Ea
  - [https://www.techradar.com/news/fitbit-plans-to-axe-fitbit-accounts-by-2025-and-switch-to-google/](https://www.techradar.com/news/fitbit-plans-to-axe-fitbit-accounts-by-2025-and-switch-to-google/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-23 10:51:12+00:00
- - tags: None
 
 Fitbit is getting rid of Fitbit accounts and replacing them with Google; so make sure to switch before 2025.
 
@@ -196,7 +172,6 @@ Fitbit is getting rid of Fitbit accounts and replacing them with Google; so make
  - [https://www.techradar.com/news/rtx-4090-real-world-clock-speed-revealed-and-its-faster-than-expected/](https://www.techradar.com/news/rtx-4090-real-world-clock-speed-revealed-and-its-faster-than-expected/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-23 10:13:24+00:00
- - tags: None
 
 Nvidia’s DLSS 3 test footage showed Cyberpunk 2077 running in 1440p at more than 170 frames per second.
 
@@ -204,7 +179,6 @@ Nvidia’s DLSS 3 test footage showed Cyberpunk 2077 running in 1440p at more th
  - [https://www.techradar.com/news/xbox-game-pass-adds-dead-island-but-youll-have-to-be-quick/](https://www.techradar.com/news/xbox-game-pass-adds-dead-island-but-youll-have-to-be-quick/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-23 10:00:01+00:00
- - tags: None
 
 Zombie-thumper Dead Island is free for all Xbox Game Pass subscribers this weekend.
 
@@ -212,7 +186,6 @@ Zombie-thumper Dead Island is free for all Xbox Game Pass subscribers this weeke
  - [https://www.techradar.com/news/google-pixel-watch-teaser-confirms-good-and-bad-news-for-smartwatch-fans/](https://www.techradar.com/news/google-pixel-watch-teaser-confirms-good-and-bad-news-for-smartwatch-fans/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-23 09:42:57+00:00
- - tags: None
 
 Google has teased the Pixel Watch in a minute-long video, but there's as much that's worrying as there is that's exciting.
 
@@ -220,7 +193,6 @@ Google has teased the Pixel Watch in a minute-long video, but there's as much th
  - [https://www.techradar.com/news/google-pixel-7-price-leak-makes-the-phone-sound-like-a-real-bargain/](https://www.techradar.com/news/google-pixel-7-price-leak-makes-the-phone-sound-like-a-real-bargain/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-23 09:05:28+00:00
- - tags: None
 
 The Pixel 7 and Pixel 7 Pro could have the same prices as their predecessors according to a credible leak.
 
@@ -228,7 +200,6 @@ The Pixel 7 and Pixel 7 Pro could have the same prices as their predecessors acc
  - [https://www.techradar.com/news/amd-ryzen-9-7950x-cpu-monster-72ghz-overclock-spotted-but-is-it-enough-to-threaten-intel/](https://www.techradar.com/news/amd-ryzen-9-7950x-cpu-monster-72ghz-overclock-spotted-but-is-it-enough-to-threaten-intel/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-23 09:00:43+00:00
- - tags: None
 
 The clash of the next-gen flagship processors looks like it’ll be quite a spectacle.
 
@@ -236,7 +207,6 @@ The clash of the next-gen flagship processors looks like it’ll be quite a spec
  - [https://www.techradar.com/news/new-iphone-14-update-fixes-a-big-issue-that-users-have-complained-about/](https://www.techradar.com/news/new-iphone-14-update-fixes-a-big-issue-that-users-have-complained-about/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-23 08:37:19+00:00
- - tags: None
 
 Since the iPhone 14 launch, users have complained about third-party camera app issues, but now Apple is fixing them.
 
@@ -244,7 +214,6 @@ Since the iPhone 14 launch, users have complained about third-party camera app i
  - [https://www.techradar.com/news/the-rings-of-power-episode-5-recap-a-tale-of-betrayals-but-hope-prevails/](https://www.techradar.com/news/the-rings-of-power-episode-5-recap-a-tale-of-betrayals-but-hope-prevails/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-23 08:00:00+00:00
- - tags: None
 
 The Rings of Power episode 5 is the Prime Video series' darkest entry yet – but hopes springs eternal for our heroes.
 
@@ -252,6 +221,5 @@ The Rings of Power episode 5 is the Prime Video series' darkest entry yet – bu
  - [https://www.techradar.com/news/googles-new-chromecast-is-ultra-cheap-but-cuts-out-support-for-4k-resolution/](https://www.techradar.com/news/googles-new-chromecast-is-ultra-cheap-but-cuts-out-support-for-4k-resolution/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-23 04:00:18+00:00
- - tags: None
 
 Currently available for purchase, the new Chromecast sacrifices video quality but keeps older model's audio formats.

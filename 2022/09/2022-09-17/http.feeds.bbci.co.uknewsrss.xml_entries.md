@@ -1,10 +1,9 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml
+# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
 
 ## Ukraine war: Power back on at huge nuclear plant in Zaporizhzhia
  - [https://www.bbc.co.uk/news/world-europe-62943902?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-62943902?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 23:11:30+00:00
- - tags: None
 
 Electricity from the national grid is being directly received at the embattled Zaporizhzhia site.
 
@@ -12,7 +11,6 @@ Electricity from the national grid is being directly received at the embattled Z
  - [https://www.bbc.co.uk/sport/football/62942133?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/62942133?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 21:14:44+00:00
- - tags: None
 
 Will Brendan Rodgers keep his job at Leicester City after their 6-2 hammering at Tottenham?
 
@@ -20,7 +18,6 @@ Will Brendan Rodgers keep his job at Leicester City after their 6-2 hammering at
  - [https://www.bbc.co.uk/sport/football/62943506?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/62943506?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 20:05:03+00:00
- - tags: None
 
 Tottenham's Son Heung-min ends his barren six-game spell with a devastating 13-minute hat-trick, so is the 30-year-old back to his best?
 
@@ -28,7 +25,6 @@ Tottenham's Son Heung-min ends his barren six-game spell with a devastating 13-m
  - [https://www.bbc.co.uk/sport/football/62859265?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/62859265?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 18:26:43+00:00
- - tags: None
 
 Son Heung-min comes off bench and ends his goal drought with a 13-minute hat-trick as Tottenham punish Leicester's latest defensive horror show.
 
@@ -36,7 +32,6 @@ Son Heung-min comes off bench and ends his goal drought with a 13-minute hat-tri
  - [https://www.bbc.co.uk/sport/football/62942730?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/62942730?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 18:08:57+00:00
- - tags: None
 
 After Jack Grealish scores his first goal of the season in Man City's 3-0 win at Wolves, can anyone stop Pep Guardiola's side winning their third successive title?
 
@@ -44,7 +39,6 @@ After Jack Grealish scores his first goal of the season in Man City's 3-0 win at
  - [https://www.bbc.co.uk/sport/cricket/62930911?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/62930911?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 17:33:55+00:00
- - tags: None
 
 Kent win their first List A trophy since 1978 as they beat Lancashire at Trent Bridge to win the One-Day Cup.
 
@@ -52,7 +46,6 @@ Kent win their first List A trophy since 1978 as they beat Lancashire at Trent B
  - [https://www.bbc.co.uk/sport/horse-racing/62941699?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/horse-racing/62941699?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 17:29:52+00:00
- - tags: None
 
 Roger Varian trains seven winners on Saturday at combined odds of 34,839-1, while Summerghand wins the Ayr Gold Cup.
 
@@ -60,7 +53,6 @@ Roger Varian trains seven winners on Saturday at combined odds of 34,839-1, whil
  - [https://www.bbc.co.uk/news/world-middle-east-62940907?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-middle-east-62940907?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 17:00:44+00:00
- - tags: None
 
 Police fire tear gas after Mahsa Amini's funeral as mourners chant anti-government slogans.
 
@@ -68,7 +60,6 @@ Police fire tear gas after Mahsa Amini's funeral as mourners chant anti-governme
  - [https://www.bbc.co.uk/news/uk-62942238?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62942238?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 17:00:13+00:00
- - tags: None
 
 Laura Kuenssberg will hear from at least two Commonwealth PMs as world leaders pay their respects.
 
@@ -76,7 +67,6 @@ Laura Kuenssberg will hear from at least two Commonwealth PMs as world leaders p
  - [https://www.bbc.co.uk/sport/rugby-union/62927697?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/62927697?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 16:37:40+00:00
- - tags: None
 
 Saracens battle back from 17-0 down to beat Harlequins in a thrilling London derby at Twickenham Stoop.
 
@@ -84,7 +74,6 @@ Saracens battle back from 17-0 down to beat Harlequins in a thrilling London der
  - [https://www.bbc.co.uk/news/uk-62942184?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62942184?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 16:27:12+00:00
- - tags: None
 
 The Dean of Westminster said the scale of the service in front of 2,000 guests was almost unprecedented.
 
@@ -92,7 +81,6 @@ The Dean of Westminster said the scale of the service in front of 2,000 guests w
  - [https://www.bbc.co.uk/sport/football/62859267?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/62859267?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 16:09:41+00:00
- - tags: None
 
 Alexander Isak scores his first goal at St James' Park but Newcastle remain without a win since the opening day of the season after being held by Bournemouth.
 
@@ -100,7 +88,6 @@ Alexander Isak scores his first goal at St James' Park but Newcastle remain with
  - [https://www.bbc.co.uk/sport/football/62859193?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/62859193?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 16:02:10+00:00
- - tags: None
 
 Antonio Colak scores twice as Rangers end a three-game losing streak with a narrow win at home to bottom-of-the-league Dundee United.
 
@@ -108,7 +95,6 @@ Antonio Colak scores twice as Rangers end a three-game losing streak with a narr
  - [https://www.bbc.co.uk/news/uk-62941578?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62941578?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 15:41:37+00:00
- - tags: None
 
 People have come from around the UK and further afield to pay their final respects to the Queen.
 
@@ -116,7 +102,6 @@ People have come from around the UK and further afield to pay their final respec
  - [https://www.bbc.co.uk/sport/football/62940145?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/62940145?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 14:55:31+00:00
- - tags: None
 
 Manchester United manager Marc Skinner says summer signing Maya Le Tissier can become "a real star".
 
@@ -124,7 +109,6 @@ Manchester United manager Marc Skinner says summer signing Maya Le Tissier can b
  - [https://www.bbc.co.uk/news/uk-politics-62939704?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-62939704?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 14:11:08+00:00
- - tags: None
 
 Chinese officials invited to the Queen's funeral are not barred from Westminster Hall, Parliament says.
 
@@ -132,7 +116,6 @@ Chinese officials invited to the Queen's funeral are not barred from Westminster
  - [https://www.bbc.co.uk/sport/rugby-league/62939943?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-league/62939943?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 14:10:30+00:00
- - tags: None
 
 St Helens withstand a spirited second-half effort from Salford to win their Super League semi-final and book a Grand Final spot against Leeds.
 
@@ -140,7 +123,6 @@ St Helens withstand a spirited second-half effort from Salford to win their Supe
  - [https://www.bbc.co.uk/news/uk-62940512?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62940512?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 13:40:11+00:00
- - tags: None
 
 The US presidential envoy says the King can "leverage" the action needed to tackle global warming.
 
@@ -148,7 +130,6 @@ The US presidential envoy says the King can "leverage" the action needed to tack
  - [https://www.bbc.co.uk/news/world-middle-east-62940906?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-middle-east-62940906?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 13:31:13+00:00
- - tags: None
 
 Human rights campaigners say it is a stain on Queen Elizabeth II's memory.
 
@@ -156,7 +137,6 @@ Human rights campaigners say it is a stain on Queen Elizabeth II's memory.
  - [https://www.bbc.co.uk/sport/football/62859266?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/62859266?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 13:30:11+00:00
- - tags: None
 
 Erling Haaland scores his 11th goal in seven Premier League games as Manchester City brush aside Wolves to go top of the table.
 
@@ -164,7 +144,6 @@ Erling Haaland scores his 11th goal in seven Premier League games as Manchester 
  - [https://www.bbc.co.uk/news/world-asia-62938608?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-62938608?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 13:29:43+00:00
- - tags: None
 
 Hundreds of thousands of people are urged to evacuate their homes ahead of Typhoon Nanmadol.
 
@@ -172,7 +151,6 @@ Hundreds of thousands of people are urged to evacuate their homes ahead of Typho
  - [https://www.bbc.co.uk/sport/football/62859250?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/62859250?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 13:04:13+00:00
- - tags: None
 
 Defender Maya Le Tissier scores twice on her debut as Manchester United comfortably beat Reading in the Women's Super League.
 
@@ -180,7 +158,6 @@ Defender Maya Le Tissier scores twice on her debut as Manchester United comforta
  - [https://www.bbc.co.uk/news/uk-england-london-62940371?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-london-62940371?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 12:33:30+00:00
- - tags: None
 
 The police watchdog has opened a homicide investigation into the death of Chris Kaba.
 
@@ -188,7 +165,6 @@ The police watchdog has opened a homicide investigation into the death of Chris 
  - [https://www.bbc.co.uk/news/world-us-canada-62922214?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-62922214?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 12:21:18+00:00
- - tags: None
 
 The Queen's passing is driving debates over the legacy of colonialism and the British Empire in North America.
 
@@ -196,7 +172,6 @@ The Queen's passing is driving debates over the legacy of colonialism and the Br
  - [https://www.bbc.co.uk/news/uk-62940182?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62940182?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 11:43:28+00:00
- - tags: None
 
 They made a surprise appearance in Lambeth to speak to those queuing to pay respects to the Queen.
 
@@ -204,7 +179,6 @@ They made a surprise appearance in Lambeth to speak to those queuing to pay resp
  - [https://www.bbc.co.uk/sport/av/football/62940080?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/62940080?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 11:30:20+00:00
- - tags: None
 
 Football Focus pays tribute to Queen Elizabeth II by looking back at her connection with the national sport.
 
@@ -212,7 +186,6 @@ Football Focus pays tribute to Queen Elizabeth II by looking back at her connect
  - [https://www.bbc.co.uk/news/uk-england-shropshire-62939177?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-shropshire-62939177?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 09:58:28+00:00
- - tags: None
 
 The Parole Board refuses a bid to free Azhar Ali Mehmood, who in 2000 set fire to a home in Telford.
 
@@ -220,7 +193,6 @@ The Parole Board refuses a bid to free Azhar Ali Mehmood, who in 2000 set fire t
  - [https://www.bbc.co.uk/news/uk-62938463?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62938463?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 08:40:19+00:00
- - tags: None
 
 He has not been seen in military uniform since 2020, when he stepped back as a working royal.
 
@@ -228,7 +200,6 @@ He has not been seen in military uniform since 2020, when he stepped back as a w
  - [https://www.bbc.co.uk/news/uk-62916254?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62916254?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 08:38:22+00:00
- - tags: None
 
 After Covid delayed their wedding for years, Christie and Jake are keen to go ahead with their plans.
 
@@ -236,7 +207,6 @@ After Covid delayed their wedding for years, Christie and Jake are keen to go ah
  - [https://www.bbc.co.uk/news/uk-scotland-glasgow-west-62928165?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-62928165?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 08:15:17+00:00
- - tags: None
 
 A chance meeting led to Jim and Margaret Mitchell falling in love 20 years after a maternity ward mix-up.
 
@@ -244,7 +214,6 @@ A chance meeting led to Jim and Margaret Mitchell falling in love 20 years after
  - [https://www.bbc.co.uk/sport/football/62938446?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/62938446?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 08:14:08+00:00
- - tags: None
 
 Real Madrid forward Vinicius Junior says 'the happiness of a black Brazilian in Europe' is behind criticism of his goal celebrations.
 
@@ -252,7 +221,6 @@ Real Madrid forward Vinicius Junior says 'the happiness of a black Brazilian in 
  - [https://www.bbc.co.uk/sport/cricket/62872258?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/62872258?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 07:39:03+00:00
- - tags: None
 
 England fast bowler Issy Wong tells BBC Sport why she is determined to make a difference on and off the cricket pitch.
 
@@ -260,7 +228,6 @@ England fast bowler Issy Wong tells BBC Sport why she is determined to make a di
  - [https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-62928643?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-62928643?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 07:28:27+00:00
- - tags: None
 
 Waqar Hussain witnessed the devastation for himself, as fundraisers say more donations are needed.
 
@@ -268,7 +235,6 @@ Waqar Hussain witnessed the devastation for himself, as fundraisers say more don
  - [https://www.bbc.co.uk/sport/tennis/62936762?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/tennis/62936762?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 06:52:35+00:00
- - tags: None
 
 Great Britain's Davis Cup captain Leon Smith defends his team selections after the hosts fail to qualify for the knockout stage.
 
@@ -276,7 +242,6 @@ Great Britain's Davis Cup captain Leon Smith defends his team selections after t
  - [https://www.bbc.co.uk/news/uk-england-berkshire-62929081?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-berkshire-62929081?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 06:38:22+00:00
- - tags: None
 
 The Queen's association with Windsor Great Park began in the 1930s when her family moved to Windsor.
 
@@ -284,7 +249,6 @@ The Queen's association with Windsor Great Park began in the 1930s when her fami
  - [https://www.bbc.co.uk/sport/football/62835343?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/62835343?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 06:37:47+00:00
- - tags: None
 
 BBC Sport speaks to Emma Hayes about her 10 years at Chelsea, taking the club from the bottom two to WSL domination.
 
@@ -292,7 +256,6 @@ BBC Sport speaks to Emma Hayes about her 10 years at Chelsea, taking the club fr
  - [https://www.bbc.co.uk/news/uk-england-cumbria-62930775?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-cumbria-62930775?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 06:35:24+00:00
- - tags: None
 
 Thousands of people have lined up for miles to pay their respects to the Queen as she lies in state.
 
@@ -300,7 +263,6 @@ Thousands of people have lined up for miles to pay their respects to the Queen a
  - [https://www.bbc.co.uk/news/health-62929601?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/health-62929601?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 06:08:59+00:00
- - tags: None
 
 Study estimates 27,000 people were infected with hepatitis C in UK after surgery in 1970s and 1980s.
 
@@ -308,7 +270,6 @@ Study estimates 27,000 people were infected with hepatitis C in UK after surgery
  - [https://www.bbc.co.uk/sport/boxing/62925027?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/boxing/62925027?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 06:00:24+00:00
- - tags: None
 
 Saul 'Canelo' Alvarez is wary of the threat posed by "intelligent" Gennady Golovkin but intends to win this weekend's trilogy bout inside 12 rounds.
 
@@ -316,7 +277,6 @@ Saul 'Canelo' Alvarez is wary of the threat posed by "intelligent" Gennady Golov
  - [https://www.bbc.co.uk/news/world-europe-62936643?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-62936643?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 04:45:56+00:00
- - tags: None
 
 The US president says Russia will become more of a pariah than ever if such weapons are used.
 
@@ -324,7 +284,6 @@ The US president says Russia will become more of a pariah than ever if such weap
  - [https://www.bbc.co.uk/news/uk-62937765?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62937765?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 03:52:37+00:00
- - tags: None
 
 The video feed of Westminster Hall cut away when the incident occurred at 22:00 BST on Friday night.
 
@@ -332,6 +291,5 @@ The video feed of Westminster Hall cut away when the incident occurred at 22:00 
  - [https://www.bbc.co.uk/news/world-europe-62936642?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-62936642?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-17 01:18:02+00:00
- - tags: None
 
 A group of thieves stole €300,000 worth of goods from passengers on high-speed trains, police say.

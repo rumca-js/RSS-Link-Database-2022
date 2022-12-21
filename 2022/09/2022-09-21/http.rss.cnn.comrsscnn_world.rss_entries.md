@@ -1,10 +1,9 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss
+# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
 
 ## Hurricane Fiona escalates to Category 4
  - [https://www.cnn.com/2022/09/21/weather/hurricane-fiona-puerto-rico-dominican-republic-wednesday/index.html](https://www.cnn.com/2022/09/21/weather/hurricane-fiona-puerto-rico-dominican-republic-wednesday/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-21 23:01:47+00:00
- - tags: None
 
 Hurricane Fiona is still strengthening as it continues its catastrophic path northward on Wednesday, leaving behind disaster-stricken communities in Puerto Rico, Turks and Caicos and the Dominican Republic who must now begin working toward recovery.
 
@@ -12,7 +11,6 @@ Hurricane Fiona is still strengthening as it continues its catastrophic path nor
  - [https://www.cnn.com/2022/09/21/success/what-rising-interest-rates-mean-credit-mortgage/index.html](https://www.cnn.com/2022/09/21/success/what-rising-interest-rates-mean-credit-mortgage/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-21 19:35:15+00:00
- - tags: None
 
 In its continued bid to quash high inflation, the Federal Reserve on Wednesday raised the overnight bank lending rate to a range of 3% to 3.25%.
 
@@ -20,7 +18,6 @@ In its continued bid to quash high inflation, the Federal Reserve on Wednesday r
  - [https://www.cnn.com/2022/09/21/business/ford-blue-gas-cars/index.html](https://www.cnn.com/2022/09/21/business/ford-blue-gas-cars/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-21 17:49:48+00:00
- - tags: None
 
 When Ford chief executive Jim Farley split the company's passenger vehicle business into two parts — one for electric cars, the other for gasoline-powered vehicles — Farley put himself in charge of the electric car business, a division called Model e. The assumption among a lot of industry observers was that the person running the gasoline vehicle businesses, then, was there to nurse that dying technology through its final years.
 
@@ -28,7 +25,6 @@ When Ford chief executive Jim Farley split the company's passenger vehicle busin
  - [https://www.cnn.com/2022/09/21/energy/uniper-germany-energy-crisis/index.html](https://www.cnn.com/2022/09/21/energy/uniper-germany-energy-crisis/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-21 13:22:41+00:00
- - tags: None
 
 Germany is nationalizing Uniper, its biggest importer of natural gas, as part of an €8 billion ($7.9 billion) plan to prevent an energy shortage this winter.
 
@@ -36,7 +32,6 @@ Germany is nationalizing Uniper, its biggest importer of natural gas, as part of
  - [https://www.cnn.com/2022/09/21/middleeast/iran-morality-police-mime-intl/index.html](https://www.cnn.com/2022/09/21/middleeast/iran-morality-police-mime-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-21 13:22:35+00:00
- - tags: None
 
 A young Iranian woman was pulled off the streets of Tehran by the country's notorious morality police and taken to a "re-education center" for lessons in modesty last week. Three days later, she was dead.
 
@@ -44,7 +39,6 @@ A young Iranian woman was pulled off the streets of Tehran by the country's noto
  - [https://www.cnn.com/2022/09/21/business/millionaires-global-wealth-report-intl-hnk/index.html](https://www.cnn.com/2022/09/21/business/millionaires-global-wealth-report-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-21 11:26:25+00:00
- - tags: None
 
 The number of rich people in the world rose at a rapid pace last year, boosted by gains in the stock market and house prices.
 
@@ -52,7 +46,6 @@ The number of rich people in the world rose at a rapid pace last year, boosted b
  - [https://www.cnn.com/2022/09/21/india/india-kashmir-cinemas-opening-intl-hnk/index.html](https://www.cnn.com/2022/09/21/india/india-kashmir-cinemas-opening-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-21 07:04:45+00:00
- - tags: None
 
 Movie theaters in Indian-controlled Kashmir have reopened their doors, more than two decades after they were forced shut during an armed rebellion that saw multiple threats and attacks on crowded public places.
 
@@ -60,7 +53,6 @@ Movie theaters in Indian-controlled Kashmir have reopened their doors, more than
  - [https://www.cnn.com/2022/09/21/business/china-lipstick-king-returns-live-streaming-intl-hnk/index.html](https://www.cnn.com/2022/09/21/business/china-lipstick-king-returns-live-streaming-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-21 06:50:56+00:00
- - tags: None
 
 One of China's most popular livestreamers quietly resurfaced online Tuesday night, after a three-month absence linked to his appearance with a cake shaped like a tank, in what many believed was an oblique reference to the Tiananmen Square massacre.
 
@@ -68,7 +60,6 @@ One of China's most popular livestreamers quietly resurfaced online Tuesday nigh
  - [https://www.cnn.com/2022/09/20/europe/russian-mercenaries-wagner-bombard-bakhmut-intl-hnk/index.html](https://www.cnn.com/2022/09/20/europe/russian-mercenaries-wagner-bombard-bakhmut-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-21 04:07:36+00:00
- - tags: None
 
 In the ruins of an apartment block tarred with soot and clouded in dust amid constant shelling, a small group of Ukrainian soldiers are face to face with a new type of Russian enemy: mercenaries, some of whom may be convicts sent to the front line.
 
@@ -76,7 +67,6 @@ In the ruins of an apartment block tarred with soot and clouded in dust amid con
  - [https://www.cnn.com/2022/09/20/americas/unga-ukraine-challenges-intl/index.html](https://www.cnn.com/2022/09/20/americas/unga-ukraine-challenges-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-21 01:59:52+00:00
- - tags: None
 
 The international order that the United Nations enshrined is splintering.
 
@@ -84,7 +74,6 @@ The international order that the United Nations enshrined is splintering.
  - [https://www.cnn.com/2022/09/20/americas/unga-bolsonaro-brazil-intl-latam/index.html](https://www.cnn.com/2022/09/20/americas/unga-bolsonaro-brazil-intl-latam/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-21 01:34:05+00:00
- - tags: None
 
 Brazilian President Jair Bolsonaro's address to the United Nations General Assembly on Tuesday bore little resemblance to his past speeches before world leaders. Touting Brazil's development under his administration and swiping at political rivals, the Brazilian leader seemed more focused on appealing to voters at home, as the country's presidential election looms next month.
 
@@ -92,6 +81,5 @@ Brazilian President Jair Bolsonaro's address to the United Nations General Assem
  - [https://www.cnn.com/2022/09/20/americas/unga-colombia-petro-speech-intl-latam/index.html](https://www.cnn.com/2022/09/20/americas/unga-colombia-petro-speech-intl-latam/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-21 01:07:28+00:00
- - tags: None
 
 In his first address to the United Nations General Assembly on Tuesday, recently elected Colombian president Gustavo Petro delivered a fiery speech that recalled some of his campaign themes, slamming the war on drugs as a failure and accusing the global north of turning a blind eye to the destruction of the Amazon.

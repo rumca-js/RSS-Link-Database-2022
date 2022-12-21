@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## CDPR's big Cyberpunk event also included some extensive new mod tools
  - [https://www.pcgamer.com/cdprs-big-cyberpunk-event-also-included-some-extensive-new-mod-tools](https://www.pcgamer.com/cdprs-big-cyberpunk-event-also-included-some-extensive-new-mod-tools)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 23:27:34+00:00
- - tags: None
 
 The REDmod addon should make it easier to make and download mods, and won't interfere with what the community's done already.
 
@@ -12,7 +11,6 @@ The REDmod addon should make it easier to make and download mods, and won't inte
  - [https://www.pcgamer.com/best-pc-case](https://www.pcgamer.com/best-pc-case)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 23:19:06+00:00
- - tags: None
 
 You'll want the best PC case if you're building your perfect gaming PC.
 
@@ -20,7 +18,6 @@ You'll want the best PC case if you're building your perfect gaming PC.
  - [https://www.pcgamer.com/best-curved-monitors-for-gaming](https://www.pcgamer.com/best-curved-monitors-for-gaming)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 22:54:18+00:00
- - tags: None
 
 The best curved monitors help immerse you in your favorite gameworld.
 
@@ -28,7 +25,6 @@ The best curved monitors help immerse you in your favorite gameworld.
  - [https://www.pcgamer.com/best-4k-monitors-for-gaming](https://www.pcgamer.com/best-4k-monitors-for-gaming)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 22:45:48+00:00
- - tags: None
 
 The best 4K gaming monitor has all the bells and whistles an enthusiast could ever want or need.
 
@@ -36,7 +32,6 @@ The best 4K gaming monitor has all the bells and whistles an enthusiast could ev
  - [https://www.pcgamer.com/the-best-hdmi-for-gaming-on-pc-in-2019](https://www.pcgamer.com/the-best-hdmi-for-gaming-on-pc-in-2019)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 22:38:52+00:00
- - tags: None
 
 Getting the best HDMI cable for gaming will ensure you get the most from your graphics card and screen.
 
@@ -44,7 +39,6 @@ Getting the best HDMI cable for gaming will ensure you get the most from your gr
  - [https://www.pcgamer.com/this-killer-mod-finally-made-me-ok-with-never-getting-half-life-2-episode-3](https://www.pcgamer.com/this-killer-mod-finally-made-me-ok-with-never-getting-half-life-2-episode-3)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 22:36:32+00:00
- - tags: None
 
 In Entropy: Zero 2 you play as a Combine soldier, not Gordon Freeman. And it's awesome.
 
@@ -52,7 +46,6 @@ In Entropy: Zero 2 you play as a Combine soldier, not Gordon Freeman. And it's a
  - [https://www.pcgamer.com/wow-classic-servers-are-on-fire-and-blizzard-is-trying-to-put-them-out](https://www.pcgamer.com/wow-classic-servers-are-on-fire-and-blizzard-is-trying-to-put-them-out)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 22:28:43+00:00
- - tags: None
 
 Blizzard is offering free transfers for those affected by long queue times.
 
@@ -60,7 +53,6 @@ Blizzard is offering free transfers for those affected by long queue times.
  - [https://www.pcgamer.com/this-paper-mario-inspired-indie-looks-like-a-gba-classic-time-forgot](https://www.pcgamer.com/this-paper-mario-inspired-indie-looks-like-a-gba-classic-time-forgot)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 21:42:39+00:00
- - tags: None
 
 Paper Animal RPG also channels Pokémon Mystery Dungeon, really bringing home the early aughts cute.
 
@@ -68,7 +60,6 @@ Paper Animal RPG also channels Pokémon Mystery Dungeon, really bringing home th
  - [https://www.pcgamer.com/overwatch-2-new-hero-cinematic-leaks-meet-kiriko](https://www.pcgamer.com/overwatch-2-new-hero-cinematic-leaks-meet-kiriko)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 21:07:21+00:00
- - tags: None
 
 An unfinished look at Overwatch 2's next support hero.
 
@@ -76,7 +67,6 @@ An unfinished look at Overwatch 2's next support hero.
  - [https://www.pcgamer.com/disney-dreamlight-valley-is-the-animal-crossing-on-pc-weve-been-waiting-for](https://www.pcgamer.com/disney-dreamlight-valley-is-the-animal-crossing-on-pc-weve-been-waiting-for)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 20:52:06+00:00
- - tags: None
 
 I'm honestly shocked that Dreamlight Valley is a solid social sim with or without its Disney paint.
 
@@ -84,7 +74,6 @@ I'm honestly shocked that Dreamlight Valley is a solid social sim with or withou
  - [https://www.pcgamer.com/battlefield-is-getting-a-narrative-campaign-from-halo-co-creators-new-studio](https://www.pcgamer.com/battlefield-is-getting-a-narrative-campaign-from-halo-co-creators-new-studio)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 19:41:41+00:00
- - tags: None
 
 As a long-time creative director departs, Electronic Arts says it has big plans for the future of Battlefield.
 
@@ -92,7 +81,6 @@ As a long-time creative director departs, Electronic Arts says it has big plans 
  - [https://www.pcgamer.com/crystal-dynamics-officially-owns-tomb-raider-again](https://www.pcgamer.com/crystal-dynamics-officially-owns-tomb-raider-again)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 19:22:26+00:00
- - tags: None
 
 And Eidos Montreal has reclaimed control of Deus Ex and Thief.
 
@@ -100,7 +88,6 @@ And Eidos Montreal has reclaimed control of Deus Ex and Thief.
  - [https://www.pcgamer.com/all-i-want-to-do-is-put-down-little-rails-to-help-these-little-trains-get-home-in-this-delightful-little-puzzle-game](https://www.pcgamer.com/all-i-want-to-do-is-put-down-little-rails-to-help-these-little-trains-get-home-in-this-delightful-little-puzzle-game)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 18:32:09+00:00
- - tags: None
 
 Help little trains get where they're going and feel good about your life.
 
@@ -108,7 +95,6 @@ Help little trains get where they're going and feel good about your life.
  - [https://www.pcgamer.com/the-second-largest-cryptocurrency-will-ditch-gpu-mining-in-a-matter-of-weeks-if-not-days](https://www.pcgamer.com/the-second-largest-cryptocurrency-will-ditch-gpu-mining-in-a-matter-of-weeks-if-not-days)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 17:01:52+00:00
- - tags: None
 
 The ethereum network just took a turn towards a more sustainable path.
 
@@ -116,7 +102,6 @@ The ethereum network just took a turn towards a more sustainable path.
  - [https://www.pcgamer.com/football-manager-2023-gets-a-release-date-and-physical-edition-that-lacks-anything-physical](https://www.pcgamer.com/football-manager-2023-gets-a-release-date-and-physical-edition-that-lacks-anything-physical)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 16:56:50+00:00
- - tags: None
 
 Arrives in November, with early access for pre-orders.
 
@@ -124,7 +109,6 @@ Arrives in November, with early access for pre-orders.
  - [https://www.pcgamer.com/dr-bitcoin-says-us-states-literally-manufacturing-felons-as-hes-literally-jailed-for-financial-chicanery](https://www.pcgamer.com/dr-bitcoin-says-us-states-literally-manufacturing-felons-as-hes-literally-jailed-for-financial-chicanery)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 16:45:52+00:00
- - tags: None
 
 The Doctor claims to be "a regular Bitcoiner caught in the crosshairs."
 
@@ -132,7 +116,6 @@ The Doctor claims to be "a regular Bitcoiner caught in the crosshairs."
  - [https://www.pcgamer.com/just-two-weeks-after-announcing-atomic-hearts-release-date-developers-change-their-minds](https://www.pcgamer.com/just-two-weeks-after-announcing-atomic-hearts-release-date-developers-change-their-minds)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 16:06:45+00:00
- - tags: None
 
 The new, less specific release target is not exactly a delay, but it might be.
 
@@ -140,7 +123,6 @@ The new, less specific release target is not exactly a delay, but it might be.
  - [https://www.pcgamer.com/minecraftception-redstone-pc-chungus](https://www.pcgamer.com/minecraftception-redstone-pc-chungus)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 15:57:59+00:00
- - tags: None
 
 Behold, the Chungus 2.
 
@@ -148,7 +130,6 @@ Behold, the Chungus 2.
  - [https://www.pcgamer.com/overwatch-2-will-lock-new-heroes-behind-the-battle-pass-and-fans-arent-happy](https://www.pcgamer.com/overwatch-2-will-lock-new-heroes-behind-the-battle-pass-and-fans-arent-happy)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 15:40:46+00:00
- - tags: None
 
 Either pay for them outright or grind your way through the free track. Your choice.
 
@@ -156,7 +137,6 @@ Either pay for them outright or grind your way through the free track. Your choi
  - [https://www.pcgamer.com/indian-minister-says-intel-is-building-a-chip-factory-in-the-country-intel-disagrees](https://www.pcgamer.com/indian-minister-says-intel-is-building-a-chip-factory-in-the-country-intel-disagrees)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 15:38:26+00:00
- - tags: None
 
 Did somebody get their wires crossed?
 
@@ -164,7 +144,6 @@ Did somebody get their wires crossed?
  - [https://www.pcgamer.com/amd-gets-rid-of-ghosting-and-improves-performance-with-fsr-21](https://www.pcgamer.com/amd-gets-rid-of-ghosting-and-improves-performance-with-fsr-21)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 15:18:49+00:00
- - tags: None
 
 AMD's newest upscaling tech will soon be available in 45 games.
 
@@ -172,7 +151,6 @@ AMD's newest upscaling tech will soon be available in 45 games.
  - [https://www.pcgamer.com/epic-games-store-free-games-list](https://www.pcgamer.com/epic-games-store-free-games-list)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 14:49:01+00:00
- - tags: None
 
 Stay up to date on what games Epic is giving away each week.
 
@@ -180,7 +158,6 @@ Stay up to date on what games Epic is giving away each week.
  - [https://www.pcgamer.com/geforce-beyond-special-broadcast](https://www.pcgamer.com/geforce-beyond-special-broadcast)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 14:46:36+00:00
- - tags: None
 
 Jen-Hsun will likely introduce us to the first RTX 40-series GPU to kick off his keynote on September 20.
 
@@ -188,7 +165,6 @@ Jen-Hsun will likely introduce us to the first RTX 40-series GPU to kick off his
  - [https://www.pcgamer.com/elden-ring-fun-builds](https://www.pcgamer.com/elden-ring-fun-builds)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 14:46:14+00:00
- - tags: None
 
 Raise the dead, become a vampire, or honk them to death with these strange setups.
 
@@ -196,7 +172,6 @@ Raise the dead, become a vampire, or honk them to death with these strange setup
  - [https://www.pcgamer.com/stream-deck-owners-should-be-extra-careful-upgrading-to-obs-studio-28](https://www.pcgamer.com/stream-deck-owners-should-be-extra-careful-upgrading-to-obs-studio-28)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 14:30:18+00:00
- - tags: None
 
 The excellent OBS Studio app receives an upgrade—though you may want to hold off upgrading for just a moment.
 
@@ -204,7 +179,6 @@ The excellent OBS Studio app receives an upgrade—though you may want to hold o
  - [https://www.pcgamer.com/world-of-warcraft-wow-dragonflight-release-date](https://www.pcgamer.com/world-of-warcraft-wow-dragonflight-release-date)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 13:29:56+00:00
- - tags: None
 
 The next WoW expansion will add dragons you can play, dragons you can ride, and a trip to the dragon homeland.
 
@@ -212,7 +186,6 @@ The next WoW expansion will add dragons you can play, dragons you can ride, and 
  - [https://www.pcgamer.com/fortnite-kamehameha-destroy-structures](https://www.pcgamer.com/fortnite-kamehameha-destroy-structures)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 13:04:02+00:00
- - tags: None
 
 Blast away with the Dragon Ball weapon for the week 14 challenge.
 
@@ -220,7 +193,6 @@ Blast away with the Dragon Ball weapon for the week 14 challenge.
  - [https://www.pcgamer.com/fortnite-catch-zero-point-fish](https://www.pcgamer.com/fortnite-catch-zero-point-fish)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 13:04:00+00:00
- - tags: None
 
 Net one of these scaly suckers for the week 14 challenge.
 
@@ -228,7 +200,6 @@ Net one of these scaly suckers for the week 14 challenge.
  - [https://www.pcgamer.com/genshin-impact-seelie-pet-lost-riches](https://www.pcgamer.com/genshin-impact-seelie-pet-lost-riches)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 11:54:24+00:00
- - tags: None
 
 Complete your party with this floating colourful creature.
 
@@ -236,7 +207,6 @@ Complete your party with this floating colourful creature.
  - [https://www.pcgamer.com/awesome-games-done-quick-pulls-in-person-event-because-organisers-dont-think-florida-is-safe](https://www.pcgamer.com/awesome-games-done-quick-pulls-in-person-event-because-organisers-dont-think-florida-is-safe)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 11:43:43+00:00
- - tags: None
 
 The winter speedrun event will take place online only.
 
@@ -244,7 +214,6 @@ The winter speedrun event will take place online only.
  - [https://www.pcgamer.com/crusader-kings-3s-greatest-event-is-one-you-cant-play](https://www.pcgamer.com/crusader-kings-3s-greatest-event-is-one-you-cant-play)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 11:22:53+00:00
- - tags: None
 
 Unless a hero recreates it in a mod.
 
@@ -252,7 +221,6 @@ Unless a hero recreates it in a mod.
  - [https://www.pcgamer.com/cheap-gaming-chair-should-i-buy](https://www.pcgamer.com/cheap-gaming-chair-should-i-buy)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 10:12:42+00:00
- - tags: None
 
 We sifted through cheap gaming chairs and found the best ones on offer for anyone with a limited budget.
 
@@ -260,7 +228,6 @@ We sifted through cheap gaming chairs and found the best ones on offer for anyon
  - [https://www.pcgamer.com/gravastar-sirius-pro-wireless-earbuds-review](https://www.pcgamer.com/gravastar-sirius-pro-wireless-earbuds-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 09:58:56+00:00
- - tags: None
 
 Very much the 'gamer' earbuds.
 
@@ -268,7 +235,6 @@ Very much the 'gamer' earbuds.
  - [https://www.pcgamer.com/asus-rog-cetra-true-wireless-earbuds-review](https://www.pcgamer.com/asus-rog-cetra-true-wireless-earbuds-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 09:58:53+00:00
- - tags: None
 
 Sounds like a bit of a let down to me.
 
@@ -276,7 +242,6 @@ Sounds like a bit of a let down to me.
  - [https://www.pcgamer.com/tronsmart-onyx-ace-pro-wireless-earbuds-review](https://www.pcgamer.com/tronsmart-onyx-ace-pro-wireless-earbuds-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 09:22:17+00:00
- - tags: None
 
 The best bargain buds.
 
@@ -284,7 +249,6 @@ The best bargain buds.
  - [https://www.pcgamer.com/todays-wordle-446-answer-hint](https://www.pcgamer.com/todays-wordle-446-answer-hint)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 07:01:28+00:00
- - tags: None
 
 Wordle today: The solution and a hint for Thursday's puzzle.
 
@@ -292,7 +256,6 @@ Wordle today: The solution and a hint for Thursday's puzzle.
  - [https://www.pcgamer.com/nvidia-tweets-projectbeyond-and-its-surely-a-teaser-for-the-rtx-40-series](https://www.pcgamer.com/nvidia-tweets-projectbeyond-and-its-surely-a-teaser-for-the-rtx-40-series)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 06:33:03+00:00
- - tags: None
 
 The hype train is about to leave the station.
 
@@ -300,6 +263,5 @@ The hype train is about to leave the station.
  - [https://www.pcgamer.com/nvidia-gpus-continue-to-dominate-according-to-steams-latest-hardware-survey](https://www.pcgamer.com/nvidia-gpus-continue-to-dominate-according-to-steams-latest-hardware-survey)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-08 05:00:26+00:00
- - tags: None
 
 Windows 11 is gaining traction too.

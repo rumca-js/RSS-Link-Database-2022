@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Warner Bros. Discovery is ‘absolutely not for sale,’ says CEO
  - [https://www.theverge.com/2022/9/30/23381053/warner-bros-discovery-comcast-sale-merger-hbo-max](https://www.theverge.com/2022/9/30/23381053/warner-bros-discovery-comcast-sale-merger-hbo-max)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-30 22:04:46+00:00
- - tags: None
 
 <figure>
       <img alt="Illustration of the HBO Max wordmark on a blue, black, and tan background." src="https://cdn.vox-cdn.com/thumbor/ntW-9jhvHnAgB-jpkRYw0hNN3Po=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71438006/acastro_STK055_06.0.jpg" />
@@ -17,7 +16,6 @@
  - [https://www.theverge.com/2022/9/30/23380804/twitch-elevated-chat-feature-paid-creators](https://www.theverge.com/2022/9/30/23380804/twitch-elevated-chat-feature-paid-creators)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-30 21:17:58+00:00
- - tags: None
 
 <figure>
       <img alt="Twitch logo" src="https://cdn.vox-cdn.com/thumbor/YN-IZ7Pr5mSDD7e9ku4HnKCPWv0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71437804/STK044_VRG_Illo_N_Barclay_4_twitch.0.jpg" />
@@ -30,7 +28,6 @@
  - [https://www.theverge.com/2022/9/30/23381106/google-stadia-shutdown-shocked-developers-too](https://www.theverge.com/2022/9/30/23381106/google-stadia-shutdown-shocked-developers-too)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-30 21:00:48+00:00
- - tags: None
 
 <figure>
       <img alt="Two hands hold a Stadia controller in front of a TV." src="https://cdn.vox-cdn.com/thumbor/dQvO6N6ICOJGimx0rSwGGA4w6s0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71437729/akrales_191113_3779_0163.0.jpg" />
@@ -44,7 +41,6 @@
  - [https://www.theverge.com/2022/9/30/23380215/windows-insider-build-uninstall-steam-bug](https://www.theverge.com/2022/9/30/23380215/windows-insider-build-uninstall-steam-bug)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-30 20:16:35+00:00
- - tags: None
 
 <figure>
       <img alt="A stock photo of the Windows 11 Desktop" src="https://cdn.vox-cdn.com/thumbor/YjJkInTNVJ7oRlxEzg7oxQM-Ocw=/0x41:539x400/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71437537/PreviewWindowsVP1.0.png" />
@@ -57,7 +53,6 @@
  - [https://www.theverge.com/23368585/bts-tamagotchi-handheld-game-hands-on](https://www.theverge.com/23368585/bts-tamagotchi-handheld-game-hands-on)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-30 19:54:30+00:00
- - tags: None
 
 <figure>
       <img alt="A user holds the TinyTan Tamagotchi. The screen displays a character sleeping with a stamina bar a quarter full beside it." src="https://cdn.vox-cdn.com/thumbor/3UPNFJWM1YclTNitdFDZYhYujNE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71437397/226322_BTS_Tamagotchi_akrales_0029.0.jpg" />
@@ -70,7 +65,6 @@
  - [https://www.theverge.com/2022/9/30/23380631/meta-nft-digital-collectibles-instagram-facebook](https://www.theverge.com/2022/9/30/23380631/meta-nft-digital-collectibles-instagram-facebook)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-30 18:20:07+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot of an Instagram post made using a digital collectible." src="https://cdn.vox-cdn.com/thumbor/BQAgTjwBZtXeGMn0BoRKIxPbkVI=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71436830/Introducing_Digital_Collectibles_to_Showcase_NFTs_on_Instagram_Header_1.0.jpg" />
@@ -83,7 +77,6 @@
  - [https://www.theverge.com/2022/9/30/23380258/teenage-engineering-po-80-record-factory-personal-vinyl-cutter](https://www.theverge.com/2022/9/30/23380258/teenage-engineering-po-80-record-factory-personal-vinyl-cutter)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-30 18:19:13+00:00
- - tags: None
 
 <figure>
       <img alt="The record factory is in a white background, the device is orange and black plastic with a black turntable on top, a speaker grille carve on the side, a resting playback arm, and a floating cutting arm that has multiple carving blades on it." src="https://cdn.vox-cdn.com/thumbor/86sB4NFoXRc4VhaiHy9UYlVd4WI=/0x0:4096x2731/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71436826/632998996a37137f63623aa7_original__1_.0.jpeg" />
@@ -93,7 +86,6 @@
  - [https://www.theverge.com/2022/9/30/23380750/google-stadia-shut-down-skyrim-elder-scrolls-eso-gaming-xbox-ps5](https://www.theverge.com/2022/9/30/23380750/google-stadia-shut-down-skyrim-elder-scrolls-eso-gaming-xbox-ps5)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-30 18:12:53+00:00
- - tags: None
 
 <figure>
       <img alt="Google Stadia Controller" src="https://cdn.vox-cdn.com/thumbor/wpm7mbRBBqnHcOxE6nxfOmrLcQs=/43x0:1420x918/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71436811/stadia_controller.0.jpg" />
@@ -106,7 +98,6 @@
  - [https://www.theverge.com/2022/9/30/23380435/anker-soundcore-sleep-a10-vr-p10-earbuds](https://www.theverge.com/2022/9/30/23380435/anker-soundcore-sleep-a10-vr-p10-earbuds)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-30 18:10:23+00:00
- - tags: None
 
 <figure>
       <img alt="An image of Anker’s Soundcore VR P10 earbuds in a person’s hand." src="https://cdn.vox-cdn.com/thumbor/lhcqv-wr4T4Wr53O0dpJ8znd2g8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71436796/ankerVR.0.jpg" />
@@ -119,7 +110,6 @@
  - [https://www.theverge.com/2022/9/30/23379246/nord-stream-pipeline-leaks-methane-emissions-oil-gas-disaster](https://www.theverge.com/2022/9/30/23379246/nord-stream-pipeline-leaks-methane-emissions-oil-gas-disaster)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-30 18:04:13+00:00
- - tags: None
 
 <figure>
       <img alt="Damaged Nord Stream II Baltic Pipeline Leaks Gas Into Sea" src="https://cdn.vox-cdn.com/thumbor/9ufKLPB1fKJ89jVNlQCjuRg97kQ=/0x0:8660x5773/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71436789/1243613049.0.jpg" />
@@ -129,7 +119,6 @@
  - [https://www.theverge.com/2022/9/30/23380703/ubisoft-google-stadia-transfer-purchases-pc-shutdown](https://www.theverge.com/2022/9/30/23380703/ubisoft-google-stadia-transfer-purchases-pc-shutdown)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-30 17:55:24+00:00
- - tags: None
 
 <figure>
       <img alt="The main character from Assassin’s Creed Valhalla fights an enemy in a snowy battlefield." src="https://cdn.vox-cdn.com/thumbor/T8wfJqwgptgkqDuD5eCnTBn68vg=/83x0:976x595/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71436709/5e849c6c5cdf9a21c0b4e731_2.0.jpeg" />
@@ -142,7 +131,6 @@
  - [https://www.theverge.com/2022/9/30/23374889/blonde-movie-netflix-fetus-scene](https://www.theverge.com/2022/9/30/23374889/blonde-movie-netflix-fetus-scene)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-30 16:50:10+00:00
- - tags: None
 
 <figure>
       <img alt="A bespectacled man leaning on a wooden fence as he gazes at a woman holding a bunch of flowers and smiling off into the distance." src="https://cdn.vox-cdn.com/thumbor/c8e9yU6swtL0ho6mNDuodQrsV0M=/0x123:2872x2038/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71436373/Blonde_01_41_16_09.0.jpeg" />
@@ -153,7 +141,6 @@
  - [https://www.theverge.com/23380370/google-stadia-refund-how-to](https://www.theverge.com/23380370/google-stadia-refund-how-to)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-30 16:27:03+00:00
- - tags: None
 
 <figure>
       <img alt="A press shot of the Stadia controller on a white background" src="https://cdn.vox-cdn.com/thumbor/Gj5kLZcXM0sPye3lanpRqt7Co28=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71436241/googlestadia.0.jpg" />
@@ -166,7 +153,6 @@
  - [https://www.theverge.com/2022/9/30/23361232/kitchenaid-mixer-lever-rugged-fine-grain-control](https://www.theverge.com/2022/9/30/23361232/kitchenaid-mixer-lever-rugged-fine-grain-control)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-30 16:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Photo of the KitchenAid stand mixer’s lever, set to the off position." src="https://cdn.vox-cdn.com/thumbor/uGfrdWsjh1TghwjMfbvOmxu3EmA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71436105/226280_standing_mixer_speed_lever_akrales_0122.0.jpg" />
@@ -179,7 +165,6 @@
  - [https://www.theverge.com/2022/9/30/23380394/community-six-seasons-and-a-movie-nbc-peacock](https://www.theverge.com/2022/9/30/23380394/community-six-seasons-and-a-movie-nbc-peacock)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-30 15:49:16+00:00
- - tags: None
 
 <figure>
       <img alt="Community cast members Danny Pudi, Alison Brie, Joel McHale, Gillian Jacobs, and Ken Jeong pictured huddling and talking in picture from Community Season 6 Episode 609 “Grifting”." src="https://cdn.vox-cdn.com/thumbor/DSQGA6-8aAyckff-kzKcotLGLhI=/0x0:4800x3200/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71436062/COM_609_20150217_JL_0428.0.jpg" />
@@ -189,7 +174,6 @@
  - [https://www.theverge.com/2022/9/30/23378504/macbook-air-fitbit-sense-magsafe-battery-pack-hisense-u7h-tv-deal-sale](https://www.theverge.com/2022/9/30/23378504/macbook-air-fitbit-sense-magsafe-battery-pack-hisense-u7h-tv-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-30 14:54:17+00:00
- - tags: None
 
 <figure>
       <img alt="The dark blue MacBook Air sitting open on a desk with its screen and new notch showing." src="https://cdn.vox-cdn.com/thumbor/BWi2rtkfY5iGIQaYJaQZVt9hWFU=/0x0:1440x960/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71435778/macbookair.0.jpg" />
@@ -202,7 +186,6 @@
  - [https://www.theverge.com/2022/9/30/23380260/arrival-electric-van-production-microfactory-cash-raise](https://www.theverge.com/2022/9/30/23380260/arrival-electric-van-production-microfactory-cash-raise)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-30 14:45:48+00:00
- - tags: None
 
 <figure>
       <img alt="A black and white electric van in a glowing tunnel with fluorescent light." src="https://cdn.vox-cdn.com/thumbor/k-YQ1yfob--PPZ1hChqDm29k498=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71435750/DELTA_PRESS_2.0.png" />
@@ -215,7 +198,6 @@
  - [https://www.theverge.com/22227476/cancel-netflix-apple-plus-amazon-prime-hbo-max-how-to-streaming-subscriptions](https://www.theverge.com/22227476/cancel-netflix-apple-plus-amazon-prime-hbo-max-how-to-streaming-subscriptions)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-30 14:39:27+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/Pdp4lnEo_K4Yf5rDPZRJ-Qxi1j8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/68672182/HT026_TV_0002.5.jpg" />
@@ -228,7 +210,6 @@
  - [https://www.theverge.com/2022/9/30/23380233/nsa-employee-fbi-selling-secrets-espionage-act-jareh-dalke](https://www.theverge.com/2022/9/30/23380233/nsa-employee-fbi-selling-secrets-espionage-act-jareh-dalke)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-30 14:22:00+00:00
- - tags: None
 
 <figure>
       <img alt="An illustration of the NSA logo in black set inside in a spiky orange star on a black background." src="https://cdn.vox-cdn.com/thumbor/hoUxl_00oal5f0QFGDjCkgfJop0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71435663/acastro_STK005_NSA_01.0.jpg" />
@@ -241,7 +222,6 @@
  - [https://www.theverge.com/23380261/spotify-app-podcasts-audiobooks-clutter-music-leverage-complaint](https://www.theverge.com/23380261/spotify-app-podcasts-audiobooks-clutter-music-leverage-complaint)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-30 14:10:04+00:00
- - tags: None
 
 <figure>
       <img alt="An illustration of the Spotify logo surrounded by noise lines in white, purple, and green." src="https://cdn.vox-cdn.com/thumbor/GQHm7van50v9TmQvDY3f2R4ey9s=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71435638/STK088_VRG_Illo_N_Barclay_6_spotify.0.jpg" />
@@ -254,7 +234,6 @@
  - [https://www.theverge.com/23380148/cabinet-of-curiosities-guillermo-del-toro-netflix-series-trailer](https://www.theverge.com/23380148/cabinet-of-curiosities-guillermo-del-toro-netflix-series-trailer)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-30 14:00:40+00:00
- - tags: None
 
 <figure>
       <img alt="A photo of Guillermo del Toro in the Netflix series Cabinet Of Curiosities." src="https://cdn.vox-cdn.com/thumbor/hSJDD2569bzVJeszdI3kKygtu0M=/378x0:3222x1896/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71435596/Guillermo_Del_Toro_s_Cabinet_of_Curiosities_S1_LOT36_00_00_45_23R.0.jpg" />
@@ -267,7 +246,6 @@
  - [https://www.theverge.com/23380140/google-stadia-ending-shutdown-latest-news-gaming-tech](https://www.theverge.com/23380140/google-stadia-ending-shutdown-latest-news-gaming-tech)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-30 13:13:04+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/5wN8RUnANDVnZsBexVaQam4Ex50=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71435280/akrales_191113_3779_0163.0.jpg" />
@@ -280,7 +258,6 @@
  - [https://www.theverge.com/2022/9/30/23378754/hurricane-ian-hospital-flood-climate-change](https://www.theverge.com/2022/9/30/23378754/hurricane-ian-hospital-flood-climate-change)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-30 13:06:06+00:00
- - tags: None
 
 <figure>
       <img alt="Hurricane Ian Impacts Orlando" src="https://cdn.vox-cdn.com/thumbor/q84i9I-HMFpo3R9bkwapuyeIxYk=/35x0:4165x2753/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71435252/1243598785.0.jpg" />
@@ -293,7 +270,6 @@
  - [https://www.theverge.com/2022/9/30/23374542/tesla-ai-day-how-to-watch-optimus-robot-dojo-elon-musk](https://www.theverge.com/2022/9/30/23374542/tesla-ai-day-how-to-watch-optimus-robot-dojo-elon-musk)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-30 13:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="The Tesla Bot is a humanoid robot with a black head and a white body" src="https://cdn.vox-cdn.com/thumbor/k5T7sy5zcN8so0gVNK2DHbs0lnc=/0x1:4000x2668/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71435205/0x0_KJC_5055_1.0.jpg" />
@@ -306,7 +282,6 @@
  - [https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-30 13:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="An artful arrangement of gaming controllers and accessories for the Nintendo Switch." src="https://cdn.vox-cdn.com/thumbor/6qNn-X5NP9OumigXZdNfv3A-hME=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71435209/226303_Switch_controller_buying_guide_akrales_0031.0.jpg" />
@@ -317,7 +292,6 @@
  - [https://www.theverge.com/2022/9/30/23378231/usb-rebranding-2022-logos-gbps-wattage-charging-transfer-speeds-simplification-usb4-superspeed](https://www.theverge.com/2022/9/30/23378231/usb-rebranding-2022-logos-gbps-wattage-charging-transfer-speeds-simplification-usb4-superspeed)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-30 12:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="A bundle of USB-C cables." src="https://cdn.vox-cdn.com/thumbor/vOul-jXXfH04Pkw0jOMVhGOYErc=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71434873/akrales_190522_3440_0056.0.jpg" />
@@ -330,7 +304,6 @@
  - [https://www.theverge.com/2022/9/30/23380061/bipedal-robot-100-meter-record-run-time-cassie-agility-robotics-osu](https://www.theverge.com/2022/9/30/23380061/bipedal-robot-100-meter-record-run-time-cassie-agility-robotics-osu)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-30 11:57:12+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/P3JChggT3PtQovKiI1rEql12y5o=/50x0:551x334/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71434819/cassie_100_m_run.0.gif" />
@@ -342,7 +315,6 @@
  - [https://www.theverge.com/2022/9/30/23380068/zendure-superbase-v-semi-solid-state-battery-price-specs](https://www.theverge.com/2022/9/30/23380068/zendure-superbase-v-semi-solid-state-battery-price-specs)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-30 11:45:46+00:00
- - tags: None
 
 <figure>
       <img alt="A man pulls a SuperBase V battery with expansion battery stacked on top from garage surrounded by an entire Zendure home battery system." src="https://cdn.vox-cdn.com/thumbor/gQM9oTVW8Y9qJsxp7VIBbNfExO4=/0x0:6000x4000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71434787/DSC07258.0.jpg" />
@@ -355,7 +327,6 @@
  - [https://www.theverge.com/2022/9/30/23380047/google-stadia-end-editorial](https://www.theverge.com/2022/9/30/23380047/google-stadia-end-editorial)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-30 11:30:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/TKtP-DEywbmFM9qZmebKXLE7qeM=/0x0:1475x983/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71434741/stadia.0.jpg" />
@@ -368,7 +339,6 @@
  - [https://www.theverge.com/2022/9/30/23378757/google-stadia-commitments-shutdown-rumors](https://www.theverge.com/2022/9/30/23378757/google-stadia-commitments-shutdown-rumors)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-30 11:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="A person holds a Stadia controller in their hands. The controller is connected to a Chromebook, which is playing a game." src="https://cdn.vox-cdn.com/thumbor/3PVSSESdLvkhUbBaZH4qGJ1om3M=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71434619/akrales_191113_3779_0284.0.jpg" />
@@ -381,7 +351,6 @@
  - [https://www.theverge.com/2022/9/30/23379199/iphone-14-pro-camera-2x-telephoto-portrait-mode](https://www.theverge.com/2022/9/30/23379199/iphone-14-pro-camera-2x-telephoto-portrait-mode)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-30 11:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="The camera setup on the rear of the iPhone 14 Pro." src="https://cdn.vox-cdn.com/thumbor/jsJquRst2JZd0I0q3huOwtuoL7g=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71434625/226270_iPHONE_14_PHO_akrales_0723.0.jpg" />
@@ -394,7 +363,6 @@
  - [https://www.theverge.com/2022/9/30/23380044/food-delivery-drone-knocks-out-power-australia-wing](https://www.theverge.com/2022/9/30/23380044/food-delivery-drone-knocks-out-power-australia-wing)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-30 10:09:46+00:00
- - tags: None
 
 <figure>
       <img alt="A photo showing a small drone sitting on top of overhead power lines. " src="https://cdn.vox-cdn.com/thumbor/egywt1hMNxmC1miMEzwQn8Zn_dQ=/139x0:1555x944/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71434553/Screenshot_2022_09_30_at_10.39.27.0.png" />
@@ -404,7 +372,6 @@
  - [https://www.theverge.com/2022/9/30/23380019/hyper-stackable-gan-chargers-refund-overheating-fire-hazard-65w-100w-130w-usb-c-battery-pack](https://www.theverge.com/2022/9/30/23380019/hyper-stackable-gan-chargers-refund-overheating-fire-hazard-65w-100w-130w-usb-c-battery-pack)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-30 08:45:18+00:00
- - tags: None
 
 <figure>
       <img alt="Hyper’s stackable GaN chargers." src="https://cdn.vox-cdn.com/thumbor/5L1Dd-Kh3auPVGivQx4SXbLj944=/0x0:1239x826/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71434411/hyper_stackable_charger.0.jpg" />
@@ -417,7 +384,6 @@
  - [https://www.theverge.com/2022/9/29/23379435/elon-musk-jack-dorsey-twitter-buyout-texts](https://www.theverge.com/2022/9/29/23379435/elon-musk-jack-dorsey-twitter-buyout-texts)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-30 00:30:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/PETJvuk06CPCv2JXLCQoeyFOEqw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71433486/VRG_Illo_STK022_K_Radtke_Musk_Stock_Smirk.0.jpg" />

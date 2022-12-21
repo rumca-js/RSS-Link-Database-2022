@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Critical zero-days make September's Patch Tuesday a 'Patch Now' release
  - [https://www.computerworld.com/article/3673944/critical-zero-days-make-septembers-patch-tuesday-a-patch-now-release.html#tk.rss_all](https://www.computerworld.com/article/3673944/critical-zero-days-make-septembers-patch-tuesday-a-patch-now-release.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-16 19:36:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3674208/whats-new-in-notifications-in-ios-16.html#tk.rss_all](https://www.computerworld.com/article/3674208/whats-new-in-notifications-in-ios-16.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-16 15:02:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -25,7 +23,6 @@
  - [https://www.computerworld.com/article/3673104/sadly-it-can-no-longer-trust-geolocation-for-almost-anything.html#tk.rss_all](https://www.computerworld.com/article/3673104/sadly-it-can-no-longer-trust-geolocation-for-almost-anything.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-16 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

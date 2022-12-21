@@ -1,10 +1,9 @@
-# Source Laowhy86, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UChvithwOECK5g_19TjldMKw
+# Source Laowhy86, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UChvithwOECK5g_19TjldMKw, Source language: en-US
 
 ## China’s in Really Bad Shape
  - [https://www.youtube.com/watch?v=0HL59UCepI4](https://www.youtube.com/watch?v=0HL59UCepI4)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UChvithwOECK5g_19TjldMKw
  - date published: 2022-09-16 16:00:12+00:00
- - tags: None
 
 China is in really bad shape, and it's only getting worse. But why? It's completely avoidable. 
 There is a reason.

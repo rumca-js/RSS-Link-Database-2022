@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## Ukraine War Comes Home to Russia as Putin Imposes Draft
  - [https://www.nytimes.com/2022/09/22/world/europe/putin-russia-military-ukraine-war.html](https://www.nytimes.com/2022/09/22/world/europe/putin-russia-military-ukraine-war.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-22 23:39:57+00:00
- - tags: None
 
 As Vladimir Putin’s “special military operation” enters a new chapter, Russians are being plucked from villages around the country for training and military service.
 
@@ -12,7 +11,6 @@ As Vladimir Putin’s “special military operation” enters a new chapter, Rus
  - [https://www.nytimes.com/2022/09/22/briefing/russia-men-draft-japan-asia.html](https://www.nytimes.com/2022/09/22/briefing/russia-men-draft-japan-asia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-22 21:37:06+00:00
- - tags: None
 
 Plus Japan props up the yen and Cambodia concludes its Khmer Rouge trials.
 
@@ -20,7 +18,6 @@ Plus Japan props up the yen and Cambodia concludes its Khmer Rouge trials.
  - [https://www.nytimes.com/2022/09/22/world/europe/un-security-council-lavrov-blinken-ukraine-war.html](https://www.nytimes.com/2022/09/22/world/europe/un-security-council-lavrov-blinken-ukraine-war.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-22 21:06:06+00:00
- - tags: None
 
 The meeting will bring the foreign ministers of the United States and Russia, along with European members of the Council, together around one table for the first time since Russia invaded Ukraine in February.
 
@@ -28,7 +25,6 @@ The meeting will bring the foreign ministers of the United States and Russia, al
  - [https://www.nytimes.com/2022/09/22/world/europe/russias-war-in-ukraine-will-be-the-center-of-a-un-security-council-meeting.html](https://www.nytimes.com/2022/09/22/world/europe/russias-war-in-ukraine-will-be-the-center-of-a-un-security-council-meeting.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-22 19:27:03+00:00
- - tags: None
 
 Secretary of State Antony J. Blinken accused Russia of showing contempt for the U.N. Charter, saying the international order “is being shredded before our eyes.”
 
@@ -36,7 +32,6 @@ Secretary of State Antony J. Blinken accused Russia of showing contempt for the 
  - [https://www.nytimes.com/2022/09/22/world/europe/russian-men-draft.html](https://www.nytimes.com/2022/09/22/world/europe/russian-men-draft.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-22 17:42:11+00:00
- - tags: None
 
 Vladimir V. Putin’s new military call-up has sent young men who don’t want to fight in Ukraine heading to the borders.
 
@@ -44,7 +39,6 @@ Vladimir V. Putin’s new military call-up has sent young men who don’t want t
  - [https://www.nytimes.com/2022/09/22/us/politics/afghan-refugees-congress.html](https://www.nytimes.com/2022/09/22/us/politics/afghan-refugees-congress.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-22 17:31:23+00:00
- - tags: None
 
 The White House and members of both parties had hoped to attach the legislation to a must-pass spending bill this month. But some Republicans have raised security concerns.
 
@@ -52,7 +46,6 @@ The White House and members of both parties had hoped to attach the legislation 
  - [https://www.nytimes.com/2022/09/22/world/europe/northern-ireland-census-catholics-protestants.html](https://www.nytimes.com/2022/09/22/world/europe/northern-ireland-census-catholics-protestants.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-22 17:28:06+00:00
- - tags: None
 
 Newly released census results may fuel calls for a referendum on uniting Ireland, experts say, but not right away.
 
@@ -60,7 +53,6 @@ Newly released census results may fuel calls for a referendum on uniting Ireland
  - [https://www.nytimes.com/2022/09/22/world/middleeast/syria-cholera-outbreak.html](https://www.nytimes.com/2022/09/22/world/middleeast/syria-cholera-outbreak.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-22 16:53:23+00:00
- - tags: None
 
 The highly contagious disease has spread quickly in the country’s north, where millions of people displaced by a decade-long war are living, and many rely on untreated water from rivers containing raw sewage.
 
@@ -68,7 +60,6 @@ The highly contagious disease has spread quickly in the country’s north, where
  - [https://www.nytimes.com/2022/09/22/climate/malpass-world-bank-climate.html](https://www.nytimes.com/2022/09/22/climate/malpass-world-bank-climate.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-22 16:46:41+00:00
- - tags: None
 
 David Malpass touched off a furor, including calls for his removal, when he refused to acknowledge that fossil fuels are warming the planet. On Thursday, he restated his position.
 
@@ -76,7 +67,6 @@ David Malpass touched off a furor, including calls for his removal, when he refu
  - [https://www.nytimes.com/2022/09/22/world/middleeast/iran-protests.html](https://www.nytimes.com/2022/09/22/world/middleeast/iran-protests.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-22 16:44:50+00:00
- - tags: None
 
 Dozens of cities have been embroiled in protests that were prompted by a young woman’s death in custody but have escalated amid anger over religious rules and a rock-bottom economy.
 
@@ -84,7 +74,6 @@ Dozens of cities have been embroiled in protests that were prompted by a young w
  - [https://www.nytimes.com/2022/09/22/world/europe/ukraine-soldiers-freed-russia.html](https://www.nytimes.com/2022/09/22/world/europe/ukraine-soldiers-freed-russia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-22 16:02:47+00:00
- - tags: None
 
 After the largest prisoner exchange of the war, Ukrainians celebrated while anger coursed through the ranks of Russian mercenaries and military bloggers.
 
@@ -92,7 +81,6 @@ After the largest prisoner exchange of the war, Ukrainians celebrated while ange
  - [https://www.nytimes.com/2022/09/22/world/americas/michael-jackson-impersonators-buenos-aires.html](https://www.nytimes.com/2022/09/22/world/americas/michael-jackson-impersonators-buenos-aires.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-22 15:14:40+00:00
- - tags: None
 
 Two imitators of the King of Pop in Buenos Aires offer a study in contrasts, reflective of Argentina’s deep economic divide. One man financed 13 surgeries, while the other draws on his sideburns.
 
@@ -100,7 +88,6 @@ Two imitators of the King of Pop in Buenos Aires offer a study in contrasts, ref
  - [https://www.nytimes.com/2022/09/22/world/europe/russia-men-flee-war-mobilization.html](https://www.nytimes.com/2022/09/22/world/europe/russia-men-flee-war-mobilization.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-22 14:35:18+00:00
- - tags: None
 
 Since the announcement of a new troop mobilization, civilians have realized they could not count on staying out of their country’s invasion of Ukraine.
 
@@ -108,7 +95,6 @@ Since the announcement of a new troop mobilization, civilians have realized they
  - [https://www.nytimes.com/live/2022/09/22/world/russia-ukraine-putin-news](https://www.nytimes.com/live/2022/09/22/world/russia-ukraine-putin-news)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-22 12:42:37+00:00
- - tags: None
 
 School buses were reportedly bringing recruits to training grounds, a day after Moscow escalated its war effort by announcing the mobilization of up to 300,000 more soldiers.
 
@@ -116,7 +102,6 @@ School buses were reportedly bringing recruits to training grounds, a day after 
  - [https://www.nytimes.com/2022/09/22/world/europe/russia-protests-arrests.html](https://www.nytimes.com/2022/09/22/world/europe/russia-protests-arrests.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-22 11:33:18+00:00
- - tags: None
 
 Protesters show their disapproval of the policy announced by President Vladimir V. Putin on Wednesday morning that would press 300,000 people into military service.
 
@@ -124,7 +109,6 @@ Protesters show their disapproval of the policy announced by President Vladimir 
  - [https://www.nytimes.com/2022/09/22/world/europe/andy-byford-mta-london-transport.html](https://www.nytimes.com/2022/09/22/world/europe/andy-byford-mta-london-transport.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-22 11:15:08+00:00
- - tags: None
 
 Mr. Byford, who was revered as “Train Daddy” during his tenure as the chief of the New York City subway, said he would move back to the United States.
 
@@ -132,7 +116,6 @@ Mr. Byford, who was revered as “Train Daddy” during his tenure as the chief 
  - [https://www.nytimes.com/2022/09/22/briefing/ukraine-war-putin-troops-mobilization.html](https://www.nytimes.com/2022/09/22/briefing/ukraine-war-putin-troops-mobilization.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-22 10:23:37+00:00
- - tags: None
 
 Vladimir Putin’s call-up of more troops highlights Russia’s continuing struggles in Ukraine.
 
@@ -140,7 +123,6 @@ Vladimir Putin’s call-up of more troops highlights Russia’s continuing strug
  - [https://www.nytimes.com/2022/09/22/world/europe/europe-rivers-reservoirs-drought.html](https://www.nytimes.com/2022/09/22/world/europe/europe-rivers-reservoirs-drought.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-22 10:00:12+00:00
- - tags: None
 
 Drought combined with extreme heat this summer have painted a dramatic picture of Europe’s drying rivers and reservoirs.
 
@@ -148,7 +130,6 @@ Drought combined with extreme heat this summer have painted a dramatic picture o
  - [https://www.nytimes.com/2022/09/22/world/europe/russia-ukraine-medvedchuk-released.html](https://www.nytimes.com/2022/09/22/world/europe/russia-ukraine-medvedchuk-released.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-22 09:14:44+00:00
- - tags: None
 
 The Ukrainian politician and oligarch had acted as the Kremlin’s primary agent of influence in Ukraine for years.
 
@@ -156,7 +137,6 @@ The Ukrainian politician and oligarch had acted as the Kremlin’s primary agent
  - [https://www.nytimes.com/2022/09/22/world/asia/india-debunking-fake-news.html](https://www.nytimes.com/2022/09/22/world/asia/india-debunking-fake-news.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-22 09:00:13+00:00
- - tags: None
 
 Alt News, an independent website, has emerged as a leading debunker of misinformation in the nation, but highlighting hate speech against minorities has put it on a collision course with the government.
 
@@ -164,7 +144,6 @@ Alt News, an independent website, has emerged as a leading debunker of misinform
  - [https://www.nytimes.com/2022/09/21/world/middleeast/iran-protests-mahsa-amini.html](https://www.nytimes.com/2022/09/21/world/middleeast/iran-protests-mahsa-amini.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-22 08:39:43+00:00
- - tags: None
 
 Unrest has spread to dozens of cities, with at least seven people killed, according to witnesses, rights groups and video posted on social media.
 
@@ -172,7 +151,6 @@ Unrest has spread to dozens of cities, with at least seven people killed, accord
  - [https://www.nytimes.com/2022/09/22/world/asia/cambodia-khmer-rouge-tribunal.html](https://www.nytimes.com/2022/09/22/world/asia/cambodia-khmer-rouge-tribunal.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-22 05:24:19+00:00
- - tags: None
 
 The last surviving leader of the regime that killed 1.7 million Cambodians lost his appeal on Thursday. Some victims think the long, expensive tribunal was a hollow exercise.
 
@@ -180,7 +158,6 @@ The last surviving leader of the regime that killed 1.7 million Cambodians lost 
  - [https://www.nytimes.com/2022/09/22/world/asia/north-korea-russia-arms-us.html](https://www.nytimes.com/2022/09/22/world/asia/north-korea-russia-arms-us.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-22 05:19:42+00:00
- - tags: None
 
 Pyongyang accused the United States of spreading “reckless” rumors, but added that it had the right to build and export arms.
 
@@ -188,7 +165,6 @@ Pyongyang accused the United States of spreading “reckless” rumors, but adde
  - [https://www.nytimes.com/2022/09/22/briefing/putin-ukraine-russia-puerto-rico.html](https://www.nytimes.com/2022/09/22/briefing/putin-ukraine-russia-puerto-rico.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-22 04:50:21+00:00
- - tags: None
 
 A warning from Vladimir Putin.
 
@@ -196,7 +172,6 @@ A warning from Vladimir Putin.
  - [https://www.nytimes.com/2022/09/22/world/europe/ukraine-collaborators-russia.html](https://www.nytimes.com/2022/09/22/world/europe/ukraine-collaborators-russia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-22 04:01:13+00:00
- - tags: None
 
 In towns reclaimed from Russian occupation, Ukrainian officials are working to identify — and punish — those who helped the enemy. It’s dividing some communities.
 
@@ -204,7 +179,6 @@ In towns reclaimed from Russian occupation, Ukrainian officials are working to i
  - [https://www.nytimes.com/2022/09/21/world/europe/liz-truss-speech-ukraine.html](https://www.nytimes.com/2022/09/21/world/europe/liz-truss-speech-ukraine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-22 01:21:58+00:00
- - tags: None
 
 
 
@@ -212,6 +186,5 @@ In towns reclaimed from Russian occupation, Ukrainian officials are working to i
  - [https://www.nytimes.com/2022/09/21/world/africa/kenyas-william-ruto-unga.html](https://www.nytimes.com/2022/09/21/world/africa/kenyas-william-ruto-unga.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-22 01:10:15+00:00
- - tags: None
 
 “We cannot afford to waste another moment debating the merits of doing something vis a vis doing nothing,” he said.

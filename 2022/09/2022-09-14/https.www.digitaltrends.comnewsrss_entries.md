@@ -1,10 +1,9 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss
+# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
 
 ## Logitech’s new webcams are an alternative to Apple Desk View
  - [https://www.digitaltrends.com/computing/logitech-brio-500-alternative-to-apple-desk-view/](https://www.digitaltrends.com/computing/logitech-brio-500-alternative-to-apple-desk-view/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-14 18:52:13.073643+00:00
- - tags: None
 
 Logitech unveiled their newest Brio 500 webcam and Zone Vibe headphones today, taking aim at the large workforce still stuck at home using Zoom and Teams.
 
@@ -12,7 +11,6 @@ Logitech unveiled their newest Brio 500 webcam and Zone Vibe headphones today, t
  - [https://www.digitaltrends.com/computing/nvidia-geforce-rtx-40-series-may-have-configurable-tgp/](https://www.digitaltrends.com/computing/nvidia-geforce-rtx-40-series-may-have-configurable-tgp/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-14 17:52:14.226184+00:00
- - tags: None
 
 Nvidia's next-gen RTX 40-Series GPUs may come with monstrous power requirements, but they also might have a perk -- a configurable TGP.
 
@@ -20,7 +18,6 @@ Nvidia's next-gen RTX 40-Series GPUs may come with monstrous power requirements,
  - [https://www.digitaltrends.com/computing/three-upcoming-gaming-monitors-worth-getting-excited-about/](https://www.digitaltrends.com/computing/three-upcoming-gaming-monitors-worth-getting-excited-about/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-14 13:52:11.887787+00:00
- - tags: None
 
 2022 has already been a landmark year for gaming monitors, but it's only going to get better.
 
@@ -28,7 +25,6 @@ Nvidia's next-gen RTX 40-Series GPUs may come with monstrous power requirements,
  - [https://www.digitaltrends.com/computing/intel-raptor-lake-specifications-leaked-by-intel/](https://www.digitaltrends.com/computing/intel-raptor-lake-specifications-leaked-by-intel/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-14 13:52:11.869966+00:00
- - tags: None
 
 Intel has just leaked the official Raptor Lake specifications by accident. There's one major surprise regarding the clock speeds of these CPUs.
 
@@ -36,7 +32,6 @@ Intel has just leaked the official Raptor Lake specifications by accident. There
  - [https://www.digitaltrends.com/news/queen-final-flight-most-tracked/](https://www.digitaltrends.com/news/queen-final-flight-most-tracked/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-14 13:52:11.862702+00:00
- - tags: None
 
 Queen Elizabeth’s final flight on Tuesday has become the most tracked in history, according to an online service that gathers such data.
 
@@ -44,6 +39,5 @@ Queen Elizabeth’s final flight on Tuesday has become the most tracked in histo
  - [https://www.digitaltrends.com/news/bill-nike-sneaker-cleaning-robot/](https://www.digitaltrends.com/news/bill-nike-sneaker-cleaning-robot/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-14 13:52:11.854520+00:00
- - tags: None
 
 Keen to burnish its green credentials by making sneakers last as long as possible, Nike has come up with a brush-laden bot called BILL.

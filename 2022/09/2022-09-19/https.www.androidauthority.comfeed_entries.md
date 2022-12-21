@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## These speaker deals can save you as much as $850
  - [https://www.androidauthority.com/crutchfield-speaker-deals-3210484/](https://www.androidauthority.com/crutchfield-speaker-deals-3210484/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-19 22:04:55+00:00
- - tags: None
 
 This week only, Crutchfield has a huge range of speaker deals from top brands such as Wharfedale, Klipsch, and more.
 
@@ -12,7 +11,6 @@ This week only, Crutchfield has a huge range of speaker deals from top brands su
  - [https://www.androidauthority.com/google-pixel-watch-price-2-3210479/](https://www.androidauthority.com/google-pixel-watch-price-2-3210479/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-19 21:37:05+00:00
- - tags: None
 
 A source has confirmed a recent leak about the price of the Pixel Watch.
 
@@ -20,7 +18,6 @@ A source has confirmed a recent leak about the price of the Pixel Watch.
  - [https://www.androidauthority.com/hp-laptop-deals-1123504/](https://www.androidauthority.com/hp-laptop-deals-1123504/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-19 19:40:29+00:00
- - tags: None
 
 HP has some amazing sale offers available right now, from personal laptops and Chromebooks to high-end business machines.
 
@@ -28,7 +25,6 @@ HP has some amazing sale offers available right now, from personal laptops and C
  - [https://www.androidauthority.com/iphone-15-ultra-rumor-3210342/](https://www.androidauthority.com/iphone-15-ultra-rumor-3210342/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-19 19:01:47+00:00
- - tags: None
 
 A rumor claims that 8K video, longer battery life, and more could be coming.
 
@@ -36,7 +32,6 @@ A rumor claims that 8K video, longer battery life, and more could be coming.
  - [https://www.androidauthority.com/google-pixel-watch-colors-3210285/](https://www.androidauthority.com/google-pixel-watch-colors-3210285/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-19 17:25:32+00:00
- - tags: None
 
 A recent leak may have given us new details about the Google Pixel Watch.
 
@@ -44,7 +39,6 @@ A recent leak may have given us new details about the Google Pixel Watch.
  - [https://www.androidauthority.com/google-nest-wi-fi-pro-3210248/](https://www.androidauthority.com/google-nest-wi-fi-pro-3210248/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-19 15:43:59+00:00
- - tags: None
 
 The new Google Nest Wifi Pro may use Wi-Fi 6E.
 
@@ -52,7 +46,6 @@ The new Google Nest Wifi Pro may use Wi-Fi 6E.
  - [https://www.androidauthority.com/verizon-one-unlimited-for-iphone-plan-3209561/](https://www.androidauthority.com/verizon-one-unlimited-for-iphone-plan-3209561/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-19 14:47:57+00:00
- - tags: None
 
 Is it any better than other Verizon plans?
 
@@ -60,7 +53,6 @@ Is it any better than other Verizon plans?
  - [https://www.androidauthority.com/google-pixel-7-price-question-3208635/](https://www.androidauthority.com/google-pixel-7-price-question-3208635/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-19 14:00:33+00:00
- - tags: None
 
 An inflation-busting handset or time to cash in on its success?
 
@@ -68,7 +60,6 @@ An inflation-busting handset or time to cash in on its success?
  - [https://www.androidauthority.com/smaller-flagship-pixel-phone-poll-results-3210210/](https://www.androidauthority.com/smaller-flagship-pixel-phone-poll-results-3210210/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-19 12:52:25+00:00
- - tags: None
 
 But how small would be too small for Google?
 
@@ -76,7 +67,6 @@ But how small would be too small for Google?
  - [https://www.androidauthority.com/switch-cellular-carrier-poll-3210164/](https://www.androidauthority.com/switch-cellular-carrier-poll-3210164/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-19 10:18:32+00:00
- - tags: None
 
 Would lack of coverage make you switch? Pricing? Or how about customer service?
 
@@ -84,7 +74,6 @@ Would lack of coverage make you switch? Pricing? Or how about customer service?
  - [https://www.androidauthority.com/daily-authority-september-19-2022-3210120/](https://www.androidauthority.com/daily-authority-september-19-2022-3210120/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-19 09:20:51+00:00
- - tags: None
 
 AA staff empty their pockets to reveal the devices that keep them going from morning to night.
 
@@ -92,7 +81,6 @@ AA staff empty their pockets to reveal the devices that keep them going from mor
  - [https://www.androidauthority.com/apple-iphone-14-pro-camera-noise-shaking-3210143/](https://www.androidauthority.com/apple-iphone-14-pro-camera-noise-shaking-3210143/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-19 07:43:07+00:00
- - tags: None
 
 You'll definitely want to hold off on using the camera inside social media apps if you're experiencing this.
 
@@ -100,7 +88,6 @@ You'll definitely want to hold off on using the camera inside social media apps 
  - [https://www.androidauthority.com/google-tensor-g2-specs-pixel-7-3209059/](https://www.androidauthority.com/google-tensor-g2-specs-pixel-7-3209059/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-19 06:40:10+00:00
- - tags: None
 
 Don't expect a new CPU setup here.
 
@@ -108,6 +95,5 @@ Don't expect a new CPU setup here.
  - [https://www.androidauthority.com/rog-phone-6d-and-6d-ultimate-3209473/](https://www.androidauthority.com/rog-phone-6d-and-6d-ultimate-3209473/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-19 05:30:16+00:00
- - tags: None
 
 The ROG Phone 6D and 6D Ultimate offer many of the same features as their siblings, but have made a couple of changes.

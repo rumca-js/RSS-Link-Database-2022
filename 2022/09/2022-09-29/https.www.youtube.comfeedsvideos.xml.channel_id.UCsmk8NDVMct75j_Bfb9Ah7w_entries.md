@@ -1,10 +1,9 @@
-# Source Virtual Reality Oasis, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w
+# Source Virtual Reality Oasis, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w, Source language: en-US
 
 ## Bonelab Review - Most Hyped VR Game Of All Time?
  - [https://www.youtube.com/watch?v=deuMoH_NBTY](https://www.youtube.com/watch?v=deuMoH_NBTY)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w
  - date published: 2022-09-29 17:00:31+00:00
- - tags: None
 
 I check out Bonelab! Probably the most hyped and anticpated VR game of 2022! It's available right now on Quest 2, Rift Store and Steam! 
 

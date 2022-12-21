@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Windows 11 22H2 gets a slew of new group policy changes
  - [https://www.computerworld.com/article/3674835/windows-11-22h2-gets-a-slew-of-new-group-policy-changes.html#tk.rss_all](https://www.computerworld.com/article/3674835/windows-11-22h2-gets-a-slew-of-new-group-policy-changes.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-26 17:34:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3674792/jamf-buys-zecops-to-bring-world-class-security-to-apple-enterprise.html#tk.rss_all](https://www.computerworld.com/article/3674792/jamf-buys-zecops-to-bring-world-class-security-to-apple-enterprise.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-26 15:23:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -25,7 +23,6 @@
  - [https://www.computerworld.com/article/3674829/four-day-workweek-pilot-shows-wide-support-for-a-32-hour-week.html#tk.rss_all](https://www.computerworld.com/article/3674829/four-day-workweek-pilot-shows-wide-support-for-a-32-hour-week.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-26 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

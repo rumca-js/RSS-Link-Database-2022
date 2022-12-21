@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## Putin Raises Stakes in the War, With Direct Challenge to the West
  - [https://www.nytimes.com/2022/09/21/world/europe/putin-ukraine-russia-nuclear.html](https://www.nytimes.com/2022/09/21/world/europe/putin-ukraine-russia-nuclear.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-21 23:46:43+00:00
- - tags: None
 
 The Russian leader announced a call-up of troops and hinted at using nuclear weapons, accusing the West of trying to “destroy our country” and vowing that Russia would defend itself.
 
@@ -12,7 +11,6 @@ The Russian leader announced a call-up of troops and hinted at using nuclear wea
  - [https://www.nytimes.com/2022/09/21/world/europe/biden-russia-united-nations.html](https://www.nytimes.com/2022/09/21/world/europe/biden-russia-united-nations.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-21 23:26:01+00:00
- - tags: None
 
 President Biden portrayed Russia as the chief threat to global peace and renewed warnings that “a nuclear war cannot be won.”
 
@@ -20,7 +18,6 @@ President Biden portrayed Russia as the chief threat to global peace and renewed
  - [https://www.nytimes.com/2022/09/21/world/zelensky-russia-war.html](https://www.nytimes.com/2022/09/21/world/zelensky-russia-war.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-21 23:22:53+00:00
- - tags: None
 
 “A crime has been committed against Ukraine, and we demand just punishment,” President Volodymyr Zelensky of Ukraine said in a recorded speech to the U.N. General Assembly.
 
@@ -28,7 +25,6 @@ President Biden portrayed Russia as the chief threat to global peace and renewed
  - [https://www.nytimes.com/2022/09/21/world/europe/russia-ukraine-mariupol-azov-prisoners.html](https://www.nytimes.com/2022/09/21/world/europe/russia-ukraine-mariupol-azov-prisoners.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-21 22:38:33+00:00
- - tags: None
 
 The exchange, the war’s largest, included Viktor Medvechuk, a Ukrainian oligarch and close friend of the Russian president.
 
@@ -36,7 +32,6 @@ The exchange, the war’s largest, included Viktor Medvechuk, a Ukrainian oligar
  - [https://www.nytimes.com/2022/09/21/us/politics/washington-queen-memorial.html](https://www.nytimes.com/2022/09/21/us/politics/washington-queen-memorial.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-21 21:41:37+00:00
- - tags: None
 
 Politicians and diplomats, including Vice President Kamala Harris, paid their respects to Queen Elizabeth II at a memorial service in Washington, D.C.
 
@@ -44,7 +39,6 @@ Politicians and diplomats, including Vice President Kamala Harris, paid their re
  - [https://www.nytimes.com/2022/09/21/briefing/russia-mobilization-un-biden-asia.html](https://www.nytimes.com/2022/09/21/briefing/russia-mobilization-un-biden-asia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-21 20:50:15+00:00
- - tags: None
 
 Plus protests in Iran intensify and New York State sues Donald Trump for fraud.
 
@@ -52,7 +46,6 @@ Plus protests in Iran intensify and New York State sues Donald Trump for fraud.
  - [https://www.nytimes.com/2022/09/21/world/unga-biden-iran-and-china.html](https://www.nytimes.com/2022/09/21/world/unga-biden-iran-and-china.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-21 20:44:55+00:00
- - tags: None
 
 President Biden said that Washington “will be unabashed in promoting” a vision of a free world.
 
@@ -60,7 +53,6 @@ President Biden said that Washington “will be unabashed in promoting” a visi
  - [https://www.nytimes.com/2022/09/21/climate/hydrofluorocarbons-hfcs-kigali-amendment.html](https://www.nytimes.com/2022/09/21/climate/hydrofluorocarbons-hfcs-kigali-amendment.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-21 20:38:29+00:00
- - tags: None
 
 In a bipartisan vote, lawmakers voted to join an international agreement to phase out the hydrofluorocarbons commonly found in refrigerators and air-conditioners.
 
@@ -68,7 +60,6 @@ In a bipartisan vote, lawmakers voted to join an international agreement to phas
  - [https://www.nytimes.com/2022/09/21/world/europe/eu-countries-ask-the-un-to-appoint-a-monitor-to-assess-human-rights-violations-in-russia.html](https://www.nytimes.com/2022/09/21/world/europe/eu-countries-ask-the-un-to-appoint-a-monitor-to-assess-human-rights-violations-in-russia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-21 19:32:52+00:00
- - tags: None
 
 
 
@@ -76,7 +67,6 @@ In a bipartisan vote, lawmakers voted to join an international agreement to phas
  - [https://www.nytimes.com/2022/09/21/world/europe/russia-flights.html](https://www.nytimes.com/2022/09/21/world/europe/russia-flights.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-21 18:32:32+00:00
- - tags: None
 
 Some Russians rushed to buy airfare after President Vladimir V. Putin ordered up reservists to bolster the country’s military in Ukraine. Tickets to some visa-free destinations are sold out for several days.
 
@@ -84,7 +74,6 @@ Some Russians rushed to buy airfare after President Vladimir V. Putin ordered up
  - [https://www.nytimes.com/2022/09/21/world/europe/ukraine-russia-prison-exchange-americans.html](https://www.nytimes.com/2022/09/21/world/europe/ukraine-russia-prison-exchange-americans.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-21 18:24:22+00:00
- - tags: None
 
 Alex Drueke, a former U.S. Army staff sergeant who served two tours in Iraq, and Andy Tai Ngoc Huynh, a former U.S. Marine, were released.
 
@@ -92,7 +81,6 @@ Alex Drueke, a former U.S. Army staff sergeant who served two tours in Iraq, and
  - [https://www.nytimes.com/2022/09/21/world/europe/abortion-ireland-poland.html](https://www.nytimes.com/2022/09/21/world/europe/abortion-ireland-poland.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-21 17:43:11+00:00
- - tags: None
 
 Ireland and Poland went in entirely opposite directions on abortion. Why?
 
@@ -100,7 +88,6 @@ Ireland and Poland went in entirely opposite directions on abortion. Why?
  - [https://www.nytimes.com/2022/09/21/world/iran-ebrahim-raisi-speech.html](https://www.nytimes.com/2022/09/21/world/iran-ebrahim-raisi-speech.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-21 17:38:16+00:00
- - tags: None
 
 “We are the defenders of a fight against injustice,” President Ebrahim Raisi told the U.N. General Assembly as his government faces widespread protests over the rights of women.
 
@@ -108,7 +95,6 @@ Ireland and Poland went in entirely opposite directions on abortion. Why?
  - [https://www.nytimes.com/2022/09/21/world/europe/germanys-chancellor-calls-putin-desperate.html](https://www.nytimes.com/2022/09/21/world/europe/germanys-chancellor-calls-putin-desperate.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-21 16:59:16+00:00
- - tags: None
 
 
 
@@ -116,7 +102,6 @@ Ireland and Poland went in entirely opposite directions on abortion. Why?
  - [https://www.nytimes.com/2022/09/21/books/john-train-dead.html](https://www.nytimes.com/2022/09/21/books/john-train-dead.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-21 15:12:36+00:00
- - tags: None
 
 His career, ranging from literature to finance to war, and from France to Afghanistan, seemed to cover every interest and issue of his exalted social class.
 
@@ -124,7 +109,6 @@ His career, ranging from literature to finance to war, and from France to Afghan
  - [https://www.nytimes.com/2022/09/21/world/europe/iran-protests-mahsa-amini.html](https://www.nytimes.com/2022/09/21/world/europe/iran-protests-mahsa-amini.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-21 15:10:18+00:00
- - tags: None
 
 Unrest has spread to dozens of cities, with at least seven people killed, according to witnesses, rights groups and video posted on social media.
 
@@ -132,7 +116,6 @@ Unrest has spread to dozens of cities, with at least seven people killed, accord
  - [https://www.nytimes.com/2022/09/21/books/review/the-story-of-russia-orlando-figes.html](https://www.nytimes.com/2022/09/21/books/review/the-story-of-russia-orlando-figes.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-21 14:50:42+00:00
- - tags: None
 
 In a new book, the historian Orlando Figes argues that the war on Ukraine is only the latest instance of a nation twisting the past to justify its future.
 
@@ -140,7 +123,6 @@ In a new book, the historian Orlando Figes argues that the war on Ukraine is onl
  - [https://www.nytimes.com/2022/09/21/world/europe/giorgia-meloni-lord-of-the-rings.html](https://www.nytimes.com/2022/09/21/world/europe/giorgia-meloni-lord-of-the-rings.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-21 14:34:48+00:00
- - tags: None
 
 Giorgia Meloni, the nationalist politician who is the front-runner to become prime minister, sees “The Lord of the Rings” as not just a series of novels, but also a sacred text.
 
@@ -148,7 +130,6 @@ Giorgia Meloni, the nationalist politician who is the front-runner to become pri
  - [https://www.nytimes.com/2022/09/21/theater/burnt-city-theater-war.html](https://www.nytimes.com/2022/09/21/theater/burnt-city-theater-war.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-21 14:00:07+00:00
- - tags: None
 
 In shows like “The Burnt City,” the chaos of war meets the curated artifice of performance, our critic writes. But “Oresteia” took a different view, and the audience was better for it.
 
@@ -156,7 +137,6 @@ In shows like “The Burnt City,” the chaos of war meets the curated artifice 
  - [https://www.nytimes.com/live/2022/09/21/world/united-nations-general-assembly-biden](https://www.nytimes.com/live/2022/09/21/world/united-nations-general-assembly-biden)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-21 12:45:05+00:00
- - tags: None
 
 World leaders, including the presidents of Ukraine and Iran, are due to discuss the war in Ukraine, food and energy crises, and climate change.
 
@@ -164,7 +144,6 @@ World leaders, including the presidents of Ukraine and Iran, are due to discuss 
  - [https://www.nytimes.com/2022/09/21/world/europe/putin-russia-ukraine-war.html](https://www.nytimes.com/2022/09/21/world/europe/putin-russia-ukraine-war.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-21 12:36:43+00:00
- - tags: None
 
 In a major speech, he recast the war in Ukraine and made clear that it could spread.
 
@@ -172,7 +151,6 @@ In a major speech, he recast the war in Ukraine and made clear that it could spr
  - [https://www.nytimes.com/2022/09/21/world/middleeast/iran-united-nations-raisi-protests.html](https://www.nytimes.com/2022/09/21/world/middleeast/iran-united-nations-raisi-protests.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-21 12:20:15+00:00
- - tags: None
 
 The Iranian president, who came to power last year, will address the assembly amid large demonstrations at home and international pressure to revive the Iran nuclear deal.
 
@@ -180,7 +158,6 @@ The Iranian president, who came to power last year, will address the assembly am
  - [https://www.nytimes.com/2022/09/21/world/europe/germany-afd-trip-ukraine-canceled.html](https://www.nytimes.com/2022/09/21/world/europe/germany-afd-trip-ukraine-canceled.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-21 12:06:30+00:00
- - tags: None
 
 The planned visit by state politicians of the Alternative for Germany party was controversial, with critics saying it would chip away at national unity over Ukraine.
 
@@ -188,7 +165,6 @@ The planned visit by state politicians of the Alternative for Germany party was 
  - [https://www.nytimes.com/2022/09/21/world/europe/ukrainian-officials-cast-putins-escalation-as-an-act-of-desperation.html](https://www.nytimes.com/2022/09/21/world/europe/ukrainian-officials-cast-putins-escalation-as-an-act-of-desperation.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-21 11:41:44+00:00
- - tags: None
 
 
 
@@ -196,7 +172,6 @@ The planned visit by state politicians of the Alternative for Germany party was 
  - [https://www.nytimes.com/2022/09/21/world/europe/china-offers-a-muted-response-to-putins-announcement-as-it-tries-to-maintain-ties-to-russia.html](https://www.nytimes.com/2022/09/21/world/europe/china-offers-a-muted-response-to-putins-announcement-as-it-tries-to-maintain-ties-to-russia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-21 11:29:51+00:00
- - tags: None
 
 
 
@@ -204,7 +179,6 @@ The planned visit by state politicians of the Alternative for Germany party was 
  - [https://www.nytimes.com/2022/09/21/world/europe/france-left-lawmaker-slaps-wife.html](https://www.nytimes.com/2022/09/21/world/europe/france-left-lawmaker-slaps-wife.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-21 10:35:41+00:00
- - tags: None
 
 Jean-Luc Mélenchon, the leader of the leftist France Unbowed party, expressed “trust” and “affection” for Adrien Quatennens, setting off a firestorm.
 
@@ -212,7 +186,6 @@ Jean-Luc Mélenchon, the leader of the leftist France Unbowed party, expressed �
  - [https://www.nytimes.com/2022/09/21/briefing/poll-hispanic-voters-us-elections.html](https://www.nytimes.com/2022/09/21/briefing/poll-hispanic-voters-us-elections.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-21 10:28:40+00:00
- - tags: None
 
 Democrats lost ground with Hispanic voters in 2020. It doesn’t seem to have been a blip.
 
@@ -220,7 +193,6 @@ Democrats lost ground with Hispanic voters in 2020. It doesn’t seem to have be
  - [https://www.nytimes.com/live/2022/09/21/world/russia-ukraine-war-putin](https://www.nytimes.com/live/2022/09/21/world/russia-ukraine-war-putin)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-21 09:37:28+00:00
- - tags: None
 
 In a rare address to the nation, the Russian president railed against the West for providing Ukraine with weapons and made a veiled threat of using nuclear weapons. Russia’s defense minister put the number of new call-ups at 300,000.
 
@@ -228,7 +200,6 @@ In a rare address to the nation, the Russian president railed against the West f
  - [https://www.nytimes.com/2022/09/21/world/australia/stranded-whales-tasmania.html](https://www.nytimes.com/2022/09/21/world/australia/stranded-whales-tasmania.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-21 08:47:16+00:00
- - tags: None
 
 “At least 95 percent will die, because the ocean’s just so fierce,” said a boat skipper on the scene, where 470 whales were also beached in 2020.
 
@@ -236,7 +207,6 @@ In a rare address to the nation, the Russian president railed against the West f
  - [https://www.nytimes.com/2022/09/21/world/europe/germany-uniper-nationalized.html](https://www.nytimes.com/2022/09/21/world/europe/germany-uniper-nationalized.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-21 07:45:49+00:00
- - tags: None
 
 The utility company, once Germany’s largest importer of Russian gas, has been squeezed since Moscow cut the flow of the fuel, leading to a partial bailout in July that is now a full takeover.
 
@@ -244,7 +214,6 @@ The utility company, once Germany’s largest importer of Russian gas, has been 
  - [https://www.nytimes.com/2022/09/21/world/europe/global-leaders-condemn-planned-referendums-in-russian-occupied-parts-of-ukraine.html](https://www.nytimes.com/2022/09/21/world/europe/global-leaders-condemn-planned-referendums-in-russian-occupied-parts-of-ukraine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-21 07:32:49+00:00
- - tags: None
 
 
 
@@ -252,7 +221,6 @@ The utility company, once Germany’s largest importer of Russian gas, has been 
  - [https://www.nytimes.com/2022/09/21/world/asia/philippines-victims-marcos.html](https://www.nytimes.com/2022/09/21/world/asia/philippines-victims-marcos.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-21 06:39:59+00:00
- - tags: None
 
 Ferdinand E. Marcos placed the country under military rule 50 years ago this week. With his son now in power, those who lived through those dark days fear their stories will be lost.
 
@@ -260,7 +228,6 @@ Ferdinand E. Marcos placed the country under military rule 50 years ago this wee
  - [https://www.nytimes.com/2022/09/21/world/europe/russias-gas-cutoff-is-ravaging-manufacturers-in-europe.html](https://www.nytimes.com/2022/09/21/world/europe/russias-gas-cutoff-is-ravaging-manufacturers-in-europe.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-21 05:42:21+00:00
- - tags: None
 
 
 
@@ -268,6 +235,5 @@ Ferdinand E. Marcos placed the country under military rule 50 years ago this wee
  - [https://www.nytimes.com/2022/09/21/briefing/ukraine-russia-united-nations.html](https://www.nytimes.com/2022/09/21/briefing/ukraine-russia-united-nations.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-21 05:06:01+00:00
- - tags: None
 
 Here’s what you need to know.

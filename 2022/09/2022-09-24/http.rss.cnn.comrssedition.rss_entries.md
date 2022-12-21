@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## 'This is a state of emergency': Houses in Canada dragged out to sea by Fiona
  - [https://www.cnn.com/videos/weather/2022/09/24/nova-scotia-canada-fiona-hurricane-damage-orig-kj.cnn](https://www.cnn.com/videos/weather/2022/09/24/nova-scotia-canada-fiona-hurricane-damage-orig-kj.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 21:16:48+00:00
- - tags: None
 
 Fiona touched down in Nova Scotia as a post-tropical cyclone with hurricane-strength winds that carried homes off their foundations and into the Atlantic.
 
@@ -12,7 +11,6 @@ Fiona touched down in Nova Scotia as a post-tropical cyclone with hurricane-stre
  - [https://www.cnn.com/2022/09/24/us/iranian-american-protest-us-mahsa-amini/index.html](https://www.cnn.com/2022/09/24/us/iranian-american-protest-us-mahsa-amini/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 21:06:07+00:00
- - tags: None
 
 Iranian Americans are staging demonstrations across the United States this weekend in solidarity with ongoing protests in Iran over the death of a 22-year-old woman who collapsed while in custody of morality police.
 
@@ -20,7 +18,6 @@ Iranian Americans are staging demonstrations across the United States this weeke
  - [https://www.cnn.com/2022/09/24/entertainment/pharoah-sanders-death/index.html](https://www.cnn.com/2022/09/24/entertainment/pharoah-sanders-death/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 20:57:36+00:00
- - tags: None
 
 Jazz saxophonist Pharoah Sanders has died at the age of 81, according to an announcement Saturday by record label Luaka Bop and a statement from his representative.
 
@@ -28,7 +25,6 @@ Jazz saxophonist Pharoah Sanders has died at the age of 81, according to an anno
  - [https://cnn.it/3xLMkPJ](https://cnn.it/3xLMkPJ)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 19:36:29.024953+00:00
- - tags: None
 
 
 
@@ -36,7 +32,6 @@ Jazz saxophonist Pharoah Sanders has died at the age of 81, according to an anno
  - [https://www.cnn.com/2022/01/09/entertainment/gallery/people-we-lost-2022/index.html](https://www.cnn.com/2022/01/09/entertainment/gallery/people-we-lost-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 18:53:48+00:00
- - tags: None
 
 Here are some of the most famous people who have died in 2022.
 
@@ -44,7 +39,6 @@ Here are some of the most famous people who have died in 2022.
  - [https://www.cnn.com/videos/us/2022/09/24/colorado-police-car-hit-by-train-orig-dp-jc.cnn](https://www.cnn.com/videos/us/2022/09/24/colorado-police-car-hit-by-train-orig-dp-jc.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 18:52:17+00:00
- - tags: None
 
 Colorado police released bodycam footage showing the moment a train hit a parked police car with a suspect inside. Authorities say the 20-year-old was left with serious injuries and is expected to survive.
 
@@ -52,7 +46,6 @@ Colorado police released bodycam footage showing the moment a train hit a parked
  - [https://www.cnn.com/2022/09/24/us/john-cena-make-a-wish-record/index.html](https://www.cnn.com/2022/09/24/us/john-cena-make-a-wish-record/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 18:50:02+00:00
- - tags: None
 
 Actor, wrestling legend, and perpetual meme subject John Cena has completed a new accomplishment: breaking the World Record for most wishes granted through the Make-A-Wish Foundation.
 
@@ -60,7 +53,6 @@ Actor, wrestling legend, and perpetual meme subject John Cena has completed a ne
  - [https://www.cnn.com/2022/09/24/uk/queen-elizabeth-king-george-chapel-photograph-intl-gbr/index.html](https://www.cnn.com/2022/09/24/uk/queen-elizabeth-king-george-chapel-photograph-intl-gbr/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 17:09:23+00:00
- - tags: None
 
 Buckingham Palace has released a photograph of Queen Elizabeth II's final resting place within St. George's Chapel following her interment in Windsor on Monday.
 
@@ -68,7 +60,6 @@ Buckingham Palace has released a photograph of Queen Elizabeth II's final restin
  - [https://www.cnn.com/2022/09/24/sport/fide-statement-magnus-carlsen-hans-niemann-spt-intl/index.html](https://www.cnn.com/2022/09/24/sport/fide-statement-magnus-carlsen-hans-niemann-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 16:55:28+00:00
- - tags: None
 
 The International Chess Federation (FIDE) reprimanded former world champion Magnus Carlsen for resigning from an online chess match against fellow grandmaster Hans Niemann after just one move but added that it shared the world No.1's "deep concerns about the damage that cheating brings to chess."
 
@@ -76,7 +67,6 @@ The International Chess Federation (FIDE) reprimanded former world champion Magn
  - [https://www.cnn.com/videos/us/2022/09/24/elton-john-humanities-medal-surprise-joe-biden-vpx.cnn](https://www.cnn.com/videos/us/2022/09/24/elton-john-humanities-medal-surprise-joe-biden-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 16:01:07+00:00
- - tags: None
 
 President Joe Biden surprised Sir Elton John with the National Humanities Medal after a concert at the White House in honor of John's advocacy in the global fight against HIV/AIDS.
 
@@ -84,7 +74,6 @@ President Joe Biden surprised Sir Elton John with the National Humanities Medal 
  - [https://www.cnn.com/2022/09/24/entertainment/louise-fletcher-actress-death/index.html](https://www.cnn.com/2022/09/24/entertainment/louise-fletcher-actress-death/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 15:52:00+00:00
- - tags: None
 
 Louise Fletcher, the actress who won an Academy Award for her role as Nurse Ratched in "One Flew Over the Cuckoo's Nest," died Friday at her home in Montdurausse, France, according to her agent David Shaul. She was 88.
 
@@ -92,7 +81,6 @@ Louise Fletcher, the actress who won an Academy Award for her role as Nurse Ratc
  - [http://edition.cnn.com/webview/americas/live-news/fiona-storm-path-nova-scotia/index.html](http://edition.cnn.com/webview/americas/live-news/fiona-storm-path-nova-scotia/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 15:36:29.202287+00:00
- - tags: None
 
 
 
@@ -100,7 +88,6 @@ Louise Fletcher, the actress who won an Academy Award for her role as Nurse Ratc
  - [https://www.cnn.com/2022/09/24/economy/home-heat-winter/index.html](https://www.cnn.com/2022/09/24/economy/home-heat-winter/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 15:24:33+00:00
- - tags: None
 
 After noticing his electric bills rising earlier this year, Jason Bell opted to go on a budget plan so he could spread the cost over 12 months. He and his husband, Shane, figured that would help them get through the coming winter since their Lake Harmony, Pennsylvania, home is heated by electricity.
 
@@ -108,7 +95,6 @@ After noticing his electric bills rising earlier this year, Jason Bell opted to 
  - [https://www.cnn.com/2022/09/24/world/sea-turtles-poaching-risk-scn-trnd/index.html](https://www.cnn.com/2022/09/24/world/sea-turtles-poaching-risk-scn-trnd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 15:06:43+00:00
- - tags: None
 
 A new study says that the risk poaching poses to endangered sea turtles is on the decline -- although data on the subject is scarce.
 
@@ -116,7 +102,6 @@ A new study says that the risk poaching poses to endangered sea turtles is on th
  - [https://www.cnn.com/2022/09/24/world/nasa-artemis-i-launch-delay-scn/index.html](https://www.cnn.com/2022/09/24/world/nasa-artemis-i-launch-delay-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 15:03:44+00:00
- - tags: None
 
 The Artemis I rocket will not have its third launch attempt on Tuesday as planned due to concerns over Tropical Storm Ian making its way toward Cuba and Florida.
 
@@ -124,7 +109,6 @@ The Artemis I rocket will not have its third launch attempt on Tuesday as planne
  - [https://www.cnn.com/americas/live-news/fiona-storm-path-nova-scotia/index.html](https://www.cnn.com/americas/live-news/fiona-storm-path-nova-scotia/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 14:58:39+00:00
- - tags: None
 
 • Fiona rips through Canada's eastern seaboard
 • Meteorologist: Fiona could be Canada's Super Storm Sandy
@@ -133,7 +117,6 @@ The Artemis I rocket will not have its third launch attempt on Tuesday as planne
  - [https://www.cnn.com/2022/09/24/football/arsenal-tottenham-womens-super-league-spt-intl/index.html](https://www.cnn.com/2022/09/24/football/arsenal-tottenham-womens-super-league-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 14:38:48+00:00
- - tags: None
 
 In front of the largest-ever crowd for a Women's Super League match, Arsenal defeated its archrival Tottenham Hotspur 4-0 on a historic day for women's football in England.
 
@@ -141,7 +124,6 @@ In front of the largest-ever crowd for a Women's Super League match, Arsenal def
  - [https://www.cnn.com/2022/09/24/opinions/january-6-hearings-conclusion-zelizer/index.html](https://www.cnn.com/2022/09/24/opinions/january-6-hearings-conclusion-zelizer/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 13:11:54+00:00
- - tags: None
 
 On September 28,  Democratic Rep. Bennie Thompson of Mississippi has confirmed the January 6 House select committee (which Thompson chairs) will hold its next and possibly final hearing. The details remain unclear other than it won't be held during primetime.
 
@@ -149,7 +131,6 @@ On September 28,  Democratic Rep. Bennie Thompson of Mississippi has confirmed t
  - [https://www.cnn.com/2022/09/24/tennis/tennis-player-doping-spt-intl/index.html](https://www.cnn.com/2022/09/24/tennis/tennis-player-doping-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 12:50:44+00:00
- - tags: None
 
 A 14-year-old Russian tennis player has been banned from the sport for nine months following an anti-doping breach, the International Tennis Integrity Agency (ITIA) has said in a statement on Friday.
 
@@ -157,7 +138,6 @@ A 14-year-old Russian tennis player has been banned from the sport for nine mont
  - [http://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-09-24-22/index.html](http://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-09-24-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 12:36:31.454322+00:00
- - tags: None
 
 
 
@@ -165,7 +145,6 @@ A 14-year-old Russian tennis player has been banned from the sport for nine mont
  - [https://www.cnn.com/europe/live-news/russia-ukraine-war-news-09-24-22/index.html](https://www.cnn.com/europe/live-news/russia-ukraine-war-news-09-24-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 12:07:52+00:00
- - tags: None
 
 • Russians flee Putin's 'partial mobilization'
 • See Russian men being bussed away
@@ -174,7 +153,6 @@ A 14-year-old Russian tennis player has been banned from the sport for nine mont
  - [https://www.cnn.com/2022/09/24/sport/annemiek-van-vleuten-womens-road-race-spt-intl/index.html](https://www.cnn.com/2022/09/24/sport/annemiek-van-vleuten-womens-road-race-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 11:33:51+00:00
- - tags: None
 
 In a race made chaotic by the rain, Dutchwoman Annemiek van Vleuten rode to glory in a thrilling women's road race at the Road World Championships in Australia on Saturday.
 
@@ -182,7 +160,6 @@ In a race made chaotic by the rain, Dutchwoman Annemiek van Vleuten rode to glor
  - [https://www.cnn.com/2022/09/24/us/virginia-zoo-giraffe-birth-scn-trnd/index.html](https://www.cnn.com/2022/09/24/us/virginia-zoo-giraffe-birth-scn-trnd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 10:59:04+00:00
- - tags: None
 
 Visitors at the Virginia Zoo had the experience of a lifetime after a giraffe unexpectedly gave birth in front of them.
 
@@ -190,7 +167,6 @@ Visitors at the Virginia Zoo had the experience of a lifetime after a giraffe un
  - [https://www.cnn.com/2022/09/24/tennis/rafael-nadal-roger-federer-laver-cup-spt-int/index.html](https://www.cnn.com/2022/09/24/tennis/rafael-nadal-roger-federer-laver-cup-spt-int/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 10:23:59+00:00
- - tags: None
 
 When the end came neither Roger Federer or Rafael Nadal could hold back the tears.
 
@@ -198,7 +174,6 @@ When the end came neither Roger Federer or Rafael Nadal could hold back the tear
  - [https://www.cnn.com/2022/09/24/us/spotted-lanternfly-habitat-expanding-climate/index.html](https://www.cnn.com/2022/09/24/us/spotted-lanternfly-habitat-expanding-climate/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 10:04:24+00:00
- - tags: None
 
 Spotted lanternflies are thriving in the Northeast this summer. In New York City, where this year's invasion seems particularly extreme, people squash them on the streets, on railings and even on their restaurant tables. The exterior walls of Big Apple buildings are blanketed with speckled, red bugs.
 
@@ -206,7 +181,6 @@ Spotted lanternflies are thriving in the Northeast this summer. In New York City
  - [https://www.cnn.com/2022/09/24/weather/hurricane-fiona-canada-saturday/index.html](https://www.cnn.com/2022/09/24/weather/hurricane-fiona-canada-saturday/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 10:01:35+00:00
- - tags: None
 
 Hurricane Fiona, now referred to as a post-tropical cyclone, has made landfall in Nova Scotia, racing through Canada's Atlantic seaboard early Saturday in what could be a "landmark" weather event for the country.
 
@@ -214,7 +188,6 @@ Hurricane Fiona, now referred to as a post-tropical cyclone, has made landfall i
  - [https://www.cnn.com/2022/09/24/business/ivory-soap-curious-consumer/index.html](https://www.cnn.com/2022/09/24/business/ivory-soap-curious-consumer/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 09:03:12+00:00
- - tags: None
 
 Walk into a Walmart, Target, any drugstore chain in your neighborhood or a corner bodega for New York City dwellers, and chances are you'll find an Ivory Soap bar, or a pack of 10 bars for under $5, sitting on the shelf.
 
@@ -222,7 +195,6 @@ Walk into a Walmart, Target, any drugstore chain in your neighborhood or a corne
  - [https://www.cnn.com/2022/09/24/us/atlanta-public-safety-training-center-plans-community/index.html](https://www.cnn.com/2022/09/24/us/atlanta-public-safety-training-center-plans-community/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 08:05:28+00:00
- - tags: None
 
 When Ram moved to the Boulder Walk neighborhood just southeast of Atlanta five years ago, it felt like finding a hidden gem: It was a diverse, affordable and family-friendly community just steps away from the local high school, bordering a forest but still a short drive from the big city; perfect for her family of five.
 
@@ -230,7 +202,6 @@ When Ram moved to the Boulder Walk neighborhood just southeast of Atlanta five y
  - [https://www.cnn.com/2022/09/24/world/baby-island-pacific-ocean-scn-trnd/index.html](https://www.cnn.com/2022/09/24/world/baby-island-pacific-ocean-scn-trnd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 07:06:06+00:00
- - tags: None
 
 The Central Tonga Islands welcomed the birth of a new baby -- a baby island, that is.
 
@@ -238,7 +209,6 @@ The Central Tonga Islands welcomed the birth of a new baby -- a baby island, tha
  - [https://www.cnn.com/travel/article/pandemic-travel-news-best-airlines-2022-customer-satisfaction/index.html](https://www.cnn.com/travel/article/pandemic-travel-news-best-airlines-2022-customer-satisfaction/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 07:04:13+00:00
- - tags: None
 
 Happy new season! Depending on your hemisphere, the autumn or spring equinox has just passed (here's the science on that), but if you're not digging the pumpkin spice or cool nights, there's always the option to jet across the globe.
 
@@ -246,7 +216,6 @@ Happy new season! Depending on your hemisphere, the autumn or spring equinox has
  - [https://www.cnn.com/2022/09/24/middleeast/mahsa-amini-death-iran-internet-un-investigation-intl-hnk/index.html](https://www.cnn.com/2022/09/24/middleeast/mahsa-amini-death-iran-internet-un-investigation-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 05:40:44+00:00
- - tags: None
 
 Iranian authorities say they will restrict internet access in the country until calm is restored to the streets, as protests over the death of a young woman in the custody of the morality police rock the Islamic Republic.
 
@@ -254,7 +223,6 @@ Iranian authorities say they will restrict internet access in the country until 
  - [https://www.cnn.com/2022/09/24/europe/italy-meloni-populism-intl-cmd/index.html](https://www.cnn.com/2022/09/24/europe/italy-meloni-populism-intl-cmd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 04:02:38+00:00
- - tags: None
 
 On Sunday night, it is widely expected that Giorgia Meloni will become Italy's first female prime minister.
 
@@ -262,7 +230,6 @@ On Sunday night, it is widely expected that Giorgia Meloni will become Italy's f
  - [https://www.cnn.com/2022/09/23/europe/ukraine-izium-mass-burial-bodies-recovered-torture-intl-hnk/index.html](https://www.cnn.com/2022/09/23/europe/ukraine-izium-mass-burial-bodies-recovered-torture-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 03:12:41+00:00
- - tags: None
 
 Ukrainian officials say they have finished exhuming bodies from a mass burial site in Izium -- and that of the 436 bodies found, 30 showed signs of torture.
 
@@ -270,7 +237,6 @@ Ukrainian officials say they have finished exhuming bodies from a mass burial si
  - [https://www.cnn.com/videos/politics/2022/09/24/desantis-american-revolution-slavery-sot-van-jones-reax-cnt-vpx.cnn](https://www.cnn.com/videos/politics/2022/09/24/desantis-american-revolution-slavery-sot-van-jones-reax-cnt-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 02:40:19+00:00
- - tags: None
 
 CNN's Van Jones reacts to Florida Republican Gov. Ron DeSantis saying no one questioned slavery until the American Revolution during an event discussing his "Stop Woke Act" which prohibits race-based conversation in schools and businesses.
 
@@ -278,7 +244,6 @@ CNN's Van Jones reacts to Florida Republican Gov. Ron DeSantis saying no one que
  - [https://www.cnn.com/2022/09/22/tennis/gallery/roger-federer/index.html](https://www.cnn.com/2022/09/22/tennis/gallery/roger-federer/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 01:56:32+00:00
- - tags: None
 
 Roger Federer, one of the greatest tennis players in history, is calling it a career.
 
@@ -286,7 +251,6 @@ Roger Federer, one of the greatest tennis players in history, is calling it a ca
  - [https://www.cnn.com/videos/world/2022/09/24/russia-ukraine-conscription-chance-ebof-pkg-vpx.cnn](https://www.cnn.com/videos/world/2022/09/24/russia-ukraine-conscription-chance-ebof-pkg-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 01:03:28+00:00
- - tags: None
 
 Russian men are being conscripted as a part of Putin's "partial mobilization" to fight in Ukraine. CNN's Matthew Chance reports.
 
@@ -294,6 +258,5 @@ Russian men are being conscripted as a part of Putin's "partial mobilization" to
  - [https://www.cnn.com/style/article/moshe-safdie-architect-singapore/index.html](https://www.cnn.com/style/article/moshe-safdie-architect-singapore/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-24 00:37:20+00:00
- - tags: None
 
 There are few buildings that have more drastically shaped a city's image than Marina Bay Sands. Just as the Eiffel Tower and Burj Khalifa define the skylines of Paris and Dubai, the soaring three-tower resort, joined across the top by a horizontal "skypark" and the world's most famous infinity pool, is an icon both in and of Singapore.

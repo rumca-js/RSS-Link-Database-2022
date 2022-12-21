@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## China is planning to probe Uranus in a unique new way
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59020](https://www.codeproject.com/script/News/View.aspx?nwid=59020)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-28 04:00:00+00:00
- - tags: None
 
 "New way? What's this about a new way?"
 
@@ -12,7 +11,6 @@
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59025](https://www.codeproject.com/script/News/View.aspx?nwid=59025)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-28 04:00:00+00:00
- - tags: None
 
 The 30% performance gap is left as an exercise for the developer
 
@@ -20,7 +18,6 @@ The 30% performance gap is left as an exercise for the developer
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59019](https://www.codeproject.com/script/News/View.aspx?nwid=59019)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-28 04:00:00+00:00
- - tags: None
 
 That's some tasty dogfood!
 
@@ -28,7 +25,6 @@ That's some tasty dogfood!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59018](https://www.codeproject.com/script/News/View.aspx?nwid=59018)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-28 04:00:00+00:00
- - tags: None
 
 So it's not just to find out which of your coworkers is looking for a new job?
 
@@ -36,7 +32,6 @@ So it's not just to find out which of your coworkers is looking for a new job?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59023](https://www.codeproject.com/script/News/View.aspx?nwid=59023)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-28 04:00:00+00:00
- - tags: None
 
 Crazy Carpets(tm) are still better (and less expensive)
 
@@ -44,7 +39,6 @@ Crazy Carpets(tm) are still better (and less expensive)
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59021](https://www.codeproject.com/script/News/View.aspx?nwid=59021)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-28 04:00:00+00:00
- - tags: None
 
 They're telling each other to "turn it off and back on again"?
 
@@ -52,7 +46,6 @@ They're telling each other to "turn it off and back on again"?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59017](https://www.codeproject.com/script/News/View.aspx?nwid=59017)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-28 04:00:00+00:00
- - tags: None
 
 At least you'll know they're clean?
 
@@ -60,7 +53,6 @@ At least you'll know they're clean?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59024](https://www.codeproject.com/script/News/View.aspx?nwid=59024)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-28 04:00:00+00:00
- - tags: None
 
 I see a new career move in the future
 
@@ -68,6 +60,5 @@ I see a new career move in the future
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59022](https://www.codeproject.com/script/News/View.aspx?nwid=59022)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-28 04:00:00+00:00
- - tags: None
 
 So always download while in the city

@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## 16 Wall Street firms fined $1.8B for using private text apps, lying about it
  - [https://www.computerworld.com/article/3675289/16-wall-street-firms-fined-18b-for-using-private-text-apps-lying-about-it.html#tk.rss_all](https://www.computerworld.com/article/3675289/16-wall-street-firms-fined-18b-for-using-private-text-apps-lying-about-it.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-28 20:42:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3674870/how-ukraines-macpaw-got-its-business-ready-for-war.html#tk.rss_all](https://www.computerworld.com/article/3674870/how-ukraines-macpaw-got-its-business-ready-for-war.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-28 15:29:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -24,7 +22,6 @@
  - [https://www.computerworld.com/article/3674858/mozilla-apple-google-and-microsoft-lock-you-into-their-browsers.html#tk.rss_all](https://www.computerworld.com/article/3674858/mozilla-apple-google-and-microsoft-lock-you-into-their-browsers.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-28 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

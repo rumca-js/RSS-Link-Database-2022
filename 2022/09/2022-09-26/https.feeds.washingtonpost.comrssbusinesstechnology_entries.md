@@ -1,10 +1,9 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology
+# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
 
 ## Netflix to open video game studio in Helsinki, Finland
  - [https://www.washingtonpost.com/video-games/2022/09/26/netflix-mobile-games-new-studio/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/09/26/netflix-mobile-games-new-studio/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-26 18:42:48+00:00
- - tags: None
 
 Netflix wants to establishing its presence in the video game industry by making games in-house.
 
@@ -12,7 +11,6 @@ Netflix wants to establishing its presence in the video game industry by making 
  - [https://www.washingtonpost.com/video-games/2022/09/26/e3-june-2023-fans/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/09/26/e3-june-2023-fans/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-26 18:04:55+00:00
- - tags: None
 
 E3 is returning in 2023 as a live in-person event with a bold new strategy to attract publishers, developers and fans. Will it be enough?
 
@@ -20,7 +18,6 @@ E3 is returning in 2023 as a live in-person event with a bold new strategy to at
  - [https://www.washingtonpost.com/technology/2022/09/26/nasa-artemis-rocket-delay-hurricane-ian/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/26/nasa-artemis-rocket-delay-hurricane-ian/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-26 10:48:16+00:00
- - tags: None
 
 The move will further delay the Artemis I mission by several weeks.
 
@@ -28,6 +25,5 @@ The move will further delay the Artemis I mission by several weeks.
  - [https://www.washingtonpost.com/technology/2022/09/26/public-wifi-privacy/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/26/public-wifi-privacy/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-26 07:00:00+00:00
- - tags: None
 
 For anyone who travels or works remotely, public WiFi is part of life. Is that bad for privacy and security?

@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## Apple Watch female health tracking: Everything you need to know
  - [https://www.androidauthority.com/apple-watch-female-health-tracking-3213080/](https://www.androidauthority.com/apple-watch-female-health-tracking-3213080/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-29 22:00:53+00:00
- - tags: None
 
 Apple wants to streamline your cycle.
 
@@ -12,7 +11,6 @@ Apple wants to streamline your cycle.
  - [https://www.androidauthority.com/google-pixel-7-event-3214761/](https://www.androidauthority.com/google-pixel-7-event-3214761/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-29 21:24:07+00:00
- - tags: None
 
 Google will be holding its Pixel event on October 6.
 
@@ -20,7 +18,6 @@ Google will be holding its Pixel event on October 6.
  - [https://www.androidauthority.com/oneplus-11r-leak-3214906/](https://www.androidauthority.com/oneplus-11r-leak-3214906/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-29 18:30:55+00:00
- - tags: None
 
 A leak suggests the OnePlus 11R could have a 5,000mAh battery and Full HD+ display.
 
@@ -28,7 +25,6 @@ A leak suggests the OnePlus 11R could have a 5,000mAh battery and Full HD+ displ
  - [https://www.androidauthority.com/ebay-gift-card-3149490/](https://www.androidauthority.com/ebay-gift-card-3149490/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-29 18:30:30+00:00
- - tags: None
 
 Tap not accepted.
 
@@ -36,7 +32,6 @@ Tap not accepted.
  - [https://www.androidauthority.com/change-zoom-profile-picture-3164953/](https://www.androidauthority.com/change-zoom-profile-picture-3164953/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-29 18:20:15+00:00
- - tags: None
 
 Update your profile with a flattering photo when others Zoom in on your image.
 
@@ -44,7 +39,6 @@ Update your profile with a flattering photo when others Zoom in on your image.
  - [https://www.androidauthority.com/google-stadia-shutdown-3214903/](https://www.androidauthority.com/google-stadia-shutdown-3214903/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-29 16:33:33+00:00
- - tags: None
 
 You'll have until January 2023 to enjoy the game streaming service. After that, everyone gets refunds for everything.
 
@@ -52,7 +46,6 @@ You'll have until January 2023 to enjoy the game streaming service. After that, 
  - [https://www.androidauthority.com/samsung-galaxy-s20-update-2-3214825/](https://www.androidauthority.com/samsung-galaxy-s20-update-2-3214825/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-29 16:27:37+00:00
- - tags: None
 
 Samsung has opened its One UI 5 beta program to the Galaxy S20.
 
@@ -60,7 +53,6 @@ Samsung has opened its One UI 5 beta program to the Galaxy S20.
  - [https://www.androidauthority.com/apple-iphone-14-specs-price-availability-3213455/](https://www.androidauthority.com/apple-iphone-14-specs-price-availability-3213455/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-29 16:17:04+00:00
- - tags: None
 
 Is the iPhone 14 series worth the money or should you opt for a different phone instead?
 
@@ -68,7 +60,6 @@ Is the iPhone 14 series worth the money or should you opt for a different phone 
  - [https://www.androidauthority.com/google-pixel-7-face-unlock-3214841/](https://www.androidauthority.com/google-pixel-7-face-unlock-3214841/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-29 16:03:03+00:00
- - tags: None
 
 These features should make life easier for future Pixel 7 owners.
 
@@ -76,7 +67,6 @@ These features should make life easier for future Pixel 7 owners.
  - [https://www.androidauthority.com/apple-iphone-14-pro-always-on-display-3212271/](https://www.androidauthority.com/apple-iphone-14-pro-always-on-display-3212271/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-29 15:00:15+00:00
- - tags: None
 
 Hey Apple, I don't need notifications staring at me all day and night.
 
@@ -84,7 +74,6 @@ Hey Apple, I don't need notifications staring at me all day and night.
  - [https://www.androidauthority.com/transfer-photos-iphone-windows-3206775/](https://www.androidauthority.com/transfer-photos-iphone-windows-3206775/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-29 14:00:59+00:00
- - tags: None
 
 Not as seamless as on a Mac, but still easy enough.
 
@@ -92,7 +81,6 @@ Not as seamless as on a Mac, but still easy enough.
  - [https://www.androidauthority.com/google-nexus-6p-pixel-3213347/](https://www.androidauthority.com/google-nexus-6p-pixel-3213347/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-29 13:00:41+00:00
- - tags: None
 
 A flawed but impactful legacy.
 
@@ -100,7 +88,6 @@ A flawed but impactful legacy.
  - [https://www.androidauthority.com/fitbit-sense-2-review-3213107/](https://www.androidauthority.com/fitbit-sense-2-review-3213107/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-29 13:00:20+00:00
- - tags: None
 
 Look how they massacred my boy.
 
@@ -108,7 +95,6 @@ Look how they massacred my boy.
  - [https://www.androidauthority.com/best-vpn-deals-1122185/](https://www.androidauthority.com/best-vpn-deals-1122185/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-29 12:30:53+00:00
- - tags: None
 
 You can save as much as 83% from many of the best VPN providers on the market.
 
@@ -116,7 +102,6 @@ You can save as much as 83% from many of the best VPN providers on the market.
  - [https://www.androidauthority.com/set-up-focus-mode-iphone-3214235/](https://www.androidauthority.com/set-up-focus-mode-iphone-3214235/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-29 12:28:05+00:00
- - tags: None
 
 Tame your phone's ringing and pinging.
 
@@ -124,7 +109,6 @@ Tame your phone's ringing and pinging.
  - [https://www.androidauthority.com/phones-with-wireless-charging-848173/](https://www.androidauthority.com/phones-with-wireless-charging-848173/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-29 09:04:34+00:00
- - tags: None
 
 Ditch those pesky charging cables and grab a wireless charger.
 
@@ -132,7 +116,6 @@ Ditch those pesky charging cables and grab a wireless charger.
  - [https://www.androidauthority.com/daily-authority-september-29-2022-3213940/](https://www.androidauthority.com/daily-authority-september-29-2022-3213940/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-29 07:57:17+00:00
- - tags: None
 
 S23 Ultra renders and a lovely Coolio video are highlights today.
 
@@ -140,7 +123,6 @@ S23 Ultra renders and a lovely Coolio video are highlights today.
  - [https://www.androidauthority.com/samsung-galaxy-s22-update-3118255/](https://www.androidauthority.com/samsung-galaxy-s22-update-3118255/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-29 06:56:26+00:00
- - tags: None
 
 Update: A bumped-up security version and not much else.
 
@@ -148,6 +130,5 @@ Update: A bumped-up security version and not much else.
  - [https://www.androidauthority.com/google-pixel-7-colors-poll-3214577/](https://www.androidauthority.com/google-pixel-7-colors-poll-3214577/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-29 06:37:45+00:00
- - tags: None
 
 Are the Pixel 7 series colorways a step back from the Pixel 6 series?

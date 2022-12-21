@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Now you can stream Elden Ring’s soundtrack on Spotify, Apple Music, and YouTube
  - [https://www.theverge.com/2022/9/11/23347714/elden-ring-stream-music-soundtrack-spotify-apple-music-youtube-fromsoftware](https://www.theverge.com/2022/9/11/23347714/elden-ring-stream-music-soundtrack-spotify-apple-music-youtube-fromsoftware)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-11 20:55:57+00:00
- - tags: None
 
 <figure>
       <img alt="elden ring art" src="https://cdn.vox-cdn.com/thumbor/8tcUSKrZc2cpbFWt_kmavuPTodw=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71353568/ELDENRING_21.0.jpg" />
@@ -17,7 +16,6 @@
  - [https://www.theverge.com/2022/9/11/23347586/directv-nfl-sunday-ticket-website-app-crash-on-opening-weekend-football](https://www.theverge.com/2022/9/11/23347586/directv-nfl-sunday-ticket-website-app-crash-on-opening-weekend-football)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-11 18:38:25+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/41r7F7o-ggRC-sxrjMM1pl35lfQ=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71352967/acastro_STK099_NFL_01.0.jpg" />
@@ -30,7 +28,6 @@
  - [https://www.theverge.com/2022/9/11/23347344/ikea-swedish-house-mafia-record-player-going-on-sale-next-month-obegransad](https://www.theverge.com/2022/9/11/23347344/ikea-swedish-house-mafia-record-player-going-on-sale-next-month-obegransad)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-11 16:38:30+00:00
- - tags: None
 
 <figure>
       <img alt="Ikea’s Obegränsad record player on a black background." src="https://cdn.vox-cdn.com/thumbor/Wx01BgBbCWYyR-H_-TwqQcTqzdI=/0x509:1280x1362/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71352568/swedish_house_mafia_record_player.0.jpeg" />
@@ -43,7 +40,6 @@
  - [https://www.theverge.com/2022/9/11/23347199/matternet-delivery-drone-model-m2-design-approved-faa](https://www.theverge.com/2022/9/11/23347199/matternet-delivery-drone-model-m2-design-approved-faa)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-11 14:54:50+00:00
- - tags: None
 
 <figure>
       <img alt="Matternet Launches First Fully Automated Drone Landing Pad" src="https://cdn.vox-cdn.com/thumbor/lWr_2eyTrKhqL_2sAKarK7hoa88=/0x0:5632x3755/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71352184/1347541176.0.jpg" />

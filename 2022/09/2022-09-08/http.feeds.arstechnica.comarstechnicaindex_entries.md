@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## Feds claw back $30 million of cryptocurrency stolen by North Korean hackers
  - [https://arstechnica.com/?p=1879887](https://arstechnica.com/?p=1879887)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-08 23:32:04+00:00
- - tags: None
 
 Blockchain analysis keeps getting better. Expect more seizures to come.
 
@@ -12,7 +11,6 @@ Blockchain analysis keeps getting better. Expect more seizures to come.
  - [https://arstechnica.com/?p=1879703](https://arstechnica.com/?p=1879703)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-08 22:24:46+00:00
- - tags: None
 
 "Lock the doors. Stay in your rooms. Everyone is in danger."
 
@@ -20,7 +18,6 @@ Blockchain analysis keeps getting better. Expect more seizures to come.
  - [https://arstechnica.com/?p=1879862](https://arstechnica.com/?p=1879862)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-08 21:49:27+00:00
- - tags: None
 
 The messaging is seen as a "low point" in public health messaging.
 
@@ -28,7 +25,6 @@ The messaging is seen as a "low point" in public health messaging.
  - [https://arstechnica.com/?p=1879847](https://arstechnica.com/?p=1879847)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-08 21:11:21+00:00
- - tags: None
 
 $100K reward for Michael Pratt, who was charged with sex trafficking in 2019.
 
@@ -36,7 +32,6 @@ $100K reward for Michael Pratt, who was charged with sex trafficking in 2019.
  - [https://arstechnica.com/?p=1879770](https://arstechnica.com/?p=1879770)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-08 19:18:38+00:00
- - tags: None
 
 Cloudflare wants government to be responsible for blocking sites like Kiwi Farms.
 
@@ -44,7 +39,6 @@ Cloudflare wants government to be responsible for blocking sites like Kiwi Farms
  - [https://arstechnica.com/?p=1879699](https://arstechnica.com/?p=1879699)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-08 18:25:19+00:00
- - tags: None
 
 Drought-friendly plant can produce rubber good enough for Indy race tires.
 
@@ -52,7 +46,6 @@ Drought-friendly plant can produce rubber good enough for Indy race tires.
  - [https://arstechnica.com/?p=1879722](https://arstechnica.com/?p=1879722)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-08 17:59:55+00:00
- - tags: None
 
 The subscription service formerly only let you pay for two repairs per year.
 
@@ -60,7 +53,6 @@ The subscription service formerly only let you pay for two repairs per year.
  - [https://arstechnica.com/?p=1879685](https://arstechnica.com/?p=1879685)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-08 17:21:54+00:00
- - tags: None
 
 It sounds like Google's 4-year-old 1080p streamer is getting a full OS and remote.
 
@@ -68,7 +60,6 @@ It sounds like Google's 4-year-old 1080p streamer is getting a full OS and remot
  - [https://arstechnica.com/?p=1879723](https://arstechnica.com/?p=1879723)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-08 17:07:58+00:00
- - tags: None
 
 Judge also chides Musk for wasting time, says there's no time for "just kiddings."
 
@@ -76,7 +67,6 @@ Judge also chides Musk for wasting time, says there's no time for "just kiddings
  - [https://arstechnica.com/?p=1879606](https://arstechnica.com/?p=1879606)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-08 16:24:40+00:00
- - tags: None
 
 New AI tool alters the style and timbre of your voice, concealing your vocal identity.
 
@@ -84,7 +74,6 @@ New AI tool alters the style and timbre of your voice, concealing your vocal ide
  - [https://arstechnica.com/?p=1879607](https://arstechnica.com/?p=1879607)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-08 15:59:50+00:00
- - tags: None
 
 Prime Video series is the latest from <em>Westworld</em> creators Jonathan Nolan and Lisa Joy.
 
@@ -92,7 +81,6 @@ Prime Video series is the latest from <em>Westworld</em> creators Jonathan Nolan
  - [https://arstechnica.com/?p=1868078](https://arstechnica.com/?p=1868078)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-08 13:45:31+00:00
- - tags: None
 
 The Urtopia Carbon is a decent bike that tries to do a lot with its software.
 
@@ -100,6 +88,5 @@ The Urtopia Carbon is a decent bike that tries to do a lot with its software.
  - [https://arstechnica.com/?p=1879630](https://arstechnica.com/?p=1879630)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-08 13:38:08+00:00
- - tags: None
 
 First up are the all-new Jeep Recon and the Jeep Wagoneer S.

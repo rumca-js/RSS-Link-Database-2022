@@ -1,10 +1,9 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology
+# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
 
 ## Tencent invests $297 million into Ubisoft
  - [https://www.washingtonpost.com/video-games/2022/09/06/tencent-ubisoft/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/09/06/tencent-ubisoft/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-06 16:27:10+00:00
- - tags: None
 
 Ubisoft said there will be no change in leadership after the Chinese conglomerate Tencent purchased a 9.9 percent stake in the video game publisher.
 
@@ -12,7 +11,6 @@ Ubisoft said there will be no change in leadership after the Chinese conglomerat
  - [https://www.washingtonpost.com/technology/2022/09/06/truth-social-trump-finances-spac/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/06/truth-social-trump-finances-spac/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-06 15:50:45+00:00
- - tags: None
 
 A Trump-allied investment company could be forced to liquidate if holders of 65 percent of its shares don't approve a one-year extension of its merger with Trump’s company.
 
@@ -20,7 +18,6 @@ A Trump-allied investment company could be forced to liquidate if holders of 65 
  - [https://www.washingtonpost.com/video-games/reviews/temtem-release-review/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/reviews/temtem-release-review/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-06 13:00:51+00:00
- - tags: None
 
 In "Temtem," the indie developer Crema has put out arguably the best non-Pokémon monster-tamer on the market.
 
@@ -28,7 +25,6 @@ In "Temtem," the indie developer Crema has put out arguably the best non-Pokémo
  - [https://www.washingtonpost.com/technology/2022/09/06/scams-online-guide/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/06/scams-online-guide/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-06 07:00:00+00:00
- - tags: None
 
 The ultimate guide to not falling for scams from red flags to conversations you should have with loved ones.
 
@@ -36,6 +32,5 @@ The ultimate guide to not falling for scams from red flags to conversations you 
  - [https://www.washingtonpost.com/technology/2022/09/06/signal-meredith-whittaker/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/06/signal-meredith-whittaker/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-06 05:00:00+00:00
- - tags: None
 
 Meredith Whittaker, the former Google manager, is Signal’s first president. She is out to convince users to pay for the free app.

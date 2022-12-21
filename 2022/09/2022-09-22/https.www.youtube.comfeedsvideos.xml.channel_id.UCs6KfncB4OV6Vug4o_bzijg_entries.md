@@ -1,10 +1,9 @@
-# Source Techlore, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg
+# Source Techlore, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg, Source language: en-US
 
 ## I Regret Buying a Librem 5 - Here's Why!
  - [https://www.youtube.com/watch?v=prNeLzMbytU](https://www.youtube.com/watch?v=prNeLzMbytU)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg
  - date published: 2022-09-22 16:52:41+00:00
- - tags: None
 
 After years of waiting - I'm left with regrets after preording the Purism Librem 5 linux phone. Here's what my experience was like!
 

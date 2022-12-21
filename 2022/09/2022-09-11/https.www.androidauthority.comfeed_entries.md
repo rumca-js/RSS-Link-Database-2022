@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## Apple AirPods Pro (2nd gen) vs AirPods (3rd gen): Which should you buy?
  - [https://www.androidauthority.com/airpods-pro-2-vs-airpods-3-3206855/](https://www.androidauthority.com/airpods-pro-2-vs-airpods-3-3206855/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-11 23:30:50+00:00
- - tags: None
 
 No ear tips, no seal, and no ANC make the AirPods (3rd gen) hard to recommend now that the AirPods Pro (2nd gen) are here.
 
@@ -12,7 +11,6 @@ No ear tips, no seal, and no ANC make the AirPods (3rd gen) hard to recommend no
  - [https://www.androidauthority.com/apple-watch-series-8-vs-watch-se-2-3207055/](https://www.androidauthority.com/apple-watch-series-8-vs-watch-se-2-3207055/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-11 16:00:18+00:00
- - tags: None
 
 Apple's new budget smartwatch gives the Series 8 a run for its money.
 
@@ -20,7 +18,6 @@ Apple's new budget smartwatch gives the Series 8 a run for its money.
  - [https://www.androidauthority.com/apple-iphone-14-opinion-3206436/](https://www.androidauthority.com/apple-iphone-14-opinion-3206436/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-11 15:00:20+00:00
- - tags: None
 
 Like it or not, it's only a matter of time before Samsung, Google, and other Android OEMs follow suit.
 
@@ -28,7 +25,6 @@ Like it or not, it's only a matter of time before Samsung, Google, and other And
  - [https://www.androidauthority.com/apple-watch-female-health-3206829/](https://www.androidauthority.com/apple-watch-female-health-3206829/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-11 14:00:00+00:00
- - tags: None
 
 Apple is leading the charge in democratizing female health and automating part of cycle tracking.
 
@@ -36,7 +32,6 @@ Apple is leading the charge in democratizing female health and automating part o
  - [https://www.androidauthority.com/samsung-galaxy-s22-ultra-review-revisited-3203729/](https://www.androidauthority.com/samsung-galaxy-s22-ultra-review-revisited-3203729/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-11 13:00:11+00:00
- - tags: None
 
 It started the year with a bang, but how well has Samsung's expensive flagship held up?
 
@@ -44,6 +39,5 @@ It started the year with a bang, but how well has Samsung's expensive flagship h
  - [https://www.androidauthority.com/boompods-zero-3206880/](https://www.androidauthority.com/boompods-zero-3206880/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-11 12:00:23+00:00
- - tags: None
 
 You can even pair two of these in stereo mode.

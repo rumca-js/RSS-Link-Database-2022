@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## Why a mysterious fireball in the skies has scientists puzzled
  - [https://www.cnn.com/videos/world/2022/09/16/fireball-scotland-space-skies-nr-fisher-vpx.cnn](https://www.cnn.com/videos/world/2022/09/16/fireball-scotland-space-skies-nr-fisher-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 22:40:48+00:00
- - tags: None
 
 Hundreds of people across Scotland, Northern Ireland and northern parts of England spotted an unusual fireball lighting up the night sky. CNN's Kristin Fisher reports on what people think it was.
 
@@ -12,7 +11,6 @@ Hundreds of people across Scotland, Northern Ireland and northern parts of Engla
  - [https://www.cnn.com/2022/09/16/world/nasa-dart-mission-preview-scn/index.html](https://www.cnn.com/2022/09/16/world/nasa-dart-mission-preview-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 22:35:05+00:00
- - tags: None
 
 A NASA spacecraft that will deliberately crash into an asteroid is getting closer to its target.
 
@@ -20,7 +18,6 @@ A NASA spacecraft that will deliberately crash into an asteroid is getting close
  - [https://www.cnn.com/2022/09/15/world/gallery/photos-this-week-september-8-september-15/index.html](https://www.cnn.com/2022/09/15/world/gallery/photos-this-week-september-8-september-15/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 20:30:50+00:00
- - tags: None
 
 Britain's Prince William and Prince Harry stood side by side Saturday as they mourned the death of their beloved grandmother, Queen Elizabeth II.
 
@@ -28,7 +25,6 @@ Britain's Prince William and Prince Harry stood side by side Saturday as they mo
  - [https://www.cnn.com/2022/09/16/europe/russia-putin-local-councilors-intl/index.html](https://www.cnn.com/2022/09/16/europe/russia-putin-local-councilors-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 20:16:05+00:00
- - tags: None
 
 Russia's military failures in its war with Ukraine are stirring new opposition to President Vladimir Putin, according to two local politicians who are taking a stand against him.
 
@@ -36,7 +32,6 @@ Russia's military failures in its war with Ukraine are stirring new opposition t
  - [https://www.cnn.com/videos/tv/2022/09/16/russia-putin-local-councilor-critics-chance-pkg.cnn](https://www.cnn.com/videos/tv/2022/09/16/russia-putin-local-councilor-critics-chance-pkg.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 20:13:15+00:00
- - tags: None
 
 CNN's Matthew Chance speaks to two Russian local councilors who are taking risks to criticize President Vladimir Putin, as the costs of the war in Ukraine create new opposition.
 
@@ -44,7 +39,6 @@ CNN's Matthew Chance speaks to two Russian local councilors who are taking risks
  - [https://www.cnn.com/style/article/marc-schlossman-extinct-endangered-animals-book-scn/index.html](https://www.cnn.com/style/article/marc-schlossman-extinct-endangered-animals-book-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 19:42:33+00:00
- - tags: None
 
 When photographer Marc Schlossman held an extinct, dead bird in his hand, he had what he called a "conversion moment."
 
@@ -52,7 +46,6 @@ When photographer Marc Schlossman held an extinct, dead bird in his hand, he had
  - [https://www.cnn.com/videos/politics/2022/09/16/tapper-american-coup-january-6th-investigation-vpx.cnn](https://www.cnn.com/videos/politics/2022/09/16/tapper-american-coup-january-6th-investigation-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 19:34:13+00:00
- - tags: None
 
 CNN's Jake Tapper examines new details and conducts exclusive interviews to answer the questions surrounding former President Trump's level of involvement in the January 6th insurrection. "American Coup: The January 6th Investigation" airs this Sunday at 9p ET.
 
@@ -60,7 +53,6 @@ CNN's Jake Tapper examines new details and conducts exclusive interviews to answ
  - [https://www.cnn.com/videos/politics/2022/09/16/special-master-process-trump-doj-honig-nr-bts-vpx.cnn](https://www.cnn.com/videos/politics/2022/09/16/special-master-process-trump-doj-honig-nr-bts-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 19:14:48+00:00
- - tags: None
 
 A federal judge was appointed to serve as an independent arbiter to review the materials seized in the FBI's search of former President Donald Trump's Florida home. CNN senior legal analyst Elie Honig breaks down how the special master process will work.
 
@@ -68,7 +60,6 @@ A federal judge was appointed to serve as an independent arbiter to review the m
  - [https://www.cnn.com/2022/09/16/middleeast/iranian-woman-dies-police-intl/index.html](https://www.cnn.com/2022/09/16/middleeast/iranian-woman-dies-police-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 18:58:40+00:00
- - tags: None
 
 A 22-year-old Iranian woman has died after being arrested by Iran's morality police on Wednesday, Iran's semi-official Etemad Online website reported, quoting her uncle.
 
@@ -76,7 +67,6 @@ A 22-year-old Iranian woman has died after being arrested by Iran's morality pol
  - [https://www.cnn.com/videos/world/2022/09/16/peter-obi-nigeria-presidential-candidate-one-world-vpx.cnn](https://www.cnn.com/videos/world/2022/09/16/peter-obi-nigeria-presidential-candidate-one-world-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 18:57:11+00:00
- - tags: None
 
 Peter Obi, a former governor of Anambra, is running in Nigeria's presidential race. He discusses his objectives for the country with CNN's Zain Asher.
 
@@ -84,7 +74,6 @@ Peter Obi, a former governor of Anambra, is running in Nigeria's presidential ra
  - [https://www.cnn.com/2022/09/16/health/4-7-8-breathing-technique-relaxing-wellness/index.html](https://www.cnn.com/2022/09/16/health/4-7-8-breathing-technique-relaxing-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 18:23:47+00:00
- - tags: None
 
 Falling asleep or coming down from anxiety might never be as easy as 1-2-3, but some experts believe a different set of numbers -- 4-7-8 -- comes much closer to doing the trick.
 
@@ -92,7 +81,6 @@ Falling asleep or coming down from anxiety might never be as easy as 1-2-3, but 
  - [https://www.cnn.com/collections/health-and-wellness/](https://www.cnn.com/collections/health-and-wellness/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 18:16:29+00:00
- - tags: None
 
 
 
@@ -100,7 +88,6 @@ Falling asleep or coming down from anxiety might never be as easy as 1-2-3, but 
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-09-16-22/h_7f78666251d8d575da5772449b0d6c50](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-09-16-22/h_7f78666251d8d575da5772449b0d6c50)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 17:51:12.764679+00:00
- - tags: None
 
 
 
@@ -108,7 +95,6 @@ Falling asleep or coming down from anxiety might never be as easy as 1-2-3, but 
  - [https://www.cnn.com/collections/money-matters/](https://www.cnn.com/collections/money-matters/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 17:44:35+00:00
- - tags: None
 
 
 
@@ -116,7 +102,6 @@ Falling asleep or coming down from anxiety might never be as easy as 1-2-3, but 
  - [https://www.cnn.com/2022/09/16/economy/worlds-richest-person-musk-adani-bezos/index.html](https://www.cnn.com/2022/09/16/economy/worlds-richest-person-musk-adani-bezos/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 17:32:07+00:00
- - tags: None
 
 Jeff Bezos just lost his status as the world's second-richest person, dropping to No. 3 as Indian business mogul Gautam Adani rapidly climbs the ranks of Bloomberg's Billionaire Index.
 
@@ -124,7 +109,6 @@ Jeff Bezos just lost his status as the world's second-richest person, dropping t
  - [https://www.cnn.com/collections/politics-091322/](https://www.cnn.com/collections/politics-091322/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 17:20:18+00:00
- - tags: None
 
 
 
@@ -132,7 +116,6 @@ Jeff Bezos just lost his status as the world's second-richest person, dropping t
  - [https://www.cnn.com/2022/09/16/politics/marthas-vineyard-migrants-shelter-desantis/index.html](https://www.cnn.com/2022/09/16/politics/marthas-vineyard-migrants-shelter-desantis/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 16:50:23+00:00
- - tags: None
 
 The roughly 50 migrants who were sent by plane to Martha's Vineyard in Massachusetts by Florida's governor this week will be transported to a military base Friday to receive shelter and humanitarian support.
 
@@ -140,7 +123,6 @@ The roughly 50 migrants who were sent by plane to Martha's Vineyard in Massachus
  - [https://www.cnn.com/collections/videos-of-the-week-091622/](https://www.cnn.com/collections/videos-of-the-week-091622/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 16:09:43+00:00
- - tags: None
 
 
 
@@ -148,7 +130,6 @@ The roughly 50 migrants who were sent by plane to Martha's Vineyard in Massachus
  - [https://www.cnn.com/2022/09/16/sport/david-beckham-the-queue-queen-elizabeth-spt-intl/index.html](https://www.cnn.com/2022/09/16/sport/david-beckham-the-queue-queen-elizabeth-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 16:03:47+00:00
- - tags: None
 
 England football legend David Beckham has been spotted in The Queue for the Queen's lying-in-state in London.
 
@@ -156,7 +137,6 @@ England football legend David Beckham has been spotted in The Queue for the Quee
  - [https://www.cnn.com/2022/09/16/entertainment/kim-kardashian-shares-the-type-of-guy-she-wants-to-date-next/index.html](https://www.cnn.com/2022/09/16/entertainment/kim-kardashian-shares-the-type-of-guy-she-wants-to-date-next/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 15:27:11+00:00
- - tags: None
 
 Kim Kardashian appeared on "The Late Late Show With James Corden" on Wednesday, where she talked about her future dating plans after her break up with Pete Davidson last month.
 
@@ -164,7 +144,6 @@ Kim Kardashian appeared on "The Late Late Show With James Corden" on Wednesday, 
  - [https://www.cnn.com/2022/09/16/world/ig-nobel-awards-2022-scn-intl-scli/index.html](https://www.cnn.com/2022/09/16/world/ig-nobel-awards-2022-scn-intl-scli/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 15:08:02+00:00
- - tags: None
 
 Does constipation wreak havoc on the mating habits of scorpions? What is the best way to turn a doorknob? And does the world need a moose crash test dummy? If these burning questions have ever troubled you, then this year's batch of the (in)famous satirical science awards, the Ig Nobel Prizes, has delivered on a promise to honor "the things that make people laugh, then think."
 
@@ -172,7 +151,6 @@ Does constipation wreak havoc on the mating habits of scorpions? What is the bes
  - [https://www.cnn.com/2022/09/16/politics/donald-trump-hugh-hewitt-interview-indicted/index.html](https://www.cnn.com/2022/09/16/politics/donald-trump-hugh-hewitt-interview-indicted/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 14:51:48+00:00
- - tags: None
 
 In an interview with conservative radio host Hugh Hewitt on Thursday, Donald Trump was asked what he thought would happen if he were indicted for his role in keeping classified documents at his Mar-a-Lago home after he had left the White House.
 
@@ -180,7 +158,6 @@ In an interview with conservative radio host Hugh Hewitt on Thursday, Donald Tru
  - [https://www.cnn.com/2022/09/16/middleeast/iran-joins-shanghai-coop-mime-intl/index.html](https://www.cnn.com/2022/09/16/middleeast/iran-joins-shanghai-coop-mime-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 13:46:18+00:00
- - tags: None
 
 Iran is set to formalize its relationship with the Global East, inching one step closer to joining the Sino-Russian axis as its nuclear talks with global powers falter.
 
@@ -188,7 +165,6 @@ Iran is set to formalize its relationship with the Global East, inching one step
  - [https://www.cnn.com/2022/09/16/economy/rail-strike-economy/index.html](https://www.cnn.com/2022/09/16/economy/rail-strike-economy/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 13:23:49+00:00
- - tags: None
 
 Rail workers, teachers, nurses, baristas. There is a powerful factor motivating these American workers to demand for more.
 
@@ -196,7 +172,6 @@ Rail workers, teachers, nurses, baristas. There is a powerful factor motivating 
  - [https://www.cnn.com/videos/health/2022/09/16/centr-review-chris-hemsworth-workout-app-lbb-orig-jm.cnn](https://www.cnn.com/videos/health/2022/09/16/centr-review-chris-hemsworth-workout-app-lbb-orig-jm.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 13:12:19+00:00
- - tags: None
 
 With a blockbuster movie out this summer, Chris Hemsworth is hoping to get more members onto his new workout app, Centr. Our fitness-loving producer is trying to go from 'dad bod' to 'god bod' and decided to enlist the help of a teammate to see if this celebrity app is worth the hype.
 
@@ -204,7 +179,6 @@ With a blockbuster movie out this summer, Chris Hemsworth is hoping to get more 
  - [https://www.cnn.com/2022/09/16/world/space-diamond-lonsdaleite-scn/index.html](https://www.cnn.com/2022/09/16/world/space-diamond-lonsdaleite-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 12:55:18+00:00
- - tags: None
 
 Scientists have debated  its existence. Tiny traces provided clues. Now, researchers have confirmed the existence of a celestial diamond after finding it on Earth's surface.
 
@@ -212,7 +186,6 @@ Scientists have debated  its existence. Tiny traces provided clues. Now, researc
  - [https://www.cnn.com/travel/article/heathrow-cancels-flights-queen-funeral/index.html](https://www.cnn.com/travel/article/heathrow-cancels-flights-queen-funeral/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 12:36:45+00:00
- - tags: None
 
 Flights to and from London's Heathrow Airport on the day of the Queen's funeral are being canceled or re-timed "as a mark of respect" to the late monarch.
 
@@ -220,7 +193,6 @@ Flights to and from London's Heathrow Airport on the day of the Queen's funeral 
  - [https://www.cnn.com/2022/09/16/tech/iphone-14-lock-screen/index.html](https://www.cnn.com/2022/09/16/tech/iphone-14-lock-screen/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 12:14:38+00:00
- - tags: None
 
 When iPhone 14 users aren't using their new Apple device, the screen is hardly asleep. It'll remain lit with prominently displayed widgets such as alarms, calendar appointments and sports scores flittering with real-time updates, and be at the ready if you glance down or inevitably pick it back up.
 
@@ -228,7 +200,6 @@ When iPhone 14 users aren't using their new Apple device, the screen is hardly a
  - [https://www.cnn.com/travel/article/france-air-traffic-control-strike-september-16/index.html](https://www.cnn.com/travel/article/france-air-traffic-control-strike-september-16/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 12:04:56+00:00
- - tags: None
 
 Hundreds of flights have been canceled and thousands of passengers forced to change plans as French air traffic controllers took industrial action over pay on Friday.
 
@@ -236,7 +207,6 @@ Hundreds of flights have been canceled and thousands of passengers forced to cha
  - [https://www.cnn.com/2022/09/16/uk/royal-news-newsletter-09-16-22-scli-gbr-cmd-intl/index.html](https://www.cnn.com/2022/09/16/uk/royal-news-newsletter-09-16-22-scli-gbr-cmd-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 12:02:10+00:00
- - tags: None
 
 The tapping of a sword echoes through Westminster Hall. Here, in the oldest part of the Houses of Parliament, it reverberates instantly around the space, stopping people in their tracks and capturing their attention.
 
@@ -244,7 +214,6 @@ The tapping of a sword echoes through Westminster Hall. Here, in the oldest part
  - [https://www.cnn.com/2022/09/16/world/hungary-democracy-eu-parliament-intl/index.html](https://www.cnn.com/2022/09/16/world/hungary-democracy-eu-parliament-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 12:00:19+00:00
- - tags: None
 
 Hungary can "no longer be considered a full democracy," the European Parliament said in a statement following its adoption of a report on Thursday.
 
@@ -252,7 +221,6 @@ Hungary can "no longer be considered a full democracy," the European Parliament 
  - [https://www.cnn.com/2022/09/16/energy/rosneft-germany-oil-refineries/index.html](https://www.cnn.com/2022/09/16/energy/rosneft-germany-oil-refineries/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 11:41:58+00:00
- - tags: None
 
 The German government has seized control of three Russian-owned oil refineries to secure supplies of gasoline, diesel and aviation fuel.
 
@@ -260,7 +228,6 @@ The German government has seized control of three Russian-owned oil refineries t
  - [https://www.cnn.com/2022/09/16/sport/canelo-alvarez-gennady-golovkin-trilogy-fight-spt-intl/index.html](https://www.cnn.com/2022/09/16/sport/canelo-alvarez-gennady-golovkin-trilogy-fight-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 11:34:52+00:00
- - tags: None
 
 It's clear that Canelo Álvarez and Gennady 'GGG' Golovkin aren't fans of each other.
 
@@ -268,7 +235,6 @@ It's clear that Canelo Álvarez and Gennady 'GGG' Golovkin aren't fans of each o
  - [https://www.cnn.com/2022/09/16/sport/chiefs-la-chargers-mahomes-herbert-nfl-spt-intl/index.html](https://www.cnn.com/2022/09/16/sport/chiefs-la-chargers-mahomes-herbert-nfl-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 11:32:07+00:00
- - tags: None
 
 The Kansas City Chiefs showed their experience by coming from behind to edge out the Los Angeles Chargers 27-24 in a thrilling AFC West match up on Thursday Night Football.
 
@@ -276,7 +242,6 @@ The Kansas City Chiefs showed their experience by coming from behind to edge out
  - [https://www.cnn.com/2022/09/16/investing/premarket-trading-stocks/index.html](https://www.cnn.com/2022/09/16/investing/premarket-trading-stocks/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 11:28:40+00:00
- - tags: None
 
 The announcement from the White House that a tentative deal has been reached to avert the first national rail strike in three decades comes as a huge relief for businesses and investors worried about fresh supply chain disruptions.
 
@@ -284,7 +249,6 @@ The announcement from the White House that a tentative deal has been reached to 
  - [https://www.cnn.com/2022/09/16/tech/twitter-whistleblower-tech-regulator/index.html](https://www.cnn.com/2022/09/16/tech/twitter-whistleblower-tech-regulator/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 11:27:40+00:00
- - tags: None
 
 When a Twitter whistleblower testified at an explosive Senate hearing this week, the social media company wasn't the only one to come under fire. Lawmakers on both sides of the aisle repeatedly criticized federal regulators who for years had supposedly been keeping a close eye on the company.
 
@@ -292,7 +256,6 @@ When a Twitter whistleblower testified at an explosive Senate hearing this week,
  - [https://www.cnn.com/2022/09/16/health/nicotine-gummies-wellness/index.html](https://www.cnn.com/2022/09/16/health/nicotine-gummies-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 11:25:28+00:00
- - tags: None
 
 First, there were flavored cigarettes that tasted like chocolate or grape. Then came the e-cigarettes in flavors like cotton candy or gummy bear. Now, there are flavored gummies made with nicotine, and the US Food and Drug Administration isn't happy about it.
 
@@ -300,7 +263,6 @@ First, there were flavored cigarettes that tasted like chocolate or grape. Then 
  - [https://www.cnn.com/2022/09/16/us/marthas-vineyard-community-response-migrants/index.html](https://www.cnn.com/2022/09/16/us/marthas-vineyard-community-response-migrants/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 11:13:51+00:00
- - tags: None
 
 In the hours after roughly 50 migrants touched down on Martha's Vineyard in two planes sent by Florida Gov. Ron DeSantis, the island's community -- still jarred by the unexpected arrival -- rushed to help the newcomers.
 
@@ -308,7 +270,6 @@ In the hours after roughly 50 migrants touched down on Martha's Vineyard in two 
  - [https://www.cnn.com/2022/09/16/investing/british-pound-low/index.html](https://www.cnn.com/2022/09/16/investing/british-pound-low/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 11:05:26+00:00
- - tags: None
 
 The British pound slumped to a 37-year low on Friday after new data showed that shoppers are pulling back spending as inflation squeezes household budgets, underscoring fears that the economy may already be shrinking.
 
@@ -316,7 +277,6 @@ The British pound slumped to a 37-year low on Friday after new data showed that 
  - [https://www.cnn.com/2022/09/16/politics/russia-sanctions-ukraine-slow-economic-pain/index.html](https://www.cnn.com/2022/09/16/politics/russia-sanctions-ukraine-slow-economic-pain/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 10:56:22+00:00
- - tags: None
 
 Senior US officials tell CNN they are disappointed US-led sanctions haven't had a bigger impact so far on the Russian economy and are now predicting that the harshest effects probably won't materialize until early next year at the earliest.
 
@@ -324,7 +284,6 @@ Senior US officials tell CNN they are disappointed US-led sanctions haven't had 
  - [https://www.cnn.com/2022/09/16/tennis/sports-world-reaction-federer-retirement-spt-intl/index.html](https://www.cnn.com/2022/09/16/tennis/sports-world-reaction-federer-retirement-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 10:21:07+00:00
- - tags: None
 
 The outpouring of praise and admiration in the wake of Roger Federer's retirement announcement is a testament to the Swiss tennis star's remarkable impact and legacy in the world of tennis, sport and beyond.
 
@@ -332,7 +291,6 @@ The outpouring of praise and admiration in the wake of Roger Federer's retiremen
  - [https://www.cnn.com/2022/09/16/politics/nancy-pelosi-future-speaker/index.html](https://www.cnn.com/2022/09/16/politics/nancy-pelosi-future-speaker/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 10:01:20+00:00
- - tags: None
 
 Nancy Pelosi sidestepped a question this week about whether she wants to continue leading House Democrats after November -- but her own members are divided about whether they'd let that happen.
 
@@ -340,7 +298,6 @@ Nancy Pelosi sidestepped a question this week about whether she wants to continu
  - [https://www.cnn.com/2022/09/16/football/cristiano-ronaldo-manchester-united-sheriff-tiraspol-spt-intl/index.html](https://www.cnn.com/2022/09/16/football/cristiano-ronaldo-manchester-united-sheriff-tiraspol-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 09:48:03+00:00
- - tags: None
 
 Cristiano Ronaldo scored his first goal of the season as Manchester United defeated Sheriff Tiraspol 2-0 in the Europa League.
 
@@ -348,7 +305,6 @@ Cristiano Ronaldo scored his first goal of the season as Manchester United defea
  - [https://www.cnn.com/style/article/smithsonian-bezos-learning-center/index.html](https://www.cnn.com/style/article/smithsonian-bezos-learning-center/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 09:30:55+00:00
- - tags: None
 
 The Smithsonian's National Air and Space Museum (NASM) in Washington, DC has revealed five design proposals for the $130-million Bezos Learning Center, a project that will be realized as part of a $200-million gift from the Amazon founder Jeff Bezos, the largest donation the Smithsonian Institution has received since its founding in 1846.
 
@@ -356,7 +312,6 @@ The Smithsonian's National Air and Space Museum (NASM) in Washington, DC has rev
  - [https://www.cnn.com/2022/09/16/asia/china-south-korea-war-remains-repatriated-intl-hnk-mic-ml/index.html](https://www.cnn.com/2022/09/16/asia/china-south-korea-war-remains-repatriated-intl-hnk-mic-ml/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 09:02:06+00:00
- - tags: None
 
 The Chinese and South Korean soldiers stood face to face, the wind whipping through their ranks and their national flags flapping in the gusts. A Chinese military transport jet nearby on the runway of Incheon International Airport opened its rear door to receive precious cargo.
 
@@ -364,7 +319,6 @@ The Chinese and South Korean soldiers stood face to face, the wind whipping thro
  - [https://www.cnn.com/videos/world/2022/09/16/ukraine-izium-mass-burial-site-intl-hnk-vpx.cnn](https://www.cnn.com/videos/world/2022/09/16/ukraine-izium-mass-burial-site-intl-hnk-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 09:00:50+00:00
- - tags: None
 
 Ukraine's Defense Ministry says at least 440 unmarked graves were found in the city of Izium in recent days. The country's officials say some of the bodies found showed signs of torture. CNN's Nick Paton Walsh has more.
 
@@ -372,7 +326,6 @@ Ukraine's Defense Ministry says at least 440 unmarked graves were found in the c
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-09-16-22/index.html](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-09-16-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 08:51:05.434690+00:00
- - tags: None
 
 
 
@@ -380,7 +333,6 @@ Ukraine's Defense Ministry says at least 440 unmarked graves were found in the c
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-09-16-22/index.html](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-09-16-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 08:51:05.328466+00:00
- - tags: None
 
 
 
@@ -388,7 +340,6 @@ Ukraine's Defense Ministry says at least 440 unmarked graves were found in the c
  - [https://www.cnn.com/videos/world/2022/09/16/putin-xi-meeting-questions-concerns-pkg-watson-ovn-intl-ldn-vpx.cnn](https://www.cnn.com/videos/world/2022/09/16/putin-xi-meeting-questions-concerns-pkg-watson-ovn-intl-ldn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 08:48:55+00:00
- - tags: None
 
 President Vladimir Putin addressed China's questions and concerns about the war in Ukraine during a regional summit on Thursday. This is the first time Putin and Chinese President Xi Jinping have met since Russia's invasion over six months ago. CNN's Ivan Watson reports.
 
@@ -396,7 +347,6 @@ President Vladimir Putin addressed China's questions and concerns about the war 
  - [https://www.cnn.com/2022/09/16/europe/ukraine-izium-mass-burial-site-intl-hnk/index.html](https://www.cnn.com/2022/09/16/europe/ukraine-izium-mass-burial-site-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 08:40:22+00:00
- - tags: None
 
 Ukrainian authorities have found 440 unmarked graves at a burial site in Izium, an eastern city recently recaptured from Russian forces, Ukraine's Defense Ministry said in a Twitter post Friday.
 
@@ -404,7 +354,6 @@ Ukrainian authorities have found 440 unmarked graves at a burial site in Izium, 
  - [https://www.cnn.com/2022/09/16/us/george-floyd-pardon-reversed-texas/index.html](https://www.cnn.com/2022/09/16/us/george-floyd-pardon-reversed-texas/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 08:38:52+00:00
- - tags: None
 
 The Texas Board of Pardons and Paroles has reversed its decision to grant George Floyd a posthumous pardon for a 2004 drug conviction, according to a letter obtained by CNN.
 
@@ -412,7 +361,6 @@ The Texas Board of Pardons and Paroles has reversed its decision to grant George
  - [https://www.cnn.com/2022/09/16/sport/shane-warne-miniseries-cricket-daughter-spt-intl/index.html](https://www.cnn.com/2022/09/16/sport/shane-warne-miniseries-cricket-daughter-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 08:22:24+00:00
- - tags: None
 
 The daughter of cricket legend Shane Warne has called a TV miniseries which will dramatize his life "beyond disrespectful."
 
@@ -420,7 +368,6 @@ The daughter of cricket legend Shane Warne has called a TV miniseries which will
  - [https://www.cnn.com/2022/09/16/china/china-russia-united-front-sco-intl-hnk/index.html](https://www.cnn.com/2022/09/16/china/china-russia-united-front-sco-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 08:16:40+00:00
- - tags: None
 
 When Chinese leader Xi Jinping and Russian President Vladimir Putin sit down with other Asian leaders at a summit in Central Asia Friday, they will seek to present a united front to counterbalance the United States and its allies.
 
@@ -428,7 +375,6 @@ When Chinese leader Xi Jinping and Russian President Vladimir Putin sit down wit
  - [https://www.cnn.com/2022/09/16/sport/phoenix-suns-vice-chairman-calls-robert-sarver-resignation-spt-intl/index.html](https://www.cnn.com/2022/09/16/sport/phoenix-suns-vice-chairman-calls-robert-sarver-resignation-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 07:59:40+00:00
- - tags: None
 
 In an open letter to Phoenix Suns employees and players on Thursday, team vice chairman Jahm Najafi has called on team owner Robert Sarver to resign.
 
@@ -436,7 +382,6 @@ In an open letter to Phoenix Suns employees and players on Thursday, team vice c
  - [https://www.cnn.com/collections/intl-1609-ukraine/](https://www.cnn.com/collections/intl-1609-ukraine/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 04:24:27+00:00
- - tags: None
 
 
 
@@ -444,7 +389,6 @@ In an open letter to Phoenix Suns employees and players on Thursday, team vice c
  - [https://www.cnn.com/collections/intl-1509-xi-putin/](https://www.cnn.com/collections/intl-1509-xi-putin/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 04:22:22+00:00
- - tags: None
 
 
 
@@ -452,7 +396,6 @@ In an open letter to Phoenix Suns employees and players on Thursday, team vice c
  - [https://www.cnn.com/style/article/michael-jordan-jersey-sale-record-scli-intl-spt/index.html](https://www.cnn.com/style/article/michael-jordan-jersey-sale-record-scli-intl-spt/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 03:19:33+00:00
- - tags: None
 
 A jersey worn by basketball star Michael Jordan during one of the most famous seasons in his NBA career sold for a record $10.1 million at a New York auction Thursday.
 
@@ -460,7 +403,6 @@ A jersey worn by basketball star Michael Jordan during one of the most famous se
  - [https://www.cnn.com/videos/world/2022/09/16/ukraine-russia-vovchansk-liberated-walsh-pkg-ac360-vpx.cnn](https://www.cnn.com/videos/world/2022/09/16/ukraine-russia-vovchansk-liberated-walsh-pkg-ac360-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 03:17:39+00:00
- - tags: None
 
 CNN's Nick Paton Walsh reports from Vovchansk, a recently liberated Ukrainian city close to the Russian border.
 
@@ -468,7 +410,6 @@ CNN's Nick Paton Walsh reports from Vovchansk, a recently liberated Ukrainian ci
  - [https://www.cnn.com/2022/09/15/politics/white-house-aid-ukraine-security-package/index.html](https://www.cnn.com/2022/09/15/politics/white-house-aid-ukraine-security-package/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 02:29:52+00:00
- - tags: None
 
 The White House announced a $600 million security package for Ukraine on Thursday, providing the Ukrainian military with another round of assistance during its ongoing counter-offensive against Russian forces.
 
@@ -476,7 +417,6 @@ The White House announced a $600 million security package for Ukraine on Thursda
  - [https://www.cnn.com/travel/article/sentosa-island-singapore-history-cmb/index.html](https://www.cnn.com/travel/article/sentosa-island-singapore-history-cmb/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 02:02:20+00:00
- - tags: None
 
 It used to be known as Pulau Blakang Mati. Some translate the name politely as "the island of woe," but the most cited translation is "the island behind which lies death."
 
@@ -484,7 +424,6 @@ It used to be known as Pulau Blakang Mati. Some translate the name politely as "
  - [https://www.cnn.com/2022/09/15/politics/alexandria-ocasio-cortez-clay-higgins-environmental-lawyer-climate-oil-hearing/index.html](https://www.cnn.com/2022/09/15/politics/alexandria-ocasio-cortez-clay-higgins-environmental-lawyer-climate-oil-hearing/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 01:52:10+00:00
- - tags: None
 
 Democratic Rep. Alexandria Ocasio-Cortez on Thursday condemned Republican Rep. Clay Higgins' treatment of an environmental lawyer during a congressional hearing on the climate crisis.
 
@@ -492,7 +431,6 @@ Democratic Rep. Alexandria Ocasio-Cortez on Thursday condemned Republican Rep. C
  - [https://www.cnn.com/videos/politics/2022/09/16/george-conway-reacts-trump-comments-hugh-hewitt-radio-show-sot-ac360-vpx.cnn](https://www.cnn.com/videos/politics/2022/09/16/george-conway-reacts-trump-comments-hugh-hewitt-radio-show-sot-ac360-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 01:41:19+00:00
- - tags: None
 
 Conservative lawyer George Conway joins CNN's John Berman to discuss former President Trump's recent comments on Hugh Hewitt's radio show, where he says there will be "big problems" if he's indicted.
 
@@ -500,7 +438,6 @@ Conservative lawyer George Conway joins CNN's John Berman to discuss former Pres
  - [https://www.cnn.com/2022/09/15/americas/retired-mexican-general-arrested-over-vanished-students-in-2014-intl-latam/index.html](https://www.cnn.com/2022/09/15/americas/retired-mexican-general-arrested-over-vanished-students-in-2014-intl-latam/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 01:22:48+00:00
- - tags: None
 
 Mexico has arrested retired army general José Rodríguez Pérez in relation to the bloody disappearance of 43 students in the city of Iguala, nearly eight years ago.
 
@@ -508,7 +445,6 @@ Mexico has arrested retired army general José Rodríguez Pérez in relation to 
  - [https://www.cnn.com/collections/intl-1509-ukraine/](https://www.cnn.com/collections/intl-1509-ukraine/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 00:49:22+00:00
- - tags: None
 
 
 
@@ -516,7 +452,6 @@ Mexico has arrested retired army general José Rodríguez Pérez in relation to 
  - [https://www.cnn.com/2022/09/15/us/pieper-lewis-sex-trafficking-other-cases-reaj/index.html](https://www.cnn.com/2022/09/15/us/pieper-lewis-sex-trafficking-other-cases-reaj/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 00:36:38+00:00
- - tags: None
 
 An Iowa judge's ruling this week ordering a teenage girl -- who was 15 when she killed a man she said raped her multiple times -- to pay his family $150,000 in restitution has reignited conversations about what justice looks like for girls and young women who have experienced sexual violence.
 
@@ -524,7 +459,6 @@ An Iowa judge's ruling this week ordering a teenage girl -- who was 15 when she 
  - [https://www.cnn.com/collections/intl-1609-special-master/](https://www.cnn.com/collections/intl-1609-special-master/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 00:05:52+00:00
- - tags: None
 
 
 
@@ -532,7 +466,6 @@ An Iowa judge's ruling this week ordering a teenage girl -- who was 15 when she 
  - [https://www.cnn.com/videos/us/2022/09/15/doug-mastriano-republican-nominee-governor-josh-shapiro-background-the-lead-vpx.cnn](https://www.cnn.com/videos/us/2022/09/15/doug-mastriano-republican-nominee-governor-josh-shapiro-background-the-lead-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 00:05:40+00:00
- - tags: None
 
 In campaign remarks, Pennsylvania's Republican nominee for governor Doug Mastriano commented on the "privileged" school his rival Democratic Attorney General Josh Shapiro attended. CNN's Jake Tapper calls out Mastriano's claims and explains his own perspective.
 
@@ -540,6 +473,5 @@ In campaign remarks, Pennsylvania's Republican nominee for governor Doug Mastria
  - [https://www.cnn.com/videos/business/2022/09/15/jeopardy-ken-jennings-allows-answer-change-orig-llr.cnn](https://www.cnn.com/videos/business/2022/09/15/jeopardy-ken-jennings-allows-answer-change-orig-llr.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-16 00:03:27+00:00
- - tags: None
 
 "Jeopardy!" host Ken Jennings allowed a contestant to change his answer, but later denied a second contestant from doing the same.

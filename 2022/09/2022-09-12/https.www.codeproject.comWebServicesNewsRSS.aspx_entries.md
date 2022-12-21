@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## Another ancient oddity in .NET
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58839](https://www.codeproject.com/script/News/View.aspx?nwid=58839)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-12 04:00:00+00:00
- - tags: None
 
 Michael, DataRow your data ashore
 
@@ -12,7 +11,6 @@ Michael, DataRow your data ashore
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58842](https://www.codeproject.com/script/News/View.aspx?nwid=58842)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-12 04:00:00+00:00
- - tags: None
 
 When your company name has become a verb, you might just be a monopoly
 
@@ -20,7 +18,6 @@ When your company name has become a verb, you might just be a monopoly
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58846](https://www.codeproject.com/script/News/View.aspx?nwid=58846)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-12 04:00:00+00:00
- - tags: None
 
 It's like the 'five second rule', but you can't eat the satellites
 
@@ -28,7 +25,6 @@ It's like the 'five second rule', but you can't eat the satellites
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58840](https://www.codeproject.com/script/News/View.aspx?nwid=58840)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-12 04:00:00+00:00
- - tags: None
 
 Beware of hackers bearing GIFs
 
@@ -36,7 +32,6 @@ Beware of hackers bearing GIFs
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58847](https://www.codeproject.com/script/News/View.aspx?nwid=58847)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-12 04:00:00+00:00
- - tags: None
 
 Red Lobster becomes a power company
 
@@ -44,7 +39,6 @@ Red Lobster becomes a power company
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58841](https://www.codeproject.com/script/News/View.aspx?nwid=58841)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-12 04:00:00+00:00
- - tags: None
 
 Mysterious and spooky, it's altogether ooky
 
@@ -52,7 +46,6 @@ Mysterious and spooky, it's altogether ooky
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58843](https://www.codeproject.com/script/News/View.aspx?nwid=58843)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-12 04:00:00+00:00
- - tags: None
 
 Microsoft 366 developer on leap years
 
@@ -60,7 +53,6 @@ Microsoft 366 developer on leap years
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58844](https://www.codeproject.com/script/News/View.aspx?nwid=58844)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-12 04:00:00+00:00
- - tags: None
 
 Is it any good? It's WASM
 
@@ -68,6 +60,5 @@ Is it any good? It's WASM
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58845](https://www.codeproject.com/script/News/View.aspx?nwid=58845)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-12 04:00:00+00:00
- - tags: None
 
 We work in a house of cards, on a bowl of jello, on top of a swamp

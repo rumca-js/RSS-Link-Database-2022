@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## 13 open source projects transforming AI and machine learning
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59054](https://www.codeproject.com/script/News/View.aspx?nwid=59054)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-30 04:00:00+00:00
- - tags: None
 
 From deepfakes to natural language processing and more, the open source world is ripe with projects to support software development on the frontiers of artificial intelligence and machine learning.
 
@@ -12,7 +11,6 @@ From deepfakes to natural language processing and more, the open source world is
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59040](https://www.codeproject.com/script/News/View.aspx?nwid=59040)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-30 04:00:00+00:00
- - tags: None
 
 Alphabet Inc.’s DeepMind unit today debuted Sparrow, an artificial intelligence-powered chatbot described as a milestone in the industry effort to develop safer machine learning systems.
 
@@ -20,7 +18,6 @@ Alphabet Inc.’s DeepMind unit today debuted Sparrow, an artificial intelligenc
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59047](https://www.codeproject.com/script/News/View.aspx?nwid=59047)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-30 04:00:00+00:00
- - tags: None
 
 Microsoft never ships a product until it is ready!
 
@@ -28,7 +25,6 @@ Microsoft never ships a product until it is ready!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59046](https://www.codeproject.com/script/News/View.aspx?nwid=59046)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-30 04:00:00+00:00
- - tags: None
 
 "I’m shocked. SHOCKED! Well, not that shocked."
 
@@ -36,7 +32,6 @@ Microsoft never ships a product until it is ready!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59053](https://www.codeproject.com/script/News/View.aspx?nwid=59053)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-30 04:00:00+00:00
- - tags: None
 
 Intel launched new SDKs for AI and quantum computing and added tools underpinned by the Intel Developer Cloud in an effort to attract developers to build on its hardware.
 
@@ -44,7 +39,6 @@ Intel launched new SDKs for AI and quantum computing and added tools underpinned
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59042](https://www.codeproject.com/script/News/View.aspx?nwid=59042)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-30 04:00:00+00:00
- - tags: None
 
 Meta killed the video star
 
@@ -52,7 +46,6 @@ Meta killed the video star
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59041](https://www.codeproject.com/script/News/View.aspx?nwid=59041)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-30 04:00:00+00:00
- - tags: None
 
 Fundamental problems elude many strains of deep learning, says LeCun, including the mystery of how to measure information.
 
@@ -60,7 +53,6 @@ Fundamental problems elude many strains of deep learning, says LeCun, including 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59044](https://www.codeproject.com/script/News/View.aspx?nwid=59044)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-30 04:00:00+00:00
- - tags: None
 
 Researchers from Microsoft's Natural Language Computing (NLC) group announced the latest version of Bidirectional Encoder representation from Image Transformers: BEiT-3, a 1.9B parameter vision-language AI model. BEiT-3 models images as another language and achieves state-of-the-art performance on a wide range of downstream tasks.
 
@@ -68,7 +60,6 @@ Researchers from Microsoft's Natural Language Computing (NLC) group announced th
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59043](https://www.codeproject.com/script/News/View.aspx?nwid=59043)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-30 04:00:00+00:00
- - tags: None
 
 Write once, infect everywhere
 
@@ -76,7 +67,6 @@ Write once, infect everywhere
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59052](https://www.codeproject.com/script/News/View.aspx?nwid=59052)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-30 04:00:00+00:00
- - tags: None
 
 You've got real numbers, imaginary numbers, now mythical numbers!
 
@@ -84,7 +74,6 @@ You've got real numbers, imaginary numbers, now mythical numbers!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59051](https://www.codeproject.com/script/News/View.aspx?nwid=59051)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-30 04:00:00+00:00
- - tags: None
 
 Good thing we're all paperless
 
@@ -92,7 +81,6 @@ Good thing we're all paperless
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59045](https://www.codeproject.com/script/News/View.aspx?nwid=59045)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-30 04:00:00+00:00
- - tags: None
 
 Last November, we announced the release of the Windows ML Samples Gallery. The newest release of the gallery adds 4 new samples, 2 of which are discussed in detail below.
 
@@ -100,7 +88,6 @@ Last November, we announced the release of the Windows ML Samples Gallery. The n
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59048](https://www.codeproject.com/script/News/View.aspx?nwid=59048)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-30 04:00:00+00:00
- - tags: None
 
 Get your head in the clouds!
 
@@ -108,7 +95,6 @@ Get your head in the clouds!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59049](https://www.codeproject.com/script/News/View.aspx?nwid=59049)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-30 04:00:00+00:00
- - tags: None
 
 A happy developer is a secure developer
 
@@ -116,6 +102,5 @@ A happy developer is a secure developer
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59050](https://www.codeproject.com/script/News/View.aspx?nwid=59050)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-30 04:00:00+00:00
- - tags: None
 
 "I'm going off the rails on a crazy train"

@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## COVID may have pushed a leading seasonal flu strain to extinction
  - [https://arstechnica.com/?p=1886149](https://arstechnica.com/?p=1886149)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-30 23:08:42+00:00
- - tags: None
 
 No one has confirmed a case of influenza B/Yamagata since April 2020.
 
@@ -12,7 +11,6 @@ No one has confirmed a case of influenza B/Yamagata since April 2020.
  - [https://arstechnica.com/?p=1886094](https://arstechnica.com/?p=1886094)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-30 22:06:57+00:00
- - tags: None
 
 Managers will assess the scope of work to perform while in the VAB.
 
@@ -20,7 +18,6 @@ Managers will assess the scope of work to perform while in the VAB.
  - [https://arstechnica.com/?p=1886112](https://arstechnica.com/?p=1886112)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-30 21:50:39+00:00
- - tags: None
 
 Visual novel insider says "school setting" may have caused concern for Valve.
 
@@ -28,7 +25,6 @@ Visual novel insider says "school setting" may have caused concern for Valve.
  - [https://arstechnica.com/?p=1886060](https://arstechnica.com/?p=1886060)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-30 21:08:42+00:00
- - tags: None
 
 "Summoning Salt" left with little understanding on where auto-moderation line is drawn.
 
@@ -36,7 +32,6 @@ Visual novel insider says "school setting" may have caused concern for Valve.
  - [https://arstechnica.com/?p=1885973](https://arstechnica.com/?p=1885973)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-30 20:22:11+00:00
- - tags: None
 
 One firmware push could let Stadia fans keep their favorite wireless controller.
 
@@ -44,7 +39,6 @@ One firmware push could let Stadia fans keep their favorite wireless controller.
  - [https://arstechnica.com/?p=1886065](https://arstechnica.com/?p=1886065)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-30 20:01:42+00:00
- - tags: None
 
 Microsoft said it's working on an accelerated schedule to roll out a patch.
 
@@ -52,7 +46,6 @@ Microsoft said it's working on an accelerated schedule to roll out a patch.
  - [https://arstechnica.com/?p=1885831](https://arstechnica.com/?p=1885831)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-30 18:12:48+00:00
- - tags: None
 
 USB-IF drops 12-year-old USB branding representing 5Gbps and faster speeds.
 
@@ -60,7 +53,6 @@ USB-IF drops 12-year-old USB branding representing 5Gbps and faster speeds.
  - [https://arstechnica.com/?p=1885952](https://arstechnica.com/?p=1885952)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-30 18:04:58+00:00
- - tags: None
 
 Meta called content "safe" that UK judge found "impossible to watch."
 
@@ -68,7 +60,6 @@ Meta called content "safe" that UK judge found "impossible to watch."
  - [https://arstechnica.com/?p=1885899](https://arstechnica.com/?p=1885899)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-30 17:56:29+00:00
- - tags: None
 
 AMD previewed new OpenGL drivers for consumer Radeon GPUs earlier this year.
 
@@ -76,7 +67,6 @@ AMD previewed new OpenGL drivers for consumer Radeon GPUs earlier this year.
  - [https://arstechnica.com/?p=1885954](https://arstechnica.com/?p=1885954)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-30 17:46:27+00:00
- - tags: None
 
 Execs "weaponized eBay security department" over news reports the CEO disliked.
 
@@ -84,7 +74,6 @@ Execs "weaponized eBay security department" over news reports the CEO disliked.
  - [https://arstechnica.com/?p=1885554](https://arstechnica.com/?p=1885554)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-30 16:55:17+00:00
- - tags: None
 
 If Google really wants more secure extensions, why not just police the store better?
 
@@ -92,7 +81,6 @@ If Google really wants more secure extensions, why not just police the store bet
  - [https://arstechnica.com/?p=1885857](https://arstechnica.com/?p=1885857)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-30 16:35:13+00:00
- - tags: None
 
 Tech will allow Willis' doppelgänger to continue working despite language disorder diagnosis.
 
@@ -100,7 +88,6 @@ Tech will allow Willis' doppelgänger to continue working despite language disor
  - [https://arstechnica.com/?p=1885832](https://arstechnica.com/?p=1885832)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-30 16:07:32+00:00
- - tags: None
 
 "Picture your mind as a cabinet where you lock up your darkest thoughts..."
 
@@ -108,7 +95,6 @@ Tech will allow Willis' doppelgänger to continue working despite language disor
  - [https://arstechnica.com/?p=1878321](https://arstechnica.com/?p=1878321)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-30 15:32:58+00:00
- - tags: None
 
 Gmail, the service? Not bad. Gmail, the website? Eh. Time for a real client.
 
@@ -116,7 +102,6 @@ Gmail, the service? Not bad. Gmail, the website? Eh. Time for a real client.
  - [https://arstechnica.com/?p=1885873](https://arstechnica.com/?p=1885873)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-30 15:22:12+00:00
- - tags: None
 
 After decades of warnings, group figured out how to hijack virtualization software.
 
@@ -124,7 +109,6 @@ After decades of warnings, group figured out how to hijack virtualization softwa
  - [https://arstechnica.com/?p=1885842](https://arstechnica.com/?p=1885842)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-30 14:23:51+00:00
- - tags: None
 
 Supporters of $44 billion bid included Larry Ellison and podcaster Joe Rogan.
 
@@ -132,7 +116,6 @@ Supporters of $44 billion bid included Larry Ellison and podcaster Joe Rogan.
  - [https://arstechnica.com/?p=1885499](https://arstechnica.com/?p=1885499)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-30 11:30:18+00:00
- - tags: None
 
 Sound waves in a piezoelectric material can steer electrons to precise destinations.
 
@@ -140,6 +123,5 @@ Sound waves in a piezoelectric material can steer electrons to precise destinati
  - [https://arstechnica.com/?p=1885393](https://arstechnica.com/?p=1885393)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-30 11:00:59+00:00
- - tags: None
 
 "Getting back out there might be a challenge."

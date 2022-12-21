@@ -1,10 +1,9 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss
+# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
 
 ## Wowed by Dopesick? Here are 6 meaty dramas for your next TV binge...
  - [https://www.techradar.com/news/wowed-by-dopesick-here-are-6-meaty-dramas-for-your-next-tv-binge/](https://www.techradar.com/news/wowed-by-dopesick-here-are-6-meaty-dramas-for-your-next-tv-binge/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-18 14:00:53+00:00
- - tags: None
 
 If you've loved Dopesick, you'll love these dramas too.
 
@@ -12,7 +11,6 @@ If you've loved Dopesick, you'll love these dramas too.
  - [https://www.techradar.com/news/nvidia-rtx-3070-ti-graphics-card-could-soon-get-a-big-upgrade/](https://www.techradar.com/news/nvidia-rtx-3070-ti-graphics-card-could-soon-get-a-big-upgrade/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-18 09:42:58+00:00
- - tags: None
 
 More rumors have been swirling about how Nvidia might pep up its current-gen GPUs.
 
@@ -20,7 +18,6 @@ More rumors have been swirling about how Nvidia might pep up its current-gen GPU
  - [https://www.techradar.com/news/this-mini-instax-printer-brings-me-the-joy-of-instant-photography-without-the-pain/](https://www.techradar.com/news/this-mini-instax-printer-brings-me-the-joy-of-instant-photography-without-the-pain/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-18 09:00:35+00:00
- - tags: None
 
 The Instax Mini Link 2 smartphone printer gives you control over what to print at a reasonable price.
 
@@ -28,7 +25,6 @@ The Instax Mini Link 2 smartphone printer gives you control over what to print a
  - [https://www.techradar.com/news/new-android-phones-could-be-more-powerful-than-iphone-14-pro-leak-suggests/](https://www.techradar.com/news/new-android-phones-could-be-more-powerful-than-iphone-14-pro-leak-suggests/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-18 06:00:24+00:00
- - tags: None
 
 The Qualcomm Snapdragon 8 Gen 2 is expected to be unveiled in November, and could offer significant upgrades.
 
@@ -36,6 +32,5 @@ The Qualcomm Snapdragon 8 Gen 2 is expected to be unveiled in November, and coul
  - [https://www.techradar.com/news/pixel-7-pro-chip-might-be-way-slower-than-competition-but-thats-not-a-worry/](https://www.techradar.com/news/pixel-7-pro-chip-might-be-way-slower-than-competition-but-thats-not-a-worry/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-18 05:00:14+00:00
- - tags: None
 
 Despite faster chips coming to the market, a 'slower' Tensor 2 engine might not be that much of an issue.

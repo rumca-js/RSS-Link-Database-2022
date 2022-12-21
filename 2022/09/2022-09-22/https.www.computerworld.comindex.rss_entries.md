@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Microsoft Viva enhancements address employee disconnect in hybrid work environments
  - [https://www.computerworld.com/article/3674688/microsoft-viva-enhancements-address-employee-disconnect-in-hybrid-work-environments.html#tk.rss_all](https://www.computerworld.com/article/3674688/microsoft-viva-enhancements-address-employee-disconnect-in-hybrid-work-environments.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-22 13:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3674689/uks-ofcom-to-probe-cloud-services-messenger-apps-and-smart-devices.html#tk.rss_all](https://www.computerworld.com/article/3674689/uks-ofcom-to-probe-cloud-services-messenger-apps-and-smart-devices.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-22 11:57:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -24,7 +22,6 @@
  - [https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all](https://www.computerworld.com/article/3313417/tech-event-calendar-shows-conferences-and-it-expos-updated.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-22 11:28:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -40,7 +37,6 @@
  - [https://www.computerworld.com/article/3673903/google-sheets-how-to-use-filters-and-slicers.html#tk.rss_all](https://www.computerworld.com/article/3673903/google-sheets-how-to-use-filters-and-slicers.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-22 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

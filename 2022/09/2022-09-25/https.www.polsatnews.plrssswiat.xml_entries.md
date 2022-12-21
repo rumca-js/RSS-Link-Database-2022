@@ -1,10 +1,9 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml
+# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
 
 ## Włochy. Exit poll: Centroprawica wygrywa wybory parlamentarne
  - [https://www.polsatnews.pl/wiadomosc/2022-09-25/wlochy-centroprawica-wygrywa-wybory-parlamentarne/](https://www.polsatnews.pl/wiadomosc/2022-09-25/wlochy-centroprawica-wygrywa-wybory-parlamentarne/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-25 21:04:00+00:00
- - tags: None
 
 Centroprawica wygrywa wybory parlamentarne we Włoszech - podał w niedzielę późnym wieczorem Reuters, powołując się na wyniki sondażu exit poll dla włoskiej telewizji RAI. Oznacza to, że premierem Włoch najprawdopodobniej zostanie Giorgia Meloni, liderka partii Bracia Włosi. Jej partia jest w koalicji z Ligą Matteo Salviniego i Forza Italia, której przewodzi Silvio Berlusconi.
 
@@ -12,7 +11,6 @@ Centroprawica wygrywa wybory parlamentarne we Włoszech - podał w niedzielę p�
  - [https://www.polsatnews.pl/wiadomosc/2022-09-25/ukraina-kolejne-dwa-masowe-groby-w-iziumie-wolodymyr-zelenski-pochowki-z-setkami-cial/](https://www.polsatnews.pl/wiadomosc/2022-09-25/ukraina-kolejne-dwa-masowe-groby-w-iziumie-wolodymyr-zelenski-pochowki-z-setkami-cial/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-25 20:37:00+00:00
- - tags: None
 
 Dwa kolejne masowe groby z setkami ciał znaleziono w wyludnionym Iziumie w obwodzie charkowskim - powiedział w wywiadzie dla telewizji CBS prezydent Ukrainy Wołodymyr Zełenski. Wcześniej w tym samym mieście odkryto masową mogiłę z blisko 500 ciałami.
 
@@ -20,7 +18,6 @@ Dwa kolejne masowe groby z setkami ciał znaleziono w wyludnionym Iziumie w obwo
  - [https://www.polsatnews.pl/wiadomosc/2022-09-25/ukraina-wolodymyr-zelenski-usa-przekazaly-ukrainie-systemy-nasams/](https://www.polsatnews.pl/wiadomosc/2022-09-25/ukraina-wolodymyr-zelenski-usa-przekazaly-ukrainie-systemy-nasams/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-25 18:45:00+00:00
- - tags: None
 
 USA przekazały Ukrainie dwa systemy przeciwlotnicze NASAMS, które mogą zapewnić ochronę przed atakami rakietowymi - poinformował prezydent Ukrainy Wołodymyr Zełenski w wywiadzie dla telewizji CBS. Podkreślił, że to pozwoli części Ukraińców wrócić do ojczyzny.
 
@@ -28,7 +25,6 @@ USA przekazały Ukrainie dwa systemy przeciwlotnicze NASAMS, które mogą zapewn
  - [https://www.polsatnews.pl/wiadomosc/2022-09-25/dagestan-protesty-przeciwko-mobilizacji-padly-strzaly/](https://www.polsatnews.pl/wiadomosc/2022-09-25/dagestan-protesty-przeciwko-mobilizacji-padly-strzaly/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-25 15:15:00+00:00
- - tags: None
 
 W Republice Dagestanu trwa manifestacja przeciwko mobilizacji wojskowej. Licznie zgromadzeni we wsi Endirej protestujący w obronie swoich synów, braci i mężów zablokowali trasę Chasawjurt-Machaczkała. Próbujący rozgonić tłum funkcjonariusze oddali strzały w powietrze. Demonstracje odbywają się także w stolicy republiki Machaczkale, gdzie pojawili się funkcjonariusze Rosgwardii.
 
@@ -36,7 +32,6 @@ W Republice Dagestanu trwa manifestacja przeciwko mobilizacji wojskowej. Licznie
  - [https://www.polsatnews.pl/wiadomosc/2022-09-25/wojna-w-ukrainie-aiden-aslin-o-rosyjskiej-niewoli-traktowali-mnie-gorzej-niz-psa/](https://www.polsatnews.pl/wiadomosc/2022-09-25/wojna-w-ukrainie-aiden-aslin-o-rosyjskiej-niewoli-traktowali-mnie-gorzej-niz-psa/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-25 13:58:00+00:00
- - tags: None
 
 Brytyjczyk Aiden Aslin, który dzięki wymianie jeńców został zwolniony z rosyjskiej niewoli opowiedział, jak obchodzili się z nim Rosjanie. Traktowali mnie gorzej niż psa - mówił. Pokazał m.in. ślady po ranach od noża. Wspominał o przeludnionej celi, pladze wszy, głodzie i trwaniu w straszliwych warunkach higienicznych bez toalety. - Rosyjski oficer powiedział mi jestem twoją śmiercią - dodał.
 
@@ -44,7 +39,6 @@ Brytyjczyk Aiden Aslin, który dzięki wymianie jeńców został zwolniony z ros
  - [https://www.polsatnews.pl/wiadomosc/2022-09-25/usa-floryda-w-obliczu-kataklizmu-tropikalny-sztorm-ian-przybiera-na-sile-ogloszono-stan-wyjatkowy/](https://www.polsatnews.pl/wiadomosc/2022-09-25/usa-floryda-w-obliczu-kataklizmu-tropikalny-sztorm-ian-przybiera-na-sile-ogloszono-stan-wyjatkowy/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-25 11:05:00+00:00
- - tags: None
 
 Tropikalny sztorm Ian przybiera gwałtownie na sile i na początku tygodnia może uderzyć we Florydę już jako duży huragan - twierdzą synoptycy. Gubernator Ron DeSantis ogłosił w sobotę stan wyjątkowy na terenie całej Florydy. W gotowości jest Gwardia Narodowa.
 
@@ -52,7 +46,6 @@ Tropikalny sztorm Ian przybiera gwałtownie na sile i na początku tygodnia moż
  - [https://www.polsatnews.pl/wiadomosc/2022-09-25/wielka-brytania-palac-buckingham-opublikowal-zdjecie-grobu-krolowej-elzbiety-ii/](https://www.polsatnews.pl/wiadomosc/2022-09-25/wielka-brytania-palac-buckingham-opublikowal-zdjecie-grobu-krolowej-elzbiety-ii/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-25 10:55:00+00:00
- - tags: None
 
 Niespełna tydzień po pogrzebie Elżbiety II Pałac Buckingham opublikował pierwsze zdjęcie z kaplicy w Windsorze, gdzie spoczęła królowa.
 
@@ -60,7 +53,6 @@ Niespełna tydzień po pogrzebie Elżbiety II Pałac Buckingham opublikował pie
  - [https://www.polsatnews.pl/wiadomosc/2022-09-25/niemcy-piekarze-szukaja-sposobu-na-inflacje-sponsorowany-inflacyjny-chleb/](https://www.polsatnews.pl/wiadomosc/2022-09-25/niemcy-piekarze-szukaja-sposobu-na-inflacje-sponsorowany-inflacyjny-chleb/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-25 09:59:00+00:00
- - tags: None
 
 Piekarz Michael Tenk z Südlohn w zachodnich Niemczech chce, by jego chleb był sponsorowany przez firmy, przez co jego cena spadnie. Projekt takiej sprzedaży oparty jest o zasady rynku reklamy. Firma płaci za umieszczenie nazwy oraz logo na produkcie. Znalazł już pierwszą firmę, która dotuje jego wypieki.
 
@@ -68,7 +60,6 @@ Piekarz Michael Tenk z Südlohn w zachodnich Niemczech chce, by jego chleb był 
  - [https://www.polsatnews.pl/wiadomosc/2022-09-25/francja-samolot-towarowy-wypadl-z-pasa-sunal-sie-do-jeziora/](https://www.polsatnews.pl/wiadomosc/2022-09-25/francja-samolot-towarowy-wypadl-z-pasa-sunal-sie-do-jeziora/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-25 08:26:00+00:00
- - tags: None
 
 Samolot towarowy linii West Atlantic podczas lądowania wypadł z pasa startowego na lotnisku w Montpellier i wpadł do jeziora Étang de l’Or. Maszyna zaryła dziobem w wodzie i zatrzymała się na brzegu.
 
@@ -76,7 +67,6 @@ Samolot towarowy linii West Atlantic podczas lądowania wypadł z pasa startoweg
  - [https://www.polsatnews.pl/wiadomosc/2022-09-25/holandia-zakatowal-zone-na-smierc-sad-orzekl-ze-ma-prawo-do-jej-spadku/](https://www.polsatnews.pl/wiadomosc/2022-09-25/holandia-zakatowal-zone-na-smierc-sad-orzekl-ze-ma-prawo-do-jej-spadku/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-25 08:18:00+00:00
- - tags: None
 
 Laurent D. tygodniami torturował swoją żonę Hetty Verink, kobieta zmarła w 2015 roku z powodu utraty krwi. Oprawca nie trafił jednak do więzienia. Teraz sąd orzekł, że D. ma prawo do części jej majątku i musi zostać uwzględniony w ugodzie spadkowej przez najbliższych krewnych ofiary.
 
@@ -84,7 +74,6 @@ Laurent D. tygodniami torturował swoją żonę Hetty Verink, kobieta zmarła w 
  - [https://www.polsatnews.pl/wiadomosc/2022-09-25/wojna-w-ukrainie-kolejny-sukces-ukrainskiej-kontrofensywy-przebita-linia-rosyjskiej-obrony/](https://www.polsatnews.pl/wiadomosc/2022-09-25/wojna-w-ukrainie-kolejny-sukces-ukrainskiej-kontrofensywy-przebita-linia-rosyjskiej-obrony/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-25 08:11:00+00:00
- - tags: None
 
 W niedzielę rano pojawiły się doniesienia o przebiciu się Ukraińców 27 km w głąb rosyjskiej obrony na północ od Łymana, miasta w północno-wschodniej części Ukrainy. Łyman został zdobyty przez Rosję w maju. Podobna techniką Ukraińcy odbili tereny w obwodzie charkowskim.
 
@@ -92,7 +81,6 @@ W niedzielę rano pojawiły się doniesienia o przebiciu się Ukraińców 27 km 
  - [https://www.polsatnews.pl/wiadomosc/2022-09-25/wojna-w-ukrainie-odessa-zaatakowana-dronami-trwa-akcja-ratunkowa/](https://www.polsatnews.pl/wiadomosc/2022-09-25/wojna-w-ukrainie-odessa-zaatakowana-dronami-trwa-akcja-ratunkowa/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-25 05:46:00+00:00
- - tags: None
 
 Odessa została zaatakowana wrogimi dronami - przekazał w niedzielę rano Serhij Bratczuk, rzecznik tamtejszych władz. - Trwa akcja ratunkowa - dodał. Na razie nie są znane szczegóły ataku. Pod ostrzałem znalazło się też Zaporoże.
 
@@ -100,7 +88,6 @@ Odessa została zaatakowana wrogimi dronami - przekazał w niedzielę rano Serhi
  - [https://www.polsatnews.pl/wiadomosc/2022-09-25/wlochy-trwaja-wybory-parlamentarne-prawica-prowadzila-w-sondazach/](https://www.polsatnews.pl/wiadomosc/2022-09-25/wlochy-trwaja-wybory-parlamentarne-prawica-prowadzila-w-sondazach/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-25 05:17:00+00:00
- - tags: None
 
 O 7 rano otwarte zostały lokale wyborcze w całych Włoszech, tym samym rozpoczęły się wybory parlamentarne. Uprawnionych do głosowania jest 51 milionów Włochów, którzy według ostatnich sondaży skłonni są poprzeć skrajną prawicę.
 
@@ -108,7 +95,6 @@ O 7 rano otwarte zostały lokale wyborcze w całych Włoszech, tym samym rozpocz
  - [https://www.polsatnews.pl/wiadomosc/2022-09-25/wojna-w-ukrainie-rosyjskie-grozby-nuklearne-rosja-deklaruje-gotowosc-do-pogwalcenia-doktryny/](https://www.polsatnews.pl/wiadomosc/2022-09-25/wojna-w-ukrainie-rosyjskie-grozby-nuklearne-rosja-deklaruje-gotowosc-do-pogwalcenia-doktryny/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-25 04:27:00+00:00
- - tags: None
 
 Szantaż nuklearny, to nie jest to już kwestia Ukrainy, jest to kwestia bardziej globalna - ocenił w sobotę doradca prezydenta Ukrainy Mychajło Podolak, cytowany przez agencję Ukrinform.
 
@@ -116,6 +102,5 @@ Szantaż nuklearny, to nie jest to już kwestia Ukrainy, jest to kwestia bardzie
  - [https://www.polsatnews.pl/wiadomosc/2022-09-25/wojna-w-ukrainie-izrael-odmawia-pomocy-militarnej-ukrainie-zelenski-jestem-w-szoku/](https://www.polsatnews.pl/wiadomosc/2022-09-25/wojna-w-ukrainie-izrael-odmawia-pomocy-militarnej-ukrainie-zelenski-jestem-w-szoku/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-25 04:09:00+00:00
- - tags: None
 
 Ukraiński prezydent Wołodymyr Zełenski, przekazał, że jest w szoku po tym jak Izrael poinformował, że nie wyśle do Kijowa wsparcia militarnego w postaci systemów antyrakietowych. Prośby o pomoc Ukraina wystosowała w lutym.

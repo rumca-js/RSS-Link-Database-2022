@@ -1,10 +1,9 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml
+# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
 
 ## Niemcy. Rozbił się mały samolot. Nie żyje główny inspektor policji
  - [https://www.polsatnews.pl/wiadomosc/2022-09-12/niemcy-rozbil-sie-maly-samolot-nie-zyje-glowny-inspektor-policji/](https://www.polsatnews.pl/wiadomosc/2022-09-12/niemcy-rozbil-sie-maly-samolot-nie-zyje-glowny-inspektor-policji/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-12 19:45:00+00:00
- - tags: None
 
 Komenda policji w Monachium opłakuje stratę kolegi - poinformował portal dziennika Bild. Główny inspektor policji zginął w katastrofie samolotu, który sam pilotował. Przyczyny wypadku nie są znane.
 
@@ -12,7 +11,6 @@ Komenda policji w Monachium opłakuje stratę kolegi - poinformował portal dzie
  - [https://www.polsatnews.pl/wiadomosc/2022-09-12/wojna-w-ukrainie-rosjanie-chca-by-piloci-sami-naprawiali-samoloty/](https://www.polsatnews.pl/wiadomosc/2022-09-12/wojna-w-ukrainie-rosjanie-chca-by-piloci-sami-naprawiali-samoloty/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-12 18:58:00+00:00
- - tags: None
 
 Wraz z Ministerstwem Transportu musimy szkolić i certyfikować lotników, którzy będą jednocześnie pilotami i technikami. Sprzęt powinien zapewniać możliwość naprawy w terenie - zapowiedział Oleg Boczarow, wiceminister przemysłu Rosji na Wschodnim Forum Ekonomicznym we Władywostoku.
 
@@ -20,7 +18,6 @@ Wraz z Ministerstwem Transportu musimy szkolić i certyfikować lotników, któr
  - [https://www.polsatnews.pl/wiadomosc/2022-09-12/indie-lekarz-porzucil-samochod-w-korku-i-pobiegl-do-szpitala-na-operacje/](https://www.polsatnews.pl/wiadomosc/2022-09-12/indie-lekarz-porzucil-samochod-w-korku-i-pobiegl-do-szpitala-na-operacje/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-12 15:27:00+00:00
- - tags: None
 
 Płynny przejazd przez miasto Bengaluru w południowych Indiach, w którym mieszka ok. 8,5 mln osób, często stanowi nie lada wyzwanie. Uliczny korek zatrzymał chirurga gastroenterologa, który spieszył się na pilną operację. Dr n. med. Govind Nandakumar nie wahał się ani chwili - porzucił swoje auto i pobiegł do oddalonego o ok. trzy kilometry szpitala.
 
@@ -28,7 +25,6 @@ Płynny przejazd przez miasto Bengaluru w południowych Indiach, w którym miesz
  - [https://www.polsatnews.pl/wiadomosc/2022-09-12/usa-tragedia-na-coney-island-utonelo-troje-dzieci/](https://www.polsatnews.pl/wiadomosc/2022-09-12/usa-tragedia-na-coney-island-utonelo-troje-dzieci/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-12 15:20:00+00:00
- - tags: None
 
 Troje małych dzieci, w tym niemowlę, zmarło po tym, jak znaleziono je nieprzytomne na plaży Coney Island w poniedziałek rano. Matka dzieci przebywa w areszcie. Wcześniej krewny zadzwonił na policję, wyrażając obawy, że matka mogła skrzywdzić dzieci.
 
@@ -36,7 +32,6 @@ Troje małych dzieci, w tym niemowlę, zmarło po tym, jak znaleziono je nieprzy
  - [https://www.polsatnews.pl/wiadomosc/2022-09-12/bialorus-kolejny-polski-cmentarz-zolnierzy-armii-krajowej-zniszczony/](https://www.polsatnews.pl/wiadomosc/2022-09-12/bialorus-kolejny-polski-cmentarz-zolnierzy-armii-krajowej-zniszczony/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-12 15:13:00+00:00
- - tags: None
 
 Na Białorusi zdewastowano kolejny polski cmentarz. Tym razem władze sprofanowały mogiły czterech żołnierzy Armii Krajowej niedaleko Grodna - przekazał Związek Polaków na Białorusi.
 
@@ -44,7 +39,6 @@ Na Białorusi zdewastowano kolejny polski cmentarz. Tym razem władze sprofanowa
  - [https://www.polsatnews.pl/wiadomosc/2022-09-12/pogrzeb-krolowej-elzbiety-ii-swiatowi-przywodcy-beda-musieli-przestrzegac-rygorystycznych-zasad/](https://www.polsatnews.pl/wiadomosc/2022-09-12/pogrzeb-krolowej-elzbiety-ii-swiatowi-przywodcy-beda-musieli-przestrzegac-rygorystycznych-zasad/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-12 14:19:00+00:00
- - tags: None
 
 Światowi przywódcy, którzy wybierają się na pogrzeb królowej Elżbiety II, będą musieli dostosować się do rygorystycznych procedur zatwierdzonych przez rządowe Biuro Spraw Zagranicznych, Wspólnoty Narodów i Rozwoju. Zakładają one m.in. zakaz korzystania z prywatnych samolotów i limuzyn. Goście z zagranicy zostaną dowiezieni do Opactwa Westminsterskiego autokarami.
 
@@ -52,7 +46,6 @@ Na Białorusi zdewastowano kolejny polski cmentarz. Tym razem władze sprofanowa
  - [https://www.polsatnews.pl/wiadomosc/2022-09-12/australia-77-latek-trzymal-w-domu-kangura-zwierze-go-zaatakowalo/](https://www.polsatnews.pl/wiadomosc/2022-09-12/australia-77-latek-trzymal-w-domu-kangura-zwierze-go-zaatakowalo/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-12 13:42:00+00:00
- - tags: None
 
 77-letni mężczyzna z Australii Zachodniej zginął po ataku dzikiego kangura, trzymanego jako zwierzę domowe. Stworzenie zostało zastrzelone.
 
@@ -60,7 +53,6 @@ Na Białorusi zdewastowano kolejny polski cmentarz. Tym razem władze sprofanowa
  - [https://www.polsatnews.pl/wiadomosc/2022-09-12/czarnogora-krajowe-systemy-informatyczne-atakowane-przez-hakerow/](https://www.polsatnews.pl/wiadomosc/2022-09-12/czarnogora-krajowe-systemy-informatyczne-atakowane-przez-hakerow/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-12 13:29:00+00:00
- - tags: None
 
 Systemy informatyczne Czarnogóry od trzech tygodni są ofiarami ataków ze strony niezidentyfikowanych aktualnie hakerów. Włamania zanotowano między innymi w systemach komputerowych tamtejszego rządu, w tym w Ministerstwie Obrony.
 
@@ -68,7 +60,6 @@ Systemy informatyczne Czarnogóry od trzech tygodni są ofiarami ataków ze stro
  - [https://www.polsatnews.pl/wiadomosc/2022-09-12/ukrainska-kontrofensywa-w-obwodzie-charkowskim-w-charkowie-udalo-sie-przywrocic-prad/](https://www.polsatnews.pl/wiadomosc/2022-09-12/ukrainska-kontrofensywa-w-obwodzie-charkowskim-w-charkowie-udalo-sie-przywrocic-prad/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-12 13:10:00+00:00
- - tags: None
 
 Rosjanie ponownie ostrzelali Charków i okolice. - Celem były kluczowe obiekty infrastruktury - poinformował mer Charkowa Ihor Terechow. - W mieście ponownie jest prąd - przekazał korespondent Polsat News Mateusz Lachowski. Rosjanie w pośpiechu wycofują się z obwodu charkowskiego, pozostawiając za sobą sprzęt wojskowy.
 
@@ -76,7 +67,6 @@ Rosjanie ponownie ostrzelali Charków i okolice. - Celem były kluczowe obiekty 
  - [https://www.polsatnews.pl/wiadomosc/2022-09-12/pozegnanie-krolowej-elzbiety-ii-w-westminster-kolejki-na-30-godzin-scisle-kontrole-bagazu/](https://www.polsatnews.pl/wiadomosc/2022-09-12/pozegnanie-krolowej-elzbiety-ii-w-westminster-kolejki-na-30-godzin-scisle-kontrole-bagazu/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-12 11:44:00+00:00
- - tags: None
 
 Brytyjski rząd wydał wytyczne dotyczące zasad odwiedzin Westminster Hall, gdzie umieszczona zostanie trumna królowej Elżbiety II. Służby spodziewają się dużych kolejek.
 
@@ -84,7 +74,6 @@ Brytyjski rząd wydał wytyczne dotyczące zasad odwiedzin Westminster Hall, gdz
  - [https://www.polsatnews.pl/wiadomosc/2022-09-12/wielka-brytania-corgi-krolowej-elzbiety-ii-trafia-do-nowych-wlascicieli/](https://www.polsatnews.pl/wiadomosc/2022-09-12/wielka-brytania-corgi-krolowej-elzbiety-ii-trafia-do-nowych-wlascicieli/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-12 11:15:00+00:00
- - tags: None
 
 Syn zmarłej królowej Elżbiety II, książę Andrzej oraz jego była żona Sarah Ferguson zaopiekują się psami rasy corgi należącymi do królowej. Psy towarzyszyły monarchini przez całej jej życie i panowanie.
 
@@ -92,7 +81,6 @@ Syn zmarłej królowej Elżbiety II, książę Andrzej oraz jego była żona Sar
  - [https://www.polsatnews.pl/wiadomosc/2022-09-12/rosja-dmitrij-miedwiediew-kpi-ze-slow-zelenskiego-to-dziecinna-rozgrzewka/](https://www.polsatnews.pl/wiadomosc/2022-09-12/rosja-dmitrij-miedwiediew-kpi-ze-slow-zelenskiego-to-dziecinna-rozgrzewka/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-12 11:04:00+00:00
- - tags: None
 
 Ukraińska armia potwierdziła w poniedziałek dojście do granicy państwa w obwodzie charkowskim. Rosjanie wycofują się ze swoich pozycji, a niepowodzenia na froncie skrytykował Ramzan Kadyrow. Sytuacja na froncie nie przeszkodziła jednak Dmitrijowi Miedwiediewowi w zamieszczeniu kolejnego propagandowego wpisu. Tym razem napisał o ultimatum dla Ukrainy.
 
@@ -100,7 +88,6 @@ Ukraińska armia potwierdziła w poniedziałek dojście do granicy państwa w ob
  - [https://www.polsatnews.pl/wiadomosc/2022-09-12/rosyjska-propaganda-ukrywa-ofensywe-ukrainy-twierdzi-ze-to-wojska-nato/](https://www.polsatnews.pl/wiadomosc/2022-09-12/rosyjska-propaganda-ukrywa-ofensywe-ukrainy-twierdzi-ze-to-wojska-nato/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-12 10:49:00+00:00
- - tags: None
 
 W mieście praktycznie nie ma ukraińskich nazistów. Jest wielu czarnoskórych i anglojęzycznych - głoszą prokremlowskie media. Propagandowe rosyjskie kanały próbują w ten sposób wytłumaczyć swoją porażkę na froncie.
 
@@ -108,7 +95,6 @@ W mieście praktycznie nie ma ukraińskich nazistów. Jest wielu czarnoskórych 
  - [https://www.polsatnews.pl/wiadomosc/2022-09-12/wielka-brytania-antigua-i-barbuda-zapowiada-referendum-ws-ustanowienia-republiki/](https://www.polsatnews.pl/wiadomosc/2022-09-12/wielka-brytania-antigua-i-barbuda-zapowiada-referendum-ws-ustanowienia-republiki/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-12 09:49:00+00:00
- - tags: None
 
 Referendum w sprawie przekształcenia ustroju państwa z monarchii w republikę zapowiedział premier wysp Antigua i Barbuda wchodzących w skład Wspólnoty Narodów, czyli krajów, których formalnym władcą pozostaje król Wielkiej Brytanii.
 
@@ -116,7 +102,6 @@ Referendum w sprawie przekształcenia ustroju państwa z monarchii w republikę 
  - [https://www.polsatnews.pl/wiadomosc/2022-09-12/otwarta-krytyka-wojny-w-rosyjskiej-telewizji-polityk-ostrzezony-na-wizji/](https://www.polsatnews.pl/wiadomosc/2022-09-12/otwarta-krytyka-wojny-w-rosyjskiej-telewizji-polityk-ostrzezony-na-wizji/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-12 09:32:00+00:00
- - tags: None
 
 Eksperci w rosyjskiej telewizji zdali sobie sprawę, że ich wojsko zawodzi, a ich kraj jest w tarapatach. Zaczynają grać w grę zwaną obwinianiem - napisała w mediach społecznościowych dziennikarka Julia Davis. Opublikowała fragment programu, podczas którego propagandyści sugerują rozpoczęcie rozmów pokojowych.
 
@@ -124,7 +109,6 @@ Eksperci w rosyjskiej telewizji zdali sobie sprawę, że ich wojsko zawodzi, a i
  - [https://www.polsatnews.pl/wiadomosc/2022-09-12/wojna-w-ukrainie-kontrofensywa-na-wschodzie-szokujaca-skala-porazki-rosjan/](https://www.polsatnews.pl/wiadomosc/2022-09-12/wojna-w-ukrainie-kontrofensywa-na-wschodzie-szokujaca-skala-porazki-rosjan/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-12 07:39:00+00:00
- - tags: None
 
 Skala porażki jest szokująca zarówno dla dowódców, jak i przywództwa politycznego. Widać, że Putin i dowódcy nie mają zbyt wielu opcji - ocenił w Polsat News w programie Dzień na Świecie dr Wojciech Lorenz z Polskiego Instytutu Spraw Międzynarodowych.
 
@@ -132,7 +116,6 @@ Skala porażki jest szokująca zarówno dla dowódców, jak i przywództwa polit
  - [https://www.polsatnews.pl/wiadomosc/2022-09-12/putin-przygotowuje-nowy-etap-wojny-dal-oligarchom-specjalne-zadanie/](https://www.polsatnews.pl/wiadomosc/2022-09-12/putin-przygotowuje-nowy-etap-wojny-dal-oligarchom-specjalne-zadanie/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-12 07:19:00+00:00
- - tags: None
 
 Rosyjski przywódca przygotowuje się do nowego etapu wojny w październiku - twierdzi Christo Grozew, dziennikarz śledczy grupy Bellingcat. Źródło blisko Kremla twierdzi, że Władimir Putin ma plan na wyjście z sytuacji.
 
@@ -140,6 +123,5 @@ Rosyjski przywódca przygotowuje się do nowego etapu wojny w październiku - tw
  - [https://www.polsatnews.pl/wiadomosc/2022-09-12/wojna-w-ukrainie-zelenski-reaguje-na-ostrzal-ukrainy-ma-komunikat-do-rosjan/](https://www.polsatnews.pl/wiadomosc/2022-09-12/wojna-w-ukrainie-zelenski-reaguje-na-ostrzal-ukrainy-ma-komunikat-do-rosjan/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-12 04:17:00+00:00
- - tags: None
 
 - Nadal uważasz, że możesz nas przestraszyć, złamać, sprawić, że pójdziemy na ustępstwa? Naprawdę nic nie zrozumiałeś, prawda? Nie zdajesz sobie sprawy, kim jesteśmy - Wołodymyr Zełenski zwrócił się do Rosjan, reagując na potężny niedzielny ostrzał obwodu charkowskiego. W swoim przemówieniu podsumował też 200 dzień inwazji na swój kraj.

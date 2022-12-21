@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## Google is canceling projects left and right in attempt to be more efficient
  - [https://www.androidauthority.com/google-cancels-its-projects-3208863/](https://www.androidauthority.com/google-cancels-its-projects-3208863/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-14 21:08:14+00:00
- - tags: None
 
 Google has slashed its research and development projects within Area 120 by half.
 
@@ -12,7 +11,6 @@ Google has slashed its research and development projects within Area 120 by half
  - [https://www.androidauthority.com/transfer-photos-android-windows-pc-3160952/](https://www.androidauthority.com/transfer-photos-android-windows-pc-3160952/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-14 19:28:14+00:00
- - tags: None
 
 Back up your pictures, so you never lose them.
 
@@ -20,7 +18,6 @@ Back up your pictures, so you never lose them.
  - [https://www.androidauthority.com/did-your-phone-come-with-a-charger-3208819/](https://www.androidauthority.com/did-your-phone-come-with-a-charger-3208819/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-14 18:45:42+00:00
- - tags: None
 
 Many phones don't come with a charger anymore, but did yours?
 
@@ -28,7 +25,6 @@ Many phones don't come with a charger anymore, but did yours?
  - [https://www.androidauthority.com/create-event-facebook-3139644/](https://www.androidauthority.com/create-event-facebook-3139644/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-14 18:14:27+00:00
- - tags: None
 
 Gather round, congregate, or assemble your forces on Facebook.
 
@@ -36,7 +32,6 @@ Gather round, congregate, or assemble your forces on Facebook.
  - [https://www.androidauthority.com/google-photos-collage-editor-3208187/](https://www.androidauthority.com/google-photos-collage-editor-3208187/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-14 16:30:23+00:00
- - tags: None
 
 The new Google Photos update will redesign Memories and bring a few new features.
 
@@ -44,7 +39,6 @@ The new Google Photos update will redesign Memories and bring a few new features
  - [https://www.androidauthority.com/google-eu-antitrust-fine-3208712/](https://www.androidauthority.com/google-eu-antitrust-fine-3208712/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-14 16:05:17+00:00
- - tags: None
 
 EU judges reduced the original €4.3 billion antitrust fine to €4.1 billion.
 
@@ -52,7 +46,6 @@ EU judges reduced the original €4.3 billion antitrust fine to €4.1 billion.
  - [https://www.androidauthority.com/best-cheap-surface-pro-deals-1112075/](https://www.androidauthority.com/best-cheap-surface-pro-deals-1112075/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-14 15:00:16+00:00
- - tags: None
 
 This $300 price drop on the latest Surface Laptop brings it to within $10 of its lowest price ever.
 
@@ -60,7 +53,6 @@ This $300 price drop on the latest Surface Laptop brings it to within $10 of its
  - [https://www.androidauthority.com/wallpaper-wednesday-sep-14-2022-3207711/](https://www.androidauthority.com/wallpaper-wednesday-sep-14-2022-3207711/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-14 13:30:16+00:00
- - tags: None
 
 Here is a weekly selection of Android wallpapers created by our readers and members of the Android Authority team!
 
@@ -68,7 +60,6 @@ Here is a weekly selection of Android wallpapers created by our readers and memb
  - [https://www.androidauthority.com/turn-off-autoplay-netflix-3142800/](https://www.androidauthority.com/turn-off-autoplay-netflix-3142800/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-14 13:14:57+00:00
- - tags: None
 
 Take control of your viewing time in two simple steps.
 
@@ -76,7 +67,6 @@ Take control of your viewing time in two simple steps.
  - [https://www.androidauthority.com/block-someone-ebay-3151125/](https://www.androidauthority.com/block-someone-ebay-3151125/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-14 13:14:06+00:00
- - tags: None
 
 Put a stop to any problematic buyers in a few easy steps.
 
@@ -84,7 +74,6 @@ Put a stop to any problematic buyers in a few easy steps.
  - [https://www.androidauthority.com/best-sonos-deals-1116144/](https://www.androidauthority.com/best-sonos-deals-1116144/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-14 12:39:07+00:00
- - tags: None
 
 If you're looking for new audio and you have the budget, Sonos is a top option.
 
@@ -92,7 +81,6 @@ If you're looking for new audio and you have the budget, Sonos is a top option.
  - [https://www.androidauthority.com/dynamic-island-android-phones-poll-results-3208628/](https://www.androidauthority.com/dynamic-island-android-phones-poll-results-3208628/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-14 09:27:20+00:00
- - tags: None
 
 There isn't a runaway leader in this poll.
 
@@ -100,7 +88,6 @@ There isn't a runaway leader in this poll.
  - [https://www.androidauthority.com/daily-authority-september-14-2022-3208594/](https://www.androidauthority.com/daily-authority-september-14-2022-3208594/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-14 08:46:52+00:00
- - tags: None
 
 A commentary on Tim Cook's recent remarks about RCS support on iPhones, and more tech news you need to read.
 
@@ -108,7 +95,6 @@ A commentary on Tim Cook's recent remarks about RCS support on iPhones, and more
  - [https://www.androidauthority.com/small-google-pixel-flagship-phone-leak-3208600/](https://www.androidauthority.com/small-google-pixel-flagship-phone-leak-3208600/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-14 08:12:04+00:00
- - tags: None
 
 Is the Pixel 6 too big for you? Then you'd better hope that this leak turns out to be true.
 
@@ -116,6 +102,5 @@ Is the Pixel 6 too big for you? Then you'd better hope that this leak turns out 
  - [https://www.androidauthority.com/nothing-phone-1-sales-3208052/](https://www.androidauthority.com/nothing-phone-1-sales-3208052/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-14 06:09:37+00:00
- - tags: None
 
 The Phone 1 has crossed 100,000 units in India, but there's no word on global performance.

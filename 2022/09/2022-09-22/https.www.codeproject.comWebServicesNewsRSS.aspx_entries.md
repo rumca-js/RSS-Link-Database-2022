@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## .NET MAUI in .NET 7 Release Candidate 1
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58957](https://www.codeproject.com/script/News/View.aspx?nwid=58957)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-22 04:00:00+00:00
- - tags: None
 
 This includes the foundational SDKs .NET for Android, iOS, Mac Catalyst, and macOS.
 
@@ -12,7 +11,6 @@ This includes the foundational SDKs .NET for Android, iOS, Mac Catalyst, and mac
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58961](https://www.codeproject.com/script/News/View.aspx?nwid=58961)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-22 04:00:00+00:00
- - tags: None
 
 The Android Studio team took a deep dive into making it easier to make high quality apps with the latest stable release of Android Studio Dolphin ??(2021.3.1).
 
@@ -20,7 +18,6 @@ The Android Studio team took a deep dive into making it easier to make high qual
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58972](https://www.codeproject.com/script/News/View.aspx?nwid=58972)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-22 04:00:00+00:00
- - tags: None
 
 Still plenty of time for you to add your 'i' to the 'AI'
 
@@ -28,7 +25,6 @@ Still plenty of time for you to add your 'i' to the 'AI'
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58971](https://www.codeproject.com/script/News/View.aspx?nwid=58971)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-22 04:00:00+00:00
- - tags: None
 
 It must be three times better than regular web development, right?
 
@@ -36,7 +32,6 @@ It must be three times better than regular web development, right?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58967](https://www.codeproject.com/script/News/View.aspx?nwid=58967)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-22 04:00:00+00:00
- - tags: None
 
 Pics and it didn't happen
 
@@ -44,7 +39,6 @@ Pics and it didn't happen
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58966](https://www.codeproject.com/script/News/View.aspx?nwid=58966)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-22 04:00:00+00:00
- - tags: None
 
 
 
@@ -52,7 +46,6 @@ Pics and it didn't happen
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58965](https://www.codeproject.com/script/News/View.aspx?nwid=58965)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-22 04:00:00+00:00
- - tags: None
 
 Fuhgeddaboudit
 
@@ -60,7 +53,6 @@ Fuhgeddaboudit
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58964](https://www.codeproject.com/script/News/View.aspx?nwid=58964)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-22 04:00:00+00:00
- - tags: None
 
 Google is trying to make authentication easier and safer for developers by introducing new features to the Google Identity Services (GIS) library.
 
@@ -68,7 +60,6 @@ Google is trying to make authentication easier and safer for developers by intro
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58955](https://www.codeproject.com/script/News/View.aspx?nwid=58955)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-22 04:00:00+00:00
- - tags: None
 
 Accessibility in Android can relate to many different aspects of your apps, ranging from content descriptions and color contrast to layout hierarchy and touch target size. Regardless of where you start, know that improving accessibility will ensure better experiences for all users!
 
@@ -76,7 +67,6 @@ Accessibility in Android can relate to many different aspects of your apps, rang
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58963](https://www.codeproject.com/script/News/View.aspx?nwid=58963)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-22 04:00:00+00:00
- - tags: None
 
 "Hush hush, keep it down now, voices carry"
 
@@ -84,7 +74,6 @@ Accessibility in Android can relate to many different aspects of your apps, rang
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58969](https://www.codeproject.com/script/News/View.aspx?nwid=58969)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-22 04:00:00+00:00
- - tags: None
 
 They're just trying to help people get work done
 
@@ -92,7 +81,6 @@ They're just trying to help people get work done
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58970](https://www.codeproject.com/script/News/View.aspx?nwid=58970)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-22 04:00:00+00:00
- - tags: None
 
 "Shop smart, shop S-Mart"
 
@@ -100,7 +88,6 @@ They're just trying to help people get work done
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58962](https://www.codeproject.com/script/News/View.aspx?nwid=58962)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-22 04:00:00+00:00
- - tags: None
 
 The Flutter team at Google currently builds and maintains support for Android Studio (which is based on IntelliJ-IDEA), and Visual Studio Code (VS Code).
 
@@ -108,7 +95,6 @@ The Flutter team at Google currently builds and maintains support for Android St
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58959](https://www.codeproject.com/script/News/View.aspx?nwid=58959)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-22 04:00:00+00:00
- - tags: None
 
 I'm assuming this is a good thing? (or at least a thing?)
 
@@ -116,7 +102,6 @@ I'm assuming this is a good thing? (or at least a thing?)
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58960](https://www.codeproject.com/script/News/View.aspx?nwid=58960)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-22 04:00:00+00:00
- - tags: None
 
 One of the best SwiftUI additions this year has to be the Layout protocol. Not only we finally get our hands in the layout process, but it is also a great opportunity to better understand how layout works in SwiftUI.
 
@@ -124,7 +109,6 @@ One of the best SwiftUI additions this year has to be the Layout protocol. Not o
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58968](https://www.codeproject.com/script/News/View.aspx?nwid=58968)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-22 04:00:00+00:00
- - tags: None
 
 Thursday is the new Friday
 
@@ -132,7 +116,6 @@ Thursday is the new Friday
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58956](https://www.codeproject.com/script/News/View.aspx?nwid=58956)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-22 04:00:00+00:00
- - tags: None
 
 In most code-bases, we still use primitives for everything.
 
@@ -140,6 +123,5 @@ In most code-bases, we still use primitives for everything.
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58958](https://www.codeproject.com/script/News/View.aspx?nwid=58958)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-22 04:00:00+00:00
- - tags: None
 
 You thought you were safe, did you?

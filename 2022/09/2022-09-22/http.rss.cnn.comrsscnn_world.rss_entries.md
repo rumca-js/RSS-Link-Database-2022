@@ -1,10 +1,9 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss
+# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
 
 ## GM stops taking reservations for Hummer EV
  - [https://www.cnn.com/2022/09/22/business/gm-hummer-ev/index.html](https://www.cnn.com/2022/09/22/business/gm-hummer-ev/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-22 21:44:59+00:00
- - tags: None
 
 There's a lot of buyer interest in the electric Hummer now being offered by Chevrolet. But there's limited capacity to build them, and now General Motors has stopped taking orders for the massive EV.
 
@@ -12,7 +11,6 @@ There's a lot of buyer interest in the electric Hummer now being offered by Chev
  - [https://www.cnn.com/travel/article/japan-reopening-border-tourists/index.html](https://www.cnn.com/travel/article/japan-reopening-border-tourists/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-22 20:46:27+00:00
- - tags: None
 
 Japan, one of the world's last major holdouts during the pandemic, is dissolving its Covid-19 restrictions and opening the door back up to mass tourism.
 
@@ -20,7 +18,6 @@ Japan, one of the world's last major holdouts during the pandemic, is dissolving
  - [https://www.cnn.com/2022/09/22/politics/isis-attempts-suicide-attack-syria/index.html](https://www.cnn.com/2022/09/22/politics/isis-attempts-suicide-attack-syria/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-22 19:01:47+00:00
- - tags: None
 
 A group of ISIS militants in two vehicles rigged with suicide explosives attempted to attack the al-Hol camp in Syria which holds around 60,000 displaced persons, according to US Central Command.
 
@@ -28,7 +25,6 @@ A group of ISIS militants in two vehicles rigged with suicide explosives attempt
  - [https://www.cnn.com/2022/09/22/economy/bank-ceos-testify-senate/index.html](https://www.cnn.com/2022/09/22/economy/bank-ceos-testify-senate/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-22 18:56:18+00:00
- - tags: None
 
 JPMorgan CEO Jamie Dimon is testifying on Capitol Hill Thursday for the second straight day. This time, he'll face longtime critic, Sen. Elizabeth Warren.
 
@@ -36,7 +32,6 @@ JPMorgan CEO Jamie Dimon is testifying on Capitol Hill Thursday for the second s
  - [https://www.cnn.com/2022/09/22/homes/housing-affordability/index.html](https://www.cnn.com/2022/09/22/homes/housing-affordability/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-22 18:43:32+00:00
- - tags: None
 
 Americans looking to buy or rent a home have had a rough year.
 
@@ -44,7 +39,6 @@ Americans looking to buy or rent a home have had a rough year.
  - [https://www.cnn.com/2022/09/22/middleeast/iran-president-ebrahim-raisi-christiane-amanpour-intl/index.html](https://www.cnn.com/2022/09/22/middleeast/iran-president-ebrahim-raisi-christiane-amanpour-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-22 15:51:23+00:00
- - tags: None
 
 Iranian President Ebrahim Raisi withdrew from a long-planned interview with CNN's chief international anchor Christiane Amanpour at the United Nations General Assembly in New York on Wednesday, after she declined a last-minute demand to wear a head scarf.
 
@@ -52,7 +46,6 @@ Iranian President Ebrahim Raisi withdrew from a long-planned interview with CNN'
  - [https://www.cnn.com/2022/09/22/homes/mortgage-rates-september-22/index.html](https://www.cnn.com/2022/09/22/homes/mortgage-rates-september-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-22 15:30:26+00:00
- - tags: None
 
 Mortgage rates jumped higher for the fifth week in a row, further pushing past 6% in the face of yet another aggressive rate hike from the Federal Reserve.
 
@@ -60,7 +53,6 @@ Mortgage rates jumped higher for the fifth week in a row, further pushing past 6
  - [https://www.cnn.com/2022/09/22/africa/suspected-ebola-cases-uganda-intl/index.html](https://www.cnn.com/2022/09/22/africa/suspected-ebola-cases-uganda-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-22 12:04:46+00:00
- - tags: None
 
 Uganda's Ministry of Health reported another 11 suspected cases of Ebola identified in the country's Mubende district as of Tuesday. Of these, the ministry recorded one probable Ebola-related death, a one-year-old, it said in a statement released Tuesday night.
 
@@ -68,7 +60,6 @@ Uganda's Ministry of Health reported another 11 suspected cases of Ebola identif
  - [https://www.cnn.com/2022/09/22/africa/buhari-term-limits-speech-intl/index.html](https://www.cnn.com/2022/09/22/africa/buhari-term-limits-speech-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-22 11:56:20+00:00
- - tags: None
 
 Nigeria's President Muhammadu Buhari on Wednesday criticized fellow leaders who extend term limits to cling to power, saying this was having a "corrosive" effect, and promised free and fair elections when the country elects his successor in February.
 
@@ -76,7 +67,6 @@ Nigeria's President Muhammadu Buhari on Wednesday criticized fellow leaders who 
  - [https://www.cnn.com/2022/09/22/opinions/giorgia-meloni-italian-election-opinion-galietti/index.html](https://www.cnn.com/2022/09/22/opinions/giorgia-meloni-italian-election-opinion-galietti/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-22 07:30:27+00:00
- - tags: None
 
 I am often asked what Giorgia Meloni -- leader of the national conservative Brothers of Italy party, and likely next prime minister of the country -- is really up to.
 
@@ -84,7 +74,6 @@ I am often asked what Giorgia Meloni -- leader of the national conservative Brot
  - [https://www.cnn.com/2022/09/22/business/hldi-hyundai-kia-theft/index.html](https://www.cnn.com/2022/09/22/business/hldi-hyundai-kia-theft/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-22 04:10:08+00:00
- - tags: None
 
 Stealing older model Hyundai and Kia cars and SUVs became a scary social media trend. Now, data from the Highway Loss Data Institute, which collects information on insurance claims, confirm these South Korean models are far more likely to get stolen than others.
 
@@ -92,6 +81,5 @@ Stealing older model Hyundai and Kia cars and SUVs became a scary social media t
  - [https://www.cnn.com/2022/09/21/world/tasmania-australia-mass-whale-stranding-deaths-intl-hnk/index.html](https://www.cnn.com/2022/09/21/world/tasmania-australia-mass-whale-stranding-deaths-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-22 03:02:02+00:00
- - tags: None
 
 Around 200 whales have died and just 35 remain alive following a mass stranding in Australia this week, rescue teams say.

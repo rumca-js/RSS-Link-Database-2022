@@ -1,10 +1,9 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup
+# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
 
 ## Disney Dreamlight Valley - How To Unlock All Characters
  - [https://www.gamespot.com/articles/disney-dreamlight-valley-how-to-unlock-all-characters/1100-6507527/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/disney-dreamlight-valley-how-to-unlock-all-characters/1100-6507527/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 23:15:00+00:00
- - tags: None
 
 <p>One of the appeals of <a href="https://www.gamespot.com/games/disney-dreamlight-valley/">Disney Dreamlight Valley</a> is getting to live in the same village as a bunch of Disney and Pixar characters. However, early on in the game there are only a handful of characters living in the Valley. In order to populate the Valley with all of the Disney characters you will need to complete a variety of quests and tasks to bring them back. Here's how to unlock all characters currently in Disney Dreamlig
 
@@ -12,7 +11,6 @@
  - [https://www.gamespot.com/videos/god-of-war-ragnarok-gets-a-story-trailer-dualsense-controller-gamespot-news/2300-6459541/](https://www.gamespot.com/videos/god-of-war-ragnarok-gets-a-story-trailer-dualsense-controller-gamespot-news/2300-6459541/)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 22:55:00+00:00
- - tags: None
 
 <img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4035652-20220914_godofwarragnarokstory_newsv4.jpg" width="480" /> A new trailer and controller for God of War Ragnarök, hands-on with PSVR2 and a bunch of new Yakuza/Like a Dragon games.
 
@@ -20,7 +18,6 @@
  - [https://www.gamespot.com/articles/second-cod-warzone-mobile-leak-provides-further-evidence-verdansk-map-may-return/1100-6507526/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/second-cod-warzone-mobile-leak-provides-further-evidence-verdansk-map-may-return/1100-6507526/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 21:18:00+00:00
- - tags: None
 
 <p>Another leak for Call of Duty: Warzone Mobile points to the return of Verdansk, having up to 120 player lobbies, and shared battle pass progression with Modern Warfare II. While this information had been previously leaked, a second source provides further evidence that Verdansk could be returning for Warzone Mobile.</p><p dir="ltr">As reported by <a href="https://twitter.com/LeakersOnWZM/status/1570107638104592384">Leakers On Duty</a>, some people have been able to access the Warzone Mobile s
 
@@ -28,7 +25,6 @@
  - [https://www.gamespot.com/articles/modern-warfare-2-beta-settings-menu-reportedly-mentions-third-person/1100-6507524/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/modern-warfare-2-beta-settings-menu-reportedly-mentions-third-person/1100-6507524/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 20:36:00+00:00
- - tags: None
 
 <p>The settings in the <a href="https://www.gamespot.com/games/call-of-duty-modern-warfare-ii/">Call of Duty: Modern Warfare 2</a> beta on PS5 reportedly contains an option that refers to a third-person mode. The settings reportedly contain a separate FOV slider for third-person mode, suggesting that the game might have third-person game modes.</p><p dir="ltr">As reported by <a href="https://twitter.com/charlieINTEL/status/1570103611908030469">CharlieIntel</a>, the Modern Warfare 2 beta includes
 
@@ -36,7 +32,6 @@
  - [https://www.gamespot.com/articles/call-of-duty-modern-warfare-2-new-gunsmith-2-0-revealed/1100-6507523/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/call-of-duty-modern-warfare-2-new-gunsmith-2-0-revealed/1100-6507523/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 20:19:00+00:00
- - tags: None
 
 <p dir="ltr">Infinity Ward is set to reveal <a href="https://www.gamespot.com/games/call-of-duty-modern-warfare-ii/">Modern Warfare 2</a>'s multiplayer during the <a href="https://www.gamespot.com/articles/how-to-watch-the-call-of-duty-next-reveal-event/1100-6507236/">Call of Duty Next event on September 15</a>, but Activision has shared a new video to explain the changes coming to Call of Duty's Gunsmith feature this year.</p><p dir="ltr">Originally introduced in Modern Warfare 2019, Call of Du
 
@@ -44,7 +39,6 @@
  - [https://www.gamespot.com/articles/why-cobra-kai-waited-until-seasons-5-to-break-out-daniels-iconic-move/1100-6507522/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/why-cobra-kai-waited-until-seasons-5-to-break-out-daniels-iconic-move/1100-6507522/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 20:05:00+00:00
- - tags: None
 
 <p dir="ltr">The first four seasons of Cobra Kai have paid tribute to the trilogy of Karate Kid films in a number of ways, from a long list of characters entering the picture once again, to locations, storylines, and even props. One particular nod to the franchise that started it all was notably missing, though, until now.</p><p dir="ltr"><strong>Warning: The following contains spoilers for the Season 5 finale of Cobra Kai. If you haven't watched it yet, turn away now.</strong></p><p dir="ltr">I
 
@@ -52,7 +46,6 @@
  - [https://www.gamespot.com/articles/destiny-2-treasure-beacon-guide-how-to-solve-the-cryptic-quatrains-pirate-riddle/1100-6506917/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/destiny-2-treasure-beacon-guide-how-to-solve-the-cryptic-quatrains-pirate-riddle/1100-6506917/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 19:50:00+00:00
- - tags: None
 
 <p dir="ltr"><a href="https://www.gamespot.com/games/destiny-2/">Destiny 2</a>'s <a href="https://www.gamespot.com/articles/destiny-2-season-of-plunder-guides-season-pass-gear-exotics/1100-6506718/">Season of Plunder</a> features a new style of quest that involves solving pirate riddles to hunt down buried treasure. You'll need to rank up the Star Chart seasonal vendor a fair bit before you begin getting into these, but once you do, you'll receive a Small Treasure Beacon, which kicks off a quest
 
@@ -60,7 +53,6 @@
  - [https://www.gamespot.com/articles/four-ways-you-can-make-steam-better-right-now/1100-6507521/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/four-ways-you-can-make-steam-better-right-now/1100-6507521/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 19:48:00+00:00
- - tags: None
 
 <p dir="ltr">If you're a PC gamer, you've probably enjoyed the chaotic scramble of Steam sales, or scrolling through your recommendations in search of your next favorite game. However, while most of us appreciate Steam--or at least tolerate it, given that it's an unavoidable part of the PC gaming landscape--Valve's venerable storefront can often seem a bit clunky compared to the more modern interfaces we use in our daily lives.</p><p dir="ltr">Though you can't fully erase Steam's peculiarities, 
 
@@ -68,7 +60,6 @@
  - [https://www.gamespot.com/articles/wow-cataclysm-classic-survey-from-blizzard-is-asking-fans-what-they-want-changed/1100-6507520/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/wow-cataclysm-classic-survey-from-blizzard-is-asking-fans-what-they-want-changed/1100-6507520/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 19:36:00+00:00
- - tags: None
 
 <p><a href="https://www.gamespot.com/games/world-of-warcraft/">World of Warcraft Classic</a>, which started with the "vanilla" version of Blizzard's MMO in 2019 and has progressed to the upcoming Wrath of the Lich King expansion, could continue on to the Cataclysm version of the game in the future, with a new Blizzard survey explicitly asking players for their thoughts and opinions on what they like and dislike about the game's 2010 expansion.</p><p dir="ltr">As reported by <a href="https://www.
 
@@ -76,7 +67,6 @@
  - [https://www.gamespot.com/articles/what-everything-in-the-zelda-tears-of-the-kingdoms-new-trailer-means-maybe/1100-6507519/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/what-everything-in-the-zelda-tears-of-the-kingdoms-new-trailer-means-maybe/1100-6507519/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 19:33:00+00:00
- - tags: None
 
 <p>Nintendo dropped a new trailer for next Zelda game, which included its finalized title and a release date. The Legend of Zelda: Tears of the Kingdom is coming on May 12, 2023. But like any good trailer, it also gave fans plenty of fodder for hidden secrets and theories. We're here to break them all down for you.</p><p>To start, the stone carvings that make up the bulk of the trailer are littered with lore references. One of the creatures appears to be a Zonai, a prehistoric tribe that was ref
 
@@ -84,7 +74,6 @@
  - [https://www.gamespot.com/articles/xbox-game-pass-adding-valheim-walking-dead-turnip-boy-2-and-8-more-games/1100-6507495/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/xbox-game-pass-adding-valheim-walking-dead-turnip-boy-2-and-8-more-games/1100-6507495/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 19:07:00+00:00
- - tags: None
 
 <p>Xbox's fall ID@Xbox showcase detailed a ton of games coming to the platform, many of which are slated for release through its Game Pass subscription service. In total, eleven games are coming to Xbox Game Pass, including two that you can play immediately.</p><p>For instant gratification you can go ahead and download <strong>Amazing Cultivation Simulator</strong> and <strong>You Suck at Parking</strong> right now. Cultivation Simulator is a strategy and management sim based on Chinese mytholog
 
@@ -92,7 +81,6 @@
  - [https://www.gamespot.com/articles/how-to-get-a-cod-modern-warfare-2-beta-code-with-xfinity/1100-6507516/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/how-to-get-a-cod-modern-warfare-2-beta-code-with-xfinity/1100-6507516/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 19:04:00+00:00
- - tags: None
 
 <p>Early access to the <a href="https://www.gamespot.com/games/call-of-duty-modern-warfare-ii/">Call of Duty: Modern Warfare II</a> beta is kicking off for PlayStation players on September 16, while the open beta will become available to everyone on PlayStation and other platforms to follow throughout the next week. If you're wanting to jump in during the early access period but don't necessarily want to pre-order the game, you have another option--<a href="https://www.gamespot.com/articles/call
 
@@ -100,7 +88,6 @@
  - [https://www.gamespot.com/articles/netflix-cutting-30-jobs-at-animation-department/1100-6507515/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/netflix-cutting-30-jobs-at-animation-department/1100-6507515/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 19:03:00+00:00
- - tags: None
 
 <p>Netflix is cutting more jobs as part of a wider "streamlining" at the company's animation division. <a href="https://deadline.com/2022/09/netflix-animation-layoff-30-staffers-overhaul-continues-1235118700/">Deadline</a> reports that Netflix is laying off 30 people as part of this round of cuts; Netflix confirmed the job cuts to the site.</p><p>The layoffs represent the first big move from Netflix's new animation leaders, Karen Toliver and Traci Balthazor, who were reportedly asked to streamli
 
@@ -108,7 +95,6 @@
  - [https://www.gamespot.com/articles/warframes-prime-resurgence-is-coming-back-permanently-and-with-welcome-changes/1100-6507510/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/warframes-prime-resurgence-is-coming-back-permanently-and-with-welcome-changes/1100-6507510/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 18:51:00+00:00
- - tags: None
 
 <p dir="ltr">Warframe is approaching its 10-year anniversary as a live-service game, and it continues to evolve in numerous ways. With new weapons, Warframes, and quality-of-life changes, Digital Extremes has continued to focus on community requests to aid in bringing about an ever-changing, but a flourishing experience for players while providing more options for newer players to earn Warframes, weapons, and accessories without spending real-world currency. We spoke with Warframe community dire
 
@@ -116,7 +102,6 @@
  - [https://www.gamespot.com/articles/weird-west-update-1-04-adds-alternative-aiming-and-permadeath/1100-6507518/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/weird-west-update-1-04-adds-alternative-aiming-and-permadeath/1100-6507518/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 18:44:00+00:00
- - tags: None
 
 <p>Weird West's latest patch released on September 12, 2022 and adding an alternate aiming system, a permadeath mode, and some smaller fixes and additions.</p><p>The alternative aiming mode is an experimental feature, which can be toggled on and off in the options at any time. Though the default aiming works in a classic twin-stick shooter model, in this mode the camera controls are preserved while aiming.</p><p>Permadeath comes to Weird West in Nimpossible mode. In this mode, you cannot manuall
 
@@ -124,7 +109,6 @@
  - [https://www.gamespot.com/gallery/the-best-nintendo-switch-deals-save-big-on-games-and-accessories/2900-4316/](https://www.gamespot.com/gallery/the-best-nintendo-switch-deals-save-big-on-games-and-accessories/2900-4316/)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 18:42:00+00:00
- - tags: None
 
 <p><img src="https://www.gamespot.com/a/uploads/scale_large/1702/17023653/4035518-ageofcalamity%281%29.jpg" /><br /><h3><p>Nintendo products might not go on sale as often as their Xbox and PlayStation counterparts, but that doesn't mean it's impossible to find a good deal. In fact, dozens of Switch exclusives are on sale right now--and you'll even find a great price cut on the new (and highly reviewed) <span class="norewrite">           <a href="https://supershop.sjv.io/c/159047/1185863/14902?&a
 
@@ -132,7 +116,6 @@
  - [https://www.gamespot.com/articles/radiant-silvergun-is-mysteriously-missing-from-the-north-american-eshop/1100-6507514/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/radiant-silvergun-is-mysteriously-missing-from-the-north-american-eshop/1100-6507514/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 18:35:00+00:00
- - tags: None
 
 <p><a href="https://www.gamespot.com/games/radiant-silvergun/">Radiant Silvergun</a>, the classic 1998 shoot-'em-up from developer Treasure, is currently no longer available for purchase via the North American Nintendo Switch eShop, despite the game having been announced and released yesterday.</p><p dir="ltr">The Switch port made its debut as part of the most recent Nintendo Direct, after which <a href="https://www.gamespot.com/articles/every-game-and-demo-released-during-the-september-nintendo
 
@@ -140,7 +123,6 @@
  - [https://www.gamespot.com/articles/david-harbour-to-star-in-gran-turismo-movie/1100-6507513/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/david-harbour-to-star-in-gran-turismo-movie/1100-6507513/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 18:24:00+00:00
- - tags: None
 
 <p dir="ltr">David Harbour, who portrays Jim Hopper in Netflix's Stranger Things, is reportedly set to star in Sony's movie adaptation of the Gran Turismo racing game series. <a href="https://deadline.com/2022/09/david-harbour-to-star-in-sony-pictures-and-playstation-productions-adaptation-of-gran-turismo-1235118812/">Deadline</a> was the first to report.</p><p dir="ltr">It's not yet known what role Harbour will be taking on in the film, which Neill Blomkamp (District 9) is directing from a scre
 
@@ -148,7 +130,6 @@
  - [https://www.gamespot.com/articles/fifa-23-may-include-afc-richmond-from-ted-lasso-leak-suggests/1100-6507512/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/fifa-23-may-include-afc-richmond-from-ted-lasso-leak-suggests/1100-6507512/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 18:19:00+00:00
- - tags: None
 
 <p>AFC Richmond, the fictional football team from Apple's Ted Lasso TV series, might be featured in EA's upcoming <a href="https://www.gamespot.com/games/fifa-23/">FIFA 23</a>. For a period of time, the FIFA ratings website apparently contained an entry for AFC Richmond, as you can see in the image below that was posted on the Ted Lasso subreddit (<a href="https://charlieintel.com/new-fifa-23-leak-claims-ted-lassos-afc-richmond-could-be-in-the-game/198447/">via CharlieIntel</a>).</p><p>The perso
 
@@ -156,7 +137,6 @@
  - [https://www.gamespot.com/articles/square-enix-plans-to-move-away-from-fully-owning-studios-because-of-rising-development-costs/1100-6507511/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/square-enix-plans-to-move-away-from-fully-owning-studios-because-of-rising-development-costs/1100-6507511/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 18:17:00+00:00
- - tags: None
 
 <p dir="ltr">Square Enix revealed that it will pursue other approaches other than outright owning studios, according to <a href="https://www.hd.square-enix.com/eng/ir/library/docs/20220804/page02.html">Square Enix's Q1 FY2023/3 financial results briefing session</a> for investors.</p><p dir="ltr">President Yosuke Matsuda said that though the company's traditional policy has been to own studios, it is looking to diversify into "joint ventures, equity-method affiliates, and minority stakes." The r
 
@@ -164,7 +144,6 @@
  - [https://www.gamespot.com/articles/halo-infinite-community-director-asks-for-fans-thoughts-on-buying-promotional-dlc/1100-6507502/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/halo-infinite-community-director-asks-for-fans-thoughts-on-buying-promotional-dlc/1100-6507502/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 17:48:00+00:00
- - tags: None
 
 <p><a href="https://www.gamespot.com/games/halo-infinite/">Halo Infinite</a> has a number of exclusive cosmetics tied to purchasing various real-world products, but a tweet from Halo Infinite's community director asking fans their opinion on the matter means change could be on the horizon.</p><p>Though Halo Infinite's year-long delay from Winter 2020 to Winter 2021 threw a wrench into some of the game's marketing deals, players at various points over the last two years have been able to purchase
 
@@ -172,7 +151,6 @@
  - [https://www.gamespot.com/articles/pubg-mobile-version-2-2-launches-tomorrow-with-new-map/1100-6507501/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/pubg-mobile-version-2-2-launches-tomorrow-with-new-map/1100-6507501/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 17:42:00+00:00
- - tags: None
 
 <p><a href="https://www.gamespot.com/games/pubg-mobile/">PUBG Mobile</a> has announced new content will be coming to the game following the 2.2 update tomorrow. The latest update will introduce a new map, updates a fan-favorite map, a new game mode, cosmetics, and more.</p><p>Players can drop into Nusa as a part of the 2.2 update, which we recently shared a look at during the <a href="https://www.gamespot.com/articles/pubg-mobile-trailer-shows-off-nusa-map/1100-6507187/">GameSpot Swipe mobile sh
 
@@ -180,7 +158,6 @@
  - [https://www.gamespot.com/articles/xbox-pc-app-updates-include-howlongtobeat-integration-and-improved-performance/1100-6507503/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/xbox-pc-app-updates-include-howlongtobeat-integration-and-improved-performance/1100-6507503/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 17:19:00+00:00
- - tags: None
 
 <p>The Xbox app on PC has received various performance improvements and a revamped Game Details page including HowLongToBeat integration.</p><p>For the unfamiliar, <a href="https://howlongtobeat.com/">HowLongToBeat</a> is a website that polls players about their playtimes and presents an average length for various playstyles. The Xbox App on PC will now display information from the website right in the app. The playtime data will be split into four categories:</p><ul><li>Main Story: meaning how 
 
@@ -188,7 +165,6 @@
  - [https://www.gamespot.com/articles/like-a-dragon-producer-is-hesistant-to-bring-yakuza-games-to-nintendo-switch/1100-6507500/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/like-a-dragon-producer-is-hesistant-to-bring-yakuza-games-to-nintendo-switch/1100-6507500/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 17:14:00+00:00
- - tags: None
 
 <p>Yakuza games used to be PlayStation exclusives, but over the last couple of years, the series has landed on other platforms. Just about every game in the mainline series can be found on Xbox One, Xbox Series X|S, and PC, but don't expect to see Kiryu Kazuma busting heads on the Nintendo Switch.</p><p>Though Nintendo's hybrid video game console could technically run the Yakuza games on its hardware--or even stream them in a manner similar to <a href="https://www.gamespot.com/articles/resident-
 
@@ -196,7 +172,6 @@
  - [https://www.gamespot.com/articles/how-wow-dragonflight-dragons-are-pushing-blizzard-mmo-into-the-modern-era/1100-6507453/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/how-wow-dragonflight-dragons-are-pushing-blizzard-mmo-into-the-modern-era/1100-6507453/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 17:00:00+00:00
- - tags: None
 
 <p>Dragons have always played an important role in <a href="https://www.gamespot.com/games/world-of-warcraft/">World of Warcraft</a>, and after largely being pushed to the sidelines in more recent expansions, Dragonflight is set to bring back some of the MMORPG's most iconic draconic characters in a big way. And although it does feel like a nostalgic throwback in some ways, Dragonflight, more so than any other WoW expansion in recent history, feels distinctly modern.</p><p dir="ltr">There is a g
 
@@ -204,7 +179,6 @@
  - [https://www.gamespot.com/articles/theatrhythm-final-bar-line-preorder-guide-bonuses-available-editions-and-more/1100-6507499/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/theatrhythm-final-bar-line-preorder-guide-bonuses-available-editions-and-more/1100-6507499/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 16:43:00+00:00
- - tags: None
 
 <p>Theatrhythm Final Bar Line is taking iconic soundtracks from the Final Fantasy series (along with other Square Enix titles) and packaging them into a quirky music game. It’s set to release for PlayStation 4 and Switch on <strong>February 16</strong>, but <span class="norewrite">           <a href="https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/dp/B0BF7MXQKN?tag=gamespotdeals-20&amp;ascsubtag=ag:|vg:-|st:dtp">preorders</a> </span> are now open. Three different editions are up for
 
@@ -212,7 +186,6 @@
  - [https://www.gamespot.com/articles/star-trek-lower-decks-mobile-will-feature-characters-from-across-the-franchise/1100-6507496/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/star-trek-lower-decks-mobile-will-feature-characters-from-across-the-franchise/1100-6507496/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 16:14:00+00:00
- - tags: None
 
 <p>East Side Games Groups has announced its newest mobile game Star Trek: Lower Decks. As the name suggests, the newly released game will be based on the Star Trek animated series streaming on Paramount +.</p><p>In addition to plot points and characters from the show Star Trek: Lower Decks, the game also features characters and stories across the franchise. All of the characters introduced from the other franchises will be reimagined through the "lens of the show."</p><p>In Star Trek Lower Decks
 
@@ -220,7 +193,6 @@
  - [https://www.gamespot.com/articles/squid-game-creator-reacts-to-controversy-over-the-reality-game-show/1100-6507494/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/squid-game-creator-reacts-to-controversy-over-the-reality-game-show/1100-6507494/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 15:19:00+00:00
- - tags: None
 
 <p>The creator of Netflix's popular Korean drama Squid Game has reacted to the controversy surrounding the <a href="https://www.gamespot.com/articles/squid-game-reality-show-brings-the-survival-drama-to-life-but-without-deadly-consequences/1100-6504598/">upcoming reality show</a> where real people will take part in challenges until only one remains.</p><p>Hwang Dong-hyuk told <a href="https://ew.com/tv/squid-game-creator-hwang-dong-hyuk-addresses-netflix-reality-show/">Entertainment Weekly</a> t
 
@@ -228,7 +200,6 @@
  - [https://www.gamespot.com/articles/apparent-rtx-4090-leak-suggests-massive-gpus-on-the-horizon/1100-6507493/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/apparent-rtx-4090-leak-suggests-massive-gpus-on-the-horizon/1100-6507493/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 15:12:00+00:00
- - tags: None
 
 <p>An apparent leak of RTX 4090 cards ready for store shelves suggests Nvidia is just days away from finally revealing its next generation of gaming GPUs for consumer PCs, with the company set to make an announcement at GTC next week.</p><p>The leak features a first look at the RTX 4090 from Zotac, first posted on Chinese social media website <a href="https://tieba.baidu.com/p/8017750710?pn=1">Baidu</a> and shared by <a href="https://www.pcgamer.com/zotacs-rtx-4090-smiles-for-the-camera/">PC Gam
 
@@ -236,7 +207,6 @@
  - [https://www.gamespot.com/articles/the-sims-4-base-game-will-be-free-to-play-on-all-consoles-starting-october-18/1100-6507474/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-sims-4-base-game-will-be-free-to-play-on-all-consoles-starting-october-18/1100-6507474/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 15:00:00+00:00
- - tags: None
 
 <p>EA and Maxis have announced that The Sims 4 is going free-to-play. As of October 18, The Sims 4 base game will be available for all new players to download free of charge on PlayStation 5, PlayStation 4, Xbox Series X|S, Xbox One, and PC and Mac via Origin or Steam. Any expansions, game packs, and kits, however, will have to be purchased separately.</p><p>In the press release announcing the exciting update, EA wrote, "EA and Maxis have welcomed millions of The Sims players over the years, and
 
@@ -244,7 +214,6 @@
  - [https://www.gamespot.com/articles/metal-hellsinger-on-pc-is-getting-custom-music-modding-tools-soon/1100-6507491/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/metal-hellsinger-on-pc-is-getting-custom-music-modding-tools-soon/1100-6507491/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 14:22:00+00:00
- - tags: None
 
 <p>Ahead of the release of Metal: Hellsinger on September 15, developer The Outsiders has announced that custom music modding tools will be added to the PC version of the game in a future update.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">Let's tear down the skies.<br />Coming soon to PC. <br />Custom Music Modding support. <br />Unleash Hell. To YOUR beat. <a href="https://t.co/eOim4lllwX">pic.twitter.com/eOim4lllwX</a></p>  — Metal: Hellsinger (@MetalHellsinger) <a h
 
@@ -252,7 +221,6 @@
  - [https://www.gamespot.com/articles/house-of-the-dragon-episode-4-sees-increase-in-viewership/1100-6507492/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/house-of-the-dragon-episode-4-sees-increase-in-viewership/1100-6507492/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 14:13:00+00:00
- - tags: None
 
 <p>The newest episode of House of the Dragon posted viewership gains compared to the previous one, according to a new report. Episode 4, King of the Narrow Sea, saw its total viewership rise by 5% week-over-week, <a href="https://variety.com/2022/tv/news/house-of-the-dragon-episode-4-ratings-viewers-1235371398/">according to Variety.</a> This was total viewership across linear TV and HBO Max in the US specifically.</p><p>For linear TV specifically, viewership for Episode 4 dropped to 2.474 milli
 
@@ -260,7 +228,6 @@
  - [https://www.gamespot.com/articles/todays-wordle-answer-452-september-14-2022/1100-6507475/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/todays-wordle-answer-452-september-14-2022/1100-6507475/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 14:02:00+00:00
- - tags: None
 
 <p>It might be the middle of week, but there's still no slowing down this <a href="https://www.gamespot.com/games/wordle/">Wordle </a>train. We've returned to offer more help to people in need when it comes to getting the Wordle correct. This time, we're helping out with the answer on September 14. The ongoing theme of difficult answers has continued today, and we're going to assume that if you're here, you need some assistance. If you haven't started the Wordle just yet, then you can check out 
 
@@ -268,7 +235,6 @@
  - [https://www.gamespot.com/articles/deathverse-let-it-die-confirmed-for-september-28-release-date-on-ps5-october-5-on-pc/1100-6507489/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/deathverse-let-it-die-confirmed-for-september-28-release-date-on-ps5-october-5-on-pc/1100-6507489/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 14:00:00+00:00
- - tags: None
 
 <p dir="ltr">GungHo Online Entertainment has announced that Deathverse: Let It Die, the melee-focused battle royale set thousands of years after 2016's Let It Die, will launch on PlayStation 4 and PlayStation 5 on September 28, with the PC launch to follow on October 5.</p><p dir="ltr">Deathverse: Let It Die will pit 16 players against one another in a battle to the death made into a game show called Death Jamboree. Characters can be customized via in-game cosmetics, including costumes, masks, a
 
@@ -276,7 +242,6 @@
  - [https://www.gamespot.com/articles/review-roundup-for-nba-2k23-heres-what-the-critics-think/1100-6507490/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/review-roundup-for-nba-2k23-heres-what-the-critics-think/1100-6507490/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 13:12:00+00:00
- - tags: None
 
 <p>NBA 2K23 is out now on console and PC, but what do the critics think of this year's entry in the professional basketball simulation series? Reviews are now online, and we're collecting scores and excerpts here to help you determine if the game is worth your time and money.</p><p>GameSpot's <a href="https://www.gamespot.com/reviews/nba-2k23-review-like-mike/1900-6417958/">NBA 2K23 review</a> scored the game an 8/10. Reviewer Mark Delaney said, "On the court, NBA 2K23 looks and feels lifelike a
 
@@ -284,7 +249,6 @@
  - [https://www.gamespot.com/articles/skyfall-director-says-it-would-be-wonderful-for-a-woman-to-direct-james-bond/1100-6507488/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/skyfall-director-says-it-would-be-wonderful-for-a-woman-to-direct-james-bond/1100-6507488/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 12:31:00+00:00
- - tags: None
 
 <p>Sam Mendes, the Oscar-winning director behind the James Bond movies Skyfall and Spectre, has said he probably won't petition to make a third one and that he believes it would be "wonderful" for a woman to direct.</p><p>Speaking to <a href="https://deadline.com/2022/09/sam-mendes-empire-of-light-interview-olivia-colman-micheal-ward-james-bond-director-1235117343/">Deadline</a>, Mendes said with a laugh, "I don't think they'd want me any more," as it relates to whether or not he might come back
 
@@ -292,7 +256,6 @@
  - [https://www.gamespot.com/articles/microsoft-has-no-plans-to-add-online-play-for-goldeneye-on-xbox/1100-6507487/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/microsoft-has-no-plans-to-add-online-play-for-goldeneye-on-xbox/1100-6507487/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 12:06:00+00:00
- - tags: None
 
 <p> A new version of the classic N64 shooter GoldenEye is coming to Xbox, but Microsoft has now confirmed it will not have any online multiplayer support <a href="https://www.gamespot.com/articles/goldeneye-007-coming-to-xbox-game-pass-nintendo-switch/1100-6507428/">like the Switch version has.</a> </p><p>This was already <a href="https://www.gamespot.com/articles/goldeneye-007-coming-to-xbox-game-pass-nintendo-switch/1100-6507428/">strongly suggested</a>, and now it's been confirmed in a statem
 
@@ -300,7 +263,6 @@
  - [https://www.gamespot.com/articles/former-nintendo-boss-reggie-fils-aime-says-he-is-neither-for-nor-against-unions-in-video-games/1100-6507459/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/former-nintendo-boss-reggie-fils-aime-says-he-is-neither-for-nor-against-unions-in-video-games/1100-6507459/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 12:01:00+00:00
- - tags: None
 
 <p>Former Nintendo of America president Reggie Fils-Aime has shared his thoughts on unionization in the video game industry, saying he is neither for nor against it. Speaking to GameSpot sister site <a href="https://www.youtube.com/watch?v=sBvAg-BWh8M">CNET</a>, Fils-Aime said unionization is an "output" that happens when workers' core needs are not being met.</p><p>"I think it's important to step back and really think about, What does a worker need in order for that part of their life to be ful
 
@@ -308,7 +270,6 @@
  - [https://www.gamespot.com/articles/psvr-2-and-horizon-call-of-the-mountain-are-a-strong-reminder-of-vrs-magic/1100-6507473/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/psvr-2-and-horizon-call-of-the-mountain-are-a-strong-reminder-of-vrs-magic/1100-6507473/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 12:00:00+00:00
- - tags: None
 
 <p dir="ltr">The opening of my Horizon Call of the Mountain demo for PlayStation VR 2 was a genuine "Welcome… to Jurassic Park" moment. It caught me by surprise because, honestly, I've cooled off on VR quite significantly. For a while, VR was all anyone could talk about--an exciting evolutionary step for gaming. But its momentum dissipated, and its ubiquity took it from being <em>the </em>conversation to just part of <em>a</em> conversation, and a relatively small one at that. Between Valve's In
 
@@ -316,7 +277,6 @@
  - [https://www.gamespot.com/videos/psvr2-and-horizon-call-of-the-mountain-are-impressive/2300-6459521/](https://www.gamespot.com/videos/psvr2-and-horizon-call-of-the-mountain-are-impressive/2300-6459521/)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 12:00:00+00:00
- - tags: None
 
 <img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1352/13527689/4034854-preview_psvr2_site.jpg" width="480" /> PlayStation VR 2 makes the most of the PS5, and Horizon Call of the Mountain is an excellent showcase of what the new headset will be able to do.
 
@@ -324,7 +284,6 @@
  - [https://www.gamespot.com/articles/yakuza-spin-off-like-a-dragon-gaiden-announced-coming-in-2023/1100-6507486/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/yakuza-spin-off-like-a-dragon-gaiden-announced-coming-in-2023/1100-6507486/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 11:29:00+00:00
- - tags: None
 
 <p>Like a Dragon Gaiden: The Man Who Erased His Name is a new spin-off coming from Yakuza developer Ryu Ga Gotoku studio and publisher Sega. Described as a "classic high-octane" action-adventure, the game will fill in the gaps between Yakuza 6 and the upcoming Yakuza 8, revealing what Kazuma Kiryu was up to during that mysterious time.</p><div>          </div><p>In the trailer, the legendary Dragon of Dojima is seen meditating at a temple and seeks forgiveness in a world that believes him to be 
 
@@ -332,7 +291,6 @@
  - [https://www.gamespot.com/articles/deathloop-ads-on-xbox-suggest-a-launch-is-finally-coming/1100-6507485/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/deathloop-ads-on-xbox-suggest-a-launch-is-finally-coming/1100-6507485/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 11:08:00+00:00
- - tags: None
 
 <p>Following a year-long exclusivity period on PlayStation 5, it seems that Arkane's time-bending shooter <a href="https://www.gamespot.com/games/deathloop/">Deathloop</a> is heading to Xbox.</p><p>Ads for the Bethesda-published title have started appearing on the Xbox Dashboard, according to several users on <a href="https://www.reddit.com/r/XboxSeriesX/comments/xdvq2t/deathloop_appears_on_the_store/">Reddit</a> who have been served them. The title results in an error screen when selected, but 
 
@@ -340,7 +298,6 @@
  - [https://www.gamespot.com/articles/yakuza-8-is-now-like-a-dragon-8-coming-to-pc-and-console-in-2024/1100-6507484/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/yakuza-8-is-now-like-a-dragon-8-coming-to-pc-and-console-in-2024/1100-6507484/?ftag=CAD-01-10abi2f)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 11:08:00+00:00
- - tags: None
 
 <p>Yakuza developer Ryu Ga Gotoku has officially revealed Like a Dragon 8, the next game in its long-running series that will drop its Yakuza title. During the Ryu Ga Gotoku Studio Summit livestream, executive producer Masayoshi Yokoyama announced the game and showed off the first teaser trailer, which reunites Yakuza: Like a Dragon's protagonist Ichiban Kasuga with Yakuza 1-6 hero Kiryu Kazuma.</p><div>          </div><p> </p><p>Like a Dragon 8 will be released in 2024 on PS5, PS4, Xbox Series 
 
@@ -348,6 +305,5 @@
  - [https://www.gamespot.com/videos/warhaven-official-reveal-trailer/2300-6459522/](https://www.gamespot.com/videos/warhaven-official-reveal-trailer/2300-6459522/)
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-09-14 03:44:00+00:00
- - tags: None
 
 <img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1352/13527689/4034858-maxresdefault%2859%29.jpg" width="480" /> Warhaven is a visceral Medieval-Fantasy sword-fight experience. Take part in 16vs16 teams fighting with swords, arrows and magic. Transform into powerful heroes called Immortals to unleash brutal havoc and turn the tide of war.

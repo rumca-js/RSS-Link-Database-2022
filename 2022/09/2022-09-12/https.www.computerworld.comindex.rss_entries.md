@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Email woes gotcha worried? How to fix problems and fend off attacks
  - [https://www.computerworld.com/article/3673257/email-woes-gotcha-worried-how-to-fix-problems-and-fend-off-attacks.html#tk.rss_all](https://www.computerworld.com/article/3673257/email-woes-gotcha-worried-how-to-fix-problems-and-fend-off-attacks.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-12 19:58:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3673311/14-reasons-enterprises-should-upgrade-to-ios-16.html#tk.rss_all](https://www.computerworld.com/article/3673311/14-reasons-enterprises-should-upgrade-to-ios-16.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-12 15:03:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -24,7 +22,6 @@
  - [https://www.computerworld.com/article/3673249/as-telehealth-use-plummets-the-healthcare-industry-faces-a-crossroads.html#tk.rss_all](https://www.computerworld.com/article/3673249/as-telehealth-use-plummets-the-healthcare-industry-faces-a-crossroads.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-12 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

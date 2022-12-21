@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## FDA’s rotten definition of “healthy” food is finally getting tossed
  - [https://arstechnica.com/?p=1885776](https://arstechnica.com/?p=1885776)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-29 23:16:59+00:00
- - tags: None
 
 For now, salmon and nuts are not eligible for "healthy" label, but sugary cereals are.
 
@@ -12,7 +11,6 @@ For now, salmon and nuts are not eligible for "healthy" label, but sugary cereal
  - [https://arstechnica.com/?p=1885669](https://arstechnica.com/?p=1885669)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-29 22:45:39+00:00
- - tags: None
 
 "It's doing great science as we speak."
 
@@ -20,7 +18,6 @@ For now, salmon and nuts are not eligible for "healthy" label, but sugary cereal
  - [https://arstechnica.com/?p=1885419](https://arstechnica.com/?p=1885419)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-29 22:30:40+00:00
- - tags: None
 
 New ultralow-power imaging method employs underwater backscatter imaging.
 
@@ -28,7 +25,6 @@ New ultralow-power imaging method employs underwater backscatter imaging.
  - [https://arstechnica.com/?p=1885758](https://arstechnica.com/?p=1885758)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-29 22:06:48+00:00
- - tags: None
 
 PuTTY, KiTTY, TightVNC, Sumatra PDF Reader, and muPDF/Subliminal Recording all targeted.
 
@@ -36,7 +32,6 @@ PuTTY, KiTTY, TightVNC, Sumatra PDF Reader, and muPDF/Subliminal Recording all t
  - [https://arstechnica.com/?p=1885686](https://arstechnica.com/?p=1885686)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-29 21:01:17+00:00
- - tags: None
 
 A770 comes in two tiers; Intel preaches "perf-per-dollar" wins over Nvidia RTX 3060.
 
@@ -44,7 +39,6 @@ A770 comes in two tiers; Intel preaches "perf-per-dollar" wins over Nvidia RTX 3
  - [https://arstechnica.com/?p=1885707](https://arstechnica.com/?p=1885707)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-29 20:40:30+00:00
- - tags: None
 
 Modern game streaming + retro game emulation + Switch-like design = success?
 
@@ -52,7 +46,6 @@ Modern game streaming + retro game emulation + Switch-like design = success?
  - [https://arstechnica.com/?p=1885625](https://arstechnica.com/?p=1885625)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-29 20:22:43+00:00
- - tags: None
 
 The problem appears to be some data that's not being shared.
 
@@ -60,7 +53,6 @@ The problem appears to be some data that's not being shared.
  - [https://arstechnica.com/?p=1885651](https://arstechnica.com/?p=1885651)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-29 19:55:10+00:00
- - tags: None
 
 5-year satellite de-orbit rule passes despite lawmakers questioning FCC authority.
 
@@ -68,7 +60,6 @@ The problem appears to be some data that's not being shared.
  - [https://arstechnica.com/?p=1885596](https://arstechnica.com/?p=1885596)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-29 18:27:02+00:00
- - tags: None
 
 Amazon's second round of TVs make more (but not many) image-quality claims.
 
@@ -76,7 +67,6 @@ Amazon's second round of TVs make more (but not many) image-quality claims.
  - [https://arstechnica.com/?p=1885125](https://arstechnica.com/?p=1885125)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-29 18:00:07+00:00
- - tags: None
 
 Three million cars’ worth of emissions could be cut by addressing inefficiency.
 
@@ -84,7 +74,6 @@ Three million cars’ worth of emissions could be cut by addressing inefficiency
  - [https://arstechnica.com/?p=1885580](https://arstechnica.com/?p=1885580)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-29 17:29:01+00:00
- - tags: None
 
 Refreshed client is still missing support for IMAP, multiple accounts.
 
@@ -92,7 +81,6 @@ Refreshed client is still missing support for IMAP, multiple accounts.
  - [https://arstechnica.com/?p=1885605](https://arstechnica.com/?p=1885605)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-29 17:17:45+00:00
- - tags: None
 
 The inevitable death of Google's game-streaming service happens early next year.
 
@@ -100,7 +88,6 @@ The inevitable death of Google's game-streaming service happens early next year.
  - [https://arstechnica.com/?p=1885576](https://arstechnica.com/?p=1885576)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-29 17:13:22+00:00
- - tags: None
 
 You can type out a single screen of text, with a controller. That's impressive.
 
@@ -108,7 +95,6 @@ You can type out a single screen of text, with a controller. That's impressive.
  - [https://arstechnica.com/?p=1885529](https://arstechnica.com/?p=1885529)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-29 15:39:01+00:00
- - tags: None
 
 Using a text description or an existing image, Make-A-Video can render video on demand.
 
@@ -116,7 +102,6 @@ Using a text description or an existing image, Make-A-Video can render video on 
  - [https://arstechnica.com/?p=1885535](https://arstechnica.com/?p=1885535)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-29 15:28:51+00:00
- - tags: None
 
 SwiftKey for Android will live on, and the tech is still used in Windows.
 
@@ -124,7 +109,6 @@ SwiftKey for Android will live on, and the tech is still used in Windows.
  - [https://arstechnica.com/?p=1885494](https://arstechnica.com/?p=1885494)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-29 13:20:20+00:00
- - tags: None
 
 "We are screaming by pretty fast."
 
@@ -132,7 +116,6 @@ SwiftKey for Android will live on, and the tech is still used in Windows.
  - [https://arstechnica.com/?p=1885492](https://arstechnica.com/?p=1885492)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-29 13:07:42+00:00
- - tags: None
 
 Hurricanes, other disasters can knock out your power—solar can help, study shows.
 
@@ -140,6 +123,5 @@ Hurricanes, other disasters can knock out your power—solar can help, study sho
  - [https://arstechnica.com/?p=1874389](https://arstechnica.com/?p=1874389)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-29 11:00:35+00:00
- - tags: None
 
 Enthusiasts are intent on improving old games, whether Nintendo likes it or not.

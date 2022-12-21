@@ -1,10 +1,9 @@
-# Source Sorelle Amore Finance, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q
+# Source Sorelle Amore Finance, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q, Source language: en-US
 
 ## How the Royal Family secretly owns the world
  - [https://www.youtube.com/watch?v=4pUUSyYON2c](https://www.youtube.com/watch?v=4pUUSyYON2c)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q
  - date published: 2022-09-15 15:02:09+00:00
- - tags: None
 
 🎨 JOIN MASTERWORKS (and skip the waiting list): http://masterworks.art/sorelle
 ✉️ OUR NEWSLETTER: https://www.abundantia.co/

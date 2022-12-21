@@ -1,10 +1,9 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml
+# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
 
 ## Queen Elizabeth II: Details revealed for Queen's lying-in-state at Westminster
  - [https://www.bbc.co.uk/news/uk-62872323?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62872323?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 23:44:57+00:00
- - tags: None
 
 Details of how people can pay their final respects at the Palace of Westminster have been revealed.
 
@@ -12,7 +11,6 @@ Details of how people can pay their final respects at the Palace of Westminster 
  - [https://www.bbc.co.uk/sport/tennis/62872605?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/tennis/62872605?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 23:42:23+00:00
- - tags: None
 
 Spanish teenager Carlos Alcaraz fulfils his potential as a future Grand Slam champion and world number one by beating Casper Ruud in the US Open final to achieve both feats.
 
@@ -20,7 +18,6 @@ Spanish teenager Carlos Alcaraz fulfils his potential as a future Grand Slam cha
  - [https://www.bbc.co.uk/news/uk-62841454?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62841454?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 23:29:20+00:00
- - tags: None
 
 Turning round the Met's reputation will require all Sir Mark Rowley's determination and skill.
 
@@ -28,7 +25,6 @@ Turning round the Met's reputation will require all Sir Mark Rowley's determinat
  - [https://www.bbc.co.uk/news/world-africa-62838122?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-africa-62838122?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 23:27:26+00:00
- - tags: None
 
 President Uhuru Kenyatta promised national cohesion and to fight corruption. He made some progress.
 
@@ -36,7 +32,6 @@ President Uhuru Kenyatta promised national cohesion and to fight corruption. He 
  - [https://www.bbc.co.uk/news/uk-62872675?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62872675?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 22:54:40+00:00
- - tags: None
 
 All of the newspapers focus on the Queen's last journey from her beloved Balmoral to Edinburgh.
 
@@ -44,7 +39,6 @@ All of the newspapers focus on the Queen's last journey from her beloved Balmora
  - [https://www.bbc.co.uk/news/uk-62873235?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62873235?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 22:41:00+00:00
- - tags: None
 
 Events are taking place across the Commonwealth to mark the proclamation of King Charles III.
 
@@ -52,7 +46,6 @@ Events are taking place across the Commonwealth to mark the proclamation of King
  - [https://www.bbc.co.uk/news/world-europe-62873205?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-62873205?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 22:11:16+00:00
- - tags: None
 
 Power cuts have affected nine million people in revenge for successful counter-attack, Ukraine says.
 
@@ -60,7 +53,6 @@ Power cuts have affected nine million people in revenge for successful counter-a
  - [https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-62861371?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-62861371?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 20:43:09+00:00
- - tags: None
 
 The decision for the future King Charles to be educated at Gordonstoun was a departure from the royal norm.
 
@@ -68,7 +60,6 @@ The decision for the future King Charles to be educated at Gordonstoun was a dep
  - [https://www.bbc.co.uk/news/uk-scotland-62869534?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-62869534?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 20:43:01+00:00
- - tags: None
 
 The public can view the Queen's coffin in Edinburgh after a procession and service at St Giles' Cathedral.
 
@@ -76,7 +67,6 @@ The public can view the Queen's coffin in Edinburgh after a procession and servi
  - [https://www.bbc.co.uk/sport/disability-sport/62871810?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/disability-sport/62871810?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 18:39:03+00:00
- - tags: None
 
 Britain's Alfie Hewett beats Shingo Kunieda to win the US Open men's wheelchair title and secure his sixth major singles trophy.
 
@@ -84,7 +74,6 @@ Britain's Alfie Hewett beats Shingo Kunieda to win the US Open men's wheelchair 
  - [https://www.bbc.co.uk/news/uk-politics-62869880?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-62869880?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 18:36:43+00:00
- - tags: None
 
 Sir Tom Scholar's sacking compromises the civil service's independence, a former cabinet secretary says.
 
@@ -92,7 +81,6 @@ Sir Tom Scholar's sacking compromises the civil service's independence, a former
  - [https://www.bbc.co.uk/sport/golf/62871758?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/golf/62871758?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 18:14:06+00:00
- - tags: None
 
 Ireland's Shane Lowry birdies the 18th to beat Jon Rahm and Rory McIlroy to the BMW PGA Championship title by one stroke at Wentworth.
 
@@ -100,7 +88,6 @@ Ireland's Shane Lowry birdies the 18th to beat Jon Rahm and Rory McIlroy to the 
  - [https://www.bbc.co.uk/sport/av/cricket/62868946?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/cricket/62868946?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 18:11:26+00:00
- - tags: None
 
 Zak Crawley and England's bowlers star as the hosts close in on a series-clinching victory over South Africa at The Oval.
 
@@ -108,7 +95,6 @@ Zak Crawley and England's bowlers star as the hosts close in on a series-clinchi
  - [https://www.bbc.co.uk/sport/cricket/62864995?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/62864995?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 17:47:56+00:00
- - tags: None
 
 England are closing in on a series-clinching victory over South Africa after a supreme bowling display on the fourth day of the third Test at The Oval.
 
@@ -116,7 +102,6 @@ England are closing in on a series-clinching victory over South Africa after a s
  - [https://www.bbc.co.uk/news/uk-62870783?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62870783?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 17:36:51+00:00
- - tags: None
 
 The Queen's second son and his ex-wife Sarah, Duchess of York will now look after her iconic dogs.
 
@@ -124,7 +109,6 @@ The Queen's second son and his ex-wife Sarah, Duchess of York will now look afte
  - [https://www.bbc.co.uk/sport/rugby-union/62836399?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/62836399?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 16:37:35+00:00
- - tags: None
 
 Gloucester score 27 unanswered points to recover from 21-0 down and beat Wasps in a memorable Premiership comeback.
 
@@ -132,7 +116,6 @@ Gloucester score 27 unanswered points to recover from 21-0 down and beat Wasps i
  - [https://www.bbc.co.uk/news/world-us-canada-62870071?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-62870071?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 16:34:24+00:00
- - tags: None
 
 The president pays tribute to the thousands of people who died 21 years after the attacks on US soil.
 
@@ -140,7 +123,6 @@ The president pays tribute to the thousands of people who died 21 years after th
  - [https://www.bbc.co.uk/sport/rugby-union/62834861?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/62834861?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 16:14:27+00:00
- - tags: None
 
 Sale Sharks hold off a late Northampton Saints fightback to deliver a winning start to the new Premiership season.
 
@@ -148,7 +130,6 @@ Sale Sharks hold off a late Northampton Saints fightback to deliver a winning st
  - [https://www.bbc.co.uk/news/world-africa-62870984?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-africa-62870984?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 16:11:57+00:00
- - tags: None
 
 Over 1,000 migrants are thought to have died this year trying to cross the central Mediterranean.
 
@@ -156,7 +137,6 @@ Over 1,000 migrants are thought to have died this year trying to cross the centr
  - [https://www.bbc.co.uk/sport/horse-racing/62866439?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/horse-racing/62866439?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 16:03:20+00:00
- - tags: None
 
 Eldar Eldarov wins the rescheduled St Leger as British horse racing resumes at Doncaster and pays tribute to Queen Elizabeth II.
 
@@ -164,7 +144,6 @@ Eldar Eldarov wins the rescheduled St Leger as British horse racing resumes at D
  - [https://www.bbc.co.uk/sport/football/62869041?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/62869041?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 15:29:02+00:00
- - tags: None
 
 National League fixtures will go ahead on Monday after football paused as a mark of respect following the death of Queen Elizabeth II.
 
@@ -172,7 +151,6 @@ National League fixtures will go ahead on Monday after football paused as a mark
  - [https://www.bbc.co.uk/sport/av/cricket/62868943?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/cricket/62868943?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 15:12:25+00:00
- - tags: None
 
 Ollie Robinson gets the wickets of Wiaan Mulder and Khaya Zondo in quick succession to reduce South Africa to 133-6 on day four of the third Test at The Oval.
 
@@ -180,7 +158,6 @@ Ollie Robinson gets the wickets of Wiaan Mulder and Khaya Zondo in quick success
  - [https://www.bbc.co.uk/news/uk-wales-62870604?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-62870604?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 14:33:47+00:00
- - tags: None
 
 Prince William speaks of his "honour" in being named Prince of Wales by King Charles III.
 
@@ -188,7 +165,6 @@ Prince William speaks of his "honour" in being named Prince of Wales by King Cha
  - [https://www.bbc.co.uk/sport/formula1/62870638?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/formula1/62870638?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 14:32:56+00:00
- - tags: None
 
 Red Bull’s Max Verstappen inflicts a home defeat on Charles Leclerc and Ferrari in the Italian Grand Prix to continue his cruise to a second title.
 
@@ -196,7 +172,6 @@ Red Bull’s Max Verstappen inflicts a home defeat on Charles Leclerc and Ferrar
  - [https://www.bbc.co.uk/news/uk-62823074?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62823074?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 14:28:50+00:00
- - tags: None
 
 How a young princess's love for her dog turned into a life's passion.
 
@@ -204,7 +179,6 @@ How a young princess's love for her dog turned into a life's passion.
  - [https://www.bbc.co.uk/news/uk-scotland-62868307?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-62868307?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 14:09:26+00:00
- - tags: None
 
 Thousands turn out to pay their respects as the Queen's coffin travels from Balmoral to Edinburgh.
 
@@ -212,7 +186,6 @@ Thousands turn out to pay their respects as the Queen's coffin travels from Balm
  - [https://www.bbc.co.uk/news/uk-england-merseyside-62870321?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-merseyside-62870321?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 13:25:00+00:00
- - tags: None
 
 Nine people have so far been arrested after the nine-year-old was shot in her home in Liverpool.
 
@@ -220,7 +193,6 @@ Nine people have so far been arrested after the nine-year-old was shot in her ho
  - [https://www.bbc.co.uk/news/world-europe-62869157?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-62869157?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 12:34:00+00:00
- - tags: None
 
 "They asked 'is anyone alive?' and I realised they were ours," says one woman. "They were so beautiful."
 
@@ -228,7 +200,6 @@ Nine people have so far been arrested after the nine-year-old was shot in her ho
  - [https://www.bbc.co.uk/sport/football/62869447?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/62869447?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 12:02:29+00:00
- - tags: None
 
 Rangers' Champions League match with Napoli has been put back 24 hours to Wednesday following the death of Queen Elizabeth II.
 
@@ -236,7 +207,6 @@ Rangers' Champions League match with Napoli has been put back 24 hours to Wednes
  - [https://www.bbc.co.uk/news/business-62827930?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-62827930?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 12:00:55+00:00
- - tags: None
 
 Train travel in the mourning period for the Queen is likely to be "extremely busy", the rail operator warns.
 
@@ -244,7 +214,6 @@ Train travel in the mourning period for the Queen is likely to be "extremely bus
  - [https://www.bbc.co.uk/sport/athletics/62868224?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/athletics/62868224?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 11:34:37+00:00
- - tags: None
 
 Tributes are paid to Her Majesty Queen Elizabeth II at the Great North Run before Uganda's Jacob Kiplimo and Kenya's Hellen Obiri win the elite men's and women's races.
 
@@ -252,7 +221,6 @@ Tributes are paid to Her Majesty Queen Elizabeth II at the Great North Run befor
  - [https://www.bbc.co.uk/news/in-pictures-62868466?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/in-pictures-62868466?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 10:38:34+00:00
- - tags: None
 
 Images from the day as the Queen's funeral cortege travels to Edinburgh.
 
@@ -260,7 +228,6 @@ Images from the day as the Queen's funeral cortege travels to Edinburgh.
  - [https://www.bbc.co.uk/sport/av/cricket/62868940?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/cricket/62868940?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 10:29:34+00:00
- - tags: None
 
 South Africa's Kagiso Rabada gets Ollie Robinson with the second ball of the day on day four of the third Test at The Oval.
 
@@ -268,7 +235,6 @@ South Africa's Kagiso Rabada gets Ollie Robinson with the second ball of the day
  - [https://www.bbc.co.uk/news/uk-62867444?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62867444?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 09:06:43+00:00
- - tags: None
 
 The late monarch's coffin is making the six-hour journey from her Scottish estate to Edinburgh by hearse.
 
@@ -276,7 +242,6 @@ The late monarch's coffin is making the six-hour journey from her Scottish estat
  - [https://www.bbc.co.uk/news/world-europe-62867560?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-62867560?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 08:03:01+00:00
- - tags: None
 
 On Saturday, Ukraine's rapid advance captured the key Russian supply towns of Izyum and Kupiansk.
 
@@ -284,7 +249,6 @@ On Saturday, Ukraine's rapid advance captured the key Russian supply towns of Iz
  - [https://www.bbc.co.uk/news/uk-scotland-62862148?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-62862148?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 07:59:59+00:00
- - tags: None
 
 The public can pay their respects as the coffin lies at rest at St Giles Cathedral in Scotland's capital.
 
@@ -292,7 +256,6 @@ The public can pay their respects as the coffin lies at rest at St Giles Cathedr
  - [https://www.bbc.co.uk/news/uk-62867080?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62867080?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 06:26:01+00:00
- - tags: None
 
 When the Queen died the throne passed immediately to Charles. We look back on his first moments as King.
 
@@ -300,7 +263,6 @@ When the Queen died the throne passed immediately to Charles. We look back on hi
  - [https://www.bbc.co.uk/news/uk-62866395?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62866395?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 04:30:55+00:00
- - tags: None
 
 Sunday's front pages pore over the Royal Family reuniting to mark the death of Queen Elizabeth II.
 
@@ -308,7 +270,6 @@ Sunday's front pages pore over the Royal Family reuniting to mark the death of Q
  - [https://www.bbc.co.uk/sport/tennis/62866541?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/tennis/62866541?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 01:49:07+00:00
- - tags: None
 
 World number one Iga Swiatek says winning the US Open is confirmation that anything is possible for her career.
 
@@ -316,7 +277,6 @@ World number one Iga Swiatek says winning the US Open is confirmation that anyth
  - [https://www.bbc.co.uk/news/uk-62863859?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62863859?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 00:19:59+00:00
- - tags: None
 
 Want to lay flowers or sign a book of condolence to remember the Queen? Here's what you need to know.
 
@@ -324,6 +284,5 @@ Want to lay flowers or sign a book of condolence to remember the Queen? Here's w
  - [https://www.bbc.co.uk/sport/tennis/62866285?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/tennis/62866285?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-11 00:16:21+00:00
- - tags: None
 
 World number one Iga Swiatek caps a dominant season by beating Tunisia's Ons Jabeur at the US Open to win her second major title of 2022.

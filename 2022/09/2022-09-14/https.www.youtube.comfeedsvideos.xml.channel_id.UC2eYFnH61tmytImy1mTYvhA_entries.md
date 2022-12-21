@@ -1,10 +1,9 @@
-# Source Luke Smith - YouTube, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA
+# Source Luke Smith - YouTube, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA, Source language: en-US
 
 ## I Will Be Throwing Away My Computers.
  - [https://www.youtube.com/watch?v=HAGWOx2dw1Y](https://www.youtube.com/watch?v=HAGWOx2dw1Y)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA
  - date published: 2022-09-14 16:24:46+00:00
- - tags: None
 
 If you want your computing to be as efficient as possible, you should have as little as possible. Here I plan downsizing and ask for a way to do everything more efficiently. Is there actually a decent computer with a trackpoint, ultrabase or dock which can handle livestreams and is still easily repairable?... I.e. without planned obsolescence?
 

@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## Do you check how long games take to finish before you play them?
  - [https://www.pcgamer.com/do-you-check-how-long-games-take-to-finish-before-you-play-them](https://www.pcgamer.com/do-you-check-how-long-games-take-to-finish-before-you-play-them)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-24 23:38:36+00:00
- - tags: None
 
 Time is on my side.
 
@@ -12,7 +11,6 @@ Time is on my side.
  - [https://www.pcgamer.com/youre-the-emergent-ai-who-destroys-or-saves-humanity-in-this-sandbox-strategy-game](https://www.pcgamer.com/youre-the-emergent-ai-who-destroys-or-saves-humanity-in-this-sandbox-strategy-game)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-24 22:48:41+00:00
- - tags: None
 
 Heart of the Machine wants to let you be good, evil, or something in between.
 
@@ -20,7 +18,6 @@ Heart of the Machine wants to let you be good, evil, or something in between.
  - [https://www.pcgamer.com/this-cheery-hexen-like-fps-declares-war-on-goblins](https://www.pcgamer.com/this-cheery-hexen-like-fps-declares-war-on-goblins)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-24 22:44:16+00:00
- - tags: None
 
 I did a lot of horrible things to goblins in the Wizordum demo.
 
@@ -28,7 +25,6 @@ I did a lot of horrible things to goblins in the Wizordum demo.
  - [https://www.pcgamer.com/saturday-crapshoot-chess-maniac-five-billion-and-one](https://www.pcgamer.com/saturday-crapshoot-chess-maniac-five-billion-and-one)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-24 22:19:06+00:00
- - tags: None
 
 We're rerunning Richard Cobbett's classic Crapshoot column, in which he rolled the dice and took a chance on obscure games—both good and bad.
 
@@ -36,7 +32,6 @@ We're rerunning Richard Cobbett's classic Crapshoot column, in which he rolled t
  - [https://www.pcgamer.com/anyway-heres-megalovania-in-the-silly-trombone-game](https://www.pcgamer.com/anyway-heres-megalovania-in-the-silly-trombone-game)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-24 21:58:48+00:00
- - tags: None
 
 Trombone Champ speedruns to custom songs as a modder adds everyone's favorite  Undertale track.
 
@@ -44,7 +39,6 @@ Trombone Champ speedruns to custom songs as a modder adds everyone's favorite  U
  - [https://www.pcgamer.com/ex-hearthstone-director-moves-to-league-of-legends-as-new-design-director](https://www.pcgamer.com/ex-hearthstone-director-moves-to-league-of-legends-as-new-design-director)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-24 20:35:39+00:00
- - tags: None
 
 The developer resigned from Blizzard last week.
 
@@ -52,7 +46,6 @@ The developer resigned from Blizzard last week.
  - [https://www.pcgamer.com/the-witcher-season-3-axiis-its-way-into-our-hearts-summer-2023](https://www.pcgamer.com/the-witcher-season-3-axiis-its-way-into-our-hearts-summer-2023)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-24 18:40:47+00:00
- - tags: None
 
 Ciri's on a boat.
 
@@ -60,7 +53,6 @@ Ciri's on a boat.
  - [https://www.pcgamer.com/witcher-prequel-series-blood-origin-premiers-this-december](https://www.pcgamer.com/witcher-prequel-series-blood-origin-premiers-this-december)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-24 18:26:06+00:00
- - tags: None
 
 Get your elf on.
 
@@ -68,7 +60,6 @@ Get your elf on.
  - [https://www.pcgamer.com/g2-esports-ceo-quits-for-good-after-andrew-tate-controversy](https://www.pcgamer.com/g2-esports-ceo-quits-for-good-after-andrew-tate-controversy)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-24 16:08:39+00:00
- - tags: None
 
 Tate is a controversial figure and under investigation by Romanian police for human trafficking and rape.
 
@@ -76,6 +67,5 @@ Tate is a controversial figure and under investigation by Romanian police for hu
  - [https://www.pcgamer.com/todays-wordle-462-answer-hint](https://www.pcgamer.com/todays-wordle-462-answer-hint)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-24 07:01:28+00:00
- - tags: None
 
 Wordle today: The solution and a hint for Saturday's puzzle.

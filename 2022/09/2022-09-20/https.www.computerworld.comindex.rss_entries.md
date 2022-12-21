@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Windows 11 2022 Update is the version enterprises can move to
  - [https://www.computerworld.com/article/3673902/windows-11-2022-update-is-the-version-enterprises-can-move-to.html#tk.rss_all](https://www.computerworld.com/article/3673902/windows-11-2022-update-is-the-version-enterprises-can-move-to.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-20 20:30:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3673373/windows-11-22h2-small-but-welcome-changes.html#tk.rss_all](https://www.computerworld.com/article/3673373/windows-11-22h2-small-but-welcome-changes.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-20 17:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -24,7 +22,6 @@
  - [https://www.computerworld.com/article/3674312/macs-still-lead-the-acsi-survey-as-pcs-go-mobile-and-work-goes-remote.html#tk.rss_all](https://www.computerworld.com/article/3674312/macs-still-lead-the-acsi-survey-as-pcs-go-mobile-and-work-goes-remote.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-20 15:47:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -34,7 +31,6 @@
  - [https://www.computerworld.com/article/3674125/slack-launches-new-slack-canvas-tool-at-dreamforce-2022.html#tk.rss_all](https://www.computerworld.com/article/3674125/slack-launches-new-slack-canvas-tool-at-dreamforce-2022.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-20 12:35:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -44,7 +40,6 @@
  - [https://www.computerworld.com/article/3674134/android-design-revolution.html#tk.rss_all](https://www.computerworld.com/article/3674134/android-design-revolution.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-20 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

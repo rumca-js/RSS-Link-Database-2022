@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## Dell CTO: All computer systems open up, our job is to do that to the cloud
  - [https://www.zdnet.com/article/dell-cto-all-computer-systems-open-up-our-job-is-to-do-that-to-the-cloud/#ftag=RSSbaffb68](https://www.zdnet.com/article/dell-cto-all-computer-systems-open-up-our-job-is-to-do-that-to-the-cloud/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-30 22:57:00+00:00
- - tags: None
 
 Dell Technologies's CTO, products and operations, John Roese, sees the computer giant "chipping away" at layers of infrastructure in the cloud to make them open and "horizontal."
 
@@ -12,7 +11,6 @@ Dell Technologies's CTO, products and operations, John Roese, sees the computer 
  - [https://www.zdnet.com/home-and-office/kitchen-household/best-cheap-vacuum/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/kitchen-household/best-cheap-vacuum/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-30 21:04:00+00:00
- - tags: None
 
 You don't need to spend a fortune on a quality vacuum. The best cheap vacuums have features like washable filters, HEPA filtration, and built-in tool heads.
 
@@ -20,7 +18,6 @@ You don't need to spend a fortune on a quality vacuum. The best cheap vacuums ha
  - [https://www.zdnet.com/home-and-office/smart-home/best-video-doorbell/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/best-video-doorbell/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-30 21:02:00+00:00
- - tags: None
 
 Whether you're worried about pranksters or burglars on your front porch this Halloween, feel more secure with the best video doorbells on the market.
 
@@ -28,7 +25,6 @@ Whether you're worried about pranksters or burglars on your front porch this Hal
  - [https://www.zdnet.com/article/best-cheap-tablet/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-cheap-tablet/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-30 20:59:00+00:00
- - tags: None
 
 You don't have to spend a fortune to get a quality tablet. For under $330, cheap tablets offer high-end features like excellent retina display and battery life.
 
@@ -36,7 +32,6 @@ You don't have to spend a fortune to get a quality tablet. For under $330, cheap
  - [https://www.zdnet.com/article/best-smart-pen/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-smart-pen/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-30 20:57:00+00:00
- - tags: None
 
 Pens can be smart, too. With features like auto-syncing, internal storage, and recording audio, smart pens can be a serious game-changer for avid note-takers.
 
@@ -44,7 +39,6 @@ Pens can be smart, too. With features like auto-syncing, internal storage, and r
  - [https://www.zdnet.com/home-and-office/smart-home/eufy-video-doorbell-deal-sale/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/eufy-video-doorbell-deal-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-30 18:34:00+00:00
- - tags: None
 
 Halloween is coming up, and to keep your home safe from pranksters, a video doorbell is a must. You can get the eufy video doorbell for $99 -- that's $50 off -- right now.
 
@@ -52,7 +46,6 @@ Halloween is coming up, and to keep your home safe from pranksters, a video door
  - [https://www.zdnet.com/home-and-office/home-entertainment/ankers-new-vr-p10-wireless-earbuds-promise-gaming-freedom-without-lag/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/ankers-new-vr-p10-wireless-earbuds-promise-gaming-freedom-without-lag/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-30 18:08:01+00:00
- - tags: None
 
 The new Soundcore truly wireless earbuds aim to fix all of the issues that have, so far, kept most VR gamers tied down using wired earbuds or headphones.
 
@@ -60,7 +53,6 @@ The new Soundcore truly wireless earbuds aim to fix all of the issues that have,
  - [https://www.zdnet.com/article/best-laptop-docking-station/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-laptop-docking-station/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-30 17:50:00+00:00
- - tags: None
 
 A laptop docking station gives you instant access to all your peripherals  -- monitor, mouse, keyboard, etc -- through a single connection. Here is everything you need to know, including our pick of the best laptop docking stations.
 
@@ -68,7 +60,6 @@ A laptop docking station gives you instant access to all your peripherals  -- mo
  - [https://www.zdnet.com/article/monoprice-cadet-3d-printer-deal-promo-code-coupon-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/monoprice-cadet-3d-printer-deal-promo-code-coupon-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-30 17:17:54+00:00
- - tags: None
 
 Right now, it's on sale, but we have a promo code that will get you an extra 15% off the deal price, bringing the total close to half off.
 
@@ -76,7 +67,6 @@ Right now, it's on sale, but we have a promo code that will get you an extra 15%
  - [https://www.zdnet.com/article/soundcores-liberty-4-earbuds-arrive-with-spatial-audio-and-heart-rate-monitor/#ftag=RSSbaffb68](https://www.zdnet.com/article/soundcores-liberty-4-earbuds-arrive-with-spatial-audio-and-heart-rate-monitor/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-30 16:51:00+00:00
- - tags: None
 
 Soundcore's latest wireless earbuds offer "spatial sound" and heart rate monitoring for $149.99.
 
@@ -84,7 +74,6 @@ Soundcore's latest wireless earbuds offer "spatial sound" and heart rate monitor
  - [https://www.zdnet.com/article/how-to-watch-teslas-ai-day-event-and-our-top-5-predictions/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-watch-teslas-ai-day-event-and-our-top-5-predictions/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-30 16:27:00+00:00
- - tags: None
 
 Today, Tesla AI Day is sure to feature news about electric vehicles, but with Tesla, there are always other innovative projects underway. Here is the latest tech we think Tesla will talk about.
 
@@ -92,7 +81,6 @@ Today, Tesla AI Day is sure to feature news about electric vehicles, but with Te
  - [https://www.zdnet.com/home-and-office/smart-home/best-security-system/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/best-security-system/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-30 16:25:00+00:00
- - tags: None
 
 There are a number of security systems that can protect you and your home. But which ones allow you to mix sensors, are a breeze to install, and offer remote or night-vision monitoring? ZDNET found the best security systems and detailed how they compare.
 
@@ -100,7 +88,6 @@ There are a number of security systems that can protect you and your home. But w
  - [https://www.zdnet.com/article/have-trouble-sleeping-soundcores-new-earbuds-will-drown-out-the-distractions/#ftag=RSSbaffb68](https://www.zdnet.com/article/have-trouble-sleeping-soundcores-new-earbuds-will-drown-out-the-distractions/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-30 16:21:00+00:00
- - tags: None
 
 Anker Soundcore just released the Sleep A10, a line of snug-fit earbuds designed to help you get a good night's sleep.
 
@@ -108,7 +95,6 @@ Anker Soundcore just released the Sleep A10, a line of snug-fit earbuds designed
  - [https://www.zdnet.com/home-and-office/smart-home/eufys-new-smart-security-cameras-do-things-that-amazons-cant/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/eufys-new-smart-security-cameras-do-things-that-amazons-cant/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-30 16:10:38+00:00
- - tags: None
 
 The next-gen security system consists of the HomeBase 3, a self-learning AI hub that can recognize faces and objects, and the 4K, solar-powered EufyCam 3. The best part? Everything is stored locally.
 
@@ -116,7 +102,6 @@ The next-gen security system consists of the HomeBase 3, a self-learning AI hub 
  - [https://www.zdnet.com/article/best-fitness-deals/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-fitness-deals/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-30 15:53:00+00:00
- - tags: None
 
 Save big with up to $800 off of home gyms and exercise bikes, or pick up a Fitbit Sense for as little as $174.
 
@@ -124,7 +109,6 @@ Save big with up to $800 off of home gyms and exercise bikes, or pick up a Fitbi
  - [https://www.zdnet.com/article/gen-z-loves-walmart-far-more-than-apple-well-how-about-that/#ftag=RSSbaffb68](https://www.zdnet.com/article/gen-z-loves-walmart-far-more-than-apple-well-how-about-that/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-30 14:57:21+00:00
- - tags: None
 
 A new study comparing the brands that Gen Z likes and doesn't like offers some moving results.
 
@@ -132,7 +116,6 @@ A new study comparing the brands that Gen Z likes and doesn't like offers some m
  - [https://www.zdnet.com/home-and-office/smart-office/lg-dualup-monitor-review/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-office/lg-dualup-monitor-review/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-30 13:29:39+00:00
- - tags: None
 
 Review: LG's 28-inch DualUp monitor is shaped more like a square than a rectangle, lending itself to use cases that you never knew you needed.
 
@@ -140,7 +123,6 @@ Review: LG's 28-inch DualUp monitor is shaped more like a square than a rectangl
  - [https://www.zdnet.com/article/nasa-and-spacex-explore-private-mission-to-extend-hubble-telescopes-life-by-decades/#ftag=RSSbaffb68](https://www.zdnet.com/article/nasa-and-spacex-explore-private-mission-to-extend-hubble-telescopes-life-by-decades/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-30 12:00:02+00:00
- - tags: None
 
 A SpaceX Dragon spacecraft could move the Hubble space telescope into an orbit that extends its life by up to 20 years.
 
@@ -148,7 +130,6 @@ A SpaceX Dragon spacecraft could move the Hubble space telescope into an orbit t
  - [https://www.zdnet.com/article/new-exchange-server-zero-day-vulnerabilities-are-being-used-in-cyberattacks-protect-your-network-now/#ftag=RSSbaffb68](https://www.zdnet.com/article/new-exchange-server-zero-day-vulnerabilities-are-being-used-in-cyberattacks-protect-your-network-now/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-30 11:53:24+00:00
- - tags: None
 
 Microsoft is working on a fix for two zero-day exploits that are being actively exploited in the wild - but temporary fixes are already available.
 
@@ -156,7 +137,6 @@ Microsoft is working on a fix for two zero-day exploits that are being actively 
  - [https://www.zdnet.com/article/microsoft-hackers-go-headhunting-on-linkedin-use-whatsapp-to-deliver-malware/#ftag=RSSbaffb68](https://www.zdnet.com/article/microsoft-hackers-go-headhunting-on-linkedin-use-whatsapp-to-deliver-malware/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-30 11:05:32+00:00
- - tags: None
 
 Tech pros need to double-check job offers via LinkedIn, Microsoft warns.
 
@@ -164,7 +144,6 @@ Tech pros need to double-check job offers via LinkedIn, Microsoft warns.
  - [https://www.zdnet.com/article/microsoft-hackers-using-open-source-software-and-fake-jobs-in-phishing-attacks/#ftag=RSSbaffb68](https://www.zdnet.com/article/microsoft-hackers-using-open-source-software-and-fake-jobs-in-phishing-attacks/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-30 11:05:00+00:00
- - tags: None
 
 Microsoft details how hackers are using easily available tools and non-existent job offers to trick developers and IT workers.
 
@@ -172,7 +151,6 @@ Microsoft details how hackers are using easily available tools and non-existent 
  - [https://www.zdnet.com/home-and-office/this-tiny-usb-c-charger-packs-a-lot-of-power/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/this-tiny-usb-c-charger-packs-a-lot-of-power/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-30 11:00:02+00:00
- - tags: None
 
 The Ugreen Nexode Mini 45W Dual USB-C charger is hard to beat.
 
@@ -180,7 +158,6 @@ The Ugreen Nexode Mini 45W Dual USB-C charger is hard to beat.
  - [https://www.zdnet.com/article/netsuite-pitches-automation-eyes-high-growth-markets-in-apac-expansion/#ftag=RSSbaffb68](https://www.zdnet.com/article/netsuite-pitches-automation-eyes-high-growth-markets-in-apac-expansion/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-30 10:45:48+00:00
- - tags: None
 
 Oracle-owned cloud software vendor is looking to expand its operations in markets such as Indonesia and the Philippines, through a stronger partner ecosystem and "full suite" integrated platform that features automation.
 
@@ -188,7 +165,6 @@ Oracle-owned cloud software vendor is looking to expand its operations in market
  - [https://www.zdnet.com/home-and-office/wifi-6-router-sale-tp-link-archer-ax73-deal/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/wifi-6-router-sale-tp-link-archer-ax73-deal/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-30 08:39:47+00:00
- - tags: None
 
 A robust router is critical to your home and office. Here's a router deal to consider if you're due an upgrade.
 
@@ -196,7 +172,6 @@ A robust router is critical to your home and office. Here's a router deal to con
  - [https://www.zdnet.com/home-and-office/networking/wifi-6-router-sale-tp-link-archer-ax73-deal-promo-code-coupon-sale/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/networking/wifi-6-router-sale-tp-link-archer-ax73-deal-promo-code-coupon-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-30 08:39:00+00:00
- - tags: None
 
 A robust router is critical to your home and office. Here's a router deal to consider if you're due an upgrade.
 
@@ -204,7 +179,6 @@ A robust router is critical to your home and office. Here's a router deal to con
  - [https://www.zdnet.com/article/how-to-get-a-lifetime-of-1tb-of-cloud-storage-for-only-139/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-get-a-lifetime-of-1tb-of-cloud-storage-for-only-139/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-30 03:00:31+00:00
- - tags: None
 
 Koofr gives you enough cloud storage to handle your video, image, and music files. Here's how to get a lifetime of 1TB for just $139.
 
@@ -212,7 +186,6 @@ Koofr gives you enough cloud storage to handle your video, image, and music file
  - [https://www.zdnet.com/article/add-a-touchscreen-monitor-to-your-office-or-gaming-rig-for-289-99/#ftag=RSSbaffb68](https://www.zdnet.com/article/add-a-touchscreen-monitor-to-your-office-or-gaming-rig-for-289-99/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-30 02:56:55+00:00
- - tags: None
 
 This Desklab 4K monitor has a great anti-glare screen that's perfect for work or play. And right now it's $298, down from $700.
 
@@ -220,7 +193,6 @@ This Desklab 4K monitor has a great anti-glare screen that's perfect for work or
  - [https://www.zdnet.com/article/want-to-study-for-ethical-hacking-you-can-with-this-35-certification-bundle/#ftag=RSSbaffb68](https://www.zdnet.com/article/want-to-study-for-ethical-hacking-you-can-with-this-35-certification-bundle/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-30 02:52:00+00:00
- - tags: None
 
 Even if you have no tech background whatsoever, this bundle of courses can teach you Python, AWS, and ethical hacking skills.
 
@@ -228,7 +200,6 @@ Even if you have no tech background whatsoever, this bundle of courses can teach
  - [https://www.zdnet.com/article/complete-your-it-certification-this-45-comptia-it-training-package/#ftag=RSSbaffb68](https://www.zdnet.com/article/complete-your-it-certification-this-45-comptia-it-training-package/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-30 02:49:43+00:00
- - tags: None
 
 This complete IT certification training package can prepare students for the top CompTIA, Cisco, and AWS exams.
 
@@ -236,6 +207,5 @@ This complete IT certification training package can prepare students for the top
  - [https://www.zdnet.com/article/how-to-learn-python-javascript-c-and-more-for-just-40/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-learn-python-javascript-c-and-more-for-just-40/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-30 02:46:00+00:00
- - tags: None
 
 With this 14-course bundle, you don't need any tech experience to learn Python, Javascript, C++, and more.

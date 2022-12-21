@@ -1,10 +1,9 @@
-# Source Virtual Reality Oasis, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w
+# Source Virtual Reality Oasis, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w, Source language: en-US
 
 ## PSVR 2 Hands On - VR Just Leveled Up!
  - [https://www.youtube.com/watch?v=PxUXWpj11fw](https://www.youtube.com/watch?v=PxUXWpj11fw)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w
  - date published: 2022-09-14 12:00:15+00:00
- - tags: None
 
 I got hands on with the upcoming PSVR 2 headset at an exclusive event at PlayStation's offices in London. In this video I give you my hands on first impressions of the new PSVR 2 headset along with a selection of exciting VR games coming to the PlayStation VR2 platform next year.
 

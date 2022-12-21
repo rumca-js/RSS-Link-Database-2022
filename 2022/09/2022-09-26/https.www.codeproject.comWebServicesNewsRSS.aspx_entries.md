@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## A software developer’s most important skill? Communication
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58997](https://www.codeproject.com/script/News/View.aspx?nwid=58997)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-26 04:00:00+00:00
- - tags: None
 
 Whatever. What he said.
 
@@ -12,7 +11,6 @@ Whatever. What he said.
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58989](https://www.codeproject.com/script/News/View.aspx?nwid=58989)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-26 04:00:00+00:00
- - tags: None
 
 He spoke from his golden bath tub, filled with doubloons
 
@@ -20,7 +18,6 @@ He spoke from his golden bath tub, filled with doubloons
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58996](https://www.codeproject.com/script/News/View.aspx?nwid=58996)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-26 04:00:00+00:00
- - tags: None
 
 What can I get for a heavily-used liver?
 
@@ -28,7 +25,6 @@ What can I get for a heavily-used liver?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58991](https://www.codeproject.com/script/News/View.aspx?nwid=58991)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-26 04:00:00+00:00
- - tags: None
 
 "Each year one vicious habit rooted out, In time might make the worst Man good throughout."
 
@@ -36,7 +32,6 @@ What can I get for a heavily-used liver?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58994](https://www.codeproject.com/script/News/View.aspx?nwid=58994)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-26 04:00:00+00:00
- - tags: None
 
 I'll tell you in a minute, the answer is still loading
 
@@ -44,7 +39,6 @@ I'll tell you in a minute, the answer is still loading
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58993](https://www.codeproject.com/script/News/View.aspx?nwid=58993)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-26 04:00:00+00:00
- - tags: None
 
 Multi-factor will save us all, they said.
 
@@ -52,7 +46,6 @@ Multi-factor will save us all, they said.
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58998](https://www.codeproject.com/script/News/View.aspx?nwid=58998)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-26 04:00:00+00:00
- - tags: None
 
 People only watch this stuff for the crashes
 
@@ -60,7 +53,6 @@ People only watch this stuff for the crashes
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58995](https://www.codeproject.com/script/News/View.aspx?nwid=58995)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-26 04:00:00+00:00
- - tags: None
 
 And if you don't trust either?
 
@@ -68,7 +60,6 @@ And if you don't trust either?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58990](https://www.codeproject.com/script/News/View.aspx?nwid=58990)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-26 04:00:00+00:00
- - tags: None
 
 
 
@@ -76,7 +67,6 @@ And if you don't trust either?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59000](https://www.codeproject.com/script/News/View.aspx?nwid=59000)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-26 04:00:00+00:00
- - tags: None
 
 And this blurb contains its own blurb
 
@@ -84,7 +74,6 @@ And this blurb contains its own blurb
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58999](https://www.codeproject.com/script/News/View.aspx?nwid=58999)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-26 04:00:00+00:00
- - tags: None
 
 Is that the one where you can only paste some code if it's been in the copy buffer for six seconds?
 
@@ -92,6 +81,5 @@ Is that the one where you can only paste some code if it's been in the copy buff
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58992](https://www.codeproject.com/script/News/View.aspx?nwid=58992)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-26 04:00:00+00:00
- - tags: None
 
 And what if I want to log into Notepad?

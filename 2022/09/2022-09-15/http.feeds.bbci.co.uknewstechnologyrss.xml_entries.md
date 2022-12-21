@@ -1,10 +1,9 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml
+# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
 
 ## US school app accounts hacked to send explicit image
  - [https://www.bbc.co.uk/news/technology-62914010?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-62914010?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-09-15 13:15:01+00:00
- - tags: None
 
 The Seesaw app is used by millions of parents, students and teachers across America
 
@@ -12,7 +11,6 @@ The Seesaw app is used by millions of parents, students and teachers across Amer
  - [https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-62914104?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-62914104?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-09-15 10:17:00+00:00
- - tags: None
 
 Staff at the Coventry warehouse are voting on whether to strike amid a row over a pay offer.
 
@@ -20,6 +18,5 @@ Staff at the Coventry warehouse are voting on whether to strike amid a row over 
  - [https://www.bbc.co.uk/news/business-62910462?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-62910462?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-09-15 03:48:48+00:00
- - tags: None
 
 Do Kwon is behind the Terra Luna and TerraUSD cryptocurrencies that plunged in value in May.

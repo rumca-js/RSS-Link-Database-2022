@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## $400 off the 2021 MacBook Pro, and more of the latest Laptop deals
  - [https://www.androidauthority.com/best-laptop-deals-1109232/](https://www.androidauthority.com/best-laptop-deals-1109232/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-13 22:00:11+00:00
- - tags: None
 
 We've trawled the web to find the latest and greatest offers on laptops for all use cases and budgets.
 
@@ -12,7 +11,6 @@ We've trawled the web to find the latest and greatest offers on laptops for all 
  - [https://www.androidauthority.com/31-new-emoji-landed-today-3208475/](https://www.androidauthority.com/31-new-emoji-landed-today-3208475/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-13 21:25:11+00:00
- - tags: None
 
 Unicode 15.0 will bring new emojis to major platforms later this or in early 2023.
 
@@ -20,7 +18,6 @@ Unicode 15.0 will bring new emojis to major platforms later this or in early 202
  - [https://www.androidauthority.com/what-is-thread-3205634/](https://www.androidauthority.com/what-is-thread-3205634/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-13 20:00:46+00:00
- - tags: None
 
 Make Thread a priority whenever you're considering gear.
 
@@ -28,7 +25,6 @@ Make Thread a priority whenever you're considering gear.
  - [https://www.androidauthority.com/how-to-use-discord-on-xbox-3208232/](https://www.androidauthority.com/how-to-use-discord-on-xbox-3208232/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-13 19:40:26+00:00
- - tags: None
 
 It's about time, Microsoft. Discord finally comes to Xbox!
 
@@ -36,7 +32,6 @@ It's about time, Microsoft. Discord finally comes to Xbox!
  - [https://www.androidauthority.com/best-cheap-external-hard-drive-deals-1118021/](https://www.androidauthority.com/best-cheap-external-hard-drive-deals-1118021/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-13 18:10:29+00:00
- - tags: None
 
 The already affordable storage option just dropped to its best price in many months.
 
@@ -44,7 +39,6 @@ The already affordable storage option just dropped to its best price in many mon
  - [https://www.androidauthority.com/bose-quietcomfort-se-headphones-3208296/](https://www.androidauthority.com/bose-quietcomfort-se-headphones-3208296/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-13 17:51:24+00:00
- - tags: None
 
 Bose's QuietComfort headphones have been found on a number of retail websites.
 
@@ -52,7 +46,6 @@ Bose's QuietComfort headphones have been found on a number of retail websites.
  - [https://www.androidauthority.com/track-ebay-order-3151081/](https://www.androidauthority.com/track-ebay-order-3151081/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-13 17:31:21+00:00
- - tags: None
 
 Follow your packages online to see when they will arrive.
 
@@ -60,7 +53,6 @@ Follow your packages online to see when they will arrive.
  - [https://www.androidauthority.com/disney-plus-subtitles-3143016/](https://www.androidauthority.com/disney-plus-subtitles-3143016/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-13 17:13:59+00:00
- - tags: None
 
 Learn the words to sing along to your favorite Disney songs. Or not.
 
@@ -68,7 +60,6 @@ Learn the words to sing along to your favorite Disney songs. Or not.
  - [https://www.androidauthority.com/change-voice-waze-3133061/](https://www.androidauthority.com/change-voice-waze-3133061/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-13 16:13:01+00:00
- - tags: None
 
 Are you tired of that robotic, AI voice giving you directions? Why not let Morgan Freeman take hold of the mic?
 
@@ -76,7 +67,6 @@ Are you tired of that robotic, AI voice giving you directions? Why not let Morga
  - [https://www.androidauthority.com/apple-photonic-engine-3208007/](https://www.androidauthority.com/apple-photonic-engine-3208007/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-13 14:41:24+00:00
- - tags: None
 
 Getting the best out of multiple shots.
 
@@ -84,7 +74,6 @@ Getting the best out of multiple shots.
  - [https://www.androidauthority.com/waze-tutorial-tips-tricks-3130672/](https://www.androidauthority.com/waze-tutorial-tips-tricks-3130672/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-13 13:13:55+00:00
- - tags: None
 
 Master the ways of Waze to arrive at your destination swiftly.
 
@@ -92,7 +81,6 @@ Master the ways of Waze to arrive at your destination swiftly.
  - [https://www.androidauthority.com/sleep-with-phone-poll-3208088/](https://www.androidauthority.com/sleep-with-phone-poll-3208088/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-13 13:13:09+00:00
- - tags: None
 
 Many people use their phones in bed, but does yours stay in bed for the night?
 
@@ -100,7 +88,6 @@ Many people use their phones in bed, but does yours stay in bed for the night?
  - [https://www.androidauthority.com/fitbit-inspire-3-review-3202955/](https://www.androidauthority.com/fitbit-inspire-3-review-3202955/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-13 13:03:59+00:00
- - tags: None
 
 Fitbit covers all the basics, now on a brighter display.
 
@@ -108,7 +95,6 @@ Fitbit covers all the basics, now on a brighter display.
  - [https://www.androidauthority.com/amazon-kindle-2022-3207829/](https://www.androidauthority.com/amazon-kindle-2022-3207829/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-13 13:00:59+00:00
- - tags: None
 
 Amazon is slightly increasing the price of the Kindle but bringing over a ton of Paperwhite features.
 
@@ -116,7 +102,6 @@ Amazon is slightly increasing the price of the Kindle but bringing over a ton of
  - [https://www.androidauthority.com/apple-rcs-tim-cook-comments-3206886/](https://www.androidauthority.com/apple-rcs-tim-cook-comments-3206886/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-13 13:00:13+00:00
- - tags: None
 
 Let's all toss our Android phones in the trash and create an ecological disaster so Apple doesn't need to adopt RCS.
 
@@ -124,7 +109,6 @@ Let's all toss our Android phones in the trash and create an ecological disaster
  - [https://www.androidauthority.com/urbanista-phoenix-solar-charging-wireless-buds-3207442/](https://www.androidauthority.com/urbanista-phoenix-solar-charging-wireless-buds-3207442/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-13 13:00:04+00:00
- - tags: None
 
 The Urbanista Phoenix adds a solar panel to its charging case for endless listening.
 
@@ -132,7 +116,6 @@ The Urbanista Phoenix adds a solar panel to its charging case for endless listen
  - [https://www.androidauthority.com/best-iphone-14-cases-3206752/](https://www.androidauthority.com/best-iphone-14-cases-3206752/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-13 11:01:08+00:00
- - tags: None
 
 You don't have to sacrifice style for protection.
 
@@ -140,7 +123,6 @@ You don't have to sacrifice style for protection.
  - [https://www.androidauthority.com/daily-authority-september-13-2022-3208059/](https://www.androidauthority.com/daily-authority-september-13-2022-3208059/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-13 09:54:33+00:00
- - tags: None
 
 Plus, spoons and bowls that can make your food taste salty.
 
@@ -148,7 +130,6 @@ Plus, spoons and bowls that can make your food taste salty.
  - [https://www.androidauthority.com/google-chips-3208064/](https://www.androidauthority.com/google-chips-3208064/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-13 08:11:22+00:00
- - tags: None
 
 We want a processor that's not just a chip off the old block.
 
@@ -156,6 +137,5 @@ We want a processor that's not just a chip off the old block.
  - [https://www.androidauthority.com/phone-camera-zoom-quality-poll-results-3207565/](https://www.androidauthority.com/phone-camera-zoom-quality-poll-results-3207565/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-13 06:51:28+00:00
- - tags: None
 
 It turns out that just under a third of respondents are happy with camera zoom results.

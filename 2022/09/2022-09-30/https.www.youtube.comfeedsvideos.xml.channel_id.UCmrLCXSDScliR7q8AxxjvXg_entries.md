@@ -1,10 +1,9 @@
-# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
+# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, Source language: en-US
 
 ## 2022: Why #4chan Can't be DEFEATED
  - [https://www.youtube.com/watch?v=yXD6FUFyXLA](https://www.youtube.com/watch?v=yXD6FUFyXLA)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
  - date published: 2022-09-30 17:00:15+00:00
- - tags: None
 
 🔴Grab Atlas VPN with 82% OFF using my link: https://get.atlasvpn.com/BlackPigeonSpeaks
 

@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Atlassian takes aim at app sprawl with collaboration-suite subscription service
  - [https://www.computerworld.com/article/3675388/atlassian-takes-aim-at-saas-sprawl-with-new-subscription-service-for-its-work-management-suite.html#tk.rss_all](https://www.computerworld.com/article/3675388/atlassian-takes-aim-at-saas-sprawl-with-new-subscription-service-for-its-work-management-suite.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-29 20:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3675533/iphone-users-complain-ios-16-is-a-battery-drain-has-other-issues.html#tk.rss_all](https://www.computerworld.com/article/3675533/iphone-users-complain-ios-16-is-a-battery-drain-has-other-issues.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-29 18:21:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -24,7 +22,6 @@
  - [https://www.computerworld.com/article/3675331/apples-enterprise-it-pitch-management-security-identity.html#tk.rss_all](https://www.computerworld.com/article/3675331/apples-enterprise-it-pitch-management-security-identity.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-29 14:55:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -34,7 +31,6 @@
  - [https://www.networkworld.com/article/3675328/mit-based-startups-cooling-tech-can-cut-data-center-energy-costs-footprint.html#tk.rss_all](https://www.networkworld.com/article/3675328/mit-based-startups-cooling-tech-can-cut-data-center-energy-costs-footprint.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-29 14:41:00+00:00
- - tags: None
 
 Jetcool says that its use of microconvection enables on-board liquid cooling and makes its devices more effective by a factor of 10, compared to traditional heat sinks or cold plates.
 
@@ -42,7 +38,6 @@ Jetcool says that its use of microconvection enables on-board liquid cooling and
  - [https://www.computerworld.com/article/3674831/android-chrome-secrets.html#tk.rss_all](https://www.computerworld.com/article/3674831/android-chrome-secrets.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-29 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

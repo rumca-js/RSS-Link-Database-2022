@@ -1,10 +1,9 @@
-# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
+# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, Source language: en-US
 
 ## Putin: The Cobra Commander of 2022
  - [https://www.youtube.com/watch?v=t5nFPOCNzIw](https://www.youtube.com/watch?v=t5nFPOCNzIw)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
  - date published: 2022-09-11 17:45:11+00:00
- - tags: None
 
 ⭐ Get BPS Stuff in Worldwide (Both North America, Europe and Worldwide): 
 https://bps-north-america.creator-spring.com/

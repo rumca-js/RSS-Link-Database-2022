@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## The quick and easy guide to eSIM on Apple's iPhone 14
  - [https://www.computerworld.com/article/3673100/the-quick-and-easy-guide-to-esim-on-apples-iphone-14.html#tk.rss_all](https://www.computerworld.com/article/3673100/the-quick-and-easy-guide-to-esim-on-apples-iphone-14.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-13 15:52:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -15,7 +14,6 @@
  - [https://www.computerworld.com/article/3673232/tech-salaries-on-the-rise-globally-report.html#tk.rss_all](https://www.computerworld.com/article/3673232/tech-salaries-on-the-rise-globally-report.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-13 13:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -25,7 +23,6 @@
  - [https://www.computerworld.com/article/3673259/yes-quiet-quitting-is-real.html#tk.rss_all](https://www.computerworld.com/article/3673259/yes-quiet-quitting-is-real.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-13 11:30:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -35,7 +32,6 @@
  - [https://www.computerworld.com/article/3673271/qa-from-parkourist-to-data-analyst-how-low-code-opened-doors-to-a-tech-career.html#tk.rss_all](https://www.computerworld.com/article/3673271/qa-from-parkourist-to-data-analyst-how-low-code-opened-doors-to-a-tech-career.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-13 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

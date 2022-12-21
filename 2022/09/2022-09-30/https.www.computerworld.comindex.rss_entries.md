@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## The evolution of the MacBook
  - [https://www.computerworld.com/article/3157371/the-evolution-of-the-macbook.html#tk.rss_all](https://www.computerworld.com/article/3157371/the-evolution-of-the-macbook.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-30 20:39:00+00:00
- - tags: None
 
 <article class="slideshow"><figure class="slide"><figcaption>The MacBook (and MacBook Air) after 25+ years</figcaption><img alt="Computerworld &gt; The Evolution of the MacBook [cover]" src="https://images.idgesg.net/images/article/2018/09/cw_evolution_of_the_macbook_01-100771061-large.jpg?auto=webp&amp;quality=85,70" /><p class="slideCredit">Image by <a class="slideCreditLink" href="https://unsplash.com/photos/3gdPXgw9emo" rel="nofollow" target="_blank"><span class="slideCreditText">IDG / Ash E
 
@@ -12,7 +11,6 @@
  - [https://www.computerworld.com/article/3675332/how-taiwan-deployed-400000-ipads-in-a-few-weeks.html#tk.rss_all](https://www.computerworld.com/article/3675332/how-taiwan-deployed-400000-ipads-in-a-few-weeks.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-30 15:56:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -22,7 +20,6 @@
  - [https://www.computerworld.com/article/3675349/is-it-finally-time-to-upgrade-to-windows-11.html#tk.rss_all](https://www.computerworld.com/article/3675349/is-it-finally-time-to-upgrade-to-windows-11.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-30 12:54:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -32,7 +29,6 @@
  - [https://www.computerworld.com/article/3674853/smartphone-satellite-expectations-will-soon-crash-to-earth.html#tk.rss_all](https://www.computerworld.com/article/3674853/smartphone-satellite-expectations-will-soon-crash-to-earth.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-30 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

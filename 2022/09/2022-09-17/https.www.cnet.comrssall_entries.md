@@ -1,10 +1,9 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/
+# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
 
 ## Delete Your Android Phone Browser Cookies and Cache to Get Rid of Junk Files     - CNET
  - [https://www.cnet.com/tech/mobile/delete-your-android-phone-browser-cookies-cache-get-rid-of-junk-files/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/delete-your-android-phone-browser-cookies-cache-get-rid-of-junk-files/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 23:16:52+00:00
- - tags: None
 
 Wipe your Android cookies and cache quickly and can get rid of plenty of files you just don't need.
 
@@ -12,7 +11,6 @@ Wipe your Android cookies and cache quickly and can get rid of plenty of files y
  - [https://www.cnet.com/tech/home-entertainment/got-a-streaming-device-you-need-to-change-these-settings-asap/#ftag=CADf328eec](https://www.cnet.com/tech/home-entertainment/got-a-streaming-device-you-need-to-change-these-settings-asap/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 23:00:09+00:00
- - tags: None
 
 People use streaming devices to watch shows on their TV, but Roku, Apple TV, Amazon Fire TV and Google Chromecast use tools that can track your activity. Here's how to take control.
 
@@ -20,7 +18,6 @@ People use streaming devices to watch shows on their TV, but Roku, Apple TV, Ama
  - [https://www.cnet.com/culture/entertainment/stem-toys/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/stem-toys/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 23:00:05+00:00
- - tags: None
 
 From robots to 3D pens and Legos, these hands-on gifts for kids are genuinely fun. Bonus: They also impart skills in science, tech, engineering and math.
 
@@ -28,7 +25,6 @@ From robots to 3D pens and Legos, these hands-on gifts for kids are genuinely fu
  - [https://www.cnet.com/tech/computing/just-because-you-forgot-your-wi-fi-password-doesnt-mean-your-computer-you-lost-your-wi-fi-password-but-its-ok-your-computers-got-your-back/#ftag=CADf328eec](https://www.cnet.com/tech/computing/just-because-you-forgot-your-wi-fi-password-doesnt-mean-your-computer-you-lost-your-wi-fi-password-but-its-ok-your-computers-got-your-back/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 22:55:02+00:00
- - tags: None
 
 It doesn't matter if you're on Mac or Windows. Learn how to retrieve your Wi-Fi password.
 
@@ -36,7 +32,6 @@ It doesn't matter if you're on Mac or Windows. Learn how to retrieve your Wi-Fi 
  - [https://www.cnet.com/deals/best-tv-deals/#ftag=CADf328eec](https://www.cnet.com/deals/best-tv-deals/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 22:29:40+00:00
- - tags: None
 
 From 43 inches all the way up to 85-inch screens, get big savings on top brands like Toshiba, LG, Samsung, TCL and more.
 
@@ -44,7 +39,6 @@ From 43 inches all the way up to 85-inch screens, get big savings on top brands 
  - [https://www.cnet.com/culture/entertainment/the-absolute-best-fantasy-movies-to-stream-on-netflix-for-this-week/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-absolute-best-fantasy-movies-to-stream-on-netflix-for-this-week/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 22:29:26+00:00
- - tags: None
 
 Netflix's fantasy options range from pure magic to touching allegories of the human condition.
 
@@ -52,7 +46,6 @@ Netflix's fantasy options range from pure magic to touching allegories of the hu
  - [https://www.cnet.com/culture/entertainment/the-best-movies-to-watch-through-apple-tv-plus-for-this-weekend/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-best-movies-to-watch-through-apple-tv-plus-for-this-weekend/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 22:29:16+00:00
- - tags: None
 
 Check out Cha Cha Real Smooth, a comedy-drama starring Dakota Johnson, and see what else you should stream on Apple TV Plus.
 
@@ -60,7 +53,6 @@ Check out Cha Cha Real Smooth, a comedy-drama starring Dakota Johnson, and see w
  - [https://www.cnet.com/culture/10-grocery-items-that-might-be-hard-to-find-in-your-local-store/#ftag=CADf328eec](https://www.cnet.com/culture/10-grocery-items-that-might-be-hard-to-find-in-your-local-store/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 22:29:12+00:00
- - tags: None
 
 Not only are there product shortages, but prices are also increasing on staple grocery items.
 
@@ -68,7 +60,6 @@ Not only are there product shortages, but prices are also increasing on staple g
  - [https://www.cnet.com/culture/entertainment/more-people-should-watch-this-south-korean-time-travel-gem-on-netflix/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/more-people-should-watch-this-south-korean-time-travel-gem-on-netflix/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 22:29:08+00:00
- - tags: None
 
 The Call is an immaculate cat-and-mouse time travel thriller with the same editor as Parasite.
 
@@ -76,7 +67,6 @@ The Call is an immaculate cat-and-mouse time travel thriller with the same edito
  - [https://www.cnet.com/tech/services-and-software/best-vpn-for-firestick/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/best-vpn-for-firestick/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 22:29:03+00:00
- - tags: None
 
 What your ISP can't see, it can't throttle. Here are the best virtual private networks for boosting privacy with your Amazon Fire TV Stick.
 
@@ -84,7 +74,6 @@ What your ISP can't see, it can't throttle. Here are the best virtual private ne
  - [https://www.cnet.com/tech/services-and-software/best-vpn-for-xbox/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/best-vpn-for-xbox/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 22:28:10+00:00
- - tags: None
 
 If they can't see your real IP address when you're gaming, they're going to have a hard time DDoS'ing you or kicking you out.
 
@@ -92,7 +81,6 @@ If they can't see your real IP address when you're gaming, they're going to have
  - [https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-shows-to-catch-this-evening/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-shows-to-catch-this-evening/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 19:05:07+00:00
- - tags: None
 
 This weekend binge season 2 of Fate: The Winx Saga or British comedy I Used to Be Famous, starring Ed Skrein.
 
@@ -100,7 +88,6 @@ This weekend binge season 2 of Fate: The Winx Saga or British comedy I Used to B
  - [https://www.cnet.com/culture/entertainment/netflix-the-44-absolute-best-movies-to-catch-this-weekend/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/netflix-the-44-absolute-best-movies-to-catch-this-weekend/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 19:00:07+00:00
- - tags: None
 
 This weekend catch teen comedy Do Revenge, starring Camila Mendes and Maya Hawke.
 
@@ -108,7 +95,6 @@ This weekend catch teen comedy Do Revenge, starring Camila Mendes and Maya Hawke
  - [https://www.cnet.com/culture/entertainment/best-card-games/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/best-card-games/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 18:16:00+00:00
- - tags: None
 
 Put away your old playing cards. These games will freshen up your holiday celebrations with the fam.
 
@@ -116,7 +102,6 @@ Put away your old playing cards. These games will freshen up your holiday celebr
  - [https://www.cnet.com/science/space/hubble-telescope-image-captures-what-might-be-the-prettiest-spiral-galaxy-ever/#ftag=CADf328eec](https://www.cnet.com/science/space/hubble-telescope-image-captures-what-might-be-the-prettiest-spiral-galaxy-ever/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 17:38:00+00:00
- - tags: None
 
 IMHO, NGC 1961 is a pinup-worthy galaxy.
 
@@ -124,7 +109,6 @@ IMHO, NGC 1961 is a pinup-worthy galaxy.
  - [https://www.cnet.com/deals/save-hundreds-on-refurbished-samsung-phones-with-prices-starting-at-114/#ftag=CADf328eec](https://www.cnet.com/deals/save-hundreds-on-refurbished-samsung-phones-with-prices-starting-at-114/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 17:21:02+00:00
- - tags: None
 
 You can score deep discounts on these devices -- if you can live with some dings and scrapes. But some models are selling out fast and these deals expire tonight.
 
@@ -132,7 +116,6 @@ You can score deep discounts on these devices -- if you can live with some dings
  - [https://www.cnet.com/culture/best-halloween-costumes-for-pets/#ftag=CADf328eec](https://www.cnet.com/culture/best-halloween-costumes-for-pets/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 16:00:03+00:00
- - tags: None
 
 In need of a Halloween costume for your furry friend? No need to stress, I compiled a list of the best costumes for your pet.
 
@@ -140,7 +123,6 @@ In need of a Halloween costume for your furry friend? No need to stress, I compi
  - [https://www.cnet.com/tech/gaming/pokemon-go-september-2022-community-day-shiny-roggenrola-bonuses-and-more/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/pokemon-go-september-2022-community-day-shiny-roggenrola-bonuses-and-more/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 15:00:02+00:00
- - tags: None
 
 Here's everything you need to know about this month's Community Day event.
 
@@ -148,7 +130,6 @@ Here's everything you need to know about this month's Community Day event.
  - [https://www.cnet.com/deals/save-up-to-102-on-sonys-portable-bluetooth-speakers/#ftag=CADf328eec](https://www.cnet.com/deals/save-up-to-102-on-sonys-portable-bluetooth-speakers/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 14:48:00+00:00
- - tags: None
 
 Take your music with you wherever you go to keep the party going.
 
@@ -156,7 +137,6 @@ Take your music with you wherever you go to keep the party going.
  - [https://www.cnet.com/deals/save-40-on-a-new-mattress-during-the-siena-sleep-flash-sale/#ftag=CADf328eec](https://www.cnet.com/deals/save-40-on-a-new-mattress-during-the-siena-sleep-flash-sale/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 14:13:55+00:00
- - tags: None
 
 Upgrade your old, worn-out mattress for a better night's sleep -- prices start at just $299 for a limited time.
 
@@ -164,7 +144,6 @@ Upgrade your old, worn-out mattress for a better night's sleep -- prices start a
  - [https://www.cnet.com/health/fitness/gym-equipment-is-expensive-heres-how-to-find-high-quality-used-gear/#ftag=CADf328eec](https://www.cnet.com/health/fitness/gym-equipment-is-expensive-heres-how-to-find-high-quality-used-gear/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 14:00:02+00:00
- - tags: None
 
 Here's which workout machines you should buy used, and what to pass on at your neighbor's garage sale.
 
@@ -172,7 +151,6 @@ Here's which workout machines you should buy used, and what to pass on at your n
  - [https://www.cnet.com/how-to/save-big-on-heating-costs-with-this-home-upgrade/#ftag=CADf328eec](https://www.cnet.com/how-to/save-big-on-heating-costs-with-this-home-upgrade/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 13:50:03+00:00
- - tags: None
 
 A heat pump can help you save money warming your house this winter. Here's how.
 
@@ -180,7 +158,6 @@ A heat pump can help you save money warming your house this winter. Here's how.
  - [https://www.cnet.com/culture/entertainment/hbo-max-the-33-absolute-best-tv-series-you-can-watch-in-september/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/hbo-max-the-33-absolute-best-tv-series-you-can-watch-in-september/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 13:08:00+00:00
- - tags: None
 
 Check out The White Lotus, which won the 2022 Emmy for best limited series.
 
@@ -188,7 +165,6 @@ Check out The White Lotus, which won the 2022 Emmy for best limited series.
  - [https://www.cnet.com/personal-finance/taxes/state-stimulus-payments-update-is-your-state-sending-a-check-this-month/#ftag=CADf328eec](https://www.cnet.com/personal-finance/taxes/state-stimulus-payments-update-is-your-state-sending-a-check-this-month/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 13:00:03+00:00
- - tags: None
 
 States are issuing tax refunds, stimulus payments and more this fall. Find out if yours is one of them.
 
@@ -196,7 +172,6 @@ States are issuing tax refunds, stimulus payments and more this fall. Find out i
  - [https://www.cnet.com/culture/entertainment/prime-video-the-33-absolute-best-tv-shows-you-can-stream-september/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/prime-video-the-33-absolute-best-tv-shows-you-can-stream-september/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 12:48:23+00:00
- - tags: None
 
 Need a sci-fi series to binge? Try The Expanse or Paper Girls.
 
@@ -204,7 +179,6 @@ Need a sci-fi series to binge? Try The Expanse or Paper Girls.
  - [https://www.cnet.com/culture/entertainment/prime-video-the-absolute-best-movies-to-watch-in-september/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/prime-video-the-absolute-best-movies-to-watch-in-september/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 12:38:20+00:00
- - tags: None
 
 Catch the 2022 movie Dog, starring Channing Tatum.
 
@@ -212,7 +186,6 @@ Catch the 2022 movie Dog, starring Channing Tatum.
  - [https://www.cnet.com/health/ever-wondered-why-you-get-many-mosquito-bites-blood-type-could-explain-it/#ftag=CADf328eec](https://www.cnet.com/health/ever-wondered-why-you-get-many-mosquito-bites-blood-type-could-explain-it/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 12:25:03+00:00
- - tags: None
 
 Here are five possible reasons why you're more attractive to mosquitos than others.
 
@@ -220,7 +193,6 @@ Here are five possible reasons why you're more attractive to mosquitos than othe
  - [https://www.cnet.com/personal-finance/credit-cards/citi-credit-cards/#ftag=CADf328eec](https://www.cnet.com/personal-finance/credit-cards/citi-credit-cards/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 12:15:02+00:00
- - tags: None
 
 What is the best Citi credit card for you?
 
@@ -228,7 +200,6 @@ What is the best Citi credit card for you?
  - [https://www.cnet.com/tech/mobile/the-iphone-14s-newest-features-have-been-on-android-for-years/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/the-iphone-14s-newest-features-have-been-on-android-for-years/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 12:00:30+00:00
- - tags: None
 
 The iPhone 14 Pro brings with it some cool features like an always-on display and the redesigned hole-punch screen, but it's not entirely new.
 
@@ -236,7 +207,6 @@ The iPhone 14 Pro brings with it some cool features like an always-on display an
  - [https://www.cnet.com/news/googles-nest-gives-cameras-to-asian-small-businesses-amid-rising-violence/#ftag=CADf328eec](https://www.cnet.com/news/googles-nest-gives-cameras-to-asian-small-businesses-amid-rising-violence/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 12:00:24+00:00
- - tags: None
 
 The AAPI Strong program aims to give an added layer of security to community members.
 
@@ -244,7 +214,6 @@ The AAPI Strong program aims to give an added layer of security to community mem
  - [https://www.cnet.com/culture/entertainment/how-netflix-squid-game-and-koreas-k-wave-smashed-the-emmys-barrier/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/how-netflix-squid-game-and-koreas-k-wave-smashed-the-emmys-barrier/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 12:00:19+00:00
- - tags: None
 
 Until Squid Game, no non-English show had ever been nominated for a major Emmy. Then Netflix and Korean pop culture blanketed the globe -- and won.
 
@@ -252,7 +221,6 @@ Until Squid Game, no non-English show had ever been nominated for a major Emmy. 
  - [https://www.cnet.com/roadshow/news/smart-headlights-are-around-the-corner-to-the-relief-of-that-driver-youre-blinding/#ftag=CADf328eec](https://www.cnet.com/roadshow/news/smart-headlights-are-around-the-corner-to-the-relief-of-that-driver-youre-blinding/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 12:00:10+00:00
- - tags: None
 
 But a question remains as to whether newly legal adaptive headlights will be widespread or for luxury cars only.
 
@@ -260,7 +228,6 @@ But a question remains as to whether newly legal adaptive headlights will be wid
  - [https://www.cnet.com/roadshow/videos/the-us-is-about-to-exit-a-long-dark-age-of-lousy-headlights/#ftag=CADf328eec](https://www.cnet.com/roadshow/videos/the-us-is-about-to-exit-a-long-dark-age-of-lousy-headlights/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 12:00:01+00:00
- - tags: None
 
 Newly loosened regulations set the stage for headlights smarter than the car's driver.
 
@@ -268,7 +235,6 @@ Newly loosened regulations set the stage for headlights smarter than the car's d
  - [https://www.cnet.com/tech/services-and-software/ios-16-how-to-unsend-and-edit-text-messages-on-your-iphone/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/ios-16-how-to-unsend-and-edit-text-messages-on-your-iphone/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 11:35:00+00:00
- - tags: None
 
 If you make a texting mistake, you have a limited amount of time to unsend or edit any sent message.
 
@@ -276,7 +242,6 @@ If you make a texting mistake, you have a limited amount of time to unsend or ed
  - [https://www.cnet.com/personal-finance/social-security-benefits-when-2023-cost-of-living-increase-announced/#ftag=CADf328eec](https://www.cnet.com/personal-finance/social-security-benefits-when-2023-cost-of-living-increase-announced/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 11:00:42+00:00
- - tags: None
 
 Seniors could receive the biggest boost to their checks since 1981.
 
@@ -284,7 +249,6 @@ Seniors could receive the biggest boost to their checks since 1981.
  - [https://www.cnet.com/tech/mobile/best-fitness-tracker/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/best-fitness-tracker/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 11:00:36+00:00
- - tags: None
 
 Hit your workout, step and health goals with these fitness trackers.
 
@@ -292,7 +256,6 @@ Hit your workout, step and health goals with these fitness trackers.
  - [https://www.cnet.com/tech/computing/best-e-ink-tablets-for-2022/#ftag=CADf328eec](https://www.cnet.com/tech/computing/best-e-ink-tablets-for-2022/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 11:00:31+00:00
- - tags: None
 
 These big E Ink tablets have a 10.3-inch screen and are great for students who love to draw, highlight PDFs and take notes by hand.
 
@@ -300,7 +263,6 @@ These big E Ink tablets have a 10.3-inch screen and are great for students who l
  - [https://www.cnet.com/tech/mobile/best-iphone-13-cases/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/best-iphone-13-cases/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 11:00:25+00:00
- - tags: None
 
 Need a case for your iPhone 13? These are the best ones, and many are MagSafe-compatible.
 
@@ -308,7 +270,6 @@ Need a case for your iPhone 13? These are the best ones, and many are MagSafe-co
  - [https://www.cnet.com/health/sleep/best-king-mattress/#ftag=CADf328eec](https://www.cnet.com/health/sleep/best-king-mattress/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 11:00:12+00:00
- - tags: None
 
 Get the space you need to spread out for a good night's sleep with the best king mattress for 2022.
 
@@ -316,7 +277,6 @@ Get the space you need to spread out for a good night's sleep with the best king
  - [https://www.cnet.com/culture/real-id-deadline-is-approaching-heres-how-to-get-yours/#ftag=CADf328eec](https://www.cnet.com/culture/real-id-deadline-is-approaching-heres-how-to-get-yours/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 11:00:07+00:00
- - tags: None
 
 You'll soon need a Real ID-approved license to board a domestic flight. Here's what to bring to the DMV.
 
@@ -324,7 +284,6 @@ You'll soon need a Real ID-approved license to board a domestic flight. Here's w
  - [https://www.cnet.com/culture/entertainment/best-family-movies-on-netflix/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/best-family-movies-on-netflix/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 10:00:07+00:00
- - tags: None
 
 Want to watch a family-friendly film with the kids? These are the best.
 
@@ -332,7 +291,6 @@ Want to watch a family-friendly film with the kids? These are the best.
  - [https://www.cnet.com/tech/mobile/apples-iphone-14-pro-vs-galaxy-s22-ultra-pixel-6-pro-oneplus-10-pro-how-they-compare/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/apples-iphone-14-pro-vs-galaxy-s22-ultra-pixel-6-pro-oneplus-10-pro-how-they-compare/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 10:00:02+00:00
- - tags: None
 
 How Apple's most expensive iPhone 14 models compare against other high-end flagship phones.
 
@@ -340,7 +298,6 @@ How Apple's most expensive iPhone 14 models compare against other high-end flags
  - [https://www.cnet.com/tech/mobile/should-you-upgrade-to-iphone-14-how-it-compares-to-older-iphones/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/should-you-upgrade-to-iphone-14-how-it-compares-to-older-iphones/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 09:37:02+00:00
- - tags: None
 
 Should you buy the iPhone 14? Find out whether it's time to upgrade or to hold onto your current iPhone.
 
@@ -348,7 +305,6 @@ Should you buy the iPhone 14? Find out whether it's time to upgrade or to hold o
  - [https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 09:00:12+00:00
- - tags: None
 
 From foldables like the Galaxy Z Fold 4 to budget-friendly Galaxy A devices, there are plenty of options in Samsung's lineup.
 
@@ -356,7 +312,6 @@ From foldables like the Galaxy Z Fold 4 to budget-friendly Galaxy A devices, the
  - [https://www.cnet.com/culture/national-cheeseburger-day-2022-burger-king-mcdonalds-wendys-hardees/#ftag=CADf328eec](https://www.cnet.com/culture/national-cheeseburger-day-2022-burger-king-mcdonalds-wendys-hardees/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 09:00:07+00:00
- - tags: None
 
 Find out where you can get free cheeseburgers, BOGO deals and discounts on Sept. 18.
 
@@ -364,7 +319,6 @@ Find out where you can get free cheeseburgers, BOGO deals and discounts on Sept.
  - [https://www.cnet.com/tech/gaming/best-steam-deck-accessories-for-expanding-your-system/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/best-steam-deck-accessories-for-expanding-your-system/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 09:00:03+00:00
- - tags: None
 
 Turn the handheld Steam Deck into a mini gaming desktop, or at least add some more storage.
 
@@ -372,7 +326,6 @@ Turn the handheld Steam Deck into a mini gaming desktop, or at least add some mo
  - [https://www.cnet.com/culture/entertainment/andor-actors-reveal-their-star-wars-action-figure-dreams/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/andor-actors-reveal-their-star-wars-action-figure-dreams/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 00:49:29+00:00
- - tags: None
 
 In interviews, actors in the Disney Plus show tell CNET about their characters' essential accessories -- and lots more.
 
@@ -380,7 +333,6 @@ In interviews, actors in the Disney Plus show tell CNET about their characters' 
  - [https://www.cnet.com/tech/gaming/splatoon-3-amiibo-guide-every-amiibo-gear-set-and-how-to-unlock-them/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/splatoon-3-amiibo-guide-every-amiibo-gear-set-and-how-to-unlock-them/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 00:00:29+00:00
- - tags: None
 
 Scan Splatoon series Amiibo to unlock some exclusive gear for your Inkling or Octoling.
 
@@ -388,7 +340,6 @@ Scan Splatoon series Amiibo to unlock some exclusive gear for your Inkling or Oc
  - [https://www.cnet.com/tech/mobile/hidden-iphone-messages-let-you-chat-secretly-how-it-works/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/hidden-iphone-messages-let-you-chat-secretly-how-it-works/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 00:00:22+00:00
- - tags: None
 
 One of the built-in apps on iPhone lets you keep your conversations hidden.
 
@@ -396,6 +347,5 @@ One of the built-in apps on iPhone lets you keep your conversations hidden.
  - [https://www.cnet.com/tech/mobile/ios-16-use-your-nintendo-switch-joy-cons-to-play-games-on-your-iphone/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/ios-16-use-your-nintendo-switch-joy-cons-to-play-games-on-your-iphone/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-17 00:00:02+00:00
- - tags: None
 
 If your Nintendo Switch has died, you can use the Joy-Con controllers on your Apple devices.

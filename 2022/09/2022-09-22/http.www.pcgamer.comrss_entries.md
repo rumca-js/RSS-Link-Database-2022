@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## Hearthstone's next mini-set will pit Sylvanas against Zovaal next week
  - [https://www.pcgamer.com/hearthstones-next-mini-set-will-pit-sylvanas-against-zovaal-next-week](https://www.pcgamer.com/hearthstones-next-mini-set-will-pit-sylvanas-against-zovaal-next-week)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 23:27:39+00:00
- - tags: None
 
 Maw and Disorder goes live on September 27
 
@@ -12,7 +11,6 @@ Maw and Disorder goes live on September 27
  - [https://www.pcgamer.com/this-throwback-sci-fi-fps-is-like-the-jedi-knight-4-we-never-got](https://www.pcgamer.com/this-throwback-sci-fi-fps-is-like-the-jedi-knight-4-we-never-got)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 22:21:12+00:00
- - tags: None
 
 Fortune's Run has taken Jedi Knight's legendary lightsaber combat and sprawling levels to new heights.
 
@@ -20,7 +18,6 @@ Fortune's Run has taken Jedi Knight's legendary lightsaber combat and sprawling 
  - [https://www.pcgamer.com/hunt-showdown-devs-appear-to-be-cooking-up-some-kind-of-horrible-pilotable-bug](https://www.pcgamer.com/hunt-showdown-devs-appear-to-be-cooking-up-some-kind-of-horrible-pilotable-bug)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 22:02:03+00:00
- - tags: None
 
 I am gonna sting so many bounty campers with this little guy.
 
@@ -28,7 +25,6 @@ I am gonna sting so many bounty campers with this little guy.
  - [https://www.pcgamer.com/rings-of-power-mmo-amazon](https://www.pcgamer.com/rings-of-power-mmo-amazon)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 21:50:34+00:00
- - tags: None
 
 It's hard to watch The Rings of Power without feeling more and more disappointed that the MMO was canceled.
 
@@ -36,7 +32,6 @@ It's hard to watch The Rings of Power without feeling more and more disappointed
  - [https://www.pcgamer.com/you-may-soon-be-able-to-buy-a-steam-deck-without-a-reservation](https://www.pcgamer.com/you-may-soon-be-able-to-buy-a-steam-deck-without-a-reservation)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 21:27:30+00:00
- - tags: None
 
 Valve said it's on track to have all reservations fulfilled by the end of the year. Oh, and there's a problem with Canada.
 
@@ -44,7 +39,6 @@ Valve said it's on track to have all reservations fulfilled by the end of the ye
  - [https://www.pcgamer.com/trombone-champ-creator-sounds-off-about-baboons-trombone-traphouse-and-goku-vs-vegeta](https://www.pcgamer.com/trombone-champ-creator-sounds-off-about-baboons-trombone-traphouse-and-goku-vs-vegeta)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 20:35:18+00:00
- - tags: None
 
 Dan Vecchitto of Holy Wow Studios tells us about future features, hot dogs, his favorite songs, and why the game is full of baboons.
 
@@ -52,7 +46,6 @@ Dan Vecchitto of Holy Wow Studios tells us about future features, hot dogs, his 
  - [https://www.pcgamer.com/cyberpunk-2077-is-now-pulling-in-more-than-1-million-players-per-day](https://www.pcgamer.com/cyberpunk-2077-is-now-pulling-in-more-than-1-million-players-per-day)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 20:28:21+00:00
- - tags: None
 
 That's quite a turnaround.
 
@@ -60,7 +53,6 @@ That's quite a turnaround.
  - [https://www.pcgamer.com/logitech-g-pro-racing-wheel-pedals-review](https://www.pcgamer.com/logitech-g-pro-racing-wheel-pedals-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 17:08:31+00:00
- - tags: None
 
 The serious racing wheel we've been waiting for Logitech to make.
 
@@ -68,7 +60,6 @@ The serious racing wheel we've been waiting for Logitech to make.
  - [https://www.pcgamer.com/why-90s-cult-film-fans-will-love-serial-cleaners](https://www.pcgamer.com/why-90s-cult-film-fans-will-love-serial-cleaners)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 17:01:36+00:00
- - tags: None
 
 The new crime-scene clean-up game is filled with hidden references for movie geeks.
 
@@ -76,7 +67,6 @@ The new crime-scene clean-up game is filled with hidden references for movie gee
  - [https://www.pcgamer.com/she-hulk-needs-her-own-ace-attorney-game](https://www.pcgamer.com/she-hulk-needs-her-own-ace-attorney-game)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 16:54:02+00:00
- - tags: None
 
 Instead of fighting Thanos, fight the legal system.
 
@@ -84,7 +74,6 @@ Instead of fighting Thanos, fight the legal system.
  - [https://www.pcgamer.com/the-first-e-mote-turned-40-this-week](https://www.pcgamer.com/the-first-e-mote-turned-40-this-week)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 16:48:15+00:00
- - tags: None
 
 Don't you feel old? :-)
 
@@ -92,7 +81,6 @@ Don't you feel old? :-)
  - [https://www.pcgamer.com/play-a-killer-whale-a-polar-bear-and-a-bumblebee-in-minecraft-thanks-to-bbc-earth](https://www.pcgamer.com/play-a-killer-whale-a-polar-bear-and-a-bumblebee-in-minecraft-thanks-to-bbc-earth)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 16:38:04+00:00
- - tags: None
 
 Learn why the Lapland bumblebee is an OG.
 
@@ -100,7 +88,6 @@ Learn why the Lapland bumblebee is an OG.
  - [https://www.pcgamer.com/splinter-cell-remake-is-being-rewritten-for-a-modern-day-audience](https://www.pcgamer.com/splinter-cell-remake-is-being-rewritten-for-a-modern-day-audience)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 16:37:45+00:00
- - tags: None
 
 A Ubisoft job listing reveals that the story is being redone to bring Sam Fisher's original adventure into a new era.
 
@@ -108,7 +95,6 @@ A Ubisoft job listing reveals that the story is being redone to bring Sam Fisher
  - [https://www.pcgamer.com/cyberpunk-2077-overdrive-mode](https://www.pcgamer.com/cyberpunk-2077-overdrive-mode)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 16:34:17+00:00
- - tags: None
 
 Night City sure does look pretty though.
 
@@ -116,7 +102,6 @@ Night City sure does look pretty though.
  - [https://www.pcgamer.com/solium-infernum-is-getting-a-ground-up-re-imagining-from-the-creators-of-armello](https://www.pcgamer.com/solium-infernum-is-getting-a-ground-up-re-imagining-from-the-creators-of-armello)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 16:15:43+00:00
- - tags: None
 
 The cult grand political strategy game will launch for PC in 2023.
 
@@ -124,7 +109,6 @@ The cult grand political strategy game will launch for PC in 2023.
  - [https://www.pcgamer.com/these-skyrim-and-fallout-tarot-decks-are-more-novelty-than-magic](https://www.pcgamer.com/these-skyrim-and-fallout-tarot-decks-are-more-novelty-than-magic)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 15:50:41+00:00
- - tags: None
 
 The cards are stylish curios but not great for doing readings.
 
@@ -132,7 +116,6 @@ The cards are stylish curios but not great for doing readings.
  - [https://www.pcgamer.com/ai-generated-images-face-getty-ban-as-privacy-and-ownership-concerns-grow](https://www.pcgamer.com/ai-generated-images-face-getty-ban-as-privacy-and-ownership-concerns-grow)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 15:17:50+00:00
- - tags: None
 
 The company believes AI generated images may lead to a legal challenge of some sort.
 
@@ -140,7 +123,6 @@ The company believes AI generated images may lead to a legal challenge of some s
  - [https://www.pcgamer.com/how-to-make-money-in-gta-online](https://www.pcgamer.com/how-to-make-money-in-gta-online)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 15:13:04+00:00
- - tags: None
 
 Here we'll show you how to get your hands on GTA Online money.
 
@@ -148,7 +130,6 @@ Here we'll show you how to get your hands on GTA Online money.
  - [https://www.pcgamer.com/xcoms-best-modders-have-made-a-mind-boggling-grand-strategy-game](https://www.pcgamer.com/xcoms-best-modders-have-made-a-mind-boggling-grand-strategy-game)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 15:00:38+00:00
- - tags: None
 
 Defeating aliens with politics, rocket science, and space mining in Terra Invicta.
 
@@ -156,7 +137,6 @@ Defeating aliens with politics, rocket science, and space mining in Terra Invict
  - [https://www.pcgamer.com/texas-chain-saw-massacre-makes-multiplayer-horror-scary-again](https://www.pcgamer.com/texas-chain-saw-massacre-makes-multiplayer-horror-scary-again)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 14:09:51+00:00
- - tags: None
 
 The Friday the 13th developer's latest mirrors the claustrophobia and creeping dread of the 1974 horror classic.
 
@@ -164,7 +144,6 @@ The Friday the 13th developer's latest mirrors the claustrophobia and creeping d
  - [https://www.pcgamer.com/people-scramble-to-download-extensive-gta-4-mod-after-its-hit-by-dmca-takedown](https://www.pcgamer.com/people-scramble-to-download-extensive-gta-4-mod-after-its-hit-by-dmca-takedown)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 14:09:18+00:00
- - tags: None
 
 The mod's sister-projects focusing on older Rockstar games remain unaffected.
 
@@ -172,7 +151,6 @@ The mod's sister-projects focusing on older Rockstar games remain unaffected.
  - [https://www.pcgamer.com/nvidia-rtx-40-series-let-down](https://www.pcgamer.com/nvidia-rtx-40-series-let-down)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 14:01:21+00:00
- - tags: None
 
 $900 for a 192-bit graphics card? Seriously?
 
@@ -180,7 +158,6 @@ $900 for a 192-bit graphics card? Seriously?
  - [https://www.pcgamer.com/youtuber-dunkey-now-has-an-indie-publishing-label](https://www.pcgamer.com/youtuber-dunkey-now-has-an-indie-publishing-label)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 13:55:00+00:00
- - tags: None
 
 Not everyone's convinced, though.
 
@@ -188,7 +165,6 @@ Not everyone's convinced, though.
  - [https://www.pcgamer.com/well-knock-me-down-with-a-feather-its-yet-another-dollar160-million-crypto-hack](https://www.pcgamer.com/well-knock-me-down-with-a-feather-its-yet-another-dollar160-million-crypto-hack)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 13:23:39+00:00
- - tags: None
 
 You could almost set your watch by their frequency.
 
@@ -196,7 +172,6 @@ You could almost set your watch by their frequency.
  - [https://www.pcgamer.com/metal-hellsinger-review](https://www.pcgamer.com/metal-hellsinger-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 11:39:05+00:00
- - tags: None
 
 This rhythm FPS has a bone to pick with damnation… and a few to break.
 
@@ -204,7 +179,6 @@ This rhythm FPS has a bone to pick with damnation… and a few to break.
  - [https://www.pcgamer.com/pubg-permabans-steam-chargeback-fraudsters](https://www.pcgamer.com/pubg-permabans-steam-chargeback-fraudsters)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 11:33:22+00:00
- - tags: None
 
 Tells players to 'understand and comply' with the rules.
 
@@ -212,7 +186,6 @@ Tells players to 'understand and comply' with the rules.
  - [https://www.pcgamer.com/the-best-cheap-gaming-keyboards-in-2019](https://www.pcgamer.com/the-best-cheap-gaming-keyboards-in-2019)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 11:33:19+00:00
- - tags: None
 
 Even if you're on a budget, the best cheap gaming keyboards can still deliver a great experience for your fingers.
 
@@ -220,7 +193,6 @@ Even if you're on a budget, the best cheap gaming keyboards can still deliver a 
  - [https://www.pcgamer.com/blizzard-bumped-the-frame-cap-in-overwatch-2-to-600fps-because-the-rtx-4090-is-so-fast](https://www.pcgamer.com/blizzard-bumped-the-frame-cap-in-overwatch-2-to-600fps-because-the-rtx-4090-is-so-fast)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 11:24:45+00:00
- - tags: None
 
 In a demo, Nvidia showed off the RTX 4090 running at over 460fps in Overwatch 2 at 1440p.
 
@@ -228,7 +200,6 @@ In a demo, Nvidia showed off the RTX 4090 running at over 460fps in Overwatch 2 
  - [https://www.pcgamer.com/nvidia-ceo-says-market-will-be-served-well-after-evga-but-it-was-a-great-partner](https://www.pcgamer.com/nvidia-ceo-says-market-will-be-served-well-after-evga-but-it-was-a-great-partner)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 11:15:57+00:00
- - tags: None
 
 A diplomatic comment from Nvidia's CEO on one of its largest partners dropping out of the GPU game.
 
@@ -236,7 +207,6 @@ A diplomatic comment from Nvidia's CEO on one of its largest partners dropping o
  - [https://www.pcgamer.com/best-vpn-for-pc-gaming](https://www.pcgamer.com/best-vpn-for-pc-gaming)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 11:11:14+00:00
- - tags: None
 
 I tested various paid-for services to determine which works best for gamers and lived to tell the tale.
 
@@ -244,7 +214,6 @@ I tested various paid-for services to determine which works best for gamers and 
  - [https://www.pcgamer.com/spelunky-2-just-achieved-its-last-major-goal-for-online-so-now-you-can-pratfall-with-friends-across-platforms](https://www.pcgamer.com/spelunky-2-just-achieved-its-last-major-goal-for-online-so-now-you-can-pratfall-with-friends-across-platforms)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 11:06:14+00:00
- - tags: None
 
 Anyone on PlayStation want to help me finally beat Tiamat?
 
@@ -252,7 +221,6 @@ Anyone on PlayStation want to help me finally beat Tiamat?
  - [https://www.pcgamer.com/best-office-chair-for-gaming](https://www.pcgamer.com/best-office-chair-for-gaming)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 10:56:04+00:00
- - tags: None
 
 Take care of your spine with the best office chairs for gaming.
 
@@ -260,7 +228,6 @@ Take care of your spine with the best office chairs for gaming.
  - [https://www.pcgamer.com/nvidia-feforce-rtx-4080-specs-price-release-date](https://www.pcgamer.com/nvidia-feforce-rtx-4080-specs-price-release-date)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 10:30:25+00:00
- - tags: None
 
 The slightly more affordable Ada Lovelace GPUs are set to arrive in November.
 
@@ -268,7 +235,6 @@ The slightly more affordable Ada Lovelace GPUs are set to arrive in November.
  - [https://www.pcgamer.com/star-citizen-now-has-over-half-a-billion-dollars-in-crowdfunding](https://www.pcgamer.com/star-citizen-now-has-over-half-a-billion-dollars-in-crowdfunding)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 10:21:27+00:00
- - tags: None
 
 And it's still not out.
 
@@ -276,7 +242,6 @@ And it's still not out.
  - [https://www.pcgamer.com/best-cpu-air-coolers](https://www.pcgamer.com/best-cpu-air-coolers)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 10:02:31+00:00
- - tags: None
 
 Keep your processor running cool and quiet with a nifty air cooler.
 
@@ -284,7 +249,6 @@ Keep your processor running cool and quiet with a nifty air cooler.
  - [https://www.pcgamer.com/todays-wordle-460-answer-hint](https://www.pcgamer.com/todays-wordle-460-answer-hint)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 07:01:28+00:00
- - tags: None
 
 Wordle today: The solution and a hint for Thursday's puzzle.
 
@@ -292,6 +256,5 @@ Wordle today: The solution and a hint for Thursday's puzzle.
  - [https://www.pcgamer.com/gord-first-gameplay-video](https://www.pcgamer.com/gord-first-gameplay-video)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-22 00:19:25+00:00
- - tags: None
 
 Gord is a mix of town building, citizen management, and RPG adventuring in a gruesome-looking world.

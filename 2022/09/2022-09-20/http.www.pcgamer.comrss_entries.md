@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## Twitch promises to ban streams of unlicensed gambling sites
  - [https://www.pcgamer.com/twitch-promises-to-ban-streams-of-unlicensed-gambling-sites](https://www.pcgamer.com/twitch-promises-to-ban-streams-of-unlicensed-gambling-sites)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 23:53:09+00:00
- - tags: None
 
 The Slots category is one of the streaming site's biggest.
 
@@ -12,7 +11,6 @@ The Slots category is one of the streaming site's biggest.
  - [https://www.pcgamer.com/the-worlds-first-trombone-rhythm-game-is-instantly-a-goty-contender](https://www.pcgamer.com/the-worlds-first-trombone-rhythm-game-is-instantly-a-goty-contender)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 23:31:40+00:00
- - tags: None
 
 Trombones. Hot dogs. Baboons. Collectible cards. Lore. Trombone Champ has it all.
 
@@ -20,7 +18,6 @@ Trombones. Hot dogs. Baboons. Collectible cards. Lore. Trombone Champ has it all
  - [https://www.pcgamer.com/2K-games-support-hack](https://www.pcgamer.com/2K-games-support-hack)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 22:24:35+00:00
- - tags: None
 
 The 2K Games support platform was hijacked and used to send players malicious links.
 
@@ -28,7 +25,6 @@ The 2K Games support platform was hijacked and used to send players malicious li
  - [https://www.pcgamer.com/darktide-beta](https://www.pcgamer.com/darktide-beta)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 21:49:58+00:00
- - tags: None
 
 The beta will include more weapons, enemies, and other content than the previous tech test.
 
@@ -36,7 +32,6 @@ The beta will include more weapons, enemies, and other content than the previous
  - [https://www.pcgamer.com/why-low-fov-in-first-person-games-can-make-you-feel-nauseous](https://www.pcgamer.com/why-low-fov-in-first-person-games-can-make-you-feel-nauseous)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 21:01:01+00:00
- - tags: None
 
 Here's what's happening in your brain when a too-low (or too-high) FOV makes you feel headachey or motion sick.
 
@@ -44,7 +39,6 @@ Here's what's happening in your brain when a too-low (or too-high) FOV makes you
  - [https://www.pcgamer.com/call-of-duty-is-changing-for-the-better-but-its-loudest-fans-arent-happy-about-it](https://www.pcgamer.com/call-of-duty-is-changing-for-the-better-but-its-loudest-fans-arent-happy-about-it)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 20:25:26+00:00
- - tags: None
 
 Reject tradition, embrace modernity.
 
@@ -52,7 +46,6 @@ Reject tradition, embrace modernity.
  - [https://www.pcgamer.com/overwatch-2-loses-its-lead-hero-designer](https://www.pcgamer.com/overwatch-2-loses-its-lead-hero-designer)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 20:16:23+00:00
- - tags: None
 
 Geoff Goodman helped design and balance heroes since the game's inception.
 
@@ -60,7 +53,6 @@ Geoff Goodman helped design and balance heroes since the game's inception.
  - [https://www.pcgamer.com/bethesda-fixes-skryims-creepy-moving-mannequins-modder-promptly-unfixes-them](https://www.pcgamer.com/bethesda-fixes-skryims-creepy-moving-mannequins-modder-promptly-unfixes-them)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 19:44:47+00:00
- - tags: None
 
 The weird glitch that made mannequins look at you was foolishly patched out by Bethesda, but there's a fix for that fix.
 
@@ -68,7 +60,6 @@ The weird glitch that made mannequins look at you was foolishly patched out by B
  - [https://www.pcgamer.com/electronic-arts-unveils-a-new-singleplayer-iron-man-game](https://www.pcgamer.com/electronic-arts-unveils-a-new-singleplayer-iron-man-game)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 19:35:50+00:00
- - tags: None
 
 The new game, being developed in partnership with Marvel, is now in pre-production.
 
@@ -76,7 +67,6 @@ The new game, being developed in partnership with Marvel, is now in pre-producti
  - [https://www.pcgamer.com/best-gaming-desk](https://www.pcgamer.com/best-gaming-desk)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 19:20:56+00:00
- - tags: None
 
 We've chosen the best gaming desks based on hours of playing on both sitting and standing desks just to see which is worth your money.
 
@@ -84,7 +74,6 @@ We've chosen the best gaming desks based on hours of playing on both sitting and
  - [https://www.pcgamer.com/best-external-hard-drives](https://www.pcgamer.com/best-external-hard-drives)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 18:55:33+00:00
- - tags: None
 
 Grab one of the best external hard drives to increase your storage space or backup your PC.
 
@@ -92,7 +81,6 @@ Grab one of the best external hard drives to increase your storage space or back
  - [https://www.pcgamer.com/pc-build-guide-budget-gaming-pc](https://www.pcgamer.com/pc-build-guide-budget-gaming-pc)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 18:38:19+00:00
- - tags: None
 
 It's all about performance per dollar with our budget gaming PC build guide.
 
@@ -100,7 +88,6 @@ It's all about performance per dollar with our budget gaming PC build guide.
  - [https://www.pcgamer.com/youtuber-exposed-as-the-real-insider-behind-major-assassins-creed-leak-and-others](https://www.pcgamer.com/youtuber-exposed-as-the-real-insider-behind-major-assassins-creed-leak-and-others)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 17:49:25+00:00
- - tags: None
 
 Dan Allen apologized for breaking multiple NDAs as "The Real Insider" after accidentally outing himself on Twitter.
 
@@ -108,7 +95,6 @@ Dan Allen apologized for breaking multiple NDAs as "The Real Insider" after acci
  - [https://www.pcgamer.com/nvidia-rtx-remix](https://www.pcgamer.com/nvidia-rtx-remix)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 17:05:30+00:00
- - tags: None
 
 RTX Remix just made modding a whole lot easier.
 
@@ -116,7 +102,6 @@ RTX Remix just made modding a whole lot easier.
  - [https://www.pcgamer.com/nvidia-rtx-4080-release-date-price](https://www.pcgamer.com/nvidia-rtx-4080-release-date-price)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 17:02:25+00:00
- - tags: None
 
 And they're totally different specs: from memory to CUDA Core counts.
 
@@ -124,7 +109,6 @@ And they're totally different specs: from memory to CUDA Core counts.
  - [https://www.pcgamer.com/nvidia-new-rtx-family](https://www.pcgamer.com/nvidia-new-rtx-family)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 17:00:28+00:00
- - tags: None
 
 Jen-Hsun talks about "the best gaming platform in the world" as the new RTX family of GPUs.
 
@@ -132,7 +116,6 @@ Jen-Hsun talks about "the best gaming platform in the world" as the new RTX fami
  - [https://www.pcgamer.com/windows-11-just-got-better-for-dx11-games-and-anyone-who-insists-on-playing-with-a-controller](https://www.pcgamer.com/windows-11-just-got-better-for-dx11-games-and-anyone-who-insists-on-playing-with-a-controller)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 17:00:00+00:00
- - tags: None
 
 DX10 and DX11 games will work better windowed following the Windows 11 2H22 update.
 
@@ -140,7 +123,6 @@ DX10 and DX11 games will work better windowed following the Windows 11 2H22 upda
  - [https://www.pcgamer.com/windows-11s-new-2h22-update-is-now-available-but-some-of-its-best-features-arent](https://www.pcgamer.com/windows-11s-new-2h22-update-is-now-available-but-some-of-its-best-features-arent)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 17:00:00+00:00
- - tags: None
 
 We'll have to wait a little longer for File Explorer tabs and taskbar overflow.
 
@@ -148,7 +130,6 @@ We'll have to wait a little longer for File Explorer tabs and taskbar overflow.
  - [https://www.pcgamer.com/im-scared-of-what-overwatch-has-become](https://www.pcgamer.com/im-scared-of-what-overwatch-has-become)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 16:59:02+00:00
- - tags: None
 
 I used to love Overwatch, but Overwatch 2 is scaring me even before its release.
 
@@ -156,7 +137,6 @@ I used to love Overwatch, but Overwatch 2 is scaring me even before its release.
  - [https://www.pcgamer.com/portal-is-getting-a-full-nvidia-rtx-overhaul-mod](https://www.pcgamer.com/portal-is-getting-a-full-nvidia-rtx-overhaul-mod)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 16:35:24+00:00
- - tags: None
 
 Omniverse is making modding pretty simple, so here's Portal with RTX, for reasons.
 
@@ -164,7 +144,6 @@ Omniverse is making modding pretty simple, so here's Portal with RTX, for reason
  - [https://www.pcgamer.com/nvidia-dlss-3-performance](https://www.pcgamer.com/nvidia-dlss-3-performance)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 16:16:00+00:00
- - tags: None
 
 Just when AMD and Intel thought they had a chance.
 
@@ -172,7 +151,6 @@ Just when AMD and Intel thought they had a chance.
  - [https://www.pcgamer.com/fortnite-reboot-rally-quests-rewards](https://www.pcgamer.com/fortnite-reboot-rally-quests-rewards)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 16:08:19+00:00
- - tags: None
 
 It's time to team up and get questing.
 
@@ -180,7 +158,6 @@ It's time to team up and get questing.
  - [https://www.pcgamer.com/bungie-accused-of-hacking-by-destiny-2-cheat-maker](https://www.pcgamer.com/bungie-accused-of-hacking-by-destiny-2-cheat-maker)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 15:52:56+00:00
- - tags: None
 
 AimJunkies is retaliating against Bungie's lawsuit with one of its own.
 
@@ -188,7 +165,6 @@ AimJunkies is retaliating against Bungie's lawsuit with one of its own.
  - [https://www.pcgamer.com/now-the-fbi-is-looking-into-the-gta-hack-too](https://www.pcgamer.com/now-the-fbi-is-looking-into-the-gta-hack-too)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 15:40:02+00:00
- - tags: None
 
 The Rockstar hacker also claimed responsibility for last week's Uber hack, and the FBI would like a word.
 
@@ -196,7 +172,6 @@ The Rockstar hacker also claimed responsibility for last week's Uber hack, and t
  - [https://www.pcgamer.com/nvidia-rtx-40-series-ray-tracing-performance](https://www.pcgamer.com/nvidia-rtx-40-series-ray-tracing-performance)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 15:39:29+00:00
- - tags: None
 
 There's a lot more to an RT Core with the new Ada Lovelace GPU architecture, coming October 12.
 
@@ -204,7 +179,6 @@ There's a lot more to an RT Core with the new Ada Lovelace GPU architecture, com
  - [https://www.pcgamer.com/nvidia-geforce-rtx-4090-revealed](https://www.pcgamer.com/nvidia-geforce-rtx-4090-revealed)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 15:37:33+00:00
- - tags: None
 
 The monstrous GeForce GPU will hit the shelves ahead of the RTX 4080 cards for an equally monstrous price.
 
@@ -212,7 +186,6 @@ The monstrous GeForce GPU will hit the shelves ahead of the RTX 4080 cards for a
  - [https://www.pcgamer.com/amd-rdna-3-efficiency-blog-post](https://www.pcgamer.com/amd-rdna-3-efficiency-blog-post)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 15:12:06+00:00
- - tags: None
 
 Not trying to step on the green team's toes, at all.
 
@@ -220,7 +193,6 @@ Not trying to step on the green team's toes, at all.
  - [https://www.pcgamer.com/best-vr-headset](https://www.pcgamer.com/best-vr-headset)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 15:07:12+00:00
- - tags: None
 
 Immerse yourself in stunning game worlds with the best VR headset.
 
@@ -228,7 +200,6 @@ Immerse yourself in stunning game worlds with the best VR headset.
  - [https://www.pcgamer.com/amd-to-unveil-rdna-3-graphics-cards-on-november-3](https://www.pcgamer.com/amd-to-unveil-rdna-3-graphics-cards-on-november-3)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 14:21:51+00:00
- - tags: None
 
 RDNA 3 is coming, and of course AMD is already teasing its efficiency.
 
@@ -236,7 +207,6 @@ RDNA 3 is coming, and of course AMD is already teasing its efficiency.
  - [https://www.pcgamer.com/looks-like-sackboy-a-big-adventure-is-all-but-confirmed-for-pc](https://www.pcgamer.com/looks-like-sackboy-a-big-adventure-is-all-but-confirmed-for-pc)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 12:44:08+00:00
- - tags: None
 
 Its potential Steam database entry just received an interesting update.
 
@@ -244,7 +214,6 @@ Its potential Steam database entry just received an interesting update.
  - [https://www.pcgamer.com/pat-gelsinger-intel-ceo-arc-a770-gpu](https://www.pcgamer.com/pat-gelsinger-intel-ceo-arc-a770-gpu)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 12:28:59+00:00
- - tags: None
 
 I can just feel the alchemy in the air.
 
@@ -252,7 +221,6 @@ I can just feel the alchemy in the air.
  - [https://www.pcgamer.com/the-taliban-is-banning-pubg-for-being-too-violent](https://www.pcgamer.com/the-taliban-is-banning-pubg-for-being-too-violent)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 11:43:59+00:00
- - tags: None
 
 Afghan government officials accuse the app of immorality and "misleading youth".
 
@@ -260,7 +228,6 @@ Afghan government officials accuse the app of immorality and "misleading youth".
  - [https://www.pcgamer.com/nvidia-gtc-2022-rtx-40-series](https://www.pcgamer.com/nvidia-gtc-2022-rtx-40-series)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 11:31:54+00:00
- - tags: None
 
 Sit down, strap in, and get ready to make your bank balance weep.
 
@@ -268,7 +235,6 @@ Sit down, strap in, and get ready to make your bank balance weep.
  - [https://www.pcgamer.com/return-to-monkey-island-review](https://www.pcgamer.com/return-to-monkey-island-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 11:18:50+00:00
- - tags: None
 
 Worth the three-decade wait.
 
@@ -276,7 +242,6 @@ Worth the three-decade wait.
  - [https://www.pcgamer.com/todays-wordle-458-answer-hint](https://www.pcgamer.com/todays-wordle-458-answer-hint)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 07:01:28+00:00
- - tags: None
 
 Wordle today: The solution and a hint for Tuesday's puzzle.
 
@@ -284,7 +249,6 @@ Wordle today: The solution and a hint for Tuesday's puzzle.
  - [https://www.pcgamer.com/legendary-modder-works-to-bring-all-unreal-engine-games-to-vr](https://www.pcgamer.com/legendary-modder-works-to-bring-all-unreal-engine-games-to-vr)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 05:51:27+00:00
- - tags: None
 
 Praydog has made some real progress on the Universal VR mod
 
@@ -292,7 +256,6 @@ Praydog has made some real progress on the Universal VR mod
  - [https://www.pcgamer.com/taiwan-earthquake-reminds-us-how-vulnerable-the-worlds-chip-supply-really-is](https://www.pcgamer.com/taiwan-earthquake-reminds-us-how-vulnerable-the-worlds-chip-supply-really-is)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 05:51:22+00:00
- - tags: None
 
 The 6.8 magnitude earthquake didn't disrupt production.. This time.
 
@@ -300,7 +263,6 @@ The 6.8 magnitude earthquake didn't disrupt production.. This time.
  - [https://www.pcgamer.com/crypto-giveaway-scam-sites-have-tripled-in-a-year](https://www.pcgamer.com/crypto-giveaway-scam-sites-have-tripled-in-a-year)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 05:01:38+00:00
- - tags: None
 
 Apparently a crypto giveaway isn't enough of a red flag on its own.
 
@@ -308,6 +270,5 @@ Apparently a crypto giveaway isn't enough of a red flag on its own.
  - [https://www.pcgamer.com/five-new-steam-games-you-probably-missed-september-19-2022](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-september-19-2022)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-20 00:47:05+00:00
- - tags: None
 
 Sorting through every new game on Steam so you don't have to.

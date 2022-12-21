@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## Aero GPX is F-Zero with the rage throttle set to 2,000 kmph
  - [https://www.pcgamer.com/aero-gpx-is-f-zero-with-the-rage-throttle-set-to-2000-kmph](https://www.pcgamer.com/aero-gpx-is-f-zero-with-the-rage-throttle-set-to-2000-kmph)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 22:35:28+00:00
- - tags: None
 
 This is definitely a blink-and-you-die racer.
 
@@ -12,7 +11,6 @@ This is definitely a blink-and-you-die racer.
  - [https://www.pcgamer.com/warhaven-is-a-full-contact-sword-action-game-you-can-play-for-free-in-october](https://www.pcgamer.com/warhaven-is-a-full-contact-sword-action-game-you-can-play-for-free-in-october)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 22:18:17+00:00
- - tags: None
 
 The next multiplayer head-bashing game from Nexon looks like Chivalry mixed with a bit of For Honor.
 
@@ -20,7 +18,6 @@ The next multiplayer head-bashing game from Nexon looks like Chivalry mixed with
  - [https://www.pcgamer.com/this-skyrim-mod-gives-the-dragonborn-their-greatest-challenge-a-desk-job](https://www.pcgamer.com/this-skyrim-mod-gives-the-dragonborn-their-greatest-challenge-a-desk-job)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 22:13:10+00:00
- - tags: None
 
 With the 9 to 5 Office Job mod you can sideline your adventures for some equally honorable clerical work.
 
@@ -28,7 +25,6 @@ With the 9 to 5 Office Job mod you can sideline your adventures for some equally
  - [https://www.pcgamer.com/its-finally-time-to-try-foxhole-the-tremendous-war-mmo-hitting-10-tomorrow](https://www.pcgamer.com/its-finally-time-to-try-foxhole-the-tremendous-war-mmo-hitting-10-tomorrow)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 22:07:25+00:00
- - tags: None
 
 With thousands of players fighting on a single server, Foxhole is everything I want an MMO to be.
 
@@ -36,7 +32,6 @@ With thousands of players fighting on a single server, Foxhole is everything I w
  - [https://www.pcgamer.com/overwatch-2-will-record-every-naughty-word-you-say-in-voice-chat](https://www.pcgamer.com/overwatch-2-will-record-every-naughty-word-you-say-in-voice-chat)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 21:15:55+00:00
- - tags: None
 
 The new system, similar to Valorant's "voice evaluation," is aimed at combatting toxicity in Overwatch 2.
 
@@ -44,7 +39,6 @@ The new system, similar to Valorant's "voice evaluation," is aimed at combatting
  - [https://www.pcgamer.com/tips](https://www.pcgamer.com/tips)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 20:12:53+00:00
- - tags: None
 
 How to reach out to us with tips and other information you think that our audience might want to know about.
 
@@ -52,7 +46,6 @@ How to reach out to us with tips and other information you think that our audien
  - [https://www.pcgamer.com/this-great-lightweight-gaming-mouse-is-only-dollar22](https://www.pcgamer.com/this-great-lightweight-gaming-mouse-is-only-dollar22)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 20:08:39+00:00
- - tags: None
 
 Score a Razer Viper Ultralight for less than a round of drinks.
 
@@ -60,7 +53,6 @@ Score a Razer Viper Ultralight for less than a round of drinks.
  - [https://www.pcgamer.com/alleged-grand-theft-auto-6-hacker-pleads-not-guilty](https://www.pcgamer.com/alleged-grand-theft-auto-6-hacker-pleads-not-guilty)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 19:42:40+00:00
- - tags: None
 
 The 17-year-old suspect is being held in a youth detention facility.
 
@@ -68,7 +60,6 @@ The 17-year-old suspect is being held in a youth detention facility.
  - [https://www.pcgamer.com/intel-expects-a-lot-of-world-records-to-fall-when-raptor-lake-launches-next-month](https://www.pcgamer.com/intel-expects-a-lot-of-world-records-to-fall-when-raptor-lake-launches-next-month)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 18:43:38+00:00
- - tags: None
 
 Overclockers, get ready to LN2.
 
@@ -76,7 +67,6 @@ Overclockers, get ready to LN2.
  - [https://www.pcgamer.com/gundam-evolution-feels-like-overwatch-with-gundam-costumes-but-it-works](https://www.pcgamer.com/gundam-evolution-feels-like-overwatch-with-gundam-costumes-but-it-works)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 17:48:29+00:00
- - tags: None
 
 The F2P Gundam Evolution is a surprisingly slick FPS full of cool robots.
 
@@ -84,7 +74,6 @@ The F2P Gundam Evolution is a surprisingly slick FPS full of cool robots.
  - [https://www.pcgamer.com/steam-is-dropping-lunar-new-year-sales-and-adding-a-big-new-spring-sale](https://www.pcgamer.com/steam-is-dropping-lunar-new-year-sales-and-adding-a-big-new-spring-sale)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 17:32:32+00:00
- - tags: None
 
 Valve is adopting a four-season model for its major sales events.
 
@@ -92,7 +81,6 @@ Valve is adopting a four-season model for its major sales events.
  - [https://www.pcgamer.com/new-overwatch-2-accounts-have-to-unlock-old-heroes-too](https://www.pcgamer.com/new-overwatch-2-accounts-have-to-unlock-old-heroes-too)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 17:00:08+00:00
- - tags: None
 
 The old hero roster is free, but you'll have to unlock them if you never played the original Overwatch.
 
@@ -100,7 +88,6 @@ The old hero roster is free, but you'll have to unlock them if you never played 
  - [https://www.pcgamer.com/intel-arc-a770-price-release-date](https://www.pcgamer.com/intel-arc-a770-price-release-date)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 16:53:56+00:00
- - tags: None
 
 That's the same MSRP as the Nvidia GeForce RTX 3060 it goes up against, but Intel says that the green team's card isn't actually that cheap.
 
@@ -108,7 +95,6 @@ That's the same MSRP as the Nvidia GeForce RTX 3060 it goes up against, but Inte
  - [https://www.pcgamer.com/you-can-stop-fifa-23-from-telling-you-youre-bad-at-fifa-23](https://www.pcgamer.com/you-can-stop-fifa-23-from-telling-you-youre-bad-at-fifa-23)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 16:28:05+00:00
- - tags: None
 
 No negativity here please.
 
@@ -116,7 +102,6 @@ No negativity here please.
  - [https://www.pcgamer.com/intel-raptor-lake-release-date-price](https://www.pcgamer.com/intel-raptor-lake-release-date-price)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 16:20:43+00:00
- - tags: None
 
 Intel's Core i9 13900K will square off against AMD's Ryzen 9 7950X next month.
 
@@ -124,7 +109,6 @@ Intel's Core i9 13900K will square off against AMD's Ryzen 9 7950X next month.
  - [https://www.pcgamer.com/turn-metal-hellsinger-into-jazz-bebopswinger-with-new-free-modding-tools](https://www.pcgamer.com/turn-metal-hellsinger-into-jazz-bebopswinger-with-new-free-modding-tools)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 16:08:34+00:00
- - tags: None
 
 Free modding tools give players the ability to insert their own music into the headbanging rhythm shooter.
 
@@ -132,7 +116,6 @@ Free modding tools give players the ability to insert their own music into the h
  - [https://www.pcgamer.com/i-almost-dont-believe-the-destructibility-in-this-fps-is-real](https://www.pcgamer.com/i-almost-dont-believe-the-destructibility-in-this-fps-is-real)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 16:01:00+00:00
- - tags: None
 
 The Finals is a team-based shooter from ex-Battlefield devs, and you can definitely tell.
 
@@ -140,7 +123,6 @@ The Finals is a team-based shooter from ex-Battlefield devs, and you can definit
  - [https://www.pcgamer.com/intel-ceo-pat-gelsinger-just-did-10-pushups-live-on-stream-to-kick-off-intel-innovation](https://www.pcgamer.com/intel-ceo-pat-gelsinger-just-did-10-pushups-live-on-stream-to-kick-off-intel-innovation)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 16:00:45+00:00
- - tags: None
 
 I sure hope he's gearing up to announce more on Intel's 13th Gen Raptor Lake CPUs.
 
@@ -148,7 +130,6 @@ I sure hope he's gearing up to announce more on Intel's 13th Gen Raptor Lake CPU
  - [https://www.pcgamer.com/slime-rancher-2-moondew-nectar-farm](https://www.pcgamer.com/slime-rancher-2-moondew-nectar-farm)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 15:55:28+00:00
- - tags: None
 
 This rare resource is the Flutter Slimes favorite food.
 
@@ -156,7 +137,6 @@ This rare resource is the Flutter Slimes favorite food.
  - [https://www.pcgamer.com/how-a-twitch-gambling-scandal-spiralled-into-sexual-harassment-allegations](https://www.pcgamer.com/how-a-twitch-gambling-scandal-spiralled-into-sexual-harassment-allegations)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 15:48:26+00:00
- - tags: None
 
 Some of the platform's biggest stars have been embroiled in multiple scandals over the last week.
 
@@ -164,7 +144,6 @@ Some of the platform's biggest stars have been embroiled in multiple scandals ov
  - [https://www.pcgamer.com/im-in-a-love-hate-relationship-with-disney-dreamlight-valley](https://www.pcgamer.com/im-in-a-love-hate-relationship-with-disney-dreamlight-valley)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 15:34:56+00:00
- - tags: None
 
 I just can't stop playing.
 
@@ -172,7 +151,6 @@ I just can't stop playing.
  - [https://www.pcgamer.com/wow-wrath-classic-last-rites-wotlk](https://www.pcgamer.com/wow-wrath-classic-last-rites-wotlk)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 15:26:30+00:00
- - tags: None
 
 Where to find Thassarian in Naxxanar.
 
@@ -180,7 +158,6 @@ Where to find Thassarian in Naxxanar.
  - [https://www.pcgamer.com/broken-roads-has-the-potential-to-become-the-next-disco-elysium](https://www.pcgamer.com/broken-roads-has-the-potential-to-become-the-next-disco-elysium)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 15:26:10+00:00
- - tags: None
 
 The post-apocalypse returns to Australia.
 
@@ -188,7 +165,6 @@ The post-apocalypse returns to Australia.
  - [https://www.pcgamer.com/amds-new-ryzen-7000-series-processors-are-now-available-to-buy](https://www.pcgamer.com/amds-new-ryzen-7000-series-processors-are-now-available-to-buy)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 14:03:10+00:00
- - tags: None
 
 The wait is officially over for Zen 4.
 
@@ -196,7 +172,6 @@ The wait is officially over for Zen 4.
  - [https://www.pcgamer.com/dome-keeper-review](https://www.pcgamer.com/dome-keeper-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 13:35:57+00:00
- - tags: None
 
 Mine for your life in this smart, condensed roguelike.
 
@@ -204,7 +179,6 @@ Mine for your life in this smart, condensed roguelike.
  - [https://www.pcgamer.com/slime-rancher-2-radiant-ore-jetpack](https://www.pcgamer.com/slime-rancher-2-radiant-ore-jetpack)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 13:12:58+00:00
- - tags: None
 
 Gather this key material for crafting the jetpack.
 
@@ -212,7 +186,6 @@ Gather this key material for crafting the jetpack.
  - [https://www.pcgamer.com/multiversus-decides-people-were-levelling-up-too-quickly-doubles-the-time-needed](https://www.pcgamer.com/multiversus-decides-people-were-levelling-up-too-quickly-doubles-the-time-needed)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 13:09:03+00:00
- - tags: None
 
 A new update has left a handful of fans unhappy.
 
@@ -220,7 +193,6 @@ A new update has left a handful of fans unhappy.
  - [https://www.pcgamer.com/uh-oh-bulletstorm-studio-and-take-two-have-an-unexpected-breakup](https://www.pcgamer.com/uh-oh-bulletstorm-studio-and-take-two-have-an-unexpected-breakup)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 13:06:28+00:00
- - tags: None
 
 'I assume we will part on good terms,' says the Polish studio's CEO.
 
@@ -228,7 +200,6 @@ A new update has left a handful of fans unhappy.
  - [https://www.pcgamer.com/grab-a-great-msi-laptop-for-up-to-35-off-just-in-time-for-back-to-school](https://www.pcgamer.com/grab-a-great-msi-laptop-for-up-to-35-off-just-in-time-for-back-to-school)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 12:51:11+00:00
- - tags: None
 
 <article>
                                 <p>If you&apos;re on the rush back to school and you want an all conquering device to help you work and play, then grabbing a great laptop that&apos;s powerful enough to see you through your studies and allowing you to complete your work faster, is a serious option—not least ones from MSI, a juggernaut of the PC world for the last three decades.</p><p>They&apos;ve been making some incredible tech for a good while, and with a <a href="https://www.google.c
@@ -237,7 +208,6 @@ A new update has left a handful of fans unhappy.
  - [https://www.pcgamer.com/a-wow-player-has-already-hit-level-80-a-mere-9-hours-after-wrath-classic-launched](https://www.pcgamer.com/a-wow-player-has-already-hit-level-80-a-mere-9-hours-after-wrath-classic-launched)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 12:29:45+00:00
- - tags: None
 
 Naowh from Echo has grabbed another world first.
 
@@ -245,7 +215,6 @@ Naowh from Echo has grabbed another world first.
  - [https://www.pcgamer.com/wow-wrath-classic-a-race-against-time-wotlk](https://www.pcgamer.com/wow-wrath-classic-a-race-against-time-wotlk)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 12:13:18+00:00
- - tags: None
 
 Where to find Salrand's Broken Key.
 
@@ -253,7 +222,6 @@ Where to find Salrand's Broken Key.
  - [https://www.pcgamer.com/girls-who-code-book-ban](https://www.pcgamer.com/girls-who-code-book-ban)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 10:35:00+00:00
- - tags: None
 
 Four books in the coding series were found on the PEN America ban list, though how they got there is another matter entirely.
 
@@ -261,7 +229,6 @@ Four books in the coding series were found on the PEN America ban list, though h
  - [https://www.pcgamer.com/todays-wordle-465-answer-hint](https://www.pcgamer.com/todays-wordle-465-answer-hint)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 07:01:28+00:00
- - tags: None
 
 Wordle today: The solution and a hint for Tuesday's puzzle.
 
@@ -269,7 +236,6 @@ Wordle today: The solution and a hint for Tuesday's puzzle.
  - [https://www.pcgamer.com/you-could-grab-a-dollar1899-vr-headset-for-dollar499-in-pimaxs-birthday-sales](https://www.pcgamer.com/you-could-grab-a-dollar1899-vr-headset-for-dollar499-in-pimaxs-birthday-sales)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 05:23:46+00:00
- - tags: None
 
 There's some good deals, but it's all about that limited mystery box.
 
@@ -277,6 +243,5 @@ There's some good deals, but it's all about that limited mystery box.
  - [https://www.pcgamer.com/nvidia-issues-hotfix-for-windows-11-22h2-stuttering-issues](https://www.pcgamer.com/nvidia-issues-hotfix-for-windows-11-22h2-stuttering-issues)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-27 04:07:13+00:00
- - tags: None
 
 Updating to GeForce Experience 3.26 addresses the problems.

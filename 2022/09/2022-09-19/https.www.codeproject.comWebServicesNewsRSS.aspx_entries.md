@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## Building the future of the command line
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58923](https://www.codeproject.com/script/News/View.aspx?nwid=58923)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-19 04:00:00+00:00
- - tags: None
 
 We have to go forward - to the the past
 
@@ -12,7 +11,6 @@ We have to go forward - to the the past
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58922](https://www.codeproject.com/script/News/View.aspx?nwid=58922)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-19 04:00:00+00:00
- - tags: None
 
 Another reason to avoid Zoom meetings
 
@@ -20,7 +18,6 @@ Another reason to avoid Zoom meetings
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58921](https://www.codeproject.com/script/News/View.aspx?nwid=58921)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-19 04:00:00+00:00
- - tags: None
 
 "He's got high apple pie, in the sky hopes"
 
@@ -28,7 +25,6 @@ Another reason to avoid Zoom meetings
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58920](https://www.codeproject.com/script/News/View.aspx?nwid=58920)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-19 04:00:00+00:00
- - tags: None
 
 Because who doesn't want to study constipated scorpions?
 
@@ -36,7 +32,6 @@ Because who doesn't want to study constipated scorpions?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58927](https://www.codeproject.com/script/News/View.aspx?nwid=58927)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-19 04:00:00+00:00
- - tags: None
 
 Beewar uv hakkers fixign ur speling
 
@@ -44,7 +39,6 @@ Beewar uv hakkers fixign ur speling
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58925](https://www.codeproject.com/script/News/View.aspx?nwid=58925)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-19 04:00:00+00:00
- - tags: None
 
 How about "386" - that still good?
 
@@ -52,7 +46,6 @@ How about "386" - that still good?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58919](https://www.codeproject.com/script/News/View.aspx?nwid=58919)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-19 04:00:00+00:00
- - tags: None
 
 When you gaze into the navel, the navel gazes at you
 
@@ -60,7 +53,6 @@ When you gaze into the navel, the navel gazes at you
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58926](https://www.codeproject.com/script/News/View.aspx?nwid=58926)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-19 04:00:00+00:00
- - tags: None
 
 Did people think "Gattaca" was a documentary?
 
@@ -68,6 +60,5 @@ Did people think "Gattaca" was a documentary?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58924](https://www.codeproject.com/script/News/View.aspx?nwid=58924)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-19 04:00:00+00:00
- - tags: None
 
 Why create a new language, when you can just change the syntax of the old one?

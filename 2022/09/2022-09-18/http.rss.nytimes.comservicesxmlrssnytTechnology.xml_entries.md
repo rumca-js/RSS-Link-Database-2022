@@ -1,10 +1,9 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
 
 ## Clearview AI, Used by Police to Find Criminals, Now in Public Defenders’ Hands
  - [https://www.nytimes.com/2022/09/18/technology/facial-recognition-clearview-ai.html](https://www.nytimes.com/2022/09/18/technology/facial-recognition-clearview-ai.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-09-18 15:00:16+00:00
- - tags: None
 
 After a Florida man was accused of vehicular homicide, his lawyer used Clearview AI’s facial recognition software to prove his innocence. But other defense lawyers say Clearview’s offer rings hollow.
 
@@ -12,7 +11,6 @@ After a Florida man was accused of vehicular homicide, his lawyer used Clearview
  - [https://www.nytimes.com/2022/09/18/us/womens-march-russia-trump.html](https://www.nytimes.com/2022/09/18/us/womens-march-russia-trump.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-09-18 09:00:20+00:00
- - tags: None
 
 As American feminists came together in 2017 to protest Donald Trump, Russia’s disinformation machine set about deepening the divides among them.
 
@@ -20,6 +18,5 @@ As American feminists came together in 2017 to protest Donald Trump, Russia’s 
  - [https://www.nytimes.com/2022/09/18/business/media/will-smith-emancipation-apple-tv.html](https://www.nytimes.com/2022/09/18/business/media/will-smith-emancipation-apple-tv.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-09-18 09:00:10+00:00
- - tags: None
 
 The Civil War drama “Emancipation” finished filming early this year. Now, Apple faces a quandary on what to do with the movie.

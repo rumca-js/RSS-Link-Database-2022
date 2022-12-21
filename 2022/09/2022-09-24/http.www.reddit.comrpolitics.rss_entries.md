@@ -1,4 +1,4 @@
-# Source Reddit - Politics, Source URL:http://www.reddit.com/r/politics/.rss
+# Source Reddit - Politics, Source URL:http://www.reddit.com/r/politics/.rss, Source language: en-US
 
 ## Bill Gates says political polarization 'may bring it all to an end' and could even lead to a civil war
  - [https://www.reddit.com/r/politics/comments/xn2q5t/bill_gates_says_political_polarization_may_bring/](https://www.reddit.com/r/politics/comments/xn2q5t/bill_gates_says_political_polarization_may_bring/)

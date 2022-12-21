@@ -1,10 +1,9 @@
-# Source Virtual Reality Oasis, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w
+# Source Virtual Reality Oasis, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w, Source language: en-US
 
 ## Pico 4 Hands On - VR Competition Heats Up!
  - [https://www.youtube.com/watch?v=55RcVBKvngA](https://www.youtube.com/watch?v=55RcVBKvngA)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w
  - date published: 2022-09-22 13:00:06+00:00
- - tags: None
 
 I got hands on with the upcoming Pico 4 standalone VR headset during Gamescom. Now I can finally talk about my first impressions. I talk about the Pico 4's price, specs, release date and much more.
 

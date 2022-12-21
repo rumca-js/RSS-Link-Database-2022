@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## ASP.NET Core updates in .NET 7 Release Candidate 1
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58930](https://www.codeproject.com/script/News/View.aspx?nwid=58930)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-20 04:00:00+00:00
- - tags: None
 
 .NET 7 Release Candidate 1 (RC1) is now available and includes many great new improvements to ASP.NET Core.
 
@@ -12,7 +11,6 @@
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58941](https://www.codeproject.com/script/News/View.aspx?nwid=58941)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-20 04:00:00+00:00
- - tags: None
 
 Looks like they should have gone with the Black service for their network security
 
@@ -20,7 +18,6 @@ Looks like they should have gone with the Black service for their network securi
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58931](https://www.codeproject.com/script/News/View.aspx?nwid=58931)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-20 04:00:00+00:00
- - tags: None
 
 While npm is 12 years old, your practices around npm package creation should hopefully be a lot more modern.
 
@@ -28,7 +25,6 @@ While npm is 12 years old, your practices around npm package creation should hop
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58939](https://www.codeproject.com/script/News/View.aspx?nwid=58939)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-20 04:00:00+00:00
- - tags: None
 
 Blame whoever put them into the browser?
 
@@ -36,7 +32,6 @@ Blame whoever put them into the browser?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58943](https://www.codeproject.com/script/News/View.aspx?nwid=58943)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-20 04:00:00+00:00
- - tags: None
 
 Time to learn your ABC#s
 
@@ -44,7 +39,6 @@ Time to learn your ABC#s
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58932](https://www.codeproject.com/script/News/View.aspx?nwid=58932)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-20 04:00:00+00:00
- - tags: None
 
 This tutorial describes how to build an accessible main navigation of a website. You learn about semantic HTML, accessibility, and how using ARIA attributes can sometimes do more harm than good.
 
@@ -52,7 +46,6 @@ This tutorial describes how to build an accessible main navigation of a website.
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58933](https://www.codeproject.com/script/News/View.aspx?nwid=58933)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-20 04:00:00+00:00
- - tags: None
 
 A faster LCP is a leading indicator of when your page’s most critical content appears and how fast the overall load process is—both things people like in a website.
 
@@ -60,7 +53,6 @@ A faster LCP is a leading indicator of when your page’s most critical content 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58934](https://www.codeproject.com/script/News/View.aspx?nwid=58934)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-20 04:00:00+00:00
- - tags: None
 
 Blitz.js takes a zero-API approach to connecting your Next.js front end to the back-end datastore. Here's how it works.
 
@@ -68,7 +60,6 @@ Blitz.js takes a zero-API approach to connecting your Next.js front end to the b
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58935](https://www.codeproject.com/script/News/View.aspx?nwid=58935)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-20 04:00:00+00:00
- - tags: None
 
 In this article, Jaun Diego covers the least known yet extremely useful APIs, such as the Page Visibility API, Web Sharing API, Broadcast Channel API and Internationalization API.
 
@@ -76,7 +67,6 @@ In this article, Jaun Diego covers the least known yet extremely useful APIs, su
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58929](https://www.codeproject.com/script/News/View.aspx?nwid=58929)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-20 04:00:00+00:00
- - tags: None
 
 Finding and addressing the root cause of memory leaks is important for delivering a quality user experience on web applications.
 
@@ -84,7 +74,6 @@ Finding and addressing the root cause of memory leaks is important for deliverin
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58928](https://www.codeproject.com/script/News/View.aspx?nwid=58928)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-20 04:00:00+00:00
- - tags: None
 
 Mental note: buy a shiny jumpsuit with shoulder pads
 
@@ -92,7 +81,6 @@ Mental note: buy a shiny jumpsuit with shoulder pads
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58940](https://www.codeproject.com/script/News/View.aspx?nwid=58940)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-20 04:00:00+00:00
- - tags: None
 
 Just in case you need to find a use for that Mac you have lying around
 
@@ -100,7 +88,6 @@ Just in case you need to find a use for that Mac you have lying around
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58936](https://www.codeproject.com/script/News/View.aspx?nwid=58936)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-20 04:00:00+00:00
- - tags: None
 
 The voices in my head
 
@@ -108,7 +95,6 @@ The voices in my head
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58937](https://www.codeproject.com/script/News/View.aspx?nwid=58937)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-20 04:00:00+00:00
- - tags: None
 
 
 
@@ -116,7 +102,6 @@ The voices in my head
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58938](https://www.codeproject.com/script/News/View.aspx?nwid=58938)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-20 04:00:00+00:00
- - tags: None
 
 ROLLBACK to vs_2015
 
@@ -124,6 +109,5 @@ ROLLBACK to vs_2015
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58942](https://www.codeproject.com/script/News/View.aspx?nwid=58942)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-20 04:00:00+00:00
- - tags: None
 
 "And invisible to me because it was so remote and small, flying swiftly and steadily towards me across that incredible distance, drawing nearer every minute by so many thousands of miles, came the Thing they were sending us"

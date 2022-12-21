@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## A terrifying AI-generated woman is lurking in the abyss of latent space
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58883](https://www.codeproject.com/script/News/View.aspx?nwid=58883)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-15 04:00:00+00:00
- - tags: None
 
 Has someone been saying, "Blood Mary" in the mirror again?
 
@@ -12,7 +11,6 @@ Has someone been saying, "Blood Mary" in the mirror again?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58890](https://www.codeproject.com/script/News/View.aspx?nwid=58890)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-15 04:00:00+00:00
- - tags: None
 
 The latest Developer Preview is now here, and it adds data validation enhancements, and API signature changes across the privacy-preserving APIs and the SDK Runtime.
 
@@ -20,7 +18,6 @@ The latest Developer Preview is now here, and it adds data validation enhancemen
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58881](https://www.codeproject.com/script/News/View.aspx?nwid=58881)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-15 04:00:00+00:00
- - tags: None
 
 "Jumpin' with joy, I'm some lucky boy I'm in the seventh heaven"
 
@@ -28,7 +25,6 @@ The latest Developer Preview is now here, and it adds data validation enhancemen
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58893](https://www.codeproject.com/script/News/View.aspx?nwid=58893)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-15 04:00:00+00:00
- - tags: None
 
 Will it be cracked before launch, or immediately after?
 
@@ -36,7 +32,6 @@ Will it be cracked before launch, or immediately after?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58882](https://www.codeproject.com/script/News/View.aspx?nwid=58882)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-15 04:00:00+00:00
- - tags: None
 
 In case you were wondering why Word just restarted mid-sentence
 
@@ -44,7 +39,6 @@ In case you were wondering why Word just restarted mid-sentence
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58887](https://www.codeproject.com/script/News/View.aspx?nwid=58887)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-15 04:00:00+00:00
- - tags: None
 
 We learned a lot about rendering optimization, and wanted to share our top 5 tips to help you make your Flutter app run better.
 
@@ -52,7 +46,6 @@ We learned a lot about rendering optimization, and wanted to share our top 5 tip
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58880](https://www.codeproject.com/script/News/View.aspx?nwid=58880)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-15 04:00:00+00:00
- - tags: None
 
 That 5% deduction makes the fine much more fine
 
@@ -60,7 +53,6 @@ That 5% deduction makes the fine much more fine
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58891](https://www.codeproject.com/script/News/View.aspx?nwid=58891)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-15 04:00:00+00:00
- - tags: None
 
 This tutorial will teach you how to setup Maestro on your machine, in order to automate your UI testing.
 
@@ -68,7 +60,6 @@ This tutorial will teach you how to setup Maestro on your machine, in order to a
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58897](https://www.codeproject.com/script/News/View.aspx?nwid=58897)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-15 04:00:00+00:00
- - tags: None
 
 That language just might be successful one day
 
@@ -76,7 +67,6 @@ That language just might be successful one day
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58879](https://www.codeproject.com/script/News/View.aspx?nwid=58879)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-15 04:00:00+00:00
- - tags: None
 
 It's arm day
 
@@ -84,7 +74,6 @@ It's arm day
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58895](https://www.codeproject.com/script/News/View.aspx?nwid=58895)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-15 04:00:00+00:00
- - tags: None
 
 Use a 286 computer to do it?
 
@@ -92,7 +81,6 @@ Use a 286 computer to do it?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58884](https://www.codeproject.com/script/News/View.aspx?nwid=58884)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-15 04:00:00+00:00
- - tags: None
 
 Someone missed that day in "Securing your application 101"?
 
@@ -100,7 +88,6 @@ Someone missed that day in "Securing your application 101"?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58886](https://www.codeproject.com/script/News/View.aspx?nwid=58886)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-15 04:00:00+00:00
- - tags: None
 
 The Android operating system brings the power of computing to everyone. This vision applies to all users, including those on entry-level phones that face real constraints across data, storage, memory, and more.
 
@@ -108,7 +95,6 @@ The Android operating system brings the power of computing to everyone. This vis
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58888](https://www.codeproject.com/script/News/View.aspx?nwid=58888)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-15 04:00:00+00:00
- - tags: None
 
 In this post I’ll show you how you can implement push notifications in your .NET MAUI app using Firebase.
 
@@ -116,7 +102,6 @@ In this post I’ll show you how you can implement push notifications in your .N
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58896](https://www.codeproject.com/script/News/View.aspx?nwid=58896)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-15 04:00:00+00:00
- - tags: None
 
 People keep giving them money to do it?
 
@@ -124,7 +109,6 @@ People keep giving them money to do it?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58885](https://www.codeproject.com/script/News/View.aspx?nwid=58885)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-15 04:00:00+00:00
- - tags: None
 
 Shared Blazor components can power UI across web and native apps, thanks to .NET MAUI.
 
@@ -132,7 +116,6 @@ Shared Blazor components can power UI across web and native apps, thanks to .NET
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58889](https://www.codeproject.com/script/News/View.aspx?nwid=58889)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-15 04:00:00+00:00
- - tags: None
 
 Swift 5.7 features a smaller and faster standard library, usability improvements, and a new generics implementation that boosts performance and removes long-standing bugs.
 
@@ -140,7 +123,6 @@ Swift 5.7 features a smaller and faster standard library, usability improvements
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58892](https://www.codeproject.com/script/News/View.aspx?nwid=58892)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-15 04:00:00+00:00
- - tags: None
 
 "Islands in the stream, that is what we are"
 
@@ -148,6 +130,5 @@ Swift 5.7 features a smaller and faster standard library, usability improvements
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58898](https://www.codeproject.com/script/News/View.aspx?nwid=58898)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-15 04:00:00+00:00
- - tags: None
 
 Possible useful feature (1)

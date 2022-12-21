@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## Big gaming companies get DHS help to keep players from becoming terrorists
  - [https://arstechnica.com/?p=1882731](https://arstechnica.com/?p=1882731)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-19 22:08:02+00:00
- - tags: None
 
 Researchers target online gaming companies like Activision and Roblox.
 
@@ -12,7 +11,6 @@ Researchers target online gaming companies like Activision and Roblox.
  - [https://arstechnica.com/?p=1882678](https://arstechnica.com/?p=1882678)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-19 19:53:21+00:00
- - tags: None
 
 Bug is most likely an issue with the optical image stabilization system.
 
@@ -20,7 +18,6 @@ Bug is most likely an issue with the optical image stabilization system.
  - [https://arstechnica.com/?p=1882707](https://arstechnica.com/?p=1882707)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-19 19:48:28+00:00
- - tags: None
 
 Production of the EV for European customers has already begun in Hannover.
 
@@ -28,7 +25,6 @@ Production of the EV for European customers has already begun in Hannover.
  - [https://arstechnica.com/?p=1882610](https://arstechnica.com/?p=1882610)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-19 19:39:58+00:00
- - tags: None
 
 iFixit calls it the biggest redesign since the iPhone X—but only on the inside.
 
@@ -36,7 +32,6 @@ iFixit calls it the biggest redesign since the iPhone X—but only on the inside
  - [https://arstechnica.com/?p=1882596](https://arstechnica.com/?p=1882596)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-19 19:32:47+00:00
- - tags: None
 
 Proofig and ImageTwin software help detect fudged "Western blot" image data in academic papers.
 
@@ -44,7 +39,6 @@ Proofig and ImageTwin software help detect fudged "Western blot" image data in a
  - [https://arstechnica.com/?p=1882677](https://arstechnica.com/?p=1882677)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-19 19:15:09+00:00
- - tags: None
 
 Biden's "over" comment highlights our complicated, precarious pandemic status.
 
@@ -52,7 +46,6 @@ Biden's "over" comment highlights our complicated, precarious pandemic status.
  - [https://arstechnica.com/?p=1882617](https://arstechnica.com/?p=1882617)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-19 17:52:47+00:00
- - tags: None
 
 Group claims to "give a voice" to small firms while fighting bills opposed by Apple.
 
@@ -60,7 +53,6 @@ Group claims to "give a voice" to small firms while fighting bills opposed by Ap
  - [https://arstechnica.com/?p=1882607](https://arstechnica.com/?p=1882607)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-19 17:18:22+00:00
- - tags: None
 
 Harassment site is down for now after hacker gains access to admin account.
 
@@ -68,7 +60,6 @@ Harassment site is down for now after hacker gains access to admin account.
  - [https://arstechnica.com/?p=1882595](https://arstechnica.com/?p=1882595)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-19 17:01:54+00:00
- - tags: None
 
 It has Wi-Fi 6E, seemingly no Google Assistant, and Ethernet backhaul.
 
@@ -76,7 +67,6 @@ It has Wi-Fi 6E, seemingly no Google Assistant, and Ethernet backhaul.
  - [https://arstechnica.com/?p=1882495](https://arstechnica.com/?p=1882495)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-19 16:00:43+00:00
- - tags: None
 
 A spoiler-free reflection on an incredible return to Gilbert and Grossman's roots.
 
@@ -84,7 +74,6 @@ A spoiler-free reflection on an incredible return to Gilbert and Grossman's root
  - [https://arstechnica.com/?p=1882547](https://arstechnica.com/?p=1882547)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-19 15:17:48+00:00
- - tags: None
 
 I spy with my little eye... a starfighter equipped with light sabers?
 
@@ -92,7 +81,6 @@ I spy with my little eye... a starfighter equipped with light sabers?
  - [https://arstechnica.com/?p=1882566](https://arstechnica.com/?p=1882566)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-19 15:10:19+00:00
- - tags: None
 
 Roughly 50 minutes of video confirms Vice City setting, Latina protagonist.
 
@@ -100,6 +88,5 @@ Roughly 50 minutes of video confirms Vice City setting, Latina protagonist.
  - [https://arstechnica.com/?p=1882554](https://arstechnica.com/?p=1882554)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-19 14:57:52+00:00
- - tags: None
 
 "I didn't believe we could survive just doing what everyone else is doing."

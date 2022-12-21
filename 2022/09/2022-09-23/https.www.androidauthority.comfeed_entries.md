@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## Android’s Game Dashboard quietly expands to more devices
  - [https://www.androidauthority.com/android-game-dashboard-3212521/](https://www.androidauthority.com/android-game-dashboard-3212521/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-23 20:13:46+00:00
- - tags: None
 
 Reports suggest Game Dashboard is appearing on more phones.
 
@@ -12,7 +11,6 @@ Reports suggest Game Dashboard is appearing on more phones.
  - [https://www.androidauthority.com/add-widgets-iphone-lock-screen-3212306/](https://www.androidauthority.com/add-widgets-iphone-lock-screen-3212306/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-23 18:03:10+00:00
- - tags: None
 
 The selection is minimal right now, but the feature is great.
 
@@ -20,7 +18,6 @@ The selection is minimal right now, but the feature is great.
  - [https://www.androidauthority.com/sony-wf-c500-review-3208308/](https://www.androidauthority.com/sony-wf-c500-review-3208308/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-23 18:00:33+00:00
- - tags: None
 
 Crowd-pleasing earbuds for a good price.
 
@@ -28,7 +25,6 @@ Crowd-pleasing earbuds for a good price.
  - [https://www.androidauthority.com/delete-files-google-drive-3105592/](https://www.androidauthority.com/delete-files-google-drive-3105592/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-23 17:23:07+00:00
- - tags: None
 
 Running out of storage space? Time to do some Drive cleaning.
 
@@ -36,7 +32,6 @@ Running out of storage space? Time to do some Drive cleaning.
  - [https://www.androidauthority.com/delete-disney-plus-profile-3142292/](https://www.androidauthority.com/delete-disney-plus-profile-3142292/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-23 17:16:23+00:00
- - tags: None
 
 Are you Disneyed out? Here's how to remove a profile or delete your account for good.
 
@@ -44,7 +39,6 @@ Are you Disneyed out? Here's how to remove a profile or delete your account for 
  - [https://www.androidauthority.com/samsung-galaxy-s23-charging-3212392/](https://www.androidauthority.com/samsung-galaxy-s23-charging-3212392/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-23 17:10:26+00:00
- - tags: None
 
 A leak suggests that the Galaxy S23 could have 25W charging.
 
@@ -52,7 +46,6 @@ A leak suggests that the Galaxy S23 could have 25W charging.
  - [https://www.androidauthority.com/how-to-make-tiktok-video-3158221/](https://www.androidauthority.com/how-to-make-tiktok-video-3158221/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-23 17:02:13+00:00
- - tags: None
 
 How to create your first TikTok video step-by-step.
 
@@ -60,7 +53,6 @@ How to create your first TikTok video step-by-step.
  - [https://www.androidauthority.com/xiaomi-box-4k-3212311/](https://www.androidauthority.com/xiaomi-box-4k-3212311/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-23 15:55:11+00:00
- - tags: None
 
 Xiaomi appears to be working on a 4K streaming box according to an FCC listing.
 
@@ -68,7 +60,6 @@ Xiaomi appears to be working on a 4K streaming box according to an FCC listing.
  - [https://www.androidauthority.com/android-1-0-missing-features-3212006/](https://www.androidauthority.com/android-1-0-missing-features-3212006/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-23 14:00:39+00:00
- - tags: None
 
 Some essential features nowadays were nowhere to be found in Android 1.0.
 
@@ -76,7 +67,6 @@ Some essential features nowadays were nowhere to be found in Android 1.0.
  - [https://www.androidauthority.com/change-iphone-wallpaper-ios-16-3211940/](https://www.androidauthority.com/change-iphone-wallpaper-ios-16-3211940/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-23 13:59:05+00:00
- - tags: None
 
 You now get more options.
 
@@ -84,7 +74,6 @@ You now get more options.
  - [https://www.androidauthority.com/fitbit-samsung-google-apple-pair-new-phone-3211266/](https://www.androidauthority.com/fitbit-samsung-google-apple-pair-new-phone-3211266/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-23 13:00:58+00:00
- - tags: None
 
 Pairing my tracker or watch with a new phone shouldn't take an hour.
 
@@ -92,7 +81,6 @@ Pairing my tracker or watch with a new phone shouldn't take an hour.
  - [https://www.androidauthority.com/remove-background-photo-ios-16-3212244/](https://www.androidauthority.com/remove-background-photo-ios-16-3212244/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-23 11:56:12+00:00
- - tags: None
 
 Now you can share photos without the photo-bombing exhibitionist in the background.
 
@@ -100,7 +88,6 @@ Now you can share photos without the photo-bombing exhibitionist in the backgrou
  - [https://www.androidauthority.com/tiktok-search-engine-poll-3212221/](https://www.androidauthority.com/tiktok-search-engine-poll-3212221/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-23 11:38:45+00:00
- - tags: None
 
 Younger people are apparently using TikTok for more and more searches. Is this you? Are you younger people?
 
@@ -108,7 +95,6 @@ Younger people are apparently using TikTok for more and more searches. Is this y
  - [https://www.androidauthority.com/daily-authority-september-23-2022-3212184/](https://www.androidauthority.com/daily-authority-september-23-2022-3212184/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-23 10:39:36+00:00
- - tags: None
 
 New details on the Pixel 7 Pro, Pixel Watch, and Pixel Tablet, plus a new Chromecast and a Tinder-themed convenience store.
 
@@ -116,7 +102,6 @@ New details on the Pixel 7 Pro, Pixel Watch, and Pixel Tablet, plus a new Chrome
  - [https://www.androidauthority.com/google-pixel-tablet-size-storage-3212206/](https://www.androidauthority.com/google-pixel-tablet-size-storage-3212206/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-23 09:56:22+00:00
- - tags: None
 
 Google's upcoming tablet is becoming less of a mystery.
 
@@ -124,7 +109,6 @@ Google's upcoming tablet is becoming less of a mystery.
  - [https://www.androidauthority.com/google-pixel-7-leaked-tensor-g2-poll-results-3212190/](https://www.androidauthority.com/google-pixel-7-leaked-tensor-g2-poll-results-3212190/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-23 09:43:13+00:00
- - tags: None
 
 You don't seem to have strong feelings about the Pixel 7 processor.
 
@@ -132,7 +116,6 @@ You don't seem to have strong feelings about the Pixel 7 processor.
  - [https://www.androidauthority.com/google-pixel-watch-design-3212159/](https://www.androidauthority.com/google-pixel-watch-design-3212159/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-23 06:15:12+00:00
- - tags: None
 
 Check out the Pixel Watch in all its glory before its October 6 reveal.
 
@@ -140,6 +123,5 @@ Check out the Pixel Watch in all its glory before its October 6 reveal.
  - [https://www.androidauthority.com/apple-iphone-14-pro-camera-shake-fix-update-3211655/](https://www.androidauthority.com/apple-iphone-14-pro-camera-shake-fix-update-3211655/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-23 05:56:38+00:00
- - tags: None
 
 The update should stop your iPhone 14 Pro camera from rattling when using the likes of Instagram and TikTok.

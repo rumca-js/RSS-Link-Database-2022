@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## The weekend’s best deals: Disney+ for $2, Anker chargers, and more
  - [https://arstechnica.com/?p=1882266](https://arstechnica.com/?p=1882266)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-17 17:25:11+00:00
- - tags: None
 
 Dealmaster also has Xbox gift cards, MacBooks, SSDs, and gaming monitors.
 
@@ -12,7 +11,6 @@ Dealmaster also has Xbox gift cards, MacBooks, SSDs, and gaming monitors.
  - [https://arstechnica.com/?p=1875417](https://arstechnica.com/?p=1875417)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-17 11:45:32+00:00
- - tags: None
 
 Sustained peak performance makes for a powerful 13-inch XPS. But there are costs.
 
@@ -20,7 +18,6 @@ Sustained peak performance makes for a powerful 13-inch XPS. But there are costs
  - [https://arstechnica.com/?p=1881676](https://arstechnica.com/?p=1881676)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-17 11:05:31+00:00
- - tags: None
 
 Dog trainers have long relied on punishment as a training tool.
 
@@ -28,7 +25,6 @@ Dog trainers have long relied on punishment as a training tool.
  - [https://arstechnica.com/?p=1882099](https://arstechnica.com/?p=1882099)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-17 10:06:20+00:00
- - tags: None
 
 <em>Ducks</em> is a devastating memoir about life in the oil sands of northern Alberta.
 
@@ -36,6 +32,5 @@ Dog trainers have long relied on punishment as a training tool.
  - [https://arstechnica.com/?p=1882409](https://arstechnica.com/?p=1882409)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-17 00:06:21+00:00
- - tags: None
 
 Critics warn the law could lead to more hate speech and disinformation online.

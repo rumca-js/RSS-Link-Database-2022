@@ -1,10 +1,9 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology
+# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
 
 ## Andrew Tate incident ends G2’s bid for ‘Valorant’ partnership slot
  - [https://www.washingtonpost.com/video-games/esports/2022/09/21/g2-valorant-andrew-tate-carlos/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/esports/2022/09/21/g2-valorant-andrew-tate-carlos/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-21 14:29:34+00:00
- - tags: None
 
 G2 Esports appeared confident in its North American “Valorant” partnership application. At the last moment, the company's CEO jeopardized the whole thing.
 
@@ -12,7 +11,6 @@ G2 Esports appeared confident in its North American “Valorant” partnership a
  - [https://www.washingtonpost.com/technology/2022/09/21/florida-social-media-supreme-court-scotus/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/21/florida-social-media-supreme-court-scotus/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-21 14:27:51+00:00
- - tags: None
 
 The state attorney general filed a petition to the Court on Wednesday, after two lower courts split on decisions about social media laws.
 
@@ -20,7 +18,6 @@ The state attorney general filed a petition to the Court on Wednesday, after two
  - [https://www.washingtonpost.com/video-games/2022/09/21/twitch-gambling-ban-pokimane-mizkif-xqc/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/09/21/twitch-gambling-ban-pokimane-mizkif-xqc/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-21 14:20:07+00:00
- - tags: None
 
 “In its current wording, this isn’t even close to a luck-based gambling ban,” agency head and industry insider Devin Nash told The Washington Post.
 
@@ -28,7 +25,6 @@ The state attorney general filed a petition to the Court on Wednesday, after two
  - [https://www.washingtonpost.com/video-games/2022/09/21/grand-theft-auto-vi-leak-rockstar-rumors-youtubers/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/09/21/grand-theft-auto-vi-leak-rockstar-rumors-youtubers/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-21 12:38:10+00:00
- - tags: None
 
 Leaks benefit no one — besides content creators looking to reap rewards from outsize interest in an unfinished game.
 
@@ -36,7 +32,6 @@ Leaks benefit no one — besides content creators looking to reap rewards from o
  - [https://www.washingtonpost.com/video-games/2022/09/21/xbox-japan-tokyo-game-show/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/09/21/xbox-japan-tokyo-game-show/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-21 12:25:55+00:00
- - tags: None
 
 “It’s taken us a long time for us to learn from our mistakes," said Sarah Bond, Xbox corporate vice president of game creator experience and ecosystem.
 
@@ -44,7 +39,6 @@ Leaks benefit no one — besides content creators looking to reap rewards from o
  - [https://www.washingtonpost.com/technology/2022/09/21/ios16-tips-lock-screen/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/21/ios16-tips-lock-screen/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-21 07:00:54+00:00
- - tags: None
 
 Change your clock font, get the cool widgets and 8 other tricks you can try on your iPhone with iOS 16.
 
@@ -52,6 +46,5 @@ Change your clock font, get the cool widgets and 8 other tricks you can try on y
  - [https://www.washingtonpost.com/technology/2022/09/21/electric-plane-heart-aerospace-es-30/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/21/electric-plane-heart-aerospace-es-30/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-21 06:00:43+00:00
- - tags: None
 
 Airlines including United, Mesa and Air Canada have started putting orders in for Heart Aerospace ES-30, a battery-operated plane that seats up to 30 people.

@@ -1,10 +1,9 @@
-# Source Sorelle Amore Finance, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q
+# Source Sorelle Amore Finance, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q, Source language: en-US
 
 ## The financial superbubble that could kill America (is happening NOW)
  - [https://www.youtube.com/watch?v=1jYdVZAur6o](https://www.youtube.com/watch?v=1jYdVZAur6o)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q
  - date published: 2022-09-08 15:00:37+00:00
- - tags: None
 
 ✉️ OUR NEWSLETTER: https://www.abundantia.co/
 📚 OUR COURSE/MEMBERSHIP: http://jointheorder.co/

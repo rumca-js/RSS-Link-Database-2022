@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## In this underwater survival city builder, reboot civilization at the bottom of the ocean
  - [https://www.pcgamer.com/in-this-underwater-survival-city-builder-reboot-civilization-at-the-bottom-of-the-ocean](https://www.pcgamer.com/in-this-underwater-survival-city-builder-reboot-civilization-at-the-bottom-of-the-ocean)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-29 23:49:36+00:00
- - tags: None
 
 Build your own version of Rapture in underseas survival city builder Aquatico.
 
@@ -12,7 +11,6 @@ Build your own version of Rapture in underseas survival city builder Aquatico.
  - [https://www.pcgamer.com/i-played-overwatch-2-on-a-new-account-and-the-hero-grind-sucks](https://www.pcgamer.com/i-played-overwatch-2-on-a-new-account-and-the-hero-grind-sucks)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-29 22:38:26+00:00
- - tags: None
 
 With a limited set of heroes, I felt boxed in.
 
@@ -20,7 +18,6 @@ With a limited set of heroes, I felt boxed in.
  - [https://www.pcgamer.com/the-ancient-myst-mmo-is-getting-an-brand-new-age-this-weekend](https://www.pcgamer.com/the-ancient-myst-mmo-is-getting-an-brand-new-age-this-weekend)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-29 22:22:59+00:00
- - tags: None
 
 The game once known as Uru Live refuses to die—and now it's actually growing.
 
@@ -28,7 +25,6 @@ The game once known as Uru Live refuses to die—and now it's actually growing.
  - [https://www.pcgamer.com/this-adorable-platformer-has-you-playing-a-goomba-like-minion-fighting-for-freedom](https://www.pcgamer.com/this-adorable-platformer-has-you-playing-a-goomba-like-minion-fighting-for-freedom)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-29 22:17:34+00:00
- - tags: None
 
 Rog and Roll's demo is a cute, chill, fun time.
 
@@ -36,7 +32,6 @@ Rog and Roll's demo is a cute, chill, fun time.
  - [https://www.pcgamer.com/saudi-arabia-wants-to-spend-dollar13b-to-buy-a-leading-game-publisher](https://www.pcgamer.com/saudi-arabia-wants-to-spend-dollar13b-to-buy-a-leading-game-publisher)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-29 21:14:44+00:00
- - tags: None
 
 The kingdom wants to expand its presence in the videogame industry in a very big way.
 
@@ -44,7 +39,6 @@ The kingdom wants to expand its presence in the videogame industry in a very big
  - [https://www.pcgamer.com/intel-arc-a750-release-date-price](https://www.pcgamer.com/intel-arc-a750-release-date-price)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-29 21:00:12+00:00
- - tags: None
 
 The Arc A770 and Arc A750 will both be available with Intel's own Limited Edition cooler design.
 
@@ -52,7 +46,6 @@ The Arc A770 and Arc A750 will both be available with Intel's own Limited Editio
  - [https://www.pcgamer.com/our-2021-goty-valheim-is-now-on-game-pass](https://www.pcgamer.com/our-2021-goty-valheim-is-now-on-game-pass)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-29 20:58:03+00:00
- - tags: None
 
 Crossplay between the Xbox and Steam versions seals the deal here.
 
@@ -60,7 +53,6 @@ Crossplay between the Xbox and Steam versions seals the deal here.
  - [https://www.pcgamer.com/pubg-creator-brendan-greene-says-hes-considering-the-blockchain-for-his-next-game](https://www.pcgamer.com/pubg-creator-brendan-greene-says-hes-considering-the-blockchain-for-his-next-game)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-29 19:53:30+00:00
- - tags: None
 
 Greene's post-PUBG project is a planet-size open world called Artemis, which may use—but won't be built on—blockchain technology.
 
@@ -68,7 +60,6 @@ Greene's post-PUBG project is a planet-size open world called Artemis, which may
  - [https://www.pcgamer.com/world-of-warcraft-dragonflight-launch-date](https://www.pcgamer.com/world-of-warcraft-dragonflight-launch-date)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-29 19:11:14+00:00
- - tags: None
 
 Blizzard revealed the long-awaited release date with a stunning, ominous new trailer.
 
@@ -76,7 +67,6 @@ Blizzard revealed the long-awaited release date with a stunning, ominous new tra
  - [https://www.pcgamer.com/vampire-survivors-was-such-a-big-hit-its-getting-a-whole-new-engine](https://www.pcgamer.com/vampire-survivors-was-such-a-big-hit-its-getting-a-whole-new-engine)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-29 18:52:16+00:00
- - tags: None
 
 So the framerate won't suck.
 
@@ -84,7 +74,6 @@ So the framerate won't suck.
  - [https://www.pcgamer.com/when-will-valorants-roster-be-too-big](https://www.pcgamer.com/when-will-valorants-roster-be-too-big)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-29 17:40:25+00:00
- - tags: None
 
 League of Legends is huge, but surely Riot can't fit 160 agents into Valorant right?
 
@@ -92,7 +81,6 @@ League of Legends is huge, but surely Riot can't fit 160 agents into Valorant ri
  - [https://www.pcgamer.com/gta-5-cheats](https://www.pcgamer.com/gta-5-cheats)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-29 17:15:25+00:00
- - tags: None
 
 From invincibility to explosive bullets, these GTA 5 cheats make Los Santos more fun.
 
@@ -100,7 +88,6 @@ From invincibility to explosive bullets, these GTA 5 cheats make Los Santos more
  - [https://www.pcgamer.com/help-i-have-fallen-into-keyboard-tiktok-and-i-cant-get-out](https://www.pcgamer.com/help-i-have-fallen-into-keyboard-tiktok-and-i-cant-get-out)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-29 17:04:25+00:00
- - tags: None
 
 Tiktok has given keyboard enthusiasts a whole new audience to impress.
 
@@ -108,7 +95,6 @@ Tiktok has given keyboard enthusiasts a whole new audience to impress.
  - [https://www.pcgamer.com/intel-has-fixed-the-majority-of-the-software-stack-issues-for-its-gaming-gpus-says-ceo-gelsinger](https://www.pcgamer.com/intel-has-fixed-the-majority-of-the-software-stack-issues-for-its-gaming-gpus-says-ceo-gelsinger)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-29 16:56:35+00:00
- - tags: None
 
 We're moments away from the Arc A770 release date, but even Pat Gelsinger admits it's not been an easy road to release for Intel.
 
@@ -116,7 +102,6 @@ We're moments away from the Arc A770 release date, but even Pat Gelsinger admits
  - [https://www.pcgamer.com/best-genshin-impact-candace-build-banner](https://www.pcgamer.com/best-genshin-impact-candace-build-banner)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-29 16:48:22+00:00
- - tags: None
 
 Strengthen your party with this Hydro support character.
 
@@ -124,7 +109,6 @@ Strengthen your party with this Hydro support character.
  - [https://www.pcgamer.com/stadia-is-closing-down-in-january-all-hardware-and-software-purchases-to-be-refunded](https://www.pcgamer.com/stadia-is-closing-down-in-january-all-hardware-and-software-purchases-to-be-refunded)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-29 16:35:43+00:00
- - tags: None
 
 Google's game streaming platform "hasn't gained the traction with users that we expected."
 
@@ -132,7 +116,6 @@ Google's game streaming platform "hasn't gained the traction with users that we 
  - [https://www.pcgamer.com/razers-cloud-gaming-handheld-is-coming-with-5g](https://www.pcgamer.com/razers-cloud-gaming-handheld-is-coming-with-5g)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-29 16:00:52+00:00
- - tags: None
 
 It looks like Logitech and Valve have got some competition with the Razer Edge 5G.
 
@@ -140,7 +123,6 @@ It looks like Logitech and Valve have got some competition with the Razer Edge 5
  - [https://www.pcgamer.com/peoples-bank-of-china-brags-about-crackdown-on-the-pseudo-gold-exchanges-of-crypto](https://www.pcgamer.com/peoples-bank-of-china-brags-about-crackdown-on-the-pseudo-gold-exchanges-of-crypto)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-29 15:46:07+00:00
- - tags: None
 
 The CCP does not like the idea of decentralised currency one little bit.
 
@@ -148,7 +130,6 @@ The CCP does not like the idea of decentralised currency one little bit.
  - [https://www.pcgamer.com/intel-xess-5700g-performance](https://www.pcgamer.com/intel-xess-5700g-performance)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-29 14:57:19+00:00
- - tags: None
 
 Lara's better off ignoring the fancy new thing and sticking to basics.
 
@@ -156,7 +137,6 @@ Lara's better off ignoring the fancy new thing and sticking to basics.
  - [https://www.pcgamer.com/fifa-23-release-date](https://www.pcgamer.com/fifa-23-release-date)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-29 14:41:25+00:00
- - tags: None
 
 What time's kick-off?
 
@@ -164,7 +144,6 @@ What time's kick-off?
  - [https://www.pcgamer.com/everquest-2-goes-spelunking-in-its-19th-expansion-in-18-years](https://www.pcgamer.com/everquest-2-goes-spelunking-in-its-19th-expansion-in-18-years)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-29 14:30:07+00:00
- - tags: None
 
 The venerable MMO continues to grow, as well as raising money for childrens' hospitals.
 
@@ -172,7 +151,6 @@ The venerable MMO continues to grow, as well as raising money for childrens' hos
  - [https://www.pcgamer.com/the-loupedeck-live-all-in-one-streaming-tool-is-dollar40-cheaper-for-one-more-day](https://www.pcgamer.com/the-loupedeck-live-all-in-one-streaming-tool-is-dollar40-cheaper-for-one-more-day)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-29 14:02:43+00:00
- - tags: None
 
 The customisable console is currently on offer in Loupedeck's fall sale, but it ends today.
 
@@ -180,7 +158,6 @@ The customisable console is currently on offer in Loupedeck's fall sale, but it 
  - [https://www.pcgamer.com/the-witcher-4s-protagonist-should-be-dandelion-the-bard](https://www.pcgamer.com/the-witcher-4s-protagonist-should-be-dandelion-the-bard)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-29 13:46:32+00:00
- - tags: None
 
 I love the mutant monster hunters, but this would be music to my ears.
 
@@ -188,7 +165,6 @@ I love the mutant monster hunters, but this would be music to my ears.
  - [https://www.pcgamer.com/lord-of-the-rings-rings-of-power-easter-eggs](https://www.pcgamer.com/lord-of-the-rings-rings-of-power-easter-eggs)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-29 13:34:42+00:00
- - tags: None
 
 Hidden meanings abound, the Plains of Yonder team talks about the concept behind the LotR: The Rings of Power's title sequence.
 
@@ -196,7 +172,6 @@ Hidden meanings abound, the Plains of Yonder team talks about the concept behind
  - [https://www.pcgamer.com/slime-rancher-2-ringtail-slime-location](https://www.pcgamer.com/slime-rancher-2-ringtail-slime-location)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-29 13:33:17+00:00
- - tags: None
 
 These little gremlins will empty your pantry and then turn to stone to avoid being caught.
 
@@ -204,7 +179,6 @@ These little gremlins will empty your pantry and then turn to stone to avoid bei
  - [https://www.pcgamer.com/overwatch-2-review-in-progress](https://www.pcgamer.com/overwatch-2-review-in-progress)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-29 13:00:28+00:00
- - tags: None
 
 A messy sequel that tries to erase one of the best shooters in the last decade.
 
@@ -212,7 +186,6 @@ A messy sequel that tries to erase one of the best shooters in the last decade.
  - [https://www.pcgamer.com/world-of-warcraft-could-be-getting-official-controller-support](https://www.pcgamer.com/world-of-warcraft-could-be-getting-official-controller-support)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-29 11:50:51+00:00
- - tags: None
 
 Xbox and PlayStation icons have been found in the latest Dragonflight beta build.
 
@@ -220,7 +193,6 @@ Xbox and PlayStation icons have been found in the latest Dragonflight beta build
  - [https://www.pcgamer.com/best-genshin-impact-cyno-build-banner](https://www.pcgamer.com/best-genshin-impact-cyno-build-banner)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-29 11:48:33+00:00
- - tags: None
 
 Strike down enemies with this five-star Electro enforcer.
 
@@ -228,7 +200,6 @@ Strike down enemies with this five-star Electro enforcer.
  - [https://www.pcgamer.com/sackboy-a-big-adventure-is-coming-to-pc-in-late-october](https://www.pcgamer.com/sackboy-a-big-adventure-is-coming-to-pc-in-late-october)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-29 07:07:49+00:00
- - tags: None
 
 The early leaks confirmed it, but now Sony has made it official.
 
@@ -236,7 +207,6 @@ The early leaks confirmed it, but now Sony has made it official.
  - [https://www.pcgamer.com/todays-wordle-467-answer-hint](https://www.pcgamer.com/todays-wordle-467-answer-hint)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-29 07:01:28+00:00
- - tags: None
 
 Wordle today: The solution and a hint for Thursday's puzzle.
 
@@ -244,7 +214,6 @@ Wordle today: The solution and a hint for Thursday's puzzle.
  - [https://www.pcgamer.com/intel-quietly-announces-the-arc-a310-graphics-card](https://www.pcgamer.com/intel-quietly-announces-the-arc-a310-graphics-card)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-29 06:37:20+00:00
- - tags: None
 
 It's entry level with a capital E.
 
@@ -252,7 +221,6 @@ It's entry level with a capital E.
  - [https://www.pcgamer.com/these-custom-steam-deck-boot-screens-are-dope](https://www.pcgamer.com/these-custom-steam-deck-boot-screens-are-dope)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-29 03:22:27+00:00
- - tags: None
 
 Now you can start your gaming session with Frasier, Cowboy Bebop, Futurama, or basically anything else.
 
@@ -260,6 +228,5 @@ Now you can start your gaming session with Frasier, Cowboy Bebop, Futurama, or b
  - [https://www.pcgamer.com/check-out-these-trombone-controller-mods-to-make-you-the-real-trombone-champ](https://www.pcgamer.com/check-out-these-trombone-controller-mods-to-make-you-the-real-trombone-champ)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-29 02:12:42+00:00
- - tags: None
 
 Finally, we can use our mouths while we play.

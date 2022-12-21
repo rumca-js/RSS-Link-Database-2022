@@ -1,10 +1,9 @@
-# Source Serpentza, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCl7mAGnY4jh4Ps8rhhh8XZg
+# Source Serpentza, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCl7mAGnY4jh4Ps8rhhh8XZg, Source language: en-US
 
 ## "Let it Rot" - China's Youth are Giving Up on Life
  - [https://www.youtube.com/watch?v=IfgFNRnXCMc](https://www.youtube.com/watch?v=IfgFNRnXCMc)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCl7mAGnY4jh4Ps8rhhh8XZg
  - date published: 2022-09-22 19:00:08+00:00
- - tags: None
 
 Get Cultivate for free and see where your Amazon products come from, find out who and where you're actually buying from. Free Download - https://www.wecultivate.us/get/extension/current?campaignId=wins 
 

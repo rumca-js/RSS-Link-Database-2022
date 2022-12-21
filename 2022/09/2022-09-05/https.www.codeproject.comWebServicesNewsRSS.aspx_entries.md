@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## C# and Java
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58765](https://www.codeproject.com/script/News/View.aspx?nwid=58765)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-05 04:00:00+00:00
- - tags: None
 
 Language: very close. Libraries: not so much
 
@@ -12,7 +11,6 @@ Language: very close. Libraries: not so much
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58775](https://www.codeproject.com/script/News/View.aspx?nwid=58775)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-05 04:00:00+00:00
- - tags: None
 
 Has it learned how to take a dive for a foul yet?
 
@@ -20,7 +18,6 @@ Has it learned how to take a dive for a foul yet?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58767](https://www.codeproject.com/script/News/View.aspx?nwid=58767)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-05 04:00:00+00:00
- - tags: None
 
 It's a long time to be driving, looking in the rear view mirror. And the BEEPING!
 
@@ -28,7 +25,6 @@ It's a long time to be driving, looking in the rear view mirror. And the BEEPING
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58769](https://www.codeproject.com/script/News/View.aspx?nwid=58769)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-05 04:00:00+00:00
- - tags: None
 
 Good news for people that don't pay their taxes
 
@@ -36,7 +32,6 @@ Good news for people that don't pay their taxes
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58764](https://www.codeproject.com/script/News/View.aspx?nwid=58764)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-05 04:00:00+00:00
- - tags: None
 
 "Money. It's a hit."
 
@@ -44,7 +39,6 @@ Good news for people that don't pay their taxes
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58773](https://www.codeproject.com/script/News/View.aspx?nwid=58773)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-05 04:00:00+00:00
- - tags: None
 
 Because there's no 'i' in 'Code Faster!"
 
@@ -52,7 +46,6 @@ Because there's no 'i' in 'Code Faster!"
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58766](https://www.codeproject.com/script/News/View.aspx?nwid=58766)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-05 04:00:00+00:00
- - tags: None
 
 Now it stands for, "National Security Advisers"
 
@@ -60,7 +53,6 @@ Now it stands for, "National Security Advisers"
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58768](https://www.codeproject.com/script/News/View.aspx?nwid=58768)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-05 04:00:00+00:00
- - tags: None
 
 Somehow, "Is the snack machine free?" didn't make the cut
 
@@ -68,7 +60,6 @@ Somehow, "Is the snack machine free?" didn't make the cut
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58774](https://www.codeproject.com/script/News/View.aspx?nwid=58774)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-05 04:00:00+00:00
- - tags: None
 
 Fortunately, no missiles were launched via email
 
@@ -76,7 +67,6 @@ Fortunately, no missiles were launched via email
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58772](https://www.codeproject.com/script/News/View.aspx?nwid=58772)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-05 04:00:00+00:00
- - tags: None
 
 "Don't you know I'm still standing better than I ever did?"
 
@@ -84,7 +74,6 @@ Fortunately, no missiles were launched via email
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58770](https://www.codeproject.com/script/News/View.aspx?nwid=58770)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-05 04:00:00+00:00
- - tags: None
 
 Assuming the estimate of cost isn't based on bad data
 
@@ -92,6 +81,5 @@ Assuming the estimate of cost isn't based on bad data
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58771](https://www.codeproject.com/script/News/View.aspx?nwid=58771)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-05 04:00:00+00:00
- - tags: None
 
 Because, as we know Microsoft software is never attacked by malware

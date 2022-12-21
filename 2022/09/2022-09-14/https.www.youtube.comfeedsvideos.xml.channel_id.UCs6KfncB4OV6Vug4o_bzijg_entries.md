@@ -1,10 +1,9 @@
-# Source Techlore, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg
+# Source Techlore, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg, Source language: en-US
 
 ## Unpacking the iOS 16 Privacy/Security Hype! - Techlore Talks #1
  - [https://www.youtube.com/watch?v=hf5d1L6qfes](https://www.youtube.com/watch?v=hf5d1L6qfes)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg
  - date published: 2022-09-14 16:44:23+00:00
- - tags: None
 
 What's new in iOS 16, iPhone 14, and what does it mean for privacy & security? Welcome to the first edition of our new weekly series - Techlore Talks. Leave feedback, we've love to hear!
 

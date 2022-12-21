@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## Why the U.S. Is Being Ominously Compared to Hungary and Turkey
  - [https://www.nytimes.com/2022/09/09/us/politics/united-states-democracy.html](https://www.nytimes.com/2022/09/09/us/politics/united-states-democracy.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 23:41:12+00:00
- - tags: None
 
 A conversation with Max Fisher, who covers the decline of democracy around the world.
 
@@ -12,7 +11,6 @@ A conversation with Max Fisher, who covers the decline of democracy around the w
  - [https://www.nytimes.com/2022/09/09/world/europe/russia-elections.html](https://www.nytimes.com/2022/09/09/world/europe/russia-elections.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 21:54:06+00:00
- - tags: None
 
 Voters are choosing local and regional governments, but the ranks of opposition candidates have been severely depleted by jail and exile.
 
@@ -20,7 +18,6 @@ Voters are choosing local and regional governments, but the ranks of opposition 
  - [https://www.nytimes.com/2022/09/09/world/europe/ukraine-russia-kharkiv.html](https://www.nytimes.com/2022/09/09/world/europe/ukraine-russia-kharkiv.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 21:25:09+00:00
- - tags: None
 
 Sweeping south from positions in the Kharkiv region in Ukraine’s northeast, Ukrainian forces have made their largest gains since routing Russia from Kyiv in April.
 
@@ -28,7 +25,6 @@ Sweeping south from positions in the Kharkiv region in Ukraine’s northeast, Uk
  - [https://www.nytimes.com/2022/09/09/world/europe/william-kate-royal-family.html](https://www.nytimes.com/2022/09/09/world/europe/william-kate-royal-family.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 21:21:52+00:00
- - tags: None
 
 In a palace statement, they indicated they would honor William’s late mother while still forging their own path.
 
@@ -36,7 +32,6 @@ In a palace statement, they indicated they would honor William’s late mother w
  - [https://www.nytimes.com/2022/09/09/world/europe/king-charles-privy-council.html](https://www.nytimes.com/2022/09/09/world/europe/king-charles-privy-council.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 20:53:02+00:00
- - tags: None
 
 The ceremony will be televised for the first time, the royal family confirmed to the Press Association.
 
@@ -44,7 +39,6 @@ The ceremony will be televised for the first time, the royal family confirmed to
  - [https://www.nytimes.com/2022/09/09/world/europe/russia-elections-putin.html](https://www.nytimes.com/2022/09/09/world/europe/russia-elections-putin.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 20:51:26+00:00
- - tags: None
 
 Voters are choosing local and regional governments, but the ranks of opposition candidates have been severely depleted by jail and exile.
 
@@ -52,7 +46,6 @@ Voters are choosing local and regional governments, but the ranks of opposition 
  - [https://www.nytimes.com/2022/09/09/world/king-charles-speech-queen-elizabeth.html](https://www.nytimes.com/2022/09/09/world/king-charles-speech-queen-elizabeth.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 20:36:14+00:00
- - tags: None
 
 On a day of mourning in the U.K. after the death of Queen Elizabeth, Charles’s ascent to the throne was a symbol of the continuity of the monarchy.
 
@@ -60,7 +53,6 @@ On a day of mourning in the U.K. after the death of Queen Elizabeth, Charles’s
  - [https://www.nytimes.com/2022/09/09/world/europe/king-charles-bank-notes-coins-currency.html](https://www.nytimes.com/2022/09/09/world/europe/king-charles-bank-notes-coins-currency.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 20:10:05+00:00
- - tags: None
 
 Queen Elizabeth II faced right on British coins. Her son and successor might face the other way.
 
@@ -68,7 +60,6 @@ Queen Elizabeth II faced right on British coins. Her son and successor might fac
  - [https://www.nytimes.com/2022/09/09/world/europe/king-charles-iii-will-address-the-nation-in-his-first-full-day-as-monarch.html](https://www.nytimes.com/2022/09/09/world/europe/king-charles-iii-will-address-the-nation-in-his-first-full-day-as-monarch.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 19:02:20+00:00
- - tags: None
 
 
 
@@ -76,7 +67,6 @@ Queen Elizabeth II faced right on British coins. Her son and successor might fac
  - [https://www.nytimes.com/2022/09/09/world/europe/king-charles-speech-transcript.html](https://www.nytimes.com/2022/09/09/world/europe/king-charles-speech-transcript.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 18:52:47+00:00
- - tags: None
 
 King Charles III honored his mother in his first speech to the nation as sovereign.
 
@@ -84,7 +74,6 @@ King Charles III honored his mother in his first speech to the nation as soverei
  - [https://www.nytimes.com/2022/09/09/world/europe/london-mourning-queen.html](https://www.nytimes.com/2022/09/09/world/europe/london-mourning-queen.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 17:39:31+00:00
- - tags: None
 
 Though mourning and grief were visible in Britain’s capital on Friday, some young Britons were more muted in their reaction to an institution that many called increasingly irrelevant.
 
@@ -92,7 +81,6 @@ Though mourning and grief were visible in Britain’s capital on Friday, some yo
  - [https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-women.html](https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-women.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 17:27:56+00:00
- - tags: None
 
 Changing minds can be powerful, but history shows that changing societies takes more.
 
@@ -100,7 +88,6 @@ Changing minds can be powerful, but history shows that changing societies takes 
  - [https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-death-balmoral.html](https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-death-balmoral.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 16:53:11+00:00
- - tags: None
 
 ‘If she had to go, this was the place,’ one visitor said. ‘She loved it.’
 
@@ -108,7 +95,6 @@ Changing minds can be powerful, but history shows that changing societies takes 
  - [https://www.nytimes.com/2022/09/09/world/europe/in-london-mourning-remembrance-and-tributes-and-some-shrugs.html](https://www.nytimes.com/2022/09/09/world/europe/in-london-mourning-remembrance-and-tributes-and-some-shrugs.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 16:11:50+00:00
- - tags: None
 
 Though mourning and grief were visible in Britain’s capital on Friday, some young Britons were more muted in their reaction to an institution that many called increasingly irrelevant.
 
@@ -116,7 +102,6 @@ Though mourning and grief were visible in Britain’s capital on Friday, some yo
  - [https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-corgis.html](https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-corgis.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 16:10:37+00:00
- - tags: None
 
 Wherever the dogs end up, they may need to become accustomed to a home that is less luxurious than a royal castle.
 
@@ -124,7 +109,6 @@ Wherever the dogs end up, they may need to become accustomed to a home that is l
  - [https://www.nytimes.com/2022/09/09/world/africa/queen-africa-british-empire.html](https://www.nytimes.com/2022/09/09/world/africa/queen-africa-british-empire.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 15:10:59+00:00
- - tags: None
 
 While some in Africa paid tribute to the deceased monarch, others stressed Britain’s violent colonial history on the continent.
 
@@ -132,7 +116,6 @@ While some in Africa paid tribute to the deceased monarch, others stressed Brita
  - [https://www.nytimes.com/2022/09/09/world/europe/camilla-queen-consort.html](https://www.nytimes.com/2022/09/09/world/europe/camilla-queen-consort.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 14:57:57+00:00
- - tags: None
 
 Upon Queen Elizabeth’s death, there was no question that as her son became King Charles III, Camilla would become Queen Consort. Elizabeth put the issue of Camilla’s role to rest earlier this year.
 
@@ -140,7 +123,6 @@ Upon Queen Elizabeth’s death, there was no question that as her son became Kin
  - [https://www.nytimes.com/2022/09/09/world/europe/prince-harry-meghan-queen.html](https://www.nytimes.com/2022/09/09/world/europe/prince-harry-meghan-queen.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 12:57:31+00:00
- - tags: None
 
 The Duke of Sussex was among the members of the royal family who traveled to the estate in Scotland where Queen Elizabeth II died.
 
@@ -148,7 +130,6 @@ The Duke of Sussex was among the members of the royal family who traveled to the
  - [https://www.nytimes.com/2022/09/09/arts/design/queen-elizabeth-portraits-art.html](https://www.nytimes.com/2022/09/09/arts/design/queen-elizabeth-portraits-art.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 12:39:00+00:00
- - tags: None
 
 Queen Elizabeth II of Britain was one of the world’s most photographed and painted people. Three artists explain how they made portraits of the monarch that stood out from the crowd.
 
@@ -156,7 +137,6 @@ Queen Elizabeth II of Britain was one of the world’s most photographed and pai
  - [https://www.nytimes.com/2022/09/09/world/europe/russia-opposition-navalny-attorney.html](https://www.nytimes.com/2022/09/09/world/europe/russia-opposition-navalny-attorney.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 12:21:28+00:00
- - tags: None
 
 Mr. Navalny said on Twitter that the prison administration had accused him of committing unspecified crimes by communicating with “accomplices through lawyers.”
 
@@ -164,7 +144,6 @@ Mr. Navalny said on Twitter that the prison administration had accused him of co
  - [https://www.nytimes.com/2022/09/09/world/europe/the-us-and-russia-clash-at-the-un-over-military-aid.html](https://www.nytimes.com/2022/09/09/world/europe/the-us-and-russia-clash-at-the-un-over-military-aid.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 11:28:14+00:00
- - tags: None
 
 
 
@@ -172,7 +151,6 @@ Mr. Navalny said on Twitter that the prison administration had accused him of co
  - [https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-death-india-empire.html](https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-death-india-empire.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 11:25:21+00:00
- - tags: None
 
 India declared a day of mourning, but the British colonial era evokes uncomfortable memories.
 
@@ -180,7 +158,6 @@ India declared a day of mourning, but the British colonial era evokes uncomforta
  - [https://www.nytimes.com/2022/09/09/world/asia/india-china-border.html](https://www.nytimes.com/2022/09/09/world/asia/india-china-border.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 11:18:36+00:00
- - tags: None
 
 The two sides, after 16 rounds of talks, made an announcement a week before their leaders will meet in Uzbekistan.
 
@@ -188,7 +165,6 @@ The two sides, after 16 rounds of talks, made an announcement a week before thei
  - [https://www.nytimes.com/2022/09/09/world/asia/indonesia-fuel-protests.html](https://www.nytimes.com/2022/09/09/world/asia/indonesia-fuel-protests.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 11:16:16+00:00
- - tags: None
 
 Labor activists, workers and students are demanding a reversal of an economic policy that the government says is necessary but remains deeply unpopular.
 
@@ -196,7 +172,6 @@ Labor activists, workers and students are demanding a reversal of an economic po
  - [https://www.nytimes.com/2022/09/09/world/europe/sports-soccer-canceled-queen-death.html](https://www.nytimes.com/2022/09/09/world/europe/sports-soccer-canceled-queen-death.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 11:12:58+00:00
- - tags: None
 
 The league was one of many sports organizations in Britain to alter its schedule after the death of Queen Elizabeth II.
 
@@ -204,7 +179,6 @@ The league was one of many sports organizations in Britain to alter its schedule
  - [https://www.nytimes.com/2022/09/09/world/europe/rising-energy-prices-amid-a-standoff-with-russia-over-ukraine-are-pushing-europe-to-spend-big-again.html](https://www.nytimes.com/2022/09/09/world/europe/rising-energy-prices-amid-a-standoff-with-russia-over-ukraine-are-pushing-europe-to-spend-big-again.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 11:06:41+00:00
- - tags: None
 
 
 
@@ -212,7 +186,6 @@ The league was one of many sports organizations in Britain to alter its schedule
  - [https://www.nytimes.com/2022/09/09/world/europe/uk-mourning-queen-elizabeth.html](https://www.nytimes.com/2022/09/09/world/europe/uk-mourning-queen-elizabeth.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 10:47:18+00:00
- - tags: None
 
 
 
@@ -220,7 +193,6 @@ The league was one of many sports organizations in Britain to alter its schedule
  - [https://www.nytimes.com/2022/09/09/world/europe/un-human-rights-chief.html](https://www.nytimes.com/2022/09/09/world/europe/un-human-rights-chief.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 10:33:30+00:00
- - tags: None
 
 One of Volker Türk’s toughest challenges will be determining what to do about a highly critical report on China that his predecessor, Michelle Bachelet, released just before departing.
 
@@ -228,7 +200,6 @@ One of Volker Türk’s toughest challenges will be determining what to do about
  - [https://www.nytimes.com/2022/09/09/world/australia/for-australians-too-its-the-end-of-an-era.html](https://www.nytimes.com/2022/09/09/world/australia/for-australians-too-its-the-end-of-an-era.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 10:05:45+00:00
- - tags: None
 
 “I don’t think we’ll ever have the security again that we had with her,” said one Australian about the death of Queen Elizabeth II.
 
@@ -236,7 +207,6 @@ One of Volker Türk’s toughest challenges will be determining what to do about
  - [https://www.nytimes.com/2022/09/09/world/europe/sports-canceled.html](https://www.nytimes.com/2022/09/09/world/europe/sports-canceled.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 10:01:43+00:00
- - tags: None
 
 After the death of Queen Elizabeth II, the British government left the decision over whether to postpone or cancel events up to individual sports organizations.
 
@@ -244,7 +214,6 @@ After the death of Queen Elizabeth II, the British government left the decision 
  - [https://www.nytimes.com/2022/09/09/world/europe/the-us-will-send-an-additional-675-million-in-military-supplies-to-ukraine-austin-says.html](https://www.nytimes.com/2022/09/09/world/europe/the-us-will-send-an-additional-675-million-in-military-supplies-to-ukraine-austin-says.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 09:44:24+00:00
- - tags: None
 
 
 
@@ -252,7 +221,6 @@ After the death of Queen Elizabeth II, the British government left the decision 
  - [https://www.nytimes.com/2022/09/09/world/europe/archie-lilibet-titles.html](https://www.nytimes.com/2022/09/09/world/europe/archie-lilibet-titles.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 09:18:58+00:00
- - tags: None
 
 Now that their grandfather is king — and if the royal family adheres to convention — the children of the Duke and Duchess of Sussex should become Prince Archie and Princess Lilibet.
 
@@ -260,7 +228,6 @@ Now that their grandfather is king — and if the royal family adheres to conven
  - [https://www.nytimes.com/2022/09/09/travel/dirty-planes.html](https://www.nytimes.com/2022/09/09/travel/dirty-planes.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 09:00:18+00:00
- - tags: None
 
 Recent social media posts suggest that the days of clean flights may be going the way of masks. And they’ve ignited a debate about who bears responsibility.
 
@@ -268,7 +235,6 @@ Recent social media posts suggest that the days of clean flights may be going th
  - [https://www.nytimes.com/live/2022/09/09/world/queen-elizabeth](https://www.nytimes.com/live/2022/09/09/world/queen-elizabeth)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 08:24:18+00:00
- - tags: None
 
 King Charles III will return to London and address the nation on Friday afternoon. The country now enters a mourning period that continues until after her funeral.
 
@@ -276,7 +242,6 @@ King Charles III will return to London and address the nation on Friday afternoo
  - [https://www.nytimes.com/live/2022/09/09/world/ukraine-russia-war](https://www.nytimes.com/live/2022/09/09/world/ukraine-russia-war)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 08:08:00+00:00
- - tags: None
 
 President Volodymyr Zelensky says Kyiv has “liberated” more than a thousand square kilometers of territory this month.
 
@@ -284,7 +249,6 @@ President Volodymyr Zelensky says Kyiv has “liberated” more than a thousand 
  - [https://www.nytimes.com/2022/09/09/world/asia/north-korea-kim-weapons-law.html](https://www.nytimes.com/2022/09/09/world/asia/north-korea-kim-weapons-law.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 07:09:27+00:00
- - tags: None
 
 The law authorizes a nuclear strike if an enemy tries to remove Kim Jong-un from power, the North’s state media reported.
 
@@ -292,7 +256,6 @@ The law authorizes a nuclear strike if an enemy tries to remove Kim Jong-un from
  - [https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-britain-monarchy.html](https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-britain-monarchy.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 07:00:05+00:00
- - tags: None
 
 From fading empire to the Cold War to 1970s turmoil to Brexit to Covid, “she was always there.” What will Britain, and the world, do without her?
 
@@ -300,7 +263,6 @@ From fading empire to the Cold War to 1970s turmoil to Brexit to Covid, “she w
  - [https://www.nytimes.com/2022/09/09/world/europe/08ukraine-briefing-iran-drones-sanctions.html](https://www.nytimes.com/2022/09/09/world/europe/08ukraine-briefing-iran-drones-sanctions.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 06:10:16+00:00
- - tags: None
 
 
 
@@ -308,7 +270,6 @@ From fading empire to the Cold War to 1970s turmoil to Brexit to Covid, “she w
  - [https://www.nytimes.com/2022/09/09/briefing/elizabeth-death-funeral-charles.html](https://www.nytimes.com/2022/09/09/briefing/elizabeth-death-funeral-charles.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 04:59:47+00:00
- - tags: None
 
 A special edition of the Briefing on the death of Queen Elizabeth II.
 
@@ -316,7 +277,6 @@ A special edition of the Briefing on the death of Queen Elizabeth II.
  - [https://www.nytimes.com/2022/09/09/world/europe/energy-prices-europe-austerity.html](https://www.nytimes.com/2022/09/09/world/europe/energy-prices-europe-austerity.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 04:01:09+00:00
- - tags: None
 
 The standoff with Russia over Ukraine and rising energy prices are rapidly overturning European economic orthodoxy, with barely a peep of dissent.
 
@@ -324,6 +284,5 @@ The standoff with Russia over Ukraine and rising energy prices are rapidly overt
  - [https://www.nytimes.com/2022/09/08/world/europe/the-crown-queen-elizabeth.html](https://www.nytimes.com/2022/09/08/world/europe/the-crown-queen-elizabeth.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-09 01:16:55+00:00
- - tags: None
 
 In “The Queen” and “The Crown,” actors took different approaches to get under the skin of the enigmatic monarch.

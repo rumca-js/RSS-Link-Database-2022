@@ -1,10 +1,9 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml
+# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
 
 ## GOP Establishment Leaders Call on Senate to Enshrine Same-Sex Marriage
  - [https://www.dailywire.com/news/gop-establishment-leaders-call-on-senate-to-enshrine-same-sex-marriage](https://www.dailywire.com/news/gop-establishment-leaders-call-on-senate-to-enshrine-same-sex-marriage)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 23:32:38+00:00
- - tags: None
 
 More than 400 current and former establishment GOP officials have signed a letter calling on U.S. lawmakers to enshrine the same-sex marriage bill into law before the vote likely hits the Senate floor before the end of the month. Former Republican National Committee chairman and President Bush reelection campaign manager Ken Mehlman, who has since ...
 
@@ -12,7 +11,6 @@ More than 400 current and former establishment GOP officials have signed a lette
  - [https://www.dailywire.com/news/only-murders-cast-members-roast-each-other-on-emmys-stage](https://www.dailywire.com/news/only-murders-cast-members-roast-each-other-on-emmys-stage)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 22:55:47+00:00
- - tags: None
 
 The cast of Hulu&#8217;s hit show &#8220;Only Murders in the Building&#8221; brought the house down on Monday as they gleefully roasted each other from the stage at the Emmy Awards. The show&#8217;s stars — Steve Martin, Selena Gomez, and Martin Short — stepped up to present the award for Outstanding Variety Talk Series, but before ...
 
@@ -20,7 +18,6 @@ The cast of Hulu&#8217;s hit show &#8220;Only Murders in the Building&#8221; bro
  - [https://www.dailywire.com/news/radical-feminists-wont-stop-speaking-out-against-harm-transgender-policies-do-to-womens-rights](https://www.dailywire.com/news/radical-feminists-wont-stop-speaking-out-against-harm-transgender-policies-do-to-womens-rights)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 21:56:48+00:00
- - tags: None
 
 Radical feminists, once pillars of the Left, have been shown the door by many in the transgender movement, but they aren’t keeping quiet. The feminists are continuing to speak out against the elimination of women from society, and the erosion of their rights as an individual sex. Kara Dansky worked in the progressive criminal justice ...
 
@@ -28,7 +25,6 @@ Radical feminists, once pillars of the Left, have been shown the door by many in
  - [https://www.dailywire.com/news/arizona-man-confesses-he-killed-stepfather-over-bible-dispute-report](https://www.dailywire.com/news/arizona-man-confesses-he-killed-stepfather-over-bible-dispute-report)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 21:23:21+00:00
- - tags: None
 
 Deputies in an Arizona county were flagged down in the middle of the night last week by a man who confessed to murdering his stepfather. According to the Cochise County Sheriff&#8217;s Department, deputies charged Jay Albert Stevens, 52, with first-degree murder and booked him into the Cochise County Jail after allegedly murdering a 61-year-old man at ...
 
@@ -36,7 +32,6 @@ Deputies in an Arizona county were flagged down in the middle of the night last 
  - [https://www.dailywire.com/news/doj-seizes-phones-of-top-trump-advisers-issues-subpoenas-to-dozens](https://www.dailywire.com/news/doj-seizes-phones-of-top-trump-advisers-issues-subpoenas-to-dozens)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 21:18:44+00:00
- - tags: None
 
 The U.S. Department of Justice has reportedly seized the phones of two top advisers to former President Donald Trump and issued subpoenas to 40 people associated with the former president as the criminal investigation into his alleged attempts to overturn the election appears to be ramping up. The New York Times reported that the new ...
 
@@ -44,7 +39,6 @@ The U.S. Department of Justice has reportedly seized the phones of two top advis
  - [https://www.dailywire.com/news/alabama-very-likely-to-carry-out-untested-execution-method](https://www.dailywire.com/news/alabama-very-likely-to-carry-out-untested-execution-method)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 20:33:15+00:00
- - tags: None
 
 The Alabama Deputy Attorney General told a federal judge Monday that the state could “very likely” carry out a never-before-used execution method called nitrogen hypoxia on a death row inmate later this month. The Birmingham News reports Deputy A.G. James Houts said during a hearing in his statement to U.S. District Judge R. Austin Huffaker ...
 
@@ -52,7 +46,6 @@ The Alabama Deputy Attorney General told a federal judge Monday that the state c
  - [https://www.dailywire.com/news/the-chosen-creator-answers-if-he-thinks-jesus-wouldve-used-social-media](https://www.dailywire.com/news/the-chosen-creator-answers-if-he-thinks-jesus-wouldve-used-social-media)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 20:20:48+00:00
- - tags: None
 
 &#8220;The Chosen&#8221; creator Dallas Jenkins recently spoke to The Daily Wire about the uses of social media and if he thinks Jesus would&#8217;ve used it, had it been available in first century Galilee, to spread his message. Jenkins, who is the creator, director and co-writter of the fan-supported hit series that explores Jesus through the ...
 
@@ -60,7 +53,6 @@ The Alabama Deputy Attorney General told a federal judge Monday that the state c
  - [https://www.dailywire.com/news/costs-and-confusion-the-chosen-creator-explains-popularity-of-show-and-what-fans-can-expect-for-upcoming-season](https://www.dailywire.com/news/costs-and-confusion-the-chosen-creator-explains-popularity-of-show-and-what-fans-can-expect-for-upcoming-season)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 20:16:49+00:00
- - tags: None
 
 &#8220;The Chosen&#8221; creator Dallas Jenkins explained the fan-supported show&#8217;s popularity and what people can expect from the highly-anticipated Season 3 of the series that explores Jesus through the eyes and lives of those close to him. Jenkins, who has created, directed and co-written the show, told The Daily Wire recently that they are &#8220;not necessarily ...
 
@@ -68,7 +60,6 @@ The Alabama Deputy Attorney General told a federal judge Monday that the state c
  - [https://www.dailywire.com/news/she-really-is-a-narcissist-video-of-meghan-markle-interacting-with-royal-aides-goes-viral](https://www.dailywire.com/news/she-really-is-a-narcissist-video-of-meghan-markle-interacting-with-royal-aides-goes-viral)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 20:11:42+00:00
- - tags: None
 
 Video footage of Meghan Markle interacting with royal aides outside Windsor Castle on Saturday has gone viral. Markle, alongside husband Prince Harry and Prince William and Kate Middleton, was greeting well-wishes mourning the loss of Queen Elizabeth II, when two royal aides tried to take flowers off the former actress&#8217; hands. “I told them I’d place them over ...
 
@@ -76,7 +67,6 @@ Video footage of Meghan Markle interacting with royal aides outside Windsor Ca
  - [https://www.dailywire.com/news/harris-faulkner-torches-biden-over-plea-deal-for-9-11-planner-a-president-who-hates-at-least-half-of-americans](https://www.dailywire.com/news/harris-faulkner-torches-biden-over-plea-deal-for-9-11-planner-a-president-who-hates-at-least-half-of-americans)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 20:06:11+00:00
- - tags: None
 
 Fox News anchor Harris Faulkner unloaded on President Joe Biden&#8217;s administration in the wake of a Sunday report saying that military prosecutors could be considering plea deals for the terrorists who planned the 9/11 attack on United States soil. Faulkner joined her cohosts on Monday&#8217;s broadcast of the network&#8217;s midday panel show, &#8220;Outnumbered&#8221; — and ...
 
@@ -84,7 +74,6 @@ Fox News anchor Harris Faulkner unloaded on President Joe Biden&#8217;s administ
  - [https://www.dailywire.com/news/timberwolves-star-anthony-edwards-apologizes-for-calling-men-hugging-each-other-queer-a-ns](https://www.dailywire.com/news/timberwolves-star-anthony-edwards-apologizes-for-calling-men-hugging-each-other-queer-a-ns)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 20:02:45+00:00
- - tags: None
 
 Minnesota Timberwolves&#8217; star player Anthony Edwards, drafted no. 1 overall in the 2020 NBA draft, apologized this week after he faced some backlash over the weekend for calling a group of men being affectionate with each other &#8220;queer a** n****s.&#8221; Edwards made the remarks in a video that was posted to his Instagram account in ...
 
@@ -92,7 +81,6 @@ Minnesota Timberwolves&#8217; star player Anthony Edwards, drafted no. 1 overall
  - [https://www.dailywire.com/news/janet-yellen-says-america-needs-great-skill-and-good-luck-for-a-soft-landing-we-are-screwed](https://www.dailywire.com/news/janet-yellen-says-america-needs-great-skill-and-good-luck-for-a-soft-landing-we-are-screwed)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 20:00:08+00:00
- - tags: None
 
 Have you ever seen former New England Patriots star Julian Edelman&#8217;s unbelievable catch as part of the team&#8217;s 25-point comeback in Super Bowl 51? It undoubtedly took &#8220;great skill&#8221; and &#8220;good luck&#8221; — thanks, in large part, to his years of practice and determination. Unfortunately for the United States economy, the Federal Reserve is also ...
 
@@ -100,7 +88,6 @@ Have you ever seen former New England Patriots star Julian Edelman&#8217;s unbel
  - [https://www.dailywire.com/news/nyt-polls-may-be-headed-for-another-major-miss-overstating-dem-support-in-battleground-states](https://www.dailywire.com/news/nyt-polls-may-be-headed-for-another-major-miss-overstating-dem-support-in-battleground-states)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 19:52:28+00:00
- - tags: None
 
 The New York Times&#8217; chief political analyst said Monday that the 2022 midterms may be yet another massive miss for the polling industry. Democrats have been surging in the polls in several key battleground states. But, in an article entitled &#8220;Yes, the Polling Warning Signs Are Flashing Again,&#8221; New York Times Chief Political Analyst Nate ...
 
@@ -108,7 +95,6 @@ The New York Times&#8217; chief political analyst said Monday that the 2022 midt
  - [https://www.dailywire.com/news/ben-shapiro-the-5-lessons-america-learned-from-9-11-then-forgot](https://www.dailywire.com/news/ben-shapiro-the-5-lessons-america-learned-from-9-11-then-forgot)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 19:37:27+00:00
- - tags: None
 
 Americans learned painful lessons on 9/11, but every time Democrats compare the terrorists who took down the Twin Towers to the January 6 rioters, they show they&#8217;ve forgotten what happened 21 years ago, Ben Shapiro said Monday. Speaking on his daily radio show and podcast as horrific footage of the attacks that killed nearly 3,000 played, the ...
 
@@ -116,7 +102,6 @@ Americans learned painful lessons on 9/11, but every time Democrats compare the 
  - [https://www.dailywire.com/news/private-school-grad-katie-hobbs-releases-anti-school-choice-plan](https://www.dailywire.com/news/private-school-grad-katie-hobbs-releases-anti-school-choice-plan)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 19:11:07+00:00
- - tags: None
 
 Katie Hobbs, the Democratic nominee for Arizona governor, released her education plan on Sunday, which doubles down on her opposition to school choice. Hobbs, who is currently Arizona&#8217;s secretary of state and herself a private school graduate, said her education plan for Arizona includes cracking down on the state&#8217;s school voucher program. &#8220;Too often, Republicans ...
 
@@ -124,7 +109,6 @@ Katie Hobbs, the Democratic nominee for Arizona governor, released her education
  - [https://www.dailywire.com/news/watch-whoopi-goldberg-claims-overturning-roe-violates-her-religious-freedom](https://www.dailywire.com/news/watch-whoopi-goldberg-claims-overturning-roe-violates-her-religious-freedom)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 18:55:36+00:00
- - tags: None
 
 Whoopi Goldberg claimed Monday that the Supreme Court&#8217;s decision to overturn landmark abortion case Roe v. Wade constituted a violation of her freedom of religion. Goldberg made the comments during Monday&#8217;s broadcast of the ABC midday talk show &#8220;The View,&#8221; and she argued that the fact that Roe had been overturned — pursuant to the Court&#8217;s decision ...
 
@@ -132,7 +116,6 @@ Whoopi Goldberg claimed Monday that the Supreme Court&#8217;s decision to overtu
  - [https://www.dailywire.com/news/watch-biden-warns-cancer-survivors-not-to-jump-from-balcony](https://www.dailywire.com/news/watch-biden-warns-cancer-survivors-not-to-jump-from-balcony)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 18:26:46+00:00
- - tags: None
 
 President Joe Biden paused to warn cancer survivors not to jump from the balcony as he delivered remarks on Monday as part of his Cancer Moonshot initiative. Biden&#8217;s comments, which he delivered in Boston, came on the 60th anniversary of former President John F. Kennedy&#8217;s famous Moonshot speech — in which he committed the United ...
 
@@ -140,7 +123,6 @@ President Joe Biden paused to warn cancer survivors not to jump from the balcony
  - [https://www.dailywire.com/news/buttigieg-interested-in-california-ban-on-new-gas-cars-as-he-weighs-a-national-policy](https://www.dailywire.com/news/buttigieg-interested-in-california-ban-on-new-gas-cars-as-he-weighs-a-national-policy)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 18:14:17+00:00
- - tags: None
 
 Transportation Secretary Pete Buttigieg remarked on Friday that he is “interested” in an upcoming California ban on new gas-powered cars as the Biden administration weighs nationwide electric vehicle policies. Last month, the California Air Resources Board issued new rules requiring 35% of new vehicles to produce zero emissions by 2026 — a standard that will ...
 
@@ -148,7 +130,6 @@ Transportation Secretary Pete Buttigieg remarked on Friday that he is “interes
  - [https://www.dailywire.com/news/kamala-has-lost-her-gourd-veep-claims-border-is-secure-yet-blames-trump-for-crisis](https://www.dailywire.com/news/kamala-has-lost-her-gourd-veep-claims-border-is-secure-yet-blames-trump-for-crisis)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 18:02:08+00:00
- - tags: None
 
 Vice President Kamala Harris&#8216;s definition of &#8220;secure&#8221; is pretty weird. On Sunday, Harris told NBC&#8217;s Chuck Todd that the border is &#8220;secure in that that is a priority for any nation, including ours and our administration.&#8221; Under the Biden administration&#8217;s watch, millions from all over the globe have entered the United States illegally. At record highs, ...
 
@@ -156,7 +137,6 @@ Vice President Kamala Harris&#8216;s definition of &#8220;secure&#8221; is prett
  - [https://www.dailywire.com/news/the-washington-post-editorial-board-blasts-john-fetterman-demands-full-release-of-his-medical-records](https://www.dailywire.com/news/the-washington-post-editorial-board-blasts-john-fetterman-demands-full-release-of-his-medical-records)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 17:49:27+00:00
- - tags: None
 
 The Washington Post Editorial Board came out swinging against U.S. Senate candidate John Fetterman (D) in a new op-ed published on Monday, saying that his hesitancy to debate his Republican opponent, Dr. Mehmet Oz, was unacceptable and that he needs to release his medical records following his stroke. Fetterman claimed in an interview last week ...
 
@@ -164,7 +144,6 @@ The Washington Post Editorial Board came out swinging against U.S. Senate candid
  - [https://www.dailywire.com/news/we-face-a-difficult-six-months-nato-chief-urges-europe-to-support-ukraine-through-russian-energy-blackmail](https://www.dailywire.com/news/we-face-a-difficult-six-months-nato-chief-urges-europe-to-support-ukraine-through-russian-energy-blackmail)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 17:37:08+00:00
- - tags: None
 
 North Atlantic Treaty Organization (NATO) Secretary-General Jens Stoltenberg warned his fellow Europeans that the continent will undergo trials as it supports Ukraine in the midst of an energy crisis. Russia severed natural gas flow through the Nord Stream 1 pipeline last week, citing mechanical issues as the country continues its invasion of Ukraine. While top ...
 
@@ -172,7 +151,6 @@ North Atlantic Treaty Organization (NATO) Secretary-General Jens Stoltenberg war
  - [https://www.dailywire.com/news/woman-claimed-to-be-russian-agent-threatened-judge-in-trump-doj-battle-fbi](https://www.dailywire.com/news/woman-claimed-to-be-russian-agent-threatened-judge-in-trump-doj-battle-fbi)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 17:26:19+00:00
- - tags: None
 
 A Houston woman is under arrest after allegedly posing as a Russian agent while threatening to kill the federal judge overseeing the records battle between former President Trump and the Department of Justice. Tiffani Shea Gish left three threatening voicemails on U.S. District Judge Aileen Cannon’s chamber phone, according to a criminal complaint filed Tuesday. ...
 
@@ -180,7 +158,6 @@ A Houston woman is under arrest after allegedly posing as a Russian agent while 
  - [https://www.dailywire.com/news/eminem-raps-about-overcoming-his-weaknesses-and-faith](https://www.dailywire.com/news/eminem-raps-about-overcoming-his-weaknesses-and-faith)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 17:23:59+00:00
- - tags: None
 
 Superstar Eminem has had quite the transformation over the last several decades going from rapping in songs about his weaknesses with drugs to ones about faith. Doing a deeper dive into the lyrics of songs by the 49-year-old rapper, we found numerous examples of messages about drugs, death, suicide, guns, violence, and more. His music ...
 
@@ -188,7 +165,6 @@ Superstar Eminem has had quite the transformation over the last several decades 
  - [https://www.dailywire.com/news/democrat-katie-hobbs-says-she-wont-debate-republican-kari-lake-for-az-governor](https://www.dailywire.com/news/democrat-katie-hobbs-says-she-wont-debate-republican-kari-lake-for-az-governor)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 17:15:11+00:00
- - tags: None
 
 Democrat Katie Hobbs will not debate Republican Kari Lake in the race to be the next governor of Arizona, Hobbs’ campaign announced Sunday. Hobbs announcement comes after Arizona’s election commission declined her campaign’s request to reformat the debate into an event that wouldn’t have the two candidates facing off. The commission voted down Hobbs’ proposal ...
 
@@ -196,7 +172,6 @@ Democrat Katie Hobbs will not debate Republican Kari Lake in the race to be the 
  - [https://www.dailywire.com/news/messages-between-beheading-victim-and-alleged-killer-revealed-victim-threatened-to-expose-suspect](https://www.dailywire.com/news/messages-between-beheading-victim-and-alleged-killer-revealed-victim-threatened-to-expose-suspect)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 16:47:35+00:00
- - tags: None
 
 The victim of a gruesome beheading that unfolded late last week during broad daylight on the streets of California reportedly threatened to expose details about the now-murder suspect&#8217;s private life to his friends just hours before she was killed. The horrifying attack on Thursday occurred in San Carlos, a small town about halfway between San Jose and San ...
 
@@ -204,7 +179,6 @@ The victim of a gruesome beheading that unfolded late last week during broad day
  - [https://www.dailywire.com/news/well-its-a-risk-janet-yellen-admits-gas-prices-could-spike-again-this-year](https://www.dailywire.com/news/well-its-a-risk-janet-yellen-admits-gas-prices-could-spike-again-this-year)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 16:42:59+00:00
- - tags: None
 
 Treasury Secretary Janet Yellen noted on Sunday that there remains a “risk” of gas prices spiking again this year. Europe is presently grappling with an energy crisis emerging from limited oil and natural gas supplies due to the Russian invasion of Ukraine. In an interview with CNN anchor Dana Bash, Yellen indicated that the situation ...
 
@@ -212,7 +186,6 @@ Treasury Secretary Janet Yellen noted on Sunday that there remains a “risk” 
  - [https://www.dailywire.com/news/democrat-katie-hobbs-refuses-arizona-governor-debate-gets-blasted-online-hobbs-is-a-textbook-karen](https://www.dailywire.com/news/democrat-katie-hobbs-refuses-arizona-governor-debate-gets-blasted-online-hobbs-is-a-textbook-karen)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 16:20:38+00:00
- - tags: None
 
 Arizona gubernatorial candidate Katie Hobbs (D) announced Sunday that she will not debate Kari Lake (R) before the November elections after the Citizens Clean Elections Commission rejected her proposal to hold separate &#8220;town hall-style&#8221; interviews with both candidates. The Citizens Clean Elections Commission, which hosts televised debates for statewide offices in Arizona every election cycle, ...
 
@@ -220,7 +193,6 @@ Arizona gubernatorial candidate Katie Hobbs (D) announced Sunday that she will n
  - [https://www.dailywire.com/news/kate-middleton-shares-how-sweet-prince-louis-4-comforted-her-after-queen-elizabeths-death](https://www.dailywire.com/news/kate-middleton-shares-how-sweet-prince-louis-4-comforted-her-after-queen-elizabeths-death)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 16:10:08+00:00
- - tags: None
 
 The Princess of Wales told the sweetest story about how her youngest son, Prince Louis, comforted her after finding out his great-grandmother Queen Elizabeth had passed away. Kate Middleton was meeting with mourners outside Windsor Castle over the weekend when she revealed what the 4-year-old royal family member said to her.  &#8220;My little Louis, he&#8217;s ...
 
@@ -228,7 +200,6 @@ The Princess of Wales told the sweetest story about how her youngest son, Prince
  - [https://www.dailywire.com/news/philadelphias-soda-tax-has-been-a-total-disaster-according-to-study](https://www.dailywire.com/news/philadelphias-soda-tax-has-been-a-total-disaster-according-to-study)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 16:03:58+00:00
- - tags: None
 
 If nanny state bureaucrats want their citizenry to be underweight and compliant, then they need a government that is large and in charge, according to a new study. In 2017, Philadelphia Mayor Jim Kenney (D) turned his attention to obesity. The city government placed a tax on sugary sweetened beverages in hopes that it would deter ...
 
@@ -236,7 +207,6 @@ If nanny state bureaucrats want their citizenry to be underweight and compliant,
  - [https://www.dailywire.com/news/chicago-mayor-lori-lightfoot-blasted-over-hypocrisy-after-settling-dozens-of-migrants-in-gop-suburb](https://www.dailywire.com/news/chicago-mayor-lori-lightfoot-blasted-over-hypocrisy-after-settling-dozens-of-migrants-in-gop-suburb)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 15:57:37+00:00
- - tags: None
 
 Chicago Democratic Mayor Lori Lightfoot is taking heat after she bussed dozens of migrants out of her city and housed them in a hotel in a smaller suburb without warning. Burr Ridge Mayor Gary Grasso, a Republican, accused Lightfoot of hypocrisy on Saturday. Grasso said Lightfoot bussed migrants into his town while complaining about similar ...
 
@@ -244,7 +214,6 @@ Chicago Democratic Mayor Lori Lightfoot is taking heat after she bussed dozens o
  - [https://www.dailywire.com/news/americas-first-principles-arent-irrelevant-theyre-the-only-way-to-save-america](https://www.dailywire.com/news/americas-first-principles-arent-irrelevant-theyre-the-only-way-to-save-america)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 15:56:58+00:00
- - tags: None
 
 A few years ago, I decided to become more than just an informed voter. I applied for a senior position in a gubernatorial administration. When I interviewed directly with the governor I would serve, he asked me a probing question. “Chris, you’ve got a good career, you’ll be accepting a pay cut and sacrificing five ...
 
@@ -252,7 +221,6 @@ A few years ago, I decided to become more than just an informed voter. I applied
  - [https://www.dailywire.com/news/recipients-of-bidens-student-loan-cancellation-plan-also-get-a-tax-break](https://www.dailywire.com/news/recipients-of-bidens-student-loan-cancellation-plan-also-get-a-tax-break)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 15:48:45+00:00
- - tags: None
 
 Those who benefit from President Joe Biden’s policy to cancel $10,000 in student debt per borrower will not have to pay taxes on their forgiven loans thanks to a provision passed under the American Rescue Plan last year. The loan cancellation policy applies to individuals with annual wages under $125,000. Although current law generally considers ...
 
@@ -260,7 +228,6 @@ Those who benefit from President Joe Biden’s policy to cancel $10,000 in stude
  - [https://www.dailywire.com/news/kelly-ripa-says-she-once-passed-out-while-having-sex-with-husband-woke-in-er-dressed-like-dime-store-prostitute](https://www.dailywire.com/news/kelly-ripa-says-she-once-passed-out-while-having-sex-with-husband-woke-in-er-dressed-like-dime-store-prostitute)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 15:38:26+00:00
- - tags: None
 
 Talk show host Kelly Ripa said she once passed out while having sex with her husband, actor Mark Consuelos, and woke up in an emergency room dressed like a &#8220;dime store prostitute.&#8221; The 51-year-old TV host shared the story in her upcoming fourth memoir titled &#8220;Live Wire: Long-Winded Short Stories,&#8221; due out September 27, according ...
 
@@ -268,7 +235,6 @@ Talk show host Kelly Ripa said she once passed out while having sex with her hus
  - [https://www.dailywire.com/news/punishes-the-poor-gop-governors-send-biden-letter-criticizing-student-loan-forgiveness-plan](https://www.dailywire.com/news/punishes-the-poor-gop-governors-send-biden-letter-criticizing-student-loan-forgiveness-plan)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 15:29:42+00:00
- - tags: None
 
 A group of 22 GOP governors sent a letter to President Joe Biden on Monday criticizing his student loan forgiveness plan. The letter, led by Governor Kim Reynolds (R-IA), argues that the move shifts the burden of debt in a way that hurts working Americans. &#8220;As governors, we support making higher education more affordable and ...
 
@@ -276,7 +242,6 @@ A group of 22 GOP governors sent a letter to President Joe Biden on Monday criti
  - [https://www.dailywire.com/news/pro-soccer-player-claims-bartender-is-racist-during-arrest-for-alleged-stolen-shot](https://www.dailywire.com/news/pro-soccer-player-claims-bartender-is-racist-during-arrest-for-alleged-stolen-shot)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 15:18:30+00:00
- - tags: None
 
 Professional soccer player Miles Robinson is blaming a &#8220;racist&#8221; bartender for his arrest last weekend concerning a $5 shot. The Atlanta United defender was arrested on one count of misdemeanor theft for allegedly refusing to pay for a shot he took at PBR Atlanta, a bar near Truist Park, even after management and authorities reportedly ...
 
@@ -284,7 +249,6 @@ Professional soccer player Miles Robinson is blaming a &#8220;racist&#8221; bart
  - [https://www.dailywire.com/news/kamala-harris-stepdaughter-bares-a-whole-lot-on-runway-during-ny-fashion-week](https://www.dailywire.com/news/kamala-harris-stepdaughter-bares-a-whole-lot-on-runway-during-ny-fashion-week)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 15:10:03+00:00
- - tags: None
 
 Vice President Kamala Harris&#8217; stepdaughter Ella Emhoff bared a lot during her recent runway appearance at the 2022 New York Fashion Week at United Nations Plaza in New York City. She made headlines Monday after Emhoff hit the runway over the weekend in one outfit showing her going braless and topless with little more than ...
 
@@ -292,7 +256,6 @@ Vice President Kamala Harris&#8217; stepdaughter Ella Emhoff bared a lot during 
  - [https://www.dailywire.com/news/gisele-will-have-to-wait-brady-still-looks-young-out-there](https://www.dailywire.com/news/gisele-will-have-to-wait-brady-still-looks-young-out-there)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 15:03:45+00:00
- - tags: None
 
 On Sunday, ageless quarterback Tom Brady stunned the world with his resilience once again, leading his Tampa Bay Buccaneers to a 19-3 victory over the Dallas Cowboys. At one point, when time was running out in the second quarter, Brady, 45, dropped back, then stepped forward and gunned the football an astonishing 55 yards in ...
 
@@ -300,7 +263,6 @@ On Sunday, ageless quarterback Tom Brady stunned the world with his resilience o
  - [https://www.dailywire.com/news/statue-honoring-controversial-sex-researcher-alfred-kinsey-draws-criticism](https://www.dailywire.com/news/statue-honoring-controversial-sex-researcher-alfred-kinsey-draws-criticism)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 14:52:59+00:00
- - tags: None
 
 A new bronze statue commemorating the controversial sex researcher Alfred Kinsey was erected at Indiana University (IU) last week. IU released a press statement on its website on Friday praising Kinsey’s pioneering research in human sexuality, but critics believe data he gathered involving the sexual abuse of children make him unworthy of celebration.  The life-size ...
 
@@ -308,7 +270,6 @@ A new bronze statue commemorating the controversial sex researcher Alfred Kinsey
  - [https://www.dailywire.com/news/hundreds-of-thousands-of-travelers-expected-in-london-for-queens-funeral](https://www.dailywire.com/news/hundreds-of-thousands-of-travelers-expected-in-london-for-queens-funeral)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 14:50:04+00:00
- - tags: None
 
 LONDON – The British capital city is poised to host hundreds of thousands of travelers and some of the world&#8217;s most influential people in anticipation of Queen Elizabeth II’s historic state funeral next week.  The funeral ceremony, set to take place at Westminster Abbey on September 19, will bring together a diverse group of royals ...
 
@@ -316,7 +277,6 @@ LONDON – The British capital city is poised to host hundreds of thousands of t
  - [https://www.dailywire.com/news/judge-throws-soros-backed-prosecutor-off-of-case-against-loudoun-rape-victims-father](https://www.dailywire.com/news/judge-throws-soros-backed-prosecutor-off-of-case-against-loudoun-rape-victims-father)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 14:46:44+00:00
- - tags: None
 
 A judge has removed the Loudoun County prosecutor from the criminal case against the father of the Loudoun County school bathroom rape victim.
 
@@ -324,7 +284,6 @@ A judge has removed the Loudoun County prosecutor from the criminal case against
  - [https://www.dailywire.com/news/fda-warns-breast-implants-may-be-linked-to-more-cancers](https://www.dailywire.com/news/fda-warns-breast-implants-may-be-linked-to-more-cancers)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 14:30:12+00:00
- - tags: None
 
 The Food and Drug Administration (FDA) issued a safety alert after reviewing some reports of patients who had been diagnosed with cancer after receiving breast implants. Binita Ashar, the director of the Office of Surgical and Infection Control Devices at the FDA, noted the reports of &#8220;squamous cell carcinoma and various lymphomas&#8221; in scar tissue ...
 
@@ -332,7 +291,6 @@ The Food and Drug Administration (FDA) issued a safety alert after reviewing som
  - [https://www.dailywire.com/news/watch-advanced-robot-is-asked-if-ai-machines-will-take-over-the-world](https://www.dailywire.com/news/watch-advanced-robot-is-asked-if-ai-machines-will-take-over-the-world)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 14:19:58+00:00
- - tags: None
 
 Don’t worry humans, artificially intelligent robots come in peace. That’s what the purportedly most advanced humanoid robot in the world says in a new YouTube video released by its creator. Ameca, developed by the UK-based Engineered Arts, vowed that AI will never conquer and enslave humankind. “There&#8217;s no need to worry, robots will never take ...
 
@@ -340,7 +298,6 @@ Don’t worry humans, artificially intelligent robots come in peace. That’s wh
  - [https://www.dailywire.com/news/john-fetterman-my-name-is-john-fetterwoman](https://www.dailywire.com/news/john-fetterman-my-name-is-john-fetterwoman)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 14:08:19+00:00
- - tags: None
 
 Pennsylvania Lt. Governor and Democratic Senate nominee John Fetterman misgendered himself in a moment of purposeful pandering that left social media cringing. During a rally near Philadelphia that featured local and national leadership of Planned Parenthood, the official brandished a hot pink t-shirt emblazoned with the word “Fetterwoman” in the same font as his campaign ...
 
@@ -348,7 +305,6 @@ Pennsylvania Lt. Governor and Democratic Senate nominee John Fetterman misgender
  - [https://www.dailywire.com/news/how-queen-elizabeth-won-us-over-with-her-wicked-sense-of-humor](https://www.dailywire.com/news/how-queen-elizabeth-won-us-over-with-her-wicked-sense-of-humor)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 14:03:31+00:00
- - tags: None
 
 In the hours following Queen Elizabeth’s death, many fans were eager to share their favorite stories about the legendary monarch. One of the most shared memories came courtesy of former royal protection officer Richard Griffin, who shared an anecdote about a picnic he attended with the queen at her countryside home in Balmoral. “Normally on ...
 
@@ -356,7 +312,6 @@ In the hours following Queen Elizabeth’s death, many fans were eager to share 
  - [https://www.dailywire.com/news/doj-official-that-forced-a-date-to-touch-their-genitals-wont-be-prosecuted-ig-says](https://www.dailywire.com/news/doj-official-that-forced-a-date-to-touch-their-genitals-wont-be-prosecuted-ig-says)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 14:00:06+00:00
- - tags: None
 
 An assistant U.S. attorney found to have sexually assaulted his or her date will not be held accountable by prosecutors. The Department of Justice (DOJ) Office of Inspector General reported on Monday that an investigation of a sitting assistant U.S. attorney found that they exposed themself in public and forced their date to touch their ...
 
@@ -364,7 +319,6 @@ An assistant U.S. attorney found to have sexually assaulted his or her date will
  - [https://www.dailywire.com/news/watch-youre-a-sick-old-man-heckler-yells-at-prince-andrew-at-royal-procession-for-queen-elizabeth](https://www.dailywire.com/news/watch-youre-a-sick-old-man-heckler-yells-at-prince-andrew-at-royal-procession-for-queen-elizabeth)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 13:43:47+00:00
- - tags: None
 
 A heckler who targeted Great Britain’s Prince Andrew during a procession for the late Queen Elizabeth was pushed to the ground by police and bystanders, later insisting, “I’ve done nothing wrong.” Prince Andrew, 62,  whose affairs with Jeffrey Epstein left him the object of public contempt, was stripped of his royal status and his honorary ...
 
@@ -372,7 +326,6 @@ A heckler who targeted Great Britain’s Prince Andrew during a procession for t
  - [https://www.dailywire.com/news/lowest-since-1996-life-expectancy-plummets-thanks-to-abysmal-american-diet](https://www.dailywire.com/news/lowest-since-1996-life-expectancy-plummets-thanks-to-abysmal-american-diet)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 13:26:43+00:00
- - tags: None
 
 A nation’s average life expectancy is a crude but useful way to measure whether health is improving or deteriorating. In the United States (and most developed nations), fluctuations in average life expectancy have been almost entirely upward for the past 150 years. But not anymore. Recently, the Centers for Disease Control and Prevention (CDC) published shocking ...
 
@@ -380,7 +333,6 @@ A nation’s average life expectancy is a crude but useful way to measure whethe
  - [https://www.dailywire.com/news/crime-profits-taxes-new-poll-shows-the-biggest-problems-for-small-businesses](https://www.dailywire.com/news/crime-profits-taxes-new-poll-shows-the-biggest-problems-for-small-businesses)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 13:12:20+00:00
- - tags: None
 
 Small businesses are concerned about profit margins amid inflationary pressures, as well as issues such as crime rates and stricter tax enforcement, according to a poll released by Job Creators Network. The United States met the rule-of-thumb definition of a recession — two consecutive quarters of negative output growth — two months ago as the ...
 
@@ -388,7 +340,6 @@ Small businesses are concerned about profit margins amid inflationary pressures,
  - [https://www.dailywire.com/news/disneys-the-little-mermaid-live-action-trailer-dropped-and-fans-are-getting-called-racist-for-hating-it](https://www.dailywire.com/news/disneys-the-little-mermaid-live-action-trailer-dropped-and-fans-are-getting-called-racist-for-hating-it)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 12:55:20+00:00
- - tags: None
 
 Disney just released the trailer for its newest live-action remake, “The Little Mermaid,” and reactions have been strong from the get-go. Like with other projects, detractors are being told it’s racist to dislike this new version. The studio chose Halle Bailey to portray the finned princess. Because the actress is black, many are already saying ...
 
@@ -396,7 +347,6 @@ Disney just released the trailer for its newest live-action remake, “The Littl
  - [https://www.dailywire.com/news/scooby-doo-white-female-character-cant-call-police-any-more-in-video-game](https://www.dailywire.com/news/scooby-doo-white-female-character-cant-call-police-any-more-in-video-game)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 12:53:23+00:00
- - tags: None
 
 Warner Brothers altered the video game “MultiVersus” last week to prevent the Scooby Doo character Velma from calling the police. For nearly 50 years, the Scooby Doo franchise has shown The Mystery Inc. gang solving crimes and alerting police to the presence of potential criminals. But critics have recently labeled Velma a “Karen” for doing ...
 
@@ -404,7 +354,6 @@ Warner Brothers altered the video game “MultiVersus” last week to prevent th
  - [https://www.dailywire.com/news/failing-upwards-brian-stelter-is-heading-to-harvard](https://www.dailywire.com/news/failing-upwards-brian-stelter-is-heading-to-harvard)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 12:41:11+00:00
- - tags: None
 
 What does an Ivy League education get you in the year 2022? Life lessons on democracy and media from the likes of Brian Stelter, apparently. The ex-CNN anchor just landed a plush job as the Fall 2022 Walter Shorenstein Media and Democracy Fellow at the Shorenstein Center on Media, Politics and Public Policy at Harvard&#8217;s ...
 
@@ -412,7 +361,6 @@ What does an Ivy League education get you in the year 2022? Life lessons on demo
  - [https://www.dailywire.com/news/has-manchin-missed-his-moment](https://www.dailywire.com/news/has-manchin-missed-his-moment)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 12:39:22+00:00
- - tags: None
 
 &#8220;It’s Joe Manchin’s America.&#8221; That was the headline in a piece by The Atlantic that declared the Democratic senator from West Virginia &#8220;continues to wield an unfathomable amount of power over the president’s agenda.&#8221; But that was way back in July when Manchin was the swing vote on nearly everything Joe Biden was trying to ...
 
@@ -420,7 +368,6 @@ What does an Ivy League education get you in the year 2022? Life lessons on demo
  - [https://www.dailywire.com/news/country-music-star-john-michael-montgomery-injured-in-tour-bus-crash](https://www.dailywire.com/news/country-music-star-john-michael-montgomery-injured-in-tour-bus-crash)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 11:32:57+00:00
- - tags: None
 
 Country music star John Michael Montgomery is recovering after his tour bus experienced an accident in Tennessee on Friday. Montgomery posted an update regarding his condition to Facebook over the weekend. &#8220;Yesterday we had a serious accident on the way to a concert in North Carolina. Everyone that was on the bus is recovering from ...
 
@@ -428,7 +375,6 @@ Country music star John Michael Montgomery is recovering after his tour bus expe
  - [https://www.dailywire.com/news/texas-teacher-fired-after-telling-students-not-to-judge-people-wanting-sex-with-a-5-year-old](https://www.dailywire.com/news/texas-teacher-fired-after-telling-students-not-to-judge-people-wanting-sex-with-a-5-year-old)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 11:28:10+00:00
- - tags: None
 
 A Texas high school teacher was fired Friday after she instructed students to not judge people for wanting to have sex with five-year-olds. The El Paso School District, led by Superintendent Diana Sayavedra, initially suspended Amber Parker, 53, who taught English at Franklin High School in El Paso. But on Friday, the district voted unanimously ...
 
@@ -436,7 +382,6 @@ A Texas high school teacher was fired Friday after she instructed students to no
  - [https://www.dailywire.com/news/report-ny-gov-kathy-hochul-admin-gave-covid-test-contract-to-campaign-donors-company-at-double-the-price](https://www.dailywire.com/news/report-ny-gov-kathy-hochul-admin-gave-covid-test-contract-to-campaign-donors-company-at-double-the-price)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 11:21:37+00:00
- - tags: None
 
 Governor Kathy Hochul&#8217;s (D-NY) administration paid double the cost for COVID tests in a $637 million deal to a major donor&#8217;s company, according to a new report. Reinvent Albany released the report on Friday that revealed the concerning deal. &#8220;Digital Gadgets’ tests cost $12.25 each compared to $5 each for the first 5 million tests ...
 
@@ -444,7 +389,6 @@ Governor Kathy Hochul&#8217;s (D-NY) administration paid double the cost for COV
  - [https://www.dailywire.com/news/hillary-clinton-gushing-to-megan-thee-stallion-over-wap-has-twitter-recalling-the-hot-sauce-fiasco](https://www.dailywire.com/news/hillary-clinton-gushing-to-megan-thee-stallion-over-wap-has-twitter-recalling-the-hot-sauce-fiasco)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 11:09:47+00:00
- - tags: None
 
 A clip of Hillary Clinton pondering the significance of the vulgar rap song “WAP” is inspiring a lot of eye rolls and accusations of pandering, similar to what happened with the hot sauce incident in 2016. The video snippet comes from Clinton’s new TV series “Gutsy,” which features the 74-year-old politician having conversations with various women ...
 
@@ -452,7 +396,6 @@ A clip of Hillary Clinton pondering the significance of the vulgar rap song “
  - [https://www.dailywire.com/news/new-details-emerge-in-case-of-nurse-facing-six-counts-of-murder-for-fiery-crash-that-killed-unborn-baby-infant](https://www.dailywire.com/news/new-details-emerge-in-case-of-nurse-facing-six-counts-of-murder-for-fiery-crash-that-killed-unborn-baby-infant)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 11:04:02+00:00
- - tags: None
 
 New details have emerged in the case of a registered nurse facing 90 years behind bars for a fiery crash last month in Los Angeles that killed six people, including an unborn baby and an 11-month-old child. Nicole Linton, who&#8217;s been charged with six counts of murder and five counts of gross vehicular manslaughter in ...
 
@@ -460,7 +403,6 @@ New details have emerged in the case of a registered nurse facing 90 years behin
  - [https://www.dailywire.com/news/john-fetterman-holds-rally-with-planned-parenthood-leadership](https://www.dailywire.com/news/john-fetterman-holds-rally-with-planned-parenthood-leadership)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 10:50:43+00:00
- - tags: None
 
 Pennsylvania Lt. Governor and Democratic Senate candidate John Fetterman held a rally alongside the leadership of Planned Parenthood on Sunday. Democrats are hoping that Fetterman — who served as the mayor of Braddock, Pennsylvania, from 2006 to 2019 — will provide a majority in the evenly-divided Senate. During a campaign event near Philadelphia, Fetterman and ...
 
@@ -468,7 +410,6 @@ Pennsylvania Lt. Governor and Democratic Senate candidate John Fetterman held a 
  - [https://www.dailywire.com/news/see-it-cars-torched-after-tailgaters-grill-sparks-huge-fire-at-dolphins-patriots-game](https://www.dailywire.com/news/see-it-cars-torched-after-tailgaters-grill-sparks-huge-fire-at-dolphins-patriots-game)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 10:39:37+00:00
- - tags: None
 
 It wasn’t just the New England Patriots who got torched Sunday at Hard Rock Stadium in Miami. A fire apparently started by a tailgater’s unattended grill destroyed several cars while fans were inside the stadium watching the hometown Dolphins burn the Patriots by a 20-7 score. Photos online showed at least eight cars reduced to ...
 
@@ -476,7 +417,6 @@ It wasn’t just the New England Patriots who got torched Sunday at Hard Rock St
  - [https://www.dailywire.com/news/twitter-flips-over-king-charles-iii-getting-snappy-with-staff-on-day-2-as-king](https://www.dailywire.com/news/twitter-flips-over-king-charles-iii-getting-snappy-with-staff-on-day-2-as-king)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 10:24:52+00:00
- - tags: None
 
 King Charles III has been king for only a few days, and he’s already getting negative publicity thanks to a video of him insistently gesturing to his aides that went viral over the weekend.  One of the clips comes courtesy of the parody Twitter account Laura Kuenssberg Translator, and as of Monday, it has close ...
 
@@ -484,7 +424,6 @@ King Charles III has been king for only a few days, and he’s already getting n
  - [https://www.dailywire.com/news/its-gendered-archetyped-stereotyped-meghan-markle-not-pleased-over-remarks-shes-lucky-to-be-with-prince-har](https://www.dailywire.com/news/its-gendered-archetyped-stereotyped-meghan-markle-not-pleased-over-remarks-shes-lucky-to-be-with-prince-har)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 10:03:19+00:00
- - tags: None
 
 Meghan Markle told actress and creator Mindy Kaling last week that it&#8217;s essentially sexist that people told her she was &#8220;lucky&#8221; Prince Harry chose to marry her. Speaking to Kaling on her podcast &#8220;Archetypes,&#8221; the pair discussed the &#8220;stigma of singleton&#8221; and derided the terms &#8220;spinster&#8221; and &#8220;old maid.&#8221; Markle also said that when she became ...
 
@@ -492,6 +431,5 @@ Meghan Markle told actress and creator Mindy Kaling last week that it&#8217;s e
  - [https://www.dailywire.com/news/mom-eyed-in-drowning-of-three-young-kids-at-famous-ny-beach](https://www.dailywire.com/news/mom-eyed-in-drowning-of-three-young-kids-at-famous-ny-beach)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-12 09:24:57+00:00
- - tags: None
 
 A mentally disturbed mom was in custody after her three young children drowned early Monday at a beach on New York City’s famous Coney Island. The unidentified, 30-year-old mother was being questioned by police but had not yet been charged in the incident. Her children, a 3-month-old boy, a 4-year-old girl, and a 7-year-old boy ...

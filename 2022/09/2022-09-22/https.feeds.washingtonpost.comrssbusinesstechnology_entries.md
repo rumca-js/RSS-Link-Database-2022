@@ -1,10 +1,9 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology
+# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
 
 ## Study of large incel internet forum raises alarms about its growth
  - [https://www.washingtonpost.com/technology/2022/09/22/incels-rape-murder-study/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/22/incels-rape-murder-study/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-22 19:00:00+00:00
- - tags: None
 
 More than 2.6 million visit the incel forum each month, where their posts often endorse rape and mass murder, according to the Center for Countering Digital Hate.
 
@@ -12,7 +11,6 @@ More than 2.6 million visit the incel forum each month, where their posts often 
  - [https://www.washingtonpost.com/technology/2022/09/22/facebook-censorship-palestinians/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/22/facebook-censorship-palestinians/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-22 18:42:11+00:00
- - tags: None
 
 An independent audit of Meta’s handling of online content during the two-week war between Israel and the militant Palestinian group Hamas last year found that the social media giant had denied Palestinian users their freedom of expression by erroneously removing their content and punished Arabic-speaking users more heavily than Hebrew-speaking ones.
 
@@ -20,7 +18,6 @@ An independent audit of Meta’s handling of online content during the two-week 
  - [https://www.washingtonpost.com/technology/2022/09/22/jan6-committee-twitter-witness-navaroli/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/22/jan6-committee-twitter-witness-navaroli/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-22 17:35:00+00:00
- - tags: None
 
 The whistleblower, who spoke exclusively with The Washington Post, said Twitter's complacency toward then-President Donald Trump led to disastrous consequences.
 
@@ -28,7 +25,6 @@ The whistleblower, who spoke exclusively with The Washington Post, said Twitter'
  - [https://www.washingtonpost.com/video-games/2022/09/22/dunkey-youtube-bigmode-indie-publisher/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/09/22/dunkey-youtube-bigmode-indie-publisher/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-22 17:25:51+00:00
- - tags: None
 
 In a debut video, Dunkey said he wanted to make good games instead of waiting for them. But some in the space questioned his lack of experience.
 
@@ -36,7 +32,6 @@ In a debut video, Dunkey said he wanted to make good games instead of waiting fo
  - [https://www.washingtonpost.com/video-games/2022/09/22/omega-strikers-interview/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/09/22/omega-strikers-interview/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-22 12:37:32+00:00
- - tags: None
 
 'Omega Strikers' is a 3v3 sports brawler from Odyssey Interactive that's aiming to be the most accessible and watchable game in the market.
 
@@ -44,7 +39,6 @@ In a debut video, Dunkey said he wanted to make good games instead of waiting fo
  - [https://www.washingtonpost.com/technology/2022/09/22/books-banned-libraries/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/22/books-banned-libraries/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-22 10:13:05+00:00
- - tags: None
 
 Books are being banned across United States school libraries in record numbers, led largely by conservative lawmakers and activists.
 
@@ -52,7 +46,6 @@ Books are being banned across United States school libraries in record numbers, 
  - [https://www.washingtonpost.com/technology/2022/09/22/health-apps-privacy/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/22/health-apps-privacy/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-22 07:00:37+00:00
- - tags: None
 
 We examined the privacy practices of popular health apps including Drugs.com, WebMD, K Health, HealthTap and Period Calendar.
 
@@ -60,7 +53,6 @@ We examined the privacy practices of popular health apps including Drugs.com, We
  - [https://www.washingtonpost.com/technology/2022/09/22/midterms-elections-social-media-civil-rights/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/22/midterms-elections-social-media-civil-rights/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-22 07:00:22+00:00
- - tags: None
 
 For months, the Change the Terms coalition pleaded with Meta, Twitter, TikTok and YouTube to bolster its content moderation systems.
 
@@ -68,7 +60,6 @@ For months, the Change the Terms coalition pleaded with Meta, Twitter, TikTok an
  - [https://www.washingtonpost.com/technology/interactive/2022/crypto-exchange-bitcoin-history/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/interactive/2022/crypto-exchange-bitcoin-history/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-22 06:30:45+00:00
- - tags: None
 
 The wild beginnings, crazy turns, colorful characters and multiple comebacks of crypto.
 
@@ -76,6 +67,5 @@ The wild beginnings, crazy turns, colorful characters and multiple comebacks of 
  - [https://www.washingtonpost.com/technology/2022/09/22/early-detection-cancer-tests-biden-cancer-moonshot/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/22/early-detection-cancer-tests-biden-cancer-moonshot/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-22 06:00:24+00:00
- - tags: None
 
 President Biden said he wants to foster research on early-cancer-detection blood tests through his cancer “moonshot” initiative.

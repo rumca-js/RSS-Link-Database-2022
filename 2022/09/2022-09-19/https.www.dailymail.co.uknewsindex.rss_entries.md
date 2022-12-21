@@ -1,10 +1,9 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss
+# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
 
 ## Lip reader reveals what Prince Harry said to Prince William before the Queen's committal service
  - [https://www.dailymail.co.uk/femail/article-11228395/Lip-reader-reveals-Prince-Harry-said-Prince-William-Queens-committal-service.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11228395/Lip-reader-reveals-Prince-Harry-said-Prince-William-Queens-committal-service.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 23:55:09+00:00
- - tags: None
 
 Jacqui Press, an expert lip reader, spotted Prince Harry and Prince William in conversation at around 4.20pm as they prepared for the service in St George's Chapel, Windsor.
 
@@ -12,7 +11,6 @@ Jacqui Press, an expert lip reader, spotted Prince Harry and Prince William in c
  - [https://www.dailymail.co.uk/debate/article-11229187/STEPHEN-GLOVER-great-relief-BBC-grasped-public-mood.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/debate/article-11229187/STEPHEN-GLOVER-great-relief-BBC-grasped-public-mood.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 23:53:01+00:00
- - tags: None
 
 STEPHEN GLOVER: The BBC has received a lot of criticism over the years, not least from my pen, for being metropolitan centred in many of its preoccupations.
 
@@ -20,7 +18,6 @@ STEPHEN GLOVER: The BBC has received a lot of criticism over the years, not leas
  - [https://www.dailymail.co.uk/news/article-11229139/Archbishop-Canterbury-hails-Queens-faith-promise-gave-hope-lockdown.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11229139/Archbishop-Canterbury-hails-Queens-faith-promise-gave-hope-lockdown.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 23:42:17+00:00
- - tags: None
 
 The Archbishop of Canterbury paid tribute to the Queen's life of service and told the congregation of leaders from around the world: 'People of loving service are rare in any walk of life'
 
@@ -28,7 +25,6 @@ The Archbishop of Canterbury paid tribute to the Queen's life of service and tol
  - [https://www.dailymail.co.uk/news/article-11229095/Troops-pulled-remarkable-display-pageantry-Queen-fitting-sendoff.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11229095/Troops-pulled-remarkable-display-pageantry-Queen-fitting-sendoff.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 23:37:57+00:00
- - tags: None
 
 By delivering a masterclass in ceremonial duties yesterday, thousands of troops paid a most fitting tribute to Her Majesty the Queen.
 
@@ -36,7 +32,6 @@ By delivering a masterclass in ceremonial duties yesterday, thousands of troops 
  - [https://www.dailymail.co.uk/news/article-11228901/New-law-NSW-refuse-parole-convicted-killers-Chris-Dawson-guilty-murder.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228901/New-law-NSW-refuse-parole-convicted-killers-Chris-Dawson-guilty-murder.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 23:35:50+00:00
- - tags: None
 
 Dawson, 74, was last month found guilty of the murder of his first wife Lynette 40 years ago and has faced death threats in jail since his conviction.
 
@@ -44,7 +39,6 @@ Dawson, 74, was last month found guilty of the murder of his first wife Lynette 
  - [https://www.dailymail.co.uk/sport/football/article-11228749/Qatar-World-Cup-reality-Booze-bans-grim-rooms-fans-Big-Brother-spy-cams.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sport/football/article-11228749/Qatar-World-Cup-reality-Booze-bans-grim-rooms-fans-Big-Brother-spy-cams.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 23:34:44+00:00
- - tags: None
 
 IAN HERBERT: The World Cup is being paraded like never before. Behind the razzmatazz in Qatar, how prepared is this tiny nation for an influx of one million fans? And what will the experience be like?
 
@@ -52,7 +46,6 @@ IAN HERBERT: The World Cup is being paraded like never before. Behind the razzma
  - [https://www.dailymail.co.uk/news/article-11229103/Echo-Diana-flowers-scattered-hearse-Queens-funeral-evoked-memories-25-years-ago.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11229103/Echo-Diana-flowers-scattered-hearse-Queens-funeral-evoked-memories-25-years-ago.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 23:33:34+00:00
- - tags: None
 
 Some 17 months after she was widowed, the Queen's final journey was to her resting place at St George's Chapel at Windsor Castle, to lie with her beloved husband Philip.
 
@@ -60,7 +53,6 @@ Some 17 months after she was widowed, the Queen's final journey was to her resti
  - [https://www.dailymail.co.uk/news/article-11228875/Weatherman-fired-took-nude-photos-webcam-site-sent-boss.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228875/Weatherman-fired-took-nude-photos-webcam-site-sent-boss.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 23:31:48+00:00
- - tags: None
 
 Meteorologist Erick Adame of Spectrum News NY1 was fired after explicit screenshots of him performing on an adult webcam site were sent to his boss.
 
@@ -68,7 +60,6 @@ Meteorologist Erick Adame of Spectrum News NY1 was fired after explicit screens
  - [https://www.dailymail.co.uk/news/article-11229079/How-capital-transformed-majestic-display-pageantry-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11229079/How-capital-transformed-majestic-display-pageantry-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 23:30:30+00:00
- - tags: None
 
 It was Britain's saddest day and yet perhaps the most uplifting spectacle of modern times. On a grey day, sunshine burst through the clouds as Her Majesty took her final poignant journey
 
@@ -76,7 +67,6 @@ It was Britain's saddest day and yet perhaps the most uplifting spectacle of mod
  - [https://www.dailymail.co.uk/news/article-11228899/Gloucester-news-Dangerous-teenage-boy-17-wanted-connection-rape.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228899/Gloucester-news-Dangerous-teenage-boy-17-wanted-connection-rape.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 23:25:52+00:00
- - tags: None
 
 Police have this evening launched a manhunt to find Reuben Schultz (pictured(following a series of attacks on Friday, 16 September in Gloucester.
 
@@ -84,7 +74,6 @@ Police have this evening launched a manhunt to find Reuben Schultz (pictured(fo
  - [https://www.dailymail.co.uk/news/article-11228857/Steve-Bannon-says-Biden-cancer-moonshot-actually-cover-genetically-engineering-post-humans.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228857/Steve-Bannon-says-Biden-cancer-moonshot-actually-cover-genetically-engineering-post-humans.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 23:17:34+00:00
- - tags: None
 
 Former Trump aide Steve Bannon has claimed President Biden's Cancer Moonshot is actually a cover to create genetically engineered 'Humans 2.0' and part of 'replacement theory'.
 
@@ -92,7 +81,6 @@ Former Trump aide Steve Bannon has claimed President Biden's Cancer Moonshot is 
  - [https://www.dailymail.co.uk/news/article-11228815/Queens-funeral-BBC-appears-forget-Anthony-Albanese-walks-Westminster-Abbey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228815/Queens-funeral-BBC-appears-forget-Anthony-Albanese-walks-Westminster-Abbey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 23:13:47+00:00
- - tags: None
 
 The British broadcaster's commentators appeared not to recognise the Australian Prime Minister as he attended the Queen's funeral on Monday.
 
@@ -100,7 +88,6 @@ The British broadcaster's commentators appeared not to recognise the Australian 
  - [https://www.dailymail.co.uk/news/article-11229003/Major-police-operation-unfolding-Melbournes-CBD-William-Bourke-streets.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11229003/Major-police-operation-unfolding-Melbournes-CBD-William-Bourke-streets.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 22:45:06+00:00
- - tags: None
 
 A major police operation is unfolding in Melbourne's CBD. It's understood the court precinct is completely cordoned off by police.
 
@@ -108,7 +95,6 @@ A major police operation is unfolding in Melbourne's CBD. It's understood the co
  - [https://www.dailymail.co.uk/news/article-11228909/Trump-MOCKS-Biden-sat-14-rows-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228909/Trump-MOCKS-Biden-sat-14-rows-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 22:36:26+00:00
- - tags: None
 
 The former President said on Truth Social that it showed there is 'no respect' for the United States anymore after the service at Westminster Abbey in London on Monday.
 
@@ -116,7 +102,6 @@ The former President said on Truth Social that it showed there is 'no respect' f
  - [https://www.dailymail.co.uk/news/article-11228663/Pat-Sajak-dubbed-MAGA-Fascist-daring-grinning-photo-Marjorie-Taylor-Greene.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228663/Pat-Sajak-dubbed-MAGA-Fascist-daring-grinning-photo-Marjorie-Taylor-Greene.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 22:32:00+00:00
- - tags: None
 
 The undated photo, which was apparently captured earlier this month, shows the 75-year-old TV host flanked by the GOP Rep. Greene and Right Side Broadcasting Network reporter Bryan Glenn.
 
@@ -124,7 +109,6 @@ The undated photo, which was apparently captured earlier this month, shows the 7
  - [https://www.dailymail.co.uk/news/article-11228877/Relief-huge-security-operation-goes-plan-public-protected-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228877/Relief-huge-security-operation-goes-plan-public-protected-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 22:22:15+00:00
- - tags: None
 
 In an unprecedented joint operation, more than 15,000 officers and 1,500 soldiers formed a six-mile wide ring of steel around central London for the Queen's funeral.
 
@@ -132,7 +116,6 @@ In an unprecedented joint operation, more than 15,000 officers and 1,500 soldier
  - [https://www.dailymail.co.uk/debate/article-11228625/Sarah-Vine-Suddenly-country-wavelength-incredible-legacy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/debate/article-11228625/Sarah-Vine-Suddenly-country-wavelength-incredible-legacy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 22:17:10+00:00
- - tags: None
 
 SARAH VINE: I like to think she's watching. I hope she is. I hope she's there, with Prince Philip squeezing her hand, looking down and seeing what she meant to us
 
@@ -140,7 +123,6 @@ SARAH VINE: I like to think she's watching. I hope she is. I hope she's there, w
  - [https://www.dailymail.co.uk/news/article-11228645/Queens-funeral-Karl-Stefanovic-impressed-Princess-Charlotte-telling-Prince-George-bow.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228645/Queens-funeral-Karl-Stefanovic-impressed-Princess-Charlotte-telling-Prince-George-bow.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 21:51:48+00:00
- - tags: None
 
 Princess Charlotte was seen telling her older brother Prince George to bow at the Queen's funeral service as her coffin passed by the young royals.
 
@@ -148,7 +130,6 @@ Princess Charlotte was seen telling her older brother Prince George to bow at th
  - [https://www.dailymail.co.uk/news/article-11228793/NY-Gov-blasts-woke-Manhattan-DA-Alvin-Bragg-going-soft-ax-wielding-McDonalds-thug.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228793/NY-Gov-blasts-woke-Manhattan-DA-Alvin-Bragg-going-soft-ax-wielding-McDonalds-thug.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 21:43:09+00:00
- - tags: None
 
 Kathy Hochul questioned on Monday why the district attorney did not bring different charges against Michael Palacios, which would have made him 'bail-eligible'.
 
@@ -156,7 +137,6 @@ Kathy Hochul questioned on Monday why the district attorney did not bring differ
  - [https://www.dailymail.co.uk/news/article-11228703/Michigan-Dem-says-afford-air-conditioning-shoes-despite-making-200-000-year.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228703/Michigan-Dem-says-afford-air-conditioning-shoes-despite-making-200-000-year.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 21:39:33+00:00
- - tags: None
 
 Michigan Democrat Hillary Scholten claimed in a new ad that she can no longer afford air conditioning or shoes for her children.
 
@@ -164,7 +144,6 @@ Michigan Democrat Hillary Scholten claimed in a new ad that she can no longer af
  - [https://www.dailymail.co.uk/news/article-11228783/Not-Queen-imagined-occasion-rich-music-beauty.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228783/Not-Queen-imagined-occasion-rich-music-beauty.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 21:35:41+00:00
- - tags: None
 
 Of all the great spectacles that have unfolded in our nation's capital over the past 70 years, there has never been one like the funeral of Queen Elizabeth II.
 
@@ -172,7 +151,6 @@ Of all the great spectacles that have unfolded in our nation's capital over the 
  - [https://www.dailymail.co.uk/news/article-11228527/Woman-says-Memphis-police-failed-properly-investigate-rape.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228527/Woman-says-Memphis-police-failed-properly-investigate-rape.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 21:34:38+00:00
- - tags: None
 
 Alicia Franklin, 22, (not pictured) spoke out in an interview published on Monday, volunteering to be publicly identified and saying: 'I feel that my story could help other women.'
 
@@ -180,7 +158,6 @@ Alicia Franklin, 22, (not pictured) spoke out in an interview published on Monda
  - [https://www.dailymail.co.uk/news/article-11228599/CBS-slammed-decision-cut-airing-Queens-funeral-air-Price-Right.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228599/CBS-slammed-decision-cut-airing-Queens-funeral-air-Price-Right.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 21:30:29+00:00
- - tags: None
 
 CBS insiders and fans slammed the network Monday for abruptly cutting away from Queen Elizabeth II's funeral to air the season premiere of 'The Price is Right.'
 
@@ -188,7 +165,6 @@ CBS insiders and fans slammed the network Monday for abruptly cutting away from 
  - [https://www.dailymail.co.uk/news/article-11228539/Charlamagne-Tha-God-APPLAUDS-DeSantis-Abbott-sending-migrants-sanctuary-city-blue-states.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228539/Charlamagne-Tha-God-APPLAUDS-DeSantis-Abbott-sending-migrants-sanctuary-city-blue-states.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 21:30:05+00:00
- - tags: None
 
 Charlamagne Tha God has blasted Democrat-led cities complaining about migrants from GOP states as 'hypocritical,' and said the move is 'genius' because Democrats 'don't want immigrants here.'
 
@@ -196,7 +172,6 @@ Charlamagne Tha God has blasted Democrat-led cities complaining about migrants f
  - [https://www.dailymail.co.uk/news/article-11228753/The-greatest-valediction-world-history-writes-ROBERT-HARDMAN.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228753/The-greatest-valediction-world-history-writes-ROBERT-HARDMAN.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 21:25:50+00:00
- - tags: None
 
 ROBERT HARDMAN: As in life, so in death, she was incomparable. The sovereign whose reign and life and travels surpassed those of every other monarch has finally been laid to rest.
 
@@ -204,7 +179,6 @@ ROBERT HARDMAN: As in life, so in death, she was incomparable. The sovereign who
  - [https://www.dailymail.co.uk/news/article-11228487/Liz-Cheney-draws-legislation-STOP-Trump-corrupting-Congress-electoral-count.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228487/Liz-Cheney-draws-legislation-STOP-Trump-corrupting-Congress-electoral-count.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 21:25:02+00:00
- - tags: None
 
 Rep. Liz Cheney rolled out legislation to reform the Electoral Count Act to combat what Cheney calls the 'prospect of another effort to steal a presidential election.'
 
@@ -212,7 +186,6 @@ Rep. Liz Cheney rolled out legislation to reform the Electoral Count Act to comb
  - [https://www.dailymail.co.uk/news/article-11228593/RICHARD-KAY-Kings-test-resolve-family-crisis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228593/RICHARD-KAY-Kings-test-resolve-family-crisis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 21:06:51+00:00
- - tags: None
 
 RICHARD KAY: In Westminster Abbey, which has borne witness to Britain's history, the vanity of Prince Andrew and Prince Harry was reduced to mere petty detail.
 
@@ -220,7 +193,6 @@ RICHARD KAY: In Westminster Abbey, which has borne witness to Britain's history,
  - [https://www.dailymail.co.uk/news/article-11228511/Cleveland-mechanic-ER-doctor-51-starting-pre-med-classes-2010.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228511/Cleveland-mechanic-ER-doctor-51-starting-pre-med-classes-2010.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 21:04:53+00:00
- - tags: None
 
 A former Cleveland-area mechanic has completed his lifelong goal of becoming a medical physician nearly 32 years after opening his auto shop.
 
@@ -228,7 +200,6 @@ A former Cleveland-area mechanic has completed his lifelong goal of becoming a m
  - [https://www.dailymail.co.uk/news/article-11228639/Oops-Meghan-obscured-TV-viewers-giant-candle-jolly-tall-royal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228639/Oops-Meghan-obscured-TV-viewers-giant-candle-jolly-tall-royal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 21:04:24+00:00
- - tags: None
 
 A large church candle also stood between her and the TV cameras, while her wide-brimmed hat made it even more difficult for fans to see her.
 
@@ -236,7 +207,6 @@ A large church candle also stood between her and the TV cameras, while her wide-
  - [https://www.dailymail.co.uk/news/article-11228623/Adnan-Syeds-murder-conviction-overturned-Baltimore-court.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228623/Adnan-Syeds-murder-conviction-overturned-Baltimore-court.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 20:44:07+00:00
- - tags: None
 
 Adnan Syed's murder conviction has been overturned after he served 22 years in prison for the murder of his girlfriend Hae Min Lee following a ruling on Monday in a Baltimore  courtroom.
 
@@ -244,7 +214,6 @@ Adnan Syed's murder conviction has been overturned after he served 22 years in p
  - [https://www.dailymail.co.uk/news/article-11228443/Mourners-globe-watch-Majestys-funeral-takes-place.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228443/Mourners-globe-watch-Majestys-funeral-takes-place.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 20:39:36+00:00
- - tags: None
 
 People from around the Commonwealth and the world lit candles, waved flags and lay flowers as they watched the longest reigning British monarch being laid to rest.
 
@@ -252,7 +221,6 @@ People from around the Commonwealth and the world lit candles, waved flags and l
  - [https://www.dailymail.co.uk/news/article-11228677/M5-tunnel-Sydney-fire-Major-traffic-delays.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228677/M5-tunnel-Sydney-fire-Major-traffic-delays.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 20:32:38+00:00
- - tags: None
 
 Westbound lanes of Sydney's M5 East Tunnel are closed due to a fire on the tray of a table-top truck near the tunnel exit at Bexley.
 
@@ -260,7 +228,6 @@ Westbound lanes of Sydney's M5 East Tunnel are closed due to a fire on the tray 
  - [https://www.dailymail.co.uk/news/article-11228325/Jon-Voight-cries-interviewing-Trump-tells-Im-grateful-presence.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228325/Jon-Voight-cries-interviewing-Trump-tells-Im-grateful-presence.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 20:30:41+00:00
- - tags: None
 
 Trump said very few words himself during the 20-minute segment as the actor opined about what he believes were Trump's successes in office and thanked him for building golf courses.
 
@@ -268,7 +235,6 @@ Trump said very few words himself during the 20-minute segment as the actor opin
  - [https://www.dailymail.co.uk/news/article-11228331/Devastated-friends-college-senior-21-shot-dead-shocked-cops-no-leads.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228331/Devastated-friends-college-senior-21-shot-dead-shocked-cops-no-leads.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 20:25:16+00:00
- - tags: None
 
 Friends and family of Allison Rice, 21, are 'shocked' that police have so far been left baffled as to the motive - and have not identified a suspect in the Baton Rouge shooting.
 
@@ -276,7 +242,6 @@ Friends and family of Allison Rice, 21, are 'shocked' that police have so far be
  - [https://www.dailymail.co.uk/news/article-11228413/Princess-Haya-makes-rare-public-appearance-attend-committal-service-Queen-Windsor-Castle.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228413/Princess-Haya-makes-rare-public-appearance-attend-committal-service-Queen-Windsor-Castle.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 20:17:07+00:00
- - tags: None
 
 The princess came to pay her respects to the late monarch with her brother Prince Hassan bin Talal of Jordan before this afternoon's service at St George's Chapel.
 
@@ -284,7 +249,6 @@ The princess came to pay her respects to the late monarch with her brother Princ
  - [https://www.dailymail.co.uk/news/article-11228363/Indiana-police-officer-28-dies-5-weeks-shot-head-traffic-stop.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228363/Indiana-police-officer-28-dies-5-weeks-shot-head-traffic-stop.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 20:17:05+00:00
- - tags: None
 
 Officer Seara Burton, 28, died on Sunday evening at Reid Health five weeks after being shot in the head during a traffic stop in August. Burton was shot in the head during a drug-related traffic stop.
 
@@ -292,7 +256,6 @@ Officer Seara Burton, 28, died on Sunday evening at Reid Health five weeks after
  - [https://www.dailymail.co.uk/news/article-11228303/Hilarious-video-shows-moment-man-screams-hysterically-fighting-squirrel.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228303/Hilarious-video-shows-moment-man-screams-hysterically-fighting-squirrel.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 20:16:44+00:00
- - tags: None
 
 The hysterical clip shows the unidentified man focused on a virtual meeting in his home office, before suddenly jumping up in surprise upon noticing the animal.
 
@@ -300,7 +263,6 @@ The hysterical clip shows the unidentified man focused on a virtual meeting in h
  - [https://www.dailymail.co.uk/news/article-11228149/British-father-two-killed-landmine-trying-rescue-injured-soldiers-Ukraine.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228149/British-father-two-killed-landmine-trying-rescue-injured-soldiers-Ukraine.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 19:55:35+00:00
- - tags: None
 
 Viktor Yatsunyk, 44, who was born in Ukraine, returned to his native country to fight against Putin's army but was killed as he raced to the frontline to rescue his comrades.
 
@@ -308,7 +270,6 @@ Viktor Yatsunyk, 44, who was born in Ukraine, returned to his native country to 
  - [https://www.dailymail.co.uk/news/article-11228561/Larry-Elder-says-considering-running-president-Trump-race.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228561/Larry-Elder-says-considering-running-president-Trump-race.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 19:49:53+00:00
- - tags: None
 
 Conservative radio host Larry Elder is considering running for president in 2024 - and he won't be deterred by another run from Donald Trump.
 
@@ -316,7 +277,6 @@ Conservative radio host Larry Elder is considering running for president in 2024
  - [https://www.dailymail.co.uk/news/article-11228199/JACI-STEPHENS-unmissable-TV-review-day-four-big-networks-did-royals-proud.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228199/JACI-STEPHENS-unmissable-TV-review-day-four-big-networks-did-royals-proud.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 19:43:48+00:00
- - tags: None
 
 The world of television has never seen anything like Queen Elizabeth II's funeral. And it is unlikely the four billion viewers watching worldwide ever will again.
 
@@ -324,7 +284,6 @@ The world of television has never seen anything like Queen Elizabeth II's funera
  - [https://www.dailymail.co.uk/news/article-11228307/30-Senate-Republicans-demand-Biden-pick-special-counsel-Hunter-probe.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228307/30-Senate-Republicans-demand-Biden-pick-special-counsel-Hunter-probe.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 19:42:37+00:00
- - tags: None
 
 Thirty Republican senators have written to Attorney General Merrick Garland and asked him to appoint a special counsel to look into Hunter Biden's business dealings.
 
@@ -332,7 +291,6 @@ Thirty Republican senators have written to Attorney General Merrick Garland and 
  - [https://www.dailymail.co.uk/news/article-11228415/Queens-funeral-space-Stunning-images-capture-scale-crowds-streets-London.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228415/Queens-funeral-space-Stunning-images-capture-scale-crowds-streets-London.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 19:40:40+00:00
- - tags: None
 
 These stunning moments from Westminster Abbey to the Mall and through to the Albert Memorial in Hyde Park have been captured as the Queen's hearse passes the crowds.
 
@@ -340,7 +298,6 @@ These stunning moments from Westminster Abbey to the Mall and through to the Alb
  - [https://www.dailymail.co.uk/news/article-11228383/Strong-7-5-earthquake-hits-Mexicos-southwest-coast-sparking-buildings-sway.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228383/Strong-7-5-earthquake-hits-Mexicos-southwest-coast-sparking-buildings-sway.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 19:39:05+00:00
- - tags: None
 
 A magnitude 7.5 earthquake shook Mexico's central Pacific coast on Monday, setting off an earthquake alarm in the capital.
 
@@ -348,7 +305,6 @@ A magnitude 7.5 earthquake shook Mexico's central Pacific coast on Monday, setti
  - [https://www.dailymail.co.uk/news/article-11228451/Britain-prepares-raise-funeral-toast-Queen-pack-pubs-end-bank-holiday.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228451/Britain-prepares-raise-funeral-toast-Queen-pack-pubs-end-bank-holiday.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 19:37:32+00:00
- - tags: None
 
 The historic day of pomp and pageantry saw up to two million people line the streets from Buckingham Palace to Windsor Castle, while more than four billion people were estimated to have tuned in on TV.
 
@@ -356,7 +312,6 @@ The historic day of pomp and pageantry saw up to two million people line the str
  - [https://www.dailymail.co.uk/news/article-11228127/Gavin-Newsom-war-words-DeSantis-Marthas-Vineyard-migrant-flight.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228127/Gavin-Newsom-war-words-DeSantis-Marthas-Vineyard-migrant-flight.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 19:34:55+00:00
- - tags: None
 
 Newsom, a Democrat, engaged in a public war of words with Florida Governor Ron DeSantis after last week's high-profile flights carrying Venezuelan migrants to Martha's Vineyard.
 
@@ -364,7 +319,6 @@ Newsom, a Democrat, engaged in a public war of words with Florida Governor Ron D
  - [https://www.dailymail.co.uk/news/article-11228097/Charles-sat-family-brings-poignant-memories-Queen-sitting-Philips-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228097/Charles-sat-family-brings-poignant-memories-Queen-sitting-Philips-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 19:18:27+00:00
- - tags: None
 
 Poignant photos from the Queen's committal service this afternoon showed grieving King Charles sitting in the exact same seat his bereaved mother had been sat in last year for his father's funeral.
 
@@ -372,7 +326,6 @@ Poignant photos from the Queen's committal service this afternoon showed grievin
  - [https://www.dailymail.co.uk/news/article-11228157/Nikolas-Cruz-wants-judge-presiding-death-penalty-trial-removed-lashed-defense.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228157/Nikolas-Cruz-wants-judge-presiding-death-penalty-trial-removed-lashed-defense.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 19:18:09+00:00
- - tags: None
 
 Attorneys for Nikolas Cruz have requested the presiding judge be removed from his death penalty case after the judge labeled a decision made by the defense as 'unprofessional.'
 
@@ -380,7 +333,6 @@ Attorneys for Nikolas Cruz have requested the presiding judge be removed from hi
  - [https://www.dailymail.co.uk/news/article-11228323/Queens-beloved-Corgis-Muick-Sandy-await-Majestys-coffin-Windsor-Castle.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228323/Queens-beloved-Corgis-Muick-Sandy-await-Majestys-coffin-Windsor-Castle.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 19:06:16+00:00
- - tags: None
 
 After the Queen's funeral service at Westminster Abbey this morning, as her coffin made its way to the committal service at Windsor Castle, the corgis waited to say their goodbyes.
 
@@ -388,7 +340,6 @@ After the Queen's funeral service at Westminster Abbey this morning, as her coff
  - [https://www.dailymail.co.uk/news/article-11228045/Passenger-tries-SMASH-plane-window-mid-air-flight-Pakistan-Dubai.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228045/Passenger-tries-SMASH-plane-window-mid-air-flight-Pakistan-Dubai.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 18:55:23+00:00
- - tags: None
 
 Police arrested and deported the man  upon arrival after the Pakistan International Airlines flight PK-283 landed in Dubai from Peshawar on Wednesday.
 
@@ -396,7 +347,6 @@ Police arrested and deported the man  upon arrival after the Pakistan Internatio
  - [https://www.dailymail.co.uk/femail/article-11227771/The-Queens-pets-say-goodbye-ahead-Committal-Service-Windsor.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11227771/The-Queens-pets-say-goodbye-ahead-Committal-Service-Windsor.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 18:48:54+00:00
- - tags: None
 
 The Duke of York, 62, was seen checking on his late mother's beloved Corgis ahead of her Committal Service in Windsor this afternoon after he was trusted with their care upon her death.
 
@@ -404,7 +354,6 @@ The Duke of York, 62, was seen checking on his late mother's beloved Corgis ahea
  - [https://www.dailymail.co.uk/news/article-11228075/The-graves-unidentified-migrants-Texas-lay-bare-horrific-toll-Bidens-border-crisis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228075/The-graves-unidentified-migrants-Texas-lay-bare-horrific-toll-Bidens-border-crisis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 18:42:52+00:00
- - tags: None
 
 Sunken, unfinished graves at a cemetery in Eagle Pass, Texas hold more than a dozen unidentified migrants who died in the dangerous journey trying to cross illegally from Mexico into the U.S.
 
@@ -412,7 +361,6 @@ Sunken, unfinished graves at a cemetery in Eagle Pass, Texas hold more than a do
  - [https://www.dailymail.co.uk/news/article-11227985/British-bars-open-5-30am-day-Queens-funeral-mourners.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227985/British-bars-open-5-30am-day-Queens-funeral-mourners.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 18:41:23+00:00
- - tags: None
 
 The Churchill in Midtown, New York City, opened its doors in the early hours to allow people to mark the monarchs passing despite the five-hour time difference with the UK.
 
@@ -420,7 +368,6 @@ The Churchill in Midtown, New York City, opened its doors in the early hours to 
  - [https://www.dailymail.co.uk/news/article-11227935/Video-shows-thief-steal-surfboards-LA-shop-stuffing-one-car-sunroof.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227935/Video-shows-thief-steal-surfboards-LA-shop-stuffing-one-car-sunroof.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 18:40:28+00:00
- - tags: None
 
 A thief in California was captured on video breaking into a surf store and loading up his BMW with surfboards, with one poking through the sunroof after figuring out the boards didn't fit in the car.
 
@@ -428,7 +375,6 @@ A thief in California was captured on video breaking into a surf store and loadi
  - [https://www.dailymail.co.uk/news/article-11120113/Instagram-model-claims-affair-married-Adam-Levin.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11120113/Instagram-model-claims-affair-married-Adam-Levin.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 18:39:02+00:00
- - tags: None
 
 An Instagram model has claimed she had a year-long affair with married Maroon 5 frontman Adam Levine, who allegedly asked to name his third child after her
 
@@ -436,7 +382,6 @@ An Instagram model has claimed she had a year-long affair with married Maroon 5 
  - [https://www.dailymail.co.uk/news/article-11228147/Prince-Harry-puffs-cheeks-gets-car-Meghan-Royals-leave-St-Georges-Chapel.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228147/Prince-Harry-puffs-cheeks-gets-car-Meghan-Royals-leave-St-Georges-Chapel.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 18:38:20+00:00
- - tags: None
 
 The Duke of Sussex and other royals, including King Charles III and the Queen Consort, Camilla, were pictured leaving St George's Chapel in Windsor today after a moving committal service
 
@@ -444,7 +389,6 @@ The Duke of Sussex and other royals, including King Charles III and the Queen Co
  - [https://www.dailymail.co.uk/debate/article-11227773/DAN-WOOTTON-Todays-funeral-shows-late-Majesty-unified-family-one-final-time.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/debate/article-11227773/DAN-WOOTTON-Todays-funeral-shows-late-Majesty-unified-family-one-final-time.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 18:13:17+00:00
- - tags: None
 
 DAN WOOTTON: After the official mourning period put a halt to six solid years of national acrimony, there is reason to hope we could enter the post-Elizabethan era in surprising unity.
 
@@ -452,7 +396,6 @@ DAN WOOTTON: After the official mourning period put a halt to six solid years of
  - [https://www.dailymail.co.uk/femail/article-11227533/Princess-Charlotte-tells-older-brother-Prince-George-bow-Queens-coffin.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11227533/Princess-Charlotte-tells-older-brother-Prince-George-bow-Queens-coffin.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 18:02:24+00:00
- - tags: None
 
 Princess Charlotte has been filmed telling Prince George he 'has to bow' at the Queen's coffin, which went past them while en route to Windsor, following  Her Majesty's funeral at Westminster Abbey today.
 
@@ -460,7 +403,6 @@ Princess Charlotte has been filmed telling Prince George he 'has to bow' at the 
  - [https://www.dailymail.co.uk/news/article-11228235/Kirsty-Young-praised-emotional-BBC-monologue-history-history.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228235/Kirsty-Young-praised-emotional-BBC-monologue-history-history.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 17:58:50+00:00
- - tags: None
 
 Kirsty Young has delivered an emotional monologue that saw viewers praising the BBC's coverage of the Queen's funeral. Viewers have also joked that Huw Edwards 'needs a holiday'.
 
@@ -468,7 +410,6 @@ Kirsty Young has delivered an emotional monologue that saw viewers praising the 
  - [https://www.dailymail.co.uk/femail/article-11227383/Royal-fans-confused-Princesses-Beatrice-Eugenie-appear-leave-Queens-funeral-early.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11227383/Royal-fans-confused-Princesses-Beatrice-Eugenie-appear-leave-Queens-funeral-early.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 17:50:05+00:00
- - tags: None
 
 Princesses Beatrice and Eugenie appeared to get up from their seats before the other guests following the state funeral of their beloved 'grannie' Her late Majesty at Westminster Abbey.
 
@@ -476,7 +417,6 @@ Princesses Beatrice and Eugenie appeared to get up from their seats before the o
  - [https://www.dailymail.co.uk/news/article-11227915/Hawaiian-Surfer-Kalani-David-24-dies-having-seizure-water.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227915/Hawaiian-Surfer-Kalani-David-24-dies-having-seizure-water.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 17:40:19+00:00
- - tags: None
 
 World junior surfing champion Kalani David died in Costa Rica on Saturday after having a seizure while out in the ocean. The surfer suffered from Wolf-Parkinson-White syndrome.
 
@@ -484,7 +424,6 @@ World junior surfing champion Kalani David died in Costa Rica on Saturday after 
  - [https://www.dailymail.co.uk/news/article-11227989/St-Georges-Chapel-sings-God-Save-King-King-Charles-III.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227989/St-Georges-Chapel-sings-God-Save-King-King-Charles-III.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 17:36:53+00:00
- - tags: None
 
 In a moving ceremony, the  Lord Chamberlain - who oversees much of the royal household - symbolically snapped his Wand of Office.
 
@@ -492,7 +431,6 @@ In a moving ceremony, the  Lord Chamberlain - who oversees much of the royal ho
  - [https://www.dailymail.co.uk/news/article-11228173/Gone-Girl-kidnapping-faker-Sherri-Papini-sentenced-18-months-prison-300-000-fine.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228173/Gone-Girl-kidnapping-faker-Sherri-Papini-sentenced-18-months-prison-300-000-fine.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 17:36:27+00:00
- - tags: None
 
 California mother Sherri Papini, who mimicked the plot of Gone Girl, has been sentenced to 18 months in prison.
 
@@ -500,7 +438,6 @@ California mother Sherri Papini, who mimicked the plot of Gone Girl, has been se
  - [https://www.dailymail.co.uk/news/article-11227753/Biden-complains-politics-personal-attacks-condemning-Trump.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227753/Biden-complains-politics-personal-attacks-condemning-Trump.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 17:35:53+00:00
- - tags: None
 
 During his lengthy sit-down the president weighed in on a range of topics from COVID-19 to inflation to Taiwan - though his thoughts on the latter subject were quickly walked back.
 
@@ -508,7 +445,6 @@ During his lengthy sit-down the president weighed in on a range of topics from C
  - [https://www.dailymail.co.uk/news/article-11227551/The-pomp-pageantry-Queens-final-farewell-UK-grieved-state-funeral-1965.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227551/The-pomp-pageantry-Queens-final-farewell-UK-grieved-state-funeral-1965.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 17:32:10+00:00
- - tags: None
 
 It was the inevitable day Britain hoped would never come. But while breaking the nation's hearts, the Queen's funeral today showed the world what Brits do best: tradition, pomp and pageantry.
 
@@ -516,7 +452,6 @@ It was the inevitable day Britain hoped would never come. But while breaking the
  - [https://www.dailymail.co.uk/news/article-11228189/Migrant-mom-commits-suicide-NYC-shelter-Mayor-Eric-Adams-declares-humanitarian-crisis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228189/Migrant-mom-commits-suicide-NYC-shelter-Mayor-Eric-Adams-declares-humanitarian-crisis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 17:29:36+00:00
- - tags: None
 
 A migrant mother in New York City committed suicide on Sunday in a facility sheltering some of the thousands of migrants that have recently come to the city, Mayor Eric Adams revealed.
 
@@ -524,7 +459,6 @@ A migrant mother in New York City committed suicide on Sunday in a facility shel
  - [https://www.dailymail.co.uk/news/article-11228047/German-media-publishes-attack-Queen-funeral-not-stopping-BREXIT.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11228047/German-media-publishes-attack-Queen-funeral-not-stopping-BREXIT.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 17:27:38+00:00
- - tags: None
 
 Der Spiegel journalist Nikolaus Blome, who admits he is not 'familiar' with the Royals, is 'puzzled' why people saw the Monarch's role as 'apolitical' in the UK.
 
@@ -540,7 +474,6 @@ President Joe Biden declared the covid-19 pandemic is 'over' in a statement that
  - [https://www.dailymail.co.uk/news/article-11227937/Queen-Elizabeth-II-buried-alongside-husband-Prince-Philip-parents-St-Georges-Chapel.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227937/Queen-Elizabeth-II-buried-alongside-husband-Prince-Philip-parents-St-Georges-Chapel.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 17:22:28+00:00
- - tags: None
 
 In a final solemn service that will not be televised, the Queen's closest family, led by her four children, will lay her to rest inside the King George VI Memorial Chapel, which is an annex to St George's.
 
@@ -548,7 +481,6 @@ In a final solemn service that will not be televised, the Queen's closest family
  - [https://www.dailymail.co.uk/news/article-11227759/Barack-Obama-reveals-Queen-let-Sasha-Malia-carriage-ride-Buckingham-Palace-tribute.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227759/Barack-Obama-reveals-Queen-let-Sasha-Malia-carriage-ride-Buckingham-Palace-tribute.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 17:19:55+00:00
- - tags: None
 
 Likening the late monarch to his own grandmother, Obama offered some heartfelt about his time spent with the Queen, during which he and his family visited Buckingham Palace three times.
 
@@ -556,7 +488,6 @@ Likening the late monarch to his own grandmother, Obama offered some heartfelt a
  - [https://www.dailymail.co.uk/news/article-11227863/Mexican-foreign-minister-criticized-selfie-wife-Queen-Elizabeth-IIs-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227863/Mexican-foreign-minister-criticized-selfie-wife-Queen-Elizabeth-IIs-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 17:03:39+00:00
- - tags: None
 
 Mexico's foreign minister is facing a wave of backlash after he shared a selfie of himself and his wife prior to Queen Elizabeth II's funeral Monday.
 
@@ -564,7 +495,6 @@ Mexico's foreign minister is facing a wave of backlash after he shared a selfie 
  - [https://www.dailymail.co.uk/news/article-11227873/Mark-Esper-says-military-recruitment-DYING-obesity-drug-use-health-problems.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227873/Mark-Esper-says-military-recruitment-DYING-obesity-drug-use-health-problems.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 16:53:36+00:00
- - tags: None
 
 Esper, former secretary of the Army, noted that branch will be most affected - falling short by up to 15,000 soldiers this year.
 
@@ -572,7 +502,6 @@ Esper, former secretary of the Army, noted that branch will be most affected - f
  - [https://www.dailymail.co.uk/news/article-11227471/The-banning-books-expanded-DRASTICALLY-1-648-titles-pulled-5-000-schools.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227471/The-banning-books-expanded-DRASTICALLY-1-648-titles-pulled-5-000-schools.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 16:44:50+00:00
- - tags: None
 
 Researchers described a push by politicians and newly-formed parents' groups to pull texts from schools that it compares to the anti-communist McCarthy era and moral purges of the early 1980s.
 
@@ -580,7 +509,6 @@ Researchers described a push by politicians and newly-formed parents' groups to 
  - [https://www.dailymail.co.uk/news/article-11227603/Iranian-president-says-Holocaust-probably-happened-calls-Israel-malignant-cancerous-tumor.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227603/Iranian-president-says-Holocaust-probably-happened-calls-Israel-malignant-cancerous-tumor.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 16:39:44+00:00
- - tags: None
 
 Iranian President Ebrahim Raisi calls Israel during 60 Minutes a 'malignant cancerous tumor,' and says 'Holocaust probably happened,' but needs proper 'investigation.'
 
@@ -588,7 +516,6 @@ Iranian President Ebrahim Raisi calls Israel during 60 Minutes a 'malignant canc
  - [https://www.dailymail.co.uk/news/article-11227989/Queen-Elizabeth-IIs-reign-symbolically-comes-end-ceremonial-breaking-wand.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227989/Queen-Elizabeth-IIs-reign-symbolically-comes-end-ceremonial-breaking-wand.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 16:38:05+00:00
- - tags: None
 
 In a moving ceremony, the  Lord Chamberlain - who oversees much of the royal household - symbolically snapped his Wand of Office.
 
@@ -596,7 +523,6 @@ In a moving ceremony, the  Lord Chamberlain - who oversees much of the royal ho
  - [https://www.dailymail.co.uk/news/article-11227917/Moment-mourner-looks-impressed-shes-overlooked-man-welcoming-visitors.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227917/Moment-mourner-looks-impressed-shes-overlooked-man-welcoming-visitors.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 16:37:43+00:00
- - tags: None
 
 TV footage from today's ceremony showed a doorman greeting a number of guests to the church by shaking their hand.
 
@@ -604,7 +530,6 @@ TV footage from today's ceremony showed a doorman greeting a number of guests to
  - [https://www.dailymail.co.uk/news/article-11227363/Alec-Vidot-Coleman-court-crash-killed-model-girlfriend-Scarlett-Lenehan-Sydney.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227363/Alec-Vidot-Coleman-court-crash-killed-model-girlfriend-Scarlett-Lenehan-Sydney.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 16:28:49+00:00
- - tags: None
 
 Alec Vidot-Coleman, 24, pleaded guilty to dangerous driving causing the death of Scarlett Lenehan, 20, when his Nissan Silvia smashed  into a Toyota Camry in Sydney in 2019.
 
@@ -612,7 +537,6 @@ Alec Vidot-Coleman, 24, pleaded guilty to dangerous driving causing the death of
  - [https://www.dailymail.co.uk/news/article-11227563/Democrat-Tim-Ryan-missed-Ohio-football-game-wedding-despite-attacking-JD-Vance-skipping-it.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227563/Democrat-Tim-Ryan-missed-Ohio-football-game-wedding-despite-attacking-JD-Vance-skipping-it.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 16:21:26+00:00
- - tags: None
 
 A person at the event told DailyMail.com that Ryan was the officiant at the wedding, where the bride was one of Ryan's relatives. It comes after he hammered Vance for skipping the big game.
 
@@ -620,7 +544,6 @@ A person at the event told DailyMail.com that Ryan was the officiant at the wedd
  - [https://www.dailymail.co.uk/news/article-11227777/Gavin-Newsom-unequivocally-run-president-Biden-opts-against-second-term-2024.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227777/Gavin-Newsom-unequivocally-run-president-Biden-opts-against-second-term-2024.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 16:04:57+00:00
- - tags: None
 
 Gavin Newsom will run for president in 2024 if Joe Biden bows out - a possibility seeming more likely after the president cast doubt on candidacy in his first sit-down interview in more than 200 days.
 
@@ -628,7 +551,6 @@ Gavin Newsom will run for president in 2024 if Joe Biden bows out - a possibilit
  - [https://www.dailymail.co.uk/news/article-11227711/Queens-funeral-Australians-British-expats-pay-tribute-Sydney-Melbourne-Canberra.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227711/Queens-funeral-Australians-British-expats-pay-tribute-Sydney-Melbourne-Canberra.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 16:00:27+00:00
- - tags: None
 
 Australians and British expats have packed out churches, pubs and outdoor plazas across the country to pay an emotional tribute to the late Queen Elizabeth II.
 
@@ -636,7 +558,6 @@ Australians and British expats have packed out churches, pubs and outdoor plazas
  - [https://www.dailymail.co.uk/news/article-11227673/Katharine-Birbalsingh-reported-hate-crime-inviting-professor-Jordan-Peterson.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227673/Katharine-Birbalsingh-reported-hate-crime-inviting-professor-Jordan-Peterson.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 15:47:13+00:00
- - tags: None
 
 Katharine Birbalsingh, headmistress of Michaela Community School in north London, invited Jordan Peterson to see her pupils on Friday.
 
@@ -644,7 +565,6 @@ Katharine Birbalsingh, headmistress of Michaela Community School in north London
  - [https://www.dailymail.co.uk/news/article-11227833/Trudeau-slammed-embarrassment-singing-Bohemian-Rhapsody-days-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227833/Trudeau-slammed-embarrassment-singing-Bohemian-Rhapsody-days-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 15:47:00+00:00
- - tags: None
 
 The Prime Minister of Canada was filmed singing Freddie Mercury's iconic song at Corinthia Hotel, London, during the official period of mourning just days before Her Majesty's state funeral.
 
@@ -652,7 +572,6 @@ The Prime Minister of Canada was filmed singing Freddie Mercury's iconic song at
  - [https://www.dailymail.co.uk/news/article-11227791/Moment-Bidens-Beast-gets-snarled-Londons-roads-outside-coffee-shop-chain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227791/Moment-Bidens-Beast-gets-snarled-Londons-roads-outside-coffee-shop-chain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 15:46:34+00:00
- - tags: None
 
 President Joe Biden and his wife Jill were seen in the back of their presidential car The Beast as it got stuck in the busy London traffic on Sunday night.
 
@@ -660,7 +579,6 @@ President Joe Biden and his wife Jill were seen in the back of their presidentia
  - [https://www.dailymail.co.uk/news/article-11227731/How-Britons-DIDNT-watch-Queens-funeral-avoided-all.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227731/How-Britons-DIDNT-watch-Queens-funeral-avoided-all.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 15:45:49+00:00
- - tags: None
 
 Retailers, supermarkets, coffee shops, tourist attractions, leisure centres and even holiday parks shut their doors today for Queen Elizabeth II's funeral today to allow staff to pay their respects.
 
@@ -668,7 +586,6 @@ Retailers, supermarkets, coffee shops, tourist attractions, leisure centres and 
  - [https://www.dailymail.co.uk/news/article-11227611/College-senior-21-eating-FRIES-shot-10-times-bullet-riddled-car.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227611/College-senior-21-eating-FRIES-shot-10-times-bullet-riddled-car.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 15:45:12+00:00
- - tags: None
 
 Allison Rice, 21, had been on her way home from a night out with friends and was shot dead at around 2.30am on Friday near railroad tracks in Baton Rouge, Louisiana.
 
@@ -676,7 +593,6 @@ Allison Rice, 21, had been on her way home from a night out with friends and was
  - [https://www.dailymail.co.uk/news/article-11227489/Thrilling-moment-App-State-win-game-spectacular-Hail-Mary-two-seconds-go.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227489/Thrilling-moment-App-State-win-game-spectacular-Hail-Mary-two-seconds-go.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 15:42:22+00:00
- - tags: None
 
 Appalachian State fans stormed the field and commentators shouted in celebration as the college football team won their Saturday game in a stunning last-second play.
 
@@ -684,7 +600,6 @@ Appalachian State fans stormed the field and commentators shouted in celebration
  - [https://www.dailymail.co.uk/news/article-11227585/Democrat-tells-Biden-share-photos-videos-deportations-stop-migrants-coming.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227585/Democrat-tells-Biden-share-photos-videos-deportations-stop-migrants-coming.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 15:41:52+00:00
- - tags: None
 
 Texas Democratic Rep. Henry Cuellar wants the Biden administration to show videos of migrants being returned to their home countries, complaining: ' You only see people coming in.'
 
@@ -692,7 +607,6 @@ Texas Democratic Rep. Henry Cuellar wants the Biden administration to show video
  - [https://www.dailymail.co.uk/news/article-11227641/King-Charles-Anne-Edward-boast-military-medals-Royal-Navy-uniforms.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227641/King-Charles-Anne-Edward-boast-military-medals-Royal-Navy-uniforms.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 15:39:45+00:00
- - tags: None
 
 The quartet displayed medals that demonstrated their commitment to public service, and others that showed individual military achievements.
 
@@ -700,7 +614,6 @@ The quartet displayed medals that demonstrated their commitment to public servic
  - [https://www.dailymail.co.uk/femail/article-11195141/How-Crown-reignited-Americas-obsession-Royals.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11195141/How-Crown-reignited-Americas-obsession-Royals.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 15:35:03+00:00
- - tags: None
 
 Netflix's saga helped launch the Royals into celebrity in the eyes of Americans, but it has left some people wondering if the US is now too intrigued by the Monarchy.
 
@@ -708,7 +621,6 @@ Netflix's saga helped launch the Royals into celebrity in the eyes of Americans,
  - [https://www.dailymail.co.uk/news/article-11227729/Taiwan-earthquake-Badminton-players-flee-sport-centre-collapses.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227729/Taiwan-earthquake-Badminton-players-flee-sport-centre-collapses.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 15:33:35+00:00
- - tags: None
 
 Badminton players were filmed fleeing for their lives in Taoyuan City, northern Taiwan, on Sunday afternoon as a powerful earthquake caused a sports centre ceiling to fall on them.
 
@@ -716,7 +628,6 @@ Badminton players were filmed fleeing for their lives in Taoyuan City, northern 
  - [https://www.dailymail.co.uk/news/article-11227649/Pfizer-hit-racial-discrimination-lawsuit-minority-fellowship-program.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227649/Pfizer-hit-racial-discrimination-lawsuit-minority-fellowship-program.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 15:32:45+00:00
- - tags: None
 
 A lawsuit has been filed against Pfizer alleging the company has illegally excluded white and Asian-American applicants from its minority fellowship program.
 
@@ -724,7 +635,6 @@ A lawsuit has been filed against Pfizer alleging the company has illegally exclu
  - [https://www.dailymail.co.uk/news/article-11227789/Queens-funeral-Center-Parcs-thanks-guests-trying-ban-them.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227789/Queens-funeral-Center-Parcs-thanks-guests-trying-ban-them.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 15:32:22+00:00
- - tags: None
 
 A letter sent to those at the Center Parcs Sherwood Forest site said its restaurants would be closed but residents could 'arrange food delivery from the local area'.
 
@@ -732,7 +642,6 @@ A letter sent to those at the Center Parcs Sherwood Forest site said its restaur
  - [https://www.dailymail.co.uk/news/article-11227497/Pallbearers-flew-Iraq-carry-Queens-coffin-hailed-best-Britain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227497/Pallbearers-flew-Iraq-carry-Queens-coffin-hailed-best-Britain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 15:28:53+00:00
- - tags: None
 
 Celebrities including broadcaster Stephen Fry are among those who took to social media on Monday to praise the British Army pallbearers who carried the monarch's coffin into Westminster Abbey.
 
@@ -740,7 +649,6 @@ Celebrities including broadcaster Stephen Fry are among those who took to social
  - [https://www.dailymail.co.uk/news/article-11227485/Canberra-ute-driver-three-times-limit-does-burnout-police-car.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227485/Canberra-ute-driver-three-times-limit-does-burnout-police-car.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 15:23:35+00:00
- - tags: None
 
 The 31-year-old hit the accelerator and dropped the clutch sending a huge cloud of white smoke into the air right in front of a police patrol car before being arrested and charged.
 
@@ -748,7 +656,6 @@ The 31-year-old hit the accelerator and dropped the clutch sending a huge cloud 
  - [https://www.dailymail.co.uk/news/article-11227761/Three-motorcyclists-killed-high-speed-game-chicken-German-biker-event.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227761/Three-motorcyclists-killed-high-speed-game-chicken-German-biker-event.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 15:08:23+00:00
- - tags: None
 
 The accident occurred on Saturday during a meeting of bikers organised by the Knieschleifer (Kneesliders) motorcycle club at a former airfield in Brandenburg, northwest of Berlin.
 
@@ -756,7 +663,6 @@ The accident occurred on Saturday during a meeting of bikers organised by the Kn
  - [https://www.dailymail.co.uk/news/article-11227509/Were-winnin-Ukrainians-celebrate-McDONALDS-reopens-Kyiv.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227509/Were-winnin-Ukrainians-celebrate-McDONALDS-reopens-Kyiv.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 15:08:02+00:00
- - tags: None
 
 Three restaurants in the Ukrainian capital will open for delivery only from September 20, followed by several more venues in Kyiv and across the country further west one week later
 
@@ -764,7 +670,6 @@ Three restaurants in the Ukrainian capital will open for delivery only from Sept
  - [https://www.dailymail.co.uk/news/article-11227367/Marthas-Vineyard-migrants-dorm-style-digs-Joint-Base-Cape-Cod.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227367/Marthas-Vineyard-migrants-dorm-style-digs-Joint-Base-Cape-Cod.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 15:03:57+00:00
- - tags: None
 
 After causing a 'humanitarian crisis' and being shipped from Martha's Vineyard to Joint Base Cape Cod, the 50 Venezuelan migrants are bunking dorm-style at the nearby army base.
 
@@ -772,7 +677,6 @@ After causing a 'humanitarian crisis' and being shipped from Martha's Vineyard t
  - [https://www.dailymail.co.uk/news/article-11227401/Moment-runaway-spider-Queens-garden-seen-crawling-coffin-Westminster-Abbey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227401/Moment-runaway-spider-Queens-garden-seen-crawling-coffin-Westminster-Abbey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 14:54:36+00:00
- - tags: None
 
 As the Queen's coffin passed down the nave of Westminster Abbey during the ceremony, a tiny spider scurried across the card that accompanied King Charles's wreath for his mother.
 
@@ -780,7 +684,6 @@ As the Queen's coffin passed down the nave of Westminster Abbey during the cere
  - [https://www.dailymail.co.uk/news/article-11227697/The-Queen-Windsor-beloved-Prince-Philip.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227697/The-Queen-Windsor-beloved-Prince-Philip.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 14:42:07+00:00
- - tags: None
 
 Tens of thousands of people lined The Long Walk and applauded as the flower-covered hearse carrying the late sovereign's coffin slowly processed towards her Berkshire castle.
 
@@ -788,7 +691,6 @@ Tens of thousands of people lined The Long Walk and applauded as the flower-cove
  - [https://www.dailymail.co.uk/news/article-11227347/Trumps-glamorous-NJ-lawyer-settles-lawsuit-accused-using-n-word-public.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227347/Trumps-glamorous-NJ-lawyer-settles-lawsuit-accused-using-n-word-public.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 14:41:53+00:00
- - tags: None
 
 Alina Habba, one of Donald Trump's most prominent attorneys, settled a lawsuit brought by a former employee who accused the lawyer of being racist and using the n-word in the office.
 
@@ -796,7 +698,6 @@ Alina Habba, one of Donald Trump's most prominent attorneys, settled a lawsuit b
  - [https://www.dailymail.co.uk/femail/article-11227247/Princess-Eugenie-Princess-Beatrice-look-distraught-Queens-State-Funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11227247/Princess-Eugenie-Princess-Beatrice-look-distraught-Queens-State-Funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 14:41:30+00:00
- - tags: None
 
 Princess Beatrice, 34, and Eugenie, 32, who paid a loving tribute to their grandmother over the weekend, appeared emotional at Westminster Abbey this afternoon.
 
@@ -804,7 +705,6 @@ Princess Beatrice, 34, and Eugenie, 32, who paid a loving tribute to their grand
  - [https://www.dailymail.co.uk/news/article-11227517/David-Dimbleby-comes-retirement-BBC-commentary-Queens-committal-service.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227517/David-Dimbleby-comes-retirement-BBC-commentary-Queens-committal-service.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 14:41:11+00:00
- - tags: None
 
 David Dimbleby, 83, takes over from Huw Edwards, 61, who has anchored much of the BBC's coverage since Queen Elizabeth II 's death on Thursday 8 September.
 
@@ -812,7 +712,6 @@ David Dimbleby, 83, takes over from Huw Edwards, 61, who has anchored much of th
  - [https://www.dailymail.co.uk/femail/article-11226765/James-Viscount-Severn-cut-solemn-figure-says-farewell-Granny.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11226765/James-Viscount-Severn-cut-solemn-figure-says-farewell-Granny.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 14:40:30+00:00
- - tags: None
 
 The Queen 's youngest grandson James, Viscount Severn was comforted by Mike Tindall outside Westminster Abbey today for the Queen's state funeral as he said farewell to his 'Granny'.
 
@@ -820,7 +719,6 @@ The Queen 's youngest grandson James, Viscount Severn was comforted by Mike Ti
  - [https://www.dailymail.co.uk/news/article-11227491/Chilling-message-missing-mom-sent-daughter-dead-Georgia-ravine.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227491/Chilling-message-missing-mom-sent-daughter-dead-Georgia-ravine.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 14:38:23+00:00
- - tags: None
 
 Debbie Collier's tragic body was found in a small, steep-sided ravine on September 11 near a wooded area in Tallulah Falls, Georgia, after being reported missing the day before.
 
@@ -828,7 +726,6 @@ Debbie Collier's tragic body was found in a small, steep-sided ravine on Septemb
  - [https://www.dailymail.co.uk/news/article-11227443/Tracy-Grimshaw-remarks-Queens-long-funeral-march-exhausting-King-Charles-73.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227443/Tracy-Grimshaw-remarks-Queens-long-funeral-march-exhausting-King-Charles-73.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 14:37:00+00:00
- - tags: None
 
 Tracy Grimshaw was co-hosting Nine's coverage of the Queen's funeral with Peter Overton at Westminster Abbey when she began wondering aloud about the new King's physical welfare.
 
@@ -836,7 +733,6 @@ Tracy Grimshaw was co-hosting Nine's coverage of the Queen's funeral with Peter 
  - [https://www.dailymail.co.uk/news/article-11227387/Mother-daughter-stuck-carwash-machinery-went-haywire.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227387/Mother-daughter-stuck-carwash-machinery-went-haywire.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 14:36:58+00:00
- - tags: None
 
 A family car was stuck in a Morrisons car wash for nine days in Glasgow, Scotland after a mother and her daughter were forced to escape through a rear window.
 
@@ -844,7 +740,6 @@ A family car was stuck in a Morrisons car wash for nine days in Glasgow, Scotlan
  - [https://www.dailymail.co.uk/news/article-11227333/Pentagon-launches-probe-woke-female-diversity-officer-disparaging-tweets-white-people.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227333/Pentagon-launches-probe-woke-female-diversity-officer-disparaging-tweets-white-people.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 14:34:56+00:00
- - tags: None
 
 The tweets by Kelisa Wing, an Army veteran and the chief 'diversity and equity' officer at the DoD's Education Activity office, were reported last week, and have since come under scrutiny.
 
@@ -852,7 +747,6 @@ The tweets by Kelisa Wing, an Army veteran and the chief 'diversity and equity' 
  - [https://www.dailymail.co.uk/news/article-11227525/Is-firm-decision-run-remains-seen-Bidens-response-asked-2024.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227525/Is-firm-decision-run-remains-seen-Bidens-response-asked-2024.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 14:26:24+00:00
- - tags: None
 
 President Biden made a curious admission in an interview Sunday evening where he said it 'remains to be seen' whether he will seek the presidency in 2024.
 
@@ -860,7 +754,6 @@ President Biden made a curious admission in an interview Sunday evening where he
  - [https://www.dailymail.co.uk/news/article-11227385/Bill-Clinton-fires-subtle-dig-Ken-Starr-following-prosecutors-death.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227385/Bill-Clinton-fires-subtle-dig-Ken-Starr-following-prosecutors-death.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 14:26:17+00:00
- - tags: None
 
 In an interview with CNN on Sunday, Clinton was asked for his reaction to the death of Starr, who passed away last week in a Houston hospital at age 76 following complications from surgery.
 
@@ -868,7 +761,6 @@ In an interview with CNN on Sunday, Clinton was asked for his reaction to the de
  - [https://www.dailymail.co.uk/femail/article-11227369/Sophie-Countess-Wessex-comforts-future-king-Prince-George-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11227369/Sophie-Countess-Wessex-comforts-future-king-Prince-George-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 14:25:21+00:00
- - tags: None
 
 Nine-year-old Prince George went to the funeral of Her Majesty The Queen alongside his family and walked in front of his sister Charlotte, seven, during the procession to Westminster Abbey.
 
@@ -876,7 +768,6 @@ Nine-year-old Prince George went to the funeral of Her Majesty The Queen alongsi
  - [https://www.dailymail.co.uk/news/article-11227381/Newt-Gingrich-warns-civilization-break-crime-keeps-rising-cities-New-York.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227381/Newt-Gingrich-warns-civilization-break-crime-keeps-rising-cities-New-York.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 14:19:44+00:00
- - tags: None
 
 Former Republican House Speaker Newt Gingrich has decried rising crime in major US cities and placed the blame on Democratic District Attorneys who embrace ineffective criminal justice reforms.
 
@@ -884,7 +775,6 @@ Former Republican House Speaker Newt Gingrich has decried rising crime in major 
  - [https://www.dailymail.co.uk/femail/article-11226807/The-Queens-granddaughters-Zara-Beatrice-Eugenie-supported-husbands.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11226807/The-Queens-granddaughters-Zara-Beatrice-Eugenie-supported-husbands.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 14:15:52+00:00
- - tags: None
 
 The Queen's granddaughters were supported by their husbands Mike Tindall, Edoardo Mapelli Mozzi and Jack Brooksbank as they attended the funeral at Westminster Abbey.
 
@@ -892,7 +782,6 @@ The Queen's granddaughters were supported by their husbands Mike Tindall, Edoard
  - [https://www.dailymail.co.uk/news/article-11227321/Biden-insists-son-Hunter-NOT-caused-conflicts-foreign-business-deals.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227321/Biden-insists-son-Hunter-NOT-caused-conflicts-foreign-business-deals.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 14:11:57+00:00
- - tags: None
 
 'I love my son, number one,' Biden said when asked about whether Hunter Biden's work or past struggle with drugs could be a liability on the 2024 campaign trail.
 
@@ -900,7 +789,6 @@ The Queen's granddaughters were supported by their husbands Mike Tindall, Edoard
  - [https://www.dailymail.co.uk/news/article-11227505/Mourners-missed-Queens-funeral-Woman-sits-outside-Westminster-Abbey-service-begun.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227505/Mourners-missed-Queens-funeral-Woman-sits-outside-Westminster-Abbey-service-begun.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 14:07:33+00:00
- - tags: None
 
 Traffic and travel chaos this morning meant some mourners faced severe disruption on their way to the Queen's state funeral at Westminster Abbey with one woman being pictured sitting outside.
 
@@ -908,7 +796,6 @@ Traffic and travel chaos this morning meant some mourners faced severe disruptio
  - [https://www.dailymail.co.uk/femail/article-11226743/Queens-funeral-Prince-Philips-confidante-Penny-Brabourne-bids-farewell-Queen.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11226743/Queens-funeral-Prince-Philips-confidante-Penny-Brabourne-bids-farewell-Queen.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 13:58:09+00:00
- - tags: None
 
 Penelope, Countess Mountbatten of Burma was close with both the late Duke of Edinburgh and Queen and was a regular visitor at Wood Farm in Sandringham.
 
@@ -916,7 +803,6 @@ Penelope, Countess Mountbatten of Burma was close with both the late Duke of Edi
  - [https://www.dailymail.co.uk/femail/article-11227161/Kings-Queens-mourning-alongside-one-Westminster-Abbey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11227161/Kings-Queens-mourning-alongside-one-Westminster-Abbey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 13:56:30+00:00
- - tags: None
 
 Kings and Queens from around the world  filed into place in Westminster Abbey where they were seated in front of the Queen's coffin for the service.
 
@@ -924,7 +810,6 @@ Kings and Queens from around the world  filed into place in Westminster Abbey wh
  - [https://www.dailymail.co.uk/news/article-11227315/Trump-says-Mar-Lago-never-returns-Florida-check-scene.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227315/Trump-says-Mar-Lago-never-returns-Florida-check-scene.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 13:46:18+00:00
- - tags: None
 
 Donald Trump complained FBI agents didn't remove their shoes when searching his Mar-a-Lago estate and said his Florida residence will 'never be the same' as he returned to 'check' the scene.
 
@@ -932,7 +817,6 @@ Donald Trump complained FBI agents didn't remove their shoes when searching his 
  - [https://www.dailymail.co.uk/news/article-11227473/A-lament-Queen-Monarchs-personal-bagpiper-plays-state-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227473/A-lament-Queen-Monarchs-personal-bagpiper-plays-state-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 13:44:13+00:00
- - tags: None
 
 Queen Elizabeth II's personal bagpiper paid a poignant tribute to the late Monarch at her state funeral on Monday.
 
@@ -940,7 +824,6 @@ Queen Elizabeth II's personal bagpiper paid a poignant tribute to the late Monar
  - [https://www.dailymail.co.uk/news/article-11227365/US-Army-paratrooper-shot-dead-outside-apartment-building-near-beleaguered-Fort-Bragg-base.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227365/US-Army-paratrooper-shot-dead-outside-apartment-building-near-beleaguered-Fort-Bragg-base.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 13:44:07+00:00
- - tags: None
 
 A Fort Bragg paratrooper was found dead with multiple gunshot wounds outside his Fayetteville, North Carolina, apartment.
 
@@ -948,7 +831,6 @@ A Fort Bragg paratrooper was found dead with multiple gunshot wounds outside his
  - [https://www.dailymail.co.uk/news/article-11227515/Ex-home-secretary-Priti-Patel-marshal-helping-control-queue-Queen.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227515/Ex-home-secretary-Priti-Patel-marshal-helping-control-queue-Queen.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 13:42:28+00:00
- - tags: None
 
 Several photos posted on social media showed Mrs Patel in a blue high-vis jacket alongside fellow Conservative MP Andrew Stephenson on the final day of the monarch's lying in state.
 
@@ -956,7 +838,6 @@ Several photos posted on social media showed Mrs Patel in a blue high-vis jacket
  - [https://www.dailymail.co.uk/news/article-11227425/Man-arrested-trying-jump-barriers-Queens-coffin-emerges-procession.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227425/Man-arrested-trying-jump-barriers-Queens-coffin-emerges-procession.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 13:42:22+00:00
- - tags: None
 
 An attendee attempted to leap the barriers onto Parliament Street by the Cenotaph and was arrested by police as the late monarch's coffin emerged from Westminster Abbey.
 
@@ -964,7 +845,6 @@ An attendee attempted to leap the barriers onto Parliament Street by the Cenotap
  - [https://www.dailymail.co.uk/news/article-11227331/O-Canada-Proud-moment-four-Mounties-lead-Queen-Elizabeth-IIs-final-funeral-procession.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227331/O-Canada-Proud-moment-four-Mounties-lead-Queen-Elizabeth-IIs-final-funeral-procession.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 13:37:49+00:00
- - tags: None
 
 Ridden by Canadian officers wearing the famous red tunics and stetsons, the four horses marched through the streets of London from Westminster Abbey to Wellington Arch.
 
@@ -972,7 +852,6 @@ Ridden by Canadian officers wearing the famous red tunics and stetsons, the four
  - [https://www.dailymail.co.uk/femail/article-11226641/Queens-funeral-Maxima-Netherlands-arrives-Westminster-Abbey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11226641/Queens-funeral-Maxima-Netherlands-arrives-Westminster-Abbey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 13:37:37+00:00
- - tags: None
 
 Ditching her usual colourful attire, the royal, 51, opted for all black as she paid respects to the late Queen as she walked alongside her mother-in-law Princess Beatrix, 84,
 
@@ -980,7 +859,6 @@ Ditching her usual colourful attire, the royal, 51, opted for all black as she p
  - [https://www.dailymail.co.uk/news/article-11227355/Wayne-Linekers-Ibiza-bar-decorated-red-white-blue-balloons-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227355/Wayne-Linekers-Ibiza-bar-decorated-red-white-blue-balloons-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 13:35:54+00:00
- - tags: None
 
 His Ibiza beach bar was decorated with red, white and blue balloons on Monday in honour of Queen Elizabeth II's funeral, following her September 8 death at age 96.
 
@@ -988,7 +866,6 @@ His Ibiza beach bar was decorated with red, white and blue balloons on Monday in
  - [https://www.dailymail.co.uk/news/article-11227337/Big-screens-showing-funeral-crowds-Windsor-turned-safety-reasons.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227337/Big-screens-showing-funeral-crowds-Windsor-turned-safety-reasons.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 13:35:00+00:00
- - tags: None
 
 Well-wishers shed tears as they gathered to watch the screens in and around the Long Walk to Windsor Castle, but there was a brief glitch as the sound disappeared before they went black.
 
@@ -996,7 +873,6 @@ Well-wishers shed tears as they gathered to watch the screens in and around the 
  - [https://www.dailymail.co.uk/news/article-11227413/Queens-coffin-taken-past-Buckingham-Palace-final-time-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227413/Queens-coffin-taken-past-Buckingham-Palace-final-time-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 13:19:49+00:00
- - tags: None
 
 The late monarch's coffin was taken clockwise around the Victoria Memorial in London on a gun carriage drawn by naval ratings as it travelled towards Wellington Arch.
 
@@ -1004,7 +880,6 @@ The late monarch's coffin was taken clockwise around the Victoria Memorial in Lo
  - [https://www.dailymail.co.uk/news/article-11227423/ISIS-knifewoman-no-respect-life-receives-SUSPENDED-nine-year-jail-sentence.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227423/ISIS-knifewoman-no-respect-life-receives-SUSPENDED-nine-year-jail-sentence.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 13:15:32+00:00
- - tags: None
 
 The attack, which did not result in fatalities, took place on November 24, 2020 in the plush Manor shopping centre (pictured) in Lugano. She attempted to slit the throats of two shoppers
 
@@ -1012,7 +887,6 @@ The attack, which did not result in fatalities, took place on November 24, 2020 
  - [https://www.dailymail.co.uk/news/article-11227319/Royal-fans-poke-fun-sinister-music-played-tune-instrument-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227319/Royal-fans-poke-fun-sinister-music-played-tune-instrument-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 13:08:49+00:00
- - tags: None
 
 The organ music at the Queen's funeral service in Westminster Abbey was not to everyone's taste with some likening it to Les Dawson's off-key piano playing and others asking if it was out of tune.
 
@@ -1020,7 +894,6 @@ The organ music at the Queen's funeral service in Westminster Abbey was not to e
  - [https://www.dailymail.co.uk/news/article-11227079/Woman-wins-1M-damages-claims-raped-hotel-room-recruitment-firm-CEO.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227079/Woman-wins-1M-damages-claims-raped-hotel-room-recruitment-firm-CEO.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 12:52:14+00:00
- - tags: None
 
 A tribunal held remotely in south London heard that the woman, who cannot be identified for legal reasons, went to have drinks with the CEO and colleagues to discuss her performance on the day of the incident.
 
@@ -1028,7 +901,6 @@ A tribunal held remotely in south London heard that the woman, who cannot be ide
  - [https://www.dailymail.co.uk/femail/article-11226547/The-worlds-monarchs-mourn-Queen-funeral-London.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11226547/The-worlds-monarchs-mourn-Queen-funeral-London.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 12:43:54+00:00
- - tags: None
 
 Emperors, kings, queens, presidents, prime ministers and other foreign dignitaries have descended on the British capital for Her Majesty's state funeral.
 
@@ -1036,7 +908,6 @@ Emperors, kings, queens, presidents, prime ministers and other foreign dignitari
  - [https://www.dailymail.co.uk/femail/article-11224577/Queens-funeral-Queen-consort-Camilla-looks-sombre-black.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11224577/Queens-funeral-Queen-consort-Camilla-looks-sombre-black.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 12:43:18+00:00
- - tags: None
 
 Her Royal Highness, 75, sported all black as she entered Westminster Abbey alongside future Queen Kate Middleton, Prince George, nine, and Princess Charlotte, seven.
 
@@ -1044,7 +915,6 @@ Her Royal Highness, 75, sported all black as she entered Westminster Abbey along
  - [https://www.dailymail.co.uk/news/article-11227175/The-day-Britain-came-standstill-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227175/The-day-Britain-came-standstill-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 12:42:35+00:00
- - tags: None
 
 Hundreds of thousands of mourners who gathered to watch the historic funeral at pubs, nursing homes, schools and airports honoured Her Majesty with the solemn display of reverence.
 
@@ -1052,7 +922,6 @@ Hundreds of thousands of mourners who gathered to watch the historic funeral at 
  - [https://www.dailymail.co.uk/sciencetech/article-11226819/Google-logo-turns-grey-black-ahead-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sciencetech/article-11226819/Google-logo-turns-grey-black-ahead-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 12:42:11+00:00
- - tags: None
 
 At exactly 00:00 BST on Sunday, September 18, the famous logo changed from grey to black in the UK, as a mark of respect ahead of the Queen's state funeral.
 
@@ -1060,7 +929,6 @@ At exactly 00:00 BST on Sunday, September 18, the famous logo changed from grey 
  - [https://www.dailymail.co.uk/news/article-11227153/How-media-covered-Britains-final-farewell-Queen-state-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227153/How-media-covered-Britains-final-farewell-Queen-state-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 12:42:11+00:00
- - tags: None
 
 Americans joined together to mark Britain's saddest day with wall-to-wall coverage of the funeral of Queen Elizabeth II.
 
@@ -1068,7 +936,6 @@ Americans joined together to mark Britain's saddest day with wall-to-wall covera
  - [https://www.dailymail.co.uk/news/article-11227221/Queens-funeral-BBC-fails-recognise-Australian-PM-Anthony-Albanese-Westminister-Abbey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227221/Queens-funeral-BBC-fails-recognise-Australian-PM-Anthony-Albanese-Westminister-Abbey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 12:31:53+00:00
- - tags: None
 
 British national broadcaster BBC reeled off a host of names as world leaders filed into London's Westminister Abbey for the Queen's funeral but didn't recognise the Australian PM.
 
@@ -1076,7 +943,6 @@ British national broadcaster BBC reeled off a host of names as world leaders fil
  - [https://www.dailymail.co.uk/news/article-11227199/NYC-Mayor-Adams-says-migrants-bussed-Texas-housed-cruise-ships.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227199/NYC-Mayor-Adams-says-migrants-bussed-Texas-housed-cruise-ships.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 12:31:23+00:00
- - tags: None
 
 Eric Adams revealed that his team could lodge a lawsuit against the Lone Star State's Governor as immigrants in their thousands continue to be shipped across the country .
 
@@ -1084,7 +950,6 @@ Eric Adams revealed that his team could lodge a lawsuit against the Lone Star St
  - [https://www.dailymail.co.uk/news/article-11227225/Big-Ben-BONGS-Queen-fears-stay-silent.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227225/Big-Ben-BONGS-Queen-fears-stay-silent.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 12:27:51+00:00
- - tags: None
 
 Fears were unfounded as Big Ben did chime 96 times - to mark the former sovereign's age - this afternoon  as the coffin was taken on a gun carriage from Westminster Abbey.
 
@@ -1092,7 +957,6 @@ Fears were unfounded as Big Ben did chime 96 times - to mark the former sovereig
  - [https://www.dailymail.co.uk/femail/article-11223949/Queens-funeral-Kate-Middleton-cuts-sombre-figure-arrives-Westminster-Abbey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11223949/Queens-funeral-Kate-Middleton-cuts-sombre-figure-arrives-Westminster-Abbey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 12:27:03+00:00
- - tags: None
 
 The Princess of Wales was the picture of dignity as she joined her husband and children at the Queen's funeral in London today. She accompanied her children George, nine, and Charlotte, seven.
 
@@ -1100,7 +964,6 @@ The Princess of Wales was the picture of dignity as she joined her husband and c
  - [https://www.dailymail.co.uk/news/article-11227107/A-Kings-grief-Emotional-Charles-watched-concerned-Princess-Anne-walk-coffin.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227107/A-Kings-grief-Emotional-Charles-watched-concerned-Princess-Anne-walk-coffin.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 12:25:41+00:00
- - tags: None
 
 King Charles III, dressed in military uniform, appeared to wipe away a tear as he mournfully watched his mother's coffin be carried into Westminster Abbey for the emotional service.
 
@@ -1108,7 +971,6 @@ King Charles III, dressed in military uniform, appeared to wipe away a tear as h
  - [https://www.dailymail.co.uk/news/article-11226925/The-authoritarian-anti-vaxxer-stoning-apologist-invited-watch-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226925/The-authoritarian-anti-vaxxer-stoning-apologist-invited-watch-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 12:23:45+00:00
- - tags: None
 
 While a number of countries were excluded from the service due to strained diplomatic relations with the UK, Saudi Arabia, China and Turkey were invited.
 
@@ -1116,7 +978,6 @@ While a number of countries were excluded from the service due to strained diplo
  - [https://www.dailymail.co.uk/news/article-11227177/Mike-Tindall-displays-OBE-sits-row-Queens-funeral-wife-Zara.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227177/Mike-Tindall-displays-OBE-sits-row-Queens-funeral-wife-Zara.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 12:23:08+00:00
- - tags: None
 
 The former England rugby star, 43, was invited to the service at Westminster Abbey as one of the 'minor royals', having married the late monarch's granddaughter Zara Phillips, 41, in 2011.
 
@@ -1124,7 +985,6 @@ The former England rugby star, 43, was invited to the service at Westminster Abb
  - [https://www.dailymail.co.uk/femail/article-11224049/Queens-funeral-Sophie-Wessex-looks-reflective-joins-Prince-Edward-Westminster-Abbey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11224049/Queens-funeral-Sophie-Wessex-looks-reflective-joins-Prince-Edward-Westminster-Abbey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 12:22:41+00:00
- - tags: None
 
 Prince Edward's wife, 57, who had an exceptionally close relationship with her mother-in-law opted for traditional mourning dress as she entered Westminster Abbey today.
 
@@ -1132,7 +992,6 @@ Prince Edward's wife, 57, who had an exceptionally close relationship with her m
  - [https://www.dailymail.co.uk/femail/article-11224019/Queens-funeral-Meghan-Markle-looks-solemn-Westminster-Abbey-Prince-Harry.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11224019/Queens-funeral-Meghan-Markle-looks-solemn-Westminster-Abbey-Prince-Harry.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 12:11:50+00:00
- - tags: None
 
 Harry, 38,  and Meghan, who live in Montecito, California, have remained in the UK since the Queen's death on September 8.
 
@@ -1140,7 +999,6 @@ Harry, 38,  and Meghan, who live in Montecito, California, have remained in the
  - [https://www.dailymail.co.uk/sport/sportsnews/article-11226867/Tyson-Fury-breaks-silence-fans-wait-hear-potentially-facing-Anthony-Joshua.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sport/sportsnews/article-11226867/Tyson-Fury-breaks-silence-fans-wait-hear-potentially-facing-Anthony-Joshua.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 11:57:36+00:00
- - tags: None
 
 The Gypsy King called out Joshua earlier this month in a series of videos on social media, and Joshua's management team have since revealed that they have 'accepted all terms' for the fight to go ahead.
 
@@ -1148,7 +1006,6 @@ The Gypsy King called out Joshua earlier this month in a series of videos on soc
  - [https://www.dailymail.co.uk/news/article-11227189/Social-media-users-fall-love-superstar-choirboy-singing-heart-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227189/Social-media-users-fall-love-superstar-choirboy-singing-heart-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 11:57:33+00:00
- - tags: None
 
 Social media users have heaped praised on the auburn-haired choirboy who has been pictured singing his heart out as the choir took part in Queen Elizabeth II's state funeral at Westminster Abbey.
 
@@ -1156,7 +1013,6 @@ Social media users have heaped praised on the auburn-haired choirboy who has bee
  - [https://www.dailymail.co.uk/news/article-11227191/Strangers-captured-hearts-nation-romance-Queen-queue-long-term-partners.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227191/Strangers-captured-hearts-nation-romance-Queen-queue-long-term-partners.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 11:56:53+00:00
- - tags: None
 
 A Channel 4 News video of the pair speaking about one another while standing in line for 14 hours on Friday night went viral over the weekend, and was watched more than 2 million times.
 
@@ -1164,7 +1020,6 @@ A Channel 4 News video of the pair speaking about one another while standing in 
  - [https://www.dailymail.co.uk/news/article-11227223/King-Charles-sombre-procession-Queens-coffin-marched-Westminster-Abbey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227223/King-Charles-sombre-procession-Queens-coffin-marched-Westminster-Abbey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 11:45:26+00:00
- - tags: None
 
 Her Majesty made her final and saddest journey from Westminster Hall to the church where she married and was crowned as Britain mourned its longest-serving monarch.
 
@@ -1172,7 +1027,6 @@ Her Majesty made her final and saddest journey from Westminster Hall to the chur
  - [https://www.dailymail.co.uk/news/article-11227179/The-special-reason-Jacinda-Ardern-wore-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227179/The-special-reason-Jacinda-Ardern-wore-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 11:45:15+00:00
- - tags: None
 
 Ms Ardern arrived at Westminster Abbey on Monday alongside about 500 other heads of state, royals and foreign dignitaries. She chose her outfit carefully before flying to London.
 
@@ -1180,7 +1034,6 @@ Ms Ardern arrived at Westminster Abbey on Monday alongside about 500 other head
  - [https://www.dailymail.co.uk/news/article-11227181/Meghan-Markle-Prince-Harry-sit-second-row-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227181/Meghan-Markle-Prince-Harry-sit-second-row-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 11:44:19+00:00
- - tags: None
 
 The Duke and Duchess of Sussex have been placed alongside Princess Beatrice and her husband, Edoardo Mapelli Mozzi.
 
@@ -1188,7 +1041,6 @@ The Duke and Duchess of Sussex have been placed alongside Princess Beatrice and 
  - [https://www.dailymail.co.uk/news/article-11227089/Sailors-rush-rescue-policeman-collapses-duty-Queens-funeral-London.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227089/Sailors-rush-rescue-policeman-collapses-duty-Queens-funeral-London.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 11:42:53+00:00
- - tags: None
 
 The officer was pictured laying on the ground in central London this morning, being attended to by police colleagues and Royal Navy personnel. He was then carried away on a stretcher.
 
@@ -1196,7 +1048,6 @@ The officer was pictured laying on the ground in central London this morning, be
  - [https://www.dailymail.co.uk/news/article-11227077/Hollands-Princess-Catharina-Amalia-18-Dutch-mafia-kidnap-plot.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227077/Hollands-Princess-Catharina-Amalia-18-Dutch-mafia-kidnap-plot.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 11:42:00+00:00
- - tags: None
 
 Authorities in the Netherlands are ramping up security measures to protect the nation's Crown Princess Catharina-Amalia, 18, who moved to Dutch capital to begin university studies
 
@@ -1204,7 +1055,6 @@ Authorities in the Netherlands are ramping up security measures to protect the n
  - [https://www.dailymail.co.uk/news/article-11221755/Are-trains-running-London-Queens-funeral-today.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11221755/Are-trains-running-London-Queens-funeral-today.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 11:40:36+00:00
- - tags: None
 
 Trains are running through the night in and out of London to help mourners visiting the capital to pay their respects to the Queen, with around 200 daily rail services added to timetables.
 
@@ -1212,7 +1062,6 @@ Trains are running through the night in and out of London to help mourners visit
  - [https://www.dailymail.co.uk/news/article-11226979/Emotional-Prince-Andrew-walks-mothers-coffin-morning-suit-not-military-uniform.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226979/Emotional-Prince-Andrew-walks-mothers-coffin-morning-suit-not-military-uniform.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 11:38:40+00:00
- - tags: None
 
 The Duke of York looked sombre as he joined other senior royals in the procession through Westminster this morning.
 
@@ -1220,7 +1069,6 @@ The Duke of York looked sombre as he joined other senior royals in the processio
  - [https://www.dailymail.co.uk/femail/article-11226843/Princess-Charlene-Monaco-arrives-Queens-funeral-alongside-husband-Prince-Albert.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11226843/Princess-Charlene-Monaco-arrives-Queens-funeral-alongside-husband-Prince-Albert.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 11:32:30+00:00
- - tags: None
 
 Princess Charlene of Monaco arrived with her husband Prince Albert for the Queen's funeral at Westminster Abbey. Charlene, 44, looked elegant in a black ensemble.
 
@@ -1228,7 +1076,6 @@ Princess Charlene of Monaco arrived with her husband Prince Albert for the Queen
  - [https://www.dailymail.co.uk/news/article-11219899/Who-going-Queens-funeral-guest-list-world-leaders-today.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11219899/Who-going-Queens-funeral-guest-list-world-leaders-today.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 11:23:32+00:00
- - tags: None
 
 As the world mourns Her Majesty's death at the age of 96, the globe's most powerful men and women scrambled for seats amid limits on who can join the congregation of 2,000 VIPs.
 
@@ -1236,7 +1083,6 @@ As the world mourns Her Majesty's death at the age of 96, the globe's most power
  - [https://www.dailymail.co.uk/femail/article-11226363/Queens-funeral-Princess-Anne-joins-brothers-say-goodbye.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11226363/Queens-funeral-Princess-Anne-joins-brothers-say-goodbye.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 11:22:22+00:00
- - tags: None
 
 The Princess Royal, 72, who is often described as the 'hardest working royal' walked between her brothers King Charles III and Prince Andrew, while donning full military uniform
 
@@ -1244,7 +1090,6 @@ The Princess Royal, 72, who is often described as the 'hardest working royal' wa
  - [https://www.dailymail.co.uk/news/article-11226869/Neighbours-fight-access-footpath-woods-landowner-private-property-sign.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226869/Neighbours-fight-access-footpath-woods-landowner-private-property-sign.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 11:16:33+00:00
- - tags: None
 
 Ellen Salton, 56, has been embroiled in a row since erecting the signs to prevent local residents accessing a popular woodland in Tredomen, near Hengoed, South Wales, back in 2004.
 
@@ -1252,7 +1097,6 @@ Ellen Salton, 56, has been embroiled in a row since erecting the signs to preven
  - [https://www.dailymail.co.uk/news/article-11219549/Queens-funeral-coronation-King-Charles-III.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11219549/Queens-funeral-coronation-King-Charles-III.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 11:15:17+00:00
- - tags: None
 
 The unexpected holiday has caused Britons to question what it means for them and their families. Can you legally take the day off work today? Are schools closed?
 
@@ -1260,7 +1104,6 @@ The unexpected holiday has caused Britons to question what it means for them and
  - [https://www.dailymail.co.uk/news/article-11219851/How-Queens-passing-affected-royal-titles.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11219851/How-Queens-passing-affected-royal-titles.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 11:04:13+00:00
- - tags: None
 
 The Queen's death at Balmoral Castle on September 8 triggered a series of changes to the titles of senior royals - including for both the Cambridges and the Sussexes.
 
@@ -1268,7 +1111,6 @@ The Queen's death at Balmoral Castle on September 8 triggered a series of change
  - [https://www.dailymail.co.uk/news/article-11219409/What-Queen-Elizabeth-II-really-like.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11219409/What-Queen-Elizabeth-II-really-like.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 11:02:32+00:00
- - tags: None
 
 GYLES BRANDRETH: Because I have met her, because, at close quarters, I have observed her as she carried out a range of her official duties, people often ask me 'What was the Queen really like?'
 
@@ -1276,7 +1118,6 @@ GYLES BRANDRETH: Because I have met her, because, at close quarters, I have obse
  - [https://www.dailymail.co.uk/news/article-11219331/Who-Queens-loyal-aide-Angela-Kelly.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11219331/Who-Queens-loyal-aide-Angela-Kelly.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 11:01:24+00:00
- - tags: None
 
 Angela Kelly, 64, was a trusted confidante of Queen Elizabeth II. Staff would typically only have one month's notice before being moved to another Royal household but Ms Kelly is still by Windsor.
 
@@ -1284,7 +1125,6 @@ Angela Kelly, 64, was a trusted confidante of Queen Elizabeth II. Staff would ty
  - [https://www.dailymail.co.uk/news/article-11226905/Queen-Elizabeth-etched-sand-Brighton-Beach-Adelaide-artist-Sue-Norman.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226905/Queen-Elizabeth-etched-sand-Brighton-Beach-Adelaide-artist-Sue-Norman.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 10:43:21+00:00
- - tags: None
 
 It seems the tide has 'miraculously' spared a giant sand portrait of Queen Elizabeth that has been etched into the sand of Adelaide's Brighton Beach and was expected to last only until 6pm.
 
@@ -1292,7 +1132,6 @@ It seems the tide has 'miraculously' spared a giant sand portrait of Queen Eliza
  - [https://www.dailymail.co.uk/news/article-11226987/Meghan-Markle-enters-Westminster-Abbey-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226987/Meghan-Markle-enters-Westminster-Abbey-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 10:41:34+00:00
- - tags: None
 
 Meghan Markle, the Duchess of Sussex, has been pictured arriving at the Queen's funeral in Westminster Abbey this morning.
 
@@ -1300,7 +1139,6 @@ Meghan Markle, the Duchess of Sussex, has been pictured arriving at the Queen's 
  - [https://www.dailymail.co.uk/news/live/article-11226189/Queens-funeral-stream-LIVE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/live/article-11226189/Queens-funeral-stream-LIVE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 10:41:22+00:00
- - tags: None
 
 Follow MailOnline's liveblog for updates throughout today as a state funeral is held for the Queen at Westminster Abbey before a committal service at Windsor Castle.
 
@@ -1308,7 +1146,6 @@ Follow MailOnline's liveblog for updates throughout today as a state funeral is 
  - [https://www.dailymail.co.uk/news/article-11226999/Ben-Roberts-Smith-attends-Queens-funeral-London.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226999/Ben-Roberts-Smith-attends-Queens-funeral-London.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 10:40:19+00:00
- - tags: None
 
 Victoria Cross medal winner Ben Roberts-Smith is among the mourners attending the Queen's funeral service at Westminster Abbey, having flown separately to Anthony Albanese.
 
@@ -1316,7 +1153,6 @@ Victoria Cross medal winner Ben Roberts-Smith is among the mourners attending th
  - [https://www.dailymail.co.uk/news/article-11226959/Queens-funeral-Prince-William-Prince-Harry-seen-together.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226959/Queens-funeral-Prince-William-Prince-Harry-seen-together.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 10:40:16+00:00
- - tags: None
 
 The brothers were joined at the funeral at Westminster Abbey by their respective wives - as well as two of William's children, Prince George and Princess Charlotte.
 
@@ -1324,7 +1160,6 @@ The brothers were joined at the funeral at Westminster Abbey by their respective
  - [https://www.dailymail.co.uk/news/article-11226967/Viewers-joke-Huw-Edwards-needs-holiday-anchors-coverage-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226967/Viewers-joke-Huw-Edwards-needs-holiday-anchors-coverage-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 10:39:49+00:00
- - tags: None
 
 The presenter, 61, has fronted the BBC's coverage since Queen Elizabeth II's death on Thursday 8 September.
 
@@ -1332,7 +1167,6 @@ The presenter, 61, has fronted the BBC's coverage since Queen Elizabeth II's dea
  - [https://www.dailymail.co.uk/news/article-11227045/Queens-funeral-Channel-Nines-Peter-Overton-mislabels-UK-prime-minister-Liz-Truss.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227045/Queens-funeral-Channel-Nines-Peter-Overton-mislabels-UK-prime-minister-Liz-Truss.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 10:39:44+00:00
- - tags: None
 
 Senior Channel Nine journalists Peter Overton and Tracy Grimshaw were unable to identify Britain's new prime minister Liz Truss as they provided commentary on the Queen's funeral.
 
@@ -1340,7 +1174,6 @@ Senior Channel Nine journalists Peter Overton and Tracy Grimshaw were unable to 
  - [https://www.dailymail.co.uk/news/article-11226643/Biden-arrives-Queen-Elizabeth-IIs-funeral-Westminster-Abbey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226643/Biden-arrives-Queen-Elizabeth-IIs-funeral-Westminster-Abbey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 10:38:43+00:00
- - tags: None
 
 President Joe Biden, wearing a black suit and tie, was seen holding Jill's hand as they walked through the famous church to pay their respects to the monarch.
 
@@ -1348,7 +1181,6 @@ President Joe Biden, wearing a black suit and tie, was seen holding Jill's hand 
  - [https://www.dailymail.co.uk/news/article-11227063/Russia-accuses-Ukraine-LYING-mass-graves-liberated-city-Izyum.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11227063/Russia-accuses-Ukraine-LYING-mass-graves-liberated-city-Izyum.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 10:37:23+00:00
- - tags: None
 
 The Kremlin said Monday that reports mass graves were found in the formerly Russian-controlled city of Izyum in eastern Ukraine were fabrications.
 
@@ -1356,7 +1188,6 @@ The Kremlin said Monday that reports mass graves were found in the formerly Russ
  - [https://www.dailymail.co.uk/news/article-11226953/Queens-funeral-Emotional-Anthony-Albanese-Jodie-Haydon-arrive-Westminster-Abbey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226953/Queens-funeral-Emotional-Anthony-Albanese-Jodie-Haydon-arrive-Westminster-Abbey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 10:28:15+00:00
- - tags: None
 
 Anthony Albanese and his partner Jodie Haydon have arrived at London's Westminister Abbey as the funeral of Queen Elizabeth II gets underway.
 
@@ -1364,7 +1195,6 @@ Anthony Albanese and his partner Jodie Haydon have arrived at London's Westminis
  - [https://www.dailymail.co.uk/news/article-11226699/Pacific-Concepts-El-Camino-Cantina-South-Bank-fire-Brisbane-diners-sneaky-charges.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226699/Pacific-Concepts-El-Camino-Cantina-South-Bank-fire-Brisbane-diners-sneaky-charges.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 10:21:24+00:00
- - tags: None
 
 A Brisbane diner was visiting El Camino Cantina in South Bank last week when they got a rude shock when they spotted a sneaky new detail in the fine print at the bottom of the restaurant menu.
 
@@ -1372,7 +1202,6 @@ A Brisbane diner was visiting El Camino Cantina in South Bank last week when the
  - [https://www.dailymail.co.uk/news/article-11226939/Catholics-set-biggest-faith-group-Northern-Ireland-latest-census-results.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226939/Catholics-set-biggest-faith-group-Northern-Ireland-latest-census-results.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 10:15:55+00:00
- - tags: None
 
 The new data is expected to show Catholics outnumbering Protestants when results of 2021 census are published on Thursday.
 
@@ -1380,7 +1209,6 @@ The new data is expected to show Catholics outnumbering Protestants when results
  - [https://www.dailymail.co.uk/news/article-11226701/Queens-funeral-King-Juan-Carlos-arrives-wife-Sofia-despite-asked-not-attend.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226701/Queens-funeral-King-Juan-Carlos-arrives-wife-Sofia-despite-asked-not-attend.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 10:09:56+00:00
- - tags: None
 
 The former monarch, 84, who currently lives in Abu Dhabi, was reportedly asked not to attend today's state funeral by Spanish prime minister Pedro Sanchéz.
 
@@ -1388,7 +1216,6 @@ The former monarch, 84, who currently lives in Abu Dhabi, was reportedly asked n
  - [https://www.dailymail.co.uk/news/article-11226799/Celebrity-guests-arrive-pay-farewell-Queen.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226799/Celebrity-guests-arrive-pay-farewell-Queen.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 09:43:20+00:00
- - tags: None
 
 Bear Grylls led the celebrities attending Queen Elizabeth II's state funeral at Westminster Abbey on Monday.
 
@@ -1396,7 +1223,6 @@ Bear Grylls led the celebrities attending Queen Elizabeth II's state funeral at 
  - [https://www.dailymail.co.uk/news/article-11226915/Royals-gather-solemn-walk-Queens-coffin.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226915/Royals-gather-solemn-walk-Queens-coffin.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 09:43:07+00:00
- - tags: None
 
 There were cheers and clapping as Prince William, the Princess of Wales and their children George and Charlotte were swept into Parliament Square.
 
@@ -1404,7 +1230,6 @@ There were cheers and clapping as Prince William, the Princess of Wales and thei
  - [https://www.dailymail.co.uk/news/article-11226697/First-Lady-Olena-Zelenska-arrives-Queens-funeral-husband-remains-Ukraine.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226697/First-Lady-Olena-Zelenska-arrives-Queens-funeral-husband-remains-Ukraine.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 09:41:00+00:00
- - tags: None
 
 Olena Zelenska, who is representing Ukraine at the ceremonies on behalf of her husband as he continues to lead his nation in its battle against Russian invaders, was pictured at Westminster
 
@@ -1412,7 +1237,6 @@ Olena Zelenska, who is representing Ukraine at the ceremonies on behalf of her h
  - [https://www.dailymail.co.uk/news/article-11226873/Queen-Elizabeth-funeral-World-leaders-arrive-Westminster-Abbey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226873/Queen-Elizabeth-funeral-World-leaders-arrive-Westminster-Abbey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 09:40:29+00:00
- - tags: None
 
 Joe Biden and wife Jill were chief among more than 500 world leaders, heads of state and diplomats arriving at Westminster Abbey today for the Queen's funeral.
 
@@ -1420,7 +1244,6 @@ Joe Biden and wife Jill were chief among more than 500 world leaders, heads of s
  - [https://www.dailymail.co.uk/news/article-11226773/King-Charles-Queen-Consort-welcome-leaders-including-Joe-Biden-Buckingham-Palace.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226773/King-Charles-Queen-Consort-welcome-leaders-including-Joe-Biden-Buckingham-Palace.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 09:39:37+00:00
- - tags: None
 
 The King enjoyed a warm handshake with Mr Biden and his wife Jill, and also met with French president Emmanuel Macron at the reception for world leaders at Buckingham Palace.
 
@@ -1428,7 +1251,6 @@ The King enjoyed a warm handshake with Mr Biden and his wife Jill, and also met 
  - [https://www.dailymail.co.uk/news/article-11226937/All-six-living-former-PMs-pay-respects-Queen-Westminster-Abbey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226937/All-six-living-former-PMs-pay-respects-Queen-Westminster-Abbey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 09:38:15+00:00
- - tags: None
 
 Boris Johnson, Theresa May, David Cameron, Gordon Brown, Tony Blair and John Major were among those attending the state event.
 
@@ -1436,7 +1258,6 @@ Boris Johnson, Theresa May, David Cameron, Gordon Brown, Tony Blair and John Maj
  - [https://www.dailymail.co.uk/news/article-11226791/Queens-Order-Service-revealed-list-hymns-Buckingham-Palace-releases-image-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226791/Queens-Order-Service-revealed-list-hymns-Buckingham-Palace-releases-image-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 09:33:12+00:00
- - tags: None
 
 Buckingham Palace has now released the order of service in full with the official image for the Queen's funeral, the list of hymns, readings and music.
 
@@ -1444,7 +1265,6 @@ Buckingham Palace has now released the order of service in full with the officia
  - [https://www.dailymail.co.uk/femail/article-11226761/Queen-Consorts-son-Tom-Parker-Bowles-arrives-Westminster-Abbey-ahead-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11226761/Queen-Consorts-son-Tom-Parker-Bowles-arrives-Westminster-Abbey-ahead-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 09:32:33+00:00
- - tags: None
 
 The Queen Consort's son, Tom Parker Bowles, 47, and his younger sister, Laura Lopes, 44, were among early mourners to arrive at Westminster Abbey this morning ahead of the Queen's funeral.
 
@@ -1452,7 +1272,6 @@ The Queen Consort's son, Tom Parker Bowles, 47, and his younger sister, Laura Lo
  - [https://www.dailymail.co.uk/news/article-11226709/Crowds-revellers-hit-town-ahead-Bank-Holiday-Freshers-Week-begins-students.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226709/Crowds-revellers-hit-town-ahead-Bank-Holiday-Freshers-Week-begins-students.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 09:28:00+00:00
- - tags: None
 
 Revellers and students made the most of the unexpected bank holiday with an unusually wild Sunday night as Freshers Week gets underway in University towns and cities across the UK.
 
@@ -1460,7 +1279,6 @@ Revellers and students made the most of the unexpected bank holiday with an unus
  - [https://www.dailymail.co.uk/news/article-11226721/Britains-motorways-ahead-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226721/Britains-motorways-ahead-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 09:22:09+00:00
- - tags: None
 
 Motorways and roads in Liverpool, Manchester, Birmingham and London ahead of the Queen's funeral. Tourists and locals looking to drive around the capital being advised to check before they travel.
 
@@ -1468,7 +1286,6 @@ Motorways and roads in Liverpool, Manchester, Birmingham and London ahead of the
  - [https://www.dailymail.co.uk/news/article-11226783/Politicians-differences-aside-Queens-funeral-service.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226783/Politicians-differences-aside-Queens-funeral-service.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 09:19:02+00:00
- - tags: None
 
 MPs and peers from across parties took their places side-by-side in the congregation for the state event at Westminster Abbey.
 
@@ -1476,7 +1293,6 @@ MPs and peers from across parties took their places side-by-side in the congrega
  - [https://www.dailymail.co.uk/news/article-11226593/Doctor-stole-luxury-goods-Harvey-Nichols-Harrods-suspended-one-year.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226593/Doctor-stole-luxury-goods-Harvey-Nichols-Harrods-suspended-one-year.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 09:17:27+00:00
- - tags: None
 
 Dr Sunita Sharma was arrested after security staff at Harvey Nichols in London found she had cut security tags from the items in a changing room before trying to walk out with them.
 
@@ -1484,7 +1300,6 @@ Dr Sunita Sharma was arrested after security staff at Harvey Nichols in London f
  - [https://www.dailymail.co.uk/news/article-11226823/Beijing-hits-Bidens-remarks-Taiwan-saying-comments-severely-violate-policy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226823/Beijing-hits-Bidens-remarks-Taiwan-saying-comments-severely-violate-policy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 09:08:25+00:00
- - tags: None
 
 Foreign ministry spokesman Mao Ning said that China are 'willing to strive for the prospect of peaceful reunification' but will not tolerate activities aimed at splitting the country,'
 
@@ -1492,7 +1307,6 @@ Foreign ministry spokesman Mao Ning said that China are 'willing to strive for t
  - [https://www.dailymail.co.uk/news/article-11226585/British-man-64-arrested-broadcasting-live-child-sex-abuse-Philippines.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226585/British-man-64-arrested-broadcasting-live-child-sex-abuse-Philippines.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 08:44:50+00:00
- - tags: None
 
 John Crotty, 64, from Cardiff was arrested for running a child sex abuse website.Police detained Crotty when they raided his rented bungalow in Tangub City.
 
@@ -1500,7 +1314,6 @@ John Crotty, 64, from Cardiff was arrested for running a child sex abuse website
  - [https://www.dailymail.co.uk/news/article-11226533/Royal-fan-captures-clouds-Portugal-appearing-Queen-tiara.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226533/Royal-fan-captures-clouds-Portugal-appearing-Queen-tiara.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 08:44:38+00:00
- - tags: None
 
 A Brit abroad in Portugal has shared a picture of a cloud formation which he said resembles a profile of Queen Elizabeth II wearing a tiara (pictured).
 
@@ -1508,7 +1321,6 @@ A Brit abroad in Portugal has shared a picture of a cloud formation which he sai
  - [https://www.dailymail.co.uk/news/article-11226581/Mourners-travel-country-watch-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226581/Mourners-travel-country-watch-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 08:44:04+00:00
- - tags: None
 
 Public viewing areas for the Queen's funeral procession route are already full, City Hall said on Monday morning, with crowds being sent to Hyde Park to watch from there
 
@@ -1516,7 +1328,6 @@ Public viewing areas for the Queen's funeral procession route are already full, 
  - [https://www.dailymail.co.uk/news/article-11226643/Bidens-Beast-gets-stuck-traffic-en-route-Queen-Elizabeth-IIs-funeral-Westminster-Abbey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226643/Bidens-Beast-gets-stuck-traffic-en-route-Queen-Elizabeth-IIs-funeral-Westminster-Abbey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 08:43:19+00:00
- - tags: None
 
 Biden and his wife Jill were seen in the back of the motorcade, known as 'The Beast', as it got stuck in the busy London traffic this morning.
 
@@ -1524,7 +1335,6 @@ Biden and his wife Jill were seen in the back of the motorcade, known as 'The Be
  - [https://www.dailymail.co.uk/news/article-11226573/Ring-steel-guard-world-leaders-Police-form-cordon-ahead-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226573/Ring-steel-guard-world-leaders-Police-form-cordon-ahead-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 08:42:50+00:00
- - tags: None
 
 Police set up a 'ring of steel' around the Royal Hospital Chelsea in the early hours of Monday morning to protect world leaders who are expected to travel by bus to the Queen's funeral.
 
@@ -1532,7 +1342,6 @@ Police set up a 'ring of steel' around the Royal Hospital Chelsea in the early
  - [https://www.dailymail.co.uk/news/article-11226719/Horrifying-moment-trapeze-artist-fails-grasp-husbands-hand.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226719/Horrifying-moment-trapeze-artist-fails-grasp-husbands-hand.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 08:42:39+00:00
- - tags: None
 
 Footage shows the appalling moment when a 26-year-old trapeze artist fell into the circus ring during a new act in front of hundreds of children and their parents
 
@@ -1540,7 +1349,6 @@ Footage shows the appalling moment when a 26-year-old trapeze artist fell into t
  - [https://www.dailymail.co.uk/news/article-11226473/Queens-funeral-Hollie-Hughes-labels-Meghan-Markle-horrible-human-bad-influence-Harry.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226473/Queens-funeral-Hollie-Hughes-labels-Meghan-Markle-horrible-human-bad-influence-Harry.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 08:33:53+00:00
- - tags: None
 
 The NSW Liberal Senator Hollie Hughes didn't hold back as she launched into a blistering attack of the Duke and Duchess of Sussex hours before the Queen's funeral.
 
@@ -1548,7 +1356,6 @@ The NSW Liberal Senator Hollie Hughes didn't hold back as she launched into a bl
  - [https://www.dailymail.co.uk/news/article-11226595/Alleged-Kinahan-clan-money-launderer-arrested-Spain-neighbour-hell.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226595/Alleged-Kinahan-clan-money-launderer-arrested-Spain-neighbour-hell.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 08:33:36+00:00
- - tags: None
 
 UK-born Irish passport holder Johnny Morrissey and his Scots 'moll' Nicola scaled back from a stunning villa to a modest rented £1,040-a-month top-floor flat this summer in an attempt to lay low
 
@@ -1556,7 +1363,6 @@ UK-born Irish passport holder Johnny Morrissey and his Scots 'moll' Nicola scale
  - [https://www.dailymail.co.uk/news/article-11226527/The-Queen-laid-rest-dry-skies-no-rain-forecast-funeral-burial.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226527/The-Queen-laid-rest-dry-skies-no-rain-forecast-funeral-burial.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 08:27:35+00:00
- - tags: None
 
 The Queen will be laid to rest under dry skies.
 Mourners who have lined the London streets will see temperatures as high as 17° as they pay their respects to Her Majesty as she takes her final journey.
@@ -1565,7 +1371,6 @@ Mourners who have lined the London streets will see temperatures as high as 17°
  - [https://www.dailymail.co.uk/news/article-11226627/Queen-Elizabeth-funeral-World-says-goodbye-Majesty.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226627/Queen-Elizabeth-funeral-World-says-goodbye-Majesty.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 08:25:23+00:00
- - tags: None
 
 Up to four billion people around the globe are expected to watch the Queen's funeral today in what the world's media dubbed the 'most-followed event in history' on its front pages today.
 
@@ -1573,7 +1378,6 @@ Up to four billion people around the globe are expected to watch the Queen's fun
  - [https://www.dailymail.co.uk/money/pensions/article-11219845/State-pension-track-rise-10-Truss-keeps-triple-lock-pledge.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/money/pensions/article-11219845/State-pension-track-rise-10-Truss-keeps-triple-lock-pledge.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 08:23:58+00:00
- - tags: None
 
 The triple lock means the state pension is raised by the highest of inflation, wages growth or 2.5%, but it was ditched last year because the pandemic temporarily skewed the earnings figure.
 
@@ -1581,7 +1385,6 @@ The triple lock means the state pension is raised by the highest of inflation, w
  - [https://www.dailymail.co.uk/news/article-11226659/Britains-poorest-save-just-63p-month-Liz-Trusss-vow-reverse-National-Insurance-hike.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226659/Britains-poorest-save-just-63p-month-Liz-Trusss-vow-reverse-National-Insurance-hike.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 08:14:16+00:00
- - tags: None
 
 The Government is expected to axe the 1.25 percentage point rise after just six months on Friday in a move designed to help ease the cost-of-living crisis.
 
@@ -1589,7 +1392,6 @@ The Government is expected to axe the 1.25 percentage point rise after just six 
  - [https://www.dailymail.co.uk/news/article-11226607/Tory-anger-Chinese-vice-president-views-Queen-lying-state.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226607/Tory-anger-Chinese-vice-president-views-Queen-lying-state.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 07:58:00+00:00
- - tags: None
 
 Following an apparent U-turn by the parliamentary authorities, vice-premier Wang Qishan was pictured in Westminster Hall last night ahead of the state funeral.
 
@@ -1597,7 +1399,6 @@ Following an apparent U-turn by the parliamentary authorities, vice-premier Wang
  - [https://www.dailymail.co.uk/news/article-11226203/Ghostwriter-blows-whistle-Australian-academic-cheating-scandal-students-pay-assignments.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226203/Ghostwriter-blows-whistle-Australian-academic-cheating-scandal-students-pay-assignments.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 07:40:46+00:00
- - tags: None
 
 For more than five years a ghostwriter, known as 'The Kenyan', wrote thousands of assignments for cashed-up international students at some of Australia's top universities.
 
@@ -1605,7 +1406,6 @@ For more than five years a ghostwriter, known as 'The Kenyan', wrote thousands o
  - [https://www.dailymail.co.uk/news/article-11226605/First-funeral-guests-arrive-mourn-Queen-state-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226605/First-funeral-guests-arrive-mourn-Queen-state-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 07:40:29+00:00
- - tags: None
 
 The grand oak doors of the UK's most important church - where Her Majesty married Prince Philip and had her congregation - opened at 8am, three hours before the service starts.
 
@@ -1613,7 +1413,6 @@ The grand oak doors of the UK's most important church - where Her Majesty marrie
  - [https://www.dailymail.co.uk/news/article-11226487/Queen-funeral-nation-gets-ready-mourn-beloved-monarch-thousands-camp-out.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226487/Queen-funeral-nation-gets-ready-mourn-beloved-monarch-thousands-camp-out.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 07:39:34+00:00
- - tags: None
 
 Hardy royal fans defied no-camping rules ahead of the Queen's funeral today, as people of all ages set up tents, deck chairs and even a makeshift minibar to grab premium seats for the state funeral.
 
@@ -1621,7 +1420,6 @@ Hardy royal fans defied no-camping rules ahead of the Queen's funeral today, as 
  - [https://www.dailymail.co.uk/news/article-11225945/The-bizarre-post-street-lights-proof-Aussie-anti-vaxxers-lost-plot.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11225945/The-bizarre-post-street-lights-proof-Aussie-anti-vaxxers-lost-plot.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 07:36:02+00:00
- - tags: None
 
 A bizarre post about streetlights has shown just how paranoid and deluded some of Australia's anti-vaxxers have become as the pandemic reaches its end.
 
@@ -1629,7 +1427,6 @@ A bizarre post about streetlights has shown just how paranoid and deluded some o
  - [https://www.dailymail.co.uk/news/article-11226537/Russia-strikes-nuclear-plant-south-Ukraine-damaging-power-plant-buildings.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226537/Russia-strikes-nuclear-plant-south-Ukraine-damaging-power-plant-buildings.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 07:35:40+00:00
- - tags: None
 
 Kremlin troops hit the Pivdennoukrainsk plant in Mykolaiv region, damaging power plant buildings and a nearby hydroelectric power plant and transmission lines.
 
@@ -1637,7 +1434,6 @@ Kremlin troops hit the Pivdennoukrainsk plant in Mykolaiv region, damaging powe
  - [https://www.dailymail.co.uk/femail/real-life/article-11226435/Princess-Wales-reveals-son-Louis-four-struggling-understand-Queens-death.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/real-life/article-11226435/Princess-Wales-reveals-son-Louis-four-struggling-understand-Queens-death.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 07:27:46+00:00
- - tags: None
 
 Speaking to Australia's Governor-General at a reception held for Commonwealth dignitaries ahead of the Queen's funeral today, Kate explained Louis is asking  many questions.
 
@@ -1645,7 +1441,6 @@ Speaking to Australia's Governor-General at a reception held for Commonwealth d
  - [https://www.dailymail.co.uk/news/article-11225641/What-time-Queens-funeral-today.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11225641/What-time-Queens-funeral-today.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 07:16:51+00:00
- - tags: None
 
 The Queen's coffin, which has been walked past by thousands of mourners over the last week, will first be carried in a procession to Westminster Abbey from 10.35am.
 
@@ -1653,7 +1448,6 @@ The Queen's coffin, which has been walked past by thousands of mourners over the
  - [https://www.dailymail.co.uk/femail/article-11226525/King-Queen-Bhutan-paid-respects-Queen.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11226525/King-Queen-Bhutan-paid-respects-Queen.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 07:09:49+00:00
- - tags: None
 
 King Jigme Khesar and Queen Jetsun Pema, dubbed the 'Prince William and Kate Middleton of the Himalayas', made the journey to London ahead of the state funeral today.
 
@@ -1661,7 +1455,6 @@ King Jigme Khesar and Queen Jetsun Pema, dubbed the 'Prince William and Kate Mid
  - [https://www.dailymail.co.uk/news/article-11226129/Australians-buying-home-face-seven-cent-rates.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226129/Australians-buying-home-face-seven-cent-rates.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 07:09:29+00:00
- - tags: None
 
 Three of the four big Australian banks have passed the latest interest rate increase by the RBA to customers in full and the fourth, Westpac, will raise rates from Tuesday.
 
@@ -1669,7 +1462,6 @@ Three of the four big Australian banks have passed the latest interest rate incr
  - [https://www.dailymail.co.uk/news/article-11226391/Bruce-Saunders-allegedly-murdered-left-woodchipper-caught-love-quadrangle.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226391/Bruce-Saunders-allegedly-murdered-left-woodchipper-caught-love-quadrangle.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 07:07:30+00:00
- - tags: None
 
 Bruce Saunders, 54, was allegedly murdered and fed through a woodchipper on a rural property north of Brisbane in 2017, with only his legs remaining. He had unwittingly become caught up in a 'love quadrangle'.
 
@@ -1677,7 +1469,6 @@ Bruce Saunders, 54, was allegedly murdered and fed through a woodchipper on a ru
  - [https://www.dailymail.co.uk/femail/article-11224735/Queen-people-Majesty-chatted-CHIMNEY-SWEEP.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11224735/Queen-people-Majesty-chatted-CHIMNEY-SWEEP.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 07:06:43+00:00
- - tags: None
 
 Kevin Giddings, 61, and his team from Milborrow Chimney Sweeps have looked after the chimneys and fires at royal homes  Speaking to The Argus, his wife Katie paid tribute to the late Queen.
 
@@ -1685,7 +1476,6 @@ Kevin Giddings, 61, and his team from Milborrow Chimney Sweeps have looked after
  - [https://www.dailymail.co.uk/news/article-11226353/How-really-costing-use-tap-credit-card.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226353/How-really-costing-use-tap-credit-card.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 06:50:31+00:00
- - tags: None
 
 Consumers who rely on tap and go payments are being charged higher fees for using their credit card. Diners Club and American Express are the dearest, compared with Mastercard and Visa.
 
@@ -1693,7 +1483,6 @@ Consumers who rely on tap and go payments are being charged higher fees for usin
  - [https://www.dailymail.co.uk/news/article-11226387/Sydney-high-school-kept-OPEN-despite-asbestos-uncovered-site.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226387/Sydney-high-school-kept-OPEN-despite-asbestos-uncovered-site.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 06:42:52+00:00
- - tags: None
 
 Students at a Sydney high school have been 'put in jeopardy' due to what a parliamentary inquiry has been told was an asbestos cover-up at the campus.
 
@@ -1701,7 +1490,6 @@ Students at a Sydney high school have been 'put in jeopardy' due to what a parli
  - [https://www.dailymail.co.uk/news/article-11226481/Chaos-Paddington-station-day-Queens-funeral-trains-Slough-London-cancelled.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226481/Chaos-Paddington-station-day-Queens-funeral-trains-Slough-London-cancelled.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 06:42:32+00:00
- - tags: None
 
 Mourners will face chaos this morning as a damaged overhead wire has meant all trains into London from Slough have been cancelled or delayed until 10am on the day of the Queen's State funeral.
 
@@ -1709,7 +1497,6 @@ Mourners will face chaos this morning as a damaged overhead wire has meant all t
  - [https://www.dailymail.co.uk/news/article-11226523/Mask-wearing-abolished-Sydney-NSW-public-transport.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226523/Mask-wearing-abolished-Sydney-NSW-public-transport.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 06:42:29+00:00
- - tags: None
 
 Commuters in NSW will no longer need to wear a mask on public transport with the often-ignored rule to finally be scrapped.
 
@@ -1717,7 +1504,6 @@ Commuters in NSW will no longer need to wear a mask on public transport with the
  - [https://www.dailymail.co.uk/news/article-11226393/National-Australia-Bank-CEO-rakes-130-cent-raise-5-3MILLION-staff-threaten-strike.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226393/National-Australia-Bank-CEO-rakes-130-cent-raise-5-3MILLION-staff-threaten-strike.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 06:42:01+00:00
- - tags: None
 
 National Australia Bank's CEO Ross McEwan got a 130 per cent pay rise, but he has offered his workers a 'paltry' 3.5 to five per cent. Mr McEwan's salary has risen to $5.3million from $2.3million.
 
@@ -1725,7 +1511,6 @@ National Australia Bank's CEO Ross McEwan got a 130 per cent pay rise, but he h
  - [https://www.dailymail.co.uk/news/article-11226219/Nimbin-Mardi-Grass-attracts-people-protest-cannabis-prohibition.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226219/Nimbin-Mardi-Grass-attracts-people-protest-cannabis-prohibition.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 06:31:34+00:00
- - tags: None
 
 Thousands have flocked to Australia's weed capital wearing eccentric outfits and body paint to celebrate the Mardi Grass festival.
 
@@ -1733,7 +1518,6 @@ Thousands have flocked to Australia's weed capital wearing eccentric outfits and
  - [https://www.dailymail.co.uk/news/melbourne/article-11226463/Children-Adrian-Bashjam-murdered-Samantha-Fraser-Melbourne-taunted-school.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/melbourne/article-11226463/Children-Adrian-Bashjam-murdered-Samantha-Fraser-Melbourne-taunted-school.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 06:27:54+00:00
- - tags: None
 
 The young children of slain Melbourne mum Samantha Fraser were savagely mocked by cruel classmates over their loss.
 
@@ -1741,7 +1525,6 @@ The young children of slain Melbourne mum Samantha Fraser were savagely mocke
  - [https://www.dailymail.co.uk/news/article-11226319/Hurricane-Fiona-bears-Dominican-Republic-ripping-Puerto-Rico.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226319/Hurricane-Fiona-bears-Dominican-Republic-ripping-Puerto-Rico.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 06:21:02+00:00
- - tags: None
 
 Hurricane Fiona is approaching the Dominican Republic having triggered life-threatening floods and mudslides in Puerto Rico throughout Sunday after making landfall.
 
@@ -1749,7 +1532,6 @@ Hurricane Fiona is approaching the Dominican Republic having triggered life-thr
  - [https://www.dailymail.co.uk/news/article-11226375/Funeral-gun-carriage-carry-Queens-coffin-Westminster-Abbey-prepared-Parliament.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226375/Funeral-gun-carriage-carry-Queens-coffin-Westminster-Abbey-prepared-Parliament.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 06:15:53+00:00
- - tags: None
 
 The State Gun carriage will set off at 10.44am, drawn by 98 Royal Navy sailors known as the Sovereign's Guard who will pull on ropes attached to the carriage's front wheels.
 
@@ -1757,7 +1539,6 @@ The State Gun carriage will set off at 10.44am, drawn by 98 Royal Navy sailors k
  - [https://www.dailymail.co.uk/news/article-11226309/Ron-DeSantis-gets-standing-ovation-speech-mentioning-flying-migrants-Marthas-Vineyard.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226309/Ron-DeSantis-gets-standing-ovation-speech-mentioning-flying-migrants-Marthas-Vineyard.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 06:07:50+00:00
- - tags: None
 
 Florida governor Ron DeSantis received the ovation while speaking at rally for Wisconsin gubernatorial nominee Tim Michels in Olathe, Kansas.
 
@@ -1765,7 +1546,6 @@ Florida governor Ron DeSantis received the ovation while speaking at rally for W
  - [https://www.dailymail.co.uk/news/article-11226205/Mini-heatwave-scorches-Queensland-floods-inundate-NSW.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226205/Mini-heatwave-scorches-Queensland-floods-inundate-NSW.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 05:55:35+00:00
- - tags: None
 
 A mini heatwave moving through regional Queensland  raised the mercury to a blistering 40C at Doomadgee and Julia Creek and 35C at Camooweal on Monday.
 
@@ -1773,7 +1553,6 @@ A mini heatwave moving through regional Queensland  raised the mercury to a blis
  - [https://www.dailymail.co.uk/news/article-11225653/Australian-boys-make-deadly-discovery-deep-outback.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11225653/Australian-boys-make-deadly-discovery-deep-outback.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 05:41:27+00:00
- - tags: None
 
 Two young boys made an unexpected discovery near a creek in Noonkanbah Station, 380km east of Broome in northern Western Australia. It had been there for more than 70 years.
 
@@ -1781,7 +1560,6 @@ Two young boys made an unexpected discovery near a creek in Noonkanbah Station, 
  - [https://www.dailymail.co.uk/news/article-11226369/Queens-lying-state-closes-6-30am.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226369/Queens-lying-state-closes-6-30am.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 05:39:12+00:00
- - tags: None
 
 The final people were admitted to the line to see the Queen's coffin at about 10.30pm last night, which gave them time to make it through before the closure at 6.30am this morning.
 
@@ -1789,7 +1567,6 @@ The final people were admitted to the line to see the Queen's coffin at about 10
  - [https://www.dailymail.co.uk/news/article-11226269/Everyone-Victoria-FREE-cash-voucher-warning-run-dumplings.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226269/Everyone-Victoria-FREE-cash-voucher-warning-run-dumplings.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 05:35:31+00:00
- - tags: None
 
 The dining and entertainment vouchers that proved hugely popular during the pandemic in both NSW and Victoria, are back for another economy boosting round, but only in one state.
 
@@ -1797,7 +1574,6 @@ The dining and entertainment vouchers that proved hugely popular during the pand
  - [https://www.dailymail.co.uk/news/article-11226181/Terrifying-moment-giant-gaping-SINKHOLE-swallows-luxury-car-quiet-street.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226181/Terrifying-moment-giant-gaping-SINKHOLE-swallows-luxury-car-quiet-street.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 05:01:37+00:00
- - tags: None
 
 A large sinkhole in central Perth suburb Subiaco swallowed a luxury car and cut residents' water services overnight on Sunday.
 
@@ -1805,7 +1581,6 @@ A large sinkhole in central Perth suburb Subiaco swallowed a luxury car and cut 
  - [https://www.dailymail.co.uk/news/article-11226185/Lawyers-30-migrants-flown-Marthas-Vineyard-Ron-DeSantis-call-CRIMINAL-investigation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226185/Lawyers-30-migrants-flown-Marthas-Vineyard-Ron-DeSantis-call-CRIMINAL-investigation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 04:41:00+00:00
- - tags: None
 
 Attorneys for a group representing 30 migrants flown to Martha's Vineyard last week are calling for state & federal prosecutors  to open criminal investigations.
 
@@ -1813,7 +1588,6 @@ Attorneys for a group representing 30 migrants flown to Martha's Vineyard last w
  - [https://www.dailymail.co.uk/news/article-11226143/Donald-Trump-says-hes-returning-Mar-Lago-time-FBI-raid.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226143/Donald-Trump-says-hes-returning-Mar-Lago-time-FBI-raid.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 04:26:03+00:00
- - tags: None
 
 Former president Donald Trump announced he would be returning to Mar-a-Lago for the first time since the FBI raid in early August.
 
@@ -1821,7 +1595,6 @@ Former president Donald Trump announced he would be returning to Mar-a-Lago for 
  - [https://www.dailymail.co.uk/news/article-11226139/Adrian-James-Bashams-childrens-suffering-killed-wife-Samantha-Fraser.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226139/Adrian-James-Bashams-childrens-suffering-killed-wife-Samantha-Fraser.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 04:25:45+00:00
- - tags: None
 
 Samantha Fraser was killed by husband Adrian James Basham at their Melbourne home in 2018. His three young children now tell of how the shocking murder traumatised them.
 
@@ -1829,7 +1602,6 @@ Samantha Fraser was killed by husband Adrian James Basham at their Melbourne hom
  - [https://www.dailymail.co.uk/news/article-11226119/Barrenjoey-chief-economist-predicts-Australian-house-prices-drop-25-cent.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226119/Barrenjoey-chief-economist-predicts-Australian-house-prices-drop-25-cent.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 04:23:18+00:00
- - tags: None
 
 Jo Masters, the chief economist at Barrenjoey, is forecasting a 25 per cent plunge in Sydney's median house prices as severe RBA monetary policy tightening sparked a recession.
 
@@ -1837,7 +1609,6 @@ Jo Masters, the chief economist at Barrenjoey, is forecasting a 25 per cent plun
  - [https://www.dailymail.co.uk/news/article-11226275/Dan-Andrews-cracks-harder-Victorians-arent-wearing-masks-public-transport.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226275/Dan-Andrews-cracks-harder-Victorians-arent-wearing-masks-public-transport.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 04:21:05+00:00
- - tags: None
 
 More than 100 fines have been issued on Victorian public transport and in excess of 181,000 warnings issued in less than a month as part of a COVID-19 mask compliance crackdown.
 
@@ -1845,7 +1616,6 @@ More than 100 fines have been issued on Victorian public transport and in excess
  - [https://www.dailymail.co.uk/news/article-11225985/Australian-soldier-marching-Queens-funeral-reveals-armys-role-procession.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11225985/Australian-soldier-marching-Queens-funeral-reveals-armys-role-procession.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 04:18:25+00:00
- - tags: None
 
 Australian Army Brigadier Mick Garraway explained the preparation 39 of his comrades went through to prepare for their role in the Queen's funeral, which includes a military procession.
 
@@ -1853,7 +1623,6 @@ Australian Army Brigadier Mick Garraway explained the preparation 39 of his comr
  - [https://www.dailymail.co.uk/news/article-11225681/Australia-using-Aboriginal-seasons-instead-colonial-ones.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11225681/Australia-using-Aboriginal-seasons-instead-colonial-ones.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 04:02:58+00:00
- - tags: None
 
 Melburnians complained online they were still shivering through near-freezing weather despite it being days into spring, prompting claims the six Aboriginal seasons were more accurate.
 
@@ -1861,7 +1630,6 @@ Melburnians complained online they were still shivering through near-freezing we
  - [https://www.dailymail.co.uk/news/article-11226055/Brisbane-gym-attacker-stabbed-Comanchero-associate-accepted-bikie-gang.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226055/Brisbane-gym-attacker-stabbed-Comanchero-associate-accepted-bikie-gang.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 03:55:29+00:00
- - tags: None
 
 Levi Maurice Johnson, 23, was stabbed and left to bleed to death outside a Goodlife gym in Mansfield, Brisbane, about 1pm last Monday.
 
@@ -1869,7 +1637,6 @@ Levi Maurice Johnson, 23, was stabbed and left to bleed to death outside a Good
  - [https://www.dailymail.co.uk/news/article-11226165/Horrifying-moment-daredevil-pilot-dies-crashing-fiery-heap-crowded-airshow.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226165/Horrifying-moment-daredevil-pilot-dies-crashing-fiery-heap-crowded-airshow.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 03:44:04+00:00
- - tags: None
 
 Video shows the terrifying moment a stunt pilot crashed his plane during a Nevada air race in front of thousands of horrified fans. The pilot died in the crash.
 
@@ -1877,7 +1644,6 @@ Video shows the terrifying moment a stunt pilot crashed his plane during a Nevad
  - [https://www.dailymail.co.uk/news/article-11225991/Sydney-Inner-West-council-removes-portrait-Queen-middle-meeting.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11225991/Sydney-Inner-West-council-removes-portrait-Queen-middle-meeting.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 03:39:25+00:00
- - tags: None
 
 Inner West Sydney councillor Tim Stephens removed the portrait and handed it to the general manager, who then discussed it with Mayor Darcy Byrne, who said it was 'redundant'.
 
@@ -1885,7 +1651,6 @@ Inner West Sydney councillor Tim Stephens removed the portrait and handed it to 
  - [https://www.dailymail.co.uk/news/article-11226131/Buxton-ute-smash-Final-funerals-place-Summer-Williams-Antonio-Desisto.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226131/Buxton-ute-smash-Final-funerals-place-Summer-Williams-Antonio-Desisto.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 03:39:01+00:00
- - tags: None
 
 Summer Williams, 14, and Antonio Desisto, 16, will be remembered at funerals on Monday after they were killed along with three school friends in the September 6 crash at Buxton.
 
@@ -1893,7 +1658,6 @@ Summer Williams, 14, and Antonio Desisto, 16, will be remembered at funerals on 
  - [https://www.dailymail.co.uk/news/article-11226189/Queens-funeral-LIVE-Latest-news-state-funeral-held-Westminster-Abbey-London.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226189/Queens-funeral-LIVE-Latest-news-state-funeral-held-Westminster-Abbey-London.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 03:38:24+00:00
- - tags: None
 
 Follow MailOnline's liveblog for updates throughout today as a state funeral is held for the Queen at Westminster Abbey before a committal service at Windsor Castle.
 
@@ -1901,7 +1665,6 @@ Follow MailOnline's liveblog for updates throughout today as a state funeral is 
  - [https://www.dailymail.co.uk/news/article-11225775/Man-killed-Northern-Territory-buggy-crash-near-Nhulunbuy-dad.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11225775/Man-killed-Northern-Territory-buggy-crash-near-Nhulunbuy-dad.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 03:27:44+00:00
- - tags: None
 
 Matthew Hall, 34, was travelling with another man, 35, about 100km south of Gove in East Arnhem, in the Northern Territory, when their buggy rolled just after 11pm on Thursday.
 
@@ -1909,7 +1672,6 @@ Matthew Hall, 34, was travelling with another man, 35, about 100km south of Gove
  - [https://www.dailymail.co.uk/news/article-11226015/Amy-Brown-Public-servant-John-Barilaro-New-York-City-scandal-sacked.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226015/Amy-Brown-Public-servant-John-Barilaro-New-York-City-scandal-sacked.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 03:25:42+00:00
- - tags: None
 
 Amy Brown, the senior New South Wales bureaucrat who appointed former deputy state premier John Barilaro to a plum $500,000 trade job in New York has been sacked.
 
@@ -1917,7 +1679,6 @@ Amy Brown, the senior New South Wales bureaucrat who appointed former deputy sta
  - [https://www.dailymail.co.uk/news/melbourne/article-11226007/Brave-daughter-Samantha-Fraser-killed-Adrian-Basham-stares-murderer-Melbourne.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/melbourne/article-11226007/Brave-daughter-Samantha-Fraser-killed-Adrian-Basham-stares-murderer-Melbourne.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 03:23:12+00:00
- - tags: None
 
 The teenage child of slain Melbourne mum Samantha Fraser has confronted her killer father in court.
 
@@ -1925,7 +1686,6 @@ The teenage child of slain Melbourne mum Samantha Fraser has confronted her kil
  - [https://www.dailymail.co.uk/news/article-11225899/Joe-Biden-says-hell-gain-control-inflation-vows-tackle-cost-living-crisis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11225899/Joe-Biden-says-hell-gain-control-inflation-vows-tackle-cost-living-crisis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 02:38:03+00:00
- - tags: None
 
 President Biden has promised to take 'control' of inflation, currently at 8.3%. Biden  made the assertion during an interview with CBS 60 Minutes on Sunday.
 
@@ -1933,7 +1693,6 @@ President Biden has promised to take 'control' of inflation, currently at 8.3%. 
  - [https://www.dailymail.co.uk/news/article-11225827/Every-Australian-entitled-portrait-QUEEN-paid-government-heres-yours.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11225827/Every-Australian-entitled-portrait-QUEEN-paid-government-heres-yours.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 02:34:32+00:00
- - tags: None
 
 It is not widely known, but all Australian citizens are entitled to get a portrait of the Queen from their federal MP. But time is running out to claim your free photo as MPs are running out.
 
@@ -1941,7 +1700,6 @@ It is not widely known, but all Australian citizens are entitled to get a portra
  - [https://www.dailymail.co.uk/news/article-11225799/Reserve-Bank-boss-Philip-Lowe-embarrassing-maths-blunder-Australian-house-prices.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11225799/Reserve-Bank-boss-Philip-Lowe-embarrassing-maths-blunder-Australian-house-prices.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 02:32:44+00:00
- - tags: None
 
 Reserve Bank Governor Philip Lowe predicted house prices would fall by 10 per cent by 2023. He told a parliamentary hearing prices would still be up by 15 per cent after three years.
 
@@ -1949,7 +1707,6 @@ Reserve Bank Governor Philip Lowe predicted house prices would fall by 10 per ce
  - [https://www.dailymail.co.uk/news/article-11226043/Mark-Latham-splits-wife-22-years-cryptic-comment-ended-unique-circumstances.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11226043/Mark-Latham-splits-wife-22-years-cryptic-comment-ended-unique-circumstances.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 02:32:21+00:00
- - tags: None
 
 One Nation politician Mark Latham has announced he has separated from his wife Janine 'in rather unique circumstances' after 22 years of marriage.
 
@@ -1957,7 +1714,6 @@ One Nation politician Mark Latham has announced he has separated from his wife J
  - [https://www.dailymail.co.uk/news/article-11225637/Public-holiday-mourn-death-Queen-Elizabeth-II-Australians-planning-totally-wasted.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11225637/Public-holiday-mourn-death-Queen-Elizabeth-II-Australians-planning-totally-wasted.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 01:41:03+00:00
- - tags: None
 
 Prime Minister Anthony Albanese called the countrywide day off for Thursday to give Australians time to reflect on Her Majesty's life and legacy - but many will spend it getting drunk.
 
@@ -1965,7 +1721,6 @@ Prime Minister Anthony Albanese called the countrywide day off for Thursday to g
  - [https://www.dailymail.co.uk/news/article-11225639/Coverage-Brownlows-slammed-tiny-detail.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11225639/Coverage-Brownlows-slammed-tiny-detail.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 01:40:15+00:00
- - tags: None
 
 Footy fans have slammed Channel Seven's coverage of the AFL's Brownlow Medal night as being 'inappropriate for children' due to a tiny detail that nearly everyone noticed.
 
@@ -1973,7 +1728,6 @@ Footy fans have slammed Channel Seven's coverage of the AFL's Brownlow Medal nig
  - [https://www.dailymail.co.uk/news/article-11225915/Crowd-claps-family-told-queue-Queen-lying-state.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11225915/Crowd-claps-family-told-queue-Queen-lying-state.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 01:26:29+00:00
- - tags: None
 
 Christine Rogers, 62, and her daughter Sarah, 29, were handed the final two wristbands to see Queen Elizabeth II lying-in-state at around 10.40pm last night.
 
@@ -1981,7 +1735,6 @@ Christine Rogers, 62, and her daughter Sarah, 29, were handed the final two wris
  - [https://www.dailymail.co.uk/news/article-11225769/Shocking-moment-controversial-NYC-bling-pastor-grabs-female-congregant-shoves-pulpit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11225769/Shocking-moment-controversial-NYC-bling-pastor-grabs-female-congregant-shoves-pulpit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 01:26:04+00:00
- - tags: None
 
 Bishop Lamar Whitehead was caught on video Sunday grabbing a woman and pushing her out of the way as he was giving his sermon in Brooklyn on Sunday.
 
@@ -1989,7 +1742,6 @@ Bishop Lamar Whitehead was caught on video Sunday grabbing a woman and pushing h
  - [https://www.dailymail.co.uk/news/article-11225529/Dan-Andrews-renaming-Moorandah-Hospital-Queen-sparks-backlash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11225529/Dan-Andrews-renaming-Moorandah-Hospital-Queen-sparks-backlash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 01:25:02+00:00
- - tags: None
 
 If re-elected in November Victorian Premier Daniel Andrews will rename and rebuild Moorandah Hospital in Melbourne's east as the centrepiece of a $1 billion proposal.
 
@@ -1997,7 +1749,6 @@ If re-elected in November Victorian Premier Daniel Andrews will rename and rebui
  - [https://www.dailymail.co.uk/news/article-11225641/Queens-funeral-guide-historic-day-mourning-unfold.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11225641/Queens-funeral-guide-historic-day-mourning-unfold.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 01:24:40+00:00
- - tags: None
 
 The Queen's coffin, which has been walked past by thousands of mourners over the last week, will first be carried in a procession to Westminster Abbey from 10.35am.
 
@@ -2005,7 +1756,6 @@ The Queen's coffin, which has been walked past by thousands of mourners over the
  - [https://www.dailymail.co.uk/news/article-11225973/Mourners-seen-jumping-walls-lay-flowers-Queen-Green-Park-temporary-closure.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11225973/Mourners-seen-jumping-walls-lay-flowers-Queen-Green-Park-temporary-closure.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 01:14:24+00:00
- - tags: None
 
 Mourners also described how it felt like 'Glastonbury' as they videoed people jumping the wall to lay flowers at the royal park after it was temporarily closed.
 
@@ -2013,7 +1763,6 @@ Mourners also described how it felt like 'Glastonbury' as they videoed people ju
  - [https://www.dailymail.co.uk/news/article-11225963/Top-secret-drone-blocking-technology-deployed-London-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11225963/Top-secret-drone-blocking-technology-deployed-London-Queens-funeral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 01:13:59+00:00
- - tags: None
 
 In what is set to be one of the biggest security operations in British history, Scotland Yard is pulling out all the stops to ensure today's service and procession go off without at hitch.
 
@@ -2021,7 +1770,6 @@ In what is set to be one of the biggest security operations in British history, 
  - [https://www.dailymail.co.uk/news/article-11225861/Explosive-1-2billion-lawsuit-Bed-Bath-Beyonds-CFO-facing-suicide-runs-trouble.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11225861/Explosive-1-2billion-lawsuit-Bed-Bath-Beyonds-CFO-facing-suicide-runs-trouble.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 01:08:24+00:00
- - tags: None
 
 Virginia resident,  Pengcheng Si is suing Bed Bath & Beyond, former company'  investor, Ryan Cohen,  JP Morgan Securities and Gustavo Arnal but a 'conflict of interest' has arisen.
 
@@ -2029,7 +1777,6 @@ Virginia resident,  Pengcheng Si is suing Bed Bath & Beyond, former company'  
  - [https://www.dailymail.co.uk/debate/article-11225781/PETER-HITCHENS-saw-glory-nations-majesty-death-inevitability.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/debate/article-11225781/PETER-HITCHENS-saw-glory-nations-majesty-death-inevitability.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 01:04:13+00:00
- - tags: None
 
 PETER HITCHENS: Here I was, with the chance of passing through Westminster Hall and seeing the coffin of the Queen guarded with the last splendours of our ancient, troubled kingdom.
 
@@ -2037,7 +1784,6 @@ PETER HITCHENS: Here I was, with the chance of passing through Westminster Hall 
  - [https://www.dailymail.co.uk/news/article-11225889/Liz-Truss-tell-world-leaders-countries-need-use-economic-growth-curb-Russia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11225889/Liz-Truss-tell-world-leaders-countries-need-use-economic-growth-curb-Russia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 01:00:13+00:00
- - tags: None
 
 In a speech to the UN General Assembly, the Prime Minister will urge allies to end their reliance on imports of energy and other products from so-called malign actors.
 
@@ -2045,7 +1791,6 @@ In a speech to the UN General Assembly, the Prime Minister will urge allies to e
  - [https://www.dailymail.co.uk/news/article-11225935/Shops-suffer-shortage-black-hats-demand-soars-ahead-Queens-funeral-Beatrice-hit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11225935/Shops-suffer-shortage-black-hats-demand-soars-ahead-Queens-funeral-Beatrice-hit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 00:59:21+00:00
- - tags: None
 
 Princess Beatrice was turned away empty-handed from a top store amid a shortage of black hats in London. Demand soared after the short notice was given of the day of the funeral.
 
@@ -2053,7 +1798,6 @@ Princess Beatrice was turned away empty-handed from a top store amid a shortage 
  - [https://www.dailymail.co.uk/news/article-11225703/Queens-National-Day-Mourning-Fury-NSW-ACT-drivers-hit-FIVE-days-double-demerits.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11225703/Queens-National-Day-Mourning-Fury-NSW-ACT-drivers-hit-FIVE-days-double-demerits.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 00:56:57+00:00
- - tags: None
 
 Ben Fordham questioned whether Australians getting stung with tougher road penalties was what Prime Minister Anthony Albanese had in mind when he announced the day.
 
@@ -2061,7 +1805,6 @@ Ben Fordham questioned whether Australians getting stung with tougher road penal
  - [https://www.dailymail.co.uk/news/article-11225831/P-plater-wheel-crash-killing-five-teenagers-suicide-watch-jail.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11225831/P-plater-wheel-crash-killing-five-teenagers-suicide-watch-jail.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 00:45:39+00:00
- - tags: None
 
 The teenage driver of a ute that crashed killing five of his friends, is on suicide watch in prison as his lawyers wait for a psyche report and urged that an application for his release from jail be expedited.
 
@@ -2069,7 +1812,6 @@ The teenage driver of a ute that crashed killing five of his friends, is on suic
  - [https://www.dailymail.co.uk/news/article-11225649/Dylan-Alcott-TRUTH-moment-Queen-giggle-left-speechless-funeral-invitation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11225649/Dylan-Alcott-TRUTH-moment-Queen-giggle-left-speechless-funeral-invitation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 00:43:24+00:00
- - tags: None
 
 Dylan Alcott, the 2022 Australian of the Year, has spoken movingly about the moment he made Queen Elizabeth laugh in the final months of her life. He is in London for the Queen's funeral on Monday.
 
@@ -2077,7 +1819,6 @@ Dylan Alcott, the 2022 Australian of the Year, has spoken movingly about the mom
  - [https://www.dailymail.co.uk/news/article-11225881/Joe-Biden-vows-DEFEND-Taiwan-China-invades.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11225881/Joe-Biden-vows-DEFEND-Taiwan-China-invades.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 00:42:39+00:00
- - tags: None
 
 President Biden said he would use US soldiers to defend Taiwan if China invaded the island. He also said the COVID-19 pandemic was over, and refused to comment on 2024 reelection plans.
 
@@ -2085,7 +1826,6 @@ President Biden said he would use US soldiers to defend Taiwan if China invaded 
  - [https://www.dailymail.co.uk/news/melbourne/article-11225929/Jasmine-Eveleigh-accused-chopping-boyfriends-penis-pleads-not-guilty-Melbourne-murder.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/melbourne/article-11225929/Jasmine-Eveleigh-accused-chopping-boyfriends-penis-pleads-not-guilty-Melbourne-murder.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 00:37:03+00:00
- - tags: None
 
 A mother-of-four accused of murdering two men, including her boyfriend who was allegedly found with his penis severed, claims she was not responsible for her actions at the time.
 
@@ -2093,7 +1833,6 @@ A mother-of-four accused of murdering two men, including her boyfriend who was a
  - [https://www.dailymail.co.uk/news/article-11225887/Diplomatic-headache-Queens-funeral-planners.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11225887/Diplomatic-headache-Queens-funeral-planners.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 00:33:01+00:00
- - tags: None
 
 Seating more than 500 foreign dignitaries at today's funeral without causing a diplomatic row could be one of the biggest challenges for government officials.
 
@@ -2101,7 +1840,6 @@ Seating more than 500 foreign dignitaries at today's funeral without causing a 
  - [https://www.dailymail.co.uk/news/article-11225885/BBC-power-Queens-funeral-coverage-generators-run-eco-friendly-veggie-oil.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11225885/BBC-power-Queens-funeral-coverage-generators-run-eco-friendly-veggie-oil.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 00:31:45+00:00
- - tags: None
 
 The BBC's massive broadcasting operation at the Queen's funeral will be fuelled by eco-friendly vegetable oil - Hydrotreated Vegetable Oil (HVO).
 
@@ -2109,6 +1847,5 @@ The BBC's massive broadcasting operation at the Queen's funeral will be fuelled 
  - [https://www.dailymail.co.uk/news/article-11225491/Qantas-delays-AFL-stars-Jeff-Brown-Robin-Bishop-Richard-Goyder-preliminary-final-day.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11225491/Qantas-delays-AFL-stars-Jeff-Brown-Robin-Bishop-Richard-Goyder-preliminary-final-day.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-19 00:24:54+00:00
- - tags: None
 
 Three AFL big wigs almost didn't make Saturday's preliminary final because their Qantas flights were delayed because of an 'unusual smell' and baggage issue.

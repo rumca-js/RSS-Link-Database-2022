@@ -1,10 +1,9 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology
+# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
 
 ## ‘PUBG’ creator’s next project is an open source metaverse for everyone
  - [https://www.washingtonpost.com/video-games/2022/09/28/pubg-metaverse-artemis/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/09/28/pubg-metaverse-artemis/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-28 18:09:31+00:00
- - tags: None
 
 "It won’t be PlayerUnknown’s Metaverse, just like it isn’t Tim Berners-Lee’s Internet," said Brendan “PlayerUnknown” Greene. "It has to be owned by everyone."
 
@@ -12,7 +11,6 @@
  - [https://www.washingtonpost.com/technology/2022/09/28/amazon-kindle-scribe-halo-rise/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/28/amazon-kindle-scribe-halo-rise/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-28 15:20:13+00:00
- - tags: None
 
 Amazon's annual fall product launch event centered on making its disparate products work better together — and making surveillance sound helpful.
 
@@ -20,7 +18,6 @@ Amazon's annual fall product launch event centered on making its disparate produ
  - [https://www.washingtonpost.com/video-games/2022/09/28/call-duty-ukraine-war/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/09/28/call-duty-ukraine-war/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-28 11:45:43+00:00
- - tags: None
 
 Game developers at a new studio in Poland aimed at helping develop the popular war sim franchise have embraced those fleeing the Russian invasion.
 
@@ -28,7 +25,6 @@ Game developers at a new studio in Poland aimed at helping develop the popular w
  - [https://www.washingtonpost.com/technology/interactive/2022/artificial-intelligence-images-dall-e/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/interactive/2022/artificial-intelligence-images-dall-e/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-28 08:00:19+00:00
- - tags: None
 
 Since April, DALL-E has triggered an explosion of images generated using artificial intelligence. But the technology is spreading faster than creators can shape norms around its use.
 
@@ -36,7 +32,6 @@ Since April, DALL-E has triggered an explosion of images generated using artific
  - [https://www.washingtonpost.com/technology/2022/09/28/iron-man-jet-suit-gravity/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/28/iron-man-jet-suit-gravity/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-28 07:00:26+00:00
- - tags: None
 
 British human flight company Gravity makes an Iron Man like Jet Suit humans can purchase for a hefty sum
 
@@ -44,6 +39,5 @@ British human flight company Gravity makes an Iron Man like Jet Suit humans can 
  - [https://www.washingtonpost.com/technology/2022/09/28/try-guys-ned-fulmer-wife/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/28/try-guys-ned-fulmer-wife/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-28 04:34:18+00:00
- - tags: None
 
 Fulmer, a founding member of the comedy group that skyrocketed to YouTube fame, had cultivated an image as a doting husband and father.

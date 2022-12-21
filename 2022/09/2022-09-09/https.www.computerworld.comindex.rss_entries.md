@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Will your enterprise app dev teams visit Apple's Dynamic Island?
  - [https://www.computerworld.com/article/3673291/will-your-enterprise-app-dev-teams-visit-apples-dynamic-island.html#tk.rss_all](https://www.computerworld.com/article/3673291/will-your-enterprise-app-dev-teams-visit-apples-dynamic-island.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-09 15:31:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3673270/extended-reality-where-we-are-whats-missing-and-the-problems-ahead.html#tk.rss_all](https://www.computerworld.com/article/3673270/extended-reality-where-we-are-whats-missing-and-the-problems-ahead.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-09 12:35:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -24,7 +22,6 @@
  - [https://www.computerworld.com/article/2487680/20-great-uses-for-an-old-android-device.html#tk.rss_all](https://www.computerworld.com/article/2487680/20-great-uses-for-an-old-android-device.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-09 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

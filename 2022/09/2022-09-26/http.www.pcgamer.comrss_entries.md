@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## This lighthouse survival game will test your base-building skills with tsunamis
  - [https://www.pcgamer.com/this-lighthouse-survival-game-will-test-your-base-building-skills-with-tsunamis](https://www.pcgamer.com/this-lighthouse-survival-game-will-test-your-base-building-skills-with-tsunamis)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 23:06:19+00:00
- - tags: None
 
 Make tough choices as you keep a crew of animal inhabitants healthy and happy in the free prologue of Diluvian Winds.
 
@@ -12,7 +11,6 @@ Make tough choices as you keep a crew of animal inhabitants healthy and happy in
  - [https://www.pcgamer.com/wow-wrath-classic-cold-weather-flying-unlock](https://www.pcgamer.com/wow-wrath-classic-cold-weather-flying-unlock)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 23:01:01+00:00
- - tags: None
 
 Here's when you can take to the skies in Northrend.
 
@@ -20,7 +18,6 @@ Here's when you can take to the skies in Northrend.
  - [https://www.pcgamer.com/nasa-will-redirect-an-asteroid-by-smashing-it-with-a-spacecraft-kerbal-style](https://www.pcgamer.com/nasa-will-redirect-an-asteroid-by-smashing-it-with-a-spacecraft-kerbal-style)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 22:34:05+00:00
- - tags: None
 
 Breathe easy; the asteroid isn't a threat to us.
 
@@ -28,7 +25,6 @@ Breathe easy; the asteroid isn't a threat to us.
  - [https://www.pcgamer.com/a-new-silent-hill-game-just-appeared-on-a-korean-rating-site](https://www.pcgamer.com/a-new-silent-hill-game-just-appeared-on-a-korean-rating-site)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 22:21:42+00:00
- - tags: None
 
 The Silent Hill rumor machine turns over again, with the first appearance of an all-new title.
 
@@ -36,7 +32,6 @@ The Silent Hill rumor machine turns over again, with the first appearance of an 
  - [https://www.pcgamer.com/the-epic-store-just-got-afflicted-with-its-first-nft-game](https://www.pcgamer.com/the-epic-store-just-got-afflicted-with-its-first-nft-game)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 22:07:55+00:00
- - tags: None
 
 We had some nice things to say about Blankos Block Party before we knew just what it was.
 
@@ -44,7 +39,6 @@ We had some nice things to say about Blankos Block Party before we knew just wha
  - [https://www.pcgamer.com/big-darkest-dungeon-2-update-introduces-progression-system-and-hero-memories](https://www.pcgamer.com/big-darkest-dungeon-2-update-introduces-progression-system-and-hero-memories)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 21:32:41+00:00
- - tags: None
 
 The Altar of Hope unlocks new heroes, items, boosts, and memories.
 
@@ -52,7 +46,6 @@ The Altar of Hope unlocks new heroes, items, boosts, and memories.
  - [https://www.pcgamer.com/first-last-of-us-tv-show-trailer-has-clickers-nick-offerman-holding-a-shotgun](https://www.pcgamer.com/first-last-of-us-tv-show-trailer-has-clickers-nick-offerman-holding-a-shotgun)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 20:02:14+00:00
- - tags: None
 
 The interactive prestige TV show comes full circle as a normal prestige TV show.
 
@@ -60,7 +53,6 @@ The interactive prestige TV show comes full circle as a normal prestige TV show.
  - [https://www.pcgamer.com/wow-wrath-classic-zone-levels-wotlk](https://www.pcgamer.com/wow-wrath-classic-zone-levels-wotlk)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 20:00:57+00:00
- - tags: None
 
 What level should you be for each area in Northrend?
 
@@ -68,7 +60,6 @@ What level should you be for each area in Northrend?
  - [https://www.pcgamer.com/ubisoft-ceo-sparks-controversy-by-saying-that-making-games-requires-friction](https://www.pcgamer.com/ubisoft-ceo-sparks-controversy-by-saying-that-making-games-requires-friction)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 19:54:55+00:00
- - tags: None
 
 Perhaps not a great choice of words.
 
@@ -76,7 +67,6 @@ Perhaps not a great choice of words.
  - [https://www.pcgamer.com/atlus-is-suing-fans-for-reviving-its-long-dead-mmo](https://www.pcgamer.com/atlus-is-suing-fans-for-reviving-its-long-dead-mmo)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 19:33:02+00:00
- - tags: None
 
 This could change the face of game preservation if Atlus wins.
 
@@ -84,7 +74,6 @@ This could change the face of game preservation if Atlus wins.
  - [https://www.pcgamer.com/trails-from-zero-is-the-perfect-entry-point-for-falcoms-sprawling-rpg-series](https://www.pcgamer.com/trails-from-zero-is-the-perfect-entry-point-for-falcoms-sprawling-rpg-series)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 18:53:41+00:00
- - tags: None
 
 The tightest, most approachable game in the Trails series is finally out in English.
 
@@ -92,7 +81,6 @@ The tightest, most approachable game in the Trails series is finally out in Engl
  - [https://www.pcgamer.com/e3-is-returning-in-june-2023-with-separate-business-days-and-gamer-days](https://www.pcgamer.com/e3-is-returning-in-june-2023-with-separate-business-days-and-gamer-days)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 18:22:55+00:00
- - tags: None
 
 Dates for the one-time biggest videogame show on Earth, and a new format, have been announced.
 
@@ -100,7 +88,6 @@ Dates for the one-time biggest videogame show on Earth, and a new format, have b
  - [https://www.pcgamer.com/512-audio-tempest-usb-microphone-review](https://www.pcgamer.com/512-audio-tempest-usb-microphone-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 17:26:10+00:00
- - tags: None
 
 Another great-sounding microphone with some not-so-great features.
 
@@ -108,7 +95,6 @@ Another great-sounding microphone with some not-so-great features.
  - [https://www.pcgamer.com/wrath-classic-how-to-get-to-northrend](https://www.pcgamer.com/wrath-classic-how-to-get-to-northrend)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 17:05:09+00:00
- - tags: None
 
 There are two starting zones to choose from, so here's how to get to each.
 
@@ -116,7 +102,6 @@ There are two starting zones to choose from, so here's how to get to each.
  - [https://www.pcgamer.com/wow-wrath-classic-leveling-guide](https://www.pcgamer.com/wow-wrath-classic-leveling-guide)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 17:00:25+00:00
- - tags: None
 
 It's time to start your adventure in Northrend.
 
@@ -124,7 +109,6 @@ It's time to start your adventure in Northrend.
  - [https://www.pcgamer.com/dlss-3-on-older-GPUs](https://www.pcgamer.com/dlss-3-on-older-GPUs)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 16:08:38+00:00
- - tags: None
 
 Standard DLSS isn't going anywhere.
 
@@ -132,7 +116,6 @@ Standard DLSS isn't going anywhere.
  - [https://www.pcgamer.com/nvidia-40-series-gpus-will-be-compatible-with-current-psus-corsair-confirms](https://www.pcgamer.com/nvidia-40-series-gpus-will-be-compatible-with-current-psus-corsair-confirms)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 15:57:24+00:00
- - tags: None
 
 Looks like you won't need to replace your PSU yet.
 
@@ -140,7 +123,6 @@ Looks like you won't need to replace your PSU yet.
  - [https://www.pcgamer.com/wow-classic-races-vanilla-horde-alliance](https://www.pcgamer.com/wow-classic-races-vanilla-horde-alliance)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 15:32:18+00:00
- - tags: None
 
 What race will you play in Wrath Classic?
 
@@ -148,7 +130,6 @@ What race will you play in Wrath Classic?
  - [https://www.pcgamer.com/meet-the-crime-scene-cleaning-team-of-serial-cleaners](https://www.pcgamer.com/meet-the-crime-scene-cleaning-team-of-serial-cleaners)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 15:30:00+00:00
- - tags: None
 
 There are many ways to remove evidence—from hacking computers to hacking up bodies.
 
@@ -156,7 +137,6 @@ There are many ways to remove evidence—from hacking computers to hacking up bo
  - [https://www.pcgamer.com/grounded-release-date-1-0](https://www.pcgamer.com/grounded-release-date-1-0)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 15:11:34+00:00
- - tags: None
 
 Brave the perils of your backyard.
 
@@ -164,7 +144,6 @@ Brave the perils of your backyard.
  - [https://www.pcgamer.com/grounded-berry-leather-guide](https://www.pcgamer.com/grounded-berry-leather-guide)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 14:16:10+00:00
- - tags: None
 
 You need this resource for certain tools and armor sets.
 
@@ -172,7 +151,6 @@ You need this resource for certain tools and armor sets.
  - [https://www.pcgamer.com/uks-former-labour-leader-snapped-playing-thatcher-slaying-doom-mod](https://www.pcgamer.com/uks-former-labour-leader-snapped-playing-thatcher-slaying-doom-mod)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 13:52:43+00:00
- - tags: None
 
 Thatcher's Techbase sees the former UK PM return from the dead as a cyberdemon.
 
@@ -180,7 +158,6 @@ Thatcher's Techbase sees the former UK PM return from the dead as a cyberdemon.
  - [https://www.pcgamer.com/epic-games-store-adds-a-key-feature-at-last](https://www.pcgamer.com/epic-games-store-adds-a-key-feature-at-last)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 13:38:46+00:00
- - tags: None
 
 Only took four years.
 
@@ -188,7 +165,6 @@ Only took four years.
  - [https://www.pcgamer.com/grounded-review](https://www.pcgamer.com/grounded-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 13:00:21+00:00
- - tags: None
 
 Obsidian's survival romp is one of the best.
 
@@ -196,7 +172,6 @@ Obsidian's survival romp is one of the best.
  - [https://www.pcgamer.com/amd-ryzen-7-7700x-review-benchmarks](https://www.pcgamer.com/amd-ryzen-7-7700x-review-benchmarks)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 12:59:30+00:00
- - tags: None
 
 Zen 4's least interesting chip might just surprise you.
 
@@ -204,7 +179,6 @@ Zen 4's least interesting chip might just surprise you.
  - [https://www.pcgamer.com/amd-ryzen-9-7950x-review-benchmarks-performance](https://www.pcgamer.com/amd-ryzen-9-7950x-review-benchmarks-performance)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 12:59:06+00:00
- - tags: None
 
 Zen 4 and the art of CPU maintenance.
 
@@ -212,7 +186,6 @@ Zen 4 and the art of CPU maintenance.
  - [https://www.pcgamer.com/best-rgb-led-lighting-kit](https://www.pcgamer.com/best-rgb-led-lighting-kit)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 12:50:25+00:00
- - tags: None
 
 Light up your world with the best RGB lighting kits.
 
@@ -220,7 +193,6 @@ Light up your world with the best RGB lighting kits.
  - [https://www.pcgamer.com/genshin-impact-concert-2022](https://www.pcgamer.com/genshin-impact-concert-2022)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 12:17:10+00:00
- - tags: None
 
 Celebrate two years of Genshin with some musical memories.
 
@@ -228,7 +200,6 @@ Celebrate two years of Genshin with some musical memories.
  - [https://www.pcgamer.com/hokko-life-review](https://www.pcgamer.com/hokko-life-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 12:00:00+00:00
- - tags: None
 
 Hokko Life's newest neighbours might be Tom Nook's lawyers.
 
@@ -236,7 +207,6 @@ Hokko Life's newest neighbours might be Tom Nook's lawyers.
  - [https://www.pcgamer.com/ultima-online-has-a-special-shield-if-youve-been-playing-for-25-years](https://www.pcgamer.com/ultima-online-has-a-special-shield-if-youve-been-playing-for-25-years)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 11:40:30+00:00
- - tags: None
 
 A quarter of a century.
 
@@ -244,7 +214,6 @@ A quarter of a century.
  - [https://www.pcgamer.com/build-guide-the-extreme-gaming-pc](https://www.pcgamer.com/build-guide-the-extreme-gaming-pc)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 11:06:00+00:00
- - tags: None
 
 Experience no-limit PC gaming with an extreme gaming PC build.
 
@@ -252,7 +221,6 @@ Experience no-limit PC gaming with an extreme gaming PC build.
  - [https://www.pcgamer.com/interpol-issues-red-notice-for-terra-co-creator-behind-dollar40-billion-crypto-crash](https://www.pcgamer.com/interpol-issues-red-notice-for-terra-co-creator-behind-dollar40-billion-crypto-crash)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 11:01:40+00:00
- - tags: None
 
 Do Kwon is reportedly holed-up somewhere in Singapore.
 
@@ -260,7 +228,6 @@ Do Kwon is reportedly holed-up somewhere in Singapore.
  - [https://www.pcgamer.com/todays-wordle-464-answer-hint](https://www.pcgamer.com/todays-wordle-464-answer-hint)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 07:01:28+00:00
- - tags: None
 
 Wordle today: The solution and a hint for Monday's puzzle.
 
@@ -268,7 +235,6 @@ Wordle today: The solution and a hint for Monday's puzzle.
  - [https://www.pcgamer.com/the-av1-codec-is-coming-and-its-a-big-deal](https://www.pcgamer.com/the-av1-codec-is-coming-and-its-a-big-deal)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 06:17:40+00:00
- - tags: None
 
 It's royalty free with wide industry support, and it delivers lower bitrates or higher quality. What's not to like?
 
@@ -276,7 +242,6 @@ It's royalty free with wide industry support, and it delivers lower bitrates or 
  - [https://www.pcgamer.com/google-play-for-pc-beta-brings-your-android-games-to-the-big-screen](https://www.pcgamer.com/google-play-for-pc-beta-brings-your-android-games-to-the-big-screen)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 06:17:18+00:00
- - tags: None
 
 The beta is currently running for those in Australia, Hong Kong, South Korea, Taiwan, and Thailand.
 
@@ -284,7 +249,6 @@ The beta is currently running for those in Australia, Hong Kong, South Korea, Ta
  - [https://www.pcgamer.com/onexplayers-new-amd-6800u-powered-handheld-is-up-for-preorder](https://www.pcgamer.com/onexplayers-new-amd-6800u-powered-handheld-is-up-for-preorder)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 05:19:30+00:00
- - tags: None
 
 And there's discounts to be had for the early birds.
 
@@ -292,7 +256,6 @@ And there's discounts to be had for the early birds.
  - [https://www.pcgamer.com/the-nier-automata-anime-has-a-trailer-and-release-date-will-be-changing-things](https://www.pcgamer.com/the-nier-automata-anime-has-a-trailer-and-release-date-will-be-changing-things)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 04:25:51+00:00
- - tags: None
 
 "It's about to start, isn't it?"
 
@@ -300,7 +263,6 @@ And there's discounts to be had for the early birds.
  - [https://www.pcgamer.com/trombone-champ-looks-next-level-with-this-vr-mod](https://www.pcgamer.com/trombone-champ-looks-next-level-with-this-vr-mod)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 04:22:56+00:00
- - tags: None
 
 We can't wait to try blowing our horn in VR.
 
@@ -308,7 +270,6 @@ We can't wait to try blowing our horn in VR.
  - [https://www.pcgamer.com/get-ready-to-kick-a-cultist-off-a-cliff-in-this-retro-fps](https://www.pcgamer.com/get-ready-to-kick-a-cultist-off-a-cliff-in-this-retro-fps)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 02:35:53+00:00
- - tags: None
 
 Cultic: Chapter One will be out next month.
 
@@ -316,7 +277,6 @@ Cultic: Chapter One will be out next month.
  - [https://www.pcgamer.com/five-new-steam-games-you-probably-missed-september-26-2022](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-september-26-2022)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 01:44:55+00:00
- - tags: None
 
 Sorting through every new game on Steam so you don't have to.
 
@@ -324,6 +284,5 @@ Sorting through every new game on Steam so you don't have to.
  - [https://www.pcgamer.com/the-dandd-people-sent-a-twenty-sided-die-to-space-and-it-rolled-a-20](https://www.pcgamer.com/the-dandd-people-sent-a-twenty-sided-die-to-space-and-it-rolled-a-20)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-26 00:02:30+00:00
- - tags: None
 
 Then they set a two-hour video of that to chill beats.

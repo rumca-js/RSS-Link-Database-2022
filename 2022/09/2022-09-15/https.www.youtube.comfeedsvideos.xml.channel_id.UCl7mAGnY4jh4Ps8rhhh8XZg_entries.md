@@ -1,10 +1,9 @@
-# Source Serpentza, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCl7mAGnY4jh4Ps8rhhh8XZg
+# Source Serpentza, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCl7mAGnY4jh4Ps8rhhh8XZg, Source language: en-US
 
 ## China is painting Mountains Green to fool Environmentalists - No, Really
  - [https://www.youtube.com/watch?v=Cvc7VymDa4c](https://www.youtube.com/watch?v=Cvc7VymDa4c)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCl7mAGnY4jh4Ps8rhhh8XZg
  - date published: 2022-09-15 19:51:48+00:00
- - tags: None
 
 Sign up to Morning Brew for free today https://morningbrewdaily.com/serpentza
 Sponsored by Morning Brew

@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## 12 upcoming games without names that we're excited about
  - [https://www.pcgamer.com/12-upcoming-games-without-names-that-were-excited-about](https://www.pcgamer.com/12-upcoming-games-without-names-that-were-excited-about)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 23:23:21+00:00
- - tags: None
 
 Twelve games we know exist—we just haven’t been properly introduced to them yet.
 
@@ -12,7 +11,6 @@ Twelve games we know exist—we just haven’t been properly introduced to them 
  - [https://www.pcgamer.com/best-cyberpunk-2077-mods](https://www.pcgamer.com/best-cyberpunk-2077-mods)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 22:56:56+00:00
- - tags: None
 
 The best Cyberpunk 2077 mods make cars fly, make motorcycles faster, give you drone companions, and more.
 
@@ -20,7 +18,6 @@ The best Cyberpunk 2077 mods make cars fly, make motorcycles faster, give you dr
  - [https://www.pcgamer.com/hunt-stalker-beetle-sticky-bomb](https://www.pcgamer.com/hunt-stalker-beetle-sticky-bomb)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 22:10:23+00:00
- - tags: None
 
 The new Stalker Beetle meta is already blowing up on the Hunt test server.
 
@@ -28,7 +25,6 @@ The new Stalker Beetle meta is already blowing up on the Hunt test server.
  - [https://www.pcgamer.com/former-ebay-exec-who-harassed-and-spied-on-bloggers-is-going-to-prison](https://www.pcgamer.com/former-ebay-exec-who-harassed-and-spied-on-bloggers-is-going-to-prison)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 21:16:00+00:00
- - tags: None
 
 Usually corporate malfeasance isn't this on the nose.
 
@@ -36,7 +32,6 @@ Usually corporate malfeasance isn't this on the nose.
  - [https://www.pcgamer.com/hyper-demon-review](https://www.pcgamer.com/hyper-demon-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 20:52:24+00:00
- - tags: None
 
 A Hyper Demon appeared to them, and they were terrified.
 
@@ -44,7 +39,6 @@ A Hyper Demon appeared to them, and they were terrified.
  - [https://www.pcgamer.com/cyberpunk-2077-is-now-one-of-the-most-played-games-on-steam-deck-too](https://www.pcgamer.com/cyberpunk-2077-is-now-one-of-the-most-played-games-on-steam-deck-too)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 20:05:41+00:00
- - tags: None
 
 Steam Deck users are spending a lot of time in Night City.
 
@@ -52,7 +46,6 @@ Steam Deck users are spending a lot of time in Night City.
  - [https://www.pcgamer.com/blizzard-is-trying-to-get-more-lgbtq-players-in-the-overwatch-league](https://www.pcgamer.com/blizzard-is-trying-to-get-more-lgbtq-players-in-the-overwatch-league)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 19:41:44+00:00
- - tags: None
 
 Registration for the Challengers Cup tournament starts now.
 
@@ -60,7 +53,6 @@ Registration for the Challengers Cup tournament starts now.
  - [https://www.pcgamer.com/isonzo-review](https://www.pcgamer.com/isonzo-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 19:40:23+00:00
- - tags: None
 
 A gorgeous, accessible class-based shooter that's a bit too stingy with its fun.
 
@@ -68,7 +60,6 @@ A gorgeous, accessible class-based shooter that's a bit too stingy with its fun.
  - [https://www.pcgamer.com/excuse-me-skyrim-on-switch-costs-how-much](https://www.pcgamer.com/excuse-me-skyrim-on-switch-costs-how-much)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 19:32:25+00:00
- - tags: None
 
 It's the autumn of 2011 and I'm paying $60 for Skyrim. It's the Autumn of 2022 and I'm paying $70 for Skyrim.
 
@@ -76,7 +67,6 @@ It's the autumn of 2011 and I'm paying $60 for Skyrim. It's the Autumn of 2022 a
  - [https://www.pcgamer.com/the-excavation-of-hobs-barrow-review](https://www.pcgamer.com/the-excavation-of-hobs-barrow-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 19:26:01+00:00
- - tags: None
 
 In The Excavation of Hob’s Barrow, you’ll dig up more than just secrets.
 
@@ -84,7 +74,6 @@ In The Excavation of Hob’s Barrow, you’ll dig up more than just secrets.
  - [https://www.pcgamer.com/cyberpunk-2077-car-insurance-mod-wants-you-to-check-yourself-before-you-wreck-everyone-else](https://www.pcgamer.com/cyberpunk-2077-car-insurance-mod-wants-you-to-check-yourself-before-you-wreck-everyone-else)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 18:56:56+00:00
- - tags: None
 
 It makes sense that in the dystopian future, automobile insurance companies can fine you automatically.
 
@@ -92,7 +81,6 @@ It makes sense that in the dystopian future, automobile insurance companies can 
  - [https://www.pcgamer.com/the-top-100-pc-games-2022](https://www.pcgamer.com/the-top-100-pc-games-2022)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 18:30:03+00:00
- - tags: None
 
 PC Gamer's annual list of the 100 games you should be playing today.
 
@@ -100,7 +88,6 @@ PC Gamer's annual list of the 100 games you should be playing today.
  - [https://www.pcgamer.com/shenmue-fans-struck-by-deja-vu-as-anime-series-cancelled](https://www.pcgamer.com/shenmue-fans-struck-by-deja-vu-as-anime-series-cancelled)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 17:09:45+00:00
- - tags: None
 
 The curse of Shenmue is back.
 
@@ -108,7 +95,6 @@ The curse of Shenmue is back.
  - [https://www.pcgamer.com/rapper-t-pain-takes-aim-at-gamers-who-harass-devs-fcking-chillout-its-a-fcking-game-my-dude](https://www.pcgamer.com/rapper-t-pain-takes-aim-at-gamers-who-harass-devs-fcking-chillout-its-a-fcking-game-my-dude)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 17:03:20+00:00
- - tags: None
 
 He's right.
 
@@ -116,7 +102,6 @@ He's right.
  - [https://www.pcgamer.com/brewing-beer-you-cant-drink-is-a-special-form-of-simulator-self-torture](https://www.pcgamer.com/brewing-beer-you-cant-drink-is-a-special-form-of-simulator-self-torture)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 16:29:32+00:00
- - tags: None
 
 Brewmaster quenches my thirst for food simulators.
 
@@ -124,7 +109,6 @@ Brewmaster quenches my thirst for food simulators.
  - [https://www.pcgamer.com/sonic-frontiers-feels-like-an-incoherent-mess-and-a-boring-one-at-that](https://www.pcgamer.com/sonic-frontiers-feels-like-an-incoherent-mess-and-a-boring-one-at-that)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 16:25:27+00:00
- - tags: None
 
 I'm still warming up to the blue blur's latest endeavour.
 
@@ -132,7 +116,6 @@ I'm still warming up to the blue blur's latest endeavour.
  - [https://www.pcgamer.com/bruce-willis-sells-his-likeness-to-a-firm-so-his-digital-twin-can-star-in-movies-and-commercials](https://www.pcgamer.com/bruce-willis-sells-his-likeness-to-a-firm-so-his-digital-twin-can-star-in-movies-and-commercials)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 16:21:56+00:00
- - tags: None
 
 DeepCake's tech allows actors to star in movies without leaving their homes.
 
@@ -140,7 +123,6 @@ DeepCake's tech allows actors to star in movies without leaving their homes.
  - [https://www.pcgamer.com/ubisoft-announces-new-shooter-that-looks-like-anime-destiny](https://www.pcgamer.com/ubisoft-announces-new-shooter-that-looks-like-anime-destiny)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 16:17:20+00:00
- - tags: None
 
 The game apparently 'explores a new concept of session-based co-op shooter'.
 
@@ -148,7 +130,6 @@ The game apparently 'explores a new concept of session-based co-op shooter'.
  - [https://www.pcgamer.com/activision-slams-cod-cheatmakers-with-racketeering-charges](https://www.pcgamer.com/activision-slams-cod-cheatmakers-with-racketeering-charges)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 15:36:33+00:00
- - tags: None
 
 It's an all-out assault on one of the biggest COD cheat companies.
 
@@ -156,7 +137,6 @@ It's an all-out assault on one of the biggest COD cheat companies.
  - [https://www.pcgamer.com/datamining-suggests-mark-hamill-will-voice-the-joker-in-multiversus](https://www.pcgamer.com/datamining-suggests-mark-hamill-will-voice-the-joker-in-multiversus)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 15:03:36+00:00
- - tags: None
 
 This is no joke-r.
 
@@ -164,7 +144,6 @@ This is no joke-r.
  - [https://www.pcgamer.com/pathfinder-wrath-of-the-righteous-enhanced-edition-adds-controller-support-and-a-surprisingly-good-photo-mode](https://www.pcgamer.com/pathfinder-wrath-of-the-righteous-enhanced-edition-adds-controller-support-and-a-surprisingly-good-photo-mode)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 14:52:25+00:00
- - tags: None
 
 The Enhanced Edition upgrade is available now and free.
 
@@ -172,7 +151,6 @@ The Enhanced Edition upgrade is available now and free.
  - [https://www.pcgamer.com/best-usb-wi-fi-adapter](https://www.pcgamer.com/best-usb-wi-fi-adapter)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 14:05:50+00:00
- - tags: None
 
 Keep a solid connection with one of the best USB Wi-Fi adapters.
 
@@ -180,7 +158,6 @@ Keep a solid connection with one of the best USB Wi-Fi adapters.
  - [https://www.pcgamer.com/best-wireless-gaming-mouse](https://www.pcgamer.com/best-wireless-gaming-mouse)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 13:56:40+00:00
- - tags: None
 
 Embrace that untethered feeling with the best wireless gaming mouse in 2022.
 
@@ -188,7 +165,6 @@ Embrace that untethered feeling with the best wireless gaming mouse in 2022.
  - [https://www.pcgamer.com/hyenas-could-have-real-potential-if-it-wasnt-knee-deep-in-metacringe](https://www.pcgamer.com/hyenas-could-have-real-potential-if-it-wasnt-knee-deep-in-metacringe)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 13:16:34+00:00
- - tags: None
 
 Interesting concepts are mired by a desire to point and laugh at itself a little too hard.
 
@@ -196,7 +172,6 @@ Interesting concepts are mired by a desire to point and laugh at itself a little
  - [https://www.pcgamer.com/i-cant-tell-if-open-world-roguelites-are-good-because-ravenbounds-combat-isnt](https://www.pcgamer.com/i-cant-tell-if-open-world-roguelites-are-good-because-ravenbounds-combat-isnt)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 13:02:27+00:00
- - tags: None
 
 My first hands-on with the unconventional roguelite was less inspiring than I'd hoped.
 
@@ -204,7 +179,6 @@ My first hands-on with the unconventional roguelite was less inspiring than I'd 
  - [https://www.pcgamer.com/tom-nook-has-nothing-on-scrooge-mcduck-disney-dreamlight-valleys-nastiest-villain](https://www.pcgamer.com/tom-nook-has-nothing-on-scrooge-mcduck-disney-dreamlight-valleys-nastiest-villain)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 12:50:10+00:00
- - tags: None
 
 This eccentric duck would double cross you for gems in a hot second.
 
@@ -212,7 +186,6 @@ This eccentric duck would double cross you for gems in a hot second.
  - [https://www.pcgamer.com/the-destiny-2-streamer-who-found-the-best-use-for-stadia-is-now-hunting-for-a-replacement-for-when-it-closes](https://www.pcgamer.com/the-destiny-2-streamer-who-found-the-best-use-for-stadia-is-now-hunting-for-a-replacement-for-when-it-closes)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 12:18:15+00:00
- - tags: None
 
 Luckstruck9 is looking for post-Stadia lifeboats.
 
@@ -220,7 +193,6 @@ Luckstruck9 is looking for post-Stadia lifeboats.
  - [https://www.pcgamer.com/third-party-rtx-4090-gpu-prices](https://www.pcgamer.com/third-party-rtx-4090-gpu-prices)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 11:46:34+00:00
- - tags: None
 
 I dread to think how much they'll cost once resellers get their hands on them.
 
@@ -228,7 +200,6 @@ I dread to think how much they'll cost once resellers get their hands on them.
  - [https://www.pcgamer.com/flintlock-the-siege-of-dawn-wants-to-be-a-more-approachable-cinematic-soulslike](https://www.pcgamer.com/flintlock-the-siege-of-dawn-wants-to-be-a-more-approachable-cinematic-soulslike)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 11:30:49+00:00
- - tags: None
 
 The Ashen developer says it's somewhere between Dark Souls and God of War
 
@@ -236,7 +207,6 @@ The Ashen developer says it's somewhere between Dark Souls and God of War
  - [https://www.pcgamer.com/meta-ai-video-generator-announcement](https://www.pcgamer.com/meta-ai-video-generator-announcement)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 11:17:16+00:00
- - tags: None
 
 Meta's giving us more efficient video generation to bring motion to latent space.
 
@@ -244,7 +214,6 @@ Meta's giving us more efficient video generation to bring motion to latent space
  - [https://www.pcgamer.com/todays-wordle-468-answer-hint](https://www.pcgamer.com/todays-wordle-468-answer-hint)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 07:01:28+00:00
- - tags: None
 
 Wordle today: The solution and a hint for Friday's puzzle.
 
@@ -252,7 +221,6 @@ Wordle today: The solution and a hint for Friday's puzzle.
  - [https://www.pcgamer.com/get-4x-classic-master-of-magic-free-for-a-limited-time](https://www.pcgamer.com/get-4x-classic-master-of-magic-free-for-a-limited-time)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 04:55:16+00:00
- - tags: None
 
 And the remake will be out in December.
 
@@ -260,7 +228,6 @@ And the remake will be out in December.
  - [https://www.pcgamer.com/earn-exclusive-rewards-by-playing-40k-card-game-warpforge-in-alpha](https://www.pcgamer.com/earn-exclusive-rewards-by-playing-40k-card-game-warpforge-in-alpha)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 03:45:00+00:00
- - tags: None
 
 Orks and space marines will be playable in Steam's festival of demos.
 
@@ -268,7 +235,6 @@ Orks and space marines will be playable in Steam's festival of demos.
  - [https://www.pcgamer.com/this-streamer-is-playing-jump-king-except-every-wrong-move-drops-him-into-a-dunk-tank](https://www.pcgamer.com/this-streamer-is-playing-jump-king-except-every-wrong-move-drops-him-into-a-dunk-tank)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 01:57:07+00:00
- - tags: None
 
 The punishing platformer is much more punishing when the stakes are this high.
 
@@ -276,7 +242,6 @@ The punishing platformer is much more punishing when the stakes are this high.
  - [https://www.pcgamer.com/a-creepshow-game-is-coming-from-the-team-behind-the-dread-x-collections](https://www.pcgamer.com/a-creepshow-game-is-coming-from-the-team-behind-the-dread-x-collections)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 00:15:50+00:00
- - tags: None
 
 The collection will hit in 2024.
 
@@ -284,6 +249,5 @@ The collection will hit in 2024.
  - [https://www.pcgamer.com/stadia-game-developers-had-no-idea-google-was-killing-stadia](https://www.pcgamer.com/stadia-game-developers-had-no-idea-google-was-killing-stadia)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 00:11:58+00:00
- - tags: None
 
 Here's how the games industry is reacting to the news that Stadia is going away.

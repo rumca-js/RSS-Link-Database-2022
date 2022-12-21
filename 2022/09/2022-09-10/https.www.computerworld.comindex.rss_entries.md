@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## It's time to quit quitting on the quiet quitters
  - [https://www.computerworld.com/article/3673096/its-time-to-quit-quitting-on-the-quiet-quitters.html#tk.rss_all](https://www.computerworld.com/article/3673096/its-time-to-quit-quitting-on-the-quiet-quitters.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-10 11:30:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

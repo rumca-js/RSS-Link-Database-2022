@@ -1,10 +1,9 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml
+# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
 
 ## US Open: Carlos Alcaraz meets Casper Ruud in final as world number one spot to be decided
  - [https://www.bbc.co.uk/sport/tennis/62858080?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/tennis/62858080?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 23:35:23+00:00
- - tags: None
 
 Spain's Carlos Alcaraz and Norway's Casper Ruud meet for the US Open title and the men's world number one ranking in Sunday's final.
 
@@ -12,7 +11,6 @@ Spain's Carlos Alcaraz and Norway's Casper Ruud meet for the US Open title and t
  - [https://www.bbc.co.uk/news/world-middle-east-62821763?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-middle-east-62821763?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 23:27:17+00:00
- - tags: None
 
 One of two lesbians sentenced to death in Iran had spoken to the BBC about her hopes for the future.
 
@@ -20,7 +18,6 @@ One of two lesbians sentenced to death in Iran had spoken to the BBC about her h
  - [https://www.bbc.co.uk/news/world-us-canada-62819799?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-62819799?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 23:24:16+00:00
- - tags: None
 
 Expect unity on Ukraine and China but there's one worrying point of tension between the UK and US.
 
@@ -28,7 +25,6 @@ Expect unity on Ukraine and China but there's one worrying point of tension betw
  - [https://www.bbc.co.uk/news/uk-politics-62866447?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-62866447?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 23:03:12+00:00
- - tags: None
 
 In the coming days, the new head of state, the King, and the PM will visit Edinburgh, Belfast and Cardiff.
 
@@ -36,7 +32,6 @@ In the coming days, the new head of state, the King, and the PM will visit Edinb
  - [https://www.bbc.co.uk/sport/cricket/62865416?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/62865416?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 22:32:56+00:00
- - tags: None
 
 England race to an emphatic nine-wicket victory with 42 balls to spare in the first T20 international against India.
 
@@ -44,7 +39,6 @@ England race to an emphatic nine-wicket victory with 42 balls to spare in the fi
  - [https://www.bbc.co.uk/news/uk-62866245?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62866245?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 20:47:38+00:00
- - tags: None
 
 What messages were sent by Prince William and Catherine, Prince Harry and Meghan, appearing together?
 
@@ -52,7 +46,6 @@ What messages were sent by Prince William and Catherine, Prince Harry and Meghan
  - [https://www.bbc.co.uk/news/uk-scotland-62862379?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-62862379?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 18:53:25+00:00
- - tags: None
 
 Her cortege from Balmoral to Edinburgh will wend its way past the villages, towns and cities she knew so well.
 
@@ -60,7 +53,6 @@ Her cortege from Balmoral to Edinburgh will wend its way past the villages, town
  - [https://www.bbc.co.uk/news/uk-62864876?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62864876?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 18:43:42+00:00
- - tags: None
 
 Thousands of people had gathered throughout the day outside the castle before the four arrived.
 
@@ -68,7 +60,6 @@ Thousands of people had gathered throughout the day outside the castle before th
  - [https://www.bbc.co.uk/news/uk-62865366?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62865366?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 17:59:54+00:00
- - tags: None
 
 The new monarch speaks to well-wishers after leaving Buckingham Palace.
 
@@ -76,7 +67,6 @@ The new monarch speaks to well-wishers after leaving Buckingham Palace.
  - [https://www.bbc.co.uk/sport/cricket/62838465?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/62838465?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 17:47:50+00:00
- - tags: None
 
 England hold the advantage over South Africa in the third and final Test after 17 wickets fell on a day that began with cricket paying tribute to Her Majesty Queen Elizabeth II.
 
@@ -84,7 +74,6 @@ England hold the advantage over South Africa in the third and final Test after 1
  - [https://www.bbc.co.uk/sport/horse-racing/62864485?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/horse-racing/62864485?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 17:40:40+00:00
- - tags: None
 
 British horse racing is cancelled on the day of Queen Elizabeth II's funeral, which will take place on Monday 19 September.
 
@@ -92,7 +81,6 @@ British horse racing is cancelled on the day of Queen Elizabeth II's funeral, wh
  - [https://www.bbc.co.uk/news/in-pictures-62864071?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/in-pictures-62864071?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 17:02:45+00:00
- - tags: None
 
 Images from the day as Charles III officially becomes monarch.
 
@@ -100,7 +88,6 @@ Images from the day as Charles III officially becomes monarch.
  - [https://www.bbc.co.uk/news/uk-62861656?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62861656?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 17:00:10+00:00
- - tags: None
 
 Gordon Brown, David Cameron and Theresa May share memories of the Queen with Laura Kuenssberg.
 
@@ -108,7 +95,6 @@ Gordon Brown, David Cameron and Theresa May share memories of the Queen with Lau
  - [https://www.bbc.co.uk/news/uk-62861617?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62861617?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 16:44:08+00:00
- - tags: None
 
 The Queen's coffin will lie in state in Westminster Hall as King Charles III embarks on a trip around the UK.
 
@@ -116,7 +102,6 @@ The Queen's coffin will lie in state in Westminster Hall as King Charles III emb
  - [https://www.bbc.co.uk/sport/rugby-union/62836284?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/62836284?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 16:43:51+00:00
- - tags: None
 
 Patrick Schickerling's last-second try helps Exeter come back to beat champions Leicester 24-20 at Sandy Park.
 
@@ -124,7 +109,6 @@ Patrick Schickerling's last-second try helps Exeter come back to beat champions 
  - [https://www.bbc.co.uk/news/uk-england-london-62863009?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-london-62863009?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 16:42:42+00:00
- - tags: None
 
 The rapper joined hundreds outside the Metropolitan Police's headquarters - New Scotland Yard.
 
@@ -132,7 +116,6 @@ The rapper joined hundreds outside the Metropolitan Police's headquarters - New 
  - [https://www.bbc.co.uk/news/uk-62862575?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62862575?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 16:37:48+00:00
- - tags: None
 
 All four of the royals are seen together to view tributes to the Queen.
 
@@ -140,7 +123,6 @@ All four of the royals are seen together to view tributes to the Queen.
  - [https://www.bbc.co.uk/news/uk-62863486?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62863486?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 16:27:27+00:00
- - tags: None
 
 People will be able to view the Queen's coffin at Westminster Hall and pay respects in Edinburgh.
 
@@ -148,7 +130,6 @@ People will be able to view the Queen's coffin at Westminster Hall and pay respe
  - [https://www.bbc.co.uk/news/uk-62864869?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62864869?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 16:26:55+00:00
- - tags: None
 
 The Prince of Wales says the world "lost an extraordinary leader" while he lost his "Grannie".
 
@@ -156,7 +137,6 @@ The Prince of Wales says the world "lost an extraordinary leader" while he lost 
  - [https://www.bbc.co.uk/sport/62862295?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/62862295?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 15:44:16+00:00
- - tags: None
 
 Tributes are paid as sport resumes on Saturday following the death of Her Majesty Queen Elizabeth II.
 
@@ -164,7 +144,6 @@ Tributes are paid as sport resumes on Saturday following the death of Her Majest
  - [https://www.bbc.co.uk/sport/formula1/62862718?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/formula1/62862718?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 15:18:41+00:00
- - tags: None
 
 Ferrari's Charles Leclerc takes pole position at the Italian Grand Prix ahead of Red Bull's Max Verstappen.
 
@@ -172,7 +151,6 @@ Ferrari's Charles Leclerc takes pole position at the Italian Grand Prix ahead of
  - [https://www.bbc.co.uk/news/uk-scotland-62863841?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-62863841?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 14:49:47+00:00
- - tags: None
 
 The Queen's three younger children, Princess Anne, Prince Andrew and Prince Edward were among those viewing floral tributes.
 
@@ -180,7 +158,6 @@ The Queen's three younger children, Princess Anne, Prince Andrew and Prince Edwa
  - [https://www.bbc.co.uk/sport/rugby-league/62837226?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-league/62837226?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 14:23:55+00:00
- - tags: None
 
 Salford beat Huddersfield Giants in the Super League play-off eliminator to set up a semi-final at St Helens.
 
@@ -188,7 +165,6 @@ Salford beat Huddersfield Giants in the Super League play-off eliminator to set 
  - [https://www.bbc.co.uk/news/world-asia-china-62863622?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-62863622?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 14:20:10+00:00
- - tags: None
 
 Authorities said the books, about sheep trying to hold back wolves, referred to the Beijing government.
 
@@ -196,7 +172,6 @@ Authorities said the books, about sheep trying to hold back wolves, referred to 
  - [https://www.bbc.co.uk/news/uk-scotland-62862145?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-62862145?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 14:16:06+00:00
- - tags: None
 
 Princess Anne and Princes Andrew and Edward were alongside their children to read tributes left by the public.
 
@@ -204,7 +179,6 @@ Princess Anne and Princes Andrew and Edward were alongside their children to rea
  - [https://www.bbc.co.uk/news/uk-politics-62863194?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-62863194?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 13:02:17+00:00
- - tags: None
 
 In a rare Saturday sitting, a group of senior MPs were given the chance to formally pledge their loyalty to the king.
 
@@ -212,7 +186,6 @@ In a rare Saturday sitting, a group of senior MPs were given the chance to forma
  - [https://www.bbc.co.uk/news/uk-62862233?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62862233?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 12:54:56+00:00
- - tags: None
 
 The King says he is "deeply aware" of the duties and responsibilities he has inherited as sovereign.
 
@@ -220,7 +193,6 @@ The King says he is "deeply aware" of the duties and responsibilities he has inh
  - [https://www.bbc.co.uk/news/uk-62852626?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62852626?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 12:30:25+00:00
- - tags: None
 
 The immediate challenge for King Charles is to do what his mother was so good at - reassuring an anxious nation.
 
@@ -228,7 +200,6 @@ The immediate challenge for King Charles is to do what his mother was so good at
  - [https://www.bbc.co.uk/news/uk-england-manchester-62862703?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-manchester-62862703?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 11:35:47+00:00
- - tags: None
 
 He was initially detained on suspicion of terrorism by officers at Birmingham Airport on Thursday.
 
@@ -236,7 +207,6 @@ He was initially detained on suspicion of terrorism by officers at Birmingham Ai
  - [https://www.bbc.co.uk/news/uk-england-merseyside-62862663?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-merseyside-62862663?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 11:30:36+00:00
- - tags: None
 
 A 37-year-old man is being held on suspicion of assisting an offender after the girl was killed.
 
@@ -244,7 +214,6 @@ A 37-year-old man is being held on suspicion of assisting an offender after the 
  - [https://www.bbc.co.uk/news/uk-62862225?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62862225?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 11:07:28+00:00
- - tags: None
 
 Charles III approves an order for the bank holiday - although the funeral date itself has not yet been confirmed.
 
@@ -252,7 +221,6 @@ Charles III approves an order for the bank holiday - although the funeral date i
  - [https://www.bbc.co.uk/sport/cricket/62838463?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/62838463?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 10:36:07+00:00
- - tags: None
 
 Tributes are paid to Her Majesty Queen Elizabeth II on day three of the third Test between England and South Africa at The Oval.
 
@@ -260,7 +228,6 @@ Tributes are paid to Her Majesty Queen Elizabeth II on day three of the third Te
  - [https://www.bbc.co.uk/news/world-asia-62860778?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-62860778?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 10:01:46+00:00
- - tags: None
 
 Mayor Craig Mackle says the whale may have surfaced beneath the boat causing it to capsize.
 
@@ -268,7 +235,6 @@ Mayor Craig Mackle says the whale may have surfaced beneath the boat causing it 
  - [https://www.bbc.co.uk/news/uk-62860893?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62860893?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 09:15:01+00:00
- - tags: None
 
 Charles III is proclaimed as monarch in the first televised Accession Council.
 
@@ -276,7 +242,6 @@ Charles III is proclaimed as monarch in the first televised Accession Council.
  - [https://www.bbc.co.uk/news/uk-wales-62861249?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-62861249?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 08:29:01+00:00
- - tags: None
 
 Retired horsewoman Wendy Buckney, who founded a riding centre and livery yard, died last month.
 
@@ -284,7 +249,6 @@ Retired horsewoman Wendy Buckney, who founded a riding centre and livery yard, d
  - [https://www.bbc.co.uk/news/world-europe-62860774?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-62860774?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 08:26:36+00:00
- - tags: None
 
 President Zelensky says Ukraine has retaken 30 settlements in its eastern offensive this week.
 
@@ -292,7 +256,6 @@ President Zelensky says Ukraine has retaken 30 settlements in its eastern offens
  - [https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-62847658?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-62847658?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 08:13:29+00:00
- - tags: None
 
 Major routes are closed as the city prepares to become a focal point for people mourning the Queen.
 
@@ -300,7 +263,6 @@ Major routes are closed as the city prepares to become a focal point for people 
  - [https://www.bbc.co.uk/news/uk-england-berkshire-62854091?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-berkshire-62854091?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 07:12:23+00:00
- - tags: None
 
 Windsor held a special place in the monarch's heart, it was also a place of work right to the end.
 
@@ -308,7 +270,6 @@ Windsor held a special place in the monarch's heart, it was also a place of work
  - [https://www.bbc.co.uk/news/health-62797777?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/health-62797777?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 06:56:55+00:00
- - tags: None
 
 Research shows that cancers might not always be caused by DNA mutations, as previously thought.
 
@@ -316,7 +277,6 @@ Research shows that cancers might not always be caused by DNA mutations, as prev
  - [https://www.bbc.co.uk/news/uk-northern-ireland-22079975?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-northern-ireland-22079975?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 05:59:40+00:00
- - tags: None
 
 How the eyes of the world watched the Queen and former IRA leader Martin McGuinness shake hands.
 
@@ -324,6 +284,5 @@ How the eyes of the world watched the Queen and former IRA leader Martin McGuinn
  - [https://www.bbc.co.uk/news/entertainment-arts-62840145?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-62840145?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-10 00:00:23+00:00
- - tags: None
 
 Discover more about Elizabeth II through films and programmes that offer insights into her life.

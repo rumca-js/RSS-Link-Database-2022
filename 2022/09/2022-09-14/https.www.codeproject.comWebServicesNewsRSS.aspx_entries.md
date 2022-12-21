@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## 3 Common misconceptions about object-relational mapping
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58877](https://www.codeproject.com/script/News/View.aspx?nwid=58877)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-14 04:00:00+00:00
- - tags: None
 
 Item 0: That it's always the best solution?
 
@@ -12,7 +11,6 @@ Item 0: That it's always the best solution?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58869](https://www.codeproject.com/script/News/View.aspx?nwid=58869)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-14 04:00:00+00:00
- - tags: None
 
 Just put everything in one project
 
@@ -20,7 +18,6 @@ Just put everything in one project
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58872](https://www.codeproject.com/script/News/View.aspx?nwid=58872)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-14 04:00:00+00:00
- - tags: None
 
 Data, data everywhere, and not a file to save
 
@@ -28,7 +25,6 @@ Data, data everywhere, and not a file to save
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58868](https://www.codeproject.com/script/News/View.aspx?nwid=58868)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-14 04:00:00+00:00
- - tags: None
 
 For those wondering, "whatever happened to...", keep wondering
 
@@ -36,7 +32,6 @@ For those wondering, "whatever happened to...", keep wondering
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58870](https://www.codeproject.com/script/News/View.aspx?nwid=58870)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-14 04:00:00+00:00
- - tags: None
 
 Because doing things manually with VBA was getting tiresome?
 
@@ -44,7 +39,6 @@ Because doing things manually with VBA was getting tiresome?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58878](https://www.codeproject.com/script/News/View.aspx?nwid=58878)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-14 04:00:00+00:00
- - tags: None
 
 For those who are not gits
 
@@ -52,7 +46,6 @@ For those who are not gits
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58873](https://www.codeproject.com/script/News/View.aspx?nwid=58873)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-14 04:00:00+00:00
- - tags: None
 
 True or false answers only
 
@@ -60,7 +53,6 @@ True or false answers only
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58874](https://www.codeproject.com/script/News/View.aspx?nwid=58874)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-14 04:00:00+00:00
- - tags: None
 
 Does he have inside information?
 
@@ -68,7 +60,6 @@ Does he have inside information?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58875](https://www.codeproject.com/script/News/View.aspx?nwid=58875)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-14 04:00:00+00:00
- - tags: None
 
 When 42 != 42
 
@@ -76,7 +67,6 @@ When 42 != 42
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58866](https://www.codeproject.com/script/News/View.aspx?nwid=58866)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-14 04:00:00+00:00
- - tags: None
 
 If your AI apocalypse needs to be standardized
 
@@ -84,7 +74,6 @@ If your AI apocalypse needs to be standardized
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58871](https://www.codeproject.com/script/News/View.aspx?nwid=58871)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-14 04:00:00+00:00
- - tags: None
 
 
 
@@ -92,7 +81,6 @@ If your AI apocalypse needs to be standardized
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58867](https://www.codeproject.com/script/News/View.aspx?nwid=58867)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-14 04:00:00+00:00
- - tags: None
 
 "We're not a monopoly...until after this trial" doesn't strike me as a great defense
 
@@ -100,6 +88,5 @@ If your AI apocalypse needs to be standardized
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58876](https://www.codeproject.com/script/News/View.aspx?nwid=58876)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-14 04:00:00+00:00
- - tags: None
 
 He copies those floppies

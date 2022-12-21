@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## Never-before-seen malware has infected hundreds of Linux and Windows devices
  - [https://arstechnica.com/?p=1885478](https://arstechnica.com/?p=1885478)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-28 23:48:03+00:00
- - tags: None
 
 Small office routers? FreeBSD machines? Enterprise servers? Chaos infects them all.
 
@@ -12,7 +11,6 @@ Small office routers? FreeBSD machines? Enterprise servers? Chaos infects them a
  - [https://arstechnica.com/?p=1885472](https://arstechnica.com/?p=1885472)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-28 22:31:38+00:00
- - tags: None
 
 The outbreak mirrored a nationwide surge in norovirus outbreaks.
 
@@ -20,7 +18,6 @@ The outbreak mirrored a nationwide surge in norovirus outbreaks.
  - [https://arstechnica.com/?p=1885434](https://arstechnica.com/?p=1885434)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-28 20:45:34+00:00
- - tags: None
 
 Android-based Razer Edge 5G is based on last year's Qualcomm reference design.
 
@@ -28,7 +25,6 @@ Android-based Razer Edge 5G is based on last year's Qualcomm reference design.
  - [https://arstechnica.com/?p=1884969](https://arstechnica.com/?p=1884969)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-28 20:35:38+00:00
- - tags: None
 
 Dealmaster also has PC components, charging gear, and gift card deals.
 
@@ -36,7 +32,6 @@ Dealmaster also has PC components, charging gear, and gift card deals.
  - [https://arstechnica.com/?p=1885349](https://arstechnica.com/?p=1885349)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-28 20:00:18+00:00
- - tags: None
 
 Cloud giant says its verification tool doesn't challenge or profile users.
 
@@ -44,7 +39,6 @@ Cloud giant says its verification tool doesn't challenge or profile users.
  - [https://arstechnica.com/?p=1885357](https://arstechnica.com/?p=1885357)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-28 19:11:00+00:00
- - tags: None
 
 Access to 500,000 chargers could lay the groundwork to convert Americans to EVs.
 
@@ -52,7 +46,6 @@ Access to 500,000 chargers could lay the groundwork to convert Americans to EVs.
  - [https://arstechnica.com/?p=1885207](https://arstechnica.com/?p=1885207)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-28 18:54:39+00:00
- - tags: None
 
 A year after its announcement, it's unclear when Astro will be ready.
 
@@ -60,7 +53,6 @@ A year after its announcement, it's unclear when Astro will be ready.
  - [https://arstechnica.com/?p=1885245](https://arstechnica.com/?p=1885245)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-28 18:08:07+00:00
- - tags: None
 
 Other delays out of 2022 leave Ubisoft with an unusually quiet holiday season.
 
@@ -68,7 +60,6 @@ Other delays out of 2022 leave Ubisoft with an unusually quiet holiday season.
  - [https://arstechnica.com/?p=1885259](https://arstechnica.com/?p=1885259)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-28 17:33:13+00:00
- - tags: None
 
 DALL-E launched frenzy of image synthesis development but was invitation-only until now.
 
@@ -76,7 +67,6 @@ DALL-E launched frenzy of image synthesis development but was invitation-only un
  - [https://arstechnica.com/?p=1884560](https://arstechnica.com/?p=1884560)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-28 17:31:42+00:00
- - tags: None
 
 Search for an ATM or restaurant and Maps can point the way via your camera feed.
 
@@ -84,7 +74,6 @@ Search for an ATM or restaurant and Maps can point the way via your camera feed.
  - [https://arstechnica.com/?p=1885247](https://arstechnica.com/?p=1885247)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-28 17:25:19+00:00
- - tags: None
 
 Google Fiber test delivered 20.2Gbps downloads to exec's home in Kansas City.
 
@@ -92,7 +81,6 @@ Google Fiber test delivered 20.2Gbps downloads to exec's home in Kansas City.
  - [https://arstechnica.com/?p=1885221](https://arstechnica.com/?p=1885221)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-28 17:14:23+00:00
- - tags: None
 
 It will also be Amazon's largest Kindle e-reader, with a 10.2-inch display.
 
@@ -100,7 +88,6 @@ It will also be Amazon's largest Kindle e-reader, with a 10.2-inch display.
  - [https://arstechnica.com/?p=1885190](https://arstechnica.com/?p=1885190)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-28 17:13:51+00:00
- - tags: None
 
 The SS <em>Mesaba</em> was torpedoed by a German sub six years after <em>Titanic</em>'s sinking.
 
@@ -108,7 +95,6 @@ The SS <em>Mesaba</em> was torpedoed by a German sub six years after <em>Titanic
  - [https://arstechnica.com/?p=1885142](https://arstechnica.com/?p=1885142)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-28 16:50:27+00:00
- - tags: None
 
 Also adding hotspot fallback during outages, plus company's first PoE products.
 
@@ -116,7 +102,6 @@ Also adding hotspot fallback during outages, plus company's first PoE products.
  - [https://arstechnica.com/?p=1885222](https://arstechnica.com/?p=1885222)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-28 16:48:37+00:00
- - tags: None
 
 "Disaffirmation" defense may open cheating defendant to serious copyright claims.
 
@@ -124,7 +109,6 @@ Also adding hotspot fallback during outages, plus company's first PoE products.
  - [https://arstechnica.com/?p=1885194](https://arstechnica.com/?p=1885194)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-28 16:08:11+00:00
- - tags: None
 
 Base model design changes bring the phone more in line with the Ultra model.
 
@@ -132,7 +116,6 @@ Base model design changes bring the phone more in line with the Ultra model.
  - [https://arstechnica.com/?p=1885111](https://arstechnica.com/?p=1885111)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-28 16:00:27+00:00
- - tags: None
 
 Previously overlooked flaws allow malicious homeservers to decrypt and spoof messages.
 
@@ -140,7 +123,6 @@ Previously overlooked flaws allow malicious homeservers to decrypt and spoof mes
  - [https://arstechnica.com/?p=1885151](https://arstechnica.com/?p=1885151)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-28 13:34:51+00:00
- - tags: None
 
 Social media group seeks sanctions as billionaire attempts to pull out of acquisition.
 
@@ -148,7 +130,6 @@ Social media group seeks sanctions as billionaire attempts to pull out of acquis
  - [https://arstechnica.com/?p=1885129](https://arstechnica.com/?p=1885129)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-28 13:34:47+00:00
- - tags: None
 
 This is the kind of storm that destroys a community forever.
 
@@ -156,7 +137,6 @@ This is the kind of storm that destroys a community forever.
  - [https://arstechnica.com/?p=1885144](https://arstechnica.com/?p=1885144)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-28 13:30:04+00:00
- - tags: None
 
 Extreme 2020 wildfires affected the water cycle in key mountain forests.
 
@@ -164,7 +144,6 @@ Extreme 2020 wildfires affected the water cycle in key mountain forests.
  - [https://arstechnica.com/?p=1884615](https://arstechnica.com/?p=1884615)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-28 11:00:08+00:00
- - tags: None
 
 In the world's first operating system interview, Linux tells all about Windows, Torvalds, and its favorite distro.
 
@@ -172,6 +151,5 @@ In the world's first operating system interview, Linux tells all about Windows, 
  - [https://arstechnica.com/?p=1884775](https://arstechnica.com/?p=1884775)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-28 07:01:16+00:00
- - tags: None
 
 A nice gesture toward Mac users, but a full layout, switch options would be even better.

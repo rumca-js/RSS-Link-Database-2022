@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## The best thing Google can do for the Pixel line is stay consistent
  - [https://www.androidauthority.com/google-pixel-line-consistency-3209260/](https://www.androidauthority.com/google-pixel-line-consistency-3209260/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-25 18:00:39+00:00
- - tags: None
 
 The Pixel 7 series doesn't seem all that different from last year's phones, but this could be for the best.
 
@@ -12,7 +11,6 @@ The Pixel 7 series doesn't seem all that different from last year's phones, but 
  - [https://www.androidauthority.com/samsung-galaxy-book-2-pro-ecosystem-3193090/](https://www.androidauthority.com/samsung-galaxy-book-2-pro-ecosystem-3193090/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-25 16:00:57+00:00
- - tags: None
 
 A slim and speedy laptop that binds your Samsung devices.
 
@@ -20,7 +18,6 @@ A slim and speedy laptop that binds your Samsung devices.
  - [https://www.androidauthority.com/smartphone-camera-future-interview-3183730/](https://www.androidauthority.com/smartphone-camera-future-interview-3183730/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-25 14:00:58+00:00
- - tags: None
 
 From AI handling the entire capture process to a reduction in the number of cameras, there are plenty of innovations coming.
 
@@ -28,7 +25,6 @@ From AI handling the entire capture process to a reduction in the number of came
  - [https://www.androidauthority.com/baseus-power-bank-3211952/](https://www.androidauthority.com/baseus-power-bank-3211952/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-25 12:00:54+00:00
- - tags: None
 
 One is thin enough to go into a laptop sleeve, the other has a convenient built-in USB-C cable.
 
@@ -36,6 +32,5 @@ One is thin enough to go into a laptop sleeve, the other has a convenient built-
  - [https://www.androidauthority.com/motorola-edge-30-ultra-camera-review-3208667/](https://www.androidauthority.com/motorola-edge-30-ultra-camera-review-3208667/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-25 10:00:13+00:00
- - tags: None
 
 All the megapixels in the world can't save poor software.

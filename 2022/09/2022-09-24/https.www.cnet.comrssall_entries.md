@@ -1,10 +1,9 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/
+# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
 
 ## The Secret to Curating the Best Music Playlist for Sleep     - CNET
  - [https://www.cnet.com/health/sleep/the-secret-to-curating-the-best-sleep-music-playlist/#ftag=CADf328eec](https://www.cnet.com/health/sleep/the-secret-to-curating-the-best-sleep-music-playlist/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 23:42:07+00:00
- - tags: None
 
 Certain sounds are better suited for sleep than others. Here's how to make a nighttime playlist that'll make you feel sleepy.
 
@@ -12,7 +11,6 @@ Certain sounds are better suited for sleep than others. Here's how to make a nig
  - [https://www.cnet.com/culture/entertainment/andor-episodes-1-2-and-3-recap-star-wars-rebel-origin-tale-begins-with-a-bang/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/andor-episodes-1-2-and-3-recap-star-wars-rebel-origin-tale-begins-with-a-bang/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 21:00:03+00:00
- - tags: None
 
 The Disney Plus series takes us into dark new parts of a galaxy far, far away as it reveals Cassian Andor's early days and rebellious ways.
 
@@ -20,7 +18,6 @@ The Disney Plus series takes us into dark new parts of a galaxy far, far away as
  - [https://www.cnet.com/culture/entertainment/creepy-netflix-trailer-for-the-watcher-turns-dream-home-into-a-nightmare/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/creepy-netflix-trailer-for-the-watcher-turns-dream-home-into-a-nightmare/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 20:16:00+00:00
- - tags: None
 
 In Ryan Murphy's spooky new series, Naomi Watts and Bobby Cannavale star as a couple made to feel anything but welcome in their new neighborhood.
 
@@ -28,7 +25,6 @@ In Ryan Murphy's spooky new series, Naomi Watts and Bobby Cannavale star as a co
  - [https://www.cnet.com/culture/entertainment/millie-bobby-brown-back-solving-mysteries-in-enola-holmes-2-trailer/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/millie-bobby-brown-back-solving-mysteries-in-enola-holmes-2-trailer/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 20:10:00+00:00
- - tags: None
 
 Move over, Sherlock. The teen sleuth played by the Stranger Things star is ready for more mischief.
 
@@ -36,7 +32,6 @@ Move over, Sherlock. The teen sleuth played by the Stranger Things star is ready
  - [https://www.cnet.com/culture/entertainment/that-confusing-house-of-the-dragon-trailer-for-episode-6-explained/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/that-confusing-house-of-the-dragon-trailer-for-episode-6-explained/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 20:06:00+00:00
- - tags: None
 
 New cast members, a time jump, royal plotting. Let's break it down.
 
@@ -44,7 +39,6 @@ New cast members, a time jump, royal plotting. Let's break it down.
  - [https://www.cnet.com/how-to/yeah-theres-probably-mold-growing-in-your-washer-heres-how-to-kill-it/#ftag=CADf328eec](https://www.cnet.com/how-to/yeah-theres-probably-mold-growing-in-your-washer-heres-how-to-kill-it/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 20:00:11+00:00
- - tags: None
 
 Clothes smelling gross when they come out of your washing machine? You may have a mold problem. But you can fix it.
 
@@ -52,7 +46,6 @@ Clothes smelling gross when they come out of your washing machine? You may have 
  - [https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-black-mirror-esque-sci-fi-on-prime-video/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-black-mirror-esque-sci-fi-on-prime-video/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 20:00:07+00:00
- - tags: None
 
 Black Box is worth checking out if you're keen to explore technology gone wrong.
 
@@ -60,7 +53,6 @@ Black Box is worth checking out if you're keen to explore technology gone wrong.
  - [https://www.cnet.com/culture/entertainment/andor-actors-reveal-why-star-wars-needed-this-gritty-human-show/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/andor-actors-reveal-why-star-wars-needed-this-gritty-human-show/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 19:30:03+00:00
- - tags: None
 
 The Disney Plus show dives into "sides of the Empire and the rebellion that we haven't seen before," Kyle Soller tells CNET.
 
@@ -68,7 +60,6 @@ The Disney Plus show dives into "sides of the Empire and the rebellion that we h
  - [https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-catch-on-hbo-max-this-weekend/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-catch-on-hbo-max-this-weekend/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 19:20:04+00:00
- - tags: None
 
 HBO Max has a huge range of sci-fi flicks, from newer gems to absolute classics.
 
@@ -76,7 +67,6 @@ HBO Max has a huge range of sci-fi flicks, from newer gems to absolute classics.
  - [https://www.cnet.com/culture/entertainment/the-crown-season-5-gets-netflix-release-date-following-queens-death/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-crown-season-5-gets-netflix-release-date-following-queens-death/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 19:11:00+00:00
- - tags: None
 
 Season 5 of The Crown hits Netflix in November.
 
@@ -84,7 +74,6 @@ Season 5 of The Crown hits Netflix in November.
  - [https://www.cnet.com/culture/entertainment/netflix-the-44-absolute-best-films-to-watch/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/netflix-the-44-absolute-best-films-to-watch/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 19:06:04+00:00
- - tags: None
 
 This weekend, check out Lou, an action flick starring Allison Janney and Jurnee Smollett.
 
@@ -92,7 +81,6 @@ This weekend, check out Lou, an action flick starring Allison Janney and Jurnee 
  - [https://www.cnet.com/culture/entertainment/the-witcher-season-3-gets-a-netflix-release-date/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-witcher-season-3-gets-a-netflix-release-date/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 19:03:00+00:00
- - tags: None
 
 It arrives next summer. Prequel series Blood Origin arrives on Christmas day.
 
@@ -100,7 +88,6 @@ It arrives next summer. Prequel series Blood Origin arrives on Christmas day.
  - [https://www.cnet.com/culture/entertainment/apple-tv-plus-tv-shows-to-watch-now-in-september/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/apple-tv-plus-tv-shows-to-watch-now-in-september/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 19:02:13+00:00
- - tags: None
 
 Here's a complete list of shows coming in September.
 
@@ -108,7 +95,6 @@ Here's a complete list of shows coming in September.
  - [https://www.cnet.com/culture/entertainment/the-absolute-best-fantasy-movies-you-can-stream-on-netflix-this-weekend/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-absolute-best-fantasy-movies-you-can-stream-on-netflix-this-weekend/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 19:02:08+00:00
- - tags: None
 
 Netflix's fantasy options range from pure magic to touching allegories of the human condition.
 
@@ -116,7 +102,6 @@ Netflix's fantasy options range from pure magic to touching allegories of the hu
  - [https://www.cnet.com/culture/entertainment/see-the-stranger-things-cast-bloopers-shared-at-netflix-fan-event/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/see-the-stranger-things-cast-bloopers-shared-at-netflix-fan-event/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 18:40:37+00:00
- - tags: None
 
 Bring on the behind-the-scenes shenanigans.
 
@@ -124,7 +109,6 @@ Bring on the behind-the-scenes shenanigans.
  - [https://www.cnet.com/culture/entertainment/they-cloned-tyrone-teaser-puts-jamie-foxx-john-boyega-in-a-sci-fi-mystery/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/they-cloned-tyrone-teaser-puts-jamie-foxx-john-boyega-in-a-sci-fi-mystery/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 18:15:00+00:00
- - tags: None
 
 A trio of friends try to solve a widespread conspiracy in the upcoming Netflix movie.
 
@@ -132,7 +116,6 @@ A trio of friends try to solve a widespread conspiracy in the upcoming Netflix m
  - [https://www.cnet.com/culture/entertainment/vince-gilligan-better-call-saul-star-team-for-apple-tv-plus-show/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/vince-gilligan-better-call-saul-star-team-for-apple-tv-plus-show/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 18:10:00+00:00
- - tags: None
 
 Rhea Seehorn's excellent work on Better Call Saul is being rewarded.
 
@@ -140,7 +123,6 @@ Rhea Seehorn's excellent work on Better Call Saul is being rewarded.
  - [https://www.cnet.com/culture/entertainment/the-witcher-season-3-hits-netflix-next-summer/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-witcher-season-3-hits-netflix-next-summer/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 18:08:00+00:00
- - tags: None
 
 Prequel series Blood Origin arrives on Christmas day.
 
@@ -148,7 +130,6 @@ Prequel series Blood Origin arrives on Christmas day.
  - [https://www.cnet.com/culture/entertainment/see-the-super-creepy-netflix-trailer-for-ryan-murphys-the-watcher/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/see-the-super-creepy-netflix-trailer-for-ryan-murphys-the-watcher/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 18:04:00+00:00
- - tags: None
 
 Naomi Watts and Bobby Cannavale star as a couple made to feel anything but welcome in their new neighborhood.
 
@@ -156,7 +137,6 @@ Naomi Watts and Bobby Cannavale star as a couple made to feel anything but welco
  - [https://www.cnet.com/culture/entertainment/the-crown-season-5-gets-release-date-following-queen-elizabeths-death/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-crown-season-5-gets-release-date-following-queen-elizabeths-death/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 17:28:00+00:00
- - tags: None
 
 Season 5 of The Crown hits Netflix in November.
 
@@ -164,7 +144,6 @@ Season 5 of The Crown hits Netflix in November.
  - [https://www.cnet.com/culture/entertainment/netflixs-bridgerton-prequel-reveals-first-look-at-young-queen-charlotte/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/netflixs-bridgerton-prequel-reveals-first-look-at-young-queen-charlotte/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 17:21:00+00:00
- - tags: None
 
 A feisty Netflix first clip from the Shonda Rhimes spinoff series reveals a momentous first meeting.
 
@@ -172,7 +151,6 @@ A feisty Netflix first clip from the Shonda Rhimes spinoff series reveals a mome
  - [https://www.cnet.com/culture/entertainment/darth-vader-voice-actor-james-earl-jones-signals-retirement-from-character/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/darth-vader-voice-actor-james-earl-jones-signals-retirement-from-character/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 17:10:00+00:00
- - tags: None
 
 Disney and Lucasfilm are using AI to keep Jones' iconic Darth Vader voice alive.
 
@@ -180,7 +158,6 @@ Disney and Lucasfilm are using AI to keep Jones' iconic Darth Vader voice alive.
  - [https://www.cnet.com/culture/entertainment/in-enola-holmes-2-trailer-millie-bobby-browns-back-as-sherlocks-sis/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/in-enola-holmes-2-trailer-millie-bobby-browns-back-as-sherlocks-sis/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 17:07:00+00:00
- - tags: None
 
 Move over, Sherlock. The teen sleuth played by Millie Bobby Brown is ready for more mysteries and mischief.
 
@@ -188,7 +165,6 @@ Move over, Sherlock. The teen sleuth played by Millie Bobby Brown is ready for m
  - [https://www.cnet.com/roadshow/news/best-car-polish/#ftag=CADf328eec](https://www.cnet.com/roadshow/news/best-car-polish/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 17:00:10+00:00
- - tags: None
 
 Prep for a protective wax coating with our top car polish picks.
 
@@ -196,7 +172,6 @@ Prep for a protective wax coating with our top car polish picks.
  - [https://www.cnet.com/culture/entertainment/netflixs-tudum-global-fan-event-how-to-watch-live-today-and-what-to-expect/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/netflixs-tudum-global-fan-event-how-to-watch-live-today-and-what-to-expect/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 16:52:00+00:00
- - tags: None
 
 Netflix is teasing trailer and news for Bridgerton, The Witcher, Stranger Things, Extraction 2 and a lot more.
 
@@ -204,7 +179,6 @@ Netflix is teasing trailer and news for Bridgerton, The Witcher, Stranger Things
  - [https://www.cnet.com/how-to/turns-out-unplugging-your-appliances-really-does-save-you-money/#ftag=CADf328eec](https://www.cnet.com/how-to/turns-out-unplugging-your-appliances-really-does-save-you-money/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 16:42:09+00:00
- - tags: None
 
 Just because you aren't using it doesn't mean it isn't sucking up energy. Here's how much you can save if you don't leave everything plugged in all the time.
 
@@ -212,7 +186,6 @@ Just because you aren't using it doesn't mean it isn't sucking up energy. Here's
  - [https://www.cnet.com/tech/services-and-software/best-streaming-services-for-kids/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/best-streaming-services-for-kids/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 16:42:03+00:00
- - tags: None
 
 Check out the best places to stream CoComelon, SpongeBob, Sesame Street and more.
 
@@ -220,7 +193,6 @@ Check out the best places to stream CoComelon, SpongeBob, Sesame Street and more
  - [https://www.cnet.com/roadshow/pictures/volkswagen-gen-travel-concept/#ftag=CADf328eec](https://www.cnet.com/roadshow/pictures/volkswagen-gen-travel-concept/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 16:14:04+00:00
- - tags: None
 
 This autonomous concept envisions what long-distance travel could look like.
 
@@ -228,7 +200,6 @@ This autonomous concept envisions what long-distance travel could look like.
  - [https://www.cnet.com/culture/how-to-find-minority-owned-businesses-on-yelp-google-uber-eats-and-more/#ftag=CADf328eec](https://www.cnet.com/culture/how-to-find-minority-owned-businesses-on-yelp-google-uber-eats-and-more/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 14:40:27+00:00
- - tags: None
 
 Here's where to find shops and restaurants run by Black, Asian, Latino, LGBTQ and female entrepreneurs and others.
 
@@ -236,7 +207,6 @@ Here's where to find shops and restaurants run by Black, Asian, Latino, LGBTQ an
  - [https://www.cnet.com/health/sleep/best-mattress-for-stomach-sleepers/#ftag=CADf328eec](https://www.cnet.com/health/sleep/best-mattress-for-stomach-sleepers/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 14:00:10+00:00
- - tags: None
 
 Get great sleep all night with these top-rated brands for belly sleepers.
 
@@ -244,7 +214,6 @@ Get great sleep all night with these top-rated brands for belly sleepers.
  - [https://www.cnet.com/tech/computing/best-pc-speakers/#ftag=CADf328eec](https://www.cnet.com/tech/computing/best-pc-speakers/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 14:00:03+00:00
- - tags: None
 
 Looking for a pair of speakers for your desktop or laptop computer? Here are our picks for the top Windows and Mac speakers at various prices.
 
@@ -252,7 +221,6 @@ Looking for a pair of speakers for your desktop or laptop computer? Here are our
  - [https://www.cnet.com/tech/amazons-2022-echo-and-ring-launch-event-how-to-get-all-the-details-live/#ftag=CADf328eec](https://www.cnet.com/tech/amazons-2022-echo-and-ring-launch-event-how-to-get-all-the-details-live/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 13:54:00+00:00
- - tags: None
 
 The e-commerce giant is holding an invite-only press event Sept. 28 starting at 9 a.m. PT.
 
@@ -260,7 +228,6 @@ The e-commerce giant is holding an invite-only press event Sept. 28 starting at 
  - [https://www.cnet.com/deals/mixbook-sitewide-sale-up-to-50-percent-off-now/#ftag=CADf328eec](https://www.cnet.com/deals/mixbook-sitewide-sale-up-to-50-percent-off-now/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 13:52:28+00:00
- - tags: None
 
 In addition to the big savings here, you can score free shipping on all orders of $59 or more.
 
@@ -268,7 +235,6 @@ In addition to the big savings here, you can score free shipping on all orders o
  - [https://www.cnet.com/deals/sony-powerful-portable-bluetooth-speakers-102-discount/#ftag=CADf328eec](https://www.cnet.com/deals/sony-powerful-portable-bluetooth-speakers-102-discount/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 13:43:49+00:00
- - tags: None
 
 These speakers can be taken anywhere and will keep the party going everywhere.
 
@@ -276,7 +242,6 @@ These speakers can be taken anywhere and will keep the party going everywhere.
  - [https://www.cnet.com/deals/save-up-to-50-on-pet-accessories-for-your-home-and-car/#ftag=CADf328eec](https://www.cnet.com/deals/save-up-to-50-on-pet-accessories-for-your-home-and-car/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 13:40:14+00:00
- - tags: None
 
 From leashes to seat covers and even beds, this one-day sale has something for every dog owner.
 
@@ -284,7 +249,6 @@ From leashes to seat covers and even beds, this one-day sale has something for e
  - [https://www.cnet.com/personal-finance/banking/what-is-a-money-market-account/#ftag=CADf328eec](https://www.cnet.com/personal-finance/banking/what-is-a-money-market-account/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 13:00:35+00:00
- - tags: None
 
 A money market account is a low-risk saving option that provides more flexibility than a CD.
 
@@ -292,7 +256,6 @@ A money market account is a low-risk saving option that provides more flexibilit
  - [https://www.cnet.com/health/sleep/best-mattress/#ftag=CADf328eec](https://www.cnet.com/health/sleep/best-mattress/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 13:00:14+00:00
- - tags: None
 
 Finding the best mattress is no easy task, especially online. So I did it for you. Here are the best mattresses that you can buy right now.
 
@@ -300,7 +263,6 @@ Finding the best mattress is no easy task, especially online. So I did it for yo
  - [https://www.cnet.com/deals/improve-your-stock-portfolio-discounted-tykr-subscription/#ftag=CADf328eec](https://www.cnet.com/deals/improve-your-stock-portfolio-discounted-tykr-subscription/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 13:00:07+00:00
- - tags: None
 
 Get lifetime access to this powerful investment tool for $89 right now.
 
@@ -308,7 +270,6 @@ Get lifetime access to this powerful investment tool for $89 right now.
  - [https://www.cnet.com/health/fitness/best-weightlifting-shoes/#ftag=CADf328eec](https://www.cnet.com/health/fitness/best-weightlifting-shoes/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 13:00:03+00:00
- - tags: None
 
 Whether you're a new lifter or experienced CrossFitter, you'll love these picks.
 
@@ -316,7 +277,6 @@ Whether you're a new lifter or experienced CrossFitter, you'll love these picks.
  - [https://www.cnet.com/tech/mobile/apples-newest-hit-product-peace-of-mind/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/apples-newest-hit-product-peace-of-mind/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 12:00:25+00:00
- - tags: None
 
 With the iPhone 14 and Apple Watch Ultra, the company is betting even bigger on safety and the concept that its products could actually save your life.
 
@@ -324,7 +284,6 @@ With the iPhone 14 and Apple Watch Ultra, the company is betting even bigger on 
  - [https://www.cnet.com/tech/mobile/iphone-14-pro-camera-is-a-big-leap-for-photo-enthusiasts/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/iphone-14-pro-camera-is-a-big-leap-for-photo-enthusiasts/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 12:00:21+00:00
- - tags: None
 
 If you're serious about your photography, the newest high-end iPhones improve image quality in several ways.
 
@@ -332,7 +291,6 @@ If you're serious about your photography, the newest high-end iPhones improve im
  - [https://www.cnet.com/tech/gaming/how-i-became-an-nfl-quarterback-in-vr/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/how-i-became-an-nfl-quarterback-in-vr/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 12:00:17+00:00
- - tags: None
 
 NFL Pro Era could bring VR into the mainstream, letting you play as an NFL quarterback.
 
@@ -340,7 +298,6 @@ NFL Pro Era could bring VR into the mainstream, letting you play as an NFL quart
  - [https://www.cnet.com/tech/mobile/clear-your-android-phones-cookies-cache-to-erase-junk-files/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/clear-your-android-phones-cookies-cache-to-erase-junk-files/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 12:00:12+00:00
- - tags: None
 
 There's a lot of data in there that you probably don't need in your phone.
 
@@ -348,7 +305,6 @@ There's a lot of data in there that you probably don't need in your phone.
  - [https://www.cnet.com/videos/what-its-like-playing-vr-football-nfl-pro-era-hands-on/#ftag=CADf328eec](https://www.cnet.com/videos/what-its-like-playing-vr-football-nfl-pro-era-hands-on/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 12:00:11+00:00
- - tags: None
 
 We go hands-on with NFL Pro Era, the first NFL-licensed virtual reality game that lets you play as the quarterback of your favorite team. Bridget Carey tries VR football and talks with the company behind it, StatusPro.
 
@@ -356,7 +312,6 @@ We go hands-on with NFL Pro Era, the first NFL-licensed virtual reality game tha
  - [https://www.cnet.com/personal-finance/my-unpopular-opinion-about-stay-at-home-parenting-that-needs-to-be-said/#ftag=CADf328eec](https://www.cnet.com/personal-finance/my-unpopular-opinion-about-stay-at-home-parenting-that-needs-to-be-said/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 12:00:08+00:00
- - tags: None
 
 Commentary: TikTok isn't talking about the financial risks.
 
@@ -364,7 +319,6 @@ Commentary: TikTok isn't talking about the financial risks.
  - [https://www.cnet.com/roadshow/news/are-you-thinking-about-electric-car-charging-the-wrong-way/#ftag=CADf328eec](https://www.cnet.com/roadshow/news/are-you-thinking-about-electric-car-charging-the-wrong-way/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 12:00:02+00:00
- - tags: None
 
 A new Stanford study finds that overnight EV charging at home isn't the holy grail.
 
@@ -372,7 +326,6 @@ A new Stanford study finds that overnight EV charging at home isn't the holy gra
  - [https://www.cnet.com/roadshow/videos/where-and-when-you-should-charge-your-electric-car/#ftag=CADf328eec](https://www.cnet.com/roadshow/videos/where-and-when-you-should-charge-your-electric-car/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 12:00:01+00:00
- - tags: None
 
 The common suggestion that overnight charging at home is ideal needs more nuance.
 
@@ -380,7 +333,6 @@ The common suggestion that overnight charging at home is ideal needs more nuance
  - [https://www.cnet.com/health/medical/you-should-know-your-blood-type-heres-heres-how-to-figure-it-out/#ftag=CADf328eec](https://www.cnet.com/health/medical/you-should-know-your-blood-type-heres-heres-how-to-figure-it-out/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 11:30:02+00:00
- - tags: None
 
 There are three easy ways to determine which blood type you are.
 
@@ -388,7 +340,6 @@ There are three easy ways to determine which blood type you are.
  - [https://www.cnet.com/tech/services-and-software/iphones-always-on-display-is-worse-than-androids-but-this-trick-helps-a-lot/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/iphones-always-on-display-is-worse-than-androids-but-this-trick-helps-a-lot/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 11:15:02+00:00
- - tags: None
 
 The iPhone 14 Pro and 14 Pro Max are Apple's first phones to have AOD -- but you can make it better.
 
@@ -396,7 +347,6 @@ The iPhone 14 Pro and 14 Pro Max are Apple's first phones to have AOD -- but you
  - [https://www.cnet.com/how-to/get-rid-of-clothing-wrinkles-in-10-minutes-no-iron-required-heres-how/#ftag=CADf328eec](https://www.cnet.com/how-to/get-rid-of-clothing-wrinkles-in-10-minutes-no-iron-required-heres-how/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 11:00:03+00:00
- - tags: None
 
 This easy trick will help you remove those creases from your clothes in no time.
 
@@ -404,7 +354,6 @@ This easy trick will help you remove those creases from your clothes in no time.
  - [https://www.cnet.com/personal-finance/last-day-to-file-a-claim-for-googles-100-million-privacy-settlement/#ftag=CADf328eec](https://www.cnet.com/personal-finance/last-day-to-file-a-claim-for-googles-100-million-privacy-settlement/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 10:55:02+00:00
- - tags: None
 
 It's your final chance to join the class action lawsuit against Google Photo.
 
@@ -412,7 +361,6 @@ It's your final chance to join the class action lawsuit against Google Photo.
  - [https://www.cnet.com/tech/mobile/pixel-7-series-what-we-know-googles-upcoming-phones/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/pixel-7-series-what-we-know-googles-upcoming-phones/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 10:17:02+00:00
- - tags: None
 
 The Pixel 7 is going to get its bigger reveal early in October.
 
@@ -420,7 +368,6 @@ The Pixel 7 is going to get its bigger reveal early in October.
  - [https://www.cnet.com/personal-finance/taxes/state-stimulus-payments-2022-these-states-are-sending-out-money-in-september/#ftag=CADf328eec](https://www.cnet.com/personal-finance/taxes/state-stimulus-payments-2022-these-states-are-sending-out-money-in-september/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 10:05:03+00:00
- - tags: None
 
 It's now fall, and numerous states are sending tax refunds and stimulus payments. Find out if yours is one of them.
 
@@ -428,7 +375,6 @@ It's now fall, and numerous states are sending tax refunds and stimulus payments
  - [https://www.cnet.com/tech/mobile/ios-16-1-will-give-us-the-iphone-battery-icon-we-all-wanted/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/ios-16-1-will-give-us-the-iphone-battery-icon-we-all-wanted/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 09:41:03+00:00
- - tags: None
 
 The complaints about the iOS 16 battery percentage icon redesign hit a nerve at Apple.
 
@@ -436,7 +382,6 @@ The complaints about the iOS 16 battery percentage icon redesign hit a nerve at 
  - [https://www.cnet.com/tech/mobile/is-the-iphone-14-worth-the-upgrade-how-it-compares-to-apples-older-phones/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/is-the-iphone-14-worth-the-upgrade-how-it-compares-to-apples-older-phones/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 09:00:03+00:00
- - tags: None
 
 Comparing Apple's iPhone 14 to previous iPhone generations, so you can make sure it's worth the money to move up.
 
@@ -444,7 +389,6 @@ Comparing Apple's iPhone 14 to previous iPhone generations, so you can make sure
  - [https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-binge-on-prime-video-this-weekend/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-binge-on-prime-video-this-weekend/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 05:10:03+00:00
- - tags: None
 
 Prime Video has a heap to offer from the sci-fi realm -- hopefully this guide will help you sift through its back catalogue.
 
@@ -452,7 +396,6 @@ Prime Video has a heap to offer from the sci-fi realm -- hopefully this guide wi
  - [https://www.cnet.com/culture/entertainment/netflix-shares-new-squid-game-season-1-scene-as-tudum-fan-event-starts/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/netflix-shares-new-squid-game-season-1-scene-as-tudum-fan-event-starts/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 02:48:00+00:00
- - tags: None
 
 Watch the scene here.
 
@@ -460,7 +403,6 @@ Watch the scene here.
  - [https://www.cnet.com/health/nutrition/skip-the-protein-shakes-8-muscle-building-foods-to-eat-instead/#ftag=CADf328eec](https://www.cnet.com/health/nutrition/skip-the-protein-shakes-8-muscle-building-foods-to-eat-instead/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 01:00:02+00:00
- - tags: None
 
 These whole foods provide the nutrients you need for muscle growth and taste way better than protein powder.
 
@@ -468,6 +410,5 @@ These whole foods provide the nutrients you need for muscle growth and taste way
  - [https://www.cnet.com/tech/mobile/pixel-7-series-what-we-know-about-googles-upcoming-phones/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/pixel-7-series-what-we-know-about-googles-upcoming-phones/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-24 00:00:16+00:00
- - tags: None
 
 The Pixel 7 is going to get its bigger reveal early in October.

@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## Tennis great Roger Federer loses in his final professional match
  - [https://www.cnn.com/2022/09/23/tennis/roger-federer-final-match-career-spt-intl/index.html](https://www.cnn.com/2022/09/23/tennis/roger-federer-final-match-career-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 23:42:12+00:00
- - tags: None
 
 [Breaking news update, published at 7:37 p.m. ET]
 
@@ -12,7 +11,6 @@
  - [https://www.cnn.com/2022/09/23/world/laver-cup-fire-protester-tennis/index.html](https://www.cnn.com/2022/09/23/world/laver-cup-fire-protester-tennis/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 23:07:02+00:00
- - tags: None
 
 A Laver Cup tennis match between Stefanos Tsitsipas and Diego Schwartzman in London was interrupted by a protester who lit his arm on fire on Friday.
 
@@ -20,7 +18,6 @@ A Laver Cup tennis match between Stefanos Tsitsipas and Diego Schwartzman in Lon
  - [https://www.cnn.com/videos/world/2022/09/23/ancient-shipwreck-discovered-israel-orig-aw.cnn](https://www.cnn.com/videos/world/2022/09/23/ancient-shipwreck-discovered-israel-orig-aw.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 22:39:03+00:00
- - tags: None
 
 An ancient shipwreck was found off the coast of Israel with artifacts from all over the Mediterranean, contradicting a major archaeological theory.
 
@@ -28,7 +25,6 @@ An ancient shipwreck was found off the coast of Israel with artifacts from all o
  - [https://www.cnn.com/videos/business/2022/09/23/late-night-trump-declassification-orig-fj.cnn-business](https://www.cnn.com/videos/business/2022/09/23/late-night-trump-declassification-orig-fj.cnn-business)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 22:24:57+00:00
- - tags: None
 
 Former President Donald Trump told Sean Hannity US presidents have the ability to declassify documents just by "thinking about it." Late night hosts were quick to mock this claim.
 
@@ -36,7 +32,6 @@ Former President Donald Trump told Sean Hannity US presidents have the ability t
  - [https://www.cnn.com/2022/09/23/world/nasa-dart-faq-scn/index.html](https://www.cnn.com/2022/09/23/world/nasa-dart-faq-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 21:51:05+00:00
- - tags: None
 
 On Monday, a NASA spacecraft will deliberately slam into an asteroid called Dimorphos.
 
@@ -44,7 +39,6 @@ On Monday, a NASA spacecraft will deliberately slam into an asteroid called Dimo
  - [https://www.cnn.com/videos/politics/2022/09/23/immigration-cuba-haiti-ocean-coast-guard-alvarez-vpx.cnn](https://www.cnn.com/videos/politics/2022/09/23/immigration-cuba-haiti-ocean-coast-guard-alvarez-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 21:51:02+00:00
- - tags: None
 
 CNN's Priscilla Alvarez embedded with border officials on the water off the Southern coast of Florida where she witnessed the growing trend of migrants arriving in the US on makeshift boats.
 
@@ -52,7 +46,6 @@ CNN's Priscilla Alvarez embedded with border officials on the water off the Sout
  - [https://www.cnn.com/videos/world/2022/09/23/iran-hijab-law-women-lon-orig.cnn](https://www.cnn.com/videos/world/2022/09/23/iran-hijab-law-women-lon-orig.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 19:12:14+00:00
- - tags: None
 
 Iranian women share their thoughts on the country's requirement to wear hijabs (or headscarves) following the death of Mahsa Amini, who died after being arrested by morality police in Tehran.
 
@@ -60,7 +53,6 @@ Iranian women share their thoughts on the country's requirement to wear hijabs (
  - [https://www.cnn.com/videos/world/2022/09/23/chief-prosecutor-warns-against-war-crimes-ukraine-russia-icc-ath-vpx.cnn](https://www.cnn.com/videos/world/2022/09/23/chief-prosecutor-warns-against-war-crimes-ukraine-russia-icc-ath-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 19:11:19+00:00
- - tags: None
 
 Chief prosecutor Karim Kahn of the International Criminal Courts warns Russian leaders and soldiers that no one can get away with a war crime, during his security briefing at the United Nations general assembly.
 
@@ -68,7 +60,6 @@ Chief prosecutor Karim Kahn of the International Criminal Courts warns Russian l
  - [https://www.cnn.com/2022/09/23/uk/liz-truss-jake-tapper-interview-intl/index.html](https://www.cnn.com/2022/09/23/uk/liz-truss-jake-tapper-interview-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 19:08:05+00:00
- - tags: None
 
 Liz Truss has defended her government's controversial announcement to cut taxes for citizens and businesses in an exclusive interview with CNN's Jake Tapper.
 
@@ -76,7 +67,6 @@ Liz Truss has defended her government's controversial announcement to cut taxes 
  - [https://www.cnn.com/2022/09/23/politics/matt-gaetz-justice-department-probe/index.html](https://www.cnn.com/2022/09/23/politics/matt-gaetz-justice-department-probe/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 18:58:39+00:00
- - tags: None
 
 Prosecutors have recommended against charging Florida Rep. Matt Gaetz in a federal sex-trafficking investigation, according to a source familiar with the matter.
 
@@ -84,7 +74,6 @@ Prosecutors have recommended against charging Florida Rep. Matt Gaetz in a feder
  - [https://www.cnn.com/2022/09/23/business/gm-toledo-electric-drive-investment/index.html](https://www.cnn.com/2022/09/23/business/gm-toledo-electric-drive-investment/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 18:52:22+00:00
- - tags: None
 
 General Motors is investing $760 million in its Toledo Propulsion Systems factory, which builds transmissions for gas-powered vehicles, so that it can make electric drive units for electric vehicles, too.
 
@@ -92,7 +81,6 @@ General Motors is investing $760 million in its Toledo Propulsion Systems factor
  - [https://www.cnn.com/videos/weather/2022/09/23/hurricane-fiona-drone-eye-atlantic-orig-kj.cnn](https://www.cnn.com/videos/weather/2022/09/23/hurricane-fiona-drone-eye-atlantic-orig-kj.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 18:44:06+00:00
- - tags: None
 
 NOAA and Saildrone Inc. sent an uncrewed vehicle straight into the heart of Hurricane Fiona to gather data.
 
@@ -100,7 +88,6 @@ NOAA and Saildrone Inc. sent an uncrewed vehicle straight into the heart of Hurr
  - [https://www.cnn.com/videos/world/2022/09/23/russian-men-putin-mobilization-cb-lon-orig.cnn](https://www.cnn.com/videos/world/2022/09/23/russian-men-putin-mobilization-cb-lon-orig.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 18:16:23+00:00
- - tags: None
 
 Russian men arriving in airports and at border crossings share their views on President Vladimir Putin's 'partial mobilization' announcement.
 
@@ -108,7 +95,6 @@ Russian men arriving in airports and at border crossings share their views on Pr
  - [https://www.cnn.com/2022/09/23/world/nasa-artemis-i-update-scn/index.html](https://www.cnn.com/2022/09/23/world/nasa-artemis-i-update-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 18:08:09+00:00
- - tags: None
 
 The Artemis I rocket will get its third launch attempt on Tuesday, September 27, but Tropical Depression Nine could change that.
 
@@ -116,7 +102,6 @@ The Artemis I rocket will get its third launch attempt on Tuesday, September 27,
  - [https://www.cnn.com/2022/09/23/opinions/mahsa-amini-iran-protests-hair-women-nemat/index.html](https://www.cnn.com/2022/09/23/opinions/mahsa-amini-iran-protests-hair-women-nemat/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 17:56:18+00:00
- - tags: None
 
 Mahsa Amini is dead because she let the world see a few locks of her hair. She was 22-years-old, beautiful, and full of hope and promise. She died in the custody of Iran's morality police. She was neither the first, nor will she be the last.
 
@@ -124,7 +109,6 @@ Mahsa Amini is dead because she let the world see a few locks of her hair. She w
  - [https://www.cnn.com/videos/politics/2022/09/23/trump-children-ny-lawsuit-cillizza-the-point-orig-jm.cnn](https://www.cnn.com/videos/politics/2022/09/23/trump-children-ny-lawsuit-cillizza-the-point-orig-jm.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 17:44:53+00:00
- - tags: None
 
 Former President Donald Trump is facing an ever-growing list of legal challenges. In today's episode of The Point, CNN's Chris Cillizza explains why the civil lawsuit filed by New York's attorney general and his three eldest children is different from the rest.
 
@@ -132,7 +116,6 @@ Former President Donald Trump is facing an ever-growing list of legal challenges
  - [https://www.cnn.com/2022/09/23/africa/chimp-kidnap-dr-congo-intl-scli/index.html](https://www.cnn.com/2022/09/23/africa/chimp-kidnap-dr-congo-intl-scli/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 17:14:40+00:00
- - tags: None
 
 An animal sanctuary in the Democratic Republic of Congo (DRC) is facing demands for ransom money, after kidnappers abducted three of its baby chimpanzees.
 
@@ -140,7 +123,6 @@ An animal sanctuary in the Democratic Republic of Congo (DRC) is facing demands 
  - [https://www.cnn.com/collections/iran-protests-intl-092322/](https://www.cnn.com/collections/iran-protests-intl-092322/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 17:02:41+00:00
- - tags: None
 
 
 
@@ -148,7 +130,6 @@ An animal sanctuary in the Democratic Republic of Congo (DRC) is facing demands 
  - [https://www.cnn.com/2022/09/23/world/fast-radio-burst-20201124a-origin-study-scn/index.html](https://www.cnn.com/2022/09/23/world/fast-radio-burst-20201124a-origin-study-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 17:00:21+00:00
- - tags: None
 
 New studies by international teams of scientists have revealed new details about the potential origin of a mysterious fast radio burst in space.
 
@@ -156,7 +137,6 @@ New studies by international teams of scientists have revealed new details about
  - [https://www.cnn.com/2022/09/23/investing/pound-crash-uk-budget/index.html](https://www.cnn.com/2022/09/23/investing/pound-crash-uk-budget/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 16:26:15+00:00
- - tags: None
 
 When the UK government, led by new Prime Minister Liz Truss, unveiled its plan to rescue the British economy on Friday, the reaction from investors was instantaneous: They hated it.
 
@@ -164,7 +144,6 @@ When the UK government, led by new Prime Minister Liz Truss, unveiled its plan t
  - [https://www.cnn.com/2022/09/23/politics/trump-grand-jury-court-fight/index.html](https://www.cnn.com/2022/09/23/politics/trump-grand-jury-court-fight/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 15:59:57+00:00
- - tags: None
 
 Former President Donald Trump's attorneys are fighting a secret court battle to block a federal grand jury from gathering information from an expanding circle of close Trump aides about his efforts to overturn the 2020 election, people briefed on the matter told CNN.
 
@@ -172,7 +151,6 @@ Former President Donald Trump's attorneys are fighting a secret court battle to 
  - [https://www.cnn.com/style/article/blonde-movie-marilyn-monroe-style-culture-queue/index.html](https://www.cnn.com/style/article/blonde-movie-marilyn-monroe-style-culture-queue/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 15:56:05+00:00
- - tags: None
 
 Few pop culture figures continue to live as large in our collective imagination as Marilyn Monroe, and her status as a beauty icon has been pivotal to that.
 
@@ -180,7 +158,6 @@ Few pop culture figures continue to live as large in our collective imagination 
  - [https://www.cnn.com/collections/videos-of-the-week-092322/](https://www.cnn.com/collections/videos-of-the-week-092322/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 15:15:44+00:00
- - tags: None
 
 
 
@@ -188,7 +165,6 @@ Few pop culture figures continue to live as large in our collective imagination 
  - [https://www.cnn.com/collections/intl-china-0923/](https://www.cnn.com/collections/intl-china-0923/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 15:12:44+00:00
- - tags: None
 
 
 
@@ -196,7 +172,6 @@ Few pop culture figures continue to live as large in our collective imagination 
  - [https://www.cnn.com/2022/09/23/politics/arizona-senate-rating-change/index.html](https://www.cnn.com/2022/09/23/politics/arizona-senate-rating-change/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 14:54:37+00:00
- - tags: None
 
 Republicans' chances of beating Democratic Sen. Mark Kelly of Arizona are fading, a sign of the broader struggle the party is experiencing of late as it fights to retake the Senate majority, according to one prominent political handicapper.
 
@@ -204,7 +179,6 @@ Republicans' chances of beating Democratic Sen. Mark Kelly of Arizona are fading
  - [https://www.cnn.com/2022/09/23/business/oil-prices-low/index.html](https://www.cnn.com/2022/09/23/business/oil-prices-low/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 14:53:30+00:00
- - tags: None
 
 Recession fears are slamming the oil market, with crude tumbling on Friday below $80 a barrel for the first time since January.
 
@@ -212,7 +186,6 @@ Recession fears are slamming the oil market, with crude tumbling on Friday below
  - [https://www.cnn.com/2022/09/23/entertainment/james-cameron-avatar-sequel/index.html](https://www.cnn.com/2022/09/23/entertainment/james-cameron-avatar-sequel/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 14:45:17+00:00
- - tags: None
 
 James Cameron has water on the brain.
 
@@ -220,7 +193,6 @@ James Cameron has water on the brain.
  - [https://www.cnn.com/2022/09/23/sport/aaron-judge-record-yankees-red-sox-spt-intl/index.html](https://www.cnn.com/2022/09/23/sport/aaron-judge-record-yankees-red-sox-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 14:40:20+00:00
- - tags: None
 
 The New York Yankees are hosting their bitter rivals, the Boston Red Sox, in the Bronx for the second game of their four-game home series, but for once, the rivalry takes a back seat as Aaron Judge looks to equal Roger Maris' American League and Yankees single-season record of 61 home runs.
 
@@ -228,7 +200,6 @@ The New York Yankees are hosting their bitter rivals, the Boston Red Sox, in the
  - [https://www.cnn.com/2022/09/23/uk/desmond-tutu-daughter-scli-gbr-intl/index.html](https://www.cnn.com/2022/09/23/uk/desmond-tutu-daughter-scli-gbr-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 14:34:51+00:00
- - tags: None
 
 The Church of England has banned Archbishop Desmond Tutu's daughter from conducting her godfather's funeral because she is married to a woman.
 
@@ -236,7 +207,6 @@ The Church of England has banned Archbishop Desmond Tutu's daughter from conduct
  - [https://www.cnn.com/2022/09/23/media/yankees-aaron-judge-where-to-watch/index.html](https://www.cnn.com/2022/09/23/media/yankees-aaron-judge-where-to-watch/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 14:29:11+00:00
- - tags: None
 
 Slugger Aaron Judge is chasing baseball history. So where can you watch it?
 
@@ -244,7 +214,6 @@ Slugger Aaron Judge is chasing baseball history. So where can you watch it?
  - [https://www.cnn.com/videos/entertainment/2022/09/23/shania-twain-man-i-feel-like-a-woman-whos-talking-to-chris-wallace-newday-vpx.cnn](https://www.cnn.com/videos/entertainment/2022/09/23/shania-twain-man-i-feel-like-a-woman-whos-talking-to-chris-wallace-newday-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 13:55:49+00:00
- - tags: None
 
 In a newly released clip ahead of  his interview, CNN host Chris Wallace discusses singing along with country music icon Shania Twain to her hit song "Man! I Feel Like a Woman." You can watch the full interview on "Who's Talking to Chris Wallace?" premiering Sunday at 7 p.m. ET on CNN
 
@@ -252,7 +221,6 @@ In a newly released clip ahead of  his interview, CNN host Chris Wallace discuss
  - [https://www.cnn.com/2022/09/23/investing/dow-stock-market-today/index.html](https://www.cnn.com/2022/09/23/investing/dow-stock-market-today/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 13:41:21+00:00
- - tags: None
 
 US stock futures were set to fall sharply as investors continued to worry about even more rate hikes from the Federal Reserve that could land the US economy in a recession.
 
@@ -260,7 +228,6 @@ US stock futures were set to fall sharply as investors continued to worry about 
  - [https://www.cnn.com/2022/09/23/politics/donald-trump-allies-super-pac/index.html](https://www.cnn.com/2022/09/23/politics/donald-trump-allies-super-pac/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 13:32:43+00:00
- - tags: None
 
 Several top allies of Donald Trump will launch a new super PAC to buoy Republican candidates who have earned the former President's support in the midterm elections, CNN has learned, following months of minimal spending by Trump-aligned groups that has left party strategists frustrated as they work to fill the void.
 
@@ -268,7 +235,6 @@ Several top allies of Donald Trump will launch a new super PAC to buoy Republica
  - [https://www.cnn.com/2022/09/23/politics/us-russia-ukraine-nuclear-weapons/index.html](https://www.cnn.com/2022/09/23/politics/us-russia-ukraine-nuclear-weapons/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 13:02:18+00:00
- - tags: None
 
 The US has privately communicated to Russia for the past several months that there will be consequences if Moscow chooses to use a nuclear weapon in the Ukraine war, according to US officials.
 
@@ -276,7 +242,6 @@ The US has privately communicated to Russia for the past several months that the
  - [https://www.cnn.com/2022/09/23/world/dinosaur-egg-fossils-extinction-scn/index.html](https://www.cnn.com/2022/09/23/world/dinosaur-egg-fossils-extinction-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 12:49:54+00:00
- - tags: None
 
 It's a hard-fought paleontological debate. Did the massive asteroid that struck Earth 66 million years ago wipe out a thriving and diverse population of dinosaurs, or were they already struggling to survive when that cataclysmic day dawned?
 
@@ -284,7 +249,6 @@ It's a hard-fought paleontological debate. Did the massive asteroid that struck 
  - [https://www.cnn.com/2022/09/23/investing/premarket-stocks-trading/index.html](https://www.cnn.com/2022/09/23/investing/premarket-stocks-trading/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 12:16:37+00:00
- - tags: None
 
 It should be the perfect time to own gold. The yellow metal has historically rallied when inflation is high, since it's a physical investment that can serve as a store of value. It's also usually a firm favorite during periods of geopolitical uncertainty, when it's seen as a safe haven.
 
@@ -292,7 +256,6 @@ It should be the perfect time to own gold. The yellow metal has historically ral
  - [https://www.cnn.com/2022/09/23/weather/gulf-mexico-tropical-depression-storm-hermine/index.html](https://www.cnn.com/2022/09/23/weather/gulf-mexico-tropical-depression-storm-hermine/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 12:09:05+00:00
- - tags: None
 
 Tropical Depression Nine formed early Friday morning over the central Caribbean Sea and will likely become the next tropical storm -- named Hermine, according to the National Hurricane Center.
 
@@ -300,7 +263,6 @@ Tropical Depression Nine formed early Friday morning over the central Caribbean 
  - [https://www.cnn.com/travel/article/skytrax-world-airline-awards-2022/index.html](https://www.cnn.com/travel/article/skytrax-world-airline-awards-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 12:03:33+00:00
- - tags: None
 
 From Covid to chaos, it's been another bumpy year for the aviation industry. In much of the northern hemisphere, the busy summer season was beset by delays and cancellations, while in the United States a new study this week found that airplane passenger satisfaction is declining across the board.
 
@@ -308,7 +270,6 @@ From Covid to chaos, it's been another bumpy year for the aviation industry. In 
  - [https://cnn.it/3R9jgsi](https://cnn.it/3R9jgsi)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 11:50:51.122779+00:00
- - tags: None
 
 
 
@@ -316,7 +277,6 @@ From Covid to chaos, it's been another bumpy year for the aviation industry. In 
  - [https://www.cnn.com/2022/09/23/entertainment/sidney-review/index.html](https://www.cnn.com/2022/09/23/entertainment/sidney-review/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 11:42:32+00:00
- - tags: None
 
 In theory there's only so much to be done with a celebrity biography, but when the subject is Sidney Poitier, that's an unusually target-rich environment. "Sidney," a documentary from director Reginald Hudlin produced by Oprah Winfrey, does the actor justice, providing context, depth and considerable warmth in chronicling his remarkable life and trailblazing career.
 
@@ -324,7 +284,6 @@ In theory there's only so much to be done with a celebrity biography, but when t
  - [https://www.cnn.com/style/article/hilary-mantel-dies-scli-gbr-intl/index.html](https://www.cnn.com/style/article/hilary-mantel-dies-scli-gbr-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 11:14:24+00:00
- - tags: None
 
 Hilary Mantel, the British author who twice won the Booker Prize, has died at the age of 70.
 
@@ -332,7 +291,6 @@ Hilary Mantel, the British author who twice won the Booker Prize, has died at th
  - [https://www.cnn.com/2022/09/23/sport/cleveland-browns-pittsburgh-steelers-tnf-nfl-spt-intl/index.html](https://www.cnn.com/2022/09/23/sport/cleveland-browns-pittsburgh-steelers-tnf-nfl-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 11:13:05+00:00
- - tags: None
 
 Last Sunday afternoon was one to forget for the Cleveland Browns.
 
@@ -340,7 +298,6 @@ Last Sunday afternoon was one to forget for the Cleveland Browns.
  - [https://www.cnn.com/2022/09/23/media/nfl-super-bowl-halftime-show-sponsor-pepsi/index.html](https://www.cnn.com/2022/09/23/media/nfl-super-bowl-halftime-show-sponsor-pepsi/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 11:05:35+00:00
- - tags: None
 
 Apple Music is replacing Pepsi as the new sponsor for the NFL's Super Bowl halftime show.
 
@@ -348,7 +305,6 @@ Apple Music is replacing Pepsi as the new sponsor for the NFL's Super Bowl halft
  - [https://www.cnn.com/2022/09/23/opinions/biden-waffling-presidential-run-risk-balcerski/index.html](https://www.cnn.com/2022/09/23/opinions/biden-waffling-presidential-run-risk-balcerski/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 11:02:28+00:00
- - tags: None
 
 In an interview with "60 Minutes" on Sunday, President Joe Biden said it was "much too early" to decide whether he will run again in 2024 -- adding uncertainty to an already unsettled political landscape.
 
@@ -356,7 +312,6 @@ In an interview with "60 Minutes" on Sunday, President Joe Biden said it was "mu
  - [https://www.cnn.com/2022/09/23/business/us-candidates-facebook-ads-targeting-invs/index.html](https://www.cnn.com/2022/09/23/business/us-candidates-facebook-ads-targeting-invs/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 11:00:17+00:00
- - tags: None
 
 Marco Rubio hopes to sway voters interested in Chick-fil-A, Ram trucks, and Duck Dynasty. John Fetterman is searching for fans of microbreweries, Teslas, and the Dave Matthews Band.
 
@@ -364,7 +319,6 @@ Marco Rubio hopes to sway voters interested in Chick-fil-A, Ram trucks, and Duck
  - [https://www.cnn.com/2022/09/23/football/france-austria-nations-league-2022-spt-intl/index.html](https://www.cnn.com/2022/09/23/football/france-austria-nations-league-2022-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 10:44:41+00:00
- - tags: None
 
 After a torrid few months in the French national team camp, there were plenty of positives to take away from France's 2-0 win over Austria in Nations League Group A on Thursday.
 
@@ -372,7 +326,6 @@ After a torrid few months in the French national team camp, there were plenty of
  - [https://www.cnn.com/2022/09/23/health/pandemic-experts-the-conversation-partner/index.html](https://www.cnn.com/2022/09/23/health/pandemic-experts-the-conversation-partner/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 10:41:02+00:00
- - tags: None
 
 President Joe Biden's declaration that "the pandemic is over" raised eyebrows and the hackles of some experts who think such messaging could be premature and counterproductive.
 
@@ -380,7 +333,6 @@ President Joe Biden's declaration that "the pandemic is over" raised eyebrows an
  - [https://www.cnn.com/2022/09/23/us/alan-eugene-miller-execution-alabama-friday/index.html](https://www.cnn.com/2022/09/23/us/alan-eugene-miller-execution-alabama-friday/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 10:31:26+00:00
- - tags: None
 
 The state of Alabama halted the execution of an inmate Thursday evening due to an inability to meet protocols before a midnight deadline, officials say.
 
@@ -388,7 +340,6 @@ The state of Alabama halted the execution of an inmate Thursday evening due to a
  - [https://www.cnn.com/2022/09/23/sport/tom-brady-aaron-rodgers-qatar-rings-nfl-spt-intl/index.html](https://www.cnn.com/2022/09/23/sport/tom-brady-aaron-rodgers-qatar-rings-nfl-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 10:11:43+00:00
- - tags: None
 
 Tom Brady has said he "love(s)" watching Aaron Rodgers play ahead of the two veteran quarterbacks facing each other on Sunday.
 
@@ -396,7 +347,6 @@ Tom Brady has said he "love(s)" watching Aaron Rodgers play ahead of the two vet
  - [https://www.cnn.com/2022/09/23/europe/russia-official-anatoly-gerashchenko-death-intl/index.html](https://www.cnn.com/2022/09/23/europe/russia-official-anatoly-gerashchenko-death-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 10:07:07+00:00
- - tags: None
 
 The former rector to the Moscow Aviation Institute (MAI) has died, according to a statement from the organization, amid a recent string of mysterious deaths among top Russian officials and executives.
 
@@ -404,7 +354,6 @@ The former rector to the Moscow Aviation Institute (MAI) has died, according to 
  - [https://www.cnn.com/2022/09/23/opinions/metaverse-transformative-ethics-thomason-spc-intl/index.html](https://www.cnn.com/2022/09/23/opinions/metaverse-transformative-ethics-thomason-spc-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 10:06:58+00:00
- - tags: None
 
 The metaverse is here, it's big and it's not going away. Collins Dictionary listed metaverse as one of its top 10 words of 2021 and a recent survey found that 74% of the public had heard of the metaverse in March 2022, up from 32% in July 2021.
 
@@ -412,7 +361,6 @@ The metaverse is here, it's big and it's not going away. Collins Dictionary list
  - [https://www.cnn.com/2022/09/23/weather/hurricane-fiona-canada-bermuda-puerto-rico-dominican-republic-friday/index.html](https://www.cnn.com/2022/09/23/weather/hurricane-fiona-canada-bermuda-puerto-rico-dominican-republic-friday/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 10:01:05+00:00
- - tags: None
 
 A deadly hurricane that battered multiple island nations in the Caribbean this week is now impacting Bermuda before crashing into Canada this weekend, where residents are being warned to prepare for dangerously high winds and heavy rainfall.
 
@@ -420,7 +368,6 @@ A deadly hurricane that battered multiple island nations in the Caribbean this w
  - [https://www.cnn.com/2022/09/23/politics/stephen-breyer-exclusive-interview-cnntv/index.html](https://www.cnn.com/2022/09/23/politics/stephen-breyer-exclusive-interview-cnntv/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 10:00:08+00:00
- - tags: None
 
 Retired Supreme Court Justice Stephen Breyer is warning his colleagues against "writing too rigidly" in their opinions, saying that such decisions could "bite you in the back" in a world that is constantly changing.
 
@@ -428,7 +375,6 @@ Retired Supreme Court Justice Stephen Breyer is warning his colleagues against "
  - [https://www.cnn.com/2022/09/23/economy/uk-mini-budget-tax-cuts-borrowing/index.html](https://www.cnn.com/2022/09/23/economy/uk-mini-budget-tax-cuts-borrowing/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 10:00:02+00:00
- - tags: None
 
 The UK government on Thursday unveiled its bid to rescue the economy from recession with a plan that involves slashing taxes, removing a cap on banker bonuses and a big increase in borrowing.
 
@@ -436,7 +382,6 @@ The UK government on Thursday unveiled its bid to rescue the economy from recess
  - [https://www.cnn.com/2022/09/23/china/hong-kong-removes-quarantine-international-travel-intl-hnk/index.html](https://www.cnn.com/2022/09/23/china/hong-kong-removes-quarantine-international-travel-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 09:33:32+00:00
- - tags: None
 
 The Hong Kong government has announced the ending of formal quarantine for international travelers after more than two and a half years of stringent pandemic controls.
 
@@ -444,7 +389,6 @@ The Hong Kong government has announced the ending of formal quarantine for inter
  - [https://www.cnn.com/style/article/aga-khan-architecture-award-2022/index.html](https://www.cnn.com/style/article/aga-khan-architecture-award-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 09:22:38+00:00
- - tags: None
 
 A serene airport, a contemporary art museum and a series of refugee community centers are among the winners of the Aga Khan Award for Architecture, a major prize honoring new buildings in "communities in which Muslims have a significant presence."
 
@@ -452,7 +396,6 @@ A serene airport, a contemporary art museum and a series of refugee community ce
  - [https://www.cnn.com/2022/09/23/business/china-taiwan-us-banks-ceos-intl-hnk/index.html](https://www.cnn.com/2022/09/23/business/china-taiwan-us-banks-ceos-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 09:14:55+00:00
- - tags: None
 
 Leaders of America's biggest banks say they would follow any US directive on pulling business from China if Taiwan is ever attacked by Beijing.
 
@@ -460,7 +403,6 @@ Leaders of America's biggest banks say they would follow any US directive on pul
  - [https://www.cnn.com/2022/09/23/europe/russians-flee-putin-partial-mobilization-draft-intl-hnk/index.html](https://www.cnn.com/2022/09/23/europe/russians-flee-putin-partial-mobilization-draft-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 09:14:14+00:00
- - tags: None
 
 Vladimir Putin's "partial mobilization" of citizens for his war in Ukraine has already set in motion sweeping changes for many Russians, as drafted men bid their families emotional goodbyes, while others attempt to flee, scrambling to make it across land border crossings or buy air tickets out.
 
@@ -468,7 +410,6 @@ Vladimir Putin's "partial mobilization" of citizens for his war in Ukraine has a
  - [https://www.cnn.com/style/article/metaverse-real-estate-market-2022-spc-intl/index.html](https://www.cnn.com/style/article/metaverse-real-estate-market-2022-spc-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 08:27:35+00:00
- - tags: None
 
 Speak to people working in the metaverse and one descriptor follows it around: "It's like the Wild West." Make of that what you will. Is it a new frontier for people seeking their fortune? A lawless land? A place characterized by the unknown, removed from the rest of society? Perhaps all of the above. But one thing's for sure -- people in the Wild West weren't dropping $650,000 in cryptocurrency on a digital yacht.
 
@@ -476,7 +417,6 @@ Speak to people working in the metaverse and one descriptor follows it around: "
  - [https://www.cnn.com/2022/09/23/china/former-chinese-deputy-security-prison-party-congress-intl-hnk/index.html](https://www.cnn.com/2022/09/23/china/former-chinese-deputy-security-prison-party-congress-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 08:20:08+00:00
- - tags: None
 
 China's former deputy public security minister Sun Lijun has been sentenced to life in prison on corruption charges, state media reported Friday, as a purge of officials intensifies ahead of a twice-a-decade key Communist Party gathering.
 
@@ -484,7 +424,6 @@ China's former deputy public security minister Sun Lijun has been sentenced to l
  - [https://www.cnn.com/2022/09/23/opinions/russia-putin-nuclear-weapons-desperation-nixey/index.html](https://www.cnn.com/2022/09/23/opinions/russia-putin-nuclear-weapons-desperation-nixey/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 07:41:01+00:00
- - tags: None
 
 Russia is losing its war against Ukraine. It is not defeated yet. But it is heading in that direction and President Vladimir Putin has fewer and fewer cards to play.
 
@@ -492,7 +431,6 @@ Russia is losing its war against Ukraine. It is not defeated yet. But it is head
  - [https://www.cnn.com/2022/09/23/europe/occupied-ukraine-referendum-russia-intl-hnk/index.html](https://www.cnn.com/2022/09/23/europe/occupied-ukraine-referendum-russia-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 07:37:55+00:00
- - tags: None
 
 Four Russian-occupied areas of Ukraine are expected to begin voting in referendums on joining Russia, in a move that raises the stakes of Moscow's invasion seven months after fighting began.
 
@@ -500,7 +438,6 @@ Four Russian-occupied areas of Ukraine are expected to begin voting in referendu
  - [https://www.cnn.com/2022/09/23/world/tasmania-saved-whales-rescue-intl-hnk/index.html](https://www.cnn.com/2022/09/23/world/tasmania-saved-whales-rescue-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 06:29:16+00:00
- - tags: None
 
 Rescue teams have managed to save 32 pilot whales following a mass stranding this week in a remote part of in Australia that saw the deaths of around 200 whales.
 
@@ -508,7 +445,6 @@ Rescue teams have managed to save 32 pilot whales following a mass stranding thi
  - [https://www.cnn.com/2022/09/23/china/tangshan-attack-sentence-24-years-intl-hnk/index.html](https://www.cnn.com/2022/09/23/china/tangshan-attack-sentence-24-years-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 06:12:18+00:00
- - tags: None
 
 A Chinese man has been sentenced to 24 years in prison for his leading role in a brutal attack on female diners in the city of Tangshan, in a case that shocked the country and sparked widespread anger over violence against women.
 
@@ -516,7 +452,6 @@ A Chinese man has been sentenced to 24 years in prison for his leading role in a
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-09-23-22/index.html](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-09-23-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 05:47:22.458876+00:00
- - tags: None
 
 
 
@@ -524,7 +459,6 @@ A Chinese man has been sentenced to 24 years in prison for his leading role in a
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-09-23-22/index.html](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-09-23-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 05:47:22.352843+00:00
- - tags: None
 
 
 
@@ -532,7 +466,6 @@ A Chinese man has been sentenced to 24 years in prison for his leading role in a
  - [https://www.cnn.com/2022/09/23/asia/south-korea-yoon-suk-yeol-hot-mic-profanity-rant-intl-hnk/index.html](https://www.cnn.com/2022/09/23/asia/south-korea-yoon-suk-yeol-hot-mic-profanity-rant-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 05:02:58+00:00
- - tags: None
 
 
 
@@ -540,7 +473,6 @@ A Chinese man has been sentenced to 24 years in prison for his leading role in a
  - [https://www.cnn.com/collections/int-0923-maralago/](https://www.cnn.com/collections/int-0923-maralago/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 04:42:56+00:00
- - tags: None
 
 
 
@@ -548,7 +480,6 @@ A Chinese man has been sentenced to 24 years in prison for his leading role in a
  - [https://www.cnn.com/2022/09/23/politics/trump-legal-strategy-classified-documents-analysis/index.html](https://www.cnn.com/2022/09/23/politics/trump-legal-strategy-classified-documents-analysis/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 04:31:25+00:00
- - tags: None
 
 • Top GOP senators reject Trump's declassification comments
 • Trump team ordered to back up claims of FBI 'planting' evidence at Mar-a-Lago
@@ -557,7 +488,6 @@ A Chinese man has been sentenced to 24 years in prison for his leading role in a
  - [https://www.cnn.com/travel/article/malaysia-oktoberfest-religious-controversy-intl-hnk/index.html](https://www.cnn.com/travel/article/malaysia-oktoberfest-religious-controversy-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 04:05:20+00:00
- - tags: None
 
 The world's largest beer festival is finally back after a two year dry spell but politicians in one country are still against celebrations returning -- and it isn't because of the pandemic.
 
@@ -565,7 +495,6 @@ The world's largest beer festival is finally back after a two year dry spell but
  - [https://www.cnn.com/videos/us/2022/09/22/space-force-song-mockery-moos-orig-bdk.cnn](https://www.cnn.com/videos/us/2022/09/22/space-force-song-mockery-moos-orig-bdk.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 03:42:37+00:00
- - tags: None
 
 Space Force gets an official song but it's not music to everybody's ears. CNN's Jeanne Moos reports on the musical mockery.
 
@@ -573,7 +502,6 @@ Space Force gets an official song but it's not music to everybody's ears. CNN's 
  - [https://www.cnn.com/videos/us/2022/09/23/passenger-hits-flight-attendant-american-airlines-orig-kj-lr.cnn](https://www.cnn.com/videos/us/2022/09/23/passenger-hits-flight-attendant-american-airlines-orig-kj-lr.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 02:58:17+00:00
- - tags: None
 
 An American Airlines flight attendant was assaulted by a passenger mid-flight, according to the airline.
 
@@ -581,7 +509,6 @@ An American Airlines flight attendant was assaulted by a passenger mid-flight, a
  - [https://www.cnn.com/2022/09/22/politics/desantis-florida-officials-sued-migrant-flights-lawmaker-lawsuit/index.html](https://www.cnn.com/2022/09/22/politics/desantis-florida-officials-sued-migrant-flights-lawmaker-lawsuit/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 02:53:30+00:00
- - tags: None
 
 A Democratic lawmaker in Florida filed a lawsuit Thursday evening asking a court to block Republican Gov. Ron DeSantis from transporting more migrants from the southern border, arguing last week's flights to Martha's Vineyard violated state law.
 
@@ -589,7 +516,6 @@ A Democratic lawmaker in Florida filed a lawsuit Thursday evening asking a court
  - [https://www.cnn.com/collections/int-0922-ukraine/](https://www.cnn.com/collections/int-0922-ukraine/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 02:35:53+00:00
- - tags: None
 
 
 
@@ -597,7 +523,6 @@ A Democratic lawmaker in Florida filed a lawsuit Thursday evening asking a court
  - [https://www.cnn.com/travel/article/trans-bhutan-trail-reopening-intl-hnk/index.html](https://www.cnn.com/travel/article/trans-bhutan-trail-reopening-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 02:09:11+00:00
- - tags: None
 
 The central Asian nation of Bhutan reopens to visitors today for the first time since the pandemic began.
 
@@ -605,7 +530,6 @@ The central Asian nation of Bhutan reopens to visitors today for the first time 
  - [https://www.cnn.com/2022/09/22/football/spain-womens-national-football-team-resign-intl-spt/index.html](https://www.cnn.com/2022/09/22/football/spain-womens-national-football-team-resign-intl-spt/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 02:00:43+00:00
- - tags: None
 
 Fifteen of Spain's best women footballers have resigned from the national team, saying the training methods of their head coach are harming their emotional states and health.
 
@@ -613,7 +537,6 @@ Fifteen of Spain's best women footballers have resigned from the national team, 
  - [https://www.cnn.com/collections/intl-2309-macron/](https://www.cnn.com/collections/intl-2309-macron/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 01:46:58+00:00
- - tags: None
 
 
 
@@ -621,7 +544,6 @@ Fifteen of Spain's best women footballers have resigned from the national team, 
  - [https://www.cnn.com/2022/09/22/sport/nba-boston-celtics-head-coach-ime-udoka/index.html](https://www.cnn.com/2022/09/22/sport/nba-boston-celtics-head-coach-ime-udoka/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 01:45:09+00:00
- - tags: None
 
 Ime Udoka, head coach of the Boston Celtics, has been suspended for the entire NBA season for violations of team policies, the organization announced Thursday night.
 
@@ -629,7 +551,6 @@ Ime Udoka, head coach of the Boston Celtics, has been suspended for the entire N
  - [https://www.cnn.com/videos/us/2022/09/23/child-narrowly-avoids-suv-orig-aw.cnn](https://www.cnn.com/videos/us/2022/09/23/child-narrowly-avoids-suv-orig-aw.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 01:25:19+00:00
- - tags: None
 
 A California city is considering major traffic changes after dashcam video captured a driver nearly hitting a girl riding her scooter at a crosswalk.
 
@@ -637,7 +558,6 @@ A California city is considering major traffic changes after dashcam video captu
  - [https://www.cnn.com/collections/intl-2309-federer/](https://www.cnn.com/collections/intl-2309-federer/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 01:15:26+00:00
- - tags: None
 
 
 
@@ -645,7 +565,6 @@ A California city is considering major traffic changes after dashcam video captu
  - [https://www.cnn.com/videos/business/2022/09/22/alex-jones-ct-defamation-trial-testimony-hill-ebof-pkg-vpx.cnn](https://www.cnn.com/videos/business/2022/09/22/alex-jones-ct-defamation-trial-testimony-hill-ebof-pkg-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 01:07:09+00:00
- - tags: None
 
 InfoWars founder and conspiracy theorist Alex Jones took the stand for the first time in the defamation trial brought against him in Connecticut by families of Sandy Hook victims. Jones has said the shooting was a hoax and the victims were crisis actors, CNN's Eric Hill reports.
 
@@ -653,7 +572,6 @@ InfoWars founder and conspiracy theorist Alex Jones took the stand for the first
  - [https://www.cnn.com/videos/world/2022/09/22/ukrainians-struggle-to-rebuild-kharkiv-wedeman-pkg-tgb.cnn](https://www.cnn.com/videos/world/2022/09/22/ukrainians-struggle-to-rebuild-kharkiv-wedeman-pkg-tgb.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 00:27:24+00:00
- - tags: None
 
 Ruined homes, ruined lives, missing loved ones—the residents of towns and villages in the northern Kharkiv regions are reacting with shock and pain to what they're finding now that the Russians are gone. CNN's Ben Wedeman visits a newly liberated area near the border, near the front lines, where months of war and occupation have left deep scars.
 
@@ -661,6 +579,5 @@ Ruined homes, ruined lives, missing loved ones—the residents of towns and vill
  - [https://www.cnn.com/videos/weather/2022/09/23/weather-atlantic-systems-fiona-canada-super-storm-meteorologist-sater-lead-vpx.cnn](https://www.cnn.com/videos/weather/2022/09/23/weather-atlantic-systems-fiona-canada-super-storm-meteorologist-sater-lead-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-23 00:24:55+00:00
- - tags: None
 
 Canadians are bracing for what could be the strongest storm to ever hit their country's coast. But that's not the only storm threatening the Atlantic at the moment. CNN's Tom Sater has more.

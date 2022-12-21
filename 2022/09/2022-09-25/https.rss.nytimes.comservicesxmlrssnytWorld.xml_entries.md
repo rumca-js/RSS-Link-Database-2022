@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## Iran Protests Are Fueled in Part by Kurdish Anger
  - [https://www.nytimes.com/2022/09/25/world/middleeast/iran-protests-kurds.html](https://www.nytimes.com/2022/09/25/world/middleeast/iran-protests-kurds.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-25 21:57:49+00:00
- - tags: None
 
 The protests that have swept Iran following the death of a woman in police custody have been especially intense in the country’s minority Kurdish population.
 
@@ -12,7 +11,6 @@ The protests that have swept Iran following the death of a woman in police custo
  - [https://www.nytimes.com/2022/09/25/world/europe/russia-ukraine-forces-referendum.html](https://www.nytimes.com/2022/09/25/world/europe/russia-ukraine-forces-referendum.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-25 21:14:32+00:00
- - tags: None
 
 Panic and fear flooded the occupied territories as Russian forces rounded up men to fight and forced residents to vote in a staged referendum on joining Russia, Ukrainian officials and rights groups said.
 
@@ -20,7 +18,6 @@ Panic and fear flooded the occupied territories as Russian forces rounded up men
  - [https://www.nytimes.com/2022/09/25/briefing/protests-iran-japan-abe-asia.html](https://www.nytimes.com/2022/09/25/briefing/protests-iran-japan-abe-asia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-25 21:03:00+00:00
- - tags: None
 
 Plus anger builds in Japan over Shinzo Abe’s state funeral and Russia tries to conscript Ukrainians.
 
@@ -28,7 +25,6 @@ Plus anger builds in Japan over Shinzo Abe’s state funeral and Russia tries to
  - [https://www.nytimes.com/2022/09/25/world/europe/two-americans-return-home-months-after-being-captured-fighting-in-ukraine.html](https://www.nytimes.com/2022/09/25/world/europe/two-americans-return-home-months-after-being-captured-fighting-in-ukraine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-25 19:45:02+00:00
- - tags: None
 
 
 
@@ -36,7 +32,6 @@ Plus anger builds in Japan over Shinzo Abe’s state funeral and Russia tries to
  - [https://www.nytimes.com/2022/09/25/world/europe/roger-waters-poland-concert-ukraine.html](https://www.nytimes.com/2022/09/25/world/europe/roger-waters-poland-concert-ukraine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-25 19:10:59+00:00
- - tags: None
 
 In online exchanges with Ukraines first lady, the Pink Floyd co-founder said Ukraine should seek peace with Russia and blamed the United States for encouraging the conflict.
 
@@ -44,7 +39,6 @@ In online exchanges with Ukraines first lady, the Pink Floyd co-founder said Ukr
  - [https://www.nytimes.com/2022/09/25/world/europe/the-us-says-it-has-warned-russia-of-catastrophic-consequences-if-it-uses-nuclear-weapons-in-ukraine.html](https://www.nytimes.com/2022/09/25/world/europe/the-us-says-it-has-warned-russia-of-catastrophic-consequences-if-it-uses-nuclear-weapons-in-ukraine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-25 18:55:54+00:00
- - tags: None
 
 
 
@@ -52,7 +46,6 @@ In online exchanges with Ukraines first lady, the Pink Floyd co-founder said Ukr
  - [https://www.nytimes.com/2022/09/25/world/europe/lgbt-adoption-giorgia-meloni.html](https://www.nytimes.com/2022/09/25/world/europe/lgbt-adoption-giorgia-meloni.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-25 18:20:20+00:00
- - tags: None
 
 In her election campaign, Giorgia Meloni pledged to oppose surrogacy and adoption by gay couples.
 
@@ -60,7 +53,6 @@ In her election campaign, Giorgia Meloni pledged to oppose surrogacy and adoptio
  - [https://www.nytimes.com/2022/09/25/world/europe/ukraine-drones-iran-russia.html](https://www.nytimes.com/2022/09/25/world/europe/ukraine-drones-iran-russia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-25 18:17:52+00:00
- - tags: None
 
 As Moscow finds itself isolated internationally, and as its arsenal has been depleted during its monthslong campaign in Ukraine, it has turned for military support to countries including Iran.
 
@@ -68,7 +60,6 @@ As Moscow finds itself isolated internationally, and as its arsenal has been dep
  - [https://www.nytimes.com/2022/09/25/world/europe/in-a-un-speech-russias-foreign-minister-says-the-future-of-the-world-order-is-at-stake.html](https://www.nytimes.com/2022/09/25/world/europe/in-a-un-speech-russias-foreign-minister-says-the-future-of-the-world-order-is-at-stake.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-25 18:13:00+00:00
- - tags: None
 
 
 
@@ -76,7 +67,6 @@ As Moscow finds itself isolated internationally, and as its arsenal has been dep
  - [https://www.nytimes.com/2022/09/25/world/europe/soviet-monuments-war.html](https://www.nytimes.com/2022/09/25/world/europe/soviet-monuments-war.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-25 18:10:14+00:00
- - tags: None
 
 Across Eastern and Central Europe, statues honoring Soviet troops for their role in defeating the Nazis in World War II have in recent weeks come down or been slated for demolition.
 
@@ -84,7 +74,6 @@ Across Eastern and Central Europe, statues honoring Soviet troops for their role
  - [https://www.nytimes.com/2022/09/25/world/europe/olaf-scholz-germany-ukraine-war.html](https://www.nytimes.com/2022/09/25/world/europe/olaf-scholz-germany-ukraine-war.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-25 13:09:44+00:00
- - tags: None
 
 Military assistance to Kyiv has become something of a litmus test of Olaf Scholz’s ability to lead Europe through its most significant security crisis since World War II.
 
@@ -92,7 +81,6 @@ Military assistance to Kyiv has become something of a litmus test of Olaf Scholz
  - [https://www.nytimes.com/2022/09/25/world/europe/tiktok-italy-elections.html](https://www.nytimes.com/2022/09/25/world/europe/tiktok-italy-elections.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-25 12:00:04+00:00
- - tags: None
 
 Lawmakers set up TikTok accounts to try to reach undecided voters before Sunday’s elections. Hilarity ensued.
 
@@ -100,7 +88,6 @@ Lawmakers set up TikTok accounts to try to reach undecided voters before Sunday�
  - [https://www.nytimes.com/2022/09/25/briefing/the-morning-the-back-story-of-the-migrant-buses.html](https://www.nytimes.com/2022/09/25/briefing/the-morning-the-back-story-of-the-migrant-buses.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-25 11:28:24+00:00
- - tags: None
 
 Republican governors’ immigration stunts are actually helping some migrants.
 
@@ -108,7 +95,6 @@ Republican governors’ immigration stunts are actually helping some migrants.
  - [https://www.nytimes.com/live/2022/09/25/world/italy-elections](https://www.nytimes.com/live/2022/09/25/world/italy-elections)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-25 11:01:43+00:00
- - tags: None
 
 Opinion polls suggest that Italy’s next leader could be Giorgia Meloni, a far-right leader with post-Fascist roots. She would be the nation’s first female prime minister.
 
@@ -116,7 +102,6 @@ Opinion polls suggest that Italy’s next leader could be Giorgia Meloni, a far-
  - [https://www.nytimes.com/2022/09/25/world/africa/senegal-ferry-joola.html](https://www.nytimes.com/2022/09/25/world/africa/senegal-ferry-joola.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-25 09:00:32+00:00
- - tags: None
 
 Tourists, vendors, babies, hundreds of university students and a soccer team from Senegal perished in a little-known ferry disaster 20 years ago. Survivors and families of victims still want justice.
 
@@ -124,7 +109,6 @@ Tourists, vendors, babies, hundreds of university students and a soccer team fro
  - [https://www.nytimes.com/2022/09/25/travel/korea-land-of-morning-calm.html](https://www.nytimes.com/2022/09/25/travel/korea-land-of-morning-calm.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-25 09:00:32+00:00
- - tags: None
 
 A traveler gets beyond Seoul’s sprawl to explore tranquil thatched mountain hamlets, peaceful Buddhist temples and unhurried ‘slow food’ towns in rural South Korea.
 
@@ -132,7 +116,6 @@ A traveler gets beyond Seoul’s sprawl to explore tranquil thatched mountain ha
  - [https://www.nytimes.com/2022/09/25/world/europe/russias-defense-ministry-shakes-up-its-leadership.html](https://www.nytimes.com/2022/09/25/world/europe/russias-defense-ministry-shakes-up-its-leadership.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-25 08:59:23+00:00
- - tags: None
 
 
 
@@ -140,7 +123,6 @@ A traveler gets beyond Seoul’s sprawl to explore tranquil thatched mountain ha
  - [https://www.nytimes.com/live/2022/09/25/world/russia-ukraine-putin-news](https://www.nytimes.com/live/2022/09/25/world/russia-ukraine-putin-news)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-25 06:42:59+00:00
- - tags: None
 
 President Volodymyr Zelensky spoke in Russian as protests erupted across Russia against President Vladimir V. Putin’s attempts to conscript thousands of new troops.
 
@@ -148,7 +130,6 @@ President Volodymyr Zelensky spoke in Russian as protests erupted across Russia 
  - [https://www.nytimes.com/2022/09/25/world/asia/typhoon-noru-philippines.html](https://www.nytimes.com/2022/09/25/world/asia/typhoon-noru-philippines.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-25 05:16:46+00:00
- - tags: None
 
 Forecasters warned of heavy rains and winds that could bring flooding and landslides to densely populated areas of the country.
 
@@ -156,7 +137,6 @@ Forecasters warned of heavy rains and winds that could bring flooding and landsl
  - [https://www.nytimes.com/2022/09/25/world/europe/zelensky-calls-on-russians-to-resist-putins-conscription.html](https://www.nytimes.com/2022/09/25/world/europe/zelensky-calls-on-russians-to-resist-putins-conscription.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-25 05:08:20+00:00
- - tags: None
 
 
 
@@ -164,7 +144,6 @@ Forecasters warned of heavy rains and winds that could bring flooding and landsl
  - [https://www.nytimes.com/2022/09/24/world/asia/north-korea-ballistic-missile-launch.html](https://www.nytimes.com/2022/09/24/world/asia/north-korea-ballistic-missile-launch.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-25 02:08:54+00:00
- - tags: None
 
 The exercise was Pyongyang’s first ballistic missile test in nearly four months and came days after the U.S.S. Ronald Reagan arrived in a South Korean port.
 
@@ -172,6 +151,5 @@ The exercise was Pyongyang’s first ballistic missile test in nearly four month
  - [https://www.nytimes.com/2022/09/24/world/asia/india-democracy.html](https://www.nytimes.com/2022/09/24/world/asia/india-democracy.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-25 01:50:16+00:00
- - tags: None
 
 As India rises, Prime Minister Narendra Modi has faced little pushback as he weaponizes institutions to consolidate power and entrench his Hindu nationalist vision.

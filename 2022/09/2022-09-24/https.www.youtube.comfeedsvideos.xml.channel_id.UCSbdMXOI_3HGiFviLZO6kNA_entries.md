@@ -1,10 +1,9 @@
-# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA
+# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, Source language: en-US
 
 ## The MOST HYPED VR Game of ALL TIME
  - [https://www.youtube.com/watch?v=kFuyLh7B8nY](https://www.youtube.com/watch?v=kFuyLh7B8nY)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA
  - date published: 2022-09-24 19:05:12+00:00
- - tags: None
 
 Hello. Bonelab is releasing in 5 days. 
 

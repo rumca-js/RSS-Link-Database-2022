@@ -1,10 +1,9 @@
-# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA
+# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, Source language: en-US
 
 ## The First ACTUAL Oculus Quest 2 "Killer" is HERE
  - [https://www.youtube.com/watch?v=XSt6oFwZne0](https://www.youtube.com/watch?v=XSt6oFwZne0)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA
  - date published: 2022-09-22 18:30:34+00:00
- - tags: None
 
 Hello and welcome to TUESDAY NEWSDAY! Your number one resource for the entire weeks worth of VR news! Today we have very possibly the very first real competition for the Oculus Quest 2, The pico 4 and 4 pro were recently officially announced! 
 

@@ -1,10 +1,9 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
 
 ## Pentagon Orders Review of Its Overseas Social Media Campaigns
  - [https://www.nytimes.com/2022/09/19/us/politics/pentagon-social-media.html](https://www.nytimes.com/2022/09/19/us/politics/pentagon-social-media.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-09-19 23:01:26+00:00
- - tags: None
 
 The move comes after Twitter and Facebook shut down misleading accounts that they determined were sending messages to promote U.S. foreign policy.
 
@@ -12,7 +11,6 @@ The move comes after Twitter and Facebook shut down misleading accounts that the
  - [https://www.nytimes.com/2022/09/19/technology/social-media-election-fraud.html](https://www.nytimes.com/2022/09/19/technology/social-media-election-fraud.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-09-19 19:13:41+00:00
- - tags: None
 
 The report, by New York University’s Stern Center for Business and Human Rights, argues that the companies fuel false conspiracies about election fraud despite promises to combat them.
 
@@ -20,7 +18,6 @@ The report, by New York University’s Stern Center for Business and Human Right
  - [https://www.nytimes.com/2022/09/19/business/media/russia-war-food-supply-chain-disinformation.html](https://www.nytimes.com/2022/09/19/business/media/russia-war-food-supply-chain-disinformation.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-09-19 09:00:18+00:00
- - tags: None
 
 As the war in Ukraine has put pressure on the global markets for food, Russia has spread conspiracy theories that blame the West.
 
@@ -28,6 +25,5 @@ As the war in Ukraine has put pressure on the global markets for food, Russia ha
  - [https://www.nytimes.com/2022/09/19/business/media/food-supply-disruption-is-another-front-for-russian-falsehoods.html](https://www.nytimes.com/2022/09/19/business/media/food-supply-disruption-is-another-front-for-russian-falsehoods.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-09-19 09:00:17+00:00
- - tags: None
 
 As the war in Ukraine has put pressure on the global markets for food, Russia has spread conspiracy theories that blame the West.

@@ -1,10 +1,9 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss
+# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
 
 ## Queen's funeral draws 26 million UK viewers
  - [https://www.cnn.com/2022/09/20/media/queens-funeral-tv-viewing-figures/index.html](https://www.cnn.com/2022/09/20/media/queens-funeral-tv-viewing-figures/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-20 17:23:34+00:00
- - tags: None
 
 More than 26 million people tuned in to watch the Queen's funeral in the United Kingdom on Monday, the first to be televised for a British monarch.
 
@@ -12,7 +11,6 @@ More than 26 million people tuned in to watch the Queen's funeral in the United 
  - [https://www.cnn.com/2022/09/20/investing/dow-stock-market-today/index.html](https://www.cnn.com/2022/09/20/investing/dow-stock-market-today/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-20 16:31:43+00:00
- - tags: None
 
 So much for Wall Street sitting back and taking it easy while awaiting the Federal Reserve's latest interest rate decision on Wednesday. Stocks slid Tuesday as investors grew anxious about the impact of another big rate hike.
 
@@ -20,7 +18,6 @@ So much for Wall Street sitting back and taking it easy while awaiting the Feder
  - [https://www.cnn.com/2022/09/20/business/morgan-stanley-fine-customer-data/index.html](https://www.cnn.com/2022/09/20/business/morgan-stanley-fine-customer-data/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-20 16:24:40+00:00
- - tags: None
 
 Federal regulators accused Morgan Stanley on Tuesday of "astonishing" failures that led to the mishandling of sensitive data on some 15 million customers.
 
@@ -28,7 +25,6 @@ Federal regulators accused Morgan Stanley on Tuesday of "astonishing" failures t
  - [https://www.cnn.com/2022/09/20/business/uk-rail-strikes-october/index.html](https://www.cnn.com/2022/09/20/business/uk-rail-strikes-october/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-20 16:10:54+00:00
- - tags: None
 
 Labor unions in the United Kingdom offered the country a brief respite from a wave of strike action during the period of national mourning for the late Queen Elizabeth II.
 
@@ -36,7 +32,6 @@ Labor unions in the United Kingdom offered the country a brief respite from a wa
  - [https://www.cnn.com/2022/09/20/investing/earnings-economy-corporate-america-recession/index.html](https://www.cnn.com/2022/09/20/investing/earnings-economy-corporate-america-recession/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-20 16:06:02+00:00
- - tags: None
 
 Corporate America is starting to brace for a recession.
 
@@ -44,7 +39,6 @@ Corporate America is starting to brace for a recession.
  - [https://www.cnn.com/2022/09/20/investing/peloton-stock-takeover/index.html](https://www.cnn.com/2022/09/20/investing/peloton-stock-takeover/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-20 15:24:01+00:00
- - tags: None
 
 Peloton formally unveiled its high-priced new rowing machine Tuesday. But the company is still facing rough currents as it struggles to find its way into more friendly stock market waters.
 
@@ -52,7 +46,6 @@ Peloton formally unveiled its high-priced new rowing machine Tuesday. But the co
  - [https://www.cnn.com/2022/09/20/africa/uganda-declares-ebola-outbreak-intl/index.html](https://www.cnn.com/2022/09/20/africa/uganda-declares-ebola-outbreak-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-20 10:15:45+00:00
- - tags: None
 
 Uganda declared an outbreak of Ebola after a case of the relatively rare Sudan strain was confirmed in the country, the World Health Organization (WHO) said on Tuesday.
 
@@ -60,7 +53,6 @@ Uganda declared an outbreak of Ebola after a case of the relatively rare Sudan s
  - [https://www.cnn.com/2022/09/20/europe/valery-polyakov-russian-cosmonaut-dead-intl-scli-scn/index.html](https://www.cnn.com/2022/09/20/europe/valery-polyakov-russian-cosmonaut-dead-intl-scli-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-20 09:37:03+00:00
- - tags: None
 
 Cosmonaut Valery Vladimirovich Polyakov, who holds the record for the longest single stay in space, has died at age 80, Russian space agency Roscosmos announced Monday.
 
@@ -68,7 +60,6 @@ Cosmonaut Valery Vladimirovich Polyakov, who holds the record for the longest si
  - [https://www.cnn.com/travel/article/china-easing-entry-rules-intl-hnk/index.html](https://www.cnn.com/travel/article/china-easing-entry-rules-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-20 08:37:05+00:00
- - tags: None
 
 The Chinese government on Monday, September 19, issued draft regulations that aim to bolster tourism along its border and make it easier for some foreigners to enter China.
 
@@ -76,6 +67,5 @@ The Chinese government on Monday, September 19, issued draft regulations that ai
  - [https://www.cnn.com/2022/09/20/asia/kyrgyzstan-tajikistan-negotiating-intl-hnk/index.html](https://www.cnn.com/2022/09/20/asia/kyrgyzstan-tajikistan-negotiating-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
  - date published: 2022-09-20 04:23:49+00:00
- - tags: None
 
 Kyrgyz President Sadyr Japarov urged his country on Monday to have trust in its army and strategic partners, and said there was no need for volunteer forces at the border with Tajikistan after deadly clashes there last week.

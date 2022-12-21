@@ -1,10 +1,9 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml
+# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
 
 ## Anglia. Atak przed szkołą. 16-latek zadźgał 15-latka na oczach uczniów
  - [https://www.polsatnews.pl/wiadomosc/2022-09-22/anglia-atak-z-nozem-przed-szkola-16-latek-zadzgal-15-latka-na-oczach-uczniow/](https://www.polsatnews.pl/wiadomosc/2022-09-22/anglia-atak-z-nozem-przed-szkola-16-latek-zadzgal-15-latka-na-oczach-uczniow/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-22 17:32:00+00:00
- - tags: None
 
 W północnej Anglii przed szkołą rozegrała się tragedia. 15-letni uczeń został dźgnięty nożem na oczach swoich kolegów. Atak miał przeprowadzić o rok starszy chłopak, którego po obławie zatrzymała policja. Społeczność miasteczka złożyła rodzinie chłopca kondolencje.
 
@@ -12,7 +11,6 @@ W północnej Anglii przed szkołą rozegrała się tragedia. 15-letni uczeń zo
  - [https://www.polsatnews.pl/wiadomosc/2022-09-22/wojna-w-ukrainie-rosja-stracila-helikopter-szturmowy-aligator-przegral-z-radziecka-technologia/](https://www.polsatnews.pl/wiadomosc/2022-09-22/wojna-w-ukrainie-rosja-stracila-helikopter-szturmowy-aligator-przegral-z-radziecka-technologia/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-22 17:24:00+00:00
- - tags: None
 
 Ukraińskie siły zbrojne zestrzeliły rosyjski szturmowy śmigłowiec Ka-52 Aligator, który na terenie obwodu zaporoskiego wykonywał misję bojową. Maszynę zestrzelono ręcznym pociskiem typu Igła. Sztab ukraińskich Sił Zbrojnych poinformował w czwartek, że Rosja straciła podczas inwazji co najmniej 55 tys. 510 żołnierzy i tysiące sztuk sprzętu pancernego oraz setki samolotów i helikopterów.
 
@@ -20,7 +18,6 @@ Ukraińskie siły zbrojne zestrzeliły rosyjski szturmowy śmigłowiec Ka-52 Ali
  - [https://www.polsatnews.pl/wiadomosc/2022-09-22/iran-przez-kraj-przetaczaja-sie-protesty-po-smierci-22-latki/](https://www.polsatnews.pl/wiadomosc/2022-09-22/iran-przez-kraj-przetaczaja-sie-protesty-po-smierci-22-latki/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-22 16:16:00+00:00
- - tags: None
 
 W Iranie nie ustają protesty po śmierci 22-latki, która została zatrzymana przez policję ds. moralności. Podczas ogarniających kraj demonstracji przeciwko władzy ajatollahów Iranki publicznie palą swoje hidżaby. W sieci zamieszczają zaś filmy, na których widać, jak ścinają włosy. W wyniku starć z policją życie mogło stracić już ponad 30 osób - przekazują media.
 
@@ -28,7 +25,6 @@ W Iranie nie ustają protesty po śmierci 22-latki, która została zatrzymana p
  - [https://www.polsatnews.pl/wiadomosc/2022-09-22/usa-donald-trump-z-zarzutami-prokurator-generalna-nowego-jorku-zlozyla-pozew/](https://www.polsatnews.pl/wiadomosc/2022-09-22/usa-donald-trump-z-zarzutami-prokurator-generalna-nowego-jorku-zlozyla-pozew/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-22 15:06:00+00:00
- - tags: None
 
 Donald Trump oraz trójka jego dzieci: Donald Jr, Eric, Ivanca zostali pozwani przez prokurator generalną Nowego Jorku. Zarzucono im podawanie fałszywych wycen nieruchomości i czerpanie z tego zysków.
 
@@ -36,7 +32,6 @@ Donald Trump oraz trójka jego dzieci: Donald Jr, Eric, Ivanca zostali pozwani p
  - [https://www.polsatnews.pl/wiadomosc/2022-09-22/floryda-brutalny-atak-w-sklepie-ofiara-cudem-przezyla-probe-odciecia-glowy/](https://www.polsatnews.pl/wiadomosc/2022-09-22/floryda-brutalny-atak-w-sklepie-ofiara-cudem-przezyla-probe-odciecia-glowy/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-22 15:04:00+00:00
- - tags: None
 
 36-letni mężczyzna z Florydy podczas wizyty w sklepie nagle sięgnął po nożyczki stojące w kubku na ladzie i zaatakował nimi swojego znajomego. Napastnik zadał mu ponad 40 ciosów w okolicę szyi, głowy i tułowia. Ofiara cudem przeżyła zamach. Według amerykańskich mediów agresor dążył do odcięcia głowy poszkodowanemu.
 
@@ -44,7 +39,6 @@ Donald Trump oraz trójka jego dzieci: Donald Jr, Eric, Ivanca zostali pozwani p
  - [https://www.polsatnews.pl/wiadomosc/2022-09-22/usa-wizyta-gigantycznej-jaszczurki-na-werandzie-to-godzilla/](https://www.polsatnews.pl/wiadomosc/2022-09-22/usa-wizyta-gigantycznej-jaszczurki-na-werandzie-to-godzilla/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-22 14:46:00+00:00
- - tags: None
 
 Gigantyczna jaszczurka odwiedziła dom na Florydzie. Gad, najprawdopodobniej waran stepowy, został nagrany podczas próby wspięcia się na okno - przekazały media. Zwierzęta te nie są naturalnymi mieszkańcami Ameryki. Dzikie populacje mogą pochodzić z hodowli domowych.
 
@@ -52,7 +46,6 @@ Gigantyczna jaszczurka odwiedziła dom na Florydzie. Gad, najprawdopodobniej war
  - [https://www.polsatnews.pl/wiadomosc/2022-09-22/misja-dart-nasa-zderzy-statek-kosmiczny-z-asteroida-to-pierwszy-taki-test/](https://www.polsatnews.pl/wiadomosc/2022-09-22/misja-dart-nasa-zderzy-statek-kosmiczny-z-asteroida-to-pierwszy-taki-test/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-22 13:41:00+00:00
- - tags: None
 
 NASA wysłała statek DART w przestrzeń kosmiczną tak, by był on na kursie kolizyjnym z małą asteroidą. Rozbije się o jej powierzchnię, a naukowcy będą obserwować, czy zmieni to drogę asteroidy w przestrzeni. To pierwszy taki test w historii. Zderzenie nastąpi za trzy dni.
 
@@ -60,7 +53,6 @@ NASA wysłała statek DART w przestrzeń kosmiczną tak, by był on na kursie ko
  - [https://www.polsatnews.pl/wiadomosc/2022-09-22/rosjanie-uciekaja-przed-mobilizacja-finlandia-planuje-zamknac-granice/](https://www.polsatnews.pl/wiadomosc/2022-09-22/rosjanie-uciekaja-przed-mobilizacja-finlandia-planuje-zamknac-granice/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-22 13:28:00+00:00
- - tags: None
 
 - Decyzja o ograniczeniu wjazdu do Finlandii wkrótce zostanie ogłoszona, być może w piątek - powiedział w Polsat News fiński dziennikarz Lauri Nurmi. Dodał, że władze w Helsinkach obawiają się, że Moskwa - wraz z uciekającymi przed mobilizacją - wyśle szpiegów. - Władimir Putin zachowuje się jak Hitler, jak nazista. Zagrożenie militarne ze strony Rosji jest realne - ocenił Nurmi.
 
@@ -68,7 +60,6 @@ NASA wysłała statek DART w przestrzeń kosmiczną tak, by był on na kursie ko
  - [https://www.polsatnews.pl/wiadomosc/2022-09-22/korea-poludniowa-18-letnia-kim-jung-youn-najmlodsza-miliarderka-w-historii/](https://www.polsatnews.pl/wiadomosc/2022-09-22/korea-poludniowa-18-letnia-kim-jung-youn-najmlodsza-miliarderka-w-historii/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-22 12:18:00+00:00
- - tags: None
 
 Najmłodszą miliarderką w historii została Kim Jung-youn z Korei Południowej. 18-latka swój majątek zawdzięcza odziedziczonym po zmarłym ojcu udziałom w firmie Nexon zajmującej się grami online.
 
@@ -76,7 +67,6 @@ Najmłodszą miliarderką w historii została Kim Jung-youn z Korei Południowej
  - [https://www.polsatnews.pl/wiadomosc/2022-09-22/protesty-w-rosji-po-decyzji-o-mobilizacji-moj-syn-ma-18-lat-nie-chce-zeby-moje-dziecko-zginelo/](https://www.polsatnews.pl/wiadomosc/2022-09-22/protesty-w-rosji-po-decyzji-o-mobilizacji-moj-syn-ma-18-lat-nie-chce-zeby-moje-dziecko-zginelo/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-22 12:08:00+00:00
- - tags: None
 
 - Sięgają po życie naszych dzieci. Mój syn ma 18 lat. Nie chcę, żeby moje dziecko zginęło - wykrzykiwała jedna z mieszkanek Moskwy, która brała udział w środowych protestach przeciwko mobilizacji.
 
@@ -84,7 +74,6 @@ Najmłodszą miliarderką w historii została Kim Jung-youn z Korei Południowej
  - [https://www.polsatnews.pl/wiadomosc/2022-09-22/wymiana-jencow-ukraina-odzyskala-obroncow-azowstalu-do-rosji-trafil-wiktor-medwedczuk/](https://www.polsatnews.pl/wiadomosc/2022-09-22/wymiana-jencow-ukraina-odzyskala-obroncow-azowstalu-do-rosji-trafil-wiktor-medwedczuk/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-22 11:02:00+00:00
- - tags: None
 
 Ponad 200 obrońców kombinatu Azowstal - ostatniego bastionu broniącego się Mariupola - zostało uwolnionych z niewoli. W zamian za nich Ukraina przekazała agresorom kilkudziesięciu rosyjskich jeńców, a także Wiktora Medwedczuk, prokremlowskiego polityka. Wśród osób, które odzyskały wolność, są również cudzoziemcy.
 
@@ -92,7 +81,6 @@ Ponad 200 obrońców kombinatu Azowstal - ostatniego bastionu broniącego się M
  - [https://www.polsatnews.pl/wiadomosc/2022-09-22/kard-konrad-krajewski-odkopywali-ciala-zmarlych-w-idealnej-ciszy/](https://www.polsatnews.pl/wiadomosc/2022-09-22/kard-konrad-krajewski-odkopywali-ciala-zmarlych-w-idealnej-ciszy/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-22 09:47:00+00:00
- - tags: None
 
 To, co mnie bardzo uderzyło, to tych 50 młodych ludzi, którzy odkopywali zmarłych. Robili to w idealnej ciszy. Tak delikatnie, jakby wydobywali ciała swoich najbliższych - matkę, ojca, siostrę, brata - powiedział w Polsat News kard. Konrad Krajewski. O rozmowie z jałmużnikiem papieskim, który był przy ekshumacji zwłok ze zbiorowej mogiły w Iziumie, wspomniał niedawno Franciszek.
 
@@ -100,7 +88,6 @@ To, co mnie bardzo uderzyło, to tych 50 młodych ludzi, którzy odkopywali zmar
  - [https://www.polsatnews.pl/wiadomosc/2022-09-22/rosja-wielkie-unikanie-mobilizacji-ucieczka-z-kraju-i-sprawdzanie-jak-zlamac-reke/](https://www.polsatnews.pl/wiadomosc/2022-09-22/rosja-wielkie-unikanie-mobilizacji-ucieczka-z-kraju-i-sprawdzanie-jak-zlamac-reke/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-22 09:00:00+00:00
- - tags: None
 
 Po decyzji o ogłoszeniu mobilizacji, rosyjski internet zdominowały zapytania i wyszukiwania sposób opuszczenia terytorium Federacji Rosyjskiej. Wszystko po to, by uniknąć poboru do armii. W sieci pojawiają się też zdjęcia kolejek na granicy i tłumów opuszczających Rosję.
 
@@ -108,7 +95,6 @@ Po decyzji o ogłoszeniu mobilizacji, rosyjski internet zdominowały zapytania i
  - [https://www.polsatnews.pl/wiadomosc/2022-09-22/rosja-protesty-po-ogloszeniu-mobilizacji-zatrzymani-otrzymuja-wezwania-do-wojska/](https://www.polsatnews.pl/wiadomosc/2022-09-22/rosja-protesty-po-ogloszeniu-mobilizacji-zatrzymani-otrzymuja-wezwania-do-wojska/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-22 08:30:00+00:00
- - tags: None
 
 Ponad tysiąc zatrzymanych osób i wiele pobić - to wstępny bilans protestów w Rosji, które wybuchły po wprowadzeniu przez Władimira Putina częściowej mobilizacji. Manifestujący trafiali do komisariatów, gdzie wręczano im wezwania przed wojskową komisję.
 
@@ -116,6 +102,5 @@ Ponad tysiąc zatrzymanych osób i wiele pobić - to wstępny bilans protestów 
  - [https://www.polsatnews.pl/wiadomosc/2022-09-22/rosja-tajemniczy-smog-w-jekaterynburgu-alertow-nie-wydano/](https://www.polsatnews.pl/wiadomosc/2022-09-22/rosja-tajemniczy-smog-w-jekaterynburgu-alertow-nie-wydano/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-09-22 06:21:00+00:00
- - tags: None
 
 Drażniący gardło smog i ostry zapach spalenizny towarzyszą Rosjanom z Jekaterynburga od czwartkowego poranka. Zastanawiają się, skąd wzięło się takie stężenie pyłów, skoro lokalne centrum meteorologiczne nie wydało ostrzeżeń o zanieczyszczeniach w atmosferze. - Czuję się, jakbym chodził wśród ognia - opisał jeden z mieszkańców.

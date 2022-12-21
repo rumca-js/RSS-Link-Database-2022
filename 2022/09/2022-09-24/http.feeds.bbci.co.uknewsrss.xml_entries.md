@@ -1,10 +1,9 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml
+# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
 
 ## Qatar World Cup: Accommodation worries for football fans
  - [https://www.bbc.co.uk/news/world-middle-east-62995496?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-middle-east-62995496?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 23:55:18+00:00
- - tags: None
 
 Organisers of the football tournament are facing criticism over a lack of affordable accommodation.
 
@@ -12,7 +11,6 @@ Organisers of the football tournament are facing criticism over a lack of afford
  - [https://www.bbc.co.uk/news/in-pictures-62982519?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/in-pictures-62982519?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 23:50:56+00:00
- - tags: None
 
 A selection of striking images from our readers around the world.
 
@@ -20,7 +18,6 @@ A selection of striking images from our readers around the world.
  - [https://www.bbc.co.uk/sport/football/63023425?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63023425?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 23:44:08+00:00
- - tags: None
 
 Adrenaline gets Craig Gordon through Scotland's 2-1 Nations League win over Republic of Ireland, he says, after the goalkeeper's sleepless night due to the birth of his son.
 
@@ -28,7 +25,6 @@ Adrenaline gets Craig Gordon through Scotland's 2-1 Nations League win over Repu
  - [https://www.bbc.co.uk/news/uk-62658669?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62658669?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 23:18:23+00:00
- - tags: None
 
 The BBC has followed families who have moved from Hong Kong to the UK, to see if life is everything they hoped for.
 
@@ -36,7 +32,6 @@ The BBC has followed families who have moved from Hong Kong to the UK, to see if
  - [https://www.bbc.co.uk/news/uk-england-bristol-63010007?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-bristol-63010007?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 23:03:36+00:00
- - tags: None
 
 It is being trialled to help people with prosthetic arms enjoy sports such as surfing and yoga.
 
@@ -44,7 +39,6 @@ It is being trialled to help people with prosthetic arms enjoy sports such as su
  - [https://www.bbc.co.uk/news/stories-62980454?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/stories-62980454?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 23:02:06+00:00
- - tags: None
 
 In the 1970s, an international campaign demanded that governments recognise the value of unpaid work done in the home, primarily by women.
 
@@ -52,7 +46,6 @@ In the 1970s, an international campaign demanded that governments recognise the 
  - [https://www.bbc.co.uk/news/world-asia-india-62912448?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-india-62912448?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 23:01:25+00:00
- - tags: None
 
 Eshwar Tiwari began breaking 10 years ago for fun. He'll soon represent India at a world tournament.
 
@@ -60,7 +53,6 @@ Eshwar Tiwari began breaking 10 years ago for fun. He'll soon represent India at
  - [https://www.bbc.co.uk/sport/football/62937397?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/62937397?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 20:58:50+00:00
- - tags: None
 
 Scotland need a point away to Ukraine on Tuesday to win Nations League Group B1 after a dogged comeback victory over the Republic of Ireland at Hampden.
 
@@ -68,7 +60,6 @@ Scotland need a point away to Ukraine on Tuesday to win Nations League Group B1 
  - [https://www.bbc.co.uk/sport/rugby-league/63023833?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-league/63023833?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 20:58:49+00:00
- - tags: None
 
 Coach Kristian Woolf believes St Helens' fourth straight Grand Final win 'closes the debate on the best team in the Super League era'.
 
@@ -76,7 +67,6 @@ Coach Kristian Woolf believes St Helens' fourth straight Grand Final win 'closes
  - [https://www.bbc.co.uk/sport/football/62944397?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/62944397?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 20:04:37+00:00
- - tags: None
 
 A depleted Wales must beat Poland in Cardiff on Sunday to avoid relegation from the top tier of the Nations League.
 
@@ -84,7 +74,6 @@ A depleted Wales must beat Poland in Cardiff on Sunday to avoid relegation from 
  - [https://www.bbc.co.uk/news/63022093?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/63022093?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 19:41:56+00:00
- - tags: None
 
 The launch of the American space agency's big new Moon rocket is being delayed for the third time.
 
@@ -92,7 +81,6 @@ The launch of the American space agency's big new Moon rocket is being delayed f
  - [https://www.bbc.co.uk/sport/rugby-league/63022722?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-league/63022722?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 19:32:42+00:00
- - tags: None
 
 St Helens win a record-breaking fourth consecutive Super League Grand Final and end Kristian Woolf's tenure by beating Leeds Rhinos.
 
@@ -100,7 +88,6 @@ St Helens win a record-breaking fourth consecutive Super League Grand Final and 
  - [https://www.bbc.co.uk/sport/disability-sport/63023507?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/disability-sport/63023507?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 19:00:39+00:00
- - tags: None
 
 Mark Swan and Rebecca Bedford become European champions at the European Open Para-powerlifting Championships in Tbilisi, Georgia.
 
@@ -108,7 +95,6 @@ Mark Swan and Rebecca Bedford become European champions at the European Open Par
  - [https://www.bbc.co.uk/sport/cricket/63023469?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/63023469?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 18:59:43+00:00
- - tags: None
 
 Was India's match-winning dismissal of England's Charlie Dean really controversial, or just part of the game?
 
@@ -116,7 +102,6 @@ Was India's match-winning dismissal of England's Charlie Dean really controversi
  - [https://www.bbc.co.uk/news/entertainment-arts-62631499?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-62631499?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 18:50:25+00:00
- - tags: None
 
 The hosts of the hit Fortunately podcast will host a new weekday afternoon programme and a podcast.
 
@@ -124,7 +109,6 @@ The hosts of the hit Fortunately podcast will host a new weekday afternoon progr
  - [https://www.bbc.co.uk/news/world-europe-63021118?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63021118?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 18:19:46+00:00
- - tags: None
 
 Over 700 people were arrested at protests across the country on Saturday, rights groups said.
 
@@ -132,7 +116,6 @@ Over 700 people were arrested at protests across the country on Saturday, rights
  - [https://www.bbc.co.uk/sport/football/62937395?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/62937395?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 18:13:51+00:00
- - tags: None
 
 Josh Magennis heads home an injury-time winner as Northern Ireland came from behind to beat Kosovo at Windsor Park.
 
@@ -140,7 +123,6 @@ Josh Magennis heads home an injury-time winner as Northern Ireland came from beh
  - [https://www.bbc.co.uk/sport/av/cricket/63022555?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/cricket/63022555?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 18:00:46+00:00
- - tags: None
 
 Watch Deepti Sharma's controversial 'Mankad' dismissal of Charlie Dean as India complete a 3-0 series whitewash over England.
 
@@ -148,7 +130,6 @@ Watch Deepti Sharma's controversial 'Mankad' dismissal of Charlie Dean as India 
  - [https://www.bbc.co.uk/sport/football/63021212?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63021212?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 17:27:57+00:00
- - tags: None
 
 A record Women's Super League crowd is "still just the beginning" for women's football, says Arsenal forward Beth Mead.
 
@@ -156,7 +137,6 @@ A record Women's Super League crowd is "still just the beginning" for women's fo
  - [https://www.bbc.co.uk/sport/tennis/63022712?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/tennis/63022712?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 17:27:01+00:00
- - tags: None
 
 Cameron Norrie is beaten as Team World pull level with Team Europe, with Roger Federer cheering on his fellow Europeans the day after his retirement.
 
@@ -164,7 +144,6 @@ Cameron Norrie is beaten as Team World pull level with Team Europe, with Roger F
  - [https://www.bbc.co.uk/sport/cricket/63021184?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/63021184?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 17:25:14+00:00
- - tags: None
 
 India complete a 3-0 series whitewash over England in the third and final one-day international after a controversial dismissal by Deepti Sharma.
 
@@ -172,7 +151,6 @@ India complete a 3-0 series whitewash over England in the third and final one-da
  - [https://www.bbc.co.uk/news/uk-63020705?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63020705?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 17:00:05+00:00
- - tags: None
 
 The stone is engraved in memory of the Queen, her parents, and her late husband, the Duke of Edinburgh.
 
@@ -180,7 +158,6 @@ The stone is engraved in memory of the Queen, her parents, and her late husband,
  - [https://www.bbc.co.uk/news/uk-england-manchester-63021028?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-manchester-63021028?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 16:52:55+00:00
- - tags: None
 
 Paul Urey, 45, died in July after being detained by pro-Russian separatists at a checkpoint.
 
@@ -188,7 +165,6 @@ Paul Urey, 45, died in July after being detained by pro-Russian separatists at a
  - [https://www.bbc.co.uk/news/entertainment-arts-63022089?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63022089?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 16:16:09+00:00
- - tags: None
 
 Sanders was known for his expressive style and played with some of the great names in jazz.
 
@@ -196,7 +172,6 @@ Sanders was known for his expressive style and played with some of the great nam
  - [https://www.bbc.co.uk/news/world-europe-63021117?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63021117?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 15:44:21+00:00
- - tags: None
 
 Analysts have cited supply chains as a reason why Russia's invasion of Ukraine has faltered.
 
@@ -204,7 +179,6 @@ Analysts have cited supply chains as a reason why Russia's invasion of Ukraine h
  - [https://www.bbc.co.uk/sport/rowing/63021883?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rowing/63021883?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 15:11:42+00:00
- - tags: None
 
 Great Britain win four golds medals and seven in total on the penultimate day at the 2022 World Rowing Championships in Racice, Czech Republic.
 
@@ -212,7 +186,6 @@ Great Britain win four golds medals and seven in total on the penultimate day at
  - [https://www.bbc.co.uk/news/uk-politics-63020539?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63020539?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 15:01:17+00:00
- - tags: None
 
 Laura Kuenssberg on why her guest this Sunday faces a whole new set of political and economic challenges.
 
@@ -220,7 +193,6 @@ Laura Kuenssberg on why her guest this Sunday faces a whole new set of political
  - [https://www.bbc.co.uk/sport/av/football/63022300?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63022300?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 14:37:32+00:00
- - tags: None
 
 Watch highlights as Arsenal thrash Tottenham 4-0 in the north London derby in front of a record WSL crowd of 47,367 at Emirates Stadium.
 
@@ -228,7 +200,6 @@ Watch highlights as Arsenal thrash Tottenham 4-0 in the north London derby in fr
  - [https://www.bbc.co.uk/sport/football/62937304?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/62937304?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 14:25:39+00:00
- - tags: None
 
 Vivianne Miedema scores twice as Arsenal cruise to a north London derby victory against Tottenham in front of a record crowd at Emirates Stadium.
 
@@ -236,7 +207,6 @@ Vivianne Miedema scores twice as Arsenal cruise to a north London derby victory 
  - [https://www.bbc.co.uk/news/uk-england-oxfordshire-63021417?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-oxfordshire-63021417?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 14:16:21+00:00
- - tags: None
 
 The RAF said it was honoured to host the Sultan as reviewing officer for the presentation.
 
@@ -244,7 +214,6 @@ The RAF said it was honoured to host the Sultan as reviewing officer for the pre
  - [https://www.bbc.co.uk/news/world-middle-east-63021113?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-middle-east-63021113?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 13:52:19+00:00
- - tags: None
 
 Ebrahim Raisi pledges to "deal decisively" after an eighth straight night of protests across Iran.
 
@@ -252,7 +221,6 @@ Ebrahim Raisi pledges to "deal decisively" after an eighth straight night of pro
  - [https://www.bbc.co.uk/sport/cycling/63019067?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cycling/63019067?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 13:36:44+00:00
- - tags: None
 
 Annemiek van Vleuten rides through the pain of a fractured elbow to win the women's road race at the Road World Championships in Australia.
 
@@ -260,7 +228,6 @@ Annemiek van Vleuten rides through the pain of a fractured elbow to win the wome
  - [https://www.bbc.co.uk/sport/av/cricket/63020675?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/cricket/63020675?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 10:34:29+00:00
- - tags: None
 
 England bowler Kate Cross removes Shafali Verma and Yastika Bhatia for ducks and Harmanpreet Kaur for four to leave India 17-3 in the third ODI at Lord's.
 
@@ -268,7 +235,6 @@ England bowler Kate Cross removes Shafali Verma and Yastika Bhatia for ducks and
  - [https://www.bbc.co.uk/sport/golf/63020128?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/golf/63020128?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 10:15:41+00:00
- - tags: None
 
 Trevor Immelman is amused by the well wishes sent to his International Presidents Cup team on Friday by LIV Golf commissioner Greg Norman.
 
@@ -276,7 +242,6 @@ Trevor Immelman is amused by the well wishes sent to his International President
  - [https://www.bbc.co.uk/sport/tennis/63019062?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/tennis/63019062?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 09:46:36+00:00
- - tags: None
 
 Emma Raducanu retires with a glute injury in semi-finals of Korea Open, conceding to top seed Jelena Ostapenko.
 
@@ -284,7 +249,6 @@ Emma Raducanu retires with a glute injury in semi-finals of Korea Open, concedin
  - [https://www.bbc.co.uk/news/entertainment-arts-63019250?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63019250?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 09:42:20+00:00
- - tags: None
 
 Fletcher won an Oscar for her memorable portrayal of the film's villainous Nurse Ratched.
 
@@ -292,7 +256,6 @@ Fletcher won an Oscar for her memorable portrayal of the film's villainous Nurse
  - [https://www.bbc.co.uk/news/uk-politics-63019307?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63019307?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 09:23:00+00:00
- - tags: None
 
 The government is taking a dangerous gamble, Angela Rayner says, but ministers argue tax cuts will get the economy growing.
 
@@ -300,7 +263,6 @@ The government is taking a dangerous gamble, Angela Rayner says, but ministers a
  - [https://www.bbc.co.uk/news/uk-england-leicestershire-63016160?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-leicestershire-63016160?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 09:13:11+00:00
- - tags: None
 
 It brings the total charged to eight, with 47 arrested, following recent disorder in the city.
 
@@ -308,7 +270,6 @@ It brings the total charged to eight, with 47 arrested, following recent disorde
  - [https://www.bbc.co.uk/sport/av/cycling/63019803?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/cycling/63019803?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 08:24:20+00:00
- - tags: None
 
 Dutchwoman Annemiek van Vleuten wins women's road race gold despite a fractured elbow at the Road World Championships in Australia.
 
@@ -316,7 +277,6 @@ Dutchwoman Annemiek van Vleuten wins women's road race gold despite a fractured 
  - [https://www.bbc.co.uk/news/uk-england-london-62986188?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-london-62986188?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 07:12:26+00:00
- - tags: None
 
 Joe Murfitt has caught a fish in every one of the capital's districts and the City of London.
 
@@ -324,7 +284,6 @@ Joe Murfitt has caught a fish in every one of the capital's districts and the Ci
  - [https://www.bbc.co.uk/sport/mixed-martial-arts/63015222?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/mixed-martial-arts/63015222?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 06:40:41+00:00
- - tags: None
 
 Benson Henderson shows his class, Queally gives Dublin another walkout to remember and Manhoef's career ends in defeat - BBC Sport looks at five things we learned from Bellator Dublin.
 
@@ -332,7 +291,6 @@ Benson Henderson shows his class, Queally gives Dublin another walkout to rememb
  - [https://www.bbc.co.uk/sport/tennis/63018231?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/tennis/63018231?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 05:57:17+00:00
- - tags: None
 
 Swiss legend Roger Federer plans to say 'thank you' to his legions of fans across the world after retiring from professional tennis.
 
@@ -340,7 +298,6 @@ Swiss legend Roger Federer plans to say 'thank you' to his legions of fans acros
  - [https://www.bbc.co.uk/news/uk-northern-ireland-62924392?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-northern-ireland-62924392?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 05:35:19+00:00
- - tags: None
 
 A scandalous heist at Dublin Castle made international headlines and remains unsolved to this day.
 
@@ -348,7 +305,6 @@ A scandalous heist at Dublin Castle made international headlines and remains uns
  - [https://www.bbc.co.uk/sport/av/gymnastics/63015209?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/gymnastics/63015209?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 05:18:43+00:00
- - tags: None
 
 Three-time Olympic gold medallist Max Whitlock "felt like a complete failure" when he contemplated stepping away from the sport after the Tokyo Games.
 
@@ -356,7 +312,6 @@ Three-time Olympic gold medallist Max Whitlock "felt like a complete failure" wh
  - [https://www.bbc.co.uk/news/uk-politics-63016807?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63016807?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 05:10:33+00:00
- - tags: None
 
 For something that wasn't even technically a Budget, it was one heck of a statement of intent.
 
@@ -364,7 +319,6 @@ For something that wasn't even technically a Budget, it was one heck of a statem
  - [https://www.bbc.co.uk/news/world-europe-63016675?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63016675?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 05:05:35+00:00
- - tags: None
 
 EU foreign policy chief Josep Borrell told the BBC a dangerous moment had been reached in the Ukraine war.
 
@@ -372,7 +326,6 @@ EU foreign policy chief Josep Borrell told the BBC a dangerous moment had been r
  - [https://www.bbc.co.uk/news/uk-63009571?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63009571?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 05:04:22+00:00
- - tags: None
 
 Recent unrest between Hindu and Muslim men has raised difficult questions for the city.
 
@@ -380,7 +333,6 @@ Recent unrest between Hindu and Muslim men has raised difficult questions for th
  - [https://www.bbc.co.uk/news/uk-63015388?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63015388?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 04:49:56+00:00
- - tags: None
 
 The new home secretary writes to police chiefs saying trust has been shattered and calling for change.
 
@@ -388,7 +340,6 @@ The new home secretary writes to police chiefs saying trust has been shattered a
  - [https://www.bbc.co.uk/news/uk-politics-63011119?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63011119?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 04:35:44+00:00
- - tags: None
 
 The former Labour leader says his borrowing would have been for investment not "to pay bankers' bonuses".
 
@@ -396,7 +347,6 @@ The former Labour leader says his borrowing would have been for investment not "
  - [https://www.bbc.co.uk/news/uk-politics-63007287?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63007287?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 04:28:30+00:00
- - tags: None
 
 Unite's general secretary predicts senior Labour MPs will soon return to picket lines.
 
@@ -404,7 +354,6 @@ Unite's general secretary predicts senior Labour MPs will soon return to picket 
  - [https://www.bbc.co.uk/news/entertainment-arts-63016777?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63016777?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 04:10:10+00:00
- - tags: None
 
 US President Joe Biden surprised Sir Elton John by giving him a medal for his contribution to music.
 
@@ -412,7 +361,6 @@ US President Joe Biden surprised Sir Elton John by giving him a medal for his co
  - [https://www.bbc.co.uk/news/technology-63011289?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63011289?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 03:51:10+00:00
- - tags: None
 
 The BBC's Technology Editor, Zoe Kleinman, has been testing out the latest Apple smartphone.
 
@@ -420,7 +368,6 @@ The BBC's Technology Editor, Zoe Kleinman, has been testing out the latest Apple
  - [https://www.bbc.co.uk/news/entertainment-arts-62983127?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-62983127?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 03:44:27+00:00
- - tags: None
 
 The widely watched dancing competition has paired the celebrities, including comedian Ellie Taylor and actor Will Mellor, with their dancing professionals.
 
@@ -428,7 +375,6 @@ The widely watched dancing competition has paired the celebrities, including com
  - [https://www.bbc.co.uk/news/62878120?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/62878120?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 03:15:16+00:00
- - tags: None
 
 The government is committed to extracting more oil and gas in the North Sea.
 
@@ -436,7 +382,6 @@ The government is committed to extracting more oil and gas in the North Sea.
  - [https://www.bbc.co.uk/news/health-62986347?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/health-62986347?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 02:30:58+00:00
- - tags: None
 
 Despite public support for the NHS, satisfaction levels have fallen, raising thoughts of reform.
 
@@ -444,7 +389,6 @@ Despite public support for the NHS, satisfaction levels have fallen, raising tho
  - [https://www.bbc.co.uk/news/uk-politics-63008527?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63008527?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 01:56:10+00:00
- - tags: None
 
 Divisions haven't gone away but Labour is coalescing in opposition to Tory policies, says the BBC's Iain Watson.
 
@@ -452,7 +396,6 @@ Divisions haven't gone away but Labour is coalescing in opposition to Tory polic
  - [https://www.bbc.co.uk/news/uk-politics-63011639?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63011639?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 00:52:08+00:00
- - tags: None
 
 The sheer daring nature of the Kwasi Kwarteng's announcement caused shockwaves, says Newsnight's Nicholas Watt.
 
@@ -460,7 +403,6 @@ The sheer daring nature of the Kwasi Kwarteng's announcement caused shockwaves, 
  - [https://www.bbc.co.uk/sport/golf/63016228?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/golf/63016228?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 00:34:57+00:00
- - tags: None
 
 The United States are on course to maintain their Presidents Cup dominance as they extend their lead over the International team to 8-2 after day two.
 
@@ -468,7 +410,6 @@ The United States are on course to maintain their Presidents Cup dominance as th
  - [https://www.bbc.co.uk/sport/tennis/63014093?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/tennis/63014093?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 00:19:50+00:00
- - tags: None
 
 Roger Federer brings the curtain down on his illustrious career by teaming up with fellow great Rafael Nadal on an emotional night in London.
 
@@ -476,7 +417,6 @@ Roger Federer brings the curtain down on his illustrious career by teaming up wi
  - [https://www.bbc.co.uk/news/world-asia-india-62956110?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-india-62956110?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 00:10:51+00:00
- - tags: None
 
 On Saturday, one of India's best female cricketers is set to play her last international game.
 
@@ -484,6 +424,5 @@ On Saturday, one of India's best female cricketers is set to play her last inter
  - [https://www.bbc.co.uk/sport/gymnastics/63005037?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/gymnastics/63005037?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-24 00:02:35+00:00
- - tags: None
 
 Three-time Olympic gold medallist Max Whitlock "felt like a complete failure" when he contemplated stepping away from the sport after the Tokyo Games.

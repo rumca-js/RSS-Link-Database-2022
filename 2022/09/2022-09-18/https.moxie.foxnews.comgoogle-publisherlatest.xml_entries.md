@@ -1,10 +1,9 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml
+# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
 
 ## Cardinals' Kyler Murray pulls off incredible scramble for 2-point conversion
  - [https://www.foxnews.com/sports/cardinals-kyler-murray-pulls-off-incredible-scramble-2-point-conversion](https://www.foxnews.com/sports/cardinals-kyler-murray-pulls-off-incredible-scramble-2-point-conversion)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 23:59:16+00:00
- - tags: None
 
 Kyler Murray was doing everything he could to avoid an 0-2 start for the Arizona Cardinals, even run around for 20 seconds to complete a two-point conversion.
 
@@ -12,7 +11,6 @@ Kyler Murray was doing everything he could to avoid an 0-2 start for the Arizona
  - [https://www.foxnews.com/us/nevada-police-say-plane-crashed-during-air-race](https://www.foxnews.com/us/nevada-police-say-plane-crashed-during-air-race)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 23:54:39+00:00
- - tags: None
 
 A plane crashed during the Reno Air Races in Reno, Nevada on Sunday afternoon, officials said, asking people to avoid the area of the crash.
 
@@ -20,7 +18,6 @@ A plane crashed during the Reno Air Races in Reno, Nevada on Sunday afternoon, o
  - [https://www.foxnews.com/sports/49ers-trey-lances-season-over-suffering-broken-ankle-vs-seahawks](https://www.foxnews.com/sports/49ers-trey-lances-season-over-suffering-broken-ankle-vs-seahawks)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 23:48:58+00:00
- - tags: None
 
 After getting carted off in the first quarter with an injury, it appears that San Francisco 49ers quarterback Trey Lance's season is over early.
 
@@ -28,7 +25,6 @@ After getting carted off in the first quarter with an injury, it appears that Sa
  - [https://www.foxnews.com/media/texas-democrat-slams-kamala-harris-border-claim-call-secure-dont-know-secure](https://www.foxnews.com/media/texas-democrat-slams-kamala-harris-border-claim-call-secure-dont-know-secure)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 23:38:24+00:00
- - tags: None
 
 Texas Democrat Rep. Henry Cuellar explained in dire terms that America's southern border is nowhere near "secure," as Vice President Kamala Harris claims.
 
@@ -36,7 +32,6 @@ Texas Democrat Rep. Henry Cuellar explained in dire terms that America's souther
  - [https://www.foxnews.com/politics/california-gov-newsom-signs-bill-help-lgbtq-military-veterans-reclaim-benefits](https://www.foxnews.com/politics/california-gov-newsom-signs-bill-help-lgbtq-military-veterans-reclaim-benefits)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 23:28:42+00:00
- - tags: None
 
 California Gov. Gavin Newsom has signed a bill that will help LGBTQ military veterans discharged under "don't ask, don't tell" policies to reclaim their benefits.
 
@@ -44,7 +39,6 @@ California Gov. Gavin Newsom has signed a bill that will help LGBTQ military vet
  - [https://www.foxnews.com/world/russian-forces-targeting-civilian-infrastructure-ukraine-continues-counteroffensive-uk-says](https://www.foxnews.com/world/russian-forces-targeting-civilian-infrastructure-ukraine-continues-counteroffensive-uk-says)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 23:12:29+00:00
- - tags: None
 
 Russia is attempting to "directly undermine the morale of the Ukrainian people" by targeting civilian infrastructure, the UK Ministry of Defense said.
 
@@ -52,7 +46,6 @@ Russia is attempting to "directly undermine the morale of the Ukrainian people" 
  - [https://www.foxnews.com/entertainment/queen-elizabeth-ii-funeral-prince-george-princess-charlotte-will-walk-behind-her-majestys-coffin](https://www.foxnews.com/entertainment/queen-elizabeth-ii-funeral-prince-george-princess-charlotte-will-walk-behind-her-majestys-coffin)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 23:08:41+00:00
- - tags: None
 
 Prince William's children will attend Queen Elizabeth II funeral Monday and follow casket in the "Procession of the Coffin." Prince Harry's kids not listed.
 
@@ -60,7 +53,6 @@ Prince William's children will attend Queen Elizabeth II funeral Monday and foll
  - [https://www.foxnews.com/sports/aces-capture-1st-wnba-championship-behind-chelsea-grays-20-points](https://www.foxnews.com/sports/aces-capture-1st-wnba-championship-behind-chelsea-grays-20-points)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 23:05:32+00:00
- - tags: None
 
 The Las Vegas Aces won their first WNBA championship on Sunday in a Game 4 Finals victory against the Connecticut Sun. Chelsea Gray had 20 points.
 
@@ -68,7 +60,6 @@ The Las Vegas Aces won their first WNBA championship on Sunday in a Game 4 Final
  - [https://www.foxnews.com/sports/jacob-degrom-breaks-108-year-old-mlb-record-mets-win](https://www.foxnews.com/sports/jacob-degrom-breaks-108-year-old-mlb-record-mets-win)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 22:50:28+00:00
- - tags: None
 
 Jacob deGrom continued his historic stretch on Sunday, and he broke an MLB record that has stood since 1914. He also struck out 13 guys for the fun of it.
 
@@ -76,7 +67,6 @@ Jacob deGrom continued his historic stretch on Sunday, and he broke an MLB recor
  - [https://www.foxnews.com/sports/bucs-devin-white-takes-shot-saints-jameis-winston-we-just-knew-hed-give-ball](https://www.foxnews.com/sports/bucs-devin-white-takes-shot-saints-jameis-winston-we-just-knew-hed-give-ball)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 22:42:10+00:00
- - tags: None
 
 New Orleans Saints quarterback Jameis Winston was picked off three times in the Tampa Bay Buccaneers' win on Sunday. Devin White says the team was just biding their time.
 
@@ -84,7 +74,6 @@ New Orleans Saints quarterback Jameis Winston was picked off three times in the 
  - [https://www.foxnews.com/media/media-largely-ignores-anti-mormon-chant-oregon-byu-game](https://www.foxnews.com/media/media-largely-ignores-anti-mormon-chant-oregon-byu-game)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 22:32:40+00:00
- - tags: None
 
 Mainstream media largely ignored anti-Mormon chanting done at a college football game on Saturday after nonstop coverage of a racial hoax at Duke University.
 
@@ -92,7 +81,6 @@ Mainstream media largely ignored anti-Mormon chanting done at a college football
  - [https://www.foxnews.com/sports/herm-edwards-arizona-state-part-ways-tough-loss-eastern-michigan](https://www.foxnews.com/sports/herm-edwards-arizona-state-part-ways-tough-loss-eastern-michigan)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 22:32:09+00:00
- - tags: None
 
 Arizona State and Herm Edwards decided to part ways following the team's loss to Eastern Michigan on Saturday. Arizona State started the season 1-2.
 
@@ -100,7 +88,6 @@ Arizona State and Herm Edwards decided to part ways following the team's loss to
  - [https://www.foxnews.com/politics/californias-newsom-signs-bill-cracks-down-hate-crime](https://www.foxnews.com/politics/californias-newsom-signs-bill-cracks-down-hate-crime)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 22:28:09+00:00
- - tags: None
 
 California Gov. Gavin Newsom has signed a bill that cracks down on hate crime by ensuring that burning crosses or using swastikas and nooses carry the same penalty.
 
@@ -108,7 +95,6 @@ California Gov. Gavin Newsom has signed a bill that cracks down on hate crime by
  - [https://www.foxnews.com/world/ukraine-zelenskyy-promises-no-lull-taking-back-towns-russia](https://www.foxnews.com/world/ukraine-zelenskyy-promises-no-lull-taking-back-towns-russia)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 22:07:11+00:00
- - tags: None
 
 Ukrainian President Volodymyr Zelenskyy promised in his nightly adddres that there would be no let ups in the recent counteroffensive that has seen major wins against Russia.
 
@@ -116,7 +102,6 @@ Ukrainian President Volodymyr Zelenskyy promised in his nightly adddres that the
  - [https://www.foxnews.com/media/nbc-national-security-analyst-cautions-against-calling-desantis-migrant-stunt-human-trafficking](https://www.foxnews.com/media/nbc-national-security-analyst-cautions-against-calling-desantis-migrant-stunt-human-trafficking)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 22:02:22+00:00
- - tags: None
 
 NBC News analyst condemned Florida Gov. Ron DeSantis while on Dean Obeidallah's radio show, but warned not to accuse the governor of human trafficking.
 
@@ -124,7 +109,6 @@ NBC News analyst condemned Florida Gov. Ron DeSantis while on Dean Obeidallah's 
  - [https://www.foxnews.com/us/florida-commissioner-suggests-putting-bounties-invasive-iguanas-dead-alive](https://www.foxnews.com/us/florida-commissioner-suggests-putting-bounties-invasive-iguanas-dead-alive)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 22:00:14+00:00
- - tags: None
 
 The rampant overpopulation of iguanas along Florida's Atlantic Coast prompted a Miami Beach commissioner to propose putting a bounty on the invasive species.
 
@@ -132,7 +116,6 @@ The rampant overpopulation of iguanas along Florida's Atlantic Coast prompted a 
  - [https://www.foxnews.com/sports/arsenal-youngster-makes-premier-league-history-debut](https://www.foxnews.com/sports/arsenal-youngster-makes-premier-league-history-debut)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 21:58:26+00:00
- - tags: None
 
 Arsenal midfielder Ethan Nwaneri broke an English Premier League record in the club's 3-0 victory against Brentford to Sunday by becoming the youngest player to make their debut.
 
@@ -140,7 +123,6 @@ Arsenal midfielder Ethan Nwaneri broke an English Premier League record in the c
  - [https://www.foxnews.com/sports/patriots-avoid-first-0-2-start-21-years-gutsy-win-steelers](https://www.foxnews.com/sports/patriots-avoid-first-0-2-start-21-years-gutsy-win-steelers)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 21:56:01+00:00
- - tags: None
 
 The New England Patriots were staring 0-2 in the face, which would have marked the first time they had that record since 2001. But crisis was averted.
 
@@ -148,7 +130,6 @@ The New England Patriots were staring 0-2 in the face, which would have marked t
  - [https://www.foxnews.com/sports/amon-ra-st-brown-aidan-hutchinson-lead-lions-first-win-season-commanders](https://www.foxnews.com/sports/amon-ra-st-brown-aidan-hutchinson-lead-lions-first-win-season-commanders)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 21:54:47+00:00
- - tags: None
 
 Amon-Ra St. Brown went off for 184 scrimmage yards and two touchdowns, while second overall pick Aidan Hutchinson had three sacks in the Lions' win over the Commanders.
 
@@ -156,7 +137,6 @@ Amon-Ra St. Brown went off for 184 scrimmage yards and two touchdowns, while sec
  - [https://www.foxnews.com/media/nyt-blames-russian-trolls-amplifying-antisemitism-allegations-down-womens-march-movement](https://www.foxnews.com/media/nyt-blames-russian-trolls-amplifying-antisemitism-allegations-down-womens-march-movement)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 21:37:14+00:00
- - tags: None
 
 The New York Times claims in a new report that Russian internet trolls are primarily to blame for dismantling the Women's Movement, not allegations of antisemitism.
 
@@ -164,7 +144,6 @@ The New York Times claims in a new report that Russian internet trolls are prima
  - [https://www.foxnews.com/sports/tom-brady-helps-bucs-big-win-nfc-south-rival-lose-mike-evans-to-in-game-brawl](https://www.foxnews.com/sports/tom-brady-helps-bucs-big-win-nfc-south-rival-lose-mike-evans-to-in-game-brawl)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 21:30:51+00:00
- - tags: None
 
 Despite Mike Evans' ejection, the Tampa Bay Buccaneers held off the New Orleans Saints for a big NFC South divisional win on Sunday afternoon.
 
@@ -172,7 +151,6 @@ Despite Mike Evans' ejection, the Tampa Bay Buccaneers held off the New Orleans 
  - [https://www.foxnews.com/world/japan-sees-unprecedented-typhoon-slam-shore-causing-power-outages-massive-evacuations](https://www.foxnews.com/world/japan-sees-unprecedented-typhoon-slam-shore-causing-power-outages-massive-evacuations)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 21:08:10+00:00
- - tags: None
 
 Portions of Japan braced for Typhoon Nanmadol as it slammed onto the southern coast on Sunday, causing major disruptions to infrastructure.
 
@@ -180,7 +158,6 @@ Portions of Japan braced for Typhoon Nanmadol as it slammed onto the southern co
  - [https://www.foxnews.com/sports/49ers-trey-lance-carted-off-field-ankle-injury](https://www.foxnews.com/sports/49ers-trey-lance-carted-off-field-ankle-injury)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 21:03:46+00:00
- - tags: None
 
 San Francisco 49ers' second-year quarterback Trey Lance was carted off the field on Sunday in a game against the Seattle Seahawks. Jimmy Garoppolo replaced him.
 
@@ -188,7 +165,6 @@ San Francisco 49ers' second-year quarterback Trey Lance was carted off the field
  - [https://www.foxnews.com/entertainment/king-charles-iii-queen-consort-camilla-deeply-touched-support-death-queen-elizabeth-ii](https://www.foxnews.com/entertainment/king-charles-iii-queen-consort-camilla-deeply-touched-support-death-queen-elizabeth-ii)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 21:00:41+00:00
- - tags: None
 
 King Charles III thanked the "countless people" offering comfort in royal family time of grief after Queen Elizabeth II died on Sept. 8 at the age of 96.
 
@@ -196,7 +172,6 @@ King Charles III thanked the "countless people" offering comfort in royal family
  - [https://www.foxnews.com/sports/tua-tagovailoas-monster-game-propels-dolphins-stunning-come-back-victory-ravens](https://www.foxnews.com/sports/tua-tagovailoas-monster-game-propels-dolphins-stunning-come-back-victory-ravens)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 20:58:16+00:00
- - tags: None
 
 Tua Tagovailoa completely took over the game against the Baltimore Ravens and led the Miami Dolphins to a thrilling Week 2 victory while putting up monster numbers.
 
@@ -204,7 +179,6 @@ Tua Tagovailoa completely took over the game against the Baltimore Ravens and le
  - [https://www.foxnews.com/sports/giants-squeak-out-win-panthers-start-2-0-first-time-since-2016](https://www.foxnews.com/sports/giants-squeak-out-win-panthers-start-2-0-first-time-since-2016)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 20:49:09+00:00
- - tags: None
 
 No one ever said it had to be pretty, but the New York Giants will take wins any way they can. They are 2-0 for the first time in six years.
 
@@ -212,7 +186,6 @@ No one ever said it had to be pretty, but the New York Giants will take wins any
  - [https://www.foxnews.com/us/los-angeles-police-officers-shoot-man-holding-realistic-looking-airsoft-rifle](https://www.foxnews.com/us/los-angeles-police-officers-shoot-man-holding-realistic-looking-airsoft-rifle)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 20:43:50+00:00
- - tags: None
 
 A man brandishing a realistic-looking airsoft rifle was shot dead Saturday by Los Angeles police officers responding to a domestic disturbance call at a residential address.
 
@@ -220,7 +193,6 @@ A man brandishing a realistic-looking airsoft rifle was shot dead Saturday by Lo
  - [https://www.foxnews.com/us/migrant-deaths-border-reach-record-782-year-cbp-officials-say](https://www.foxnews.com/us/migrant-deaths-border-reach-record-782-year-cbp-officials-say)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 20:27:45+00:00
- - tags: None
 
 A record number of migrants have already died trying to cross the southern border this year, highlighting the dangerous conditions many border crossers face.
 
@@ -228,7 +200,6 @@ A record number of migrants have already died trying to cross the southern borde
  - [https://www.foxnews.com/us/reagan-library-spokesperson-remembers-special-friendship-queen-elizabeth-former-president](https://www.foxnews.com/us/reagan-library-spokesperson-remembers-special-friendship-queen-elizabeth-former-president)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 20:18:07+00:00
- - tags: None
 
 A spokesperson for the Ronald Reagan Presidential Library reflected on the former president's friendship with the late Queen Elizabeth II, during an interview with Fox News Digital.
 
@@ -236,7 +207,6 @@ A spokesperson for the Ronald Reagan Presidential Library reflected on the forme
  - [https://www.foxnews.com/sports/trevor-lawrence-throws-2-touchdown-passes-jaguars-pitch-shutout-colts](https://www.foxnews.com/sports/trevor-lawrence-throws-2-touchdown-passes-jaguars-pitch-shutout-colts)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 20:15:37+00:00
- - tags: None
 
 The Jacksonville Jaguars won their eight consecutive home game over the Indianapolis Colts on Sunday with a 24-0 shellacking. Trevor Lawrence had two touchdown passes.
 
@@ -244,7 +214,6 @@ The Jacksonville Jaguars won their eight consecutive home game over the Indianap
  - [https://www.foxnews.com/sports/mets-pirates-benches-clear-pete-alonso-gets-hit-pitch](https://www.foxnews.com/sports/mets-pirates-benches-clear-pete-alonso-gets-hit-pitch)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 20:15:31+00:00
- - tags: None
 
 The New York Mets have been hit by 102 pitches this season, by far the most in the Major Leagues. After being hit on Sunday, Pete Alonso took offense
 
@@ -252,7 +221,6 @@ The New York Mets have been hit by 102 pitches this season, by far the most in t
  - [https://www.foxnews.com/sports/aaron-judge-blasts-58th-home-run-chase-roger-maris-al-record](https://www.foxnews.com/sports/aaron-judge-blasts-58th-home-run-chase-roger-maris-al-record)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 20:01:18+00:00
- - tags: None
 
 Aaron Judge is four home runs from breaking Roger Maris' American League record of 61 home runs that he set in 1961. Judge hit his 58th of the year on Sunday.
 
@@ -260,7 +228,6 @@ Aaron Judge is four home runs from breaking Roger Maris' American League record 
  - [https://www.foxnews.com/sports/aaron-judge-blasts-two-home-runs-bring-himself-one-away-60-season](https://www.foxnews.com/sports/aaron-judge-blasts-two-home-runs-bring-himself-one-away-60-season)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 20:01:18+00:00
- - tags: None
 
 Aaron Judge is four home runs from breaking Roger Maris' American League record of 61 home runs that he set in 1961. Judge hit his 58th of the year on Sunday.
 
@@ -268,7 +235,6 @@ Aaron Judge is four home runs from breaking Roger Maris' American League record 
  - [https://www.foxnews.com/sports/mike-evans-marshon-lattimore-ejected-from-bucs-saints-game-following-brouhaha](https://www.foxnews.com/sports/mike-evans-marshon-lattimore-ejected-from-bucs-saints-game-following-brouhaha)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 20:00:43+00:00
- - tags: None
 
 Tensions boiled over between Mike Evans and Marshon Lattimore on Sunday in their Week 2 matchup. The Buccaneers and Saints players had to be separated.
 
@@ -276,7 +242,6 @@ Tensions boiled over between Mike Evans and Marshon Lattimore on Sunday in their
  - [https://www.foxnews.com/us/puerto-rico-blackout-hurricane-fiona-residents-without-power-several-days](https://www.foxnews.com/us/puerto-rico-blackout-hurricane-fiona-residents-without-power-several-days)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 19:53:27+00:00
- - tags: None
 
 The entire island of Puerto Rico is without power as a result of Hurricane Fiona, and a power company says that it could be days before full power restoration occurs.
 
@@ -284,7 +249,6 @@ The entire island of Puerto Rico is without power as a result of Hurricane Fiona
  - [https://www.foxnews.com/politics/climate-czar-john-kerry-warns-africa-natural-gas-bring-power-millions](https://www.foxnews.com/politics/climate-czar-john-kerry-warns-africa-natural-gas-bring-power-millions)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 19:43:26+00:00
- - tags: None
 
 U.S. climate envoy John Kerry cautioned African nations not to invest in long-term natural gas projects that could help bring electricity to millions in the region.
 
@@ -292,7 +256,6 @@ U.S. climate envoy John Kerry cautioned African nations not to invest in long-te
  - [https://www.foxnews.com/sports/tom-bradys-temper-flares-bucs-struggle-saints](https://www.foxnews.com/sports/tom-bradys-temper-flares-bucs-struggle-saints)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 19:40:01+00:00
- - tags: None
 
 A frustrated Tom Brady was seen yelling toward his sideline and tossing his tablet after another lackluster drive. At that point, the Bucs were down 3-0.
 
@@ -300,7 +263,6 @@ A frustrated Tom Brady was seen yelling toward his sideline and tossing his tabl
  - [https://www.foxnews.com/sports/ravens-marcus-williams-records-sensational-interceptions-first-half-vs-dolphins](https://www.foxnews.com/sports/ravens-marcus-williams-records-sensational-interceptions-first-half-vs-dolphins)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 19:21:41+00:00
- - tags: None
 
 Baltimore Ravens defensive back Marcus Williams put together a defensive clinic against the Miami Dolphins on Sunday. He had two picks in the first half.
 
@@ -308,7 +270,6 @@ Baltimore Ravens defensive back Marcus Williams put together a defensive clinic 
  - [https://www.foxnews.com/entertainment/president-biden-dr-jill-biden-pay-respects-the-queen-lies-state-along-heads-states](https://www.foxnews.com/entertainment/president-biden-dr-jill-biden-pay-respects-the-queen-lies-state-along-heads-states)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 19:16:30+00:00
- - tags: None
 
 President Joe Biden and First Lady Dr. Jill Biden, along with other dignitaries, arrived at Westminster Hall to pay their respects to the late Queen Elizabeth II who continues to lie in state.
 
@@ -316,7 +277,6 @@ President Joe Biden and First Lady Dr. Jill Biden, along with other dignitaries,
  - [https://www.foxnews.com/us/border-patrol-seize-450-pounds-meth-abandoned-hummer-canadian-border](https://www.foxnews.com/us/border-patrol-seize-450-pounds-meth-abandoned-hummer-canadian-border)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 19:12:55+00:00
- - tags: None
 
 About 450 pounds of meth worth $1.7 million were seized from an abandoned Hummer near the Canadian border recently, according to Border Patrol's Blaine Station.
 
@@ -324,7 +284,6 @@ About 450 pounds of meth worth $1.7 million were seized from an abandoned Hummer
  - [https://www.foxnews.com/us/new-york-historical-reenactments-canceled-fear-participants-thrown-jail-gun-laws](https://www.foxnews.com/us/new-york-historical-reenactments-canceled-fear-participants-thrown-jail-gun-laws)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 19:02:42+00:00
- - tags: None
 
 Some historical reenactments in New York have been canceled due to the use of guns by participants that might break the state's new, strict laws on guns in "sensitive areas."
 
@@ -332,7 +291,6 @@ Some historical reenactments in New York have been canceled due to the use of gu
  - [https://www.foxnews.com/politics/rubio-migrants-sent-marthas-vineyard-minuscule-fraction-problem-facing-border-communities](https://www.foxnews.com/politics/rubio-migrants-sent-marthas-vineyard-minuscule-fraction-problem-facing-border-communities)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 18:59:57+00:00
- - tags: None
 
 Sen. Marco Rubio said that while Martha's Vineyard is struggling with 50 migrants sent up north by Florida Gov. Ron DeSantis, border communities deal with much more.
 
@@ -340,7 +298,6 @@ Sen. Marco Rubio said that while Martha's Vineyard is struggling with 50 migrant
  - [https://www.foxnews.com/us/arizona-man-finds-bag-fentanyl-meth-his-property-police](https://www.foxnews.com/us/arizona-man-finds-bag-fentanyl-meth-his-property-police)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 18:57:55+00:00
- - tags: None
 
 A Phoenix man discovered a bag left on his property earlier this month containing around 117,500 fentanyl pills and 49 bags of methamphetamine, police said.
 
@@ -348,7 +305,6 @@ A Phoenix man discovered a bag left on his property earlier this month containin
  - [https://www.foxnews.com/us/new-model-enlist-regular-americans-resettle-refugees](https://www.foxnews.com/us/new-model-enlist-regular-americans-resettle-refugees)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 18:56:32+00:00
- - tags: None
 
 Humanitarian organizations and ordinary American citizens are working to help resettle Afghan refugees after the U.S. military's withdrawal from Kabul in 2021.
 
@@ -356,7 +312,6 @@ Humanitarian organizations and ordinary American citizens are working to help re
  - [https://www.foxnews.com/world/us-backed-kurdish-forces-detain-300-isis-fighters-al-hol-camp-raid-operation](https://www.foxnews.com/world/us-backed-kurdish-forces-detain-300-isis-fighters-al-hol-camp-raid-operation)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 18:54:40+00:00
- - tags: None
 
 CENTCOM has focused on the Syrian refugee camp al-Hol as a significant target for ISIS recruitment and indoctrination due to the severe conditions present at the camp.
 
@@ -364,7 +319,6 @@ CENTCOM has focused on the Syrian refugee camp al-Hol as a significant target fo
  - [https://www.foxnews.com/sports/ap-top-25-poll-washington-back-rankings-georgia-leads-pack](https://www.foxnews.com/sports/ap-top-25-poll-washington-back-rankings-georgia-leads-pack)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 18:54:36+00:00
- - tags: None
 
 Washington's upset over Michigan State catapulted them into the AP Top 25 on Sunday with most of the top of the rankings staying the same.
 
@@ -372,7 +326,6 @@ Washington's upset over Michigan State catapulted them into the AP Top 25 on Sun
  - [https://www.foxnews.com/tech/google-chrome-safe-but-make-it-even-safer-use](https://www.foxnews.com/tech/google-chrome-safe-but-make-it-even-safer-use)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 18:21:05+00:00
- - tags: None
 
 Google Chrome is one of the most popular browsers in the world. There are easy ways to get even more out of the user experience with some simple tricks
 
@@ -380,7 +333,6 @@ Google Chrome is one of the most popular browsers in the world. There are easy w
  - [https://www.foxnews.com/politics/zeldin-vows-fire-liberal-manhattan-da-day-one-rips-hochuls-cashless-bail-support-save-this-state](https://www.foxnews.com/politics/zeldin-vows-fire-liberal-manhattan-da-day-one-rips-hochuls-cashless-bail-support-save-this-state)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 18:14:29+00:00
- - tags: None
 
 Republican New York gubernatorial candidate asked Democratic voters to help him “save this state,” as he promised to fire liberal Manhattan DA Alvin Bragg on “day one.”
 
@@ -388,7 +340,6 @@ Republican New York gubernatorial candidate asked Democratic voters to help him 
  - [https://www.foxnews.com/politics/ny-gov-hochul-fire-covid-test-democrat-donor-deal-week-absentee-ballots-sent-out](https://www.foxnews.com/politics/ny-gov-hochul-fire-covid-test-democrat-donor-deal-week-absentee-ballots-sent-out)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 18:10:31+00:00
- - tags: None
 
 New York Gov. Kathy Hochul is implicated in an alleged “pay to play” scheme in which the state paid 45% more than California for rapid COVID tests from the same supplier.
 
@@ -396,7 +347,6 @@ New York Gov. Kathy Hochul is implicated in an alleged “pay to play” scheme 
  - [https://www.foxnews.com/media/marc-short-desantis-decision-send-migrants-marthas-vineyard-highlights-fake-outrage-dems-media](https://www.foxnews.com/media/marc-short-desantis-decision-send-migrants-marthas-vineyard-highlights-fake-outrage-dems-media)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 18:07:42+00:00
- - tags: None
 
 Marc Short said Sunday that Gov. Ron DeSantis' decision to fly migrants to Martha's Vineyard was highlighting the "fake outrage" coming from Democrats and the media.
 
@@ -404,7 +354,6 @@ Marc Short said Sunday that Gov. Ron DeSantis' decision to fly migrants to Marth
  - [https://www.foxnews.com/us/puerto-rico-braces-fiona-storm-escalates-hurricane-before-landfall](https://www.foxnews.com/us/puerto-rico-braces-fiona-storm-escalates-hurricane-before-landfall)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 18:06:39+00:00
- - tags: None
 
 Tropical Storm Fiona official evolved into a hurricane on Sunday, and experts say it is likely to continue gaining strength over the next few days before it hits Puerto Rico.
 
@@ -412,7 +361,6 @@ Tropical Storm Fiona official evolved into a hurricane on Sunday, and experts sa
  - [https://www.foxnews.com/us/denver-set-give-140-homeless-people-12000-cash-part-basic-income-program](https://www.foxnews.com/us/denver-set-give-140-homeless-people-12000-cash-part-basic-income-program)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 18:02:34+00:00
- - tags: None
 
 The city of Denver approved a $2 million contract with Denver Basic Income Project that will give more than 140 homeless people up to $1,000 in cash a month for up to a year.
 
@@ -420,7 +368,6 @@ The city of Denver approved a $2 million contract with Denver Basic Income Proje
  - [https://www.foxnews.com/us/florida-police-seeking-suspected-gunman-who-opened-fire-firetruck-responding-call](https://www.foxnews.com/us/florida-police-seeking-suspected-gunman-who-opened-fire-firetruck-responding-call)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 17:59:04+00:00
- - tags: None
 
 Police in Lauderhill, Florida, are seeking a man suspected of firing multiple shots at a fire truck that was responding to a call on Friday, authorities said.
 
@@ -428,7 +375,6 @@ Police in Lauderhill, Florida, are seeking a man suspected of firing multiple sh
  - [https://www.foxnews.com/us/colorado-man-convicted-1982-slayings-2-women-last-seen-hitchhiking-near-rocky-mountains](https://www.foxnews.com/us/colorado-man-convicted-1982-slayings-2-women-last-seen-hitchhiking-near-rocky-mountains)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 17:56:19+00:00
- - tags: None
 
 A jury deliberated for five hours to convict Alan Lee Phillips man for the 1982 killings of Annette Schnee and Barbara Oberholtzer last seen hitchhiking near the Rocky Mountains.
 
@@ -436,7 +382,6 @@ A jury deliberated for five hours to convict Alan Lee Phillips man for the 1982 
  - [https://www.foxnews.com/us/hundreds-more-nyc-teachers-aides-fired-not-complying-covid-19-vaccine-mandate-report](https://www.foxnews.com/us/hundreds-more-nyc-teachers-aides-fired-not-complying-covid-19-vaccine-mandate-report)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 17:49:32+00:00
- - tags: None
 
 An additional 850 teachers and aides in New York City have been fired after failing to comply with the Department of Education's COVID-19 vaccine mandate.
 
@@ -444,7 +389,6 @@ An additional 850 teachers and aides in New York City have been fired after fail
  - [https://www.foxnews.com/sports/ravens-devin-duvernay-speeds-end-zone-103-yard-kick-return-touchdown](https://www.foxnews.com/sports/ravens-devin-duvernay-speeds-end-zone-103-yard-kick-return-touchdown)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 17:45:45+00:00
- - tags: None
 
 Baltimore Ravens star Devin Duvernay proved last season how dangerous he was on punt returns and on Sunday did it on the kickoff. He helped the Ravens go up 7-0 early.
 
@@ -452,7 +396,6 @@ Baltimore Ravens star Devin Duvernay proved last season how dangerous he was on 
  - [https://www.foxnews.com/sports/pirates-kebryan-hayes-eating-sunflower-seeds-mets-player-heads-home](https://www.foxnews.com/sports/pirates-kebryan-hayes-eating-sunflower-seeds-mets-player-heads-home)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 17:36:07+00:00
- - tags: None
 
 Pittsburgh Pirates third baseman Ke'Bryan Hayes was caught on a broadcast Friday eating sunflower seeds during a play. He and manager Derek Shelton addressed it Saturday.
 
@@ -460,7 +403,6 @@ Pittsburgh Pirates third baseman Ke'Bryan Hayes was caught on a broadcast Friday
  - [https://www.foxnews.com/sports/saints-jameis-winston-playing-bucs-four-fractures-his-back-nfl-insider-says](https://www.foxnews.com/sports/saints-jameis-winston-playing-bucs-four-fractures-his-back-nfl-insider-says)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 17:29:46+00:00
- - tags: None
 
 Jameis Winston will play the Tampa Bay Buccaneers with a bad back, according to FOX NFL insider Jay Glazer. The New Orleans Saints have a winning streak to contend with.
 
@@ -468,7 +410,6 @@ Jameis Winston will play the Tampa Bay Buccaneers with a bad back, according to 
  - [https://www.foxnews.com/politics/yeshiva-university-suspends-all-campus-clubs-supreme-court-denies-bid-block-lgbtq-group](https://www.foxnews.com/politics/yeshiva-university-suspends-all-campus-clubs-supreme-court-denies-bid-block-lgbtq-group)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 17:26:54+00:00
- - tags: None
 
 Yeshiva University, after the Supreme Court denied their attempt to block an LGBTQ+ club on campus, has suspended all campus groups while they seek other legal remedies.
 
@@ -476,7 +417,6 @@ Yeshiva University, after the Supreme Court denied their attempt to block an LGB
  - [https://www.foxnews.com/us/conservatives-blast-marthas-vineyard-leftist-hypocrisy-deporting-illegal-immigrants-island](https://www.foxnews.com/us/conservatives-blast-marthas-vineyard-leftist-hypocrisy-deporting-illegal-immigrants-island)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 17:14:07+00:00
- - tags: None
 
 Many conservatives on Twitter ripped the wealthy liberal residents of Martha's Vineyard for deporting the 50 illegal immigrants shipped there by Florida Gov. Ron DeSantis.
 
@@ -484,7 +424,6 @@ Many conservatives on Twitter ripped the wealthy liberal residents of Martha's V
  - [https://www.foxnews.com/media/chuck-todd-new-nbc-poll-biden-getting-lift-from-simply-donald-trumps-presence](https://www.foxnews.com/media/chuck-todd-new-nbc-poll-biden-getting-lift-from-simply-donald-trumps-presence)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 16:58:31+00:00
- - tags: None
 
 "Meet the Press" host Chuck Todd said new NBC polling showed that President Biden is getting a "lift" from the "presence" of former President Donald Trump.
 
@@ -492,7 +431,6 @@ Many conservatives on Twitter ripped the wealthy liberal residents of Martha's V
  - [https://www.foxnews.com/sports/patriots-jakobi-meyers-questions-teams-offensive-game-plan-report](https://www.foxnews.com/sports/patriots-jakobi-meyers-questions-teams-offensive-game-plan-report)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 16:57:11+00:00
- - tags: None
 
 New England Patriots wide receiver Jakobi Meyers reportedly questioned the team's offensive game plan ahead of their Week 2 game against the Pittsburgh Steelers
 
@@ -500,7 +438,6 @@ New England Patriots wide receiver Jakobi Meyers reportedly questioned the team'
  - [https://www.foxnews.com/politics/nyc-mayor-adams-accuses-gop-governors-sending-migrant-buses-distract-human-rights-abuses](https://www.foxnews.com/politics/nyc-mayor-adams-accuses-gop-governors-sending-migrant-buses-distract-human-rights-abuses)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 16:51:10+00:00
- - tags: None
 
 Democratic New York City Mayor Eric Adams claimed Republican Governors Greg Abbott and Ron DeSantis were sending migrants to other states because they are "covering up" their policies.
 
@@ -508,7 +445,6 @@ Democratic New York City Mayor Eric Adams claimed Republican Governors Greg Abbo
  - [https://www.foxnews.com/lifestyle/marthas-vineyard-residents-lament-lack-resources-island-flush-cash-beds](https://www.foxnews.com/lifestyle/marthas-vineyard-residents-lament-lack-resources-island-flush-cash-beds)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 16:47:18+00:00
- - tags: None
 
 Martha's Vineyard residents say 50 migrants had to be shipped to a mainland military base because the island lacks resources, yet real estate and state data indicate the island is awash in resources.
 
@@ -516,7 +452,6 @@ Martha's Vineyard residents say 50 migrants had to be shipped to a mainland mili
  - [https://www.foxnews.com/politics/el-paso-mayor-citys-goal-help-bus-migrants-their-destinations-treat-them-like-human-beings](https://www.foxnews.com/politics/el-paso-mayor-citys-goal-help-bus-migrants-their-destinations-treat-them-like-human-beings)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 16:41:58+00:00
- - tags: None
 
 El Paso Mayor Oscar Leeser said the city is helping bus migrants to their destinations in other parts of the U.S. as the border city continues to face an influx of migrants.
 
@@ -524,7 +459,6 @@ El Paso Mayor Oscar Leeser said the city is helping bus migrants to their destin
  - [https://www.foxnews.com/us/charlie-crist-civil-rights-group-call-criminal-probe-ron-desantis-marthas-vineyard-stunt](https://www.foxnews.com/us/charlie-crist-civil-rights-group-call-criminal-probe-ron-desantis-marthas-vineyard-stunt)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 16:21:44+00:00
- - tags: None
 
 Lawyers representing migrants in Martha's Vineyard are seeking a federal criminal probe into Florida Gov. Ron DeSantis for sending the immigrants under "false pretenses."
 
@@ -532,7 +466,6 @@ Lawyers representing migrants in Martha's Vineyard are seeking a federal crimina
  - [https://www.foxnews.com/politics/marthas-vineyard-massachusetts-governor-solicits-donations-migrant-housing-update](https://www.foxnews.com/politics/marthas-vineyard-massachusetts-governor-solicits-donations-migrant-housing-update)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 16:20:25+00:00
- - tags: None
 
 Democratic MA Gov. Charlie Baker provided an update on migrants flown to Martha's Vineyard, sharing a way for Americans to donate to the state while it houses the 50 migrants.
 
@@ -540,7 +473,6 @@ Democratic MA Gov. Charlie Baker provided an update on migrants flown to Martha'
  - [https://www.foxnews.com/politics/durbin-says-gop-governors-florida-texas-arizona-using-migrants-pawns](https://www.foxnews.com/politics/durbin-says-gop-governors-florida-texas-arizona-using-migrants-pawns)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 16:05:45+00:00
- - tags: None
 
 Illinois Sen. Dick Durbin accused Florida Gov. Ron DeSantis, Texas Gov. Greg Abbott and Arizona Gov. Doug Ducey of using migrants as pawns for their political campaigns.
 
@@ -548,7 +480,6 @@ Illinois Sen. Dick Durbin accused Florida Gov. Ron DeSantis, Texas Gov. Greg Abb
  - [https://www.foxnews.com/sports/tom-brady-looks-turn-bucs-luck-around-saints-they-know-how-get-job-done](https://www.foxnews.com/sports/tom-brady-looks-turn-bucs-luck-around-saints-they-know-how-get-job-done)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 16:02:42+00:00
- - tags: None
 
 Tom Brady and the Tampa Bay Buccaneers have had their struggles against the New Orleans Saints over the last few seasons but will look for a Week 2 win on Sunday.
 
@@ -556,7 +487,6 @@ Tom Brady and the Tampa Bay Buccaneers have had their struggles against the New 
  - [https://www.foxnews.com/sports/utah-governor-slams-oregon-fans-obscene-chant-byu-football-game](https://www.foxnews.com/sports/utah-governor-slams-oregon-fans-obscene-chant-byu-football-game)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 15:54:55+00:00
- - tags: None
 
 Utah Gov. Spencer Cox quote-tweeted a video slamming Oregon fans who made explicit chants during the Ducks' game against BYU on Saturday.
 
@@ -564,7 +494,6 @@ Utah Gov. Spencer Cox quote-tweeted a video slamming Oregon fans who made explic
  - [https://www.foxnews.com/media/gov-desantis-will-use-every-tool-solve-americas-border-crisis-because-joe-biden-refuses-act](https://www.foxnews.com/media/gov-desantis-will-use-every-tool-solve-americas-border-crisis-because-joe-biden-refuses-act)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 15:54:35+00:00
- - tags: None
 
 Florida Lt. Gov. Jeanette Nunez weighs in on America's exacerbated border crisis and the growing ideological disparity between Republicans and Democrats.
 
@@ -572,7 +501,6 @@ Florida Lt. Gov. Jeanette Nunez weighs in on America's exacerbated border crisis
  - [https://www.foxnews.com/entertainment/wheel-fortune-host-pat-sajak-ripped-social-media-photo-marjorie-taylor-greene](https://www.foxnews.com/entertainment/wheel-fortune-host-pat-sajak-ripped-social-media-photo-marjorie-taylor-greene)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 15:37:27+00:00
- - tags: None
 
 "Wheel of Fortune" host Pat Sajak was ripped on Twitter after a photo of him posing with Congresswoman Marjorie Taylor Greene went viral on Twitter. This comes amid rumors he is set to retire.
 
@@ -580,7 +508,6 @@ Florida Lt. Gov. Jeanette Nunez weighs in on America's exacerbated border crisis
  - [https://www.foxnews.com/sports/shohei-ohtani-most-valuable-player-game-right-now-angels-interim-manager-says](https://www.foxnews.com/sports/shohei-ohtani-most-valuable-player-game-right-now-angels-interim-manager-says)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 15:22:59+00:00
- - tags: None
 
 Shohei Ohtani may be the best overall player in baseball but this season his chase for another MVP title may be thwarted by Aaron Judge's potentially record-setting home-run pace.
 
@@ -588,7 +515,6 @@ Shohei Ohtani may be the best overall player in baseball but this season his cha
  - [https://www.foxnews.com/entertainment/reporters-notebook-seeing-queen-one-last-time](https://www.foxnews.com/entertainment/reporters-notebook-seeing-queen-one-last-time)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 15:21:28+00:00
- - tags: None
 
 Fox News' Greg Palkot pays his respects to Queen Elizabeth II as she lies in state at Westminster Hall, standing in line and engaging in the emotional experience with other visitors and mourners.
 
@@ -596,7 +522,6 @@ Fox News' Greg Palkot pays his respects to Queen Elizabeth II as she lies in sta
  - [https://www.foxnews.com/sports/chris-buescher-wins-bristol-four-drivers-eliminated-nascar-playoffs](https://www.foxnews.com/sports/chris-buescher-wins-bristol-four-drivers-eliminated-nascar-playoffs)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 15:10:41+00:00
- - tags: None
 
 Chris Buescher became the 19th different driver to finish in the victory lane this season as he wrapped up a win at the Bass Pro Shops Night Race at Bristol.
 
@@ -604,7 +529,6 @@ Chris Buescher became the 19th different driver to finish in the victory lane th
  - [https://www.foxnews.com/politics/graham-defends-federal-abortion-bill-consistent-criticism-tramples-states-rights](https://www.foxnews.com/politics/graham-defends-federal-abortion-bill-consistent-criticism-tramples-states-rights)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 15:10:34+00:00
- - tags: None
 
 Graham defended his federal abortion bill on "Fox News Sunday," saying he is "pro-life even in an election year" after some Republicans indicated they wouldn't support it.
 
@@ -612,7 +536,6 @@ Graham defended his federal abortion bill on "Fox News Sunday," saying he is "pr
  - [https://www.foxnews.com/world/6-9-magnitude-earthquake-rocks-taiwan-triggers-tsunami-alarm-japan](https://www.foxnews.com/world/6-9-magnitude-earthquake-rocks-taiwan-triggers-tsunami-alarm-japan)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 14:58:02+00:00
- - tags: None
 
 A 6.9 magnitude earthquake struck the island of Taiwan on Sunday, reportedly killing one and injuring 79. First responders are on the scenes of collapsed buildings and bridges.
 
@@ -620,7 +543,6 @@ A 6.9 magnitude earthquake struck the island of Taiwan on Sunday, reportedly kil
  - [https://www.foxnews.com/sports/canelo-alvarez-comes-out-top-gennady-golovkin-end-trilogy](https://www.foxnews.com/sports/canelo-alvarez-comes-out-top-gennady-golovkin-end-trilogy)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 14:57:28+00:00
- - tags: None
 
 Canelo Álvarez defeated Gennady Golovkin via unanimous decision to bring an end to their epic boxing trilogy. It was their first fight since 2018.
 
@@ -628,7 +550,6 @@ Canelo Álvarez defeated Gennady Golovkin via unanimous decision to bring an end
  - [https://www.foxnews.com/us/las-vegas-dem-accused-killing-journalist-said-2020-arrest-wife-acted-like-going-kill-her](https://www.foxnews.com/us/las-vegas-dem-accused-killing-journalist-said-2020-arrest-wife-acted-like-going-kill-her)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 14:26:20+00:00
- - tags: None
 
 Police body camera footage from 2020 shows Robert Telles, the Clark County public official accused of killing a Las Vegas journalist, acting out during a previous arrest.
 
@@ -636,7 +557,6 @@ Police body camera footage from 2020 shows Robert Telles, the Clark County publi
  - [https://www.foxnews.com/us/skeletal-remains-found-nyc-construction-site-idd-occupy-wall-street-protester-missing-decade](https://www.foxnews.com/us/skeletal-remains-found-nyc-construction-site-idd-occupy-wall-street-protester-missing-decade)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 14:24:01+00:00
- - tags: None
 
 NYPD is asking the public for information on 19-year-old Stevie Bates after skeletal remains found at a Queens construction site two years ago were confirmed to be the missing woman.
 
@@ -644,7 +564,6 @@ NYPD is asking the public for information on 19-year-old Stevie Bates after skel
  - [https://www.foxnews.com/sports/houston-wide-receivers-skirmish-sideline-kansas-loss](https://www.foxnews.com/sports/houston-wide-receivers-skirmish-sideline-kansas-loss)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 14:12:40+00:00
- - tags: None
 
 Two Houston wide receivers had an incident on the sideline during the team's loss to Kansas on Saturday night. Coach Dana Holgorsen said the two have since made up.
 
@@ -652,7 +571,6 @@ Two Houston wide receivers had an incident on the sideline during the team's los
  - [https://www.foxnews.com/us/lsu-student-shot-killed-car-remembered-everyones-daughter](https://www.foxnews.com/us/lsu-student-shot-killed-car-remembered-everyones-daughter)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 14:01:20+00:00
- - tags: None
 
 Friends of Allison Rice, an LSU student who was fatally shot in her car Friday in downtown Baton Rouge, remembered her as a "beautiful soul" and a "ray of sunshine."
 
@@ -660,7 +578,6 @@ Friends of Allison Rice, an LSU student who was fatally shot in her car Friday i
  - [https://www.foxnews.com/world/azerbaijan-dismisses-nancy-pelosi-armenian-propaganda-she-condemns-azeri-attacks](https://www.foxnews.com/world/azerbaijan-dismisses-nancy-pelosi-armenian-propaganda-she-condemns-azeri-attacks)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 13:52:47+00:00
- - tags: None
 
 House Speaker Nancy Pelosi condemned Azerbaijan's attacks on Armenia on Sunday, prompting anger from Azerbaijan, which derided her statement as "Armenian propaganda."
 
@@ -668,7 +585,6 @@ House Speaker Nancy Pelosi condemned Azerbaijan's attacks on Armenia on Sunday, 
  - [https://www.foxnews.com/us/californias-mosquito-fire-burns-over-73000-acres-growth-may-slow-expected-rainfall](https://www.foxnews.com/us/californias-mosquito-fire-burns-over-73000-acres-growth-may-slow-expected-rainfall)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 13:21:55+00:00
- - tags: None
 
 The Mosquito Fire burning more than 73,000 acres in Northern California has become the largest wildfire to scorch the Golden State this year after igniting earlier this month.
 
@@ -676,7 +592,6 @@ The Mosquito Fire burning more than 73,000 acres in Northern California has beco
  - [https://www.foxnews.com/world/uk-invites-taiwan-sign-queens-condolence-book-symbolic-china-rebuke](https://www.foxnews.com/world/uk-invites-taiwan-sign-queens-condolence-book-symbolic-china-rebuke)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 13:18:51+00:00
- - tags: None
 
 The U.K. acknowledged Taiwan's status as a self-governed country by inviting its representative in The UK to sign Queen Elizabeth II's condolence book on Sunday.
 
@@ -684,7 +599,6 @@ The U.K. acknowledged Taiwan's status as a self-governed country by inviting its
  - [https://www.foxnews.com/us/new-york-city-receives-2-more-busloads-migrant-asylum-seekers](https://www.foxnews.com/us/new-york-city-receives-2-more-busloads-migrant-asylum-seekers)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 13:14:32+00:00
- - tags: None
 
 Two more buses of migrants disembarked at Port Authority in New York City on Sunday, a day after six buses of migrants from Texas arrived at the same Big Apple location.
 
@@ -692,7 +606,6 @@ Two more buses of migrants disembarked at Port Authority in New York City on Sun
  - [https://www.foxnews.com/health/severe-common-cold-cases-increasing-young-children-pegged-covid-lockdowns](https://www.foxnews.com/health/severe-common-cold-cases-increasing-young-children-pegged-covid-lockdowns)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 13:07:10+00:00
- - tags: None
 
 During this back-to-school season, doctors report an increase in severe cases of the common cold among some children — with more kids requiring hospital admission. COVID lockdowns may be to blame.
 
@@ -700,7 +613,6 @@ During this back-to-school season, doctors report an increase in severe cases of
  - [https://www.foxnews.com/media/former-dea-official-sounds-alarm-fentanyl-crisis-poisonings-surge-where-white-house](https://www.foxnews.com/media/former-dea-official-sounds-alarm-fentanyl-crisis-poisonings-surge-where-white-house)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 12:47:36+00:00
- - tags: None
 
 A former DEA official slammed the Biden administration on 'Fox & Friends Weekend,' Sunday, over the drug crisis as fentanyl-related poisonings spike across the country
 
@@ -708,7 +620,6 @@ A former DEA official slammed the Biden administration on 'Fox & Friends Weekend
  - [https://www.foxnews.com/politics/obama-marthas-vineyard-celebs-silent-opening-up-island-homes-illegal-immigrants](https://www.foxnews.com/politics/obama-marthas-vineyard-celebs-silent-opening-up-island-homes-illegal-immigrants)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 12:43:16+00:00
- - tags: None
 
 Former President Obama and other affluent Martha's Vineyard Democrats did not respond when asked by Fox News if they would be open to housing migrants sent by GOP governors.
 
@@ -716,7 +627,6 @@ Former President Obama and other affluent Martha's Vineyard Democrats did not re
  - [https://www.foxnews.com/us/3-arrested-gun-recovered-threat-reported-texas-high-school-football-game](https://www.foxnews.com/us/3-arrested-gun-recovered-threat-reported-texas-high-school-football-game)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 12:41:19+00:00
- - tags: None
 
 Three people headed to a north Texas high school football homecoming game with an AR-15 pistol, 60-round magazine were taken into custody Friday evening.
 
@@ -724,7 +634,6 @@ Three people headed to a north Texas high school football homecoming game with a
  - [https://www.foxnews.com/lifestyle/queen-elizabeth-ii-church-england-details-late-monarch-faith-beliefs](https://www.foxnews.com/lifestyle/queen-elizabeth-ii-church-england-details-late-monarch-faith-beliefs)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 12:17:23+00:00
- - tags: None
 
 As Queen Elizabeth II is mourned, here are some details of the Church of England, of which she was a member. The history of this church is explained, as well as what it meant to the Queen.
 
@@ -732,7 +641,6 @@ As Queen Elizabeth II is mourned, here are some details of the Church of England
  - [https://www.foxnews.com/politics/could-polls-about-battleground-senate-races-be-wrong-democrat-republican-strategists-weigh-in](https://www.foxnews.com/politics/could-polls-about-battleground-senate-races-be-wrong-democrat-republican-strategists-weigh-in)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 12:00:54+00:00
- - tags: None
 
 Democrat and Republican strategists weigh in on whether polls in Pennsylvania, Ohio, Georgia and Minnesota could be wrong in predicting Dem candidates winning in November
 
@@ -740,7 +648,6 @@ Democrat and Republican strategists weigh in on whether polls in Pennsylvania, O
  - [https://www.foxnews.com/media/biden-democrats-falsely-frame-green-movement-economic-charles-payne](https://www.foxnews.com/media/biden-democrats-falsely-frame-green-movement-economic-charles-payne)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 12:00:40+00:00
- - tags: None
 
 The left's green energy transition by force is rooted in leftists' historic quest for control of the population since the aftermath of the industrial revolution, Charles Payne says on "Life, Liberty & Levin."
 
@@ -748,7 +655,6 @@ The left's green energy transition by force is rooted in leftists' historic ques
  - [https://www.foxnews.com/opinion/queen-elizabeth-coronation-featured-reporter-who-would-soon-become-first-lady-jackie-kennedy](https://www.foxnews.com/opinion/queen-elizabeth-coronation-featured-reporter-who-would-soon-become-first-lady-jackie-kennedy)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 12:00:17+00:00
- - tags: None
 
 Queen Elizabeth’s coronation featured reporter who would soon become First Lady Jackie Kennedy. Jacqueline Bouvier covered event for Washington Times-Herald.
 
@@ -756,7 +662,6 @@ Queen Elizabeth’s coronation featured reporter who would soon become First Lad
  - [https://www.foxnews.com/opinion/want-to-see-society-change-ask-god-make-you-thirsty-pray-for-revival](https://www.foxnews.com/opinion/want-to-see-society-change-ask-god-make-you-thirsty-pray-for-revival)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 12:00:09+00:00
- - tags: None
 
 The decline of Christianity in American life continues. The number of believers continues to shrink. But revival begins with the individual.
 
@@ -764,7 +669,6 @@ The decline of Christianity in American life continues. The number of believers 
  - [https://www.foxnews.com/us/2-small-planes-collide-midair-colorado-3-killed](https://www.foxnews.com/us/2-small-planes-collide-midair-colorado-3-killed)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 11:58:59+00:00
- - tags: None
 
 Two small aircraft identified as a Cessna 172 and Sonex Xenos crashed in midair in Boulder County, Colorado, on Saturday, killing all three people onboard the aircrafts.
 
@@ -772,7 +676,6 @@ Two small aircraft identified as a Cessna 172 and Sonex Xenos crashed in midair 
  - [https://www.foxnews.com/opinion/how-my-son-peter-doocy-named-city-tennessee](https://www.foxnews.com/opinion/how-my-son-peter-doocy-named-city-tennessee)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 11:00:25+00:00
- - tags: None
 
 One of the hardest decisions we faced as a family was what to name our children. Here's the story of how we almost named our first-born after a city in the Tennessee.
 
@@ -780,7 +683,6 @@ One of the hardest decisions we faced as a family was what to name our children.
  - [https://www.foxnews.com/us/firefighter-injured-17-cats-killed-massive-blaze-california-shopping-center](https://www.foxnews.com/us/firefighter-injured-17-cats-killed-massive-blaze-california-shopping-center)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 10:09:26+00:00
- - tags: None
 
 A fire at a strip mall in the Los Angeles area left 17 cats dead, a firefighter injured and multiple businesses destroyed. LAFD said crews battled the intense blaze for 73 minutes.
 
@@ -788,7 +690,6 @@ A fire at a strip mall in the Los Angeles area left 17 cats dead, a firefighter 
  - [https://www.foxnews.com/world/retired-florida-doctor-travels-ukraine-help-infants-newborns-impacted-russias-invasion](https://www.foxnews.com/world/retired-florida-doctor-travels-ukraine-help-infants-newborns-impacted-russias-invasion)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 10:01:53+00:00
- - tags: None
 
 A retired Florida doctor returned to work, traveling thousands of miles to Ukraine to help newborns and infants impacted by the country's ongoing war with Russia.
 
@@ -796,7 +697,6 @@ A retired Florida doctor returned to work, traveling thousands of miles to Ukrai
  - [https://www.foxnews.com/politics/gavin-newsom-ron-desantis-war-of-words-possible-2024-2028-preview](https://www.foxnews.com/politics/gavin-newsom-ron-desantis-war-of-words-possible-2024-2028-preview)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 10:00:54+00:00
- - tags: None
 
 Democratic Gov. Gavin Newsom of California and Republican Gov. Ron DeSantis of Florida are once in the spotlight this weekend, sparking more speculation about their 2024 intentions
 
@@ -804,7 +704,6 @@ Democratic Gov. Gavin Newsom of California and Republican Gov. Ron DeSantis of F
  - [https://www.foxnews.com/opinion/preachers-talk-about-christianity-queen-elizabeth-went-out-lived-it](https://www.foxnews.com/opinion/preachers-talk-about-christianity-queen-elizabeth-went-out-lived-it)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 10:00:08+00:00
- - tags: None
 
 As we remember and give thanks for Queen Elizabeth and her long life it is clear that her faith was her lodestar. We can see what it meant for her to follow Jesus.
 
@@ -812,7 +711,6 @@ As we remember and give thanks for Queen Elizabeth and her long life it is clear
  - [https://www.foxnews.com/entertainment/camilla-pays-tribute-queen-carved-her-own-role](https://www.foxnews.com/entertainment/camilla-pays-tribute-queen-carved-her-own-role)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 09:55:39+00:00
- - tags: None
 
 Camilla, the queen consort, said in a BBC tribute to Queen Elizabeth II airing Sunday: "She's been part of our lives forever."
 
@@ -820,7 +718,6 @@ Camilla, the queen consort, said in a BBC tribute to Queen Elizabeth II airing S
  - [https://www.foxnews.com/us/large-fire-breaks-out-hollywood-bowl-following-singalong-concert](https://www.foxnews.com/us/large-fire-breaks-out-hollywood-bowl-following-singalong-concert)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 09:25:06+00:00
- - tags: None
 
 Firefighters responded to a blaze that occurred at the Hollywood Bowl as attendees were leaving the venue. It remains unclear what caused the fire.
 
@@ -828,7 +725,6 @@ Firefighters responded to a blaze that occurred at the Hollywood Bowl as attende
  - [https://www.foxnews.com/world/biden-arrives-uk-queens-funeral-liz-truss-meeting-postponed](https://www.foxnews.com/world/biden-arrives-uk-queens-funeral-liz-truss-meeting-postponed)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 09:15:44+00:00
- - tags: None
 
 President Joe Biden arrived in London on Saturday to pay respects to Queen Elizabeth II at her funeral and to attend a formal state reception hosted by King Charles III.
 
@@ -836,7 +732,6 @@ President Joe Biden arrived in London on Saturday to pay respects to Queen Eliza
  - [https://www.foxnews.com/entertainment/henry-silva-final-surviving-star-original-oceans-eleven-died-95](https://www.foxnews.com/entertainment/henry-silva-final-surviving-star-original-oceans-eleven-died-95)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 09:00:39+00:00
- - tags: None
 
 Henry Silva passed away this week in California, his family confirmed, following an iconic acting career that spanned decades. His son, Scott Silva, confirmed the death.
 
@@ -844,7 +739,6 @@ Henry Silva passed away this week in California, his family confirmed, following
  - [https://www.foxnews.com/entertainment/camilla-queen-consort-what-know-two-kids](https://www.foxnews.com/entertainment/camilla-queen-consort-what-know-two-kids)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 09:00:27+00:00
- - tags: None
 
 Prior to getting married to King Charles III, Camilla, the queen consort, had two children of her own from her first marriage to Andrew Parker Bowles. Get to know her two kids.
 
@@ -852,7 +746,6 @@ Prior to getting married to King Charles III, Camilla, the queen consort, had tw
  - [https://www.foxnews.com/us/gunman-up-parole-25-years-after-deadly-kentucky-school-shooting](https://www.foxnews.com/us/gunman-up-parole-25-years-after-deadly-kentucky-school-shooting)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 08:27:42+00:00
- - tags: None
 
 Michael Carneal, who was 14 when he killed three classmates and injured five others in a shooting in Kentucky in 1997, will have a parole hearing this week.
 
@@ -860,7 +753,6 @@ Michael Carneal, who was 14 when he killed three classmates and injured five oth
  - [https://www.foxnews.com/entertainment/queen-elizabeth-iis-queue-in-14-hours](https://www.foxnews.com/entertainment/queen-elizabeth-iis-queue-in-14-hours)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 07:39:27+00:00
- - tags: None
 
 Strangers turned into family while thousands spent hours together in the queue to see Queen Elizabeth II lying-in-state in London at Westminster Hall.
 
@@ -868,7 +760,6 @@ Strangers turned into family while thousands spent hours together in the queue t
  - [https://www.foxnews.com/us/football-suspended-maryland-high-schools-large-fight-after-game](https://www.foxnews.com/us/football-suspended-maryland-high-schools-large-fight-after-game)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 06:34:03+00:00
- - tags: None
 
 Two Maryland high schools have temporarily suspended football operations after a game-ending brawl broke out during the third quarter, leaving three injured and several arrested.
 
@@ -876,7 +767,6 @@ Two Maryland high schools have temporarily suspended football operations after a
  - [https://www.foxnews.com/world/us-backed-fighters-rescue-tens-thousands-women-children-raid-isis-al-hal-camp](https://www.foxnews.com/world/us-backed-fighters-rescue-tens-thousands-women-children-raid-isis-al-hal-camp)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 06:21:21+00:00
- - tags: None
 
 The U.S.-backed Kurdish-led Syrian Democratic Forces led a 24-day raid on a refugee camp in Northern Syria, resulting in the rescue of thousands of women and children from IS fighters.
 
@@ -884,7 +774,6 @@ The U.S.-backed Kurdish-led Syrian Democratic Forces led a 24-day raid on a refu
  - [https://www.foxnews.com/world/chinese-currency-still-depicting-mao-zedong-indicates-leftist-murderers-get-pass-history](https://www.foxnews.com/world/chinese-currency-still-depicting-mao-zedong-indicates-leftist-murderers-get-pass-history)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 06:00:38+00:00
- - tags: None
 
 Gordon Chang says the depiction of Mao Zedong on the Chinese Renminbi indicates that 'leftist murderers get a pass' for their crimes.
 
@@ -892,7 +781,6 @@ Gordon Chang says the depiction of Mao Zedong on the Chinese Renminbi indicates 
  - [https://www.foxnews.com/opinion/us-must-take-reasonable-steps-protect-unborn-reject-inhumane-abortion-policies-china-north-korea](https://www.foxnews.com/opinion/us-must-take-reasonable-steps-protect-unborn-reject-inhumane-abortion-policies-china-north-korea)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 06:00:32+00:00
- - tags: None
 
 America should take reasonable steps to protect unborn babies and reject inhumane abortion policies of China, North Korea. US should model laws after Europe.
 
@@ -900,7 +788,6 @@ America should take reasonable steps to protect unborn babies and reject inhuman
  - [https://www.foxnews.com/lifestyle/missing-new-york-cat-activates-familys-ring-doorbell-we-all-screamed](https://www.foxnews.com/lifestyle/missing-new-york-cat-activates-familys-ring-doorbell-we-all-screamed)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 06:00:28+00:00
- - tags: None
 
 Stefanie Whitley of Long Island, N.Y., told Fox News Digital that her cat Lilly had been missing for nearly a week before returning home and activating the family's Ring doorbell camera.
 
@@ -908,7 +795,6 @@ Stefanie Whitley of Long Island, N.Y., told Fox News Digital that her cat Lilly 
  - [https://www.foxnews.com/us/railway-labor-unions-reach-deal](https://www.foxnews.com/us/railway-labor-unions-reach-deal)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 05:52:16+00:00
- - tags: None
 
 After nearly 20 hours of negotiations, the 13 U.S. railway labor unions have reached a tentative agreement with U.S. railroads.
 
@@ -916,7 +802,6 @@ After nearly 20 hours of negotiations, the 13 U.S. railway labor unions have rea
  - [https://www.foxnews.com/media/lawrence-jones-liberals-sounding-alarm-illegal-immigration](https://www.foxnews.com/media/lawrence-jones-liberals-sounding-alarm-illegal-immigration)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 05:14:50+00:00
- - tags: None
 
 Fox News host Lawrence Jones slammed the Democrats for "bragging" about their sanctuary status as they beg the Biden administration for "aid and reinforcement" on "Cross Country with Lawrence Jones."
 
@@ -924,7 +809,6 @@ Fox News host Lawrence Jones slammed the Democrats for "bragging" about their sa
  - [https://www.foxnews.com/us/one-three-puppies-stolen-atlanta-animal-shelter-found-safe](https://www.foxnews.com/us/one-three-puppies-stolen-atlanta-animal-shelter-found-safe)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 05:08:46+00:00
- - tags: None
 
 A puppy stolen from an animal shelter in Atlanta, Georgia, has been found safe, but two other pooches remain missing. The puppies were taken during a break-in on Friday.
 
@@ -932,7 +816,6 @@ A puppy stolen from an animal shelter in Atlanta, Georgia, has been found safe, 
  - [https://www.foxnews.com/media/scary-agents-spy-former-president-mike-davis](https://www.foxnews.com/media/scary-agents-spy-former-president-mike-davis)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 05:02:58+00:00
- - tags: None
 
 Former Supreme Court law clerk Mike Davis criticized certain members of the FBI for politicizing and weaponizing the agency on Saturday's "Unfiltered."
 
@@ -940,7 +823,6 @@ Former Supreme Court law clerk Mike Davis criticized certain members of the FBI 
  - [https://www.foxnews.com/media/dan-bongino-lefts-police-state-here](https://www.foxnews.com/media/dan-bongino-lefts-police-state-here)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 04:53:34+00:00
- - tags: None
 
 Fox News host Dan Bongino called out the left's "unprecedented" abuse of power posed by the Biden administration, claiming America is a police state on "Unfiltered."
 
@@ -948,7 +830,6 @@ Fox News host Dan Bongino called out the left's "unprecedented" abuse of power p
  - [https://www.foxnews.com/sports/fox-bet-super-6-100000-terrys-money-grabs-nfl-week-2](https://www.foxnews.com/sports/fox-bet-super-6-100000-terrys-money-grabs-nfl-week-2)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 04:51:49+00:00
- - tags: None
 
 You could win $100,000 in FOX Bet Super 6's NFL Sunday Challenge that is free-to-play by downloading the app. You just have to pick the winners and margins of victory for six games.
 
@@ -956,6 +837,5 @@ You could win $100,000 in FOX Bet Super 6's NFL Sunday Challenge that is free-to
  - [https://www.foxnews.com/entertainment/queen-elizabeth-iis-youngest-grandchild-james-viscount-severn-14-stands-vigil-coffin](https://www.foxnews.com/entertainment/queen-elizabeth-iis-youngest-grandchild-james-viscount-severn-14-stands-vigil-coffin)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-18 03:26:36+00:00
- - tags: None
 
 James, Viscount Severn, joined his cousins as they stood vigil by their grandmother Queen Elizabeth II's coffin on Saturday. The 14-year-old is the late monarch's youngest grandchild.

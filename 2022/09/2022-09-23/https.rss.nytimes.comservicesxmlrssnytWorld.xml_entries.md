@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## In Seized Parts of Ukraine, Moscow Stages Balloting on Joining Russia
  - [https://www.nytimes.com/2022/09/23/world/europe/ukraine-russia-referendums-annexation.html](https://www.nytimes.com/2022/09/23/world/europe/ukraine-russia-referendums-annexation.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-23 23:18:00+00:00
- - tags: None
 
 Under coercive conditions, with most residents gone and war still raging, Russia is putting on what it calls referendums on annexation but Ukraine and its allies call an illegal farce.
 
@@ -12,7 +11,6 @@ Under coercive conditions, with most residents gone and war still raging, Russia
  - [https://www.nytimes.com/2022/09/23/world/europe/russia-draft-ukraine-putin.html](https://www.nytimes.com/2022/09/23/world/europe/russia-draft-ukraine-putin.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-23 22:16:56+00:00
- - tags: None
 
 Villagers, activists and some elected officials asked why the conscription drive seemed to be hitting poor, remote areas hardest, while pro-war hawks criticized it as chaotic.
 
@@ -20,7 +18,6 @@ Villagers, activists and some elected officials asked why the conscription drive
  - [https://www.nytimes.com/2022/09/23/books/review/hilary-mantel-appraisal.html](https://www.nytimes.com/2022/09/23/books/review/hilary-mantel-appraisal.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-23 21:34:38+00:00
- - tags: None
 
 Hilary Mantel brought great precision to her writing, and asked the same of us in our reading.
 
@@ -28,7 +25,6 @@ Hilary Mantel brought great precision to her writing, and asked the same of us i
  - [https://www.nytimes.com/2022/09/24/world/europe/referendums-in-russian-occupied-ukraine-evoke-fear-anger-and-defiance.html](https://www.nytimes.com/2022/09/24/world/europe/referendums-in-russian-occupied-ukraine-evoke-fear-anger-and-defiance.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-23 20:43:58+00:00
- - tags: None
 
 
 
@@ -36,7 +32,6 @@ Hilary Mantel brought great precision to her writing, and asked the same of us i
  - [https://www.nytimes.com/2022/09/24/world/europe/group-of-7-countries-condemn-sham-referendums-in-ukraine.html](https://www.nytimes.com/2022/09/24/world/europe/group-of-7-countries-condemn-sham-referendums-in-ukraine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-23 20:30:05+00:00
- - tags: None
 
 
 
@@ -44,7 +39,6 @@ Hilary Mantel brought great precision to her writing, and asked the same of us i
  - [https://www.nytimes.com/2022/09/24/world/europe/russian-aviation-scientist-dies-adding-to-a-series-of-suspicious-deaths.html](https://www.nytimes.com/2022/09/24/world/europe/russian-aviation-scientist-dies-adding-to-a-series-of-suspicious-deaths.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-23 20:26:37+00:00
- - tags: None
 
 
 
@@ -52,7 +46,6 @@ Hilary Mantel brought great precision to her writing, and asked the same of us i
  - [https://www.nytimes.com/2022/09/23/world/europe/berlusconi-putin-russia-ukraine-war.html](https://www.nytimes.com/2022/09/23/world/europe/berlusconi-putin-russia-ukraine-war.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-23 20:26:11+00:00
- - tags: None
 
 Italy’s former prime minister said that the Russian president was “pushed” to invade Ukraine, remarks that drew fierce criticism days before an election.
 
@@ -60,7 +53,6 @@ Italy’s former prime minister said that the Russian president was “pushed”
  - [https://www.nytimes.com/2022/09/23/world/asia/asia-travel-reopening-japan-taiwan-hong-kong.html](https://www.nytimes.com/2022/09/23/world/asia/asia-travel-reopening-japan-taiwan-hong-kong.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-23 19:53:38+00:00
- - tags: None
 
 Hong Kong, Taiwan and Japan have relaxed their pandemic rules, as they look to bolster their economies and play catch-up with much of the world.
 
@@ -68,7 +60,6 @@ Hong Kong, Taiwan and Japan have relaxed their pandemic rules, as they look to b
  - [https://www.nytimes.com/2022/09/23/world/europe/church-of-england-mpho-tutu-van-furth-anglican.html](https://www.nytimes.com/2022/09/23/world/europe/church-of-england-mpho-tutu-van-furth-anglican.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-23 19:05:02+00:00
- - tags: None
 
 Rev. Mpho Tutu van Furth, an Episcopal priest who is married to a woman, said the funeral of her godfather was moved to his garden to allow her to participate.
 
@@ -76,7 +67,6 @@ Rev. Mpho Tutu van Furth, an Episcopal priest who is married to a woman, said th
  - [https://www.nytimes.com/2022/09/23/theater/little-amal-new-york.html](https://www.nytimes.com/2022/09/23/theater/little-amal-new-york.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-23 18:15:13+00:00
- - tags: None
 
 The hottest celebrity in town right now is an enchanting 12-foot-tall Syrian refugee puppet. She’s drawing masses of admirers, but that’s not always a good thing.
 
@@ -84,7 +74,6 @@ The hottest celebrity in town right now is an enchanting 12-foot-tall Syrian ref
  - [https://www.nytimes.com/2022/09/23/world/europe/the-referendums-are-taking-place-in-areas-from-which-large-numbers-of-people-have-fled.html](https://www.nytimes.com/2022/09/23/world/europe/the-referendums-are-taking-place-in-areas-from-which-large-numbers-of-people-have-fled.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-23 17:33:37+00:00
- - tags: None
 
 
 
@@ -92,7 +81,6 @@ The hottest celebrity in town right now is an enchanting 12-foot-tall Syrian ref
  - [https://www.nytimes.com/2022/09/23/world/europe/russia-ukraine-referendum-voting.html](https://www.nytimes.com/2022/09/23/world/europe/russia-ukraine-referendum-voting.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-23 17:33:27+00:00
- - tags: None
 
 Huge numbers of people have fled the areas that Russia controls, the process has been rushed and referendums are taking place against a backdrop of oppression.
 
@@ -100,7 +88,6 @@ Huge numbers of people have fled the areas that Russia controls, the process has
  - [https://www.nytimes.com/2022/09/23/world/middleeast/migrant-boat-syria.html](https://www.nytimes.com/2022/09/23/world/middleeast/migrant-boat-syria.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-23 16:28:50+00:00
- - tags: None
 
 Witnesses said that bodies could be seen from shore drifting in the waters just outside the port of Tartus. The Lebanese authorities said at least 75 people died, with 20 rescued.
 
@@ -108,7 +95,6 @@ Witnesses said that bodies could be seen from shore drifting in the waters just 
  - [https://www.nytimes.com/2022/09/23/arts/design/king-charles-architecture-poundbury.html](https://www.nytimes.com/2022/09/23/arts/design/king-charles-architecture-poundbury.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-23 16:06:50+00:00
- - tags: None
 
 Before King Charles III inherited Britain’s throne, he was a prince with strong views on architecture. Poundbury is where he tried to put them into practice.
 
@@ -116,7 +102,6 @@ Before King Charles III inherited Britain’s throne, he was a prince with stron
  - [https://www.nytimes.com/2022/09/23/world/europe/ukraine-war-graves-bracelet.html](https://www.nytimes.com/2022/09/23/world/europe/ukraine-war-graves-bracelet.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-23 14:52:19+00:00
- - tags: None
 
 When they pulled Serhiy Sova’s body from a grave in Izium, his wrist bore a bracelet in Ukraine’s colors, given to him by his children. The image has transfixed the nation.
 
@@ -124,7 +109,6 @@ When they pulled Serhiy Sova’s body from a grave in Izium, his wrist bore a br
  - [https://www.nytimes.com/2022/09/23/arts/music/abel-selaocoe.html](https://www.nytimes.com/2022/09/23/arts/music/abel-selaocoe.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-23 13:23:52+00:00
- - tags: None
 
 The classically trained South African cellist draws on musical traditions from across the globe for his debut album, “Where is Home (Hae Ke Kae).”
 
@@ -132,7 +116,6 @@ The classically trained South African cellist draws on musical traditions from a
  - [https://www.nytimes.com/2022/09/23/us/south-africa-diamond-mine-collapse.html](https://www.nytimes.com/2022/09/23/us/south-africa-diamond-mine-collapse.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-23 12:39:46+00:00
- - tags: None
 
 Waste from a diamond mine in South Africa grew ever higher as the ownership changed from De Beers to a billionaire to a Dubai-based retailer. The mining town paid the price.
 
@@ -140,7 +123,6 @@ Waste from a diamond mine in South Africa grew ever higher as the ownership chan
  - [https://www.nytimes.com/2022/09/23/world/europe/russia-ukraine-war-crimes-united-nations.html](https://www.nytimes.com/2022/09/23/world/europe/russia-ukraine-war-crimes-united-nations.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-23 12:33:38+00:00
- - tags: None
 
 In an unusually hard-hitting statement, the panel of experts laid out graphic allegations of rape and torture.
 
@@ -148,7 +130,6 @@ In an unusually hard-hitting statement, the panel of experts laid out graphic al
  - [https://www.nytimes.com/2022/09/23/world/europe/italy-elections.html](https://www.nytimes.com/2022/09/23/world/europe/italy-elections.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-23 11:53:52+00:00
- - tags: None
 
 The elections could produce the first government led by a woman and by a hard-right party with post-Fascist roots.
 
@@ -156,7 +137,6 @@ The elections could produce the first government led by a woman and by a hard-ri
  - [https://www.nytimes.com/2022/09/23/world/europe/giorgia-meloni-italy-women.html](https://www.nytimes.com/2022/09/23/world/europe/giorgia-meloni-italy-women.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-23 11:49:56+00:00
- - tags: None
 
 Some fear that the hard-right politician, whose party is expected to be the big winner in the election on Sunday, will continue policies that have kept women back.
 
@@ -164,7 +144,6 @@ Some fear that the hard-right politician, whose party is expected to be the big 
  - [https://www.nytimes.com/2022/09/23/world/australia/stranded-whales-rescue.html](https://www.nytimes.com/2022/09/23/world/australia/stranded-whales-rescue.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-23 10:57:17+00:00
- - tags: None
 
 After 230 pilot whales were stranded on the western coast of Tasmania, a scramble started almost immediately to save as many as possible.
 
@@ -172,7 +151,6 @@ After 230 pilot whales were stranded on the western coast of Tasmania, a scrambl
  - [https://www.nytimes.com/live/2022/09/23/world/russia-ukraine-putin-news](https://www.nytimes.com/live/2022/09/23/world/russia-ukraine-putin-news)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-23 10:34:00+00:00
- - tags: None
 
 The plans for referendums on becoming part of Russia were met with international condemnation. The process is expected to culminate with the annexation of an area larger than Portugal.
 
@@ -180,7 +158,6 @@ The plans for referendums on becoming part of Russia were met with international
  - [https://www.nytimes.com/2022/09/23/briefing/crime-rates-murder-robberies-us.html](https://www.nytimes.com/2022/09/23/briefing/crime-rates-murder-robberies-us.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-23 10:22:35+00:00
- - tags: None
 
 Murders are declining, but other crimes are still disrupting American life.
 
@@ -188,7 +165,6 @@ Murders are declining, but other crimes are still disrupting American life.
  - [https://www.nytimes.com/2022/09/23/world/europe/uk-tax-cuts-economy.html](https://www.nytimes.com/2022/09/23/world/europe/uk-tax-cuts-economy.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-23 09:21:24+00:00
- - tags: None
 
 The new administration’s proposals are a sharp break from the era of Boris Johnson, and they represent a turn toward Thatcherism.
 
@@ -196,7 +172,6 @@ The new administration’s proposals are a sharp break from the era of Boris Joh
  - [https://www.nytimes.com/2022/09/23/world/asia/myanmar-children-school.html](https://www.nytimes.com/2022/09/23/world/asia/myanmar-children-school.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-23 09:06:46+00:00
- - tags: None
 
 Eleven children died when soldiers fired on the school, where they said rebels had taken cover. “This is a war crime,” said a U.N. expert.
 
@@ -204,7 +179,6 @@ Eleven children died when soldiers fired on the school, where they said rebels h
  - [https://www.nytimes.com/2022/09/23/us/the-world-got-diamonds-a-mining-town-got-buried-in-sludge.html](https://www.nytimes.com/2022/09/23/us/the-world-got-diamonds-a-mining-town-got-buried-in-sludge.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-23 09:00:33+00:00
- - tags: None
 
 Waste from a diamond mine in South Africa grew ever higher as the ownership changed from De Beers to a billionaire to a Dubai-based retailer. The mining town paid the price.
 
@@ -212,7 +186,6 @@ Waste from a diamond mine in South Africa grew ever higher as the ownership chan
  - [https://www.nytimes.com/2022/09/23/business/asia-travel-reopening-japan-taiwan-hong-kong.html](https://www.nytimes.com/2022/09/23/business/asia-travel-reopening-japan-taiwan-hong-kong.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-23 08:59:30+00:00
- - tags: None
 
 Hong Kong, Taiwan and Japan have relaxed their pandemic rules, as they look to bolster their economies and play catch-up with much of the world.
 
@@ -220,7 +193,6 @@ Hong Kong, Taiwan and Japan have relaxed their pandemic rules, as they look to b
  - [https://www.nytimes.com/2022/09/23/world/europe/winter-is-coming-windows-are-shattered-and-ukraine-is-running-short-on-glass.html](https://www.nytimes.com/2022/09/23/world/europe/winter-is-coming-windows-are-shattered-and-ukraine-is-running-short-on-glass.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-23 07:23:00+00:00
- - tags: None
 
 
 
@@ -228,7 +200,6 @@ Hong Kong, Taiwan and Japan have relaxed their pandemic rules, as they look to b
  - [https://www.nytimes.com/2022/09/23/world/australia/in-melbourne-a-sky-high-drama-takes-hold.html](https://www.nytimes.com/2022/09/23/world/australia/in-melbourne-a-sky-high-drama-takes-hold.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-23 05:02:07+00:00
- - tags: None
 
 Peregrine falcons nesting in the city’s financial district offer riveting theater every day with their daily life, including sex, death and high-speed chases.
 
@@ -236,6 +207,5 @@ Peregrine falcons nesting in the city’s financial district offer riveting thea
  - [https://www.nytimes.com/2022/09/23/briefing/inflation-interest-russia-conscription.html](https://www.nytimes.com/2022/09/23/briefing/inflation-interest-russia-conscription.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-23 04:48:04+00:00
- - tags: None
 
 Interest rate hikes around the world.

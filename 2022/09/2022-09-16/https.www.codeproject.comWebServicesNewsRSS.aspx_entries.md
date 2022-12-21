@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## Accelerate your models to production with Google Cloud and PyTorch
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58909](https://www.codeproject.com/script/News/View.aspx?nwid=58909)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-16 04:00:00+00:00
- - tags: None
 
 In this blog, we provide an overview of existing resources to help you get started with PyTorch on Google Cloud.
 
@@ -12,7 +11,6 @@ In this blog, we provide an overview of existing resources to help you get start
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58899](https://www.codeproject.com/script/News/View.aspx?nwid=58899)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-16 04:00:00+00:00
- - tags: None
 
 "I felt a great disturbance in the Force... as if millions of voices suddenly cried out in terror, and were suddenly silenced. I fear something terrible has happened."
 
@@ -20,7 +18,6 @@ In this blog, we provide an overview of existing resources to help you get start
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58903](https://www.codeproject.com/script/News/View.aspx?nwid=58903)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-16 04:00:00+00:00
- - tags: None
 
 The PyTorch Foundation will democratize access to state-of-the-art AI tools, libraries and other components to accelerate progress in AI.
 
@@ -28,7 +25,6 @@ The PyTorch Foundation will democratize access to state-of-the-art AI tools, lib
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58904](https://www.codeproject.com/script/News/View.aspx?nwid=58904)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-16 04:00:00+00:00
- - tags: None
 
 In the previous article, I wrote about how you can use Huggingface transformers with ML.NET. The process is fairly simple, you need to convert the Huggingface model to the ONNX file format, and load it with ML.NET.
 
@@ -36,7 +32,6 @@ In the previous article, I wrote about how you can use Huggingface transformers 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58908](https://www.codeproject.com/script/News/View.aspx?nwid=58908)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-16 04:00:00+00:00
- - tags: None
 
 From Building Software Applications to Building ML Applications
 
@@ -44,7 +39,6 @@ From Building Software Applications to Building ML Applications
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58901](https://www.codeproject.com/script/News/View.aspx?nwid=58901)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-16 04:00:00+00:00
- - tags: None
 
 It's still imaginary money, but now with less power consumption
 
@@ -52,7 +46,6 @@ It's still imaginary money, but now with less power consumption
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58915](https://www.codeproject.com/script/News/View.aspx?nwid=58915)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-16 04:00:00+00:00
- - tags: None
 
 Be the first on your block to not be able to find any new features!
 
@@ -60,7 +53,6 @@ Be the first on your block to not be able to find any new features!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58917](https://www.codeproject.com/script/News/View.aspx?nwid=58917)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-16 04:00:00+00:00
- - tags: None
 
 To code monkey, or not to code monkey...
 
@@ -68,7 +60,6 @@ To code monkey, or not to code monkey...
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58912](https://www.codeproject.com/script/News/View.aspx?nwid=58912)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-16 04:00:00+00:00
- - tags: None
 
 *Actual telescope not included
 
@@ -76,7 +67,6 @@ To code monkey, or not to code monkey...
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58906](https://www.codeproject.com/script/News/View.aspx?nwid=58906)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-16 04:00:00+00:00
- - tags: None
 
 In pursuit of faster and more efficient AI system development, Intel, Arm and Nvidia today published a draft specification for what they refer to as a common interchange format for AI.
 
@@ -84,7 +74,6 @@ In pursuit of faster and more efficient AI system development, Intel, Arm and Nv
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58916](https://www.codeproject.com/script/News/View.aspx?nwid=58916)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-16 04:00:00+00:00
- - tags: None
 
 Never trust the news!
 
@@ -92,7 +81,6 @@ Never trust the news!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58907](https://www.codeproject.com/script/News/View.aspx?nwid=58907)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-16 04:00:00+00:00
- - tags: None
 
 Following new best practices, Dr. James McCaffrey of Microsoft Research revisits multi-class classification for when the variable to predict has three or more possible values.
 
@@ -100,7 +88,6 @@ Following new best practices, Dr. James McCaffrey of Microsoft Research revisits
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58918](https://www.codeproject.com/script/News/View.aspx?nwid=58918)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-16 04:00:00+00:00
- - tags: None
 
 Sharing is caring, but careful sharing is better
 
@@ -108,7 +95,6 @@ Sharing is caring, but careful sharing is better
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58905](https://www.codeproject.com/script/News/View.aspx?nwid=58905)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-16 04:00:00+00:00
- - tags: None
 
 Search for R tutorials by task, topic, or package. Many include videos
 
@@ -116,7 +102,6 @@ Search for R tutorials by task, topic, or package. Many include videos
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58910](https://www.codeproject.com/script/News/View.aspx?nwid=58910)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-16 04:00:00+00:00
- - tags: None
 
 I'm still waiting for the punchline
 
@@ -124,7 +109,6 @@ I'm still waiting for the punchline
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58911](https://www.codeproject.com/script/News/View.aspx?nwid=58911)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-16 04:00:00+00:00
- - tags: None
 
 "The car next year will be capable of driving itself." - Elon Musk, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022
 
@@ -132,7 +116,6 @@ I'm still waiting for the punchline
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58913](https://www.codeproject.com/script/News/View.aspx?nwid=58913)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-16 04:00:00+00:00
- - tags: None
 
 And as a bonus - learn the first pet's names for all your employees!
 
@@ -140,7 +123,6 @@ And as a bonus - learn the first pet's names for all your employees!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58902](https://www.codeproject.com/script/News/View.aspx?nwid=58902)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-16 04:00:00+00:00
- - tags: None
 
 
 
@@ -148,7 +130,6 @@ And as a bonus - learn the first pet's names for all your employees!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58914](https://www.codeproject.com/script/News/View.aspx?nwid=58914)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-16 04:00:00+00:00
- - tags: None
 
 Or: why your internet bandwidth is already used up this month
 
@@ -156,6 +137,5 @@ Or: why your internet bandwidth is already used up this month
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58900](https://www.codeproject.com/script/News/View.aspx?nwid=58900)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-16 04:00:00+00:00
- - tags: None
 
 Would a 'pinky swear' count?

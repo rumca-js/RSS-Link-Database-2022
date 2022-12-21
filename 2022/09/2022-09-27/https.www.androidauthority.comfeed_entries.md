@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## Intel wants to help make Windows play friendly with both Android and iOS
  - [https://www.androidauthority.com/intel-unison-windows-3213822/](https://www.androidauthority.com/intel-unison-windows-3213822/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-27 22:05:29+00:00
- - tags: None
 
 The Intel Unison app looks to solve the problem with phone to PC connections.
 
@@ -12,7 +11,6 @@ The Intel Unison app looks to solve the problem with phone to PC connections.
  - [https://www.androidauthority.com/google-pixel-7-pro-colors-3213695/](https://www.androidauthority.com/google-pixel-7-pro-colors-3213695/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-27 20:30:53+00:00
- - tags: None
 
 Google shows off the Pixel 7 Pro in its Obsidian, Snow, and Hazel colors.
 
@@ -20,7 +18,6 @@ Google shows off the Pixel 7 Pro in its Obsidian, Snow, and Hazel colors.
  - [https://www.androidauthority.com/cancel-ebay-order-3147754/](https://www.androidauthority.com/cancel-ebay-order-3147754/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-27 20:13:18+00:00
- - tags: None
 
 Whether you are a buyer or a seller, here's how to cancel an order.
 
@@ -28,7 +25,6 @@ Whether you are a buyer or a seller, here's how to cancel an order.
  - [https://www.androidauthority.com/samsung-galaxy-s23-design-3213800/](https://www.androidauthority.com/samsung-galaxy-s23-design-3213800/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-27 20:09:45+00:00
- - tags: None
 
 We hope you're a fan of very minimalist design.
 
@@ -36,7 +32,6 @@ We hope you're a fan of very minimalist design.
  - [https://www.androidauthority.com/samsung-galaxy-s23-plus-3213757/](https://www.androidauthority.com/samsung-galaxy-s23-plus-3213757/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-27 19:52:09+00:00
- - tags: None
 
 A leak has potentially given us new information about the Galaxy S23 Plus.
 
@@ -44,7 +39,6 @@ A leak has potentially given us new information about the Galaxy S23 Plus.
  - [https://www.androidauthority.com/add-zoom-background-3165726/](https://www.androidauthority.com/add-zoom-background-3165726/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-27 17:43:17+00:00
- - tags: None
 
 Spice up your meetings with these exciting virtual backgrounds.
 
@@ -52,7 +46,6 @@ Spice up your meetings with these exciting virtual backgrounds.
  - [https://www.androidauthority.com/samsung-galaxy-s22-update-2-3213622/](https://www.androidauthority.com/samsung-galaxy-s22-update-2-3213622/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-27 17:27:41+00:00
- - tags: None
 
 Reports are claiming Samsung's September update has caused S22 devices to stop receiving texts.
 
@@ -60,7 +53,6 @@ Reports are claiming Samsung's September update has caused S22 devices to stop r
  - [https://www.androidauthority.com/pixel-watch-found-2-3213567/](https://www.androidauthority.com/pixel-watch-found-2-3213567/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-27 16:31:40+00:00
- - tags: None
 
 A Pixel Watch randomly tried to pair with a stranger's phone.
 
@@ -68,7 +60,6 @@ A Pixel Watch randomly tried to pair with a stranger's phone.
  - [https://www.androidauthority.com/wallpapers-pixel-phones-3194215/](https://www.androidauthority.com/wallpapers-pixel-phones-3194215/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-27 15:00:35+00:00
- - tags: None
 
 Pixel-shot pixels for your Pixel.
 
@@ -76,7 +67,6 @@ Pixel-shot pixels for your Pixel.
  - [https://www.androidauthority.com/new-on-hulu-939207/](https://www.androidauthority.com/new-on-hulu-939207/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-27 14:00:20+00:00
- - tags: None
 
 There's plenty to watch this month, including returning favorites and exclusive streaming premieres.
 
@@ -84,7 +74,6 @@ There's plenty to watch this month, including returning favorites and exclusive 
  - [https://www.androidauthority.com/best-iphone-14-pro-cases-3210675/](https://www.androidauthority.com/best-iphone-14-pro-cases-3210675/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-27 13:59:32+00:00
- - tags: None
 
 Keep your premium iPhone 14 Pro safe and sound.
 
@@ -92,7 +81,6 @@ Keep your premium iPhone 14 Pro safe and sound.
  - [https://www.androidauthority.com/foldable-phone-vs-tablet-3210229/](https://www.androidauthority.com/foldable-phone-vs-tablet-3210229/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-27 13:00:53+00:00
- - tags: None
 
 Size matters, but there's a lot more at play in the large-screen Android world.
 
@@ -100,7 +88,6 @@ Size matters, but there's a lot more at play in the large-screen Android world.
  - [https://www.androidauthority.com/amazon-google-pixel-7-price-leak-3213451/](https://www.androidauthority.com/amazon-google-pixel-7-price-leak-3213451/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-27 12:53:16+00:00
- - tags: None
 
 More evidence suggests that there are no changes on the pricing front for the Pixel 7.
 
@@ -108,7 +95,6 @@ More evidence suggests that there are no changes on the pricing front for the Pi
  - [https://www.androidauthority.com/google-pixel-7-series-wrong-poll-3213371/](https://www.androidauthority.com/google-pixel-7-series-wrong-poll-3213371/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-27 11:26:35+00:00
- - tags: None
 
 Google's recent flagships have all had some kind of weakness, but what about the Pixel 7?
 
@@ -116,7 +102,6 @@ Google's recent flagships have all had some kind of weakness, but what about the
  - [https://www.androidauthority.com/apple-watch-se-2-review-3210568/](https://www.androidauthority.com/apple-watch-se-2-review-3210568/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-27 11:00:44+00:00
- - tags: None
 
 There's no need to break the bank for an Apple Watch when the excellent, affordable SE 2 is up for grabs.
 
@@ -124,7 +109,6 @@ There's no need to break the bank for an Apple Watch when the excellent, afforda
  - [https://www.androidauthority.com/garmin-inreach-messenger-3212496/](https://www.androidauthority.com/garmin-inreach-messenger-3212496/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-27 11:00:43+00:00
- - tags: None
 
 The new Garmin InReach Messenger will be a godsend for texting addicts.
 
@@ -132,7 +116,6 @@ The new Garmin InReach Messenger will be a godsend for texting addicts.
  - [https://www.androidauthority.com/daily-authority-september-27-2022-3213061/](https://www.androidauthority.com/daily-authority-september-27-2022-3213061/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-27 09:33:20+00:00
- - tags: None
 
 Do you care about phone thickness? Plus leaked Pixel 7 Pro specs, the return of E3, and more of today's top tech news.
 
@@ -140,7 +123,6 @@ Do you care about phone thickness? Plus leaked Pixel 7 Pro specs, the return of 
  - [https://www.androidauthority.com/lg-rollable-poll-results-3213308/](https://www.androidauthority.com/lg-rollable-poll-results-3213308/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-27 08:55:12+00:00
- - tags: None
 
 We got a good look at the canceled LG phone thanks to a YouTube review. So did you like what you saw?
 
@@ -148,7 +130,6 @@ We got a good look at the canceled LG phone thanks to a YouTube review. So did y
  - [https://www.androidauthority.com/google-pixel-7-pro-specs-3213292/](https://www.androidauthority.com/google-pixel-7-pro-specs-3213292/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-27 07:04:19+00:00
- - tags: None
 
 It looks like the Pixel 7 Pro will be an iterative upgrade over last year's Pro phone.
 
@@ -156,7 +137,6 @@ It looks like the Pixel 7 Pro will be an iterative upgrade over last year's Pro 
  - [https://www.androidauthority.com/google-pixel-watch-bezels-3213288/](https://www.androidauthority.com/google-pixel-watch-bezels-3213288/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-27 06:43:55+00:00
- - tags: None
 
 What's up with this, Google?
 
@@ -164,7 +144,6 @@ What's up with this, Google?
  - [https://www.androidauthority.com/vivo-x-fold-plus-3212731/](https://www.androidauthority.com/vivo-x-fold-plus-3212731/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-27 06:06:33+00:00
- - tags: None
 
 There aren't many upgrades over the original model, but it's still a pretty compelling proposition.
 
@@ -172,6 +151,5 @@ There aren't many upgrades over the original model, but it's still a pretty comp
  - [https://www.androidauthority.com/whatsapp-call-links-3213273/](https://www.androidauthority.com/whatsapp-call-links-3213273/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-27 05:40:42+00:00
- - tags: None
 
 You can now pre-arrange WhatsApp video calls using the new Call Links feature.

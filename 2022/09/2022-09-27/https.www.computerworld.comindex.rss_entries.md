@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Jamf touts big boost to enterprise security at JNUC
  - [https://www.computerworld.com/article/3674843/jamf-touts-big-boost-to-enterprise-security-at-jnuc.html#tk.rss_all](https://www.computerworld.com/article/3674843/jamf-touts-big-boost-to-enterprise-security-at-jnuc.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-27 17:05:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3674840/apple-ceo-tim-cook-wants-more-women-in-tech.html#tk.rss_all](https://www.computerworld.com/article/3674840/apple-ceo-tim-cook-wants-more-women-in-tech.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-27 16:07:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -25,7 +23,6 @@
  - [https://www.computerworld.com/article/3674839/goto-adds-co-browsing-functionality-to-its-contact-center-offering.html#tk.rss_all](https://www.computerworld.com/article/3674839/goto-adds-co-browsing-functionality-to-its-contact-center-offering.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-27 13:45:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -35,7 +32,6 @@
  - [https://www.computerworld.com/article/3669288/how-to-choose-digital-employee-experience-tool.html#tk.rss_all](https://www.computerworld.com/article/3669288/how-to-choose-digital-employee-experience-tool.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-27 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## Special master appointed to review documents from Mar-a-Lago search
  - [https://www.cnn.com/2022/09/15/politics/mar-a-lago-search-special-master/index.html](https://www.cnn.com/2022/09/15/politics/mar-a-lago-search-special-master/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 23:42:45+00:00
- - tags: None
 
 
 
@@ -12,7 +11,6 @@
  - [https://www.cnn.com/videos/politics/2022/09/15/marthas-vineyard-venezuelan-migrants-marquez-pkg-lead-vpx.cnn](https://www.cnn.com/videos/politics/2022/09/15/marthas-vineyard-venezuelan-migrants-marquez-pkg-lead-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 23:24:32+00:00
- - tags: None
 
 CNN speaks to a Venezuelan migrant unexpectedly flown to Martha's Vineyard as well as volunteers scrambling to help the sudden influx sent by Florida Governor Ron deSantis. CNN's Miguel Marquez reports.
 
@@ -20,7 +18,6 @@ CNN speaks to a Venezuelan migrant unexpectedly flown to Martha's Vineyard as we
  - [https://www.cnn.com/videos/us/2022/09/15/dog-on-roof-husky-arizona-glendale-neighborhood-watch-affil-pkg-vpx.knxv](https://www.cnn.com/videos/us/2022/09/15/dog-on-roof-husky-arizona-glendale-neighborhood-watch-affil-pkg-vpx.knxv)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 22:25:38+00:00
- - tags: None
 
 An Arizona husky dog that loves to hang out on the roof is becoming famous by taking being a "watchdog" to a whole new level. CNN affiliate KNXV's Christine Stanwood reports.
 
@@ -28,7 +25,6 @@ An Arizona husky dog that loves to hang out on the roof is becoming famous by ta
  - [https://www.cnn.com/2022/09/15/world/perseverance-rover-mars-images-scn/index.html](https://www.cnn.com/2022/09/15/world/perseverance-rover-mars-images-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 21:41:56+00:00
- - tags: None
 
 
 
@@ -36,7 +32,6 @@ An Arizona husky dog that loves to hang out on the roof is becoming famous by ta
  - [https://www.cnn.com/videos/tv/2022/09/15/amanpour-nato-secretary-general-jens-stoltenberg-ukraine-advances.cnn](https://www.cnn.com/videos/tv/2022/09/15/amanpour-nato-secretary-general-jens-stoltenberg-ukraine-advances.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 21:34:47+00:00
- - tags: None
 
 NATO Secretary General Jens Stoltenberg reacts to Ukrainian advances against Russia and warns of a challenging winter ahead.
 
@@ -44,7 +39,6 @@ NATO Secretary General Jens Stoltenberg reacts to Ukrainian advances against Rus
  - [https://www.cnn.com/2022/09/15/asia/pakistan-climate-floods-attribution-intl/index.html](https://www.cnn.com/2022/09/15/asia/pakistan-climate-floods-attribution-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 21:00:46+00:00
- - tags: None
 
 An analysis of Pakistan's devastating floods has found "fingerprints" of the human-made climate crisis on the disaster, which killed more than 1,400 people and destroyed so much land and infrastructure it has plunged the South Asian nation into crisis.
 
@@ -52,7 +46,6 @@ An analysis of Pakistan's devastating floods has found "fingerprints" of the hum
  - [https://www.cnn.com/2022/09/15/politics/migrant-buses-desantis-abbott-what-matters/index.html](https://www.cnn.com/2022/09/15/politics/migrant-buses-desantis-abbott-what-matters/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 20:32:51+00:00
- - tags: None
 
 Republican governors are in a cynical competition to outdo each other and send migrants from the US border by bus to New York, Washington, DC, Chicago and, now, by plane to Martha's Vineyard.
 
@@ -60,7 +53,6 @@ Republican governors are in a cynical competition to outdo each other and send m
  - [https://www.cnn.com/videos/business/2022/09/15/nightcap-facebook-tik-tok-clip-orig.cnn](https://www.cnn.com/videos/business/2022/09/15/nightcap-facebook-tik-tok-clip-orig.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 20:31:55+00:00
- - tags: None
 
 What's Facebook's plan for attracting younger users? Recode's Shirin Ghaffary joins "Nightcap's" Jon Sarlin to discuss the existential moment of change at Facebook. For more, watch the full Nightcap episode here.
 
@@ -68,7 +60,6 @@ What's Facebook's plan for attracting younger users? Recode's Shirin Ghaffary jo
  - [https://www.cnn.com/2022/09/15/us/dallas-anesthesiologist-arrest/index.html](https://www.cnn.com/2022/09/15/us/dallas-anesthesiologist-arrest/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 20:12:17+00:00
- - tags: None
 
 A Dallas anesthesiologist was arrested Wednesday on federal criminal charges for allegedly injecting nerve blocking agents and other drugs into patient IV bags at a surgery center, resulting in the death of his coworker and multiple cardiac emergencies, according to a release from the US Attorney's Office.
 
@@ -76,7 +67,6 @@ A Dallas anesthesiologist was arrested Wednesday on federal criminal charges for
  - [https://www.cnn.com/videos/business/2022/09/15/abbot-elementary-quinta-brunson-jimmy-kimmel-ht-zw-orig.cnn-business](https://www.cnn.com/videos/business/2022/09/15/abbot-elementary-quinta-brunson-jimmy-kimmel-ht-zw-orig.cnn-business)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 19:44:03+00:00
- - tags: None
 
 "Abbott Elementary" creator and star Quinta Brunson got a second chance to give her Emmy Award acceptance speech when she interrupted Jimmy Kimmel's monologue, reclaiming time she lost during the ceremony because of a joke Kimmel made.
 
@@ -84,7 +74,6 @@ A Dallas anesthesiologist was arrested Wednesday on federal criminal charges for
  - [https://www.cnn.com/2022/09/15/entertainment/naomi-ackie-whitney-houston-trailer-movie/index.html](https://www.cnn.com/2022/09/15/entertainment/naomi-ackie-whitney-houston-trailer-movie/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 19:14:31+00:00
- - tags: None
 
 Naomi Ackie shines as Whitney Houston in the upcoming biopic "I Wanna Dance with Somebody."
 
@@ -92,7 +81,6 @@ Naomi Ackie shines as Whitney Houston in the upcoming biopic "I Wanna Dance with
  - [https://www.cnn.com/2022/09/15/politics/robert-packer-camp-auschwitz-sweatshirt-january-6-sentenced/index.html](https://www.cnn.com/2022/09/15/politics/robert-packer-camp-auschwitz-sweatshirt-january-6-sentenced/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 19:14:00+00:00
- - tags: None
 
 A Virginia man who was infamously photographed wearing a "Camp Auschwitz" sweatshirt and an "SS" t-shirt inside the US Capitol on January 6, 2021, was sentenced by a federal judge Thursday to more than two months in jail.
 
@@ -100,7 +88,6 @@ A Virginia man who was infamously photographed wearing a "Camp Auschwitz" sweats
  - [https://www.cnn.com/videos/us/2022/09/15/florida-employee-chickfila-carjack-foiled-newday-sot-vpx.cnn](https://www.cnn.com/videos/us/2022/09/15/florida-employee-chickfila-carjack-foiled-newday-sot-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 18:05:47+00:00
- - tags: None
 
 The Okaloosa County Sheriff's Office is praising a Chick-fil-A employee in Florida who rushed to the aid of a woman who was being carjacked. CNN's Brianna Keilar explains.
 
@@ -108,7 +95,6 @@ The Okaloosa County Sheriff's Office is praising a Chick-fil-A employee in Flori
  - [https://www.cnn.com/2022/09/15/world/how-saturn-got-its-rings-scn/index.html](https://www.cnn.com/2022/09/15/world/how-saturn-got-its-rings-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 18:00:20+00:00
- - tags: None
 
 With its striking rings and tilted axis, Saturn is the showiest planet in the solar system. Now, scientists say they have a new theory as to how the gas giant got its signature look.
 
@@ -116,7 +102,6 @@ With its striking rings and tilted axis, Saturn is the showiest planet in the so
  - [https://www.cnn.com/2022/09/15/europe/fireball-scotland-scn/index.html](https://www.cnn.com/2022/09/15/europe/fireball-scotland-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 17:26:29+00:00
- - tags: None
 
 Hundreds of people across Scotland, Northern Ireland and northern parts of England spotted an unusual fireball lighting up the night sky Wednesday.
 
@@ -124,7 +109,6 @@ Hundreds of people across Scotland, Northern Ireland and northern parts of Engla
  - [https://www.cnn.com/2022/09/15/weather/alaska-typhoon-remnant-storm-weekend/index.html](https://www.cnn.com/2022/09/15/weather/alaska-typhoon-remnant-storm-weekend/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 17:22:34+00:00
- - tags: None
 
 All eyes in Alaska will be on the remnants of Typhoon Merbok as the system moves over the southern Bering Sea on Thursday night -- before becoming what's expected to be the strongest storm to impact the state in more than a decade.
 
@@ -132,7 +116,6 @@ All eyes in Alaska will be on the remnants of Typhoon Merbok as the system moves
  - [https://www.cnn.com/videos/us/2022/09/15/otter-meets-gibbon-moos-orig-bdk.cnn](https://www.cnn.com/videos/us/2022/09/15/otter-meets-gibbon-moos-orig-bdk.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 16:20:31+00:00
- - tags: None
 
 Otter meets ape ... is this the beginning of a beautiful interspecies friendship? CNN's Jeanne Moos reports.
 
@@ -140,7 +123,6 @@ Otter meets ape ... is this the beginning of a beautiful interspecies friendship
  - [https://www.cnn.com/2022/09/15/sport/caitlin-moran-rugby-league-australia-spt-intl/index.html](https://www.cnn.com/2022/09/15/sport/caitlin-moran-rugby-league-australia-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 15:51:39+00:00
- - tags: None
 
 An Indigenous Australian rugby league player has been suspended for a game following a social media post she reportedly made about the Queen's death last week, in which she referred to the monarch as a "dumb dog."
 
@@ -148,7 +130,6 @@ An Indigenous Australian rugby league player has been suspended for a game follo
  - [https://www.cnn.com/videos/world/2022/09/15/lying-in-state-queues-london-queen-lon-orig.cnn](https://www.cnn.com/videos/world/2022/09/15/lying-in-state-queues-london-queen-lon-orig.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 15:37:15+00:00
- - tags: None
 
 Over four days, queues could reach up to nine miles long in London as people pay their last respects to Queen Elizabeth II in Westminster Hall. CNN spoke to those who have waited for hours to understand why.
 
@@ -156,7 +137,6 @@ Over four days, queues could reach up to nine miles long in London as people pay
  - [https://www.cnn.com/2022/09/15/economy/russia-economy-budget-hole/index.html](https://www.cnn.com/2022/09/15/economy/russia-economy-budget-hole/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 15:10:18+00:00
- - tags: None
 
 There are new signs of strain in the Russian economy as energy prices fall and nearly seven months of war in Ukraine prove increasingly costly.
 
@@ -164,7 +144,6 @@ There are new signs of strain in the Russian economy as energy prices fall and n
  - [https://www.cnn.com/collections/intl-queen-0915/](https://www.cnn.com/collections/intl-queen-0915/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 15:09:39+00:00
- - tags: None
 
 
 
@@ -172,7 +151,6 @@ There are new signs of strain in the Russian economy as energy prices fall and n
  - [https://www.cnn.com/style/article/great-star-of-africa-diamond-intl-lgs/index.html](https://www.cnn.com/style/article/great-star-of-africa-diamond-intl-lgs/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 15:08:44+00:00
- - tags: None
 
 Calls are growing in South Africa for Britain's royal family to return the world's largest known clear-cut diamond in the wake of Queen Elizabeth II's death.
 
@@ -180,7 +158,6 @@ Calls are growing in South Africa for Britain's royal family to return the world
  - [https://www.cnn.com/videos/world/2022/09/15/queen-elizabeth-ii-royal-guard-faint-casket-vpx.cnn](https://www.cnn.com/videos/world/2022/09/15/queen-elizabeth-ii-royal-guard-faint-casket-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 15:01:05+00:00
- - tags: None
 
 While standing guard by the Queen's coffin as it lies in state inside Westminster Hall at the Palace of Westminster, a member of the royal guard collapsed and police rushed to his side.
 
@@ -188,7 +165,6 @@ While standing guard by the Queen's coffin as it lies in state inside Westminste
  - [https://www.cnn.com/2022/09/15/us/migrants-kamala-harris-house-dc/index.html](https://www.cnn.com/2022/09/15/us/migrants-kamala-harris-house-dc/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 14:51:19+00:00
- - tags: None
 
 Two buses carrying migrants arrived Thursday at the US Naval Observatory -- the vice president's residence in Washington, DC -- from Texas, surprising volunteers who were not prepared to receive them there, volunteers in the district said.
 
@@ -196,7 +172,6 @@ Two buses carrying migrants arrived Thursday at the US Naval Observatory -- the 
  - [https://www.cnn.com/2022/09/15/business/kanye-west-gap-termination/index.html](https://www.cnn.com/2022/09/15/business/kanye-west-gap-termination/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 14:50:16+00:00
- - tags: None
 
 Kanye West said he's terminating his rocky two-year-old partnership with the Gap because of "substantial noncompliance."
 
@@ -204,7 +179,6 @@ Kanye West said he's terminating his rocky two-year-old partnership with the Gap
  - [https://www.cnn.com/videos/world/2022/09/15/ukrainian-mother-son-reunite-orig-aw.cnn](https://www.cnn.com/videos/world/2022/09/15/ukrainian-mother-son-reunite-orig-aw.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 14:40:56+00:00
- - tags: None
 
 A Ukrainian mother and son were reunited after their village was liberated from Russia as part of a counteroffensive from their country's military.
 
@@ -212,7 +186,6 @@ A Ukrainian mother and son were reunited after their village was liberated from 
  - [https://www.cnn.com/2022/09/15/media/cnn-morning-show/index.html](https://www.cnn.com/2022/09/15/media/cnn-morning-show/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 14:34:19+00:00
- - tags: None
 
 CNN announced on Thursday that it will debut a fresh morning show later this year anchored by network stars Don Lemon, Poppy Harlow, and Kaitlan Collins.
 
@@ -220,7 +193,6 @@ CNN announced on Thursday that it will debut a fresh morning show later this yea
  - [https://www.cnn.com/2022/09/15/entertainment/zac-efron-almost-died/index.html](https://www.cnn.com/2022/09/15/entertainment/zac-efron-almost-died/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 14:31:26+00:00
- - tags: None
 
 Zac Efron has heard about speculation that he altered his face with plastic surgery, but he says that's not close to the truth.
 
@@ -228,7 +200,6 @@ Zac Efron has heard about speculation that he altered his face with plastic surg
  - [https://www.cnn.com/travel/article/tgv-m-next-generation-high-speed-train-france/index.html](https://www.cnn.com/travel/article/tgv-m-next-generation-high-speed-train-france/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 14:29:12+00:00
- - tags: None
 
 Welcome to the future of European high-speed rail travel.
 
@@ -236,7 +207,6 @@ Welcome to the future of European high-speed rail travel.
  - [https://www.cnn.com/videos/us/2022/09/14/ryan-reynolds-rob-mcelhenney-colonoscopy-orig-jc.cnn](https://www.cnn.com/videos/us/2022/09/14/ryan-reynolds-rob-mcelhenney-colonoscopy-orig-jc.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 14:21:28+00:00
- - tags: None
 
 Actors Ryan Reynolds and Rob McElhenney teamed up to raise awareness of colon cancer by filming their first colonoscopies and posting them on social media.
 
@@ -244,7 +214,6 @@ Actors Ryan Reynolds and Rob McElhenney teamed up to raise awareness of colon ca
  - [https://www.cnn.com/2022/09/15/tennis/roger-federer-retirement-announcement-spt-intl/index.html](https://www.cnn.com/2022/09/15/tennis/roger-federer-retirement-announcement-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 14:13:28+00:00
- - tags: None
 
 Roger Federer has announced that he will retire from the ATP Tour and grand slams following the Laver Cup next week in London.
 
@@ -252,7 +221,6 @@ Roger Federer has announced that he will retire from the ATP Tour and grand slam
  - [https://www.cnn.com/2022/09/15/entertainment/nick-cannon-ninth-baby/index.html](https://www.cnn.com/2022/09/15/entertainment/nick-cannon-ninth-baby/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 13:54:49+00:00
- - tags: None
 
 Nick Cannon is back on new daddy duty.
 
@@ -260,7 +228,6 @@ Nick Cannon is back on new daddy duty.
  - [https://www.cnn.com/2022/09/15/politics/house-january-6-committee-seeks-more-john-eastman-emails/index.html](https://www.cnn.com/2022/09/15/politics/house-january-6-committee-seeks-more-john-eastman-emails/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 13:52:07+00:00
- - tags: None
 
 The House select committee investigating the January 6, 2021, US Capitol attack is seeking another 3,200 pages of emails from John Eastman, the Trump attorney who spearheaded the far-fetched legal theory that then-Vice President Mike Pence could block Congress' certification of Joe Biden's win.
 
@@ -268,7 +235,6 @@ The House select committee investigating the January 6, 2021, US Capitol attack 
  - [https://www.cnn.com/2022/09/15/entertainment/blonde-review/index.html](https://www.cnn.com/2022/09/15/entertainment/blonde-review/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 13:46:57+00:00
- - tags: None
 
 The gap between a star performance and the movie containing it has seldom been wider than in "Blonde," which features Ana de Armas stunningly capturing the look and essence of Marilyn Monroe in the service of a film that's pretentious, heavy handed and lengthy to the point of exhaustion. Netflix will surely get its money's worth attention-wise thanks in part to its restrictive NC-17 rating, but the film's merits burn out long before its credits ever roll.
 
@@ -276,7 +242,6 @@ The gap between a star performance and the movie containing it has seldom been w
  - [https://www.cnn.com/2022/09/15/entertainment/the-woman-king-review/index.html](https://www.cnn.com/2022/09/15/entertainment/the-woman-king-review/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 13:43:47+00:00
- - tags: None
 
 Although "inspired by true events," "The Woman King" clearly isn't tethered to them, using the underlying story of 19th-century female warriors in an African kingdom as the jumping-off point for a rousing action vehicle, augmented by plenty of melodrama. That combination yields a strong showcase for the stars, featuring a cast and backdrop that serves to refresh its old-school formula.
 
@@ -284,7 +249,6 @@ Although "inspired by true events," "The Woman King" clearly isn't tethered to t
  - [https://www.cnn.com/2022/09/15/politics/john-durham-russia-probe-donald-trump/index.html](https://www.cnn.com/2022/09/15/politics/john-durham-russia-probe-donald-trump/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 13:42:43+00:00
- - tags: None
 
 After then-Attorney General Bill Barr appointed attorney John Durham in December 2020 to look into the origins of the FBI investigation of Russia's meddling in the 2016 election, Donald Trump insisted that the probe would uncover widespread wrongdoing by Hillary Clinton and Democrats.
 
@@ -292,7 +256,6 @@ After then-Attorney General Bill Barr appointed attorney John Durham in December
  - [https://www.cnn.com/2022/09/15/tech/uk-antitrust-microsoft-activision/index.html](https://www.cnn.com/2022/09/15/tech/uk-antitrust-microsoft-activision/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 13:40:35+00:00
- - tags: None
 
 UK officials have launched a deeper antitrust investigation into Microsoft's $68.7 billion purchase of video game giant Activision Blizzard, reflecting concerns that the deal may lead to reduced competition.
 
@@ -300,7 +263,6 @@ UK officials have launched a deeper antitrust investigation into Microsoft's $68
  - [https://www.cnn.com/2022/09/15/politics/us-ukraine-aid-weapons/index.html](https://www.cnn.com/2022/09/15/politics/us-ukraine-aid-weapons/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 13:00:28+00:00
- - tags: None
 
 The Biden administration is unlikely to significantly change its approach to helping Ukraine fight Russia, sources tell CNN, and is rebuffing some Ukrainian weapons requests for now -- even as Ukrainian forces have made sweeping gains and recaptured thousands of miles of territory from Russia in recent days.
 
@@ -308,7 +270,6 @@ The Biden administration is unlikely to significantly change its approach to hel
  - [https://www.cnn.com/2022/09/15/asia/xi-putin-meeting-main-bar-intl-hnk/index.html](https://www.cnn.com/2022/09/15/asia/xi-putin-meeting-main-bar-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 12:56:51+00:00
- - tags: None
 
 Chinese leader Xi Jinping is meeting with Russian President Vladimir Putin Thursday in a show of diplomatic support, as Moscow contends with growing international isolation over its faltering invasion of Ukraine.
 
@@ -316,7 +277,6 @@ Chinese leader Xi Jinping is meeting with Russian President Vladimir Putin Thurs
  - [https://www.cnn.com/2022/09/15/uk/queen-elizabeth-funeral-service-intl-gbr/index.html](https://www.cnn.com/2022/09/15/uk/queen-elizabeth-funeral-service-intl-gbr/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 12:01:27+00:00
- - tags: None
 
 Buckingham Palace has announced Queen Elizabeth II's children will mount a vigil around her coffin on Friday evening, similar to their guard in St. Giles' Cathedral in Scotland earlier this week.
 
@@ -324,7 +284,6 @@ Buckingham Palace has announced Queen Elizabeth II's children will mount a vigil
  - [https://www.cnn.com/2022/09/15/investing/premarket-stocks-trading/index.html](https://www.cnn.com/2022/09/15/investing/premarket-stocks-trading/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 12:01:22+00:00
- - tags: None
 
 Investors are on edge as the Federal Reserve gears up for its policy decision next week. Some are even starting to brace for a big surprise.
 
@@ -332,7 +291,6 @@ Investors are on edge as the Federal Reserve gears up for its policy decision ne
  - [https://www.cnn.com/2022/09/15/europe/russia-ukraine-kryvyi-rih-dam-strike-intl/index.html](https://www.cnn.com/2022/09/15/europe/russia-ukraine-kryvyi-rih-dam-strike-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 11:41:30+00:00
- - tags: None
 
 Ukraine says Russian missile strikes have broken a major dam in the central Ukrainian city of Kryvyi Rih, the latest attack from Moscow in a series of bombardments on civilian infrastructure.
 
@@ -340,7 +298,6 @@ Ukraine says Russian missile strikes have broken a major dam in the central Ukra
  - [https://www.cnn.com/style/article/anne-hathaway-devil-wears-prada-nyfw-lotw/index.html](https://www.cnn.com/style/article/anne-hathaway-devil-wears-prada-nyfw-lotw/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 11:39:22+00:00
- - tags: None
 
 Life imitated art on the front row of the Michael Kors show on Wednesday when assigned seating placed Vogue editor-in-chief Anna Wintour and actor Anne Hathaway next to one another in a display of PR genius.
 
@@ -348,7 +305,6 @@ Life imitated art on the front row of the Michael Kors show on Wednesday when as
  - [https://www.cnn.com/2022/09/15/health/monkeypox-name-change/index.html](https://www.cnn.com/2022/09/15/health/monkeypox-name-change/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 11:21:34+00:00
- - tags: None
 
 Since the beginning of the monkeypox outbreak, scientists and activists have pushed for the name of the virus and the disease to be changed to something "non-discriminatory" and "non-stigmatizing."
 
@@ -356,7 +312,6 @@ Since the beginning of the monkeypox outbreak, scientists and activists have pus
  - [https://www.cnn.com/travel/article/hanoi-train-street-cafes-shutdown-intl-hnk/index.html](https://www.cnn.com/travel/article/hanoi-train-street-cafes-shutdown-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 11:20:50+00:00
- - tags: None
 
 Hanoi's popular "train street" is once again the subject of a significant crackdown.
 
@@ -364,7 +319,6 @@ Hanoi's popular "train street" is once again the subject of a significant crackd
  - [https://www.cnn.com/2022/09/15/tech/ethereum-merge-crytocurrency-energy-consumption-hnk-intl/index.html](https://www.cnn.com/2022/09/15/tech/ethereum-merge-crytocurrency-energy-consumption-hnk-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 11:13:51+00:00
- - tags: None
 
 Ethereum, the world's second most valuable cryptocurrency, has completed a massive software upgrade that its backers claim will slash its carbon footprint.
 
@@ -372,7 +326,6 @@ Ethereum, the world's second most valuable cryptocurrency, has completed a massi
  - [https://www.cnn.com/2022/09/15/uk/the-queen-embodied-dignity-politics-should-follow-intl-cmd-gbr/index.html](https://www.cnn.com/2022/09/15/uk/the-queen-embodied-dignity-politics-should-follow-intl-cmd-gbr/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 11:00:56+00:00
- - tags: None
 
 Liz Truss had only been prime minister of the United Kingdom for two days when she learned that Queen Elizabeth, the monarch who'd earlier that week asked her to form a government, was dead.
 
@@ -380,7 +333,6 @@ Liz Truss had only been prime minister of the United Kingdom for two days when s
  - [https://www.cnn.com/2022/09/15/football/erling-haaland-manchester-city-borussia-dortmund-spt-intl/index.html](https://www.cnn.com/2022/09/15/football/erling-haaland-manchester-city-borussia-dortmund-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 10:57:57+00:00
- - tags: None
 
 Ahead of kick-off, all eyes were on Norwegian star Erling Haaland as he lined up against the team he had only left a few months ago.
 
@@ -388,7 +340,6 @@ Ahead of kick-off, all eyes were on Norwegian star Erling Haaland as he lined up
  - [https://www.cnn.com/2022/09/15/business/railroad-strike-averted-tentative-deal/index.html](https://www.cnn.com/2022/09/15/business/railroad-strike-averted-tentative-deal/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 09:57:03+00:00
- - tags: None
 
 Unions and management reached a tentative deal early Thursday that averts a freight railroad strike that had threatened to cripple US supply chains and push prices higher for many goods.
 
@@ -396,7 +347,6 @@ Unions and management reached a tentative deal early Thursday that averts a frei
  - [https://cnn.it/3eSye8T](https://cnn.it/3eSye8T)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 09:50:48.724581+00:00
- - tags: None
 
 
 
@@ -404,7 +354,6 @@ Unions and management reached a tentative deal early Thursday that averts a frei
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-v2-09-15-22/index.html](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-v2-09-15-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 09:50:48.705736+00:00
- - tags: None
 
 
 
@@ -412,7 +361,6 @@ Unions and management reached a tentative deal early Thursday that averts a frei
  - [https://www.cnn.com/2022/09/15/health/help-children-develop-confidence-wellness/index.html](https://www.cnn.com/2022/09/15/health/help-children-develop-confidence-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 09:07:55+00:00
- - tags: None
 
 One might hope that children's capacity for boredom would be matched by an appetite for all things new -- if only parenting were so easy. Trying new things is difficult for many children, whether a different food, activity or skill. They like what they know, and they know what they like.
 
@@ -420,7 +368,6 @@ One might hope that children's capacity for boredom would be matched by an appet
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-v2-09-15-22/index.html](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-v2-09-15-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 08:50:47.820271+00:00
- - tags: None
 
 
 
@@ -428,7 +375,6 @@ One might hope that children's capacity for boredom would be matched by an appet
  - [https://www.cnn.com/2022/09/15/sport/lebron-james-adam-silver-react-robert-sarver-spt-intl/index.html](https://www.cnn.com/2022/09/15/sport/lebron-james-adam-silver-react-robert-sarver-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 08:34:46+00:00
- - tags: None
 
 LeBron James and Chris Paul have criticized the NBA for the punishment handed down to Phoenix Suns owner Robert Sarver, who this week was fined $10 million and suspended for a year after an independent investigation found he engaged in hostile, racially insensitive and inappropriate behavior.
 
@@ -436,7 +382,6 @@ LeBron James and Chris Paul have criticized the NBA for the punishment handed do
  - [https://www.cnn.com/travel/article/chance-encounters-paris-metro/index.html](https://www.cnn.com/travel/article/chance-encounters-paris-metro/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 08:25:10+00:00
- - tags: None
 
 Andye was only in Paris for three days. On day one, she jumped aboard the Metro train that would change her life forever.
 
@@ -444,7 +389,6 @@ Andye was only in Paris for three days. On day one, she jumped aboard the Metro 
  - [https://www.cnn.com/2022/09/15/china/hong-kong-queen-elizabeth-ii-mourning-china-intl-hnk/index.html](https://www.cnn.com/2022/09/15/china/hong-kong-queen-elizabeth-ii-mourning-china-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 05:01:36+00:00
- - tags: None
 
 Thousands of people in Hong Kong have turned out to pay their respects to Queen Elizabeth II, in one of the largest public gatherings since China clamped down on shows of political dissent in the former British colony more than two years ago.
 
@@ -452,7 +396,6 @@ Thousands of people in Hong Kong have turned out to pay their respects to Queen 
  - [https://www.cnn.com/2022/09/15/europe/ukraine-shevchenkove-town-liberated-intl-cmd/index.html](https://www.cnn.com/2022/09/15/europe/ukraine-shevchenkove-town-liberated-intl-cmd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 04:39:48+00:00
- - tags: None
 
 • Zelensky visits newly recaptured city of Izium
 
@@ -460,7 +403,6 @@ Thousands of people in Hong Kong have turned out to pay their respects to Queen 
  - [https://www.cnn.com/2022/09/14/politics/mark-meadows-subpoena-justice-department-january-6/index.html](https://www.cnn.com/2022/09/14/politics/mark-meadows-subpoena-justice-department-january-6/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 04:06:46+00:00
- - tags: None
 
 Former White House chief of staff Mark Meadows has complied with a subpoena from the Justice Department's investigation into events surrounding January 6, 2021, sources familiar with the matter tell CNN, making him the highest-ranking Trump official known to have responded to a subpoena in the federal investigation.
 
@@ -468,7 +410,6 @@ Former White House chief of staff Mark Meadows has complied with a subpoena from
  - [https://www.cnn.com/2022/09/14/politics/marthas-vineyard-massachusetts-migrants-planes/index.html](https://www.cnn.com/2022/09/14/politics/marthas-vineyard-massachusetts-migrants-planes/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 03:44:51+00:00
- - tags: None
 
 Florida Republican Gov. Ron DeSantis is claiming credit for sending two planes carrying migrants to Martha's Vineyard in Massachusetts Wednesday, according to a statement emailed to CNN by his office.
 
@@ -476,7 +417,6 @@ Florida Republican Gov. Ron DeSantis is claiming credit for sending two planes c
  - [https://www.cnn.com/2022/09/14/asia/new-zealand-children-suitcase-korea-woman-arrested-intl-hnk/index.html](https://www.cnn.com/2022/09/14/asia/new-zealand-children-suitcase-korea-woman-arrested-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 03:09:00+00:00
- - tags: None
 
 A 42-year-old woman believed to be the mother of two children whose remains were found in suitcases bought from a storage facility in New Zealand has been arrested for alleged murder in South Korea.
 
@@ -484,7 +424,6 @@ A 42-year-old woman believed to be the mother of two children whose remains were
  - [https://www.cnn.com/collections/intl-1509-xi-jinping/](https://www.cnn.com/collections/intl-1509-xi-jinping/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 02:36:17+00:00
- - tags: None
 
 
 
@@ -492,7 +431,6 @@ A 42-year-old woman believed to be the mother of two children whose remains were
  - [https://www.cnn.com/videos/world/2022/09/15/william-and-harry-relationship-queen-elizabeth-ii-abdelaziz-pkg-tsr-vpx.cnn](https://www.cnn.com/videos/world/2022/09/15/william-and-harry-relationship-queen-elizabeth-ii-abdelaziz-pkg-tsr-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 02:36:16+00:00
- - tags: None
 
 Princes William and Harry have reunited to mourn their grandmother Queen Elizabeth II's death after a turbulent two years since Harry and Meghan, the Duke and Duchess of Sussex stepped back from royal duties.
 
@@ -500,7 +438,6 @@ Princes William and Harry have reunited to mourn their grandmother Queen Elizabe
  - [https://www.cnn.com/videos/world/2022/09/15/ukraine-russia-zelensky-liberated-territory-visit-izium-ebof-npw-pkg-vpx.cnn](https://www.cnn.com/videos/world/2022/09/15/ukraine-russia-zelensky-liberated-territory-visit-izium-ebof-npw-pkg-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 01:44:38+00:00
- - tags: None
 
 President Volodymyr Zelensky thanked his country's military during a visit to the newly liberated city of Izium in Kharkiv region. CNN's Nick Paton Walsh reports from the ground.
 
@@ -508,7 +445,6 @@ President Volodymyr Zelensky thanked his country's military during a visit to th
  - [https://www.cnn.com/2022/09/14/world/indonesia-brazil-forest-loss-deforestation-mining-intl-hnk/index.html](https://www.cnn.com/2022/09/14/world/indonesia-brazil-forest-loss-deforestation-mining-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 01:42:14+00:00
- - tags: None
 
 Industrial-scale mining for materials such as coal, gold, and iron ore is spurring tropical deforestation, with once-impenetrable forest cleared for mines and access roads, new research shows.
 
@@ -516,7 +452,6 @@ Industrial-scale mining for materials such as coal, gold, and iron ore is spurri
  - [https://www.cnn.com/2022/09/14/europe/zelensky-car-crash-intl/index.html](https://www.cnn.com/2022/09/14/europe/zelensky-car-crash-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 01:03:10+00:00
- - tags: None
 
 Ukrainian President Volodymyr Zelensky has emerged with "no serious injuries" from a car collision in Kyiv on Wednesday.
 
@@ -524,7 +459,6 @@ Ukrainian President Volodymyr Zelensky has emerged with "no serious injuries" fr
  - [https://www.cnn.com/2022/09/14/business/patagonia-ownership/index.html](https://www.cnn.com/2022/09/14/business/patagonia-ownership/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 00:46:44+00:00
- - tags: None
 
 Patagonia's founder is transferring ownership of the company after nearly 50 years into two entities that will help fight the climate crisis.
 
@@ -532,7 +466,6 @@ Patagonia's founder is transferring ownership of the company after nearly 50 yea
  - [https://www.cnn.com/collections/intl-1509-covid/](https://www.cnn.com/collections/intl-1509-covid/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 00:37:14+00:00
- - tags: None
 
 
 
@@ -540,7 +473,6 @@ Patagonia's founder is transferring ownership of the company after nearly 50 yea
  - [https://www.cnn.com/videos/world/2022/09/14/king-charles-royal-fortune-stewart-ebof-pkg-vpx.cnn](https://www.cnn.com/videos/world/2022/09/14/king-charles-royal-fortune-stewart-ebof-pkg-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 00:33:08+00:00
- - tags: None
 
 CNN's Anna Stewart breaks down King Charles' royal inheritance - more than $21 billion.
 
@@ -548,6 +480,5 @@ CNN's Anna Stewart breaks down King Charles' royal inheritance - more than $21 b
  - [https://www.cnn.com/videos/business/2022/09/14/ford-mustang-seventh-generation-mc-orig.cnn-business](https://www.cnn.com/videos/business/2022/09/14/ford-mustang-seventh-generation-mc-orig.cnn-business)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-15 00:15:33+00:00
- - tags: None
 
 Ford has unveiled the seventh-generation of its Mustang. While it updated the interior with large digital screens, the automaker has maintained a gas-powered engine.

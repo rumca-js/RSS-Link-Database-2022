@@ -1,10 +1,9 @@
-# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
+# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, Source language: en-US
 
 ## The Woman King: #BlackTwitter ERUPTS in FURY
  - [https://www.youtube.com/watch?v=FZyERhrneL0](https://www.youtube.com/watch?v=FZyERhrneL0)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
  - date published: 2022-09-24 17:15:12+00:00
- - tags: None
 
 ⭐ Get BPS Stuff in Worldwide (Both North America, Europe and Worldwide): 
 https://bps-north-america.creator-spring.com/

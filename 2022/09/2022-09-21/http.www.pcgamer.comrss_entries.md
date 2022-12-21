@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## Streamer apologizes for leaking game reveals, says he did it for clout and 'the buzz'
  - [https://www.pcgamer.com/streamer-apologizes-for-leaking-game-reveals-says-he-did-it-for-clout-and-the-buzz](https://www.pcgamer.com/streamer-apologizes-for-leaking-game-reveals-says-he-did-it-for-clout-and-the-buzz)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-21 22:47:14+00:00
- - tags: None
 
 YouTuber Dan Allen was recently revealed as The Real Insider, who leaked multiple major game reveals and broke at least one major NDA in the process.
 
@@ -12,7 +11,6 @@ YouTuber Dan Allen was recently revealed as The Real Insider, who leaked multipl
  - [https://www.pcgamer.com/project-cars-2-is-gone-from-steam-forever](https://www.pcgamer.com/project-cars-2-is-gone-from-steam-forever)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-21 22:37:47+00:00
- - tags: None
 
 The storied racing game has been delisted from Steam.
 
@@ -20,7 +18,6 @@ The storied racing game has been delisted from Steam.
  - [https://www.pcgamer.com/best-wireless-gaming-headset](https://www.pcgamer.com/best-wireless-gaming-headset)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-21 22:02:35+00:00
- - tags: None
 
 The best wireless gaming headsets allow you to enjoy your games and music tangle-free.
 
@@ -28,7 +25,6 @@ The best wireless gaming headsets allow you to enjoy your games and music tangle
  - [https://www.pcgamer.com/exclusive-magic-the-gathering-unfinity-card-reveal-opening-ceremony](https://www.pcgamer.com/exclusive-magic-the-gathering-unfinity-card-reveal-opening-ceremony)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-21 22:00:00+00:00
- - tags: None
 
 Let the sanctioned buffoonery begin.
 
@@ -36,7 +32,6 @@ Let the sanctioned buffoonery begin.
  - [https://www.pcgamer.com/the-best-left-handed-mouse-for-gaming-for-2019](https://www.pcgamer.com/the-best-left-handed-mouse-for-gaming-for-2019)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-21 21:52:31+00:00
- - tags: None
 
 Shopping for the best left-handed mouse for gaming doesn't have to mean wading through right-handed options that might just work.
 
@@ -44,7 +39,6 @@ Shopping for the best left-handed mouse for gaming doesn't have to mean wading t
  - [https://www.pcgamer.com/overwatch-2-will-make-hero-swapping-a-bigger-deal-despite-locking-them-behind-battle-pass](https://www.pcgamer.com/overwatch-2-will-make-hero-swapping-a-bigger-deal-despite-locking-them-behind-battle-pass)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-21 21:40:43+00:00
- - tags: None
 
 Last week, Blizzard defended its battle pass by saying nobody switches heroes. Today, it's encouraging hero swaps.
 
@@ -52,7 +46,6 @@ Last week, Blizzard defended its battle pass by saying nobody switches heroes. T
  - [https://www.pcgamer.com/biggest-gaming-leaks](https://www.pcgamer.com/biggest-gaming-leaks)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-21 20:15:01+00:00
- - tags: None
 
 GTA 6, Half-Life 2, The Witcher 3, and tons of other games sprung huge leaks before they launched.
 
@@ -60,7 +53,6 @@ GTA 6, Half-Life 2, The Witcher 3, and tons of other games sprung huge leaks bef
  - [https://www.pcgamer.com/beacon-pines-is-a-cozy-horror-game-that-hides-an-emotional-mystery-beneath-cute-characters](https://www.pcgamer.com/beacon-pines-is-a-cozy-horror-game-that-hides-an-emotional-mystery-beneath-cute-characters)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-21 19:40:36+00:00
- - tags: None
 
 This spooky pre-teen mystery has great twists without being too tough.
 
@@ -68,7 +60,6 @@ This spooky pre-teen mystery has great twists without being too tough.
  - [https://www.pcgamer.com/saints-rows-disappointing-launch-wont-change-plans-for-the-future-of-the-series](https://www.pcgamer.com/saints-rows-disappointing-launch-wont-change-plans-for-the-future-of-the-series)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-21 19:32:24+00:00
- - tags: None
 
 The head of Embracer said he'd hoped for a better response to the game, but is confident that it will be a moneymaker.
 
@@ -76,7 +67,6 @@ The head of Embracer said he'd hoped for a better response to the game, but is c
  - [https://www.pcgamer.com/kojimas-made-a-watch-with-nasa-and-if-you-pay-extra-it-comes-with-a-wearable-face-mask](https://www.pcgamer.com/kojimas-made-a-watch-with-nasa-and-if-you-pay-extra-it-comes-with-a-wearable-face-mask)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-21 18:44:04+00:00
- - tags: None
 
 'Ludens Mask is a 1:1 life size collectible that is actually wearable–Everyone of us is Ludens.'
 
@@ -84,7 +74,6 @@ The head of Embracer said he'd hoped for a better response to the game, but is c
  - [https://www.pcgamer.com/fortnite-mending-machine-locations](https://www.pcgamer.com/fortnite-mending-machine-locations)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-21 16:51:23+00:00
- - tags: None
 
 Just what the doctor ordered.
 
@@ -92,7 +81,6 @@ Just what the doctor ordered.
  - [https://www.pcgamer.com/the-great-war-western-front-is-an-rts-youll-win-by-inches-not-miles](https://www.pcgamer.com/the-great-war-western-front-is-an-rts-youll-win-by-inches-not-miles)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-21 16:25:19+00:00
- - tags: None
 
 Petroglyph's World War 1 strategy is all about the long game.
 
@@ -100,7 +88,6 @@ Petroglyph's World War 1 strategy is all about the long game.
  - [https://www.pcgamer.com/holy-cow-dark-souls-3-pc-servers-are-offline-again](https://www.pcgamer.com/holy-cow-dark-souls-3-pc-servers-are-offline-again)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-21 15:54:40+00:00
- - tags: None
 
 FromSoft has acknowledged that there's a problem with the servers for the Steam version of the game.
 
@@ -108,7 +95,6 @@ FromSoft has acknowledged that there's a problem with the servers for the Steam 
  - [https://www.pcgamer.com/the-dhs-is-spending-dollar700000-on-researching-counterterrorism-in-games](https://www.pcgamer.com/the-dhs-is-spending-dollar700000-on-researching-counterterrorism-in-games)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-21 15:51:35+00:00
- - tags: None
 
 The research will focus on the use of big multiplayer 'social platforms' as avenues of white supremacist radicalisation.
 
@@ -116,7 +102,6 @@ The research will focus on the use of big multiplayer 'social platforms' as aven
  - [https://www.pcgamer.com/steam-sale-dates](https://www.pcgamer.com/steam-sale-dates)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-21 15:45:17+00:00
- - tags: None
 
 Dates, biggest discounts, tips, annual Steam sale dates, and more.
 
@@ -124,7 +109,6 @@ Dates, biggest discounts, tips, annual Steam sale dates, and more.
  - [https://www.pcgamer.com/this-little-rpg-is-hiding-the-biggest-adventure-ive-had-in-years](https://www.pcgamer.com/this-little-rpg-is-hiding-the-biggest-adventure-ive-had-in-years)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-21 15:42:34+00:00
- - tags: None
 
 The most literal pen and paper RPG on PC is so relentlessly creative it puts triple-A RPGs to shame.
 
@@ -132,7 +116,6 @@ The most literal pen and paper RPG on PC is so relentlessly creative it puts tri
  - [https://www.pcgamer.com/nvidia-geforce-rtx-4090-release-date-price-specs-performance](https://www.pcgamer.com/nvidia-geforce-rtx-4090-release-date-price-specs-performance)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-21 15:27:49+00:00
- - tags: None
 
 The flagship Ada Lovelace card is coming soon and packing serious power.
 
@@ -140,7 +123,6 @@ The flagship Ada Lovelace card is coming soon and packing serious power.
  - [https://www.pcgamer.com/twitch-refuses-to-give-streamers-a-better-deal-despite-pressure-from-users](https://www.pcgamer.com/twitch-refuses-to-give-streamers-a-better-deal-despite-pressure-from-users)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-21 15:23:31+00:00
- - tags: None
 
 I am altering the deal. Pray I do not alter it any further.
 
@@ -148,7 +130,6 @@ I am altering the deal. Pray I do not alter it any further.
  - [https://www.pcgamer.com/framework-chromebook-edition-modular-laptop](https://www.pcgamer.com/framework-chromebook-edition-modular-laptop)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-21 15:06:34+00:00
- - tags: None
 
 Swapping your notebook's parts out is such a novelty, and Google is all over it.
 
@@ -156,7 +137,6 @@ Swapping your notebook's parts out is such a novelty, and Google is all over it.
  - [https://www.pcgamer.com/valorant-is-inching-closer-to-telling-players-theyre-bad-people](https://www.pcgamer.com/valorant-is-inching-closer-to-telling-players-theyre-bad-people)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-21 13:00:31+00:00
- - tags: None
 
 Soon players will be flagged for disruptive behaviour.
 
@@ -164,7 +144,6 @@ Soon players will be flagged for disruptive behaviour.
  - [https://www.pcgamer.com/devs-show-off-how-bad-early-game-builds-look-after-moans-about-gta-6s-visuals](https://www.pcgamer.com/devs-show-off-how-bad-early-game-builds-look-after-moans-about-gta-6s-visuals)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-21 12:06:43+00:00
- - tags: None
 
 Bring back Mass Effect 3's headless Shepard, Bioware.
 
@@ -172,7 +151,6 @@ Bring back Mass Effect 3's headless Shepard, Bioware.
  - [https://www.pcgamer.com/level-up-your-gaming-with-o2s-game-changing-switch-up](https://www.pcgamer.com/level-up-your-gaming-with-o2s-game-changing-switch-up)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-21 11:46:39+00:00
- - tags: None
 
 Unlimited upgrades with no cancellation charges or extra costs? Tell us more…
 
@@ -180,7 +158,6 @@ Unlimited upgrades with no cancellation charges or extra costs? Tell us more…
  - [https://www.pcgamer.com/ted-lassos-going-to-be-in-fifa-23](https://www.pcgamer.com/ted-lassos-going-to-be-in-fifa-23)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-21 11:11:40+00:00
- - tags: None
 
 The fictional coach and AFC Richmond finally make the big time.
 
@@ -188,7 +165,6 @@ The fictional coach and AFC Richmond finally make the big time.
  - [https://www.pcgamer.com/floppy-disks-tom-persky](https://www.pcgamer.com/floppy-disks-tom-persky)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-21 11:08:45+00:00
- - tags: None
 
 But seriously, how are so many industries still using magnetic disks, even now?
 
@@ -196,7 +172,6 @@ But seriously, how are so many industries still using magnetic disks, even now?
  - [https://www.pcgamer.com/nvidia-rtx-4090-price](https://www.pcgamer.com/nvidia-rtx-4090-price)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-21 08:53:26+00:00
- - tags: None
 
 We got trapped into paying higher prices due to external forces, but because we did, they're here to stay.
 
@@ -204,7 +179,6 @@ We got trapped into paying higher prices due to external forces, but because we 
  - [https://www.pcgamer.com/todays-wordle-459-answer-hint](https://www.pcgamer.com/todays-wordle-459-answer-hint)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-21 07:01:28+00:00
- - tags: None
 
 Wordle today: The solution and a hint for Wednesday's puzzle.
 
@@ -212,7 +186,6 @@ Wordle today: The solution and a hint for Wednesday's puzzle.
  - [https://www.pcgamer.com/the-best-visual-novel-of-2017-is-getting-a-sequel](https://www.pcgamer.com/the-best-visual-novel-of-2017-is-getting-a-sequel)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-21 05:13:36+00:00
- - tags: None
 
 Butterfly Soup 2 will be out on October 29.
 
@@ -220,7 +193,6 @@ Butterfly Soup 2 will be out on October 29.
  - [https://www.pcgamer.com/nvidias-rtx-4090-4x-performance-claims-arent-holding-up-on-current-games](https://www.pcgamer.com/nvidias-rtx-4090-4x-performance-claims-arent-holding-up-on-current-games)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-21 05:07:56+00:00
- - tags: None
 
 Most of them are barely getting 2x the boost.
 
@@ -228,7 +200,6 @@ Most of them are barely getting 2x the boost.
  - [https://www.pcgamer.com/nvidias-rtx-4090-targets-300-fps-at-1440p-with-low-latency-for-competitive-shooters](https://www.pcgamer.com/nvidias-rtx-4090-targets-300-fps-at-1440p-with-low-latency-for-competitive-shooters)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-21 04:09:50+00:00
- - tags: None
 
 These people are going to click on my head so fast.
 
@@ -236,7 +207,6 @@ These people are going to click on my head so fast.
  - [https://www.pcgamer.com/a-25-year-old-mmo-is-finally-getting-sound](https://www.pcgamer.com/a-25-year-old-mmo-is-finally-getting-sound)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-21 03:58:48+00:00
- - tags: None
 
 Tibia players will be able to hear at last.
 
@@ -244,7 +214,6 @@ Tibia players will be able to hear at last.
  - [https://www.pcgamer.com/finally-a-keyboard-glitter-mod-that-doesnt-hold-back](https://www.pcgamer.com/finally-a-keyboard-glitter-mod-that-doesnt-hold-back)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-21 02:06:13+00:00
- - tags: None
 
 At last, a modder with the skills requires has appeared.
 
@@ -252,6 +221,5 @@ At last, a modder with the skills requires has appeared.
  - [https://www.pcgamer.com/watch-a-trailer-for-pubg-owner-kraftons-expensive-looking-korean-fantasy-game](https://www.pcgamer.com/watch-a-trailer-for-pubg-owner-kraftons-expensive-looking-korean-fantasy-game)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-21 01:52:05+00:00
- - tags: None
 
 Based on novel series The Bird That Drinks Tears.

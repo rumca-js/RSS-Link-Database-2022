@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## Ukrainians Recount Frantic Russian Retreat
  - [https://www.nytimes.com/2022/09/13/world/europe/ukraine-russia-retreat-morale.html](https://www.nytimes.com/2022/09/13/world/europe/ukraine-russia-retreat-morale.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-13 23:13:46+00:00
- - tags: None
 
 Residents of towns recently retaken by Ukraine described a chaotic flight by disorganized Russian troops, suggesting morale and inexperience remain major problems for Russia.
 
@@ -12,7 +11,6 @@ Residents of towns recently retaken by Ukraine described a chaotic flight by dis
  - [https://www.nytimes.com/2022/09/13/technology/russia-ukraine-bioweapons.html](https://www.nytimes.com/2022/09/13/technology/russia-ukraine-bioweapons.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-13 21:53:33+00:00
- - tags: None
 
 Russia used a formal meeting in Geneva to air its unsupported accusations but faced considerable diplomatic pushback.
 
@@ -20,7 +18,6 @@ Russia used a formal meeting in Geneva to air its unsupported accusations but fa
  - [https://www.nytimes.com/2022/09/13/briefing/biden-xi-summit-asia.html](https://www.nytimes.com/2022/09/13/briefing/biden-xi-summit-asia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-13 21:16:01+00:00
- - tags: None
 
 Plus a kangaroo killed a man in Australia and “Squid Game” made history at the Emmy Awards.
 
@@ -28,7 +25,6 @@ Plus a kangaroo killed a man in Australia and “Squid Game” made history at t
  - [https://www.nytimes.com/2022/09/13/world/europe/armenia-azerbaijan-russia.html](https://www.nytimes.com/2022/09/13/world/europe/armenia-azerbaijan-russia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-13 21:07:21+00:00
- - tags: None
 
 The simmering conflict over the disputed Nagorno-Karabakh region last flared in 2020, when Russia brokered a cease-fire.
 
@@ -36,7 +32,6 @@ The simmering conflict over the disputed Nagorno-Karabakh region last flared in 
  - [https://www.nytimes.com/2022/09/13/us/politics/russia-election-interference.html](https://www.nytimes.com/2022/09/13/us/politics/russia-election-interference.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-13 20:52:21+00:00
- - tags: None
 
 A U.S. intelligence review found Russian agencies and figures aimed to exert political influence abroad and sway elections on behalf of the Kremlin.
 
@@ -44,7 +39,6 @@ A U.S. intelligence review found Russian agencies and figures aimed to exert pol
  - [https://www.nytimes.com/2022/09/13/world/europe/armenia-azerbaijan-conflict.html](https://www.nytimes.com/2022/09/13/world/europe/armenia-azerbaijan-conflict.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-13 20:47:55+00:00
- - tags: None
 
 The long-simmering conflict last flared in 2020, when Moscow brokered a cease-fire. Now some wonder what Russia might do next.
 
@@ -52,7 +46,6 @@ The long-simmering conflict last flared in 2020, when Moscow brokered a cease-fi
  - [https://www.nytimes.com/2022/09/13/world/europe/king-charles-northern-ireland.html](https://www.nytimes.com/2022/09/13/world/europe/king-charles-northern-ireland.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-13 20:37:57+00:00
- - tags: None
 
 King Charles III visited Belfast and met with members of Sinn Fein, the Irish nationalist party, now the largest in the country.
 
@@ -60,7 +53,6 @@ King Charles III visited Belfast and met with members of Sinn Fein, the Irish na
  - [https://www.nytimes.com/2022/09/13/climate/climate-law-tax-credits.html](https://www.nytimes.com/2022/09/13/climate/climate-law-tax-credits.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-13 20:13:29+00:00
- - tags: None
 
 Rebates and tax credits can lower the cost of solar panels, energy-efficient appliances and electric vehicles.
 
@@ -68,7 +60,6 @@ Rebates and tax credits can lower the cost of solar panels, energy-efficient app
  - [https://www.nytimes.com/2022/09/13/world/americas/us-mexico-investments-biden.html](https://www.nytimes.com/2022/09/13/world/americas/us-mexico-investments-biden.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-13 17:54:24+00:00
- - tags: None
 
 U.S. officials are looking south for a strategic partner to create a regional manufacturing hub that can rival China. But there are still doubts over Mexico’s willingness to cater to foreign industry.
 
@@ -76,7 +67,6 @@ U.S. officials are looking south for a strategic partner to create a regional ma
  - [https://www.nytimes.com/2022/09/13/world/europe/russia-ukraine-war-draft-putin.html](https://www.nytimes.com/2022/09/13/world/europe/russia-ukraine-war-draft-putin.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-13 16:05:58+00:00
- - tags: None
 
 Russian commentators have been calling on President Vladimir V. Putin to bolster the army with recruits and to target Ukrainian infrastructure.
 
@@ -84,7 +74,6 @@ Russian commentators have been calling on President Vladimir V. Putin to bolster
  - [https://www.nytimes.com/2022/09/13/world/europe/bees-queen-elizabeth.html](https://www.nytimes.com/2022/09/13/world/europe/bees-queen-elizabeth.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-13 15:52:46+00:00
- - tags: None
 
 A report that the royal beekeeper had informed Queen Elizabeth II’s bees of her death received some mockery, but it has been a tradition for centuries.
 
@@ -92,7 +81,6 @@ A report that the royal beekeeper had informed Queen Elizabeth II’s bees of he
  - [https://www.nytimes.com/2022/09/13/sports/princess-diana-camilla-queen-elizabeth.html](https://www.nytimes.com/2022/09/13/sports/princess-diana-camilla-queen-elizabeth.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-13 15:34:54+00:00
- - tags: None
 
 A quarter-century ago Princess Diana’s shocking death provoked outrage at the royal family. Queen Elizabeth’s passing, in contrast, has been draped in civility and respect.
 
@@ -100,7 +88,6 @@ A quarter-century ago Princess Diana’s shocking death provoked outrage at the 
  - [https://www.nytimes.com/2022/09/13/world/asia/squid-game-emmy-south-korea.html](https://www.nytimes.com/2022/09/13/world/asia/squid-game-emmy-south-korea.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-13 11:31:49+00:00
- - tags: None
 
 After the dystopian Netflix drama picked up multiple wins, Koreans celebrated the awards as the latest example of their country’s rise as a cultural powerhouse.
 
@@ -108,7 +95,6 @@ After the dystopian Netflix drama picked up multiple wins, Koreans celebrated th
  - [https://www.nytimes.com/2022/09/13/world/asia/china-russia-xi-putin.html](https://www.nytimes.com/2022/09/13/world/asia/china-russia-xi-putin.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-13 11:27:37+00:00
- - tags: None
 
 Vladimir Putin and Xi Jinping are set to meet later this week. Russia’s battlefield losses and China’s slowdown could complicate their relationship.
 
@@ -116,7 +102,6 @@ Vladimir Putin and Xi Jinping are set to meet later this week. Russia’s battle
  - [https://www.nytimes.com/2022/09/13/world/australia/man-killed-kangaroo.html](https://www.nytimes.com/2022/09/13/world/australia/man-killed-kangaroo.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-13 11:09:25+00:00
- - tags: None
 
 The police said they believed that the man had been keeping the wild animal as a pet.
 
@@ -124,7 +109,6 @@ The police said they believed that the man had been keeping the wild animal as a
  - [https://www.nytimes.com/live/2022/09/13/world/ukraine-russia-war](https://www.nytimes.com/live/2022/09/13/world/ukraine-russia-war)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-13 10:55:57+00:00
- - tags: None
 
 Russian forces have left behind a large amount of hardware as they retreat. Ukraine is investigating possible war crimes in a recently liberated village.
 
@@ -132,7 +116,6 @@ Russian forces have left behind a large amount of hardware as they retreat. Ukra
  - [https://www.nytimes.com/2022/09/13/world/asia/sri-lanka-asia-cup-cricket-netball.html](https://www.nytimes.com/2022/09/13/world/asia/sri-lanka-asia-cup-cricket-netball.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-13 10:55:44+00:00
- - tags: None
 
 The men’s cricket team won the Asia Cup in the T20 format, hours after Sri Lanka won the equivalent championship in women’s netball. Both teams were feted with a parade on Tuesday.
 
@@ -140,7 +123,6 @@ The men’s cricket team won the Asia Cup in the T20 format, hours after Sri Lan
  - [https://www.nytimes.com/2022/09/13/world/europe/armenia-azerbaijan.html](https://www.nytimes.com/2022/09/13/world/europe/armenia-azerbaijan.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-13 10:35:55+00:00
- - tags: None
 
 The simmering conflict between Armenia and Azerbaijan over the disputed region last flared in 2020, when Russia brokered a cease-fire.
 
@@ -148,7 +130,6 @@ The simmering conflict between Armenia and Azerbaijan over the disputed region l
  - [https://www.nytimes.com/2022/09/13/briefing/ukraine-counteroffensive-kharkiv-war.html](https://www.nytimes.com/2022/09/13/briefing/ukraine-counteroffensive-kharkiv-war.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-13 10:25:19+00:00
- - tags: None
 
 It’s not just one region. Ukraine is making progress in multiple places.
 
@@ -156,7 +137,6 @@ It’s not just one region. Ukraine is making progress in multiple places.
  - [https://www.nytimes.com/2022/09/13/us/politics/ukraine-russia-pentagon.html](https://www.nytimes.com/2022/09/13/us/politics/ukraine-russia-pentagon.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-13 09:00:22+00:00
- - tags: None
 
 President Volodymyr Zelensky wanted to make a dramatic move in the war against Russia. U.S. and Ukrainian officials came up with a plan.
 
@@ -164,7 +144,6 @@ President Volodymyr Zelensky wanted to make a dramatic move in the war against R
  - [https://www.nytimes.com/2022/09/13/world/asia/xi-jinping-china-biden.html](https://www.nytimes.com/2022/09/13/world/asia/xi-jinping-china-biden.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-13 09:00:22+00:00
- - tags: None
 
 Even at their worst moments, the Americans and the Soviets kept talking. Today, U.S.-China contacts are scarce, while Beijing and Moscow move closer together.
 
@@ -172,7 +151,6 @@ Even at their worst moments, the Americans and the Soviets kept talking. Today, 
  - [https://www.nytimes.com/2022/09/13/world/europe/ukraine-russia-war-timeline.html](https://www.nytimes.com/2022/09/13/world/europe/ukraine-russia-war-timeline.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-13 08:54:00+00:00
- - tags: None
 
 Here is one key battlefield development from every month of the war.
 
@@ -180,7 +158,6 @@ Here is one key battlefield development from every month of the war.
  - [https://www.nytimes.com/article/ukraine-russia-war-timeline.html](https://www.nytimes.com/article/ukraine-russia-war-timeline.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-13 08:54:00+00:00
- - tags: None
 
 Here is one key battlefield development from every month of the war.
 
@@ -188,7 +165,6 @@ Here is one key battlefield development from every month of the war.
  - [https://www.nytimes.com/2022/09/13/world/europe/king-charles-queen-elizabeth.html](https://www.nytimes.com/2022/09/13/world/europe/king-charles-queen-elizabeth.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-13 07:39:21+00:00
- - tags: None
 
 The new monarch will continue his tour of the nations of the United Kingdom on Tuesday, before meeting his mother’s coffin at Buckingham Palace.
 
@@ -196,7 +172,6 @@ The new monarch will continue his tour of the nations of the United Kingdom on T
  - [https://www.nytimes.com/2022/09/13/world/africa/kenya-president-william-ruto-inauguration.html](https://www.nytimes.com/2022/09/13/world/africa/kenya-president-william-ruto-inauguration.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-13 05:50:34+00:00
- - tags: None
 
 After a bitter and close election, William Ruto takes the reins of power on Tuesday. One of his team’s first moves: Limiting the access of local television outlets to the ceremony.
 
@@ -204,7 +179,6 @@ After a bitter and close election, William Ruto takes the reins of power on Tues
  - [https://www.nytimes.com/2022/09/13/briefing/ukraine-advance-liz-truss-trump.html](https://www.nytimes.com/2022/09/13/briefing/ukraine-advance-liz-truss-trump.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-13 05:08:57+00:00
- - tags: None
 
 More Ukrainian advances.
 
@@ -212,6 +186,5 @@ More Ukrainian advances.
  - [https://www.nytimes.com/2022/09/13/world/europe/king-charles-wealth.html](https://www.nytimes.com/2022/09/13/world/europe/king-charles-wealth.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-13 04:01:08+00:00
- - tags: None
 
 As prince, Charles used tax breaks, offshore accounts and canny real estate investments to turn a sleepy estate into a billion-dollar business.

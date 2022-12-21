@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## The 2022 Emmy Awards are starting soon
  - [https://cnn.it/3eCRxTj](https://cnn.it/3eCRxTj)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 23:58:12.214637+00:00
- - tags: None
 
 
 
@@ -12,7 +11,6 @@
  - [https://www.cnn.com/2022/09/12/health/california-monkeypox-death/index.html](https://www.cnn.com/2022/09/12/health/california-monkeypox-death/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 23:44:55+00:00
- - tags: None
 
 A Los Angeles County resident's death has been attributed to monkeypox, the county Department of Public Health said Monday, the first known death from the virus in the US.
 
@@ -20,7 +18,6 @@ A Los Angeles County resident's death has been attributed to monkeypox, the coun
  - [https://www.cnn.com/videos/politics/2022/09/12/trump-orbit-grand-jury-subpoenas-justice-department-aronberg-sot-sitroom-vpx.cnn](https://www.cnn.com/videos/politics/2022/09/12/trump-orbit-grand-jury-subpoenas-justice-department-aronberg-sot-sitroom-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 23:23:32+00:00
- - tags: None
 
 Top officials from Donald Trump's political fundraising and former campaign operation are among dozens of people in the former President's orbit who received grand jury subpoenas in recent days -- as the Justice Department intensifies its criminal investigation into January 6, 2021, according to multiple sources familiar with the matter. Dave Aronberg, State Attorney for Palm Beach County, Florida, discusses.
 
@@ -28,7 +25,6 @@ Top officials from Donald Trump's political fundraising and former campaign ope
  - [https://www.cnn.com/videos/world/2022/09/12/ukraine-reclaims-territory-russia-control-area-military-analysis-leighton-explains-map-lead-vpx.cnn](https://www.cnn.com/videos/world/2022/09/12/ukraine-reclaims-territory-russia-control-area-military-analysis-leighton-explains-map-lead-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 23:17:54+00:00
- - tags: None
 
 Ukraine reclaiming of territory has resulted in a transformation of the battlefield. Retired US Air Force Colonel Cedric Leighton joins CNN's Jake Tapper to explain what area Ukraine was able to recapture and why it is significant.
 
@@ -36,7 +32,6 @@ Ukraine reclaiming of territory has resulted in a transformation of the battlefi
  - [https://www.cnn.com/videos/us/2022/09/12/evangelicals-climate-change-biblical-environmental-activism-lead-marsh-pkg-vpx.cnn](https://www.cnn.com/videos/us/2022/09/12/evangelicals-climate-change-biblical-environmental-activism-lead-marsh-pkg-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 23:17:22+00:00
- - tags: None
 
 Some Evangelicals have started using the Bible to justify their fight against climate change, while others say climate change is nothing new. CNN's Rene Marsh reports on the divide among people of faith on environmental activism.
 
@@ -44,7 +39,6 @@ Some Evangelicals have started using the Bible to justify their fight against cl
  - [https://www.cnn.com/2022/09/12/politics/trump-orbit-grand-jury-subpoenas-justice-department-january-6/index.html](https://www.cnn.com/2022/09/12/politics/trump-orbit-grand-jury-subpoenas-justice-department-january-6/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 22:44:16+00:00
- - tags: None
 
 • Exclusive: New book reveals Trump vowed to stay in White House
 • Trump opposes DOJ's special master candidates but doesn't say why
@@ -53,7 +47,6 @@ Some Evangelicals have started using the Bible to justify their fight against cl
  - [https://www.cnn.com/videos/world/2022/09/12/ukraine-counteroffensive-russia-soldiers-ben-hodges-amanpour-sot-intl-vpx.cnn](https://www.cnn.com/videos/world/2022/09/12/ukraine-counteroffensive-russia-soldiers-ben-hodges-amanpour-sot-intl-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 22:38:42+00:00
- - tags: None
 
 Former head of US Army Europe Lt. Gen. Ben Hodges talks to CNN's Christiane Amanpour about Ukraine's counteroffensive against Russia.
 
@@ -61,7 +54,6 @@ Former head of US Army Europe Lt. Gen. Ben Hodges talks to CNN's Christiane Aman
  - [https://www.cnn.com/style/article/2022-emmys-red-carpet/index.html](https://www.cnn.com/style/article/2022-emmys-red-carpet/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 22:23:25+00:00
- - tags: None
 
 Television's biggest stars are arriving on the red carpet for the 74th Primetime Emmy Awards.
 
@@ -69,7 +61,6 @@ Television's biggest stars are arriving on the red carpet for the 74th Primetime
  - [https://www.cnn.com/2022/09/12/health/air-pollution-lung-cancer-research-esmo/index.html](https://www.cnn.com/2022/09/12/health/air-pollution-lung-cancer-research-esmo/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 21:39:59+00:00
- - tags: None
 
 Scientists have long known that air pollution can be linked with an increased risk of lung cancer in people who never smoked, but new research describes one mechanism that might help explain how.
 
@@ -77,7 +68,6 @@ Scientists have long known that air pollution can be linked with an increased ri
  - [https://www.cnn.com/style/article/dinosaur-skeleton-iguanodon-auction-paris-scn/index.html](https://www.cnn.com/style/article/dinosaur-skeleton-iguanodon-auction-paris-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 21:21:27+00:00
- - tags: None
 
 A fossilized iguanodon named Zephyr will go up for auction at Parisian auction house Giquello & Associés next month.
 
@@ -85,7 +75,6 @@ A fossilized iguanodon named Zephyr will go up for auction at Parisian auction h
  - [https://www.cnn.com/2022/09/12/opinions/ukraine-progress-russian-territory-war-andelman/index.html](https://www.cnn.com/2022/09/12/opinions/ukraine-progress-russian-territory-war-andelman/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 21:10:05+00:00
- - tags: None
 
 In the end it may all come down to who runs out of ammunition -- and soldiers -- first. Not to mention the will to win.
 
@@ -93,7 +82,6 @@ In the end it may all come down to who runs out of ammunition -- and soldiers --
  - [https://www.cnn.com/2022/09/12/politics/special-master-nominee-responses/index.html](https://www.cnn.com/2022/09/12/politics/special-master-nominee-responses/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 20:33:43+00:00
- - tags: None
 
 • Exclusive: New book reveals Trump vowed to stay in White House
 
@@ -101,7 +89,6 @@ In the end it may all come down to who runs out of ammunition -- and soldiers --
  - [https://www.cnn.com/videos/business/2022/09/12/john-f-kennedy-moonshot-space-mc-scn-orig.cnn-business](https://www.cnn.com/videos/business/2022/09/12/john-f-kennedy-moonshot-space-mc-scn-orig.cnn-business)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 20:32:08+00:00
- - tags: None
 
 In 1962, President John F. Kennedy urged the United States to put a human on the moon before the decade was out. Here's some of the key accomplishments in space since then from nations around the world.
 
@@ -109,7 +96,6 @@ In 1962, President John F. Kennedy urged the United States to put a human on the
  - [https://www.cnn.com/videos/tv/2022/09/12/amanpour-ukraine-advances-ben-hodges.cnn](https://www.cnn.com/videos/tv/2022/09/12/amanpour-ukraine-advances-ben-hodges.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 18:15:45+00:00
- - tags: None
 
 Lt. Gen. (Ret.) Ben Hodges talks to Christiane Amanpour about Ukraine's recent advances on the battlefield.
 
@@ -117,7 +103,6 @@ Lt. Gen. (Ret.) Ben Hodges talks to Christiane Amanpour about Ukraine's recent a
  - [https://www.cnn.com/videos/media/2022/09/12/drew-barrymore-justin-long-tearful-reunion-orig-jc.cnn](https://www.cnn.com/videos/media/2022/09/12/drew-barrymore-justin-long-tearful-reunion-orig-jc.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 18:02:39+00:00
- - tags: None
 
 The Drew Barrymore Show kicked off season 3 with an emotional reunion between Barrymore and her ex-boyfriend, Justin Long. The two dated between 2007 and 2010.
 
@@ -125,7 +110,6 @@ The Drew Barrymore Show kicked off season 3 with an emotional reunion between Ba
  - [https://www.cnn.com/2022/09/12/tech/ios-16-release-features/index.html](https://www.cnn.com/2022/09/12/tech/ios-16-release-features/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 17:11:37+00:00
- - tags: None
 
 Apple on Monday released its next-generation mobile software, iOS 16, with new features that allow users to personalize their iPhone lock screens and change how they text friends through iMessage.
 
@@ -133,7 +117,6 @@ Apple on Monday released its next-generation mobile software, iOS 16, with new f
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-09-12-22/h_280c69104479678d4adeb8a2a1e12d6e](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-09-12-22/h_280c69104479678d4adeb8a2a1e12d6e)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 16:58:07.658195+00:00
- - tags: None
 
 
 
@@ -141,7 +124,6 @@ Apple on Monday released its next-generation mobile software, iOS 16, with new f
  - [https://www.cnn.com/2022/09/12/health/walking-cancer-heart-early-death-wellness/index.html](https://www.cnn.com/2022/09/12/health/walking-cancer-heart-early-death-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 16:41:07+00:00
- - tags: None
 
 Put on your walking shoes and don't forget your step counter: You can reduce your risk for cancer, heart disease and early death by getting up to 10,000 steps a day, but any amount of walking helps, according to a new study.
 
@@ -149,7 +131,6 @@ Put on your walking shoes and don't forget your step counter: You can reduce you
  - [https://www.cnn.com/2022/09/12/tech/peter-zatko-twitter-whistleblower-hearing-walkup/index.html](https://www.cnn.com/2022/09/12/tech/peter-zatko-twitter-whistleblower-hearing-walkup/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 16:25:27+00:00
- - tags: None
 
 Twitter whistleblower Peiter "Mudge" Zatko is set to testify before Congress Tuesday in his first public appearance since his bombshell allegations against the social media company were reported last month by CNN and The Washington Post.
 
@@ -157,7 +138,6 @@ Twitter whistleblower Peiter "Mudge" Zatko is set to testify before Congress Tue
  - [https://www.cnn.com/2022/09/12/tech/blue-origin-launch-anomaly/index.html](https://www.cnn.com/2022/09/12/tech/blue-origin-launch-anomaly/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 15:44:46+00:00
- - tags: None
 
 Blue Origin experienced an "anomaly" during an uncrewed launch of its New Shepard rocket from West Texas on Monday morning,  triggering an abort system that allowed the capsule to parachute to Earth.
 
@@ -165,7 +145,6 @@ Blue Origin experienced an "anomaly" during an uncrewed launch of its New Shepar
  - [https://www.cnn.com/collections/russia-energy-intl-091222/](https://www.cnn.com/collections/russia-energy-intl-091222/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 15:43:13+00:00
- - tags: None
 
 
 
@@ -173,7 +152,6 @@ Blue Origin experienced an "anomaly" during an uncrewed launch of its New Shepar
  - [https://www.cnn.com/2022/09/12/politics/joe-biden-2024-reelection-tim-ryan/index.html](https://www.cnn.com/2022/09/12/politics/joe-biden-2024-reelection-tim-ryan/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 15:30:56+00:00
- - tags: None
 
 President Joe Biden has built a bit of momentum of late -- buoyed by lower gas prices, strong jobs numbers and a series of legislative victories.
 
@@ -181,7 +159,6 @@ President Joe Biden has built a bit of momentum of late -- buoyed by lower gas p
  - [https://www.cnn.com/travel/article/spirit-airlines-nurse-assists-baby/index.html](https://www.cnn.com/travel/article/spirit-airlines-nurse-assists-baby/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 15:27:08+00:00
- - tags: None
 
 A retired nurse came to the aid of a baby who had stopped breathing on a Spirit Airlines flight last week from Pittsburgh to Orlando.
 
@@ -189,7 +166,6 @@ A retired nurse came to the aid of a baby who had stopped breathing on a Spirit 
  - [https://www.cnn.com/2022/09/12/europe/ukraine-kharkiv-russia-retreat-intl/index.html](https://www.cnn.com/2022/09/12/europe/ukraine-kharkiv-russia-retreat-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 15:23:33+00:00
- - tags: None
 
 Ukraine had hoped it would mark a turning point. Six months have passed since Russia launched its invasion and Ukraine has since fired back with two counteroffensives -- one in the South and the other in the East -- carefully planned for months and supported by massive US military aid packages.
 
@@ -197,7 +173,6 @@ Ukraine had hoped it would mark a turning point. Six months have passed since Ru
  - [https://www.cnn.com/2022/09/12/weather/what-is-storm-surge-xpn/index.html](https://www.cnn.com/2022/09/12/weather/what-is-storm-surge-xpn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 14:59:23+00:00
- - tags: None
 
 Almost half of all deaths from tropical cyclones come from storm surge.
 
@@ -205,7 +180,6 @@ Almost half of all deaths from tropical cyclones come from storm surge.
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-09-12-22/h_280c69104479678d4adeb8a2a1e12d6e](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-09-12-22/h_280c69104479678d4adeb8a2a1e12d6e)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 14:58:07.736775+00:00
- - tags: None
 
 
 
@@ -213,7 +187,6 @@ Almost half of all deaths from tropical cyclones come from storm surge.
  - [https://cnn.it/3QC3t5f](https://cnn.it/3QC3t5f)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 14:58:07.650195+00:00
- - tags: None
 
 
 
@@ -221,7 +194,6 @@ Almost half of all deaths from tropical cyclones come from storm surge.
  - [https://www.cnn.com/2022/09/12/europe/zelensky-message-kharkiv-russia-ukraine-intl/index.html](https://www.cnn.com/2022/09/12/europe/zelensky-message-kharkiv-russia-ukraine-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 14:52:15+00:00
- - tags: None
 
 President Volodymyr Zelensky has issued a stark warning to Moscow, declaring that "history will put everything in its place" as Ukrainian troops swept through the northeastern region of Kharkiv.
 
@@ -229,7 +201,6 @@ President Volodymyr Zelensky has issued a stark warning to Moscow, declaring tha
  - [https://www.cnn.com/collections/intl-trump-1209/](https://www.cnn.com/collections/intl-trump-1209/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 14:51:43+00:00
- - tags: None
 
 
 
@@ -237,7 +208,6 @@ President Volodymyr Zelensky has issued a stark warning to Moscow, declaring tha
  - [https://www.cnn.com/2022/09/12/politics/trump-filing/index.html](https://www.cnn.com/2022/09/12/politics/trump-filing/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 14:45:04+00:00
- - tags: None
 
 Lawyers for former President Donald Trump on Monday urged a federal judge to reject the Justice Department's attempt to continue to review documents seized from Mar-a-Lago as part of its criminal investigation.
 
@@ -245,7 +215,6 @@ Lawyers for former President Donald Trump on Monday urged a federal judge to rej
  - [https://www.cnn.com/2022/09/12/entertainment/percy-jackson-series-teaser/index.html](https://www.cnn.com/2022/09/12/entertainment/percy-jackson-series-teaser/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 14:41:33+00:00
- - tags: None
 
 It's not easy being a Half Blood.
 
@@ -253,7 +222,6 @@ It's not easy being a Half Blood.
  - [https://www.cnn.com/collections/intl-ukraine-1209/](https://www.cnn.com/collections/intl-ukraine-1209/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 14:30:29+00:00
- - tags: None
 
 
 
@@ -261,7 +229,6 @@ It's not easy being a Half Blood.
  - [https://www.cnn.com/2022/09/12/world/james-webb-space-telescope-image-orion-nebula-scn/index.html](https://www.cnn.com/2022/09/12/world/james-webb-space-telescope-image-orion-nebula-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 14:26:58+00:00
- - tags: None
 
 "Breathtaking" images of a stellar nursery in the Orion Nebula taken by the James Webb Space Telescope are revealing intricate details about how stars and planetary systems form.
 
@@ -269,7 +236,6 @@ It's not easy being a Half Blood.
  - [cnn://deeplink?section=livetv&subsection=sliver&stream=CNN1](cnn://deeplink?section=livetv&subsection=sliver&stream=CNN1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 14:21:17.703372+00:00
- - tags: None
 
 
 
@@ -277,7 +243,6 @@ It's not easy being a Half Blood.
  - [https://www.cnn.com/2022/09/12/perspectives/cvs-mental-health-business/index.html](https://www.cnn.com/2022/09/12/perspectives/cvs-mental-health-business/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 14:17:41+00:00
- - tags: None
 
 Even though mental health challenges aren't anything new, we are living in a time with a series of unique stressors that are impacting every one of us, such as Russia's invasion of Ukraine, as well as a pandemic that has stretched two-and-a-half years and continually reminds us that as much as we want to be done with it, we're still living with a public health emergency that none of us has experienced in our lifetimes. It's no wonder that people are reporting "alarming" levels of stress, accordi
 
@@ -285,7 +250,6 @@ Even though mental health challenges aren't anything new, we are living in a tim
  - [https://www.cnn.com/2022/09/12/politics/doug-mastriano-pennsylvania-governor/index.html](https://www.cnn.com/2022/09/12/politics/doug-mastriano-pennsylvania-governor/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 13:22:21+00:00
- - tags: None
 
 For as long as there have been campaigns, they have worked like this: You run to appeal to your party's base to win the primary and then, with that task done, you immediately begin to round off the hard edges of your policies to appeal to the centrist voters who tend to be the deciding votes in general elections.
 
@@ -293,7 +257,6 @@ For as long as there have been campaigns, they have worked like this: You run to
  - [https://www.cnn.com/2022/09/12/entertainment/pete-davidson-casey-father/index.html](https://www.cnn.com/2022/09/12/entertainment/pete-davidson-casey-father/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 13:00:15+00:00
- - tags: None
 
 Pete Davidson's younger sister Casey paid tribute over the weekend to their firefighter father, Scott, who died helping in the aftermath of the terrorist attacks on 9/11.
 
@@ -301,7 +264,6 @@ Pete Davidson's younger sister Casey paid tribute over the weekend to their fire
  - [https://www.cnn.com/2022/09/12/economy/china-covid-lockdowns-economy-research-intl-hnk/index.html](https://www.cnn.com/2022/09/12/economy/china-covid-lockdowns-economy-research-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 12:42:23+00:00
- - tags: None
 
 Authorities in Shanghai have denied a report by a leading Chinese real estate research firm that claimed more than a third of shops in a major mall had been shuttered because of strict Covid curbs.
 
@@ -309,7 +271,6 @@ Authorities in Shanghai have denied a report by a leading Chinese real estate re
  - [https://www.cnn.com/2022/09/12/investing/premarket-stocks-trading/index.html](https://www.cnn.com/2022/09/12/investing/premarket-stocks-trading/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 12:36:54+00:00
- - tags: None
 
 In the past week, Ukrainian troops have dealt a huge blow to Russia's grip on parts of the east of their country with a fast-moving offensive. The stunning campaign has kicked off a new phase of the war and could force Vladimir Putin to reconsider his strategy and objectives.
 
@@ -317,7 +278,6 @@ In the past week, Ukrainian troops have dealt a huge blow to Russia's grip on pa
  - [https://www.cnn.com/2022/09/12/health/covid-booster-flu-shot-timing-explained-wellness/index.html](https://www.cnn.com/2022/09/12/health/covid-booster-flu-shot-timing-explained-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 12:25:07+00:00
- - tags: None
 
 Fall and winter are around the corner, which means not only is it time to get your flu shot, but US health officials are urging everyone who is eligible to get their updated Covid-19 booster, too.
 
@@ -325,7 +285,6 @@ Fall and winter are around the corner, which means not only is it time to get yo
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-09-12-22/index.html](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-09-12-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 12:20:19.429847+00:00
- - tags: None
 
 
 
@@ -333,7 +292,6 @@ Fall and winter are around the corner, which means not only is it time to get yo
  - [https://www.cnn.com/2022/09/12/us/brooklyn-brighton-beach-three-children-die/index.html](https://www.cnn.com/2022/09/12/us/brooklyn-brighton-beach-three-children-die/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 12:09:24+00:00
- - tags: None
 
 Three children found unresponsive early Monday on the Coney Island shoreline in Brooklyn are dead, according to New York Police Department officials, after they were taken to a local hospital in critical condition.
 
@@ -341,7 +299,6 @@ Three children found unresponsive early Monday on the Coney Island shoreline in 
  - [https://edition.cnn.com/uk/live-news/queen-elizabeth-death-king-charles-09-12-22-intl/index.html](https://edition.cnn.com/uk/live-news/queen-elizabeth-death-king-charles-09-12-22-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 11:20:18.623882+00:00
- - tags: None
 
 • Video: Queen Elizabeth II's record-setting reign
 • Analysis: How the Queen stayed relevant and transformed the monarchy
@@ -351,7 +308,6 @@ Three children found unresponsive early Monday on the Coney Island shoreline in 
  - [https://www.cnn.com/2022/09/12/us/memphis-prison-sentences-violent-crime/index.html](https://www.cnn.com/2022/09/12/us/memphis-prison-sentences-violent-crime/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 10:56:56+00:00
- - tags: None
 
 Calls for tougher prison sentences are growing in Memphis, Tennessee, as word spreads the suspects in two violent attacks there this month had been released from prison before serving their full sentences for prior convictions.
 
@@ -359,7 +315,6 @@ Calls for tougher prison sentences are growing in Memphis, Tennessee, as word sp
  - [https://www.cnn.com/2022/09/12/sport/albert-pujols-alex-rodriguez-cardinals-mlb-spt-intl/index.html](https://www.cnn.com/2022/09/12/sport/albert-pujols-alex-rodriguez-cardinals-mlb-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 10:49:02+00:00
- - tags: None
 
 Albert Pujols hit his 697th home run, moving him ahead of Alex 'A-Rod' Rodriguez on the all-time list, to power the St. Louis Cardinals past the Pittsburgh Pirates 4-3.
 
@@ -367,7 +322,6 @@ Albert Pujols hit his 697th home run, moving him ahead of Alex 'A-Rod' Rodriguez
  - [https://www.cnn.com/videos/world/2022/09/12/ukraine-kupiansk-liberated-town-bell-dnt-newday-intl-hnk-vpx.cnn](https://www.cnn.com/videos/world/2022/09/12/ukraine-kupiansk-liberated-town-bell-dnt-newday-intl-hnk-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 10:37:59+00:00
- - tags: None
 
 Ukrainian troops broke through Russian lines near Kharkiv and reclaimed towns that have been under Russian control for months. CNN's Melissa Bell travels to a key town in the battle amid ongoing shelling in the area.
 
@@ -375,7 +329,6 @@ Ukrainian troops broke through Russian lines near Kharkiv and reclaimed towns th
  - [https://www.cnn.com/2022/09/12/sport/dak-prescott-dallas-cowboys-tampa-bay-bucs-spt-intl/index.html](https://www.cnn.com/2022/09/12/sport/dak-prescott-dallas-cowboys-tampa-bay-bucs-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 10:32:00+00:00
- - tags: None
 
 It wasn't just the one-sided nature of the team's 19-3 loss to the Tampa Bay Buccaneers which would have troubled Dallas Cowboys fans on Sunday night; the sight of their star quarterback leaving with a hand injury was enough to give nightmares.
 
@@ -383,7 +336,6 @@ It wasn't just the one-sided nature of the team's 19-3 loss to the Tampa Bay Buc
  - [https://www.cnn.com/2022/09/12/sport/las-vegas-aces-connecticut-sun-wnba-spt-intl/index.html](https://www.cnn.com/2022/09/12/sport/las-vegas-aces-connecticut-sun-wnba-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 10:21:24+00:00
- - tags: None
 
 Holding a seven-point lead with 1:24 left, the Las Vegas Aces seemed to be coasting to a victory until Alyssa Thomas sunk back-to-back shots to pull the Connecticut Sun back within three.
 
@@ -391,7 +343,6 @@ Holding a seven-point lead with 1:24 left, the Las Vegas Aces seemed to be coast
  - [https://edition.cnn.comwebview/uk/live-news/queen-elizabeth-death-king-charles-09-12-22-intl/index.html](https://edition.cnn.comwebview/uk/live-news/queen-elizabeth-death-king-charles-09-12-22-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 10:20:17.999367+00:00
- - tags: None
 
 
 
@@ -399,7 +350,6 @@ Holding a seven-point lead with 1:24 left, the Las Vegas Aces seemed to be coast
  - [https://www.cnn.com/travel/article/canadian-family-retinitis-pigmentosa/index.html](https://www.cnn.com/travel/article/canadian-family-retinitis-pigmentosa/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 10:17:46+00:00
- - tags: None
 
 Their daughter Mia was just three years old when Canadian couple Edith Lemay and Sebastien Pelletier first noticed that she was having vision problems.
 
@@ -407,7 +357,6 @@ Their daughter Mia was just three years old when Canadian couple Edith Lemay and
  - [https://www.cnn.com/2022/09/12/golf/shane-lowry-bmw-pga-championship-spt-intl/index.html](https://www.cnn.com/2022/09/12/golf/shane-lowry-bmw-pga-championship-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 10:16:29+00:00
- - tags: None
 
 Shane Lowry ended his three-year wait for a win with a dramatic victory at the BMW PGA Championship on Sunday.
 
@@ -415,7 +364,6 @@ Shane Lowry ended his three-year wait for a win with a dramatic victory at the B
  - [https://www.cnn.com/2022/09/12/tennis/carlos-alcaraz-up-open-champion-future-spt-intl/index.html](https://www.cnn.com/2022/09/12/tennis/carlos-alcaraz-up-open-champion-future-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 10:08:26+00:00
- - tags: None
 
 To many on the outside, Carlos Alcaraz lifting the US Open trophy looked like the culmination of years of hard work, dedication and sacrifice. To Alcaraz himself, however, his first grand slam triumph is only the beginning.
 
@@ -423,7 +371,6 @@ To many on the outside, Carlos Alcaraz lifting the US Open trophy looked like th
  - [https://www.cnn.com/collections/intl-us-open-1209/](https://www.cnn.com/collections/intl-us-open-1209/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 10:04:30+00:00
- - tags: None
 
 
 
@@ -431,7 +378,6 @@ To many on the outside, Carlos Alcaraz lifting the US Open trophy looked like th
  - [https://www.cnn.com/2022/09/12/politics/us-russia-europe-energy/index.html](https://www.cnn.com/2022/09/12/politics/us-russia-europe-energy/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 10:00:07+00:00
- - tags: None
 
 When President Joe Biden convened nearly a dozen Western leaders by private video conference on Thursday to discuss the war in Ukraine, he was intent upon delivering a key message, sources say: to stay unified in punishing Russia, even as the Kremlin tries to weaponize energy and break Western resolve.
 
@@ -439,7 +385,6 @@ When President Joe Biden convened nearly a dozen Western leaders by private vide
  - [https://www.cnn.com/2022/09/12/politics/trump-vowed-to-stay-in-white-house-haberman-book/index.html](https://www.cnn.com/2022/09/12/politics/trump-vowed-to-stay-in-white-house-haberman-book/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 09:33:16+00:00
- - tags: None
 
 Former President Donald Trump repeatedly told aides in the days following his 2020 election loss that he would remain in the White House rather than let incoming President Joe Biden take over, according to reporting provided to CNN from a forthcoming book by New York Times reporter Maggie Haberman.
 
@@ -447,7 +392,6 @@ Former President Donald Trump repeatedly told aides in the days following his 20
  - [https://www.cnn.com/style/article/david-lachapelle-interview-make-believe-exhibition/index.html](https://www.cnn.com/style/article/david-lachapelle-interview-make-believe-exhibition/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 09:30:55+00:00
- - tags: None
 
 For photographer David LaChapelle, signs are pointing to the end of days -- the Thwaites Glacier, or "doomsday glacier," is barely hanging on; raging fire seasons have brutalized the Amazon; and critical changes in jet streams are causing extreme weather conditions worldwide, he said in a phone call.
 
@@ -455,7 +399,6 @@ For photographer David LaChapelle, signs are pointing to the end of days -- the 
  - [https://www.cnn.com/2022/09/12/health/how-to-cook-mushroom-recipes-wellness/index.html](https://www.cnn.com/2022/09/12/health/how-to-cook-mushroom-recipes-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 08:54:36+00:00
- - tags: None
 
 Mushrooms are having a moment, whether it's the recent documentary "Fantastic Fungi" or their newfound trendiness as a vegan leather. September is National Mushroom Month, but because of mushrooms' fertile growing capabilities and versatility in many dishes, any month is a great one to be celebrating fungi.
 
@@ -463,7 +406,6 @@ Mushrooms are having a moment, whether it's the recent documentary "Fantastic Fu
  - [https://www.cnn.com/2022/09/12/middleeast/desalination-manhat-abu-dhabi-scn-spc-intl/index.html](https://www.cnn.com/2022/09/12/middleeast/desalination-manhat-abu-dhabi-scn-spc-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 08:36:25+00:00
- - tags: None
 
 A summer of extreme heat and drought around the world has been a reminder that water scarcity is a pressing issue and one that will only get worse with climate change. Already, more than two billion people worldwide lack easy access to clean water, according to the World Health Organization (WHO).
 
@@ -471,7 +413,6 @@ A summer of extreme heat and drought around the world has been a reminder that w
  - [https://www.cnn.com/2022/09/12/asia/modern-slavery-forced-marriage-climate-health-intl-hnk/index.html](https://www.cnn.com/2022/09/12/asia/modern-slavery-forced-marriage-climate-health-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 08:14:13+00:00
- - tags: None
 
 From the pandemic to the climate crisis, disasters of the past five years have upended daily life, and a new report shows that in many countries the ensuing economic uncertainty has pushed millions into modern slavery.
 
@@ -479,7 +420,6 @@ From the pandemic to the climate crisis, disasters of the past five years have u
  - [https://www.cnn.com/2022/09/12/us/california-lake-hughes-mudslide/index.html](https://www.cnn.com/2022/09/12/us/california-lake-hughes-mudslide/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 07:51:53+00:00
- - tags: None
 
 A mudslide trapped multiple drivers in Southern California as storms drenched the region and brought flash flood warnings Sunday evening.
 
@@ -487,7 +427,6 @@ A mudslide trapped multiple drivers in Southern California as storms drenched th
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-09-12-22/h_549adfd33d693c42ffe104cb2b633273](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-09-12-22/h_549adfd33d693c42ffe104cb2b633273)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 07:20:17.832193+00:00
- - tags: None
 
 
 
@@ -495,7 +434,6 @@ A mudslide trapped multiple drivers in Southern California as storms drenched th
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-09-12-22/h_ae1d9320a9d46c4df448cb72db8281f2](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-09-12-22/h_ae1d9320a9d46c4df448cb72db8281f2)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 07:20:17.824873+00:00
- - tags: None
 
 
 
@@ -503,7 +441,6 @@ A mudslide trapped multiple drivers in Southern California as storms drenched th
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-09-12-22/index.html](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-09-12-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 07:20:17.751831+00:00
- - tags: None
 
 
 
@@ -511,7 +448,6 @@ A mudslide trapped multiple drivers in Southern California as storms drenched th
  - [https://www.cnn.com/2022/09/12/us/anthony-varvaro-mlb-pitcher-officer-killed-in-crash/index.html](https://www.cnn.com/2022/09/12/us/anthony-varvaro-mlb-pitcher-officer-killed-in-crash/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 07:01:01+00:00
- - tags: None
 
 A former Major League Baseball pitcher who retired from the sport to become a New York City area police officer was killed in a wrong-way crash Sunday, authorities said.
 
@@ -519,7 +455,6 @@ A former Major League Baseball pitcher who retired from the sport to become a Ne
  - [https://www.cnn.com/2022/09/12/china/russia-ukraine-retreat-china-support-intl-hnk/index.html](https://www.cnn.com/2022/09/12/china/russia-ukraine-retreat-china-support-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 06:24:27+00:00
- - tags: None
 
 
 
@@ -527,7 +462,6 @@ A former Major League Baseball pitcher who retired from the sport to become a Ne
  - [https://www.cnn.com/2022/09/12/us/western-wildfires-air-quality-monday/index.html](https://www.cnn.com/2022/09/12/us/western-wildfires-air-quality-monday/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 05:33:30+00:00
- - tags: None
 
 An outburst of wildfires that broke out over the past week amid triple-digital temperatures across the West have forced thousands of evacuations and choked the air with smoke as strong winds complicated firefighting efforts.
 
@@ -535,7 +469,6 @@ An outburst of wildfires that broke out over the past week amid triple-digital t
  - [https://www.cnn.com/2022/09/12/politics/trump-mar-a-lago-documents-judge-cannon-analysis/index.html](https://www.cnn.com/2022/09/12/politics/trump-mar-a-lago-documents-judge-cannon-analysis/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 04:29:27+00:00
- - tags: None
 
 The Florida judge who disrupted the Justice Department's probe into Donald Trump's hoarding of classified material faces critical decisions this week in a legal tangle deepened by her granting the ex-President a big win in court last week.
 
@@ -543,7 +476,6 @@ The Florida judge who disrupted the Justice Department's probe into Donald Trump
  - [https://www.cnn.com/2022/09/12/europe/monarchy-modernizing-queen-relevant-intl-cmd-gbr/index.html](https://www.cnn.com/2022/09/12/europe/monarchy-modernizing-queen-relevant-intl-cmd-gbr/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 04:07:57+00:00
- - tags: None
 
 • Biden will not travel with a delegation to Queen Elizabeth's funeral
 • Queen's corgis to live with the Duke and Duchess of York
@@ -552,7 +484,6 @@ The Florida judge who disrupted the Justice Department's probe into Donald Trump
  - [https://www.cnn.com/collections/int-0912-queen/](https://www.cnn.com/collections/int-0912-queen/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 03:38:58+00:00
- - tags: None
 
 
 
@@ -560,7 +491,6 @@ The Florida judge who disrupted the Justice Department's probe into Donald Trump
  - [https://www.cnn.com/2022/09/11/india/india-queen-death-legacy-intl-hnk/index.html](https://www.cnn.com/2022/09/11/india/india-queen-death-legacy-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 03:23:14+00:00
- - tags: None
 
 India was still a British colony when Queen Elizabeth II was born in 1926, but it had been independent for nearly five years by the time she became Britain's monarch in February 1952.
 
@@ -568,7 +498,6 @@ India was still a British colony when Queen Elizabeth II was born in 1926, but i
  - [https://www.cnn.com/2022/09/11/politics/john-fetterman-mehmet-oz-pennsylvania-senate-race-abortion/index.html](https://www.cnn.com/2022/09/11/politics/john-fetterman-mehmet-oz-pennsylvania-senate-race-abortion/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 02:52:05+00:00
- - tags: None
 
 Pennsylvania's Democratic Senate nominee John Fetterman and top allies on Sunday hammered Republican Mehmet Oz over past remarks calling abortion "murder" and warned that Oz would be a "rubber stamp" for a national ban.
 
@@ -576,7 +505,6 @@ Pennsylvania's Democratic Senate nominee John Fetterman and top allies on Sunday
  - [https://www.cnn.com/travel/article/bikaneri-bhujia-indian-snack-rajasthan-intl-hnk/index.html](https://www.cnn.com/travel/article/bikaneri-bhujia-indian-snack-rajasthan-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 02:15:17+00:00
- - tags: None
 
 Indian poet Ashok Vajpeyi called Bikaner "a city where one half of the population is occupied with making bhujia and the other half eating it."
 
@@ -584,6 +512,5 @@ Indian poet Ashok Vajpeyi called Bikaner "a city where one half of the populatio
  - [https://www.cnn.com/2022/09/11/opinions/supreme-court-legitimacy-john-roberts-obeidallah/index.html](https://www.cnn.com/2022/09/11/opinions/supreme-court-legitimacy-john-roberts-obeidallah/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-12 00:15:01+00:00
- - tags: None
 
 Chief Justice John Roberts says he's worried that the Supreme Court is losing "legitimacy" in the eyes of those disagree with its decisions. Addressing a judicial conference Friday in Colorado, Roberts acknowledged, "The court has always decided controversial cases and decisions always have been subject to intense criticism and that is entirely appropriate."

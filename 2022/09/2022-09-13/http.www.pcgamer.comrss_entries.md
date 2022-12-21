@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## This weird comedy horror game from March went mostly unnoticed
  - [https://www.pcgamer.com/this-weird-comedy-horror-game-from-march-went-mostly-unnoticed](https://www.pcgamer.com/this-weird-comedy-horror-game-from-march-went-mostly-unnoticed)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 23:40:26+00:00
- - tags: None
 
 As we enter spooky season, The Upturned deserves another look.
 
@@ -12,7 +11,6 @@ As we enter spooky season, The Upturned deserves another look.
  - [https://www.pcgamer.com/team-ninja-reveals-its-own-assassins-creed-japan](https://www.pcgamer.com/team-ninja-reveals-its-own-assassins-creed-japan)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 23:30:53+00:00
- - tags: None
 
 Samurai duels, grappling hooks, and wingsuits.
 
@@ -20,7 +18,6 @@ Samurai duels, grappling hooks, and wingsuits.
  - [https://www.pcgamer.com/anime-action-game-project-eve-is-now-called-stellar-blade-coming-in-2023](https://www.pcgamer.com/anime-action-game-project-eve-is-now-called-stellar-blade-coming-in-2023)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 22:57:50+00:00
- - tags: None
 
 Killer robot beasts, swords, and cool rail gun arms.
 
@@ -28,7 +25,6 @@ Killer robot beasts, swords, and cool rail gun arms.
  - [https://www.pcgamer.com/tekken-8-reveal](https://www.pcgamer.com/tekken-8-reveal)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 22:47:18+00:00
- - tags: None
 
 The announcement arrives over seven years after Tekken 7 released in arcades.
 
@@ -36,7 +32,6 @@ The announcement arrives over seven years after Tekken 7 released in arcades.
  - [https://www.pcgamer.com/samurai-era-yakuza-spin-off-is-getting-a-surprise-remake-and-english-localization](https://www.pcgamer.com/samurai-era-yakuza-spin-off-is-getting-a-surprise-remake-and-english-localization)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 22:42:11+00:00
- - tags: None
 
 Yakuza Ishin is being "rebuilt from the ground up."
 
@@ -44,7 +39,6 @@ Yakuza Ishin is being "rebuilt from the ground up."
  - [https://www.pcgamer.com/your-car-is-your-only-companion-in-driving-survival-game-pacific-drive](https://www.pcgamer.com/your-car-is-your-only-companion-in-driving-survival-game-pacific-drive)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 22:41:05+00:00
- - tags: None
 
 In this "road-like" you drive through a dangerous exclusion zone in "a fully customizable car that develops its own quirks."
 
@@ -52,7 +46,6 @@ In this "road-like" you drive through a dangerous exclusion zone in "a fully cus
  - [https://www.pcgamer.com/a-huge-nerf-to-one-of-destiny-2s-most-powerful-exotics-got-left-off-todays-patch-notes](https://www.pcgamer.com/a-huge-nerf-to-one-of-destiny-2s-most-powerful-exotics-got-left-off-todays-patch-notes)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 21:46:47+00:00
- - tags: None
 
 The Loreley Splendor Helm is splendid no longer.
 
@@ -60,7 +53,6 @@ The Loreley Splendor Helm is splendid no longer.
  - [https://www.pcgamer.com/this-wipeout-style-anti-gravity-racing-game-looks-like-a-literal-blast](https://www.pcgamer.com/this-wipeout-style-anti-gravity-racing-game-looks-like-a-literal-blast)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 20:19:44+00:00
- - tags: None
 
 Turbo Force will sport online competitions and a track editor when it launches next year.
 
@@ -68,7 +60,6 @@ Turbo Force will sport online competitions and a track editor when it launches n
  - [https://www.pcgamer.com/this-italian-horror-game-has-one-of-the-weirdest-art-styles-ive-seen-this-year](https://www.pcgamer.com/this-italian-horror-game-has-one-of-the-weirdest-art-styles-ive-seen-this-year)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 19:49:12+00:00
- - tags: None
 
 Saturnalia's strange color palette and jittery animations stand out.
 
@@ -76,7 +67,6 @@ Saturnalia's strange color palette and jittery animations stand out.
  - [https://www.pcgamer.com/yakuza-spin-off-judgment-and-its-sequel-are-coming-to-pc](https://www.pcgamer.com/yakuza-spin-off-judgment-and-its-sequel-are-coming-to-pc)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 19:21:34+00:00
- - tags: None
 
 After years relegated to console exclusivity, the Yakuza series spin-offs just got PC ESRB ratings.
 
@@ -84,7 +74,6 @@ After years relegated to console exclusivity, the Yakuza series spin-offs just g
  - [https://www.pcgamer.com/disney-dreamlight-valley-the-secret-trick-for-crossing-blocked-bridges](https://www.pcgamer.com/disney-dreamlight-valley-the-secret-trick-for-crossing-blocked-bridges)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 18:49:43+00:00
- - tags: None
 
 Access some areas of the Disney Dreamlight Valley map before you're supposed to with one little trick.
 
@@ -92,7 +81,6 @@ Access some areas of the Disney Dreamlight Valley map before you're supposed to 
  - [https://www.pcgamer.com/how-hdmi-technology-is-bringing-gaming-features-to-more-gamers](https://www.pcgamer.com/how-hdmi-technology-is-bringing-gaming-features-to-more-gamers)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 18:29:48+00:00
- - tags: None
 
 Jeff Park, CTO of HDMI LA, discusses how the latest HDMI spec makes gaming more accessible.
 
@@ -100,7 +88,6 @@ Jeff Park, CTO of HDMI LA, discusses how the latest HDMI spec makes gaming more 
  - [https://www.pcgamer.com/triangle-strategy-comes-to-pc-next-month-as-our-strategy-rpg-cup-overfloweth](https://www.pcgamer.com/triangle-strategy-comes-to-pc-next-month-as-our-strategy-rpg-cup-overfloweth)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 18:09:04+00:00
- - tags: None
 
 Too many tactics games, not enough time: a great problem to have.
 
@@ -108,7 +95,6 @@ Too many tactics games, not enough time: a great problem to have.
  - [https://www.pcgamer.com/check-out-half-life-2-running-on-a-steam-deck-that-never-was](https://www.pcgamer.com/check-out-half-life-2-running-on-a-steam-deck-that-never-was)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 16:20:37+00:00
- - tags: None
 
 Valve has been showing off its Steam Deck prototypes as part of the device's launch in Asia.
 
@@ -116,7 +102,6 @@ Valve has been showing off its Steam Deck prototypes as part of the device's lau
  - [https://www.pcgamer.com/nvidia-rtx-4090-75b-transistors-rumour](https://www.pcgamer.com/nvidia-rtx-4090-75b-transistors-rumour)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 15:52:02+00:00
- - tags: None
 
 If true, Nvidia will be really pushing the reticle limit of GPU production with the new Lovelace generation flagship.
 
@@ -124,7 +109,6 @@ If true, Nvidia will be really pushing the reticle limit of GPU production with 
  - [https://www.pcgamer.com/the-latest-rtx-4090-number-porn-rumour-suggests-a-gpu-with-more-than-75b-transistors](https://www.pcgamer.com/the-latest-rtx-4090-number-porn-rumour-suggests-a-gpu-with-more-than-75b-transistors)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 15:44:40+00:00
- - tags: None
 
 If true, Nvidia will be really pushing the reticle limit of GPU production with the new Lovelace generation flagship.
 
@@ -132,7 +116,6 @@ If true, Nvidia will be really pushing the reticle limit of GPU production with 
  - [https://www.pcgamer.com/bully-maguire-has-pushed-his-way-into-spider-man-remastered](https://www.pcgamer.com/bully-maguire-has-pushed-his-way-into-spider-man-remastered)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 15:40:26+00:00
- - tags: None
 
 I'm really gonna enjoy this!
 
@@ -140,7 +123,6 @@ I'm really gonna enjoy this!
  - [https://www.pcgamer.com/valheim-mistlands-update-release-date](https://www.pcgamer.com/valheim-mistlands-update-release-date)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 15:37:51+00:00
- - tags: None
 
 From the new biome to new weapons.
 
@@ -148,7 +130,6 @@ From the new biome to new weapons.
  - [https://www.pcgamer.com/discord-integration-with-xbox-is-now-live-for-everyone](https://www.pcgamer.com/discord-integration-with-xbox-is-now-live-for-everyone)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 15:31:38+00:00
- - tags: None
 
 Now all our Xbox friends can join us in voice chat.
 
@@ -156,7 +137,6 @@ Now all our Xbox friends can join us in voice chat.
  - [https://www.pcgamer.com/best-gaming-laptop](https://www.pcgamer.com/best-gaming-laptop)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 15:10:01+00:00
- - tags: None
 
 The best gaming laptop doesn't compromise on portability and performance.
 
@@ -164,7 +144,6 @@ The best gaming laptop doesn't compromise on portability and performance.
  - [https://www.pcgamer.com/begin-or-end-office-rivalries-with-checkbox-olympics](https://www.pcgamer.com/begin-or-end-office-rivalries-with-checkbox-olympics)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 14:47:13+00:00
- - tags: None
 
 So, Brian from accounts, we meet again.
 
@@ -172,7 +151,6 @@ So, Brian from accounts, we meet again.
  - [https://www.pcgamer.com/jeweller-spends-over-700-hours-recreating-warcrafts-most-legendary-blade-in-gold-and-silver](https://www.pcgamer.com/jeweller-spends-over-700-hours-recreating-warcrafts-most-legendary-blade-in-gold-and-silver)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 13:49:41+00:00
- - tags: None
 
 A 'wow' is appropriate.
 
@@ -180,7 +158,6 @@ A 'wow' is appropriate.
  - [https://www.pcgamer.com/the-remake-of-the-xiii-remake-is-out-and-looks-a-hundred-times-better](https://www.pcgamer.com/the-remake-of-the-xiii-remake-is-out-and-looks-a-hundred-times-better)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 13:16:29+00:00
- - tags: None
 
 Remakeception.
 
@@ -188,7 +165,6 @@ Remakeception.
  - [https://www.pcgamer.com/babylons-fall-to-close-after-less-than-a-year-live](https://www.pcgamer.com/babylons-fall-to-close-after-less-than-a-year-live)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 12:01:39+00:00
- - tags: None
 
 Babylon's fallen and it can't get up.
 
@@ -196,7 +172,6 @@ Babylon's fallen and it can't get up.
  - [https://www.pcgamer.com/ubisoft-wants-to-stop-making-games-that-try-to-be-all-things-to-all-people](https://www.pcgamer.com/ubisoft-wants-to-stop-making-games-that-try-to-be-all-things-to-all-people)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 11:39:39+00:00
- - tags: None
 
 'We're not making the one game for everybody, but we're making a game for you'.
 
@@ -204,7 +179,6 @@ Babylon's fallen and it can't get up.
  - [https://www.pcgamer.com/average-graphics-card-prices-have-halved-since-the-start-of-2022](https://www.pcgamer.com/average-graphics-card-prices-have-halved-since-the-start-of-2022)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 11:34:30+00:00
- - tags: None
 
 The data points over the last couple of years are fascinating, but I doubt we'll ever see average pricing at 2019 levels again.
 
@@ -212,7 +186,6 @@ The data points over the last couple of years are fascinating, but I doubt we'll
  - [https://www.pcgamer.com/genshin-impact-dori-build-banner](https://www.pcgamer.com/genshin-impact-dori-build-banner)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 11:23:28+00:00
- - tags: None
 
 A great setup for Sumeru's four-star mastermind merchant.
 
@@ -220,7 +193,6 @@ A great setup for Sumeru's four-star mastermind merchant.
  - [https://www.pcgamer.com/intel-wifi-sensing-raptor-lake](https://www.pcgamer.com/intel-wifi-sensing-raptor-lake)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 11:20:54+00:00
- - tags: None
 
 Using only standard Wi-Fi technology.
 
@@ -228,7 +200,6 @@ Using only standard Wi-Fi technology.
  - [https://www.pcgamer.com/best-ssd-for-gaming](https://www.pcgamer.com/best-ssd-for-gaming)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 11:08:31+00:00
- - tags: None
 
 Give your gaming PC a serious speed boost with the best SSD for gaming.
 
@@ -236,7 +207,6 @@ Give your gaming PC a serious speed boost with the best SSD for gaming.
  - [https://www.pcgamer.com/world-of-warcraft-wow-shadows-of-doom](https://www.pcgamer.com/world-of-warcraft-wow-shadows-of-doom)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 11:07:37+00:00
- - tags: None
 
 These elite enemies arrived with the Scourge invasion.
 
@@ -244,7 +214,6 @@ These elite enemies arrived with the Scourge invasion.
  - [https://www.pcgamer.com/best-external-ssd-for-game-storage](https://www.pcgamer.com/best-external-ssd-for-game-storage)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 10:38:18+00:00
- - tags: None
 
 Bag one of the best USB Type-C SSDs for game storage on a PC or console.
 
@@ -252,7 +221,6 @@ Bag one of the best USB Type-C SSDs for game storage on a PC or console.
  - [https://www.pcgamer.com/todays-wordle-451-answer-hint](https://www.pcgamer.com/todays-wordle-451-answer-hint)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 07:01:28+00:00
- - tags: None
 
 Wordle today: The solution and a hint for Tuesday's puzzle.
 
@@ -260,7 +228,6 @@ Wordle today: The solution and a hint for Tuesday's puzzle.
  - [https://www.pcgamer.com/a-new-browser-in-the-browser-attack-threatens-steam-users](https://www.pcgamer.com/a-new-browser-in-the-browser-attack-threatens-steam-users)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 05:02:58+00:00
- - tags: None
 
 Going after your virtual goods.
 
@@ -268,7 +235,6 @@ Going after your virtual goods.
  - [https://www.pcgamer.com/those-coffin-office-chairs-arent-real-but-they-should-be](https://www.pcgamer.com/those-coffin-office-chairs-arent-real-but-they-should-be)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 03:24:46+00:00
- - tags: None
 
 A plea to stop it with the race car and bring in the coffice chair.
 
@@ -276,7 +242,6 @@ A plea to stop it with the race car and bring in the coffice chair.
  - [https://www.pcgamer.com/zotacs-rtx-4090-smiles-for-the-camera](https://www.pcgamer.com/zotacs-rtx-4090-smiles-for-the-camera)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 03:19:37+00:00
- - tags: None
 
 It's got some curves.
 
@@ -284,7 +249,6 @@ It's got some curves.
  - [https://www.pcgamer.com/unreleased-meta-vr-headset-possibly-leaked-after-found-discarded-in-hotel](https://www.pcgamer.com/unreleased-meta-vr-headset-possibly-leaked-after-found-discarded-in-hotel)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 01:40:11+00:00
- - tags: None
 
 The video looks pretty convincing.
 
@@ -292,6 +256,5 @@ The video looks pretty convincing.
  - [https://www.pcgamer.com/343-industries-founder-leaves-company-due-to-family-medical-issue](https://www.pcgamer.com/343-industries-founder-leaves-company-due-to-family-medical-issue)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-13 00:31:07+00:00
- - tags: None
 
 Bonnie Ross founded the Halo successor studio after Bungie's split with Microsoft in 2007.

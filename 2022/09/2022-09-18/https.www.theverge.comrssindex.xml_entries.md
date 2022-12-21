@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Tom Brady just chucked another Microsoft Surface tablet
  - [https://www.theverge.com/2022/9/18/23359755/tom-brady-microsoft-surface-tablet-tampa-bay-buccaneers-saints-football-nfl](https://www.theverge.com/2022/9/18/23359755/tom-brady-microsoft-surface-tablet-tampa-bay-buccaneers-saints-football-nfl)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-18 22:06:39+00:00
- - tags: None
 
 <figure>
       <img alt="Tom Brady whips a Microsoft Surface tablet into the ground during a football game." src="https://cdn.vox-cdn.com/thumbor/RLn3_phJLP8xr_F4gpgvki5_5OY=/25x0:475x300/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71384928/tom_brady_gif_tablet.0.gif" />
@@ -17,7 +16,6 @@
  - [https://www.theverge.com/2022/9/18/23359677/nfl-sunday-ticket-is-down-outage-directv-streaming](https://www.theverge.com/2022/9/18/23359677/nfl-sunday-ticket-is-down-outage-directv-streaming)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-18 19:31:25+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/EWa_99aaYpMW14FhATwewcvfHV4=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71384421/acastro_STK099_NFL_02.0.jpg" />
@@ -30,7 +28,6 @@
  - [https://www.theverge.com/2022/9/18/23359564/iphone-14-cameras-shaking-grinding-sounds-third-party-photo-apps-apple](https://www.theverge.com/2022/9/18/23359564/iphone-14-cameras-shaking-grinding-sounds-third-party-photo-apps-apple)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-18 18:44:14+00:00
- - tags: None
 
 <figure>
       <img alt="The camera setup on the rear of the iPhone 14 Pro." src="https://cdn.vox-cdn.com/thumbor/cw_zOx3kvrGI37E7NeI7bykDqQQ=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71384256/226270_iPHONE_14_PHO_akrales_0723.0.jpg" />
@@ -43,7 +40,6 @@
  - [https://www.theverge.com/2022/9/18/23359479/apple-dynamic-island-base-iphone-15-ross-young-rumors](https://www.theverge.com/2022/9/18/23359479/apple-dynamic-island-base-iphone-15-ross-young-rumors)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-18 17:25:35+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/s7J4iq60UxScGmL5WLwx97kI7RE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71384040/226270_iPHONE_14_PHO_akrales_0818.0.jpg" />
@@ -56,7 +52,6 @@
  - [https://www.theverge.com/2022/9/18/23359156/gta-6-leak-gameplay-footage-90-videos](https://www.theverge.com/2022/9/18/23359156/gta-6-leak-gameplay-footage-90-videos)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-18 10:36:36+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/kMiRvjFdMmIQBZ0TLGakl4nm-BY=/0x0:3240x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71382656/24ba6644deb404944cdbe64705285bbad80154a4.0.jpg" />
@@ -69,7 +64,6 @@
  - [https://www.theverge.com/2022/9/18/23357870/fortnite-chapter-3-season-4-paradise-battle-pass](https://www.theverge.com/2022/9/18/23357870/fortnite-chapter-3-season-4-paradise-battle-pass)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-18 06:11:41+00:00
- - tags: None
 
 <figure>
       <img alt="Spider-Gwen in Fortnite." src="https://cdn.vox-cdn.com/thumbor/Dw5mmAwq-9x-OEWpBrbkteOjT8U=/241x0:1861x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71382481/Still029.0.jpg" />

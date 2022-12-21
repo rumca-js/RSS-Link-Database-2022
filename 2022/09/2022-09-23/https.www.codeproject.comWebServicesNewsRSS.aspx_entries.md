@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## 5 steps to designing an embedded software architecture, Step 1
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58982](https://www.codeproject.com/script/News/View.aspx?nwid=58982)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-23 04:00:00+00:00
- - tags: None
 
 Let’s explore a few steps you can take to design your embedded software architecture.
 
@@ -12,7 +11,6 @@ Let’s explore a few steps you can take to design your embedded software archit
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58979](https://www.codeproject.com/script/News/View.aspx?nwid=58979)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-23 04:00:00+00:00
- - tags: None
 
 While developing a sample application for a Raspberry Pi with a camera using the RaspiCam library, it occurred to me that it would be convenient and fun to be able to see the current camera input while debugging the application.
 
@@ -20,7 +18,6 @@ While developing a sample application for a Raspberry Pi with a camera using the
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58981](https://www.codeproject.com/script/News/View.aspx?nwid=58981)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-23 04:00:00+00:00
- - tags: None
 
 Modern Deep Learning libraries are powerful tools but they may lead practitioners to take for granted neural networks’ functioning principles
 
@@ -28,7 +25,6 @@ Modern Deep Learning libraries are powerful tools but they may lead practitioner
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58973](https://www.codeproject.com/script/News/View.aspx?nwid=58973)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-23 04:00:00+00:00
- - tags: None
 
 Learn something new every day
 
@@ -36,7 +32,6 @@ Learn something new every day
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58988](https://www.codeproject.com/script/News/View.aspx?nwid=58988)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-23 04:00:00+00:00
- - tags: None
 
 A patch in time saves nine (hackings)
 
@@ -44,7 +39,6 @@ A patch in time saves nine (hackings)
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58978](https://www.codeproject.com/script/News/View.aspx?nwid=58978)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-23 04:00:00+00:00
- - tags: None
 
 Spy on customers instead?
 
@@ -52,7 +46,6 @@ Spy on customers instead?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58983](https://www.codeproject.com/script/News/View.aspx?nwid=58983)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-23 04:00:00+00:00
- - tags: None
 
 Over and above the core features the IDE 2.0 benefits from a number of enhancements and additional support.
 
@@ -60,7 +53,6 @@ Over and above the core features the IDE 2.0 benefits from a number of enhanceme
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58976](https://www.codeproject.com/script/News/View.aspx?nwid=58976)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-23 04:00:00+00:00
- - tags: None
 
 They'd only fly for 852 feet?
 
@@ -68,7 +60,6 @@ They'd only fly for 852 feet?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58986](https://www.codeproject.com/script/News/View.aspx?nwid=58986)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-23 04:00:00+00:00
- - tags: None
 
 "I've heard of you. I heard you were dead!"
 
@@ -76,7 +67,6 @@ They'd only fly for 852 feet?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58975](https://www.codeproject.com/script/News/View.aspx?nwid=58975)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-23 04:00:00+00:00
- - tags: None
 
 Pleaseanewicon, pleaseanewicon, pleaseanewicon
 
@@ -84,7 +74,6 @@ Pleaseanewicon, pleaseanewicon, pleaseanewicon
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58974](https://www.codeproject.com/script/News/View.aspx?nwid=58974)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-23 04:00:00+00:00
- - tags: None
 
 So what do you think - is this true or not?
 
@@ -92,7 +81,6 @@ So what do you think - is this true or not?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58987](https://www.codeproject.com/script/News/View.aspx?nwid=58987)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-23 04:00:00+00:00
- - tags: None
 
 "Neptune, Titan, Stars can frighten. Lime and limpid green, a second scene"
 
@@ -100,7 +88,6 @@ So what do you think - is this true or not?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58984](https://www.codeproject.com/script/News/View.aspx?nwid=58984)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-23 04:00:00+00:00
- - tags: None
 
 Nvidia Corp. is making robotics more accessible with the launch of a new, slimline Jetson Orin Nano system-on-module platform that delivers up to 80 times faster performance than the previous generation.
 
@@ -108,7 +95,6 @@ Nvidia Corp. is making robotics more accessible with the launch of a new, slimli
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58985](https://www.codeproject.com/script/News/View.aspx?nwid=58985)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-23 04:00:00+00:00
- - tags: None
 
 This may not be the best deep learning framework, but it is a deep learning framework.
 
@@ -116,7 +102,6 @@ This may not be the best deep learning framework, but it is a deep learning fram
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58980](https://www.codeproject.com/script/News/View.aspx?nwid=58980)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-23 04:00:00+00:00
- - tags: None
 
 Amazon SageMaker Studio Lab is a free machine learning (ML) development environment based on open-source JupyterLab for anyone to learn and experiment with ML using AWS ML compute resources.
 
@@ -124,6 +109,5 @@ Amazon SageMaker Studio Lab is a free machine learning (ML) development environm
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58977](https://www.codeproject.com/script/News/View.aspx?nwid=58977)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-23 04:00:00+00:00
- - tags: None
 
 Not to be confused with the airport in Los Angeles

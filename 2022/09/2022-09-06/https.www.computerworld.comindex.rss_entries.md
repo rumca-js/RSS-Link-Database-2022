@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Is Apple preparing its big idea for digital health?
  - [https://www.computerworld.com/article/3672410/is-apple-preparing-its-big-idea-for-digital-health.html#tk.rss_all](https://www.computerworld.com/article/3672410/is-apple-preparing-its-big-idea-for-digital-health.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-06 15:54:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -15,7 +14,6 @@
  - [https://www.computerworld.com/article/3672150/when-windows-updating-goes-bad-the-case-of-the-problematic-patch.html#tk.rss_all](https://www.computerworld.com/article/3672150/when-windows-updating-goes-bad-the-case-of-the-problematic-patch.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-06 11:08:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -25,7 +23,6 @@
  - [https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all](https://www.computerworld.com/article/3542681/how-many-jobs-are-available-in-technology.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-06 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

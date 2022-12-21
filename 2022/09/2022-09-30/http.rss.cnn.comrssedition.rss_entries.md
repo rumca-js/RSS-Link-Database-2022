@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## Zelensky: Ukraine applying to NATO in 'accelerated procedure'
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-09-30-22/h_2127c3e731deebfdc354906a0210d0d1](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-09-30-22/h_2127c3e731deebfdc354906a0210d0d1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 23:27:29.516473+00:00
- - tags: None
 
 
 
@@ -12,7 +11,6 @@
  - [https://cnn.it/3E2nwqS](https://cnn.it/3E2nwqS)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 23:27:29.440663+00:00
- - tags: None
 
 
 
@@ -20,7 +18,6 @@
  - [https://edition.cnn.com/interactive/2022/09/europe/russia-territory-control-ukraine-shift-dg/](https://edition.cnn.com/interactive/2022/09/europe/russia-territory-control-ukraine-shift-dg/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 22:27:28.005677+00:00
- - tags: None
 
 
 
@@ -28,7 +25,6 @@
  - [https://www.cnn.com/2022/09/30/politics/ryan-mays-uss-bonhomme-richard-navy-ship-fire-not-guilty/index.html](https://www.cnn.com/2022/09/30/politics/ryan-mays-uss-bonhomme-richard-navy-ship-fire-not-guilty/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 22:23:04+00:00
- - tags: None
 
 
 
@@ -36,7 +32,6 @@
  - [https://www.cnn.com/videos/media/2022/09/30/frankie-lasagna-aaron-judge-late-night-reaction-orig-ht.cnn-business](https://www.cnn.com/videos/media/2022/09/30/frankie-lasagna-aaron-judge-late-night-reaction-orig-ht.cnn-business)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 21:16:33+00:00
- - tags: None
 
 Late night hosts tease Toronto Blue Jays fan, Frankie Lasagna, whose name went viral after he almost caught Aaron Judge's historic 61st home run ball.
 
@@ -44,7 +39,6 @@ Late night hosts tease Toronto Blue Jays fan, Frankie Lasagna, whose name went v
  - [https://www.cnn.com/2022/09/30/us/hurricane-ian-sanibel-before-after/index.html](https://www.cnn.com/2022/09/30/us/hurricane-ian-sanibel-before-after/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 21:14:49+00:00
- - tags: None
 
 • Ian downgraded to tropical depression
 • As Ian continues to weaken farther island, recovery efforts are underway in Florida and South Carolina
@@ -53,7 +47,6 @@ Late night hosts tease Toronto Blue Jays fan, Frankie Lasagna, whose name went v
  - [https://www.cnn.com/videos/world/2022/09/30/1-million-year-old-skull-discovered-evolution-china-orig-aw.cnn](https://www.cnn.com/videos/world/2022/09/30/1-million-year-old-skull-discovered-evolution-china-orig-aw.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 19:50:12+00:00
- - tags: None
 
 Chinese archaeologists discovered an incredibly well-preserved 1-million-year-old Homo erectus skull, filling a major gap in our understanding of human evolution.
 
@@ -61,7 +54,6 @@ Chinese archaeologists discovered an incredibly well-preserved 1-million-year-ol
  - [https://www.cnn.com/videos/politics/2022/09/30/joe-biden-speech-putin-annexation-pipeline-leaks-newsroom-vpx.cnn](https://www.cnn.com/videos/politics/2022/09/30/joe-biden-speech-putin-annexation-pipeline-leaks-newsroom-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 19:21:58+00:00
- - tags: None
 
 In a speech from the White House, President Joe Biden accused President Vladimir Putin of putting on a "sham routine" around Russia's annexation of Ukrainian territories and called the Nord Stream pipeline leaks a "deliberate act of sabotage."
 
@@ -69,7 +61,6 @@ In a speech from the White House, President Joe Biden accused President Vladimir
  - [https://www.cnn.com/2022/09/30/americas/brazil-elections-analysis-intl-latam/index.html](https://www.cnn.com/2022/09/30/americas/brazil-elections-analysis-intl-latam/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 18:56:41+00:00
- - tags: None
 
 • Opinion: Bolsonaro follows Trump's lead
 
@@ -77,7 +68,6 @@ In a speech from the White House, President Joe Biden accused President Vladimir
  - [https://www.cnn.com/2022/09/30/europe/navalny-ukraine-war-intl/index.html](https://www.cnn.com/2022/09/30/europe/navalny-ukraine-war-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 18:02:40+00:00
- - tags: None
 
 Imprisoned Russian dissident Alexey Navalny says the only way for his country to avoid an "endless cycle of imperial authoritarianism" is to become a parliamentary democracy.
 
@@ -85,7 +75,6 @@ Imprisoned Russian dissident Alexey Navalny says the only way for his country to
  - [https://www.cnn.com/videos/world/2022/09/30/putin-annex-ukraine-npw-vpx.cnn](https://www.cnn.com/videos/world/2022/09/30/putin-annex-ukraine-npw-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 17:59:11+00:00
- - tags: None
 
 CNN international security editor Nick Paton Walsh reports on Vladimir Putin's speech announcing the annexation of four areas of Ukraine that the West denounced as illegal.
 
@@ -93,7 +82,6 @@ CNN international security editor Nick Paton Walsh reports on Vladimir Putin's s
  - [https://www.cnn.com/2022/09/30/opinions/bolsonaro-attempt-to-remain-in-power-ben-ghiat/index.html](https://www.cnn.com/2022/09/30/opinions/bolsonaro-attempt-to-remain-in-power-ben-ghiat/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 16:57:29+00:00
- - tags: None
 
 "A new class of thieves has emerged who want to steal our freedom," Brazilian President Jair Bolsonaro thundered during a speech last June. The beleaguered leader, who has been trailing badly in recent polls ahead of Sunday's election, went on to declare that "if necessary, we will go to war" against the offenders.
 
@@ -101,7 +89,6 @@ CNN international security editor Nick Paton Walsh reports on Vladimir Putin's s
  - [https://cnn.it/3RqYAMT](https://cnn.it/3RqYAMT)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 16:27:24.455307+00:00
- - tags: None
 
 
 
@@ -109,7 +96,6 @@ CNN international security editor Nick Paton Walsh reports on Vladimir Putin's s
  - [https://www.cnn.com/collections/videos-of-the-week-093022/](https://www.cnn.com/collections/videos-of-the-week-093022/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 16:27:12+00:00
- - tags: None
 
 
 
@@ -117,7 +103,6 @@ CNN international security editor Nick Paton Walsh reports on Vladimir Putin's s
  - [https://www.cnn.com/videos/politics/2022/09/30/ted-cruz-trump-2024-cillizza-the-point-orig-jm.cnn](https://www.cnn.com/videos/politics/2022/09/30/ted-cruz-trump-2024-cillizza-the-point-orig-jm.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 16:11:02+00:00
- - tags: None
 
 Sen. Ted Cruz said it is "utter garbage" when potential Republican candidates pronounce that they would run in 2024 whether or not former President Donald Trump does. In today's episode of The Point, CNN's Chris Cillizza discusses how the Texas senator evolved from calling Trump a "sniveling coward" to becoming an astute observer of Trump's hold on the GOP.
 
@@ -125,7 +110,6 @@ Sen. Ted Cruz said it is "utter garbage" when potential Republican candidates pr
  - [https://www.cnn.com/2022/09/30/uk/royal-news-newsletter-09-30-22-scli-gbr-cmd-intl/index.html](https://www.cnn.com/2022/09/30/uk/royal-news-newsletter-09-30-22-scli-gbr-cmd-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 15:47:42+00:00
- - tags: None
 
 A sense of normality slowly returned to the monarchy this week, as the royals' extended period of mourning following the death of Queen Elizabeth II came to an end.
 
@@ -133,7 +117,6 @@ A sense of normality slowly returned to the monarchy this week, as the royals' e
  - [https://www.cnn.com/travel/article/cleveland-pools-reopening-bath-intl-scli-gbr/index.html](https://www.cnn.com/travel/article/cleveland-pools-reopening-bath-intl-scli-gbr/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 15:44:25+00:00
- - tags: None
 
 With its honey-colored stone, crescent-shaped changing rooms, still water and idyllic location on the banks of the Avon river in Bath, England, Cleveland Pools seems to have been plucked from the pages of a Jane Austen novel or an episode of "Bridgerton."
 
@@ -141,7 +124,6 @@ With its honey-colored stone, crescent-shaped changing rooms, still water and id
  - [https://www.cnn.com/2022/09/30/politics/justice-ketanji-brown-jackson-investitutre/index.html](https://www.cnn.com/2022/09/30/politics/justice-ketanji-brown-jackson-investitutre/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 15:37:38+00:00
- - tags: None
 
 Justice Ketanji Brown Jackson took the judicial oath Friday at a special sitting of the Supreme Court attended by President Joe Biden as well as legal luminaries from across Washington who gathered to celebrate the first time a Black woman has taken her seat on the highest court in the land.
 
@@ -149,7 +131,6 @@ Justice Ketanji Brown Jackson took the judicial oath Friday at a special sitting
  - [https://www.cnn.com/2022/09/30/business/cruise-gm-san-francisco-self-driving/index.html](https://www.cnn.com/2022/09/30/business/cruise-gm-san-francisco-self-driving/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 14:59:52+00:00
- - tags: None
 
 GM's self-driving car subsidiary Cruise said earlier this year that it wants to add as many as 5,000 more robotaxis to American streets, including in San Francisco, where it currently maintains a fleet of fewer than 100 cars. But the city says the robotaxis are already shaping up to be a self-driving nightmare at times and warns that a much larger fleet could worsen safety and traffic.
 
@@ -157,7 +138,6 @@ GM's self-driving car subsidiary Cruise said earlier this year that it wants to 
  - [https://www.cnn.com/2022/09/30/politics/us-russia-sanctions-ukraine-annexation/index.html](https://www.cnn.com/2022/09/30/politics/us-russia-sanctions-ukraine-annexation/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 14:30:21+00:00
- - tags: None
 
 The US is imposing what it describes as "swift and severe costs" on Russia, including sanctions on a figure the Biden administration says is key to Russia's economy, after President Vladimir Putin announced the annexation of regions of Ukraine following what the West casts as "sham referenda."
 
@@ -165,7 +145,6 @@ The US is imposing what it describes as "swift and severe costs" on Russia, incl
  - [https://www.cnn.com/2022/09/30/economy/europe-energy-crisis-windfall-tax/index.html](https://www.cnn.com/2022/09/30/economy/europe-energy-crisis-windfall-tax/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 14:26:49+00:00
- - tags: None
 
 EU governments agreed Friday to tax the windfall profits of oil and gas companies and to cap the revenues of some electricity generators as the cost of Europe's energy crisis spirals higher.
 
@@ -173,7 +152,6 @@ EU governments agreed Friday to tax the windfall profits of oil and gas companie
  - [https://www.cnn.com/2022/09/30/entertainment/george-clooney-brad-pitt-most-handsome-man/index.html](https://www.cnn.com/2022/09/30/entertainment/george-clooney-brad-pitt-most-handsome-man/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 13:56:19+00:00
- - tags: None
 
 George Clooney and Brad Pitt can't quit teasing each other.
 
@@ -181,7 +159,6 @@ George Clooney and Brad Pitt can't quit teasing each other.
  - [https://www.cnn.com/2022/09/30/tech/elon-musk-text-messages/index.html](https://www.cnn.com/2022/09/30/tech/elon-musk-text-messages/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 13:49:41+00:00
- - tags: None
 
 Days before publicly announcing his investment in Twitter, Elon Musk texted with Jack Dorsey. The former Twitter CEO suggested he no longer believed in the company he founded, according to new court filings in the legal battle between Musk and Twitter.
 
@@ -189,7 +166,6 @@ Days before publicly announcing his investment in Twitter, Elon Musk texted with
  - [https://www.cnn.com/2022/09/30/europe/russia-ukraine-annexation-analysis-intl/index.html](https://www.cnn.com/2022/09/30/europe/russia-ukraine-annexation-analysis-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 13:48:47+00:00
- - tags: None
 
 It is a moment of two completely incompatible events. One staged in Moscow, of a pen on paper, theater and imperialist expansion. The other the slow, methodical advance of Ukraine's forces through poorly supplied and commanded Russian positions.
 
@@ -197,7 +173,6 @@ It is a moment of two completely incompatible events. One staged in Moscow, of a
  - [https://cnn.it/3E6OjCy](https://cnn.it/3E6OjCy)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 13:27:22.461310+00:00
- - tags: None
 
 
 
@@ -205,7 +180,6 @@ It is a moment of two completely incompatible events. One staged in Moscow, of a
  - [https://www.cnn.com/collections/intl-ukraine-3009/](https://www.cnn.com/collections/intl-ukraine-3009/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 13:09:24+00:00
- - tags: None
 
 
 
@@ -213,7 +187,6 @@ It is a moment of two completely incompatible events. One staged in Moscow, of a
  - [https://www.cnn.com/videos/business/2022/09/29/nightcap-sports-streaming-big-tech-clip-orig-nb.cnn](https://www.cnn.com/videos/business/2022/09/29/nightcap-sports-streaming-big-tech-clip-orig-nb.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 12:58:50+00:00
- - tags: None
 
 Puck's founding partner Matthew Belloni tells "Nightcap's" Jon Sarlin how big tech is spending big money to compete in live sports broadcasting to lure more subscribers to its streaming platforms. For more, watch the full Nightcap episode here.
 
@@ -221,7 +194,6 @@ Puck's founding partner Matthew Belloni tells "Nightcap's" Jon Sarlin how big te
  - [https://www.cnn.com/videos/world/2022/09/30/iran-protest-women-hair-pkg-karadsheh-intl-ldn-vpx.cnn](https://www.cnn.com/videos/world/2022/09/30/iran-protest-women-hair-pkg-karadsheh-intl-ldn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 12:48:35+00:00
- - tags: None
 
 Women have been a driving force behind anti-regime protests in Iran after 22-year-old Mahsa Amini died while in the custody of Iran's morality police for allegedly not abiding to the country's hijab rules.
 
@@ -229,7 +201,6 @@ Women have been a driving force behind anti-regime protests in Iran after 22-yea
  - [https://www.cnn.com/2022/09/30/football/neymar-jair-bolsonaro-brazil-elections-football-spt-intl/index.html](https://www.cnn.com/2022/09/30/football/neymar-jair-bolsonaro-brazil-elections-football-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 12:35:39+00:00
- - tags: None
 
 Just days ahead of Brazil's national elections on Sunday, soccer star Neymar Jr. has appeared in a campaign video endorsing Brazilian President Jair Bolsonaro.
 
@@ -237,7 +208,6 @@ Just days ahead of Brazil's national elections on Sunday, soccer star Neymar Jr.
  - [https://www.cnn.com/2022/09/30/europe/putin-russia-ukraine-annexation-intl/index.html](https://www.cnn.com/2022/09/30/europe/putin-russia-ukraine-annexation-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 12:29:36+00:00
- - tags: None
 
 Russian President Vladimir Putin has formally announced the Kremlin's intention to annex nearly a fifth of Ukraine in blatant violation of international law.
 
@@ -245,7 +215,6 @@ Russian President Vladimir Putin has formally announced the Kremlin's intention 
  - [https://cnn.it/3E9V867](https://cnn.it/3E9V867)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 12:27:20.635978+00:00
- - tags: None
 
 
 
@@ -253,7 +222,6 @@ Russian President Vladimir Putin has formally announced the Kremlin's intention 
  - [https://www.cnn.com/2022/09/30/entertainment/interview-with-the-vampire-review/index.html](https://www.cnn.com/2022/09/30/entertainment/interview-with-the-vampire-review/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 12:24:59+00:00
- - tags: None
 
 Significantly improving upon the 1994 film, "Anne Rice's Interview With the Vampire" does more than just add the late author's name to the title, ambitiously updating the story, introducing a racial component and serving up plenty of sex and gore. Desperate to replace "The Walking Dead," AMC might have completed an improbable baton pass from zombies to another kind of undead.
 
@@ -261,7 +229,6 @@ Significantly improving upon the 1994 film, "Anne Rice's Interview With the Vamp
  - [https://www.cnn.com/videos/world/2022/09/30/russia-annexation-illegal-referendums-ukraine-pkg-robertson-ovn-intl-ldn-vpx.cnn](https://www.cnn.com/videos/world/2022/09/30/russia-annexation-illegal-referendums-ukraine-pkg-robertson-ovn-intl-ldn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 12:04:27+00:00
- - tags: None
 
 President Vladimir Putin sets to hold a Kremlin ceremony to formalize the illegal annexation of four occupied regions of eastern Ukraine. CNN's Nic Robertson looks back at Putin's similar move in the annexation of Crimea in 2014.
 
@@ -269,7 +236,6 @@ President Vladimir Putin sets to hold a Kremlin ceremony to formalize the illega
  - [https://www.cnn.com/2022/09/30/sport/fide-chess-cheating-investigation-spt-intl/index.html](https://www.cnn.com/2022/09/30/sport/fide-chess-cheating-investigation-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 11:57:54+00:00
- - tags: None
 
 An investigation is set to launched in the wake of cheating allegations made by world chess champion Magnus Carlsen, FIDE -- the sport's global governing body -- announced on Thursday.
 
@@ -277,7 +243,6 @@ An investigation is set to launched in the wake of cheating allegations made by 
  - [https://www.cnn.com/2022/09/30/tech/image-generating-ai-publicly-available/index.html](https://www.cnn.com/2022/09/30/tech/image-generating-ai-publicly-available/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 11:53:07+00:00
- - tags: None
 
 If you've ever wanted to use artificial intelligence to quickly design a hybrid between a duck and a corgi, now is your time to shine.
 
@@ -285,7 +250,6 @@ If you've ever wanted to use artificial intelligence to quickly design a hybrid 
  - [https://www.cnn.com/2022/09/30/health/public-community-health-workforce-grants/index.html](https://www.cnn.com/2022/09/30/health/public-community-health-workforce-grants/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 11:49:36+00:00
- - tags: None
 
 The US government is awarding more than $266 million from the American Rescue Plan to expand the nation's community and public health work force, officials will announce Friday.
 
@@ -293,7 +257,6 @@ The US government is awarding more than $266 million from the American Rescue Pl
  - [https://www.cnn.com/2022/09/30/economy/uk-economy-what-next/index.html](https://www.cnn.com/2022/09/30/economy/uk-economy-what-next/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 11:22:32+00:00
- - tags: None
 
 There was good news and bad in Friday's revised data about the UK economy. It grew — marginally — in the second quarter of the year, rather than shrinking as previously estimated.
 
@@ -301,7 +264,6 @@ There was good news and bad in Friday's revised data about the UK economy. It gr
  - [https://www.cnn.com/2022/09/30/europe/nobel-science-prizes-scn/index.html](https://www.cnn.com/2022/09/30/europe/nobel-science-prizes-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 11:20:40+00:00
- - tags: None
 
 It was an all-male lineup of laureates for last year's Nobel Prizes in medicine, physics and chemistry, awards which grant the recipients entry to the most prestigious club in science.
 
@@ -309,7 +271,6 @@ It was an all-male lineup of laureates for last year's Nobel Prizes in medicine,
  - [https://www.cnn.com/travel/article/honeymoon-mauritania-railway/index.html](https://www.cnn.com/travel/article/honeymoon-mauritania-railway/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 11:08:23+00:00
- - tags: None
 
 When planning a honeymoon, many couples go for obvious destinations like Paris, the city of love, or the Maldives, with its stunning azure waters.
 
@@ -317,7 +278,6 @@ When planning a honeymoon, many couples go for obvious destinations like Paris, 
  - [https://www.cnn.com/2022/09/30/business-food/lindt-lidl-chocolate-bunnies-court-intl-scli/index.html](https://www.cnn.com/2022/09/30/business-food/lindt-lidl-chocolate-bunnies-court-intl-scli/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 10:56:28+00:00
- - tags: None
 
 Lindt & Spruengli's foil-wrapped chocolate bunnies deserve protection from copycat products, Switzerland's highest court ruled on Thursday, and ordered German discounter Lidl to stop selling a similar product in Switzerland and to destroy its remaining stock.
 
@@ -325,7 +285,6 @@ Lindt & Spruengli's foil-wrapped chocolate bunnies deserve protection from copyc
  - [https://www.cnn.com/2022/09/30/africa/booker-prize-nominee-dangarembga-convicted-intl/index.html](https://www.cnn.com/2022/09/30/africa/booker-prize-nominee-dangarembga-convicted-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 10:34:08+00:00
- - tags: None
 
 Award-winning Zimbabwean author Tsitsi Dangarembga has been found guilty of staging a protest with the intent of inciting public violence, a court in the capital Harare ruled Thursday.
 
@@ -333,7 +292,6 @@ Award-winning Zimbabwean author Tsitsi Dangarembga has been found guilty of stag
  - [https://www.cnn.com/style/article/met-gala-2023-theme-karl-lagerfeld/index.html](https://www.cnn.com/style/article/met-gala-2023-theme-karl-lagerfeld/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 10:23:36+00:00
- - tags: None
 
 Organizers of the annual Met Gala, one of fashion's biggest nights, have announced next year's theme: celebrating the work of the late Karl Lagerfeld.
 
@@ -341,7 +299,6 @@ Organizers of the annual Met Gala, one of fashion's biggest nights, have announc
  - [https://www.cnn.com/2022/09/30/business/king-charles-iii-coin-effigy-intl-scli-gbr/index.html](https://www.cnn.com/2022/09/30/business/king-charles-iii-coin-effigy-intl-scli-gbr/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 10:02:51+00:00
- - tags: None
 
 The portrait of King Charles III that will feature on British coins has been unveiled by the Royal Mint, the official maker of UK coins.
 
@@ -349,7 +306,6 @@ The portrait of King Charles III that will feature on British coins has been unv
  - [https://www.cnn.com/2022/09/30/sport/gavin-escobar-dead-nfl-cowboys-spt-intl/index.html](https://www.cnn.com/2022/09/30/sport/gavin-escobar-dead-nfl-cowboys-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 09:45:41+00:00
- - tags: None
 
 Former Dallas Cowboys tight end Gavin Escobar was one of two climbers who died after an apparent accident in California, officials announced on Wednesday. Escobar was 31 years old.
 
@@ -357,7 +313,6 @@ Former Dallas Cowboys tight end Gavin Escobar was one of two climbers who died a
  - [https://www.cnn.com/2022/09/30/politics/ketanji-brown-jackson-supreme-court/index.html](https://www.cnn.com/2022/09/30/politics/ketanji-brown-jackson-supreme-court/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 09:00:26+00:00
- - tags: None
 
 Supreme Court Justice Ketanji Brown Jackson has joined an institution of isolated chambers and archaic procedures. It is also a place that has lost the public's trust. So, as she navigates the cloistered corridors, she'll also have to watch her footing in the ongoing debate over the institution's legitimacy.
 
@@ -365,7 +320,6 @@ Supreme Court Justice Ketanji Brown Jackson has joined an institution of isolate
  - [https://www.cnn.com/2022/09/30/politics/house-government-funding-vote/index.html](https://www.cnn.com/2022/09/30/politics/house-government-funding-vote/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 09:00:08+00:00
- - tags: None
 
 The House of Representatives is expected to vote Friday to approve a stop-gap bill to fund the government through December 16 and avert a shutdown at the end of the week.
 
@@ -373,7 +327,6 @@ The House of Representatives is expected to vote Friday to approve a stop-gap bi
  - [https://www.cnn.com/videos/world/2022/09/30/putin-rare-admission-mobilization-sot-ovn-intl-hnk-vpx.cnn](https://www.cnn.com/videos/world/2022/09/30/putin-rare-admission-mobilization-sot-ovn-intl-hnk-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 08:49:03+00:00
- - tags: None
 
 In a rare admission, Russian President Vladimir Putin said mistakes were made while selecting the 300,000 men eligible to be called up during the current mobilization. CNN's National Security Analyst David Sanger joins John Vause to discuss.
 
@@ -381,7 +334,6 @@ In a rare admission, Russian President Vladimir Putin said mistakes were made wh
  - [https://www.cnn.com/videos/media/2022/09/30/china-xi-coup-rumors-ripley-pkg-ovn-intl-hnk-vpx.cnn](https://www.cnn.com/videos/media/2022/09/30/china-xi-coup-rumors-ripley-pkg-ovn-intl-hnk-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 08:36:52+00:00
- - tags: None
 
 When Chinese leader Xi Jinping vanished from public view after an overseas visit, unfounded rumors of a "coup" sparked a frenzy of speculation ahead of a key Communist Party meeting. As Xi reemerged on Chinese state media, the online frenzy was quashed. CNN's Will Ripley looks into where these rumors started.
 
@@ -389,7 +341,6 @@ When Chinese leader Xi Jinping vanished from public view after an overseas visit
  - [https://www.cnn.com/style/article/kanye-west-ye-socks-sandals-diamante-ltw/index.html](https://www.cnn.com/style/article/kanye-west-ye-socks-sandals-diamante-ltw/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 08:21:36+00:00
- - tags: None
 
 Fashion forward to some, and a faux pas to others, wearing socks with sandals has been a sartorial boundary that many celebrities have transgressed.
 
@@ -397,7 +348,6 @@ Fashion forward to some, and a faux pas to others, wearing socks with sandals ha
  - [https://www.cnn.com/2022/09/30/sport/tampa-bay-buccaneers-hurricane-ian-relief-spt-intl/index.html](https://www.cnn.com/2022/09/30/sport/tampa-bay-buccaneers-hurricane-ian-relief-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 07:51:52+00:00
- - tags: None
 
 Tampa Bay Buccaneers quarterback Tom Brady and the team's owners, the Glazer family, both announced on Thursday that they will make donations towards Hurricane Ian relief efforts.
 
@@ -405,7 +355,6 @@ Tampa Bay Buccaneers quarterback Tom Brady and the team's owners, the Glazer fam
  - [https://www.cnn.com/europe/live-news/russia-ukraine-war-news-09-30-22/index.html](https://www.cnn.com/europe/live-news/russia-ukraine-war-news-09-30-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 07:48:32+00:00
- - tags: None
 
 
 
@@ -413,7 +362,6 @@ Tampa Bay Buccaneers quarterback Tom Brady and the team's owners, the Glazer fam
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-09-30-22/index.html](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-09-30-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 07:27:17.730825+00:00
- - tags: None
 
 
 
@@ -421,7 +369,6 @@ Tampa Bay Buccaneers quarterback Tom Brady and the team's owners, the Glazer fam
  - [https://edition.cnn.com/us/live-news/hurricane-ian-florida-updates-09-30-22/index.html](https://edition.cnn.com/us/live-news/hurricane-ian-florida-updates-09-30-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 06:27:17.532115+00:00
- - tags: None
 
 
 
@@ -429,7 +376,6 @@ Tampa Bay Buccaneers quarterback Tom Brady and the team's owners, the Glazer fam
  - [https://edition.cnn.com/webview/us/live-news/hurricane-ian-florida-updates-09-30-22/index.html](https://edition.cnn.com/webview/us/live-news/hurricane-ian-florida-updates-09-30-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 06:27:17.455993+00:00
- - tags: None
 
 
 
@@ -437,7 +383,6 @@ Tampa Bay Buccaneers quarterback Tom Brady and the team's owners, the Glazer fam
  - [https://www.cnn.com/2022/09/30/investing/asian-stocks-worst-month-since-pandemic-intl-hnk/index.html](https://www.cnn.com/2022/09/30/investing/asian-stocks-worst-month-since-pandemic-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 06:23:01+00:00
- - tags: None
 
 Asian markets are careening toward their worst month since the Covid pandemic began, hit by a mighty US dollar and rising global recession fears.
 
@@ -445,7 +390,6 @@ Asian markets are careening toward their worst month since the Covid pandemic be
  - [https://www.cnn.com/collections/int-0930-hurricane/](https://www.cnn.com/collections/int-0930-hurricane/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 06:21:24+00:00
- - tags: None
 
 
 
@@ -453,7 +397,6 @@ Asian markets are careening toward their worst month since the Covid pandemic be
  - [https://www.cnn.com/2022/09/30/europe/ukraine-offensive-sviatogirsk-intl/index.html](https://www.cnn.com/2022/09/30/europe/ukraine-offensive-sviatogirsk-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 06:12:20+00:00
- - tags: None
 
 • LIVE: Annexation agreements to be signed
 • Analysis: Putin's new land grab is dangerous for Ukraine -- and the world
@@ -462,7 +405,6 @@ Asian markets are careening toward their worst month since the Covid pandemic be
  - [https://www.cnn.com/2022/09/30/weather/hurricane-south-carolina-path-florida-aftermath-friday/index.html](https://www.cnn.com/2022/09/30/weather/hurricane-south-carolina-path-florida-aftermath-friday/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 05:40:18+00:00
- - tags: None
 
 As Florida contends with the ruinous damage left behind by Hurricane Ian in what officials say is likely the largest natural disaster in the state's history, residents in South Carolina are bracing for the storm's expected landfall mid-day Friday.
 
@@ -470,7 +412,6 @@ As Florida contends with the ruinous damage left behind by Hurricane Ian in what
  - [https://www.cnn.com/2022/09/30/asia/kabul-explosion-education-center-intl-hnk/index.html](https://www.cnn.com/2022/09/30/asia/kabul-explosion-education-center-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 05:21:44+00:00
- - tags: None
 
 Casualties have been reported in Afghanistan's capital Kabul following an explosion at an educational center, the city's police said.
 
@@ -478,7 +419,6 @@ Casualties have been reported in Afghanistan's capital Kabul following an explos
  - [https://www.cnn.com/travel/article/chinese-travelers-to-us-gun-violence-intl-hnk-mic/index.html](https://www.cnn.com/travel/article/chinese-travelers-to-us-gun-violence-intl-hnk-mic/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 05:02:14+00:00
- - tags: None
 
 Cannon Yu lives in Shantou, Guangdong province.
 
@@ -486,7 +426,6 @@ Cannon Yu lives in Shantou, Guangdong province.
  - [https://www.cnn.com/collections/int-0930-ukraine/](https://www.cnn.com/collections/int-0930-ukraine/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 04:57:23+00:00
- - tags: None
 
 
 
@@ -494,7 +433,6 @@ Cannon Yu lives in Shantou, Guangdong province.
  - [https://www.cnn.com/2022/09/30/politics/putin-annexation-dangerous-for-the-world-analysis/index.html](https://www.cnn.com/2022/09/30/politics/putin-annexation-dangerous-for-the-world-analysis/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 04:09:18+00:00
- - tags: None
 
 Russia's new land grab in Ukraine is an act of geopolitical piracy that will make the war more dangerous, add new risk to the West's strategic calculations and deal a long-term challenge to the international rule of law.
 
@@ -502,7 +440,6 @@ Russia's new land grab in Ukraine is an act of geopolitical piracy that will mak
  - [https://www.cnn.com/videos/health/2022/09/28/mercury-skin-whitening-products-risks-as-equals-lon-orig.cnn](https://www.cnn.com/videos/health/2022/09/28/mercury-skin-whitening-products-risks-as-equals-lon-orig.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 04:02:08+00:00
- - tags: None
 
 CNN explains how high levels of mercury found in some skin whitening creams can affect the body of people using them and put entire households at risk by contaminating their homes.
 
@@ -510,7 +447,6 @@ CNN explains how high levels of mercury found in some skin whitening creams can 
  - [https://www.cnn.com/2022/09/29/tech/california-tech-abortion-warrant-ban/index.html](https://www.cnn.com/2022/09/29/tech/california-tech-abortion-warrant-ban/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 03:31:19+00:00
- - tags: None
 
 California is attempting to stymie abortion prosecutions in other states by making it illegal for Silicon Valley giants and other businesses based in the Golden State to hand over the personal information of abortion-seekers to out-of-state authorities.
 
@@ -518,7 +454,6 @@ California is attempting to stymie abortion prosecutions in other states by maki
  - [https://www.cnn.com/2022/09/29/politics/jareh-sebastian-dalke-nsa-espionage-sell-secrets-charged/index.html](https://www.cnn.com/2022/09/29/politics/jareh-sebastian-dalke-nsa-espionage-sell-secrets-charged/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 03:15:09+00:00
- - tags: None
 
 A former employee of the National Security Agency was arrested Wednesday on espionage-related charges for allegedly trying to sell US secrets, the Justice Department announced.
 
@@ -526,7 +461,6 @@ A former employee of the National Security Agency was arrested Wednesday on espi
  - [https://www.cnn.com/2022/09/29/entertainment/trevor-noah-daily-show/index.html](https://www.cnn.com/2022/09/29/entertainment/trevor-noah-daily-show/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 03:14:00+00:00
- - tags: None
 
 "The Daily Show" host Trevor Noah has announced on he will step away from the anchor desk.
 
@@ -534,7 +468,6 @@ A former employee of the National Security Agency was arrested Wednesday on espi
  - [https://www.cnn.com/collections/int-0929-hurricane/](https://www.cnn.com/collections/int-0929-hurricane/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 03:12:06+00:00
- - tags: None
 
 
 
@@ -542,7 +475,6 @@ A former employee of the National Security Agency was arrested Wednesday on espi
  - [https://www.cnn.com/videos/entertainment/2015/09/29/daily-show-trevor-noah-first-episode-orig-pkg-jnd.cnn](https://www.cnn.com/videos/entertainment/2015/09/29/daily-show-trevor-noah-first-episode-orig-pkg-jnd.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 03:08:52+00:00
- - tags: None
 
 After 16 seasons, Trevor Noah replaced Jon Stewart as the host of Comedy Central's "The Daily Show." In the first episode, Noah discussed Pope emojis and John Boehner.
 
@@ -550,7 +482,6 @@ After 16 seasons, Trevor Noah replaced Jon Stewart as the host of Comedy Central
  - [https://www.cnn.com/2022/09/29/health/ohio-monkeypox-death-cdc/index.html](https://www.cnn.com/2022/09/29/health/ohio-monkeypox-death-cdc/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 02:50:20+00:00
- - tags: None
 
 The US Centers for Disease Control and Prevention issued a new warning to health care providers Thursday about severe illnesses in people with monkeypox.
 
@@ -558,7 +489,6 @@ The US Centers for Disease Control and Prevention issued a new warning to health
  - [https://www.cnn.com/2022/09/29/sport/tua-tagovailoa-miami-dolphins-injuries-intl-hnk-spt/index.html](https://www.cnn.com/2022/09/29/sport/tua-tagovailoa-miami-dolphins-injuries-intl-hnk-spt/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 02:36:46+00:00
- - tags: None
 
 The Miami Dolphins quarterback Tua Tagovailoa was taken off the field on a stretcher on Thursday during a game against the Cincinnati Bengals, after suffering apparent head and neck injuries.
 
@@ -566,7 +496,6 @@ The Miami Dolphins quarterback Tua Tagovailoa was taken off the field on a stret
  - [https://www.cnn.com/videos/weather/2022/09/30/fort-myers-hurricane-ian-aftermath-kaye-ac360-vpx.cnn](https://www.cnn.com/videos/weather/2022/09/30/fort-myers-hurricane-ian-aftermath-kaye-ac360-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 02:33:09+00:00
- - tags: None
 
 CNN's Randi Kaye shows the devastating aftermath of Hurricane Ian in Fort Myers, Florida.
 
@@ -574,7 +503,6 @@ CNN's Randi Kaye shows the devastating aftermath of Hurricane Ian in Fort Myers,
  - [https://www.cnn.com/2022/09/29/politics/boris-epshteyn-testimony-georgia-grand-jury-election-interference-trump/index.html](https://www.cnn.com/2022/09/29/politics/boris-epshteyn-testimony-georgia-grand-jury-election-interference-trump/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 02:01:27+00:00
- - tags: None
 
 Boris Epshteyn, an attorney and adviser to former President Donald Trump, testified before a Georgia grand jury investigating efforts to overturn the 2020 election, according to two people familiar with the matter.
 
@@ -582,7 +510,6 @@ Boris Epshteyn, an attorney and adviser to former President Donald Trump, testif
  - [https://www.cnn.com/2022/09/29/politics/michelle-kwan-us-belize-ambassador/index.html](https://www.cnn.com/2022/09/29/politics/michelle-kwan-us-belize-ambassador/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 01:53:29+00:00
- - tags: None
 
 The Senate on Thursday confirmed Michelle Kwan, a former Olympic figure skater and longtime Democratic activist, to serve as ambassador to Belize.
 
@@ -590,7 +517,6 @@ The Senate on Thursday confirmed Michelle Kwan, a former Olympic figure skater a
  - [https://www.cnn.com/style/article/pakistan-floods-bamboo-shelters-climate-intl-hnk/index.html](https://www.cnn.com/style/article/pakistan-floods-bamboo-shelters-climate-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 01:50:11+00:00
- - tags: None
 
 Pakistan's "never-before-seen" floods have affected 33 million people, many of whom are still seeking safe refuge after record monsoon rains damaged or destroyed more than a million homes. The summer's catastrophic flooding, which was exacerbated by melting glaciers, has submerged one-third of the country, with authorities saying it could take up to six months for the water to recede.
 
@@ -598,7 +524,6 @@ Pakistan's "never-before-seen" floods have affected 33 million people, many of w
  - [https://www.cnn.com/travel/article/maldives-most-sustainable-resorts/index.html](https://www.cnn.com/travel/article/maldives-most-sustainable-resorts/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 01:32:29+00:00
- - tags: None
 
 As the lowest-lying nation in the world -- with much of it sitting just a few feet above sea level -- the nearly 1,200 Indian Ocean islands scattered across the Maldives' sun-soaked atolls are famed not just for their magazine-cover-ready beaches and bungalows, but for their increasing vulnerability to rising sea levels.
 
@@ -606,7 +531,6 @@ As the lowest-lying nation in the world -- with much of it sitting just a few fe
  - [https://www.cnn.com/videos/us/2022/09/30/hurricane-ian-devastation-lee-county-berman-ac360-sot-vpx.cnn](https://www.cnn.com/videos/us/2022/09/30/hurricane-ian-devastation-lee-county-berman-ac360-sot-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 00:27:29+00:00
- - tags: None
 
 CNN's John Berman flies above the destruction left behind by Hurricane Ian in Lee County, Florida.
 
@@ -614,7 +538,6 @@ CNN's John Berman flies above the destruction left behind by Hurricane Ian in Le
  - [https://www.cnn.com/2022/09/29/politics/biden-student-loan-forgiveness-plan-lawsuit/index.html](https://www.cnn.com/2022/09/29/politics/biden-student-loan-forgiveness-plan-lawsuit/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 00:24:11+00:00
- - tags: None
 
 The Biden administration scaled back eligibility for its student loan forgiveness plan Thursday, the same day six Republican-led states sued President Joe Biden in an effort to block his student loan forgiveness plan from taking effect.
 
@@ -622,6 +545,5 @@ The Biden administration scaled back eligibility for its student loan forgivenes
  - [https://www.cnn.com/2022/09/29/politics/pentagon-new-command-arming-training-ukraine/index.html](https://www.cnn.com/2022/09/29/politics/pentagon-new-command-arming-training-ukraine/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-30 00:17:20+00:00
- - tags: None
 
 The Pentagon is working to form a new command to coordinate arming and training Ukraine, according to two US officials, in an effort to streamline what was a largely ad hoc process rapidly created in the wake of Russia's invasion.

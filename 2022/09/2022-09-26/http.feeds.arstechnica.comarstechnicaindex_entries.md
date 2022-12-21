@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## DART goes silent after hitting an asteroid
  - [https://arstechnica.com/?p=1884719](https://arstechnica.com/?p=1884719)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-26 23:17:27+00:00
- - tags: None
 
 Details of the impact aren't yet here, but the probe's last image indicates success.
 
@@ -12,7 +11,6 @@ Details of the impact aren't yet here, but the probe's last image indicates succ
  - [https://arstechnica.com/?p=1884675](https://arstechnica.com/?p=1884675)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-26 22:06:53+00:00
- - tags: None
 
 LinkedIn relied on its user agreement to gain consent to research millions of users.
 
@@ -20,7 +18,6 @@ LinkedIn relied on its user agreement to gain consent to research millions of us
  - [https://arstechnica.com/?p=1884570](https://arstechnica.com/?p=1884570)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-26 20:51:57+00:00
- - tags: None
 
 A little fix for CPUs that didn't properly sleep had decades-long consequences.
 
@@ -28,7 +25,6 @@ A little fix for CPUs that didn't properly sleep had decades-long consequences.
  - [https://arstechnica.com/?p=1884596](https://arstechnica.com/?p=1884596)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-26 19:50:33+00:00
- - tags: None
 
 Google exec objects as EU mulls whether tech giants should fund telecom networks.
 
@@ -36,7 +32,6 @@ Google exec objects as EU mulls whether tech giants should fund telecom networks
  - [https://arstechnica.com/?p=1884572](https://arstechnica.com/?p=1884572)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-26 19:28:49+00:00
- - tags: None
 
 Reading between the lines about what post-COVID E3 will look like.
 
@@ -44,7 +39,6 @@ Reading between the lines about what post-COVID E3 will look like.
  - [https://arstechnica.com/?p=1884593](https://arstechnica.com/?p=1884593)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-26 19:14:57+00:00
- - tags: None
 
 Distributed denial-of-service attacks are also likely to increase, advisory says.
 
@@ -52,7 +46,6 @@ Distributed denial-of-service attacks are also likely to increase, advisory says
  - [https://arstechnica.com/?p=1884390](https://arstechnica.com/?p=1884390)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-26 19:05:43+00:00
- - tags: None
 
 Beyond lithium: Report weighs strengths, weaknesses of alternative battery types
 
@@ -60,7 +53,6 @@ Beyond lithium: Report weighs strengths, weaknesses of alternative battery types
  - [https://arstechnica.com/?p=1884533](https://arstechnica.com/?p=1884533)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-26 17:36:35+00:00
- - tags: None
 
 Negotiations could still go on for months as security risks are weighed.
 
@@ -68,7 +60,6 @@ Negotiations could still go on for months as security risks are weighed.
  - [https://arstechnica.com/?p=1884492](https://arstechnica.com/?p=1884492)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-26 17:10:32+00:00
- - tags: None
 
 Shortly after 7 pm US Eastern, the DART spacecraft will smack an asteroid.
 
@@ -76,7 +67,6 @@ Shortly after 7 pm US Eastern, the DART spacecraft will smack an asteroid.
  - [https://arstechnica.com/?p=1884028](https://arstechnica.com/?p=1884028)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-26 17:06:07+00:00
- - tags: None
 
 Hayabusa2 returned to Earth with soil samples from the asteroid in December 2020
 
@@ -84,7 +74,6 @@ Hayabusa2 returned to Earth with soil samples from the asteroid in December 2020
  - [https://arstechnica.com/?p=1884438](https://arstechnica.com/?p=1884438)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-26 16:27:43+00:00
- - tags: None
 
 Punchy creator of Luna and Terra coins sought in $40 billion currency collapse.
 
@@ -92,7 +81,6 @@ Punchy creator of Luna and Terra coins sought in $40 billion currency collapse.
  - [https://arstechnica.com/?p=1884453](https://arstechnica.com/?p=1884453)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-26 15:58:54+00:00
- - tags: None
 
 "The decision allows time for employees to address the needs of their families."
 
@@ -100,7 +88,6 @@ Punchy creator of Luna and Terra coins sought in $40 billion currency collapse.
  - [https://arstechnica.com/?p=1884407](https://arstechnica.com/?p=1884407)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-26 15:21:43+00:00
- - tags: None
 
 Using Respeecher, Lord Vader will live on as a digital voice generated by voice synthesis.
 
@@ -108,7 +95,6 @@ Using Respeecher, Lord Vader will live on as a digital voice generated by voice 
  - [https://arstechnica.com/?p=1884473](https://arstechnica.com/?p=1884473)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-26 15:20:20+00:00
- - tags: None
 
 Starllink terminals need to actually make it into Iran for users to benefit.
 
@@ -116,7 +102,6 @@ Starllink terminals need to actually make it into Iran for users to benefit.
  - [https://arstechnica.com/?p=1882539](https://arstechnica.com/?p=1882539)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-26 13:00:24+00:00
- - tags: None
 
 Thermal behavior is a bit odd, but there's lots to like about these new CPUs.
 
@@ -124,6 +109,5 @@ Thermal behavior is a bit odd, but there's lots to like about these new CPUs.
  - [https://arstechnica.com/?p=1877127](https://arstechnica.com/?p=1877127)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-26 13:00:13+00:00
- - tags: None
 
 Ryzen 7000 CPUs use a new platform—with plenty of changes.

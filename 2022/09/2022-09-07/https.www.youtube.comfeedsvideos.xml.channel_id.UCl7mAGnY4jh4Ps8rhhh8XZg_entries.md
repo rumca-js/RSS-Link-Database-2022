@@ -1,10 +1,9 @@
-# Source Serpentza, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCl7mAGnY4jh4Ps8rhhh8XZg
+# Source Serpentza, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCl7mAGnY4jh4Ps8rhhh8XZg, Source language: en-US
 
 ## Why China Can't make Chips!
  - [https://www.youtube.com/watch?v=nKURE05_RPI](https://www.youtube.com/watch?v=nKURE05_RPI)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCl7mAGnY4jh4Ps8rhhh8XZg
  - date published: 2022-09-07 14:15:02+00:00
- - tags: None
 
 Grab the most epic wallet in the world: https://shop.ekster.com/serpentza
 Use code: Serpentza on checkout for a massive discount

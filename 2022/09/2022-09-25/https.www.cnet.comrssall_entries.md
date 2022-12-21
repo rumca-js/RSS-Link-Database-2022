@@ -1,10 +1,9 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/
+# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
 
 ## The Absolute Best Horror Movies on Prime Video Right Now     - CNET
  - [https://www.cnet.com/culture/entertainment/best-horror-movies-prime-video-right-now/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/best-horror-movies-prime-video-right-now/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 23:44:00+00:00
- - tags: None
 
 Prime Video is the best place to go for scary movies.
 
@@ -12,7 +11,6 @@ Prime Video is the best place to go for scary movies.
  - [https://www.cnet.com/health/sleep/beat-the-sunday-scaries-6-ways-to-reduce-anxiety-and-sleep-well-tonight/#ftag=CADf328eec](https://www.cnet.com/health/sleep/beat-the-sunday-scaries-6-ways-to-reduce-anxiety-and-sleep-well-tonight/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 23:10:02+00:00
- - tags: None
 
 If you're dreading the start of your week, here's what to do.
 
@@ -20,7 +18,6 @@ If you're dreading the start of your week, here's what to do.
  - [https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-5-recap-got-weddings-never-go-well/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-5-recap-got-weddings-never-go-well/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 23:02:00+00:00
- - tags: None
 
 Rhaenyra Targaryen has spent years avoiding matrimony, but it's a royal duty she can avoid no longer.
 
@@ -28,7 +25,6 @@ Rhaenyra Targaryen has spent years avoiding matrimony, but it's a royal duty she
  - [https://www.cnet.com/culture/entertainment/when-is-milly-alcocks-final-house-of-the-dragon-episode-as-rhaenyra/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/when-is-milly-alcocks-final-house-of-the-dragon-episode-as-rhaenyra/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 22:49:00+00:00
- - tags: None
 
 Milly Alcock has been one of the best parts of House of the Dragon.
 
@@ -36,7 +32,6 @@ Milly Alcock has been one of the best parts of House of the Dragon.
  - [https://www.cnet.com/culture/entertainment/the-best-fantasy-tv-shows-on-netflix-right-now/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-best-fantasy-tv-shows-on-netflix-right-now/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 22:45:00+00:00
- - tags: None
 
 Netflix has a lot of world class fantasy on the service. Here are our favourites...
 
@@ -44,7 +39,6 @@ Netflix has a lot of world class fantasy on the service. Here are our favourites
  - [https://www.cnet.com/culture/entertainment/when-is-the-rings-of-power-episode-6-released-in-your-timezone/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/when-is-the-rings-of-power-episode-6-released-in-your-timezone/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 22:22:00+00:00
- - tags: None
 
 Here's when the next episode drops.
 
@@ -52,7 +46,6 @@ Here's when the next episode drops.
  - [https://www.cnet.com/culture/entertainment/more-people-should-watch-the-best-documentary-series-on-netflix/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/more-people-should-watch-the-best-documentary-series-on-netflix/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 22:05:00+00:00
- - tags: None
 
 Netflix has some incredible documentaries, but this one is our favorite.
 
@@ -60,7 +53,6 @@ Netflix has some incredible documentaries, but this one is our favorite.
  - [https://www.cnet.com/culture/entertainment/andor-actors-reveal-why-star-wars-needed-this-gritty-human-disney-plus-series/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/andor-actors-reveal-why-star-wars-needed-this-gritty-human-disney-plus-series/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 22:00:07+00:00
- - tags: None
 
 The show dives into "sides of the Empire and the rebellion that we haven't seen before," Kyle Soller tells CNET.
 
@@ -68,7 +60,6 @@ The show dives into "sides of the Empire and the rebellion that we haven't seen 
  - [https://www.cnet.com/health/medical/best-medical-alerts/#ftag=CADf328eec](https://www.cnet.com/health/medical/best-medical-alerts/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 22:00:03+00:00
- - tags: None
 
 Picking a device that could potentially save your life is a tough decision. Our guide breaks down which medical alert device you should buy and why.
 
@@ -76,7 +67,6 @@ Picking a device that could potentially save your life is a tough decision. Our 
  - [https://www.cnet.com/culture/entertainment/james-earl-jones-signals-retirement-from-darth-vader/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/james-earl-jones-signals-retirement-from-darth-vader/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 21:52:00+00:00
- - tags: None
 
 Disney and Lucasfilm are using AI to keep Jones' Vader voice alive.
 
@@ -84,7 +74,6 @@ Disney and Lucasfilm are using AI to keep Jones' Vader voice alive.
  - [https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-6-that-confusing-trailer-explained/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-6-that-confusing-trailer-explained/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 21:49:00+00:00
- - tags: None
 
 New cast members, a time jump, royal plotting. Let's break it down as Sunday night approaches.
 
@@ -92,7 +81,6 @@ New cast members, a time jump, royal plotting. Let's break it down as Sunday nig
  - [https://www.cnet.com/culture/entertainment/house-of-the-dragon-when-is-episode-6-released-in-your-time-zone/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/house-of-the-dragon-when-is-episode-6-released-in-your-time-zone/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 21:44:00+00:00
- - tags: None
 
 Rhaenyra Targaryen is now a married woman. Find out what happens next in HBO's Game of Thrones prequel on Sunday.
 
@@ -100,7 +88,6 @@ Rhaenyra Targaryen is now a married woman. Find out what happens next in HBO's G
  - [https://www.cnet.com/culture/entertainment/andor-episodes-1-2-and-3-recap-star-wars-rebel-origin-tale-kicks-off-with-a-bang/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/andor-episodes-1-2-and-3-recap-star-wars-rebel-origin-tale-kicks-off-with-a-bang/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 21:00:03+00:00
- - tags: None
 
 The Disney Plus show takes us into dark new parts of a galaxy far, far away as it reveals Cassian Andor's early days and rebellious ways.
 
@@ -108,7 +95,6 @@ The Disney Plus show takes us into dark new parts of a galaxy far, far away as i
  - [https://www.cnet.com/science/nasa-will-crash-the-dart-probe-into-an-asteroid-on-monday-what-to-know/#ftag=CADf328eec](https://www.cnet.com/science/nasa-will-crash-the-dart-probe-into-an-asteroid-on-monday-what-to-know/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 20:57:00+00:00
- - tags: None
 
 Could we defend the planet from a catastrophic collision by crashing a spacecraft into an asteroid? DART will help find out.
 
@@ -116,7 +102,6 @@ Could we defend the planet from a catastrophic collision by crashing a spacecraf
  - [https://www.cnet.com/culture/entertainment/rihanna-to-perform-in-2023-super-bowl-halftime-show/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/rihanna-to-perform-in-2023-super-bowl-halftime-show/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 20:05:32+00:00
- - tags: None
 
 Announcement comes just days after Apple Music was announced as the show's new sponsor.
 
@@ -124,7 +109,6 @@ Announcement comes just days after Apple Music was announced as the show's new s
  - [https://www.cnet.com/culture/entertainment/the-mandalorian-season-3-trailer-release-date-what-to-know-about-baby-yoda-future/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-mandalorian-season-3-trailer-release-date-what-to-know-about-baby-yoda-future/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 20:00:00+00:00
- - tags: None
 
 The third season of the Disney Plus series is scheduled to kick off in February 2023.
 
@@ -132,7 +116,6 @@ The third season of the Disney Plus series is scheduled to kick off in February 
  - [https://www.cnet.com/tech/services-and-software/why-windows-11s-big-2022-update-is-worth-downloading/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/why-windows-11s-big-2022-update-is-worth-downloading/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 19:56:00+00:00
- - tags: None
 
 From productivity tools to security features, there's a ton of things to explore in Microsoft's new update.
 
@@ -140,7 +123,6 @@ From productivity tools to security features, there's a ton of things to explore
  - [https://www.cnet.com/how-to/this-easy-ceiling-fan-hack-can-save-you-money-and-energy-when-its-cold-outside/#ftag=CADf328eec](https://www.cnet.com/how-to/this-easy-ceiling-fan-hack-can-save-you-money-and-energy-when-its-cold-outside/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 19:30:03+00:00
- - tags: None
 
 Say goodbye to high electric bills.
 
@@ -148,7 +130,6 @@ Say goodbye to high electric bills.
  - [https://www.cnet.com/deals/best-soundbar-deals/#ftag=CADf328eec](https://www.cnet.com/deals/best-soundbar-deals/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 19:30:00+00:00
- - tags: None
 
 Theater-quality sound that won't break the bank.
 
@@ -156,7 +137,6 @@ Theater-quality sound that won't break the bank.
  - [https://www.cnet.com/tech/services-and-software/now-that-ios-16-is-on-your-iphone-do-these-3-things-immediately/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/now-that-ios-16-is-on-your-iphone-do-these-3-things-immediately/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 19:20:00+00:00
- - tags: None
 
 Set up your iPhone correctly before you explore everything new in iOS 16.
 
@@ -164,7 +144,6 @@ Set up your iPhone correctly before you explore everything new in iOS 16.
  - [https://www.cnet.com/tech/gaming/how-marvels-mysterious-game-will-team-up-captain-america-and-black-panther/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/how-marvels-mysterious-game-will-team-up-captain-america-and-black-panther/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 19:18:20+00:00
- - tags: None
 
 Gaming legend Amy Hennig and story consultant Marc Bernadin reveal more about their untitled World War II-set action adventure and how it could revolutionize the gaming industry.
 
@@ -172,7 +151,6 @@ Gaming legend Amy Hennig and story consultant Marc Bernadin reveal more about th
  - [https://www.cnet.com/health/fitness/9-arm-exercises-to-do-if-you-want-sculpted-biceps-and-shoulders/#ftag=CADf328eec](https://www.cnet.com/health/fitness/9-arm-exercises-to-do-if-you-want-sculpted-biceps-and-shoulders/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 19:18:07+00:00
- - tags: None
 
 Trainer-approved workouts for stronger, more toned arms.
 
@@ -180,7 +158,6 @@ Trainer-approved workouts for stronger, more toned arms.
  - [https://www.cnet.com/health/fitness/best-exercise-bike/#ftag=CADf328eec](https://www.cnet.com/health/fitness/best-exercise-bike/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 18:30:00+00:00
- - tags: None
 
 If you're going to ride indoors, make sure you have the best bike for your needs.
 
@@ -188,7 +165,6 @@ If you're going to ride indoors, make sure you have the best bike for your needs
  - [https://www.cnet.com/deals/1-day-woot-sale-knocks-up-to-1198-off-select-sizes-of-samsungs-the-frame-4k-tvs/#ftag=CADf328eec](https://www.cnet.com/deals/1-day-woot-sale-knocks-up-to-1198-off-select-sizes-of-samsungs-the-frame-4k-tvs/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 18:26:03+00:00
- - tags: None
 
 Today only, Woot has a chance to pick up one of Samsung's newest The Frame TVs for hundreds off the usual price.
 
@@ -196,7 +172,6 @@ Today only, Woot has a chance to pick up one of Samsung's newest The Frame TVs f
  - [https://www.cnet.com/how-to/best-standing-desk-converter/#ftag=CADf328eec](https://www.cnet.com/how-to/best-standing-desk-converter/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 17:00:03+00:00
- - tags: None
 
 Your workstation doesn't need a complete overhaul to get you standing up for a healthier, happier you.
 
@@ -204,7 +179,6 @@ Your workstation doesn't need a complete overhaul to get you standing up for a h
  - [https://www.cnet.com/how-to/prep-your-solar-panels-for-ice-and-snow/#ftag=CADf328eec](https://www.cnet.com/how-to/prep-your-solar-panels-for-ice-and-snow/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 16:35:02+00:00
- - tags: None
 
 Here's how to care for your solar panels in the colder months.
 
@@ -212,7 +186,6 @@ Here's how to care for your solar panels in the colder months.
  - [https://www.cnet.com/personal-finance/t-mobile-350-million-data-breach-settlement-are-you-eligible-for-money/#ftag=CADf328eec](https://www.cnet.com/personal-finance/t-mobile-350-million-data-breach-settlement-are-you-eligible-for-money/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 16:34:50+00:00
- - tags: None
 
 A cyberattack affected nearly 80 million T-Mobile customers last year.
 
@@ -220,7 +193,6 @@ A cyberattack affected nearly 80 million T-Mobile customers last year.
  - [https://www.cnet.com/deals/upgrade-your-gaming-setup-with-50-off-these-govee-hexa-smart-lighting-panels/#ftag=CADf328eec](https://www.cnet.com/deals/upgrade-your-gaming-setup-with-50-off-these-govee-hexa-smart-lighting-panels/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 16:30:03+00:00
- - tags: None
 
 Best Buy has a seven-pack of adjustable Govee wall light panels on sale for $50 off the usual price. But hurry, this deal is only available for today.
 
@@ -228,7 +200,6 @@ Best Buy has a seven-pack of adjustable Govee wall light panels on sale for $50 
  - [https://www.cnet.com/tech/mobile/apple-ios-16-1-will-fix-our-biggest-iphone-battery-icon-complaints/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/apple-ios-16-1-will-fix-our-biggest-iphone-battery-icon-complaints/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 16:02:00+00:00
- - tags: None
 
 Apple may finally give us the battery icon we all wanted.
 
@@ -236,7 +207,6 @@ Apple may finally give us the battery icon we all wanted.
  - [https://www.cnet.com/tech/home-entertainment/watch-house-of-the-dragon-episode-6-the-right-way-on-your-tv/#ftag=CADf328eec](https://www.cnet.com/tech/home-entertainment/watch-house-of-the-dragon-episode-6-the-right-way-on-your-tv/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 16:00:02+00:00
- - tags: None
 
 Make sure your TV is ready to look its best when you take in The Princess and the Queen tonight on HBO Max.
 
@@ -244,7 +214,6 @@ Make sure your TV is ready to look its best when you take in The Princess and th
  - [https://www.cnet.com/tech/services-and-software/bengals-vs-jets-live-stream-how-to-watch-nfl-week-3-from-anywhere-in-the-us/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/bengals-vs-jets-live-stream-how-to-watch-nfl-week-3-from-anywhere-in-the-us/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 15:55:03+00:00
- - tags: None
 
 Looking to watch the Cincinnati Bengals against New York Jets? Here's everything you need to watch Sunday's 1 p.m. ET game that airs on CBS.
 
@@ -252,7 +221,6 @@ Looking to watch the Cincinnati Bengals against New York Jets? Here's everything
  - [https://www.cnet.com/tech/services-and-software/chiefs-vs-colts-live-stream-how-to-watch-nfl-week-3-from-anywhere-in-the-us/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/chiefs-vs-colts-live-stream-how-to-watch-nfl-week-3-from-anywhere-in-the-us/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 15:45:03+00:00
- - tags: None
 
 Looking to watch the Kansas City Chiefs take on the Indianapolis Colts? Here's everything you need to watch Sunday's 1 p.m. ET game that airs on CBS.
 
@@ -260,7 +228,6 @@ Looking to watch the Kansas City Chiefs take on the Indianapolis Colts? Here's e
  - [https://www.cnet.com/tech/services-and-software/stop-using-your-iphones-noisy-keyboard-theres-a-better-option-in-ios-16/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/stop-using-your-iphones-noisy-keyboard-theres-a-better-option-in-ios-16/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 15:41:41+00:00
- - tags: None
 
 There's now a silent, more satisfying way to type on your iPhone.
 
@@ -268,7 +235,6 @@ There's now a silent, more satisfying way to type on your iPhone.
  - [https://www.cnet.com/tech/services-and-software/bills-vs-dolphins-live-stream-how-to-watch-nfl-week-3-from-anywhere-in-the-us/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/bills-vs-dolphins-live-stream-how-to-watch-nfl-week-3-from-anywhere-in-the-us/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 15:35:03+00:00
- - tags: None
 
 Looking to watch the Miami Dolphins take on the Buffalo Bills? Here's everything you need to watch Sunday's 1 p.m. ET game that airs on CBS.
 
@@ -276,7 +242,6 @@ Looking to watch the Miami Dolphins take on the Buffalo Bills? Here's everything
  - [https://www.cnet.com/personal-finance/credit-cards/to-pay-off-your-credit-card-debt-you-gotta-make-more-than-the-minimum-payment/#ftag=CADf328eec](https://www.cnet.com/personal-finance/credit-cards/to-pay-off-your-credit-card-debt-you-gotta-make-more-than-the-minimum-payment/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 15:30:02+00:00
- - tags: None
 
 If you've got significant credit card debt, you need a plan that helps you dig out of the hole.
 
@@ -284,7 +249,6 @@ If you've got significant credit card debt, you need a plan that helps you dig o
  - [https://www.cnet.com/culture/entertainment/hbo-max-the-33-absolute-best-tv-shows-to-watch-in-september/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/hbo-max-the-33-absolute-best-tv-shows-to-watch-in-september/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 15:01:01+00:00
- - tags: None
 
 Stream great comedy series like Hacks and The White Lotus.
 
@@ -292,7 +256,6 @@ Stream great comedy series like Hacks and The White Lotus.
  - [https://www.cnet.com/tech/services-and-software/nfl-week-3-how-to-watch-49ers-vs-broncos-redzone-and-more-without-cable/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/nfl-week-3-how-to-watch-49ers-vs-broncos-redzone-and-more-without-cable/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 15:00:03+00:00
- - tags: None
 
 The NFL season continues with another packed slate of games on Sunday.
 
@@ -300,7 +263,6 @@ The NFL season continues with another packed slate of games on Sunday.
  - [https://www.cnet.com/deals/1-day-woot-deal-saves-you-340-on-a-2020-imac/#ftag=CADf328eec](https://www.cnet.com/deals/1-day-woot-deal-saves-you-340-on-a-2020-imac/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 15:00:00+00:00
- - tags: None
 
 Pick up a 21.5-inch Apple desktop for just $960 today only at Woot.
 
@@ -308,7 +270,6 @@ Pick up a 21.5-inch Apple desktop for just $960 today only at Woot.
  - [https://www.cnet.com/culture/entertainment/the-bachelorette-finale-a-bizarre-explosive-ending-for-tino-rachel/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-bachelorette-finale-a-bizarre-explosive-ending-for-tino-rachel/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 14:46:00+00:00
- - tags: None
 
 Meanwhile, Gabby and her guy, Erich, appear to be faring far better. Let's relive the world longest finale.
 
@@ -316,7 +277,6 @@ Meanwhile, Gabby and her guy, Erich, appear to be faring far better. Let's reliv
  - [https://www.cnet.com/culture/entertainment/hbo-max-10-horror-movies-to-watch-this-spooky-season/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/hbo-max-10-horror-movies-to-watch-this-spooky-season/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 14:43:10+00:00
- - tags: None
 
 Make it scary movie night with one of these flicks.
 
@@ -324,7 +284,6 @@ Make it scary movie night with one of these flicks.
  - [https://www.cnet.com/culture/entertainment/prime-video-the-29-absolute-best-movies-to-stream/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/prime-video-the-29-absolute-best-movies-to-stream/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 14:37:30+00:00
- - tags: None
 
 The 2022 buddy comedy Dog is now streaming.
 
@@ -332,7 +291,6 @@ The 2022 buddy comedy Dog is now streaming.
  - [https://www.cnet.com/culture/entertainment/prime-video-the-34-absolute-best-tv-shows-to-stream/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/prime-video-the-34-absolute-best-tv-shows-to-stream/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 14:26:00+00:00
- - tags: None
 
 Prime Video is home to great superhero series like The Boys and Invincible.
 
@@ -340,7 +298,6 @@ Prime Video is home to great superhero series like The Boys and Invincible.
  - [https://www.cnet.com/tech/services-and-software/download-windows-11s-2022-update-youre-missing-out-if-you-dont/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/download-windows-11s-2022-update-youre-missing-out-if-you-dont/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 14:14:00+00:00
- - tags: None
 
 The new productivity features alone are a good reason to install the update.
 
@@ -348,7 +305,6 @@ The new productivity features alone are a good reason to install the update.
  - [https://www.cnet.com/health/medical/knowing-your-blood-type-is-essential-3-ways-to-find-out-yours/#ftag=CADf328eec](https://www.cnet.com/health/medical/knowing-your-blood-type-is-essential-3-ways-to-find-out-yours/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 13:54:50+00:00
- - tags: None
 
 Blood type is categorized into eight groups. Which one do you fall into?
 
@@ -356,7 +312,6 @@ Blood type is categorized into eight groups. Which one do you fall into?
  - [https://www.cnet.com/science/space/watch-live-nasa-dart-spacecraft-crashes-into-asteroid-dimorphos/#ftag=CADf328eec](https://www.cnet.com/science/space/watch-live-nasa-dart-spacecraft-crashes-into-asteroid-dimorphos/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 12:00:10+00:00
- - tags: None
 
 After 306 days, DART's mission will come to an end when it slams into the asteroid Dimorphos.
 
@@ -364,7 +319,6 @@ After 306 days, DART's mission will come to an end when it slams into the astero
  - [https://www.cnet.com/videos/tesla-ai-day-2022-rumors-elon-musk-ai-plans-tesla-bot-and-driverless-cars/#ftag=CADf328eec](https://www.cnet.com/videos/tesla-ai-day-2022-rumors-elon-musk-ai-plans-tesla-bot-and-driverless-cars/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 12:00:01+00:00
- - tags: None
 
 Alongside advances in "full self-driving" cars and the Dojo AI platform, Musk has hinted this year's event could have a working Optimus robot prototype.
 
@@ -372,7 +326,6 @@ Alongside advances in "full self-driving" cars and the Dojo AI platform, Musk ha
  - [https://www.cnet.com/culture/entertainment/house-of-the-dragon-when-episode-6-drops-in-your-time-zone/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/house-of-the-dragon-when-episode-6-drops-in-your-time-zone/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 12:00:00+00:00
- - tags: None
 
 After spending years avoiding matrimony, Rhaenyra Targaryen is now a married woman. Find out what happens next in HBO's Game of Thrones prequel on Sunday.
 
@@ -380,7 +333,6 @@ After spending years avoiding matrimony, Rhaenyra Targaryen is now a married wom
  - [https://www.cnet.com/personal-finance/investing/i-bonds-have-a-record-high-9-62-rate-but-theyre-not-easy-to-buy-how-to-do-it/#ftag=CADf328eec](https://www.cnet.com/personal-finance/investing/i-bonds-have-a-record-high-9-62-rate-but-theyre-not-easy-to-buy-how-to-do-it/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 11:35:02+00:00
- - tags: None
 
 You'll have to jump through a few hoops, but the return on I bonds makes them worth the hassle.
 
@@ -388,7 +340,6 @@ You'll have to jump through a few hoops, but the return on I bonds makes them wo
  - [https://www.cnet.com/tech/services-and-software/14-gifts-that-wont-go-out-of-stock/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/14-gifts-that-wont-go-out-of-stock/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 11:00:04+00:00
- - tags: None
 
 These streaming service gifts will keep on giving, and they're easy to get.
 
@@ -396,7 +347,6 @@ These streaming service gifts will keep on giving, and they're easy to get.
  - [https://www.cnet.com/tech/services-and-software/annoyed-by-these-ios-16-features-how-to-get-them-off-your-iphone/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/annoyed-by-these-ios-16-features-how-to-get-them-off-your-iphone/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 10:40:02+00:00
- - tags: None
 
 Some of Apple's new iOS 16 features aren't so popular.
 
@@ -404,7 +354,6 @@ Some of Apple's new iOS 16 features aren't so popular.
  - [https://www.cnet.com/tech/mobile/ios-16s-best-new-iphone-features-new-imessage-updates-lock-screen-and-more/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/ios-16s-best-new-iphone-features-new-imessage-updates-lock-screen-and-more/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 10:00:03+00:00
- - tags: None
 
 Quickly fix your texting typos or add new widgets to the lock screen.
 
@@ -412,7 +361,6 @@ Quickly fix your texting typos or add new widgets to the lock screen.
  - [https://www.cnet.com/tech/mobile/ios-16-1-will-give-us-iphone-battery-icon-we-all-wanted/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/ios-16-1-will-give-us-iphone-battery-icon-we-all-wanted/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 09:19:02+00:00
- - tags: None
 
 The complaints about the iOS 16 battery percentage icon redesign hit a nerve at Apple.
 
@@ -420,7 +368,6 @@ The complaints about the iOS 16 battery percentage icon redesign hit a nerve at 
  - [https://www.cnet.com/how-to/most-keurig-machines-are-pretty-nasty-inside-heres-how-to-clean-yours/#ftag=CADf328eec](https://www.cnet.com/how-to/most-keurig-machines-are-pretty-nasty-inside-heres-how-to-clean-yours/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 04:00:03+00:00
- - tags: None
 
 Gunk can get stuck in your Keurig that will prevent it from brewing coffee properly. But you can clean it out in just a few steps.
 
@@ -428,7 +375,6 @@ Gunk can get stuck in your Keurig that will prevent it from brewing coffee prope
  - [https://www.cnet.com/culture/entertainment/enola-holmes-2-netflix-trailer-has-millie-bobby-brown-solving-more-mysteries/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/enola-holmes-2-netflix-trailer-has-millie-bobby-brown-solving-more-mysteries/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 02:39:00+00:00
- - tags: None
 
 The teen sleuth played by the Stranger Things star is back for more mischief.
 
@@ -436,7 +382,6 @@ The teen sleuth played by the Stranger Things star is back for more mischief.
  - [https://www.cnet.com/culture/entertainment/bridgerton-prequel-reveals-feisty-first-look-at-young-queen-charlotte/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/bridgerton-prequel-reveals-feisty-first-look-at-young-queen-charlotte/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 02:37:00+00:00
- - tags: None
 
 A Netflix clip from the Shonda Rhimes spinoff series shows a momentous first meeting.
 
@@ -444,7 +389,6 @@ A Netflix clip from the Shonda Rhimes spinoff series shows a momentous first mee
  - [https://www.cnet.com/culture/entertainment/the-watcher-trailer-ryan-murphys-new-netflix-show-looks-super-creepy/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-watcher-trailer-ryan-murphys-new-netflix-show-looks-super-creepy/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 02:34:00+00:00
- - tags: None
 
 Naomi Watts and Bobby Cannavale star as a couple made to feel anything but welcome in their new neighborhood.
 
@@ -452,7 +396,6 @@ Naomi Watts and Bobby Cannavale star as a couple made to feel anything but welco
  - [https://www.cnet.com/culture/entertainment/the-crown-season-5-gets-november-release-date-following-death-of-queen-elizabeth/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-crown-season-5-gets-november-release-date-following-death-of-queen-elizabeth/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 02:30:00+00:00
- - tags: None
 
 The next season of The Crown hits Netflix in November starring Imelda Staunton as the queen.
 
@@ -460,7 +403,6 @@ The next season of The Crown hits Netflix in November starring Imelda Staunton a
  - [https://www.cnet.com/culture/entertainment/the-witcher-season-3-and-prequel-series-blood-origin-get-release-dates/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-witcher-season-3-and-prequel-series-blood-origin-get-release-dates/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 02:27:00+00:00
- - tags: None
 
 Lots of Witcher coming your way.
 
@@ -468,7 +410,6 @@ Lots of Witcher coming your way.
  - [https://www.cnet.com/culture/entertainment/watch-these-hilarious-stranger-things-behind-the-scenes-bloopers/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/watch-these-hilarious-stranger-things-behind-the-scenes-bloopers/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 00:29:00+00:00
- - tags: None
 
 Bring on the shenanigans.
 
@@ -476,7 +417,6 @@ Bring on the shenanigans.
  - [https://www.cnet.com/culture/entertainment/they-cloned-tyrone-teaser-stars-jamie-foxx-and-john-boyega-in-a-sci-fi-mystery/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/they-cloned-tyrone-teaser-stars-jamie-foxx-and-john-boyega-in-a-sci-fi-mystery/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 00:25:00+00:00
- - tags: None
 
 In the upcoming Netflix movie a trio of friends try to solve a widespread conspiracy.
 
@@ -484,7 +424,6 @@ In the upcoming Netflix movie a trio of friends try to solve a widespread conspi
  - [https://www.cnet.com/culture/entertainment/andor-release-schedule-when-does-episode-4-come-to-disney-plus/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-does-episode-4-come-to-disney-plus/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 00:00:07+00:00
- - tags: None
 
 Here are the exact release dates and times for the 12 episodes of the incredible Star Wars prequel series' first season.
 
@@ -492,6 +431,5 @@ Here are the exact release dates and times for the 12 episodes of the incredible
  - [https://www.cnet.com/health/sleep/its-time-to-kick-your-pet-out-of-bed/#ftag=CADf328eec](https://www.cnet.com/health/sleep/its-time-to-kick-your-pet-out-of-bed/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-25 00:00:02+00:00
- - tags: None
 
 We know, we know. But for some people, it can actually make your sleep worse.

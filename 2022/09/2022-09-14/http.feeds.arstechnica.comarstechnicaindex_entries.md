@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## In mice, the new BA.5 booster works about the same as BA.1 shot FDA passed up
  - [https://arstechnica.com/?p=1881544](https://arstechnica.com/?p=1881544)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-14 23:23:50+00:00
- - tags: None
 
 Sans human data, mouse study offers first direct comparison of the two omicron boosters.
 
@@ -12,7 +11,6 @@ Sans human data, mouse study offers first direct comparison of the two omicron b
  - [https://arstechnica.com/?p=1881340](https://arstechnica.com/?p=1881340)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-14 22:48:58+00:00
- - tags: None
 
 Plus, a wrap-up of Sony's TGS 2022 biggies: <em>God of War: Ragnarok</em>, <em>Tekken 8</em>.
 
@@ -20,7 +18,6 @@ Plus, a wrap-up of Sony's TGS 2022 biggies: <em>God of War: Ragnarok</em>, <em>T
  - [https://arstechnica.com/?p=1881431](https://arstechnica.com/?p=1881431)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-14 21:42:38+00:00
- - tags: None
 
 Alleged victims include domestic violence shelter that paid hackers $13,000.
 
@@ -28,7 +25,6 @@ Alleged victims include domestic violence shelter that paid hackers $13,000.
  - [https://arstechnica.com/?p=1881530](https://arstechnica.com/?p=1881530)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-14 21:39:57+00:00
- - tags: None
 
 Microsoft faces prolonged competition investigation into $75 billion acquisition.
 
@@ -36,7 +32,6 @@ Microsoft faces prolonged competition investigation into $75 billion acquisition
  - [https://arstechnica.com/?p=1881321](https://arstechnica.com/?p=1881321)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-14 21:31:08+00:00
- - tags: None
 
 Baidu's ERNIE-ViLG text-to-image model prevents users from creating political images.
 
@@ -44,7 +39,6 @@ Baidu's ERNIE-ViLG text-to-image model prevents users from creating political im
  - [https://arstechnica.com/?p=1881446](https://arstechnica.com/?p=1881446)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-14 21:07:03+00:00
- - tags: None
 
 Lawsuit mirrors DC's case dismissed in April. Now, DOJ backs DC's appeal.
 
@@ -52,7 +46,6 @@ Lawsuit mirrors DC's case dismissed in April. Now, DOJ backs DC's appeal.
  - [https://arstechnica.com/?p=1881373](https://arstechnica.com/?p=1881373)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-14 19:38:02+00:00
- - tags: None
 
 From 2024, Ford EVs will only be sold at Model e-certified dealerships.
 
@@ -60,7 +53,6 @@ From 2024, Ford EVs will only be sold at Model e-certified dealerships.
  - [https://arstechnica.com/?p=1881324](https://arstechnica.com/?p=1881324)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-14 18:05:03+00:00
- - tags: None
 
 Jane Doe "was re-victimized by this unconstitutional practice," lawsuit says.
 
@@ -68,7 +60,6 @@ Jane Doe "was re-victimized by this unconstitutional practice," lawsuit says.
  - [https://arstechnica.com/?p=1881175](https://arstechnica.com/?p=1881175)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-14 17:34:35+00:00
- - tags: None
 
 New printers still block non-HP ink, but HP is compensating for lack of advance notice.
 
@@ -76,7 +67,6 @@ New printers still block non-HP ink, but HP is compensating for lack of advance 
  - [https://arstechnica.com/?p=1881162](https://arstechnica.com/?p=1881162)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-14 17:25:58+00:00
- - tags: None
 
 Only the very latest Apple and Samsung devices can ride the 3.45 GHz wave.
 
@@ -84,7 +74,6 @@ Only the very latest Apple and Samsung devices can ride the 3.45 GHz wave.
  - [https://arstechnica.com/?p=1881118](https://arstechnica.com/?p=1881118)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-14 17:09:08+00:00
- - tags: None
 
 Dealmaster also has LG OLED TVs, MacBooks, and gaming accessories.
 
@@ -92,7 +81,6 @@ Dealmaster also has LG OLED TVs, MacBooks, and gaming accessories.
  - [https://arstechnica.com/?p=1881219](https://arstechnica.com/?p=1881219)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-14 16:54:22+00:00
- - tags: None
 
 New law responds to concerns over Big Tech's alleged role in US Capitol riot.
 
@@ -100,7 +88,6 @@ New law responds to concerns over Big Tech's alleged role in US Capitol riot.
  - [https://arstechnica.com/?p=1881224](https://arstechnica.com/?p=1881224)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-14 16:39:18+00:00
- - tags: None
 
 Publisher promises robust privacy and system security efforts to protect users.
 
@@ -108,7 +95,6 @@ Publisher promises robust privacy and system security efforts to protect users.
  - [https://arstechnica.com/?p=1881156](https://arstechnica.com/?p=1881156)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-14 16:06:41+00:00
- - tags: None
 
 Backblaze tracks reliability for thousands of HDDs and SSDs in its data centers.
 
@@ -116,7 +102,6 @@ Backblaze tracks reliability for thousands of HDDs and SSDs in its data centers.
  - [https://arstechnica.com/?p=1881183](https://arstechnica.com/?p=1881183)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-14 16:05:21+00:00
- - tags: None
 
 Thousands of people from across Asia have been coerced into defrauding people everywhere.
 
@@ -124,7 +109,6 @@ Thousands of people from across Asia have been coerced into defrauding people ev
  - [https://arstechnica.com/?p=1881150](https://arstechnica.com/?p=1881150)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-14 15:10:13+00:00
- - tags: None
 
 Google will have to pay the EU's biggest fine ever.
 
@@ -132,6 +116,5 @@ Google will have to pay the EU's biggest fine ever.
  - [https://arstechnica.com/?p=1880534](https://arstechnica.com/?p=1880534)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-14 11:45:27+00:00
- - tags: None
 
 Driving M cars from 2001, 2013, and 2022 shows some lessons for the future.

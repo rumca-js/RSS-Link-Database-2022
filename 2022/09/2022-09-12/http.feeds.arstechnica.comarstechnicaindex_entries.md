@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## Google’s cost-cutting kills Pixelbook division
  - [https://arstechnica.com/?p=1880622](https://arstechnica.com/?p=1880622)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-12 22:07:15+00:00
- - tags: None
 
 Google hasn't made a laptop in 3 years, and won't be making one anytime soon.
 
@@ -12,7 +11,6 @@ Google hasn't made a laptop in 3 years, and won't be making one anytime soon.
  - [https://arstechnica.com/?p=1880695](https://arstechnica.com/?p=1880695)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-12 21:47:11+00:00
- - tags: None
 
 "We'll see if [NFT]s really answer the players' needs," CEO says.
 
@@ -20,7 +18,6 @@ Google hasn't made a laptop in 3 years, and won't be making one anytime soon.
  - [https://arstechnica.com/?p=1880604](https://arstechnica.com/?p=1880604)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-12 21:33:28+00:00
- - tags: None
 
 PyTorch, which powers Tesla Autopilot and 150K other projects, will join the Linux Foundation.
 
@@ -28,7 +25,6 @@ PyTorch, which powers Tesla Autopilot and 150K other projects, will join the Lin
  - [https://arstechnica.com/?p=1880637](https://arstechnica.com/?p=1880637)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-12 20:45:55+00:00
- - tags: None
 
 Apple's past and present OSes are all getting updates today.
 
@@ -36,7 +32,6 @@ Apple's past and present OSes are all getting updates today.
  - [https://arstechnica.com/?p=1880536](https://arstechnica.com/?p=1880536)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-12 20:38:25+00:00
- - tags: None
 
 Retailer leak suggests games from arcade to Jaguar; surprises apparently still await.
 
@@ -44,7 +39,6 @@ Retailer leak suggests games from arcade to Jaguar; surprises apparently still a
  - [https://arstechnica.com/?p=1880588](https://arstechnica.com/?p=1880588)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-12 20:01:12+00:00
- - tags: None
 
 Raptor Lake boosts clocks, cache, and core counts on the same Intel 7 process.
 
@@ -52,7 +46,6 @@ Raptor Lake boosts clocks, cache, and core counts on the same Intel 7 process.
  - [https://arstechnica.com/?p=1880593](https://arstechnica.com/?p=1880593)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-12 18:45:03+00:00
- - tags: None
 
 Science needs sustainable, boring growth, but we just get flashy ill-formed initiatives.
 
@@ -60,7 +53,6 @@ Science needs sustainable, boring growth, but we just get flashy ill-formed init
  - [https://arstechnica.com/?p=1880509](https://arstechnica.com/?p=1880509)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-12 18:10:44+00:00
- - tags: None
 
 Roku OS 11.5 with "Continue Watching" also en route.
 
@@ -68,7 +60,6 @@ Roku OS 11.5 with "Continue Watching" also en route.
  - [https://arstechnica.com/?p=1880381](https://arstechnica.com/?p=1880381)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-12 17:52:36+00:00
- - tags: None
 
 Intel's lineup will likely be competing with new GPUs from AMD and Nvidia soon.
 
@@ -76,7 +67,6 @@ Intel's lineup will likely be competing with new GPUs from AMD and Nvidia soon.
  - [https://arstechnica.com/?p=1880488](https://arstechnica.com/?p=1880488)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-12 17:25:22+00:00
- - tags: None
 
 Starlink says speed tests and $600 dish cost aren't good reasons to deny funding.
 
@@ -84,7 +74,6 @@ Starlink says speed tests and $600 dish cost aren't good reasons to deny funding
  - [https://arstechnica.com/?p=1880382](https://arstechnica.com/?p=1880382)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-12 17:18:44+00:00
- - tags: None
 
 The vehicles it showed off at Monterey Car Week were far from production-ready
 
@@ -92,7 +81,6 @@ The vehicles it showed off at Monterey Car Week were far from production-ready
  - [https://arstechnica.com/?p=1880438](https://arstechnica.com/?p=1880438)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-12 17:11:34+00:00
- - tags: None
 
 It's the first time genuine iPhone batteries have cost more than $70 since 2017.
 
@@ -100,7 +88,6 @@ It's the first time genuine iPhone batteries have cost more than $70 since 2017.
  - [https://arstechnica.com/?p=1880442](https://arstechnica.com/?p=1880442)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-12 16:47:19+00:00
- - tags: None
 
 Plus: Wild rumors say the phone might launch before the end of the year.
 
@@ -108,7 +95,6 @@ Plus: Wild rumors say the phone might launch before the end of the year.
  - [https://arstechnica.com/?p=1880346](https://arstechnica.com/?p=1880346)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-12 16:36:10+00:00
- - tags: None
 
 Smaller art communities are banning image synthesis amid a wider art ethics debate.
 
@@ -116,7 +102,6 @@ Smaller art communities are banning image synthesis amid a wider art ethics deba
  - [https://arstechnica.com/?p=1880383](https://arstechnica.com/?p=1880383)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-12 15:39:52+00:00
- - tags: None
 
 There were no passengers on board this flight carrying scientific instruments.
 
@@ -124,7 +109,6 @@ There were no passengers on board this flight carrying scientific instruments.
  - [https://arstechnica.com/?p=1880419](https://arstechnica.com/?p=1880419)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-12 15:14:25+00:00
- - tags: None
 
 Streaming giant will launch three new mobile games next year based on Ubisoft hits.
 
@@ -132,7 +116,6 @@ Streaming giant will launch three new mobile games next year based on Ubisoft hi
  - [https://arstechnica.com/?p=1866485](https://arstechnica.com/?p=1866485)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-12 11:00:50+00:00
- - tags: None
 
 The Carte du Ciel provided signposts for how future astronomical discoveries would be made.
 
@@ -140,6 +123,5 @@ The Carte du Ciel provided signposts for how future astronomical discoveries wou
  - [https://arstechnica.com/?p=1880298](https://arstechnica.com/?p=1880298)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-12 07:00:41+00:00
- - tags: None
 
 Also: trailer for <em>Werewolf by Night</em>, new footage from <em>Loki</em> S2, <em>The Marvels</em>, and more.

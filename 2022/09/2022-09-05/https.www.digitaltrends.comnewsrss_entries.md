@@ -1,10 +1,9 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss
+# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
 
 ## AMD steals Intel’s spotlight with new Ryzen 7000 release date
  - [https://www.digitaltrends.com/computing/amd-ryzen-7000-release-date-may-be-delayed/](https://www.digitaltrends.com/computing/amd-ryzen-7000-release-date-may-be-delayed/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-05 14:52:18.808594+00:00
- - tags: None
 
 According to a new leak, AMD may delay the launch of Ryzen 7000. The new date would ramp up the competition between AMD and Intel.
 
@@ -12,7 +11,6 @@ According to a new leak, AMD may delay the launch of Ryzen 7000. The new date wo
  - [https://www.digitaltrends.com/computing/intel-arc-alchemist-a380-available-for-sale/](https://www.digitaltrends.com/computing/intel-arc-alchemist-a380-available-for-sale/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-05 14:52:18.801393+00:00
- - tags: None
 
 Intel Arc Alchemist finally makes its U.S. debut with the Arc A380, now available for sale. The pricing of the GPU seems quite competitive.
 
@@ -20,7 +18,6 @@ Intel Arc Alchemist finally makes its U.S. debut with the Arc A380, now availabl
  - [https://www.digitaltrends.com/news/airbnb-to-test-anti-party-tech/](https://www.digitaltrends.com/news/airbnb-to-test-anti-party-tech/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-05 14:52:18.793503+00:00
- - tags: None
 
 As part of ongoing efforts to prevent its listings from being booked for raucous blowouts, Airbnb will pilot new “anti-party technology” in the U.S. and Canada.
 
@@ -28,7 +25,6 @@ As part of ongoing efforts to prevent its listings from being booked for raucous
  - [https://www.digitaltrends.com/news/american-airlines-buy-boom-supersonic-jets/](https://www.digitaltrends.com/news/american-airlines-buy-boom-supersonic-jets/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-05 14:52:18.786714+00:00
- - tags: None
 
 With an eye on slashing its flight times, American Airlines has agreed to a deal with Boom Supersonic to buy up to 60 of its in-development Overture aircraft.
 
@@ -36,7 +32,6 @@ With an eye on slashing its flight times, American Airlines has agreed to a deal
  - [https://www.digitaltrends.com/computing/intel-arc-a580-appears-in-a-benchmark/](https://www.digitaltrends.com/computing/intel-arc-a580-appears-in-a-benchmark/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-05 14:52:18.779888+00:00
- - tags: None
 
 Another Intel Arc GPU has just made its appearance in a benchmark -- the Arc A580. The graphics card could rival Nvidia's entry-level models.
 
@@ -44,7 +39,6 @@ Another Intel Arc GPU has just made its appearance in a benchmark -- the Arc A58
  - [https://www.digitaltrends.com/computing/intel-raptor-lake-may-hit-350-watts/](https://www.digitaltrends.com/computing/intel-raptor-lake-may-hit-350-watts/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-05 14:52:18.772930+00:00
- - tags: None
 
 Intel Raptor Lake Core i9-13900K may come with an extra mode that boosts performance while bringing the power consumption to a staggering level.
 
@@ -52,7 +46,6 @@ Intel Raptor Lake Core i9-13900K may come with an extra mode that boosts perform
  - [https://www.digitaltrends.com/computing/researchers-fix-wi-fi-connectivity-with-anti-reflective-coating/](https://www.digitaltrends.com/computing/researchers-fix-wi-fi-connectivity-with-anti-reflective-coating/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-05 14:52:18.766485+00:00
- - tags: None
 
 A team of researchers from the Vienna University of Technology may have just found the solution to one of our main Wi-Fi-related woes.
 
@@ -60,7 +53,6 @@ A team of researchers from the Vienna University of Technology may have just fou
  - [https://www.digitaltrends.com/computing/intel-arc-a380-overclocked-to-3-1-ghz/](https://www.digitaltrends.com/computing/intel-arc-a380-overclocked-to-3-1-ghz/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-05 14:52:18.759735+00:00
- - tags: None
 
 Overclocking an Intel Arc GPU has proved to be a challenge. Although the A380 managed to hit 3.1GHz, the success was short-lived.
 
@@ -68,7 +60,6 @@ Overclocking an Intel Arc GPU has proved to be a challenge. Although the A380 ma
  - [https://www.digitaltrends.com/computing/apple-finally-allows-you-to-repair-your-own-macbook/](https://www.digitaltrends.com/computing/apple-finally-allows-you-to-repair-your-own-macbook/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-05 14:52:18.752879+00:00
- - tags: None
 
 The new self-service repair will only be available to U.S. users with M1 MacBooks for the time being.
 
@@ -76,7 +67,6 @@ The new self-service repair will only be available to U.S. users with M1 MacBook
  - [https://www.digitaltrends.com/computing/ngs-the-shrimp-keyboard-launches-for-laptop-gamers/](https://www.digitaltrends.com/computing/ngs-the-shrimp-keyboard-launches-for-laptop-gamers/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-05 14:52:18.746093+00:00
- - tags: None
 
 This cute and compact new keyboard could be just the thing that laptop users needed to enjoy gaming on the go a little bit more.
 
@@ -84,7 +74,6 @@ This cute and compact new keyboard could be just the thing that laptop users nee
  - [https://www.digitaltrends.com/computing/vesa-clearmr-makes-it-easier-to-shop-for-a-monitor/](https://www.digitaltrends.com/computing/vesa-clearmr-makes-it-easier-to-shop-for-a-monitor/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-05 14:52:18.738547+00:00
- - tags: None
 
 VESA has just created a new standard to rate the motion blur on a monitor. This should make shopping for a new display a bit easier.
 
@@ -92,7 +81,6 @@ VESA has just created a new standard to rate the motion blur on a monitor. This 
  - [https://www.digitaltrends.com/computing/apple-m2-3nm-rumors/](https://www.digitaltrends.com/computing/apple-m2-3nm-rumors/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-05 14:52:18.731482+00:00
- - tags: None
 
 Reliable sources now say Apple is sticking with 5nm processes for the M2 Pro and M2 Max chips.
 
@@ -100,7 +88,6 @@ Reliable sources now say Apple is sticking with 5nm processes for the M2 Pro and
  - [https://www.digitaltrends.com/computing/macos-ventura-on-older-macs/](https://www.digitaltrends.com/computing/macos-ventura-on-older-macs/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-05 14:52:18.716387+00:00
- - tags: None
 
 They said your Mac was too old for macOS Ventura, but there's another way; the way of adding Ventura to your ancient Mac, thanks to the devs behind OpenCore Legacy Patcher.
 
@@ -108,7 +95,6 @@ They said your Mac was too old for macOS Ventura, but there's another way; the w
  - [https://www.digitaltrends.com/computing/asus-introduces-dynamic-oc-switcher-to-ryzen-7000-motherboards/](https://www.digitaltrends.com/computing/asus-introduces-dynamic-oc-switcher-to-ryzen-7000-motherboards/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-05 14:52:18.706279+00:00
- - tags: None
 
 Asus has just revealed that it will be adding a Dynamic OC Switcher feature to its ROG AM5 motherboards. This means good news for overclockers.
 
@@ -116,7 +102,6 @@ Asus has just revealed that it will be adding a Dynamic OC Switcher feature to i
  - [https://www.digitaltrends.com/computing/hp-new-products-unveiled-including-ips-black-display/](https://www.digitaltrends.com/computing/hp-new-products-unveiled-including-ips-black-display/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-05 14:52:18.699452+00:00
- - tags: None
 
 HP has just unveiled several new products, but the star of the lineup is certainly the IPS Black display that takes contrasts to a new level.
 
@@ -124,7 +109,6 @@ HP has just unveiled several new products, but the star of the lineup is certain
  - [https://www.digitaltrends.com/computing/nvidia-ceo-reveals-upcoming-rtx-4000-news/](https://www.digitaltrends.com/computing/nvidia-ceo-reveals-upcoming-rtx-4000-news/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-05 14:52:18.692613+00:00
- - tags: None
 
 Nvidia CEO Jensen Huang just spoke about the company's status and plans during an earnings call. It seems that exciting RTX 4000 news are on the horizon.
 
@@ -132,7 +116,6 @@ Nvidia CEO Jensen Huang just spoke about the company's status and plans during a
  - [https://www.digitaltrends.com/computing/amd-zen-4-3d-v-cache-processors-may-have-intel-worried/](https://www.digitaltrends.com/computing/amd-zen-4-3d-v-cache-processors-may-have-intel-worried/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-05 14:52:18.685301+00:00
- - tags: None
 
 An early leak about AMD's upcoming Zen 4 3D V-Cache processors reveals that Intel Raptor Lake might soon have reasons to worry.
 
@@ -140,7 +123,6 @@ An early leak about AMD's upcoming Zen 4 3D V-Cache processors reveals that Inte
  - [https://www.digitaltrends.com/computing/corsair-xeneon-flex-45wqhd240-bendable-monitor/](https://www.digitaltrends.com/computing/corsair-xeneon-flex-45wqhd240-bendable-monitor/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-05 14:52:18.678522+00:00
- - tags: None
 
 Corsair unveiled the world's first bendable gaming monitor with a beautiful 45-inch OLED display.
 
@@ -148,7 +130,6 @@ Corsair unveiled the world's first bendable gaming monitor with a beautiful 45-i
  - [https://www.digitaltrends.com/computing/samsung-unveils-990-pro-nvme-ssd/](https://www.digitaltrends.com/computing/samsung-unveils-990-pro-nvme-ssd/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-05 14:52:18.671741+00:00
- - tags: None
 
 Samsung has unveiled a powerful new SSD made with gaming and content creation in mind. Surprisingly, the manufacturer stuck to older SSD technology.
 
@@ -156,7 +137,6 @@ Samsung has unveiled a powerful new SSD made with gaming and content creation in
  - [https://www.digitaltrends.com/computing/chrome-biometric-password-autofill/](https://www.digitaltrends.com/computing/chrome-biometric-password-autofill/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-05 14:52:18.664843+00:00
- - tags: None
 
 Chrome will soon let you fill out forms online using only your fingerprint or face unlock.
 
@@ -164,7 +144,6 @@ Chrome will soon let you fill out forms online using only your fingerprint or fa
  - [https://www.digitaltrends.com/computing/genshin-impact-driver-grants-hackers-access/](https://www.digitaltrends.com/computing/genshin-impact-driver-grants-hackers-access/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-05 14:52:18.657687+00:00
- - tags: None
 
 Hackers just found a clever way to abuse the anti-cheat system in a massively popular game. Without even installing the game, they can take over the target PC.
 
@@ -172,7 +151,6 @@ Hackers just found a clever way to abuse the anti-cheat system in a massively po
  - [https://www.digitaltrends.com/computing/apple-m2-max-m2-pro-macbooks-rumors/](https://www.digitaltrends.com/computing/apple-m2-max-m2-pro-macbooks-rumors/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-05 14:52:18.650831+00:00
- - tags: None
 
 According to a new leak, Apple may release the new M2 Pro and M2 Max MacBook Pros sooner than expected. Their development is well underway.
 
@@ -180,7 +158,6 @@ According to a new leak, Apple may release the new M2 Pro and M2 Max MacBook Pro
  - [https://www.digitaltrends.com/computing/apple-vr-headset-reality-one-reality-pro/](https://www.digitaltrends.com/computing/apple-vr-headset-reality-one-reality-pro/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-05 14:52:18.643877+00:00
- - tags: None
 
 Apple filed some trademark names for its upcoming AR/VR headset, indicating it's one step closer to launch.
 
@@ -188,7 +165,6 @@ Apple filed some trademark names for its upcoming AR/VR headset, indicating it's
  - [https://www.digitaltrends.com/computing/amd-reveals-b650-and-b650-extreme-am5-motherboards/](https://www.digitaltrends.com/computing/amd-reveals-b650-and-b650-extreme-am5-motherboards/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-05 14:52:18.636980+00:00
- - tags: None
 
 Alongside the new Zen 4 CPUs, AMD has revealed more information about the AM5 platform and the budget B650 and B650 Extreme motherboards that are coming soon.
 
@@ -196,7 +172,6 @@ Alongside the new Zen 4 CPUs, AMD has revealed more information about the AM5 pl
  - [https://www.digitaltrends.com/computing/lightmatter-replaces-chiplet-wiring-with-photonics/](https://www.digitaltrends.com/computing/lightmatter-replaces-chiplet-wiring-with-photonics/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-05 14:52:18.628346+00:00
- - tags: None
 
 A startup has just introduced the idea that could unlock the future of chips -- replacing electrical wiring with photonics. Here's what we know about it.
 
@@ -204,7 +179,6 @@ A startup has just introduced the idea that could unlock the future of chips -- 
  - [https://www.digitaltrends.com/news/spacex-starlink-internet-heads-to-first-cruise-ships/](https://www.digitaltrends.com/news/spacex-starlink-internet-heads-to-first-cruise-ships/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-05 14:52:18.621442+00:00
- - tags: None
 
 Passengers on Royal Caribbean cruise ships will soon be sailing the high seas using internet powered by SpaceX’s Starlink satellites.
 
@@ -212,7 +186,6 @@ Passengers on Royal Caribbean cruise ships will soon be sailing the high seas us
  - [https://www.digitaltrends.com/news/lg-new-technology/](https://www.digitaltrends.com/news/lg-new-technology/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-05 14:52:18.614640+00:00
- - tags: None
 
 LG’s long list of tech goodies has just grown even longer after it unveiled a couple of contraptions for shoes and sneakers.
 
@@ -220,7 +193,6 @@ LG’s long list of tech goodies has just grown even longer after it unveiled a 
  - [https://www.digitaltrends.com/computing/amd-ryzen-9-7950x-benchmarked-can-you-trust-it/](https://www.digitaltrends.com/computing/amd-ryzen-9-7950x-benchmarked-can-you-trust-it/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-05 14:52:18.607722+00:00
- - tags: None
 
 New benchmarks of the upcoming AMD Ryzen 9 7950X just emerged. The CPU absolutely destroyed its predecessor. But can you trust these results?
 
@@ -228,7 +200,6 @@ New benchmarks of the upcoming AMD Ryzen 9 7950X just emerged. The CPU absolutel
  - [https://www.digitaltrends.com/news/halo-infinite-season-delay/](https://www.digitaltrends.com/news/halo-infinite-season-delay/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-05 14:52:18.600841+00:00
- - tags: None
 
 Halo Infinite's season 3 got delayed until next year. Thankfully Forge is still on the way.
 
@@ -236,6 +207,5 @@ Halo Infinite's season 3 got delayed until next year. Thankfully Forge is still 
  - [https://www.digitaltrends.com/computing/mac-anti-antivirus-fully-preemptive/](https://www.digitaltrends.com/computing/mac-anti-antivirus-fully-preemptive/)
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-05 14:52:18.593534+00:00
- - tags: None
 
 According to Howard Oakley at Eclectic Light Company, Apple has updated macOS malware more in the past six months than in the past seven years.

@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## An AI alternative to code search tools
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58797](https://www.codeproject.com/script/News/View.aspx?nwid=58797)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-07 04:00:00+00:00
- - tags: None
 
 If it's good enough for COBOL...
 
@@ -12,7 +11,6 @@ If it's good enough for COBOL...
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58795](https://www.codeproject.com/script/News/View.aspx?nwid=58795)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-07 04:00:00+00:00
- - tags: None
 
 Because you were getting too comfortable with the old way
 
@@ -20,7 +18,6 @@ Because you were getting too comfortable with the old way
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58796](https://www.codeproject.com/script/News/View.aspx?nwid=58796)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-07 04:00:00+00:00
- - tags: None
 
 Version 1.1 deemed "good enough"?
 
@@ -28,7 +25,6 @@ Version 1.1 deemed "good enough"?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58800](https://www.codeproject.com/script/News/View.aspx?nwid=58800)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-07 04:00:00+00:00
- - tags: None
 
 Because all other teams are amateurs
 
@@ -36,7 +32,6 @@ Because all other teams are amateurs
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58801](https://www.codeproject.com/script/News/View.aspx?nwid=58801)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-07 04:00:00+00:00
- - tags: None
 
 How about cheques?
 
@@ -44,7 +39,6 @@ How about cheques?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58799](https://www.codeproject.com/script/News/View.aspx?nwid=58799)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-07 04:00:00+00:00
- - tags: None
 
 Time to D-patch your D-Link
 
@@ -52,7 +46,6 @@ Time to D-patch your D-Link
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58798](https://www.codeproject.com/script/News/View.aspx?nwid=58798)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-07 04:00:00+00:00
- - tags: None
 
 Now we just need another three trillion or so
 
@@ -60,7 +53,6 @@ Now we just need another three trillion or so
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58802](https://www.codeproject.com/script/News/View.aspx?nwid=58802)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-07 04:00:00+00:00
- - tags: None
 
 You ain't gonna make me do it!
 
@@ -68,6 +60,5 @@ You ain't gonna make me do it!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58794](https://www.codeproject.com/script/News/View.aspx?nwid=58794)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-07 04:00:00+00:00
- - tags: None
 
 "Just remember that it's a grand illusion"

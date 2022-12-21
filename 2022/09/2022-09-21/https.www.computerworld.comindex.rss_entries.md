@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Six in 10 workers want to ditch the 40-hour work week, survey finds
  - [https://www.computerworld.com/article/3674668/six-in-10-workers-want-to-ditch-the-40-hour-work-week-survey-finds.html#tk.rss_all](https://www.computerworld.com/article/3674668/six-in-10-workers-want-to-ditch-the-40-hour-work-week-survey-finds.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-21 21:18:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3674155/a-tale-of-two-companies-how-intel-and-dell-are-creating-better-places-to-work.html#tk.rss_all](https://www.computerworld.com/article/3674155/a-tale-of-two-companies-how-intel-and-dell-are-creating-better-places-to-work.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-21 16:53:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -24,7 +22,6 @@
  - [https://www.computerworld.com/article/3674217/how-to-share-safari-tab-groups-on-iphone.html#tk.rss_all](https://www.computerworld.com/article/3674217/how-to-share-safari-tab-groups-on-iphone.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-21 15:20:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## Call of Duty is betting big on AI. Will it pay off?
  - [https://www.pcgamer.com/call-of-duty-is-betting-big-on-ai-will-it-pay-off](https://www.pcgamer.com/call-of-duty-is-betting-big-on-ai-will-it-pay-off)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-23 23:08:56+00:00
- - tags: None
 
 We could be entering a new era of multiplayer shooters.
 
@@ -12,7 +11,6 @@ We could be entering a new era of multiplayer shooters.
  - [https://www.pcgamer.com/everyone-is-sus-in-this-cute-paranoia-inducing-among-us-song](https://www.pcgamer.com/everyone-is-sus-in-this-cute-paranoia-inducing-among-us-song)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-23 22:48:19+00:00
- - tags: None
 
 The Chalkeaters have previously pondered philosophical quandaries like a hot lady Bowser and if Doomguy was in Animal Crossing.
 
@@ -20,7 +18,6 @@ The Chalkeaters have previously pondered philosophical quandaries like a hot lad
  - [https://www.pcgamer.com/zachtronics-combined-tarot-with-solitaire-and-its-my-new-daily-jam](https://www.pcgamer.com/zachtronics-combined-tarot-with-solitaire-and-its-my-new-daily-jam)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-23 22:44:34+00:00
- - tags: None
 
 Fortune's Foundation, part of The Zachtronics Solitaire Collection, adds a tarot deck into solitaire for a fantastic challenge.
 
@@ -28,7 +25,6 @@ Fortune's Foundation, part of The Zachtronics Solitaire Collection, adds a tarot
  - [https://www.pcgamer.com/the-cyberpunk-netflix-show-is-taking-over-the-2077-mod-scene](https://www.pcgamer.com/the-cyberpunk-netflix-show-is-taking-over-the-2077-mod-scene)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-23 20:44:09+00:00
- - tags: None
 
 Edgerunners has proven to be quite a boon for CD Projekt's RPG.
 
@@ -36,7 +32,6 @@ Edgerunners has proven to be quite a boon for CD Projekt's RPG.
  - [https://www.pcgamer.com/hyperx-cloud-stinger-2-review](https://www.pcgamer.com/hyperx-cloud-stinger-2-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-23 20:22:36+00:00
- - tags: None
 
 HyperX's returns with a headset that sounds solid but is questionably designed.
 
@@ -44,7 +39,6 @@ HyperX's returns with a headset that sounds solid but is questionably designed.
  - [https://www.pcgamer.com/rick-sanchez-is-coming-very-soon-to-multiversus](https://www.pcgamer.com/rick-sanchez-is-coming-very-soon-to-multiversus)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-23 20:22:05+00:00
- - tags: None
 
 The other half of Rick and Morty is next up.
 
@@ -52,7 +46,6 @@ The other half of Rick and Morty is next up.
  - [https://www.pcgamer.com/bytedances-new-vr-headset-is-looking-to-go-head-to-head-with-the-meta-quest-2-in-europe-and-asia](https://www.pcgamer.com/bytedances-new-vr-headset-is-looking-to-go-head-to-head-with-the-meta-quest-2-in-europe-and-asia)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-23 20:20:55+00:00
- - tags: None
 
 Preorders for the Pico 4 VR headset start October 18.
 
@@ -60,7 +53,6 @@ Preorders for the Pico 4 VR headset start October 18.
  - [https://www.pcgamer.com/slime-rancher-2-sales-smash-devs-pipe-dream-in-6-hours](https://www.pcgamer.com/slime-rancher-2-sales-smash-devs-pipe-dream-in-6-hours)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-23 19:50:40+00:00
- - tags: None
 
 Get your goop on.
 
@@ -68,7 +60,6 @@ Get your goop on.
  - [https://www.pcgamer.com/something-weird-is-going-on-in-diablo-2-resurrected-and-we-have-no-idea-what-it-is](https://www.pcgamer.com/something-weird-is-going-on-in-diablo-2-resurrected-and-we-have-no-idea-what-it-is)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-23 18:58:58+00:00
- - tags: None
 
 An ancient Diablo 2 mystery may be on the verge of being solved.
 
@@ -76,7 +67,6 @@ An ancient Diablo 2 mystery may be on the verge of being solved.
  - [https://www.pcgamer.com/slime-rancher-2-is-sucking-up-my-time-like-im-sucking-up-slime](https://www.pcgamer.com/slime-rancher-2-is-sucking-up-my-time-like-im-sucking-up-slime)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-23 18:52:24+00:00
- - tags: None
 
 The bright and busy world of Monomi Park's Early Access sequel makes it easy to lose track of time.
 
@@ -84,7 +74,6 @@ The bright and busy world of Monomi Park's Early Access sequel makes it easy to 
  - [https://www.pcgamer.com/freedom-planet-2-feels-like-a-long-lost-sega-saturn-gem](https://www.pcgamer.com/freedom-planet-2-feels-like-a-long-lost-sega-saturn-gem)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-23 18:29:50+00:00
- - tags: None
 
 The Sonic-inspired platformer evolves beyond its Mega Drive inspiration.
 
@@ -92,7 +81,6 @@ The Sonic-inspired platformer evolves beyond its Mega Drive inspiration.
  - [https://www.pcgamer.com/wrath-classic-release-time-unlock](https://www.pcgamer.com/wrath-classic-release-time-unlock)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-23 16:01:35+00:00
- - tags: None
 
 Get ready to start your journey through Northrend.
 
@@ -100,7 +88,6 @@ Get ready to start your journey through Northrend.
  - [https://www.pcgamer.com/apex-studio-has-to-remind-players-not-to-be-dicks-to-developers](https://www.pcgamer.com/apex-studio-has-to-remind-players-not-to-be-dicks-to-developers)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-23 15:53:38+00:00
- - tags: None
 
 Respawn joins Bungie among others in pushing back against community toxicity.
 
@@ -108,7 +95,6 @@ Respawn joins Bungie among others in pushing back against community toxicity.
  - [https://www.pcgamer.com/best-headphones-for-gaming](https://www.pcgamer.com/best-headphones-for-gaming)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-23 15:37:43+00:00
- - tags: None
 
 These are the best audiophile headphones for gaming and more in 2022.
 
@@ -116,7 +102,6 @@ These are the best audiophile headphones for gaming and more in 2022.
  - [https://www.pcgamer.com/nvidia-ceo-proclaims-moores-law-is-dead-over-rtx-40-series-gpu-pricing](https://www.pcgamer.com/nvidia-ceo-proclaims-moores-law-is-dead-over-rtx-40-series-gpu-pricing)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-23 15:23:04+00:00
- - tags: None
 
 Here's what Jensen Huang has to say about the price of graphics cards today.
 
@@ -124,7 +109,6 @@ Here's what Jensen Huang has to say about the price of graphics cards today.
  - [https://www.pcgamer.com/busted-uk-police-arrest-17-year-old-hacker-in-connection-with-gta-6-leaks](https://www.pcgamer.com/busted-uk-police-arrest-17-year-old-hacker-in-connection-with-gta-6-leaks)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-23 15:21:12+00:00
- - tags: None
 
 Former Reuters journalist says the investigation is being done jointly with the FBI.
 
@@ -132,7 +116,6 @@ Former Reuters journalist says the investigation is being done jointly with the 
  - [https://www.pcgamer.com/there-are-so-many-potion-games-brewing-right-now](https://www.pcgamer.com/there-are-so-many-potion-games-brewing-right-now)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-23 15:00:00+00:00
- - tags: None
 
 Don't get all your cauldrons mixed up; here's your potion game primer for the season.
 
@@ -140,7 +123,6 @@ Don't get all your cauldrons mixed up; here's your potion game primer for the se
  - [https://www.pcgamer.com/best-wow-classic-addons-mods-quest-helper-how-to-install](https://www.pcgamer.com/best-wow-classic-addons-mods-quest-helper-how-to-install)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-23 14:03:56+00:00
- - tags: None
 
 Ease Wrath Classic's frustrating quirks with these handy addons.
 
@@ -148,7 +130,6 @@ Ease Wrath Classic's frustrating quirks with these handy addons.
  - [https://www.pcgamer.com/wrath-classic-blizzard-talks-about-heading-back-to-wows-most-beloved-era](https://www.pcgamer.com/wrath-classic-blizzard-talks-about-heading-back-to-wows-most-beloved-era)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-23 12:21:22+00:00
- - tags: None
 
 Brian Birmingham and Ana Resendez chat about the imminent expansion.
 
@@ -156,7 +137,6 @@ Brian Birmingham and Ana Resendez chat about the imminent expansion.
  - [https://www.pcgamer.com/blizzard-got-a-community-creator-to-do-the-wrath-of-the-lich-king-classic-trailer-and-its-the-best](https://www.pcgamer.com/blizzard-got-a-community-creator-to-do-the-wrath-of-the-lich-king-classic-trailer-and-its-the-best)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-23 12:12:52+00:00
- - tags: None
 
 Longterm WoW fan Hurricane got his first official commission and knocked it out the park.
 
@@ -164,7 +144,6 @@ Longterm WoW fan Hurricane got his first official commission and knocked it out 
  - [https://www.pcgamer.com/fortnite-slide-kick-boulder](https://www.pcgamer.com/fortnite-slide-kick-boulder)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-23 11:50:39+00:00
- - tags: None
 
 Slide to left!
 
@@ -172,7 +151,6 @@ Slide to left!
  - [https://www.pcgamer.com/stellaris-is-going-where-no-4x-has-gone-before-a-roguelite-vr-spin-off](https://www.pcgamer.com/stellaris-is-going-where-no-4x-has-gone-before-a-roguelite-vr-spin-off)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-23 11:39:11+00:00
- - tags: None
 
 Dammit Jim, I'm a grand strategy game not a VR sim.
 
@@ -180,7 +158,6 @@ Dammit Jim, I'm a grand strategy game not a VR sim.
  - [https://www.pcgamer.com/soulstice-review](https://www.pcgamer.com/soulstice-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-23 10:19:57+00:00
- - tags: None
 
 DMC meets Dark Souls in this grungy action adventure.
 
@@ -188,7 +165,6 @@ DMC meets Dark Souls in this grungy action adventure.
  - [https://www.pcgamer.com/best-microphone-gaming-streaming](https://www.pcgamer.com/best-microphone-gaming-streaming)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-23 09:55:19+00:00
- - tags: None
 
 Make your voice heard with the best microphones for streaming and gaming.
 
@@ -196,7 +172,6 @@ Make your voice heard with the best microphones for streaming and gaming.
  - [https://www.pcgamer.com/best-g-sync-monitors-2019](https://www.pcgamer.com/best-g-sync-monitors-2019)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-23 09:25:25+00:00
- - tags: None
 
 The best G-Sync monitors let you get the most out of your Nvidia GeForce graphics card.
 
@@ -204,7 +179,6 @@ The best G-Sync monitors let you get the most out of your Nvidia GeForce graphic
  - [https://www.pcgamer.com/todays-wordle-461-answer-hint](https://www.pcgamer.com/todays-wordle-461-answer-hint)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-23 07:01:28+00:00
- - tags: None
 
 Wordle today: The solution and a hint for Friday's puzzle.
 
@@ -212,7 +186,6 @@ Wordle today: The solution and a hint for Friday's puzzle.
  - [https://www.pcgamer.com/the-end-of-evga-and-nvidias-partnership-may-not-mean-the-end-for-kingpin-products](https://www.pcgamer.com/the-end-of-evga-and-nvidias-partnership-may-not-mean-the-end-for-kingpin-products)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-23 06:07:55+00:00
- - tags: None
 
 Vince 'Kingpin' Lucido doesn't rule out post-EVGA hardware.
 
@@ -220,7 +193,6 @@ Vince 'Kingpin' Lucido doesn't rule out post-EVGA hardware.
  - [https://www.pcgamer.com/gskill-pushes-ddr5-to-new-heights-with-a-ddr5-6800-cl32-memory-kit](https://www.pcgamer.com/gskill-pushes-ddr5-to-new-heights-with-a-ddr5-6800-cl32-memory-kit)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-23 03:19:52+00:00
- - tags: None
 
 Not bad. Not bad at all.
 
@@ -228,7 +200,6 @@ Not bad. Not bad at all.
  - [https://www.pcgamer.com/steam-charts-update](https://www.pcgamer.com/steam-charts-update)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-23 01:09:47+00:00
- - tags: None
 
 The page we all use to see if the game we like is more popular than the game our friend likes has been updated, finally.
 
@@ -236,7 +207,6 @@ The page we all use to see if the game we like is more popular than the game our
  - [https://www.pcgamer.com/scorn-footage-has-unbearably-mounting-tension-and-a-firm-release-date](https://www.pcgamer.com/scorn-footage-has-unbearably-mounting-tension-and-a-firm-release-date)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-23 01:06:27+00:00
- - tags: None
 
 Ebb Software's Giger 'em up releases on October 21.
 
@@ -244,6 +214,5 @@ Ebb Software's Giger 'em up releases on October 21.
  - [https://www.pcgamer.com/discord-is-doing-reverse-twitch-drops](https://www.pcgamer.com/discord-is-doing-reverse-twitch-drops)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-23 00:26:39+00:00
- - tags: None
 
 You get a cozy autumnal outfit for streaming to your friends.

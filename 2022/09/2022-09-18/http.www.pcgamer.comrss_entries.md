@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## Build villainous lairs and wreck others' dreams in this puzzly tile-placing game
  - [https://www.pcgamer.com/build-villainous-lairs-and-wreck-others-dreams-in-this-puzzly-tile-placing-game](https://www.pcgamer.com/build-villainous-lairs-and-wreck-others-dreams-in-this-puzzly-tile-placing-game)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-18 23:49:57+00:00
- - tags: None
 
 A "tactical battle puzzler" with shades of the best tile-placing board games.
 
@@ -12,7 +11,6 @@ A "tactical battle puzzler" with shades of the best tile-placing board games.
  - [https://www.pcgamer.com/modder-brings-first-person-camera-to-marvels-spider-man](https://www.pcgamer.com/modder-brings-first-person-camera-to-marvels-spider-man)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-18 23:36:10+00:00
- - tags: None
 
 FPS (First Person Slinger).
 
@@ -20,7 +18,6 @@ FPS (First Person Slinger).
  - [https://www.pcgamer.com/ceo-of-world-champion-esports-team-apologizes-for-partying-with-alleged-human-trafficker](https://www.pcgamer.com/ceo-of-world-champion-esports-team-apologizes-for-partying-with-alleged-human-trafficker)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-18 22:19:50+00:00
- - tags: None
 
 The former kickboxer, Andrew Tate, is under investigation by Romanian police in connection to rape and human trafficking charges.
 
@@ -28,7 +25,6 @@ The former kickboxer, Andrew Tate, is under investigation by Romanian police in 
  - [https://www.pcgamer.com/skyrocketing-cyberpunk-2077-player-counts-prove-the-netflix-boost-is-real](https://www.pcgamer.com/skyrocketing-cyberpunk-2077-player-counts-prove-the-netflix-boost-is-real)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-18 17:37:39+00:00
- - tags: None
 
 The RPG has hit highs it hasn't seen since its troubled launch.
 
@@ -36,7 +32,6 @@ The RPG has hit highs it hasn't seen since its troubled launch.
  - [https://www.pcgamer.com/heres-20-lovely-minutes-of-beautiful-octopath-traveller-2](https://www.pcgamer.com/heres-20-lovely-minutes-of-beautiful-octopath-traveller-2)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-18 16:34:41+00:00
- - tags: None
 
 Like a warm, glowing bath of JRPG pixels.
 
@@ -44,7 +39,6 @@ Like a warm, glowing bath of JRPG pixels.
  - [https://www.pcgamer.com/heres-another-alleged-gta-6-leak-this-time-with-video](https://www.pcgamer.com/heres-another-alleged-gta-6-leak-this-time-with-video)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-18 07:11:44+00:00
- - tags: None
 
 Footage shows two playable characters, a man and a woman.
 
@@ -52,7 +46,6 @@ Footage shows two playable characters, a man and a woman.
  - [https://www.pcgamer.com/todays-wordle-456-answer-hint](https://www.pcgamer.com/todays-wordle-456-answer-hint)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-18 07:01:28+00:00
- - tags: None
 
 Wordle today: The solution and a hint for Sunday's puzzle.
 
@@ -60,7 +53,6 @@ Wordle today: The solution and a hint for Sunday's puzzle.
  - [https://www.pcgamer.com/lost-ark-twitch-drops](https://www.pcgamer.com/lost-ark-twitch-drops)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-18 02:54:56+00:00
- - tags: None
 
 With Lost Ark Twitch drops you earn free loot for watching people play.
 
@@ -68,7 +60,6 @@ With Lost Ark Twitch drops you earn free loot for watching people play.
  - [https://www.pcgamer.com/40k-crpg-rogue-trader-reveals-more-companions-and-enemies](https://www.pcgamer.com/40k-crpg-rogue-trader-reveals-more-companions-and-enemies)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-18 02:35:02+00:00
- - tags: None
 
 Daemonettes and wyches, ahoy.
 
@@ -76,6 +67,5 @@ Daemonettes and wyches, ahoy.
  - [https://www.pcgamer.com/temtem-review](https://www.pcgamer.com/temtem-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-18 00:57:18+00:00
- - tags: None
 
 We've got Pokémon at home, but Temtem hits different.

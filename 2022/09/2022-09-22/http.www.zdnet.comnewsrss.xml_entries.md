@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## Apple releases iOS update to fix iPhone 14 Pro camera shaking problem
  - [https://www.zdnet.com/article/apple-releases-ios-update-to-fix-iphone-14-pro-camera-shaking-problem/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-releases-ios-update-to-fix-iphone-14-pro-camera-shaking-problem/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-22 21:37:23+00:00
- - tags: None
 
 After Apple released its new flagship devices, some users reported the camera on the phone would shake when they tried to take a picture using third-party apps like TikTok and Instagram.
 
@@ -12,7 +11,6 @@ After Apple released its new flagship devices, some users reported the camera on
  - [https://www.zdnet.com/article/starlink-speeds-have-slowed-as-more-people-sign-up-report-shows/#ftag=RSSbaffb68](https://www.zdnet.com/article/starlink-speeds-have-slowed-as-more-people-sign-up-report-shows/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-22 20:42:10+00:00
- - tags: None
 
 The satellite internet service provider is adding customers around the globe, but its growing popularity is impacting its performance.
 
@@ -20,7 +18,6 @@ The satellite internet service provider is adding customers around the globe, bu
  - [https://www.zdnet.com/article/airpods-pro-2-offer-two-big-upgrades-but-connectivity-chaos-hasnt-been-tamed/#ftag=RSSbaffb68](https://www.zdnet.com/article/airpods-pro-2-offer-two-big-upgrades-but-connectivity-chaos-hasnt-been-tamed/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-22 19:14:00+00:00
- - tags: None
 
 Review: The new earbuds build on the successes of their predecessor with better noise cancellation and the most advanced AirPods case yet.
 
@@ -28,7 +25,6 @@ Review: The new earbuds build on the successes of their predecessor with better 
  - [https://www.zdnet.com/article/hp-launches-a-laptop-in-a-way-even-apple-wouldnt-dare/#ftag=RSSbaffb68](https://www.zdnet.com/article/hp-launches-a-laptop-in-a-way-even-apple-wouldnt-dare/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-22 19:04:00+00:00
- - tags: None
 
 HP offers a very different story because, it says, it's not "bombastic" like some competitors. Now, who might that be?
 
@@ -36,7 +32,6 @@ HP offers a very different story because, it says, it's not "bombastic" like som
  - [https://www.zdnet.com/article/how-to-watch-a-nasa-spacecraft-smash-into-an-asteroid-live/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-watch-a-nasa-spacecraft-smash-into-an-asteroid-live/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-22 19:02:21+00:00
- - tags: None
 
 On Monday, as part of the DART mission, NASA will send a spacecraft to collide with its target asteroid Dimorphos. Here is how you can watch it happen live.
 
@@ -44,7 +39,6 @@ On Monday, as part of the DART mission, NASA will send a spacecraft to collide w
  - [https://www.zdnet.com/article/chainguard-releases-wolfi-a-linux-undistribution/#ftag=RSSbaffb68](https://www.zdnet.com/article/chainguard-releases-wolfi-a-linux-undistribution/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-22 17:47:27+00:00
- - tags: None
 
 Chainguard takes a new approach to building a container Linux with all the security you'd need already baked in.
 
@@ -52,7 +46,6 @@ Chainguard takes a new approach to building a container Linux with all the secur
  - [https://www.zdnet.com/article/is-microsoft-cracking-down-on-windows-11-updates-for-unsupported-hardware/#ftag=RSSbaffb68](https://www.zdnet.com/article/is-microsoft-cracking-down-on-windows-11-updates-for-unsupported-hardware/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-22 17:01:15+00:00
- - tags: None
 
 You just checked Windows Update, but the latest Windows 11 feature update isn't showing up. Does that mean Microsoft is cutting off updates to incompatible hardware? I did some testing.
 
@@ -60,7 +53,6 @@ You just checked Windows Update, but the latest Windows 11 feature update isn't 
  - [https://www.zdnet.com/article/microsoft-readies-more-modules-for-its-viva-employee-experience-suite/#ftag=RSSbaffb68](https://www.zdnet.com/article/microsoft-readies-more-modules-for-its-viva-employee-experience-suite/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-22 13:14:00+00:00
- - tags: None
 
 Microsoft is readying yet more new modules for its Viva platform and is gearing up to make its first role-based Viva app, Viva Sales, generally available on October 3.
 
@@ -68,7 +60,6 @@ Microsoft is readying yet more new modules for its Viva platform and is gearing 
  - [https://www.zdnet.com/article/programming-languages-java-19-arrives-and-heres-whats-new/#ftag=RSSbaffb68](https://www.zdnet.com/article/programming-languages-java-19-arrives-and-heres-whats-new/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-22 13:01:22+00:00
- - tags: None
 
 Oracle has released Java 19, which adds a port for the open-source RSIC-V chip architecture plus other developments.
 
@@ -76,7 +67,6 @@ Oracle has released Java 19, which adds a port for the open-source RSIC-V chip a
  - [https://www.zdnet.com/home-and-office/home-entertainment/google-just-launched-a-budget-friendly-chromecast-powered-by-google-tv/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/google-just-launched-a-budget-friendly-chromecast-powered-by-google-tv/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-22 13:00:01+00:00
- - tags: None
 
 Don't want or need a 4K Chromecast? The $30 Chromecast with Google TV (HD) is meant for you.
 
@@ -84,7 +74,6 @@ Don't want or need a 4K Chromecast? The $30 Chromecast with Google TV (HD) is me
  - [https://www.zdnet.com/article/airpods-pro-2-are-transparently-great-especially-if-you-care-about-these-two-things/#ftag=RSSbaffb68](https://www.zdnet.com/article/airpods-pro-2-are-transparently-great-especially-if-you-care-about-these-two-things/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-22 13:00:00+00:00
- - tags: None
 
 Review: The new earbuds build on the successes of their predecessor with better noise cancellation and the most advanced AirPods case yet.
 
@@ -92,7 +81,6 @@ Review: The new earbuds build on the successes of their predecessor with better 
  - [https://www.zdnet.com/article/airpods-pro-2-have-two-killer-features-and-a-couple-big-challenges/#ftag=RSSbaffb68](https://www.zdnet.com/article/airpods-pro-2-have-two-killer-features-and-a-couple-big-challenges/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-22 13:00:00+00:00
- - tags: None
 
 Review: The new earbuds build on the successes of their predecessor with better noise cancellation and the most advanced AirPods case yet.
 
@@ -100,7 +88,6 @@ Review: The new earbuds build on the successes of their predecessor with better 
  - [https://www.zdnet.com/article/break-up-with-lastpass-how-to-use-icloud-as-a-password-manager-on-windows/#ftag=RSSbaffb68](https://www.zdnet.com/article/break-up-with-lastpass-how-to-use-icloud-as-a-password-manager-on-windows/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-22 13:00:00+00:00
- - tags: None
 
 If you already have an iPhone, an iPad, or a Mac, then a free and secure password manager has been in your hands all this time.
 
@@ -108,7 +95,6 @@ If you already have an iPhone, an iPad, or a Mac, then a free and secure passwor
  - [https://www.zdnet.com/article/agm-glory-g1s-review/#ftag=RSSbaffb68](https://www.zdnet.com/article/agm-glory-g1s-review/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-22 12:00:00+00:00
- - tags: None
 
 Laser from the top, thermographic sensing, and night vision all seem like unique superpowers, but they are actual features tucked inside this rugged Android.
 
@@ -116,7 +102,6 @@ Laser from the top, thermographic sensing, and night vision all seem like unique
  - [https://www.zdnet.com/article/this-windows-11-security-feature-makes-your-pc-very-unattractive-to-password-hackers/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-windows-11-security-feature-makes-your-pc-very-unattractive-to-password-hackers/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-22 11:53:27+00:00
- - tags: None
 
 Microsoft rolls out a new security feature that should significantly slow down password attacks against Windows devices.
 
@@ -124,7 +109,6 @@ Microsoft rolls out a new security feature that should significantly slow down p
  - [https://www.zdnet.com/article/best-podcast-app/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-podcast-app/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-22 11:18:00+00:00
- - tags: None
 
 Podcasts have grown in popularity, and so have the ways to listen to them. The top podcast apps come with personalized playlists, offline listening, bonus content, and more. We compared five of them to determine the best app overall, and you may be surprised.
 
@@ -132,7 +116,6 @@ Podcasts have grown in popularity, and so have the ways to listen to them. The t
  - [https://www.zdnet.com/article/programming-languages-its-time-to-stop-using-c-and-c-for-new-projects-says-microsoft-azure-cto/#ftag=RSSbaffb68](https://www.zdnet.com/article/programming-languages-its-time-to-stop-using-c-and-c-for-new-projects-says-microsoft-azure-cto/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-22 10:29:26+00:00
- - tags: None
 
 The industry should treat C and C++ languages as 'deprecated', says Azure CTO.
 
@@ -140,7 +123,6 @@ The industry should treat C and C++ languages as 'deprecated', says Azure CTO.
  - [https://www.zdnet.com/article/microsofts-updated-windows-11-photos-app-makes-it-easier-to-backup-your-pictures/#ftag=RSSbaffb68](https://www.zdnet.com/article/microsofts-updated-windows-11-photos-app-makes-it-easier-to-backup-your-pictures/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-22 09:22:11+00:00
- - tags: None
 
 Microsoft is dumping the legacy Windows 11 Photos app from its pre-bundled apps, but it's still available in the Microsoft Store.
 
@@ -148,7 +130,6 @@ Microsoft is dumping the legacy Windows 11 Photos app from its pre-bundled apps,
  - [https://www.zdnet.com/article/optus-security-breach-compromises-customers-passport-details/#ftag=RSSbaffb68](https://www.zdnet.com/article/optus-security-breach-compromises-customers-passport-details/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-22 06:42:38+00:00
- - tags: None
 
 Australian operator says it is investigating "unauthorised access" of personal data belonging to its current and former customers, including dates of birth, phone numbers, and passport numbers.
 
@@ -156,7 +137,6 @@ Australian operator says it is investigating "unauthorised access" of personal d
  - [https://www.zdnet.com/article/best-ipad-air-case/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-ipad-air-case/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-22 06:25:00+00:00
- - tags: None
 
 Keeping your iPad Air protected doesn't mean you need to sacrifice quality or style. The best iPad Air cases and covers offer durability and multiple kickstand configurations. In fact, ZDNET's top choice delivers the perfect fit.
 
@@ -164,7 +144,6 @@ Keeping your iPad Air protected doesn't mean you need to sacrifice quality or st
  - [https://www.zdnet.com/home-and-office/yard-outdoors/best-travel-backpack/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/yard-outdoors/best-travel-backpack/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-22 06:11:00+00:00
- - tags: None
 
 When you're on the road, a backpack should fit and protect important items. We tested and analyzed the best travel backpacks to make your next adventure feel like a breeze.
 
@@ -172,7 +151,6 @@ When you're on the road, a backpack should fit and protect important items. We t
  - [https://www.zdnet.com/article/need-ai-powered-voiceovers-micmonster-is-80-off/#ftag=RSSbaffb68](https://www.zdnet.com/article/need-ai-powered-voiceovers-micmonster-is-80-off/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-22 05:55:09+00:00
- - tags: None
 
 Micmonster is the text-to-speech tool that lets you take your pick of voices in 129 languages.
 
@@ -180,7 +158,6 @@ Micmonster is the text-to-speech tool that lets you take your pick of voices in 
  - [https://www.zdnet.com/article/need-ai-powered-voiceovers-micmonster-is-50-off/#ftag=RSSbaffb68](https://www.zdnet.com/article/need-ai-powered-voiceovers-micmonster-is-50-off/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-22 05:55:00+00:00
- - tags: None
 
 Micmonster is the text-to-speech tool that lets you take your pick of voices in 129 languages.
 
@@ -188,6 +165,5 @@ Micmonster is the text-to-speech tool that lets you take your pick of voices in 
  - [https://www.zdnet.com/article/macbook-air-deal-13-3-inch-refurbished-model-is-80-off/#ftag=RSSbaffb68](https://www.zdnet.com/article/macbook-air-deal-13-3-inch-refurbished-model-is-80-off/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-22 05:52:00+00:00
- - tags: None
 
 This 2015 MacBook Air has a stunning Retina display and powerful internals yet weighs only three pounds.

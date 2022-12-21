@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## CIA Warned Europe of Potential Attacks on Nord Stream Pipelines
  - [https://www.nytimes.com/2022/09/27/world/europe/cia-nord-stream-pipelines-attack.html](https://www.nytimes.com/2022/09/27/world/europe/cia-nord-stream-pipelines-attack.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-27 23:25:50+00:00
- - tags: None
 
 The warning was not specific, the officials said, and they declined to say whether Russia was identified as a possible attacker.
 
@@ -12,7 +11,6 @@ The warning was not specific, the officials said, and they declined to say wheth
  - [https://www.nytimes.com/2022/09/27/world/europe/pipeline-leak-russia-nord-stream.html](https://www.nytimes.com/2022/09/27/world/europe/pipeline-leak-russia-nord-stream.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-27 23:22:06+00:00
- - tags: None
 
 The leaks in the Nord Stream under the Baltic Sea heightened fears of shortages because of the clash with Russia, and showed how vital infrastructure could be at risk.
 
@@ -20,7 +18,6 @@ The leaks in the Nord Stream under the Baltic Sea heightened fears of shortages 
  - [https://www.nytimes.com/2022/09/27/briefing/russia-pipeline-typhoon-noru.html](https://www.nytimes.com/2022/09/27/briefing/russia-pipeline-typhoon-noru.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-27 21:48:10+00:00
- - tags: None
 
 Plus a typhoon heads toward Vietnam and a thwarted Chinese attempt to influence U.S. elections.
 
@@ -28,7 +25,6 @@ Plus a typhoon heads toward Vietnam and a thwarted Chinese attempt to influence 
  - [https://www.nytimes.com/2022/09/27/world/europe/putin-ukraine-referendum.html](https://www.nytimes.com/2022/09/27/world/europe/putin-ukraine-referendum.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-27 21:22:35+00:00
- - tags: None
 
 The staged votes earned broad international condemnation, and world leaders vowed not to recognize the announced results.
 
@@ -36,7 +32,6 @@ The staged votes earned broad international condemnation, and world leaders vowe
  - [https://www.nytimes.com/2022/09/27/world/europe/uk-economy-truss-pound.html](https://www.nytimes.com/2022/09/27/world/europe/uk-economy-truss-pound.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-27 20:19:06+00:00
- - tags: None
 
 Three weeks into her term, Prime Minister Liz Truss’s financial plans have thrown the markets and Britain’s currency into chaos and put her future in peril.
 
@@ -44,7 +39,6 @@ Three weeks into her term, Prime Minister Liz Truss’s financial plans have thr
  - [https://www.nytimes.com/2022/09/27/world/middleeast/mohammed-bin-salman-prime-minister-saudi.html](https://www.nytimes.com/2022/09/27/world/middleeast/mohammed-bin-salman-prime-minister-saudi.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-27 19:46:32+00:00
- - tags: None
 
 The crown prince, who has already been the kingdom’s de facto ruler for several years, previously served as deputy prime minister under King Salman, as well as defense minister.
 
@@ -52,7 +46,6 @@ The crown prince, who has already been the kingdom’s de facto ruler for severa
  - [https://www.nytimes.com/2022/09/28/world/europe/the-number-of-russian-citizens-entering-the-eu-has-jumped-30-percent-since-putins-call-for-more-troops.html](https://www.nytimes.com/2022/09/28/world/europe/the-number-of-russian-citizens-entering-the-eu-has-jumped-30-percent-since-putins-call-for-more-troops.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-27 19:43:49+00:00
- - tags: None
 
 
 
@@ -60,7 +53,6 @@ The crown prince, who has already been the kingdom’s de facto ruler for severa
  - [https://www.nytimes.com/2022/09/27/world/europe/ukraine-war-deaf-family.html](https://www.nytimes.com/2022/09/27/world/europe/ukraine-war-deaf-family.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-27 17:23:00+00:00
- - tags: None
 
 People with disabilities in the country are often isolated and poor, and for those like Antonina Andriyenko and her daughter, Tanya, the fear and confusion of trying to stay safe is a constant struggle.
 
@@ -68,7 +60,6 @@ People with disabilities in the country are often isolated and poor, and for tho
  - [https://www.nytimes.com/2022/09/27/world/europe/uk-keir-starmer-liz-truss-pound-economy.html](https://www.nytimes.com/2022/09/27/world/europe/uk-keir-starmer-liz-truss-pound-economy.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-27 16:33:21+00:00
- - tags: None
 
 Under the governing Conservatives, the markets are down and the pound is under pressure. On Thursday, Keir Starmer, the Labour leader, staked his claim as the guardian of sound fiscal policy.
 
@@ -76,7 +67,6 @@ Under the governing Conservatives, the markets are down and the pound is under p
  - [https://www.nytimes.com/2022/09/27/world/europe/uk-labour-keir-starmer-truss-pound.html](https://www.nytimes.com/2022/09/27/world/europe/uk-labour-keir-starmer-truss-pound.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-27 16:15:19+00:00
- - tags: None
 
 Under the governing Conservatives, the markets are down and the pound is under pressure. On Thursday, Kir Starmer, the Labour leader, staked his claim as the guardian of sound fiscal policy.
 
@@ -84,7 +74,6 @@ Under the governing Conservatives, the markets are down and the pound is under p
  - [https://www.nytimes.com/2022/09/27/business/energy-environment/israel-lebanon-natural-gas-europe.html](https://www.nytimes.com/2022/09/27/business/energy-environment/israel-lebanon-natural-gas-europe.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-27 15:02:01+00:00
- - tags: None
 
 Offshore gas fields in the Mediterranean could become one of several new energy sources for European countries as they seek independence from Russia.
 
@@ -92,7 +81,6 @@ Offshore gas fields in the Mediterranean could become one of several new energy 
  - [https://www.nytimes.com/live/2022/09/27/world/russia-ukraine-war-news](https://www.nytimes.com/live/2022/09/27/world/russia-ukraine-war-news)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-27 12:52:36+00:00
- - tags: None
 
 The Kremlin-led polls have drawn broad international condemnation.
 
@@ -100,7 +88,6 @@ The Kremlin-led polls have drawn broad international condemnation.
  - [https://www.nytimes.com/2022/09/27/world/asia/typhoon-noru-vietnam-philippines.html](https://www.nytimes.com/2022/09/27/world/asia/typhoon-noru-vietnam-philippines.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-27 11:05:07+00:00
- - tags: None
 
 More than 800,000 people were evacuated in central Vietnam ahead of the storm’s expected landfall on Wednesday.
 
@@ -108,7 +95,6 @@ More than 800,000 people were evacuated in central Vietnam ahead of the storm’
  - [https://www.nytimes.com/2022/09/27/world/africa/kenya-lawyer-icc-dead.html](https://www.nytimes.com/2022/09/27/world/africa/kenya-lawyer-icc-dead.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-27 10:20:26+00:00
- - tags: None
 
 Paul Gicheru was accused of tampering with witnesses in favor of President William Ruto, whose trial at The Hague collapsed in 2016. The cause of death is not yet known.
 
@@ -116,7 +102,6 @@ Paul Gicheru was accused of tampering with witnesses in favor of President Willi
  - [https://www.nytimes.com/2022/09/27/world/europe/democracy-politics-threats.html](https://www.nytimes.com/2022/09/27/world/europe/democracy-politics-threats.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-27 09:02:40+00:00
- - tags: None
 
 Authoritarianism is on the rise, even in Europe, and the “new world disorder” is messier than a simple fight between democracies and autocracies.
 
@@ -124,7 +109,6 @@ Authoritarianism is on the rise, even in Europe, and the “new world disorder�
  - [https://www.nytimes.com/2022/09/27/world/ece-temelkuran-turkey-democracy.html](https://www.nytimes.com/2022/09/27/world/ece-temelkuran-turkey-democracy.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-27 09:02:40+00:00
- - tags: None
 
 Ece Temelkuran, a Turkish author, sees parallels between Donald Trump’s claims of election theft and the 2016 attempt to depose Recep Tayyip Erdogan.
 
@@ -132,7 +116,6 @@ Ece Temelkuran, a Turkish author, sees parallels between Donald Trump’s claims
  - [https://www.nytimes.com/2022/09/27/world/mete-coban-young-voters.html](https://www.nytimes.com/2022/09/27/world/mete-coban-young-voters.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-27 09:00:22+00:00
- - tags: None
 
 Mete Coban got into politics in his teens. Now, he’s working to encourage a similar drive in young voters.
 
@@ -140,7 +123,6 @@ Mete Coban got into politics in his teens. Now, he’s working to encourage a si
  - [https://www.nytimes.com/2022/09/27/world/karolina-wigura-liberal-democracy-politics.html](https://www.nytimes.com/2022/09/27/world/karolina-wigura-liberal-democracy-politics.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-27 09:00:18+00:00
- - tags: None
 
 A Polish historian and journalist says she believes it is time for liberal politicians to lean harder on emotion the way populists have for years.
 
@@ -148,7 +130,6 @@ A Polish historian and journalist says she believes it is time for liberal polit
  - [https://www.nytimes.com/2022/09/27/world/ban-ki-moon-democracy.html](https://www.nytimes.com/2022/09/27/world/ban-ki-moon-democracy.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-27 09:00:17+00:00
- - tags: None
 
 The former secretary general of the United Nations is striving to knock down barriers, foster friendship among nations, and campaign for peace and conflict resolution.
 
@@ -156,7 +137,6 @@ The former secretary general of the United Nations is striving to knock down bar
  - [https://www.nytimes.com/2022/09/27/world/europe/germany-nord-stream-pipelines-leak.html](https://www.nytimes.com/2022/09/27/world/europe/germany-nord-stream-pipelines-leak.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-27 07:11:14+00:00
- - tags: None
 
 Neither of the pipelines was active, but both were filled with natural gas. The sharp drop in pressure could only be caused by a leak, authorities said.
 
@@ -164,7 +144,6 @@ Neither of the pipelines was active, but both were filled with natural gas. The 
  - [https://www.nytimes.com/2022/09/27/health/injectable-prep-hiv-africa.html](https://www.nytimes.com/2022/09/27/health/injectable-prep-hiv-africa.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-27 07:00:11+00:00
- - tags: None
 
 An injection every two months rather than a daily pill could shield many more women from the virus, but it is unavailable in places that need it most.
 
@@ -172,7 +151,6 @@ An injection every two months rather than a daily pill could shield many more wo
  - [https://www.nytimes.com/2022/09/27/world/asia/asian-markets-updates-recession-fears.html](https://www.nytimes.com/2022/09/27/world/asia/asian-markets-updates-recession-fears.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-27 06:15:58+00:00
- - tags: None
 
 Concerns about rising interest rates and the prospects of a global slowdown remain.
 
@@ -180,7 +158,6 @@ Concerns about rising interest rates and the prospects of a global slowdown rema
  - [https://www.nytimes.com/2022/09/27/briefing/italy-meloni-russia-draft.html](https://www.nytimes.com/2022/09/27/briefing/italy-meloni-russia-draft.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-27 05:30:20+00:00
- - tags: None
 
 Europe balks at Italy’s rightward turn.
 
@@ -188,7 +165,6 @@ Europe balks at Italy’s rightward turn.
  - [https://www.nytimes.com/2022/09/27/world/europe/as-referendums-end-a-declaration-of-russian-annexation-is-expected-to-follow.html](https://www.nytimes.com/2022/09/27/world/europe/as-referendums-end-a-declaration-of-russian-annexation-is-expected-to-follow.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-27 05:04:49+00:00
- - tags: None
 
 
 
@@ -196,6 +172,5 @@ Europe balks at Italy’s rightward turn.
  - [https://www.nytimes.com/2022/09/26/world/americas/cuba-same-sex-marriage-adoption.html](https://www.nytimes.com/2022/09/26/world/americas/cuba-same-sex-marriage-adoption.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-27 00:40:59+00:00
- - tags: None
 
 The sweeping 100-page law will also allow same-sex couples to adopt and includes measures that expand protections for women, children and the elderly.

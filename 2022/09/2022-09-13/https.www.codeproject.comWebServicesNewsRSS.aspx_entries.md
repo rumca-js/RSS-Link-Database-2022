@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## .NET now on Windows Package Manager
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58860](https://www.codeproject.com/script/News/View.aspx?nwid=58860)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-13 04:00:00+00:00
- - tags: None
 
 Because downloading direct is just too easy
 
@@ -12,7 +11,6 @@ Because downloading direct is just too easy
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58864](https://www.codeproject.com/script/News/View.aspx?nwid=58864)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-13 04:00:00+00:00
- - tags: None
 
 When's LEG day?
 
@@ -20,7 +18,6 @@ When's LEG day?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58851](https://www.codeproject.com/script/News/View.aspx?nwid=58851)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-13 04:00:00+00:00
- - tags: None
 
 Errors are likely to occur, the question is how to handle them. Let’s take a look at best practices in handling them in your Blazor app.
 
@@ -28,7 +25,6 @@ Errors are likely to occur, the question is how to handle them. Let’s take a l
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58853](https://www.codeproject.com/script/News/View.aspx?nwid=58853)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-13 04:00:00+00:00
- - tags: None
 
 Mobile-first web strategies let developers and designers focus on the core of the product and use cases that address this expanding market.
 
@@ -36,7 +32,6 @@ Mobile-first web strategies let developers and designers focus on the core of th
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58849](https://www.codeproject.com/script/News/View.aspx?nwid=58849)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-13 04:00:00+00:00
- - tags: None
 
 In this article, I want to share my experience and inspire anyone feeling paralyzed with choosing one ecosystem over the other by showing how concepts transfer over and any new concepts are learnable.
 
@@ -44,7 +39,6 @@ In this article, I want to share my experience and inspire anyone feeling paraly
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58862](https://www.codeproject.com/script/News/View.aspx?nwid=58862)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-13 04:00:00+00:00
- - tags: None
 
 They've cancelled all their software projects, time to move to hardware
 
@@ -52,7 +46,6 @@ They've cancelled all their software projects, time to move to hardware
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58850](https://www.codeproject.com/script/News/View.aspx?nwid=58850)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-13 04:00:00+00:00
- - tags: None
 
 Improving HTML markup can make websites more accessible for assisted technology and help developers with automated testing.
 
@@ -60,7 +53,6 @@ Improving HTML markup can make websites more accessible for assisted technology 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58854](https://www.codeproject.com/script/News/View.aspx?nwid=58854)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-13 04:00:00+00:00
- - tags: None
 
 Entity Framework Core allows you to store and retrieve data to and from an in-memory database. It’s a quick and easy way to test your ASP.NET Core 6 web applications.
 
@@ -68,7 +60,6 @@ Entity Framework Core allows you to store and retrieve data to and from an in-me
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58858](https://www.codeproject.com/script/News/View.aspx?nwid=58858)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-13 04:00:00+00:00
- - tags: None
 
 "Clever girl"
 
@@ -76,7 +67,6 @@ Entity Framework Core allows you to store and retrieve data to and from an in-me
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58859](https://www.codeproject.com/script/News/View.aspx?nwid=58859)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-13 04:00:00+00:00
- - tags: None
 
 Or quit quitting the quitting quitters. Quite!
 
@@ -84,7 +74,6 @@ Or quit quitting the quitting quitters. Quite!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58856](https://www.codeproject.com/script/News/View.aspx?nwid=58856)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-13 04:00:00+00:00
- - tags: None
 
 Even faster if you rewrite in C
 
@@ -92,7 +81,6 @@ Even faster if you rewrite in C
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58852](https://www.codeproject.com/script/News/View.aspx?nwid=58852)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-13 04:00:00+00:00
- - tags: None
 
 I was excited when I started writing my first end-to-end tests years ago.
 
@@ -100,7 +88,6 @@ I was excited when I started writing my first end-to-end tests years ago.
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58865](https://www.codeproject.com/script/News/View.aspx?nwid=58865)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-13 04:00:00+00:00
- - tags: None
 
 
 
@@ -108,7 +95,6 @@ I was excited when I started writing my first end-to-end tests years ago.
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58863](https://www.codeproject.com/script/News/View.aspx?nwid=58863)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-13 04:00:00+00:00
- - tags: None
 
 Believe them or not, they are solid arguments
 
@@ -116,7 +102,6 @@ Believe them or not, they are solid arguments
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58855](https://www.codeproject.com/script/News/View.aspx?nwid=58855)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-13 04:00:00+00:00
- - tags: None
 
 A regular 'non-programmer' or management track one?
 
@@ -124,7 +109,6 @@ A regular 'non-programmer' or management track one?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58861](https://www.codeproject.com/script/News/View.aspx?nwid=58861)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-13 04:00:00+00:00
- - tags: None
 
 Uranus McUranusface, of course
 
@@ -132,7 +116,6 @@ Uranus McUranusface, of course
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58848](https://www.codeproject.com/script/News/View.aspx?nwid=58848)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-13 04:00:00+00:00
- - tags: None
 
 JavaScript frameworks are a useful tool for developers because they help developers be more efficient by eliminating the need to rewrite boilerplate code for a new app or download individual libraries.
 
@@ -140,6 +123,5 @@ JavaScript frameworks are a useful tool for developers because they help develop
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58857](https://www.codeproject.com/script/News/View.aspx?nwid=58857)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-13 04:00:00+00:00
- - tags: None
 
 Does it auto-convert all the messages to "Can you hear me now?"

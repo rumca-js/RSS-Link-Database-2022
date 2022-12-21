@@ -1,10 +1,9 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/
+# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
 
 ## 'House of the Dragon': Laena Velaryon's Shocking Decision Explained     - CNET
  - [https://www.cnet.com/culture/entertainment/house-of-the-dragon-laena-velaryons-shocking-decision-explained-hbo/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/house-of-the-dragon-laena-velaryons-shocking-decision-explained-hbo/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 23:52:00+00:00
- - tags: None
 
 Daemon Targaryen's wife Laena is faced with a terrible choice at the end of episode 6.
 
@@ -12,7 +11,6 @@ Daemon Targaryen's wife Laena is faced with a terrible choice at the end of epis
  - [https://www.cnet.com/roadshow/pictures/2023-bentley-bentayga-ewb-is-long-on-luxury/#ftag=CADf328eec](https://www.cnet.com/roadshow/pictures/2023-bentley-bentayga-ewb-is-long-on-luxury/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 23:01:01+00:00
- - tags: None
 
 The 2023 Bentayga EWB stretches out Bentley's bestselling luxury SUV to better pamper backseat passengers.
 
@@ -20,7 +18,6 @@ The 2023 Bentayga EWB stretches out Bentley's bestselling luxury SUV to better p
  - [https://www.cnet.com/roadshow/news/the-new-dragonfly-hyperscooter-is-a-rare-4-wheel-electric-scooter/#ftag=CADf328eec](https://www.cnet.com/roadshow/news/the-new-dragonfly-hyperscooter-is-a-rare-4-wheel-electric-scooter/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 23:00:02+00:00
- - tags: None
 
 Why ride on two wheels, when you can use four?
 
@@ -28,7 +25,6 @@ Why ride on two wheels, when you can use four?
  - [https://www.cnet.com/tech/services-and-software/amazon-to-rebrand-epix-streaming-channel-as-mgm-plus/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/amazon-to-rebrand-epix-streaming-channel-as-mgm-plus/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 22:59:00+00:00
- - tags: None
 
 The name change follows Amazon's $8.45 billion acquisition of MGM earlier this year.
 
@@ -36,7 +32,6 @@ The name change follows Amazon's $8.45 billion acquisition of MGM earlier this y
  - [https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-6-explained-the-princess-and-the-queen/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-6-explained-the-princess-and-the-queen/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 22:57:00+00:00
- - tags: None
 
 Shockingly, relations between princess and queen are not good.
 
@@ -44,7 +39,6 @@ Shockingly, relations between princess and queen are not good.
  - [https://www.cnet.com/culture/entertainment/heres-when-episode-6-of-the-rings-of-power-drops-in-your-timezone/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/heres-when-episode-6-of-the-rings-of-power-drops-in-your-timezone/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 22:56:00+00:00
- - tags: None
 
 Episode 6 of The Rings of Power is almost here!
 
@@ -52,7 +46,6 @@ Episode 6 of The Rings of Power is almost here!
  - [https://www.cnet.com/culture/entertainment/who-is-the-stranger-in-rings-of-power-see-our-best-guesses/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/who-is-the-stranger-in-rings-of-power-see-our-best-guesses/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 22:51:00+00:00
- - tags: None
 
 Let's solve the biggest mystery in Rings of Power...
 
@@ -60,7 +53,6 @@ Let's solve the biggest mystery in Rings of Power...
  - [https://www.cnet.com/health/medical/new-study-backs-what-we-know-about-covid-vaccines-and-periods/#ftag=CADf328eec](https://www.cnet.com/health/medical/new-study-backs-what-we-know-about-covid-vaccines-and-periods/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 22:11:29+00:00
- - tags: None
 
 People's periods may be slightly delayed after vaccination. But experts say it's temporary and even makes sense given the number of outside influences on the menstrual cycle.
 
@@ -68,7 +60,6 @@ People's periods may be slightly delayed after vaccination. But experts say it's
  - [https://www.cnet.com/news/your-kindle-likely-uses-fossil-fuels-amazon-wants-to-measure-those-emissions/#ftag=CADf328eec](https://www.cnet.com/news/your-kindle-likely-uses-fossil-fuels-amazon-wants-to-measure-those-emissions/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 22:11:27+00:00
- - tags: None
 
 Exclusive: Amazon rolled out more sustainable devices and packaging, and a standard for measuring the carbon footprint of device use.
 
@@ -76,7 +67,6 @@ Exclusive: Amazon rolled out more sustainable devices and packaging, and a stand
  - [https://www.cnet.com/science/space/terrifying-satellite-footage-spots-hurricane-ian-making-landfall-in-florida/#ftag=CADf328eec](https://www.cnet.com/science/space/terrifying-satellite-footage-spots-hurricane-ian-making-landfall-in-florida/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 22:07:00+00:00
- - tags: None
 
 See lightning spark around the dangerous storm as it reaches the Florida peninsula.
 
@@ -84,7 +74,6 @@ See lightning spark around the dangerous storm as it reaches the Florida peninsu
  - [https://www.cnet.com/roadshow/pictures/2023-bmw-z4-roadster/#ftag=CADf328eec](https://www.cnet.com/roadshow/pictures/2023-bmw-z4-roadster/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 22:01:01+00:00
- - tags: None
 
 BMW's roadster gets a few small updates for 2023.
 
@@ -92,7 +81,6 @@ BMW's roadster gets a few small updates for 2023.
  - [https://www.cnet.com/health/sleep/how-to-power-nap-according-to-a-sleep-specialist/#ftag=CADf328eec](https://www.cnet.com/health/sleep/how-to-power-nap-according-to-a-sleep-specialist/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 22:00:00+00:00
- - tags: None
 
 If you need a midday power nap, here's how to do it right.
 
@@ -100,7 +88,6 @@ If you need a midday power nap, here's how to do it right.
  - [https://www.cnet.com/tech/mobile/microsoft-is-discontinuing-swiftkey-for-ios/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/microsoft-is-discontinuing-swiftkey-for-ios/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 21:46:00+00:00
- - tags: None
 
 The app will be delisted from Apple's App Store on Oct. 5.
 
@@ -108,7 +95,6 @@ The app will be delisted from Apple's App Store on Oct. 5.
  - [https://www.cnet.com/science/climate/tweaking-the-global-food-system-could-feed-1-billion-more-people/#ftag=CADf328eec](https://www.cnet.com/science/climate/tweaking-the-global-food-system-could-feed-1-billion-more-people/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 21:41:00+00:00
- - tags: None
 
 Scientists outline a promising plan to mitigate the hunger crisis.
 
@@ -116,7 +102,6 @@ Scientists outline a promising plan to mitigate the hunger crisis.
  - [https://www.cnet.com/tech/gaming/cyberpunk-2077-hits-20-million-sales-thanks-to-latest-surge/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/cyberpunk-2077-hits-20-million-sales-thanks-to-latest-surge/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 21:31:00+00:00
- - tags: None
 
 New DLC and a Netflix series appear to help with game sales.
 
@@ -124,7 +109,6 @@ New DLC and a Netflix series appear to help with game sales.
  - [https://www.cnet.com/personal-finance/taxes/state-stimulus-checks-2022-these-states-are-sending-payments-in-october/#ftag=CADf328eec](https://www.cnet.com/personal-finance/taxes/state-stimulus-checks-2022-these-states-are-sending-payments-in-october/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 21:04:06+00:00
- - tags: None
 
 More states are issuing tax rebates and inflation-relief checks this fall. Find out if yours is one of them.
 
@@ -132,7 +116,6 @@ More states are issuing tax rebates and inflation-relief checks this fall. Find 
  - [https://www.cnet.com/tech/home-entertainment/backyard-movie-night/#ftag=CADf328eec](https://www.cnet.com/tech/home-entertainment/backyard-movie-night/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 20:59:44+00:00
- - tags: None
 
 Take full advantage of that outdoor space this fall. Here's the gear we recommend for an outdoor movie night.
 
@@ -140,7 +123,6 @@ Take full advantage of that outdoor space this fall. Here's the gear we recommen
  - [https://www.cnet.com/news/social-media/twitter-ran-ads-on-profiles-that-solicited-child-sexual-abuse-content/#ftag=CADf328eec](https://www.cnet.com/news/social-media/twitter-ran-ads-on-profiles-that-solicited-child-sexual-abuse-content/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 20:58:19+00:00
- - tags: None
 
 Twitter said it's investigating the situation and suspended profiles for violating its rules.
 
@@ -148,7 +130,6 @@ Twitter said it's investigating the situation and suspended profiles for violati
  - [https://www.cnet.com/news/social-media/twitter-ran-ads-on-profiles-trading-in-child-sexual-abuse-content/#ftag=CADf328eec](https://www.cnet.com/news/social-media/twitter-ran-ads-on-profiles-trading-in-child-sexual-abuse-content/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 20:58:00+00:00
- - tags: None
 
 Twitter says it's investigating the situation and suspended profiles for violating its rules.
 
@@ -156,7 +137,6 @@ Twitter says it's investigating the situation and suspended profiles for violati
  - [https://www.cnet.com/culture/mcdonalds-releasing-happy-meal-inspired-box-for-adults/#ftag=CADf328eec](https://www.cnet.com/culture/mcdonalds-releasing-happy-meal-inspired-box-for-adults/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 20:48:00+00:00
- - tags: None
 
 The Cactus Plant Flea Market Box comes with either a burger or nuggets. There's also a wonky-looking figurine in the mix.
 
@@ -164,7 +144,6 @@ The Cactus Plant Flea Market Box comes with either a burger or nuggets. There's 
  - [https://www.cnet.com/tech/mobile/why-you-should-make-time-to-clear-your-android-phones-cache-today/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/why-you-should-make-time-to-clear-your-android-phones-cache-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 20:45:22+00:00
- - tags: None
 
 You'd be surprised how much data is hanging out in your phone that you don't need.
 
@@ -172,7 +151,6 @@ You'd be surprised how much data is hanging out in your phone that you don't nee
  - [https://www.cnet.com/roadshow/news/tesla-ai-day-2022-elon-musks-optimus-robot-how-to-watch-and-more/#ftag=CADf328eec](https://www.cnet.com/roadshow/news/tesla-ai-day-2022-elon-musks-optimus-robot-how-to-watch-and-more/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 20:44:00+00:00
- - tags: None
 
 Engineers are trying to make a Tesla Bot for dangerous or boring work. At AI Day, expect updates on FSD technology for eventual self-driving cars too.
 
@@ -180,7 +158,6 @@ Engineers are trying to make a Tesla Bot for dangerous or boring work. At AI Day
  - [https://www.cnet.com/culture/national-coffee-day-2022-free-coffee-at-dunkin-krispy-kreme-peets/#ftag=CADf328eec](https://www.cnet.com/culture/national-coffee-day-2022-free-coffee-at-dunkin-krispy-kreme-peets/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 20:31:00+00:00
- - tags: None
 
 Find out how to get free coffee, discounts on beans and more.
 
@@ -188,7 +165,6 @@ Find out how to get free coffee, discounts on beans and more.
  - [https://www.cnet.com/how-to/amazon-hardware-event-all-the-amazon-alexa-commands-you-need-to-know-for-your-echo-devices/#ftag=CADf328eec](https://www.cnet.com/how-to/amazon-hardware-event-all-the-amazon-alexa-commands-you-need-to-know-for-your-echo-devices/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 20:27:00+00:00
- - tags: None
 
 What can Amazon Alexa do for you? Here are all the voice commands you should know, including a few new ones that Amazon just announced at its fall event.
 
@@ -196,7 +172,6 @@ What can Amazon Alexa do for you? Here are all the voice commands you should kno
  - [https://www.cnet.com/deals/best-microsd-card-deals/#ftag=CADf328eec](https://www.cnet.com/deals/best-microsd-card-deals/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 20:25:09+00:00
- - tags: None
 
 We've rounded up all the best MicroSD card bargains so you can grab some tiny memory cards at a big discount.
 
@@ -204,7 +179,6 @@ We've rounded up all the best MicroSD card bargains so you can grab some tiny me
  - [https://www.cnet.com/deals/best-beats-headphone-deals/#ftag=CADf328eec](https://www.cnet.com/deals/best-beats-headphone-deals/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 20:00:00+00:00
- - tags: None
 
 Discounts on popular Beats headphones and earbuds can be all over the place. We've rounded up the best ones for you.
 
@@ -212,7 +186,6 @@ Discounts on popular Beats headphones and earbuds can be all over the place. We'
  - [https://www.cnet.com/tech/services-and-software/best-food-delivery-service/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/best-food-delivery-service/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 19:59:53+00:00
- - tags: None
 
 Use your phone to order delivery from a nearby restaurant with one of these apps. We've compared the best ones.
 
@@ -220,7 +193,6 @@ Use your phone to order delivery from a nearby restaurant with one of these apps
  - [https://www.cnet.com/how-to/make-your-life-easier-with-amazon-alexa-routines-heres-how-to-set-them-up/#ftag=CADf328eec](https://www.cnet.com/how-to/make-your-life-easier-with-amazon-alexa-routines-heres-how-to-set-them-up/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 19:42:37+00:00
- - tags: None
 
 Alexa can automate your day with one simple command. Here's a step-by-step guide to set it up and what to ask your Amazon Echo -- especially since new Echos are on the way.
 
@@ -228,7 +200,6 @@ Alexa can automate your day with one simple command. Here's a step-by-step guide
  - [https://www.cnet.com/tech/services-and-software/google-search-gets-a-tiktok-look-by-spotlighting-short-form-video/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/google-search-gets-a-tiktok-look-by-spotlighting-short-form-video/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 19:35:00+00:00
- - tags: None
 
 Google is trying to make search results richer and more useful.
 
@@ -236,7 +207,6 @@ Google is trying to make search results richer and more useful.
  - [https://www.cnet.com/how-to/amazon-alexa-5-hidden-features-youve-gotta-try-on-your-echo/#ftag=CADf328eec](https://www.cnet.com/how-to/amazon-alexa-5-hidden-features-youve-gotta-try-on-your-echo/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 19:25:02+00:00
- - tags: None
 
 You know Alexa can play music and give you the weather, but how about finding your phone or guarding your home?
 
@@ -244,7 +214,6 @@ You know Alexa can play music and give you the weather, but how about finding yo
  - [https://www.cnet.com/tech/mobile/hurricane-ian-at-t-verizon-t-mobile-offer-free-wireless-service-for-impacted-customers/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/hurricane-ian-at-t-verizon-t-mobile-offer-free-wireless-service-for-impacted-customers/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 19:17:00+00:00
- - tags: None
 
 The nation's top carriers are also working with public safety agencies and emergency shelters to ensure service is maintained.
 
@@ -252,7 +221,6 @@ The nation's top carriers are also working with public safety agencies and emerg
  - [https://www.cnet.com/science/dogs-can-smell-the-stress-on-us-scientists-say/#ftag=CADf328eec](https://www.cnet.com/science/dogs-can-smell-the-stress-on-us-scientists-say/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 19:04:00+00:00
- - tags: None
 
 New research suggests our anxiousness stinks, and that dogs can pick up on it from our sweat or breath.
 
@@ -260,7 +228,6 @@ New research suggests our anxiousness stinks, and that dogs can pick up on it fr
  - [https://www.cnet.com/news/everything-amazon-announced-at-its-2022-hardware-event/#ftag=CADf328eec](https://www.cnet.com/news/everything-amazon-announced-at-its-2022-hardware-event/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 19:03:00+00:00
- - tags: None
 
 A bunch of new Amazon devices were just unveiled, including the Kindle Scribe and Halo Rise.
 
@@ -268,7 +235,6 @@ A bunch of new Amazon devices were just unveiled, including the Kindle Scribe an
  - [https://www.cnet.com/tech/computing/kindle-scribe-is-more-than-an-e-reader-you-can-draw-on-it-too/#ftag=CADf328eec](https://www.cnet.com/tech/computing/kindle-scribe-is-more-than-an-e-reader-you-can-draw-on-it-too/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 19:02:00+00:00
- - tags: None
 
 Now you can take notes, mark up documents and doodle all in one place.
 
@@ -276,7 +242,6 @@ Now you can take notes, mark up documents and doodle all in one place.
  - [https://www.cnet.com/news/amazons-new-echo-dot-speakers-promise-the-best-sound-yet/#ftag=CADf328eec](https://www.cnet.com/news/amazons-new-echo-dot-speakers-promise-the-best-sound-yet/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 19:01:57+00:00
- - tags: None
 
 From the Echo Dot with Clock to the Echo Dots Kids, Amazon's new speakers have twice as much bass as before.
 
@@ -284,7 +249,6 @@ From the Echo Dot with Clock to the Echo Dots Kids, Amazon's new speakers have t
  - [https://www.cnet.com/culture/entertainment/she-hulk-release-schedule-when-does-episode-7-land-on-disney-plus/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/she-hulk-release-schedule-when-does-episode-7-land-on-disney-plus/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 19:00:03+00:00
- - tags: None
 
 Yep, we're up to episode 7! Let's look at the exact release time for the next episode of Marvel's comedy-superhero series.
 
@@ -292,7 +256,6 @@ Yep, we're up to episode 7! Let's look at the exact release time for the next ep
  - [https://www.cnet.com/culture/internet/the-try-guys-drama-explained-who-is-ned-fulmer-and-what-did-he-do/#ftag=CADf328eec](https://www.cnet.com/culture/internet/the-try-guys-drama-explained-who-is-ned-fulmer-and-what-did-he-do/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 18:54:00+00:00
- - tags: None
 
 Here's everything you need to know about why the popular YouTube group let go of Fulmer.
 
@@ -300,7 +263,6 @@ Here's everything you need to know about why the popular YouTube group let go of
  - [https://www.cnet.com/news/amazon-astros-newest-tricks-dont-include-being-on-sale/#ftag=CADf328eec](https://www.cnet.com/news/amazon-astros-newest-tricks-dont-include-being-on-sale/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 18:52:00+00:00
- - tags: None
 
 The home robot just got even better for helicopter pet parents.
 
@@ -308,7 +270,6 @@ The home robot just got even better for helicopter pet parents.
  - [https://www.cnet.com/news/amazon-is-giving-your-echo-show-15-the-fire-tv-treatment/#ftag=CADf328eec](https://www.cnet.com/news/amazon-is-giving-your-echo-show-15-the-fire-tv-treatment/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 18:47:24+00:00
- - tags: None
 
 New and existing Echo Show 15 owners will be able to take advantage of Amazon's upcoming Fire TV update.
 
@@ -316,7 +277,6 @@ New and existing Echo Show 15 owners will be able to take advantage of Amazon's 
  - [https://www.cnet.com/news/amazon-astro-review/#ftag=CADf328eec](https://www.cnet.com/news/amazon-astro-review/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 18:45:00+00:00
- - tags: None
 
 Amazon's ambitious robot assistant is equal parts fascinating and frustrating. It also still isn't for sale.
 
@@ -324,7 +284,6 @@ Amazon's ambitious robot assistant is equal parts fascinating and frustrating. I
  - [https://www.cnet.com/roadshow/news/echo-auto-2nd-gen-bring-alexa-with-you-on-your-commute-or-travels/#ftag=CADf328eec](https://www.cnet.com/roadshow/news/echo-auto-2nd-gen-bring-alexa-with-you-on-your-commute-or-travels/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 18:42:00+00:00
- - tags: None
 
 The company also introduces Amazon Roadside Assistance, which lets drivers call via Alexa for help with problems like a flat tire or an empty gas tank.
 
@@ -332,7 +291,6 @@ The company also introduces Amazon Roadside Assistance, which lets drivers call 
  - [https://www.cnet.com/culture/veterinarian-reveals-the-five-dog-breeds-hed-never-pick/#ftag=CADf328eec](https://www.cnet.com/culture/veterinarian-reveals-the-five-dog-breeds-hed-never-pick/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 18:31:00+00:00
- - tags: None
 
 Pugs and dachshunds have lots of fans, but also lots of health issues.
 
@@ -340,7 +298,6 @@ Pugs and dachshunds have lots of fans, but also lots of health issues.
  - [https://www.cnet.com/culture/m-ms-debuts-purple-candy-its-first-new-color-in-10-years/#ftag=CADf328eec](https://www.cnet.com/culture/m-ms-debuts-purple-candy-its-first-new-color-in-10-years/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 18:29:00+00:00
- - tags: None
 
 "I'm just gonna be me," the new female peanut M&amp;M declares in a promo video.
 
@@ -348,7 +305,6 @@ Pugs and dachshunds have lots of fans, but also lots of health issues.
  - [https://www.cnet.com/tech/mobile/hidden-perks-of-amazon-prime-make-it-much-more-than-a-delivery-service/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/hidden-perks-of-amazon-prime-make-it-much-more-than-a-delivery-service/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 18:25:30+00:00
- - tags: None
 
 Amazon's subscription service provides a bevy of benefits beyond expedited shipping.
 
@@ -356,7 +312,6 @@ Amazon's subscription service provides a bevy of benefits beyond expedited shipp
  - [https://www.cnet.com/news/amazons-echo-studio-debuts-new-color-and-audio-upgrades/#ftag=CADf328eec](https://www.cnet.com/news/amazons-echo-studio-debuts-new-color-and-audio-upgrades/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 18:25:00+00:00
- - tags: None
 
 The premium smart speaker now comes with spatial audio a sleek glacier white hue.
 
@@ -364,7 +319,6 @@ The premium smart speaker now comes with spatial audio a sleek glacier white hue
  - [https://www.cnet.com/news/amazons-new-ring-spotlight-camera-gets-3d-motion-detection-but-youll-have-to-go-pro/#ftag=CADf328eec](https://www.cnet.com/news/amazons-new-ring-spotlight-camera-gets-3d-motion-detection-but-youll-have-to-go-pro/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 18:25:00+00:00
- - tags: None
 
 Ring unveiled two new feature-rich outdoor cameras at Amazon's fall event, the Ring Spotlight Cam Plus and the Ring Spotlight Cam Pro.
 
@@ -372,7 +326,6 @@ Ring unveiled two new feature-rich outdoor cameras at Amazon's fall event, the R
  - [https://www.cnet.com/news/amazons-echo-studio-debuts-new-colors-and-audio-upgrades/#ftag=CADf328eec](https://www.cnet.com/news/amazons-echo-studio-debuts-new-colors-and-audio-upgrades/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 18:20:00+00:00
- - tags: None
 
 Customize the device with the new glacier white color today and the audio improvements make for, "an immersive audio experience."
 
@@ -380,7 +333,6 @@ Customize the device with the new glacier white color today and the audio improv
  - [https://www.cnet.com/health/sleep/amazon-reveals-the-halo-rise-a-sleep-sensing-gadget-and-sunrise-alarm-clock/#ftag=CADf328eec](https://www.cnet.com/health/sleep/amazon-reveals-the-halo-rise-a-sleep-sensing-gadget-and-sunrise-alarm-clock/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 18:16:00+00:00
- - tags: None
 
 It's a sleep tracker for people who prefer not to wear a wristband or smartwatch overnight.
 
@@ -388,7 +340,6 @@ It's a sleep tracker for people who prefer not to wear a wristband or smartwatch
  - [https://www.cnet.com/personal-finance/how-to-make-money-from-that-car-sitting-in-your-garage/#ftag=CADf328eec](https://www.cnet.com/personal-finance/how-to-make-money-from-that-car-sitting-in-your-garage/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 18:15:02+00:00
- - tags: None
 
 If you've got a car you don't use much, considering renting it out online to gig drivers or tourists.
 
@@ -396,7 +347,6 @@ If you've got a car you don't use much, considering renting it out online to gig
  - [https://www.cnet.com/tech/gaming/razer-verizon-and-qualcomm-are-making-a-5g-gaming-handheld/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/razer-verizon-and-qualcomm-are-making-a-5g-gaming-handheld/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 18:08:00+00:00
- - tags: None
 
 Another Switch competitor is entering the arena in the form of the Razer Edge 5G.
 
@@ -404,7 +354,6 @@ Another Switch competitor is entering the arena in the form of the Razer Edge 5G
  - [https://www.cnet.com/tech/home-entertainment/new-fire-tv-omni-qled-amazon-gets-a-creepy-detection-feature/#ftag=CADf328eec](https://www.cnet.com/tech/home-entertainment/new-fire-tv-omni-qled-amazon-gets-a-creepy-detection-feature/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 18:05:00+00:00
- - tags: None
 
 The new 65- and 75-inch TVs turn on automatically to display art, photos and widgets, plus promise better picture quality.
 
@@ -412,7 +361,6 @@ The new 65- and 75-inch TVs turn on automatically to display art, photos and wid
  - [https://www.cnet.com/health/nutrition/best-zinc-supplements/#ftag=CADf328eec](https://www.cnet.com/health/nutrition/best-zinc-supplements/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 18:00:07+00:00
- - tags: None
 
 If you're zinc deficient, you may be looking for a supplement. You've come to the right place.
 
@@ -420,7 +368,6 @@ If you're zinc deficient, you may be looking for a supplement. You've come to th
  - [https://www.cnet.com/health/nutrition/best-vitamins-for-flu-season/#ftag=CADf328eec](https://www.cnet.com/health/nutrition/best-vitamins-for-flu-season/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 18:00:02+00:00
- - tags: None
 
 Flu season 2022 is officially in full swing. Here are the best vitamins and nutrients that can help you fend off influenza.
 
@@ -428,7 +375,6 @@ Flu season 2022 is officially in full swing. Here are the best vitamins and nutr
  - [https://www.cnet.com/news/have-an-old-echo-dot-eero-wants-to-turn-it-into-a-mesh-wi-fi-extender-for-free/#ftag=CADf328eec](https://www.cnet.com/news/have-an-old-echo-dot-eero-wants-to-turn-it-into-a-mesh-wi-fi-extender-for-free/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 18:00:00+00:00
- - tags: None
 
 Amazon's fourth-gen Echo and Echo Dot speakers will soon be able to act as mesh extenders for Eero's Wi-Fi routers.
 
@@ -436,7 +382,6 @@ Amazon's fourth-gen Echo and Echo Dot speakers will soon be able to act as mesh 
  - [https://www.cnet.com/tech/computing/dall-e-opens-its-ai-art-creation-tool-to-everyone/#ftag=CADf328eec](https://www.cnet.com/tech/computing/dall-e-opens-its-ai-art-creation-tool-to-everyone/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 17:59:58+00:00
- - tags: None
 
 The artificial intelligence technology can turn text prompts into intriguing illustrations.
 
@@ -444,7 +389,6 @@ The artificial intelligence technology can turn text prompts into intriguing ill
  - [https://www.cnet.com/tech/home-entertainment/amazon-fire-tv-cube-all-the-new-3rd-gen-tricks-from-4k-upscaling-to-voice-control/#ftag=CADf328eec](https://www.cnet.com/tech/home-entertainment/amazon-fire-tv-cube-all-the-new-3rd-gen-tricks-from-4k-upscaling-to-voice-control/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 17:58:29+00:00
- - tags: None
 
 The hybrid Alexa device offers native 4K Ultra HD capability and mics for conversing with the Alexa assistant.
 
@@ -452,7 +396,6 @@ The hybrid Alexa device offers native 4K Ultra HD capability and mics for conver
  - [https://www.cnet.com/tech/home-entertainment/amazon-fire-tv-remotes-new-feature-lets-you-find-device-with-voice-commands/#ftag=CADf328eec](https://www.cnet.com/tech/home-entertainment/amazon-fire-tv-remotes-new-feature-lets-you-find-device-with-voice-commands/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 17:52:00+00:00
- - tags: None
 
 The $35 clicker includes a motion-activated backlight and works with Alexa commands.
 
@@ -460,7 +403,6 @@ The $35 clicker includes a motion-activated backlight and works with Alexa comma
  - [https://www.cnet.com/tech/computing/amazon-kindle-scribe-unveiled-this-jumbo-e-reader-comes-with-a-stylus/#ftag=CADf328eec](https://www.cnet.com/tech/computing/amazon-kindle-scribe-unveiled-this-jumbo-e-reader-comes-with-a-stylus/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 17:50:00+00:00
- - tags: None
 
 This is Amazon's first Kindle that you can use to take notes, mark up documents and doodle.
 
@@ -468,7 +410,6 @@ This is Amazon's first Kindle that you can use to take notes, mark up documents 
  - [https://www.cnet.com/tech/mobile/iphone-14-pro-cameras-a-significant-improvement-all-around/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/iphone-14-pro-cameras-a-significant-improvement-all-around/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 17:42:33+00:00
- - tags: None
 
 We test the iPhone's new 48-megapixel main camera, Cinematic mode and the new Action mode in San Francisco's Mission District.
 
@@ -476,7 +417,6 @@ We test the iPhone's new 48-megapixel main camera, Cinematic mode and the new Ac
  - [https://www.cnet.com/culture/see-a-wild-walking-table-take-its-first-bold-steps/#ftag=CADf328eec](https://www.cnet.com/culture/see-a-wild-walking-table-take-its-first-bold-steps/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 17:37:00+00:00
- - tags: None
 
 A Dutch maker built a table that can get around on its own. Walk this way, furniture.
 
@@ -484,7 +424,6 @@ A Dutch maker built a table that can get around on its own. Walk this way, furni
  - [https://www.cnet.com/tech/services-and-software/your-restaurant-search-on-google-just-got-easier/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/your-restaurant-search-on-google-just-got-easier/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 17:33:01+00:00
- - tags: None
 
 Users can see if a restaurant has a vibe they're looking for or a specific type of pastry.
 
@@ -492,7 +431,6 @@ Users can see if a restaurant has a vibe they're looking for or a specific type 
  - [https://www.cnet.com/news/new-echo-dot-speakers-announced-amazon-promise-better-sound-more-power/#ftag=CADf328eec](https://www.cnet.com/news/new-echo-dot-speakers-announced-amazon-promise-better-sound-more-power/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 17:33:00+00:00
- - tags: None
 
 Amazon is rolling out three new Echo Dot smart speakers with refined designs and twice as much bass as before.
 
@@ -500,7 +438,6 @@ Amazon is rolling out three new Echo Dot smart speakers with refined designs and
  - [https://www.cnet.com/science/space/see-the-first-eerie-images-of-nasa-darts-asteroid-crash-site/#ftag=CADf328eec](https://www.cnet.com/science/space/see-the-first-eerie-images-of-nasa-darts-asteroid-crash-site/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 17:30:00+00:00
- - tags: None
 
 The spacecraft's satellite companion delivers a close-range look at the impact's aftermath.
 
@@ -508,7 +445,6 @@ The spacecraft's satellite companion delivers a close-range look at the impact's
  - [https://www.cnet.com/tech/mobile/verizons-new-waterproof-home-5g-router-doubles-upload-speeds/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/verizons-new-waterproof-home-5g-router-doubles-upload-speeds/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 17:30:00+00:00
- - tags: None
 
 Verizon launches a new router that can seamlessly switch between mmWave and C-band 5G or 4G LTE for the fastest signal.
 
@@ -516,7 +452,6 @@ Verizon launches a new router that can seamlessly switch between mmWave and C-ba
  - [https://www.cnet.com/videos/amazon-reveals-all-new-fire-devices/#ftag=CADf328eec](https://www.cnet.com/videos/amazon-reveals-all-new-fire-devices/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 17:27:15+00:00
- - tags: None
 
 At an Amazon event, the company shows off all new Fire TV devices, including the Fire TV Cube, Remote Pro and Fire TV Omni QLED.
 
@@ -524,7 +459,6 @@ At an Amazon event, the company shows off all new Fire TV devices, including the
  - [https://www.cnet.com/news/kindle-scribe-halo-rise-astro-echo-dot-and-more-announced-at-amazons-fall-device-event-2022/#ftag=CADf328eec](https://www.cnet.com/news/kindle-scribe-halo-rise-astro-echo-dot-and-more-announced-at-amazons-fall-device-event-2022/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 17:18:00+00:00
- - tags: None
 
 The Kindle Scribe and Halo Rise seem like the most high-profile newbies to come out of the event, but there's something for every Alexa fan.
 
@@ -532,7 +466,6 @@ The Kindle Scribe and Halo Rise seem like the most high-profile newbies to come 
  - [https://www.cnet.com/videos/amazon-unveils-new-eero-devices/#ftag=CADf328eec](https://www.cnet.com/videos/amazon-unveils-new-eero-devices/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 17:17:01+00:00
- - tags: None
 
 At an Amazon devices event, the company shows off the new Eero PoE 6 and Eero PoE Gateway. Both devices support Matter.
 
@@ -540,7 +473,6 @@ At an Amazon devices event, the company shows off the new Eero PoE 6 and Eero Po
  - [https://www.cnet.com/videos/watch-every-product-announced-at-amazons-devices-event/#ftag=CADf328eec](https://www.cnet.com/videos/watch-every-product-announced-at-amazons-devices-event/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 17:13:15+00:00
- - tags: None
 
 At an Amazon event, the company reveals new Echo, Blink, Ring, Eeero and Fire devices. See every single product announced right here.
 
@@ -548,7 +480,6 @@ At an Amazon event, the company reveals new Echo, Blink, Ring, Eeero and Fire de
  - [https://www.cnet.com/videos/astro-gets-smarter-with-new-features/#ftag=CADf328eec](https://www.cnet.com/videos/astro-gets-smarter-with-new-features/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 17:12:00+00:00
- - tags: None
 
 At an Amazon event, the company updates its Astro robot with new features including remote assist, Alexa, pet detection, daily alerts and notifications.
 
@@ -556,7 +487,6 @@ At an Amazon event, the company updates its Astro robot with new features includ
  - [https://www.cnet.com/culture/mcdonalds-halloween-buckets-could-be-back-this-fall/#ftag=CADf328eec](https://www.cnet.com/culture/mcdonalds-halloween-buckets-could-be-back-this-fall/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 17:08:00+00:00
- - tags: None
 
 The fast-food chain could be bringing back this Happy Meal nostalgia.
 
@@ -564,7 +494,6 @@ The fast-food chain could be bringing back this Happy Meal nostalgia.
  - [https://www.cnet.com/personal-finance/banking/robinhood-20-million-settlement-who-is-eligible-for-money/#ftag=CADf328eec](https://www.cnet.com/personal-finance/banking/robinhood-20-million-settlement-who-is-eligible-for-money/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 17:08:00+00:00
- - tags: None
 
 The stock-trading app lacks "almost universal security measures," according to a class action suit.
 
@@ -572,7 +501,6 @@ The stock-trading app lacks "almost universal security measures," according to a
  - [https://www.cnet.com/videos/amazon-introduces-new-ring-and-blink-devices/#ftag=CADf328eec](https://www.cnet.com/videos/amazon-introduces-new-ring-and-blink-devices/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 17:06:00+00:00
- - tags: None
 
 During a September 2022 event, Amazon revealed new Ring and Blink devices including a wired floodlight camera and a spotlight camera that can map the motion in your yard.
 
@@ -580,7 +508,6 @@ During a September 2022 event, Amazon revealed new Ring and Blink devices includ
  - [https://www.cnet.com/tech/home-entertainment/amazon-fire-tv-cube-streamer-offers-4k-upscaling-and-av-control-for-140/#ftag=CADf328eec](https://www.cnet.com/tech/home-entertainment/amazon-fire-tv-cube-streamer-offers-4k-upscaling-and-av-control-for-140/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 17:02:00+00:00
- - tags: None
 
 The hybrid Alexa device offers upscaling for your cable box and lets you change channels with your voice.
 
@@ -588,7 +515,6 @@ The hybrid Alexa device offers upscaling for your cable box and lets you change 
  - [https://www.cnet.com/tech/services-and-software/amazon-wants-to-measure-reduce-carbon-emissions-of-echo-fire-and-ring-devices/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/amazon-wants-to-measure-reduce-carbon-emissions-of-echo-fire-and-ring-devices/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 17:02:00+00:00
- - tags: None
 
 New initiatives offer more sustainable devices and packaging, and a way to measure the emissions that come from using your electronics.
 
@@ -596,7 +522,6 @@ New initiatives offer more sustainable devices and packaging, and a way to measu
  - [https://www.cnet.com/tech/amazon-announces-35-alexa-voice-remote-pro-for-fire-tvs/#ftag=CADf328eec](https://www.cnet.com/tech/amazon-announces-35-alexa-voice-remote-pro-for-fire-tvs/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 17:00:16+00:00
- - tags: None
 
 The $35 clicker works with most Amazon-branded video devices and offers a backlight.
 
@@ -604,7 +529,6 @@ The $35 clicker works with most Amazon-branded video devices and offers a backli
  - [https://www.cnet.com/videos/amazon-introduces-new-echo-auto/#ftag=CADf328eec](https://www.cnet.com/videos/amazon-introduces-new-echo-auto/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 17:00:06+00:00
- - tags: None
 
 During a September 2022 event, Amazon introduced an updated Echo Auto with a slimmer design and the ability to calll roadside assistance.
 
@@ -612,7 +536,6 @@ During a September 2022 event, Amazon introduced an updated Echo Auto with a sli
  - [https://www.cnet.com/tech/home-entertainment/amazon-fire-tv-omni-qled-knows-when-you-enter-the-room/#ftag=CADf328eec](https://www.cnet.com/tech/home-entertainment/amazon-fire-tv-omni-qled-knows-when-you-enter-the-room/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 17:00:00+00:00
- - tags: None
 
 The new 65- and 75-inch TVs can turn on automatically to display art, photos and widgets. On a less-creepy note, they also promise better picture quality.
 
@@ -620,7 +543,6 @@ The new 65- and 75-inch TVs can turn on automatically to display art, photos and
  - [https://www.cnet.com/news/amazons-echo-show-15-gets-fire-tv-streaming-upgrade/#ftag=CADf328eec](https://www.cnet.com/news/amazons-echo-show-15-gets-fire-tv-streaming-upgrade/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 17:00:00+00:00
- - tags: None
 
 You'll be able to stream Disney Plus through Fire TV on your Echo Show, and control the display with a Fire TV remote.
 
@@ -628,7 +550,6 @@ You'll be able to stream Disney Plus through Fire TV on your Echo Show, and cont
  - [https://www.cnet.com/culture/internet/the-try-guys-part-ways-with-ned-fulmer-the-drama-explained/#ftag=CADf328eec](https://www.cnet.com/culture/internet/the-try-guys-part-ways-with-ned-fulmer-the-drama-explained/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 16:52:00+00:00
- - tags: None
 
 Here's everything you need to know about why the popular YouTube group let go of Fulmer.
 
@@ -636,7 +557,6 @@ Here's everything you need to know about why the popular YouTube group let go of
  - [https://www.cnet.com/videos/amazon-introduces-new-echo-dot-and-echo-studio/#ftag=CADf328eec](https://www.cnet.com/videos/amazon-introduces-new-echo-dot-and-echo-studio/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 16:51:47+00:00
- - tags: None
 
 At an Amazon event, the company unveils a new lineup of Echo devices, including the Echo Studio, Echo Dot, Echo Dot with Clock, Echo Dot Kids and Echo Auto.
 
@@ -644,7 +564,6 @@ At an Amazon event, the company unveils a new lineup of Echo devices, including 
  - [https://www.cnet.com/news/eero-wants-to-turn-your-old-echo-dot-into-a-mesh-wi-fi-extender/#ftag=CADf328eec](https://www.cnet.com/news/eero-wants-to-turn-your-old-echo-dot-into-a-mesh-wi-fi-extender/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 16:50:00+00:00
- - tags: None
 
 A free software update will allow fourth-gen Echo and Echo Dot speakers to act as mesh extenders for Eero's Wi-Fi routers.
 
@@ -652,7 +571,6 @@ A free software update will allow fourth-gen Echo and Echo Dot speakers to act a
  - [https://www.cnet.com/news/eero-poe-power-over-ethernet-wi-fi-mesh-router/#ftag=CADf328eec](https://www.cnet.com/news/eero-poe-power-over-ethernet-wi-fi-mesh-router/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 16:50:00+00:00
- - tags: None
 
 Coming in October via professional installers, and to Amazon early next year, the newest Eero mesh routers eliminate the power cord altogether.
 
@@ -660,7 +578,6 @@ Coming in October via professional installers, and to Amazon early next year, th
  - [https://www.cnet.com/news/amazon-astros-got-some-new-tricks-being-on-sale-isnt-one-of-them/#ftag=CADf328eec](https://www.cnet.com/news/amazon-astros-got-some-new-tricks-being-on-sale-isnt-one-of-them/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 16:45:02+00:00
- - tags: None
 
 The rolling robot gets pet monitoring and a path toward more automation, even if you still can't buy it without an invitation.
 
@@ -668,7 +585,6 @@ The rolling robot gets pet monitoring and a path toward more automation, even if
  - [https://www.cnet.com/deals/best-mac-mini-deals/#ftag=CADf328eec](https://www.cnet.com/deals/best-mac-mini-deals/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 16:44:01+00:00
- - tags: None
 
 Apple's lowest-cost Mac computer is even less at Amazon and B&amp;H right now.
 
@@ -676,7 +592,6 @@ Apple's lowest-cost Mac computer is even less at Amazon and B&amp;H right now.
  - [https://www.cnet.com/news/amazon-blink-adds-a-wired-floodlight-camera-and-a-pan-and-tilt-mount-into-the-mix/#ftag=CADf328eec](https://www.cnet.com/news/amazon-blink-adds-a-wired-floodlight-camera-and-a-pan-and-tilt-mount-into-the-mix/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 16:43:00+00:00
- - tags: None
 
 The newly announced hardware is the latest expansion of Amazon's growing portfolio of camera-equipped products for the home.
 
@@ -684,7 +599,6 @@ The newly announced hardware is the latest expansion of Amazon's growing portfol
  - [https://www.cnet.com/news/ring-reveals-new-spotlight-cameras-that-can-map-the-motion-in-your-yard/#ftag=CADf328eec](https://www.cnet.com/news/ring-reveals-new-spotlight-cameras-that-can-map-the-motion-in-your-yard/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 16:42:00+00:00
- - tags: None
 
 At Amazon's fall hardware and services event, the video doorbell brand announces new feature-rich cameras for the exterior of your home.
 
@@ -692,7 +606,6 @@ At Amazon's fall hardware and services event, the video doorbell brand announces
  - [https://www.cnet.com/science/see-inside-the-eye-of-hurricane-ian-in-dramatic-aircraft-video/#ftag=CADf328eec](https://www.cnet.com/science/see-inside-the-eye-of-hurricane-ian-in-dramatic-aircraft-video/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 16:41:53+00:00
- - tags: None
 
 Pilots fly choppy rides into the center of the dangerous hurricane.
 
@@ -700,7 +613,6 @@ Pilots fly choppy rides into the center of the dangerous hurricane.
  - [https://www.cnet.com/news/amazon-reveals-software-upgrades-new-color-for-echo-studio/#ftag=CADf328eec](https://www.cnet.com/news/amazon-reveals-software-upgrades-new-color-for-echo-studio/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 16:37:05+00:00
- - tags: None
 
 The new color, Glacier White, is available now for preorder.
 
@@ -708,7 +620,6 @@ The new color, Glacier White, is available now for preorder.
  - [https://www.cnet.com/roadshow/news/amazon-introduces-2nd-gen-echo-auto-roadside-assistance/#ftag=CADf328eec](https://www.cnet.com/roadshow/news/amazon-introduces-2nd-gen-echo-auto-roadside-assistance/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 16:35:06+00:00
- - tags: None
 
 Take the hands-free convenience of Alexa with you on the go and access Amazon Roadside Assistance with the sleek new Echo Auto.
 
@@ -716,7 +627,6 @@ Take the hands-free convenience of Alexa with you on the go and access Amazon Ro
  - [https://www.cnet.com/news/amazon-5th-gen-echo-dot-smart-speakers/#ftag=CADf328eec](https://www.cnet.com/news/amazon-5th-gen-echo-dot-smart-speakers/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 16:35:02+00:00
- - tags: None
 
 With refined designs and twice as much bass as before, Amazon is promising the best-sounding Echo Dots yet.
 
@@ -724,7 +634,6 @@ With refined designs and twice as much bass as before, Amazon is promising the b
  - [https://www.cnet.com/news/politics/jan-6-committee-september-hearing-postponed-due-to-hurricane-ian/#ftag=CADf328eec](https://www.cnet.com/news/politics/jan-6-committee-september-hearing-postponed-due-to-hurricane-ian/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 16:22:00+00:00
- - tags: None
 
 The hearing has yet to be rescheduled.
 
@@ -732,7 +641,6 @@ The hearing has yet to be rescheduled.
  - [https://www.cnet.com/health/sleep/amazons-halo-rise-is-a-sleep-tracker-you-dont-have-to-wear/#ftag=CADf328eec](https://www.cnet.com/health/sleep/amazons-halo-rise-is-a-sleep-tracker-you-dont-have-to-wear/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 16:20:00+00:00
- - tags: None
 
 It sits on your nightstand and functions as a sleep tracker and sunrise alarm clock.
 
@@ -740,7 +648,6 @@ It sits on your nightstand and functions as a sleep tracker and sunrise alarm cl
  - [https://www.cnet.com/tech/computing/amazon-unveils-kindle-scribe-a-10-2-inch-e-ink-e-reader-with-stylus-for-340/#ftag=CADf328eec](https://www.cnet.com/tech/computing/amazon-unveils-kindle-scribe-a-10-2-inch-e-ink-e-reader-with-stylus-for-340/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 16:11:00+00:00
- - tags: None
 
 It's been a while since we've seen a jumbo-size Kindle. The Scribe is the first to include a stylus for note taking, marking up documents and doodling.
 
@@ -748,7 +655,6 @@ It's been a while since we've seen a jumbo-size Kindle. The Scribe is the first 
  - [https://www.cnet.com/culture/entertainment/the-best-video-game-documentaries-to-watch-in-2021/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-best-video-game-documentaries-to-watch-in-2021/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 16:00:08+00:00
- - tags: None
 
 There are tons of fascinating video game stories to delve into.
 
@@ -756,7 +662,6 @@ There are tons of fascinating video game stories to delve into.
  - [https://www.cnet.com/health/mental/6-best-fidget-toys-for-anxiety/#ftag=CADf328eec](https://www.cnet.com/health/mental/6-best-fidget-toys-for-anxiety/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 16:00:03+00:00
- - tags: None
 
 Fidget toys can help redirect nervous energy and reduce anxiety.
 
@@ -764,7 +669,6 @@ Fidget toys can help redirect nervous energy and reduce anxiety.
  - [https://www.cnet.com/personal-finance/capital-ones-190-million-data-breach-settlement-you-have-two-days-to-claim-your-money/#ftag=CADf328eec](https://www.cnet.com/personal-finance/capital-ones-190-million-data-breach-settlement-you-have-two-days-to-claim-your-money/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 15:52:43+00:00
- - tags: None
 
 Class members can collect up to $25,000 for lost time and out-of-pocket expenditures, if they move quickly.
 
@@ -772,7 +676,6 @@ Class members can collect up to $25,000 for lost time and out-of-pocket expendit
  - [https://www.cnet.com/tech/mobile/apple-reportedly-wont-boost-iphone-14-production/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/apple-reportedly-wont-boost-iphone-14-production/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 15:48:00+00:00
- - tags: None
 
 The company is scaling back plans to increase manufacturing of the new phones.
 
@@ -780,7 +683,6 @@ The company is scaling back plans to increase manufacturing of the new phones.
  - [https://www.cnet.com/personal-finance/september-social-security-checks-how-to-find-out-when-they-will-arrive/#ftag=CADf328eec](https://www.cnet.com/personal-finance/september-social-security-checks-how-to-find-out-when-they-will-arrive/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 15:45:03+00:00
- - tags: None
 
 The last Social Security payment for September goes out this week, and the October SSI payment comes early. Learn how it all works.
 
@@ -788,7 +690,6 @@ The last Social Security payment for September goes out this week, and the Octob
  - [https://www.cnet.com/how-to/dont-buy-an-amazon-echo-now-unless-you-want-buyers-remorse/#ftag=CADf328eec](https://www.cnet.com/how-to/dont-buy-an-amazon-echo-now-unless-you-want-buyers-remorse/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 15:31:00+00:00
- - tags: None
 
 Amazon's 2022 fall product event happens today, which makes it the worst time to add to your Alexa collection.
 
@@ -796,7 +697,6 @@ Amazon's 2022 fall product event happens today, which makes it the worst time to
  - [https://www.cnet.com/health/medical/everyone-should-know-their-blood-type-3-ways-to-find-out-yours/#ftag=CADf328eec](https://www.cnet.com/health/medical/everyone-should-know-their-blood-type-3-ways-to-find-out-yours/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 15:15:07+00:00
- - tags: None
 
 Most people don't know their blood type. Here's easy steps to figure it out.
 
@@ -804,7 +704,6 @@ Most people don't know their blood type. Here's easy steps to figure it out.
  - [https://www.cnet.com/how-to/make-the-most-of-your-smart-thermostat-to-save-money-and-energy-today/#ftag=CADf328eec](https://www.cnet.com/how-to/make-the-most-of-your-smart-thermostat-to-save-money-and-energy-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 15:15:03+00:00
- - tags: None
 
 Smart thermostats have handy features that can help you save money with minimal effort.
 
@@ -812,7 +711,6 @@ Smart thermostats have handy features that can help you save money with minimal 
  - [https://www.cnet.com/deals/refurbished-robot-vacuums-are-on-sale-today-starting-at-130/#ftag=CADf328eec](https://www.cnet.com/deals/refurbished-robot-vacuums-are-on-sale-today-starting-at-130/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 15:10:33+00:00
- - tags: None
 
 Score a handy robot vacuum for less with a selection of factory reconditioned models on sale right now at Woot.
 
@@ -820,7 +718,6 @@ Score a handy robot vacuum for less with a selection of factory reconditioned mo
  - [https://www.cnet.com/tech/mobile/iphone-browser-running-slow-try-this-easy-trick/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/iphone-browser-running-slow-try-this-easy-trick/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 15:00:07+00:00
- - tags: None
 
 Your iPhone doesn't have to load pages like it's on a dial-up connection. Here's what you can do to speed things up.
 
@@ -828,7 +725,6 @@ Your iPhone doesn't have to load pages like it's on a dial-up connection. Here's
  - [https://www.cnet.com/health/nutrition/6-best-fiber-supplements-for-healthy-digestion/#ftag=CADf328eec](https://www.cnet.com/health/nutrition/6-best-fiber-supplements-for-healthy-digestion/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 15:00:00+00:00
- - tags: None
 
 Women should consume 21 to 25 grams of fiber a day, while men should aim for 30 to 38 grams. Are you getting enough fiber?
 
@@ -836,7 +732,6 @@ Women should consume 21 to 25 grams of fiber a day, while men should aim for 30 
  - [https://www.cnet.com/culture/entertainment/the-best-movies-to-watch-on-apple-tv-plus-for-this-week/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-best-movies-to-watch-on-apple-tv-plus-for-this-week/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 14:52:55+00:00
- - tags: None
 
 Check out Cha Cha Real Smooth, a comedy-drama starring Dakota Johnson, and see what else you should stream on Apple TV Plus.
 
@@ -844,7 +739,6 @@ Check out Cha Cha Real Smooth, a comedy-drama starring Dakota Johnson, and see w
  - [https://www.cnet.com/culture/entertainment/apple-tv-plus-tv-shows-to-watch-in-september-this-week/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/apple-tv-plus-tv-shows-to-watch-in-september-this-week/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 14:45:18+00:00
- - tags: None
 
 Here's a complete list of shows coming in September.
 
@@ -852,7 +746,6 @@ Here's a complete list of shows coming in September.
  - [https://www.cnet.com/deals/save-up-to-40-on-a-luxury-pillow-at-marlow-today/#ftag=CADf328eec](https://www.cnet.com/deals/save-up-to-40-on-a-luxury-pillow-at-marlow-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 14:27:00+00:00
- - tags: None
 
 Get this three-in-one pillow for the firm, medium and plush comfort of your dreams.
 
@@ -860,7 +753,6 @@ Get this three-in-one pillow for the firm, medium and plush comfort of your drea
  - [https://www.cnet.com/deals/give-your-gaming-rig-an-upgrade-with-20-off-an-sk-hynix-platinum-ssd/#ftag=CADf328eec](https://www.cnet.com/deals/give-your-gaming-rig-an-upgrade-with-20-off-an-sk-hynix-platinum-ssd/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 14:26:21+00:00
- - tags: None
 
 These powerful fourth-gen PCIe SSDs boast long lifespans and incredible data transfer speeds, and right now you can snag one for up to $52 off.
 
@@ -868,7 +760,6 @@ These powerful fourth-gen PCIe SSDs boast long lifespans and incredible data tra
  - [https://www.cnet.com/tech/mobile/photos-of-samsung-galaxy-s23-apparently-leaked-online/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/photos-of-samsung-galaxy-s23-apparently-leaked-online/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 14:18:55+00:00
- - tags: None
 
 The new flagship phone is expected to be released early next year.
 
@@ -876,7 +767,6 @@ The new flagship phone is expected to be released early next year.
  - [https://www.cnet.com/roadshow/news/tesla-ai-day-updates-on-optimus-robot-self-driving-cars-how-to-watch/#ftag=CADf328eec](https://www.cnet.com/roadshow/news/tesla-ai-day-updates-on-optimus-robot-self-driving-cars-how-to-watch/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 14:15:00+00:00
- - tags: None
 
 Tesla is hiring engineers to make the Tesla Bot for dangerous or boring work. Expect Elon Musk to detail the company's work on self-driving cars, too.
 
@@ -884,7 +774,6 @@ Tesla is hiring engineers to make the Tesla Bot for dangerous or boring work. Ex
  - [https://www.cnet.com/tech/services-and-software/windows-11s-2022-update-we-love-these-upgraded-features/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/windows-11s-2022-update-we-love-these-upgraded-features/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 14:12:19+00:00
- - tags: None
 
 From productivity tools to security features, there are plenty of things to explore in Microsoft's new update.
 
@@ -892,7 +781,6 @@ From productivity tools to security features, there are plenty of things to expl
  - [https://www.cnet.com/health/best-tea-clubs-and-tea-subscriptions/#ftag=CADf328eec](https://www.cnet.com/health/best-tea-clubs-and-tea-subscriptions/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 14:06:00+00:00
- - tags: None
 
 Try new greens, blacks, herbals and oolongs with these excellent and CNET-tested tea clubs. We sipped and sipped to find the best.
 
@@ -900,7 +788,6 @@ Try new greens, blacks, herbals and oolongs with these excellent and CNET-tested
  - [https://www.cnet.com/culture/entertainment/deadpool-3-hugh-jackman-returning-as-wolverine-explains-mcu-timeline-with-ryan-reynolds/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/deadpool-3-hugh-jackman-returning-as-wolverine-explains-mcu-timeline-with-ryan-reynolds/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 13:49:05+00:00
- - tags: None
 
 You'll just be left hanging on like a yo-yo until 2024.
 
@@ -908,7 +795,6 @@ You'll just be left hanging on like a yo-yo until 2024.
  - [https://www.cnet.com/tech/mobile/you-should-really-clear-your-android-phones-cache-heres-why/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/you-should-really-clear-your-android-phones-cache-heres-why/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 13:48:00+00:00
- - tags: None
 
 You'd be surprised how much data is in your phone that you probably don't need.
 
@@ -916,7 +802,6 @@ You'd be surprised how much data is in your phone that you probably don't need.
  - [https://www.cnet.com/deals/get-15-off-minted-ceremony-and-reception-essentials-for-your-upcoming-wedding/#ftag=CADf328eec](https://www.cnet.com/deals/get-15-off-minted-ceremony-and-reception-essentials-for-your-upcoming-wedding/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 13:47:00+00:00
- - tags: None
 
 Design luxurious menus, programs, wedding favors and more for less.
 
@@ -924,7 +809,6 @@ Design luxurious menus, programs, wedding favors and more for less.
  - [https://www.cnet.com/deals/smarten-up-your-appliances-with-this-4-pack-of-smart-plugs-for-18/#ftag=CADf328eec](https://www.cnet.com/deals/smarten-up-your-appliances-with-this-4-pack-of-smart-plugs-for-18/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 13:44:00+00:00
- - tags: None
 
 These SwitchBot smart plugs are an easy way to upgrade your existing devices, and right now you can save $12 on a four-pack.
 
@@ -932,7 +816,6 @@ These SwitchBot smart plugs are an easy way to upgrade your existing devices, an
  - [https://www.cnet.com/personal-finance/credit-cards/apple-card-review/#ftag=CADf328eec](https://www.cnet.com/personal-finance/credit-cards/apple-card-review/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 13:20:00+00:00
- - tags: None
 
 While Apple Pay contactless payments aren't accepted everywhere, the Apple Card offers unique opportunities to earn cash back.
 
@@ -940,7 +823,6 @@ While Apple Pay contactless payments aren't accepted everywhere, the Apple Card 
  - [https://www.cnet.com/roadshow/news/audi-sport-rs5-competition-electrify/#ftag=CADf328eec](https://www.cnet.com/roadshow/news/audi-sport-rs5-competition-electrify/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 13:17:00+00:00
- - tags: None
 
 While Mercedes-Benz ekes big power out of small engines, Audi plans to keep the V6 intact.
 
@@ -948,7 +830,6 @@ While Mercedes-Benz ekes big power out of small engines, Audi plans to keep the 
  - [https://www.cnet.com/health/personal-care/why-you-should-floss-your-teeth-before-brushing/#ftag=CADf328eec](https://www.cnet.com/health/personal-care/why-you-should-floss-your-teeth-before-brushing/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 13:15:02+00:00
- - tags: None
 
 Have you been flossing your teeth wrong all this time? Here's what you should know.
 
@@ -956,7 +837,6 @@ Have you been flossing your teeth wrong all this time? Here's what you should kn
  - [https://www.cnet.com/personal-finance/mortgages/here-are-mortgage-rates-for-sep-28-2022-rates-climb/#ftag=CADf328eec](https://www.cnet.com/personal-finance/mortgages/here-are-mortgage-rates-for-sep-28-2022-rates-climb/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 13:00:00+00:00
- - tags: None
 
 Today a few notable mortgage rates moved up -- fast. As interest rates surge, it's getting more expensive to buy a house.
 
@@ -964,7 +844,6 @@ Today a few notable mortgage rates moved up -- fast. As interest rates surge, it
  - [https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-for-sep-28-2022-rates-increase/#ftag=CADf328eec](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-for-sep-28-2022-rates-increase/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 13:00:00+00:00
- - tags: None
 
 Multiple key refinance rates ticked up today. If you're shopping for the best refinance rate, now's a good time to assess your options.
 
@@ -972,7 +851,6 @@ Multiple key refinance rates ticked up today. If you're shopping for the best re
  - [https://www.cnet.com/tech/mobile/bowers-wilkins-releases-flagship-px8-headphones-price-jumps-to-699/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/bowers-wilkins-releases-flagship-px8-headphones-price-jumps-to-699/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 12:27:00+00:00
- - tags: None
 
 The company's flagship noise-canceling headphones cost $150 more than the AirPods Max. They were originally supposed to be the same price.
 
@@ -980,7 +858,6 @@ The company's flagship noise-canceling headphones cost $150 more than the AirPod
  - [https://www.cnet.com/culture/national-coffee-day-is-coming-thursday-free-coffee-at-dunkin-krispy-kreme-and-more/#ftag=CADf328eec](https://www.cnet.com/culture/national-coffee-day-is-coming-thursday-free-coffee-at-dunkin-krispy-kreme-and-more/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 12:15:03+00:00
- - tags: None
 
 Don't forget to grab a free coffee drink or bag of coffee on Sept. 29.
 
@@ -988,7 +865,6 @@ Don't forget to grab a free coffee drink or bag of coffee on Sept. 29.
  - [https://www.cnet.com/tech/mobile/apple-wants-the-iphone-to-be-a-lifesaver-literally/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/apple-wants-the-iphone-to-be-a-lifesaver-literally/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 12:00:08+00:00
- - tags: None
 
 Apple's betting even bigger on safety, and on convincing you that its products could save your life.
 
@@ -996,7 +872,6 @@ Apple's betting even bigger on safety, and on convincing you that its products c
  - [https://www.cnet.com/how-to/how-much-does-it-cost-to-run-a-gas-fireplace/#ftag=CADf328eec](https://www.cnet.com/how-to/how-much-does-it-cost-to-run-a-gas-fireplace/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 12:00:02+00:00
- - tags: None
 
 A gas fireplace can add a welcome glow to a room, but it comes at a price.
 
@@ -1004,7 +879,6 @@ A gas fireplace can add a welcome glow to a room, but it comes at a price.
  - [https://www.cnet.com/videos/dart-explained-first-asteroid-crash-images/#ftag=CADf328eec](https://www.cnet.com/videos/dart-explained-first-asteroid-crash-images/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 12:00:01+00:00
- - tags: None
 
 NASA slammed the DART probe into an asteroid the size of a Great Pyramid, all in the name of "planetary defense." While this asteroid wasn't a threat, the mission could one day save our lives.
 
@@ -1012,7 +886,6 @@ NASA slammed the DART probe into an asteroid the size of a Great Pyramid, all in
  - [https://www.cnet.com/health/nutrition/instacart-launches-new-business-model-to-make-healthy-foods-more-accessible/#ftag=CADf328eec](https://www.cnet.com/health/nutrition/instacart-launches-new-business-model-to-make-healthy-foods-more-accessible/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 12:00:00+00:00
- - tags: None
 
 The grocery delivery service is expanding payment options and services tailored around the "food as medicine" concept.
 
@@ -1020,7 +893,6 @@ The grocery delivery service is expanding payment options and services tailored 
  - [https://www.cnet.com/roadshow/news/2023-bentley-bentayga-s-hybrid-azure-hybrid-debut/#ftag=CADf328eec](https://www.cnet.com/roadshow/news/2023-bentley-bentayga-s-hybrid-azure-hybrid-debut/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 11:30:11+00:00
- - tags: None
 
 Both the sporty Bentayga S Hybrid and the comfy Azure Hybrid luxury SUVs have a larger battery pack and up to 27 miles of EV range.
 
@@ -1028,7 +900,6 @@ Both the sporty Bentayga S Hybrid and the comfy Azure Hybrid luxury SUVs have a 
  - [https://www.cnet.com/tech/services-and-software/this-hidden-iphone-feature-for-screenshots-is-just-too-good/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/this-hidden-iphone-feature-for-screenshots-is-just-too-good/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 11:30:07+00:00
- - tags: None
 
 Don't worry about perfectly editing your screenshots again.
 
@@ -1036,7 +907,6 @@ Don't worry about perfectly editing your screenshots again.
  - [https://www.cnet.com/how-to/easy-and-effective-steps-to-lower-your-water-bills-this-winter/#ftag=CADf328eec](https://www.cnet.com/how-to/easy-and-effective-steps-to-lower-your-water-bills-this-winter/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 11:30:02+00:00
- - tags: None
 
 Electricity and heating aren't the only utility costs to worry about this winter.
 
@@ -1044,7 +914,6 @@ Electricity and heating aren't the only utility costs to worry about this winter
  - [https://www.cnet.com/roadshow/pictures/2023-bentley-bentayga-s-hybrid-azure-hybrid-debut/#ftag=CADf328eec](https://www.cnet.com/roadshow/pictures/2023-bentley-bentayga-s-hybrid-azure-hybrid-debut/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 11:30:01+00:00
- - tags: None
 
 With the arrival of the Bentayga S Hybrid and Azure Hybrid, Bentley moves closer towards its goal of offering hybrid powertrains for every model in its lineup by 2025.
 
@@ -1052,7 +921,6 @@ With the arrival of the Bentayga S Hybrid and Azure Hybrid, Bentley moves closer
  - [https://www.cnet.com/personal-finance/loans/student-loan-debt-forgiveness-first-day-to-apply-is-coming-soon/#ftag=CADf328eec](https://www.cnet.com/personal-finance/loans/student-loan-debt-forgiveness-first-day-to-apply-is-coming-soon/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 10:15:06+00:00
- - tags: None
 
 The student debt application is about to open, and eligible borrowers will be able to apply to cancel up to $20,000 in student debt.
 
@@ -1060,7 +928,6 @@ The student debt application is about to open, and eligible borrowers will be ab
  - [https://www.cnet.com/personal-finance/to-keep-your-credit-score-high-watch-out-for-this-sneaky-factor/#ftag=CADf328eec](https://www.cnet.com/personal-finance/to-keep-your-credit-score-high-watch-out-for-this-sneaky-factor/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 10:15:02+00:00
- - tags: None
 
 Manage your credit card balances and limits to optimize your credit score.
 
@@ -1068,7 +935,6 @@ Manage your credit card balances and limits to optimize your credit score.
  - [https://www.cnet.com/science/climate/how-to-feed-1-billion-more-people-by-tweaking-the-global-food-system/#ftag=CADf328eec](https://www.cnet.com/science/climate/how-to-feed-1-billion-more-people-by-tweaking-the-global-food-system/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 09:00:06+00:00
- - tags: None
 
 Scientists outline a promising plan to mitigate worldwide hunger.
 
@@ -1076,7 +942,6 @@ Scientists outline a promising plan to mitigate worldwide hunger.
  - [https://www.cnet.com/culture/entertainment/andor-episode-4-recap-star-wars-rebel-heroes-work-in-the-shadows/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/andor-episode-4-recap-star-wars-rebel-heroes-work-in-the-shadows/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 07:01:03+00:00
- - tags: None
 
 The Disney Plus series reveals how the rebellion grows as the totalitarian regime tightens its grip on the galaxy.
 
@@ -1084,7 +949,6 @@ The Disney Plus series reveals how the rebellion grows as the totalitarian regim
  - [https://www.cnet.com/roadshow/news/polestar-3-suv-rear-teaser-nvidia-luminar-tech-specs/#ftag=CADf328eec](https://www.cnet.com/roadshow/news/polestar-3-suv-rear-teaser-nvidia-luminar-tech-specs/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 07:00:07+00:00
- - tags: None
 
 Polestar's electric Cayenne fighter will have Nvidia software and Luminar lidar tech,
 
@@ -1092,7 +956,6 @@ Polestar's electric Cayenne fighter will have Nvidia software and Luminar lidar 
  - [https://www.cnet.com/tech/computing/logitech-intros-4-new-designed-for-mac-mice-and-keyboards/#ftag=CADf328eec](https://www.cnet.com/tech/computing/logitech-intros-4-new-designed-for-mac-mice-and-keyboards/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 07:00:03+00:00
- - tags: None
 
 The MX Master 3S for Mac Mouse, MX Mechanical Mini for Mac Keyboard, Lift for Mac Mouse and K380 Multi-Device Bluetooth Keyboard for Mac have all been "remastered" for Apple users.
 
@@ -1100,7 +963,6 @@ The MX Master 3S for Mac Mouse, MX Mechanical Mini for Mac Keyboard, Lift for Ma
  - [https://www.cnet.com/culture/entertainment/she-hulk-release-schedule-when-does-episode-7-hit-disney-plus/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/she-hulk-release-schedule-when-does-episode-7-hit-disney-plus/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 05:29:13+00:00
- - tags: None
 
 Yep, we're up to episode 7! Let's look at the exact release time for the next episode of Marvel's comedy-superhero series.
 
@@ -1108,7 +970,6 @@ Yep, we're up to episode 7! Let's look at the exact release time for the next ep
  - [https://www.cnet.com/culture/internet/the-try-guys-and-ned-fulmer-drama-explained/#ftag=CADf328eec](https://www.cnet.com/culture/internet/the-try-guys-and-ned-fulmer-drama-explained/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 05:20:00+00:00
- - tags: None
 
 Here's everything you need to know about The Try Guys and Ned Fulmer drama.
 
@@ -1116,7 +977,6 @@ Here's everything you need to know about The Try Guys and Ned Fulmer drama.
  - [https://www.cnet.com/culture/entertainment/dahmer-on-netflix-everything-to-know-about-the-controversial-series/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/dahmer-on-netflix-everything-to-know-about-the-controversial-series/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 04:54:41+00:00
- - tags: None
 
 Did the world really need another show about the Milwaukee cannibal? Not everyone thinks so.
 
@@ -1124,7 +984,6 @@ Did the world really need another show about the Milwaukee cannibal? Not everyon
  - [https://www.cnet.com/tech/computing/best-cricut-accessories-everything-you-need-to-make-something-great/#ftag=CADf328eec](https://www.cnet.com/tech/computing/best-cricut-accessories-everything-you-need-to-make-something-great/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 04:00:03+00:00
- - tags: None
 
 If you want to get the most out of your Cricut experience, you need to make sure you have all the best tools for making as many things as you want.
 
@@ -1132,7 +991,6 @@ If you want to get the most out of your Cricut experience, you need to make sure
  - [https://www.cnet.com/tech/services-and-software/fast-company-hacked-to-send-obscene-push-alerts-on-apple-news/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/fast-company-hacked-to-send-obscene-push-alerts-on-apple-news/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 03:44:00+00:00
- - tags: None
 
 Account was disabled after a pair of offensive push alerts appeared on Apple News users' feeds.
 
@@ -1140,7 +998,6 @@ Account was disabled after a pair of offensive push alerts appeared on Apple New
  - [https://www.cnet.com/culture/internet/the-try-guys-who-is-ned-fulmer-and-why-is-he-all-over-the-internet/#ftag=CADf328eec](https://www.cnet.com/culture/internet/the-try-guys-who-is-ned-fulmer-and-why-is-he-all-over-the-internet/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 02:29:00+00:00
- - tags: None
 
 Playing catch up on The Try Guys and Ned Fulmer drama? We're here to help.
 
@@ -1148,7 +1005,6 @@ Playing catch up on The Try Guys and Ned Fulmer drama? We're here to help.
  - [https://www.cnet.com/tech/services-and-software/the-absolute-best-fantasy-movies-on-hbo-max/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/the-absolute-best-fantasy-movies-on-hbo-max/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 02:07:08+00:00
- - tags: None
 
 Keen to stay in fantasy worlds like House of the Dragon and Lord of the Rings?
 
@@ -1156,7 +1012,6 @@ Keen to stay in fantasy worlds like House of the Dragon and Lord of the Rings?
  - [https://www.cnet.com/culture/entertainment/prime-video-the-best-sci-fi-tv-shows-to-binge-watch-this-week/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/prime-video-the-best-sci-fi-tv-shows-to-binge-watch-this-week/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 01:23:28+00:00
- - tags: None
 
 Prime Video is hosting a ton of excellent sci-fi series worth committing a binge to.
 
@@ -1164,7 +1019,6 @@ Prime Video is hosting a ton of excellent sci-fi series worth committing a binge
  - [https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-6-recap-the-princess-and-the-queen/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-6-recap-the-princess-and-the-queen/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 01:11:00+00:00
- - tags: None
 
 Surprise! Relations between princess and queen are not good.
 
@@ -1172,7 +1026,6 @@ Surprise! Relations between princess and queen are not good.
  - [https://www.cnet.com/tech/amazon-ring-echo-devices-services-launch-event-2022/#ftag=CADf328eec](https://www.cnet.com/tech/amazon-ring-echo-devices-services-launch-event-2022/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 01:09:00+00:00
- - tags: None
 
 The e-commerce giant is holding an invite-only press event Sept. 28 starting at 9 a.m. PT.
 
@@ -1180,7 +1033,6 @@ The e-commerce giant is holding an invite-only press event Sept. 28 starting at 
  - [https://www.cnet.com/culture/entertainment/house-of-the-dragon-laena-velaryons-shocking-decision-explained/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/house-of-the-dragon-laena-velaryons-shocking-decision-explained/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 01:05:00+00:00
- - tags: None
 
 Daemon Targaryen's wife Laena makes quite the choice at the end of episode 6.
 
@@ -1188,7 +1040,6 @@ Daemon Targaryen's wife Laena makes quite the choice at the end of episode 6.
  - [https://www.cnet.com/tech/services-and-software/the-windows-11-2022-update-refreshes-your-favorite-features/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/the-windows-11-2022-update-refreshes-your-favorite-features/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 01:00:03+00:00
- - tags: None
 
 Windows 11 has features that will transform the way you use your PC. And they're even better with the new 2022 update.
 
@@ -1196,7 +1047,6 @@ Windows 11 has features that will transform the way you use your PC. And they're
  - [https://www.cnet.com/culture/entertainment/who-is-the-stranger-in-rings-of-power-here-are-our-best-guesses/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/who-is-the-stranger-in-rings-of-power-here-are-our-best-guesses/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 00:44:00+00:00
- - tags: None
 
 The Stranger is still the biggest mystery in The Rings of Power.
 
@@ -1204,7 +1054,6 @@ The Stranger is still the biggest mystery in The Rings of Power.
  - [https://www.cnet.com/culture/entertainment/when-does-episode-6-of-the-rings-of-power-drop-in-your-timezone/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/when-does-episode-6-of-the-rings-of-power-drop-in-your-timezone/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 00:37:00+00:00
- - tags: None
 
 Episode 6 is coming pretty soon!
 
@@ -1212,7 +1061,6 @@ Episode 6 is coming pretty soon!
  - [https://www.cnet.com/roadshow/pictures/2023-ford-super-duty-f-250-f-350-f-450-pickup/#ftag=CADf328eec](https://www.cnet.com/roadshow/pictures/2023-ford-super-duty-f-250-f-350-f-450-pickup/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 00:17:00+00:00
- - tags: None
 
 The updated Super Duty brings bolder styling and new towing tech.
 
@@ -1220,6 +1068,5 @@ The updated Super Duty brings bolder styling and new towing tech.
  - [https://www.cnet.com/roadshow/news/2023-ford-super-duty-f-250-f-350-f-450-pickup-debut/#ftag=CADf328eec](https://www.cnet.com/roadshow/news/2023-ford-super-duty-f-250-f-350-f-450-pickup-debut/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-28 00:15:39+00:00
- - tags: None
 
 The next-gen Super Duty also has new engines and a nicer interior.

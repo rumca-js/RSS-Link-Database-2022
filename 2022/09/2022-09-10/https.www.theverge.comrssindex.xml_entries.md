@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Comcast says 2-gig speeds are rolling out now to ‘millions’
  - [https://www.theverge.com/2022/9/10/23345904/comcast-2-gig-speeds-rolling-out-symmetrical-broadband-cable](https://www.theverge.com/2022/9/10/23345904/comcast-2-gig-speeds-rolling-out-symmetrical-broadband-cable)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-10 22:21:20+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/syJq5fawOHQrE2BrmrvHF7EutXs=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71349950/acastro_170711_1777_0005.0.jpg" />
@@ -17,7 +16,6 @@
  - [https://www.theverge.com/2022/9/10/23346125/ubisoft-forward-assassins-creed-mirage-mario-rabbids](https://www.theverge.com/2022/9/10/23346125/ubisoft-forward-assassins-creed-mirage-mario-rabbids)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-10 22:11:40+00:00
- - tags: None
 
 <figure>
       <img alt="Assassin’s Creed: Codename Red logo and title image, showing one of the game’s assassins in a ninja-style pose in front of a setting sun." src="https://cdn.vox-cdn.com/thumbor/Hm2vYLN5s1wX35LcGYUiS7Jk4aA=/77x0:970x595/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71349917/ac_0codenamred.0.jpg" />
@@ -30,7 +28,6 @@
  - [https://www.theverge.com/2022/9/10/23340923/assassins-creed-mirage-baghdad-2023-japan-mobile](https://www.theverge.com/2022/9/10/23340923/assassins-creed-mirage-baghdad-2023-japan-mobile)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-10 20:28:03+00:00
- - tags: None
 
 <figure>
       <img alt="Key artwork for Assassin’s Creed Mirage." src="https://cdn.vox-cdn.com/thumbor/DHawvGnD3WNlwBZsJhYJ-tYjgQE=/704x0:8297x5062/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71349563/ACM_Keyart_Announce_20220901_6pm_CEST_Paris_Time.0.jpg" />
@@ -43,7 +40,6 @@
  - [https://www.theverge.com/2022/9/10/23346074/marvel-star-wars-lucasfilm-trailers-disney-d23](https://www.theverge.com/2022/9/10/23346074/marvel-star-wars-lucasfilm-trailers-disney-d23)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-10 20:24:01+00:00
- - tags: None
 
 <figure>
       <img alt="Samuel L. Jackson in the Secret Invasion movie trailer" src="https://cdn.vox-cdn.com/thumbor/H-suN7NbTgjcyT7bPqFLONzkoqQ=/97x0:1867x1180/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71349554/disney_secret_invasion.0.png" />
@@ -56,7 +52,6 @@
  - [https://www.theverge.com/2022/9/10/23346053/the-mandalorian-s3-trailer-star-wars-disney-plus](https://www.theverge.com/2022/9/10/23346053/the-mandalorian-s3-trailer-star-wars-disney-plus)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-10 18:32:56+00:00
- - tags: None
 
 <figure>
       <img alt="Still image of The Mandalorian, with visible droplets of water on his shiny helmet" src="https://cdn.vox-cdn.com/thumbor/yjs_oLLysG8ht6qnHBbZoP8fsAc=/87x0:1233x764/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71349254/mandalorian_s3_teaser.0.jpg" />
@@ -69,7 +64,6 @@
  - [https://www.theverge.com/2022/9/10/23346019/andor-trailer-star-wars-spinoff-rogue-one-disney-plus-premiere](https://www.theverge.com/2022/9/10/23346019/andor-trailer-star-wars-spinoff-rogue-one-disney-plus-premiere)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-10 18:06:27+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/WiV78ouRwA2HszuP2cTUN6RikB8=/303x0:2067x1176/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71349202/disney_andor_trailer.0.png" />
@@ -81,7 +75,6 @@
  - [https://www.theverge.com/23320893/apple-airpods-2-3-pro-max-which-to-buy-price-specs](https://www.theverge.com/23320893/apple-airpods-2-3-pro-max-which-to-buy-price-specs)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-10 17:00:32+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/GjOXeKR_Y4lb0FTWdeZOZhGXG5g=/0x0:1620x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71349055/AirPods_Comparison_Press_Image.0.jpg" />
@@ -94,7 +87,6 @@
  - [https://www.theverge.com/good-deals/2022/9/10/23344682/apple-ipad-mini-2021-macbook-pro-m2-samsung-frame-tv-amazon-fire-stick-4k-razer-chair-deal-sale](https://www.theverge.com/good-deals/2022/9/10/23344682/apple-ipad-mini-2021-macbook-pro-m2-samsung-frame-tv-amazon-fire-stick-4k-razer-chair-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-10 15:49:58+00:00
- - tags: None
 
 <figure>
       <img alt="Photo of the 2021 iPad mini with attached second-generation Apple Pencil on blue background" src="https://cdn.vox-cdn.com/thumbor/_8efv6NX-UUB7S5q3UHzfWJc-oA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71348831/vpavic_210924_4766_0022_2.0.jpg" />
@@ -107,7 +99,6 @@
  - [https://www.theverge.com/2022/9/10/23345777/google-pixel-foldable-phone-pro-tablet-android-13-code-rumors](https://www.theverge.com/2022/9/10/23345777/google-pixel-foldable-phone-pro-tablet-android-13-code-rumors)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-10 15:12:33+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/1SRNxaulctS91NSQ-xFbFl1Y3GU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71348718/acastro_191014_1777_google_pixel_0001.0.0.jpg" />
@@ -120,7 +111,6 @@
  - [https://www.theverge.com/23319739/apple-iphone-ios-16-android-features-google-apps-comparison](https://www.theverge.com/23319739/apple-iphone-ios-16-android-features-google-apps-comparison)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-10 14:07:22+00:00
- - tags: None
 
 <figure>
       <img alt="iPhone 14 with always-on screen" src="https://cdn.vox-cdn.com/thumbor/b-eafd8y1FohYe87F4mXRYKOSek=/4x0:3004x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71348551/DSC03682.0.jpeg" />
@@ -133,7 +123,6 @@
  - [https://www.theverge.com/2022/9/10/23345385/wall-e-criterion-collection-4k-blu-ray](https://www.theverge.com/2022/9/10/23345385/wall-e-criterion-collection-4k-blu-ray)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-10 14:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Image of WALL-E, a square robot, on an old-fashioned TV set." src="https://cdn.vox-cdn.com/thumbor/KKdukck9puyDy5oTWYXxMhpjKCw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71348466/VRG_ILLO_4034_Yesterdays_Future_001.0.jpg" />
@@ -146,7 +135,6 @@
  - [https://www.theverge.com/23342927/apple-watch-ultra-tv-watch](https://www.theverge.com/23342927/apple-watch-ultra-tv-watch)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-10 13:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Would you watch a Yankees game this way?" src="https://cdn.vox-cdn.com/thumbor/uCEvpGORVGElQphWRaAuynvXzLA=/0x82:1937x1373/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71348274/watch.0.jpg" />
@@ -159,7 +147,6 @@
  - [https://www.theverge.com/23334052/ecoflow-delta-pro-battery-review-rv-off-grid-price](https://www.theverge.com/23334052/ecoflow-delta-pro-battery-review-rv-off-grid-price)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-10 10:47:02+00:00
- - tags: None
 
 <p>Six charging methods with a seventh in the works</p>
   <p>

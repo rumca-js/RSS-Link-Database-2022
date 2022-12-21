@@ -1,10 +1,9 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss
+# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
 
 ## Watch out - that WeTransfer link could be a phishing scam
  - [https://www.techradar.com/news/watch-out-that-wetransfer-link-could-be-a-phishing-scam/](https://www.techradar.com/news/watch-out-that-wetransfer-link-could-be-a-phishing-scam/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-12 21:59:17+00:00
- - tags: None
 
 New phishing campaign abuses a legitimate WeTransfer file-sharinh service to distribute a potent trojan.
 
@@ -12,7 +11,6 @@ New phishing campaign abuses a legitimate WeTransfer file-sharinh service to dis
  - [https://www.techradar.com/news/a-new-tool-for-your-laptop-could-help-fend-off-eavesdroppers/](https://www.techradar.com/news/a-new-tool-for-your-laptop-could-help-fend-off-eavesdroppers/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-12 21:18:27+00:00
- - tags: None
 
 Device in development in Singapore and Korea may be a world-first, but there's still a long way to go yet.
 
@@ -20,7 +18,6 @@ Device in development in Singapore and Korea may be a world-first, but there's s
  - [https://www.techradar.com/news/ios-16-users-were-unable-to-download-apps-as-store-error-hit-global-launch/](https://www.techradar.com/news/ios-16-users-were-unable-to-download-apps-as-store-error-hit-global-launch/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-12 21:10:03+00:00
- - tags: None
 
 At the height of a global launch, iOS 16 users couldn't accept the Terms and Conditions from the Apple App Store.
 
@@ -28,7 +25,6 @@ At the height of a global launch, iOS 16 users couldn't accept the Terms and Con
  - [https://www.techradar.com/news/one-of-the-biggest-new-ios-16-features-might-not-actually-be-all-that-helpful/](https://www.techradar.com/news/one-of-the-biggest-new-ios-16-features-might-not-actually-be-all-that-helpful/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-12 20:53:23+00:00
- - tags: None
 
 iOS 16 Lockdown Mode "probably isn't worth the hassle", experts warn.
 
@@ -36,7 +32,6 @@ iOS 16 Lockdown Mode "probably isn't worth the hassle", experts warn.
  - [https://www.techradar.com/news/this-fearsome-new-linux-malware-will-send-a-shudder-down-the-spines-of-it-professionals/](https://www.techradar.com/news/this-fearsome-new-linux-malware-will-send-a-shudder-down-the-spines-of-it-professionals/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-12 20:03:23+00:00
- - tags: None
 
 Malware can steal data, hijack the webcam, or install a cryptominer on all kinds of Linux devices.
 
@@ -44,7 +39,6 @@ Malware can steal data, hijack the webcam, or install a cryptominer on all kinds
  - [https://www.techradar.com/news/geforce-rtx-4090-leaked-photos-shows-a-downright-chonky-quad-slot-cooling-system/](https://www.techradar.com/news/geforce-rtx-4090-leaked-photos-shows-a-downright-chonky-quad-slot-cooling-system/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-12 19:36:12+00:00
- - tags: None
 
 Newly leaked photos of the RTX 4090 showcase the GPU's cooling system and box it ships with.
 
@@ -52,7 +46,6 @@ Newly leaked photos of the RTX 4090 showcase the GPU's cooling system and box it
  - [https://www.techradar.com/news/rokus-ultra-4k-streamer-gets-the-bluetooth-audio-upgrade-weve-been-waiting-on/](https://www.techradar.com/news/rokus-ultra-4k-streamer-gets-the-bluetooth-audio-upgrade-weve-been-waiting-on/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-12 19:29:56+00:00
- - tags: None
 
 New updates to Roku OS bring audio and usability improvements that will let the streaming platform better compete with Apple, Google, and Amazon.
 
@@ -60,7 +53,6 @@ New updates to Roku OS bring audio and usability improvements that will let the 
  - [https://www.techradar.com/news/the-latest-linux-kernel-update-could-play-havoc-with-your-vms/](https://www.techradar.com/news/the-latest-linux-kernel-update-could-play-havoc-with-your-vms/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-12 18:04:23+00:00
- - tags: None
 
 Linux kernel update version 5.19 has been found to have huge impacts on computing and networking performance.
 
@@ -68,7 +60,6 @@ Linux kernel update version 5.19 has been found to have huge impacts on computin
  - [https://www.techradar.com/news/microsoft-excel-update-will-give-power-users-plenty-to-dig-their-teeth-into/](https://www.techradar.com/news/microsoft-excel-update-will-give-power-users-plenty-to-dig-their-teeth-into/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-12 17:20:54+00:00
- - tags: None
 
 A handy automation feature is coming to the desktop version of Microsoft Excel.
 
@@ -76,7 +67,6 @@ A handy automation feature is coming to the desktop version of Microsoft Excel.
  - [https://www.techradar.com/news/google-amazon-workers-protest-military-cloud-contracts/](https://www.techradar.com/news/google-amazon-workers-protest-military-cloud-contracts/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-12 17:02:19+00:00
- - tags: None
 
 Cloud computing contract with the Israeli government is causing widespread opposition from employees at tech giants.
 
@@ -84,7 +74,6 @@ Cloud computing contract with the Israeli government is causing widespread oppos
  - [https://www.techradar.com/news/poor-security-might-send-wfh-workers-back-to-the-office/](https://www.techradar.com/news/poor-security-might-send-wfh-workers-back-to-the-office/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-12 16:32:00+00:00
- - tags: None
 
 Consumers are adopting smart devices en-masse, but security isn't always being priotized, Blackberry says.
 
@@ -92,7 +81,6 @@ Consumers are adopting smart devices en-masse, but security isn't always being p
  - [https://www.techradar.com/news/iphone-14-colors/](https://www.techradar.com/news/iphone-14-colors/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-12 16:21:37+00:00
- - tags: None
 
 From Space Black to Silver, these are all the colors you can get the iPhone 14, 14 Plus, 14 Pro, and 14 Pro Max in.
 
@@ -100,7 +88,6 @@ From Space Black to Silver, these are all the colors you can get the iPhone 14, 
  - [https://www.techradar.com/news/why-you-shouldnt-be-worried-about-assassins-creed-mirages-gambling-rating/](https://www.techradar.com/news/why-you-shouldnt-be-worried-about-assassins-creed-mirages-gambling-rating/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-12 16:13:39+00:00
- - tags: None
 
 Assassin's Creed Mirage is said to include "real gambling", but that label might be a little premature.
 
@@ -108,7 +95,6 @@ Assassin's Creed Mirage is said to include "real gambling", but that label might
  - [https://www.techradar.com/news/using-microsoft-teams-gifs-really-is-an-awful-idea/](https://www.techradar.com/news/using-microsoft-teams-gifs-really-is-an-awful-idea/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-12 16:01:14+00:00
- - tags: None
 
 Experts claims a GIF can launch malicious code, but Microsoft disagrees.
 
@@ -116,7 +102,6 @@ Experts claims a GIF can launch malicious code, but Microsoft disagrees.
  - [https://www.techradar.com/news/google-stadias-business-model-totally-killed-them-according-to-cloud-developer/](https://www.techradar.com/news/google-stadias-business-model-totally-killed-them-according-to-cloud-developer/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-12 16:00:00+00:00
- - tags: None
 
 Shadow CMO Yannis Weinbach shares his views on why Google Stadia failed where other cloud platforms succeeded.
 
@@ -124,7 +109,6 @@ Shadow CMO Yannis Weinbach shares his views on why Google Stadia failed where ot
  - [https://www.techradar.com/news/gopro-action-cams-are-about-to-get-their-biggest-shake-up-in-years/](https://www.techradar.com/news/gopro-action-cams-are-about-to-get-their-biggest-shake-up-in-years/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-12 15:50:58+00:00
- - tags: None
 
 A new GoPro teaser video shows the action cam maker is preparing two Hero 11 action cams, including a mini version.
 
@@ -132,7 +116,6 @@ A new GoPro teaser video shows the action cam maker is preparing two Hero 11 act
  - [https://www.techradar.com/news/chromeos-is-copying-one-of-the-best-video-call-features-from-macos/](https://www.techradar.com/news/chromeos-is-copying-one-of-the-best-video-call-features-from-macos/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-12 15:23:08+00:00
- - tags: None
 
 Background blurring and auto framing could be on their way to your Chromebook’s webcam soon.
 
@@ -140,7 +123,6 @@ Background blurring and auto framing could be on their way to your Chromebook’
  - [https://www.techradar.com/news/serious-vulnerabilities-in-hp-devices-left-unpatched-for-months-on-end/](https://www.techradar.com/news/serious-vulnerabilities-in-hp-devices-left-unpatched-for-months-on-end/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-12 14:12:45+00:00
- - tags: None
 
 Flaws allowing for arbitrary code execution found on multiple HP models.
 
@@ -148,7 +130,6 @@ Flaws allowing for arbitrary code execution found on multiple HP models.
  - [https://www.techradar.com/news/intel-confirms-raptor-lake-cpus-will-hit-6ghz-out-of-the-box/](https://www.techradar.com/news/intel-confirms-raptor-lake-cpus-will-hit-6ghz-out-of-the-box/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-12 13:56:48+00:00
- - tags: None
 
 What we don’t know is which processor will usher in this feat – but we’ve got a good idea.
 
@@ -156,7 +137,6 @@ What we don’t know is which processor will usher in this feat – but we’ve 
  - [https://www.techradar.com/news/gartner-forget-the-metaverse-its-all-about-the-intraverse/](https://www.techradar.com/news/gartner-forget-the-metaverse-its-all-about-the-intraverse/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-12 13:42:36+00:00
- - tags: None
 
 Gartner predicts the rise of new tech that will combine the metaverse and intranet.
 
@@ -164,7 +144,6 @@ Gartner predicts the rise of new tech that will combine the metaverse and intran
  - [https://www.techradar.com/news/ransomware-gangs-using-clever-new-technique-to-dance-past-security-protections/](https://www.techradar.com/news/ransomware-gangs-using-clever-new-technique-to-dance-past-security-protections/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-12 13:25:34+00:00
- - tags: None
 
 Intermittent encryption is quickly gaining fame due to its speed and ability to go unnoticed.
 
@@ -172,7 +151,6 @@ Intermittent encryption is quickly gaining fame due to its speed and ability to 
  - [https://www.techradar.com/news/iphone-14-battery-capacity-shows-apple-making-a-gamble-on-its-specs/](https://www.techradar.com/news/iphone-14-battery-capacity-shows-apple-making-a-gamble-on-its-specs/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-12 13:20:33+00:00
- - tags: None
 
 The iPhone 14 Pro Max has a smaller battery than the 13 Pro Max, showing Apple doubling down on chipset efficiency.
 
@@ -180,7 +158,6 @@ The iPhone 14 Pro Max has a smaller battery than the 13 Pro Max, showing Apple d
  - [https://www.techradar.com/news/microsoft-could-be-forced-to-change-its-software-pricing-model-but-only-for-some-customers/](https://www.techradar.com/news/microsoft-could-be-forced-to-change-its-software-pricing-model-but-only-for-some-customers/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-12 12:54:22+00:00
- - tags: None
 
 Microsoft may be forced to stop charging for software on a per employee basis in some circumstances.
 
@@ -188,7 +165,6 @@ Microsoft may be forced to stop charging for software on a per employee basis in
  - [https://www.techradar.com/news/new-nvidia-rtx-3060-gpus-could-be-good-news-for-your-wallet-but-bad-news-for-rtx-4060/](https://www.techradar.com/news/new-nvidia-rtx-3060-gpus-could-be-good-news-for-your-wallet-but-bad-news-for-rtx-4060/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-12 11:36:35+00:00
- - tags: None
 
 Nvidia could launch some unexpected GPUs in October, namely refreshed 3060 and 3060 Ti models.
 
@@ -196,7 +172,6 @@ Nvidia could launch some unexpected GPUs in October, namely refreshed 3060 and 3
  - [https://www.techradar.com/news/project-cambria-leak-might-show-us-what-metas-next-vr-headset-looks-like-early/](https://www.techradar.com/news/project-cambria-leak-might-show-us-what-metas-next-vr-headset-looks-like-early/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-12 11:33:38+00:00
- - tags: None
 
 The Oculus Quest 2's successor, Project Cambria, has apparently been unboxed in a new leaked video one month before its reveal.
 
@@ -204,7 +179,6 @@ The Oculus Quest 2's successor, Project Cambria, has apparently been unboxed in 
  - [https://www.techradar.com/news/xenoblade-chronicles-3-creator-boosted-splatoon-3-during-development/](https://www.techradar.com/news/xenoblade-chronicles-3-creator-boosted-splatoon-3-during-development/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-12 11:00:05+00:00
- - tags: None
 
 Xenoblade Chronicles 3 developer Monolith Soft also had a hand in creating multiplayer splat-em-up Splatoon 3.
 
@@ -212,7 +186,6 @@ Xenoblade Chronicles 3 developer Monolith Soft also had a hand in creating multi
  - [https://www.techradar.com/news/marvel-world-of-heroes-is-pokemon-go-for-superheroes/](https://www.techradar.com/news/marvel-world-of-heroes-is-pokemon-go-for-superheroes/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-12 10:29:38+00:00
- - tags: None
 
 Niantic is bringing the Pokémon Go experience to the world of spandex superheroes.
 
@@ -220,7 +193,6 @@ Niantic is bringing the Pokémon Go experience to the world of spandex superhero
  - [https://www.techradar.com/news/canceled-prime-video-and-hulu-ditches-marquee-shows-after-only-one-season/](https://www.techradar.com/news/canceled-prime-video-and-hulu-ditches-marquee-shows-after-only-one-season/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-12 10:04:23+00:00
- - tags: None
 
 A much-hyped comedy and a sci-fi extravaganza both fall by the wayside.
 
@@ -228,7 +200,6 @@ A much-hyped comedy and a sci-fi extravaganza both fall by the wayside.
  - [https://www.techradar.com/news/which-ios-16-features-arent-available-for-older-iphones/](https://www.techradar.com/news/which-ios-16-features-arent-available-for-older-iphones/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-12 09:52:00+00:00
- - tags: None
 
 With iOS 16 about to launch, you may find that some features are unavailable for your older iPhone.
 
@@ -236,7 +207,6 @@ With iOS 16 about to launch, you may find that some features are unavailable for
  - [https://www.techradar.com/news/live/ios-16-launch-live-blog-when-is-it-out-what-does-it-have/](https://www.techradar.com/news/live/ios-16-launch-live-blog-when-is-it-out-what-does-it-have/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-12 09:35:08+00:00
- - tags: None
 
 With iOS 16 launching today, we'll be keeping track of when it lands on your iPhone.
 
@@ -244,7 +214,6 @@ With iOS 16 launching today, we'll be keeping track of when it lands on your iPh
  - [https://www.techradar.com/news/you-might-be-able-to-buy-an-iphone-14-on-subscription-this-year/](https://www.techradar.com/news/you-might-be-able-to-buy-an-iphone-14-on-subscription-this-year/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-12 09:28:06+00:00
- - tags: None
 
 Apple's long-rumored hardware subscription service is reportedly still on the way.
 
@@ -252,6 +221,5 @@ Apple's long-rumored hardware subscription service is reportedly still on the wa
  - [https://www.techradar.com/news/new-galaxy-s23-leak-suggests-samsung-will-be-following-apples-iphone-14-path/](https://www.techradar.com/news/new-galaxy-s23-leak-suggests-samsung-will-be-following-apples-iphone-14-path/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-12 09:00:47+00:00
- - tags: None
 
 The screen sizes and physical dimensions of Samsung's next flagship phones have leaked out online.

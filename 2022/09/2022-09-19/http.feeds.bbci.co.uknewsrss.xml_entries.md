@@ -1,10 +1,9 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml
+# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
 
 ## Reliance Industries: Daughter rises in Mukesh Ambani’s succession plan
  - [https://www.bbc.co.uk/news/world-asia-india-62949003?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-india-62949003?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 23:49:02+00:00
- - tags: None
 
 Isha Ambani has been groomed to join the Reliance empire, unlike other women in her family.
 
@@ -12,7 +11,6 @@ Isha Ambani has been groomed to join the Reliance empire, unlike other women in 
  - [https://www.bbc.co.uk/news/blogs-the-papers-62963753?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-62963753?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 23:47:25+00:00
- - tags: None
 
 All the papers are dedicated to the funeral of Queen Elizabeth II, who has been laid to rest in Windsor.
 
@@ -20,7 +18,6 @@ All the papers are dedicated to the funeral of Queen Elizabeth II, who has been 
  - [https://www.bbc.co.uk/news/world-asia-62958456?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-62958456?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 23:45:12+00:00
- - tags: None
 
 Thousands of displaced families in Pakistan are now threatened by diseases like dengue and malaria.
 
@@ -28,7 +25,6 @@ Thousands of displaced families in Pakistan are now threatened by diseases like 
  - [https://www.bbc.co.uk/digihub/politics-62930568?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/digihub/politics-62930568?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 23:39:34+00:00
- - tags: None
 
 Russia's Ukraine retreat leaves joy, but also destruction and danger.
 
@@ -36,7 +32,6 @@ Russia's Ukraine retreat leaves joy, but also destruction and danger.
  - [https://www.bbc.co.uk/news/business-62351448?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-62351448?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 23:35:02+00:00
- - tags: None
 
 Natural disasters have spurred some communities and homeowners to generate their own electricity.
 
@@ -44,7 +39,6 @@ Natural disasters have spurred some communities and homeowners to generate their
  - [https://www.bbc.co.uk/news/uk-62962140?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62962140?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 23:26:33+00:00
- - tags: None
 
 Thousands of people turned out to watch Queen Elizabeth II's funeral in London and her final journey to Windsor.
 
@@ -52,7 +46,6 @@ Thousands of people turned out to watch Queen Elizabeth II's funeral in London a
  - [https://www.bbc.co.uk/news/world-europe-62948951?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-62948951?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 23:20:11+00:00
- - tags: None
 
 Giorgia Meloni has surged in the polls ahead of Sunday's vote with promises on taxes and migration.
 
@@ -60,7 +53,6 @@ Giorgia Meloni has surged in the polls ahead of Sunday's vote with promises on t
  - [https://www.bbc.co.uk/news/uk-62960196?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62960196?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 23:08:11+00:00
- - tags: None
 
 In living rooms and parks, pubs and town squares, people marked the Queen's funeral in their own way.
 
@@ -68,7 +60,6 @@ In living rooms and parks, pubs and town squares, people marked the Queen's fune
  - [https://www.bbc.co.uk/news/business-62920266?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-62920266?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 23:01:49+00:00
- - tags: None
 
 As her chancellor prepares to announce a mini-Budget, the PM has pledged tax cuts to boost growth.
 
@@ -76,7 +67,6 @@ As her chancellor prepares to announce a mini-Budget, the PM has pledged tax cut
  - [https://www.bbc.co.uk/news/world-us-canada-62963466?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-62963466?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 20:35:34+00:00
- - tags: None
 
 Prosecutors last week asked the court to vacate the conviction and release Syed pending a retrial.
 
@@ -84,7 +74,6 @@ Prosecutors last week asked the court to vacate the conviction and release Syed 
  - [https://www.bbc.co.uk/news/world-latin-america-62960830?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-latin-america-62960830?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 19:48:21+00:00
- - tags: None
 
 The 7.6 magnitude quake hit Mexico as the country marked the 2017 and 1985 shocks left thousands dead.
 
@@ -92,7 +81,6 @@ The 7.6 magnitude quake hit Mexico as the country marked the 2017 and 1985 shock
  - [https://www.bbc.co.uk/sport/football/62963621?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/62963621?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 19:45:15+00:00
- - tags: None
 
 Grant Hanley, Jacob Brown and Jon McLaughlin withdraw from Scotland's squad before Wednesday's Nations League match with Ukraine.
 
@@ -100,7 +88,6 @@ Grant Hanley, Jacob Brown and Jon McLaughlin withdraw from Scotland's squad befo
  - [https://www.bbc.co.uk/sport/football/62941993?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/62941993?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 18:46:47+00:00
- - tags: None
 
 Wales call up 18-year-old Birmingham midfielder Jamie Jordan for their Nations League games against Belgium and Poland.
 
@@ -108,7 +95,6 @@ Wales call up 18-year-old Birmingham midfielder Jamie Jordan for their Nations L
  - [https://www.bbc.co.uk/sport/62961885?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/62961885?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 18:33:06+00:00
- - tags: None
 
 David Beckham and Tyson Fury pay tribute to Queen Elizabeth II on the day of her state funeral.
 
@@ -116,7 +102,6 @@ David Beckham and Tyson Fury pay tribute to Queen Elizabeth II on the day of her
  - [https://www.bbc.co.uk/news/world-us-canada-62957627?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-62957627?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 18:14:23+00:00
- - tags: None
 
 Sherri Papini went missing in 2016. She pleaded guilty to staging her kidnapping earlier this year.
 
@@ -124,7 +109,6 @@ Sherri Papini went missing in 2016. She pleaded guilty to staging her kidnapping
  - [https://www.bbc.co.uk/sport/cricket/62962904?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/62962904?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 17:40:25+00:00
- - tags: None
 
 Ireland beat the USA by nine wickets to secure their first win of the Women's T20 World Cup Qualifier in Abu Dhabi.
 
@@ -132,7 +116,6 @@ Ireland beat the USA by nine wickets to secure their first win of the Women's T2
  - [https://www.bbc.co.uk/news/uk-62960748?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62960748?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 17:10:23+00:00
- - tags: None
 
 The service at Westminster Abbey saw Liz Truss joined by predecessors including Boris Johnson and Tony Blair.
 
@@ -140,7 +123,6 @@ The service at Westminster Abbey saw Liz Truss joined by predecessors including 
  - [https://www.bbc.co.uk/news/uk-62961120?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62961120?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 16:39:00+00:00
- - tags: None
 
 Muick, Sandy and Emma were pictured as their mistress's coffin approached.
 
@@ -148,7 +130,6 @@ Muick, Sandy and Emma were pictured as their mistress's coffin approached.
  - [https://www.bbc.co.uk/news/uk-62929467?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62929467?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 16:27:16+00:00
- - tags: None
 
 Watch one of the most momentous pieces of pageantry of the day so far - as the Queen is separated from her crown jewels.
 
@@ -156,7 +137,6 @@ Watch one of the most momentous pieces of pageantry of the day so far - as the Q
  - [https://www.bbc.co.uk/news/uk-62961080?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62961080?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 16:26:02+00:00
- - tags: None
 
 An era was ending right before our eyes as soldiers carrying the coffin shuffled up the aisle, writes Sean Coughlan.
 
@@ -164,7 +144,6 @@ An era was ending right before our eyes as soldiers carrying the coffin shuffled
  - [https://www.bbc.co.uk/news/uk-62961411?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62961411?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 16:25:07+00:00
- - tags: None
 
 The Queen's committal service has taken place at St George's Chapel, Windsor.
 
@@ -172,7 +151,6 @@ The Queen's committal service has taken place at St George's Chapel, Windsor.
  - [https://www.bbc.co.uk/news/uk-62955606?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62955606?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 16:20:15+00:00
- - tags: None
 
 The committal service at St George's Chapel came four hours after the state funeral at Westminster Abbey.
 
@@ -180,7 +158,6 @@ The committal service at St George's Chapel came four hours after the state fune
  - [https://www.bbc.co.uk/news/world-62955392?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-62955392?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 16:11:47+00:00
- - tags: None
 
 Our correspondents on how countries around the world witnessed the ceremony for Queen Elizabeth II.
 
@@ -188,7 +165,6 @@ Our correspondents on how countries around the world witnessed the ceremony for 
  - [https://www.bbc.co.uk/sport/football/62955035?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/62955035?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 16:08:39+00:00
- - tags: None
 
 MLS launches an investigation into allegations that DC United forward Taxi Fountas directed a racial slur towards Inter Miami defender Damion Lowe.
 
@@ -196,7 +172,6 @@ MLS launches an investigation into allegations that DC United forward Taxi Fount
  - [https://www.bbc.co.uk/news/uk-62929200?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62929200?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 16:07:58+00:00
- - tags: None
 
 Huge crowds lined the Long Walk as the procession headed to St George's Chapel.
 
@@ -204,7 +179,6 @@ Huge crowds lined the Long Walk as the procession headed to St George's Chapel.
  - [https://www.bbc.co.uk/news/uk-62955760?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62955760?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 16:05:16+00:00
- - tags: None
 
 The Queen's funeral was steeped in tradition, but there were some personal touches too.
 
@@ -212,7 +186,6 @@ The Queen's funeral was steeped in tradition, but there were some personal touch
  - [https://www.bbc.co.uk/news/technology-62960828?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-62960828?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 15:55:33+00:00
- - tags: None
 
 More than 90 images and videos were leaked from the franchise's next instalment, developer Rockstar confirms.
 
@@ -220,7 +193,6 @@ More than 90 images and videos were leaked from the franchise's next instalment,
  - [https://www.bbc.co.uk/news/world-us-canada-62959089?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-62959089?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 15:52:17+00:00
- - tags: None
 
 The president said there is still "a lot of work" being done to control the virus in the US.
 
@@ -228,7 +200,6 @@ The president said there is still "a lot of work" being done to control the viru
  - [https://www.bbc.co.uk/news/uk-england-leicestershire-62957110?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-leicestershire-62957110?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 15:15:33+00:00
- - tags: None
 
 Sixteen police officers and a police dog were hurt as they faced "significant aggression".
 
@@ -236,7 +207,6 @@ Sixteen police officers and a police dog were hurt as they faced "significant ag
  - [https://www.bbc.co.uk/news/uk-62960524?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62960524?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 14:38:00+00:00
- - tags: None
 
 Crowds gather to see the coffin of the Queen travel to St George’s Chapel.
 
@@ -244,7 +214,6 @@ Crowds gather to see the coffin of the Queen travel to St George’s Chapel.
  - [https://www.bbc.co.uk/news/world-us-canada-62957626?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-62957626?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 14:35:57+00:00
- - tags: None
 
 In an interview with the BBC, Justin Trudeau said Canada's system offers 'extraordinary stability'.
 
@@ -252,7 +221,6 @@ In an interview with the BBC, Justin Trudeau said Canada's system offers 'extrao
  - [https://www.bbc.co.uk/news/uk-62929195?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62929195?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 13:36:51+00:00
- - tags: None
 
 The procession carrying the Queen reaches Wellington Arch at Hyde Park Corner, where the coffin is transferred to the state hearse.
 
@@ -260,7 +228,6 @@ The procession carrying the Queen reaches Wellington Arch at Hyde Park Corner, w
  - [https://www.bbc.co.uk/sport/tennis/62955026?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/tennis/62955026?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 13:23:48+00:00
- - tags: None
 
 Former world number one Naomi Osaka says she has gone through "more downs than ups" this year having dropped to 48th in the world rankings.
 
@@ -268,7 +235,6 @@ Former world number one Naomi Osaka says she has gone through "more downs than u
  - [https://www.bbc.co.uk/news/uk-62929194?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62929194?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 12:53:28+00:00
- - tags: None
 
 Moments from the procession carrying the Queen from Westminster Abbey to Wellington Arch.
 
@@ -276,7 +242,6 @@ Moments from the procession carrying the Queen from Westminster Abbey to Welling
  - [https://www.bbc.co.uk/news/uk-62955178?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62955178?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 12:36:42+00:00
- - tags: None
 
 The Canadian-American actress took part in the procession at Westminster Abbey.
 
@@ -284,7 +249,6 @@ The Canadian-American actress took part in the procession at Westminster Abbey.
  - [https://www.bbc.co.uk/news/uk-62928813?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62928813?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 12:28:10+00:00
- - tags: None
 
 London observes two-minute silence for the Queen
 
@@ -292,7 +256,6 @@ London observes two-minute silence for the Queen
  - [https://www.bbc.co.uk/news/world-middle-east-62954648?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-middle-east-62954648?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 12:26:21+00:00
- - tags: None
 
 Mahsa Amini, 22, collapsed after being held by morality police for allegedly breaking hijab rules.
 
@@ -300,7 +263,6 @@ Mahsa Amini, 22, collapsed after being held by morality police for allegedly bre
  - [https://www.bbc.co.uk/news/uk-62957322?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62957322?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 11:54:32+00:00
- - tags: None
 
 Key moments from the service at Westminster Abbey.
 
@@ -308,7 +270,6 @@ Key moments from the service at Westminster Abbey.
  - [https://www.bbc.co.uk/news/uk-62954578?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62954578?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 11:25:49+00:00
- - tags: None
 
 The meaning and symbolism behind The Queen's carefully chosen funeral flowers.
 
@@ -316,7 +277,6 @@ The meaning and symbolism behind The Queen's carefully chosen funeral flowers.
  - [https://www.bbc.co.uk/news/uk-62956262?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62956262?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 11:15:07+00:00
- - tags: None
 
 The Archbishop of Canterbury pays tribute to her life and service to the UK and Commonwealth.
 
@@ -324,7 +284,6 @@ The Archbishop of Canterbury pays tribute to her life and service to the UK and 
  - [https://www.bbc.co.uk/news/uk-62954921?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62954921?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 10:19:10+00:00
- - tags: None
 
 Royals and world leaders arrive for Queen's funeral.
 
@@ -332,7 +291,6 @@ Royals and world leaders arrive for Queen's funeral.
  - [https://www.bbc.co.uk/news/uk-62928806?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62928806?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 09:59:36+00:00
- - tags: None
 
 A bearer party lifts the coffin from the catafalque in Westminster Hall and carries it in procession.
 
@@ -340,7 +298,6 @@ A bearer party lifts the coffin from the catafalque in Westminster Hall and carr
  - [https://www.bbc.co.uk/news/uk-62954920?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62954920?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 09:56:27+00:00
- - tags: None
 
 Princes William and Harry were with the King, ahead of the procession to Westminster Abbey.
 
@@ -348,7 +305,6 @@ Princes William and Harry were with the King, ahead of the procession to Westmin
  - [https://www.bbc.co.uk/news/world-asia-62954203?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-62954203?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 09:50:13+00:00
- - tags: None
 
 Mark Frerichs, a US navy veteran working as an engineer, was taken in Afghanistan in 2020.
 
@@ -356,7 +312,6 @@ Mark Frerichs, a US navy veteran working as an engineer, was taken in Afghanista
  - [https://www.bbc.co.uk/news/uk-62954916?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62954916?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 09:38:59+00:00
- - tags: None
 
 Liz Truss and former British Prime Ministers arrive.
 
@@ -364,7 +319,6 @@ Liz Truss and former British Prime Ministers arrive.
  - [https://www.bbc.co.uk/news/uk-62954914?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62954914?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 09:19:07+00:00
- - tags: None
 
 The Bidens arrive at Westminster Abbey.
 
@@ -372,7 +326,6 @@ The Bidens arrive at Westminster Abbey.
  - [https://www.bbc.co.uk/news/uk-62953973?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62953973?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 09:01:45+00:00
- - tags: None
 
 The massed pipes and drums of Scottish and Irish regiments move into position before the funeral.
 
@@ -380,7 +333,6 @@ The massed pipes and drums of Scottish and Irish regiments move into position be
  - [https://www.bbc.co.uk/news/world-asia-62952942?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-62952942?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 08:44:09+00:00
- - tags: None
 
 Nanmadol is one of the worst typhoons ever to strike Japan, with flooding and landslides expected.
 
@@ -388,7 +340,6 @@ Nanmadol is one of the worst typhoons ever to strike Japan, with flooding and la
  - [https://www.bbc.co.uk/news/in-pictures-62918196?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/in-pictures-62918196?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 08:34:26+00:00
- - tags: None
 
 Photos of the Queen's state funeral, from the procession through London to the service at Westminster Abbey.
 
@@ -396,7 +347,6 @@ Photos of the Queen's state funeral, from the procession through London to the s
  - [https://www.bbc.co.uk/news/world-europe-62952641?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-62952641?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 08:22:04+00:00
- - tags: None
 
 Russia's army has been almost completely pushed out of Ukraine's north-eastern Kharkiv region.
 
@@ -404,7 +354,6 @@ Russia's army has been almost completely pushed out of Ukraine's north-eastern K
  - [https://www.bbc.co.uk/news/uk-62953965?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62953965?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 07:58:46+00:00
- - tags: None
 
 Inside the Abbey as guests begin to arrive.
 
@@ -412,7 +361,6 @@ Inside the Abbey as guests begin to arrive.
  - [https://www.bbc.co.uk/sport/american-football/62951007?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/american-football/62951007?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 07:33:00+00:00
- - tags: None
 
 Tom Brady ends his losing run against the New Orleans Saints while the Miami Dolphins and New York Jets earn big comeback wins.
 
@@ -420,7 +368,6 @@ Tom Brady ends his losing run against the New Orleans Saints while the Miami Dol
  - [https://www.bbc.co.uk/news/uk-england-berkshire-62952485?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-berkshire-62952485?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 07:27:39+00:00
- - tags: None
 
 Damage to overhead electric wires means trains are unable to run between Slough and Paddington.
 
@@ -428,7 +375,6 @@ Damage to overhead electric wires means trains are unable to run between Slough 
  - [https://www.bbc.co.uk/news/uk-62952665?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62952665?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 07:18:31+00:00
- - tags: None
 
 The order of service for Queen's committal at St George's Chapel at Windsor Castle on 19 September, 2022.
 
@@ -436,7 +382,6 @@ The order of service for Queen's committal at St George's Chapel at Windsor Cast
  - [https://www.bbc.co.uk/news/uk-62952004?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62952004?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 07:16:23+00:00
- - tags: None
 
 Guests at the first state funeral since 1965 begin to arrive ahead of the service at 11:00 BST.
 
@@ -444,7 +389,6 @@ Guests at the first state funeral since 1965 begin to arrive ahead of the servic
  - [https://www.bbc.co.uk/news/uk-62928805?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62928805?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 05:49:07+00:00
- - tags: None
 
 Last mourners file past as Lying in State ends
 
@@ -452,7 +396,6 @@ Last mourners file past as Lying in State ends
  - [https://www.bbc.co.uk/news/uk-62941422?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62941422?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 05:03:59+00:00
- - tags: None
 
 Full details of all those involved in the Queen's main funeral procession.
 
@@ -460,7 +403,6 @@ Full details of all those involved in the Queen's main funeral procession.
  - [https://www.bbc.co.uk/news/world-asia-china-62873979?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-62873979?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 04:06:25+00:00
- - tags: None
 
 Chief epidemiologist Wu Zunyou issued the warning a day after China recorded its first monkeypox case.
 
@@ -468,7 +410,6 @@ Chief epidemiologist Wu Zunyou issued the warning a day after China recorded its
  - [https://www.bbc.co.uk/news/world-asia-62951347?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-62951347?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 02:42:16+00:00
- - tags: None
 
 The US president says troops would defend the island, but the White House downplays the comments.
 
@@ -476,6 +417,5 @@ The US president says troops would defend the island, but the White House downpl
  - [https://www.bbc.co.uk/news/uk-62951145?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62951145?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-09-19 00:14:44+00:00
- - tags: None
 
 Taken before the Platinum Jubilee, it shows the late monarch smiling brightly in Windsor Castle.

@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## Russian Critics Speak Out, Prompted by Ukraine Losses
  - [https://www.nytimes.com/2022/09/12/world/europe/russia-putin-ukraine-war.html](https://www.nytimes.com/2022/09/12/world/europe/russia-putin-ukraine-war.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-12 23:35:55+00:00
- - tags: None
 
 Ukraine’s recent battlefield successes are emboldening Vladimir Putin’s critics and sending his supporters in search of someone else to blame.
 
@@ -12,7 +11,6 @@ Ukraine’s recent battlefield successes are emboldening Vladimir Putin’s crit
  - [https://www.nytimes.com/2022/09/12/world/europe/ukraine-russia-offensive-whats-next.html](https://www.nytimes.com/2022/09/12/world/europe/ukraine-russia-offensive-whats-next.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-12 22:01:40+00:00
- - tags: None
 
 Ukraine’s military is gauging how far its forces can press the attack, at risk of their ability to hold the new lines. Russian leaders are trying to regroup after a dramatic, demoralizing rout.
 
@@ -20,7 +18,6 @@ Ukraine’s military is gauging how far its forces can press the attack, at risk
  - [https://www.nytimes.com/2022/09/12/briefing/ukraine-kharkiv-queen-asia.html](https://www.nytimes.com/2022/09/12/briefing/ukraine-kharkiv-queen-asia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-12 21:07:12+00:00
- - tags: None
 
 Plus former British colonies weigh their relationship with the monarchy and Lebanon faces blackouts.
 
@@ -28,7 +25,6 @@ Plus former British colonies weigh their relationship with the monarchy and Leba
  - [https://www.nytimes.com/article/queen-funeral-schedule.html](https://www.nytimes.com/article/queen-funeral-schedule.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-12 20:49:32+00:00
- - tags: None
 
 Her funeral is scheduled for Sept. 19. Before that, there are processions, vigils and four days of lying in state in London.
 
@@ -36,7 +32,6 @@ Her funeral is scheduled for Sept. 19. Before that, there are processions, vigil
  - [https://www.nytimes.com/2022/09/12/world/europe/biden-queen-funeral-guest-list.html](https://www.nytimes.com/2022/09/12/world/europe/biden-queen-funeral-guest-list.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-12 20:19:40+00:00
- - tags: None
 
 Heads of state and royalty from around the world are expected to attend the funeral on Sept. 19.
 
@@ -44,7 +39,6 @@ Heads of state and royalty from around the world are expected to attend the fune
  - [https://www.nytimes.com/2022/09/12/world/europe/queen-elizabeth-funeral-king-charles-scotland.html](https://www.nytimes.com/2022/09/12/world/europe/queen-elizabeth-funeral-king-charles-scotland.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-12 20:02:14+00:00
- - tags: None
 
 King Charles III addressed Parliament in London, then flew to Scotland for a service of thanksgiving for his mother.
 
@@ -52,7 +46,6 @@ King Charles III addressed Parliament in London, then flew to Scotland for a ser
  - [https://www.nytimes.com/2022/09/12/world/europe/king-charles-liz-truss-queen-elizabeth.html](https://www.nytimes.com/2022/09/12/world/europe/king-charles-liz-truss-queen-elizabeth.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-12 19:59:58+00:00
- - tags: None
 
 Ms. Truss took over a British government facing an economic emergency. But those problems have been eclipsed by the queen’s death, an epochal event that has put politics on hold.
 
@@ -60,7 +53,6 @@ Ms. Truss took over a British government facing an economic emergency. But those
  - [https://www.nytimes.com/2022/09/12/climate/robert-bullard-environmental-justice.html](https://www.nytimes.com/2022/09/12/climate/robert-bullard-environmental-justice.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-12 19:45:03+00:00
- - tags: None
 
 The White House has pledged $60 billion to a cause Robert Bullard has championed since the late seventies. He wants guarantees that the money will end up in the right hands.
 
@@ -68,7 +60,6 @@ The White House has pledged $60 billion to a cause Robert Bullard has championed
  - [https://www.nytimes.com/2022/09/12/world/europe/ukraines-success-europe-russia.html](https://www.nytimes.com/2022/09/12/world/europe/ukraines-success-europe-russia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-12 18:39:34+00:00
- - tags: None
 
 “It’s not for nothing.” Ukraine’s backers say that an offensive over the weekend shows Western military aid is helping, and that it’s time to supply more sophisticated weaponry.
 
@@ -76,7 +67,6 @@ The White House has pledged $60 billion to a cause Robert Bullard has championed
  - [https://www.nytimes.com/2022/09/12/world/europe/russia-tv-moscow-ukraine-war.html](https://www.nytimes.com/2022/09/12/world/europe/russia-tv-moscow-ukraine-war.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-12 18:17:27+00:00
- - tags: None
 
 The divergence of views, even on tightly-controlled state television networks, highlighted how Moscow’s narrative had quickly shifted.
 
@@ -84,7 +74,6 @@ The divergence of views, even on tightly-controlled state television networks, h
  - [https://www.nytimes.com/2022/09/12/world/europe/britain-constitutional-monarchy.html](https://www.nytimes.com/2022/09/12/world/europe/britain-constitutional-monarchy.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-12 16:46:43+00:00
- - tags: None
 
 Even without a written constitution, Britain follows laws and carefully documented traditions that together bind the king.
 
@@ -92,7 +81,6 @@ Even without a written constitution, Britain follows laws and carefully document
  - [https://www.nytimes.com/2022/09/12/world/europe/monty-roberts-queen.html](https://www.nytimes.com/2022/09/12/world/europe/monty-roberts-queen.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-12 15:30:47+00:00
- - tags: None
 
 A renowned American horse trainer described his three-decade-long friendship with Queen Elizabeth II, and the time she called him, unexpectedly, at 2:30 a.m.
 
@@ -100,7 +88,6 @@ A renowned American horse trainer described his three-decade-long friendship wit
  - [https://www.nytimes.com/2022/09/12/world/europe/ukraine-offensive-western-aid.html](https://www.nytimes.com/2022/09/12/world/europe/ukraine-offensive-western-aid.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-12 15:25:36+00:00
- - tags: None
 
 The Ukrainian military’s recent successes will most likely increase the pressure on countries like Germany to give more sophisticated weapons.
 
@@ -108,7 +95,6 @@ The Ukrainian military’s recent successes will most likely increase the pressu
  - [https://www.nytimes.com/2022/09/12/world/europe/queen-elizabeth-new-zealand.html](https://www.nytimes.com/2022/09/12/world/europe/queen-elizabeth-new-zealand.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-12 15:09:36+00:00
- - tags: None
 
 Prime Minister Jacinda Ardern previously said King Charles III had “consistently demonstrated his deep care for our nation.”
 
@@ -116,7 +102,6 @@ Prime Minister Jacinda Ardern previously said King Charles III had “consistent
  - [https://www.nytimes.com/2022/09/12/science/randall-munroe-xkcd-universe-driving.html](https://www.nytimes.com/2022/09/12/science/randall-munroe-xkcd-universe-driving.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-12 14:26:20+00:00
- - tags: None
 
 See you in a quadrillion years or so. Don’t forget to pack zillions of tons of snacks!
 
@@ -124,7 +109,6 @@ See you in a quadrillion years or so. Don’t forget to pack zillions of tons of
  - [https://www.nytimes.com/2022/09/12/world/middleeast/lebanon-blackouts.html](https://www.nytimes.com/2022/09/12/world/middleeast/lebanon-blackouts.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-12 14:18:14+00:00
- - tags: None
 
 With electricity coming on at random times, and for only an hour or two a day, residents have had to find coping strategies — including doing laundry and charging everything they can after midnight.
 
@@ -132,7 +116,6 @@ With electricity coming on at random times, and for only an hour or two a day, r
  - [https://www.nytimes.com/2022/09/12/world/europe/zaporizhzhia-nuclear-plant-negotiations.html](https://www.nytimes.com/2022/09/12/world/europe/zaporizhzhia-nuclear-plant-negotiations.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-12 13:55:36+00:00
- - tags: None
 
 The nuclear complex in southern Ukraine has been imperiled by frequent shelling, raising fears of a nuclear catastrophe.
 
@@ -140,7 +123,6 @@ The nuclear complex in southern Ukraine has been imperiled by frequent shelling,
  - [https://www.nytimes.com/2022/09/12/world/europe/prince-andrew-military-uniform.html](https://www.nytimes.com/2022/09/12/world/europe/prince-andrew-military-uniform.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-12 13:21:27+00:00
- - tags: None
 
 The palace said the prince, largely exiled from public life over his ties to the disgraced financier Jeffrey Epstein, would mourn his mother, Queen Elizabeth II, in civilian clothes.
 
@@ -148,7 +130,6 @@ The palace said the prince, largely exiled from public life over his ties to the
  - [https://www.nytimes.com/live/2022/09/12/world/queen-elizabeth-king-charles](https://www.nytimes.com/live/2022/09/12/world/queen-elizabeth-king-charles)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-12 12:16:46+00:00
- - tags: None
 
 Queen Elizabeth II’s coffin will be moved from the royal residence in Edinburgh to the city’s St Giles’ Cathedral. Earlier, King Charles III addressed Britain’s Parliament for the first time as monarch.
 
@@ -156,7 +137,6 @@ Queen Elizabeth II’s coffin will be moved from the royal residence in Edinburg
  - [https://www.nytimes.com/live/2022/09/12/world/ukraine-russia-war](https://www.nytimes.com/live/2022/09/12/world/ukraine-russia-war)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-12 12:09:07+00:00
- - tags: None
 
 Russia acknowledged the loss of almost all of the Kharkiv region, a stunning setback. Ukraine’s Western backers cheered the gains but warned that Moscow could retaliate with long-range attacks.
 
@@ -164,7 +144,6 @@ Russia acknowledged the loss of almost all of the Kharkiv region, a stunning set
  - [https://www.nytimes.com/2022/09/12/world/europe/russia-elections-results.html](https://www.nytimes.com/2022/09/12/world/europe/russia-elections-results.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-12 12:08:46+00:00
- - tags: None
 
 The elections were an early test of whether the upheaval caused by Russia’s invasion of Ukraine has affected voters.
 
@@ -172,7 +151,6 @@ The elections were an early test of whether the upheaval caused by Russia’s in
  - [https://www.nytimes.com/2022/09/12/briefing/polling-midterms-republicans-democrats.html](https://www.nytimes.com/2022/09/12/briefing/polling-midterms-republicans-democrats.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-12 10:37:18+00:00
- - tags: None
 
 Are Democrats again about to be disappointed by overly optimistic polling?
 
@@ -180,7 +158,6 @@ Are Democrats again about to be disappointed by overly optimistic polling?
  - [https://www.nytimes.com/2022/09/12/world/europe/prince-harry-tribute-queen-elizabeth.html](https://www.nytimes.com/2022/09/12/world/europe/prince-harry-tribute-queen-elizabeth.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-12 09:22:18+00:00
- - tags: None
 
 In his first public comments since the death of his grandmother, the prince said she was already “sorely missed.”
 
@@ -188,7 +165,6 @@ In his first public comments since the death of his grandmother, the prince said
  - [https://www.nytimes.com/2022/09/12/world/europe/anti-monarchists-king-charles-queen-elizabeth.html](https://www.nytimes.com/2022/09/12/world/europe/anti-monarchists-king-charles-queen-elizabeth.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-12 09:00:16+00:00
- - tags: None
 
 King Charles III is less popular than his mother, offering republican campaigners their best chance of momentum in years. But they risk offending mourners by moving too soon.
 
@@ -196,7 +172,6 @@ King Charles III is less popular than his mother, offering republican campaigner
  - [https://www.nytimes.com/2022/09/12/science/fern-genetics-polyploidy.html](https://www.nytimes.com/2022/09/12/science/fern-genetics-polyploidy.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-12 09:00:16+00:00
- - tags: None
 
 Scientists have sequenced complete fern genomes for the first time, to learn why the plants have twice as much DNA as humans.
 
@@ -204,7 +179,6 @@ Scientists have sequenced complete fern genomes for the first time, to learn why
  - [https://www.nytimes.com/2022/09/12/world/ukraine-power-blackout.html](https://www.nytimes.com/2022/09/12/world/ukraine-power-blackout.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-12 08:50:44+00:00
- - tags: None
 
 Kyiv condemned the strikes as an act of revenge as Russian forces retreat in the northeast.
 
@@ -212,7 +186,6 @@ Kyiv condemned the strikes as an act of revenge as Russian forces retreat in the
  - [https://www.nytimes.com/2022/09/12/health/monkeypox-vaccines-treatments-equity.html](https://www.nytimes.com/2022/09/12/health/monkeypox-vaccines-treatments-equity.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-12 07:00:13+00:00
- - tags: None
 
 High-income countries snapped up vaccines when the disease hit them, leaving none for countries that have battled the virus for years, in an echo of the Covid response.
 
@@ -220,7 +193,6 @@ High-income countries snapped up vaccines when the disease hit them, leaving non
  - [https://www.nytimes.com/2022/09/12/books/kate-beaton-ducks-canada-oil.html](https://www.nytimes.com/2022/09/12/books/kate-beaton-ducks-canada-oil.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-12 07:00:08+00:00
- - tags: None
 
 Kate Beaton headed to the tar sand fields of Alberta saddled with loans and in need of cash. She found a job — and the book she “was always going to make.”
 
@@ -228,7 +200,6 @@ Kate Beaton headed to the tar sand fields of Alberta saddled with loans and in n
  - [https://www.nytimes.com/2022/09/12/briefing/russia-ukraine-commonwealth-republics.html](https://www.nytimes.com/2022/09/12/briefing/russia-ukraine-commonwealth-republics.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-12 05:07:15+00:00
- - tags: None
 
 An embarrassing Russian retreat.
 
@@ -236,6 +207,5 @@ An embarrassing Russian retreat.
  - [https://www.nytimes.com/2022/09/11/world/europe/sweden-election.html](https://www.nytimes.com/2022/09/11/world/europe/sweden-election.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-12 00:25:59+00:00
- - tags: None
 
 The tight race capped a campaign that analysts called unusually aggressive, with the nationalist, right-wing Sweden Democrats increasingly popular.

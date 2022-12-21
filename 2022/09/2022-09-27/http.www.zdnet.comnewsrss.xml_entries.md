@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## Open Source Initiative expands its role to AI and machine learning
  - [https://www.zdnet.com/article/open-source-initiative-expands-its-role-to-ai-and-machine-learning/#ftag=RSSbaffb68](https://www.zdnet.com/article/open-source-initiative-expands-its-role-to-ai-and-machine-learning/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-27 22:53:09+00:00
- - tags: None
 
 Over the last 20 years, the OSI has been the guardian of open-source licenses, but now it will also address non-open-source licenses more and AI's role in software development.
 
@@ -12,7 +11,6 @@ Over the last 20 years, the OSI has been the guardian of open-source licenses, b
  - [https://www.zdnet.com/article/best-chrome-vpn/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-chrome-vpn/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-27 21:19:00+00:00
- - tags: None
 
 When choosing a VPN for your Chromebook, compatibility and performance should be at the top of your mind. Here is ZDNET's pick of the best VPN services for Chrome. Just keep in mind, if you want to total privacy, a Chrome browser extension isn't enough.
 
@@ -20,7 +18,6 @@ When choosing a VPN for your Chromebook, compatibility and performance should be
  - [https://www.zdnet.com/article/best-gps-trackers-and-devices-for-kids/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-gps-trackers-and-devices-for-kids/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-27 21:04:00+00:00
- - tags: None
 
 Even if you don't want to track your kid's location all the time, sometimes you may need peace of mind. For Halloween, for instance, you may want to keep tabs on your children. Thankfully, the best GPS trackers for kids offer real-time tracking, alerts, and more.
 
@@ -28,7 +25,6 @@ Even if you don't want to track your kid's location all the time, sometimes you 
  - [https://www.zdnet.com/article/walls-between-technology-pros-and-customers-are-coming-down-at-mainstream-companies/#ftag=RSSbaffb68](https://www.zdnet.com/article/walls-between-technology-pros-and-customers-are-coming-down-at-mainstream-companies/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-27 20:39:16+00:00
- - tags: None
 
 At one leading construction company, tech professionals are working more directly with their ultimate customers, while learning new roles in design thinking and as educators.
 
@@ -36,7 +32,6 @@ At one leading construction company, tech professionals are working more directl
  - [https://www.zdnet.com/article/i-made-a-huge-apple-watch-mistake/#ftag=RSSbaffb68](https://www.zdnet.com/article/i-made-a-huge-apple-watch-mistake/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-27 20:27:00+00:00
- - tags: None
 
 Do as I say, not as I have done.
 
@@ -44,7 +39,6 @@ Do as I say, not as I have done.
  - [https://www.zdnet.com/home-and-office/smart-home/arlo-outdoor-security-camera-deal-coupon-promo-code-sale/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/arlo-outdoor-security-camera-deal-coupon-promo-code-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-27 20:18:00+00:00
- - tags: None
 
 The holidays are around the corner, and if you're wanting to make sure your home stays safe, a camera kit is a great way to keep an eye out while you're away. Save $60 right now on this four-camera kit.
 
@@ -52,7 +46,6 @@ The holidays are around the corner, and if you're wanting to make sure your home
  - [https://www.zdnet.com/home-and-office/home-entertainment/samsung-frame-tv-deal/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/samsung-frame-tv-deal/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-27 19:21:11+00:00
- - tags: None
 
 You no longer have to choose between streaming movies and displaying art. Samsung's QLED The Frame TV is currently 24% off, but hurry -- stock is limited.
 
@@ -60,7 +53,6 @@ You no longer have to choose between streaming movies and displaying art. Samsun
  - [https://www.zdnet.com/home-and-office/home-entertainment/samsung-frame-tv-deal-coupon-promo-code-sale/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/samsung-frame-tv-deal-coupon-promo-code-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-27 19:21:00+00:00
- - tags: None
 
 You no longer have to choose between streaming movies and displaying art. Samsung's QLED The Frame TV is currently 24% off, but hurry -- stock is limited.
 
@@ -68,7 +60,6 @@ You no longer have to choose between streaming movies and displaying art. Samsun
  - [https://www.zdnet.com/article/programming-languages-why-these-developers-like-rust-in-their-cars/#ftag=RSSbaffb68](https://www.zdnet.com/article/programming-languages-why-these-developers-like-rust-in-their-cars/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-27 18:57:52+00:00
- - tags: None
 
 Why the Rust programming language is helping drive innovation.
 
@@ -76,7 +67,6 @@ Why the Rust programming language is helping drive innovation.
  - [https://www.zdnet.com/article/intel-takes-a-crack-at-getting-windows-pcs-to-connect-seamlessly-with-android-phones-and-iphones/#ftag=RSSbaffb68](https://www.zdnet.com/article/intel-takes-a-crack-at-getting-windows-pcs-to-connect-seamlessly-with-android-phones-and-iphones/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-27 18:34:27+00:00
- - tags: None
 
 Microsoft has tried with Phone Link. Now Intel is throwing its hat into the PC-phone connectivity ring with Unison.
 
@@ -84,7 +74,6 @@ Microsoft has tried with Phone Link. Now Intel is throwing its hat into the PC-p
  - [https://www.zdnet.com/article/employees-are-feeling-disconnected-from-their-company-culture-the-solution-might-lie-in-the-onboarding-process/#ftag=RSSbaffb68](https://www.zdnet.com/article/employees-are-feeling-disconnected-from-their-company-culture-the-solution-might-lie-in-the-onboarding-process/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-27 18:26:29+00:00
- - tags: None
 
 Strengthening company culture and encouraging social interactions may be the key to employee retention and success.
 
@@ -92,7 +81,6 @@ Strengthening company culture and encouraging social interactions may be the key
  - [https://www.zdnet.com/home-and-office/home-entertainment/samsung-qn800b-qled-8k-tv-review/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/samsung-qn800b-qled-8k-tv-review/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-27 18:25:00+00:00
- - tags: None
 
 Review: The Samsung QN800B TV displays some of the most beautiful pictures I've ever seen on a TV screen. It's also very expensive.
 
@@ -100,7 +88,6 @@ Review: The Samsung QN800B TV displays some of the most beautiful pictures I've 
  - [https://www.zdnet.com/article/what-is-a-top-down-terminal-and-why-should-you-be-using-one/#ftag=RSSbaffb68](https://www.zdnet.com/article/what-is-a-top-down-terminal-and-why-should-you-be-using-one/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-27 18:10:32+00:00
- - tags: None
 
 An introduction to the top-down Linux terminal and why it should be a part of your desktop workflow.
 
@@ -108,7 +95,6 @@ An introduction to the top-down Linux terminal and why it should be a part of yo
  - [https://www.zdnet.com/article/aws-iot-fleetwise-are-you-an-automotive-company-needing-a-more-efficient-way-to-collect-and-transfer-vehicle-data-to-the-cloud-now-you-can/#ftag=RSSbaffb68](https://www.zdnet.com/article/aws-iot-fleetwise-are-you-an-automotive-company-needing-a-more-efficient-way-to-collect-and-transfer-vehicle-data-to-the-cloud-now-you-can/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-27 17:00:02+00:00
- - tags: None
 
 AWS IoT Fleetwise offers US enterprises a new service that makes it easier for automotive companies to collect, transform, and transfer vehicle data to the cloud in near real time.
 
@@ -116,7 +102,6 @@ AWS IoT Fleetwise offers US enterprises a new service that makes it easier for a
  - [https://www.zdnet.com/article/xerolinux-makes-a-strong-case-for-the-most-beautiful-linux-desktop-on-the-market/#ftag=RSSbaffb68](https://www.zdnet.com/article/xerolinux-makes-a-strong-case-for-the-most-beautiful-linux-desktop-on-the-market/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-27 16:40:00+00:00
- - tags: None
 
 Learn about why XeroLinux is one of the most beautiful desktop operating systems available. What makes this Linux distribution so special?
 
@@ -124,7 +109,6 @@ Learn about why XeroLinux is one of the most beautiful desktop operating systems
  - [https://www.zdnet.com/article/pov-what-you-would-see-if-you-were-nasas-dart-mission-spacecraft-hurtling-towards-an-asteroid/#ftag=RSSbaffb68](https://www.zdnet.com/article/pov-what-you-would-see-if-you-were-nasas-dart-mission-spacecraft-hurtling-towards-an-asteroid/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-27 16:37:13+00:00
- - tags: None
 
 On Monday, NASA successfully sent a spacecraft to smash into the Dimorphos asteroid. Below are the last images the spacecraft took before getting smashed.
 
@@ -132,7 +116,6 @@ On Monday, NASA successfully sent a spacecraft to smash into the Dimorphos aster
  - [https://www.zdnet.com/article/nasa-dart-mission-the-last-images-the-space-probe-took-before-getting-smashed/#ftag=RSSbaffb68](https://www.zdnet.com/article/nasa-dart-mission-the-last-images-the-space-probe-took-before-getting-smashed/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-27 16:37:00+00:00
- - tags: None
 
 On Monday, NASA successfully sent a spacecraft to smash into the Dimorphos asteroid. Below are the last images the spacecraft took before getting smashed.
 
@@ -140,7 +123,6 @@ On Monday, NASA successfully sent a spacecraft to smash into the Dimorphos aster
  - [https://www.zdnet.com/home-and-office/smart-home/what-to-expect-from-amazons-devices-software-and-services-event/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/what-to-expect-from-amazons-devices-software-and-services-event/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-27 15:43:00+00:00
- - tags: None
 
 Amazon is holding an invite-only event for members of the media where it will announce several new products. Here's what we currently think is on tap.
 
@@ -148,7 +130,6 @@ Amazon is holding an invite-only event for members of the media where it will an
  - [https://www.zdnet.com/article/macbook-pro-deal-coupon-promo-code-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/macbook-pro-deal-coupon-promo-code-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-27 15:09:13+00:00
- - tags: None
 
 Need some extra space on your laptop? The Apple MacBook Pro just dropped by $450. Here's where you can score that discount.
 
@@ -156,7 +137,6 @@ Need some extra space on your laptop? The Apple MacBook Pro just dropped by $450
  - [https://www.zdnet.com/article/want-to-fix-your-iphone-this-is-the-gadget-repair-kit-to-get/#ftag=RSSbaffb68](https://www.zdnet.com/article/want-to-fix-your-iphone-this-is-the-gadget-repair-kit-to-get/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-27 14:48:14+00:00
- - tags: None
 
 Repairing your iPhone is even easier when you have the right tools.
 
@@ -164,7 +144,6 @@ Repairing your iPhone is even easier when you have the right tools.
  - [https://www.zdnet.com/article/iphone-14-review/#ftag=RSSbaffb68](https://www.zdnet.com/article/iphone-14-review/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-27 13:25:00+00:00
- - tags: None
 
 The iPhone 14 doesn't have as many upgrades as the iPhone 14 Pro, but if camera quality is your main focus, then you're in luck.
 
@@ -172,7 +151,6 @@ The iPhone 14 doesn't have as many upgrades as the iPhone 14 Pro, but if camera 
  - [https://www.zdnet.com/article/your-m1-mac-can-have-three-displays-at-last-with-this-ugreen-docking-station/#ftag=RSSbaffb68](https://www.zdnet.com/article/your-m1-mac-can-have-three-displays-at-last-with-this-ugreen-docking-station/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-27 12:30:00+00:00
- - tags: None
 
 There are hundreds of USB-C and Thunderbolt 4 docks on the market, but far fewer can unlock the potential of Apple's M1-based systems like Ugreen's Docking Station Pro, and it's great for PCs too.
 
@@ -180,7 +158,6 @@ There are hundreds of USB-C and Thunderbolt 4 docks on the market, but far fewer
  - [https://www.zdnet.com/article/why-tray-io-wants-to-put-hyperautomation-on-the-it-map/#ftag=RSSbaffb68](https://www.zdnet.com/article/why-tray-io-wants-to-put-hyperautomation-on-the-it-map/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-27 12:00:01+00:00
- - tags: None
 
 Company using low-code SaaS platform to remedy 'unintended consequences' companies face as they upgrade their IT systems.
 
@@ -188,7 +165,6 @@ Company using low-code SaaS platform to remedy 'unintended consequences' compani
  - [https://www.zdnet.com/article/apple-watch-ultra-teardown-a-much-bigger-battery-but-repairs-are-difficult/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-watch-ultra-teardown-a-much-bigger-battery-but-repairs-are-difficult/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-27 11:24:13+00:00
- - tags: None
 
 The rugged Apple Watch Ultra has a large battery, but repairs are probably best left to Apple.
 
@@ -196,7 +172,6 @@ The rugged Apple Watch Ultra has a large battery, but repairs are probably best 
  - [https://www.zdnet.com/article/the-metaverse-has-one-big-challenge-it-needs-to-overcome-says-autodesk-ceo-andrew-anagnost/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-metaverse-has-one-big-challenge-it-needs-to-overcome-says-autodesk-ceo-andrew-anagnost/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-27 11:00:05+00:00
- - tags: None
 
 Autodesk is partnering with Epic Games and taking other steps to prepare its design software for the metaverse.
 
@@ -204,7 +179,6 @@ Autodesk is partnering with Epic Games and taking other steps to prepare its des
  - [https://www.zdnet.com/article/garmin-launches-inreach-messenger-for-device-or-app-based-satellite-communication/#ftag=RSSbaffb68](https://www.zdnet.com/article/garmin-launches-inreach-messenger-for-device-or-app-based-satellite-communication/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-27 11:00:01+00:00
- - tags: None
 
 Garmin isn't a stranger to satellite communication, and its new InReach Messenger is its most affordable InReach device yet.
 
@@ -212,7 +186,6 @@ Garmin isn't a stranger to satellite communication, and its new InReach Messenge
  - [https://www.zdnet.com/article/nasas-dart-hits-dimorphos-in-successful-first-asteroid-deflection-test/#ftag=RSSbaffb68](https://www.zdnet.com/article/nasas-dart-hits-dimorphos-in-successful-first-asteroid-deflection-test/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-27 10:32:00+00:00
- - tags: None
 
 Earthlings can sleep easier now that NASA's DART probe can deflect an asteroid with kinetic impact.
 
@@ -220,7 +193,6 @@ Earthlings can sleep easier now that NASA's DART probe can deflect an asteroid w
  - [https://www.zdnet.com/article/i-tested-out-an-ai-art-generator-and-heres-what-i-learned/#ftag=RSSbaffb68](https://www.zdnet.com/article/i-tested-out-an-ai-art-generator-and-heres-what-i-learned/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-27 09:48:25+00:00
- - tags: None
 
 I tested Midjourney, the AI art generator that churns out prizewinning images.
 
@@ -228,7 +200,6 @@ I tested Midjourney, the AI art generator that churns out prizewinning images.
  - [https://www.zdnet.com/home-and-office/hp-flash-sale-save-550-on-omen-40l-desktop-pc/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/hp-flash-sale-save-550-on-omen-40l-desktop-pc/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-27 09:30:59+00:00
- - tags: None
 
 The sale will end in less than 24 hours.
 
@@ -236,7 +207,6 @@ The sale will end in less than 24 hours.
  - [https://www.zdnet.com/article/hp-flash-sale-save-550-on-omen-40l-desktop-pc/#ftag=RSSbaffb68](https://www.zdnet.com/article/hp-flash-sale-save-550-on-omen-40l-desktop-pc/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-27 09:30:00+00:00
- - tags: None
 
 The flash sale will end in less than 24 hours.
 
@@ -244,7 +214,6 @@ The flash sale will end in less than 24 hours.
  - [https://www.zdnet.com/article/hackers-are-testing-a-destructive-new-way-to-make-ransomware-attacks-more-effective/#ftag=RSSbaffb68](https://www.zdnet.com/article/hackers-are-testing-a-destructive-new-way-to-make-ransomware-attacks-more-effective/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-27 09:06:38+00:00
- - tags: None
 
 Cyber criminals are testing a new method of cyber extortion. It could be very worrying.
 
@@ -252,7 +221,6 @@ Cyber criminals are testing a new method of cyber extortion. It could be very wo
  - [https://www.zdnet.com/article/huaweis-mate-50-pro-with-variable-aperture-camera-gets-an-international-launch/#ftag=RSSbaffb68](https://www.zdnet.com/article/huaweis-mate-50-pro-with-variable-aperture-camera-gets-an-international-launch/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-27 08:53:00+00:00
- - tags: None
 
 Innovative hardware, but expensive considering the absence of Google Mobile Services and 5G support.
 
@@ -260,6 +228,5 @@ Innovative hardware, but expensive considering the absence of Google Mobile Serv
  - [https://www.zdnet.com/home-and-office/irobot-drops-its-first-ever-combo-mop-and-vacuum-robot-the-roomba-combo-j7/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/irobot-drops-its-first-ever-combo-mop-and-vacuum-robot-the-roomba-combo-j7/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-27 04:01:02+00:00
- - tags: None
 
 iRobot's latest Roomba brings its mop and vacuum tech into one device at a cheaper price than purchasing both items separately.

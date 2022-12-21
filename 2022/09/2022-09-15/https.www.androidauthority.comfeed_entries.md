@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## All of the best cheap Roku deals in one place
  - [https://www.androidauthority.com/best-cheap-roku-deals-1115065/](https://www.androidauthority.com/best-cheap-roku-deals-1115065/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-15 19:30:36+00:00
- - tags: None
 
 Roku makes some of the best streaming devices you can buy. We've highlighted the best offers, plus some deals on Roku TVs.
 
@@ -12,7 +11,6 @@ Roku makes some of the best streaming devices you can buy. We've highlighted the
  - [https://www.androidauthority.com/rumor-snapdragon-8-gen-2-3209404/](https://www.androidauthority.com/rumor-snapdragon-8-gen-2-3209404/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-15 19:28:19+00:00
- - tags: None
 
 A rumor suggests there may be an ultra-high frequency variant of the Snapdragon 8 Gen 2.
 
@@ -20,7 +18,6 @@ A rumor suggests there may be an ultra-high frequency variant of the Snapdragon 
  - [https://www.androidauthority.com/download-twitter-videos-3157429/](https://www.androidauthority.com/download-twitter-videos-3157429/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-15 19:15:43+00:00
- - tags: None
 
 Use these workarounds to download Twitter videos to any device.
 
@@ -28,7 +25,6 @@ Use these workarounds to download Twitter videos to any device.
  - [https://www.androidauthority.com/get-more-views-on-tiktok-3163995/](https://www.androidauthority.com/get-more-views-on-tiktok-3163995/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-15 19:15:15+00:00
- - tags: None
 
 Take your TikToks to the next level with these tips and tricks.
 
@@ -36,7 +32,6 @@ Take your TikToks to the next level with these tips and tricks.
  - [https://www.androidauthority.com/how-to-chromecast-spotify-3093229/](https://www.androidauthority.com/how-to-chromecast-spotify-3093229/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-15 19:05:56+00:00
- - tags: None
 
 Want to listen to Spotify on your TV? There's a device for that.
 
@@ -44,7 +39,6 @@ Want to listen to Spotify on your TV? There's a device for that.
  - [https://www.androidauthority.com/connect-spotify-xbox-3093767/](https://www.androidauthority.com/connect-spotify-xbox-3093767/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-15 19:05:24+00:00
- - tags: None
 
 Here's how to link Spotify with your Xbox console to find your gaming groove.
 
@@ -52,7 +46,6 @@ Here's how to link Spotify with your Xbox console to find your gaming groove.
  - [https://www.androidauthority.com/best-wireless-keyboard-deals-1113192/](https://www.androidauthority.com/best-wireless-keyboard-deals-1113192/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-15 18:30:08+00:00
- - tags: None
 
 Whether for work or play, we've rounded up all the best wireless keyboard deals from across the web.
 
@@ -60,7 +53,6 @@ Whether for work or play, we've rounded up all the best wireless keyboard deals 
  - [https://www.androidauthority.com/samsung-galaxy-watch-4-updates-2746069/](https://www.androidauthority.com/samsung-galaxy-watch-4-updates-2746069/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-15 17:20:34+00:00
- - tags: None
 
 The latest update brings some minor stability improvements.
 
@@ -68,7 +60,6 @@ The latest update brings some minor stability improvements.
  - [https://www.androidauthority.com/apple-iphone-14-plus-3209308/](https://www.androidauthority.com/apple-iphone-14-plus-3209308/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-15 16:52:16+00:00
- - tags: None
 
 The lack of a delivery delay for the iPhone 14 Plus could suggest low demand.
 
@@ -76,7 +67,6 @@ The lack of a delivery delay for the iPhone 14 Plus could suggest low demand.
  - [https://www.androidauthority.com/apple-emergency-sos-satellite-3208647/](https://www.androidauthority.com/apple-emergency-sos-satellite-3208647/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-15 15:46:25+00:00
- - tags: None
 
 No cell service? Apple's satellite connectivity has you covered.
 
@@ -84,7 +74,6 @@ No cell service? Apple's satellite connectivity has you covered.
  - [https://www.androidauthority.com/fitbit-sense-keyboard-3209305/](https://www.androidauthority.com/fitbit-sense-keyboard-3209305/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-15 15:36:51+00:00
- - tags: None
 
 This third-party app brings a keyboard to the Fitbit smartwatches and works pretty well!
 
@@ -92,7 +81,6 @@ This third-party app brings a keyboard to the Fitbit smartwatches and works pret
  - [https://www.androidauthority.com/pixel-6-pro-month-love-hate-3208155/](https://www.androidauthority.com/pixel-6-pro-month-love-hate-3208155/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-15 15:18:53+00:00
- - tags: None
 
 There's so much understated delight in using a Pixel phone. Plus a lot of frustrations.
 
@@ -100,7 +88,6 @@ There's so much understated delight in using a Pixel phone. Plus a lot of frustr
  - [https://www.androidauthority.com/samsung-galaxy-a23-5g-review-3206232/](https://www.androidauthority.com/samsung-galaxy-a23-5g-review-3206232/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-15 14:00:40+00:00
- - tags: None
 
 It looks like the Galaxy A53 5G but is priced closer to the Galaxy A13 5G, so where does the Galaxy A23 5G actually land?
 
@@ -108,7 +95,6 @@ It looks like the Galaxy A53 5G but is priced closer to the Galaxy A13 5G, so wh
  - [https://www.androidauthority.com/best-google-pixel-deals-1106212/](https://www.androidauthority.com/best-google-pixel-deals-1106212/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-15 13:00:03+00:00
- - tags: None
 
 The most powerful Pixel is still at its best price ever, and there's also a $50 price drop on the Pixel 6a.
 
@@ -116,7 +102,6 @@ The most powerful Pixel is still at its best price ever, and there's also a $50 
  - [https://www.androidauthority.com/tablet-upgrade-poll-results-3209159/](https://www.androidauthority.com/tablet-upgrade-poll-results-3209159/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-15 10:53:01+00:00
- - tags: None
 
 Most people wait a long time before upgrading their tablets.
 
@@ -124,7 +109,6 @@ Most people wait a long time before upgrading their tablets.
  - [https://www.androidauthority.com/fix-tiktok-not-working-3157023/](https://www.androidauthority.com/fix-tiktok-not-working-3157023/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-15 10:00:36+00:00
- - tags: None
 
 Have trouble with TikTok? Here are some tips to get back on track.
 
@@ -132,7 +116,6 @@ Have trouble with TikTok? Here are some tips to get back on track.
  - [https://www.androidauthority.com/daily-authority-september-15-2022-3208612/](https://www.androidauthority.com/daily-authority-september-15-2022-3208612/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-15 09:06:41+00:00
- - tags: None
 
 Google's research cutbacks and 150 million-year-old vomit are two highlights today.
 
@@ -140,7 +123,6 @@ Google's research cutbacks and 150 million-year-old vomit are two highlights tod
  - [https://www.androidauthority.com/samsung-galaxy-watch-5-updates-3209062/](https://www.androidauthority.com/samsung-galaxy-watch-5-updates-3209062/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-15 06:20:28+00:00
- - tags: None
 
 The latest update is reserved for Verizon models of the Galaxy Watch 5 and Watch 5 Pro.
 
@@ -148,6 +130,5 @@ The latest update is reserved for Verizon models of the Galaxy Watch 5 and Watch
  - [https://www.androidauthority.com/google-chromecast-hd-price-3209057/](https://www.androidauthority.com/google-chromecast-hd-price-3209057/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-15 05:20:40+00:00
- - tags: None
 
 Not the budget Chromecast you were expecting?

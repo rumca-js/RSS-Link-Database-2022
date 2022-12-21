@@ -1,10 +1,9 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology
+# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
 
 ## In ‘Splatoon 3,’ gamers ‘memorialize’ Queen Elizabeth II with memes
  - [https://www.washingtonpost.com/video-games/2022/09/12/queen-elizabeth-splatoon-nintendo-wii/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/09/12/queen-elizabeth-splatoon-nintendo-wii/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-12 16:56:11+00:00
- - tags: None
 
 "Splatoon 3" was released hours after Queen Elizabeth II's death. Gamers wasted no time paying her tribute — in their own way.
 
@@ -12,7 +11,6 @@
  - [https://www.washingtonpost.com/technology/2022/09/12/mudge-twitter-ftc-consent-decrees/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/12/mudge-twitter-ftc-consent-decrees/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-12 16:40:47+00:00
- - tags: None
 
 The FTC currently has a staff of about 40 people monitoring compliance with its many hundreds of consent orders across the economy. Current and former officials say it's not enough.
 
@@ -20,7 +18,6 @@ The FTC currently has a staff of about 40 people monitoring compliance with its 
  - [https://www.washingtonpost.com/video-games/2022/09/12/splatoon-3-online-play-bill-trinen/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/09/12/splatoon-3-online-play-bill-trinen/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-12 15:20:43+00:00
- - tags: None
 
 Nintendo's Bill Trinen talks "Splatoon 3" online play: "[New] actions like squid roll, new abilities and new weapons … are going to change up your approach[.]”
 
@@ -28,7 +25,6 @@ Nintendo's Bill Trinen talks "Splatoon 3" online play: "[New] actions like squid
  - [https://www.washingtonpost.com/technology/2022/07/11/apple-ios-16-ipados-16-first-look-impressions-hands-on/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/07/11/apple-ios-16-ipados-16-first-look-impressions-hands-on/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-12 14:32:38+00:00
- - tags: None
 
 Apple users can now update to a new software, iOS 16. We round up all the key highlights and tell you the most interesting features you may want to try out.
 
@@ -36,7 +32,6 @@ Apple users can now update to a new software, iOS 16. We round up all the key hi
  - [https://www.washingtonpost.com/technology/2022/09/12/edit-imessages-iphone/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/12/edit-imessages-iphone/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-12 13:21:18+00:00
- - tags: None
 
 Here’s what you need to know about editing and un-sending iPhone messages with the new iOS 16
 
@@ -44,7 +39,6 @@ Here’s what you need to know about editing and un-sending iPhone messages with
  - [https://www.washingtonpost.com/technology/2022/09/12/blue-origin-rocket-launch-abort/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/12/blue-origin-rocket-launch-abort/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-12 11:32:17+00:00
- - tags: None
 
 No people were on board as the capsule’s emergency abort system kicked in to jettison it away from the booster.
 
@@ -52,7 +46,6 @@ No people were on board as the capsule’s emergency abort system kicked in to j
  - [https://www.washingtonpost.com/video-games/reviews/immortality-game-review/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/reviews/immortality-game-review/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-12 10:50:18+00:00
- - tags: None
 
 What is Sam Barlow's "Immortality" about? Best you draw your own conclusions.
 
@@ -60,6 +53,5 @@ What is Sam Barlow's "Immortality" about? Best you draw your own conclusions.
  - [https://www.washingtonpost.com/business/interactive/2022/elon-musks-tweets/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/business/interactive/2022/elon-musks-tweets/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-12 06:00:41+00:00
- - tags: None
 
 An examination of Elon Musk's 19,000 tweets shows his complicated relationship with Twitter and the billionaire's changing views of the company he's trying to buy.

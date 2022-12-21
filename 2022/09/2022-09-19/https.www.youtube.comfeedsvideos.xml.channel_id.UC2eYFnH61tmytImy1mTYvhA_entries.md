@@ -1,10 +1,9 @@
-# Source Luke Smith - YouTube, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA
+# Source Luke Smith - YouTube, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA, Source language: en-US
 
 ## Yep. Imagination is Demonic. (Unironically)
  - [https://www.youtube.com/watch?v=snhV1owGCSM](https://www.youtube.com/watch?v=snhV1owGCSM)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA
  - date published: 2022-09-19 15:46:07+00:00
- - tags: None
 
 The modern lifestyle, with boring and fake jobs and soycial media, people spend lots of idle time in idle fantasy. This is the source of many bad habits and evils, unironically.
 

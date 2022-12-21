@@ -1,10 +1,9 @@
-# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA
+# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, Source language: en-US
 
 ## The ULTIMATE OCULUS QUEST 2 SETUP
  - [https://www.youtube.com/watch?v=BdfArDFHpIY](https://www.youtube.com/watch?v=BdfArDFHpIY)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA
  - date published: 2022-09-11 18:00:11+00:00
- - tags: None
 
 Here is my ULTIMATE Oculus/ Meta Quest 2 Guide for 2022 and 2023.
 Lots of new VR headsets are coming out and now the most popular VR headset of all time is about to have some very real competition from companies like Pico and Sony. Here is how you can increase your comfort, field of view, and also increase your enjoyment while in VR to hopefully spend more time IN VR as well!

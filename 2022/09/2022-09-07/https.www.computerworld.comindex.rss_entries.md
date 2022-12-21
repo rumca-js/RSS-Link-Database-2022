@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## After Apple's iPhone 14 launch event, a few things to consider
  - [https://www.computerworld.com/article/3672932/after-apples-iphone-14-launch-event-a-few-things-to-consider.html#tk.rss_all](https://www.computerworld.com/article/3672932/after-apples-iphone-14-launch-event-a-few-things-to-consider.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-07 21:33:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3672851/us-commerce-dept-unveils-strategy-for-distributing-chips-act-funds.html#tk.rss_all](https://www.computerworld.com/article/3672851/us-commerce-dept-unveils-strategy-for-distributing-chips-act-funds.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-07 19:23:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -24,7 +22,6 @@
  - [https://www.computerworld.com/article/3672120/america-is-almost-ready-for-apple-reality-distortion.html#tk.rss_all](https://www.computerworld.com/article/3672120/america-is-almost-ready-for-apple-reality-distortion.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-07 13:51:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -34,7 +31,6 @@
  - [https://www.computerworld.com/article/3672121/slack-offers-new-docusign-integration-to-streamline-e-signature-process.html#tk.rss_all](https://www.computerworld.com/article/3672121/slack-offers-new-docusign-integration-to-streamline-e-signature-process.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-07 13:08:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -44,7 +40,6 @@
  - [https://www.computerworld.com/article/3671114/collaboration-tech-post-covid-future.html#tk.rss_all](https://www.computerworld.com/article/3671114/collaboration-tech-post-covid-future.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-07 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

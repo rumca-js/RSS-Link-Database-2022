@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## $35M fine for Morgan Stanley after unencrypted, unwiped hard drives are auctioned
  - [https://arstechnica.com/?p=1883001](https://arstechnica.com/?p=1883001)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-20 21:22:34+00:00
- - tags: None
 
 "Astonishing failures" over a 5-year span.
 
@@ -12,7 +11,6 @@
  - [https://arstechnica.com/?p=1883024](https://arstechnica.com/?p=1883024)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-20 21:06:14+00:00
- - tags: None
 
 Judge lowers $7B award but agrees Charter is liable.
 
@@ -20,7 +18,6 @@ Judge lowers $7B award but agrees Charter is liable.
  - [https://arstechnica.com/?p=1883002](https://arstechnica.com/?p=1883002)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-20 20:28:35+00:00
- - tags: None
 
 The DART spacecraft will smash into a small asteroid to alter its orbit.
 
@@ -28,7 +25,6 @@ The DART spacecraft will smash into a small asteroid to alter its orbit.
  - [https://arstechnica.com/?p=1882953](https://arstechnica.com/?p=1882953)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-20 19:51:28+00:00
- - tags: None
 
 Both companies agreed to share data for FTC's investigation.
 
@@ -36,7 +32,6 @@ Both companies agreed to share data for FTC's investigation.
  - [https://arstechnica.com/?p=1882919](https://arstechnica.com/?p=1882919)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-20 19:20:42+00:00
- - tags: None
 
 Full Duplex DOCSIS expected in 2023 but won't be available to everyone at first.
 
@@ -44,7 +39,6 @@ Full Duplex DOCSIS expected in 2023 but won't be available to everyone at first.
  - [https://arstechnica.com/?p=1882846](https://arstechnica.com/?p=1882846)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-20 18:39:27+00:00
- - tags: None
 
 Storage maxes out at 512GB, though.
 
@@ -52,7 +46,6 @@ Storage maxes out at 512GB, though.
  - [https://arstechnica.com/?p=1882884](https://arstechnica.com/?p=1882884)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-20 17:03:13+00:00
- - tags: None
 
 Forced online check in no longer required for Xbox One and "Smart Delivery" discs.
 
@@ -60,7 +53,6 @@ Forced online check in no longer required for Xbox One and "Smart Delivery" disc
  - [https://arstechnica.com/?p=1881802](https://arstechnica.com/?p=1881802)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-20 17:00:14+00:00
- - tags: None
 
 Microsoft attempts to clarify how it will roll out updates to users.
 
@@ -68,7 +60,6 @@ Microsoft attempts to clarify how it will roll out updates to users.
  - [https://arstechnica.com/?p=1881326](https://arstechnica.com/?p=1881326)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-20 17:00:11+00:00
- - tags: None
 
 New update has been available in preview form since May of 2022.
 
@@ -76,7 +67,6 @@ New update has been available in preview form since May of 2022.
  - [https://arstechnica.com/?p=1882696](https://arstechnica.com/?p=1882696)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-20 16:22:56+00:00
- - tags: None
 
 Nvidia's H100 "Hopper" GPU is in full production, eight major vendors shipping products soon.
 
@@ -84,7 +74,6 @@ Nvidia's H100 "Hopper" GPU is in full production, eight major vendors shipping p
  - [https://arstechnica.com/?p=1882817](https://arstechnica.com/?p=1882817)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-20 16:05:39+00:00
- - tags: None
 
 Meta reviewed the accounts and confirmed that there are no restrictions.
 
@@ -92,7 +81,6 @@ Meta reviewed the accounts and confirmed that there are no restrictions.
  - [https://arstechnica.com/?p=1871473](https://arstechnica.com/?p=1871473)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-20 16:00:26+00:00
- - tags: None
 
 Cosmic strings' greatest power? Their ability to confound physicists.
 
@@ -100,7 +88,6 @@ Cosmic strings' greatest power? Their ability to confound physicists.
  - [https://arstechnica.com/?p=1882815](https://arstechnica.com/?p=1882815)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-20 15:43:30+00:00
- - tags: None
 
 4090 launches October 12; 4080 to follow in "November."
 
@@ -108,7 +95,6 @@ Cosmic strings' greatest power? Their ability to confound physicists.
  - [https://arstechnica.com/?p=1882806](https://arstechnica.com/?p=1882806)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-20 14:52:32+00:00
- - tags: None
 
 With deepfake audio, that familiar voice on the other end of the line might not even be human.
 
@@ -116,7 +102,6 @@ With deepfake audio, that familiar voice on the other end of the line might not 
  - [https://arstechnica.com/?p=1882783](https://arstechnica.com/?p=1882783)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-20 13:58:17+00:00
- - tags: None
 
 By 2035, batteries in California BEVs could power every home in the state for 3 days.
 
@@ -124,6 +109,5 @@ By 2035, batteries in California BEVs could power every home in the state for 3 
  - [https://arstechnica.com/?p=1882419](https://arstechnica.com/?p=1882419)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-20 13:00:10+00:00
- - tags: None
 
 It won't be an impressive performer, but it could still be a budget contender.

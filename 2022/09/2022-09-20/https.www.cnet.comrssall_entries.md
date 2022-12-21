@@ -1,10 +1,9 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/
+# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
 
 ## The Absolute Best Fantasy TV Shows on HBO Max     - CNET
  - [https://www.cnet.com/culture/entertainment/the-absolute-best-fantasy-tv-shows-on-hbo-max/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-absolute-best-fantasy-tv-shows-on-hbo-max/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 23:42:09+00:00
- - tags: None
 
 HBO Max has a ton to offer in the fantasy realm outside House of the Dragon.
 
@@ -12,7 +11,6 @@ HBO Max has a ton to offer in the fantasy realm outside House of the Dragon.
  - [https://www.cnet.com/roadshow/news/2023-land-rover-range-rover-sport-first-drive-review/#ftag=CADf328eec](https://www.cnet.com/roadshow/news/2023-land-rover-range-rover-sport-first-drive-review/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 23:01:02+00:00
- - tags: None
 
 The latest generation of Land Rover's luxurious Range Rover Sport SUV hits the road (and the trail) this year with new mild-hybrid and plug-in powertrain options.
 
@@ -20,7 +18,6 @@ The latest generation of Land Rover's luxurious Range Rover Sport SUV hits the r
  - [https://www.cnet.com/culture/entertainment/disneyland-splash-mountain-princess-and-the-frog-retheme-everything-unveiled-so-far/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/disneyland-splash-mountain-princess-and-the-frog-retheme-everything-unveiled-so-far/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 23:01:00+00:00
- - tags: None
 
 Tiana's Bayou Adventure is set in 1927.
 
@@ -28,7 +25,6 @@ Tiana's Bayou Adventure is set in 1927.
  - [https://www.cnet.com/culture/whats-next-for-serial-podcast-subject-adnan-syed-now-that-hes-out-of-prison/#ftag=CADf328eec](https://www.cnet.com/culture/whats-next-for-serial-podcast-subject-adnan-syed-now-that-hes-out-of-prison/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 22:46:00+00:00
- - tags: None
 
 The 1999 murder of Baltimore teenager Hae Min Lee is back in the news in a big way. Your questions, answered.
 
@@ -36,7 +32,6 @@ The 1999 murder of Baltimore teenager Hae Min Lee is back in the news in a big w
  - [https://www.cnet.com/science/space/nasa-investigates-james-webb-space-telescope-instrument-problem/#ftag=CADf328eec](https://www.cnet.com/science/space/nasa-investigates-james-webb-space-telescope-instrument-problem/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 22:34:00+00:00
- - tags: None
 
 One instrument has a hiccup, but the rest of the telescope is working properly.
 
@@ -44,7 +39,6 @@ One instrument has a hiccup, but the rest of the telescope is working properly.
  - [https://www.cnet.com/culture/entertainment/milly-alcocks-last-house-of-the-dragon-episode-as-rhaenyra/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/milly-alcocks-last-house-of-the-dragon-episode-as-rhaenyra/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 22:29:00+00:00
- - tags: None
 
 Milly Alcock has been one of the best parts of House of the Dragon. Here's when her last episode as Rhaenyra Targaryen is.
 
@@ -52,7 +46,6 @@ Milly Alcock has been one of the best parts of House of the Dragon. Here's when 
  - [https://www.cnet.com/culture/entertainment/andor-review-star-wars-grows-up-in-disney-plus-morally-gray-spy-drama/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/andor-review-star-wars-grows-up-in-disney-plus-morally-gray-spy-drama/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 22:21:00+00:00
- - tags: None
 
 Diego Luna draws you into a slow-burning human drama that just happens to be set in a galaxy far, far away.
 
@@ -60,7 +53,6 @@ Diego Luna draws you into a slow-burning human drama that just happens to be set
  - [https://www.cnet.com/tech/amazons-roomba-acquisition-under-ftc-scrutiny/#ftag=CADf328eec](https://www.cnet.com/tech/amazons-roomba-acquisition-under-ftc-scrutiny/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 22:18:00+00:00
- - tags: None
 
 The online retailing giant wants to acquire iRobot, which makes the popular robot vacuum cleaners, for $1.7 billion.
 
@@ -68,7 +60,6 @@ The online retailing giant wants to acquire iRobot, which makes the popular robo
  - [https://www.cnet.com/personal-finance/taxes/student-loans-heres-who-may-pay-taxes-on-forgiven-student-debt/#ftag=CADf328eec](https://www.cnet.com/personal-finance/taxes/student-loans-heres-who-may-pay-taxes-on-forgiven-student-debt/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 22:15:07+00:00
- - tags: None
 
 Where you live will impact whether you pay taxes on canceled student loans.
 
@@ -76,7 +67,6 @@ Where you live will impact whether you pay taxes on canceled student loans.
  - [https://www.cnet.com/how-to/this-small-home-upgrade-could-save-you-big-money-on-heating/#ftag=CADf328eec](https://www.cnet.com/how-to/this-small-home-upgrade-could-save-you-big-money-on-heating/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 22:15:03+00:00
- - tags: None
 
 Keep your house nice and warm this fall without the high energy bill. Here's how.
 
@@ -84,7 +74,6 @@ Keep your house nice and warm this fall without the high energy bill. Here's how
  - [https://www.cnet.com/culture/entertainment/details-from-house-of-the-dragon-episode-5-you-may-have-missed/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/details-from-house-of-the-dragon-episode-5-you-may-have-missed/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 22:14:00+00:00
- - tags: None
 
 Viewers of HBO's Game of Thrones prequel were treated to a wedding feast and a wedding brawl on Sunday's episode. Here's what you may have missed.
 
@@ -92,7 +81,6 @@ Viewers of HBO's Game of Thrones prequel were treated to a wedding feast and a w
  - [https://www.cnet.com/tech/services-and-software/best-sports-streaming-service/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/best-sports-streaming-service/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 21:40:25+00:00
- - tags: None
 
 Hulu Plus Live TV, Fubo TV, ESPN Plus and other streaming services attempt to appeal to sports fans, but only a few truly stand out.
 
@@ -100,7 +88,6 @@ Hulu Plus Live TV, Fubo TV, ESPN Plus and other streaming services attempt to ap
  - [https://www.cnet.com/personal-finance/banking/federal-reserve-expected-to-announce-fifth-rate-hike-tomorrow-heres-what-it-means-for-you/#ftag=CADf328eec](https://www.cnet.com/personal-finance/banking/federal-reserve-expected-to-announce-fifth-rate-hike-tomorrow-heres-what-it-means-for-you/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 21:31:00+00:00
- - tags: None
 
 Experts anticipate another 75 basis point increase Wednesday.
 
@@ -108,7 +95,6 @@ Experts anticipate another 75 basis point increase Wednesday.
  - [https://www.cnet.com/science/space/space-force-has-an-official-theme-song-and-its-an-earworm/#ftag=CADf328eec](https://www.cnet.com/science/space/space-force-has-an-official-theme-song-and-its-an-earworm/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 21:16:13+00:00
- - tags: None
 
 Space Force declares itself to be "the mighty watchful eye" with its toe-tapping new tune.
 
@@ -116,7 +102,6 @@ Space Force declares itself to be "the mighty watchful eye" with its toe-tapping
  - [https://www.cnet.com/personal-finance/banking/inflation-still-stubbornly-high-heres-what-rising-prices-mean-how-we-got-here-and-what-comes-next/#ftag=CADf328eec](https://www.cnet.com/personal-finance/banking/inflation-still-stubbornly-high-heres-what-rising-prices-mean-how-we-got-here-and-what-comes-next/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 21:14:00+00:00
- - tags: None
 
 Food and shelter prices continue to climb, despite drops in gas prices.
 
@@ -124,7 +109,6 @@ Food and shelter prices continue to climb, despite drops in gas prices.
  - [https://www.cnet.com/culture/entertainment/first-house-of-the-dragon-scene-with-emma-darcy-as-older-rhaenyra-shows-her-and-new-baby/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/first-house-of-the-dragon-scene-with-emma-darcy-as-older-rhaenyra-shows-her-and-new-baby/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 21:04:00+00:00
- - tags: None
 
 Read the room, Laenor Velaryon. Wifey's not feeling well, and you aren't helping.
 
@@ -132,7 +116,6 @@ Read the room, Laenor Velaryon. Wifey's not feeling well, and you aren't helping
  - [https://www.cnet.com/tech/gaming/portal-remastered-by-nvidia-will-be-available-in-november/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/portal-remastered-by-nvidia-will-be-available-in-november/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 21:02:00+00:00
- - tags: None
 
 Nvidia has flexed its ray tracing muscles to give Portal a refreshing new look.
 
@@ -140,7 +123,6 @@ Nvidia has flexed its ray tracing muscles to give Portal a refreshing new look.
  - [https://www.cnet.com/tech/services-and-software/4-reasons-you-shouldnt-update-your-iphone-to-ios-16-yet/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/4-reasons-you-shouldnt-update-your-iphone-to-ios-16-yet/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 21:00:02+00:00
- - tags: None
 
 You might want to hold off on downloading the latest iPhone OS.
 
@@ -148,7 +130,6 @@ You might want to hold off on downloading the latest iPhone OS.
  - [https://www.cnet.com/science/space/hear-the-sound-of-space-rocks-crashing-into-mars-as-recorded-by-nasa/#ftag=CADf328eec](https://www.cnet.com/science/space/hear-the-sound-of-space-rocks-crashing-into-mars-as-recorded-by-nasa/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 20:57:00+00:00
- - tags: None
 
 NASA's InSight lander is the first to capture the seismic and acoustic waves from an impact on the red planet. Talk about good vibrations.
 
@@ -156,7 +137,6 @@ NASA's InSight lander is the first to capture the seismic and acoustic waves fro
  - [https://www.cnet.com/news/politics/google-begins-testing-political-campaign-emails-skipping-gmail-spam-filters-report-says/#ftag=CADf328eec](https://www.cnet.com/news/politics/google-begins-testing-political-campaign-emails-skipping-gmail-spam-filters-report-says/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 20:54:10+00:00
- - tags: None
 
 There will be a bigger "unsubscribe" button for impacted users, the report says.
 
@@ -164,7 +144,6 @@ There will be a bigger "unsubscribe" button for impacted users, the report says.
  - [https://www.cnet.com/personal-finance/mortgages/how-to-build-home-equity/#ftag=CADf328eec](https://www.cnet.com/personal-finance/mortgages/how-to-build-home-equity/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 20:54:00+00:00
- - tags: None
 
 The more equity you have in your home, the more money you can borrow against it. Here are five ways to build it.
 
@@ -172,7 +151,6 @@ The more equity you have in your home, the more money you can borrow against it.
  - [https://www.cnet.com/tech/home-entertainment/best-smart-tv-for-2022/#ftag=CADf328eec](https://www.cnet.com/tech/home-entertainment/best-smart-tv-for-2022/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 20:48:45+00:00
- - tags: None
 
 Smart TVs have built-in platforms from Roku, Google, Amazon and others, but that shouldn't be the deciding factor when looking for a new TV.
 
@@ -180,7 +158,6 @@ Smart TVs have built-in platforms from Roku, Google, Amazon and others, but that
  - [https://www.cnet.com/tech/services-and-software/windows-11-2022-update-every-new-feature-you-should-care-about/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/windows-11-2022-update-every-new-feature-you-should-care-about/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 20:17:00+00:00
- - tags: None
 
 The Windows 11 2022 update is here. We'll break down everything new.
 
@@ -188,7 +165,6 @@ The Windows 11 2022 update is here. We'll break down everything new.
  - [https://www.cnet.com/tech/gaming/razer-unveils-leviathan-v2-x-soundbar/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/razer-unveils-leviathan-v2-x-soundbar/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 20:14:00+00:00
- - tags: None
 
 The gaming company has launched a cheaper, subwoofer-less version of the Leviathan V2.
 
@@ -196,7 +172,6 @@ The gaming company has launched a cheaper, subwoofer-less version of the Leviath
  - [https://www.cnet.com/culture/entertainment/hbo-max-10-horror-movies-to-stream-this-spooky-season/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/hbo-max-10-horror-movies-to-stream-this-spooky-season/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 20:07:00+00:00
- - tags: None
 
 Get ready for October with one of these scary flicks.
 
@@ -204,7 +179,6 @@ Get ready for October with one of these scary flicks.
  - [https://www.cnet.com/tech/services-and-software/ios-16-1-beta-2-available-now-to-developers-heres-whats-new/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/ios-16-1-beta-2-available-now-to-developers-heres-whats-new/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 20:05:00+00:00
- - tags: None
 
 Apple releases the latest version of iOS 16.1 to developers. Here are some of the updates they'll see.
 
@@ -212,7 +186,6 @@ Apple releases the latest version of iOS 16.1 to developers. Here are some of th
  - [https://www.cnet.com/personal-finance/mortgages/how-the-federal-reserve-affects-mortgage-rates/#ftag=CADf328eec](https://www.cnet.com/personal-finance/mortgages/how-the-federal-reserve-affects-mortgage-rates/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 19:48:40+00:00
- - tags: None
 
 When the Fed hikes rates, borrowing gets more expensive – but there's a silver lining.
 
@@ -220,7 +193,6 @@ When the Fed hikes rates, borrowing gets more expensive – but there's a silver
  - [https://www.cnet.com/tech/services-and-software/windows-11-2022-update-is-here-everything-new-microsoft-gives-you/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/windows-11-2022-update-is-here-everything-new-microsoft-gives-you/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 19:30:09+00:00
- - tags: None
 
 We'll break down everything you'll get in the first Windows 11 2022 update.
 
@@ -228,7 +200,6 @@ We'll break down everything you'll get in the first Windows 11 2022 update.
  - [https://www.cnet.com/science/space/saturn-moon-enceladus-has-almost-all-ingredients-for-life-in-its-icy-ocean/#ftag=CADf328eec](https://www.cnet.com/science/space/saturn-moon-enceladus-has-almost-all-ingredients-for-life-in-its-icy-ocean/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 19:29:13+00:00
- - tags: None
 
 New research says the water world may harbor enough phosphorus to create DNA... and teeth.
 
@@ -236,7 +207,6 @@ New research says the water world may harbor enough phosphorus to create DNA... 
  - [https://www.cnet.com/tech/gaming/new-nvidia-gpus-announced-the-rtx-4090-and-4080/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/new-nvidia-gpus-announced-the-rtx-4090-and-4080/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 19:24:00+00:00
- - tags: None
 
 Nvidia's next-gen gaming GPU line features the new Ada Lovelace architecture.
 
@@ -244,7 +214,6 @@ Nvidia's next-gen gaming GPU line features the new Ada Lovelace architecture.
  - [https://www.cnet.com/culture/national-ice-cream-cone-day-2022-baskin-robbins-blue-bunny-offer-free-scoops/#ftag=CADf328eec](https://www.cnet.com/culture/national-ice-cream-cone-day-2022-baskin-robbins-blue-bunny-offer-free-scoops/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 19:15:02+00:00
- - tags: None
 
 Just because it's fall doesn't mean you can't enjoy a free ice cream cone.
 
@@ -252,7 +221,6 @@ Just because it's fall doesn't mean you can't enjoy a free ice cream cone.
  - [https://www.cnet.com/culture/internet/stop-cooking-chicken-in-nyquil-fda-begs-in-response-to-social-media-trend/#ftag=CADf328eec](https://www.cnet.com/culture/internet/stop-cooking-chicken-in-nyquil-fda-begs-in-response-to-social-media-trend/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 19:15:00+00:00
- - tags: None
 
 Hard to believe this has to be said out loud, but...
 
@@ -260,7 +228,6 @@ Hard to believe this has to be said out loud, but...
  - [https://www.cnet.com/science/space/hear-what-it-sounds-like-when-space-rocks-crash-into-mars/#ftag=CADf328eec](https://www.cnet.com/science/space/hear-what-it-sounds-like-when-space-rocks-crash-into-mars/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 19:06:00+00:00
- - tags: None
 
 NASA's InSight lander is the first to capture the seismic and acoustic waves from an impact on the red planet. Talk about good vibrations.
 
@@ -268,7 +235,6 @@ NASA's InSight lander is the first to capture the seismic and acoustic waves fro
  - [https://www.cnet.com/tech/services-and-software/windows-11-lets-you-download-more-android-apps-heres-how/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/windows-11-lets-you-download-more-android-apps-heres-how/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 19:03:07+00:00
- - tags: None
 
 One of the operating system's most anticipated features has an even larger catalog than before.
 
@@ -276,7 +242,6 @@ One of the operating system's most anticipated features has an even larger catal
  - [https://www.cnet.com/tech/amazon-shopping-secret-if-you-want-to-save-money-start-here/#ftag=CADf328eec](https://www.cnet.com/tech/amazon-shopping-secret-if-you-want-to-save-money-start-here/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 19:00:08+00:00
- - tags: None
 
 You're just a few clicks away from saving money on thousands of items Amazon sells. This is how you do it.
 
@@ -284,7 +249,6 @@ You're just a few clicks away from saving money on thousands of items Amazon sel
  - [https://www.cnet.com/culture/entertainment/do-revenge-review-netflix-just-watch-mean-girls-again-instead/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/do-revenge-review-netflix-just-watch-mean-girls-again-instead/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 18:56:00+00:00
- - tags: None
 
 Review: Or just watch Netflix's new teen comedy for the costumes.
 
@@ -292,7 +256,6 @@ Review: Or just watch Netflix's new teen comedy for the costumes.
  - [https://www.cnet.com/personal-finance/credit-cards/t-mobile-could-be-launching-a-credit-card/#ftag=CADf328eec](https://www.cnet.com/personal-finance/credit-cards/t-mobile-could-be-launching-a-credit-card/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 18:50:11+00:00
- - tags: None
 
 Goldman Sachs is reportedly teaming up with the carrier to make a T-Mobile credit card the newest addition to your wallet.
 
@@ -300,7 +263,6 @@ Goldman Sachs is reportedly teaming up with the carrier to make a T-Mobile credi
  - [https://www.cnet.com/news/social-media/twitters-legal-battle-against-musk-over-44b-deal-heats-up-what-you-need-to-know/#ftag=CADf328eec](https://www.cnet.com/news/social-media/twitters-legal-battle-against-musk-over-44b-deal-heats-up-what-you-need-to-know/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 18:44:00+00:00
- - tags: None
 
 Billionaire Elon Musk is still trying to back out of buying Twitter for $44 billion.
 
@@ -308,7 +270,6 @@ Billionaire Elon Musk is still trying to back out of buying Twitter for $44 bill
  - [https://www.cnet.com/culture/entertainment/trailer-for-sonic-prime-series-on-netflix-teases-fast-paced-fun/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/trailer-for-sonic-prime-series-on-netflix-teases-fast-paced-fun/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 18:38:00+00:00
- - tags: None
 
 Sonic the Hedgehog takes on the notorious Dr. Eggman in a new trailer for the family-friendly show.
 
@@ -316,7 +277,6 @@ Sonic the Hedgehog takes on the notorious Dr. Eggman in a new trailer for the fa
  - [https://www.cnet.com/tech/services-and-software/microsofts-windows-11-new-update-available-now-best-features-you-should-try/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/microsofts-windows-11-new-update-available-now-best-features-you-should-try/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 18:22:59+00:00
- - tags: None
 
 We'll break down everything you'll get in the first Windows 11 update of 2022.
 
@@ -324,7 +284,6 @@ We'll break down everything you'll get in the first Windows 11 update of 2022.
  - [https://www.cnet.com/tech/mobile/apple-watch-series-8-review-degrees-of-difference/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/apple-watch-series-8-review-degrees-of-difference/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 17:58:00+00:00
- - tags: None
 
 Next to the Apple Watch Ultra, the Series 8 may be too subtle an upgrade for many. But its health features feel more evolved than ever.
 
@@ -332,7 +291,6 @@ Next to the Apple Watch Ultra, the Series 8 may be too subtle an upgrade for man
  - [https://www.cnet.com/culture/entertainment/disneyland-launching-magicband-in-the-fall/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/disneyland-launching-magicband-in-the-fall/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 17:57:00+00:00
- - tags: None
 
 The wearable can be used for park tickets and Lightning Lane entry, but not yet for shopping or hotel room keys.
 
@@ -340,7 +298,6 @@ The wearable can be used for park tickets and Lightning Lane entry, but not yet 
  - [https://www.cnet.com/culture/new-hinge-video-prompts-could-give-you-a-better-feel-for-your-matches/#ftag=CADf328eec](https://www.cnet.com/culture/new-hinge-video-prompts-could-give-you-a-better-feel-for-your-matches/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 17:54:00+00:00
- - tags: None
 
 Now your date can see you answering questions about your life.
 
@@ -348,7 +305,6 @@ Now your date can see you answering questions about your life.
  - [https://www.cnet.com/culture/entertainment/you-can-soon-add-a-baby-yoda-tamagotchi-to-your-collection/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/you-can-soon-add-a-baby-yoda-tamagotchi-to-your-collection/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 17:42:00+00:00
- - tags: None
 
 Feed your Grogu squid chowder and macarons. Preorders on Amazon are set to begin "shortly."
 
@@ -356,7 +312,6 @@ Feed your Grogu squid chowder and macarons. Preorders on Amazon are set to begin
  - [https://www.cnet.com/health/mental/naturally-produce-more-dopamine-serotonin-endorphin-and-oxytocin-for-a-happier-brain/#ftag=CADf328eec](https://www.cnet.com/health/mental/naturally-produce-more-dopamine-serotonin-endorphin-and-oxytocin-for-a-happier-brain/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 17:26:11+00:00
- - tags: None
 
 Yes, you can actually hack your brain to produce more 'happy chemicals.' Here's how.
 
@@ -364,7 +319,6 @@ Yes, you can actually hack your brain to produce more 'happy chemicals.' Here's 
  - [https://www.cnet.com/culture/adnan-syed-out-of-prison-whats-next-for-the-serial-podcast-subject/#ftag=CADf328eec](https://www.cnet.com/culture/adnan-syed-out-of-prison-whats-next-for-the-serial-podcast-subject/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 17:26:00+00:00
- - tags: None
 
 The 1999 murder of Baltimore teenager Hae Min Lee is back in the news in a big way. Where is Syed now and is he free for good?
 
@@ -372,7 +326,6 @@ The 1999 murder of Baltimore teenager Hae Min Lee is back in the news in a big w
  - [https://www.cnet.com/health/where-you-can-buy-clear-face-masks-in-2022/#ftag=CADf328eec](https://www.cnet.com/health/where-you-can-buy-clear-face-masks-in-2022/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 17:15:03+00:00
- - tags: None
 
 Transparent face masks help make it easier to read lips and allow your facial expressions to shine through.
 
@@ -380,7 +333,6 @@ Transparent face masks help make it easier to read lips and allow your facial ex
  - [https://www.cnet.com/health/parenting/stop-guessing-when-youre-ovulating-apple-watch-series-8-may-let-you-know/#ftag=CADf328eec](https://www.cnet.com/health/parenting/stop-guessing-when-youre-ovulating-apple-watch-series-8-may-let-you-know/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 17:00:11+00:00
- - tags: None
 
 The new Apple Watch offers more insights into the menstrual cycle.
 
@@ -388,7 +340,6 @@ The new Apple Watch offers more insights into the menstrual cycle.
  - [https://www.cnet.com/tech/services-and-software/windows-11-gets-its-first-big-update-all-the-new-features/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/windows-11-gets-its-first-big-update-all-the-new-features/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 17:00:08+00:00
- - tags: None
 
 Here's everything you'll get in the update, from better search to more productivity tools.
 
@@ -396,7 +347,6 @@ Here's everything you'll get in the update, from better search to more productiv
  - [https://www.cnet.com/health/sleep/best-full-mattress/#ftag=CADf328eec](https://www.cnet.com/health/sleep/best-full-mattress/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 17:00:03+00:00
- - tags: None
 
 These comfy full mattresses will help level up your sleep.
 
@@ -404,7 +354,6 @@ These comfy full mattresses will help level up your sleep.
  - [https://www.cnet.com/health/medical/dont-know-your-blood-type-theres-a-good-reason-to-find-out/#ftag=CADf328eec](https://www.cnet.com/health/medical/dont-know-your-blood-type-theres-a-good-reason-to-find-out/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 17:00:00+00:00
- - tags: None
 
 Blood type matters more than we give it credit for.
 
@@ -412,7 +361,6 @@ Blood type matters more than we give it credit for.
  - [https://www.cnet.com/tech/services-and-software/youtube-one-upping-tiktok-to-share-ad-money-with-shorts-creators/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/youtube-one-upping-tiktok-to-share-ad-money-with-shorts-creators/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 16:56:00+00:00
- - tags: None
 
 YouTube wants people posting popular clips on Shorts to make money off them too, a shot over the bow of TikTok.
 
@@ -420,7 +368,6 @@ YouTube wants people posting popular clips on Shorts to make money off them too,
  - [https://www.cnet.com/culture/entertainment/new-serial-podcast-episode-explains-adnan-syeds-release-from-prison/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/new-serial-podcast-episode-explains-adnan-syeds-release-from-prison/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 16:52:00+00:00
- - tags: None
 
 The latest episode of Serial is an addition to 2014's first season, updating fans on what's behind the stunning turn of events in Syed's case.
 
@@ -428,7 +375,6 @@ The latest episode of Serial is an addition to 2014's first season, updating fan
  - [https://www.cnet.com/tech/gaming/nvidia-launches-geforce-rtx-4090-4080-begin-shipping-oct-12-starting-at-899/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/nvidia-launches-geforce-rtx-4090-4080-begin-shipping-oct-12-starting-at-899/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 16:45:53+00:00
- - tags: None
 
 The company debuted the next generation of its flagship gaming GPU line featuring the new Ada Lovelace architecture.
 
@@ -436,7 +382,6 @@ The company debuted the next generation of its flagship gaming GPU line featurin
  - [https://www.cnet.com/tech/gaming/nvidia-geforce-rtx-4090-4080-to-ship-oct-12-starting-at-899/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/nvidia-geforce-rtx-4090-4080-to-ship-oct-12-starting-at-899/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 16:45:00+00:00
- - tags: None
 
 The company debuted the next generation of its flagship gaming GPU line featuring the new Ada Lovelace architecture.
 
@@ -444,7 +389,6 @@ The company debuted the next generation of its flagship gaming GPU line featurin
  - [https://www.cnet.com/science/biology/right-now-there-are-20-quadrillion-ants-on-earth/#ftag=CADf328eec](https://www.cnet.com/science/biology/right-now-there-are-20-quadrillion-ants-on-earth/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 16:42:49+00:00
- - tags: None
 
 Scientists are racing to quantify insect populations in case they disappear.
 
@@ -452,7 +396,6 @@ Scientists are racing to quantify insect populations in case they disappear.
  - [https://www.cnet.com/how-to/theres-a-sneaky-reason-your-wi-fi-may-suddenly-be-slower/#ftag=CADf328eec](https://www.cnet.com/how-to/theres-a-sneaky-reason-your-wi-fi-may-suddenly-be-slower/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 16:41:54+00:00
- - tags: None
 
 Slow Wi-Fi? Your internet service provider could be to blame. Here's what to know, and how to fix it.
 
@@ -460,7 +403,6 @@ Slow Wi-Fi? Your internet service provider could be to blame. Here's what to kno
  - [https://www.cnet.com/tech/services-and-software/after-you-install-ios-16-do-3-things-on-your-iphone-immediately/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/after-you-install-ios-16-do-3-things-on-your-iphone-immediately/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 16:35:02+00:00
- - tags: None
 
 iOS 16 has tons of features to explore, but set up your iPhone correctly first.
 
@@ -468,7 +410,6 @@ iOS 16 has tons of features to explore, but set up your iPhone correctly first.
  - [https://www.cnet.com/science/spacex-doubles-number-of-engines-fired-in-starship-rocket-booster-test/#ftag=CADf328eec](https://www.cnet.com/science/spacex-doubles-number-of-engines-fired-in-starship-rocket-booster-test/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 16:29:00+00:00
- - tags: None
 
 Elon Musk's Super Heavy booster lit seven engines for the first time.
 
@@ -476,7 +417,6 @@ Elon Musk's Super Heavy booster lit seven engines for the first time.
  - [https://www.cnet.com/culture/entertainment/that-confusing-house-of-the-dragon-episode-6-preview-broken-down/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/that-confusing-house-of-the-dragon-episode-6-preview-broken-down/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 16:22:00+00:00
- - tags: None
 
 New cast members, royal plotting and... wait, is that the king? Let's break it down.
 
@@ -484,7 +424,6 @@ New cast members, royal plotting and... wait, is that the king? Let's break it d
  - [https://www.cnet.com/culture/entertainment/house-of-the-dragon-deepfake-turns-emilia-clarke-into-rhaenyra-targaryen/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/house-of-the-dragon-deepfake-turns-emilia-clarke-into-rhaenyra-targaryen/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 16:18:00+00:00
- - tags: None
 
 If you miss Daenerys Targaryen, here's some solace.
 
@@ -492,7 +431,6 @@ If you miss Daenerys Targaryen, here's some solace.
  - [https://www.cnet.com/culture/entertainment/sonic-prime-family-show-on-netflix-teases-fast-paced-fun/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/sonic-prime-family-show-on-netflix-teases-fast-paced-fun/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 16:07:00+00:00
- - tags: None
 
 Sonic the hedgehog challenges the notorious Eggman in a trailer for the new Netflix series.
 
@@ -500,7 +438,6 @@ Sonic the hedgehog challenges the notorious Eggman in a trailer for the new Netf
  - [https://www.cnet.com/culture/entertainment/andor-review-star-wars-grows-up-in-morally-gray-spy-drama/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/andor-review-star-wars-grows-up-in-morally-gray-spy-drama/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 16:00:03+00:00
- - tags: None
 
 Diego Luna draws you into a slow-burning human drama that just happens to be set in a galaxy far, far away.
 
@@ -508,7 +445,6 @@ Diego Luna draws you into a slow-burning human drama that just happens to be set
  - [https://www.cnet.com/science/space/guests-on-commercial-space-station-will-stay-in-suites-designed-by-hilton/#ftag=CADf328eec](https://www.cnet.com/science/space/guests-on-commercial-space-station-will-stay-in-suites-designed-by-hilton/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 15:52:00+00:00
- - tags: None
 
 They're going to need to velcro the mints to the pillows on board the future Starlab.
 
@@ -516,7 +452,6 @@ They're going to need to velcro the mints to the pillows on board the future Sta
  - [https://www.cnet.com/news/politics/its-national-voter-registration-day-heres-how-to-register-to-vote/#ftag=CADf328eec](https://www.cnet.com/news/politics/its-national-voter-registration-day-heres-how-to-register-to-vote/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 15:45:02+00:00
- - tags: None
 
 Get registered to vote today so you don't miss any deadlines before Election Day.
 
@@ -524,7 +459,6 @@ Get registered to vote today so you don't miss any deadlines before Election Day
  - [https://www.cnet.com/health/fitness/pelotons-first-rowing-machine-will-cost-you-over-3k/#ftag=CADf328eec](https://www.cnet.com/health/fitness/pelotons-first-rowing-machine-will-cost-you-over-3k/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 15:42:24+00:00
- - tags: None
 
 The Peloton Row is available for preorder now in the United States -- at a hefty price tag.
 
@@ -532,7 +466,6 @@ The Peloton Row is available for preorder now in the United States -- at a hefty
  - [https://www.cnet.com/roadshow/news/nvidia-wants-to-be-the-brains-of-your-self-driving-car/#ftag=CADf328eec](https://www.cnet.com/roadshow/news/nvidia-wants-to-be-the-brains-of-your-self-driving-car/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 15:41:23+00:00
- - tags: None
 
 The AI chip is due to arrive in cars in 2025, Nvidia says at its GTC event to showcase its GPU technology.
 
@@ -540,7 +473,6 @@ The AI chip is due to arrive in cars in 2025, Nvidia says at its GTC event to sh
  - [https://www.cnet.com/tech/mobile/is-the-iphone-14-worth-the-upgrade-how-it-compares-to-older-iphones/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/is-the-iphone-14-worth-the-upgrade-how-it-compares-to-older-iphones/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 15:39:43+00:00
- - tags: None
 
 We outline what you're getting with the iPhone 14 compared to previous iPhone generations.
 
@@ -548,7 +480,6 @@ We outline what you're getting with the iPhone 14 compared to previous iPhone ge
  - [https://www.cnet.com/deals/save-100-on-this-unlocked-android-smartphone-with-5g/#ftag=CADf328eec](https://www.cnet.com/deals/save-100-on-this-unlocked-android-smartphone-with-5g/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 15:35:01+00:00
- - tags: None
 
 Pay just $650 for the OnePlus 10T with 256GB of storage and fast charging so powerful that 10 minutes can give you enough power to last all day.
 
@@ -556,7 +487,6 @@ Pay just $650 for the OnePlus 10T with 256GB of storage and fast charging so pow
  - [https://www.cnet.com/science/space/hear-the-sound-of-space-rocks-crashing-into-mars/#ftag=CADf328eec](https://www.cnet.com/science/space/hear-the-sound-of-space-rocks-crashing-into-mars/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 15:32:00+00:00
- - tags: None
 
 NASA's InSight lander is the first to capture the seismic and acoustic waves from an impact on the red planet.
 
@@ -564,7 +494,6 @@ NASA's InSight lander is the first to capture the seismic and acoustic waves fro
  - [https://www.cnet.com/personal-finance/banking/how-the-federal-reserve-affects-interest-rates-on-savings-accounts-and-cds/#ftag=CADf328eec](https://www.cnet.com/personal-finance/banking/how-the-federal-reserve-affects-interest-rates-on-savings-accounts-and-cds/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 15:25:00+00:00
- - tags: None
 
 Interest rate hikes present an opportunity for savers.
 
@@ -572,7 +501,6 @@ Interest rate hikes present an opportunity for savers.
  - [https://www.cnet.com/tech/gaming/iron-man-is-getting-a-video-game-from-eas-dead-space-remake-studio/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/iron-man-is-getting-a-video-game-from-eas-dead-space-remake-studio/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 15:18:20+00:00
- - tags: None
 
 The Marvel-inspired "single-player, third-person, action-adventure" will put you in the suits of Tony Stark's armored Avenger.
 
@@ -580,7 +508,6 @@ The Marvel-inspired "single-player, third-person, action-adventure" will put you
  - [https://www.cnet.com/tech/amazon-to-unveil-new-devices-services-at-event-on-sept-28/#ftag=CADf328eec](https://www.cnet.com/tech/amazon-to-unveil-new-devices-services-at-event-on-sept-28/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 15:08:00+00:00
- - tags: None
 
 The online retail giant teases news about it latest devices and services, but also could have surprises in store.
 
@@ -588,7 +515,6 @@ The online retail giant teases news about it latest devices and services, but al
  - [https://www.cnet.com/health/nutrition/best-foods-for-muscle-growth-that-arent-protein-shakes/#ftag=CADf328eec](https://www.cnet.com/health/nutrition/best-foods-for-muscle-growth-that-arent-protein-shakes/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 15:00:08+00:00
- - tags: None
 
 You don't have to take protein supplements to build muscle -- these whole foods will do the job all on their own.
 
@@ -596,7 +522,6 @@ You don't have to take protein supplements to build muscle -- these whole foods 
  - [https://www.cnet.com/personal-finance/the-3-best-ways-to-find-cheap-airline-tickets/#ftag=CADf328eec](https://www.cnet.com/personal-finance/the-3-best-ways-to-find-cheap-airline-tickets/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 14:15:02+00:00
- - tags: None
 
 Flights are more expensive now. Here are some ways to get a better deal.
 
@@ -604,7 +529,6 @@ Flights are more expensive now. Here are some ways to get a better deal.
  - [https://www.cnet.com/deals/save-45-on-our-favorite-smart-display/#ftag=CADf328eec](https://www.cnet.com/deals/save-45-on-our-favorite-smart-display/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 13:53:00+00:00
- - tags: None
 
 We named the second-gen Google Nest Hub the best smart display for 2022, and right now you can pick one up for just $55.
 
@@ -612,7 +536,6 @@ We named the second-gen Google Nest Hub the best smart display for 2022, and rig
  - [https://www.cnet.com/deals/jabra-elite-7-pro-earbuds-return-to-lowest-price-yet-with-70-discount/#ftag=CADf328eec](https://www.cnet.com/deals/jabra-elite-7-pro-earbuds-return-to-lowest-price-yet-with-70-discount/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 13:49:08+00:00
- - tags: None
 
 Jabra's top-of-the-line earbuds are back down to $130 -- a match for their lowest price to date.
 
@@ -620,7 +543,6 @@ Jabra's top-of-the-line earbuds are back down to $130 -- a match for their lowes
  - [https://www.cnet.com/deals/upgrade-to-apples-13-inch-m1-macbook-pro-and-save-450-today/#ftag=CADf328eec](https://www.cnet.com/deals/upgrade-to-apples-13-inch-m1-macbook-pro-and-save-450-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 13:46:00+00:00
- - tags: None
 
 This previous-gen MacBook Pro is being phased-out for the new M2 model, which means you can find remaining models a major discount right now.
 
@@ -628,7 +550,6 @@ This previous-gen MacBook Pro is being phased-out for the new M2 model, which me
  - [https://www.cnet.com/deals/get-a-portable-external-ssd-hard-drive-with-1tb-of-storage-for-110-save-90/#ftag=CADf328eec](https://www.cnet.com/deals/get-a-portable-external-ssd-hard-drive-with-1tb-of-storage-for-110-save-90/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 13:40:00+00:00
- - tags: None
 
 Back up your photos, videos, documents and projects and keep your computer clog-free by storing your most important files externally.
 
@@ -636,7 +557,6 @@ Back up your photos, videos, documents and projects and keep your computer clog-
  - [https://www.cnet.com/personal-finance/credit-cards/petal-2-cash-back-no-fees-visa-credit-card-review/#ftag=CADf328eec](https://www.cnet.com/personal-finance/credit-cards/petal-2-cash-back-no-fees-visa-credit-card-review/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 13:17:47+00:00
- - tags: None
 
 There's no security deposit, annual fee, or late fees -- just cash back.
 
@@ -644,7 +564,6 @@ There's no security deposit, annual fee, or late fees -- just cash back.
  - [https://www.cnet.com/deals/save-60-on-refurb-models-of-amazons-latest-echo-smart-speaker/#ftag=CADf328eec](https://www.cnet.com/deals/save-60-on-refurb-models-of-amazons-latest-echo-smart-speaker/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 13:01:00+00:00
- - tags: None
 
 If you can live with some minor dings and scrapes, this fourth-gen Echo is one of the best value smart speakers you'll find on the market right now.
 
@@ -652,7 +571,6 @@ If you can live with some minor dings and scrapes, this fourth-gen Echo is one o
  - [https://www.cnet.com/tech/computing/amd-reveals-chips-for-next-wave-of-cheap-and-light-laptops/#ftag=CADf328eec](https://www.cnet.com/tech/computing/amd-reveals-chips-for-next-wave-of-cheap-and-light-laptops/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 13:00:20+00:00
- - tags: None
 
 The company debuts its Ryzen 7020U series CPUs designed to bump up the performance of budget laptops.
 
@@ -660,7 +578,6 @@ The company debuts its Ryzen 7020U series CPUs designed to bump up the performan
  - [https://www.cnet.com/tech/computing/goal-zero-sherpa-100-power-banks-can-charge-a-laptop-with-a-100-watt-usb-c-port/#ftag=CADf328eec](https://www.cnet.com/tech/computing/goal-zero-sherpa-100-power-banks-can-charge-a-laptop-with-a-100-watt-usb-c-port/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 13:00:15+00:00
- - tags: None
 
 Charge all the stuff -- wired or wireless -- and keep working wherever you are.
 
@@ -668,7 +585,6 @@ Charge all the stuff -- wired or wireless -- and keep working wherever you are.
  - [https://www.cnet.com/tech/computing/corsairs-new-100-gaming-headset-adds-wireless-for-pc-and-playstation/#ftag=CADf328eec](https://www.cnet.com/tech/computing/corsairs-new-100-gaming-headset-adds-wireless-for-pc-and-playstation/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 13:00:02+00:00
- - tags: None
 
 The HS55 Wireless Core adds PC and PS4/PS5 wireless compatibility, and Bluetooth over the cheaper HS55 analog model.
 
@@ -676,7 +592,6 @@ The HS55 Wireless Core adds PC and PS4/PS5 wireless compatibility, and Bluetooth
  - [https://www.cnet.com/personal-finance/mortgages/here-are-mortgage-rates-for-sep-20-2022-rates-move-upward/#ftag=CADf328eec](https://www.cnet.com/personal-finance/mortgages/here-are-mortgage-rates-for-sep-20-2022-rates-move-upward/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 13:00:00+00:00
- - tags: None
 
 Today a few key mortgage rates climbed higher. If you're in the market for a mortgage, see how your payments might be affected by interest rate hikes.
 
@@ -684,7 +599,6 @@ Today a few key mortgage rates climbed higher. If you're in the market for a mor
  - [https://www.cnet.com/personal-finance/mortgages/here-are-todays-refinance-rates-sep-20-2022-rates-increase/#ftag=CADf328eec](https://www.cnet.com/personal-finance/mortgages/here-are-todays-refinance-rates-sep-20-2022-rates-increase/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 13:00:00+00:00
- - tags: None
 
 Several important refinance rates floated higher today. See how the Fed's interest rate hikes could affect refinancing your home this year.
 
@@ -692,7 +606,6 @@ Several important refinance rates floated higher today. See how the Fed's intere
  - [https://www.cnet.com/culture/entertainment/more-people-need-to-watch-the-best-documentary-series-on-netflix/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-the-best-documentary-series-on-netflix/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 13:00:00+00:00
- - tags: None
 
 Netflix is incredible for documentaries, but this one is our favorite.
 
@@ -700,7 +613,6 @@ Netflix is incredible for documentaries, but this one is our favorite.
  - [https://www.cnet.com/tech/services-and-software/spotify-launches-audiobooks-dont-forget-your-wallet/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/spotify-launches-audiobooks-dont-forget-your-wallet/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 13:00:00+00:00
- - tags: None
 
 Spotify was always an all-you-can-eat buffet. Now you'll need to fork up for each audiobook -- the biggest change to how you pay for Spotify in a decade.
 
@@ -708,7 +620,6 @@ Spotify was always an all-you-can-eat buffet. Now you'll need to fork up for eac
  - [https://www.cnet.com/deals/track-your-dog-while-youre-away-with-this-158-rotating-camera-save-53-today/#ftag=CADf328eec](https://www.cnet.com/deals/track-your-dog-while-youre-away-with-this-158-rotating-camera-save-53-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 12:51:50+00:00
- - tags: None
 
 Ever wonder what your dog is up to while you're at work? Now you can check in whenever you want with this nifty camera.
 
@@ -716,7 +627,6 @@ Ever wonder what your dog is up to while you're at work? Now you can check in wh
  - [https://www.cnet.com/personal-finance/social-security-benefits-could-increase-more-than-140-a-month-in-2023/#ftag=CADf328eec](https://www.cnet.com/personal-finance/social-security-benefits-could-increase-more-than-140-a-month-in-2023/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 12:30:00+00:00
- - tags: None
 
 Thanks to inflation, Social Security checks see their biggest bump in 40 years.
 
@@ -724,7 +634,6 @@ Thanks to inflation, Social Security checks see their biggest bump in 40 years.
  - [https://www.cnet.com/tech/mobile/heres-how-to-set-up-your-new-iphone-14/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/heres-how-to-set-up-your-new-iphone-14/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 12:05:02+00:00
- - tags: None
 
 All you really need is a Wi-Fi connection.
 
@@ -732,7 +641,6 @@ All you really need is a Wi-Fi connection.
  - [https://www.cnet.com/roadshow/news/2023-bmw-alpina-xb7-suv-debut/#ftag=CADf328eec](https://www.cnet.com/roadshow/news/2023-bmw-alpina-xb7-suv-debut/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 12:00:12+00:00
- - tags: None
 
 Priced from $145,995, the Alpina XB7 hits the road early next year.
 
@@ -740,7 +648,6 @@ Priced from $145,995, the Alpina XB7 hits the road early next year.
  - [https://www.cnet.com/tech/computing/meta-cambria-meta-quest-pro-what-to-expect-vr-headset-quest-3/#ftag=CADf328eec](https://www.cnet.com/tech/computing/meta-cambria-meta-quest-pro-what-to-expect-vr-headset-quest-3/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 12:00:08+00:00
- - tags: None
 
 Meta's next big VR device, expected in October, is more expensive and advanced, but it won't replace the Quest 2.
 
@@ -748,7 +655,6 @@ Meta's next big VR device, expected in October, is more expensive and advanced, 
  - [https://www.cnet.com/videos/why-apple-uses-esims-on-the-iphone-14/#ftag=CADf328eec](https://www.cnet.com/videos/why-apple-uses-esims-on-the-iphone-14/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 12:00:01+00:00
- - tags: None
 
 Apple's latest phone lineup replaces physical SIM cards with software-based virtual ones. Here's what that means for iPhone users.
 
@@ -756,7 +662,6 @@ Apple's latest phone lineup replaces physical SIM cards with software-based virt
  - [https://www.cnet.com/tech/mobile/inflation-hits-the-app-store-apple-to-raise-prices-outside-us-next-month/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/inflation-hits-the-app-store-apple-to-raise-prices-outside-us-next-month/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 11:58:00+00:00
- - tags: None
 
 This affects nine specific countries and all places that use the euro.
 
@@ -764,7 +669,6 @@ This affects nine specific countries and all places that use the euro.
  - [https://www.cnet.com/tech/mobile/how-to-turn-off-always-on-display-on-the-iphone-14-pro/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/how-to-turn-off-always-on-display-on-the-iphone-14-pro/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 11:30:02+00:00
- - tags: None
 
 It could be draining your battery life faster.
 
@@ -772,7 +676,6 @@ It could be draining your battery life faster.
  - [https://www.cnet.com/tech/mobile/iphone-14-cheat-sheet-your-essential-guide-to-the-latest-iphone/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/iphone-14-cheat-sheet-your-essential-guide-to-the-latest-iphone/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 11:00:11+00:00
- - tags: None
 
 Apple's iPhone 14 is out. CNET answers your questions about the latest iPhone line.
 
@@ -780,7 +683,6 @@ Apple's iPhone 14 is out. CNET answers your questions about the latest iPhone li
  - [https://www.cnet.com/tech/services-and-software/hbo-max-review-expensive-but-its-catalog-is-packed/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/hbo-max-review-expensive-but-its-catalog-is-packed/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 11:00:08+00:00
- - tags: None
 
 You get titles from HBO, Warner Bros., DC Comics and more all under one streaming roof. The service has also now earned a CNET Editors' Choice Award.
 
@@ -788,7 +690,6 @@ You get titles from HBO, Warner Bros., DC Comics and more all under one streamin
  - [https://www.cnet.com/news/best-beer-subscription-boxes/#ftag=CADf328eec](https://www.cnet.com/news/best-beer-subscription-boxes/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 11:00:03+00:00
- - tags: None
 
 Try new sours, stouts, pale ales and pilsners with these excellent beer clubs and beer subscription boxes.
 
@@ -796,7 +697,6 @@ Try new sours, stouts, pale ales and pilsners with these excellent beer clubs an
  - [https://www.cnet.com/personal-finance/insurance/auto/dont-drive-your-car-much-pay-per-mile-car-insurance-could-save-you-big-money/#ftag=CADf328eec](https://www.cnet.com/personal-finance/insurance/auto/dont-drive-your-car-much-pay-per-mile-car-insurance-could-save-you-big-money/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 10:25:02+00:00
- - tags: None
 
 Occasional drivers should check pay-per-mile programs to see if they can save money on car insurance.
 
@@ -804,7 +704,6 @@ Occasional drivers should check pay-per-mile programs to see if they can save mo
  - [https://www.cnet.com/culture/entertainment/new-movies-coming-out-in-2022-netflix-marvel-dc/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/new-movies-coming-out-in-2022-netflix-marvel-dc/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 10:19:51+00:00
- - tags: None
 
 Knives Out 2, Nope, Black Panther 2 and Avatar 2: It's a big year for blockbusters, even though Madame Web, Mario, Black Adam and The Flash are delayed again.
 
@@ -812,7 +711,6 @@ Knives Out 2, Nope, Black Panther 2 and Avatar 2: It's a big year for blockbuste
  - [https://www.cnet.com/pictures/movies-coming-in-2022-from-marvel-netflix-dc-and-more/#ftag=CADf328eec](https://www.cnet.com/pictures/movies-coming-in-2022-from-marvel-netflix-dc-and-more/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 10:18:09+00:00
- - tags: None
 
 2022 brings us Knives Out 2, Avatar 2, a few original movies and more delays. Check out the latest blockbuster release dates.
 
@@ -820,7 +718,6 @@ Knives Out 2, Nope, Black Panther 2 and Avatar 2: It's a big year for blockbuste
  - [https://www.cnet.com/how-to/unclog-your-toilet-without-a-plunger-its-actually-really-easy/#ftag=CADf328eec](https://www.cnet.com/how-to/unclog-your-toilet-without-a-plunger-its-actually-really-easy/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 10:15:02+00:00
- - tags: None
 
 All you need are a few things you already have around the house.
 
@@ -828,7 +725,6 @@ All you need are a few things you already have around the house.
  - [https://www.cnet.com/tech/mobile/google-pixel-watch-is-launching-soon-heres-what-we-know/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/google-pixel-watch-is-launching-soon-heres-what-we-know/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 10:00:02+00:00
- - tags: None
 
 We still don't have a price or release date for the Pixel Watch, but we're expecting to learn more in October.
 
@@ -836,7 +732,6 @@ We still don't have a price or release date for the Pixel Watch, but we're expec
  - [https://www.cnet.com/culture/entertainment/rick-and-morty-season-6-episode-3-the-wine-cabinet-ending-explained/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/rick-and-morty-season-6-episode-3-the-wine-cabinet-ending-explained/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 07:01:00+00:00
- - tags: None
 
 Why did Rick prevent access to a certain wine cabinet forever?
 
@@ -844,7 +739,6 @@ Why did Rick prevent access to a certain wine cabinet forever?
  - [https://www.cnet.com/culture/internet/google-doodle-encourages-all-eligible-to-register-to-vote/#ftag=CADf328eec](https://www.cnet.com/culture/internet/google-doodle-encourages-all-eligible-to-register-to-vote/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 05:25:00+00:00
- - tags: None
 
 National Voter Registration Day is nonpartisan holiday calling on people to register to be part of a cornerstone of democracy.
 
@@ -852,7 +746,6 @@ National Voter Registration Day is nonpartisan holiday calling on people to regi
  - [https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-5-easter-eggs-and-details-you-may-have-missed/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-5-easter-eggs-and-details-you-may-have-missed/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 05:02:20+00:00
- - tags: None
 
 If you saw House of the Dragon's most recent episode, you saw a royal wedding being arranged and a gruesome death. Here's what you may have missed.
 
@@ -860,7 +753,6 @@ If you saw House of the Dragon's most recent episode, you saw a royal wedding be
  - [https://www.cnet.com/culture/entertainment/adnan-syed-of-serial-podcast-released-from-prison-after-judge-vacates-murder-conviction/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/adnan-syed-of-serial-podcast-released-from-prison-after-judge-vacates-murder-conviction/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 03:12:00+00:00
- - tags: None
 
 Syed long said he was innocent in the murder of his former girlfriend Hae Min Lee. A new episode of the podcast is due out Tuesday.
 
@@ -868,7 +760,6 @@ Syed long said he was innocent in the murder of his former girlfriend Hae Min Le
  - [https://www.cnet.com/culture/entertainment/the-absolute-best-horror-movies-to-stream-on-netflix-now/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-absolute-best-horror-movies-to-stream-on-netflix-now/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 03:10:32+00:00
- - tags: None
 
 Netflix is sitting on a huge stash of impeccable horror movies.
 
@@ -876,7 +767,6 @@ Netflix is sitting on a huge stash of impeccable horror movies.
  - [https://www.cnet.com/science/to-bond-with-humans-robots-are-learning-to-laugh-at-the-right-time/#ftag=CADf328eec](https://www.cnet.com/science/to-bond-with-humans-robots-are-learning-to-laugh-at-the-right-time/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 02:52:00+00:00
- - tags: None
 
 It's no joke. Scientists are teaching robots the nuances of laughter.
 
@@ -884,7 +774,6 @@ It's no joke. Scientists are teaching robots the nuances of laughter.
  - [https://www.cnet.com/culture/entertainment/house-of-the-dragon-deepfake-inserts-emilia-clarke-as-rhaenyra/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/house-of-the-dragon-deepfake-inserts-emilia-clarke-as-rhaenyra/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 02:46:27+00:00
- - tags: None
 
 If you're craving seeing Daenerys Targaryen again, this is some solace -- unless you love Milly Alcock's Rhaenyra.
 
@@ -892,7 +781,6 @@ If you're craving seeing Daenerys Targaryen again, this is some solace -- unless
  - [https://www.cnet.com/culture/entertainment/prime-video-the-best-sci-fi-tv-shows-to-binge-watch-this-evening/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/prime-video-the-best-sci-fi-tv-shows-to-binge-watch-this-evening/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 02:05:00+00:00
- - tags: None
 
 Prime Video is sitting on a ton of excellent sci-fi series well worth committing a binge to.
 
@@ -900,7 +788,6 @@ Prime Video is sitting on a ton of excellent sci-fi series well worth committing
  - [https://www.cnet.com/culture/entertainment/heres-when-milly-alcocks-last-house-of-the-dragon-episode-is/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/heres-when-milly-alcocks-last-house-of-the-dragon-episode-is/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 01:54:00+00:00
- - tags: None
 
 We knew Milly Alcock, aka Young Rhaenyra Targaryen, would eventually be replaced on screen, but we didn't know when -- until now.
 
@@ -908,7 +795,6 @@ We knew Milly Alcock, aka Young Rhaenyra Targaryen, would eventually be replaced
  - [https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-binge-on-prime-video-this-week/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-binge-on-prime-video-this-week/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 01:43:41+00:00
- - tags: None
 
 Prime Video has a ton to offer from the sci-fi realm -- hopefully this guide will help you sift through its back catalogue.
 
@@ -916,7 +802,6 @@ Prime Video has a ton to offer from the sci-fi realm -- hopefully this guide wil
  - [https://www.cnet.com/science/space/scientists-might-have-solved-mystery-of-saturns-famous-rings/#ftag=CADf328eec](https://www.cnet.com/science/space/scientists-might-have-solved-mystery-of-saturns-famous-rings/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 01:22:00+00:00
- - tags: None
 
 They theorize it has to do with the gas giant's missing moon.
 
@@ -924,7 +809,6 @@ They theorize it has to do with the gas giant's missing moon.
  - [https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-slick-sci-fi-thriller-on-prime-video/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-slick-sci-fi-thriller-on-prime-video/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 01:03:30+00:00
- - tags: None
 
 Counterpart ticks almost every single box of what constitutes Good TV, yet many people haven't heard of it.
 
@@ -932,7 +816,6 @@ Counterpart ticks almost every single box of what constitutes Good TV, yet many 
  - [https://www.cnet.com/culture/entertainment/why-you-should-turn-subtitles-on-for-absolutely-everything/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/why-you-should-turn-subtitles-on-for-absolutely-everything/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 00:10:00+00:00
- - tags: None
 
 I use subtitles all the time. No matter what.
 
@@ -940,6 +823,5 @@ I use subtitles all the time. No matter what.
  - [https://www.cnet.com/health/sleep/want-to-sleep-like-your-ancestors-heres-what-to-know/#ftag=CADf328eec](https://www.cnet.com/health/sleep/want-to-sleep-like-your-ancestors-heres-what-to-know/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-20 00:00:02+00:00
- - tags: None
 
 There is evidence that people used to regularly sleep in two shifts. Whether this could improve your sleeping pattern is up in the air.

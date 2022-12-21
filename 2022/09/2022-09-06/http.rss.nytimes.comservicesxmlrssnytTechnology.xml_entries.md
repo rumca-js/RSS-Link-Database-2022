@@ -1,10 +1,9 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
 
 ## How China Has Added to Its Influence Over the iPhone
  - [https://www.nytimes.com/2022/09/06/technology/china-apple-iphone.html](https://www.nytimes.com/2022/09/06/technology/china-apple-iphone.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-09-06 19:05:31+00:00
- - tags: None
 
 Apple is taking small steps toward India. But the production of its latest phone, set for introduction on Wednesday, shows how difficult it will be to make big changes.
 
@@ -12,7 +11,6 @@ Apple is taking small steps toward India. But the production of its latest phone
  - [https://www.nytimes.com/2022/09/06/arts/music/fn-meka-virtual-ai-rap.html](https://www.nytimes.com/2022/09/06/arts/music/fn-meka-virtual-ai-rap.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-09-06 17:52:35+00:00
- - tags: None
 
 Young people are increasingly at ease consuming culture via digital avatars or made with artificial intelligence. Should the same moral guidelines and laws apply to those works?
 
@@ -20,7 +18,6 @@ Young people are increasingly at ease consuming culture via digital avatars or m
  - [https://www.nytimes.com/2022/09/06/technology/apple-ads.html](https://www.nytimes.com/2022/09/06/technology/apple-ads.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-09-06 17:20:50+00:00
- - tags: None
 
 Apple has long supported privacy and shunned those intrusive ads. What happens when it sells more ads, too?
 
@@ -28,7 +25,6 @@ Apple has long supported privacy and shunned those intrusive ads. What happens w
  - [https://www.nytimes.com/2022/09/06/technology/signal-the-encrypted-messaging-app-appoints-a-president.html](https://www.nytimes.com/2022/09/06/technology/signal-the-encrypted-messaging-app-appoints-a-president.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-09-06 09:00:12+00:00
- - tags: None
 
 
 
@@ -36,6 +32,5 @@ Apple has long supported privacy and shunned those intrusive ads. What happens w
  - [https://www.nytimes.com/2022/09/06/technology/joe-sullivan-uber-security-trial-ciso.html](https://www.nytimes.com/2022/09/06/technology/joe-sullivan-uber-security-trial-ciso.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-09-06 07:00:11+00:00
- - tags: None
 
 Joe Sullivan, Uber’s former chief of security, faces criminal charges for his handling of a 2016 security breach. His trial this week has divided the security industry.

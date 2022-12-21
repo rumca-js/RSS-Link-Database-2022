@@ -1,10 +1,9 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage
+# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
 
 ## Synthetic embryo with brain and beating heart created by Cambridge scientists
  - [https://www.cambridgeindependent.co.uk/news/synthetic-embryo-with-brain-and-beating-heart-created-by-uni-9271220/](https://www.cambridgeindependent.co.uk/news/synthetic-embryo-with-brain-and-beating-heart-created-by-uni-9271220/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 23:59:51+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.cambridgeindependent.co.uk/news/synthetic-embryo-with-brain-and-beating-heart-created-by-uni-9271220/">https://www.cambridgeindependent.co.uk/news/synthetic-embryo-with-brain-and-beating-heart-created-by-uni-9271220/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32873535">https://news.ycombinator.com/item?id=32873535</a></p>
@@ -15,7 +14,6 @@
  - [https://github.com/rossimo/retrobot](https://github.com/rossimo/retrobot)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 23:57:03+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/rossimo/retrobot">https://github.com/rossimo/retrobot</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32873517">https://news.ycombinator.com/item?id=32873517</a></p>
@@ -26,7 +24,6 @@
  - [https://blog.bitmex.com/flashbots/](https://blog.bitmex.com/flashbots/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 22:48:47+00:00
- - tags: None
 
 <p>Article URL: <a href="https://blog.bitmex.com/flashbots/">https://blog.bitmex.com/flashbots/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32873017">https://news.ycombinator.com/item?id=32873017</a></p>
@@ -37,7 +34,6 @@
  - [https://www.photoroom.com/tech/core-ml-performance-2022/](https://www.photoroom.com/tech/core-ml-performance-2022/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 20:50:45+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.photoroom.com/tech/core-ml-performance-2022/">https://www.photoroom.com/tech/core-ml-performance-2022/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32871856">https://news.ycombinator.com/item?id=32871856</a></p>
@@ -48,7 +44,6 @@
  - [https://www.inquirer.com/news/courtesy-tow-settlement-lawsuit-class-action-philadelphia-20220916.html](https://www.inquirer.com/news/courtesy-tow-settlement-lawsuit-class-action-philadelphia-20220916.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 20:48:47+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.inquirer.com/news/courtesy-tow-settlement-lawsuit-class-action-philadelphia-20220916.html">https://www.inquirer.com/news/courtesy-tow-settlement-lawsuit-class-action-philadelphia-20220916.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32871837">https://news.ycombinator.com/item?id=32871837</a></p>
@@ -59,7 +54,6 @@
  - [https://tinybase.org/guides/releases/#v2-0](https://tinybase.org/guides/releases/#v2-0)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 20:08:39+00:00
- - tags: None
 
 <p>Article URL: <a href="https://tinybase.org/guides/releases/#v2-0">https://tinybase.org/guides/releases/#v2-0</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32871392">https://news.ycombinator.com/item?id=32871392</a></p>
@@ -70,7 +64,6 @@
  - [https://constitutioncenter.org/blog/why-does-a-presidential-candidate-need-to-be-35-years-old-anyway](https://constitutioncenter.org/blog/why-does-a-presidential-candidate-need-to-be-35-years-old-anyway)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 20:07:47+00:00
- - tags: None
 
 <p>Article URL: <a href="https://constitutioncenter.org/blog/why-does-a-presidential-candidate-need-to-be-35-years-old-anyway">https://constitutioncenter.org/blog/why-does-a-presidential-candidate-need-to-be-35-years-old-anyway</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32871381">https://news.ycombinator.com/item?id=32871381</a></p>
@@ -81,7 +74,6 @@
  - [https://peterattiamd.com/egg-boxing/](https://peterattiamd.com/egg-boxing/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 19:45:19+00:00
- - tags: None
 
 <p>Article URL: <a href="https://peterattiamd.com/egg-boxing/">https://peterattiamd.com/egg-boxing/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32871077">https://news.ycombinator.com/item?id=32871077</a></p>
@@ -92,7 +84,6 @@
  - [https://forums.evga.com/Official-Message-from-EVGA-Management-m3574574.aspx](https://forums.evga.com/Official-Message-from-EVGA-Management-m3574574.aspx)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 19:28:29+00:00
- - tags: None
 
 <p>Article URL: <a href="https://forums.evga.com/Official-Message-from-EVGA-Management-m3574574.aspx">https://forums.evga.com/Official-Message-from-EVGA-Management-m3574574.aspx</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32870892">https://news.ycombinator.com/item?id=32870892</a></p>
@@ -103,7 +94,6 @@
  - [https://www.atlasobscura.com/articles/the-enduring-mystery-of-jawn-philadelphias-allpurpose-noun](https://www.atlasobscura.com/articles/the-enduring-mystery-of-jawn-philadelphias-allpurpose-noun)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 19:25:03+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.atlasobscura.com/articles/the-enduring-mystery-of-jawn-philadelphias-allpurpose-noun">https://www.atlasobscura.com/articles/the-enduring-mystery-of-jawn-philadelphias-allpurpose-noun</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32870849">https://news.ycombinator.com/item?id=32870849</a></p>
@@ -114,7 +104,6 @@
  - [https://tiramisu.bearblog.dev/on-eating-alone/](https://tiramisu.bearblog.dev/on-eating-alone/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 19:15:45+00:00
- - tags: None
 
 <p>Article URL: <a href="https://tiramisu.bearblog.dev/on-eating-alone/">https://tiramisu.bearblog.dev/on-eating-alone/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32870727">https://news.ycombinator.com/item?id=32870727</a></p>
@@ -125,7 +114,6 @@
  - [https://labincubators.net/blogs/blog/peltier-vs-compressor-based-cooling](https://labincubators.net/blogs/blog/peltier-vs-compressor-based-cooling)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 19:14:25+00:00
- - tags: None
 
 <p>Article URL: <a href="https://labincubators.net/blogs/blog/peltier-vs-compressor-based-cooling">https://labincubators.net/blogs/blog/peltier-vs-compressor-based-cooling</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32870714">https://news.ycombinator.com/item?id=32870714</a></p>
@@ -136,7 +124,6 @@
  - [https://www.youtube.com/watch?v=cV9QES-FUAM](https://www.youtube.com/watch?v=cV9QES-FUAM)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 19:11:39+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.youtube.com/watch?v=cV9QES-FUAM">https://www.youtube.com/watch?v=cV9QES-FUAM</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32870677">https://news.ycombinator.com/item?id=32870677</a></p>
@@ -147,7 +134,6 @@
  - [https://piotrduperas.com/posts/nan-boxing/](https://piotrduperas.com/posts/nan-boxing/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 18:51:50+00:00
- - tags: None
 
 <p>Article URL: <a href="https://piotrduperas.com/posts/nan-boxing/">https://piotrduperas.com/posts/nan-boxing/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32870463">https://news.ycombinator.com/item?id=32870463</a></p>
@@ -158,7 +144,6 @@
  - [https://www.forbes.com/sites/kerryadolan/2022/09/12/sergei-brin-robloxs-david-baszucki-and-kent-dauten-of-keystone-capital-commit-150-million-to-fight-bipolar-disorder/](https://www.forbes.com/sites/kerryadolan/2022/09/12/sergei-brin-robloxs-david-baszucki-and-kent-dauten-of-keystone-capital-commit-150-million-to-fight-bipolar-disorder/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 18:20:52+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.forbes.com/sites/kerryadolan/2022/09/12/sergei-brin-robloxs-david-baszucki-and-kent-dauten-of-keystone-capital-commit-150-million-to-fight-bipolar-disorder/">https://www.forbes.com/sites/kerryadolan/2022/09/12/sergei-brin-robloxs-david-baszucki-and-kent-dauten-of-keystone-capital-commit-150-million-to-fight-bipolar-disorder/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32870050">https://news.ycombinator.com/item?id=32870050</a></p>
@@ -168,7 +153,6 @@
  - [https://www.pcgamer.com/reasons-to-be-cheerful-gpu-mining-is-dead-less-than-24-hours-after-the-merge/](https://www.pcgamer.com/reasons-to-be-cheerful-gpu-mining-is-dead-less-than-24-hours-after-the-merge/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 17:02:04+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.pcgamer.com/reasons-to-be-cheerful-gpu-mining-is-dead-less-than-24-hours-after-the-merge/">https://www.pcgamer.com/reasons-to-be-cheerful-gpu-mining-is-dead-less-than-24-hours-after-the-merge/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32868979">https://news.ycombinator.com/item?id=32868979</a></p>
@@ -179,7 +163,6 @@
  - [https://www.themuse.com/jobs/themuse/finance-and-operations-associate](https://www.themuse.com/jobs/themuse/finance-and-operations-associate)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 17:00:04+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.themuse.com/jobs/themuse/finance-and-operations-associate">https://www.themuse.com/jobs/themuse/finance-and-operations-associate</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32868959">https://news.ycombinator.com/item?id=32868959</a></p>
@@ -190,7 +173,6 @@
  - [https://www.insurancejournal.com/news/national/2022/09/16/685303.htm](https://www.insurancejournal.com/news/national/2022/09/16/685303.htm)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 16:30:14+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.insurancejournal.com/news/national/2022/09/16/685303.htm">https://www.insurancejournal.com/news/national/2022/09/16/685303.htm</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32868512">https://news.ycombinator.com/item?id=32868512</a></p>
@@ -201,7 +183,6 @@
  - [https://bam.kalzumeus.com/archive/why-is-that-bank-branch-there/](https://bam.kalzumeus.com/archive/why-is-that-bank-branch-there/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 16:21:46+00:00
- - tags: None
 
 <p>Article URL: <a href="https://bam.kalzumeus.com/archive/why-is-that-bank-branch-there/">https://bam.kalzumeus.com/archive/why-is-that-bank-branch-there/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32868377">https://news.ycombinator.com/item?id=32868377</a></p>
@@ -212,7 +193,6 @@
  - [https://cloud.google.com/datastream-for-bigquery](https://cloud.google.com/datastream-for-bigquery)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 16:04:43+00:00
- - tags: None
 
 <p>Article URL: <a href="https://cloud.google.com/datastream-for-bigquery">https://cloud.google.com/datastream-for-bigquery</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32868092">https://news.ycombinator.com/item?id=32868092</a></p>
@@ -223,7 +203,6 @@
  - [https://memgraph.com/blog/how-to-build-a-graph-visualization-engine-and-why-you-shouldnt](https://memgraph.com/blog/how-to-build-a-graph-visualization-engine-and-why-you-shouldnt)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 16:04:32+00:00
- - tags: None
 
 <p>Article URL: <a href="https://memgraph.com/blog/how-to-build-a-graph-visualization-engine-and-why-you-shouldnt">https://memgraph.com/blog/how-to-build-a-graph-visualization-engine-and-why-you-shouldnt</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32868091">https://news.ycombinator.com/item?id=32868091</a></p>
@@ -234,7 +213,6 @@
  - [https://reflio.com](https://reflio.com)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 15:46:30+00:00
- - tags: None
 
 <p>Article URL: <a href="https://reflio.com">https://reflio.com</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32867737">https://news.ycombinator.com/item?id=32867737</a></p>
@@ -245,7 +223,6 @@
  - [https://web.dev/webtransport/](https://web.dev/webtransport/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 15:41:41+00:00
- - tags: None
 
 <p>Article URL: <a href="https://web.dev/webtransport/">https://web.dev/webtransport/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32867644">https://news.ycombinator.com/item?id=32867644</a></p>
@@ -256,7 +233,6 @@
  - [https://manishrjain.com/dgraph-labs-learnings](https://manishrjain.com/dgraph-labs-learnings)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 15:39:57+00:00
- - tags: None
 
 <p>Article URL: <a href="https://manishrjain.com/dgraph-labs-learnings">https://manishrjain.com/dgraph-labs-learnings</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32867613">https://news.ycombinator.com/item?id=32867613</a></p>
@@ -267,7 +243,6 @@
  - [https://www.tomshardware.com/news/gpu-mining-is-now-unprofitable](https://www.tomshardware.com/news/gpu-mining-is-now-unprofitable)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 15:38:11+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.tomshardware.com/news/gpu-mining-is-now-unprofitable">https://www.tomshardware.com/news/gpu-mining-is-now-unprofitable</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32867584">https://news.ycombinator.com/item?id=32867584</a></p>
@@ -278,7 +253,6 @@
  - [http://www.fiftythree.org/etherkiller/](http://www.fiftythree.org/etherkiller/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 15:21:17+00:00
- - tags: None
 
 <p>Article URL: <a href="http://www.fiftythree.org/etherkiller/">http://www.fiftythree.org/etherkiller/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32867299">https://news.ycombinator.com/item?id=32867299</a></p>
@@ -289,7 +263,6 @@
  - [https://www.androidpolice.com/free-youtube-more-ads/](https://www.androidpolice.com/free-youtube-more-ads/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 15:02:28+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.androidpolice.com/free-youtube-more-ads/">https://www.androidpolice.com/free-youtube-more-ads/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32866976">https://news.ycombinator.com/item?id=32866976</a></p>
@@ -300,7 +273,6 @@
  - [https://www.smithsonianmag.com/smart-news/pumpkin-boat-world-record-180980723/](https://www.smithsonianmag.com/smart-news/pumpkin-boat-world-record-180980723/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 14:56:13+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.smithsonianmag.com/smart-news/pumpkin-boat-world-record-180980723/">https://www.smithsonianmag.com/smart-news/pumpkin-boat-world-record-180980723/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32866892">https://news.ycombinator.com/item?id=32866892</a></p>
@@ -311,7 +283,6 @@
  - [https://theprint.in/tech/60-80-of-twitter-accounts-posting-on-russia-ukraine-war-bots-90-pro-ukraine-finds-new-study/1114878/](https://theprint.in/tech/60-80-of-twitter-accounts-posting-on-russia-ukraine-war-bots-90-pro-ukraine-finds-new-study/1114878/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 14:29:06+00:00
- - tags: None
 
 <p>Article URL: <a href="https://theprint.in/tech/60-80-of-twitter-accounts-posting-on-russia-ukraine-war-bots-90-pro-ukraine-finds-new-study/1114878/">https://theprint.in/tech/60-80-of-twitter-accounts-posting-on-russia-ukraine-war-bots-90-pro-ukraine-finds-new-study/1114878/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32866481">https://news.ycombinator.com/item?id=32866481</a></p>
@@ -322,7 +293,6 @@
  - [https://github.com/DonDebonair/slack-machine](https://github.com/DonDebonair/slack-machine)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 14:17:03+00:00
- - tags: None
 
 <p>I started building a couple of years ago because I found no easy existing solution to build Slack bots that can be composed from/organized into plugins. Existing libraries like Bolt make it pretty easy to develop Slack bots, but hard to organize and scale the code base of your bot. I was also missing some crucial features such as scheduling actions for your bot. So I wrote my own framework!<p>I recently rewrote the complete framework to make use of asyncio and the newest Slack SDK<p>Let me kn
 
@@ -330,7 +300,6 @@
  - [https://www.cpsc.gov/Newsroom/News-Releases/2022/CPSC-Warns-Consumers-to-Immediately-Stop-Using-Male-to-Male-Extension-Cords-Sold-on-Amazon-com-Due-to-Electrocution-Fire-and-Carbon-Monoxide-Poisoning-Hazards](https://www.cpsc.gov/Newsroom/News-Releases/2022/CPSC-Warns-Consumers-to-Immediately-Stop-Using-Male-to-Male-Extension-Cords-Sold-on-Amazon-com-Due-to-Electrocution-Fire-and-Carbon-Monoxide-Poisoning-Hazards)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 14:06:05+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.cpsc.gov/Newsroom/News-Releases/2022/CPSC-Warns-Consumers-to-Immediately-Stop-Using-Male-to-Male-Extension-Cords-Sold-on-Amazon-com-Due-to-Electrocution-Fire-and-Carbon-Monoxide-Poisoning-Hazards">https://www.cpsc.gov/Newsroom/News-Releases/2022/CPSC-Warns-Consumers-to-Immediately-Stop-Using-Male-to-Male-Extension-Cords-Sold-on-Amazon-com-Due-to-Electrocution-Fire-and-Carbon-Monoxide-Poisoning-Hazards</a></p>
 <p>Comments URL: <a href="https://news.ycombinator
@@ -339,7 +308,6 @@
  - [https://www.bloomberg.com/news/articles/2022-09-16/shopify-overhauls-compensation-rules-after-stock-s-75-plunge](https://www.bloomberg.com/news/articles/2022-09-16/shopify-overhauls-compensation-rules-after-stock-s-75-plunge)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 13:56:52+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.bloomberg.com/news/articles/2022-09-16/shopify-overhauls-compensation-rules-after-stock-s-75-plunge">https://www.bloomberg.com/news/articles/2022-09-16/shopify-overhauls-compensation-rules-after-stock-s-75-plunge</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32866093">https://news.ycombinator.com/item?id=32866093</a></p>
@@ -350,7 +318,6 @@
  - [https://www.engadget.com/california-amazon-antitrust-lawsuit-prices-195937087.html](https://www.engadget.com/california-amazon-antitrust-lawsuit-prices-195937087.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 13:53:17+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.engadget.com/california-amazon-antitrust-lawsuit-prices-195937087.html">https://www.engadget.com/california-amazon-antitrust-lawsuit-prices-195937087.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32866055">https://news.ycombinator.com/item?id=32866055</a></p>
@@ -361,7 +328,6 @@
  - [https://www.theguardian.com/us-news/2022/sep/16/columbia-whistleblower-us-news-rankings-michael-thaddeus](https://www.theguardian.com/us-news/2022/sep/16/columbia-whistleblower-us-news-rankings-michael-thaddeus)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 13:46:00+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.theguardian.com/us-news/2022/sep/16/columbia-whistleblower-us-news-rankings-michael-thaddeus">https://www.theguardian.com/us-news/2022/sep/16/columbia-whistleblower-us-news-rankings-michael-thaddeus</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32865976">https://news.ycombinator.com/item?id=32865976</a></p>
@@ -372,7 +338,6 @@
  - [https://blog.adafruit.com/2022/09/15/the-movie-hackers-was-released-27-years-ago-today-hackers-popculture-movies/](https://blog.adafruit.com/2022/09/15/the-movie-hackers-was-released-27-years-ago-today-hackers-popculture-movies/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 13:35:45+00:00
- - tags: None
 
 <p>Article URL: <a href="https://blog.adafruit.com/2022/09/15/the-movie-hackers-was-released-27-years-ago-today-hackers-popculture-movies/">https://blog.adafruit.com/2022/09/15/the-movie-hackers-was-released-27-years-ago-today-hackers-popculture-movies/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32865867">https://news.ycombinator.com/item?id=32865867</a></p>
@@ -383,7 +348,6 @@
  - [https://stackdiary.com/figma-alternatives/](https://stackdiary.com/figma-alternatives/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 13:27:14+00:00
- - tags: None
 
 <p>Article URL: <a href="https://stackdiary.com/figma-alternatives/">https://stackdiary.com/figma-alternatives/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32865786">https://news.ycombinator.com/item?id=32865786</a></p>
@@ -394,7 +358,6 @@
  - [https://dynomight.net/hossain2020.pdf](https://dynomight.net/hossain2020.pdf)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 13:26:28+00:00
- - tags: None
 
 <p>Article URL: <a href="https://dynomight.net/hossain2020.pdf">https://dynomight.net/hossain2020.pdf</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32865780">https://news.ycombinator.com/item?id=32865780</a></p>
@@ -405,7 +368,6 @@
  - [https://nautil.us/the-real-magic-of-rituals-238960/](https://nautil.us/the-real-magic-of-rituals-238960/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 12:59:46+00:00
- - tags: None
 
 <p>Article URL: <a href="https://nautil.us/the-real-magic-of-rituals-238960/">https://nautil.us/the-real-magic-of-rituals-238960/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32865501">https://news.ycombinator.com/item?id=32865501</a></p>
@@ -416,7 +378,6 @@
  - [https://blog.tjll.net/reverse-proxy-hot-dog-eating-contest-caddy-vs-nginx/](https://blog.tjll.net/reverse-proxy-hot-dog-eating-contest-caddy-vs-nginx/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 12:58:57+00:00
- - tags: None
 
 <p>Article URL: <a href="https://blog.tjll.net/reverse-proxy-hot-dog-eating-contest-caddy-vs-nginx/">https://blog.tjll.net/reverse-proxy-hot-dog-eating-contest-caddy-vs-nginx/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32865497">https://news.ycombinator.com/item?id=32865497</a></p>
@@ -427,7 +388,6 @@
  - [https://news.ycombinator.com/item?id=32865428](https://news.ycombinator.com/item?id=32865428)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 12:51:38+00:00
- - tags: None
 
 <p>This is a follow up of this thread ( <a href="https://news.ycombinator.com/item?id=22174828" rel="nofollow">https://news.ycombinator.com/item?id=22174828</a> ) which got some amazing responses but considering it's been almost two years, It's time for new edition<p>I'd love to hear about what interesting problems (technically or otherwise) you're working on -- and if you're willing to share more, I'm curious how you ended up working on them. This time, with a twist. Please include web technolo
 
@@ -435,7 +395,6 @@
  - [https://www.nextplatform.com/2022/09/14/arm-fills-in-some-gaps-and-details-in-server-chip-roadmaps/](https://www.nextplatform.com/2022/09/14/arm-fills-in-some-gaps-and-details-in-server-chip-roadmaps/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 12:42:02+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.nextplatform.com/2022/09/14/arm-fills-in-some-gaps-and-details-in-server-chip-roadmaps/">https://www.nextplatform.com/2022/09/14/arm-fills-in-some-gaps-and-details-in-server-chip-roadmaps/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32865340">https://news.ycombinator.com/item?id=32865340</a></p>
@@ -446,7 +405,6 @@
  - [https://webamp.org/](https://webamp.org/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 12:38:41+00:00
- - tags: None
 
 <p>Article URL: <a href="https://webamp.org/">https://webamp.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32865304">https://news.ycombinator.com/item?id=32865304</a></p>
@@ -457,7 +415,6 @@
  - [https://tomasp.net/commodore64/](https://tomasp.net/commodore64/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 12:30:30+00:00
- - tags: None
 
 <p>Article URL: <a href="https://tomasp.net/commodore64/">https://tomasp.net/commodore64/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32865229">https://news.ycombinator.com/item?id=32865229</a></p>
@@ -468,7 +425,6 @@
  - [https://www.tomshardware.com/news/nest-linux-os-scheduler](https://www.tomshardware.com/news/nest-linux-os-scheduler)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 12:26:50+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.tomshardware.com/news/nest-linux-os-scheduler">https://www.tomshardware.com/news/nest-linux-os-scheduler</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32865194">https://news.ycombinator.com/item?id=32865194</a></p>
@@ -479,7 +435,6 @@
  - [https://fortune.com/2022/09/15/stanley-druckenmiller-investor-warns-stock-market-flat-decade-central-bank/](https://fortune.com/2022/09/15/stanley-druckenmiller-investor-warns-stock-market-flat-decade-central-bank/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 12:15:49+00:00
- - tags: None
 
 <p>Article URL: <a href="https://fortune.com/2022/09/15/stanley-druckenmiller-investor-warns-stock-market-flat-decade-central-bank/">https://fortune.com/2022/09/15/stanley-druckenmiller-investor-warns-stock-market-flat-decade-central-bank/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32865082">https://news.ycombinator.com/item?id=32865082</a></p>
@@ -490,7 +445,6 @@
  - [https://www.engadget.com/us-border-forces-traveler-data-15-years-085106938.html](https://www.engadget.com/us-border-forces-traveler-data-15-years-085106938.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 12:07:05+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.engadget.com/us-border-forces-traveler-data-15-years-085106938.html">https://www.engadget.com/us-border-forces-traveler-data-15-years-085106938.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32864997">https://news.ycombinator.com/item?id=32864997</a></p>
@@ -501,7 +455,6 @@
  - [https://news.ycombinator.com/item?id=32864909](https://news.ycombinator.com/item?id=32864909)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 11:59:33+00:00
- - tags: None
 
 <p>Are there any good blogs that focus on CI/CD pipelines and SRE without a ton of fluff?<p>I feel like the space moves fast, and I need a way to keep up with it better. In an ideal world I would want to see best practices for different tools, and pipelines so I can evaluate them and adopt what makes sense.</p>
 <hr />
@@ -513,7 +466,6 @@
  - [https://www.reuters.com/markets/deals/social-media-app-parler-buys-cloud-services-provider-2022-09-16/](https://www.reuters.com/markets/deals/social-media-app-parler-buys-cloud-services-provider-2022-09-16/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 11:45:03+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.reuters.com/markets/deals/social-media-app-parler-buys-cloud-services-provider-2022-09-16/">https://www.reuters.com/markets/deals/social-media-app-parler-buys-cloud-services-provider-2022-09-16/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32864810">https://news.ycombinator.com/item?id=32864810</a></p>
@@ -524,7 +476,6 @@
  - [https://www.fast.ai/posts/part2-2022.html](https://www.fast.ai/posts/part2-2022.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 11:42:18+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.fast.ai/posts/part2-2022.html">https://www.fast.ai/posts/part2-2022.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32864783">https://news.ycombinator.com/item?id=32864783</a></p>
@@ -535,7 +486,6 @@
  - [https://news.ycombinator.com/item?id=32864721](https://news.ycombinator.com/item?id=32864721)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 11:31:10+00:00
- - tags: None
 
 <p>Either personal (like asking your bank to revoke all cards you used with Uber) or work-related (recheck your security posture so that you won't have a Uber-level catastrophe)?</p>
 <hr />
@@ -547,7 +497,6 @@
  - [https://news.ycombinator.com/item?id=32864719](https://news.ycombinator.com/item?id=32864719)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 11:30:59+00:00
- - tags: None
 
 <p>I just received this email a few days ago:<p>We are writing to inform you of an incident that involved some of your information. We are providing this notice to explain the incident and measures we have taken, and also to provide some steps you can take in response.<p>What Happened?
 We detected a compromise of two unique passwords that were used to access a customer contract search tool that allows access to rental contracts for U-Haul customers. The search tool cannot access payment card inf
@@ -556,7 +505,6 @@ We detected a compromise of two unique passwords that were used to access a cust
  - [https://www.flickr.com/photos/gems_from_the_collection/albums/72157600000117243/](https://www.flickr.com/photos/gems_from_the_collection/albums/72157600000117243/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 11:22:17+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.flickr.com/photos/gems_from_the_collection/albums/72157600000117243/">https://www.flickr.com/photos/gems_from_the_collection/albums/72157600000117243/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32864656">https://news.ycombinator.com/item?id=32864656</a></p>
@@ -567,7 +515,6 @@ We detected a compromise of two unique passwords that were used to access a cust
  - [https://www.sandboxx.us/blog/americas-secret-stealth-aircraft-youve-never-heard-of/](https://www.sandboxx.us/blog/americas-secret-stealth-aircraft-youve-never-heard-of/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 10:47:57+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.sandboxx.us/blog/americas-secret-stealth-aircraft-youve-never-heard-of/">https://www.sandboxx.us/blog/americas-secret-stealth-aircraft-youve-never-heard-of/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32864431">https://news.ycombinator.com/item?id=32864431</a></p>
@@ -578,7 +525,6 @@ We detected a compromise of two unique passwords that were used to access a cust
  - [https://foldscope.com/](https://foldscope.com/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 10:42:55+00:00
- - tags: None
 
 <p>Article URL: <a href="https://foldscope.com/">https://foldscope.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32864413">https://news.ycombinator.com/item?id=32864413</a></p>
@@ -589,7 +535,6 @@ We detected a compromise of two unique passwords that were used to access a cust
  - [https://www.malwarebytes.com/blog/threat-intelligence/2022/09/microsoft-edges-news-feed-pushes-tech-support-scam](https://www.malwarebytes.com/blog/threat-intelligence/2022/09/microsoft-edges-news-feed-pushes-tech-support-scam)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 10:13:26+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.malwarebytes.com/blog/threat-intelligence/2022/09/microsoft-edges-news-feed-pushes-tech-support-scam">https://www.malwarebytes.com/blog/threat-intelligence/2022/09/microsoft-edges-news-feed-pushes-tech-support-scam</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32864267">https://news.ycombinator.com/item?id=32864267</a></p>
@@ -600,7 +545,6 @@ We detected a compromise of two unique passwords that were used to access a cust
  - [https://www.phoronix.com/news/CloudFlare-Pingora-No-Nginx](https://www.phoronix.com/news/CloudFlare-Pingora-No-Nginx)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 09:44:47+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.phoronix.com/news/CloudFlare-Pingora-No-Nginx">https://www.phoronix.com/news/CloudFlare-Pingora-No-Nginx</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32864119">https://news.ycombinator.com/item?id=32864119</a></p>
@@ -611,7 +555,6 @@ We detected a compromise of two unique passwords that were used to access a cust
  - [https://www.cell.com/cell-metabolism/fulltext/S1550-4131(22)00344-8](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(22)00344-8)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 09:40:29+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.cell.com/cell-metabolism/fulltext/S1550-4131(22)00344-8">https://www.cell.com/cell-metabolism/fulltext/S1550-4131(22)00344-8</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32864094">https://news.ycombinator.com/item?id=32864094</a></p>
@@ -622,7 +565,6 @@ We detected a compromise of two unique passwords that were used to access a cust
  - [https://github.com/mrichtarsky/glacier_deep_archive_backup](https://github.com/mrichtarsky/glacier_deep_archive_backup)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 09:33:53+00:00
- - tags: None
 
 <p>Hi,<p>most people (hopefully) have local backups. However, when that backup fails, it is good to have a backup stored somewhere off-site. In the old days you would ship physical drives/tapes, which is cumbersome, costly, and slow. With fast upload speeds, it is now possible to upload your data to the cloud. I have found S3 Glacier Deep Archive to be a great solution for this:<p>- It is very cheap ($1/TB/month for US region)
 - Very reliable (99.999999999% data durability, data spread over 3 Av
@@ -631,7 +573,6 @@ We detected a compromise of two unique passwords that were used to access a cust
  - [https://tiramisu.bearblog.dev/dont-be-spooky/](https://tiramisu.bearblog.dev/dont-be-spooky/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 07:27:21+00:00
- - tags: None
 
 <p>Article URL: <a href="https://tiramisu.bearblog.dev/dont-be-spooky/">https://tiramisu.bearblog.dev/dont-be-spooky/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32863175">https://news.ycombinator.com/item?id=32863175</a></p>
@@ -642,7 +583,6 @@ We detected a compromise of two unique passwords that were used to access a cust
  - [https://www.ycombinator.com/companies/diversion/jobs](https://www.ycombinator.com/companies/diversion/jobs)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 07:00:23+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.ycombinator.com/companies/diversion/jobs">https://www.ycombinator.com/companies/diversion/jobs</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32862998">https://news.ycombinator.com/item?id=32862998</a></p>
@@ -653,7 +593,6 @@ We detected a compromise of two unique passwords that were used to access a cust
  - [https://simme.dev/posts/who-watches-the-watchmen/](https://simme.dev/posts/who-watches-the-watchmen/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 06:48:40+00:00
- - tags: None
 
 <p>Article URL: <a href="https://simme.dev/posts/who-watches-the-watchmen/">https://simme.dev/posts/who-watches-the-watchmen/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32862915">https://news.ycombinator.com/item?id=32862915</a></p>
@@ -664,7 +603,6 @@ We detected a compromise of two unique passwords that were used to access a cust
  - [https://news.ycombinator.com/item?id=32862713](https://news.ycombinator.com/item?id=32862713)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 06:16:53+00:00
- - tags: None
 
 <p>My mom got locked out of her 10yr gmail account. She doesn't have access to the phone number she added for 2FA. This is after she has the right password and also has access to the recovery email.<p>This basically locked her out of her whole online life because for all other social accounts she uses sign in with Google.<p>There is no human support, and their support website says if you cannot recover the account, create a new one.</p>
 <hr />
@@ -674,7 +612,6 @@ We detected a compromise of two unique passwords that were used to access a cust
  - [https://news.ycombinator.com/item?id=32862672](https://news.ycombinator.com/item?id=32862672)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 06:09:43+00:00
- - tags: None
 
 <p>Self explanatory.<p>I'm just curious whether companies are open for this. Lately there is more traction towards open-source and whether a person can start contributing to it and later join the core team.<p>one personal example i've read is the developer of nomad levant project was acquihired[1] by hashicorp<p>[0] - https://github.com/hashicorp/levant
 [1] - https://twitter.com/jrasell/status/1230132251893125120</p>
@@ -685,7 +622,6 @@ We detected a compromise of two unique passwords that were used to access a cust
  - [https://www.rollingstone.com/tv-movies/tv-movie-news/facebook-holocaust-film-race-policy-1234592908/](https://www.rollingstone.com/tv-movies/tv-movie-news/facebook-holocaust-film-race-policy-1234592908/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 05:57:39+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.rollingstone.com/tv-movies/tv-movie-news/facebook-holocaust-film-race-policy-1234592908/">https://www.rollingstone.com/tv-movies/tv-movie-news/facebook-holocaust-film-race-policy-1234592908/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32862597">https://news.ycombinator.com/item?id=32862597</a></p>
@@ -696,7 +632,6 @@ We detected a compromise of two unique passwords that were used to access a cust
  - [https://www.usatoday.com/story/news/nation/2022/09/15/food-delivery-robot-confuses-lapd-at-crime-scene/10387511002/](https://www.usatoday.com/story/news/nation/2022/09/15/food-delivery-robot-confuses-lapd-at-crime-scene/10387511002/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 03:40:39+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.usatoday.com/story/news/nation/2022/09/15/food-delivery-robot-confuses-lapd-at-crime-scene/10387511002/">https://www.usatoday.com/story/news/nation/2022/09/15/food-delivery-robot-confuses-lapd-at-crime-scene/10387511002/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32861788">https://news.ycombinator.com/item?id=32861788</a></p>
@@ -707,7 +642,6 @@ We detected a compromise of two unique passwords that were used to access a cust
  - [https://www.bloomberg.com/news/articles/2022-09-15/patagonia-billionaire-who-gave-up-company-skirts-700-million-tax-hit](https://www.bloomberg.com/news/articles/2022-09-15/patagonia-billionaire-who-gave-up-company-skirts-700-million-tax-hit)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 03:36:41+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.bloomberg.com/news/articles/2022-09-15/patagonia-billionaire-who-gave-up-company-skirts-700-million-tax-hit">https://www.bloomberg.com/news/articles/2022-09-15/patagonia-billionaire-who-gave-up-company-skirts-700-million-tax-hit</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32861765">https://news.ycombinator.com/item?id=32861765</a></p>
@@ -718,7 +652,6 @@ We detected a compromise of two unique passwords that were used to access a cust
  - [https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.691.3128&rep=rep1&type=pdf](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.691.3128&rep=rep1&type=pdf)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 02:42:38+00:00
- - tags: None
 
 <p>Article URL: <a href="https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.691.3128&amp;rep=rep1&amp;type=pdf">https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.691.3128&amp;rep=rep1&amp;type=pdf</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32861450">https://news.ycombinator.com/item?id=32861450</a></p>
@@ -729,7 +662,6 @@ We detected a compromise of two unique passwords that were used to access a cust
  - [https://www.androidpolice.com/android-iphone-rcs-give-up-messaging-platform/](https://www.androidpolice.com/android-iphone-rcs-give-up-messaging-platform/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 02:26:16+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.androidpolice.com/android-iphone-rcs-give-up-messaging-platform/">https://www.androidpolice.com/android-iphone-rcs-give-up-messaging-platform/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32861334">https://news.ycombinator.com/item?id=32861334</a></p>
@@ -740,7 +672,6 @@ We detected a compromise of two unique passwords that were used to access a cust
  - [https://f4pga.org/](https://f4pga.org/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 01:51:49+00:00
- - tags: None
 
 <p>Article URL: <a href="https://f4pga.org/">https://f4pga.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32861075">https://news.ycombinator.com/item?id=32861075</a></p>
@@ -751,7 +682,6 @@ We detected a compromise of two unique passwords that were used to access a cust
  - [http://oldvcr.blogspot.com/2022/09/confirmed-mos-76007601-pong-chip-is.html](http://oldvcr.blogspot.com/2022/09/confirmed-mos-76007601-pong-chip-is.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 01:46:27+00:00
- - tags: None
 
 <p>Article URL: <a href="http://oldvcr.blogspot.com/2022/09/confirmed-mos-76007601-pong-chip-is.html">http://oldvcr.blogspot.com/2022/09/confirmed-mos-76007601-pong-chip-is.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32861024">https://news.ycombinator.com/item?id=32861024</a></p>
@@ -762,7 +692,6 @@ We detected a compromise of two unique passwords that were used to access a cust
  - [https://scottaaronson.blog/?p=6718](https://scottaaronson.blog/?p=6718)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 01:17:10+00:00
- - tags: None
 
 <p>Article URL: <a href="https://scottaaronson.blog/?p=6718">https://scottaaronson.blog/?p=6718</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32860778">https://news.ycombinator.com/item?id=32860778</a></p>
@@ -773,7 +702,6 @@ We detected a compromise of two unique passwords that were used to access a cust
  - [https://macwright.com/2022/09/15/hacker-news.html](https://macwright.com/2022/09/15/hacker-news.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 01:12:45+00:00
- - tags: None
 
 <p>Article URL: <a href="https://macwright.com/2022/09/15/hacker-news.html">https://macwright.com/2022/09/15/hacker-news.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32860742">https://news.ycombinator.com/item?id=32860742</a></p>
@@ -784,7 +712,6 @@ We detected a compromise of two unique passwords that were used to access a cust
  - [https://ianthehenry.com/posts/a-cozy-nest-for-your-scripts/](https://ianthehenry.com/posts/a-cozy-nest-for-your-scripts/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 01:02:24+00:00
- - tags: None
 
 <p>Article URL: <a href="https://ianthehenry.com/posts/a-cozy-nest-for-your-scripts/">https://ianthehenry.com/posts/a-cozy-nest-for-your-scripts/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32860664">https://news.ycombinator.com/item?id=32860664</a></p>
@@ -795,7 +722,6 @@ We detected a compromise of two unique passwords that were used to access a cust
  - [https://www.businessinsider.com/tech-workers-paying-for-leg-lengthening-surgery-2022-9](https://www.businessinsider.com/tech-workers-paying-for-leg-lengthening-surgery-2022-9)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-16 00:11:53+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.businessinsider.com/tech-workers-paying-for-leg-lengthening-surgery-2022-9">https://www.businessinsider.com/tech-workers-paying-for-leg-lengthening-surgery-2022-9</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32860250">https://news.ycombinator.com/item?id=32860250</a></p>

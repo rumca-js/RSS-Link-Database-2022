@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Workday expands service that surfaces employee skills
  - [https://www.computerworld.com/article/3673937/workday-expands-service-that-surfaces-employee-skills.html#tk.rss_all](https://www.computerworld.com/article/3673937/workday-expands-service-that-surfaces-employee-skills.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-15 20:05:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3674050/in-the-battle-against-ransomware-organizations-need-to-enhance-their-data-protection-capabilities.html#tk.rss_all](https://www.computerworld.com/article/3674050/in-the-battle-against-ransomware-organizations-need-to-enhance-their-data-protection-capabilities.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-15 17:50:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -29,7 +27,6 @@
  - [https://www.computerworld.com/article/3673934/adobes-20b-figma-acquisition-highlights-web-based-collaboration-trends.html#tk.rss_all](https://www.computerworld.com/article/3673934/adobes-20b-figma-acquisition-highlights-web-based-collaboration-trends.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-15 17:32:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -39,7 +36,6 @@
  - [https://www.computerworld.com/article/3674049/googles-failure-to-quash-eu-antitrust-ruling-has-broad-implications-for-tech-companies.html#tk.rss_all](https://www.computerworld.com/article/3674049/googles-failure-to-quash-eu-antitrust-ruling-has-broad-implications-for-tech-companies.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-15 17:11:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -49,7 +45,6 @@
  - [https://www.computerworld.com/article/3673931/iphone-users-have-become-more-cautious-about-fast-ios-upgrades.html#tk.rss_all](https://www.computerworld.com/article/3673931/iphone-users-have-become-more-cautious-about-fast-ios-upgrades.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-15 15:53:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -60,7 +55,6 @@
  - [https://www.computerworld.com/article/3673092/digital-whiteboards-next-must-have-tool-for-hybrid-teams.html#tk.rss_all](https://www.computerworld.com/article/3673092/digital-whiteboards-next-must-have-tool-for-hybrid-teams.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-15 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

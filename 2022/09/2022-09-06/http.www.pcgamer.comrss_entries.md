@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## Elden Ring multiplayer mod guide: How to play in seamless co-op
  - [https://www.pcgamer.com/is-elden-ring-co-op-multiplayer](https://www.pcgamer.com/is-elden-ring-co-op-multiplayer)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-06 23:27:08+00:00
- - tags: None
 
 What you need to know about Elden Ring's co-op, PvP, and the exciting "seamless co-op" mod.
 
@@ -12,7 +11,6 @@ What you need to know about Elden Ring's co-op, PvP, and the exciting "seamless 
  - [https://www.pcgamer.com/finally-cyberpunk-2077s-broken-police-will-get-a-complete-overhaul](https://www.pcgamer.com/finally-cyberpunk-2077s-broken-police-will-get-a-complete-overhaul)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-06 22:48:39+00:00
- - tags: None
 
 The game's director says "the cop system as well as vehicle-to-vehicle combat" is getting a complete overhaul.
 
@@ -20,7 +18,6 @@ The game's director says "the cop system as well as vehicle-to-vehicle combat" i
  - [https://www.pcgamer.com/nft-expert-imagines-a-hopeful-future-where-poor-people-serve-as-real-life-npcs-in-games](https://www.pcgamer.com/nft-expert-imagines-a-hopeful-future-where-poor-people-serve-as-real-life-npcs-in-games)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-06 22:42:33+00:00
- - tags: None
 
 If you thought gold farming was bad, wait until you see this vision of the future.
 
@@ -28,7 +25,6 @@ If you thought gold farming was bad, wait until you see this vision of the futur
  - [https://www.pcgamer.com/assassins-creed-showcase-announcements-rumor](https://www.pcgamer.com/assassins-creed-showcase-announcements-rumor)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-06 21:13:53+00:00
- - tags: None
 
 Two reports offering the same information claim Japan and 16th century Europe Assassin's Creed games are in development.
 
@@ -36,7 +32,6 @@ Two reports offering the same information claim Japan and 16th century Europe As
  - [https://www.pcgamer.com/overwatch-streamer-disables-his-audio-and-hud-and-still-hits-top-rank-in-6-days](https://www.pcgamer.com/overwatch-streamer-disables-his-audio-and-hud-and-still-hits-top-rank-in-6-days)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-06 20:02:34+00:00
- - tags: None
 
 Bogur hit Grandmaster without sound, a HUD, and at an ugly resolution.
 
@@ -44,7 +39,6 @@ Bogur hit Grandmaster without sound, a HUD, and at an ugly resolution.
  - [https://www.pcgamer.com/this-little-life-sim-is-about-a-teen-witch-who-totally-doesnt-want-to-be-here](https://www.pcgamer.com/this-little-life-sim-is-about-a-teen-witch-who-totally-doesnt-want-to-be-here)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-06 19:43:20+00:00
- - tags: None
 
 Witchy Life Story is about a witch who didn't choose to go on this relaxing countryside detour.
 
@@ -52,7 +46,6 @@ Witchy Life Story is about a witch who didn't choose to go on this relaxing coun
  - [https://www.pcgamer.com/cyberpunk-2077-update-adds-transmog-and-cat-pictures](https://www.pcgamer.com/cyberpunk-2077-update-adds-transmog-and-cat-pictures)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-06 19:28:15+00:00
- - tags: None
 
 The major 1.6 "Edgerunners" update is live now.
 
@@ -60,7 +53,6 @@ The major 1.6 "Edgerunners" update is live now.
  - [https://www.pcgamer.com/best-steering-wheels-for-pc](https://www.pcgamer.com/best-steering-wheels-for-pc)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-06 19:03:21+00:00
- - tags: None
 
 Speed away with the best PC racing wheel for gaming.
 
@@ -68,7 +60,6 @@ Speed away with the best PC racing wheel for gaming.
  - [https://www.pcgamer.com/best-gaming-headset](https://www.pcgamer.com/best-gaming-headset)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-06 18:46:54+00:00
- - tags: None
 
 Treat your ears to some treacle with the best gaming headsets.
 
@@ -76,7 +67,6 @@ Treat your ears to some treacle with the best gaming headsets.
  - [https://www.pcgamer.com/the-next-gundam-game-is-a-free-arena-shooter-hitting-steam-this-month](https://www.pcgamer.com/the-next-gundam-game-is-a-free-arena-shooter-hitting-steam-this-month)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-06 17:24:05+00:00
- - tags: None
 
 Most of them have guns, but my money's on the guy with medieval weaponry.
 
@@ -84,7 +74,6 @@ Most of them have guns, but my money's on the guy with medieval weaponry.
  - [https://www.pcgamer.com/best-pcie-4-ssd-for-gaming](https://www.pcgamer.com/best-pcie-4-ssd-for-gaming)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-06 16:11:53+00:00
- - tags: None
 
 Slay those long load times with a cutting-edge PCIe 4.0 SSD.
 
@@ -92,7 +81,6 @@ Slay those long load times with a cutting-edge PCIe 4.0 SSD.
  - [https://www.pcgamer.com/dredge-is-a-gorgeous-lovecraftian-fishing-rpg-that-deserves-your-attention](https://www.pcgamer.com/dredge-is-a-gorgeous-lovecraftian-fishing-rpg-that-deserves-your-attention)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-06 15:54:04+00:00
- - tags: None
 
 The fishing horror was my favourite thing at gamescom and I'm already desperate for more.
 
@@ -100,7 +88,6 @@ The fishing horror was my favourite thing at gamescom and I'm already desperate 
  - [https://www.pcgamer.com/10-years-of-counter-strike-global-offensive](https://www.pcgamer.com/10-years-of-counter-strike-global-offensive)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-06 15:51:58+00:00
- - tags: None
 
 How Steam's most popular game became its most popular game.
 
@@ -108,7 +95,6 @@ How Steam's most popular game became its most popular game.
  - [https://www.pcgamer.com/returnal-pc-port-all-but-confirmed-by-devs-slideshow-during-talk](https://www.pcgamer.com/returnal-pc-port-all-but-confirmed-by-devs-slideshow-during-talk)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-06 15:44:27+00:00
- - tags: None
 
 These leaks are their own relentless cycle.
 
@@ -116,7 +102,6 @@ These leaks are their own relentless cycle.
  - [https://www.pcgamer.com/cyberpunk-2077-expansion-teaser](https://www.pcgamer.com/cyberpunk-2077-expansion-teaser)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-06 15:40:51+00:00
- - tags: None
 
 CD Projekt has finally unveiled the long-awaited Cyberpunk 2077 expansion, called Phantom Liberty.
 
@@ -124,7 +109,6 @@ CD Projekt has finally unveiled the long-awaited Cyberpunk 2077 expansion, calle
  - [https://www.pcgamer.com/the-capacitor-plague-of-the-early-2000s](https://www.pcgamer.com/the-capacitor-plague-of-the-early-2000s)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-06 14:57:43+00:00
- - tags: None
 
 The very real 'millennium bug' was a dodgy cap fit to burst.
 
@@ -132,7 +116,6 @@ The very real 'millennium bug' was a dodgy cap fit to burst.
  - [https://www.pcgamer.com/best-nvme-ssd](https://www.pcgamer.com/best-nvme-ssd)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-06 14:54:25+00:00
- - tags: None
 
 Our choices for the best NVMe SSDs give you blisteringly fast load times.
 
@@ -140,7 +123,6 @@ Our choices for the best NVMe SSDs give you blisteringly fast load times.
  - [https://www.pcgamer.com/sony-wh1000xm5-headset-review](https://www.pcgamer.com/sony-wh1000xm5-headset-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-06 14:32:34+00:00
- - tags: None
 
 Sony updates its impressive noise-canceling headphones but they're not quite perfection.
 
@@ -148,7 +130,6 @@ Sony updates its impressive noise-canceling headphones but they're not quite per
  - [https://www.pcgamer.com/disney-dreamlight-valley-battle-pass-how-to](https://www.pcgamer.com/disney-dreamlight-valley-battle-pass-how-to)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-06 13:54:30+00:00
- - tags: None
 
 An extra Disney store and battle pass you didn't know you needed.
 
@@ -156,7 +137,6 @@ An extra Disney store and battle pass you didn't know you needed.
  - [https://www.pcgamer.com/oculus-quest-2-120hz-on-by-default](https://www.pcgamer.com/oculus-quest-2-120hz-on-by-default)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-06 13:43:39+00:00
- - tags: None
 
 Hopefully that means greater interest for the speedy refresh across games and apps.
 
@@ -164,7 +144,6 @@ Hopefully that means greater interest for the speedy refresh across games and ap
  - [https://www.pcgamer.com/masayasu-ito-sony-playstation-hardware-retire](https://www.pcgamer.com/masayasu-ito-sony-playstation-hardware-retire)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-06 13:43:37+00:00
- - tags: None
 
 Masayasu Ito lead many an engineering team over the years, improving the PlayStation brand until we finally felt inclined to write about it.
 
@@ -172,7 +151,6 @@ Masayasu Ito lead many an engineering team over the years, improving the PlaySta
  - [https://www.pcgamer.com/wow-classic-players-facing-6-hour-queue-times-to-get-into-the-games-biggest-servers](https://www.pcgamer.com/wow-classic-players-facing-6-hour-queue-times-to-get-into-the-games-biggest-servers)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-06 13:43:24+00:00
- - tags: None
 
 Many players could transfer to lower-pop servers, but would rather wait to keep the advantages that a 'megaserver' brings.
 
@@ -180,7 +158,6 @@ Many players could transfer to lower-pop servers, but would rather wait to keep 
  - [https://www.pcgamer.com/disney-dreamlight-valley-royal-tools](https://www.pcgamer.com/disney-dreamlight-valley-royal-tools)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-06 13:25:52+00:00
- - tags: None
 
 Remember to whistle while you work.
 
@@ -188,7 +165,6 @@ Remember to whistle while you work.
  - [https://www.pcgamer.com/disney-dreamlight-valley-import-avatar-how-to](https://www.pcgamer.com/disney-dreamlight-valley-import-avatar-how-to)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-06 13:00:53+00:00
- - tags: None
 
 If you made your character ahead of time in the free avatar maker, here's how to get your look into the full version of the game.
 
@@ -196,7 +172,6 @@ If you made your character ahead of time in the free avatar maker, here's how to
  - [https://www.pcgamer.com/the-rtx-4080-might-be-subject-to-as-many-memory-switcheroos-as-its-forebearer](https://www.pcgamer.com/the-rtx-4080-might-be-subject-to-as-many-memory-switcheroos-as-its-forebearer)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-06 11:50:42+00:00
- - tags: None
 
 Are the rumours wrong or does Nvidia love to test for every eventuality?
 
@@ -204,7 +179,6 @@ Are the rumours wrong or does Nvidia love to test for every eventuality?
  - [https://www.pcgamer.com/tiktoks-gaming-efforts-have-fallen-prey-to-chinas-tech-crackdown](https://www.pcgamer.com/tiktoks-gaming-efforts-have-fallen-prey-to-chinas-tech-crackdown)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-06 11:24:41+00:00
- - tags: None
 
 A new report shows the company is scaling back its ambitions dramatically as the government continues to pressure the games industry.
 
@@ -212,7 +186,6 @@ A new report shows the company is scaling back its ambitions dramatically as the
  - [https://www.pcgamer.com/disney-dreamlight-valley-release-time-unlock](https://www.pcgamer.com/disney-dreamlight-valley-release-time-unlock)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-06 10:58:03+00:00
- - tags: None
 
 Get ready to start your magical adventure.
 
@@ -220,7 +193,6 @@ Get ready to start your magical adventure.
  - [https://www.pcgamer.com/river-city-ransom-creator-dies](https://www.pcgamer.com/river-city-ransom-creator-dies)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-06 09:59:14+00:00
- - tags: None
 
 Mitsuhiro Yoshida's cult brawler was part of a string of other hits.
 
@@ -228,7 +200,6 @@ Mitsuhiro Yoshida's cult brawler was part of a string of other hits.
  - [https://www.pcgamer.com/todays-wordle-444-answer-hint](https://www.pcgamer.com/todays-wordle-444-answer-hint)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-06 07:01:28+00:00
- - tags: None
 
 Wordle today: The solution and a hint for Tuesday's puzzle.
 
@@ -236,7 +207,6 @@ Wordle today: The solution and a hint for Tuesday's puzzle.
  - [https://www.pcgamer.com/the-rtx-3080-20gb-was-real-after-all](https://www.pcgamer.com/the-rtx-3080-20gb-was-real-after-all)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-06 04:56:52+00:00
- - tags: None
 
 Miners got their greedy hands on them.
 
@@ -244,7 +214,6 @@ Miners got their greedy hands on them.
  - [https://www.pcgamer.com/there-was-a-tiktok-android-app-exploit-that-let-hackers-hijack-accounts-with-one-click](https://www.pcgamer.com/there-was-a-tiktok-android-app-exploit-that-let-hackers-hijack-accounts-with-one-click)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-06 04:13:05+00:00
- - tags: None
 
 One bad link is all it takes.
 
@@ -252,7 +221,6 @@ One bad link is all it takes.
  - [https://www.pcgamer.com/nasas-3d-space-exploration-tool-eyes-on-the-solar-system-now-works-in-browser](https://www.pcgamer.com/nasas-3d-space-exploration-tool-eyes-on-the-solar-system-now-works-in-browser)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-06 03:54:48+00:00
- - tags: None
 
 All you need is a PC and the solar system is yours to explore.
 
@@ -260,6 +228,5 @@ All you need is a PC and the solar system is yours to explore.
  - [https://www.pcgamer.com/new-amd-x670-memory-support-details-revealed](https://www.pcgamer.com/new-amd-x670-memory-support-details-revealed)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-06 03:43:04+00:00
- - tags: None
 
 It'll be on the slowish side if you use four RAM sticks.

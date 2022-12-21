@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## This stealth game challenges you to do murders, then vacuum up the mess
  - [https://www.pcgamer.com/this-stealth-game-challenges-you-to-do-murders-then-vacuum-up-the-mess](https://www.pcgamer.com/this-stealth-game-challenges-you-to-do-murders-then-vacuum-up-the-mess)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 22:45:16+00:00
- - tags: None
 
 Justice Sucks: Tactical Vacuum Action has made me a killing machine.
 
@@ -12,7 +11,6 @@ Justice Sucks: Tactical Vacuum Action has made me a killing machine.
  - [https://www.pcgamer.com/sunday-gold-review](https://www.pcgamer.com/sunday-gold-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 22:34:15+00:00
- - tags: None
 
 A point-and-click adventure/RPG hybrid where you really can't just click on everything.
 
@@ -20,7 +18,6 @@ A point-and-click adventure/RPG hybrid where you really can't just click on ever
  - [https://www.pcgamer.com/uncharted-legacy-of-thieves-collection-releases-on-pc-in-october-with-variable-framerate-and-a-new-ui](https://www.pcgamer.com/uncharted-legacy-of-thieves-collection-releases-on-pc-in-october-with-variable-framerate-and-a-new-ui)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 21:17:10+00:00
- - tags: None
 
 Sony has confirmed the leaked date and released the Uncharted: Legacy of Thieves Collection system requirements.
 
@@ -28,7 +25,6 @@ Sony has confirmed the leaked date and released the Uncharted: Legacy of Thieves
  - [https://www.pcgamer.com/ark-survival-evolved-and-a-legendary-co-op-board-game-are-free-on-epic-next-week](https://www.pcgamer.com/ark-survival-evolved-and-a-legendary-co-op-board-game-are-free-on-epic-next-week)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 20:51:10+00:00
- - tags: None
 
 Ark is a great freebie, but free Gloomhaven is the real treat next week.
 
@@ -36,7 +32,6 @@ Ark is a great freebie, but free Gloomhaven is the real treat next week.
  - [https://www.pcgamer.com/we-finally-know-when-warzone-20-launches](https://www.pcgamer.com/we-finally-know-when-warzone-20-launches)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 20:07:27+00:00
- - tags: None
 
 The standalone sequel to Warzone will arrive during Call of Duty: Modern Warfare 2 Season 1.
 
@@ -44,7 +39,6 @@ The standalone sequel to Warzone will arrive during Call of Duty: Modern Warfare
  - [https://www.pcgamer.com/best-b550-motherboard-for-gaming-amd-ryzen](https://www.pcgamer.com/best-b550-motherboard-for-gaming-amd-ryzen)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 19:54:28+00:00
- - tags: None
 
 The best B550 motherboards can prepare your AMD Ryzen machine for anything.
 
@@ -52,7 +46,6 @@ The best B550 motherboards can prepare your AMD Ryzen machine for anything.
  - [https://www.pcgamer.com/this-flying-car-mod-for-cyberpunk-2077-looks-so-good-it-should-be-a-real-feature](https://www.pcgamer.com/this-flying-car-mod-for-cyberpunk-2077-looks-so-good-it-should-be-a-real-feature)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 19:43:45+00:00
- - tags: None
 
 Driving is for suckers. This is the future.
 
@@ -60,7 +53,6 @@ Driving is for suckers. This is the future.
  - [https://www.pcgamer.com/cheap-graphics-card-deals-today-uk](https://www.pcgamer.com/cheap-graphics-card-deals-today-uk)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 19:32:00+00:00
- - tags: None
 
 Cheap graphics card deals for the UK, regardless of your budget or PC build.
 
@@ -68,7 +60,6 @@ Cheap graphics card deals for the UK, regardless of your budget or PC build.
  - [https://www.pcgamer.com/call-of-duty-modern-warfare-2-will-introduce-destiny-style-raids](https://www.pcgamer.com/call-of-duty-modern-warfare-2-will-introduce-destiny-style-raids)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 19:15:27+00:00
- - tags: None
 
 The word "raid" implies a level of challenge and complexity I hope Infinity Ward manages to deliver.
 
@@ -76,7 +67,6 @@ The word "raid" implies a level of challenge and complexity I hope Infinity Ward
  - [https://www.pcgamer.com/call-of-duty-modern-warfare-2-is-bringing-back-third-person-mode](https://www.pcgamer.com/call-of-duty-modern-warfare-2-is-bringing-back-third-person-mode)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 19:09:00+00:00
- - tags: None
 
 Yea, I don't know how it works either.
 
@@ -84,7 +74,6 @@ Yea, I don't know how it works either.
  - [https://www.pcgamer.com/streamers-are-playing-modern-warfare-2-live-right-now](https://www.pcgamer.com/streamers-are-playing-modern-warfare-2-live-right-now)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 18:43:24+00:00
- - tags: None
 
 Bbreadman just laid out three killstreaks in a row.
 
@@ -92,7 +81,6 @@ Bbreadman just laid out three killstreaks in a row.
  - [https://www.pcgamer.com/call-of-duty-warzone-20-is-coming-for-the-extraction-shooter-crown](https://www.pcgamer.com/call-of-duty-warzone-20-is-coming-for-the-extraction-shooter-crown)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 18:34:25+00:00
- - tags: None
 
 DMZ is Infinity Ward's take on games like Escape from Tarkov and Hunt: Showdown.
 
@@ -100,7 +88,6 @@ DMZ is Infinity Ward's take on games like Escape from Tarkov and Hunt: Showdown.
  - [https://www.pcgamer.com/lil-nas-x-is-president-of-league-of-legends-now-whatever-that-means](https://www.pcgamer.com/lil-nas-x-is-president-of-league-of-legends-now-whatever-that-means)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 17:50:03+00:00
- - tags: None
 
 ¯\_(ツ)_/¯
 
@@ -108,7 +95,6 @@ DMZ is Infinity Ward's take on games like Escape from Tarkov and Hunt: Showdown.
  - [https://www.pcgamer.com/so-it-begins-elden-ring-bags-its-first-goty-award](https://www.pcgamer.com/so-it-begins-elden-ring-bags-its-first-goty-award)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 17:32:28+00:00
- - tags: None
 
 I bet everything on Xenoblade Chronicles 3.
 
@@ -116,7 +102,6 @@ I bet everything on Xenoblade Chronicles 3.
  - [https://www.pcgamer.com/sins-of-a-solar-empire-2-is-reaching-for-the-stars](https://www.pcgamer.com/sins-of-a-solar-empire-2-is-reaching-for-the-stars)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 17:00:00+00:00
- - tags: None
 
 Nearly 15 years after the original launched, Ironclad and Stardock's 4X RTS is back.
 
@@ -124,7 +109,6 @@ Nearly 15 years after the original launched, Ironclad and Stardock's 4X RTS is b
  - [https://www.pcgamer.com/best-gaming-motherboards](https://www.pcgamer.com/best-gaming-motherboards)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 16:45:59+00:00
- - tags: None
 
 The best gaming motherboards from the top Intel and AMD chipsets.
 
@@ -132,7 +116,6 @@ The best gaming motherboards from the top Intel and AMD chipsets.
  - [https://www.pcgamer.com/street-fighter-6-has-a-character-creator-and-of-course-it-has-muscle-sliders](https://www.pcgamer.com/street-fighter-6-has-a-character-creator-and-of-course-it-has-muscle-sliders)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 16:39:52+00:00
- - tags: None
 
 It's ridiculously good.
 
@@ -140,7 +123,6 @@ It's ridiculously good.
  - [https://www.pcgamer.com/deathloop-hits-game-pass-alongside-big-goldenloop-update-and-crossplay](https://www.pcgamer.com/deathloop-hits-game-pass-alongside-big-goldenloop-update-and-crossplay)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 16:28:27+00:00
- - tags: None
 
 A new ability, weapon, enemy, and some upgrades for Julianna.
 
@@ -148,7 +130,6 @@ A new ability, weapon, enemy, and some upgrades for Julianna.
  - [https://www.pcgamer.com/overwatch-1-dies-on-october-2](https://www.pcgamer.com/overwatch-1-dies-on-october-2)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 14:54:25+00:00
- - tags: None
 
 Tick tock tick tock.
 
@@ -156,7 +137,6 @@ Tick tock tick tock.
  - [https://www.pcgamer.com/arrest-warrant-issued-for-lunatic-crypto-baron-behind-this-years-dollar40-billion-crash](https://www.pcgamer.com/arrest-warrant-issued-for-lunatic-crypto-baron-behind-this-years-dollar40-billion-crash)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 14:01:40+00:00
- - tags: None
 
 Do Kwon was a bullish evangelist, but all the talk may now catch up with him.
 
@@ -164,7 +144,6 @@ Do Kwon was a bullish evangelist, but all the talk may now catch up with him.
  - [https://www.pcgamer.com/kojima-has-yet-another-tease-for-us](https://www.pcgamer.com/kojima-has-yet-another-tease-for-us)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 13:41:41+00:00
- - tags: None
 
 Yesterday a VR experience, today a website with a face.
 
@@ -172,7 +151,6 @@ Yesterday a VR experience, today a website with a face.
  - [https://www.pcgamer.com/season-2-of-the-halo-tv-show-starts-production-with-a-new-showrunner-and-new-actors](https://www.pcgamer.com/season-2-of-the-halo-tv-show-starts-production-with-a-new-showrunner-and-new-actors)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 12:09:47+00:00
- - tags: None
 
 Set shots from Iceland show the cheeriest spartans you've ever seen.
 
@@ -180,7 +158,6 @@ Set shots from Iceland show the cheeriest spartans you've ever seen.
  - [https://www.pcgamer.com/disney-dreamlight-valley-clay](https://www.pcgamer.com/disney-dreamlight-valley-clay)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 11:08:35+00:00
- - tags: None
 
 You need this resource for one of Goofy's quests.
 
@@ -188,7 +165,6 @@ You need this resource for one of Goofy's quests.
  - [https://www.pcgamer.com/game-streaming-over-5g](https://www.pcgamer.com/game-streaming-over-5g)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 11:00:21+00:00
- - tags: None
 
 Streaming games to your phone, or tethered PC, laptop, or Steam Deck, and taking gaming on the road.
 
@@ -196,7 +172,6 @@ Streaming games to your phone, or tethered PC, laptop, or Steam Deck, and taking
  - [https://www.pcgamer.com/no-more-deltarune-this-year-but-heres-a-look-at-whats-coming](https://www.pcgamer.com/no-more-deltarune-this-year-but-heres-a-look-at-whats-coming)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 11:00:16+00:00
- - tags: None
 
 'I want this thing to come out the most out of anyone on the planet.'
 
@@ -204,7 +179,6 @@ Streaming games to your phone, or tethered PC, laptop, or Steam Deck, and taking
  - [https://www.pcgamer.com/pc-gamer-is-hiring-a-magazine-editor-in-the-uk](https://www.pcgamer.com/pc-gamer-is-hiring-a-magazine-editor-in-the-uk)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 10:40:50+00:00
- - tags: None
 
 For nearly 30 years, we've been making the best magazine in gaming. We're looking for its next editor.
 
@@ -212,7 +186,6 @@ For nearly 30 years, we've been making the best magazine in gaming. We're lookin
  - [https://www.pcgamer.com/blizzard-overwatch-2-hero-battle-pass-interview](https://www.pcgamer.com/blizzard-overwatch-2-hero-battle-pass-interview)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 10:00:55+00:00
- - tags: None
 
 Blizzard expects Overwatch 2 players to earn new heroes "well before the season ends."
 
@@ -220,7 +193,6 @@ Blizzard expects Overwatch 2 players to earn new heroes "well before the season 
  - [https://www.pcgamer.com/overwatch-2-hero-battle-pass-tier-55](https://www.pcgamer.com/overwatch-2-hero-battle-pass-tier-55)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 10:00:44+00:00
- - tags: None
 
 Expect to play for weeks to get heroes for free.
 
@@ -228,7 +200,6 @@ Expect to play for weeks to get heroes for free.
  - [https://www.pcgamer.com/overwatch-2-support-hero-kiriko](https://www.pcgamer.com/overwatch-2-support-hero-kiriko)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 10:00:13+00:00
- - tags: None
 
 Kiriko can fling kunai, teleport, and empower her allies.
 
@@ -236,7 +207,6 @@ Kiriko can fling kunai, teleport, and empower her allies.
  - [https://www.pcgamer.com/toby-fox-wrote-a-fanfic-to-explain-why-undertales-sans-is-the-ultimate-tumblr-sexyman](https://www.pcgamer.com/toby-fox-wrote-a-fanfic-to-explain-why-undertales-sans-is-the-ultimate-tumblr-sexyman)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 09:55:07+00:00
- - tags: None
 
 Legendary creators pop up in the strangest places.
 
@@ -244,7 +214,6 @@ Legendary creators pop up in the strangest places.
  - [https://www.pcgamer.com/todays-wordle-453-answer-hint](https://www.pcgamer.com/todays-wordle-453-answer-hint)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 07:01:28+00:00
- - tags: None
 
 Wordle today: The solution and a hint for Thursday's puzzle.
 
@@ -252,7 +221,6 @@ Wordle today: The solution and a hint for Thursday's puzzle.
  - [https://www.pcgamer.com/amd-to-showcase-mid-range-b650-motherboards-on-october-4](https://www.pcgamer.com/amd-to-showcase-mid-range-b650-motherboards-on-october-4)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 04:22:50+00:00
- - tags: None
 
 If the high prices of X670 turns you off, these will be the boards for you.
 
@@ -260,7 +228,6 @@ If the high prices of X670 turns you off, these will be the boards for you.
  - [https://www.pcgamer.com/pimax-promises-gifts-among-birthday-celebrations-and-12k-vr-headset-launch](https://www.pcgamer.com/pimax-promises-gifts-among-birthday-celebrations-and-12k-vr-headset-launch)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 03:56:59+00:00
- - tags: None
 
 You'll have to check the Pimax website starting next week to find out what they are.
 
@@ -268,7 +235,6 @@ You'll have to check the Pimax website starting next week to find out what they 
  - [https://www.pcgamer.com/seagates-into-the-spider-verse-styled-portable-hdds-are-stunning](https://www.pcgamer.com/seagates-into-the-spider-verse-styled-portable-hdds-are-stunning)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 03:03:21+00:00
- - tags: None
 
 Anyone can wear the mask.
 
@@ -276,7 +242,6 @@ Anyone can wear the mask.
  - [https://www.pcgamer.com/modern-warfare-2-guns-are-unlocked-like-a-tech-tree](https://www.pcgamer.com/modern-warfare-2-guns-are-unlocked-like-a-tech-tree)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 00:49:07+00:00
- - tags: None
 
 Gunsmith 2.0 is coming.
 
@@ -284,7 +249,6 @@ Gunsmith 2.0 is coming.
  - [https://www.pcgamer.com/dandd-makers-escalate-lawsuit-against-gygax-son-over-trademark-violations-and-a-racist-rpg](https://www.pcgamer.com/dandd-makers-escalate-lawsuit-against-gygax-son-over-trademark-violations-and-a-racist-rpg)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 00:36:12+00:00
- - tags: None
 
 Wizards of the Coast has been involved in legal action against TSR LLC since 2021.
 
@@ -292,7 +256,6 @@ Wizards of the Coast has been involved in legal action against TSR LLC since 202
  - [https://www.pcgamer.com/castlevania-couldve-been-very-different-if-it-followed-the-path-of-pc-exclusive-vampire-killer](https://www.pcgamer.com/castlevania-couldve-been-very-different-if-it-followed-the-path-of-pc-exclusive-vampire-killer)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 00:22:29+00:00
- - tags: None
 
 The castle almost travelled.
 
@@ -300,6 +263,5 @@ The castle almost travelled.
  - [https://www.pcgamer.com/wuthering-waves-is-an-open-world-arpg-with-an-emphasis-on-the-action](https://www.pcgamer.com/wuthering-waves-is-an-open-world-arpg-with-an-emphasis-on-the-action)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-15 00:00:00+00:00
- - tags: None
 
 Dive into this open-world ARPG set in a vast and mysterious post-apocalyptic world.

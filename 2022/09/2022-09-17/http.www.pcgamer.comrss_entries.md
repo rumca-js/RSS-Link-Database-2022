@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## This cartoony cats vs. dogs RTS asserts that humanity's companions cannot live in harmony
  - [https://www.pcgamer.com/this-cartoony-cats-vs-dogs-rts-asserts-that-humanitys-companions-cannot-live-in-harmony](https://www.pcgamer.com/this-cartoony-cats-vs-dogs-rts-asserts-that-humanitys-companions-cannot-live-in-harmony)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-17 23:55:18+00:00
- - tags: None
 
 War is hell, but also very cute in Warpaws.
 
@@ -12,7 +11,6 @@ War is hell, but also very cute in Warpaws.
  - [https://www.pcgamer.com/have-you-learned-a-real-world-skill-from-a-game](https://www.pcgamer.com/have-you-learned-a-real-world-skill-from-a-game)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-17 23:04:37+00:00
- - tags: None
 
 It's not all fun and games.
 
@@ -20,7 +18,6 @@ It's not all fun and games.
  - [https://www.pcgamer.com/saturday-crapshoot-lw](https://www.pcgamer.com/saturday-crapshoot-lw)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-17 22:05:03+00:00
- - tags: None
 
 We're rerunning Richard Cobbett's classic Crapshoot column, in which he rolled the dice and took a chance on obscure games—both good and bad.
 
@@ -28,7 +25,6 @@ We're rerunning Richard Cobbett's classic Crapshoot column, in which he rolled t
  - [https://www.pcgamer.com/disgruntled-employee-spams-players-of-14-year-old-mmo-with-profanity-laden-official-notifications](https://www.pcgamer.com/disgruntled-employee-spams-players-of-14-year-old-mmo-with-profanity-laden-official-notifications)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-17 21:19:23+00:00
- - tags: None
 
 Servers for Wizard101 were temporarily shut down, seemingly in response.
 
@@ -36,7 +32,6 @@ Servers for Wizard101 were temporarily shut down, seemingly in response.
  - [https://www.pcgamer.com/valves-got-the-real-docks-for-steam-deck-at-tokyo-game-show-have-a-look](https://www.pcgamer.com/valves-got-the-real-docks-for-steam-deck-at-tokyo-game-show-have-a-look)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-17 21:12:08+00:00
- - tags: None
 
 Knife fight in the comments over the single USB-C port.
 
@@ -44,7 +39,6 @@ Knife fight in the comments over the single USB-C port.
  - [https://www.pcgamer.com/the-yakuza-series-will-be-called-like-a-dragon-going-forward](https://www.pcgamer.com/the-yakuza-series-will-be-called-like-a-dragon-going-forward)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-17 19:42:55+00:00
- - tags: None
 
 The series name change brings it in line with the Japanese naming.
 
@@ -52,7 +46,6 @@ The series name change brings it in line with the Japanese naming.
  - [https://www.pcgamer.com/elden-ring-board-game-in-the-works-because-of-course-it-is](https://www.pcgamer.com/elden-ring-board-game-in-the-works-because-of-course-it-is)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-17 18:25:55+00:00
- - tags: None
 
 Plus, a look at a Margit, the Fell Omen miniature.
 
@@ -60,7 +53,6 @@ Plus, a look at a Margit, the Fell Omen miniature.
  - [https://www.pcgamer.com/one-of-2019s-best-shooters-is-getting-a-surprise-sequel-from-a-new-developer](https://www.pcgamer.com/one-of-2019s-best-shooters-is-getting-a-surprise-sequel-from-a-new-developer)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-17 17:05:03+00:00
- - tags: None
 
 Phantom Fury brings a new, PS2-throwback aesthetic to follow up Ion Fury.
 
@@ -68,6 +60,5 @@ Phantom Fury brings a new, PS2-throwback aesthetic to follow up Ion Fury.
  - [https://www.pcgamer.com/todays-wordle-455-answer-hint](https://www.pcgamer.com/todays-wordle-455-answer-hint)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-17 07:01:28+00:00
- - tags: None
 
 Wordle today: The solution and a hint for Saturday's puzzle.

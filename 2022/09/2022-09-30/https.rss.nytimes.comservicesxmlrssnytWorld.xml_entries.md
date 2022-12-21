@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## Biden Calls on World to Punish Russia for Attempt to Annex Ukrainian Land
  - [https://www.nytimes.com/2022/09/30/us/biden-putin-russia-ukraine.html](https://www.nytimes.com/2022/09/30/us/biden-putin-russia-ukraine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-30 23:35:08+00:00
- - tags: None
 
 The U.S. imposed new sanctions on Russian officials and companies, and penalized foreign businesses aiding the Russian military. But officials are holding back on energy sanctions.
 
@@ -12,7 +11,6 @@ The U.S. imposed new sanctions on Russian officials and companies, and penalized
  - [https://www.nytimes.com/2022/09/30/world/africa/mckinsey-corruption-case-south-africa.html](https://www.nytimes.com/2022/09/30/world/africa/mckinsey-corruption-case-south-africa.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-30 23:13:37+00:00
- - tags: None
 
 The South African branch of the global consulting firm has been charged in a corruption scandal related to its work with the country’s state-owned freight rail and port operator.
 
@@ -20,7 +18,6 @@ The South African branch of the global consulting firm has been charged in a cor
  - [https://www.nytimes.com/2022/09/30/world/europe/putin-speech-ukraine-russia.html](https://www.nytimes.com/2022/09/30/world/europe/putin-speech-ukraine-russia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-30 23:03:12+00:00
- - tags: None
 
 Declaring that Russia would annex four regions of Ukraine, which the West rejects as illegal, the Russian president accused the U.S. and its allies of “despotism’’ and “Satanism.’’
 
@@ -28,7 +25,6 @@ Declaring that Russia would annex four regions of Ukraine, which the West reject
  - [https://www.nytimes.com/2022/09/30/world/middleeast/yusuf-al-qaradawi-dead.html](https://www.nytimes.com/2022/09/30/world/middleeast/yusuf-al-qaradawi-dead.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-30 20:53:42+00:00
- - tags: None
 
 Considered a moderate by some and an extremist by others, he backed political Islam, attacked Al Qaeda and dispensed advice in a TV show viewed by millions.
 
@@ -36,7 +32,6 @@ Considered a moderate by some and an extremist by others, he backed political Is
  - [https://www.nytimes.com/2022/09/30/world/europe/russian-strikes-ukraine.html](https://www.nytimes.com/2022/09/30/world/europe/russian-strikes-ukraine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-30 20:00:20+00:00
- - tags: None
 
 The strikes killed a total of 30 civilians and wounded 107 in one of the bloodiest attacks in recent weeks.
 
@@ -44,7 +39,6 @@ The strikes killed a total of 30 civilians and wounded 107 in one of the bloodie
  - [https://www.nytimes.com/2022/09/30/sports/soccer/iran-soccer-protests.html](https://www.nytimes.com/2022/09/30/sports/soccer/iran-soccer-protests.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-30 19:48:09+00:00
- - tags: None
 
 Some of the country’s most famous players have expressed support for street protests over the death of a young woman. On Thursday, an activist group went further: It asked FIFA to bar Iran from the World Cup.
 
@@ -52,7 +46,6 @@ Some of the country’s most famous players have expressed support for street pr
  - [https://www.nytimes.com/2022/09/30/world/europe/biden-putin-russia.html](https://www.nytimes.com/2022/09/30/world/europe/biden-putin-russia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-30 19:48:04+00:00
- - tags: None
 
 The president also said that Mr. Putin should not dare to take his fight into NATO territory, underscoring the unity among the alliance.
 
@@ -60,7 +53,6 @@ The president also said that Mr. Putin should not dare to take his fight into NA
  - [https://www.nytimes.com/2022/09/30/world/europe/ukraine-nato-zelensky.html](https://www.nytimes.com/2022/09/30/world/europe/ukraine-nato-zelensky.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-30 17:04:03+00:00
- - tags: None
 
 Ukraine’s desire to join the alliance has long been a source of conflict with Russia, which sees the eastward expansion of NATO as a existential threat.
 
@@ -68,7 +60,6 @@ Ukraine’s desire to join the alliance has long been a source of conflict with 
  - [https://www.nytimes.com/2022/09/30/world/europe/truss-bbc-interviews-tax-cuts.html](https://www.nytimes.com/2022/09/30/world/europe/truss-bbc-interviews-tax-cuts.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-30 16:08:28+00:00
- - tags: None
 
 In a round of interviews, the prime minister showed little sympathy for the pain that high interest rates could inflict on mortgage holders, critics said.
 
@@ -76,7 +67,6 @@ In a round of interviews, the prime minister showed little sympathy for the pain
  - [https://www.nytimes.com/2022/09/30/world/middleeast/iran-protests-government-crackdown.html](https://www.nytimes.com/2022/09/30/world/middleeast/iran-protests-government-crackdown.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-30 16:04:17+00:00
- - tags: None
 
 Dozens of people have been killed in nationwide demonstrations that erupted almost two weeks ago after Mahsa Amini, a 22-year-old woman, died in police custody.
 
@@ -84,7 +74,6 @@ Dozens of people have been killed in nationwide demonstrations that erupted almo
  - [https://www.nytimes.com/2022/09/30/world/americas/cuba-hurricane-ian-protests.html](https://www.nytimes.com/2022/09/30/world/americas/cuba-hurricane-ian-protests.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-30 15:25:11+00:00
- - tags: None
 
 Demonstrators in Havana blocked street traffic, chanting “we want the light.” Many were angry that the lack of electricity this week has rotted what little food they had stored.
 
@@ -92,7 +81,6 @@ Demonstrators in Havana blocked street traffic, chanting “we want the light.�
  - [https://www.nytimes.com/2022/09/30/business/uk-mortgage-markets.html](https://www.nytimes.com/2022/09/30/business/uk-mortgage-markets.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-30 15:13:18+00:00
- - tags: None
 
 The financial turmoil in Britain has led to soaring interest rates, prompting many lenders to withdraw products and stoking worry among homeowners about rising costs.
 
@@ -100,7 +88,6 @@ The financial turmoil in Britain has led to soaring interest rates, prompting ma
  - [https://www.nytimes.com/2022/09/30/world/europe/putin-is-set-to-declare-that-four-regions-of-ukraine-are-part-of-russia-despite-international-condemnation.html](https://www.nytimes.com/2022/09/30/world/europe/putin-is-set-to-declare-that-four-regions-of-ukraine-are-part-of-russia-despite-international-condemnation.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-30 13:40:27+00:00
- - tags: None
 
 
 
@@ -108,7 +95,6 @@ The financial turmoil in Britain has led to soaring interest rates, prompting ma
  - [https://www.nytimes.com/2022/09/30/world/europe/zaporizhzhia-attacks-civilian-deaths.html](https://www.nytimes.com/2022/09/30/world/europe/zaporizhzhia-attacks-civilian-deaths.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-30 13:35:06+00:00
- - tags: None
 
 People in the convoy were waiting to be allowed into Russian-occupied territory to pick up relatives and deliver humanitarian aid, a Ukrainian official said.
 
@@ -116,7 +102,6 @@ People in the convoy were waiting to be allowed into Russian-occupied territory 
  - [https://www.nytimes.com/2022/09/30/arts/television/this-england-coronavirus.html](https://www.nytimes.com/2022/09/30/arts/television/this-england-coronavirus.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-30 13:22:57+00:00
- - tags: None
 
 A new Sky Atlantic mini-series, “This England,” depicts the early days of Covid-19 in the country, with Kenneth Branagh playing Boris Johnson.
 
@@ -124,7 +109,6 @@ A new Sky Atlantic mini-series, “This England,” depicts the early days of Co
  - [https://www.nytimes.com/2022/09/30/world/americas/brazil-election-bolsonaro-lula.html](https://www.nytimes.com/2022/09/30/world/americas/brazil-election-bolsonaro-lula.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-30 12:14:37+00:00
- - tags: None
 
 Jair Bolsonaro has questioned the integrity of Sunday’s election and trails in polls to Luiz Inácio Lula da Silva, a leftist and former president, who was imprisoned amid a corruption scandal.
 
@@ -132,7 +116,6 @@ Jair Bolsonaro has questioned the integrity of Sunday’s election and trails in
  - [https://www.nytimes.com/2022/09/30/world/africa/burkina-faso-coup.html](https://www.nytimes.com/2022/09/30/world/africa/burkina-faso-coup.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-30 11:19:40+00:00
- - tags: None
 
 The state broadcaster briefly went off the air, and soldiers blocked roads in Ouagadougou, the capital. But it was not immediately clear if elements of the military had seized power.
 
@@ -140,7 +123,6 @@ The state broadcaster briefly went off the air, and soldiers blocked roads in Ou
  - [https://www.nytimes.com/2022/09/30/briefing/gerrymandering-maps-districts-republicans-democrats.html](https://www.nytimes.com/2022/09/30/briefing/gerrymandering-maps-districts-republicans-democrats.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-30 10:43:04+00:00
- - tags: None
 
 A Times analysis finds that the House of Representative has its fairest map in 40 years, despite recent gerrymandering.
 
@@ -148,7 +130,6 @@ A Times analysis finds that the House of Representative has its fairest map in 4
  - [https://www.nytimes.com/live/2022/09/30/world/russia-ukraine-war-news](https://www.nytimes.com/live/2022/09/30/world/russia-ukraine-war-news)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-30 10:26:12+00:00
- - tags: None
 
 One attack, on a civilian convoy, killed 25 people in the Zaporizhzhia region, Ukrainian officials said. In Moscow, an elaborate ceremony to absorb four Ukrainian regions is set for Friday, despite global condemnation.
 
@@ -156,7 +137,6 @@ One attack, on a civilian convoy, killed 25 people in the Zaporizhzhia region, U
  - [https://www.nytimes.com/2022/09/30/world/asia/thailand-prime-minister.html](https://www.nytimes.com/2022/09/30/world/asia/thailand-prime-minister.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-30 10:21:54+00:00
- - tags: None
 
 The former general seized power in a 2014 coup. The opposition had argued that the Constitution stipulated he leave office this year.
 
@@ -164,7 +144,6 @@ The former general seized power in a 2014 coup. The opposition had argued that t
  - [https://www.nytimes.com/2022/09/30/world/asia/afghanistan-bombing-girls-education.html](https://www.nytimes.com/2022/09/30/world/asia/afghanistan-bombing-girls-education.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-30 10:21:07+00:00
- - tags: None
 
 The violence was the latest to target the country’s Hazara ethnic minority and increased fears about the Taliban’s ability to provide security for all of their citizens.
 
@@ -172,7 +151,6 @@ The violence was the latest to target the country’s Hazara ethnic minority and
  - [https://www.nytimes.com/2022/09/30/world/europe/us-decries-russian-move-to-annex-parts-of-ukraine-as-a-land-grab.html](https://www.nytimes.com/2022/09/30/world/europe/us-decries-russian-move-to-annex-parts-of-ukraine-as-a-land-grab.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-30 09:41:26+00:00
- - tags: None
 
 
 
@@ -180,7 +158,6 @@ The violence was the latest to target the country’s Hazara ethnic minority and
  - [https://www.nytimes.com/2022/09/30/business/china-mrna-covid-vaccine-indonesia.html](https://www.nytimes.com/2022/09/30/business/china-mrna-covid-vaccine-indonesia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-30 09:32:20+00:00
- - tags: None
 
 Indonesia has cleared an mRNA Covid-19 vaccine developed by a Chinese company. But those types of shots, considered among the most effective, aren’t yet available in China.
 
@@ -188,7 +165,6 @@ Indonesia has cleared an mRNA Covid-19 vaccine developed by a Chinese company. B
  - [https://www.nytimes.com/2022/09/30/world/australia/the-invisible-risks-of-a-town-ruined-by-asbestos.html](https://www.nytimes.com/2022/09/30/world/australia/the-invisible-risks-of-a-town-ruined-by-asbestos.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-30 09:26:26+00:00
- - tags: None
 
 Despite its deadly history, visitors continue to travel to the ghost town of Wittenoom.
 
@@ -196,7 +172,6 @@ Despite its deadly history, visitors continue to travel to the ghost town of Wit
  - [https://www.nytimes.com/2022/09/30/world/europe/putin-is-expected-to-illegally-annex-russian-occupied-parts-of-ukraine-following-sham-votes.html](https://www.nytimes.com/2022/09/30/world/europe/putin-is-expected-to-illegally-annex-russian-occupied-parts-of-ukraine-following-sham-votes.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-30 09:16:45+00:00
- - tags: None
 
 
 
@@ -204,7 +179,6 @@ Despite its deadly history, visitors continue to travel to the ghost town of Wit
  - [https://www.nytimes.com/2022/09/30/world/europe/with-annexation-plans-putin-escalates-a-battle-of-wills-with-the-west.html](https://www.nytimes.com/2022/09/30/world/europe/with-annexation-plans-putin-escalates-a-battle-of-wills-with-the-west.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-30 09:16:10+00:00
- - tags: None
 
 
 
@@ -212,7 +186,6 @@ Despite its deadly history, visitors continue to travel to the ghost town of Wit
  - [https://www.nytimes.com/2022/09/30/world/asia/afghanistan-kabul-taliban-women.html](https://www.nytimes.com/2022/09/30/world/asia/afghanistan-kabul-taliban-women.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-30 09:00:34+00:00
- - tags: None
 
 A single year of extremist rule has turned life upside down for Afghans, especially women. A photographer who has long called the country home captured the jarring changes.
 
@@ -220,7 +193,6 @@ A single year of extremist rule has turned life upside down for Afghans, especia
  - [https://www.nytimes.com/2022/09/30/world/middleeast/iran-protests-haiti-russia-china.html](https://www.nytimes.com/2022/09/30/world/middleeast/iran-protests-haiti-russia-china.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-30 09:00:22+00:00
- - tags: None
 
 Mass protests, once a grave threat to even the fiercest autocrat, have plummeted in effectiveness, a study shows. Factors appear to include polarization, social media and rising nationalist attitudes.
 
@@ -228,7 +200,6 @@ Mass protests, once a grave threat to even the fiercest autocrat, have plummeted
  - [https://www.nytimes.com/2022/09/30/world/europe/delphine-horvilleur-rabbi-judaism.html](https://www.nytimes.com/2022/09/30/world/europe/delphine-horvilleur-rabbi-judaism.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-30 09:00:20+00:00
- - tags: None
 
 With Paris locked down over Passover, a rabbi started holding weekly talks over Zoom about Jewish texts. Thousands have tuned in to hear her reflections on death. “She is my rabbi,” said an atheist.
 
@@ -236,7 +207,6 @@ With Paris locked down over Passover, a rabbi started holding weekly talks over 
  - [https://www.nytimes.com/2022/09/30/world/asia/pacific-islands-summit-washington.html](https://www.nytimes.com/2022/09/30/world/asia/pacific-islands-summit-washington.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-30 05:27:54+00:00
- - tags: None
 
 Beijing’s inroads in a strategic region are pushing the Biden administration to shore up withered ties.
 
@@ -244,7 +214,6 @@ Beijing’s inroads in a strategic region are pushing the Biden administration t
  - [https://www.nytimes.com/2022/09/30/briefing/russia-annex-brazil-hurricane-europe.html](https://www.nytimes.com/2022/09/30/briefing/russia-annex-brazil-hurricane-europe.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-30 04:37:54+00:00
- - tags: None
 
 Russia moves to annex Ukrainian territory.
 
@@ -252,6 +221,5 @@ Russia moves to annex Ukrainian territory.
  - [https://www.nytimes.com/2022/09/29/world/europe/putin-draft-speech.html](https://www.nytimes.com/2022/09/29/world/europe/putin-draft-speech.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-30 00:04:38+00:00
- - tags: None
 
 The Russian president’s remarks came after anger with the draft spilled over into street protests across Russia.

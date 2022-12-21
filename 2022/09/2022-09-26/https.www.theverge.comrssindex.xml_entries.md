@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## NASA just crashed a spacecraft into an asteroid to see what would happen
  - [https://www.theverge.com/2022/9/26/23372818/nasa-dart-crash-asteroid-redirect](https://www.theverge.com/2022/9/26/23372818/nasa-dart-crash-asteroid-redirect)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-26 23:27:31+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/zv-r3EY_uSzkLBGNWFoZme2IwhU=/0x132:764x641/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71419112/Screen_Shot_2022_09_26_at_7.17.42_PM.0.png" />
@@ -17,7 +16,6 @@
  - [https://www.theverge.com/22777072/sony-ps5-playstation-5-console-where-how-to-buy-tips-restock](https://www.theverge.com/22777072/sony-ps5-playstation-5-console-where-how-to-buy-tips-restock)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-26 21:44:45+00:00
- - tags: None
 
 <figure>
       <img alt="A photo showing a front-on view of the disc-based Sony PlayStation 5 standing upright" src="https://cdn.vox-cdn.com/thumbor/aJ3igneIh2JMqWWTmeAUhrMGtR4=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/70498744/vpavic_4278_20201030_0041.0.jpg" />
@@ -30,7 +28,6 @@
  - [https://www.theverge.com/2022/9/26/23373544/sony-playstation-5-ps5-restock-public-queue-console-availability-inventory-check](https://www.theverge.com/2022/9/26/23373544/sony-playstation-5-ps5-restock-public-queue-console-availability-inventory-check)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-26 20:31:42+00:00
- - tags: None
 
 <figure>
       <img alt="Image of a PlayStation DualSense controller in front of an original PlayStation 5." src="https://cdn.vox-cdn.com/thumbor/fn5sclzKiZR_usI7IfbWP2hvZ9A=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71418329/vpavic_4278_20201030_0234.0.jpg" />
@@ -43,7 +40,6 @@
  - [https://www.theverge.com/2022/9/26/23373404/terra-stablecoin-interpol-red-notice-do-kwon-founder](https://www.theverge.com/2022/9/26/23373404/terra-stablecoin-interpol-red-notice-do-kwon-founder)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-26 20:20:13+00:00
- - tags: None
 
 <figure>
       <img alt="A coin is set aflame to reveal a digital wireframe underneath." src="https://cdn.vox-cdn.com/thumbor/-g8lg5pBBfNi8HFC8mo3fNW4eD0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71418237/acastro_220524_STK428_0002.0.jpg" />
@@ -56,7 +52,6 @@
  - [https://www.theverge.com/2022/9/26/23373459/phone-shower-mount-holder-notifications-emails](https://www.theverge.com/2022/9/26/23373459/phone-shower-mount-holder-notifications-emails)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-26 19:57:35+00:00
- - tags: None
 
 <figure>
       <img alt="The Samsung Galaxy Z Fold 3 under a waterfall." src="https://cdn.vox-cdn.com/thumbor/eueH-4Zja1U4cNJzWuvcCul-Tmo=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71418102/dbohn_210819_4722_0001.0.jpg" />
@@ -69,7 +64,6 @@
  - [https://www.theverge.com/2022/9/26/23373289/ifixit-teardown-apple-watch-ultra](https://www.theverge.com/2022/9/26/23373289/ifixit-teardown-apple-watch-ultra)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-26 19:29:51+00:00
- - tags: None
 
 <figure>
       <img alt="A photo detailing the inside of a disassembled Apple Watch Ultra with its screen removed" src="https://cdn.vox-cdn.com/thumbor/ELNkHzI-ZTlP1A965_QAU8yVO2A=/157x0:1434x851/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71417985/Screenshot_2022_09_26_143354.0.jpg" />
@@ -82,7 +76,6 @@
  - [https://www.theverge.com/2022/9/26/23369070/twitch-revenue-split-70-30-streamers-reaction-amazon](https://www.theverge.com/2022/9/26/23369070/twitch-revenue-split-70-30-streamers-reaction-amazon)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-26 19:05:03+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/LSEXXaOiSdfchO-JuHWgy5Shxgs=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71417868/STK044_VRG_Illo_N_Barclay_3_twitch.0.jpg" />
@@ -97,7 +90,6 @@
  - [https://www.theverge.com/2022/9/26/23373221/meta-instagram-facebook-account-switcher-test](https://www.theverge.com/2022/9/26/23373221/meta-instagram-facebook-account-switcher-test)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-26 18:45:10+00:00
- - tags: None
 
 <figure>
       <img alt="Image showing two screenshots of the Instagram account center switcher" src="https://cdn.vox-cdn.com/thumbor/kWoJzkmSrzqaKUADK5D6LbWZNBo=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71417786/Instagram_accounts.0.png" />
@@ -110,7 +102,6 @@
  - [https://www.theverge.com/2022/9/26/23373266/steam-deck-deposit-reservation-buy-valve](https://www.theverge.com/2022/9/26/23373266/steam-deck-deposit-reservation-buy-valve)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-26 18:36:03+00:00
- - tags: None
 
 <figure>
       <img alt="A Steam Deck on a white and orange background." src="https://cdn.vox-cdn.com/thumbor/sXNVANMHZgtbv-zFAZDaLFa-s3E=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71417748/vpavic_220210_5030_0090.0.jpg" />
@@ -123,7 +114,6 @@
  - [https://www.theverge.com/2022/9/26/23372911/substack-reader-web-desktop-rss-client-google-reader](https://www.theverge.com/2022/9/26/23372911/substack-reader-web-desktop-rss-client-google-reader)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-26 18:33:05+00:00
- - tags: None
 
 <figure>
       <img alt="Substack’s new web-based RSS client opened up on a PC. To the bottom right, the mobile version of the app is open on a smartphone." src="https://cdn.vox-cdn.com/thumbor/e-CjOtaKGrYoF2yiq2KjWPGPT6w=/0x248:4524x3264/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71417738/substackwebreader.0.png" />
@@ -136,7 +126,6 @@
  - [https://www.theverge.com/2022/9/26/23372998/instagram-shopping-tab-gone-test](https://www.theverge.com/2022/9/26/23372998/instagram-shopping-tab-gone-test)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-26 17:31:08+00:00
- - tags: None
 
 <figure>
       <img alt="The Instagram camera icon on a pink, blue and black background " src="https://cdn.vox-cdn.com/thumbor/6v0NlmUbfcm-nlUZ8NI4dKtjnsM=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71417485/acastro_STK070__02.0.jpg" />
@@ -150,7 +139,6 @@
  - [https://www.theverge.com/23373116/gudetama-netflix-trailer-release-date](https://www.theverge.com/23373116/gudetama-netflix-trailer-release-date)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-26 17:15:02+00:00
- - tags: None
 
 <figure>
       <img alt="Gudetama asking: “Why bother trying?”" src="https://cdn.vox-cdn.com/thumbor/BJSz5UBNOrv3zUxRfpBogDE9krI=/320x0:1835x1010/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71417393/Screen_Shot_2022_09_26_at_12.39.20_PM.0.png" />
@@ -163,7 +151,6 @@
  - [https://www.theverge.com/2022/9/26/23372838/hurricane-ian-nasa-roll-back-artemis-i-rocket](https://www.theverge.com/2022/9/26/23372838/hurricane-ian-nasa-roll-back-artemis-i-rocket)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-26 16:37:16+00:00
- - tags: None
 
 <figure>
       <img alt="Dark clouds loom over the Artemis I rocket as it sits on a launch pad at Kennedy Space Center." src="https://cdn.vox-cdn.com/thumbor/A_bVg7itr7mXMr_Bn6wLnFk8CCg=/0x82:1600x1149/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71417227/1243523005.0.jpg" />
@@ -173,7 +160,6 @@
  - [https://www.theverge.com/23372992/the-last-of-us-trailer-hbo-watch](https://www.theverge.com/23372992/the-last-of-us-trailer-hbo-watch)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-26 16:19:02+00:00
- - tags: None
 
 <figure>
       <img alt="A very stressed out man looking at a girl." src="https://cdn.vox-cdn.com/thumbor/5cM6x98z-mvCC5uI5Cc8M3xG8Vo=/244x0:2637x1595/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71417138/Screen_Shot_2022_09_26_at_11.49.28_AM.0.png" />
@@ -186,7 +172,6 @@
  - [https://www.theverge.com/2022/9/26/23372949/whatsapp-call-video-audio-chat-share-link-new-feature](https://www.theverge.com/2022/9/26/23372949/whatsapp-call-video-audio-chat-share-link-new-feature)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-26 16:14:09+00:00
- - tags: None
 
 <figure>
       <img alt="Call Links on WhatsApp promo image, displaying simulated screenshots of the feature on two phones, to share a call with a link." src="https://cdn.vox-cdn.com/thumbor/kv2iIPL9Nqp8ap5NVPyhBUbVq0E=/94x0:1107x675/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71417118/whatsapp_calls_1200x768.0.jpeg" />
@@ -199,7 +184,6 @@
  - [https://www.theverge.com/2022/9/26/23372868/australian-hack-disclosure-privacy-laws-optus-data-breach](https://www.theverge.com/2022/9/26/23372868/australian-hack-disclosure-privacy-laws-optus-data-breach)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-26 16:03:36+00:00
- - tags: None
 
 <figure>
       <img alt="A cartoon illustration shows a shadowy figure carrying off a red directory folder, which has a surprised-looking face on its side." src="https://cdn.vox-cdn.com/thumbor/VcefMfv8kwalTT3Rb5hNrRg4494=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71417071/VRG_Illo_STK001_B_Sala_Hacker.0.jpg" />
@@ -212,7 +196,6 @@
  - [https://www.theverge.com/23372876/e3-2023-dates-june-business-gamer-days-industry](https://www.theverge.com/23372876/e3-2023-dates-june-business-gamer-days-industry)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-26 15:57:40+00:00
- - tags: None
 
 <figure>
       <img alt="Two people are playing a game at an arcade cabinet." src="https://cdn.vox-cdn.com/thumbor/4nRO7cODXW8ulM22d2cIkCdrDOk=/6x0:3690x2456/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71416992/1155300997.0.jpg" />
@@ -225,7 +208,6 @@
  - [https://www.theverge.com/2022/9/26/23372783/tesla-gigafactory-fire-berlin-germany-cardboard](https://www.theverge.com/2022/9/26/23372783/tesla-gigafactory-fire-berlin-germany-cardboard)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-26 15:32:33+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/fMxKNzT21ruQyq4XsFn-3cIQKZA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71416919/acastro_180430_1777_tesla_0004.0.jpg" />
@@ -238,7 +220,6 @@
  - [https://www.theverge.com/2022/9/26/23372647/apple-watch-series-7-ipad-air-samsung-galaxy-tab-s8-spigen-charger-sale](https://www.theverge.com/2022/9/26/23372647/apple-watch-series-7-ipad-air-samsung-galaxy-tab-s8-spigen-charger-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-26 15:21:26+00:00
- - tags: None
 
 <figure>
       <img alt="The screen is 20 percent larger on the Apple Watch Series 7" src="https://cdn.vox-cdn.com/thumbor/s06PFmoqVN4N2wmXIsoqNw487wY=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71416875/vpavic_211006_4796_0039.0.jpg" />
@@ -251,7 +232,6 @@
  - [https://www.theverge.com/2022/9/26/23372761/us-airline-wifi-fee-refund-biden-rules](https://www.theverge.com/2022/9/26/23372761/us-airline-wifi-fee-refund-biden-rules)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-26 15:18:26+00:00
- - tags: None
 
 <figure>
       <img alt="An airplane on the tarmac in Los Angeles" src="https://cdn.vox-cdn.com/thumbor/sEogos4ApoPfQBkLysb0hlX0y5Q=/0x1:5100x3401/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71416863/1242900958.0.jpg" />
@@ -264,7 +244,6 @@
  - [https://www.theverge.com/2022/9/26/23372774/vergecast-music-streaming-tiktok-spotify-tunecore](https://www.theverge.com/2022/9/26/23372774/vergecast-music-streaming-tiktok-spotify-tunecore)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-26 15:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="The Vergecast logo with a hand holding a phone. Logos of music platforms in the background" src="https://cdn.vox-cdn.com/thumbor/T4GLmJp804Nb3pvQ8FrSLaAhqQk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71416725/the_new_music_distribution_age_3000x2000px.0.jpg" />
@@ -277,7 +256,6 @@
  - [https://www.theverge.com/23369207/apple-watch-se-2022-review-smartwatch](https://www.theverge.com/23369207/apple-watch-se-2022-review-smartwatch)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-26 15:00:00+00:00
- - tags: None
 
 <p>Apple’s entry-level Watch is exactly just that. Get it if you’ve never had an Apple Watch, or give it to your kids. Otherwise, get a Series watch. </p>
   <p>
@@ -288,7 +266,6 @@
  - [https://www.theverge.com/2022/9/26/23367499/ancestry-genetic-matches-parent-side](https://www.theverge.com/2022/9/26/23367499/ancestry-genetic-matches-parent-side)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-26 14:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Red and purple illustration of DNA." src="https://cdn.vox-cdn.com/thumbor/ystsP_Wgy-6ed9SN_9Oas3IrHR0=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71416417/acastro_170727_1777_0014.0.jpg" />
@@ -301,7 +278,6 @@
  - [https://www.theverge.com/2022/9/26/23372575/apple-iphone-14-india-manufacture-production-china](https://www.theverge.com/2022/9/26/23372575/apple-iphone-14-india-manufacture-production-china)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-26 13:50:39+00:00
- - tags: None
 
 <figure>
       <img alt="The back of the iPhone 14" src="https://cdn.vox-cdn.com/thumbor/KkYLajzGclaUWHCMcjEFNL7MUOA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71416381/226270_IPHONE_14_REGULAR_PHO_akrales_0786.0.jpg" />
@@ -314,7 +290,6 @@
  - [https://www.theverge.com/23372525/avatar-rerelease-2009-theater-the-way-of-water-movie](https://www.theverge.com/23372525/avatar-rerelease-2009-theater-the-way-of-water-movie)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-26 13:17:36+00:00
- - tags: None
 
 <figure>
       <img alt="Avatar" src="https://cdn.vox-cdn.com/thumbor/UT2ak4q8Ps3_bbgozdb4OghpVdY=/64x0:1977x1275/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71416273/avatar16.0.jpg" />
@@ -327,7 +302,6 @@
  - [https://www.theverge.com/23372439/amd-ryzen-9-7900x-cpu-processor-review-benchmark-test](https://www.theverge.com/23372439/amd-ryzen-9-7900x-cpu-processor-review-benchmark-test)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-26 13:03:13+00:00
- - tags: None
 
 <p>2022’s Intel versus AMD battle has only just begun</p>
   <p>
@@ -338,7 +312,6 @@
  - [https://www.theverge.com/23370065/stop-asian-hate-crimes-new-york-chinatown-policing](https://www.theverge.com/23370065/stop-asian-hate-crimes-new-york-chinatown-policing)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-26 12:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/sWOn7aejmIhfMEGzpJV3wfJbaLE=/0x1051:2864x2960/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71415955/d406734f47dd46a53bc0ae7b0e7fce1c81_3U1A1403.0.jpeg" />
@@ -354,7 +327,6 @@
  - [https://www.theverge.com/2022/9/26/23372457/pokemon-ai-generator-stable-diffusion-model](https://www.theverge.com/2022/9/26/23372457/pokemon-ai-generator-stable-diffusion-model)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-26 10:53:33+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/8toMABuvcOaWla7_Qn0hf_qLGp0=/0x0:1536x1024/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71415699/ai_generated_pokemon.0.jpg" />
@@ -367,7 +339,6 @@
  - [https://www.theverge.com/2022/9/26/23372488/oxenfree-2-delay-2023-horror-adventure-game-mysterious-radio-signals-netflix](https://www.theverge.com/2022/9/26/23372488/oxenfree-2-delay-2023-horror-adventure-game-mysterious-radio-signals-netflix)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-26 10:50:54+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/JUuA-Ketq3cNRVA5KLLZsE1WJKQ=/0x0:3240x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71415696/OX2_07.0.jpg" />
@@ -380,7 +351,6 @@
  - [https://www.theverge.com/2022/9/26/23372428/aptx-lossless-hands-on-nuratrue-pro-hd-cd-quality-audio-listening-test](https://www.theverge.com/2022/9/26/23372428/aptx-lossless-hands-on-nuratrue-pro-hd-cd-quality-audio-listening-test)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-26 10:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="The Asus Zenfone 9 next to the NuraTrue Pro earbuds." src="https://cdn.vox-cdn.com/thumbor/VYocc76jcT2dmvPEiwh0MtExBxs=/0x0:6145x4097/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71415644/226315_AptX_Lossless_JPorter_0006.0.jpg" />
@@ -396,7 +366,6 @@
  - [https://www.theverge.com/2022/9/26/23372438/fitbit-changes-update-google-account-new-2025](https://www.theverge.com/2022/9/26/23372438/fitbit-changes-update-google-account-new-2025)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-26 09:34:11+00:00
- - tags: None
 
 <figure>
       <img alt="An illustration of Google’s multicolor “G” logo" src="https://cdn.vox-cdn.com/thumbor/E3afALJflaEYRPWZ12j12g8iGWg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71415595/STK093_Google_01.0.jpg" />
@@ -409,7 +378,6 @@
  - [https://www.theverge.com/2022/9/26/23371372/watch-nasa-dart-collision-asteroid](https://www.theverge.com/2022/9/26/23371372/watch-nasa-dart-collision-asteroid)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-26 09:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="An illustration of two large grey asteroids in space, with a gold spacecraft hurtling towards them." src="https://cdn.vox-cdn.com/thumbor/ymU2k8uRfED8nU4o-X4a4RdlZ80=/375x0:4425x2700/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71415570/dart.0.jpeg" />
@@ -422,7 +390,6 @@
  - [https://www.theverge.com/2022/9/26/23361319/amazon-prime-early-access-sale-deals](https://www.theverge.com/2022/9/26/23361319/amazon-prime-early-access-sale-deals)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-26 05:01:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/upQgLVLRDmp5ORcH94R9qLEB0Ts=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71415400/acastro_181114_1777_amazon_hq2_0006.0.jpg" />

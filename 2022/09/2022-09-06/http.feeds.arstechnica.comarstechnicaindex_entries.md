@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## What we learned driving VW’s new electric ID Buzz
  - [https://arstechnica.com/?p=1878310](https://arstechnica.com/?p=1878310)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-06 22:01:52+00:00
- - tags: None
 
 We've tested a European-spec Buzz, but the US models have to wait until 2024.
 
@@ -12,7 +11,6 @@ We've tested a European-spec Buzz, but the US models have to wait until 2024.
  - [https://arstechnica.com/?p=1878461](https://arstechnica.com/?p=1878461)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-06 21:59:11+00:00
- - tags: None
 
 Grossman, Gilbert talk to us while playing final build, tease a 32-year-old secret.
 
@@ -20,7 +18,6 @@ Grossman, Gilbert talk to us while playing final build, tease a 32-year-old secr
  - [https://arstechnica.com/?p=1875958](https://arstechnica.com/?p=1875958)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-06 21:05:04+00:00
- - tags: None
 
 If previous XPS 15 models have turned you off, this one won't change your mind.
 
@@ -28,7 +25,6 @@ If previous XPS 15 models have turned you off, this one won't change your mind.
  - [https://arstechnica.com/?p=1878462](https://arstechnica.com/?p=1878462)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-06 20:22:37+00:00
- - tags: None
 
 OceanGate Expeditions shot the footage earlier this year with a manned submersible.
 
@@ -36,7 +32,6 @@ OceanGate Expeditions shot the footage earlier this year with a manned submersib
  - [https://arstechnica.com/?p=1878539](https://arstechnica.com/?p=1878539)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-06 20:12:01+00:00
- - tags: None
 
 Ukraine says Russia's military arsenal has dwindled by nearly half.
 
@@ -44,7 +39,6 @@ Ukraine says Russia's military arsenal has dwindled by nearly half.
  - [https://arstechnica.com/?p=1878520](https://arstechnica.com/?p=1878520)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-06 19:39:03+00:00
- - tags: None
 
 FCC aims to release the most accurate US-wide broadband map to date in November.
 
@@ -52,7 +46,6 @@ FCC aims to release the most accurate US-wide broadband map to date in November.
  - [https://arstechnica.com/?p=1878531](https://arstechnica.com/?p=1878531)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-06 19:26:44+00:00
- - tags: None
 
 Security hole exists in a browser component known as Mojo.
 
@@ -60,7 +53,6 @@ Security hole exists in a browser component known as Mojo.
  - [https://arstechnica.com/?p=1878430](https://arstechnica.com/?p=1878430)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-06 18:08:58+00:00
- - tags: None
 
 Selling iPhones without chargers only passes burden on to the consumer, feds say.
 
@@ -68,7 +60,6 @@ Selling iPhones without chargers only passes burden on to the consumer, feds say
  - [https://arstechnica.com/?p=1878320](https://arstechnica.com/?p=1878320)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-06 18:00:48+00:00
- - tags: None
 
 Ars attended a test for the new hybrid endurance prototype car, the 963.
 
@@ -76,7 +67,6 @@ Ars attended a test for the new hybrid endurance prototype car, the 963.
  - [https://arstechnica.com/?p=1878400](https://arstechnica.com/?p=1878400)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-06 17:11:33+00:00
- - tags: None
 
 Google's tablet-focused release is finally coming to large-screen Samsung devices.
 
@@ -84,7 +74,6 @@ Google's tablet-focused release is finally coming to large-screen Samsung device
  - [https://arstechnica.com/?p=1878299](https://arstechnica.com/?p=1878299)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-06 16:52:44+00:00
- - tags: None
 
 Female skeleton was buried with sickle placed across her neck and a padlock on big toe.
 
@@ -92,7 +81,6 @@ Female skeleton was buried with sickle placed across her neck and a padlock on b
  - [https://arstechnica.com/?p=1878367](https://arstechnica.com/?p=1878367)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-06 16:11:19+00:00
- - tags: None
 
 Gallium nitride allows for more ports, smaller size than Apple's charger.
 
@@ -100,7 +88,6 @@ Gallium nitride allows for more ports, smaller size than Apple's charger.
  - [https://arstechnica.com/?p=1877022](https://arstechnica.com/?p=1877022)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-06 15:45:06+00:00
- - tags: None
 
 AI image synthesis goes open source, with big implications.
 
@@ -108,7 +95,6 @@ AI image synthesis goes open source, with big implications.
  - [https://arstechnica.com/?p=1878393](https://arstechnica.com/?p=1878393)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-06 15:29:00+00:00
- - tags: None
 
 This stellar nursery is located in the Large Magellanic Cloud.
 
@@ -116,7 +102,6 @@ This stellar nursery is located in the Large Magellanic Cloud.
  - [https://arstechnica.com/?p=1878390](https://arstechnica.com/?p=1878390)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-06 15:01:13+00:00
- - tags: None
 
 New anthology of British series actually manages to collect the work that makes it great.
 
@@ -124,7 +109,6 @@ New anthology of British series actually manages to collect the work that makes 
  - [https://arstechnica.com/?p=1878377](https://arstechnica.com/?p=1878377)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-06 14:59:16+00:00
- - tags: None
 
 Valve hardware provides a simple, authentic emulated experience.
 
@@ -132,7 +116,6 @@ Valve hardware provides a simple, authentic emulated experience.
  - [https://arstechnica.com/?p=1878376](https://arstechnica.com/?p=1878376)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-06 14:35:38+00:00
- - tags: None
 
 Facebook is reviewing the decision.
 
@@ -140,6 +123,5 @@ Facebook is reviewing the decision.
  - [https://arstechnica.com/?p=1878319](https://arstechnica.com/?p=1878319)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-06 13:43:34+00:00
- - tags: None
 
 "We cannot work with a partner who is completely trampling on those values."

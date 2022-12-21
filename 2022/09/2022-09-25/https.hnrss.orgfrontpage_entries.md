@@ -1,10 +1,9 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage
+# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
 
 ## Downturn Career Decisions
  - [https://lethain.com/downturn-career-decisions/](https://lethain.com/downturn-career-decisions/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 22:47:19+00:00
- - tags: None
 
 <p>Article URL: <a href="https://lethain.com/downturn-career-decisions/">https://lethain.com/downturn-career-decisions/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32977196">https://news.ycombinator.com/item?id=32977196</a></p>
@@ -15,7 +14,6 @@
  - [https://github.com/rochus-keller/LeanQt](https://github.com/rochus-keller/LeanQt)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 22:39:16+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/rochus-keller/LeanQt">https://github.com/rochus-keller/LeanQt</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32977122">https://news.ycombinator.com/item?id=32977122</a></p>
@@ -26,7 +24,6 @@
  - [https://www.bedelstein.com/post/mcmaster-carr](https://www.bedelstein.com/post/mcmaster-carr)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 22:21:52+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.bedelstein.com/post/mcmaster-carr">https://www.bedelstein.com/post/mcmaster-carr</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32976978">https://news.ycombinator.com/item?id=32976978</a></p>
@@ -37,7 +34,6 @@
  - [https://muted.io/guitar-chords/](https://muted.io/guitar-chords/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 22:03:15+00:00
- - tags: None
 
 <p>Article URL: <a href="https://muted.io/guitar-chords/">https://muted.io/guitar-chords/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32976832">https://news.ycombinator.com/item?id=32976832</a></p>
@@ -48,7 +44,6 @@
  - [https://www.ethswarm.org/The-Book-of-Swarm.pdf](https://www.ethswarm.org/The-Book-of-Swarm.pdf)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 21:20:01+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.ethswarm.org/The-Book-of-Swarm.pdf">https://www.ethswarm.org/The-Book-of-Swarm.pdf</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32976390">https://news.ycombinator.com/item?id=32976390</a></p>
@@ -59,7 +54,6 @@
  - [https://www.youtube.com/watch?v=BlaY8kSTO28](https://www.youtube.com/watch?v=BlaY8kSTO28)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 21:11:50+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.youtube.com/watch?v=BlaY8kSTO28">https://www.youtube.com/watch?v=BlaY8kSTO28</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32976298">https://news.ycombinator.com/item?id=32976298</a></p>
@@ -70,7 +64,6 @@
  - [https://deepsub.substack.com/p/coming-soon](https://deepsub.substack.com/p/coming-soon)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 19:56:51+00:00
- - tags: None
 
 <p>Article URL: <a href="https://deepsub.substack.com/p/coming-soon">https://deepsub.substack.com/p/coming-soon</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32975377">https://news.ycombinator.com/item?id=32975377</a></p>
@@ -81,7 +74,6 @@
  - [https://www.bedelstein.com/post/the-curious-design-of-skateboard-trucks](https://www.bedelstein.com/post/the-curious-design-of-skateboard-trucks)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 19:50:37+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.bedelstein.com/post/the-curious-design-of-skateboard-trucks">https://www.bedelstein.com/post/the-curious-design-of-skateboard-trucks</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32975312">https://news.ycombinator.com/item?id=32975312</a></p>
@@ -92,7 +84,6 @@
  - [https://www.nytimes.com/1977/08/14/archives/new-frontiers-in-american-philosophy-philosophy.html](https://www.nytimes.com/1977/08/14/archives/new-frontiers-in-american-philosophy-philosophy.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 19:39:41+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.nytimes.com/1977/08/14/archives/new-frontiers-in-american-philosophy-philosophy.html">https://www.nytimes.com/1977/08/14/archives/new-frontiers-in-american-philosophy-philosophy.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32975193">https://news.ycombinator.com/item?id=32975193</a></p>
@@ -103,7 +94,6 @@
  - [https://twitter.com/foone/status/1572260363764400129](https://twitter.com/foone/status/1572260363764400129)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 19:38:28+00:00
- - tags: None
 
 <p>Article URL: <a href="https://twitter.com/foone/status/1572260363764400129">https://twitter.com/foone/status/1572260363764400129</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32975173">https://news.ycombinator.com/item?id=32975173</a></p>
@@ -114,7 +104,6 @@
  - [https://twitter.com/elonmusk/status/1574112663864430593](https://twitter.com/elonmusk/status/1574112663864430593)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 19:33:07+00:00
- - tags: None
 
 <p>Article URL: <a href="https://twitter.com/elonmusk/status/1574112663864430593">https://twitter.com/elonmusk/status/1574112663864430593</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32975121">https://news.ycombinator.com/item?id=32975121</a></p>
@@ -125,7 +114,6 @@
  - [https://scholars-stage.org/tradition-is-smarter-than-you-are/](https://scholars-stage.org/tradition-is-smarter-than-you-are/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 19:17:46+00:00
- - tags: None
 
 <p>Article URL: <a href="https://scholars-stage.org/tradition-is-smarter-than-you-are/">https://scholars-stage.org/tradition-is-smarter-than-you-are/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32974959">https://news.ycombinator.com/item?id=32974959</a></p>
@@ -136,7 +124,6 @@
  - [https://paliparan.com/2022/09/25/train-travel-uk-foreigners-perspective/](https://paliparan.com/2022/09/25/train-travel-uk-foreigners-perspective/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 19:05:44+00:00
- - tags: None
 
 <p>Article URL: <a href="https://paliparan.com/2022/09/25/train-travel-uk-foreigners-perspective/">https://paliparan.com/2022/09/25/train-travel-uk-foreigners-perspective/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32974829">https://news.ycombinator.com/item?id=32974829</a></p>
@@ -147,7 +134,6 @@
  - [https://fabiensanglard.net/cpsb/index.html](https://fabiensanglard.net/cpsb/index.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 19:05:03+00:00
- - tags: None
 
 <p>Article URL: <a href="https://fabiensanglard.net/cpsb/index.html">https://fabiensanglard.net/cpsb/index.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32974824">https://news.ycombinator.com/item?id=32974824</a></p>
@@ -158,7 +144,6 @@
  - [https://github.com/jefflomax/word-writer-6-commodore-64](https://github.com/jefflomax/word-writer-6-commodore-64)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 18:57:56+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/jefflomax/word-writer-6-commodore-64">https://github.com/jefflomax/word-writer-6-commodore-64</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32974741">https://news.ycombinator.com/item?id=32974741</a></p>
@@ -169,7 +154,6 @@
  - [https://www.wired.com/story/iran-protests-2022-internet-shutdown-whatsapp/](https://www.wired.com/story/iran-protests-2022-internet-shutdown-whatsapp/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 18:43:46+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.wired.com/story/iran-protests-2022-internet-shutdown-whatsapp/">https://www.wired.com/story/iran-protests-2022-internet-shutdown-whatsapp/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32974548">https://news.ycombinator.com/item?id=32974548</a></p>
@@ -180,7 +164,6 @@
  - [https://www.theguardian.com/science/2022/sep/25/target-venus-not-mars-for-first-crewed-mission-to-another-planet-experts-say](https://www.theguardian.com/science/2022/sep/25/target-venus-not-mars-for-first-crewed-mission-to-another-planet-experts-say)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 17:33:02+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.theguardian.com/science/2022/sep/25/target-venus-not-mars-for-first-crewed-mission-to-another-planet-experts-say">https://www.theguardian.com/science/2022/sep/25/target-venus-not-mars-for-first-crewed-mission-to-another-planet-experts-say</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32973739">https://news.ycombinator.com/item?id=32973739</a></p>
@@ -191,7 +174,6 @@
  - [https://www.bloomberg.com/news/articles/2022-09-25/germany-nabs-uae-gas-deal-as-energy-squeeze-tightens](https://www.bloomberg.com/news/articles/2022-09-25/germany-nabs-uae-gas-deal-as-energy-squeeze-tightens)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 17:17:01+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.bloomberg.com/news/articles/2022-09-25/germany-nabs-uae-gas-deal-as-energy-squeeze-tightens">https://www.bloomberg.com/news/articles/2022-09-25/germany-nabs-uae-gas-deal-as-energy-squeeze-tightens</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32973534">https://news.ycombinator.com/item?id=32973534</a></p>
@@ -202,7 +184,6 @@
  - [https://news.ycombinator.com/item?id=32973303](https://news.ycombinator.com/item?id=32973303)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 16:57:16+00:00
- - tags: None
 
 <p>Hi all - with gmail recently instituting a storage limit, I'm starting to run into trouble with my usual gmail account. I'm recognizing the era of free everything is over, but I'd rather pay an organization that takes privacy seriously.<p>What is an email service you would recommend that will not be categorized as spam if I email the conventional gmail etc accounts?<p>Thanks</p>
 <hr />
@@ -212,7 +193,6 @@
  - [http://annas-blog.org/blog-3x-new-books.html](http://annas-blog.org/blog-3x-new-books.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 16:24:13+00:00
- - tags: None
 
 <p>Article URL: <a href="http://annas-blog.org/blog-3x-new-books.html">http://annas-blog.org/blog-3x-new-books.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32972923">https://news.ycombinator.com/item?id=32972923</a></p>
@@ -223,7 +203,6 @@
  - [https://herbsutter.com/2022/09/25/something-i-implemented-today-is-void/](https://herbsutter.com/2022/09/25/something-i-implemented-today-is-void/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 16:22:34+00:00
- - tags: None
 
 <p>Article URL: <a href="https://herbsutter.com/2022/09/25/something-i-implemented-today-is-void/">https://herbsutter.com/2022/09/25/something-i-implemented-today-is-void/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32972904">https://news.ycombinator.com/item?id=32972904</a></p>
@@ -234,7 +213,6 @@
  - [https://www.joeantonakakis.com/posts/divide-without-division-operator/](https://www.joeantonakakis.com/posts/divide-without-division-operator/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 16:09:46+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.joeantonakakis.com/posts/divide-without-division-operator/">https://www.joeantonakakis.com/posts/divide-without-division-operator/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32972763">https://news.ycombinator.com/item?id=32972763</a></p>
@@ -245,7 +223,6 @@
  - [https://www.outsideonline.com/outdoor-adventure/exploration-survival/body-electric/](https://www.outsideonline.com/outdoor-adventure/exploration-survival/body-electric/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 15:31:38+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.outsideonline.com/outdoor-adventure/exploration-survival/body-electric/">https://www.outsideonline.com/outdoor-adventure/exploration-survival/body-electric/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32972291">https://news.ycombinator.com/item?id=32972291</a></p>
@@ -256,7 +233,6 @@
  - [https://branch.climateaction.tech/issues/issue-4/cows/](https://branch.climateaction.tech/issues/issue-4/cows/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 15:25:42+00:00
- - tags: None
 
 <p>Article URL: <a href="https://branch.climateaction.tech/issues/issue-4/cows/">https://branch.climateaction.tech/issues/issue-4/cows/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32972231">https://news.ycombinator.com/item?id=32972231</a></p>
@@ -267,7 +243,6 @@
  - [https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41](https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 15:04:35+00:00
- - tags: None
 
 <p>Article URL: <a href="https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41">https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32972004">https://news.ycombinator.com/item?id=32972004</a></p>
@@ -278,7 +253,6 @@
  - [https://lawstreetmedia.com/news/citing-new-evidence-surviving-family-members-sue-feds-raytheon-and-lockheed-martin-over-1996-twa-crash/](https://lawstreetmedia.com/news/citing-new-evidence-surviving-family-members-sue-feds-raytheon-and-lockheed-martin-over-1996-twa-crash/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 15:00:19+00:00
- - tags: None
 
 <p>Article URL: <a href="https://lawstreetmedia.com/news/citing-new-evidence-surviving-family-members-sue-feds-raytheon-and-lockheed-martin-over-1996-twa-crash/">https://lawstreetmedia.com/news/citing-new-evidence-surviving-family-members-sue-feds-raytheon-and-lockheed-martin-over-1996-twa-crash/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32971956">https://news.ycombinator.com/item?id=32971956</a></p>
@@ -289,7 +263,6 @@
  - [https://www.huckmag.com/perspectives/the-real-reasons-young-people-are-choosing-sobriety/](https://www.huckmag.com/perspectives/the-real-reasons-young-people-are-choosing-sobriety/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 14:57:23+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.huckmag.com/perspectives/the-real-reasons-young-people-are-choosing-sobriety/">https://www.huckmag.com/perspectives/the-real-reasons-young-people-are-choosing-sobriety/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32971936">https://news.ycombinator.com/item?id=32971936</a></p>
@@ -300,7 +273,6 @@
  - [https://pdfgrep.org/](https://pdfgrep.org/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 14:38:50+00:00
- - tags: None
 
 <p>Article URL: <a href="https://pdfgrep.org/">https://pdfgrep.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32971748">https://news.ycombinator.com/item?id=32971748</a></p>
@@ -311,7 +283,6 @@
  - [https://www.politico.eu/article/kazakh-president-we-must-flip-the-switch-of-reform/](https://www.politico.eu/article/kazakh-president-we-must-flip-the-switch-of-reform/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 14:37:25+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.politico.eu/article/kazakh-president-we-must-flip-the-switch-of-reform/">https://www.politico.eu/article/kazakh-president-we-must-flip-the-switch-of-reform/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32971727">https://news.ycombinator.com/item?id=32971727</a></p>
@@ -322,7 +293,6 @@
  - [https://www.washingtonpost.com/opinions/2022/09/12/worker-shortage-public-sector-crisis/](https://www.washingtonpost.com/opinions/2022/09/12/worker-shortage-public-sector-crisis/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 14:30:38+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.washingtonpost.com/opinions/2022/09/12/worker-shortage-public-sector-crisis/">https://www.washingtonpost.com/opinions/2022/09/12/worker-shortage-public-sector-crisis/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32971669">https://news.ycombinator.com/item?id=32971669</a></p>
@@ -333,7 +303,6 @@
  - [https://www.angstronomics.com/p/ps5-refresh-oberon-plus](https://www.angstronomics.com/p/ps5-refresh-oberon-plus)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 14:28:29+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.angstronomics.com/p/ps5-refresh-oberon-plus">https://www.angstronomics.com/p/ps5-refresh-oberon-plus</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32971646">https://news.ycombinator.com/item?id=32971646</a></p>
@@ -344,7 +313,6 @@
  - [https://news.ycombinator.com/item?id=32971599](https://news.ycombinator.com/item?id=32971599)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 14:20:47+00:00
- - tags: None
 
 <p>I’ve come from JS in VSCode (with loads of extensions) to Swift in Xcode. 
 In XCTest, I miss the red and green diffs between expected output and actual output.
@@ -357,7 +325,6 @@ I also miss linting / prettier.<p>What tools and plugins for Xcode do you all us
  - [https://edition.cnn.com/2022/09/25/politics/havana-syndrome-cia-doctor-cnn-special/index.html](https://edition.cnn.com/2022/09/25/politics/havana-syndrome-cia-doctor-cnn-special/index.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 14:15:49+00:00
- - tags: None
 
 <p>Article URL: <a href="https://edition.cnn.com/2022/09/25/politics/havana-syndrome-cia-doctor-cnn-special/index.html">https://edition.cnn.com/2022/09/25/politics/havana-syndrome-cia-doctor-cnn-special/index.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32971553">https://news.ycombinator.com/item?id=32971553</a></p>
@@ -368,7 +335,6 @@ I also miss linting / prettier.<p>What tools and plugins for Xcode do you all us
  - [https://www.cbsnews.com/news/fed-interest-rates-unemployment-inflation/](https://www.cbsnews.com/news/fed-interest-rates-unemployment-inflation/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 14:07:35+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.cbsnews.com/news/fed-interest-rates-unemployment-inflation/">https://www.cbsnews.com/news/fed-interest-rates-unemployment-inflation/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32971474">https://news.ycombinator.com/item?id=32971474</a></p>
@@ -379,7 +345,6 @@ I also miss linting / prettier.<p>What tools and plugins for Xcode do you all us
  - [https://applewatchrunner.substack.com/p/apple-watch-running-review](https://applewatchrunner.substack.com/p/apple-watch-running-review)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 13:23:15+00:00
- - tags: None
 
 <p>Article URL: <a href="https://applewatchrunner.substack.com/p/apple-watch-running-review">https://applewatchrunner.substack.com/p/apple-watch-running-review</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32971085">https://news.ycombinator.com/item?id=32971085</a></p>
@@ -390,7 +355,6 @@ I also miss linting / prettier.<p>What tools and plugins for Xcode do you all us
  - [https://www.sciencedirect.com/science/article/abs/pii/S0165032722010643](https://www.sciencedirect.com/science/article/abs/pii/S0165032722010643)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 12:45:31+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165032722010643">https://www.sciencedirect.com/science/article/abs/pii/S0165032722010643</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32970778">https://news.ycombinator.com/item?id=32970778</a></p>
@@ -401,7 +365,6 @@ I also miss linting / prettier.<p>What tools and plugins for Xcode do you all us
  - [https://fortune.com/2022/09/24/europe-energy-crisis-winter-natural-gas-putin/](https://fortune.com/2022/09/24/europe-energy-crisis-winter-natural-gas-putin/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 12:31:05+00:00
- - tags: None
 
 <p>Article URL: <a href="https://fortune.com/2022/09/24/europe-energy-crisis-winter-natural-gas-putin/">https://fortune.com/2022/09/24/europe-energy-crisis-winter-natural-gas-putin/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32970706">https://news.ycombinator.com/item?id=32970706</a></p>
@@ -412,7 +375,6 @@ I also miss linting / prettier.<p>What tools and plugins for Xcode do you all us
  - [https://www.esquire.com/news-politics/politics/a41355745/hurricane-fiona-climate-change/](https://www.esquire.com/news-politics/politics/a41355745/hurricane-fiona-climate-change/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 12:19:20+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.esquire.com/news-politics/politics/a41355745/hurricane-fiona-climate-change/">https://www.esquire.com/news-politics/politics/a41355745/hurricane-fiona-climate-change/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32970645">https://news.ycombinator.com/item?id=32970645</a></p>
@@ -423,7 +385,6 @@ I also miss linting / prettier.<p>What tools and plugins for Xcode do you all us
  - [https://support.google.com/photos/thread/180787712/corrupted-photos?hl=en](https://support.google.com/photos/thread/180787712/corrupted-photos?hl=en)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 12:15:58+00:00
- - tags: None
 
 <p>Article URL: <a href="https://support.google.com/photos/thread/180787712/corrupted-photos?hl=en">https://support.google.com/photos/thread/180787712/corrupted-photos?hl=en</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32970623">https://news.ycombinator.com/item?id=32970623</a></p>
@@ -434,7 +395,6 @@ I also miss linting / prettier.<p>What tools and plugins for Xcode do you all us
  - [https://threadreaderapp.com/thread/1567929340737863680.html](https://threadreaderapp.com/thread/1567929340737863680.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 11:49:46+00:00
- - tags: None
 
 <p>Article URL: <a href="https://threadreaderapp.com/thread/1567929340737863680.html">https://threadreaderapp.com/thread/1567929340737863680.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32970509">https://news.ycombinator.com/item?id=32970509</a></p>
@@ -445,7 +405,6 @@ I also miss linting / prettier.<p>What tools and plugins for Xcode do you all us
  - [https://twitter.com/BurggrabenH/status/1567929340737863680](https://twitter.com/BurggrabenH/status/1567929340737863680)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 11:49:46+00:00
- - tags: None
 
 <p>Article URL: <a href="https://twitter.com/BurggrabenH/status/1567929340737863680">https://twitter.com/BurggrabenH/status/1567929340737863680</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32970509">https://news.ycombinator.com/item?id=32970509</a></p>
@@ -456,7 +415,6 @@ I also miss linting / prettier.<p>What tools and plugins for Xcode do you all us
  - [https://news.ycombinator.com/item?id=32970436](https://news.ycombinator.com/item?id=32970436)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 11:31:43+00:00
- - tags: None
 
 <p>We all know about the tyranny of user-upvoted content. Some good posts fall through the cracks and never get the attention they deserve.<p>But I think HN is suffering from a slightly different problem. There are so many good posts that often extremely relevant and well received content never even hits my front page, and I am on this site <i>a lot</i>. I often use the "Search" feature to surface articles I am interested about, and many times I happen upon posts in the 100+ votes from the past 
 
@@ -464,7 +422,6 @@ I also miss linting / prettier.<p>What tools and plugins for Xcode do you all us
  - [https://wyclif.substack.com/p/self-control-secrets-of-the-puritan](https://wyclif.substack.com/p/self-control-secrets-of-the-puritan)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 11:31:04+00:00
- - tags: None
 
 <p>Article URL: <a href="https://wyclif.substack.com/p/self-control-secrets-of-the-puritan">https://wyclif.substack.com/p/self-control-secrets-of-the-puritan</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32970435">https://news.ycombinator.com/item?id=32970435</a></p>
@@ -475,7 +432,6 @@ I also miss linting / prettier.<p>What tools and plugins for Xcode do you all us
  - [https://translate.i18next.com](https://translate.i18next.com)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 11:14:17+00:00
- - tags: None
 
 <p>Article URL: <a href="https://translate.i18next.com">https://translate.i18next.com</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32970353">https://news.ycombinator.com/item?id=32970353</a></p>
@@ -486,7 +442,6 @@ I also miss linting / prettier.<p>What tools and plugins for Xcode do you all us
  - [https://twitchard.github.io/posts/2022-09-23-system-dynamics-schmystem-dynamics.html](https://twitchard.github.io/posts/2022-09-23-system-dynamics-schmystem-dynamics.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 10:54:03+00:00
- - tags: None
 
 <p>Article URL: <a href="https://twitchard.github.io/posts/2022-09-23-system-dynamics-schmystem-dynamics.html">https://twitchard.github.io/posts/2022-09-23-system-dynamics-schmystem-dynamics.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32970265">https://news.ycombinator.com/item?id=32970265</a></p>
@@ -497,7 +452,6 @@ I also miss linting / prettier.<p>What tools and plugins for Xcode do you all us
  - [https://fusectore.dev/2022/09/25/github-actions-pitfalls.html](https://fusectore.dev/2022/09/25/github-actions-pitfalls.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 10:32:04+00:00
- - tags: None
 
 <p>Article URL: <a href="https://fusectore.dev/2022/09/25/github-actions-pitfalls.html">https://fusectore.dev/2022/09/25/github-actions-pitfalls.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32970198">https://news.ycombinator.com/item?id=32970198</a></p>
@@ -508,7 +462,6 @@ I also miss linting / prettier.<p>What tools and plugins for Xcode do you all us
  - [https://github.com/secretGeek/dod](https://github.com/secretGeek/dod)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 10:02:43+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/secretGeek/dod">https://github.com/secretGeek/dod</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32970096">https://news.ycombinator.com/item?id=32970096</a></p>
@@ -519,7 +472,6 @@ I also miss linting / prettier.<p>What tools and plugins for Xcode do you all us
  - [https://raf.org/rawhide/README.html](https://raf.org/rawhide/README.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 09:54:53+00:00
- - tags: None
 
 <p>Article URL: <a href="https://raf.org/rawhide/README.html">https://raf.org/rawhide/README.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32970069">https://news.ycombinator.com/item?id=32970069</a></p>
@@ -530,7 +482,6 @@ I also miss linting / prettier.<p>What tools and plugins for Xcode do you all us
  - [https://github.com/libjxl/libjxl/releases/tag/v0.7.0](https://github.com/libjxl/libjxl/releases/tag/v0.7.0)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 09:41:26+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/libjxl/libjxl/releases/tag/v0.7.0">https://github.com/libjxl/libjxl/releases/tag/v0.7.0</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32970037">https://news.ycombinator.com/item?id=32970037</a></p>
@@ -541,7 +492,6 @@ I also miss linting / prettier.<p>What tools and plugins for Xcode do you all us
  - [https://docs.google.com/presentation/d/1HwLNSyHxy203eptO9cbTmr7CH23sBGtTrfOmJf9n0ug/edit?usp=sharing&resourcekey=0-GH5F3wdP7D4dmxvLdBaMvw](https://docs.google.com/presentation/d/1HwLNSyHxy203eptO9cbTmr7CH23sBGtTrfOmJf9n0ug/edit?usp=sharing&resourcekey=0-GH5F3wdP7D4dmxvLdBaMvw)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 09:11:33+00:00
- - tags: None
 
 <p>Article URL: <a href="https://docs.google.com/presentation/d/1HwLNSyHxy203eptO9cbTmr7CH23sBGtTrfOmJf9n0ug/edit?usp=sharing&amp;resourcekey=0-GH5F3wdP7D4dmxvLdBaMvw">https://docs.google.com/presentation/d/1HwLNSyHxy203eptO9cbTmr7CH23sBGtTrfOmJf9n0ug/edit?usp=sharing&amp;resourcekey=0-GH5F3wdP7D4dmxvLdBaMvw</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32969957">https://news.ycombinator.com/item?id=32969957</a></p>
@@ -552,7 +502,6 @@ I also miss linting / prettier.<p>What tools and plugins for Xcode do you all us
  - [https://liam-on-linux.dreamwidth.org/86995.html](https://liam-on-linux.dreamwidth.org/86995.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 07:57:55+00:00
- - tags: None
 
 <p>Article URL: <a href="https://liam-on-linux.dreamwidth.org/86995.html">https://liam-on-linux.dreamwidth.org/86995.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32969692">https://news.ycombinator.com/item?id=32969692</a></p>
@@ -563,7 +512,6 @@ I also miss linting / prettier.<p>What tools and plugins for Xcode do you all us
  - [https://apply.workable.com/stackerhq/j/32E1D43CF5/](https://apply.workable.com/stackerhq/j/32E1D43CF5/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 07:05:46+00:00
- - tags: None
 
 <p>Article URL: <a href="https://apply.workable.com/stackerhq/j/32E1D43CF5/">https://apply.workable.com/stackerhq/j/32E1D43CF5/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32969515">https://news.ycombinator.com/item?id=32969515</a></p>
@@ -574,7 +522,6 @@ I also miss linting / prettier.<p>What tools and plugins for Xcode do you all us
  - [http://oldvcr.blogspot.com/2022/09/the-mips-thinkpad-kind-of.html](http://oldvcr.blogspot.com/2022/09/the-mips-thinkpad-kind-of.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 06:37:47+00:00
- - tags: None
 
 <p>Article URL: <a href="http://oldvcr.blogspot.com/2022/09/the-mips-thinkpad-kind-of.html">http://oldvcr.blogspot.com/2022/09/the-mips-thinkpad-kind-of.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32969413">https://news.ycombinator.com/item?id=32969413</a></p>
@@ -585,7 +532,6 @@ I also miss linting / prettier.<p>What tools and plugins for Xcode do you all us
  - [https://acceldataio.medium.com/data-engineering-best-practices-how-netflix-keeps-its-data-infrastructure-cost-effective-dee310bcc910](https://acceldataio.medium.com/data-engineering-best-practices-how-netflix-keeps-its-data-infrastructure-cost-effective-dee310bcc910)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 06:34:40+00:00
- - tags: None
 
 <p>Article URL: <a href="https://acceldataio.medium.com/data-engineering-best-practices-how-netflix-keeps-its-data-infrastructure-cost-effective-dee310bcc910">https://acceldataio.medium.com/data-engineering-best-practices-how-netflix-keeps-its-data-infrastructure-cost-effective-dee310bcc910</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32969400">https://news.ycombinator.com/item?id=32969400</a></p>
@@ -596,7 +542,6 @@ I also miss linting / prettier.<p>What tools and plugins for Xcode do you all us
  - [http://boston.conman.org//2022/09/22.1](http://boston.conman.org//2022/09/22.1)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 06:27:33+00:00
- - tags: None
 
 <p>Article URL: <a href="http://boston.conman.org//2022/09/22.1">http://boston.conman.org//2022/09/22.1</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32969374">https://news.ycombinator.com/item?id=32969374</a></p>
@@ -607,7 +552,6 @@ I also miss linting / prettier.<p>What tools and plugins for Xcode do you all us
  - [https://thisxdoesnotexist.com/](https://thisxdoesnotexist.com/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 05:50:37+00:00
- - tags: None
 
 <p>Article URL: <a href="https://thisxdoesnotexist.com/">https://thisxdoesnotexist.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32969263">https://news.ycombinator.com/item?id=32969263</a></p>
@@ -618,7 +562,6 @@ I also miss linting / prettier.<p>What tools and plugins for Xcode do you all us
  - [https://www.nrel.gov/news/press/2022/catalytic-process-with-lignin-could-enable-100-sustainable-aviation-fuel.html](https://www.nrel.gov/news/press/2022/catalytic-process-with-lignin-could-enable-100-sustainable-aviation-fuel.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 03:59:13+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.nrel.gov/news/press/2022/catalytic-process-with-lignin-could-enable-100-sustainable-aviation-fuel.html">https://www.nrel.gov/news/press/2022/catalytic-process-with-lignin-could-enable-100-sustainable-aviation-fuel.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32968827">https://news.ycombinator.com/item?id=32968827</a></p>
@@ -629,7 +572,6 @@ I also miss linting / prettier.<p>What tools and plugins for Xcode do you all us
  - [https://www.youtube.com/watch?v=9UZjhTlGT0o](https://www.youtube.com/watch?v=9UZjhTlGT0o)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 03:26:06+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.youtube.com/watch?v=9UZjhTlGT0o">https://www.youtube.com/watch?v=9UZjhTlGT0o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32968664">https://news.ycombinator.com/item?id=32968664</a></p>
@@ -640,7 +582,6 @@ I also miss linting / prettier.<p>What tools and plugins for Xcode do you all us
  - [https://secretgeek.github.io/html_wysiwyg/html.html](https://secretgeek.github.io/html_wysiwyg/html.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 03:07:43+00:00
- - tags: None
 
 <p>Article URL: <a href="https://secretgeek.github.io/html_wysiwyg/html.html">https://secretgeek.github.io/html_wysiwyg/html.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32968597">https://news.ycombinator.com/item?id=32968597</a></p>
@@ -651,7 +592,6 @@ I also miss linting / prettier.<p>What tools and plugins for Xcode do you all us
  - [https://gizmodo.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800](https://gizmodo.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 02:50:10+00:00
- - tags: None
 
 <p>Article URL: <a href="https://gizmodo.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800">https://gizmodo.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32968529">https://news.ycombinator.com/item?id=32968529</a></p>
@@ -662,7 +602,6 @@ I also miss linting / prettier.<p>What tools and plugins for Xcode do you all us
  - [https://www.airdomainintelligence.mil/](https://www.airdomainintelligence.mil/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 02:38:47+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.airdomainintelligence.mil/">https://www.airdomainintelligence.mil/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=32968480">https://news.ycombinator.com/item?id=32968480</a></p>

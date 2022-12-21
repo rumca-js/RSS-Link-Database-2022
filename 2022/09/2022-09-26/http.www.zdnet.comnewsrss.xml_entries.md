@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## The Eve Light Strips are on sale at Amazon: Save $38
  - [https://www.zdnet.com/home-and-office/smart-home/eve-light-strips-deal-promo-code-coupon-sale/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/eve-light-strips-deal-promo-code-coupon-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-26 21:16:48+00:00
- - tags: None
 
 Smart lights for your home can make turning on the lights much easier. If you've been keeping an eye on a smart light strip, Eve's is an extra 20% off right now.
 
@@ -12,7 +11,6 @@ Smart lights for your home can make turning on the lights much easier. If you've
  - [https://www.zdnet.com/article/how-to-protect-your-new-apple-airpods-pro-from-scuffs-and-damage/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-protect-your-new-apple-airpods-pro-from-scuffs-and-damage/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-26 20:34:40+00:00
- - tags: None
 
 I like my AirPods Pro. What I don't like is how they get all scuffed in my pockets. Here's how to stop that.
 
@@ -20,7 +18,6 @@ I like my AirPods Pro. What I don't like is how they get all scuffed in my pocke
  - [https://www.zdnet.com/article/how-to-add-a-work-or-school-account-to-windows-10-or-11/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-add-a-work-or-school-account-to-windows-10-or-11/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-26 19:42:00+00:00
- - tags: None
 
 You can add a work or school account to Windows, even if you're already using a local account or Microsoft account.
 
@@ -28,7 +25,6 @@ You can add a work or school account to Windows, even if you're already using a 
  - [https://www.zdnet.com/article/apple-watch-ultra-review/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-watch-ultra-review/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-26 19:26:00+00:00
- - tags: None
 
 Review: Apple says the Watch Ultra is its most rugged and capable smartwatch to date, so I put it through the most ruthless endurance test. 15,000 meters, 10,000 volts, and 30 obstacles later, here's how it's held up.
 
@@ -36,7 +32,6 @@ Review: Apple says the Watch Ultra is its most rugged and capable smartwatch to 
  - [https://www.zdnet.com/home-and-office/smart-home/amazons-device-ecosystem-is-vast-heres-why-its-going-to-get-even-bigger/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/amazons-device-ecosystem-is-vast-heres-why-its-going-to-get-even-bigger/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-26 18:51:00+00:00
- - tags: None
 
 Amazon is getting ready to add to its huge array of devices. Here's why hardware is at the core of a much bigger strategy.
 
@@ -44,7 +39,6 @@ Amazon is getting ready to add to its huge array of devices. Here's why hardware
  - [https://www.zdnet.com/home-and-office/smart-home/switchbot-door-lock-a-potential-smart-lock-solution-for-renters-and-hoa-residents/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/switchbot-door-lock-a-potential-smart-lock-solution-for-renters-and-hoa-residents/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-26 18:26:00+00:00
- - tags: None
 
 Want a smart lock but don't want to (or can't) change the outside look of your door? Then this might be the smart lock for you.
 
@@ -52,7 +46,6 @@ Want a smart lock but don't want to (or can't) change the outside look of your d
  - [https://www.zdnet.com/article/prime-day-2-amazon-prime-early-access-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/prime-day-2-amazon-prime-early-access-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-26 17:07:00+00:00
- - tags: None
 
 Amazon has announced a second Prime Day event for October. It follows a Prime Day sale from the summer. Here's everything you need to know about Prime Day 2 ("Prime Early Access Sale") including how to find the best deals.
 
@@ -60,7 +53,6 @@ Amazon has announced a second Prime Day event for October. It follows a Prime Da
  - [https://www.zdnet.com/article/nasa-dart-mission-why-this-spaceship-is-being-smashed-into-an-asteroid-today/#ftag=RSSbaffb68](https://www.zdnet.com/article/nasa-dart-mission-why-this-spaceship-is-being-smashed-into-an-asteroid-today/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-26 14:43:00+00:00
- - tags: None
 
 The dinosaurs didn't have a space program to stop rogue asteroids. NASA wants to make sure we don't go the same way.
 
@@ -68,7 +60,6 @@ The dinosaurs didn't have a space program to stop rogue asteroids. NASA wants to
  - [https://www.zdnet.com/article/prime-day-2-dates-announced-amazon-prime-early-access-sale-october/#ftag=RSSbaffb68](https://www.zdnet.com/article/prime-day-2-dates-announced-amazon-prime-early-access-sale-october/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-26 13:43:00+00:00
- - tags: None
 
 The second Amazon Prime Day sale event will feature deals on tech, Amazon devices, clothing, furniture, and more.
 
@@ -76,7 +67,6 @@ The second Amazon Prime Day sale event will feature deals on tech, Amazon device
  - [https://www.zdnet.com/article/elon-musk-starlink-terminals-have-passed-the-million-mark/#ftag=RSSbaffb68](https://www.zdnet.com/article/elon-musk-starlink-terminals-have-passed-the-million-mark/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-26 13:16:32+00:00
- - tags: None
 
 SpaceX's Starlink has manufactured one million end user terminals, but download speeds have slowed in recent months.
 
@@ -84,7 +74,6 @@ SpaceX's Starlink has manufactured one million end user terminals, but download 
  - [https://www.zdnet.com/article/opera-adds-a-music-player-and-shopping-center-to-the-sidebar-to-enhance-the-browsing-experience/#ftag=RSSbaffb68](https://www.zdnet.com/article/opera-adds-a-music-player-and-shopping-center-to-the-sidebar-to-enhance-the-browsing-experience/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-26 13:07:29+00:00
- - tags: None
 
 An introduction to two new features added to the Opera web browser that help make the experience more enjoyable and efficient.
 
@@ -92,7 +81,6 @@ An introduction to two new features added to the Opera web browser that help mak
  - [https://www.zdnet.com/article/nasa-calls-off-third-artemis-i-launch-attempt-as-hurricane-threatens-florida/#ftag=RSSbaffb68](https://www.zdnet.com/article/nasa-calls-off-third-artemis-i-launch-attempt-as-hurricane-threatens-florida/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-26 12:59:54+00:00
- - tags: None
 
 NASA's latest Artemis I launch is cancelled as Florida prepares for Tropical Storm Ian to arrive on Tuesday.
 
@@ -100,7 +88,6 @@ NASA's latest Artemis I launch is cancelled as Florida prepares for Tropical Sto
  - [https://www.zdnet.com/article/windows-11-22h2-warns-when-youre-doing-dumb-things-with-passwords/#ftag=RSSbaffb68](https://www.zdnet.com/article/windows-11-22h2-warns-when-youre-doing-dumb-things-with-passwords/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-26 11:10:27+00:00
- - tags: None
 
 Users who upgrade to Windows 11 22H2 get Enhanced Phishing Protection alerts when they enter their passwords into a phishing site or app.
 
@@ -108,7 +95,6 @@ Users who upgrade to Windows 11 22H2 get Enhanced Phishing Protection alerts whe
  - [https://www.zdnet.com/article/windows-11-will-now-warn-when-you-do-bad-things-with-passwords/#ftag=RSSbaffb68](https://www.zdnet.com/article/windows-11-will-now-warn-when-you-do-bad-things-with-passwords/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-26 11:10:00+00:00
- - tags: None
 
 Users who upgrade to Windows 11 22H2 get Enhanced Phishing Protection alerts when they enter their passwords into a phishing site or app.
 
@@ -116,7 +102,6 @@ Users who upgrade to Windows 11 22H2 get Enhanced Phishing Protection alerts whe
  - [https://www.zdnet.com/home-and-office/save-on-a-hisense-65-smart-tv-at-best-buy-deal/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/save-on-a-hisense-65-smart-tv-at-best-buy-deal/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-26 10:07:43+00:00
- - tags: None
 
 With close to 50% off, this smart TV deal likely won't be available for too long.
 
@@ -124,7 +109,6 @@ With close to 50% off, this smart TV deal likely won't be available for too long
  - [https://www.zdnet.com/home-and-office/home-entertainment/hisense-65-inch-4k-google-tv-deal-promo-coupon-code-sale/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/hisense-65-inch-4k-google-tv-deal-promo-coupon-code-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-26 10:07:00+00:00
- - tags: None
 
 With close to 50% off, this smart TV deal likely won't be available for too long.
 
@@ -132,7 +116,6 @@ With close to 50% off, this smart TV deal likely won't be available for too long
  - [https://www.zdnet.com/article/best-mac-vpn/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-mac-vpn/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-26 10:06:00+00:00
- - tags: None
 
 The best VPN for your Mac should provide performance and security for all your phones, tablets, laptops, and desktops. Here are the top three services that fit the bill.
 
@@ -140,7 +123,6 @@ The best VPN for your Mac should provide performance and security for all your p
  - [https://www.zdnet.com/home-and-office/energy/best-flashlight/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/energy/best-flashlight/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-26 05:57:00+00:00
- - tags: None
 
 You forget about flashlights until you desperately need one. Stay prepared for chaos and adventure with the best flashlights on the market. ZDNET also explains why lumens and power matter.
 
@@ -148,7 +130,6 @@ You forget about flashlights until you desperately need one. Stay prepared for c
  - [https://www.zdnet.com/home-and-office/energy/best-space-heater/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/energy/best-space-heater/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-26 04:24:00+00:00
- - tags: None
 
 The leaves are changing and the temperature is dropping, but autumn doesn't have to be uncomfortable. Keep warm at home with the best space heaters that connect to Wi-Fi, mobile apps, and voice assistants for 24/7 remote control.
 
@@ -156,7 +137,6 @@ The leaves are changing and the temperature is dropping, but autumn doesn't have
  - [https://www.zdnet.com/home-and-office/networking/starlink-satellite-internet-how-does-it-work-cost-features-speed/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/networking/starlink-satellite-internet-how-does-it-work-cost-features-speed/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-26 04:08:00+00:00
- - tags: None
 
 Starlink primarily focuses on delivering high-speed, low-latency broadband internet in remote and rural locations globally. Learn where it's available, how much it costs, and everything else there is to know about it.
 
@@ -164,7 +144,6 @@ Starlink primarily focuses on delivering high-speed, low-latency broadband inter
  - [https://www.zdnet.com/home-and-office/best-printer/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/best-printer/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-26 04:02:00+00:00
- - tags: None
 
 We researched and compared the top inkjet, photo, and laser printers based on Amazon reviews. The best home office printers include high-tech features like Wi-Fi printing, voice-assistant compatibilities, zero-waste cartridges, and more.
 
@@ -172,7 +151,6 @@ We researched and compared the top inkjet, photo, and laser printers based on Am
  - [https://www.zdnet.com/article/how-to-replace-the-windows-11-start-menu/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-replace-the-windows-11-start-menu/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-26 04:00:00+00:00
- - tags: None
 
 Can't stand the new Start menu in Windows 11? Here's how to replace it with a more user-friendly tool.
 
@@ -180,7 +158,6 @@ Can't stand the new Start menu in Windows 11? Here's how to replace it with a mo
  - [https://www.zdnet.com/article/how-to-use-microsoft-authenticator-as-your-password-manager/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-use-microsoft-authenticator-as-your-password-manager/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-26 04:00:00+00:00
- - tags: None
 
 The Microsoft Authenticator app can help you juggle passwords on your mobile device and in the Chrome and Edge desktop browsers.
 
@@ -188,7 +165,6 @@ The Microsoft Authenticator app can help you juggle passwords on your mobile dev
  - [https://www.zdnet.com/home-and-office/smart-office/best-ergonomic-keyboard/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-office/best-ergonomic-keyboard/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-26 03:42:00+00:00
- - tags: None
 
 There are mixed opinions about whether ergonomic keyboards prevent carpal tunnel, but they may help relieve discomfort. The Logitech Ergo K860 is our top choice for making long days at the office bearable. We compared keyboards by price, configuration, and more.
 
@@ -196,7 +172,6 @@ There are mixed opinions about whether ergonomic keyboards prevent carpal tunnel
  - [https://www.zdnet.com/article/best-wireless-headphones/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-wireless-headphones/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-26 03:39:00+00:00
- - tags: None
 
 Appreciating excellent sound quality doesn't mean you are confined to cords. With the best wireless headphones, you can work, move, and game effortlessly. Topping our list is the Sony WH-1000XM5s, offering you exceptional sound with Dolby Atmos and Spatial audio.
 
@@ -204,7 +179,6 @@ Appreciating excellent sound quality doesn't mean you are confined to cords. Wit
  - [https://www.zdnet.com/article/best-vpn-for-windows-pc/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-vpn-for-windows-pc/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-26 02:48:00+00:00
- - tags: None
 
 When you're looking for the best VPN for your Windows PC, everything from server count to the ability to unblock streaming services to security, matters. Here are some of the top VPNs for Windows 7, 8, 10, and 11.
 
@@ -212,6 +186,5 @@ When you're looking for the best VPN for your Windows PC, everything from server
  - [https://www.zdnet.com/article/google-wants-to-help-singapore-firms-tap-data-ai-responsibly/#ftag=RSSbaffb68](https://www.zdnet.com/article/google-wants-to-help-singapore-firms-tap-data-ai-responsibly/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-26 01:08:01+00:00
- - tags: None
 
 With digital transformation comes the need for data and Google Cloud says it wants to help Singapore organisations generate the insights they need to identify revenue opportunities, but they should do so with the right guidelines to ensure they use AI ethically.

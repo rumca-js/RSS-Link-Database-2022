@@ -1,10 +1,9 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml
+# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
 
 ## WATCH: Fetterman Asked If He Supports Making ‘LGBTQ Education’ In Schools ‘Mandatory’ Nationwide
  - [https://www.dailywire.com/news/watch-fetterman-asked-if-he-supports-making-lgbtq-education-in-schools-mandatory-nationwide](https://www.dailywire.com/news/watch-fetterman-asked-if-he-supports-making-lgbtq-education-in-schools-mandatory-nationwide)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-23 23:50:20+00:00
- - tags: None
 
 In recently surfaced footage, Pennsylvania Lt. Governor and Democratic Senate nominee John Fetterman responded affirmatively when asked if he agreed that LGBTQ education should be “mandatory” in schools nationwide. During a 2021 interview with Powered By Rainbows, the candidate — then competing for the Democratic Senate nomination — was asked whether he would be supportive ...
 
@@ -12,7 +11,6 @@ In recently surfaced footage, Pennsylvania Lt. Governor and Democratic Senate no
  - [https://www.dailywire.com/news/following-the-political-science-pelosi-extends-house-proxy-voting-until-after-midterms-republicans-flatten-her](https://www.dailywire.com/news/following-the-political-science-pelosi-extends-house-proxy-voting-until-after-midterms-republicans-flatten-her)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-23 21:34:55+00:00
- - tags: None
 
 Republicans slammed House Speaker Nancy Pelosi (D-CA) for extending proxy voting in the House until after the midterm elections. In a &#8220;dear colleague&#8221; letter to members of the House of Representatives Friday, Pelosi announced that she would be extending the practice of proxy voting due to the COVID pandemic. Proxy voting will continue until November 10, ...
 
@@ -20,7 +18,6 @@ Republicans slammed House Speaker Nancy Pelosi (D-CA) for extending proxy votin
  - [https://www.dailywire.com/news/qa-with-gop-colorado-senate-candidate-joe-odea](https://www.dailywire.com/news/qa-with-gop-colorado-senate-candidate-joe-odea)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-23 21:21:00+00:00
- - tags: None
 
 Joe O’Dea is running as a Republican in the Colorado Senate race against incumbent Democratic Senator Michael Bennet. O’Dea is a first-time politician and is the 30-year CEO of a Colorado construction company that employs 300 workers. This interview has been edited for clarity and length. Question: When you talk to Colorado voters, what are ...
 
@@ -28,7 +25,6 @@ Joe O’Dea is running as a Republican in the Colorado Senate race against incum
  - [https://www.dailywire.com/news/leading-transgender-health-association-seeks-to-include-eunuch-as-gender-identity](https://www.dailywire.com/news/leading-transgender-health-association-seeks-to-include-eunuch-as-gender-identity)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-23 21:06:23+00:00
- - tags: None
 
 The World Professional Association for Transgender Health (WPATH) recently published its new Standards of Care guidelines, with a controversial chapter that seeks to include “eunuch” as part of the “transgender umbrella.” WPATH held a live-streamed session with two of the major contributors of the eunuch chapter at their annual conference on Tuesday. Thomas W. Johnson, ...
 
@@ -36,7 +32,6 @@ The World Professional Association for Transgender Health (WPATH) recently publi
  - [https://www.dailywire.com/news/allison-williams-launches-sports-docuseries-breakaways-on-dailywire](https://www.dailywire.com/news/allison-williams-launches-sports-docuseries-breakaways-on-dailywire)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-23 20:49:21+00:00
- - tags: None
 
 Nearly a year after Allison Williams left ESPN following her refusal to bow to Disney’s COVID vaccine mandate, the celebrated sports reporter is launching her new show on DailyWire+. In “BreakAways,” an original eight-part series, Williams sits down with athletes, coaches, and sports entrepreneurs who stood firm in their convictions despite immense media scrutiny, fear ...
 
@@ -44,7 +39,6 @@ Nearly a year after Allison Williams left ESPN following her refusal to bow to D
  - [https://www.dailywire.com/news/prosecutors-likely-wont-charge-rep-matt-gaetz-in-sex-trafficking-investigation-report](https://www.dailywire.com/news/prosecutors-likely-wont-charge-rep-matt-gaetz-in-sex-trafficking-investigation-report)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-23 20:21:09+00:00
- - tags: None
 
 Career prosecutors have recommended against filing sex-trafficking charges against Rep. Matt Gaetz (R-FL). The Washington Post reported Friday, citing anonymous sources &#8220;familiar with the matter,&#8221; that prosecutors informed their superiors they would not be pursuing charges against Gaetz, in connection with a sex-trafficking investigation that has been ongoing since 2020. The prosecutors said that securing ...
 
@@ -52,7 +46,6 @@ Career prosecutors have recommended against filing sex-trafficking charges again
  - [https://www.dailywire.com/news/would-your-government-ever-intentionally-harm-you](https://www.dailywire.com/news/would-your-government-ever-intentionally-harm-you)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-23 19:39:12+00:00
- - tags: None
 
 Today’s question is an important one. Do you believe your government would intentionally harm you? The question is especially pertinent after recognizing that during COVID the government and Joe Biden were trying to force every single person to inject a new vaccine into their body. Remember when they locked down businesses and wouldn’t let you ...
 
@@ -60,7 +53,6 @@ Today’s question is an important one. Do you believe your government would int
  - [https://www.dailywire.com/news/with-desantis-gaining-prominence-legacy-media-has-a-newfound-respect-for-trump](https://www.dailywire.com/news/with-desantis-gaining-prominence-legacy-media-has-a-newfound-respect-for-trump)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-23 19:29:04+00:00
- - tags: None
 
 In the early 2000s, former GOP president George W. Bush was practically the second coming of Hitler, according to the Left. When the late Senator John McCain secured the 2008 GOP presidential nomination, he was painted as the second coming of Bush. That must have made him the third coming of Hitler. Senator Mitt Romney ...
 
@@ -68,7 +60,6 @@ In the early 2000s, former GOP president George W. Bush was practically the seco
  - [https://www.dailywire.com/news/abortion-landscape-pregnancy-centers-see-uptick-in-calls-since-dobbs-doctors-weigh-in-on-fetal-pain](https://www.dailywire.com/news/abortion-landscape-pregnancy-centers-see-uptick-in-calls-since-dobbs-doctors-weigh-in-on-fetal-pain)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-23 19:03:28+00:00
- - tags: None
 
 Since the Supreme Court decided on the Dobbs v. Jackson Women’s Health Organization case in June, effectively overturning Roe v. Wade, the landscape of abortion in the United States has shifted as pregnancy centers receive more calls and the conversation changes. States have moved to restrict abortion or increase access to the procedure. California’s Democratic Governor ...
 
@@ -76,7 +67,6 @@ Since the Supreme Court decided on the Dobbs v. Jackson Women’s Health Organiz
  - [https://www.dailywire.com/news/billionaire-salesforce-ceo-threatens-to-yank-company-from-conservative-states](https://www.dailywire.com/news/billionaire-salesforce-ceo-threatens-to-yank-company-from-conservative-states)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-23 18:37:55+00:00
- - tags: None
 
 Billionaire Salesforce CEO Marc Benioff, who also owns TIME magazine, said that if conservative states don’t buckle to his vision of what constitutes “equality and dignity,” he’ll take his companies out of the states. Speaking to Poppy Harlow of CNN on Friday, Benioff boasted of “making something happen that supports our employees,” adding, “The number ...
 
@@ -84,7 +74,6 @@ Billionaire Salesforce CEO Marc Benioff, who also owns TIME magazine, said that 
  - [https://www.dailywire.com/news/michigan-man-pleads-guilty-to-killing-and-eating-man-named-kevin-bacon](https://www.dailywire.com/news/michigan-man-pleads-guilty-to-killing-and-eating-man-named-kevin-bacon)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-23 18:28:13+00:00
- - tags: None
 
 A Michigan man pleaded guilty to several charges in court after allegedly murdering and cannibalizing a man named Kevin Bacon. In a preliminary hearing Thursday, a 52-year-old suspect pleaded guilty to charges of open murder and mutilation of a body after he killed, dismembered, and ate Bacon, a 25-year-old hairdresser from Swartz Creek. The suspect ...
 
@@ -92,7 +81,6 @@ A Michigan man pleaded guilty to several charges in court after allegedly murder
  - [https://www.dailywire.com/news/defund-the-left-you-could-win-jeremys-mclaren](https://www.dailywire.com/news/defund-the-left-you-could-win-jeremys-mclaren)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-23 18:17:49+00:00
- - tags: None
 
 President Joe Biden claims that back when he was a strapping young lifeguard, he was threatened by a bad dude called “Corn Pop” who was wielding a razor blade. If the tale, or any part of it for that matter, is actually true, we can assure you that Corn Pop was not armed with one ...
 
@@ -100,7 +88,6 @@ President Joe Biden claims that back when he was a strapping young lifeguard, he
  - [https://www.dailywire.com/news/admirals-demand-answers-over-coast-guard-cadets-allegedly-expelled-for-vaccine-exemption-requests](https://www.dailywire.com/news/admirals-demand-answers-over-coast-guard-cadets-allegedly-expelled-for-vaccine-exemption-requests)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-23 18:17:36+00:00
- - tags: None
 
 When President Biden declared on “60 Minutes” last week, “The pandemic is over,” he made more of an observation than a declaration. The vast majority of Americans left COVID fear and restrictions behind long ago and have gone back to living their lives in much the same way as they did before 2020. Yet not ...
 
@@ -108,7 +95,6 @@ When President Biden declared on “60 Minutes” last week, “The pandemic is 
  - [https://www.dailywire.com/news/california-takes-steps-to-ban-sale-of-new-natural-gas-furnaces-heaters](https://www.dailywire.com/news/california-takes-steps-to-ban-sale-of-new-natural-gas-furnaces-heaters)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-23 17:20:41+00:00
- - tags: None
 
 California is taking action to make it the first state in the country to get rid of natural gas water heaters and furnaces in houses. A new proposal was approved in a unanimous vote on Thursday by the California Air Resources Board. The state will prohibit the sale of new natural gas space heaters, as ...
 
@@ -116,7 +102,6 @@ California is taking action to make it the first state in the country to get rid
  - [https://www.dailywire.com/news/the-myth-of-american-income-inequality-the-federal-government-drastically-overestimates-earnings-disparity-study-says](https://www.dailywire.com/news/the-myth-of-american-income-inequality-the-federal-government-drastically-overestimates-earnings-disparity-study-says)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-23 16:38:51+00:00
- - tags: None
 
 The federal government drastically overestimates income inequality in the United States by failing to account for certain welfare programs and income taxes on the wealthiest earners, according to a study released on Tuesday by the Cato Institute. The analysis, written by Cato Institute adjunct scholar John Early, says that official statistics fail to account for more ...
 
@@ -124,7 +109,6 @@ The federal government drastically overestimates income inequality in the United
  - [https://www.dailywire.com/news/riverdale-actor-ryan-grantham-sentenced-to-life-in-prison-for-murdering-his-mother](https://www.dailywire.com/news/riverdale-actor-ryan-grantham-sentenced-to-life-in-prison-for-murdering-his-mother)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-23 16:29:22+00:00
- - tags: None
 
 Canadian actor Ryan Grantham was sentenced to life in prison for second degree murder after admitting to shooting his mother in the back of the head. The 24-year-old star is best known for his roles in “Riverdale” and “Diary of a Wimpy Kid.” He began acting at the age of 9. Now Grantham is making ...
 
@@ -132,7 +116,6 @@ Canadian actor Ryan Grantham was sentenced to life in prison for second degree m
  - [https://www.dailywire.com/news/california-school-with-social-justice-academy-has-19-math-proficiency](https://www.dailywire.com/news/california-school-with-social-justice-academy-has-19-math-proficiency)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-23 16:14:26+00:00
- - tags: None
 
 A California high school with a &#8220;Social Justice Academy&#8221; is suffering in more traditional subjects like math, where students are getting dismal scores. San Leandro High School&#8217;s Social Justice Academy is a three-year &#8220;rigorous&#8221; and &#8220;career-themed&#8221; program for 10th, 11th, and 12th graders, according to the academy&#8217;s website. It is one of three academy programs ...
 
@@ -140,7 +123,6 @@ A California high school with a &#8220;Social Justice Academy&#8221; is sufferin
  - [https://www.dailywire.com/news/california-prepares-to-send-out-inflation-relief-checks](https://www.dailywire.com/news/california-prepares-to-send-out-inflation-relief-checks)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-23 14:58:14+00:00
- - tags: None
 
 Some residents of California are slated to receive inflation relief checks of more than $1,000 in the coming weeks. Married individuals earning under $150,000 and taking care of a dependent are eligible to receive a check of $1,050, according to a website from the California Franchise Tax Board, with benefits falling by income bracket before ...
 
@@ -148,7 +130,6 @@ Some residents of California are slated to receive inflation relief checks of mo
  - [https://www.dailywire.com/news/mind-blowing-black-hole-at-center-of-our-galaxy-had-bubble-moving-at-insane-speed](https://www.dailywire.com/news/mind-blowing-black-hole-at-center-of-our-galaxy-had-bubble-moving-at-insane-speed)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-23 14:17:19+00:00
- - tags: None
 
 The enormous black hole at the center of our Milky Way galaxy, Sagittarius A*, which was viewed in images for the first time ever in May, emitted a massive spike in X-rays, triggering a gas bubble to spin around the black hole at an insane rate of speed. Scientists estimated the bubble traveled at 30% ...
 
@@ -156,7 +137,6 @@ The enormous black hole at the center of our Milky Way galaxy, Sagittarius A*, w
  - [https://www.dailywire.com/news/adam-levine-sliding-into-dms-reflects-his-past-stance-on-promiscuity-and-the-futility-of-monogamy](https://www.dailywire.com/news/adam-levine-sliding-into-dms-reflects-his-past-stance-on-promiscuity-and-the-futility-of-monogamy)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-23 14:15:33+00:00
- - tags: None
 
 Adam Levine, lead singer of Maroon 5 and outspoken liberal, has become a walking meme overnight. It all started when a 21-year-old Instagram model posted screenshots of a conversation she claimed happened between herself and the married singer. Sumner Stroh promised she wasn’t a homewrecker, but she still felt it important to come forward with ...
 
@@ -164,7 +144,6 @@ Adam Levine, lead singer of Maroon 5 and outspoken liberal, has become a walking
  - [https://www.dailywire.com/news/kris-jenner-kinda-forgot-about-a-luxury-condo-she-owns-in-beverly-hills](https://www.dailywire.com/news/kris-jenner-kinda-forgot-about-a-luxury-condo-she-owns-in-beverly-hills)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-23 13:41:50+00:00
- - tags: None
 
 Kris Jenner is getting all sorts of reactions for admitting she “forgot” about a luxury Beverly Hills property she owns. The 66-year-old reality star made the revelation during the season two premiere of “The Kardashians” on Hulu. Jenner and her daughter Khloé Kardashian visit the property, which is when Jenner makes the surprising admission, per Insider. ...
 
@@ -172,7 +151,6 @@ Kris Jenner is getting all sorts of reactions for admitting she “forgot” abo
  - [https://www.dailywire.com/news/the-dow-is-1400-points-lower-than-when-biden-took-office](https://www.dailywire.com/news/the-dow-is-1400-points-lower-than-when-biden-took-office)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-23 13:29:22+00:00
- - tags: None
 
 The plummet in the Dow Jones Industrial Average this week sent the stock market more than 1,000 points below levels observed when President Joe Biden assumed office. The Federal Reserve increased targets for the federal funds rate by 0.75% on Wednesday afternoon, sending the Dow, which tracks 30 of the most prominent companies on American ...
 
@@ -180,7 +158,6 @@ The plummet in the Dow Jones Industrial Average this week sent the stock market 
  - [https://www.dailywire.com/news/british-news-outlets-are-reporting-their-country-is-in-a-recession-american-media-refused-to-do-the-same](https://www.dailywire.com/news/british-news-outlets-are-reporting-their-country-is-in-a-recession-american-media-refused-to-do-the-same)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-23 13:10:12+00:00
- - tags: None
 
 After the Bank of England announced that it expects the economy of Britain to shrink in the third quarter of 2022, news outlets reported that the country is in a recession — although several American media outlets refused to do the same upon similar news in the United States. Although the central bank had formerly ...
 
@@ -188,7 +165,6 @@ After the Bank of England announced that it expects the economy of Britain to sh
  - [https://www.dailywire.com/news/watch-these-guys-just-bull-rushed-our-houses-texas-farmers-video-of-illegals-barging-into-his-grandpas-home](https://www.dailywire.com/news/watch-these-guys-just-bull-rushed-our-houses-texas-farmers-video-of-illegals-barging-into-his-grandpas-home)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-23 12:51:46+00:00
- - tags: None
 
 Video from a Hispanic Texas farmer shows illegal immigrants fleeing Border Patrol first trying to get in his house, but when unsuccessful, entering his elderly grandfather&#8217;s home next door. The farmer’s 150-acre ranch, which his family has owned for more than 100 years, abuts the U.S.-Mexico border. “Well, this is my house. My house where ...
 
@@ -196,7 +172,6 @@ Video from a Hispanic Texas farmer shows illegal immigrants fleeing Border Patro
  - [https://www.dailywire.com/news/prince-harry-missed-saying-goodbye-to-queen-elizabeth-in-quarrel-over-meghan-markle-report](https://www.dailywire.com/news/prince-harry-missed-saying-goodbye-to-queen-elizabeth-in-quarrel-over-meghan-markle-report)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-23 12:05:57+00:00
- - tags: None
 
 When he was informed by his father, King Charles III, that his wife Meghan Markle was not invited to join the now-king, his wife, and his brother William on the day Queen Elizabeth II died, Prince Harry apparently snubbed his father by refusing to come by himself, according to a report from The Sun. Harry ...
 
@@ -204,7 +179,6 @@ When he was informed by his father, King Charles III, that his wife Meghan Markl
  - [https://www.dailywire.com/news/more-intriguing-than-elon-musk-at-a-science-fair-why-oklahoma-and-the-big-12-have-my-full-attention](https://www.dailywire.com/news/more-intriguing-than-elon-musk-at-a-science-fair-why-oklahoma-and-the-big-12-have-my-full-attention)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-23 12:03:09+00:00
- - tags: None
 
 The Big 12 is becoming more interesting every week, and while I picked Oklahoma to win the conference, there are some teams that do have a chance to unseat them. The Big 12 is deeper than the Pacific Ocean right now, and the matchups are more intriguing than Elon Musk at a science fair. Dave ...
 
@@ -212,7 +186,6 @@ The Big 12 is becoming more interesting every week, and while I picked Oklahoma 
  - [https://www.dailywire.com/news/republican-co-chair-of-dr-oz-campaign-spotted-attending-big-dollar-fundraiser-for-democratic-gubernatorial-candidate-report](https://www.dailywire.com/news/republican-co-chair-of-dr-oz-campaign-spotted-attending-big-dollar-fundraiser-for-democratic-gubernatorial-candidate-report)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-23 11:02:37+00:00
- - tags: None
 
 Jeff Bartos, who co-chairs the Senate campaign for Pennsylvania Republican nominee Dr. Mehmet Oz, was seen on Wednesday at a fundraiser for Pennsylvania Democratic Attorney General and gubernatorial nominee Josh Shapiro, according to Politico. Politico reported that Sheryl Bartos, the wife of Jeff Bartos, was a co-host for the “big-dollar Philadelphia fundraiser.” Jeff Bartos unsuccessfully ...
 
@@ -220,7 +193,6 @@ Jeff Bartos, who co-chairs the Senate campaign for Pennsylvania Republican nomin
  - [https://www.dailywire.com/news/from-the-inspiration-of-scripture-to-gender-identity-evangelicalism-sees-a-massive-leftward-shift](https://www.dailywire.com/news/from-the-inspiration-of-scripture-to-gender-identity-evangelicalism-sees-a-massive-leftward-shift)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-23 10:49:07+00:00
- - tags: None
 
 American evangelicalism experienced a seismic shift toward theological and social progressivism over the past two years. As revealed by Ligonier Ministries and LifeWay Research’s most recent State of Theology Survey — a biennial poll that tracks the beliefs of professing evangelicals and the overall adult population — the winds of the social justice movement appeared ...
 
@@ -228,7 +200,6 @@ American evangelicalism experienced a seismic shift toward theological and socia
  - [https://www.dailywire.com/news/sources-deny-lamar-odom-is-dating-transgender-model-say-theyre-just-friends](https://www.dailywire.com/news/sources-deny-lamar-odom-is-dating-transgender-model-say-theyre-just-friends)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-23 10:37:48+00:00
- - tags: None
 
 Sources insist that former NBA player Lamar Odom is not dating transgender model Daniiellè Alexis despite the rumors circulating on social media, according to TMZ. The sources, who are close with Odom, revealed to TMZ that the 42-year-old athlete is friends with Alexis, which explains why they&#8217;ve been photographed together, but insists the relationship is platonic. ...
 
@@ -236,7 +207,6 @@ Sources insist that former NBA player Lamar Odom is not dating transgender mode
  - [https://www.dailywire.com/news/i-dont-care-pierce-brosnan-ambivalent-about-the-next-james-bond-actor](https://www.dailywire.com/news/i-dont-care-pierce-brosnan-ambivalent-about-the-next-james-bond-actor)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-23 09:50:41+00:00
- - tags: None
 
 Pierce Brosnan may have played James Bond in four films, but that doesn’t mean he cares about who plays the role next. The 69-year-old Hollywood mainstay told GQ magazine that he’s not really concerned about who takes on the role after current 007 actor Daniel Craig steps back. Brosnan was the lead actor for the ...
 
@@ -252,7 +222,6 @@ Senator Ron Johnson (R-WI) sent a letter to the CEO of YouTube this week asking 
  - [https://www.dailywire.com/news/that-being-done-to-a-brother-stephen-a-smith-rips-celtics-over-coachs-likely-suspension](https://www.dailywire.com/news/that-being-done-to-a-brother-stephen-a-smith-rips-celtics-over-coachs-likely-suspension)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-23 08:45:14+00:00
- - tags: None
 
 Stephen A. Smith of ESPN slammed the Boston Celtics after news broke that their coach, Ime Udoka, was likely being suspended for reportedly having a consensual relationship with a staffer at the organization. Boston Celtics coach Ime Udoka is likely facing a suspension for the entire 2022-2023 season for his role in a consensual relationship ...
 
@@ -260,6 +229,5 @@ Stephen A. Smith of ESPN slammed the Boston Celtics after news broke that their 
  - [https://www.dailywire.com/news/woman-who-sabotaged-dakota-access-pipeline-gets-6-years-in-prison-3m-fine](https://www.dailywire.com/news/woman-who-sabotaged-dakota-access-pipeline-gets-6-years-in-prison-3m-fine)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-23 07:46:44+00:00
- - tags: None
 
 An Arizona woman who sabotaged the Dakota Access pipeline and set fire to equipment to protest the controversial project was sentenced by a federal judge Thursday to six years in prison. Ruby Katherine Montoya, 32, who used a cutting torch to damage the oil pipeline in Iowa in 2016 and destroyed equipment over the next ...

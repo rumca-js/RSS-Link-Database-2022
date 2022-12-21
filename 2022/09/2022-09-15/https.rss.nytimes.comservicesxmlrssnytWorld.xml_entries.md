@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## Putin Nods to Xi’s ‘Concerns,’ and the Limits of Their Cooperation
  - [https://www.nytimes.com/2022/09/15/world/europe/putin-china-ukraine.html](https://www.nytimes.com/2022/09/15/world/europe/putin-china-ukraine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-15 23:15:04+00:00
- - tags: None
 
 The discordant messages of China’s president, Xi Jinping, and President Vladimir V. Putin of Russia suggested that despite an earlier pledge of “friendship,” Moscow does not have an unconditional ally in Beijing.
 
@@ -12,7 +11,6 @@ The discordant messages of China’s president, Xi Jinping, and President Vladim
  - [https://www.nytimes.com/2022/09/15/climate/louisiana-judge-blocks-formosa-plant.html](https://www.nytimes.com/2022/09/15/climate/louisiana-judge-blocks-formosa-plant.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-15 23:05:25+00:00
- - tags: None
 
 The company, an affiliate of Formosa Plastics, said it intended to move forward with the $9.4 billion complex in St. James Parish despite the ruling.
 
@@ -20,7 +18,6 @@ The company, an affiliate of Formosa Plastics, said it intended to move forward 
  - [https://www.nytimes.com/2022/09/16/world/europe/the-eus-top-official-meets-with-zelensky.html](https://www.nytimes.com/2022/09/16/world/europe/the-eus-top-official-meets-with-zelensky.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-15 22:23:03+00:00
- - tags: None
 
 
 
@@ -28,7 +25,6 @@ The company, an affiliate of Formosa Plastics, said it intended to move forward 
  - [https://www.nytimes.com/2022/09/15/world/europe/pope-francis-ukraine.html](https://www.nytimes.com/2022/09/15/world/europe/pope-francis-ukraine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-15 22:08:47+00:00
- - tags: None
 
 The pontiff said that it is acceptable for countries to provide weapons to Ukraine so that the country can defend itself, but stressed that communication channels with Russia should remain open.
 
@@ -36,7 +32,6 @@ The pontiff said that it is acceptable for countries to provide weapons to Ukrai
  - [https://www.nytimes.com/2022/09/15/world/europe/princess-anne-royal-influence.html](https://www.nytimes.com/2022/09/15/world/europe/princess-anne-royal-influence.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-15 21:33:51+00:00
- - tags: None
 
 Often appearing at more than 400 events a year, Anne is likely to become even more central as a trusted adviser to her brother, the king.
 
@@ -44,7 +39,6 @@ Often appearing at more than 400 events a year, Anne is likely to become even mo
  - [https://www.nytimes.com/2022/09/15/world/europe/biden-brittney-griner-paul-whelan.html](https://www.nytimes.com/2022/09/15/world/europe/biden-brittney-griner-paul-whelan.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-15 21:24:13+00:00
- - tags: None
 
 The fates of both Americans have been complicated by the deteriorating diplomatic relationship between the United States and Russia over President Vladimir V. Putin’s invasion of Ukraine.
 
@@ -52,7 +46,6 @@ The fates of both Americans have been complicated by the deteriorating diplomati
  - [https://www.nytimes.com/2022/09/15/briefing/putin-xi-summit-ukraine-asia-federer.html](https://www.nytimes.com/2022/09/15/briefing/putin-xi-summit-ukraine-asia-federer.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-15 21:06:40+00:00
- - tags: None
 
 Plus Europe’s tilt to the right continues, and Roger Federer is retiring.
 
@@ -60,7 +53,6 @@ Plus Europe’s tilt to the right continues, and Roger Federer is retiring.
  - [https://www.nytimes.com/2022/09/15/world/europe/heres-what-putin-is-hoping-for-from-his-meeting-with-xi.html](https://www.nytimes.com/2022/09/15/world/europe/heres-what-putin-is-hoping-for-from-his-meeting-with-xi.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-15 20:00:32+00:00
- - tags: None
 
 
 
@@ -68,7 +60,6 @@ Plus Europe’s tilt to the right continues, and Roger Federer is retiring.
  - [https://www.nytimes.com/2022/09/15/world/europe/sweden-election-far-right.html](https://www.nytimes.com/2022/09/15/world/europe/sweden-election-far-right.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-15 19:51:20+00:00
- - tags: None
 
 The Sweden Democrats, with roots in neo-Nazism, came in second in national elections and will have a powerful influence on a new center-right government.
 
@@ -76,7 +67,6 @@ The Sweden Democrats, with roots in neo-Nazism, came in second in national elect
  - [https://www.nytimes.com/2022/09/15/world/europe/queen-elizabeth-funeral.html](https://www.nytimes.com/2022/09/15/world/europe/queen-elizabeth-funeral.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-15 19:43:47+00:00
- - tags: None
 
 On Monday, dignitaries from across the globe will bid farewell to the queen at a service in Westminster Abbey.
 
@@ -84,7 +74,6 @@ On Monday, dignitaries from across the globe will bid farewell to the queen at a
  - [https://www.nytimes.com/2022/09/15/world/americas/mexico-jose-rodriguez-perez-students.html](https://www.nytimes.com/2022/09/15/world/americas/mexico-jose-rodriguez-perez-students.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-15 18:48:00+00:00
- - tags: None
 
 A top military officer suspected of ordering the killing of at least six of the students who disappeared in 2014 has been arrested, the latest in a string of high-profile arrests.
 
@@ -92,7 +81,6 @@ A top military officer suspected of ordering the killing of at least six of the 
  - [https://www.nytimes.com/2022/09/15/world/europe/europe-wood-energy-deforestatation.html](https://www.nytimes.com/2022/09/15/world/europe/europe-wood-energy-deforestatation.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-15 18:15:12+00:00
- - tags: None
 
 Wood was supposed to help the E.U. reach its renewable energy goals. But it has contributed to increased emissions and a loss of Europe’s protected woodlands.
 
@@ -100,7 +88,6 @@ Wood was supposed to help the E.U. reach its renewable energy goals. But it has 
  - [https://www.nytimes.com/2022/09/15/world/americas/argentina-assassination-attempt-hoax.html](https://www.nytimes.com/2022/09/15/world/americas/argentina-assassination-attempt-hoax.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-15 18:10:25+00:00
- - tags: None
 
 An assassination attempt against Argentina’s vice president, Cristina Fernández de Kirchner, failed. Now many Argentines believe the entire event was a hoax.
 
@@ -108,7 +95,6 @@ An assassination attempt against Argentina’s vice president, Cristina Fernánd
  - [https://www.nytimes.com/2022/09/15/world/europe/uk-oxford-comma-health-agency.html](https://www.nytimes.com/2022/09/15/world/europe/uk-oxford-comma-health-agency.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-15 17:46:23+00:00
- - tags: None
 
 The directive discourages the use of the contentious grammatical device, and also encourages employees to be “positive” and to avoid “jargon.”
 
@@ -116,7 +102,6 @@ The directive discourages the use of the contentious grammatical device, and als
  - [https://www.nytimes.com/2022/09/15/world/americas/mexico-arrest-general-students-disappearance.html](https://www.nytimes.com/2022/09/15/world/americas/mexico-arrest-general-students-disappearance.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-15 17:45:23+00:00
- - tags: None
 
 A top military officer suspected of ordering the killing of at least six of the students who disappeared in 2014 has been arrested, the latest in a string of high-profile arrests.
 
@@ -124,7 +109,6 @@ A top military officer suspected of ordering the killing of at least six of the 
  - [https://www.nytimes.com/2022/09/15/world/middleeast/israel-marvel-captain-america-sabra.html](https://www.nytimes.com/2022/09/15/world/middleeast/israel-marvel-captain-america-sabra.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-15 17:23:15+00:00
- - tags: None
 
 The studio has angered many Palestinians and their supporters by casting the actress Shira Haas to play Sabra, a mutant Mossad agent, in a “Captain America” movie.
 
@@ -132,7 +116,6 @@ The studio has angered many Palestinians and their supporters by casting the act
  - [https://www.nytimes.com/2022/09/15/world/europe/germany-holocaust-reparations-ukraine.html](https://www.nytimes.com/2022/09/15/world/europe/germany-holocaust-reparations-ukraine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-15 16:36:44+00:00
- - tags: None
 
 The country will pay $1.2 billion, including emergency aid for Holocaust survivors in Ukraine and, for the first time, remembrance education.
 
@@ -140,7 +123,6 @@ The country will pay $1.2 billion, including emergency aid for Holocaust survivo
  - [https://www.nytimes.com/2022/09/15/world/europe/king-charles-swans-queen-elizabeth.html](https://www.nytimes.com/2022/09/15/world/europe/king-charles-swans-queen-elizabeth.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-15 14:32:49+00:00
- - tags: None
 
 Thanks to a centuries-old law, the country’s monarch also happens to be the owner of its population of mute swans.
 
@@ -148,7 +130,6 @@ Thanks to a centuries-old law, the country’s monarch also happens to be the ow
  - [https://www.nytimes.com/2022/09/15/world/europe/dam-strike-russia-ukraine.html](https://www.nytimes.com/2022/09/15/world/europe/dam-strike-russia-ukraine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-15 13:30:11+00:00
- - tags: None
 
 The attack sent millions of gallons of water gushing downstream and officials said a catastrophe had been narrowly avoided.
 
@@ -156,7 +137,6 @@ The attack sent millions of gallons of water gushing downstream and officials sa
  - [https://www.nytimes.com/2022/09/15/world/europe/germany-ukraine-holocaust-fund.html](https://www.nytimes.com/2022/09/15/world/europe/germany-ukraine-holocaust-fund.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-15 12:53:36+00:00
- - tags: None
 
 The $12 million emergency fund, part of a larger $1.2 billion reparations package, will be disbursed to 8,500 Jewish survivors in Ukraine.
 
@@ -164,7 +144,6 @@ The $12 million emergency fund, part of a larger $1.2 billion reparations packag
  - [https://www.nytimes.com/live/2022/09/15/world/ukraine-russia-war](https://www.nytimes.com/live/2022/09/15/world/ukraine-russia-war)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-15 10:46:49+00:00
- - tags: None
 
 The authoritarian leaders are set to meet in Uzbekistan. In the Ukrainian city of Kryvyi Rih, Russian missiles damaged a dam.
 
@@ -172,7 +151,6 @@ The authoritarian leaders are set to meet in Uzbekistan. In the Ukrainian city o
  - [https://www.nytimes.com/2022/09/15/briefing/san-francisco-fog-uncertain-future.html](https://www.nytimes.com/2022/09/15/briefing/san-francisco-fog-uncertain-future.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-15 10:41:44+00:00
- - tags: None
 
 It’s a life force, with an uncertain future.
 
@@ -180,7 +158,6 @@ It’s a life force, with an uncertain future.
  - [https://www.nytimes.com/2022/09/15/world/europe/queen-lying-in-state-queue.html](https://www.nytimes.com/2022/09/15/world/europe/queen-lying-in-state-queue.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-15 10:17:19+00:00
- - tags: None
 
 Thousands of people waited in line — a very long line — to pay homage at the coffin of Queen Elizabeth II, who will lie in state until her funeral on Monday.
 
@@ -188,7 +165,6 @@ Thousands of people waited in line — a very long line — to pay homage at the
  - [https://www.nytimes.com/2022/09/15/world/europe/zelensky-car-crash.html](https://www.nytimes.com/2022/09/15/world/europe/zelensky-car-crash.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-15 09:56:45+00:00
- - tags: None
 
 Ukraine’s president did not mention the accident during his nightly address.
 
@@ -196,7 +172,6 @@ Ukraine’s president did not mention the accident during his nightly address.
  - [https://www.nytimes.com/2022/09/15/world/europe/russia-ukraine-dam-strike.html](https://www.nytimes.com/2022/09/15/world/europe/russia-ukraine-dam-strike.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-15 09:20:30+00:00
- - tags: None
 
 Pedestrian bridges were washed away and water rose along river banks in the city of Kryvyi Rih in southern Ukraine, where Kyiv’s forces are carrying out a counteroffensive.
 
@@ -204,7 +179,6 @@ Pedestrian bridges were washed away and water rose along river banks in the city
  - [https://www.nytimes.com/2022/09/14/world/europe/queen-elizabeth-funeral-who-is-attending.html](https://www.nytimes.com/2022/09/14/world/europe/queen-elizabeth-funeral-who-is-attending.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-15 09:19:41+00:00
- - tags: None
 
 President Biden plans to be there, as do many leaders from the Commonwealth.
 
@@ -212,7 +186,6 @@ President Biden plans to be there, as do many leaders from the Commonwealth.
  - [https://www.nytimes.com/2022/09/15/climate/solar-energy-school-funding.html](https://www.nytimes.com/2022/09/15/climate/solar-energy-school-funding.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-15 09:00:40+00:00
- - tags: None
 
 Public schools are increasingly using savings from solar energy to upgrade facilities, help their communities, and give teachers raises — often with no cost to taxpayers.
 
@@ -220,7 +193,6 @@ Public schools are increasingly using savings from solar energy to upgrade facil
  - [https://www.nytimes.com/2022/09/15/world/europe/ukraine-opera-singer.html](https://www.nytimes.com/2022/09/15/world/europe/ukraine-opera-singer.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-15 09:00:35+00:00
- - tags: None
 
 While on a rescue mission in Ukraine, Sergiy Ivanchuk was shot in the lungs, apparently ending his chance at opera stardom. His recovery is a marvel of medicine, chance and his own spirit.
 
@@ -228,7 +200,6 @@ While on a rescue mission in Ukraine, Sergiy Ivanchuk was shot in the lungs, app
  - [https://www.nytimes.com/2022/09/15/world/europe/giorgia-meloni-italy-right.html](https://www.nytimes.com/2022/09/15/world/europe/giorgia-meloni-italy-right.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-15 09:00:34+00:00
- - tags: None
 
 The hard-right leader has excoriated the European Union in the past, and she regularly blasts illegal immigrants and George Soros. But she is closer than ever to becoming prime minister.
 
@@ -236,7 +207,6 @@ The hard-right leader has excoriated the European Union in the past, and she reg
  - [https://www.nytimes.com/2022/09/15/world/asia/new-zealand-south-korea.html](https://www.nytimes.com/2022/09/15/world/asia/new-zealand-south-korea.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-15 06:16:34+00:00
- - tags: None
 
 The children’s bodies were found in suitcases that had been in a storage facility, said the New Zealand police, who are seeking the woman’s extradition on murder charges.
 
@@ -244,7 +214,6 @@ The children’s bodies were found in suitcases that had been in a storage facil
  - [https://www.nytimes.com/2022/09/15/briefing/zelensky-ukraine-sweden-election.html](https://www.nytimes.com/2022/09/15/briefing/zelensky-ukraine-sweden-election.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-15 05:57:13+00:00
- - tags: None
 
 Zelensky at the front.
 
@@ -252,7 +221,6 @@ Zelensky at the front.
  - [https://www.nytimes.com/2022/09/15/briefing/zelensky-ukraine-war.html](https://www.nytimes.com/2022/09/15/briefing/zelensky-ukraine-war.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-15 05:45:54+00:00
- - tags: None
 
 Zelensky at the front.
 
@@ -260,7 +228,6 @@ Zelensky at the front.
  - [https://www.nytimes.com/2022/09/15/world/asia/putin-xi-meeting.html](https://www.nytimes.com/2022/09/15/world/asia/putin-xi-meeting.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-15 05:08:57+00:00
- - tags: None
 
 The two authoritarian leaders are facing increasing animosity with the West and challenges to their agendas.
 
@@ -268,6 +235,5 @@ The two authoritarian leaders are facing increasing animosity with the West and 
  - [https://www.nytimes.com/2022/09/15/briefing/zelensky-ukraine-russia-election-izium.html](https://www.nytimes.com/2022/09/15/briefing/zelensky-ukraine-russia-election-izium.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-15 04:58:05+00:00
- - tags: None
 
 Zelensky at the front.

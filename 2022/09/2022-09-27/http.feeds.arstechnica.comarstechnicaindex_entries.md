@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## Unusual Ebola strain kills 23 in Uganda; no vaccines, treatments available
  - [https://arstechnica.com/?p=1885102](https://arstechnica.com/?p=1885102)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-27 22:51:01+00:00
- - tags: None
 
 The Sudan species of Ebolavirus has a fatality rate between 41% and 100%.
 
@@ -12,7 +11,6 @@ The Sudan species of Ebolavirus has a fatality rate between 41% and 100%.
  - [https://arstechnica.com/?p=1882929](https://arstechnica.com/?p=1882929)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-27 20:59:25+00:00
- - tags: None
 
 Lossy compression bypasses text-to-image portions of Stable Diffusion with interesting results.
 
@@ -20,7 +18,6 @@ Lossy compression bypasses text-to-image portions of Stable Diffusion with inter
  - [https://arstechnica.com/?p=1884794](https://arstechnica.com/?p=1884794)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-27 20:26:23+00:00
- - tags: None
 
 With this one model, you may actually get your iPad back, new battery and all.
 
@@ -28,7 +25,6 @@ With this one model, you may actually get your iPad back, new battery and all.
  - [https://arstechnica.com/?p=1885001](https://arstechnica.com/?p=1885001)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-27 19:48:13+00:00
- - tags: None
 
 Networks blocked had dozens of fake accounts from China, thousands from Russia.
 
@@ -36,7 +32,6 @@ Networks blocked had dozens of fake accounts from China, thousands from Russia.
  - [https://arstechnica.com/?p=1885000](https://arstechnica.com/?p=1885000)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-27 19:15:15+00:00
- - tags: None
 
 External display support remains exclusive to M1 iPads, coming "later this year."
 
@@ -44,7 +39,6 @@ External display support remains exclusive to M1 iPads, coming "later this year.
  - [https://arstechnica.com/?p=1884977](https://arstechnica.com/?p=1884977)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-27 18:21:21+00:00
- - tags: None
 
 Robotext plan approved after a year, but FCC still needs to adopt final rules.
 
@@ -52,7 +46,6 @@ Robotext plan approved after a year, but FCC still needs to adopt final rules.
  - [https://arstechnica.com/?p=1884850](https://arstechnica.com/?p=1884850)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-27 17:51:37+00:00
- - tags: None
 
 You can spend as much on a board as some people do on their whole PC.
 
@@ -60,7 +53,6 @@ You can spend as much on a board as some people do on their whole PC.
  - [https://arstechnica.com/?p=1884913](https://arstechnica.com/?p=1884913)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-27 17:40:29+00:00
- - tags: None
 
 Expected performance somewhere near Nvidia's RTX 3060 Ti—at least, for DirectX 12.
 
@@ -68,7 +60,6 @@ Expected performance somewhere near Nvidia's RTX 3060 Ti—at least, for DirectX
  - [https://arstechnica.com/?p=1884626](https://arstechnica.com/?p=1884626)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-27 17:27:27+00:00
- - tags: None
 
 "You keep her alive, and you set everything right."
 
@@ -76,7 +67,6 @@ Expected performance somewhere near Nvidia's RTX 3060 Ti—at least, for DirectX
  - [https://arstechnica.com/?p=1884919](https://arstechnica.com/?p=1884919)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-27 17:13:48+00:00
- - tags: None
 
 Bugged boss encounter leads to 9-hour power-leveling run at 1.8 million XP/hour.
 
@@ -84,7 +74,6 @@ Bugged boss encounter leads to 9-hour power-leveling run at 1.8 million XP/hour.
  - [https://arstechnica.com/?p=1884795](https://arstechnica.com/?p=1884795)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-27 17:07:07+00:00
- - tags: None
 
 iRobot's wild mop design can move from the top of the robot to the bottom.
 
@@ -92,7 +81,6 @@ iRobot's wild mop design can move from the top of the robot to the bottom.
  - [https://arstechnica.com/?p=1884803](https://arstechnica.com/?p=1884803)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-27 16:33:27+00:00
- - tags: None
 
 Rear access to the Watch Ultra isn't nearly as useful as it was on the iPhone 14.
 
@@ -100,7 +88,6 @@ Rear access to the Watch Ultra isn't nearly as useful as it was on the iPhone 14
  - [https://arstechnica.com/?p=1884511](https://arstechnica.com/?p=1884511)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-27 16:20:46+00:00
- - tags: None
 
 With VESA &#038; AMD certification, the monitor is $200 cheaper than the G-Sync version.
 
@@ -108,7 +95,6 @@ With VESA &#038; AMD certification, the monitor is $200 cheaper than the G-Sync 
  - [https://arstechnica.com/?p=1882491](https://arstechnica.com/?p=1882491)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-27 16:20:00+00:00
- - tags: None
 
 High-end chips have more cache and cores; laptop and mid-range CPUs come later.
 
@@ -116,7 +102,6 @@ High-end chips have more cache and cores; laptop and mid-range CPUs come later.
  - [https://arstechnica.com/?p=1884569](https://arstechnica.com/?p=1884569)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-27 16:00:12+00:00
- - tags: None
 
 Great aerodynamic efficiency and class-leading infotainment are highlights.
 
@@ -124,7 +109,6 @@ Great aerodynamic efficiency and class-leading infotainment are highlights.
  - [https://arstechnica.com/?p=1884773](https://arstechnica.com/?p=1884773)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-27 13:53:58+00:00
- - tags: None
 
 Same app, different risks if you download it in, say, Tunisia rather than in Germany.
 
@@ -132,7 +116,6 @@ Same app, different risks if you download it in, say, Tunisia rather than in Ger
  - [https://arstechnica.com/?p=1884049](https://arstechnica.com/?p=1884049)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-27 13:00:21+00:00
- - tags: None
 
 Air AR glasses add support for M1/M2 MacBooks, an iPhone adapter amid US launch.
 
@@ -140,6 +123,5 @@ Air AR glasses add support for M1/M2 MacBooks, an iPhone adapter amid US launch.
  - [https://arstechnica.com/?p=1884738](https://arstechnica.com/?p=1884738)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-27 12:48:06+00:00
- - tags: None
 
 Surge, winds, rainfall—unfortunately, Hurricane Ian is going to pack quite a punch.

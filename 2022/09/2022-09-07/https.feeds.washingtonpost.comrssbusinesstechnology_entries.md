@@ -1,10 +1,9 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology
+# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
 
 ## Should you buy a new iPhone?
  - [https://www.washingtonpost.com/technology/interactive/2022/phone-upgrade-quiz/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/interactive/2022/phone-upgrade-quiz/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-07 19:03:26+00:00
- - tags: None
 
 Should you upgrade to iPhone 14? Take our quiz.
 
@@ -12,7 +11,6 @@ Should you upgrade to iPhone 14? Take our quiz.
  - [https://www.washingtonpost.com/technology/2022/09/07/artemis-launch-nasa-detonation-system/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/07/artemis-launch-nasa-detonation-system/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-07 14:21:12+00:00
- - tags: None
 
 The system, which is designed to destroy the SLS rocket if it veers off course and threatens population centers, needs to be recharged every few weeks.
 
@@ -20,7 +18,6 @@ The system, which is designed to destroy the SLS rocket if it veers off course a
  - [https://www.washingtonpost.com/technology/2022/09/07/musk-twitter-trial-no-delay/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/07/musk-twitter-trial-no-delay/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-07 10:53:01+00:00
- - tags: None
 
 A judge ruled that Elon Musk could not delay the Twitter trial over whistleblower allegations, but could amend his counterclaims.
 
@@ -28,7 +25,6 @@ A judge ruled that Elon Musk could not delay the Twitter trial over whistleblowe
  - [https://www.washingtonpost.com/video-games/reviews/splatoon-3-review/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/reviews/splatoon-3-review/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-07 10:03:50+00:00
- - tags: None
 
 Fans of the series will find a lot of familiarity and a formula already proven to work.
 
@@ -36,7 +32,6 @@ Fans of the series will find a lot of familiarity and a formula already proven t
  - [https://www.washingtonpost.com/nation/2022/09/07/corn-kid-song-tiktok-ambassador/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/nation/2022/09/07/corn-kid-song-tiktok-ambassador/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-07 08:05:22+00:00
- - tags: None
 
 Tariq's ode to corn took social media by storm and inspired a viral song. Now, "Corn Boy" has become South Dakota's first "Corn-bassador."
 
@@ -44,6 +39,5 @@ Tariq's ode to corn took social media by storm and inspired a viral song. Now, "
  - [https://www.washingtonpost.com/technology/2022/09/07/iphone-14-release-apple-event/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/09/07/iphone-14-release-apple-event/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-09-07 06:30:14+00:00
- - tags: None
 
 According to some industry observers, the company’s line-up of new smartphones could look notably different this year.

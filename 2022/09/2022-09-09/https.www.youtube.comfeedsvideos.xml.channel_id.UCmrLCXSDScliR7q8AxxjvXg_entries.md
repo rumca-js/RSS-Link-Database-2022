@@ -1,10 +1,9 @@
-# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
+# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, Source language: en-US
 
 ## Europe's Collective Suicide EXPLAINED
  - [https://www.youtube.com/watch?v=Dbgm8DFsUUw](https://www.youtube.com/watch?v=Dbgm8DFsUUw)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
  - date published: 2022-09-09 19:00:13+00:00
- - tags: None
 
 🔴Grab Atlas VPN with 82% OFF using my link: https://get.atlasvpn.com/BlackPigeonSpeaks
 

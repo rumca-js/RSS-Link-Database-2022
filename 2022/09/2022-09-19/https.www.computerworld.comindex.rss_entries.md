@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## As Windows 11 22H2 draws near, Windows 10 hangs on
  - [https://www.computerworld.com/article/3674056/as-windows-11-22h2-draws-near-windows-10-hangs-on.html#tk.rss_all](https://www.computerworld.com/article/3674056/as-windows-11-22h2-draws-near-windows-10-hangs-on.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-19 13:38:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3515808/g-suite-vs-office-365-whats-the-best-office-suite-for-business.html#tk.rss_all](https://www.computerworld.com/article/3515808/g-suite-vs-office-365-whats-the-best-office-suite-for-business.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-19 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

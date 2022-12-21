@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## Breach of software maker used to backdoor as many as 200,000 servers
  - [https://arstechnica.com/?p=1881102](https://arstechnica.com/?p=1881102)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-13 23:34:47+00:00
- - tags: None
 
 Hack of FishPig distribution server used to install Rekoobe on customer systems.
 
@@ -12,7 +11,6 @@ Hack of FishPig distribution server used to install Rekoobe on customer systems.
  - [https://arstechnica.com/?p=1881100](https://arstechnica.com/?p=1881100)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-13 23:06:05+00:00
- - tags: None
 
 The list includes mainly low- and middle-income countries, plus Israel and the UK.
 
@@ -20,7 +18,6 @@ The list includes mainly low- and middle-income countries, plus Israel and the U
  - [https://arstechnica.com/?p=1881084](https://arstechnica.com/?p=1881084)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-13 21:39:53+00:00
- - tags: None
 
 When it gets too hot, it unrolls a reflective material to block absorption of light.
 
@@ -28,7 +25,6 @@ When it gets too hot, it unrolls a reflective material to block absorption of li
  - [https://arstechnica.com/?p=1881040](https://arstechnica.com/?p=1881040)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-13 20:03:01+00:00
- - tags: None
 
 Musk wants out, but shareholders approve $54.20-per-share purchase agreement.
 
@@ -36,7 +32,6 @@ Musk wants out, but shareholders approve $54.20-per-share purchase agreement.
  - [https://arstechnica.com/?p=1880993](https://arstechnica.com/?p=1880993)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-13 18:44:11+00:00
- - tags: None
 
 With up to 3.9 miles/kWh, vehicle-to-load, and very fast charging, there's a lot to like.
 
@@ -44,7 +39,6 @@ With up to 3.9 miles/kWh, vehicle-to-load, and very fast charging, there's a lot
  - [https://arstechnica.com/?p=1880846](https://arstechnica.com/?p=1880846)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-13 18:31:40+00:00
- - tags: None
 
 Loon's laser communications and networking software get new life as Aalyria.
 
@@ -52,7 +46,6 @@ Loon's laser communications and networking software get new life as Aalyria.
  - [https://arstechnica.com/?p=1880389](https://arstechnica.com/?p=1880389)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-13 17:45:02+00:00
- - tags: None
 
 Ars chats with xkcd creator Randall Munroe about his new book, <em>What If? 2</em>.
 
@@ -60,7 +53,6 @@ Ars chats with xkcd creator Randall Munroe about his new book, <em>What If? 2</e
  - [https://arstechnica.com/?p=1880953](https://arstechnica.com/?p=1880953)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-13 17:25:35+00:00
- - tags: None
 
 Snap claims Meta wants “to reconstruct virtually every decision Snap has made.”
 
@@ -68,7 +60,6 @@ Snap claims Meta wants “to reconstruct virtually every decision Snap has made.
  - [https://arstechnica.com/?p=1880545](https://arstechnica.com/?p=1880545)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-13 17:15:00+00:00
- - tags: None
 
 Most soft robots are slow, but these feel the need for speed.
 
@@ -76,7 +67,6 @@ Most soft robots are slow, but these feel the need for speed.
  - [https://arstechnica.com/?p=1880815](https://arstechnica.com/?p=1880815)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-13 17:13:54+00:00
- - tags: None
 
 Setting up Wi-Fi, and using a camera for all kinds of projects, both get better.
 
@@ -84,7 +74,6 @@ Setting up Wi-Fi, and using a camera for all kinds of projects, both get better.
  - [https://arstechnica.com/?p=1880915](https://arstechnica.com/?p=1880915)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-13 16:56:44+00:00
- - tags: None
 
 A new <em>Fire Emblem</em> and an anime-inspired rhythm boxing game feature.
 
@@ -92,7 +81,6 @@ A new <em>Fire Emblem</em> and an anime-inspired rhythm boxing game feature.
  - [https://arstechnica.com/?p=1880827](https://arstechnica.com/?p=1880827)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-13 16:44:16+00:00
- - tags: None
 
 New technique uses an image synthesis model and some JavaScript to work its magic.
 
@@ -100,7 +88,6 @@ New technique uses an image synthesis model and some JavaScript to work its magi
  - [https://arstechnica.com/?p=1880866](https://arstechnica.com/?p=1880866)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-13 16:25:27+00:00
- - tags: None
 
 Peiter Zatko testifies, and senators have a list of questions for Twitter CEO.
 
@@ -108,7 +95,6 @@ Peiter Zatko testifies, and senators have a list of questions for Twitter CEO.
  - [https://arstechnica.com/?p=1880793](https://arstechnica.com/?p=1880793)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-13 16:15:59+00:00
- - tags: None
 
 It's $10 more expensive than it used to be, but the improvements are worth it.
 
@@ -116,7 +102,6 @@ It's $10 more expensive than it used to be, but the improvements are worth it.
  - [https://arstechnica.com/?p=1880816](https://arstechnica.com/?p=1880816)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-13 16:07:26+00:00
- - tags: None
 
 Good news for game preservationists, perhaps not for fans of the leaked remake.
 
@@ -124,7 +109,6 @@ Good news for game preservationists, perhaps not for fans of the leaked remake.
  - [https://arstechnica.com/?p=1880851](https://arstechnica.com/?p=1880851)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-13 15:31:51+00:00
- - tags: None
 
 Scientists think they might hold the key to helping protect us all.
 
@@ -132,7 +116,6 @@ Scientists think they might hold the key to helping protect us all.
  - [https://arstechnica.com/?p=1880829](https://arstechnica.com/?p=1880829)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-13 15:08:52+00:00
- - tags: None
 
 <em>Tears of the Kingdom</em> teaser shows open-world gliding, lots of climbing.
 
@@ -140,7 +123,6 @@ Scientists think they might hold the key to helping protect us all.
  - [https://arstechnica.com/?p=1880779](https://arstechnica.com/?p=1880779)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-13 14:27:36+00:00
- - tags: None
 
 Intel hasn't disclosed when we'll see this kind of performance in products.
 
@@ -148,7 +130,6 @@ Intel hasn't disclosed when we'll see this kind of performance in products.
  - [https://arstechnica.com/?p=1880799](https://arstechnica.com/?p=1880799)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-13 14:16:12+00:00
- - tags: None
 
 A growing body of research suggests that gas stoves can pose health risks.
 
@@ -156,7 +137,6 @@ A growing body of research suggests that gas stoves can pose health risks.
  - [https://arstechnica.com/?p=1880724](https://arstechnica.com/?p=1880724)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-13 14:01:21+00:00
- - tags: None
 
 The rare AFM has peaked in 2-year cycles. But it missed its last cycle amid COVID.
 
@@ -164,6 +144,5 @@ The rare AFM has peaked in 2-year cycles. But it missed its last cycle amid COVI
  - [https://arstechnica.com/?p=1880745](https://arstechnica.com/?p=1880745)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-13 13:29:03+00:00
- - tags: None
 
 "Why, Mr. Spock, you almost make me believe in miracles."

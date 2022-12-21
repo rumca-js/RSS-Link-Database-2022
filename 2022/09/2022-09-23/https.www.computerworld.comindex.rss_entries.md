@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Podcast: iPhone 14 Pro: Buy or nah?
  - [https://www.computerworld.com/article/3674808/podcast-iphone-14-pro-buy-or-nah.html#tk.rss_all](https://www.computerworld.com/article/3674808/podcast-iphone-14-pro-buy-or-nah.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-23 18:41:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -15,7 +14,6 @@
  - [https://www.computerworld.com/article/3674869/jamf-pro-now-lets-it-admins-manage-aws-mac-instances.html#tk.rss_all](https://www.computerworld.com/article/3674869/jamf-pro-now-lets-it-admins-manage-aws-mac-instances.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-23 11:19:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -25,7 +23,6 @@
  - [https://www.computerworld.com/article/3674315/google-pixel-battery-life.html#tk.rss_all](https://www.computerworld.com/article/3674315/google-pixel-battery-life.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-23 09:45:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

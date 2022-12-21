@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Everything Apple didn’t announce at its iPhone 14 event
  - [https://www.theverge.com/2022/9/7/23341609/apple-iphone-14-far-out-event-missing-announcements](https://www.theverge.com/2022/9/7/23341609/apple-iphone-14-far-out-event-missing-announcements)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 23:04:16+00:00
- - tags: None
 
 <figure>
       <img alt="A black and white graphic showing the Apple logo" src="https://cdn.vox-cdn.com/thumbor/fWU4NO8q0Dc6Jf2iu8z-vjkPq-0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71336591/VRG_Illo_N_Barclay_1_apple.0.jpg" />
@@ -17,7 +16,6 @@
  - [https://www.theverge.com/2022/9/7/23341693/gamestop-ftx-partnership-gift-card-crypto](https://www.theverge.com/2022/9/7/23341693/gamestop-ftx-partnership-gift-card-crypto)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 21:47:46+00:00
- - tags: None
 
 <figure>
       <img alt="Retail Trader Favorite Gamestop Reports Quarterly Earnings" src="https://cdn.vox-cdn.com/thumbor/fu_RUY66bbvxitzM8BWxOvIDcFI=/0x0:3760x2507/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71336211/1357928376.0.jpg" />
@@ -30,7 +28,6 @@
  - [https://www.theverge.com/2022/9/7/23341651/apple-airpods-third-gen-charging-case-lightning-magsafe](https://www.theverge.com/2022/9/7/23341651/apple-airpods-third-gen-charging-case-lightning-magsafe)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 21:35:28+00:00
- - tags: None
 
 <figure>
       <img alt="Image showing the product page for Apple’s third-gen AirPods, with options for a Lightning or MagSafe charging case." src="https://cdn.vox-cdn.com/thumbor/SrQQDtiyD9dQK-w71uHR7ASQRPo=/0x54:1920x1334/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71336151/Screenshot_2022_09_07_at_13.29.05.0.png" />
@@ -43,7 +40,6 @@
  - [https://www.theverge.com/23316437/iphone-visual-history-apple-design-models](https://www.theverge.com/23316437/iphone-visual-history-apple-design-models)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 21:22:56+00:00
- - tags: None
 
 <figure>
       <img alt="A collage of iPhones from the original through the iPhone 12" src="https://cdn.vox-cdn.com/thumbor/vuYMvL1jrkjGRmRlbl5fxesTzBU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71297404/acastro_226164_iphoneHistory_0001.0.jpg" />
@@ -56,7 +52,6 @@
  - [https://www.theverge.com/23323757/apple-airpods-pro-new-second-gen-preorder-buy-price-release-date](https://www.theverge.com/23323757/apple-airpods-pro-new-second-gen-preorder-buy-price-release-date)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 20:37:57+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/BVNFSV40E7_J2x3jr-vFDVzVwi4=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71335815/Apple_Second_Gen_AirPods_Pro_Press_Image.0.jpg" />
@@ -69,7 +64,6 @@
  - [https://www.theverge.com/23320596/iphone-14-vs-android-apple-pro-comparison-price-specs](https://www.theverge.com/23320596/iphone-14-vs-android-apple-pro-comparison-price-specs)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 20:30:00+00:00
- - tags: None
 
 <figure>
       <img alt="Apple’s new iPhone 14 Pro models have a moving notch." src="https://cdn.vox-cdn.com/thumbor/MiUJiJyszgJCO7Ts_NDJ7N5mcYA=/300x0:3540x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71335756/Apple_iPhone_14_Pro_iPhone_14_Pro_Max_hero_220907.0.jpg" />
@@ -82,7 +76,6 @@
  - [https://www.theverge.com/2022/9/7/23341580/apple-fitness-plus-iphone-apple-watch-sign-up-subscribe](https://www.theverge.com/2022/9/7/23341580/apple-fitness-plus-iphone-apple-watch-sign-up-subscribe)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 20:23:31+00:00
- - tags: None
 
 <figure>
       <img alt="A person is meditating on a mat with their iPhone and a cup of tea next to them." src="https://cdn.vox-cdn.com/thumbor/Hq_iuT4eWjDKTfcwJPjH7mAmfA0=/154x0:1807x1102/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71335700/Apple_Fitness_Plus_meditation_lifestyle_220907.0.jpg" />
@@ -95,7 +88,6 @@
  - [https://www.theverge.com/2022/9/7/23341577/applecare-plus-unlimited-iphone-mac-ipad-airpods-watch-repairs](https://www.theverge.com/2022/9/7/23341577/applecare-plus-unlimited-iphone-mac-ipad-airpods-watch-repairs)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 20:20:11+00:00
- - tags: None
 
 <figure>
       <img alt="Image of someone holding an iPhone 14 Pro in the air." src="https://cdn.vox-cdn.com/thumbor/qH5e1C_X-oMPcICIE8oKz8pyamc=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71335686/DSC03670.0.jpeg" />
@@ -108,7 +100,6 @@
  - [https://www.theverge.com/23320607/iphone-14-plus-pro-max-preorder-buy-price-release-date-apple](https://www.theverge.com/23320607/iphone-14-plus-pro-max-preorder-buy-price-release-date-apple)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 19:59:43+00:00
- - tags: None
 
 <figure>
       <img alt="iPhone 14 and iPhone 14 Plus being held up, with screens displaying a colorful wallpaper." src="https://cdn.vox-cdn.com/thumbor/6Ay53SMFGQEBTyA5Xr6dRODfmBc=/0x0:2160x1440/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71335553/iphone14sidebyside.0.jpg" />
@@ -121,7 +112,6 @@
  - [https://www.theverge.com/2022/9/7/23341025/apple-airpods-pro-second-gen-hands-on-impressions-fall-event-2022](https://www.theverge.com/2022/9/7/23341025/apple-airpods-pro-second-gen-hands-on-impressions-fall-event-2022)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 19:23:29+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/haK2XBmfK4Hqsixxygv_CNY5bM4=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71335300/DSCF9191.0.jpeg" />
@@ -134,7 +124,6 @@
  - [https://www.theverge.com/2022/9/7/23341487/sony-microsoft-call-of-duty-offer-jim-ryan-statement-activision-blizzard](https://www.theverge.com/2022/9/7/23341487/sony-microsoft-call-of-duty-offer-jim-ryan-statement-activision-blizzard)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 19:15:28+00:00
- - tags: None
 
 <figure>
       <img alt="A player in Call of Duty: Modern Warfare II" src="https://cdn.vox-cdn.com/thumbor/Jdkx3LfnZoFl4WUnhV_wJvmfCZU=/300x0:3540x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71335250/ezgif.com_gif_maker.0.jpg" />
@@ -147,7 +136,6 @@
  - [https://www.theverge.com/2022/9/7/23341368/apple-iphone-14-dual-esim-no-physical-sim](https://www.theverge.com/2022/9/7/23341368/apple-iphone-14-dual-esim-no-physical-sim)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 19:07:49+00:00
- - tags: None
 
 <figure>
       <img alt="Image of the iPhone 14 and the iPhone 14 Plus, both in a light shade of blue." src="https://cdn.vox-cdn.com/thumbor/7jRtSOfL5gfEZ5SrSpbFJ6F3qT4=/246x0:2676x1620/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71335216/Apple_iPhone_14_iPhone_14_Plus_hero_220907_Full_Bleed_Image.jpg.large_2x.0.jpg" />
@@ -160,7 +148,6 @@
  - [https://www.theverge.com/23322152/apple-watch-series-8-ultra-se-preorder-buy-price-release-date](https://www.theverge.com/23322152/apple-watch-series-8-ultra-se-preorder-buy-price-release-date)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 19:06:41+00:00
- - tags: None
 
 <figure>
       <img alt="A side-by-side lineup of Apple’s new Apple Watches for 2022. Left: Apple Watch Series 8. Center: Apple Watch Ultra. Right: Apple Watch SE (2022)." src="https://cdn.vox-cdn.com/thumbor/QsshlL7nfHcECvTYx0CZypZeVA0=/171x21:2265x1417/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71335204/Apple_Watch_2022_lineup_keynote_screenshot.10.png" />
@@ -173,7 +160,6 @@
  - [https://www.theverge.com/23338833/iphone-14-pro-max-hands-on-notch-features-apple-event](https://www.theverge.com/23338833/iphone-14-pro-max-hands-on-notch-features-apple-event)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 19:02:46+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/VXHqwzqszl81xf7TfETa9ob7Le8=/706x0:2284x1052/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71335167/DSC03660.5.jpeg" />
@@ -186,7 +172,6 @@
  - [https://www.theverge.com/2022/9/7/23313663/iphone-14-plus-a15-processor-no-upgrade-apple-event](https://www.theverge.com/2022/9/7/23313663/iphone-14-plus-a15-processor-no-upgrade-apple-event)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 19:01:12+00:00
- - tags: None
 
 <figure>
       <img alt="Image showing all the modes of the iPhone 14 in black, blue, starlight, purple, and red." src="https://cdn.vox-cdn.com/thumbor/2o1iUvN0TR1hOqBT0ZThw2d6km8=/225x0:2655x1620/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71334873/Apple_iPhone_14_iPhone_14_Plus_5up_hero_220907_Full_Bleed_Image.jpg.large_2x.5.jpg" />
@@ -199,7 +184,6 @@
  - [https://www.theverge.com/2022/9/7/23341051/kiwi-farms-internet-archive-backup-removal](https://www.theverge.com/2022/9/7/23341051/kiwi-farms-internet-archive-backup-removal)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 19:00:21+00:00
- - tags: None
 
 <figure>
       <img alt="An image of a hand holding a mouse against a multicolored background." src="https://cdn.vox-cdn.com/thumbor/ho49Ikoa-6_WOwsn7poLcvbO1bg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71335137/akrales_220209_4977_0290.0.jpg" />
@@ -212,7 +196,6 @@
  - [https://www.theverge.com/23333525/iphone-14-plus-hands-on-features-apple-event](https://www.theverge.com/23333525/iphone-14-plus-hands-on-features-apple-event)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 18:58:20+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/RN0L6qSLZbwkE2A02mBGa_W979Y=/4x0:3004x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71335103/DSC03579.0.jpeg" />
@@ -225,7 +208,6 @@
  - [https://www.theverge.com/23341046/apple-iphone-14-plus-pro-max-notch-event-announcements-watch-8-se-ultra-airpods-pro](https://www.theverge.com/23341046/apple-iphone-14-plus-pro-max-notch-event-announcements-watch-8-se-ultra-airpods-pro)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 18:57:44+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/5IHY8ksDk4P733CwlFvEYORI6rk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71335099/VRG_Illo_5258_K_Radtke_WWDC.0.jpg" />
@@ -239,7 +221,6 @@
  - [https://www.theverge.com/23324010/apple-watch-series-8-se-ultra-hands-on-features-apple-event](https://www.theverge.com/23324010/apple-watch-series-8-se-ultra-hands-on-features-apple-event)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 18:53:08+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/nm-DjQqDcpbpj1sBsdQeVcc3eMc=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71335078/DSCF9183.0.jpeg" />
@@ -252,7 +233,6 @@
  - [https://www.theverge.com/2022/9/7/23323995/apple-watch-series-3-discontinued](https://www.theverge.com/2022/9/7/23323995/apple-watch-series-3-discontinued)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 18:52:10+00:00
- - tags: None
 
 <figure>
       <img alt="Apple Watch Series 3" src="https://cdn.vox-cdn.com/thumbor/oHO2MFHmUsSAC8V8wuj4qqfRTlE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71335064/akrales_171113_2119_0074.0.jpg" />
@@ -265,7 +245,6 @@
  - [https://www.theverge.com/2022/9/7/23340157/snapchat-evan-spiegel-leaked-memo-turnaround](https://www.theverge.com/2022/9/7/23340157/snapchat-evan-spiegel-leaked-memo-turnaround)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 18:51:49+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/2UbATwaYcj3m5hGKH3G8pVogojI=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71335058/Evan_Spiegel.0.jpg" />
@@ -281,7 +260,6 @@
  - [https://www.theverge.com/2022/9/7/23322316/apple-watch-watchos-9-release-date-features](https://www.theverge.com/2022/9/7/23322316/apple-watch-watchos-9-release-date-features)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 18:49:40+00:00
- - tags: None
 
 <figure>
       <img alt="The Apple Watch Series 7 displaying watchOS 9’s Lunar watch face" src="https://cdn.vox-cdn.com/thumbor/kcquvE2f902a9dKqMjan50AUcs0=/0x0:2030x1353/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71335024/IMG_0311.0.jpg" />
@@ -294,7 +272,6 @@
  - [https://www.theverge.com/2022/9/7/23320863/apple-iphone-13-pro-max-12-11-price-cut-discontinued](https://www.theverge.com/2022/9/7/23320863/apple-iphone-13-pro-max-12-11-price-cut-discontinued)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 18:45:27+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/4kVys_yIC7RGZx8V5AA5mw4m__U=/0x0:2000x1333/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71334991/lcimg_6b56fbe5_d33c_4ed9_9411_f30daa6cf565.0.jpg" />
@@ -307,7 +284,6 @@
  - [https://www.theverge.com/2022/9/7/23319856/apple-ios-16-ipados-release-date-features](https://www.theverge.com/2022/9/7/23319856/apple-ios-16-ipados-release-date-features)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 18:42:25+00:00
- - tags: None
 
 <figure>
       <img alt="Different iPhone screens with ios 16" src="https://cdn.vox-cdn.com/thumbor/FWjQz3QdxkSBznGsPAgp3elFwzo=/305x0:2357x1368/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71334975/Screen_Shot_2022_09_07_at_2.39.09_PM.0.png" />
@@ -320,7 +296,6 @@
  - [https://www.theverge.com/2022/9/7/23328608/apple-watch-se-new-second-gen-price-specs-features-release-date](https://www.theverge.com/2022/9/7/23328608/apple-watch-se-new-second-gen-price-specs-features-release-date)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 17:59:55+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/YPeUCwEsQArsqAiPg8T3Y_oBybY=/0x0:2000x1333/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71334548/lcimg_69fdc845_931b_4cfb_ba63_bbe04f91c30f.0.jpeg" />
@@ -333,7 +308,6 @@
  - [https://www.theverge.com/2022/9/7/23320888/iphone-14-plus-specs-price-release-date-screen-notch-cameras-apple-event](https://www.theverge.com/2022/9/7/23320888/iphone-14-plus-specs-price-release-date-screen-notch-cameras-apple-event)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 17:58:49+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/-L8A1TpEd8oyDOxRL0HuO2Y2wSs=/0x0:2000x1333/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71334685/lcimg_017e38ca_359f_41a3_9b67_94dd2fd84dca.0.jpg" />
@@ -345,7 +319,6 @@
  - [https://www.theverge.com/2022/9/7/23340922/bose-quietcomfort-earbuds-ii-noise-cancellation-price-features-release-date](https://www.theverge.com/2022/9/7/23340922/bose-quietcomfort-earbuds-ii-noise-cancellation-price-features-release-date)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 17:45:36+00:00
- - tags: None
 
 <figure>
       <img alt="Person removing Bose QuietComfort Earbuds II from their charging case." src="https://cdn.vox-cdn.com/thumbor/53V4S8F3KNsVwlGzb4RwpGDwWiY=/0x0:1620x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71334667/bosecase.0.jpg" />
@@ -358,7 +331,6 @@
  - [https://www.theverge.com/2022/9/7/23327631/apple-airpods-pro-new-second-gen-specs-price-release-date-features](https://www.theverge.com/2022/9/7/23327631/apple-airpods-pro-new-second-gen-specs-price-release-date-features)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 17:43:42+00:00
- - tags: None
 
 <figure>
       <img alt="Apple shows the new AirPods Pro on a slide during its “Far Out” presentation. The design looks similar to the original AirPods Pro." src="https://cdn.vox-cdn.com/thumbor/Vx_39oIQPWaEttwn7X8eptOYVDU=/0x0:2000x1333/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71334655/lcimg_0531a619_2e3f_417b_954e_df3ed22f30e0.5.jpeg" />
@@ -369,7 +341,6 @@
  - [https://www.theverge.com/2022/9/7/23341259/apple-watch-series-8-ovulation-period-tracking-temperature-sensor](https://www.theverge.com/2022/9/7/23341259/apple-watch-series-8-ovulation-period-tracking-temperature-sensor)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 17:29:18+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/1Qil4BSEaEJk56uWWUHyqZVFV64=/0x0:2000x1333/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71334564/lcimg_283e78b2_d7ed_464c_8d0d_9bb0883f3684.0.jpeg" />
@@ -383,7 +354,6 @@
  - [https://www.theverge.com/2022/9/7/23323980/apple-watch-ultra-specs-price-features-release-date](https://www.theverge.com/2022/9/7/23323980/apple-watch-ultra-specs-price-features-release-date)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 17:27:08+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/tbX23peBQ8KMbdd49PUMErCVDWA=/0x0:2000x1333/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71334552/lcimg_77b65846_b84d_4b70_9901_709bd37c5b77.0.jpg" />
@@ -395,7 +365,6 @@
  - [https://www.theverge.com/2022/9/7/23313786/apple-watch-series-8-specs-price-features-release-date](https://www.theverge.com/2022/9/7/23313786/apple-watch-series-8-specs-price-features-release-date)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 17:17:50+00:00
- - tags: None
 
 <figure>
       <img alt="Image of the Apple Watch Series 8 along with the price of $399 for the GPS model and $499 for the cellular model." src="https://cdn.vox-cdn.com/thumbor/Qu0sgbT-muNef6JdD2of3c4wARk=/0x0:2000x1333/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71334489/lcimg_3bf31116_13f7_4d8f_b8ed_d525392ea3ca.5.jpg" />
@@ -408,7 +377,6 @@
  - [https://www.theverge.com/2022/9/7/23340821/california-electricity-grid-power-outage-text-phone-alert](https://www.theverge.com/2022/9/7/23340821/california-electricity-grid-power-outage-text-phone-alert)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 16:46:01+00:00
- - tags: None
 
 <figure>
       <img alt="The sun shines behind electrical power lines." src="https://cdn.vox-cdn.com/thumbor/cFYpz9bW0f94UI99AALu23eEcD8=/0x0:2880x1920/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71334332/1242997343.0.jpg" />
@@ -421,7 +389,6 @@
  - [https://www.theverge.com/good-deals/22876408/best-gaming-headset-deals-sales](https://www.theverge.com/good-deals/22876408/best-gaming-headset-deals-sales)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 16:41:34+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/twf3rzDdhwbFmzx5reNOs-ZvcC8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/70446099/akrales_211109_4870_0299.0.jpg" />
@@ -434,7 +401,6 @@
  - [https://www.theverge.com/2022/9/7/23340934/amd-ryzen-model-numbers-naming-announcement](https://www.theverge.com/2022/9/7/23340934/amd-ryzen-model-numbers-naming-announcement)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 16:34:56+00:00
- - tags: None
 
 <figure>
       <img alt="Image: AMD" src="https://cdn.vox-cdn.com/thumbor/5YzNFeX6uZimkWv4erUEpkLGOfA=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71334275/Chip_Shot_AMD_Ryzen_PRO_Mobile_Processor_v1_In_Situ.0.jpg" />
@@ -447,7 +413,6 @@
  - [https://www.theverge.com/2022/9/7/23341085/google-new-cheap-chromecast-dongle-hd-streaming-price-leak](https://www.theverge.com/2022/9/7/23341085/google-new-cheap-chromecast-dongle-hd-streaming-price-leak)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 16:30:58+00:00
- - tags: None
 
 <figure>
       <img alt="Google Chromecast with remote" src="https://cdn.vox-cdn.com/thumbor/88LXiF3hDGCermaLfFnF8RvUucw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71334240/DSCF2108.0.jpg" />
@@ -460,7 +425,6 @@
  - [https://www.theverge.com/2022/9/7/23341045/former-conti-ransomware-gang-target-ukraine-google](https://www.theverge.com/2022/9/7/23341045/former-conti-ransomware-gang-target-ukraine-google)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 16:11:52+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/7jUXlGq6ewXdUBl7HjWkRqY6PNU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71334138/akrales_220309_4977_0305.0.jpg" />
@@ -474,7 +438,6 @@
  - [https://www.theverge.com/2022/9/7/23339616/apple-iphone-14-event-live-blog-updates-news](https://www.theverge.com/2022/9/7/23339616/apple-iphone-14-event-live-blog-updates-news)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 16:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="The outline of the Apple logo dotted in lights." src="https://cdn.vox-cdn.com/thumbor/1NpOgCsekMKq2efPYIzj-TD2-Qk=/0x3:1472x984/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71334052/Apple_Event_image.0.jpg" />
@@ -491,7 +454,6 @@
  - [https://www.theverge.com/2022/9/7/23340901/ben-shapiro-podcast-movement-twitter-cumulus-alex-cooper-forbes](https://www.theverge.com/2022/9/7/23340901/ben-shapiro-podcast-movement-twitter-cumulus-alex-cooper-forbes)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 16:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="After Ben Shapiro’s appearance at Podcast Movement prompted outcry, the company that handles his podcast sales is cutting ties with the event." src="https://cdn.vox-cdn.com/thumbor/Y_pGGiDh2qy8wLUGb2whfjSAUEw=/39x164:2652x1906/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71334053/1307652285.0.jpg" />
@@ -501,7 +463,6 @@
  - [https://www.theverge.com/2022/9/7/23341003/twitter-birdwatch-community-moderation-notes-misinformation-tweets-qanon](https://www.theverge.com/2022/9/7/23341003/twitter-birdwatch-community-moderation-notes-misinformation-tweets-qanon)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 16:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/oEtTLHEtELnwjamomdnOp9XwUMk=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71334065/acastro_STK050_02.0.jpg" />
@@ -515,7 +476,6 @@
  - [https://www.theverge.com/2022/9/7/23340982/netflix-teletubbies-tituss-burgess](https://www.theverge.com/2022/9/7/23340982/netflix-teletubbies-tituss-burgess)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 15:51:00+00:00
- - tags: None
 
 <figure>
       <img alt="A group of aliens — one purple, one yellow, one green and one red, smiling and waving from a scenic vista as a sun with a face and a man smile down on them from above." src="https://cdn.vox-cdn.com/thumbor/-BSTE1VxXsF3XcumqLp4lwYzehU=/72x0:1428x904/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71334031/EN_US_TLTBS1_Main_Titus_Vertical_27x40_RGB_PRE.0.jpeg" />
@@ -526,7 +486,6 @@
  - [https://www.theverge.com/2022/9/7/23340818/youtube-tv-surround-sound-5-1-apple-tv-amazon-fire-tv](https://www.theverge.com/2022/9/7/23340818/youtube-tv-surround-sound-5-1-apple-tv-amazon-fire-tv)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 15:20:18+00:00
- - tags: None
 
 <figure>
       <img alt="Floating into a space black hole is a “5.1 AUDIO” text in bold and silver 3D, with “now enabled” in smaller white text underneath and a small YouTube TV logo under that. The black hole looks like a red circular particle render that could visual indicate “surround sound audio”" src="https://cdn.vox-cdn.com/thumbor/40cV7U-1qS9x4AvfnEyAM7wJQRk=/92x0:1109x678/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71333928/Fb_8YukaUAAGY6x.0.jpeg" />
@@ -536,7 +495,6 @@
  - [https://www.theverge.com/2022/9/7/23340732/apple-event-heat-wave-california-power-grid-iphone](https://www.theverge.com/2022/9/7/23340732/apple-event-heat-wave-california-power-grid-iphone)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 15:15:27+00:00
- - tags: None
 
 <figure>
       <img alt="iPhone alert screen showing an emergency alert to conserve energy in California, against the backdrop of power lines." src="https://cdn.vox-cdn.com/thumbor/snbbLUS-LBP6w46aqmwgGQdu9p4=/1x0:4891x3260/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71333917/1243000705.0.jpg" />
@@ -549,7 +507,6 @@
  - [https://www.theverge.com/2022/9/7/23340705/eero-wi-fi-router-when-to-upgrade](https://www.theverge.com/2022/9/7/23340705/eero-wi-fi-router-when-to-upgrade)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 15:00:38+00:00
- - tags: None
 
 <figure>
       <img alt="An Eero Wi-Fi router" src="https://cdn.vox-cdn.com/thumbor/ifcNPnP_QxXYuuyLHb4Ln3wfA0U=/0x0:920x613/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71333869/eero_20lifestyle_20__20bookshelf.0.0.jpg" />
@@ -562,7 +519,6 @@
  - [https://www.theverge.com/2022/9/7/23340762/pokemon-scarlet-violet-nintendo-switch-oled-special-edition-trailer](https://www.theverge.com/2022/9/7/23340762/pokemon-scarlet-violet-nintendo-switch-oled-special-edition-trailer)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 14:12:53+00:00
- - tags: None
 
 <figure>
       <img alt="Image of Nintendo Switch OLED Pokémon Scarlet and Violet Edition, with matching Joy-Cons docked in their grip. The Pokémon Koraidon and Miraidon are on the front of the white system’s dock, and a Poké Ball design is on the back. The back of the system has drawings of the three Pokémon you can choose as your first partners in the game – Sprigatito, Fuecoco and Quaxly. The Joy-Cons have school emblems of the Naranja Academy and Uva Academy from the games." src="https://cdn
@@ -571,7 +527,6 @@
  - [https://www.theverge.com/2022/9/7/23340603/microsoft-xbox-elite-wireless-controller-series-2-core-white-controller-release-date-price](https://www.theverge.com/2022/9/7/23340603/microsoft-xbox-elite-wireless-controller-series-2-core-white-controller-release-date-price)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 14:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Microsoft’s new Xbox Elite Wireless Controller Series 2 Core controller" src="https://cdn.vox-cdn.com/thumbor/g4pCVepaRFxuFo9n3725GrxR_4M=/0x54:1080x774/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71333530/ES2___Core_in_White_Center.0.png" />
@@ -584,7 +539,6 @@
  - [https://www.theverge.com/23340822/samsung-galaxy-watch-5-pro-review-smartwatch-wear-os-3](https://www.theverge.com/23340822/samsung-galaxy-watch-5-pro-review-smartwatch-wear-os-3)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 14:00:00+00:00
- - tags: None
 
 <p>At least, in terms of reading and battery life</p>
   <p>
@@ -595,7 +549,6 @@
  - [https://www.theverge.com/23339801/splatoon-3-review-nintendo-switch](https://www.theverge.com/23339801/splatoon-3-review-nintendo-switch)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 14:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="A trio of new characters from Nintendo’s Splatoon 3." src="https://cdn.vox-cdn.com/thumbor/3dU4OqEfgfpv9xoBVC9k7DRvlWM=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71333495/Splatoon3_0924_scrn_StoryMode_NewSquidbeakSplatoon_00.0.jpg" />
@@ -611,7 +564,6 @@
  - [https://www.theverge.com/2022/9/7/23340636/microsoft-xbox-elite-2-controllers-design-lab-launch](https://www.theverge.com/2022/9/7/23340636/microsoft-xbox-elite-2-controllers-design-lab-launch)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 14:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="An Xbox Elite 2 controller" src="https://cdn.vox-cdn.com/thumbor/yumv2bYpwakbch9hnj0OthXVfw8=/8x0:2632x1749/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71333482/twarren_xboxelite2_1.0.jpg" />
@@ -624,7 +576,6 @@
  - [https://www.theverge.com/2022/9/7/23339673/musk-twitter-trial-delay-request-denied-whistleblower-claims-granted](https://www.theverge.com/2022/9/7/23339673/musk-twitter-trial-delay-request-denied-whistleblower-claims-granted)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 13:51:02+00:00
- - tags: None
 
 <figure>
       <img alt="An image of Elon Musk in front of trial scales." src="https://cdn.vox-cdn.com/thumbor/pKIGlQuWyBejqouIYpna6spU70c=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71333429/VRG_Illo_STK022_K_Radtke_Musk_Scales.0.jpg" />
@@ -637,7 +588,6 @@
  - [https://www.theverge.com/2022/9/7/23340725/tesla-model-y-five-star-safety-euro-ncap](https://www.theverge.com/2022/9/7/23340725/tesla-model-y-five-star-safety-euro-ncap)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 13:48:01+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/nDC5cH0puDGU8M3k05AlYdu8e7c=/62x0:689x418/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71333398/tesla_model_y_ncap_2.0.gif" />
@@ -650,7 +600,6 @@
  - [https://www.theverge.com/good-deals/2022/9/7/23339081/asus-chromebook-cm3-hulu-macbook-air-m2-anker-charger-deal-sale](https://www.theverge.com/good-deals/2022/9/7/23339081/asus-chromebook-cm3-hulu-macbook-air-m2-anker-charger-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 13:30:00+00:00
- - tags: None
 
 <figure>
       <img alt="The Asus Chromebook Detachable CM3 open, angled to the left. The screen displays a cartoon city scene on a pink background." src="https://cdn.vox-cdn.com/thumbor/320XvPz42D315DumJyuGIHnNPOU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71333310/mchin_20190829_4618_0003.0.jpg" />
@@ -663,7 +612,6 @@
  - [https://www.theverge.com/2022/9/7/23340667/destiny-2-eruption-iron-banner-mode-explained-review](https://www.theverge.com/2022/9/7/23340667/destiny-2-eruption-iron-banner-mode-explained-review)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 13:12:34+00:00
- - tags: None
 
 <figure>
       <img alt="A Destiny 2 player becomes primed in the new Eruption mode." src="https://cdn.vox-cdn.com/thumbor/o9aqPtEGqO8iDuZA5SO9RSUIJic=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71333255/TP_2022_IronBanner_Primed_04.0.jpg" />
@@ -676,7 +624,6 @@
  - [https://www.theverge.com/23339891/apple-iphone-14-event-watch-pro-wrist-computer](https://www.theverge.com/23339891/apple-iphone-14-event-watch-pro-wrist-computer)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 12:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="An Apple Watch on a stone surface, with a keyboard typing the word “hello.”" src="https://cdn.vox-cdn.com/thumbor/jdEokZe3gFbo1sjCx-7LUSxzuQs=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71332911/vpavic_211006_4796_0053.0.jpg" />
@@ -690,7 +637,6 @@
  - [https://www.theverge.com/2022/9/7/23340150/ring-end-to-end-encryption-video-doorbell-security-camera-battery](https://www.theverge.com/2022/9/7/23340150/ring-end-to-end-encryption-video-doorbell-security-camera-battery)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 12:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Ring Video Doorbell 4" src="https://cdn.vox-cdn.com/thumbor/63yjnyphuEiZsoP5yj0CtV7vKF8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71332897/jtuohy_220222_5259_0005.0.jpg" />
@@ -703,7 +649,6 @@
  - [https://www.theverge.com/2022/9/7/23340628/android-13-new-business-features-work-profiles-personal-data](https://www.theverge.com/2022/9/7/23340628/android-13-new-business-features-work-profiles-personal-data)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 11:42:42+00:00
- - tags: None
 
 <figure>
       <img alt="Android bot surrounded by padlocks" src="https://cdn.vox-cdn.com/thumbor/9lcKg3bEGWiKFzrrX8kEQLWZf-A=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71332873/acastro_180507_1777_android_privacy_0002.0.jpg" />
@@ -716,7 +661,6 @@
  - [https://www.theverge.com/2022/9/7/23340619/sony-ps5-1440p-update-social-ux-improvements-available](https://www.theverge.com/2022/9/7/23340619/sony-ps5-1440p-update-social-ux-improvements-available)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 10:26:37+00:00
- - tags: None
 
 <figure>
       <img alt="PS5 logo" src="https://cdn.vox-cdn.com/thumbor/HWnyhccRuWdrTUpYi-zM8_d3DXQ=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71332710/acastro_200318_1777_ps5_0001.0.jpg" />
@@ -729,7 +673,6 @@
  - [https://www.theverge.com/2022/9/7/23340577/sony-ps5-new-design-motherboard-less-power-lighter](https://www.theverge.com/2022/9/7/23340577/sony-ps5-new-design-motherboard-less-power-lighter)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 09:04:40+00:00
- - tags: None
 
 <figure>
       <img alt="A PS5 teardown of three different models" src="https://cdn.vox-cdn.com/thumbor/FC04w6BMiyIZLKD9ryftkUkm3Vo=/125x0:1474x899/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71332628/RxIiQhY.0.jpeg" />
@@ -742,7 +685,6 @@
  - [https://www.theverge.com/2022/9/7/23339954/google-maps-eco-friendly-routing-expanding-europe-fuel-types](https://www.theverge.com/2022/9/7/23339954/google-maps-eco-friendly-routing-expanding-europe-fuel-types)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 04:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Image of Google Maps displaying an eco-friendly route, along with information on how much gas it’ll use compared to a less fuel-efficient route." src="https://cdn.vox-cdn.com/thumbor/zkKZ-qDJRVbIPHl37CDiF2Urx30=/204x0:2451x1498/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71332335/Screenshot_2022_09_06_at_14.57.30.0.png" />
@@ -753,7 +695,6 @@
  - [https://www.theverge.com/2022/9/6/23339717/huawei-mate-50-pro-satellite-text-china-beidou](https://www.theverge.com/2022/9/6/23339717/huawei-mate-50-pro-satellite-text-china-beidou)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 01:31:30+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/U5QpedEMPPVw7j6gQV9y7B6hWZE=/239x0:2183x1296/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71332086/Screen_Shot_2022_09_06_at_12.30.03_PM.0.png" />
@@ -766,7 +707,6 @@
  - [https://www.theverge.com/2022/9/6/23340153/sundar-pichai-google-code-conference-liveblog](https://www.theverge.com/2022/9/6/23340153/sundar-pichai-google-code-conference-liveblog)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 01:09:28+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/o97dkBRGChRBPsNLSx_GRKZ-6ME=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71332010/VRG_Illo_STK179_L_Normand_SundarPichai_Neutral.0.jpg" />
@@ -783,7 +723,6 @@
  - [https://www.theverge.com/2022/9/6/23339889/cloudflare-kiwi-farms-content-moderation-ddos](https://www.theverge.com/2022/9/6/23339889/cloudflare-kiwi-farms-content-moderation-ddos)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-07 00:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/vnwQ86INKZdV58Vzflm8K5wsgyU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71331821/akrales_220309_4977_0182.0.jpg" />

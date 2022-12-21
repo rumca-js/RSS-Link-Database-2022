@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## 'Hey everyone,' says Walmart executive to the single person in its new Roblox metaverse nightmare
  - [https://www.pcgamer.com/hey-everyone-says-walmart-executive-to-the-single-person-in-its-new-roblox-metaverse-nightmare](https://www.pcgamer.com/hey-everyone-says-walmart-executive-to-the-single-person-in-its-new-roblox-metaverse-nightmare)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-28 22:35:51+00:00
- - tags: None
 
 The retail giant has teamed up with Roblox to create something called Walmart Land, and it looks terrible.
 
@@ -12,7 +11,6 @@ The retail giant has teamed up with Roblox to create something called Walmart La
  - [https://www.pcgamer.com/returnal-pc-leaks-again-definitely-has-dlss-and-fsr-support](https://www.pcgamer.com/returnal-pc-leaks-again-definitely-has-dlss-and-fsr-support)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-28 22:10:31+00:00
- - tags: None
 
 Sony should probably just announce this one already.
 
@@ -20,7 +18,6 @@ Sony should probably just announce this one already.
  - [https://www.pcgamer.com/power-washing-your-gpu-seems-like-a-terrible-idea](https://www.pcgamer.com/power-washing-your-gpu-seems-like-a-terrible-idea)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-28 21:33:46+00:00
- - tags: None
 
 These crypto miners resort to risky cleaning methods before selling their inventory on online auction sites.
 
@@ -28,7 +25,6 @@ These crypto miners resort to risky cleaning methods before selling their invent
  - [https://www.pcgamer.com/cyberpunk-2077-has-now-sold-more-than-20-million-copies](https://www.pcgamer.com/cyberpunk-2077-has-now-sold-more-than-20-million-copies)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-28 21:00:35+00:00
- - tags: None
 
 The Cyberennaisance continues.
 
@@ -36,7 +32,6 @@ The Cyberennaisance continues.
  - [https://www.pcgamer.com/huge-terraria-update-adds-new-legendary-difficulty-hundreds-of-content-and-qol-changes](https://www.pcgamer.com/huge-terraria-update-adds-new-legendary-difficulty-hundreds-of-content-and-qol-changes)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-28 20:42:37+00:00
- - tags: None
 
 This should keep Terraria players busy for the next year or so.
 
@@ -44,7 +39,6 @@ This should keep Terraria players busy for the next year or so.
  - [https://www.pcgamer.com/the-best-acer-laptop-for-gaming-2019](https://www.pcgamer.com/the-best-acer-laptop-for-gaming-2019)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-28 20:19:29+00:00
- - tags: None
 
 The best deal on an Acer gaming laptop is but a click and a screech away.
 
@@ -52,7 +46,6 @@ The best deal on an Acer gaming laptop is but a click and a screech away.
  - [https://www.pcgamer.com/best-ddr4-ram](https://www.pcgamer.com/best-ddr4-ram)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-28 19:40:19+00:00
- - tags: None
 
 Avoid bottlenecks with the best DDR4 RAM for gaming.
 
@@ -60,7 +53,6 @@ Avoid bottlenecks with the best DDR4 RAM for gaming.
  - [https://www.pcgamer.com/microsoft-flight-simulator-pilots-are-flying-through-hurricane-ian](https://www.pcgamer.com/microsoft-flight-simulator-pilots-are-flying-through-hurricane-ian)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-28 19:33:58+00:00
- - tags: None
 
 Once again the realistic flight sim is giving virtual pilots a safe way to observe an extreme weather event.
 
@@ -68,7 +60,6 @@ Once again the realistic flight sim is giving virtual pilots a safe way to obser
  - [https://www.pcgamer.com/terraria-just-added-a-new-mode-that-literally-turns-the-world-upside-down](https://www.pcgamer.com/terraria-just-added-a-new-mode-that-literally-turns-the-world-upside-down)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-28 19:20:52+00:00
- - tags: None
 
 The "Don't Dig Up" world seed flips Terraria on its head.
 
@@ -76,7 +67,6 @@ The "Don't Dig Up" world seed flips Terraria on its head.
  - [https://www.pcgamer.com/call-of-duty-warzone-10-says-farewell-with-free-banner-commemorating-its-worst-meta-ever](https://www.pcgamer.com/call-of-duty-warzone-10-says-farewell-with-free-banner-commemorating-its-worst-meta-ever)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-28 19:19:53+00:00
- - tags: None
 
 With Warzone 2.0 less than two months away, Activision has rolled out Warzone's final major update.
 
@@ -84,7 +74,6 @@ With Warzone 2.0 less than two months away, Activision has rolled out Warzone's 
  - [https://www.pcgamer.com/best-power-supply-unit-for-pc-gaming-our-top-psu-for-pc](https://www.pcgamer.com/best-power-supply-unit-for-pc-gaming-our-top-psu-for-pc)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-28 19:02:59+00:00
- - tags: None
 
 Watt's the best power supply unit for PC gaming? Best PSU puns, FTW!
 
@@ -92,7 +81,6 @@ Watt's the best power supply unit for PC gaming? Best PSU puns, FTW!
  - [https://www.pcgamer.com/the-first-6ghz-processor-is-coming-early-next-year](https://www.pcgamer.com/the-first-6ghz-processor-is-coming-early-next-year)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-28 17:52:35+00:00
- - tags: None
 
 This 13th gen Intel Core i9 will hit over 6GHz "out of the box."
 
@@ -100,7 +88,6 @@ This 13th gen Intel Core i9 will hit over 6GHz "out of the box."
  - [https://www.pcgamer.com/fortnite-flips-the-table-on-haters-by-selling-a-dead-game-shirt](https://www.pcgamer.com/fortnite-flips-the-table-on-haters-by-selling-a-dead-game-shirt)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-28 17:12:02+00:00
- - tags: None
 
 A pretty Epic comeback.
 
@@ -108,7 +95,6 @@ A pretty Epic comeback.
  - [https://www.pcgamer.com/i-cant-believe-im-saying-this-but-skull-and-bones-is-delayed-again](https://www.pcgamer.com/i-cant-believe-im-saying-this-but-skull-and-bones-is-delayed-again)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-28 16:31:27+00:00
- - tags: None
 
 The latest delay comes less than two months before the game's scheduled release.
 
@@ -116,7 +102,6 @@ The latest delay comes less than two months before the game's scheduled release.
  - [https://www.pcgamer.com/ea-and-koei-tecmo-reveal-their-new-magic-monster-hunting-game](https://www.pcgamer.com/ea-and-koei-tecmo-reveal-their-new-magic-monster-hunting-game)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-28 16:02:39+00:00
- - tags: None
 
 Wild Hearts looks a lot like Monster Hunter, but with an extra dash of weird magic.
 
@@ -124,7 +109,6 @@ Wild Hearts looks a lot like Monster Hunter, but with an extra dash of weird mag
  - [https://www.pcgamer.com/street-fighter-6-everything-we-know](https://www.pcgamer.com/street-fighter-6-everything-we-know)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-28 15:32:30+00:00
- - tags: None
 
 Everything you need to know about Street Fighter 6's roster, game modes, the new Drive Gauge, and more.
 
@@ -132,7 +116,6 @@ Everything you need to know about Street Fighter 6's roster, game modes, the new
  - [https://www.pcgamer.com/neat-bumblebee-ii-review](https://www.pcgamer.com/neat-bumblebee-ii-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-28 15:13:29+00:00
- - tags: None
 
 A redesigned budget microphone that suffers from poor build quality.
 
@@ -140,7 +123,6 @@ A redesigned budget microphone that suffers from poor build quality.
  - [https://www.pcgamer.com/how-to-clean-your-mouse-pad](https://www.pcgamer.com/how-to-clean-your-mouse-pad)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-28 14:59:44+00:00
- - tags: None
 
 The best way to get your mouse pad sparkling without ruining it for good.
 
@@ -148,7 +130,6 @@ The best way to get your mouse pad sparkling without ruining it for good.
  - [https://www.pcgamer.com/Intel-intel-xess-shadow-of-the-tomb-raider](https://www.pcgamer.com/Intel-intel-xess-shadow-of-the-tomb-raider)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-28 14:46:45+00:00
- - tags: None
 
 Death Stranding: Director's Cut also gets some upscaling love from Intel.
 
@@ -156,7 +137,6 @@ Death Stranding: Director's Cut also gets some upscaling love from Intel.
  - [https://www.pcgamer.com/assassins-creed-deserves-an-ending-that-ubisoft-cant-afford-to-give-it](https://www.pcgamer.com/assassins-creed-deserves-an-ending-that-ubisoft-cant-afford-to-give-it)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-28 14:44:07+00:00
- - tags: None
 
 Ubisoft's most popular series is a victim of its own success.
 
@@ -164,7 +144,6 @@ Ubisoft's most popular series is a victim of its own success.
  - [https://www.pcgamer.com/even-an-ai-thinks-using-ai-to-write-your-homework-is-a-bad-idea](https://www.pcgamer.com/even-an-ai-thinks-using-ai-to-write-your-homework-is-a-bad-idea)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-28 14:36:54+00:00
- - tags: None
 
 Kids have been using OpenAI software to do their homework. Here's what the AI thinks about that.
 
@@ -172,7 +151,6 @@ Kids have been using OpenAI software to do their homework. Here's what the AI th
  - [https://www.pcgamer.com/this-space-mmo-looks-like-halo-and-starfield-had-a-beautiful-baby](https://www.pcgamer.com/this-space-mmo-looks-like-halo-and-starfield-had-a-beautiful-baby)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-28 14:03:09+00:00
- - tags: None
 
 Earth from Another Sun might be hot stuff.
 
@@ -180,7 +158,6 @@ Earth from Another Sun might be hot stuff.
  - [https://www.pcgamer.com/genshin-impact-setaria-answers](https://www.pcgamer.com/genshin-impact-setaria-answers)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-28 13:43:36+00:00
- - tags: None
 
 Help Nahida fool the Grand Sage's assistant.
 
@@ -188,7 +165,6 @@ Help Nahida fool the Grand Sage's assistant.
  - [https://www.pcgamer.com/the-fastest-cars-in-gta-online](https://www.pcgamer.com/the-fastest-cars-in-gta-online)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-28 12:54:59+00:00
- - tags: None
 
 Our updated list of the fastest cars in GTA Online.
 
@@ -196,7 +172,6 @@ Our updated list of the fastest cars in GTA Online.
  - [https://www.pcgamer.com/chess-explodes-as-world-champion-accuses-opponent-of-cheating](https://www.pcgamer.com/chess-explodes-as-world-champion-accuses-opponent-of-cheating)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-28 12:54:58+00:00
- - tags: None
 
 Magnus Carlsen held his counsel, but has now let rip.
 
@@ -204,7 +179,6 @@ Magnus Carlsen held his counsel, but has now let rip.
  - [https://www.pcgamer.com/destiny-2-powerful-cabal-farm](https://www.pcgamer.com/destiny-2-powerful-cabal-farm)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-28 12:20:23+00:00
- - tags: None
 
 Beat these yellow bar enemies to complete the weekly challenge.
 
@@ -212,7 +186,6 @@ Beat these yellow bar enemies to complete the weekly challenge.
  - [https://www.pcgamer.com/intel-raptor-lake-34-core-chip](https://www.pcgamer.com/intel-raptor-lake-34-core-chip)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-28 12:00:04+00:00
- - tags: None
 
 It looks like a server chip yet it's labelled as Raptor Lake-S. Intriguing.
 
@@ -220,7 +193,6 @@ It looks like a server chip yet it's labelled as Raptor Lake-S. Intriguing.
  - [https://www.pcgamer.com/wrath-of-the-lich-king-was-world-of-warcrafts-golden-age](https://www.pcgamer.com/wrath-of-the-lich-king-was-world-of-warcrafts-golden-age)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-28 11:57:13+00:00
- - tags: None
 
 Blizzard's flagship game has never been better.
 
@@ -228,7 +200,6 @@ Blizzard's flagship game has never been better.
  - [https://www.pcgamer.com/netflix-establishes-its-first-in-house-game-studio](https://www.pcgamer.com/netflix-establishes-its-first-in-house-game-studio)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-28 11:52:39+00:00
- - tags: None
 
 After buying several existing studios, the streaming giant has founded its own.
 
@@ -236,7 +207,6 @@ After buying several existing studios, the streaming giant has founded its own.
  - [https://www.pcgamer.com/wow-wrath-classic-dalaran-wotlk](https://www.pcgamer.com/wow-wrath-classic-dalaran-wotlk)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-28 11:43:49+00:00
- - tags: None
 
 You can pick up the quest from multiple locations.
 
@@ -244,7 +214,6 @@ You can pick up the quest from multiple locations.
  - [https://www.pcgamer.com/genshin-impact-scarab-locations](https://www.pcgamer.com/genshin-impact-scarab-locations)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-28 10:56:21+00:00
- - tags: None
 
 These desert beetles are one of Cyno's ascension materials.
 
@@ -252,7 +221,6 @@ These desert beetles are one of Cyno's ascension materials.
  - [https://www.pcgamer.com/todays-wordle-466-answer-hint](https://www.pcgamer.com/todays-wordle-466-answer-hint)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-28 07:01:28+00:00
- - tags: None
 
 Wordle today: The solution and a hint for Wednesday's puzzle.
 
@@ -260,7 +228,6 @@ Wordle today: The solution and a hint for Wednesday's puzzle.
  - [https://www.pcgamer.com/nvidia-clears-up-concerns-regarding-power-supplies-and-next-gen-gpus](https://www.pcgamer.com/nvidia-clears-up-concerns-regarding-power-supplies-and-next-gen-gpus)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-28 06:02:13+00:00
- - tags: None
 
 Other than the usual minimum wattage requirements, don't stress.
 
@@ -268,6 +235,5 @@ Other than the usual minimum wattage requirements, don't stress.
  - [https://www.pcgamer.com/our-favourite-qd-oled-monitor-gets-a-dollar200-cheaper-freesync-variant](https://www.pcgamer.com/our-favourite-qd-oled-monitor-gets-a-dollar200-cheaper-freesync-variant)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-28 05:03:09+00:00
- - tags: None
 
 Not having to pay to use Nvidia's tech sure makes for savings.

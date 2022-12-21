@@ -1,10 +1,9 @@
-# Source Sorelle Amore Finance, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q
+# Source Sorelle Amore Finance, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q, Source language: en-US
 
 ## Why China's economy is worse than you think (the three "Ds")
  - [https://www.youtube.com/watch?v=cf53Qd2wzQI](https://www.youtube.com/watch?v=cf53Qd2wzQI)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q
  - date published: 2022-09-29 15:01:16+00:00
- - tags: None
 
 Get a very special offer from NordVPN here: https://nordvpn.com/sorelle
 📚 OUR COURSE/MEMBERSHIP: http://jointheorder.co/

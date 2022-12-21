@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## Google Search results could actually be useful again starting today
  - [https://www.androidauthority.com/google-search-results-3214502/](https://www.androidauthority.com/google-search-results-3214502/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-28 22:50:06+00:00
- - tags: None
 
 Google Search is getting some improvements.
 
@@ -12,7 +11,6 @@ Google Search is getting some improvements.
  - [https://www.androidauthority.com/best-desktop-computer-deals-1115949/](https://www.androidauthority.com/best-desktop-computer-deals-1115949/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-28 20:55:57+00:00
- - tags: None
 
 From all types of PC to monitors, keyboards, mice, and more, we've got dozens of deals for work or play.
 
@@ -20,7 +18,6 @@ From all types of PC to monitors, keyboards, mice, and more, we've got dozens of
  - [https://www.androidauthority.com/save-location-google-maps-3096620/](https://www.androidauthority.com/save-location-google-maps-3096620/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-28 20:18:43+00:00
- - tags: None
 
 Here's how to keep track of your favorite places and find where you parked your car on Google Maps.
 
@@ -28,7 +25,6 @@ Here's how to keep track of your favorite places and find where you parked your 
  - [https://www.androidauthority.com/find-highlight-remove-duplicates-google-sheets-3109731/](https://www.androidauthority.com/find-highlight-remove-duplicates-google-sheets-3109731/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-28 20:00:32+00:00
- - tags: None
 
 Are you seeing double?
 
@@ -36,7 +32,6 @@ Are you seeing double?
  - [https://www.androidauthority.com/razor-edge-5g-3214346/](https://www.androidauthority.com/razor-edge-5g-3214346/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-28 19:19:37+00:00
- - tags: None
 
 Verizon, Razer, and Qualcomm are working on a new mobile gaming handheld.
 
@@ -44,7 +39,6 @@ Verizon, Razer, and Qualcomm are working on a new mobile gaming handheld.
  - [https://www.androidauthority.com/dark-mode-facebook-3137957/](https://www.androidauthority.com/dark-mode-facebook-3137957/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-28 18:47:10+00:00
- - tags: None
 
 Come over to the dark side.
 
@@ -52,7 +46,6 @@ Come over to the dark side.
  - [https://www.androidauthority.com/apple-iphone-14-pro-review-3211866/](https://www.androidauthority.com/apple-iphone-14-pro-review-3211866/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-28 18:30:49+00:00
- - tags: None
 
 This resort is all-exclusive.
 
@@ -60,7 +53,6 @@ This resort is all-exclusive.
  - [https://www.androidauthority.com/amazon-kindle-scribe-3214237/](https://www.androidauthority.com/amazon-kindle-scribe-3214237/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-28 17:32:54+00:00
- - tags: None
 
 Amazon announced the Kindle Scribe today during its hardware event.
 
@@ -68,7 +60,6 @@ Amazon announced the Kindle Scribe today during its hardware event.
  - [https://www.androidauthority.com/manage-ps5-storage-3150562/](https://www.androidauthority.com/manage-ps5-storage-3150562/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-28 16:05:17+00:00
- - tags: None
 
 Optimize your storage space, so you don't run out of room.
 
@@ -76,7 +67,6 @@ Optimize your storage space, so you don't run out of room.
  - [https://www.androidauthority.com/new-pixel-7-leak-3214130/](https://www.androidauthority.com/new-pixel-7-leak-3214130/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-28 15:53:37+00:00
- - tags: None
 
 Pixel 7 leak reveals the front and back of the device.
 
@@ -84,7 +74,6 @@ Pixel 7 leak reveals the front and back of the device.
  - [https://www.androidauthority.com/samsung-galaxy-s23-ultra-design-3214006/](https://www.androidauthority.com/samsung-galaxy-s23-ultra-design-3214006/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-28 14:56:22+00:00
- - tags: None
 
 Leaked renders give us a good idea of what to expect from Samsung's most feature-packed phone of 2023.
 
@@ -92,7 +81,6 @@ Leaked renders give us a good idea of what to expect from Samsung's most feature
  - [https://www.androidauthority.com/make-table-of-contents-google-docs-3114101/](https://www.androidauthority.com/make-table-of-contents-google-docs-3114101/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-28 14:02:06+00:00
- - tags: None
 
 A bit of structure goes a long way to help outline and organize your thoughts.
 
@@ -100,7 +88,6 @@ A bit of structure goes a long way to help outline and organize your thoughts.
  - [https://www.androidauthority.com/unsend-message-imessage-3185545/](https://www.androidauthority.com/unsend-message-imessage-3185545/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-28 14:00:26+00:00
- - tags: None
 
 Cringing at the embarrassing typo in your iMessage? Cringe no more.
 
@@ -108,7 +95,6 @@ Cringing at the embarrassing typo in your iMessage? Cringe no more.
  - [https://www.androidauthority.com/galaxy-z-fold-5-s-pen-slot-3212085/](https://www.androidauthority.com/galaxy-z-fold-5-s-pen-slot-3212085/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-28 14:00:26+00:00
- - tags: None
 
 Large-screen foldables are a new form factor, just different enough from a traditional smartphone that the rules change.
 
@@ -116,7 +102,6 @@ Large-screen foldables are a new form factor, just different enough from a tradi
  - [https://www.androidauthority.com/wallpaper-wednesday-sep-28-2022-3212995/](https://www.androidauthority.com/wallpaper-wednesday-sep-28-2022-3212995/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-28 13:30:56+00:00
- - tags: None
 
 Here is a weekly selection of Android wallpapers created by our readers and members of the Android Authority team!
 
@@ -124,7 +109,6 @@ Here is a weekly selection of Android wallpapers created by our readers and memb
  - [https://www.androidauthority.com/nothing-phone-1-android-13-3213990/](https://www.androidauthority.com/nothing-phone-1-android-13-3213990/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-28 10:54:55+00:00
- - tags: None
 
 The company is also pushing a new camera-focused update to the device.
 
@@ -132,7 +116,6 @@ The company is also pushing a new camera-focused update to the device.
  - [https://www.androidauthority.com/samsung-galaxy-s23-series-launch-soon-3213975/](https://www.androidauthority.com/samsung-galaxy-s23-series-launch-soon-3213975/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-28 10:04:18+00:00
- - tags: None
 
 Does this mean a January or even December launch?
 
@@ -140,7 +123,6 @@ Does this mean a January or even December launch?
  - [https://www.androidauthority.com/daily-authority-september-28-2022-3213938/](https://www.androidauthority.com/daily-authority-september-28-2022-3213938/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-28 09:28:05+00:00
- - tags: None
 
 Samsung's 2023 flagships break cover, Pixel 7 pricing leaks on Amazon, and more tech news from all around the world.
 
@@ -148,7 +130,6 @@ Samsung's 2023 flagships break cover, Pixel 7 pricing leaks on Amazon, and more 
  - [https://www.androidauthority.com/samsung-copy-ios-16-one-ui-5-lock-screen-customization-3213948/](https://www.androidauthority.com/samsung-copy-ios-16-one-ui-5-lock-screen-customization-3213948/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-28 08:51:01+00:00
- - tags: None
 
 Samsung has offered lock screen customization for years before Apple, but the One UI 5 beta shows a familiar experience.
 
@@ -156,6 +137,5 @@ Samsung has offered lock screen customization for years before Apple, but the On
  - [https://www.androidauthority.com/youtuber-samsung-phone-batteries-swelling-3213271/](https://www.androidauthority.com/youtuber-samsung-phone-batteries-swelling-3213271/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-28 07:24:58+00:00
- - tags: None
 
 The Galaxy Z Fold 2 has also suffered from swelling, according to the YouTuber.

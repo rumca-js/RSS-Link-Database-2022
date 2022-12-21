@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## The case of the murdered mummies: “virtual autopsy” reveals fatal injuries
  - [https://arstechnica.com/?p=1880352](https://arstechnica.com/?p=1880352)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-22 22:47:20+00:00
- - tags: None
 
 One was struck on the head and stabbed; the other had massive cervical spine trauma.
 
@@ -12,7 +11,6 @@ One was struck on the head and stabbed; the other had massive cervical spine tra
  - [https://arstechnica.com/?p=1883728](https://arstechnica.com/?p=1883728)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-22 22:14:35+00:00
- - tags: None
 
 $90 adapter makes Wi-Fi 6E adoption slightly easier.
 
@@ -20,7 +18,6 @@ $90 adapter makes Wi-Fi 6E adoption slightly easier.
  - [https://arstechnica.com/?p=1883817](https://arstechnica.com/?p=1883817)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-22 21:40:03+00:00
- - tags: None
 
 AV1's Alliance for Open Media wants more royalty-free standards.
 
@@ -28,7 +25,6 @@ AV1's Alliance for Open Media wants more royalty-free standards.
  - [https://arstechnica.com/?p=1883867](https://arstechnica.com/?p=1883867)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-22 21:38:04+00:00
- - tags: None
 
 Registration of AI-assisted comic comes amid fierce online debate about AI art ethics.
 
@@ -36,7 +32,6 @@ Registration of AI-assisted comic comes amid fierce online debate about AI art e
  - [https://arstechnica.com/?p=1883832](https://arstechnica.com/?p=1883832)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-22 20:47:05+00:00
- - tags: None
 
 Europol also identified dozens of online users suspected of exploiting refugees.
 
@@ -44,7 +39,6 @@ Europol also identified dozens of online users suspected of exploiting refugees.
  - [https://arstechnica.com/?p=1883835](https://arstechnica.com/?p=1883835)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-22 20:37:34+00:00
- - tags: None
 
 New study shows eruption plume circled the globe multiple times in the stratosphere.
 
@@ -52,7 +46,6 @@ New study shows eruption plume circled the globe multiple times in the stratosph
  - [https://arstechnica.com/?p=1883836](https://arstechnica.com/?p=1883836)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-22 20:24:06+00:00
- - tags: None
 
 A closing window could pinch someone thanks to problems with the reversal action.
 
@@ -60,7 +53,6 @@ A closing window could pinch someone thanks to problems with the reversal action
  - [https://arstechnica.com/?p=1883760](https://arstechnica.com/?p=1883760)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-22 18:28:59+00:00
- - tags: None
 
 A former Google engineer reported the risk, but Meta found no privacy concern.
 
@@ -68,7 +60,6 @@ A former Google engineer reported the risk, but Meta found no privacy concern.
  - [https://arstechnica.com/?p=1883762](https://arstechnica.com/?p=1883762)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-22 18:01:45+00:00
- - tags: None
 
 Florida law was blocked by lower courts that found it violates First Amendment.
 
@@ -76,7 +67,6 @@ Florida law was blocked by lower courts that found it violates First Amendment.
  - [https://arstechnica.com/?p=1883729](https://arstechnica.com/?p=1883729)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-22 17:08:51+00:00
- - tags: None
 
 Chips "going... down in price is a story of the past," CEO says.
 
@@ -84,7 +74,6 @@ Chips "going... down in price is a story of the past," CEO says.
  - [https://arstechnica.com/?p=1883524](https://arstechnica.com/?p=1883524)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-22 16:48:28+00:00
- - tags: None
 
 "Whisper" open source model may become a building block in future speech-to-text apps.
 
@@ -92,7 +81,6 @@ Chips "going... down in price is a story of the past," CEO says.
  - [https://arstechnica.com/?p=1883693](https://arstechnica.com/?p=1883693)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-22 16:14:25+00:00
- - tags: None
 
 The remote and dongle look identical to the 4K version.
 
@@ -100,7 +88,6 @@ The remote and dongle look identical to the 4K version.
  - [https://arstechnica.com/?p=1883664](https://arstechnica.com/?p=1883664)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-22 16:00:32+00:00
- - tags: None
 
 Preview: Gaming worlds collide in this oddly charming and confident action-RPG sequel.
 
@@ -108,7 +95,6 @@ Preview: Gaming worlds collide in this oddly charming and confident action-RPG s
  - [https://arstechnica.com/?p=1883662](https://arstechnica.com/?p=1883662)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-22 15:45:06+00:00
- - tags: None
 
 There's not a single Surface model with a current-gen processor in it.
 
@@ -116,7 +102,6 @@ There's not a single Surface model with a current-gen processor in it.
  - [https://arstechnica.com/?p=1883678](https://arstechnica.com/?p=1883678)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-22 14:46:32+00:00
- - tags: None
 
 Six different approaches—with pros and cons—for getting to a 100% carbon-free grid.
 
@@ -124,6 +109,5 @@ Six different approaches—with pros and cons—for getting to a 100% carbon-fre
  - [https://arstechnica.com/?p=1874815](https://arstechnica.com/?p=1874815)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-22 12:00:11+00:00
- - tags: None
 
 New version of support hardware can keep homes solar powered during outages.

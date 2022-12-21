@@ -1,10 +1,9 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml
+# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
 
 ## Ethereum Merge: How one big cryptocurrency is going green
  - [https://www.bbc.co.uk/news/technology-62891715?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-62891715?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-09-13 23:26:31+00:00
- - tags: None
 
 Ethereum, which currently uses as much energy as a medium-sized country, is to halt cryptomining.
 
@@ -12,7 +11,6 @@ Ethereum, which currently uses as much energy as a medium-sized country, is to h
  - [https://www.bbc.co.uk/news/technology-62891769?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-62891769?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-09-13 17:04:43+00:00
- - tags: None
 
 Publishers should be compensated over Google's 'anti-competitive' digital ad practices, say lawyers.
 

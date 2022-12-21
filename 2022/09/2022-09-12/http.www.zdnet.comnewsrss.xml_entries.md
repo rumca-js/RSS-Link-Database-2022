@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## Meta Quest Pro prototype reportedly leaks well ahead of official debut
  - [https://www.zdnet.com/article/meta-quest-pro-prototype-reportedly-leaks-well-ahead-of-official-debut/#ftag=RSSbaffb68](https://www.zdnet.com/article/meta-quest-pro-prototype-reportedly-leaks-well-ahead-of-official-debut/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-12 23:08:00+00:00
- - tags: None
 
 The new, top-end headset from Meta is expected to launch in October. But a prototype that was apparently left behind in a hotel room may have spilled many of its secrets a bit early.
 
@@ -12,7 +11,6 @@ The new, top-end headset from Meta is expected to launch in October. But a proto
  - [https://www.zdnet.com/article/nasa-is-sending-a-spacecraft-to-smash-into-an-asteroid/#ftag=RSSbaffb68](https://www.zdnet.com/article/nasa-is-sending-a-spacecraft-to-smash-into-an-asteroid/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-12 21:33:16+00:00
- - tags: None
 
 As part of the DART mission, NASA is sending a spacecraft to collide with its target asteroid-Dimorphos at four miles-per-second. The best part is you can watch it happen.
 
@@ -20,7 +18,6 @@ As part of the DART mission, NASA is sending a spacecraft to collide with its ta
  - [https://www.zdnet.com/home-and-office/best-indoor-plant/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/best-indoor-plant/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-12 21:01:00+00:00
- - tags: None
 
 Just because your desk is organized, doesn't mean it has to be boring. The best indoor plants are a low-maintenance, affordable way to brighten your workspace and your day. Plus, ZDNET's top choice purifies the air you breathe.
 
@@ -28,7 +25,6 @@ Just because your desk is organized, doesn't mean it has to be boring. The best 
  - [https://www.zdnet.com/article/how-to-tighten-your-security-in-microsoft-edge/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-tighten-your-security-in-microsoft-edge/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-12 20:59:42+00:00
- - tags: None
 
 Edge offers several options to help protect you from malicious websites and other online hazards.
 
@@ -36,7 +32,6 @@ Edge offers several options to help protect you from malicious websites and othe
  - [https://www.zdnet.com/article/how-to-use-google-keep-and-how-to-use-it-as-your-virtual-to-do-list-maker/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-use-google-keep-and-how-to-use-it-as-your-virtual-to-do-list-maker/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-12 20:58:01+00:00
- - tags: None
 
 Google Keep is an overlooked gem that keeps track of your seemingly never-ending grocery list, work tasks, or travel agenda. Here's how to make it your master to-do list that always goes with you.
 
@@ -44,7 +39,6 @@ Google Keep is an overlooked gem that keeps track of your seemingly never-ending
  - [https://www.zdnet.com/home-and-office/home-entertainment/sony-oled-bravia-tv-deal-coupon-promo-code-sale/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/sony-oled-bravia-tv-deal-coupon-promo-code-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-12 20:41:56+00:00
- - tags: None
 
 Need a new TV in time for football? Enjoy $300 off the Sony 48-inch A9S Series OLED 4K UHD Smart Android TV that offers great picture quality and a smart hub for watching your favorite shows.
 
@@ -52,7 +46,6 @@ Need a new TV in time for football? Enjoy $300 off the Sony 48-inch A9S Series O
  - [https://www.zdnet.com/article/i-hate-windows-11-how-can-i-make-it-work-more-like-windows-10-ask-zdnet/#ftag=RSSbaffb68](https://www.zdnet.com/article/i-hate-windows-11-how-can-i-make-it-work-more-like-windows-10-ask-zdnet/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-12 20:32:00+00:00
- - tags: None
 
 Every new Windows version comes with its own set of annoyances, but for some people, Windows 11 seems even more annoying than its predecessors. Fortunately, there are ways to make things work more like they did in Windows 10.
 
@@ -60,7 +53,6 @@ Every new Windows version comes with its own set of annoyances, but for some peo
  - [https://www.zdnet.com/article/hate-windows-11-heres-how-to-make-it-work-more-like-windows-10/#ftag=RSSbaffb68](https://www.zdnet.com/article/hate-windows-11-heres-how-to-make-it-work-more-like-windows-10/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-12 20:32:00+00:00
- - tags: None
 
 Every new Windows version comes with its own set of annoyances, but for some people, Windows 11 seems even more annoying than its predecessors. Fortunately, there are ways to make things work more like they did in Windows 10.
 
@@ -68,7 +60,6 @@ Every new Windows version comes with its own set of annoyances, but for some peo
  - [https://www.zdnet.com/article/best-phone/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-phone/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-12 19:43:00+00:00
- - tags: None
 
 Both Apple and Samsung have recently launched new phones. So, is it worth upgrading? With flagship models like the iPhone 14 Pro Max and Galaxy S22 Ultra, it's tempting to buy the latest and greatest. But there are other options if you want the best phone available.
 
@@ -76,7 +67,6 @@ Both Apple and Samsung have recently launched new phones. So, is it worth upgrad
  - [https://www.zdnet.com/article/best-rowing-machine/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-rowing-machine/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-12 19:12:00+00:00
- - tags: None
 
 Ditch the oars and break a sweat at home with a top-notch rowing machine. If you need help choosing one, just pick a resistance mechanism -- water, air, or magnets -- and follow our guide. ZDNET researched the best rowing machines and detailed their differences.
 
@@ -84,7 +74,6 @@ Ditch the oars and break a sweat at home with a top-notch rowing machine. If you
  - [https://www.zdnet.com/article/looking-to-switch-to-linux-from-windows-the-feren-os-transfer-tool-makes-it-easy/#ftag=RSSbaffb68](https://www.zdnet.com/article/looking-to-switch-to-linux-from-windows-the-feren-os-transfer-tool-makes-it-easy/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-12 18:48:12+00:00
- - tags: None
 
 Anyone looking to adopt Linux as their daily operating system should give Feren OS a try.
 
@@ -92,7 +81,6 @@ Anyone looking to adopt Linux as their daily operating system should give Feren 
  - [https://www.zdnet.com/article/first-tesla-supercharger-v4-will-be-coming-to-arizona/#ftag=RSSbaffb68](https://www.zdnet.com/article/first-tesla-supercharger-v4-will-be-coming-to-arizona/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-12 18:25:26+00:00
- - tags: None
 
 Construction plans reveal the location of the highly-anticipated, unannounced Supercharger V4.
 
@@ -100,7 +88,6 @@ Construction plans reveal the location of the highly-anticipated, unannounced Su
  - [https://www.zdnet.com/article/ios-16-heres-how-easy-it-is-to-edit-or-delete-messages-in-the-messages-app/#ftag=RSSbaffb68](https://www.zdnet.com/article/ios-16-heres-how-easy-it-is-to-edit-or-delete-messages-in-the-messages-app/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-12 18:21:00+00:00
- - tags: None
 
 This is low-key going to be one of the most popular iPhone features released in a long time.
 
@@ -108,7 +95,6 @@ This is low-key going to be one of the most popular iPhone features released in 
  - [https://www.zdnet.com/article/microsoft-surface-pro-x-tablet-deal-coupon-promo-code-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/microsoft-surface-pro-x-tablet-deal-coupon-promo-code-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-12 17:43:00+00:00
- - tags: None
 
 With 8GB RAM and 128GB storage, this tablet comes with everything you need to study and excel.
 
@@ -116,7 +102,6 @@ With 8GB RAM and 128GB storage, this tablet comes with everything you need to st
  - [https://www.zdnet.com/article/ios-16-out-how-to-install-apples-latest-software-update-for-your-iphone/#ftag=RSSbaffb68](https://www.zdnet.com/article/ios-16-out-how-to-install-apples-latest-software-update-for-your-iphone/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-12 17:33:00+00:00
- - tags: None
 
 After following these simple steps to update your iPhone, you'll have access to Apple's new features like a customizable lock screen and the ability to delete or edit iMessages.
 
@@ -124,7 +109,6 @@ After following these simple steps to update your iPhone, you'll have access to 
  - [https://www.zdnet.com/article/patent-troll-attacks-against-open-source-projects-are-up-100-since-last-year-heres-why/#ftag=RSSbaffb68](https://www.zdnet.com/article/patent-troll-attacks-against-open-source-projects-are-up-100-since-last-year-heres-why/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-12 17:01:13+00:00
- - tags: None
 
 In recent years, patent trolls have started attacking open-source developers and companies. But, the open-source community is fighting back.
 
@@ -132,7 +116,6 @@ In recent years, patent trolls have started attacking open-source developers and
  - [https://www.zdnet.com/article/ios-16-just-dropped-here-are-all-the-improvements-you-asked-for/#ftag=RSSbaffb68](https://www.zdnet.com/article/ios-16-just-dropped-here-are-all-the-improvements-you-asked-for/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-12 16:58:00+00:00
- - tags: None
 
 You can expect new lock screen features, widgets, and much-needed improvements to iMessage in the latest iOS update.
 
@@ -140,7 +123,6 @@ You can expect new lock screen features, widgets, and much-needed improvements t
  - [https://www.zdnet.com/home-and-office/home-entertainment/samsung-monitor-deal-coupon-promo-code-sale/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/samsung-monitor-deal-coupon-promo-code-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-12 16:52:00+00:00
- - tags: None
 
 This two-in-one allows you to have the best of both worlds: A smart monitor and a television. At $100 off, it's a great daily deal during Discover Samsung.
 
@@ -148,7 +130,6 @@ This two-in-one allows you to have the best of both worlds: A smart monitor and 
  - [https://www.zdnet.com/home-and-office/home-entertainment/samsung-4k-qled-tv-deal-promo-coupon-code-sale/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/samsung-4k-qled-tv-deal-promo-coupon-code-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-12 16:47:26+00:00
- - tags: None
 
 Discover Samsung week is here -- and the QN90B TV is on sale. As someone who has tested this TV, trust me: you need it in your living room.
 
@@ -156,7 +137,6 @@ Discover Samsung week is here -- and the QN90B TV is on sale. As someone who has
  - [https://www.zdnet.com/home-and-office/the-best-power-bank-for-macbook-pro-owners/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/the-best-power-bank-for-macbook-pro-owners/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-12 16:41:42+00:00
- - tags: None
 
 With a whopping 140W output, the Anker 737 140W power bank is designed to handle heavy workloads.
 
@@ -164,7 +144,6 @@ With a whopping 140W output, the Anker 737 140W power bank is designed to handle
  - [https://www.zdnet.com/article/how-to-use-a-canon-camera-beginner-tips-and-tricks/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-use-a-canon-camera-beginner-tips-and-tricks/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-12 15:13:15+00:00
- - tags: None
 
 Modern cameras and DSLRs can be intimidating. Here's a breakdown of the basic settings and features you should know about in Canon cameras.
 
@@ -172,7 +151,6 @@ Modern cameras and DSLRs can be intimidating. Here's a breakdown of the basic se
  - [https://www.zdnet.com/article/road-to-nowhere-book-review/#ftag=RSSbaffb68](https://www.zdnet.com/article/road-to-nowhere-book-review/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-12 15:06:30+00:00
- - tags: None
 
 Canadian tech writer Paris Marx explores a future with fewer cars and a more equitable transportation system.
 
@@ -180,7 +158,6 @@ Canadian tech writer Paris Marx explores a future with fewer cars and a more equ
  - [https://www.zdnet.com/article/programming-languages-one-in-four-go-developers-are-already-using-this-most-requested-feature/#ftag=RSSbaffb68](https://www.zdnet.com/article/programming-languages-one-in-four-go-developers-are-already-using-this-most-requested-feature/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-12 13:25:05+00:00
- - tags: None
 
 Developers are trying out new features but are also worried about supply chain security.
 
@@ -188,7 +165,6 @@ Developers are trying out new features but are also worried about supply chain s
  - [https://www.zdnet.com/article/what-does-iphone-14s-switch-to-esim-mean-for-privacy-security-and-travel/#ftag=RSSbaffb68](https://www.zdnet.com/article/what-does-iphone-14s-switch-to-esim-mean-for-privacy-security-and-travel/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-12 13:16:57+00:00
- - tags: None
 
 FAQ: Contrary to popular belief, Apple didn't just introduce eSIM support with the iPhone 14. There have been eSIM features in iPhones since the iPhone XR. What's different is that Apple has removed physical SIMs in US-sold iPhone 14s. Here's what this means for consumers.
 
@@ -196,7 +172,6 @@ FAQ: Contrary to popular belief, Apple didn't just introduce eSIM support with t
  - [https://www.zdnet.com/article/the-worst-thing-about-esim-only-iphone-14s/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-worst-thing-about-esim-only-iphone-14s/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-12 13:16:00+00:00
- - tags: None
 
 FAQ: What does iPhone 14's switch to eSIM mean for privacy, security, and travel?
 
@@ -204,7 +179,6 @@ FAQ: What does iPhone 14's switch to eSIM mean for privacy, security, and travel
  - [https://www.zdnet.com/home-and-office/get-a-free-memory-upgrade-with-samsung-galaxy-z-fold4/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/get-a-free-memory-upgrade-with-samsung-galaxy-z-fold4/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-12 13:12:44+00:00
- - tags: None
 
 Not to be outdone by Apple's iPhone 14 launch, Samsung is offering a fresh promotion on the flagship Galaxy Z Fold 4.
 
@@ -212,7 +186,6 @@ Not to be outdone by Apple's iPhone 14 launch, Samsung is offering a fresh promo
  - [https://www.zdnet.com/article/get-a-free-memory-upgrade-with-samsung-galaxy-z-fold4/#ftag=RSSbaffb68](https://www.zdnet.com/article/get-a-free-memory-upgrade-with-samsung-galaxy-z-fold4/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-12 13:12:00+00:00
- - tags: None
 
 Not to be outdone by Apple's iPhone 14 launch, Samsung is offering a fresh promotion on the flagship Galaxy Z Fold 4.
 
@@ -220,7 +193,6 @@ Not to be outdone by Apple's iPhone 14 launch, Samsung is offering a fresh promo
  - [https://www.zdnet.com/article/samsung-galaxy-z-fold-4-deal-coupon-promo-code-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/samsung-galaxy-z-fold-4-deal-coupon-promo-code-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-12 13:12:00+00:00
- - tags: None
 
 Not to be outdone by Apple's iPhone 14 launch, Samsung is offering a fresh promotion on the flagship Galaxy Z Fold 4.  With Samsung's deal, you will pay $1799 for a 512GB model -- double the memory of the entry model, saving $120.
 
@@ -228,7 +200,6 @@ Not to be outdone by Apple's iPhone 14 launch, Samsung is offering a fresh promo
  - [https://www.zdnet.com/article/how-to-get-your-iphone-ready-for-the-new-ios-16/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-get-your-iphone-ready-for-the-new-ios-16/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-12 12:54:00+00:00
- - tags: None
 
 Here's how to get a smooth upgrade to Apple's new operating system.
 
@@ -236,7 +207,6 @@ Here's how to get a smooth upgrade to Apple's new operating system.
  - [https://www.zdnet.com/article/elon-musk-says-spacex-had-promising-talks-with-apple-over-iphone-14-satellite-feature/#ftag=RSSbaffb68](https://www.zdnet.com/article/elon-musk-says-spacex-had-promising-talks-with-apple-over-iphone-14-satellite-feature/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-12 11:59:14+00:00
- - tags: None
 
 Musk says he's had conversations with Apple about Starlink connectivity for the iPhone's new service.
 
@@ -244,7 +214,6 @@ Musk says he's had conversations with Apple about Starlink connectivity for the 
  - [https://www.zdnet.com/article/raspberry-pi-os-gets-an-update-heres-whats-new/#ftag=RSSbaffb68](https://www.zdnet.com/article/raspberry-pi-os-gets-an-update-heres-whats-new/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-12 11:17:52+00:00
- - tags: None
 
 New menu, shortcuts, Picamera2 Python camera interface, and more.
 
@@ -252,7 +221,6 @@ New menu, shortcuts, Picamera2 Python camera interface, and more.
  - [https://www.zdnet.com/article/best-dna-test/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-dna-test/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-12 03:00:00+00:00
- - tags: None
 
 There are so many DNA testing kits it's almost impossible to choose. Do you want one for genetics or ancestry? Or both? Are they all accurate? And which sell your data? To help you find the best DNA test for you, ZDNET breaks down everything you need to know.
 
@@ -260,6 +228,5 @@ There are so many DNA testing kits it's almost impossible to choose. Do you want
  - [https://www.zdnet.com/article/best-android-phone/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-android-phone/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-12 02:17:00+00:00
- - tags: None
 
 If you prefer Android over iOS, your phone options are aplenty. From Google to Samsung to OnePlus, ZDNET has thoughtfully curated the best Android phones available on the market. Read on to learn which made the cut and why.

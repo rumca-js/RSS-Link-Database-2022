@@ -1,10 +1,9 @@
-# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
+# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, Source language: en-US
 
 ## America's Humiliated and Demoralized Military
  - [https://www.youtube.com/watch?v=mINZmZYsDEU](https://www.youtube.com/watch?v=mINZmZYsDEU)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
  - date published: 2022-09-22 18:00:12+00:00
- - tags: None
 
 🔴Grab Atlas VPN with 82% OFF using my link: https://get.atlasvpn.com/BlackPigeonSpeaks
 

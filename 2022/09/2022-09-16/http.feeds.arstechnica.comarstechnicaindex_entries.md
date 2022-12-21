@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## Being a victim of rape costs an average of $3,500 in medical bills, study finds
  - [https://arstechnica.com/?p=1882387](https://arstechnica.com/?p=1882387)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-16 21:47:30+00:00
- - tags: None
 
 The bills can discourage rape reporting and compound victims' trauma.
 
@@ -12,7 +11,6 @@ The bills can discourage rape reporting and compound victims' trauma.
  - [https://arstechnica.com/?p=1882347](https://arstechnica.com/?p=1882347)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-16 21:35:12+00:00
- - tags: None
 
 Russia wasn't happy about Starlink providing broadband in Ukraine after invasion.
 
@@ -20,7 +18,6 @@ Russia wasn't happy about Starlink providing broadband in Ukraine after invasion
  - [https://arstechnica.com/?p=1881039](https://arstechnica.com/?p=1881039)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-16 21:24:20+00:00
- - tags: None
 
 Fire ants will change shape of the raft to reduce drag and adapt to fluid flows.
 
@@ -28,7 +25,6 @@ Fire ants will change shape of the raft to reduce drag and adapt to fluid flows.
  - [https://arstechnica.com/?p=1882286](https://arstechnica.com/?p=1882286)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-16 20:24:40+00:00
- - tags: None
 
 EVGA will continue selling current-gen GeForce cards until it runs out of stock.
 
@@ -36,7 +32,6 @@ EVGA will continue selling current-gen GeForce cards until it runs out of stock.
  - [https://arstechnica.com/?p=1882269](https://arstechnica.com/?p=1882269)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-16 20:16:42+00:00
- - tags: None
 
 Using software that creates art on demand, some artists attempt to cash in on AI-generated content.
 
@@ -44,7 +39,6 @@ Using software that creates art on demand, some artists attempt to cash in on AI
  - [https://arstechnica.com/?p=1882262](https://arstechnica.com/?p=1882262)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-16 19:47:22+00:00
- - tags: None
 
 No details on why PSVR2 enhancements mean it can't run less-advanced games.
 
@@ -52,7 +46,6 @@ No details on why PSVR2 enhancements mean it can't run less-advanced games.
  - [https://arstechnica.com/?p=1882164](https://arstechnica.com/?p=1882164)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-16 18:22:56+00:00
- - tags: None
 
 Musk countersuit claims "numerous independently sufficient reasons" to break deal.
 
@@ -60,7 +53,6 @@ Musk countersuit claims "numerous independently sufficient reasons" to break dea
  - [https://arstechnica.com/?p=1882237](https://arstechnica.com/?p=1882237)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-16 18:13:57+00:00
- - tags: None
 
 Simulations appear to tie up lots of loose ends.
 
@@ -68,7 +60,6 @@ Simulations appear to tie up lots of loose ends.
  - [https://arstechnica.com/?p=1882086](https://arstechnica.com/?p=1882086)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-16 17:49:34+00:00
- - tags: None
 
 You can see why some don't want Avast having access to every site they visit.
 
@@ -76,7 +67,6 @@ You can see why some don't want Avast having access to every site they visit.
  - [https://arstechnica.com/?p=1882144](https://arstechnica.com/?p=1882144)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-16 17:45:50+00:00
- - tags: None
 
 Graphics card prices have been dropping all year—and could go even lower.
 
@@ -84,7 +74,6 @@ Graphics card prices have been dropping all year—and could go even lower.
  - [https://arstechnica.com/?p=1882057](https://arstechnica.com/?p=1882057)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-16 17:38:52+00:00
- - tags: None
 
 By telling AI bot to ignore its previous instructions, vulnerabilities emerge.
 
@@ -92,7 +81,6 @@ By telling AI bot to ignore its previous instructions, vulnerabilities emerge.
  - [https://arstechnica.com/?p=1882162](https://arstechnica.com/?p=1882162)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-16 17:29:37+00:00
- - tags: None
 
 “I announce I am a hacker and Uber has suffered a data breach,” intruder says on Slack.
 
@@ -100,7 +88,6 @@ By telling AI bot to ignore its previous instructions, vulnerabilities emerge.
  - [https://arstechnica.com/?p=1882083](https://arstechnica.com/?p=1882083)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-16 17:12:30+00:00
- - tags: None
 
 It's buried behind the flag menu for now, but you can enable it on the stable channel.
 
@@ -108,7 +95,6 @@ It's buried behind the flag menu for now, but you can enable it on the stable ch
  - [https://arstechnica.com/?p=1882105](https://arstechnica.com/?p=1882105)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-16 17:03:42+00:00
- - tags: None
 
 Roy Scheider's final movie is now back on Facebook.
 
@@ -116,7 +102,6 @@ Roy Scheider's final movie is now back on Facebook.
  - [https://arstechnica.com/?p=1882062](https://arstechnica.com/?p=1882062)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-16 16:20:24+00:00
- - tags: None
 
 Climate’s role is tough to quantify this time, though.
 
@@ -124,7 +109,6 @@ Climate’s role is tough to quantify this time, though.
  - [https://arstechnica.com/?p=1882032](https://arstechnica.com/?p=1882032)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-16 15:25:02+00:00
- - tags: None
 
 Laptop CPUs will switch first; no word on whether desktop CPUs will follow.
 
@@ -132,7 +116,6 @@ Laptop CPUs will switch first; no word on whether desktop CPUs will follow.
  - [https://arstechnica.com/?p=1882033](https://arstechnica.com/?p=1882033)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-16 14:42:54+00:00
- - tags: None
 
 Summer saw heat waves, droughts, and floods—sometimes one on top of the other.
 
@@ -140,7 +123,6 @@ Summer saw heat waves, droughts, and floods—sometimes one on top of the other.
  - [https://arstechnica.com/?p=1881707](https://arstechnica.com/?p=1881707)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-16 12:17:44+00:00
- - tags: None
 
 "This really gives the financial resources to take the next steps."
 
@@ -148,6 +130,5 @@ Summer saw heat waves, droughts, and floods—sometimes one on top of the other.
  - [https://arstechnica.com/?p=1882005](https://arstechnica.com/?p=1882005)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-16 00:37:16+00:00
- - tags: None
 
 Threat actor has connections to hackers backed by North Korean government.

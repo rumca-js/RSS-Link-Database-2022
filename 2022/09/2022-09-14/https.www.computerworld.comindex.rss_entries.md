@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Want to change a dysfunctional culture? Intel’s Israel Development Center shows how
  - [https://www.computerworld.com/article/3673671/want-to-change-a-dysfunctional-culture-intels-israel-development-center-shows-how.html#tk.rss_all](https://www.computerworld.com/article/3673671/want-to-change-a-dysfunctional-culture-intels-israel-development-center-shows-how.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-14 20:13:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/2604020/the-evolution-of-apples-iphone.html#tk.rss_all](https://www.computerworld.com/article/2604020/the-evolution-of-apples-iphone.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-14 18:07:00+00:00
- - tags: None
 
 <article class="slideshow"><figure class="slide"><figcaption>The iPhone, then and now</figcaption><img alt="Computerworld &gt; The Evolution of the iPhone [cover]" src="https://images.idgesg.net/images/article/2018/09/cw_evolution_of_the_iphone_01-100771459-large.jpg?auto=webp&amp;quality=85,70" /><p class="slideCredit">Image by <span class="slideCreditText">IDG / Apple</span></p><div class="slideBody"><p>The <a href="https://www.computerworld.com/article/3041302/4-new-ways-to-bypass-passcode-lo
 
@@ -22,7 +20,6 @@
  - [https://www.computerworld.com/article/3673670/canva-launches-workplace-product-suite-to-improve-visual-collaboration.html#tk.rss_all](https://www.computerworld.com/article/3673670/canva-launches-workplace-product-suite-to-improve-visual-collaboration.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-14 16:46:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -32,7 +29,6 @@
  - [https://www.computerworld.com/article/3673297/coming-in-windows-11-22h2-a-change-of-update-cadence.html#tk.rss_all](https://www.computerworld.com/article/3673297/coming-in-windows-11-22h2-a-change-of-update-cadence.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-14 15:30:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -42,7 +38,6 @@
  - [https://www.computerworld.com/article/3673668/why-apples-october-event-matters-to-business.html#tk.rss_all](https://www.computerworld.com/article/3673668/why-apples-october-event-matters-to-business.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-14 15:02:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -53,7 +48,6 @@
  - [https://www.computerworld.com/article/3646533/noteworthy-tech-acquisitions-2022.html#tk.rss_all](https://www.computerworld.com/article/3646533/noteworthy-tech-acquisitions-2022.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-14 13:10:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -63,7 +57,6 @@
  - [https://www.computerworld.com/article/3331847/android-tune-up-20-minute.html#tk.rss_all](https://www.computerworld.com/article/3331847/android-tune-up-20-minute.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-14 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -73,7 +66,6 @@
  - [https://www.computerworld.com/article/3672929/windows-troubleshooting-tips-tools-techniques.html#tk.rss_all](https://www.computerworld.com/article/3672929/windows-troubleshooting-tips-tools-techniques.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-09-14 10:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
