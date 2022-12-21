@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml
+# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
 
 ## Qatar Warns Brussels Bribery Allegations Could Hurt Energy Talks With Europe
  - [https://www.wsj.com/articles/qatar-warns-brussels-bribery-allegations-could-impact-energy-deals-with-europe-11671381521](https://www.wsj.com/articles/qatar-warns-brussels-bribery-allegations-could-impact-energy-deals-with-europe-11671381521)

@@ -1,4 +1,4 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss
+# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
 
 ## Seven-year-old becomes the youngest person in the UK to be fitted with bionic hand
  - [https://www.dailymail.co.uk/news/article-11550151/Seven-year-old-youngest-person-UK-fitted-bionic-hand.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11550151/Seven-year-old-youngest-person-UK-fitted-bionic-hand.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)

@@ -1,4 +1,11 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/
+# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
+
+## Electric Vehicle Battery Recycling Plant Joins ‘Battery Belt’ in South Carolina
+ - [https://www.theepochtimes.com/electric-vehicle-battery-recycling-plant-joins-battery-belt-in-south-carolina_4929544.html](https://www.theepochtimes.com/electric-vehicle-battery-recycling-plant-joins-battery-belt-in-south-carolina_4929544.html)
+ - RSS feed: https://www.theepochtimes.com/c-tech/feed/
+ - date published: 2022-12-17 23:49:21+00:00
+
+The Redwood Materials building in Carson City, Nev., in June 2019. (Google Maps/Screenshot via The Epoch Times)
 
 ## Elon Musk Reinstates Journalists’ Accounts Suspended for Doxxing Policy Violations
  - [https://www.theepochtimes.com/elon-musk-reinstates-journalists-accounts-suspended-for-doxxing-policy-violations_4930169.html](https://www.theepochtimes.com/elon-musk-reinstates-journalists-accounts-suspended-for-doxxing-policy-violations_4930169.html)

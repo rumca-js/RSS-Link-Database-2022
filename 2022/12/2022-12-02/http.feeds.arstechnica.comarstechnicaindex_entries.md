@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## OLED monitor selection is pathetic. 2023 can change that
  - [https://arstechnica.com/?p=1901593](https://arstechnica.com/?p=1901593)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-02 23:18:19+00:00
- - tags: None
 
 There's reason to hope for greater OLED monitor variety in the new year.
 
@@ -12,7 +11,6 @@ There's reason to hope for greater OLED monitor variety in the new year.
  - [https://arstechnica.com/?p=1901694](https://arstechnica.com/?p=1901694)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-02 22:27:03+00:00
- - tags: None
 
 Creating AI-generated images on Macs, iPhones, and iPads just got a lot faster.
 
@@ -20,7 +18,6 @@ Creating AI-generated images on Macs, iPhones, and iPads just got a lot faster.
  - [https://arstechnica.com/?p=1901603](https://arstechnica.com/?p=1901603)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-02 21:13:04+00:00
- - tags: None
 
 The cryptographic key proves an update is legit, assuming your OEM doesn't lose it.
 
@@ -28,7 +25,6 @@ The cryptographic key proves an update is legit, assuming your OEM doesn't lose 
  - [https://arstechnica.com/?p=1901752](https://arstechnica.com/?p=1901752)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-02 20:57:15+00:00
- - tags: None
 
 CryWiper masquerades as ransomware, but its real purpose is to permanently destroy data.
 
@@ -36,7 +32,6 @@ CryWiper masquerades as ransomware, but its real purpose is to permanently destr
  - [https://arstechnica.com/?p=1901632](https://arstechnica.com/?p=1901632)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-02 20:15:08+00:00
- - tags: None
 
 Bloomberg report claims that Apple has begun referring to it as "xrOS."
 
@@ -44,7 +39,6 @@ Bloomberg report claims that Apple has begun referring to it as "xrOS."
  - [https://arstechnica.com/?p=1901676](https://arstechnica.com/?p=1901676)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-02 19:44:05+00:00
- - tags: None
 
 US speeds have dropped from 105Mbps to 53Mbps—but 7,500 new satellites will help.
 
@@ -52,7 +46,6 @@ US speeds have dropped from 105Mbps to 53Mbps—but 7,500 new satellites will he
  - [https://arstechnica.com/?p=1901098](https://arstechnica.com/?p=1901098)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-02 19:14:35+00:00
- - tags: None
 
 "Don't hold your breath about sending your dog through a wormhole."
 
@@ -60,7 +53,6 @@ US speeds have dropped from 105Mbps to 53Mbps—but 7,500 new satellites will he
  - [https://arstechnica.com/?p=1901667](https://arstechnica.com/?p=1901667)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-02 19:02:28+00:00
- - tags: None
 
 "Don't wait. Don't wait until after the holiday. Get them vaccinated now."
 
@@ -68,7 +60,6 @@ US speeds have dropped from 105Mbps to 53Mbps—but 7,500 new satellites will he
  - [https://arstechnica.com/?p=1901398](https://arstechnica.com/?p=1901398)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-02 17:47:53+00:00
- - tags: None
 
 "Members are responsible for safety testing of their products."
 
@@ -76,7 +67,6 @@ US speeds have dropped from 105Mbps to 53Mbps—but 7,500 new satellites will he
  - [https://arstechnica.com/?p=1901606](https://arstechnica.com/?p=1901606)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-02 17:11:14+00:00
- - tags: None
 
 Parler announced deal termination after Ye told Alex Jones, "I also love Nazis."
 
@@ -84,7 +74,6 @@ Parler announced deal termination after Ye told Alex Jones, "I also love Nazis."
  - [https://arstechnica.com/?p=1901604](https://arstechnica.com/?p=1901604)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-02 16:58:24+00:00
- - tags: None
 
 Most recently, Tesla promised to produce 50,000 Semis in 2024.
 
@@ -92,7 +81,6 @@ Most recently, Tesla promised to produce 50,000 Semis in 2024.
  - [https://arstechnica.com/?p=1901540](https://arstechnica.com/?p=1901540)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-02 15:35:59+00:00
- - tags: None
 
 App promises end-to-end encryption, advanced cryptography for your schedule.
 
@@ -100,7 +88,6 @@ App promises end-to-end encryption, advanced cryptography for your schedule.
  - [https://arstechnica.com/?p=1901541](https://arstechnica.com/?p=1901541)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-02 15:06:05+00:00
- - tags: None
 
 OneWeb, as ever, is doing what it needs to do to survive.
 
@@ -108,7 +95,6 @@ OneWeb, as ever, is doing what it needs to do to survive.
  - [https://arstechnica.com/?p=1901561](https://arstechnica.com/?p=1901561)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-02 14:47:31+00:00
- - tags: None
 
 “They sound like the guy playing the violin on the Titanic," says a senior media buyer.
 
@@ -116,7 +102,6 @@ OneWeb, as ever, is doing what it needs to do to survive.
  - [https://arstechnica.com/?p=1899992](https://arstechnica.com/?p=1899992)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-02 13:00:22+00:00
- - tags: None
 
 "Due to current market conditions, the company has elected not to proceed."
 
@@ -124,7 +109,6 @@ OneWeb, as ever, is doing what it needs to do to survive.
  - [https://arstechnica.com/?p=1900832](https://arstechnica.com/?p=1900832)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-02 12:35:30+00:00
- - tags: None
 
 Maranello moves to a V6 plus electric motor for its latest mid-engined supercar.
 
@@ -132,7 +116,6 @@ Maranello moves to a V6 plus electric motor for its latest mid-engined supercar.
  - [https://arstechnica.com/?p=1901330](https://arstechnica.com/?p=1901330)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-02 05:00:45+00:00
- - tags: None
 
 A new vision of sci-fi survival-horror updates the pace for classic scares.
 
@@ -140,6 +123,5 @@ A new vision of sci-fi survival-horror updates the pace for classic scares.
  - [https://arstechnica.com/?p=1901516](https://arstechnica.com/?p=1901516)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-02 00:38:57+00:00
- - tags: None
 
 It's a win for those with C. diff and a milestone for microbiome-based therapies.

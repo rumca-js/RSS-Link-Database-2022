@@ -1,4 +1,4 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## Your Monday Briefing: Argentina Triumphs
  - [https://www.nytimes.com/2022/12/18/briefing/argentina-france-world-cup.html](https://www.nytimes.com/2022/12/18/briefing/argentina-france-world-cup.html)

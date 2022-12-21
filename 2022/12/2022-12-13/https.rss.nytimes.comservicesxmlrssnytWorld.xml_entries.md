@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## Biden Hosts African Leaders for Talks on Security, Trade and Outer Space
  - [https://www.nytimes.com/2022/12/13/us/politics/africa-summit-biden.html](https://www.nytimes.com/2022/12/13/us/politics/africa-summit-biden.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-13 22:22:20+00:00
- - tags: None
 
 Nearly 50 African heads of state are attending the first U.S.-Africa summit since 2014. It opened with sessions on civil conflict, democracy and space exploration.
 
@@ -12,7 +11,6 @@ Nearly 50 African heads of state are attending the first U.S.-Africa summit sinc
  - [https://www.nytimes.com/2022/12/13/briefing/nuclear-fusion-argentina-croatia.html](https://www.nytimes.com/2022/12/13/briefing/nuclear-fusion-argentina-croatia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-13 21:23:33+00:00
- - tags: None
 
 Plus Argentina beat Croatia to advance to the World Cup finals.
 
@@ -20,7 +18,6 @@ Plus Argentina beat Croatia to advance to the World Cup finals.
  - [https://www.nytimes.com/2022/12/13/world/europe/prince-heinrich-germany-russian-consulate.html](https://www.nytimes.com/2022/12/13/world/europe/prince-heinrich-germany-russian-consulate.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-13 20:51:44+00:00
- - tags: None
 
 Closed briefings by police investigators divulged extensive new plot details to German lawmakers — from death vows to caches of bullets.
 
@@ -28,7 +25,6 @@ Closed briefings by police investigators divulged extensive new plot details to 
  - [https://www.nytimes.com/2022/12/13/world/europe/ukraine-russia-melitopol.html](https://www.nytimes.com/2022/12/13/world/europe/ukraine-russia-melitopol.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-13 20:48:07+00:00
- - tags: None
 
 Using missiles and saboteurs, Ukraine is focusing on the city of Melitopol, a vital Russian link to Crimea, ahead of an expected southern offensive.
 
@@ -36,7 +32,6 @@ Using missiles and saboteurs, Ukraine is focusing on the city of Melitopol, a vi
  - [https://www.nytimes.com/2022/12/13/world/europe/uk-migration.html](https://www.nytimes.com/2022/12/13/world/europe/uk-migration.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-13 19:15:10+00:00
- - tags: None
 
 Amid growing anger within his governing Conservative Party, Prime Minister Rishi Sunak vowed to eliminate the country’s backlog of asylum claims.
 
@@ -44,7 +39,6 @@ Amid growing anger within his governing Conservative Party, Prime Minister Rishi
  - [https://www.nytimes.com/2022/12/13/world/europe/belarus-army-russia-ukraine.html](https://www.nytimes.com/2022/12/13/world/europe/belarus-army-russia-ukraine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-13 17:45:56+00:00
- - tags: None
 
 President Aleksandr G. Lukashenko of Belarus is a close ally of President Vladimir V. Putin of Russia, and Belarus relies on Moscow for finance, fuel and security assistance.
 
@@ -52,7 +46,6 @@ President Aleksandr G. Lukashenko of Belarus is a close ally of President Vladim
  - [https://www.nytimes.com/2022/12/13/world/europe/world-cup-france-morocco.html](https://www.nytimes.com/2022/12/13/world/europe/world-cup-france-morocco.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-13 17:14:51+00:00
- - tags: None
 
 Wednesday’s face-off between the Atlas Lions and Les Bleus will be about more than just soccer, reviving old colonial wounds and fueling identity debates.
 
@@ -60,7 +53,6 @@ Wednesday’s face-off between the Atlas Lions and Les Bleus will be about more 
  - [https://www.nytimes.com/2022/12/13/world/europe/france-nice-terrorist-attack-trial.html](https://www.nytimes.com/2022/12/13/world/europe/france-nice-terrorist-attack-trial.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-13 17:03:21+00:00
- - tags: None
 
 The defendants were found guilty of helping the perpetrator prepare for the assault in which he plowed a truck into a Bastille Day crowd, killing 86 people.
 
@@ -68,7 +60,6 @@ The defendants were found guilty of helping the perpetrator prepare for the assa
  - [https://www.nytimes.com/2022/12/13/world/americas/peru-unrest-president-pedro-castillo.html](https://www.nytimes.com/2022/12/13/world/americas/peru-unrest-president-pedro-castillo.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-13 16:56:27+00:00
- - tags: None
 
 At least seven people have been killed in violence that has spread across the country following last week’s impeachment of Pedro Castillo after he tried to dissolve Congress.
 
@@ -76,7 +67,6 @@ At least seven people have been killed in violence that has spread across the co
  - [https://www.nytimes.com/2022/12/13/world/africa/south-africa-cyril-ramaphosa-impeachment.html](https://www.nytimes.com/2022/12/13/world/africa/south-africa-cyril-ramaphosa-impeachment.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-13 16:07:35+00:00
- - tags: None
 
 A.N.C. lawmakers showed unity in rejecting the call for hearings against their president, giving him a political lift after he failed to report the theft of huge sums of U.S. currency from his game farm.
 
@@ -84,7 +74,6 @@ A.N.C. lawmakers showed unity in rejecting the call for hearings against their p
  - [https://www.nytimes.com/2022/12/13/world/middleeast/libya-lockerbie-suspect-us.html](https://www.nytimes.com/2022/12/13/world/middleeast/libya-lockerbie-suspect-us.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-13 16:06:59+00:00
- - tags: None
 
 Abu Agila Mohammad Mas’ud, a former intelligence officer accused of delivering the bomb that destroyed a passenger jet mid flight in 1988, was abducted from his home, according to relatives.
 
@@ -92,7 +81,6 @@ Abu Agila Mohammad Mas’ud, a former intelligence officer accused of delivering
  - [https://www.nytimes.com/2022/12/13/world/middleeast/netanyahu-israel-military.html](https://www.nytimes.com/2022/12/13/world/middleeast/netanyahu-israel-military.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-13 15:17:18+00:00
- - tags: None
 
 Preliminary agreements between Benjamin Netanyahu and his far-right allies have raised questions about political interference in the army’s chain of command.
 
@@ -100,7 +88,6 @@ Preliminary agreements between Benjamin Netanyahu and his far-right allies have 
  - [https://www.nytimes.com/live/2022/12/13/world/russia-ukraine-news](https://www.nytimes.com/live/2022/12/13/world/russia-ukraine-news)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-13 14:29:37+00:00
- - tags: None
 
 President Emmanuel Macron of France told a Paris summit that pledges from political and business leaders would help Ukraine get through the harsh winter as Russian forces continue to attack its infrastructure.
 
@@ -108,7 +95,6 @@ President Emmanuel Macron of France told a Paris summit that pledges from politi
  - [https://www.nytimes.com/2022/12/13/world/europe/banksy-ukraine-kyiv.html](https://www.nytimes.com/2022/12/13/world/europe/banksy-ukraine-kyiv.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-13 14:28:14+00:00
- - tags: None
 
 The removal of a Banksy mural sparks a debate about the future of a handful of his works scattered in and around Ukraine’s capital.
 
@@ -116,7 +102,6 @@ The removal of a Banksy mural sparks a debate about the future of a handful of h
  - [https://www.nytimes.com/2022/12/13/world/africa/somalia-famine.html](https://www.nytimes.com/2022/12/13/world/africa/somalia-famine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-13 14:25:36+00:00
- - tags: None
 
 An official declaration of famine would unleash aid and attention. Some experts say Somalia shows that the international system for making the judgment is broken.
 
@@ -124,7 +109,6 @@ An official declaration of famine would unleash aid and attention. Some experts 
  - [https://www.nytimes.com/2022/12/13/world/europe/eu-carbon-tax-law-imports.html](https://www.nytimes.com/2022/12/13/world/europe/eu-carbon-tax-law-imports.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-13 14:24:25+00:00
- - tags: None
 
 If approved, as expected, the plan would impose tariffs on countries that fail to take strict steps to curb their greenhouse gas emissions.
 
@@ -132,7 +116,6 @@ If approved, as expected, the plan would impose tariffs on countries that fail t
  - [https://www.nytimes.com/2022/12/13/world/asia/india-china-border-clash.html](https://www.nytimes.com/2022/12/13/world/asia/india-china-border-clash.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-13 12:50:58+00:00
- - tags: None
 
 Tensions are still simmering two years after a deadly confrontation over a remote region each country claims as its own.
 
@@ -140,7 +123,6 @@ Tensions are still simmering two years after a deadly confrontation over a remot
  - [https://www.nytimes.com/2022/12/13/world/asia/china-covid-zero-beijing.html](https://www.nytimes.com/2022/12/13/world/asia/china-covid-zero-beijing.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-13 12:27:12+00:00
- - tags: None
 
 Almost no one is venturing out even after an easing of pandemic measures. Cold and flu medicines are scarce, but food supplies appear adequate.
 
@@ -148,7 +130,6 @@ Almost no one is venturing out even after an easing of pandemic measures. Cold a
  - [https://www.nytimes.com/2022/12/13/world/asia/bts-jin-military-service.html](https://www.nytimes.com/2022/12/13/world/asia/bts-jin-military-service.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-13 08:43:31+00:00
- - tags: None
 
 Saying goodbye to the ARMY — as the K-pop supergroup’s fan base is known — and hello to the armed forces, Jin became the first member of the boy band to start mandatory military service.
 
@@ -156,7 +137,6 @@ Saying goodbye to the ARMY — as the K-pop supergroup’s fan base is known —
  - [https://www.nytimes.com/2022/12/13/world/africa/african-union-macky-sall-senegal-summit.html](https://www.nytimes.com/2022/12/13/world/africa/african-union-macky-sall-senegal-summit.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-13 08:00:06+00:00
- - tags: None
 
 President Macky Sall of Senegal, chairman of the bloc, said in an interview before the U.S.-Africa summit that it’s time for the continent to have more seats in global institutions.
 
@@ -164,7 +144,6 @@ President Macky Sall of Senegal, chairman of the bloc, said in an interview befo
  - [https://www.nytimes.com/2022/12/13/briefing/ftx-bankman-fried-putin-conference.html](https://www.nytimes.com/2022/12/13/briefing/ftx-bankman-fried-putin-conference.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-13 05:02:41+00:00
- - tags: None
 
 Sam Bankman-Fried, the founder of FTX, has been arrested and will face criminal charges.
 
@@ -172,7 +151,6 @@ Sam Bankman-Fried, the founder of FTX, has been arrested and will face criminal 
  - [https://www.nytimes.com/2022/12/13/style/marcus-samuelsson-chef-st-lucia-day-sweden-tradition.html](https://www.nytimes.com/2022/12/13/style/marcus-samuelsson-chef-st-lucia-day-sweden-tradition.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-13 05:00:05+00:00
- - tags: None
 
 In his restaurants, including his latest, Marcus Samuelsson draws inspiration from childhood memories of the Scandinavian holiday.
 
@@ -180,7 +158,6 @@ In his restaurants, including his latest, Marcus Samuelsson draws inspiration fr
  - [https://www.nytimes.com/2022/12/12/world/australia/shooting-queensland-officers.html](https://www.nytimes.com/2022/12/12/world/australia/shooting-queensland-officers.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-13 01:06:48+00:00
- - tags: None
 
 Three other people, believed to be the assailants, were killed by the police during the incident, the authorities in the state of Queensland said.
 
@@ -188,6 +165,5 @@ Three other people, believed to be the assailants, were killed by the police dur
  - [https://www.nytimes.com/2022/12/12/world/europe/putin-skips-news-conference.html](https://www.nytimes.com/2022/12/12/world/europe/putin-skips-news-conference.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-13 00:00:08+00:00
- - tags: None
 
 The December event has offered reporters rare — albeit stage-managed — chances to pose hard questions. With the war going poorly for Russia, that could have been awkward.

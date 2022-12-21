@@ -1,10 +1,9 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss
+# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
 
 ## Microsoft testing a new Windows 11 screen recorder so you can stop using the Xbox Game Bar
  - [https://www.techradar.com/news/microsoft-testing-a-new-windows-11-screen-recorder-so-you-can-stop-using-the-xbox-game-bar](https://www.techradar.com/news/microsoft-testing-a-new-windows-11-screen-recorder-so-you-can-stop-using-the-xbox-game-bar)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 22:00:52+00:00
- - tags: None
 
 Available now from the Dev Channel, the upcoming feature offers better control over what you record in Windows 11
 
@@ -12,7 +11,6 @@ Available now from the Dev Channel, the upcoming feature offers better control o
  - [https://www.techradar.com/news/tor-browser-finally-gets-apple-silicon-support-in-new-update](https://www.techradar.com/news/tor-browser-finally-gets-apple-silicon-support-in-new-update)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 21:08:49+00:00
- - tags: None
 
 Tor 12.0 gives support for Apple’s CPU architecture at last, and also brings more features to Android versions.
 
@@ -20,7 +18,6 @@ Tor 12.0 gives support for Apple’s CPU architecture at last, and also brings m
  - [https://www.techradar.com/news/that-was-fast-amazons-alexa-thank-my-driver-tip-program-is-over](https://www.techradar.com/news/that-was-fast-amazons-alexa-thank-my-driver-tip-program-is-over)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 20:17:59+00:00
- - tags: None
 
 Everything you need to know about thanking your Amazon drivers via Alexa
 
@@ -28,7 +25,6 @@ Everything you need to know about thanking your Amazon drivers via Alexa
  - [https://www.techradar.com/news/github-launches-copilot-for-businesses](https://www.techradar.com/news/github-launches-copilot-for-businesses)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 19:17:01+00:00
- - tags: None
 
 Big year for GitHub continues with Copilot rolling out to even more customers.
 
@@ -36,7 +32,6 @@ Big year for GitHub continues with Copilot rolling out to even more customers.
  - [https://www.techradar.com/news/another-patch-tuesday-launch-has-broken-another-key-microsoft-tool](https://www.techradar.com/news/another-patch-tuesday-launch-has-broken-another-key-microsoft-tool)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 18:11:37+00:00
- - tags: None
 
 A regular Patch Tuesday update has impacted the Microsoft ODBC SQL Server driver.
 
@@ -44,7 +39,6 @@ A regular Patch Tuesday update has impacted the Microsoft ODBC SQL Server driver
  - [https://www.techradar.com/news/if-diablo-4s-queen-of-hell-is-a-spicy-tomato-this-burger-king-ad-gives-me-ideas](https://www.techradar.com/news/if-diablo-4s-queen-of-hell-is-a-spicy-tomato-this-burger-king-ad-gives-me-ideas)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 17:59:54+00:00
- - tags: None
 
 A new ad campaign from Burger King Japan sees Diablo 4's Lilith reimagined with some fiery hot tomatoes on top.
 
@@ -52,7 +46,6 @@ A new ad campaign from Burger King Japan sees Diablo 4's Lilith reimagined with 
  - [https://www.techradar.com/news/this-horror-game-looks-like-silent-hill-but-it-doesnt-get-what-made-it-scary](https://www.techradar.com/news/this-horror-game-looks-like-silent-hill-but-it-doesnt-get-what-made-it-scary)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 17:23:21+00:00
- - tags: None
 
 While the trailer for Post Trauma looks spooky, it may have missed what makes psychological horror terrifying.
 
@@ -60,7 +53,6 @@ While the trailer for Post Trauma looks spooky, it may have missed what makes ps
  - [https://www.techradar.com/news/google-chrome-gets-memory-and-energy-saver-modes](https://www.techradar.com/news/google-chrome-gets-memory-and-energy-saver-modes)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 17:14:08+00:00
- - tags: None
 
 Reduced memory usage and increased battery life set to make Google Chrome even better on your laptop.
 
@@ -68,7 +60,6 @@ Reduced memory usage and increased battery life set to make Google Chrome even b
  - [https://www.techradar.com/news/unlock-every-valorant-agent-when-you-link-up-with-xbox-game-pass](https://www.techradar.com/news/unlock-every-valorant-agent-when-you-link-up-with-xbox-game-pass)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 16:21:14+00:00
- - tags: None
 
 From December 12, you’ll be able to link your Riot Games and Xbox Game Pass accounts to enjoy some in-game swag.
 
@@ -76,7 +67,6 @@ From December 12, you’ll be able to link your Riot Games and Xbox Game Pass ac
  - [https://www.techradar.com/news/this-lawsuit-could-stop-microsoft-from-acquiring-activision-blizzard](https://www.techradar.com/news/this-lawsuit-could-stop-microsoft-from-acquiring-activision-blizzard)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 16:08:29+00:00
- - tags: None
 
 The Federal Trade Commission has filed a complaint that looks to block Microsoft’s acquisition of Activision Blizzard.
 
@@ -84,7 +74,6 @@ The Federal Trade Commission has filed a complaint that looks to block Microsoft
  - [https://www.techradar.com/news/fbi-says-apples-new-encryption-launch-is-deeply-concerning](https://www.techradar.com/news/fbi-says-apples-new-encryption-launch-is-deeply-concerning)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 15:50:00+00:00
- - tags: None
 
 This is not the first time Apple's struck a nerve with the FBI.
 
@@ -92,7 +81,6 @@ This is not the first time Apple's struck a nerve with the FBI.
  - [https://www.techradar.com/news/business-email-attacks-are-going-increasingly-mobile](https://www.techradar.com/news/business-email-attacks-are-going-increasingly-mobile)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 15:23:26+00:00
- - tags: None
 
 Criminals are seeing many benefits to using SMS messages for BEC attacks, researchers claim.
 
@@ -100,7 +88,6 @@ Criminals are seeing many benefits to using SMS messages for BEC attacks, resear
  - [https://www.techradar.com/news/7-new-movies-and-tv-shows-on-netflix-prime-video-hbo-max-and-more-this-weekend-december-9-2022](https://www.techradar.com/news/7-new-movies-and-tv-shows-on-netflix-prime-video-hbo-max-and-more-this-weekend-december-9-2022)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 15:00:43+00:00
- - tags: None
 
 From new stop-motion adventures to returning holiday classics, there’s plenty to watch this weekend.
 
@@ -108,7 +95,6 @@ From new stop-motion adventures to returning holiday classics, there’s plenty 
  - [https://www.techradar.com/news/nvidia-rtx-4080-price-cut-in-uk-suggests-gpu-might-get-even-cheaper-soon](https://www.techradar.com/news/nvidia-rtx-4080-price-cut-in-uk-suggests-gpu-might-get-even-cheaper-soon)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 14:44:27+00:00
- - tags: None
 
 This unpopular graphics card might just be about to look a more viable option for buyers at the high-end.
 
@@ -116,7 +102,6 @@ This unpopular graphics card might just be about to look a more viable option fo
  - [https://www.techradar.com/news/new-us-defense-budget-has-a-heavy-cyber-focuses](https://www.techradar.com/news/new-us-defense-budget-has-a-heavy-cyber-focuses)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 14:40:42+00:00
- - tags: None
 
 New roles, new capabilities, and plenty of money for cyber defense.
 
@@ -124,7 +109,6 @@ New roles, new capabilities, and plenty of money for cyber defense.
  - [https://www.techradar.com/news/dji-mini-3-release-date-price-specs](https://www.techradar.com/news/dji-mini-3-release-date-price-specs)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 13:00:04+00:00
- - tags: None
 
 The DJI Mini 3 is a cheaper version of its best compact drone, the Mini 3 Pro, but it comes with a couple of compromises.
 
@@ -132,7 +116,6 @@ The DJI Mini 3 is a cheaper version of its best compact drone, the Mini 3 Pro, b
  - [https://www.techradar.com/news/diamond-industry-big-players-hit-by-iranian-apt](https://www.techradar.com/news/diamond-industry-big-players-hit-by-iranian-apt)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 12:57:04+00:00
- - tags: None
 
 A supply chain attack hit firms on three continents, all in the diamond industry.
 
@@ -140,7 +123,6 @@ A supply chain attack hit firms on three continents, all in the diamond industry
  - [https://www.techradar.com/news/nvidia-rtx-4070-leak-is-an-eye-opener-but-lets-not-dismiss-this-gpu-yet](https://www.techradar.com/news/nvidia-rtx-4070-leak-is-an-eye-opener-but-lets-not-dismiss-this-gpu-yet)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 12:38:38+00:00
- - tags: None
 
 All the focus has been on the RTX 4070 Ti of late, but we’re now hearing the juicy gossip on the 4070.
 
@@ -148,7 +130,6 @@ All the focus has been on the RTX 4070 Ti of late, but we’re now hearing the j
  - [https://www.techradar.com/news/a-worrying-amount-of-apps-found-to-have-high-severity-security-flaws](https://www.techradar.com/news/a-worrying-amount-of-apps-found-to-have-high-severity-security-flaws)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 11:36:35+00:00
- - tags: None
 
 Server configurations, insecure dependencies, and information leakage are the most common types of flaws, report finds.
 
@@ -156,7 +137,6 @@ Server configurations, insecure dependencies, and information leakage are the mo
  - [https://www.techradar.com/news/the-iphone-15-ultra-could-be-every-bit-as-expensive-as-we-feared](https://www.techradar.com/news/the-iphone-15-ultra-could-be-every-bit-as-expensive-as-we-feared)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 11:14:57+00:00
- - tags: None
 
 The iPhone 15 Ultra could cost as much as $200 more than the iPhone 14 Pro Max, according to the latest leak.
 
@@ -164,7 +144,6 @@ The iPhone 15 Ultra could cost as much as $200 more than the iPhone 14 Pro Max, 
  - [https://www.techradar.com/news/playstation-vr-2-release-date-price-news-and-rumors](https://www.techradar.com/news/playstation-vr-2-release-date-price-news-and-rumors)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 11:03:18+00:00
- - tags: None
 
 PSVR 2 is coming to the PS5 soon. Here's everything we know about the new-gen headset.
 
@@ -172,7 +151,6 @@ PSVR 2 is coming to the PS5 soon. Here's everything we know about the new-gen he
  - [https://www.techradar.com/news/the-witcher-blood-origin-star-isnt-aware-of-those-season-3-appearance-rumors](https://www.techradar.com/news/the-witcher-blood-origin-star-isnt-aware-of-those-season-3-appearance-rumors)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 10:12:39+00:00
- - tags: None
 
 One Blood Origin actor has played down reports that they'll appear in The Witcher season 3.
 
@@ -180,7 +158,6 @@ One Blood Origin actor has played down reports that they'll appear in The Witche
  - [https://www.techradar.com/news/top-tech-conferences-the-ultimate-tech-events-and-show-guide](https://www.techradar.com/news/top-tech-conferences-the-ultimate-tech-events-and-show-guide)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 09:52:53+00:00
- - tags: None
 
 We've compiled the ultimate list of technology events so you don't have to.
 
@@ -188,7 +165,6 @@ We've compiled the ultimate list of technology events so you don't have to.
  - [https://www.techradar.com/news/vocaster-is-the-one-stop-tech-solution-for-podcasters-and-content-creators](https://www.techradar.com/news/vocaster-is-the-one-stop-tech-solution-for-podcasters-and-content-creators)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 08:00:57+00:00
- - tags: None
 
 If you want to start a podcast in 2023 but don’t know where to begin, audio tech brand Focusrite has everything you need – and discounts for the holidays.
 
@@ -196,7 +172,6 @@ If you want to start a podcast in 2023 but don’t know where to begin, audio te
  - [https://www.techradar.com/news/after-10-years-fromsoftware-finally-reveals-long-awaited-sci-fi-sequel](https://www.techradar.com/news/after-10-years-fromsoftware-finally-reveals-long-awaited-sci-fi-sequel)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 04:07:41+00:00
- - tags: None
 
 Armored Core 6 Fires of Rubicon, FromSoftware's long-running sci-fi mech series, is back at lost.
 
@@ -204,7 +179,6 @@ Armored Core 6 Fires of Rubicon, FromSoftware's long-running sci-fi mech series,
  - [https://www.techradar.com/news/final-fantasy-16-gets-a-release-date-and-a-chaotic-new-trailer-centered-on-revenge](https://www.techradar.com/news/final-fantasy-16-gets-a-release-date-and-a-chaotic-new-trailer-centered-on-revenge)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 04:05:16+00:00
- - tags: None
 
 Final Fantasy 16 is slated to release on June 22, 2023. The announcement at The Game Awards also hinted at the story.
 
@@ -212,7 +186,6 @@ Final Fantasy 16 is slated to release on June 22, 2023. The announcement at The 
  - [https://www.techradar.com/news/cyberpunk-2077-phantom-liberty-trailer-comes-with-an-unexpected-guest](https://www.techradar.com/news/cyberpunk-2077-phantom-liberty-trailer-comes-with-an-unexpected-guest)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 04:01:30+00:00
- - tags: None
 
 Cyberpunk 2077's newest DLC was just announced, and they have a guest of honor to go with it.
 
@@ -220,7 +193,6 @@ Cyberpunk 2077's newest DLC was just announced, and they have a guest of honor t
  - [https://www.techradar.com/news/warhammer-40k-space-marine-2-gameplay-reveal-trailer-is-bloody-as-hell](https://www.techradar.com/news/warhammer-40k-space-marine-2-gameplay-reveal-trailer-is-bloody-as-hell)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 03:35:11+00:00
- - tags: None
 
 The hotly anticipated Warhammer 40K: Space Marine 2 just received a savage gameplay trailer to satisfy the Blood God.
 
@@ -228,7 +200,6 @@ The hotly anticipated Warhammer 40K: Space Marine 2 just received a savage gamep
  - [https://www.techradar.com/news/sorry-ps4-players-horizon-forbidden-wests-expansion-is-only-coming-to-ps5](https://www.techradar.com/news/sorry-ps4-players-horizon-forbidden-wests-expansion-is-only-coming-to-ps5)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 03:07:08+00:00
- - tags: None
 
 Aloy's journey is continuing with Horizon Forbidden West's first expansion, Burning Shores, but it's a PS5 exclusive.
 
@@ -236,7 +207,6 @@ Aloy's journey is continuing with Horizon Forbidden West's first expansion, Burn
  - [https://www.techradar.com/news/diablo-4-finally-gets-a-release-date-alongside-a-brutal-new-cinematic-trailer](https://www.techradar.com/news/diablo-4-finally-gets-a-release-date-alongside-a-brutal-new-cinematic-trailer)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 03:02:23+00:00
- - tags: None
 
 Diablo 4 has finally got an official release date as announced at The Game Awards 2022 along with a cinematic trailer.
 
@@ -244,7 +214,6 @@ Diablo 4 has finally got an official release date as announced at The Game Award
  - [https://www.techradar.com/news/baldurs-gate-3-trailer-and-release-date-revealed](https://www.techradar.com/news/baldurs-gate-3-trailer-and-release-date-revealed)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 02:59:50+00:00
- - tags: None
 
 Baldur's Gate 3 has finally got a release date and a stunning trailer.
 
@@ -252,7 +221,6 @@ Baldur's Gate 3 has finally got a release date and a stunning trailer.
  - [https://www.techradar.com/news/death-stranding-2-trailer-show-series-continues-tradition-of-being-weird-af](https://www.techradar.com/news/death-stranding-2-trailer-show-series-continues-tradition-of-being-weird-af)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 02:27:57+00:00
- - tags: None
 
 Death Stranding 2's been officially revealed and, if the new trailer is anything to go by, it continues to be a bizarre series.
 
@@ -260,7 +228,6 @@ Death Stranding 2's been officially revealed and, if the new trailer is anything
  - [https://www.techradar.com/news/star-wars-jedi-survivor-trailer-shows-one-hell-of-a-beating](https://www.techradar.com/news/star-wars-jedi-survivor-trailer-shows-one-hell-of-a-beating)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 02:14:17+00:00
- - tags: None
 
 After three long years, we have a release date and a trailer for Star Wars Jedi: Survivor
 
@@ -268,7 +235,6 @@ After three long years, we have a release date and a trailer for Star Wars Jedi:
  - [https://www.techradar.com/news/dune-awakening-in-engine-trailer-shows-off-the-stunning-mmo-world-of-the-series](https://www.techradar.com/news/dune-awakening-in-engine-trailer-shows-off-the-stunning-mmo-world-of-the-series)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 02:14:14+00:00
- - tags: None
 
 An in-engine trailer for Dune Awakening has just been revealed at The Game Awards 2022 and it's sure to please fans.
 
@@ -276,7 +242,6 @@ An in-engine trailer for Dune Awakening has just been revealed at The Game Award
  - [https://www.techradar.com/news/batman-returns-in-new-suicide-squad-kill-the-justice-league-trailer](https://www.techradar.com/news/batman-returns-in-new-suicide-squad-kill-the-justice-league-trailer)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 02:00:21+00:00
- - tags: None
 
 Rocksteady hasn't left Batman behind in its Suicide Squad game.
 
@@ -284,7 +249,6 @@ Rocksteady hasn't left Batman behind in its Suicide Squad game.
  - [https://www.techradar.com/news/ken-levines-judas-trailer-just-dropped-and-its-looking-like-the-best-of-bioshock](https://www.techradar.com/news/ken-levines-judas-trailer-just-dropped-and-its-looking-like-the-best-of-bioshock)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 01:43:02+00:00
- - tags: None
 
 Kevin Levine's latest game, Judas, has just been announced and it features some stapes from the BioShock series.
 
@@ -292,6 +256,5 @@ Kevin Levine's latest game, Judas, has just been announced and it features some 
  - [https://www.techradar.com/news/the-best-indie-game-of-2020-is-getting-a-sequal](https://www.techradar.com/news/the-best-indie-game-of-2020-is-getting-a-sequal)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-09 01:42:44+00:00
- - tags: None
 
 After two years, fans of the epic rogue-like Hades are getting a sequel.

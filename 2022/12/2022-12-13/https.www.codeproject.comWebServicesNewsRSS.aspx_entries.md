@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## 5 new MVC features in .NET 7
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59790](https://www.codeproject.com/script/News/View.aspx?nwid=59790)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-13 05:00:00+00:00
- - tags: None
 
 In this post I discuss some new MVC features that were introduced in .NET 7.
 
@@ -12,7 +11,6 @@ In this post I discuss some new MVC features that were introduced in .NET 7.
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59795](https://www.codeproject.com/script/News/View.aspx?nwid=59795)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-13 05:00:00+00:00
- - tags: None
 
 Bad news if your power supply is radioactive
 
@@ -20,7 +18,6 @@ Bad news if your power supply is radioactive
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59789](https://www.codeproject.com/script/News/View.aspx?nwid=59789)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-13 05:00:00+00:00
- - tags: None
 
 Does “WWW” belong in a URL? Some developers hold strong opinions on the subject.
 
@@ -28,7 +25,6 @@ Does “WWW” belong in a URL? Some developers hold strong opinions on the subj
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59794](https://www.codeproject.com/script/News/View.aspx?nwid=59794)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-13 05:00:00+00:00
- - tags: None
 
 Jack of all trades, master of none
 
@@ -36,7 +32,6 @@ Jack of all trades, master of none
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59788](https://www.codeproject.com/script/News/View.aspx?nwid=59788)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-13 05:00:00+00:00
- - tags: None
 
 We’ve got the power!
 
@@ -44,7 +39,6 @@ We’ve got the power!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59802](https://www.codeproject.com/script/News/View.aspx?nwid=59802)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-13 05:00:00+00:00
- - tags: None
 
 No one expects the future of python!
 
@@ -52,7 +46,6 @@ No one expects the future of python!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59791](https://www.codeproject.com/script/News/View.aspx?nwid=59791)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-13 05:00:00+00:00
- - tags: None
 
 Alpine.js is a front-end JavaScript framework fashioned like a lightweight backpack, with a minimalist API and thoughtful features. Let's give it a try.
 
@@ -60,7 +53,6 @@ Alpine.js is a front-end JavaScript framework fashioned like a lightweight backp
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59801](https://www.codeproject.com/script/News/View.aspx?nwid=59801)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-13 05:00:00+00:00
- - tags: None
 
 Introducing Codux, a new visual IDE for easing and accelerating the development of React projects.
 
@@ -68,7 +60,6 @@ Introducing Codux, a new visual IDE for easing and accelerating the development 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59799](https://www.codeproject.com/script/News/View.aspx?nwid=59799)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-13 05:00:00+00:00
- - tags: None
 
 Just keep forgetting and re-inventing the same solution. Think of how smart you'll feel!
 
@@ -76,7 +67,6 @@ Just keep forgetting and re-inventing the same solution. Think of how smart you'
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59804](https://www.codeproject.com/script/News/View.aspx?nwid=59804)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-13 05:00:00+00:00
- - tags: None
 
 Screeeee! click-click-click scrawk.
 
@@ -84,7 +74,6 @@ Screeeee! click-click-click scrawk.
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59793](https://www.codeproject.com/script/News/View.aspx?nwid=59793)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-13 05:00:00+00:00
- - tags: None
 
 Visual Studio 2022 includes a surprising new feature: a new preview/visual designer for ASP.Net Web Forms.
 
@@ -92,7 +81,6 @@ Visual Studio 2022 includes a surprising new feature: a new preview/visual desig
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59800](https://www.codeproject.com/script/News/View.aspx?nwid=59800)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-13 05:00:00+00:00
- - tags: None
 
 When choosing between pixels and rems in CSS, you should almost always use rems
 
@@ -100,7 +88,6 @@ When choosing between pixels and rems in CSS, you should almost always use rems
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59797](https://www.codeproject.com/script/News/View.aspx?nwid=59797)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-13 05:00:00+00:00
- - tags: None
 
 All hail Excel and Access!
 
@@ -108,7 +95,6 @@ All hail Excel and Access!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59796](https://www.codeproject.com/script/News/View.aspx?nwid=59796)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-13 05:00:00+00:00
- - tags: None
 
 "One day, a King will come, and the Sword will rise... again."
 
@@ -116,7 +102,6 @@ All hail Excel and Access!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59803](https://www.codeproject.com/script/News/View.aspx?nwid=59803)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-13 05:00:00+00:00
- - tags: None
 
 It don't matter where the semi-colons go, just as long as the logic do flow
 
@@ -124,7 +109,6 @@ It don't matter where the semi-colons go, just as long as the logic do flow
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59798](https://www.codeproject.com/script/News/View.aspx?nwid=59798)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-13 05:00:00+00:00
- - tags: None
 
 Hitting the egg nog - heavy on the nog
 
@@ -132,6 +116,5 @@ Hitting the egg nog - heavy on the nog
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59792](https://www.codeproject.com/script/News/View.aspx?nwid=59792)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-13 05:00:00+00:00
- - tags: None
 
 Vite (French word for "quick", pronounced /vit/, like "veet") is a build tool that aims to provide a faster and leaner development experience for modern web projects

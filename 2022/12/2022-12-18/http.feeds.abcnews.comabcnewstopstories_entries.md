@@ -1,4 +1,4 @@
-# Source ABC News, Source URL:http://feeds.abcnews.com/abcnews/topstories
+# Source ABC News, Source URL:http://feeds.abcnews.com/abcnews/topstories, Source language: en-US
 
 ## Ex-NBA star Amar'e Stoudemire charged with punching daughter
  - [https://abcnews.go.com/Sports/wireStory/nba-star-amare-stoudemire-charged-punching-daughter-95513466](https://abcnews.go.com/Sports/wireStory/nba-star-amare-stoudemire-charged-punching-daughter-95513466)
@@ -69,6 +69,13 @@ The Jan. 6 committee is likely to send criminal referrals to the Justice Departm
  - date published: 2022-12-18 19:20:17+00:00
 
 Italian news reports say a 2-year-old girl has died after being rescued by the Italian coast guard near a Mediterranean island, along with dozens of other migrants
+
+## Texas mayor declares state of emergency over migrant swell
+ - [https://abcnews.go.com/US/wireStory/texas-mayor-declares-state-emergency-migrant-swell-95489614](https://abcnews.go.com/US/wireStory/texas-mayor-declares-state-emergency-migrant-swell-95489614)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2022-12-18 16:51:46+00:00
+
+The mayor of a Texas border city has declared a state of emergency over concerns about the community&rsquo;s ability to handle an anticipated influx of migrants across the Southern border
 
 ## Cecily Strong leaves Saturday Night Live after 11 seasons
  - [https://abcnews.go.com/Entertainment/wireStory/cecily-strong-leaves-saturday-night-live-after-11-95498262](https://abcnews.go.com/Entertainment/wireStory/cecily-strong-leaves-saturday-night-live-after-11-95498262)

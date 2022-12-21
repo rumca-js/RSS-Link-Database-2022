@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## How fast is 5G in the real world? Compared against 4G LTE
  - [https://www.androidauthority.com/how-fast-is-5g-real-world-3249921/](https://www.androidauthority.com/how-fast-is-5g-real-world-3249921/)

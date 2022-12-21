@@ -1,4 +1,4 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## Sharon Osbourne was transported to a hospital after an emergency call
  - [https://www.cnn.com/2022/12/17/entertainment/sharon-osbourne-emergency-hospital-california/index.html](https://www.cnn.com/2022/12/17/entertainment/sharon-osbourne-emergency-hospital-california/index.html)
@@ -6,6 +6,13 @@
  - date published: 2022-12-17 22:55:18+00:00
 
 Television personality Sharon Osbourne was transported to a southern California hospital Friday night after an emergency call, police said.
+
+## 'Very hurtful': CNN contributors react to university chancellor's racist remarks
+ - [https://www.cnn.com/videos/us/2022/12/17/purdue-university-chancellor-racist-remarks-reaction-shan-wu-lisa-ling-contd-cnntmw-vpx.cnn](https://www.cnn.com/videos/us/2022/12/17/purdue-university-chancellor-racist-remarks-reaction-shan-wu-lisa-ling-contd-cnntmw-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-17 19:06:13+00:00
+
+CNN contributors Shan Wu and Lisa Ling join anchor Amara Walker to discuss the racist remarks made by Thomas L. Keon, the chancellor of Purdue University Northwest, during a commencement speech. The chancellor was following the keynote speaker who referenced using "made up languages" to his grandchildren several times in his speech, which made no mention or reference to Asians.
 
 ## The real cost of sponsoring this World Cup
  - [https://www.cnn.com/collections/intl-world-cup-12-17/](https://www.cnn.com/collections/intl-world-cup-12-17/)

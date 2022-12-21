@@ -1,10 +1,9 @@
-# Source Jordan B Peterson, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
+# Source Jordan B Peterson, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q, Source language: en-US
 
 ## Viral: The Origin of Covid 19 | Matt Ridley | #310
  - [https://www.youtube.com/watch?v=FEh5JyZC218](https://www.youtube.com/watch?v=FEh5JyZC218)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
  - date published: 2022-12-01 17:11:42+00:00
- - tags: None
 
 Dr. Peterson's extensive catalog is available now on DailyWire+: https://utm.io/ueSXh
 

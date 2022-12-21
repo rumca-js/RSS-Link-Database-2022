@@ -1,4 +1,4 @@
-# Source CNBC, Source URL:https://www.cnbc.com/id/100727362/device/rss/rss.html
+# Source CNBC, Source URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, Source language: en-US
 
 ## The Asian nation where 35% of people say they’ll 'never travel' again
  - [https://www.cnbc.com/2022/12/19/dont-want-to-travel-many-in-japan-say-theyll-never-travel-again.html](https://www.cnbc.com/2022/12/19/dont-want-to-travel-many-in-japan-say-theyll-never-travel-again.html)

@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## BrandPost: Innovate in Place: Less Risk. More Return
  - [https://www.computerworld.com/article/3681849/innovate-in-place-less-risk-more-return.html#tk.rss_all](https://www.computerworld.com/article/3681849/innovate-in-place-less-risk-more-return.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-01 18:24:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3680556/how-enterprise-content-management-is-evolving-from-monolith-to-modular.html#tk.rss_all](https://www.computerworld.com/article/3680556/how-enterprise-content-management-is-evolving-from-monolith-to-modular.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-01 11:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -24,7 +22,6 @@
  - [https://www.computerworld.com/article/3681830/so-you-were-laid-off-dont-panic.html#tk.rss_all](https://www.computerworld.com/article/3681830/so-you-were-laid-off-dont-panic.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-01 10:36:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## Next year, be a retired botanist in a puzzle-filled mansion of forgotten plants
  - [https://www.pcgamer.com/next-year-be-a-retired-botanist-in-a-puzzle-filled-mansion-of-forgotten-plants](https://www.pcgamer.com/next-year-be-a-retired-botanist-in-a-puzzle-filled-mansion-of-forgotten-plants)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-04 23:41:40+00:00
- - tags: None
 
 The Witness, but it's about a nice country house filled with plants.
 
@@ -12,7 +11,6 @@ The Witness, but it's about a nice country house filled with plants.
  - [https://www.pcgamer.com/cyberpunk-2077-is-getting-a-game-of-the-year-edition](https://www.pcgamer.com/cyberpunk-2077-is-getting-a-game-of-the-year-edition)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-04 22:48:48+00:00
- - tags: None
 
 If Dead Island can have a GOTY edition, I guess anyone can.
 
@@ -20,7 +18,6 @@ If Dead Island can have a GOTY edition, I guess anyone can.
  - [https://www.pcgamer.com/heres-a-mod-that-promises-to-help-darktide-run-better-on-your-low-end-pc](https://www.pcgamer.com/heres-a-mod-that-promises-to-help-darktide-run-better-on-your-low-end-pc)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-04 21:54:13+00:00
- - tags: None
 
 Perhaps your potato can run Darktide after all, kind of, maybe.
 
@@ -28,7 +25,6 @@ Perhaps your potato can run Darktide after all, kind of, maybe.
  - [https://www.pcgamer.com/this-modder-has-been-exploring-the-souls-series-mysterious-out-of-bounds-cities](https://www.pcgamer.com/this-modder-has-been-exploring-the-souls-series-mysterious-out-of-bounds-cities)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-04 20:44:42+00:00
- - tags: None
 
 Crest most recently uploaded a video showing off the Boletarian town in Demon's Souls.
 
@@ -36,7 +32,6 @@ Crest most recently uploaded a video showing off the Boletarian town in Demon's 
  - [https://www.pcgamer.com/modders-are-adding-into-the-spider-verse-animations-and-costumes-into-spider-man-miles-morales](https://www.pcgamer.com/modders-are-adding-into-the-spider-verse-animations-and-costumes-into-spider-man-miles-morales)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-04 20:43:16+00:00
- - tags: None
 
 Get down like the Spider-Man Miles was born to be.
 
@@ -44,7 +39,6 @@ Get down like the Spider-Man Miles was born to be.
  - [https://www.pcgamer.com/epic-does-what-nintendont-brings-geralt-and-the-doom-slayer-to-fortnite](https://www.pcgamer.com/epic-does-what-nintendont-brings-geralt-and-the-doom-slayer-to-fortnite)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-04 18:09:01+00:00
- - tags: None
 
 Making Geralt do the Griddy over the lifeless body of Sasuke Uchiha.
 
@@ -52,7 +46,6 @@ Making Geralt do the Griddy over the lifeless body of Sasuke Uchiha.
  - [https://www.pcgamer.com/bioware-celebrates-dragon-age-day-with-a-new-dreadwolf-teaser](https://www.pcgamer.com/bioware-celebrates-dragon-age-day-with-a-new-dreadwolf-teaser)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-04 17:24:44+00:00
- - tags: None
 
 The formerly unofficial fan celebration is also raising money for the Trans Empowerment Project.
 
@@ -60,7 +53,6 @@ The formerly unofficial fan celebration is also raising money for the Trans Empo
  - [https://www.pcgamer.com/wordle-533-answer-december-4](https://www.pcgamer.com/wordle-533-answer-december-4)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-04 08:05:46+00:00
- - tags: None
 
 Wordle today: The solution and a hint for the #533 puzzle.
 
@@ -68,7 +60,6 @@ Wordle today: The solution and a hint for the #533 puzzle.
  - [https://www.pcgamer.com/geralt-and-other-witcher-characters-will-arrive-in-lost-ark-next-year](https://www.pcgamer.com/geralt-and-other-witcher-characters-will-arrive-in-lost-ark-next-year)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-04 04:43:59+00:00
- - tags: None
 
 Ciri's portals sure do make crossovers convenient.
 
@@ -76,7 +67,6 @@ Ciri's portals sure do make crossovers convenient.
  - [https://www.pcgamer.com/patch-fixes-the-callisto-protocols-stuttering-which-glen-schofield-blames-on-a-freakin-error](https://www.pcgamer.com/patch-fixes-the-callisto-protocols-stuttering-which-glen-schofield-blames-on-a-freakin-error)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-04 02:09:31+00:00
- - tags: None
 
 Apparently an incorrect file was included in a launch-day patch.
 
@@ -84,6 +74,5 @@ Apparently an incorrect file was included in a launch-day patch.
  - [https://www.pcgamer.com/which-multiplayer-shooter-had-the-best-bots](https://www.pcgamer.com/which-multiplayer-shooter-had-the-best-bots)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-04 00:41:58+00:00
- - tags: None
 
 "We're independent thinkers."

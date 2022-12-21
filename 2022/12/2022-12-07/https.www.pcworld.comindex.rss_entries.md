@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## Microsoft Teams aims to be a rather dull Discord
  - [https://www.pcworld.com/article/1428443/microsoft-teams-aims-to-be-a-rather-dull-discord.html](https://www.pcworld.com/article/1428443/microsoft-teams-aims-to-be-a-rather-dull-discord.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-07 18:16:32+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -42,7 +41,6 @@ Microsoft 365</div>
  - [https://www.pcworld.com/article/1424865/intel-arc-driver-performance-a-month-checkup.html](https://www.pcworld.com/article/1424865/intel-arc-driver-performance-a-month-checkup.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-07 15:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -128,7 +126,6 @@ GPUs</div>
  - [https://www.pcworld.com/article/1428169/save-460-on-this-powerful-gigabyte-gaming-laptop.html](https://www.pcworld.com/article/1428169/save-460-on-this-powerful-gigabyte-gaming-laptop.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-07 15:06:26+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -153,7 +150,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/1424421/ai-text-generation-is-moving-mainstream.html](https://www.pcworld.com/article/1424421/ai-text-generation-is-moving-mainstream.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-07 14:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -245,7 +241,6 @@ Artificial Intelligence</div>
  - [https://www.pcworld.com/article/1426238/acer-predator-cg48-monitor-review.html](https://www.pcworld.com/article/1426238/acer-predator-cg48-monitor-review.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-07 11:45:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -650,7 +645,6 @@ Monitors</div>
  - [https://www.pcworld.com/article/1427452/vivaldi-puts-twitter-alternative-mastodon-inside-its-browser.html](https://www.pcworld.com/article/1427452/vivaldi-puts-twitter-alternative-mastodon-inside-its-browser.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-07 09:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -688,7 +682,6 @@ Browsers, Social Networking Apps</div>
  - [https://www.pcworld.com/article/1418017/get-your-teams-projects-in-order-with-93-off-officio-work.html](https://www.pcworld.com/article/1418017/get-your-teams-projects-in-order-with-93-off-officio-work.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-07 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>

@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## New World is finally cracking down on 'shell companies' to stop players from monopolizing the fun
  - [https://www.pcgamer.com/new-world-is-finally-cracking-down-on-shell-companies](https://www.pcgamer.com/new-world-is-finally-cracking-down-on-shell-companies)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 22:50:02+00:00
- - tags: None
 
 Developers are hoping to make the game's big PvP wars more accessible to everyone.
 
@@ -12,7 +11,6 @@ Developers are hoping to make the game's big PvP wars more accessible to everyon
  - [https://www.pcgamer.com/why-is-this-dollar10-warzone-skin-one-of-the-best-selling-things-on-steam](https://www.pcgamer.com/why-is-this-dollar10-warzone-skin-one-of-the-best-selling-things-on-steam)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 22:26:08+00:00
- - tags: None
 
 This individual cosmetic is currently raking in more cash than Elden Ring.
 
@@ -20,7 +18,6 @@ This individual cosmetic is currently raking in more cash than Elden Ring.
  - [https://www.pcgamer.com/world-of-warcraft-easter-eggs](https://www.pcgamer.com/world-of-warcraft-easter-eggs)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 22:25:21+00:00
- - tags: None
 
 The new expansion is bursting with references to games, movies, and WoW's own past.
 
@@ -28,7 +25,6 @@ The new expansion is bursting with references to games, movies, and WoW's own pa
  - [https://www.pcgamer.com/this-intel-collaborating-company-passively-cooled-a-steam-deck](https://www.pcgamer.com/this-intel-collaborating-company-passively-cooled-a-steam-deck)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 22:13:51+00:00
- - tags: None
 
 Sorry... "Handheld Gaming Device." Anyways, it's also got sights set on ending laptop cooling fans, though gaming laptops might be a step too far.
 
@@ -36,7 +32,6 @@ Sorry... "Handheld Gaming Device." Anyways, it's also got sights set on ending l
  - [https://www.pcgamer.com/discord-server-admins-can-now-make-money-by-offering-patreon-like-subscription-tiers](https://www.pcgamer.com/discord-server-admins-can-now-make-money-by-offering-patreon-like-subscription-tiers)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 21:18:39+00:00
- - tags: None
 
 Server Subscriptions, which launched last year as Premium Memberships, is now open to all server owners in the US.
 
@@ -44,7 +39,6 @@ Server Subscriptions, which launched last year as Premium Memberships, is now op
  - [https://www.pcgamer.com/show-us-your-warhammer-40k-darktide-characters](https://www.pcgamer.com/show-us-your-warhammer-40k-darktide-characters)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 20:54:29+00:00
- - tags: None
 
 Calling all Ogryns, Psykers, Veterans and Zealots.
 
@@ -52,7 +46,6 @@ Calling all Ogryns, Psykers, Veterans and Zealots.
  - [https://www.pcgamer.com/dandd-is-replacing-the-word-race-in-character-creation-we-do-not-intend-to-return-to-that-term](https://www.pcgamer.com/dandd-is-replacing-the-word-race-in-character-creation-we-do-not-intend-to-return-to-that-term)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 20:44:27+00:00
- - tags: None
 
 From now on player-characters will choose a "species" instead.
 
@@ -60,7 +53,6 @@ From now on player-characters will choose a "species" instead.
  - [https://www.pcgamer.com/ukranian-indie-ringlorn-saga-puts-a-fresh-twist-on-the-80s-pc-game-that-pioneered-action-rpgs](https://www.pcgamer.com/ukranian-indie-ringlorn-saga-puts-a-fresh-twist-on-the-80s-pc-game-that-pioneered-action-rpgs)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 20:02:50+00:00
- - tags: None
 
 Bringing groundbreaking Japanese action-RPG Hydlide into the 21st century.
 
@@ -68,7 +60,6 @@ Bringing groundbreaking Japanese action-RPG Hydlide into the 21st century.
  - [https://www.pcgamer.com/this-oppressively-dark-soviet-fps-now-features-a-simply-adorable-little-model-train-set](https://www.pcgamer.com/this-oppressively-dark-soviet-fps-now-features-a-simply-adorable-little-model-train-set)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 19:43:31+00:00
- - tags: None
 
 Our first taste of Hrot Episode 3: The Gastroscopy.
 
@@ -76,7 +67,6 @@ Our first taste of Hrot Episode 3: The Gastroscopy.
  - [https://www.pcgamer.com/path-of-exiles-december-expansion-brings-a-bite-sized-roguelike-and-a-brutal-new-difficulty-mode](https://www.pcgamer.com/path-of-exiles-december-expansion-brings-a-bite-sized-roguelike-and-a-brutal-new-difficulty-mode)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 19:30:06+00:00
- - tags: None
 
 Coming December 9, The Forbidden Sanctum's Ruthless mode aims to be PoE's toughest challenge yet.
 
@@ -84,7 +74,6 @@ Coming December 9, The Forbidden Sanctum's Ruthless mode aims to be PoE's toughe
  - [https://www.pcgamer.com/sonys-new-full-body-mobile-motion-capture-kit-is-the-next-terrifying-evolution-for-vtubers](https://www.pcgamer.com/sonys-new-full-body-mobile-motion-capture-kit-is-the-next-terrifying-evolution-for-vtubers)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 18:37:52+00:00
- - tags: None
 
 The Mocopi uses mobile trackers for real-time motion capture that will finally unshackle VTubers
 
@@ -92,7 +81,6 @@ The Mocopi uses mobile trackers for real-time motion capture that will finally u
  - [https://www.pcgamer.com/amnesia-the-bunker-promises-a-semi-open-world-with-sandbox-style-survival-horror](https://www.pcgamer.com/amnesia-the-bunker-promises-a-semi-open-world-with-sandbox-style-survival-horror)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 18:00:04+00:00
- - tags: None
 
 The next addition to the infamous Amnesia horror series will be out in 2023.
 
@@ -100,7 +88,6 @@ The next addition to the infamous Amnesia horror series will be out in 2023.
  - [https://www.pcgamer.com/world-of-warcraft-dragonflight-wrathion-sabellian-choice-allegiance-to-one](https://www.pcgamer.com/world-of-warcraft-dragonflight-wrathion-sabellian-choice-allegiance-to-one)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 17:56:30+00:00
- - tags: None
 
 The Allegiance to One quest asks you to make a tough choice.
 
@@ -108,7 +95,6 @@ The Allegiance to One quest asks you to make a tough choice.
  - [https://www.pcgamer.com/pci-sig-says-melty-gpu-cables-arent-its-fault-tells-manufacturers-to-test-your-own-adapters](https://www.pcgamer.com/pci-sig-says-melty-gpu-cables-arent-its-fault-tells-manufacturers-to-test-your-own-adapters)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 17:40:52+00:00
- - tags: None
 
 "PCI-SIG wishes to impress upon all Members... of the need to take all appropriate and prudent measures to ensure end user safety."
 
@@ -116,7 +102,6 @@ The Allegiance to One quest asks you to make a tough choice.
  - [https://www.pcgamer.com/amd-moores-law-aint-dead-its-just-a-whole-lot-more-expensive](https://www.pcgamer.com/amd-moores-law-aint-dead-its-just-a-whole-lot-more-expensive)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 17:01:37+00:00
- - tags: None
 
 Faster PCs will keep on coming, but creating them is becoming ever more complex.
 
@@ -124,7 +109,6 @@ Faster PCs will keep on coming, but creating them is becoming ever more complex.
  - [https://www.pcgamer.com/disney-dreamlight-valley-just-teased-one-of-my-favourite-characters-for-next-weeks-update](https://www.pcgamer.com/disney-dreamlight-valley-just-teased-one-of-my-favourite-characters-for-next-weeks-update)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 17:00:11+00:00
- - tags: None
 
 The December 6 update looks like it's gonna be real cosy.
 
@@ -132,7 +116,6 @@ The December 6 update looks like it's gonna be real cosy.
  - [https://www.pcgamer.com/company-of-heroes-3-has-changed-a-lot-thanks-to-player-feedback-from-its-interface-to-its-major-features](https://www.pcgamer.com/company-of-heroes-3-has-changed-a-lot-thanks-to-player-feedback-from-its-interface-to-its-major-features)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 16:25:04+00:00
- - tags: None
 
 It's been over a year since I played the campaign, and now it's quite different.
 
@@ -140,7 +123,6 @@ It's been over a year since I played the campaign, and now it's quite different.
  - [https://www.pcgamer.com/us-labor-board-torpedoes-activisions-last-minute-attempt-to-impede-union-vote](https://www.pcgamer.com/us-labor-board-torpedoes-activisions-last-minute-attempt-to-impede-union-vote)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 16:01:18+00:00
- - tags: None
 
 Unionising workers celebrate defeat of "a bitter attempt to silence our union".
 
@@ -148,7 +130,6 @@ Unionising workers celebrate defeat of "a bitter attempt to silence our union".
  - [https://www.pcgamer.com/a-year-after-launch-battlefield-2042-wants-a-second-chance-were-feeling-really-good](https://www.pcgamer.com/a-year-after-launch-battlefield-2042-wants-a-second-chance-were-feeling-really-good)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 16:00:28+00:00
- - tags: None
 
 In exclusive interviews, Battlefield 2042 producers tell PC Gamer that the game is finally where they wanted it to be at launch.
 
@@ -156,7 +137,6 @@ In exclusive interviews, Battlefield 2042 producers tell PC Gamer that the game 
  - [https://www.pcgamer.com/marvels-midnight-suns-credits-essences-intel-caches-gloss](https://www.pcgamer.com/marvels-midnight-suns-credits-essences-intel-caches-gloss)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 15:25:03+00:00
- - tags: None
 
 What to spend Credits, Essences, Intel and Gloss on, and where to earn more.
 
@@ -164,7 +144,6 @@ What to spend Credits, Essences, Intel and Gloss on, and where to earn more.
  - [https://www.pcgamer.com/minecraft-world-record-speedrunner-who-exposed-dream-as-a-cheat-is-exposed-as-a-cheat](https://www.pcgamer.com/minecraft-world-record-speedrunner-who-exposed-dream-as-a-cheat-is-exposed-as-a-cheat)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 15:12:45+00:00
- - tags: None
 
 Blockheads.
 
@@ -172,7 +151,6 @@ Blockheads.
  - [https://www.pcgamer.com/the-rtx-3080-is-unreservedly-still-the-graphics-card-id-buy-today](https://www.pcgamer.com/the-rtx-3080-is-unreservedly-still-the-graphics-card-id-buy-today)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 15:08:35+00:00
- - tags: None
 
 AMD RDNA 3 is incoming, the RTX 4090 is awesome, but I don't care.
 
@@ -180,7 +158,6 @@ AMD RDNA 3 is incoming, the RTX 4090 is awesome, but I don't care.
  - [https://www.pcgamer.com/midnight-suns-tips](https://www.pcgamer.com/midnight-suns-tips)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 14:00:36+00:00
- - tags: None
 
 Have a perfect playthrough with these less-than-obvious tips and tricks.
 
@@ -188,7 +165,6 @@ Have a perfect playthrough with these less-than-obvious tips and tricks.
  - [https://www.pcgamer.com/portal-writer-says-valve-has-a-starting-point-that-we-like-a-ton-for-portal-3](https://www.pcgamer.com/portal-writer-says-valve-has-a-starting-point-that-we-like-a-ton-for-portal-3)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 13:52:35+00:00
- - tags: None
 
 "Someone's gotta think up some new portal puzzles! But we do have an actual idea, yes."
 
@@ -196,7 +172,6 @@ Have a perfect playthrough with these less-than-obvious tips and tricks.
  - [https://www.pcgamer.com/fortnite-chapter-4-start-fracture-event](https://www.pcgamer.com/fortnite-chapter-4-start-fracture-event)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 13:18:28+00:00
- - tags: None
 
 Get ready for Chapter 4, Season 1.
 
@@ -204,7 +179,6 @@ Get ready for Chapter 4, Season 1.
  - [https://www.pcgamer.com/thermaltake-argent-e700-gaming-chair-review](https://www.pcgamer.com/thermaltake-argent-e700-gaming-chair-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 12:58:52+00:00
- - tags: None
 
 A mighty gaming throne, but the price for greatness is undeniably high.
 
@@ -212,7 +186,6 @@ A mighty gaming throne, but the price for greatness is undeniably high.
  - [https://www.pcgamer.com/sonic-frontiers-is-adding-4-playable-characters-new-modes-and-more-in-2023](https://www.pcgamer.com/sonic-frontiers-is-adding-4-playable-characters-new-modes-and-more-in-2023)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 12:56:16+00:00
- - tags: None
 
 Three major updates will sprinkle in small features and bigger additions.
 
@@ -220,7 +193,6 @@ Three major updates will sprinkle in small features and bigger additions.
  - [https://www.pcgamer.com/heres-a-600hz-gaming-laptop-screen-no-one-asked-for](https://www.pcgamer.com/heres-a-600hz-gaming-laptop-screen-no-one-asked-for)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 12:18:05+00:00
- - tags: None
 
 New panel from Chinese manufacturer BOE Hz so good.
 
@@ -228,7 +200,6 @@ New panel from Chinese manufacturer BOE Hz so good.
  - [https://www.pcgamer.com/street-fighter-6-is-back-for-another-beta-but-dont-expect-to-buy-your-way-in-this-time](https://www.pcgamer.com/street-fighter-6-is-back-for-another-beta-but-dont-expect-to-buy-your-way-in-this-time)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 11:53:05+00:00
- - tags: None
 
 Capcom wasn't too happy about all the key resellers last time.
 
@@ -236,7 +207,6 @@ Capcom wasn't too happy about all the key resellers last time.
  - [https://www.pcgamer.com/the-pcs-most-hardcore-city-builder-just-got-even-harder](https://www.pcgamer.com/the-pcs-most-hardcore-city-builder-just-got-even-harder)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 11:46:55+00:00
- - tags: None
 
 Surely it ought to be called socialist realist mode.
 
@@ -244,7 +214,6 @@ Surely it ought to be called socialist realist mode.
  - [https://www.pcgamer.com/steam-deck-giveaway-register](https://www.pcgamer.com/steam-deck-giveaway-register)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 11:28:59+00:00
- - tags: None
 
 Valve is trying to fix the site, but even those who meet all the requirements are being locked out of registration.
 
@@ -252,7 +221,6 @@ Valve is trying to fix the site, but even those who meet all the requirements ar
  - [https://www.pcgamer.com/marvels-midnight-suns-elemental-rods](https://www.pcgamer.com/marvels-midnight-suns-elemental-rods)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 11:05:07+00:00
- - tags: None
 
 It wouldn't be a Marvel game without collectibles, so here's where to find all the elemental rods.
 
@@ -260,7 +228,6 @@ It wouldn't be a Marvel game without collectibles, so here's where to find all t
  - [https://www.pcgamer.com/wordle-530-answer-december-1](https://www.pcgamer.com/wordle-530-answer-december-1)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 08:05:46+00:00
- - tags: None
 
 Wordle today: The solution and a hint for the #530 puzzle.
 
@@ -268,7 +235,6 @@ Wordle today: The solution and a hint for the #530 puzzle.
  - [https://www.pcgamer.com/taiwans-semiconductor-industry-set-to-suffer-after-uschina-trade-disputes](https://www.pcgamer.com/taiwans-semiconductor-industry-set-to-suffer-after-uschina-trade-disputes)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 04:48:06+00:00
- - tags: None
 
 Taking out all those Chinese profits could be a huge hit to Taiwan.
 
@@ -276,7 +242,6 @@ Taking out all those Chinese profits could be a huge hit to Taiwan.
  - [https://www.pcgamer.com/todays-google-doodle-is-a-game-that-lets-you-make-your-own-games](https://www.pcgamer.com/todays-google-doodle-is-a-game-that-lets-you-make-your-own-games)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 03:45:53+00:00
- - tags: None
 
 In honour of videogame pioneer, Jerry Lawson.
 
@@ -284,7 +249,6 @@ In honour of videogame pioneer, Jerry Lawson.
  - [https://www.pcgamer.com/darktide-best-settings-pc-performance-tips](https://www.pcgamer.com/darktide-best-settings-pc-performance-tips)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 01:29:53+00:00
- - tags: None
 
 Unless you have absolute top-of-the-line hardware, get ready to run Darktide at lower settings.
 
@@ -292,7 +256,6 @@ Unless you have absolute top-of-the-line hardware, get ready to run Darktide at 
  - [https://www.pcgamer.com/asus-rog-strix-geforce-rtx-4090-oc](https://www.pcgamer.com/asus-rog-strix-geforce-rtx-4090-oc)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 01:17:06+00:00
- - tags: None
 
 If you want the best...
 
@@ -300,7 +263,6 @@ If you want the best...
  - [https://www.pcgamer.com/need-for-speed-unbounds-wild-visual-effects-are-actually-the-best-part](https://www.pcgamer.com/need-for-speed-unbounds-wild-visual-effects-are-actually-the-best-part)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 00:12:24+00:00
- - tags: None
 
 Unbound shows that photoreal racing is overrated.
 
@@ -308,6 +270,5 @@ Unbound shows that photoreal racing is overrated.
  - [https://www.pcgamer.com/unhinged-world-of-warcraft-dragonflight-rogue-pvp-build-instantly-sends-you-to-the-spirit-realm](https://www.pcgamer.com/unhinged-world-of-warcraft-dragonflight-rogue-pvp-build-instantly-sends-you-to-the-spirit-realm)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-01 00:04:42+00:00
- - tags: None
 
 Try it before it's gone.

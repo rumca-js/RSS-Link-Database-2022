@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed
+# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
 
 ## Arestowycz potwierdza informacje medialne: Wojska ukraińskie podjęły próbę zabicia gen. Gierasimowa
  - [https://forsal.pl/swiat/ukraina/artykuly/8613136,arestowycz-wojska-ukrainskie-podjely-probe-zabicia-gen-gierasimowa.html](https://forsal.pl/swiat/ukraina/artykuly/8613136,arestowycz-wojska-ukrainskie-podjely-probe-zabicia-gen-gierasimowa.html)

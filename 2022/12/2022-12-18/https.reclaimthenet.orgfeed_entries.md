@@ -1,4 +1,12 @@
-# Source Reclaim The Net, Source URL:https://reclaimthenet.org/feed/
+# Source Reclaim The Net, Source URL:https://reclaimthenet.org/feed/, Source language: en-US
+
+## Senator Wyden to investigate whether domain registrar Neustar sold user data to the US government
+ - [https://reclaimthenet.org/wyden-investigate-neustar-privacy-government/](https://reclaimthenet.org/wyden-investigate-neustar-privacy-government/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2022-12-18 23:50:53+00:00
+
+<a href="https://reclaimthenet.org/wyden-investigate-neustar-privacy-government/" rel="nofollow" title="Senator Wyden to investigate whether domain registrar Neustar sold user data to the US government"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2022/12/wyden-23.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>New allegations.</p>
+<p>The post <a href="https://reclaimthenet.org/wyden-investigate-neustar-privacy-government/" rel="nofollow">Senator Wyden to investigate whether domain registrar Neustar sold user data to the US government</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
 
 ## Congressman Ted Lieu defends FBI after Twitter Files revelation
  - [https://reclaimthenet.org/congressman-ted-lieu-defends-fbi-after-twitter-files-revelation/](https://reclaimthenet.org/congressman-ted-lieu-defends-fbi-after-twitter-files-revelation/)

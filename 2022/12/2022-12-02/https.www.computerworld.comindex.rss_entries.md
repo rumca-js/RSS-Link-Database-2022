@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Amazon layoffs now expected to mount to 20,000, including top managers
  - [https://www.computerworld.com/article/3682071/amazon-layoffs-now-expected-to-mount-to-20000-including-top-managers.html#tk.rss_all](https://www.computerworld.com/article/3682071/amazon-layoffs-now-expected-to-mount-to-20000-including-top-managers.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-02 18:04:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3681892/apple-gives-up-on-reality-but-still-wants-to-extend-it.html#tk.rss_all](https://www.computerworld.com/article/3681892/apple-gives-up-on-reality-but-still-wants-to-extend-it.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-02 14:55:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -25,7 +23,6 @@
  - [https://www.computerworld.com/article/3682128/maersks-tradelens-demise-likely-a-death-knell-for-blockchain-consortiums.html#tk.rss_all](https://www.computerworld.com/article/3682128/maersks-tradelens-demise-likely-a-death-knell-for-blockchain-consortiums.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-02 11:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -35,7 +32,6 @@
  - [https://www.computerworld.com/article/3681115/google-pixel-upgrade.html#tk.rss_all](https://www.computerworld.com/article/3681115/google-pixel-upgrade.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-02 10:45:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

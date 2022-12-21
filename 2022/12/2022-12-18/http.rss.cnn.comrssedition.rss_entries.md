@@ -1,4 +1,18 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+
+## James Cameron wants to put debate around Jack's death in 'Titanic' to rest
+ - [https://www.cnn.com/2022/12/18/entertainment/james-cameron-death-debate-titanic/index.html](https://www.cnn.com/2022/12/18/entertainment/james-cameron-death-debate-titanic/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-18 23:59:24+00:00
+
+Ever since "Titanic" came out 25 years ago, a debate has arisen about a pivotal scene toward the end that has become almost as iconic as the film itself.
+
+## Hear John Dean's prediction about DOJ filing charges against Trump
+ - [https://www.cnn.com/videos/politics/2022/12/18/trump-doj-january-6-john-dean-whitfield-nrwknd-vpx.cnn](https://www.cnn.com/videos/politics/2022/12/18/trump-doj-january-6-john-dean-whitfield-nrwknd-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-18 21:35:04+00:00
+
+Former Nixon White House counsel and CNN contributor John Dean discusses the January 6th House select committee's potential criminal referrals to the Department of Justice of former President Donald Trump and his allies.
 
 ## How the world reacted to 'the best World Cup final ever'
  - [https://www.cnn.com/2022/12/18/football/france-argentina-world-cup-2022-reaction-spt-intl/index.html](https://www.cnn.com/2022/12/18/football/france-argentina-world-cup-2022-reaction-spt-intl/index.html)
@@ -14,6 +28,20 @@ This World Cup final was a game that seemed to defy comprehension, conventions a
 
 
 
+## What to know about criminal referrals the committee may make
+ - [https://www.cnn.com/2022/12/18/politics/criminal-referrals-january-6-committee/index.html](https://www.cnn.com/2022/12/18/politics/criminal-referrals-january-6-committee/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-18 20:27:26+00:00
+
+The House select committee investigating the January 6, 2021, insurrection is set to make announcements at its final public meeting on Monday about criminal referrals to the Justice Department.
+
+## See the emotional moments from Cecily Strong's final SNL
+ - [https://www.cnn.com/videos/business/2022/12/18/cecily-strong-final-snl-cprog-orig-fj.cnn-business](https://www.cnn.com/videos/business/2022/12/18/cecily-strong-final-snl-cprog-orig-fj.cnn-business)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-18 19:06:18+00:00
+
+After 11 years on "Saturday Night Live," Cecily Strong was serenaded by host Austin Butler and her fellow cast members with a rendition of Elvis Presley's "Blue Christmas."
+
 ## Lionel Messi-inspired Argentina wins World Cup title after beating France in sensational final
  - [https://www.cnn.com/2022/12/18/football/argentina-france-world-cup-final-qatar-2022-spt-intl/index.html](https://www.cnn.com/2022/12/18/football/argentina-france-world-cup-final-qatar-2022-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
@@ -28,12 +56,26 @@ Lionel Messi's wait for World Cup glory is finally over after Argentina beat Fra
 
 One person was reported dead and eight people were injured in the Russian region of Belgorod on Sunday following shelling by Ukrainian forces, according to the regional governor.
 
+## Rihanna shares first images of baby boy
+ - [https://www.cnn.com/videos/celebrities/2022/12/18/rihanna-baby-tiktok-video-asap-rocky-son-reveal-cprog-orig-kj.cnn](https://www.cnn.com/videos/celebrities/2022/12/18/rihanna-baby-tiktok-video-asap-rocky-son-reveal-cprog-orig-kj.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-18 15:39:37+00:00
+
+Rihanna can add "first social media video" to the family scrapbook after posting a TikTok filled with the sounds of happy baby babble, revealing her son with rapper A$AP Rocky on-camera.
+
 ## Superstars Mbappé and Messi face off in World Cup final
  - [https://edition.cnn.com/sport/live-news/world-cup-final-argentina-france-12-18-22/index.html](https://edition.cnn.com/sport/live-news/world-cup-final-argentina-france-12-18-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-18 15:36:56.065218+00:00
 
 
+
+## Dance from television reboot is taking TikTok by storm
+ - [https://www.cnn.com/videos/media/2022/12/17/wednesday-addams-dance-trend-cp-orig-kj.cnn](https://www.cnn.com/videos/media/2022/12/17/wednesday-addams-dance-trend-cp-orig-kj.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-18 15:16:09+00:00
+
+Netflix's Addams Family reboot is taking TikTok by storm, sparking recreations of Wednesday's quirky dance routine by actress Jenna Ortega.
 
 ## Argentine soccer great Lionel Messi is playing in his last World Cup match as France and 23-year-old Kylian Mbappé aim to make history
  - [https://www.cnn.com/sport/live-news/world-cup-final-argentina-france-12-18-22/index.html](https://www.cnn.com/sport/live-news/world-cup-final-argentina-france-12-18-22/index.html)
@@ -83,6 +125,13 @@ As the 2022 World Cup comes to a close, global rights organizations have renewed
  - date published: 2022-12-18 08:03:00+00:00
 
 When engaging in discussions or debates about the greatest players of all time, soccer fans and pundits will often point to tangible achievements: trophies, individual accolades or scoring records.
+
+## Austin Butler gives touching 'SNL' monologue
+ - [https://www.cnn.com/videos/media/2022/12/18/snl-austin-butler-chokes-up-monologue-mgw-orig.cnn](https://www.cnn.com/videos/media/2022/12/18/snl-austin-butler-chokes-up-monologue-mgw-orig.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-18 07:41:58+00:00
+
+During his "Saturday Night Live" monologue, actor Austin Butler choked up as he paid tribute to his late mother.
 
 ## North Korea fires two more missiles in a record year for launches
  - [https://www.cnn.com/2022/12/17/asia/north-korea-missile-test-intl-hnk-ml/index.html](https://www.cnn.com/2022/12/17/asia/north-korea-missile-test-intl-hnk-ml/index.html)

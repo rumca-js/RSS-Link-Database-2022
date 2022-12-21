@@ -1,4 +1,32 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/
+# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
+
+## Elon Musk Conducts Poll on Whether He Should Step Down as Twitter's CEO     - CNET
+ - [https://www.cnet.com/news/social-media/elon-musk-conducts-poll-on-whether-he-should-step-down-as-twitters-ceo/#ftag=CADf328eec](https://www.cnet.com/news/social-media/elon-musk-conducts-poll-on-whether-he-should-step-down-as-twitters-ceo/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2022-12-18 23:38:00+00:00
+
+Things have been a bit chaotic at the company since Musk completed his acquisition.
+
+## Elon Musk Should Step Down as Twitter's CEO, New Poll He Initiated Finds     - CNET
+ - [https://www.cnet.com/news/social-media/elon-musk-should-step-down-as-twitters-ceo-new-poll-he-initiated-finds/#ftag=CADf328eec](https://www.cnet.com/news/social-media/elon-musk-should-step-down-as-twitters-ceo-new-poll-he-initiated-finds/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2022-12-18 23:38:00+00:00
+
+Things have been a bit chaotic at the company since Musk completed his acquisition. More than 57% of 17.5 million accounts said they're done.
+
+## Here Are Taco Bell's 2 New Mexican Pizzas     - CNET
+ - [https://www.cnet.com/culture/here-are-taco-bells-2-new-mexican-pizzas/#ftag=CADf328eec](https://www.cnet.com/culture/here-are-taco-bells-2-new-mexican-pizzas/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2022-12-18 23:20:00+00:00
+
+Cheesy Jalapeño and Triple Crunch Mexican Pizzas are coming just in time for the holiday season.
+
+## Here's Why Amazon Wants To Kill the Barcode     - CNET
+ - [https://www.cnet.com/tech/services-and-software/heres-why-amazon-wants-to-kill-the-barcode/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/heres-why-amazon-wants-to-kill-the-barcode/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2022-12-18 23:15:00+00:00
+
+Barcodes work well for people, but not robots.
 
 ## 'Avatar: The Way of Water': Is There a Post-Credits Scene?     - CNET
  - [https://www.cnet.com/culture/entertainment/avatar-the-way-of-water-is-there-a-post-credits-scene/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/avatar-the-way-of-water-is-there-a-post-credits-scene/#ftag=CADf328eec)

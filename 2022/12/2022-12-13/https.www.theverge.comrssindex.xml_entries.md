@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Sam Bankman-Fried is denied bail in the Bahamas
  - [https://www.theverge.com/2022/12/13/23508217/sbf-sam-bankman-fried-ftx-bail-john-ray-congress-hearing](https://www.theverge.com/2022/12/13/23508217/sbf-sam-bankman-fried-ftx-bail-john-ray-congress-hearing)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 23:12:33+00:00
- - tags: None
 
 <figure>
       <img alt="FTX logo" src="https://cdn.vox-cdn.com/thumbor/KPSkUWcSFylJ9sD6gtzRZQ6uE4o=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71746860/STK136_K_Radtke_FTX_02.0.jpg" />
@@ -22,7 +21,6 @@
  - [https://www.theverge.com/2022/12/13/23507361/sam-bankman-fried-ftx-alameda-cftc-complaint-lies](https://www.theverge.com/2022/12/13/23507361/sam-bankman-fried-ftx-alameda-cftc-complaint-lies)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 23:04:51+00:00
- - tags: None
 
 <figure>
       <img alt="Sam Bankman-Fried is shown against a background of red" src="https://cdn.vox-cdn.com/thumbor/R0dZ5L0u8-clEmoaPkkRySpzELQ=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71746844/STK_226445_Sam_Bankman_Fried_FTX.0.jpg" />
@@ -45,7 +43,6 @@
  - [https://www.theverge.com/2022/12/13/23507759/tidal-dj-sessions-early-access-program-subscriber-livestream](https://www.theverge.com/2022/12/13/23507759/tidal-dj-sessions-early-access-program-subscriber-livestream)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 23:03:55+00:00
- - tags: None
 
 <figure>
       <img alt="The tidal logo is situated above the top third of an iPhone screen with the Tidal app that says “DJ Session” with a playlist called “sweet” and a red DJ icon on the right next to the AirPlay/wireless connect button." src="https://cdn.vox-cdn.com/thumbor/Ot-ZqM1JhG4NdoJVxaufVs-LXkY=/200x0:1100x600/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71746841/Frame_1.0.png" />
@@ -63,7 +60,6 @@
  - [https://www.theverge.com/2022/12/13/23508062/youtube-comment-spam-warning-violation-detection-bots](https://www.theverge.com/2022/12/13/23508062/youtube-comment-spam-warning-violation-detection-bots)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 22:35:55+00:00
- - tags: None
 
 <figure>
       <img alt="YouTube’s logo with geometric design in the background" src="https://cdn.vox-cdn.com/thumbor/5vqAW6VqhqK8ajbNm41AAkCE1jM=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71746744/acastro_STK092_04.0.jpg" />
@@ -80,7 +76,6 @@
  - [https://www.theverge.com/2022/12/13/23507281/netflix-my-hero-academia-film-live-action-anime](https://www.theverge.com/2022/12/13/23507281/netflix-my-hero-academia-film-live-action-anime)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 22:06:01+00:00
- - tags: None
 
 <figure>
       <img alt="Izuku Midoriya in My Hero Academia" src="https://cdn.vox-cdn.com/thumbor/N6yXQ4tB_yLH0moQgMfRX8xV0Y0=/197x0:2438x1494/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71746630/netflix_my_hero.0.png" />
@@ -97,7 +92,6 @@
  - [https://www.theverge.com/2022/12/13/23507990/npr-summer-nternship-proof-podcast-serial-stitcher-canceled](https://www.theverge.com/2022/12/13/23507990/npr-summer-nternship-proof-podcast-serial-stitcher-canceled)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 22:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="NPR-headquarters" src="https://cdn.vox-cdn.com/thumbor/pV7t6KlGnvMxwQobofe8d969LwY=/0x0:5760x3840/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71746606/SVoss-NPRHQ01.0.0.jpeg" />
@@ -116,7 +110,6 @@
  - [https://www.theverge.com/2022/12/13/23506626/t-mobile-5g-1900mhz-pcs-carrier-aggregation-sprint-3g-lte](https://www.theverge.com/2022/12/13/23506626/t-mobile-5g-1900mhz-pcs-carrier-aggregation-sprint-3g-lte)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 21:56:45+00:00
- - tags: None
 
 <figure>
       <img alt="Illustration of the T-Mobile logo, the letter T in a pink box with two squares on either side of it, in front of a blue and aqua background." src="https://cdn.vox-cdn.com/thumbor/zDGYxB18xnUzBwpaVt3l9P0SEMY=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71746570/acastro_STK067__02.0.jpg" />
@@ -133,7 +126,6 @@
  - [https://www.theverge.com/2022/12/13/23507641/apple-freeform-whiteboard-app-ios-mac-ipad](https://www.theverge.com/2022/12/13/23507641/apple-freeform-whiteboard-app-ios-mac-ipad)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 21:48:01+00:00
- - tags: None
 
 <figure>
       <img alt="Screenshot of Apple’s Freeform app, being used in conjunction with Facetime." src="https://cdn.vox-cdn.com/thumbor/hEO6gBSLwB6bPpFbOvEqHz7dpUo=/0x0:2048x1365/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71746538/1.0.png" />
@@ -150,7 +142,6 @@
  - [https://www.theverge.com/2022/12/13/23507575/bored-ape-yacht-club-yuga-labs-nft-cryptocurrency-lawsuit](https://www.theverge.com/2022/12/13/23507575/bored-ape-yacht-club-yuga-labs-nft-cryptocurrency-lawsuit)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 21:20:07+00:00
- - tags: None
 
 <figure>
       <img alt="An illustration of a Bored Ape at the center of a vortex pulling in Meebits and CryptoPunks." src="https://cdn.vox-cdn.com/thumbor/qs4jcPM-mTgS7P-XbRe5D04ZTSc=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71746431/acastro_2203011_5082_0001.0.jpg" />
@@ -169,7 +160,6 @@
  - [https://www.theverge.com/2022/12/13/23507691/apple-watch-watchos-ultra-battery-running](https://www.theverge.com/2022/12/13/23507691/apple-watch-watchos-ultra-battery-running)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 20:33:49+00:00
- - tags: None
 
 <figure>
       <img alt="The Race Route workout displayed on a Apple Watch Series 7" src="https://cdn.vox-cdn.com/thumbor/D_k790ra5c-E6cYLQM9dOaJN1h0=/0x0:2030x1353/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71746157/IMG_0312.0.jpg" />
@@ -186,7 +176,6 @@
  - [https://www.theverge.com/2022/12/13/23507377/playstation-2022-wrap-up-recap-playtime-trophies-meows](https://www.theverge.com/2022/12/13/23507377/playstation-2022-wrap-up-recap-playtime-trophies-meows)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 20:03:00+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot of the cat from Stray." src="https://cdn.vox-cdn.com/thumbor/lUjdjbzcRXQUAB0W7lrU-0hztd8=/299x0:2459x1440/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71746008/STRAY___Launch_Trailer_0_34_screenshot.0.png" />
@@ -204,7 +193,6 @@
  - [https://www.theverge.com/2022/12/13/23507766/apple-app-store-eu-dma-third-party-sideloading](https://www.theverge.com/2022/12/13/23507766/apple-app-store-eu-dma-third-party-sideloading)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 19:33:36+00:00
- - tags: None
 
 <figure>
       <img alt="Illustration of the App Store logo on a dark black and blue background." src="https://cdn.vox-cdn.com/thumbor/MaOqmqEcT9F8Zi6Fou11gd_thV8=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71745874/acastro_STK045_02.0.jpg" />
@@ -225,7 +213,6 @@
  - [https://www.theverge.com/23507356/amazon-alexa-driver-tip-how-to](https://www.theverge.com/23507356/amazon-alexa-driver-tip-how-to)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 19:03:52+00:00
- - tags: None
 
 <figure>
       <img alt="Amazon Alexa Dot against a pink illustrated background." src="https://cdn.vox-cdn.com/thumbor/_NL5ea1CULyIcEM2Isi5brO9wFg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71745765/HT006_alexa_0002.0.jpg" />
@@ -248,7 +235,6 @@
  - [https://www.theverge.com/2022/12/13/23502564/kentucky-route-zero-netflix-ios-android-mobile-games-twelve-minutes](https://www.theverge.com/2022/12/13/23502564/kentucky-route-zero-netflix-ios-android-mobile-games-twelve-minutes)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 19:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/Z_X_jlhSykyAR9mLGUdhD6KvGuw=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71745738/ss_1d40830ed0f21bdcac3d7c1b69d76e87d3b20422.0.jpg" />
@@ -264,7 +250,6 @@
  - [https://www.theverge.com/2022/12/13/23505098/ios-16-2-download-always-on-display-iphone-apple-music-sing-icloud-encryption](https://www.theverge.com/2022/12/13/23505098/ios-16-2-download-always-on-display-iphone-apple-music-sing-icloud-encryption)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 18:05:49+00:00
- - tags: None
 
 <figure>
       <img alt="Photo of an iPhone on top of multi-colored pastel circles." src="https://cdn.vox-cdn.com/thumbor/2OlVGnQgFHctg-2AJZkwPKv3aWs=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71745496/226270_iPHONE_14_PHO_akrales_0797.0.jpg" />
@@ -281,7 +266,6 @@
  - [https://www.theverge.com/2022/12/13/23507195/netflix-kaleidoscope-trailer-giancarlo-esposito](https://www.theverge.com/2022/12/13/23507195/netflix-kaleidoscope-trailer-giancarlo-esposito)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 18:01:59+00:00
- - tags: None
 
 <figure>
       <img alt="A photo of Giancarlo Esposito in Netflix’s series Kaleidoscope." src="https://cdn.vox-cdn.com/thumbor/2AKHM6Cdzxcy26AXiu38gz0ylQA=/282x0:3318x2024/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71745465/Kaleidoscope_S1_Green_00_15_49_06R.0.jpg" />
@@ -298,7 +282,6 @@
  - [https://www.theverge.com/23505470/logitech-crayon-combo-touch-10th-gen-ipad-review-comparison](https://www.theverge.com/23505470/logitech-crayon-combo-touch-10th-gen-ipad-review-comparison)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 18:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="A 10th Gen iPad in a Logitech Combo Touch keyboard case on a wood table." src="https://cdn.vox-cdn.com/thumbor/EI_OrS4Taq9OcoYpXOWX8v0daFA=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71745414/logitech_combo_touch_crayon_10th_gen_ipad_1.0.jpg" />
@@ -321,7 +304,6 @@
  - [https://www.theverge.com/2022/12/13/23507417/instagram-bereal-tweet-twitter-clone-group-profiles](https://www.theverge.com/2022/12/13/23507417/instagram-bereal-tweet-twitter-clone-group-profiles)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 17:54:21+00:00
- - tags: None
 
 <figure>
       <img alt="Two screenshots of Instagram’s new Candid feature." src="https://cdn.vox-cdn.com/thumbor/uBBnpVjfuLoSqZmTtQfMwJYmN84=/0x0:890x593/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71745365/03_Candid_1.0.jpg" />
@@ -339,7 +321,6 @@
  - [https://www.theverge.com/2022/12/13/23507418/marco-rubio-tiktok-bytedance-ban-anti-social-ccp-bill](https://www.theverge.com/2022/12/13/23507418/marco-rubio-tiktok-bytedance-ban-anti-social-ccp-bill)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 17:44:18+00:00
- - tags: None
 
 <figure>
       <img alt="A TikTok logo surrounded by jazzy lines and colorful accents" src="https://cdn.vox-cdn.com/thumbor/tqYujwQvEWUdcOQrUgnRwZkJyCc=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71745323/STK051_VRG_Illo_N_Barclay_5_tiktok.0.jpg" />
@@ -356,7 +337,6 @@
  - [https://www.theverge.com/2022/12/13/23507455/hogwarts-legacy-ps4-xbox-one-switch-delay](https://www.theverge.com/2022/12/13/23507455/hogwarts-legacy-ps4-xbox-one-switch-delay)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 17:43:12+00:00
- - tags: None
 
 <figure>
       <img alt="Screenshot of spellcasting from Hogwarts Legacy." src="https://cdn.vox-cdn.com/thumbor/xMXMWc732LnP4AqAj80PAml9juw=/229x0:2652x1615/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71745317/Screenshot_2022_12_13_at_08.56.57.0.png" />
@@ -373,7 +353,6 @@
  - [https://www.theverge.com/2022/12/13/23507099/qualcomm-wifi-7-home-networking-platform](https://www.theverge.com/2022/12/13/23507099/qualcomm-wifi-7-home-networking-platform)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 17:37:22+00:00
- - tags: None
 
 <figure>
       <img alt="An illustration of the Qualcomm logo." src="https://cdn.vox-cdn.com/thumbor/4lxaG_HYcIb8sU37uPm8R1hE6wI=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71745285/acastro_STK082_qualcomm_01.0.jpg" />
@@ -395,7 +374,6 @@
  - [https://www.theverge.com/23507105/spider-man-across-the-spiderverse-part-one-trailer](https://www.theverge.com/23507105/spider-man-across-the-spiderverse-part-one-trailer)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 17:31:37+00:00
- - tags: None
 
 <figure>
       <img alt="An image showing Spider-Man and Spider-Gwen" src="https://cdn.vox-cdn.com/thumbor/bs82iwz1SC50lGc0Hg_2H7hCGGw=/531x289:2349x1501/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71745250/spider_man_across_spiderverse.0.png" />
@@ -413,7 +391,6 @@
  - [https://www.theverge.com/23506880/avatar-the-way-of-water-review](https://www.theverge.com/23506880/avatar-the-way-of-water-review)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 17:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="A blue humanoid being with feline features and a thick head of dreadlocks riding on the back of an animal in the middle of the ocean at night. In the background, you can see the moonlit sky and the moon’s reflected light bouncing off the surface of the water." src="https://cdn.vox-cdn.com/thumbor/nVrAJBFrqDHbxg60G4jOauE1A54=/74x0:4030x2637/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71745067/2363A_0070_v0550.1080K.0.jpg" />
@@ -430,7 +407,6 @@
  - [https://www.theverge.com/2022/12/13/23506086/nuclear-fusion-power-research-milestone-net-energy-gain](https://www.theverge.com/2022/12/13/23506086/nuclear-fusion-power-research-milestone-net-energy-gain)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 16:01:35+00:00
- - tags: None
 
 <figure>
       <img alt="A sign at a gate entrance to the Lawrence Livermore National Laboratory" src="https://cdn.vox-cdn.com/thumbor/LJfRbbApdy-6y7i8fIL8MsI2pW0=/4x0:3997x2662/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71744754/1245567063.0.jpg" />
@@ -448,7 +424,6 @@
  - [https://www.theverge.com/2022/12/13/23507234/flute-guy-pedro-eustache-interview-the-game-awards](https://www.theverge.com/2022/12/13/23507234/flute-guy-pedro-eustache-interview-the-game-awards)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 15:46:01+00:00
- - tags: None
 
 <figure>
       <img alt="A photo of Pedro Eustache playing the flute" src="https://cdn.vox-cdn.com/thumbor/MRdeafxeFCZBttsCbX3kKq4ua8Y=/0x0:5568x3712/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71744651/669255996.0.jpg" />
@@ -465,7 +440,6 @@
  - [https://www.theverge.com/2022/12/13/23505873/donotpay-negotiate-bills-ai-chatbot](https://www.theverge.com/2022/12/13/23505873/donotpay-negotiate-bills-ai-chatbot)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 15:32:35+00:00
- - tags: None
 
 <figure>
       <img alt="An image showing a robot performing various tasks" src="https://cdn.vox-cdn.com/thumbor/NCotLQRlMS3U7kL2dAODgKUT1AI=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71744598/acastro_200730_1777_ai_0001.0.jpg" />
@@ -487,7 +461,6 @@
  - [https://www.theverge.com/2022/12/13/23505395/apple-pencil-second-gen-kindle-paperwhite-bose-quietcomfort-45-headphones-chromecast-hd-deal-sale](https://www.theverge.com/2022/12/13/23505395/apple-pencil-second-gen-kindle-paperwhite-bose-quietcomfort-45-headphones-chromecast-hd-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 14:25:00+00:00
- - tags: None
 
 <figure>
       <img alt="A person holding both their iPad and second-gen Apple Pencil." src="https://cdn.vox-cdn.com/thumbor/0-kFAqiGMxOg7Y8paloA1Sm9eQ8=/4x0:1852x1232/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71744326/Screen_Shot_2021_10_28_at_12.02.42_PM.0.png" />
@@ -504,7 +477,6 @@
  - [https://www.theverge.com/2022/12/13/23507103/hayao-miyazaki-studio-ghibli-how-do-you-live-release-date](https://www.theverge.com/2022/12/13/23507103/hayao-miyazaki-studio-ghibli-how-do-you-live-release-date)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 14:10:45+00:00
- - tags: None
 
 <figure>
       <img alt="A photo of Hayao Miyazaki at the Academy Of Motion Picture Arts And Sciences’ 2014 Governors Awards." src="https://cdn.vox-cdn.com/thumbor/jA8N4bwgsLpIa6Rj0A9OS39IyNw=/4x0:4924x3280/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71744288/458669204.0.jpg" />
@@ -527,7 +499,6 @@
  - [https://www.theverge.com/2022/12/13/23506131/amazon-echo-show-gesture-controls-smart-display](https://www.theverge.com/2022/12/13/23506131/amazon-echo-show-gesture-controls-smart-display)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 14:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="A hand waving at a smart display" src="https://cdn.vox-cdn.com/thumbor/7-TaBNsBqiEMHXpVrF2a-xtaTTA=/0x0:761x507/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71744207/Gesturers.0.gif" />
@@ -545,7 +516,6 @@
  - [https://www.theverge.com/23505589/deliveries-packages-porch-pirates-how-to](https://www.theverge.com/23505589/deliveries-packages-porch-pirates-how-to)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 13:46:38+00:00
- - tags: None
 
 <figure>
       <img alt="Smart doorbell against a pink illustrated background." src="https://cdn.vox-cdn.com/thumbor/gfQ7LR6mv-hcwuMAQkGqFssySgE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71744142/HT023_smartHome_0005.0.jpg" />
@@ -562,7 +532,6 @@
  - [https://www.theverge.com/23506195/high-on-life-review-xbox-pc](https://www.theverge.com/23506195/high-on-life-review-xbox-pc)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 13:30:00+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot of the video game High on Life." src="https://cdn.vox-cdn.com/thumbor/PNNI0r-E3t0SmiD2OwHm-bAE6lc=/300x0:1920x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71744087/HoL_Blim_Weapon.0.png" />
@@ -596,7 +565,6 @@
  - [https://www.theverge.com/2022/12/13/23506988/google-chrome-manifest-v3-v2-transition-ad-blocking-web-request-declarative-net](https://www.theverge.com/2022/12/13/23506988/google-chrome-manifest-v3-v2-transition-ad-blocking-web-request-declarative-net)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 13:16:32+00:00
- - tags: None
 
 <figure>
       <img alt="Stock imagery of the Chrome logo." src="https://cdn.vox-cdn.com/thumbor/n3tAi6H7wRpa2bxfFb2xsXuveTg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71744058/acastro_180416_1777_chrome_0001.0.jpg" />
@@ -613,7 +581,6 @@
  - [https://www.theverge.com/23506085/wordpress-twitter-tumblr-ceo-matt-mullenweg-elon-musk](https://www.theverge.com/23506085/wordpress-twitter-tumblr-ceo-matt-mullenweg-elon-musk)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 13:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Illustration of Matt Mullenweg" src="https://cdn.vox-cdn.com/thumbor/XJEQGW-0eXcgwcoZ80RRd8ZqduQ=/0x0:2050x1367/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71743940/VRG_ILLO_Decoder_Matt_Mullenweg_s.0.jpg" />
@@ -630,7 +597,6 @@
  - [https://www.theverge.com/2022/12/13/23507015/sam-bankman-fried-ftx-sec-criminal-fraud-doj-cftc](https://www.theverge.com/2022/12/13/23507015/sam-bankman-fried-ftx-sec-criminal-fraud-doj-cftc)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 11:58:25+00:00
- - tags: None
 
 <figure>
       <img alt="FTX logo" src="https://cdn.vox-cdn.com/thumbor/SDVFye34Hd28kN8xFng0cnfS-uI=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71743727/STK136_K_Radtke_FTX_02.0.jpg" />
@@ -648,7 +614,6 @@
  - [https://www.theverge.com/2022/12/13/23507000/emergency-sos-via-satellite-iphone-14-pro-plus-max-uk-france-germany-ireland](https://www.theverge.com/2022/12/13/23507000/emergency-sos-via-satellite-iphone-14-pro-plus-max-uk-france-germany-ireland)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 11:07:11+00:00
- - tags: None
 
 <figure>
       <img alt="iPhone 14 screen showing illustration telling user to turn toward direction of satellite." src="https://cdn.vox-cdn.com/thumbor/4Q52nfLYnbz9zdIct2xiufB9Ans=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71743699/IMG_4165.0.jpg" />
@@ -665,7 +630,6 @@
  - [https://www.theverge.com/2022/12/13/23506980/december-13-2022-tech-news-liveblog](https://www.theverge.com/2022/12/13/23506980/december-13-2022-tech-news-liveblog)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 10:01:00+00:00
- - tags: None
 
 <figure>
       <img alt="FTX co-founder Sam Bankman-Fried." src="https://cdn.vox-cdn.com/thumbor/Eya6VU2R5FSyCnSCYd-8RipHztE=/0x0:1569x1046/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71743595/1245273681.0.jpg" />
@@ -681,7 +645,6 @@
  - [https://www.theverge.com/2022/12/13/23506978/apple-iphone-sony-camera-sensor-confirmation](https://www.theverge.com/2022/12/13/23506978/apple-iphone-sony-camera-sensor-confirmation)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 09:18:50+00:00
- - tags: None
 
 <figure>
       <img alt="Tim and SONY CEO Ken Yoshida look at a camera sensor demo on the iPhone 14 lineup." src="https://cdn.vox-cdn.com/thumbor/XClvrRzIbnlxHZXjN-tICKAdu-M=/0x0:1953x1302/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71743561/Fj1IajtWAAAkKb3.0.jpg" />
@@ -698,7 +661,6 @@
  - [https://www.theverge.com/2022/12/12/23506646/hbo-max-westworld-streaming-warner-bros-discovery](https://www.theverge.com/2022/12/12/23506646/hbo-max-westworld-streaming-warner-bros-discovery)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 02:38:24+00:00
- - tags: None
 
 <figure>
       <img alt="A black, red, and yellow rendition of the HBO Max logo." src="https://cdn.vox-cdn.com/thumbor/nKQgAKMxfYou0n1ZZVMN-2HpZYM=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71742984/acastro_STK055_04.0.jpg" />
@@ -719,7 +681,6 @@
  - [https://www.theverge.com/2022/12/12/23505738/mercedes-benz-vision-avtr-avatar-concept-car-hands-on](https://www.theverge.com/2022/12/12/23505738/mercedes-benz-vision-avtr-avatar-concept-car-hands-on)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 01:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Mercedes Vision AVTR" src="https://cdn.vox-cdn.com/thumbor/0_96uqP5vV3Wa0zBFJ8N0_J6DHU=/0x1004:1800x2204/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71742713/226444_Mercedes_Avatar_DGolson_0011.0.jpg" />
@@ -736,7 +697,6 @@
  - [https://www.theverge.com/2022/12/12/23506483/sam-bankman-fried-arrest-us-extradition-ftx-crypto](https://www.theverge.com/2022/12/12/23506483/sam-bankman-fried-arrest-us-extradition-ftx-crypto)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-13 00:33:15+00:00
- - tags: None
 
 <figure>
       <img alt="Photo of Sam Bankman-Fried on stage." src="https://cdn.vox-cdn.com/thumbor/EalVO25rUoTlVSr0fri_XTQkMko=/0x0:6720x4480/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71742381/1233292469.0.jpg" />

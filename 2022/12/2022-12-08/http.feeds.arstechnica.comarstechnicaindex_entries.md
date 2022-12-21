@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## Pentagon picked four tech companies to form $9B cloud computing network
  - [https://arstechnica.com/?p=1903180](https://arstechnica.com/?p=1903180)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-08 22:48:57+00:00
- - tags: None
 
 Microsoft agrees multi-cloud strategy is "the right one" for defense department.
 
@@ -12,7 +11,6 @@ Microsoft agrees multi-cloud strategy is "the right one" for defense department.
  - [https://arstechnica.com/?p=1903044](https://arstechnica.com/?p=1903044)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-08 22:11:56+00:00
- - tags: None
 
 Background tabs will get kicked out of memory, but only if you allow it.
 
@@ -20,7 +18,6 @@ Background tabs will get kicked out of memory, but only if you allow it.
  - [https://arstechnica.com/?p=1903113](https://arstechnica.com/?p=1903113)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-08 21:15:20+00:00
- - tags: None
 
 Google's AI division tackles programming languages with a language model.
 
@@ -28,7 +25,6 @@ Google's AI division tackles programming languages with a language model.
  - [https://arstechnica.com/?p=1903038](https://arstechnica.com/?p=1903038)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-08 20:52:19+00:00
- - tags: None
 
 In medical terms, the dance party is called the "filarial dance sign."
 
@@ -36,7 +32,6 @@ In medical terms, the dance party is called the "filarial dance sign."
  - [https://arstechnica.com/?p=1903041](https://arstechnica.com/?p=1903041)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-08 20:39:47+00:00
- - tags: None
 
 Twitter laid off 63% of women in engineering roles compared to 48% of men.
 
@@ -44,7 +39,6 @@ Twitter laid off 63% of women in engineering roles compared to 48% of men.
  - [https://arstechnica.com/?p=1902850](https://arstechnica.com/?p=1902850)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-08 19:54:04+00:00
- - tags: None
 
 Former Microsoft CTO Nathan Myhrvold did first computer simulations in late 1990s.
 
@@ -52,7 +46,6 @@ Former Microsoft CTO Nathan Myhrvold did first computer simulations in late 1990
  - [https://arstechnica.com/?p=1903011](https://arstechnica.com/?p=1903011)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-08 19:39:38+00:00
- - tags: None
 
 Microsoft would gain "means and motive to harm competition," regulator says.
 
@@ -60,7 +53,6 @@ Microsoft would gain "means and motive to harm competition," regulator says.
  - [https://arstechnica.com/?p=1902931](https://arstechnica.com/?p=1902931)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-08 19:18:48+00:00
- - tags: None
 
 We can't talk about performance yet, but these GPUs should fit in most PC cases.
 
@@ -68,7 +60,6 @@ We can't talk about performance yet, but these GPUs should fit in most PC cases.
  - [https://arstechnica.com/?p=1902914](https://arstechnica.com/?p=1902914)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-08 18:59:58+00:00
- - tags: None
 
 Google says it "remains deeply committed" to the Waze app.
 
@@ -76,7 +67,6 @@ Google says it "remains deeply committed" to the Waze app.
  - [https://arstechnica.com/?p=1902915](https://arstechnica.com/?p=1902915)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-08 18:43:57+00:00
- - tags: None
 
 There are still lots of ways to exploit Internet Explorer through a Word doc.
 
@@ -84,7 +74,6 @@ There are still lots of ways to exploit Internet Explorer through a Word doc.
  - [https://arstechnica.com/?p=1902911](https://arstechnica.com/?p=1902911)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-08 18:36:06+00:00
- - tags: None
 
 EU government says USB-C compliance is mandatory by December 28, 2024.
 
@@ -92,7 +81,6 @@ EU government says USB-C compliance is mandatory by December 28, 2024.
  - [https://arstechnica.com/?p=1902891](https://arstechnica.com/?p=1902891)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-08 15:20:51+00:00
- - tags: None
 
 Reports suggest Musk is looking to pass Apple fees on to Twitter users.
 
@@ -100,7 +88,6 @@ Reports suggest Musk is looking to pass Apple fees on to Twitter users.
  - [https://arstechnica.com/?p=1902880](https://arstechnica.com/?p=1902880)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-08 13:42:44+00:00
- - tags: None
 
 Nearly 1,000 GM dealers have enrolled in the program to double level 2 chargers.
 
@@ -108,7 +95,6 @@ Nearly 1,000 GM dealers have enrolled in the program to double level 2 chargers.
  - [https://arstechnica.com/?p=1902276](https://arstechnica.com/?p=1902276)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-08 12:30:51+00:00
- - tags: None
 
 Help yourself to prizes by helping us raise money for good causes.
 
@@ -116,6 +102,5 @@ Help yourself to prizes by helping us raise money for good causes.
  - [https://arstechnica.com/?p=1902831](https://arstechnica.com/?p=1902831)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-08 00:09:27+00:00
- - tags: None
 
 Amazon already had a lot of success with Fire TV devices.

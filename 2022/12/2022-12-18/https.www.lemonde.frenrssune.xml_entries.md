@@ -1,4 +1,4 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml
+# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
 
 ## In France, peak inflation is expected in early 2023
  - [https://www.lemonde.fr/en/economy/article/2022/12/19/in-france-peak-inflation-is-expected-in-early-2023_6008245_19.html](https://www.lemonde.fr/en/economy/article/2022/12/19/in-france-peak-inflation-is-expected-in-early-2023_6008245_19.html)
@@ -27,6 +27,13 @@ Argentina won the final against France on Sunday. Streets across the country bec
  - date published: 2022-12-18 21:13:01+00:00
 
 It's the latest controversial move by Twitter's new owner Elon Musk to crack down on certain speech after he shut down accounts that he accused of 'doxxing' him.
+
+## In France's Champagne region, a new wine sparkles without any bubbles
+ - [https://www.lemonde.fr/en/food/article/2022/12/18/in-france-s-champagne-region-a-new-wine-sparkles-without-any-bubbles_6008236_119.html](https://www.lemonde.fr/en/food/article/2022/12/18/in-france-s-champagne-region-a-new-wine-sparkles-without-any-bubbles_6008236_119.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2022-12-18 19:08:34+00:00
+
+The historic wines of France's Champagne vineyards were overshadowed by the queen of bubbles before finding a new lease on life and claiming their share of prestige.
 
 ## A cheap menu for Christmas
  - [https://www.lemonde.fr/en/food/article/2022/12/18/what-s-for-christmas-dinner-the-budget-option_6008233_119.html](https://www.lemonde.fr/en/food/article/2022/12/18/what-s-for-christmas-dinner-the-budget-option_6008233_119.html)

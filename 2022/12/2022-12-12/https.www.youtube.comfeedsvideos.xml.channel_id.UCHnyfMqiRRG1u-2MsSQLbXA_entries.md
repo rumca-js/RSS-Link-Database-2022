@@ -1,10 +1,9 @@
-# Source Veritasium, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA
+# Source Veritasium, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA, Source language: en-US
 
 ## How To Measure The Tiniest Forces In The Universe
  - [https://www.youtube.com/watch?v=pXoZQsZP2PY](https://www.youtube.com/watch?v=pXoZQsZP2PY)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA
  - date published: 2022-12-12 15:53:57+00:00
- - tags: None
 
 This lab measures the tiniest forces in the universe. This video is sponsored by Brilliant. You can get started for free, or the first 200 people to sign up via https://brilliant.org/veritasium get 20% off a yearly subscription. 
 

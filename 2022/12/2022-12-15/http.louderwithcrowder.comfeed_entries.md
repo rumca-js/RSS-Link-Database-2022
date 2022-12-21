@@ -1,10 +1,9 @@
-# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/
+# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
 
 ## I am leaving The Blaze... (Mug Club Forever)
  - [https://www.louderwithcrowder.com/steven-crowder-leaving-the-blaze](https://www.louderwithcrowder.com/steven-crowder-leaving-the-blaze)
  - RSS feed: http://louderwithcrowder.com/feed/
  - date published: 2022-12-15 16:56:54+00:00
- - Starred: False
 
 <img src="https://www.louderwithcrowder.com/media-library/image.png?id=32350679&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>I am leaving The Blaze.</p><p><span></span>I have lost sleep over this for months. I knew that I wasn’t going to renew. The Blaze knew that I wasn’t going to renew.</p><p><span></span>I only know that there are well over 300,000 of you who have paid to signup and watch and that hundreds of thousands of you watch on Mug Club every day. This is in addition to the 2 million or so plays and downloads for each individual show.</p><p><span></span>So please, as Mug Club finds a new home, do NOT lose touch with us. Sign up at <strong><a href="https://mugclubforever.com/" target="_blank">MugClubForever.com</a></strong> and you will NEVER RECEIVE an email from me, aside from if, when and where Mug Club’s new home will be. Some of you MAY receive an immediate email to confirm that you signed up just to ensure it doesn’t go to spam. And I ask that you all check your spam because due to issues outside of my control, it’s going to take some time before I can figure out exactly where Mug Club lands.</p><p><span></span>All I ask is that right now is that if you want Mug Club to continue, <a href="https://mugclubforever.com/" target="_blank"><strong>enter your email</strong></a> so that we can make that happen. </p><div class="rm-embed embed-media"></div>
 
@@ -12,7 +11,6 @@
  - [https://www.louderwithcrowder.com/show-notes-big-announcement](https://www.louderwithcrowder.com/show-notes-big-announcement)
  - RSS feed: http://louderwithcrowder.com/feed/
  - date published: 2022-12-15 15:39:14+00:00
- - Starred: False
 
 <img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=32350340&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C2" /><br /><br /><p>Yes, someone is trying to replace you ... but it's not who you think. Also, "women" whom Elon Musk fired are suing. NYC is a hellhole. And we have a MAJOR announcement concerning "Louder with Crowder."</p><h2><a href="https://mugclubforever.com/" target="_blank">MugClubForever.com</a></h2><p class="shortcode-media shortcode-media-rumble">
 

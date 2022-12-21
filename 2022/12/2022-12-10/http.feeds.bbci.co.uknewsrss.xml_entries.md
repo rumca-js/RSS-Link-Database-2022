@@ -1,10 +1,9 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml
+# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
 
 ## Kenya Maasai Olympics: Hundreds gather for lion hunt alternative
  - [https://www.bbc.co.uk/news/world-africa-63932225?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-africa-63932225?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 23:23:24+00:00
- - tags: None
 
 The event was set up to replace an annual lion hunt due to waning numbers of the animal in Kenya.
 
@@ -12,7 +11,6 @@ The event was set up to replace an annual lion hunt due to waning numbers of the
  - [https://www.bbc.co.uk/sport/football/63932074?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63932074?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 23:18:59+00:00
- - tags: None
 
 As England exit the World Cup at the quarter-final stage, BBC Sport's Phil McNulty says this loss feels even more painful than those of previous tournaments.
 
@@ -20,7 +18,6 @@ As England exit the World Cup at the quarter-final stage, BBC Sport's Phil McNul
  - [https://www.bbc.co.uk/news/world-63932511?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-63932511?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 23:13:01+00:00
- - tags: None
 
 Fans from Leeds and London watch as England are knocked out of the World Cup after losing to France.
 
@@ -28,7 +25,6 @@ Fans from Leeds and London watch as England are knocked out of the World Cup aft
  - [https://www.bbc.co.uk/news/world-middle-east-63930050?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-middle-east-63930050?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 23:00:51+00:00
- - tags: None
 
 Moroccan fans tell of pride and tears as their team makes it to the World Cup semi-finals.
 
@@ -36,7 +32,6 @@ Moroccan fans tell of pride and tears as their team makes it to the World Cup se
  - [https://www.bbc.co.uk/sport/av/football/63932241?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63932241?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 22:47:00+00:00
- - tags: None
 
 Harry Kane took responsibility for England's World Cup exit after missing a crucial penalty during their 2-1 defeat to France.
 
@@ -44,7 +39,6 @@ Harry Kane took responsibility for England's World Cup exit after missing a cruc
  - [https://www.bbc.co.uk/sport/av/football/63932236?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63932236?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 22:40:56+00:00
- - tags: None
 
 England manager Gareth Southgate said he needs time to "reflect" when asked about his future following his side's exit from the World Cup after a 2-1 defeat to France.
 
@@ -52,7 +46,6 @@ England manager Gareth Southgate said he needs time to "reflect" when asked abou
  - [https://www.bbc.co.uk/news/entertainment-arts-63861394?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63861394?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 22:40:40+00:00
- - tags: None
 
 West Side Story icon Rita Moreno says discrimination left her with an unfair share of rubbish film roles.
 
@@ -60,7 +53,6 @@ West Side Story icon Rita Moreno says discrimination left her with an unfair sha
  - [https://www.bbc.co.uk/news/uk-63931904?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63931904?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 22:39:22+00:00
- - tags: None
 
 The Royal College of Nursing is calling on the government to negotiate with nurses and avoid strikes.
 
@@ -68,7 +60,6 @@ The Royal College of Nursing is calling on the government to negotiate with nurs
  - [https://www.bbc.co.uk/sport/av/football/63932295?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63932295?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 22:34:56+00:00
- - tags: None
 
 BBC Sport's Jermaine Jenas and Martin Keown react to England's 2-1 defeat to France in the 2022 World Cup quarter-finals.
 
@@ -76,7 +67,6 @@ BBC Sport's Jermaine Jenas and Martin Keown react to England's 2-1 defeat to Fra
  - [https://www.bbc.co.uk/news/world-63638876?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-63638876?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 22:34:38+00:00
- - tags: None
 
 Two female Afghan writers give a glimpse of how women have been coping since the fall of the regime.
 
@@ -84,7 +74,6 @@ Two female Afghan writers give a glimpse of how women have been coping since the
  - [https://www.bbc.co.uk/sport/football/63930895?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63930895?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 22:30:30+00:00
- - tags: None
 
 Manchester United boss Erik ten Hag is keen to find a replacement for Cristiano Ronaldo when the transfer window opens next month.
 
@@ -92,7 +81,6 @@ Manchester United boss Erik ten Hag is keen to find a replacement for Cristiano 
  - [https://www.bbc.co.uk/sport/football/63931761?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63931761?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 22:08:15+00:00
- - tags: None
 
 England manager Gareth Southgate says he will "review and reflect" on his side's World Cup quarter-final exit with the FA before making a decision on his future.
 
@@ -100,7 +88,6 @@ England manager Gareth Southgate says he will "review and reflect" on his side's
  - [https://www.bbc.co.uk/sport/football/63932185?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63932185?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 21:58:41+00:00
- - tags: None
 
 Morocco's first-ever appearance at a World Cup semi-final will be available to watch on the BBC.
 
@@ -108,7 +95,6 @@ Morocco's first-ever appearance at a World Cup semi-final will be available to w
  - [https://www.bbc.co.uk/sport/av/football/63932002?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63932002?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 21:15:02+00:00
- - tags: None
 
 England are awarded a second penalty in their World Cup quarter-final against France after Theo Hernandez's elbow on Mason Mount, but Harry Kane blasts over from the spot.
 
@@ -116,7 +102,6 @@ England are awarded a second penalty in their World Cup quarter-final against Fr
  - [https://www.bbc.co.uk/sport/av/football/63931284?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63931284?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 21:01:47+00:00
- - tags: None
 
 Olivier Giroud scores a trademark header to restore France's lead against England and make it 2-1 in Doha.
 
@@ -124,7 +109,6 @@ Olivier Giroud scores a trademark header to restore France's lead against Englan
  - [https://www.bbc.co.uk/sport/av/football/63854685?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63854685?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 21:00:37+00:00
- - tags: None
 
 England go out of the World Cup as goals from Aurelien Tchouameni and Olivier Giroud give France a 2-1 victory and a place in the semi-finals against Morocco.
 
@@ -132,7 +116,6 @@ England go out of the World Cup as goals from Aurelien Tchouameni and Olivier Gi
  - [https://www.bbc.co.uk/sport/football/61666027?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/61666027?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 20:48:57+00:00
- - tags: None
 
 Harry Kane equals the England scoring record with his 53rd goal, netting in the World Cup quarter-final to move alongside Wayne Rooney.
 
@@ -140,7 +123,6 @@ Harry Kane equals the England scoring record with his 53rd goal, netting in the 
  - [https://www.bbc.co.uk/sport/football/63931841?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63931841?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 20:46:44+00:00
- - tags: None
 
 Cristiano Ronaldo's World Cup dream is over, and probably for good - but is his whole career also reaching the end of the road?
 
@@ -148,7 +130,6 @@ Cristiano Ronaldo's World Cup dream is over, and probably for good - but is his 
  - [https://www.bbc.co.uk/news/world-europe-63921002?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63921002?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 20:09:04+00:00
- - tags: None
 
 Prosecutors suspect the country tried to illegally influence European Parliament decisions using.
 
@@ -156,7 +137,6 @@ Prosecutors suspect the country tried to illegally influence European Parliament
  - [https://www.bbc.co.uk/sport/football/63931391?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63931391?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 20:05:09+00:00
- - tags: None
 
 The marvellous Moroccans have lit up this World Cup - and their fans got reward by witnessing their side becoming the first from Africa to reach the semi-finals.
 
@@ -164,7 +144,6 @@ The marvellous Moroccans have lit up this World Cup - and their fans got reward 
  - [https://www.bbc.co.uk/sport/rugby-union/63931303?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63931303?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 19:52:05+00:00
- - tags: None
 
 Holders La Rochelle begin their Heineken Champions Cup defence with a thumping 46-12 bonus-point win over Northampton Saints.
 
@@ -172,7 +151,6 @@ Holders La Rochelle begin their Heineken Champions Cup defence with a thumping 4
  - [https://www.bbc.co.uk/sport/football/63930469?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63930469?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 19:45:48+00:00
- - tags: None
 
 Rate the players as England face France in the Fifa World Cup quarter-final in Qatar.
 
@@ -180,7 +158,6 @@ Rate the players as England face France in the Fifa World Cup quarter-final in Q
  - [https://www.bbc.co.uk/news/uk-63929487?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63929487?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 18:09:17+00:00
- - tags: None
 
 The UK wants better relations with nations which are neither bad guys nor allies, writes Laura Kuenssberg.
 
@@ -188,7 +165,6 @@ The UK wants better relations with nations which are neither bad guys nor allies
  - [https://www.bbc.co.uk/news/world-63931443?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-63931443?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 17:57:32+00:00
- - tags: None
 
 Supporters cheer as the North African side beats Portugal, defying expectations.
 
@@ -196,7 +172,6 @@ Supporters cheer as the North African side beats Portugal, defying expectations.
  - [https://www.bbc.co.uk/sport/av/football/63930637?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63930637?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 17:32:34+00:00
- - tags: None
 
 Watch the full-time scenes as Morocco celebrate making history by beating Portugal 1-0 to become the first side from Africa to reach the semi-finals of the World Cup.
 
@@ -204,7 +179,6 @@ Watch the full-time scenes as Morocco celebrate making history by beating Portug
  - [https://www.bbc.co.uk/sport/football/63843785?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63843785?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 17:10:47+00:00
- - tags: None
 
 Morocco become the first African nation to reach a World Cup semi-final and end the hopes of Cristiano Ronaldo's Portugal.
 
@@ -212,7 +186,6 @@ Morocco become the first African nation to reach a World Cup semi-final and end 
  - [https://www.bbc.co.uk/news/world-europe-jersey-63930916?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-jersey-63930916?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 17:10:06+00:00
- - tags: None
 
 At least three people have died after an explosion at a block of flats in Jersey.
 
@@ -220,7 +193,6 @@ At least three people have died after an explosion at a block of flats in Jersey
  - [https://www.bbc.co.uk/sport/av/football/63930629?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63930629?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 17:07:05+00:00
- - tags: None
 
 Youssef En-Nesyri opens the scoring for Morocco against Portugal in their World Cup quarter-final.
 
@@ -228,7 +200,6 @@ Youssef En-Nesyri opens the scoring for Morocco against Portugal in their World 
  - [https://www.bbc.co.uk/sport/football/63930816?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63930816?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 16:58:55+00:00
- - tags: None
 
 Fifa opens disciplinary proceedings against Argentina and the Netherlands after their bad-tempered 2022 World Cup quarter-final.
 
@@ -236,7 +207,6 @@ Fifa opens disciplinary proceedings against Argentina and the Netherlands after 
  - [https://www.bbc.co.uk/sport/av/football/63930633?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63930633?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 16:56:42+00:00
- - tags: None
 
 Youssef En-Nesyri's first-half header gives Morocco a 1-0 win over Portugal as they make history and become the first ever African side to reach the semi-finals of the World Cup.
 
@@ -244,7 +214,6 @@ Youssef En-Nesyri's first-half header gives Morocco a 1-0 win over Portugal as t
  - [https://www.bbc.co.uk/news/world-europe-jersey-63928003?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-jersey-63928003?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 16:08:25+00:00
- - tags: None
 
 Larry Simyun and Jervis Baligat were on board the L'Ecume II when it sank off Jersey on Thursday.
 
@@ -252,7 +221,6 @@ Larry Simyun and Jervis Baligat were on board the L'Ecume II when it sank off Je
  - [https://www.bbc.co.uk/news/world-europe-63929130?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63929130?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 14:36:34+00:00
- - tags: None
 
 Yan Rachinsky, from rights group Memorial, tells the BBC he ignored the order from the Kremlin.
 
@@ -260,7 +228,6 @@ Yan Rachinsky, from rights group Memorial, tells the BBC he ignored the order fr
  - [https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-63924684?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-63924684?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 13:19:44+00:00
- - tags: None
 
 Jo-Anne Shaw's dreams came true when she got the video call from her hero after a social media appeal.
 
@@ -268,7 +235,6 @@ Jo-Anne Shaw's dreams came true when she got the video call from her hero after 
  - [https://www.bbc.co.uk/news/entertainment-arts-63927507?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63927507?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 12:59:37+00:00
- - tags: None
 
 The actress died in hospital on Friday after surgery for a fall earlier in the week, her agent says.
 
@@ -276,7 +242,6 @@ The actress died in hospital on Friday after surgery for a fall earlier in the w
  - [https://www.bbc.co.uk/sport/cricket/63927656?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/63927656?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 11:57:59+00:00
- - tags: None
 
 England take control of the match and series thanks to a dramatic Pakistan collapse on day two of the second Test in Multan.
 
@@ -284,7 +249,6 @@ England take control of the match and series thanks to a dramatic Pakistan colla
  - [https://www.bbc.co.uk/news/world-europe-63927607?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63927607?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 10:44:20+00:00
- - tags: None
 
 Yan Rachinsky, from human rights organisation Memorial, says the order was made by Russian authorities.
 
@@ -292,7 +256,6 @@ Yan Rachinsky, from human rights organisation Memorial, says the order was made 
  - [https://www.bbc.co.uk/news/uk-63927502?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63927502?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 09:42:11+00:00
- - tags: None
 
 Kwasi Kwarteng says Liz Truss’s short-lived government was “too impatient” with its economic plans.
 
@@ -300,7 +263,6 @@ Kwasi Kwarteng says Liz Truss’s short-lived government was “too impatient”
  - [https://www.bbc.co.uk/sport/av/football/63901574?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63901574?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 09:39:52+00:00
- - tags: None
 
 Watch all of France's goals from the 2022 World Cup in Qatar as they prepare to take on Morocco in the semi-finals.
 
@@ -308,7 +270,6 @@ Watch all of France's goals from the 2022 World Cup in Qatar as they prepare to 
  - [https://www.bbc.co.uk/news/newsbeat-63917104?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/newsbeat-63917104?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 09:23:06+00:00
- - tags: None
 
 The #FifaWorldCup hashtag is bringing in billions of views as football fever hits social media.
 
@@ -316,7 +277,6 @@ The #FifaWorldCup hashtag is bringing in billions of views as football fever hit
  - [https://www.bbc.co.uk/sport/football/63881543?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63881543?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 09:08:01+00:00
- - tags: None
 
 As we build up to England's World Cup quarter-final against France, you selected your combined line-up.
 
@@ -324,7 +284,6 @@ As we build up to England's World Cup quarter-final against France, you selected
  - [https://www.bbc.co.uk/news/world-europe-jersey-63927386?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-jersey-63927386?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 09:02:52+00:00
- - tags: None
 
 Jersey police are dealing with an incident after reports of an explosion in the Pier Road area.
 
@@ -332,7 +291,6 @@ Jersey police are dealing with an incident after reports of an explosion in the 
  - [https://www.bbc.co.uk/news/uk-63926328?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63926328?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 08:13:39+00:00
- - tags: None
 
 The Met Office has issued yellow warnings for snow and ice this weekend for parts of the UK.
 
@@ -340,7 +298,6 @@ The Met Office has issued yellow warnings for snow and ice this weekend for part
  - [https://www.bbc.co.uk/sport/football/63918206?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63918206?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 07:32:12+00:00
- - tags: None
 
 Before Saturday's World Cup quarter-final against England, French football writer Julien Laurens takes a look inside Didier Deschamps' squad.
 
@@ -348,7 +305,6 @@ Before Saturday's World Cup quarter-final against England, French football write
  - [https://www.bbc.co.uk/news/world-us-canada-63927054?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63927054?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 07:09:27+00:00
- - tags: None
 
 Grant Wahl, 48, collapses suddenly while watching the Argentina-Netherlands game.
 
@@ -356,7 +312,6 @@ Grant Wahl, 48, collapses suddenly while watching the Argentina-Netherlands game
  - [https://www.bbc.co.uk/sport/football/63915330?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63915330?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 07:05:10+00:00
- - tags: None
 
 BBC Sport's England reporter Kelly Somers takes us inside England's World Cup camp before Saturday's quarter-final against France.
 
@@ -364,7 +319,6 @@ BBC Sport's England reporter Kelly Somers takes us inside England's World Cup ca
  - [https://www.bbc.co.uk/news/world-asia-china-63926374?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-63926374?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 06:11:44+00:00
- - tags: None
 
 Jimmy Lai is sentenced to almost six years in prison for fraud and fined 2m Hong Kong dollars (£209,535).
 
@@ -372,7 +326,6 @@ Jimmy Lai is sentenced to almost six years in prison for fraud and fined 2m Hong
  - [https://www.bbc.co.uk/sport/cricket/63922337?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/63922337?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 05:36:07+00:00
- - tags: None
 
 Nat Sciver and Sophie Ecclestone star as England complete a 3-0 one-day international series clean sweep over West Indies in Antigua.
 
@@ -380,7 +333,6 @@ Nat Sciver and Sophie Ecclestone star as England complete a 3-0 one-day internat
  - [https://www.bbc.co.uk/news/world-63920950?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-63920950?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 02:29:47+00:00
- - tags: None
 
 Thousands of visitors to Qatar have backed their teams by putting their own twist on traditional Arab dress.
 
@@ -388,7 +340,6 @@ Thousands of visitors to Qatar have backed their teams by putting their own twis
  - [https://www.bbc.co.uk/news/world-europe-63915304?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63915304?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 02:29:02+00:00
- - tags: None
 
 Fans have partied in the centre of European capitals, but some of the celebrations have turned ugly.
 
@@ -396,7 +347,6 @@ Fans have partied in the centre of European capitals, but some of the celebratio
  - [https://www.bbc.co.uk/news/uk-63925416?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63925416?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 02:10:21+00:00
- - tags: None
 
 The website recently rolled back a policy aimed at tackling the spread of Covid falsehoods.
 
@@ -404,7 +354,6 @@ The website recently rolled back a policy aimed at tackling the spread of Covid 
  - [https://www.bbc.co.uk/news/uk-63925477?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63925477?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 02:05:10+00:00
- - tags: None
 
 Ngozi Fulani earlier this week said her team had received "horrific abuse" on social media.
 
@@ -412,7 +361,6 @@ Ngozi Fulani earlier this week said her team had received "horrific abuse" on so
  - [https://www.bbc.co.uk/news/world-europe-63904744?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63904744?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 01:19:35+00:00
- - tags: None
 
 An ancient Balkan tradition where women take a celibacy oath and live as men is on the decline, with only a dozen remaining - as young women in Albania fight against everything the tradition stands for.
 
@@ -420,7 +368,6 @@ An ancient Balkan tradition where women take a celibacy oath and live as men is 
  - [https://www.bbc.co.uk/news/world-asia-63917621?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-63917621?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 01:11:34+00:00
- - tags: None
 
 Bangladesh denies cracking down on freedom of expression as thousands gather for anti-government protests.
 
@@ -428,7 +375,6 @@ Bangladesh denies cracking down on freedom of expression as thousands gather for
  - [https://www.bbc.co.uk/news/world-us-canada-63911432?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63911432?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 00:44:15+00:00
- - tags: None
 
 Thousands gathered in Chicago at the 2022 Midwest FurFest, the world's 'largest' furry convention.
 
@@ -436,7 +382,6 @@ Thousands gathered in Chicago at the 2022 Midwest FurFest, the world's 'largest'
  - [https://www.bbc.co.uk/news/world-us-canada-63925341?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63925341?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 00:40:51+00:00
- - tags: None
 
 President Joe Biden's administration tells Paul Whelan, convicted of espionage, to "keep the faith".
 
@@ -444,7 +389,6 @@ President Joe Biden's administration tells Paul Whelan, convicted of espionage, 
  - [https://www.bbc.co.uk/sport/football/63920253?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63920253?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 00:31:52+00:00
- - tags: None
 
 A total of 18 yellow cards were dished out in the 2022 World Cup quarter-final between Netherlands and Argentina - a new record.
 
@@ -452,7 +396,6 @@ A total of 18 yellow cards were dished out in the 2022 World Cup quarter-final b
  - [https://www.bbc.co.uk/news/business-63921529?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63921529?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 00:08:06+00:00
- - tags: None
 
 The RMT's general secretary says a meeting between the two was the best hope of making progress.
 
@@ -460,7 +403,6 @@ The RMT's general secretary says a meeting between the two was the best hope of 
  - [https://www.bbc.co.uk/sport/football/63925260?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63925260?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 00:00:44+00:00
- - tags: None
 
 Argentina's vast hordes of fans were finally able to celebrate as a chaotic, dramatic World Cup quarter-final against the Netherlands was won on penalties, writes Phil McNulty
 
@@ -468,6 +410,5 @@ Argentina's vast hordes of fans were finally able to celebrate as a chaotic, dra
  - [https://www.bbc.co.uk/news/technology-63911363?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63911363?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-10 00:00:42+00:00
- - tags: None
 
 The former FTX boss says he would give anything to start a new business and repay crypto investors.

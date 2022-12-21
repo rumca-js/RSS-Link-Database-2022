@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## Intel Evo NFTs are the latest thing no one wants
  - [https://www.pcworld.com/article/1421785/intel-evo-nfts-are-the-latest-thing-no-one-wants.html](https://www.pcworld.com/article/1421785/intel-evo-nfts-are-the-latest-thing-no-one-wants.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-01 18:47:39+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>At this point, NFTs have been derided as useless, a <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://us.norton.com/blog/online-scams/nft-scams#&amp;xcust=2-1-1421785-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">route to potential scams</a>, and a simple waste of money. So, inexplicably, Intel is helping produce one.</p>
@@ -38,7 +37,6 @@ Cryptocurrency, Laptops</div>
  - [https://www.pcworld.com/article/1419901/lastpass-got-hacked-again-and-this-time-it-affects-customers.html](https://www.pcworld.com/article/1419901/lastpass-got-hacked-again-and-this-time-it-affects-customers.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-01 18:01:58+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>It&rsquo;s been a rough year for LastPass. Back in August, the popular password manager <a href="https://www.pcworld.com/article/917244/lastpass-got-hacked-but-you-werent-2.html">suffered a security breach</a>, in which the company&rsquo;s developer environment was infiltrated. At the time, LastPass said that while part of its source code and proprietary technical info were taken, customers were unaffected.</p>
@@ -64,7 +62,6 @@ Security</div>
  - [https://www.pcworld.com/article/629037/the-best-free-vpn.html](https://www.pcworld.com/article/629037/the-best-free-vpn.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-01 17:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Here&rsquo;s the thing: We&rsquo;re not fans of free VPNs because you have to be even more careful with these than a regular, paid VPN. If it&rsquo;s a free ad-supported VPN, for example, then your data is likely being used to earn money, which may defeat the whole point of a VPN. If privacy isn&rsquo;t an issue, then you have to deal with restrictions such as speeds, a bandwidth cap, or a limit to the countries you can access. </p>
@@ -389,7 +386,6 @@ VPN</div>
  - [https://www.pcworld.com/article/1421222/bundle-up-your-cold-controller-in-a-tiny-adorable-xbox-hoodie.html](https://www.pcworld.com/article/1421222/bundle-up-your-cold-controller-in-a-tiny-adorable-xbox-hoodie.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-01 16:21:29+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>The history of gaming is littered with ridiculous accessories and add-ons. The Powerglove comes to mind, as does the Xbox Kinect. But the latest gaming accessory from Microsoft might just be the cutest little thing I&rsquo;ve ever seen precariously and superfluously stuck onto a gaming gadget: a hoodie for your controller. </p>
@@ -414,7 +410,6 @@ Gaming</div>
  - [https://www.pcworld.com/article/1418934/best-monitor-deals-gaming-monitors-4k-workstations.html](https://www.pcworld.com/article/1418934/best-monitor-deals-gaming-monitors-4k-workstations.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-01 15:57:25+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>When it comes to finding the right monitor deal, there&rsquo;s a lot to consider. From screen size and resolution to refresh rate and connectivity options, it&rsquo;s easy to get lost. That&rsquo;s where the team at PCWorld comes in. Whether you&rsquo;re on the hunt for a <a href="https://www.pcworld.com/article/1389780/best-home-office-monitors.html">monitor for the home office</a> or a <a href="https://www.pcworld.com/article/1389708/best-monitors-for-photo-editing.html">4K workstation for photo editing</a>,  there&rsquo;s a wide array of options for you to choose from. The monitor deals highlighted below hit a number of different price points as well as screen sizes and resolutions. </p>
@@ -517,7 +512,6 @@ Monitors</div>
  - [https://www.pcworld.com/article/1420839/windows-spyware-steals-data-from-your-phone-too.html](https://www.pcworld.com/article/1420839/windows-spyware-steals-data-from-your-phone-too.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-01 15:25:45+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Information security usually focuses on a single device, at least as far as consumers are concerned. But in an increasingly connected world, it might be worth re-examining that approach. Case in point: a newly discovered piece of malware in use by state-sponsored hacking groups. Private security company ESET found that the tool, once established on a Windows PC, will search the storage of any phone connected for even more information to steal. </p>
@@ -539,7 +533,6 @@ Security</div>
  - [https://www.pcworld.com/article/1388332/new-airjet-chips-can-double-a-laptops-performance.html](https://www.pcworld.com/article/1388332/new-airjet-chips-can-double-a-laptops-performance.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-01 14:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Fans keep chips cool. Most consumers know that, whether they&rsquo;ve opened up their laptop or heard the whiny hiss of a fan. But a startup involved with Intel is using <em>chips</em> to keep microprocessors cool, massively boosting performance and changing laptop design forever.</p>
@@ -650,7 +643,6 @@ CPUs and Processors, Laptops</div>
  - [https://www.pcworld.com/article/1420738/save-85-on-this-fast-logitech-wireless-gaming-mouse.html](https://www.pcworld.com/article/1420738/save-85-on-this-fast-logitech-wireless-gaming-mouse.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-01 14:04:06+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>When it comes to PC gaming, a good mouse can really make or break the experience. It needs to be fast, customizable, and comfortable to use. If you&rsquo;ve been shopping around for a solid gaming mouse, you&rsquo;re in luck, as we&rsquo;ve got an excellent deal for you today. GameStop&rsquo;s selling the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.gamestop.com/pc-gaming/mice/products/logitech-pro-wireless-gaming-mouse/195013.html&amp;xcust=2-2-1420738-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Logitech PRO wireless gaming mouse for $44.99</a>, which saves you $85. Let&rsquo;s jump right into the details.</p>
@@ -671,7 +663,6 @@ Mice</div>
  - [https://www.pcworld.com/article/1380603/asus-expertbook-b3-detachable-review.html](https://www.pcworld.com/article/1380603/asus-expertbook-b3-detachable-review.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-01 11:45:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
@@ -834,7 +825,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/1397406/best-vertical-monitors.html](https://www.pcworld.com/article/1397406/best-vertical-monitors.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-01 11:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Nearly all monitors, and most of the content viewed on them, are meant for horizontal, or &ldquo;landscape,&rdquo; orientation. But if you want to use a monitor as a secondary display, or if you work with, say, portrait photos or video meant for smartphones, a vertical layout makes more sense. But a screen&rsquo;s ability to rotate into a vertical orientation is just one feature among many, so it pays to know the best vertical monitors, as we identify here, so you&rsquo;re sure to get an all-around solid performer.</p>
@@ -1143,7 +1133,6 @@ Monitors</div>
  - [https://www.pcworld.com/article/1396306/need-a-last-minute-gift-this-top-cybersecurity-device-will-arrive-in-time-for-christmas.html](https://www.pcworld.com/article/1396306/need-a-last-minute-gift-this-top-cybersecurity-device-will-arrive-in-time-for-christmas.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-01 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Everybody should have some measure of concern about&nbsp;<a href="https://www.pcworld.com/security" rel="noreferrer noopener" target="_blank">cybersecurity</a>&nbsp;today. So whether you&rsquo;re worried about your own connection or you want to help out a family member or friend, right now is a great time to invest in the&nbsp;Deeper Connect Pico, a decentralized VPN and cybersecurity hardware. And now&rsquo;s your&nbsp;last chance to order and have it arrive by Christmas with free shipping.</p>

@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## Iranian patrol boat tried to temporarily blind US Navy ships in Strait of Hormuz, US says
  - [https://www.cnn.com/2022/12/06/politics/iran-us-strait-hormuz/index.html](https://www.cnn.com/2022/12/06/politics/iran-us-strait-hormuz/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 23:45:22+00:00
- - tags: None
 
 An Iranian patrol boat tried to temporarily blind US Navy ships in the Strait of Hormuz by shining a spotlight toward the vessels and crossing within 150 yards of them on Monday night, US Central Command said in a statement.
 
@@ -12,7 +11,6 @@ An Iranian patrol boat tried to temporarily blind US Navy ships in the Strait of
  - [https://www.cnn.com/2022/12/06/uk/uk-iran-cyber-threat-intl/index.html](https://www.cnn.com/2022/12/06/uk/uk-iran-cyber-threat-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 23:30:17+00:00
- - tags: None
 
 British lawmakers have been warned to be on alert for cyber-attacks and possible harassment from Iranian operatives, according to correspondence sent to lawmakers in both the upper and lower chambers last month.
 
@@ -20,7 +18,6 @@ British lawmakers have been warned to be on alert for cyber-attacks and possible
  - [https://www.cnn.com/videos/politics/2022/12/06/mitch-mcconnell-trump-2024-support-in-question-sot-sr-vpx.cnn](https://www.cnn.com/videos/politics/2022/12/06/mitch-mcconnell-trump-2024-support-in-question-sot-sr-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 22:49:24+00:00
- - tags: None
 
 CNN's Wolf Blitzer and Manu Raju break down Senate GOP Leader Mitch McConnell's most recent remarks about Trump's statement that he'd terminate the Constitution. CNN analyst Bakari Sellers weighs in on McConnell's response.
 
@@ -28,7 +25,6 @@ CNN's Wolf Blitzer and Manu Raju break down Senate GOP Leader Mitch McConnell's 
  - [https://www.cnn.com/2022/12/06/politics/saudi-crown-prince-lawsuit-dismissed/index.html](https://www.cnn.com/2022/12/06/politics/saudi-crown-prince-lawsuit-dismissed/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 22:46:19+00:00
- - tags: None
 
 A federal judge has dismissed a lawsuit against Saudi Arabia's crown prince after the Biden administration recommended he be granted immunity in the case brought against him by the fiancée of murdered Washington Post journalist Jamal Khashoggi.
 
@@ -36,7 +32,6 @@ A federal judge has dismissed a lawsuit against Saudi Arabia's crown prince afte
  - [https://www.cnn.com/2022/12/06/business/last-boeing-747/index.html](https://www.cnn.com/2022/12/06/business/last-boeing-747/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 21:46:38+00:00
- - tags: None
 
 After 53 years and more than 1,570 planes, the last Boeing 747 is set to roll off the assembly line in Washington state Tuesday, on its way to serve as a cargo plane.
 
@@ -44,7 +39,6 @@ After 53 years and more than 1,570 planes, the last Boeing 747 is set to roll of
  - [https://www.cnn.com/videos/us/2022/12/06/florida-beach-debris-ship-wreck-daytona-volusia-contd-orig-zt.cnn](https://www.cnn.com/videos/us/2022/12/06/florida-beach-debris-ship-wreck-daytona-volusia-contd-orig-zt.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 21:44:38+00:00
- - tags: None
 
 A structure unearthed on a Florida beach after recent storms could be a shipwreck from the 1800s, according to local officials.
 
@@ -52,7 +46,6 @@ A structure unearthed on a Florida beach after recent storms could be a shipwrec
  - [https://www.cnn.com/videos/politics/2022/12/06/trump-organization-tax-fraud-convicted-guilty-felony-scheme-defraud-nr-vpx.cnn](https://www.cnn.com/videos/politics/2022/12/06/trump-organization-tax-fraud-convicted-guilty-felony-scheme-defraud-nr-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 21:26:06+00:00
- - tags: None
 
 A Manhattan jury has found two Trump Organization entities guilty on all counts in connection to a 15-year tax fraud scheme. CNN correspondent Kara Scannell reports.
 
@@ -60,7 +53,6 @@ A Manhattan jury has found two Trump Organization entities guilty on all counts 
  - [https://www.cnn.com/2022/12/06/football/portugal-switzerland-world-cup-cristiano-ronaldo-spt-intl/index.html](https://www.cnn.com/2022/12/06/football/portugal-switzerland-world-cup-cristiano-ronaldo-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 21:22:45+00:00
- - tags: None
 
 No Cristiano Ronaldo, no problem for Portugal as it produced a dynamic display to thrash Switzerland 6-1 and reach the quarterfinals at Qatar 2022.
 
@@ -68,7 +60,6 @@ No Cristiano Ronaldo, no problem for Portugal as it produced a dynamic display t
  - [https://www.cnn.com/2022/12/06/politics/trump-organization-fraud-trial-verdict/index.html](https://www.cnn.com/2022/12/06/politics/trump-organization-fraud-trial-verdict/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 21:03:14+00:00
- - tags: None
 
 
 
@@ -76,7 +67,6 @@ No Cristiano Ronaldo, no problem for Portugal as it produced a dynamic display t
  - [https://www.cnn.com/style/article/gold-necklace-harpole-treasure-female-burial-scn/index.html](https://www.cnn.com/style/article/gold-necklace-harpole-treasure-female-burial-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 20:53:06+00:00
- - tags: None
 
 Archaeologists have discovered a stunning 1,300-year-old necklace, made of gold, garnets and other semiprecious stones, at an excavation site in central England earmarked for a housing development.
 
@@ -84,7 +74,6 @@ Archaeologists have discovered a stunning 1,300-year-old necklace, made of gold,
  - [https://www.cnn.com/videos/politics/2022/12/06/capitol-police-family-mcconnell-mccarthy-congressional-medal-ceremony-nr-vpx.cnn](https://www.cnn.com/videos/politics/2022/12/06/capitol-police-family-mcconnell-mccarthy-congressional-medal-ceremony-nr-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 20:14:05+00:00
- - tags: None
 
 The family of fallen US Capitol Police Officer Brian Sicknick snubbed Republican leaders Sen. Mitch McConnell and Rep. Kevin McCarthy at a ceremony held to honor law enforcement who defended the US Capitol during the January 6, 2021, insurrection. CNN's Jessica Dean has more.
 
@@ -92,7 +81,6 @@ The family of fallen US Capitol Police Officer Brian Sicknick snubbed Republican
  - [https://www.cnn.com/videos/us/2022/12/06/one-year-old-escapes-locked-car-cprog-orig-jc.cnn](https://www.cnn.com/videos/us/2022/12/06/one-year-old-escapes-locked-car-cprog-orig-jc.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 20:05:36+00:00
- - tags: None
 
 One-year-old Z'Naria Lukie was accidentally locked in a car. See how she cleverly followed her mother's instructions to make a safe escape.
 
@@ -100,7 +88,6 @@ One-year-old Z'Naria Lukie was accidentally locked in a car. See how she cleverl
  - [https://www.cnn.com/2022/12/06/tech/apple-airtag-lawsuit/index.html](https://www.cnn.com/2022/12/06/tech/apple-airtag-lawsuit/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 20:00:30+00:00
- - tags: None
 
 Apple has been sued by two women who allege their previous romantic partners used the company's AigTag devices to track their whereabouts, potentially putting their safety at risk.
 
@@ -108,7 +95,6 @@ Apple has been sued by two women who allege their previous romantic partners use
  - [https://www.cnn.com/2022/12/06/politics/mcconnell-trump-constitution/index.html](https://www.cnn.com/2022/12/06/politics/mcconnell-trump-constitution/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 20:00:28+00:00
- - tags: None
 
 Senate Minority Leader Mitch McConnell criticized former President Donald Trump's comments in a post on Truth Social earlier this week that called for the "termination" of the Constitution.
 
@@ -116,7 +102,6 @@ Senate Minority Leader Mitch McConnell criticized former President Donald Trump'
  - [https://edition.cnn.com/sport/live-news/world-cup-2022-12-06-2022/index.html](https://edition.cnn.com/sport/live-news/world-cup-2022-12-06-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 19:46:02.696197+00:00
- - tags: None
 
 • Morocco stuns Spain in penalty shootout to reach first ever quarterfinals
 • World Cup quarterfinals: Who has qualified and what to expect
@@ -125,7 +110,6 @@ Senate Minority Leader Mitch McConnell criticized former President Donald Trump'
  - [https://www.cnn.com/2022/12/06/politics/jack-smith-subpoena-local-officials-michigan-wisconsin/index.html](https://www.cnn.com/2022/12/06/politics/jack-smith-subpoena-local-officials-michigan-wisconsin/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 19:30:42+00:00
- - tags: None
 
 Special counsel Jack Smith has subpoenaed local officials in Wisconsin and Michigan for any and all communications with then-President Donald Trump, his 2020 campaign and a number of aides and allies, multiple sources confirmed to CNN.
 
@@ -133,7 +117,6 @@ Special counsel Jack Smith has subpoenaed local officials in Wisconsin and Michi
  - [https://www.cnn.com/2022/12/06/football/morocco-spain-qatar-world-cup-spt-intl/index.html](https://www.cnn.com/2022/12/06/football/morocco-spain-qatar-world-cup-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 19:13:17+00:00
- - tags: None
 
 
 
@@ -141,7 +124,6 @@ Special counsel Jack Smith has subpoenaed local officials in Wisconsin and Michi
  - [https://www.cnn.com/2022/12/06/football/pele-health-improves-intl-spt/index.html](https://www.cnn.com/2022/12/06/football/pele-health-improves-intl-spt/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 19:03:55+00:00
- - tags: None
 
 Brazil soccer great Pelé's general health is gradually improving after he was hospitalized last week in Sao Paulo after contracting a lung infection, according to a statement from the hospital treating him.
 
@@ -149,7 +131,6 @@ Brazil soccer great Pelé's general health is gradually improving after he was h
  - [https://edition.cnn.com/politics/live-news/georgia-senate-race-results-12-06-22/index.html](https://edition.cnn.com/politics/live-news/georgia-senate-race-results-12-06-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 18:46:03.742198+00:00
- - tags: None
 
 
 
@@ -157,7 +138,6 @@ Brazil soccer great Pelé's general health is gradually improving after he was h
  - [https://cnn.it/3VEWNGM](https://cnn.it/3VEWNGM)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 18:46:03.627343+00:00
- - tags: None
 
 
 
@@ -165,7 +145,6 @@ Brazil soccer great Pelé's general health is gradually improving after he was h
  - [https://edition.cnn.com/webview/politics/live-news/georgia-senate-race-results-12-06-22/index.html](https://edition.cnn.com/webview/politics/live-news/georgia-senate-race-results-12-06-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 18:46:03.589204+00:00
- - tags: None
 
 
 
@@ -173,7 +152,6 @@ Brazil soccer great Pelé's general health is gradually improving after he was h
  - [https://www.cnn.com/style/article/marie-antoinette-guitar-auction-france-intl-scli/index.html](https://www.cnn.com/style/article/marie-antoinette-guitar-auction-france-intl-scli/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 18:34:58+00:00
- - tags: None
 
 Marie Antoinette may be better remembered for her tragic demise than as a musician, but a guitar thought to have belonged to the ill-fated monarch is expected to sell for up to €80,000 ($84,000) when it's auctioned later this week.
 
@@ -181,7 +159,6 @@ Marie Antoinette may be better remembered for her tragic demise than as a musici
  - [https://www.cnn.com/2022/12/06/politics/stephen-miller-grand-jury-testimony/index.html](https://www.cnn.com/2022/12/06/politics/stephen-miller-grand-jury-testimony/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 17:56:10+00:00
- - tags: None
 
 Former Donald Trump adviser Stephen Miller on Tuesday returned for another day of testimony before the federal grand jury investigating January 6, 2021, and efforts to subvert the 2020 election.
 
@@ -189,7 +166,6 @@ Former Donald Trump adviser Stephen Miller on Tuesday returned for another day o
  - [https://www.cnn.com/2022/12/06/politics/january-6-committee-criminal-referrals/index.html](https://www.cnn.com/2022/12/06/politics/january-6-committee-criminal-referrals/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 17:27:22+00:00
- - tags: None
 
 The House select committee investigating the January 6, 2021, attack on the US Capitol has decided to make criminal referrals to the Department of Justice, the panel's chairman, Rep. Bennie Thompson, told reporters Tuesday.
 
@@ -197,7 +173,6 @@ The House select committee investigating the January 6, 2021, attack on the US C
  - [https://www.cnn.com/videos/politics/2022/12/06/jan-6-committee-criminal-referrals-analysis-vpx.cnn](https://www.cnn.com/videos/politics/2022/12/06/jan-6-committee-criminal-referrals-analysis-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 17:16:16+00:00
- - tags: None
 
 The House select committee investigating the January 6, 2021, attack on the US Capitol has decided to make criminal referrals to the Department of Justice, the panel's chairman, Rep. Bennie Thompson (D-MS), told reporters. CNN legal analyst Elliott Williams explains.
 
@@ -205,7 +180,6 @@ The House select committee investigating the January 6, 2021, attack on the US C
  - [https://www.cnn.com/2022/12/06/politics/january-6-committee-criminal-referrrals/index.html](https://www.cnn.com/2022/12/06/politics/january-6-committee-criminal-referrrals/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 16:46:37+00:00
- - tags: None
 
 The House select committee investigating the January 6, 2021, attack on the US Capitol has decided to make criminal referrals to the Department of Justice, the panel's chairman, Rep. Bennie Thompson, told reporters Tuesday.
 
@@ -213,7 +187,6 @@ The House select committee investigating the January 6, 2021, attack on the US C
  - [https://www.cnn.com/videos/us/2022/12/06/conductor-goes-nuts-moos-cprog-orig-bdk.cnn](https://www.cnn.com/videos/us/2022/12/06/conductor-goes-nuts-moos-cprog-orig-bdk.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 16:29:06+00:00
- - tags: None
 
 Conductor gone wild. Watch guy who won a raffle get to conduct an orchestra. CNN's Jeanne Moos reports.
 
@@ -221,7 +194,6 @@ Conductor gone wild. Watch guy who won a raffle get to conduct an orchestra. CNN
  - [https://www.cnn.com/videos/health/2022/12/06/blue-bottle-oat-milk-sustainability-lbb-orig.cnn](https://www.cnn.com/videos/health/2022/12/06/blue-bottle-oat-milk-sustainability-lbb-orig.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 16:22:56+00:00
- - tags: None
 
 Meat, eggs and dairy account for 75% of our food's carbon footprint in the US. So, vegan milks can be a sustainable substitute. Leaders of one major coffee chain believe in the taste, foam-i-ness and earth-saving benefits of oat milk so much, they've made it the default milk in their coffee drinks. But how does oat milk's sustainability and nutritive value stack up?
 
@@ -229,7 +201,6 @@ Meat, eggs and dairy account for 75% of our food's carbon footprint in the US. S
  - [https://www.cnn.com/style/article/eyes-on-iran-nyc-art-installation/index.html](https://www.cnn.com/style/article/eyes-on-iran-nyc-art-installation/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 16:11:44+00:00
- - tags: None
 
 Chants of "Woman, Life, Freedom" echoed Sunday around Roosevelt Island in New York City as hundreds gathered to bring to life an art installation symbolizing solidarity with the women leading the uprising in Iran.
 
@@ -237,7 +208,6 @@ Chants of "Woman, Life, Freedom" echoed Sunday around Roosevelt Island in New Yo
  - [https://www.cnn.com/2022/12/06/europe/ukraine-russia-drone-attacks-qa-intl/index.html](https://www.cnn.com/2022/12/06/europe/ukraine-russia-drone-attacks-qa-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 16:08:12+00:00
- - tags: None
 
 A series of attacks deep inside Russia this week have raised the stakes for Moscow at a time when its war on Ukraine is faltering.
 
@@ -245,7 +215,6 @@ A series of attacks deep inside Russia this week have raised the stakes for Mosc
  - [https://edition.cnn.com/webview/sport/live-news/world-cup-2022-12-06-2022/index.html](https://edition.cnn.com/webview/sport/live-news/world-cup-2022-12-06-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 16:05:08.277403+00:00
- - tags: None
 
 
 
@@ -253,7 +222,6 @@ A series of attacks deep inside Russia this week have raised the stakes for Mosc
  - [https://www.cnn.com/2022/12/06/us/club-q-shooting-suspect-charges/index.html](https://www.cnn.com/2022/12/06/us/club-q-shooting-suspect-charges/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 15:48:07+00:00
- - tags: None
 
 The suspected gunman accused of killing five people in a mass shooting at an LGBTQ nightclub in Colorado Springs, Colorado, last month has been formally charged with 305 counts, including murder, attempted murder, assault and bias-motivated crimes.
 
@@ -261,7 +229,6 @@ The suspected gunman accused of killing five people in a mass shooting at an LGB
  - [https://www.cnn.com/2022/12/06/entertainment/ashton-kutcher-michael/index.html](https://www.cnn.com/2022/12/06/entertainment/ashton-kutcher-michael/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 15:42:43+00:00
- - tags: None
 
 In a rare interview, twin brothers Ashton and Michael Kutcher talked about both their bond and their rift.
 
@@ -269,7 +236,6 @@ In a rare interview, twin brothers Ashton and Michael Kutcher talked about both 
  - [https://www.cnn.com/2022/12/06/football/quarterfinals-qatar-world-cup-2022-spt-intl/index.html](https://www.cnn.com/2022/12/06/football/quarterfinals-qatar-world-cup-2022-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 15:38:18+00:00
- - tags: None
 
 We are waiting on two teams to qualify for the World Cup quarterfinals, but six have already booked their places in the last eight. Who are they and how did they get there?
 
@@ -277,7 +243,6 @@ We are waiting on two teams to qualify for the World Cup quarterfinals, but six 
  - [https://www.cnn.com/videos/world/2022/12/06/oxford-dictionary-word-of-the-year-2022-cprog-cnntm-vpx.cnn](https://www.cnn.com/videos/world/2022/12/06/oxford-dictionary-word-of-the-year-2022-cprog-cnntm-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 15:30:54+00:00
- - tags: None
 
 Oxford Dictionary has announced "goblin mode" as its choice for 2022's Word of the Year after it opened voting to the public. The term is used to describe a type of behavior that is unapologetically lazy and self-indulgent. CNN senior data reporter Harry Enten explains.
 
@@ -285,7 +250,6 @@ Oxford Dictionary has announced "goblin mode" as its choice for 2022's Word of t
  - [https://www.cnn.com/2022/12/06/business/philadelphia-cream-cheese-plant-based/index.html](https://www.cnn.com/2022/12/06/business/philadelphia-cream-cheese-plant-based/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 14:57:39+00:00
- - tags: None
 
 Philadelphia Cream Cheese is launching a non-dairy version of its signature spread.
 
@@ -293,7 +257,6 @@ Philadelphia Cream Cheese is launching a non-dairy version of its signature spre
  - [https://www.cnn.com/2022/12/06/business/mcdonalds-child-labor-franchisee/index.html](https://www.cnn.com/2022/12/06/business/mcdonalds-child-labor-franchisee/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 14:56:22+00:00
- - tags: None
 
 A McDonald's franchise operator has violated child labor laws, according to an investigation by the Department of Labor.
 
@@ -301,7 +264,6 @@ A McDonald's franchise operator has violated child labor laws, according to an i
  - [https://www.cnn.com/sport/live-news/world-cup-2022-12-06-2022/index.html](https://www.cnn.com/sport/live-news/world-cup-2022-12-06-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 14:49:49+00:00
- - tags: None
 
 • Goals and dance moves: Brazil dazzles against South Korea to reach quarterfinals
 • World Cup quarterfinals: Who has qualified and what to expect
@@ -310,7 +272,6 @@ A McDonald's franchise operator has violated child labor laws, according to an i
  - [https://www.cnn.com/2022/12/06/business/eu-us-trade-tensions-ira/index.html](https://www.cnn.com/2022/12/06/business/eu-us-trade-tensions-ira/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 14:46:20+00:00
- - tags: None
 
 The world's biggest economic relationship has hit a rough patch.
 
@@ -318,7 +279,6 @@ The world's biggest economic relationship has hit a rough patch.
  - [https://www.cnn.com/videos/politics/2022/12/06/john-bolton-trump-2024-presidential-bid-cnntm-vpx.cnn](https://www.cnn.com/videos/politics/2022/12/06/john-bolton-trump-2024-presidential-bid-cnntm-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 14:45:06+00:00
- - tags: None
 
 John Bolton, who served as former president Donald Trump's national security adviser, says he is contemplating entering the 2024 presidential race to stop Trump from getting a second term in office.
 
@@ -326,7 +286,6 @@ John Bolton, who served as former president Donald Trump's national security adv
  - [https://www.cnn.com/2022/12/06/europe/russia-ukraine-strikes-analysis-intl/index.html](https://www.cnn.com/2022/12/06/europe/russia-ukraine-strikes-analysis-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 14:38:20+00:00
- - tags: None
 
 Moscow's accusation that Ukrainian drones struck two airbases deep inside Russia has once again raised the febrile question of escalation nine months into the war.
 
@@ -334,7 +293,6 @@ Moscow's accusation that Ukrainian drones struck two airbases deep inside Russia
  - [https://www.cnn.com/2022/12/06/entertainment/john-travolta-kirstie-alley/index.html](https://www.cnn.com/2022/12/06/entertainment/john-travolta-kirstie-alley/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 14:22:24+00:00
- - tags: None
 
 Kirstie Alley and John Travolta were never romantically involved, but that wasn't how she initially wanted it.
 
@@ -342,7 +300,6 @@ Kirstie Alley and John Travolta were never romantically involved, but that wasn'
  - [https://www.cnn.com/style/article/fashion-awards-bella-hadid-model-of-the-year-2022/index.html](https://www.cnn.com/style/article/fashion-awards-bella-hadid-model-of-the-year-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 14:14:05+00:00
- - tags: None
 
 "London is back," announced Selling Sunset's Christine Quinn, whose pre-recorded year-in review-video message opened the 2022 Fashion Awards on Monday evening. "New York is back, Paris is back, Milan is back," Quinn continued, as viral runway moments from fashion houses including Bottega Veneta, Coperni, Tommy Hilfiger flashed across screens inside the historic Royal Albert Hall in London.
 
@@ -350,7 +307,6 @@ Kirstie Alley and John Travolta were never romantically involved, but that wasn'
  - [https://www.cnn.com/videos/entertainment/2022/12/06/neil-diamond-sweet-caroline-broadway-surprise-cprog-cnntm-vpx.cnn](https://www.cnn.com/videos/entertainment/2022/12/06/neil-diamond-sweet-caroline-broadway-surprise-cprog-cnntm-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 13:33:21+00:00
- - tags: None
 
 Neil Diamond surprised theatergoers with a performance of his hit "Sweet Caroline" during the opening night of a new Broadway musical based on his life and career. The impromptu performance is a rare appearance for the 81-year-old music icon who announced his retirement from touring in early 2018 because of his Parkinson's disease diagnosis.
 
@@ -358,7 +314,6 @@ Neil Diamond surprised theatergoers with a performance of his hit "Sweet Carolin
  - [https://www.cnn.com/2022/12/06/business/global-airline-profits-iata/index.html](https://www.cnn.com/2022/12/06/business/global-airline-profits-iata/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 13:29:41+00:00
- - tags: None
 
 The global airline industry is expected to return to profitability in 2023 for the first time in four years.
 
@@ -366,7 +321,6 @@ The global airline industry is expected to return to profitability in 2023 for t
  - [https://www.cnn.com/videos/media/2022/12/05/robin-meade-final-sign-off-broadcast-hln-mxp-contd-vpx.hln](https://www.cnn.com/videos/media/2022/12/05/robin-meade-final-sign-off-broadcast-hln-mxp-contd-vpx.hln)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 13:13:24+00:00
- - tags: None
 
 After a 40-year run, HLN's live news programming has come to an end. HLN's anchor Robin Meade gives her final sign off in the last live broadcast of her show, Morning Express.
 
@@ -374,7 +328,6 @@ After a 40-year run, HLN's live news programming has come to an end. HLN's ancho
  - [https://www.cnn.com/videos/world/2022/12/06/russia-drone-attack-oil-tanker-analysis-retired-us-army-major-lyons-cnntm-vpx.cnn](https://www.cnn.com/videos/world/2022/12/06/russia-drone-attack-oil-tanker-analysis-retired-us-army-major-lyons-cnntm-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 13:00:51+00:00
- - tags: None
 
 An airfield in Russia's Kursk region that borders Ukraine was hit with a drone strike. Ret. US Army Major Mike Lyons explains how the attack, which Ukraine has not taken responsibility for, is an advantage for Ukraine.
 
@@ -382,7 +335,6 @@ An airfield in Russia's Kursk region that borders Ukraine was hit with a drone s
  - [https://www.cnn.com/2022/12/06/business/china-shein-labor-conditions-investment-hnk-intl/index.html](https://www.cnn.com/2022/12/06/business/china-shein-labor-conditions-investment-hnk-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 12:41:20+00:00
- - tags: None
 
 Chinese fast fashion retailer Shein, the subject of recent controversy around alleged labor rights abuses, says it plans to invest $15 million to improve working conditions at factories in its supply chain.
 
@@ -390,7 +342,6 @@ Chinese fast fashion retailer Shein, the subject of recent controversy around al
  - [https://www.cnn.com/2022/12/06/energy/iea-renewable-energy-turning-point/index.html](https://www.cnn.com/2022/12/06/energy/iea-renewable-energy-turning-point/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 12:32:41+00:00
- - tags: None
 
 Global renewable power capacity is set to grow as much in the next five years as it has over the past two decades, as soaring energy prices and the climate crisis force governments to ditch fossil fuels.
 
@@ -398,7 +349,6 @@ Global renewable power capacity is set to grow as much in the next five years as
  - [https://www.cnn.com/2022/12/06/health/how-to-prevent-back-pain-habits-wellness/index.html](https://www.cnn.com/2022/12/06/health/how-to-prevent-back-pain-habits-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 11:51:24+00:00
- - tags: None
 
 For many people, back pain can make it difficult to function in everyday life. It affects how you move, feel and think, leaving you with no choice but to take some kind of action to alleviate the pain.
 
@@ -406,7 +356,6 @@ For many people, back pain can make it difficult to function in everyday life. I
  - [https://www.cnn.com/2022/12/06/world/russia-missile-defense-kuril-island-japan-intl/index.html](https://www.cnn.com/2022/12/06/world/russia-missile-defense-kuril-island-japan-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 11:41:40+00:00
- - tags: None
 
 Russia's defense ministry said Monday it has deployed mobile coastal defense missile systems on a northern Kuril island, part of a strategically located chain of islands that stretch between Japan and the Russian Kamchatka Peninsula.
 
@@ -414,7 +363,6 @@ Russia's defense ministry said Monday it has deployed mobile coastal defense mis
  - [https://www.cnn.com/2022/12/06/health/why-winter-colds-flu-wellness/index.html](https://www.cnn.com/2022/12/06/health/why-winter-colds-flu-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 11:40:31+00:00
- - tags: None
 
 A chill is in the air, and you all know what that means — it's time for cold and flu season, when it seems everyone you know is suddenly sneezing, sniffling or worse. It's almost as if those pesky cold and flu germs whirl in with the first blast of winter weather.
 
@@ -422,7 +370,6 @@ A chill is in the air, and you all know what that means — it's time for cold a
  - [https://www.cnn.com/2022/12/06/opinions/holiday-labor-toll-on-women-alaimo/index.html](https://www.cnn.com/2022/12/06/opinions/holiday-labor-toll-on-women-alaimo/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 11:37:47+00:00
- - tags: None
 
 After two years in which many dialed back celebrations during the Covid-19 pandemic, this holiday season likely will be supersized. Many of us are making up for those missed opportunities with more celebrations with more people.
 
@@ -430,7 +377,6 @@ After two years in which many dialed back celebrations during the Covid-19 pande
  - [https://www.cnn.com/2022/12/06/entertainment/blackpink-time-entertainer-of-the-year-2022-intl-scli/index.html](https://www.cnn.com/2022/12/06/entertainment/blackpink-time-entertainer-of-the-year-2022-intl-scli/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 11:18:19+00:00
- - tags: None
 
 Global pop sensation Blackpink have been chosen as Time magazine's 2022 Entertainer of the Year, making the four-woman band the second K-pop artists to earn the title, after BTS in 2020.
 
@@ -438,7 +384,6 @@ Global pop sensation Blackpink have been chosen as Time magazine's 2022 Entertai
  - [https://www.cnn.com/2022/12/06/tech/meta-oversight-board-cross-check/index.html](https://www.cnn.com/2022/12/06/tech/meta-oversight-board-cross-check/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 11:13:35+00:00
- - tags: None
 
 After a yearlong review, Meta's Oversight Board on Tuesday said the company's controversial system that applies a different content moderation process for posts from VIPs is set up to "satisfy business concerns" and risks doing harm to everyday users.
 
@@ -446,7 +391,6 @@ After a yearlong review, Meta's Oversight Board on Tuesday said the company's co
  - [https://www.cnn.com/2022/12/06/politics/oath-keeper-second-trial/index.html](https://www.cnn.com/2022/12/06/politics/oath-keeper-second-trial/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 11:00:13+00:00
- - tags: None
 
 One week after the historic seditious conspiracy conviction of Oath Keepers founder Stewart Rhodes, federal prosecutors will try to once again prove that other members of the far-right militia were planning to violently stop Congress from certifying the 2020 presidential election.
 
@@ -454,7 +398,6 @@ One week after the historic seditious conspiracy conviction of Oath Keepers foun
  - [https://www.cnn.com/2022/12/06/politics/georgia-senate-race-runoff-what-to-watch/index.html](https://www.cnn.com/2022/12/06/politics/georgia-senate-race-runoff-what-to-watch/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 11:00:07+00:00
- - tags: None
 
 The final drama of the 2022 midterm elections is coming to a head in Georgia on Tuesday, as Peach State voters -- for the second time in as many years -- cast ballots in a high-stakes US Senate runoff.
 
@@ -462,7 +405,6 @@ The final drama of the 2022 midterm elections is coming to a head in Georgia on 
  - [https://www.cnn.com/2022/12/06/business/ifeoma-ozoma-risk-takers-cec/index.html](https://www.cnn.com/2022/12/06/business/ifeoma-ozoma-risk-takers-cec/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 10:51:39+00:00
- - tags: None
 
 Ifeoma Ozoma's path as an advocate for tech workers started with a series of tweets one morning in June 2020.
 
@@ -470,7 +412,6 @@ Ifeoma Ozoma's path as an advocate for tech workers started with a series of twe
  - [https://www.cnn.com/2022/12/06/sport/tom-brady-bucs-saints-nfl-spt-intl/index.html](https://www.cnn.com/2022/12/06/sport/tom-brady-bucs-saints-nfl-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 10:50:57+00:00
- - tags: None
 
 When his team trails in the fourth quarter, Tom Brady is almost inevitable.
 
@@ -478,7 +419,6 @@ When his team trails in the fourth quarter, Tom Brady is almost inevitable.
  - [https://www.cnn.com/2022/12/06/media/shireen-abu-akleh-al-jazeera-icc-case-intl/index.html](https://www.cnn.com/2022/12/06/media/shireen-abu-akleh-al-jazeera-icc-case-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 10:47:02+00:00
- - tags: None
 
 Al Jazeera said Tuesday it will submit a case to the International Criminal Court (ICC) over the killing of journalist Shireen Abu Akleh, who was shot in the head while covering an Israeli raid in Jenin in the occupied West Bank in May.
 
@@ -486,7 +426,6 @@ Al Jazeera said Tuesday it will submit a case to the International Criminal Cour
  - [https://www.cnn.com/2022/12/06/opinions/phone-charger-one-cord-eu-iphone-yang/index.html](https://www.cnn.com/2022/12/06/opinions/phone-charger-one-cord-eu-iphone-yang/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 10:16:26+00:00
- - tags: None
 
 Back in 2018 — that is to say, five iPhone generations ago — an acquaintance shared a picture of a bunch of frayed and useless Apple Lightning charging cables on my Twitter feed, complaining that as a trillion-dollar company, Apple should "figure out a way to make better cords."
 
@@ -494,7 +433,6 @@ Back in 2018 — that is to say, five iPhone generations ago — an acquaintance
  - [https://www.cnn.com/travel/article/what-its-like-to-live-in-monaco/index.html](https://www.cnn.com/travel/article/what-its-like-to-live-in-monaco/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 10:08:59+00:00
- - tags: None
 
 Described as a "sunny place for shady people," by English novelist W. Somerset Maugham, Monaco is one of the smallest and wealthiest countries in the world.
 
@@ -502,7 +440,6 @@ Described as a "sunny place for shady people," by English novelist W. Somerset M
  - [https://www.cnn.com/2022/12/06/asia/south-korea-itaewon-crush-police-arrests-intl-hnk/index.html](https://www.cnn.com/2022/12/06/asia/south-korea-itaewon-crush-police-arrests-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 10:01:21+00:00
- - tags: None
 
 Two former police officers were arrested in South Korea on Monday, accused of destroying evidence relating to the deadly Halloween crowd crush in Seoul, according to authorities in the country.
 
@@ -510,7 +447,6 @@ Two former police officers were arrested in South Korea on Monday, accused of de
  - [https://www.cnn.com/2022/12/06/politics/senate-democrats-majority-advantages/index.html](https://www.cnn.com/2022/12/06/politics/senate-democrats-majority-advantages/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 10:01:08+00:00
- - tags: None
 
 If Democrats win the Senate runoff in Georgia and secure a slim 51-49 majority over Republicans, they will have significant governing advantages compared to the 50-50 split in the current Congress, during which a power sharing agreement gives Republicans considerable leverage over Democrats despite being in the minority.
 
@@ -518,7 +454,6 @@ If Democrats win the Senate runoff in Georgia and secure a slim 51-49 majority o
  - [https://www.cnn.com/2022/12/06/politics/supreme-court-rehnquist-independent-state-legislature-bush-gore/index.html](https://www.cnn.com/2022/12/06/politics/supreme-court-rehnquist-independent-state-legislature-bush-gore/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 10:00:51+00:00
- - tags: None
 
 When Chief Justice William Rehnquist helped decide the 2000 presidential election, his radical legal theory failed to gain a majority. But today's conservative court is giving it another chance, in a case that could transform elections in 2024 and beyond.
 
@@ -526,7 +461,6 @@ When Chief Justice William Rehnquist helped decide the 2000 presidential electio
  - [https://www.cnn.com/2022/12/06/china/china-jiang-zemin-memorial-service-intl-hnk/index.html](https://www.cnn.com/2022/12/06/china/china-jiang-zemin-memorial-service-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 09:37:45+00:00
- - tags: None
 
 China's Xi Jinping on Tuesday called on the country to unite around his leadership as he addressed a memorial service for former leader Jiang Zemin, following an unprecedented show of dissent over his zero-Covid policy and authoritarian rule.
 
@@ -534,7 +468,6 @@ China's Xi Jinping on Tuesday called on the country to unite around his leadersh
  - [https://www.cnn.com/2022/12/06/opinions/ukraine-russia-christmas-food-holodomor-gaidai-hook/index.html](https://www.cnn.com/2022/12/06/opinions/ukraine-russia-christmas-food-holodomor-gaidai-hook/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 09:35:08+00:00
- - tags: None
 
 After long days working in offices dotting Kyiv's downtown, a small group of women head to their kitchens. Their evening job is just beginning.
 
@@ -542,7 +475,6 @@ After long days working in offices dotting Kyiv's downtown, a small group of wom
  - [https://www.cnn.com/2022/12/06/us/mauna-loa-highway-kilauea-eruption-tuesday/index.html](https://www.cnn.com/2022/12/06/us/mauna-loa-highway-kilauea-eruption-tuesday/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 08:02:54+00:00
- - tags: None
 
 Officials in Hawaii have activated the state's National Guard to help in the response to the eruption of Mauna Loa, whose lava has been steadily oozing toward a critical highway for days.
 
@@ -550,7 +482,6 @@ Officials in Hawaii have activated the state's National Guard to help in the res
  - [https://www.cnn.com/videos/style/2022/12/06/italy-fascist-monuments-wedeman-pkg-ovn-contd-intl-hnk-vpx.cnn](https://www.cnn.com/videos/style/2022/12/06/italy-fascist-monuments-wedeman-pkg-ovn-contd-intl-hnk-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 07:33:27+00:00
- - tags: None
 
 A group of Italian historians has published an online directory of sites associated with the country's fascist past. This comes just a month after the formation of Italy's latest government, the most far-right in its post-war history.  CNN's Ben Wedeman reports.
 
@@ -558,7 +489,6 @@ A group of Italian historians has published an online directory of sites associa
  - [https://www.cnn.com/2022/12/06/us/boy-thrown-mall-of-america-settlement/index.html](https://www.cnn.com/2022/12/06/us/boy-thrown-mall-of-america-settlement/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 07:28:07+00:00
- - tags: None
 
 More than three years after a boy was thrown over a balcony at the Mall of America in Minnesota, the child's family has reached a settlement with the mall, the family's attorneys said.
 
@@ -566,7 +496,6 @@ More than three years after a boy was thrown over a balcony at the Mall of Ameri
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-12-06-22/index.html](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-12-06-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 07:04:33.172959+00:00
- - tags: None
 
 
 
@@ -574,7 +503,6 @@ More than three years after a boy was thrown over a balcony at the Mall of Ameri
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-12-06-22/index.html](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-12-06-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 07:04:33.111843+00:00
- - tags: None
 
 
 
@@ -582,7 +510,6 @@ More than three years after a boy was thrown over a balcony at the Mall of Ameri
  - [https://www.cnn.com/videos/world/2022/12/06/china-jiang-zemin-funeral-hu-jintao-xi-jinping-jiang-ovn-intl-hnk-vpx.cnn](https://www.cnn.com/videos/world/2022/12/06/china-jiang-zemin-funeral-hu-jintao-xi-jinping-jiang-ovn-intl-hnk-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 07:03:48+00:00
- - tags: None
 
 At the Great Hall of the People in central Beijing, Chinese leader Xi Jinping led thousands of China's Communist Party, state and military elites to pay final tribute to former leader Jiang Zemin, who died at the age of 96. Previously, Xi and former president Hu Jintao, are seen paying respects to Jiang and his family at a Beijing hospital . CNN's Steven Jiang has more.
 
@@ -590,7 +517,6 @@ At the Great Hall of the People in central Beijing, Chinese leader Xi Jinping le
  - [https://www.cnn.com/videos/politics/2022/12/06/supreme-court-scotus-graphic-designer-gay-weddings-santa-claus-kkk-orig-mh-jk.cnn](https://www.cnn.com/videos/politics/2022/12/06/supreme-court-scotus-graphic-designer-gay-weddings-santa-claus-kkk-orig-mh-jk.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 06:32:05+00:00
- - tags: None
 
 While hearing a case about whether a graphic designer can refuse to serve gay couples, the Supreme Court debated whether a shopping mall Santa Claus could decline to take a photo with a child dressed a KKK costume.
 
@@ -598,7 +524,6 @@ While hearing a case about whether a graphic designer can refuse to serve gay co
  - [https://www.cnn.com/travel/article/taiwan-traffic-war-tourism-intl-hnk/index.html](https://www.cnn.com/travel/article/taiwan-traffic-war-tourism-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 05:19:19+00:00
- - tags: None
 
 It's been nearly two months since Taiwan lifted its entry restrictions and ended mandatory quarantine, allowing most international tourists to visit the island.
 
@@ -606,7 +531,6 @@ It's been nearly two months since Taiwan lifted its entry restrictions and ended
  - [https://www.cnn.com/videos/world/2022/12/06/china-beijing-covid-restrictions-wang-dnt-ebof-vpx.cnn](https://www.cnn.com/videos/world/2022/12/06/china-beijing-covid-restrictions-wang-dnt-ebof-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 03:43:07+00:00
- - tags: None
 
 CNN's Selina Wang navigates daily life in Beijing, China, where residents still need to show a negative Covid test for most public places as the country signals it may loosen zero-Covid restrictions.
 
@@ -614,7 +538,6 @@ CNN's Selina Wang navigates daily life in Beijing, China, where residents still 
  - [https://www.cnn.com/2022/12/05/entertainment/kirstie-alley-obit/index.html](https://www.cnn.com/2022/12/05/entertainment/kirstie-alley-obit/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 03:26:40+00:00
- - tags: None
 
 Actress Kirstie Alley, star of the big and small screens known for her Emmy-winning role on "Cheers" and films like "Look Who's Talking," has died after a brief battle with cancer, her children True and Lillie Parker announced on her social media.
 
@@ -622,7 +545,6 @@ Actress Kirstie Alley, star of the big and small screens known for her Emmy-winn
  - [https://www.cnn.com/2022/12/05/us/lady-gaga-dog-walker-shooting-james-jackson-sentence/index.html](https://www.cnn.com/2022/12/05/us/lady-gaga-dog-walker-shooting-james-jackson-sentence/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 02:53:12+00:00
- - tags: None
 
 One of the people charged in the shooting and robbery of Lady Gaga's dog walker last year has been sentenced to 21 years in state prison, the Los Angeles County District Attorney's office said Monday.
 
@@ -630,7 +552,6 @@ One of the people charged in the shooting and robbery of Lady Gaga's dog walker 
  - [https://www.cnn.com/videos/entertainment/2022/12/05/matthew-perry-addiction-friends-cprog-orig-aw.cnn](https://www.cnn.com/videos/entertainment/2022/12/05/matthew-perry-addiction-friends-cprog-orig-aw.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 02:43:11+00:00
- - tags: None
 
 Matthew Perry shared his struggle with drug and alcohol addiction while filming the hit TV show 'Friends,' and explains why he hasn't re-watched the series.
 
@@ -638,7 +559,6 @@ Matthew Perry shared his struggle with drug and alcohol addiction while filming 
  - [https://www.cnn.com/videos/politics/2022/12/06/trump-constitution-termination-gop-anderson-cooper-kth-ac360-vpx.cnn](https://www.cnn.com/videos/politics/2022/12/06/trump-constitution-termination-gop-anderson-cooper-kth-ac360-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 02:24:52+00:00
- - tags: None
 
 Anderson Cooper looks at how former and current GOP lawmakers reacted to former President Donald Trump's statement on terminating the Constitution in this "Keeping Them Honest."
 
@@ -646,7 +566,6 @@ Anderson Cooper looks at how former and current GOP lawmakers reacted to former 
  - [https://www.cnn.com/videos/world/2022/12/06/russia-air-base-explosion-burnett-hodges-ebof-sot-vpx.cnn](https://www.cnn.com/videos/world/2022/12/06/russia-air-base-explosion-burnett-hodges-ebof-sot-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 01:40:38+00:00
- - tags: None
 
 Explosions at two Russian air bases have focused attention on Ukraine's efforts to develop longer-range combat drones. Retired Lt. Gen. Ben Hodges explains why this development could be significant in the war with Russia.
 
@@ -654,7 +573,6 @@ Explosions at two Russian air bases have focused attention on Ukraine's efforts 
  - [https://www.cnn.com/style/article/art-krimes-prison-documentary-culture-queue/index.html](https://www.cnn.com/style/article/art-krimes-prison-documentary-culture-queue/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 00:55:19+00:00
- - tags: None
 
 "Apokaluptein: 16389067" is what artist Jesse Krimes dubbed his prison contraband — a project so off-limits, he had to create it behind bars in secret and smuggle it out.
 
@@ -662,7 +580,6 @@ Explosions at two Russian air bases have focused attention on Ukraine's efforts 
  - [https://www.cnn.com/2022/12/05/football/japan-world-cup-memories-spt-intl/index.html](https://www.cnn.com/2022/12/05/football/japan-world-cup-memories-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 00:28:52+00:00
- - tags: None
 
 Japan bids the World Cup farewell after its World Cup last-16 penalty shootout defeat by Croatia on Monday, but the team and its fans left lasting memories that won the Asian nation plenty of plaudits in Qatar and across the watching world.
 
@@ -670,6 +587,5 @@ Japan bids the World Cup farewell after its World Cup last-16 penalty shootout d
  - [https://www.cnn.com/2022/12/05/europe/ukraine-drone-russia-air-base-attacks-intl/index.html](https://www.cnn.com/2022/12/05/europe/ukraine-drone-russia-air-base-attacks-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-06 00:25:52+00:00
- - tags: None
 
 Explosions at two Russian air bases Monday have focused attention on Ukraine's efforts to develop longer-range combat drones.

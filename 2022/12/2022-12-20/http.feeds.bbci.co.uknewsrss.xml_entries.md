@@ -1,5 +1,12 @@
 # Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
 
+## PDC World Championship: Fallon Sherrock beaten in first round by Ricky Evans
+ - [https://www.bbc.co.uk/sport/darts/64047110?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/darts/64047110?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-20 23:49:53+00:00
+
+Fallon Sherrock is knocked out in the first round of the PDC World Darts Championship, losing 3-1 to Ricky Evans.
+
 ## Newspaper headlines: 'You'd better watch out' and 'avoid taking risks'
  - [https://www.bbc.co.uk/news/blogs-the-papers-64046986?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-64046986?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml

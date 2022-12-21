@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml
+# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
 
 ## Riot Games wants a court to end its ‘League of Legends’ sponsorship deal with FTX
  - [https://www.engadget.com/riot-games-files-motion-to-end-ftx-sponsorship-deal-213121253.html?src=rss](https://www.engadget.com/riot-games-files-motion-to-end-ftx-sponsorship-deal-213121253.html?src=rss)

@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Świat, Source URL:https://wydarzenia.interia.pl/swiat/feed
+# Source Wydarzenia Interia - Świat, Source URL:https://wydarzenia.interia.pl/swiat/feed, Source language: pl-PL
 
 ## Ukraina: Ogłoszono alarm lotniczy. Z białoruskiego lotniska wyleciały myśliwce
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-ukraina-ogloszono-alarm-lotniczy-z-bialoruskiego-lotniska-wy,nId,6479049](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-ukraina-ogloszono-alarm-lotniczy-z-bialoruskiego-lotniska-wy,nId,6479049)

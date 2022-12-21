@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml
+# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
 
 ## Looking after thousands of Northern Ireland's abandoned mines
  - [https://www.bbc.co.uk/news/uk-northern-ireland-63993263?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-northern-ireland-63993263?at_medium=RSS&at_campaign=KARANGA)

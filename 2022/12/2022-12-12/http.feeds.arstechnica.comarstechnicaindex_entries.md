@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## Effective, fast, and unrecoverable: Wiper malware is popping up everywhere
  - [https://arstechnica.com/?p=1903915](https://arstechnica.com/?p=1903915)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-12 23:44:44+00:00
- - tags: None
 
 Wiper malware from no fewer than 9 families has appeared this year. Now there are 2 more.
 
@@ -12,7 +11,6 @@ Wiper malware from no fewer than 9 families has appeared this year. Now there ar
  - [https://arstechnica.com/?p=1903918](https://arstechnica.com/?p=1903918)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-12 23:24:59+00:00
- - tags: None
 
 Nearly 10% of US counties have "high" transmission levels and should be masking.
 
@@ -20,7 +18,6 @@ Nearly 10% of US counties have "high" transmission levels and should be masking.
  - [https://arstechnica.com/?p=1903852](https://arstechnica.com/?p=1903852)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-12 23:08:37+00:00
- - tags: None
 
 Manifest V3 transition is delayed again to the relief of Chrome users everywhere.
 
@@ -28,7 +25,6 @@ Manifest V3 transition is delayed again to the relief of Chrome users everywhere
  - [https://arstechnica.com/?p=1903773](https://arstechnica.com/?p=1903773)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-12 22:44:03+00:00
- - tags: None
 
 China regulates generative AI tech with rules that aim to spur growth and ban deception.
 
@@ -36,7 +32,6 @@ China regulates generative AI tech with rules that aim to spur growth and ban de
  - [https://arstechnica.com/?p=1903824](https://arstechnica.com/?p=1903824)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-12 19:54:45+00:00
- - tags: None
 
 Illicit funds processed by Binance in 2022 allegedly amounted to $10 billion.
 
@@ -44,7 +39,6 @@ Illicit funds processed by Binance in 2022 allegedly amounted to $10 billion.
  - [https://arstechnica.com/?p=1903713](https://arstechnica.com/?p=1903713)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-12 18:54:04+00:00
- - tags: None
 
 Xiaomi's 2023 flagship falls back into old habits.
 
@@ -52,7 +46,6 @@ Xiaomi's 2023 flagship falls back into old habits.
  - [https://arstechnica.com/?p=1903755](https://arstechnica.com/?p=1903755)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-12 18:40:44+00:00
- - tags: None
 
 In Germany, opposition to wind farms correlated with conspiratorial thinking.
 
@@ -60,7 +53,6 @@ In Germany, opposition to wind farms correlated with conspiratorial thinking.
  - [https://arstechnica.com/?p=1903765](https://arstechnica.com/?p=1903765)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-12 17:55:48+00:00
- - tags: None
 
 Musk email complains of "many detailed leaks of confidential Twitter information."
 
@@ -68,7 +60,6 @@ Musk email complains of "many detailed leaks of confidential Twitter information
  - [https://arstechnica.com/?p=1903666](https://arstechnica.com/?p=1903666)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-12 17:09:34+00:00
- - tags: None
 
 "They have invested a lot of their own money into the suits."
 
@@ -76,7 +67,6 @@ Musk email complains of "many detailed leaks of confidential Twitter information
  - [https://arstechnica.com/?p=1903732](https://arstechnica.com/?p=1903732)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-12 16:35:22+00:00
- - tags: None
 
 Since-deleted forum post suggested "no current plans" to bring them over.
 
@@ -84,7 +74,6 @@ Since-deleted forum post suggested "no current plans" to bring them over.
  - [https://arstechnica.com/?p=1903678](https://arstechnica.com/?p=1903678)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-12 16:10:23+00:00
- - tags: None
 
 Even businesses that will pay for it won't get new Windows 7 security updates.
 
@@ -92,7 +81,6 @@ Even businesses that will pay for it won't get new Windows 7 security updates.
  - [https://arstechnica.com/?p=1903704](https://arstechnica.com/?p=1903704)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-12 15:44:59+00:00
- - tags: None
 
 11,000 new jobs will be created in Michigan, Ohio, and Tennessee.
 
@@ -100,7 +88,6 @@ Even businesses that will pay for it won't get new Windows 7 security updates.
  - [https://arstechnica.com/?p=1903653](https://arstechnica.com/?p=1903653)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-12 15:15:50+00:00
- - tags: None
 
 "Hundreds of thousands" of Pi Zero, 3A+, and 4 models should show up next year.
 
@@ -108,7 +95,6 @@ Even businesses that will pay for it won't get new Windows 7 security updates.
  - [https://arstechnica.com/?p=1903679](https://arstechnica.com/?p=1903679)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-12 14:57:13+00:00
- - tags: None
 
 First-ever net energy gain from fusion raises hopes for zero-carbon alternative.
 
@@ -116,7 +102,6 @@ First-ever net energy gain from fusion raises hopes for zero-carbon alternative.
  - [https://arstechnica.com/?p=1903251](https://arstechnica.com/?p=1903251)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-12 14:00:58+00:00
- - tags: None
 
 New $899 and $999 GPUs maintain the status quo in the Nvidia-AMD rivalry.
 
@@ -124,6 +109,5 @@ New $899 and $999 GPUs maintain the status quo in the Nvidia-AMD rivalry.
  - [https://arstechnica.com/?p=1903600](https://arstechnica.com/?p=1903600)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-12 13:00:50+00:00
- - tags: None
 
 26 mpg once the battery is depleted is not amazing, however.

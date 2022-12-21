@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed
+# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
 
 ## Google, Mozilla i Apple połączyli siły, by poprawić działanie przeglądarek internetowych
  - [https://ithardware.pl/aktualnosci/google_mozilla_i_apple_polaczyli_sily_by_poprawic_dzialanie_przegladarek_internetowych-24926.html](https://ithardware.pl/aktualnosci/google_mozilla_i_apple_polaczyli_sily_by_poprawic_dzialanie_przegladarek_internetowych-24926.html)

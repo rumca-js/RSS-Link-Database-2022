@@ -56,6 +56,13 @@ DAILY MAIL COMMENT: In the face of co-ordinated strike action across the public 
 
 Sydney mum Kate had to be placed on a drip by nurses and cared for by doctors after she pushed herself too far and became so dehydrated that she required medical care.
 
+## You've been using gift bags wrong your whole life
+ - [https://www.dailymail.co.uk/femail/lifehacks/article-11555727/Youve-using-gift-bags-wrong-life.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/lifehacks/article-11555727/Youve-using-gift-bags-wrong-life.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-19 22:57:40+00:00
+
+With Christmas only five days away, a couple has revealed the 'right way' the use a gift bag this festive season.
+
 ## Melbourne La Trobe university student banned from class for questioning 'racist narrative'
  - [https://www.dailymail.co.uk/news/article-11555543/Melbourne-La-Trobe-university-student-banned-class-questioning-racist-narrative.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11555543/Melbourne-La-Trobe-university-student-banned-class-questioning-racist-narrative.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss

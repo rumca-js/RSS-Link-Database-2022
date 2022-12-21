@@ -1,4 +1,4 @@
-# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en
+# Source The Intercept, Source URL:https://theintercept.com/feed/?lang=en, Source language: en-US
 
 ## Not a Joke, the Pentagon Wants to Name a Warship the USS Fallujah
  - [https://theintercept.com/2022/12/17/uss-fallujah-iraq-warship/](https://theintercept.com/2022/12/17/uss-fallujah-iraq-warship/)

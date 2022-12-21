@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## Hell freezes over: Apple allegedly working on app sideloading for iPhones
  - [https://www.androidauthority.com/iphone-app-sideloading-3250788/](https://www.androidauthority.com/iphone-app-sideloading-3250788/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-13 21:34:08+00:00
- - tags: None
 
 If this happens, it would change iOS forever.
 
@@ -12,7 +11,6 @@ If this happens, it would change iOS forever.
  - [https://www.androidauthority.com/asus-3d-oled-3250740/](https://www.androidauthority.com/asus-3d-oled-3250740/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-13 21:00:25+00:00
- - tags: None
 
 Looking to buy a laptop in 2023? Asus has some big plans according to these teasers.
 
@@ -20,7 +18,6 @@ Looking to buy a laptop in 2023? Asus has some big plans according to these teas
  - [https://www.androidauthority.com/oppo-find-x6-leak-3250589/](https://www.androidauthority.com/oppo-find-x6-leak-3250589/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-13 17:45:43+00:00
- - tags: None
 
 The render shows a new periscope lens.
 
@@ -28,7 +25,6 @@ The render shows a new periscope lens.
  - [https://www.androidauthority.com/google-one-vpn-3242938/](https://www.androidauthority.com/google-one-vpn-3242938/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-13 14:00:18+00:00
- - tags: None
 
 Everything you need to know about Google's offering in the VPN world.
 
@@ -36,7 +32,6 @@ Everything you need to know about Google's offering in the VPN world.
  - [https://www.androidauthority.com/what-is-twitter-blue-3249106/](https://www.androidauthority.com/what-is-twitter-blue-3249106/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-13 12:00:37+00:00
- - tags: None
 
 Find out what's going on with the bird app's reimagined subscription service.
 
@@ -44,7 +39,6 @@ Find out what's going on with the bird app's reimagined subscription service.
  - [https://www.androidauthority.com/motorola-confirms-android-13-3198490/](https://www.androidauthority.com/motorola-confirms-android-13-3198490/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-13 12:00:05+00:00
- - tags: None
 
 Update: Motorola has expanded its list of devices set to get Android 13.
 
@@ -52,7 +46,6 @@ Update: Motorola has expanded its list of devices set to get Android 13.
  - [https://www.androidauthority.com/daily-authority-december-13-2022-3250495/](https://www.androidauthority.com/daily-authority-december-13-2022-3250495/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-13 09:34:51+00:00
- - tags: None
 
 Plus bad news for Pixel trade-ins, Amazon Prime's free games, screen time linked to OCD, and aerosolized poo horror.
 
@@ -60,7 +53,6 @@ Plus bad news for Pixel trade-ins, Amazon Prime's free games, screen time linked
  - [https://www.androidauthority.com/samsung-good-lock-countries-3249297/](https://www.androidauthority.com/samsung-good-lock-countries-3249297/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-13 06:30:35+00:00
- - tags: None
 
 From Argentina to Thailand, Samsung Good Lock has quietly expanded in a big way.
 
@@ -68,6 +60,5 @@ From Argentina to Thailand, Samsung Good Lock has quietly expanded in a big way.
  - [https://www.androidauthority.com/oneplus-11r-3250441/](https://www.androidauthority.com/oneplus-11r-3250441/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-13 06:11:18+00:00
- - tags: None
 
 A returning favorite and a first for OnePlus phones.

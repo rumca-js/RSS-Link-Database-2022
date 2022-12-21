@@ -1,10 +1,9 @@
-# Source Aljazeera, Source URL:http://www.aljazeera.com/xml/rss/all.xml
+# Source Aljazeera, Source URL:http://www.aljazeera.com/xml/rss/all.xml, Source language: en-US
 
 ## Photos: France charge into final to end Morocco’s World Cup dream
  - [https://www.aljazeera.com/gallery/2022/12/14/photos-france-charge-into-final-to-end-moroccos-world-cup-dream](https://www.aljazeera.com/gallery/2022/12/14/photos-france-charge-into-final-to-end-moroccos-world-cup-dream)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 23:54:03+00:00
- - tags: None
 
 Morocco, the first African team to play in a World Cup semifinal, fought hard against the reigning champions.
 
@@ -12,7 +11,6 @@ Morocco, the first African team to play in a World Cup semifinal, fought hard ag
  - [https://www.aljazeera.com/gallery/2022/12/14/morocco-fans-honour-their-team-despite-semifinal-loss](https://www.aljazeera.com/gallery/2022/12/14/morocco-fans-honour-their-team-despite-semifinal-loss)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 23:48:20+00:00
- - tags: None
 
 Morocco were beaten by France in the World Cup semifinals.
 
@@ -20,7 +18,6 @@ Morocco were beaten by France in the World Cup semifinals.
  - [https://www.aljazeera.com/news/2022/12/14/for-african-fans-legendary-morocco-feat-means-sky-is-the-limit](https://www.aljazeera.com/news/2022/12/14/for-african-fans-legendary-morocco-feat-means-sky-is-the-limit)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 23:38:57+00:00
- - tags: None
 
 Supporters from countries across the continent say Atlas Lions&#039; run proves that African teams belong to elite of game.
 
@@ -28,7 +25,6 @@ Supporters from countries across the continent say Atlas Lions&#039; run proves 
  - [https://www.aljazeera.com/news/2022/12/14/brazil-to-resume-diplomatic-relations-with-venezuela-under-lula](https://www.aljazeera.com/news/2022/12/14/brazil-to-resume-diplomatic-relations-with-venezuela-under-lula)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 23:17:23+00:00
- - tags: None
 
 Incoming left-wing president Lula has signalled he will seek to repair relations with the Maduro government.
 
@@ -36,7 +32,6 @@ Incoming left-wing president Lula has signalled he will seek to repair relations
  - [https://www.aljazeera.com/sports/2022/12/14/we-are-the-champions-morocco-fans-awed-despite-world-cup-loss](https://www.aljazeera.com/sports/2022/12/14/we-are-the-champions-morocco-fans-awed-despite-world-cup-loss)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 23:01:57+00:00
- - tags: None
 
 Supporters of the Atlas Lion laud team&#039;s run to the semifinals despite losing to holders France.
 
@@ -44,7 +39,6 @@ Supporters of the Atlas Lion laud team&#039;s run to the semifinals despite losi
  - [https://www.aljazeera.com/news/2022/12/14/patriot-systems-would-be-legitimate-target-in-ukraine-kremlin](https://www.aljazeera.com/news/2022/12/14/patriot-systems-would-be-legitimate-target-in-ukraine-kremlin)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 22:42:19+00:00
- - tags: None
 
 The comments come as US finalises plans to send the missile systems to intercept barrage of Russian missiles.
 
@@ -52,7 +46,6 @@ The comments come as US finalises plans to send the missile systems to intercept
  - [https://www.aljazeera.com/sports/2022/12/14/social-media-reacts-as-moroccos-historic-world-cup-run-ends](https://www.aljazeera.com/sports/2022/12/14/social-media-reacts-as-moroccos-historic-world-cup-run-ends)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 22:37:30+00:00
- - tags: None
 
 The dream is over for the Atlas Lions but they brought much of the world along for the ride.
 
@@ -60,7 +53,6 @@ The dream is over for the Atlas Lions but they brought much of the world along f
  - [https://www.aljazeera.com/news/2022/12/14/us-workers-sue-georgia-for-transgender-healthcare-discrimination](https://www.aljazeera.com/news/2022/12/14/us-workers-sue-georgia-for-transgender-healthcare-discrimination)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 22:05:09+00:00
- - tags: None
 
 Three employees call for Georgia&#039;s state health insurance to cover gender-confirming healthcare and other procedures.
 
@@ -68,7 +60,6 @@ Three employees call for Georgia&#039;s state health insurance to cover gender-c
  - [https://www.aljazeera.com/sports/2022/12/14/recap-france-vs-morocco-world-cup](https://www.aljazeera.com/sports/2022/12/14/recap-france-vs-morocco-world-cup)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 21:11:11+00:00
- - tags: None
 
 Defending world champions end Morocco&#039;s World Cup dreams and book their place in the final.
 
@@ -76,7 +67,6 @@ Defending world champions end Morocco&#039;s World Cup dreams and book their pla
  - [https://www.aljazeera.com/news/2022/12/14/man-who-attacked-paul-pelosi-spoke-of-evil-in-washington](https://www.aljazeera.com/news/2022/12/14/man-who-attacked-paul-pelosi-spoke-of-evil-in-washington)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 20:59:51+00:00
- - tags: None
 
 The US man who allegedly beat Nancy Pelosi&#039;s husband with a hammer during a home invasion has pleaded not guilty.
 
@@ -84,7 +74,6 @@ The US man who allegedly beat Nancy Pelosi&#039;s husband with a hammer during a
  - [https://www.aljazeera.com/sports/2022/12/14/france-seal-world-cup-final-spot-with-2-0-win-over-morocco](https://www.aljazeera.com/sports/2022/12/14/france-seal-world-cup-final-spot-with-2-0-win-over-morocco)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 20:59:27+00:00
- - tags: None
 
 Reigning world champions overcome spirited Atlas Lions display to setup showdown with Argentina on Sunday.
 
@@ -92,7 +81,6 @@ Reigning world champions overcome spirited Atlas Lions display to setup showdown
  - [https://www.aljazeera.com/news/2022/12/14/biden-promotes-partnerships-with-africa-at-leadership-summit](https://www.aljazeera.com/news/2022/12/14/biden-promotes-partnerships-with-africa-at-leadership-summit)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 20:39:12+00:00
- - tags: None
 
 US president announces new investments, trade deals in Africa, highlighting sustainable energy and infrastructure.
 
@@ -100,7 +88,6 @@ US president announces new investments, trade deals in Africa, highlighting sust
  - [https://www.aljazeera.com/economy/2022/12/14/tesla-shares-at-lowest-level-in-two-years-as-investors-bash-musk](https://www.aljazeera.com/economy/2022/12/14/tesla-shares-at-lowest-level-in-two-years-as-investors-bash-musk)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 20:10:47+00:00
- - tags: None
 
 The world&#039;s most valuable carmaker is one of the worst performing stocks among major automakers and tech firms.
 
@@ -108,7 +95,6 @@ The world&#039;s most valuable carmaker is one of the worst performing stocks am
  - [https://www.aljazeera.com/economy/2022/12/14/us-fed-hikes-interest-rates-by-0-5-percent-says-more-to-come](https://www.aljazeera.com/economy/2022/12/14/us-fed-hikes-interest-rates-by-0-5-percent-says-more-to-come)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 19:39:57+00:00
- - tags: None
 
 The US central bank projected interest rates rising to 5.1 percent in 2023, higher than what investors expected.
 
@@ -116,7 +102,6 @@ The US central bank projected interest rates rising to 5.1 percent in 2023, high
  - [https://www.aljazeera.com/program/inside-story/2022/12/14/what-impact-would-an-eu-price-cap-on-natural-gas-have](https://www.aljazeera.com/program/inside-story/2022/12/14/what-impact-would-an-eu-price-cap-on-natural-gas-have)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 19:24:58+00:00
- - tags: None
 
 EU energy ministers fail yet again to agree on a price cap on Russian gas to punish Moscow.
 
@@ -124,7 +109,6 @@ EU energy ministers fail yet again to agree on a price cap on Russian gas to pun
  - [https://www.aljazeera.com/news/2022/12/14/turkish-court-sentences-istanbul-mayor-to-jail-time](https://www.aljazeera.com/news/2022/12/14/turkish-court-sentences-istanbul-mayor-to-jail-time)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 19:03:55+00:00
- - tags: None
 
 Court also imposes political ban on Ekrem Imamoglu, seen as a potential opponent of President Erdogan in 2023 elections.
 
@@ -132,7 +116,6 @@ Court also imposes political ban on Ekrem Imamoglu, seen as a potential opponent
  - [https://www.aljazeera.com/news/2022/12/14/un-expels-iran-from-un-womens-rights-body-for-protest-crackdowns](https://www.aljazeera.com/news/2022/12/14/un-expels-iran-from-un-womens-rights-body-for-protest-crackdowns)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 19:02:51+00:00
- - tags: None
 
 A US-drafted resolution to remove Iran from the Commission on the Status of Women passed over objections from Iran.
 
@@ -148,7 +131,6 @@ Ex-President Pedro Castillo calls on supporters to go to prison where he is held
  - [https://www.aljazeera.com/news/2022/12/14/china-removes-6-diplomats-after-manchester-consulate-incident-uk](https://www.aljazeera.com/news/2022/12/14/china-removes-6-diplomats-after-manchester-consulate-incident-uk)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 18:16:31+00:00
- - tags: None
 
 Britain had requested they waive diplomatic immunity and be questioned by police over attack on pro-democracy activist.
 
@@ -156,7 +138,6 @@ Britain had requested they waive diplomatic immunity and be questioned by police
  - [https://www.aljazeera.com/news/2022/12/14/un-biodiversity-talks-hampered-by-lack-of-political-will-wwf](https://www.aljazeera.com/news/2022/12/14/un-biodiversity-talks-hampered-by-lack-of-political-will-wwf)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 17:52:51+00:00
- - tags: None
 
 World Wildlife Fund urges more ambitious targets after developing nations stage COP15 walkout over funding plans.
 
@@ -164,7 +145,6 @@ World Wildlife Fund urges more ambitious targets after developing nations stage 
  - [https://www.aljazeera.com/news/2022/12/14/us-marks-10-year-anniversary-of-sandy-hook-school-shooting](https://www.aljazeera.com/news/2022/12/14/us-marks-10-year-anniversary-of-sandy-hook-school-shooting)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 17:40:01+00:00
- - tags: None
 
 The attack was one of the deadliest school shootings in modern US history, leaving 20 children and six educators dead.
 
@@ -172,7 +152,6 @@ The attack was one of the deadliest school shootings in modern US history, leavi
  - [https://www.aljazeera.com/economy/2022/12/14/hsbc-to-stop-funding-new-oil-and-gas-projects](https://www.aljazeera.com/economy/2022/12/14/hsbc-to-stop-funding-new-oil-and-gas-projects)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 16:43:09+00:00
- - tags: None
 
 HSBC said it would continue to finance energy companies at the corporate level to help them overhaul their businesses.
 
@@ -180,7 +159,6 @@ HSBC said it would continue to finance energy companies at the corporate level t
  - [https://www.aljazeera.com/program/the-stream/2022/12/14/what-does-the-future-hold-for-brain-implant-technology](https://www.aljazeera.com/program/the-stream/2022/12/14/what-does-the-future-hold-for-brain-implant-technology)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 16:42:19+00:00
- - tags: None
 
 Neurotech companies are making slow yet significant gains in converting thoughts into digital commands.
 
@@ -188,7 +166,6 @@ Neurotech companies are making slow yet significant gains in converting thoughts
  - [https://www.aljazeera.com/news/2022/12/14/as-elections-approach-tunisian-market-shelves-are-still-bare](https://www.aljazeera.com/news/2022/12/14/as-elections-approach-tunisian-market-shelves-are-still-bare)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 16:11:08+00:00
- - tags: None
 
 Food shortages have been ongoing for months in Tunisia, another sign of the country&#039;s economic crisis.
 
@@ -196,7 +173,6 @@ Food shortages have been ongoing for months in Tunisia, another sign of the coun
  - [https://www.aljazeera.com/news/2022/12/14/kosovo-officially-applies-for-eu-membership-in-symbolic-act](https://www.aljazeera.com/news/2022/12/14/kosovo-officially-applies-for-eu-membership-in-symbolic-act)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 15:14:48+00:00
- - tags: None
 
 EU membership is currently out of reach for the country, which has been independent since 2008.
 
@@ -204,7 +180,6 @@ EU membership is currently out of reach for the country, which has been independ
  - [https://www.aljazeera.com/news/2022/12/14/eu-pledges-10bn-investment-in-southeast-asia-during-asean-summit](https://www.aljazeera.com/news/2022/12/14/eu-pledges-10bn-investment-in-southeast-asia-during-asean-summit)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 15:12:08+00:00
- - tags: None
 
 Brussels hosts the leaders of Southeast Asian countries in the face of the Ukraine war and challenges from China.
 
@@ -212,7 +187,6 @@ Brussels hosts the leaders of Southeast Asian countries in the face of the Ukrai
  - [https://www.aljazeera.com/economy/2022/12/14/ghana-inflation-soared-to-21-year-high-above-50-in-november](https://www.aljazeera.com/economy/2022/12/14/ghana-inflation-soared-to-21-year-high-above-50-in-november)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 14:27:18+00:00
- - tags: None
 
 Consumer inflation rise comes as the gold, oil and cocoa producer battles its worst economic crisis in a generation.
 
@@ -220,7 +194,6 @@ Consumer inflation rise comes as the gold, oil and cocoa producer battles its wo
  - [https://www.aljazeera.com/news/2022/12/14/russia-ukraine-war-reaches-dark-side-of-the-internet](https://www.aljazeera.com/news/2022/12/14/russia-ukraine-war-reaches-dark-side-of-the-internet)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 14:21:53+00:00
- - tags: None
 
 The darknet has become another, quiet front in the war as Russian and Ukrainian hackers, once united, drift apart.
 
@@ -228,7 +201,6 @@ The darknet has become another, quiet front in the war as Russian and Ukrainian 
  - [https://www.aljazeera.com/news/2022/12/14/royal-air-maroc-cancels-flights-to-doha-ahead-of-semi-final](https://www.aljazeera.com/news/2022/12/14/royal-air-maroc-cancels-flights-to-doha-ahead-of-semi-final)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 14:15:06+00:00
- - tags: None
 
 The decision could leave hundreds of Moroccan fans stranded before a historic World Cup semifinal against France.
 
@@ -236,7 +208,6 @@ The decision could leave hundreds of Moroccan fans stranded before a historic Wo
  - [https://www.aljazeera.com/news/2022/12/14/world-cup-security-guard-dies-at-lusail-stadium-after-fall](https://www.aljazeera.com/news/2022/12/14/world-cup-security-guard-dies-at-lusail-stadium-after-fall)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 14:10:08+00:00
- - tags: None
 
 John Njau Kibue fell while working at the venue that will host the World Cup 2022 final on Sunday.
 
@@ -244,7 +215,6 @@ John Njau Kibue fell while working at the venue that will host the World Cup 202
  - [https://www.aljazeera.com/news/2022/12/14/three-parties-sign-coalition-deal-to-form-latvias-government](https://www.aljazeera.com/news/2022/12/14/three-parties-sign-coalition-deal-to-form-latvias-government)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 13:47:26+00:00
- - tags: None
 
 The deal comes weeks after a general election that was shaped by Russia’s war in Ukraine and economic woes.
 
@@ -252,7 +222,6 @@ The deal comes weeks after a general election that was shaped by Russia’s war 
  - [https://www.aljazeera.com/opinions/2022/12/14/how-much-should-inequality-be-reduced](https://www.aljazeera.com/opinions/2022/12/14/how-much-should-inequality-be-reduced)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 13:02:18+00:00
- - tags: None
 
 Most people agree that inequality is too extreme and needs to be reduced.
 
@@ -260,7 +229,6 @@ Most people agree that inequality is too extreme and needs to be reduced.
  - [https://www.aljazeera.com/news/2022/12/14/us-couple-charged-with-torture-of-foster-child-in-uganda](https://www.aljazeera.com/news/2022/12/14/us-couple-charged-with-torture-of-foster-child-in-uganda)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 12:45:10+00:00
- - tags: None
 
 Neighbours sounded the alarm over the 10-year-old boy who was &#039;constantly&#039; abused between 2020 and 2022, police said.
 
@@ -268,7 +236,6 @@ Neighbours sounded the alarm over the 10-year-old boy who was &#039;constantly&#
  - [https://www.aljazeera.com/news/2022/12/14/at-least-three-migrants-dead-over-40-rescued-off-british-coast](https://www.aljazeera.com/news/2022/12/14/at-least-three-migrants-dead-over-40-rescued-off-british-coast)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 12:42:14+00:00
- - tags: None
 
 At least 4 dead and dozens of others rescued after a boat capsizes in the English Channel, UK media reports.
 
@@ -276,7 +243,6 @@ At least 4 dead and dozens of others rescued after a boat capsizes in the Englis
  - [https://www.aljazeera.com/news/2022/12/14/nasa-to-run-first-global-water-survey-from-space](https://www.aljazeera.com/news/2022/12/14/nasa-to-run-first-global-water-survey-from-space)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 12:25:07+00:00
- - tags: None
 
 Mission will conduct a comprehensive survey that aims to shed new light on mechanics and consequences of climate change.
 
@@ -284,7 +250,6 @@ Mission will conduct a comprehensive survey that aims to shed new light on mecha
  - [https://www.aljazeera.com/opinions/2022/12/14/what-is-climate-justice-and-who-defines](https://www.aljazeera.com/opinions/2022/12/14/what-is-climate-justice-and-who-defines)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 11:53:14+00:00
- - tags: None
 
 The COP27 fund is an important step forward. But it&#039;s not climate justice.
 
@@ -292,7 +257,6 @@ The COP27 fund is an important step forward. But it&#039;s not climate justice.
  - [https://www.aljazeera.com/opinions/2022/12/14/frontex-delivers-cruelty-from-the-skies](https://www.aljazeera.com/opinions/2022/12/14/frontex-delivers-cruelty-from-the-skies)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 11:29:47+00:00
- - tags: None
 
 Despite its claims of saving lives, Frontex is putting people at risk by aiding Libya&#039;s interceptions of migrant boats.
 
@@ -300,7 +264,6 @@ Despite its claims of saving lives, Frontex is putting people at risk by aiding 
  - [https://www.aljazeera.com/news/2022/12/14/world-cup-2022-morocco-and-argentina-channel-the-spirit-of-1986](https://www.aljazeera.com/news/2022/12/14/world-cup-2022-morocco-and-argentina-channel-the-spirit-of-1986)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 10:55:17+00:00
- - tags: None
 
 Morocco have already outdone their 1986 World Cup heroics, but can Messi&#039;s Argentina emulate Maradona&#039;s team and win it?
 
@@ -308,7 +271,6 @@ Morocco have already outdone their 1986 World Cup heroics, but can Messi&#039;s 
  - [https://www.aljazeera.com/news/2022/12/14/china-reduces-covid-19-case-number-reporting-as-virus-surges](https://www.aljazeera.com/news/2022/12/14/china-reduces-covid-19-case-number-reporting-as-virus-surges)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 10:54:43+00:00
- - tags: None
 
 Top health body says true scale of infections in the country is &#039;impossible&#039; to track amid decline in PCR testing.
 
@@ -316,7 +278,6 @@ Top health body says true scale of infections in the country is &#039;impossible
  - [https://www.aljazeera.com/features/longform/2022/12/14/pain-at-the-pump-an-indonesian-pedicab-drivers-monthly-costs](https://www.aljazeera.com/features/longform/2022/12/14/pain-at-the-pump-an-indonesian-pedicab-drivers-monthly-costs)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 10:42:31+00:00
- - tags: None
 
 How a family in North Sumatra manages their finances amid higher fuel and living costs.
 
@@ -324,7 +285,6 @@ How a family in North Sumatra manages their finances amid higher fuel and living
  - [https://www.aljazeera.com/features/2022/12/14/netherlands-set-to-formally-apologise-for-250-years-of-slavery](https://www.aljazeera.com/features/2022/12/14/netherlands-set-to-formally-apologise-for-250-years-of-slavery)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 10:33:03+00:00
- - tags: None
 
 The apology is set to be issued next week and is expected to redress how the Dutch exploited more than 600,000 people.
 
@@ -332,7 +292,6 @@ The apology is set to be issued next week and is expected to redress how the Dut
  - [https://www.aljazeera.com/sports/2022/12/14/have-hope-moroccans-galvanised-by-world-cup-success](https://www.aljazeera.com/sports/2022/12/14/have-hope-moroccans-galvanised-by-world-cup-success)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 10:19:04+00:00
- - tags: None
 
 Morocco&#039;s victories against major football powers unite people who for the last years have been facing economic crisis.
 
@@ -340,7 +299,6 @@ Morocco&#039;s victories against major football powers unite people who for the 
  - [https://www.aljazeera.com/sports/2022/12/14/how-morocco-has-united-fans-across-the-african-and-arab-world](https://www.aljazeera.com/sports/2022/12/14/how-morocco-has-united-fans-across-the-african-and-arab-world)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 10:17:00+00:00
- - tags: None
 
 Morocco&#039;s fairytale run resulted in unanimous support from the Global South that enraptured millions of people.
 
@@ -348,7 +306,6 @@ Morocco&#039;s fairytale run resulted in unanimous support from the Global South
  - [https://www.aljazeera.com/news/2022/12/14/crowd-trouble-mars-moroccan-world-cup-joy-in-paris-but-why](https://www.aljazeera.com/news/2022/12/14/crowd-trouble-mars-moroccan-world-cup-joy-in-paris-but-why)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 09:47:29+00:00
- - tags: None
 
 Moroccan celebrations have lit up capitals around the world, but in Western Europe they have been met with violence.
 
@@ -356,7 +313,6 @@ Moroccan celebrations have lit up capitals around the world, but in Western Euro
  - [https://www.aljazeera.com/news/2022/12/14/famine-averted-but-situation-catastrophic-in-somalia-un](https://www.aljazeera.com/news/2022/12/14/famine-averted-but-situation-catastrophic-in-somalia-un)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 09:17:10+00:00
- - tags: None
 
 If aid is not scaled up, famine is expected in southern Somalia between April and June 2023, humanitarians say.
 
@@ -364,7 +320,6 @@ If aid is not scaled up, famine is expected in southern Somalia between April an
  - [https://www.aljazeera.com/sports/2022/12/14/world-cups-apex-players-argentinas-messi-and-alvarez](https://www.aljazeera.com/sports/2022/12/14/world-cups-apex-players-argentinas-messi-and-alvarez)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 09:11:27+00:00
- - tags: None
 
 Lionel Messi scored a penalty then set up two goals for Julian Alvarez for a 3-0 win in the semifinal against Croatia.
 
@@ -372,7 +327,6 @@ Lionel Messi scored a penalty then set up two goals for Julian Alvarez for a 3-0
  - [https://www.aljazeera.com/news/2022/12/14/meta-sued-for-2bn-over-facebook-posts-rousing-hate-in-ethiopia](https://www.aljazeera.com/news/2022/12/14/meta-sued-for-2bn-over-facebook-posts-rousing-hate-in-ethiopia)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 08:49:56+00:00
- - tags: None
 
 A lawsuit filed in Kenya alleges Facebook&#039;s recommendations systems amplified violent posts, inflaming the conflict.
 
@@ -380,7 +334,6 @@ A lawsuit filed in Kenya alleges Facebook&#039;s recommendations systems amplifi
  - [https://www.aljazeera.com/sports/2022/12/14/france-vs-morocco-semifinal-predictions-world-cup-2022](https://www.aljazeera.com/sports/2022/12/14/france-vs-morocco-semifinal-predictions-world-cup-2022)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 08:46:48+00:00
- - tags: None
 
 Al Jazeera’s AI robot Kashef has crunched the numbers and has some predictions for today’s game.
 
@@ -388,7 +341,6 @@ Al Jazeera’s AI robot Kashef has crunched the numbers and has some predictions
  - [https://www.aljazeera.com/news/2022/12/14/number-of-journalists-imprisoned-worldwide-hits-new-record-rsf](https://www.aljazeera.com/news/2022/12/14/number-of-journalists-imprisoned-worldwide-hits-new-record-rsf)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 08:16:37+00:00
- - tags: None
 
 Iran protest crackdown pushes number of jailed journalists across the world to a record high of 533 in 2022, says RSF.
 
@@ -396,7 +348,6 @@ Iran protest crackdown pushes number of jailed journalists across the world to a
  - [https://www.aljazeera.com/sports/2022/12/14/mbappe-vs-hakimi-psg-france-morocco-world-cup-semifinal](https://www.aljazeera.com/sports/2022/12/14/mbappe-vs-hakimi-psg-france-morocco-world-cup-semifinal)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 07:13:46+00:00
- - tags: None
 
 The two friends will become rivals on Wednesday as France take on Morocco in the World Cup semifinal.
 
@@ -404,7 +355,6 @@ The two friends will become rivals on Wednesday as France take on Morocco in the
  - [https://www.aljazeera.com/news/2022/12/14/world-cup-2022-a-brief-history-of-france-morocco-relations](https://www.aljazeera.com/news/2022/12/14/world-cup-2022-a-brief-history-of-france-morocco-relations)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 07:08:19+00:00
- - tags: None
 
 As Morocco prepare to face their former coloniser, Al Jazeera looks at the recent history between the countries
 
@@ -412,7 +362,6 @@ As Morocco prepare to face their former coloniser, Al Jazeera looks at the recen
  - [https://www.aljazeera.com/sports/2022/12/14/yassine-bounou-the-smiling-custodian](https://www.aljazeera.com/sports/2022/12/14/yassine-bounou-the-smiling-custodian)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 07:04:32+00:00
- - tags: None
 
 Moroccan goalkeeper has been instrumental in his country&#039;s run to the World Cup semifinals.
 
@@ -420,7 +369,6 @@ Moroccan goalkeeper has been instrumental in his country&#039;s run to the World
  - [https://www.aljazeera.com/news/2022/12/14/world-cup-2022-day-25-schedule-match-and-what-to-expect](https://www.aljazeera.com/news/2022/12/14/world-cup-2022-day-25-schedule-match-and-what-to-expect)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 07:03:48+00:00
- - tags: None
 
 Here is what is happening on day 25 of the World Cup when the second semi-final takes place.
 
@@ -428,7 +376,6 @@ Here is what is happening on day 25 of the World Cup when the second semi-final 
  - [https://www.aljazeera.com/sports/2022/12/14/france-vs-morocco-match-preview-world-cup-2022-semifinal](https://www.aljazeera.com/sports/2022/12/14/france-vs-morocco-match-preview-world-cup-2022-semifinal)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 07:01:47+00:00
- - tags: None
 
 France are favourites by a mile, but for Morocco, they&#039;re just another giant to slay.
 
@@ -436,7 +383,6 @@ France are favourites by a mile, but for Morocco, they&#039;re just another gian
  - [https://www.aljazeera.com/news/2022/12/14/russia-ukraine-war-list-of-key-events-day-294](https://www.aljazeera.com/news/2022/12/14/russia-ukraine-war-list-of-key-events-day-294)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 06:31:51+00:00
- - tags: None
 
 As the Russia-Ukraine war enters its 294th day, we take a look at the main developments.
 
@@ -444,7 +390,6 @@ As the Russia-Ukraine war enters its 294th day, we take a look at the main devel
  - [https://www.aljazeera.com/news/2022/12/14/explosions-heard-in-ukrainian-capital-emergency-teams-deployed](https://www.aljazeera.com/news/2022/12/14/explosions-heard-in-ukrainian-capital-emergency-teams-deployed)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 04:57:18+00:00
- - tags: None
 
 Air-raid sirens heard in the capital in the pre-dawn hours with residents urged to take shelter.
 
@@ -452,7 +397,6 @@ Air-raid sirens heard in the capital in the pre-dawn hours with residents urged 
  - [https://www.aljazeera.com/news/2022/12/14/voting-underway-in-high-stakes-election-in-fiji](https://www.aljazeera.com/news/2022/12/14/voting-underway-in-high-stakes-election-in-fiji)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 04:36:32+00:00
- - tags: None
 
 Frank Bainimarama pledges to respect result as he faces off with a rival looking to end his 16-year stint in power.
 
@@ -460,7 +404,6 @@ Frank Bainimarama pledges to respect result as he faces off with a rival looking
  - [https://www.aljazeera.com/sports/2022/12/14/argentinas-messi-says-qatar-final-to-be-his-last-world-cup-match](https://www.aljazeera.com/sports/2022/12/14/argentinas-messi-says-qatar-final-to-be-his-last-world-cup-match)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 04:13:29+00:00
- - tags: None
 
 &#039;To finish like this, it&#039;s the best&#039;, Lionel Messi told Argentinian sports media outlet after qualifying for final.
 
@@ -468,7 +411,6 @@ Frank Bainimarama pledges to respect result as he faces off with a rival looking
  - [https://www.aljazeera.com/sports/2022/12/14/france-injury-concerns-ahead-of-world-cup-semifinal-with-morocco](https://www.aljazeera.com/sports/2022/12/14/france-injury-concerns-ahead-of-world-cup-semifinal-with-morocco)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 03:54:40+00:00
- - tags: None
 
 France defender Dayot Upamecano and midfielder Adrien Rabiot missed team training on the eve of game against Morocco.
 
@@ -476,7 +418,6 @@ France defender Dayot Upamecano and midfielder Adrien Rabiot missed team trainin
  - [https://www.aljazeera.com/economy/2022/12/14/china-readying-143-bln-package-for-its-chip-firms-in-face-of-us-curbs](https://www.aljazeera.com/economy/2022/12/14/china-readying-143-bln-package-for-its-chip-firms-in-face-of-us-curbs)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 03:51:31+00:00
- - tags: None
 
 Beijing to roll out subsidies and tax credits to bolster semiconductor production and research, sources say.
 
@@ -484,7 +425,6 @@ Beijing to roll out subsidies and tax credits to bolster semiconductor productio
  - [https://www.aljazeera.com/economy/2022/12/14/mongolias-herders-feel-pinch-as-china-russia-squeeze-economy](https://www.aljazeera.com/economy/2022/12/14/mongolias-herders-feel-pinch-as-china-russia-squeeze-economy)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 03:02:44+00:00
- - tags: None
 
 Mongolian tent-dwellers face growing hardship amid skyrocketing energy costs and falling livestock prices.
 
@@ -492,7 +432,6 @@ Mongolian tent-dwellers face growing hardship amid skyrocketing energy costs and
  - [https://www.aljazeera.com/news/2022/12/14/us-finalising-plan-to-send-patriot-air-defence-system-to-ukraine](https://www.aljazeera.com/news/2022/12/14/us-finalising-plan-to-send-patriot-air-defence-system-to-ukraine)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 01:49:23+00:00
- - tags: None
 
 Analysts say Patriot capability would be &#039;significant&#039; as Ukraine tries to protect civilians and key infrastructure.
 
@@ -500,7 +439,6 @@ Analysts say Patriot capability would be &#039;significant&#039; as Ukraine trie
  - [https://www.aljazeera.com/news/2022/12/14/afraid-of-the-gun-military-coup-fuels-myanmar-resource-grab](https://www.aljazeera.com/news/2022/12/14/afraid-of-the-gun-military-coup-fuels-myanmar-resource-grab)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 01:30:20+00:00
- - tags: None
 
 Crisis triggered by the military takeover makes life even more dangerous for those fighting to protect the environment.
 
@@ -508,6 +446,5 @@ Crisis triggered by the military takeover makes life even more dangerous for tho
  - [https://www.aljazeera.com/sports/2022/12/14/messi-magic-sends-argentina-through-to-world-cup-final-in-qatar](https://www.aljazeera.com/sports/2022/12/14/messi-magic-sends-argentina-through-to-world-cup-final-in-qatar)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 00:49:47+00:00
- - tags: None
 
 &#039;No human being can stop Messi,&#039; Argentina fan Ricardo Falu told Al Jazeera as the Albicelestes defeated Croatia 3-0.

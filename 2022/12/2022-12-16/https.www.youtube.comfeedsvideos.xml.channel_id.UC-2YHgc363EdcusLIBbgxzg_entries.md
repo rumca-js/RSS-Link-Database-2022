@@ -1,10 +1,9 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
+# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
 
 ## The Mystery of the Oakville Blobs
  - [https://www.youtube.com/watch?v=fOd_mZtgqdM](https://www.youtube.com/watch?v=fOd_mZtgqdM)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
  - date published: 2022-12-16 20:30:02+00:00
- - tags: None
 
 In 1994, the small town of Oakville, Washington was pelted with weird blobs for 3 weeks straight. It's a mystery that's never been solved. Full video on my channel.
 

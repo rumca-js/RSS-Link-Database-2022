@@ -1,4 +1,18 @@
-# Source Reddit - News, Source URL:http://www.reddit.com/r/news/.rss
+# Source Reddit - News, Source URL:http://www.reddit.com/r/news/.rss, Source language: en-US
+
+## 11 people seriously injured amid turbulence on Hawaii flight
+ - [https://www.reddit.com/r/news/comments/zpbysb/11_people_seriously_injured_amid_turbulence_on/](https://www.reddit.com/r/news/comments/zpbysb/11_people_seriously_injured_amid_turbulence_on/)
+ - RSS feed: http://www.reddit.com/r/news/.rss
+ - date published: 2022-12-18 23:43:47+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/getBusyChild"> /u/getBusyChild </a> <br /> <span><a href="https://apnews.com/article/health-phoenix-honolulu-432c1e2bfdf05cd15636fb8c26698255?taid=639fa54e8456220001defd6e&amp;utm_campaign=TrueAnthem&amp;utm_medium=AP&amp;utm_source=Twitter">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/zpbysb/11_people_seriously_injured_amid_turbulence_on/">[comments]</a></span>
+
+## Destroying Maya treasures to build a tourist train
+ - [https://www.reddit.com/r/news/comments/zpbhg9/destroying_maya_treasures_to_build_a_tourist_train/](https://www.reddit.com/r/news/comments/zpbhg9/destroying_maya_treasures_to_build_a_tourist_train/)
+ - RSS feed: http://www.reddit.com/r/news/.rss
+ - date published: 2022-12-18 23:21:48+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/joyfullypresent"> /u/joyfullypresent </a> <br /> <span><a href="https://www.washingtonpost.com/world/interactive/2022/mexico-tren-maya-destruction-archeology/?utm_campaign=wp_news_alert_revere_trending_now&amp;utm_medium=email&amp;utm_source=alert&amp;location=alert">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/zpbhg9/destroying_maya_treasures_to_build_a_tourist_train/">[comments]</a></span>
 
 ## Faculty: Purdue Northwest CEO must resign for racist remarks
  - [https://www.reddit.com/r/news/comments/zpb087/faculty_purdue_northwest_ceo_must_resign_for/](https://www.reddit.com/r/news/comments/zpb087/faculty_purdue_northwest_ceo_must_resign_for/)

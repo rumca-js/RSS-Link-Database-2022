@@ -1,10 +1,9 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml
+# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
 
 ## Ofcom report shows growing 5G coverage
  - [https://www.bbc.co.uk/news/technology-63974085?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63974085?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-12-15 18:04:35+00:00
- - Starred: False
 
 One in five mobile phones is now capable of using 5G, but some consumers say speed is disappointing.
 
@@ -12,7 +11,6 @@ One in five mobile phones is now capable of using 5G, but some consumers say spe
  - [https://www.bbc.co.uk/news/business-63981657?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63981657?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-12-15 15:39:47+00:00
- - Starred: False
 
 The world's fastest-growing social media platform has become known globally for its vertical format.
 
@@ -20,7 +18,6 @@ The world's fastest-growing social media platform has become known globally for 
  - [https://www.bbc.co.uk/news/business-63981767?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63981767?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-12-15 03:24:40+00:00
- - Starred: False
 
 The sale brings the total of Tesla stocks sold by Mr Musk over the past year to almost $40bn.
 
@@ -28,6 +25,5 @@ The sale brings the total of Tesla stocks sold by Mr Musk over the past year to 
  - [https://www.bbc.co.uk/news/world-us-canada-63978323?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63978323?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-12-15 00:24:15+00:00
- - Starred: False
 
 Twitter owner Elon Musk's critics say the suspension contradicts his avowed commitment to free speech.

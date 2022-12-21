@@ -1,4 +1,44 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage
+# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
+
+## Marion Smith, the world’s most prolific cave explorer, dies at 80
+ - [https://www.nytimes.com/2022/12/16/us/marion-smith-dead.html](https://www.nytimes.com/2022/12/16/us/marion-smith-dead.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-18 23:32:53+00:00
+
+<p>Article URL: <a href="https://www.nytimes.com/2022/12/16/us/marion-smith-dead.html">https://www.nytimes.com/2022/12/16/us/marion-smith-dead.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34045636">https://news.ycombinator.com/item?id=34045636</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
+
+## Should I step down as head of Twitter? I will abide by the results of this poll
+ - [https://twitter.com/elonmusk/status/1604617643973124097](https://twitter.com/elonmusk/status/1604617643973124097)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-18 23:21:52+00:00
+
+<p>Article URL: <a href="https://twitter.com/elonmusk/status/1604617643973124097">https://twitter.com/elonmusk/status/1604617643973124097</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34045423">https://news.ycombinator.com/item?id=34045423</a></p>
+<p>Points: 290</p>
+<p># Comments: 214</p>
+
+## The role of drought during the Hunnic European incursions in the 4th – 5th C. CE
+ - [https://www.cambridge.org/core/journals/journal-of-roman-archaeology/article/role-of-drought-during-the-hunnic-incursions-into-centraleast-europe-in-the-4th-and-5th-c-ce/C036810C421F7D04C2F6985E6B548F20](https://www.cambridge.org/core/journals/journal-of-roman-archaeology/article/role-of-drought-during-the-hunnic-incursions-into-centraleast-europe-in-the-4th-and-5th-c-ce/C036810C421F7D04C2F6985E6B548F20)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-18 22:45:43+00:00
+
+<p>Article URL: <a href="https://www.cambridge.org/core/journals/journal-of-roman-archaeology/article/role-of-drought-during-the-hunnic-incursions-into-centraleast-europe-in-the-4th-and-5th-c-ce/C036810C421F7D04C2F6985E6B548F20">https://www.cambridge.org/core/journals/journal-of-roman-archaeology/article/role-of-drought-during-the-hunnic-incursions-into-centraleast-europe-in-the-4th-and-5th-c-ce/C036810C421F7D04C2F6985E6B548F20</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34044810">https://news.ycombinator.com/item?id=34044810</a></p>
+<p>Points: 10</p>
+<p># Comments: 2</p>
+
+## Devpod: Remote development environment at Uber
+ - [https://www.uber.com/blog/devpod-improving-developer-productivity-at-uber/](https://www.uber.com/blog/devpod-improving-developer-productivity-at-uber/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-18 22:44:26+00:00
+
+<p>Article URL: <a href="https://www.uber.com/blog/devpod-improving-developer-productivity-at-uber/">https://www.uber.com/blog/devpod-improving-developer-productivity-at-uber/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34044784">https://news.ycombinator.com/item?id=34044784</a></p>
+<p>Points: 6</p>
+<p># Comments: 2</p>
 
 ## Introducing The Flickr Foundation
  - [https://thisweekinphoto.com/introducing-the-flickr-foundation/](https://thisweekinphoto.com/introducing-the-flickr-foundation/)
@@ -92,6 +132,16 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34041962">https://news.ycombinator.com/item?id=34041962</a></p>
 <p>Points: 63</p>
 <p># Comments: 50</p>
+
+## Government should incentivize high performance home builders
+ - [https://dan.bulwinkle.net/blog/government-should-incentivize-green-builders/](https://dan.bulwinkle.net/blog/government-should-incentivize-green-builders/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-18 19:34:22+00:00
+
+<p>Article URL: <a href="https://dan.bulwinkle.net/blog/government-should-incentivize-green-builders/">https://dan.bulwinkle.net/blog/government-should-incentivize-green-builders/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34041900">https://news.ycombinator.com/item?id=34041900</a></p>
+<p>Points: 18</p>
+<p># Comments: 1</p>
 
 ## Ubuntu Snap update spoiled my World Cup Final
  - [https://www.circusscientist.com/2022/12/18/ubuntu-snap-update-spoiled-the-world-cup/](https://www.circusscientist.com/2022/12/18/ubuntu-snap-update-spoiled-the-world-cup/)
@@ -275,6 +325,16 @@
 <p>Points: 28</p>
 <p># Comments: 24</p>
 
+## ‘Once-in-a-lifetime’ find of 1,300-year-old necklace dazzles historians
+ - [https://www.washingtonpost.com/world/2022/12/07/necklace-medieval-burial-harpole-treasure/](https://www.washingtonpost.com/world/2022/12/07/necklace-medieval-burial-harpole-treasure/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-18 15:15:40+00:00
+
+<p>Article URL: <a href="https://www.washingtonpost.com/world/2022/12/07/necklace-medieval-burial-harpole-treasure/">https://www.washingtonpost.com/world/2022/12/07/necklace-medieval-burial-harpole-treasure/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34038435">https://news.ycombinator.com/item?id=34038435</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
+
 ## Lionel Messi Is Impossible (2014)
  - [https://fivethirtyeight.com/features/lionel-messi-is-impossible/](https://fivethirtyeight.com/features/lionel-messi-is-impossible/)
  - RSS feed: https://hnrss.org/frontpage
@@ -334,6 +394,16 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34037817">https://news.ycombinator.com/item?id=34037817</a></p>
 <p>Points: 4</p>
 <p># Comments: 0</p>
+
+## Nuclear physicist explains why fusion ignition is hailed as a major breakthrough
+ - [https://theconversation.com/why-fusion-ignition-is-being-hailed-as-a-major-breakthrough-in-fusion-a-nuclear-physicist-explains-196475](https://theconversation.com/why-fusion-ignition-is-being-hailed-as-a-major-breakthrough-in-fusion-a-nuclear-physicist-explains-196475)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-18 14:13:30+00:00
+
+<p>Article URL: <a href="https://theconversation.com/why-fusion-ignition-is-being-hailed-as-a-major-breakthrough-in-fusion-a-nuclear-physicist-explains-196475">https://theconversation.com/why-fusion-ignition-is-being-hailed-as-a-major-breakthrough-in-fusion-a-nuclear-physicist-explains-196475</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34037794">https://news.ycombinator.com/item?id=34037794</a></p>
+<p>Points: 17</p>
+<p># Comments: 6</p>
 
 ## Tell HN: Musk's aircraft are not using PIA transponder codes
  - [https://news.ycombinator.com/item?id=34037780](https://news.ycombinator.com/item?id=34037780)
@@ -435,6 +505,16 @@ Check out the repo's readme for example screenshots.</p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34036681">https://news.ycombinator.com/item?id=34036681</a></p>
 <p>Points: 19</p>
 <p># Comments: 9</p>
+
+## Back to the Future: On misunderstanding modular synthesizers (2016)
+ - [https://econtact.ca/17_4/scott_misunderstanding.html](https://econtact.ca/17_4/scott_misunderstanding.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-18 11:16:11+00:00
+
+<p>Article URL: <a href="https://econtact.ca/17_4/scott_misunderstanding.html">https://econtact.ca/17_4/scott_misunderstanding.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34036666">https://news.ycombinator.com/item?id=34036666</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
 ## Windows 11 update added 'Search' label to taskbar search button – how to remove?
  - [https://superuser.com/questions/1752403/windows-11-update-22h2-added-search-label-to-taskbar-search-button-how-to-re](https://superuser.com/questions/1752403/windows-11-update-22h2-added-search-label-to-taskbar-search-button-how-to-re)

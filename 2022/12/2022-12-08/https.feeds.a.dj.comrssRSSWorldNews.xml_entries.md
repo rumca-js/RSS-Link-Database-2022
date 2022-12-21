@@ -1,10 +1,9 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml
+# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
 
 ## NATO Membership for Sweden, Finland on Track, Officials Say
  - [https://www.wsj.com/articles/nato-membership-for-sweden-and-finland-on-track-officials-say-11670531221](https://www.wsj.com/articles/nato-membership-for-sweden-and-finland-on-track-officials-say-11670531221)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-08 20:27:00+00:00
- - tags: None
 
 The Northern European nations’ foreign ministers met in Washington with Secretary of State Antony Blinken, and all three voiced optimism that Turkey and Hungary, the final two NATO members that haven’t ratified the new members, would do so soon.
 
@@ -12,7 +11,6 @@ The Northern European nations’ foreign ministers met in Washington with Secret
  - [https://www.wsj.com/articles/quebec-shuns-bitcoin-mining-in-bid-to-conserve-power-11670514921](https://www.wsj.com/articles/quebec-shuns-bitcoin-mining-in-bid-to-conserve-power-11670514921)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-08 19:00:00+00:00
- - tags: None
 
 The Canadian province wants to stop selling cheap power to cryptocurrency miners and direct energy to other areas, a priority shift.
 
@@ -20,7 +18,6 @@ The Canadian province wants to stop selling cheap power to cryptocurrency miners
  - [https://www.wsj.com/articles/natural-gas-terminal-engineering-feat-germany-11670513353](https://www.wsj.com/articles/natural-gas-terminal-engineering-feat-germany-11670513353)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-08 15:33:00+00:00
- - tags: None
 
 Europe is racing to build natural-gas facilities to keep its economy afloat. If it fails to shore up its energy grid, governments might have to ration fuel this winter. “This project is really a race against time,” said one manager.
 
@@ -28,7 +25,6 @@ Europe is racing to build natural-gas facilities to keep its economy afloat. If 
  - [https://www.wsj.com/articles/police-seize-weapons-in-far-right-german-coup-plot-investigation-11670511823](https://www.wsj.com/articles/police-seize-weapons-in-far-right-german-coup-plot-investigation-11670511823)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-08 15:03:00+00:00
- - tags: None
 
 The group hoarded weapons, subscribed to esoteric conspiracies and commissioned occultists to help plan a coup, officials say.
 
@@ -36,7 +32,6 @@ The group hoarded weapons, subscribed to esoteric conspiracies and commissioned 
  - [https://www.wsj.com/articles/argentina-binges-on-the-world-cup-to-forget-soaring-inflation-and-unrest-11670510149](https://www.wsj.com/articles/argentina-binges-on-the-world-cup-to-forget-soaring-inflation-and-unrest-11670510149)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-08 15:00:00+00:00
- - tags: None
 
 During the monthlong tournament, protesters stay home during matches, people celebrate in the street and economic woes take a back seat.
 
@@ -44,7 +39,6 @@ During the monthlong tournament, protesters stay home during matches, people cel
  - [https://www.wsj.com/articles/perus-new-president-faces-same-turmoil-that-ousted-predecessor-11670502561](https://www.wsj.com/articles/perus-new-president-faces-same-turmoil-that-ousted-predecessor-11670502561)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-08 14:50:00+00:00
- - tags: None
 
 Dina Boluarte, the country’s first female president, began her first full day as president after Pedro Castillo was ousted by Congress.
 
@@ -52,7 +46,6 @@ Dina Boluarte, the country’s first female president, began her first full day 
  - [https://www.wsj.com/articles/prince-harry-and-meghan-markle-detail-their-royal-woes-in-netflix-series-11670502503](https://www.wsj.com/articles/prince-harry-and-meghan-markle-detail-their-royal-woes-in-netflix-series-11670502503)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-08 14:30:00+00:00
- - tags: None
 
 The couple launched their latest broadside at the British royal family, highlighting the institution’s historic links to slavery and the struggle the biracial actress faced integrating into the house of Windsor during a television series for Netflix.
 
@@ -60,7 +53,6 @@ The couple launched their latest broadside at the British royal family, highligh
  - [https://www.wsj.com/articles/south-korea-orders-truckers-back-to-work-as-labor-tensions-rise-globally-11670509840](https://www.wsj.com/articles/south-korea-orders-truckers-back-to-work-as-labor-tensions-rise-globally-11670509840)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-08 14:30:00+00:00
- - tags: None
 
 President Yoon widened the scope of a back-to-work order to include the steel and petrochemical industries, after issuing a similar order for the cement sector last week.
 
@@ -68,7 +60,6 @@ President Yoon widened the scope of a back-to-work order to include the steel an
  - [https://www.wsj.com/articles/letter-from-top-apple-supplier-foxconn-prodded-china-to-ease-zero-covid-rules-11670504366](https://www.wsj.com/articles/letter-from-top-apple-supplier-foxconn-prodded-china-to-ease-zero-covid-rules-11670504366)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-08 14:26:00+00:00
- - tags: None
 
 The founder of the world’s largest iPhone assembler warned that the government’s strict policies would threaten its position in global supply chains.
 
@@ -76,7 +67,6 @@ The founder of the world’s largest iPhone assembler warned that the government
  - [https://www.wsj.com/articles/brittney-griner-russia-prisoner-swap-11670505526](https://www.wsj.com/articles/brittney-griner-russia-prisoner-swap-11670505526)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-08 14:05:00+00:00
- - tags: None
 
 U.S. basketball star Brittney Griner was released by Russia from a penal colony in a negotiated prisoner release deal, a U.S. official said. She is in U.S. custody.
 
@@ -84,7 +74,6 @@ U.S. basketball star Brittney Griner was released by Russia from a penal colony 
  - [https://www.wsj.com/articles/brittney-griner-exchanged-for-viktor-bout-in-prisoner-swap-russia-says-11670506739](https://www.wsj.com/articles/brittney-griner-exchanged-for-viktor-bout-in-prisoner-swap-russia-says-11670506739)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-08 13:38:00+00:00
- - tags: None
 
 The U.S. basketball star landed in the U.S. early Friday after being released from a Russian penal colony as part of a prisoner exchange for a Russian arms dealer, according to a U.S. official.
 
@@ -92,7 +81,6 @@ The U.S. basketball star landed in the U.S. early Friday after being released fr
  - [https://www.wsj.com/articles/china-braces-for-deadly-covid-wave-after-loosening-controls-11670506411](https://www.wsj.com/articles/china-braces-for-deadly-covid-wave-after-loosening-controls-11670506411)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-08 13:33:00+00:00
- - tags: None
 
 Strained hospitals and the country’s poor vaccination rates could lead to over a million deaths, according to some public health experts. “It will put unprecedented strain on the Chinese health system,” a scientist said.
 
@@ -100,7 +88,6 @@ Strained hospitals and the country’s poor vaccination rates could lead to over
  - [https://www.wsj.com/articles/ukraine-says-western-allies-shouldnt-fear-russia-falling-apart-11670505120](https://www.wsj.com/articles/ukraine-says-western-allies-shouldnt-fear-russia-falling-apart-11670505120)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-08 13:12:00+00:00
- - tags: None
 
 Ukraine’s foreign minister defended Kyiv’s right to strike targets on Russian soil and vowed that Ukraine would never accept a peace settlement that leaves occupied lands, including Crimea, under Moscow’s control.
 
@@ -108,7 +95,6 @@ Ukraine’s foreign minister defended Kyiv’s right to strike targets on Russia
  - [https://www.wsj.com/articles/ukraine-hit-by-deadliest-single-russian-attack-on-civilians-in-weeks-11670500360](https://www.wsj.com/articles/ukraine-hit-by-deadliest-single-russian-attack-on-civilians-in-weeks-11670500360)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-08 11:52:00+00:00
- - tags: None
 
 Russian strikes killed at least 10 people in eastern Ukraine, as President Vladimir Putin said he was preparing for a long, protracted conflict in the country.
 
@@ -116,7 +102,6 @@ Russian strikes killed at least 10 people in eastern Ukraine, as President Vladi
  - [https://www.wsj.com/articles/iran-conducts-first-known-execution-of-prisoner-arrested-during-protests-11670497561](https://www.wsj.com/articles/iran-conducts-first-known-execution-of-prisoner-arrested-during-protests-11670497561)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-08 11:06:00+00:00
- - tags: None
 
 The man was convicted of blocking a street in Tehran by holding a “machete” and of injuring a member of the Basij paramilitary force, which has been deployed to suppress demonstrations.
 
@@ -124,6 +109,5 @@ The man was convicted of blocking a street in Tehran by holding a “machete” 
  - [https://www.wsj.com/articles/russians-march-on-foot-to-advance-yards-in-bloody-eastern-ukraine-battle-11670406883](https://www.wsj.com/articles/russians-march-on-foot-to-advance-yards-in-bloody-eastern-ukraine-battle-11670406883)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-08 10:30:00+00:00
- - tags: None
 
 The battle for Bakhmut has become a bloodbath for both sides as Russia steps up its attempts to take what used to be a quaint, tree-lined city.

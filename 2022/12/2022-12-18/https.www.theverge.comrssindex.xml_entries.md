@@ -1,4 +1,25 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+
+## Riot Games says Sam Bankman-Fried’s love of League of Legends hurts the brand
+ - [https://www.theverge.com/2022/12/18/23515510/riot-games-sam-bankman-fried-league-of-legends-ftx-reputation](https://www.theverge.com/2022/12/18/23515510/riot-games-sam-bankman-fried-league-of-legends-ftx-reputation)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-18 23:35:09+00:00
+
+<figure>
+      <img alt="Sam Bankman-Fried" src="https://cdn.vox-cdn.com/thumbor/YapwbSUcMplu-SXkV4aGJcY5_2M=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71765851/STK_226445_Sam_Bankman_Fried_FTX_1.0.jpg" />
+        <figcaption>Illustration: The Verge; Image: Getty Images</figcaption>
+    </figure>
+
+  <p id="ynCAuo"><em>League of Legends</em> developer Riot Games says Sam Bankman-Fried’s affiliation with the game is hurting the company’s image (<a href="https://twitter.com/molly0xfff/status/1603922405952573442?s=46&amp;t=Tm52HgqjnQh3z_c8vZcZ_A">via Molly White</a>). In <a href="https://www.courtlistener.com/docket/65748821/243/ftx-trading-ltd/">a filing in FTX’s bankruptcy case</a>, Riot Games asks the court to terminate its League of Legends Championship Series (LCS) sponsorship deal with the collapsed crypto exchange, citing irreversible “reputational harm.”</p>
+<p id="dC9KLf">Bankman-Fried’s love for gaming entered the spotlight following the fall of FTX, and he became notorious for playing <em>League of Legends</em> (<a href="https://www.businessinsider.in/cryptocurrency/news/sam-bankman-fried-was-playing-the-game-storybook-brawl-and-said-in-an-interview-he-didnt-think-he-would-be-detained-just-hours-before-his-arrest/articleshow/96195541.cms">and other games</a>) during meetings. In a now-deleted profile of Bankman-Fried posted by venture capital firm Sequoia, co-founder Neeraj Arora says he <a href="https://kotaku.com/ftx-crypto-scam-gamestop-token-league-legends-sbf-nft-1849767748">was even playing <em>League of Legends</em></a> during their first meeting over Zoom.</p>
+<div id="HjQEAK">
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">8) On League of Legends:<br /><br />I...</p>
+</blockquote>
+</div>
+  <p>
+    <a href="https://www.theverge.com/2022/12/18/23515510/riot-games-sam-bankman-fried-league-of-legends-ftx-reputation">Continue reading&hellip;</a>
+  </p>
 
 ## Twitter abruptly bans all links to Instagram, Mastodon, and other competitors
  - [https://www.theverge.com/2022/12/18/23515221/twitter-bans-links-instagram-mastodon-competitors](https://www.theverge.com/2022/12/18/23515221/twitter-bans-links-instagram-mastodon-competitors)

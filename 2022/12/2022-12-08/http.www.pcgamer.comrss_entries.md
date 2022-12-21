@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## I've become the reason people ragequit, and I love it
  - [https://www.pcgamer.com/ive-become-the-reason-people-ragequit-and-i-love-it](https://www.pcgamer.com/ive-become-the-reason-people-ragequit-and-i-love-it)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-08 23:28:49+00:00
- - tags: None
 
 Playing cards that make Magic: The Gathering Arena players flip the table is my happy place.
 
@@ -12,7 +11,6 @@ Playing cards that make Magic: The Gathering Arena players flip the table is my 
  - [https://www.pcgamer.com/diablo-4-devs-reportedly-struggling-to-hit-june-release-date](https://www.pcgamer.com/diablo-4-devs-reportedly-struggling-to-hit-june-release-date)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-08 22:40:20+00:00
- - tags: None
 
 Blizzard says Diablo 4's production is "going extremely well," but some employees expect to crunch.
 
@@ -20,7 +18,6 @@ Blizzard says Diablo 4's production is "going extremely well," but some employee
  - [https://www.pcgamer.com/bioshock-4-adds-ghost-of-tsushima-writer-as-narrative-lead](https://www.pcgamer.com/bioshock-4-adds-ghost-of-tsushima-writer-as-narrative-lead)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-08 22:23:07+00:00
- - tags: None
 
 Liz Albl also has writing credits on multiple Ubisoft games including Assassin's Creed: Rogue and Watch Dogs: Legion.
 
@@ -28,7 +25,6 @@ Liz Albl also has writing credits on multiple Ubisoft games including Assassin's
  - [https://www.pcgamer.com/this-gorgeous-breath-of-the-wild-like-is-being-made-by-an-overwatch-2-dev-in-his-spare-time](https://www.pcgamer.com/this-gorgeous-breath-of-the-wild-like-is-being-made-by-an-overwatch-2-dev-in-his-spare-time)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-08 21:55:16+00:00
- - tags: None
 
 Europa has a stunning painterly look and a unique far-future sci-fi setting.
 
@@ -36,7 +32,6 @@ Europa has a stunning painterly look and a unique far-future sci-fi setting.
  - [https://www.pcgamer.com/microsofts-acquisition-of-activision-blizzard-faces-roadblock-as-ftc-sues-to-stop-it](https://www.pcgamer.com/microsofts-acquisition-of-activision-blizzard-faces-roadblock-as-ftc-sues-to-stop-it)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-08 21:25:31+00:00
- - tags: None
 
 The FTC says Microsoft's treatment of Bethesda games demonstrates that it "can and will withhold content" from Sony.
 
@@ -44,7 +39,6 @@ The FTC says Microsoft's treatment of Bethesda games demonstrates that it "can a
  - [https://www.pcgamer.com/help-im-completely-mesmerized-by-this-relaxing-castle-building-sandbox](https://www.pcgamer.com/help-im-completely-mesmerized-by-this-relaxing-castle-building-sandbox)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-08 21:21:34+00:00
- - tags: None
 
 Tiny Glade is an enchanting little sandbox that lets you effortlessly build towers, walls, and fences, and even pet the little sheep.
 
@@ -52,7 +46,6 @@ Tiny Glade is an enchanting little sandbox that lets you effortlessly build towe
  - [https://www.pcgamer.com/windows-10s-powertoys-is-the-best-feature-youre-not-using](https://www.pcgamer.com/windows-10s-powertoys-is-the-best-feature-youre-not-using)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-08 21:14:56+00:00
- - tags: None
 
 If you ain't using FancyZones to arrange your Windows windows, you ain't livin'.
 
@@ -60,7 +53,6 @@ If you ain't using FancyZones to arrange your Windows windows, you ain't livin'.
  - [https://www.pcgamer.com/chained-echoes-is-a-jrpg-throwback-that-isnt-scared-to-throw-out-old-ideas](https://www.pcgamer.com/chained-echoes-is-a-jrpg-throwback-that-isnt-scared-to-throw-out-old-ideas)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-08 20:23:43+00:00
- - tags: None
 
 A speedy, deeply clever battle system helps Chained Echoes stand out from other 16-bit-inspired RPGs.
 
@@ -68,7 +60,6 @@ A speedy, deeply clever battle system helps Chained Echoes stand out from other 
  - [https://www.pcgamer.com/red-dead-redemption-2-mod-gives-arthur-a-moonshine-operation-like-red-dead-onlines](https://www.pcgamer.com/red-dead-redemption-2-mod-gives-arthur-a-moonshine-operation-like-red-dead-onlines)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-08 18:38:56+00:00
- - tags: None
 
 Set up a moonshiner camp, cook up some booze, make deliveries, and battle the law and rival moonshiners.
 
@@ -76,7 +67,6 @@ Set up a moonshiner camp, cook up some booze, make deliveries, and battle the la
  - [https://www.pcgamer.com/halo-mccs-weirdly-great-post-launch-support-continues-with-steam-workshop-integration](https://www.pcgamer.com/halo-mccs-weirdly-great-post-launch-support-continues-with-steam-workshop-integration)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-08 18:04:35+00:00
- - tags: None
 
 Far from the game it was.
 
@@ -84,7 +74,6 @@ Far from the game it was.
  - [https://www.pcgamer.com/chivalry-2-gears-up-for-merry-chivmas-with-a-massive-update-free-weekend-and-yule-goat-weapon](https://www.pcgamer.com/chivalry-2-gears-up-for-merry-chivmas-with-a-massive-update-free-weekend-and-yule-goat-weapon)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-08 18:02:18+00:00
- - tags: None
 
 It's a Christmassacre.
 
@@ -92,7 +81,6 @@ It's a Christmassacre.
  - [https://www.pcgamer.com/surprise-surprise-notorious-gambling-streamer-pushes-new-streaming-platform-with-connections-to-a-crypto-casino](https://www.pcgamer.com/surprise-surprise-notorious-gambling-streamer-pushes-new-streaming-platform-with-connections-to-a-crypto-casino)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-08 17:43:24+00:00
- - tags: None
 
 TrainwrecksTV initially failed to disclose the site's connections to gambling and cryptocurrency.
 
@@ -100,7 +88,6 @@ TrainwrecksTV initially failed to disclose the site's connections to gambling an
  - [https://www.pcgamer.com/witcher-3-next-gen-update-given-nvidia-dlss-3-frame-gen-upgrade](https://www.pcgamer.com/witcher-3-next-gen-update-given-nvidia-dlss-3-frame-gen-upgrade)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-08 16:50:08+00:00
- - tags: None
 
 Would sir care for a few more frames?
 
@@ -108,7 +95,6 @@ Would sir care for a few more frames?
  - [https://www.pcgamer.com/warzone-2-cheater-gets-delicious-comeuppance-live-during-dollar100k-tournament](https://www.pcgamer.com/warzone-2-cheater-gets-delicious-comeuppance-live-during-dollar100k-tournament)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-08 15:52:45+00:00
- - tags: None
 
 The sweet karma, how it sings to me.
 
@@ -116,7 +102,6 @@ The sweet karma, how it sings to me.
  - [https://www.pcgamer.com/pc-gamer-uk-january-issue-return-of-the-rts](https://www.pcgamer.com/pc-gamer-uk-january-issue-return-of-the-rts)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-08 15:14:06+00:00
- - tags: None
 
 Plus: Our GOTY awards, Valheim Mistlands, Demonschool, the best SSDs and more!
 
@@ -124,7 +109,6 @@ Plus: Our GOTY awards, Valheim Mistlands, Demonschool, the best SSDs and more!
  - [https://www.pcgamer.com/gabe-newell-says-steam-doesnt-need-a-call-of-duty-guarantee-from-microsoft-because-we-trust-their-intentions](https://www.pcgamer.com/gabe-newell-says-steam-doesnt-need-a-call-of-duty-guarantee-from-microsoft-because-we-trust-their-intentions)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-08 14:46:49+00:00
- - tags: None
 
 Gaben and Microsoft go way back.
 
@@ -132,7 +116,6 @@ Gaben and Microsoft go way back.
  - [https://www.pcgamer.com/ubisofts-steam-return-continues-with-the-surprise-appearance-of-immortals-fenyx-rising](https://www.pcgamer.com/ubisofts-steam-return-continues-with-the-surprise-appearance-of-immortals-fenyx-rising)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-08 14:24:23+00:00
- - tags: None
 
 The prodigal Yves comes home.
 
@@ -140,7 +123,6 @@ The prodigal Yves comes home.
  - [https://www.pcgamer.com/valheim-black-marble](https://www.pcgamer.com/valheim-black-marble)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-08 14:24:05+00:00
- - tags: None
 
 This Mistlands resource is needed for the new crafting stations.
 
@@ -148,7 +130,6 @@ This Mistlands resource is needed for the new crafting stations.
  - [https://www.pcgamer.com/alienware-teases-18-inch-monster-gaming-laptop](https://www.pcgamer.com/alienware-teases-18-inch-monster-gaming-laptop)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-08 14:12:27+00:00
- - tags: None
 
 Perhaps the first in a terrifying new breed of gargantuan gaming laptops.
 
@@ -156,7 +137,6 @@ Perhaps the first in a terrifying new breed of gargantuan gaming laptops.
  - [https://www.pcgamer.com/england-footballer-brings-a-whole-ass-pc-setup-to-the-world-cup-just-to-play-fortnite](https://www.pcgamer.com/england-footballer-brings-a-whole-ass-pc-setup-to-the-world-cup-just-to-play-fortnite)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-08 12:47:51+00:00
- - tags: None
 
 Goalie Jordan Pickford couldn't leave the battle royale at home.
 
@@ -164,7 +144,6 @@ Goalie Jordan Pickford couldn't leave the battle royale at home.
  - [https://www.pcgamer.com/truck-load-of-limited-edition-handheld-gaming-consoles-stolen](https://www.pcgamer.com/truck-load-of-limited-edition-handheld-gaming-consoles-stolen)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-08 12:24:45+00:00
- - tags: None
 
 Be on the look out for suspicious listings of Evercade EXP Limited Edition consoles.
 
@@ -172,7 +151,6 @@ Be on the look out for suspicious listings of Evercade EXP Limited Edition conso
  - [https://www.pcgamer.com/game-awards-2022-livesteam](https://www.pcgamer.com/game-awards-2022-livesteam)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-08 12:21:33+00:00
- - tags: None
 
 Catch exclusive trailers and see who triumphs in each category.
 
@@ -180,7 +158,6 @@ Catch exclusive trailers and see who triumphs in each category.
  - [https://www.pcgamer.com/its-a-big-deal-for-us-toowitcher-showrunner-totally-gets-disappointment-over-henry-cavill-leaving](https://www.pcgamer.com/its-a-big-deal-for-us-toowitcher-showrunner-totally-gets-disappointment-over-henry-cavill-leaving)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-08 12:08:49+00:00
- - tags: None
 
 Liam Hemsworth has some big shoes to fill.
 
@@ -188,7 +165,6 @@ Liam Hemsworth has some big shoes to fill.
  - [https://www.pcgamer.com/wordle-537-answer-december-8](https://www.pcgamer.com/wordle-537-answer-december-8)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-08 08:05:46+00:00
- - tags: None
 
 Wordle today: The solution and a hint for the #537 puzzle.
 
@@ -196,7 +172,6 @@ Wordle today: The solution and a hint for the #537 puzzle.
  - [https://www.pcgamer.com/things-to-read-and-watch-after-playing-darktide](https://www.pcgamer.com/things-to-read-and-watch-after-playing-darktide)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-08 05:42:34+00:00
- - tags: None
 
 Enjoy these pleasant tales of death and terror in the far future.
 
@@ -204,7 +179,6 @@ Enjoy these pleasant tales of death and terror in the far future.
  - [https://www.pcgamer.com/these-christmas-house-displays-put-gamer-rgb-lights-to-shame](https://www.pcgamer.com/these-christmas-house-displays-put-gamer-rgb-lights-to-shame)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-08 04:01:42+00:00
- - tags: None
 
 They do have a whole house to work with, to be fair.
 
@@ -212,7 +186,6 @@ They do have a whole house to work with, to be fair.
  - [https://www.pcgamer.com/dwarf-fortress-beginners-guide](https://www.pcgamer.com/dwarf-fortress-beginners-guide)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-08 03:36:45+00:00
- - tags: None
 
 How to Dwarf Fortress, for brand new baby urists.
 
@@ -220,7 +193,6 @@ How to Dwarf Fortress, for brand new baby urists.
  - [https://www.pcgamer.com/retro-shooter-ultrakill-now-has-official-sex-toy-support](https://www.pcgamer.com/retro-shooter-ultrakill-now-has-official-sex-toy-support)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-08 00:56:59+00:00
- - tags: None
 
 An "official mod" for the early access game adds support for an open source sex toy interface.
 
@@ -228,6 +200,5 @@ An "official mod" for the early access game adds support for an open source sex 
  - [https://www.pcgamer.com/if-you-like-marvels-midnight-suns-youll-like-these-marvel-comics](https://www.pcgamer.com/if-you-like-marvels-midnight-suns-youll-like-these-marvel-comics)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-08 00:22:12+00:00
- - tags: None
 
 Any one of these will give you at least +2 to friendship.

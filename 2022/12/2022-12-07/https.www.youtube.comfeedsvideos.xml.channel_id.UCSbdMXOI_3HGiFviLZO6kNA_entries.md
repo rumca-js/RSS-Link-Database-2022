@@ -1,10 +1,9 @@
-# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA
+# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, Source language: en-US
 
 ## The State of BONELAB 69 Days Later: A Learned Lesson about HYPE
  - [https://www.youtube.com/watch?v=PnBka70S1ZE](https://www.youtube.com/watch?v=PnBka70S1ZE)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA
  - date published: 2022-12-07 21:10:24+00:00
- - tags: None
 
 Hello! Welcome to my bonelab Retrospective; 69 days later I take another look at bonelab post the hype rosy glasses.. have my thoughts changed? Was it overhyped? How have the updates gone since launch? Does the campaign hold up as well as it's predecessor Boneworks? Today I answer all of those question and also talk about my own part in overhyping the game.. something that I have DEFINITELY learned a very hard lesson from. 
 

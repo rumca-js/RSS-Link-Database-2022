@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## European Commission takes step toward approving EU-US data privacy pact
  - [https://www.computerworld.com/article/3683068/european-commission-takes-step-toward-approving-eu-us-data-privacy-pact.html#tk.rss_all](https://www.computerworld.com/article/3683068/european-commission-takes-step-toward-approving-eu-us-data-privacy-pact.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-13 19:09:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3682657/a-third-of-uk-workers-to-stay-online-over-holidays-following-global-trend.html#tk.rss_all](https://www.computerworld.com/article/3682657/a-third-of-uk-workers-to-stay-online-over-holidays-following-global-trend.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-13 16:44:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -24,7 +22,6 @@
  - [https://www.computerworld.com/article/3682850/fred-brooks-is-gone-but-his-it-management-lessons-will-live-forever.html#tk.rss_all](https://www.computerworld.com/article/3682850/fred-brooks-is-gone-but-his-it-management-lessons-will-live-forever.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-13 12:30:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -34,7 +31,6 @@
  - [https://www.computerworld.com/article/3661814/about-best-places-to-work-in-it.html#tk.rss_all](https://www.computerworld.com/article/3661814/about-best-places-to-work-in-it.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-13 11:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -46,7 +42,6 @@
  - [https://www.computerworld.com/article/3681083/avanade-support-for-flex-work-fosters-efficient-it-team.html#tk.rss_all](https://www.computerworld.com/article/3681083/avanade-support-for-flex-work-fosters-efficient-it-team.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-13 11:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -56,7 +51,6 @@
  - [https://www.computerworld.com/article/3681081/best-places-to-work-in-it-2023.html#tk.rss_all](https://www.computerworld.com/article/3681081/best-places-to-work-in-it-2023.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-13 11:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -67,7 +61,6 @@
  - [https://www.computerworld.com/article/3681116/genentech-cracks-the-code-for-healthy-happy-workforce.html#tk.rss_all](https://www.computerworld.com/article/3681116/genentech-cracks-the-code-for-healthy-happy-workforce.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-13 11:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -77,7 +70,6 @@
  - [https://www.computerworld.com/article/3681340/metrostar-fast-fearless-it-culture-fueled-by-upskilling.html#tk.rss_all](https://www.computerworld.com/article/3681340/metrostar-fast-fearless-it-culture-fueled-by-upskilling.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-13 11:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

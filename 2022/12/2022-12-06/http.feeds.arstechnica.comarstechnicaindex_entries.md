@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## Adobe Stock begins selling AI-generated artwork
  - [https://arstechnica.com/?p=1902462](https://arstechnica.com/?p=1902462)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-06 23:12:30+00:00
- - tags: None
 
 AI-wielding artist must assert ownership and label each piece as "Generative AI."
 
@@ -12,7 +11,6 @@ AI-wielding artist must assert ownership and label each piece as "Generative AI.
  - [https://arstechnica.com/?p=1902497](https://arstechnica.com/?p=1902497)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-06 22:44:10+00:00
- - tags: None
 
 Changes may help devs handle inflation, exchange rates, and new content types.
 
@@ -20,7 +18,6 @@ Changes may help devs handle inflation, exchange rates, and new content types.
  - [https://arstechnica.com/?p=1902439](https://arstechnica.com/?p=1902439)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-06 21:33:51+00:00
- - tags: None
 
 The countries: Belgium, France, Germany, Italy, Poland, Spain, Sweden, and the UK.
 
@@ -28,7 +25,6 @@ The countries: Belgium, France, Germany, Italy, Poland, Spain, Sweden, and the U
  - [https://arstechnica.com/?p=1902391](https://arstechnica.com/?p=1902391)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-06 20:54:46+00:00
- - tags: None
 
 For now it's only in Europe, with a worldwide rollout coming in 2023.
 
@@ -36,7 +32,6 @@ For now it's only in Europe, with a worldwide rollout coming in 2023.
  - [https://arstechnica.com/?p=1902431](https://arstechnica.com/?p=1902431)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-06 20:44:24+00:00
- - tags: None
 
 Meta may have to rethink its ad model (again) in the next month.
 
@@ -44,7 +39,6 @@ Meta may have to rethink its ad model (again) in the next month.
  - [https://arstechnica.com/?p=1902313](https://arstechnica.com/?p=1902313)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-06 20:36:54+00:00
- - tags: None
 
 "Please do not post any rants about NFTs in this thread."
 
@@ -52,7 +46,6 @@ Meta may have to rethink its ad model (again) in the next month.
  - [https://arstechnica.com/?p=1902328](https://arstechnica.com/?p=1902328)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-06 20:13:52+00:00
- - tags: None
 
 Work pants were recovered from wreck of the SS <em>Central America</em>, which sank in 1857.
 
@@ -60,7 +53,6 @@ Work pants were recovered from wreck of the SS <em>Central America</em>, which s
  - [https://arstechnica.com/?p=1902299](https://arstechnica.com/?p=1902299)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-06 19:34:14+00:00
- - tags: None
 
 Privacy concerns shuttered similar data collection schemes from Google, Facebook.
 
@@ -68,7 +60,6 @@ Privacy concerns shuttered similar data collection schemes from Google, Facebook
  - [https://arstechnica.com/?p=1902390](https://arstechnica.com/?p=1902390)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-06 19:30:44+00:00
- - tags: None
 
 Ecommerce group commits to increasing visibility of rivals’ products.
 
@@ -76,7 +67,6 @@ Ecommerce group commits to increasing visibility of rivals’ products.
  - [https://arstechnica.com/?p=1902353](https://arstechnica.com/?p=1902353)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-06 19:17:18+00:00
- - tags: None
 
 Class action covers anyone in the US who owns iOS or Android devices.
 
@@ -84,7 +74,6 @@ Class action covers anyone in the US who owns iOS or Android devices.
  - [https://arstechnica.com/?p=1902252](https://arstechnica.com/?p=1902252)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-06 18:14:18+00:00
- - tags: None
 
 There are 200+ security and bug fixes, Google recorder improvements, and more.
 
@@ -92,7 +81,6 @@ There are 200+ security and bug fixes, Google recorder improvements, and more.
  - [https://arstechnica.com/?p=1902317](https://arstechnica.com/?p=1902317)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-06 17:57:07+00:00
- - tags: None
 
 Current and former employees blame mishaps and abuse on pressure from Musk to go faster.
 
@@ -100,7 +88,6 @@ Current and former employees blame mishaps and abuse on pressure from Musk to go
  - [https://arstechnica.com/?p=1902268](https://arstechnica.com/?p=1902268)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-06 16:55:05+00:00
- - tags: None
 
 Polestar and Mercedes show different approaches to over-the-air power upgrades.
 
@@ -108,7 +95,6 @@ Polestar and Mercedes show different approaches to over-the-air power upgrades.
  - [https://arstechnica.com/?p=1902257](https://arstechnica.com/?p=1902257)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-06 16:32:10+00:00
- - tags: None
 
 The free download, out Dec. 7, takes new PvP modes into battle-ready arenas.
 
@@ -116,7 +102,6 @@ The free download, out Dec. 7, takes new PvP modes into battle-ready arenas.
  - [https://arstechnica.com/?p=1902229](https://arstechnica.com/?p=1902229)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-06 14:38:27+00:00
- - tags: None
 
 NASA is now three weeks into a 25.5-day test flight of the Orion spacecraft.
 
@@ -124,7 +109,6 @@ NASA is now three weeks into a 25.5-day test flight of the Orion spacecraft.
  - [https://arstechnica.com/?p=1902239](https://arstechnica.com/?p=1902239)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-06 14:13:14+00:00
- - tags: None
 
 Facebook accused of leaving dangerous content online to serve business interests.
 
@@ -132,6 +116,5 @@ Facebook accused of leaving dangerous content online to serve business interests
  - [https://arstechnica.com/?p=1902213](https://arstechnica.com/?p=1902213)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-06 13:14:58+00:00
- - tags: None
 
 Holmes is currently scheduled to report to prison in April.

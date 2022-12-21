@@ -1,10 +1,9 @@
-# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
+# Source Black Pidgeon Speaks, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg, Source language: en-US
 
 ## COLLAPSE of MASCULINITY: Rise of the Nu-Male
  - [https://www.youtube.com/watch?v=XPEwCftoVGw](https://www.youtube.com/watch?v=XPEwCftoVGw)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
  - date published: 2022-12-10 19:13:17+00:00
- - tags: None
 
 🔴Grab Atlas VPN with 85% OFF using my link: https://get.atlasvpn.com/BlackPigeonSpeaks
 

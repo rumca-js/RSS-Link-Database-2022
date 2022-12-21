@@ -1,10 +1,9 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
 
 ## Twitter Keeps Missing Its Advertising Targets as Woes Mount
  - [https://www.nytimes.com/2022/12/02/technology/twitter-advertising-targets-missed.html](https://www.nytimes.com/2022/12/02/technology/twitter-advertising-targets-missed.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-12-02 23:53:12+00:00
- - tags: None
 
 Under Elon Musk, the company has cut its financial expectations as some advertisers request discounts and are offered incentives.
 
@@ -12,7 +11,6 @@ Under Elon Musk, the company has cut its financial expectations as some advertis
  - [https://www.nytimes.com/2022/12/02/technology/twitter-hate-speech.html](https://www.nytimes.com/2022/12/02/technology/twitter-hate-speech.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-12-02 14:02:52+00:00
- - tags: None
 
 Problematic content and formerly barred accounts have increased sharply in the short time since Elon Musk took over, researchers said.
 
@@ -20,7 +18,6 @@ Problematic content and formerly barred accounts have increased sharply in the s
  - [https://www.nytimes.com/2022/12/02/podcasts/hard-fork-apple-elon-musk-sbf-ftx.html](https://www.nytimes.com/2022/12/02/podcasts/hard-fork-apple-elon-musk-sbf-ftx.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-12-02 10:00:25+00:00
- - tags: None
 
 Musk takes on tech’s fight against the Apple “tax.”
 
@@ -28,6 +25,5 @@ Musk takes on tech’s fight against the Apple “tax.”
  - [https://www.nytimes.com/2022/12/01/style/crypto-awards.html](https://www.nytimes.com/2022/12/01/style/crypto-awards.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-12-02 02:02:21+00:00
- - tags: None
 
 The Crypties was intended as a gala evening in Miami to celebrate the currencies of the future. It turned out to be more of a roast.

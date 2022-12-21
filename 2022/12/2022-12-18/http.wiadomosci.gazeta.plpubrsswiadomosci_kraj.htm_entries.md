@@ -1,4 +1,4 @@
-# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm
+# Source wiadomości.gazeta.pl, Source URL:http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm, Source language: pl-PL
 
 ## Gniezno. Trzech pijanych nastolatków grasowało nocą po mieście. Uszkodzili 11 samochodów
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29277571,gniezno-trzech-pijanych-nastolatkow-grasowalo-noca-po-miescie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29277571,gniezno-trzech-pijanych-nastolatkow-grasowalo-noca-po-miescie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)

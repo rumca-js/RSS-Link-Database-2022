@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## Google Photos tests new search function to let you find people by their face
  - [https://www.androidauthority.com/google-photos-search-2-3244664/](https://www.androidauthority.com/google-photos-search-2-3244664/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-05 20:33:41+00:00
- - tags: None
 
 Only some users are seeing the new function.
 
@@ -12,7 +11,6 @@ Only some users are seeing the new function.
  - [https://www.androidauthority.com/best-sports-shows-on-every-major-streaming-service-3242922/](https://www.androidauthority.com/best-sports-shows-on-every-major-streaming-service-3242922/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-05 18:08:50+00:00
- - tags: None
 
 Comedy, drama, coming-of-age — we cover all the bases!
 
@@ -20,7 +18,6 @@ Comedy, drama, coming-of-age — we cover all the bases!
  - [https://www.androidauthority.com/google-pixel-feature-drop-december-2022-3244376/](https://www.androidauthority.com/google-pixel-feature-drop-december-2022-3244376/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-05 18:00:28+00:00
- - tags: None
 
 Google has also announced some upcoming Pixel phone and watch features.
 
@@ -28,7 +25,6 @@ Google has also announced some upcoming Pixel phone and watch features.
  - [https://www.androidauthority.com/oneplus-mechanical-keyboard-3244501/](https://www.androidauthority.com/oneplus-mechanical-keyboard-3244501/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-05 16:39:01+00:00
- - tags: None
 
 More details are expected to arrive on December 15.
 
@@ -36,7 +32,6 @@ More details are expected to arrive on December 15.
  - [https://www.androidauthority.com/best-smartphone-2022-readers-choice-voting-3243941/](https://www.androidauthority.com/best-smartphone-2022-readers-choice-voting-3243941/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-05 16:00:47+00:00
- - tags: None
 
 In this opening round, there are over 30 phones in the running. Pick your favorite!
 
@@ -44,7 +39,6 @@ In this opening round, there are over 30 phones in the running. Pick your favori
  - [https://www.androidauthority.com/android-ios-third-platform-poll-results-3244361/](https://www.androidauthority.com/android-ios-third-platform-poll-results-3244361/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-05 15:00:59+00:00
- - tags: None
 
 Just over two-thirds of polled readers think a third major smartphone platform is needed.
 
@@ -52,7 +46,6 @@ Just over two-thirds of polled readers think a third major smartphone platform i
  - [https://www.androidauthority.com/nothing-us-carriers-future-smartphone-3244414/](https://www.androidauthority.com/nothing-us-carriers-future-smartphone-3244414/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-05 12:23:01+00:00
- - tags: None
 
 Carl Pei says the Phone 2 isn't coming soon, but will it land in the US when it eventually launches?
 
@@ -60,7 +53,6 @@ Carl Pei says the Phone 2 isn't coming soon, but will it land in the US when it 
  - [https://www.androidauthority.com/what-is-google-messages-3242467/](https://www.androidauthority.com/what-is-google-messages-3242467/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-05 11:05:40+00:00
- - tags: None
 
 It might already be your default messaging app, but what is it, and how does it work?
 
@@ -68,7 +60,6 @@ It might already be your default messaging app, but what is it, and how does it 
  - [https://www.androidauthority.com/oneplus-11-design-3244394/](https://www.androidauthority.com/oneplus-11-design-3244394/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-05 10:42:55+00:00
- - tags: None
 
 It's looking more and more likely that OnePlus ditched the Pro moniker.
 
@@ -76,7 +67,6 @@ It's looking more and more likely that OnePlus ditched the Pro moniker.
  - [https://www.androidauthority.com/google-chrome-os-windows-95-feature-3244369/](https://www.androidauthority.com/google-chrome-os-windows-95-feature-3244369/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-05 09:06:55+00:00
- - tags: None
 
 Chrome OS finally has its own recycling bin feature.
 
@@ -84,7 +74,6 @@ Chrome OS finally has its own recycling bin feature.
  - [https://www.androidauthority.com/daily-authority-december-5-2022-3244345/](https://www.androidauthority.com/daily-authority-december-5-2022-3244345/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-05 08:45:13+00:00
- - tags: None
 
 Effectively recognize and control a social media addiction, get excited for Spotify Wrapped, and more in today's Edition.
 
@@ -92,7 +81,6 @@ Effectively recognize and control a social media addiction, get excited for Spot
  - [https://www.androidauthority.com/miss-samsung-galaxy-note-this-year-poll-3243802/](https://www.androidauthority.com/miss-samsung-galaxy-note-this-year-poll-3243802/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-05 06:18:19+00:00
- - tags: None
 
 Did the Galaxy S22 Ultra and Z Fold 4 make up for the missing Note family?
 
@@ -100,7 +88,6 @@ Did the Galaxy S22 Ultra and Z Fold 4 make up for the missing Note family?
  - [https://www.androidauthority.com/best-android-multiplayer-games-333224/](https://www.androidauthority.com/best-android-multiplayer-games-333224/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-05 04:02:25+00:00
- - tags: None
 
 Multiplayer games on Android are easy to find, but they're not all great. Here are the best multiplayer games for Android.
 
@@ -108,6 +95,5 @@ Multiplayer games on Android are easy to find, but they're not all great. Here a
  - [https://www.androidauthority.com/how-to-clean-apple-watch-3244331/](https://www.androidauthority.com/how-to-clean-apple-watch-3244331/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-05 00:00:16+00:00
- - tags: None
 
 Keeping your watch — and your wrist — clean and dry is the best way to care for your device.

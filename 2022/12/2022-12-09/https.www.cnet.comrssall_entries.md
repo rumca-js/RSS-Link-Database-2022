@@ -1,10 +1,9 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/
+# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
 
 ## Step Inside Ramses the Great's Ancient Egypt With Dazzling Immersive Tour     - CNET
  - [https://www.cnet.com/culture/step-inside-ancient-egypt-of-ramses-the-great-with-this-dazzling-immersive-tour/#ftag=CADf328eec](https://www.cnet.com/culture/step-inside-ancient-egypt-of-ramses-the-great-with-this-dazzling-immersive-tour/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 23:25:00+00:00
- - tags: None
 
 At the traveling exhibit Ramses the Great and the Gold of the Pharaohs, 21st century technology meets Egypt's 19th Dynasty.
 
@@ -12,7 +11,6 @@ At the traveling exhibit Ramses the Great and the Gold of the Pharaohs, 21st cen
  - [https://www.cnet.com/culture/entertainment/harry-meghan-on-netflix-what-the-royals-could-reveal/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/harry-meghan-on-netflix-what-the-royals-could-reveal/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 23:04:00+00:00
- - tags: None
 
 It's streaming on Netflix, and you can watch the bombshells now.
 
@@ -20,7 +18,6 @@ It's streaming on Netflix, and you can watch the bombshells now.
  - [https://www.cnet.com/culture/entertainment/even-lady-gagas-doing-the-viral-dance-from-netflix-hit-wednesday/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/even-lady-gagas-doing-the-viral-dance-from-netflix-hit-wednesday/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 23:02:00+00:00
- - tags: None
 
 Like so many others, she's gonna gonna dance dance dance with her hands hands hands.
 
@@ -28,7 +25,6 @@ Like so many others, she's gonna gonna dance dance dance with her hands hands ha
  - [https://www.cnet.com/culture/entertainment/yep-lady-gaga-just-did-the-viral-dance-from-netflix-hit-wednesday/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/yep-lady-gaga-just-did-the-viral-dance-from-netflix-hit-wednesday/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 22:32:00+00:00
- - tags: None
 
 Like so many others, she's gonna gonna dance dance dance with her hands hands hands.
 
@@ -36,7 +32,6 @@ Like so many others, she's gonna gonna dance dance dance with her hands hands ha
  - [https://www.cnet.com/culture/entertainment/the-21-absolute-best-films-to-watch-on-hbo-max-in-december/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-21-absolute-best-films-to-watch-on-hbo-max-in-december/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 22:28:19+00:00
- - tags: None
 
 Check out feel-good comedy 8-Bit Christmas and see what else is streaming on HBO Max.
 
@@ -44,7 +39,6 @@ Check out feel-good comedy 8-Bit Christmas and see what else is streaming on HBO
  - [https://www.cnet.com/health/medical/fda-clears-new-continuous-glucose-monitor-from-dexcom/#ftag=CADf328eec](https://www.cnet.com/health/medical/fda-clears-new-continuous-glucose-monitor-from-dexcom/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 22:13:50+00:00
- - tags: None
 
 One of our favorite CGM systems is getting an upgrade. The G7 is smaller than the G6, takes less time to warm up and comes with an improved app and alerts.
 
@@ -52,7 +46,6 @@ One of our favorite CGM systems is getting an upgrade. The G7 is smaller than th
  - [https://www.cnet.com/culture/entertainment/white-lotus-episode-6-whos-in-the-mysterious-photo-tanya-picks-up/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/white-lotus-episode-6-whos-in-the-mysterious-photo-tanya-picks-up/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 22:02:26+00:00
- - tags: None
 
 The penultimate episode of season 2 included an uncanny photograph and other signs that Tanya may not be among friends.
 
@@ -60,7 +53,6 @@ The penultimate episode of season 2 included an uncanny photograph and other sig
  - [https://www.cnet.com/science/space/nasa-mars-rover-carves-screaming-face-into-the-planets-surface/#ftag=CADf328eec](https://www.cnet.com/science/space/nasa-mars-rover-carves-screaming-face-into-the-planets-surface/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 21:58:00+00:00
- - tags: None
 
 Like an otherworldly Edvard Munch, Perseverance creates a work of art in the Martian soil. Move over, The Scream.
 
@@ -68,7 +60,6 @@ Like an otherworldly Edvard Munch, Perseverance creates a work of art in the Mar
  - [https://www.cnet.com/science/space/heres-what-might-happen-if-an-asteroid-crashed-into-your-town/#ftag=CADf328eec](https://www.cnet.com/science/space/heres-what-might-happen-if-an-asteroid-crashed-into-your-town/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 21:56:35+00:00
- - tags: None
 
 The science might not be 100% accurate yet, but we may have some ballpark predictions regarding a theoretical doomsday.
 
@@ -76,7 +67,6 @@ The science might not be 100% accurate yet, but we may have some ballpark predic
  - [https://www.cnet.com/science/science-shows-how-flushing-a-public-toilet-blasts-pathogens-absolutely-everywhere/#ftag=CADf328eec](https://www.cnet.com/science/science-shows-how-flushing-a-public-toilet-blasts-pathogens-absolutely-everywhere/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 21:56:00+00:00
- - tags: None
 
 Here's proof that flushing a public toilet is truly disgusting.
 
@@ -84,7 +74,6 @@ Here's proof that flushing a public toilet is truly disgusting.
  - [https://www.cnet.com/tech/gaming/elden-ring-wins-big-at-the-game-awards/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/elden-ring-wins-big-at-the-game-awards/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 21:42:00+00:00
- - tags: None
 
 Hades 2, Death Stranding 2 and Armored Core VI made their big reveals Thursday night.
 
@@ -92,7 +81,6 @@ Hades 2, Death Stranding 2 and Armored Core VI made their big reveals Thursday n
  - [https://www.cnet.com/culture/entertainment/white-house-plumbers-trailer-lands-woody-harrelson-in-watergate-scandal/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/white-house-plumbers-trailer-lands-woody-harrelson-in-watergate-scandal/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 21:22:00+00:00
- - tags: None
 
 The HBO Max show, which also stars Justin Theroux, is out in March 2023.
 
@@ -100,7 +88,6 @@ The HBO Max show, which also stars Justin Theroux, is out in March 2023.
  - [https://www.cnet.com/deals/grab-jedi-fallen-order-deluxe-edition-for-xbox-for-just-7/#ftag=CADf328eec](https://www.cnet.com/deals/grab-jedi-fallen-order-deluxe-edition-for-xbox-for-just-7/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 21:17:00+00:00
- - tags: None
 
 The digital version of this popular Star Wars game is 85% off right now at Amazon.
 
@@ -108,7 +95,6 @@ The digital version of this popular Star Wars game is 85% off right now at Amazo
  - [https://www.cnet.com/personal-finance/ssi-beneficiaries-your-cola-increase-check-gets-deposited-this-month-heres-when/#ftag=CADf328eec](https://www.cnet.com/personal-finance/ssi-beneficiaries-your-cola-increase-check-gets-deposited-this-month-heres-when/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 21:15:02+00:00
- - tags: None
 
 Supplemental Security Income recipients are getting their first cost-of-living adjustment in December. We'll explain why.
 
@@ -116,7 +102,6 @@ Supplemental Security Income recipients are getting their first cost-of-living a
  - [https://www.cnet.com/personal-finance/credit-cards/calculate-income-for-credit-application/#ftag=CADf328eec](https://www.cnet.com/personal-finance/credit-cards/calculate-income-for-credit-application/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 21:13:00+00:00
- - tags: None
 
 Not reporting your income properly can have serious consequences.
 
@@ -124,7 +109,6 @@ Not reporting your income properly can have serious consequences.
  - [https://www.cnet.com/tech/services-and-software/if-you-value-your-online-privacy-change-these-browser-settings-asap/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/if-you-value-your-online-privacy-change-these-browser-settings-asap/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 21:00:02+00:00
- - tags: None
 
 You can give your online privacy a major boost by taking five minutes to adjust a few settings in Chrome, Safari, Firefox, Edge or Brave.
 
@@ -132,7 +116,6 @@ You can give your online privacy a major boost by taking five minutes to adjust 
  - [https://www.cnet.com/how-to/this-easy-trick-will-stop-your-pots-from-boiling-over/#ftag=CADf328eec](https://www.cnet.com/how-to/this-easy-trick-will-stop-your-pots-from-boiling-over/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 20:34:00+00:00
- - tags: None
 
 Stop making a big mess on your stove.
 
@@ -140,7 +123,6 @@ Stop making a big mess on your stove.
  - [https://www.cnet.com/personal-finance/banking/bank-of-america-review/#ftag=CADf328eec](https://www.cnet.com/personal-finance/banking/bank-of-america-review/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 20:33:19+00:00
- - tags: None
 
 It's one of the largest banks in the US, with thousands of branches and ATMs, but its interest rates on savings accounts are among the lowest around.
 
@@ -148,7 +130,6 @@ It's one of the largest banks in the US, with thousands of branches and ATMs, bu
  - [https://www.cnet.com/culture/entertainment/these-toys-make-awesome-gifts-even-for-adults/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/these-toys-make-awesome-gifts-even-for-adults/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 20:25:41+00:00
- - tags: None
 
 More adults are buying toys for themselves. Here are my favorites for any kids at heart.
 
@@ -156,7 +137,6 @@ More adults are buying toys for themselves. Here are my favorites for any kids a
  - [https://www.cnet.com/tech/mobile/chrome-gets-passkey-support-for-easier-safer-phishing-proof-logon/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/chrome-gets-passkey-support-for-easier-safer-phishing-proof-logon/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 20:18:00+00:00
- - tags: None
 
 Passkeys also arrived on Apple devices and browsers in recent weeks as the industry works to dump flawed password technology.
 
@@ -164,7 +144,6 @@ Passkeys also arrived on Apple devices and browsers in recent weeks as the indus
  - [https://www.cnet.com/personal-finance/banking/citibank-cd-rates/#ftag=CADf328eec](https://www.cnet.com/personal-finance/banking/citibank-cd-rates/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 20:09:55+00:00
- - tags: None
 
 Think big banks don't offer higher-yielding CD rates? Citibank may change your mind.
 
@@ -172,7 +151,6 @@ Think big banks don't offer higher-yielding CD rates? Citibank may change your m
  - [https://www.cnet.com/tech/mobile/at-t-offers-up-to-1000-off-new-iphone-galaxy-upgrades-ahead-of-the-holidays/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/at-t-offers-up-to-1000-off-new-iphone-galaxy-upgrades-ahead-of-the-holidays/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 19:59:00+00:00
- - tags: None
 
 AT&amp;T has brought back its "up to $1,000 off" deal for the holiday shopping season.
 
@@ -180,7 +158,6 @@ AT&amp;T has brought back its "up to $1,000 off" deal for the holiday shopping s
  - [https://www.cnet.com/science/space/nasa-rover-carves-screaming-face-into-mars/#ftag=CADf328eec](https://www.cnet.com/science/space/nasa-rover-carves-screaming-face-into-mars/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 19:46:00+00:00
- - tags: None
 
 Like an otherworldly Edvard Munch, Perseverance serendipitously creates a work of art in the Martian soil. Move over, The Scream.
 
@@ -188,7 +165,6 @@ Like an otherworldly Edvard Munch, Perseverance serendipitously creates a work o
  - [https://www.cnet.com/culture/entertainment/harry-meghan-on-netflix-the-biggest-revelations-from-the-series-so-far/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/harry-meghan-on-netflix-the-biggest-revelations-from-the-series-so-far/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 19:35:00+00:00
- - tags: None
 
 Archie seems to have a British accent, and Meghan's half-sister, Samantha, doesn't come off well at all.
 
@@ -196,7 +172,6 @@ Archie seems to have a British accent, and Meghan's half-sister, Samantha, doesn
  - [https://www.cnet.com/tech/gaming/xbox-game-pass-will-save-you-1000-in-league-of-legends-sort-of/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/xbox-game-pass-will-save-you-1000-in-league-of-legends-sort-of/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 19:04:28+00:00
- - tags: None
 
 The new partnership with Riot Games starts Monday, Dec. 12.
 
@@ -204,7 +179,6 @@ The new partnership with Riot Games starts Monday, Dec. 12.
  - [https://www.cnet.com/personal-finance/taxes/stimulus-checks-2022-these-states-are-sending-out-tax-rebates-in-december/#ftag=CADf328eec](https://www.cnet.com/personal-finance/taxes/stimulus-checks-2022-these-states-are-sending-out-tax-rebates-in-december/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 18:51:57+00:00
- - tags: None
 
 Taxpayers in numerous states are still receiving special one-time refunds. Are you one of them?
 
@@ -212,7 +186,6 @@ Taxpayers in numerous states are still receiving special one-time refunds. Are y
  - [https://www.cnet.com/science/space/astronomers-spot-a-ghostly-light-glowing-throughout-the-solar-system/#ftag=CADf328eec](https://www.cnet.com/science/space/astronomers-spot-a-ghostly-light-glowing-throughout-the-solar-system/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 18:44:27+00:00
- - tags: None
 
 Scientists used NASA's Hubble Space Telescope to identify the presence of an unexplained glow amid the blackness of space.
 
@@ -220,7 +193,6 @@ Scientists used NASA's Hubble Space Telescope to identify the presence of an une
  - [https://www.cnet.com/culture/entertainment/the-34-absolute-best-tv-series-to-watch-on-amazon-prime-video-in-december/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-34-absolute-best-tv-series-to-watch-on-amazon-prime-video-in-december/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 18:43:36+00:00
- - tags: None
 
 This month, catch a new season of the John Krasinski-led action series Tom Clancy's Jack Ryan.
 
@@ -228,7 +200,6 @@ This month, catch a new season of the John Krasinski-led action series Tom Clanc
  - [https://www.cnet.com/personal-finance/crypto/sbf-willing-to-testify-about-collapse-of-ftx-to-congress-on-tuesday/#ftag=CADf328eec](https://www.cnet.com/personal-finance/crypto/sbf-willing-to-testify-about-collapse-of-ftx-to-congress-on-tuesday/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 18:39:16+00:00
- - tags: None
 
 Crypto exchange founder Sam Bankman-Fried has already told his story of incompetence and regret to several news outlets and beyond.
 
@@ -236,7 +207,6 @@ Crypto exchange founder Sam Bankman-Fried has already told his story of incompet
  - [https://www.cnet.com/deals/mint-mobile-holiday-sale-scores-you-3-months-of-service-for-free/#ftag=CADf328eec](https://www.cnet.com/deals/mint-mobile-holiday-sale-scores-you-3-months-of-service-for-free/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 18:35:41+00:00
- - tags: None
 
 You'll need to prepay for three months to get the other three for free, but that means you can get six months of service for as little as $45.
 
@@ -244,7 +214,6 @@ You'll need to prepay for three months to get the other three for free, but that
  - [https://www.cnet.com/how-to/your-security-cameras-are-in-the-wrong-spots-heres-where-to-put-them/#ftag=CADf328eec](https://www.cnet.com/how-to/your-security-cameras-are-in-the-wrong-spots-heres-where-to-put-them/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 18:26:53+00:00
- - tags: None
 
 Improve your home security by understanding where you should actually put your cameras.
 
@@ -252,7 +221,6 @@ Improve your home security by understanding where you should actually put your c
  - [https://www.cnet.com/personal-finance/banking/bank-of-america-cd-rates/#ftag=CADf328eec](https://www.cnet.com/personal-finance/banking/bank-of-america-cd-rates/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 18:22:37+00:00
- - tags: None
 
 Bank of America is a banking giant but offers smaller CD rates compared with other major banks.
 
@@ -260,7 +228,6 @@ Bank of America is a banking giant but offers smaller CD rates compared with oth
  - [https://www.cnet.com/health/medical/what-we-know-about-bq-1-and-bq-1-1/#ftag=CADf328eec](https://www.cnet.com/health/medical/what-we-know-about-bq-1-and-bq-1-1/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 18:16:00+00:00
- - tags: None
 
 Most cases of COVID-19 are now from the newer omicron subvariants, causing problems as the country faces high numbers of RSV and flu.
 
@@ -268,7 +235,6 @@ Most cases of COVID-19 are now from the newer omicron subvariants, causing probl
  - [https://www.cnet.com/personal-finance/medicare-price-changes-in-2023-part-a-premiums-are-getting-more-expensive/#ftag=CADf328eec](https://www.cnet.com/personal-finance/medicare-price-changes-in-2023-part-a-premiums-are-getting-more-expensive/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 18:15:02+00:00
- - tags: None
 
 If you receive Medicare, your premium costs are changing next year.
 
@@ -276,7 +242,6 @@ If you receive Medicare, your premium costs are changing next year.
  - [https://www.cnet.com/tech/services-and-software/best-stargazing-apps/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/best-stargazing-apps/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 18:00:03+00:00
- - tags: None
 
 These astronomical maps will help you spot planets, stars and constellations in the night sky.
 
@@ -284,7 +249,6 @@ These astronomical maps will help you spot planets, stars and constellations in 
  - [https://www.cnet.com/culture/your-call-is-important-to-us-stuck-in-the-deepest-darkest-circle-of-hell/#ftag=CADf328eec](https://www.cnet.com/culture/your-call-is-important-to-us-stuck-in-the-deepest-darkest-circle-of-hell/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 17:57:00+00:00
- - tags: None
 
 Commentary: Automated phone menus are the absolute worst, but it doesn't have to be this way.
 
@@ -292,7 +256,6 @@ Commentary: Automated phone menus are the absolute worst, but it doesn't have to
  - [https://www.cnet.com/science/space/potent-cosmic-blast-is-unlike-anything-astronomers-have-seen-before/#ftag=CADf328eec](https://www.cnet.com/science/space/potent-cosmic-blast-is-unlike-anything-astronomers-have-seen-before/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 17:50:00+00:00
- - tags: None
 
 A long gamma ray burst, one of the most powerful phenomena known, was traced back to a rare kilonova, leaving astrophysicists baffled.
 
@@ -300,7 +263,6 @@ A long gamma ray burst, one of the most powerful phenomena known, was traced bac
  - [https://www.cnet.com/culture/entertainment/willow-release-schedule-when-does-episode-4-come-to-disney-plus/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/willow-release-schedule-when-does-episode-4-come-to-disney-plus/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 17:41:29+00:00
- - tags: None
 
 Everything you need to know about the release dates and times for Lucasfilm's '80s-style fantasy series.
 
@@ -308,7 +270,6 @@ Everything you need to know about the release dates and times for Lucasfilm's '8
  - [https://www.cnet.com/roadshow/news/2023-subaru-wrx-pricing/#ftag=CADf328eec](https://www.cnet.com/roadshow/news/2023-subaru-wrx-pricing/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 17:37:35+00:00
- - tags: None
 
 The destination charge went up $25, as well.
 
@@ -316,7 +277,6 @@ The destination charge went up $25, as well.
  - [https://www.cnet.com/culture/entertainment/that-kooky-viral-dance-from-netflix-hit-wednesday-is-taking-over-tiktok/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/that-kooky-viral-dance-from-netflix-hit-wednesday-is-taking-over-tiktok/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 17:31:00+00:00
- - tags: None
 
 You can even get an online lesson from a professional.
 
@@ -324,7 +284,6 @@ You can even get an online lesson from a professional.
  - [https://www.cnet.com/tech/mobile/iphone-13-vs-iphone-12-which-one-is-right-for-you-in-2022/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/iphone-13-vs-iphone-12-which-one-is-right-for-you-in-2022/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 17:22:00+00:00
- - tags: None
 
 If the iPhone 14 is too pricey, we'll help you decide whether to upgrade to an iPhone 13 or iPhone 12 in 2022.
 
@@ -332,7 +291,6 @@ If the iPhone 14 is too pricey, we'll help you decide whether to upgrade to an i
  - [https://www.cnet.com/tech/mobile/heres-5-unexpected-places-to-put-your-apple-airtags/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/heres-5-unexpected-places-to-put-your-apple-airtags/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 17:14:00+00:00
- - tags: None
 
 Your keychain, wallet and phone aren't the only things you can keep track of with an Apple AirTag.
 
@@ -340,7 +298,6 @@ Your keychain, wallet and phone aren't the only things you can keep track of wit
  - [https://www.cnet.com/tech/gaming/jellycar-worlds-now-available-on-apple-arcade/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/jellycar-worlds-now-available-on-apple-arcade/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 17:08:53+00:00
- - tags: None
 
 Apple Arcade subscribers can play JellyCar Worlds now.
 
@@ -348,7 +305,6 @@ Apple Arcade subscribers can play JellyCar Worlds now.
  - [https://www.cnet.com/videos/cast-your-meta-quest-headset-to-a-tv-phone-or-browser/#ftag=CADf328eec](https://www.cnet.com/videos/cast-your-meta-quest-headset-to-a-tv-phone-or-browser/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 17:00:01+00:00
- - tags: None
 
 Here are a few ways to cast your Meta Quest VR headset to a phone, TV or browser in seconds. You can use this feature to display your gameplay to any device in your vicinity.
 
@@ -356,7 +312,6 @@ Here are a few ways to cast your Meta Quest VR headset to a phone, TV or browser
  - [https://www.cnet.com/news/advent-calendars-recalled-due-to-salmonella-tainted-chocolate/#ftag=CADf328eec](https://www.cnet.com/news/advent-calendars-recalled-due-to-salmonella-tainted-chocolate/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 16:57:00+00:00
- - tags: None
 
 The chocolate calendars were sold at US Lidl stores this holiday season.
 
@@ -364,7 +319,6 @@ The chocolate calendars were sold at US Lidl stores this holiday season.
  - [https://www.cnet.com/culture/entertainment/the-absolute-best-netflix-fantasy-movies-you-can-watch/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-absolute-best-netflix-fantasy-movies-you-can-watch/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 16:52:41+00:00
- - tags: None
 
 Netflix's fantasy options range from pure magic to touching allegories of the human condition.
 
@@ -372,7 +326,6 @@ Netflix's fantasy options range from pure magic to touching allegories of the hu
  - [https://www.cnet.com/roadshow/news/ford-gt-mk-iv-track-only-debut/#ftag=CADf328eec](https://www.cnet.com/roadshow/news/ford-gt-mk-iv-track-only-debut/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 16:51:00+00:00
- - tags: None
 
 Only 67 examples will be built, with prices starting at $1.7 million.
 
@@ -380,7 +333,6 @@ Only 67 examples will be built, with prices starting at $1.7 million.
  - [https://www.cnet.com/culture/entertainment/black-adam-post-credits-scene-dc-cameo-explained-as-movie-gets-hbo-max-release-date/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/black-adam-post-credits-scene-dc-cameo-explained-as-movie-gets-hbo-max-release-date/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 16:48:20+00:00
- - tags: None
 
 Dwayne Johnson's antihero encounters the most powerful being in DC's cinematic universe after his solo adventure wraps up. It's coming to HBO Max next week.
 
@@ -388,7 +340,6 @@ Dwayne Johnson's antihero encounters the most powerful being in DC's cinematic u
  - [https://www.cnet.com/culture/entertainment/black-adam-review-the-rocks-big-loud-supervillain-debut-is-basically-fine/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/black-adam-review-the-rocks-big-loud-supervillain-debut-is-basically-fine/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 16:47:11+00:00
- - tags: None
 
 Dwayne "The Rock" Johnson is the bad guy in this DC Comics box office hit, coming to HBO Max next week.
 
@@ -396,7 +347,6 @@ Dwayne "The Rock" Johnson is the bad guy in this DC Comics box office hit, comin
  - [https://www.cnet.com/culture/entertainment/the-absolute-best-netflix-sci-fi-tv-shows-to-check-out-soon-today/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-absolute-best-netflix-sci-fi-tv-shows-to-check-out-soon-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 16:38:41+00:00
- - tags: None
 
 These are the best of the sci-fi series on Netflix.
 
@@ -404,7 +354,6 @@ These are the best of the sci-fi series on Netflix.
  - [https://www.cnet.com/culture/entertainment/the-white-lotus-season-2-predictions-and-theories-about-who-dies/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-white-lotus-season-2-predictions-and-theories-about-who-dies/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 16:34:44+00:00
- - tags: None
 
 Everything we know heading into Sunday's finale episode.
 
@@ -412,7 +361,6 @@ Everything we know heading into Sunday's finale episode.
  - [https://www.cnet.com/tech/services-and-software/watch-argentina-vs-netherlands-world-cup-2022-match-from-anywhere/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/watch-argentina-vs-netherlands-world-cup-2022-match-from-anywhere/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 16:30:03+00:00
- - tags: None
 
 Can Virgil van Dijk and the Dutch slow down Lionel Messi and Argentina? We'll find out today when these two powers meet in the quarterfinals.
 
@@ -420,7 +368,6 @@ Can Virgil van Dijk and the Dutch slow down Lionel Messi and Argentina? We'll fi
  - [https://www.cnet.com/news/brittney-griner-back-in-the-us-after-prisoner-swap/#ftag=CADf328eec](https://www.cnet.com/news/brittney-griner-back-in-the-us-after-prisoner-swap/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 16:29:44+00:00
- - tags: None
 
 The basketball star's 10-month detention in Russia is over.
 
@@ -428,7 +375,6 @@ The basketball star's 10-month detention in Russia is over.
  - [https://www.cnet.com/culture/entertainment/the-best-movies-to-see-on-apple-tv-plus-soon-today/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-best-movies-to-see-on-apple-tv-plus-soon-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 16:26:41+00:00
- - tags: None
 
 Apple TV Plus has an assortment of options, from dramas to music documentaries and animated movies.
 
@@ -436,7 +382,6 @@ Apple TV Plus has an assortment of options, from dramas to music documentaries a
  - [https://www.cnet.com/personal-finance/banking/community-development-financial-institutions/#ftag=CADf328eec](https://www.cnet.com/personal-finance/banking/community-development-financial-institutions/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 16:26:00+00:00
- - tags: None
 
 CDFIs provide financial assistance to low-income and underserved communities.
 
@@ -444,7 +389,6 @@ CDFIs provide financial assistance to low-income and underserved communities.
  - [https://www.cnet.com/deals/snag-discounts-of-up-to-70-on-home-tools-from-hoto/#ftag=CADf328eec](https://www.cnet.com/deals/snag-discounts-of-up-to-70-on-home-tools-from-hoto/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 16:10:00+00:00
- - tags: None
 
 Electric and manual screwdriver sets, brushless drills, portable tire inflators and much more are on sale, with prices starting as low as $12.
 
@@ -452,7 +396,6 @@ Electric and manual screwdriver sets, brushless drills, portable tire inflators 
  - [https://www.cnet.com/science/space/a-messy-star-death-how-an-early-muse-of-nasas-webb-telescope-came-to-be/#ftag=CADf328eec](https://www.cnet.com/science/space/a-messy-star-death-how-an-early-muse-of-nasas-webb-telescope-came-to-be/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 15:58:55+00:00
- - tags: None
 
 The Southern Ring Nebula, brought to you by a star's explosive demise.
 
@@ -460,7 +403,6 @@ The Southern Ring Nebula, brought to you by a star's explosive demise.
  - [https://www.cnet.com/science/space/why-a-hellish-planet-could-ignite-the-quest-to-find-habitable-worlds/#ftag=CADf328eec](https://www.cnet.com/science/space/why-a-hellish-planet-could-ignite-the-quest-to-find-habitable-worlds/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 15:46:06+00:00
- - tags: None
 
 Scientists have successfully tested their new Earth-hunting device -- on one of the weirdest planets ever.
 
@@ -468,7 +410,6 @@ Scientists have successfully tested their new Earth-hunting device -- on one of 
  - [https://www.cnet.com/tech/gaming/star-wars-jedi-survivor-trailer-reveals-gameplay-march-17-release-date/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/star-wars-jedi-survivor-trailer-reveals-gameplay-march-17-release-date/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 15:44:05+00:00
- - tags: None
 
 Thursday's Game Awards brought a look at the new mechanics and returning characters in the sequel to Jedi: Fallen Order.
 
@@ -476,7 +417,6 @@ Thursday's Game Awards brought a look at the new mechanics and returning charact
  - [https://www.cnet.com/personal-finance/banking/the-best-way-to-convert-your-loose-change-into-cash/#ftag=CADf328eec](https://www.cnet.com/personal-finance/banking/the-best-way-to-convert-your-loose-change-into-cash/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 15:32:02+00:00
- - tags: None
 
 You can still convert change into bills for free -- if you know where to go.
 
@@ -484,7 +424,6 @@ You can still convert change into bills for free -- if you know where to go.
  - [https://www.cnet.com/personal-finance/banking/no-penalty-cd-vs-savings-account/#ftag=CADf328eec](https://www.cnet.com/personal-finance/banking/no-penalty-cd-vs-savings-account/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 15:20:16+00:00
- - tags: None
 
 You'll have to choose between more liquidity or higher interest rates.
 
@@ -492,7 +431,6 @@ You'll have to choose between more liquidity or higher interest rates.
  - [https://www.cnet.com/culture/entertainment/the-peripheral-ending-explained-and-all-your-questions-answered/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-peripheral-ending-explained-and-all-your-questions-answered/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 15:18:33+00:00
- - tags: None
 
 The season 1 finale dropped big twists, an ominous post-credits scene and just a couple of confusing plot points.
 
@@ -500,7 +438,6 @@ The season 1 finale dropped big twists, an ominous post-credits scene and just a
  - [https://www.cnet.com/deals/save-on-christmas-gifts-with-these-limited-time-coupons-and-sales/#ftag=CADf328eec](https://www.cnet.com/deals/save-on-christmas-gifts-with-these-limited-time-coupons-and-sales/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 15:16:00+00:00
- - tags: None
 
 Whether you're struggling for gift ideas or just rounding out your holiday list, these deals are for you.
 
@@ -508,7 +445,6 @@ Whether you're struggling for gift ideas or just rounding out your holiday list,
  - [https://www.cnet.com/deals/take-an-extra-30-off-markdowns-at-kate-spades-end-of-season-sale/#ftag=CADf328eec](https://www.cnet.com/deals/take-an-extra-30-off-markdowns-at-kate-spades-end-of-season-sale/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 15:14:16+00:00
- - tags: None
 
 Grab apparel, shoes and handbags to bring your style into the new year.
 
@@ -516,7 +452,6 @@ Grab apparel, shoes and handbags to bring your style into the new year.
  - [https://www.cnet.com/health/medical/walgreens-announces-free-paxlovid-delivery/#ftag=CADf328eec](https://www.cnet.com/health/medical/walgreens-announces-free-paxlovid-delivery/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 15:01:00+00:00
- - tags: None
 
 COVID cases are rising again, but deaths have remained low compared to earlier seasons, thanks in part to treatments like Paxlovid.
 
@@ -524,7 +459,6 @@ COVID cases are rising again, but deaths have remained low compared to earlier s
  - [https://www.cnet.com/deals/get-a-lifetime-license-to-microsoft-office-2021-for-windows-or-mac-for-just-30/#ftag=CADf328eec](https://www.cnet.com/deals/get-a-lifetime-license-to-microsoft-office-2021-for-windows-or-mac-for-just-30/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 15:00:24+00:00
- - tags: None
 
 Skip the subscription. Get a one-time license to Word, Excel, PowerPoint, Outlook, Publisher, Access and more at its lowest-ever price ever.
 
@@ -532,7 +466,6 @@ Skip the subscription. Get a one-time license to Word, Excel, PowerPoint, Outloo
  - [https://www.cnet.com/culture/entertainment/more-people-need-to-watch-the-3rd-best-sci-fi-show-on-netflix/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-the-3rd-best-sci-fi-show-on-netflix/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 15:00:20+00:00
- - tags: None
 
 Travelers is a rare sci-fi gem glinting in the shadows of Netflix's catacombs.
 
@@ -540,7 +473,6 @@ Travelers is a rare sci-fi gem glinting in the shadows of Netflix's catacombs.
  - [https://www.cnet.com/health/fitness/best-compression-socks/#ftag=CADf328eec](https://www.cnet.com/health/fitness/best-compression-socks/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 15:00:16+00:00
- - tags: None
 
 Reduce your ankle swelling with these compression socks.
 
@@ -548,7 +480,6 @@ Reduce your ankle swelling with these compression socks.
  - [https://www.cnet.com/health/medical/8-tips-for-finding-affordable-health-care-without-insurance/#ftag=CADf328eec](https://www.cnet.com/health/medical/8-tips-for-finding-affordable-health-care-without-insurance/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 15:00:08+00:00
- - tags: None
 
 There are ways you can take control of your health without breaking the bank. Here's what to know.
 
@@ -556,7 +487,6 @@ There are ways you can take control of your health without breaking the bank. He
  - [https://www.cnet.com/deals/travel-deal-dollar-flight-club-lifetime-subscription-two-pack/#ftag=CADf328eec](https://www.cnet.com/deals/travel-deal-dollar-flight-club-lifetime-subscription-two-pack/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 14:46:00+00:00
- - tags: None
 
 Love to travel? Save big and get two lifetime subscriptions for one great price.
 
@@ -564,7 +494,6 @@ Love to travel? Save big and get two lifetime subscriptions for one great price.
  - [https://www.cnet.com/deals/mario-rabbids-sparks-of-hope-is-at-all-time-low-of-32-right-now/#ftag=CADf328eec](https://www.cnet.com/deals/mario-rabbids-sparks-of-hope-is-at-all-time-low-of-32-right-now/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 14:30:00+00:00
- - tags: None
 
 One of our favorite games for the Nintendo Switch is 47% off -- today only.
 
@@ -572,7 +501,6 @@ One of our favorite games for the Nintendo Switch is 47% off -- today only.
  - [https://www.cnet.com/tech/services-and-software/watch-brazil-vs-croatia-quarterfinal-world-cup-match-from-anywhere/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/watch-brazil-vs-croatia-quarterfinal-world-cup-match-from-anywhere/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 14:23:33+00:00
- - tags: None
 
 The first huge match today features a real contrast in styles. Here's how to stream it live from anywhere in the world.
 
@@ -580,7 +508,6 @@ The first huge match today features a real contrast in styles. Here's how to str
  - [https://www.cnet.com/tech/services-and-software/amazon-wants-to-kill-the-barcode/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/amazon-wants-to-kill-the-barcode/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 14:20:00+00:00
- - tags: None
 
 Exclusive: Amazon built a computer vision algorithm from scratch to identify products without barcodes to help robots ship products to you faster.
 
@@ -588,7 +515,6 @@ Exclusive: Amazon built a computer vision algorithm from scratch to identify pro
  - [https://www.cnet.com/personal-finance/mortgages/rockland-trust-home-equity-review/#ftag=CADf328eec](https://www.cnet.com/personal-finance/mortgages/rockland-trust-home-equity-review/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 14:08:00+00:00
- - tags: None
 
 This New England regional bank offers both a home equity loan and a HELOC at competitive rates.
 
@@ -596,7 +522,6 @@ This New England regional bank offers both a home equity loan and a HELOC at com
  - [https://www.cnet.com/how-to/how-to-store-cheese-so-it-lasts-longer/#ftag=CADf328eec](https://www.cnet.com/how-to/how-to-store-cheese-so-it-lasts-longer/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 14:02:18+00:00
- - tags: None
 
 Extend the life of your fancy cheese by weeks, even months, with these cardinal rules of slicing and storage.
 
@@ -604,7 +529,6 @@ Extend the life of your fancy cheese by weeks, even months, with these cardinal 
  - [https://www.cnet.com/health/medical/14-things-to-buy-with-your-fsa-money-before-it-runs-out/#ftag=CADf328eec](https://www.cnet.com/health/medical/14-things-to-buy-with-your-fsa-money-before-it-runs-out/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 14:00:12+00:00
- - tags: None
 
 From skin care to travel pillows, purchase these things instead of letting your FSA money expire.
 
@@ -612,7 +536,6 @@ From skin care to travel pillows, purchase these things instead of letting your 
  - [https://www.cnet.com/culture/fashion/crocs-will-bring-the-joy-of-comfort-to-everyone-on-your-list/#ftag=CADf328eec](https://www.cnet.com/culture/fashion/crocs-will-bring-the-joy-of-comfort-to-everyone-on-your-list/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 14:00:00+00:00
- - tags: None
 
 And it doesn't matter whether you're in sports mode or not.
 
@@ -620,7 +543,6 @@ And it doesn't matter whether you're in sports mode or not.
  - [https://www.cnet.com/personal-finance/mortgages/here-are-todays-refinance-rates-dec-9-2022-rates-increase/#ftag=CADf328eec](https://www.cnet.com/personal-finance/mortgages/here-are-todays-refinance-rates-dec-9-2022-rates-increase/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 14:00:00+00:00
- - tags: None
 
 Several key refinance rates moved higher over the past week. If you're in the market for a refi, now's a good time to assess your options.
 
@@ -628,7 +550,6 @@ Several key refinance rates moved higher over the past week. If you're in the ma
  - [https://www.cnet.com/personal-finance/mortgages/todays-mortgage-rates-for-dec-9-2022-rates-increased/#ftag=CADf328eec](https://www.cnet.com/personal-finance/mortgages/todays-mortgage-rates-for-dec-9-2022-rates-increased/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 14:00:00+00:00
- - tags: None
 
 A few important mortgage rates crept higher over the last week. As interest rates rise, it's getting more expensive to buy a house.
 
@@ -636,7 +557,6 @@ A few important mortgage rates crept higher over the last week. As interest rate
  - [https://www.cnet.com/personal-finance/mortgages/penfed-credit-union-home-equity-review/#ftag=CADf328eec](https://www.cnet.com/personal-finance/mortgages/penfed-credit-union-home-equity-review/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 13:45:00+00:00
- - tags: None
 
 This nationally accessible credit union offers a HELOC to its more than 2 million members.
 
@@ -644,7 +564,6 @@ This nationally accessible credit union offers a HELOC to its more than 2 millio
  - [https://www.cnet.com/tech/services-and-software/how-to-watch-brazil-vs-croatia-quarter-finals-world-cup-match/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/how-to-watch-brazil-vs-croatia-quarter-finals-world-cup-match/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 13:30:03+00:00
- - tags: None
 
 This quarterfinal matchup on Friday will feature a real contrast in styles, and you can stream it live from anywhere in the world.
 
@@ -652,7 +571,6 @@ This quarterfinal matchup on Friday will feature a real contrast in styles, and 
  - [https://www.cnet.com/tech/mobile/why-this-headphone-air-filter-mashup-is-too-brilliant-and-bizarre-to-ignore/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/why-this-headphone-air-filter-mashup-is-too-brilliant-and-bizarre-to-ignore/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 13:22:09+00:00
- - tags: None
 
 Commentary: The Dyson Zone is a head scratcher. Here's why I can't stop thinking about it.
 
@@ -660,7 +578,6 @@ Commentary: The Dyson Zone is a head scratcher. Here's why I can't stop thinking
  - [https://www.cnet.com/deals/grab-this-2-quart-analog-air-fryer-for-just-16-save-29/#ftag=CADf328eec](https://www.cnet.com/deals/grab-this-2-quart-analog-air-fryer-for-just-16-save-29/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 13:06:24+00:00
- - tags: None
 
 Bring home an air fryer (or give one as a gift) for less than the average cost of takeout with this 1-day deal.
 
@@ -668,7 +585,6 @@ Bring home an air fryer (or give one as a gift) for less than the average cost o
  - [https://www.cnet.com/tech/services-and-software/amazon-aims-to-kill-the-barcode-with-ai-and-cameras/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/amazon-aims-to-kill-the-barcode-with-ai-and-cameras/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 13:00:21+00:00
- - tags: None
 
 Exclusive: Amazon built a computer vision algorithm from scratch to identify products without barcodes.
 
@@ -676,7 +592,6 @@ Exclusive: Amazon built a computer vision algorithm from scratch to identify pro
  - [https://www.cnet.com/culture/entertainment/guillermo-del-toro-reimagines-pinocchio-one-frame-at-a-time/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/guillermo-del-toro-reimagines-pinocchio-one-frame-at-a-time/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 13:00:14+00:00
- - tags: None
 
 Using stop-motion animation, the director of Pan's Labyrinth delivers a visually dazzling – and decidedly grownup – take on the wooden puppet come to life.
 
@@ -684,7 +599,6 @@ Using stop-motion animation, the director of Pan's Labyrinth delivers a visually
  - [https://www.cnet.com/how-to/a-sommelier-reveals-how-to-tell-if-that-cheap-wine-is-actually-good/#ftag=CADf328eec](https://www.cnet.com/how-to/a-sommelier-reveals-how-to-tell-if-that-cheap-wine-is-actually-good/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 13:00:07+00:00
- - tags: None
 
 Here's how to pick the best wine with the lowest price tag.
 
@@ -692,7 +606,6 @@ Here's how to pick the best wine with the lowest price tag.
  - [https://www.cnet.com/videos/apples-vr-headset-event-will-be-different/#ftag=CADf328eec](https://www.cnet.com/videos/apples-vr-headset-event-will-be-different/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 13:00:01+00:00
- - tags: None
 
 Buzz is building for Apple's VR headset. But don't expect this to be a typical announcement. CNET's Bridget Carey considers how Apple may change the playbook in revealing the rumored Reality Pro headset to the world.
 
@@ -700,7 +613,6 @@ Buzz is building for Apple's VR headset. But don't expect this to be a typical a
  - [https://www.cnet.com/personal-finance/banking/chase-2022-banking-review/#ftag=CADf328eec](https://www.cnet.com/personal-finance/banking/chase-2022-banking-review/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 13:00:00+00:00
- - tags: None
 
 This big bank offers very small yields. But if you're looking for national branch coverage and a superior digital experience, Chase provides.
 
@@ -708,7 +620,6 @@ This big bank offers very small yields. But if you're looking for national branc
  - [https://www.cnet.com/tech/why-apples-next-big-thing-still-isnt-here/#ftag=CADf328eec](https://www.cnet.com/tech/why-apples-next-big-thing-still-isnt-here/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 13:00:00+00:00
- - tags: None
 
 VR badly needs Apple to serve as a catalyst for the technology, but the tech giant isn't ready to deliver yet.
 
@@ -716,7 +627,6 @@ VR badly needs Apple to serve as a catalyst for the technology, but the tech gia
  - [https://www.cnet.com/news/pizza-ovens-are-the-hot-kitchen-gift-for-2022/#ftag=CADf328eec](https://www.cnet.com/news/pizza-ovens-are-the-hot-kitchen-gift-for-2022/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 12:00:24+00:00
- - tags: None
 
 Home pizza oven sales are booming, and these fun and easy backyard cookers are teed up as a top gift for food fans this year.
 
@@ -724,7 +634,6 @@ Home pizza oven sales are booming, and these fun and easy backyard cookers are t
  - [https://www.cnet.com/tech/mobile/best-travel-tech-gifts/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/best-travel-tech-gifts/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 12:00:12+00:00
- - tags: None
 
 Whether you're buying for an international jetsetter or an occasional traveler, there's a good gift idea on this list.
 
@@ -732,7 +641,6 @@ Whether you're buying for an international jetsetter or an occasional traveler, 
  - [https://www.cnet.com/how-to/every-holiday-feature-and-alexa-command-for-your-amazon-echo-device/#ftag=CADf328eec](https://www.cnet.com/how-to/every-holiday-feature-and-alexa-command-for-your-amazon-echo-device/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 12:00:03+00:00
- - tags: None
 
 Here's how to set up a festive smart home with Alexa.
 
@@ -740,7 +648,6 @@ Here's how to set up a festive smart home with Alexa.
  - [https://www.cnet.com/deals/walmart-black-friday-ps5-bundle-back-in-stock/#ftag=CADf328eec](https://www.cnet.com/deals/walmart-black-friday-ps5-bundle-back-in-stock/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 11:49:43+00:00
- - tags: None
 
 Walmart's PS5 bundle is back in stock with shipping available before Christmas -- but it won't last long.
 
@@ -748,7 +655,6 @@ Walmart's PS5 bundle is back in stock with shipping available before Christmas -
  - [https://www.cnet.com/tech/services-and-software/you-should-seriously-change-these-venmo-privacy-settings/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/you-should-seriously-change-these-venmo-privacy-settings/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 11:15:02+00:00
- - tags: None
 
 Payment apps like Venmo and CashApp are convenient, but you should be aware of the privacy risks.
 
@@ -756,7 +662,6 @@ Payment apps like Venmo and CashApp are convenient, but you should be aware of t
  - [https://www.cnet.com/health/sleep/6-habits-to-help-overcome-insomnia-for-better-sleep-in-2023/#ftag=CADf328eec](https://www.cnet.com/health/sleep/6-habits-to-help-overcome-insomnia-for-better-sleep-in-2023/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 11:00:02+00:00
- - tags: None
 
 Practicing these good sleep hygiene habits can help you ease insomnia.
 
@@ -764,7 +669,6 @@ Practicing these good sleep hygiene habits can help you ease insomnia.
  - [https://www.cnet.com/personal-finance/social-security-cheat-sheet-2022-heres-what-you-need-to-know-about-your-benefits/#ftag=CADf328eec](https://www.cnet.com/personal-finance/social-security-cheat-sheet-2022-heres-what-you-need-to-know-about-your-benefits/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 09:00:02+00:00
- - tags: None
 
 Learn about your benefits and clear up any questions you have on Social Security, Supplemental Security Income or Social Security Disability Insurance through this guide.
 
@@ -772,7 +676,6 @@ Learn about your benefits and clear up any questions you have on Social Security
  - [https://www.cnet.com/culture/entertainment/harry-meghan-docuseries-on-netflix-the-biggest-revelations-so-far/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/harry-meghan-docuseries-on-netflix-the-biggest-revelations-so-far/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 04:45:00+00:00
- - tags: None
 
 Archie seems to have a British accent, and Meghan's half-sister, Samantha, does not come off well at all.
 
@@ -780,7 +683,6 @@ Archie seems to have a British accent, and Meghan's half-sister, Samantha, does 
  - [https://www.cnet.com/tech/gaming/crash-is-ready-to-party-in-crash-team-rumble/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/crash-is-ready-to-party-in-crash-team-rumble/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 03:23:16+00:00
- - tags: None
 
 The whole gang is here.
 
@@ -788,7 +690,6 @@ The whole gang is here.
  - [https://www.cnet.com/tech/gaming/amazon-games-teams-up-with-bandai-namco-to-bring-blue-protocol-to-the-west/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/amazon-games-teams-up-with-bandai-namco-to-bring-blue-protocol-to-the-west/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 03:00:22+00:00
- - tags: None
 
 Another anime MMORPG to sink time into.
 
@@ -796,7 +697,6 @@ Another anime MMORPG to sink time into.
  - [https://www.cnet.com/tech/gaming/diablo-4s-bleak-storyline-is-reason-enough-to-play/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/diablo-4s-bleak-storyline-is-reason-enough-to-play/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 02:50:00+00:00
- - tags: None
 
 Commentary: Be ready to be disturbed.
 
@@ -804,7 +704,6 @@ Commentary: Be ready to be disturbed.
  - [https://www.cnet.com/science/space/billionaires-spacex-moon-mission-picks-steve-aoki-everyday-astronaut-for-starship-flight/#ftag=CADf328eec](https://www.cnet.com/science/space/billionaires-spacex-moon-mission-picks-steve-aoki-everyday-astronaut-for-starship-flight/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 02:41:55+00:00
- - tags: None
 
 Japanese billionaire's dearMoon mission finally has its crew.
 
@@ -812,7 +711,6 @@ Japanese billionaire's dearMoon mission finally has its crew.
  - [https://www.cnet.com/tech/gaming/baldurs-gate-3-gets-august-launch-shows-off-returning-heroes/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/baldurs-gate-3-gets-august-launch-shows-off-returning-heroes/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 02:31:00+00:00
- - tags: None
 
 The game is scheduled to launch in the second half of 2023.
 
@@ -820,7 +718,6 @@ The game is scheduled to launch in the second half of 2023.
  - [https://www.cnet.com/culture/entertainment/wonder-woman-3-reportedly-loses-director-patty-jenkins/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/wonder-woman-3-reportedly-loses-director-patty-jenkins/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 02:24:00+00:00
- - tags: None
 
 The director of the first two Wonder Woman movies has reportedly walked away from the threequel.
 
@@ -828,7 +725,6 @@ The director of the first two Wonder Woman movies has reportedly walked away fro
  - [https://www.cnet.com/tech/gaming/first-death-stranding-2-game-footage-revealed-at-the-game-awards/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/first-death-stranding-2-game-footage-revealed-at-the-game-awards/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 02:15:00+00:00
- - tags: None
 
 Hideo Kojima said he rewrote the game's story post-pandemic because he "didn't want to predict any more future."
 
@@ -836,7 +732,6 @@ Hideo Kojima said he rewrote the game's story post-pandemic because he "didn't w
  - [https://www.cnet.com/culture/entertainment/harry-meghan-on-netflix-the-biggest-revelations-so-far/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/harry-meghan-on-netflix-the-biggest-revelations-so-far/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 02:03:00+00:00
- - tags: None
 
 Archie seems to have a British accent, Harry goes by "Haz," and Meghan's half-sister, Samantha, does not come off well at all.
 
@@ -844,7 +739,6 @@ Archie seems to have a British accent, Harry goes by "Haz," and Meghan's half-si
  - [https://www.cnet.com/tech/gaming/star-wars-jedi-survivor-gameplay-trailer-reveals-march-17-release-date/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/star-wars-jedi-survivor-gameplay-trailer-reveals-march-17-release-date/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 01:57:00+00:00
- - tags: None
 
 Thursday's Game Awards brought another look at the sequel to Jedi: Fallen Order.
 
@@ -852,7 +746,6 @@ Thursday's Game Awards brought another look at the sequel to Jedi: Fallen Order.
  - [https://www.cnet.com/science/space/spacex-moon-missions-crew-will-include-k-pop-musician-and-actor/#ftag=CADf328eec](https://www.cnet.com/science/space/spacex-moon-missions-crew-will-include-k-pop-musician-and-actor/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 01:47:00+00:00
- - tags: None
 
 The billionaire behind the dearMoon mission has chosen artists to fly around the moon.
 
@@ -860,7 +753,6 @@ The billionaire behind the dearMoon mission has chosen artists to fly around the
  - [https://www.cnet.com/culture/entertainment/netflix-the-52-absolute-best-tv-shows-to-watch-now/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/netflix-the-52-absolute-best-tv-shows-to-watch-now/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 01:18:08+00:00
- - tags: None
 
 This weekend, catch Money Heist: Korea – Joint Economic Area (Part 2).
 
@@ -868,7 +760,6 @@ This weekend, catch Money Heist: Korea – Joint Economic Area (Part 2).
  - [https://www.cnet.com/culture/entertainment/loved-wednesday-on-netflix-watch-these-addams-family-movies-and-tv-shows/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/loved-wednesday-on-netflix-watch-these-addams-family-movies-and-tv-shows/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 01:10:00+00:00
- - tags: None
 
 Put on your best black outfit. It's time for more of the ghoulish clan portrayed in the runaway Netflix hit.
 
@@ -876,7 +767,6 @@ Put on your best black outfit. It's time for more of the ghoulish clan portrayed
  - [https://www.cnet.com/culture/entertainment/netflix-the-46-absolute-best-movies-to-binge-now/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/netflix-the-46-absolute-best-movies-to-binge-now/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 01:03:48+00:00
- - tags: None
 
 This weekend, catch Emily the Criminal and Guillermo del Toro's Pinocchio.
 
@@ -884,7 +774,6 @@ This weekend, catch Emily the Criminal and Guillermo del Toro's Pinocchio.
  - [https://www.cnet.com/news/social-media/ex-twitter-employees-speak-out-about-inhumane-layoffs-as-legal-woes-mount/#ftag=CADf328eec](https://www.cnet.com/news/social-media/ex-twitter-employees-speak-out-about-inhumane-layoffs-as-legal-woes-mount/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 00:51:00+00:00
- - tags: None
 
 The latest lawsuit against Twitter alleges the company's layoffs targeted women.
 
@@ -892,7 +781,6 @@ The latest lawsuit against Twitter alleges the company's layoffs targeted women.
  - [https://www.cnet.com/culture/entertainment/1899-on-netflix-the-big-questions-we-need-answered-in-season-2/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/1899-on-netflix-the-big-questions-we-need-answered-in-season-2/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 00:23:00+00:00
- - tags: None
 
 What's the deal with those bugs?
 
@@ -900,7 +788,6 @@ What's the deal with those bugs?
  - [https://www.cnet.com/culture/entertainment/1899-on-netflixs-bizarre-ending-explained/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/1899-on-netflixs-bizarre-ending-explained/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 00:17:00+00:00
- - tags: None
 
 1899 is a wild ride, all the way to the very end.
 
@@ -908,7 +795,6 @@ What's the deal with those bugs?
  - [https://www.cnet.com/health/sleep/three-hacks-to-help-you-fall-asleep-in-10-minutes-or-less/#ftag=CADf328eec](https://www.cnet.com/health/sleep/three-hacks-to-help-you-fall-asleep-in-10-minutes-or-less/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 00:15:07+00:00
- - tags: None
 
 When you're having trouble drifting off to sleep at night, try these three tricks.
 
@@ -916,7 +802,6 @@ When you're having trouble drifting off to sleep at night, try these three trick
  - [https://www.cnet.com/how-to/dont-get-scammed-by-a-solar-company-here-are-7-red-flags-to-avoid/#ftag=CADf328eec](https://www.cnet.com/how-to/dont-get-scammed-by-a-solar-company-here-are-7-red-flags-to-avoid/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 00:15:03+00:00
- - tags: None
 
 Get the best deal on your solar panels by knowing what sales tactics may be scams.
 
@@ -924,6 +809,5 @@ Get the best deal on your solar panels by knowing what sales tactics may be scam
  - [https://www.cnet.com/tech/alexa-thank-my-driver-make-amazon-pay-your-delivery-driver-an-extra-5-dollar-tip/#ftag=CADf328eec](https://www.cnet.com/tech/alexa-thank-my-driver-make-amazon-pay-your-delivery-driver-an-extra-5-dollar-tip/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-09 00:03:50+00:00
- - tags: None
 
 This simple Amazon Echo trick costs you nothing.

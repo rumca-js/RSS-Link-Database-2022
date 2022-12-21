@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## Ramaphosa Vows to Fight Impeachment Report and Seek Re-election
  - [https://www.nytimes.com/2022/12/03/world/africa/south-africa-cyril-ramaphosa-impeachment.html](https://www.nytimes.com/2022/12/03/world/africa/south-africa-cyril-ramaphosa-impeachment.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-03 20:06:55+00:00
- - tags: None
 
 The South African president had considered resigning after Parliament released a report last week accusing him of violating his oath of office by obscuring details about a 2020 robbery at his game farm.
 
@@ -12,7 +11,6 @@ The South African president had considered resigning after Parliament released a
  - [https://www.nytimes.com/2022/12/03/world/americas/viking-cruise-ship-rogue-wave.html](https://www.nytimes.com/2022/12/03/world/americas/viking-cruise-ship-rogue-wave.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-03 18:38:08+00:00
- - tags: None
 
 Four other passengers were hurt after a large, unpredictable wave hit the ship, which was traveling toward the Antarctic, Viking Cruises said.
 
@@ -20,7 +18,6 @@ Four other passengers were hurt after a large, unpredictable wave hit the ship, 
  - [https://www.nytimes.com/2022/12/03/world/asia/india-rahul-gandhi.html](https://www.nytimes.com/2022/12/03/world/asia/india-rahul-gandhi.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-03 12:59:56+00:00
- - tags: None
 
 Rahul Gandhi is hoping to pull his once-mighty party out of the political wilderness. The future of India as a multiparty democracy may be on the line.
 
@@ -28,7 +25,6 @@ Rahul Gandhi is hoping to pull his once-mighty party out of the political wilder
  - [https://www.nytimes.com/2022/12/03/world/europe/ukraine-kherson-evacuation.html](https://www.nytimes.com/2022/12/03/world/europe/ukraine-kherson-evacuation.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-03 12:30:42+00:00
- - tags: None
 
 A Ukrainian official urged civilians to leave the eastern bank of the Dnipro River, across from the city of Kherson, warning of the “possible intensification of hostilities” there.
 
@@ -36,7 +32,6 @@ A Ukrainian official urged civilians to leave the eastern bank of the Dnipro Riv
  - [https://www.nytimes.com/2022/12/03/briefing/holiday-rituals.html](https://www.nytimes.com/2022/12/03/briefing/holiday-rituals.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-03 11:33:26+00:00
- - tags: None
 
 Rituals make the season meaningful for many of you.
 
@@ -44,7 +39,6 @@ Rituals make the season meaningful for many of you.
  - [https://www.nytimes.com/2022/12/03/world/canada/after-half-a-century-prince-edward-islands-musical-tradition-takes-a-break.html](https://www.nytimes.com/2022/12/03/world/canada/after-half-a-century-prince-edward-islands-musical-tradition-takes-a-break.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-03 11:00:02+00:00
- - tags: None
 
 The musical theater version of “Anne of Green Gables,” a favorite of tourists from around the world, will now be staged only every other year.
 
@@ -52,7 +46,6 @@ The musical theater version of “Anne of Green Gables,” a favorite of tourist
  - [https://www.nytimes.com/2022/12/03/world/canada/prince-edward-island-musical.html](https://www.nytimes.com/2022/12/03/world/canada/prince-edward-island-musical.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-03 11:00:02+00:00
- - tags: None
 
 The musical theater version of “Anne of Green Gables,” a favorite of tourists from around the world, will now be staged only every other year.
 
@@ -60,7 +53,6 @@ The musical theater version of “Anne of Green Gables,” a favorite of tourist
  - [https://www.nytimes.com/2022/12/03/business/china-zero-covid.html](https://www.nytimes.com/2022/12/03/business/china-zero-covid.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-03 10:02:47+00:00
- - tags: None
 
 Beijing had long warned that the only effective response was testing, quarantine and lockdowns. As it shifts policy, it must change how it portrays the risks.
 
@@ -68,7 +60,6 @@ Beijing had long warned that the only effective response was testing, quarantine
  - [https://www.nytimes.com/2022/12/03/science/mauna-loa-volcano-eruption-hawaii.html](https://www.nytimes.com/2022/12/03/science/mauna-loa-volcano-eruption-hawaii.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-03 10:00:22+00:00
- - tags: None
 
 The world’s largest active volcano erupted for the first time in 38 years, raising excitement among scientists who are eager to unlock its many mysteries.
 
@@ -76,7 +67,6 @@ The world’s largest active volcano erupted for the first time in 38 years, rai
  - [https://www.nytimes.com/2022/12/03/world/europe/italy-landslide-illegal-construction-ischia.html](https://www.nytimes.com/2022/12/03/world/europe/italy-landslide-illegal-construction-ischia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-03 08:23:23+00:00
- - tags: None
 
 After 11 deaths, a series of government amnesties for illegally built homes is becoming a focus of a blame game.
 
@@ -84,7 +74,6 @@ After 11 deaths, a series of government amnesties for illegally built homes is b
  - [https://www.nytimes.com/2022/12/03/world/europe/ukraine-kherson-treason.html](https://www.nytimes.com/2022/12/03/world/europe/ukraine-kherson-treason.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-03 05:01:12+00:00
- - tags: None
 
 No one knew what to do with a lost Russian pilot who suddenly appeared in the occupied city of Kherson. The case has revealed the blurred line between pragmatism in a war zone and collaboration with the enemy.
 
@@ -92,7 +81,6 @@ No one knew what to do with a lost Russian pilot who suddenly appeared in the oc
  - [https://www.nytimes.com/2022/12/02/world/europe/macron-france-biden-diplomacy.html](https://www.nytimes.com/2022/12/02/world/europe/macron-france-biden-diplomacy.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-03 01:16:51+00:00
- - tags: None
 
 President Emmanuel Macron, dealing with a difficult start to his second term, can return to France feeling buoyed by a warm reception and unity on Ukraine.
 
@@ -100,7 +88,6 @@ President Emmanuel Macron, dealing with a difficult start to his second term, ca
  - [https://www.nytimes.com/2022/12/02/us/politics/biden-putin-ukraine-talks.html](https://www.nytimes.com/2022/12/02/us/politics/biden-putin-ukraine-talks.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-03 00:54:37+00:00
- - tags: None
 
 The Kremlin reaffirmed a stance that both Washington and Kyiv find unacceptable, and U.S. officials said Mr. Biden’s position had not changed.
 
@@ -108,6 +95,5 @@ The Kremlin reaffirmed a stance that both Washington and Kyiv find unacceptable,
  - [https://www.nytimes.com/2022/12/02/world/europe/zelensky-ukraine-orthodox-church.html](https://www.nytimes.com/2022/12/02/world/europe/zelensky-ukraine-orthodox-church.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-03 00:35:50+00:00
- - tags: None
 
 Ukraine’s president called for legislation to prevent an ancient branch of the Orthodox Church, led by a Putin ally, from operating in his country, but it remains unclear how that would work.

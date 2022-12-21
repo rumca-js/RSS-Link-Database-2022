@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Świat, Source URL:https://wydarzenia.interia.pl/swiat/feed
+# Source Wydarzenia Interia - Świat, Source URL:https://wydarzenia.interia.pl/swiat/feed, Source language: pl-PL
 
 ## Wojna w Ukrainie. 298. dzień inwazji Rosji. Relacja na żywo
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-298-dzien-inwazji-rosji-relacja-na-zywo,nzId,3523,akt,180912](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/nazywo/na-zywo-wojna-w-ukrainie-298-dzien-inwazji-rosji-relacja-na-zywo,nzId,3523,akt,180912)

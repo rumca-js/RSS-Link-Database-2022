@@ -1,4 +1,4 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss
+# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
 
 ## Former PDC finalist Simon Whitlock survives scare against Christian Perez
  - [https://www.theguardian.com/sport/2022/dec/17/former-pdc-finalist-simon-whitlock-survives-scare-against-christian-perez](https://www.theguardian.com/sport/2022/dec/17/former-pdc-finalist-simon-whitlock-survives-scare-against-christian-perez)

@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## Hans Magnus Enzensberger, Leading Light in German Letters, Dies at 93
  - [https://www.nytimes.com/2022/12/02/world/europe/hans-magnus-enzensberger-dead.html](https://www.nytimes.com/2022/12/02/world/europe/hans-magnus-enzensberger-dead.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-02 23:37:33+00:00
- - tags: None
 
 Poet, essayist, journalist and social critic, he held wide influence among a postwar literary generation with works as intellectual as they were political.
 
@@ -12,7 +11,6 @@ Poet, essayist, journalist and social critic, he held wide influence among a pos
  - [https://www.nytimes.com/2022/12/02/us/south-africa-president-cyril-ramaphosa-report.html](https://www.nytimes.com/2022/12/02/us/south-africa-president-cyril-ramaphosa-report.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-02 21:14:18+00:00
- - tags: None
 
 In the face of possible impeachment, Cyril Ramaphosa has not been seen since the release of a damning report. But his allies are urging him to fight back and remain in office.
 
@@ -20,7 +18,6 @@ In the face of possible impeachment, Cyril Ramaphosa has not been seen since the
  - [https://www.nytimes.com/2022/12/02/world/asia/pakistan-kabul-embassy-militants.html](https://www.nytimes.com/2022/12/02/world/asia/pakistan-kabul-embassy-militants.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-02 18:48:05+00:00
- - tags: None
 
 The gunfire, which critically injured one security guard, comes amid increased tensions between the two countries.
 
@@ -28,7 +25,6 @@ The gunfire, which critically injured one security guard, comes amid increased t
  - [https://www.nytimes.com/2022/12/02/world/paul-whelan-russia-prison.html](https://www.nytimes.com/2022/12/02/world/paul-whelan-russia-prison.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-02 18:39:54+00:00
- - tags: None
 
 Mr. Whelan is serving a 16-year sentence in Russia on espionage charges that the United States calls politically motivated.
 
@@ -36,7 +32,6 @@ Mr. Whelan is serving a 16-year sentence in Russia on espionage charges that the
  - [https://www.nytimes.com/2022/12/02/world/canada/canada-man-indigenous-women-murders.html](https://www.nytimes.com/2022/12/02/world/canada/canada-man-indigenous-women-murders.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-02 18:26:54+00:00
- - tags: None
 
 The suspect was accused of killing three Indigenous women and another unidentified woman, all of whom had gone missing in Winnipeg.
 
@@ -44,7 +39,6 @@ The suspect was accused of killing three Indigenous women and another unidentifi
  - [https://www.nytimes.com/2022/12/02/world/germany-ukraine-support-putin.html](https://www.nytimes.com/2022/12/02/world/germany-ukraine-support-putin.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-02 16:56:51+00:00
- - tags: None
 
 The call, which the Germany chancellery said lasted an hour, was the first between the two leaders since September.
 
@@ -52,7 +46,6 @@ The call, which the Germany chancellery said lasted an hour, was the first betwe
  - [https://www.nytimes.com/2022/12/02/world/europe/russia-oil-price-cap-explain.html](https://www.nytimes.com/2022/12/02/world/europe/russia-oil-price-cap-explain.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-02 16:49:08+00:00
- - tags: None
 
 The plan to curb Moscow’s oil revenues relies heavily on European shipping and insurance companies, but experts point to major loopholes.
 
@@ -60,7 +53,6 @@ The plan to curb Moscow’s oil revenues relies heavily on European shipping and
  - [https://www.nytimes.com/2022/12/02/world/europe/ukraine-embassies-packages-eyes.html](https://www.nytimes.com/2022/12/02/world/europe/ukraine-embassies-packages-eyes.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-02 14:11:23+00:00
- - tags: None
 
 The packages arrived several days after six letter bombs were mailed to offices in Spain, including those of Prime Minister Pedro Sánchez and the American and Ukrainian Embassies.
 
@@ -68,7 +60,6 @@ The packages arrived several days after six letter bombs were mailed to offices 
  - [https://www.nytimes.com/2022/12/02/briefing/why-hurricanes-cost-more.html](https://www.nytimes.com/2022/12/02/briefing/why-hurricanes-cost-more.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-02 11:38:44+00:00
- - tags: None
 
 The 2022 Atlantic hurricane season, which ended this week, was one of the most destructive on record.
 
@@ -76,7 +67,6 @@ The 2022 Atlantic hurricane season, which ended this week, was one of the most d
  - [https://www.nytimes.com/live/2022/12/02/world/russia-ukraine-war-news](https://www.nytimes.com/live/2022/12/02/world/russia-ukraine-war-news)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-02 11:27:38+00:00
- - tags: None
 
 Ukraine’s president asked for legislation to outlaw religious organizations affiliated with Russia. Kyiv says a Ukrainian Orthodox monastery that was raided last week may have hosted Russian spies.
 
@@ -84,7 +74,6 @@ Ukraine’s president asked for legislation to outlaw religious organizations af
  - [https://www.nytimes.com/2022/12/02/world/australia/new-zealand-and-australia-ponder-a-lower-voting-age.html](https://www.nytimes.com/2022/12/02/world/australia/new-zealand-and-australia-ponder-a-lower-voting-age.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-02 10:31:12+00:00
- - tags: None
 
 As today’s teenagers will bear the brunt of tomorrow’s problems, especially climate woes, some lawmakers think 16-year-olds deserve a say at the polls.
 
@@ -92,7 +81,6 @@ As today’s teenagers will bear the brunt of tomorrow’s problems, especially 
  - [https://www.nytimes.com/2022/12/02/world/americas/argentina-miguel-tomasin-drummer.html](https://www.nytimes.com/2022/12/02/world/americas/argentina-miguel-tomasin-drummer.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-02 10:00:44+00:00
- - tags: None
 
 Miguel Tomasín, one of the few professional musicians with Down syndrome, has brought attention to the artistic visions of people with developmental disabilities, with his band releasing over 100 albums.
 
@@ -100,7 +88,6 @@ Miguel Tomasín, one of the few professional musicians with Down syndrome, has b
  - [https://www.nytimes.com/2022/12/02/world/europe/germany-russia-nord-stream-pipeline.html](https://www.nytimes.com/2022/12/02/world/europe/germany-russia-nord-stream-pipeline.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-02 10:00:43+00:00
- - tags: None
 
 The threat of U.S. sanctions jeopardized completion of a second direct gas pipeline from Russia. So Gazprom and German officials concocted a phony climate foundation to get the job done.
 
@@ -108,7 +95,6 @@ The threat of U.S. sanctions jeopardized completion of a second direct gas pipel
  - [https://www.nytimes.com/2022/12/02/business/china-protests-surveillance.html](https://www.nytimes.com/2022/12/02/business/china-protests-surveillance.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-02 09:09:59+00:00
- - tags: None
 
 After a weekend of protests, the authorities in China are using the country’s all-seeing surveillance apparatus to find those bold enough to defy them.
 
@@ -116,7 +102,6 @@ After a weekend of protests, the authorities in China are using the country’s 
  - [https://www.nytimes.com/2022/12/02/briefing/macron-state-visit-biden.html](https://www.nytimes.com/2022/12/02/briefing/macron-state-visit-biden.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-02 05:43:57+00:00
- - tags: None
 
 Emmanuel Macron’s state visit to the U.S.
 
@@ -124,7 +109,6 @@ Emmanuel Macron’s state visit to the U.S.
  - [https://www.nytimes.com/2022/12/02/health/china-covid-lockdowns.html](https://www.nytimes.com/2022/12/02/health/china-covid-lockdowns.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-02 05:01:10+00:00
- - tags: None
 
 Huge swaths of the nation’s elderly remain vulnerable, scientists say, and a surge in deaths and hospitalizations may be inevitable.
 
@@ -132,7 +116,6 @@ Huge swaths of the nation’s elderly remain vulnerable, scientists say, and a s
  - [https://www.nytimes.com/2022/12/02/world/europe/germany-heat-pumps.html](https://www.nytimes.com/2022/12/02/world/europe/germany-heat-pumps.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-02 05:00:20+00:00
- - tags: None
 
 The boxy machines look and function like large air-conditioners on reverse, but Germans hope they hold the key to Europe’s push for fossil-free heating.
 
@@ -140,7 +123,6 @@ The boxy machines look and function like large air-conditioners on reverse, but 
  - [https://www.nytimes.com/2022/12/01/world/australia/brittany-higgins-parliament.html](https://www.nytimes.com/2022/12/01/world/australia/brittany-higgins-parliament.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-02 04:06:27+00:00
- - tags: None
 
 Mental trauma that Brittany Higgins faced from the proceedings presented a “significant and unacceptable risk” to her life, the prosecutor said.
 
@@ -148,7 +130,6 @@ Mental trauma that Brittany Higgins faced from the proceedings presented a “si
  - [https://www.nytimes.com/2022/12/01/style/ugly-christmas-sweater.html](https://www.nytimes.com/2022/12/01/style/ugly-christmas-sweater.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-02 02:39:19+00:00
- - tags: None
 
 The Times’s fashion director casts a discerning eye on this peculiar holiday tradition.
 
@@ -156,7 +137,6 @@ The Times’s fashion director casts a discerning eye on this peculiar holiday t
  - [https://www.nytimes.com/2022/12/01/world/europe/russoa-ukraine-war-infrastructure.html](https://www.nytimes.com/2022/12/01/world/europe/russoa-ukraine-war-infrastructure.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-02 00:09:19+00:00
- - tags: None
 
 Even as Ukrainian workers race to restore basic services like electricity, heat and water, new Russian airstrikes send them back to the starting line.
 
@@ -164,6 +144,5 @@ Even as Ukrainian workers race to restore basic services like electricity, heat 
  - [https://www.nytimes.com/2022/12/01/world/europe/russia-ukraine-war-infrastructure.html](https://www.nytimes.com/2022/12/01/world/europe/russia-ukraine-war-infrastructure.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-02 00:09:19+00:00
- - tags: None
 
 Even as Ukrainian workers race to restore basic services like electricity, heat and water, new Russian airstrikes send them back to the starting line.

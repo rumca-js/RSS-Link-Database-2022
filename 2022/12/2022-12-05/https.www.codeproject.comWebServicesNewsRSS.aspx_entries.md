@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## Cache invalidation really is one of the hardest problems in computer science
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59707](https://www.codeproject.com/script/News/View.aspx?nwid=59707)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-05 05:00:00+00:00
- - tags: None
 
 Except for all the others
 
@@ -12,7 +11,6 @@ Except for all the others
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59711](https://www.codeproject.com/script/News/View.aspx?nwid=59711)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-05 05:00:00+00:00
- - tags: None
 
 Hopefully not a span too far
 
@@ -20,7 +18,6 @@ Hopefully not a span too far
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59702](https://www.codeproject.com/script/News/View.aspx?nwid=59702)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-05 05:00:00+00:00
- - tags: None
 
 Is this why mine won't work for at least 5-10 years?
 
@@ -28,7 +25,6 @@ Is this why mine won't work for at least 5-10 years?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59703](https://www.codeproject.com/script/News/View.aspx?nwid=59703)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-05 05:00:00+00:00
- - tags: None
 
 "We both know what memories can bring: they bring diamonds and rust"
 
@@ -36,7 +32,6 @@ Is this why mine won't work for at least 5-10 years?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59710](https://www.codeproject.com/script/News/View.aspx?nwid=59710)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-05 05:00:00+00:00
- - tags: None
 
 Voulez vous compilez avec array, ce soir?
 
@@ -44,7 +39,6 @@ Voulez vous compilez avec array, ce soir?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59705](https://www.codeproject.com/script/News/View.aspx?nwid=59705)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-05 05:00:00+00:00
- - tags: None
 
 FWIW FYI
 
@@ -52,7 +46,6 @@ FWIW FYI
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59709](https://www.codeproject.com/script/News/View.aspx?nwid=59709)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-05 05:00:00+00:00
- - tags: None
 
 And how does that make you feel?
 
@@ -60,7 +53,6 @@ And how does that make you feel?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59708](https://www.codeproject.com/script/News/View.aspx?nwid=59708)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-05 05:00:00+00:00
- - tags: None
 
 This isn't going to end well
 
@@ -68,7 +60,6 @@ This isn't going to end well
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59706](https://www.codeproject.com/script/News/View.aspx?nwid=59706)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-05 05:00:00+00:00
- - tags: None
 
 About that long, give or take
 
@@ -76,7 +67,6 @@ About that long, give or take
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59704](https://www.codeproject.com/script/News/View.aspx?nwid=59704)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-05 05:00:00+00:00
- - tags: None
 
 I never met a verse I cared for that much
 
@@ -84,6 +74,5 @@ I never met a verse I cared for that much
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59701](https://www.codeproject.com/script/News/View.aspx?nwid=59701)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-05 05:00:00+00:00
- - tags: None
 
 A pile of boxes, with a laptop perched on top

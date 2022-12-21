@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss
+# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
 
 ## Akira Toriyama's Sand Land is Jumping Over to Anime
  - [https://gizmodo.com/sand-land-anime-adaptation-akira-toriyama-1849907650](https://gizmodo.com/sand-land-anime-adaptation-akira-toriyama-1849907650)

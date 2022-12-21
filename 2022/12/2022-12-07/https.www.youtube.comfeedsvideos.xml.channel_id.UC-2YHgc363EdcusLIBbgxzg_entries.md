@@ -1,10 +1,9 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
+# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
 
 ## What Happens When Your Eyes Have 4 Color Receptors?
  - [https://www.youtube.com/watch?v=3hbCRWexWGQ](https://www.youtube.com/watch?v=3hbCRWexWGQ)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
  - date published: 2022-12-07 19:30:01+00:00
- - tags: None
 
 Most of us have three color receptors in our eyes, picking up red, blue, and green hues. But some people have an extra type of cone, that picks up slightly different wavelengths. Do you have this superpower?
 

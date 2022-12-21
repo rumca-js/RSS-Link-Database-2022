@@ -1,4 +1,4 @@
-# Source Newsweek, Source URL:https://www.newsweek.com/rss
+# Source Newsweek, Source URL:https://www.newsweek.com/rss, Source language: en-US
 
 ## A Million Russians Call Surrender Hotline as Death Toll Nears 100K: Intel
  - [https://www.newsweek.com/million-russians-call-surrender-hotline-death-toll-nears-100k-intel-1767956](https://www.newsweek.com/million-russians-call-surrender-hotline-death-toll-nears-100k-intel-1767956)

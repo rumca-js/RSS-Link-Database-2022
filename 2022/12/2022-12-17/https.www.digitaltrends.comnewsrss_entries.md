@@ -1,4 +1,4 @@
-# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss
+# Source Digital Trends, Source URL:https://www.digitaltrends.com/news/rss, Source language: en-US
 
 ## Bad news: AMD may have launched RDNA 3 before it was quite ready
  - [https://www.digitaltrends.com/computing/amd-radeon-rx-7900-xtx-xt-are-unfinished/](https://www.digitaltrends.com/computing/amd-radeon-rx-7900-xtx-xt-are-unfinished/)

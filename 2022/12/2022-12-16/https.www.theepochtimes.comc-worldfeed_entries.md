@@ -1,10 +1,9 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/
+# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
 
 ## Alberta Starts 5-Year Plan to Boost Rural Economy
  - [https://www.theepochtimes.com/alberta-starts-5-year-plan-to-boost-rural-economy_4929148.html](https://www.theepochtimes.com/alberta-starts-5-year-plan-to-boost-rural-economy_4929148.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 23:58:01+00:00
- - tags: None
 
 A file photo of horses grazing on the Eden Valley Reserve in Alberta. (Jeff McIntosh/The Canadian Press)
 
@@ -12,7 +11,6 @@ A file photo of horses grazing on the Eden Valley Reserve in Alberta. (Jeff McIn
  - [https://www.theepochtimes.com/ontarios-goal-to-decarbonize-by-2050-will-cost-400-billion-says-electrical-grid-operator_4928958.html](https://www.theepochtimes.com/ontarios-goal-to-decarbonize-by-2050-will-cost-400-billion-says-electrical-grid-operator_4928958.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 23:51:41+00:00
- - tags: None
 
 Hydro towers run through a golf course in Toronto in this file photo. (Darren Calabrese/The Canadian Press)
 
@@ -20,7 +18,6 @@ Hydro towers run through a golf course in Toronto in this file photo. (Darren Ca
  - [https://www.theepochtimes.com/retiree-investment-scammer-jailed_4928027.html](https://www.theepochtimes.com/retiree-investment-scammer-jailed_4928027.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 23:16:51+00:00
- - tags: None
 
 
 
@@ -28,7 +25,6 @@ Hydro towers run through a golf course in Toronto in this file photo. (Darren Ca
  - [https://www.theepochtimes.com/australias-jobless-rate-stays-at-3-4-percent-in-november-despite-sharp-employment-growth_4927908.html](https://www.theepochtimes.com/australias-jobless-rate-stays-at-3-4-percent-in-november-despite-sharp-employment-growth_4927908.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 22:51:01+00:00
- - tags: None
 
 The staff of Fadezone barber shop are seen cutting hair in Sydney, Australia, on Oct. 11, 2021. (Mark Kolbe/Getty Images)
 
@@ -36,7 +32,6 @@ The staff of Fadezone barber shop are seen cutting hair in Sydney, Australia, on
  - [https://www.theepochtimes.com/public-safety-saw-no-national-security-criminality-in-freedom-convoy-internal-documents_4929499.html](https://www.theepochtimes.com/public-safety-saw-no-national-security-criminality-in-freedom-convoy-internal-documents_4929499.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 22:17:15+00:00
- - tags: None
 
 A protester rides on top of a ladder in the back of a pick-up truck during the freedom protest in Ottawa on Jan. 29, 2022. (Noé Chartier/The Epoch Times)
 
@@ -44,7 +39,6 @@ A protester rides on top of a ladder in the back of a pick-up truck during the f
  - [https://www.theepochtimes.com/netherlands-imposes-rent-control-on-300000-homes-to-deal-with-affordability-crisis_4927735.html](https://www.theepochtimes.com/netherlands-imposes-rent-control-on-300000-homes-to-deal-with-affordability-crisis_4927735.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 21:53:50+00:00
- - tags: None
 
 Passengers ride on a tour boat along a canal in Amsterdam in the Netherlands on June 17, 2022. (Remko De Waal/ANP/AFP via Getty Images)
 
@@ -52,7 +46,6 @@ Passengers ride on a tour boat along a canal in Amsterdam in the Netherlands on 
  - [https://www.theepochtimes.com/ontario-and-british-columbia-headed-for-a-buyers-market-rbc-says_4929306.html](https://www.theepochtimes.com/ontario-and-british-columbia-headed-for-a-buyers-market-rbc-says_4929306.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 20:33:36+00:00
- - tags: None
 
 A real estate sign is pictured in Vancouver, B.C., June, 12, 2018.(The Canadian Press/Jonathan Hayward)
 
@@ -60,7 +53,6 @@ A real estate sign is pictured in Vancouver, B.C., June, 12, 2018.(The Canadian 
  - [https://www.theepochtimes.com/montreal-meeting-between-prime-minister-and-quebec-premier-snowed-out_4929287.html](https://www.theepochtimes.com/montreal-meeting-between-prime-minister-and-quebec-premier-snowed-out_4929287.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 20:29:36+00:00
- - tags: None
 
 Prime Minister Justin Trudeau takes part in a bilateral meeting with Premier François Legault during the Francophonie Summit in Djerba, Tunisia, Nov. 19, 2022. (The Canadian Press/Sean Kilpatrick)
 
@@ -68,7 +60,6 @@ Prime Minister Justin Trudeau takes part in a bilateral meeting with Premier Fra
  - [https://www.theepochtimes.com/ottawa-mayor-local-businesses-welcome-expected-return-of-federal-workers-to-offices_4929261.html](https://www.theepochtimes.com/ottawa-mayor-local-businesses-welcome-expected-return-of-federal-workers-to-offices_4929261.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 20:23:00+00:00
- - tags: None
 
 Ottawa Mayor Mark Sutcliffe takes part in a new conference, in Ottawa on Dec. 5, 2022. (The Canadian Press/Sean Kilpatrick)
 
@@ -76,7 +67,6 @@ Ottawa Mayor Mark Sutcliffe takes part in a new conference, in Ottawa on Dec. 5,
  - [https://www.theepochtimes.com/judicial-tyranny-in-brazil_4927659.html](https://www.theepochtimes.com/judicial-tyranny-in-brazil_4927659.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 20:00:58+00:00
- - tags: None
 
 Brazil's Supreme Federal Court Minister Alexandre de Moraes talks to the media after casting his vote for the legislative and presidential election, in Sao Paulo, Brazil, on Oct. 2, 2022. (Miguel Schincariol/AFP via Getty Images)
 
@@ -84,7 +74,6 @@ Brazil's Supreme Federal Court Minister Alexandre de Moraes talks to the media a
  - [https://www.theepochtimes.com/whats-next-after-mps-unanimously-pass-bill-to-combat-forced-organ-harvesting_4928646.html](https://www.theepochtimes.com/whats-next-after-mps-unanimously-pass-bill-to-combat-forced-organ-harvesting_4928646.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 19:51:10+00:00
- - tags: None
 
 "Organ Crimes," an oil painting by Xiqiang Dong depicting the seizure of organs from a living Falun Gong practitioner in China. (Courtesy of Xiqiang Dong)
 
@@ -92,7 +81,6 @@ Brazil's Supreme Federal Court Minister Alexandre de Moraes talks to the media a
  - [https://www.theepochtimes.com/most-canadians-prefer-merry-christmas-to-happy-holidays-poll_4928641.html](https://www.theepochtimes.com/most-canadians-prefer-merry-christmas-to-happy-holidays-poll_4928641.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 19:35:34+00:00
- - tags: None
 
 (Pixabay)
 
@@ -100,7 +88,6 @@ Brazil's Supreme Federal Court Minister Alexandre de Moraes talks to the media a
  - [https://www.theepochtimes.com/why-are-our-undergrads-struggling_4928536.html](https://www.theepochtimes.com/why-are-our-undergrads-struggling_4928536.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 19:25:35+00:00
- - tags: None
 
 "Comprehending the books assigned in class can be a real challenge for them. I notice this when I ask students to read a passage out loud in class. I’m surprised when they stumble over commonplace words," writes David Livingstone. (Shutterstock)
 
@@ -108,7 +95,6 @@ Brazil's Supreme Federal Court Minister Alexandre de Moraes talks to the media a
  - [https://www.theepochtimes.com/door-is-open-on-possible-federal-subsidy-to-help-farmers-with-high-fertilizer-costs-says-freeland_4928482.html](https://www.theepochtimes.com/door-is-open-on-possible-federal-subsidy-to-help-farmers-with-high-fertilizer-costs-says-freeland_4928482.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 19:20:59+00:00
- - tags: None
 
 Deputy Prime Minister and Minister of Finance Chrystia Freeland speaks to reporters at the Parliament Hill in Ottawa on June 23, 2022. (The Canadian Press/Justin Tang)
 
@@ -116,7 +102,6 @@ Deputy Prime Minister and Minister of Finance Chrystia Freeland speaks to report
  - [https://www.theepochtimes.com/china-increasing-its-violation-of-international-norms-daily-says-minister-joly_4928745.html](https://www.theepochtimes.com/china-increasing-its-violation-of-international-norms-daily-says-minister-joly_4928745.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 19:07:06+00:00
- - tags: None
 
 Foreign Affairs Minister Melanie Joly responds to questions as Public Safety Minister Marco Mendocino listens during a news conference to announce Canada's Indo-Pacific strategy in Vancouver on Nov. 27, 2022. (The Canadian Press/Darryl Dyck)
 
@@ -124,7 +109,6 @@ Foreign Affairs Minister Melanie Joly responds to questions as Public Safety Min
  - [https://www.theepochtimes.com/chinese-companies-submit-to-us-audit-watchdog-inspection-avert-delisting-threat-for-now_4928978.html](https://www.theepochtimes.com/chinese-companies-submit-to-us-audit-watchdog-inspection-avert-delisting-threat-for-now_4928978.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 19:06:06+00:00
- - tags: None
 
 The logo of accounting firm PricewaterhouseCoopers (PwC) is seen on a board at the St. Petersburg International Economic Forum 2017 in St. Petersburg, Russia, on June 1, 2017. (Reuters/Sergei Karpukhin)
 
@@ -132,7 +116,6 @@ The logo of accounting firm PricewaterhouseCoopers (PwC) is seen on a board at t
  - [https://www.theepochtimes.com/iea-says-global-coal-consumption-will-reach-all-time-high-this-year_4928483.html](https://www.theepochtimes.com/iea-says-global-coal-consumption-will-reach-all-time-high-this-year_4928483.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 18:46:48+00:00
- - tags: None
 
 Workers walk near an excavator loading coal onto a truck at a coal port in Hanoi, Vietnam, on Feb. 23, 2012. (Kham/Reuters)
 
@@ -140,7 +123,6 @@ Workers walk near an excavator loading coal onto a truck at a coal port in Hanoi
  - [https://www.theepochtimes.com/labour-retains-stretford-and-urmston-with-10-5-percent-swing-from-tories_4928508.html](https://www.theepochtimes.com/labour-retains-stretford-and-urmston-with-10-5-percent-swing-from-tories_4928508.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 18:46:24+00:00
- - tags: None
 
 Labour's Andrew Western after winning the Stretford and Urmston by-election at Old Trafford in Greater Manchester, on Dec. 16, 2022. (PA Media/Danny Lawson)
 
@@ -148,7 +130,6 @@ Labour's Andrew Western after winning the Stretford and Urmston by-election at O
  - [https://www.theepochtimes.com/ccp-halts-location-tracking-app-for-covid-control-but-continues-using-it-to-monitor-citizens-expert_4928828.html](https://www.theepochtimes.com/ccp-halts-location-tracking-app-for-covid-control-but-continues-using-it-to-monitor-citizens-expert_4928828.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 18:32:43+00:00
- - tags: None
 
 Passengers wearing facemasks check their health code with a sheet held by an aiport staff (R) before the counter area following preventive procedures against the spread of the COVID-19 coronavirus in Pudong International Airport in Shanghai, on June 11, 2020. (Hector Retamal/AFP via Getty Images)
 
@@ -156,7 +137,6 @@ Passengers wearing facemasks check their health code with a sheet held by an aip
  - [https://www.theepochtimes.com/3-rescued-after-helicopter-crash-in-gulf-of-mexico_4928592.html](https://www.theepochtimes.com/3-rescued-after-helicopter-crash-in-gulf-of-mexico_4928592.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 18:12:27+00:00
- - tags: None
 
 Rescuers swimming to raft with people aboard in the Gulf of Mexico on Dec. 15 2022. (US Coast Guard District 8/Screenshot via The Epoch Times)
 
@@ -164,7 +144,6 @@ Rescuers swimming to raft with people aboard in the Gulf of Mexico on Dec. 15 20
  - [https://www.theepochtimes.com/magical-messi-saves-his-best-for-last-in-qatar_4928744.html](https://www.theepochtimes.com/magical-messi-saves-his-best-for-last-in-qatar_4928744.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 18:05:18+00:00
- - tags: None
 
 Lionel Messi of Argentina celebrates scoring the first goal from the penalty spot during the FIFA World Cup Qatar 2022 semi final match between Argentina and Croatia at Lusail Stadium in Lusail City, Qatar, on Dec. 13, 2022. (Richard Heathcote/Getty Images)
 
@@ -172,7 +151,6 @@ Lionel Messi of Argentina celebrates scoring the first goal from the penalty spo
  - [https://www.theepochtimes.com/turkey-russia-syria-axis-taking-shape-after-erdogan-calls-for-meeting-with-assad_4928610.html](https://www.theepochtimes.com/turkey-russia-syria-axis-taking-shape-after-erdogan-calls-for-meeting-with-assad_4928610.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 17:50:49+00:00
- - tags: None
 
 Russian President Vladimir Putin meets with his Turkish counterpart Recep Tayyip Erdogan in the Black Sea resort of Sochi on Feb. 14, 2019. (Sergei Chirikov/AFP via Getty Images)
 
@@ -180,7 +158,6 @@ Russian President Vladimir Putin meets with his Turkish counterpart Recep Tayyip
  - [https://www.theepochtimes.com/tax-dodging-during-covid-19-pandemic-cost-uk-9-billion-watchdog_4928384.html](https://www.theepochtimes.com/tax-dodging-during-covid-19-pandemic-cost-uk-9-billion-watchdog_4928384.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 17:15:22+00:00
- - tags: None
 
 Models of a man and woman stand on a pile of British coins and bank notes, in this file photo dated Sept. 11, 2018. (Joe Giddens/PA Media)
 
@@ -188,7 +165,6 @@ Models of a man and woman stand on a pile of British coins and bank notes, in th
  - [https://www.theepochtimes.com/landslide-buries-malaysian-campground-killing-at-least-16_4927806.html](https://www.theepochtimes.com/landslide-buries-malaysian-campground-killing-at-least-16_4927806.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 17:06:00+00:00
- - tags: None
 
 The Bridge Rope Swing in Kuala Kubu Bharu, Selangor, Malaysia. (Screenshot via Google Maps)
 
@@ -196,7 +172,6 @@ The Bridge Rope Swing in Kuala Kubu Bharu, Selangor, Malaysia. (Screenshot via G
  - [https://www.theepochtimes.com/west-sees-decline-of-medical-ethics-by-ignoring-chinas-forced-organ-harvesting-advocate_4921992.html](https://www.theepochtimes.com/west-sees-decline-of-medical-ethics-by-ignoring-chinas-forced-organ-harvesting-advocate_4921992.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 16:38:31+00:00
- - tags: None
 
 Falun Gong practitioners take part in a parade to raise awareness about the Chinese regime's brutal persecution of the spritual practice, including forced organ harvesting, in New York on May 13, 2022. (Larry Dye/The Epoch Times)
 
@@ -204,7 +179,6 @@ Falun Gong practitioners take part in a parade to raise awareness about the Chin
  - [https://www.theepochtimes.com/eurozone-business-activity-falls-at-slower-rate-in-dec-inflation-eases-pmi_4928511.html](https://www.theepochtimes.com/eurozone-business-activity-falls-at-slower-rate-in-dec-inflation-eases-pmi_4928511.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 16:17:38+00:00
- - tags: None
 
 European Union flags flutter outside the EU Commission headquarters in Brussels, Belgium, on May 5, 2021. (Yves Herman/Reuters)
 
@@ -212,7 +186,6 @@ European Union flags flutter outside the EU Commission headquarters in Brussels,
  - [https://www.theepochtimes.com/asian-stocks-tumble-as-feds-latest-rate-hike-triggers-market-fear_4928018.html](https://www.theepochtimes.com/asian-stocks-tumble-as-feds-latest-rate-hike-triggers-market-fear_4928018.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 16:14:52+00:00
- - tags: None
 
 A man walks past an electronic board showing the numbers on the Tokyo Stock Exchange, along a street in Tokyo on Dec. 7, 2022. (Yuichi Yamazaki/AFP via Getty Images)
 
@@ -220,7 +193,6 @@ A man walks past an electronic board showing the numbers on the Tokyo Stock Exch
  - [https://www.theepochtimes.com/southeastern-ontario-could-see-between-10-20-cm-of-snow-as-storm-continues-east_4928551.html](https://www.theepochtimes.com/southeastern-ontario-could-see-between-10-20-cm-of-snow-as-storm-continues-east_4928551.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 16:00:24+00:00
- - tags: None
 
 A man runs across a downtown street during a winter storm in Toronto on Feb. 27, 2019. (The Canadian Press/Frank Gunn)
 
@@ -228,7 +200,6 @@ A man runs across a downtown street during a winter storm in Toronto on Feb. 27,
  - [https://www.theepochtimes.com/community-run-initiative-emphasizes-self-sufficiency-to-give-hope-and-employment-to-the-underprivileged_4918388.html](https://www.theepochtimes.com/community-run-initiative-emphasizes-self-sufficiency-to-give-hope-and-employment-to-the-underprivileged_4918388.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 15:43:56+00:00
- - tags: None
 
 Graduates and associates of the New Life Neighbourhood Centre Productivity HUB pose for a photo at the New Life Seventh-day Adventist Church in Oshawa, Ont., on Nov. 30, 2022. (Peter Wilson/The Epoch Times)
 
@@ -236,7 +207,6 @@ Graduates and associates of the New Life Neighbourhood Centre Productivity HUB p
  - [https://www.theepochtimes.com/ontario-man-charged-in-fbi-investigation-into-alleged-isis-financial-support_4928478.html](https://www.theepochtimes.com/ontario-man-charged-in-fbi-investigation-into-alleged-isis-financial-support_4928478.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 15:37:11+00:00
- - tags: None
 
 The Supreme Court of Canada is seen, on January 16, 2020 in Ottawa. (The Canadian Press/Adrian Wyld)
 
@@ -244,7 +214,6 @@ The Supreme Court of Canada is seen, on January 16, 2020 in Ottawa. (The Canadia
  - [https://www.theepochtimes.com/senate-expenses-up-70-over-past-7-years-committee-finds_4928222.html](https://www.theepochtimes.com/senate-expenses-up-70-over-past-7-years-committee-finds_4928222.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 14:47:12+00:00
- - tags: None
 
 The Senate Chamber is seen in Ottawa on Feb. 18, 2019. (The Canadian Press/Sean Kilpatrick)
 
@@ -252,7 +221,6 @@ The Senate Chamber is seen in Ottawa on Feb. 18, 2019. (The Canadian Press/Sean 
  - [https://www.theepochtimes.com/fire-near-french-city-of-lyon-kills-10-including-children_4928298.html](https://www.theepochtimes.com/fire-near-french-city-of-lyon-kills-10-including-children_4928298.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 14:35:17+00:00
- - tags: None
 
 French firefighters work at the scene of a massive building fire where 10 people died and 14 injured in Vaulx-en-Velin, near Lyon, France, on Dec. 16, 2022. (Sarah Meyssonnier/Reuters)
 
@@ -260,7 +228,6 @@ French firefighters work at the scene of a massive building fire where 10 people
  - [https://www.theepochtimes.com/hong-kong-government-to-mandate-acoustic-vehicle-alert-system-installation-on-all-electric-and-hybrid-vehicles_4915820.html](https://www.theepochtimes.com/hong-kong-government-to-mandate-acoustic-vehicle-alert-system-installation-on-all-electric-and-hybrid-vehicles_4915820.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 14:13:52+00:00
- - tags: None
 
 Tesla Model S 85D on the street in Hong Kong on Dec. 12, 2022. (Bill Cox/The Epoch Times)
 
@@ -268,7 +235,6 @@ Tesla Model S 85D on the street in Hong Kong on Dec. 12, 2022. (Bill Cox/The Epo
  - [https://www.theepochtimes.com/germany-huge-berlin-aquarium-bursts-releases-flood-of-fish_4928220.html](https://www.theepochtimes.com/germany-huge-berlin-aquarium-bursts-releases-flood-of-fish_4928220.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 13:50:36+00:00
- - tags: None
 
 Debris lay in front of a hotel in Berlin, Germany, on Dec. 16, 2022. (Christoph Soeder/dpa via AP)
 
@@ -276,7 +242,6 @@ Debris lay in front of a hotel in Berlin, Germany, on Dec. 16, 2022. (Christoph 
  - [https://www.theepochtimes.com/tennis-legend-becker-freed-from-prison-returns-to-germany_4928212.html](https://www.theepochtimes.com/tennis-legend-becker-freed-from-prison-returns-to-germany_4928212.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 13:11:07+00:00
- - tags: None
 
 Former tennis player Boris Becker arrives at Southwark Crown Court in London on April 29, 2022. (Adrian Dennis/AFP via Getty Images)
 
@@ -284,7 +249,6 @@ Former tennis player Boris Becker arrives at Southwark Crown Court in London on 
  - [https://www.theepochtimes.com/4-critically-injured-after-hundreds-of-gatecrashers-try-to-get-in-to-afrobeats-gig-in-london_4928079.html](https://www.theepochtimes.com/4-critically-injured-after-hundreds-of-gatecrashers-try-to-get-in-to-afrobeats-gig-in-london_4928079.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 12:01:06+00:00
- - tags: None
 
 Brixton's O2 Academy is cordoned by police off in London, on Dec. 16, 2022. (Dan Kitwood/Getty Images)
 
@@ -292,7 +256,6 @@ Brixton's O2 Academy is cordoned by police off in London, on Dec. 16, 2022. (Dan
  - [https://www.theepochtimes.com/german-lawmakers-ok-defense-purchases-that-include-f-35-jets_4925715.html](https://www.theepochtimes.com/german-lawmakers-ok-defense-purchases-that-include-f-35-jets_4925715.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 11:33:13+00:00
- - tags: None
 
 A U.S. F-35A fighter jet lands at Chungju Air Base in Chungju, South Korea on March 29, 2019. (South Korea Defense Acquisition Program Administration via Getty Images)
 
@@ -300,7 +263,6 @@ A U.S. F-35A fighter jet lands at Chungju Air Base in Chungju, South Korea on Ma
  - [https://www.theepochtimes.com/india-test-fires-nuclear-capable-ballistic-missile-after-border-clash-with-china_4927611.html](https://www.theepochtimes.com/india-test-fires-nuclear-capable-ballistic-missile-after-border-clash-with-china_4927611.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 04:45:49+00:00
- - tags: None
 
 The long range ballistic Agni-V missile is displayed during Republic Day parade, in New Delhi, India, on Jan. 26, 2013. (Manish Swarup/AP Photo)
 
@@ -308,7 +270,6 @@ The long range ballistic Agni-V missile is displayed during Republic Day parade,
  - [https://www.theepochtimes.com/australian-state-promises-to-triple-women-in-construction_4925254.html](https://www.theepochtimes.com/australian-state-promises-to-triple-women-in-construction_4925254.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 04:36:14+00:00
- - tags: None
 
 A recent report suggests that progress finding suitable female construction workers had been slow. (Sergey Tinyakov/Shutterstock)
 
@@ -316,7 +277,6 @@ A recent report suggests that progress finding suitable female construction work
  - [https://www.theepochtimes.com/east-timor-urges-australian-pm-to-support-development-of-gas-pipeline_4927654.html](https://www.theepochtimes.com/east-timor-urges-australian-pm-to-support-development-of-gas-pipeline_4927654.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 03:00:45+00:00
- - tags: None
 
 Timor-Leste President José Ramos-Horta meets with then-Leader of the Opposition Peter Dutton in Parliament House in Canberra, Wednesday, May 1, 2019. (AAP Image/Mick Tsikas)
 
@@ -324,7 +284,6 @@ Timor-Leste President José Ramos-Horta meets with then-Leader of the Opposition
  - [https://www.theepochtimes.com/us-funded-program-in-australia-to-help-pacific-nations-battle-cybersecurity-threats_4927489.html](https://www.theepochtimes.com/us-funded-program-in-australia-to-help-pacific-nations-battle-cybersecurity-threats_4927489.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 02:56:00+00:00
- - tags: None
 
 (Pixabay)
 
@@ -332,7 +291,6 @@ Timor-Leste President José Ramos-Horta meets with then-Leader of the Opposition
  - [https://www.theepochtimes.com/aussies-play-key-role-in-new-space-mission_4927552.html](https://www.theepochtimes.com/aussies-play-key-role-in-new-space-mission_4927552.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 02:50:07+00:00
- - tags: None
 
 A SpaceX Falcon 9 rocket with the Dragon capsule launches from Pad-39A on the Crew 5 mission carrying crew members to the International Space Station from NASA's Kennedy Space Center in Cape Canaveral, Fla., on Oct. 5, 2022. (Joe Skipper/Reuters)
 
@@ -340,7 +298,6 @@ A SpaceX Falcon 9 rocket with the Dragon capsule launches from Pad-39A on the Cr
  - [https://www.theepochtimes.com/collaboration-on-one-of-the-leading-causes-of-blindness-seeks-to-find-more-effective-treatments_4922833.html](https://www.theepochtimes.com/collaboration-on-one-of-the-leading-causes-of-blindness-seeks-to-find-more-effective-treatments_4922833.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 02:16:43+00:00
- - tags: None
 
 Macular degeneration  (AMD or ARMD)- is a medical condition which may result in  blurred or no vision in the center of the visual field. (Tunatura/Shutterstock)
 
@@ -348,7 +305,6 @@ Macular degeneration  (AMD or ARMD)- is a medical condition which may result in 
  - [https://www.theepochtimes.com/alberta-says-its-taking-jurisdiction-on-firearms-offences-away-from-ottawa_4926891.html](https://www.theepochtimes.com/alberta-says-its-taking-jurisdiction-on-firearms-offences-away-from-ottawa_4926891.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 01:55:04+00:00
- - tags: None
 
 Alberta Justice Minister Tyler Shandro answers questions at a news conference in Calgary on Sept. 3, 2021. (The Canadian Press/Todd Korol)
 
@@ -356,7 +312,6 @@ Alberta Justice Minister Tyler Shandro answers questions at a news conference in
  - [https://www.theepochtimes.com/australian-minister-urges-caution-in-speculating-on-police-killers-motives_4927335.html](https://www.theepochtimes.com/australian-minister-urges-caution-in-speculating-on-police-killers-motives_4927335.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 01:38:16+00:00
- - tags: None
 
 Tributes are seen at Tara Police Station in Tara, Queensland, Australia on Dec. 14, 2022. Police have shot dead three people at a remote property on Queensland's Darling Downs after an ambush in which two officers and a bystander were killed. (AAP Image/Jason O’Brien)
 
@@ -364,7 +319,6 @@ Tributes are seen at Tara Police Station in Tara, Queensland, Australia on Dec. 
  - [https://www.theepochtimes.com/report-finds-net-zero-and-ban-on-coal-gas-projects-will-cost-southwest-queensland-47-billion_4925459.html](https://www.theepochtimes.com/report-finds-net-zero-and-ban-on-coal-gas-projects-will-cost-southwest-queensland-47-billion_4925459.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 01:16:17+00:00
- - tags: None
 
 A general view of the Loy Yang power plants in Traralgon, Australia, on Aug. 17, 2022. (Asanka Ratnayake/Getty Images)
 
@@ -372,7 +326,6 @@ A general view of the Loy Yang power plants in Traralgon, Australia, on Aug. 17,
  - [https://www.theepochtimes.com/climate-activist-spared-jail-over-blockade_4927504.html](https://www.theepochtimes.com/climate-activist-spared-jail-over-blockade_4927504.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 00:34:23+00:00
- - tags: None
 
 Police officers detain a protestor during a rally in Sydney. Climate activist group Blockade Australia stage a protest in Sydney, Tuesday, June 28, 2022. (AAP Image/Flavio Brancaleone)
 
@@ -380,6 +333,5 @@ Police officers detain a protestor during a rally in Sydney. Climate activist gr
  - [https://www.theepochtimes.com/radical-swedish-professor-calls-on-activists-to-destroy-fossil-fuel-infrastructure_4926782.html](https://www.theepochtimes.com/radical-swedish-professor-calls-on-activists-to-destroy-fossil-fuel-infrastructure_4926782.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-16 00:13:22+00:00
- - tags: None
 
 Activists with Just Stop Oil glue their hands to the wall after throwing soup at  Vincent van Gogh's "Sunflowers" at the National Gallery in London, on Oct. 14, 2022. (Just Stop Oil/Handout via Reuters)

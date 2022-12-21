@@ -1,4 +1,4 @@
-# Source The Hated One, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q
+# Source The Hated One, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q, Source language: en-US
 
 ## How Kurzgesagt Cooks Propaganda For Billionaires
  - [https://www.youtube.com/watch?v=HjHMoNGqQTI](https://www.youtube.com/watch?v=HjHMoNGqQTI)

@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Elon Musk’s $8 Twitter Blue subscription is coming back with phone number verification and a higher price on iOS
  - [https://www.theverge.com/2022/12/10/23503355/twitter-blue-verification-elon-musk-phone-number-ads](https://www.theverge.com/2022/12/10/23503355/twitter-blue-verification-elon-musk-phone-number-ads)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-10 22:08:15+00:00
- - tags: None
 
 <figure>
       <img alt="Twitter’s logo" src="https://cdn.vox-cdn.com/thumbor/KJHjUYQxX5PsLCTP6pA7OryXNms=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71735117/acastro_STK050_01.0.jpg" />
@@ -26,7 +25,6 @@
  - [https://www.theverge.com/2022/12/10/23503083/apple-employees-discrimination-abuse-ndas](https://www.theverge.com/2022/12/10/23503083/apple-employees-discrimination-abuse-ndas)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-10 20:08:06+00:00
- - tags: None
 
 <figure>
       <img alt="Illustration depicting several Apple logos on a lime green background." src="https://cdn.vox-cdn.com/thumbor/UiWE4ilpmnOBXS-sYBZKEFEyvKM=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71734800/VRG_Illo_5258_K_Radtke_WWDC.0.jpg" />
@@ -43,7 +41,6 @@
  - [https://www.theverge.com/2022/12/10/23502937/sec-disclose-cryptocurrency-bankruptcy-involvement](https://www.theverge.com/2022/12/10/23502937/sec-disclose-cryptocurrency-bankruptcy-involvement)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-10 17:03:30+00:00
- - tags: None
 
 <figure>
       <img alt="An image of the Bitcoin logo on a gold coin surrounded by other coins" src="https://cdn.vox-cdn.com/thumbor/vAvA5YHXQdsc02k1muGjTMS_Iuc=/365x239:2650x1762/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71734347/acastro_170726_1777_0007_v6.0.jpg" />
@@ -60,7 +57,6 @@
  - [https://www.theverge.com/23500508/holiday-gift-ideas-kids-children-teens-unique-tech-gadgets](https://www.theverge.com/23500508/holiday-gift-ideas-kids-children-teens-unique-tech-gadgets)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-10 15:30:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/8-OudpOJqaObIQWJO3VJNdTlq0Y=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71734103/226333_HOLIDAYGIFTGUIDE_TAMAGOTCHI_01_jgoldberg.0.jpg" />
@@ -77,7 +73,6 @@
  - [https://www.theverge.com/23501949/philips-hue-festavia-string-lights-review](https://www.theverge.com/23501949/philips-hue-festavia-string-lights-review)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-10 15:30:00+00:00
- - tags: None
 
 <p>The Philips Hue Festavia string lights look great and add a lot of fun to any holiday decor. They’re expensive, though, and only really worth it if you’ve bought into the Hue ecosystem. </p>
   <p>
@@ -88,7 +83,6 @@
  - [https://www.theverge.com/2022/12/10/23501195/apple-ipad-air-2022-sony-wh-1000xm5-headphones-fitbit-versa-4-xbox-playstation-gift-cards-deal-sale](https://www.theverge.com/2022/12/10/23501195/apple-ipad-air-2022-sony-wh-1000xm5-headphones-fitbit-versa-4-xbox-playstation-gift-cards-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-10 14:56:08+00:00
- - tags: None
 
 <figure>
       <img alt="The 2022 iPad Air" src="https://cdn.vox-cdn.com/thumbor/KHOioIP91uASOCSmYgOv9SoXfg0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71733982/akrales_220314_5071_0026.0.jpg" />
@@ -105,7 +99,6 @@
  - [https://www.theverge.com/2022/12/10/23502197/artemis-1-mission-watch-splasdown-end-how-to-live](https://www.theverge.com/2022/12/10/23502197/artemis-1-mission-watch-splasdown-end-how-to-live)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-10 13:30:00+00:00
- - tags: None
 
 <figure>
       <img alt="A row of people stand silhouetted against the orange glow of a distant rocket launch." src="https://cdn.vox-cdn.com/thumbor/cqxh9hRwLCrZvgngTjVqNFpgeSA=/37x0:3552x2343/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71733760/1244957517.0.jpg" />
@@ -124,7 +117,6 @@
  - [https://www.theverge.com/2022/12/9/23502559/stellantis-electrification-costs-layoffs-plant-halt](https://www.theverge.com/2022/12/9/23502559/stellantis-electrification-costs-layoffs-plant-halt)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-10 02:08:23+00:00
- - tags: None
 
 <figure>
       <img alt="Photo of a blue and white Jeep Wrangler driving on rocks." src="https://cdn.vox-cdn.com/thumbor/4-t7PPgKlCmP9wKmY-lvQM_Q5gI=/89x0:1960x1247/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71732966/CN022_007JP4frirnvh38gkl59j1p0gpih696_2048x1247.0.jpg" />

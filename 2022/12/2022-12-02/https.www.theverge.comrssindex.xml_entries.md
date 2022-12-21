@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Motorola’s Edge 30 Fusion is coming to the US in pink, and I don’t hate it
  - [https://www.theverge.com/2022/12/2/23490142/motorola-edge-30-fusion-viva-magenta-pantone-color-of-the-year-2023](https://www.theverge.com/2022/12/2/23490142/motorola-edge-30-fusion-viva-magenta-pantone-color-of-the-year-2023)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-02 19:46:16+00:00
- - tags: None
 
 <figure>
       <img alt="Motorola edge 30 Fusion in Viva Magenta showing back and front of the device." src="https://cdn.vox-cdn.com/thumbor/r8EDC27N7c4f0lYSZRZkDYUwg4A=/0x84:2000x1417/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71702171/motorola_edge_30_fusion_VivaMagenta_PDP_HERO.0.jpg" />
@@ -21,7 +20,6 @@
  - [https://www.theverge.com/2022/12/2/23488771/wind-energy-pollution-study-biden-environmental-justice](https://www.theverge.com/2022/12/2/23488771/wind-energy-pollution-study-biden-environmental-justice)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-02 19:22:11+00:00
- - tags: None
 
 <figure>
       <img alt="Wind turbines stand behind homes" src="https://cdn.vox-cdn.com/thumbor/iscsLZy0bBHVo08R800KgbUW7Ko=/9x0:3591x2388/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71702067/1140671715.0.jpg" />
@@ -38,7 +36,6 @@
  - [https://www.theverge.com/2022/12/2/23490114/us-army-call-of-duty-league-sponsorship-activision-blizzard-allegations](https://www.theverge.com/2022/12/2/23490114/us-army-call-of-duty-league-sponsorship-activision-blizzard-allegations)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-02 19:21:26+00:00
- - tags: None
 
 <figure>
       <img alt="Toronto Ultra, OverActive Medias Call of Duty League franchise, hosts Canada’s first-ever Call of Duty League (CDL) Major tournament, the Toronto Ultra Major III Tournament, at the Mattamy Athletic Centre from June 2 to 5." src="https://cdn.vox-cdn.com/thumbor/Oqi64WoK03bT0bAeDBm9j3zJbus=/181x0:4654x2982/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71702060/1241085972.0.jpg" />
@@ -55,7 +52,6 @@
  - [https://www.theverge.com/2022/12/2/23490072/rcs-end-to-end-encryption-group-chats-messages-android-google-imessage](https://www.theverge.com/2022/12/2/23490072/rcs-end-to-end-encryption-group-chats-messages-android-google-imessage)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-02 18:45:54+00:00
- - tags: None
 
 <figure>
       <img alt="Google’s Brian Rakowski is onstage in front of a screen. The screen has a person holding a Pixel 7 phone behind the letters “RCS.”" src="https://cdn.vox-cdn.com/thumbor/SVNn2iFnu2Uq0vIigl24HzDcxf0=/0x0:2000x1333/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71701812/lcimg_75f77f76_2a9e_49ef_a925_d75e00eb1a91.0.jpeg" />
@@ -75,7 +71,6 @@
  - [https://www.theverge.com/2022/12/2/23489932/activision-blizzard-albany-qa-union](https://www.theverge.com/2022/12/2/23489932/activision-blizzard-albany-qa-union)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-02 18:04:59+00:00
- - tags: None
 
 <figure>
       <img alt="Graphic of the Blizzard logo" src="https://cdn.vox-cdn.com/thumbor/30b_ep9EJ6CBMQLvmOYdEG1i3KI=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71701602/acastro_STK047_02.0.jpg" />
@@ -93,7 +88,6 @@
  - [https://www.theverge.com/2022/12/2/23490068/clip-studio-paint-ai-image-generator-cancels-celsys-digital-illustration](https://www.theverge.com/2022/12/2/23490068/clip-studio-paint-ai-image-generator-cancels-celsys-digital-illustration)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-02 18:02:41+00:00
- - tags: None
 
 <figure>
       <img alt="An illustrated logo for Clip Studio Paint" src="https://cdn.vox-cdn.com/thumbor/GQQ2g4ZJDmOhwgc1ipN7WXL62tA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71701581/acastro_STK464.0.jpg" />
@@ -110,7 +104,6 @@
  - [https://www.theverge.com/2022/12/2/23489899/meta-quest-pro-mixed-reality-capture-background-audio-software-update](https://www.theverge.com/2022/12/2/23489899/meta-quest-pro-mixed-reality-capture-background-audio-software-update)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-02 17:37:56+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/GPOt_6avL3XNEBAtAaBm-BSvZrs=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71701428/226369_Meta_Quest_Pro_AKrales_0255.0.jpg" />
@@ -147,7 +140,6 @@
  - [https://www.theverge.com/2022/12/2/23489957/beat-saber-flash-sale-dlc-songs-half-off-lizzo-bts-weeknd](https://www.theverge.com/2022/12/2/23489957/beat-saber-flash-sale-dlc-songs-half-off-lizzo-bts-weeknd)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-02 17:12:41+00:00
- - tags: None
 
 <figure>
       <img alt="Beat Saber’s flash sale graphic" src="https://cdn.vox-cdn.com/thumbor/jkYWNacO_4SQIEedehuemEYaQ9c=/121x0:780x439/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71701311/317934620_655725566041611_5678783223186048185_n.0.png" />
@@ -164,7 +156,6 @@
  - [https://www.theverge.com/2022/12/2/23489808/elon-musk-twitter-hate-speech-increase-content-moderation](https://www.theverge.com/2022/12/2/23489808/elon-musk-twitter-hate-speech-increase-content-moderation)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-02 17:01:51+00:00
- - tags: None
 
 <figure>
       <img alt="Twitter bird logo in white, over a red and black background." src="https://cdn.vox-cdn.com/thumbor/GXeo8NqIRIqs0Mltu_c-M_D-Njc=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71701286/acastro_STK050_06.0.jpg" />
@@ -184,7 +175,6 @@
  - [https://www.theverge.com/2022/12/2/23489700/iphone-ios-16-2-public-beta-4-notification-center-one-swipe-feature-update](https://www.theverge.com/2022/12/2/23489700/iphone-ios-16-2-public-beta-4-notification-center-one-swipe-feature-update)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-02 16:31:13+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/wxTl-zHVGd-PZ6_pYx4xvPfLNhE=/0x0:4320x2880/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71701066/Screenshot_2022_12_02_at_9.54.08_AM.0.jpeg" />
@@ -203,7 +193,6 @@
  - [https://www.theverge.com/2022/12/2/23489738/alex-jones-bankruptcy-filing-chapter-11-sandy-hook-defamation-damages](https://www.theverge.com/2022/12/2/23489738/alex-jones-bankruptcy-filing-chapter-11-sandy-hook-defamation-damages)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-02 15:47:50+00:00
- - tags: None
 
 <figure>
       <img alt="Alex Jones Speaks To The Media Outside The Sandy Hook Trial In Waterbury, Connecticut" src="https://cdn.vox-cdn.com/thumbor/TicWqUNRlbyDfIO9UwNEUfwwMds=/0x0:8358x5572/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71700829/1425983307.0.jpg" />
@@ -220,7 +209,6 @@
  - [https://www.theverge.com/23488926/coros-apex-2-apex-2-pro-review-smartwatch-fitness](https://www.theverge.com/23488926/coros-apex-2-apex-2-pro-review-smartwatch-fitness)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-02 15:30:00+00:00
- - tags: None
 
 <p>These are good multisport watches that zero in on the basics but miss some popular features that would make them great.</p>
   <p>
@@ -231,7 +219,6 @@
  - [https://www.theverge.com/23381124/work-from-home-wfh-remote-office-holiday-gift-guide-2022-supplies-tech-gadgets](https://www.theverge.com/23381124/work-from-home-wfh-remote-office-holiday-gift-guide-2022-supplies-tech-gadgets)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-02 15:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/_YXdm6DyQ7wZC-HYnQYi5ZvYXyo=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71700639/226333_HOLIDAYGIFTGUIDE_AIRPODS_02_jgoldberg.0.jpg" />
@@ -248,7 +235,6 @@
  - [https://www.theverge.com/2022/12/2/23487926/deathloop-ps5-elden-ring-apple-magic-keyboard-deal-sale](https://www.theverge.com/2022/12/2/23487926/deathloop-ps5-elden-ring-apple-magic-keyboard-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-02 14:33:51+00:00
- - tags: None
 
 <figure>
       <img alt="A marketing image for Deathloop" src="https://cdn.vox-cdn.com/thumbor/GpJrdq3_CwLdBs5A3hPK9r6Jf9A=/397x0:2557x1440/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71700548/deathloop.0.jpg" />
@@ -265,7 +251,6 @@
  - [https://www.theverge.com/23488670/the-callisto-protocol-review-playstation-xbox-pc](https://www.theverge.com/23488670/the-callisto-protocol-review-playstation-xbox-pc)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-02 13:30:00+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot of The Callisto Protocol." src="https://cdn.vox-cdn.com/thumbor/8AYty6BsFJCB2ihXivZlYajaXso=/581x0:3821x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71700243/TCP_Screen18.0.jpg" />
@@ -282,7 +267,6 @@
  - [https://www.theverge.com/2022/12/2/23488770/elon-musk-texas-twitter-politics-republican](https://www.theverge.com/2022/12/2/23488770/elon-musk-texas-twitter-politics-republican)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-02 12:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Illustration showing Elon Musk in profile, in front of Twitter logos with a dollar sign inserted in place of the bird’s eye." src="https://cdn.vox-cdn.com/thumbor/XCTCMdwk9ZBhS00xuNnXuR17zyc=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71699985/STK171_VRG_Illo_6_Normand_ElonMusk_06.0.jpg" />
@@ -301,7 +285,6 @@
  - [https://www.theverge.com/2022/12/2/23489584/huawei-watch-buds-earbud-announcement-teaser](https://www.theverge.com/2022/12/2/23489584/huawei-watch-buds-earbud-announcement-teaser)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-02 11:35:12+00:00
- - tags: None
 
 <figure>
       <img alt="The Huawei Watch Buds on a wrist, open to reveal the concealed earbuds." src="https://cdn.vox-cdn.com/thumbor/JOUynpMIZuvTGWgNwP37kEOgh8E=/100x0:3100x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71699941/Huawei_Watch_Bud_Lede__1_.0.jpg" />
@@ -323,7 +306,6 @@
  - [https://www.theverge.com/2022/12/2/23489557/kayne-west-twitter-suspended-swastika-elon-musk](https://www.theverge.com/2022/12/2/23489557/kayne-west-twitter-suspended-swastika-elon-musk)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-02 09:33:39+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/atx9-lcf9mevD8W5Hze72cWxs1k=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71699767/acastro_180827_1777_0004.0.jpg" />
@@ -345,7 +327,6 @@
  - [https://www.theverge.com/2022/12/1/23488040/tesla-semi-delivery-event-electric-truck-elon-musk](https://www.theverge.com/2022/12/1/23488040/tesla-semi-delivery-event-electric-truck-elon-musk)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-02 02:23:30+00:00
- - tags: None
 
 <figure>
       <img alt="Elon Musk and the Tesla Semi trucks" src="https://cdn.vox-cdn.com/thumbor/YnFkdiSTvxPRgAPFpA_RpMVQREw=/237x0:2643x1604/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71699122/Screenshot_2022_12_01_at_17.13.10.0.png" />
@@ -363,7 +344,6 @@
  - [https://www.theverge.com/2022/12/1/23488906/netflix-preview-club-early-screening-expansion](https://www.theverge.com/2022/12/1/23488906/netflix-preview-club-early-screening-expansion)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-02 00:10:03+00:00
- - tags: None
 
 <figure>
       <img alt="An illustration of the Netflix logo." src="https://cdn.vox-cdn.com/thumbor/88r3s7Y13jUDju_znYarbweAt8w=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71698827/acastro_STK072_01.0.jpg" />

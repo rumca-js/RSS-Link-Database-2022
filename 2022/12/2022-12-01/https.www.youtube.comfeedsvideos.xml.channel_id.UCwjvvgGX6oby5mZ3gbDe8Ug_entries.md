@@ -1,10 +1,9 @@
-# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
+# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug, Source language: en-US
 
 ## CCP's nightmare: 10+ Cities Fight Against Police, 50 Universities Launch White Paper Revolution
  - [https://www.youtube.com/watch?v=X1TxkKW_904](https://www.youtube.com/watch?v=X1TxkKW_904)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
  - date published: 2022-12-01 17:41:00+00:00
- - tags: None
 
 #chinainsights 
 A simple piece of A4 white paper has become an object of fear for the ruling party in red China today.  The White Paper Movement, also known as the White Paper Revolution, has become part of the recent protests in many cities in China.

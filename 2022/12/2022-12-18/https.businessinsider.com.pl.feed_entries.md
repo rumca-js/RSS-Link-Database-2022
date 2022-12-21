@@ -1,4 +1,4 @@
-# Source Business insider, Source URL:https://businessinsider.com.pl/.feed
+# Source Business insider, Source URL:https://businessinsider.com.pl/.feed, Source language: en-US
 
 ## Szymon Marciniak poprowadził finał mundialu w Katarze. Tyle zarobił
  - [https://businessinsider.com.pl/sport/szymon-marciniak-poprowadzil-final-mundialu-w-katarze-tyle-zarobil/kf0rs81](https://businessinsider.com.pl/sport/szymon-marciniak-poprowadzil-final-mundialu-w-katarze-tyle-zarobil/kf0rs81)

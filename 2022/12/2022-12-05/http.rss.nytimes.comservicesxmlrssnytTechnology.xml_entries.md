@@ -1,10 +1,9 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
 
 ## The Brilliance and Weirdness of ChatGPT
  - [https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html](https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-12-05 23:34:37+00:00
- - tags: None
 
 A new chatbot from OpenAI is inspiring awe, fear, stunts and attempts to circumvent its guardrails.
 
@@ -12,7 +11,6 @@ A new chatbot from OpenAI is inspiring awe, fear, stunts and attempts to circumv
  - [https://www.nytimes.com/2022/12/05/us/colorado-lawsuit-find-my-iphone.html](https://www.nytimes.com/2022/12/05/us/colorado-lawsuit-find-my-iphone.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-12-05 22:28:05+00:00
- - tags: None
 
 A detective relied on flawed information provided by the Find My app for a warrant that led the police to raid the home of a 77-year-old Denver woman, a lawsuit says.
 
@@ -20,7 +18,6 @@ A detective relied on flawed information provided by the Find My app for a warra
  - [https://www.nytimes.com/2022/12/05/technology/slack-ceo-stewart-butterfield-stepping-down.html](https://www.nytimes.com/2022/12/05/technology/slack-ceo-stewart-butterfield-stepping-down.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-12-05 20:50:24+00:00
- - tags: None
 
 Stewart Butterfield, the chief executive of Slack, which is owned by Salesforce, is the latest to announce an exit from Salesforce in recent weeks.
 
@@ -28,7 +25,6 @@ Stewart Butterfield, the chief executive of Slack, which is owned by Salesforce,
  - [https://www.nytimes.com/2022/12/05/technology/slack-ceo-stewart-butterfield-salesforce.html](https://www.nytimes.com/2022/12/05/technology/slack-ceo-stewart-butterfield-salesforce.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-12-05 20:50:24+00:00
- - tags: None
 
 Stewart Butterfield, the chief executive of Slack, which is owned by Salesforce, is the latest to announce an exit from Salesforce in recent weeks.
 
@@ -36,7 +32,6 @@ Stewart Butterfield, the chief executive of Slack, which is owned by Salesforce,
  - [https://www.nytimes.com/2022/12/05/business/microsoft-activision-game-union.html](https://www.nytimes.com/2022/12/05/business/microsoft-activision-game-union.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-12-05 20:43:15+00:00
- - tags: None
 
 A union is testing Microsoft’s pledge to remain neutral on an organizing bid as the Xbox maker seeks regulatory approval for its Activision acquisition.
 
@@ -44,7 +39,6 @@ A union is testing Microsoft’s pledge to remain neutral on an organizing bid a
  - [https://www.nytimes.com/2022/12/05/us/grand-canyon-golf-tiktok.html](https://www.nytimes.com/2022/12/05/us/grand-canyon-golf-tiktok.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-12-05 12:00:06+00:00
- - tags: None
 
 Katie Sigmond, who has nearly seven million followers on TikTok and posts workout and modeling videos, faced legal trouble after the stunt.
 
@@ -52,7 +46,6 @@ Katie Sigmond, who has nearly seven million followers on TikTok and posts workou
  - [https://www.nytimes.com/2022/12/05/technology/crypto-future-ftx.html](https://www.nytimes.com/2022/12/05/technology/crypto-future-ftx.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-12-05 10:00:19+00:00
- - tags: None
 
 The implosion of the exchange FTX shows how an industry built in the wake of the 2008 financial crisis has drifted far from its original ideals.
 
@@ -60,6 +53,5 @@ The implosion of the exchange FTX shows how an industry built in the wake of the
  - [https://www.nytimes.com/2022/12/04/business/media/elon-musk-twitter-matt-taibbi.html](https://www.nytimes.com/2022/12/04/business/media/elon-musk-twitter-matt-taibbi.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-12-05 01:30:43+00:00
- - tags: None
 
 A release of internal documents from Twitter set off intense debates in the intersecting worlds of media, politics and tech.

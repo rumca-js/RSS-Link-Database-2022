@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed
+# Source Wydarzenia Interia - Polska, Source URL:https://wydarzenia.interia.pl/polska/feed, Source language: pl-PL
 
 ## Władysław Kosiniak-Kamysz przedstawia program "Uczciwa Polska"
  - [https://wydarzenia.interia.pl/kraj/news-wladyslaw-kosiniak-kamysz-przedstawia-program-uczciwa-polska,nId,6477550](https://wydarzenia.interia.pl/kraj/news-wladyslaw-kosiniak-kamysz-przedstawia-program-uczciwa-polska,nId,6477550)

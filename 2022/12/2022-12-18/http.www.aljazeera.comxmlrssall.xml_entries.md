@@ -1,4 +1,4 @@
-# Source Aljazeera, Source URL:http://www.aljazeera.com/xml/rss/all.xml
+# Source Aljazeera, Source URL:http://www.aljazeera.com/xml/rss/all.xml, Source language: en-US
 
 ## Fan extravaganza in Qatar as Argentina win 2022 World Cup
  - [https://www.aljazeera.com/gallery/2022/12/18/fan-extravaganza-in-qatar-as-argentina-wins-2022-world-cup](https://www.aljazeera.com/gallery/2022/12/18/fan-extravaganza-in-qatar-as-argentina-wins-2022-world-cup)

@@ -1,4 +1,32 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml
+# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+
+## Garland Calls For Stand Against ‘Disturbing’ Rise In Anti-Semitism At National Menorah Lighting
+ - [https://www.dailywire.com/news/garland-calls-for-stand-against-disturbing-rise-in-anti-semitism-at-national-menorah-lighting](https://www.dailywire.com/news/garland-calls-for-stand-against-disturbing-rise-in-anti-semitism-at-national-menorah-lighting)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-18 23:12:42+00:00
+
+Attorney General Merrick Garland marked the first night of the Jewish holiday of Hanukkah with a call for Americans to come together to oppose a &#8220;disturbing&#8221; rise in anti-Semitism and other acts of bigotry. At this year&#8217;s National Hanukkah Menorah lighting, an annual event sponsored by the American Friends of Lubavitch at the White House ...
+
+## James Cameron Flies One-Finger Salute To Fans Leaving ‘Avatar: The Way Of Water’ Screening
+ - [https://www.dailywire.com/news/james-cameron-flies-one-finger-salute-to-fans-leaving-avatar-the-way-of-water-screening](https://www.dailywire.com/news/james-cameron-flies-one-finger-salute-to-fans-leaving-avatar-the-way-of-water-screening)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-18 21:26:09+00:00
+
+Director James Cameron appeared to take issue with some fans after a special screening of his latest film — &#8220;Avatar: The Way of Water&#8221; — flipping them the bird when they booed him for refusing to stop and sign a few autographs. According to entertainment website TMZ, Cameron was at the WGA building in Beverly ...
+
+## CNN’s Jim Acosta Says He’s Locked Out Of His Twitter Account
+ - [https://www.dailywire.com/news/cnns-jim-acosta-says-hes-locked-out-of-his-twitter-account](https://www.dailywire.com/news/cnns-jim-acosta-says-hes-locked-out-of-his-twitter-account)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-18 20:56:02+00:00
+
+CNN&#8217;s Jim Acosta appears to be the latest in a growing list of journalists whose Twitter accounts have been restricted during a flurry of changes overseen by CEO Elon Musk. In an interview with Insider columnist Linette Lopez, whose Twitter account has been suspended, Acosta said his account was locked overnight after he promoted his ...
+
+## ‘She Flew Up And Hit The Ceiling’: Severe Turbulence Leaves 11 Seriously Injured Aboard Hawaiian Flight
+ - [https://www.dailywire.com/news/she-flew-up-and-hit-the-ceiling-severe-turbulence-leaves-11-seriously-aboard-hawaiian-flight](https://www.dailywire.com/news/she-flew-up-and-hit-the-ceiling-severe-turbulence-leaves-11-seriously-aboard-hawaiian-flight)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-18 19:56:15+00:00
+
+Emergency responders said that severe turbulence seriously injured 11 people and injured dozens of others Sunday during a Hawaiian Airlines flight from Phoenix to Honolulu about 30 minutes before landing. The Federal Aviation Administration told ABC News in a statement Hawaiian Airlines Flight 35 was flying from Phoenix&#8217;s Sky Harbor International Airport to Daniel K. ...
 
 ## ‘Uninformed Vitriol’: CNN Boss Chris Licht Swings At ‘The Left’ Over ‘Stunning’ Reaction To His Reforms
  - [https://www.dailywire.com/news/uninformed-vitriol-cnn-boss-chris-licht-swings-at-the-left-over-stunning-reaction-to-his-reforms](https://www.dailywire.com/news/uninformed-vitriol-cnn-boss-chris-licht-swings-at-the-left-over-stunning-reaction-to-his-reforms)

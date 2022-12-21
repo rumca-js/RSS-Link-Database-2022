@@ -35,6 +35,13 @@ Content creators and social media users are challenging their cardiovascular fit
 
 A Florida teenager severely beat this mother after she kept telling him to clean his room, authorities said.
 
+## January 6 Committee holds final meeting Monday, takes action against Trump, allies
+ - [https://www.foxnews.com/live-news/january-6-committee-holds-final-meeting-monday-expected-action-against-trump-allies](https://www.foxnews.com/live-news/january-6-committee-holds-final-meeting-monday-expected-action-against-trump-allies)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-19 23:15:51+00:00
+
+The House Jan. 6 committee held what's expected to be its final meeting Monday. The panel issued criminal referrals to the Justice Department against former President Trump.
+
 ## TCU star Max Duggan declares for NFL Draft ahead of College Football Playoff
  - [https://www.foxnews.com/sports/tcu-star-max-duggan-declares-nfl-draft-ahead-college-football-playoff](https://www.foxnews.com/sports/tcu-star-max-duggan-declares-nfl-draft-ahead-college-football-playoff)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml

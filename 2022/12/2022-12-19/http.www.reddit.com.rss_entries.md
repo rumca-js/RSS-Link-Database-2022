@@ -1,5 +1,12 @@
 # Source Reddit - Front Page, Source URL:http://www.reddit.com/.rss, Source language: en-US
 
+## Winning a World Cup is the only way Japan fixes their birth rate
+ - [https://www.reddit.com/r/dankmemes/comments/zq7whb/winning_a_world_cup_is_the_only_way_japan_fixes/](https://www.reddit.com/r/dankmemes/comments/zq7whb/winning_a_world_cup_is_the_only_way_japan_fixes/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-12-19 23:56:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/dankmemes/comments/zq7whb/winning_a_world_cup_is_the_only_way_japan_fixes/"> <img alt="Winning a World Cup is the only way Japan fixes their birth rate" src="https://preview.redd.it/egzz34cbiz6a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f7150b0752d599ac45e1bbe6e873be6ca370f522" title="Winning a World Cup is the only way Japan fixes their birth rate" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/unify_ireland"> /u/unify_ireland </a> &#32; to &#32; <a href="https://www.reddit.com/r/dankmemes/"> r/dankmemes </a> <br /> <span><a href="https://i.redd.it/egzz34cbiz6a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/dankmemes/comments/zq7whb/winning_a_world_cup_is_the_only_way_japan_fixes/">[comments]</a></span> </td></tr></table>
+
 ## Elon is already back tracking
  - [https://www.reddit.com/r/WhitePeopleTwitter/comments/zq7mtt/elon_is_already_back_tracking/](https://www.reddit.com/r/WhitePeopleTwitter/comments/zq7mtt/elon_is_already_back_tracking/)
  - RSS feed: http://www.reddit.com/.rss
@@ -20,6 +27,13 @@
  - date published: 2022-12-19 22:29:31+00:00
 
 <table> <tr><td> <a href="https://www.reddit.com/r/witcher/comments/zq5pen/slay_queen_slay_thousands_of_innocent_lives/"> <img alt="✨👑Slay Queen👑✨ (Slay thousands of innocent lives)" src="https://preview.redd.it/rdpvs4kv2z6a1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5e701816794940d3112e101eabadfb219c1a9e99" title="✨👑Slay Queen👑✨ (Slay thousands of innocent lives)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Marcin222111"> /u/Marcin222111 </a> &#32; to &#32; <a href="https://www.reddit.com/r/witcher/"> r/witcher </a> <br /> <span><a href="https://i.redd.it/rdpvs4kv2z6a1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/witcher/comments/zq5pen/slay_queen_slay_thousands_of_innocent_lives/">[comments]</a></span> </td></tr></table>
+
+## What items are normal to have one of, but very concerning to have more than one of?
+ - [https://www.reddit.com/r/AskReddit/comments/zq50e4/what_items_are_normal_to_have_one_of_but_very/](https://www.reddit.com/r/AskReddit/comments/zq50e4/what_items_are_normal_to_have_one_of_but_very/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-12-19 22:02:33+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Miserable_Inside_52"> /u/Miserable_Inside_52 </a> &#32; to &#32; <a href="https://www.reddit.com/r/AskReddit/"> r/AskReddit </a> <br /> <span><a href="https://www.reddit.com/r/AskReddit/comments/zq50e4/what_items_are_normal_to_have_one_of_but_very/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/AskReddit/comments/zq50e4/what_items_are_normal_to_have_one_of_but_very/">[comments]</a></span>
 
 ## Actors playing something they're not? Preposterous.
  - [https://www.reddit.com/r/memes/comments/zq4sr6/actors_playing_something_theyre_not_preposterous/](https://www.reddit.com/r/memes/comments/zq4sr6/actors_playing_something_theyre_not_preposterous/)

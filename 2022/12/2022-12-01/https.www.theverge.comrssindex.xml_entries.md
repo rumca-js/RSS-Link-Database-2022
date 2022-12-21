@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Eufy’s Dual doorbell proves two eyes on your porch are better than one
  - [https://www.theverge.com/22939350/eufy-dual-video-doorbell-review-price-release-date](https://www.theverge.com/22939350/eufy-dual-video-doorbell-review-price-release-date)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 23:14:51+00:00
- - tags: None
 
 <p>With dual cameras and dual motion detection, this camera catches it all — just not fast enough  </p>
   <p>
@@ -15,7 +14,6 @@
  - [https://www.theverge.com/2022/12/1/23488818/guardians-of-the-galaxy-vol-3-official-trailer-marvel](https://www.theverge.com/2022/12/1/23488818/guardians-of-the-galaxy-vol-3-official-trailer-marvel)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 22:58:33+00:00
- - tags: None
 
 <figure>
       <img alt="Characters from Guardians of the Galaxy Vol. 3 stand at the entrance of a spaceship." src="https://cdn.vox-cdn.com/thumbor/J9HdYFnnByBdSZ08ITLtFTdIqJM=/125x0:1318x795/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71698484/Marvel_Studios__Guardians_of_the_Galaxy_Volume_3___Official_Trailer_0_13_screenshot.0.png" />
@@ -32,7 +30,6 @@
  - [https://www.theverge.com/2022/12/1/23488816/amazons-mike-flanagan-trevor-macy-intrepid-pictures-netflix](https://www.theverge.com/2022/12/1/23488816/amazons-mike-flanagan-trevor-macy-intrepid-pictures-netflix)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 22:53:59+00:00
- - tags: None
 
 <figure>
       <img alt="Two men in black button down shirts and dark blazers — one black and the other gray — standing in front of a Saturn Awards backdrop." src="https://cdn.vox-cdn.com/thumbor/QuHhFUmW5jmQYlkoy2Eb6nKiUkU=/0x0:3828x2552/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71698458/1363119969.0.jpg" />
@@ -49,7 +46,6 @@
  - [https://www.theverge.com/2022/12/1/23488824/kanye-west-ye-parler-free-speech-alex-jones-infowars](https://www.theverge.com/2022/12/1/23488824/kanye-west-ye-parler-free-speech-alex-jones-infowars)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 22:48:29+00:00
- - tags: None
 
 <figure>
       <img alt="Celebrity Sightings - Paris Fashion Week - Womenswear Spring/Summer 2023 - Day Seven" src="https://cdn.vox-cdn.com/thumbor/h3bacCODdMHdZ_wf7M6GltnhXaQ=/0x0:5616x3744/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71698431/1429788116.0.jpg" />
@@ -68,7 +64,6 @@
  - [https://www.theverge.com/22811985/best-smart-floodlight-security-camera](https://www.theverge.com/22811985/best-smart-floodlight-security-camera)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 22:45:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/zijdFCsBsdzCLpAJVDZqsKyfOp8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/70239338/jtuohy_211011_4898_0006.7.jpg" />
@@ -85,7 +80,6 @@
  - [https://www.theverge.com/23488326/video-doorbell-ringtone-change-how-to](https://www.theverge.com/23488326/video-doorbell-ringtone-change-how-to)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 21:58:28+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/7pvsZlYmYm-sN8XFv6j7a1kR_X8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71698227/HT023_smartHome_0005.0.jpg" />
@@ -103,7 +97,6 @@
  - [https://www.theverge.com/2022/12/1/23488375/gerald-jerry-lawson-google-doodle-gaming-pioneer-inventor-cartridge](https://www.theverge.com/2022/12/1/23488375/gerald-jerry-lawson-google-doodle-gaming-pioneer-inventor-cartridge)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 21:51:52+00:00
- - tags: None
 
 <figure>
       <img alt="Gerald Lawson pictured with the Fairchild Channel F home console" src="https://cdn.vox-cdn.com/thumbor/ctC380z8fgxd7uN_2EC1LPKj0Nc=/9x3:372x245/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71698188/Jerry_lawson_ca_1980.0.png" />
@@ -125,7 +118,6 @@
  - [https://www.theverge.com/2022/12/1/23488673/indiana-jones-5-the-dial-of-destiny-release-date-trailer](https://www.theverge.com/2022/12/1/23488673/indiana-jones-5-the-dial-of-destiny-release-date-trailer)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 21:24:40+00:00
- - tags: None
 
 <figure>
       <img alt="Harrison Ford in Indiana Jones and the Dial of Destiny." src="https://cdn.vox-cdn.com/thumbor/qKjcyet7VXbu4JW6ZiK002NaZkk=/984x0:3396x1608/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71698038/plt_dtlr1_uhd_r709f_stills_221123.088814.0.jpg" />
@@ -143,7 +135,6 @@
  - [https://www.theverge.com/2022/12/1/23488381/discord-server-subscriptions-program-monetization](https://www.theverge.com/2022/12/1/23488381/discord-server-subscriptions-program-monetization)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 21:06:28+00:00
- - tags: None
 
 <figure>
       <img alt="The Discord logo." src="https://cdn.vox-cdn.com/thumbor/Pvy3QaL1aJrqa4UlQsnVyQmceAQ=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71697992/acastro_STK062_02.0.jpg" />
@@ -168,7 +159,6 @@
  - [https://www.theverge.com/2022/12/1/23488448/coinbase-ios-wallet-app-apple-nft-fees-in-app-purchase-store](https://www.theverge.com/2022/12/1/23488448/coinbase-ios-wallet-app-apple-nft-fees-in-app-purchase-store)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 20:59:47+00:00
- - tags: None
 
 <figure>
       <img alt="Illustration of the Coinbase wordmark on a teal, blue, and black background with circular patterns." src="https://cdn.vox-cdn.com/thumbor/1NM48xWlsic1ERTdsRxqWvJ3Dio=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71697939/acastro_STK019_02.0.jpg" />
@@ -186,7 +176,6 @@
  - [https://www.theverge.com/2022/12/1/23488421/epic-games-realityscan-ios-app-scan-objects-3d-models](https://www.theverge.com/2022/12/1/23488421/epic-games-realityscan-ios-app-scan-objects-3d-models)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 20:58:39+00:00
- - tags: None
 
 <figure>
       <img alt="A person holding a phone and using the RealityScan app." src="https://cdn.vox-cdn.com/thumbor/juyzRAA-lXV_QPcG9p043EM_Q2U=/156x0:1844x1125/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71697934/RealityScan_Available_Now___Capture_the_World_and_Create_Your_Own_0_10_screenshot.0.png" />
@@ -203,7 +192,6 @@
  - [https://www.theverge.com/2022/12/1/23488644/mandalorian-season-three-premiere-date-march-1-disney-plus](https://www.theverge.com/2022/12/1/23488644/mandalorian-season-three-premiere-date-march-1-disney-plus)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 20:52:53+00:00
- - tags: None
 
 <figure>
       <img alt="Image of The Mandalorian holding Grogu." src="https://cdn.vox-cdn.com/thumbor/t6U2rz__0BxPwqK1IApOR2fyI4Y=/252x0:1872x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71697899/Fi64yi4VIAAzgel.0.jpeg" />
@@ -227,7 +215,6 @@
  - [https://www.theverge.com/2022/12/1/23488276/nvidia-12vhpwr-cable-16-pin-pci-sig-response](https://www.theverge.com/2022/12/1/23488276/nvidia-12vhpwr-cable-16-pin-pci-sig-response)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 20:10:34+00:00
- - tags: None
 
 <figure>
       <img alt="Two photos showing one connector that’s mostly but not fully plugged in and a fully plugged-in connector." src="https://cdn.vox-cdn.com/thumbor/dB-szdElVXwHuAWiFdZ4eJHVFAM=/0x0:624x416/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71697735/aid_5413_000.0.png" />
@@ -245,7 +232,6 @@
  - [https://www.theverge.com/23484193/android-block-phone-number-pixel-samsung](https://www.theverge.com/23484193/android-block-phone-number-pixel-samsung)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 19:55:05+00:00
- - tags: None
 
 <figure>
       <img alt="Hand holding Android phone against illustrated background" src="https://cdn.vox-cdn.com/thumbor/mfxPzk6ibP5Y--piWj3u8utO5S8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71697677/VRG_Illo_HT007_K_Radtke_Pixel_03__1_.0.jpg" />
@@ -264,7 +250,6 @@
  - [https://www.theverge.com/2022/12/1/23487958/supreme-court-gonzalez-google-twitter-taamneh-section-230](https://www.theverge.com/2022/12/1/23487958/supreme-court-gonzalez-google-twitter-taamneh-section-230)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 19:39:37+00:00
- - tags: None
 
 <figure>
       <img alt="YouTube’s logo with geometric design in the background" src="https://cdn.vox-cdn.com/thumbor/B-8-qNVT1PBOQ0EE5FkA1NxHYdk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71697593/acastro_STK092_04.0.jpg" />
@@ -281,7 +266,6 @@
  - [https://www.theverge.com/2022/12/1/23488336/disneys-ai-tool-aging-actors-vfx-announcement](https://www.theverge.com/2022/12/1/23488336/disneys-ai-tool-aging-actors-vfx-announcement)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 19:18:10+00:00
- - tags: None
 
 <figure>
       <img alt="Two side-by-side images of a woman’s face. The image on the left is how she looks originally, while the right shows how she looks digitally aged." src="https://cdn.vox-cdn.com/thumbor/qgl4bROmdiqQMMbGWe9MN5U3v8k=/224x0:3040x1877/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71697508/FRAN_2.0.jpg" />
@@ -299,7 +283,6 @@
  - [https://www.theverge.com/2022/12/1/23488120/nintendo-live-2022-concert-holograms-k-k-slider-animal-crossing-splatoon-3](https://www.theverge.com/2022/12/1/23488120/nintendo-live-2022-concert-holograms-k-k-slider-animal-crossing-splatoon-3)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 18:53:08+00:00
- - tags: None
 
 <figure>
       <img alt="Holograms of K.K. Slider and other Animal Crossing characters dance at a concert." src="https://cdn.vox-cdn.com/thumbor/z5J1fZkd3j0MYlKyU9DBMSbpnV4=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71697340/Animal_Crossing___Splatoon___Live_Concert_at_Nintendo_Live_2022_5_30_screenshot.0.png" />
@@ -317,7 +300,6 @@
  - [https://www.theverge.com/2022/12/1/23488230/transformers-rise-of-the-beasts-teaser-trailer](https://www.theverge.com/2022/12/1/23488230/transformers-rise-of-the-beasts-teaser-trailer)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 18:52:55+00:00
- - tags: None
 
 <figure>
       <img alt="A mechanized gorilla standing in a densely wooded area." src="https://cdn.vox-cdn.com/thumbor/0XAhPuzoZVvRX2Bew6iibgNV9sE=/549x0:2331x1188/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71697338/Screen_Shot_2022_12_01_at_12.36.14_PM.0.png" />
@@ -335,7 +317,6 @@
  - [https://www.theverge.com/23488017/openai-chatbot-chatgpt-ai-examples-web-demo](https://www.theverge.com/23488017/openai-chatbot-chatgpt-ai-examples-web-demo)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 18:22:41+00:00
- - tags: None
 
 <figure>
       <img alt="An image of OpenAI’s logo, which looks like a stylized and symmetrical braid." src="https://cdn.vox-cdn.com/thumbor/uXfcyja0-TEpV1EzEb93Yl-08as=/0x0:1820x1213/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71697155/lp_logo_3.0.0.jpg" />
@@ -353,7 +334,6 @@
  - [https://www.theverge.com/2022/12/1/23486120/eu-european-commission-carbon-removal-proposal-certify](https://www.theverge.com/2022/12/1/23486120/eu-european-commission-carbon-removal-proposal-certify)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 18:16:14+00:00
- - tags: None
 
 <figure>
       <img alt="Members of the EU Commission sit around tables inside a meeting room." src="https://cdn.vox-cdn.com/thumbor/__FFDRC_4_DAghh5j-eDFlxoCB0=/0x0:6000x4000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71697110/1245223886.0.jpg" />
@@ -372,7 +352,6 @@
  - [https://www.theverge.com/2022/12/1/23486454/new-amnesia-game-the-bunker-xbox-playstation-pc](https://www.theverge.com/2022/12/1/23486454/new-amnesia-game-the-bunker-xbox-playstation-pc)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 18:01:00+00:00
- - tags: None
 
 <figure>
       <img alt="Key art from Amnesia: The Bunker featuring a very dark image with two hands one holding a gun, the other holding a flahslight pointed at a shrouded monster beneath the words, “Amnesia: The Bunker”" src="https://cdn.vox-cdn.com/thumbor/SfhPoFE2e5HGgSr0ZUSyiUdAobk=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71697019/the_bunker.0.png" />
@@ -395,7 +374,6 @@
  - [https://www.theverge.com/2022/12/1/23488036/amd-ryzen-7000-rdna2-lenovo-ideapad-1-pricing-release](https://www.theverge.com/2022/12/1/23488036/amd-ryzen-7000-rdna2-lenovo-ideapad-1-pricing-release)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 17:51:54+00:00
- - tags: None
 
 <figure>
       <img alt="The IdeaPad 1 open, seen from above on a white background." src="https://cdn.vox-cdn.com/thumbor/v2MhIZ0YOHEaI_4bpoWrffMCzUA=/0x167:1000x834/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71696948/ezgif_5_60e8a8005d.0.png" />
@@ -413,7 +391,6 @@
  - [https://www.theverge.com/2022/12/1/23487280/black-hole-jet-astronomy-telescopes-energy](https://www.theverge.com/2022/12/1/23487280/black-hole-jet-astronomy-telescopes-energy)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 17:46:16+00:00
- - tags: None
 
 <figure>
       <img alt="An illustration of an orange star being swirled apart against a stretched-out starscape. At the center of the image is a jet of pink light emanating from a dark area, a black hole." src="https://cdn.vox-cdn.com/thumbor/kcZbk0F9or43TFpIvmBp7VWGZCw=/0x81:4000x2748/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71696911/A3_Tidal_Disruption_Graphic.0.jpeg" />
@@ -431,7 +408,6 @@
  - [https://www.theverge.com/2022/12/1/23487911/annapurna-animation-nimona-andrew-millstein-robert-baird](https://www.theverge.com/2022/12/1/23487911/annapurna-animation-nimona-andrew-millstein-robert-baird)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 17:41:11+00:00
- - tags: None
 
 <figure>
       <img alt="A girl wearing chain mail armor and a knight standing in the distance behind her while looking over his shoulder." src="https://cdn.vox-cdn.com/thumbor/yMM_4q1ByVx9nRTWzUrcN6y741k=/357x0:1563x804/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71696888/FirstLook_Full_Frame.0.jpeg" />
@@ -448,7 +424,6 @@
  - [https://www.theverge.com/2022/12/1/23487812/android-update-accessibility-reading-mode-key-sharing](https://www.theverge.com/2022/12/1/23487812/android-update-accessibility-reading-mode-key-sharing)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 17:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Three mobile devices and a smart watch displaying new Android features against an abstract backdrop." src="https://cdn.vox-cdn.com/thumbor/8G3No5OarqQDgzwvJ3h3EzVqEaw=/190x0:1923x1155/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71696588/Untitled.0.png" />
@@ -465,7 +440,6 @@
  - [https://www.theverge.com/2022/12/1/23487832/google-keep-wear-os-3-pixel-watch](https://www.theverge.com/2022/12/1/23487832/google-keep-wear-os-3-pixel-watch)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 17:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Woman with hand in pocket wearing Pixel Watch" src="https://cdn.vox-cdn.com/thumbor/8UiMSzLXC0opYHzFwwf8P-EJ2GQ=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71696596/226336_Pixel_Watch_AKrales_0287.0.jpg" />
@@ -496,7 +470,6 @@
  - [https://www.theverge.com/2022/12/1/23487165/summer-game-fest-2023-kickoff-show-geoff-keighley-e3](https://www.theverge.com/2022/12/1/23487165/summer-game-fest-2023-kickoff-show-geoff-keighley-e3)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 17:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="The Game Awards 2019 - Show" src="https://cdn.vox-cdn.com/thumbor/f2ly3yT6nOsUNIH_Ag1CfG4J6QQ=/0x0:3718x2479/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71696591/1193629356.0.jpg" />
@@ -514,7 +487,6 @@
  - [https://www.theverge.com/2022/12/1/23487910/nvidia-jetson-mk-v-electric-autonomous-monarch-tractor-delivery](https://www.theverge.com/2022/12/1/23487910/nvidia-jetson-mk-v-electric-autonomous-monarch-tractor-delivery)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 16:19:30+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/purS-V8KQqYwmQztkOluYGLijxA=/0x20:1731x1174/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71696394/NVIDIA_Jetson_Powers_Monarch_Tractor.0.jpg" />
@@ -537,7 +509,6 @@
  - [https://www.theverge.com/2022/12/1/23486728/amazon-echo-show-bundle-disney-plus-jabra-earbuds-anker-charging-deal-sale](https://www.theverge.com/2022/12/1/23486728/amazon-echo-show-bundle-disney-plus-jabra-earbuds-anker-charging-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 16:01:03+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/0KFVkU8wJilm--RC_dmqLQXpTc8=/0x0:6033x4022/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71696314/dseifert_4619_echo_show_2nd_gen_2.0.jpg" />
@@ -555,7 +526,6 @@
  - [https://www.theverge.com/23486800/the-eternal-daughter-review-tilda-swinton-a24](https://www.theverge.com/23486800/the-eternal-daughter-review-tilda-swinton-a24)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 15:30:00+00:00
- - tags: None
 
 <figure>
       <img alt="A photo of Tilda Swinton as Julie in The Eternal Daughter." src="https://cdn.vox-cdn.com/thumbor/aUmuysOvyul-KGlHpWT4jS3M-R8=/0x0:5760x3840/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71696125/https___cdn.sanity.io_images_xq1bjtf4_production_d5c934bc0fae3e230a0696f11b8a4e360b9a40a2_5760x3840.0.jpg" />
@@ -572,7 +542,6 @@
  - [https://www.theverge.com/23458554/fitness-health-holiday-gift-guide-2022-trackers-smartwatches-fitbit-earbuds-tech](https://www.theverge.com/23458554/fitness-health-holiday-gift-guide-2022-trackers-smartwatches-fitbit-earbuds-tech)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 15:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/O9K6uDtCS2J5G4oJT1fJJon9z20=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71695898/Fitness_Tech_Gifts_Holiday_GG.0.jpg" />
@@ -589,7 +558,6 @@
  - [https://www.theverge.com/2022/12/1/23487797/canoo-ltv-army-electric-truck-ev](https://www.theverge.com/2022/12/1/23487797/canoo-ltv-army-electric-truck-ev)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 14:17:55+00:00
- - tags: None
 
 <figure>
       <img alt="Canoo Light Tactical Vehicle" src="https://cdn.vox-cdn.com/thumbor/MXj5ymUwPYfEU_c3HtA4XfVO_e4=/108x0:1296x792/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71695740/PNG_image.0.jpg" />
@@ -607,7 +575,6 @@
  - [https://www.theverge.com/2022/12/1/23486783/1password-sign-in-passwordless-feature-google-apple-facebook](https://www.theverge.com/2022/12/1/23486783/1password-sign-in-passwordless-feature-google-apple-facebook)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 14:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Screenshot of 1Password storing all third-party login credentials used to sign in to various apps and sites." src="https://cdn.vox-cdn.com/thumbor/OF1e-WkL8lewvuMPAaoLXxXR8vk=/65x0:1205x760/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71695633/1Password.0.png" />
@@ -625,7 +592,6 @@
  - [https://www.theverge.com/2022/12/1/23487746/twitter-digital-services-act-elon-musk-takeover-thierry-breton](https://www.theverge.com/2022/12/1/23487746/twitter-digital-services-act-elon-musk-takeover-thierry-breton)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 13:28:08+00:00
- - tags: None
 
 <figure>
       <img alt="Elon Musk, with a background of Twitter badges" src="https://cdn.vox-cdn.com/thumbor/DpNDwTF1wT-EYUQAUK2GlJluBzA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71695549/VRG_Illo_STK022_K_Radtke_Musk_Verified.0.jpg" />
@@ -642,7 +608,6 @@
  - [https://www.theverge.com/2022/12/1/23487684/december-1-2022-tech-news-liveblog](https://www.theverge.com/2022/12/1/23487684/december-1-2022-tech-news-liveblog)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 09:13:01+00:00
- - tags: None
 
 <figure>
       <img alt="A laptop surrounded by green and pink message boxes that say “warning.”" src="https://cdn.vox-cdn.com/thumbor/wDkYWytvr1IMfp1hAHDmX8cBfc4=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71695109/akrales_220309_4977_0258.0.jpg" />
@@ -658,7 +623,6 @@
  - [https://www.theverge.com/2022/11/30/23487307/neuralink-elon-musk-show-and-tell-2022](https://www.theverge.com/2022/11/30/23487307/neuralink-elon-musk-show-and-tell-2022)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 04:35:10+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/ZgyaGxWJzVjI8QT5MVmXdo19M_k=/13x0:711x465/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71694685/Screen_Shot_2022_11_30_at_9.43.52_PM.0.png" />
@@ -676,7 +640,6 @@
  - [https://www.theverge.com/2022/11/30/23487431/steam-deck-giveaway-free-game-awards-2022](https://www.theverge.com/2022/11/30/23487431/steam-deck-giveaway-free-game-awards-2022)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 03:52:23+00:00
- - tags: None
 
 <figure>
       <img alt="A Steam Deck on a white and orange background." src="https://cdn.vox-cdn.com/thumbor/wKY5iifvcfJYf6DnSQjxaVD518A=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71694594/vpavic_220210_5030_0090.0.jpg" />
@@ -695,7 +658,6 @@
  - [https://www.theverge.com/2022/11/30/23486753/anker-eufy-security-camera-cloud-private-encryption-authentication-storage](https://www.theverge.com/2022/11/30/23486753/anker-eufy-security-camera-cloud-private-encryption-authentication-storage)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-01 01:30:04+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/AUHOS5SBs85UtsbOcmifBdOQWKY=/863x6:1844x660/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71694195/191106_165716_9.0.png" />

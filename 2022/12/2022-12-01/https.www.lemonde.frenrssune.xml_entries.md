@@ -1,10 +1,9 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml
+# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
 
 ## Parler halts intent of sell to Ye
  - [https://www.lemonde.fr/en/international/article/2022/12/02/parler-halts-intent-of-sell-to-ye_6006330_4.html](https://www.lemonde.fr/en/international/article/2022/12/02/parler-halts-intent-of-sell-to-ye_6006330_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-01 23:42:28+00:00
- - tags: None
 
 The alternative social media platform favored by conservatives – including some far-right extremists – will no longer be acquired by the rapper formerly known as Kanye West, the company announced on Thursday, December 1.
 
@@ -12,7 +11,6 @@ The alternative social media platform favored by conservatives – including som
  - [https://www.lemonde.fr/en/international/article/2022/12/02/taliban-bans-radio-broadcasts-of-radio-free-europe-radio-liberty-in-afghanistan_6006328_4.html](https://www.lemonde.fr/en/international/article/2022/12/02/taliban-bans-radio-broadcasts-of-radio-free-europe-radio-liberty-in-afghanistan_6006328_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-01 23:19:56+00:00
- - tags: None
 
 The Taliban’s ministry of information and culture issued a ban, which went into effect on Thursday, December 1, 2022, removing the stations from AM and FM transmission networks. The statements said the Taliban received unspecified complaints about the outlets' programming content.
 
@@ -20,7 +18,6 @@ The Taliban’s ministry of information and culture issued a ban, which went int
  - [https://www.lemonde.fr/en/pixels/article/2022/12/01/macron-takes-aim-at-musk-for-cutting-back-twitter-moderation_6006326_13.html](https://www.lemonde.fr/en/pixels/article/2022/12/01/macron-takes-aim-at-musk-for-cutting-back-twitter-moderation_6006326_13.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-01 18:56:59+00:00
- - tags: None
 
 The French president demanded an increase in regulation rather than the reductions being enforced by Twitter's new CEO.
 
@@ -28,7 +25,6 @@ The French president demanded an increase in regulation rather than the reductio
  - [https://www.lemonde.fr/en/international/article/2022/12/01/brussels-court-struggles-to-select-jury-for-2016-attacks-trial_6006323_4.html](https://www.lemonde.fr/en/international/article/2022/12/01/brussels-court-struggles-to-select-jury-for-2016-attacks-trial_6006323_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-01 18:20:20+00:00
- - tags: None
 
 Starting Monday, the jury will be hearing the trial of 10 defendants accused of being behind two attacks that killed 32 people and injured 340 in the Belgian capital.
 
@@ -36,7 +32,6 @@ Starting Monday, the jury will be hearing the trial of 10 defendants accused of 
  - [https://www.lemonde.fr/en/m-le-mag/article/2022/12/01/the-divorce-between-donald-trump-and-rupert-murdoch-is-complete_6006319_117.html](https://www.lemonde.fr/en/m-le-mag/article/2022/12/01/the-divorce-between-donald-trump-and-rupert-murdoch-is-complete_6006319_117.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-01 16:21:26+00:00
- - tags: None
 
 The conservative billionaire, owner of Fox News and 'The Wall Street Journal,' is turning away from the former president of the United States and openly siding with Florida Governor Ron DeSantis.
 
@@ -44,7 +39,6 @@ The conservative billionaire, owner of Fox News and 'The Wall Street Journal,' i
  - [https://www.lemonde.fr/en/international/article/2022/12/01/turkish-president-erdogan-s-electoral-base-is-disillusioned_6006317_4.html](https://www.lemonde.fr/en/international/article/2022/12/01/turkish-president-erdogan-s-electoral-base-is-disillusioned_6006317_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-01 16:19:31+00:00
- - tags: None
 
 The supporters of the Justice and Development Party (AK) are disappointed by the government's poor economic record and its authoritarian shift.
 
@@ -52,7 +46,6 @@ The supporters of the Justice and Development Party (AK) are disappointed by the
  - [https://www.lemonde.fr/en/united-states/article/2022/12/01/biden-and-macron-pledge-unwavering-alliance-under-cloud-of-trade-dispute_6006312_133.html](https://www.lemonde.fr/en/united-states/article/2022/12/01/biden-and-macron-pledge-unwavering-alliance-under-cloud-of-trade-dispute_6006312_133.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-01 16:16:08+00:00
- - tags: None
 
 The French president pulled no punches as he criticized his American counterpart's green policy, claiming it would 'kill' European jobs.
 
@@ -60,7 +53,6 @@ The French president pulled no punches as he criticized his American counterpart
  - [https://www.lemonde.fr/en/international/article/2022/12/01/eu-seeks-special-court-to-try-putin-russian-officials-over-ukraine-war_6006311_4.html](https://www.lemonde.fr/en/international/article/2022/12/01/eu-seeks-special-court-to-try-putin-russian-officials-over-ukraine-war_6006311_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-01 16:10:42+00:00
- - tags: None
 
 Based on the European Commission's assessment, the International Criminal Court in The Hague does not have the right to prosecute Russia for its 'crime of aggression' against Ukraine.
 
@@ -68,7 +60,6 @@ Based on the European Commission's assessment, the International Criminal Court 
  - [https://www.lemonde.fr/en/m-le-mag/article/2022/12/01/john-mcfall-the-first-para-astronaut-in-history_6006308_117.html](https://www.lemonde.fr/en/m-le-mag/article/2022/12/01/john-mcfall-the-first-para-astronaut-in-history_6006308_117.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-01 14:41:41+00:00
- - tags: None
 
 Having lost his right leg after a motorcycle accident, this British surgeon and former Paralympic athlete has joined the European Space Agency's new training program. His goal is to become the first disabled man to go into space.
 
@@ -76,7 +67,6 @@ Having lost his right leg after a motorcycle accident, this British surgeon and 
  - [https://www.lemonde.fr/en/international/article/2022/12/01/bidens-welcome-france-with-red-white-and-blue-state-dinner_6006304_4.html](https://www.lemonde.fr/en/international/article/2022/12/01/bidens-welcome-france-with-red-white-and-blue-state-dinner_6006304_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-01 14:15:11+00:00
- - tags: None
 
 It's the first state dinner since 2019 and the first for President Joe Biden.
 
@@ -84,7 +74,6 @@ It's the first state dinner since 2019 and the first for President Joe Biden.
  - [https://www.lemonde.fr/en/world-cup-2022/article/2022/12/01/world-cup-2022-france-files-complaint-over-disallowed-goal_6006303_209.html](https://www.lemonde.fr/en/world-cup-2022/article/2022/12/01/world-cup-2022-france-files-complaint-over-disallowed-goal_6006303_209.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-01 14:10:47+00:00
- - tags: None
 
 Antoine Griezmann's refused goal against Tunisia on Wednesday sparked another video refereeing controversy.
 
@@ -92,7 +81,6 @@ Antoine Griezmann's refused goal against Tunisia on Wednesday sparked another vi
  - [https://www.lemonde.fr/en/sports/article/2022/12/01/olympics-mean-no-paris-finish-for-2024-tour-de-france_6006295_9.html](https://www.lemonde.fr/en/sports/article/2022/12/01/olympics-mean-no-paris-finish-for-2024-tour-de-france_6006295_9.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-01 12:44:36+00:00
- - tags: None
 
 It's the first time in over 100 years that the race will not finish in the French capital.
 
@@ -100,7 +88,6 @@ It's the first time in over 100 years that the race will not finish in the Frenc
  - [https://www.lemonde.fr/en/europe/article/2022/12/01/google-appeals-huge-android-antitrust-fine-to-eu-s-top-court_6006294_143.html](https://www.lemonde.fr/en/europe/article/2022/12/01/google-appeals-huge-android-antitrust-fine-to-eu-s-top-court_6006294_143.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-01 12:34:31+00:00
- - tags: None
 
 It's the largest-ever antitrust fine issued by the European Commission.
 
@@ -108,7 +95,6 @@ It's the largest-ever antitrust fine issued by the European Commission.
  - [https://www.lemonde.fr/en/france/article/2022/12/01/the-inscription-of-the-baguette-in-the-unesco-heritage-list-is-an-appalling-regression_6006291_7.html](https://www.lemonde.fr/en/france/article/2022/12/01/the-inscription-of-the-baguette-in-the-unesco-heritage-list-is-an-appalling-regression_6006291_7.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-01 11:52:36+00:00
- - tags: None
 
 American historian Steven Kaplan, the author of numerous books on bread, regrets that a generic product that is already losing ground in the country is being celebrated.
 
@@ -116,7 +102,6 @@ American historian Steven Kaplan, the author of numerous books on bread, regrets
  - [https://www.lemonde.fr/en/pixels/article/2022/12/01/tiktok-used-to-promote-russian-mercenary-group-wagner_6006282_13.html](https://www.lemonde.fr/en/pixels/article/2022/12/01/tiktok-used-to-promote-russian-mercenary-group-wagner_6006282_13.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-01 10:45:56+00:00
- - tags: None
 
 A report published on Thursday points to the presence of numerous publications on the social media platform glorifying the actions of Russian militiamen.
 
@@ -124,7 +109,6 @@ A report published on Thursday points to the presence of numerous publications o
  - [https://www.lemonde.fr/en/international/article/2022/12/01/western-supplied-ukrainian-artillery-is-breaking-down_6006278_4.html](https://www.lemonde.fr/en/international/article/2022/12/01/western-supplied-ukrainian-artillery-is-breaking-down_6006278_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-01 10:37:08+00:00
- - tags: None
 
 Maintenance centers have been set up in Slovakia and Poland to repair some equipment damaged in part by Russian missiles.
 
@@ -132,7 +116,6 @@ Maintenance centers have been set up in Slovakia and Poland to repair some equip
  - [https://www.lemonde.fr/en/france/article/2022/12/01/in-washington-macron-goes-on-the-offensive-for-europe_6006276_7.html](https://www.lemonde.fr/en/france/article/2022/12/01/in-washington-macron-goes-on-the-offensive-for-europe_6006276_7.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-01 10:33:21+00:00
- - tags: None
 
 While visiting the United States, the French president attacked the American anti-inflation plan, which is considered protectionist in France.
 
@@ -140,7 +123,6 @@ While visiting the United States, the French president attacked the American ant
  - [https://www.lemonde.fr/en/football/article/2022/12/01/world-cup-2022-france-s-substitutes-miss-opportunity-as-tunisia-upset-les-bleus-but-fail-to-qualify_6006273_130.html](https://www.lemonde.fr/en/football/article/2022/12/01/world-cup-2022-france-s-substitutes-miss-opportunity-as-tunisia-upset-les-bleus-but-fail-to-qualify_6006273_130.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-01 10:04:24+00:00
- - tags: None
 
 In a World Cup match with nothing at stake for France, the coach made nine changes; beaten 1-0, the starting line-up was completely open.
 
@@ -148,7 +130,6 @@ In a World Cup match with nothing at stake for France, the coach made nine chang
  - [https://www.lemonde.fr/en/france/article/2022/12/01/what-you-need-to-know-about-prep-the-hiv-aids-prevention-pill_6006272_7.html](https://www.lemonde.fr/en/france/article/2022/12/01/what-you-need-to-know-about-prep-the-hiv-aids-prevention-pill_6006272_7.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-01 09:59:45+00:00
- - tags: None
 
 On the occasion of World AIDS Day on December 1, 'Le Monde' reports on the preventive treatment for HIV-negative people who are at high risk of exposure.
 
@@ -156,7 +137,6 @@ On the occasion of World AIDS Day on December 1, 'Le Monde' reports on the preve
  - [https://www.lemonde.fr/en/france/article/2022/12/01/france-sees-hottest-year-on-record-in-2022_6006270_7.html](https://www.lemonde.fr/en/france/article/2022/12/01/france-sees-hottest-year-on-record-in-2022_6006270_7.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-01 09:38:31+00:00
- - tags: None
 
 Even if December is very cold, this year will be the hottest for the country since records began in 1990, according to France's national weather service.
 
@@ -164,7 +144,6 @@ Even if December is very cold, this year will be the hottest for the country sin
  - [https://www.lemonde.fr/en/european-union/article/2022/12/01/eu-commission-recommends-funding-freeze-for-hungary_6006269_156.html](https://www.lemonde.fr/en/european-union/article/2022/12/01/eu-commission-recommends-funding-freeze-for-hungary_6006269_156.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-01 09:32:12+00:00
- - tags: None
 
 EU member states have until December 19 to vote on whether to back, reject or change the recommendation.
 
@@ -172,7 +151,6 @@ EU member states have until December 19 to vote on whether to back, reject or ch
  - [https://www.lemonde.fr/en/germany/article/2022/12/01/german-parliament-labels-1930s-ukraine-famine-as-genocide_6006267_146.html](https://www.lemonde.fr/en/germany/article/2022/12/01/german-parliament-labels-1930s-ukraine-famine-as-genocide_6006267_146.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-01 09:28:22+00:00
- - tags: None
 
 The resolution was adopted with the votes of the three parties in Chancellor Olaf Scholz's governing coalition and the main opposition bloc.
 
@@ -180,7 +158,6 @@ The resolution was adopted with the votes of the three parties in Chancellor Ola
  - [https://www.lemonde.fr/en/international/article/2022/12/01/in-the-us-senate-republicans-join-forces-with-democrats-to-protect-same-sex-marriage_6006266_4.html](https://www.lemonde.fr/en/international/article/2022/12/01/in-the-us-senate-republicans-join-forces-with-democrats-to-protect-same-sex-marriage_6006266_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-01 09:08:04+00:00
- - tags: None
 
 The bill is expected to move quickly to President Joe Biden for his signature after a vote in the House of Representatives.
 
@@ -188,7 +165,6 @@ The bill is expected to move quickly to President Joe Biden for his signature af
  - [https://www.lemonde.fr/en/china/article/2022/12/01/china-signals-zero-covid-relaxation-after-protests_6006260_162.html](https://www.lemonde.fr/en/china/article/2022/12/01/china-signals-zero-covid-relaxation-after-protests_6006260_162.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-01 08:23:36+00:00
- - tags: None
 
 The southern manufacturing hub Guangzhou has partially lifted a weeks-long lockdown.
 
@@ -196,7 +172,6 @@ The southern manufacturing hub Guangzhou has partially lifted a weeks-long lockd
  - [https://www.lemonde.fr/en/international/article/2022/12/01/heir-rahul-gandhi-s-long-march-to-unite-india_6006248_4.html](https://www.lemonde.fr/en/international/article/2022/12/01/heir-rahul-gandhi-s-long-march-to-unite-india_6006248_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-01 04:32:07+00:00
- - tags: None
 
 At 52 years old, the political dynasty descendant is walking across the country on foot to reconnect with the Indian population – and restore his past credibility, undermined by electoral defeats.
 
@@ -204,7 +179,6 @@ At 52 years old, the political dynasty descendant is walking across the country 
  - [https://www.lemonde.fr/en/environment/article/2022/12/01/mass-vaccination-of-the-elderly-a-possible-way-out-for-china-s-zero-covid-policy_6006247_114.html](https://www.lemonde.fr/en/environment/article/2022/12/01/mass-vaccination-of-the-elderly-a-possible-way-out-for-china-s-zero-covid-policy_6006247_114.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-01 04:31:49+00:00
- - tags: None
 
 Ninety-seven percent of people over 60 would need three doses of the vaccine for the Chinese health system not to be overwhelmed by the lifting of this increasingly criticized policy.
 
@@ -212,7 +186,6 @@ Ninety-seven percent of people over 60 would need three doses of the vaccine for
  - [https://www.lemonde.fr/en/environment/article/2022/12/01/france-continues-to-export-ultra-toxic-pesticides-despite-ban_6006246_114.html](https://www.lemonde.fr/en/environment/article/2022/12/01/france-continues-to-export-ultra-toxic-pesticides-despite-ban_6006246_114.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-01 04:30:14+00:00
- - tags: None
 
 This year France became the first country to ban the export of pesticides prohibited in Europe, but loopholes have allowed agrochemical giants to continue this controversial trade.
 
@@ -220,7 +193,6 @@ This year France became the first country to ban the export of pesticides prohib
  - [https://www.lemonde.fr/en/football/article/2022/12/01/world-cup-2022-a-football-tournament-with-a-pan-arab-festival-flair_6006244_130.html](https://www.lemonde.fr/en/football/article/2022/12/01/world-cup-2022-a-football-tournament-with-a-pan-arab-festival-flair_6006244_130.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-01 04:20:08+00:00
- - tags: None
 
 From the stadium stands to the streets of the Qatari capital, the international sporting event has turned into a brotherly reunion for the populations of the Levant, the Maghreb, and the Gulf, too often separated by borders and conflicts.
 
@@ -228,7 +200,6 @@ From the stadium stands to the streets of the Qatari capital, the international 
  - [https://www.lemonde.fr/en/international/article/2022/12/01/house-democrats-elect-hakeem-jeffries-minority-leader_6006239_4.html](https://www.lemonde.fr/en/international/article/2022/12/01/house-democrats-elect-hakeem-jeffries-minority-leader_6006239_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-01 01:09:34+00:00
- - tags: None
 
 New York representative Hakeem Jeffries was elected on Wednesday, November 30, head of the Democratic party in Congress. He will become the minority leader in January after Speaker Nancy Pelosi announced that she would step aside.
 
@@ -236,7 +207,6 @@ New York representative Hakeem Jeffries was elected on Wednesday, November 30, h
  - [https://www.lemonde.fr/en/international/article/2022/12/01/emmanuel-macron-blasts-joe-biden-subsidies-in-state-visit_6006235_4.html](https://www.lemonde.fr/en/international/article/2022/12/01/emmanuel-macron-blasts-joe-biden-subsidies-in-state-visit_6006235_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-01 00:33:04+00:00
- - tags: None
 
 The French president raised concerns about the effects of American industrial subsidies and tax breaks to members of Congress in Washington on Wednesday, November 30, 2022. France and other EU countries are alarmed that the Inflation Reduction Act will 
 give American companies an unfair advantage.

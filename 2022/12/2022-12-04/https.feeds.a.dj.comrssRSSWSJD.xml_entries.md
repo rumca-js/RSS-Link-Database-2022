@@ -1,10 +1,9 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml
+# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
 
 ## Stop Yourself From Tipsy Texting This Holiday Season
  - [https://www.wsj.com/articles/smartphone-tips-to-avoid-tipsy-texting-and-posting-over-the-holidays-11670114090?mod=rss_Technology](https://www.wsj.com/articles/smartphone-tips-to-avoid-tipsy-texting-and-posting-over-the-holidays-11670114090?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-12-04 15:00:00+00:00
- - tags: None
 
 An evening of holiday toasts can turn into a morning of social-media and messaging regrets. Adjusting phone and app settings beforehand might prevent that.
 
@@ -12,7 +11,6 @@ An evening of holiday toasts can turn into a morning of social-media and messagi
  - [https://www.wsj.com/articles/twitter-tesla-neuralink-spacex-the-week-that-ran-on-elon-musk-time-11670159508?mod=rss_Technology](https://www.wsj.com/articles/twitter-tesla-neuralink-spacex-the-week-that-ran-on-elon-musk-time-11670159508?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-12-04 14:00:00+00:00
- - tags: None
 
 The busy entrepreneur’s propensity for ambitious, fuzzy deadlines—familiar to followers of his companies—is now on display at the social-media platform.
 
@@ -20,7 +18,6 @@ The busy entrepreneur’s propensity for ambitious, fuzzy deadlines—familiar t
  - [https://www.wsj.com/articles/business-software-companies-say-customers-are-pulling-back-amid-economic-concerns-11670149804?mod=rss_Technology](https://www.wsj.com/articles/business-software-companies-say-customers-are-pulling-back-amid-economic-concerns-11670149804?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-12-04 10:30:00+00:00
- - tags: None
 
 Salesforce, Okta and CrowdStrike describe how clients are delaying certain purchases and becoming more cautious.
 
@@ -28,6 +25,5 @@ Salesforce, Okta and CrowdStrike describe how clients are delaying certain purch
  - [https://www.wsj.com/articles/dow-shines-as-higher-rates-squeeze-nasdaqs-tech-stocks-11670099206?mod=rss_Technology](https://www.wsj.com/articles/dow-shines-as-higher-rates-squeeze-nasdaqs-tech-stocks-11670099206?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-12-04 10:30:00+00:00
- - tags: None
 
 The Dow Jones Industrial Average is beating the broader S&amp;P 500 to a degree not seen in nearly a century.

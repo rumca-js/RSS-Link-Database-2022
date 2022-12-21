@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## iPad deals 2022: Top iPad Pro accessories on sale
  - [https://www.zdnet.com/article/holiday-ipad-deals-2022-top-ipad-pro-accessories-on-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/holiday-ipad-deals-2022-top-ipad-pro-accessories-on-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-06 23:18:00+00:00
- - tags: None
 
 The iPad Pro is an amazing platform for work and play, but make it even better with some great accessories.
 
@@ -12,7 +11,6 @@ The iPad Pro is an amazing platform for work and play, but make it even better w
  - [https://www.zdnet.com/article/airpods-pro-alternatives-top-holiday-deals-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/airpods-pro-alternatives-top-holiday-deals-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-06 23:16:00+00:00
- - tags: None
 
 Think noise-canceling earbuds, and most people will think Apple's AirPods or AirPods Pro. But the Samsung Galaxy Buds Pro and Buds 2 Pro are good alternatives, and you can catch these at major discounts.
 
@@ -20,7 +18,6 @@ Think noise-canceling earbuds, and most people will think Apple's AirPods or Air
  - [https://www.zdnet.com/article/best-smart-display/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-smart-display/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-06 23:12:00+00:00
- - tags: None
 
 Too many smart devices in your home can quickly become too much to handle, so a smart display can help you control all of your devices in one place. These are the best smart devices you can buy.
 
@@ -28,7 +25,6 @@ Too many smart devices in your home can quickly become too much to handle, so a 
  - [https://www.zdnet.com/article/what-are-chat-features-in-android-and-how-do-you-enable-them/#ftag=RSSbaffb68](https://www.zdnet.com/article/what-are-chat-features-in-android-and-how-do-you-enable-them/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-06 21:58:23+00:00
- - tags: None
 
 Out of the box, Google Messages is missing a few important features. Find out what they are and how you can enable them.
 
@@ -36,7 +32,6 @@ Out of the box, Google Messages is missing a few important features. Find out wh
  - [https://www.zdnet.com/article/best-mobile-vpn/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-mobile-vpn/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-06 21:44:00+00:00
- - tags: None
 
 With many using mobile apps for financial transactions, emails, and social networking, the best mobile VPN can ensure your information remains yours.
 
@@ -44,7 +39,6 @@ With many using mobile apps for financial transactions, emails, and social netwo
  - [https://www.zdnet.com/article/amd-vs-intel-which-desktop-processor-is-right-for-you/#ftag=RSSbaffb68](https://www.zdnet.com/article/amd-vs-intel-which-desktop-processor-is-right-for-you/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-06 21:33:00+00:00
- - tags: None
 
 The answer is a resounding "it depends," mostly on how much you want to spend.
 
@@ -52,7 +46,6 @@ The answer is a resounding "it depends," mostly on how much you want to spend.
  - [https://www.zdnet.com/article/how-to-customize-the-firefox-homepage-on-android/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-customize-the-firefox-homepage-on-android/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-06 21:14:10+00:00
- - tags: None
 
 Firefox is a great alternative browser for the Android platform that offers plenty of options, such as the customization of the homepage. Find out how you can make Firefox even better with this option.
 
@@ -60,7 +53,6 @@ Firefox is a great alternative browser for the Android platform that offers plen
  - [https://www.zdnet.com/article/holiday-deal-2022-verizon-will-give-you-an-ipad-apple-watch-and-beats-if-you-upgrade-to-5g/#ftag=RSSbaffb68](https://www.zdnet.com/article/holiday-deal-2022-verizon-will-give-you-an-ipad-apple-watch-and-beats-if-you-upgrade-to-5g/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-06 20:29:00+00:00
- - tags: None
 
 Last chance! Verizon is extending its tablet, smartwatch, and earbuds deal for up to $1,900 in total savings. There are Samsung and Google equivalents too.
 
@@ -68,7 +60,6 @@ Last chance! Verizon is extending its tablet, smartwatch, and earbuds deal for u
  - [https://www.zdnet.com/article/how-to-manage-your-microsoft-365-subscription-in-windows-11/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-manage-your-microsoft-365-subscription-in-windows-11/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-06 18:58:32+00:00
- - tags: None
 
 You can review your Microsoft 365 plan directly in Windows 11 and easily access your Microsoft account website to manage your subscription.
 
@@ -76,7 +67,6 @@ You can review your Microsoft 365 plan directly in Windows 11 and easily access 
  - [https://www.zdnet.com/article/amazon-joins-open-invention-network/#ftag=RSSbaffb68](https://www.zdnet.com/article/amazon-joins-open-invention-network/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-06 18:37:10+00:00
- - tags: None
 
 AWS puts its patents behind the open-source and Linux patent guard OIN.
 
@@ -84,7 +74,6 @@ AWS puts its patents behind the open-source and Linux patent guard OIN.
  - [https://www.zdnet.com/article/rhel-and-its-linux-relatives-and-rivals-how-to-choose/#ftag=RSSbaffb68](https://www.zdnet.com/article/rhel-and-its-linux-relatives-and-rivals-how-to-choose/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-06 18:08:16+00:00
- - tags: None
 
 There's a whole family of Red Hat Enterprise Linux variants, each with its own users. We'll break down the family tree and explain what's suited for dfiferent needs.
 
@@ -92,7 +81,6 @@ There's a whole family of Red Hat Enterprise Linux variants, each with its own u
  - [https://www.zdnet.com/article/lectric-xp-3-0-e-bike-review/#ftag=RSSbaffb68](https://www.zdnet.com/article/lectric-xp-3-0-e-bike-review/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-06 17:54:39+00:00
- - tags: None
 
 The Lectric XP 3.0 is a comfortable cruising e-bike for running errands, taking short trips, and bringing along a passenger.
 
@@ -100,7 +88,6 @@ The Lectric XP 3.0 is a comfortable cruising e-bike for running errands, taking 
  - [https://www.zdnet.com/article/gaming-laptop-deal-asus-rog-zephyrus-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/gaming-laptop-deal-asus-rog-zephyrus-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-06 17:45:00+00:00
- - tags: None
 
 This high-end gaming laptop typically retails for $1,650. It's refreshing to see top specs like 1BT SSD and the AMD Ryzen 9 for a lower price.
 
@@ -108,7 +95,6 @@ This high-end gaming laptop typically retails for $1,650. It's refreshing to see
  - [https://www.zdnet.com/article/why-the-next-nfl-star-could-be-a-data-scientist/#ftag=RSSbaffb68](https://www.zdnet.com/article/why-the-next-nfl-star-could-be-a-data-scientist/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-06 17:18:00+00:00
- - tags: None
 
 In an innovative partnership between the NFL and AWS, data scientists are being commissioned to identify player contact, incentivized by a $50,000 prize.
 
@@ -116,7 +102,6 @@ In an innovative partnership between the NFL and AWS, data scientists are being 
  - [https://www.zdnet.com/article/pc-price-cuts-are-coming-as-manufacturers-rethink-their-portfolios/#ftag=RSSbaffb68](https://www.zdnet.com/article/pc-price-cuts-are-coming-as-manufacturers-rethink-their-portfolios/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-06 16:54:00+00:00
- - tags: None
 
 Economic uncertainty and decreased consumer demand are taking a toll on the tablet and PC markets. The silver lining for buyers is that excess inventory is forcing manufacturers to heavily discount prices.
 
@@ -124,7 +109,6 @@ Economic uncertainty and decreased consumer demand are taking a toll on the tabl
  - [https://www.zdnet.com/article/my-favorite-android-phone-can-do-things-my-iphone-cant-and-it-just-got-a-massive-upgrade/#ftag=RSSbaffb68](https://www.zdnet.com/article/my-favorite-android-phone-can-do-things-my-iphone-cant-and-it-just-got-a-massive-upgrade/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-06 16:47:44+00:00
- - tags: None
 
 Looking for a rugged phone that doesn't compromise when it comes to power, performance and display quality? Check out Ulefone's Power Armor 18T.
 
@@ -132,7 +116,6 @@ Looking for a rugged phone that doesn't compromise when it comes to power, perfo
  - [https://www.zdnet.com/home-and-office/this-is-the-best-way-to-add-more-ports-to-my-macbook-or-ipad-pro/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/this-is-the-best-way-to-add-more-ports-to-my-macbook-or-ipad-pro/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-06 14:38:54+00:00
- - tags: None
 
 The new M2 iPad Pro is a powerhouse, but that single USB-C port is very restrictive. Not anymore.
 
@@ -140,7 +123,6 @@ The new M2 iPad Pro is a powerhouse, but that single USB-C port is very restrict
  - [https://www.zdnet.com/home-and-office/this-is-the-best-way-to-add-more-ports-to-your-macbook-or-ipad-pro/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/this-is-the-best-way-to-add-more-ports-to-your-macbook-or-ipad-pro/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-06 14:38:00+00:00
- - tags: None
 
 The new M2 iPad Pro is a powerhouse, but that single USB-C port is very restrictive. Not anymore.
 
@@ -148,7 +130,6 @@ The new M2 iPad Pro is a powerhouse, but that single USB-C port is very restrict
  - [https://www.zdnet.com/article/apple-just-extended-its-iphone-self-service-repair-to-more-countries/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-just-extended-its-iphone-self-service-repair-to-more-countries/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-06 14:32:47+00:00
- - tags: None
 
 Apple now lets eight European countries fix their own iPhones, but for most it's still impractical to replace your own screen or battery.
 
@@ -156,7 +137,6 @@ Apple now lets eight European countries fix their own iPhones, but for most it's
  - [https://www.zdnet.com/article/youre-definitely-not-making-the-most-of-your-password-manager/#ftag=RSSbaffb68](https://www.zdnet.com/article/youre-definitely-not-making-the-most-of-your-password-manager/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-06 13:30:21+00:00
- - tags: None
 
 A password manager can do a lot more than store your passwords for you.
 
@@ -164,7 +144,6 @@ A password manager can do a lot more than store your passwords for you.
  - [https://www.zdnet.com/article/top-programming-languages-list-an-unexpected-change-at-the-top/#ftag=RSSbaffb68](https://www.zdnet.com/article/top-programming-languages-list-an-unexpected-change-at-the-top/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-06 13:01:21+00:00
- - tags: None
 
 One of the biggest programming languages has dropped out of the top three, according to one of the lists used to track coders' favourites.
 
@@ -172,7 +151,6 @@ One of the biggest programming languages has dropped out of the top three, accor
  - [https://www.zdnet.com/article/this-badly-made-ransomware-cant-decrypt-your-files-even-if-you-pay-the-ransom/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-badly-made-ransomware-cant-decrypt-your-files-even-if-you-pay-the-ransom/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-06 12:38:56+00:00
- - tags: None
 
 Researchers warn this badly built ransomware will destroy your files, so don't pay up.
 
@@ -180,7 +158,6 @@ Researchers warn this badly built ransomware will destroy your files, so don't p
  - [https://www.zdnet.com/article/artemis-1-mission-after-slingshot-lunar-flyby-nasas-orion-is-headed-back-to-earth/#ftag=RSSbaffb68](https://www.zdnet.com/article/artemis-1-mission-after-slingshot-lunar-flyby-nasas-orion-is-headed-back-to-earth/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-06 11:54:44+00:00
- - tags: None
 
 NASA experienced a four-hour site-wide outage at its Goldstone Deep Space Network, but it could have been much worse.
 
@@ -188,7 +165,6 @@ NASA experienced a four-hour site-wide outage at its Goldstone Deep Space Networ
  - [https://www.zdnet.com/article/this-1980s-programming-language-sparked-a-revolution-now-you-can-check-out-the-source-code/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-1980s-programming-language-sparked-a-revolution-now-you-can-check-out-the-source-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-06 09:57:00+00:00
- - tags: None
 
 The Computer History Museum has released the source code for a key piece of computing history that helped introduce desktop publishing.
 
@@ -196,7 +172,6 @@ The Computer History Museum has released the source code for a key piece of comp
  - [https://www.zdnet.com/home-and-office/arlo-launches-holiday-sale-essential-wireless-camera-prices-drop-deal-sale-coupon-code/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/arlo-launches-holiday-sale-essential-wireless-camera-prices-drop-deal-sale-coupon-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-06 09:12:20+00:00
- - tags: None
 
 The deal is one amongst many on offer during Arlo's holiday sale.
 
@@ -204,7 +179,6 @@ The deal is one amongst many on offer during Arlo's holiday sale.
  - [https://www.zdnet.com/article/2-million-dollar-puzzle-piece-this-together-and-win-up-to-1-million/#ftag=RSSbaffb68](https://www.zdnet.com/article/2-million-dollar-puzzle-piece-this-together-and-win-up-to-1-million/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-06 04:13:00+00:00
- - tags: None
 
 Normally $30, this puzzle offers cash prizes -- only after you piece it together.
 
@@ -212,6 +186,5 @@ Normally $30, this puzzle offers cash prizes -- only after you piece it together
  - [https://www.zdnet.com/article/adobe-sets-new-guidelines-for-ai-generated-stock-images/#ftag=RSSbaffb68](https://www.zdnet.com/article/adobe-sets-new-guidelines-for-ai-generated-stock-images/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-06 01:33:18+00:00
- - tags: None
 
 While other content platforms have moved in other direction, restricting or banning AI-generated content, Adobe is trying to embrace the new art form with the right set of rules

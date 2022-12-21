@@ -1,4 +1,11 @@
-# Source Sky News, Source URL:http://feeds.skynews.com/feeds/rss/world.xml
+# Source Sky News, Source URL:http://feeds.skynews.com/feeds/rss/world.xml, Source language: en-US
+
+## Elon Musk asks Twitter users if he should step down as boss of social media site
+ - [https://news.sky.com/story/elon-musk-asks-twitter-users-if-he-should-step-down-as-boss-of-social-media-site-12771044](https://news.sky.com/story/elon-musk-asks-twitter-users-if-he-should-step-down-as-boss-of-social-media-site-12771044)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2022-12-18 23:34:00+00:00
+
+Elon Musk is polling Twitter users to ask if he should step down as head of the social media platform.
 
 ## The rest of Messi's career will play out with satisfaction - however long he stays on the pitch
  - [https://news.sky.com/story/world-cup-the-rest-of-messis-career-will-play-out-with-satisfaction-however-long-he-stays-on-the-pitch-12770977](https://news.sky.com/story/world-cup-the-rest-of-messis-career-will-play-out-with-satisfaction-however-long-he-stays-on-the-pitch-12770977)

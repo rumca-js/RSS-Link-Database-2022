@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## .NET open source is 'heavily under-funded' says AWS
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59694](https://www.codeproject.com/script/News/View.aspx?nwid=59694)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-02 05:00:00+00:00
- - tags: None
 
 Come into my cloud, said the spider to the fly
 
@@ -12,7 +11,6 @@ Come into my cloud, said the spider to the fly
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59695](https://www.codeproject.com/script/News/View.aspx?nwid=59695)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-02 05:00:00+00:00
- - tags: None
 
 "I'm not growing up, I'm just burning out"
 
@@ -20,7 +18,6 @@ Come into my cloud, said the spider to the fly
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59690](https://www.codeproject.com/script/News/View.aspx?nwid=59690)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-02 05:00:00+00:00
- - tags: None
 
 New system can teach a group of cooperative or competitive AI agents to find an optimal long-term solution
 
@@ -28,7 +25,6 @@ New system can teach a group of cooperative or competitive AI agents to find an 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59699](https://www.codeproject.com/script/News/View.aspx?nwid=59699)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-02 05:00:00+00:00
- - tags: None
 
 "Time can never mend the careless whispers of a good friend"
 
@@ -36,7 +32,6 @@ New system can teach a group of cooperative or competitive AI agents to find an 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59689](https://www.codeproject.com/script/News/View.aspx?nwid=59689)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-02 05:00:00+00:00
- - tags: None
 
 At its re:Invent conference, AWS announced Amazon DataZone, a new data management service that can help enterprises catalog, discover, share and — most importantly — govern their data.
 
@@ -44,7 +39,6 @@ At its re:Invent conference, AWS announced Amazon DataZone, a new data managemen
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59693](https://www.codeproject.com/script/News/View.aspx?nwid=59693)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-02 05:00:00+00:00
- - tags: None
 
 Almost two-thirds (64%) of organisations suffer from ‘data drift’, where data for computer vision systems becomes out of date after a few months.
 
@@ -52,7 +46,6 @@ Almost two-thirds (64%) of organisations suffer from ‘data drift’, where dat
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59686](https://www.codeproject.com/script/News/View.aspx?nwid=59686)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-02 05:00:00+00:00
- - tags: None
 
 "When you're through learning, you're through."
 
@@ -60,7 +53,6 @@ Almost two-thirds (64%) of organisations suffer from ‘data drift’, where dat
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59700](https://www.codeproject.com/script/News/View.aspx?nwid=59700)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-02 05:00:00+00:00
- - tags: None
 
 Have you been spying on my conversations lately?
 
@@ -68,7 +60,6 @@ Have you been spying on my conversations lately?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59688](https://www.codeproject.com/script/News/View.aspx?nwid=59688)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-02 05:00:00+00:00
- - tags: None
 
 In this post, I’ll show you how you can set up your Windows development machine for data science projects
 
@@ -76,7 +67,6 @@ In this post, I’ll show you how you can set up your Windows development machin
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59684](https://www.codeproject.com/script/News/View.aspx?nwid=59684)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-02 05:00:00+00:00
- - tags: None
 
 Him first?
 
@@ -84,7 +74,6 @@ Him first?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59696](https://www.codeproject.com/script/News/View.aspx?nwid=59696)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-02 05:00:00+00:00
- - tags: None
 
 "I can't live, I can't give anymore"
 
@@ -92,7 +81,6 @@ Him first?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59692](https://www.codeproject.com/script/News/View.aspx?nwid=59692)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-02 05:00:00+00:00
- - tags: None
 
 Introducing the new state-of-the-art tree-based method and its potential further advancements
 
@@ -100,7 +88,6 @@ Introducing the new state-of-the-art tree-based method and its potential further
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59697](https://www.codeproject.com/script/News/View.aspx?nwid=59697)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-02 05:00:00+00:00
- - tags: None
 
 Who needs that app anyway?
 
@@ -108,7 +95,6 @@ Who needs that app anyway?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59685](https://www.codeproject.com/script/News/View.aspx?nwid=59685)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-02 05:00:00+00:00
- - tags: None
 
 Avoid all ZIP and HTML files!
 
@@ -116,7 +102,6 @@ Avoid all ZIP and HTML files!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59698](https://www.codeproject.com/script/News/View.aspx?nwid=59698)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-02 05:00:00+00:00
- - tags: None
 
 If you can't see it, try blowing on it and loading again
 
@@ -124,7 +109,6 @@ If you can't see it, try blowing on it and loading again
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59687](https://www.codeproject.com/script/News/View.aspx?nwid=59687)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-02 05:00:00+00:00
- - tags: None
 
 Data is usually messy and needs to be preprocessed before it can be used for training a model. If the data is not prepared correctly, the model won’t be able to generalize well.
 
@@ -132,7 +116,6 @@ Data is usually messy and needs to be preprocessed before it can be used for tra
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59691](https://www.codeproject.com/script/News/View.aspx?nwid=59691)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-02 05:00:00+00:00
- - tags: None
 
 An introduction to a few “used to” methods in a computer vision project
 
@@ -140,6 +123,5 @@ An introduction to a few “used to” methods in a computer vision project
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59683](https://www.codeproject.com/script/News/View.aspx?nwid=59683)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-02 05:00:00+00:00
- - tags: None
 
 TARDIS not required

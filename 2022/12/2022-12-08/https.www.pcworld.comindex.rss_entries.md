@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## Finally! Windows Snipping Tool will add screen recording
  - [https://www.pcworld.com/article/1430275/windows-snipping-tool-will-add-screen-recording.html](https://www.pcworld.com/article/1430275/windows-snipping-tool-will-add-screen-recording.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-08 22:58:50+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -42,7 +41,6 @@ Windows 11</div>
  - [https://www.pcworld.com/article/1430050/ftc-sues-to-block-microsofts-activision-gaming-deal.html](https://www.pcworld.com/article/1430050/ftc-sues-to-block-microsofts-activision-gaming-deal.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-08 20:51:50+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -83,7 +81,6 @@ Gaming</div>
  - [https://www.pcworld.com/article/1429957/chromes-memory-hog-is-going-on-a-diet.html](https://www.pcworld.com/article/1429957/chromes-memory-hog-is-going-on-a-diet.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-08 20:03:18+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -132,7 +129,6 @@ Browsers</div>
  - [https://www.pcworld.com/article/1421782/how-to-add-check-boxes-to-microsoft-word-documents.html](https://www.pcworld.com/article/1421782/how-to-add-check-boxes-to-microsoft-word-documents.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-08 15:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -207,7 +203,6 @@ Windows</div>
  - [https://www.pcworld.com/article/1429457/save-90-on-this-ultra-responsive-razer-viper-gaming-mouse.html](https://www.pcworld.com/article/1429457/save-90-on-this-ultra-responsive-razer-viper-gaming-mouse.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-08 15:29:49+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -228,7 +223,6 @@ Mice</div>
  - [https://www.pcworld.com/article/1371275/radeon-rx-7900-xtx-unboxed-amd-gorgeous-gpu.html](https://www.pcworld.com/article/1371275/radeon-rx-7900-xtx-unboxed-amd-gorgeous-gpu.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-08 14:33:14+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -312,7 +306,6 @@ Gaming, GPUs</div>
  - [https://www.pcworld.com/article/1427108/acer-chromebook-vero-514-review.html](https://www.pcworld.com/article/1427108/acer-chromebook-vero-514-review.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-08 11:45:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -468,7 +461,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/1418025/order-this-33g-mini-mouse-by-december-8-and-get-it-by-christmas.html](https://www.pcworld.com/article/1418025/order-this-33g-mini-mouse-by-december-8-and-get-it-by-christmas.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-08 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>

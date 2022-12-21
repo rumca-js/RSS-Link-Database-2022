@@ -1,4 +1,11 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/
+# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
+
+## Shopify Cancels Plans to Move Into Massive New Office Space in Downtown Toronto
+ - [https://www.theepochtimes.com/shopify-cancels-plans-to-move-into-massive-new-office-space-in-downtown-toronto_4931726.html](https://www.theepochtimes.com/shopify-cancels-plans-to-move-into-massive-new-office-space-in-downtown-toronto_4931726.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-18 23:49:19+00:00
+
+The logo of Shopify outside its headquarters in Ottawa on Sept. 28, 2018. (Chris Wattie/Reuters)
 
 ## Ontario Judge Grants Another Permanent Injunction in Two-Year Land Dispute
  - [https://www.theepochtimes.com/ontario-judge-grants-another-permanent-injunction-in-two-year-land-dispute_4931772.html](https://www.theepochtimes.com/ontario-judge-grants-another-permanent-injunction-in-two-year-land-dispute_4931772.html)

@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## Croatia has 'nothing to fear' ahead of quarterfinal clash against 'terrifying' Brazil, says head coach
  - [https://www.cnn.com/2022/12/08/football/brazil-croatia-world-cup-quarterfinals-spt-intl/index.html](https://www.cnn.com/2022/12/08/football/brazil-croatia-world-cup-quarterfinals-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 23:58:15+00:00
- - tags: None
 
 Vinícius Jr. fielded probing questions from reporters on the pressure Brazil is feeling as the favorite in Qatar and what some pundits perceived as disrespect towards opponents following the Seleção's dance moves against South Korea, but he was finally caught off guard in the press conference when a stray cat leapt onto the table in front of him.
 
@@ -12,7 +11,6 @@ Vinícius Jr. fielded probing questions from reporters on the pressure Brazil is
  - [https://www.cnn.com/videos/world/2022/12/08/german-right-wing-coup-plot-pleitgen-pkg-lead-contd-vpx.cnn](https://www.cnn.com/videos/world/2022/12/08/german-right-wing-coup-plot-pleitgen-pkg-lead-contd-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 23:38:26+00:00
- - tags: None
 
 CNN's Fred Pleitgen breaks down the plot that led to more than two dozen arrests in Germany this week - and why authorities expect more arrests.
 
@@ -20,7 +18,6 @@ CNN's Fred Pleitgen breaks down the plot that led to more than two dozen arrests
  - [https://www.cnn.com/2022/12/08/opinions/trump-terrible-week-message-republican-zelizer/index.html](https://www.cnn.com/2022/12/08/opinions/trump-terrible-week-message-republican-zelizer/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 22:28:04+00:00
- - tags: None
 
 The price of supporting Donald Trump to the Republican Party keeps getting higher. The former president has gone through one of the most tumultuous weeks possible, with fresh evidence of why the party's connection to him -- and his potential nomination in 2024 -- could be extraordinarily damaging.
 
@@ -28,7 +25,6 @@ The price of supporting Donald Trump to the Republican Party keeps getting highe
  - [https://www.cnn.com/style/article/jule-campbell-si-swimsuit-issue-dies-intl/index.html](https://www.cnn.com/style/article/jule-campbell-si-swimsuit-issue-dies-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 22:12:36+00:00
- - tags: None
 
 The pioneering editor widely credited with growing the iconic — and often infamous — Sports Illustrated Swimsuit Issue into a cultural institution has died at 96.
 
@@ -36,7 +32,6 @@ The pioneering editor widely credited with growing the iconic — and often infa
  - [https://www.cnn.com/collections/trump-intl-120822/](https://www.cnn.com/collections/trump-intl-120822/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 22:06:57+00:00
- - tags: None
 
 
 
@@ -44,7 +39,6 @@ The pioneering editor widely credited with growing the iconic — and often infa
  - [https://www.cnn.com/2022/12/08/opinions/detained-americans-cost-brittney-griner-release-bergen/index.html](https://www.cnn.com/2022/12/08/opinions/detained-americans-cost-brittney-griner-release-bergen/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 22:04:45+00:00
- - tags: None
 
 The release of basketball legend Brittney Griner, who was being held in a Russian penal colony on minor drug possession charges, in exchange for the notorious Russian arms dealer Viktor Bout, who was serving a long prison sentence in the United States, underlines an emerging trend of hostile states holding Americans to gain leverage over the US government.
 
@@ -52,7 +46,6 @@ The release of basketball legend Brittney Griner, who was being held in a Russia
  - [https://www.cnn.com/2022/12/08/politics/biden-griner-whelan-decision/index.html](https://www.cnn.com/2022/12/08/politics/biden-griner-whelan-decision/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 21:41:25+00:00
- - tags: None
 
 President Joe Biden had already personally informed Cherelle Griner that her wife was being released from Russian detention when aides arrived with more news: Brittney Griner was now securely out of Russia -- and on the telephone.
 
@@ -60,7 +53,6 @@ President Joe Biden had already personally informed Cherelle Griner that her wif
  - [https://www.cnn.com/videos/world/2022/12/08/nigeria-military-boko-haram-woman-secret-abortion-program-oneworld-contd-vpx.cnn](https://www.cnn.com/videos/world/2022/12/08/nigeria-military-boko-haram-woman-secret-abortion-program-oneworld-contd-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 21:28:02+00:00
- - tags: None
 
 Since at least 2013, more than 10,000 pregnancies were aborted as part of a "secret, systematic and illegal" abortion program allegedly "conducted" by the Nigerian military, a Reuters investigation has found. CNN's Nima Elbagir has more.
 
@@ -68,7 +60,6 @@ Since at least 2013, more than 10,000 pregnancies were aborted as part of a "sec
  - [https://www.cnn.com/2022/12/08/politics/trump-special-master-supreme-court/index.html](https://www.cnn.com/2022/12/08/politics/trump-special-master-supreme-court/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 21:19:32+00:00
- - tags: None
 
 Former President Donald Trump does not plan to appeal to the Supreme Court a lower court order that put an end to the special master review of documents seized from his Mar-a-Lago estate, a source familiar with the matter tells CNN.
 
@@ -76,7 +67,6 @@ Former President Donald Trump does not plan to appeal to the Supreme Court a low
  - [https://www.cnn.com/videos/politics/2022/12/08/brittney-griner-release-russia-plane-atwood-nr-vpx.cnn](https://www.cnn.com/videos/politics/2022/12/08/brittney-griner-release-russia-plane-atwood-nr-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 20:34:55+00:00
- - tags: None
 
 WNBA star Brittney Griner was released from Russian detention in a prisoner swap for convicted Russian arms dealer Viktor Bout. CNN's Kylie Atwood reports on video of her flight returning to the US.
 
@@ -84,7 +74,6 @@ WNBA star Brittney Griner was released from Russian detention in a prisoner swap
  - [https://www.cnn.com/2022/12/08/world/hell-exoplanet-55-cancri-e-scn/index.html](https://www.cnn.com/2022/12/08/world/hell-exoplanet-55-cancri-e-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 20:16:19+00:00
- - tags: None
 
 The exoplanet 55 Cancri e goes by several names, but the rocky world located 40 light-years from Earth is most known for its reputation as a "hell planet."
 
@@ -92,7 +81,6 @@ The exoplanet 55 Cancri e goes by several names, but the rocky world located 40 
  - [https://www.cnn.com/2022/12/08/politics/russian-prisoner-swap-brittney-griner-explainer/index.html](https://www.cnn.com/2022/12/08/politics/russian-prisoner-swap-brittney-griner-explainer/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 20:04:10+00:00
- - tags: None
 
 WNBA star Brittney Griner on Thursday was freed from Russian detention after a prisoner exchange for convicted arms dealer Viktor Bout.
 
@@ -100,7 +88,6 @@ WNBA star Brittney Griner on Thursday was freed from Russian detention after a p
  - [https://www.cnn.com/2022/12/08/americas/peru-president-elections-ouster-intl-latam/index.html](https://www.cnn.com/2022/12/08/americas/peru-president-elections-ouster-intl-latam/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 19:24:04+00:00
- - tags: None
 
 Peru's new President Dina Boluarte ruled out early elections on Thursday, her first day in office following the dramatic ousting and arrest of her predecessor Pedro Castillo.
 
@@ -108,7 +95,6 @@ Peru's new President Dina Boluarte ruled out early elections on Thursday, her fi
  - [https://www.cnn.com/2022/12/08/tech/pentagon-cloud-contract-big-tech/index.html](https://www.cnn.com/2022/12/08/tech/pentagon-cloud-contract-big-tech/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 19:14:41+00:00
- - tags: None
 
 The Defense Department has named Amazon, Google, Microsoft and Oracle as the winners of a multibillion-dollar cloud computing contract whose predecessor the Pentagon had to cancel amid Amazon's allegations that then-President Donald Trump had interfered in the award process.
 
@@ -116,7 +102,6 @@ The Defense Department has named Amazon, Google, Microsoft and Oracle as the win
  - [https://www.cnn.com/2022/12/08/opinions/morocco-world-cup-football-muslim-beydoun/index.html](https://www.cnn.com/2022/12/08/opinions/morocco-world-cup-football-muslim-beydoun/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 18:48:37+00:00
- - tags: None
 
 Those moments unwritten from the pages of history are often simply missing a stage. But for the Moroccan team taking to the field in Qatar to face off against heavily favored Spain on Tuesday, a new kind of stage was being set. The biggest football tournament, the FIFA World Cup, was unfolding in the heart of a Muslim nation. And authors adorned in red jerseys were primed to pen history with their feet instead of their hands.
 
@@ -124,7 +109,6 @@ Those moments unwritten from the pages of history are often simply missing a sta
  - [https://www.cnn.com/2022/12/08/europe/viktor-bout-putin-importance-analysis-intl/index.html](https://www.cnn.com/2022/12/08/europe/viktor-bout-putin-importance-analysis-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 18:39:38+00:00
- - tags: None
 
 It is the most uneven of swaps at the most unlikely of times, but perhaps the intense pressure of this moment is why the exchange of a US basketball star for a Russian arms dealer ended up happening now.
 
@@ -132,7 +116,6 @@ It is the most uneven of swaps at the most unlikely of times, but perhaps the in
  - [https://www.cnn.com/videos/media/2022/12/08/mariah-carey-wardrobe-malfunction-moos-cprog-orig-bdk.cnn](https://www.cnn.com/videos/media/2022/12/08/mariah-carey-wardrobe-malfunction-moos-cprog-orig-bdk.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 17:15:50+00:00
- - tags: None
 
 Whose wardrobe malfunction was worse ... Mariah's Carey's or Rudy Giuliani's? CNN's Jeanne Moos compares.
 
@@ -140,7 +123,6 @@ Whose wardrobe malfunction was worse ... Mariah's Carey's or Rudy Giuliani's? CN
  - [https://www.cnn.com/2022/12/08/uk/anne-sacoolas-sentencing-harry-dunn-death-intl-gbr/index.html](https://www.cnn.com/2022/12/08/uk/anne-sacoolas-sentencing-harry-dunn-death-intl-gbr/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 17:13:59+00:00
- - tags: None
 
 American citizen Anne Sacoolas was sentenced to eight months imprisonment, suspended for 12 months, at the Old Bailey in London for causing the death of British teenager Harry Dunn in a fatal traffic collision in August 2019, meaning she will not have to go to jail.
 
@@ -148,7 +130,6 @@ American citizen Anne Sacoolas was sentenced to eight months imprisonment, suspe
  - [https://www.cnn.com/videos/business/2022/12/08/harry-meghan-proposal-photos-netflix-documentary-lon-orig-na.cnn-business](https://www.cnn.com/videos/business/2022/12/08/harry-meghan-proposal-photos-netflix-documentary-lon-orig-na.cnn-business)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 16:53:00+00:00
- - tags: None
 
 In a highly anticipated Netflix documentary the couple shared details of their early dating life and photos not yet seen by the public.
 
@@ -156,7 +137,6 @@ In a highly anticipated Netflix documentary the couple shared details of their e
  - [https://www.cnn.com/videos/politics/2022/12/08/paul-whelan-cnn-interview-audio-exclusive-hansler-ath-vpx.cnn](https://www.cnn.com/videos/politics/2022/12/08/paul-whelan-cnn-interview-audio-exclusive-hansler-ath-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 16:51:50+00:00
- - tags: None
 
 CNN State Department producer Jennifer Hansler spoke exclusively to former US Marine Paul Whelan, who remains in a Russian prison, following the release of WNBA star Brittney Griner from prison.
 
@@ -164,7 +144,6 @@ CNN State Department producer Jennifer Hansler spoke exclusively to former US Ma
  - [https://www.cnn.com/2022/12/08/world/kilonova-gamma-rays-gold-scn/index.html](https://www.cnn.com/2022/12/08/world/kilonova-gamma-rays-gold-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 16:47:27+00:00
- - tags: None
 
 An unusual bright blast of light detected by multiple telescopes in December 2021 was the result of a rare cosmic explosion that created a wealth of heavy elements such as gold and platinum.
 
@@ -172,7 +151,6 @@ An unusual bright blast of light detected by multiple telescopes in December 202
  - [https://www.cnn.com/2022/12/08/us/philadelphia-boy-in-box-thursday/index.html](https://www.cnn.com/2022/12/08/us/philadelphia-boy-in-box-thursday/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 16:17:51+00:00
- - tags: None
 
 The "Boy in the Box" finally has a name.
 
@@ -180,7 +158,6 @@ The "Boy in the Box" finally has a name.
  - [https://www.cnn.com/2022/12/08/entertainment/toni-collette-split-divorce-husband-dave-galafassi/index.html](https://www.cnn.com/2022/12/08/entertainment/toni-collette-split-divorce-husband-dave-galafassi/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 16:17:44+00:00
- - tags: None
 
 Toni Collette and husband Dave Galafassi are divorcing after 20 years of marriage.
 
@@ -188,7 +165,6 @@ Toni Collette and husband Dave Galafassi are divorcing after 20 years of marriag
  - [https://www.cnn.com/travel/article/cats-on-planes-allergies/index.html](https://www.cnn.com/travel/article/cats-on-planes-allergies/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 16:14:40+00:00
- - tags: None
 
 At the Bogota airport, as passengers were placing their carry-ons, laptops and purses in bins inching their way on the conveyer belt for inspection, one item stood out: it was a cat, and its owner was putting it into a cabin-ready case.
 
@@ -196,7 +172,6 @@ At the Bogota airport, as passengers were placing their carry-ons, laptops and p
  - [https://www.cnn.com/2022/12/08/entertainment/jerrod-carmichael-golden-globes-host/index.html](https://www.cnn.com/2022/12/08/entertainment/jerrod-carmichael-golden-globes-host/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 16:03:35+00:00
- - tags: None
 
 Jerrod Carmichael has been named host of the 2023 Golden Globes.
 
@@ -204,7 +179,6 @@ Jerrod Carmichael has been named host of the 2023 Golden Globes.
  - [https://www.cnn.com/2022/12/08/tech/twitter-unbanned-users-returning/index.html](https://www.cnn.com/2022/12/08/tech/twitter-unbanned-users-returning/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 15:58:30+00:00
- - tags: None
 
 Thousands of previously banned Twitter users, including members of the far-right and users sharing blatant misinformation, have begun to have their accounts restored to the platform, according to an independent analysis.
 
@@ -212,7 +186,6 @@ Thousands of previously banned Twitter users, including members of the far-right
  - [https://www.cnn.com/2022/12/08/football/fifa-qatar-migrant-worker-death-spt-intl/index.html](https://www.cnn.com/2022/12/08/football/fifa-qatar-migrant-worker-death-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 15:47:00+00:00
- - tags: None
 
 FIFA on Thursday confirmed the death of a migrant worker at the resort used by Saudi Arabia during the group stages at the World Cup in Qatar.
 
@@ -220,7 +193,6 @@ FIFA on Thursday confirmed the death of a migrant worker at the resort used by S
  - [https://www.cnn.com/2022/12/08/energy/turkey-oil-black-sea-russia/index.html](https://www.cnn.com/2022/12/08/energy/turkey-oil-black-sea-russia/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 15:44:47+00:00
- - tags: None
 
 A bottleneck is building across an important trading route for oil, which if left unresolved could knock global supply and boost prices at a fragile moment for energy markets.
 
@@ -228,7 +200,6 @@ A bottleneck is building across an important trading route for oil, which if lef
  - [https://www.cnn.com/2022/12/08/africa/student-beaten-nigeria-first-lady-intl/index.html](https://www.cnn.com/2022/12/08/africa/student-beaten-nigeria-first-lady-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 14:54:43+00:00
- - tags: None
 
 Nigeria's first lady ordered security operatives to detain a student and also supervised his beating at the country's presidential villa, his lawyer has alleged.
 
@@ -236,7 +207,6 @@ Nigeria's first lady ordered security operatives to detain a student and also su
  - [https://www.cnn.com/2022/12/08/tech/biden-supreme-court-tech-liability-shield/index.html](https://www.cnn.com/2022/12/08/tech/biden-supreme-court-tech-liability-shield/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 14:47:03+00:00
- - tags: None
 
 The Biden administration has told the US Supreme Court that social media platforms ought to be potentially liable for recommendations made by their AI-driven content algorithms, weighing in against Google in a pivotal case on digital speech and content moderation.
 
@@ -244,7 +214,6 @@ The Biden administration has told the US Supreme Court that social media platfor
  - [https://www.cnn.com/2022/12/08/entertainment/elisabeth-finch-greys-anatomy/index.html](https://www.cnn.com/2022/12/08/entertainment/elisabeth-finch-greys-anatomy/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 14:40:16+00:00
- - tags: None
 
 Elisabeth Finch, who had served as a writer and consulting producer on ABC's hit series "Grey's Anatomy," has given an interview in which she admitted that she lied about her health and personal life.
 
@@ -252,7 +221,6 @@ Elisabeth Finch, who had served as a writer and consulting producer on ABC's hit
  - [https://www.cnn.com/2022/12/08/media/disney-plus-ad-prices/index.html](https://www.cnn.com/2022/12/08/media/disney-plus-ad-prices/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 14:24:12+00:00
- - tags: None
 
 Disney+ is getting more expensive, unless you want ads.
 
@@ -260,7 +228,6 @@ Disney+ is getting more expensive, unless you want ads.
  - [https://www.cnn.com/videos/politics/2022/12/08/paul-whelan-brother-brittney-griner-release-russia-prisoner-swap-cnntm-vpx.cnn](https://www.cnn.com/videos/politics/2022/12/08/paul-whelan-brother-brittney-griner-release-russia-prisoner-swap-cnntm-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 14:21:36+00:00
- - tags: None
 
 David Whelan, the brother of Paul Whelan, an American who has been detained in Russia since 2018, speaks with CNN about the release of WNBA star Brittney Griner and the next steps for securing the release of his sibling.
 
@@ -268,7 +235,6 @@ David Whelan, the brother of Paul Whelan, an American who has been detained in R
  - [https://www.cnn.com/videos/politics/2022/12/08/brittney-griner-cherelle-griner-wife-release-remarks-cnntm-vpx.cnn](https://www.cnn.com/videos/politics/2022/12/08/brittney-griner-cherelle-griner-wife-release-remarks-cnntm-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 14:20:11+00:00
- - tags: None
 
 Cherelle Griner, wife of WNBA star Brittney Griner, speaks at the White House after President Biden announced that Russia released Griner from prison in exchange for convicted arms dealer Viktor Bout.
 
@@ -276,7 +242,6 @@ Cherelle Griner, wife of WNBA star Brittney Griner, speaks at the White House af
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-12-08-22/h_bee4a49b2c245d6696c90c6122b20846](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-12-08-22/h_bee4a49b2c245d6696c90c6122b20846)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 14:19:18.984288+00:00
- - tags: None
 
 
 
@@ -284,7 +249,6 @@ Cherelle Griner, wife of WNBA star Brittney Griner, speaks at the White House af
  - [https://www.cnn.com/2022/12/08/tech/google-waze-maps-merge/index.html](https://www.cnn.com/2022/12/08/tech/google-waze-maps-merge/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 14:16:10+00:00
- - tags: None
 
 Google said on Thursday it will merge teams working on mapping service Waze and products like Google Maps, effective Dec. 9, in a bid to consolidate processes.
 
@@ -292,7 +256,6 @@ Google said on Thursday it will merge teams working on mapping service Waze and 
  - [https://www.cnn.com/travel/article/welcoming-countries-index-2022/index.html](https://www.cnn.com/travel/article/welcoming-countries-index-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 13:51:34+00:00
- - tags: None
 
 For the busiest of business travelers, who regularly find themselves called to fly to a string of countries at short notice, up-to-date information on which countries require visas or electronic travel authorizations (eTAs) is essential.
 
@@ -300,7 +263,6 @@ For the busiest of business travelers, who regularly find themselves called to f
  - [https://www.cnn.com/2022/12/08/politics/brittney-griner-released/index.html](https://www.cnn.com/2022/12/08/politics/brittney-griner-released/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 13:40:39+00:00
- - tags: None
 
 WNBA star Brittney Griner has been released from Russian detention in a prisoner swap, President Joe Biden said Thursday.
 
@@ -308,7 +270,6 @@ WNBA star Brittney Griner has been released from Russian detention in a prisoner
  - [https://www.cnn.com/2022/12/08/americas/viktor-bout-profile-prisoner-swap-intl/index.html](https://www.cnn.com/2022/12/08/americas/viktor-bout-profile-prisoner-swap-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 13:31:41+00:00
- - tags: None
 
 Brittney Griner's freedom ultimately hinged on the release of a convicted Russian arms dealer whose life story inspired a Hollywood film.
 
@@ -316,7 +277,6 @@ Brittney Griner's freedom ultimately hinged on the release of a convicted Russia
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-12-08-22/h_c28d340140bdc244a5af822b866395bc](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-12-08-22/h_c28d340140bdc244a5af822b866395bc)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 13:19:14.328221+00:00
- - tags: None
 
 
 
@@ -324,7 +284,6 @@ Brittney Griner's freedom ultimately hinged on the release of a convicted Russia
  - [https://www.cnn.com/videos/business/2022/12/07/alzheimers-mom-viral-tiktok-orig-dp.cnn](https://www.cnn.com/videos/business/2022/12/07/alzheimers-mom-viral-tiktok-orig-dp.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 13:14:09+00:00
- - tags: None
 
 When Joshua Pettit posted a video of his 85-year-old mother with Alzheimer's on social media, he had no idea how the internet was going to react.  It turns out, they couldn't get enough.
 
@@ -332,7 +291,6 @@ When Joshua Pettit posted a video of his 85-year-old mother with Alzheimer's on 
  - [https://www.cnn.com/2022/12/08/entertainment/celine-dion-stiff-person-syndrome/index.html](https://www.cnn.com/2022/12/08/entertainment/celine-dion-stiff-person-syndrome/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 13:04:32+00:00
- - tags: None
 
 Celine Dion is postponing several Europe tour dates after the recent diagnosis of a rare neurological disorder that doesn't allow her "to sing the way I'm used to," she announced.
 
@@ -340,7 +298,6 @@ Celine Dion is postponing several Europe tour dates after the recent diagnosis o
  - [https://www.cnn.com/2022/12/08/business/kim-kardashian-ethereummax-lawsuit/index.html](https://www.cnn.com/2022/12/08/business/kim-kardashian-ethereummax-lawsuit/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 12:49:56+00:00
- - tags: None
 
 A federal judge in California on Wednesday dismissed a lawsuit against reality TV star Kim Kardashian, boxing legend Floyd Mayweather Jr. and others over their role in promoting a cryptocurrency, saying it was not clear that the investors who sued actually saw the promotions.
 
@@ -348,7 +305,6 @@ A federal judge in California on Wednesday dismissed a lawsuit against reality T
  - [https://www.cnn.com/2022/12/08/middleeast/china-xi-jinping-mbs-saudi-arabia-intl/index.html](https://www.cnn.com/2022/12/08/middleeast/china-xi-jinping-mbs-saudi-arabia-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 12:44:28+00:00
- - tags: None
 
 Saudi Arabia's Crown Prince Mohammed bin Salman welcomed Chinese President Xi Jinping with a lavish reception in the capital Riyadh on Thursday, as the two countries head for a number of summits heralding an "epoch-making milestone" in China's relations with the Arab world.
 
@@ -356,7 +312,6 @@ Saudi Arabia's Crown Prince Mohammed bin Salman welcomed Chinese President Xi Ji
  - [https://www.cnn.com/collections/intl-haz--megz-081222/](https://www.cnn.com/collections/intl-haz--megz-081222/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 12:43:45+00:00
- - tags: None
 
 
 
@@ -364,7 +319,6 @@ Saudi Arabia's Crown Prince Mohammed bin Salman welcomed Chinese President Xi Ji
  - [https://www.cnn.com/2022/12/08/us/club-q-shooting-arrest-affidavit-unsealed/index.html](https://www.cnn.com/2022/12/08/us/club-q-shooting-arrest-affidavit-unsealed/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 12:43:35+00:00
- - tags: None
 
 After allegedly killing five people and injuring more than a dozen others, the 22-year-old suspect in a mass shooting at an LGBTQ nightclub in Colorado Springs, Colorado, apologized to medical staff after being taken into custody, according to a court document unsealed Wednesday.
 
@@ -372,7 +326,6 @@ After allegedly killing five people and injuring more than a dozen others, the 2
  - [https://www.cnn.com/2022/12/08/health/flu-children-wellness/index.html](https://www.cnn.com/2022/12/08/health/flu-children-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 12:41:32+00:00
- - tags: None
 
 Laura Tejeda had been up watching her 7-month-old daughter Zoelis' breathing all night this past November. She had been to a local hospital near the family's home earlier in the day, concerned about a fever and Zoelis' breathing being off, but had been sent home. In the middle of the night, Tejeda watched Zoelis' chest tighten, and she knew she had to act. She got in a taxi from the Bronx to New York Presbyterian Hospital in Manhattan, where a nurse took one look at Zoelis and brought her straight to the back.
 
@@ -380,7 +333,6 @@ Laura Tejeda had been up watching her 7-month-old daughter Zoelis' breathing all
  - [https://www.cnn.com/2022/12/08/investing/elon-musk-tesla-short-sellers-profits/index.html](https://www.cnn.com/2022/12/08/investing/elon-musk-tesla-short-sellers-profits/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 12:40:52+00:00
- - tags: None
 
 Here's more bad news for Tesla CEO Elon Musk — as if he needs any.
 
@@ -388,7 +340,6 @@ Here's more bad news for Tesla CEO Elon Musk — as if he needs any.
  - [https://www.cnn.com/2022/12/08/football/cristiano-ronaldo-portugal-world-cup-camp-spt-intl/index.html](https://www.cnn.com/2022/12/08/football/cristiano-ronaldo-portugal-world-cup-camp-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 12:22:28+00:00
- - tags: None
 
 The Portuguese Football Federation (FPF) on Thursday denied that star forward Cristiano Ronaldo had threatened to leave the World Cup squad after being named as a substitute against Switzerland earlier this week.
 
@@ -396,7 +347,6 @@ The Portuguese Football Federation (FPF) on Thursday denied that star forward Cr
  - [https://www.cnn.com/style/article/samara-golden-artist-guts/index.html](https://www.cnn.com/style/article/samara-golden-artist-guts/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 12:12:02+00:00
- - tags: None
 
 The artist Samara Golden has spent months painting guts — lurid, swollen, sinuous forms in bloody red, purplish-blue or a sickly yellow. Made of expandable foam, encased in balloons like misshapen sausage links, they are layered onto large-scale panels that loom above viewers.
 
@@ -404,7 +354,6 @@ The artist Samara Golden has spent months painting guts — lurid, swollen, sinu
  - [https://www.cnn.com/collections/intl-ukraine-081222/](https://www.cnn.com/collections/intl-ukraine-081222/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 11:38:10+00:00
- - tags: None
 
 
 
@@ -412,7 +361,6 @@ The artist Samara Golden has spent months painting guts — lurid, swollen, sinu
  - [https://www.cnn.com/collections/intl-us-pols-0812/](https://www.cnn.com/collections/intl-us-pols-0812/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 11:31:21+00:00
- - tags: None
 
 
 
@@ -420,7 +368,6 @@ The artist Samara Golden has spent months painting guts — lurid, swollen, sinu
  - [https://www.cnn.com/2022/12/08/business/defense-bill-russia-gold/index.html](https://www.cnn.com/2022/12/08/business/defense-bill-russia-gold/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 11:28:05+00:00
- - tags: None
 
 A must-pass defense bill now being negotiated in Congress includes new sanctions designed to trip up Russia's war machine by targeting Moscow's mountain of gold.
 
@@ -428,7 +375,6 @@ A must-pass defense bill now being negotiated in Congress includes new sanctions
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-12-08-22/index.html](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-12-08-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 11:19:07.788073+00:00
- - tags: None
 
 
 
@@ -436,7 +382,6 @@ A must-pass defense bill now being negotiated in Congress includes new sanctions
  - [https://www.cnn.com/2022/12/08/football/raheem-sterling-england-qatar-world-cup-spt-intl/index.html](https://www.cnn.com/2022/12/08/football/raheem-sterling-england-qatar-world-cup-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 11:02:13+00:00
- - tags: None
 
 England star Raheem Sterling will return to the team's World Cup base in Qatar ahead of the Three Lions' quarterfinal tie against France on Saturday after flying home when intruders broke into his family home.
 
@@ -444,7 +389,6 @@ England star Raheem Sterling will return to the team's World Cup base in Qatar a
  - [https://www.cnn.com/2022/12/08/politics/same-sex-marriage-vote-house/index.html](https://www.cnn.com/2022/12/08/politics/same-sex-marriage-vote-house/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 11:00:30+00:00
- - tags: None
 
 The House is expected to vote and pass legislation on Thursday to protect same-sex and interracial marriage, the last step before the measure goes to President Joe Biden for his signature and becomes law.
 
@@ -452,7 +396,6 @@ The House is expected to vote and pass legislation on Thursday to protect same-s
  - [https://www.cnn.com/travel/article/google-flights-trending-destinations-2022/index.html](https://www.cnn.com/travel/article/google-flights-trending-destinations-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 10:56:51+00:00
- - tags: None
 
 Google has released its annual roundup of Year in Search trends, which covers a wide variety of topics, including tourism.
 
@@ -460,7 +403,6 @@ Google has released its annual roundup of Year in Search trends, which covers a 
  - [https://www.cnn.com/2022/12/08/sport/henry-anderson-stroke-carolina-panthers-spt-intl/index.html](https://www.cnn.com/2022/12/08/sport/henry-anderson-stroke-carolina-panthers-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 10:28:58+00:00
- - tags: None
 
 Henry Anderson, a defensive end for the Carolina Panthers, revealed on Wednesday that he suffered a "minor stroke" in October, and that he's hopeful of returning to action on Sunday against the Seattle Seahawks.
 
@@ -468,7 +410,6 @@ Henry Anderson, a defensive end for the Carolina Panthers, revealed on Wednesday
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-12-08-22/index.html](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-12-08-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 10:19:03.891541+00:00
- - tags: None
 
 
 
@@ -476,7 +417,6 @@ Henry Anderson, a defensive end for the Carolina Panthers, revealed on Wednesday
  - [https://www.cnn.com/2022/12/08/politics/supreme-court-gorsuch-thomas-alito-moore-harper-analysis/index.html](https://www.cnn.com/2022/12/08/politics/supreme-court-gorsuch-thomas-alito-moore-harper-analysis/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 10:01:05+00:00
- - tags: None
 
 Since the 2020 presidential election, Supreme Court Justices Clarence Thomas, Samuel Alito and Neil Gorsuch have been erecting the scaffolding for a decision that could transform election practices nationwide.
 
@@ -484,7 +424,6 @@ Since the 2020 presidential election, Supreme Court Justices Clarence Thomas, Sa
  - [https://www.cnn.com/2022/12/08/sport/mary-ngugi-marathon-running-kenya-spt-intl/index.html](https://www.cnn.com/2022/12/08/sport/mary-ngugi-marathon-running-kenya-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 09:28:49+00:00
- - tags: None
 
 In the darkest moments of her toughest training sessions, professional marathon runner Mary Ngugi likes to lean on her trackside audience for motivation.
 
@@ -492,7 +431,6 @@ In the darkest moments of her toughest training sessions, professional marathon 
  - [https://www.cnn.com/style/article/postcards-africa-through-the-lens-collective-spc/index.html](https://www.cnn.com/style/article/postcards-africa-through-the-lens-collective-spc/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 09:09:31+00:00
- - tags: None
 
 These days, you can't avoid seeing pictures from your friends' vacations on Instagram or Facebook, but not so long ago, the most common way to see the world was on a postcard.
 
@@ -500,7 +438,6 @@ These days, you can't avoid seeing pictures from your friends' vacations on Inst
  - [https://www.cnn.com/travel/article/japan-dish-of-the-year-frozen-food-intl-hnk/index.html](https://www.cnn.com/travel/article/japan-dish-of-the-year-frozen-food-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 09:07:03+00:00
- - tags: None
 
 Smoke began to drift out of a box as the winner of Japan's "dish of the year" was revealed.
 
@@ -508,7 +445,6 @@ Smoke began to drift out of a box as the winner of Japan's "dish of the year" wa
  - [https://www.cnn.com/2022/12/08/china/china-zero-covid-relaxation-reaction-intl-hnk/index.html](https://www.cnn.com/2022/12/08/china/china-zero-covid-relaxation-reaction-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 08:55:27+00:00
- - tags: None
 
 Workers across China have dismantled some of the physical signs of the country's zero-Covid controls, peeling health code scanning signs off metro station walls and closing some checkpoints after the government unveiled an overhaul of its pandemic policy.
 
@@ -516,7 +452,6 @@ Workers across China have dismantled some of the physical signs of the country's
  - [https://www.cnn.com/2022/12/08/middleeast/iran-executes-first-protester-intl-hnk/index.html](https://www.cnn.com/2022/12/08/middleeast/iran-executes-first-protester-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 08:32:47+00:00
- - tags: None
 
 Iran has executed a man for injuring a paramilitary officer in the first known execution linked to protests that have swept the country since September, state media reported Thursday.
 
@@ -524,7 +459,6 @@ Iran has executed a man for injuring a paramilitary officer in the first known e
  - [https://www.cnn.com/2022/12/08/us/virginia-school-superintendent-fired-report-sexual-assaults/index.html](https://www.cnn.com/2022/12/08/us/virginia-school-superintendent-fired-report-sexual-assaults/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 08:25:59+00:00
- - tags: None
 
 A Virginia school superintendent was fired Tuesday, a day after a report from the state accused him of lying about a sexual assault involving a student in May 2021.
 
@@ -532,7 +466,6 @@ A Virginia school superintendent was fired Tuesday, a day after a report from th
  - [https://www.cnn.com/2022/12/08/entertainment/harry-meghan-netflix-documentary-release-intl/index.html](https://www.cnn.com/2022/12/08/entertainment/harry-meghan-netflix-documentary-release-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 08:15:37+00:00
- - tags: None
 
 Prince Harry and Meghan, Duchess of Sussex's controversial Netflix documentary has been released on the streaming platform, with the couple promising to recall their experiences of their bitter split from the British royal family.
 
@@ -540,7 +473,6 @@ Prince Harry and Meghan, Duchess of Sussex's controversial Netflix documentary h
  - [https://www.cnn.com/2022/12/07/americas/dina-boluarte-profile-intl-latam/index.html](https://www.cnn.com/2022/12/07/americas/dina-boluarte-profile-intl-latam/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 07:54:07+00:00
- - tags: None
 
 Dina Boluarte took office as the new President of Peru on Wednesday, after Congress ousted former president Pedro Castillo.
 
@@ -548,7 +480,6 @@ Dina Boluarte took office as the new President of Peru on Wednesday, after Congr
  - [https://www.cnn.com/2022/12/08/us/university-of-idaho-student-killings-white-sedan/index.html](https://www.cnn.com/2022/12/08/us/university-of-idaho-student-killings-white-sedan/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 07:29:02+00:00
- - tags: None
 
 Investigators in the killings of four University of Idaho students are searching for at least one person they believe was inside a white sedan seen near the crime scene around the time of the deaths last month, police said Wednesday.
 
@@ -556,7 +487,6 @@ Investigators in the killings of four University of Idaho students are searching
  - [https://www.cnn.com/travel/article/nantucket-topless-beaches/index.html](https://www.cnn.com/travel/article/nantucket-topless-beaches/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 07:20:02+00:00
- - tags: None
 
 It is now legal for women -- and men -- to be topless at beaches on the popular vacation island of Nantucket, off the coast of Massachusetts.
 
@@ -564,7 +494,6 @@ It is now legal for women -- and men -- to be topless at beaches on the popular 
  - [https://www.cnn.com/videos/politics/2022/12/08/dr-anthony-fauci-donald-trump-administration-wtcw-vpx.cnn](https://www.cnn.com/videos/politics/2022/12/08/dr-anthony-fauci-donald-trump-administration-wtcw-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 07:19:07+00:00
- - tags: None
 
 As he prepares to leave the National Institutes of Health after 54 years of public service as the nation's top doctor of infectious disease, Dr. Fauci reflected on the ups and downs throughout his career. Watch 'Who's Talking to Chris Wallace' Sunday 7 PM ET on CNN.
 
@@ -572,7 +501,6 @@ As he prepares to leave the National Institutes of Health after 54 years of publ
  - [https://www.cnn.com/2022/12/08/asia/taliban-afghanistan-first-public-execution-intl-hnk/index.html](https://www.cnn.com/2022/12/08/asia/taliban-afghanistan-first-public-execution-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 07:16:37+00:00
- - tags: None
 
 The Taliban on Wednesday put an alleged murderer to death in the first public execution held in Afghanistan since the Islamist group returned to power.
 
@@ -580,7 +508,6 @@ The Taliban on Wednesday put an alleged murderer to death in the first public ex
  - [https://www.cnn.com/style/article/liz-garbus-harry-meghan-netflix/index.html](https://www.cnn.com/style/article/liz-garbus-harry-meghan-netflix/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 05:57:23+00:00
- - tags: None
 
 After much speculation over the fate of Netflix's docuseries "Harry & Meghan," the first three episodes finally arrive Thursday, offering an intimate look at the lives of the Duke and Duchess of Sussex and, as the trailers suggest, further insight into why they stepped down from their royal duties.
 
@@ -588,7 +515,6 @@ After much speculation over the fate of Netflix's docuseries "Harry & Meghan," t
  - [https://www.cnn.com/videos/politics/2022/12/08/gop-georgia-midterm-reaction-lindsey-graham-john-thune-ac360-vpx.cnn](https://www.cnn.com/videos/politics/2022/12/08/gop-georgia-midterm-reaction-lindsey-graham-john-thune-ac360-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 05:51:15+00:00
- - tags: None
 
 In the wake of the loss of former President Donald Trump's hand picked challenger Herschel Walker to Sen. Raphael Warnock in the Georgia Senate race, the Republican blame-game has begun.
 
@@ -596,7 +522,6 @@ In the wake of the loss of former President Donald Trump's hand picked challenge
  - [https://www.cnn.com/videos/world/2022/12/08/russia-putin-sot-intercepted-phone-call-russian-soldier-ukraine-ebof-vpx.cnn](https://www.cnn.com/videos/world/2022/12/08/russia-putin-sot-intercepted-phone-call-russian-soldier-ukraine-ebof-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 05:50:02+00:00
- - tags: None
 
 An intercepted phone call between a Russian soldier and his mother reveals conditions on the front lines of Russian President Vladimir Putin's war in Ukraine.
 
@@ -604,7 +529,6 @@ An intercepted phone call between a Russian soldier and his mother reveals condi
  - [https://www.cnn.com/2022/12/07/media/new-york-times-strike/index.html](https://www.cnn.com/2022/12/07/media/new-york-times-strike/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 05:02:47+00:00
- - tags: None
 
 A 24-hour strike at The New York Times, a historic demonstration in which more than 1,100 employees are expected to participate, will take effect Thursday at midnight, after management and the union representing staffers failed to reach an agreement for a new contract after more than a year and a half of negotiating.
 
@@ -612,7 +536,6 @@ A 24-hour strike at The New York Times, a historic demonstration in which more t
  - [https://www.cnn.com/2022/12/07/europe/putin-ukraine-russia-nuclear-intl-hnk/index.html](https://www.cnn.com/2022/12/07/europe/putin-ukraine-russia-nuclear-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 05:01:09+00:00
- - tags: None
 
 Nearly 10 months after his invasion of Ukraine began, Russian President Vladimir Putin on Wednesday acknowledged that the conflict is "going to take a while," as he also warned of the "increasing" threat of nuclear war.
 
@@ -620,7 +543,6 @@ Nearly 10 months after his invasion of Ukraine began, Russian President Vladimir
  - [https://www.cnn.com/collections/intl-0812-trump/](https://www.cnn.com/collections/intl-0812-trump/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 03:37:43+00:00
- - tags: None
 
 
 
@@ -628,7 +550,6 @@ Nearly 10 months after his invasion of Ukraine began, Russian President Vladimir
  - [https://www.cnn.com/2022/12/07/politics/ukraine-cluster-munitions-us-war-russia/index.html](https://www.cnn.com/2022/12/07/politics/ukraine-cluster-munitions-us-war-russia/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 02:54:00+00:00
- - tags: None
 
 Ukrainian officials and lawmakers have in recent months urged the Biden administration and members of Congress to provide the Ukrainian military with cluster munition warheads, weapons that are banned by more than 100 countries but that Russia continues to use to devastating effect inside Ukraine.
 
@@ -636,7 +557,6 @@ Ukrainian officials and lawmakers have in recent months urged the Biden administ
  - [https://www.cnn.com/2022/12/07/asia/bali-bomber-indonesia-release-parole-intl-hnk/index.html](https://www.cnn.com/2022/12/07/asia/bali-bomber-indonesia-release-parole-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 02:50:42+00:00
- - tags: None
 
 Indonesia has released on parole Umar Patek, a bomb maker in the deadly 2002 Bali attacks, the Ministry of Law and Human Rights said on Wednesday.
 
@@ -644,7 +564,6 @@ Indonesia has released on parole Umar Patek, a bomb maker in the deadly 2002 Bal
  - [https://www.cnn.com/2022/12/07/politics/trump-republicans-georgia-senate-race/index.html](https://www.cnn.com/2022/12/07/politics/trump-republicans-georgia-senate-race/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 02:30:33+00:00
- - tags: None
 
 Donald Trump is facing a flurry of criticism on Capitol Hill, with Republican fury growing over their failure to take back the Senate and GOP leaders at odds over their strategy with the former president still maintaining a dominant hold on the party.
 
@@ -652,6 +571,5 @@ Donald Trump is facing a flurry of criticism on Capitol Hill, with Republican fu
  - [https://www.cnn.com/videos/travel/2022/12/07/strangers-road-trip-tiktok-cprog-lon-orig-jk-tp.cnn](https://www.cnn.com/videos/travel/2022/12/07/strangers-road-trip-tiktok-cprog-lon-orig-jk-tp.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-08 02:06:36+00:00
- - tags: None
 
 After their flight was canceled late on Sunday, 13 strangers decided to rent a van and drive all the way from Orlando to Knoxville, Tennessee.

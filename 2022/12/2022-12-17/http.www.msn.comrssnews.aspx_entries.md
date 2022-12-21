@@ -1,4 +1,4 @@
-# Source MSN, Source URL:http://www.msn.com/rss/news.aspx
+# Source MSN, Source URL:http://www.msn.com/rss/news.aspx, Source language: en-US
 
 ## Sam Bankman-Fried WON'T contest extradition to US on $1bn FTX crypto fraud charges
  - [http://www.msn.com/en-us/news/politics/sam-bankman-fried-won-t-contest-extradition-to-us-on-1bn-ftx-crypto-fraud-charges/ar-AA15oKTm?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/sam-bankman-fried-won-t-contest-extradition-to-us-on-1bn-ftx-crypto-fraud-charges/ar-AA15oKTm?li=BBnbcA1&srcref=rss)

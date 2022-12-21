@@ -1,4 +1,18 @@
-# Source Reddit - Politics, Source URL:http://www.reddit.com/r/politics/.rss
+# Source Reddit - Politics, Source URL:http://www.reddit.com/r/politics/.rss, Source language: en-US
+
+## Jan. 6 committee finalizes criminal referral plan for Trump
+ - [https://www.reddit.com/r/politics/comments/zpbj0f/jan_6_committee_finalizes_criminal_referral_plan/](https://www.reddit.com/r/politics/comments/zpbj0f/jan_6_committee_finalizes_criminal_referral_plan/)
+ - RSS feed: http://www.reddit.com/r/politics/.rss
+ - date published: 2022-12-18 23:23:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/zpbj0f/jan_6_committee_finalizes_criminal_referral_plan/"> <img alt="Jan. 6 committee finalizes criminal referral plan for Trump" src="https://external-preview.redd.it/vk7AyJ_WYi-YhQ7ATCkJKOofOHw3EWbP-bX-4fG4i48.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6156bb0a2b10650b6174b474fd82b3aa316177ba" title="Jan. 6 committee finalizes criminal referral plan for Trump" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Beckles28nz"> /u/Beckles28nz </a> <br /> <span><a href="https://www.nbcnews.com/politics/congress/jan-6-committee-finalizes-criminal-referral-plan-trump-rcna62315">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/zpbj0f/jan_6_committee_finalizes_criminal_referral_plan/">[comments]</a></span> </td></tr></table>
+
+## President Biden Urges Veterans to Seek Health Benefits Under New Law
+ - [https://www.reddit.com/r/politics/comments/zpawqk/president_biden_urges_veterans_to_seek_health/](https://www.reddit.com/r/politics/comments/zpawqk/president_biden_urges_veterans_to_seek_health/)
+ - RSS feed: http://www.reddit.com/r/politics/.rss
+ - date published: 2022-12-18 22:56:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/zpawqk/president_biden_urges_veterans_to_seek_health/"> <img alt="President Biden Urges Veterans to Seek Health Benefits Under New Law" src="https://external-preview.redd.it/XmBhoQwhsraW9WQqYeEW9pqXILi4gj-E2A-rX1d5Adw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=211e91b1acc1f43eb438a65430666c123e92443e" title="President Biden Urges Veterans to Seek Health Benefits Under New Law" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AceCombat9519"> /u/AceCombat9519 </a> <br /> <span><a href="https://www.nbcphiladelphia.com/news/politics/biden-talks-expanded-veterans-benefits-under-pact-act-in-delaware/3452989/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/zpawqk/president_biden_urges_veterans_to_seek_health/">[comments]</a></span> </td></tr></table>
 
 ## Trump Faces a Week of Headaches on Jan. 6 and His Taxes
  - [https://www.reddit.com/r/politics/comments/zpa65q/trump_faces_a_week_of_headaches_on_jan_6_and_his/](https://www.reddit.com/r/politics/comments/zpa65q/trump_faces_a_week_of_headaches_on_jan_6_and_his/)
@@ -6,6 +20,20 @@
  - date published: 2022-12-18 22:23:21+00:00
 
 <table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/zpa65q/trump_faces_a_week_of_headaches_on_jan_6_and_his/"> <img alt="Trump Faces a Week of Headaches on Jan. 6 and His Taxes" src="https://external-preview.redd.it/VT8YU_h2TBTP1LFS4VCFGGgYEo1SIpMI0yNnBFcm5WE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=87d2f4b291592142b85cd479cbd1d0d5cf0e84b5" title="Trump Faces a Week of Headaches on Jan. 6 and His Taxes" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mar_kelp"> /u/mar_kelp </a> <br /> <span><a href="https://www.nytimes.com/2022/12/18/us/politics/trump-january-6-tax-returns.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/zpa65q/trump_faces_a_week_of_headaches_on_jan_6_and_his/">[comments]</a></span> </td></tr></table>
+
+## What to watch as Jan. 6 panel cites Trump's 'attempted coup'
+ - [https://www.reddit.com/r/politics/comments/zp9rxx/what_to_watch_as_jan_6_panel_cites_trumps/](https://www.reddit.com/r/politics/comments/zp9rxx/what_to_watch_as_jan_6_panel_cites_trumps/)
+ - RSS feed: http://www.reddit.com/r/politics/.rss
+ - date published: 2022-12-18 22:05:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/zp9rxx/what_to_watch_as_jan_6_panel_cites_trumps/"> <img alt="What to watch as Jan. 6 panel cites Trump's 'attempted coup'" src="https://external-preview.redd.it/5XSbCfTSrMM30FvCyEorvObAW-fF9dDcbh5-jWw1N_0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=111fb16891c9134769484672257fd6c697f1c9bd" title="What to watch as Jan. 6 panel cites Trump's 'attempted coup'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LieutJimDangle"> /u/LieutJimDangle </a> <br /> <span><a href="https://apnews.com/article/january-6-final-hearing-trump-what-to-watch-a9d0eb77311df5d0391735cd64afa8fb">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/zp9rxx/what_to_watch_as_jan_6_panel_cites_trumps/">[comments]</a></span> </td></tr></table>
+
+## How Trump jettisoned restraints at Mar-a-Lago and prompted legal peril
+ - [https://www.reddit.com/r/politics/comments/zp8exi/how_trump_jettisoned_restraints_at_maralago_and/](https://www.reddit.com/r/politics/comments/zp8exi/how_trump_jettisoned_restraints_at_maralago_and/)
+ - RSS feed: http://www.reddit.com/r/politics/.rss
+ - date published: 2022-12-18 21:06:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/zp8exi/how_trump_jettisoned_restraints_at_maralago_and/"> <img alt="How Trump jettisoned restraints at Mar-a-Lago and prompted legal peril" src="https://external-preview.redd.it/B7F8k10peTdbTiUl1jkQ39uC4cwbg0Uof9TPb9Q6Hrg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0c8a4fbbf1288a7f7a07264cc53fc6b8b100060b" title="How Trump jettisoned restraints at Mar-a-Lago and prompted legal peril" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/washingtonpost"> /u/washingtonpost </a> <br /> <span><a href="https://www.washingtonpost.com/national-security/2022/12/18/trump-life-after-presidency/?utm_campaign=wp_main&amp;utm_medium=social&amp;utm_source=reddit.com">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/zp8exi/how_trump_jettisoned_restraints_at_maralago_and/">[comments]</a></span> </td></tr></table>
 
 ## Vatican dismisses trump supporting Bishop
  - [https://www.reddit.com/r/politics/comments/zp866v/vatican_dismisses_trump_supporting_bishop/](https://www.reddit.com/r/politics/comments/zp866v/vatican_dismisses_trump_supporting_bishop/)

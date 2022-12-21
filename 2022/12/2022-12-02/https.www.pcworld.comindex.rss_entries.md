@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## EcoFlow Delta 2 power station review: Flexible, advanced, and LOUD
  - [https://www.pcworld.com/article/1381039/ecoflow-delta-2-power-station-review.html](https://www.pcworld.com/article/1381039/ecoflow-delta-2-power-station-review.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-02 15:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><div class="review" id="review-body"><img alt="Editors' Choice" class="review-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" /><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
@@ -215,7 +214,6 @@ Gear, Mobile</div>
  - [https://www.pcworld.com/article/1386626/asus-zenbook-pro-14-duo-oled-review-perfecting-the-dual-display-laptop.html](https://www.pcworld.com/article/1386626/asus-zenbook-pro-14-duo-oled-review-perfecting-the-dual-display-laptop.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-02 11:45:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><div class="review" id="review-body"><img alt="Editors' Choice" class="review-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" /><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
@@ -463,7 +461,6 @@ Laptops, Ultraportable Laptops</div>
  - [https://www.pcworld.com/article/1396323/skip-the-holiday-shipping-with-this-unlimited-digital-learning-bundle-feat-rosetta-stone.html](https://www.pcworld.com/article/1396323/skip-the-holiday-shipping-with-this-unlimited-digital-learning-bundle-feat-rosetta-stone.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-02 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>As the year comes into its final weeks, it&rsquo;s time to start thinking about New Year&rsquo;s resolutions. And what&rsquo;s a better resolution than committing to learning something new? With the&nbsp;Unlimited Lifetime Learning Subscription Bundle, you&rsquo;ll have lifetime access to some of the&nbsp;<a href="https://shop.pcworld.com/sales/the-unlimited-lifetime-learning-subscription-bundle-ft-rosetta-stone?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=the-unlimited-lifetime-learning-subscription-bundle-ft-rosetta-stone&amp;utm_term=scsf-458544&amp;utm_content=a0x1P000004YrXjQAK&amp;scsonar=1" rel="noreferrer noopener" target="_blank">best learning resources on the web</a>. It&rsquo;s also a great last-minute gift that doesn&rsquo;t require any shipping, but it&rsquo;s only on sale for $199 until December 8.</p>

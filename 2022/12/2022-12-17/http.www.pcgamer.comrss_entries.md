@@ -1,4 +1,4 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## ArtStation will allow artists to opt out of AI programs using their creations, but concerns remain
  - [https://www.pcgamer.com/artstation-will-allow-artists-to-opt-out-of-ai-programs-using-their-creations-but-concerns-remain](https://www.pcgamer.com/artstation-will-allow-artists-to-opt-out-of-ai-programs-using-their-creations-but-concerns-remain)

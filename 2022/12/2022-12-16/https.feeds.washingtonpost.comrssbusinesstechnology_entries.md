@@ -1,10 +1,9 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology
+# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
 
 ## No alien life discovered on Earth, Pentagon says, but search deepens
  - [https://www.washingtonpost.com/national-security/2022/12/16/pentagon-ufo-office-alien-life/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/national-security/2022/12/16/pentagon-ufo-office-alien-life/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-12-16 19:27:19+00:00
- - tags: None
 
 The Defense Department's new All-domain Anomaly Resolution Office is evaluating recent reports of unexplained phenomena and accounts that date back decades.
 
@@ -12,7 +11,6 @@ The Defense Department's new All-domain Anomaly Resolution Office is evaluating 
  - [https://www.washingtonpost.com/video-games/reviews/steam-deck-holiday-buy-what-to-know/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/reviews/steam-deck-holiday-buy-what-to-know/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-12-16 16:37:58+00:00
- - tags: None
 
 Before you buy a Steam Deck this holiday season, there are a few things you should know about its battery life, game compatibility and more.
 
@@ -20,7 +18,6 @@ Before you buy a Steam Deck this holiday season, there are a few things you shou
  - [https://www.washingtonpost.com/video-games/2022/12/16/among-us-vr-game-awards/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/12/16/among-us-vr-game-awards/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-12-16 14:00:19+00:00
- - tags: None
 
 "Among Us," its developers say, is all about "lying to your friends, and everything else should be in service of that."
 
@@ -28,7 +25,6 @@ Before you buy a Steam Deck this holiday season, there are a few things you shou
  - [https://www.washingtonpost.com/video-games/2022/12/16/pokemon-anime-ash-pikachu/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/12/16/pokemon-anime-ash-pikachu/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-12-16 12:39:01+00:00
- - tags: None
 
 The Pokémon anime is moving on from its iconic main character duo of Ash Ketchum and Pikachu. What will this mean for the series and its fans?
 
@@ -36,7 +32,6 @@ The Pokémon anime is moving on from its iconic main character duo of Ash Ketchu
  - [https://www.washingtonpost.com/technology/2022/12/16/youtube-kids-educational-videos/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/12/16/youtube-kids-educational-videos/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-12-16 12:30:00+00:00
- - tags: None
 
 YouTube is trying to repair its bad reputation with families. Can YouTube's educational goals for children work alongside its commercial mission?
 
@@ -44,7 +39,6 @@ YouTube is trying to repair its bad reputation with families. Can YouTube's educ
  - [https://www.washingtonpost.com/technology/2022/12/16/musk-journalists-suspension-europe-backlash/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/12/16/musk-journalists-suspension-europe-backlash/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-12-16 10:58:07+00:00
- - tags: None
 
 The rebuke comes ahead of tough E.U. rules on content moderation and disinformation that are set to take effect in 2024.
 
@@ -52,7 +46,6 @@ The rebuke comes ahead of tough E.U. rules on content moderation and disinformat
  - [https://www.washingtonpost.com/technology/2022/12/16/meta-ftc-trial-within-acqusition/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/12/16/meta-ftc-trial-within-acqusition/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-12-16 06:30:00+00:00
- - tags: None
 
 A fitness app was seen as a way to attract more women to the metaverse, which was dominated by young male gamers.
 
@@ -60,7 +53,6 @@ A fitness app was seen as a way to attract more women to the metaverse, which wa
  - [https://www.washingtonpost.com/technology/2022/12/16/wallops-rocket-lab-launches/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/12/16/wallops-rocket-lab-launches/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-12-16 06:00:00+00:00
- - tags: None
 
 The Rocket Lab launch should be visible to people in Washington and the mid-Atlantic region.
 
@@ -68,7 +60,6 @@ The Rocket Lab launch should be visible to people in Washington and the mid-Atla
  - [https://www.washingtonpost.com/technology/interactive/2022/ai-image-generator/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/interactive/2022/ai-image-generator/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-12-16 05:00:50+00:00
- - tags: None
 
 Use our simulator to learn how AI generates images from “noise.”
 
@@ -76,6 +67,5 @@ Use our simulator to learn how AI generates images from “noise.”
  - [https://www.washingtonpost.com/technology/2022/12/16/twitter-files-musk-free-speech-hypocrisy/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/12/16/twitter-files-musk-free-speech-hypocrisy/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-12-16 04:00:42+00:00
- - tags: None
 
 Internal documents show how a small group of executives molded online discourse. Under Musk, that’s more of a problem than ever.

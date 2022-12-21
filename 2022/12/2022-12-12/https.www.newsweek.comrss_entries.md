@@ -1,10 +1,9 @@
-# Source Newsweek, Source URL:https://www.newsweek.com/rss
+# Source Newsweek, Source URL:https://www.newsweek.com/rss, Source language: en-US
 
 ## Ukraine Claims Attack on Key Bridge Outside Putin's Annexed Territory
  - [https://www.newsweek.com/ukraine-claims-attack-key-bridge-outside-putins-annexed-territory-1766558](https://www.newsweek.com/ukraine-claims-attack-key-bridge-outside-putins-annexed-territory-1766558)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 23:33:50+00:00
- - tags: None
 
 Ukrainian authorities boasted about the attack on the strategic bridge, which Russian troops used to transport weapons into southern Ukraine.
 
@@ -12,7 +11,6 @@ Ukrainian authorities boasted about the attack on the strategic bridge, which Ru
  - [https://www.newsweek.com/calls-grow-investigate-aileen-cannon-ruling-humiliates-trump-judge-1766554](https://www.newsweek.com/calls-grow-investigate-aileen-cannon-ruling-humiliates-trump-judge-1766554)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 23:10:15+00:00
- - tags: None
 
 "Shouldn't the Senate Judiciary Committee investigate Judge Cannon?" Tristan Snell, an attorney who prosecuted Trump University, wrote on social media.
 
@@ -20,7 +18,6 @@ Ukrainian authorities boasted about the attack on the strategic bridge, which Ru
  - [https://www.newsweek.com/ukraine-entering-ceasefire-lead-more-aggression-1766556](https://www.newsweek.com/ukraine-entering-ceasefire-lead-more-aggression-1766556)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 22:53:12+00:00
- - tags: None
 
 Russia previously demanded that Ukraine recognize its annexed territory as a prerequisite for peace talks.
 
@@ -28,7 +25,6 @@ Russia previously demanded that Ukraine recognize its annexed territory as a pre
  - [https://www.newsweek.com/kim-jong-uns-daughter-may-part-distraction-plan-1766551](https://www.newsweek.com/kim-jong-uns-daughter-may-part-distraction-plan-1766551)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 22:27:08+00:00
- - tags: None
 
 North Korea has launched multiple short-range ballistic missiles and an intercontinental ballistic missile in recent months.
 
@@ -36,7 +32,6 @@ North Korea has launched multiple short-range ballistic missiles and an intercon
  - [https://www.newsweek.com/gavin-newsom-visits-border-after-biden-said-he-had-more-important-issues-1766543](https://www.newsweek.com/gavin-newsom-visits-border-after-biden-said-he-had-more-important-issues-1766543)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 21:42:51+00:00
- - tags: None
 
 The visit comes as Biden continues to contemplate another run for president in 2024.
 
@@ -44,7 +39,6 @@ The visit comes as Biden continues to contemplate another run for president in 2
  - [https://www.newsweek.com/us-headed-housing-market-crash-2023-expert-comments-1766540](https://www.newsweek.com/us-headed-housing-market-crash-2023-expert-comments-1766540)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 21:42:29+00:00
- - tags: None
 
 As 2022 comes to a close, several economists told Newsweek that the housing market is currently in the midst of a correction.
 
@@ -52,7 +46,6 @@ As 2022 comes to a close, several economists told Newsweek that the housing mark
  - [https://www.newsweek.com/russian-forces-are-accidentally-killing-their-own-soldiers-ukraine-1766532](https://www.newsweek.com/russian-forces-are-accidentally-killing-their-own-soldiers-ukraine-1766532)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 21:37:08+00:00
- - tags: None
 
 The General Staff of the Armed Forces of Ukraine said that the deaths among the ranks of Vladimir Putin's military came as a result of ill preparation.
 
@@ -60,7 +53,6 @@ The General Staff of the Armed Forces of Ukraine said that the deaths among the 
  - [https://www.newsweek.com/eric-adams-slams-bail-reform-after-violent-attacker-freed-jail-1766534](https://www.newsweek.com/eric-adams-slams-bail-reform-after-violent-attacker-freed-jail-1766534)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 21:30:54+00:00
- - tags: None
 
 The New York City mayor's comments come after a man caught on surveillance video assaulting a civilian with a baseball bat posted bail last week.
 
@@ -68,7 +60,6 @@ The New York City mayor's comments come after a man caught on surveillance video
  - [https://www.newsweek.com/powerball-drawing-12-12-22-monday-jackpot-124-million-1766549](https://www.newsweek.com/powerball-drawing-12-12-22-monday-jackpot-124-million-1766549)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 21:21:42+00:00
- - tags: None
 
 Monday night's Powerball jackpot is worth $124 million, with a cash-value option worth $66.9 million.
 
@@ -76,7 +67,6 @@ Monday night's Powerball jackpot is worth $124 million, with a cash-value option
  - [https://www.newsweek.com/kushners-financial-link-qatar-ticking-time-bomb-biographer-1766537](https://www.newsweek.com/kushners-financial-link-qatar-ticking-time-bomb-biographer-1766537)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 21:00:11+00:00
- - tags: None
 
 Author Vicky Ward said that Kushner's potential Qatari dealings could be much more serious than the allegations against Hunter Biden.
 
@@ -84,7 +74,6 @@ Author Vicky Ward said that Kushner's potential Qatari dealings could be much mo
  - [https://www.newsweek.com/marjorie-taylor-greene-protected-arrest-over-january-6-comment-legal-experts-say-1766520](https://www.newsweek.com/marjorie-taylor-greene-protected-arrest-over-january-6-comment-legal-experts-say-1766520)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 20:27:46+00:00
- - tags: None
 
 The GOP congresswoman's remarks that the January 6 Capitol riot would have been armed if she organized it has prompted calls for her arrest.
 
@@ -92,7 +81,6 @@ The GOP congresswoman's remarks that the January 6 Capitol riot would have been 
  - [https://www.newsweek.com/betmgm-bonus-code-az-1000-patriots-cardinals-mnf-1766529](https://www.newsweek.com/betmgm-bonus-code-az-1000-patriots-cardinals-mnf-1766529)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 20:23:31+00:00
- - tags: None
 
 The BetMGM bonus code AZ bettors need to use for $1,000 in first bet insurance on the Patriots-Cardinals MNF game is NEWSWEEK.
 
@@ -100,7 +88,6 @@ The BetMGM bonus code AZ bettors need to use for $1,000 in first bet insurance o
  - [https://www.newsweek.com/idaho-murder-victim-kaylee-goncalves-father-steve-goncalves-shares-details-who-he-thinks-killer-1766526](https://www.newsweek.com/idaho-murder-victim-kaylee-goncalves-father-steve-goncalves-shares-details-who-he-thinks-killer-1766526)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 19:57:09+00:00
- - tags: None
 
 Police have yet to identify a suspect or person of interest in the ongoing investigation into the fatal stabbings of four University of Idaho students.
 
@@ -108,7 +95,6 @@ Police have yet to identify a suspect or person of interest in the ongoing inves
  - [https://www.newsweek.com/migrant-encounters-see-major-spike-near-mar-lago-amid-southern-invasion-1766523](https://www.newsweek.com/migrant-encounters-see-major-spike-near-mar-lago-amid-southern-invasion-1766523)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 19:51:33+00:00
- - tags: None
 
 Migrant encounters and maritime smuggling attempts in Florida shot up considerably in the last several months, compared to last year.
 
@@ -116,7 +102,6 @@ Migrant encounters and maritime smuggling attempts in Florida shot up considerab
  - [https://www.newsweek.com/fact-check-was-james-cameron-submarine-9-11-2001-happened-1766310](https://www.newsweek.com/fact-check-was-james-cameron-submarine-9-11-2001-happened-1766310)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 19:45:14+00:00
- - tags: None
 
 "Avatar" and "Titanic" director James Cameron is known for his deep sea dives during the making of his movies, but was he submerged during the 2001 attack?
 
@@ -124,7 +109,6 @@ Migrant encounters and maritime smuggling attempts in Florida shot up considerab
  - [https://www.newsweek.com/tucker-carlson-should-use-clout-putin-free-paul-whelan-view-1766508](https://www.newsweek.com/tucker-carlson-should-use-clout-putin-free-paul-whelan-view-1766508)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 19:44:56+00:00
- - tags: None
 
 Ana Navarro of "The View" criticized conservatives who are upset that Whelan was not included in the deal that brought WNBA star Brittney Griner home.
 
@@ -132,7 +116,6 @@ Ana Navarro of "The View" criticized conservatives who are upset that Whelan was
  - [https://www.newsweek.com/fanduel-promo-code-patriots-cardinals-mnf-1k-no-sweat-bet-1766491](https://www.newsweek.com/fanduel-promo-code-patriots-cardinals-mnf-1k-no-sweat-bet-1766491)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 19:33:58+00:00
- - tags: None
 
 This FanDuel promo code offer comes with a $1,000 no-sweat bet for Patriots-Cardinals on MNF.
 
@@ -140,7 +123,6 @@ This FanDuel promo code offer comes with a $1,000 no-sweat bet for Patriots-Card
  - [https://www.newsweek.com/trump-fast-track-prosecution-doj-gets-documents-needed-indict-1766518](https://www.newsweek.com/trump-fast-track-prosecution-doj-gets-documents-needed-indict-1766518)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 19:28:20+00:00
- - tags: None
 
 The former president fought to keep numerous classified documents from evidence against him after they were found in a raid at Mar-a-Lago earlier this year.
 
@@ -148,7 +130,6 @@ The former president fought to keep numerous classified documents from evidence 
  - [https://www.newsweek.com/ukraine-takes-out-russian-tank-showdown-video-1766514](https://www.newsweek.com/ukraine-takes-out-russian-tank-showdown-video-1766514)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 19:28:02+00:00
- - tags: None
 
 The Ukrainian forces have taken out nearly 3,000 tanks since the war began in late February.
 
@@ -156,7 +137,6 @@ The Ukrainian forces have taken out nearly 3,000 tanks since the war began in la
  - [https://www.newsweek.com/what-white-lotuss-girlboss-sex-workers-are-todays-ultimate-female-fantasy-opinion-1766493](https://www.newsweek.com/what-white-lotuss-girlboss-sex-workers-are-todays-ultimate-female-fantasy-opinion-1766493)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 19:20:02+00:00
- - tags: None
 
 The fawning response of young women to the wish fulfillment fantasy of two "empowered" sex workers shows a culture that views sex work as a path to success.
 
@@ -164,7 +144,6 @@ The fawning response of young women to the wish fulfillment fantasy of two "empo
  - [https://www.newsweek.com/climate-change-make-massive-california-earthquake-even-more-devastating-1766478](https://www.newsweek.com/climate-change-make-massive-california-earthquake-even-more-devastating-1766478)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 19:01:06+00:00
- - tags: None
 
 Records show California is overdue for a magnitude 8 earthquake, and scientists warn that wildfires and landslides may make the destruction even worse.
 
@@ -172,7 +151,6 @@ Records show California is overdue for a magnitude 8 earthquake, and scientists 
  - [https://www.newsweek.com/border-patrol-seized-nearly-100-mllion-dollars-worth-drugs-1766511](https://www.newsweek.com/border-patrol-seized-nearly-100-mllion-dollars-worth-drugs-1766511)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 18:56:08+00:00
- - tags: None
 
 The United States Border Patrol has seen an increasing amount of fentanyl crossing over the U.S. border.
 
@@ -180,7 +158,6 @@ The United States Border Patrol has seen an increasing amount of fentanyl crossi
  - [https://www.newsweek.com/veronika-rajek-tom-brady-relationship-rumors-1766498](https://www.newsweek.com/veronika-rajek-tom-brady-relationship-rumors-1766498)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 18:42:25+00:00
- - tags: None
 
 With social media alight with the rumor that Tom Brady is dating a former Miss Slovakia, the model has addressed the alleged romance.
 
@@ -188,7 +165,6 @@ With social media alight with the rumor that Tom Brady is dating a former Miss S
  - [https://www.newsweek.com/marjorie-taylor-greene-defends-jan-6-comment-amid-calls-her-arrest-1766505](https://www.newsweek.com/marjorie-taylor-greene-defends-jan-6-comment-amid-calls-her-arrest-1766505)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 18:38:46+00:00
- - tags: None
 
 In response to the recent criticism, the GOP lawmaker accused the White house of "trying to weaponize a sarcastic joke" she made about the Capitol riot.
 
@@ -196,7 +172,6 @@ In response to the recent criticism, the GOP lawmaker accused the White house of
  - [https://www.newsweek.com/what-happened-favority-christmas-film-stars-macaulay-culkin-home-alone-die-hard-grinch-1765000](https://www.newsweek.com/what-happened-favority-christmas-film-stars-macaulay-culkin-home-alone-die-hard-grinch-1765000)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 18:30:01+00:00
- - tags: None
 
 From "Home Alone" to "Die Hard," the casts of everyone's favorite Christmas movies have had interesting lives since they starred in those films.
 
@@ -204,7 +179,6 @@ From "Home Alone" to "Die Hard," the casts of everyone's favorite Christmas movi
  - [https://www.newsweek.com/there-mail-during-government-shutdown-what-know-about-holiday-gifts-1766501](https://www.newsweek.com/there-mail-during-government-shutdown-what-know-about-holiday-gifts-1766501)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 18:21:02+00:00
- - tags: None
 
 Congress has until Friday at midnight to reach a funding agreement in order to avoid a government shutdown.
 
@@ -212,7 +186,6 @@ Congress has until Friday at midnight to reach a funding agreement in order to a
  - [https://www.newsweek.com/brock-purdy-married-49ers-star-embraces-family-after-bucs-win-1766401](https://www.newsweek.com/brock-purdy-married-49ers-star-embraces-family-after-bucs-win-1766401)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 18:18:50+00:00
- - tags: None
 
 Brock Purdy, who has the dubious title of Mr. Irrelevant after being being the last pick in NFL draft, led the 49ers to a stunning win over Tom Brady's Bucs
 
@@ -220,7 +193,6 @@ Brock Purdy, who has the dubious title of Mr. Irrelevant after being being the l
  - [https://www.newsweek.com/marjorie-taylor-greene-wouldve-gotten-crushed-jan-6-kinzinger-1766484](https://www.newsweek.com/marjorie-taylor-greene-wouldve-gotten-crushed-jan-6-kinzinger-1766484)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 18:07:23+00:00
- - tags: None
 
 Greene is facing backlash for saying MAGA would have "won" the January 6 if she led the riot.
 
@@ -228,7 +200,6 @@ Greene is facing backlash for saying MAGA would have "won" the January 6 if she 
  - [https://www.newsweek.com/ukraine-politician-outlines-4-consequences-bombing-russian-airfields-1766488](https://www.newsweek.com/ukraine-politician-outlines-4-consequences-bombing-russian-airfields-1766488)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 18:06:32+00:00
- - tags: None
 
 Russia has blamed Ukraine for reported explosions at two air bases deep inside its territory last week.
 
@@ -236,7 +207,6 @@ Russia has blamed Ukraine for reported explosions at two air bases deep inside i
  - [https://www.newsweek.com/what-celebrities-have-said-about-christmas-1766413](https://www.newsweek.com/what-celebrities-have-said-about-christmas-1766413)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 18:00:55+00:00
- - tags: None
 
 Over the years, stars like Miley Cyrus or former President Donald Trump have spoken out about the holiday.
 
@@ -244,7 +214,6 @@ Over the years, stars like Miley Cyrus or former President Donald Trump have spo
  - [https://www.newsweek.com/university-idaho-murders-four-graduation-day-1766474](https://www.newsweek.com/university-idaho-murders-four-graduation-day-1766474)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 17:59:10+00:00
- - tags: None
 
 Tributes were paid to the four slain students while the police still have no idea who killed them or why.
 
@@ -252,7 +221,6 @@ Tributes were paid to the four slain students while the police still have no ide
  - [https://www.newsweek.com/women-age-over-45-menopause-ageing-1766340](https://www.newsweek.com/women-age-over-45-menopause-ageing-1766340)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 17:51:01+00:00
- - tags: None
 
 Can everyone actually see the sweat on my forehead? Is the makeup I applied a half hour ago melting off my face?
 
@@ -260,7 +228,6 @@ Can everyone actually see the sweat on my forehead? Is the makeup I applied a ha
  - [https://www.newsweek.com/rnc-chair-mcdaniel-refuses-blame-trump-gop-senate-election-losses-1766481](https://www.newsweek.com/rnc-chair-mcdaniel-refuses-blame-trump-gop-senate-election-losses-1766481)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 17:50:22+00:00
- - tags: None
 
 McDaniel, who is up for reelection in January, is meeting with members and analyzing a post-election report to make changes ahead of 2024.
 
@@ -268,7 +235,6 @@ McDaniel, who is up for reelection in January, is meeting with members and analy
  - [https://www.newsweek.com/china-saudi-arabia-gulf-arab-states-gcc-opec-america-dollar-oil-gas-energy-1766419](https://www.newsweek.com/china-saudi-arabia-gulf-arab-states-gcc-opec-america-dollar-oil-gas-energy-1766419)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 17:47:37+00:00
- - tags: None
 
 Xi Jinping's proposal to settle energy trade with Gulf Arab nations in Chinese yuan may be a signal of things to come.
 
@@ -276,7 +242,6 @@ Xi Jinping's proposal to settle energy trade with Gulf Arab nations in Chinese y
  - [https://www.newsweek.com/sister-wives-janelle-kody-brown-split-marriage-separation-1766476](https://www.newsweek.com/sister-wives-janelle-kody-brown-split-marriage-separation-1766476)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 17:35:04+00:00
- - tags: None
 
 "Sister Wives" stars Janelle and Kody Brown have officially gone their separate ways after 30 years of marriage.
 
@@ -284,7 +249,6 @@ Xi Jinping's proposal to settle energy trade with Gulf Arab nations in Chinese y
  - [https://www.newsweek.com/republican-slams-greg-abbott-not-stopping-border-invasion-1766472](https://www.newsweek.com/republican-slams-greg-abbott-not-stopping-border-invasion-1766472)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 17:23:49+00:00
- - tags: None
 
 Former Acting DHS Deputy Secretary Ken Cuccinelli has frequently criticized Abbott for not doing enough to prevent border crossings into Texas.
 
@@ -292,7 +256,6 @@ Former Acting DHS Deputy Secretary Ken Cuccinelli has frequently criticized Abbo
  - [https://www.newsweek.com/elon-musk-transgender-people-pronouns-fauci-1766461](https://www.newsweek.com/elon-musk-transgender-people-pronouns-fauci-1766461)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 17:14:15+00:00
- - tags: None
 
 Billionaire Musk has faced backlash on social media after tweeting on Sunday: "My pronouns are Prosecute/Fauci."
 
@@ -300,7 +263,6 @@ Billionaire Musk has faced backlash on social media after tweeting on Sunday: "M
  - [https://www.newsweek.com/prince-harry-meghan-markle-netflix-series-money-bethenny-frankel-tiktok-1766385](https://www.newsweek.com/prince-harry-meghan-markle-netflix-series-money-bethenny-frankel-tiktok-1766385)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 17:09:26+00:00
- - tags: None
 
 The ex-'Real Housewives' star opened up about Prince Harry and Meghan Markle's Netflix series on TikTok, saying: "I found it a little bit boring."
 
@@ -308,7 +270,6 @@ The ex-'Real Housewives' star opened up about Prince Harry and Meghan Markle's N
  - [https://www.newsweek.com/labradors-napping-viral-video-tiktok-1766469](https://www.newsweek.com/labradors-napping-viral-video-tiktok-1766469)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 17:09:01+00:00
- - tags: None
 
 As heartwarming as the two dogs' interaction in the video may be, can canines really form friendships?
 
@@ -316,7 +277,6 @@ As heartwarming as the two dogs' interaction in the video may be, can canines re
  - [https://www.newsweek.com/rottweiler-puppy-first-little-howl-caught-camera-adorable-clip-1766446](https://www.newsweek.com/rottweiler-puppy-first-little-howl-caught-camera-adorable-clip-1766446)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 17:02:04+00:00
- - tags: None
 
 "Oh my heart," wrote on TikTok user, while another described the pup as "the cutest."
 
@@ -324,7 +284,6 @@ As heartwarming as the two dogs' interaction in the video may be, can canines re
  - [https://www.newsweek.com/puppy-ignores-owner-before-falling-frozen-pond-hilarious-clip-1766466](https://www.newsweek.com/puppy-ignores-owner-before-falling-frozen-pond-hilarious-clip-1766466)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 16:59:06+00:00
- - tags: None
 
 "Mine is a year and a half. Not much has changed," one user said.
 
@@ -332,7 +291,6 @@ As heartwarming as the two dogs' interaction in the video may be, can canines re
  - [https://www.newsweek.com/kaylee-goncalves-family-consider-hiring-private-investigator-solve-case-1766393](https://www.newsweek.com/kaylee-goncalves-family-consider-hiring-private-investigator-solve-case-1766393)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 16:58:34+00:00
- - tags: None
 
 The family of the murdered 21-year-old college student want to raise money in a bid to "get answers."
 
@@ -340,7 +298,6 @@ The family of the murdered 21-year-old college student want to raise money in a 
  - [https://www.newsweek.com/boxer-dog-waking-owner-funny-dog-video-1766408](https://www.newsweek.com/boxer-dog-waking-owner-funny-dog-video-1766408)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 16:50:57+00:00
- - tags: None
 
 Boxer dogs are known for their playful personalities and this one is no exception.
 
@@ -348,7 +305,6 @@ Boxer dogs are known for their playful personalities and this one is no exceptio
  - [https://www.newsweek.com/putin-gamble-backfired-ukraine-invasion-brought-nearer-nato-russia-1766439](https://www.newsweek.com/putin-gamble-backfired-ukraine-invasion-brought-nearer-nato-russia-1766439)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 16:49:08+00:00
- - tags: None
 
 "Putin's invasion has made the prospect more credible, more plausible," a former senior NATO official told Newsweek.
 
@@ -356,7 +312,6 @@ Boxer dogs are known for their playful personalities and this one is no exceptio
  - [https://www.newsweek.com/putin-unlikely-see-pause-combat-ukraine-promises-frozen-fight-1766425](https://www.newsweek.com/putin-unlikely-see-pause-combat-ukraine-promises-frozen-fight-1766425)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 16:46:49+00:00
- - tags: None
 
 Winter combat could worsen morale among Putin's troops in the Ukraine war, one expert told "Newsweek" on Monday.
 
@@ -364,7 +319,6 @@ Winter combat could worsen morale among Putin's troops in the Ukraine war, one e
  - [https://www.newsweek.com/did-twitter-delete-video-elon-musk-booed-what-we-know-1766429](https://www.newsweek.com/did-twitter-delete-video-elon-musk-booed-what-we-know-1766429)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 16:46:29+00:00
- - tags: None
 
 Some Twitter users questioned whether the company's new CEO took down the account that shared a video of him being booed on stage.
 
@@ -372,7 +326,6 @@ Some Twitter users questioned whether the company's new CEO took down the accoun
  - [https://www.newsweek.com/asteroid-impact-simulator-shows-your-chances-surviving-devastating-impact-1766417](https://www.newsweek.com/asteroid-impact-simulator-shows-your-chances-surviving-devastating-impact-1766417)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 16:44:38+00:00
- - tags: None
 
 The chances that a potentially dangerous asteroid will strike Earth are tiny, but over long periods, the odds that a collision will occur are not negligible.
 
@@ -380,7 +333,6 @@ The chances that a potentially dangerous asteroid will strike Earth are tiny, bu
  - [https://www.newsweek.com/korean-dating-show-netflix-singles-inferno-season-2-release-date-full-schedule-1766396](https://www.newsweek.com/korean-dating-show-netflix-singles-inferno-season-2-release-date-full-schedule-1766396)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 16:36:48+00:00
- - tags: None
 
 The second season of "Single's Inferno" on Netflix will see plenty of "joy, tears" and "a healthy amount of spiciness," according to the streamer.
 
@@ -388,7 +340,6 @@ The second season of "Single's Inferno" on Netflix will see plenty of "joy, tear
  - [https://www.newsweek.com/candace-owens-meghan-markle-martin-bashir-netflix-docuseries-1766452](https://www.newsweek.com/candace-owens-meghan-markle-martin-bashir-netflix-docuseries-1766452)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 16:34:11+00:00
- - tags: None
 
 In a tweet shared on Monday, Owens accused Meghan of "manipulating a royal to trash talk his/her own family for television views."
 
@@ -396,7 +347,6 @@ In a tweet shared on Monday, Owens accused Meghan of "manipulating a royal to tr
  - [https://www.newsweek.com/athena-strand-tiktok-delivery-drivers-safe-tanner-horner-1766443](https://www.newsweek.com/athena-strand-tiktok-delivery-drivers-safe-tanner-horner-1766443)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 16:28:13+00:00
- - tags: None
 
 Workers horrified by the murder of seven-year-old Athena Strand, who was snatched by FedEx driver Tanner Horner, have paid tribute to the little girl online.
 
@@ -404,7 +354,6 @@ Workers horrified by the murder of seven-year-old Athena Strand, who was snatche
  - [https://www.newsweek.com/white-lotus-season-3-cast-return-greg-hbo-1766433](https://www.newsweek.com/white-lotus-season-3-cast-return-greg-hbo-1766433)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 16:24:04+00:00
- - tags: None
 
 "The White Lotus" Season 3 has already been given the green light by HBO Max, so who will be booking a stay at the luxurious hotel?
 
@@ -412,7 +361,6 @@ Workers horrified by the murder of seven-year-old Athena Strand, who was snatche
  - [https://www.newsweek.com/chef-cook-meals-food-waste-trash-1766308](https://www.newsweek.com/chef-cook-meals-food-waste-trash-1766308)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 16:23:01+00:00
- - tags: None
 
 Chef Tristan Welch tells Newsweek about cooking meals from unwanted produce.
 
@@ -420,7 +368,6 @@ Chef Tristan Welch tells Newsweek about cooking meals from unwanted produce.
  - [https://www.newsweek.com/retired-lt-general-predicts-when-russia-will-lose-crimea-1766437](https://www.newsweek.com/retired-lt-general-predicts-when-russia-will-lose-crimea-1766437)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 16:14:03+00:00
- - tags: None
 
 Russia annexed Crimea in 2014, but Ukrainian President Volodymyr Zelensky has vowed to retake control of the peninsula in the ongoing war.
 
@@ -428,7 +375,6 @@ Russia annexed Crimea in 2014, but Ukrainian President Volodymyr Zelensky has vo
  - [https://www.newsweek.com/netflix-accused-cashing-harry-meghan-after-share-price-soars-1766366](https://www.newsweek.com/netflix-accused-cashing-harry-meghan-after-share-price-soars-1766366)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 16:13:07+00:00
- - tags: None
 
 Netflix's share price went up by $5 per share from December 6 to December 9 after the release of Prince Harry and Meghan Markle's new documentary.
 
@@ -436,7 +382,6 @@ Netflix's share price went up by $5 per share from December 6 to December 9 afte
  - [https://www.newsweek.com/idaho-murders-unanswered-questions-month-brutal-killings-1766374](https://www.newsweek.com/idaho-murders-unanswered-questions-month-brutal-killings-1766374)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 16:04:59+00:00
- - tags: None
 
 Police have yet to identify a suspect in the November 13 slayings of Kaylee Goncalves, Madison Mogen, Xana Kernodle and Ethan Chapin.
 
@@ -444,7 +389,6 @@ Police have yet to identify a suspect in the November 13 slayings of Kaylee Gonc
  - [https://www.newsweek.com/dave-chappelle-mocks-crowd-booing-elon-musk-being-antifa-1766431](https://www.newsweek.com/dave-chappelle-mocks-crowd-booing-elon-musk-being-antifa-1766431)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 15:57:56+00:00
- - tags: None
 
 Chappelle brought the Twitter CEO on stage Sunday in a surprise appearance.
 
@@ -452,7 +396,6 @@ Chappelle brought the Twitter CEO on stage Sunday in a surprise appearance.
  - [https://www.newsweek.com/vladimir-putin-health-rumors-cancels-event-1766422](https://www.newsweek.com/vladimir-putin-health-rumors-cancels-event-1766422)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 15:57:47+00:00
- - tags: None
 
 Speculation that the Russian president is suffering from health issues has intensified since the invasion of Ukraine in late February.
 
@@ -460,7 +403,6 @@ Speculation that the Russian president is suffering from health issues has inten
  - [https://www.newsweek.com/putin-cancels-annual-press-conference-ukraine-war-1766426](https://www.newsweek.com/putin-cancels-annual-press-conference-ukraine-war-1766426)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 15:55:16+00:00
- - tags: None
 
 The Russian president appears to be avoiding speaking to the public amid a string of military defeats in Ukraine.
 
@@ -468,7 +410,6 @@ The Russian president appears to be avoiding speaking to the public amid a strin
  - [https://www.newsweek.com/neo-nazis-dream-day-x-germany-opinion-1766435](https://www.newsweek.com/neo-nazis-dream-day-x-germany-opinion-1766435)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 15:55:14+00:00
- - tags: None
 
 This failed Reichsbuerger coup may seem ridiculous and old-country quaint, with an honest-to-God prince, Heinrich XIII, plotting alongside a Bavarian celebrity chef who was due to do the catering after the revolution. The truth, though, is the German far-right is no laughing matter, and this plot exposes a number of myths about the country.
 
@@ -476,7 +417,6 @@ This failed Reichsbuerger coup may seem ridiculous and old-country quaint, with 
  - [https://www.newsweek.com/lonely-king-shepherd-own-puppy-dog-intimidated-play-1766379](https://www.newsweek.com/lonely-king-shepherd-own-puppy-dog-intimidated-play-1766379)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 15:42:03+00:00
- - tags: None
 
 Over a million people have watched the moment a lonely dog gains a friend. One user said: "That is so special."
 
@@ -484,7 +424,6 @@ Over a million people have watched the moment a lonely dog gains a friend. One u
  - [https://www.newsweek.com/trump-jan6-charged-referral-capitol-christmas-1766411](https://www.newsweek.com/trump-jan6-charged-referral-capitol-christmas-1766411)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 15:40:24+00:00
- - tags: None
 
 The former president may wake up on Xmas morning, knowing that he has been referred to the Department of Justice for criminal prosecution by Jan. 6 panel.
 
@@ -492,7 +431,6 @@ The former president may wake up on Xmas morning, knowing that he has been refer
  - [https://www.newsweek.com/white-lotus-finale-creator-mike-white-sicily-ethan-daphne-1766378](https://www.newsweek.com/white-lotus-finale-creator-mike-white-sicily-ethan-daphne-1766378)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 15:36:12+00:00
- - tags: None
 
 The Season 2 finale revealed who got killed, and how, but also the culmination of the brewing tension between the holidaying couples.
 
@@ -500,7 +438,6 @@ The Season 2 finale revealed who got killed, and how, but also the culmination o
  - [https://www.newsweek.com/elon-musk-twitter-dave-chappelle-booing-comedy-show-1766423](https://www.newsweek.com/elon-musk-twitter-dave-chappelle-booing-comedy-show-1766423)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 15:30:58+00:00
- - tags: None
 
 Chappelle invited the Tesla CEO on to the stage during a special Punchline Comedy Club event on December 11 at the Chase Center.
 
@@ -508,7 +445,6 @@ Chappelle invited the Tesla CEO on to the stage during a special Punchline Comed
  - [https://www.newsweek.com/woman-cheered-firing-cleaner-just-before-christmas-mumsnet-1766388](https://www.newsweek.com/woman-cheered-firing-cleaner-just-before-christmas-mumsnet-1766388)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 15:26:41+00:00
- - tags: None
 
 "You can't keep on paying for a service that's not being provided," agreed one commenter on the viral Mumsnet post.
 
@@ -516,7 +452,6 @@ Chappelle invited the Tesla CEO on to the stage during a special Punchline Comed
  - [https://www.newsweek.com/kathy-griffin-compares-prince-harry-armie-hammer-over-instagram-reveal-meghan-markle-netflix-1766383](https://www.newsweek.com/kathy-griffin-compares-prince-harry-armie-hammer-over-instagram-reveal-meghan-markle-netflix-1766383)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 15:14:36+00:00
- - tags: None
 
 "Prince Harry was just flipping through Instagram, looking for another hot brunette," Griffin said, after Harry shared that he met Meghan Markle on Instagram.
 
@@ -524,7 +459,6 @@ Chappelle invited the Tesla CEO on to the stage during a special Punchline Comed
  - [https://www.newsweek.com/blood-hound-puppy-realizing-where-his-food-comes-delights-viewers-1766390](https://www.newsweek.com/blood-hound-puppy-realizing-where-his-food-comes-delights-viewers-1766390)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 15:13:25+00:00
- - tags: None
 
 "The way he throws everything he has into that howl. It's perfect," one TikToker said.
 
@@ -532,7 +466,6 @@ Chappelle invited the Tesla CEO on to the stage during a special Punchline Comed
  - [https://www.newsweek.com/russia-loses-24-tanks-day-100000-death-toll-nears-ukraine-winter-casualties-1766403](https://www.newsweek.com/russia-loses-24-tanks-day-100000-death-toll-nears-ukraine-winter-casualties-1766403)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 15:12:32+00:00
- - tags: None
 
 Ukraine's armed forces claim to have destroyed nearly 3,000 Russian battle tanks since February, and killed more than 94,000 troops.
 
@@ -540,7 +473,6 @@ Ukraine's armed forces claim to have destroyed nearly 3,000 Russian battle tanks
  - [https://www.newsweek.com/elon-musk-live-updates-musk-booed-crowd-dave-chappelle-show-1766414](https://www.newsweek.com/elon-musk-live-updates-musk-booed-crowd-dave-chappelle-show-1766414)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 15:12:19+00:00
- - tags: None
 
 The tech CEO was booed during a surprise appearance at Dave Chappelle's comedy show in San Francisco. Follow for the latest.
 
@@ -548,7 +480,6 @@ The tech CEO was booed during a surprise appearance at Dave Chappelle's comedy s
  - [https://www.newsweek.com/al-qaeda-911-terror-uranium-nuclear-weapon-1766405](https://www.newsweek.com/al-qaeda-911-terror-uranium-nuclear-weapon-1766405)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 14:59:46+00:00
- - tags: None
 
 Al-Qaeda terrorists intercepted a shipment being delivered from Iran to a rebel group in Yemen, according to allegations made in an Israeli newspaper.
 
@@ -556,7 +487,6 @@ Al-Qaeda terrorists intercepted a shipment being delivered from Iran to a rebel 
  - [https://www.newsweek.com/raw-dog-food-diet-brains-wallaby-tail-viral-healthy-1766389](https://www.newsweek.com/raw-dog-food-diet-brains-wallaby-tail-viral-healthy-1766389)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 14:46:28+00:00
- - tags: None
 
 A dog behaviorist and nutritionist said a raw meat diet for dogs is controversial and for "good reason."
 
@@ -564,7 +494,6 @@ A dog behaviorist and nutritionist said a raw meat diet for dogs is controversia
  - [https://www.newsweek.com/trump-cant-have-it-both-ways-constitution-opinion-1766409](https://www.newsweek.com/trump-cant-have-it-both-ways-constitution-opinion-1766409)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 14:44:03+00:00
- - tags: None
 
 Former President Donald Trump recently stated that the massive fraud that he believes occurred in the 2020 election "allows for termination of all rules... even those found in the Constitution." This is a dangerous and unprecedented statement by a former and possibly future president.
 
@@ -572,7 +501,6 @@ Former President Donald Trump recently stated that the massive fraud that he bel
  - [https://www.newsweek.com/dog-escapes-harness-runs-away-tiktok-1766263](https://www.newsweek.com/dog-escapes-harness-runs-away-tiktok-1766263)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 14:41:21+00:00
- - tags: None
 
 A naughty Dachshund slipping out of its harness and escaping its owner has delighted user on TikTok.
 
@@ -580,7 +508,6 @@ A naughty Dachshund slipping out of its harness and escaping its owner has delig
  - [https://www.newsweek.com/human-remains-found-inside-burnt-vehicle-texas-construction-site-1766392](https://www.newsweek.com/human-remains-found-inside-burnt-vehicle-texas-construction-site-1766392)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 14:39:44+00:00
- - tags: None
 
 Police have not revealed the identity of the person found inside the vehicle.
 
@@ -588,7 +515,6 @@ Police have not revealed the identity of the person found inside the vehicle.
  - [https://www.newsweek.com/j-k-rowling-mocks-transgender-critics-interview-1766399](https://www.newsweek.com/j-k-rowling-mocks-transgender-critics-interview-1766399)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 14:21:34+00:00
- - tags: None
 
 Speaking in a new interview, Rowling dismissed claims she had been canceled over her many public comments about trans issues.
 
@@ -596,7 +522,6 @@ Speaking in a new interview, Rowling dismissed claims she had been canceled over
  - [https://www.newsweek.com/china-fauci-zhang-wenhong-expert-zero-covid-criticism-censorship-1766336](https://www.newsweek.com/china-fauci-zhang-wenhong-expert-zero-covid-criticism-censorship-1766336)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 14:17:04+00:00
- - tags: None
 
 Zhang Wenhong remains one of the Chinese public's most trusted figures and is key to Beijing's public assurances as the country reopens.
 
@@ -604,7 +529,6 @@ Zhang Wenhong remains one of the Chinese public's most trusted figures and is ke
  - [https://www.newsweek.com/are-kardashians-losing-popularity-americans-think-so-poll-1766316](https://www.newsweek.com/are-kardashians-losing-popularity-americans-think-so-poll-1766316)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 14:13:56+00:00
- - tags: None
 
 The famous family skyrocketed to fame in the early 2000s following O.J. Simpson's murder trial.
 
@@ -612,7 +536,6 @@ The famous family skyrocketed to fame in the early 2000s following O.J. Simpson'
  - [https://www.newsweek.com/complete-golden-globes-2023-nominees-list-1766377](https://www.newsweek.com/complete-golden-globes-2023-nominees-list-1766377)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 13:47:08+00:00
- - tags: None
 
 The 2023 Golden Globe nominations were revealed on Monday by "Lopez vs. Lopez" stars George Lopez and Mayan Lopez.
 
@@ -620,7 +543,6 @@ The 2023 Golden Globe nominations were revealed on Monday by "Lopez vs. Lopez" s
  - [https://www.newsweek.com/taco-shop-flooded-orders-daughter-video-tiktok-1766329](https://www.newsweek.com/taco-shop-flooded-orders-daughter-video-tiktok-1766329)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 13:42:55+00:00
- - tags: None
 
 Taco-Bout-Joy's sold over 500 tacos in just a single shift after posting a video of an empty shop to TikTok.
 
@@ -628,7 +550,6 @@ Taco-Bout-Joy's sold over 500 tacos in just a single shift after posting a video
  - [https://www.newsweek.com/russian-man-fined-zelensky-dream-instagram-1766371](https://www.newsweek.com/russian-man-fined-zelensky-dream-instagram-1766371)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 13:42:16+00:00
- - tags: None
 
 "As soon as Ukraine wins, the people who are now in prison [for "fakes" about the army]... will either be released or somehow decriminalized," the man said.
 
@@ -636,7 +557,6 @@ Taco-Bout-Joy's sold over 500 tacos in just a single shift after posting a video
  - [https://www.newsweek.com/who-veronika-rajek-tom-brady-fans-aflutter-model-gushes-1766351](https://www.newsweek.com/who-veronika-rajek-tom-brady-fans-aflutter-model-gushes-1766351)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 13:40:23+00:00
- - tags: None
 
 A former Miss Slovakia has expressed her "love" for Tom Brady on her social media and it has got the tongues wagging for the fans of the NFL star.
 
@@ -644,7 +564,6 @@ A former Miss Slovakia has expressed her "love" for Tom Brady on her social medi
  - [https://www.newsweek.com/austin-butler-didnt-see-family-three-years-while-working-elvis-1766362](https://www.newsweek.com/austin-butler-didnt-see-family-three-years-while-working-elvis-1766362)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 13:34:23+00:00
- - tags: None
 
 "I had months where I wouldn't talk to anybody, and when I did, the only thing I was ever thinking about was Elvis," the biopic's star said.
 
@@ -652,7 +571,6 @@ A former Miss Slovakia has expressed her "love" for Tom Brady on her social medi
  - [https://www.newsweek.com/creating-oases-change-amid-hunger-crisis-africa-opinion-1765756](https://www.newsweek.com/creating-oases-change-amid-hunger-crisis-africa-opinion-1765756)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 13:30:01+00:00
- - tags: None
 
 Local, indigenous knowledge is critical to early warning and early action needed to get ahead of climate crises.
 
@@ -660,7 +578,6 @@ Local, indigenous knowledge is critical to early warning and early action needed
  - [https://www.newsweek.com/should-christians-watch-yellowstone-religious-authors-experts-weigh-1766322](https://www.newsweek.com/should-christians-watch-yellowstone-religious-authors-experts-weigh-1766322)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 13:28:15+00:00
- - tags: None
 
 Religious experts debate whether or not 'Yellowstone' is a suitable show for people of the Christian faith to watch.
 
@@ -668,7 +585,6 @@ Religious experts debate whether or not 'Yellowstone' is a suitable show for peo
  - [https://www.newsweek.com/nato-membership-gives-turkey-ultimate-leverage-opinion-1766368](https://www.newsweek.com/nato-membership-gives-turkey-ultimate-leverage-opinion-1766368)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 13:24:45+00:00
- - tags: None
 
 Turkey's ambition for the 21st century is to be a global power at the intersection of Europe and Asia.
 
@@ -676,7 +592,6 @@ Turkey's ambition for the 21st century is to be a global power at the intersecti
  - [https://www.newsweek.com/parents-dosed-children-opioids-years-plead-guilty-1766357](https://www.newsweek.com/parents-dosed-children-opioids-years-plead-guilty-1766357)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 13:19:56+00:00
- - tags: None
 
 The children, who were wheelchair bound and addicted to opioids when their parents were dosing them, are now able to walk, play sports, and are medication-free.
 
@@ -684,7 +599,6 @@ The children, who were wheelchair bound and addicted to opioids when their paren
  - [https://www.newsweek.com/jan6-criminal-referrals-trump-glenn-kirschner-1766359](https://www.newsweek.com/jan6-criminal-referrals-trump-glenn-kirschner-1766359)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 13:16:48+00:00
- - tags: None
 
 The former federal prosecutor said on his YouTube channel that the January 6 panel may recommend charges for Trump and four others from his inner circle.
 
@@ -692,7 +606,6 @@ The former federal prosecutor said on his YouTube channel that the January 6 pan
  - [https://www.newsweek.com/glove-found-idaho-student-murder-home-raises-questions-1766313](https://www.newsweek.com/glove-found-idaho-student-murder-home-raises-questions-1766313)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 13:13:39+00:00
- - tags: None
 
 Chris McDonough, a former homicide detective, discovered the glove outside the house where four University of Idaho students were stabbed to death in November.
 
@@ -700,7 +613,6 @@ Chris McDonough, a former homicide detective, discovered the glove outside the h
  - [https://www.newsweek.com/meghan-markle-fed-wolves-new-netflix-trailer-1766348](https://www.newsweek.com/meghan-markle-fed-wolves-new-netflix-trailer-1766348)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 13:03:52+00:00
- - tags: None
 
 Meghan Markle and Prince Harry's Netflix documentary will look at a tidal wave of hostility in the media and social media accusations of palace leaks.
 
@@ -708,7 +620,6 @@ Meghan Markle and Prince Harry's Netflix documentary will look at a tidal wave o
  - [https://www.newsweek.com/4-technology-trends-2023-plan-right-now-1766039](https://www.newsweek.com/4-technology-trends-2023-plan-right-now-1766039)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 13:00:37+00:00
- - tags: None
 
 The innovation in 2023 will provide the bedrock for the next generation of the internet.
 
@@ -716,7 +627,6 @@ The innovation in 2023 will provide the bedrock for the next generation of the i
  - [https://www.newsweek.com/toddler-attacked-sheep-saved-family-rescue-dog-viral-tiktok-video-1766332](https://www.newsweek.com/toddler-attacked-sheep-saved-family-rescue-dog-viral-tiktok-video-1766332)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 13:00:17+00:00
- - tags: None
 
 Several users on TikTok praised the dog for swooping in to protect the toddler, noting "big sibling to the rescue."
 
@@ -724,7 +634,6 @@ Several users on TikTok praised the dog for swooping in to protect the toddler, 
  - [https://www.newsweek.com/christmas-mother-law-gift-guide-picky-presents-1763857](https://www.newsweek.com/christmas-mother-law-gift-guide-picky-presents-1763857)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 13:00:01+00:00
- - tags: None
 
 Not sure what to get your mother-in-law for Christmas? Newsweek spoke to a gift guru, who shared her 'secret formula' to help you select the perfect present.
 
@@ -732,7 +641,6 @@ Not sure what to get your mother-in-law for Christmas? Newsweek spoke to a gift 
  - [https://www.newsweek.com/viktor-bout-us-prison-system-nazis-state-tv-interview-1766353](https://www.newsweek.com/viktor-bout-us-prison-system-nazis-state-tv-interview-1766353)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 12:59:05+00:00
- - tags: None
 
 The convicted arms dealer also complained about the food he was given, saying that it's "not really even food, based on Nazi practices."
 
@@ -740,7 +648,6 @@ The convicted arms dealer also complained about the food he was given, saying th
  - [https://www.newsweek.com/worker-backed-getting-six-week-sick-note-vacation-out-spite-1766355](https://www.newsweek.com/worker-backed-getting-six-week-sick-note-vacation-out-spite-1766355)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 12:58:49+00:00
- - tags: None
 
 "Boss isn't treating you well but faking stress will never sit well with me," one Mumsnet user wrote, while another commented, "You've not done anything wrong."
 
@@ -748,7 +655,6 @@ The convicted arms dealer also complained about the food he was given, saying th
  - [https://www.newsweek.com/white-lotus-season-2-finale-ending-explained-who-dies-tanya-1766343](https://www.newsweek.com/white-lotus-season-2-finale-ending-explained-who-dies-tanya-1766343)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 12:58:31+00:00
- - tags: None
 
 "The White Lotus" Season 2 finale on HBO Max was packed full of drama, destruction, deceit and death.
 
@@ -756,7 +662,6 @@ The convicted arms dealer also complained about the food he was given, saying th
  - [https://www.newsweek.com/bts-jin-military-enlistment-update-1766333](https://www.newsweek.com/bts-jin-military-enlistment-update-1766333)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 12:50:42+00:00
- - tags: None
 
 Jin will be the first member of BTS to begin his mandatory military service and the group's record label BIGHIT MUSIC has shared a new statement about it.
 
@@ -764,7 +669,6 @@ Jin will be the first member of BTS to begin his mandatory military service and 
  - [https://www.newsweek.com/brits-streaming-prince-harry-meghan-markle-bad-reviews-netflix-1766305](https://www.newsweek.com/brits-streaming-prince-harry-meghan-markle-bad-reviews-netflix-1766305)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 12:49:06+00:00
- - tags: None
 
 The docuseries topped Netflix charts three days running in the U.K., while it dropped to second place after release day in the U.S.
 
@@ -772,7 +676,6 @@ The docuseries topped Netflix charts three days running in the U.K., while it dr
  - [https://www.newsweek.com/why-belarus-wont-solve-putin-problems-1766337](https://www.newsweek.com/why-belarus-wont-solve-putin-problems-1766337)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 12:48:40+00:00
- - tags: None
 
 An Institute for the Study of War report has said that Belarusian forces remain "extraordinarily unlikely" to invade Ukraine due to serious limitations.
 
@@ -780,7 +683,6 @@ An Institute for the Study of War report has said that Belarusian forces remain 
  - [https://www.newsweek.com/prince-harry-meghan-markle-ripped-snl-netflix-documentary-harry-meghan-1766301](https://www.newsweek.com/prince-harry-meghan-markle-ripped-snl-netflix-documentary-harry-meghan-1766301)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 12:27:34+00:00
- - tags: None
 
 Martin Short suggested "no one's rooting" for Prince Harry and Meghan Markle days after their long-awaited Netflix documentary.
 
@@ -788,7 +690,6 @@ Martin Short suggested "no one's rooting" for Prince Harry and Meghan Markle day
  - [https://www.newsweek.com/woman-prepares-bernese-mountain-dog-christmas-kids-1766330](https://www.newsweek.com/woman-prepares-bernese-mountain-dog-christmas-kids-1766330)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 12:25:13+00:00
- - tags: None
 
 The video has been watched more than 1 million times, the dog owner said: "Christmas is a stressful time for everyone, including your animals."
 
@@ -796,7 +697,6 @@ The video has been watched more than 1 million times, the dog owner said: "Chris
  - [https://www.newsweek.com/world-cup-fan-goes-viral-applying-makeup-during-game-1766292](https://www.newsweek.com/world-cup-fan-goes-viral-applying-makeup-during-game-1766292)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 12:21:58+00:00
- - tags: None
 
 A short clip of a woman applying makeup during Brazil's game against Croatia has gone viral.
 
@@ -804,7 +704,6 @@ A short clip of a woman applying makeup during Brazil's game against Croatia has
  - [https://www.newsweek.com/fuego-volcano-erupting-guatemala-1766324](https://www.newsweek.com/fuego-volcano-erupting-guatemala-1766324)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 12:19:12+00:00
- - tags: None
 
 The incident comes just one week after Stromboli in Italy and Semeru in Indonesia erupted on the same day, and two weeks after Hawaii's Mauna Loa eruption.
 
@@ -812,7 +711,6 @@ The incident comes just one week after Stromboli in Italy and Semeru in Indonesi
  - [https://www.newsweek.com/dad-sneaking-off-ski-trip-wife-daughter-slept-slammed-1766319](https://www.newsweek.com/dad-sneaking-off-ski-trip-wife-daughter-slept-slammed-1766319)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 12:17:21+00:00
- - tags: None
 
 "You literally ditched your family while they were sleeping," read one reply on the now-viral Reddit post, while another added: "You never get a break?"
 
@@ -820,7 +718,6 @@ The incident comes just one week after Stromboli in Italy and Semeru in Indonesi
  - [https://www.newsweek.com/dogs-destroy-house-staffordshire-bull-terrier-tiktok-1766309](https://www.newsweek.com/dogs-destroy-house-staffordshire-bull-terrier-tiktok-1766309)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 12:03:54+00:00
- - tags: None
 
 Two naughty Staffordshire bull terriers wreak havoc in owner house.
 
@@ -828,7 +725,6 @@ Two naughty Staffordshire bull terriers wreak havoc in owner house.
  - [https://www.newsweek.com/newsweek-com-snake-sneaks-plane-huge-delays-major-airport-1766326](https://www.newsweek.com/newsweek-com-snake-sneaks-plane-huge-delays-major-airport-1766326)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 12:02:00+00:00
- - tags: None
 
 The stowaway was found by airport staff in the cargo hold after a four-hour flight.
 
@@ -836,7 +732,6 @@ The stowaway was found by airport staff in the cargo hold after a four-hour flig
  - [https://www.newsweek.com/expanding-child-tax-credit-lifted-millions-children-out-poverty-opinion-1765651](https://www.newsweek.com/expanding-child-tax-credit-lifted-millions-children-out-poverty-opinion-1765651)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 12:00:01+00:00
- - tags: None
 
 In 2021, the government sent nearly every American family up to $300 per child per month for 6 months, then watched to see if it helped.
 
@@ -844,7 +739,6 @@ In 2021, the government sent nearly every American family up to $300 per child p
  - [https://www.newsweek.com/yellowstone-interview-orli-gottesman-halie-stunned-cast-bunkhouse-1765926](https://www.newsweek.com/yellowstone-interview-orli-gottesman-halie-stunned-cast-bunkhouse-1765926)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 12:00:01+00:00
- - tags: None
 
 Gottesman joined the "Yellowstone" cast as Halie in the latest episode. She spoke about life behind the scenes of "Yellowstone" with Newsweek.
 
@@ -852,7 +746,6 @@ Gottesman joined the "Yellowstone" cast as Halie in the latest episode. She spok
  - [https://www.newsweek.com/couple-caught-arguing-sits-dog-couch-classic-viral-tiktok-video-1766284](https://www.newsweek.com/couple-caught-arguing-sits-dog-couch-classic-viral-tiktok-video-1766284)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 11:58:28+00:00
- - tags: None
 
 "Guys guys there's enough to go around," joked one TikTok user.
 
@@ -860,7 +753,6 @@ Gottesman joined the "Yellowstone" cast as Halie in the latest episode. She spok
  - [https://www.newsweek.com/man-extreme-reaction-sister-law-pregnancy-1766269](https://www.newsweek.com/man-extreme-reaction-sister-law-pregnancy-1766269)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 11:37:12+00:00
- - tags: None
 
 The man's wife turned to social media for help, saying she has been "going crazy" over what it could mean.
 
@@ -868,7 +760,6 @@ The man's wife turned to social media for help, saying she has been "going crazy
  - [https://www.newsweek.com/twitter-files-offer-house-gop-opportunity-force-big-tech-transparency-opinion-1766053](https://www.newsweek.com/twitter-files-offer-house-gop-opportunity-force-big-tech-transparency-opinion-1766053)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 11:30:01+00:00
- - tags: None
 
 Modern Big Tech companies have a level of control over the flow of information that is unparalleled in all of human history.
 
@@ -876,7 +767,6 @@ Modern Big Tech companies have a level of control over the flow of information t
  - [https://www.newsweek.com/zelensky-defender-democracy-opponent-religious-freedom-opinion-1766012](https://www.newsweek.com/zelensky-defender-democracy-opponent-religious-freedom-opinion-1766012)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 11:30:01+00:00
- - tags: None
 
 In the 10 months since the Russian invasion of his country, Volodymyr Zelensky has been transformed into the second coming of Winston Churchill.
 
@@ -884,7 +774,6 @@ In the 10 months since the Russian invasion of his country, Volodymyr Zelensky h
  - [https://www.newsweek.com/marjorie-taylor-greene-sex-toy-comments-spark-avalanche-jokes-memes-1766285](https://www.newsweek.com/marjorie-taylor-greene-sex-toy-comments-spark-avalanche-jokes-memes-1766285)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 11:27:24+00:00
- - tags: None
 
 Greene told the audience at the New York Young Republicans Club's gala that butt plugs and dildos can be bought at Target and CVs "nowadays."
 
@@ -892,7 +781,6 @@ Greene told the audience at the New York Young Republicans Club's gala that butt
  - [https://www.newsweek.com/china-return-normal-post-pandemic-zero-covid-2023-1766271](https://www.newsweek.com/china-return-normal-post-pandemic-zero-covid-2023-1766271)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 11:23:05+00:00
- - tags: None
 
 China's leading public health experts are expecting the country's first nationwide wave to peak in a month's time.
 
@@ -900,7 +788,6 @@ China's leading public health experts are expecting the country's first nationwi
  - [https://www.newsweek.com/texas-border-video-shows-hundreds-migrants-illegally-cross-over-1766303](https://www.newsweek.com/texas-border-video-shows-hundreds-migrants-illegally-cross-over-1766303)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 11:22:56+00:00
- - tags: None
 
 A local El Paso news organization has confirmed the crossing of over 1,500 migrants on Sunday night.
 
@@ -908,7 +795,6 @@ A local El Paso news organization has confirmed the crossing of over 1,500 migra
  - [https://www.newsweek.com/who-candace-owens-married-george-farmer-parler-1766300](https://www.newsweek.com/who-candace-owens-married-george-farmer-parler-1766300)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 11:16:08+00:00
- - tags: None
 
 While the commentator and podcast host has made a name for herself as a conservative firebrand, she has a busy home life with her husband of almost four years.
 
@@ -916,7 +802,6 @@ While the commentator and podcast host has made a name for herself as a conserva
  - [https://www.newsweek.com/karen-bass-emergency-los-angeles-homeless-crisis-1766277](https://www.newsweek.com/karen-bass-emergency-los-angeles-homeless-crisis-1766277)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 11:04:56+00:00
- - tags: None
 
 Los Angeles Mayor Karen Bass said she will declare a state of emergency on homelessness on her first day in office.
 
@@ -924,7 +809,6 @@ Los Angeles Mayor Karen Bass said she will declare a state of emergency on homel
  - [https://www.newsweek.com/rick-morty-season6-finale-recap-christmas-star-wars-crossover-1765825](https://www.newsweek.com/rick-morty-season6-finale-recap-christmas-star-wars-crossover-1765825)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 11:00:02+00:00
- - tags: None
 
 "Rick and Morty" Season 6 Episode 10 sees a suspiciously nice Rick buy Morty a Christmas present that every "Star Wars" fan would want.
 
@@ -932,7 +816,6 @@ Los Angeles Mayor Karen Bass said she will declare a state of emergency on homel
  - [https://www.newsweek.com/new-republican-fringe-must-grab-center-stage-opinion-1766182](https://www.newsweek.com/new-republican-fringe-must-grab-center-stage-opinion-1766182)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 11:00:02+00:00
- - tags: None
 
 Congressmembers who are committed to good governance and do not look at service in Washington as serving Donald Trump are now the "fringe" of the GOP.
 
@@ -940,7 +823,6 @@ Congressmembers who are committed to good governance and do not look at service 
  - [https://www.newsweek.com/assessing-damage-trump-brand-opinion-1765787](https://www.newsweek.com/assessing-damage-trump-brand-opinion-1765787)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 11:00:01+00:00
- - tags: None
 
 Candidates who once would have lined up for Trump's endorsement may now wonder if it carries the benefits it once did.
 
@@ -948,7 +830,6 @@ Candidates who once would have lined up for Trump's endorsement may now wonder i
  - [https://www.newsweek.com/if-you-buy-car-before-end-2022-it-should-tesla-expert-says-1765749](https://www.newsweek.com/if-you-buy-car-before-end-2022-it-should-tesla-expert-says-1765749)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 11:00:01+00:00
- - tags: None
 
 Tesla is one of the few companies offering discounts on cars this holiday season.
 
@@ -956,7 +837,6 @@ Tesla is one of the few companies offering discounts on cars this holiday season
  - [https://www.newsweek.com/usafrica-leaders-summit-presents-opportunity-partnership-between-us-niger-opinion-1765434](https://www.newsweek.com/usafrica-leaders-summit-presents-opportunity-partnership-between-us-niger-opinion-1765434)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 11:00:01+00:00
- - tags: None
 
 Yes, the United States has a lot to offer to Niger, but we also have a lot to give in return.
 
@@ -964,7 +844,6 @@ Yes, the United States has a lot to offer to Niger, but we also have a lot to gi
  - [https://www.newsweek.com/russia-complains-ukraine-military-aggressive-behavior-sergey-vershinin-turkey-1766296](https://www.newsweek.com/russia-complains-ukraine-military-aggressive-behavior-sergey-vershinin-turkey-1766296)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 10:55:19+00:00
- - tags: None
 
 Deputy Foreign Minister Sergey Vershinin blamed Kyiv for failed peace talks and lamented its "totally aggressive" military conduct.
 
@@ -972,7 +851,6 @@ Deputy Foreign Minister Sergey Vershinin blamed Kyiv for failed peace talks and 
  - [https://www.newsweek.com/trump-not-interested-free-paul-whelan-fiona-hill-russia-1766297](https://www.newsweek.com/trump-not-interested-free-paul-whelan-fiona-hill-russia-1766297)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 10:53:09+00:00
- - tags: None
 
 The one-time White House official said the former president never discussed the ex-marine, despite Whelan being in custody for two years of Trump's presidency.
 
@@ -980,7 +858,6 @@ The one-time White House official said the former president never discussed the 
  - [https://www.newsweek.com/russia-uk-relations-nato-ukraine-war-andrei-kelin-1766281](https://www.newsweek.com/russia-uk-relations-nato-ukraine-war-andrei-kelin-1766281)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 10:44:32+00:00
- - tags: None
 
 "We had periods of good relations with London—and not only after the First World War and during the Second World War," the Russian ambassador to the U.K. said.
 
@@ -988,7 +865,6 @@ The one-time White House official said the former president never discussed the 
  - [https://www.newsweek.com/yellowstone-s5-e6-recap-who-died-death-trail-paramount-network-1766294](https://www.newsweek.com/yellowstone-s5-e6-recap-who-died-death-trail-paramount-network-1766294)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 10:39:19+00:00
- - tags: None
 
 John Dutton had to deal with the death of his longtime friend in "Cigarettes, Whiskey, a Meadow and You," the latest episode of "Yellowstone."
 
@@ -996,7 +872,6 @@ John Dutton had to deal with the death of his longtime friend in "Cigarettes, Wh
  - [https://www.newsweek.com/prince-harry-meghan-markle-should-not-lose-titles-nearly-half-us-polling-netflix-1766261](https://www.newsweek.com/prince-harry-meghan-markle-should-not-lose-titles-nearly-half-us-polling-netflix-1766261)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 10:26:49+00:00
- - tags: None
 
 King Charles III should resist longstanding calls to strip Prince Harry and Meghan Markle of their titles, almost half of Americans said in Newsweek polling.
 
@@ -1004,7 +879,6 @@ King Charles III should resist longstanding calls to strip Prince Harry and Megh
  - [https://www.newsweek.com/prince-william-enduring-shock-princess-diana-death-tiktok-1766258](https://www.newsweek.com/prince-william-enduring-shock-princess-diana-death-tiktok-1766258)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 10:16:10+00:00
- - tags: None
 
 Speaking in 2017, the prince said: "I still have shock within me. You know, 20 years later. People go 'shock can't last that long,' but it does."
 
@@ -1012,7 +886,6 @@ Speaking in 2017, the prince said: "I still have shock within me. You know, 20 y
  - [https://www.newsweek.com/white-lotus-italy-sicily-season-3-hotel-hbo-1766278](https://www.newsweek.com/white-lotus-italy-sicily-season-3-hotel-hbo-1766278)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 10:11:33+00:00
- - tags: None
 
 'The White Lotus' shocked viewers in the season two finale, with many quickly asking when they can expect to see the next installment.
 
@@ -1020,7 +893,6 @@ Speaking in 2017, the prince said: "I still have shock within me. You know, 20 y
  - [https://www.newsweek.com/oregon-elderly-couple-found-shot-dead-inside-home-1766288](https://www.newsweek.com/oregon-elderly-couple-found-shot-dead-inside-home-1766288)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 10:09:38+00:00
- - tags: None
 
 A neighbor said the couple were close and "practically joined at the hip."
 
@@ -1028,7 +900,6 @@ A neighbor said the couple were close and "practically joined at the hip."
  - [https://www.newsweek.com/grieving-dog-next-cats-bed-passed-away-breaks-hearts-1766282](https://www.newsweek.com/grieving-dog-next-cats-bed-passed-away-breaks-hearts-1766282)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 10:02:59+00:00
- - tags: None
 
 "It's the time together that counts, but nothing can replace a good friend," said one commenter on the heartbreaking post.
 
@@ -1036,7 +907,6 @@ A neighbor said the couple were close and "practically joined at the hip."
  - [https://www.newsweek.com/dave-chappelle-elon-musk-show-stage-booing-1766289](https://www.newsweek.com/dave-chappelle-elon-musk-show-stage-booing-1766289)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 09:48:21+00:00
- - tags: None
 
 Many people started jeering the Twitter owner when he came onstage at the Chappelle show, but the comedian had a quick comeback for the haters.
 
@@ -1044,7 +914,6 @@ Many people started jeering the Twitter owner when he came onstage at the Chappe
  - [https://www.newsweek.com/russia-struggling-military-unlikely-achieve-putin-ultimate-goal-uk-intelligence-1766260](https://www.newsweek.com/russia-struggling-military-unlikely-achieve-putin-ultimate-goal-uk-intelligence-1766260)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 09:41:03+00:00
- - tags: None
 
 One of Russia's main goals in Ukraine remains to "liberate" the Donbas and southeastern Ukraine, according to Kremlin spokesperson Dmitry Peskov.
 
@@ -1052,7 +921,6 @@ One of Russia's main goals in Ukraine remains to "liberate" the Donbas and south
  - [https://www.newsweek.com/marjorie-taylor-greene-armed-jan6-capitol-riot-insurrection-1766266](https://www.newsweek.com/marjorie-taylor-greene-armed-jan6-capitol-riot-insurrection-1766266)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 09:29:34+00:00
- - tags: None
 
 The GOP congresswoman from Georgia also told a crowd in New York that "we would have won" if she had organized the insurrection at the Capitol in 2021.
 
@@ -1060,7 +928,6 @@ The GOP congresswoman from Georgia also told a crowd in New York that "we would 
  - [https://www.newsweek.com/byheart-recalls-baby-formula-bacterial-contamination-risk-1766262](https://www.newsweek.com/byheart-recalls-baby-formula-bacterial-contamination-risk-1766262)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 09:19:53+00:00
- - tags: None
 
 ByHeart announced that it has voluntarily recalled five batches of ByHeart Whole Nutrition Infant Formula.
 
@@ -1068,7 +935,6 @@ ByHeart announced that it has voluntarily recalled five batches of ByHeart Whole
  - [https://www.newsweek.com/woman-defends-sexuality-work-reddit-1765996](https://www.newsweek.com/woman-defends-sexuality-work-reddit-1765996)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 08:49:13+00:00
- - tags: None
 
 A woman has been praised despite getting into to trouble for defending her sexuality at work.
 
@@ -1076,7 +942,6 @@ A woman has been praised despite getting into to trouble for defending her sexua
  - [https://www.newsweek.com/monday-night-football-odds-picks-patriots-vs-cardinals-1766250](https://www.newsweek.com/monday-night-football-odds-picks-patriots-vs-cardinals-1766250)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 08:46:45+00:00
- - tags: None
 
 See the Patriots vs Cardinals odds, predictions, betting trends, and injury news for Monday Night Football in Week 14.
 
@@ -1084,7 +949,6 @@ See the Patriots vs Cardinals odds, predictions, betting trends, and injury news
  - [https://www.newsweek.com/delta-flight-delays-ice-boston-logan-airport-1766274](https://www.newsweek.com/delta-flight-delays-ice-boston-logan-airport-1766274)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 08:45:56+00:00
- - tags: None
 
 Travelers claim to be stuck on grounded jets at Boston Logan International in Massachusetts, as ground crews struggle to de-ice planes and allocate gates.
 
@@ -1092,7 +956,6 @@ Travelers claim to be stuck on grounded jets at Boston Logan International in Ma
  - [https://www.newsweek.com/wordle-541-december-12-hints-clues-answer-1766256](https://www.newsweek.com/wordle-541-december-12-hints-clues-answer-1766256)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 08:30:39+00:00
- - tags: None
 
 Find out everything you need to know about "Wordle" #541, including clues and the answer to today's mystery word.
 
@@ -1100,7 +963,6 @@ Find out everything you need to know about "Wordle" #541, including clues and th
  - [https://www.newsweek.com/over-82000-ukrainians-refugees-paroled-us-immigration-1766251](https://www.newsweek.com/over-82000-ukrainians-refugees-paroled-us-immigration-1766251)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 05:48:06+00:00
- - tags: None
 
 This is just the tip of the iceberg as Ukrainian refugees spread around the world.
 
@@ -1108,7 +970,6 @@ This is just the tip of the iceberg as Ukrainian refugees spread around the worl
  - [https://www.newsweek.com/donald-trump-says-he-turned-down-deal-paul-whelan-viktor-bout-1766249](https://www.newsweek.com/donald-trump-says-he-turned-down-deal-paul-whelan-viktor-bout-1766249)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 02:41:13+00:00
- - tags: None
 
 "I wouldn't have made the deal for a hundred people in exchange for someone that has killed untold numbers of people with his arms deals," Trump said.
 
@@ -1116,6 +977,5 @@ This is just the tip of the iceberg as Ukrainian refugees spread around the worl
  - [https://www.newsweek.com/white-lotus-season-3-creator-mike-white-plot-location-jennifer-coolidge-1765990](https://www.newsweek.com/white-lotus-season-3-creator-mike-white-plot-location-jennifer-coolidge-1765990)
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-12 02:00:01+00:00
- - tags: None
 
 'The White Lotus' Season 3 has been given the green light by HBO and director Mike White has dropped some hints on what to expect.

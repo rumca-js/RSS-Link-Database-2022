@@ -1,10 +1,9 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology
+# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
 
 ## Former Twitter official leaves home after threats unleashed by Musk attacks
  - [https://www.washingtonpost.com/technology/2022/12/12/musk-twitter-harass-yoel-roth/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/12/12/musk-twitter-harass-yoel-roth/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-12-12 19:36:50+00:00
- - tags: None
 
 Yoel Roth, Twitter’s former head of trust and safety, left his home after criticism from Musk unleased a torrent of online harassment.
 
@@ -12,7 +11,6 @@ Yoel Roth, Twitter’s former head of trust and safety, left his home after crit
  - [https://www.washingtonpost.com/technology/2022/12/12/bankman-fried-arrested/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/12/12/bankman-fried-arrested/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-12-12 19:35:38+00:00
- - tags: None
 
 FTX and Bankman-Fried have been under investigation by U.S. law enforcement agencies after his company imploded.
 
@@ -20,7 +18,6 @@ FTX and Bankman-Fried have been under investigation by U.S. law enforcement agen
  - [https://www.washingtonpost.com/video-games/2022/12/12/best-video-games-2022/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/12/12/best-video-games-2022/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-12-12 16:44:38+00:00
- - tags: None
 
 From ‘Elden Ring’ to 'God of War Ragnarok' to even Wordle, 2022 was a great year for games. Here’s The Washington Post's list of the very best.
 
@@ -28,7 +25,6 @@ From ‘Elden Ring’ to 'God of War Ragnarok' to even Wordle, 2022 was a great 
  - [https://www.washingtonpost.com/technology/2022/12/12/musk-child-porn-qanon/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/12/12/musk-child-porn-qanon/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-12-12 06:00:00+00:00
- - tags: None
 
 Musk used a misleading tweet to imply over the weekend that Twitter's former trust and safety head had been lax about pursuing reports of child porn on the site.
 
@@ -36,7 +32,6 @@ Musk used a misleading tweet to imply over the weekend that Twitter's former tru
  - [https://www.washingtonpost.com/technology/interactive/2022/gen-z-work-slang-quiz/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/interactive/2022/gen-z-work-slang-quiz/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-12-12 05:00:21+00:00
- - tags: None
 
 Take our quiz to find out how well you understand emojis, slang and reactions that your Generation Z colleagues use.
 
@@ -44,6 +39,5 @@ Take our quiz to find out how well you understand emojis, slang and reactions th
  - [https://www.washingtonpost.com/technology/2022/12/12/gen-z-work-emojis/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/12/12/gen-z-work-emojis/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-12-12 05:00:03+00:00
- - tags: None
 
 Gen Z’s use of emojis, slang and punctuation is confusing older colleagues as workplace communications are increasingly online.

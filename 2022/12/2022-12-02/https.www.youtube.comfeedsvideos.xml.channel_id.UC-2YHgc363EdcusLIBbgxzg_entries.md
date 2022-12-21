@@ -1,10 +1,9 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
+# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
 
 ## A Short List Of Diseases That You Can Smell
  - [https://www.youtube.com/watch?v=SBAOsIZp3H0](https://www.youtube.com/watch?v=SBAOsIZp3H0)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
  - date published: 2022-12-02 20:45:00+00:00
- - tags: None
 
 If you've got a sensitive nose, you might be able to diagnose these diseases. From my video about the woman who can smell Parkinson's. 
 https://youtu.be/8LGtG8iACIQ

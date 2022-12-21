@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## Oppo sets date for the launch of its new foldables
  - [https://www.androidauthority.com/oppo-find-n2-launch-3249198/](https://www.androidauthority.com/oppo-find-n2-launch-3249198/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-08 22:39:26+00:00
- - tags: None
 
 The event will likely announce a new chip along with the company's new phones.
 
@@ -12,7 +11,6 @@ The event will likely announce a new chip along with the company's new phones.
  - [https://www.androidauthority.com/google-waze-maps-3249134/](https://www.androidauthority.com/google-waze-maps-3249134/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-08 21:37:53+00:00
- - tags: None
 
 The restructuring may lead to Waze losing its independence.
 
@@ -20,7 +18,6 @@ The restructuring may lead to Waze losing its independence.
  - [https://www.androidauthority.com/apple-usb-c-date-3249143/](https://www.androidauthority.com/apple-usb-c-date-3249143/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-08 20:51:31+00:00
- - tags: None
 
 The EU is no longer giving vague dates. It's now making things official and specific.
 
@@ -28,7 +25,6 @@ The EU is no longer giving vague dates. It's now making things official and spec
  - [https://www.androidauthority.com/discover-samsung-deals-3249016/](https://www.androidauthority.com/discover-samsung-deals-3249016/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-08 18:40:59+00:00
- - tags: None
 
 Today you can save over $1,000 on the Galaxy Z Fold 4 or a high-end gaming monitor. And it's just getting started.
 
@@ -36,7 +32,6 @@ Today you can save over $1,000 on the Galaxy Z Fold 4 or a high-end gaming monit
  - [https://www.androidauthority.com/google-chrome-browser-3249012/](https://www.androidauthority.com/google-chrome-browser-3249012/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-08 18:22:55+00:00
- - tags: None
 
 The new controls will be available to everybody in the next several weeks.
 
@@ -44,7 +39,6 @@ The new controls will be available to everybody in the next several weeks.
  - [https://www.androidauthority.com/galaxy-note-poll-3248959/](https://www.androidauthority.com/galaxy-note-poll-3248959/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-08 16:53:11+00:00
- - tags: None
 
 A majority of voters want the Note to come back.
 
@@ -52,7 +46,6 @@ A majority of voters want the Note to come back.
  - [https://www.androidauthority.com/disney-plus-with-ads-not-available-on-roku-3248962/](https://www.androidauthority.com/disney-plus-with-ads-not-available-on-roku-3248962/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-08 16:12:26+00:00
- - tags: None
 
 Would Mickey approve of this?
 
@@ -60,7 +53,6 @@ Would Mickey approve of this?
  - [https://www.androidauthority.com/best-netflix-christmas-movies-3248352/](https://www.androidauthority.com/best-netflix-christmas-movies-3248352/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-08 14:38:58+00:00
- - tags: None
 
 From old classics to new original films, there are plenty of Christmas movies to binge-watch.
 
@@ -68,7 +60,6 @@ From old classics to new original films, there are plenty of Christmas movies to
  - [https://www.androidauthority.com/moto-g-play-2023-3248482/](https://www.androidauthority.com/moto-g-play-2023-3248482/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-08 14:00:48+00:00
- - tags: None
 
 The Moto G Play (2023) is the latest budget phone in Motorola's lineup.
 
@@ -76,7 +67,6 @@ The Moto G Play (2023) is the latest budget phone in Motorola's lineup.
  - [https://www.androidauthority.com/best-spotify-alternatives-3245989/](https://www.androidauthority.com/best-spotify-alternatives-3245989/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-08 12:57:29+00:00
- - tags: None
 
 If Spotify isn't for you, you're spoilt for choice in terms of alternatives.
 
@@ -84,7 +74,6 @@ If Spotify isn't for you, you're spoilt for choice in terms of alternatives.
  - [https://www.androidauthority.com/google-pixel-fold-renders-video-3248903/](https://www.androidauthority.com/google-pixel-fold-renders-video-3248903/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-08 11:42:56+00:00
- - tags: None
 
 Google's foldable could also slot in between the Oppo Find N and Samsung Galaxy Z Fold 4 in terms of height.
 
@@ -92,7 +81,6 @@ Google's foldable could also slot in between the Oppo Find N and Samsung Galaxy 
  - [https://www.androidauthority.com/daily-authority-%f0%9f%94%8d-googles-year-in-search-3248854/](https://www.androidauthority.com/daily-authority-%f0%9f%94%8d-googles-year-in-search-3248854/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-08 08:35:35+00:00
- - tags: None
 
 Plus, a rather crazy asteroid impact simulator.
 
@@ -100,7 +88,6 @@ Plus, a rather crazy asteroid impact simulator.
  - [https://www.androidauthority.com/daily-authority-december-8-2022-3248854/](https://www.androidauthority.com/daily-authority-december-8-2022-3248854/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-08 08:35:35+00:00
- - tags: None
 
 Plus, a rather crazy asteroid impact simulator.
 
@@ -108,7 +95,6 @@ Plus, a rather crazy asteroid impact simulator.
  - [https://www.androidauthority.com/realme-10-pro-global-3248638/](https://www.androidauthority.com/realme-10-pro-global-3248638/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-08 08:00:18+00:00
- - tags: None
 
 The Realme 10 Pro series packs in a number of features.
 
@@ -116,6 +102,5 @@ The Realme 10 Pro series packs in a number of features.
  - [https://www.androidauthority.com/imessage-contact-key-verification-3248853/](https://www.androidauthority.com/imessage-contact-key-verification-3248853/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-08 05:30:13+00:00
- - tags: None
 
 Overkill for many, but super useful for some.

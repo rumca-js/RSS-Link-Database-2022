@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## Opera’s new Lucid Mode makes older video look like new
  - [https://www.pcworld.com/article/1434315/operas-new-lucid-mode-makes-older-video-look-like-new.html](https://www.pcworld.com/article/1434315/operas-new-lucid-mode-makes-older-video-look-like-new.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-13 18:18:36+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -45,7 +44,6 @@ Browsers</div>
  - [https://www.pcworld.com/article/1433792/save-600-on-this-amd-loaded-asus-gaming-laptop.html](https://www.pcworld.com/article/1433792/save-600-on-this-amd-loaded-asus-gaming-laptop.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-13 14:30:45+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -70,7 +68,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/1431755/amd-radeon-rx-7900-xtx-radeon-rx-7900-xt-review-rdna-3.html](https://www.pcworld.com/article/1431755/amd-radeon-rx-7900-xtx-radeon-rx-7900-xt-review-rdna-3.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-13 14:06:43+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -442,7 +439,6 @@ Gaming, GPUs</div>
  - [https://www.pcworld.com/article/1433026/xfx-speedster-merc-310-7900-xtx-review.html](https://www.pcworld.com/article/1433026/xfx-speedster-merc-310-7900-xtx-review.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-13 14:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -649,7 +645,6 @@ Gaming, GPUs</div>
  - [https://www.pcworld.com/article/557622/the-best-laptop-for-college.html](https://www.pcworld.com/article/557622/the-best-laptop-for-college.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-13 11:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -1402,7 +1397,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/1428726/this-dell-convertible-chromebook-is-70-for-next-72-hours-only.html](https://www.pcworld.com/article/1428726/this-dell-convertible-chromebook-is-70-for-next-72-hours-only.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-13 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>

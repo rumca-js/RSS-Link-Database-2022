@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## iOS 16.2: Is it better or worse for your iPhone battery?
  - [https://www.zdnet.com/article/ios-13-battery-life-bad-top-tips-to-fix-battery-drain-issues/#ftag=RSSbaffb68](https://www.zdnet.com/article/ios-13-battery-life-bad-top-tips-to-fix-battery-drain-issues/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-14 23:19:00+00:00
- - tags: None
 
 According to iPhone users, well, it depends. Here's how to help your battery get through the day.
 
@@ -12,7 +11,6 @@ According to iPhone users, well, it depends. Here's how to help your battery get
  - [https://www.zdnet.com/article/jabra-elite-85t-earbud-deal-promo-code-coupon-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/jabra-elite-85t-earbud-deal-promo-code-coupon-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-14 22:40:00+00:00
- - tags: None
 
 Hear more of what you want to hear and less of what you don't with active noise cancellation built into these Jabra Elite 85t earbuds for $120 -- over $100 off.
 
@@ -20,7 +18,6 @@ Hear more of what you want to hear and less of what you don't with active noise 
  - [https://www.zdnet.com/home-and-office/home-entertainment/asus-rog-strix-g15-laptop-deal-sale-coupon-code/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/asus-rog-strix-g15-laptop-deal-sale-coupon-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-14 22:31:00+00:00
- - tags: None
 
 You can swap out the Armor caps on this portable gaming laptop -- and right now, it's on sale for 35% off.
 
@@ -28,7 +25,6 @@ You can swap out the Armor caps on this portable gaming laptop -- and right now,
  - [https://www.zdnet.com/article/apple-watch-deals/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-watch-deals/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-14 22:30:00+00:00
- - tags: None
 
 Apple Watch deals have landed this holiday season. We've rounded up the best Apple Watch deals so you can wrap up a wearable for your loved one this year.
 
@@ -36,7 +32,6 @@ Apple Watch deals have landed this holiday season. We've rounded up the best App
  - [https://www.zdnet.com/article/att-deals/#ftag=RSSbaffb68](https://www.zdnet.com/article/att-deals/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-14 22:05:00+00:00
- - tags: None
 
 This holiday season, AT&amp;T customers, new and old, can reap the best deals below on the latest smartphones from Apple, Samsung, Google, and more.
 
@@ -44,7 +39,6 @@ This holiday season, AT&amp;T customers, new and old, can reap the best deals be
  - [https://www.zdnet.com/article/how-to-take-a-full-page-screenshot-in-google-chrome-four-ways/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-take-a-full-page-screenshot-in-google-chrome-four-ways/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-14 21:43:00+00:00
- - tags: None
 
 A full-screen capture on Google Chrome is easier said than done. Follow this how-to for flawless screenshots, every time.
 
@@ -52,7 +46,6 @@ A full-screen capture on Google Chrome is easier said than done. Follow this how
  - [https://www.zdnet.com/article/have-an-iphone-flighty-is-a-must-have-app-for-traveling-this-holiday-season/#ftag=RSSbaffb68](https://www.zdnet.com/article/have-an-iphone-flighty-is-a-must-have-app-for-traveling-this-holiday-season/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-14 21:34:57+00:00
- - tags: None
 
 If you're flying anytime soon and have an iPhone, Flighty's near real-time alerts, an abundance of information and live activities support, makes it a must-have.
 
@@ -60,7 +53,6 @@ If you're flying anytime soon and have an iPhone, Flighty's near real-time alert
  - [https://www.zdnet.com/home-and-office/home-entertainment/epos-gsx-1000-2nd-edition-review/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/epos-gsx-1000-2nd-edition-review/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-14 20:59:00+00:00
- - tags: None
 
 Review: The Epos GSX 1000 (2nd Edition) builds on the successes of its predecessor, giving you the best gaming audio available for a lesser price than most sound systems.
 
@@ -68,7 +60,6 @@ Review: The Epos GSX 1000 (2nd Edition) builds on the successes of its predecess
  - [https://www.zdnet.com/article/how-apple-mail-reminders-can-help-you-not-forget-an-important-conversation/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-apple-mail-reminders-can-help-you-not-forget-an-important-conversation/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-14 19:10:38+00:00
- - tags: None
 
 If you seem to regularly forget to respond to important emails, Apple Mail has a very easy-to-use feature that can help you avoid that issue.
 
@@ -76,7 +67,6 @@ If you seem to regularly forget to respond to important emails, Apple Mail has a
  - [https://www.zdnet.com/article/laptop-deals/#ftag=RSSbaffb68](https://www.zdnet.com/article/laptop-deals/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-14 19:05:00+00:00
- - tags: None
 
 Want to gift a laptop this holiday season? We've included Windows laptops from Dell, Lenovo, and HP, as well as MacBooks, large-screen laptops, 2-in-1 touchscreen notebooks, and Chromebooks.
 
@@ -84,7 +74,6 @@ Want to gift a laptop this holiday season? We've included Windows laptops from D
  - [https://www.zdnet.com/home-and-office/networking/3g-is-shutting-down-here-are-the-gadgets-that-still-rely-on-it-do-you-have-one/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/networking/3g-is-shutting-down-here-are-the-gadgets-that-still-rely-on-it-do-you-have-one/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-14 18:16:14+00:00
- - tags: None
 
 As the year comes to an end, network providers are putting a stop to their 3G satellites. Here's how the closure may affect the tech that you rely on every day.
 
@@ -92,7 +81,6 @@ As the year comes to an end, network providers are putting a stop to their 3G sa
  - [https://www.zdnet.com/home-and-office/networking/the-3g-shutdown-here-are-the-impacted-devices-do-you-own-any/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/networking/the-3g-shutdown-here-are-the-impacted-devices-do-you-own-any/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-14 18:16:00+00:00
- - tags: None
 
 As the year comes to an end, network providers are putting a stop to their 3G satellites. Here's how the closure may affect the tech that you rely on every day.
 
@@ -100,7 +88,6 @@ As the year comes to an end, network providers are putting a stop to their 3G sa
  - [https://www.zdnet.com/home-and-office/home-entertainment/drop-epos-h3x-gaming-headset-review/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/drop-epos-h3x-gaming-headset-review/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-14 17:43:00+00:00
- - tags: None
 
 Drop and Epos have once again teamed up to bring their collaborative magic to the budget gaming headset market, creating a model that instantly dominates even some pricier options.
 
@@ -108,7 +95,6 @@ Drop and Epos have once again teamed up to bring their collaborative magic to th
  - [https://www.zdnet.com/home-and-office/home-entertainment/how-to-download-youtube-videos-three-ways-free-paid-and-linux-command-line/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/how-to-download-youtube-videos-three-ways-free-paid-and-linux-command-line/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-14 17:36:00+00:00
- - tags: None
 
 We offer you two straightforward download options. Plus, there's Linux command line option.
 
@@ -116,7 +102,6 @@ We offer you two straightforward download options. Plus, there's Linux command l
  - [https://www.zdnet.com/article/the-drone-wranglers-how-the-most-authentic-old-west-town-in-the-us-is-delivering-the-future-of-flight/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-drone-wranglers-how-the-most-authentic-old-west-town-in-the-us-is-delivering-the-future-of-flight/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-14 17:05:53+00:00
- - tags: None
 
 Pendleton, Oregon is mostly known for three things: rodeo, whiskey and wool. It might also be the perfect place to jumpstart a drone revolution.
 
@@ -124,7 +109,6 @@ Pendleton, Oregon is mostly known for three things: rodeo, whiskey and wool. It 
  - [https://www.zdnet.com/article/universities-delivering-academic-and-research-excellence-have-strong-it-partnerships/#ftag=RSSbaffb68](https://www.zdnet.com/article/universities-delivering-academic-and-research-excellence-have-strong-it-partnerships/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-14 16:59:00+00:00
- - tags: None
 
 Greg Wolf, an award-winning Boston based CIO at UMass Chan Medical School, speaks about digital transformation trends at academic health science universities.
 
@@ -132,7 +116,6 @@ Greg Wolf, an award-winning Boston based CIO at UMass Chan Medical School, speak
  - [https://www.zdnet.com/article/how-to-use-the-new-quick-look-feature-in-macos-ventura-spotlight/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-use-the-new-quick-look-feature-in-macos-ventura-spotlight/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-14 16:56:32+00:00
- - tags: None
 
 MacOS Ventura includes a number of improvements to simplify your workflow. One such feature makes using the Spotlight search tool even easier.
 
@@ -140,7 +123,6 @@ MacOS Ventura includes a number of improvements to simplify your workflow. One s
  - [https://www.zdnet.com/article/samsung-galaxy-buds2-pro-deal-coupon-promo-code/#ftag=RSSbaffb68](https://www.zdnet.com/article/samsung-galaxy-buds2-pro-deal-coupon-promo-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-14 16:49:00+00:00
- - tags: None
 
 The deal includes a free wireless charger for additional savings.
 
@@ -148,7 +130,6 @@ The deal includes a free wireless charger for additional savings.
  - [https://www.zdnet.com/article/best-graphic-design-monitor/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-graphic-design-monitor/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-14 16:38:00+00:00
- - tags: None
 
 Attention to detail is everything in design. It is why you need a monitor that gives you crisp resolution and high color accuracy. These best graphic design monitors deliver these traits in spades and make the perfect gift for design students or pros.
 
@@ -156,7 +137,6 @@ Attention to detail is everything in design. It is why you need a monitor that g
  - [https://www.zdnet.com/article/your-instagram-inbox-probably-looks-different-today-heres-why/#ftag=RSSbaffb68](https://www.zdnet.com/article/your-instagram-inbox-probably-looks-different-today-heres-why/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-14 16:27:32+00:00
- - tags: None
 
 Update brings new note-sharing feature to users.
 
@@ -164,7 +144,6 @@ Update brings new note-sharing feature to users.
  - [https://www.zdnet.com/home-and-office/energy/dirty-websites-the-worst-urls-for-the-environment-ranked/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/energy/dirty-websites-the-worst-urls-for-the-environment-ranked/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-14 15:43:00+00:00
- - tags: None
 
 The internet uses a lot of energy. These sites use a lot more than most.
 
@@ -172,7 +151,6 @@ The internet uses a lot of energy. These sites use a lot more than most.
  - [https://www.zdnet.com/article/this-apple-watch-feature-could-be-wasting-your-money/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-apple-watch-feature-could-be-wasting-your-money/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-14 15:03:19+00:00
- - tags: None
 
 Do you really need that cellular connection on your wrist?
 
@@ -180,7 +158,6 @@ Do you really need that cellular connection on your wrist?
  - [https://www.zdnet.com/home-and-office/monitor-deals/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/monitor-deals/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-14 14:53:00+00:00
- - tags: None
 
 If you missed your chance to snag a great monitor deal during Cyber Monday, not to worry. We rounded up the best monitor deals available over the holiday season so you can find a device for all your needs.
 
@@ -188,7 +165,6 @@ If you missed your chance to snag a great monitor deal during Cyber Monday, not 
  - [https://www.zdnet.com/article/space-junk-is-falling-from-the-sky-we-are-still-not-doing-enough-to-stop-it/#ftag=RSSbaffb68](https://www.zdnet.com/article/space-junk-is-falling-from-the-sky-we-are-still-not-doing-enough-to-stop-it/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-14 14:00:00+00:00
- - tags: None
 
 Space companies want to remove their junk from orbit - but that's easier said than done.
 
@@ -196,7 +172,6 @@ Space companies want to remove their junk from orbit - but that's easier said th
  - [https://www.zdnet.com/home-and-office/work-life/how-to-screenshot-on-a-laptop-dell-lenovo-mac/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/work-life/how-to-screenshot-on-a-laptop-dell-lenovo-mac/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-14 13:56:03+00:00
- - tags: None
 
 Whether you've got a windows-based laptop like a Dell or Lenovo unit, or any model of Apple MacBook, we'll show you how to easily capture anything on your screen.
 
@@ -204,7 +179,6 @@ Whether you've got a windows-based laptop like a Dell or Lenovo unit, or any mod
  - [https://www.zdnet.com/article/apple-may-open-iphone-and-ipad-to-rival-app-stores-says-report/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-may-open-iphone-and-ipad-to-rival-app-stores-says-report/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-14 13:00:25+00:00
- - tags: None
 
 Apple could be preparing big changes to how iOS apps are distributed as a result of Europe's Digital Markets Act.
 
@@ -212,7 +186,6 @@ Apple could be preparing big changes to how iOS apps are distributed as a result
  - [https://www.zdnet.com/article/ios-16-2-these-security-updates-will-protect-your-iphone-from-multiple-vulnerabilities/#ftag=RSSbaffb68](https://www.zdnet.com/article/ios-16-2-these-security-updates-will-protect-your-iphone-from-multiple-vulnerabilities/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-14 12:42:46+00:00
- - tags: None
 
 Apple details newly disclosed security vulnerabilities - including several flaws that could allow attackers to take control of your iPhone or iPad.
 
@@ -220,7 +193,6 @@ Apple details newly disclosed security vulnerabilities - including several flaws
  - [https://www.zdnet.com/article/china-lays-out-ground-rules-to-stem-deepfake-abuse/#ftag=RSSbaffb68](https://www.zdnet.com/article/china-lays-out-ground-rules-to-stem-deepfake-abuse/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-14 09:36:42+00:00
- - tags: None
 
 Effective from January 10 next year, the new law requires anyone offering "deep synthesis" technology and services, including deepfakes and virtual reality, to label these images accordingly.
 
@@ -228,7 +200,6 @@ Effective from January 10 next year, the new law requires anyone offering "deep 
  - [https://www.zdnet.com/home-and-office/save-on-a-2022-ultra-slim-samsung-soundbar-deal-sale-coupon-code/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/save-on-a-2022-ultra-slim-samsung-soundbar-deal-sale-coupon-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-14 06:33:38+00:00
- - tags: None
 
 You can save 33% off the typical RRP on a Samsung soundbar sleek and slim enough to suit any household.
 
@@ -236,7 +207,6 @@ You can save 33% off the typical RRP on a Samsung soundbar sleek and slim enough
  - [https://www.zdnet.com/home-and-office/samsung-soundbar-deal-sale-coupon-code/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/samsung-soundbar-deal-sale-coupon-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-14 06:33:00+00:00
- - tags: None
 
 You can save 33% on a Samsung soundbar sleek and slim enough to suit any household. Add it to your cart today to save $300.
 
@@ -244,7 +214,6 @@ You can save 33% on a Samsung soundbar sleek and slim enough to suit any househo
  - [https://www.zdnet.com/article/wip-ot-security/#ftag=RSSbaffb68](https://www.zdnet.com/article/wip-ot-security/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-14 01:08:16+00:00
- - tags: None
 
 That requires a strong focus on operational technology security, since generic cyber hygiene practices will not address risks specific to each of these critical sectors.
 
@@ -252,7 +221,6 @@ That requires a strong focus on operational technology security, since generic c
  - [https://www.zdnet.com/article/singapore-wants-all-critical-infrastructures-to-be-ready-for-cyber-threats/#ftag=RSSbaffb68](https://www.zdnet.com/article/singapore-wants-all-critical-infrastructures-to-be-ready-for-cyber-threats/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-14 01:08:00+00:00
- - tags: None
 
 That requires a strong focus on operational technology security, since generic cyber hygiene practices will not address risks specific to each of these critical sectors.
 
@@ -260,7 +228,6 @@ That requires a strong focus on operational technology security, since generic c
  - [https://www.zdnet.com/article/microsoft-patch-tuesday-fixes-six-critical-vulnerabilities/#ftag=RSSbaffb68](https://www.zdnet.com/article/microsoft-patch-tuesday-fixes-six-critical-vulnerabilities/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-14 01:05:56+00:00
- - tags: None
 
 One moderate vulnerability already exploited impacts the Windows SmartScreen Security Feature
 
@@ -268,6 +235,5 @@ One moderate vulnerability already exploited impacts the Windows SmartScreen Sec
  - [https://www.zdnet.com/article/best-buy-deals/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-buy-deals/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-14 00:13:00+00:00
- - tags: None
 
 The big box store is one of the best places to score great deals on tech. If you missed Cyber Monday, shop right now with great deals in Best Buy's catalog ahead of the holidays.

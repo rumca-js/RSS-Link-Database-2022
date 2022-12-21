@@ -1,4 +1,4 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/
+# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
 
 ## Netflix: The 47 Absolute Best Movies to Watch     - CNET
  - [https://www.cnet.com/culture/entertainment/netflix-the-47-absolute-best-movies-to-watch-tonight/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/netflix-the-47-absolute-best-movies-to-watch-tonight/#ftag=CADf328eec)

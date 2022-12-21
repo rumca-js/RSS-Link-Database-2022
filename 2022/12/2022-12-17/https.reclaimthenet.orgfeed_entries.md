@@ -1,4 +1,4 @@
-# Source Reclaim The Net, Source URL:https://reclaimthenet.org/feed/
+# Source Reclaim The Net, Source URL:https://reclaimthenet.org/feed/, Source language: en-US
 
 ## German court rules Twitter has to remove offensive posts before they’re even reported
  - [https://reclaimthenet.org/germany-twitter-has-to-remove-offensive-posts/](https://reclaimthenet.org/germany-twitter-has-to-remove-offensive-posts/)

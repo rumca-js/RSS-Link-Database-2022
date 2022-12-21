@@ -1,10 +1,9 @@
-# Source Sky News, Source URL:http://feeds.skynews.com/feeds/rss/world.xml
+# Source Sky News, Source URL:http://feeds.skynews.com/feeds/rss/world.xml, Source language: en-US
 
 ## Foreign secretary to signal shift towards partnerships with rising world powers
  - [https://news.sky.com/story/foreign-secretary-to-signal-shift-towards-partnerships-with-rising-world-powers-12765850](https://news.sky.com/story/foreign-secretary-to-signal-shift-towards-partnerships-with-rising-world-powers-12765850)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
  - date published: 2022-12-10 23:12:00+00:00
- - tags: None
 
 The UK will look to form long-lasting partnerships with Latin American, Asian and African countries, the foreign secretary will say next week.
 
@@ -12,7 +11,6 @@ The UK will look to form long-lasting partnerships with Latin American, Asian an
  - [https://news.sky.com/story/qatar-world-cup-england-knocked-out-after-quarter-final-defeat-to-holders-france-12765765](https://news.sky.com/story/qatar-world-cup-england-knocked-out-after-quarter-final-defeat-to-holders-france-12765765)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
  - date published: 2022-12-10 20:01:00+00:00
- - tags: None
 
 England's World Cup dream lies in tatters after being knocked out by holders France in their quarter-final clash.
 
@@ -20,7 +18,6 @@ England's World Cup dream lies in tatters after being knocked out by holders Fra
  - [https://news.sky.com/story/world-cup-2022-england-v-france-live-updates-12765676](https://news.sky.com/story/world-cup-2022-england-v-france-live-updates-12765676)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
  - date published: 2022-12-10 17:52:00+00:00
- - tags: None
 
 
 
@@ -28,7 +25,6 @@ England's World Cup dream lies in tatters after being knocked out by holders Fra
  - [https://news.sky.com/story/world-cupmorocco-make-history-after-beating-portugal-to-reach-world-cup-semi-final-12765581](https://news.sky.com/story/world-cupmorocco-make-history-after-beating-portugal-to-reach-world-cup-semi-final-12765581)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
  - date published: 2022-12-10 16:33:00+00:00
- - tags: None
 
 Morocco made history by becoming the first African nation to reach a World Cup semi-final&#160;after beating Portugal 1-0.
 
@@ -36,7 +32,6 @@ Morocco made history by becoming the first African nation to reach a World Cup s
  - [https://news.sky.com/story/world-cup-2022-portugal-v-morocco-live-updates-12765503](https://news.sky.com/story/world-cup-2022-portugal-v-morocco-live-updates-12765503)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
  - date published: 2022-12-10 14:30:00+00:00
- - tags: None
 
 
 
@@ -44,7 +39,6 @@ Morocco made history by becoming the first African nation to reach a World Cup s
  - [https://news.sky.com/story/armed-suspect-who-killed-mother-and-took-hostages-including-child-9-in-dresden-has-died-12765364](https://news.sky.com/story/armed-suspect-who-killed-mother-and-took-hostages-including-child-9-in-dresden-has-died-12765364)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
  - date published: 2022-12-10 11:08:00+00:00
- - tags: None
 
 An armed suspect who allegedly killed his mother before taking two hostages in Dresden has now died, police confirmed.
 
@@ -52,7 +46,6 @@ An armed suspect who allegedly killed his mother before taking two hostages in D
  - [https://news.sky.com/story/police-evacuate-dresden-shopping-mall-over-suspected-hostage-situation-12765364](https://news.sky.com/story/police-evacuate-dresden-shopping-mall-over-suspected-hostage-situation-12765364)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
  - date published: 2022-12-10 11:08:00+00:00
- - tags: None
 
 Police evacuated a shopping mall and the surrounding area in the eastern German city of Dresden after ending a hostage situation.
 
@@ -60,7 +53,6 @@ Police evacuated a shopping mall and the surrounding area in the eastern German 
  - [https://news.sky.com/story/celebrity-chef-frank-heppner-is-suspect-in-german-far-right-coup-plot-according-to-reports-12765272](https://news.sky.com/story/celebrity-chef-frank-heppner-is-suspect-in-german-far-right-coup-plot-according-to-reports-12765272)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
  - date published: 2022-12-10 08:23:00+00:00
- - tags: None
 
 A celebrity chef is among those arrested over an alleged plot by a far-right terrorist group to overthrow the German government, local press has reported.
 
@@ -68,6 +60,5 @@ A celebrity chef is among those arrested over an alleged plot by a far-right ter
  - [https://news.sky.com/story/hong-kong-tycoon-jimmy-lai-jailed-for-more-than-five-years-on-fraud-charge-12765243](https://news.sky.com/story/hong-kong-tycoon-jimmy-lai-jailed-for-more-than-five-years-on-fraud-charge-12765243)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
  - date published: 2022-12-10 07:23:00+00:00
- - tags: None
 
 Pro-democracy Hong Kong tycoon Jimmy Lai has been charged with fraud and sentenced to five years and nine months in prison.

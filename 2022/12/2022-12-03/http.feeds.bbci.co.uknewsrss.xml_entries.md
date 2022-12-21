@@ -1,10 +1,9 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml
+# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
 
 ## World Cup 2022: Lionel Messi keeps Argentina dreams alive after scoring in 1,000th game
  - [https://www.bbc.co.uk/sport/football/63848847?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63848847?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 23:12:13+00:00
- - tags: None
 
 On his 1,000th appearance in professional football, Lionel Messi stepped up again to keep Argentina's World Cup dream alive.
 
@@ -12,7 +11,6 @@ On his 1,000th appearance in professional football, Lionel Messi stepped up agai
  - [https://www.bbc.co.uk/sport/cricket/63806822?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/63806822?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 22:22:54+00:00
- - tags: None
 
 Jon Lewis is set to take charge of England for the first time on their tour of the Caribbean - what challenges does he face in the role?
 
@@ -20,7 +18,6 @@ Jon Lewis is set to take charge of England for the first time on their tour of t
  - [https://www.bbc.co.uk/sport/boxing/63846783?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/boxing/63846783?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 22:22:06+00:00
- - tags: None
 
 Tyson Fury retains his WBC world heavyweight title with a brutal stoppage of Derek Chisora and set up an undisputed showdown with Oleksandr Usyk.
 
@@ -28,7 +25,6 @@ Tyson Fury retains his WBC world heavyweight title with a brutal stoppage of Der
  - [https://www.bbc.co.uk/news/uk-england-london-63847338?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-london-63847338?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 22:00:10+00:00
- - tags: None
 
 The 17th Century crown has been removed from the Tower of London to be altered for the Coronation.
 
@@ -36,7 +32,6 @@ The 17th Century crown has been removed from the Tower of London to be altered f
  - [https://www.bbc.co.uk/news/uk-wales-63839738?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-63839738?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 21:58:12+00:00
- - tags: None
 
 Huge growth in technology means women are desperately needed to fill more jobs, businesses say.
 
@@ -44,7 +39,6 @@ Huge growth in technology means women are desperately needed to fill more jobs, 
  - [https://www.bbc.co.uk/sport/av/football/63849156?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63849156?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 21:45:32+00:00
- - tags: None
 
 Rio Ferdinand describes Lionel Messi's game against Australia as the "best individual performance" of the World Cup, as Argentina won 2-1 to reach the quarter-finals.
 
@@ -52,7 +46,6 @@ Rio Ferdinand describes Lionel Messi's game against Australia as the "best indiv
  - [https://www.bbc.co.uk/news/uk-england-63848998?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-63848998?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 21:15:08+00:00
- - tags: None
 
 The home secretary says Michael Lockwood is the subject of a probe into an "historic allegation".
 
@@ -60,7 +53,6 @@ The home secretary says Michael Lockwood is the subject of a probe into an "hist
  - [https://www.bbc.co.uk/sport/football/63765129?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63765129?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 21:11:16+00:00
- - tags: None
 
 Lionel Messi produces a moment of magic in his 1,000th career game as Argentina beat Australia to reach the World Cup quarter-finals.
 
@@ -68,7 +60,6 @@ Lionel Messi produces a moment of magic in his 1,000th career game as Argentina 
  - [https://www.bbc.co.uk/sport/av/football/63849058?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63849058?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 20:57:22+00:00
- - tags: None
 
 Watch highlights as goals from Lionel Messi and Julian Alvarez help Argentina reach the quarter-finals with victory against a spirited Australia side.
 
@@ -76,7 +67,6 @@ Watch highlights as goals from Lionel Messi and Julian Alvarez help Argentina re
  - [https://www.bbc.co.uk/sport/football/63771032?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63771032?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 20:52:20+00:00
- - tags: None
 
 Preview followed by live coverage of Sunday's FIFA World Cup game between Group D Winner and Group C Second Place.
 
@@ -84,7 +74,6 @@ Preview followed by live coverage of Sunday's FIFA World Cup game between Group 
  - [https://www.bbc.co.uk/sport/av/football/63848908?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63848908?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 19:48:07+00:00
- - tags: None
 
 Lionel Messi scores in his 1,000th game to give Argentina the lead against Australia in the World Cup round of 16.
 
@@ -92,7 +81,6 @@ Lionel Messi scores in his 1,000th game to give Argentina the lead against Austr
  - [https://www.bbc.co.uk/news/uk-wales-63848878?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-63848878?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 19:38:41+00:00
- - tags: None
 
 The Eurovision star played live for people in Cardiff Bay on Saturday.
 
@@ -100,7 +88,6 @@ The Eurovision star played live for people in Cardiff Bay on Saturday.
  - [https://www.bbc.co.uk/sport/football/63847951?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63847951?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 19:35:29+00:00
- - tags: None
 
 Gareth Southgate says England's tag as 'favourites' means nothing as the Three Lions prepare to face Senegal in the World Cup last-16 in Qatar.
 
@@ -108,7 +95,6 @@ Gareth Southgate says England's tag as 'favourites' means nothing as the Three L
  - [https://www.bbc.co.uk/sport/football/63848692?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63848692?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 19:19:52+00:00
- - tags: None
 
 Louis van Gaal is not to everyone's taste in the Netherlands but his side countered their critics to reach the World Cup quarter-finals.
 
@@ -116,7 +102,6 @@ Louis van Gaal is not to everyone's taste in the Netherlands but his side counte
  - [https://www.bbc.co.uk/news/world-africa-63822096?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-africa-63822096?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 19:17:52+00:00
- - tags: None
 
 Cyril Ramaphosa is accused of keeping large sums of cash on his farm then covering up its theft.
 
@@ -124,7 +109,6 @@ Cyril Ramaphosa is accused of keeping large sums of cash on his farm then coveri
  - [https://www.bbc.co.uk/news/world-europe-63848257?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63848257?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 17:31:02+00:00
- - tags: None
 
 The measure - due to come into force on Monday - intensifies pressure on Russia over the Ukraine invasion.
 
@@ -132,7 +116,6 @@ The measure - due to come into force on Monday - intensifies pressure on Russia 
  - [https://www.bbc.co.uk/sport/football/63845787?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63845787?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 17:25:51+00:00
- - tags: None
 
 BBC pundit Jermaine Jenas explains why Senegal have a winning mentality after enjoying two huge triumphs already this year.
 
@@ -140,7 +123,6 @@ BBC pundit Jermaine Jenas explains why Senegal have a winning mentality after en
  - [https://www.bbc.co.uk/sport/football/63765142?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63765142?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 17:11:39+00:00
- - tags: None
 
 Chelsea make light work of bottom side Leicester to maintain their impressive Women's Super League title defence at the King Power Stadium.
 
@@ -148,7 +130,6 @@ Chelsea make light work of bottom side Leicester to maintain their impressive Wo
  - [https://www.bbc.co.uk/news/uk-63846964?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63846964?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 17:01:40+00:00
- - tags: None
 
 As actress Kate Winslet says more can be done to protect children, is the Online Safety Bill enough, asks Laura Kuenssberg?
 
@@ -156,7 +137,6 @@ As actress Kate Winslet says more can be done to protect children, is the Online
  - [https://www.bbc.co.uk/sport/av/football/63811852?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63811852?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 16:53:43+00:00
- - tags: None
 
 Watch highlights as Netherlands beat the USA 3-1 to reach the quarter-finals at the World Cup.
 
@@ -164,7 +144,6 @@ Watch highlights as Netherlands beat the USA 3-1 to reach the quarter-finals at 
  - [https://www.bbc.co.uk/sport/football/63846935?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63846935?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 16:45:18+00:00
- - tags: None
 
 Messages of support for Brazil great Pele are sent from across the world while the three-time World Cup winner is being treated in hospital.
 
@@ -172,7 +151,6 @@ Messages of support for Brazil great Pele are sent from across the world while t
  - [https://www.bbc.co.uk/sport/av/football/63847878?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63847878?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 16:11:17+00:00
- - tags: None
 
 Watch analysis as Alex Scott and Micah Richards praise the Netherlands' play in build-up to their first goal against the USA.
 
@@ -180,7 +158,6 @@ Watch analysis as Alex Scott and Micah Richards praise the Netherlands' play in 
  - [https://www.bbc.co.uk/news/world-middle-east-63847173?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-middle-east-63847173?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 16:03:21+00:00
- - tags: None
 
 Elnaz Rekabi became a hero of the protest movement after competing abroad with her hair uncovered.
 
@@ -188,7 +165,6 @@ Elnaz Rekabi became a hero of the protest movement after competing abroad with h
  - [https://www.bbc.co.uk/sport/av/football/63847727?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63847727?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 15:57:42+00:00
- - tags: None
 
 Daley Blind finishes from inside the box to double the Netherlands' lead against the USA.
 
@@ -196,7 +172,6 @@ Daley Blind finishes from inside the box to double the Netherlands' lead against
  - [https://www.bbc.co.uk/sport/av/football/63847722?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63847722?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 15:28:19+00:00
- - tags: None
 
 Watch Memphis Depay score for the Netherlands after a brilliant 20-pass move against the USA.
 
@@ -204,7 +179,6 @@ Watch Memphis Depay score for the Netherlands after a brilliant 20-pass move aga
  - [https://www.bbc.co.uk/sport/cricket/63845864?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/63845864?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 15:17:39+00:00
- - tags: None
 
 England may have broken records with the bat, but it is their effort with the ball that could see them to victory in the first Test in Pakistan, writes Stephan Shemilt.
 
@@ -212,7 +186,6 @@ England may have broken records with the bat, but it is their effort with the ba
  - [https://www.bbc.co.uk/news/entertainment-arts-63832696?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63832696?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 15:02:52+00:00
- - tags: None
 
 The actress tells the BBC ministers should make firms enforce strict age limits on their platforms.
 
@@ -220,7 +193,6 @@ The actress tells the BBC ministers should make firms enforce strict age limits 
  - [https://www.bbc.co.uk/news/world-latin-america-63846157?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-latin-america-63846157?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 14:28:57+00:00
- - tags: None
 
 Four others were injured in the incident on board a cruise ship bound for Antarctica.
 
@@ -228,7 +200,6 @@ Four others were injured in the incident on board a cruise ship bound for Antarc
  - [https://www.bbc.co.uk/news/entertainment-arts-63846449?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63846449?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 14:06:49+00:00
- - tags: None
 
 The British Museum is said to have held secret talks with Greece about returning the sculptures.
 
@@ -236,7 +207,6 @@ The British Museum is said to have held secret talks with Greece about returning
  - [https://www.bbc.co.uk/sport/football/63844660?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63844660?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 13:10:22+00:00
- - tags: None
 
 Gabriel Jesus and Alex Telles are ruled out of the rest of the World Cup after picking up injuries in Brazil's 1-0 defeat by Cameroon on Friday.
 
@@ -244,7 +214,6 @@ Gabriel Jesus and Alex Telles are ruled out of the rest of the World Cup after p
  - [https://www.bbc.co.uk/news/uk-england-london-63846031?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-london-63846031?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 13:04:06+00:00
- - tags: None
 
 The deaths of Kearne Solanke and Charlie Bartolo, both 16, are being linked by detectives.
 
@@ -252,7 +221,6 @@ The deaths of Kearne Solanke and Charlie Bartolo, both 16, are being linked by d
  - [https://www.bbc.co.uk/news/uk-england-london-63846029?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-london-63846029?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 13:02:25+00:00
- - tags: None
 
 A businessman is arrested on suspicion of money laundering at his multi-million-pound London home.
 
@@ -260,7 +228,6 @@ A businessman is arrested on suspicion of money laundering at his multi-million-
  - [https://www.bbc.co.uk/news/world-europe-63846154?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63846154?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 12:50:30+00:00
- - tags: None
 
 Russia captured Mariupol earlier this year, and the images suggest it is consolidating its presence.
 
@@ -268,7 +235,6 @@ Russia captured Mariupol earlier this year, and the images suggest it is consoli
  - [https://www.bbc.co.uk/sport/cricket/63845194?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/63845194?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 12:09:02+00:00
- - tags: None
 
 England's determination and persistence is rewarded with crucial late wickets on the third day of the first Test against Pakistan.
 
@@ -276,7 +242,6 @@ England's determination and persistence is rewarded with crucial late wickets on
  - [https://www.bbc.co.uk/sport/football/63845769?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63845769?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 12:02:30+00:00
- - tags: None
 
 Didier Drogba on why Kylian Mbappe is the most complete striker at this World Cup, although he loves to watch Harry Kane.
 
@@ -284,7 +249,6 @@ Didier Drogba on why Kylian Mbappe is the most complete striker at this World Cu
  - [https://www.bbc.co.uk/news/uk-politics-63845838?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63845838?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 11:57:59+00:00
- - tags: None
 
 Mr Burns, who was fired over allegations he touched a man's thigh, will be readmitted to Tory party.
 
@@ -292,7 +256,6 @@ Mr Burns, who was fired over allegations he touched a man's thigh, will be readm
  - [https://www.bbc.co.uk/sport/football/63803248?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63803248?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 11:52:27+00:00
- - tags: None
 
 England are through to the last 16 of the World Cup but if they want to go further they must overcome a 'dangerous' Senegal side who are hoping to make Africa proud.
 
@@ -300,7 +263,6 @@ England are through to the last 16 of the World Cup but if they want to go furth
  - [https://www.bbc.co.uk/news/uk-england-kent-63845680?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-kent-63845680?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 11:21:02+00:00
- - tags: None
 
 Of 139 children taken in by Kent County Council this year, 39 are missing, figures show.
 
@@ -308,7 +270,6 @@ Of 139 children taken in by Kent County Council this year, 39 are missing, figur
  - [https://www.bbc.co.uk/news/health-63844880?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/health-63844880?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 10:47:19+00:00
- - tags: None
 
 Health officials have issued a rare alert after a rise in cases across the UK and the death of six children.
 
@@ -316,7 +277,6 @@ Health officials have issued a rare alert after a rise in cases across the UK an
  - [https://www.bbc.co.uk/sport/cricket/63845372?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/63845372?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 09:40:16+00:00
- - tags: None
 
 The Hundred is worth a "lot more" than £400m, according to England and Wales Cricket Board chair Richard Thompson.
 
@@ -324,7 +284,6 @@ The Hundred is worth a "lot more" than £400m, according to England and Wales Cr
  - [https://www.bbc.co.uk/news/entertainment-arts-63845328?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63845328?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 09:20:10+00:00
- - tags: None
 
 Fans in Manchester give their verdict on the opening night of the comedian's first tour in 12 years.
 
@@ -332,7 +291,6 @@ Fans in Manchester give their verdict on the opening night of the comedian's fir
  - [https://www.bbc.co.uk/sport/football/63842758?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63842758?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 09:03:04+00:00
- - tags: None
 
 England forward Phil Foden says his World Cup has been a "mixed bag" but believes he has a chance of starting against Senegal.
 
@@ -340,7 +298,6 @@ England forward Phil Foden says his World Cup has been a "mixed bag" but believe
  - [https://www.bbc.co.uk/news/uk-63843968?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63843968?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 06:58:45+00:00
- - tags: None
 
 Despite challenges, Prince William's visit to Boston ends on an optimistic note, says Daniela Relph.
 
@@ -348,7 +305,6 @@ Despite challenges, Prince William's visit to Boston ends on an optimistic note,
  - [https://www.bbc.co.uk/sport/boxing/63824114?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/boxing/63824114?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 06:26:27+00:00
- - tags: None
 
 Can WBC heavyweight champion Tyson Fury make short work of fellow Briton Derek Chisora? We have some predictions from the boxing world.
 
@@ -356,7 +312,6 @@ Can WBC heavyweight champion Tyson Fury make short work of fellow Briton Derek C
  - [https://www.bbc.co.uk/news/world-europe-63843893?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63843893?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 03:57:22+00:00
- - tags: None
 
 The cap, which stops countries paying more than $60 a barrel, is due to come into force on Monday.
 
@@ -364,7 +319,6 @@ The cap, which stops countries paying more than $60 a barrel, is due to come int
  - [https://www.bbc.co.uk/news/uk-63842826?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63842826?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 02:39:41+00:00
- - tags: None
 
 Ex-health secretary's diary recalls conversations in government before the UK went into lockdown.
 
@@ -372,7 +326,6 @@ Ex-health secretary's diary recalls conversations in government before the UK we
  - [https://www.bbc.co.uk/news/world-europe-63843890?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63843890?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 02:16:35+00:00
- - tags: None
 
 Police arrested several people who cut the artwork from the wall of a war-torn building in Hostomel.
 
@@ -380,7 +333,6 @@ Police arrested several people who cut the artwork from the wall of a war-torn b
  - [https://www.bbc.co.uk/news/uk-politics-63834307?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63834307?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 01:40:40+00:00
- - tags: None
 
 The short-lived prime minister was in a hurry to get things done, her former speechwriter tells the BBC.
 
@@ -388,7 +340,6 @@ The short-lived prime minister was in a hurry to get things done, her former spe
  - [https://www.bbc.co.uk/news/technology-63825894?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63825894?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 01:36:51+00:00
- - tags: None
 
 In December 1992, the first SMS text message was sent to a mobile phone by an engineer in Berkshire.
 
@@ -396,7 +347,6 @@ In December 1992, the first SMS text message was sent to a mobile phone by an en
  - [https://www.bbc.co.uk/news/uk-politics-63743620?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63743620?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 01:14:31+00:00
- - tags: None
 
 The UK is failing on its promise to help the most vulnerable Afghans come to the UK, MPs and charities say.
 
@@ -404,7 +354,6 @@ The UK is failing on its promise to help the most vulnerable Afghans come to the
  - [https://www.bbc.co.uk/news/uk-62638644?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62638644?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 01:10:48+00:00
- - tags: None
 
 Disabled people face a severe housing shortage as English cities fail to plan for accessibility.
 
@@ -412,7 +361,6 @@ Disabled people face a severe housing shortage as English cities fail to plan fo
  - [https://www.bbc.co.uk/news/stories-63827708?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/stories-63827708?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 01:05:30+00:00
- - tags: None
 
 A special body suit for people with cerebral palsy, multiple sclerosis and strokes has had some remarkable results.
 
@@ -420,7 +368,6 @@ A special body suit for people with cerebral palsy, multiple sclerosis and strok
  - [https://www.bbc.co.uk/news/world-middle-east-63834683?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-middle-east-63834683?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 00:58:14+00:00
- - tags: None
 
 Four Palestinians were shot dead by Israeli troops during confrontations on one day this week.
 
@@ -428,7 +375,6 @@ Four Palestinians were shot dead by Israeli troops during confrontations on one 
  - [https://www.bbc.co.uk/news/uk-63782432?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63782432?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 00:49:06+00:00
- - tags: None
 
 Composer Sir James MacMillan was asked in 2011 to write new music for the funeral of Queen Elizabeth.
 
@@ -436,6 +382,5 @@ Composer Sir James MacMillan was asked in 2011 to write new music for the funera
  - [https://www.bbc.co.uk/news/blogs-the-papers-63842809?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-63842809?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-03 00:19:48+00:00
- - tags: None
 
 Saturday's front pages focus on the rise of the bacteria infection and the first extracts from Matt Hancock's diaries.

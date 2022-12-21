@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Discord leans on linked accounts to verify who you are and what you can access
  - [https://www.theverge.com/2022/12/12/23506157/discord-linked-roles-connections-server-administration](https://www.theverge.com/2022/12/12/23506157/discord-linked-roles-connections-server-administration)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-12 23:33:37+00:00
- - tags: None
 
 <figure>
       <img alt="Screenshot showing a Linked Roles screen, displaying a “Tweeter” role that requires a connected Twitter account, an “eBay Seller” role that requires a connected eBay account, and so on." src="https://cdn.vox-cdn.com/thumbor/04C2hluuCWCubQ4p9XZNdLAC39U=/0x32:1440x992/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71742297/Modal___Select_Linked_Role.0.png" />
@@ -21,7 +20,6 @@
  - [https://www.theverge.com/2022/12/12/23505779/comcast-multi-gigabit-10g-docsis-40-cable-fiber-isp](https://www.theverge.com/2022/12/12/23505779/comcast-multi-gigabit-10g-docsis-40-cable-fiber-isp)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-12 23:29:40+00:00
- - tags: None
 
 <figure>
       <img alt="The Comcast logo on a black background." src="https://cdn.vox-cdn.com/thumbor/nDR_smBJJDr67qvQBli7gKU6xZs=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71742275/acastro_180525_1777_comcast_0002.0.jpg" />
@@ -39,7 +37,6 @@
  - [https://www.theverge.com/2022/12/12/23506335/twitter-blue-verified-checkmarks-return-impersonation](https://www.theverge.com/2022/12/12/23506335/twitter-blue-verified-checkmarks-return-impersonation)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-12 22:53:15+00:00
- - tags: None
 
 <figure>
       <img alt="The Twitter bird logo in black over a white and blue background" src="https://cdn.vox-cdn.com/thumbor/X7CxujJZwb834LkM-DCicCDkqnI=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71742132/acastro_STK050_03.0.jpg" />
@@ -61,7 +58,6 @@
  - [https://www.theverge.com/22323257/sony-playstation-5-ps5-in-stock-digital-disk-edition-where-buy](https://www.theverge.com/22323257/sony-playstation-5-ps5-in-stock-digital-disk-edition-where-buy)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-12 22:42:09+00:00
- - tags: None
 
 <figure>
       <img alt="A stock photo of the disc-based PlayStation 5" src="https://cdn.vox-cdn.com/thumbor/uthPJ2wO6AnZwrPyDe9VAxKhxkM=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/68957865/vpavic_4278_20201030_0345.5.jpg" />
@@ -78,7 +74,6 @@
  - [https://www.theverge.com/2022/12/12/23505822/apple-iphone-sales-retail-carriers-cirp-report](https://www.theverge.com/2022/12/12/23505822/apple-iphone-sales-retail-carriers-cirp-report)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-12 22:28:52+00:00
- - tags: None
 
 <figure>
       <img alt="A person holding the iPhone 14" src="https://cdn.vox-cdn.com/thumbor/maTnsh5gWGynuIoJmoYwS3og_GA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71742080/226270_iPHONE_14_PHO_akrales_0480.0.jpg" />
@@ -95,7 +90,6 @@
  - [https://www.theverge.com/23500290/best-deals-under-25-gift-ideas-deal-sale](https://www.theverge.com/23500290/best-deals-under-25-gift-ideas-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-12 21:55:00+00:00
- - tags: None
 
 <figure>
       <img alt="The colorful blue and red Skullcandy Jib True Wireless earbuds, pictured on a table in their blue and yellow charging case." src="https://cdn.vox-cdn.com/thumbor/wOr4XsulG_jP5QTqMIg3YFTwakU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71741961/skullcandy.0.jpg" />
@@ -112,7 +106,6 @@
  - [https://www.theverge.com/2022/12/12/23505871/dril-twitter-archive-books-editions](https://www.theverge.com/2022/12/12/23505871/dril-twitter-archive-books-editions)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-12 20:08:37+00:00
- - tags: None
 
 <figure>
       <img alt="Image of the four Dril books sitting on a toilet tank." src="https://cdn.vox-cdn.com/thumbor/rd4DccGqOlOAC0yljt1rA71gEqc=/0x7:1220x820/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71741473/Fjy4cj1UAAEzAvy.0.jpeg" />
@@ -129,7 +122,6 @@
  - [https://www.theverge.com/2022/12/12/23505699/strange-world-disney-plus-december](https://www.theverge.com/2022/12/12/23505699/strange-world-disney-plus-december)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-12 19:21:39+00:00
- - tags: None
 
 <figure>
       <img alt="A Black woman sitting behind the steering wheel of a space ship in its cockpit. She is flanked to her left by a white man gesturing forwards, and a mixed-race teen smiling excitedly." src="https://cdn.vox-cdn.com/thumbor/aGp4AELysQGv45aRm0eo4C-fiek=/357x0:1563x804/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71741201/STRANGE_WORLD_ONLINE_USE_460.0_003.00_0214.0.jpg" />
@@ -146,7 +138,6 @@
  - [https://www.theverge.com/2022/12/12/23505611/lyft-ev-driver-weekly-bonus-terms-conditions](https://www.theverge.com/2022/12/12/23505611/lyft-ev-driver-weekly-bonus-terms-conditions)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-12 18:17:52+00:00
- - tags: None
 
 <figure>
       <img alt="Lyft Vehicles Ahead Of Earnings Figures" src="https://cdn.vox-cdn.com/thumbor/rYGnVTVMTaThMO_HrOAjT2IRER4=/1x0:4000x2666/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71740894/1238269484.0.jpg" />
@@ -164,7 +155,6 @@
  - [https://www.theverge.com/2022/12/12/23505427/rivian-mercedes-benz-electric-van-ev-plans-hold-paused](https://www.theverge.com/2022/12/12/23505427/rivian-mercedes-benz-electric-van-ev-plans-hold-paused)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-12 18:13:56+00:00
- - tags: None
 
 <figure>
       <img alt="Chrome Mercedes-Benz logo next to a white Rivian logo in front of a black backdrop" src="https://cdn.vox-cdn.com/thumbor/GZG4GK3PsVLUlpbXVJ5Gb5Toh0Y=/320x0:3776x2304/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71740881/FcIjSNfXEAEa5tg.0.jpeg" />
@@ -182,7 +172,6 @@
  - [https://www.theverge.com/23505359/livestreaming-popular-big-business-vergecast](https://www.theverge.com/23505359/livestreaming-popular-big-business-vergecast)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-12 18:03:28+00:00
- - tags: None
 
 <figure>
       <img alt="Two explorers check a map for treasure in the world of livestreaming" src="https://cdn.vox-cdn.com/thumbor/oCxEN1iuuDfqlioHsr_F25v4K2g=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71740852/226411_J_Sitter_next_frontier_site.0.jpg" />
@@ -199,7 +188,6 @@
  - [https://www.theverge.com/2022/12/12/23505694/how-did-this-get-made-renewed-stitcher-siriusxm-office-ladies](https://www.theverge.com/2022/12/12/23505694/how-did-this-get-made-renewed-stitcher-siriusxm-office-ladies)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-12 18:00:48+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/BAH8br6Tm78vHzy3uMaOLDO7I5A=/129x0:1071x628/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71740842/EAR_BANNER_HowDidThisGetMade_A_Facebook_1200x628.0.jpg" />
@@ -216,7 +204,6 @@
  - [https://www.theverge.com/23490503/microsoft-surface-book-laptop-detachable-convertible](https://www.theverge.com/23490503/microsoft-surface-book-laptop-detachable-convertible)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-12 17:57:50+00:00
- - tags: None
 
 <figure>
       <img alt="The Surface Book 3’s screen disconnected from the keyboard." src="https://cdn.vox-cdn.com/thumbor/CT2UUy_wp4womRjPlSkbGgmUuvc=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71740814/dbohn_200516_4026_0009.0.jpg" />
@@ -233,7 +220,6 @@
  - [https://www.theverge.com/2022/12/12/23505545/the-witcher-3-next-gen-update-ps5-xbox-pc-hands-on](https://www.theverge.com/2022/12/12/23505545/the-witcher-3-next-gen-update-ps5-xbox-pc-hands-on)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-12 17:55:20+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot of The Witcher 3 running on the PS5." src="https://cdn.vox-cdn.com/thumbor/66IMmI0eKrXW7InYQJ39g2CBKEo=/600x0:3840x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71740800/FjyvHuNXgAMzQ96.0.jpg" />
@@ -250,7 +236,6 @@
  - [https://www.theverge.com/2022/12/12/23505423/apple-airpods-pro-earbuds-oneplus-10-beats-fit-studio-deal-sale](https://www.theverge.com/2022/12/12/23505423/apple-airpods-pro-earbuds-oneplus-10-beats-fit-studio-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-12 17:08:25+00:00
- - tags: None
 
 <figure>
       <img alt="The second-gen AirPods Pro resting on a reflective surface in front of their case." src="https://cdn.vox-cdn.com/thumbor/sx-ROHAxycmZjL9E7oXg1sxXuJQ=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71740580/airpodsmirror.0.jpg" />
@@ -267,7 +252,6 @@
  - [https://www.theverge.com/2022/12/12/23505416/nuclear-fusion-scientific-breakthrough-how-to-watch-announcement-biden](https://www.theverge.com/2022/12/12/23505416/nuclear-fusion-scientific-breakthrough-how-to-watch-announcement-biden)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-12 17:00:53+00:00
- - tags: None
 
 <figure>
       <img alt="View of Inactivated Nova Laser, metal mechanical equipment." src="https://cdn.vox-cdn.com/thumbor/3FYyVK_czvz_mGJ2I76jTeKnNSU=/0x18:3818x2563/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71740538/635239987.0.jpg" />
@@ -285,7 +269,6 @@
  - [https://www.theverge.com/2022/12/12/23502483/mrbeast-fortnite-skin-1-million-survival-challenge-icon](https://www.theverge.com/2022/12/12/23502483/mrbeast-fortnite-skin-1-million-survival-challenge-icon)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-12 17:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="An illustration of MrBeast in Fortnite." src="https://cdn.vox-cdn.com/thumbor/JF5Of4kcpp68n7fjkNlDkWiXGvE=/0x110:1455x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71740531/MrBeast_Key_Art__2_.0.jpg" />
@@ -302,7 +285,6 @@
  - [https://www.theverge.com/23501694/ai-art-chatgpt-dalle-image-text-generation-boring](https://www.theverge.com/23501694/ai-art-chatgpt-dalle-image-text-generation-boring)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-12 16:31:17+00:00
- - tags: None
 
 <figure>
       <img alt="A sleeping man with a thought bubble that reads DREAAM" src="https://cdn.vox-cdn.com/thumbor/UXvt1QYd0PEP5K9Zpl7deLaRnLo=/0x341:1024x1024/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71740379/DALL_E_2022_12_12_10.59.39___A_dream_that_is_fun_to_experience_but_boring_to_tell_other_people_about.0.png" />
@@ -319,7 +301,6 @@
  - [https://www.theverge.com/2022/12/12/23505353/meta-connectivity-shutdown-facebook-internet](https://www.theverge.com/2022/12/12/23505353/meta-connectivity-shutdown-facebook-internet)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-12 16:21:51+00:00
- - tags: None
 
 <figure>
       <img alt="An image showing the Facebook logo surrounded by blue circles" src="https://cdn.vox-cdn.com/thumbor/QdMm7e8MpGvO_S7RydAiwPuFD8U=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71740342/STK040_VRG_Illo_N_Barclay_1_facebook.0.jpg" />
@@ -336,7 +317,6 @@
  - [https://www.theverge.com/2022/12/12/23505354/elon-musk-dave-chappelle-booed-san-francisco-twitter](https://www.theverge.com/2022/12/12/23505354/elon-musk-dave-chappelle-booed-san-francisco-twitter)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-12 16:18:50+00:00
- - tags: None
 
 <figure>
       <img alt="Image of Elon Musk with red flourishes in the background." src="https://cdn.vox-cdn.com/thumbor/VvrozO0osXyN7FQMAi9EWPth3J0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71740330/VRG_Illo_STK022_K_Radtke_Musk_Bolts.0.jpg" />
@@ -355,7 +335,6 @@
  - [https://www.theverge.com/23504925/dough-spectrum-oled-es07e2d-gaming-monitor-lg-27-240hz-price-release-date](https://www.theverge.com/23504925/dough-spectrum-oled-es07e2d-gaming-monitor-lg-27-240hz-price-release-date)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-12 16:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="The Dough Spectrum OLED" src="https://cdn.vox-cdn.com/thumbor/22hFQcVCCr0-Xc9A-krf2lfEe0Q=/0x0:2800x1867/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71740190/dough_oled.0.jpg" />
@@ -374,7 +353,6 @@
  - [https://www.theverge.com/2022/12/12/23505300/ftx-hearings-congress-live-stream-how-to-start-time-sam-bankman-fried](https://www.theverge.com/2022/12/12/23505300/ftx-hearings-congress-live-stream-how-to-start-time-sam-bankman-fried)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-12 14:42:59+00:00
- - tags: None
 
 <figure>
       <img alt="House Financial Services Committee Examines Digital Assets" src="https://cdn.vox-cdn.com/thumbor/UxWHePYmZ9UmGUry1XfTdE9kivc=/0x2:8192x5463/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71739785/1357912811.0.jpg" />
@@ -398,7 +376,6 @@
  - [https://www.theverge.com/2022/12/12/23505097/matter-eve-firmware-update-available-now](https://www.theverge.com/2022/12/12/23505097/matter-eve-firmware-update-available-now)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-12 14:30:00+00:00
- - tags: None
 
 <figure>
       <img alt="A white motion sensor on a shelf in a kitchen." src="https://cdn.vox-cdn.com/thumbor/fjF71e9fii9JWcTf8lFbS_y7pdU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71739733/jtuohy_220801_226099_0002.0.jpg" />
@@ -417,7 +394,6 @@
  - [https://www.theverge.com/23499697/amd-radeon-rx-7900-xt-xtx-review-benchmarks-price](https://www.theverge.com/23499697/amd-radeon-rx-7900-xt-xtx-review-benchmarks-price)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-12 14:00:00+00:00
- - tags: None
 
 <p>AMD’s top RDNA 3 GPU manages to beat the RTX 4080 in many games at a $200 lower price. But ray-tracing performance is far behind Nvidia.</p>
   <p>
@@ -428,7 +404,6 @@
  - [https://www.theverge.com/2022/12/12/23505126/xiaomi-13-pro-price-release-date-features-1-inch-type-camera-120-wired-charging](https://www.theverge.com/2022/12/12/23505126/xiaomi-13-pro-price-release-date-features-1-inch-type-camera-120-wired-charging)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-12 12:41:27+00:00
- - tags: None
 
 <figure>
       <img alt="Xiaomi 13 Pro from the rear." src="https://cdn.vox-cdn.com/thumbor/uGMu_VOytiLfKogZoXfLgO-s05U=/0x0:2001x1334/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71739368/5911.0.jpg" />
@@ -445,7 +420,6 @@
  - [https://www.theverge.com/2022/12/12/23505078/xbox-phil-spencer-sony-growth-comments-activision-blizzard](https://www.theverge.com/2022/12/12/23505078/xbox-phil-spencer-sony-growth-comments-activision-blizzard)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-12 10:18:04+00:00
- - tags: None
 
 <figure>
       <img alt="Phil Spencer smiles at the camera." src="https://cdn.vox-cdn.com/thumbor/j8UNxxIwtf75ZdhJY5DOMCBDjqk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71739096/226407_Decoder_Phil_Spencer_CEO_Microsoft_Gaming_WJoel.0.jpg" />
@@ -462,7 +436,6 @@
  - [https://www.theverge.com/2022/12/12/23505082/whatsapp-view-once-text-messages-in-development-feature-unreleased](https://www.theverge.com/2022/12/12/23505082/whatsapp-view-once-text-messages-in-development-feature-unreleased)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-12 10:16:27+00:00
- - tags: None
 
 <figure>
       <img alt="A photo of an iPhone running WhatsApp." src="https://cdn.vox-cdn.com/thumbor/Bm85kSrqsTXGuoTJeTxDmX-cjcQ=/6x0:1086x720/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71739092/verge-whatsapp-notification-2040pxl.0.0.jpg" />
@@ -479,7 +452,6 @@
  - [https://www.theverge.com/2022/12/12/23505063/december-12-2022-tech-news-liveblog](https://www.theverge.com/2022/12/12/23505063/december-12-2022-tech-news-liveblog)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-12 09:10:37+00:00
- - tags: None
 
 <figure>
       <img alt="Elon Musk, with a background of Twitter badges" src="https://cdn.vox-cdn.com/thumbor/_1obVdTjtW7dD8GkzUbtD3WCB6g=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71739048/VRG_Illo_STK022_K_Radtke_Musk_Verified.0.jpg" />
@@ -495,7 +467,6 @@
  - [https://www.theverge.com/23500170/the-witcher-blood-origin-review-netflix-prequel](https://www.theverge.com/23500170/the-witcher-blood-origin-review-netflix-prequel)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-12 00:01:00+00:00
- - tags: None
 
 <figure>
       <img alt="A photo of Michelle Yeoh in The Witcher: Blood Origin." src="https://cdn.vox-cdn.com/thumbor/GF1ESJRZjV8N41BVGe7YcNlhWvc=/0x0:7853x5235/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71738228/LARK_106_Unit_01447_copy_RT.0.jpg" />

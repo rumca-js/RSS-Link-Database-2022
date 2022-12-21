@@ -1,4 +1,4 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/
+# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
 
 ## Children Should Be ‘Really Careful’ on TikTok, App Is ‘Genuinely Troubling’: CIA Director
  - [https://www.theepochtimes.com/children-should-be-really-careful-on-tiktok-app-is-genuinely-troubling-cia-director_4930252.html](https://www.theepochtimes.com/children-should-be-really-careful-on-tiktok-app-is-genuinely-troubling-cia-director_4930252.html)

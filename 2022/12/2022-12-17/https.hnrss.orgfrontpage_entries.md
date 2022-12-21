@@ -1,4 +1,4 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage
+# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
 
 ## Does It Inline?
  - [https://bolinlang.com/does-it-inline](https://bolinlang.com/does-it-inline)
@@ -575,6 +575,16 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=34024759">https://news.ycombinator.com/item?id=34024759</a></p>
 <p>Points: 10</p>
 <p># Comments: 1</p>
+
+## A man who mastered minor writing
+ - [https://www.newyorker.com/books/under-review/the-man-who-mastered-minor-writing](https://www.newyorker.com/books/under-review/the-man-who-mastered-minor-writing)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-17 03:18:37+00:00
+
+<p>Article URL: <a href="https://www.newyorker.com/books/under-review/the-man-who-mastered-minor-writing">https://www.newyorker.com/books/under-review/the-man-who-mastered-minor-writing</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34024130">https://news.ycombinator.com/item?id=34024130</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
 ## Open source USB C camera with C mount lens, MIPI Sensor, Lattice FPGA, USB 3.0
  - [https://www.circuitvalley.com/2022/06/pensource-usb-c-industrial-camera-c-mount-fpga-imx-mipi-usb-3-crosslinknx.html](https://www.circuitvalley.com/2022/06/pensource-usb-c-industrial-camera-c-mount-fpga-imx-mipi-usb-3-crosslinknx.html)

@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Apple finally adds encryption to iCloud backups
  - [https://www.computerworld.com/article/3682649/apple-finally-adds-encryption-to-icloud-backups.html#tk.rss_all](https://www.computerworld.com/article/3682649/apple-finally-adds-encryption-to-icloud-backups.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-07 21:42:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -15,7 +14,6 @@
  - [https://www.computerworld.com/article/3682144/apple-accelerates-plans-to-move-more-manufacturing-out-of-china.html#tk.rss_all](https://www.computerworld.com/article/3682144/apple-accelerates-plans-to-move-more-manufacturing-out-of-china.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-07 18:56:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -25,7 +23,6 @@
  - [https://www.computerworld.com/article/3682001/apple-iphones-and-china-short-term-problems-need-a-long-term-fix.html#tk.rss_all](https://www.computerworld.com/article/3682001/apple-iphones-and-china-short-term-problems-need-a-long-term-fix.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-07 18:01:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -36,7 +33,6 @@
  - [https://www.computerworld.com/article/3682588/us-congress-rolls-back-proposal-to-restrict-use-of-chinese-chips.html#tk.rss_all](https://www.computerworld.com/article/3682588/us-congress-rolls-back-proposal-to-restrict-use-of-chinese-chips.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-07 17:01:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -46,7 +42,6 @@
  - [https://www.computerworld.com/article/3682131/a-compliance-fight-in-germany-could-hurt-microsoft-customers.html#tk.rss_all](https://www.computerworld.com/article/3682131/a-compliance-fight-in-germany-could-hurt-microsoft-customers.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-07 12:32:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -56,7 +51,6 @@
  - [https://www.computerworld.com/article/3682133/chromebook-productivity-feature.html#tk.rss_all](https://www.computerworld.com/article/3682133/chromebook-productivity-feature.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-07 11:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -66,7 +60,6 @@
  - [https://www.computerworld.com/article/2524405/buyers-guide-to-business-laptops.html#tk.rss_all](https://www.computerworld.com/article/2524405/buyers-guide-to-business-laptops.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-07 11:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

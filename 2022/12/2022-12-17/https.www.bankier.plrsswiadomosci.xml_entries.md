@@ -1,4 +1,39 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml
+# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+
+## Media: Putin ma większy problem z gazem, niż chce oficjalnie przyznać
+ - [https://www.bankier.pl/wiadomosc/Media-Putin-ma-wiekszy-problem-z-gazem-niz-chce-oficjalnie-przyznac-8458731.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Media-Putin-ma-wiekszy-problem-z-gazem-niz-chce-oficjalnie-przyznac-8458731.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-12-17 20:30:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/4/6/7cb5e542bf8fee-948-568-0-62-1773-1063.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Putin ma większy problem z gazem, niż chce oficjalnie przyznać - ocenia dziennik „De Standaard”. Planowana "gazowa ekspansja” na Wschód stoi pod znakiem zapytania, a utrata europejskich miliardów euro pozostawi dziurę w  budżecie Rosji do 2030 r. - wskazuje belgijska gazeta.</p>
+
+## Mołdawia rezygnuje z gazu kupowanego od Gazpromu
+ - [https://www.bankier.pl/wiadomosc/Moldawia-rezygnuje-z-gazu-kupowanego-od-Gazpromu-8458721.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Moldawia-rezygnuje-z-gazu-kupowanego-od-Gazpromu-8458721.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-12-17 19:10:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/0/7/45e6c5b9cbf585-948-568-0-0-1773-1063.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Władze Mołdawii ogłosiły w sobotę, że po raz pierwszy w ponad 30-letniej historii tego kraju sprowadzą do kraju gaz, który nie pochodzi od rosyjskiego koncernu Gazprom. Dodały, że nie będą już korzystać z usług tej powiązanej z Kremlem spółki.</p>
+
+## Pierwszy terminal LNG w Niemczech oficjalnie uruchomiony
+ - [https://www.bankier.pl/wiadomosc/Pierwszy-terminal-LNG-w-Niemczech-oficjalnie-uruchomiony-8458711.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Pierwszy-terminal-LNG-w-Niemczech-oficjalnie-uruchomiony-8458711.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-12-17 18:18:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/0/a/9a7428b02562a4-948-568-112-239-2887-1732.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Kanclerz Niemiec Olaf Scholz zainaugurował w sobotę w Wilhelmshaven pracę pierwszego w Niemczech terminalu skroplonego gazu ziemnego (LNG). Dzięki temu i innym terminalom LNG zaopatrzenie energetyczne Niemiec stanie się "niezależne od rurociągów z Rosji" - oświadczył Scholz, którego cytuje niemiecka ARD.</p>
+
+## Premier: Spór z KE musi zostać zakończony. Prawdziwy konflikt rozgrywa się gdzie indziej
+ - [https://www.bankier.pl/wiadomosc/Premier-Spor-z-KE-musi-zostac-zakonczony-Prawdziwy-konflikt-rozgrywa-sie-gdzie-indziej-8458710.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Premier-Spor-z-KE-musi-zostac-zakonczony-Prawdziwy-konflikt-rozgrywa-sie-gdzie-indziej-8458710.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-12-17 18:12:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/3/a/83c13e08c1e080-948-568-0-160-2920-1751.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Spór z Komisją Europejską musi zostać zakończony, bo prawdziwy spór rozgrywa się dziś na wschód od Polski; środki z UE pośrednio przysłużą się wzmocnieniu polskiej obronności, polskiej armii, naszego wspólnego bezpieczeństwa - podkreślił w sobotę premier Mateusz Morawiecki.</p>
+
+## Enea prognozuje stratę i chce złożyć do URE wniosek o zmianę wysokości taryfy
+ - [https://www.bankier.pl/wiadomosc/Enea-szacuje-strate-z-tytulu-realizacji-umow-z-odbiorcami-z-grup-taryfowych-G-na-400-mln-zl-zlozy-wniosek-o-zmiane-taryfy-8458705.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Enea-szacuje-strate-z-tytulu-realizacji-umow-z-odbiorcami-z-grup-taryfowych-G-na-400-mln-zl-zlozy-wniosek-o-zmiane-taryfy-8458705.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-12-17 17:46:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/7/2/33be7fa2284af7-945-567-45-562-3093-1856.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Enea dokonała oceny wpływu zatwierdzonej przez prezesa URE taryfy dla energii elektrycznej i zidentyfikowała w segmencie obrotu potencjalną stratę z tytułu realizacji umów z odbiorcami z grup taryfowych G w 2023 r., którą szacuje na ok. 400 mln zł. Może to skutkować zawiązaniem rezerwy - podała spółka w komunikacie. Enea zamierza złożyć wniosek o zmianę wysokości taryfy.</p>
 
 ## Holandia musi importować gaz, choć posiada największe złoże w Europie
  - [https://www.bankier.pl/wiadomosc/Holandia-musi-importowac-gaz-choc-posiada-najwieksze-zloze-w-Europie-8458673.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Holandia-musi-importowac-gaz-choc-posiada-najwieksze-zloze-w-Europie-8458673.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -27,6 +62,13 @@
  - date published: 2022-12-17 14:04:00+00:00
 
 <p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/c/8/2ef0e73f33b8ff-948-568-0-62-1662-997.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Brytyjski premier Rishi Sunak poprosił o dokonanie "audytu" postępów w wojnie na Ukrainie i efektów brytyjskiego wkładu w nią, co wzbudziło obawy, że może przyjąć bardziej zachowawcze podejście - podała, powołując się na źródła rządowe, stacja BBC.</p>
+
+## Zysk energetyczny z fuzji jądrowej to przełom, ale i początek drogi
+ - [https://www.bankier.pl/wiadomosc/Zysk-energetyczny-z-fuzji-jadrowej-to-przelom-ale-i-poczatek-drogi-8458541.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Zysk-energetyczny-z-fuzji-jadrowej-to-przelom-ale-i-poczatek-drogi-8458541.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-12-17 14:00:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/6/3/033572178b673d-948-568-150-45-2850-1709.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Zysk energetyczny ogłoszony po amerykańskim eksperymencie nad fuzją jądrową to dopiero początek drogi. Ewentualne elektrownie będą mogły komercyjnie działać dopiero za kilka dekad - twierdzi Dariusz Aksamit, fizyk z Wydziału Fizyki Politechniki Warszawskiej i popularyzator nauki.</p>
 
 ## Tauron: większość klientów zaoszczędzi w przyszłym roku około 2 tys. zł
  - [https://www.bankier.pl/wiadomosc/Tauron-wiekszosc-klientow-zaoszczedzi-w-przyszlym-roku-okolo-2-tys-zl-8458661.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Tauron-wiekszosc-klientow-zaoszczedzi-w-przyszlym-roku-okolo-2-tys-zl-8458661.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

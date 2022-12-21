@@ -1,4 +1,18 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
+
+## Whoa Scoob, Shaggy's gonna be like, the bad guy in a Five Nights at Freddy's movie
+ - [https://www.pcgamer.com/whoa-scoob-shaggys-gonna-be-like-the-bad-guy-in-a-five-nights-at-freddys-movie](https://www.pcgamer.com/whoa-scoob-shaggys-gonna-be-like-the-bad-guy-in-a-five-nights-at-freddys-movie)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2022-12-18 23:54:14+00:00
+
+Whenever someone cuts Mathew Lillard a check, an angel gets its wings.
+
+## Collectible tactics game Duelyst is back, and free as ever, in Duelyst 2
+ - [https://www.pcgamer.com/collectible-tactics-game-duelyst-is-back-and-free-as-ever-in-duelyst-2](https://www.pcgamer.com/collectible-tactics-game-duelyst-is-back-and-free-as-ever-in-duelyst-2)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2022-12-18 23:39:19+00:00
+
+Gone since 2017, the uniquely tactical card-grid fusion is back.
 
 ## Make some nice outdoor spaces in this digital toy about gardening
  - [https://www.pcgamer.com/make-some-nice-outdoor-spaces-in-this-digital-toy-about-gardening](https://www.pcgamer.com/make-some-nice-outdoor-spaces-in-this-digital-toy-about-gardening)

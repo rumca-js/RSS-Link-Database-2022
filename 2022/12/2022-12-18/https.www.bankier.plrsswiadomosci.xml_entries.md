@@ -1,4 +1,18 @@
-# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml
+# Source Bankier, Source URL:https://www.bankier.pl/rss/wiadomosci.xml, Source language: pl-PL
+
+## Kissinger chce negocjacji w sprawie pokoju na Ukrainie, Kijów odrzuca jego propozycję
+ - [https://www.bankier.pl/wiadomosc/Kissinger-chce-negocjacji-w-sprawie-pokoju-na-Ukrainie-Kijow-odrzuca-jego-propozycje-8458910.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Kissinger-chce-negocjacji-w-sprawie-pokoju-na-Ukrainie-Kijow-odrzuca-jego-propozycje-8458910.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-12-18 20:13:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/7/5/17ade3c1306182-945-560-0-0-1499-899.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Weteran amerykańskiej dyplomacji Henry Kissinger ocenił, że zbliża się czas na wynegocjowanie pokoju na Ukrainie, aby zredukować ryzyko kolejnej wojny światowej. Władze w Kijowie odrzuciły jego sugestie, określając je jako "obłaskawianie agresora" i zadeklarowały, że nie może być mowy o porozumieniu obejmującym rezygnację z okupowanych przez Rosję terytoriów.</p>
+
+## Belgia podniesie podatki i wiek emerytalny? "To nigdy nie przejdzie"
+ - [https://www.bankier.pl/wiadomosc/Belgia-podniesie-podatki-i-wiek-emerytalny-To-nigdy-nie-przejdzie-8458903.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Belgia-podniesie-podatki-i-wiek-emerytalny-To-nigdy-nie-przejdzie-8458903.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-12-18 19:07:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/b/7/2068afdc54681b-948-568-0-91-1672-1003.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Wyższe podatki, praca przez co najmniej 30 lat i koniec emerytalnych przywilejów urzędniczych, to ostatnie propozycje premiera Aleksandra De Croo, które przedstawił członkom swojego gabinetu. Jak relacjonują media współrządzący socjaliści nie zgadzają się na wdrożenie pomysłów premiera i mówią: to nigdy nie przejdzie.</p>
 
 ## FIFA nie wyemitowała przemówienia Zełenskiego. Szef ukraińskiego MSZ: po raz kolejny pokazali hipokryzję
  - [https://www.bankier.pl/wiadomosc/FIFA-nie-wyemitowala-przemowienia-Zelenskiego-Szef-ukrainskiego-MSZ-po-raz-kolejny-pokazali-hipokryzje-8458888.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/FIFA-nie-wyemitowala-przemowienia-Zelenskiego-Szef-ukrainskiego-MSZ-po-raz-kolejny-pokazali-hipokryzje-8458888.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

@@ -1,10 +1,9 @@
-# Source ABC News, Source URL:http://feeds.abcnews.com/abcnews/topstories
+# Source ABC News, Source URL:http://feeds.abcnews.com/abcnews/topstories, Source language: en-US
 
 ## COVID hospitalizations at least 3 times higher among seniors than other age groups
  - [https://abcnews.go.com/Health/covid-hospitalizations-3-times-higher-seniors-age-groups/story?id=95066360](https://abcnews.go.com/Health/covid-hospitalizations-3-times-higher-seniors-age-groups/story?id=95066360)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-12 22:41:00+00:00
- - tags: None
 
 New CDC data shows COVID-19 hospitalizations among Americans aged 70 and older are at least three times higher than among other age groups.
 
@@ -12,7 +11,6 @@ New CDC data shows COVID-19 hospitalizations among Americans aged 70 and older a
  - [https://abcnews.go.com/GMA/Culture/jay-leno-opens-accident-accident/story?id=95098723](https://abcnews.go.com/GMA/Culture/jay-leno-opens-accident-accident/story?id=95098723)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-12 22:32:15+00:00
- - tags: None
 
 Jay Leno is opening up about the accident he had in his home garage last month.
 
@@ -20,7 +18,6 @@ Jay Leno is opening up about the accident he had in his home garage last month.
  - [https://abcnews.go.com/US/los-angeles-mayor-karen-bass-declares-homelessness-emergency/story?id=95065942](https://abcnews.go.com/US/los-angeles-mayor-karen-bass-declares-homelessness-emergency/story?id=95065942)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-12 22:16:39+00:00
- - tags: None
 
 Los Angeles Mayor Karen Bass has declared homelessness an emergency in the California city.
 
@@ -28,7 +25,6 @@ Los Angeles Mayor Karen Bass has declared homelessness an emergency in the Calif
  - [https://abcnews.go.com/US/wireStory/breonna-taylors-boyfriend-settles-lawsuits-shooting-95095739](https://abcnews.go.com/US/wireStory/breonna-taylors-boyfriend-settles-lawsuits-shooting-95095739)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-12 21:31:40+00:00
- - tags: None
 
 Breonna Taylor's boyfriend has settled two lawsuits against the city of Louisville
 
@@ -36,7 +32,6 @@ Breonna Taylor's boyfriend has settled two lawsuits against the city of Louisvil
  - [https://abcnews.go.com/Politics/wireStory/man-gets-14-months-prison-role-us-capitol-95095749](https://abcnews.go.com/Politics/wireStory/man-gets-14-months-prison-role-us-capitol-95095749)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-12 21:21:44+00:00
- - tags: None
 
 A Massachusetts man has been sentenced to 14 months in prison on charges of assaulting, resisting or impeding police officers during the January 2021 riot at the U.S. Capitol
 
@@ -44,7 +39,6 @@ A Massachusetts man has been sentenced to 14 months in prison on charges of assa
  - [https://abcnews.go.com/Politics/manchin-intention-switching-independent-suggests-change/story?id=95087810](https://abcnews.go.com/Politics/manchin-intention-switching-independent-suggests-change/story?id=95087810)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-12 20:48:00+00:00
- - tags: None
 
 Joe Manchin on Monday left the door open to becoming an independent, three days after Arizona colleague Kyrsten Sinema announced that she was leaving the Democratic Party
 
@@ -52,7 +46,6 @@ Joe Manchin on Monday left the door open to becoming an independent, three days 
  - [https://abcnews.go.com/International/wireStory/ukraine-pm-requests-air-defenses-counter-russia-attacks-95093305](https://abcnews.go.com/International/wireStory/ukraine-pm-requests-air-defenses-counter-russia-attacks-95093305)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-12 20:21:36+00:00
- - tags: None
 
 Ukraine&rsquo;s prime minister is appealing for Patriot missile batteries and other high-tech air defense systems to counter Russian attacks that have knocked out electricity and water supplies for millions of Ukrainians
 
@@ -60,7 +53,6 @@ Ukraine&rsquo;s prime minister is appealing for Patriot missile batteries and ot
  - [https://abcnews.go.com/Health/wireStory/cvs-walgreens-finalize-10b-settlements-opioids-95090148](https://abcnews.go.com/Health/wireStory/cvs-walgreens-finalize-10b-settlements-opioids-95090148)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-12 19:30:21+00:00
- - tags: None
 
 CVS and Walgreens have finalized more than $10 billion in settlements of lawsuits nationwide over the toll of the opioids their pharmacies sold
 
@@ -68,7 +60,6 @@ CVS and Walgreens have finalized more than $10 billion in settlements of lawsuit
  - [https://abcnews.go.com/US/idaho-murders-army-analysts-combing-videos-submitted-fbi/story?id=95084325](https://abcnews.go.com/US/idaho-murders-army-analysts-combing-videos-submitted-fbi/story?id=95084325)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-12 19:23:12+00:00
- - tags: None
 
 As police investigate the University of Idaho murders, an "army of analysts" are combing through the videos submitted to the FBI tip line.
 
@@ -76,7 +67,6 @@ As police investigate the University of Idaho murders, an "army of analysts" are
  - [https://abcnews.go.com/Health/wireStory/florida-covid-data-critic-reaches-agreement-felony-charge-95084962](https://abcnews.go.com/Health/wireStory/florida-covid-data-critic-reaches-agreement-felony-charge-95084962)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-12 19:16:52+00:00
- - tags: None
 
 A fired Florida health data manager who accused officials of wanting to manipulate COVID-19 statistics has reached an agreement with prosecutors on a felony charge that she illegally accessed state computers
 
@@ -84,7 +74,6 @@ A fired Florida health data manager who accused officials of wanting to manipula
  - [https://abcnews.go.com/GMA/Living/video/kitten-approve-christmas-tree-umbrella-base-95087788](https://abcnews.go.com/GMA/Living/video/kitten-approve-christmas-tree-umbrella-base-95087788)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-12 19:14:01+00:00
- - tags: None
 
 Curious kitten Ash is not a fan of this Christmas tree that "snows" into its base.
 
@@ -92,7 +81,6 @@ Curious kitten Ash is not a fan of this Christmas tree that "snows" into its bas
  - [https://abcnews.go.com/Sports/wireStory/soccer-journalist-grant-wahls-body-returned-us-95082290](https://abcnews.go.com/Sports/wireStory/soccer-journalist-grant-wahls-body-returned-us-95082290)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-12 18:19:02+00:00
- - tags: None
 
 A senior State Department official says the body and possessions of soccer journalist Grant Wahl have been repatriated to the United States after his death last week while covering the World Cup in Qatar
 
@@ -100,7 +88,6 @@ A senior State Department official says the body and possessions of soccer journ
  - [https://abcnews.go.com/International/video/zoo-welcomes-malayan-tapir-calf-95077220](https://abcnews.go.com/International/video/zoo-welcomes-malayan-tapir-calf-95077220)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-12 17:44:23+00:00
- - tags: None
 
 England’s Chester Zoo welcomed a rare Malayan tapir calf called Nessa. The birth is special because the zoo said there are only 2,500 Malayan tapirs in the world.
 
@@ -108,7 +95,6 @@ England’s Chester Zoo welcomed a rare Malayan tapir calf called Nessa. The bir
  - [https://abcnews.go.com/US/video/illinois-middle-schooler-hits-game-winning-full-court-95077221](https://abcnews.go.com/US/video/illinois-middle-schooler-hits-game-winning-full-court-95077221)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-12 17:28:37+00:00
- - tags: None
 
 A basketball court erupted in cheers and screams after an eighth grade student in Illinois made a bold, nearly full-court shot at the buzzer to clinch the win.
 
@@ -116,7 +102,6 @@ A basketball court erupted in cheers and screams after an eighth grade student i
  - [https://abcnews.go.com/Politics/wireStory/blm-sets-student-relief-fund-loan-forgiveness-stalls-95079010](https://abcnews.go.com/Politics/wireStory/blm-sets-student-relief-fund-loan-forgiveness-stalls-95079010)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-12 17:27:28+00:00
- - tags: None
 
 The Black Lives Matter Global Network Foundation has launched a new relief fund aimed at Black college students, alumni and dropouts overburdened by mounting education costs and the student loan debt crisis
 
@@ -124,7 +109,6 @@ The Black Lives Matter Global Network Foundation has launched a new relief fund 
  - [https://abcnews.go.com/US/megan-thee-stallion-supporters-rally-la-courthouse-testifies/story?id=95070831](https://abcnews.go.com/US/megan-thee-stallion-supporters-rally-la-courthouse-testifies/story?id=95070831)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-12 17:15:59+00:00
- - tags: None
 
 Supporters of Megan Thee Stallion are set to rally outside a courtroom in Los Angeles as the she prepares to testify about the in the trial of rapper Tory Lanez.
 
@@ -132,7 +116,6 @@ Supporters of Megan Thee Stallion are set to rally outside a courtroom in Los An
  - [https://abcnews.go.com/Health/wireStory/judge-rejects-vaccine-choice-law-health-care-settings-95075734](https://abcnews.go.com/Health/wireStory/judge-rejects-vaccine-choice-law-health-care-settings-95075734)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-12 16:45:54+00:00
- - tags: None
 
 A federal judge says a person's choice to decline vaccinations does not outweigh public health and safety requirements in medical settings
 
@@ -140,7 +123,6 @@ A federal judge says a person's choice to decline vaccinations does not outweigh
  - [https://abcnews.go.com/Sports/wireStory/pels-health-improves-remains-hospital-95074757](https://abcnews.go.com/Sports/wireStory/pels-health-improves-remains-hospital-95074757)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-12 16:36:32+00:00
- - tags: None
 
 Brazilian soccer great Pel&eacute; is doing better after having been hospitalized to treat a respiratory infection aggravated by COVID-19
 
@@ -148,7 +130,6 @@ Brazilian soccer great Pel&eacute; is doing better after having been hospitalize
  - [https://abcnews.go.com/US/77-year-eleanor-bowles-stabbed-death-home-car/story?id=95066424](https://abcnews.go.com/US/77-year-eleanor-bowles-stabbed-death-home-car/story?id=95066424)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-12 16:10:32+00:00
- - tags: None
 
 Eleanor Bowles, 77, interrupted the suspect's robbery of her 2021 Lexus before she was fatally stabbed, Atlanta police said.
 
@@ -156,7 +137,6 @@ Eleanor Bowles, 77, interrupted the suspect's robbery of her 2021 Lexus before 
  - [https://abcnews.go.com/Sports/wireStory/texas-coach-beard-arrested-felony-family-violence-charge-95068578](https://abcnews.go.com/Sports/wireStory/texas-coach-beard-arrested-felony-family-violence-charge-95068578)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-12 15:27:02+00:00
- - tags: None
 
 Texas men&rsquo;s basketball coach Chris Beard has been arrested on a felony family violence charge
 
@@ -164,7 +144,6 @@ Texas men&rsquo;s basketball coach Chris Beard has been arrested on a felony fam
  - [https://abcnews.go.com/US/winter-storm-slams-northeast-90-flights-canceled-us/story?id=95058933](https://abcnews.go.com/US/winter-storm-slams-northeast-90-flights-canceled-us/story?id=95058933)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-12 14:38:54+00:00
- - tags: None
 
 Ninety flights are canceled across the country on Monday, including 36 in Boston, as winter storms wreak havoc on roadways.
 
@@ -172,7 +151,6 @@ Ninety flights are canceled across the country on Monday, including 36 in Boston
  - [https://abcnews.go.com/International/wireStory/taliban-assailants-attack-hotel-afghan-capital-kabul-95059032](https://abcnews.go.com/International/wireStory/taliban-assailants-attack-hotel-afghan-capital-kabul-95059032)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-12 14:28:31+00:00
- - tags: None
 
 A Taliban official says a hotel catering to foreign visitors in Afghanistan&rsquo;s capital of Kabul was attacked and three of the assailants were killed
 
@@ -180,7 +158,6 @@ A Taliban official says a hotel catering to foreign visitors in Afghanistan&rsqu
  - [https://abcnews.go.com/Politics/wireStory/europe-shifts-focus-avoiding-energy-shortage-year-95063879](https://abcnews.go.com/Politics/wireStory/europe-shifts-focus-avoiding-energy-shortage-year-95063879)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-12 14:21:08+00:00
- - tags: None
 
 The heads of the International Energy Agency and European Union&rsquo;s executive branch say the 27-nation bloc is expected to weather an energy crisis this winter
 
@@ -188,7 +165,6 @@ The heads of the International Energy Agency and European Union&rsquo;s executiv
  - [https://abcnews.go.com/US/wireStory/crews-find-4th-victim-blast-san-antonio-company-95059408](https://abcnews.go.com/US/wireStory/crews-find-4th-victim-blast-san-antonio-company-95059408)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-12 14:02:33+00:00
- - tags: None
 
 Crews have found the body of a fourth person who died in an explosion at a San Antonio construction company and investigators are working to determine the cause and origin of the blast
 
@@ -196,7 +172,6 @@ Crews have found the body of a fourth person who died in an explosion at a San A
  - [https://abcnews.go.com/International/wireStory/2-australia-police-bystander-killed-ambush-rural-area-95057524](https://abcnews.go.com/International/wireStory/2-australia-police-bystander-killed-ambush-rural-area-95057524)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-12 12:42:59+00:00
- - tags: None
 
 Two Australian police officers and a bystander have been fatally shot in an ambush at a remote property in Queensland state as officers were investigating reports of a missing person
 
@@ -204,7 +179,6 @@ Two Australian police officers and a bystander have been fatally shot in an ambu
  - [https://abcnews.go.com/International/wireStory/snow-ice-disrupt-uk-travel-4-children-pulled-95052374](https://abcnews.go.com/International/wireStory/snow-ice-disrupt-uk-travel-4-children-pulled-95052374)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-12 12:42:52+00:00
- - tags: None
 
 There are severe weather warnings for large parts of the United Kingdom.
 
@@ -212,7 +186,6 @@ There are severe weather warnings for large parts of the United Kingdom.
  - [https://abcnews.go.com/Business/wireStory/twitter-relaunching-subscriber-service-after-debacle-95051777](https://abcnews.go.com/Business/wireStory/twitter-relaunching-subscriber-service-after-debacle-95051777)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-12 12:27:51+00:00
- - tags: None
 
 A previous attempt failed.
 
@@ -220,7 +193,6 @@ A previous attempt failed.
  - [https://abcnews.go.com/US/keystone-pipeline-oil-spill-investigators-search-cause-kansas/story?id=95048959](https://abcnews.go.com/US/keystone-pipeline-oil-spill-investigators-search-cause-kansas/story?id=95048959)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-12 09:57:40+00:00
- - tags: None
 
 Officials worked over the weekend to mitigate the fallout from the Keystone Pipeline rupture that leaked about 14,000 barrels of crude oil into a Kansas creek.
 
@@ -228,7 +200,6 @@ Officials worked over the weekend to mitigate the fallout from the Keystone Pipe
  - [https://abcnews.go.com/Weird/wireStory/dogs-gifted-norths-kim-resettle-south-korean-zoo-95048564](https://abcnews.go.com/Weird/wireStory/dogs-gifted-norths-kim-resettle-south-korean-zoo-95048564)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-12 09:13:26+00:00
- - tags: None
 
 A pair of dogs gifted by North Korean leader Kim Jong Un four years ago have ended up at a zoo in South Korea following a dispute over who should foot the bill for the animals' care
 
@@ -236,7 +207,6 @@ A pair of dogs gifted by North Korean leader Kim Jong Un four years ago have end
  - [https://abcnews.go.com/Politics/wireStory/2nd-oath-keepers-jan-6-sedition-trial-underway-95040866](https://abcnews.go.com/Politics/wireStory/2nd-oath-keepers-jan-6-sedition-trial-underway-95040866)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-12 08:59:04+00:00
- - tags: None
 
 Opening statements are expected Monday in the second seditious conspiracy trial against members of the far-right Oath Keepers group charged in the Capitol attack on Jan. 6, 2021
 
@@ -244,7 +214,6 @@ Opening statements are expected Monday in the second seditious conspiracy trial 
  - [https://abcnews.go.com/US/wireStory/missouri-man-seeks-exoneration-murder-2-confessed-95042785](https://abcnews.go.com/US/wireStory/missouri-man-seeks-exoneration-murder-2-confessed-95042785)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-12 08:58:37+00:00
- - tags: None
 
 A hearing begins Monday in a case that will decide if the conviction should be overturned for a Missouri man who has spent nearly three decades in prison for a murder that two other people have since confessed to committing
 
@@ -252,6 +221,5 @@ A hearing begins Monday in a case that will decide if the conviction should be o
  - [https://abcnews.go.com/International/wireStory/iranian-detainee-executed-alleged-protest-crime-95039237](https://abcnews.go.com/International/wireStory/iranian-detainee-executed-alleged-protest-crime-95039237)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-12 04:55:27+00:00
- - tags: None
 
 Iran says it executed its second prisoner detained amid the nationwide protests now challenging the country&rsquo;s theocracy

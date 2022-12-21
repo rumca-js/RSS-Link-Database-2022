@@ -1,4 +1,4 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Ford’s electric F-150 Lightning is getting more expensive, again
  - [https://www.theverge.com/2022/12/17/23514435/ford-electric-f-150-lightning-price-increase](https://www.theverge.com/2022/12/17/23514435/ford-electric-f-150-lightning-price-increase)

@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## A whole new world
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59776](https://www.codeproject.com/script/News/View.aspx?nwid=59776)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-12 05:00:00+00:00
- - tags: None
 
 
 
@@ -12,7 +11,6 @@
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59774](https://www.codeproject.com/script/News/View.aspx?nwid=59774)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-12 05:00:00+00:00
- - tags: None
 
 "The Moon! Artemis! the great goddess of the splendid past of men! Are you going to tell me she is a dead lump?"
 
@@ -20,7 +18,6 @@
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59775](https://www.codeproject.com/script/News/View.aspx?nwid=59775)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-12 05:00:00+00:00
- - tags: None
 
 "The more one reads the more one sees we have to read."
 
@@ -28,7 +25,6 @@
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59785](https://www.codeproject.com/script/News/View.aspx?nwid=59785)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-12 05:00:00+00:00
- - tags: None
 
 If you trust their advice
 
@@ -36,7 +32,6 @@ If you trust their advice
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59787](https://www.codeproject.com/script/News/View.aspx?nwid=59787)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-12 05:00:00+00:00
- - tags: None
 
 Another one to leave where your purchasing manager will find it
 
@@ -44,7 +39,6 @@ Another one to leave where your purchasing manager will find it
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59782](https://www.codeproject.com/script/News/View.aspx?nwid=59782)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-12 05:00:00+00:00
- - tags: None
 
 I guess they're big Call of Duty fans (on Playstation)?
 
@@ -52,7 +46,6 @@ I guess they're big Call of Duty fans (on Playstation)?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59786](https://www.codeproject.com/script/News/View.aspx?nwid=59786)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-12 05:00:00+00:00
- - tags: None
 
 Fresh from their crystal ball
 
@@ -60,7 +53,6 @@ Fresh from their crystal ball
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59780](https://www.codeproject.com/script/News/View.aspx?nwid=59780)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-12 05:00:00+00:00
- - tags: None
 
 Nooooooooooooo!
 
@@ -68,7 +60,6 @@ Nooooooooooooo!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59778](https://www.codeproject.com/script/News/View.aspx?nwid=59778)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-12 05:00:00+00:00
- - tags: None
 
 "Who wrote the book of love?" didn't make the cut?
 
@@ -76,7 +67,6 @@ Nooooooooooooo!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59783](https://www.codeproject.com/script/News/View.aspx?nwid=59783)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-12 05:00:00+00:00
- - tags: None
 
 'Guidelines of Thermodynamics' just doesn't have the same ring
 
@@ -84,7 +74,6 @@ Nooooooooooooo!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59779](https://www.codeproject.com/script/News/View.aspx?nwid=59779)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-12 05:00:00+00:00
- - tags: None
 
 That's my cat video watching planned for
 
@@ -92,7 +81,6 @@ That's my cat video watching planned for
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59781](https://www.codeproject.com/script/News/View.aspx?nwid=59781)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-12 05:00:00+00:00
- - tags: None
 
 Just in case you don't have any opinions of your own
 
@@ -100,7 +88,6 @@ Just in case you don't have any opinions of your own
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59784](https://www.codeproject.com/script/News/View.aspx?nwid=59784)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-12 05:00:00+00:00
- - tags: None
 
 "There is no pain, you are receding"
 
@@ -108,6 +95,5 @@ Just in case you don't have any opinions of your own
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59777](https://www.codeproject.com/script/News/View.aspx?nwid=59777)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-12 05:00:00+00:00
- - tags: None
 
 Video killed the screenshot star

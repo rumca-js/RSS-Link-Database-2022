@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2
+# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
 
 ## Elon Musk Just Started A Poll Asking Whether He Should Step Down As Head Of Twitter
  - [https://www.forbes.com/sites/johnbbrandon/2022/12/18/elon-musk-just-started-a-poll-asking-whether-he-should-step-down-as-head-of-twitter/](https://www.forbes.com/sites/johnbbrandon/2022/12/18/elon-musk-just-started-a-poll-asking-whether-he-should-step-down-as-head-of-twitter/)

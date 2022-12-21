@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## The Mandalorian season 3 has been delayed—but only a little
  - [https://arstechnica.com/?p=1901454](https://arstechnica.com/?p=1901454)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-01 22:16:38+00:00
- - tags: None
 
 It's the first new season of the show since 2020—well, sort of.
 
@@ -12,7 +11,6 @@ It's the first new season of the show since 2020—well, sort of.
  - [https://arstechnica.com/?p=1901460](https://arstechnica.com/?p=1901460)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-01 21:59:28+00:00
- - tags: None
 
 Lots of tech in development, but we're still waiting for indications of an application.
 
@@ -20,7 +18,6 @@ Lots of tech in development, but we're still waiting for indications of an appli
  - [https://arstechnica.com/?p=1900972](https://arstechnica.com/?p=1900972)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-01 21:22:50+00:00
- - tags: None
 
 ChatGPT aims to produce accurate and harmless talk—but it's a work in progress.
 
@@ -28,7 +25,6 @@ ChatGPT aims to produce accurate and harmless talk—but it's a work in progress
  - [https://arstechnica.com/?p=1901297](https://arstechnica.com/?p=1901297)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-01 20:57:36+00:00
- - tags: None
 
 You can stream footage from cameras' "local storage" from anywhere using VLC.
 
@@ -36,7 +32,6 @@ You can stream footage from cameras' "local storage" from anywhere using VLC.
  - [https://arstechnica.com/?p=1901358](https://arstechnica.com/?p=1901358)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-01 20:20:38+00:00
- - tags: None
 
 Site officials say site will be down for a couple of days.
 
@@ -44,7 +39,6 @@ Site officials say site will be down for a couple of days.
  - [https://arstechnica.com/?p=1901298](https://arstechnica.com/?p=1901298)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-01 19:22:26+00:00
- - tags: None
 
 Bankman-Fried does public interview despite his lawyers urging him to stay quiet.
 
@@ -52,7 +46,6 @@ Bankman-Fried does public interview despite his lawyers urging him to stay quiet
  - [https://arstechnica.com/?p=1901245](https://arstechnica.com/?p=1901245)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-01 18:54:42+00:00
- - tags: None
 
 A 90 Hz display, wireless charging, and modern cameras make this a phone to watch.
 
@@ -60,7 +53,6 @@ A 90 Hz display, wireless charging, and modern cameras make this a phone to watc
  - [https://arstechnica.com/?p=1901278](https://arstechnica.com/?p=1901278)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-01 18:30:23+00:00
- - tags: None
 
 Games have been Nintendo's fastest-selling titles despite early bugs.
 
@@ -68,7 +60,6 @@ Games have been Nintendo's fastest-selling titles despite early bugs.
  - [https://arstechnica.com/?p=1901272](https://arstechnica.com/?p=1901272)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-01 17:19:25+00:00
- - tags: None
 
 LA Thieves skin pack becomes a bestseller by offering in-game camouflage effect.
 
@@ -76,7 +67,6 @@ LA Thieves skin pack becomes a bestseller by offering in-game camouflage effect.
  - [https://arstechnica.com/?p=1901212](https://arstechnica.com/?p=1901212)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-01 16:46:00+00:00
- - tags: None
 
 Late engineer played key role in creating first cartridge-based console in 1976.
 
@@ -84,7 +74,6 @@ Late engineer played key role in creating first cartridge-based console in 1976.
  - [https://arstechnica.com/?p=1901197](https://arstechnica.com/?p=1901197)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-01 15:49:49+00:00
- - tags: None
 
 "BlueWalker 3 is a big shift in the constellation satellite issue."
 
@@ -92,7 +81,6 @@ Late engineer played key role in creating first cartridge-based console in 1976.
  - [https://arstechnica.com/?p=1901199](https://arstechnica.com/?p=1901199)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-01 14:24:54+00:00
- - tags: None
 
 Musk: "misunderstanding" over Twitter and the App Store is resolved.
 
@@ -100,7 +88,6 @@ Musk: "misunderstanding" over Twitter and the App Store is resolved.
  - [https://arstechnica.com/?p=1898410](https://arstechnica.com/?p=1898410)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-01 12:00:53+00:00
- - tags: None
 
 Revisiting the wonder and betrayal of online life circa 1992.
 
@@ -108,6 +95,5 @@ Revisiting the wonder and betrayal of online life circa 1992.
  - [https://arstechnica.com/?p=1901167](https://arstechnica.com/?p=1901167)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-01 00:20:21+00:00
- - tags: None
 
 Variston IT fingerprints found in source code for advanced Chrome exploit.

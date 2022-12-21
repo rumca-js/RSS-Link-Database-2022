@@ -1,10 +1,9 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
+# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
 
 ## These Mirrors Cost $100,000 Each
  - [https://www.youtube.com/watch?v=HFjeJ1SXqiE](https://www.youtube.com/watch?v=HFjeJ1SXqiE)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
  - date published: 2022-12-11 20:00:03+00:00
- - tags: None
 
 How Zeiss makes insanely precise mirrors that make computer chips possible.
 

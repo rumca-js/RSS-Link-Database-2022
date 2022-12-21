@@ -1,4 +1,4 @@
-# Source Forsal.pl, Source URL:https://forsal.pl/.feed
+# Source Forsal.pl, Source URL:https://forsal.pl/.feed, Source language: pl-PL
 
 ## Belgijskie media: Rosyjska gospodarka nie radzi sobie bez miliardów ze sprzedaży gazu
  - [https://forsal.pl/biznes/media/artykuly/8612633,belgijskie-media-rosyjska-gospodarka-brak-miliardow-ze-sprzedazy-gazu.html](https://forsal.pl/biznes/media/artykuly/8612633,belgijskie-media-rosyjska-gospodarka-brak-miliardow-ze-sprzedazy-gazu.html)

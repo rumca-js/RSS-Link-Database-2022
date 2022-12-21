@@ -14,12 +14,26 @@ The French World Cup squad has been welcomed home by thousands of football fans 
 
 The committee investigating the January 6 storming of the US Capitol is recommending criminal charges against former President Donald Trump.
 
+## 'This is hell': British volunteer describes danger of carrying out evacuations in Ukraine
+ - [https://news.sky.com/story/british-volunteer-evacuating-most-vulnerable-from-hell-has-vehicle-targeted-by-russian-tank-12771547](https://news.sky.com/story/british-volunteer-evacuating-most-vulnerable-from-hell-has-vehicle-targeted-by-russian-tank-12771547)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2022-12-19 16:49:00+00:00
+
+A British man carrying out evacuations in Ukraine has said his 4x4 vehicle was hit by a Russian tank round and is now written-off.
+
 ## Crematoriums guarded by police as China fights to hide true toll of failed zero-COVID policy
  - [https://news.sky.com/story/crematoriums-guarded-by-police-as-china-fights-to-hide-true-toll-of-failed-zero-covid-policy-12771420](https://news.sky.com/story/crematoriums-guarded-by-police-as-china-fights-to-hide-true-toll-of-failed-zero-covid-policy-12771420)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
  - date published: 2022-12-19 13:31:00+00:00
 
 Even first thing in the morning the crematoriums were burning in Beijing. Plumes of smoke against the cold blue sky.
+
+## International Affairs - the Year in Review with Dominic Waghorn
+ - [https://news.sky.com/story/sky-news-daily-international-affairs-the-year-in-review-with-dominic-waghorn-12771313](https://news.sky.com/story/sky-news-daily-international-affairs-the-year-in-review-with-dominic-waghorn-12771313)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2022-12-19 11:00:00+00:00
+
+Host Niall Paterson looks at the international stories which defined 2022.
 
 ## Deal struck to 'protect' third of the planet by 2030
  - [https://news.sky.com/story/cop-15-delegates-agree-to-protect-30-per-cent-of-the-world-by-2030-12771245](https://news.sky.com/story/cop-15-delegates-agree-to-protect-30-per-cent-of-the-world-by-2030-12771245)

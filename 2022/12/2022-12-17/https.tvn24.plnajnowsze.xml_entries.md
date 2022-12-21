@@ -1,4 +1,4 @@
-# Source TVN24 Najnowsze, Source URL:https://tvn24.pl/najnowsze.xml
+# Source TVN24 Najnowsze, Source URL:https://tvn24.pl/najnowsze.xml, Source language: pl-PL
 
 ## Ukraiński wywiad: wśród pojmanych do niewoli są obywatele państw innych niż Rosja
  - [https://tvn24.pl/swiat/ukrainski-wywiad-o-rosyjskich-jencach-wsrod-zolnierzy-w-niewoli-sa-obywatele-panstw-innych-niz-rosja-6511418?source=rss](https://tvn24.pl/swiat/ukrainski-wywiad-o-rosyjskich-jencach-wsrod-zolnierzy-w-niewoli-sa-obywatele-panstw-innych-niz-rosja-6511418?source=rss)
@@ -95,6 +95,14 @@
 
 <img alt="Wolontariuszka roku jednak odbierze nagrodę. " src="https://tvn24.pl/biznes/najnowsze/cdn-zdjecie-j8bsi9-anna-nowak-6510987/alternates/LANDSCAPE_1280" />
     Anna Nowak opiekuje się niepełnosprawną córką i jeszcze pomaga innym. Bała się przyjąć nagrodę w wysokości 4 tysięcy złotych w związku z przyznanym jej przez Poznań tytułem "Wolontariuszki roku" w obawie przed utratą świadczenia pielęgnacyjnego. Dopiero po odpowiedzi Ministerstwa Rodziny i Polityki Społecznej na pytania reporterki TVN24, pani Anna zdecydowała się przyjąć nagrodę pieniężną.
+
+## Trzylatek zadławił się orzeszkiem, trafił do szpitala. "Jego stan nadal bardzo ciężki"
+ - [https://tvn24.pl/poznan/kaszew-trzylatek-zadlawil-sie-orzeszkiem-trafil-do-szpitala-jego-stan-jest-bardzo-ciezki-6510982?source=rss](https://tvn24.pl/poznan/kaszew-trzylatek-zadlawil-sie-orzeszkiem-trafil-do-szpitala-jego-stan-jest-bardzo-ciezki-6510982?source=rss)
+ - RSS feed: https://tvn24.pl/najnowsze.xml
+ - date published: 2022-12-17 13:13:33+00:00
+
+<img alt="Trzylatek zadławił się orzeszkiem, trafił do szpitala. " src="https://tvn24.pl/najnowsze/cdn-zdjecie-0ji8qd-na-miejscu-ladowal-smiglowiec-lpr-zdjecie-ilustracyjne-6510975/alternates/LANDSCAPE_1280" />
+    W Kaszewie (Łódzkie) trzyletni chłopiec stracił przytomność na skutek zadławienia orzeszkiem. Trafił do szpitala w stanie określanym przez lekarzy jako bardzo ciężki.
 
 ## Jeszcze większe utrudnienia na linii średnicowej. O połowę mniej pociągów i 50-minutowe przerwy w ruchu
  - [https://tvn24.pl/tvnwarszawa/najnowsze/warszawa-utrudnienia-na-linii-srednicowej-o-polowe-mniej-pociagow-i-przerwy-w-ruchu-6510768?source=rss](https://tvn24.pl/tvnwarszawa/najnowsze/warszawa-utrudnienia-na-linii-srednicowej-o-polowe-mniej-pociagow-i-przerwy-w-ruchu-6510768?source=rss)

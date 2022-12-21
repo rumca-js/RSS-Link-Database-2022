@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Apple looks poised to open its walled garden in 2023
  - [https://www.computerworld.com/article/3682761/apple-looks-poised-to-open-its-walled-garden-in-2023.html#tk.rss_all](https://www.computerworld.com/article/3682761/apple-looks-poised-to-open-its-walled-garden-in-2023.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-14 13:37:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -15,7 +14,6 @@
  - [https://www.computerworld.com/article/3682853/chromebook-trackpad-gestures.html#tk.rss_all](https://www.computerworld.com/article/3682853/chromebook-trackpad-gestures.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-14 11:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -25,7 +23,6 @@
  - [https://www.computerworld.com/article/3682758/the-great-resignation-isnt-over-yet.html#tk.rss_all](https://www.computerworld.com/article/3682758/the-great-resignation-isnt-over-yet.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-14 11:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

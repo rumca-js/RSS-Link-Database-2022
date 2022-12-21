@@ -1,4 +1,4 @@
-# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml
+# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, Source language: pl-PL
 
 ## Kanclerz Niemiec Olaf Scholz: panie Putin, niech pan zakończy tę wojnę!
  - [https://tvn24.pl/swiat/ukraina-rosja-atakuje-kanclerz-niemiec-olaf-scholz-apeluje-zwraca-sie-do-putina-6511391?source=rss](https://tvn24.pl/swiat/ukraina-rosja-atakuje-kanclerz-niemiec-olaf-scholz-apeluje-zwraca-sie-do-putina-6511391?source=rss)

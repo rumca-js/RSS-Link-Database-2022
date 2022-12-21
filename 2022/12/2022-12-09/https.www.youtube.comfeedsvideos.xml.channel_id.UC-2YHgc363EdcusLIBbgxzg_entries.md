@@ -1,10 +1,9 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
+# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
 
 ## This Company Makes All The Advanced Semiconductors In The World
  - [https://www.youtube.com/watch?v=09kKwzaqBXc](https://www.youtube.com/watch?v=09kKwzaqBXc)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
  - date published: 2022-12-09 20:15:00+00:00
- - tags: None
 
 Actually, they're the company that builds the machine that builds the chips. It's the machine that builds the machines that builds the machines.
 

@@ -1,4 +1,4 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml
+# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
 
 ## Harvard-Harris Poll: Trump Leads Among GOP For 2024 Primaries
  - [https://www.dailywire.com/news/harvard-harris-poll-trump-leads-among-gop-for-2024-primaries](https://www.dailywire.com/news/harvard-harris-poll-trump-leads-among-gop-for-2024-primaries)

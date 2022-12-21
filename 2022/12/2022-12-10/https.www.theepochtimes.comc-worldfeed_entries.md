@@ -1,10 +1,9 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/
+# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
 
 ## Australian Babies at Risk of Black Market Breast Milk
  - [https://www.theepochtimes.com/australian-babies-at-risk-of-black-market-breast-milk_4916383.html](https://www.theepochtimes.com/australian-babies-at-risk-of-black-market-breast-milk_4916383.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-10 23:57:49+00:00
- - tags: None
 
 Containers with breast milk. (Ernesto Benavides/AFP/Getty Images)
 
@@ -12,7 +11,6 @@ Containers with breast milk. (Ernesto Benavides/AFP/Getty Images)
  - [https://www.theepochtimes.com/ultra-low-unemployment-in-australia-to-hold-firm_4916381.html](https://www.theepochtimes.com/ultra-low-unemployment-in-australia-to-hold-firm_4916381.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-10 23:53:03+00:00
- - tags: None
 
 A man banks at a Commonwealth Bank automatic teller machine in Sydney, Australia, Aug. 28, 2017. (Reuters/Jason Reed)
 
@@ -20,7 +18,6 @@ A man banks at a Commonwealth Bank automatic teller machine in Sydney, Australia
  - [https://www.theepochtimes.com/sen-johnsons-covid-vax-panel-where-was-the-oversight-gene-therapy-gamble_4916204.html](https://www.theepochtimes.com/sen-johnsons-covid-vax-panel-where-was-the-oversight-gene-therapy-gamble_4916204.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-10 20:28:25+00:00
- - tags: None
 
 
 
@@ -28,7 +25,6 @@ A man banks at a Commonwealth Bank automatic teller machine in Sydney, Australia
  - [https://www.theepochtimes.com/a-chinese-man-sentenced-in-massachusetts-for-stock-market-manipulation-conspiracy_4910864.html](https://www.theepochtimes.com/a-chinese-man-sentenced-in-massachusetts-for-stock-market-manipulation-conspiracy_4910864.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-10 18:53:37+00:00
- - tags: None
 
 Traders on the floor at the closing bell of the Dow Industrial Average at the New York Stock Exchange in New York on June 25, 2018. (Bryan R. Smith/AFP/Getty Images)
 
@@ -36,7 +32,6 @@ Traders on the floor at the closing bell of the Dow Industrial Average at the Ne
  - [https://www.theepochtimes.com/ubs-report-says-us-has-one-third-of-worlds-billionaires_4913787.html](https://www.theepochtimes.com/ubs-report-says-us-has-one-third-of-worlds-billionaires_4913787.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-10 17:20:25+00:00
- - tags: None
 
 The logo of Swiss bank UBS at a branch office in Hong Kong. (Sung Pi-Lung/The Epoch Times)
 
@@ -44,7 +39,6 @@ The logo of Swiss bank UBS at a branch office in Hong Kong. (Sung Pi-Lung/The Ep
  - [https://www.theepochtimes.com/albertas-auto-insurance-fees-among-highest-in-canada-report_4915967.html](https://www.theepochtimes.com/albertas-auto-insurance-fees-among-highest-in-canada-report_4915967.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-10 17:11:46+00:00
- - tags: None
 
 Traffic crawls during morning rush hour in Toronto, in a file photo. (Frank Gunn/The Canadian Press)
 
@@ -52,7 +46,6 @@ Traffic crawls during morning rush hour in Toronto, in a file photo. (Frank Gunn
  - [https://www.theepochtimes.com/morocco-reaches-world-cup-semifinals-tops-portugal-ronaldo_4916010.html](https://www.theepochtimes.com/morocco-reaches-world-cup-semifinals-tops-portugal-ronaldo_4916010.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-10 17:00:55+00:00
- - tags: None
 
 Morocco's Youssef En-Nesyri scores their first goal during FIFA World Cup Qatar 2022 Quarter Final match between Morocco and  Portugal, at Al Thumama Stadium, Doha, Qatar, on Dec. 10, 2022. (Paul Childs/Reuters)
 
@@ -60,7 +53,6 @@ Morocco's Youssef En-Nesyri scores their first goal during FIFA World Cup Qatar 
  - [https://www.theepochtimes.com/higher-percentage-of-excess-mortality-among-younger-canadians-since-pandemic-but-cause-not-mainly-covid-19_4915351.html](https://www.theepochtimes.com/higher-percentage-of-excess-mortality-among-younger-canadians-since-pandemic-but-cause-not-mainly-covid-19_4915351.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-10 16:45:00+00:00
- - tags: None
 
 A paramedic is shown next to an ambulance outside a hospital in Montreal on Dec. 28, 2020. (The Canadian Press/Graham Hughes)
 
@@ -68,7 +60,6 @@ A paramedic is shown next to an ambulance outside a hospital in Montreal on Dec.
  - [https://www.theepochtimes.com/russian-court-upholds-former-reporters-22-year-treason-sentence_4910063.html](https://www.theepochtimes.com/russian-court-upholds-former-reporters-22-year-treason-sentence_4910063.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-10 15:40:07+00:00
- - tags: None
 
 Ivan Safronov, an adviser to the director of Russia's state space corporation is seen on a TV screen, as he appears in a video link provided by the Russian Federal Penitentiary Service in a courtroom of the First Cassation Court of General Jurisdiction in Moscow on Dec. 7, 2022. (Sergei Fedotov/AP Photo)
 
@@ -76,7 +67,6 @@ Ivan Safronov, an adviser to the director of Russia's state space corporation is
  - [https://www.theepochtimes.com/at-least-4-killed-as-cyclone-mandous-hits-southern-indian-state_4915920.html](https://www.theepochtimes.com/at-least-4-killed-as-cyclone-mandous-hits-southern-indian-state_4915920.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-10 14:19:23+00:00
- - tags: None
 
 A fishing trawler sails amid high tide as dark clouds loom over the Kasimedu fishing harbor, ahead of Cyclone Mandous forecasted landfall in north Tamil Nadu-south Andhra Pradesh coasts on Dec. 8, 2022. (Arun Sankar/AFP via Getty Images)
 
@@ -84,7 +74,6 @@ A fishing trawler sails amid high tide as dark clouds loom over the Kasimedu fis
  - [https://www.theepochtimes.com/one-dead-more-missing-after-residential-building-explosion-in-jersey_4915785.html](https://www.theepochtimes.com/one-dead-more-missing-after-residential-building-explosion-in-jersey_4915785.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-10 14:05:42+00:00
- - tags: None
 
 Picture taken with permission from the twitter feed of @just_daniel1411 of the aftermath of an explosion and fire at a block of flats in St Helier, Jersey, on Dec. 10, 2022. (Daniel Hunt via PA Media)
 
@@ -92,7 +81,6 @@ Picture taken with permission from the twitter feed of @just_daniel1411 of the a
  - [https://www.theepochtimes.com/germany-captain-manuel-neuer-breaks-leg-while-skiing_4915911.html](https://www.theepochtimes.com/germany-captain-manuel-neuer-breaks-leg-while-skiing_4915911.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-10 13:56:50+00:00
- - tags: None
 
 Germany's goalkeeper Manuel Neuer reacts after receiving a goal during the World Cup group E soccer match between Costa Rica and Germany at the Al Bayt Stadium in Al Khor, Qatar, on Dec. 1, 2022. (Martin Meissner/AP Photo)
 
@@ -100,7 +88,6 @@ Germany's goalkeeper Manuel Neuer reacts after receiving a goal during the World
  - [https://www.theepochtimes.com/neymar-says-he-is-unsure-if-he-will-play-again-with-brazil_4915873.html](https://www.theepochtimes.com/neymar-says-he-is-unsure-if-he-will-play-again-with-brazil_4915873.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-10 13:21:12+00:00
- - tags: None
 
 Brazil's forward #10 Neymar reacts after his team lost the Qatar 2022 World Cup quarter-final football match between Croatia and Brazil at Education City Stadium in Al-Rayyan, west of Doha, Qatar, on Dec. 9, 2022. (Adrian Dennis/AFP via Getty Images)
 
@@ -108,7 +95,6 @@ Brazil's forward #10 Neymar reacts after his team lost the Qatar 2022 World Cup 
  - [https://www.theepochtimes.com/police-in-germanys-dresden-give-all-clear-after-hostage-taking_4915844.html](https://www.theepochtimes.com/police-in-germanys-dresden-give-all-clear-after-hostage-taking_4915844.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-10 12:39:03+00:00
- - tags: None
 
 Security forces secure the area at a Christmas market in Dresden, Germany, on Dec. 10, 2022. (Matthias Rietschel/Reuters)
 
@@ -116,7 +102,6 @@ Security forces secure the area at a Christmas market in Dresden, Germany, on De
  - [https://www.theepochtimes.com/hong-kong-media-tycoon-jimmy-lai-sentenced-to-jail-over-lease-violation_4915690.html](https://www.theepochtimes.com/hong-kong-media-tycoon-jimmy-lai-sentenced-to-jail-over-lease-violation_4915690.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-10 11:16:12+00:00
- - tags: None
 
 Jimmy Lai, Apple Daily founder, arrives at the Court of Final Appeal ahead a bail hearing in Hong Kong on Feb. 9, 2021. (Anthony Kwan/Getty Images)
 
@@ -124,7 +109,6 @@ Jimmy Lai, Apple Daily founder, arrives at the Court of Final Appeal ahead a bai
  - [https://www.theepochtimes.com/us-announces-275-million-package-of-security-assistance-for-ukraine_4915674.html](https://www.theepochtimes.com/us-announces-275-million-package-of-security-assistance-for-ukraine_4915674.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-10 09:55:17+00:00
- - tags: None
 
 A High Mobility Artillery Rocket Systems (HIMARS) during the military exercise Namejs 2022 in Skede, Latvia, on Sept. 26, 2022. (Gints Ivuskans/AFP via Getty Images)
 
@@ -132,7 +116,6 @@ A High Mobility Artillery Rocket Systems (HIMARS) during the military exercise N
  - [https://www.theepochtimes.com/masked-bandits-steal-gold-from-north-korean-armored-vehicle_4903892.html](https://www.theepochtimes.com/masked-bandits-steal-gold-from-north-korean-armored-vehicle_4903892.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-10 07:05:05+00:00
- - tags: None
 
 (JINOLD/Shutterstock)
 
@@ -140,7 +123,6 @@ A High Mobility Artillery Rocket Systems (HIMARS) during the military exercise N
  - [https://www.theepochtimes.com/keystone-pipeline-shut-after-14000-barrel-oil-spill-in-kansas_4913965.html](https://www.theepochtimes.com/keystone-pipeline-shut-after-14000-barrel-oil-spill-in-kansas_4913965.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-10 04:57:40+00:00
- - tags: None
 
 TC Energy's logo on a smartphone in this illustration taken on Dec. 4, 2021. (Dado Ruvic/Illustration/Reuters)
 
@@ -148,7 +130,6 @@ TC Energy's logo on a smartphone in this illustration taken on Dec. 4, 2021. (Da
  - [https://www.theepochtimes.com/dr-aseem-malhotra-from-vaccine-pusher-to-vaccine-debunker-how-i-changed-my-mind-about-the-covid-19-jab_4915606.html](https://www.theepochtimes.com/dr-aseem-malhotra-from-vaccine-pusher-to-vaccine-debunker-how-i-changed-my-mind-about-the-covid-19-jab_4915606.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-10 04:29:49+00:00
- - tags: None
 
 
 
@@ -156,7 +137,6 @@ TC Energy's logo on a smartphone in this illustration taken on Dec. 4, 2021. (Da
  - [https://www.theepochtimes.com/robodebt-proposals-created-amid-pressure_4913763.html](https://www.theepochtimes.com/robodebt-proposals-created-amid-pressure_4913763.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-10 01:05:53+00:00
- - tags: None
 
 A man walks into a Medicare and Centrelink office at Bondi Junction in Sydney, Australia, on March 21, 2016. (Matt King/Getty Images)
 
@@ -164,6 +144,5 @@ A man walks into a Medicare and Centrelink office at Bondi Junction in Sydney, A
  - [https://www.theepochtimes.com/canadas-negative-experience-due-to-beijings-actions-during-meng-wanzhou-affair-could-have-been-catalyst-for-indo-pacific-strategy-panel-hears_4911913.html](https://www.theepochtimes.com/canadas-negative-experience-due-to-beijings-actions-during-meng-wanzhou-affair-could-have-been-catalyst-for-indo-pacific-strategy-panel-hears_4911913.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-10 00:48:35+00:00
- - tags: None
 
 Prime Minister Justin Trudeau, flanked by Foreign Affairs Minister Melanie Joly (L) and International Trade Minister Mary Ng, holds a press conference following the ASEAN Summit in Phnom Penh, Cambodia, on Nov. 13, 2022. (The Canadian Press/Sean Kilpatrick)

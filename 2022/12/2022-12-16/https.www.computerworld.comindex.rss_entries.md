@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Patch Tuesday: Two zero-day flaws in Windows need immediate attention
  - [https://www.computerworld.com/article/3683593/patch-tuesday-two-zero-day-flaws-in-windows-need-immediate-attention.html#tk.rss_all](https://www.computerworld.com/article/3683593/patch-tuesday-two-zero-day-flaws-in-windows-need-immediate-attention.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-16 20:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3683593/patch-tuesday-two-zero-day-flaws-in-windows-zero-days-immediate-attention.html#tk.rss_all](https://www.computerworld.com/article/3683593/patch-tuesday-two-zero-day-flaws-in-windows-zero-days-immediate-attention.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-16 20:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -24,7 +22,6 @@
  - [https://www.computerworld.com/article/3683510/jamf-protect-adds-powerful-telemetry-to-protect-mac-enterprise.html#tk.rss_all](https://www.computerworld.com/article/3683510/jamf-protect-adds-powerful-telemetry-to-protect-mac-enterprise.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-16 18:05:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -35,7 +32,6 @@
  - [https://www.computerworld.com/article/3682811/reframing-our-understanding-of-remote-work.html#tk.rss_all](https://www.computerworld.com/article/3682811/reframing-our-understanding-of-remote-work.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-16 12:30:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -45,7 +41,6 @@
  - [https://www.computerworld.com/article/3328644/android-tips-2022.html#tk.rss_all](https://www.computerworld.com/article/3328644/android-tips-2022.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-16 10:45:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -55,7 +50,6 @@
  - [https://www.computerworld.com/article/3683315/innovation-vs-execution-you-have-to-have-both.html#tk.rss_all](https://www.computerworld.com/article/3683315/innovation-vs-execution-you-have-to-have-both.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-16 10:13:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

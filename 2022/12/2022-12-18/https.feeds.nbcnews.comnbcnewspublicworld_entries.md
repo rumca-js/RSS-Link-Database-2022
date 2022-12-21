@@ -1,4 +1,4 @@
-# Source NBC world, Source URL:https://feeds.nbcnews.com/nbcnews/public/world
+# Source NBC world, Source URL:https://feeds.nbcnews.com/nbcnews/public/world, Source language: en-US
 
 ## Argentina celebrates World Cup victory
  - [https://www.nbcnews.com/video/argentina-celebrates-world-cup-victory-158114885778](https://www.nbcnews.com/video/argentina-celebrates-world-cup-victory-158114885778)

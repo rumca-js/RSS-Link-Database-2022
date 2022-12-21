@@ -1,4 +1,4 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## The Whoop 4.0 convinced me I don’t need a screen on my fitness tracker
  - [https://www.androidauthority.com/whoop-4-0-review-3249953/](https://www.androidauthority.com/whoop-4-0-review-3249953/)

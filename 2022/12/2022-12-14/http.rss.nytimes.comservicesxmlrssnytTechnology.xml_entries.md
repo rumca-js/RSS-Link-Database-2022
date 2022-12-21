@@ -1,10 +1,9 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
 
 ## Tech Trade Group Sues California to Halt Children’s Online Safety Law
  - [https://www.nytimes.com/2022/12/14/technology/netchoice-lawsuit-children-online-safety.html](https://www.nytimes.com/2022/12/14/technology/netchoice-lawsuit-children-online-safety.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-12-14 23:47:30+00:00
- - tags: None
 
 NetChoice, whose members include Amazon, Google, Meta and TikTok, said the new law could cause online services to limit important content for minors.
 
@@ -12,7 +11,6 @@ NetChoice, whose members include Amazon, Google, Meta and TikTok, said the new l
  - [https://www.nytimes.com/2022/12/14/technology/twitter-private-jet-accounts-suspended.html](https://www.nytimes.com/2022/12/14/technology/twitter-private-jet-accounts-suspended.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-12-14 22:38:39+00:00
- - tags: None
 
 The suspended accounts include one that followed the private plane of Elon Musk, Twitter’s owner.
 
@@ -20,7 +18,6 @@ The suspended accounts include one that followed the private plane of Elon Musk,
  - [https://www.nytimes.com/2022/12/14/technology/twitter-suspends-over-25-accounts-that-track-billionaires-private-planes.html](https://www.nytimes.com/2022/12/14/technology/twitter-suspends-over-25-accounts-that-track-billionaires-private-planes.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-12-14 22:16:01+00:00
- - tags: None
 
 The suspended accounts include one that followed the private plane of Elon Musk, Twitter’s owner.
 
@@ -28,7 +25,6 @@ The suspended accounts include one that followed the private plane of Elon Musk,
  - [https://www.nytimes.com/2022/12/14/technology/personaltech/parental-controls-smartphone.html](https://www.nytimes.com/2022/12/14/technology/personaltech/parental-controls-smartphone.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-12-14 10:00:55+00:00
- - tags: None
 
 Apple and Google have upgraded their built-in software for managing the mobile experience, but you have many options for digital supervision.
 
@@ -36,7 +32,6 @@ Apple and Google have upgraded their built-in software for managing the mobile e
  - [https://www.nytimes.com/2022/12/14/business/leather-fake-mycelium-mushrooms-fashion.html](https://www.nytimes.com/2022/12/14/business/leather-fake-mycelium-mushrooms-fashion.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-12-14 10:00:53+00:00
- - tags: None
 
 MycoWorks uses mycelium, the substance in the root structure of mushrooms, to make Reishi, which has the look and feel of leather. Big-name companies are very interested.
 
@@ -44,6 +39,5 @@ MycoWorks uses mycelium, the substance in the root structure of mushrooms, to ma
  - [https://www.nytimes.com/2022/12/13/business/ftx-sam-bankman-fried-fraud-charges.html](https://www.nytimes.com/2022/12/13/business/ftx-sam-bankman-fried-fraud-charges.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-12-14 04:36:43+00:00
- - tags: None
 
 A criminal indictment unsealed on Tuesday and a complaint by the S.E.C. describe years of wrongdoing in Sam Bankman-Fried’s crypto empire.

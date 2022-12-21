@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss
+# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
 
 ## CES 2023: what to expect from the world’s largest electronics expo in January
  - [https://www.techradar.com/news/ces-2023](https://www.techradar.com/news/ces-2023)

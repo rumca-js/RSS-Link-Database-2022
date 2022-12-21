@@ -1,10 +1,9 @@
-# Source Jordan B Peterson, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
+# Source Jordan B Peterson, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q, Source language: en-US
 
 ## The Irrefutable Argument for God (Exodus Clip)
  - [https://www.youtube.com/watch?v=iozl992R_0Q](https://www.youtube.com/watch?v=iozl992R_0Q)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
  - date published: 2022-12-02 21:00:30+00:00
- - tags: None
 
 Watch Exodus now, exclusively on DailyWire+: https://bit.ly/3XhWnHw 
 

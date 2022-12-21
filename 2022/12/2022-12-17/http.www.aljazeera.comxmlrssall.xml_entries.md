@@ -1,4 +1,4 @@
-# Source Aljazeera, Source URL:http://www.aljazeera.com/xml/rss/all.xml
+# Source Aljazeera, Source URL:http://www.aljazeera.com/xml/rss/all.xml, Source language: en-US
 
 ## Palestinian brothers killed after settler runs them over: Reports
  - [https://www.aljazeera.com/news/2022/12/17/two-palestinian-brothers-killed-after-settler-runs-them-over](https://www.aljazeera.com/news/2022/12/17/two-palestinian-brothers-killed-after-settler-runs-them-over)

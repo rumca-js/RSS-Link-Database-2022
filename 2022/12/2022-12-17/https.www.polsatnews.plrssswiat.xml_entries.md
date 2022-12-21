@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml
+# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
 
 ## Niespodziewany gość ukrył się w choince. Nagranie hitem internetu
  - [https://www.polsatnews.pl/wiadomosc/2022-12-17/niespodziewany-gosc-w-ukryl-sie-w-choince-nagranie-hitem-internetu/](https://www.polsatnews.pl/wiadomosc/2022-12-17/niespodziewany-gosc-w-ukryl-sie-w-choince-nagranie-hitem-internetu/)

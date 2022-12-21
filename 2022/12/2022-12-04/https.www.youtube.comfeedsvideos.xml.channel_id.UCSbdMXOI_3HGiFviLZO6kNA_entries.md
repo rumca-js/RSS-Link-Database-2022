@@ -1,10 +1,9 @@
-# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA
+# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, Source language: en-US
 
 ## Inside the Largest VR Game Publisher In Japan
  - [https://www.youtube.com/watch?v=qwblvGYFG30](https://www.youtube.com/watch?v=qwblvGYFG30)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA
  - date published: 2022-12-04 19:40:26+00:00
- - tags: None
 
 This is episode ONE of my series on Japan's VR Culture! I recently got to spend 8 days in Japan where I visit studios from around the country to showcase Japan and what it has to offer in terms of Virtual Reality! 
 

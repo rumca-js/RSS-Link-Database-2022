@@ -1,10 +1,16 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
+
+## Low-code and no-code apps spur new job descriptions for software developers
+ - [https://www.zdnet.com/article/low-code-and-no-code-apps-spur-new-job-descriptions-for-professional-developers/#ftag=RSSbaffb68](https://www.zdnet.com/article/low-code-and-no-code-apps-spur-new-job-descriptions-for-professional-developers/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2022-12-15 23:48:00+00:00
+
+As every company evolves into a software company, those adept at software will guide their businesses into this new state of existence -- a software culture.
 
 ## The 10 best power station deals: December 2022
  - [https://www.zdnet.com/home-and-office/power-station-deals/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/power-station-deals/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-15 22:54:00+00:00
- - Starred: False
 
 Power stations are the perfect off-grid or blackout power source. Pick up amazing holiday deals on backup power stations from top brands like EcoFlow, Bluetti, and more.
 
@@ -12,7 +18,6 @@ Power stations are the perfect off-grid or blackout power source. Pick up amazin
  - [https://www.zdnet.com/home-and-office/home-entertainment/oled-vs-led-whats-the-difference-and-is-one-better-than-the-other/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/oled-vs-led-whats-the-difference-and-is-one-better-than-the-other/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-15 22:11:50+00:00
- - Starred: False
 
 In the alphabet soup of display tech acronyms, OLED and LED are among the most commonly used. Let us explain how these seemingly similar technologies are actually very different, and help you decide which is best for you.
 
@@ -20,7 +25,6 @@ In the alphabet soup of display tech acronyms, OLED and LED are among the most c
  - [https://www.zdnet.com/article/how-to-split-your-screen-in-windows/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-split-your-screen-in-windows/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-15 21:57:21+00:00
- - Starred: False
 
 You can view and organize multiple apps in Windows, though the process is easier in Windows 11 than in Windows 10.
 
@@ -28,7 +32,6 @@ You can view and organize multiple apps in Windows, though the process is easier
  - [https://www.zdnet.com/article/windows-still-insecure-after-all-these-years/#ftag=RSSbaffb68](https://www.zdnet.com/article/windows-still-insecure-after-all-these-years/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-15 21:25:47+00:00
- - Starred: False
 
 OPINION: With every Windows release, Microsoft promises better security. And, sometimes, it makes improvements. But then, well then, we see truly ancient security holes show up yet again.
 
@@ -36,7 +39,6 @@ OPINION: With every Windows release, Microsoft promises better security. And, so
  - [https://www.zdnet.com/home-and-office/5-tech-gadgets-i-never-leave-home-without-and-they-make-great-gifts/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/5-tech-gadgets-i-never-leave-home-without-and-they-make-great-gifts/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-15 21:04:17+00:00
- - Starred: False
 
 My iPhone and Apple Watch aside, these five things are the gadgets that I make sure are with me every time I leave home.
 
@@ -44,7 +46,6 @@ My iPhone and Apple Watch aside, these five things are the gadgets that I make s
  - [https://www.zdnet.com/article/are-portable-monitors-worth-it-three-of-these-four-are-heres-why/#ftag=RSSbaffb68](https://www.zdnet.com/article/are-portable-monitors-worth-it-three-of-these-four-are-heres-why/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-15 20:53:45+00:00
- - Starred: False
 
 We look at four super-light portable monitors to help you understand where and how they're the most useful.
 
@@ -52,7 +53,6 @@ We look at four super-light portable monitors to help you understand where and h
  - [https://www.zdnet.com/article/what-is-a-bitwarden-secure-note-and-how-do-you-create-one/#ftag=RSSbaffb68](https://www.zdnet.com/article/what-is-a-bitwarden-secure-note-and-how-do-you-create-one/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-15 19:47:46+00:00
- - Starred: False
 
 Saving a secure note in a password manager is a great way to keep sensitive information locked in a vault. Bitwarden offers such a feature. Find out how to use it.
 
@@ -60,7 +60,6 @@ Saving a secure note in a password manager is a great way to keep sensitive info
  - [https://www.zdnet.com/home-and-office/home-entertainment/razer-nari-wireless-gaming-headset-deal-coupon-promo-code/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/razer-nari-wireless-gaming-headset-deal-coupon-promo-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-15 19:45:00+00:00
- - Starred: False
 
 The price has been fluctuating for a few days, but it's back down to its lowest price to date. Grab this time-sensitive deal fast.
 
@@ -68,7 +67,6 @@ The price has been fluctuating for a few days, but it's back down to its lowest 
  - [https://www.zdnet.com/article/ipad-pro-deals/#ftag=RSSbaffb68](https://www.zdnet.com/article/ipad-pro-deals/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-15 19:36:00+00:00
- - Starred: False
 
 A range of Apple iPad Pro tablets, each with different specifications, are currently on sale. Here are the best iPad Pro deals for the holidays, including one for $400 off a 12.9-inch model.
 
@@ -76,7 +74,6 @@ A range of Apple iPad Pro tablets, each with different specifications, are curre
  - [https://www.zdnet.com/article/what-is-slack-connect-and-how-do-you-use-it/#ftag=RSSbaffb68](https://www.zdnet.com/article/what-is-slack-connect-and-how-do-you-use-it/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-15 18:58:00+00:00
- - Starred: False
 
 Slack includes a very handy feature for those who need to connect with people outside of your company. Find out what Slack Connect is and how it can be used to expand your collaborative reach.
 
@@ -84,7 +81,6 @@ Slack includes a very handy feature for those who need to connect with people ou
  - [https://www.zdnet.com/home-and-office/smart-home/robot-vacuum-deal-shark-iq-sale/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/robot-vacuum-deal-shark-iq-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-15 18:57:00+00:00
- - Starred: False
 
 Don't let the refurbished in the fine print scare you. This top-notch robot vacuum will leave your floors spotless.
 
@@ -92,7 +88,6 @@ Don't let the refurbished in the fine print scare you. This top-notch robot vacu
  - [https://www.zdnet.com/article/airpods-deals/#ftag=RSSbaffb68](https://www.zdnet.com/article/airpods-deals/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-15 17:51:00+00:00
- - Starred: False
 
 AirPods are on everyone's wishlist. The buds that rarely go on sale are still spreading holiday cheer through savings and their renowned sound quality. Here are the best AirPods deals we found for this holiday season.
 
@@ -100,7 +95,6 @@ AirPods are on everyone's wishlist. The buds that rarely go on sale are still sp
  - [https://www.zdnet.com/home-and-office/kitchen-household/best-stem-toys-for-kids/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/kitchen-household/best-stem-toys-for-kids/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-15 17:44:00+00:00
- - Starred: False
 
 Who said learning can't also be fun? The best STEM toys can expand knowledge by learning something new, along with keeping children entertained and occupied.
 
@@ -108,7 +102,6 @@ Who said learning can't also be fun? The best STEM toys can expand knowledge by 
  - [https://www.zdnet.com/article/iphone-deals/#ftag=RSSbaffb68](https://www.zdnet.com/article/iphone-deals/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-15 17:38:00+00:00
- - Starred: False
 
 This holiday season, retailers and carriers are offering promotions on the new iPhone 14 line. You can also score an excellent discount on previous models.
 
@@ -116,7 +109,6 @@ This holiday season, retailers and carriers are offering promotions on the new i
  - [https://www.zdnet.com/article/smartphone-deals/#ftag=RSSbaffb68](https://www.zdnet.com/article/smartphone-deals/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-15 16:11:00+00:00
- - Starred: False
 
 Look to these holiday promotions on the latest iPhones, Androids, and more across major retailers.
 
@@ -124,7 +116,6 @@ Look to these holiday promotions on the latest iPhones, Androids, and more acros
  - [https://www.zdnet.com/article/she-wanted-to-help-her-moms-business-all-it-took-was-10-seconds-of-social-media/#ftag=RSSbaffb68](https://www.zdnet.com/article/she-wanted-to-help-her-moms-business-all-it-took-was-10-seconds-of-social-media/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-15 15:16:00+00:00
- - Starred: False
 
 You want some hope as the year ends? Here's just a little.
 
@@ -132,7 +123,6 @@ You want some hope as the year ends? Here's just a little.
  - [https://www.zdnet.com/article/ipad-deals/#ftag=RSSbaffb68](https://www.zdnet.com/article/ipad-deals/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-15 15:14:00+00:00
- - Starred: False
 
 Apple rarely has deals or sales, but some iPad models are still discounted by hundreds of dollars for the holiday season. These are the best iPad deals that we could find.
 
@@ -140,7 +130,6 @@ Apple rarely has deals or sales, but some iPad models are still discounted by hu
  - [https://www.zdnet.com/home-and-office/smart-home/google-announces-nest-and-android-devices-are-matter-enabled/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/google-announces-nest-and-android-devices-are-matter-enabled/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-15 15:01:00+00:00
- - Starred: False
 
 Even if the launch of Matter came with many bumps on the road that caused delays, the adage that good things come to those who wait rings true ahead of 2023.
 
@@ -148,7 +137,6 @@ Even if the launch of Matter came with many bumps on the road that caused delays
  - [https://www.zdnet.com/article/walmart-deals/#ftag=RSSbaffb68](https://www.zdnet.com/article/walmart-deals/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-15 14:39:00+00:00
- - Starred: False
 
 Walmart launched great tech deals on the run-up to Christmas and holiday celebrations. You can save on the best gifts while making Walmart your one-stop shop.
 
@@ -156,7 +144,6 @@ Walmart launched great tech deals on the run-up to Christmas and holiday celebra
  - [https://www.zdnet.com/article/best-last-minute-tech-gifts-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-last-minute-tech-gifts-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-15 13:20:00+00:00
- - Starred: False
 
 The ZDNET team will help you find the best deals on awesome tech products for everyone on your shopping list.
 
@@ -164,7 +151,6 @@ The ZDNET team will help you find the best deals on awesome tech products for ev
  - [https://www.zdnet.com/article/prosecutors-charge-six-seizes-48-domains-over-ddos-for-hire-services/#ftag=RSSbaffb68](https://www.zdnet.com/article/prosecutors-charge-six-seizes-48-domains-over-ddos-for-hire-services/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-15 12:47:00+00:00
- - Starred: False
 
 The Department of Justice has filed criminal charges against six people for allegedly renting out sites that were used to block targets' access to the internet.
 
@@ -172,7 +158,6 @@ The Department of Justice has filed criminal charges against six people for alle
  - [https://www.zdnet.com/article/forget-the-moon-nasas-next-big-mission-is-a-lot-closer-to-home/#ftag=RSSbaffb68](https://www.zdnet.com/article/forget-the-moon-nasas-next-big-mission-is-a-lot-closer-to-home/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-15 12:22:00+00:00
- - Starred: False
 
 The Surface Water and Ocean Topography (SWOT) satellite will observe nearly all water on Earth's surface, helping people on the coasts and inland better prepare for the effects of climate change.
 
@@ -180,7 +165,6 @@ The Surface Water and Ocean Topography (SWOT) satellite will observe nearly all 
  - [https://www.zdnet.com/home-and-office/work-life/remote-work-habits-are-changing-again-that-doesnt-mean-employees-are-less-engaged/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/work-life/remote-work-habits-are-changing-again-that-doesnt-mean-employees-are-less-engaged/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-15 11:53:53+00:00
- - Starred: False
 
 A Harvard Business Review study looks at how meetings have changed and what the shift means for employee engagement.
 
@@ -188,7 +172,6 @@ A Harvard Business Review study looks at how meetings have changed and what the 
  - [https://www.zdnet.com/home-and-office/save-on-jabras-elite-7-pro-earbuds-deal-sale-coupon-code/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/save-on-jabras-elite-7-pro-earbuds-deal-sale-coupon-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-15 07:15:57+00:00
- - Starred: False
 
 Jabra's wireless earbuds are best suited for those who want to combine streaming and calls with ANC. You can take advantage of a $100 discount ahead of the holidays.
 
@@ -196,7 +179,6 @@ Jabra's wireless earbuds are best suited for those who want to combine streaming
  - [https://www.zdnet.com/article/best-linux-laptop/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-linux-laptop/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-15 02:12:00+00:00
- - Starred: False
 
 If you're in the market for a Linux laptop, you have plenty of options. But which is the best? We did an in-depth analysis to compile a list of the best options on the market.
 
@@ -204,7 +186,6 @@ If you're in the market for a Linux laptop, you have plenty of options. But whic
  - [https://www.zdnet.com/article/amazon-deals/#ftag=RSSbaffb68](https://www.zdnet.com/article/amazon-deals/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-15 01:52:00+00:00
- - Starred: False
 
 Amazon's Cyber Monday 2022 came and went, but the deals are still going strong. Shop deals and score big savings on top tech items and gifts.
 
@@ -212,7 +193,6 @@ Amazon's Cyber Monday 2022 came and went, but the deals are still going strong. 
  - [https://www.zdnet.com/article/gaming-laptop-deals/#ftag=RSSbaffb68](https://www.zdnet.com/article/gaming-laptop-deals/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-15 01:51:00+00:00
- - Starred: False
 
 Gaming laptops offer the best graphics cards out there. Take advantage of some awesome deals this holiday season and get a new gaming laptop without breaking the bank.
 
@@ -220,7 +200,6 @@ Gaming laptops offer the best graphics cards out there. Take advantage of some a
  - [https://www.zdnet.com/article/headphone-deals/#ftag=RSSbaffb68](https://www.zdnet.com/article/headphone-deals/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-15 01:47:00+00:00
- - Starred: False
 
 Thanksgiving, Black Friday and Cyber Monday may be over, but holiday shopping is far from it. Luckily, the best part about Thanksgiving is the leftovers -- and here are the best leftover holiday deals on headphones and wireless earbuds.
 
@@ -228,7 +207,6 @@ Thanksgiving, Black Friday and Cyber Monday may be over, but holiday shopping is
  - [https://www.zdnet.com/article/articlebest-headphones-for-working-out/#ftag=RSSbaffb68](https://www.zdnet.com/article/articlebest-headphones-for-working-out/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-15 01:45:00+00:00
- - Starred: False
 
 With a good pair of headphones, working out can sometimes feel like a breeze. That's why we collected the best headphones for working out so we can all workout efficiently while burning off those holiday calories.
 
@@ -236,6 +214,5 @@ With a good pair of headphones, working out can sometimes feel like a breeze. Th
  - [https://www.zdnet.com/article/nasas-next-mission-will-deliver-an-unprecedented-look-at-all-of-the-water-on-earth/#ftag=RSSbaffb68](https://www.zdnet.com/article/nasas-next-mission-will-deliver-an-unprecedented-look-at-all-of-the-water-on-earth/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-15 00:08:28+00:00
- - Starred: False
 
 The Surface Water and Ocean Topography (SWOT) satellite will observe nearly all water on Earth's surface, helping people on the coasts and inland better prepare for the effects of climate change.

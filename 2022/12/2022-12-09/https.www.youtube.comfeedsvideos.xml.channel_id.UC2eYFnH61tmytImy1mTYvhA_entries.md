@@ -1,10 +1,9 @@
-# Source Luke Smith - YouTube, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA
+# Source Luke Smith - YouTube, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA, Source language: en-US
 
 ## Luke Smith: The Return to Normalcy - (Live interview by Justin Murphy)
  - [https://www.youtube.com/watch?v=VcHW0mpi9y8](https://www.youtube.com/watch?v=VcHW0mpi9y8)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA
  - date published: 2022-12-09 20:00:22+00:00
- - tags: None
 
 Justin Murphy invited me to California for a weekend to do that interview that we've been meaning to do since 4 years ago! We talk about why I left academia, epistemological anarchism, Orthodoxy Christianity, the Enlightenment and lots of questions about lifestyles for people who are contemplating being future ex-"bugmen" and ex-academics.
 

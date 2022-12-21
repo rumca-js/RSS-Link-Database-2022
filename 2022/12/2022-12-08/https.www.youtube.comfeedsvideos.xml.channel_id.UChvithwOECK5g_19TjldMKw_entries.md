@@ -1,10 +1,9 @@
-# Source Laowhy86, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UChvithwOECK5g_19TjldMKw
+# Source Laowhy86, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UChvithwOECK5g_19TjldMKw, Source language: en-US
 
 ## The Chinese Government is Really Stupid
  - [https://www.youtube.com/watch?v=02XANGgQjQs](https://www.youtube.com/watch?v=02XANGgQjQs)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UChvithwOECK5g_19TjldMKw
  - date published: 2022-12-08 18:03:17+00:00
- - tags: None
 
 Get up to 40% off all orders - Christmas sale!!!
 Get the best wallet in the world at http://shop.ekster.com/laowhy86

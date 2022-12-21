@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## Spider-Man: Across the Spider-Verse trailer wows with 6 distinct animation styles
  - [https://arstechnica.com/?p=1904060](https://arstechnica.com/?p=1904060)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-13 23:59:20+00:00
- - tags: None
 
 Another sequel is already in the works, along with a Spider-Woman spinoff film.
 
@@ -12,7 +11,6 @@ Another sequel is already in the works, along with a Spider-Woman spinoff film.
  - [https://arstechnica.com/?p=1904087](https://arstechnica.com/?p=1904087)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-13 23:36:06+00:00
- - tags: None
 
 Early reports said the app unwantedly sexualized depictions of women using the app.
 
@@ -20,7 +18,6 @@ Early reports said the app unwantedly sexualized depictions of women using the a
  - [https://arstechnica.com/?p=1904154](https://arstechnica.com/?p=1904154)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-13 23:11:07+00:00
- - tags: None
 
 Lawmakers liken TikTok's widening influence in the US to "digital fentanyl."
 
@@ -28,7 +25,6 @@ Lawmakers liken TikTok's widening influence in the US to "digital fentanyl."
  - [https://arstechnica.com/?p=1904142](https://arstechnica.com/?p=1904142)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-13 22:44:51+00:00
- - tags: None
 
 iPhone 6S, iPhone 7, and the last iPod Touch shift to security-only update model.
 
@@ -36,7 +32,6 @@ iPhone 6S, iPhone 7, and the last iPod Touch shift to security-only update model
  - [https://arstechnica.com/?p=1904133](https://arstechnica.com/?p=1904133)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-13 22:13:20+00:00
- - tags: None
 
 Europe's Digital Markets Act was the catalyst.
 
@@ -44,7 +39,6 @@ Europe's Digital Markets Act was the catalyst.
  - [https://arstechnica.com/?p=1904161](https://arstechnica.com/?p=1904161)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-13 21:34:55+00:00
- - tags: None
 
 Patients left in "mental anguish" wondering "whether they needed a surgery."
 
@@ -52,7 +46,6 @@ Patients left in "mental anguish" wondering "whether they needed a surgery."
  - [https://arstechnica.com/?p=1904163](https://arstechnica.com/?p=1904163)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-13 21:17:27+00:00
- - tags: None
 
 Code-signing is supposed to make people safer. In this case, it made them less so.
 
@@ -60,7 +53,6 @@ Code-signing is supposed to make people safer. In this case, it made them less s
  - [https://arstechnica.com/?p=1904076](https://arstechnica.com/?p=1904076)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-13 20:27:03+00:00
- - tags: None
 
 Smaller updates for watchOS, tvOS, and HomePod software are also available.
 
@@ -68,7 +60,6 @@ Smaller updates for watchOS, tvOS, and HomePod software are also available.
  - [https://arstechnica.com/?p=1904047](https://arstechnica.com/?p=1904047)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-13 20:16:30+00:00
- - tags: None
 
 Get $100-$150 off a Pixel phone, $50 off the watch, $10 off a Chromecast.
 
@@ -76,7 +67,6 @@ Get $100-$150 off a Pixel phone, $50 off the watch, $10 off a Chromecast.
  - [https://arstechnica.com/?p=1904074](https://arstechnica.com/?p=1904074)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-13 20:08:03+00:00
- - tags: None
 
 One PC gaming pro gained more than 60 percent in frames per second by killing it.
 
@@ -84,7 +74,6 @@ One PC gaming pro gained more than 60 percent in frames per second by killing it
  - [https://arstechnica.com/?p=1903746](https://arstechnica.com/?p=1903746)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-13 19:55:46+00:00
- - tags: None
 
 Working with Congress? "It's easy as pie."
 
@@ -92,7 +81,6 @@ Working with Congress? "It's easy as pie."
  - [https://arstechnica.com/?p=1904085](https://arstechnica.com/?p=1904085)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-13 19:21:40+00:00
- - tags: None
 
 Add to a charity haul that has raised over $6,500 in just 5 days.
 
@@ -100,7 +88,6 @@ Add to a charity haul that has raised over $6,500 in just 5 days.
  - [https://arstechnica.com/?p=1904081](https://arstechnica.com/?p=1904081)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-13 19:15:17+00:00
- - tags: None
 
 Two megajoules of laser yielded three megajoules of fusion energy.
 
@@ -108,7 +95,6 @@ Two megajoules of laser yielded three megajoules of fusion energy.
  - [https://arstechnica.com/?p=1904022](https://arstechnica.com/?p=1904022)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-13 17:30:06+00:00
- - tags: None
 
 FTX founder charged with fraud, money laundering, campaign finance violations.
 
@@ -116,7 +102,6 @@ FTX founder charged with fraud, money laundering, campaign finance violations.
  - [https://arstechnica.com/?p=1904032](https://arstechnica.com/?p=1904032)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-13 16:51:31+00:00
- - tags: None
 
 Shots also cut millions of hospitalizations and $1.5 trillion in medical bills.
 
@@ -124,7 +109,6 @@ Shots also cut millions of hospitalizations and $1.5 trillion in medical bills.
  - [https://arstechnica.com/?p=1904016](https://arstechnica.com/?p=1904016)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-13 16:29:34+00:00
- - tags: None
 
 Twitter thanks the council for their service, while members fear retaliation.
 
@@ -132,7 +116,6 @@ Twitter thanks the council for their service, while members fear retaliation.
  - [https://arstechnica.com/?p=1903986](https://arstechnica.com/?p=1903986)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-13 14:50:01+00:00
- - tags: None
 
 The United Arab Emirates is a founding member of the Artemis Accords.
 
@@ -140,7 +123,6 @@ The United Arab Emirates is a founding member of the Artemis Accords.
  - [https://arstechnica.com/?p=1903995](https://arstechnica.com/?p=1903995)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-13 14:26:14+00:00
- - tags: None
 
 Beijing defends "legitimate rights" in response to Washington’s semiconductor controls.
 
@@ -148,7 +130,6 @@ Beijing defends "legitimate rights" in response to Washington’s semiconductor 
  - [https://arstechnica.com/?p=1903745](https://arstechnica.com/?p=1903745)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-13 14:00:14+00:00
- - tags: None
 
 Windows 11 and 10 only.
 
@@ -156,7 +137,6 @@ Windows 11 and 10 only.
  - [https://arstechnica.com/?p=1903885](https://arstechnica.com/?p=1903885)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-13 14:00:09+00:00
- - tags: None
 
 Behind the scenes at Honda’s VR studio and its "Google Built-In" experience.
 
@@ -164,7 +144,6 @@ Behind the scenes at Honda’s VR studio and its "Google Built-In" experience.
  - [https://arstechnica.com/?p=1903641](https://arstechnica.com/?p=1903641)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-13 01:00:18+00:00
- - tags: None
 
 The collaboration may seem odd, but it made sense after we drove it.
 
@@ -172,6 +151,5 @@ The collaboration may seem odd, but it made sense after we drove it.
  - [https://arstechnica.com/?p=1903012](https://arstechnica.com/?p=1903012)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-13 00:11:14+00:00
- - tags: None
 
 Analysis re-ignites debate over existence of 3rd century CE emperor named Sponsian.

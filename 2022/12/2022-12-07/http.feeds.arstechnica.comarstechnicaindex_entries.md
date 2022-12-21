@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## New kilonova has astronomers rethinking what we know about gamma-ray bursts
  - [https://arstechnica.com/?p=1902420](https://arstechnica.com/?p=1902420)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-07 23:44:06+00:00
- - tags: None
 
 Long gamma-ray burst stems from neutron star merger, not usual supernova explosion.
 
@@ -12,7 +11,6 @@ Long gamma-ray burst stems from neutron star merger, not usual supernova explosi
  - [https://arstechnica.com/?p=1902843](https://arstechnica.com/?p=1902843)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-07 23:18:59+00:00
- - tags: None
 
 Balwani was convicted in July on all 12 counts of fraud related to Theranos.
 
@@ -20,7 +18,6 @@ Balwani was convicted in July on all 12 counts of fraud related to Theranos.
  - [https://arstechnica.com/?p=1902801](https://arstechnica.com/?p=1902801)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-07 22:13:16+00:00
- - tags: None
 
 It remains unclear what the hospital's marketing director was doing with the guns.
 
@@ -28,7 +25,6 @@ It remains unclear what the hospital's marketing director was doing with the gun
  - [https://arstechnica.com/?p=1902795](https://arstechnica.com/?p=1902795)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-07 21:57:24+00:00
- - tags: None
 
 DNA left behind during a warm period is viable 2 million years later.
 
@@ -36,7 +32,6 @@ DNA left behind during a warm period is viable 2 million years later.
  - [https://arstechnica.com/?p=1902785](https://arstechnica.com/?p=1902785)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-07 21:29:24+00:00
- - tags: None
 
 AG: Amazon has so far "escaped appropriate accountability" for consumer harm.
 
@@ -44,7 +39,6 @@ AG: Amazon has so far "escaped appropriate accountability" for consumer harm.
  - [https://arstechnica.com/?p=1902749](https://arstechnica.com/?p=1902749)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-07 20:39:20+00:00
- - tags: None
 
 Company abandons its plans for CSAM scanning, too.
 
@@ -52,7 +46,6 @@ Company abandons its plans for CSAM scanning, too.
  - [https://arstechnica.com/?p=1902697](https://arstechnica.com/?p=1902697)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-07 19:23:15+00:00
- - tags: None
 
 5 minutes of your time would really help us out. Yes, you! Share thy thoughts.
 
@@ -60,7 +53,6 @@ Company abandons its plans for CSAM scanning, too.
  - [https://arstechnica.com/?p=1902735](https://arstechnica.com/?p=1902735)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-07 18:45:26+00:00
- - tags: None
 
 Rise seen as another aftereffect of the pandemic disrupting disease transmission.
 
@@ -68,7 +60,6 @@ Rise seen as another aftereffect of the pandemic disrupting disease transmission
  - [https://arstechnica.com/?p=1902684](https://arstechnica.com/?p=1902684)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-07 18:26:15+00:00
- - tags: None
 
 Explosive robots were approved for the SFPD arsenal, then the protests started.
 
@@ -76,7 +67,6 @@ Explosive robots were approved for the SFPD arsenal, then the protests started.
  - [https://arstechnica.com/?p=1902704](https://arstechnica.com/?p=1902704)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-07 18:18:59+00:00
- - tags: None
 
 Promoted tweets from "roughly 40 brands" appeared near extremist posts.
 
@@ -84,7 +74,6 @@ Promoted tweets from "roughly 40 brands" appeared near extremist posts.
  - [https://arstechnica.com/?p=1902653](https://arstechnica.com/?p=1902653)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-07 18:06:14+00:00
- - tags: None
 
 Latest beta driver can boost speeds of some DirectX9 games by 50 to 80 percent.
 
@@ -92,7 +81,6 @@ Latest beta driver can boost speeds of some DirectX9 games by 50 to 80 percent.
  - [https://arstechnica.com/?p=1902673](https://arstechnica.com/?p=1902673)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-07 17:46:25+00:00
- - tags: None
 
 It's limited to desktops and older games, but Asahi has made real progress.
 
@@ -100,7 +88,6 @@ It's limited to desktops and older games, but Asahi has made real progress.
  - [https://arstechnica.com/?p=1902669](https://arstechnica.com/?p=1902669)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-07 17:10:05+00:00
- - tags: None
 
 Agreement also extends to continued Steam support for the ultra-popular shooter.
 
@@ -108,7 +95,6 @@ Agreement also extends to continued Steam support for the ultra-popular shooter.
  - [https://arstechnica.com/?p=1902632](https://arstechnica.com/?p=1902632)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-07 16:00:24+00:00
- - tags: None
 
 There’s a lot going on in the first 12 hours of the upcoming horror-fantasy RPG.
 
@@ -116,7 +102,6 @@ There’s a lot going on in the first 12 hours of the upcoming horror-fantasy RP
  - [https://arstechnica.com/?p=1902630](https://arstechnica.com/?p=1902630)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-07 15:15:15+00:00
- - tags: None
 
 Existing engine designs can be modified to allow hydrogen injection.
 
@@ -124,7 +109,6 @@ Existing engine designs can be modified to allow hydrogen injection.
  - [https://arstechnica.com/?p=1902246](https://arstechnica.com/?p=1902246)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-07 13:50:29+00:00
- - tags: None
 
 "Come toward me, baby! Looks like it’s moving... Don’t run over me!"
 
@@ -132,7 +116,6 @@ Existing engine designs can be modified to allow hydrogen injection.
  - [https://arstechnica.com/?p=1902604](https://arstechnica.com/?p=1902604)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-07 13:22:08+00:00
- - tags: None
 
 Squad says in sunny climes like Las Vegas you may never need to charge it.
 
@@ -140,7 +123,6 @@ Squad says in sunny climes like Las Vegas you may never need to charge it.
  - [https://arstechnica.com/?p=1902595](https://arstechnica.com/?p=1902595)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-07 12:30:33+00:00
- - tags: None
 
 Elysium Planitia may be best explained by the same process that powers Yellowstone.
 
@@ -148,7 +130,6 @@ Elysium Planitia may be best explained by the same process that powers Yellowsto
  - [https://arstechnica.com/?p=1889876](https://arstechnica.com/?p=1889876)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-07 12:00:22+00:00
- - tags: None
 
 Louder, lighter, and better-looking than your typical 13-inch XPS laptop.
 
@@ -156,6 +137,5 @@ Louder, lighter, and better-looking than your typical 13-inch XPS laptop.
  - [https://arstechnica.com/?p=1902479](https://arstechnica.com/?p=1902479)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-07 00:00:51+00:00
- - tags: None
 
 The evolution of this weapon may have had little to do with threats from predators.

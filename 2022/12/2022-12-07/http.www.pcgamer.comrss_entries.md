@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## Destiny 2 game director responds to complaints about player burnout
  - [https://www.pcgamer.com/destiny-2-game-director-responds-to-complaints-about-player-burnout](https://www.pcgamer.com/destiny-2-game-director-responds-to-complaints-about-player-burnout)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 21:33:24+00:00
- - tags: None
 
 The community has been complaining about the seasonal model for a while, and the Bungie boss wants you to know it's being heard.
 
@@ -12,7 +11,6 @@ The community has been complaining about the seasonal model for a while, and the
  - [https://www.pcgamer.com/thousands-fooled-by-fifa-23-matches-masquerading-as-pirate-world-cup-streams](https://www.pcgamer.com/thousands-fooled-by-fifa-23-matches-masquerading-as-pirate-world-cup-streams)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 21:12:25+00:00
- - tags: None
 
 Sneaky YouTubers are pretending their simulated football games are actually the World Cup.
 
@@ -20,7 +18,6 @@ Sneaky YouTubers are pretending their simulated football games are actually the 
  - [https://www.pcgamer.com/microsoft-has-been-working-on-tabbed-browsing-for-almost-30-years](https://www.pcgamer.com/microsoft-has-been-working-on-tabbed-browsing-for-almost-30-years)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 20:38:09+00:00
- - tags: None
 
 The best quality-of-life feature has been around since the early 90s.
 
@@ -28,7 +25,6 @@ The best quality-of-life feature has been around since the early 90s.
  - [https://www.pcgamer.com/this-new-strategy-base-building-game-has-a-twist-cure-the-zombie-hordes-instead-of-killing-them](https://www.pcgamer.com/this-new-strategy-base-building-game-has-a-twist-cure-the-zombie-hordes-instead-of-killing-them)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 20:35:42+00:00
- - tags: None
 
 In Zombie Cure Lab you build an elaborate base and use science to turn feral zeds back into helpful humans.
 
@@ -36,7 +32,6 @@ In Zombie Cure Lab you build an elaborate base and use science to turn feral zed
  - [https://www.pcgamer.com/game-awards-2022-rumors-reveals](https://www.pcgamer.com/game-awards-2022-rumors-reveals)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 19:56:51+00:00
- - tags: None
 
 The games and announcements to expect during this Thursday's Game Awards livestream.
 
@@ -44,7 +39,6 @@ The games and announcements to expect during this Thursday's Game Awards livestr
  - [https://www.pcgamer.com/this-platformer-jrpgs-amateurish-art-hides-one-of-2022s-best-and-wildest-sleeper-hits](https://www.pcgamer.com/this-platformer-jrpgs-amateurish-art-hides-one-of-2022s-best-and-wildest-sleeper-hits)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 18:37:32+00:00
- - tags: None
 
 Astlibra Revision is a bizarre-looking platform JRPG. But when you play it, you'll see why it's become a huge hit on Steam.
 
@@ -52,7 +46,6 @@ Astlibra Revision is a bizarre-looking platform JRPG. But when you play it, you'
  - [https://www.pcgamer.com/dwarf-fortress-hit-its-2-month-sales-estimate-in-under-24-hours](https://www.pcgamer.com/dwarf-fortress-hit-its-2-month-sales-estimate-in-under-24-hours)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 17:54:25+00:00
- - tags: None
 
 I guess losing really is fun.
 
@@ -60,7 +53,6 @@ I guess losing really is fun.
  - [https://www.pcgamer.com/world-of-warcraft-dragonflight-shaking-our-foundations](https://www.pcgamer.com/world-of-warcraft-dragonflight-shaking-our-foundations)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 17:38:54+00:00
- - tags: None
 
 Where to find Stonewrecker Tokara and Molka the Grinder.
 
@@ -68,7 +60,6 @@ Where to find Stonewrecker Tokara and Molka the Grinder.
  - [https://www.pcgamer.com/disney-dreamlight-valley-how-to-get-buzz-woody](https://www.pcgamer.com/disney-dreamlight-valley-how-to-get-buzz-woody)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 17:21:27+00:00
- - tags: None
 
 You've got a playdate with destiny.
 
@@ -76,7 +67,6 @@ You've got a playdate with destiny.
  - [https://www.pcgamer.com/blizzard-please-make-dragonriding-a-permanent-addition-to-world-of-warcraft](https://www.pcgamer.com/blizzard-please-make-dragonriding-a-permanent-addition-to-world-of-warcraft)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 17:08:16+00:00
- - tags: None
 
 It's too good to be limited to one expansion and one location.
 
@@ -84,7 +74,6 @@ It's too good to be limited to one expansion and one location.
  - [https://www.pcgamer.com/epic-games-is-introducing-a-new-child-friendly-account-type-to-make-online-play-safer](https://www.pcgamer.com/epic-games-is-introducing-a-new-child-friendly-account-type-to-make-online-play-safer)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 17:07:55+00:00
- - tags: None
 
 Fortnite, Rocket League and Fall Guys will take advantage of new "cabined accounts."
 
@@ -92,7 +81,6 @@ Fortnite, Rocket League and Fall Guys will take advantage of new "cabined accoun
  - [https://www.pcgamer.com/need-for-speed-unbound-review](https://www.pcgamer.com/need-for-speed-unbound-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 16:30:52+00:00
- - tags: None
 
 The venerable racer returns, in zoomer regalia.
 
@@ -100,7 +88,6 @@ The venerable racer returns, in zoomer regalia.
  - [https://www.pcgamer.com/destiny-2-rose-hand-cannon](https://www.pcgamer.com/destiny-2-rose-hand-cannon)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 16:27:22+00:00
- - tags: None
 
 Claim this classic Crucible hand cannon for yourself.
 
@@ -108,7 +95,6 @@ Claim this classic Crucible hand cannon for yourself.
  - [https://www.pcgamer.com/microsoft-encourages-strong-cyber-hygiene-in-light-of-increasing-russian-cyberattacks](https://www.pcgamer.com/microsoft-encourages-strong-cyber-hygiene-in-light-of-increasing-russian-cyberattacks)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 16:01:02+00:00
- - tags: None
 
 Microsoft has issued a plan to thwart the upcoming winter onslaught.
 
@@ -116,7 +102,6 @@ Microsoft has issued a plan to thwart the upcoming winter onslaught.
  - [https://www.pcgamer.com/diablo-4-preview](https://www.pcgamer.com/diablo-4-preview)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 16:00:28+00:00
- - tags: None
 
 Blizzard's long-awaited sequel is extroadinarily satisfying to play within minutes.
 
@@ -124,7 +109,6 @@ Blizzard's long-awaited sequel is extroadinarily satisfying to play within minut
  - [https://www.pcgamer.com/new-fractal-design-pc-its-partly-wood](https://www.pcgamer.com/new-fractal-design-pc-its-partly-wood)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 15:57:03+00:00
- - tags: None
 
 Gen-u-ine oak or walnut are your options.
 
@@ -132,7 +116,6 @@ Gen-u-ine oak or walnut are your options.
  - [https://www.pcgamer.com/elden-ring-colosseum-locations-pvp](https://www.pcgamer.com/elden-ring-colosseum-locations-pvp)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 15:33:55+00:00
- - tags: None
 
 How to reach the colosseums and what PvP modes they offer.
 
@@ -140,7 +123,6 @@ How to reach the colosseums and what PvP modes they offer.
  - [https://www.pcgamer.com/lgbt-propaganda-in-films-tv-games-now-banned-for-all-russians-not-just-minors](https://www.pcgamer.com/lgbt-propaganda-in-films-tv-games-now-banned-for-all-russians-not-just-minors)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 15:13:03+00:00
- - tags: None
 
 Putin signed the bill into law on December 5.
 
@@ -148,7 +130,6 @@ Putin signed the bill into law on December 5.
  - [https://www.pcgamer.com/destiny-2-override-frequency-locations](https://www.pcgamer.com/destiny-2-override-frequency-locations)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 14:19:01+00:00
- - tags: None
 
 Find these floating objects to get Seventh Seraph weapons.
 
@@ -156,7 +137,6 @@ Find these floating objects to get Seventh Seraph weapons.
  - [https://www.pcgamer.com/sonic-co-creator-arrested-a-second-time-for-even-more-insider-trading-shenanigans](https://www.pcgamer.com/sonic-co-creator-arrested-a-second-time-for-even-more-insider-trading-shenanigans)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 14:03:28+00:00
- - tags: None
 
 This time it's for Final Fantasy 7: The First Soldier.
 
@@ -164,7 +144,6 @@ This time it's for Final Fantasy 7: The First Soldier.
  - [https://www.pcgamer.com/ai-art-generated-by-the-malware-behind-the-cyberattacks-on-ukraine-is-necessarily-grim-and-very-wormy](https://www.pcgamer.com/ai-art-generated-by-the-malware-behind-the-cyberattacks-on-ukraine-is-necessarily-grim-and-very-wormy)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 13:04:29+00:00
- - tags: None
 
 Of course AI art generated with malware was going to come with a dark backstory.
 
@@ -172,7 +151,6 @@ Of course AI art generated with malware was going to come with a dark backstory.
  - [https://www.pcgamer.com/tsmc-upgrades-arizona-fab-to-3nm-but-high-end-gpu-production-still-unlikely](https://www.pcgamer.com/tsmc-upgrades-arizona-fab-to-3nm-but-high-end-gpu-production-still-unlikely)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 12:56:32+00:00
- - tags: None
 
 Some GPU production to return to US soil after decades.
 
@@ -180,7 +158,6 @@ Some GPU production to return to US soil after decades.
  - [https://www.pcgamer.com/the-history-of-the-race-to-world-first-in-world-of-warcraft](https://www.pcgamer.com/the-history-of-the-race-to-world-first-in-world-of-warcraft)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 12:19:10+00:00
- - tags: None
 
 Brush up on the RWF history ready for the new race next week.
 
@@ -188,7 +165,6 @@ Brush up on the RWF history ready for the new race next week.
  - [https://www.pcgamer.com/microsoft-makes-10-year-cod-commitment-to-steam-and-nintendo-in-a-deal-thats-really-about-sony](https://www.pcgamer.com/microsoft-makes-10-year-cod-commitment-to-steam-and-nintendo-in-a-deal-thats-really-about-sony)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 11:52:31+00:00
- - tags: None
 
 These corporate manoeuvres are reaching Holy Roman Empire levels of political complexity at this point.
 
@@ -196,7 +172,6 @@ These corporate manoeuvres are reaching Holy Roman Empire levels of political co
  - [https://www.pcgamer.com/intel-arc-graphics-beta-driver-delivers-up-to-80-more-performance-in-dx9-games](https://www.pcgamer.com/intel-arc-graphics-beta-driver-delivers-up-to-80-more-performance-in-dx9-games)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 11:20:13+00:00
- - tags: None
 
 Intel finally gives Arc native DX9 rendering, but only in some games.
 
@@ -204,7 +179,6 @@ Intel finally gives Arc native DX9 rendering, but only in some games.
  - [https://www.pcgamer.com/kung-fu-brawler-sifu-is-being-turned-into-a-live-action-movie](https://www.pcgamer.com/kung-fu-brawler-sifu-is-being-turned-into-a-live-action-movie)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 10:08:38+00:00
- - tags: None
 
 Sloclap's beat 'em up is hitting the big screen.
 
@@ -212,7 +186,6 @@ Sloclap's beat 'em up is hitting the big screen.
  - [https://www.pcgamer.com/bitfenix-nova-pc-case-review](https://www.pcgamer.com/bitfenix-nova-pc-case-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 09:46:17+00:00
- - tags: None
 
 Storage galore but nothing more.
 
@@ -220,7 +193,6 @@ Storage galore but nothing more.
  - [https://www.pcgamer.com/aerocool-tomahawk-pc-case-review](https://www.pcgamer.com/aerocool-tomahawk-pc-case-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 09:46:14+00:00
- - tags: None
 
 A cheap chassis that isn't quite up to standard.
 
@@ -228,7 +200,6 @@ A cheap chassis that isn't quite up to standard.
  - [https://www.pcgamer.com/kolink-nimbus-pc-case-review](https://www.pcgamer.com/kolink-nimbus-pc-case-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 09:46:12+00:00
- - tags: None
 
 A better put-together budget case that could do with one more fan.
 
@@ -236,7 +207,6 @@ A better put-together budget case that could do with one more fan.
  - [https://www.pcgamer.com/kolink-inspire-k11-pc-case-review](https://www.pcgamer.com/kolink-inspire-k11-pc-case-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 09:46:10+00:00
- - tags: None
 
 A solid foundation for a budget gaming PC.
 
@@ -244,7 +214,6 @@ A solid foundation for a budget gaming PC.
  - [https://www.pcgamer.com/aerocool-zauron-pc-case-review](https://www.pcgamer.com/aerocool-zauron-pc-case-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 09:46:07+00:00
- - tags: None
 
 The budget case champ.
 
@@ -252,7 +221,6 @@ The budget case champ.
  - [https://www.pcgamer.com/kolink-inspire-k8-pc-case-review](https://www.pcgamer.com/kolink-inspire-k8-pc-case-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 09:46:04+00:00
- - tags: None
 
 Interesting RGB but underwhelming every other way.
 
@@ -260,7 +228,6 @@ Interesting RGB but underwhelming every other way.
  - [https://www.pcgamer.com/aerocool-hive-pc-case-review](https://www.pcgamer.com/aerocool-hive-pc-case-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 09:45:41+00:00
- - tags: None
 
 Keep it cool with the Hive's superb airflow.
 
@@ -268,7 +235,6 @@ Keep it cool with the Hive's superb airflow.
  - [https://www.pcgamer.com/wordle-536-answer-december-7](https://www.pcgamer.com/wordle-536-answer-december-7)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 08:05:46+00:00
- - tags: None
 
 Wordle today: The solution and a hint for the #536 puzzle.
 
@@ -276,7 +242,6 @@ Wordle today: The solution and a hint for the #536 puzzle.
  - [https://www.pcgamer.com/noctuas-making-dollar10-screwdrivers-and-yep-theyre-brown](https://www.pcgamer.com/noctuas-making-dollar10-screwdrivers-and-yep-theyre-brown)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 06:13:19+00:00
- - tags: None
 
 But they look fairly nice for the price.
 
@@ -284,7 +249,6 @@ But they look fairly nice for the price.
  - [https://www.pcgamer.com/vomiting-goats-kitten-fights-ghost-beheadings-and-other-reasons-steam-reviewers-are-giving-dwarf-fortress-1010-or-higher](https://www.pcgamer.com/vomiting-goats-kitten-fights-ghost-beheadings-and-other-reasons-steam-reviewers-are-giving-dwarf-fortress-1010-or-higher)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 00:59:46+00:00
- - tags: None
 
 "One of my miners got in a fight with a kitten and had to be hospitalized, then my Chief Medical Dwarf died in a mining incident and the miner died of dehydration 11/10"
 
@@ -292,6 +256,5 @@ But they look fairly nice for the price.
  - [https://www.pcgamer.com/tons-of-game-developers-are-praising-dwarf-fortress-today-in-celebration-of-its-steam-launch](https://www.pcgamer.com/tons-of-game-developers-are-praising-dwarf-fortress-today-in-celebration-of-its-steam-launch)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-07 00:09:21+00:00
- - tags: None
 
 Devs behind Terraria, Caves of Qud, Prison Architect, and more say their games wouldn't have existed without Dwarf Fortress.

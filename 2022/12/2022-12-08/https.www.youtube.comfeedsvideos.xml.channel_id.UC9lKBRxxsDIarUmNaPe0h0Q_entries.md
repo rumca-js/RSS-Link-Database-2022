@@ -1,4 +1,4 @@
-# Source Sorelle Amore Finance, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q
+# Source Sorelle Amore Finance, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q, Source language: en-US
 
 ## You are being LIED to about inflation (here's the REAL cause)
  - [https://www.youtube.com/watch?v=px4LkyuMs0I](https://www.youtube.com/watch?v=px4LkyuMs0I)

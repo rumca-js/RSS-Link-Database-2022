@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed
+# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
 
 ## Metale ziem rzadkich obracane na życzenie. Co kryje się za skomplikowanymi eksperymentami?
  - [https://www.chip.pl/2022/12/metale-ziem-rzadkich-rotacja-czasteczek](https://www.chip.pl/2022/12/metale-ziem-rzadkich-rotacja-czasteczek)

@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## Here’s how to get Disney Plus with Verizon wireless plan for free
  - [https://www.androidauthority.com/how-to-get-disney-plus-with-verizon-3249514/](https://www.androidauthority.com/how-to-get-disney-plus-with-verizon-3249514/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-10 21:17:38+00:00
- - tags: None
 
 If you stick with a specific plan, you won't pay for Disney Plus for six months.
 
@@ -12,7 +11,6 @@ If you stick with a specific plan, you won't pay for Disney Plus for six months.
  - [https://www.androidauthority.com/best-digital-gifts-3075153/](https://www.androidauthority.com/best-digital-gifts-3075153/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-10 19:51:12+00:00
- - tags: None
 
 You're running out of time, so go for digital gifts!
 
@@ -20,7 +18,6 @@ You're running out of time, so go for digital gifts!
  - [https://www.androidauthority.com/android-apps-weekly-462-3249579/](https://www.androidauthority.com/android-apps-weekly-462-3249579/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-10 17:00:51+00:00
- - tags: None
 
 Here's hoping Waze doesn't end up being migrated into Google Maps too.
 
@@ -28,7 +25,6 @@ Here's hoping Waze doesn't end up being migrated into Google Maps too.
  - [https://www.androidauthority.com/the-best-phone-2022-editors-choice-3245925/](https://www.androidauthority.com/the-best-phone-2022-editors-choice-3245925/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-10 16:00:29+00:00
- - tags: None
 
 Google's most polished flagship to date takes home our grand prize, but which others phones cracked the top five?
 
@@ -36,7 +32,6 @@ Google's most polished flagship to date takes home our grand prize, but which ot
  - [https://www.androidauthority.com/upcoming-star-wars-shows-and-movies-3243020/](https://www.androidauthority.com/upcoming-star-wars-shows-and-movies-3243020/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-10 15:15:48+00:00
- - tags: None
 
 The Force is strong with this list.
 
@@ -44,7 +39,6 @@ The Force is strong with this list.
  - [https://www.androidauthority.com/amazon-fire-tv-cube-3rd-gen-review-3243902/](https://www.androidauthority.com/amazon-fire-tv-cube-3rd-gen-review-3243902/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-10 15:00:47+00:00
- - tags: None
 
 It's no simple walk to becoming streaming device royalty.
 
@@ -52,7 +46,6 @@ It's no simple walk to becoming streaming device royalty.
  - [https://www.androidauthority.com/huawei-mate-50-pro-camera-review-3244393/](https://www.androidauthority.com/huawei-mate-50-pro-camera-review-3244393/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-10 13:00:15+00:00
- - tags: None
 
 It's time to pit the best smartphone cameras against each other.
 
@@ -60,6 +53,5 @@ It's time to pit the best smartphone cameras against each other.
  - [https://www.androidauthority.com/the-weekly-authority-december-10-2022-224-3249024/](https://www.androidauthority.com/the-weekly-authority-december-10-2022-224-3249024/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-10 12:12:53+00:00
- - tags: None
 
 Plus our Reader's Choice Phone of the Year Awards winner, highlights from The Game Awards, and more weekly top tech news.

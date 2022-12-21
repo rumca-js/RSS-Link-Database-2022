@@ -1,10 +1,9 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed
+# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
 
 ## BMW rozpoczęło produkcję wodorowego modelu iX5 Hydrogen
  - [https://ithardware.pl/aktualnosci/bmw_rozpoczelo_produkcje_wodorowego_modelu_ix5_hydrogen-24791.html](https://ithardware.pl/aktualnosci/bmw_rozpoczelo_produkcje_wodorowego_modelu_ix5_hydrogen-24791.html)
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-12-10 23:56:50+00:00
- - tags: None
 
 <img src="https://ithardware.pl/artykuly/min/24791_1.jpg" />            Chociaż większość świata motoryzacyjnego skłania się ku samochodom elektrycznym bazującymi na akumulatorach, firmy takie jak Hyundai, Toyota czy BMW szukają dalej i pr&oacute;bują swoich sił z samochodami&nbsp;wodorowymi i to...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/bmw_rozpoczelo_produkcje_wodorowego_modelu_ix5_hydrogen-24791.html">https://ithardware.pl/aktualnosci/bmw_rozpoczelo_produkcje_wodorowego_modelu_ix5_hydrogen-24791.html</a></p>
@@ -13,7 +12,6 @@
  - [https://ithardware.pl/aktualnosci/kobiety_pozwaly_twittera_za_to_ze_zostaly_celowo_zwolnione_przez_muska-24790.html](https://ithardware.pl/aktualnosci/kobiety_pozwaly_twittera_za_to_ze_zostaly_celowo_zwolnione_przez_muska-24790.html)
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-12-10 20:50:00+00:00
- - tags: None
 
 <img src="https://ithardware.pl/artykuly/min/24790_1.jpg" />            Twitter po objęciu ster&oacute;w przez Elona Muska, szefa Tesli i SpaceX przeżywa trudne chwile. Platforma społecznościowa musi mierzyć się nie tylko z kryzysem finansowym, ale r&oacute;wnież pozwami ze strony zwolnionych...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/kobiety_pozwaly_twittera_za_to_ze_zostaly_celowo_zwolnione_przez_muska-24790.html">https://ithardware.pl/aktualnosci/kobiety_pozwaly_twittera_za_to_ze_zostaly_celowo_zwolnione_przez_muska-24790.html</a></p>
@@ -22,7 +20,6 @@
  - [https://ithardware.pl/aktualnosci/portal_with_rtx_gra_posiada_ciekawego_easter_egga_z_kartami_nvidii-24788.html](https://ithardware.pl/aktualnosci/portal_with_rtx_gra_posiada_ciekawego_easter_egga_z_kartami_nvidii-24788.html)
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-12-10 19:31:00+00:00
- - tags: None
 
 <img src="https://ithardware.pl/artykuly/min/24788_1.jpg" />            Tw&oacute;rcy&nbsp;Portal with RTX ukryli w grze kody QR, za pomocą kt&oacute;rych można zmienić wygląd kostek. Jeden z tych kod&oacute;w zamienia je w coś, co przypomina kartę graficzną z serii NVIDIA GeForce. Nałożone tekstury zawierają nawet...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/portal_with_rtx_gra_posiada_ciekawego_easter_egga_z_kartami_nvidii-24788.html">https://ithardware.pl/aktualnosci/portal_with_rtx_gra_posiada_ciekawego_easter_egga_z_kartami_nvidii-24788.html</a></p>
@@ -31,7 +28,6 @@
  - [https://ithardware.pl/aktualnosci/mate_60_i_huawei_p60_smartfony_otrzymaja_procesory_qualcomma-24789.html](https://ithardware.pl/aktualnosci/mate_60_i_huawei_p60_smartfony_otrzymaja_procesory_qualcomma-24789.html)
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-12-10 18:30:00+00:00
- - tags: None
 
 <img src="https://ithardware.pl/artykuly/min/24789_1.jpg" />            Seria Mate 50 zadebiutowała kilka miesięcy temu a jej następca ma pojawić się dopiero jesienią przyszłego roku. Mimo tego do sieci wyciekły informacje odnośnie tego, czego należy oczekiwać po nowych smartfonach oraz Huawei P60.
 
@@ -42,7 +38,6 @@ Leaker...
  - [https://ithardware.pl/aktualnosci/evga_sprzedaje_prototypowe_karty_geforce_rtx_4090_srodki_beda_przeznaczone_na_cele_charytatywne-24787.html](https://ithardware.pl/aktualnosci/evga_sprzedaje_prototypowe_karty_geforce_rtx_4090_srodki_beda_przeznaczone_na_cele_charytatywne-24787.html)
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-12-10 17:34:40+00:00
- - tags: None
 
 <img src="https://ithardware.pl/artykuly/min/24787_1.jpg" />            W sieci pojawiły się ciekawe informacje o działalności firmy EVGA. Znany producent sprzętu komputerowego postanowił sprzedać prototypowe wersje kart graficznych GeForce RTX 4090, kt&oacute;re nie pojawią się w zwykłej sprzedaży. Cały...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/evga_sprzedaje_prototypowe_karty_geforce_rtx_4090_srodki_beda_przeznaczone_na_cele_charytatywne-24787.html">https://ithardware.pl/aktualnosci/evga_sprzedaje_prototypowe_karty_geforce_rtx_4090_srodki_beda_przeznaczone_na_cele_charytatywne-24787.html</a></p>
@@ -51,7 +46,6 @@ Leaker...
  - [https://ithardware.pl/aktualnosci/inteligentne_traktory_monarch_z_chipami_nvidia_jetson_xavier_czy_tak_wyglada_przyszlosc_rolnictwa-24784.html](https://ithardware.pl/aktualnosci/inteligentne_traktory_monarch_z_chipami_nvidia_jetson_xavier_czy_tak_wyglada_przyszlosc_rolnictwa-24784.html)
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-12-10 15:44:50+00:00
- - tags: None
 
 <img src="https://ithardware.pl/artykuly/min/24784_1.jpg" />            Firma Monarch wprowadziła inteligentne traktory z serii MK-V, na pokładzie kt&oacute;rych znajdują się chipy NVIDIA&nbsp;Jetson Xavier. Producent twierdzi, że maszyny z linii&nbsp;MK-V mogą&nbsp;zaoszczędzić konsumentom nawet 2600 dolar&oacute;w...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/inteligentne_traktory_monarch_z_chipami_nvidia_jetson_xavier_czy_tak_wyglada_przyszlosc_rolnictwa-24784.html">https://ithardware.pl/aktualnosci/inteligentne_traktory_monarch_z_chipami_nvidia_jetson_xavier_czy_tak_wyglada_przyszlosc_rolnictwa-24784.html</a></p>
@@ -60,7 +54,6 @@ Leaker...
  - [https://ithardware.pl/aktualnosci/returnal_poznalismy_wysokie_wymagania_sprzetowe_gry-24785.html](https://ithardware.pl/aktualnosci/returnal_poznalismy_wysokie_wymagania_sprzetowe_gry-24785.html)
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-12-10 14:41:17+00:00
- - tags: None
 
 <img src="https://ithardware.pl/artykuly/min/24785_1.jpg" />            Returnal został oficjalnie zapowiedziany na PC. Ujawniono też minimalne oraz zalecane wymagania sprzętowe i niestety do zagrania trzeba przygotować wydajne maszyny.
 
@@ -71,7 +64,6 @@ Zgodnie z przeciekami konsole PlayStation straciły kolejną grę na...
  - [https://ithardware.pl/artykuly/lgbt_w_grach_wideo-24751.html](https://ithardware.pl/artykuly/lgbt_w_grach_wideo-24751.html)
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-12-10 13:54:00+00:00
- - tags: None
 
 <img src="https://ithardware.pl/artykuly/min/24751_1.jpg" />            
 
@@ -82,7 +74,6 @@ Zanim zaczniecie narzekać, że znowu to LGBT gdzieś się wciska od razu napisz
  - [https://ithardware.pl/aktualnosci/asus_zapowiedzial_27_calowy_monitor_oled_dla_graczy-24783.html](https://ithardware.pl/aktualnosci/asus_zapowiedzial_27_calowy_monitor_oled_dla_graczy-24783.html)
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-12-10 13:52:50+00:00
- - tags: None
 
 <img src="https://ithardware.pl/artykuly/min/24783_1.jpg" />            ASUS zapowiedział na Twitterze sw&oacute;j nadchodzący 27-calowy monitor dla graczy. Gł&oacute;wnym wyr&oacute;żnikiem urządzenia jest matryca wykonana w technologii OLED. Ekran cechuje się rozdzielczością 1440p oraz odświeżaniem na poziomie...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/asus_zapowiedzial_27_calowy_monitor_oled_dla_graczy-24783.html">https://ithardware.pl/aktualnosci/asus_zapowiedzial_27_calowy_monitor_oled_dla_graczy-24783.html</a></p>
@@ -91,7 +82,6 @@ Zanim zaczniecie narzekać, że znowu to LGBT gdzieś się wciska od razu napisz
  - [https://ithardware.pl/aktualnosci/windows_11_dostanie_przydatna_funkcje_nagrywania_ekranu-24782.html](https://ithardware.pl/aktualnosci/windows_11_dostanie_przydatna_funkcje_nagrywania_ekranu-24782.html)
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-12-10 09:00:01+00:00
- - tags: None
 
 <img src="https://ithardware.pl/artykuly/min/24782_1.jpg" />            Microsoft przygotował funkcję dla użytkownik&oacute;w, kt&oacute;rzy nagrywają to, co dzieje się na ekranie. Narzędzie mogą już sprawdzić niejawni testerzy programu Windows Insider.
 
@@ -102,7 +92,6 @@ Windows 11 otrzymał wbudowaną funkcję&nbsp;nagrywania...
  - [https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_10-24709.html](https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_10-24709.html)
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-12-10 06:00:01+00:00
- - tags: None
 
 <img src="https://ithardware.pl/artykuly/min/24709_1.jpg" />            Problemy z Wi-Fi? A może po prostu szukasz czegoś bezkompromisowego, bo masz dość buforowania na Netfliksie lub wysokich op&oacute;źnień w grach wideo? C&oacute;ż... mamy lekarstwo, bo dziś, dziesiątego dnia Konkursu Adwentowego do zdobycia...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_10-24709.html">https://ithardware.pl/aktualnosci/konkurs_adwentowy_2022_dzien_10-24709.html</a></p>

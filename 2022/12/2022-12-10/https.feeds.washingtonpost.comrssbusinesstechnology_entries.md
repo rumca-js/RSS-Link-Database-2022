@@ -1,10 +1,9 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology
+# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
 
 ## American aerospace pioneer and parachute jumper Joseph Kittinger dies at 94
  - [https://www.washingtonpost.com/nation/2022/12/10/joseph-kittinger-colonel-parachute-obituary/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/nation/2022/12/10/joseph-kittinger-colonel-parachute-obituary/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-12-10 09:13:39+00:00
- - tags: None
 
 Air Force Colonel Joseph Kittinger held a world record for a parachute jump from the edge of space for over 50 years, and paved the way for future space exploration.
 
@@ -12,7 +11,6 @@ Air Force Colonel Joseph Kittinger held a world record for a parachute jump from
  - [https://www.washingtonpost.com/technology/2022/12/10/chatgpt-ai-helps-written-communication/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/12/10/chatgpt-ai-helps-written-communication/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-12-10 07:00:11+00:00
- - tags: None
 
 A machine that talks like a person has long been a science fiction fantasy. Now it’s closer to reality than ever before.
 
@@ -20,6 +18,5 @@ A machine that talks like a person has long been a science fiction fantasy. Now 
  - [https://www.washingtonpost.com/technology/2022/12/10/warehouse-robots-amazon-sparrow/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/12/10/warehouse-robots-amazon-sparrow/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-12-10 06:00:22+00:00
- - tags: None
 
 Warehouse robots at companies like Amazon and FedEx are finally able to pick and sort things with humanlike finesse.

@@ -1,4 +1,4 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss
+# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
 
 ## Apple patent points to MacBook keys that change dynamically
  - [https://www.techradar.com/news/apple-patent-points-to-macbook-keys-that-change-dynamically](https://www.techradar.com/news/apple-patent-points-to-macbook-keys-that-change-dynamically)

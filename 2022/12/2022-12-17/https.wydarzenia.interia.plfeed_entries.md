@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed
+# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
 
 ## "NYT": Ukraina chciała zlikwidować szefa rosyjskiego Sztabu Generalnego
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-nyt-ukraina-chciala-zlikwidowac-szefa-rosyjskiego-sztabu-gen,nId,6479256](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-nyt-ukraina-chciala-zlikwidowac-szefa-rosyjskiego-sztabu-gen,nId,6479256)

@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/
+# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
 
 ## Urlop macierzyński, rodzicielski i wychowawczy – jakie są różnice
  - [https://www.money.pl/gospodarka/urlop-macierzynski-rodzicielski-i-wychowawczy-jakie-sa-roznice-6844473521297984a.html](https://www.money.pl/gospodarka/urlop-macierzynski-rodzicielski-i-wychowawczy-jakie-sa-roznice-6844473521297984a.html)

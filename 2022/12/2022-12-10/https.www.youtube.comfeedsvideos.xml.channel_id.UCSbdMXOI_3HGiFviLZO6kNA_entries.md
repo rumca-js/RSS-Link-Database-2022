@@ -1,10 +1,9 @@
-# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA
+# Source Thrillseeker, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, Source language: en-US
 
 ## The Quest 2 Just Got a MASSIVE Upgrade with V47
  - [https://www.youtube.com/watch?v=5vEwU8kKh4I](https://www.youtube.com/watch?v=5vEwU8kKh4I)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA
  - date published: 2022-12-10 20:42:58+00:00
- - tags: None
 
 Hello! V47 Just dropped for the Oculus Quest 2 bringing a bunch of small new features.. but most excitedly.. META QUEST PRO CONTROLLER SUPPORT! So today in this video I show you how to set them up, test them out with the Quest 2, and give my recommendation as well as experience using them. If you have the cash lying around I would ABSOLUTELY recommend these- they make the quest 2 significantly better- but it should also be stated that if you don't upgrade.. it's not like you're missing out on too much, these just bring a lot of great quality of life improvements. 
 

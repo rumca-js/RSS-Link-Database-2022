@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## Is Peacock actually free? Here’s what the free “base” plan gets you
  - [https://www.androidauthority.com/is-peacock-actually-free-heres-what-the-free-base-plan-gets-you-3195942/](https://www.androidauthority.com/is-peacock-actually-free-heres-what-the-free-base-plan-gets-you-3195942/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-12 18:36:42+00:00
- - tags: None
 
 What do you get out of the streamer if you opt to go the free route?
 
@@ -12,7 +11,6 @@ What do you get out of the streamer if you opt to go the free route?
  - [https://www.androidauthority.com/ad-block-chrome-3250122/](https://www.androidauthority.com/ad-block-chrome-3250122/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-12 18:32:01+00:00
- - tags: None
 
 The new plan for Manifest V2's depreciation will be revealed next year in March.
 
@@ -20,7 +18,6 @@ The new plan for Manifest V2's depreciation will be revealed next year in March.
  - [https://www.androidauthority.com/android-authority-wearables-2022-3241252/](https://www.androidauthority.com/android-authority-wearables-2022-3241252/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-12 15:00:42+00:00
- - tags: None
 
 From Apple to Samsung and beyond, here's what we wear on our wrists every day.
 
@@ -28,7 +25,6 @@ From Apple to Samsung and beyond, here's what we wear on our wrists every day.
  - [https://www.androidauthority.com/how-long-phone-charging-time-poll-results-3250009/](https://www.androidauthority.com/how-long-phone-charging-time-poll-results-3250009/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-12 09:58:11+00:00
- - tags: None
 
 A slim majority of surveyed readers say their phones charge in over an hour.
 
@@ -36,7 +32,6 @@ A slim majority of surveyed readers say their phones charge in over an hour.
  - [https://www.androidauthority.com/partner-loved-one-phone-pin-code-poll-3249974/](https://www.androidauthority.com/partner-loved-one-phone-pin-code-poll-3249974/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-12 08:01:28+00:00
- - tags: None
 
 Virtually all of us have a PIN code on our smartphones, but does your loved one know your code?
 
@@ -44,7 +39,6 @@ Virtually all of us have a PIN code on our smartphones, but does your loved one 
  - [https://www.androidauthority.com/daily-authority-december-12-2022-3249941/](https://www.androidauthority.com/daily-authority-december-12-2022-3249941/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-12 07:43:21+00:00
- - tags: None
 
 The race for the best phone of the year was ridiculously close, but one device takes the title.
 
@@ -52,7 +46,6 @@ The race for the best phone of the year was ridiculously close, but one device t
  - [https://www.androidauthority.com/samsung-galaxy-s23-ultra-tenaa-3249962/](https://www.androidauthority.com/samsung-galaxy-s23-ultra-tenaa-3249962/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-12 06:04:18+00:00
- - tags: None
 
 From CPU speeds to dimensions and more, here's what the listing tells us.
 
@@ -60,6 +53,5 @@ From CPU speeds to dimensions and more, here's what the listing tells us.
  - [https://www.androidauthority.com/miui-14-features-release-schedule-eligible-phones-3249956/](https://www.androidauthority.com/miui-14-features-release-schedule-eligible-phones-3249956/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-12 05:47:32+00:00
- - tags: None
 
 Here's everything you need to know about Xiaomi's new software.

@@ -1,4 +1,4 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2
+# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
 
 ## New Instagram Updates Bring Massive Changes
  - [https://www.forbes.com/sites/paulmonckton/2022/12/17/new-instagram-updates-bring-massive-changes/](https://www.forbes.com/sites/paulmonckton/2022/12/17/new-instagram-updates-bring-massive-changes/)

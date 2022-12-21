@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## Valve offers juicy details on the next-gen Steam Deck
  - [https://www.pcworld.com/article/1438078/valve-offers-juicy-details-on-the-steam-deck-2.html](https://www.pcworld.com/article/1438078/valve-offers-juicy-details-on-the-steam-deck-2.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-16 15:59:01+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -63,7 +62,6 @@ Gaming PCs</div>
  - [https://www.pcworld.com/article/1429959/asus-prime-x670-p-motherboard-review.html](https://www.pcworld.com/article/1429959/asus-prime-x670-p-motherboard-review.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-16 15:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -312,7 +310,6 @@ Desktop PCs, Gaming PCs</div>
  - [https://www.pcworld.com/article/1437084/the-full-nerd-goes-old-school.html](https://www.pcworld.com/article/1437084/the-full-nerd-goes-old-school.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-16 14:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -351,7 +348,6 @@ Gaming</div>
  - [https://www.pcworld.com/article/1435987/the-best-pc-games-of-2022-that-dont-need-a-graphics-card.html](https://www.pcworld.com/article/1435987/the-best-pc-games-of-2022-that-dont-need-a-graphics-card.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-16 11:45:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -616,7 +612,6 @@ Video Games</div>
  - [https://www.pcworld.com/article/1428740/get-a-top-rated-screen-recording-app-for-under-40.html](https://www.pcworld.com/article/1428740/get-a-top-rated-screen-recording-app-for-under-40.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-16 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>

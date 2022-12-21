@@ -1,10 +1,9 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml
+# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
 
 ## Battle Between FTC and Microsoft Turns on Future of Cloud Gaming
  - [https://www.wsj.com/articles/battle-between-ftc-and-microsoft-turns-on-future-of-cloud-gaming-11670796726?mod=rss_Technology](https://www.wsj.com/articles/battle-between-ftc-and-microsoft-turns-on-future-of-cloud-gaming-11670796726?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-12-11 22:12:00+00:00
- - tags: None
 
 While cloud gaming is a small part of the market, industry participants expect it to become more influential.
 
@@ -12,7 +11,6 @@ While cloud gaming is a small part of the market, industry participants expect i
  - [https://www.wsj.com/articles/nasas-orion-spacecraft-set-to-attempt-return-as-first-artemis-mission-ends-11670726371?mod=rss_Technology](https://www.wsj.com/articles/nasas-orion-spacecraft-set-to-attempt-return-as-first-artemis-mission-ends-11670726371?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-12-11 15:17:00+00:00
- - tags: None
 
 A major objective during the final leg of the Artemis moon mission is testing a heat shield that protects the crew module on the spacecraft.
 
@@ -20,7 +18,6 @@ A major objective during the final leg of the Artemis moon mission is testing a 
  - [https://www.wsj.com/articles/people-on-tv-are-harder-to-hear-but-you-can-fix-that-11670720609?mod=rss_Technology](https://www.wsj.com/articles/people-on-tv-are-harder-to-hear-but-you-can-fix-that-11670720609?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-12-11 15:00:00+00:00
- - tags: None
 
 Improving dialogue can include audio settings and extra speakers or just a good set of headphones.
 
@@ -28,7 +25,6 @@ Improving dialogue can include audio settings and extra speakers or just a good 
  - [https://www.wsj.com/articles/rise-of-open-source-intelligence-tests-u-s-spies-11670710806?mod=rss_Technology](https://www.wsj.com/articles/rise-of-open-source-intelligence-tests-u-s-spies-11670710806?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-12-11 14:00:00+00:00
- - tags: None
 
 Efforts to harness the power of publicly available data by U.S. intelligence agencies remain underfunded and outpaced by China’s “immense enterprise.”
 
@@ -36,7 +32,6 @@ Efforts to harness the power of publicly available data by U.S. intelligence age
  - [https://www.wsj.com/articles/twitters-advertising-truth-hurts-11670706720?mod=rss_Technology](https://www.wsj.com/articles/twitters-advertising-truth-hurts-11670706720?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-12-11 14:00:00+00:00
- - tags: None
 
 Mr. Musk’s vague tweets on the subject have Twitter-watchers in a tither, underscoring the urgency of competing for a shrinking pool of ad dollars.
 
@@ -44,7 +39,6 @@ Mr. Musk’s vague tweets on the subject have Twitter-watchers in a tither, unde
  - [https://www.wsj.com/articles/lensa-ai-avatars-women-11670705062?mod=rss_Technology](https://www.wsj.com/articles/lensa-ai-avatars-women-11670705062?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-12-11 13:30:00+00:00
- - tags: None
 
 When Lensa, a four-year-old photo-editing app, introduced a new AI-portrait generator in November, the internet was enthralled. But concerns have mounted, particularly among women.
 
@@ -52,7 +46,6 @@ When Lensa, a four-year-old photo-editing app, introduced a new AI-portrait gene
  - [https://www.wsj.com/articles/jay-leno-electric-cars-space-accident-11670600948?mod=rss_Technology](https://www.wsj.com/articles/jay-leno-electric-cars-space-accident-11670600948?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-12-11 13:00:00+00:00
- - tags: None
 
 The comedian and car lover has been very happy with the EVs he has bought. He is less interested in leaving Earth, though.
 
@@ -60,7 +53,6 @@ The comedian and car lover has been very happy with the EVs he has bought. He is
  - [https://www.wsj.com/articles/some-twitter-power-users-try-business-casual-on-linkedin-11670711899?mod=rss_Technology](https://www.wsj.com/articles/some-twitter-power-users-try-business-casual-on-linkedin-11670711899?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-12-11 12:00:00+00:00
- - tags: None
 
 Unhappy with Elon Musk’s vision for Twitter, some are seeking refuge on the professional-networking site. The memes and hot takes don’t always translate.
 
@@ -68,6 +60,5 @@ Unhappy with Elon Musk’s vision for Twitter, some are seeking refuge on the pr
  - [https://www.wsj.com/articles/softbank-tencent-lead-way-as-asias-tech-investors-become-stock-sellers-11670734520?mod=rss_Technology](https://www.wsj.com/articles/softbank-tencent-lead-way-as-asias-tech-investors-become-stock-sellers-11670734520?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-12-11 10:30:00+00:00
- - tags: None
 
 Many longtime shareholders are cashing out of their investments, a troubling sign after what has already been a painful market selloff.

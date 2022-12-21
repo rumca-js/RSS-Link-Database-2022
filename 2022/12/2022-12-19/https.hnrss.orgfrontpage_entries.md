@@ -70,6 +70,16 @@
 <p>Points: 17</p>
 <p># Comments: 2</p>
 
+## The Secret History: A murder mystery that thrills 30 years on
+ - [https://www.bbc.com/culture/article/20221020-the-secret-history-a-murder-mystery-that-thrills-30-years-o](https://www.bbc.com/culture/article/20221020-the-secret-history-a-murder-mystery-that-thrills-30-years-o)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-19 22:00:32+00:00
+
+<p>Article URL: <a href="https://www.bbc.com/culture/article/20221020-the-secret-history-a-murder-mystery-that-thrills-30-years-o">https://www.bbc.com/culture/article/20221020-the-secret-history-a-murder-mystery-that-thrills-30-years-o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34058362">https://news.ycombinator.com/item?id=34058362</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
+
 ## Show HN: Yahtzee and Poker and Cosmic Horror = Pine Tar Poker
  - [https://www.pinetarpoker.com](https://www.pinetarpoker.com)
  - RSS feed: https://hnrss.org/frontpage

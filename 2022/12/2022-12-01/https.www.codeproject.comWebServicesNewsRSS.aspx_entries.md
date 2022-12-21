@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## Amazon satellite experiment puts the cloud in low earth orbit
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59677](https://www.codeproject.com/script/News/View.aspx?nwid=59677)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-01 05:00:00+00:00
- - tags: None
 
 In space no one can see  your Cloud bill
 
@@ -12,7 +11,6 @@ In space no one can see  your Cloud bill
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59673](https://www.codeproject.com/script/News/View.aspx?nwid=59673)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-01 05:00:00+00:00
- - tags: None
 
 And they would know
 
@@ -20,7 +18,6 @@ And they would know
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59674](https://www.codeproject.com/script/News/View.aspx?nwid=59674)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-01 05:00:00+00:00
- - tags: None
 
 The pennies they get from the result may almost pay for more apps!
 
@@ -28,7 +25,6 @@ The pennies they get from the result may almost pay for more apps!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59672](https://www.codeproject.com/script/News/View.aspx?nwid=59672)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-01 05:00:00+00:00
- - tags: None
 
 The program will always find a new bottleneck
 
@@ -36,7 +32,6 @@ The program will always find a new bottleneck
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59669](https://www.codeproject.com/script/News/View.aspx?nwid=59669)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-01 05:00:00+00:00
- - tags: None
 
 Yes?
 
@@ -44,7 +39,6 @@ Yes?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59681](https://www.codeproject.com/script/News/View.aspx?nwid=59681)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-01 05:00:00+00:00
- - tags: None
 
 In practice, in the domain layer we mainly have to suspend functions that call other suspending functions.
 
@@ -52,7 +46,6 @@ In practice, in the domain layer we mainly have to suspend functions that call o
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59670](https://www.codeproject.com/script/News/View.aspx?nwid=59670)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-01 05:00:00+00:00
- - tags: None
 
 Because who doesn't want to mangle their databases?
 
@@ -60,7 +53,6 @@ Because who doesn't want to mangle their databases?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59668](https://www.codeproject.com/script/News/View.aspx?nwid=59668)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-01 05:00:00+00:00
- - tags: None
 
 Now taking guesses as to what this breaks
 
@@ -68,7 +60,6 @@ Now taking guesses as to what this breaks
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59676](https://www.codeproject.com/script/News/View.aspx?nwid=59676)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-01 05:00:00+00:00
- - tags: None
 
 Not sure if I should make a Deep Space Nine reference, or StarGate?
 
@@ -76,7 +67,6 @@ Not sure if I should make a Deep Space Nine reference, or StarGate?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59679](https://www.codeproject.com/script/News/View.aspx?nwid=59679)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-01 05:00:00+00:00
- - tags: None
 
 We will see step by step each one of the components obtained from the analysis, and we will learn how to convert it to XAML code.
 
@@ -84,7 +74,6 @@ We will see step by step each one of the components obtained from the analysis, 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59671](https://www.codeproject.com/script/News/View.aspx?nwid=59671)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-01 05:00:00+00:00
- - tags: None
 
 I'd like to draw attention to some performance limitations, in the hope that a SwiftUI engineer might see this and understand pain points that might not be so obvious from their side.
 
@@ -92,7 +81,6 @@ I'd like to draw attention to some performance limitations, in the hope that a S
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59680](https://www.codeproject.com/script/News/View.aspx?nwid=59680)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-01 05:00:00+00:00
- - tags: None
 
 While foldable devices have been a thing on Android for quite a while, we don't see too many apps really making use of them.
 
@@ -100,7 +88,6 @@ While foldable devices have been a thing on Android for quite a while, we don't 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59678](https://www.codeproject.com/script/News/View.aspx?nwid=59678)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-01 05:00:00+00:00
- - tags: None
 
 Just need adding tests until the software is late
 
@@ -108,7 +95,6 @@ Just need adding tests until the software is late
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59675](https://www.codeproject.com/script/News/View.aspx?nwid=59675)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-01 05:00:00+00:00
- - tags: None
 
 Black on black is never a good colour scheme?
 
@@ -116,6 +102,5 @@ Black on black is never a good colour scheme?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59682](https://www.codeproject.com/script/News/View.aspx?nwid=59682)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-01 05:00:00+00:00
- - tags: None
 
 Visual Studio for Mac v17.4 shipped earlier this month along with its Windows counterpart, with support for .NET MAUI heading a host of improvements.

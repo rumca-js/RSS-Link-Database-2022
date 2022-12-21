@@ -1,10 +1,9 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology
+# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
 
 ## Indiana sues TikTok, claiming it exposes children to harmful content
  - [https://www.washingtonpost.com/technology/2022/12/07/tiktok-lawsuit-indiana-china/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/12/07/tiktok-lawsuit-indiana-china/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-12-07 21:38:57+00:00
- - tags: None
 
 The Indiana attorney general sued TikTok and ByteDance on Wednesday, claiming they deceive consumers about data security and child safety.
 
@@ -12,7 +11,6 @@ The Indiana attorney general sued TikTok and ByteDance on Wednesday, claiming th
  - [https://www.washingtonpost.com/dc-md-va/2022/12/07/racine-amazon-lawsuit-driver-tips/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/dc-md-va/2022/12/07/racine-amazon-lawsuit-driver-tips/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-12-07 15:16:58+00:00
- - tags: None
 
 The lawsuit alleges that Amazon used deceptive methods to lead consumers to believe that tip money went directly to drivers, when it was actually being used to subsidize wages.
 
@@ -20,7 +18,6 @@ The lawsuit alleges that Amazon used deceptive methods to lead consumers to beli
  - [https://www.washingtonpost.com/technology/2022/12/07/icloud-apple-encryption/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/12/07/icloud-apple-encryption/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-12-07 13:00:00+00:00
- - tags: None
 
 The one service Apple offered that could not be encrypted was iCloud. Now that will change.
 
@@ -28,7 +25,6 @@ The one service Apple offered that could not be encrypted was iCloud. Now that w
  - [https://www.washingtonpost.com/technology/2022/12/07/sunny-balwani-theranos-sentencing/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/12/07/sunny-balwani-theranos-sentencing/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-12-07 08:20:16+00:00
- - tags: None
 
 Sunny Balwani, the former president and COO of the infamous blood testing start-up, faces possible prison time following his conviction on 12 fraud-related charges.
 
@@ -36,7 +32,6 @@ Sunny Balwani, the former president and COO of the infamous blood testing start-
  - [https://www.washingtonpost.com/technology/2022/12/07/work-holiday-party-attend/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/12/07/work-holiday-party-attend/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-12-07 07:00:00+00:00
- - tags: None
 
 Experts weigh-in on whether the pandemic created new rules for company holiday parties, including virtual ones
 
@@ -44,7 +39,6 @@ Experts weigh-in on whether the pandemic created new rules for company holiday p
  - [https://www.washingtonpost.com/lifestyle/2022/12/07/atwood-king-chelsea-banning-book-signing/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/lifestyle/2022/12/07/atwood-king-chelsea-banning-book-signing/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-12-07 05:30:39+00:00
- - tags: None
 
 "We've all been there," best-selling novelists told debut author Chelsea Banning after her book signing attracted only two people.
 
@@ -52,7 +46,6 @@ Experts weigh-in on whether the pandemic created new rules for company holiday p
  - [https://www.washingtonpost.com/nation/2022/12/07/san-francisco-killer-robot-cop/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/nation/2022/12/07/san-francisco-killer-robot-cop/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-12-07 03:23:56+00:00
- - tags: None
 
 The city was criticized by civil libertarians after it last week voted to give law enforcement the right to deploy armed robots in a small number of scenarios.
 
@@ -60,6 +53,5 @@ The city was criticized by civil libertarians after it last week voted to give l
  - [https://www.washingtonpost.com/video-games/2022/12/07/wordle-google-search/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/12/07/wordle-google-search/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-12-07 03:05:00+00:00
- - tags: None
 
 Wordle beat out terms like “Election results” and “Jeffrey Dahmer” in the U.S. and “Ukraine” and “Queen Elizabeth” globally.

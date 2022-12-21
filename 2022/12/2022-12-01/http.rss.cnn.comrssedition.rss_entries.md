@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## 'Where are you really from?': Ngozi Fulani says Buckingham Palace honorary aide questioned her heritage
  - [https://www.cnn.com/videos/world/2022/12/01/ngozi-fulani-buckingham-palace-susan-hussey-racism-intv-ist-vpx.cnn](https://www.cnn.com/videos/world/2022/12/01/ngozi-fulani-buckingham-palace-susan-hussey-racism-intv-ist-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 23:48:46+00:00
- - tags: None
 
 CNN's Isa Soares speaks to Ngozi Fulani after she was questioned about whether she was really British at a royal reception. The woman has been identified as an honorary member of Buckingham Palace, Lady Susan Hussey. Hussey, who served as the late Queen Elizabeth II's lady in waiting for more than 60 years and is a godmother to the Prince of Wales, has resigned and apologized, according to Buckingham Palace.
 
@@ -12,7 +11,6 @@ CNN's Isa Soares speaks to Ngozi Fulani after she was questioned about whether s
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-12-01-22/h_44c2d4afad3600e5271205d6ede584a3](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-12-01-22/h_44c2d4afad3600e5271205d6ede584a3)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 23:34:11.162988+00:00
- - tags: None
 
 
 
@@ -20,7 +18,6 @@ CNN's Isa Soares speaks to Ngozi Fulani after she was questioned about whether s
  - [https://www.cnn.com/videos/world/2022/12/01/china-zero-covid-protests-protester-intv-wang-pkg-lead-intl-vpx.cnn](https://www.cnn.com/videos/world/2022/12/01/china-zero-covid-protests-protester-intv-wang-pkg-lead-intl-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 23:27:28+00:00
- - tags: None
 
 CNN's Selina Wang speaks with a protester in China about why he took the risk to speak out against China's zero-Covid policy.
 
@@ -28,7 +25,6 @@ CNN's Selina Wang speaks with a protester in China about why he took the risk to
  - [https://www.cnn.com/2022/12/01/politics/mar-a-lago-special-master/index.html](https://www.cnn.com/2022/12/01/politics/mar-a-lago-special-master/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 23:20:57+00:00
- - tags: None
 
 In a major defeat for former President Donald Trump, a federal appeals court on Thursday halted a third-party review of documents seized from his Mar-a-Lago estate.
 
@@ -36,7 +32,6 @@ In a major defeat for former President Donald Trump, a federal appeals court on 
  - [https://www.cnn.com/collections/trump-intl-120122/](https://www.cnn.com/collections/trump-intl-120122/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 22:40:17+00:00
- - tags: None
 
 
 
@@ -44,7 +39,6 @@ In a major defeat for former President Donald Trump, a federal appeals court on 
  - [https://www.cnn.com/2022/12/01/politics/hillary-clinton-iran-nuclear-talks-protests/index.html](https://www.cnn.com/2022/12/01/politics/hillary-clinton-iran-nuclear-talks-protests/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 22:26:59+00:00
- - tags: None
 
 The US should not be negotiating with Iran "on anything right now," including a nuclear agreement, former US Secretary of State Hillary Clinton said Thursday.
 
@@ -52,7 +46,6 @@ The US should not be negotiating with Iran "on anything right now," including a 
  - [https://www.cnn.com/2022/12/01/politics/cipollone-philbin-trump-lawyers-testify/index.html](https://www.cnn.com/2022/12/01/politics/cipollone-philbin-trump-lawyers-testify/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 22:01:40+00:00
- - tags: None
 
 A federal judge has ordered former top Trump White House lawyers to provide additional grand jury testimony, rejecting former President Donald Trump's privilege claims in the Justice Department's criminal investigation of his effort to overturn the 2020 election, people briefed on the matter said.
 
@@ -60,7 +53,6 @@ A federal judge has ordered former top Trump White House lawyers to provide addi
  - [https://www.cnn.com/2022/12/01/tech/kanye-parler-deal-termination/index.html](https://www.cnn.com/2022/12/01/tech/kanye-parler-deal-termination/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 22:01:07+00:00
- - tags: None
 
 The rapper formerly known as Kanye West will no longer be acquiring Parler, the alternative social media platform favored by conservatives including some far-right extremists, the company announced on Thursday. West has legally changed his name to Ye.
 
@@ -68,7 +60,6 @@ The rapper formerly known as Kanye West will no longer be acquiring Parler, the 
  - [https://www.cnn.com/2022/12/01/china/china-protests-urumqi-fire-deaths-covid-dst-intl-hnk/index.html](https://www.cnn.com/2022/12/01/china/china-protests-urumqi-fire-deaths-covid-dst-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 21:20:13+00:00
- - tags: None
 
 For more than five years, Sharapat Mohamad Ali and her brother Mohamad had been unable to contact their family in far western China, where the government has been accused of incarcerating up to 2 million Uyghur Muslims and other ethnic minorities in internment camps.
 
@@ -76,7 +67,6 @@ For more than five years, Sharapat Mohamad Ali and her brother Mohamad had been 
  - [https://www.cnn.com/2022/12/01/europe/russia-kremlin-prisoner-swap-us-intl/index.html](https://www.cnn.com/2022/12/01/europe/russia-kremlin-prisoner-swap-us-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 20:58:32+00:00
- - tags: None
 
 The Kremlin said on Thursday that any details of prisoner swap discussions with the United States will not be publicly disclosed and that Moscow is not planning to engage with the Biden administration before the end of the year, according to Russian state media.
 
@@ -84,7 +74,6 @@ The Kremlin said on Thursday that any details of prisoner swap discussions with 
  - [https://www.cnn.com/videos/business/2022/12/01/janet-yellen-signature-colbert-cprog-orig-fj.cnn-business](https://www.cnn.com/videos/business/2022/12/01/janet-yellen-signature-colbert-cprog-orig-fj.cnn-business)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 20:22:38+00:00
- - tags: None
 
 While appearing on "The Late Show with Stephen Colbert", US Treasury Secretary Janet Yellen confronts conspiracy theories about the Fed and talks adding her signature to US currency.
 
@@ -92,7 +81,6 @@ While appearing on "The Late Show with Stephen Colbert", US Treasury Secretary J
  - [https://www.cnn.com/videos/business/2022/12/01/nightcap-sam-bankman-fried-amazon-musk-full-orig-nb.cnn](https://www.cnn.com/videos/business/2022/12/01/nightcap-sam-bankman-fried-amazon-musk-full-orig-nb.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 20:18:11+00:00
- - tags: None
 
 Crypto detective "Coffeezilla" tells Nightcap's Jon Sarlin that somebody at FTX "criminally screwed up." Plus, The Washington Post's Geoffrey Fowler on how Amazon risks turning customers off by showing so many ads in search results. And CNN's Clare Duffy has the latest on the spat between Elon Musk and Tim Cook. To get the day's business headlines sent directly to your inbox, sign up for the Nightcap newsletter.
 
@@ -100,7 +88,6 @@ Crypto detective "Coffeezilla" tells Nightcap's Jon Sarlin that somebody at FTX 
  - [https://www.cnn.com/2022/12/01/health/hiv-vaccine-phase-1-study/index.html](https://www.cnn.com/2022/12/01/health/hiv-vaccine-phase-1-study/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 20:03:39+00:00
- - tags: None
 
 
 
@@ -108,7 +95,6 @@ Crypto detective "Coffeezilla" tells Nightcap's Jon Sarlin that somebody at FTX 
  - [https://www.cnn.com/2022/12/01/world/webb-telescope-titan-saturn-scn/index.html](https://www.cnn.com/2022/12/01/world/webb-telescope-titan-saturn-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 19:28:56+00:00
- - tags: None
 
 The James Webb Space Telescope has spied clouds on one of the solar system's most intriguing moons.
 
@@ -116,7 +102,6 @@ The James Webb Space Telescope has spied clouds on one of the solar system's mos
  - [https://www.cnn.com/collections/intl-wc-011222/](https://www.cnn.com/collections/intl-wc-011222/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 19:21:35+00:00
- - tags: None
 
 
 
@@ -124,7 +109,6 @@ The James Webb Space Telescope has spied clouds on one of the solar system's mos
  - [https://www.cnn.com/videos/tv/2022/12/01/amanpour-hillary-rodham-clinton-womens-voices-afghanistan-iran-ukraine.cnn](https://www.cnn.com/videos/tv/2022/12/01/amanpour-hillary-rodham-clinton-womens-voices-afghanistan-iran-ukraine.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 19:17:04+00:00
- - tags: None
 
 At a summit on women's rights at the Clinton Center in Little Rock, Clinton weighs in on US-Iran relations, Russia's barbarity and Arkansas abortion rights.
 
@@ -132,7 +116,6 @@ At a summit on women's rights at the Clinton Center in Little Rock, Clinton weig
  - [https://www.cnn.com/2022/12/01/sport/gaylord-perry-dies-mlb-pitcher-spt-intl/index.html](https://www.cnn.com/2022/12/01/sport/gaylord-perry-dies-mlb-pitcher-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 19:16:58+00:00
- - tags: None
 
 Baseball Hall of Famer and two-time Cy Young award winner Gaylord Perry has died at age 84.
 
@@ -140,7 +123,6 @@ Baseball Hall of Famer and two-time Cy Young award winner Gaylord Perry has died
  - [https://www.cnn.com/2022/12/01/entertainment/christine-mcvie-music/index.html](https://www.cnn.com/2022/12/01/entertainment/christine-mcvie-music/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 19:08:38+00:00
- - tags: None
 
 There's a reason why Christine McVie was considered the heart of Fleetwood Mac.
 
@@ -148,7 +130,6 @@ There's a reason why Christine McVie was considered the heart of Fleetwood Mac.
  - [https://www.cnn.com/videos/business/2022/12/01/ftx-sam-bankman-fried-gma-interview-contd-orig-ht.cnn-business](https://www.cnn.com/videos/business/2022/12/01/ftx-sam-bankman-fried-gma-interview-contd-orig-ht.cnn-business)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 18:49:50+00:00
- - tags: None
 
 In an interview with "Good Morning America," FTX founder Sam Bankman-Fried said he was "vaguely aware" that FTX lent customers' funds to its sister firm, Alameda Research.
 
@@ -156,7 +137,6 @@ In an interview with "Good Morning America," FTX founder Sam Bankman-Fried said 
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-12-01-22/h_fd1aee288367ff1773cc8aa0b4ac7c1f](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-12-01-22/h_fd1aee288367ff1773cc8aa0b4ac7c1f)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 18:33:55.766418+00:00
- - tags: None
 
 
 
@@ -164,7 +144,6 @@ In an interview with "Good Morning America," FTX founder Sam Bankman-Fried said 
  - [https://www.cnn.com/2022/12/01/uk/royal-racism-row-analysis-intl-cmd/index.html](https://www.cnn.com/2022/12/01/uk/royal-racism-row-analysis-intl-cmd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 18:06:05+00:00
- - tags: None
 
 Britain's royal hierarchy has changed dramatically in the past several weeks, after King Charles III became the country's first new monarch for seven decades and several of his relatives stepped into new roles.
 
@@ -172,7 +151,6 @@ Britain's royal hierarchy has changed dramatically in the past several weeks, af
  - [https://www.cnn.com/2022/12/01/entertainment/stevie-nicks-christine-mcvie-friendship-cec/index.html](https://www.cnn.com/2022/12/01/entertainment/stevie-nicks-christine-mcvie-friendship-cec/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 17:54:53+00:00
- - tags: None
 
 Throughout the various personal turmoils for which the members of Fleetwood Mac are known, one relationship buoyed the band for decades: the friendship between its two frontwomen, Christine McVie and Stevie Nicks.
 
@@ -180,7 +158,6 @@ Throughout the various personal turmoils for which the members of Fleetwood Mac 
  - [https://edition.cnn.com/webview/sport/live-news/world-cup-2022-12-01-2022/index.html](https://edition.cnn.com/webview/sport/live-news/world-cup-2022-12-01-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 17:33:52.528291+00:00
- - tags: None
 
 
 
@@ -188,7 +165,6 @@ Throughout the various personal turmoils for which the members of Fleetwood Mac 
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-12-01-22/index.html](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-12-01-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 17:33:52.492854+00:00
- - tags: None
 
 
 
@@ -196,7 +172,6 @@ Throughout the various personal turmoils for which the members of Fleetwood Mac 
  - [https://www.cnn.com/2022/12/01/football/belgium-croatia-group-f-world-cup-spt-intl/index.html](https://www.cnn.com/2022/12/01/football/belgium-croatia-group-f-world-cup-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 17:12:26+00:00
- - tags: None
 
 Belgium was knocked out of the 2022 World Cup on Thursday after a goalless draw with Croatia left it third in Group F.
 
@@ -204,7 +179,6 @@ Belgium was knocked out of the 2022 World Cup on Thursday after a goalless draw 
  - [https://www.cnn.com/videos/us/2022/12/01/mauna-loa-volcano-eruption-highway-contd-orig-mg.cnn](https://www.cnn.com/videos/us/2022/12/01/mauna-loa-volcano-eruption-highway-contd-orig-mg.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 17:04:43+00:00
- - tags: None
 
 The world's largest active volcano continues to spew lava, threatening a crucial road that connects Hawaii's Big Island.
 
@@ -212,7 +186,6 @@ The world's largest active volcano continues to spew lava, threatening a crucial
  - [https://www.cnn.com/style/article/engraved-owls-toys-scn/index.html](https://www.cnn.com/style/article/engraved-owls-toys-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 17:04:29+00:00
- - tags: None
 
 Over the past century, thousands of pieces of slate engraved with images of owls have been unearthed from tombs and pits across the Iberian Peninsula, in what's now Portugal and Spain.
 
@@ -220,7 +193,6 @@ Over the past century, thousands of pieces of slate engraved with images of owls
  - [https://www.cnn.com/2022/12/01/world/scientists-baby-wormhole-scli-intl-scn/index.html](https://www.cnn.com/2022/12/01/world/scientists-baby-wormhole-scli-intl-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 16:22:37+00:00
- - tags: None
 
 In science fiction -- think films and TV like "Interstellar" and "Star Trek" -- wormholes in the cosmos serve as portals through space and time for spacecraft to traverse unimaginable distances with ease. If only it were that simple.
 
@@ -228,7 +200,6 @@ In science fiction -- think films and TV like "Interstellar" and "Star Trek" -- 
  - [https://www.cnn.com/2022/12/01/politics/trump-taxes-house-ways-and-means-meeting/index.html](https://www.cnn.com/2022/12/01/politics/trump-taxes-house-ways-and-means-meeting/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 16:02:41+00:00
- - tags: None
 
 The Democratic-led House Ways and Means Committee will meet Thursday to discuss how to handle six years of former President Donald Trump's federal tax returns, one day after the panel received access to the records following a protracted legal fight.
 
@@ -236,7 +207,6 @@ The Democratic-led House Ways and Means Committee will meet Thursday to discuss 
  - [https://www.cnn.com/2022/12/01/health/sleep-deficit-emotions-study-wellness/index.html](https://www.cnn.com/2022/12/01/health/sleep-deficit-emotions-study-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 15:46:55+00:00
- - tags: None
 
 Holiday stress. Work problems. Money concerns. Family issues — the worries that can keep you up at night are infinite. Develop a sleep debt from those worries, and you'll pay a price in your ability to think, plan and manage your emotions.
 
@@ -244,7 +214,6 @@ Holiday stress. Work problems. Money concerns. Family issues — the worries tha
  - [https://edition.cnn.com/sport/live-news/world-cup-2022-12-01-2022/index.html](https://edition.cnn.com/sport/live-news/world-cup-2022-12-01-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 15:33:45.633261+00:00
- - tags: None
 
 
 
@@ -252,7 +221,6 @@ Holiday stress. Work problems. Money concerns. Family issues — the worries tha
  - [https://www.cnn.com/travel/article/lions-escape-sydney-zoo-intl-scli/index.html](https://www.cnn.com/travel/article/lions-escape-sydney-zoo-intl-scli/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 15:27:04+00:00
- - tags: None
 
 The Great Escape always brings prisoner-of-war Steve McQueen to mind, but perhaps the real masters of breaking out are five lions who absconded from their enclosure at a Sydney zoo last month.
 
@@ -260,7 +228,6 @@ The Great Escape always brings prisoner-of-war Steve McQueen to mind, but perhap
  - [https://www.cnn.com/2022/12/01/business/mcdonalds-drive-thru/index.html](https://www.cnn.com/2022/12/01/business/mcdonalds-drive-thru/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 15:10:45+00:00
- - tags: None
 
 McDonald's is hoping a drive-thru lane with a food conveyor belt, a pickup room for delivery workers and a shelf where people can grab their orders will make life easier for customers on the go.
 
@@ -268,7 +235,6 @@ McDonald's is hoping a drive-thru lane with a food conveyor belt, a pickup room 
  - [https://www.cnn.com/2022/12/01/middleeast/iran-world-cup-defeat-man-killed-intl/index.html](https://www.cnn.com/2022/12/01/middleeast/iran-world-cup-defeat-man-killed-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 15:10:05+00:00
- - tags: None
 
 A man is reported to have been killed by security forces in northern Iran during public celebrations by anti-government protesters following the national football team's defeat against the United States on Tuesday.
 
@@ -276,7 +242,6 @@ A man is reported to have been killed by security forces in northern Iran during
  - [https://www.cnn.com/2022/12/01/politics/zoe-lofgren-january-6-committee-findings-cnntv/index.html](https://www.cnn.com/2022/12/01/politics/zoe-lofgren-january-6-committee-findings-cnntv/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 15:09:10+00:00
- - tags: None
 
 A Democratic member of the House select committee investigating the January 6, 2021, Capitol riot told CNN on Thursday that the panel's work will be released in its entirety later this month so Republicans cannot cherry-pick evidence when they take over the majority.
 
@@ -284,7 +249,6 @@ A Democratic member of the House select committee investigating the January 6, 2
  - [https://www.cnn.com/collections/intl-aids-011222/](https://www.cnn.com/collections/intl-aids-011222/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 14:55:53+00:00
- - tags: None
 
 
 
@@ -292,7 +256,6 @@ A Democratic member of the House select committee investigating the January 6, 2
  - [https://www.cnn.com/videos/politics/2022/12/01/kevin-mccarthy-house-speaker-vote-republicans-response-cnntm-vpx.cnn](https://www.cnn.com/videos/politics/2022/12/01/kevin-mccarthy-house-speaker-vote-republicans-response-cnntm-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 14:53:16+00:00
- - tags: None
 
 CNN political analyst Jonathan Martin reacts to House Minority Leader Kevin McCarthy warning House Republicans to back his bid for House Speaker and predicts what could happen if he loses.
 
@@ -300,7 +263,6 @@ CNN political analyst Jonathan Martin reacts to House Minority Leader Kevin McCa
  - [https://www.cnn.com/2022/12/01/entertainment/jason-david-frank-wife/index.html](https://www.cnn.com/2022/12/01/entertainment/jason-david-frank-wife/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 14:49:29+00:00
- - tags: None
 
 Jason David Frank's wife has confirmed that the "Power Rangers" star's death was a result of suicide.
 
@@ -308,7 +270,6 @@ Jason David Frank's wife has confirmed that the "Power Rangers" star's death was
  - [https://www.cnn.com/collections/intl-ukraine-0112/](https://www.cnn.com/collections/intl-ukraine-0112/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 14:45:05+00:00
- - tags: None
 
 
 
@@ -316,7 +277,6 @@ Jason David Frank's wife has confirmed that the "Power Rangers" star's death was
  - [https://www.cnn.com/2022/12/01/politics/jim-jordan-investigations/index.html](https://www.cnn.com/2022/12/01/politics/jim-jordan-investigations/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 14:42:45+00:00
- - tags: None
 
 GOP Rep. Jim Jordan of Ohio is sending a renewed set of requests to four current and former government officials on Thursday, providing a window into how the highest-ranking Republican on the House Judiciary Committee is zeroing in on his first top targets ahead of the next Congress when he obtains subpoena power.
 
@@ -324,7 +284,6 @@ GOP Rep. Jim Jordan of Ohio is sending a renewed set of requests to four current
  - [https://www.cnn.com/2022/12/01/business/dirty-soda-pepsi/index.html](https://www.cnn.com/2022/12/01/business/dirty-soda-pepsi/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 14:30:16+00:00
- - tags: None
 
 'Tis the season to mix milk into your soda. According to Pepsi, anyway.
 
@@ -332,7 +291,6 @@ GOP Rep. Jim Jordan of Ohio is sending a renewed set of requests to four current
  - [https://www.cnn.com/videos/politics/2022/12/01/bush-declassified-report-9-11-attack-foreman-pkg-cnntm-vpx.cnn](https://www.cnn.com/videos/politics/2022/12/01/bush-declassified-report-9-11-attack-foreman-pkg-cnntm-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 13:54:49+00:00
- - tags: None
 
 Newly released documents from April of 2004 reveal then-President George W. Bush pushed back against knowing about a domestic terror threat prior to the September 11 attack and the notion that his administration could have prevented it from happening. CNN's Tom Foreman reports.
 
@@ -340,7 +298,6 @@ Newly released documents from April of 2004 reveal then-President George W. Bush
  - [https://www.cnn.com/2022/12/01/africa/south-africa-ramaphosa/index.html](https://www.cnn.com/2022/12/01/africa/south-africa-ramaphosa/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 13:52:24+00:00
- - tags: None
 
 South African president Cyril Ramaphosa is facing calls to step down from opposition leaders and even senior figures in his ruling African National Congress party after an independent panel found there is initial evidence that he could have violated his oath of office.
 
@@ -348,7 +305,6 @@ South African president Cyril Ramaphosa is facing calls to step down from opposi
  - [https://www.cnn.com/2022/12/01/opinions/gaslighting-merriam-webster-word-of-the-year-hemmer/index.html](https://www.cnn.com/2022/12/01/opinions/gaslighting-merriam-webster-word-of-the-year-hemmer/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 13:26:05+00:00
- - tags: None
 
 Merriam-Webster has named "gaslighting" its word of the year.
 
@@ -356,7 +312,6 @@ Merriam-Webster has named "gaslighting" its word of the year.
  - [https://www.cnn.com/2022/12/01/entertainment/harry-meghan-netflix-docuseries/index.html](https://www.cnn.com/2022/12/01/entertainment/harry-meghan-netflix-docuseries/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 13:19:29+00:00
- - tags: None
 
 Get ready for a more intimate look into the lives of the Duke and Duchess of Sussex.
 
@@ -364,7 +319,6 @@ Get ready for a more intimate look into the lives of the Duke and Duchess of Sus
  - [https://www.cnn.com/2022/12/01/entertainment/love-actually-richard-curtis-diversity-scli-intl/index.html](https://www.cnn.com/2022/12/01/entertainment/love-actually-richard-curtis-diversity-scli-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 13:16:03+00:00
- - tags: None
 
 Every year, as the days grow colder and Christmas draws nearer, "Love Actually" quickly becomes a festive favorite on people's television screens.
 
@@ -372,7 +326,6 @@ Every year, as the days grow colder and Christmas draws nearer, "Love Actually" 
  - [https://www.cnn.com/2022/12/01/investing/premarket-stocks-trading/index.html](https://www.cnn.com/2022/12/01/investing/premarket-stocks-trading/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 12:35:21+00:00
- - tags: None
 
 Federal Reserve Chair Jerome Powell made investors very happy on Wednesday. US stocks popped after the central banker gave a speech strongly indicating that the Fed would ease the historically-high pace of interest rate rises at its next policy meeting in December.
 
@@ -380,7 +333,6 @@ Federal Reserve Chair Jerome Powell made investors very happy on Wednesday. US s
  - [https://www.cnn.com/collections/intl-macron-biden-0112/](https://www.cnn.com/collections/intl-macron-biden-0112/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 12:32:16+00:00
- - tags: None
 
 
 
@@ -388,7 +340,6 @@ Federal Reserve Chair Jerome Powell made investors very happy on Wednesday. US s
  - [https://www.cnn.com/2022/12/01/europe/spain-security-letter-bombs-intl/index.html](https://www.cnn.com/2022/12/01/europe/spain-security-letter-bombs-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 11:40:53+00:00
- - tags: None
 
 Spain said Thursday it was boosting security measures after a series of letter bombs was discovered in the country, including one that was sent to Spain's prime minister last week.
 
@@ -396,7 +347,6 @@ Spain said Thursday it was boosting security measures after a series of letter b
  - [https://www.cnn.com/2022/12/01/health/organ-donation-motorcycle-rallies/index.html](https://www.cnn.com/2022/12/01/health/organ-donation-motorcycle-rallies/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 11:36:42+00:00
- - tags: None
 
 Organ donations and transplantations increase during major US motorcycle rallies due to crashes, according to a new study, signaling a need for increased safety measures.
 
@@ -404,7 +354,6 @@ Organ donations and transplantations increase during major US motorcycle rallies
  - [https://www.cnn.com/2022/12/01/politics/french-president-state-dinner-white-house/index.html](https://www.cnn.com/2022/12/01/politics/french-president-state-dinner-white-house/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 11:35:55+00:00
- - tags: None
 
 President Joe Biden is hosting French President Emmanuel Macron at the White House on Thursday, using the very first state dinner of his presidency to shore up relations with a key American ally whose friendship has until recently been on the rocks.
 
@@ -412,7 +361,6 @@ President Joe Biden is hosting French President Emmanuel Macron at the White Hou
  - [https://www.cnn.com/travel/article/airbus-fuel-cell-engine-rolls-royce-easyjet-engine-c2e-spc-intl/index.html](https://www.cnn.com/travel/article/airbus-fuel-cell-engine-rolls-royce-easyjet-engine-c2e-spc-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 11:33:04+00:00
- - tags: None
 
 Airbus has announced it is developing a hydrogen-powered fuel cell engine -- and that it plans to test it on the largest commercial airplane ever to take to the skies.
 
@@ -420,7 +368,6 @@ Airbus has announced it is developing a hydrogen-powered fuel cell engine -- and
  - [https://www.cnn.com/2022/12/01/opinions/hiv-inequity-world-aids-day-ramos/index.html](https://www.cnn.com/2022/12/01/opinions/hiv-inequity-world-aids-day-ramos/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 11:19:39+00:00
- - tags: None
 
 The long fight to end HIV/AIDS has seen real progress spurred by innovative research, prevention, treatment and education. But our nation's ambitious goal of ending the HIV epidemic by 2030 is nevertheless in peril.
 
@@ -428,7 +375,6 @@ The long fight to end HIV/AIDS has seen real progress spurred by innovative rese
  - [https://www.cnn.com/2022/12/01/us/hawaii-mauna-loa-kilauea-eruption-thursday/index.html](https://www.cnn.com/2022/12/01/us/hawaii-mauna-loa-kilauea-eruption-thursday/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 11:03:52+00:00
- - tags: None
 
 With the Mauna Loa volcano continuing to erupt on Hawaii's Big Island, local officials and residents are keeping an eye on the lava flow as it creeps closer to a major roadway and making plans for the possibility that access to the highway could soon be cut off and have a major impact on daily life.
 
@@ -436,7 +382,6 @@ With the Mauna Loa volcano continuing to erupt on Hawaii's Big Island, local off
  - [https://www.cnn.com/videos/world/2022/12/01/william-kate-boston-earthshot-prize-buckingham-palace-racism-controversy-foster-lok-ovn-contd-intl-ldn-vpx.cnn](https://www.cnn.com/videos/world/2022/12/01/william-kate-boston-earthshot-prize-buckingham-palace-racism-controversy-foster-lok-ovn-contd-intl-ldn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 10:36:48+00:00
- - tags: None
 
 The Prince and Princess of Wales are in Boston to attend the Earthshot Prize Awards. The trip, however, is overshadowed by controversy at Buckingham Palace after an aide resigned following what the palace called "unacceptable and deeply regrettable" remarks to a Black executive. CNN's Max Foster reports.
 
@@ -444,7 +389,6 @@ The Prince and Princess of Wales are in Boston to attend the Earthshot Prize Awa
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-12-01-22/index.html](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-12-01-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 10:33:28.597742+00:00
- - tags: None
 
 
 
@@ -452,7 +396,6 @@ The Prince and Princess of Wales are in Boston to attend the Earthshot Prize Awa
  - [https://www.cnn.com/2022/12/01/sport/devin-booker-phoenix-suns-bulls-nba-spt-intl/index.html](https://www.cnn.com/2022/12/01/sport/devin-booker-phoenix-suns-bulls-nba-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 10:22:41+00:00
- - tags: None
 
 Phoenix guard Devin Booker scored an astonishing 51 points in just three quarters as the Suns dominated the Chicago Bulls 132-113.
 
@@ -460,7 +403,6 @@ Phoenix guard Devin Booker scored an astonishing 51 points in just three quarter
  - [https://www.cnn.com/2022/12/01/business/binance-enters-japan-sebc-acquisition-intl-hnk/index.html](https://www.cnn.com/2022/12/01/business/binance-enters-japan-sebc-acquisition-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 10:17:41+00:00
- - tags: None
 
 Binance is expanding into new markets even as the crypto industry grapples with turmoil unleashed by the spectacular collapse of crypto exchange FTX.
 
@@ -468,7 +410,6 @@ Binance is expanding into new markets even as the crypto industry grapples with 
  - [https://www.cnn.com/collections/intl-china-protests-011222/](https://www.cnn.com/collections/intl-china-protests-011222/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 10:07:22+00:00
- - tags: None
 
 
 
@@ -476,7 +417,6 @@ Binance is expanding into new markets even as the crypto industry grapples with 
  - [https://www.cnn.com/2022/12/01/health/staying-organized-myths-tips-wellness/index.html](https://www.cnn.com/2022/12/01/health/staying-organized-myths-tips-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 09:44:52+00:00
- - tags: None
 
 If you're often running late to work because you can't find your keys or tensing at the sight of kitchen clutter, you might feel the need to get organized. But what if you don't know where to start?
 
@@ -484,7 +424,6 @@ If you're often running late to work because you can't find your keys or tensing
  - [http://www.cnn.com/webview/europe/live-news/russia-ukraine-war-news-12-01-22/index.html](http://www.cnn.com/webview/europe/live-news/russia-ukraine-war-news-12-01-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 09:33:25.667128+00:00
- - tags: None
 
 
 
@@ -492,7 +431,6 @@ If you're often running late to work because you can't find your keys or tensing
  - [https://www.cnn.com/2022/12/01/china/china-protests-lockdown-softening-covid-explainer-intl-hnk/index.html](https://www.cnn.com/2022/12/01/china/china-protests-lockdown-softening-covid-explainer-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 09:06:50+00:00
- - tags: None
 
 After unprecedented protests swept China, several cities have taken steps to ease some Covid-19 restrictions and a top official has signaled a softer approach to virus controls -- leading to speculation that an end to zero-Covid may be in sight.
 
@@ -500,7 +438,6 @@ After unprecedented protests swept China, several cities have taken steps to eas
  - [https://www.cnn.com/2022/12/01/us/ohio-piketon-massacre-george-wagner-verdict/index.html](https://www.cnn.com/2022/12/01/us/ohio-piketon-massacre-george-wagner-verdict/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 08:58:43+00:00
- - tags: None
 
 An Ohio man accused along with his family members the 2016 massacre of another family was found guilty of multiple murder charges Wednesday.
 
@@ -508,7 +445,6 @@ An Ohio man accused along with his family members the 2016 massacre of another f
  - [https://www.cnn.com/2022/11/28/football/canelo-alvarez-lionel-messi-warning-spt-intl/index.html](https://www.cnn.com/2022/11/28/football/canelo-alvarez-lionel-messi-warning-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 08:49:14+00:00
- - tags: None
 
 Mexican boxer Saul 'Canelo' Álvarez has apologized to Lionel Messi, who he previously accused of disrespecting Mexico.
 
@@ -516,7 +452,6 @@ Mexican boxer Saul 'Canelo' Álvarez has apologized to Lionel Messi, who he prev
  - [https://www.cnn.com/2022/12/01/us/university-of-idaho-students-killed-thursday/index.html](https://www.cnn.com/2022/12/01/us/university-of-idaho-students-killed-thursday/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 08:10:05+00:00
- - tags: None
 
 As a campus community gathered Wednesday to pay their respects for four University of Idaho students killed on November 13, officials clarified additional details in their investigation to find the culprit responsible for their deaths.
 
@@ -524,7 +459,6 @@ As a campus community gathered Wednesday to pay their respects for four Universi
  - [https://www.cnn.com/2022/12/01/asia/philippines-marcos-south-china-sea-intl-hnk/index.html](https://www.cnn.com/2022/12/01/asia/philippines-marcos-south-china-sea-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 06:38:23+00:00
- - tags: None
 
 The Philippines must find a way to explore for oil and gas in the South China Sea even without a deal with China, President Ferdinand Marcos Jr. said on Thursday, emphasizing his country's right to exploit energy reserves in the contested waterway.
 
@@ -532,7 +466,6 @@ The Philippines must find a way to explore for oil and gas in the South China Se
  - [https://www.cnn.com/2022/12/01/business/india-remittances-record-2022-world-bank-intl-hnk/index.html](https://www.cnn.com/2022/12/01/business/india-remittances-record-2022-world-bank-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 06:04:41+00:00
- - tags: None
 
 The extensive Indian diaspora will help the South Asian country reach a special milestone this year.
 
@@ -540,7 +473,6 @@ The extensive Indian diaspora will help the South Asian country reach a special 
  - [https://www.cnn.com/travel/article/world-most-expensive-cities-economist-2022/index.html](https://www.cnn.com/travel/article/world-most-expensive-cities-economist-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 05:32:54+00:00
- - tags: None
 
 It seems like every month when household bills come due, we grumble about how the cost of living has gone up again.
 
@@ -548,7 +480,6 @@ It seems like every month when household bills come due, we grumble about how th
  - [https://www.cnn.com/2022/12/01/europe/russia-foreign-agents-repression-intl/index.html](https://www.cnn.com/2022/12/01/europe/russia-foreign-agents-repression-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 05:05:15+00:00
- - tags: None
 
 A new expanded law on "foreign agents" in Russia comes into force Thursday, signifying an intensifying crackdown on free speech and opposition under President Vladimir Putin that has accelerated as his fortunes in Ukraine have deteriorated.
 
@@ -556,7 +487,6 @@ A new expanded law on "foreign agents" in Russia comes into force Thursday, sign
  - [https://www.cnn.com/2022/12/01/politics/vladimir-putin-ukraine-biden-macron/index.html](https://www.cnn.com/2022/12/01/politics/vladimir-putin-ukraine-biden-macron/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 05:01:11+00:00
- - tags: None
 
 By bombing the power grid meant to sustain Ukrainians through dark, cold months, Vladimir Putin is inflicting some of the most barbaric wartime conditions experienced by civilians in Europe for decades.
 
@@ -564,7 +494,6 @@ By bombing the power grid meant to sustain Ukrainians through dark, cold months,
  - [https://www.cnn.com/2022/11/30/us/yale-university-mental-health-disabilities-lawsuit/index.html](https://www.cnn.com/2022/11/30/us/yale-university-mental-health-disabilities-lawsuit/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 03:33:45+00:00
- - tags: None
 
 Current students and an advocacy group are suing Yale University and its governing body, alleging "systemic discrimination against students with mental health disabilities," according to a lawsuit filed in Connecticut federal court Wednesday.
 
@@ -572,7 +501,6 @@ Current students and an advocacy group are suing Yale University and its governi
  - [https://www.cnn.com/2022/11/30/politics/mccarthy-january-6-committee-preserve-records/index.html](https://www.cnn.com/2022/11/30/politics/mccarthy-january-6-committee-preserve-records/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 03:20:18+00:00
- - tags: None
 
 House Republican Leader Kevin McCarthy sent a letter to the House select committee investigating January 6, 2021, on Wednesday demanding that it preserve all records and transcripts and vowing to hold hearings next year on the security failures that led to the US Capitol breach.
 
@@ -580,7 +508,6 @@ House Republican Leader Kevin McCarthy sent a letter to the House select committ
  - [https://www.cnn.com/videos/business/2022/12/01/china-covid-protests-foxconn-iphone-factory-wang-dnt-ebof-vpx.cnn](https://www.cnn.com/videos/business/2022/12/01/china-covid-protests-foxconn-iphone-factory-wang-dnt-ebof-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 03:19:11+00:00
- - tags: None
 
 Video obtained by CNN shows violence in China at Foxconn, the world's largest iPhone factory. Workers are protesting unfair treatment, dirty living conditions, and chaotic Covid rules, as CNN's Selina Wang reports.
 
@@ -588,7 +515,6 @@ Video obtained by CNN shows violence in China at Foxconn, the world's largest iP
  - [https://www.cnn.com/videos/politics/2022/11/30/trump-tax-returns-house-ways-and-means-committee-vpx.cnn](https://www.cnn.com/videos/politics/2022/11/30/trump-tax-returns-house-ways-and-means-committee-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 02:55:41+00:00
- - tags: None
 
 The House Ways and Means Committee now has six years of Donald Trump's federal tax returns. CNN's John Berman speaks with Trump biographer David Cay Johnston about what they could reveal about the former president.
 
@@ -596,7 +522,6 @@ The House Ways and Means Committee now has six years of Donald Trump's federal t
  - [https://www.cnn.com/style/article/mschf-art-basel-miami-beach-2022-atm/index.html](https://www.cnn.com/style/article/mschf-art-basel-miami-beach-2022-atm/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 01:33:53+00:00
- - tags: None
 
 After cutting up a $30,000 Damien Hirst print, getting into a (now settled) legal entanglement with Nike over custom Satan sneakers and sending Grimes to the Met Gala with a sword made from melted-down guns, Brooklyn art collective MSCHF is now daring the wealthiest attendees of Art Basel Miami Beach to reveal themselves.
 
@@ -604,7 +529,6 @@ After cutting up a $30,000 Damien Hirst print, getting into a (now settled) lega
  - [https://www.cnn.com/videos/world/2022/11/30/russia-anti-lgbt-propaganda-law-pleitgen-dnt-lead-contd-vpx.cnn](https://www.cnn.com/videos/world/2022/11/30/russia-anti-lgbt-propaganda-law-pleitgen-dnt-lead-contd-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 01:30:53+00:00
- - tags: None
 
 Russia's upper house of parliament unanimously voted to toughen a controversial law banning what the bill describes as LGBTQ "propaganda," making it apply to Russians of all ages. CNN's Fred Pleitgen reports.
 
@@ -612,7 +536,6 @@ Russia's upper house of parliament unanimously voted to toughen a controversial 
  - [https://www.cnn.com/videos/politics/2022/12/01/oath-keepers-stewart-rhodes-lawyers-sidner-marquardt-exclusive-sitroom-vpx.cnn](https://www.cnn.com/videos/politics/2022/12/01/oath-keepers-stewart-rhodes-lawyers-sidner-marquardt-exclusive-sitroom-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 01:24:01+00:00
- - tags: None
 
 Oath Keepers leader Stewart Rhodes' lawyers James Lee Bright and Phillip Linder discuss the trial and seditious conspiracy conviction for their client's role in the January 6th attack on the Capitol.
 
@@ -620,7 +543,6 @@ Oath Keepers leader Stewart Rhodes' lawyers James Lee Bright and Phillip Linder 
  - [https://www.cnn.com/2022/11/30/politics/criminal-referrals-january-6-committee/index.html](https://www.cnn.com/2022/11/30/politics/criminal-referrals-january-6-committee/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 01:17:54+00:00
- - tags: None
 
 As the House select committee investigating the January 6, 2021, US Capitol attack stares down a fast-approaching deadline to complete its work, members are scheduled to have a key meeting on Friday to discuss its final report as well as the possibility of making criminal referrals, multiple sources tell CNN.
 
@@ -628,7 +550,6 @@ As the House select committee investigating the January 6, 2021, US Capitol atta
  - [https://www.cnn.com/collections/intl-112-world-cup-gender/](https://www.cnn.com/collections/intl-112-world-cup-gender/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 01:16:14+00:00
- - tags: None
 
 
 
@@ -636,7 +557,6 @@ As the House select committee investigating the January 6, 2021, US Capitol atta
  - [https://www.cnn.com/collections/intl-112-world-cup/](https://www.cnn.com/collections/intl-112-world-cup/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 01:12:38+00:00
- - tags: None
 
 
 
@@ -644,7 +564,6 @@ As the House select committee investigating the January 6, 2021, US Capitol atta
  - [https://www.cnn.com/2022/11/30/health/rsv-kids-school-wellness/index.html](https://www.cnn.com/2022/11/30/health/rsv-kids-school-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 01:00:03+00:00
- - tags: None
 
 A sniffle, a sneeze or a cough can set off alarm bells these days for families with young children.
 
@@ -652,6 +571,5 @@ A sniffle, a sneeze or a cough can set off alarm bells these days for families w
  - [https://www.cnn.com/travel/article/peoples-choice-wildlife-photography-2022-scli-intl-scn/index.html](https://www.cnn.com/travel/article/peoples-choice-wildlife-photography-2022-scli-intl-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-01 00:03:43+00:00
- - tags: None
 
 A playful polar bear cub, two nuzzling red foxes and golden snub-nosed monkeys huddled together are among the shortlisted images for the Wildlife Photographer of the Year People's Choice Award 2022.

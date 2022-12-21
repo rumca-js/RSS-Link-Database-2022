@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## 5 things Elon Musk could learn from Microsoft CEO Satya Nadella
  - [https://www.computerworld.com/article/3682893/5-things-elon-musk-could-learn-from-microsoft-ceo-satya-nadella.html#tk.rss_all](https://www.computerworld.com/article/3682893/5-things-elon-musk-could-learn-from-microsoft-ceo-satya-nadella.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-12 11:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

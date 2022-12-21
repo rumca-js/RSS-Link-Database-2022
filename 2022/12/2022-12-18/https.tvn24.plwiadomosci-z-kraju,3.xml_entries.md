@@ -1,4 +1,4 @@
-# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml
+# Source TVN24 Z kraju, Source URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, Source language: pl-PL
 
 ## Wędkarz wpadł pod lód. Nurkowie wyłowili ciało mężczyzny
  - [https://tvn24.pl/pomorze/warminsko-mazurskie-poszli-na-ryby-na-jezioro-gil-maly-pod-jednym-z-nich-zalamal-sie-lod-nurkowie-wylowili-cialo-mezczyzny-6528814?source=rss](https://tvn24.pl/pomorze/warminsko-mazurskie-poszli-na-ryby-na-jezioro-gil-maly-pod-jednym-z-nich-zalamal-sie-lod-nurkowie-wylowili-cialo-mezczyzny-6528814?source=rss)

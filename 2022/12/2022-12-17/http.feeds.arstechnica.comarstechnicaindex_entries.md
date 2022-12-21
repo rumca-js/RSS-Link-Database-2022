@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## I am Superman: The Trek EXe mountain e-bike, reviewed
  - [https://arstechnica.com/?p=1904915](https://arstechnica.com/?p=1904915)

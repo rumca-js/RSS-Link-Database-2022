@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## US student in France missing for 2 weeks
  - [https://www.cnn.com/videos/world/2022/12/12/kenny-deland-jr-missing-student-france-bell-pkg-lead-vpx.cnn](https://www.cnn.com/videos/world/2022/12/12/kenny-deland-jr-missing-student-france-bell-pkg-lead-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 23:43:38+00:00
- - tags: None
 
 A prosecutor in France has opened an investigation into the disappearance of American college student Kenny DeLand Jr. who, his family says, has not been heard from in more than two weeks. CNN's Melissa Bell reports.
 
@@ -12,7 +11,6 @@ A prosecutor in France has opened an investigation into the disappearance of Ame
  - [https://www.cnn.com/2022/12/12/us/common-questions-nuclear-fusion-climate/index.html](https://www.cnn.com/2022/12/12/us/common-questions-nuclear-fusion-climate/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 22:52:07+00:00
- - tags: None
 
 For the first time in history, US scientists at the National Ignition Facility at the Lawrence Livermore National Laboratory in California successfully produced a nuclear fusion reaction resulting in a net energy gain, a source familiar with the project confirmed to CNN.
 
@@ -20,7 +18,6 @@ For the first time in history, US scientists at the National Ignition Facility a
  - [https://www.cnn.com/2022/12/12/americas/peru-protests-election-president-intl-latam/index.html](https://www.cnn.com/2022/12/12/americas/peru-protests-election-president-intl-latam/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 21:58:35+00:00
- - tags: None
 
 Peru's new President Dina Boluarte has proposed bringing general elections forward two years to April 2024, during a televised speech delivered early Monday morning, amid ongoing protests throughout the country.
 
@@ -28,7 +25,6 @@ Peru's new President Dina Boluarte has proposed bringing general elections forwa
  - [https://www.cnn.com/videos/world/2022/12/12/bakhmut-ukraine-civilians-hospital-kiley-pkg-cnni-vpx.cnn](https://www.cnn.com/videos/world/2022/12/12/bakhmut-ukraine-civilians-hospital-kiley-pkg-cnni-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 21:57:58+00:00
- - tags: None
 
 CNN Senior International Correspondent Sam Kiley visits a hospital in Bakhmut, Ukraine, where injured civilians are being treated amid intense fighting in the region.
 
@@ -36,7 +32,6 @@ CNN Senior International Correspondent Sam Kiley visits a hospital in Bakhmut, U
  - [https://www.cnn.com/videos/media/2022/12/12/amy-schumer-endometriosis-battle-cprog-orig-aw.cnn](https://www.cnn.com/videos/media/2022/12/12/amy-schumer-endometriosis-battle-cprog-orig-aw.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 21:54:44+00:00
- - tags: None
 
 Amy Schumer discussed her long battle with endometriosis on a new Paramount+ docuseries a year after getting her uterus removed.
 
@@ -44,7 +39,6 @@ Amy Schumer discussed her long battle with endometriosis on a new Paramount+ doc
  - [https://www.cnn.com/2022/12/12/europe/ukraine-bakhmut-injured-civilians-intl-cmd/index.html](https://www.cnn.com/2022/12/12/europe/ukraine-bakhmut-injured-civilians-intl-cmd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 21:32:00+00:00
- - tags: None
 
 The streets outside Vyacheslav Tarasov's home on Ukraine's eastern frontline are pocked by shell blasts. The buildings around are mostly empty, windowless and cold.
 
@@ -52,7 +46,6 @@ The streets outside Vyacheslav Tarasov's home on Ukraine's eastern frontline are
  - [https://www.cnn.com/2022/12/12/us/florida-climate-bee-emergency-wxc/index.html](https://www.cnn.com/2022/12/12/us/florida-climate-bee-emergency-wxc/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 20:42:44+00:00
- - tags: None
 
 Their busy, buzzing business partners pollinate everything from almonds in California to blueberries in Maine, so few people understand the state of American agriculture quite like Florida beekeepers.
 
@@ -60,7 +53,6 @@ Their busy, buzzing business partners pollinate everything from almonds in Calif
  - [https://www.cnn.com/videos/us/2022/12/12/mariah-carey-sings-duet-with-daughter-cprog-orig-jc.cnn](https://www.cnn.com/videos/us/2022/12/12/mariah-carey-sings-duet-with-daughter-cprog-orig-jc.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 20:31:01+00:00
- - tags: None
 
 Mariah Carey performed a duet with her daughter Monroe at her Christmas concert in Toronto.
 
@@ -68,7 +60,6 @@ Mariah Carey performed a duet with her daughter Monroe at her Christmas concert 
  - [https://www.cnn.com/videos/business/2022/12/12/al-roker-update-today-show-cprog-orig-fj.cnn-business](https://www.cnn.com/videos/business/2022/12/12/al-roker-update-today-show-cprog-orig-fj.cnn-business)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 20:28:00+00:00
- - tags: None
 
 In his first interview after returning home from hospitalization, Al Roker returns to "Today" to give an update on his recovery. Roker was twice hospitalized after a blood clot in his leg traveled to his lungs, which caused him to miss this year's Thanksgiving Day Parade.
 
@@ -76,7 +67,6 @@ In his first interview after returning home from hospitalization, Al Roker retur
  - [https://www.cnn.com/2022/12/12/politics/air-force-hypersonic-test/index.html](https://www.cnn.com/2022/12/12/politics/air-force-hypersonic-test/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 19:59:37+00:00
- - tags: None
 
 The US Air Force carried out the first successful test of its complete air launched hypersonic missile, the Air Force said in a statement, a program that had previously suffered a series of setbacks because of testing failures.
 
@@ -84,7 +74,6 @@ The US Air Force carried out the first successful test of its complete air launc
  - [https://www.cnn.com/2022/12/12/europe/lockerbie-bombing-explainer-intl/index.html](https://www.cnn.com/2022/12/12/europe/lockerbie-bombing-explainer-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 19:54:25+00:00
- - tags: None
 
 The bombing of Pan Am Flight 103 may have taken place more than 30 years ago, but the appearance of alleged bombmaker Abu Agila Mohammad Mas'ud Kheir Al-Marimi in a US court on Monday has sparked a new wave of interest in the attack.
 
@@ -92,7 +81,6 @@ The bombing of Pan Am Flight 103 may have taken place more than 30 years ago, bu
  - [https://www.cnn.com/2022/12/12/business/sam-bankman-fried-testifies-before-congress/index.html](https://www.cnn.com/2022/12/12/business/sam-bankman-fried-testifies-before-congress/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 19:43:04+00:00
- - tags: None
 
 With his vast crypto empire in ruins, Sam Bankman-Fried is preparing to be grilled by US lawmakers who are demanding answers about how his digital asset exchange, FTX, came unraveled, leaving at least a million customers unable to access their funds.
 
@@ -100,7 +88,6 @@ With his vast crypto empire in ruins, Sam Bankman-Fried is preparing to be grill
  - [https://www.cnn.com/videos/business/2022/12/09/top-tiktok-video-2022-cprog-orig-ht.cnn-business](https://www.cnn.com/videos/business/2022/12/09/top-tiktok-video-2022-cprog-orig-ht.cnn-business)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 19:35:51+00:00
- - tags: None
 
 From a defensive toddler to a chocolate giraffe, these are the top TikTok videos of 2022.
 
@@ -108,7 +95,6 @@ From a defensive toddler to a chocolate giraffe, these are the top TikTok videos
  - [https://www.cnn.com/2022/12/12/europe/melitopol-ukraine-strikes-russia-intl/index.html](https://www.cnn.com/2022/12/12/europe/melitopol-ukraine-strikes-russia-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 18:18:18+00:00
- - tags: None
 
 Ukrainian forces struck the Russian-occupied city of Melitopol over the weekend, opening a new front in Kyiv's fight to reclaim land in the south of the country and underlining the importance of longer-range weaponry.
 
@@ -116,7 +102,6 @@ Ukrainian forces struck the Russian-occupied city of Melitopol over the weekend,
  - [https://www.cnn.com/2022/12/12/politics/marjorie-taylor-greene-armed-insurrection-comments/index.html](https://www.cnn.com/2022/12/12/politics/marjorie-taylor-greene-armed-insurrection-comments/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 18:09:55+00:00
- - tags: None
 
 Rep. Marjorie Taylor Greene said over the weekend that if she had led the January 6, 2021, insurrection at the US Capitol that "we would have won" and that people would have been "armed."
 
@@ -124,7 +109,6 @@ Rep. Marjorie Taylor Greene said over the weekend that if she had led the Januar
  - [https://www.cnn.com/2022/12/12/health/tantrum-distraction-screens-parenting-wellness/index.html](https://www.cnn.com/2022/12/12/health/tantrum-distraction-screens-parenting-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 18:06:12+00:00
- - tags: None
 
 It's late, dinner is just now on the stove, your phone is ringing, and your child's tantrum begins. A little screen time almost always works to calm them down.
 
@@ -132,7 +116,6 @@ It's late, dinner is just now on the stove, your phone is ringing, and your chil
  - [https://www.cnn.com/2022/12/12/opinions/lockerbie-bombing-suspect-britain-libya-gadhafi-bergen/index.html](https://www.cnn.com/2022/12/12/opinions/lockerbie-bombing-suspect-britain-libya-gadhafi-bergen/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 17:46:00+00:00
- - tags: None
 
 Just days before Christmas in 1998, Pan Am flight 103 flying from London to New York blew up over Lockerbie, Scotland, killing 270 people -- including 190 Americans. Thirty-five victims were Syracuse University students going home for the holidays after studying abroad. It was the most lethal terrorist attack against American civilians until the September 11 attacks of 2001.
 
@@ -140,7 +123,6 @@ Just days before Christmas in 1998, Pan Am flight 103 flying from London to New 
  - [https://edition.cnn.com/interactive/2022/05/world/iter-nuclear-fusion-climate-intl-cnnphotos/](https://edition.cnn.com/interactive/2022/05/world/iter-nuclear-fusion-climate-intl-cnnphotos/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 17:44:47.361082+00:00
- - tags: None
 
 
 
@@ -148,7 +130,6 @@ Just days before Christmas in 1998, Pan Am flight 103 flying from London to New 
  - [https://www.cnn.com/2022/12/12/middleeast/palestinian-girl-killed-idf-raid-intl/index.html](https://www.cnn.com/2022/12/12/middleeast/palestinian-girl-killed-idf-raid-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 17:28:26+00:00
- - tags: None
 
 The Israeli military admitted Monday that its troops shot Jana Zakarneh, a 16-year-old Palestinian girl who died during a raid in the occupied West Bank on Sunday night, saying she was killed by "unintentional" Israeli fire "aimed at armed gunmen."
 
@@ -156,7 +137,6 @@ The Israeli military admitted Monday that its troops shot Jana Zakarneh, a 16-ye
  - [https://www.cnn.com/travel/article/comedy-wildlife-photography-2022-winners-scli-intl-scn/index.html](https://www.cnn.com/travel/article/comedy-wildlife-photography-2022-winners-scli-intl-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 17:12:21+00:00
- - tags: None
 
 An image of a 3-month-old lion cub falling out of a tree has been named the overall winner of this year's Comedy Wildlife Photography Awards.
 
@@ -164,7 +144,6 @@ An image of a 3-month-old lion cub falling out of a tree has been named the over
  - [https://www.cnn.com/2022/12/12/middleeast/israel-un-staff-visas-mime-intl/index.html](https://www.cnn.com/2022/12/12/middleeast/israel-un-staff-visas-mime-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 17:04:16+00:00
- - tags: None
 
 A United Nations agency that operates in the West Bank and Gaza says Israel is not processing visas for its newly recruited staff, while Israeli officials accuse the agency of "ignoring Israeli victims of terror" in East Jerusalem and the occupied West Bank, a charge the agency denies.
 
@@ -172,7 +151,6 @@ A United Nations agency that operates in the West Bank and Gaza says Israel is n
  - [https://www.cnn.com/videos/us/2022/12/12/diver-almost-ran-over-by-boat-hawaii-affil-contd-vpx.khnl-kgmb](https://www.cnn.com/videos/us/2022/12/12/diver-almost-ran-over-by-boat-hawaii-affil-contd-vpx.khnl-kgmb)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 16:57:04+00:00
- - tags: None
 
 Christopher Lastra was spearfishing in Oahu, Hawaii, when he was nearly run over by a speeding boat. CNN affiliates KHNL and KGMB have the story.
 
@@ -180,7 +158,6 @@ Christopher Lastra was spearfishing in Oahu, Hawaii, when he was nearly run over
  - [https://edition.cnn.com/webview/world/live-news/lockerbie-bombing-suspect-masud-custody/index.html](https://edition.cnn.com/webview/world/live-news/lockerbie-bombing-suspect-masud-custody/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 16:44:43.946507+00:00
- - tags: None
 
 
 
@@ -188,7 +165,6 @@ Christopher Lastra was spearfishing in Oahu, Hawaii, when he was nearly run over
  - [https://www.cnn.com/2022/12/12/us/kenny-deland-missing-student-france/index.html](https://www.cnn.com/2022/12/12/us/kenny-deland-missing-student-france/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 16:37:36+00:00
- - tags: None
 
 A prosecutor in France has opened an investigation into the disappearance of an American college student who, his family says, has not been heard from in more than two weeks.
 
@@ -196,7 +172,6 @@ A prosecutor in France has opened an investigation into the disappearance of an 
  - [https://www.cnn.com/2022/12/12/politics/judge-dismisses-special-master-trump/index.html](https://www.cnn.com/2022/12/12/politics/judge-dismisses-special-master-trump/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 15:55:11+00:00
- - tags: None
 
 The special master review of evidence seized from former President Donald Trump's Mar-a-Lago estate is no more.
 
@@ -204,7 +179,6 @@ The special master review of evidence seized from former President Donald Trump'
  - [https://www.cnn.com/2022/12/12/entertainment/lizzo-yeah-snl/index.html](https://www.cnn.com/2022/12/12/entertainment/lizzo-yeah-snl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 15:06:48+00:00
- - tags: None
 
 Lizzo is set to be the final guest of the year for "Saturday Night Live" after illness caused the Yeah Yeah Yeahs to bow out.
 
@@ -212,7 +186,6 @@ Lizzo is set to be the final guest of the year for "Saturday Night Live" after i
  - [https://www.cnn.com/2022/12/12/business/elon-musk-booed-dave-chappelle/index.html](https://www.cnn.com/2022/12/12/business/elon-musk-booed-dave-chappelle/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 15:03:02+00:00
- - tags: None
 
 Elon Musk joined Dave Chappelle on stage Sunday in San Francisco, home of Twitter's headquarters where the world's richest person recently laid off ] many of its employees. It went about as well as you'd expect.
 
@@ -220,7 +193,6 @@ Elon Musk joined Dave Chappelle on stage Sunday in San Francisco, home of Twitte
  - [https://www.cnn.com/2022/12/12/entertainment/harry-meghan-netflix-trailer-part-two-gbr-intl-scli/index.html](https://www.cnn.com/2022/12/12/entertainment/harry-meghan-netflix-trailer-part-two-gbr-intl-scli/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 14:45:40+00:00
- - tags: None
 
 Meghan, Duchess of Sussex has said she was "fed to the wolves," and Prince Harry discusses "institutional gaslighting" in a new trailer for part two of their highly-anticipated Netflix docuseries, which airs on Thursday.
 
@@ -228,7 +200,6 @@ Meghan, Duchess of Sussex has said she was "fed to the wolves," and Prince Harry
  - [https://www.cnn.com/2022/12/12/entertainment/golden-globe-nominations/index.html](https://www.cnn.com/2022/12/12/entertainment/golden-globe-nominations/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 14:32:35+00:00
- - tags: None
 
 The nominees for the 80th Golden Globe Awards were revealed on Monday.
 
@@ -236,7 +207,6 @@ The nominees for the 80th Golden Globe Awards were revealed on Monday.
  - [https://www.cnn.com/videos/entertainment/2022/12/12/white-lotus-season-finale-cprog-cnntm-vpx.cnn](https://www.cnn.com/videos/entertainment/2022/12/12/white-lotus-season-finale-cprog-cnntm-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 14:29:38+00:00
- - tags: None
 
 "The White Lotus" actor Will Sharpe joins "CNN This Morning" to talk about the season finale and what he admires about show director Mike White.
 
@@ -244,7 +214,6 @@ The nominees for the 80th Golden Globe Awards were revealed on Monday.
  - [https://www.cnn.com/2022/12/12/uk/gallery/uk-snow/index.html](https://www.cnn.com/2022/12/12/uk/gallery/uk-snow/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 14:11:40+00:00
- - tags: None
 
 Snow has blanketed London and large parts of the United Kingdom on Monday, December 12, shutting schools and causing widespread disruption across a country struggling through a winter energy crisis.
 
@@ -252,7 +221,6 @@ Snow has blanketed London and large parts of the United Kingdom on Monday, Decem
  - [https://www.cnn.com/2022/12/12/politics/nuclear-fusion-energy-us-scientists-climate/index.html](https://www.cnn.com/2022/12/12/politics/nuclear-fusion-energy-us-scientists-climate/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 13:57:46+00:00
- - tags: None
 
 The US Department of Energy is expected to announce Tuesday that scientists have for the first time successfully produced a nuclear fusion reaction resulting in a net energy gain, according to the Financial Times and The Washington Post.
 
@@ -260,7 +228,6 @@ The US Department of Energy is expected to announce Tuesday that scientists have
  - [https://www.cnn.com/videos/us/2022/12/12/clean-energy-wapo-report-nuclear-fusion-weir-contd-cnntm-vpx.cnn](https://www.cnn.com/videos/us/2022/12/12/clean-energy-wapo-report-nuclear-fusion-weir-contd-cnntm-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 13:53:19+00:00
- - tags: None
 
 The Washington Post reports that the US Department of Energy is expected to announce that for the first time scientists have successfully produced a nuclear fusion reaction resulting in a net energy gain. CNN's Bill Weir joins "CNN This Morning" with more.
 
@@ -268,7 +235,6 @@ The Washington Post reports that the US Department of Energy is expected to anno
  - [https://www.cnn.com/2022/12/12/energy/europe-energy-2023-iea/index.html](https://www.cnn.com/2022/12/12/energy/europe-energy-2023-iea/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 13:39:05+00:00
- - tags: None
 
 Europe has the energy supplies it needs to make it through the year. But 2023 might be a different story.
 
@@ -276,7 +242,6 @@ Europe has the energy supplies it needs to make it through the year. But 2023 mi
  - [https://www.cnn.com/videos/politics/2022/12/12/marjorie-taylor-greene-jan-6-won-comment-cnntm-vpx.cnn](https://www.cnn.com/videos/politics/2022/12/12/marjorie-taylor-greene-jan-6-won-comment-cnntm-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 13:18:55+00:00
- - tags: None
 
 CNN political commentators John Avlon and Errol Lewis discuss recent comments from GOP Rep. Marjorie Taylor Greene after the congresswoman suggested that if she had been in charge of the crowds attacking the US Capitol on January 6, they would have been armed and won.
 
@@ -284,7 +249,6 @@ CNN political commentators John Avlon and Errol Lewis discuss recent comments fr
  - [https://www.cnn.com/2022/12/12/uk/uk-snow-weather-disruption-gbr-intl/index.html](https://www.cnn.com/2022/12/12/uk/uk-snow-weather-disruption-gbr-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 13:11:36+00:00
- - tags: None
 
 Snow has blanketed London and large parts of the United Kingdom on Monday, shutting schools, grounding flights and causing widespread disruption across a country struggling through a winter energy crisis.
 
@@ -292,7 +256,6 @@ Snow has blanketed London and large parts of the United Kingdom on Monday, shutt
  - [https://www.cnn.com/2022/12/12/entertainment/cher-mother-georgia-holt-dies-intl-scli/index.html](https://www.cnn.com/2022/12/12/entertainment/cher-mother-georgia-holt-dies-intl-scli/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 12:58:25+00:00
- - tags: None
 
 Cher is mourning the loss of her mother, Georgia Holt, who has died at the age of 96.
 
@@ -300,7 +263,6 @@ Cher is mourning the loss of her mother, Georgia Holt, who has died at the age o
  - [https://www.cnn.com/2022/12/12/business/uk-strikes-nurses/index.html](https://www.cnn.com/2022/12/12/business/uk-strikes-nurses/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 12:53:17+00:00
- - tags: None
 
 Nurses in the United Kingdom have reached breaking point.
 
@@ -308,7 +270,6 @@ Nurses in the United Kingdom have reached breaking point.
  - [https://www.cnn.com/2022/12/12/investing/premarket-stocks-trading/index.html](https://www.cnn.com/2022/12/12/investing/premarket-stocks-trading/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 12:38:49+00:00
- - tags: None
 
 'Tis the season for Wall Street strategists to pack their clients' inboxes with market predictions for 2023.
 
@@ -316,7 +277,6 @@ Nurses in the United Kingdom have reached breaking point.
  - [https://www.cnn.com/2022/12/12/economy/family-budgets-squeezed-by-inflation/index.html](https://www.cnn.com/2022/12/12/economy/family-budgets-squeezed-by-inflation/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 12:09:08+00:00
- - tags: None
 
 Anya Remy is Christmas shopping for her family on a stricter budget than ever before.
 
@@ -324,7 +284,6 @@ Anya Remy is Christmas shopping for her family on a stricter budget than ever be
  - [https://www.cnn.com/videos/world/2022/12/12/kenyan-migrant-workers-qatar-world-cup-madowo-pkg-ovn-contd-intl-ldn-vpx.cnn](https://www.cnn.com/videos/world/2022/12/12/kenyan-migrant-workers-qatar-world-cup-madowo-pkg-ovn-contd-intl-ldn-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 11:53:16+00:00
- - tags: None
 
 Qatar's World Cup is mired in controversy around human rights -- the deaths of migrant workers and working conditions many endured. CNN's Larry Madowo spoke to Kenyan workers who shared their experiences in Qatar.
 
@@ -332,7 +291,6 @@ Qatar's World Cup is mired in controversy around human rights -- the deaths of m
  - [https://www.cnn.com/2022/12/12/opinions/drew-weissman-rna-therapeutics-vaccines-goldynia/index.html](https://www.cnn.com/2022/12/12/opinions/drew-weissman-rna-therapeutics-vaccines-goldynia/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 11:29:52+00:00
- - tags: None
 
 Many think the now-famous mRNA vaccines came into existence in the blink of an eye, at warp speed, in the throes of a deadly pandemic. But for Drew Weissman, who, along with his research partner Katalin Karikó, is credited with developing the platform that made the life-saving mRNA vaccines possible, RNA technology was a long time coming.
 
@@ -340,7 +298,6 @@ Many think the now-famous mRNA vaccines came into existence in the blink of an e
  - [https://www.cnn.com/2022/12/12/tech/microsoft-london-stock-exchange-deal/index.html](https://www.cnn.com/2022/12/12/tech/microsoft-london-stock-exchange-deal/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 11:10:41+00:00
- - tags: None
 
 Microsoft is buying a 4% stake in the London Stock Exchange as part of a deal that will see the market operator spend at least $2.8 billion over 10 years on the software provider's cloud services.
 
@@ -348,7 +305,6 @@ Microsoft is buying a 4% stake in the London Stock Exchange as part of a deal th
  - [https://www.cnn.com/style/article/splendours-of-uzbekistans-oases-louvre-silk-road-spc/index.html](https://www.cnn.com/style/article/splendours-of-uzbekistans-oases-louvre-silk-road-spc/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 11:04:04+00:00
- - tags: None
 
 Pages from of one of the oldest Qurans in existence, and a painting described as Uzbekistan's "Mona Lisa," are among the historic treasures on show at a new exhibition at the Louvre Museum in Paris.
 
@@ -356,7 +312,6 @@ Pages from of one of the oldest Qurans in existence, and a painting described as
  - [https://www.cnn.com/2022/12/12/football/soccer-popularity-us-world-cup-spt-intl/index.html](https://www.cnn.com/2022/12/12/football/soccer-popularity-us-world-cup-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 11:01:51+00:00
- - tags: None
 
 America is known for being at the top of the list at a lot of things. My home country has, however, historically struggled at the most popular sport worldwide: men's soccer.
 
@@ -364,7 +319,6 @@ America is known for being at the top of the list at a lot of things. My home co
  - [https://www.cnn.com/2022/12/12/business/rivian-mercedes-electric-vans/index.html](https://www.cnn.com/2022/12/12/business/rivian-mercedes-electric-vans/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 10:59:24+00:00
- - tags: None
 
 Rivian said Monday it would no longer pursue a deal with Mercedes to build electric vans for businesses in Europe.
 
@@ -372,7 +326,6 @@ Rivian said Monday it would no longer pursue a deal with Mercedes to build elect
  - [https://www.cnn.com/travel/article/best-ski-resorts-for-the-holidays/index.html](https://www.cnn.com/travel/article/best-ski-resorts-for-the-holidays/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 10:59:21+00:00
- - tags: None
 
 What's more Christmassy than Christmas? How about spending the festive season in a snowy ski resort decked with holly, festooned with sparkling lights and abuzz with cheer.
 
@@ -380,7 +333,6 @@ What's more Christmassy than Christmas? How about spending the festive season in
  - [https://www.cnn.com/2022/12/12/uk/king-charles-christmas-card-scli-intl-gbr/index.html](https://www.cnn.com/2022/12/12/uk/king-charles-christmas-card-scli-intl-gbr/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 10:57:20+00:00
- - tags: None
 
 London looked like a picturesque Christmas card as snow fell on Sunday night -- the perfect time for Buckingham Palace to release the first royal Christmas card of King Charles III's reign.
 
@@ -388,7 +340,6 @@ London looked like a picturesque Christmas card as snow fell on Sunday night -- 
  - [https://www.cnn.com/videos/us/2022/12/12/cnnheroes-richard-roth-samira-jafari-kidney-donation-vpx.cnn](https://www.cnn.com/videos/us/2022/12/12/cnnheroes-richard-roth-samira-jafari-kidney-donation-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 09:37:39+00:00
- - tags: None
 
 CNN's Richard Roth's call for a kidney donor to save his life was answered by one of his colleagues - CNN's Samira Jafari. The two appeared together for the 16th Annual CNN Heroes All-Star Tribute.
 
@@ -396,7 +347,6 @@ CNN's Richard Roth's call for a kidney donor to save his life was answered by on
  - [https://www.cnn.com/2022/12/12/health/anchovies-good-wellness/index.html](https://www.cnn.com/2022/12/12/health/anchovies-good-wellness/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 09:33:52+00:00
- - tags: None
 
 Among foods that spark a strong reaction, anchovies are at the top of the food chain.
 
@@ -404,7 +354,6 @@ Among foods that spark a strong reaction, anchovies are at the top of the food c
  - [https://www.cnn.com/videos/media/2022/12/12/dougherty-viktor-bout-maria-butina-russia-tv-interview-sot-vpx-ovn-intl.cnn](https://www.cnn.com/videos/media/2022/12/12/dougherty-viktor-bout-maria-butina-russia-tv-interview-sot-vpx-ovn-intl.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 09:33:48+00:00
- - tags: None
 
 Jill Dougherty, an adjunct professor at Georgetown University and former CNN Moscow Bureau chief, discusses an interview that aired in Russia between Viktor Bout,who was released from US custody in a prisoner exchange, and TV personality Maria Butina.
 
@@ -412,7 +361,6 @@ Jill Dougherty, an adjunct professor at Georgetown University and former CNN Mos
  - [https://www.cnn.com/2022/12/12/world/norway-medieval-shipwreck-found-scn/index.html](https://www.cnn.com/2022/12/12/world/norway-medieval-shipwreck-found-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 09:32:03+00:00
- - tags: None
 
 Resting at the bottom of Mjøsa, the largest lake in Norway, a shipwreck from hundreds of years ago is in almost perfect condition, frozen in time.
 
@@ -420,7 +368,6 @@ Resting at the bottom of Mjøsa, the largest lake in Norway, a shipwreck from hu
  - [https://www.cnn.com/2022/12/12/football/england-qatar-cat-adopt-world-cup-2022-spt-intl-hnk/index.html](https://www.cnn.com/2022/12/12/football/england-qatar-cat-adopt-world-cup-2022-spt-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 09:07:33+00:00
- - tags: None
 
 England's hopes of lifting the World Cup might have been dashed but Manchester City duo Kyle Walker and John Stones did not want to leave Qatar completely empty handed -- hence they will be taking home a stray cat befriended by the team at their training base.
 
@@ -428,7 +375,6 @@ England's hopes of lifting the World Cup might have been dashed but Manchester C
  - [https://www.cnn.com/2022/12/12/football/superyacht-qatar-2022-accommodation-world-cup-spt-intl/index.html](https://www.cnn.com/2022/12/12/football/superyacht-qatar-2022-accommodation-world-cup-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 09:02:54+00:00
- - tags: None
 
 It's been dubbed the 'Arabian Riviera,' where the streets are immaculate and are interspersed with luxury hotels offering shimmering views across the marina. Welcome to 'The Pearl.'
 
@@ -436,7 +382,6 @@ It's been dubbed the 'Arabian Riviera,' where the streets are immaculate and are
  - [https://www.cnn.com/style/article/farha-palestinian-film-nakba-darin-sallam-reaj/index.html](https://www.cnn.com/style/article/farha-palestinian-film-nakba-darin-sallam-reaj/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 09:01:38+00:00
- - tags: None
 
 On a warm evening last week, Leila Giries sat in her California home, took a deep breath and pressed play on a film she says forced her to relive the most traumatic moment of her life.
 
@@ -444,7 +389,6 @@ On a warm evening last week, Leila Giries sat in her California home, took a dee
  - [https://www.cnn.com/2022/12/12/china/china-beijing-winter-sandstorm-intl-hnk/index.html](https://www.cnn.com/2022/12/12/china/china-beijing-winter-sandstorm-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 09:01:15+00:00
- - tags: None
 
 Beijing and large swaths of northern China woke to choking sand and dust on Monday, as a winter sandstorm sent air pollution levels off the charts.
 
@@ -452,7 +396,6 @@ Beijing and large swaths of northern China woke to choking sand and dust on Mond
  - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-12-12-22/index.html](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-12-12-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 08:35:20.245541+00:00
- - tags: None
 
 
 
@@ -460,7 +403,6 @@ Beijing and large swaths of northern China woke to choking sand and dust on Mond
  - [https://www.cnn.com/2022/12/12/china/china-zero-covid-impact-beijing-intl-hnk-mic/index.html](https://www.cnn.com/2022/12/12/china/china-zero-covid-impact-beijing-intl-hnk-mic/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 07:51:42+00:00
- - tags: None
 
 China is bracing for an unprecendented wave of Covid-19 cases after dismantling large parts of its repressive zero-Covid policy last week, with a leading expert warning Omicron variants were "spreading rapidly" and signs of an outbreak rattling the country's capital.
 
@@ -468,7 +410,6 @@ China is bracing for an unprecendented wave of Covid-19 cases after dismantling 
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-12-12-22/index.html](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-12-12-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 07:38:18.345604+00:00
- - tags: None
 
 
 
@@ -476,7 +417,6 @@ China is bracing for an unprecendented wave of Covid-19 cases after dismantling 
  - [https://www.cnn.com/collections/intl-1212-china-covid/](https://www.cnn.com/collections/intl-1212-china-covid/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 07:28:30+00:00
- - tags: None
 
 
 
@@ -484,7 +424,6 @@ China is bracing for an unprecendented wave of Covid-19 cases after dismantling 
  - [https://www.cnn.com/2022/12/12/middleeast/iran-executes-second-protester-intl-hnk/index.html](https://www.cnn.com/2022/12/12/middleeast/iran-executes-second-protester-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 06:54:16+00:00
- - tags: None
 
 Iran has executed a second man allegedly involved in the nationwide anti-government protest movement after he was convicted of fatally stabbing two security officials last month, Mizan Online, a news agency affiliated with Iran's judiciary, and the semi-official Tasmin news agency reported on Monday.
 
@@ -492,7 +431,6 @@ Iran has executed a second man allegedly involved in the nationwide anti-governm
  - [https://www.cnn.com/travel/article/bali-tourism-indonesia-criminal-code-intl-hnk/index.html](https://www.cnn.com/travel/article/bali-tourism-indonesia-criminal-code-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 06:29:05+00:00
- - tags: None
 
 Indonesia's controversial sex laws will not affect foreign tourists visiting Bali, officials have confirmed in a statement issued Monday.
 
@@ -500,7 +438,6 @@ Indonesia's controversial sex laws will not affect foreign tourists visiting Bal
  - [https://www.cnn.com/style/article/yevhen-samuchenko-ukraine-landscape-photography-snap/index.html](https://www.cnn.com/style/article/yevhen-samuchenko-ukraine-landscape-photography-snap/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 06:09:26+00:00
- - tags: None
 
 In a drone photograph by Yevhen Samuchenko, Lake Lemuria, the so-called "Dead Sea of Ukraine," takes on a surreal, otherworldly quality. Its waters turned pink by algae, its shoreline streaked with white salt deposits, the body of water might easily be confused for an abstract painting were it not for the presence of two tiny figures and their nearby car.
 
@@ -508,7 +445,6 @@ In a drone photograph by Yevhen Samuchenko, Lake Lemuria, the so-called "Dead Se
  - [https://www.cnn.com/2022/12/12/us/brittney-griner-us-arrival-monday/index.html](https://www.cnn.com/2022/12/12/us/brittney-griner-us-arrival-monday/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 05:56:36+00:00
- - tags: None
 
 
 
@@ -516,7 +452,6 @@ In a drone photograph by Yevhen Samuchenko, Lake Lemuria, the so-called "Dead Se
  - [https://www.cnn.com/videos/world/2022/12/11/wagner-group-explosion-luhansk-melitopol-ukraine-russia-hodges-acostanr-vpx.cnn](https://www.cnn.com/videos/world/2022/12/11/wagner-group-explosion-luhansk-melitopol-ukraine-russia-hodges-acostanr-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 05:19:07+00:00
- - tags: None
 
 Retired Lt. Gen. Ben Hodges reacts to an explosion that rocked the Wagner mercenary group's purported headquarters in the eastern Luhansk region of Ukraine, according to a regional Ukrainian official. CNN has not independently verified whether Wagner operated at the hotel.
 
@@ -524,7 +459,6 @@ Retired Lt. Gen. Ben Hodges reacts to an explosion that rocked the Wagner mercen
  - [https://www.cnn.com/travel/article/tourist-attractions-closed-2023/index.html](https://www.cnn.com/travel/article/tourist-attractions-closed-2023/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 03:32:24+00:00
- - tags: None
 
 It already looks like 2023 is going to be a year of "revenge travel," with people who were cooped up during the pandemic taking the long-overdue dream vacations they've been saving up for.
 
@@ -532,7 +466,6 @@ It already looks like 2023 is going to be a year of "revenge travel," with peopl
  - [https://www.cnn.com/videos/entertainment/2022/12/12/cnnheroes-applause-sofia-carson-diane-warren-performance-vpx.cnn](https://www.cnn.com/videos/entertainment/2022/12/12/cnnheroes-applause-sofia-carson-diane-warren-performance-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 03:13:33+00:00
- - tags: None
 
 Sofia Carson is joined by Diane Warren to perform "Applause" at the 2022 CNN Heroes: An All-Star Tribute.
 
@@ -540,7 +473,6 @@ Sofia Carson is joined by Diane Warren to perform "Applause" at the 2022 CNN Her
  - [https://www.cnn.com/collections/intl-1212-ukraine-russia/](https://www.cnn.com/collections/intl-1212-ukraine-russia/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 03:02:07+00:00
- - tags: None
 
 
 
@@ -548,7 +480,6 @@ Sofia Carson is joined by Diane Warren to perform "Applause" at the 2022 CNN Her
  - [https://www.cnn.com/2022/12/11/politics/biden-zelensky-phone-call/index.html](https://www.cnn.com/2022/12/11/politics/biden-zelensky-phone-call/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 02:10:51+00:00
- - tags: None
 
 President Joe Biden and Ukrainian President Volodymyr Zelensky spoke on Sunday to discuss Russia's invasion and recent US efforts to strengthen Ukraine's air defenses.
 
@@ -556,7 +487,6 @@ President Joe Biden and Ukrainian President Volodymyr Zelensky spoke on Sunday t
  - [https://www.cnn.com/collections/intl-1212-griner/](https://www.cnn.com/collections/intl-1212-griner/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 01:50:26+00:00
- - tags: None
 
 
 
@@ -564,6 +494,5 @@ President Joe Biden and Ukrainian President Volodymyr Zelensky spoke on Sunday t
  - [https://www.cnn.com/2022/12/11/politics/jack-smith-special-counsel-high-profile-moves-trump-criminal-investigations/index.html](https://www.cnn.com/2022/12/11/politics/jack-smith-special-counsel-high-profile-moves-trump-criminal-investigations/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-12 00:44:33+00:00
- - tags: None
 
 Newly-appointed special counsel Jack Smith is moving fast on a pair of criminal probes around Donald Trump that in recent months have focused on the former president's state of mind after the 2020 election, including what he knew about plans to impede the transfer of power, people familiar with the matter tell CNN.

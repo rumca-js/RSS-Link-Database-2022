@@ -1,10 +1,9 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml
+# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
 
 ## Covid restrictions hit iPhone maker Foxconn
  - [https://www.bbc.co.uk/news/technology-63858872?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63858872?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-12-05 13:40:52+00:00
- - tags: None
 
 The electronics manufacturer says its revenue in November is down 11% compared to the same month in 2021.
 
@@ -12,7 +11,6 @@ The electronics manufacturer says its revenue in November is down 11% compared t
  - [https://www.bbc.co.uk/news/world-asia-india-63804055?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-india-63804055?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-12-05 00:42:01+00:00
- - tags: None
 
 Surbhi Gupta, who was laid off in the US, on the uncertainties she and other visa holders are dealing with.
 
@@ -20,6 +18,5 @@ Surbhi Gupta, who was laid off in the US, on the uncertainties she and other vis
  - [https://www.bbc.co.uk/news/business-63075729?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63075729?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-12-05 00:07:05+00:00
- - tags: None
 
 How Taiwanese phone fraud fighters are able to warn the world about the latest scams.

@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## DJI’s cheaper Mini 3 drone could launch very soon
  - [https://www.theverge.com/2022/12/4/23492829/dji-mini-3-closer-launch-drone](https://www.theverge.com/2022/12/4/23492829/dji-mini-3-closer-launch-drone)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-04 22:26:03+00:00
- - tags: None
 
 <figure>
       <img alt="A leaked image showing a top-down view of DJI’s rumored Mini 3" src="https://cdn.vox-cdn.com/thumbor/OonOgG6SzO9P5C1KPGucZYkC6jU=/35x266:1466x1220/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71709625/dji_mini_3_leaked_image.0.jpg" />
@@ -26,7 +25,6 @@
  - [https://www.theverge.com/2022/12/4/23492382/taylor-swift-fans-ticketmaster-lawsuit-disaster](https://www.theverge.com/2022/12/4/23492382/taylor-swift-fans-ticketmaster-lawsuit-disaster)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-04 17:10:52+00:00
- - tags: None
 
 <figure>
       <img alt="Taylor Swift at the 2022 American Music Awards" src="https://cdn.vox-cdn.com/thumbor/Fy2F2A1EPWXhiGoVkFXIjNt_pRM=/0x0:5000x3333/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71708161/1443154946.0.jpg" />
@@ -43,7 +41,6 @@
  - [https://www.theverge.com/2022/12/4/23491777/fortnite-chapter-4-battle-pass-launch-witcher](https://www.theverge.com/2022/12/4/23491777/fortnite-chapter-4-battle-pass-launch-witcher)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-04 13:16:50+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot from Fortnite: Chapter 4" src="https://cdn.vox-cdn.com/thumbor/Pz5qyU1SyCqWPm7zPaarJAaBnwY=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71707499/fortnite_the_citadel_1920x1080_d3f8e7427c75.0.jpg" />

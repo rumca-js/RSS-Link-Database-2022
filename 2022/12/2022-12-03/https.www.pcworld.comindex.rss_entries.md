@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## How to set up two monitors for double the screen real estate
  - [https://www.pcworld.com/article/448298/how-to-set-up-two-monitors.html](https://www.pcworld.com/article/448298/how-to-set-up-two-monitors.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-03 14:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Even a generous 24-inch monitor can feel cramped when you&rsquo;ve got multiple windows open on your desktop (and who doesn&rsquo;t?). It&rsquo;s much worse if you&rsquo;re confined to a laptop screen. Fortunately, it&rsquo;s simple enough to add a second monitor to your PC setup and spread out.&nbsp;</p>
@@ -175,7 +174,6 @@ Computers, Monitors</div>
  - [https://www.pcworld.com/article/1396341/simplify-complex-edits-for-29-with-this-top-rated-text-transformation-tool.html](https://www.pcworld.com/article/1396341/simplify-complex-edits-for-29-with-this-top-rated-text-transformation-tool.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-03 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Ever spent weeks working on a writing project only to realize you made an error while entering some of your research? Editing and cleaning your text can be a serious hassle. Fortunately, that&rsquo;s why&nbsp;a top-rated&nbsp;<a href="https://shop.pcworld.com/sales/textsoap-9-individual-lifetime-subscription?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=textsoap-9-individual-lifetime-subscription&amp;utm_term=scsf-458546&amp;utm_content=a0x1P000004YrXlQAK&amp;scsonar=1" rel="noreferrer noopener" target="_blank">text transformation tool</a>&nbsp;like&nbsp;TextSoap 9 comes in handy.</p>

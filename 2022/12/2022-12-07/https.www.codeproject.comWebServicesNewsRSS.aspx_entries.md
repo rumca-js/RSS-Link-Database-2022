@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## Amazon is offering customers $2 per month for letting the company monitor the traffic on their phones
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59734](https://www.codeproject.com/script/News/View.aspx?nwid=59734)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-07 05:00:00+00:00
- - tags: None
 
 And they promise to not peek while you're entering passwords
 
@@ -12,7 +11,6 @@ And they promise to not peek while you're entering passwords
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59733](https://www.codeproject.com/script/News/View.aspx?nwid=59733)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-07 05:00:00+00:00
- - tags: None
 
 I guess ODBC is pretty new, so it's forgivable
 
@@ -20,7 +18,6 @@ I guess ODBC is pretty new, so it's forgivable
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59732](https://www.codeproject.com/script/News/View.aspx?nwid=59732)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-07 05:00:00+00:00
- - tags: None
 
 Maybe they could call it the MicroSoft Network?
 
@@ -28,7 +25,6 @@ Maybe they could call it the MicroSoft Network?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59735](https://www.codeproject.com/script/News/View.aspx?nwid=59735)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-07 05:00:00+00:00
- - tags: None
 
 In case you haven't moved on to Omicrons yet
 
@@ -36,7 +32,6 @@ In case you haven't moved on to Omicrons yet
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59730](https://www.codeproject.com/script/News/View.aspx?nwid=59730)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-07 05:00:00+00:00
- - tags: None
 
 Or you can be like a lot of people and write your own NuGet
 
@@ -44,7 +39,6 @@ Or you can be like a lot of people and write your own NuGet
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59736](https://www.codeproject.com/script/News/View.aspx?nwid=59736)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-07 05:00:00+00:00
- - tags: None
 
 Nice hot cup of tea not required
 
@@ -52,7 +46,6 @@ Nice hot cup of tea not required
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59729](https://www.codeproject.com/script/News/View.aspx?nwid=59729)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-07 05:00:00+00:00
- - tags: None
 
 Let he who is without sin laugh at them first
 
@@ -60,7 +53,6 @@ Let he who is without sin laugh at them first
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59737](https://www.codeproject.com/script/News/View.aspx?nwid=59737)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-07 05:00:00+00:00
- - tags: None
 
 Time to carve out yet another new programming language
 
@@ -68,6 +60,5 @@ Time to carve out yet another new programming language
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59731](https://www.codeproject.com/script/News/View.aspx?nwid=59731)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-07 05:00:00+00:00
- - tags: None
 
 "Tell the world how much they love the little things in life"

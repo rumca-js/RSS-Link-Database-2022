@@ -1,4 +1,4 @@
-# Source IT hardware, Source URL:https://ithardware.pl/feed
+# Source IT hardware, Source URL:https://ithardware.pl/feed, Source language: pl-PL
 
 ## YouTube zablokował oficjalny kanał Pornhuba
  - [https://ithardware.pl/aktualnosci/youtube_zablokowal_oficjalny_kanal_pornhuba-24932.html](https://ithardware.pl/aktualnosci/youtube_zablokowal_oficjalny_kanal_pornhuba-24932.html)

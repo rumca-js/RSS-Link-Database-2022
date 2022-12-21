@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Fortnite’s latest live event was its strangest yet
  - [https://www.theverge.com/2022/12/3/23489779/fortnite-fracture-event-chapter-4-release-date-trailer-geralt](https://www.theverge.com/2022/12/3/23489779/fortnite-fracture-event-chapter-4-release-date-trailer-geralt)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-03 22:23:22+00:00
- - tags: None
 
 <figure>
       <img alt="A Fortnite screenshot." src="https://cdn.vox-cdn.com/thumbor/2CP-7KeNrNVtLVXj0pRxCWxfhnk=/300x0:3540x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71706003/FjFaXRLXoAE7Djk.0.jpg" />
@@ -21,7 +20,6 @@
  - [https://www.theverge.com/2022/12/3/23491661/hbo-last-of-us-trailer-chaos-fungal-zombies-nick-offerman](https://www.theverge.com/2022/12/3/23491661/hbo-last-of-us-trailer-chaos-fungal-zombies-nick-offerman)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-03 21:58:59+00:00
- - tags: None
 
 <figure>
       <img alt="An image showing Ellie in HBO Max’s The Last of Us" src="https://cdn.vox-cdn.com/thumbor/K1F-hchSeKrqvPZMWcSgCYtj1dM=/89x0:2225x1424/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71705951/last_of_us_trailer.0.png" />
@@ -38,7 +36,6 @@
  - [https://www.theverge.com/2022/12/3/23491551/netflix-witcher-blood-origin-trailer-jaskier-michelle-yeoh](https://www.theverge.com/2022/12/3/23491551/netflix-witcher-blood-origin-trailer-jaskier-michelle-yeoh)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-03 20:34:57+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot from The Witcher: Blood Origin trailer" src="https://cdn.vox-cdn.com/thumbor/ZHQgqb9GUcvoSaNyhLlFNN-93vc=/66x0:2178x1408/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71705784/netflix_trailer_witcher.0.png" />
@@ -55,7 +52,6 @@
  - [https://www.theverge.com/2022/12/3/23491259/sirius-xm-hack-remotely-unlock-start-cars](https://www.theverge.com/2022/12/3/23491259/sirius-xm-hack-remotely-unlock-start-cars)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-03 18:12:44+00:00
- - tags: None
 
 <figure>
       <img alt="Inside The 2022 New York International Auto Show" src="https://cdn.vox-cdn.com/thumbor/_gQezn1isyr95I7ia6D3VT-rg6o=/0x0:6720x4480/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71705423/1239964046.0.jpg" />
@@ -72,7 +68,6 @@
  - [https://www.theverge.com/23489768/irobot-roomba-combo-j7-plus-robot-vacuum-mop-review](https://www.theverge.com/23489768/irobot-roomba-combo-j7-plus-robot-vacuum-mop-review)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-03 15:00:00+00:00
- - tags: None
 
 <p>A cool but minor upgrade to an already excellent robot vacuum, iRobot’s Combo j7 adds a mop to the bot and is worth considering if you’ve got hardwood floors and lots of fluffy rugs. For everyone else, the regular j7 vacuum is still your best bet. </p>
   <p>
@@ -83,7 +78,6 @@
  - [https://www.theverge.com/23490255/marvel-midnight-suns-review-firaxis-xcom](https://www.theverge.com/23490255/marvel-midnight-suns-review-firaxis-xcom)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-03 14:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Key art from Marvel’s Midnight Suns featureing Wolverine, Spiderman, Iron Man, Blade, Scarlet Witch, and Ghost Rider flanking the player character called The Hunter in the center under the game’s logo." src="https://cdn.vox-cdn.com/thumbor/byHyRAiOX4u0w0HFWE-_VkkafwE=/210x0:2478x1512/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71704697/Marvel_s_Midnight_Suns_Key_Art_Standard_2022.0.png" />
@@ -100,7 +94,6 @@
  - [https://www.theverge.com/2022/12/3/23489751/kantos-yu2-desktop-speakers-sonos-soundbar-white-noise-machine-ps5-deal-sale](https://www.theverge.com/2022/12/3/23489751/kantos-yu2-desktop-speakers-sonos-soundbar-white-noise-machine-ps5-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-03 13:51:35+00:00
- - tags: None
 
 <figure>
       <img alt="The Kanto YU2 speaker sits on top of a desk while an artist composes sounds with an electronic instrument." src="https://cdn.vox-cdn.com/thumbor/d5QNszQ2huZ1Ni0zifAIBuUfyV8=/0x0:1620x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71704667/kantoyu2.0.jpg" />
@@ -117,7 +110,6 @@
  - [https://www.theverge.com/23487709/inforest-off-grid-solar-cabin-review](https://www.theverge.com/23487709/inforest-off-grid-solar-cabin-review)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-03 08:11:54+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/wS4Fw5cKiNqaJ-OPUnskD4NuQLk=/0x161:2192x1622/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71704216/Inforest_Esther24_INFOREST__1_.0.jpeg" />
@@ -134,7 +126,6 @@
  - [https://www.theverge.com/2022/12/2/23490863/elon-musk-twitter-expose-hunter-biden-flop-doxxed-multiple-people](https://www.theverge.com/2022/12/2/23490863/elon-musk-twitter-expose-hunter-biden-flop-doxxed-multiple-people)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-03 02:42:28+00:00
- - tags: None
 
 <figure>
       <img alt="A black Twitter logo over a red illustration" src="https://cdn.vox-cdn.com/thumbor/FuJylpu2EnVwuI9QZhdUCp8jPEQ=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71703792/acastro_STK050_08.0.jpg" />
@@ -153,7 +144,6 @@
  - [https://www.theverge.com/2022/12/2/23490751/amazon-jeff-blackburn-retiring-andy-jassy-prime-video-twitch](https://www.theverge.com/2022/12/2/23490751/amazon-jeff-blackburn-retiring-andy-jassy-prime-video-twitch)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-03 01:14:16+00:00
- - tags: None
 
 <figure>
       <img alt="Los Angeles Premiere Of Amazon Prime Video’s “The Lord Of The Rings: The Rings Of Power” - Arrivals" src="https://cdn.vox-cdn.com/thumbor/WzJDUJN0Dj_-WkEEfnQ4BA1hZ5Q=/0x30:3000x2030/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71703595/1415136524.0.jpg" />
@@ -172,7 +162,6 @@
  - [https://www.theverge.com/2022/12/2/23490743/amazon-shopper-panel-vpn-ad-verification](https://www.theverge.com/2022/12/2/23490743/amazon-shopper-panel-vpn-ad-verification)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-03 01:08:00+00:00
- - tags: None
 
 <figure>
       <img alt="Illustration of the Amazon logo" src="https://cdn.vox-cdn.com/thumbor/nKVuEPxlY58oY40kedpJxTIGTRs=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71703585/acastro_STK103__02.0.jpg" />

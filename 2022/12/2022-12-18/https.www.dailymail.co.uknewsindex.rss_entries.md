@@ -1,4 +1,11 @@
-# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss
+# Source Daily Mail, Source URL:https://www.dailymail.co.uk/news/index.rss, Source language: en-US
+
+## Anger as TikTok locums boast of £17,000 a month wage cheques as nurses prepare to strike over pay
+ - [https://www.dailymail.co.uk/news/article-11552451/Anger-TikTok-locums-boast-17-000-month-wage-cheques-nurses-prepare-strike-pay.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11552451/Anger-TikTok-locums-boast-17-000-month-wage-cheques-nurses-prepare-strike-pay.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-18 23:53:37+00:00
+
+Medics in their 20s, fresh out of training, are leaving their posts in favour of temp work which can quadruple their health service earnings.
 
 ## Grandfather, 71, killed in Ferrari crash after his car split in half during Orange County crash
  - [https://www.dailymail.co.uk/news/article-11552363/Grandfather-71-killed-Ferrari-crash-car-split-half-Orange-County-crash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11552363/Grandfather-71-killed-Ferrari-crash-car-split-half-Orange-County-crash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -34,6 +41,13 @@ An Argentina fan was spotted by viewers taking off her top in a fiery celebratio
  - date published: 2022-12-18 23:32:56+00:00
 
 Armed police used tear gas on the streets of France tonight after disorder broke out following the World Cup defeat to Argentina.
+
+## WORLD CUP AGENDA: Alex Scott criticised for enjoying Qatari hospitality in a private box
+ - [https://www.dailymail.co.uk/sport/football/article-11552047/WORLD-CUP-AGENDA-Alex-Scott-criticised-enjoying-Qatari-hospitality-private-box.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sport/football/article-11552047/WORLD-CUP-AGENDA-Alex-Scott-criticised-enjoying-Qatari-hospitality-private-box.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-18 23:31:48+00:00
+
+MIKE KEEGAN IN QATAR: BBC pundit Alex Scott was spotted in a private box at the Argentina v Croatia semi-final, enjoying hospitality laid on by the Qatar Supreme Committee.
 
 ## Sam Bankman-Fried's ex-girlfriend is 'working with prosecutors' against him to 'spin her narrative'
  - [https://www.dailymail.co.uk/news/article-11552167/Sam-Bankman-Frieds-ex-girlfriend-working-prosecutors-against-spin-narrative.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11552167/Sam-Bankman-Frieds-ex-girlfriend-working-prosecutors-against-spin-narrative.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)

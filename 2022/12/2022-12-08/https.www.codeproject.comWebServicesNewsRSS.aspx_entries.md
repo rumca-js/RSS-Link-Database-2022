@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## Abstraction is expensive
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59752](https://www.codeproject.com/script/News/View.aspx?nwid=59752)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-08 05:00:00+00:00
- - tags: None
 
 Especially in paintings
 
@@ -12,7 +11,6 @@ Especially in paintings
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59741](https://www.codeproject.com/script/News/View.aspx?nwid=59741)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-08 05:00:00+00:00
- - tags: None
 
 In this post, we’ll look at four tips to help designers create more usable and accessible breadcrumbs for mobile.
 
@@ -20,7 +18,6 @@ In this post, we’ll look at four tips to help designers create more usable and
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59738](https://www.codeproject.com/script/News/View.aspx?nwid=59738)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-08 05:00:00+00:00
- - tags: None
 
 Sure, it's just a silly random monthly list, but *this* time, it's right ;)
 
@@ -28,7 +25,6 @@ Sure, it's just a silly random monthly list, but *this* time, it's right ;)
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59749](https://www.codeproject.com/script/News/View.aspx?nwid=59749)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-08 05:00:00+00:00
- - tags: None
 
 Something, something barn doors and horses
 
@@ -36,7 +32,6 @@ Something, something barn doors and horses
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59753](https://www.codeproject.com/script/News/View.aspx?nwid=59753)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-08 05:00:00+00:00
- - tags: None
 
 @blurb
 
@@ -44,7 +39,6 @@ Something, something barn doors and horses
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59744](https://www.codeproject.com/script/News/View.aspx?nwid=59744)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-08 05:00:00+00:00
- - tags: None
 
 Dart and Flutter are finally getting their day as more software engineers explore using Flutter for mobile app development.
 
@@ -52,7 +46,6 @@ Dart and Flutter are finally getting their day as more software engineers explor
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59743](https://www.codeproject.com/script/News/View.aspx?nwid=59743)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-08 05:00:00+00:00
- - tags: None
 
 Next version of the Kotlin programming language adds support for Java 19 and introduces experimental functions for the JVM to recursively copy or delete directory content.
 
@@ -60,7 +53,6 @@ Next version of the Kotlin programming language adds support for Java 19 and int
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59751](https://www.codeproject.com/script/News/View.aspx?nwid=59751)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-08 05:00:00+00:00
- - tags: None
 
 Insert Disc 2 of 42 to install fix
 
@@ -68,7 +60,6 @@ Insert Disc 2 of 42 to install fix
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59739](https://www.codeproject.com/script/News/View.aspx?nwid=59739)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-08 05:00:00+00:00
- - tags: None
 
 On Android, we’re now seeing a significant drop in memory safety vulnerabilities and an associated drop in the severity of our vulnerabilities.
 
@@ -76,7 +67,6 @@ On Android, we’re now seeing a significant drop in memory safety vulnerabiliti
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59750](https://www.codeproject.com/script/News/View.aspx?nwid=59750)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-08 05:00:00+00:00
- - tags: None
 
 Upcoming Teams features: Groups, Posses, Gangs, and Couples!
 
@@ -84,7 +74,6 @@ Upcoming Teams features: Groups, Posses, Gangs, and Couples!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59746](https://www.codeproject.com/script/News/View.aspx?nwid=59746)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-08 05:00:00+00:00
- - tags: None
 
 Maybe you'll find a BFG under the tree
 
@@ -92,7 +81,6 @@ Maybe you'll find a BFG under the tree
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59754](https://www.codeproject.com/script/News/View.aspx?nwid=59754)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-08 05:00:00+00:00
- - tags: None
 
 "Let them fight"
 
@@ -100,7 +88,6 @@ Maybe you'll find a BFG under the tree
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59740](https://www.codeproject.com/script/News/View.aspx?nwid=59740)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-08 05:00:00+00:00
- - tags: None
 
 In this blog, we are going to explore some awesome libraries to add cool drop shadow effects to our projects.
 
@@ -108,7 +95,6 @@ In this blog, we are going to explore some awesome libraries to add cool drop sh
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59745](https://www.codeproject.com/script/News/View.aspx?nwid=59745)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-08 05:00:00+00:00
- - tags: None
 
 The lazy view is great for reducing your loading time, but not so great to keep your app responsive.
 
@@ -116,7 +102,6 @@ The lazy view is great for reducing your loading time, but not so great to keep 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59748](https://www.codeproject.com/script/News/View.aspx?nwid=59748)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-08 05:00:00+00:00
- - tags: None
 
 "It may be that our role on this planet is not to worship God but to create him."
 
@@ -124,7 +109,6 @@ The lazy view is great for reducing your loading time, but not so great to keep 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59755](https://www.codeproject.com/script/News/View.aspx?nwid=59755)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-08 05:00:00+00:00
- - tags: None
 
 Oh, that's a long list, sadly
 
@@ -132,7 +116,6 @@ Oh, that's a long list, sadly
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59747](https://www.codeproject.com/script/News/View.aspx?nwid=59747)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-08 05:00:00+00:00
- - tags: None
 
 More or less
 
@@ -140,6 +123,5 @@ More or less
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59742](https://www.codeproject.com/script/News/View.aspx?nwid=59742)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-08 05:00:00+00:00
- - tags: None
 
 The latest releases have new Views, Layouts, Tizen support, .NET 7 support and so much more.

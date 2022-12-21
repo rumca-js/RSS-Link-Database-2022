@@ -1,4 +1,4 @@
-# Source Engadget, Source URL:https://www.engadget.com/rss.xml
+# Source Engadget, Source URL:https://www.engadget.com/rss.xml, Source language: en-US
 
 ## Nothing could release its next wireless earbuds under a new brand
  - [https://www.engadget.com/nothing-particles-by-xo-earbuds-leak-225516735.html?src=rss](https://www.engadget.com/nothing-particles-by-xo-earbuds-leak-225516735.html?src=rss)

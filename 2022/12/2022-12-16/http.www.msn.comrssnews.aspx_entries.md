@@ -1,10 +1,9 @@
-# Source MSN, Source URL:http://www.msn.com/rss/news.aspx
+# Source MSN, Source URL:http://www.msn.com/rss/news.aspx, Source language: en-US
 
 ## FEC asks Congress to take action on 'scam PACs' that raise millions for campaigns but only enrich their founders
  - [http://www.msn.com/en-us/news/politics/fec-asks-congress-to-take-action-on-scam-pacs-that-raise-millions-for-campaigns-but-only-enrich-their-founders/ar-AA15mY8j?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/fec-asks-congress-to-take-action-on-scam-pacs-that-raise-millions-for-campaigns-but-only-enrich-their-founders/ar-AA15mY8j?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 23:55:31.467618+00:00
- - tags: None
 
 
 
@@ -12,7 +11,6 @@
  - [http://www.msn.com/en-us/news/crime/judge-to-halt-provision-making-california-gun-suits-costlier/ar-AA15n0FK?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/judge-to-halt-provision-making-california-gun-suits-costlier/ar-AA15n0FK?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 23:55:31.459434+00:00
- - tags: None
 
 
 
@@ -20,7 +18,6 @@
  - [http://www.msn.com/en-us/news/us/1-teenager-killed-3-wounded-in-shooting-outside-a-chicago-high-school-officials-say/ar-AA15n5yV?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/1-teenager-killed-3-wounded-in-shooting-outside-a-chicago-high-school-officials-say/ar-AA15n5yV?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 23:55:31.452146+00:00
- - tags: None
 
 
 
@@ -28,7 +25,6 @@
  - [http://www.msn.com/en-us/news/technology/at-t-to-cut-marketing-sales-jobs/ar-AA15n7n4?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/at-t-to-cut-marketing-sales-jobs/ar-AA15n7n4?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 23:55:31.444092+00:00
- - tags: None
 
 
 
@@ -36,7 +32,6 @@
  - [http://www.msn.com/en-us/news/politics/education-department-mulls-whether-period-products-should-be-included-in-title-ix-provisions/ar-AA15nfGR?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/education-department-mulls-whether-period-products-should-be-included-in-title-ix-provisions/ar-AA15nfGR?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 23:55:31.436795+00:00
- - tags: None
 
 
 
@@ -44,7 +39,6 @@
  - [http://www.msn.com/en-us/news/crime/police-chief-accused-of-moonlighting-as-shady-machine-gun-dealer-has-wild-defense/ar-AA15nky1?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/police-chief-accused-of-moonlighting-as-shady-machine-gun-dealer-has-wild-defense/ar-AA15nky1?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 23:55:31.429566+00:00
- - tags: None
 
 
 
@@ -52,7 +46,6 @@
  - [http://www.msn.com/en-us/news/politics/jan-6-panel-eyes-recommending-3-charges-for-trump/ar-AA15n3mu?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/jan-6-panel-eyes-recommending-3-charges-for-trump/ar-AA15n3mu?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 23:55:31.420991+00:00
- - tags: None
 
 
 
@@ -60,7 +53,6 @@
  - [http://www.msn.com/en-us/news/world/biden-state-department-launches-china-house-initiative-says-beijing-is-most-complex-challenge/ar-AA15njU9?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/biden-state-department-launches-china-house-initiative-says-beijing-is-most-complex-challenge/ar-AA15njU9?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 22:55:24.373356+00:00
- - tags: None
 
 
 
@@ -68,7 +60,6 @@
  - [http://www.msn.com/en-us/news/politics/we-re-officially-en-gay-ged-vermont-s-first-openly-trans-lawmaker-engaged-at-white-house-respect-for-marriage-act-ceremony/ar-AA15na8S?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/we-re-officially-en-gay-ged-vermont-s-first-openly-trans-lawmaker-engaged-at-white-house-respect-for-marriage-act-ceremony/ar-AA15na8S?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 22:55:24.366089+00:00
- - tags: None
 
 
 
@@ -76,7 +67,6 @@
  - [http://www.msn.com/en-us/news/crime/gunman-killed-in-amazon-shooting-had-jealousy-issues/ar-AA15nfaC?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/gunman-killed-in-amazon-shooting-had-jealousy-issues/ar-AA15nfaC?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 22:55:24.358969+00:00
- - tags: None
 
 
 
@@ -84,7 +74,6 @@
  - [http://www.msn.com/en-us/news/crime/suspect-s-dad-charged-in-highland-park-parade-mass-shooting/ar-AA15n75p?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/suspect-s-dad-charged-in-highland-park-parade-mass-shooting/ar-AA15n75p?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 22:55:24.351894+00:00
- - tags: None
 
 
 
@@ -92,7 +81,6 @@
  - [http://www.msn.com/en-us/news/technology/nasa-telescopes-identify-two-alien-worlds-mostly-made-of-water/ar-AA15kald?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/nasa-telescopes-identify-two-alien-worlds-mostly-made-of-water/ar-AA15kald?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 22:55:24.343941+00:00
- - tags: None
 
 
 
@@ -100,7 +88,6 @@
  - [http://www.msn.com/en-us/news/crime/calif-toddler-in-car-was-killed-by-a-stray-bullet-in-2021-and-3-men-were-just-arrested/ar-AA15n7na?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/calif-toddler-in-car-was-killed-by-a-stray-bullet-in-2021-and-3-men-were-just-arrested/ar-AA15n7na?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 22:55:24.336596+00:00
- - tags: None
 
 
 
@@ -108,7 +95,6 @@
  - [http://www.msn.com/en-us/news/politics/trump-risks-back-to-back-blows-over-jan-6-tax-returns-release/ar-AA15mLnv?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/trump-risks-back-to-back-blows-over-jan-6-tax-returns-release/ar-AA15mLnv?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 22:55:24.327966+00:00
- - tags: None
 
 
 
@@ -116,7 +102,6 @@
  - [http://www.msn.com/en-us/news/crime/father-of-highland-park-parade-shooting-suspect-charged-with-reckless-conduct/ar-AA15nhrI?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/father-of-highland-park-parade-shooting-suspect-charged-with-reckless-conduct/ar-AA15nhrI?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 22:55:24.319983+00:00
- - tags: None
 
 
 
@@ -124,7 +109,6 @@
  - [http://www.msn.com/en-us/news/politics/trump-s-tax-returns-back-in-focus-as-house-panel-eyes-next-steps/ar-AA15mLnv?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/trump-s-tax-returns-back-in-focus-as-house-panel-eyes-next-steps/ar-AA15mLnv?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 21:55:11.458896+00:00
- - tags: None
 
 
 
@@ -132,7 +116,6 @@
  - [http://www.msn.com/en-us/news/world/russia-seen-as-preparing-for-massive-winter-offensive-in-ukraine-including-new-run-on-kyiv/ar-AA15njhu?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/russia-seen-as-preparing-for-massive-winter-offensive-in-ukraine-including-new-run-on-kyiv/ar-AA15njhu?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 21:55:11.449914+00:00
- - tags: None
 
 
 
@@ -140,7 +123,6 @@
  - [http://www.msn.com/en-us/news/us/3-people-killed-in-a-crash-involving-a-bus-and-a-tractor-trailer-on-a-virginia-interstate/ar-AA15msHI?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/3-people-killed-in-a-crash-involving-a-bus-and-a-tractor-trailer-on-a-virginia-interstate/ar-AA15msHI?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 21:55:11.442821+00:00
- - tags: None
 
 
 
@@ -148,7 +130,6 @@
  - [http://www.msn.com/en-us/news/politics/pelosi-backs-adding-government-device-ban-of-tiktok-to-funding-bill/ar-AA15n6VB?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/pelosi-backs-adding-government-device-ban-of-tiktok-to-funding-bill/ar-AA15n6VB?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 21:55:11.435516+00:00
- - tags: None
 
 
 
@@ -156,7 +137,6 @@
  - [http://www.msn.com/en-us/news/technology/fusion-explained-why-the-big-new-milestone-doesn-t-mean-green-power-yet/ar-AA15n4UG?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/fusion-explained-why-the-big-new-milestone-doesn-t-mean-green-power-yet/ar-AA15n4UG?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 21:55:11.428307+00:00
- - tags: None
 
 
 
@@ -164,7 +144,6 @@
  - [http://www.msn.com/en-us/news/us/california-is-pushing-forward-with-its-bloated-reparations-plan/ar-AA15mQ5f?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/california-is-pushing-forward-with-its-bloated-reparations-plan/ar-AA15mQ5f?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 21:55:11.420936+00:00
- - tags: None
 
 
 
@@ -172,7 +151,6 @@
  - [http://www.msn.com/en-us/news/politics/jan-6-committee-preparing-trump-criminal-referral-to-doj-sources/ar-AA15mPWY?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/jan-6-committee-preparing-trump-criminal-referral-to-doj-sources/ar-AA15mPWY?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 21:55:11.413709+00:00
- - tags: None
 
 
 
@@ -180,7 +158,6 @@
  - [http://www.msn.com/en-us/news/politics/democrats-set-aside-donations-from-ex-ftx-ceo-bankman-fried/ar-AA15nbHm?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/democrats-set-aside-donations-from-ex-ftx-ceo-bankman-fried/ar-AA15nbHm?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 21:55:11.406333+00:00
- - tags: None
 
 
 
@@ -188,7 +165,6 @@
  - [http://www.msn.com/en-us/news/us/pet-expert-shares-the-best-way-to-give-a-rescue-pet-as-a-gift-it-s-a-very-personal-decision/ar-AA15n4q0?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/pet-expert-shares-the-best-way-to-give-a-rescue-pet-as-a-gift-it-s-a-very-personal-decision/ar-AA15n4q0?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 20:55:03.092699+00:00
- - tags: None
 
 
 
@@ -196,7 +172,6 @@
  - [http://www.msn.com/en-us/news/politics/mccarthy-says-5-gop-opponents-have-not-moved/ar-AA15n4uF?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/mccarthy-says-5-gop-opponents-have-not-moved/ar-AA15n4uF?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 20:55:03.085171+00:00
- - tags: None
 
 
 
@@ -204,7 +179,6 @@
  - [http://www.msn.com/en-us/news/politics/jan-6-panel-to-vote-on-urging-doj-to-prosecute-trump-on-at-least-three-criminal-charges/ar-AA15mVjN?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/jan-6-panel-to-vote-on-urging-doj-to-prosecute-trump-on-at-least-three-criminal-charges/ar-AA15mVjN?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 20:55:03.077642+00:00
- - tags: None
 
 
 
@@ -212,7 +186,6 @@
  - [http://www.msn.com/en-us/news/politics/fate-of-trump-s-tax-returns-to-be-debated-by-house-panel-tuesday/ar-AA15mLnv?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/fate-of-trump-s-tax-returns-to-be-debated-by-house-panel-tuesday/ar-AA15mLnv?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 20:55:03.069732+00:00
- - tags: None
 
 
 
@@ -220,7 +193,6 @@
  - [http://www.msn.com/en-us/news/technology/twitter-chaos-too-much-there-are-plenty-of-other-options/ar-AA15mVlB?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/twitter-chaos-too-much-there-are-plenty-of-other-options/ar-AA15mVlB?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 20:55:03.059593+00:00
- - tags: None
 
 
 
@@ -228,7 +200,6 @@
  - [http://www.msn.com/en-us/news/technology/fico-score-vs-credit-score-what-s-the-difference/ar-AA15n20s?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/fico-score-vs-credit-score-what-s-the-difference/ar-AA15n20s?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 20:55:03.049919+00:00
- - tags: None
 
 
 
@@ -236,7 +207,6 @@
  - [http://www.msn.com/en-us/news/us/remains-of-texas-mother-who-told-911-operator-she-was-being-chased-through-the-woods-found-3-years-later/ar-AA15mZRh?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/remains-of-texas-mother-who-told-911-operator-she-was-being-chased-through-the-woods-found-3-years-later/ar-AA15mZRh?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 20:55:03.040829+00:00
- - tags: None
 
 
 
@@ -244,7 +214,6 @@
  - [http://www.msn.com/en-us/news/politics/alexandra-pelosi-discusses-new-documentary-pelosi-in-the-house/ar-AA15mXge?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/alexandra-pelosi-discusses-new-documentary-pelosi-in-the-house/ar-AA15mXge?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 20:55:03.031478+00:00
- - tags: None
 
 
 
@@ -252,7 +221,6 @@
  - [http://www.msn.com/en-us/news/politics/angelina-jolie-steps-down-as-special-envoy-to-united-nations-high-commissioner-for-refugees/ar-AA15mUXy?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/angelina-jolie-steps-down-as-special-envoy-to-united-nations-high-commissioner-for-refugees/ar-AA15mUXy?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 19:54:59.365747+00:00
- - tags: None
 
 
 
@@ -260,7 +228,6 @@
  - [http://www.msn.com/en-us/news/us/claudine-gay-named-as-harvard-s-first-black-president-5-things-to-know/ar-AA15mFhh?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/claudine-gay-named-as-harvard-s-first-black-president-5-things-to-know/ar-AA15mFhh?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 19:54:59.358601+00:00
- - tags: None
 
 
 
@@ -268,7 +235,6 @@
  - [http://www.msn.com/en-us/news/us/mom-of-one-of-the-university-of-idaho-victims-fears-case-could-go-unsolved/ar-AA15jxl8?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/mom-of-one-of-the-university-of-idaho-victims-fears-case-could-go-unsolved/ar-AA15jxl8?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 19:54:59.351331+00:00
- - tags: None
 
 
 
@@ -276,7 +242,6 @@
  - [http://www.msn.com/en-us/news/us/sailors-lost-at-sea-say-they-endured-40-ft-waves-survived-on-water-soaked-beans-before-rescue/ar-AA15mSCf?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/sailors-lost-at-sea-say-they-endured-40-ft-waves-survived-on-water-soaked-beans-before-rescue/ar-AA15mSCf?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 19:54:59.344116+00:00
- - tags: None
 
 
 
@@ -284,7 +249,6 @@
  - [http://www.msn.com/en-us/news/technology/how-to-change-your-privacy-settings-on-your-android-devices/ar-AA15mNOB?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/how-to-change-your-privacy-settings-on-your-android-devices/ar-AA15mNOB?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 19:54:59.336748+00:00
- - tags: None
 
 
 
@@ -292,7 +256,6 @@
  - [http://www.msn.com/en-us/news/politics/2b-in-loans-to-help-ukraine-s-ag-fuel-import-businesses/ar-AA15mUXd?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/2b-in-loans-to-help-ukraine-s-ag-fuel-import-businesses/ar-AA15mUXd?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 19:54:59.329565+00:00
- - tags: None
 
 
 
@@ -300,7 +263,6 @@
  - [http://www.msn.com/en-us/news/us/congress-passed-a-858-billion-military-bill-here-s-what-s-in-it/ar-AA15n4cn?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/congress-passed-a-858-billion-military-bill-here-s-what-s-in-it/ar-AA15n4cn?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 19:54:59.321358+00:00
- - tags: None
 
 
 
@@ -308,7 +270,6 @@
  - [http://www.msn.com/en-us/news/technology/you-could-be-owed-money-from-keurig-s-10-million-k-cup-settlement-here-s-how-to-claim-it/ar-AA15enRI?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/you-could-be-owed-money-from-keurig-s-10-million-k-cup-settlement-here-s-how-to-claim-it/ar-AA15enRI?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 19:54:59.312285+00:00
- - tags: None
 
 
 
@@ -316,7 +277,6 @@
  - [http://www.msn.com/en-us/news/technology/here-s-what-you-need-to-remember-about-avatar-before-seeing-way-of-water/ar-AA154miP?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/here-s-what-you-need-to-remember-about-avatar-before-seeing-way-of-water/ar-AA154miP?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 18:54:43.292026+00:00
- - tags: None
 
 
 
@@ -324,7 +284,6 @@
  - [http://www.msn.com/en-us/news/world/not-what-you-d-expect-in-a-democracy-how-britain-is-waging-war-against-climate-protesters/ar-AA15mI65?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/not-what-you-d-expect-in-a-democracy-how-britain-is-waging-war-against-climate-protesters/ar-AA15mI65?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 18:54:43.284686+00:00
- - tags: None
 
 
 
@@ -332,7 +291,6 @@
  - [http://www.msn.com/en-us/news/politics/omnibus-showdown/ar-AA15mKrT?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/omnibus-showdown/ar-AA15mKrT?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 18:54:43.277407+00:00
- - tags: None
 
 
 
@@ -340,7 +298,6 @@
  - [http://www.msn.com/en-us/news/us/i-helped-my-friend-flee-the-taliban/ar-AA15mUqT?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/i-helped-my-friend-flee-the-taliban/ar-AA15mUqT?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 18:54:43.270074+00:00
- - tags: None
 
 
 
@@ -348,7 +305,6 @@
  - [http://www.msn.com/en-us/news/world/fox-news-benjamin-hall-urges-journalists-to-continue-telling-stories-from-war-after-deadly-ukraine-attack/ar-AA15n3I5?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/fox-news-benjamin-hall-urges-journalists-to-continue-telling-stories-from-war-after-deadly-ukraine-attack/ar-AA15n3I5?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 18:54:43.262936+00:00
- - tags: None
 
 
 
@@ -356,7 +312,6 @@
  - [http://www.msn.com/en-us/news/crime/5-louisiana-officers-charged-after-deadly-arrest-of-unarmed-black-man-in-2019/ar-AA15mRZC?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/5-louisiana-officers-charged-after-deadly-arrest-of-unarmed-black-man-in-2019/ar-AA15mRZC?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 18:54:43.255620+00:00
- - tags: None
 
 
 
@@ -364,7 +319,6 @@
  - [http://www.msn.com/en-us/news/politics/trump-sells-out-of-his-nft-trading-cards-depicting-him-as-a-hero-raking-in-over-1-million-report/ar-AA15mS35?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/trump-sells-out-of-his-nft-trading-cards-depicting-him-as-a-hero-raking-in-over-1-million-report/ar-AA15mS35?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 18:54:43.245772+00:00
- - tags: None
 
 
 
@@ -372,7 +326,6 @@
  - [http://www.msn.com/en-us/news/crime/fbi-minnesota-man-was-making-arsenal-revered-mass-shooters/ar-AA15mS39?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/fbi-minnesota-man-was-making-arsenal-revered-mass-shooters/ar-AA15mS39?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 18:54:43.238106+00:00
- - tags: None
 
 
 
@@ -380,7 +333,6 @@
  - [http://www.msn.com/en-us/news/world/a-million-shells-and-more-pentagon-revs-up-ukraine-weapons-aid-and-bolsters-stockpiles/ar-AA15lgSe?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/a-million-shells-and-more-pentagon-revs-up-ukraine-weapons-aid-and-bolsters-stockpiles/ar-AA15lgSe?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 17:54:36.120950+00:00
- - tags: None
 
 
 
@@ -388,7 +340,6 @@
  - [http://www.msn.com/en-us/news/politics/gop-rep-ronny-jackson-s-false-pedophilia-attack-on-katie-porter-blows-up-in-his-face/ar-AA15mHqZ?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/gop-rep-ronny-jackson-s-false-pedophilia-attack-on-katie-porter-blows-up-in-his-face/ar-AA15mHqZ?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 17:54:36.111503+00:00
- - tags: None
 
 
 
@@ -396,7 +347,6 @@
  - [http://www.msn.com/en-us/news/politics/a-retirement-check-from-the-armed-services-is-not-a-muzzle/ar-AA15mMu3?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/a-retirement-check-from-the-armed-services-is-not-a-muzzle/ar-AA15mMu3?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 17:54:36.104158+00:00
- - tags: None
 
 
 
@@ -404,7 +354,6 @@
  - [http://www.msn.com/en-us/news/politics/trump-sells-99-nft-trading-cards-of-himself-confusing-allies/ar-AA15kJ0q?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/trump-sells-99-nft-trading-cards-of-himself-confusing-allies/ar-AA15kJ0q?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 16:54:25.467594+00:00
- - tags: None
 
 
 
@@ -412,7 +361,6 @@
  - [http://www.msn.com/en-us/news/politics/fusion-breakthrough-will-lead-to-investments-but-its-use-won-t-come-overnight/ar-AA15lHQF?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/fusion-breakthrough-will-lead-to-investments-but-its-use-won-t-come-overnight/ar-AA15lHQF?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 12:59:50.243241+00:00
- - tags: None
 
 
 
@@ -420,7 +368,6 @@
  - [http://www.msn.com/en-us/news/world/russia-launches-another-major-missile-attack-on-ukraine/ar-AA15l4Uo?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/russia-launches-another-major-missile-attack-on-ukraine/ar-AA15l4Uo?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 08:25:02.640146+00:00
- - tags: None
 
 
 
@@ -428,7 +375,6 @@
  - [http://www.msn.com/en-us/news/politics/rep-sam-graves-set-to-take-the-wheel-at-house-transportation/ar-AA15l9gC?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/rep-sam-graves-set-to-take-the-wheel-at-house-transportation/ar-AA15l9gC?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 06:24:59.673828+00:00
- - tags: None
 
 
 
@@ -436,7 +382,6 @@
  - [http://www.msn.com/en-us/news/politics/sasse-s-exit-from-senate-prompts-gop-unease-over-replacement/ar-AA15l1IV?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/sasse-s-exit-from-senate-prompts-gop-unease-over-replacement/ar-AA15l1IV?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 06:24:59.664923+00:00
- - tags: None
 
 
 
@@ -444,7 +389,6 @@
  - [http://www.msn.com/en-us/news/world/ex-twitter-employee-sentenced-for-taking-bribes-to-monitor-users-of-interest-to-saudi-royal-family/ar-AA15lqCd?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/ex-twitter-employee-sentenced-for-taking-bribes-to-monitor-users-of-interest-to-saudi-royal-family/ar-AA15lqCd?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 06:24:59.656338+00:00
- - tags: None
 
 
 
@@ -452,7 +396,6 @@
  - [http://www.msn.com/en-us/news/world/peru-s-castillo-gets-18-month-detention-as-protests-continue/ar-AA15kLPU?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/peru-s-castillo-gets-18-month-detention-as-protests-continue/ar-AA15kLPU?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 06:24:59.648817+00:00
- - tags: None
 
 
 
@@ -460,7 +403,6 @@
  - [http://www.msn.com/en-us/news/technology/twitter-suspends-journalists-accounts-as-elon-musk-cracks-down-on-critics/ar-AA15l4cJ?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/twitter-suspends-journalists-accounts-as-elon-musk-cracks-down-on-critics/ar-AA15l4cJ?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 05:24:55.583317+00:00
- - tags: None
 
 
 
@@ -468,7 +410,6 @@
  - [http://www.msn.com/en-us/news/crime/mich-man-accused-of-assaulting-and-trafficking-pregnant-woman-arrested-this-guy-is-a-monster/ar-AA15l1r4?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/mich-man-accused-of-assaulting-and-trafficking-pregnant-woman-arrested-this-guy-is-a-monster/ar-AA15l1r4?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 05:24:55.576066+00:00
- - tags: None
 
 
 
@@ -476,7 +417,6 @@
  - [http://www.msn.com/en-us/news/world/the-philippines-just-passed-a-bill-to-create-a-sovereign-wealth-fund-here-s-why-it-s-controversial/ar-AA15lb5H?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/the-philippines-just-passed-a-bill-to-create-a-sovereign-wealth-fund-here-s-why-it-s-controversial/ar-AA15lb5H?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 05:24:55.568808+00:00
- - tags: None
 
 
 
@@ -484,7 +424,6 @@
  - [http://www.msn.com/en-us/news/politics/democrats-criticize-elon-musk-for-suspending-journalists-covering-twitter/ar-AA15le5W?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/democrats-criticize-elon-musk-for-suspending-journalists-covering-twitter/ar-AA15le5W?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 05:24:55.561550+00:00
- - tags: None
 
 
 
@@ -492,7 +431,6 @@
  - [http://www.msn.com/en-us/news/technology/a-week-of-unintentional-laughs/ar-AA15lqlJ?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/a-week-of-unintentional-laughs/ar-AA15lqlJ?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 05:24:55.553305+00:00
- - tags: None
 
 
 
@@ -500,7 +438,6 @@
  - [http://www.msn.com/en-us/news/world/us-requests-ex-marine-s-extradition-from-australia/ar-AA15lgCR?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/us-requests-ex-marine-s-extradition-from-australia/ar-AA15lgCR?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 05:24:55.545736+00:00
- - tags: None
 
 
 
@@ -508,7 +445,6 @@
  - [http://www.msn.com/en-us/news/politics/report-executions-continued-decline-but-many-botched/ar-AA15lsOE?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/report-executions-continued-decline-but-many-botched/ar-AA15lsOE?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 05:24:55.538351+00:00
- - tags: None
 
 
 
@@ -516,7 +452,6 @@
  - [http://www.msn.com/en-us/news/politics/chuck-schumer-explains-how-nancy-pelosi-handled-donald-trump-for-four-years/ar-AA15lfUN?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/chuck-schumer-explains-how-nancy-pelosi-handled-donald-trump-for-four-years/ar-AA15lfUN?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 04:24:50.568097+00:00
- - tags: None
 
 
 
@@ -524,7 +459,6 @@
  - [http://www.msn.com/en-us/news/politics/who-are-officers-charged-in-ronald-greene-s-deadly-arrest/ar-AA15kUw3?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/who-are-officers-charged-in-ronald-greene-s-deadly-arrest/ar-AA15kUw3?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 04:24:50.560916+00:00
- - tags: None
 
 
 
@@ -532,7 +466,6 @@
  - [http://www.msn.com/en-us/news/politics/military-discharged-over-vaccine-refusal-won-t-get-reinstated/ar-AA15l8MG?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/military-discharged-over-vaccine-refusal-won-t-get-reinstated/ar-AA15l8MG?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 04:24:50.552482+00:00
- - tags: None
 
 
 
@@ -540,7 +473,6 @@
  - [http://www.msn.com/en-us/news/world/ukraine-says-russia-planning-major-new-offensive/ar-AA15kS69?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/ukraine-says-russia-planning-major-new-offensive/ar-AA15kS69?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 04:24:50.545278+00:00
- - tags: None
 
 
 
@@ -548,7 +480,6 @@
  - [http://www.msn.com/en-us/news/technology/elon-musk-s-twitter-journalist-purge-has-begun/ar-AA15l8HJ?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/elon-musk-s-twitter-journalist-purge-has-begun/ar-AA15l8HJ?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 04:24:50.538061+00:00
- - tags: None
 
 
 
@@ -556,7 +487,6 @@
  - [http://www.msn.com/en-us/news/technology/the-college-student-tracking-elon-musk-s-private-plane-says-he-ll-continue-monitoring-musk-on-different-platforms-if-i-give-up-now-it-s-kind-of-like-letting-the-big-guy-win/ar-AA15ldH6?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/the-college-student-tracking-elon-musk-s-private-plane-says-he-ll-continue-monitoring-musk-on-different-platforms-if-i-give-up-now-it-s-kind-of-like-letting-the-big-guy-win/ar-AA15ldH6?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 04:24:50.529543+00:00
- - tags: None
 
 
 
@@ -564,7 +494,6 @@
  - [http://www.msn.com/en-us/news/politics/senate-passes-defense-bill-rescinding-covid-vaccine-mandate/ar-AA15kWWo?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/senate-passes-defense-bill-rescinding-covid-vaccine-mandate/ar-AA15kWWo?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 03:24:47.654022+00:00
- - tags: None
 
 
 
@@ -572,7 +501,6 @@
  - [http://www.msn.com/en-us/news/us/jesse-watters-when-you-give-out-free-money-in-reparations-nothing-is-ever-enough/ar-AA15kZfU?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/jesse-watters-when-you-give-out-free-money-in-reparations-nothing-is-ever-enough/ar-AA15kZfU?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 03:24:47.646954+00:00
- - tags: None
 
 
 
@@ -580,7 +508,6 @@
  - [http://www.msn.com/en-us/news/politics/sister-of-uvalde-victim-calls-for-assault-weapons-ban-before-congress/ar-AA15l3nh?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/sister-of-uvalde-victim-calls-for-assault-weapons-ban-before-congress/ar-AA15l3nh?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 03:24:47.639771+00:00
- - tags: None
 
 
 
@@ -588,7 +515,6 @@
  - [http://www.msn.com/en-us/news/politics/senate-passes-one-week-stopgap-as-congress-races-to-complete-year-long-spending-bill/ar-AA15l8fR?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/senate-passes-one-week-stopgap-as-congress-races-to-complete-year-long-spending-bill/ar-AA15l8fR?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 03:24:47.631820+00:00
- - tags: None
 
 
 
@@ -596,7 +522,6 @@
  - [http://www.msn.com/en-us/news/politics/senate-passes-one-week-government-funding-bill-averting-a-partial-shutdown/ar-AA15kZuV?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/senate-passes-one-week-government-funding-bill-averting-a-partial-shutdown/ar-AA15kZuV?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 03:24:47.623992+00:00
- - tags: None
 
 
 
@@ -604,7 +529,6 @@
  - [http://www.msn.com/en-us/news/politics/senate-sends-biden-bill-to-keep-gov-t-open-through-dec-23/ar-AA15l6o6?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/senate-sends-biden-bill-to-keep-gov-t-open-through-dec-23/ar-AA15l6o6?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 03:24:47.615810+00:00
- - tags: None
 
 
 
@@ -612,7 +536,6 @@
  - [http://www.msn.com/en-us/news/technology/twitter-bans-some-journalists-who-cover-elon-musk/ar-AA15l3uD?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/twitter-bans-some-journalists-who-cover-elon-musk/ar-AA15l3uD?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 03:24:47.608073+00:00
- - tags: None
 
 
 
@@ -620,7 +543,6 @@
  - [http://www.msn.com/en-us/news/politics/twitter-suspends-cnn-wapo-times-reporters-who-cover-elon/ar-AA15l3c9?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/twitter-suspends-cnn-wapo-times-reporters-who-cover-elon/ar-AA15l3c9?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 02:24:42.276260+00:00
- - tags: None
 
 
 
@@ -628,7 +550,6 @@
  - [http://www.msn.com/en-us/news/crime/mother-charged-with-murder-for-allegedly-tossing-baby-june-into-florida-inlet-in-2018-cold-case/ar-AA15kHzS?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/mother-charged-with-murder-for-allegedly-tossing-baby-june-into-florida-inlet-in-2018-cold-case/ar-AA15kHzS?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 02:24:42.268313+00:00
- - tags: None
 
 
 
@@ -636,7 +557,6 @@
  - [http://www.msn.com/en-us/news/technology/jupiter-s-volcanic-moon-io-fires-up-in-infrared-image-from-nasa-s-juno/ar-AA15kPjG?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/jupiter-s-volcanic-moon-io-fires-up-in-infrared-image-from-nasa-s-juno/ar-AA15kPjG?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 02:24:42.261070+00:00
- - tags: None
 
 
 
@@ -644,7 +564,6 @@
  - [http://www.msn.com/en-us/news/world/peruvians-protest-await-ruling-on-ex-president-s-detention/ar-AA15l3ao?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/peruvians-protest-await-ruling-on-ex-president-s-detention/ar-AA15l3ao?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 02:24:42.253972+00:00
- - tags: None
 
 
 
@@ -652,7 +571,6 @@
  - [http://www.msn.com/en-us/news/crime/survivors-of-gun-violence-in-a-club-no-one-asked-to-join/ar-AA15kHhz?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/survivors-of-gun-violence-in-a-club-no-one-asked-to-join/ar-AA15kHhz?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 02:24:42.246827+00:00
- - tags: None
 
 
 
@@ -660,7 +578,6 @@
  - [http://www.msn.com/en-us/news/crime/details-in-2021-case-with-colorado-shooter-suggest-missteps/ar-AA15kWHe?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/details-in-2021-case-with-colorado-shooter-suggest-missteps/ar-AA15kWHe?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 02:24:42.239719+00:00
- - tags: None
 
 
 
@@ -668,7 +585,6 @@
  - [http://www.msn.com/en-us/news/politics/republicans-question-uber-over-drivers-allegedly-transporting-drugs/ar-AA15l0I1?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/republicans-question-uber-over-drivers-allegedly-transporting-drugs/ar-AA15l0I1?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 02:24:42.232371+00:00
- - tags: None
 
 
 
@@ -676,7 +592,6 @@
  - [http://www.msn.com/en-us/news/technology/twitter-suspends-journalists-who-have-been-covering-elon-musk-and-the-company/ar-AA15kcrN?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/twitter-suspends-journalists-who-have-been-covering-elon-musk-and-the-company/ar-AA15kcrN?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 02:24:42.224089+00:00
- - tags: None
 
 
 
@@ -684,7 +599,6 @@
  - [http://www.msn.com/en-us/news/politics/senate-passes-defense-spending-bill-sending-it-to-biden-s-desk/ar-AA15kOGE?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/senate-passes-defense-spending-bill-sending-it-to-biden-s-desk/ar-AA15kOGE?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 01:24:45.343380+00:00
- - tags: None
 
 
 
@@ -692,7 +606,6 @@
  - [http://www.msn.com/en-us/news/politics/senate-sends-biden-military-bill-that-would-lift-covid-vaccine-mandate-for-troops-and-authorize-more-ukraine-funding/ar-AA15kH8X?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/senate-sends-biden-military-bill-that-would-lift-covid-vaccine-mandate-for-troops-and-authorize-more-ukraine-funding/ar-AA15kH8X?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 01:24:45.335504+00:00
- - tags: None
 
 
 
@@ -700,7 +613,6 @@
  - [http://www.msn.com/en-us/news/politics/senate-passes-847b-defense-bill-forcing-biden-s-hand-on-vaccine-mandate/ar-AA15l0kb?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/senate-passes-847b-defense-bill-forcing-biden-s-hand-on-vaccine-mandate/ar-AA15l0kb?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 01:24:45.328260+00:00
- - tags: None
 
 
 
@@ -708,7 +620,6 @@
  - [http://www.msn.com/en-us/news/politics/alaska-lawmaker-won-t-condemn-oath-keepers-in-capitol-riot/ar-AA15kLF8?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/alaska-lawmaker-won-t-condemn-oath-keepers-in-capitol-riot/ar-AA15kLF8?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 01:24:45.321057+00:00
- - tags: None
 
 
 
@@ -716,7 +627,6 @@
  - [http://www.msn.com/en-us/news/politics/twitter-suspends-mastodon-s-official-account/ar-AA15kKx7?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/twitter-suspends-mastodon-s-official-account/ar-AA15kKx7?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 01:24:45.313055+00:00
- - tags: None
 
 
 
@@ -724,7 +634,6 @@
  - [http://www.msn.com/en-us/news/politics/senate-passes-national-defense-authorization-act-bill-heads-to-president-biden/ar-AA15kYCu?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/senate-passes-national-defense-authorization-act-bill-heads-to-president-biden/ar-AA15kYCu?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 01:24:45.305893+00:00
- - tags: None
 
 
 
@@ -732,7 +641,6 @@
  - [http://www.msn.com/en-us/news/technology/deadpan-viral-dance-from-netflix-hit-wednesday-has-taken-over-tiktok/ar-AA14ZcTx?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/deadpan-viral-dance-from-netflix-hit-wednesday-has-taken-over-tiktok/ar-AA14ZcTx?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 01:24:45.297832+00:00
- - tags: None
 
 
 
@@ -740,7 +648,6 @@
  - [http://www.msn.com/en-us/news/world/trove-of-jfk-assassination-records-released-by-national-archives/ar-AA15kDeJ?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/trove-of-jfk-assassination-records-released-by-national-archives/ar-AA15kDeJ?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 01:24:45.289716+00:00
- - tags: None
 
 
 
@@ -748,7 +655,6 @@
  - [http://www.msn.com/en-us/news/politics/watch-tim-ryan-calls-out-scoundrels-crooks-liars-in-final-floor-speech/ar-AA15kY89?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/watch-tim-ryan-calls-out-scoundrels-crooks-liars-in-final-floor-speech/ar-AA15kY89?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 00:24:39.207949+00:00
- - tags: None
 
 
 
@@ -756,7 +662,6 @@
  - [http://www.msn.com/en-us/news/world/litvinenko-the-harrowing-story-of-the-russian-defector-who-says-he-was-poisoned-by-putin/ar-AA15kOaM?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/litvinenko-the-harrowing-story-of-the-russian-defector-who-says-he-was-poisoned-by-putin/ar-AA15kOaM?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 00:24:39.200294+00:00
- - tags: None
 
 
 
@@ -764,7 +669,6 @@
  - [http://www.msn.com/en-us/news/politics/semi-auto-gun-ban-only-part-of-solution-illinois-house-told/ar-AA15kJOV?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/semi-auto-gun-ban-only-part-of-solution-illinois-house-told/ar-AA15kJOV?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 00:24:39.192602+00:00
- - tags: None
 
 
 
@@ -772,7 +676,6 @@
  - [http://www.msn.com/en-us/news/us/feds-settle-with-california-city-and-sheriff-s-department-over-discriminatory-rental-housing-program/ar-AA15kcd2?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/feds-settle-with-california-city-and-sheriff-s-department-over-discriminatory-rental-housing-program/ar-AA15kcd2?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 00:24:39.184295+00:00
- - tags: None
 
 
 
@@ -780,7 +683,6 @@
  - [http://www.msn.com/en-us/news/crime/4-people-impersonate-fbi-agents-in-tactical-gear-during-dc-armed-home-robbery/ar-AA15kQsm?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/4-people-impersonate-fbi-agents-in-tactical-gear-during-dc-armed-home-robbery/ar-AA15kQsm?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 00:24:39.176665+00:00
- - tags: None
 
 
 
@@ -788,7 +690,6 @@
  - [http://www.msn.com/en-us/news/us/california-advances-goal-of-reparations-for-black-residents-activist-calls-for-350-000-per-person/ar-AA15kOj7?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/california-advances-goal-of-reparations-for-black-residents-activist-calls-for-350-000-per-person/ar-AA15kOj7?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 00:24:39.166452+00:00
- - tags: None
 
 
 
@@ -796,7 +697,6 @@
  - [http://www.msn.com/en-us/news/politics/on-the-money-gop-feuding-over-plan-to-fund-government/ar-AA15kY7f?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/on-the-money-gop-feuding-over-plan-to-fund-government/ar-AA15kY7f?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 00:24:39.158742+00:00
- - tags: None
 
 
 
@@ -804,6 +704,5 @@
  - [http://www.msn.com/en-us/news/technology/these-wordle-start-words-practically-guarantee-a-winning-streak/ar-AA146EZt?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/these-wordle-start-words-practically-guarantee-a-winning-streak/ar-AA146EZt?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-16 00:24:34.917040+00:00
- - tags: None
 
 

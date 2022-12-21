@@ -1,10 +1,9 @@
-# Source CNBC, Source URL:https://www.cnbc.com/id/100727362/device/rss/rss.html
+# Source CNBC, Source URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, Source language: en-US
 
 ## Cramer’s week ahead: Don’t let the Fed’s meeting obscure investing opportunities
  - [https://www.cnbc.com/2022/12/09/cramers-week-ahead-dont-let-the-feds-meeting-obscure-investing-opportunities.html](https://www.cnbc.com/2022/12/09/cramers-week-ahead-dont-let-the-feds-meeting-obscure-investing-opportunities.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-09 23:36:22+00:00
- - tags: None
 
 Two key economic events take place next week, including the release of the November consumer price index report and the Federal Reserve’s December meeting.
 
@@ -12,7 +11,6 @@ Two key economic events take place next week, including the release of the Novem
  - [https://www.cnbc.com/2022/12/09/majority-of-americans-dont-want-biden-or-trump-to-run-again-in-2024-cnbc-survey-shows.html](https://www.cnbc.com/2022/12/09/majority-of-americans-dont-want-biden-or-trump-to-run-again-in-2024-cnbc-survey-shows.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-09 23:16:34+00:00
- - tags: None
 
 The survey found 61% of the public think Trump should not seek the presidency, compared with 30% who believe he should.
 
@@ -20,7 +18,6 @@ The survey found 61% of the public think Trump should not seek the presidency, c
  - [https://www.cnbc.com/2022/12/09/sen-kyrsten-sinema-leaves-democratic-party-to-become-independent.html](https://www.cnbc.com/2022/12/09/sen-kyrsten-sinema-leaves-democratic-party-to-become-independent.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-09 20:56:38+00:00
- - tags: None
 
 Sinema said in a tweet she was declaring her "independence from the broken partisan system in Washington and formally registering as an Arizona Independent."
 
@@ -28,7 +25,6 @@ Sinema said in a tweet she was declaring her "independence from the broken parti
  - [https://www.cnbc.com/2022/12/09/americans-are-flocking-to-wildfire-country.html](https://www.cnbc.com/2022/12/09/americans-are-flocking-to-wildfire-country.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-09 19:04:02+00:00
- - tags: None
 
 From 2010 to 2020, Americans migrated to the Pacific Northwest, Southwest, Texas, Florida, and parts of the Southeast. Many of these places are prone to fire.
 
@@ -36,7 +32,6 @@ From 2010 to 2020, Americans migrated to the Pacific Northwest, Southwest, Texas
  - [https://www.cnbc.com/2022/12/09/nutritionist-shares-the-underrated-longevity-food-she-eats-every-day-to-boost-immune-system.html](https://www.cnbc.com/2022/12/09/nutritionist-shares-the-underrated-longevity-food-she-eats-every-day-to-boost-immune-system.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-09 17:51:30+00:00
- - tags: None
 
 Want to live to 100? Research says eating more legumes could help you live a longer life. Nutritionist Samantha Heller shares the benefits of this unexpectedly versatile food.
 
@@ -44,7 +39,6 @@ Want to live to 100? Research says eating more legumes could help you live a lon
  - [https://www.cnbc.com/2022/12/09/taylor-swift-direct-first-feature-film-disney.html](https://www.cnbc.com/2022/12/09/taylor-swift-direct-first-feature-film-disney.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-09 16:19:37+00:00
- - tags: None
 
 Taylor Swift has written an original script that will be produced by Disney's Searchlight Pictures.
 
@@ -52,7 +46,6 @@ Taylor Swift has written an original script that will be produced by Disney's Se
  - [https://www.cnbc.com/2022/12/09/grocery-delivery-firm-getir-acquires-embattled-rival-gorillas.html](https://www.cnbc.com/2022/12/09/grocery-delivery-firm-getir-acquires-embattled-rival-gorillas.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-09 14:56:45+00:00
- - tags: None
 
 The long-rumored takeover reportedly values Gorillas at $1.2 billion, down 15% from its last valuation.
 
@@ -60,7 +53,6 @@ The long-rumored takeover reportedly values Gorillas at $1.2 billion, down 15% f
  - [https://www.cnbc.com/2022/12/09/uk-finance-reforms-part-of-20-year-plan-to-be-the-next-silicon-valley.html](https://www.cnbc.com/2022/12/09/uk-finance-reforms-part-of-20-year-plan-to-be-the-next-silicon-valley.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-09 14:36:42+00:00
- - tags: None
 
 The reforms have been touted as a post-Brexit overhaul of EU laws that "choke off growth."
 
@@ -68,7 +60,6 @@ The reforms have been touted as a post-Brexit overhaul of EU laws that "choke of
  - [https://www.cnbc.com/2022/12/08/ftc-sues-to-block-microsofts-acquisition-of-game-giant-activision-blizzard.html](https://www.cnbc.com/2022/12/08/ftc-sues-to-block-microsofts-acquisition-of-game-giant-activision-blizzard.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-09 13:01:00+00:00
- - tags: None
 
 This isn't Microsoft's first run-in with U.S. regulators. Microsoft said it did believe in giving peace a chance. Now it looks forward to a court appearance.
 
@@ -76,7 +67,6 @@ This isn't Microsoft's first run-in with U.S. regulators. Microsoft said it did 
  - [https://www.cnbc.com/2022/12/09/european-central-bank-warns-that-an-eu-gas-price-cap-risks-financial-stability.html](https://www.cnbc.com/2022/12/09/european-central-bank-warns-that-an-eu-gas-price-cap-risks-financial-stability.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-09 13:00:31+00:00
- - tags: None
 
 The European Central Bank warned that an EU-wide cap on natural gas prices could jeopardize financial stability in the region.
 
@@ -84,7 +74,6 @@ The European Central Bank warned that an EU-wide cap on natural gas prices could
  - [https://www.cnbc.com/2022/12/09/huawei-licenses-5g-patents-to-rival-as-us-sanctions-bite.html](https://www.cnbc.com/2022/12/09/huawei-licenses-5g-patents-to-rival-as-us-sanctions-bite.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-09 12:21:04+00:00
- - tags: None
 
 Huawei historically has not monetized its huge chest of 5G patents but it is looking to find new revenue streams after U.S. sanctions crushed its mobile business.
 
@@ -92,7 +81,6 @@ Huawei historically has not monetized its huge chest of 5G patents but it is loo
  - [https://www.cnbc.com/2022/12/09/uk-set-for-christmas-travel-disruption-amid-air-and-rail-strikes.html](https://www.cnbc.com/2022/12/09/uk-set-for-christmas-travel-disruption-amid-air-and-rail-strikes.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-09 11:15:54+00:00
- - tags: None
 
 The government has urged the public to rethink their travel plans if they are on an affected service.
 
@@ -100,7 +88,6 @@ The government has urged the public to rethink their travel plans if they are on
  - [https://www.cnbc.com/2022/12/09/uk-announces-major-overhaul-of-its-financial-sector-in-attempt-to-spur-growth.html](https://www.cnbc.com/2022/12/09/uk-announces-major-overhaul-of-its-financial-sector-in-attempt-to-spur-growth.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-09 10:58:08+00:00
- - tags: None
 
 The U.K. government is seeking to overhaul EU laws that "choke off growth."
 
@@ -108,7 +95,6 @@ The U.K. government is seeking to overhaul EU laws that "choke off growth."
  - [https://www.cnbc.com/2022/12/09/tsmc-revenue-jumps-50percent-in-november-helped-by-apple-iphone-orders.html](https://www.cnbc.com/2022/12/09/tsmc-revenue-jumps-50percent-in-november-helped-by-apple-iphone-orders.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-09 09:33:06+00:00
- - tags: None
 
 The world's largest contract chipmaker reported the November surge thanks in part to orders of semiconductors for high-end smartphones such as Apple's iPhone.
 
@@ -116,7 +102,6 @@ The world's largest contract chipmaker reported the November surge thanks in par
  - [https://www.cnbc.com/2022/12/08/ukraine-and-russia-signal-war-will-not-die-down-over-winter.html](https://www.cnbc.com/2022/12/08/ukraine-and-russia-signal-war-will-not-die-down-over-winter.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-09 08:02:07+00:00
- - tags: None
 
 Russia and Ukraine are sending out smoke signals that there is no time — and no desire — for a cessation of hostilities.
 
@@ -124,7 +109,6 @@ Russia and Ukraine are sending out smoke signals that there is no time — and n
  - [https://www.cnbc.com/2022/12/09/fitch-solutions-5g-outlook-in-southeast-asia.html](https://www.cnbc.com/2022/12/09/fitch-solutions-5g-outlook-in-southeast-asia.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-09 04:26:30+00:00
- - tags: None
 
 A report by Fitch Solutions says that a 5G partnership between two conglomerates could help accelerate 5G in Southeast Asia but the outlook remains "bleak."
 
@@ -132,7 +116,6 @@ A report by Fitch Solutions says that a 5G partnership between two conglomerates
  - [https://www.cnbc.com/2022/12/09/yuan-boost-bk-asset-management.html](https://www.cnbc.com/2022/12/09/yuan-boost-bk-asset-management.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-09 02:33:01+00:00
- - tags: None
 
 The onshore and offshore Chinese yuan is expected to strengthen even further than current levels, according to BK Asset Management.
 
@@ -140,7 +123,6 @@ The onshore and offshore Chinese yuan is expected to strengthen even further tha
  - [https://www.cnbc.com/2022/12/09/china-is-moving-from-covid-zero-but-it-wont-be-straight-path-forward.html](https://www.cnbc.com/2022/12/09/china-is-moving-from-covid-zero-but-it-wont-be-straight-path-forward.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-09 02:28:13+00:00
- - tags: None
 
 As mainland China relaxes many of its stringent Covid controls, analysts point out the country is far from a quick return to a pre-pandemic situation.
 
@@ -148,7 +130,6 @@ As mainland China relaxes many of its stringent Covid controls, analysts point o
  - [https://www.cnbc.com/2022/12/08/sec-issues-new-guidance-requiring-companies-to-disclose-digital-currency-risks.html](https://www.cnbc.com/2022/12/08/sec-issues-new-guidance-requiring-companies-to-disclose-digital-currency-risks.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-09 00:18:35+00:00
- - tags: None
 
 Under the new SEC guidance, companies will have to include crypto asset holdings as well as their risk exposure to the FTX bankruptcy in their public filings.
 
@@ -156,6 +137,5 @@ Under the new SEC guidance, companies will have to include crypto asset holdings
  - [https://www.cnbc.com/2022/12/08/apple-supplier-foxconn-helped-convince-china-to-loosen-covid-rules-report.html](https://www.cnbc.com/2022/12/08/apple-supplier-foxconn-helped-convince-china-to-loosen-covid-rules-report.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-09 00:07:24+00:00
- - tags: None
 
 Foxconn founder Terry Gou reportedly said China's zero-Covid policy threatened its position in global supply chains.

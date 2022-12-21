@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## Here’s how marsh grass shrimp reduce drag while swimming
  - [https://arstechnica.com/?p=1901957](https://arstechnica.com/?p=1901957)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-05 23:03:09+00:00
- - tags: None
 
 The shrimp flexes its legs on the recovery stroke and keeps them close together.
 
@@ -12,7 +11,6 @@ The shrimp flexes its legs on the recovery stroke and keeps them close together.
  - [https://arstechnica.com/?p=1902045](https://arstechnica.com/?p=1902045)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-05 22:45:41+00:00
- - tags: None
 
 ChatGPT-generated command line can create virtual files, execute code, play games.
 
@@ -20,7 +18,6 @@ ChatGPT-generated command line can create virtual files, execute code, play game
  - [https://arstechnica.com/?p=1902183](https://arstechnica.com/?p=1902183)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-05 22:31:31+00:00
- - tags: None
 
 Bivalent vaccine wouldn't be a booster, but part of an updated primary series.
 
@@ -28,7 +25,6 @@ Bivalent vaccine wouldn't be a booster, but part of an updated primary series.
  - [https://arstechnica.com/?p=1902139](https://arstechnica.com/?p=1902139)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-05 21:54:14+00:00
- - tags: None
 
 A command typo might have dismantled most of an advanced malware's network.
 
@@ -36,7 +32,6 @@ A command typo might have dismantled most of an advanced malware's network.
  - [https://arstechnica.com/?p=1902118](https://arstechnica.com/?p=1902118)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-05 21:35:09+00:00
- - tags: None
 
 Respiratory illnesses are slamming the US, and things could get worse.
 
@@ -44,7 +39,6 @@ Respiratory illnesses are slamming the US, and things could get worse.
  - [https://arstechnica.com/?p=1902069](https://arstechnica.com/?p=1902069)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-05 21:27:22+00:00
- - tags: None
 
 Denver Police Department vows to train officers on how "Find My" app works.
 
@@ -52,7 +46,6 @@ Denver Police Department vows to train officers on how "Find My" app works.
  - [https://arstechnica.com/?p=1902119](https://arstechnica.com/?p=1902119)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-05 21:18:06+00:00
- - tags: None
 
 Company says new price ceiling reflects "technical complexity" of major games.
 
@@ -60,7 +53,6 @@ Company says new price ceiling reflects "technical complexity" of major games.
  - [https://arstechnica.com/?p=1902059](https://arstechnica.com/?p=1902059)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-05 20:54:03+00:00
- - tags: None
 
 New patch fixes widespread stuttering caused by "rushed" shader compilation update.
 
@@ -68,7 +60,6 @@ New patch fixes widespread stuttering caused by "rushed" shader compilation upda
  - [https://arstechnica.com/?p=1901955](https://arstechnica.com/?p=1901955)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-05 20:43:32+00:00
- - tags: None
 
 Shortages and price increases have given the GTX 1060 an unusually long life.
 
@@ -76,7 +67,6 @@ Shortages and price increases have given the GTX 1060 an unusually long life.
  - [https://arstechnica.com/?p=1902017](https://arstechnica.com/?p=1902017)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-05 19:24:28+00:00
- - tags: None
 
 The more neutral name is intended to protect the premium HBO brand.
 
@@ -84,7 +74,6 @@ The more neutral name is intended to protect the premium HBO brand.
  - [https://arstechnica.com/?p=1901954](https://arstechnica.com/?p=1901954)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-05 18:38:22+00:00
- - tags: None
 
 Cooler Master announces waitlist for long-awaited Orb X.
 
@@ -92,7 +81,6 @@ Cooler Master announces waitlist for long-awaited Orb X.
  - [https://arstechnica.com/?p=1901958](https://arstechnica.com/?p=1901958)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-05 18:12:05+00:00
- - tags: None
 
 Google wanted to click through websites on your behalf, but did that solve a problem?
 
@@ -100,7 +88,6 @@ Google wanted to click through websites on your behalf, but did that solve a pro
  - [https://arstechnica.com/?p=1901963](https://arstechnica.com/?p=1901963)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-05 17:04:32+00:00
- - tags: None
 
 Apple has "fully resumed" Twitter advertising after Musk misunderstanding.
 
@@ -108,7 +95,6 @@ Apple has "fully resumed" Twitter advertising after Musk misunderstanding.
  - [https://arstechnica.com/?p=1901876](https://arstechnica.com/?p=1901876)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-05 15:42:48+00:00
- - tags: None
 
 The cryptic game's new interface welcomes newcomers but preserves the chaos.
 
@@ -116,7 +102,6 @@ The cryptic game's new interface welcomes newcomers but preserves the chaos.
  - [https://arstechnica.com/?p=1901900](https://arstechnica.com/?p=1901900)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-05 14:42:23+00:00
- - tags: None
 
 Wagner Group soldiers are well-trained to identify those attired in NATO clothing.
 
@@ -124,7 +109,6 @@ Wagner Group soldiers are well-trained to identify those attired in NATO clothin
  - [https://arstechnica.com/?p=1901880](https://arstechnica.com/?p=1901880)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-05 14:28:02+00:00
- - tags: None
 
 By 2027, all light-duty vehicles bought by the federal government must be EVs.
 
@@ -132,7 +116,6 @@ By 2027, all light-duty vehicles bought by the federal government must be EVs.
  - [https://arstechnica.com/?p=1900812](https://arstechnica.com/?p=1900812)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-05 12:00:56+00:00
- - tags: None
 
 "I would say that we’re going to try our best to get there."
 
@@ -140,6 +123,5 @@ By 2027, all light-duty vehicles bought by the federal government must be EVs.
  - [https://arstechnica.com/?p=1901873](https://arstechnica.com/?p=1901873)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-05 10:00:46+00:00
- - tags: None
 
 The electrified version of Ford's best-selling van is finding new friends.

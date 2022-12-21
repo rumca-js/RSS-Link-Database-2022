@@ -1,4 +1,4 @@
-# Source Business insider, Source URL:https://businessinsider.com.pl/.feed
+# Source Business insider, Source URL:https://businessinsider.com.pl/.feed, Source language: en-US
 
 ## Prezes URE zatwierdził taryfy, rząd zamroził ceny. Oto co zobaczymy na rachunkach
  - [https://businessinsider.com.pl/twoje-pieniadze/prezes-ure-zatwierdzil-taryfy-rzad-zamrozil-ceny-oto-co-zobaczymy-na-rachunkach/l9phlhs](https://businessinsider.com.pl/twoje-pieniadze/prezes-ure-zatwierdzil-taryfy-rzad-zamrozil-ceny-oto-co-zobaczymy-na-rachunkach/l9phlhs)

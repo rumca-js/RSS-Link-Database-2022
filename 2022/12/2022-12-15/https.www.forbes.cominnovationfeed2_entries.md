@@ -1,10 +1,25 @@
-# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2
+# Source Forbs - innovation, Source URL:https://www.forbes.com/innovation/feed2, Source language: en-US
+
+## What Does The US Fusion Breakthrough Mean? Is It Just Hype?
+ - [https://www.forbes.com/sites/melaniewindridge/2022/12/15/what-does-the-us-fusion-breakthrough-mean-is-it-just-hype/](https://www.forbes.com/sites/melaniewindridge/2022/12/15/what-does-the-us-fusion-breakthrough-mean-is-it-just-hype/)
+ - RSS feed: https://www.forbes.com/innovation/feed2
+ - date published: 2022-12-15 23:59:13+00:00
+
+The news has been hailed as a breakthrough and received extensive media coverage, but critics point out that the energy released was tiny and that we are a long way from having any fusion electricity on the grid.  
+
+So why all the hype?  Is it really such a big deal?
+
+## Tonnes Of Airborne Microplastics Drop Onto Cities Every Year
+ - [https://www.forbes.com/sites/lauriewinkless/2022/12/15/tonnes-of-airborne-microplastics-drop-onto-cities-every-year/](https://www.forbes.com/sites/lauriewinkless/2022/12/15/tonnes-of-airborne-microplastics-drop-onto-cities-every-year/)
+ - RSS feed: https://www.forbes.com/innovation/feed2
+ - date published: 2022-12-15 23:30:54+00:00
+
+These scientists estimate that an astonishing 74 metric tonnes of microplastics – about the same weight as three million plastic bottles – fall out of the atmosphere and onto New Zealand's largest city every year.
 
 ## The Best Golf Simulators That Keep You On The Virtual Links Year-Round
  - [https://www.forbes.com/sites/johnscottlewinski/article/best-golf-simulators/](https://www.forbes.com/sites/johnscottlewinski/article/best-golf-simulators/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 22:37:58+00:00
- - Starred: False
 
 Whether you're looking to refine your driver swing or brush up on your short game, the best golf simulators offer year-round practice from the comfort of your own home. We've rounded up 12 of the best simulators you can buy today.
 
@@ -12,7 +27,6 @@ Whether you're looking to refine your driver swing or brush up on your short gam
  - [https://www.forbes.com/sites/krisholt/2022/12/15/overwatch-2-patch-notes-hotfix-balance-changes-buffs-nerfs-sojourn-doomfist-ramattra-orisa-tracer-ana-kiriko/](https://www.forbes.com/sites/krisholt/2022/12/15/overwatch-2-patch-notes-hotfix-balance-changes-buffs-nerfs-sojourn-doomfist-ramattra-orisa-tracer-ana-kiriko/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 21:45:02+00:00
- - Starred: False
 
 Orisa, Tracer, Ana and Kiriko also got some changes.
 
@@ -20,7 +34,6 @@ Orisa, Tracer, Ana and Kiriko also got some changes.
  - [https://www.forbes.com/sites/johnbbrandon/2022/12/15/social-media-users-raved-about-these-innovative-gadgets-in-2022/](https://www.forbes.com/sites/johnbbrandon/2022/12/15/social-media-users-raved-about-these-innovative-gadgets-in-2022/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 21:40:38+00:00
- - Starred: False
 
 These products were trending on Twitter and elsewhere, and influencers posted about them constantly.
 
@@ -28,7 +41,6 @@ These products were trending on Twitter and elsewhere, and influencers posted ab
  - [https://www.forbes.com/sites/forrester/2022/12/15/enterprises-beware-of-coherent-nonsense-when-implementing-generative-ai/](https://www.forbes.com/sites/forrester/2022/12/15/enterprises-beware-of-coherent-nonsense-when-implementing-generative-ai/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 20:24:14+00:00
- - Starred: False
 
 Enterprises should be excited about experimenting with and integrating generative AI into the workflows of employees — but this excitement should not distract from the need to maintain the transparency and governance.
 
@@ -36,7 +48,6 @@ Enterprises should be excited about experimenting with and integrating generativ
  - [https://www.forbes.com/sites/kyndryl/2022/12/15/three-questions-to-ask-before-modernizing-your-mainframe/](https://www.forbes.com/sites/kyndryl/2022/12/15/three-questions-to-ask-before-modernizing-your-mainframe/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 19:49:44+00:00
- - Starred: False
 
 The mainframe has compacted and evolved into a cutting edge state—similar to other technologies modernized over decades like car engines, commercial jets or personal computers.
 
@@ -44,7 +55,6 @@ The mainframe has compacted and evolved into a cutting edge state—similar to o
  - [https://www.forbes.com/sites/petersuciu/2022/12/15/clock-is-ticking-for-tiktok--senate-unanimously-approved-ban-on-government-devices/](https://www.forbes.com/sites/petersuciu/2022/12/15/clock-is-ticking-for-tiktok--senate-unanimously-approved-ban-on-government-devices/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 19:10:42+00:00
- - Starred: False
 
 The "No TikTok on Government Devices Act," introduced by Sen. Josh Hawley (R-MO), was passed with unanimous consent.
 
@@ -52,7 +62,6 @@ The "No TikTok on Government Devices Act," introduced by Sen. Josh Hawley (R-MO)
  - [https://www.forbes.com/sites/jamiecartereurope/2022/12/15/the-sun-just-unleashed-a-remarkable-series-of-solar-flares-on-its-most-active-day-for-years/](https://www.forbes.com/sites/jamiecartereurope/2022/12/15/the-sun-just-unleashed-a-remarkable-series-of-solar-flares-on-its-most-active-day-for-years/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 18:59:18+00:00
- - Starred: False
 
 Sunspots on the Sun are on the increase and yesterday one of them produced no fewer than eight solar flares.
 
@@ -60,7 +69,6 @@ Sunspots on the Sun are on the increase and yesterday one of them produced no fe
  - [https://www.forbes.com/sites/johnbbrandon/2022/12/15/artificial-intelligence-will-help-social-media-radically-evolve-in-2023/](https://www.forbes.com/sites/johnbbrandon/2022/12/15/artificial-intelligence-will-help-social-media-radically-evolve-in-2023/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 17:52:21+00:00
- - Starred: False
 
 Bots will eventually do most of the detailed work for us.
 
@@ -68,7 +76,6 @@ Bots will eventually do most of the detailed work for us.
  - [https://www.forbes.com/sites/brianbushard/2022/12/15/2022-major-layoffs-grow-tech-companies-thumbtack-and-bigcommerce-cutting-hundreds-of-jobs/](https://www.forbes.com/sites/brianbushard/2022/12/15/2022-major-layoffs-grow-tech-companies-thumbtack-and-bigcommerce-cutting-hundreds-of-jobs/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 17:46:27+00:00
- - Starred: False
 
 Forbes is tracking the biggest layoffs in the U.S. this year as companies react to fears of a looming recession.
 
@@ -76,7 +83,6 @@ Forbes is tracking the biggest layoffs in the U.S. this year as companies react 
  - [https://www.forbes.com/sites/alanohnsman/2022/12/15/nikola-and-plug-power-form-green-hydrogen-fuel-cell-truck-supply-partnership/](https://www.forbes.com/sites/alanohnsman/2022/12/15/nikola-and-plug-power-form-green-hydrogen-fuel-cell-truck-supply-partnership/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 17:21:26+00:00
- - Starred: False
 
 The fuel cell maker will provide Nikola with 125 tons per day of the carbon-free fuel as well as liquefaction equipment and will also purchase 75 of its hydrogen-powered Tre semis.
 
@@ -84,7 +90,6 @@ The fuel cell maker will provide Nikola with 125 tons per day of the carbon-free
  - [https://www.forbes.com/sites/emilybaker-white/2022/12/15/raja-krishnamoorthi-democrat-tiktok-ban-china/](https://www.forbes.com/sites/emilybaker-white/2022/12/15/raja-krishnamoorthi-democrat-tiktok-ban-china/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 17:20:45+00:00
- - Starred: False
 
 “Because they have not been fully transparent, I think there’s genuine bipartisan concern now,” the congressman told Forbes of his decision to cosponsor a bill to ban the social media app.
 
@@ -92,7 +97,6 @@ The fuel cell maker will provide Nikola with 125 tons per day of the carbon-free
  - [https://www.forbes.com/sites/ericmack/2022/12/15/solar-flares-are-exploding-off-the-sun-this-week/](https://www.forbes.com/sites/ericmack/2022/12/15/solar-flares-are-exploding-off-the-sun-this-week/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 17:15:23+00:00
- - Starred: False
 
 The sun is in a volatile place and it also happens to be staring right at us as it continues to blow off steam, or rather, plasma.
 
@@ -100,7 +104,6 @@ The sun is in a volatile place and it also happens to be staring right at us as 
  - [https://www.forbes.com/sites/anandparekh/2022/12/15/the-healthcare-industry-needs-to-better-prevent-chronic-diseases/](https://www.forbes.com/sites/anandparekh/2022/12/15/the-healthcare-industry-needs-to-better-prevent-chronic-diseases/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 17:09:58+00:00
- - Starred: False
 
 But what role does the health care system play in tackling chronic diseases and how do we leverage the $4.1 trillion it spends annually? The answer can be summed up in one word: prevention.
 
@@ -108,7 +111,6 @@ But what role does the health care system play in tackling chronic diseases and 
  - [https://www.forbes.com/sites/charliefink/2022/12/15/10-tech-gifts-that-cant-miss/](https://www.forbes.com/sites/charliefink/2022/12/15/10-tech-gifts-that-cant-miss/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 16:49:48+00:00
- - Starred: False
 
 We made a list and checked it thrice.
 
@@ -116,7 +118,6 @@ We made a list and checked it thrice.
  - [https://www.forbes.com/sites/mattgardner1/2022/12/15/inkulinati-2023s-most-unique-indie-game-finally-gets-release-date/](https://www.forbes.com/sites/mattgardner1/2022/12/15/inkulinati-2023s-most-unique-indie-game-finally-gets-release-date/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 16:18:42+00:00
- - Starred: False
 
 Two-time Gamescom award-winning indie game ‘Inkulinati’ is landing on Xbox, Game Pass, and PC early next year.
 
@@ -124,7 +125,6 @@ Two-time Gamescom award-winning indie game ‘Inkulinati’ is landing on Xbox, 
  - [https://www.forbes.com/sites/dianafurchtgott-roth/2022/12/15/free-economies-are-clean-without-subsidizing-renewables/](https://www.forbes.com/sites/dianafurchtgott-roth/2022/12/15/free-economies-are-clean-without-subsidizing-renewables/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 16:18:30+00:00
- - Starred: False
 
 As income increases, people demand cleaner air and water, and move to places that have a healthier environment.
 
@@ -132,7 +132,6 @@ As income increases, people demand cleaner air and water, and move to places tha
  - [https://www.forbes.com/sites/melissacristinamarquez/2022/12/15/house-passes-legislation-banning-the-us-shark-fin-trade/](https://www.forbes.com/sites/melissacristinamarquez/2022/12/15/house-passes-legislation-banning-the-us-shark-fin-trade/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 16:13:00+00:00
- - Starred: False
 
 The National Defense Authorization Act includes provisions to end the U.S. shark fin trade and combat illegal fishing.
 
@@ -140,7 +139,6 @@ The National Defense Authorization Act includes provisions to end the U.S. shark
  - [https://www.forbes.com/sites/quora/2022/12/15/how-to-boost-your-chances-when-switching-jobs/](https://www.forbes.com/sites/quora/2022/12/15/how-to-boost-your-chances-when-switching-jobs/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 16:00:00+00:00
- - Starred: False
 
 How can one best switch jobs? Answer by Marty Nemko, Career Coach on Quora.
 
@@ -148,7 +146,6 @@ How can one best switch jobs? Answer by Marty Nemko, Career Coach on Quora.
  - [https://www.forbes.com/sites/robtoews/2022/12/15/what-we-got-right-and-wrong-in-our-2022-ai-predictions/](https://www.forbes.com/sites/robtoews/2022/12/15/what-we-got-right-and-wrong-in-our-2022-ai-predictions/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 15:42:38+00:00
- - Starred: False
 
 5 correct predictions, 3 incorrect predictions, 2 tossups. Not bad!
 
@@ -156,7 +153,6 @@ How can one best switch jobs? Answer by Marty Nemko, Career Coach on Quora.
  - [https://www.forbes.com/sites/forbestechcouncil/2022/12/15/navigating-the-first-conversation-effectively-to-secure-a-letter-of-intent/](https://www.forbes.com/sites/forbestechcouncil/2022/12/15/navigating-the-first-conversation-effectively-to-secure-a-letter-of-intent/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 15:15:00+00:00
- - Starred: False
 
 Even if a target knows you’re in corporate development and can guess why you’re reaching out, take the time to establish trust first.
 
@@ -164,7 +160,6 @@ Even if a target knows you’re in corporate development and can guess why you�
  - [https://www.forbes.com/sites/curtissilver/2022/12/15/magic-the-gathering-announces-march-of-the-machine-expansion-release-dates/](https://www.forbes.com/sites/curtissilver/2022/12/15/magic-the-gathering-announces-march-of-the-machine-expansion-release-dates/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 15:06:41+00:00
- - Starred: False
 
 The 96th expansion for Magic: The Gathering will be March Of The Machine, announced this week.
 
@@ -172,7 +167,6 @@ The 96th expansion for Magic: The Gathering will be March Of The Machine, announ
  - [https://www.forbes.com/sites/garydrenik/2022/12/15/is-microalgae-going-to-feed-the-world-and-save-it/](https://www.forbes.com/sites/garydrenik/2022/12/15/is-microalgae-going-to-feed-the-world-and-save-it/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 15:00:00+00:00
- - Starred: False
 
 The world’s population is growing rapidly as we were recently informed that the 8th billionth person was born. By 2050 the world’s population is expected to reach 9.7 billion people. How are we going to feed all these people healthy and nutritious food?
 
@@ -180,7 +174,6 @@ The world’s population is growing rapidly as we were recently informed that th
  - [https://www.forbes.com/sites/forbestechcouncil/2022/12/15/what-it-means-to-be-a-dealmaker-in-a-relationship-driven-economy/](https://www.forbes.com/sites/forbestechcouncil/2022/12/15/what-it-means-to-be-a-dealmaker-in-a-relationship-driven-economy/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 15:00:00+00:00
- - Starred: False
 
 We're moving beyond a surface-level understanding of professional relationships into an understanding of how data can help drive a deal forward.
 
@@ -188,7 +181,6 @@ We're moving beyond a surface-level understanding of professional relationships 
  - [https://www.forbes.com/video/6317282668112/](https://www.forbes.com/video/6317282668112/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 14:58:12+00:00
- - Starred: False
 
 Spotlight: Preventing the Next Global Public Health Crisis
 
@@ -196,7 +188,6 @@ Spotlight: Preventing the Next Global Public Health Crisis
  - [https://www.forbes.com/sites/paultassi/2022/12/15/what-actor-can-possibly-play-kratos-in-a-live-action-amazon-show/](https://www.forbes.com/sites/paultassi/2022/12/15/what-actor-can-possibly-play-kratos-in-a-live-action-amazon-show/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 14:54:57+00:00
- - Starred: False
 
 Amazon just announced that it will be making a live-action God of War series set in the more recent Norse era of the games, where God of War/God of War Ragnarok have moved on from Greek mythology to a more nuanced story about fatherhood, rather than pure violence.
 
@@ -204,7 +195,6 @@ Amazon just announced that it will be making a live-action God of War series set
  - [https://www.forbes.com/sites/forbestechcouncil/2022/12/15/how-getting-innovationops-processes-in-place-now-can-kickstart-innovation-in-2023/](https://www.forbes.com/sites/forbestechcouncil/2022/12/15/how-getting-innovationops-processes-in-place-now-can-kickstart-innovation-in-2023/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 14:45:00+00:00
- - Starred: False
 
 Ops are all the rage these days, and here’s another one that will come to the forefront in 2023: InnovationOps.
 
@@ -212,7 +202,6 @@ Ops are all the rage these days, and here’s another one that will come to the 
  - [https://www.forbes.com/sites/forbestechcouncil/2022/12/15/operational-resilience-fortifying-your-company-against-disruption/](https://www.forbes.com/sites/forbestechcouncil/2022/12/15/operational-resilience-fortifying-your-company-against-disruption/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 14:30:00+00:00
- - Starred: False
 
 Here are two important operational resilience recommendations so your organization can increase its adaptability and responsiveness in the face of new challenges.
 
@@ -220,7 +209,6 @@ Here are two important operational resilience recommendations so your organizati
  - [https://www.forbes.com/sites/paultassi/2022/12/15/marvel-snap-suckered-me-into-becoming-a-whale-with-good-art/](https://www.forbes.com/sites/paultassi/2022/12/15/marvel-snap-suckered-me-into-becoming-a-whale-with-good-art/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 14:28:00+00:00
- - Starred: False
 
 I was so proud of myself. I was playing Marvel Snap avidly, with no temptation to drop hundreds of dollars on card packs to assemble decks like I used to with Hearthstone. I bought a $10 season pass, but that was it, and I was having fun playing without feeling the need to spend money
 
@@ -228,7 +216,6 @@ I was so proud of myself. I was playing Marvel Snap avidly, with no temptation t
  - [https://www.forbes.com/sites/forbestechcouncil/2022/12/15/how-the-metaverse-could-impact-businesses-in-the-not-too-distant-future/](https://www.forbes.com/sites/forbestechcouncil/2022/12/15/how-the-metaverse-could-impact-businesses-in-the-not-too-distant-future/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 14:15:00+00:00
- - Starred: False
 
 With this transition, digital worlds in which people can create, interact, invent new identities and even world-build—all tenets of the evolving definition of “metaverse”—have become relatively mainstream.
 
@@ -236,7 +223,6 @@ With this transition, digital worlds in which people can create, interact, inven
  - [https://www.forbes.com/sites/brucedorminey/2022/12/15/astronomers-make-multispectral-map-of-novas-latest-outburst/](https://www.forbes.com/sites/brucedorminey/2022/12/15/astronomers-make-multispectral-map-of-novas-latest-outburst/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 10:13:05+00:00
- - Starred: False
 
 Historic British radio telescope helps produce extensive maps of the aftermath of a galactic stellar nova outburst.
 
@@ -244,7 +230,6 @@ Historic British radio telescope helps produce extensive maps of the aftermath o
  - [https://www.forbes.com/sites/johncumbers/2022/12/15/ginkgo-has-hired-a-new-head-of-biopharma-to-disrupt-the-gene-and-cell-therapies-market/](https://www.forbes.com/sites/johncumbers/2022/12/15/ginkgo-has-hired-a-new-head-of-biopharma-to-disrupt-the-gene-and-cell-therapies-market/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 10:09:29+00:00
- - Starred: False
 
 Cell therapies save lives but can cost millions of dollars because of how slow and inefficient pharma R&amp;D is. What if cell engineering was outsourced to synbio companies like Ginkgo that specialize in programming biology? This could be a game changer.
 
@@ -252,7 +237,6 @@ Cell therapies save lives but can cost millions of dollars because of how slow a
  - [https://www.forbes.com/sites/adrianbridgwater/2022/12/15/what-cloud-modernization-means/](https://www.forbes.com/sites/adrianbridgwater/2022/12/15/what-cloud-modernization-means/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 10:05:15+00:00
- - Starred: False
 
 We now move to so-called ‘modern cloud’, a state of being where we can tap into new optimizations and automations being brought to market by the major hyperscalers (AWS, Google Cloud Platform & Microsoft Azure, obviously) and the contenders edging for a space at the group-of-three’s big table.
 
@@ -260,7 +244,6 @@ We now move to so-called ‘modern cloud’, a state of being where we can tap i
  - [https://www.forbes.com/sites/bobeccles/2022/12/15/a-conversation-with-greg-goff-about-the-energy-transition-and-esg/](https://www.forbes.com/sites/bobeccles/2022/12/15/a-conversation-with-greg-goff-about-the-energy-transition-and-esg/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 09:20:52+00:00
- - Starred: False
 
 I had the pleasure of interviewing Mr. Greg Goff, an experienced oil and gas executive, about the energy transition and ESG. He sees climate change "as the biggest challenge of my lifetime" but a challenge that can be met. In terms of the ESG controversy,  he suggests we add "Value" to make it ESGV.
 
@@ -268,7 +251,6 @@ I had the pleasure of interviewing Mr. Greg Goff, an experienced oil and gas exe
  - [https://www.forbes.com/sites/brucelee/2022/12/15/is-mers-coronavirus-really-a-concern-at-the-2022-world-cup/](https://www.forbes.com/sites/brucelee/2022/12/15/is-mers-coronavirus-really-a-concern-at-the-2022-world-cup/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 05:06:51+00:00
- - Starred: False
 
 MERS has been trending on Twitter. But are concerns about the so-called "camel flu" justified?
 
@@ -276,7 +258,6 @@ MERS has been trending on Twitter. But are concerns about the so-called "camel f
  - [https://www.forbes.com/sites/krisholt/2022/12/14/heardle-answer-and-clues-for-thursday-december-15/](https://www.forbes.com/sites/krisholt/2022/12/14/heardle-answer-and-clues-for-thursday-december-15/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 04:13:52+00:00
- - Starred: False
 
 Here's today's 'Heardle' song, along with some hints.
 
@@ -284,7 +265,6 @@ Here's today's 'Heardle' song, along with some hints.
  - [https://www.forbes.com/sites/krisholt/2022/12/14/quordle-answers-and-clues-for-thursday-december-15/](https://www.forbes.com/sites/krisholt/2022/12/14/quordle-answers-and-clues-for-thursday-december-15/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 03:41:13+00:00
- - Starred: False
 
 Some hints and the solution for today's 'Quordle' are just ahead.
 
@@ -292,7 +272,6 @@ Some hints and the solution for today's 'Quordle' are just ahead.
  - [https://www.forbes.com/sites/erikkain/2022/12/14/todays-wordle-544-hints-clues-and-answer-for-thursday-december-15th/](https://www.forbes.com/sites/erikkain/2022/12/14/todays-wordle-544-hints-clues-and-answer-for-thursday-december-15th/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 03:30:09+00:00
- - Starred: False
 
 How to solve today's Wordle.
 
@@ -300,7 +279,6 @@ How to solve today's Wordle.
  - [https://www.forbes.com/sites/brucejapsen/2022/12/14/centene-ceo-shakes-up-management-team/](https://www.forbes.com/sites/brucejapsen/2022/12/14/centene-ceo-shakes-up-management-team/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 03:08:32+00:00
- - Starred: False
 
 Health insurer Centene shuffled its senior management ranks, elevating Ken Fasola to become president of the company and promoting two other executives.
 
@@ -308,7 +286,6 @@ Health insurer Centene shuffled its senior management ranks, elevating Ken Fasol
  - [https://www.forbes.com/sites/erikkain/2022/12/14/henry-cavill-is-not-returning-as-superman/](https://www.forbes.com/sites/erikkain/2022/12/14/henry-cavill-is-not-returning-as-superman/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 03:01:26+00:00
- - Starred: False
 
 Just weeks after announcing his return as Superman to the DC films, Henry Cavill has been kicked out of the Justice League once again.
 
@@ -316,7 +293,6 @@ Just weeks after announcing his return as Superman to the DC films, Henry Cavill
  - [https://www.forbes.com/sites/jamiecartereurope/2022/12/14/welcome-to-janssen-the-hell-planet-of-lava-and-diamonds-where-a-year-lasts-18-hours/](https://www.forbes.com/sites/jamiecartereurope/2022/12/14/welcome-to-janssen-the-hell-planet-of-lava-and-diamonds-where-a-year-lasts-18-hours/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 01:00:00+00:00
- - Starred: False
 
 New research reveals more about how the exoplanet 55 Cnc e (nicknamed Janssen) got so close to its host star Copernicus.
 
@@ -324,6 +300,5 @@ New research reveals more about how the exoplanet 55 Cnc e (nicknamed Janssen) g
  - [https://www.forbes.com/sites/erikkain/2022/12/14/how-to-unlock-the-chimera--honey-badger-in-modern-warfare-ii-and-warzone-2/](https://www.forbes.com/sites/erikkain/2022/12/14/how-to-unlock-the-chimera--honey-badger-in-modern-warfare-ii-and-warzone-2/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-15 00:44:37+00:00
- - Starred: False
 
 How to unlock the Chimera AR in Modern Warfare II and Warzone 2.

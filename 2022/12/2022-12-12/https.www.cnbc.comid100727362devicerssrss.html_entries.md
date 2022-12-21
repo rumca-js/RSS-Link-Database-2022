@@ -1,10 +1,9 @@
-# Source CNBC, Source URL:https://www.cnbc.com/id/100727362/device/rss/rss.html
+# Source CNBC, Source URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, Source language: en-US
 
 ## Jim Cramer says three key deals helped the market rally on Monday
  - [https://www.cnbc.com/2022/12/12/jim-cramer-says-three-key-deals-helped-the-market-rally-on-monday.html](https://www.cnbc.com/2022/12/12/jim-cramer-says-three-key-deals-helped-the-market-rally-on-monday.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-12 23:51:41+00:00
- - tags: None
 
 Stocks rose on Monday ahead of the monthly consumer price index report set to release Tuesday and the Federal Reserve’s December meeting.
 
@@ -12,7 +11,6 @@ Stocks rose on Monday ahead of the monthly consumer price index report set to re
  - [https://www.cnbc.com/2022/12/12/former-ftx-ceo-sam-bankman-fried-refuses-to-testify-by-senate-banking-.html](https://www.cnbc.com/2022/12/12/former-ftx-ceo-sam-bankman-fried-refuses-to-testify-by-senate-banking-.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-12 22:38:01+00:00
- - tags: None
 
 FTX CEO Sam Bankman-Fried refused to testify at a Wednesday hearing in front of the Senate Banking Committee.
 
@@ -20,7 +18,6 @@ FTX CEO Sam Bankman-Fried refused to testify at a Wednesday hearing in front of 
  - [https://www.cnbc.com/2022/12/12/epa-gm-stellantis-rank-worst-for-fuel-efficiency-even-amid-ev-push.html](https://www.cnbc.com/2022/12/12/epa-gm-stellantis-rank-worst-for-fuel-efficiency-even-amid-ev-push.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-12 21:54:52+00:00
- - tags: None
 
 Both automakers decreased their fuel economy and increased C02 emissions since the 2016 model-year, as did Hyundai Motor, Mazda and Volkswagen.
 
@@ -28,7 +25,6 @@ Both automakers decreased their fuel economy and increased C02 emissions since t
  - [https://www.cnbc.com/2022/12/12/twitter-blue-relaunches-with-steeper-price-for-apple-users-.html](https://www.cnbc.com/2022/12/12/twitter-blue-relaunches-with-steeper-price-for-apple-users-.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-12 21:31:40+00:00
- - tags: None
 
 Twitter relaunched its updated Twitter Blue subscription service Monday after the company's new owner Elon Musk pulled and delayed the launch in November.
 
@@ -36,7 +32,6 @@ Twitter relaunched its updated Twitter Blue subscription service Monday after th
  - [https://www.cnbc.com/2022/12/12/consumer-inflation-expected-to-have-continued-cooling-in-november-but-still-high.html](https://www.cnbc.com/2022/12/12/consumer-inflation-expected-to-have-continued-cooling-in-november-but-still-high.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-12 21:18:03+00:00
- - tags: None
 
 Consumer inflation likely cooled in November, but prices continue to rise at a still high rate, particularly for services.
 
@@ -44,7 +39,6 @@ Consumer inflation likely cooled in November, but prices continue to rise at a s
  - [https://www.cnbc.com/2022/12/12/elon-musk-is-no-longer-the-richest-person-in-the-world.html](https://www.cnbc.com/2022/12/12/elon-musk-is-no-longer-the-richest-person-in-the-world.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-12 21:14:11+00:00
- - tags: None
 
 Bernard Arnault is now the richest man in the world, dethroning Tesla CEO Elon Musk after a continued decline in Tesla share price, according to Forbes.
 
@@ -52,7 +46,6 @@ Bernard Arnault is now the richest man in the world, dethroning Tesla CEO Elon M
  - [https://www.cnbc.com/2022/12/12/new-ftx-ceo-will-testify-about-utter-failure-of-corporate-controls-.html](https://www.cnbc.com/2022/12/12/new-ftx-ceo-will-testify-about-utter-failure-of-corporate-controls-.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-12 20:16:16+00:00
- - tags: None
 
 FTX CEO John J. Ray III plans to testify before the House Financial Services Committee on Tuesday.
 
@@ -60,7 +53,6 @@ FTX CEO John J. Ray III plans to testify before the House Financial Services Com
  - [https://www.cnbc.com/2022/12/12/chinese-police-arrest-gang-who-laundered-1point7-billion-via-cryptocurrency.html](https://www.cnbc.com/2022/12/12/chinese-police-arrest-gang-who-laundered-1point7-billion-via-cryptocurrency.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-12 15:54:24+00:00
- - tags: None
 
 Police in China arrested 63 people accused of laundering as much as 12 billion Chinese yuan ($1.7 billion) via cryptocurrency Tether.
 
@@ -68,7 +60,6 @@ Police in China arrested 63 people accused of laundering as much as 12 billion C
  - [https://www.cnbc.com/2022/12/12/iran-executes-second-protester-after-rapid-trial-as-eu-plans-more-sanctions-.html](https://www.cnbc.com/2022/12/12/iran-executes-second-protester-after-rapid-trial-as-eu-plans-more-sanctions-.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-12 15:02:35+00:00
- - tags: None
 
 Iran has long held what activists and other governments say are sham trials in order to imprison or execute critics of the state.
 
@@ -76,7 +67,6 @@ Iran has long held what activists and other governments say are sham trials in o
  - [https://www.cnbc.com/2022/12/12/trust-between-the-west-and-russia-has-been-destroyed-nato-chief-says.html](https://www.cnbc.com/2022/12/12/trust-between-the-west-and-russia-has-been-destroyed-nato-chief-says.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-12 13:34:01+00:00
- - tags: None
 
 Russia continues to pound Ukraine's energy infrastructure too with devastating consequences for civilians.
 
@@ -84,7 +74,6 @@ Russia continues to pound Ukraine's energy infrastructure too with devastating c
  - [https://www.cnbc.com/2022/12/12/elon-musk-booed-by-crowd-at-dave-chapelle-comedy-gig.html](https://www.cnbc.com/2022/12/12/elon-musk-booed-by-crowd-at-dave-chapelle-comedy-gig.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-12 12:34:38+00:00
- - tags: None
 
 Musk's appearance at a Dave Chappelle show in San Francisco was met with a chorus of boos from the crowd.
 
@@ -92,7 +81,6 @@ Musk's appearance at a Dave Chappelle show in San Francisco was met with a choru
  - [https://www.cnbc.com/2022/12/12/rivian-pauses-plans-to-make-electric-vans-in-europe-with-mercedes-benz.html](https://www.cnbc.com/2022/12/12/rivian-pauses-plans-to-make-electric-vans-in-europe-with-mercedes-benz.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-12 09:42:32+00:00
- - tags: None
 
 Rivian said it remains open to exploring future work with Mercedes-Benz "at a more appropriate time."
 
@@ -100,7 +88,6 @@ Rivian said it remains open to exploring future work with Mercedes-Benz "at a mo
  - [https://www.cnbc.com/2022/12/12/microsoft-buys-near-4percent-stake-in-london-stock-exchange-and-launches-10-year-partnership.html](https://www.cnbc.com/2022/12/12/microsoft-buys-near-4percent-stake-in-london-stock-exchange-and-launches-10-year-partnership.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-12 07:36:59+00:00
- - tags: None
 
 U.S. tech giant Microsoft on Monday announced a 10-year partnership with the London Stock Exchange and took a near 4% stake in the U.K. bourse operator.
 
@@ -108,7 +95,6 @@ U.S. tech giant Microsoft on Monday announced a 10-year partnership with the Lon
  - [https://www.cnbc.com/2022/12/12/danish-bioscience-firms-novozymes-and-chr-hansen-to-merge.html](https://www.cnbc.com/2022/12/12/danish-bioscience-firms-novozymes-and-chr-hansen-to-merge.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-12 07:36:16+00:00
- - tags: None
 
 Novozymes and Chr. Hansen have agreed to merge in a massive deal for the Danish biotech sector.
 
@@ -116,7 +102,6 @@ Novozymes and Chr. Hansen have agreed to merge in a massive deal for the Danish 
  - [https://www.cnbc.com/2022/12/12/inflation-peaked-but-will-remain-above-pre-covid-levels-mastercard.html](https://www.cnbc.com/2022/12/12/inflation-peaked-but-will-remain-above-pre-covid-levels-mastercard.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-12 06:27:34+00:00
- - tags: None
 
 It'll take a few years to return to 2019 levels, said David Mann of the Mastercard Economics Institute.
 
@@ -124,7 +109,6 @@ It'll take a few years to return to 2019 levels, said David Mann of the Masterca
  - [https://www.cnbc.com/2022/12/12/putins-old-eu-ally-orban-is-once-again-aggravating-brussels-with-knockbacks.html](https://www.cnbc.com/2022/12/12/putins-old-eu-ally-orban-is-once-again-aggravating-brussels-with-knockbacks.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-12 06:23:13+00:00
- - tags: None
 
 Hungary is blocking new financial support for Ukraine as the country attempts to wrestle free its own EU funds.
 
@@ -132,7 +116,6 @@ Hungary is blocking new financial support for Ukraine as the country attempts to
  - [https://www.cnbc.com/2022/12/12/europes-power-crisis-has-very-little-to-do-with-putin-ceo.html](https://www.cnbc.com/2022/12/12/europes-power-crisis-has-very-little-to-do-with-putin-ceo.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-12 06:22:11+00:00
- - tags: None
 
 Lekander's comments come at a time of huge disruption within global energy markets following Russia's invasion of Ukraine in February.
 
@@ -140,7 +123,6 @@ Lekander's comments come at a time of huge disruption within global energy marke
  - [https://www.cnbc.com/2022/12/12/southeast-asian-markets-are-in-for-a-bungee-jump-says-jpmorgan.html](https://www.cnbc.com/2022/12/12/southeast-asian-markets-are-in-for-a-bungee-jump-says-jpmorgan.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-12 02:37:18+00:00
- - tags: None
 
 The region's markets are likely to plunge before surging in the second half of 2023, according to JPMorgan analysts.
 
@@ -148,7 +130,6 @@ The region's markets are likely to plunge before surging in the second half of 2
  - [https://www.cnbc.com/2022/12/11/cramer-apple-amazon-microsoft-and-google-will-fuel-the-next-rally.html](https://www.cnbc.com/2022/12/11/cramer-apple-amazon-microsoft-and-google-will-fuel-the-next-rally.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-12 01:18:14+00:00
- - tags: None
 
 Unlike the trillions that vanished into thin crypto air, the money for the next upswing will come from four stocks with a combined $6 trillion to donate.
 
@@ -156,6 +137,5 @@ Unlike the trillions that vanished into thin crypto air, the money for the next 
  - [https://www.cnbc.com/2022/12/11/what-do-hotel-star-ratings-mean-heres-a-breakdown.html](https://www.cnbc.com/2022/12/11/what-do-hotel-star-ratings-mean-heres-a-breakdown.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-12 00:05:10+00:00
- - tags: None
 
 One hotel can be rated three, four and even five stars — that's because ratings are "not regulated in a consistent way across the industry," one insider says.

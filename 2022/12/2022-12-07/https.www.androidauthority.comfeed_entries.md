@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## Want more shows like His Dark Materials? What to watch after the final season
  - [https://www.androidauthority.com/shows-like-his-dark-materials-season-3-hbo-3248439/](https://www.androidauthority.com/shows-like-his-dark-materials-season-3-hbo-3248439/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-07 21:27:18+00:00
- - tags: None
 
 Fans of the Philip Pullman adaptation won't want to miss these.
 
@@ -12,7 +11,6 @@ Fans of the Philip Pullman adaptation won't want to miss these.
  - [https://www.androidauthority.com/disney-plus-christmas-guide-3244637/](https://www.androidauthority.com/disney-plus-christmas-guide-3244637/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-07 18:34:01+00:00
- - tags: None
 
 From Home Alone to The Santa Clause to ... Hawkeye?
 
@@ -20,7 +18,6 @@ From Home Alone to The Santa Clause to ... Hawkeye?
  - [https://www.androidauthority.com/how-to-reset-beats-headphones-and-earbuds-3248537/](https://www.androidauthority.com/how-to-reset-beats-headphones-and-earbuds-3248537/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-07 18:12:22+00:00
- - tags: None
 
 Are your Beats bugging out? Here's how to reset and pair again.
 
@@ -28,7 +25,6 @@ Are your Beats bugging out? Here's how to reset and pair again.
  - [https://www.androidauthority.com/galaxy-s22-hacked-3248512/](https://www.androidauthority.com/galaxy-s22-hacked-3248512/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-07 17:39:46+00:00
- - tags: None
 
 The second exploit was found only hours after the first.
 
@@ -36,7 +32,6 @@ The second exploit was found only hours after the first.
  - [https://www.androidauthority.com/best-smartphone-2022-readers-choice-finals-3246048/](https://www.androidauthority.com/best-smartphone-2022-readers-choice-finals-3246048/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-07 16:00:13+00:00
- - tags: None
 
 It's going to be a tough call between these neck-and-neck choices.
 
@@ -44,7 +39,6 @@ It's going to be a tough call between these neck-and-neck choices.
  - [https://www.androidauthority.com/wallpaper-wednesday-dec-07-2022-3244567/](https://www.androidauthority.com/wallpaper-wednesday-dec-07-2022-3244567/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-07 14:30:42+00:00
- - tags: None
 
 Here is a weekly selection of Android wallpapers created by our readers and members of the Android Authority team!
 
@@ -52,7 +46,6 @@ Here is a weekly selection of Android wallpapers created by our readers and memb
  - [https://www.androidauthority.com/how-long-charge-phone-poll-3248397/](https://www.androidauthority.com/how-long-charge-phone-poll-3248397/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-07 13:01:42+00:00
- - tags: None
 
 Can you watch a movie in the time it takes to fully charge your handset?
 
@@ -60,7 +53,6 @@ Can you watch a movie in the time it takes to fully charge your handset?
  - [https://www.androidauthority.com/retractable-rear-camera-phone-3246274/](https://www.androidauthority.com/retractable-rear-camera-phone-3246274/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-07 11:30:39+00:00
- - tags: None
 
 The Tecno Phantom X2 Pro brings a retractable 2.5x rear camera to the table. So what does this do?
 
@@ -68,7 +60,6 @@ The Tecno Phantom X2 Pro brings a retractable 2.5x rear camera to the table. So 
  - [https://www.androidauthority.com/daily-authority-december-7-2022-3246241/](https://www.androidauthority.com/daily-authority-december-7-2022-3246241/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-07 10:19:31+00:00
- - tags: None
 
 TSMC tools-in chip-making equipment for its ambitious US factory, Apple Music gets a cool feature, and more tech news.
 
@@ -76,7 +67,6 @@ TSMC tools-in chip-making equipment for its ambitious US factory, Apple Music ge
  - [https://www.androidauthority.com/telegram-register-without-sim-card-3246256/](https://www.androidauthority.com/telegram-register-without-sim-card-3246256/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-07 08:00:35+00:00
- - tags: None
 
 This new update also brings a few other notable additions.
 
@@ -84,7 +74,6 @@ This new update also brings a few other notable additions.
  - [https://www.androidauthority.com/apple-macbook-foldable-3246252/](https://www.androidauthority.com/apple-macbook-foldable-3246252/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-07 07:07:29+00:00
- - tags: None
 
 Apple could join Asus and Lenovo in offering a computer with a folding screen.
 
@@ -92,6 +81,5 @@ Apple could join Asus and Lenovo in offering a computer with a folding screen.
  - [https://www.androidauthority.com/oppo-find-n2-flip-specs-leak-3246244/](https://www.androidauthority.com/oppo-find-n2-flip-specs-leak-3246244/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-07 06:04:43+00:00
- - tags: None
 
 This could be the best clamshell foldable on the market when it launches.

@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## You can now play Sony’s Spider-Man in first-person
  - [https://www.pcworld.com/article/1425534/this-first-person-mod-for-spider-man-will-test-your-pc-and-your-stomach.html](https://www.pcworld.com/article/1425534/this-first-person-mod-for-spider-man-will-test-your-pc-and-your-stomach.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-05 15:49:44+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -41,7 +40,6 @@ Gaming</div>
  - [https://www.pcworld.com/article/1424575/chatgpt-is-the-future-of-ai-chatbots.html](https://www.pcworld.com/article/1424575/chatgpt-is-the-future-of-ai-chatbots.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-05 15:42:47+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -167,7 +165,6 @@ Artificial Intelligence, Utilities</div>
  - [https://www.pcworld.com/article/1425473/this-powerful-lenovo-thinkpad-laptop-is-49-off.html](https://www.pcworld.com/article/1425473/this-powerful-lenovo-thinkpad-laptop-is-49-off.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-05 15:10:22+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -192,7 +189,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/1425482/steams-most-popular-gpu-isnt-the-one-you-think-it-is.html](https://www.pcworld.com/article/1425482/steams-most-popular-gpu-isnt-the-one-you-think-it-is.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-05 15:04:24+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -230,7 +226,6 @@ GPUs</div>
  - [https://www.pcworld.com/article/1398387/msi-mag-z790-tomahawk-wifi-ddr4-motherboard-review.html](https://www.pcworld.com/article/1398387/msi-mag-z790-tomahawk-wifi-ddr4-motherboard-review.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-05 11:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
@@ -381,7 +376,6 @@ Motherboards</div>
  - [https://www.pcworld.com/article/1419298/gigabit-internet-might-be-overkill.html](https://www.pcworld.com/article/1419298/gigabit-internet-might-be-overkill.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-05 11:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you ever need a textbook example of misleading marketing, just look at what some internet providers are saying about gigabit internet service.</p>
@@ -475,7 +469,6 @@ Internet, Internet Service Providers</div>
  - [https://www.pcworld.com/article/1417988/this-top-rated-security-camera-will-arrive-in-time-for-the-holidays-with-free-shipping.html](https://www.pcworld.com/article/1417988/this-top-rated-security-camera-will-arrive-in-time-for-the-holidays-with-free-shipping.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-05 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Your health and safety&mdash;and that of your family&mdash;are priceless. One of the easiest ways to protect your home and your loved ones is with a&nbsp;<a href="https://shop.pcworld.com/sales/x1-indoor-security-camera?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=x1-indoor-security-camera&amp;utm_term=scsf-458547&amp;utm_content=a0x1P000004YrXmQAK&amp;scsonar=1" rel="noreferrer noopener" target="_blank">home security camera</a>, and this year, you can get one in time for the holidays as part of our Last Chance Sale.</p>

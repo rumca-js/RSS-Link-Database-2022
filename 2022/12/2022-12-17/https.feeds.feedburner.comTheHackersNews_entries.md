@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews
+# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
 
 ## Samba Issues Security Updates to Patch Multiple High-Severity Vulnerabilities
  - [https://thehackernews.com/2022/12/samba-issues-security-updates-to-patch.html](https://thehackernews.com/2022/12/samba-issues-security-updates-to-patch.html)

@@ -1,4 +1,4 @@
-# Source TVN24 Najnowsze, Source URL:https://tvn24.pl/najnowsze.xml
+# Source TVN24 Najnowsze, Source URL:https://tvn24.pl/najnowsze.xml, Source language: pl-PL
 
 ## Leszek Miller: Obajtek musiał uzyskać zgodę Jarosława Kaczyńskiego
  - [https://tvn24.pl/polska/lotos-sprzedaz-i-umowa-z-saudi-aramco-leszek-miller-daniel-obajtek-musial-uzyskac-zgode-jaroslawa-kaczynskiego-6529417?source=rss](https://tvn24.pl/polska/lotos-sprzedaz-i-umowa-z-saudi-aramco-leszek-miller-daniel-obajtek-musial-uzyskac-zgode-jaroslawa-kaczynskiego-6529417?source=rss)
@@ -136,6 +136,14 @@ Powieje silniejszy wiatr, nad morzem osiągający prędkość do 70 kilometrów 
 
 <img alt="Ślizgawka miała ruszyć w sobotę, mieszkańcy zastali topniejący lód" src="https://tvn24.pl/tvnwarszawa/najnowsze/cdn-zdjecie-r51ljo-nieczynne-lodowisko-w-ursusie-6528884/alternates/LANDSCAPE_1280" />
     Lodowisko w Ursusie miało w sobotę otworzyć się po raz pierwszy w tym sezonie. Mieszkańcy zastali jednak na miejscu topniejący lód i brak informacji o tym, co się wydarzyło. Urzędnicy dopiero w niedzielę po południu napisali w mediach społecznościowych, że ślizgawka nie działa. Nie wiadomo jednak, jaki jest powód.
+
+## Bus potrącił 14-latkę i odjechał. Policja zatrzymała 50-latka. Usłyszał zarzuty
+ - [https://tvn24.pl/bialystok/zabia-wola-bus-potracil-14-latke-i-odjechal-policja-zatrzymala-50-letniego-mezczyzne-uslyszal-zarzuty-6528914?source=rss](https://tvn24.pl/bialystok/zabia-wola-bus-potracil-14-latke-i-odjechal-policja-zatrzymala-50-letniego-mezczyzne-uslyszal-zarzuty-6528914?source=rss)
+ - RSS feed: https://tvn24.pl/najnowsze.xml
+ - date published: 2022-12-18 11:50:11+00:00
+
+<img alt="Bus potrącił 14-latkę i odjechał. Policja zatrzymała 50-latka. Usłyszał zarzuty " src="https://tvn24.pl/najnowsze/cdn-zdjecie-cf66sy-poszukiwania-kierowcy-busa-ktory-potracil-14-latke-w-zabiej-woli-policja-publikuje-zdjecie-z-monitoringu-6510615/alternates/LANDSCAPE_1280" />
+    W Żabiej Woli (woj. lubelskie) w przechodząca przez przejście dla pieszych 14-latkę wjechał bus, kierowca uciekł z miejsca zdarzenia. Lubelska policja zatrzymała 50-letniego mężczyznę. W poniedziałek został przesłuchany w prokuraturze. Mężczyzna nie złożył wyjaśnień oraz nie przyznał się do winy. Przedstawiono mu dwa zarzuty. Grozi mu do dwunastu lat pozbawienia wolności.
 
 ## Zapaliła się sadza w kominie, w domu wybuchł pożar. Mieszkańców na szczęście obudził czujnik dymu
  - [https://tvn24.pl/bialystok/suchowola-zapalila-sie-sadza-w-kominie-w-domu-wybuchl-pozar-mieszkancow-obudzil-czujnik-dymu-6528786?source=rss](https://tvn24.pl/bialystok/suchowola-zapalila-sie-sadza-w-kominie-w-domu-wybuchl-pozar-mieszkancow-obudzil-czujnik-dymu-6528786?source=rss)

@@ -1,10 +1,9 @@
-# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
+# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug, Source language: en-US
 
 ## The mysterious buyer of 300 tons of gold/Facing the recession, will the GOLD STANDARD return?
  - [https://www.youtube.com/watch?v=2uOaIYx-Vro](https://www.youtube.com/watch?v=2uOaIYx-Vro)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
  - date published: 2022-12-10 18:45:11+00:00
- - tags: None
 
 #chinainsights 
 China rarely discloses how much gold its central bank buys. Surprisingly, on December 7th, 2022, China's official website released data showing that the People's Bank of China's gold holdings increased by 32 tons in November from the previous month to a total of 1,980 tons, making it the world's 6th largest central bank gold reserve. This is the first update in six years. So this data shocked market observers. To some extent, it also reveals the identity of the mysterious buyer of the 300-ton gold market, which is likely to be China. 

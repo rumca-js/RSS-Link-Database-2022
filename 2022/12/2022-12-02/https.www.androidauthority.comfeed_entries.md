@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## How to cancel your PlayStation Plus subscription
  - [https://www.androidauthority.com/how-to-cancel-playstation-plus-3244136/](https://www.androidauthority.com/how-to-cancel-playstation-plus-3244136/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-02 22:51:11+00:00
- - tags: None
 
 Subtract your Sony game subscription in a few simple steps.
 
@@ -12,7 +11,6 @@ Subtract your Sony game subscription in a few simple steps.
  - [https://www.androidauthority.com/5g-on-airplanes-3244130/](https://www.androidauthority.com/5g-on-airplanes-3244130/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-02 21:35:16+00:00
- - tags: None
 
 The measure is currently being discussed.
 
@@ -20,7 +18,6 @@ The measure is currently being discussed.
  - [https://www.androidauthority.com/sunbird-imessage-android-3244025/](https://www.androidauthority.com/sunbird-imessage-android-3244025/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-02 19:00:19+00:00
- - tags: None
 
 The Sunbird app is still rough around the edges, but I have seen first-hand that it does work. Sort of.
 
@@ -28,7 +25,6 @@ The Sunbird app is still rough around the edges, but I have seen first-hand that
  - [https://www.androidauthority.com/samsung-display-fingerprint-scan-3243998/](https://www.androidauthority.com/samsung-display-fingerprint-scan-3243998/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-02 18:24:15+00:00
- - tags: None
 
 The technology would turn the entire display into a fingerprint reader.
 
@@ -36,7 +32,6 @@ The technology would turn the entire display into a fingerprint reader.
  - [https://www.androidauthority.com/google-messages-end-to-end-encryption-group-chats-3243787/](https://www.androidauthority.com/google-messages-end-to-end-encryption-group-chats-3243787/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-02 17:00:51+00:00
- - tags: None
 
 The feature is now available in beta, with a broader rollout expected not long from now.
 
@@ -44,7 +39,6 @@ The feature is now available in beta, with a broader rollout expected not long f
  - [https://www.androidauthority.com/google-apple-rcs-messaging-3243791/](https://www.androidauthority.com/google-apple-rcs-messaging-3243791/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-02 17:00:01+00:00
- - tags: None
 
 Google really really wants Apple to "get the message."
 
@@ -52,7 +46,6 @@ Google really really wants Apple to "get the message."
  - [https://www.androidauthority.com/motorola-edge-30-fusion-3243949/](https://www.androidauthority.com/motorola-edge-30-fusion-3243949/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-02 16:59:46+00:00
- - tags: None
 
 Motorola's new special edition phone will also come paired with earbuds.
 
@@ -60,7 +53,6 @@ Motorola's new special edition phone will also come paired with earbuds.
  - [https://www.androidauthority.com/shows-and-movies-like-wednesday-3242646/](https://www.androidauthority.com/shows-and-movies-like-wednesday-3242646/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-02 13:08:41+00:00
- - tags: None
 
 Time to get creepy and kooky with some similar shows and movies.
 
@@ -68,7 +60,6 @@ Time to get creepy and kooky with some similar shows and movies.
  - [https://www.androidauthority.com/daily-authority-december-2-2022-3243786/](https://www.androidauthority.com/daily-authority-december-2-2022-3243786/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-02 10:28:48+00:00
- - tags: None
 
 Plus new Android features, fecal milkshakes, and Japan's new Christmas cola.
 
@@ -76,7 +67,6 @@ Plus new Android features, fecal milkshakes, and Japan's new Christmas cola.
  - [https://www.androidauthority.com/smartphone-satellite-emergency-iphone-alaska-man-3243237/](https://www.androidauthority.com/smartphone-satellite-emergency-iphone-alaska-man-3243237/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-02 10:14:22+00:00
- - tags: None
 
 The iPhone 14 series has saved the life of an Alaskan man after he became stranded.
 
@@ -84,7 +74,6 @@ The iPhone 14 series has saved the life of an Alaskan man after he became strand
  - [https://www.androidauthority.com/third-smartphone-platform-poll-3243772/](https://www.androidauthority.com/third-smartphone-platform-poll-3243772/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-02 07:29:18+00:00
- - tags: None
 
 Is Android and iOS enough for you or do you think we need another major smartphone platform?
 
@@ -92,7 +81,6 @@ Is Android and iOS enough for you or do you think we need another major smartpho
  - [https://www.androidauthority.com/xiaomi-miui-14-3243760/](https://www.androidauthority.com/xiaomi-miui-14-3243760/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-02 06:34:44+00:00
- - tags: None
 
 Super Icons, a plant or pet on your home screen, and much more.
 
@@ -100,7 +88,6 @@ Super Icons, a plant or pet on your home screen, and much more.
  - [https://www.androidauthority.com/the-mandalorian-season-3-3029747/](https://www.androidauthority.com/the-mandalorian-season-3-3029747/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-02 06:01:14+00:00
- - tags: None
 
 The most popular show on Disney Plus is coming back in March 2023.
 
@@ -108,7 +95,6 @@ The most popular show on Disney Plus is coming back in March 2023.
  - [https://www.androidauthority.com/googles-pixel-recorder-speaker-labels-3243747/](https://www.androidauthority.com/googles-pixel-recorder-speaker-labels-3243747/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-02 05:33:43+00:00
- - tags: None
 
 Real-time speaker labeling is now a thing on your Pixel's Recorder app.
 
@@ -116,6 +102,5 @@ Real-time speaker labeling is now a thing on your Pixel's Recorder app.
  - [https://www.androidauthority.com/google-pixel-recorder-speaker-labels-3243747/](https://www.androidauthority.com/google-pixel-recorder-speaker-labels-3243747/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-02 05:33:43+00:00
- - tags: None
 
 Real-time speaker labeling is now a thing on your Pixel's Recorder app.

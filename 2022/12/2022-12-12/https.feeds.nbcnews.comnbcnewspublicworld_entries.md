@@ -1,10 +1,9 @@
-# Source NBC world, Source URL:https://feeds.nbcnews.com/nbcnews/public/world
+# Source NBC world, Source URL:https://feeds.nbcnews.com/nbcnews/public/world, Source language: en-US
 
 ## Suspected Lockerbie bomber charged in three-count indictment
  - [https://www.nbcnews.com/now/video/suspected-lockerbie-bomber-charged-in-three-count-indictment-157302853536](https://www.nbcnews.com/now/video/suspected-lockerbie-bomber-charged-in-three-count-indictment-157302853536)
  - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
  - date published: 2022-12-12 23:23:50+00:00
- - tags: None
 
 The Justice Department says it will not seek the death penalty for a former Libyan intelligence official accused of making the bomb in the 1988 Lockerbie, Scotland, attack where 270 people on Pan Am flight 103 died. The suspect recently appeared in a federal courtroom in Washington, D.C., as he has been charged in a three-count indictment. NBC News’ Ken Dilanian has the latest.
 
@@ -12,7 +11,6 @@ The Justice Department says it will not seek the death penalty for a former Liby
  - [https://www.nbcnews.com/politics/justice-department/lockerbie-bombing-suspect-makes-initial-appearance-us-court-rcna61382](https://www.nbcnews.com/politics/justice-department/lockerbie-bombing-suspect-makes-initial-appearance-us-court-rcna61382)
  - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
  - date published: 2022-12-12 22:42:08+00:00
- - tags: None
 
 A Libyan man suspected of making the bomb that blew up a passenger plane over Lockerbie, Scotland, in 1988 made his initial appearance in federal court Monday.
 
@@ -20,7 +18,6 @@ A Libyan man suspected of making the bomb that blew up a passenger plane over Lo
  - [https://www.nbcnews.com/news/latino/perus-new-president-proposes-moving-elections-protests-rcna61365](https://www.nbcnews.com/news/latino/perus-new-president-proposes-moving-elections-protests-rcna61365)
  - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
  - date published: 2022-12-12 20:51:32+00:00
- - tags: None
 
 Peru’s new President Dina Boluarte gave in to protesters’ demands early Monday, announcing in a nationally televised address she wants to move up elections.
 
@@ -28,7 +25,6 @@ Peru’s new President Dina Boluarte gave in to protesters’ demands early Mond
  - [https://www.nbcnews.com/news/world/body-journalist-grant-wahl-returned-us-death-qatar-rcna61327](https://www.nbcnews.com/news/world/body-journalist-grant-wahl-returned-us-death-qatar-rcna61327)
  - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
  - date published: 2022-12-12 19:04:51+00:00
- - tags: None
 
 The body of American soccer journalist Grant Wahl was returned to the U.S.
 
@@ -36,7 +32,6 @@ The body of American soccer journalist Grant Wahl was returned to the U.S.
  - [https://www.nbcnews.com/video/mourners-gather-after-teen-killed-during-west-bank-raid-157267525998](https://www.nbcnews.com/video/mourners-gather-after-teen-killed-during-west-bank-raid-157267525998)
  - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
  - date published: 2022-12-12 19:04:39+00:00
- - tags: None
 
 People gathered in the West Bank city of Jenin for the funeral of a sixteen-year-old girl who was killed during a shootout in an Israeli raid targeting Palestinian suspects. Jana Zakaran was on her roof when she was shot during an exchange of fire. Her family had been searching for her and found her body on the roof of their home after the Israeli troops withdrew, the official Palestinian news agency reported. Israeli authorities said they were aware of the incident and that an investigation was
 
@@ -44,7 +39,6 @@ People gathered in the West Bank city of Jenin for the funeral of a sixteen-year
  - [https://www.nbcnews.com/news/world/israeli-army-kills-teen-girl-west-bank-raid-palestinians-say-rcna61299](https://www.nbcnews.com/news/world/israeli-army-kills-teen-girl-west-bank-raid-palestinians-say-rcna61299)
  - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
  - date published: 2022-12-12 17:07:20+00:00
- - tags: None
 
 A Palestinian hospital said Israeli forces killed a teenage girl during an army operation in the occupied West Bank early on Monday.
 
@@ -52,7 +46,6 @@ A Palestinian hospital said Israeli forces killed a teenage girl during an army 
  - [https://www.nbcnews.com/news/world/viktor-bout-praises-putin-celebrity-status-griner-prisoner-exchange-rcna61214](https://www.nbcnews.com/news/world/viktor-bout-praises-putin-celebrity-status-griner-prisoner-exchange-rcna61214)
  - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
  - date published: 2022-12-12 16:48:17+00:00
- - tags: None
 
 Viktor Bout has received a celebrity's welcome in Russia since the prisoner exchange with Britney Griner, praising Putin's war in Ukraine.
 
@@ -60,7 +53,6 @@ Viktor Bout has received a celebrity's welcome in Russia since the prisoner exch
  - [https://www.nbcnews.com/nbc-out/out-news/south-koreas-lgbtq-community-confronts-crushing-headwinds-fight-equali-rcna57777](https://www.nbcnews.com/nbc-out/out-news/south-koreas-lgbtq-community-confronts-crushing-headwinds-fight-equali-rcna57777)
  - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
  - date published: 2022-12-12 15:58:25+00:00
- - tags: None
 
 Conservative lawmakers and religious leaders have contributed to activists’ lengthy and unsuccessful attempts to pass a comprehensive nondiscrimination bill.
 
@@ -68,7 +60,6 @@ Conservative lawmakers and religious leaders have contributed to activists’ le
  - [https://www.nbcnews.com/news/world/lockerbie-bombing-suspect-us-custody-court-appearance-explainer-rcna61207](https://www.nbcnews.com/news/world/lockerbie-bombing-suspect-us-custody-court-appearance-explainer-rcna61207)
  - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
  - date published: 2022-12-12 15:11:01+00:00
- - tags: None
 
 The U.S. arrest of Libyan man Abu Agila Mas’ud accused of making the bomb that exploded on board Pan Am Flight 103 in 1988 has renewed attention on the incident.
 
@@ -76,7 +67,6 @@ The U.S. arrest of Libyan man Abu Agila Mas’ud accused of making the bomb that
  - [https://www.today.com/video/american-college-student-studying-in-france-has-gone-missing-157215301505](https://www.today.com/video/american-college-student-studying-in-france-has-gone-missing-157215301505)
  - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
  - date published: 2022-12-12 13:10:17+00:00
- - tags: None
 
 Ken Deland Jr., a 21-year-old American college student, was studying in France but hasn’t been heard from in more than two weeks. NBC’s Molly Hunter reports for TODAY.
 
@@ -84,7 +74,6 @@ Ken Deland Jr., a 21-year-old American college student, was studying in France b
  - [https://www.nbcnews.com/video/freed-arms-dealer-viktor-bout-joins-russian-ultranationalist-party-157209669769](https://www.nbcnews.com/video/freed-arms-dealer-viktor-bout-joins-russian-ultranationalist-party-157209669769)
  - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
  - date published: 2022-12-12 12:38:34+00:00
- - tags: None
 
 Viktor Bout, the Russian arms dealer freed after 14 years in U.S. custody in exchange for WNBA star Brittney Griner, has joined the Kremlin-loyal ultranationalist Liberal Democratic Party, its leader said on Monday.
 
@@ -92,7 +81,6 @@ Viktor Bout, the Russian arms dealer freed after 14 years in U.S. custody in exc
  - [https://www.today.com/video/russia-steps-up-attacks-against-ukraine-targeting-power-grid-157209157959](https://www.today.com/video/russia-steps-up-attacks-against-ukraine-targeting-power-grid-157209157959)
  - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
  - date published: 2022-12-12 12:38:21+00:00
- - tags: None
 
 As Ukrainian President Volodymyr Zelenskyy signaled a renewed effort at diplomacy, Russia is stepping up its attacks, targeting the country's electrical grids, causing rolling blackouts and forcing many residents to leave. NBC’s Richard Engel reports for TODAY.
 
@@ -100,7 +88,6 @@ As Ukrainian President Volodymyr Zelenskyy signaled a renewed effort at diplomac
  - [https://www.nbcnews.com/news/world/gaza-authorities-discover-60-roman-era-graves-rcna61227](https://www.nbcnews.com/news/world/gaza-authorities-discover-60-roman-era-graves-rcna61227)
  - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
  - date published: 2022-12-12 12:21:34+00:00
- - tags: None
 
 Hamas authorities in Gaza on Sunday announced the discovery of over 60 tombs in an ancient burial site dating back to the Roman era.
 
@@ -108,7 +95,6 @@ Hamas authorities in Gaza on Sunday announced the discovery of over 60 tombs in 
  - [https://www.nbcnews.com/news/world/iran-second-execution-protests-rcna61208](https://www.nbcnews.com/news/world/iran-second-execution-protests-rcna61208)
  - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
  - date published: 2022-12-12 11:53:29+00:00
- - tags: None
 
 Iran on Monday executed a second known prisoner detained and convicted amid nationwide protests challenging the country’s theocracy.
 
@@ -116,7 +102,6 @@ Iran on Monday executed a second known prisoner detained and convicted amid nati
  - [https://www.nbcnews.com/news/world/american-college-student-ken-deland-jr-missing-studying-abroad-france-rcna61212](https://www.nbcnews.com/news/world/american-college-student-ken-deland-jr-missing-studying-abroad-france-rcna61212)
  - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
  - date published: 2022-12-12 11:48:28+00:00
- - tags: None
 
 American college student Ken DeLand Jr. has been reported missing by his family while studying abroad in France at the University Grenoble Alpes.
 
@@ -124,7 +109,6 @@ American college student Ken DeLand Jr. has been reported missing by his family 
  - [https://www.nbcnews.com/video/beijing-residents-welcome-easing-of-covid-curbs-157199429626](https://www.nbcnews.com/video/beijing-residents-welcome-easing-of-covid-curbs-157199429626)
  - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
  - date published: 2022-12-12 10:56:20+00:00
- - tags: None
 
 Long lines formed outside clinics and pharmacies in Beijing as residents reacted to last week's easing of Covid curbs with guarded optimism.
 
@@ -140,7 +124,6 @@ Radicalized by conspiracy theories, some far-right activists have supported farm
  - [https://www.nbcnews.com/video/roman-era-tombs-uncovered-at-gaza-strip-housing-development-157195845840](https://www.nbcnews.com/video/roman-era-tombs-uncovered-at-gaza-strip-housing-development-157195845840)
  - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
  - date published: 2022-12-12 10:16:50+00:00
- - tags: None
 
 Authorities in Gaza on Sunday announced the discovery of over 60 tombs in an ancient burial site dating back to the Roman era.
 
@@ -148,7 +131,6 @@ Authorities in Gaza on Sunday announced the discovery of over 60 tombs in an anc
  - [https://www.nbcnews.com/news/world/peru-president-proposes-moving-elections-deadly-unrest-rcna61211](https://www.nbcnews.com/news/world/peru-president-proposes-moving-elections-deadly-unrest-rcna61211)
  - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
  - date published: 2022-12-12 10:12:23+00:00
- - tags: None
 
 Peru’s newest president, Dina Boluarte, gave in to protesters’ demands early Monday announcing that she will send Congress a a proposal to move up elections.
 
@@ -156,7 +138,6 @@ Peru’s newest president, Dina Boluarte, gave in to protesters’ demands early
  - [https://www.nbcnews.com/news/world/man-kills-3-rome-condo-board-meeting-rcna61209](https://www.nbcnews.com/news/world/man-kills-3-rome-condo-board-meeting-rcna61209)
  - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
  - date published: 2022-12-12 09:39:54+00:00
- - tags: None
 
 A man opened fire Sunday during a condominium board meeting in a coffee shop in northern Rome, killing three people and injuring others, authorities said.
 
@@ -164,7 +145,6 @@ A man opened fire Sunday during a condominium board meeting in a coffee shop in 
  - [https://www.nbcnews.com/video/deadly-protests-in-peru-follow-ouster-of-president-pedro-castillo-157192261653](https://www.nbcnews.com/video/deadly-protests-in-peru-follow-ouster-of-president-pedro-castillo-157192261653)
  - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
  - date published: 2022-12-12 09:37:11+00:00
- - tags: None
 
 Two teens were killed and four people injured in Peru on Sunday during protests demanding the country hold general elections following the ouster of former President Pedro Castillo, police and local authorities said.
 
@@ -172,6 +152,5 @@ Two teens were killed and four people injured in Peru on Sunday during protests 
  - [https://www.nbcnews.com/news/world/china-scraps-travel-tracking-app-relaxes-strict-zero-covid-rules-rcna61206](https://www.nbcnews.com/news/world/china-scraps-travel-tracking-app-relaxes-strict-zero-covid-rules-rcna61206)
  - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
  - date published: 2022-12-12 09:35:58+00:00
- - tags: None
 
 China will drop a travel tracing requirement. It is an exit from the strict “zero-Covid” policies that have elicited widespread dissatisfaction and protests.

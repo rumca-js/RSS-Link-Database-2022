@@ -1,10 +1,9 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml
+# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
 
 ## Los Angeles mayor declares homelessness state of emergency
  - [https://www.lemonde.fr/en/international/article/2022/12/12/los-angeles-mayor-declares-homelessness-state-of-emergency_6007528_4.html](https://www.lemonde.fr/en/international/article/2022/12/12/los-angeles-mayor-declares-homelessness-state-of-emergency_6007528_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-12 22:45:10+00:00
- - tags: None
 
 Mayor Karen Bass, who was sworn into office Sunday, used her first full day in the job to declare a state of emergency over spiraling levels of homelessness. Tens of thousands of people sleep rough on Los Angeles streets every night, in an epidemic that shocks many visitors.
 
@@ -12,7 +11,6 @@ Mayor Karen Bass, who was sworn into office Sunday, used her first full day in t
  - [https://www.lemonde.fr/en/international/article/2022/12/12/two-more-protesters-die-in-peru-demonstrations_6007525_4.html](https://www.lemonde.fr/en/international/article/2022/12/12/two-more-protesters-die-in-peru-demonstrations_6007525_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-12 22:32:46+00:00
- - tags: None
 
 One protester died on Monday in clashes with police in the country's second largest city Arequipa as security forces attempted to clear an airport runaway that demonstrators had blocked. The other victim died after riot police quashed a march in Apurimac province.
 
@@ -20,7 +18,6 @@ One protester died on Monday in clashes with police in the country's second larg
  - [https://www.lemonde.fr/en/international/article/2022/12/12/a-day-in-the-life-of-a-ukrainian-unit-under-attack-in-the-slag-heaps-of-donbas_6007518_4.html](https://www.lemonde.fr/en/international/article/2022/12/12/a-day-in-the-life-of-a-ukrainian-unit-under-attack-in-the-slag-heaps-of-donbas_6007518_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-12 19:59:12+00:00
- - tags: None
 
 Military personnel are positioned in the region of Bakhmut, a city that Russian troops have been trying to conquer for months.
 
@@ -28,7 +25,6 @@ Military personnel are positioned in the region of Bakhmut, a city that Russian 
  - [https://www.lemonde.fr/en/food/article/2022/12/12/what-s-for-christmas-dinner-the-vegetarian-option_6007512_119.html](https://www.lemonde.fr/en/food/article/2022/12/12/what-s-for-christmas-dinner-the-vegetarian-option_6007512_119.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-12 18:00:09+00:00
- - tags: None
 
 An all-green Christmas menu that benefits the planet and won't upset the meat-eaters? With these three gourmet plant-based recipes from appetizer to dessert, the carnivores won't feel like they're missing out.
 
@@ -36,7 +32,6 @@ An all-green Christmas menu that benefits the planet and won't upset the meat-ea
  - [https://www.lemonde.fr/en/europe/article/2022/12/12/belgian-investigators-search-eu-parliament-offices_6007509_143.html](https://www.lemonde.fr/en/europe/article/2022/12/12/belgian-investigators-search-eu-parliament-offices_6007509_143.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-12 17:24:22+00:00
- - tags: None
 
 Greek MEP Eva Kaili is at the heart of an alleged corruption scandal involving Qatar and the EU Parliament.
 
@@ -44,7 +39,6 @@ Greek MEP Eva Kaili is at the heart of an alleged corruption scandal involving Q
  - [https://www.lemonde.fr/en/football/article/2022/12/12/world-cup-2022-france-recognizes-morocco-s-dangerous-potential-ahead-of-semi-final_6007508_130.html](https://www.lemonde.fr/en/football/article/2022/12/12/world-cup-2022-france-recognizes-morocco-s-dangerous-potential-ahead-of-semi-final_6007508_130.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-12 17:10:21+00:00
- - tags: None
 
 After defeating the Three Lions, France faces the indefatigable Atlas Lions in their crucial semi-final match on Wednesday.
 
@@ -52,7 +46,6 @@ After defeating the Three Lions, France faces the indefatigable Atlas Lions in t
  - [https://www.lemonde.fr/en/international/article/2022/12/12/elon-musk-to-relaunch-twitter-subscription-plan-after-fake-account-surge-fiasco_6007501_4.html](https://www.lemonde.fr/en/international/article/2022/12/12/elon-musk-to-relaunch-twitter-subscription-plan-after-fake-account-surge-fiasco_6007501_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-12 17:01:09+00:00
- - tags: None
 
 The billionaire who snatched the US microblogging platform for $44 billion earlier this year had been forced to suspend the first rollout of his 'Twitter Blue' offer.
 
@@ -60,7 +53,6 @@ The billionaire who snatched the US microblogging platform for $44 billion earli
  - [https://www.lemonde.fr/en/obituaries/article/2022/12/12/yoshishige-yoshida-japanese-new-wave-filmmaker-dies-aged-89_6007494_15.html](https://www.lemonde.fr/en/obituaries/article/2022/12/12/yoshishige-yoshida-japanese-new-wave-filmmaker-dies-aged-89_6007494_15.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-12 15:11:10+00:00
- - tags: None
 
 The most secretive and intellectual figure of the Japanese New Wave, director Yoshishige Yoshida died in Tokyo on December 8 at the age of 89.
 
@@ -68,7 +60,6 @@ The most secretive and intellectual figure of the Japanese New Wave, director Yo
  - [https://www.lemonde.fr/en/international/article/2022/12/12/afghanistan-at-least-three-killed-in-attack-on-kabul-hotel_6007492_4.html](https://www.lemonde.fr/en/international/article/2022/12/12/afghanistan-at-least-three-killed-in-attack-on-kabul-hotel_6007492_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-12 14:48:57+00:00
- - tags: None
 
 Gunmen attacked a hotel popular with Chinese business visitors.
 
@@ -76,7 +67,6 @@ Gunmen attacked a hotel popular with Chinese business visitors.
  - [https://www.lemonde.fr/en/culture/article/2022/12/12/the-banshees-of-inisherin-tops-golden-globe-nominations_6007489_30.html](https://www.lemonde.fr/en/culture/article/2022/12/12/the-banshees-of-inisherin-tops-golden-globe-nominations_6007489_30.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-12 14:34:55+00:00
- - tags: None
 
 After scandal and boycott plunged the Hollywood Foreign Press Association into disarray and knocked its annual award show off television for a year, the Golden Globes are  attempting to restore their reputation.
 
@@ -84,7 +74,6 @@ After scandal and boycott plunged the Hollywood Foreign Press Association into d
  - [https://www.lemonde.fr/en/opinion/article/2022/12/12/the-parliament-s-ethical-insouciance-produced-a-culture-of-impunity-in-the-qatari-bribery-scandal_6007484_23.html](https://www.lemonde.fr/en/opinion/article/2022/12/12/the-parliament-s-ethical-insouciance-produced-a-culture-of-impunity-in-the-qatari-bribery-scandal_6007484_23.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-12 14:14:39+00:00
- - tags: None
 
 The European Parliament is 'the weakest link in the EU's integrity system,' according to HEC professor Alberto Alemanno, who suggests four ways to fundamentally overhaul the EU's ethics and lobbying system.
 
@@ -92,7 +81,6 @@ The European Parliament is 'the weakest link in the EU's integrity system,' acco
  - [https://www.lemonde.fr/en/international/article/2022/12/12/in-paris-visit-ukrainian-prime-minister-urges-more-military-aid_6007480_4.html](https://www.lemonde.fr/en/international/article/2022/12/12/in-paris-visit-ukrainian-prime-minister-urges-more-military-aid_6007480_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-12 14:05:36+00:00
- - tags: None
 
 Forty-five nations are meeting in Paris at a conference on aid to Ukraine.
 
@@ -100,7 +88,6 @@ Forty-five nations are meeting in Paris at a conference on aid to Ukraine.
  - [https://www.lemonde.fr/en/politics/article/2022/12/12/eric-ciotti-new-leader-of-french-conservatives-faces-herculean-challenges_6007479_5.html](https://www.lemonde.fr/en/politics/article/2022/12/12/eric-ciotti-new-leader-of-french-conservatives-faces-herculean-challenges_6007479_5.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-12 14:00:15+00:00
- - tags: None
 
 The newly-elected leader of the conservative Les Républicains will look for ways to bring his declining party back to the forefront.
 
@@ -108,7 +95,6 @@ The newly-elected leader of the conservative Les Républicains will look for way
  - [https://www.lemonde.fr/en/france/article/2022/12/12/neo-nazi-group-blood-and-honor-in-court-three-years-after-it-was-disbanded_6007477_7.html](https://www.lemonde.fr/en/france/article/2022/12/12/neo-nazi-group-blood-and-honor-in-court-three-years-after-it-was-disbanded_6007477_7.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-12 13:54:56+00:00
- - tags: None
 
 Three of its former leaders will appear on Monday before a court in Marseille, France, on charges of 'involvement in a combat group.'
 
@@ -116,7 +102,6 @@ Three of its former leaders will appear on Monday before a court in Marseille, F
  - [https://www.lemonde.fr/en/culture/article/2022/12/12/blackpink-brings-la-vie-en-rose-to-paris_6007474_30.html](https://www.lemonde.fr/en/culture/article/2022/12/12/blackpink-brings-la-vie-en-rose-to-paris_6007474_30.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-12 13:30:09+00:00
- - tags: None
 
 The K-pop group is playing to a sold-out crowd at the Accor Arena for the Paris leg of their world tour.
 
@@ -124,7 +109,6 @@ The K-pop group is playing to a sold-out crowd at the Accor Arena for the Paris 
  - [https://www.lemonde.fr/en/economy/article/2022/12/12/elon-musk-believes-he-can-do-everything-at-once-send-men-into-space-and-relaunch-twitter_6007471_19.html](https://www.lemonde.fr/en/economy/article/2022/12/12/elon-musk-believes-he-can-do-everything-at-once-send-men-into-space-and-relaunch-twitter_6007471_19.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-12 13:25:30+00:00
- - tags: None
 
 The whimsical billionaire, boss of Tesla and SpaceX, has launched a new subscription package for the social media platform, which he intends to turn into a universal platform. It's a dream that runs up against strong competition from GAFA.
 
@@ -132,7 +116,6 @@ The whimsical billionaire, boss of Tesla and SpaceX, has launched a new subscrip
  - [https://www.lemonde.fr/en/international/article/2022/12/12/covid-19-cases-soar-in-china-after-dropping-restrictions_6007467_4.html](https://www.lemonde.fr/en/international/article/2022/12/12/covid-19-cases-soar-in-china-after-dropping-restrictions_6007467_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-12 13:01:47+00:00
- - tags: None
 
 No more lockdowns, little testing: China is now banking on herd immunity, but experts warn of over a million deaths due to potential mutations and reinfections.
 
@@ -140,7 +123,6 @@ No more lockdowns, little testing: China is now banking on herd immunity, but ex
  - [https://www.lemonde.fr/en/france/article/2022/12/12/macron-postpones-the-presentation-of-his-pension-reform_6007457_7.html](https://www.lemonde.fr/en/france/article/2022/12/12/macron-postpones-the-presentation-of-his-pension-reform_6007457_7.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-12 11:24:54+00:00
- - tags: None
 
 The French president said on Monday he would push back the presentation of the highly contested text to January 10.
 
@@ -148,7 +130,6 @@ The French president said on Monday he would push back the presentation of the h
  - [https://www.lemonde.fr/en/football/article/2022/12/12/world-cup-2022-qatar-has-set-a-high-bar-says-french-sports-minister_6007453_130.html](https://www.lemonde.fr/en/football/article/2022/12/12/world-cup-2022-qatar-has-set-a-high-bar-says-french-sports-minister_6007453_130.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-12 11:03:12+00:00
- - tags: None
 
 Amélie Oudéa-Castera was in Doha to meet with leaders and officials ahead of the Paris 2024 Olympic games. She attended the France-England quarter-final wearing an LGBT-friendly rainbow polo shirt.
 
@@ -156,7 +137,6 @@ Amélie Oudéa-Castera was in Doha to meet with leaders and officials ahead of t
  - [https://www.lemonde.fr/en/international/article/2022/12/12/european-parliament-corruption-scandal-the-fall-of-eva-kaili-greek-socialist-mep_6007452_4.html](https://www.lemonde.fr/en/international/article/2022/12/12/european-parliament-corruption-scandal-the-fall-of-eva-kaili-greek-socialist-mep_6007452_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-12 10:56:45+00:00
- - tags: None
 
 The vice president of the European Parliament had her assets frozen on Monday after she was arrested on corruption charges over her alleged involvement in a graft scandal linked to Qatar.
 
@@ -164,7 +144,6 @@ The vice president of the European Parliament had her assets frozen on Monday af
  - [https://www.lemonde.fr/en/international/article/2022/12/12/european-parliament-corruption-scandal-investigation-advances-as-four-arrested_6007448_4.html](https://www.lemonde.fr/en/international/article/2022/12/12/european-parliament-corruption-scandal-investigation-advances-as-four-arrested_6007448_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-12 10:41:32+00:00
- - tags: None
 
 Belgian police charged four people, including a European Parliament vice president, and seized €600,000 in cash on Sunday in connection with an investigation into allegations Qatar has tried to influence EU policy.
 
@@ -172,7 +151,6 @@ Belgian police charged four people, including a European Parliament vice preside
  - [https://www.lemonde.fr/en/opinion/article/2022/12/12/france-should-realize-the-european-charter-for-regional-or-minority-languages-does-not-call-into-question-its-unity_6007440_23.html](https://www.lemonde.fr/en/opinion/article/2022/12/12/france-should-realize-the-european-charter-for-regional-or-minority-languages-does-not-call-into-question-its-unity_6007440_23.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-12 09:09:53+00:00
- - tags: None
 
 The European Charter for Regional or Minority Languages is 30 years old, and France still has not ratified it. Regional councilor Stéphanie Stoll of Brittany says it is time to admit that this document does not threaten the nation's sovereignty or unity.
 
@@ -180,7 +158,6 @@ The European Charter for Regional or Minority Languages is 30 years old, and Fra
  - [https://www.lemonde.fr/en/europe/article/2022/12/12/italy-gunman-shoots-dead-three-women-in-rome-cafe_6007429_143.html](https://www.lemonde.fr/en/europe/article/2022/12/12/italy-gunman-shoots-dead-three-women-in-rome-cafe_6007429_143.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-12 08:01:25+00:00
- - tags: None
 
 Among the three women killed on Sunday was a friend of Italy's far-right prime minister Giorgia Meloni. Four others were injured.
 
@@ -188,7 +165,6 @@ Among the three women killed on Sunday was a friend of Italy's far-right prime m
  - [https://www.lemonde.fr/en/international/article/2022/12/12/peru-s-president-paves-way-for-early-elections-as-protests-turn-deadly_6007427_4.html](https://www.lemonde.fr/en/international/article/2022/12/12/peru-s-president-paves-way-for-early-elections-as-protests-turn-deadly_6007427_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-12 07:41:13+00:00
- - tags: None
 
 At least two people have been killed in violent protests in Peru after thousands of demonstrators demanded elections following the ousting of former president Pedro Castillo.
 
@@ -196,7 +172,6 @@ At least two people have been killed in violent protests in Peru after thousands
  - [https://www.lemonde.fr/en/international/article/2022/12/12/war-in-ukraine-investigators-hope-to-make-the-bodies-talk-in-kherson_6007418_4.html](https://www.lemonde.fr/en/international/article/2022/12/12/war-in-ukraine-investigators-hope-to-make-the-bodies-talk-in-kherson_6007418_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-12 04:30:02+00:00
- - tags: None
 
 To document future legal proceedings against Moscow using the means at its disposal, the Ukrainian justice system is analyzing the remains of the victims of Russian executions.
 
@@ -204,7 +179,6 @@ To document future legal proceedings against Moscow using the means at its dispo
  - [https://www.lemonde.fr/en/m-le-mag/article/2022/12/12/in-india-netflix-yields-to-pressure-from-hindu-nationalists_6007415_117.html](https://www.lemonde.fr/en/m-le-mag/article/2022/12/12/in-india-netflix-yields-to-pressure-from-hindu-nationalists_6007415_117.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-12 04:22:08+00:00
- - tags: None
 
 The streaming platform decided not to release Indian director Dibakar Banerjee's latest film, which it produced. The filmmaker, whose work denounces the rise of religious intolerance in the country, believes that Indian cinema now lives in constant fear.
 
@@ -212,7 +186,6 @@ The streaming platform decided not to release Indian director Dibakar Banerjee's
  - [https://www.lemonde.fr/en/employment/article/2022/12/12/temperature-wars-heat-up-as-french-companies-embrace-energy-conservation_6007414_103.html](https://www.lemonde.fr/en/employment/article/2022/12/12/temperature-wars-heat-up-as-french-companies-embrace-energy-conservation_6007414_103.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-12 04:00:10+00:00
- - tags: None
 
 To remedy the discomfort from limited heating in offices, the way work is organized is being modified and employees are bundling up.
 
@@ -220,7 +193,6 @@ To remedy the discomfort from limited heating in offices, the way work is organi
  - [https://www.lemonde.fr/en/international/article/2022/12/12/weakened-by-its-links-with-the-moon-sect-the-japanese-government-passes-a-law-to-better-regulate-donations_6007408_4.html](https://www.lemonde.fr/en/international/article/2022/12/12/weakened-by-its-links-with-the-moon-sect-the-japanese-government-passes-a-law-to-better-regulate-donations_6007408_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-12 03:50:05+00:00
- - tags: None
 
 In his quest to regain popularity, Prime Minister Fumio Kishida has urgently passed a law on donations to organizations, whether religious or not. The legislation doesn't convince the victims of cults.
 
@@ -228,7 +200,6 @@ In his quest to regain popularity, Prime Minister Fumio Kishida has urgently pas
  - [https://www.lemonde.fr/en/international/article/2022/12/12/china-retires-major-covid-tracking-app-as-virus-rules-ease_6007406_4.html](https://www.lemonde.fr/en/international/article/2022/12/12/china-retires-major-covid-tracking-app-as-virus-rules-ease_6007406_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-12 03:27:56+00:00
- - tags: None
 
 The state-run "Communications Itinerary Card", which tracks whether someone has been to a high-risk area based on their phone signal, will go offline at 12 am Tuesday, said an official WeChat post on Monday, after more than two years in operation.
 
@@ -236,7 +207,6 @@ The state-run "Communications Itinerary Card", which tracks whether someone has 
  - [https://www.lemonde.fr/en/international/article/2022/12/12/syria-s-third-cell-phone-operator-is-under-the-control-of-the-iranian-revolutionary-guards_6007402_4.html](https://www.lemonde.fr/en/international/article/2022/12/12/syria-s-third-cell-phone-operator-is-under-the-control-of-the-iranian-revolutionary-guards_6007402_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-12 02:34:55+00:00
- - tags: None
 
 An investigation by the Organized Crime and Corruption Reporting Project and the Observatory of Political and Economic Networks shows that behind an opaque financial arrangement lies a Malaysian company linked to the Islamic Republic's armed wing.
 
@@ -244,7 +214,6 @@ An investigation by the Organized Crime and Corruption Reporting Project and the
  - [https://www.lemonde.fr/en/science/article/2022/12/12/dogs-under-the-watchful-eye-of-science_6007399_10.html](https://www.lemonde.fr/en/science/article/2022/12/12/dogs-under-the-watchful-eye-of-science_6007399_10.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-12 01:41:28+00:00
- - tags: None
 
 Researchers have evaluated the impact of thousands of years of domestication on the social abilities of dogs, before comparing them with those of wolves, among others.
 
@@ -252,6 +221,5 @@ Researchers have evaluated the impact of thousands of years of domestication on 
  - [https://www.lemonde.fr/en/international/article/2022/12/12/one-dead-in-peru-as-protests-spread-against-new-president_6007392_4.html](https://www.lemonde.fr/en/international/article/2022/12/12/one-dead-in-peru-as-protests-spread-against-new-president_6007392_4.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-12 00:03:25+00:00
- - tags: None
 
 Police clashed on Sunday with angry demonstrators calling for a national strike, fresh elections and the release of detained former president Pedro Castillo. One person was killed and five injured in the southern city of Andahuaylas.

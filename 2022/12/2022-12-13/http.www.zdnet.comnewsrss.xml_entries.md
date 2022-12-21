@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## The best TV deals: 75, 65, 50-inch TVs on sale for the holidays
  - [https://www.zdnet.com/home-and-office/home-entertainment/tv-deals/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/tv-deals/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-13 23:56:00+00:00
- - tags: None
 
 These awesome TV deals make it more affordable than ever to add top brands like Samsung, Sony, LG, and TCL into your home this holiday season.
 
@@ -12,7 +11,6 @@ These awesome TV deals make it more affordable than ever to add top brands like 
  - [https://www.zdnet.com/home-and-office/robot-vacuum-deals/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/robot-vacuum-deals/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-13 23:31:00+00:00
- - tags: None
 
 Cyber Monday may be over, but the holiday deals are here. Save hundreds on a robot vacuum with these great deals available to make hosting easier.
 
@@ -20,7 +18,6 @@ Cyber Monday may be over, but the holiday deals are here. Save hundreds on a rob
  - [https://www.zdnet.com/article/phone-gift-guide/#ftag=RSSbaffb68](https://www.zdnet.com/article/phone-gift-guide/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-13 23:15:00+00:00
- - tags: None
 
 We've rounded up a list of the 12 best phones to give as gifts. There's something for everyone, even if you're on a budget.
 
@@ -28,7 +25,6 @@ We've rounded up a list of the 12 best phones to give as gifts. There's somethin
  - [https://www.zdnet.com/home-and-office/networking/qualcomm-readies-wi-fi-7-platform-for-your-home-mesh-networking-needs/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/networking/qualcomm-readies-wi-fi-7-platform-for-your-home-mesh-networking-needs/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-13 22:57:00+00:00
- - tags: None
 
 The new chips will provide higher capacity and better handling of interference and congestion. But don't expect to see them in mesh systems until later next year.
 
@@ -36,7 +32,6 @@ The new chips will provide higher capacity and better handling of interference a
  - [https://www.zdnet.com/home-and-office/smart-planet/solar-gift/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-planet/solar-gift/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-13 22:40:00+00:00
- - tags: None
 
 What better way to light up someone's life in an era of climate change than a gift powered by the sun? We found the best solar gifts this holiday season.
 
@@ -44,7 +39,6 @@ What better way to light up someone's life in an era of climate change than a gi
  - [https://www.zdnet.com/article/twitter-blue-is-back-and-its-pricier-for-iphone-users/#ftag=RSSbaffb68](https://www.zdnet.com/article/twitter-blue-is-back-and-its-pricier-for-iphone-users/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-13 22:29:42+00:00
- - tags: None
 
 Twitter botched it the first time, but the paid subscription service is back.
 
@@ -52,7 +46,6 @@ Twitter botched it the first time, but the paid subscription service is back.
  - [https://www.zdnet.com/article/lawmakers-introduce-a-bill-that-could-ban-tiktok-in-the-us/#ftag=RSSbaffb68](https://www.zdnet.com/article/lawmakers-introduce-a-bill-that-could-ban-tiktok-in-the-us/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-13 21:40:15+00:00
- - tags: None
 
 Privacy concerns motivate US lawmakers to create a bill that protects US data from being shared with foreign adversaries.
 
@@ -60,7 +53,6 @@ Privacy concerns motivate US lawmakers to create a bill that protects US data fr
  - [https://www.zdnet.com/article/hyperice-normatec-3-legs-review/#ftag=RSSbaffb68](https://www.zdnet.com/article/hyperice-normatec-3-legs-review/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-13 20:20:00+00:00
- - tags: None
 
 It's not very portable and it's definitely not cheap, but the Hyperice Normatec 3 Legs system is an effective way to reduce your post-workout soreness.
 
@@ -68,7 +60,6 @@ It's not very portable and it's definitely not cheap, but the Hyperice Normatec 
  - [https://www.zdnet.com/article/robot-toy-gift-guide/#ftag=RSSbaffb68](https://www.zdnet.com/article/robot-toy-gift-guide/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-13 20:13:00+00:00
- - tags: None
 
 If you want to spark the imagination of your kids and help them hone tech skills they'll need as adults, check out this list of our favorite tech toys.
 
@@ -76,7 +67,6 @@ If you want to spark the imagination of your kids and help them hone tech skills
  - [https://www.zdnet.com/article/laptop-deal-acer-porsche-design-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/laptop-deal-acer-porsche-design-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-13 20:11:28+00:00
- - tags: None
 
 A lightweight design and a 14-inch screen make this a designer's dream on-the-go laptop.
 
@@ -84,7 +74,6 @@ A lightweight design and a 14-inch screen make this a designer's dream on-the-go
  - [https://www.zdnet.com/home-and-office/smart-home/how-to-reset-your-homepod-mini/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/how-to-reset-your-homepod-mini/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-13 18:41:00+00:00
- - tags: None
 
 The HomePod Mini can be your go-to speaker, your smart home companion, or both. But how do you reset your HomePod after it's been set up?
 
@@ -92,7 +81,6 @@ The HomePod Mini can be your go-to speaker, your smart home companion, or both. 
  - [https://www.zdnet.com/article/apple-brings-the-iphone-14s-satellite-powered-sos-service-to-europe/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-brings-the-iphone-14s-satellite-powered-sos-service-to-europe/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-13 18:34:30+00:00
- - tags: None
 
 After launching the Emergency SOS via satellite service last month, it's now available for iPhone 14 users in France, Germany, Ireland and the UK.
 
@@ -100,7 +88,6 @@ After launching the Emergency SOS via satellite service last month, it's now ava
  - [https://www.zdnet.com/article/apple-just-fixed-the-iphone-14-pros-always-on-display-heres-how-to-use-it/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-just-fixed-the-iphone-14-pros-always-on-display-heres-how-to-use-it/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-13 18:04:18+00:00
- - tags: None
 
 With the release of iOS 16.2, Apple added some key settings to improve the Always-On Display experience of the iPhone 14 Pro. Here's how to use the new feature.
 
@@ -108,7 +95,6 @@ With the release of iOS 16.2, Apple added some key settings to improve the Alway
  - [https://www.zdnet.com/article/apples-new-freeform-whiteboard-app-three-things-you-need-to-know-to-get-started/#ftag=RSSbaffb68](https://www.zdnet.com/article/apples-new-freeform-whiteboard-app-three-things-you-need-to-know-to-get-started/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-13 18:02:35+00:00
- - tags: None
 
 Apple's newest app is a limitless whiteboard you can use solo or collaborate on. We walk you through the basics, but also ask the question of who Freeform is for?
 
@@ -116,7 +102,6 @@ Apple's newest app is a limitless whiteboard you can use solo or collaborate on.
  - [https://www.zdnet.com/article/apple-just-released-updates-for-the-iphone-ipad-mac-apple-watch-and-more-heres-whats-new/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-just-released-updates-for-the-iphone-ipad-mac-apple-watch-and-more-heres-whats-new/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-13 18:02:00+00:00
- - tags: None
 
 The latest software update for your Apple devices includes a new Freeform app, encrypted iCloud backups, an improved always-on display and more.
 
@@ -124,7 +109,6 @@ The latest software update for your Apple devices includes a new Freeform app, e
  - [https://www.zdnet.com/article/how-to-enable-the-google-one-vpn-on-your-pixel-device/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-enable-the-google-one-vpn-on-your-pixel-device/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-13 17:30:00+00:00
- - tags: None
 
 Android 13 now includes a free VPN, thanks to Google One. Find out how and why you should enable it.
 
@@ -132,7 +116,6 @@ Android 13 now includes a free VPN, thanks to Google One. Find out how and why y
  - [https://www.zdnet.com/article/what-is-android-clear-calling-and-how-do-you-enable-it/#ftag=RSSbaffb68](https://www.zdnet.com/article/what-is-android-clear-calling-and-how-do-you-enable-it/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-13 17:15:04+00:00
- - tags: None
 
 Do you find the noise during your phone calls on your Pixel 7 to be less than acceptable? If so, there's a new setting you can enable to dramatically improve that.
 
@@ -140,7 +123,6 @@ Do you find the noise during your phone calls on your Pixel 7 to be less than ac
  - [https://www.zdnet.com/article/best-iphone-power-bank/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-iphone-power-bank/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-13 16:38:00+00:00
- - tags: None
 
 Stumped for a gift for the iPhone user on your list? Check out the best iPhone power banks. They'll keep iPhones juiced while you're on the go.
 
@@ -148,7 +130,6 @@ Stumped for a gift for the iPhone user on your list? Check out the best iPhone p
  - [https://www.zdnet.com/article/best-ipad-pro-cases/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-ipad-pro-cases/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-13 16:27:00+00:00
- - tags: None
 
 Life can be hectic, so you need to protect your iPad Pro with a case built for a life on the go. Whether it is an added keyboard or an entire carrying case, these are the best iPad Pro cases.
 
@@ -156,7 +137,6 @@ Life can be hectic, so you need to protect your iPad Pro with a case built for a
  - [https://www.zdnet.com/home-and-office/smart-home/amazon-security-camera-deals/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/amazon-security-camera-deals/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-13 16:14:00+00:00
- - tags: None
 
 If you're catching up on your holiday shopping, don't pass on home security: ZDNET has gathered the best deals on Amazon's Ring and Blink security cameras so you and yours can stay safe for less.
 
@@ -164,7 +144,6 @@ If you're catching up on your holiday shopping, don't pass on home security: ZDN
  - [https://www.zdnet.com/home-and-office/smart-home/security-camera-deals/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/security-camera-deals/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-13 16:08:00+00:00
- - tags: None
 
 Looking for some extra peace of mind at home but don't want to pay full price? With the holidays approaching, retailers are putting out some great security camera deals, so don't miss out.
 
@@ -172,7 +151,6 @@ Looking for some extra peace of mind at home but don't want to pay full price? W
  - [https://www.zdnet.com/home-and-office/home-entertainment/how-to-connect-a-nintendo-switch-to-your-tv/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/how-to-connect-a-nintendo-switch-to-your-tv/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-13 16:01:22+00:00
- - tags: None
 
 Nintendo's most recent console generation is unique in its ability to be undocked and used as a mobile gaming device. But, when you want that big-screen gaming experience, it's important to make sure your Switch and its dock are connected to your TV correctly.
 
@@ -180,7 +158,6 @@ Nintendo's most recent console generation is unique in its ability to be undocke
  - [https://www.zdnet.com/article/this-foldable-wireless-charging-stand-is-a-multitaskers-dream-accessory/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-foldable-wireless-charging-stand-is-a-multitaskers-dream-accessory/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-13 14:21:00+00:00
- - tags: None
 
 The Satechi Duo Wireless Charger Power Stand can charge up to three devices at once while keeping your phone upright.
 
@@ -188,7 +165,6 @@ The Satechi Duo Wireless Charger Power Stand can charge up to three devices at o
  - [https://www.zdnet.com/article/security-researchers-take-a-look-at-googles-vpn-by-google-one-app/#ftag=RSSbaffb68](https://www.zdnet.com/article/security-researchers-take-a-look-at-googles-vpn-by-google-one-app/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-13 14:16:22+00:00
- - tags: None
 
 Google asked NCC Group to conduct a security assessment of VPN by Google One, and it has now published the results.
 
@@ -196,7 +172,6 @@ Google asked NCC Group to conduct a security assessment of VPN by Google One, an
  - [https://www.zdnet.com/article/why-your-ipad-macbook-or-even-iphone-might-stop-charging-this-winter/#ftag=RSSbaffb68](https://www.zdnet.com/article/why-your-ipad-macbook-or-even-iphone-might-stop-charging-this-winter/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-13 14:02:51+00:00
- - tags: None
 
 Your battery suddenly stopped charging? Thinking you need a new battery or charger? The problem might be simpler than that.
 
@@ -204,7 +179,6 @@ Your battery suddenly stopped charging? Thinking you need a new battery or charg
  - [https://www.zdnet.com/article/this-linux-targeting-malware-just-got-more-powerful/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-linux-targeting-malware-just-got-more-powerful/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-13 13:03:26+00:00
- - tags: None
 
 The addition of trojan malware could point to more disruptive cyberattacks to come.
 
@@ -212,7 +186,6 @@ The addition of trojan malware could point to more disruptive cyberattacks to co
  - [https://www.zdnet.com/article/android-private-compute-core-google-explains-the-important-new-privacy-infrastructure/#ftag=RSSbaffb68](https://www.zdnet.com/article/android-private-compute-core-google-explains-the-important-new-privacy-infrastructure/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-13 12:30:36+00:00
- - tags: None
 
 Google reveals how Android Private Compute Core can use your device's most sensitive data to improve machine-learning models in the cloud without actually sharing your private data.
 
@@ -220,7 +193,6 @@ Google reveals how Android Private Compute Core can use your device's most sensi
  - [https://www.zdnet.com/article/microsoft-just-topped-a-best-run-company-list-but-other-tech-firms-tumble-down-the-rankings/#ftag=RSSbaffb68](https://www.zdnet.com/article/microsoft-just-topped-a-best-run-company-list-but-other-tech-firms-tumble-down-the-rankings/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-13 11:52:15+00:00
- - tags: None
 
 Big tech loses its grip.
 
@@ -228,6 +200,5 @@ Big tech loses its grip.
  - [https://www.zdnet.com/article/struggling-to-buy-a-raspberry-pi-it-could-be-about-to-get-a-lot-easier/#ftag=RSSbaffb68](https://www.zdnet.com/article/struggling-to-buy-a-raspberry-pi-it-could-be-about-to-get-a-lot-easier/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-13 11:32:00+00:00
- - tags: None
 
 More Pi Zero W, 3A+ and 2GB/4GB Raspberry Pi 4s are available ahead of the holiday season, if you know where to look.

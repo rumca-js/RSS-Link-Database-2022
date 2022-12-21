@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## Weird Al would kill for this DIY Commodore 64 accordion
  - [https://www.pcworld.com/article/1436851/weird-al-would-kill-for-this-commodore-64-accordion.html](https://www.pcworld.com/article/1436851/weird-al-would-kill-for-this-commodore-64-accordion.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-15 16:09:18+00:00
- - Starred: False
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -41,7 +40,6 @@ Gadgets</div>
  - [https://www.pcworld.com/article/1436757/this-colorful-logitech-gaming-mouse-is-only-30.html](https://www.pcworld.com/article/1436757/this-colorful-logitech-gaming-mouse-is-only-30.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-15 15:54:59+00:00
- - Starred: False
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -66,7 +64,6 @@ Mice</div>
  - [https://www.pcworld.com/article/1436734/update-windows-now-to-patch-this-zero-day-vulnerability.html](https://www.pcworld.com/article/1436734/update-windows-now-to-patch-this-zero-day-vulnerability.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-15 15:48:31+00:00
- - Starred: False
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -89,7 +86,6 @@ Security</div>
  - [https://www.pcworld.com/article/1434256/take-a-trip-inside-intels-power-supply-testing-lab.html](https://www.pcworld.com/article/1434256/take-a-trip-inside-intels-power-supply-testing-lab.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-15 15:30:00+00:00
- - Starred: False
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -138,7 +134,6 @@ Power Supplies</div>
  - [https://www.pcworld.com/article/1435860/dells-new-concept-luna-makes-laptop-repair-easier-than-lego.html](https://www.pcworld.com/article/1435860/dells-new-concept-luna-makes-laptop-repair-easier-than-lego.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-15 14:00:00+00:00
- - Starred: False
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -196,7 +191,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/1431799/framework-laptop-chromebook-review.html](https://www.pcworld.com/article/1431799/framework-laptop-chromebook-review.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-15 11:45:00+00:00
- - Starred: False
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -403,7 +397,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/1428734/get-a-lifetime-of-web-hosting-for-under-40-until-the-end-of-the-day.html](https://www.pcworld.com/article/1428734/get-a-lifetime-of-web-hosting-for-under-40-until-the-end-of-the-day.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-15 08:00:00+00:00
- - Starred: False
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>

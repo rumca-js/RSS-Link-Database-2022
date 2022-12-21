@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## This tropical survival game is scratching my Wind Waker itch by adding sailing and mysterious ruins
  - [https://www.pcgamer.com/this-tropical-survival-game-is-scratching-my-wind-waker-itch-by-adding-sailing-and-mysterious-ruins](https://www.pcgamer.com/this-tropical-survival-game-is-scratching-my-wind-waker-itch-by-adding-sailing-and-mysterious-ruins)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-16 23:39:48+00:00
- - tags: None
 
 The Uncharted Waters update to Len's Island practically changes the whole game.
 
@@ -12,7 +11,6 @@ The Uncharted Waters update to Len's Island practically changes the whole game.
  - [https://www.pcgamer.com/finally-the-prog-metal-album-that-pc-gaming-deserves](https://www.pcgamer.com/finally-the-prog-metal-album-that-pc-gaming-deserves)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-16 22:07:18+00:00
- - tags: None
 
 WASD's second full album, Escape, has homages to everything from Deus Ex to Civilization 4.
 
@@ -20,7 +18,6 @@ WASD's second full album, Escape, has homages to everything from Deus Ex to Civi
  - [https://www.pcgamer.com/us-senator-asks-gabe-newell-what-valve-is-doing-to-fight-nazis-on-steam](https://www.pcgamer.com/us-senator-asks-gabe-newell-what-valve-is-doing-to-fight-nazis-on-steam)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-16 21:35:59+00:00
- - tags: None
 
 Senator Maggie Hassan sent a letter to the Valve boss to express concern about neo-Nazis, white supremacy, misogyny, and other "hateful" content on Steam.
 
@@ -28,7 +25,6 @@ Senator Maggie Hassan sent a letter to the Valve boss to express concern about n
  - [https://www.pcgamer.com/the-witcher-3-places-of-power-locations](https://www.pcgamer.com/the-witcher-3-places-of-power-locations)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-16 21:13:44+00:00
- - tags: None
 
 Here's where to find each of White Orchard's places of power and how to unlock that Power Overwhelming achievement while you're at it.
 
@@ -36,7 +32,6 @@ Here's where to find each of White Orchard's places of power and how to unlock t
  - [https://www.pcgamer.com/friday-stream-relax-with-pc-gamer-geralt-and-some-lo-fi-christmas-jams](https://www.pcgamer.com/friday-stream-relax-with-pc-gamer-geralt-and-some-lo-fi-christmas-jams)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-16 20:23:02+00:00
- - tags: None
 
 We're live on Twitch with a certain hot tub and some seasonal tunes.
 
@@ -44,7 +39,6 @@ We're live on Twitch with a certain hot tub and some seasonal tunes.
  - [https://www.pcgamer.com/for-a-limited-time-hunt-showdowns-map-is-literally-on-fire](https://www.pcgamer.com/for-a-limited-time-hunt-showdowns-map-is-literally-on-fire)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-16 19:59:01+00:00
- - tags: None
 
 Devil's Moon takes an incendiary turn.
 
@@ -52,7 +46,6 @@ Devil's Moon takes an incendiary turn.
  - [https://www.pcgamer.com/epic-is-giving-away-a-free-game-every-day-in-its-annual-holiday-sale](https://www.pcgamer.com/epic-is-giving-away-a-free-game-every-day-in-its-annual-holiday-sale)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-16 19:43:40+00:00
- - tags: None
 
 The daily giveaways run until January 5, adding up to 15 free games in all.
 
@@ -60,7 +53,6 @@ The daily giveaways run until January 5, adding up to 15 free games in all.
  - [https://www.pcgamer.com/take-a-deep-dive-into-underwater-city-builder-aquatico](https://www.pcgamer.com/take-a-deep-dive-into-underwater-city-builder-aquatico)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-16 18:54:39+00:00
- - tags: None
 
 You won't have to hold your breath for long: the undersea city builder launches in January.
 
@@ -68,7 +60,6 @@ You won't have to hold your breath for long: the undersea city builder launches 
  - [https://www.pcgamer.com/square-enix-was-the-surprise-steam-deck-champion-of-the-year](https://www.pcgamer.com/square-enix-was-the-surprise-steam-deck-champion-of-the-year)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-16 17:42:58+00:00
- - tags: None
 
 Almost every game Square released this year was a perfect match for Valve's handheld PC.
 
@@ -76,7 +67,6 @@ Almost every game Square released this year was a perfect match for Valve's hand
  - [https://www.pcgamer.com/battle-passes-make-me-never-want-to-play-a-multiplayer-game-ever-again](https://www.pcgamer.com/battle-passes-make-me-never-want-to-play-a-multiplayer-game-ever-again)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-16 17:21:24+00:00
- - tags: None
 
 One of modern gaming's laziest inventions.
 
@@ -84,7 +74,6 @@ One of modern gaming's laziest inventions.
  - [https://www.pcgamer.com/final-fantasy-14-fans-cant-get-over-its-new-giant-goth-mommy-dungeon-boss](https://www.pcgamer.com/final-fantasy-14-fans-cant-get-over-its-new-giant-goth-mommy-dungeon-boss)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-16 17:16:15+00:00
- - tags: None
 
 Mommy? Sorry.
 
@@ -92,7 +81,6 @@ Mommy? Sorry.
  - [https://www.pcgamer.com/volitions-saints-row-4-upgrade-was-meant-to-be-a-make-good-but-it-broke-the-game-instead](https://www.pcgamer.com/volitions-saints-row-4-upgrade-was-meant-to-be-a-make-good-but-it-broke-the-game-instead)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-16 16:52:22+00:00
- - tags: None
 
 Players report issues with saves, mods, and crashes in the Re-elected Edition.
 
@@ -100,7 +88,6 @@ Players report issues with saves, mods, and crashes in the Re-elected Edition.
  - [https://www.pcgamer.com/five-very-good-reasons-to-purchase-ibuypowers-rdy-element-hybrid-pro-ii](https://www.pcgamer.com/five-very-good-reasons-to-purchase-ibuypowers-rdy-element-hybrid-pro-ii)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-16 16:18:22+00:00
- - tags: None
 
 In the market for a new gaming PC? iBUYPOWER's RDY Element Hybrid Pro II not only looks incredible, it's also an absolute powerhouse — and at an incredible price, besides.
 
@@ -108,7 +95,6 @@ In the market for a new gaming PC? iBUYPOWER's RDY Element Hybrid Pro II not onl
  - [https://www.pcgamer.com/the-worlds-smallest-city-builder-just-launched-on-steam](https://www.pcgamer.com/the-worlds-smallest-city-builder-just-launched-on-steam)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-16 15:03:33+00:00
- - tags: None
 
 The Block is a relaxing experience that lets you build teeny, tiny, yet still highly-detailed cities, and it's out today.
 
@@ -116,7 +102,6 @@ The Block is a relaxing experience that lets you build teeny, tiny, yet still hi
  - [https://www.pcgamer.com/steam-controller-2-oh-no-valve-want-to-make-it-happen](https://www.pcgamer.com/steam-controller-2-oh-no-valve-want-to-make-it-happen)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-16 14:34:59+00:00
- - tags: None
 
 "I think it's likely that we'll explore that... it's something we wanted as well."
 
@@ -124,7 +109,6 @@ The Block is a relaxing experience that lets you build teeny, tiny, yet still hi
  - [https://www.pcgamer.com/henry-cavill-is-set-to-produce-and-star-in-an-entire-warhammer-40k-cinematic-universe](https://www.pcgamer.com/henry-cavill-is-set-to-produce-and-star-in-an-entire-warhammer-40k-cinematic-universe)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-16 14:24:45+00:00
- - tags: None
 
 Amazon Studios has secured rights to the universe "across series, film, and more."
 
@@ -132,7 +116,6 @@ Amazon Studios has secured rights to the universe "across series, film, and more
  - [https://www.pcgamer.com/chinese-players-are-being-prepared-for-the-end-of-world-of-warcraft](https://www.pcgamer.com/chinese-players-are-being-prepared-for-the-end-of-world-of-warcraft)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-16 13:42:37+00:00
- - tags: None
 
 The current servers are due to go down in January, with no replacement partner in sight.
 
@@ -140,7 +123,6 @@ The current servers are due to go down in January, with no replacement partner i
  - [https://www.pcgamer.com/were-giving-away-bundles-of-some-of-our-favourite-games-from-gog](https://www.pcgamer.com/were-giving-away-bundles-of-some-of-our-favourite-games-from-gog)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-16 13:35:59+00:00
- - tags: None
 
 Win a collection of crackers, including Disco Elysium and Psychonauts 2.
 
@@ -148,7 +130,6 @@ Win a collection of crackers, including Disco Elysium and Psychonauts 2.
  - [https://www.pcgamer.com/valve-hints-at-revised-steam-deck-with-better-battery-life-and-screen](https://www.pcgamer.com/valve-hints-at-revised-steam-deck-with-better-battery-life-and-screen)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-16 12:46:49+00:00
- - tags: None
 
 A faster Deck not planned any time soon, however.
 
@@ -156,7 +137,6 @@ A faster Deck not planned any time soon, however.
  - [https://www.pcgamer.com/new-world-is-running-a-free-weekend-to-highlight-its-new-edition-and-discount](https://www.pcgamer.com/new-world-is-running-a-free-weekend-to-highlight-its-new-edition-and-discount)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-16 12:24:20+00:00
- - tags: None
 
 Oh brave new world, that has such features in it.
 
@@ -164,7 +144,6 @@ Oh brave new world, that has such features in it.
  - [https://www.pcgamer.com/lap-it-up-henry-cavills-dog-is-in-the-witcher-3-now](https://www.pcgamer.com/lap-it-up-henry-cavills-dog-is-in-the-witcher-3-now)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-16 11:57:29+00:00
- - tags: None
 
 A nice nod while Cavill's having a ruff old time.
 
@@ -172,7 +151,6 @@ A nice nod while Cavill's having a ruff old time.
  - [https://www.pcgamer.com/wordle-545-answer-december-16](https://www.pcgamer.com/wordle-545-answer-december-16)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-16 08:05:46+00:00
- - tags: None
 
 Wordle today: The solution and a hint for the #545 puzzle.
 
@@ -180,6 +158,5 @@ Wordle today: The solution and a hint for the #545 puzzle.
  - [https://www.pcgamer.com/henry-cavill-reportedly-in-talks-to-star-in-and-produce-a-warhammer-40k-series-for-amazon](https://www.pcgamer.com/henry-cavill-reportedly-in-talks-to-star-in-and-produce-a-warhammer-40k-series-for-amazon)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-16 01:50:40+00:00
- - tags: None
 
 Yep, more Henry Cavill news. We're changing our name to HC Gamer.

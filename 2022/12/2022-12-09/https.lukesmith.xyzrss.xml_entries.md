@@ -1,10 +1,9 @@
-# Source Luke Smith, Source URL:https://lukesmith.xyz/rss.xml
+# Source Luke Smith, Source URL:https://lukesmith.xyz/rss.xml, Source language: en-US
 
 ## Blockchain Blasphemy and the Technological Antichrist
  - [https://lukesmith.xyz/articles/blockchain-blasphemy/](https://lukesmith.xyz/articles/blockchain-blasphemy/)
  - RSS feed: https://lukesmith.xyz/rss.xml
  - date published: 2022-12-10 00:00:00+00:00
- - tags: None
 
 <figure class="titleimg"><a href="https://www.youtube.com/watch?v=YqaxQmjsb2A"><img src="https://lukesmith.xyz/pix/akashic.webp" /></a></figure>
 

@@ -1,10 +1,9 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/
+# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
 
 ## PREMIERING NOW: Iranian Protestors Want ‘Revolution,’ Not ‘Reform’: Mary Mohammadi
  - [https://www.theepochtimes.com/iranian-protestors-want-revolution-not-reform-mary-mohammadi_4900918.html](https://www.theepochtimes.com/iranian-protestors-want-revolution-not-reform-mary-mohammadi_4900918.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 23:46:09+00:00
- - tags: None
 
 
 
@@ -12,7 +11,6 @@
  - [https://www.theepochtimes.com/french-president-emmanuel-macron-makes-a-speech-in-new-orleans-louisiana_4901340.html](https://www.theepochtimes.com/french-president-emmanuel-macron-makes-a-speech-in-new-orleans-louisiana_4901340.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 23:43:36+00:00
- - tags: None
 
 French President Emmanuel Macron waves as he votes in the first round of French parliamentary elections, at a polling station in Le Touquet, France, on June 12, 2022. (Ludovic Marin/Pool via Reuters)
 
@@ -20,7 +18,6 @@ French President Emmanuel Macron waves as he votes in the first round of French 
  - [https://www.theepochtimes.com/persecuted-christians-in-nigeria-hoping-for-trump-resurgence_4901016.html](https://www.theepochtimes.com/persecuted-christians-in-nigeria-hoping-for-trump-resurgence_4901016.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 23:29:17+00:00
- - tags: None
 
 Ondo state governor Rotimi Akeredolu (3L) points to the bloodstained floor after an attack by gunmen at St. Francis Catholic Church in Owo town, southwest Nigeria on June 5, 2022. (AFP via Getty Images)
 
@@ -28,7 +25,6 @@ Ondo state governor Rotimi Akeredolu (3L) points to the bloodstained floor after
  - [https://www.theepochtimes.com/trudeau-says-he-expects-police-to-prevent-a-freedom-convoy-repeat-as-planning-is-under-way_4901360.html](https://www.theepochtimes.com/trudeau-says-he-expects-police-to-prevent-a-freedom-convoy-repeat-as-planning-is-under-way_4901360.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 23:12:29+00:00
- - tags: None
 
 Prime Minister Justin Trudeau testifies at the Public Order Emergency Commission in Ottawa on  Nov. 25, 2022. (Adrian Wyld/The Canadian Press)
 
@@ -36,7 +32,6 @@ Prime Minister Justin Trudeau testifies at the Public Order Emergency Commission
  - [https://www.theepochtimes.com/australian-senate-blocks-inquiry-into-the-impacts-of-puberty-blockers-cross-sex-hormones_4899715.html](https://www.theepochtimes.com/australian-senate-blocks-inquiry-into-the-impacts-of-puberty-blockers-cross-sex-hormones_4899715.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 22:52:59+00:00
- - tags: None
 
 "Gender-affirming" surgeries have become lucrative business, but that raises ethical questions as research reveals problems with complications and quality of life.(UfaBizPhoto/Shutterstock)
 
@@ -44,7 +39,6 @@ Prime Minister Justin Trudeau testifies at the Public Order Emergency Commission
  - [https://www.theepochtimes.com/toronto-school-board-trustee-faces-hearing-for-gender-abortion-comments_4898371.html](https://www.theepochtimes.com/toronto-school-board-trustee-faces-hearing-for-gender-abortion-comments_4898371.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 22:45:26+00:00
- - tags: None
 
 Toronto Catholic District School Board Trustee Mike Del Grande is facing Ontario College of Teachers disciplinary hearings, the first of which was on Nov. 30, 2022. (Courtesy of Mike Del Grande)
 
@@ -52,7 +46,6 @@ Toronto Catholic District School Board Trustee Mike Del Grande is facing Ontario
  - [https://www.theepochtimes.com/pending-cybersecurity-bill-could-leave-canada-vulnerable-to-chinese-data-theft-bloc-mp_4900665.html](https://www.theepochtimes.com/pending-cybersecurity-bill-could-leave-canada-vulnerable-to-chinese-data-theft-bloc-mp_4900665.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 22:25:17+00:00
- - tags: None
 
 Bloc MP Simon-Pierre Savard-Tremblay rises during question period in the House of Commons in Ottawa on Jan. 29, 2021. (The Canadian Press/Justin Tang)
 
@@ -60,7 +53,6 @@ Bloc MP Simon-Pierre Savard-Tremblay rises during question period in the House o
  - [https://www.theepochtimes.com/emergencies-act-hearings-end-with-final-words-on-transparency-accountability_4901236.html](https://www.theepochtimes.com/emergencies-act-hearings-end-with-final-words-on-transparency-accountability_4901236.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 21:37:52+00:00
- - tags: None
 
 Commissioner Paul Rouleau listens to counsel question a witness at the Public Order Emergency Commission, in Ottawa, Nov. 4, 2022. (The Canadian Press/Adrian Wyld)
 
@@ -68,7 +60,6 @@ Commissioner Paul Rouleau listens to counsel question a witness at the Public Or
  - [https://www.theepochtimes.com/concerns-government-is-backtracking-over-university-free-speech-bill_4899868.html](https://www.theepochtimes.com/concerns-government-is-backtracking-over-university-free-speech-bill_4899868.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 20:55:28+00:00
- - tags: None
 
 In this file image, a student arrives for their graduation ceremony at the Royal Festival Hall in London, England, on Oct. 13, 2015. (Dan Kitwood/Getty Images)
 
@@ -76,7 +67,6 @@ In this file image, a student arrives for their graduation ceremony at the Royal
  - [https://www.theepochtimes.com/santos-loses-appeal-for-huge-northern-territory-gas-works_4899728.html](https://www.theepochtimes.com/santos-loses-appeal-for-huge-northern-territory-gas-works_4899728.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 20:46:54+00:00
- - tags: None
 
 Protesters taking part in a national day of action against mining giant Santos, in Sydney, Australia on December 3, 2020. (AAP Image/Dean Lewins)
 
@@ -84,7 +74,6 @@ Protesters taking part in a national day of action against mining giant Santos, 
  - [https://www.theepochtimes.com/canada-palestine-mp-group-to-review-after-accused-holocaust-denier-attended-event_4901035.html](https://www.theepochtimes.com/canada-palestine-mp-group-to-review-after-accused-holocaust-denier-attended-event_4901035.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 20:17:22+00:00
- - tags: None
 
 Members of Parliament arrive to take part in a Special Committee on the COVID-19 Pandemic in the House of Commons on Parliament Hill in Ottawa on May 6, 2020. (Sean Kilpatrick/The Canadian Press)
 
@@ -92,7 +81,6 @@ Members of Parliament arrive to take part in a Special Committee on the COVID-19
  - [https://www.theepochtimes.com/uk-charity-watchdog-announces-investigation-into-childrens-transgender-organisation_4900136.html](https://www.theepochtimes.com/uk-charity-watchdog-announces-investigation-into-childrens-transgender-organisation_4900136.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 20:03:48+00:00
- - tags: None
 
 General view of the LGBTQIA+ (lesbian, gay, bisexual, transgender, questioning, intersex, asexual, and agender) flag outside the RICS London Bookshop during UK Pride Month 2021 in London on June 1, 2021. (Edward Smith/ Getty Images)
 
@@ -100,7 +88,6 @@ General view of the LGBTQIA+ (lesbian, gay, bisexual, transgender, questioning, 
  - [https://www.theepochtimes.com/switzerland-considering-bans-on-electric-car-use-power-cuts-amid-european-energy-crunch_4900929.html](https://www.theepochtimes.com/switzerland-considering-bans-on-electric-car-use-power-cuts-amid-european-energy-crunch_4900929.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 19:52:32+00:00
- - tags: None
 
 Photo of electric vehicle charger. (Robert Linder/Unsplash.com)
 
@@ -108,7 +95,6 @@ Photo of electric vehicle charger. (Robert Linder/Unsplash.com)
  - [https://www.theepochtimes.com/canadian-retailer-simons-removes-ad-featuring-assisted-suicide-issue_4900443.html](https://www.theepochtimes.com/canadian-retailer-simons-removes-ad-featuring-assisted-suicide-issue_4900443.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 19:21:47+00:00
- - tags: None
 
 Peter Simons, president and CEO of Simons, poses for a photograph near a store in Mississauga, Ont., on Feb. 24, 2016. (Nathan Denette/The Canadian Press)
 
@@ -116,7 +102,6 @@ Peter Simons, president and CEO of Simons, poses for a photograph near a store i
  - [https://www.theepochtimes.com/chief-medical-advisors-uk-faces-prolonged-period-of-excess-deaths-post-pandemic_4900534.html](https://www.theepochtimes.com/chief-medical-advisors-uk-faces-prolonged-period-of-excess-deaths-post-pandemic_4900534.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 18:40:21+00:00
- - tags: None
 
 Chief medical officer for England Professor Chris Whitty is due to brief the Prime Minister. (Adrian Dennis/PA)
 
@@ -124,7 +109,6 @@ Chief medical officer for England Professor Chris Whitty is due to brief the Pri
  - [https://www.theepochtimes.com/european-union-agrees-to-60-russian-oil-price-cap_4900538.html](https://www.theepochtimes.com/european-union-agrees-to-60-russian-oil-price-cap_4900538.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 18:29:04+00:00
- - tags: None
 
 An oil tanker is moored in Novorossiysk, Russia, on Oct. 11, 2022. (AP Photo, File)
 
@@ -132,7 +116,6 @@ An oil tanker is moored in Novorossiysk, Russia, on Oct. 11, 2022. (AP Photo, Fi
  - [https://www.theepochtimes.com/small-businesses-to-be-hit-hard-by-recession-says-former-budget-officer_4900599.html](https://www.theepochtimes.com/small-businesses-to-be-hit-hard-by-recession-says-former-budget-officer_4900599.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 18:08:14+00:00
- - tags: None
 
 Former parliamentary budget officer Kevin Page, seen here at a Commons finance committee on Parliament Hill on April 26, 2012. (The Canadian Press/Sean Kilpatrick)
 
@@ -140,7 +123,6 @@ Former parliamentary budget officer Kevin Page, seen here at a Commons finance c
  - [https://www.theepochtimes.com/mps-hear-of-sixth-allegation-of-federal-department-offering-unsolicited-assisted-suicide-to-veteran_4900318.html](https://www.theepochtimes.com/mps-hear-of-sixth-allegation-of-federal-department-offering-unsolicited-assisted-suicide-to-veteran_4900318.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 17:50:39+00:00
- - tags: None
 
 Minister of Veterans Affairs and Associate Minister of National Defence Lawrence MacAulay rises during question period in the House of Commons on Parliament Hill in Ottawa on March 25, 2022. (Patrick Doyle/The Canadian Press)
 
@@ -148,7 +130,6 @@ Minister of Veterans Affairs and Associate Minister of National Defence Lawrence
  - [https://www.theepochtimes.com/boris-johnson-pledges-to-fight-on-as-sajid-javid-calls-time-on-parliamentary-career_4899895.html](https://www.theepochtimes.com/boris-johnson-pledges-to-fight-on-as-sajid-javid-calls-time-on-parliamentary-career_4899895.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 17:50:07+00:00
- - tags: None
 
 Britain's Prime Minister Boris Johnson is embraced by Britain's Chancellor of the Exchequer Sajid Javid before speaking to the workers as he visits a JCB factory during his general election campaign in Uttoxeter, Britain, on Dec. 10, 2019. (Toby Melville/Reuters)
 
@@ -156,7 +137,6 @@ Britain's Prime Minister Boris Johnson is embraced by Britain's Chancellor of th
  - [https://www.theepochtimes.com/156000-ontario-drivers-recently-drove-high-on-edibles-caa-estimates_4900127.html](https://www.theepochtimes.com/156000-ontario-drivers-recently-drove-high-on-edibles-caa-estimates_4900127.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 17:37:53+00:00
- - tags: None
 
 Vehicles on Highway 401 westbound in Kingston, Ont., on Jan. 11, 2019. (The Canadian Press/Lars Hagberg)
 
@@ -164,7 +144,6 @@ Vehicles on Highway 401 westbound in Kingston, Ont., on Jan. 11, 2019. (The Cana
  - [https://www.theepochtimes.com/uruguay-beats-ghana-2-0-at-world-cup-but-both-teams-out_4900563.html](https://www.theepochtimes.com/uruguay-beats-ghana-2-0-at-world-cup-but-both-teams-out_4900563.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 17:27:15+00:00
- - tags: None
 
 Uruguay's Luis Suarez sits on the bench during the World Cup group H soccer match between Ghana and Uruguay, at the Al Janoub Stadium in Al Wakrah, Qatar, on Dec. 2, 2022. (Themba Hadebe/AP Photo)
 
@@ -172,7 +151,6 @@ Uruguay's Luis Suarez sits on the bench during the World Cup group H soccer matc
  - [https://www.theepochtimes.com/moscow-rejects-bidens-demand-for-full-territorial-withdrawal_4900361.html](https://www.theepochtimes.com/moscow-rejects-bidens-demand-for-full-territorial-withdrawal_4900361.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 17:16:31+00:00
- - tags: None
 
 French President Emmanuel Macron with U.S. President Joe Biden at the conclusion of their joint news conference in the East Room of the White House in Washington on Dec. 1, 2022. (Jonathan Ernst/Reuters)
 
@@ -180,7 +158,6 @@ French President Emmanuel Macron with U.S. President Joe Biden at the conclusion
  - [https://www.theepochtimes.com/chinas-plan-to-build-largest-embassy-in-uk-blocked-by-local-council_4900331.html](https://www.theepochtimes.com/chinas-plan-to-build-largest-embassy-in-uk-blocked-by-local-council_4900331.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 17:09:30+00:00
- - tags: None
 
 Chinese leader Xi Jinping arrives to attend the APEC Economic Leaders Meeting during the Asia-Pacific Economic Cooperation, APEC summit in Bangkok on Nov. 19, 2022. (Jack Taylor/Pool Photo via AP)
 
@@ -188,7 +165,6 @@ Chinese leader Xi Jinping arrives to attend the APEC Economic Leaders Meeting du
  - [https://www.theepochtimes.com/south-korea-beats-portugal-2-1-at-world-cup-after-late-goal_4900502.html](https://www.theepochtimes.com/south-korea-beats-portugal-2-1-at-world-cup-after-late-goal_4900502.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 17:03:12+00:00
- - tags: None
 
 South Korea's Kim Young-gwon, (2nd-R) celebrates after scoring his side's first goal during the World Cup group H soccer match between South Korea and Portugal, at the Education City Stadium in Al Rayyan, Qatar, on Dec. 2, 2022. (Hassan Ammar/AP Photo)
 
@@ -196,7 +172,6 @@ South Korea's Kim Young-gwon, (2nd-R) celebrates after scoring his side's first 
  - [https://www.theepochtimes.com/house-of-lords-pushes-legislation-targeting-chinas-hikvision-and-forced-organ-harvesting_4897415.html](https://www.theepochtimes.com/house-of-lords-pushes-legislation-targeting-chinas-hikvision-and-forced-organ-harvesting_4897415.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 16:55:53+00:00
- - tags: None
 
 Undated file photo of the UK's Houses of Parliament in London. (Stefan Rousseau/PA)
 
@@ -204,7 +179,6 @@ Undated file photo of the UK's Houses of Parliament in London. (Stefan Rousseau/
  - [https://www.theepochtimes.com/brian-giesbrecht-chinese-communist-party-finds-itself-between-a-rock-and-a-hard-place_4899135.html](https://www.theepochtimes.com/brian-giesbrecht-chinese-communist-party-finds-itself-between-a-rock-and-a-hard-place_4899135.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 16:51:56+00:00
- - tags: None
 
 Protesters shout slogans during a protest against Chinas strict zero COVID measures in Beijing  on Nov. 28, 2022. (Kevin Frayer/Getty Images)
 
@@ -212,7 +186,6 @@ Protesters shout slogans during a protest against Chinas strict zero COVID measu
  - [https://www.theepochtimes.com/government-to-un-redact-text-messages-notes-of-pmo-staff-at-emergencies-act-inquiry_4900442.html](https://www.theepochtimes.com/government-to-un-redact-text-messages-notes-of-pmo-staff-at-emergencies-act-inquiry_4900442.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 16:44:57+00:00
- - tags: None
 
 Public Order Emergency Commission’s Commissioner Paul Rouleau delivers brief remarks at the start of the second day of hearings, in Ottawa on Oct. 14, 2022. (The Canadian Press/Adrian Wyld)
 
@@ -220,7 +193,6 @@ Public Order Emergency Commission’s Commissioner Paul Rouleau delivers brief r
  - [https://www.theepochtimes.com/newly-sanctioned-iranians-include-toronto-gym-denizen_4900429.html](https://www.theepochtimes.com/newly-sanctioned-iranians-include-toronto-gym-denizen_4900429.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 16:39:27+00:00
- - tags: None
 
 A motorcycle of Basij, Iranian paramilitary militia, is set on fire during a protest after a 22-year-old woman Mahsa Amini's death when she was detained by the morality police, in Tehran, Oct. 10, 2022 (The Canadian Press/AP-Middle East Images)
 
@@ -228,7 +200,6 @@ A motorcycle of Basij, Iranian paramilitary militia, is set on fire during a pro
  - [https://www.theepochtimes.com/health/heart-inflammation-can-be-lethal-after-covid-19-vaccination-study_4900037.html](https://www.theepochtimes.com/health/heart-inflammation-can-be-lethal-after-covid-19-vaccination-study_4900037.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 16:24:37+00:00
- - tags: None
 
 Syringes with COVID-19 vaccines in Berlin, Germany, on Feb. 28, 2022. (Carsten Koall/Getty Images)
 
@@ -236,7 +207,6 @@ Syringes with COVID-19 vaccines in Berlin, Germany, on Feb. 28, 2022. (Carsten K
  - [https://www.theepochtimes.com/heart-inflammation-can-be-lethal-after-covid-19-vaccination-study_4900037.html](https://www.theepochtimes.com/heart-inflammation-can-be-lethal-after-covid-19-vaccination-study_4900037.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 16:24:37+00:00
- - tags: None
 
 Syringes with COVID-19 vaccines in Berlin, Germany, on Feb. 28, 2022. (Carsten Koall/Getty Images)
 
@@ -244,7 +214,6 @@ Syringes with COVID-19 vaccines in Berlin, Germany, on Feb. 28, 2022. (Carsten K
  - [https://www.theepochtimes.com/psychiatry-association-expresses-concerns-ahead-of-governments-expansion-of-maid-for-mentally-ill_4897744.html](https://www.theepochtimes.com/psychiatry-association-expresses-concerns-ahead-of-governments-expansion-of-maid-for-mentally-ill_4897744.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 16:17:22+00:00
- - tags: None
 
 A 60-year-old woman suffering from cancer rests in a hospital palliative care unit in a file photo. (Alain Jocard/AFP/Getty Images)
 
@@ -252,7 +221,6 @@ A 60-year-old woman suffering from cancer rests in a hospital palliative care un
  - [https://www.theepochtimes.com/four-years-after-meng-wanzhous-arrest-us-moves-to-drop-remaining-indictment_4900311.html](https://www.theepochtimes.com/four-years-after-meng-wanzhous-arrest-us-moves-to-drop-remaining-indictment_4900311.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 15:53:24+00:00
- - tags: None
 
 Meng Wanzhou, chief financial officer of Huawei, reads a statement outside B.C. Supreme Court, in Vancouver, B.C., Sept. 24, 2021. (The Canadian Press/Darryl Dyck)
 
@@ -260,7 +228,6 @@ Meng Wanzhou, chief financial officer of Huawei, reads a statement outside B.C. 
  - [https://www.theepochtimes.com/liberals-to-consult-public-on-merits-of-a-foreign-agent-registry-mendicino-says_4900289.html](https://www.theepochtimes.com/liberals-to-consult-public-on-merits-of-a-foreign-agent-registry-mendicino-says_4900289.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 15:46:57+00:00
- - tags: None
 
 Minister of Public Safety Marco Mendicino rises in the House of Commons on Parliament Hill in Ottawa on May 31, 2022. (The Canadian Press/Justin Tang)
 
@@ -268,7 +235,6 @@ Minister of Public Safety Marco Mendicino rises in the House of Commons on Parli
  - [https://www.theepochtimes.com/putin-is-open-to-talks-and-diplomacy-on-ukraine-kremlin-says_4900138.html](https://www.theepochtimes.com/putin-is-open-to-talks-and-diplomacy-on-ukraine-kremlin-says_4900138.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 15:18:51+00:00
- - tags: None
 
 Russian President Vladimir Putin attends the Young Scientists Congress in Sochi, Russia, on Dec. 1, 2022. (Mikhail Metzel/Sputnik/Pool via Reuters)
 
@@ -276,7 +242,6 @@ Russian President Vladimir Putin attends the Young Scientists Congress in Sochi,
  - [https://www.theepochtimes.com/japan-warns-against-china-and-russias-increasing-joint-air-drills-near-japanese-territory_4899719.html](https://www.theepochtimes.com/japan-warns-against-china-and-russias-increasing-joint-air-drills-near-japanese-territory_4899719.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 15:02:08+00:00
- - tags: None
 
 A Russian Tu-95 strategic bomber flies during Russian-Chinese military aerial exercises to patrol the Asia-Pacific region, at an unidentified location, in this still image taken from a video released on May 24, 2022. (Russian Defense Ministry/Handout via Reuters)
 
@@ -284,7 +249,6 @@ A Russian Tu-95 strategic bomber flies during Russian-Chinese military aerial ex
  - [https://www.theepochtimes.com/japans-nippon-yusen-partners-with-indonesias-pertamina-tanker-subsidiary_4899860.html](https://www.theepochtimes.com/japans-nippon-yusen-partners-with-indonesias-pertamina-tanker-subsidiary_4899860.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 14:51:21+00:00
- - tags: None
 
 A worker prepares to label barrels of lubricant oil at the state oil company Pertamina's lubricant production facility in Cilacap, Central Java, Indonesia, on Nov. 6, 2017. (Rosa Panggabean/Antara Foto via Reuters)
 
@@ -292,7 +256,6 @@ A worker prepares to label barrels of lubricant oil at the state oil company Per
  - [https://www.theepochtimes.com/canadas-government-sector-is-growing-faster-than-the-private-sector-pbo-says_4900006.html](https://www.theepochtimes.com/canadas-government-sector-is-growing-faster-than-the-private-sector-pbo-says_4900006.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 14:35:06+00:00
- - tags: None
 
 Parliamentary Budget Officer Yves Giroux prepares to appear before the Senate Committee on Official Languages in Ottawa on June 13, 2022. (Justin Tang/The Canadian Press)
 
@@ -300,7 +263,6 @@ Parliamentary Budget Officer Yves Giroux prepares to appear before the Senate Co
  - [https://www.theepochtimes.com/russia-threatens-to-ignore-oil-price-cap-and-charge-buyers-regular-prices-or-cut-them-off-says-russian-foreign-minister_4899153.html](https://www.theepochtimes.com/russia-threatens-to-ignore-oil-price-cap-and-charge-buyers-regular-prices-or-cut-them-off-says-russian-foreign-minister_4899153.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 14:17:47+00:00
- - tags: None
 
 U.S. Secretary of State Antony Blinken greets Russian Foreign Minister Sergei Lavrov before their meeting in Geneva, Switzerland, on Jan. 21, 2022. (Alex Brandon/TPX Images of the Day/Pool via Reuters)
 
@@ -308,7 +270,6 @@ U.S. Secretary of State Antony Blinken greets Russian Foreign Minister Sergei La
  - [https://www.theepochtimes.com/experts-tipping-december-interest-rate-rise_4899705.html](https://www.theepochtimes.com/experts-tipping-december-interest-rate-rise_4899705.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 13:21:04+00:00
- - tags: None
 
 A 'sold' real estate sign is seen outside a high-rise apartment block in the suburb Kirribilli in Sydney, Australia, on May 8, 2021. (Lisa Maree Williams/Getty Images)
 
@@ -316,7 +277,6 @@ A 'sold' real estate sign is seen outside a high-rise apartment block in the sub
  - [https://www.theepochtimes.com/japan-to-roll-out-measures-as-birth-rate-hits-critical-low_4899393.html](https://www.theepochtimes.com/japan-to-roll-out-measures-as-birth-rate-hits-critical-low_4899393.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 13:13:55+00:00
- - tags: None
 
 A file image of a woman with a pushchair walking with children at a park in Tokyo. (Yoshikazu Tsuno/AFP via Getty Images)
 
@@ -324,7 +284,6 @@ A file image of a woman with a pushchair walking with children at a park in Toky
  - [https://www.theepochtimes.com/labour-retain-bellwether-seat-of-chester-with-13-76-percent-swing-from-tories_4899807.html](https://www.theepochtimes.com/labour-retain-bellwether-seat-of-chester-with-13-76-percent-swing-from-tories_4899807.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 12:30:05+00:00
- - tags: None
 
 Labour candidate Samantha Dixon is congratulated after winning the Chester by-election following the count at Northgate Arena Leisure Centre in Chester, England in the early hours of Dec. 2, 2022. (PA)
 
@@ -332,7 +291,6 @@ Labour candidate Samantha Dixon is congratulated after winning the Chester by-el
  - [https://www.theepochtimes.com/greece-to-allow-unvaccinated-health-workers-to-return-to-work-after-court-ruling_4899561.html](https://www.theepochtimes.com/greece-to-allow-unvaccinated-health-workers-to-return-to-work-after-court-ruling_4899561.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 11:53:18+00:00
- - tags: None
 
 Anti-vaccine demonstrators shout slogans during a protest against coronavirus disease vaccinations, in Athens, Greece, on July 24, 2021. (Costas Baltas/Reuters)
 
@@ -340,7 +298,6 @@ Anti-vaccine demonstrators shout slogans during a protest against coronavirus di
  - [https://www.theepochtimes.com/victorian-state-govt-attempts-to-delay-major-class-action-brought-by-businesses-impacted-by-lockdowns_4899526.html](https://www.theepochtimes.com/victorian-state-govt-attempts-to-delay-major-class-action-brought-by-businesses-impacted-by-lockdowns_4899526.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 09:58:39+00:00
- - tags: None
 
 Shops on Sydney Road in Brunswick display signs informing customers of their closure in Melbourne, Australia on Aug. 5, 2020. (Darrian Traynor/Getty Images)
 
@@ -348,7 +305,6 @@ Shops on Sydney Road in Brunswick display signs informing customers of their clo
  - [https://www.theepochtimes.com/putins-spy-chief-says-he-discussed-ukraine-with-cia-director_4894912.html](https://www.theepochtimes.com/putins-spy-chief-says-he-discussed-ukraine-with-cia-director_4894912.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 06:13:07+00:00
- - tags: None
 
 Sergey Naryshkin, the head of Russia’s foreign intelligence agency, attends the Victory Day Parade in Red Square in Moscow on June 24, 2020. (Maxim Shemetov/Reuters)
 
@@ -356,7 +312,6 @@ Sergey Naryshkin, the head of Russia’s foreign intelligence agency, attends th
  - [https://www.theepochtimes.com/sexual-assault-trials-of-brittany-higgins-officially-dropped_4899518.html](https://www.theepochtimes.com/sexual-assault-trials-of-brittany-higgins-officially-dropped_4899518.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 04:58:11+00:00
- - tags: None
 
 Former Liberal Party staffer Brittany Higgins makes a statement after leaving the ACT Supreme Court in Canberra, Australia, Oct. 27, 2022. (AAP Image/Mick Tsikas)
 
@@ -364,7 +319,6 @@ Former Liberal Party staffer Brittany Higgins makes a statement after leaving th
  - [https://www.theepochtimes.com/why-do-radical-feminists-resent-mens-clubs_4899432.html](https://www.theepochtimes.com/why-do-radical-feminists-resent-mens-clubs_4899432.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 04:50:11+00:00
- - tags: None
 
 Chief Concierge Michael D. Anderson (L) and Assistant Chief Concierge Simon Matthews from The Observatory Hotel pose for photos in Sydney, Australia, on Feb. 22, 2007. (AAP Image/Jeremy Piper)
 
@@ -372,7 +326,6 @@ Chief Concierge Michael D. Anderson (L) and Assistant Chief Concierge Simon Matt
  - [https://www.theepochtimes.com/national-security-officials-planning-for-2023-freedom-convoy-reboot-adviser-to-pm_4899600.html](https://www.theepochtimes.com/national-security-officials-planning-for-2023-freedom-convoy-reboot-adviser-to-pm_4899600.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 04:43:59+00:00
- - tags: None
 
 National Security Advisor Jody Thomas appears as a witness at the Public Order Emergency Commission in Ottawa on Nov. 17, 2022 in Ottawa.  (The Canadian Press/Adrian Wyld)
 
@@ -380,7 +333,6 @@ National Security Advisor Jody Thomas appears as a witness at the Public Order E
  - [https://www.theepochtimes.com/us-france-vow-to-hold-russia-to-account-on-ukraine_4897402.html](https://www.theepochtimes.com/us-france-vow-to-hold-russia-to-account-on-ukraine_4897402.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 04:36:19+00:00
- - tags: None
 
 French President Emmanuel Macron greets U.S. President Joe Biden at the conclusion of their joint news conference in the East Room of the White House in Washington on Dec. 1, 2022. (Jonathan Ernst/Reuters)
 
@@ -388,7 +340,6 @@ French President Emmanuel Macron greets U.S. President Joe Biden at the conclusi
  - [https://www.theepochtimes.com/the-andromeda-galaxys-cannibalistic-feasts-revealed-by-a-dark-stream_4889285.html](https://www.theepochtimes.com/the-andromeda-galaxys-cannibalistic-feasts-revealed-by-a-dark-stream_4889285.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 04:25:09+00:00
- - tags: None
 
 Illustration depicting Dulais Structure globular clusters strewn through Andromeda. (Image supplied by Geraint Lewis/ University of Sydney)
 
@@ -396,7 +347,6 @@ Illustration depicting Dulais Structure globular clusters strewn through Androme
  - [https://www.theepochtimes.com/health/almonds-may-help-control-calories-study-shows_4894025.html](https://www.theepochtimes.com/health/almonds-may-help-control-calories-study-shows_4894025.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 03:16:18+00:00
- - tags: None
 
 Almonds could keep extra kilos at bay. (Krakenimages.com/Shutterstock)
 
@@ -404,7 +354,6 @@ Almonds could keep extra kilos at bay. (Krakenimages.com/Shutterstock)
  - [https://www.theepochtimes.com/australias-home-value-downturn-continues-to-ease-in-november_4899482.html](https://www.theepochtimes.com/australias-home-value-downturn-continues-to-ease-in-november_4899482.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 03:14:36+00:00
- - tags: None
 
 A sold sign on a real estate board is seen in Sydney, Australia on Aug. 1, 2017. (William West/AFP via Getty Images)
 
@@ -412,7 +361,6 @@ A sold sign on a real estate board is seen in Sydney, Australia on Aug. 1, 2017.
  - [https://www.theepochtimes.com/health-care-concerns-at-2-year-high-overtakes-inflation-as-top-national-concern-survey_4899388.html](https://www.theepochtimes.com/health-care-concerns-at-2-year-high-overtakes-inflation-as-top-national-concern-survey_4899388.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 03:13:37+00:00
- - tags: None
 
 A sign directing visitors to the emergency department is shown at the Childrens Hospital of Eastern Ontario in Ottawa on May 15, 2015. (Adrian Wyld/The Canadian Press)
 
@@ -420,7 +368,6 @@ A sign directing visitors to the emergency department is shown at the Childrens 
  - [https://www.theepochtimes.com/us-and-asian-allies-impose-new-sanctions-on-north-korea-after-icbm-test_4898290.html](https://www.theepochtimes.com/us-and-asian-allies-impose-new-sanctions-on-north-korea-after-icbm-test_4898290.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 02:50:59+00:00
- - tags: None
 
 An intercontinental ballistic missile (ICBM) is launched in this undated photo released by North Korea's Korean Central News Agency (KCNA) on Nov. 19, 2022. (KCNA via Reuters)
 
@@ -428,7 +375,6 @@ An intercontinental ballistic missile (ICBM) is launched in this undated photo r
  - [https://www.theepochtimes.com/pivot-airlines-says-plane-crew-detained-in-dominican-republic-back-in-canada_4899474.html](https://www.theepochtimes.com/pivot-airlines-says-plane-crew-detained-in-dominican-republic-back-in-canada_4899474.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 02:50:30+00:00
- - tags: None
 
 The Punta Cana international airport in the Dominican Republic on Sept. 23, 2019. (Erika Santelices/AFP via Getty Images)
 
@@ -436,7 +382,6 @@ The Punta Cana international airport in the Dominican Republic on Sept. 23, 2019
  - [https://www.theepochtimes.com/canada-needs-to-accept-china-believes-it-is-at-war-with-us-nb-mla_4899215.html](https://www.theepochtimes.com/canada-needs-to-accept-china-believes-it-is-at-war-with-us-nb-mla_4899215.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 02:41:05+00:00
- - tags: None
 
 Chinese aircraft carrier Liaoning (C) is participating in a military drills in the South China Sea on Jan. 2, 2017. (STR/AFP via Getty Images)
 
@@ -444,6 +389,5 @@ Chinese aircraft carrier Liaoning (C) is participating in a military drills in t
  - [https://www.theepochtimes.com/australian-capital-territory-pushes-ahead-with-euthanasia-laws_4899190.html](https://www.theepochtimes.com/australian-capital-territory-pushes-ahead-with-euthanasia-laws_4899190.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-02 00:09:18+00:00
- - tags: None
 
 A view down Anzac Parade towards Parliament House in Canberra, in the Australian Capital Territory, Australia. (Patty Jansen/pixabay)

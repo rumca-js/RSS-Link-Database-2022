@@ -1,4 +1,4 @@
-# Source Sky News, Source URL:http://feeds.skynews.com/feeds/rss/world.xml
+# Source Sky News, Source URL:http://feeds.skynews.com/feeds/rss/world.xml, Source language: en-US
 
 ## World Cup has 'changed the perception of this part of the world', says Qatar 2022 boss
  - [https://news.sky.com/story/qatar-world-cup-boss-tournament-has-changed-the-perception-of-this-part-of-the-world-12770401](https://news.sky.com/story/qatar-world-cup-boss-tournament-has-changed-the-perception-of-this-part-of-the-world-12770401)
@@ -34,6 +34,13 @@ One of Iran's most famous actresses has been arrested and accused of "spreading 
  - date published: 2022-12-17 16:02:00+00:00
 
 Croatia have finished third in the World Cup after beating Morocco in the third-fourth place play-off in Qatar.
+
+## Former Nazi concentration camp secretary, 97, convicted of aiding more than 10,000 murders
+ - [https://news.sky.com/story/former-nazi-concentration-camp-secretary-97-convicted-as-accessory-to-more-than-10000-murders-12770062](https://news.sky.com/story/former-nazi-concentration-camp-secretary-97-convicted-as-accessory-to-more-than-10000-murders-12770062)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2022-12-17 15:37:00+00:00
+
+A 97-year-old&#160;former secretary to the SS commander of Nazi Germany's Stutthof concentration camp has been found guilty of being an accessory to 10,505 murders.
 
 ## Explosion at Polish police headquarters 'caused by grenade launcher from Ukraine'
  - [https://news.sky.com/story/explosion-at-polish-police-headquarters-caused-by-grenade-launcher-from-ukraine-police-chief-says-12769996](https://news.sky.com/story/explosion-at-polish-police-headquarters-caused-by-grenade-launcher-from-ukraine-police-chief-says-12769996)

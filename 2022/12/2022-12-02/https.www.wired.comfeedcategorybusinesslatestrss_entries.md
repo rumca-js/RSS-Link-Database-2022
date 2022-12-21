@@ -1,10 +1,9 @@
-# Source Wired business, Source URL:https://www.wired.com/feed/category/business/latest/rss
+# Source Wired business, Source URL:https://www.wired.com/feed/category/business/latest/rss, Source language: en-US
 
 ## How Chinese Netizens Swamped China’s Internet Controls
  - [https://www.wired.com/story/how-chinese-protests-netizens-swamped-chinas-internet-controls/](https://www.wired.com/story/how-chinese-protests-netizens-swamped-chinas-internet-controls/)
  - RSS feed: https://www.wired.com/feed/category/business/latest/rss
  - date published: 2022-12-02 17:52:55+00:00
- - tags: None
 
 The government regained control of streets and social networks, but citizens protesting zero-Covid policies proved smartphones can help fuel mass action.
 
@@ -12,7 +11,6 @@ The government regained control of streets and social networks, but citizens pro
  - [https://www.wired.com/story/plaintext-why-the-world-fell-for-sam-bankman-fried-ftx/](https://www.wired.com/story/plaintext-why-the-world-fell-for-sam-bankman-fried-ftx/)
  - RSS feed: https://www.wired.com/feed/category/business/latest/rss
  - date published: 2022-12-02 14:00:00+00:00
- - tags: None
 
 Despite ample reasons to be skeptical of cryptocurrency schemes, the notion of the eccentric genius accomplishing extraordinary things was irresistible.
 
@@ -20,6 +18,5 @@ Despite ample reasons to be skeptical of cryptocurrency schemes, the notion of t
  - [https://www.wired.com/story/musk-denial-true-cost-twitter-implosion/](https://www.wired.com/story/musk-denial-true-cost-twitter-implosion/)
  - RSS feed: https://www.wired.com/feed/category/business/latest/rss
  - date published: 2022-12-02 11:00:00+00:00
- - tags: None
 
 Elon Musk’s platform may be hell, but it’s also where huge amounts of reputational and social wealth are invested. All of that is in peril.

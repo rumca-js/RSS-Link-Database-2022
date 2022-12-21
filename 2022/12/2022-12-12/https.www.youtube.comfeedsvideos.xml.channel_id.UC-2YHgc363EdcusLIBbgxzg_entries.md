@@ -1,10 +1,9 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
+# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
 
 ## They Thought It Was Hail. It Was Something WAY Weirder.
  - [https://www.youtube.com/watch?v=NfM-EJMFE48](https://www.youtube.com/watch?v=NfM-EJMFE48)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
  - date published: 2022-12-12 14:52:28+00:00
- - tags: None
 
 For 18 FREE meals with HelloFresh plus free shipping, use code JOESCOTT18 at https://bit.ly/3TIKVSt!
 Over a period of 6 weeks in 1994, the small town of Oakville, Washington was hit with a bizarre string of storms that rained weird gelatinous blobs all over the town. It was all just a funny sidenote - and then people started getting sick. This is the weird and still unsolved mystery of the Oakville Blobs.

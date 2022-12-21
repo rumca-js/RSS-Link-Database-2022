@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## Samsung reveals new Galaxy Z Flip 4 Luxury Box collab with Gigi by Gassan
  - [https://www.androidauthority.com/galaxy-z-flip-4-collab-3249492/](https://www.androidauthority.com/galaxy-z-flip-4-collab-3249492/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-09 19:02:36+00:00
- - tags: None
 
 The luxury box includes a Galaxy Z Flip 4 and an engravable bracelet.
 
@@ -12,7 +11,6 @@ The luxury box includes a Galaxy Z Flip 4 and an engravable bracelet.
  - [https://www.androidauthority.com/best-smartphone-2022-readers-choice-3248988/](https://www.androidauthority.com/best-smartphone-2022-readers-choice-3248988/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-09 16:00:25+00:00
- - tags: None
 
 This is the first-ever win for a Pixel when it comes to the Android Authority Reader's Choice award.
 
@@ -20,7 +18,6 @@ This is the first-ever win for a Pixel when it comes to the Android Authority Re
  - [https://www.androidauthority.com/daily-authority-december-9-2022-3249340/](https://www.androidauthority.com/daily-authority-december-9-2022-3249340/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-09 10:40:26+00:00
- - tags: None
 
 Plus winners from the 2022 Game Awards and more.
 
@@ -28,7 +25,6 @@ Plus winners from the 2022 Game Awards and more.
  - [https://www.androidauthority.com/share-files-pc-phone-poll-results-3249328/](https://www.androidauthority.com/share-files-pc-phone-poll-results-3249328/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-09 09:03:12+00:00
- - tags: None
 
 Wired connections still reign supreme, but there are a few other popular options too.
 
@@ -36,6 +32,5 @@ Wired connections still reign supreme, but there are a few other popular options
  - [https://www.androidauthority.com/google-camera-update-pixels-frequent-faces-3244877/](https://www.androidauthority.com/google-camera-update-pixels-frequent-faces-3244877/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-09 06:06:21+00:00
- - tags: None
 
 The Frequent Faces feature was disabled earlier this year, but it's back on older phones.

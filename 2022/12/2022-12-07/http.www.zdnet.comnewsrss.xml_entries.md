@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## TikTok sued by Indiana AG for child safety, security issues
  - [https://www.zdnet.com/article/tiktok-sued-by-indiana-ag-for-child-safety-security-issues/#ftag=RSSbaffb68](https://www.zdnet.com/article/tiktok-sued-by-indiana-ag-for-child-safety-security-issues/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-07 22:49:29+00:00
- - tags: None
 
 Meanwhile, Texas Gov. Greg Abbott and a number of other GOP leaders are taking "aggressive action" against the social media giant
 
@@ -12,7 +11,6 @@ Meanwhile, Texas Gov. Greg Abbott and a number of other GOP leaders are taking "
  - [https://www.zdnet.com/article/creality-sermoon-v1-pro-review/#ftag=RSSbaffb68](https://www.zdnet.com/article/creality-sermoon-v1-pro-review/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-07 22:16:00+00:00
- - tags: None
 
 The small, fully-enclosed 3D printer has some tangible strengths, but it's not without issues.
 
@@ -20,7 +18,6 @@ The small, fully-enclosed 3D printer has some tangible strengths, but it's not w
  - [https://www.zdnet.com/article/open-back-vs-closed-back-headphones-a-guide/#ftag=RSSbaffb68](https://www.zdnet.com/article/open-back-vs-closed-back-headphones-a-guide/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-07 21:57:00+00:00
- - tags: None
 
 If you're looking to tr a new pair of headphones, you may find yourself wondering what the main differences are between open-back and closed-back options. Here's our breakdown.
 
@@ -28,7 +25,6 @@ If you're looking to tr a new pair of headphones, you may find yourself wonderin
  - [https://www.zdnet.com/article/this-ipad-pro-usb-c-hub-is-there-when-you-need-it/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-ipad-pro-usb-c-hub-is-there-when-you-need-it/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-07 20:36:21+00:00
- - tags: None
 
 I've lost count of the number of times I needed a hub for my iPad Pro, and I'd left it at home or at the office. No more.
 
@@ -36,7 +32,6 @@ I've lost count of the number of times I needed a hub for my iPad Pro, and I'd l
  - [https://www.zdnet.com/home-and-office/work-life/how-to-locate-a-users-gpg-key-in-thunderbird/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/work-life/how-to-locate-a-users-gpg-key-in-thunderbird/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-07 20:12:46+00:00
- - tags: None
 
 If you're using encrypted email in Thunderbird, you might be happy to know there's an easy way to locate a recipient's GPG key.
 
@@ -44,7 +39,6 @@ If you're using encrypted email in Thunderbird, you might be happy to know there
  - [https://www.zdnet.com/article/how-much-ram-does-your-windows-11-pc-need/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-much-ram-does-your-windows-11-pc-need/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-07 19:56:15+00:00
- - tags: None
 
 There's quite a difference between the minimum system requirement and a practical minimum.
 
@@ -52,7 +46,6 @@ There's quite a difference between the minimum system requirement and a practica
  - [https://www.zdnet.com/article/uber-is-launching-robotaxi-rides-in-las-vegas/#ftag=RSSbaffb68](https://www.zdnet.com/article/uber-is-launching-robotaxi-rides-in-las-vegas/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-07 19:56:00+00:00
- - tags: None
 
 For now, passengers that are picked up in the autonomous vehicles will still have a 'driver,' but the plan is to offer driverless rides beginning in 2023
 
@@ -60,7 +53,6 @@ For now, passengers that are picked up in the autonomous vehicles will still hav
  - [https://www.zdnet.com/article/nikon-z-30-camera-review/#ftag=RSSbaffb68](https://www.zdnet.com/article/nikon-z-30-camera-review/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-07 19:41:00+00:00
- - tags: None
 
 The compact mirrorless camera is marketed as a vlogger's dream -- but its still photos are just as good.
 
@@ -68,7 +60,6 @@ The compact mirrorless camera is marketed as a vlogger's dream -- but its still 
  - [https://www.zdnet.com/home-and-office/work-life/how-to-add-do-not-track-to-thunderbird-and-why-you-should/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/work-life/how-to-add-do-not-track-to-thunderbird-and-why-you-should/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-07 18:42:33+00:00
- - tags: None
 
 Thunderbird includes the ability to block third parties from tracking you via your email.
 
@@ -76,7 +67,6 @@ Thunderbird includes the ability to block third parties from tracking you via yo
  - [https://www.zdnet.com/home-and-office/home-entertainment/did-your-tv-streaming-bill-just-go-up-again-heres-why-i-chose-youtube-tv/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/did-your-tv-streaming-bill-just-go-up-again-heres-why-i-chose-youtube-tv/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-07 18:12:00+00:00
- - tags: None
 
 It's time (again) to assess your options.
 
@@ -84,7 +74,6 @@ It's time (again) to assess your options.
  - [https://www.zdnet.com/article/marathoners-doubled-in-2022-according-to-strava-data/#ftag=RSSbaffb68](https://www.zdnet.com/article/marathoners-doubled-in-2022-according-to-strava-data/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-07 16:50:00+00:00
- - tags: None
 
 Strava's 2022 Year in Sport shows that its 100 million users upped their activity levels significantly this year as pandemic restrictions eased.
 
@@ -92,7 +81,6 @@ Strava's 2022 Year in Sport shows that its 100 million users upped their activit
  - [https://www.zdnet.com/home-and-office/best-walmart-gift/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/best-walmart-gift/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-07 16:23:00+00:00
- - tags: None
 
 You can make Walmart your one-stop shot for tech gifts this holiday season. With deals and rollbacks on tons of items like TVs, cameras, and home audio, you'll be able to find something for everyone on your list.
 
@@ -100,7 +88,6 @@ You can make Walmart your one-stop shot for tech gifts this holiday season. With
  - [https://www.zdnet.com/home-and-office/smart-home/best-cheap-home-security-cameras/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/best-cheap-home-security-cameras/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-07 15:37:00+00:00
- - tags: None
 
 These days, it's easy to protect your family and home, thanks to home security cameras. But first, you need to find the right one for your budget. We can help with ZDNET's best cheap home security cameras.
 
@@ -108,7 +95,6 @@ These days, it's easy to protect your family and home, thanks to home security c
  - [https://www.zdnet.com/home-and-office/work-life/microsoft-teams-is-getting-these-new-community-features-heres-how-they-work/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/work-life/microsoft-teams-is-getting-these-new-community-features-heres-how-they-work/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-07 15:23:02+00:00
- - tags: None
 
 Microsoft adds communities feature to Teams free in a bid to boost its usage by non-enterprise users.
 
@@ -116,7 +102,6 @@ Microsoft adds communities feature to Teams free in a bid to boost its usage by 
  - [https://www.zdnet.com/article/verizon-best-holiday-deals-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/verizon-best-holiday-deals-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-07 15:21:00+00:00
- - tags: None
 
 Now is the best time to score holiday deals at Verizon: Get a bundled iPhone 14, iPad, Apple Watch, and Beats for the price of just a phone.
 
@@ -124,7 +109,6 @@ Now is the best time to score holiday deals at Verizon: Get a bundled iPhone 14,
  - [https://www.zdnet.com/article/stravas-2022-year-in-sport-e-bikes-for-fitness-and-commuting/#ftag=RSSbaffb68](https://www.zdnet.com/article/stravas-2022-year-in-sport-e-bikes-for-fitness-and-commuting/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-07 15:09:00+00:00
- - tags: None
 
 Strava collects a vast amount of data from wearables of its 100 million users, and it was clear that people are back to getting activity after the global pandemic.
 
@@ -132,7 +116,6 @@ Strava collects a vast amount of data from wearables of its 100 million users, a
  - [https://www.zdnet.com/article/spacex-unveils-starshield-starlink-service-for-national-security-usage/#ftag=RSSbaffb68](https://www.zdnet.com/article/spacex-unveils-starshield-starlink-service-for-national-security-usage/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-07 13:30:15+00:00
- - tags: None
 
 SpaceX launches Starshield, a new satellite broadband network and launch service aimed at government.
 
@@ -140,7 +123,6 @@ SpaceX launches Starshield, a new satellite broadband network and launch service
  - [https://www.zdnet.com/article/android-security-update-fixes-more-than-80-security-vulnerabilities-including-four-critical/#ftag=RSSbaffb68](https://www.zdnet.com/article/android-security-update-fixes-more-than-80-security-vulnerabilities-including-four-critical/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-07 13:22:20+00:00
- - tags: None
 
 Google's Android Security Bulletin for December 2022 protects against a number of vulnerabilities - including one which could allow attackers to exploit Bluetooth.
 
@@ -148,7 +130,6 @@ Google's Android Security Bulletin for December 2022 protects against a number o
  - [https://www.zdnet.com/article/googles-10-week-accelerator-is-on-the-hunt-for-green-start-ups/#ftag=RSSbaffb68](https://www.zdnet.com/article/googles-10-week-accelerator-is-on-the-hunt-for-green-start-ups/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-07 13:17:58+00:00
- - tags: None
 
 Google's two new startup accelerator programs support companies whose goal is to create technology that combats climate change.
 
@@ -156,7 +137,6 @@ Google's two new startup accelerator programs support companies whose goal is to
  - [https://www.zdnet.com/article/the-new-space-race-will-drive-innovation-heres-where-it-goes-next/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-new-space-race-will-drive-innovation-heres-where-it-goes-next/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-07 13:00:47+00:00
- - tags: None
 
 Sixty years after JFK declared the US would go to the moon, America's bold ambitions for space are back.
 
@@ -164,7 +144,6 @@ Sixty years after JFK declared the US would go to the moon, America's bold ambit
  - [https://www.zdnet.com/article/nasas-next-gen-robot-will-explore-space-and-do-your-chores-at-home/#ftag=RSSbaffb68](https://www.zdnet.com/article/nasas-next-gen-robot-will-explore-space-and-do-your-chores-at-home/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-07 13:00:16+00:00
- - tags: None
 
 The space agency and its partner Apptronik have taken on the ambitious challenge of building a general-purpose, humanoid robot.
 
@@ -172,7 +151,6 @@ The space agency and its partner Apptronik have taken on the ambitious challenge
  - [https://www.zdnet.com/article/cyberspace-in-space-the-out-of-this-world-challenges-ahead/#ftag=RSSbaffb68](https://www.zdnet.com/article/cyberspace-in-space-the-out-of-this-world-challenges-ahead/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-07 12:59:44+00:00
- - tags: None
 
 New horizons bring new security threats that will have to be tackled.
 
@@ -180,7 +158,6 @@ New horizons bring new security threats that will have to be tackled.
  - [https://www.zdnet.com/article/would-you-buy-a-10000-iphone-app/#ftag=RSSbaffb68](https://www.zdnet.com/article/would-you-buy-a-10000-iphone-app/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-07 12:41:24+00:00
- - tags: None
 
 Apple overhauls App Store app-pricing choices in line with parts of last year's class action settlement.
 
@@ -188,7 +165,6 @@ Apple overhauls App Store app-pricing choices in line with parts of last year's 
  - [https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-what-you-need-to-know/#ftag=RSSbaffb68](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-what-you-need-to-know/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-07 11:28:17+00:00
- - tags: None
 
 This AI chatbot's advanced conversational capabilities are making quite the buzz. Here's everything you need to know.
 
@@ -196,7 +172,6 @@ This AI chatbot's advanced conversational capabilities are making quite the buzz
  - [https://www.zdnet.com/article/dish-wireless-opens-limited-beta-for-boost-infinite-cellular-service/#ftag=RSSbaffb68](https://www.zdnet.com/article/dish-wireless-opens-limited-beta-for-boost-infinite-cellular-service/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-07 11:00:21+00:00
- - tags: None
 
 Dish will take signups through the end of the year, promising a lifetime plan cost of $25 per month.
 
@@ -204,7 +179,6 @@ Dish will take signups through the end of the year, promising a lifetime plan co
  - [https://www.zdnet.com/home-and-office/work-life/managers-and-leaders-arent-the-same-thing-heres-why-that-matters/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/work-life/managers-and-leaders-arent-the-same-thing-heres-why-that-matters/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-07 10:33:40+00:00
- - tags: None
 
 It seems like every up-and-coming professional aspires to being a leader, but don't make the mistake of thinking managers aren't just as important.
 
@@ -212,7 +186,6 @@ It seems like every up-and-coming professional aspires to being a leader, but do
  - [https://www.zdnet.com/home-and-office/adonit-nest-ultimate-work-from-home-gadget-goes-on-sale-deal-coupon-code/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/adonit-nest-ultimate-work-from-home-gadget-goes-on-sale-deal-coupon-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-07 10:11:03+00:00
- - tags: None
 
 The Nest gadget, a 7-in-1 USB connectivity hub, is now on sale for a limited time.
 
@@ -220,6 +193,5 @@ The Nest gadget, a 7-in-1 USB connectivity hub, is now on sale for a limited tim
  - [https://www.zdnet.com/article/best-chromebook-for-work/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-chromebook-for-work/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-07 01:57:00+00:00
- - tags: None
 
 Chromebooks offer fantastic features, such as touchscreens, fast processors, and decent storage, allowing you all the tools you need to knock out your work. And, you'll have some fun doing so.

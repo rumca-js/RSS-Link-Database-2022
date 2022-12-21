@@ -1,10 +1,9 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/
+# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
 
 ## Netflix: The 52 Absolute Best TV Shows to Watch     - CNET
  - [https://www.cnet.com/culture/entertainment/netflix-the-52-absolute-best-tv-shows-to-watch-tonight/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/netflix-the-52-absolute-best-tv-shows-to-watch-tonight/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 23:05:04+00:00
- - tags: None
 
 This weekend, catch Money Heist: Korea – Joint Economic Area (Part 2).
 
@@ -12,7 +11,6 @@ This weekend, catch Money Heist: Korea – Joint Economic Area (Part 2).
  - [https://www.cnet.com/culture/entertainment/netflix-the-46-absolute-best-movies-to-binge-tonight/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/netflix-the-46-absolute-best-movies-to-binge-tonight/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 23:00:04+00:00
- - tags: None
 
 This weekend, watch Emily the Criminal and Guillermo del Toro's Pinocchio.
 
@@ -20,7 +18,6 @@ This weekend, watch Emily the Criminal and Guillermo del Toro's Pinocchio.
  - [https://www.cnet.com/tech/computing/taking-a-screenshot-on-mac-4-simple-ways-to-do-it/#ftag=CADf328eec](https://www.cnet.com/tech/computing/taking-a-screenshot-on-mac-4-simple-ways-to-do-it/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 22:34:00+00:00
- - tags: None
 
 Apple has new M1 and M2 versions of most of its iconic Macs, but how you take a screenshot remains the same.
 
@@ -28,7 +25,6 @@ Apple has new M1 and M2 versions of most of its iconic Macs, but how you take a 
  - [https://www.cnet.com/tech/services-and-software/disney-plus-hike-prices-the-ad-tier-and-everything-else-to-know/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/disney-plus-hike-prices-the-ad-tier-and-everything-else-to-know/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 22:00:06+00:00
- - tags: None
 
 Disney Plus is raising prices to watch ad free and adding commercials if you want to pay a little less.
 
@@ -36,7 +32,6 @@ Disney Plus is raising prices to watch ad free and adding commercials if you wan
  - [https://www.cnet.com/tech/mobile/how-to-easily-transfer-data-from-iphone-to-android/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/how-to-easily-transfer-data-from-iphone-to-android/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 20:50:36+00:00
- - tags: None
 
 Transfer your texts, photos and more from Apple's iOS into your new Android phone.
 
@@ -44,7 +39,6 @@ Transfer your texts, photos and more from Apple's iOS into your new Android phon
  - [https://www.cnet.com/tech/mobile/how-to-use-the-iphone-14s-emergency-sos-to-contact-911-with-a-satellite/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/how-to-use-the-iphone-14s-emergency-sos-to-contact-911-with-a-satellite/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 20:47:15+00:00
- - tags: None
 
 Apple's iPhone 14 models now have the ability to use the new feature in crisis situations.
 
@@ -52,7 +46,6 @@ Apple's iPhone 14 models now have the ability to use the new feature in crisis s
  - [https://www.cnet.com/tech/mobile/the-new-moto-g-play-will-cost-170-and-come-with-a-big-camera-upgrade/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/the-new-moto-g-play-will-cost-170-and-come-with-a-big-camera-upgrade/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 20:42:37+00:00
- - tags: None
 
 The budget-focused Android phone goes on sale Jan. 12.
 
@@ -60,7 +53,6 @@ The budget-focused Android phone goes on sale Jan. 12.
  - [https://www.cnet.com/tech/mobile/xiaomis-iphone-14-rival-will-launch-tomorrow/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/xiaomis-iphone-14-rival-will-launch-tomorrow/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 20:40:16+00:00
- - tags: None
 
 The Xiaomi 13 and Xiaomi 13 Pro will make their China debut after the original launch date was pushed back.
 
@@ -68,7 +60,6 @@ The Xiaomi 13 and Xiaomi 13 Pro will make their China debut after the original l
  - [https://www.cnet.com/culture/these-three-wordle-starter-words-practically-guarantee-a-winning-streak/#ftag=CADf328eec](https://www.cnet.com/culture/these-three-wordle-starter-words-practically-guarantee-a-winning-streak/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 20:38:00+00:00
- - tags: None
 
 These are our favorites.
 
@@ -76,7 +67,6 @@ These are our favorites.
  - [https://www.cnet.com/culture/entertainment/that-kooky-viral-wednesday-dance-is-taking-over-tiktok/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/that-kooky-viral-wednesday-dance-is-taking-over-tiktok/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 20:36:00+00:00
- - tags: None
 
 Even Lady Gaga's doing it.
 
@@ -84,7 +74,6 @@ Even Lady Gaga's doing it.
  - [https://www.cnet.com/culture/entertainment/guillermo-del-toros-pinocchio-is-about-death-life-and-mussolini/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/guillermo-del-toros-pinocchio-is-about-death-life-and-mussolini/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 20:27:00+00:00
- - tags: None
 
 Using stop-motion animation, the director of Pan's Labyrinth delivers a visually dazzling -- and decidedly grownup -- take on the wooden puppet come to life.
 
@@ -92,7 +81,6 @@ Using stop-motion animation, the director of Pan's Labyrinth delivers a visually
  - [https://www.cnet.com/culture/entertainment/hbo-max-the-absolute-best-sci-fi-movies-to-watch/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/hbo-max-the-absolute-best-sci-fi-movies-to-watch/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 20:15:03+00:00
- - tags: None
 
 Uncover a trove of hidden gems on HBO Max.
 
@@ -100,7 +88,6 @@ Uncover a trove of hidden gems on HBO Max.
  - [https://www.cnet.com/tech/mobile/your-next-phone-could-survive-drops-better-with-new-gorilla-glass-victus-2/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/your-next-phone-could-survive-drops-better-with-new-gorilla-glass-victus-2/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 20:03:14+00:00
- - tags: None
 
 Corning says its new smartphone glass brings improved protection against drops on rough, hard surfaces.
 
@@ -108,7 +95,6 @@ Corning says its new smartphone glass brings improved protection against drops o
  - [https://www.cnet.com/culture/entertainment/star-wars-convergence-kicks-off-an-exciting-new-jedi-era-with-a-few-wrinkles/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/star-wars-convergence-kicks-off-an-exciting-new-jedi-era-with-a-few-wrinkles/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 20:00:49+00:00
- - tags: None
 
 Book review: Phase 2 of the High Republic opens with an epic journey marred by a few weak elements.
 
@@ -116,7 +102,6 @@ Book review: Phase 2 of the High Republic opens with an epic journey marred by a
  - [https://www.cnet.com/tech/mobile/the-samsung-galaxy-s23-needs-these-3-giant-upgrades-to-succeed/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/the-samsung-galaxy-s23-needs-these-3-giant-upgrades-to-succeed/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 19:56:00+00:00
- - tags: None
 
 Commentary: I'm hoping to see Samsung improve basics like the camera, battery life and charging experience.
 
@@ -124,7 +109,6 @@ Commentary: I'm hoping to see Samsung improve basics like the camera, battery li
  - [https://www.cnet.com/culture/wordle-tips-and-best-starter-words-what-i-learned-playing-daily-for-a-year/#ftag=CADf328eec](https://www.cnet.com/culture/wordle-tips-and-best-starter-words-what-i-learned-playing-daily-for-a-year/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 19:31:21+00:00
- - tags: None
 
 Starter words are so important. But there are other Wordle tricks too.
 
@@ -132,7 +116,6 @@ Starter words are so important. But there are other Wordle tricks too.
  - [https://www.cnet.com/how-to/dont-send-late-holiday-packages-learn-the-shipping-deadlines-for-2022/#ftag=CADf328eec](https://www.cnet.com/how-to/dont-send-late-holiday-packages-learn-the-shipping-deadlines-for-2022/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 19:23:00+00:00
- - tags: None
 
 You want your presents to arrive in time for the holidays. Here's when you need to send them.
 
@@ -140,7 +123,6 @@ You want your presents to arrive in time for the holidays. Here's when you need 
  - [https://www.cnet.com/tech/services-and-software/traveling-for-the-holidays-7-google-maps-tips-youll-want-to-use/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/traveling-for-the-holidays-7-google-maps-tips-youll-want-to-use/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 19:15:02+00:00
- - tags: None
 
 To help make your holiday travels easier, make sure you're using these Google Maps features.
 
@@ -148,7 +130,6 @@ To help make your holiday travels easier, make sure you're using these Google Ma
  - [https://www.cnet.com/tech/mobile/before-splurging-on-a-new-iphone-or-android-consider-these-things/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/before-splurging-on-a-new-iphone-or-android-consider-these-things/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 19:12:16+00:00
- - tags: None
 
 There are so many options out there when you want to buy a new phone. We're here to help you get the best bang for your buck.
 
@@ -156,7 +137,6 @@ There are so many options out there when you want to buy a new phone. We're here
  - [https://www.cnet.com/tech/mobile/upgrading-to-the-iphone-14-means-saying-goodbye-to-your-sim-card/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/upgrading-to-the-iphone-14-means-saying-goodbye-to-your-sim-card/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 18:51:00+00:00
- - tags: None
 
 The latest Apple iPhones introduce the eSIM, doing away with traditional SIM cards.
 
@@ -164,7 +144,6 @@ The latest Apple iPhones introduce the eSIM, doing away with traditional SIM car
  - [https://www.cnet.com/news/i-ditched-my-5g-home-internet-to-go-back-to-spectrum-heres-why/#ftag=CADf328eec](https://www.cnet.com/news/i-ditched-my-5g-home-internet-to-go-back-to-spectrum-heres-why/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 18:44:47+00:00
- - tags: None
 
 Commentary: The "killer app" for 5G isn't remote surgery or driverless cars. Its most appealing advantage for 5G right now is that it's finally challenging cable companies.
 
@@ -172,7 +151,6 @@ Commentary: The "killer app" for 5G isn't remote surgery or driverless cars. Its
  - [https://www.cnet.com/tech/mobile/customize-iphone-widgets/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/customize-iphone-widgets/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 18:33:28+00:00
- - tags: None
 
 Widgets can do all sorts of interesting things, here's how to get them.
 
@@ -180,7 +158,6 @@ Widgets can do all sorts of interesting things, here's how to get them.
  - [https://www.cnet.com/tech/mobile/6-tips-and-phone-settings-to-change-for-taking-stunning-landscape-photos/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/6-tips-and-phone-settings-to-change-for-taking-stunning-landscape-photos/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 18:28:36+00:00
- - tags: None
 
 Wow your Instagram followers with these iPhone or Android tips that improve your landscape photos.
 
@@ -188,7 +165,6 @@ Wow your Instagram followers with these iPhone or Android tips that improve your
  - [https://www.cnet.com/tech/services-and-software/best-photo-editing-apps/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/best-photo-editing-apps/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 18:16:24+00:00
- - tags: None
 
 If you need apps to make your pictures look incredible, we have you covered.
 
@@ -196,7 +172,6 @@ If you need apps to make your pictures look incredible, we have you covered.
  - [https://www.cnet.com/tech/computing/this-changed-how-i-use-my-computer-let-me-introduce-you-to-ctrl-shift-t/#ftag=CADf328eec](https://www.cnet.com/tech/computing/this-changed-how-i-use-my-computer-let-me-introduce-you-to-ctrl-shift-t/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 18:15:45+00:00
- - tags: None
 
 After you hear about my favorite keyboard shortcut, your life will be changed, too.
 
@@ -204,7 +179,6 @@ After you hear about my favorite keyboard shortcut, your life will be changed, t
  - [https://www.cnet.com/culture/entertainment/which-the-white-lotus-season-2-characters-die-we-have-some-thoughts/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/which-the-white-lotus-season-2-characters-die-we-have-some-thoughts/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 18:06:03+00:00
- - tags: None
 
 Before tomorrow's finale, let's go over all the theories that have arisen over the first 6 episodes.
 
@@ -212,7 +186,6 @@ Before tomorrow's finale, let's go over all the theories that have arisen over t
  - [https://www.cnet.com/tech/mobile/how-waterproof-is-my-phone-ip-ratings-explained/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/how-waterproof-is-my-phone-ip-ratings-explained/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 17:40:41+00:00
- - tags: None
 
 Your phone might not be that waterproof. Here's what IP67, IP68 and IPX8 actually mean.
 
@@ -220,7 +193,6 @@ Your phone might not be that waterproof. Here's what IP67, IP68 and IPX8 actuall
  - [https://www.cnet.com/science/space/this-is-what-might-happen-if-an-asteroid-crashed-into-your-town/#ftag=CADf328eec](https://www.cnet.com/science/space/this-is-what-might-happen-if-an-asteroid-crashed-into-your-town/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 17:01:01+00:00
- - tags: None
 
 An online simulator lets you launch an asteroid at a locale of your choosing and ponder the potential outcome.
 
@@ -228,7 +200,6 @@ An online simulator lets you launch an asteroid at a locale of your choosing and
  - [https://www.cnet.com/news/philips-hue-smart-string-lights-review/#ftag=CADf328eec](https://www.cnet.com/news/philips-hue-smart-string-lights-review/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 17:00:36+00:00
- - tags: None
 
 These string lights add voice control, effects and light-sync features to your Christmas tree, and sync seamlessly with other Philips Hue products.
 
@@ -236,7 +207,6 @@ These string lights add voice control, effects and light-sync features to your C
  - [https://www.cnet.com/how-to/bring-cheap-wine-to-a-holiday-party-without-looking-cheap-heres-the-trick/#ftag=CADf328eec](https://www.cnet.com/how-to/bring-cheap-wine-to-a-holiday-party-without-looking-cheap-heres-the-trick/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 17:00:29+00:00
- - tags: None
 
 We got a sommelier to reveal how to tell which cheap wines are actually good.
 
@@ -244,7 +214,6 @@ We got a sommelier to reveal how to tell which cheap wines are actually good.
  - [https://www.cnet.com/videos/festavia-christmas-lights-by-philips-hue-shine-bright/#ftag=CADf328eec](https://www.cnet.com/videos/festavia-christmas-lights-by-philips-hue-shine-bright/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 17:00:01+00:00
- - tags: None
 
 These smart string lights sync seamlessly with the Philips Hue ecosystem, and add voice control, effects and light sync features to your Christmas tree.
 
@@ -252,7 +221,6 @@ These smart string lights sync seamlessly with the Philips Hue ecosystem, and 
  - [https://www.cnet.com/tech/computing/macbook-factory-resetting-tips-and-tricks-you-need-to-know/#ftag=CADf328eec](https://www.cnet.com/tech/computing/macbook-factory-resetting-tips-and-tricks-you-need-to-know/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 16:43:36+00:00
- - tags: None
 
 You need to wipe all of your personal info before selling or otherwise parting with your MacBook.
 
@@ -260,7 +228,6 @@ You need to wipe all of your personal info before selling or otherwise parting w
  - [https://www.cnet.com/tech/computing/actually-your-chromebook-can-run-microsoft-office/#ftag=CADf328eec](https://www.cnet.com/tech/computing/actually-your-chromebook-can-run-microsoft-office/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 16:33:29+00:00
- - tags: None
 
 Downloading and installing Microsoft Office 365 apps on a Chromebook is quick and easy with these steps.
 
@@ -268,7 +235,6 @@ Downloading and installing Microsoft Office 365 apps on a Chromebook is quick an
  - [https://www.cnet.com/tech/services-and-software/watch-england-vs-france-world-cup-2022-match-from-anywhere/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/watch-england-vs-france-world-cup-2022-match-from-anywhere/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 16:30:03+00:00
- - tags: None
 
 The ancient rivals both face their first real test of the tournament in the quarterfinal today. Can England find an answer to Mbappé?
 
@@ -276,7 +242,6 @@ The ancient rivals both face their first real test of the tournament in the quar
  - [https://www.cnet.com/tech/gaming/crisis-core-reunion-is-a-gorgeous-final-fantasy-7-classic-remastered/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/crisis-core-reunion-is-a-gorgeous-final-fantasy-7-classic-remastered/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 16:00:10+00:00
- - tags: None
 
 Review: Zack Fair's beautifully 2007 spinoff adventure has mostly gotten better with age.
 
@@ -284,7 +249,6 @@ Review: Zack Fair's beautifully 2007 spinoff adventure has mostly gotten better 
  - [https://www.cnet.com/tech/services-and-software/zoom-review-the-video-chat-app-that-continuously-outshines-the-competition/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/zoom-review-the-video-chat-app-that-continuously-outshines-the-competition/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 16:00:07+00:00
- - tags: None
 
 There's so much more to Zoom than just changing your background.
 
@@ -292,7 +256,6 @@ There's so much more to Zoom than just changing your background.
  - [https://www.cnet.com/how-to/protect-your-holiday-packages-from-porch-pirates-heres-how/#ftag=CADf328eec](https://www.cnet.com/how-to/protect-your-holiday-packages-from-porch-pirates-heres-how/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 16:00:03+00:00
- - tags: None
 
 Don't let a thief make off with your Amazon or other packages this season.
 
@@ -300,7 +263,6 @@ Don't let a thief make off with your Amazon or other packages this season.
  - [https://www.cnet.com/culture/entertainment/best-hallmark-christmas-movies-of-2022/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/best-hallmark-christmas-movies-of-2022/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 15:15:03+00:00
- - tags: None
 
 Standout movies include The Royal Nanny, My Southern Family Christmas and Three Wise Men and a Baby.
 
@@ -308,7 +270,6 @@ Standout movies include The Royal Nanny, My Southern Family Christmas and Three 
  - [https://www.cnet.com/deals/how-to-bake-crispy-chicken-wings-in-the-oven/#ftag=CADf328eec](https://www.cnet.com/deals/how-to-bake-crispy-chicken-wings-in-the-oven/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 15:00:10+00:00
- - tags: None
 
 Step away from the deep fryer and try these healthier buffalo wings on for size.
 
@@ -316,7 +277,6 @@ Step away from the deep fryer and try these healthier buffalo wings on for size.
  - [https://www.cnet.com/culture/entertainment/more-people-should-watch-this-slick-sci-fi-thriller-on-netflix/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/more-people-should-watch-this-slick-sci-fi-thriller-on-netflix/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 15:00:07+00:00
- - tags: None
 
 Oxygen will make you extremely grateful you're sitting in a comfortable chair.
 
@@ -324,7 +284,6 @@ Oxygen will make you extremely grateful you're sitting in a comfortable chair.
  - [https://www.cnet.com/how-to/this-is-the-best-spot-to-put-your-air-purifier/#ftag=CADf328eec](https://www.cnet.com/how-to/this-is-the-best-spot-to-put-your-air-purifier/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 15:00:02+00:00
- - tags: None
 
 Maximize your air purifier's particle-cleaning potential and rid your home of allergens by putting it in the right place in your home.
 
@@ -332,7 +291,6 @@ Maximize your air purifier's particle-cleaning potential and rid your home of al
  - [https://www.cnet.com/deals/get-up-to-60-off-stem-toys-for-kids-with-this-amazon-deal/#ftag=CADf328eec](https://www.cnet.com/deals/get-up-to-60-off-stem-toys-for-kids-with-this-amazon-deal/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 14:22:14+00:00
- - tags: None
 
 These interactive kits are designed to help children develop important skills like problem-solving, creativity and more.
 
@@ -340,7 +298,6 @@ These interactive kits are designed to help children develop important skills li
  - [https://www.cnet.com/tech/gaming/before-you-factory-reset-your-nintendo-switch-do-this-first/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/before-you-factory-reset-your-nintendo-switch-do-this-first/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 14:02:00+00:00
- - tags: None
 
 Wiping your Switch is a best practice before getting rid of your old device.
 
@@ -348,7 +305,6 @@ Wiping your Switch is a best practice before getting rid of your old device.
  - [https://www.cnet.com/health/fitness/just-15-minutes-of-exercise-can-boost-your-health-what-to-know-and-do/#ftag=CADf328eec](https://www.cnet.com/health/fitness/just-15-minutes-of-exercise-can-boost-your-health-what-to-know-and-do/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 14:00:36+00:00
- - tags: None
 
 When you're strapped on time or trying to kickstart your health journey, try a short 15-minute workout.
 
@@ -356,7 +312,6 @@ When you're strapped on time or trying to kickstart your health journey, try a s
  - [https://www.cnet.com/culture/entertainment/streaming-tvs-party-is-finished-now-comes-the-hangover/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/streaming-tvs-party-is-finished-now-comes-the-hangover/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 14:00:32+00:00
- - tags: None
 
 Services kept launching with big budgets and, often, cheap prices -- but this year, most upped your bill. It won't be the last time.
 
@@ -364,7 +319,6 @@ Services kept launching with big budgets and, often, cheap prices -- but this ye
  - [https://www.cnet.com/tech/mobile/iphone-14-plus-pro-and-pro-max-comparison-price-size-battery-and-more-specs/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/iphone-14-plus-pro-and-pro-max-comparison-price-size-battery-and-more-specs/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 14:00:22+00:00
- - tags: None
 
 Apple's entire iPhone 14 line is available, even if some models are harder to find. We compare each model, spec by spec.
 
@@ -372,7 +326,6 @@ Apple's entire iPhone 14 line is available, even if some models are harder to fi
  - [https://www.cnet.com/culture/fashion/this-watch-will-steal-the-show-on-christmas-day/#ftag=CADf328eec](https://www.cnet.com/culture/fashion/this-watch-will-steal-the-show-on-christmas-day/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 14:00:17+00:00
- - tags: None
 
 Citizen's PCAT watch is a practical, elegant gift that they'll keep forever.
 
@@ -380,7 +333,6 @@ Citizen's PCAT watch is a practical, elegant gift that they'll keep forever.
  - [https://www.cnet.com/news/t-mobiles-latest-5g-home-internet-bundle-cuts-the-price-to-25-per-month/#ftag=CADf328eec](https://www.cnet.com/news/t-mobiles-latest-5g-home-internet-bundle-cuts-the-price-to-25-per-month/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 14:00:13+00:00
- - tags: None
 
 And no Magenta Max plan is required.
 
@@ -388,7 +340,6 @@ And no Magenta Max plan is required.
  - [https://www.cnet.com/tech/best-gifts-under-250-in-2022/#ftag=CADf328eec](https://www.cnet.com/tech/best-gifts-under-250-in-2022/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 14:00:09+00:00
- - tags: None
 
 Be the greatest gift-giver ever.
 
@@ -396,7 +347,6 @@ Be the greatest gift-giver ever.
  - [https://www.cnet.com/how-to/important-security-tips-every-apartment-dweller-needs-to-know/#ftag=CADf328eec](https://www.cnet.com/how-to/important-security-tips-every-apartment-dweller-needs-to-know/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 14:00:02+00:00
- - tags: None
 
 Securing smaller spaces in shared buildings brings a unique set of challenges. Here are seven ways to make your apartment instantly safer.
 
@@ -404,7 +354,6 @@ Securing smaller spaces in shared buildings brings a unique set of challenges. H
  - [https://www.cnet.com/tech/services-and-software/watch-portugal-vs-morocco-world-cup-2022-match-from-anywhere/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/watch-portugal-vs-morocco-world-cup-2022-match-from-anywhere/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 13:30:03+00:00
- - tags: None
 
 Morocco looks to pull off another shock as it faces Bruno Fernandes and Portugal in today's quarterfinal showdown in Qatar. You can stream it live from anywhere in the world.
 
@@ -412,7 +361,6 @@ Morocco looks to pull off another shock as it faces Bruno Fernandes and Portugal
  - [https://www.cnet.com/deals/final-hours-to-get-a-lifetime-license-to-microsoft-office-2021-for-windows-or-mac-for-just-30/#ftag=CADf328eec](https://www.cnet.com/deals/final-hours-to-get-a-lifetime-license-to-microsoft-office-2021-for-windows-or-mac-for-just-30/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 13:13:33+00:00
- - tags: None
 
 Today's your last chance to cash in on a deal for a one-time license to Word, Excel, PowerPoint, Outlook, Publisher, Access and more at its lowest-ever price ever.
 
@@ -420,7 +368,6 @@ Today's your last chance to cash in on a deal for a one-time license to Word, Ex
  - [https://www.cnet.com/tech/computing/the-five-best-uses-so-far-for-chatgpts-ai-chatbot/#ftag=CADf328eec](https://www.cnet.com/tech/computing/the-five-best-uses-so-far-for-chatgpts-ai-chatbot/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 13:00:45+00:00
- - tags: None
 
 How a complex AI chatbot can make your life easier, one task at a time.
 
@@ -428,7 +375,6 @@ How a complex AI chatbot can make your life easier, one task at a time.
  - [https://www.cnet.com/tech/computing/why-were-all-obsessed-with-chatgpt-a-mind-blowing-ai-chatbot/#ftag=CADf328eec](https://www.cnet.com/tech/computing/why-were-all-obsessed-with-chatgpt-a-mind-blowing-ai-chatbot/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 13:00:41+00:00
- - tags: None
 
 This artificial intelligence bot can converse, write poetry and program computers. Be careful how much you trust it, though.
 
@@ -436,7 +382,6 @@ This artificial intelligence bot can converse, write poetry and program computer
  - [https://www.cnet.com/roadshow/news/why-electric-cars-burn-why-its-probably-overhyped-and-how-to-fix-it/#ftag=CADf328eec](https://www.cnet.com/roadshow/news/why-electric-cars-burn-why-its-probably-overhyped-and-how-to-fix-it/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 13:00:33+00:00
- - tags: None
 
 EVs aren't the scourge that headlines suggest, but here's how to make sure they don't become one.
 
@@ -444,7 +389,6 @@ EVs aren't the scourge that headlines suggest, but here's how to make sure they 
  - [https://www.cnet.com/tech/alexa-thank-my-driver-score-your-amazon-delivery-driver-a-5-tip/#ftag=CADf328eec](https://www.cnet.com/tech/alexa-thank-my-driver-score-your-amazon-delivery-driver-a-5-tip/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 13:00:28+00:00
- - tags: None
 
 This holiday season, use this free Amazon feature to show your appreciation.
 
@@ -452,7 +396,6 @@ This holiday season, use this free Amazon feature to show your appreciation.
  - [https://www.cnet.com/tech/mobile/ios-16-photo-tool-for-iphone-removes-picture-backgrounds-with-just-a-tap/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/ios-16-photo-tool-for-iphone-removes-picture-backgrounds-with-just-a-tap/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 13:00:22+00:00
- - tags: None
 
 Simply tap and hold to remove people, pets or other items from your iPhone photos.
 
@@ -460,7 +403,6 @@ Simply tap and hold to remove people, pets or other items from your iPhone photo
  - [https://www.cnet.com/news/5g-fixed-wireless-starting-to-soar-in-the-us-says-t-mobile-study/#ftag=CADf328eec](https://www.cnet.com/news/5g-fixed-wireless-starting-to-soar-in-the-us-says-t-mobile-study/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 13:00:18+00:00
- - tags: None
 
 The mobile carrier's Home Internet service proclaims significant gains in the broadband market and has the data to back it up.
 
@@ -468,7 +410,6 @@ The mobile carrier's Home Internet service proclaims significant gains in the br
  - [https://www.cnet.com/tech/home-entertainment/watch-tv-for-free-how-to-set-up-an-over-the-air-indoor-antenna/#ftag=CADf328eec](https://www.cnet.com/tech/home-entertainment/watch-tv-for-free-how-to-set-up-an-over-the-air-indoor-antenna/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 13:00:13+00:00
- - tags: None
 
 Streaming TV gets more expensive every day, but antennas start at $20 and programming is free.
 
@@ -476,7 +417,6 @@ Streaming TV gets more expensive every day, but antennas start at $20 and progra
  - [https://www.cnet.com/roadshow/videos/why-are-so-many-electric-cars-scooters-and-bikes-burning/#ftag=CADf328eec](https://www.cnet.com/roadshow/videos/why-are-so-many-electric-cars-scooters-and-bikes-burning/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 13:00:01+00:00
- - tags: None
 
 Here's the reason, the reaction and some solutions.
 
@@ -484,7 +424,6 @@ Here's the reason, the reaction and some solutions.
  - [https://www.cnet.com/tech/home-entertainment/free-over-the-air-is-elevating-thanks-to-new-tech/#ftag=CADf328eec](https://www.cnet.com/tech/home-entertainment/free-over-the-air-is-elevating-thanks-to-new-tech/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 12:00:32+00:00
- - tags: None
 
 The present and future of OTA is bright.
 
@@ -492,7 +431,6 @@ The present and future of OTA is bright.
  - [https://www.cnet.com/tech/services-and-software/windows-11-how-to-use-microsoft-teams-on-the-new-os/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/windows-11-how-to-use-microsoft-teams-on-the-new-os/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 12:00:27+00:00
- - tags: None
 
 Microsoft Teams can make your work day a little easier in Windows 11. Here's how the updated video chat program works.
 
@@ -500,7 +438,6 @@ Microsoft Teams can make your work day a little easier in Windows 11. Here's how
  - [https://www.cnet.com/personal-finance/social-security-payments-for-december-when-to-expect-your-check/#ftag=CADf328eec](https://www.cnet.com/personal-finance/social-security-payments-for-december-when-to-expect-your-check/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 12:00:02+00:00
- - tags: None
 
 Here's when your December Social Security payment will arrive.
 
@@ -508,7 +445,6 @@ Here's when your December Social Security payment will arrive.
  - [https://www.cnet.com/how-to/who-needs-these-10-awesome-kitchen-tools-everyone/#ftag=CADf328eec](https://www.cnet.com/how-to/who-needs-these-10-awesome-kitchen-tools-everyone/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 11:15:03+00:00
- - tags: None
 
 Gift yourself or somebody else. But do yourself a favor and check out these kitchen upgrades that are worth the investment.
 
@@ -516,7 +452,6 @@ Gift yourself or somebody else. But do yourself a favor and check out these kitc
  - [https://www.cnet.com/tech/services-and-software/this-ios-setting-will-keep-your-passwords-safer/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/this-ios-setting-will-keep-your-passwords-safer/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 11:00:09+00:00
- - tags: None
 
 Apple can tell you if your password is compromised and help you stay protected online. Change these settings to get started.
 
@@ -524,7 +459,6 @@ Apple can tell you if your password is compromised and help you stay protected o
  - [https://www.cnet.com/culture/holiday-travel-the-airline-most-likely-to-lose-your-luggage/#ftag=CADf328eec](https://www.cnet.com/culture/holiday-travel-the-airline-most-likely-to-lose-your-luggage/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 11:00:06+00:00
- - tags: None
 
 Know what to do if your bags are lost or delayed.
 
@@ -532,7 +466,6 @@ Know what to do if your bags are lost or delayed.
  - [https://www.cnet.com/tech/services-and-software/lensa-ai-selfies-what-to-know-about-the-photo-editing-app-everyones-using/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/lensa-ai-selfies-what-to-know-about-the-photo-editing-app-everyones-using/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 08:00:02+00:00
- - tags: None
 
 The latest social media craze has stirred up quite the controversy due to privacy concerns.
 
@@ -540,7 +473,6 @@ The latest social media craze has stirred up quite the controversy due to privac
  - [https://www.cnet.com/culture/these-three-wordle-starter-words-almost-guarantee-a-winning-streak/#ftag=CADf328eec](https://www.cnet.com/culture/these-three-wordle-starter-words-almost-guarantee-a-winning-streak/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 02:29:00+00:00
- - tags: None
 
 These are our favorites.
 
@@ -548,7 +480,6 @@ These are our favorites.
  - [https://www.cnet.com/science/space/2022-geminid-meteor-shower-ramps-up-this-weekend-as-peak-approaches/#ftag=CADf328eec](https://www.cnet.com/science/space/2022-geminid-meteor-shower-ramps-up-this-weekend-as-peak-approaches/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 02:26:00+00:00
- - tags: None
 
 Bright cosmic fireballs and even "Earth grazers" are on the calendar for the next week or so.
 
@@ -556,7 +487,6 @@ Bright cosmic fireballs and even "Earth grazers" are on the calendar for the nex
  - [https://www.cnet.com/culture/entertainment/watch-lady-gaga-do-the-funky-viral-dance-from-netflix-hit-wednesday/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/watch-lady-gaga-do-the-funky-viral-dance-from-netflix-hit-wednesday/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 02:22:00+00:00
- - tags: None
 
 Like so many others, she's gonna gonna dance dance dance with her hands hands hands.
 
@@ -564,7 +494,6 @@ Like so many others, she's gonna gonna dance dance dance with her hands hands ha
  - [https://www.cnet.com/culture/entertainment/guillermo-del-toros-pinocchio-is-about-life-death-and-mussolini/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/guillermo-del-toros-pinocchio-is-about-life-death-and-mussolini/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 01:18:00+00:00
- - tags: None
 
 Using stop-motion animation, the director of Pan's Labyrinth delivers a visually dazzling -- and decidedly grownup -- take on the wooden puppet come to life.
 
@@ -572,7 +501,6 @@ Using stop-motion animation, the director of Pan's Labyrinth delivers a visually
  - [https://www.cnet.com/culture/entertainment/loved-wednesday-on-netflix-stream-these-addams-family-movies-and-tv-shows-next/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/loved-wednesday-on-netflix-stream-these-addams-family-movies-and-tv-shows-next/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 01:12:00+00:00
- - tags: None
 
 Put on your best black outfit. It's time for more of the ghoulish clan portrayed in the runaway Netflix hit.
 
@@ -580,7 +508,6 @@ Put on your best black outfit. It's time for more of the ghoulish clan portrayed
  - [https://www.cnet.com/culture/entertainment/see-lady-gaga-do-the-kooky-viral-dance-from-netflix-hit-wednesday/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/see-lady-gaga-do-the-kooky-viral-dance-from-netflix-hit-wednesday/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 00:58:00+00:00
- - tags: None
 
 Like so many others, she's gonna gonna dance dance dance with her hands hands hands.
 
@@ -588,6 +515,5 @@ Like so many others, she's gonna gonna dance dance dance with her hands hands ha
  - [https://www.cnet.com/news/microsoft-may-create-all-in-one-super-app-to-compete-with-apple-google/#ftag=CADf328eec](https://www.cnet.com/news/microsoft-may-create-all-in-one-super-app-to-compete-with-apple-google/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-10 00:00:38+00:00
- - tags: None
 
 A Microsoft "super app" could help the company expand further into consumer services and boost its ad business. So what would make it super?

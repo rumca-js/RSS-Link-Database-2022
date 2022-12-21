@@ -1,4 +1,60 @@
-# Source Reddit - Front Page, Source URL:http://www.reddit.com/.rss
+# Source Reddit - Front Page, Source URL:http://www.reddit.com/.rss, Source language: en-US
+
+## Beautiful way to end the year lmao
+ - [https://www.reddit.com/r/dankmemes/comments/zpca3z/beautiful_way_to_end_the_year_lmao/](https://www.reddit.com/r/dankmemes/comments/zpca3z/beautiful_way_to_end_the_year_lmao/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-12-18 23:58:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/dankmemes/comments/zpca3z/beautiful_way_to_end_the_year_lmao/"> <img alt="Beautiful way to end the year lmao" src="https://preview.redd.it/ak5sjolawq6a1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=9cc59fae891bc156c60f76399201d2635b8cd040" title="Beautiful way to end the year lmao" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ausyuna"> /u/Ausyuna </a> &#32; to &#32; <a href="https://www.reddit.com/r/dankmemes/"> r/dankmemes </a> <br /> <span><a href="https://i.redd.it/ak5sjolawq6a1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/dankmemes/comments/zpca3z/beautiful_way_to_end_the_year_lmao/">[comments]</a></span> </td></tr></table>
+
+## Gdyby ktoś jeszcze kiedyś chciał narzekać, że to r/polska robi głupie ankiety...
+ - [https://www.reddit.com/r/Polska/comments/zpc8uh/gdyby_ktoś_jeszcze_kiedyś_chciał_narzekać_że_to/](https://www.reddit.com/r/Polska/comments/zpc8uh/gdyby_ktoś_jeszcze_kiedyś_chciał_narzekać_że_to/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-12-18 23:56:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Polska/comments/zpc8uh/gdyby_ktoś_jeszcze_kiedyś_chciał_narzekać_że_to/"> <img alt="Gdyby ktoś jeszcze kiedyś chciał narzekać, że to r/polska robi głupie ankiety..." src="https://preview.redd.it/lt26eemwvq6a1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=039e00a262a0d3bac1dac0412a8f4426d86f4062" title="Gdyby ktoś jeszcze kiedyś chciał narzekać, że to r/polska robi głupie ankiety..." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JustWantTheOldUi"> /u/JustWantTheOldUi </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska/"> r/Polska </a> <br /> <span><a href="https://i.redd.it/lt26eemwvq6a1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska/comments/zpc8uh/gdyby_ktoś_jeszcze_kiedyś_chciał_narzekać_że_to/">[comments]</a></span> </td></tr></table>
+
+## I must be a bad dev
+ - [https://www.reddit.com/r/ProgrammerHumor/comments/zpc829/i_must_be_a_bad_dev/](https://www.reddit.com/r/ProgrammerHumor/comments/zpc829/i_must_be_a_bad_dev/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-12-18 23:55:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ProgrammerHumor/comments/zpc829/i_must_be_a_bad_dev/"> <img alt="I must be a bad dev" src="https://preview.redd.it/dc8mu9ndds6a1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=06c8a1120f6aeaa0e799bb814db1831bc3c84abf" title="I must be a bad dev" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/-jpow-"> /u/-jpow- </a> &#32; to &#32; <a href="https://www.reddit.com/r/ProgrammerHumor/"> r/ProgrammerHumor </a> <br /> <span><a href="https://i.redd.it/dc8mu9ndds6a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ProgrammerHumor/comments/zpc829/i_must_be_a_bad_dev/">[comments]</a></span> </td></tr></table>
+
+## Powrót do rzeczywistości
+ - [https://www.reddit.com/r/Polska/comments/zpbrch/powrót_do_rzeczywistości/](https://www.reddit.com/r/Polska/comments/zpbrch/powrót_do_rzeczywistości/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-12-18 23:34:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Polska/comments/zpbrch/powrót_do_rzeczywistości/"> <img alt="Powrót do rzeczywistości" src="https://preview.redd.it/qivqnjki9s6a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=701443e8843e815f8c52fcfd34f8d049c1861b8b" title="Powrót do rzeczywistości" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Bielin_Clash"> /u/Bielin_Clash </a> &#32; to &#32; <a href="https://www.reddit.com/r/Polska/"> r/Polska </a> <br /> <span><a href="https://i.redd.it/qivqnjki9s6a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Polska/comments/zpbrch/powrót_do_rzeczywistości/">[comments]</a></span> </td></tr></table>
+
+## Musk Vote is Close
+ - [https://www.reddit.com/r/WhitePeopleTwitter/comments/zpbq8s/musk_vote_is_close/](https://www.reddit.com/r/WhitePeopleTwitter/comments/zpbq8s/musk_vote_is_close/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-12-18 23:32:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/WhitePeopleTwitter/comments/zpbq8s/musk_vote_is_close/"> <img alt="Musk Vote is Close" src="https://preview.redd.it/c47ka3i99s6a1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=599474b3452514104cbc4825e9966e9844c1667f" title="Musk Vote is Close" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DocSuperman"> /u/DocSuperman </a> &#32; to &#32; <a href="https://www.reddit.com/r/WhitePeopleTwitter/"> r/WhitePeopleTwitter </a> <br /> <span><a href="https://i.redd.it/c47ka3i99s6a1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/WhitePeopleTwitter/comments/zpbq8s/musk_vote_is_close/">[comments]</a></span> </td></tr></table>
+
+## 3 vs 1 house break in
+ - [https://www.reddit.com/r/nextfuckinglevel/comments/zp9vet/3_vs_1_house_break_in/](https://www.reddit.com/r/nextfuckinglevel/comments/zp9vet/3_vs_1_house_break_in/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-12-18 22:09:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/nextfuckinglevel/comments/zp9vet/3_vs_1_house_break_in/"> <img alt="3 vs 1 house break in" src="https://external-preview.redd.it/heq9x676uLVQ_sloaZS_vY1e2s1-eEYtQWpsbGs9nEE.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b8195b42e2e3d8b408c967d7f6b35a8edd146c2b" title="3 vs 1 house break in" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BollowHastion"> /u/BollowHastion </a> &#32; to &#32; <a href="https://www.reddit.com/r/nextfuckinglevel/"> r/nextfuckinglevel </a> <br /> <span><a href="https://v.redd.it/tptpzjwwcq6a1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/nextfuckinglevel/comments/zp9vet/3_vs_1_house_break_in/">[comments]</a></span> </td></tr></table>
+
+## How Should Reinhardt be buffed for him to come back into relevance?
+ - [https://www.reddit.com/r/Overwatch/comments/zp826r/how_should_reinhardt_be_buffed_for_him_to_come/](https://www.reddit.com/r/Overwatch/comments/zp826r/how_should_reinhardt_be_buffed_for_him_to_come/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-12-18 20:51:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Overwatch/comments/zp826r/how_should_reinhardt_be_buffed_for_him_to_come/"> <img alt="How Should Reinhardt be buffed for him to come back into relevance?" src="https://preview.redd.it/xk3vvk5hgr6a1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=7e028d6485e75f618300a52c056d10b8c7501f1c" title="How Should Reinhardt be buffed for him to come back into relevance?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Big_Recognition_6375"> /u/Big_Recognition_6375 </a> &#32; to &#32; <a href="https://www.reddit.com/r/Overwatch/"> r/Overwatch </a> <br /> <span><a href="https://i.redd.it/xk3vvk5hgr6a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Overwatch/comments/zp826r/how_should_reinhardt_be_buffed_for_him_to_come/">[comments]</a></span> </td></tr></table>
+
+## There is a spider inside my monitor. Do I just burn the whole house down?
+ - [https://www.reddit.com/r/pcmasterrace/comments/zp7r40/there_is_a_spider_inside_my_monitor_do_i_just/](https://www.reddit.com/r/pcmasterrace/comments/zp7r40/there_is_a_spider_inside_my_monitor_do_i_just/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-12-18 20:37:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/pcmasterrace/comments/zp7r40/there_is_a_spider_inside_my_monitor_do_i_just/"> <img alt="There is a spider inside my monitor. Do I just burn the whole house down?" src="https://preview.redd.it/9sw5vad1er6a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a155506b0edb281e72c5c1c02fedae2e88c5d0dd" title="There is a spider inside my monitor. Do I just burn the whole house down?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Elliotm77"> /u/Elliotm77 </a> &#32; to &#32; <a href="https://www.reddit.com/r/pcmasterrace/"> r/pcmasterrace </a> <br /> <span><a href="https://i.redd.it/9sw5vad1er6a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/pcmasterrace/comments/zp7r40/there_is_a_spider_inside_my_monitor_do_i_just/">[comments]</a></span> </td></tr></table>
 
 ## Been playing for two years. Only just found out you can craft condensed resin...
  - [https://www.reddit.com/r/Genshin_Impact/comments/zp63ph/been_playing_for_two_years_only_just_found_out/](https://www.reddit.com/r/Genshin_Impact/comments/zp63ph/been_playing_for_two_years_only_just_found_out/)
@@ -13,6 +69,13 @@
  - date published: 2022-12-18 19:08:28+00:00
 
 <table> <tr><td> <a href="https://www.reddit.com/r/discordVideos/comments/zp5psm/devastation/"> <img alt="devastation" src="https://external-preview.redd.it/RKo6FrfY1EK4lw1r9sEOSoDdfRF0dGuCkrTV0RwuxtU.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=39d2a1a2e284746dbf61215b57d3dd40a60eb74b" title="devastation" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Historical-Shelter80"> /u/Historical-Shelter80 </a> &#32; to &#32; <a href="https://www.reddit.com/r/discordVideos/"> r/discordVideos </a> <br /> <span><a href="https://v.redd.it/lhzjpchkgp6a1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/discordVideos/comments/zp5psm/devastation/">[comments]</a></span> </td></tr></table>
+
+## Netflix Witcher writer. It's a pity that none of them put any effort into adapting the books. But you know people have different priorities. Unless their effort it's butchering these books
+ - [https://www.reddit.com/r/witcher/comments/zp5hro/netflix_witcher_writer_its_a_pity_that_none_of/](https://www.reddit.com/r/witcher/comments/zp5hro/netflix_witcher_writer_its_a_pity_that_none_of/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-12-18 18:58:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/witcher/comments/zp5hro/netflix_witcher_writer_its_a_pity_that_none_of/"> <img alt="Netflix Witcher writer. It's a pity that none of them put any effort into adapting the books. But you know people have different priorities. Unless their effort it's butchering these books" src="https://preview.redd.it/b4sj4k0jep6a1.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6816f0f1f2612265b7f53aa3879538fa7097f846" title="Netflix Witcher writer. It's a pity that none of them put any effort into adapting the books. But you know people have different priorities. Unless their effort it's butchering these books" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Trakowy"> /u/Trakowy </a> &#32; to &#32; <a href="https://www.reddit.com/r/witcher/"> r/witcher </a> <br /> <span><a href="https://i.redd.it/b4sj4k0jep6a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/witcher/comments/zp5hro/netflix_witcher_writer_its_a_pity_that_none_of/">[comments]</a></span> </td></tr></table>
 
 ## Elon Musk hanging out with Jared Kushner at the World Cup Final in Qatar
  - [https://www.reddit.com/r/pics/comments/zp5c42/elon_musk_hanging_out_with_jared_kushner_at_the/](https://www.reddit.com/r/pics/comments/zp5c42/elon_musk_hanging_out_with_jared_kushner_at_the/)
@@ -55,6 +118,13 @@
  - date published: 2022-12-18 18:25:33+00:00
 
 <table> <tr><td> <a href="https://www.reddit.com/r/pcmasterrace/comments/zp4rud/can_someone_explain_the_us_military/"> <img alt="Can someone explain the &quot;US military-&quot; ?" src="https://preview.redd.it/6c6nsivfqq6a1.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cbb264b27dd23ac829be5e38ecfd70f9963b1b35" title="Can someone explain the &quot;US military-&quot; ?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ErikHG10"> /u/ErikHG10 </a> &#32; to &#32; <a href="https://www.reddit.com/r/pcmasterrace/"> r/pcmasterrace </a> <br /> <span><a href="https://i.redd.it/6c6nsivfqq6a1.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/pcmasterrace/comments/zp4rud/can_someone_explain_the_us_military/">[comments]</a></span> </td></tr></table>
+
+## Can’t imagine the ride home
+ - [https://www.reddit.com/r/memes/comments/zp4nsi/cant_imagine_the_ride_home/](https://www.reddit.com/r/memes/comments/zp4nsi/cant_imagine_the_ride_home/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-12-18 18:20:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/memes/comments/zp4nsi/cant_imagine_the_ride_home/"> <img alt="Can’t imagine the ride home" src="https://preview.redd.it/nknx2o8jpq6a1.gif?width=640&amp;crop=smart&amp;s=c436a43896b107bf508f37f908f5b570c751708f" title="Can’t imagine the ride home" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Lordnemo593"> /u/Lordnemo593 </a> &#32; to &#32; <a href="https://www.reddit.com/r/memes/"> r/memes </a> <br /> <span><a href="https://i.redd.it/nknx2o8jpq6a1.gif">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/memes/comments/zp4nsi/cant_imagine_the_ride_home/">[comments]</a></span> </td></tr></table>
 
 ## Celebration at World Cup final
  - [https://www.reddit.com/r/Unexpected/comments/zp4js8/celebration_at_world_cup_final/](https://www.reddit.com/r/Unexpected/comments/zp4js8/celebration_at_world_cup_final/)

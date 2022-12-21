@@ -1,10 +1,9 @@
-# Source ABC News, Source URL:http://feeds.abcnews.com/abcnews/topstories
+# Source ABC News, Source URL:http://feeds.abcnews.com/abcnews/topstories, Source language: en-US
 
 ## Police arrest man wounded in Oklahoma pot farm slayings
  - [https://abcnews.go.com/US/wireStory/police-arrest-man-wounded-oklahoma-pot-farm-slayings-94951897](https://abcnews.go.com/US/wireStory/police-arrest-man-wounded-oklahoma-pot-farm-slayings-94951897)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-10 23:32:55+00:00
- - tags: None
 
 The survivor of the shooting that killed four people has been arrested.
 
@@ -12,7 +11,6 @@ The survivor of the shooting that killed four people has been arrested.
  - [https://abcnews.go.com/US/wireStory/deputy-california-slayings-killed-service-gun-94946359](https://abcnews.go.com/US/wireStory/deputy-california-slayings-killed-service-gun-94946359)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-10 23:24:56+00:00
- - tags: None
 
 He allegedly killed three relatives of a girl he tried to sexually extort online
 
@@ -20,7 +18,6 @@ He allegedly killed three relatives of a girl he tried to sexually extort online
  - [https://abcnews.go.com/US/decomposing-body-pregnant-woman-found-fatal-shooting-arrest/story?id=94944304](https://abcnews.go.com/US/decomposing-body-pregnant-woman-found-fatal-shooting-arrest/story?id=94944304)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-10 22:04:12+00:00
- - tags: None
 
 Officers seeking a suspect in a fatal shooting at a Maryland gas station found the decomposing body of a possible pregnant woman at the man's apartment, police said.
 
@@ -28,7 +25,6 @@ Officers seeking a suspect in a fatal shooting at a Maryland gas station found t
  - [https://abcnews.go.com/US/eagle-saved-atop-120-foot-tall-radio-tower/story?id=94944308](https://abcnews.go.com/US/eagle-saved-atop-120-foot-tall-radio-tower/story?id=94944308)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-10 22:02:04+00:00
- - tags: None
 
 MacClenny Fire and Rescue Department saved an eagle impaled by lightning rod atop a radio tower at a local elementary school in Florida.
 
@@ -36,7 +32,6 @@ MacClenny Fire and Rescue Department saved an eagle impaled by lightning rod ato
  - [https://abcnews.go.com/US/wireStory/federal-data-kansas-oil-spill-biggest-keystone-history-94946360](https://abcnews.go.com/US/wireStory/federal-data-kansas-oil-spill-biggest-keystone-history-94946360)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-10 21:12:46+00:00
- - tags: None
 
 Federal data shows the spill dumped enough oil to fill an Olympic-sized pool.
 
@@ -44,7 +39,6 @@ Federal data shows the spill dumped enough oil to fill an Olympic-sized pool.
  - [https://abcnews.go.com/US/wireStory/man-killed-troopers-hauling-suspected-cocaine-94941599](https://abcnews.go.com/US/wireStory/man-killed-troopers-hauling-suspected-cocaine-94941599)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-10 18:55:28+00:00
- - tags: None
 
 The incident started as a high-speed chase on Interstate 10 in Louisiana.
 
@@ -52,7 +46,6 @@ The incident started as a high-speed chase on Interstate 10 in Louisiana.
  - [https://abcnews.go.com/US/wireStory/teenager-pleads-guilty-shooting-iowa-school-94940804](https://abcnews.go.com/US/wireStory/teenager-pleads-guilty-shooting-iowa-school-94940804)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-10 18:53:30+00:00
- - tags: None
 
 It's the fifth guilty plea among the 10 people charged.
 
@@ -60,7 +53,6 @@ It's the fifth guilty plea among the 10 people charged.
  - [https://abcnews.go.com/Sports/wireStory/morocco-reaches-world-cup-semifinals-tops-portugal-ronaldo-94939803](https://abcnews.go.com/Sports/wireStory/morocco-reaches-world-cup-semifinals-tops-portugal-ronaldo-94939803)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-10 18:14:12+00:00
- - tags: None
 
 Morocco is the first African country to reach the World Cup semifinals.
 
@@ -68,7 +60,6 @@ Morocco is the first African country to reach the World Cup semifinals.
  - [https://abcnews.go.com/US/large-powerful-winter-storm-set-slam-united-states/story?id=94935006](https://abcnews.go.com/US/large-powerful-winter-storm-set-slam-united-states/story?id=94935006)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-10 17:42:18+00:00
- - tags: None
 
 A winter storm heads for the west coast on Saturday while the east coast braces for another storm expected to hit next week.
 
@@ -76,7 +67,6 @@ A winter storm heads for the west coast on Saturday while the east coast braces 
  - [https://abcnews.go.com/Politics/sam-bankman-fried-testify-lawmakers-demand-answers-ftxs/story?id=94935832](https://abcnews.go.com/Politics/sam-bankman-fried-testify-lawmakers-demand-answers-ftxs/story?id=94935832)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-10 17:34:36+00:00
- - tags: None
 
 Sam Bankman-Fried said he will try to "shed light" on issues surrounding FTX's U.S. solvency, what he thinks led to the crash and his "own failings."
 
@@ -84,7 +74,6 @@ Sam Bankman-Fried said he will try to "shed light" on issues surrounding FTX's U
  - [https://abcnews.go.com/International/wireStory/nobel-peace-prize-winners-blast-putins-invasion-ukraine-94934275](https://abcnews.go.com/International/wireStory/nobel-peace-prize-winners-blast-putins-invasion-ukraine-94934275)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-10 17:18:57+00:00
- - tags: None
 
 The winners of this year&rsquo;s Nobel Peace Prize from Ukraine, Russia and Belarus have shared their visions of a fairer world during an award ceremony and denounced Russian President Vladimir Putin&rsquo;s war in Ukraine
 
@@ -92,7 +81,6 @@ The winners of this year&rsquo;s Nobel Peace Prize from Ukraine, Russia and Bela
  - [https://abcnews.go.com/US/wireStory/kansas-man-charged-1980-killing-nursing-student-94935993](https://abcnews.go.com/US/wireStory/kansas-man-charged-1980-killing-nursing-student-94935993)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-10 16:46:18+00:00
- - tags: None
 
 Investigators who reexamined her death turned up new evidence.
 
@@ -100,7 +88,6 @@ Investigators who reexamined her death turned up new evidence.
  - [https://abcnews.go.com/US/wireStory/mail-carrier-killed-delivering-mail-milwaukee-94935994](https://abcnews.go.com/US/wireStory/mail-carrier-killed-delivering-mail-milwaukee-94935994)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-10 16:44:56+00:00
- - tags: None
 
 A shooter killed a U.S. Postal Service employee as he was delivering mail.
 
@@ -108,7 +95,6 @@ A shooter killed a U.S. Postal Service employee as he was delivering mail.
  - [https://abcnews.go.com/US/wireStory/court-resentence-mom-put-newborn-trash-sorority-94936173](https://abcnews.go.com/US/wireStory/court-resentence-mom-put-newborn-trash-sorority-94936173)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-10 16:42:42+00:00
- - tags: None
 
 She put the infant in the trash after giving birth at her college sorority house
 
@@ -116,7 +102,6 @@ She put the infant in the trash after giving birth at her college sorority house
  - [https://abcnews.go.com/Politics/wireStory/biden-called-gay-marriage-inevitable-law-94931975](https://abcnews.go.com/Politics/wireStory/biden-called-gay-marriage-inevitable-law-94931975)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-10 13:37:12+00:00
- - tags: None
 
 President Joe Biden plans to sign legislation this coming week that will protect gay unions even if the Supreme Court were to revisit its ruling supporting a nationwide right of same-sex couples to marry
 
@@ -124,7 +109,6 @@ President Joe Biden plans to sign legislation this coming week that will protect
  - [https://abcnews.go.com/International/wireStory/1-dead-missing-after-explosion-fire-jersey-94929456](https://abcnews.go.com/International/wireStory/1-dead-missing-after-explosion-fire-jersey-94929456)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-10 13:25:58+00:00
- - tags: None
 
 Police on the Channel Island of Jersey say an explosion and fire in an apartment building has killed one person and left several people missing
 
@@ -132,7 +116,6 @@ Police on the Channel Island of Jersey say an explosion and fire in an apartment
  - [https://abcnews.go.com/International/wireStory/bakery-bombing-southwest-pakistan-kills-1-wounds-6-94929711](https://abcnews.go.com/International/wireStory/bakery-bombing-southwest-pakistan-kills-1-wounds-6-94929711)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-10 13:23:11+00:00
- - tags: None
 
 Police say a bomb exploded in a bakery in Pakistan&rsquo;s restive southwestern Baluchistan province killing at least one person and wounding six others, including a woman and a child
 
@@ -140,7 +123,6 @@ Police say a bomb exploded in a bakery in Pakistan&rsquo;s restive southwestern 
  - [https://abcnews.go.com/International/american-soccer-writer-grant-wahl-dies-world-cup/story?id=94907158](https://abcnews.go.com/International/american-soccer-writer-grant-wahl-dies-world-cup/story?id=94907158)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-10 13:05:13+00:00
- - tags: None
 
 US soccer journalist Grant Wahl died while covering the World Cup early Saturday.
 
@@ -148,7 +130,6 @@ US soccer journalist Grant Wahl died while covering the World Cup early Saturday
  - [https://abcnews.go.com/International/wireStory/court-acquits-pakistans-interior-minister-drug-case-94927847](https://abcnews.go.com/International/wireStory/court-acquits-pakistans-interior-minister-drug-case-94927847)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-10 12:22:33+00:00
- - tags: None
 
 A defense lawyer says a special court for narcotics cases in Pakistan has acquitted the country&rsquo;s interior minister of drug smuggling charges, in a case filed against him during the previous administration
 
@@ -156,7 +137,6 @@ A defense lawyer says a special court for narcotics cases in Pakistan has acquit
  - [https://abcnews.go.com/Politics/wireStory/los-angeles-council-member-involved-fight-activist-94925172](https://abcnews.go.com/Politics/wireStory/los-angeles-council-member-involved-fight-activist-94925172)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-10 12:17:50+00:00
- - tags: None
 
 A Los Angeles City Council member was involved in a fight with an activist at a holiday event Friday night
 
@@ -164,7 +144,6 @@ A Los Angeles City Council member was involved in a fight with an activist at a 
  - [https://abcnews.go.com/US/wireStory/strong-winds-4-feet-snow-forecast-sierra-nevada-94913628](https://abcnews.go.com/US/wireStory/strong-winds-4-feet-snow-forecast-sierra-nevada-94913628)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-10 12:12:56+00:00
- - tags: None
 
 Another winter storm packing heavy snow and powerful winds is moving into the Sierra Nevada
 
@@ -172,7 +151,6 @@ Another winter storm packing heavy snow and powerful winds is moving into the Si
  - [https://abcnews.go.com/Entertainment/wireStory/ukrainian-youth-choir-defies-war-messages-freedom-94922209](https://abcnews.go.com/Entertainment/wireStory/ukrainian-youth-choir-defies-war-messages-freedom-94922209)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-10 07:52:53+00:00
- - tags: None
 
 From a dank Kyiv bomb shelter to the bright stage lights of Europe&rsquo;s theaters, a Ukrainian youth choir&rsquo;s hymns in praise of freedom offer a kind of healing balm to its war-scarred members
 
@@ -180,7 +158,6 @@ From a dank Kyiv bomb shelter to the bright stage lights of Europe&rsquo;s theat
  - [https://abcnews.go.com/Health/wireStory/flint-water-crisis-charges-dismissed-gov-snyder-94874702](https://abcnews.go.com/Health/wireStory/flint-water-crisis-charges-dismissed-gov-snyder-94874702)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-10 03:52:14+00:00
- - tags: None
 
 A judge has dismissed criminal charges against former Michigan Gov. Rick Snyder over the Flint water crisis
 
@@ -188,7 +165,6 @@ A judge has dismissed criminal charges against former Michigan Gov. Rick Snyder 
  - [https://abcnews.go.com/Politics/kari-lake-files-lawsuit-riddled-falsehoods-seeking-overturn/story?id=94882087](https://abcnews.go.com/Politics/kari-lake-files-lawsuit-riddled-falsehoods-seeking-overturn/story?id=94882087)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-10 02:45:07+00:00
- - tags: None
 
 Republican Kari Lake filed the legal challenge she's been threatening since losing the Arizona governor's race.
 
@@ -196,7 +172,6 @@ Republican Kari Lake filed the legal challenge she's been threatening since losi
  - [https://abcnews.go.com/US/oil-spill-rural-kansas-creek-shuts-keystone-pipeline/story?id=94857608](https://abcnews.go.com/US/oil-spill-rural-kansas-creek-shuts-keystone-pipeline/story?id=94857608)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-10 02:25:09+00:00
- - tags: None
 
 The Keystone pipeline system was shut down after an oil leak released an estimated 14,000 barrels into a creek in rural Kansas.
 
@@ -204,7 +179,6 @@ The Keystone pipeline system was shut down after an oil leak released an estimat
  - [https://abcnews.go.com/US/pot-deliveries-new-york-rolling-scooters-bikes/story?id=94888970](https://abcnews.go.com/US/pot-deliveries-new-york-rolling-scooters-bikes/story?id=94888970)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-10 02:06:16+00:00
- - tags: None
 
 The first legal sales of marijuana in New York City will be likely be delivered on bikes and scooters.
 
@@ -212,7 +186,6 @@ The first legal sales of marijuana in New York City will be likely be delivered 
  - [https://abcnews.go.com/Health/wireStory/france-make-condoms-free-25-macron-94895874](https://abcnews.go.com/Health/wireStory/france-make-condoms-free-25-macron-94895874)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-10 02:01:27+00:00
- - tags: None
 
 French President Emmanuel Macron says France will make condoms free in pharmacies for anyone up to age 25
 
@@ -220,7 +193,6 @@ French President Emmanuel Macron says France will make condoms free in pharmacie
  - [https://abcnews.go.com/US/wireStory/warnings-gay-club-shooter-stir-questions-case-94899689](https://abcnews.go.com/US/wireStory/warnings-gay-club-shooter-stir-questions-case-94899689)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-10 01:21:19+00:00
- - tags: None
 
 A California woman who warned a judge last year about the danger posed by the Colorado Springs gay nightclub shooter says the deaths could have been prevented if earlier charges against the suspect weren&rsquo;t dismissed
 
@@ -228,6 +200,5 @@ A California woman who warned a judge last year about the danger posed by the Co
  - [https://abcnews.go.com/US/employees-kentucky-candle-factory-destroyed-deadly-tornado-file/story?id=94868226](https://abcnews.go.com/US/employees-kentucky-candle-factory-destroyed-deadly-tornado-file/story?id=94868226)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-10 00:11:43+00:00
- - tags: None
 
 In a lawsuit filed Thursday, several employees at a Kentucky candle factory allege the company "refused" to let them leave before a deadly tornado struck.

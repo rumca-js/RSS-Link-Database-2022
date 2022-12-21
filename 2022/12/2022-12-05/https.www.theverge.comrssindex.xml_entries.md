@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Many EA games are borked on Steam Deck, but fixes are on the way
  - [https://www.theverge.com/2022/12/5/23495287/steam-deck-ea-games-electronic-arts-pc](https://www.theverge.com/2022/12/5/23495287/steam-deck-ea-games-electronic-arts-pc)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-05 23:52:22+00:00
- - tags: None
 
 <figure>
       <img alt="Various games on a Steam Deck screen" src="https://cdn.vox-cdn.com/thumbor/B86G4tRSn8Y9PaVwVLU1-Zob5Wo=/187x88:1827x1181/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71714760/vpavic_220210_5030_0064_Edit.0.jpg" />
@@ -27,7 +26,6 @@
  - [https://www.theverge.com/2022/12/5/23494901/apple-ipad-china-india-supply-chain-protests](https://www.theverge.com/2022/12/5/23494901/apple-ipad-china-india-supply-chain-protests)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-05 23:02:34+00:00
- - tags: None
 
 <figure>
       <img alt="Image of the Apple logo surrounded by gray, pink, and green outlines" src="https://cdn.vox-cdn.com/thumbor/NWUU_jJpmSVr7m8OJd-jE0Su2nE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71714621/VRG_Illo_N_Barclay_5_apple.0.jpg" />
@@ -45,7 +43,6 @@
  - [https://www.theverge.com/2022/12/5/23495139/microsoft-union-zenimax-bethesda-cwa](https://www.theverge.com/2022/12/5/23495139/microsoft-union-zenimax-bethesda-cwa)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-05 22:06:06+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/bdOLmV3dLI_PJJm0T4yXKW98T9w=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71714483/acastro_STK048_04.0.jpg" />
@@ -63,7 +60,6 @@
  - [https://www.theverge.com/2022/12/5/23495067/facebook-threat-ban-news-us-journalism-bill](https://www.theverge.com/2022/12/5/23495067/facebook-threat-ban-news-us-journalism-bill)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-05 22:03:40+00:00
- - tags: None
 
 <figure>
       <img alt="The Facebook logo on a blue background with circles" src="https://cdn.vox-cdn.com/thumbor/L0F_qbGJUtyCsCfmbrwzF7JeW4U=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71714473/STK040_VRG_Illo_N_Barclay_7_facebook.0.jpg" />
@@ -80,7 +76,6 @@
  - [https://www.theverge.com/2022/12/5/23494862/oneplus-11-leak-alert-slider-camera-specs-launch](https://www.theverge.com/2022/12/5/23494862/oneplus-11-leak-alert-slider-camera-specs-launch)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-05 21:57:42+00:00
- - tags: None
 
 <figure>
       <img alt="An alleged render of the unannounced OnePlus 11" src="https://cdn.vox-cdn.com/thumbor/NuHeoHrBcJs8-SFpJ_0MAvYMySA=/0x84:2000x1417/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71714434/OnePlus_11_Official_Render_scaled.0.jpg" />
@@ -97,7 +92,6 @@
  - [https://www.theverge.com/2022/12/5/23494891/shein-factories-improvement-labor-violations-investigation-ecommerce-fast-fashion](https://www.theverge.com/2022/12/5/23494891/shein-factories-improvement-labor-violations-investigation-ecommerce-fast-fashion)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-05 21:31:56+00:00
- - tags: None
 
 <figure>
       <img alt="Shein logo in black over a white background" src="https://cdn.vox-cdn.com/thumbor/VfUkDDUxfB6TUkGp4XXjEhji-Ss=/300x0:3540x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71714352/Shein_logo.0.png" />
@@ -116,7 +110,6 @@
  - [https://www.theverge.com/2022/12/5/23494186/callisto-protocol-graphics-gameplay-survival-horror](https://www.theverge.com/2022/12/5/23494186/callisto-protocol-graphics-gameplay-survival-horror)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-05 21:26:44+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot of The Callisto Protocol." src="https://cdn.vox-cdn.com/thumbor/SHMmn778kXBVa0jbG3x6uVda3Hc=/206x0:3446x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71714326/TCP_Screen19.0.jpg" />
@@ -133,7 +126,6 @@
  - [https://www.theverge.com/2022/12/5/23495003/starlink-data-caps-february-2023-launch-date](https://www.theverge.com/2022/12/5/23495003/starlink-data-caps-february-2023-launch-date)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-05 21:15:04+00:00
- - tags: None
 
 <figure>
       <img alt="A Starlink Dishy McFlatface satellite dish on a rooftop." src="https://cdn.vox-cdn.com/thumbor/t82PDwJ3Z84sJbDNM1O-jKL6oaI=/0x0:1940x1293/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71714280/Marketing_LandingHighspeed_Next.0.jpg" />
@@ -150,7 +142,6 @@
  - [https://www.theverge.com/2022/12/5/23489871/his-dark-materials-hbo-season-3-final-cast-interviews](https://www.theverge.com/2022/12/5/23489871/his-dark-materials-hbo-season-3-final-cast-interviews)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-05 21:05:16+00:00
- - tags: None
 
 <figure>
       <img alt="A photo of Ruth Wilson in His Dark Materials." src="https://cdn.vox-cdn.com/thumbor/33VECnW0t6hedhvrnNcWzpaurfs=/0x0:1920x1280/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71714232/ruth_wilson.0.jpg" />
@@ -167,7 +158,6 @@
  - [https://www.theverge.com/23494919/spotify-wrapped-2022-how-to](https://www.theverge.com/23494919/spotify-wrapped-2022-how-to)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-05 20:48:41+00:00
- - tags: None
 
 <figure>
       <img alt="Spotify logo against an illustrated background with round circle representing audio stuff." src="https://cdn.vox-cdn.com/thumbor/P2-jXwXNx9_31ZmVBCT5ZdsaGaw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71714139/Audio_Spotify_HT008.0.jpg" />
@@ -186,7 +176,6 @@
  - [https://www.theverge.com/2022/12/5/23494886/microsoft-sony-10-year-call-of-duty-deal](https://www.theverge.com/2022/12/5/23494886/microsoft-sony-10-year-call-of-duty-deal)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-05 19:39:45+00:00
- - tags: None
 
 <figure>
       <img alt="microsoft logo stock" src="https://cdn.vox-cdn.com/thumbor/Ww9PKdtY7ImRumf1u8oiLEKNxNk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71713800/DSCF1179.0.0.jpg" />
@@ -203,7 +192,6 @@
  - [https://www.theverge.com/2022/12/5/23494808/overwatch-2-season2-battle-pass-ramattra](https://www.theverge.com/2022/12/5/23494808/overwatch-2-season2-battle-pass-ramattra)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-05 19:34:07+00:00
- - tags: None
 
 <figure>
       <img alt="Graphic from Overwatch 2’s new hero reveal trailer featuring a sentient robot holding a giant staff with robotic hair blowing in the breeze." src="https://cdn.vox-cdn.com/thumbor/2MW6uI866tLOBeDH2McN1xmSXpI=/218x0:983x510/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71713761/ezgif.com_gif_maker__2_.0.png" />
@@ -226,7 +214,6 @@
  - [https://www.theverge.com/2022/12/5/23494552/real-id-deadline-delay-2025](https://www.theverge.com/2022/12/5/23494552/real-id-deadline-delay-2025)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-05 18:41:25+00:00
- - tags: None
 
 <figure>
       <img alt="Screenshot of the DHS’ website, showing a countdown to real ID enforcement with 883 days remaining." src="https://cdn.vox-cdn.com/thumbor/vrpz3Uej6UgG04mkx-Dlk4Fa61U=/0x80:2010x1420/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71713448/Screenshot_2022_12_05_at_09.07.59.0.png" />
@@ -243,7 +230,6 @@
  - [https://www.theverge.com/2022/12/5/23494765/microsoft-xbox-game-price-increase-2023](https://www.theverge.com/2022/12/5/23494765/microsoft-xbox-game-price-increase-2023)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-05 18:39:48+00:00
- - tags: None
 
 <figure>
       <img alt="The Xbox X in a circle logo against a dark background with green lines." src="https://cdn.vox-cdn.com/thumbor/WzaoCOA3msyJ8ppjNgIJ2gxxqXw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71713442/acastro_190530_1777_xbox_0002.0.0.jpg" />
@@ -261,7 +247,6 @@
  - [https://www.theverge.com/2022/12/5/23494220/elon-musk-twitter-climate-misinformation-rise-analysis](https://www.theverge.com/2022/12/5/23494220/elon-musk-twitter-climate-misinformation-rise-analysis)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-05 18:22:29+00:00
- - tags: None
 
 <figure>
       <img alt="The Twitter logo, a bird, on the side of a building in shadow." src="https://cdn.vox-cdn.com/thumbor/9kUkuDKTeoyh7-xAxh4mZuIU1vk=/4x0:3997x2662/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71713322/1245209524.0.jpg" />
@@ -279,7 +264,6 @@
  - [https://www.theverge.com/2022/12/5/23494450/dwarf-fortress-steam-itch-io-release-date](https://www.theverge.com/2022/12/5/23494450/dwarf-fortress-steam-itch-io-release-date)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-05 18:09:16+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot from Dwarf Fortress." src="https://cdn.vox-cdn.com/thumbor/c58T8lFerzWcZzFceb99WMrCXOU=/59x0:1217x772/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71713258/ss_6ac3cbfe33f525221f60837373043fa5d0aa8b87.0.jpg" />
@@ -297,7 +281,6 @@
  - [https://www.theverge.com/2022/12/5/23494646/apple-podcasts-top-shows-2022-charts-released-true-crime](https://www.theverge.com/2022/12/5/23494646/apple-podcasts-top-shows-2022-charts-released-true-crime)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-05 18:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Apple Podcast logo" src="https://cdn.vox-cdn.com/thumbor/AZOhivSwHJQqawwbBklZW0krIbM=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71713165/acastro_STK461_02.0.jpg" />
@@ -314,7 +297,6 @@
  - [https://www.theverge.com/2022/12/5/23488942/google-pixel-7-pro-clear-calling-google-one-vpn-december-feature-drop](https://www.theverge.com/2022/12/5/23488942/google-pixel-7-pro-clear-calling-google-one-vpn-december-feature-drop)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-05 18:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Pixel 7 and 7 Pro from the back" src="https://cdn.vox-cdn.com/thumbor/h81RcvN22gls7RIAuwuskDk5BlM=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71713153/226337_Pixel_7_and_7_Pro_AKrales_0494.0.jpg" />
@@ -331,7 +313,6 @@
  - [https://www.theverge.com/23494253/elon-musk-twitter-alternatives-mastodon-post-hive-narwhal](https://www.theverge.com/23494253/elon-musk-twitter-alternatives-mastodon-post-hive-narwhal)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-05 18:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="An image of a birdcage on fire" src="https://cdn.vox-cdn.com/thumbor/99s4rV5mWU_ycssLGzAEFl9ci18=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71713164/Twitter___Tony_Johnson.0.jpg" />
@@ -348,7 +329,6 @@
  - [https://www.theverge.com/2022/12/5/23493777/gm-brightdrop-canada-zevo-cami-plant-dhl-express](https://www.theverge.com/2022/12/5/23493777/gm-brightdrop-canada-zevo-cami-plant-dhl-express)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-05 17:45:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/jeR6SX83IgKAOIB_NgTZ1vPpomE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71713082/ahawkins_220329_5114_0003.0.jpg" />
@@ -367,7 +347,6 @@
  - [https://www.theverge.com/2022/12/5/23494542/slack-ceo-stewart-butterfield-leaving-salesforce](https://www.theverge.com/2022/12/5/23494542/slack-ceo-stewart-butterfield-leaving-salesforce)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-05 17:37:25+00:00
- - tags: None
 
 <figure>
       <img alt="A photo Illustration of Stewart Butterfield" src="https://cdn.vox-cdn.com/thumbor/HDxhZZiXuDB2StUZR6ovtOOqgB4=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71713038/VRG_ILLO_4036_001.0.jpg" />
@@ -385,7 +364,6 @@
  - [https://www.theverge.com/2022/12/5/23494438/riot-games-project-l-league-of-legends-gameplay-developer-update](https://www.theverge.com/2022/12/5/23494438/riot-games-project-l-league-of-legends-gameplay-developer-update)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-05 17:31:32+00:00
- - tags: None
 
 <figure>
       <img alt="Screens capture from Riot Games’ developer update on the Project L fighting featuring new hero Illaoi facing off against Jinx." src="https://cdn.vox-cdn.com/thumbor/XYpuPxOWM1I1s-8z7cNWl5omHw4=/169x0:1744x1050/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71713002/Screen_Shot_2022_12_05_at_11.50.04_AM.0.png" />
@@ -403,7 +381,6 @@
  - [https://www.theverge.com/2022/12/5/23494175/facebook-dating-ai-face-scanning-age-verification-expansion-yoti](https://www.theverge.com/2022/12/5/23494175/facebook-dating-ai-face-scanning-age-verification-expansion-yoti)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-05 17:00:28+00:00
- - tags: None
 
 <figure>
       <img alt="The Facebook logo on a blue background, surrounded by dark blue circles of various sizes" src="https://cdn.vox-cdn.com/thumbor/KHHdA_Ww71rMLyrODn4pufra8i0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71712856/STK040_VRG_Illo_N_Barclay_2_facebook.0.jpg" />
@@ -421,7 +398,6 @@
  - [https://www.theverge.com/2022/12/5/23493267/samsung-galaxy-watch-pro-logitech-apple-airpods-lego-deal-sale](https://www.theverge.com/2022/12/5/23493267/samsung-galaxy-watch-pro-logitech-apple-airpods-lego-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-05 16:58:02+00:00
- - tags: None
 
 <figure>
       <img alt="Pic of the Galaxy Watch 5 Pro on a plant" src="https://cdn.vox-cdn.com/thumbor/wQc5SkvF041RDYonIGYRHVLNJ0w=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71712793/226256_SAMSUNG_GALAXY_WATCH_5_PRO_PHO_vsong_0004.0.jpg" />
@@ -439,7 +415,6 @@
  - [https://www.theverge.com/2022/12/5/23494439/ftx-sam-bankman-fried-sbf-collapse-cryptocurrency-exchange-hearing-congress](https://www.theverge.com/2022/12/5/23494439/ftx-sam-bankman-fried-sbf-collapse-cryptocurrency-exchange-hearing-congress)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-05 16:48:42+00:00
- - tags: None
 
 <figure>
       <img alt="FTX logo" src="https://cdn.vox-cdn.com/thumbor/OuqfRuXhExuHU7TvVCkzgIP3MA8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71712738/STK136_K_Radtke_FTX_02.0.jpg" />
@@ -457,7 +432,6 @@
  - [https://www.theverge.com/23494240/tiktok-snapchat-creator-funds-podcast-vergecast](https://www.theverge.com/23494240/tiktok-snapchat-creator-funds-podcast-vergecast)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-05 16:45:26+00:00
- - tags: None
 
 <figure>
       <img alt="Woman pulls lever on casino slot machine with logos for TikTok, Instagram, Facebook, and YouTube as the game icons" src="https://cdn.vox-cdn.com/thumbor/zpP7KjYeKvzlbSvApznVR6JJND4=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71712730/creator_funds_final.0.jpg" />
@@ -475,7 +449,6 @@
  - [https://www.theverge.com/2022/12/5/23494335/max-warner-bros-discovery-hbo-streaming-app-name](https://www.theverge.com/2022/12/5/23494335/max-warner-bros-discovery-hbo-streaming-app-name)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-05 16:31:52+00:00
- - tags: None
 
 <figure>
       <img alt="An illustration of the HBO Max logo with “HBO” scribbled out." src="https://cdn.vox-cdn.com/thumbor/epRzmIG1RILN-RF7hfScoKAmbdU=/0x1:2040x1361/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71712701/acastro_STK055_03_max.0.jpg" />
@@ -492,7 +465,6 @@
  - [https://www.theverge.com/2022/12/5/23494291/tech-news-december-5-2022-liveblog](https://www.theverge.com/2022/12/5/23494291/tech-news-december-5-2022-liveblog)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-05 15:53:02+00:00
- - tags: None
 
 <figure>
       <img alt="A graphic showing a robot performing multiple functions" src="https://cdn.vox-cdn.com/thumbor/wM-LKtVM_Pk8bURBr5Q6aqkoBJk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71712437/acastro_200730_1777_ai_0001.0.jpg" />
@@ -508,7 +480,6 @@
  - [https://www.theverge.com/2022/12/5/23490433/trucker-surveillance-autonomous-karen-levy-book-interview](https://www.theverge.com/2022/12/5/23490433/trucker-surveillance-autonomous-karen-levy-book-interview)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-05 14:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="DALLAS, TX - AUGUST 22: A semi-truck drives through high water" src="https://cdn.vox-cdn.com/thumbor/RBslbi719TESuCjXdwzPWIS1L9I=/0x1:5528x3686/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71711893/1242663827.0.jpg" />
@@ -525,7 +496,6 @@
  - [https://www.theverge.com/23494022/gen-v-the-boys-amazon-prime-trailer](https://www.theverge.com/23494022/gen-v-the-boys-amazon-prime-trailer)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-05 13:43:17+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot taken from the Gen V trailer. A character is looking upward, completely covered in blood." src="https://cdn.vox-cdn.com/thumbor/P_BF9aRuYZ9R_iYFm6diWLJTKEg=/320x0:2719x1599/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71711796/Gen_V_blood.0.jpg" />
@@ -542,7 +512,6 @@
  - [https://www.theverge.com/2022/12/5/23493932/chatgpt-ai-generated-answers-temporarily-banned-stack-overflow-llms-dangers](https://www.theverge.com/2022/12/5/23493932/chatgpt-ai-generated-answers-temporarily-banned-stack-overflow-llms-dangers)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-05 12:29:23+00:00
- - tags: None
 
 <figure>
       <img alt="A photograph of lines of code on a computer screen. " src="https://cdn.vox-cdn.com/thumbor/PIDL1pgp_A44rNzFJNQTqGxOyic=/0x170:5423x3785/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71711506/1078770884.0.jpg" />

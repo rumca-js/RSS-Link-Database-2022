@@ -1,10 +1,9 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml
+# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
 
 ## England boss Gareth Southgate 'conflicted' about England future
  - [https://www.bbc.co.uk/sport/football/63939239?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63939239?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 23:56:17+00:00
- - tags: None
 
 England manager Gareth Southgate says he is "conflicted" about his future, having "found large parts of the last 18 months difficult".
 
@@ -12,7 +11,6 @@ England manager Gareth Southgate says he is "conflicted" about his future, havin
  - [https://www.bbc.co.uk/sport/63936714?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/63936714?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 23:55:01+00:00
- - tags: None
 
 PSG putting together package to sign Manchester United's Rashford, Brazil's FA plans to contact Manchester City boss Guardiola, three English clubs make offers for Gvardiol, plus more.
 
@@ -20,7 +18,6 @@ PSG putting together package to sign Manchester United's Rashford, Brazil's FA p
  - [https://www.bbc.co.uk/news/health-63935416?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/health-63935416?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 22:31:22+00:00
- - tags: None
 
 Figures obtained by Labour through Freedom of Information requests reveal staff pressures in the NHS.
 
@@ -28,7 +25,6 @@ Figures obtained by Labour through Freedom of Information requests reveal staff 
  - [https://www.bbc.co.uk/news/uk-63937482?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63937482?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 22:12:17+00:00
- - tags: None
 
 They pick an image from September's Highland Games for first festive card since Charles became King.
 
@@ -36,7 +32,6 @@ They pick an image from September's Highland Games for first festive card since 
  - [https://www.bbc.co.uk/news/uk-wales-63903850?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-63903850?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 21:50:57+00:00
- - tags: None
 
 Hedydd Elias says she was told in 2019 she would have to wait two-and-a-half years for NHS therapy.
 
@@ -44,7 +39,6 @@ Hedydd Elias says she was told in 2019 she would have to wait two-and-a-half yea
  - [https://www.bbc.co.uk/news/business-63938958?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63938958?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 21:33:40+00:00
- - tags: None
 
 Heathrow and Gatwick also cancel flights after fog and snow sweeps the country.
 
@@ -52,7 +46,6 @@ Heathrow and Gatwick also cancel flights after fog and snow sweeps the country.
  - [https://www.bbc.co.uk/news/entertainment-arts-63917114?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63917114?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 21:01:25+00:00
- - tags: None
 
 The duo will make their fifth assault on the charts with a cover of Do They Know It's Christmas.
 
@@ -60,7 +53,6 @@ The duo will make their fifth assault on the charts with a cover of Do They Know
  - [https://www.bbc.co.uk/news/uk-england-birmingham-63938673?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-birmingham-63938673?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 20:46:46+00:00
- - tags: None
 
 There is no update on their condition after the incident at Babbs Mill Park on Sunday.
 
@@ -68,7 +60,6 @@ There is no update on their condition after the incident at Babbs Mill Park on S
  - [https://www.bbc.co.uk/sport/football/63849450?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63849450?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 20:41:46+00:00
- - tags: None
 
 Chelsea hold off Reading to move three points clear at the top of the Women's Super League in both sides' final top-flight game of 2022.
 
@@ -76,7 +67,6 @@ Chelsea hold off Reading to move three points clear at the top of the Women's Su
  - [https://www.bbc.co.uk/sport/football/63937784?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63937784?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 20:08:08+00:00
- - tags: None
 
 How does the Women's Super League title race shape up after Manchester City and Manchester United played out a thrilling draw on Sunday?
 
@@ -84,7 +74,6 @@ How does the Women's Super League title race shape up after Manchester City and 
  - [https://www.bbc.co.uk/sport/football/63937916?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63937916?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 19:44:59+00:00
- - tags: None
 
 Portugal captain Cristiano Ronaldo is coy about his international future as he responds to his side's World Cup exit following defeat by Morocco.
 
@@ -92,7 +81,6 @@ Portugal captain Cristiano Ronaldo is coy about his international future as he r
  - [https://www.bbc.co.uk/sport/rugby-union/63876767?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63876767?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 19:43:02+00:00
- - tags: None
 
 A depleted Leicester clinch an away win with an efficient display at Ospreys in Pool B of the Heineken Champions Cup.
 
@@ -100,7 +88,6 @@ A depleted Leicester clinch an away win with an efficient display at Ospreys in 
  - [https://www.bbc.co.uk/sport/football/63934847?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63934847?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 19:00:50+00:00
- - tags: None
 
 Former England captain Alan Shearer says Gareth Southgate has shown he is the right man to take this exciting young team to the 2024 European Championship.
 
@@ -108,7 +95,6 @@ Former England captain Alan Shearer says Gareth Southgate has shown he is the ri
  - [https://www.bbc.co.uk/sport/rugby-union/63938344?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63938344?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 18:36:46+00:00
- - tags: None
 
 England captain Owen Farrell says the Rugby Football Union's decision to sack Eddie Jones as head coach was "unbelievably disappointing".
 
@@ -116,7 +102,6 @@ England captain Owen Farrell says the Rugby Football Union's decision to sack Ed
  - [https://www.bbc.co.uk/news/world-europe-jersey-63938234?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-jersey-63938234?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 17:53:42+00:00
- - tags: None
 
 Four other people are still unaccounted for, police say.
 
@@ -124,7 +109,6 @@ Four other people are still unaccounted for, police say.
  - [https://www.bbc.co.uk/news/world-europe-63936840?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63936840?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 17:47:08+00:00
- - tags: None
 
 Tensions between the authorities and Kosovo's Serb minority have risen in recent weeks.
 
@@ -132,7 +116,6 @@ Tensions between the authorities and Kosovo's Serb minority have risen in recent
  - [https://www.bbc.co.uk/sport/rugby-union/63936257?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63936257?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 17:46:32+00:00
- - tags: None
 
 Saracens battle hard to overturn a half-time deficit and earn a 30-26 bonus-point win over Edinburgh in their Heineken Champions Cup opener.
 
@@ -140,7 +123,6 @@ Saracens battle hard to overturn a half-time deficit and earn a 30-26 bonus-poin
  - [https://www.bbc.co.uk/news/entertainment-arts-63916729?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63916729?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 17:41:52+00:00
- - tags: None
 
 Thirteen-year-old Lissandro won with 203 points for his song Oh Maman! at the contest in Armenia.
 
@@ -148,7 +130,6 @@ Thirteen-year-old Lissandro won with 203 points for his song Oh Maman! at the co
  - [https://www.bbc.co.uk/news/science-environment-63937345?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/science-environment-63937345?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 17:40:40+00:00
- - tags: None
 
 After a 26-day flight around the Moon, Nasa's future astronaut ship parachutes into the Pacific.
 
@@ -156,7 +137,6 @@ After a 26-day flight around the Moon, Nasa's future astronaut ship parachutes i
  - [https://www.bbc.co.uk/sport/football/63933719?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63933719?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 17:06:02+00:00
- - tags: None
 
 England may be out but four teams remain in the Qatar World Cup. BBC Sport looks at the subplots before two semi-finals no-one predicted.
 
@@ -164,7 +144,6 @@ England may be out but four teams remain in the Qatar World Cup. BBC Sport looks
  - [https://www.bbc.co.uk/news/uk-england-63937739?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-63937739?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 16:54:14+00:00
- - tags: None
 
 Emergency services are at the scene of a serious incident at Babbs Mill Park, Solihull.
 
@@ -172,7 +151,6 @@ Emergency services are at the scene of a serious incident at Babbs Mill Park, So
  - [https://www.bbc.co.uk/sport/mixed-martial-arts/63932941?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/mixed-martial-arts/63932941?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 15:59:54+00:00
- - tags: None
 
 BBC Sport looks at the main talking points from UFC 282 as the judges' scoring in Paddy Pimblett's win and the main event attracts criticism.
 
@@ -180,7 +158,6 @@ BBC Sport looks at the main talking points from UFC 282 as the judges' scoring i
  - [https://www.bbc.co.uk/news/uk-politics-63937184?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63937184?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 15:58:34+00:00
- - tags: None
 
 Laura Kuenssberg questions guests including NHS England's medical director and the foreign secretary.
 
@@ -188,7 +165,6 @@ Laura Kuenssberg questions guests including NHS England's medical director and t
  - [https://www.bbc.co.uk/news/63917967?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/63917967?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 15:56:22+00:00
- - tags: None
 
 The prime minister and health secretary both claim they would cost an extra £1,000 per household.
 
@@ -196,7 +172,6 @@ The prime minister and health secretary both claim they would cost an extra £1,
  - [https://www.bbc.co.uk/news/world-europe-63936360?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63936360?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 15:02:46+00:00
- - tags: None
 
 A Gulf state - reportedly Qatar - is accused of attempting to bribe parliament officials.
 
@@ -204,7 +179,6 @@ A Gulf state - reportedly Qatar - is accused of attempting to bribe parliament o
  - [https://www.bbc.co.uk/sport/football/63849445?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63849445?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 14:34:15+00:00
- - tags: None
 
 Manchester City play out a thrilling draw against neighbours and top-three rivals Manchester United at Etihad Stadium.
 
@@ -212,7 +186,6 @@ Manchester City play out a thrilling draw against neighbours and top-three rival
  - [https://www.bbc.co.uk/news/entertainment-arts-63933748?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63933748?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 14:27:34+00:00
- - tags: None
 
 The most-watched single TV channel moment of 2022 sees England lose 2-1 to France in Qatar.
 
@@ -220,7 +193,6 @@ The most-watched single TV channel moment of 2022 sees England lose 2-1 to Franc
  - [https://www.bbc.co.uk/sport/cricket/63936212?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/63936212?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 14:16:57+00:00
- - tags: None
 
 England's second Test against Pakistan is "50-50", according to assistant coach Marcus Trescothick.
 
@@ -228,7 +200,6 @@ England's second Test against Pakistan is "50-50", according to assistant coach 
  - [https://www.bbc.co.uk/news/uk-scotland-63933837?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-63933837?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 12:36:00+00:00
- - tags: None
 
 The Libyan man is accused of making the bomb which destroyed Pan Am flight 103 over Lockerbie.
 
@@ -236,7 +207,6 @@ The Libyan man is accused of making the bomb which destroyed Pan Am flight 103 o
  - [https://www.bbc.co.uk/news/uk-england-hampshire-63934474?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-hampshire-63934474?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 12:31:26+00:00
- - tags: None
 
 The public are advised to stay away so it can regain strength before carrying on its journey.
 
@@ -244,7 +214,6 @@ The public are advised to stay away so it can regain strength before carrying on
  - [https://www.bbc.co.uk/sport/africa/63935099?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/africa/63935099?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 12:20:55+00:00
- - tags: None
 
 Morocco becoming the first African team to reach the World Cup semi-finals can "galvanise" the continent, says top Caf official.
 
@@ -252,7 +221,6 @@ Morocco becoming the first African team to reach the World Cup semi-finals can "
  - [https://www.bbc.co.uk/sport/cricket/63927663?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/63927663?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 12:05:15+00:00
- - tags: None
 
 England strike late to break a crucial Pakistan partnership on the third day of the second Test in Multan.
 
@@ -260,7 +228,6 @@ England strike late to break a crucial Pakistan partnership on the third day of 
  - [https://www.bbc.co.uk/sport/football/63934519?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63934519?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 11:24:53+00:00
- - tags: None
 
 Harry Kane says England will use their World Cup defeat by France to be "mentally and physically stronger for the next challenge" as they head home.
 
@@ -268,7 +235,6 @@ Harry Kane says England will use their World Cup defeat by France to be "mentall
  - [https://www.bbc.co.uk/sport/av/football/63932370?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63932370?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 11:03:25+00:00
- - tags: None
 
 Watch all the drama from England's World Cup quarter-final defeat by France in under two minutes.
 
@@ -276,7 +242,6 @@ Watch all the drama from England's World Cup quarter-final defeat by France in u
  - [https://www.bbc.co.uk/news/uk-wales-63796902?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-63796902?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 10:53:12+00:00
- - tags: None
 
 Welsh voices filled global airwaves at the World Cup, but how much does singing matter back home?
 
@@ -284,7 +249,6 @@ Welsh voices filled global airwaves at the World Cup, but how much does singing 
  - [https://www.bbc.co.uk/news/world-europe-jersey-63933571?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-jersey-63933571?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 08:53:15+00:00
- - tags: None
 
 Chief Minister Kristina Moore says "we have now moved into a recovery operation".
 
@@ -292,7 +256,6 @@ Chief Minister Kristina Moore says "we have now moved into a recovery operation"
  - [https://www.bbc.co.uk/sport/mixed-martial-arts/63932933?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/mixed-martial-arts/63932933?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 06:46:17+00:00
- - tags: None
 
 Paddy Pimblett earns his third win of the year as he beats Jared Gordon via a unanimous decision at UFC 282.
 
@@ -300,7 +263,6 @@ Paddy Pimblett earns his third win of the year as he beats Jared Gordon via a un
  - [https://www.bbc.co.uk/news/world-europe-63933132?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63933132?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 05:49:24+00:00
- - tags: None
 
 Russian drone attacks leave 1.5 million Ukrainians without power and Kyiv bombards occupied Melitopol.
 
@@ -308,7 +270,6 @@ Russian drone attacks leave 1.5 million Ukrainians without power and Kyiv bombar
  - [https://www.bbc.co.uk/news/world-latin-america-63932228?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-latin-america-63932228?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 01:23:44+00:00
- - tags: None
 
 The Lascar volcano, in the north, sends a plume of volcanic ash and hot gases 6,000m into the sky.
 
@@ -316,7 +277,6 @@ The Lascar volcano, in the north, sends a plume of volcanic ash and hot gases 6,
  - [https://www.bbc.co.uk/sport/boxing/63922564?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/boxing/63922564?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 00:54:23+00:00
- - tags: None
 
 Leeds fighter Josh Warrington is stunned on home soil as Luis Alberto Lopez wins by majority decision to take the IBF featherweight world title.
 
@@ -324,7 +284,6 @@ Leeds fighter Josh Warrington is stunned on home soil as Luis Alberto Lopez wins
  - [https://www.bbc.co.uk/news/uk-england-derbyshire-63835231?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-derbyshire-63835231?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 00:44:07+00:00
- - tags: None
 
 Roxy Rhodes, 37, fell into a bath full of scalding hot water when she was two.
 
@@ -332,7 +291,6 @@ Roxy Rhodes, 37, fell into a bath full of scalding hot water when she was two.
  - [https://www.bbc.co.uk/news/entertainment-arts-63828382?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63828382?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 00:41:31+00:00
- - tags: None
 
 After ten years, Ancient Rome sitcom Plebs is coming to an end with a feature-length finale.
 
@@ -340,7 +298,6 @@ After ten years, Ancient Rome sitcom Plebs is coming to an end with a feature-le
  - [https://www.bbc.co.uk/news/uk-wales-63910732?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-63910732?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 00:33:57+00:00
- - tags: None
 
 Mother-of-five Charlotte Chapman says positive attitude gets her through any tough times.
 
@@ -348,7 +305,6 @@ Mother-of-five Charlotte Chapman says positive attitude gets her through any tou
  - [https://www.bbc.co.uk/news/health-63859184?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/health-63859184?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 00:21:13+00:00
- - tags: None
 
 New way of altering DNA is used to engineer an "exciting", experimental therapy for a 13-year girl.
 
@@ -356,7 +312,6 @@ New way of altering DNA is used to engineer an "exciting", experimental therapy 
  - [https://www.bbc.co.uk/sport/av/football/63932300?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63932300?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 00:09:26+00:00
- - tags: None
 
 See every card from Argentina's intense quarter-final match with the Netherlands, which set a World Cup record of 18 yellow cards shown in a single match.
 
@@ -364,6 +319,5 @@ See every card from Argentina's intense quarter-final match with the Netherlands
  - [https://www.bbc.co.uk/news/blogs-the-papers-63932285?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-63932285?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-11 00:02:35+00:00
- - tags: None
 
 Pictures of captain Harry Kane cover the front pages after England's World Cup loss to France.

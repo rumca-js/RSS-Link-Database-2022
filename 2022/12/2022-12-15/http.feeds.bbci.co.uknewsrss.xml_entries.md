@@ -1,10 +1,23 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml
+# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
+
+## Engineers brave ice and snow to reconnect Shetland
+ - [https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-63982839?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-63982839?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-15 23:54:12+00:00
+
+About 1,700 properties are still cut off, despite dozens of staff being drafted in to fix the network.
+
+## Rangers 3-2 Hibernian: 'Michael Beale gives convincing response to tough questions'
+ - [https://www.bbc.co.uk/sport/football/63995215?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63995215?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-15 23:11:38+00:00
+
+Rangers were under pressure at half time of Michael Beale's first game in charge. But the new manager and his players showed their resolve to beat Hibernian, writes Tom English.
 
 ## Watch: Sportscene - Rangers v Hibernian highlights
  - [https://www.bbc.co.uk/sport/av/football/63652262?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63652262?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 23:03:12+00:00
- - Starred: False
 
 Watch highlights of Rangers v Hibernian in the Scottish Premiership on BBC One Scotland's Sportscene.
 
@@ -12,15 +25,20 @@ Watch highlights of Rangers v Hibernian in the Scottish Premiership on BBC One S
  - [https://www.bbc.co.uk/sport/sports-personality/63971257?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/sports-personality/63971257?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 22:31:50+00:00
- - Starred: False
 
 Athletics legend Usain Bolt is awarded the Lifetime Achievement award at BBC Sports Personality of the Year 2022.
+
+## Sports Personality: Usain Bolt wins Lifetime Achievement Award
+ - [https://www.bbc.co.uk/sport/av/sports-personality/63994367?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/sports-personality/63994367?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-15 22:31:46+00:00
+
+Athletics legend Usain Bolt talks about his incredible career after accepting the BBC Sports Personality of the Year Lifetime Achievement Award.
 
 ## Thousands of unedited government JFK assassination files released
  - [https://www.bbc.co.uk/news/world-us-canada-63994729?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63994729?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 22:12:28+00:00
- - Starred: False
 
 The CIA reiterates it "never engaged" the alleged assassin, Lee Harvey Oswald, as over 13,000 files go online.
 
@@ -28,7 +46,6 @@ The CIA reiterates it "never engaged" the alleged assassin, Lee Harvey Oswald, a
  - [https://www.bbc.co.uk/sport/football/63976971?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63976971?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 22:09:31+00:00
- - Starred: False
 
 Arsenal are through to the quarter-finals of the Women's Champions League despite defeat to holders Lyon in their final group match.
 
@@ -36,7 +53,6 @@ Arsenal are through to the quarter-finals of the Women's Champions League despit
  - [https://www.bbc.co.uk/news/uk-england-manchester-63971038?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-manchester-63971038?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 22:01:42+00:00
- - Starred: False
 
 The result of the Stretford and Urmston by-election is expected to be announced early on Friday.
 
@@ -44,7 +60,6 @@ The result of the Stretford and Urmston by-election is expected to be announced 
  - [https://www.bbc.co.uk/sport/cricket/63954895?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/63954895?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 22:01:03+00:00
- - Starred: False
 
 England are considering handing a debut to 18-year-old leg-spinner Rehan Ahmed in the third Test against Pakistan.
 
@@ -52,15 +67,20 @@ England are considering handing a debut to 18-year-old leg-spinner Rehan Ahmed i
  - [https://www.bbc.co.uk/sport/football/63896761?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63896761?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 21:56:55+00:00
- - Starred: False
 
 Rangers twice come from behind in Michael Beale's first game in charge to edge out Hibernian as the Scottish Premiership makes a frantic return.
+
+## SNP budget may go down in left-leaning history
+ - [https://www.bbc.co.uk/news/uk-scotland-63994702?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-63994702?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-15 21:46:59+00:00
+
+John Swinney has gone some way to address SNP criticisms with a budget that was devolution in action.
 
 ## Storm Efraín: Waist-deep floodwaters in Madrid metro after heavy rain
  - [https://www.bbc.co.uk/news/world-europe-63992960?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63992960?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 21:16:13+00:00
- - Starred: False
 
 Video shows gushing water and submerged platforms as Storm Efraín shuts forces several stations.
 
@@ -68,7 +88,6 @@ Video shows gushing water and submerged platforms as Storm Efraín shuts forces 
  - [https://www.bbc.co.uk/sport/football/63993088?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63993088?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 19:16:39+00:00
- - Starred: False
 
 Manchester United reduce Old Trafford capacity by 12,000 for next Wednesday's Carabao Cup match with Burnley because of ambulance strike on the same day.
 
@@ -76,7 +95,6 @@ Manchester United reduce Old Trafford capacity by 12,000 for next Wednesday's Ca
  - [https://www.bbc.co.uk/news/uk-scotland-scotland-politics-63988944?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-63988944?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 19:00:22+00:00
- - Starred: False
 
 Everyone earning more than £43,662 will pay more next year as Scottish government looks to raise money for public services.
 
@@ -84,7 +102,6 @@ Everyone earning more than £43,662 will pay more next year as Scottish governme
  - [https://www.bbc.co.uk/news/uk-england-birmingham-63984056?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-birmingham-63984056?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 18:57:17+00:00
- - Starred: False
 
 Tributes are paid to Jack Johnson, siblings Finlay and Samuel Butler and Thomas Stewart.
 
@@ -92,7 +109,6 @@ Tributes are paid to Jack Johnson, siblings Finlay and Samuel Butler and Thomas 
  - [https://www.bbc.co.uk/news/world-europe-63993385?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63993385?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 18:48:45+00:00
- - Starred: False
 
 A gift the officer received from a senior Ukrainian official explodes at police headquarters in Warsaw.
 
@@ -100,7 +116,6 @@ A gift the officer received from a senior Ukrainian official explodes at police 
  - [https://www.bbc.co.uk/news/uk-63989967?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63989967?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 18:40:10+00:00
- - Starred: False
 
 The Netflix finale shows the family tensions and fallings out as Harry and Meghan left for the US.
 
@@ -108,7 +123,6 @@ The Netflix finale shows the family tensions and fallings out as Harry and Megha
  - [https://www.bbc.co.uk/news/health-63986973?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/health-63986973?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 18:00:49+00:00
- - Starred: False
 
 Tens of thousands of nurses have expressed anger and sadness at being on picket lines on Thursday.
 
@@ -116,7 +130,6 @@ Tens of thousands of nurses have expressed anger and sadness at being on picket 
  - [https://www.bbc.co.uk/news/uk-63993158?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63993158?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 17:58:40+00:00
- - Starred: False
 
 BBC Royal correspondent looks at the royal rift at the centre of the new episodes of Harry and Meghan.
 
@@ -124,7 +137,6 @@ BBC Royal correspondent looks at the royal rift at the centre of the new episode
  - [https://www.bbc.co.uk/news/uk-england-northamptonshire-63988687?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-northamptonshire-63988687?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 17:58:25+00:00
- - Starred: False
 
 A woman died at the scene and two children, aged four and six, died later in hospital, police say.
 
@@ -132,7 +144,6 @@ A woman died at the scene and two children, aged four and six, died later in hos
  - [https://www.bbc.co.uk/news/uk-scotland-63635369?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-63635369?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 17:48:44+00:00
- - Starred: False
 
 Deputy First Minister John Swinney has announced a range of tax and spending changes.
 
@@ -140,7 +151,6 @@ Deputy First Minister John Swinney has announced a range of tax and spending cha
  - [https://www.bbc.co.uk/news/health-63991359?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/health-63991359?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 17:24:18+00:00
- - Starred: False
 
 The new protocol comes amid temporary supply issues of penicillin to treat strep A, as cases rise.
 
@@ -148,7 +158,6 @@ The new protocol comes amid temporary supply issues of penicillin to treat strep
  - [https://www.bbc.co.uk/news/uk-63978047?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63978047?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 17:19:27+00:00
- - Starred: False
 
 Travellers face disruption on the railways and roads on Friday - by the BBC’s Zoe Conway.
 
@@ -156,7 +165,6 @@ Travellers face disruption on the railways and roads on Friday - by the BBC’s 
  - [https://www.bbc.co.uk/news/63988517?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/63988517?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 17:08:21+00:00
- - Starred: False
 
 Fact-checking a claim made by Health Minister Maria Caulfield.
 
@@ -164,7 +172,6 @@ Fact-checking a claim made by Health Minister Maria Caulfield.
  - [https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-63992286?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-63992286?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 17:04:28+00:00
- - Starred: False
 
 Dog walker Michael Cox spotted them on the Wharfe between Bolton Priory and Bolton Bridge.
 
@@ -172,7 +179,6 @@ Dog walker Michael Cox spotted them on the Wharfe between Bolton Priory and Bolt
  - [https://www.bbc.co.uk/sport/tennis/63987543?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/tennis/63987543?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 17:03:52+00:00
- - Starred: False
 
 Boris Becker is released from prison after serving eight months of his sentence for hiding £2.5m worth of assets and loans to avoid paying debts.
 
@@ -180,15 +186,20 @@ Boris Becker is released from prison after serving eight months of his sentence 
  - [https://www.bbc.co.uk/news/health-63992959?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/health-63992959?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 16:50:22+00:00
- - Starred: False
 
 NHS staff on the picket line explain why they have taken strike action over pay and conditions.
+
+## Quiz of the week: Who is the world's new richest man?
+ - [https://www.bbc.co.uk/news/world-63961592?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-63961592?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-15 16:43:32+00:00
+
+How closely have you been paying attention to what's been going on over the past seven days?
 
 ## World Cup 2022: How Julian Alvarez is proving key for Argentina
  - [https://www.bbc.co.uk/sport/football/63970188?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63970188?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 16:21:42+00:00
- - Starred: False
 
 Argentina captain Lionel Messi describes team-mate Julian Alvarez a "spectacular" and "extraordinary" after his World Cup semi-final double.
 
@@ -196,7 +207,6 @@ Argentina captain Lionel Messi describes team-mate Julian Alvarez a "spectacular
  - [https://www.bbc.co.uk/news/uk-england-london-63979876?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-london-63979876?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 16:07:34+00:00
- - Starred: False
 
 High levels of maghemite were found in some air samples but it is not known if they are harmful.
 
@@ -204,7 +214,6 @@ High levels of maghemite were found in some air samples but it is not known if t
  - [https://www.bbc.co.uk/news/business-63977963?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63977963?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 16:01:56+00:00
- - Starred: False
 
 The Bank of England lifts borrowing costs to 3.5% from 3%, the ninth rise in a row.
 
@@ -212,7 +221,6 @@ The Bank of England lifts borrowing costs to 3.5% from 3%, the ninth rise in a r
  - [https://www.bbc.co.uk/news/world-europe-63983730?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63983730?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 15:57:08+00:00
- - Starred: False
 
 Heavy shelling of critical infrastructure knocks out the power supply to the entire Ukrainian port.
 
@@ -220,7 +228,6 @@ Heavy shelling of critical infrastructure knocks out the power supply to the ent
  - [https://www.bbc.co.uk/sport/av/football/63988867?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63988867?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 14:58:53+00:00
- - Starred: False
 
 Dr Nasser Mohamed, an openly gay Qatari, who no longer lives in Qatar, tells BBC Sport about starting an LGBTQ+ supporters' group.
 
@@ -228,7 +235,6 @@ Dr Nasser Mohamed, an openly gay Qatari, who no longer lives in Qatar, tells BBC
  - [https://www.bbc.co.uk/sport/swimming/63982857?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/swimming/63982857?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 14:34:42+00:00
- - Starred: False
 
 Double Olympic champion Adam Peaty says "I don't get bronze often" after missing out on the 100m breaststroke title at the World Championships.
 
@@ -236,7 +242,6 @@ Double Olympic champion Adam Peaty says "I don't get bronze often" after missing
  - [https://www.bbc.co.uk/sport/formula1/63984381?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/formula1/63984381?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 13:49:37+00:00
- - Starred: False
 
 Mick Schumacher is to be the Mercedes reserve driver in 2023 after Haas replaced him for Nico Hulkenberg for next season.
 
@@ -244,7 +249,6 @@ Mick Schumacher is to be the Mercedes reserve driver in 2023 after Haas replaced
  - [https://www.bbc.co.uk/news/uk-england-norfolk-63969116?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-norfolk-63969116?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 13:26:42+00:00
- - Starred: False
 
 The only bridge of its kind inspires a new production of Cinderella using long-string marionettes.
 
@@ -252,7 +256,6 @@ The only bridge of its kind inspires a new production of Cinderella using long-s
  - [https://www.bbc.co.uk/sport/cricket/63987135?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/63987135?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 13:13:06+00:00
- - Starred: False
 
 England all-rounder Freya Kemp will miss the 2023 Women's T20 World Cup after suffering a stress fracture in her back.
 
@@ -260,7 +263,6 @@ England all-rounder Freya Kemp will miss the 2023 Women's T20 World Cup after su
  - [https://www.bbc.co.uk/news/world-63988887?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-63988887?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 12:54:29+00:00
- - Starred: False
 
 The World Cup host nation artificially produced huge amounts of water for daily use.
 
@@ -268,7 +270,6 @@ The World Cup host nation artificially produced huge amounts of water for daily 
  - [https://www.bbc.co.uk/news/uk-politics-63985745?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63985745?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 12:44:48+00:00
- - Starred: False
 
 Theo Clarke says public life is toxic for women, as she calls for MPs to be given maternity cover.
 
@@ -276,7 +277,6 @@ Theo Clarke says public life is toxic for women, as she calls for MPs to be give
  - [https://www.bbc.co.uk/news/health-63985539?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/health-63985539?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 10:25:26+00:00
- - Starred: False
 
 As nurses take part in the largest strike in NHS history, use our tool to see if your area is affected.
 
@@ -284,7 +284,6 @@ As nurses take part in the largest strike in NHS history, use our tool to see if
  - [https://www.bbc.co.uk/news/uk-63983062?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63983062?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 10:11:00+00:00
- - Starred: False
 
 The Duchess of Sussex opens up about her mental health in a new episode from the Netflix series.
 
@@ -292,7 +291,6 @@ The Duchess of Sussex opens up about her mental health in a new episode from the
  - [https://www.bbc.co.uk/sport/football/63972081?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63972081?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 10:05:13+00:00
- - Starred: False
 
 Will Argentina's Lionel Messi or France's Kylian Mbappe inspire their nation to World Cup success? BBC Sport looks at other players who have been instrumental in earlier tournaments.
 
@@ -300,7 +298,6 @@ Will Argentina's Lionel Messi or France's Kylian Mbappe inspire their nation to 
  - [https://www.bbc.co.uk/news/uk-england-manchester-63979369?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-manchester-63979369?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 10:00:50+00:00
- - Starred: False
 
 A "violent bully" who said he was related to boxing champion Tyson Fury is convicted of multiple rapes.
 
@@ -308,7 +305,6 @@ A "violent bully" who said he was related to boxing champion Tyson Fury is convi
  - [https://www.bbc.co.uk/news/uk-england-london-63984432?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-london-63984432?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 09:58:37+00:00
- - Starred: False
 
 A bungee ride cord snapped at the Hyde Park attraction in London, leaving them suspended in a cage.
 
@@ -316,7 +312,6 @@ A bungee ride cord snapped at the Hyde Park attraction in London, leaving them s
  - [https://www.bbc.co.uk/news/entertainment-arts-63983600?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63983600?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 09:38:30+00:00
- - Starred: False
 
 The British star, who revealed his return as the superhero in October, is dropped from the role.
 
@@ -324,7 +319,6 @@ The British star, who revealed his return as the superhero in October, is droppe
  - [https://www.bbc.co.uk/news/uk-wales-63974670?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-63974670?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 09:37:59+00:00
- - Starred: False
 
 About 17,000 nurses at almost all health boards in Wales are striking on Thursday over pay.
 
@@ -332,7 +326,6 @@ About 17,000 nurses at almost all health boards in Wales are striking on Thursda
  - [https://www.bbc.co.uk/news/world-asia-63983803?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-63983803?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 09:33:48+00:00
- - Starred: False
 
 Princess Bajrakitiyabha is widely seen in Thailand as the most plausible heir to the throne.
 
@@ -340,7 +333,6 @@ Princess Bajrakitiyabha is widely seen in Thailand as the most plausible heir to
  - [https://www.bbc.co.uk/news/world-europe-63983728?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63983728?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 09:22:51+00:00
- - Starred: False
 
 A 14-year-old is knocked down by a car draped with a flag in the southern city of Montpellier.
 
@@ -348,7 +340,6 @@ A 14-year-old is knocked down by a car draped with a flag in the southern city o
  - [https://www.bbc.co.uk/news/uk-england-birmingham-63982801?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-birmingham-63982801?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 09:16:49+00:00
- - Starred: False
 
 The child's death on Wednesday followed the earlier losses of three other boys pulled from icy water.
 
@@ -356,7 +347,6 @@ The child's death on Wednesday followed the earlier losses of three other boys p
  - [https://www.bbc.co.uk/sport/football/63978053?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63978053?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 09:03:43+00:00
- - Starred: False
 
 As we build up to the World Cup final between Argentina and France, we want you to select your combined XI.
 
@@ -364,7 +354,6 @@ As we build up to the World Cup final between Argentina and France, we want you 
  - [https://www.bbc.co.uk/news/articles/cg3gw9v7jnvo?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/articles/cg3gw9v7jnvo?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 08:34:37+00:00
- - Starred: False
 
 Rishi Rajpopat, from India, decodes a rule taught by Panini, a master of the ancient language.
 
@@ -372,7 +361,6 @@ Rishi Rajpopat, from India, decodes a rule taught by Panini, a master of the anc
  - [https://www.bbc.co.uk/news/uk-england-manchester-63983481?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-manchester-63983481?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 08:27:51+00:00
- - Starred: False
 
 A housing group "failed to respect" the family of a two-year-old boy who died after exposure to mould.
 
@@ -380,7 +368,6 @@ A housing group "failed to respect" the family of a two-year-old boy who died af
  - [https://www.bbc.co.uk/sport/av/football/63980661?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63980661?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 07:23:39+00:00
- - Starred: False
 
 BBC Sport pundits Alan Shearer, Rio Ferdinand and Didier Drogba discuss England manager Gareth Southgate's future.
 
@@ -388,7 +375,6 @@ BBC Sport pundits Alan Shearer, Rio Ferdinand and Didier Drogba discuss England 
  - [https://www.bbc.co.uk/sport/basketball/63982850?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/basketball/63982850?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 07:22:17+00:00
- - Starred: False
 
 Stephen Curry suffers a shoulder injury as the Golden State Warriors' indifferent season continues with a 125-119 defeat away to the Indiana Pacers.
 
@@ -396,7 +382,6 @@ Stephen Curry suffers a shoulder injury as the Golden State Warriors' indifferen
  - [https://www.bbc.co.uk/sport/63958092?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/63958092?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 06:39:02+00:00
- - Starred: False
 
 Runners must forage for food and make their own fires to keep warm in a new ultra-marathon in the Tanzanian bushlands.
 
@@ -404,7 +389,6 @@ Runners must forage for food and make their own fires to keep warm in a new ultr
  - [https://www.bbc.co.uk/news/uk-northern-ireland-63980275?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-northern-ireland-63980275?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 06:32:07+00:00
- - Starred: False
 
 The woman, who settled the case, said her employer also accused her of dressing provocatively.
 
@@ -412,7 +396,6 @@ The woman, who settled the case, said her employer also accused her of dressing 
  - [https://www.bbc.co.uk/sport/cricket/63981235?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/63981235?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 06:29:31+00:00
- - Starred: False
 
 England beat West Indies by 16 runs in another dominant performance to take a 2-0 lead in the Twenty20 series in Barbados.
 
@@ -420,7 +403,6 @@ England beat West Indies by 16 runs in another dominant performance to take a 2-
  - [https://www.bbc.co.uk/news/uk-63982143?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63982143?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 05:51:21+00:00
- - Starred: False
 
 The latest tragedy in the Channel underlines the need to work together more closely, ministers say.
 
@@ -428,7 +410,6 @@ The latest tragedy in the Channel underlines the need to work together more clos
  - [https://www.bbc.co.uk/news/world-asia-china-63967780?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-63967780?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 04:32:32+00:00
- - Starred: False
 
 A court finds the police ban was not lawful but Chow Hang-tung stays in custody on separate charges.
 
@@ -436,7 +417,6 @@ A court finds the police ban was not lawful but Chow Hang-tung stays in custody 
  - [https://www.bbc.co.uk/news/newsbeat-63971004?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/newsbeat-63971004?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 02:09:51+00:00
- - Starred: False
 
 Homelessness charities call for tailored support for young people facing increasing instability.
 
@@ -444,7 +424,6 @@ Homelessness charities call for tailored support for young people facing increas
  - [https://www.bbc.co.uk/news/newsbeat-63974346?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/newsbeat-63974346?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 02:09:25+00:00
- - Starred: False
 
 Kaitlyn was kicked out of her home last year and feels there needs to be more support for under 25s.
 
@@ -452,7 +431,6 @@ Kaitlyn was kicked out of her home last year and feels there needs to be more su
  - [https://www.bbc.co.uk/news/world-australia-63981527?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-australia-63981527?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 02:02:18+00:00
- - Starred: False
 
 Ronald Train says his sons took a "dark track" after cutting off their family 20 years ago.
 
@@ -460,7 +438,6 @@ Ronald Train says his sons took a "dark track" after cutting off their family 20
  - [https://www.bbc.co.uk/news/uk-england-northamptonshire-63779994?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-northamptonshire-63779994?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 01:58:18+00:00
- - Starred: False
 
 David Ross died just weeks after achieving his dream of owning a nightclub.
 
@@ -468,7 +445,6 @@ David Ross died just weeks after achieving his dream of owning a nightclub.
  - [https://www.bbc.co.uk/news/entertainment-arts-63931433?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63931433?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 01:50:22+00:00
- - Starred: False
 
 English National Opera will "definitely" move out of London, and 10 areas have offered it a home.
 
@@ -476,7 +452,6 @@ English National Opera will "definitely" move out of London, and 10 areas have o
  - [https://www.bbc.co.uk/news/business-63901215?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63901215?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 00:25:46+00:00
- - Starred: False
 
 The global brewing giants highlight a brand's nationality but does it matter when they brew it overseas?
 
@@ -484,7 +459,6 @@ The global brewing giants highlight a brand's nationality but does it matter whe
  - [https://www.bbc.co.uk/news/business-63970068?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63970068?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 00:14:23+00:00
- - Starred: False
 
 The warning comes as Royal Mail staff walk out in a fight over pay and conditions.
 
@@ -492,7 +466,6 @@ The warning comes as Royal Mail staff walk out in a fight over pay and condition
  - [https://www.bbc.co.uk/news/business-63975270?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63975270?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 00:11:31+00:00
- - Starred: False
 
 Restrictions on liquids and removing electrical items from bags are to axed by June 2024.
 
@@ -500,6 +473,5 @@ Restrictions on liquids and removing electrical items from bags are to axed by J
  - [https://www.bbc.co.uk/news/blogs-the-papers-63980966?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-63980966?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-15 00:00:45+00:00
- - Starred: False
 
 Several of Thursday's papers lead with the migrant boat that got into difficulty while crossing the Channel.

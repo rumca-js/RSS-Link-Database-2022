@@ -7,6 +7,13 @@
 
 • One dead in strikes on Russian region near Ukraine
 
+## 'Simultaneously beautiful and terrifying': Expert explains what happens when you flush
+ - [https://www.cnn.com/videos/health/2022/12/19/flush-toilet-no-lid-lbb-cprog-orig.cnn](https://www.cnn.com/videos/health/2022/12/19/flush-toilet-no-lid-lbb-cprog-orig.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-19 23:39:20+00:00
+
+At the University of Colorado, Boulder, engineers used lasers and cameras to observe the tiny water droplets that fly into the air when we flush our toilets.
+
 ## Verdict reached in Harvey Weinstein sexual assault trial
  - [https://www.cnn.com/2022/12/19/us/harvey-weinstein-trial-deliberations-los-angeles-monday/index.html](https://www.cnn.com/2022/12/19/us/harvey-weinstein-trial-deliberations-los-angeles-monday/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
@@ -112,6 +119,13 @@ Police in New York City arrested a woman who broke into Robert De Niro's home ea
 
 
 
+## High Court rules UK's Rwanda asylum plan is lawful
+ - [https://www.cnn.com/videos/world/2022/12/19/rwanda-uk-deal-judgment-asylum-bashir-pkg-intl-vpx.cnn](https://www.cnn.com/videos/world/2022/12/19/rwanda-uk-deal-judgment-asylum-bashir-pkg-intl-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-19 17:25:56+00:00
+
+The UK's controversial policy to deport some asylum seekers to Rwanda was deemed lawful by the country's High Court. CNN's Nada Bashir reports.
+
 ## Sam Bankman-Fried set to drop extradition fight
  - [https://www.cnn.com/2022/12/19/business/sbf-extradition-bahamas/index.html](https://www.cnn.com/2022/12/19/business/sbf-extradition-bahamas/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
@@ -210,6 +224,13 @@ Astronomers have come across an exoplanet with a gloomy future, spiraling closer
 
 Think apple strudel, dumplings and potatoes, ski slopes, forest foraging, mountain views, saunas and uber-chic design hotels.
 
+## See how this principal went viral on TikTok by surprising her students
+ - [https://www.cnn.com/videos/us/2022/12/18/school-principal-beth-hoeing-elf-on-the-shelf-cprog-orig-fj.cnn](https://www.cnn.com/videos/us/2022/12/18/school-principal-beth-hoeing-elf-on-the-shelf-cprog-orig-fj.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-19 14:33:03+00:00
+
+This Christmas, Beth Hoeing, the principal of Southwestern Elementary  has surprised her students with her daily "Elf-on-the-Shelf" antics, and gone viral on TikTok in the process.
+
 ## 'Freak' wave kills 3 beachgoers and injures 17 in South Africa
  - [https://www.cnn.com/2022/12/19/africa/freak-wave-kills-3-south-africa-intl-scli/index.html](https://www.cnn.com/2022/12/19/africa/freak-wave-kills-3-south-africa-intl-scli/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
@@ -230,6 +251,13 @@ It might be a rare sighting these days, but golf fans have long grown accustomed
  - date published: 2022-12-19 14:09:04+00:00
 
 The European Union is investigating Facebook-parent Meta for possible antitrust violations stemming from the tight link between its core social media service and its online shopping platform, Facebook Marketplace.
+
+## Video shows warship battle strong winds before capsizing
+ - [https://www.cnn.com/videos/world/2022/12/19/thailand-royal-navy-warship-sinkage-ovn-contd-intl-ldn-vpx.cnn](https://www.cnn.com/videos/world/2022/12/19/thailand-royal-navy-warship-sinkage-ovn-contd-intl-ldn-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-19 14:07:12+00:00
+
+A Royal Thai Navy warship sank in severe weather in the Gulf of Thailand, leaving 33 of its crew of 106 sailors missing in stormy seas, Thai authorities said.
 
 ## Veteran CNN investigative journalist Drew Griffin dead at 60
  - [https://www.cnn.com/2022/12/19/us/drew-griffin-obit-invs/index.html](https://www.cnn.com/2022/12/19/us/drew-griffin-obit-invs/index.html)
@@ -265,6 +293,13 @@ At least two people were hurt and key infrastructure has been damaged in a Russi
  - date published: 2022-12-19 12:46:19+00:00
 
 More than 190 countries have adopted a sweeping agreement to protect nature at the United Nations' biodiversity conference in Montreal.
+
+## 'We don't have to grow the whole animal:' See how lab-grown meat is made
+ - [https://www.cnn.com/videos/business-food/2022/12/16/lab-grown-meat-ivy-farm-contd-lon-orig-tp.cnn](https://www.cnn.com/videos/business-food/2022/12/16/lab-grown-meat-ivy-farm-contd-lon-orig-tp.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-19 12:25:31+00:00
+
+What if you could eat meat without killing or farming animals? Investors in the cultivated meat industry believe this is not only possible but will one day be profitable. CNN visits Ivy Farm Technologies to taste a lab-grown product that their scientists have been developing for years.
 
 ## Elon Musk voted out as CEO of Twitter by poll he created
  - [https://www.cnn.com/2022/12/19/tech/elon-musk-twitter-ceo-poll/index.html](https://www.cnn.com/2022/12/19/tech/elon-musk-twitter-ceo-poll/index.html)
@@ -321,6 +356,13 @@ In one of the most bizarre finishes to a NFL game you're ever likely to see, the
  - date published: 2022-12-19 10:49:55+00:00
 
 South African President Cyril Ramaphosa has been re-elected leader of the governing African National Congress (ANC) in a party leadership contest, the ANC said on Monday.
+
+## Why do India and China spar at the border?
+ - [https://www.cnn.com/videos/world/2022/12/19/india-china-border-dispute-lon-orig-na-mrg.cnn](https://www.cnn.com/videos/world/2022/12/19/india-china-border-dispute-lon-orig-na-mrg.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-19 10:43:16+00:00
+
+Two nuclear powers. One invisible line that separates them, high in the Himalayas. Decades of disputes over it. Here's what you need to know about the contested border between India and China.
 
 ## Lab-grown meat could be served up for dinner soon. What does it taste like?
  - [https://www.cnn.com/2022/12/19/business-food/lab-grown-meat-ivy-farm-climate/index.html](https://www.cnn.com/2022/12/19/business-food/lab-grown-meat-ivy-farm-climate/index.html)

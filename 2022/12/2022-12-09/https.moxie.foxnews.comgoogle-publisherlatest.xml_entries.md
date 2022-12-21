@@ -1,10 +1,9 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml
+# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
 
 ## Former Peruvian President Castillo's impeachment: a warning sign to Latin America's left
  - [https://www.foxnews.com/world/peru-president-pedro-castillo-impeachment-warning-sign-latin-american-left](https://www.foxnews.com/world/peru-president-pedro-castillo-impeachment-warning-sign-latin-american-left)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 23:59:01+00:00
- - tags: None
 
 Observers say President Pedro Castillo's impeachment by Peru's Congress this week sent a damning message to Latin America's left that attempts to play fast and loose with the rules will be met with a stern institutional response.
 
@@ -12,7 +11,6 @@ Observers say President Pedro Castillo's impeachment by Peru's Congress this wee
  - [https://www.foxnews.com/entertainment/sadie-sink-told-little-white-lie-stranger-things-creators-during-audition-process-max](https://www.foxnews.com/entertainment/sadie-sink-told-little-white-lie-stranger-things-creators-during-audition-process-max)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 23:34:36+00:00
- - tags: None
 
 Sadie Sink talked about the audition process for her role on "Stranger Things" during a recent interview. She also discussed the little white lie she told the show's creators.
 
@@ -20,7 +18,6 @@ Sadie Sink talked about the audition process for her role on "Stranger Things" d
  - [https://www.foxnews.com/us/aspen-jeter-found-safe-going-missing-thanksgiving-father-arrested-murder](https://www.foxnews.com/us/aspen-jeter-found-safe-going-missing-thanksgiving-father-arrested-murder)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 23:32:04+00:00
- - tags: None
 
 Aspen Jeter, a 5-year-old South Carolina girl who went missing in late November, was found safe Friday after authorities discovered her in a Virginia parking lot with her father.
 
@@ -28,7 +25,6 @@ Aspen Jeter, a 5-year-old South Carolina girl who went missing in late November,
  - [https://www.foxnews.com/media/detransitioning-woman-left-heartbroken-irreversible-surgery-manipulated](https://www.foxnews.com/media/detransitioning-woman-left-heartbroken-irreversible-surgery-manipulated)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 23:30:11+00:00
- - tags: None
 
 Prisha Mosley shares her experience detransitioning after enduring irreversible gender-altering treatments and speaks out on transgender messages for young girls.
 
@@ -36,7 +32,6 @@ Prisha Mosley shares her experience detransitioning after enduring irreversible 
  - [https://www.foxnews.com/media/twitter-files-part-3-reveals-what-led-trumps-removal-social-media-platform](https://www.foxnews.com/media/twitter-files-part-3-reveals-what-led-trumps-removal-social-media-platform)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 23:26:12+00:00
- - tags: None
 
 Substack writer Matt Taibbi reported on the third installment of the "Twitter Files" that revealed what led to the removal of former President Trump from the platform.
 
@@ -44,7 +39,6 @@ Substack writer Matt Taibbi reported on the third installment of the "Twitter Fi
  - [https://www.foxnews.com/us/congresswoman-tenney-introduces-bill-redirect-irs-funding-southern-border-expiration-title-42](https://www.foxnews.com/us/congresswoman-tenney-introduces-bill-redirect-irs-funding-southern-border-expiration-title-42)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 23:25:49+00:00
- - tags: None
 
 Rep. Claudia Tenney, R-N.Y., has introduced legislation to use increased spending on the IRS for strengthening the southern border instead.
 
@@ -52,7 +46,6 @@ Rep. Claudia Tenney, R-N.Y., has introduced legislation to use increased spendin
  - [https://www.foxnews.com/media/jesse-watters-twitter-files-biggest-scandal-ever-lived-through](https://www.foxnews.com/media/jesse-watters-twitter-files-biggest-scandal-ever-lived-through)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 23:09:44+00:00
- - tags: None
 
 Fox News host Jesse Watters reacts to the 'Twitter Files' and explains the impact censorship has on democracy on Friday's "The Five."
 
@@ -60,7 +53,6 @@ Fox News host Jesse Watters reacts to the 'Twitter Files' and explains the impac
  - [https://www.foxnews.com/sports/albanian-long-jumper-accused-using-false-information-order-qualify-olympics](https://www.foxnews.com/sports/albanian-long-jumper-accused-using-false-information-order-qualify-olympics)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 23:01:39+00:00
- - tags: None
 
 Albanian long jumper Izmir Smajlaj and two Albanian Athletics Federation officials have been suspended after being accused of using false information to secure an Olympic spot.
 
@@ -68,7 +60,6 @@ Albanian long jumper Izmir Smajlaj and two Albanian Athletics Federation officia
  - [https://www.foxnews.com/sports/world-cup-2022-argentina-advances-to-the-semifinals-after-defeating-netherlands](https://www.foxnews.com/sports/world-cup-2022-argentina-advances-to-the-semifinals-after-defeating-netherlands)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 23:00:48+00:00
- - tags: None
 
 For only the second time since 1990, Argentina will play in the World Cup semifinals after the team beat the Netherlands 4-3 in a penalty shootout Friday.
 
@@ -76,7 +67,6 @@ For only the second time since 1990, Argentina will play in the World Cup semifi
  - [https://www.foxnews.com/us/connecticut-man-vanished-nearly-decade-ago-found-dead-new-york-home-different-name](https://www.foxnews.com/us/connecticut-man-vanished-nearly-decade-ago-found-dead-new-york-home-different-name)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 22:55:05+00:00
- - tags: None
 
 A Connecticut man missing for nearly a decade was found dead in New York living under a different name, authorities said.
 
@@ -84,7 +74,6 @@ A Connecticut man missing for nearly a decade was found dead in New York living 
  - [https://www.foxnews.com/us/idaho-murders-fox-news-takes-inside-look-state-police-crime-lab-investigation-nears-one-month](https://www.foxnews.com/us/idaho-murders-fox-news-takes-inside-look-state-police-crime-lab-investigation-nears-one-month)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 22:55:04+00:00
- - tags: None
 
 University of Idaho students Ethan Chapin, 20; Kaylee Goncalves, 21; Xana Kernodle, 20; and Madison Mogen, 21, were stabbed several times and killed on Nov. 13.
 
@@ -92,7 +81,6 @@ University of Idaho students Ethan Chapin, 20; Kaylee Goncalves, 21; Xana Kernod
  - [https://www.foxnews.com/us/new-york-city-strongly-urges-masks-high-levels-covid-flu-rsv](https://www.foxnews.com/us/new-york-city-strongly-urges-masks-high-levels-covid-flu-rsv)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 22:33:08+00:00
- - tags: None
 
 The New York City Department of Heath is urging residents to wear a high quality mask amid “high levels of COVID-19, flu and RSV," according to a press release.
 
@@ -100,7 +88,6 @@ The New York City Department of Heath is urging residents to wear a high quality
  - [https://www.foxnews.com/media/ex-twitter-ceo-jack-dorsey-liberal-media-members-denied-shadow-banning-prior-elon-musk-leak](https://www.foxnews.com/media/ex-twitter-ceo-jack-dorsey-liberal-media-members-denied-shadow-banning-prior-elon-musk-leak)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 22:29:14+00:00
- - tags: None
 
 Ex-Twitter CEO Jack Dorsey and company executives, in tandem with the liberal media, repeatedly told users the social media site didn't engage in "shadow banning."
 
@@ -108,7 +95,6 @@ Ex-Twitter CEO Jack Dorsey and company executives, in tandem with the liberal me
  - [https://www.foxnews.com/entertainment/kenny-chesney-honors-late-dog-ruby-release-song-da-ruba-girl](https://www.foxnews.com/entertainment/kenny-chesney-honors-late-dog-ruby-release-song-da-ruba-girl)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 22:24:33+00:00
- - tags: None
 
 Kenny Chesney on Friday released "Da Ruba Girl" in honor of his dog Ruby, who just recently died. The country singer-songwriter will be donating the proceeds from the song to Stray Rescue of St. Louis.
 
@@ -116,7 +102,6 @@ Kenny Chesney on Friday released "Da Ruba Girl" in honor of his dog Ruby, who ju
  - [https://www.foxnews.com/entertainment/luke-bryan-wife-caroline-celebrate-16th-anniversary](https://www.foxnews.com/entertainment/luke-bryan-wife-caroline-celebrate-16th-anniversary)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 22:18:22+00:00
- - tags: None
 
 Country star Luke Bryan and his wife Caroline are celebrating their 16th wedding anniversary. The couple married in 2006 and have two sons, Thomas and Tatum.
 
@@ -124,7 +109,6 @@ Country star Luke Bryan and his wife Caroline are celebrating their 16th wedding
  - [https://www.foxnews.com/tech/air-force-laying-groundwork-changes-bomber-fleet](https://www.foxnews.com/tech/air-force-laying-groundwork-changes-bomber-fleet)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 22:01:09+00:00
- - tags: None
 
 Following the unveiling of the B-21 Raider last week, the U.S. Air Force is reportedly planning a series of alterations to its bomber fleet in coming years.
 
@@ -132,7 +116,6 @@ Following the unveiling of the B-21 Raider last week, the U.S. Air Force is repo
  - [https://www.foxnews.com/media/mike-pence-blasts-biden-ill-advised-trade-russian-arms-dealer-brittney-griner-release](https://www.foxnews.com/media/mike-pence-blasts-biden-ill-advised-trade-russian-arms-dealer-brittney-griner-release)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 22:00:18+00:00
- - tags: None
 
 Former Vice President Mike Pence on Friday reacted to the prisoner swap President Biden negotiated with Russia for the release of U.S. basketball star Brittney Griner.
 
@@ -140,7 +123,6 @@ Former Vice President Mike Pence on Friday reacted to the prisoner swap Presiden
  - [https://www.foxnews.com/entertainment/avatar-director-james-cameron-disses-marvel-films-says-special-effects-arent-even-close](https://www.foxnews.com/entertainment/avatar-director-james-cameron-disses-marvel-films-says-special-effects-arent-even-close)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 21:58:11+00:00
- - tags: None
 
 James Cameron shared his thoughts on Marvel films' special effects. The "Avatar" director claimed the Marvel films aren't "even close" to being as good as his sequel.
 
@@ -148,7 +130,6 @@ James Cameron shared his thoughts on Marvel films' special effects. The "Avatar"
  - [https://www.foxnews.com/media/nbc-news-issues-correction-reporting-biden-choice-between-griner-whelan-prisoner-swap](https://www.foxnews.com/media/nbc-news-issues-correction-reporting-biden-choice-between-griner-whelan-prisoner-swap)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 21:55:03+00:00
- - tags: None
 
 NBC News issued a correction after reporting President Biden could have received Paul Whelan, instead of Brittney Griner, in the controversial trade for Viktor Bout.
 
@@ -156,7 +137,6 @@ NBC News issued a correction after reporting President Biden could have received
  - [https://www.foxnews.com/politics/university-washington-sued-withholding-docs-detailing-professors-alleged-role-dhs-disinfo-campaign](https://www.foxnews.com/politics/university-washington-sued-withholding-docs-detailing-professors-alleged-role-dhs-disinfo-campaign)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 21:46:01+00:00
- - tags: None
 
 A watchdog group sued the University of Washington for its failure to provide documents on how one of its professors allegedly coordinated with DHS on disinformation.
 
@@ -164,7 +144,6 @@ A watchdog group sued the University of Washington for its failure to provide do
  - [https://www.foxnews.com/politics/aoc-hits-sinema-leaving-democratic-party-registering-independent](https://www.foxnews.com/politics/aoc-hits-sinema-leaving-democratic-party-registering-independent)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 21:38:34+00:00
- - tags: None
 
 Rep. Alexandria Ocasio-Cortez, D-N.Y. criticized Sen. Kyrsten Sinema after the Arizona senator announced her decision to become independent.
 
@@ -172,7 +151,6 @@ Rep. Alexandria Ocasio-Cortez, D-N.Y. criticized Sen. Kyrsten Sinema after the A
  - [https://www.foxnews.com/us/florida-man-accused-tossing-kittens-suv-highway-sheriff-says](https://www.foxnews.com/us/florida-man-accused-tossing-kittens-suv-highway-sheriff-says)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 21:35:13+00:00
- - tags: None
 
 A Florida man is accused of tossing two kittens out of a moving SUV. One of them later died after being hit by a car, the Monroe County Sheriff's Office said.
 
@@ -180,7 +158,6 @@ A Florida man is accused of tossing two kittens out of a moving SUV. One of them
  - [https://www.foxnews.com/entertainment/taylor-swift-directing-debut-original-feature-length-film](https://www.foxnews.com/entertainment/taylor-swift-directing-debut-original-feature-length-film)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 21:30:48+00:00
- - tags: None
 
 Taylor Swift will direct her first feature-length film after writing an original script, according to a press release. The "Anti Hero" singer's film will be produced by Searchlight Pictures.
 
@@ -188,7 +165,6 @@ Taylor Swift will direct her first feature-length film after writing an original
  - [https://www.foxnews.com/science/chinas-capabilities-pose-potential-threat-american-space-assets-us-military-general-says](https://www.foxnews.com/science/chinas-capabilities-pose-potential-threat-american-space-assets-us-military-general-says)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 21:28:55+00:00
- - tags: None
 
 The leader of U.S. military operations in space cautioned Friday that China is continuing to build capabilities that potentially threaten American assets in space.
 
@@ -196,7 +172,6 @@ The leader of U.S. military operations in space cautioned Friday that China is c
  - [https://www.foxnews.com/sports/russia-state-television-mocks-u-s-for-brittney-griner-prisoner-exchange](https://www.foxnews.com/sports/russia-state-television-mocks-u-s-for-brittney-griner-prisoner-exchange)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 21:17:03+00:00
- - tags: None
 
 Russian state television mocked the United States for its deal with Russia, exchanging WNBA player Brittney Griner for Russian arms dealer Viktor Bout.
 
@@ -204,7 +179,6 @@ Russian state television mocked the United States for its deal with Russia, exch
  - [https://www.foxnews.com/politics/senator-elect-fetterman-cast-christian-bale-western-movie-face-fits-1830s](https://www.foxnews.com/politics/senator-elect-fetterman-cast-christian-bale-western-movie-face-fits-1830s)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 21:03:06+00:00
- - tags: None
 
 John Fetterman, lieutenant governor and Senator-elect in Pennsylvania, will have a cameo in Netflix's new 1800s period film alongside well-known actor Christian Bale.
 
@@ -212,7 +186,6 @@ John Fetterman, lieutenant governor and Senator-elect in Pennsylvania, will have
  - [https://www.foxnews.com/us/elk-rapids-michigan-village-manager-resigns-following-investigation-32k-payroll-error](https://www.foxnews.com/us/elk-rapids-michigan-village-manager-resigns-following-investigation-32k-payroll-error)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 21:01:12+00:00
- - tags: None
 
 Elk Rapids, Mich., Village Manager Bryan Gruesbeck has resigned following an investigation into his mismanagement of $32,000 in payments to public employees.
 
@@ -220,7 +193,6 @@ Elk Rapids, Mich., Village Manager Bryan Gruesbeck has resigned following an inv
  - [https://www.foxnews.com/media/kyrsten-sinema-praised-by-musk-acting-in-interests-of-people](https://www.foxnews.com/media/kyrsten-sinema-praised-by-musk-acting-in-interests-of-people)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 21:00:35+00:00
- - tags: None
 
 Arizona Senator Kyrsten Sinema was hailed by Twitter owner Elon Musk on Friday for leaving the Democratic Party to register as an Independent.
 
@@ -228,7 +200,6 @@ Arizona Senator Kyrsten Sinema was hailed by Twitter owner Elon Musk on Friday f
  - [https://www.foxnews.com/politics/joe-manchin-next-strategists-west-virginian-isnt-leave-democratic-party](https://www.foxnews.com/politics/joe-manchin-next-strategists-west-virginian-isnt-leave-democratic-party)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 20:54:43+00:00
- - tags: None
 
 Will Manchin follow Kyrsten Sinema and abandon his party and toe a more independent line? Political strategists say that likelihood is as probable as the sun rising in the west.
 
@@ -236,7 +207,6 @@ Will Manchin follow Kyrsten Sinema and abandon his party and toe a more independ
  - [https://www.foxnews.com/politics/biden-administration-sending-million-air-defense-military-aid-ukraine](https://www.foxnews.com/politics/biden-administration-sending-million-air-defense-military-aid-ukraine)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 20:54:22+00:00
- - tags: None
 
 The Biden administration will send Ukraine $275 million in military aid to support the country in its war with Russia.
 
@@ -244,7 +214,6 @@ The Biden administration will send Ukraine $275 million in military aid to suppo
  - [https://www.foxnews.com/politics/schumer-sinema-flip-wont-affect-dem-control-senate-subpoena-power-intact](https://www.foxnews.com/politics/schumer-sinema-flip-wont-affect-dem-control-senate-subpoena-power-intact)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 20:53:24+00:00
- - tags: None
 
 Senate Majority Leader Chuck Schumer said Sen. Kyrsten Sinema's exit from the Democratic Party would have little impact on the chamber's business next Congress.
 
@@ -252,7 +221,6 @@ Senate Majority Leader Chuck Schumer said Sen. Kyrsten Sinema's exit from the De
  - [https://www.foxnews.com/us/florida-man-sets-police-car-fire-claims-does-stupid-things-when-gets-drunk-police](https://www.foxnews.com/us/florida-man-sets-police-car-fire-claims-does-stupid-things-when-gets-drunk-police)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 20:52:40+00:00
- - tags: None
 
 A Florida man allegedly set a sheriff's office patrol car on fire while he was drunk, and then proceeded to go back to the bar after setting the vehicle on fire.
 
@@ -260,7 +228,6 @@ A Florida man allegedly set a sheriff's office patrol car on fire while he was d
  - [https://www.foxnews.com/world/putin-says-one-missile-trigger-hundreds-warheads-stark-message-nuclear-deterrence](https://www.foxnews.com/world/putin-says-one-missile-trigger-hundreds-warheads-stark-message-nuclear-deterrence)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 20:51:31+00:00
- - tags: None
 
 Russian President Vladimir Putin drew international attention after he warned that even one missile on Russian territory would be met with 'hundreds' of warheads amid an address on nuclear deterrence.
 
@@ -268,7 +235,6 @@ Russian President Vladimir Putin drew international attention after he warned th
  - [https://www.foxnews.com/us/hundreds-seattle-businesses-file-relief-funds-pay-storefronts-damaged-thieves](https://www.foxnews.com/us/hundreds-seattle-businesses-file-relief-funds-pay-storefronts-damaged-thieves)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 20:43:34+00:00
- - tags: None
 
 More than 400 Seattle businesses have filed to receive assistance to repair damages to their storefronts as business owners continue to speak out about rising crime.
 
@@ -276,7 +242,6 @@ More than 400 Seattle businesses have filed to receive assistance to repair dama
  - [https://www.foxnews.com/us/wisconsin-gov-evers-announces-resignation-health-secretary-karen-timberlake](https://www.foxnews.com/us/wisconsin-gov-evers-announces-resignation-health-secretary-karen-timberlake)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 20:06:39+00:00
- - tags: None
 
 Karen Timberlake, Wisconsin's state health secretary for the past two years, will be resigning from her post, Democratic Gov. Tony Evers announced Friday.
 
@@ -284,7 +249,6 @@ Karen Timberlake, Wisconsin's state health secretary for the past two years, wil
  - [https://www.foxnews.com/us/louisiana-good-samaritans-rescue-family-trapped-sinking-car](https://www.foxnews.com/us/louisiana-good-samaritans-rescue-family-trapped-sinking-car)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 20:03:28+00:00
- - tags: None
 
 Two Good Samaritans rescued a Louisiana family trapped in their vehicle after it began to sink.
 
@@ -292,7 +256,6 @@ Two Good Samaritans rescued a Louisiana family trapped in their vehicle after it
  - [https://www.foxnews.com/opinion/democrats-push-expand-social-security-isnt-fair-taxpayer](https://www.foxnews.com/opinion/democrats-push-expand-social-security-isnt-fair-taxpayer)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 20:00:07+00:00
- - tags: None
 
 Our fellow English-speaking countries provide valuable lessons in forging sustainable retirement programs and building adequate retirement incomes.
 
@@ -300,7 +263,6 @@ Our fellow English-speaking countries provide valuable lessons in forging sustai
  - [https://www.foxnews.com/us/man-long-beach-california-seen-lighting-american-flags-fire-arrest](https://www.foxnews.com/us/man-long-beach-california-seen-lighting-american-flags-fire-arrest)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 19:51:41+00:00
- - tags: None
 
 A suspect has been arrested for allegedly burning United States and military flags at private homes along a pair of streets in Long Beach, California.
 
@@ -308,7 +270,6 @@ A suspect has been arrested for allegedly burning United States and military fla
  - [https://www.foxnews.com/lifestyle/long-lost-letters-returned-family-sailor-killed-pearl-harbor](https://www.foxnews.com/lifestyle/long-lost-letters-returned-family-sailor-killed-pearl-harbor)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 19:41:07+00:00
- - tags: None
 
 The Fox News Lifestyle Newsletter brings you trending stories on family, travel, food, neighbors helping neighbors, pets, autos, military veterans, heroes, faith and American values.
 
@@ -316,7 +277,6 @@ The Fox News Lifestyle Newsletter brings you trending stories on family, travel,
  - [https://www.foxnews.com/politics/nonbinary-biden-official-sam-brinton-accused-grand-larceny-separate-theft-charges](https://www.foxnews.com/politics/nonbinary-biden-official-sam-brinton-accused-grand-larceny-separate-theft-charges)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 19:40:09+00:00
- - tags: None
 
 Sam Brinton, the nonbinary Energy Department official who leads nuclear waste policy, was charged with grand larceny of an item valued between $1,200 and $5,000 this week.
 
@@ -324,7 +284,6 @@ Sam Brinton, the nonbinary Energy Department official who leads nuclear waste po
  - [https://www.foxnews.com/us/case-against-abortionist-intentionally-defied-texas-law-dismissed](https://www.foxnews.com/us/case-against-abortionist-intentionally-defied-texas-law-dismissed)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 19:33:35+00:00
- - tags: None
 
 Dr. Alan Braid of Texas, who wrote in the Washington Post that he had knowingly violated the state's strict anti-abortion law, has had a significant legal case against him dismissed.
 
@@ -332,7 +291,6 @@ Dr. Alan Braid of Texas, who wrote in the Washington Post that he had knowingly 
  - [https://www.foxnews.com/us/george-floyd-killing-former-minneapolis-police-officer-j-alexander-kueng-sentenced-3-5-years](https://www.foxnews.com/us/george-floyd-killing-former-minneapolis-police-officer-j-alexander-kueng-sentenced-3-5-years)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 19:29:30+00:00
- - tags: None
 
 The former Minneapolis, Minnesota, police officer seen kneeling on George Floyd while he was being restrained has been sentenced on a state manslaughter charge.
 
@@ -340,7 +298,6 @@ The former Minneapolis, Minnesota, police officer seen kneeling on George Floyd 
  - [https://www.foxnews.com/us/suspect-chicago-area-police-shootout-pronounced-dead](https://www.foxnews.com/us/suspect-chicago-area-police-shootout-pronounced-dead)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 19:29:12+00:00
- - tags: None
 
 The armed robbery suspect previously reported as wounded after exchanging fire with a Lombard, Ill., police officer has died, according to authorities.
 
@@ -348,7 +305,6 @@ The armed robbery suspect previously reported as wounded after exchanging fire w
  - [https://www.foxnews.com/politics/fbi-investigating-unusual-suspect-israel](https://www.foxnews.com/politics/fbi-investigating-unusual-suspect-israel)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 19:19:06+00:00
- - tags: None
 
 The FBI is investigating the Israeli Defense Forces (IDF) after a Palestinian-American journalist was killed in the West Bank seven months ago, sparking controversy.
 
@@ -356,7 +312,6 @@ The FBI is investigating the Israeli Defense Forces (IDF) after a Palestinian-Am
  - [https://www.foxnews.com/politics/fox-news-crew-witnesses-dramatic-human-smuggling-busts-texas-authorities](https://www.foxnews.com/politics/fox-news-crew-witnesses-dramatic-human-smuggling-busts-texas-authorities)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 19:12:06+00:00
- - tags: None
 
 Texas Department of Public Safety stopped a number of illegal immigrants seeking to escape into the U.S. interior this week, amid a historic number of gotaways.
 
@@ -364,7 +319,6 @@ Texas Department of Public Safety stopped a number of illegal immigrants seeking
  - [https://www.foxnews.com/health/ozempic-diabetes-drug-shortage-endorsements](https://www.foxnews.com/health/ozempic-diabetes-drug-shortage-endorsements)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 18:54:13+00:00
- - tags: None
 
 Danish drugmaker Novo Nordisk said the diabetes drug Ozempic is facing a shortage following "incredible demand" as well as the impact of global supply constraints.
 
@@ -372,7 +326,6 @@ Danish drugmaker Novo Nordisk said the diabetes drug Ozempic is facing a shortag
  - [https://www.foxnews.com/politics/2024-watch-john-bolton-says-he-runs-president-win-it](https://www.foxnews.com/politics/2024-watch-john-bolton-says-he-runs-president-win-it)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 18:51:28+00:00
- - tags: None
 
 Former national security adviser John Bolton says that if he decides to run for the 2024 Republican presidential nomination, “I would get in to win it, not simply to make a point"
 
@@ -380,7 +333,6 @@ Former national security adviser John Bolton says that if he decides to run for 
  - [https://www.foxnews.com/auto/review-2023-toyota-sequoia-hybrid-suv](https://www.foxnews.com/auto/review-2023-toyota-sequoia-hybrid-suv)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 18:46:28+00:00
- - tags: None
 
 The all-new 2023 Toyota Sequoia comes with a powerful hybrid powertrain that improves its performance and fuel economy significantly compared to the model it replaces.
 
@@ -388,7 +340,6 @@ The all-new 2023 Toyota Sequoia comes with a powerful hybrid powertrain that imp
  - [https://www.foxnews.com/media/cbs-gayle-king-rips-very-messy-t-j-holmes-amy-robach-affair-abc](https://www.foxnews.com/media/cbs-gayle-king-rips-very-messy-t-j-holmes-amy-robach-affair-abc)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 18:44:51+00:00
- - tags: None
 
 Gayle King called the cheating scandal inside ABC News "very messy and very sloppy," expressing concern for kids involved in T.J. Holmes and Amy Robach’s affair.
 
@@ -396,7 +347,6 @@ Gayle King called the cheating scandal inside ABC News "very messy and very slop
  - [https://www.foxnews.com/entertainment/ron-perlman-compares-acting-having-sex-very-intimate](https://www.foxnews.com/entertainment/ron-perlman-compares-acting-having-sex-very-intimate)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 18:41:43+00:00
- - tags: None
 
 Actor Ron Perlman, 72, during a recent interview in Saudi Arabia for a movie screening, talked about how he believed acting was very similar to having sex.
 
@@ -404,7 +354,6 @@ Actor Ron Perlman, 72, during a recent interview in Saudi Arabia for a movie scr
  - [https://www.foxnews.com/politics/ex-twitter-counsel-james-bakers-wife-registered-voters-hillary-clinton-2016-posts-reveal](https://www.foxnews.com/politics/ex-twitter-counsel-james-bakers-wife-registered-voters-hillary-clinton-2016-posts-reveal)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 18:39:23+00:00
- - tags: None
 
 The wife of James Baker, the Twitter lawyer fired by Elon Musk for his role in suppressing the Hunter Biden laptop story, registered voters for Hillary Clinton in 2016.
 
@@ -412,7 +361,6 @@ The wife of James Baker, the Twitter lawyer fired by Elon Musk for his role in s
  - [https://www.foxnews.com/world/maria-butina-russian-state-tv-praise-vladimir-putin-for-bout-griner-prisoner-swap](https://www.foxnews.com/world/maria-butina-russian-state-tv-praise-vladimir-putin-for-bout-griner-prisoner-swap)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 18:33:25+00:00
- - tags: None
 
 Russia state media and lawmakers are praising Vladimir Putin for orchestrating the Viktor Bout-Brittney Griner prisoner swap with the U.S., saying America has “shown its defeat.”
 
@@ -420,7 +368,6 @@ Russia state media and lawmakers are praising Vladimir Putin for orchestrating t
  - [https://www.foxnews.com/us/suspected-nyc-baseball-bat-attacker-released-7500-bail-day-brutal-assault](https://www.foxnews.com/us/suspected-nyc-baseball-bat-attacker-released-7500-bail-day-brutal-assault)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 18:24:17+00:00
- - tags: None
 
 The baseball bat-wielding suspect in a brazen attack in New York City was released from jail on just $7,500 bail less than 24 hours after his arrest.
 
@@ -428,7 +375,6 @@ The baseball bat-wielding suspect in a brazen attack in New York City was releas
  - [https://www.foxnews.com/us/inside-violent-history-notorious-cartel-hitman-la-barbie-dropped-off-us-prison-rolls](https://www.foxnews.com/us/inside-violent-history-notorious-cartel-hitman-la-barbie-dropped-off-us-prison-rolls)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 18:16:44+00:00
- - tags: None
 
 Edgar Valdez Villarreal, 49, was serving a nearly 50-year prison sentence for drug trafficking when he seemingly disappeared from Bureau of Prisons custody.
 
@@ -436,7 +382,6 @@ Edgar Valdez Villarreal, 49, was serving a nearly 50-year prison sentence for dr
  - [https://www.foxnews.com/sports/world-cup-2022-croatia-eliminates-brazil-penalty-shootout-advancing-semifinals](https://www.foxnews.com/sports/world-cup-2022-croatia-eliminates-brazil-penalty-shootout-advancing-semifinals)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 18:09:26+00:00
- - tags: None
 
 Croatia defeated Brazil 4-2 in a penalty shootout on Friday to advance to semifinals of the World Cup.
 
@@ -444,7 +389,6 @@ Croatia defeated Brazil 4-2 in a penalty shootout on Friday to advance to semifi
  - [https://www.foxnews.com/politics/hunter-biden-seen-ritzy-nyc-art-gallery-selling-his-paintings-200k-ethics-concerns](https://www.foxnews.com/politics/hunter-biden-seen-ritzy-nyc-art-gallery-selling-his-paintings-200k-ethics-concerns)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 18:03:18+00:00
- - tags: None
 
 First Son Hunter Biden was spotted Friday at his ritzy SoHo art gallery exhibition with his family as a congressional ethics probe into his international business dealings looms.
 
@@ -452,7 +396,6 @@ First Son Hunter Biden was spotted Friday at his ritzy SoHo art gallery exhibiti
  - [https://www.foxnews.com/us/idaho-murders-convicted-killer-arrested-mile-from-university-stabbings](https://www.foxnews.com/us/idaho-murders-convicted-killer-arrested-mile-from-university-stabbings)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 18:03:03+00:00
- - tags: None
 
 Police arrested an ex-con killer this week just over a mile from the house where four University of Idaho students were killed in their sleep last month.
 
@@ -460,7 +403,6 @@ Police arrested an ex-con killer this week just over a mile from the house where
  - [https://www.foxnews.com/us/japan-investigating-repeated-assaults-inmates-local-prisons](https://www.foxnews.com/us/japan-investigating-repeated-assaults-inmates-local-prisons)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 18:01:35+00:00
- - tags: None
 
 An investigation has started regarding the repeated assaults at a prison in central Japan by inmates. The Nagoya Prison assaults on guards has led to a country-wide investigation.
 
@@ -468,7 +410,6 @@ An investigation has started regarding the repeated assaults at a prison in cent
  - [https://www.foxnews.com/tech/how-set-up-alexa-emergencies](https://www.foxnews.com/tech/how-set-up-alexa-emergencies)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 18:00:38+00:00
- - tags: None
 
 The CybeGuy shares Amazon Alexa's lesser-known security features to quickly assist in case of an emergency.
 
@@ -476,7 +417,6 @@ The CybeGuy shares Amazon Alexa's lesser-known security features to quickly assi
  - [https://www.foxnews.com/us/oregon-store-illegally-sold-psychedelic-mushrooms-raided](https://www.foxnews.com/us/oregon-store-illegally-sold-psychedelic-mushrooms-raided)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 17:56:49+00:00
- - tags: None
 
 An Oregon store that allegedly was selling psychedelic mushrooms was raided on Thursday. Authorities took about 22 pounds of suspected mushrooms and over $13,000 in cash.
 
@@ -484,7 +424,6 @@ An Oregon store that allegedly was selling psychedelic mushrooms was raided on T
  - [https://www.foxnews.com/entertainment/drew-barrymore-reveals-kids-dont-love-surprising-christmas-tradition](https://www.foxnews.com/entertainment/drew-barrymore-reveals-kids-dont-love-surprising-christmas-tradition)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 17:48:36+00:00
- - tags: None
 
 "Charlie's Angels" alum Drew Barrymore opened up about not giving her two daughters Christmas presents during the holidays and explained she rather gift them with "a life memory."
 
@@ -492,7 +431,6 @@ An Oregon store that allegedly was selling psychedelic mushrooms was raided on T
  - [https://www.foxnews.com/media/elon-musk-called-worst-boss-of-year-abuse-of-employees](https://www.foxnews.com/media/elon-musk-called-worst-boss-of-year-abuse-of-employees)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 17:45:47+00:00
- - tags: None
 
 Twitter CEO Elon Musk was attacked as the year's "worst boss" by a Washington Post advice columnist who accused him of working his employees too hard.
 
@@ -500,7 +438,6 @@ Twitter CEO Elon Musk was attacked as the year's "worst boss" by a Washington Po
  - [https://www.foxnews.com/entertainment/country-music-duo-dan-shay-celebrate-ten-years-since-first-meeting-sentimental-instagram-post](https://www.foxnews.com/entertainment/country-music-duo-dan-shay-celebrate-ten-years-since-first-meeting-sentimental-instagram-post)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 17:45:39+00:00
- - tags: None
 
 Dan+Shay posted a heartfelt slideshow on Instagram celebrating ten years of knowing each other. The country music duo has released many hit songs like "Tequila" and "Speechless."
 
@@ -508,7 +445,6 @@ Dan+Shay posted a heartfelt slideshow on Instagram celebrating ten years of know
  - [https://www.foxnews.com/us/northeastern-kansas-oil-spill-shuts-down-keystone-pipeline](https://www.foxnews.com/us/northeastern-kansas-oil-spill-shuts-down-keystone-pipeline)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 17:45:00+00:00
- - tags: None
 
 An oil spill in a creek in Washington County, Kansas, has led to the shutdown of the Keystone Pipeline, a key transporter of oil from Canada to the Gulf Coast.
 
@@ -516,7 +452,6 @@ An oil spill in a creek in Washington County, Kansas, has led to the shutdown of
  - [https://www.foxnews.com/lifestyle/baby-formula-shortage-continue-wreak-havoc-families-year-struggling](https://www.foxnews.com/lifestyle/baby-formula-shortage-continue-wreak-havoc-families-year-struggling)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 17:14:00+00:00
- - tags: None
 
 Louisiana mother-of-four Amber Bergeron joined "Fox & Friends First" to discuss how the ongoing baby formula shortage is impacting her family — and why she worries as the shortage continues.
 
@@ -524,7 +459,6 @@ Louisiana mother-of-four Amber Bergeron joined "Fox & Friends First" to discuss 
  - [https://www.foxnews.com/politics/democrats-propose-1-75b-abortion-travel-subsidy-to-get-around-extreme-state-laws](https://www.foxnews.com/politics/democrats-propose-1-75b-abortion-travel-subsidy-to-get-around-extreme-state-laws)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 17:13:31+00:00
- - tags: None
 
 A new Democratic bill would offer $1.75B in federal subsidies to travel to different states to get abortions, after the Supreme Court left abortion policy to the states.
 
@@ -532,7 +466,6 @@ A new Democratic bill would offer $1.75B in federal subsidies to travel to diffe
  - [https://www.foxnews.com/us/indiana-abortionist-drops-lawsuit-against-attorney-general](https://www.foxnews.com/us/indiana-abortionist-drops-lawsuit-against-attorney-general)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 17:13:15+00:00
- - tags: None
 
 Dr. Caitlin Bernard of Indianapolis dropped a lawsuit aiming to prevent state Attorney General Todd Rokita from investigating claims that she provided an abortion to a 10-year-old.
 
@@ -540,7 +473,6 @@ Dr. Caitlin Bernard of Indianapolis dropped a lawsuit aiming to prevent state At
  - [https://www.foxnews.com/politics/germany-fully-decoupling-russia-eyes-china-systemic-rival-german-foreign-minister](https://www.foxnews.com/politics/germany-fully-decoupling-russia-eyes-china-systemic-rival-german-foreign-minister)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 17:10:45+00:00
- - tags: None
 
 The foreign minister spoke with Fox News Digital at the Aspen Security Forum, about the impact of winter on Europe's energy supply while the Russia-Ukraine war is still ongoing.
 
@@ -548,7 +480,6 @@ The foreign minister spoke with Fox News Digital at the Aspen Security Forum, ab
  - [https://www.foxnews.com/us/experts-react-to-nyc-plan-to-involuntarily-commit-mentally-ill-homeless-band-aid-on-gaping-wound](https://www.foxnews.com/us/experts-react-to-nyc-plan-to-involuntarily-commit-mentally-ill-homeless-band-aid-on-gaping-wound)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 17:09:36+00:00
- - tags: None
 
 Several experts expressed concern to Fox News Digital after NYC Mayor Eric Adams announced a plan to combat homelessness and crime that includes involuntary commitments.
 
@@ -556,7 +487,6 @@ Several experts expressed concern to Fox News Digital after NYC Mayor Eric Adams
  - [https://www.foxnews.com/sports/rams-baker-mayfield-gives-electric-reaction-receiving-game-ball-after-thursday-night-comeback](https://www.foxnews.com/sports/rams-baker-mayfield-gives-electric-reaction-receiving-game-ball-after-thursday-night-comeback)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 17:02:40+00:00
- - tags: None
 
 Los Angeles Rams quarterback Baker Mayfield received the game ball after leading LA on a game-winning 98-yard drive to beat the Las Vegas Raiders Thursday night.
 
@@ -564,7 +494,6 @@ Los Angeles Rams quarterback Baker Mayfield received the game ball after leading
  - [https://www.foxnews.com/opinion/america-needs-u-turn-away-from-bidens-inflationary-over-spending](https://www.foxnews.com/opinion/america-needs-u-turn-away-from-bidens-inflationary-over-spending)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 17:00:54+00:00
- - tags: None
 
 Biden’s policies were expensive and inflationary. America needs to make a U-Turn away from his outlandish over-spending so we can restore prosperity.
 
@@ -572,7 +501,6 @@ Biden’s policies were expensive and inflationary. America needs to make a U-Tu
  - [https://www.foxnews.com/media/new-york-times-strike-union-leaders-blast-leadership-rally-claim-discrimination-demand-raises](https://www.foxnews.com/media/new-york-times-strike-union-leaders-blast-leadership-rally-claim-discrimination-demand-raises)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 17:00:48+00:00
- - tags: None
 
 Fox News Digital spoke with New York Times employees and union members who advocated pay increases and claimed the paper was discriminating against minorities.
 
@@ -580,7 +508,6 @@ Fox News Digital spoke with New York Times employees and union members who advoc
  - [https://www.foxnews.com/politics/gop-senator-hold-defense-nominees-dods-irresponsible-abortion-policy](https://www.foxnews.com/politics/gop-senator-hold-defense-nominees-dods-irresponsible-abortion-policy)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 17:00:11+00:00
- - tags: None
 
 Senator Tuberville is threatening to block Defense Department nominees until DOD rescinds its new abortion policy, which Tuberville said is 'irresponsible.'
 
@@ -588,7 +515,6 @@ Senator Tuberville is threatening to block Defense Department nominees until DOD
  - [https://www.foxnews.com/tech/new-technology-hurt-students-restricted-classrooms-educator-says](https://www.foxnews.com/tech/new-technology-hurt-students-restricted-classrooms-educator-says)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 17:00:03+00:00
- - tags: None
 
 Former English teacher, Peter Laffin, says schools should restrict technology in classrooms amid the emergence of Open AI's new artificial intelligence chatbot.
 
@@ -596,7 +522,6 @@ Former English teacher, Peter Laffin, says schools should restrict technology in
  - [https://www.foxnews.com/tech/how-flip-your-camera-zoom-using-facetime](https://www.foxnews.com/tech/how-flip-your-camera-zoom-using-facetime)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 16:00:22+00:00
- - tags: None
 
 Kurt “CyberGuy” Knutsson with a quick tip to make FaceTiime video calls look better, by zooming in, flipping and blurring your background. Just follow these steps.
 
@@ -604,7 +529,6 @@ Kurt “CyberGuy” Knutsson with a quick tip to make FaceTiime video calls look
  - [https://www.foxnews.com/world/bulgarian-lawmakers-approve-military-assistance-package-ukraine](https://www.foxnews.com/world/bulgarian-lawmakers-approve-military-assistance-package-ukraine)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 15:56:16+00:00
- - tags: None
 
 Lawmakers in Bulgaria approved a military assistance package for Ukraine as the war with Russia continues. The issue has caused controversy in the country.
 
@@ -612,7 +536,6 @@ Lawmakers in Bulgaria approved a military assistance package for Ukraine as the 
  - [https://www.foxnews.com/us/drug-addict-sentenced-5-years-prison-6-bank-robberies-new-hampshire-massachusetts](https://www.foxnews.com/us/drug-addict-sentenced-5-years-prison-6-bank-robberies-new-hampshire-massachusetts)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 15:55:41+00:00
- - tags: None
 
 A man who robbed six banks has been sentenced to nearly five years in prison. The man stole more than $25,000 total in Massachusetts and New Hampshire.
 
@@ -620,7 +543,6 @@ A man who robbed six banks has been sentenced to nearly five years in prison. Th
  - [https://www.foxnews.com/politics/disgraceful-abdication-potential-2024-contenders-slam-bidens-swap-wnba-player-merchant-of-death](https://www.foxnews.com/politics/disgraceful-abdication-potential-2024-contenders-slam-bidens-swap-wnba-player-merchant-of-death)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 15:54:27+00:00
- - tags: None
 
 Nikki Haley and Sen. Tim Scott slammed Biden's release of Russian arms trafficker Viktor Bout in order to free WNBA player Brittney Griner, as Marine veteran Paul Whelan remains in prison.
 
@@ -628,7 +550,6 @@ Nikki Haley and Sen. Tim Scott slammed Biden's release of Russian arms trafficke
  - [https://www.foxnews.com/politics/white-house-says-sinema-decision-doesnt-change-democratic-majority-calls-her-key-partner](https://www.foxnews.com/politics/white-house-says-sinema-decision-doesnt-change-democratic-majority-calls-her-key-partner)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 15:53:41+00:00
- - tags: None
 
 The Biden administration believes the Democratic Party's majority in the US Senate will remain effectively unchanged by Arizona Sen. Kyrsten Sinema's exit from the party.
 
@@ -636,7 +557,6 @@ The Biden administration believes the Democratic Party's majority in the US Sena
  - [https://www.foxnews.com/politics/texas-republican-proposes-bill-banning-children-under-18-from-social-media](https://www.foxnews.com/politics/texas-republican-proposes-bill-banning-children-under-18-from-social-media)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 15:51:52+00:00
- - tags: None
 
 A bill proposed by a Texas Republican lawmaker would prevent children under 18 from signing up for social media platforms and force companies to verify the ages of users.
 
@@ -644,7 +564,6 @@ A bill proposed by a Texas Republican lawmaker would prevent children under 18 f
  - [https://www.foxnews.com/auto/street-illegal-million-ford-gt-mk-iv-supercar](https://www.foxnews.com/auto/street-illegal-million-ford-gt-mk-iv-supercar)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 15:48:44+00:00
- - tags: None
 
 The Ford GT MK IV is a track-only version of the mid-engine supercar that features an engine with over 800 horsepower and racing-style bodywork.
 
@@ -652,7 +571,6 @@ The Ford GT MK IV is a track-only version of the mid-engine supercar that featur
  - [https://www.foxnews.com/lifestyle/washington-family-6-sons-erupts-excitement-gender-reveal-7th-child-pure-shock](https://www.foxnews.com/lifestyle/washington-family-6-sons-erupts-excitement-gender-reveal-7th-child-pure-shock)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 15:46:16+00:00
- - tags: None
 
 Washington mother and father Sarah and Tim Molitor were surprised when they found out they'll be welcoming a baby girl. The pair are currently parents to six boys.
 
@@ -660,7 +578,6 @@ Washington mother and father Sarah and Tim Molitor were surprised when they foun
  - [https://www.foxnews.com/entertainment/tim-allen-remembers-kirstie-alley-praises-standing-up-to-critics](https://www.foxnews.com/entertainment/tim-allen-remembers-kirstie-alley-praises-standing-up-to-critics)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 15:45:00+00:00
- - tags: None
 
 Kristie Allen's "For Richer or Poorer" co-star Tim Allen praised the late actress after her death on Monday at the age of 71.
 
@@ -668,7 +585,6 @@ Kristie Allen's "For Richer or Poorer" co-star Tim Allen praised the late actres
  - [https://www.foxnews.com/us/wvu-institute-technology-appoints-new-campus-president](https://www.foxnews.com/us/wvu-institute-technology-appoints-new-campus-president)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 15:43:51+00:00
- - tags: None
 
 West Virginia University Institute of Technology has named their new campus president. T. Ramon Stuart will begin on Jan. 1 after moving from Georgia back to West Virginia.
 
@@ -676,7 +592,6 @@ West Virginia University Institute of Technology has named their new campus pres
  - [https://www.foxnews.com/politics/sinemas-exit-democrats-complicate-efforts-organize-senate](https://www.foxnews.com/politics/sinemas-exit-democrats-complicate-efforts-organize-senate)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 15:02:22+00:00
- - tags: None
 
 Arizona Sen. Kyrsten Sinema's exit from the Democratic Party could complicate Majority Leader Chuck Schumer's efforts to organize the Senate ahead of the next Congress.
 
@@ -684,7 +599,6 @@ Arizona Sen. Kyrsten Sinema's exit from the Democratic Party could complicate Ma
  - [https://www.foxnews.com/opinion/can-elon-musk-break-news](https://www.foxnews.com/opinion/can-elon-musk-break-news)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 15:00:30+00:00
- - tags: None
 
 Elon Musk doesn't just break news, he also is attempting to break the legacy media's grip on news itself.
 
@@ -692,7 +606,6 @@ Elon Musk doesn't just break news, he also is attempting to break the legacy med
  - [https://www.foxnews.com/world/schools-sri-lanka-close-poor-air-quality](https://www.foxnews.com/world/schools-sri-lanka-close-poor-air-quality)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 14:58:02+00:00
- - tags: None
 
 Sri Lanka schools were forced to close due to poor air quality in the country. The poor air quality was caused by weather conditions and pollution.
 
@@ -700,7 +613,6 @@ Sri Lanka schools were forced to close due to poor air quality in the country. T
  - [https://www.foxnews.com/us/avian-influenza-outbreak-underway-mississippi](https://www.foxnews.com/us/avian-influenza-outbreak-underway-mississippi)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 14:55:56+00:00
- - tags: None
 
 An avian influenza outbreak is on the rise in Mississippi. Wildlife regulators warned hunters about sick and dead birds that could be infectious. Hunters were encouraged to wear gloves.
 
@@ -708,7 +620,6 @@ An avian influenza outbreak is on the rise in Mississippi. Wildlife regulators w
  - [https://www.foxnews.com/us/north-carolina-power-outage-moore-county-investigation-police-fbi](https://www.foxnews.com/us/north-carolina-power-outage-moore-county-investigation-police-fbi)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 14:46:58+00:00
- - tags: None
 
 The investigation into the attack on two electrical substations in Moore County, North Carolina, is now focusing on search warrants and cell phone records, reports say.
 
@@ -716,7 +627,6 @@ The investigation into the attack on two electrical substations in Moore County,
  - [https://www.foxnews.com/entertainment/celine-dion-incurable-neurological-disorder-diagnosis-aerosmith-cancels-final-shows-vegas](https://www.foxnews.com/entertainment/celine-dion-incurable-neurological-disorder-diagnosis-aerosmith-cancels-final-shows-vegas)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 14:41:29+00:00
- - tags: None
 
 The Fox News Entertainment newsletter brings you the latest Hollywood headlines, celebrity interviews and stories from Los Angeles and beyond.
 
@@ -724,7 +634,6 @@ The Fox News Entertainment newsletter brings you the latest Hollywood headlines,
  - [https://www.foxnews.com/politics/bipartisan-immigration-framework-includes-border-patrol-pay-hike-visa-recapture](https://www.foxnews.com/politics/bipartisan-immigration-framework-includes-border-patrol-pay-hike-visa-recapture)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 14:40:41+00:00
- - tags: None
 
 The immigration framework being discussed as a potential last-minute deal in the lame duck session would hike Border Patrol pay by 14% and recapture employment visas.
 
@@ -732,7 +641,6 @@ The immigration framework being discussed as a potential last-minute deal in the
  - [https://www.foxnews.com/media/dan-bongino-rips-liberal-hacks-elon-musk-exposed-twitter-shadow-ban-account](https://www.foxnews.com/media/dan-bongino-rips-liberal-hacks-elon-musk-exposed-twitter-shadow-ban-account)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 14:40:20+00:00
- - tags: None
 
 'Unfiltered' host Dan Bongino calls out liberal media for rejecting his claims about shadow bans after new Twitter files reveal certain conservatives were blacklisted.
 
@@ -740,7 +648,6 @@ The immigration framework being discussed as a potential last-minute deal in the
  - [https://www.foxnews.com/world/moscow-shopping-mall-ignites-flames-killing-1-man](https://www.foxnews.com/world/moscow-shopping-mall-ignites-flames-killing-1-man)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 14:36:16+00:00
- - tags: None
 
 A fire broke out in a Moscow shopping mall on Friday, resulting in the death of one man. Authorities said the cause of the fire was from welding that violated safety regulations.
 
@@ -748,7 +655,6 @@ A fire broke out in a Moscow shopping mall on Friday, resulting in the death of 
  - [https://www.foxnews.com/us/chicago-area-cop-suspected-robber-injured-shootout](https://www.foxnews.com/us/chicago-area-cop-suspected-robber-injured-shootout)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 14:35:00+00:00
- - tags: None
 
 A police officer and armed robbery suspect were both injured Thursday following a shootout stemming from an armed robbery call at a Lombard, Ill., smoke shop.
 
@@ -756,7 +662,6 @@ A police officer and armed robbery suspect were both injured Thursday following 
  - [https://www.foxnews.com/world/kosovo-police-officer-injured-gunman-police-increase-presence-4-ethnic-serb-dominated-communes](https://www.foxnews.com/world/kosovo-police-officer-injured-gunman-police-increase-presence-4-ethnic-serb-dominated-communes)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 13:58:14+00:00
- - tags: None
 
 A police officer suffered a minor injury after being struck by a gunman in Kosovo. The officers' car was also damaged in the shooting. Police are investigating the case.
 
@@ -764,7 +669,6 @@ A police officer suffered a minor injury after being struck by a gunman in Kosov
  - [https://www.foxnews.com/us/maryland-court-upholds-murder-conviction-2017-university-stabbing-black-man](https://www.foxnews.com/us/maryland-court-upholds-murder-conviction-2017-university-stabbing-black-man)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 13:56:43+00:00
- - tags: None
 
 A Maryland court upholds the murder conviction of a white man for the 2017 University of Maryland stabbing of a Black man. Prosecutors failed to show this case as a hate crime.
 
@@ -772,7 +676,6 @@ A Maryland court upholds the murder conviction of a white man for the 2017 Unive
  - [https://www.foxnews.com/us/massachusetts-man-accused-hate-crime-released-home-confinement-gps-monitoring](https://www.foxnews.com/us/massachusetts-man-accused-hate-crime-released-home-confinement-gps-monitoring)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 13:39:19+00:00
- - tags: None
 
 A Massachusetts man who was accused of committing a hate crime has been released from prison with conditions. The man was allegedly making hateful comments towards an Asian family.
 
@@ -780,7 +683,6 @@ A Massachusetts man who was accused of committing a hate crime has been released
  - [https://www.foxnews.com/auto/ooops-chevrolet-corvette-e-ray-hybrid-leaks](https://www.foxnews.com/auto/ooops-chevrolet-corvette-e-ray-hybrid-leaks)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 13:37:21+00:00
- - tags: None
 
 An online visualizer for the upcoming Chevrolet Corvette E-Ray hybrid went live on the web for a short time Thursday, revealing the name and style.
 
@@ -788,7 +690,6 @@ An online visualizer for the upcoming Chevrolet Corvette E-Ray hybrid went live 
  - [https://www.foxnews.com/us/remains-new-hampshire-soldier-missing-during-korean-war-identified-buried](https://www.foxnews.com/us/remains-new-hampshire-soldier-missing-during-korean-war-identified-buried)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 13:33:13+00:00
- - tags: None
 
 A service was held for the burial of a soldier from New Hampshire who died in the Korean war. The remains of the soldier were identified in August using DNA analysis.
 
@@ -796,7 +697,6 @@ A service was held for the burial of a soldier from New Hampshire who died in th
  - [https://www.foxnews.com/politics/bernie-sanders-81-would-take-hard-look-2024-run-biden-80-steps-aside-senior-adviser-says](https://www.foxnews.com/politics/bernie-sanders-81-would-take-hard-look-2024-run-biden-80-steps-aside-senior-adviser-says)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 13:31:18+00:00
- - tags: None
 
 Vermont Sen. Bernie Sanders' longtime adviser Faiz Shakir said the democratic socialist lawmaker would seriously consider a third White House bid if President Biden doesn't run.
 
@@ -804,7 +704,6 @@ Vermont Sen. Bernie Sanders' longtime adviser Faiz Shakir said the democratic so
  - [https://www.foxnews.com/sports/wnba-star-angel-mccoughtry-wont-return-russia-griner-arrest-despite-making-entire-salary-month](https://www.foxnews.com/sports/wnba-star-angel-mccoughtry-wont-return-russia-griner-arrest-despite-making-entire-salary-month)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 13:10:01+00:00
- - tags: None
 
 Five-time WNBA All-Star Angel McCough played three seasons in Russia, making her entire WNBA salary in just a month, but following Brittney Griner's arrest - she has no plans to return.
 
@@ -812,7 +711,6 @@ Five-time WNBA All-Star Angel McCough played three seasons in Russia, making her
  - [https://www.foxnews.com/media/massachusetts-residents-speak-out-library-nixes-christmas-tree-town-supposed-be-inclusive](https://www.foxnews.com/media/massachusetts-residents-speak-out-library-nixes-christmas-tree-town-supposed-be-inclusive)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 13:00:36+00:00
- - tags: None
 
 A Massachusetts library decided not to install a Christmas tree this year, eliciting outrage from some staffers and other members of the local community who spoke to "Jesse Watters Primetime."
 
@@ -820,7 +718,6 @@ A Massachusetts library decided not to install a Christmas tree this year, elici
  - [https://www.foxnews.com/world/brittney-griner-trade-deal-leaves-wrongfully-detained-americans-marc-fogel-paul-whelan-limbo](https://www.foxnews.com/world/brittney-griner-trade-deal-leaves-wrongfully-detained-americans-marc-fogel-paul-whelan-limbo)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 13:00:35+00:00
- - tags: None
 
 President Biden made no mention of Marc Fogel when he announced the prisoner swap for Brittney Griner and his regret that former marine Paul Whelan was not included.
 
@@ -828,7 +725,6 @@ President Biden made no mention of Marc Fogel when he announced the prisoner swa
  - [https://www.foxnews.com/opinion/american-girl-mom-doll-maker-needs-know-about-real-american-girls](https://www.foxnews.com/opinion/american-girl-mom-doll-maker-needs-know-about-real-american-girls)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 13:00:16+00:00
- - tags: None
 
 American Girl, the company, is offering America's girls 'A Smart Girl's Guide: Body Image Book' which explores puberty blockers and gender identity. The book feels like a betrayal.
 
@@ -836,7 +732,6 @@ American Girl, the company, is offering America's girls 'A Smart Girl's Guide: B
  - [https://www.foxnews.com/media/twitter-files-flashback-jack-dorsey-testified-oath-twitter-censor-shadow-ban-conservatives](https://www.foxnews.com/media/twitter-files-flashback-jack-dorsey-testified-oath-twitter-censor-shadow-ban-conservatives)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 12:30:19+00:00
- - tags: None
 
 2018 testimony of former Twitter CEO Jack Dorsey claiming Twitter does not censor or shadow-ban users went viral following the latest batch of "Twitter Files" shared by Bari Weiss.
 
@@ -844,7 +739,6 @@ American Girl, the company, is offering America's girls 'A Smart Girl's Guide: B
  - [https://www.foxnews.com/sports/family-ex-nfl-player-glenn-foster-jr-sues-funeral-home-mishandling-destruction-remains](https://www.foxnews.com/sports/family-ex-nfl-player-glenn-foster-jr-sues-funeral-home-mishandling-destruction-remains)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 12:20:53+00:00
- - tags: None
 
 Attorney's representing the family of former New Orleans Saints defensive end Glenn Foster Jr. have filed a lawsuit claiming a Louisiana funeral home mishandled and wrongfully destroyed his remains.
 
@@ -852,7 +746,6 @@ Attorney's representing the family of former New Orleans Saints defensive end Gl
  - [https://www.foxnews.com/media/griner-swap-russian-merchant-death-panned-us-law-enforcement-epically-bad-deal](https://www.foxnews.com/media/griner-swap-russian-merchant-death-panned-us-law-enforcement-epically-bad-deal)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 12:00:10+00:00
- - tags: None
 
 CNN justice reporter Evan Perez noted that DOJ, FBI and DEA officials see the trade of U.S. citizen Brittney Griner for Russian arms dealer Viktor Bout as "epically bad."
 
@@ -860,7 +753,6 @@ CNN justice reporter Evan Perez noted that DOJ, FBI and DEA officials see the tr
  - [https://www.foxnews.com/us/brittney-griner-lands-in-us-after-biden-admin-controversial-prisoner-swap](https://www.foxnews.com/us/brittney-griner-lands-in-us-after-biden-admin-controversial-prisoner-swap)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 11:48:56+00:00
- - tags: None
 
 Griner back in US after Biden admin's prisoner swap, Sinema makes big announcement, and more top headlines
 
@@ -868,7 +760,6 @@ Griner back in US after Biden admin's prisoner swap, Sinema makes big announceme
  - [https://www.foxnews.com/tech/how-change-privacy-settings-instagram](https://www.foxnews.com/tech/how-change-privacy-settings-instagram)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 11:45:42+00:00
- - tags: None
 
 Instagram is one of the top social media platforms for sharing photos and video content, but did you know the default settings mean your account is public?
 
@@ -876,7 +767,6 @@ Instagram is one of the top social media platforms for sharing photos and video 
  - [https://www.foxnews.com/lifestyle/holiday-dessert-quiz-see-well-know-festive-treats](https://www.foxnews.com/lifestyle/holiday-dessert-quiz-see-well-know-festive-treats)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 11:45:01+00:00
- - tags: None
 
 The 2022 holiday season is here! Celebrate one of the best parts of the dinner table — the dessert — by taking this quiz about festive and sweet holiday desserts.
 
@@ -884,7 +774,6 @@ The 2022 holiday season is here! Celebrate one of the best parts of the dinner t
  - [https://www.foxnews.com/politics/arizona-sen-kyrsten-sinema-leaves-democratic-party-registers-independent](https://www.foxnews.com/politics/arizona-sen-kyrsten-sinema-leaves-democratic-party-registers-independent)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 11:24:23+00:00
- - tags: None
 
 Arizona Sen. Kyrsten Sinema announced she was leaving the Democratic Party on Friday due to fatigue with partisan politics and registering as an independent.
 
@@ -892,7 +781,6 @@ Arizona Sen. Kyrsten Sinema announced she was leaving the Democratic Party on Fr
  - [https://www.foxnews.com/politics/musk-reacts-after-biden-swaps-russian-arms-dealer-wnba-star-brittney-griner-marine-behind](https://www.foxnews.com/politics/musk-reacts-after-biden-swaps-russian-arms-dealer-wnba-star-brittney-griner-marine-behind)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 11:21:10+00:00
- - tags: None
 
 Twitter CEO Elon Musk voiced his criticism over President Joe Biden's prisoner swap with Russia, which resulting in Russia releasing WNBA star Brittney Griner.
 
@@ -900,7 +788,6 @@ Twitter CEO Elon Musk voiced his criticism over President Joe Biden's prisoner s
  - [https://www.foxnews.com/sports/panthers-henry-anderson-reveals-minor-stroke-wants-keep-playing-football](https://www.foxnews.com/sports/panthers-henry-anderson-reveals-minor-stroke-wants-keep-playing-football)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 11:20:15+00:00
- - tags: None
 
 Carolina Panthers defensive end Henry Anderson revealed he suffered a minor stroke in October right before he was set to play the Tampa Bay Buccaneers.
 
@@ -908,7 +795,6 @@ Carolina Panthers defensive end Henry Anderson revealed he suffered a minor stro
  - [https://www.foxnews.com/sports/baker-mayfield-reveals-gamble-took-before-officially-joining-rams](https://www.foxnews.com/sports/baker-mayfield-reveals-gamble-took-before-officially-joining-rams)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 11:17:17+00:00
- - tags: None
 
 Los Angeles Rams quarterback revealed he took a "gamble" before he was officially picked up by the team and led them to a win Thursday night.
 
@@ -916,7 +802,6 @@ Los Angeles Rams quarterback revealed he took a "gamble" before he was officiall
  - [https://www.foxnews.com/sports/raiders-face-criticism-idiotic-decisions-loss-rams](https://www.foxnews.com/sports/raiders-face-criticism-idiotic-decisions-loss-rams)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 11:14:35+00:00
- - tags: None
 
 The Las Vegas Raiders blew a big fourth-quarter lead to the Los Angeles Rams on Thursday night and to a quarterback who just joined the team.
 
@@ -924,7 +809,6 @@ The Las Vegas Raiders blew a big fourth-quarter lead to the Los Angeles Rams on 
  - [https://www.foxnews.com/opinion/i-stopped-big-government-power-grab-that-would-hurt-businesses-consumers](https://www.foxnews.com/opinion/i-stopped-big-government-power-grab-that-would-hurt-businesses-consumers)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 11:00:57+00:00
- - tags: None
 
 I stopped a big government power grab that would hurt businesses, consumers. Antitrust zealots once feared video stores merging and think they deserve more power.
 
@@ -932,7 +816,6 @@ I stopped a big government power grab that would hurt businesses, consumers. Ant
  - [https://www.foxnews.com/politics/this-gop-governor-democrats-push-upend-presidential-primary-calendars-dead-on-arrival](https://www.foxnews.com/politics/this-gop-governor-democrats-push-upend-presidential-primary-calendars-dead-on-arrival)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 11:00:44+00:00
- - tags: None
 
 Republican Gov. Chris Sununu of New Hampshire says that the Democratic National Committee's plan to upend the presidential primary calendar is 'dead on arrival' in his state
 
@@ -940,7 +823,6 @@ Republican Gov. Chris Sununu of New Hampshire says that the Democratic National 
  - [https://www.foxnews.com/media/twitter-old-guard-slammed-file-dump-reveals-suppression-colluded-steal-away-country](https://www.foxnews.com/media/twitter-old-guard-slammed-file-dump-reveals-suppression-colluded-steal-away-country)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 11:00:12+00:00
- - tags: None
 
 A bevy of conservatives and critics of the political establishment sounded off after the second dump of Twitter Files revealed allegations of mass suppression.
 
@@ -948,7 +830,6 @@ A bevy of conservatives and critics of the political establishment sounded off a
  - [https://www.foxnews.com/lifestyle/bible-verse-day-god-hears-faithful-prayers-there](https://www.foxnews.com/lifestyle/bible-verse-day-god-hears-faithful-prayers-there)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 11:00:06+00:00
- - tags: None
 
 In the Old Testament of the Bible, 2 Chronicles 7:14 is a call for believers to both pray and take action, says Dr. Jeff Myers of Summit Ministries. Here are facts about Chronicles 1 and 2.
 
@@ -956,7 +837,6 @@ In the Old Testament of the Bible, 2 Chronicles 7:14 is a call for believers to 
  - [https://www.foxnews.com/sports/world-cup-2022-what-to-know-first-slate-quarterfinal-matches](https://www.foxnews.com/sports/world-cup-2022-what-to-know-first-slate-quarterfinal-matches)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 11:00:02+00:00
- - tags: None
 
 Brazil and Croatia will start the slate of World Cup quarterfinal matches on Friday. Coverage of all the matches can be seen on FOX beginning at 9 a.m. ET.
 
@@ -964,7 +844,6 @@ Brazil and Croatia will start the slate of World Cup quarterfinal matches on Fri
  - [https://www.foxnews.com/media/twitter-files-confirm-stanford-professor-dr-jay-bhattacharya-blacklisted-covid-19-information](https://www.foxnews.com/media/twitter-files-confirm-stanford-professor-dr-jay-bhattacharya-blacklisted-covid-19-information)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 10:57:47+00:00
- - tags: None
 
 Reports confirm Stanford University professor of medicine Dr. Jay Bhattacharya was one of many users on Twitter's "blacklist" for his thoughts on COVID-19 lockdowns and policies.
 
@@ -972,7 +851,6 @@ Reports confirm Stanford University professor of medicine Dr. Jay Bhattacharya w
  - [https://www.foxnews.com/us/brittney-griner-lands-back-us-after-biden-admins-controversial-prisoner-swap](https://www.foxnews.com/us/brittney-griner-lands-back-us-after-biden-admins-controversial-prisoner-swap)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 10:47:47+00:00
- - tags: None
 
 Brittney Griner landed in San Antonio, Texas early Friday morning, the day after President Joe Biden announced the WNBA star was part of a prisoner swap with Russia.
 
@@ -980,7 +858,6 @@ Brittney Griner landed in San Antonio, Texas early Friday morning, the day after
  - [https://www.foxnews.com/media/disgraced-supreme-court-whistleblower-busted-lying-mainstream-media-darling](https://www.foxnews.com/media/disgraced-supreme-court-whistleblower-busted-lying-mainstream-media-darling)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 10:00:18+00:00
- - tags: None
 
 Rev. Robert Schenck, a pro-choice activist who claimed to have been tipped off on a 2014 Supreme Court decision, was found to have lied about an incident in his latest book.
 
@@ -988,7 +865,6 @@ Rev. Robert Schenck, a pro-choice activist who claimed to have been tipped off o
  - [https://www.foxnews.com/media/liberals-fume-elon-musk-gives-independent-journalist-bari-weiss-unprecedented-access-twitter-files-2](https://www.foxnews.com/media/liberals-fume-elon-musk-gives-independent-journalist-bari-weiss-unprecedented-access-twitter-files-2)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 09:30:57+00:00
- - tags: None
 
 Critics took aim at Twitter owner Elon Musk and independent journalist Bari Weiss over a report that he has given her unprecedented access to the company's systems.
 
@@ -996,7 +872,6 @@ Critics took aim at Twitter owner Elon Musk and independent journalist Bari Weis
  - [https://www.foxnews.com/media/gop-lawmaker-sounds-alarm-growing-threats-china-cold-war](https://www.foxnews.com/media/gop-lawmaker-sounds-alarm-growing-threats-china-cold-war)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 09:00:11+00:00
- - tags: None
 
 Rep. Mike Gallagher, R-Wis., explained the threats China poses to U.S. national security and how his new Committee will address cyber, trade and military threats.
 
@@ -1004,7 +879,6 @@ Rep. Mike Gallagher, R-Wis., explained the threats China poses to U.S. national 
  - [https://www.foxnews.com/opinion/americas-libraries-canceling-kirk-cameron-where-are-stephen-king-margaret-atwood](https://www.foxnews.com/opinion/americas-libraries-canceling-kirk-cameron-where-are-stephen-king-margaret-atwood)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 09:00:03+00:00
- - tags: None
 
 Liberal authors Stephen King and Margaret Atwood support librarian-turned-writer, but do they care to defend conservative authors like Kirk Cameron, too?
 
@@ -1012,7 +886,6 @@ Liberal authors Stephen King and Margaret Atwood support librarian-turned-writer
  - [https://www.foxnews.com/entertainment/abc-pulls-backstreet-boys-holiday-special-following-lawsuit-accusing-nick-carter-rape](https://www.foxnews.com/entertainment/abc-pulls-backstreet-boys-holiday-special-following-lawsuit-accusing-nick-carter-rape)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 08:40:36+00:00
- - tags: None
 
 ABC will not be airing its planned Backstreet Boys holiday special on Dec. 14 after a lawsuit was filed against Nick Carter, who is being accused of raping a 17-year-old in 2001.
 
@@ -1020,7 +893,6 @@ ABC will not be airing its planned Backstreet Boys holiday special on Dec. 14 af
  - [https://www.foxnews.com/politics/gop-lawmakers-respond-biden-swaps-russian-death-merchant-brittney-griner-excluding-paul-whelan](https://www.foxnews.com/politics/gop-lawmakers-respond-biden-swaps-russian-death-merchant-brittney-griner-excluding-paul-whelan)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 07:54:33+00:00
- - tags: None
 
 Several Republican lawmakers and political commentators have criticized President Biden for excluding for US Marine Paul Whelan in a Russian prisoner swap announced Thursday.
 
@@ -1028,7 +900,6 @@ Several Republican lawmakers and political commentators have criticized Presiden
  - [https://www.foxnews.com/us/fedex-driver-admitted-strangling-athena-strand-after-hitting-her-his-van-warrant](https://www.foxnews.com/us/fedex-driver-admitted-strangling-athena-strand-after-hitting-her-his-van-warrant)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 07:29:22+00:00
- - tags: None
 
 Texas 7-year-old Athena Strand was strangled by alleged murderer Tanner Horner, a 30-year-old contracted FedEx driver, after she was hit by his van.
 
@@ -1036,7 +907,6 @@ Texas 7-year-old Athena Strand was strangled by alleged murderer Tanner Horner, 
  - [https://www.foxnews.com/politics/fired-twitter-counsel-james-baker-exemplifies-revolving-door-between-government-liberal-groups-and-big-tech](https://www.foxnews.com/politics/fired-twitter-counsel-james-baker-exemplifies-revolving-door-between-government-liberal-groups-and-big-tech)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 07:04:21+00:00
- - tags: None
 
 James Baker, Twitter's former deputy general counsel who Elon Musk fired on Tuesday, is one of many individuals who have gone between government, liberal groups, and big tech.
 
@@ -1044,7 +914,6 @@ James Baker, Twitter's former deputy general counsel who Elon Musk fired on Tues
  - [https://www.foxnews.com/entertainment/celine-dion-queen-modern-las-vegas-residency](https://www.foxnews.com/entertainment/celine-dion-queen-modern-las-vegas-residency)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 07:00:56+00:00
- - tags: None
 
 Celine Dion had a Las Vegas residency for 16 years and earned more than $600 million. She paved the way for Britney Spears, Katy Perry and Carrie Underwood.
 
@@ -1052,7 +921,6 @@ Celine Dion had a Las Vegas residency for 16 years and earned more than $600 mil
  - [https://www.foxnews.com/politics/congressmen-respond-to-griners-release-share-skepticism-over-deal](https://www.foxnews.com/politics/congressmen-respond-to-griners-release-share-skepticism-over-deal)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 07:00:45+00:00
- - tags: None
 
 Brittney Griner's detention in a Russian penal colony was a violation of human rights, but the terms of her prisoner swap were concerning, Congress members say.
 
@@ -1060,7 +928,6 @@ Brittney Griner's detention in a Russian penal colony was a violation of human r
  - [https://www.foxnews.com/lifestyle/meet-american-created-department-store-santa-immigrant-entrepreneur-james-edgar](https://www.foxnews.com/lifestyle/meet-american-created-department-store-santa-immigrant-entrepreneur-james-edgar)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 07:00:42+00:00
- - tags: None
 
 James Edgar is recognized by the International Santa Claus Hall of Fame as the first department-store Santa, greeting guests in a custom-made suit for the first time in 1890.
 
@@ -1068,7 +935,6 @@ James Edgar is recognized by the International Santa Claus Hall of Fame as the f
  - [https://www.foxnews.com/us/parents-swept-controversy-after-school-satan-club-speak-out-at-wits-end](https://www.foxnews.com/us/parents-swept-controversy-after-school-satan-club-speak-out-at-wits-end)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 07:00:32+00:00
- - tags: None
 
 Organizers and parents on both sides of a controversial proposed After School Satan Club talked to Fox News Digital about their perspective on why such clubs are emerging.
 
@@ -1076,7 +942,6 @@ Organizers and parents on both sides of a controversial proposed After School Sa
  - [https://www.foxnews.com/politics/democrats-government-id-mass-shooters-before-shoot-studying-social-media-posts](https://www.foxnews.com/politics/democrats-government-id-mass-shooters-before-shoot-studying-social-media-posts)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 07:00:30+00:00
- - tags: None
 
 House Democrats proposed legislation aimed at assessing the communications of mass shooters to make it easier to identify others who might become mass shooters.
 
@@ -1084,7 +949,6 @@ House Democrats proposed legislation aimed at assessing the communications of ma
  - [https://www.foxnews.com/media/christmas-canceled-parents-media-holiday-traditions-getting-annoying](https://www.foxnews.com/media/christmas-canceled-parents-media-holiday-traditions-getting-annoying)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 07:00:25+00:00
- - tags: None
 
 Santa, Christmas trees and "purchasing festive snacks" are among the many casualties of this year's "War on Christmas" to spoil the fun for everyone.
 
@@ -1092,7 +956,6 @@ Santa, Christmas trees and "purchasing festive snacks" are among the many casual
  - [https://www.foxnews.com/opinion/musks-twitter-bombshells-keep-coming-social-media-company-giant-conservative-censorship-machine](https://www.foxnews.com/opinion/musks-twitter-bombshells-keep-coming-social-media-company-giant-conservative-censorship-machine)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 07:00:05+00:00
- - tags: None
 
 The second installment of the so-called 'Twitter Files' dropped on Thursday evening. Leaders at the tech company didn't engage in content moderation they practiced content obliviation.
 
@@ -1100,7 +963,6 @@ The second installment of the so-called 'Twitter Files' dropped on Thursday even
  - [https://www.foxnews.com/entertainment/daily-show-host-trevor-noah-credits-success-black-women-fans-farewell-address](https://www.foxnews.com/entertainment/daily-show-host-trevor-noah-credits-success-black-women-fans-farewell-address)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 06:36:17+00:00
- - tags: None
 
 After seven years at the helm, South African comedian Trevor Noah signed off from his role as host of Comedy Central's left-leaning satirical news program "The Daily Show."
 
@@ -1108,7 +970,6 @@ After seven years at the helm, South African comedian Trevor Noah signed off fro
  - [https://www.foxnews.com/opinion/greg-gutfeld-time-bomb-cartels-mexico-save-some-lives](https://www.foxnews.com/opinion/greg-gutfeld-time-bomb-cartels-mexico-save-some-lives)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 05:18:45+00:00
- - tags: None
 
 Fox News host Greg Gutfeld presents his plan to "bomb the supply" and "reduce harm" as a way of fighting back against America's opioid crisis on "Gutfeld!"
 
@@ -1116,7 +977,6 @@ Fox News host Greg Gutfeld presents his plan to "bomb the supply" and "reduce ha
  - [https://www.foxnews.com/lifestyle/this-day-history-dec-9-1965-charlie-brown-christmas-debuts-acclaim](https://www.foxnews.com/lifestyle/this-day-history-dec-9-1965-charlie-brown-christmas-debuts-acclaim)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 05:02:39+00:00
- - tags: None
 
 "A Charlie Brown Christmas" first aired on this day in history, Dec. 9, 1965, and was an instant success, despite concerns from network executives over a scene that quoted the New Testament.
 
@@ -1124,7 +984,6 @@ Fox News host Greg Gutfeld presents his plan to "bomb the supply" and "reduce ha
  - [https://www.foxnews.com/sports/baker-mayfield-leads-rams-miracle-comeback-win-days-after-cut-by-panthers](https://www.foxnews.com/sports/baker-mayfield-leads-rams-miracle-comeback-win-days-after-cut-by-panthers)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 04:47:06+00:00
- - tags: None
 
 Baker Mayfield, just days after picked claimed by the Los Angeles Rams after his release from the Carolina Panthers, led his new team to a comeback win over the Las Vegas Raiders.
 
@@ -1132,7 +991,6 @@ Baker Mayfield, just days after picked claimed by the Los Angeles Rams after his
  - [https://www.foxnews.com/sports/baker-mayfield-headbutts-teammate-leading-rams-go-ahead-td-drive](https://www.foxnews.com/sports/baker-mayfield-headbutts-teammate-leading-rams-go-ahead-td-drive)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 04:40:51+00:00
- - tags: None
 
 Baker Mayfield was hyped after leading the Los Angeles Rams on a game-winning drive against the Las Vegas Raiders on Thursday night. He headbutted his teammate.
 
@@ -1140,7 +998,6 @@ Baker Mayfield was hyped after leading the Los Angeles Rams on a game-winning dr
  - [https://www.foxnews.com/us/ukrainian-refugees-struggle-find-work-us-some-agencies-want-government-extend-stay](https://www.foxnews.com/us/ukrainian-refugees-struggle-find-work-us-some-agencies-want-government-extend-stay)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 04:37:05+00:00
- - tags: None
 
 Many Ukrainian refugees have relocated to the United States amid Russia's war, but some are struggling to find work and concerned about eventually being required to return home.
 
@@ -1148,7 +1005,6 @@ Many Ukrainian refugees have relocated to the United States amid Russia's war, b
  - [https://www.foxnews.com/media/laura-ingraham-we-see-corrupt-cut-throat-devious-big-tech-is](https://www.foxnews.com/media/laura-ingraham-we-see-corrupt-cut-throat-devious-big-tech-is)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 04:29:45+00:00
- - tags: None
 
 Fox News host Laura Ingraham says Twitter's mission of sharing information and ideas without barriers was only a marketing campaign on ‘The Ingraham Angle.’
 
@@ -1156,7 +1012,6 @@ Fox News host Laura Ingraham says Twitter's mission of sharing information and i
  - [https://www.foxnews.com/sports/two-kansas-high-schools-under-investigation-after-student-directs-racial-slurs-at-opposing-basketball-team](https://www.foxnews.com/sports/two-kansas-high-schools-under-investigation-after-student-directs-racial-slurs-at-opposing-basketball-team)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 04:29:09+00:00
- - tags: None
 
 During the contest several students hurled racial slurs and offensive language at the visiting basketball team's players, according to some of the athletes.
 
@@ -1164,7 +1019,6 @@ During the contest several students hurled racial slurs and offensive language a
  - [https://www.foxnews.com/opinion/tucker-carlson-was-very-costly-prisoner-swap](https://www.foxnews.com/opinion/tucker-carlson-was-very-costly-prisoner-swap)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 04:13:03+00:00
- - tags: None
 
 Fox News host Tucker Carlson weighs in on President Biden trading a Russian arms dealer in exchange for WNBA star Brittney Griner on "Tucker Carlson Tonight."
 
@@ -1172,7 +1026,6 @@ Fox News host Tucker Carlson weighs in on President Biden trading a Russian arms
  - [https://www.foxnews.com/media/outnumbered-kos-jennifer-lawrences-remark-she-was-first-female-lead-in-an-action-movie](https://www.foxnews.com/media/outnumbered-kos-jennifer-lawrences-remark-she-was-first-female-lead-in-an-action-movie)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 03:31:40+00:00
- - tags: None
 
 Fox News' 'Outnumbered' panelists discuss Hollywood actress Jennifer Lawrence's interview with Variety and her statement that her role in "The Hunger Games" was the first female lead in an action movie on 'Outnumbered.'
 
@@ -1180,7 +1033,6 @@ Fox News' 'Outnumbered' panelists discuss Hollywood actress Jennifer Lawrence's 
  - [https://www.foxnews.com/entertainment/country-star-zac-brown-engaged-model-kelly-yazdi](https://www.foxnews.com/entertainment/country-star-zac-brown-engaged-model-kelly-yazdi)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 03:19:42+00:00
- - tags: None
 
 Country singer Zac Brown and model Kelly Yazdi are engaged. Brown reportedly proposed "a while ago" and the couple has kept it "private." Zac was previously married to Shelly, his wife of 12 years.
 
@@ -1188,7 +1040,6 @@ Country singer Zac Brown and model Kelly Yazdi are engaged. Brown reportedly pro
  - [https://www.foxnews.com/us/washington-landlord-convicted-killing-tenants-stuffing-bodies-suitcases](https://www.foxnews.com/us/washington-landlord-convicted-killing-tenants-stuffing-bodies-suitcases)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 03:18:32+00:00
- - tags: None
 
 A jury in Washington found a landlord guilty of killing two of his tenants and stuffing their bodies into suitcases, where they were found washed ashore a Seattle beach.
 
@@ -1196,7 +1047,6 @@ A jury in Washington found a landlord guilty of killing two of his tenants and s
  - [https://www.foxnews.com/us/michigan-school-shooters-parents-ask-lower-bond-argue-didnt-flee-police](https://www.foxnews.com/us/michigan-school-shooters-parents-ask-lower-bond-argue-didnt-flee-police)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 03:14:44+00:00
- - tags: None
 
 James and Jennifer Crumbley, whose son killed four classmates at Oxford High School last year, filed a motion to lower their $500,000 bonds on Wednesday.
 
@@ -1204,7 +1054,6 @@ James and Jennifer Crumbley, whose son killed four classmates at Oxford High Sch
  - [https://www.foxnews.com/sports/mets-re-sign-brandon-nimmo-add-veteran-reliever-as-payroll-reache-record-high-report](https://www.foxnews.com/sports/mets-re-sign-brandon-nimmo-add-veteran-reliever-as-payroll-reache-record-high-report)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 03:13:43+00:00
- - tags: None
 
 New York Mets owner Steve Cohen has a luxury tax tier nicknamed after him and he's owning up to it this offseason, re-signing Brandon Nimmo and adding David Robertson in latest move.
 
@@ -1212,7 +1061,6 @@ New York Mets owner Steve Cohen has a luxury tax tier nicknamed after him and he
  - [https://www.foxnews.com/us/iowa-police-say-couple-drowned-newborn-bathtub-remains-havent-been-found](https://www.foxnews.com/us/iowa-police-say-couple-drowned-newborn-bathtub-remains-havent-been-found)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 03:10:50+00:00
- - tags: None
 
 Iowa police are alleging that a couple drowned their newborn child in their apartment's bathtub shortly after the baby was born in November.
 
@@ -1220,7 +1068,6 @@ Iowa police are alleging that a couple drowned their newborn child in their apar
  - [https://www.foxnews.com/media/sean-hannity-twitter-acting-malicious-arm-democratic-party](https://www.foxnews.com/media/sean-hannity-twitter-acting-malicious-arm-democratic-party)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 03:07:11+00:00
- - tags: None
 
 Sean Hannity said the 'Twitter files' prove the social media company was lying about shadow banning and engaged in censorship against those it disagreed with on 'Hannity.'
 
@@ -1228,7 +1075,6 @@ Sean Hannity said the 'Twitter files' prove the social media company was lying a
  - [https://www.foxnews.com/sports/jets-max-mitchell-sideline-due-to-ongoing-blood-clots-issue-father-says](https://www.foxnews.com/sports/jets-max-mitchell-sideline-due-to-ongoing-blood-clots-issue-father-says)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 03:01:55+00:00
- - tags: None
 
 Jets rookie Max Mitchell has a hereditary blood-clotting condition called factor V Leiden and is taking a blood thinner, his father said. He is expected to make a full recovery.
 
@@ -1236,7 +1082,6 @@ Jets rookie Max Mitchell has a hereditary blood-clotting condition called factor
  - [https://www.foxnews.com/us/idaho-murders-police-release-bodycam-video-night-killings](https://www.foxnews.com/us/idaho-murders-police-release-bodycam-video-night-killings)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 03:00:37+00:00
- - tags: None
 
 Idaho officials released body camera footage Thursday of a police stop recorded around the same time four college students were stabbed to death and near the crime scene.
 
@@ -1244,7 +1089,6 @@ Idaho officials released body camera footage Thursday of a police stop recorded 
  - [https://www.foxnews.com/us/georgia-man-guilty-killing-deputies-warrant](https://www.foxnews.com/us/georgia-man-guilty-killing-deputies-warrant)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 02:54:26+00:00
- - tags: None
 
 The Georgia man accused of killing Cobb County Sheriff's deputies Jonathan Koleski and Marshall Ervin, Jr., as they were serving a warrant for theft has pleaded guilty.
 
@@ -1252,7 +1096,6 @@ The Georgia man accused of killing Cobb County Sheriff's deputies Jonathan Koles
  - [https://www.foxnews.com/sports/baker-mayfield-enters-game-rams-days-after-picked-up-waivers](https://www.foxnews.com/sports/baker-mayfield-enters-game-rams-days-after-picked-up-waivers)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 02:41:26+00:00
- - tags: None
 
 Baker Mayfield was scooped up by the Los Angeles Rams off waivers just days ago, but he's active and playing against the Las Vegas Raiders on Thursday night.
 
@@ -1260,7 +1103,6 @@ Baker Mayfield was scooped up by the Los Angeles Rams off waivers just days ago,
  - [https://www.foxnews.com/entertainment/kate-hudson-three-chilfren-go-nuts-over-really-wild-christmas-tradition](https://www.foxnews.com/entertainment/kate-hudson-three-chilfren-go-nuts-over-really-wild-christmas-tradition)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 02:38:14+00:00
- - tags: None
 
 "Glass Onion: A Knives Out Mystery" star Kate Hudson revealed her three children "just can't believe it" when Santa Claus leaves signs he has visited them.
 
@@ -1268,7 +1110,6 @@ Baker Mayfield was scooped up by the Los Angeles Rams off waivers just days ago,
  - [https://www.foxnews.com/sports/surveillance-footage-shows-fatal-shooting-new-mexico-campus-rival-player-allegedly-lured](https://www.foxnews.com/sports/surveillance-footage-shows-fatal-shooting-new-mexico-campus-rival-player-allegedly-lured)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 02:35:15+00:00
- - tags: None
 
 New Mexico State Police released a rooftop video showing the deadly shooting between University of New Mexico and New Mexico State University students.
 
@@ -1276,7 +1117,6 @@ New Mexico State Police released a rooftop video showing the deadly shooting bet
  - [https://www.foxnews.com/sports/raiders-davante-adams-makes-ridiculous-one-handed-catch-over-rams-jalen-ramsey](https://www.foxnews.com/sports/raiders-davante-adams-makes-ridiculous-one-handed-catch-over-rams-jalen-ramsey)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 02:23:07+00:00
- - tags: None
 
 Las Vegas Raiders wide receiver Davante Adams hauled in a ridiculous one-handed grab over Los Angeles Rams top cornerback Jalen Ramsey on his first target Thursday night.
 
@@ -1284,7 +1124,6 @@ Las Vegas Raiders wide receiver Davante Adams hauled in a ridiculous one-handed 
  - [https://www.foxnews.com/entertainment/elle-king-reveals-she-suffered-concussion-after-falling-down-stairs](https://www.foxnews.com/entertainment/elle-king-reveals-she-suffered-concussion-after-falling-down-stairs)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 02:19:07+00:00
- - tags: None
 
 Country music singer Elle King revealed she slipped down stairs prepping a bottle for her son and suffered a concussion. King will resume performing in 2023.
 
@@ -1292,7 +1131,6 @@ Country music singer Elle King revealed she slipped down stairs prepping a bottl
  - [https://www.foxnews.com/us/georgia-man-charged-murdering-ex-wifes-divorce-attorney-burning-office](https://www.foxnews.com/us/georgia-man-charged-murdering-ex-wifes-divorce-attorney-burning-office)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 02:02:47+00:00
- - tags: None
 
 A Georgia man was arrested and charged with murdering his wife's divorce attorney, and setting that law office on fire.
 
@@ -1300,7 +1138,6 @@ A Georgia man was arrested and charged with murdering his wife's divorce attorne
  - [https://www.foxnews.com/politics/twitter-files-part-two-reveals-visibility-filtering-highest-levels-suppress-people-see](https://www.foxnews.com/politics/twitter-files-part-two-reveals-visibility-filtering-highest-levels-suppress-people-see)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 02:01:37+00:00
- - tags: None
 
 Part two of the Twitter files, which were posted by The Free Press Founder and Editor Bari Weiss, focus on the social media platform's efforts to blacklist certain users.
 
@@ -1308,7 +1145,6 @@ Part two of the Twitter files, which were posted by The Free Press Founder and E
  - [https://www.foxnews.com/media/jesse-watters-new-york-times-writers-losing-money-greedy-executives-dont-care](https://www.foxnews.com/media/jesse-watters-new-york-times-writers-losing-money-greedy-executives-dont-care)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 01:46:42+00:00
- - tags: None
 
 Jesse Watters reacts to The New York Times writers striking for allegedly not receiving pay increases and pushing for a 'fair contract' on 'Jesse Watters Primetime.'
 
@@ -1316,7 +1152,6 @@ Jesse Watters reacts to The New York Times writers striking for allegedly not re
  - [https://www.foxnews.com/sports/falcons-bench-marcus-mariota-in-favor-of-rookie-desmond-ridder-reports](https://www.foxnews.com/sports/falcons-bench-marcus-mariota-in-favor-of-rookie-desmond-ridder-reports)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 01:45:09+00:00
- - tags: None
 
 Falcons coach Arthur Smith left the door open for a quarterback change after the team's eighth loss of the season. Now, he's opted to bench Marcus Mariota, according to NFL Media.
 
@@ -1324,7 +1159,6 @@ Falcons coach Arthur Smith left the door open for a quarterback change after the
  - [https://www.foxnews.com/us/pentagon-merchant-death-viktor-bout-arms-trafficking-brittney-griner-exchange](https://www.foxnews.com/us/pentagon-merchant-death-viktor-bout-arms-trafficking-brittney-griner-exchange)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 01:31:52+00:00
- - tags: None
 
 The Pentagon is concerned Viktor Bout could return to arms trafficking upon his release from a U.S. prison in exchange for Brittney Griner
 
@@ -1332,7 +1166,6 @@ The Pentagon is concerned Viktor Bout could return to arms trafficking upon his 
  - [https://www.foxnews.com/entertainment/wheel-of-fortune-vanna-white-feels-about-wardrobe](https://www.foxnews.com/entertainment/wheel-of-fortune-vanna-white-feels-about-wardrobe)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 01:10:20+00:00
- - tags: None
 
 "Wheel of Fortune's" Vanna White admitted she doesn't "love" all the looks she's worn over four decades. White, who co-hosts with Pat Sajak, has worn over 7,800 outfits.
 
@@ -1340,7 +1173,6 @@ The Pentagon is concerned Viktor Bout could return to arms trafficking upon his 
  - [https://www.foxnews.com/us/idaho-murders-border-authorities-monitoring-hyundai-elantra-near-scene-quadruple-homicide](https://www.foxnews.com/us/idaho-murders-border-authorities-monitoring-hyundai-elantra-near-scene-quadruple-homicide)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 01:00:54+00:00
- - tags: None
 
 Border authorities are monitoring for a white 2011-2013 Hyundai Elantra that was in the "immediate area" of the scene of a quadruple homicide last month in Moscow, Idaho.
 
@@ -1348,7 +1180,6 @@ Border authorities are monitoring for a white 2011-2013 Hyundai Elantra that was
  - [https://www.foxnews.com/media/loudoun-county-dad-heads-roll-superintendent-fired-many-hurt-child](https://www.foxnews.com/media/loudoun-county-dad-heads-roll-superintendent-fired-many-hurt-child)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 01:00:25+00:00
- - tags: None
 
 Loudoun County parent Scott Smith called for additional firings after superintendent Scott Zeigler was let go over his handling of two sexual assaults in the district.
 
@@ -1356,7 +1187,6 @@ Loudoun County parent Scott Smith called for additional firings after superinten
  - [https://www.foxnews.com/entertainment/christina-applegate-reflects-learning-ms-diagnosis-filming-final-season-dead-to-me](https://www.foxnews.com/entertainment/christina-applegate-reflects-learning-ms-diagnosis-filming-final-season-dead-to-me)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 00:52:29+00:00
- - tags: None
 
 During an appearance Wednesday on "The Kelly Clarkson Show," Christina Applegate revealed she was experiencing serious health struggles ahead of receiving her diagnosis.
 
@@ -1364,7 +1194,6 @@ During an appearance Wednesday on "The Kelly Clarkson Show," Christina Applegate
  - [https://www.foxnews.com/us/kentucky-death-threats-rand-paul-mitch-mcconnell](https://www.foxnews.com/us/kentucky-death-threats-rand-paul-mitch-mcconnell)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 00:52:07+00:00
- - tags: None
 
 Kentucky authorities are investigating a threat made to school children in Allen and Warren counties, as well as to Minority Leader Mitch McConnell and Sen. Rand Paul.
 
@@ -1372,7 +1201,6 @@ Kentucky authorities are investigating a threat made to school children in Allen
  - [https://www.foxnews.com/media/elon-musks-second-installment-twitter-files-reveals-secret-blacklists-bari-weiss-reports](https://www.foxnews.com/media/elon-musks-second-installment-twitter-files-reveals-secret-blacklists-bari-weiss-reports)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 00:33:55+00:00
- - tags: None
 
 Independent journalist Bari Weiss went viral on Thursday with the second installment of Elon Musk's so-called "Twitter Files," revealing practices of "secret blacklists" that were made.
 
@@ -1380,7 +1208,6 @@ Independent journalist Bari Weiss went viral on Thursday with the second install
  - [https://www.foxnews.com/sports/espns-stephen-a-smith-praises-living-in-america-after-brittney-griner-release](https://www.foxnews.com/sports/espns-stephen-a-smith-praises-living-in-america-after-brittney-griner-release)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 00:28:06+00:00
- - tags: None
 
 WNBA player Brittney Griner is on her way back to the United States after she was released from Russian detention in a prisoner swap for a convicted Russian arms dealer.
 
@@ -1388,7 +1215,6 @@ WNBA player Brittney Griner is on her way back to the United States after she wa
  - [https://www.foxnews.com/lifestyle/greek-orthodox-church-world-trade-center-reopens-first-time-9-11-destroyed](https://www.foxnews.com/lifestyle/greek-orthodox-church-world-trade-center-reopens-first-time-9-11-destroyed)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 00:23:59+00:00
- - tags: None
 
 After more than two decades, St. Nicholas Greek Orthodox Church in Lower Manhattan has reopened to the public for the first time since the terror attacks of Sept. 11, 2001.
 
@@ -1396,7 +1222,6 @@ After more than two decades, St. Nicholas Greek Orthodox Church in Lower Manhatt
  - [https://www.foxnews.com/sports/pete-davidson-eli-manning-bromance-begins-new-instagram-page-sharing-giants-memories](https://www.foxnews.com/sports/pete-davidson-eli-manning-bromance-begins-new-instagram-page-sharing-giants-memories)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 00:08:23+00:00
- - tags: None
 
 New York Giants legend Eli Manning and comedian Pete Davidson have a new budding bromance going on in a hilarious episode of "The Eli Manning Show."
 
@@ -1404,7 +1229,6 @@ New York Giants legend Eli Manning and comedian Pete Davidson have a new budding
  - [https://www.foxnews.com/politics/white-house-press-secretary-jean-pierre-reads-wrong-script-briefing](https://www.foxnews.com/politics/white-house-press-secretary-jean-pierre-reads-wrong-script-briefing)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 00:02:35+00:00
- - tags: None
 
 White House Press Secretary Karine Jean-Pierre answers reporter with wrong script before correcting herself and speaking about the Hatch Act.
 
@@ -1412,7 +1236,6 @@ White House Press Secretary Karine Jean-Pierre answers reporter with wrong scrip
  - [https://www.foxnews.com/media/feminist-rants-rite-aid-locking-baby-items-people-steal-f-ing-diapers](https://www.foxnews.com/media/feminist-rants-rite-aid-locking-baby-items-people-steal-f-ing-diapers)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 00:00:32+00:00
- - tags: None
 
 Feminist writer Jessica Valenti ranted against baby diapers being locked in glass cases at her local Rite Aid, arguing the retailer should allow them to be stolen.
 
@@ -1420,6 +1243,5 @@ Feminist writer Jessica Valenti ranted against baby diapers being locked in glas
  - [https://www.foxnews.com/sports/3-college-football-teams-began-year-ap-top-25-end-season-missing-bowls-what-happened](https://www.foxnews.com/sports/3-college-football-teams-began-year-ap-top-25-end-season-missing-bowls-what-happened)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-09 00:00:12+00:00
- - tags: None
 
 Three teams began the 2022 college football season in the AP Top 25 and failed to qualify for a bowl game. Texas A&amp;M, Michigan State and Miami all went 5-7.

@@ -1,10 +1,9 @@
-# Source Luke Smith, Source URL:https://lukesmith.xyz/rss.xml
+# Source Luke Smith, Source URL:https://lukesmith.xyz/rss.xml, Source language: en-US
 
 ## Retiring My Fiat Donation Portal
  - [https://lukesmith.xyz/updates/retiring-fiat-donation-portal/](https://lukesmith.xyz/updates/retiring-fiat-donation-portal/)
  - RSS feed: https://lukesmith.xyz/rss.xml
  - date published: 2022-12-16 15:35:42+00:00
- - tags: None
 
 <p>I&rsquo;ve decided to retire my fiat donation portal at <a href="https://donate.lukesmith.xyz">donate.lukesmith.xyz</a>, where people could donate to me via debit and credit cards.
 <strong>This will happen by the end of this calendar year.</strong></p>

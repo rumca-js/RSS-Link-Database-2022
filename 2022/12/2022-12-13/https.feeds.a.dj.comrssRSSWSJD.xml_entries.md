@@ -1,10 +1,9 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml
+# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
 
 ## FTX's Sam Bankman-Fried Charged With Criminal Fraud, Conspiracy
  - [https://www.wsj.com/articles/ftxs-sam-bankman-fried-charged-with-criminal-fraud-conspiracy-11670951131?mod=rss_Technology](https://www.wsj.com/articles/ftxs-sam-bankman-fried-charged-with-criminal-fraud-conspiracy-11670951131?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-12-13 23:33:00+00:00
- - tags: None
 
 U.S. prosecutors, in an indictment unsealed Tuesday, accused the crypto exchange’s founder of a scheme to defraud customers and his hedge fund’s lenders.
 
@@ -12,7 +11,6 @@ U.S. prosecutors, in an indictment unsealed Tuesday, accused the crypto exchange
  - [https://www.wsj.com/articles/tesla-investors-voice-concern-over-elon-musks-focus-on-twitter-11670948786?mod=rss_Technology](https://www.wsj.com/articles/tesla-investors-voice-concern-over-elon-musks-focus-on-twitter-11670948786?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-12-13 22:13:00+00:00
- - tags: None
 
 Supporters of both Tesla and Musk have been asking questions about who is running the electric-vehicle maker.
 
@@ -20,7 +18,6 @@ Supporters of both Tesla and Musk have been asking questions about who is runnin
  - [https://www.wsj.com/articles/nuclear-fusion-energy-breakthrough-reported-by-scientists-at-u-s-lab-11670944595?mod=rss_Technology](https://www.wsj.com/articles/nuclear-fusion-energy-breakthrough-reported-by-scientists-at-u-s-lab-11670944595?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-12-13 21:34:00+00:00
- - tags: None
 
 The Energy Department said a controlled fusion reaction at a federal research facility produced more energy than it consumed, a milestone in transforming fusion into a practical source of clean energy.
 
@@ -28,7 +25,6 @@ The Energy Department said a controlled fusion reaction at a federal research fa
  - [https://www.wsj.com/articles/states-demand-that-google-apple-raise-content-ratings-for-tiktok-11670962055?mod=rss_Technology](https://www.wsj.com/articles/states-demand-that-google-apple-raise-content-ratings-for-tiktok-11670962055?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-12-13 20:07:00+00:00
- - tags: None
 
 A group of 15 attorneys general demanded that Google and Apple strip the video-sharing app of a rating that classifies it as appropriate for teens.
 
@@ -36,7 +32,6 @@ A group of 15 attorneys general demanded that Google and Apple strip the video-s
  - [https://www.wsj.com/articles/instagram-challenges-bereal-and-adds-notes-short-message-feature-11670945979?mod=rss_Technology](https://www.wsj.com/articles/instagram-challenges-bereal-and-adds-notes-short-message-feature-11670945979?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-12-13 16:00:00+00:00
- - tags: None
 
 With fresh ways to connect with friends, is Instagram trying to be Instagram again?
 
@@ -44,7 +39,6 @@ With fresh ways to connect with friends, is Instagram trying to be Instagram aga
  - [https://www.wsj.com/articles/indias-manufacturing-push-takes-an-audacious-gamble-on-chips-11670946984?mod=rss_Technology](https://www.wsj.com/articles/indias-manufacturing-push-takes-an-audacious-gamble-on-chips-11670946984?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-12-13 15:56:00+00:00
- - tags: None
 
 With generous incentives and help from Taiwan’s Foxconn, India is hoping to kick-start a chip fab industry.
 
@@ -52,7 +46,6 @@ With generous incentives and help from Taiwan’s Foxconn, India is hoping to ki
  - [https://www.wsj.com/articles/eu-to-advance-its-data-flow-deal-after-u-s-makes-surveillance-changes-11670927692?mod=rss_Technology](https://www.wsj.com/articles/eu-to-advance-its-data-flow-deal-after-u-s-makes-surveillance-changes-11670927692?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-12-13 14:59:00+00:00
- - tags: None
 
 Brussels gives tentative approval to U.S. surveillance-rule changes, as part of pending deal to allow businesses to transfer European data across the Atlantic.
 
@@ -60,7 +53,6 @@ Brussels gives tentative approval to U.S. surveillance-rule changes, as part of 
  - [https://www.wsj.com/articles/sam-bankman-fried-led-years-long-fraud-at-ftx-sec-says-11670931979?mod=rss_Technology](https://www.wsj.com/articles/sam-bankman-fried-led-years-long-fraud-at-ftx-sec-says-11670931979?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-12-13 13:22:00+00:00
- - tags: None
 
 The FTX founder diverted customer funds from the start of his cryptocurrency exchange to support his hedge fund, Alameda Research, the regulator said in a lawsuit filed Tuesday.
 
@@ -68,7 +60,6 @@ The FTX founder diverted customer funds from the start of his cryptocurrency exc
  - [https://www.wsj.com/articles/youtube-stars-cash-in-video-rights-for-millions-of-dollars-11670883441?mod=rss_Technology](https://www.wsj.com/articles/youtube-stars-cash-in-video-rights-for-millions-of-dollars-11670883441?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-12-13 10:30:00+00:00
- - tags: None
 
 Investors are scooping up rights to back catalogs of top YouTubers, betting they will increase in value as creators build bigger audiences.
 
@@ -76,7 +67,6 @@ Investors are scooping up rights to back catalogs of top YouTubers, betting they
  - [https://www.wsj.com/articles/elon-musks-twitter-disbands-trust-and-safety-council-11670898329?mod=rss_Technology](https://www.wsj.com/articles/elon-musks-twitter-disbands-trust-and-safety-council-11670898329?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-12-13 02:30:00+00:00
- - tags: None
 
 The role of the coalition that worked with Twitter before Mr. Musk took ownership of the company had become unclear.
 
@@ -84,7 +74,6 @@ The role of the coalition that worked with Twitter before Mr. Musk took ownershi
  - [https://www.wsj.com/articles/ftx-founder-samuel-bankman-fried-arrested-in-bahamas-11670890250?mod=rss_Technology](https://www.wsj.com/articles/ftx-founder-samuel-bankman-fried-arrested-in-bahamas-11670890250?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-12-13 01:35:00+00:00
- - tags: None
 
 The arrest occurred in the Bahamas after the U.S. filed criminal charges. Bankman-Fried was scheduled to testify Tuesday before Congress in a hearing probing the collapse of the cryptocurrency exchange but is no longer expected to appear.
 
@@ -92,6 +81,5 @@ The arrest occurred in the Bahamas after the U.S. filed criminal charges. Bankma
  - [https://www.wsj.com/articles/twitter-reintroduces-upgraded-subscription-service-11670893139?mod=rss_Technology](https://www.wsj.com/articles/twitter-reintroduces-upgraded-subscription-service-11670893139?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-12-13 00:59:00+00:00
- - tags: None
 
 The relaunch of Twitter Blue is central to Elon Musk’s goal of reducing the social platform’s reliance on advertising dollars.

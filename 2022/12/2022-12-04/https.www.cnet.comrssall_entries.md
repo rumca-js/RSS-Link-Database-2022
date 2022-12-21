@@ -1,10 +1,9 @@
-# Source CNET, Source URL:https://www.cnet.com/rss/all/
+# Source CNET, Source URL:https://www.cnet.com/rss/all/, Source language: en-US
 
 ## Finished '1899'? Time to Watch the Best Show on Netflix     - CNET
  - [https://www.cnet.com/culture/entertainment/finished-1899-time-to-watch-the-best-show-on-netflix/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/finished-1899-time-to-watch-the-best-show-on-netflix/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 23:25:00+00:00
- - tags: None
 
 It's one of the best shows ever made.
 
@@ -12,7 +11,6 @@ It's one of the best shows ever made.
  - [https://www.cnet.com/culture/entertainment/netflix-the-46-absolute-best-movies-to-binge/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/netflix-the-46-absolute-best-movies-to-binge/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 23:12:02+00:00
- - tags: None
 
 Two big movies arrive this week: Emily the Criminal and Guillermo del Toro's Pinocchio.
 
@@ -20,7 +18,6 @@ Two big movies arrive this week: Emily the Criminal and Guillermo del Toro's Pin
  - [https://www.cnet.com/tech/gaming/how-to-catch-shiny-pokemon-in-scarlet-and-violet/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/how-to-catch-shiny-pokemon-in-scarlet-and-violet/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 22:44:00+00:00
- - tags: None
 
 You have about a one in 4,000 chance of stumbling on a shiny Pokemon in Scarlet and Violet, but there are a few ways to dramatically improve your odds.
 
@@ -28,7 +25,6 @@ You have about a one in 4,000 chance of stumbling on a shiny Pokemon in Scarlet 
  - [https://www.cnet.com/culture/entertainment/1899-on-netflix-that-confusing-ending-explained/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/1899-on-netflix-that-confusing-ending-explained/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 22:33:00+00:00
- - tags: None
 
 1899's ending is a bit weird to say the least.
 
@@ -36,7 +32,6 @@ You have about a one in 4,000 chance of stumbling on a shiny Pokemon in Scarlet 
  - [https://www.cnet.com/culture/entertainment/netflix-50-absolute-best-tv-series-to-watch-this-week/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/netflix-50-absolute-best-tv-series-to-watch-this-week/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 22:26:32+00:00
- - tags: None
 
 It's December, so it's time to watch new rom-com I Hate Christmas.
 
@@ -44,7 +39,6 @@ It's December, so it's time to watch new rom-com I Hate Christmas.
  - [https://www.cnet.com/health/personal-care/features/what-i-learned-taking-cold-showers-for-a-full-year/#ftag=CADf328eec](https://www.cnet.com/health/personal-care/features/what-i-learned-taking-cold-showers-for-a-full-year/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 22:03:00+00:00
- - tags: None
 
 I'm still not convinced it was worth it.
 
@@ -52,7 +46,6 @@ I'm still not convinced it was worth it.
  - [https://www.cnet.com/culture/entertainment/the-peripheral-that-ending-explained-and-all-your-questions-answered/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-peripheral-that-ending-explained-and-all-your-questions-answered/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 22:02:33+00:00
- - tags: None
 
 Let's discuss the big twists, post-credits scene and the many confusing plot points in the season 1 finale.
 
@@ -60,7 +53,6 @@ Let's discuss the big twists, post-credits scene and the many confusing plot poi
  - [https://www.cnet.com/science/climate/weather-whiplash-could-be-a-disturbing-new-normal-in-a-weird-warming-world/#ftag=CADf328eec](https://www.cnet.com/science/climate/weather-whiplash-could-be-a-disturbing-new-normal-in-a-weird-warming-world/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 22:00:07+00:00
- - tags: None
 
 After praying for rain for weeks, the US state that saw some of the year's biggest wildfires in 2022 found itself soon suffering a deadly deluge.
 
@@ -68,7 +60,6 @@ After praying for rain for weeks, the US state that saw some of the year's bigge
  - [https://www.cnet.com/news/why-you-cant-watch-yellowstone-paramounts-top-show-on-paramount-plus/#ftag=CADf328eec](https://www.cnet.com/news/why-you-cant-watch-yellowstone-paramounts-top-show-on-paramount-plus/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 22:00:02+00:00
- - tags: None
 
 And where you can stream it.
 
@@ -76,7 +67,6 @@ And where you can stream it.
  - [https://www.cnet.com/culture/entertainment/the-white-lotus-all-the-hidden-clues-in-the-opening-credits-explained/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-white-lotus-all-the-hidden-clues-in-the-opening-credits-explained/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 21:57:21+00:00
- - tags: None
 
 In a clever trend for the HBO show, the opening credits are laden with hints to the murder mystery.
 
@@ -84,7 +74,6 @@ In a clever trend for the HBO show, the opening credits are laden with hints to 
  - [https://www.cnet.com/culture/entertainment/watching-1899-on-netflix-change-this-one-setting-immediately/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/watching-1899-on-netflix-change-this-one-setting-immediately/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 21:56:00+00:00
- - tags: None
 
 The show won't make sense if you leave it on default.
 
@@ -92,7 +81,6 @@ The show won't make sense if you leave it on default.
  - [https://www.cnet.com/culture/entertainment/why-spotify-wrapped-is-a-day-of-mourning-for-parents/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/why-spotify-wrapped-is-a-day-of-mourning-for-parents/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 21:44:00+00:00
- - tags: None
 
 It is very much our kids who are wrong.
 
@@ -100,7 +88,6 @@ It is very much our kids who are wrong.
  - [https://www.cnet.com/tech/mobile/22-iphone-settings-you-need-to-change-to-optimize-your-phones-performance/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/22-iphone-settings-you-need-to-change-to-optimize-your-phones-performance/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 21:15:02+00:00
- - tags: None
 
 If you want to save battery, improve privacy and clean up clutter, check out these simple iOS tweaks.
 
@@ -108,7 +95,6 @@ If you want to save battery, improve privacy and clean up clutter, check out the
  - [https://www.cnet.com/science/neuralink-upgraded-brain-chip-hopes-to-help-the-blind-see-and-the-paralyzed-walk/#ftag=CADf328eec](https://www.cnet.com/science/neuralink-upgraded-brain-chip-hopes-to-help-the-blind-see-and-the-paralyzed-walk/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 21:00:02+00:00
- - tags: None
 
 The latest version of the company's N1 chip is intended to be implanted in brains and spines.
 
@@ -116,7 +102,6 @@ The latest version of the company's N1 chip is intended to be implanted in brain
  - [https://www.cnet.com/tech/services-and-software/chargers-vs-raiders-livestream-how-to-watch-nfl-week-13-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/chargers-vs-raiders-livestream-how-to-watch-nfl-week-13-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 20:18:02+00:00
- - tags: None
 
 Want to watch the Los Angeles Chargers take on the Las Vegas Raiders? Here's everything you need to stream Sunday's afternoon game on CBS.
 
@@ -124,7 +109,6 @@ Want to watch the Los Angeles Chargers take on the Las Vegas Raiders? Here's eve
  - [https://www.cnet.com/tech/services-and-software/chiefs-vs-bengals-livestream-how-to-watch-nfl-week-13-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/chiefs-vs-bengals-livestream-how-to-watch-nfl-week-13-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 20:11:02+00:00
- - tags: None
 
 Want to watch the Kansas City Chiefs take on the Cincinnati Bengals? Here's everything you need to stream Sunday's afternoon game on CBS.
 
@@ -132,7 +116,6 @@ Want to watch the Kansas City Chiefs take on the Cincinnati Bengals? Here's ever
  - [https://www.cnet.com/tech/services-and-software/dolphins-vs-49ers-livestream-how-to-watch-nfl-week-13-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/dolphins-vs-49ers-livestream-how-to-watch-nfl-week-13-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 20:02:02+00:00
- - tags: None
 
 Want to watch the San Francisco 49ers play the Miami Dolphins? Here's everything you need to stream Sunday's game on Fox.
 
@@ -140,7 +123,6 @@ Want to watch the San Francisco 49ers play the Miami Dolphins? Here's everything
  - [https://www.cnet.com/tech/services-and-software/seahawks-vs-rams-livestream-how-to-watch-nfl-week-13-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/seahawks-vs-rams-livestream-how-to-watch-nfl-week-13-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 19:57:02+00:00
- - tags: None
 
 Want to watch the Seattle Seahawks play the Los Angeles Rams? Here's everything you need to stream Sunday's game on Fox.
 
@@ -148,7 +130,6 @@ Want to watch the Seattle Seahawks play the Los Angeles Rams? Here's everything 
  - [https://www.cnet.com/tech/computing/how-to-find-all-those-saved-wi-fi-passwords-on-your-mac-or-windows-computer/#ftag=CADf328eec](https://www.cnet.com/tech/computing/how-to-find-all-those-saved-wi-fi-passwords-on-your-mac-or-windows-computer/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 19:30:02+00:00
- - tags: None
 
 Every time you connect to a Wi-Fi network, the password is stored onto your computer. Here's how you can easily track all of them down.
 
@@ -156,7 +137,6 @@ Every time you connect to a Wi-Fi network, the password is stored onto your comp
  - [https://www.cnet.com/tech/computing/best-3d-printing-accessories-make-the-most-of-your-3d-printer/#ftag=CADf328eec](https://www.cnet.com/tech/computing/best-3d-printing-accessories-make-the-most-of-your-3d-printer/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 19:00:08+00:00
- - tags: None
 
 From tiny 3D printer scrapers to giant machines, we have everything you need to level up your 3D printing experience.
 
@@ -164,7 +144,6 @@ From tiny 3D printer scrapers to giant machines, we have everything you need to 
  - [https://www.cnet.com/tech/mobile/best-on-ear-headphones/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/best-on-ear-headphones/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 19:00:03+00:00
- - tags: None
 
 Looking for a more compact headphone that sits on your ears? Here are the best on-ear headphones you can buy.
 
@@ -172,7 +151,6 @@ Looking for a more compact headphone that sits on your ears? Here are the best o
  - [https://www.cnet.com/tech/services-and-software/dont-blow-your-holiday-budget-on-streaming-keep-cancel-these-services/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/dont-blow-your-holiday-budget-on-streaming-keep-cancel-these-services/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 18:36:59+00:00
- - tags: None
 
 Netflix wins for most new releases, but other services may entice you with festive content.
 
@@ -180,7 +158,6 @@ Netflix wins for most new releases, but other services may entice you with festi
  - [https://www.cnet.com/tech/mobile/think-outside-the-wallet-5-unexpected-places-to-put-your-apple-airtags/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/think-outside-the-wallet-5-unexpected-places-to-put-your-apple-airtags/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 18:00:02+00:00
- - tags: None
 
 Go beyond putting the AirTag on your keychain, wallet or phone with these helpful recommendations.
 
@@ -188,7 +165,6 @@ Go beyond putting the AirTag on your keychain, wallet or phone with these helpfu
  - [https://www.cnet.com/deals/treat-yourself-to-some-extra-convenience-with-up-to-38-off-hbn-smart-devices/#ftag=CADf328eec](https://www.cnet.com/deals/treat-yourself-to-some-extra-convenience-with-up-to-38-off-hbn-smart-devices/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 17:00:14+00:00
- - tags: None
 
 These HBN smart plugs, lights and other devices can help make your regular routine a little bit easier, and right now they're on sale at Amazon.
 
@@ -196,7 +172,6 @@ These HBN smart plugs, lights and other devices can help make your regular routi
  - [https://www.cnet.com/tech/services-and-software/10-undervalued-netflix-tricks-you-should-be-using/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/10-undervalued-netflix-tricks-you-should-be-using/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 17:00:10+00:00
- - tags: None
 
 Yeah, we know those hidden codes are A-plus, but you can become a Netflix master with these tips.
 
@@ -204,7 +179,6 @@ Yeah, we know those hidden codes are A-plus, but you can become a Netflix master
  - [https://www.cnet.com/tech/services-and-software/nfl-week-13-how-to-watch-colts-vs-cowboys-on-nbc-redzone-and-more/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/nfl-week-13-how-to-watch-colts-vs-cowboys-on-nbc-redzone-and-more/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 17:00:03+00:00
- - tags: None
 
 The final stretch of the NFL season is underway.
 
@@ -212,7 +186,6 @@ The final stretch of the NFL season is underway.
  - [https://www.cnet.com/tech/services-and-software/packers-vs-bears-livestream-how-to-watch-nfl-week-13-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/packers-vs-bears-livestream-how-to-watch-nfl-week-13-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 16:58:02+00:00
- - tags: None
 
 Want to watch the Green Bay Packers play the Chicago Bears? Here's everything you need to stream Sunday's 1 p.m. ET game on Fox.
 
@@ -220,7 +193,6 @@ Want to watch the Green Bay Packers play the Chicago Bears? Here's everything yo
  - [https://www.cnet.com/tech/services-and-software/broncos-vs-ravens-livestream-how-to-watch-nfl-week-13-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/broncos-vs-ravens-livestream-how-to-watch-nfl-week-13-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 16:56:02+00:00
- - tags: None
 
 Want to watch the Denver Broncos play the Baltimore Ravens? Here's everything you need to stream Sunday's 1 p.m. ET game on CBS.
 
@@ -228,7 +200,6 @@ Want to watch the Denver Broncos play the Baltimore Ravens? Here's everything yo
  - [https://www.cnet.com/tech/services-and-software/titans-vs-eagles-livestream-how-to-watch-nfl-week-13-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/titans-vs-eagles-livestream-how-to-watch-nfl-week-13-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 16:54:02+00:00
- - tags: None
 
 Want to watch the Tennessee Titans play the Philadelphia Eagles? Here's everything you need to stream Sunday's 1 p.m. ET game on Fox.
 
@@ -236,7 +207,6 @@ Want to watch the Tennessee Titans play the Philadelphia Eagles? Here's everythi
  - [https://www.cnet.com/tech/services-and-software/jets-vs-vikings-livestream-how-to-watch-nfl-week-13-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/jets-vs-vikings-livestream-how-to-watch-nfl-week-13-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 16:51:02+00:00
- - tags: None
 
 Want to watch the New York Jets take on the Minnesota Vikings? Here's everything you need to stream Sunday's 1 p.m. ET game on CBS.
 
@@ -244,7 +214,6 @@ Want to watch the New York Jets take on the Minnesota Vikings? Here's everything
  - [https://www.cnet.com/tech/services-and-software/giants-vs-commanders-livestream-how-to-watch-nfl-week-13-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/giants-vs-commanders-livestream-how-to-watch-nfl-week-13-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 16:48:02+00:00
- - tags: None
 
 Want to watch the New York Giants play the Washington Commanders? Here's everything you need to stream Sunday's 1 p.m. ET game on Fox.
 
@@ -252,7 +221,6 @@ Want to watch the New York Giants play the Washington Commanders? Here's everyth
  - [https://www.cnet.com/tech/services-and-software/steelers-vs-falcons-livestream-how-to-watch-nfl-week-13-online-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/steelers-vs-falcons-livestream-how-to-watch-nfl-week-13-online-today/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 16:41:02+00:00
- - tags: None
 
 Want to watch the Pittsburgh Steelers play the Atlanta Falcons? Here's everything you need to stream Sunday's 1 p.m. ET game on CBS.
 
@@ -260,7 +228,6 @@ Want to watch the Pittsburgh Steelers play the Atlanta Falcons? Here's everythin
  - [https://www.cnet.com/tech/mobile/apples-arvr-headset-may-face-shipping-delay/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/apples-arvr-headset-may-face-shipping-delay/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 16:40:00+00:00
- - tags: None
 
 Much-rumored headset likely won't ship in previously expected volume until the second half of 2023, a noted Apple analyst reports.
 
@@ -268,7 +235,6 @@ Much-rumored headset likely won't ship in previously expected volume until the s
  - [https://www.cnet.com/culture/entertainment/a-home-for-the-holidays-christmas-movie-not-enough-people-have-seen/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/a-home-for-the-holidays-christmas-movie-not-enough-people-have-seen/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 16:37:00+00:00
- - tags: None
 
 This 2005 gem starring Sarah Jessica Parker should be on everyone's yuletide watch list.
 
@@ -276,7 +242,6 @@ This 2005 gem starring Sarah Jessica Parker should be on everyone's yuletide wat
  - [https://www.cnet.com/culture/entertainment/every-the-white-lotus-characters-chances-of-dying-ranked/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/every-the-white-lotus-characters-chances-of-dying-ranked/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 16:32:00+00:00
- - tags: None
 
 Let's predict who dies in season 2 based on all the clues from the first 5 episodes.
 
@@ -284,7 +249,6 @@ Let's predict who dies in season 2 based on all the clues from the first 5 episo
  - [https://www.cnet.com/tech/services-and-software/watch-england-vs-senegal-world-cup-2022-match-from-anywhere/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/watch-england-vs-senegal-world-cup-2022-match-from-anywhere/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 16:30:03+00:00
- - tags: None
 
 Is it actually coming home? We'll find out soon enough.
 
@@ -292,7 +256,6 @@ Is it actually coming home? We'll find out soon enough.
  - [https://www.cnet.com/personal-finance/want-more-money-try-this-scientific-secret-to-a-richer-life/#ftag=CADf328eec](https://www.cnet.com/personal-finance/want-more-money-try-this-scientific-secret-to-a-richer-life/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 15:45:02+00:00
- - tags: None
 
 Commentary: It may seem woo-woo, but this tip actually works.
 
@@ -300,7 +263,6 @@ Commentary: It may seem woo-woo, but this tip actually works.
  - [https://www.cnet.com/personal-finance/save-money-on-dining-out-gas-electronics-and-more-with-these-simple-tips/#ftag=CADf328eec](https://www.cnet.com/personal-finance/save-money-on-dining-out-gas-electronics-and-more-with-these-simple-tips/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 15:00:10+00:00
- - tags: None
 
 Inflation is causing the price of necessities and other products to rise. Now is the time to save some extra cash with these shopping habit tips.
 
@@ -308,7 +270,6 @@ Inflation is causing the price of necessities and other products to rise. Now is
  - [https://www.cnet.com/culture/national-cookie-day-is-today-deals-and-freebies-from-subway-potbelly-great-american-cookies/#ftag=CADf328eec](https://www.cnet.com/culture/national-cookie-day-is-today-deals-and-freebies-from-subway-potbelly-great-american-cookies/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 15:00:07+00:00
- - tags: None
 
 Today, Subway is offering footlong cookies at a one-of-a-kind "Cookieway" popup, but it's not the only company offering deals on cookies.
 
@@ -316,7 +277,6 @@ Today, Subway is offering footlong cookies at a one-of-a-kind "Cookieway" popup,
  - [https://www.cnet.com/tech/services-and-software/these-tips-can-help-you-reduce-streaming-costs-for-netflix-hbo-max-and-more/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/these-tips-can-help-you-reduce-streaming-costs-for-netflix-hbo-max-and-more/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 15:00:02+00:00
- - tags: None
 
 Avoid spending all your holiday funds on TV streaming subscriptions.
 
@@ -324,7 +284,6 @@ Avoid spending all your holiday funds on TV streaming subscriptions.
  - [https://www.cnet.com/deals/get-organized-this-holiday-season-with-up-to-36-off-zober-storage/#ftag=CADf328eec](https://www.cnet.com/deals/get-organized-this-holiday-season-with-up-to-36-off-zober-storage/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 14:47:01+00:00
- - tags: None
 
 Grab some durable storage containers specifically designed for wrapping paper and ornaments while they're on sale at Amazon.
 
@@ -332,7 +291,6 @@ Grab some durable storage containers specifically designed for wrapping paper an
  - [https://www.cnet.com/personal-finance/loans/i-just-received-a-6000-student-loan-refund-now-what/#ftag=CADf328eec](https://www.cnet.com/personal-finance/loans/i-just-received-a-6000-student-loan-refund-now-what/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 14:15:02+00:00
- - tags: None
 
 With federal student debt relief hanging in the balance, I'm not taking any risks.
 
@@ -340,7 +298,6 @@ With federal student debt relief hanging in the balance, I'm not taking any risk
  - [https://www.cnet.com/tech/gaming/best-ps4-gaming-headset/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/best-ps4-gaming-headset/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 14:00:15+00:00
- - tags: None
 
 Looking for a new headset for your PlayStation 4 or PlayStation 5? Here are our current top picks, from basic budget models that cost less than $50 to feature-packed high-end powerhouses.
 
@@ -348,7 +305,6 @@ Looking for a new headset for your PlayStation 4 or PlayStation 5? Here are our 
  - [https://www.cnet.com/news/best-stainless-steel-skillet/#ftag=CADf328eec](https://www.cnet.com/news/best-stainless-steel-skillet/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 14:00:11+00:00
- - tags: None
 
 The best stainless steel frying pans are here to make your cooking even better.
 
@@ -356,7 +312,6 @@ The best stainless steel frying pans are here to make your cooking even better.
  - [https://www.cnet.com/news/give-the-gift-of-time-with-this-premium-robot-vacuum/#ftag=CADf328eec](https://www.cnet.com/news/give-the-gift-of-time-with-this-premium-robot-vacuum/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 14:00:02+00:00
- - tags: None
 
 From mopping to refilling its own tank, the Roborock S7 MaxV Ultra does it all. Your loved ones will never have to clean again.
 
@@ -364,7 +319,6 @@ From mopping to refilling its own tank, the Roborock S7 MaxV Ultra does it all. 
  - [https://www.cnet.com/news/best-broadband-deals-for-the-holidays/#ftag=CADf328eec](https://www.cnet.com/news/best-broadband-deals-for-the-holidays/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 13:00:22+00:00
- - tags: None
 
 While hunting for holiday gifts, you can also snag some significant savings on your home internet connection. CNET has the rundown for you.
 
@@ -372,7 +326,6 @@ While hunting for holiday gifts, you can also snag some significant savings on y
  - [https://www.cnet.com/tech/services-and-software/forget-your-apple-login-five-easy-ways-to-reset-your-password/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/forget-your-apple-login-five-easy-ways-to-reset-your-password/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 13:00:19+00:00
- - tags: None
 
 Don't stress if you've forgotten your credentials.
 
@@ -380,7 +333,6 @@ Don't stress if you've forgotten your credentials.
  - [https://www.cnet.com/science/neuralink-expects-its-brain-chips-will-help-the-blind-see-and-the-paralyzed-walk/#ftag=CADf328eec](https://www.cnet.com/science/neuralink-expects-its-brain-chips-will-help-the-blind-see-and-the-paralyzed-walk/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 13:00:15+00:00
- - tags: None
 
 Elon Musk's startup hopes to start testing its N1 implant on humans in six months to connect their brains directly to computers.
 
@@ -388,7 +340,6 @@ Elon Musk's startup hopes to start testing its N1 implant on humans in six month
  - [https://www.cnet.com/tech/computing/amazons-kindle-scribe-wants-to-make-reading-and-writing-hot-again/#ftag=CADf328eec](https://www.cnet.com/tech/computing/amazons-kindle-scribe-wants-to-make-reading-and-writing-hot-again/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 13:00:12+00:00
- - tags: None
 
 Exclusive: The newest Kindle, now with a pen, is designed to draw you into a devoted fellowship of E Ink fans.
 
@@ -396,7 +347,6 @@ Exclusive: The newest Kindle, now with a pen, is designed to draw you into a dev
  - [https://www.cnet.com/how-to/4-biggest-home-security-mistakes-and-how-to-avoid-them/#ftag=CADf328eec](https://www.cnet.com/how-to/4-biggest-home-security-mistakes-and-how-to-avoid-them/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 13:00:09+00:00
- - tags: None
 
 From unlocked windows to exposed house keys, these mistakes can compromise your safety.
 
@@ -404,7 +354,6 @@ From unlocked windows to exposed house keys, these mistakes can compromise your 
  - [https://www.cnet.com/tech/mobile/why-samsungs-z-fold-3-is-better-than-googles-pixel-7-for-me/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/why-samsungs-z-fold-3-is-better-than-googles-pixel-7-for-me/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 13:00:06+00:00
- - tags: None
 
 Commentary: After using the huge screen on Samsung's foldable phone, it's hard to go back.
 
@@ -412,7 +361,6 @@ Commentary: After using the huge screen on Samsung's foldable phone, it's hard t
  - [https://www.cnet.com/science/climate/i-lived-through-a-year-of-weather-whiplash-in-our-weird-warming-world/#ftag=CADf328eec](https://www.cnet.com/science/climate/i-lived-through-a-year-of-weather-whiplash-in-our-weird-warming-world/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 13:00:02+00:00
- - tags: None
 
 After praying for rain for weeks, the US state that saw some of the year's biggest wildfires in 2022 found itself soon suffering a deadly deluge. Scientists say it could be part of a disturbing new normal.
 
@@ -420,7 +368,6 @@ After praying for rain for weeks, the US state that saw some of the year's bigge
  - [https://www.cnet.com/tech/mobile/ios-16s-best-iphone-features-imessage-updates-lock-screen-and-more/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/ios-16s-best-iphone-features-imessage-updates-lock-screen-and-more/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 12:00:07+00:00
- - tags: None
 
 Quickly fix your texting typos or add new widgets to the lock screen.
 
@@ -428,7 +375,6 @@ Quickly fix your texting typos or add new widgets to the lock screen.
  - [https://www.cnet.com/tech/services-and-software/best-resume-writing-services-2022/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/best-resume-writing-services-2022/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 12:00:03+00:00
- - tags: None
 
 Applying for a new job? We've narrowed down the best services you can use to aid in a job hunt.
 
@@ -436,7 +382,6 @@ Applying for a new job? We've narrowed down the best services you can use to aid
  - [https://www.cnet.com/deals/amazon-subscribe-and-save-is-a-feature-that-makes-saving-money-easy/#ftag=CADf328eec](https://www.cnet.com/deals/amazon-subscribe-and-save-is-a-feature-that-makes-saving-money-easy/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 11:15:02+00:00
- - tags: None
 
 Shopping on Amazon is easy and affordable. Here's a tip to save even more.
 
@@ -444,7 +389,6 @@ Shopping on Amazon is easy and affordable. Here's a tip to save even more.
  - [https://www.cnet.com/reviews/roku-streambar-review/#ftag=CADf328eec](https://www.cnet.com/reviews/roku-streambar-review/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 11:00:01+00:00
- - tags: None
 
 This tiny bar adds great 4K HDR streaming, and solid sound, to any TV.
 
@@ -452,7 +396,6 @@ This tiny bar adds great 4K HDR streaming, and solid sound, to any TV.
  - [https://www.cnet.com/science/space/scientist-proposes-building-a-50-acre-forest-bubble-on-mars/#ftag=CADf328eec](https://www.cnet.com/science/space/scientist-proposes-building-a-50-acre-forest-bubble-on-mars/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 07:56:13+00:00
- - tags: None
 
 The "extraterrestrial nature reserve" would support species of value if humans were to colonize the red planet.
 
@@ -460,7 +403,6 @@ The "extraterrestrial nature reserve" would support species of value if humans w
  - [https://www.cnet.com/how-to/dont-have-a-bottle-opener-these-tricks-can-instantly-open-your-beer/#ftag=CADf328eec](https://www.cnet.com/how-to/dont-have-a-bottle-opener-these-tricks-can-instantly-open-your-beer/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 03:00:02+00:00
- - tags: None
 
 No need for a bottle opener when you've got one of these 15 objects nearby.
 
@@ -468,7 +410,6 @@ No need for a bottle opener when you've got one of these 15 objects nearby.
  - [https://www.cnet.com/health/fitness/your-basal-metabolic-rate-bmr-is-the-key-to-losing-weight-or-gaining-muscle/#ftag=CADf328eec](https://www.cnet.com/health/fitness/your-basal-metabolic-rate-bmr-is-the-key-to-losing-weight-or-gaining-muscle/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 02:00:06+00:00
- - tags: None
 
 Here's how to find your basal metabolic rate and use it to meet your personal body goals.
 
@@ -476,7 +417,6 @@ Here's how to find your basal metabolic rate and use it to meet your personal bo
  - [https://www.cnet.com/how-to/youre-setting-up-your-mesh-router-the-wrong-way-heres-what-to-do/#ftag=CADf328eec](https://www.cnet.com/how-to/youre-setting-up-your-mesh-router-the-wrong-way-heres-what-to-do/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 02:00:02+00:00
- - tags: None
 
 You can get faster, more reliable Wi-Fi throughout your entire home with a mesh router -- but you have to put it in the right spot for the best performance.
 
@@ -484,6 +424,5 @@ You can get faster, more reliable Wi-Fi throughout your entire home with a mesh 
  - [https://www.cnet.com/culture/noodle-the-bonesno-bones-day-dog-of-tiktok-dies-at-age-14/#ftag=CADf328eec](https://www.cnet.com/culture/noodle-the-bonesno-bones-day-dog-of-tiktok-dies-at-age-14/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-04 00:38:00+00:00
- - tags: None
 
 Jonathan Graziano's pug went viral for predicting what kind of day viewers should have.

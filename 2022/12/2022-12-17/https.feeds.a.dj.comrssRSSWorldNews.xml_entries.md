@@ -1,4 +1,4 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml
+# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
 
 ## Argentina in World Cup Final Gives Tired Nation a Reason to Celebrate
  - [https://www.wsj.com/articles/argentina-in-world-cup-final-gives-tired-nation-a-reason-to-celebrate-11671296980](https://www.wsj.com/articles/argentina-in-world-cup-final-gives-tired-nation-a-reason-to-celebrate-11671296980)

@@ -1,10 +1,9 @@
-# Source Virtual Reality Oasis, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w
+# Source Virtual Reality Oasis, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w, Source language: en-US
 
 ## Quest Pro Controllers With Quest 2 - Worth The Upgrade?
  - [https://www.youtube.com/watch?v=goJTVY6VEvM](https://www.youtube.com/watch?v=goJTVY6VEvM)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCsmk8NDVMct75j_Bfb9Ah7w
  - date published: 2022-12-12 18:00:14+00:00
- - tags: None
 
 I test out the Quest Pro controllers with the Quest 2. Since update 47 you can now pair Meta Quest Pro controllers with the Meta Quest 2 but is it worth the expensive upgrade?
 

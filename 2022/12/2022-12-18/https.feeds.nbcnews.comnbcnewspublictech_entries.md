@@ -1,4 +1,4 @@
-# Source NBC tech, Source URL:https://feeds.nbcnews.com/nbcnews/public/tech
+# Source NBC tech, Source URL:https://feeds.nbcnews.com/nbcnews/public/tech, Source language: en-US
 
 ## Twitter bans promotion of accounts on other social media sites, including Facebook, Instagram and Truth Social
  - [https://www.nbcnews.com/tech/social-media/twitter-bans-promotion-social-media-sites-facebook-instagram-truth-soc-rcna62305](https://www.nbcnews.com/tech/social-media/twitter-bans-promotion-social-media-sites-facebook-instagram-truth-soc-rcna62305)

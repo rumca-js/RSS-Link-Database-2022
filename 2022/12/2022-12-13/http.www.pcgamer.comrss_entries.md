@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## LG's new OLED 240Hz monitors give 1440p gaming the respect it deserves
  - [https://www.pcgamer.com/lgs-new-oled-240hz-gaming-monitors-give-1440p-gaming-the-respect-it-deserves](https://www.pcgamer.com/lgs-new-oled-240hz-gaming-monitors-give-1440p-gaming-the-respect-it-deserves)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 23:22:45+00:00
- - tags: None
 
 These UltraGear monitors are looking to make that PC gaming sweet spot even sweeter.
 
@@ -12,7 +11,6 @@ These UltraGear monitors are looking to make that PC gaming sweet spot even swee
  - [https://www.pcgamer.com/this-game-copied-among-us-so-hard-it-became-popular-in-almost-exactly-the-same-way](https://www.pcgamer.com/this-game-copied-among-us-so-hard-it-became-popular-in-almost-exactly-the-same-way)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 23:20:45+00:00
- - tags: None
 
 Goose Goose Duck hit Steam's most-played games list this month with help from a Korean superstar.
 
@@ -20,7 +18,6 @@ Goose Goose Duck hit Steam's most-played games list this month with help from a 
  - [https://www.pcgamer.com/midnight-suns-post-after-credits-scene](https://www.pcgamer.com/midnight-suns-post-after-credits-scene)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 23:14:29+00:00
- - tags: None
 
 I think I've figured out what the Midnight Suns sequel will be.
 
@@ -28,7 +25,6 @@ I think I've figured out what the Midnight Suns sequel will be.
  - [https://www.pcgamer.com/the-state-of-path-of-exile-2022](https://www.pcgamer.com/the-state-of-path-of-exile-2022)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 22:46:31+00:00
- - tags: None
 
 The holidays are almost on us, but for Path of Exile fans, Christmas is already here.
 
@@ -36,7 +32,6 @@ The holidays are almost on us, but for Path of Exile fans, Christmas is already 
  - [https://www.pcgamer.com/asus-rog-maximus-z790-hero](https://www.pcgamer.com/asus-rog-maximus-z790-hero)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 22:22:56+00:00
- - tags: None
 
 Raptor Lake ROG.
 
@@ -44,7 +39,6 @@ Raptor Lake ROG.
  - [https://www.pcgamer.com/heres-an-hour-and-a-half-of-geralt-standing-by-a-tranquil-lake-as-peaceful-music-plays](https://www.pcgamer.com/heres-an-hour-and-a-half-of-geralt-standing-by-a-tranquil-lake-as-peaceful-music-plays)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 22:09:46+00:00
- - tags: None
 
 Relax. Watch the water. Listen to the wind. Be in the moment. Drink in the sights and sounds of the continent.
 
@@ -52,7 +46,6 @@ Relax. Watch the water. Listen to the wind. Be in the moment. Drink in the sight
  - [https://www.pcgamer.com/founder-of-collapsed-crypto-exchange-ftx-arrested-in-the-bahamas](https://www.pcgamer.com/founder-of-collapsed-crypto-exchange-ftx-arrested-in-the-bahamas)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 21:12:43+00:00
- - tags: None
 
 Sam Bankman-Fried is faced extradition to the US, where he's been formally charged with fraud.
 
@@ -60,7 +53,6 @@ Sam Bankman-Fried is faced extradition to the US, where he's been formally charg
  - [https://www.pcgamer.com/psa-dont-play-destiny-2s-new-dawning-event-without-equipping-this-item-first](https://www.pcgamer.com/psa-dont-play-destiny-2s-new-dawning-event-without-equipping-this-item-first)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 20:47:19+00:00
- - tags: None
 
 A unique ship from Season 12 will make your holiday loot chase much more smooth.
 
@@ -68,7 +60,6 @@ A unique ship from Season 12 will make your holiday loot chase much more smooth.
  - [https://www.pcgamer.com/paris-hilton-and-jimmy-fallon-are-being-sued-for-promoting-nfts](https://www.pcgamer.com/paris-hilton-and-jimmy-fallon-are-being-sued-for-promoting-nfts)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 19:22:17+00:00
- - tags: None
 
 A proposed class action suit alleges that their enthusiasm for NFTs was bought and paid for, without any disclosure.
 
@@ -76,7 +67,6 @@ A proposed class action suit alleges that their enthusiasm for NFTs was bought a
  - [https://www.pcgamer.com/magic-the-gathering-goes-full-hellraiser-with-more-junji-ito-art](https://www.pcgamer.com/magic-the-gathering-goes-full-hellraiser-with-more-junji-ito-art)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 19:00:00+00:00
- - tags: None
 
 Next year's Phyrexia: All Will Be One set has a body horror vibe.
 
@@ -84,7 +74,6 @@ Next year's Phyrexia: All Will Be One set has a body horror vibe.
  - [https://www.pcgamer.com/how-world-of-warcrafts-new-dragon-race-brought-a-10-year-old-loot-system-to-its-knees](https://www.pcgamer.com/how-world-of-warcrafts-new-dragon-race-brought-a-10-year-old-loot-system-to-its-knees)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 18:39:44+00:00
- - tags: None
 
 The tale of the 28 hours that broke the MMO and its players.
 
@@ -92,7 +81,6 @@ The tale of the 28 hours that broke the MMO and its players.
  - [https://www.pcgamer.com/happy-settings-are-beyond-fromsoftwares-capability-or-experiences-says-miyazaki](https://www.pcgamer.com/happy-settings-are-beyond-fromsoftwares-capability-or-experiences-says-miyazaki)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 18:00:53+00:00
- - tags: None
 
 This is Cookie and Cream erasure.
 
@@ -100,7 +88,6 @@ This is Cookie and Cream erasure.
  - [https://www.pcgamer.com/high-on-life-lets-you-watch-an-entire-90-minute-movie-for-some-reason](https://www.pcgamer.com/high-on-life-lets-you-watch-an-entire-90-minute-movie-for-some-reason)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 17:32:14+00:00
- - tags: None
 
 Tammy and the T-Rex, anyone?
 
@@ -108,7 +95,6 @@ Tammy and the T-Rex, anyone?
  - [https://www.pcgamer.com/valheim-staff-of-embers](https://www.pcgamer.com/valheim-staff-of-embers)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 17:00:16+00:00
- - tags: None
 
 Show off the magical side of your Viking.
 
@@ -116,7 +102,6 @@ Show off the magical side of your Viking.
  - [https://www.pcgamer.com/heres-why-first-gen-oled-gaming-monitors-arent-truly-pc-optimized](https://www.pcgamer.com/heres-why-first-gen-oled-gaming-monitors-arent-truly-pc-optimized)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 16:50:12+00:00
- - tags: None
 
 True PC-specific OLED panels won't arrive until the second half of 2024.
 
@@ -124,7 +109,6 @@ True PC-specific OLED panels won't arrive until the second half of 2024.
  - [https://www.pcgamer.com/200000-amd-radeon-rx-7900-gpus-reportedly-available-at-launch](https://www.pcgamer.com/200000-amd-radeon-rx-7900-gpus-reportedly-available-at-launch)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 16:49:49+00:00
- - tags: None
 
 But still sold out?
 
@@ -132,7 +116,6 @@ But still sold out?
  - [https://www.pcgamer.com/high-on-life-5-torg](https://www.pcgamer.com/high-on-life-5-torg)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 16:45:26+00:00
- - tags: None
 
 What goes around, comes around.
 
@@ -140,7 +123,6 @@ What goes around, comes around.
  - [https://www.pcgamer.com/after-14-months-in-a-final-fantasy-14-induced-coma-ive-struggled-to-adapt-to-a-post-mmo-world](https://www.pcgamer.com/after-14-months-in-a-final-fantasy-14-induced-coma-ive-struggled-to-adapt-to-a-post-mmo-world)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 16:13:51+00:00
- - tags: None
 
 Focusing everything into one game made me lose sight of my lifelong hobby, and readjusting has been weird.
 
@@ -148,7 +130,6 @@ Focusing everything into one game made me lose sight of my lifelong hobby, and r
  - [https://www.pcgamer.com/warhammer-40000-darktide-veteran-build](https://www.pcgamer.com/warhammer-40000-darktide-veteran-build)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 15:31:57+00:00
- - tags: None
 
 Suppress the chaos hordes with your sharpshooting prowess.
 
@@ -156,7 +137,6 @@ Suppress the chaos hordes with your sharpshooting prowess.
  - [https://www.pcgamer.com/the-witcher-3-family-matters-best-ending-choices](https://www.pcgamer.com/the-witcher-3-family-matters-best-ending-choices)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 15:04:09+00:00
- - tags: None
 
 How to discover the truth about the Bloody Baron and his family.
 
@@ -164,7 +144,6 @@ How to discover the truth about the Bloody Baron and his family.
  - [https://www.pcgamer.com/the-witcher-3-forgotten-wolf-armor-netflix](https://www.pcgamer.com/the-witcher-3-forgotten-wolf-armor-netflix)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 15:00:51+00:00
- - tags: None
 
 A new quest unlocks an alternative wolf armor set for Geralt.
 
@@ -172,7 +151,6 @@ A new quest unlocks an alternative wolf armor set for Geralt.
  - [https://www.pcgamer.com/the-witcher-3-nilfgaard-netflix-armor](https://www.pcgamer.com/the-witcher-3-nilfgaard-netflix-armor)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 15:00:20+00:00
- - tags: None
 
 The gentleman will kindly dress.
 
@@ -180,7 +158,6 @@ The gentleman will kindly dress.
  - [https://www.pcgamer.com/2022-was-the-year-i-fell-in-and-out-of-love-with-ray-tracing](https://www.pcgamer.com/2022-was-the-year-i-fell-in-and-out-of-love-with-ray-tracing)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 14:51:39+00:00
- - tags: None
 
 But DLSS is still my BFF.
 
@@ -188,7 +165,6 @@ But DLSS is still my BFF.
  - [https://www.pcgamer.com/high-on-life-stab-gene](https://www.pcgamer.com/high-on-life-stab-gene)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 14:11:53+00:00
- - tags: None
 
 Here's what happens if you listen to knife.
 
@@ -196,7 +172,6 @@ Here's what happens if you listen to knife.
  - [https://www.pcgamer.com/want-excellent-in-game-accuracy-check-out-these-asus-pc-gaming-peripherals](https://www.pcgamer.com/want-excellent-in-game-accuracy-check-out-these-asus-pc-gaming-peripherals)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 14:00:00+00:00
- - tags: None
 
 Accuracy and precision are incredibly important in competitive games, and while high-end gaming peripherals won’t instantly make you an elite player, they’ll help you improve and develop your skills significantly. Here are some from ASUS that you should consider picking up.
 
@@ -204,7 +179,6 @@ Accuracy and precision are incredibly important in competitive games, and while 
  - [https://www.pcgamer.com/modders-are-on-an-rtx-rampage-having-added-ray-tracing-to-half-life-2-max-payne-and-even-swat-4](https://www.pcgamer.com/modders-are-on-an-rtx-rampage-having-added-ray-tracing-to-half-life-2-max-payne-and-even-swat-4)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 13:55:17+00:00
- - tags: None
 
 Nvidia's RTX Remix makes adding ray tracing to any old game incredibly easy.
 
@@ -212,7 +186,6 @@ Nvidia's RTX Remix makes adding ray tracing to any old game incredibly easy.
  - [https://www.pcgamer.com/wows-new-trading-post-feature-will-let-you-pick-up-older-and-paid-cosmetics-for-free](https://www.pcgamer.com/wows-new-trading-post-feature-will-let-you-pick-up-older-and-paid-cosmetics-for-free)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 13:34:36+00:00
- - tags: None
 
 It's like a battle pass, but cool?
 
@@ -220,7 +193,6 @@ It's like a battle pass, but cool?
  - [https://www.pcgamer.com/world-of-warcraft-dragonflight-fuel-for-the-forge-magma-cores](https://www.pcgamer.com/world-of-warcraft-dragonflight-fuel-for-the-forge-magma-cores)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 12:24:30+00:00
- - tags: None
 
 Where to find Magma Cores for this blacksmithing quest.
 
@@ -228,7 +200,6 @@ Where to find Magma Cores for this blacksmithing quest.
  - [https://www.pcgamer.com/the-witcher-3-next-gen-update-release-times](https://www.pcgamer.com/the-witcher-3-next-gen-update-release-times)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 12:02:47+00:00
- - tags: None
 
 Get your hands on the new and improved Wild Hunt.
 
@@ -236,7 +207,6 @@ Get your hands on the new and improved Wild Hunt.
  - [https://www.pcgamer.com/news/live/where-to-buy-amd-rx-7900-xtx](https://www.pcgamer.com/news/live/where-to-buy-amd-rx-7900-xtx)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 12:00:05+00:00
- - tags: None
 
 The RX 7900-series graphics cards are out today, and I'll report back here with any available stock I find.
 
@@ -244,7 +214,6 @@ The RX 7900-series graphics cards are out today, and I'll report back here with 
  - [https://www.pcgamer.com/intel-promises-a-lot-more-arc-in-2023-and-more-variations-of-its-mainstream-graphics-cards](https://www.pcgamer.com/intel-promises-a-lot-more-arc-in-2023-and-more-variations-of-its-mainstream-graphics-cards)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 11:49:04+00:00
- - tags: None
 
 Reports of Arc's demise greatly exaggerated.
 
@@ -252,7 +221,6 @@ Reports of Arc's demise greatly exaggerated.
  - [https://www.pcgamer.com/fortnite-is-giving-you-3-hours-to-win-a-million-dollars-this-weekend](https://www.pcgamer.com/fortnite-is-giving-you-3-hours-to-win-a-million-dollars-this-weekend)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 11:44:16+00:00
- - tags: None
 
 Beast mode.
 
@@ -260,7 +228,6 @@ Beast mode.
  - [https://www.pcgamer.com/wreak-havoc-with-this-completely-free-dandd-inspired-ai-story-generator](https://www.pcgamer.com/wreak-havoc-with-this-completely-free-dandd-inspired-ai-story-generator)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 10:58:46+00:00
- - tags: None
 
 Latitude has now figured out new ways of making money that don't involve annoying ads.
 
@@ -268,7 +235,6 @@ Latitude has now figured out new ways of making money that don't involve annoyin
  - [https://www.pcgamer.com/wordle-542-answer-december-13](https://www.pcgamer.com/wordle-542-answer-december-13)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 08:05:46+00:00
- - tags: None
 
 Wordle today: The solution and a hint for the #542 puzzle.
 
@@ -276,7 +242,6 @@ Wordle today: The solution and a hint for the #542 puzzle.
  - [https://www.pcgamer.com/china-petitions-wto-as-more-countries-promise-semiconductor-sanctions](https://www.pcgamer.com/china-petitions-wto-as-more-countries-promise-semiconductor-sanctions)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 04:57:39+00:00
- - tags: None
 
 Japan and Netherlands are set to join the fight.
 
@@ -284,7 +249,6 @@ Japan and Netherlands are set to join the fight.
  - [https://www.pcgamer.com/dwarf-fortress-now-needs-about-100-icons-for-spilled-intestines-torn-arteries-and-bruised-tendons](https://www.pcgamer.com/dwarf-fortress-now-needs-about-100-icons-for-spilled-intestines-torn-arteries-and-bruised-tendons)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 01:24:54+00:00
- - tags: None
 
 Dwarf Fortress's absurdly nuanced medical system still needs its graphical touch-up.
 
@@ -292,6 +256,5 @@ Dwarf Fortress's absurdly nuanced medical system still needs its graphical touch
  - [https://www.pcgamer.com/after-spending-20-years-simulating-reality-the-dwarf-fortress-devs-have-to-get-used-to-a-new-one-being-millionaires](https://www.pcgamer.com/after-spending-20-years-simulating-reality-the-dwarf-fortress-devs-have-to-get-used-to-a-new-one-being-millionaires)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-13 00:41:44+00:00
- - tags: None
 
 With 300,000 sales and counting, Dwarf Fortress's creators no longer have to rely on Patreon donations.

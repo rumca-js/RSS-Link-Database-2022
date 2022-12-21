@@ -1,4 +1,4 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## United Airlines got customers truly excited. Then came the embarrassment
  - [https://www.zdnet.com/article/united-airlines-got-customers-truly-excited-then-came-the-embarrassment/#ftag=RSSbaffb68](https://www.zdnet.com/article/united-airlines-got-customers-truly-excited-then-came-the-embarrassment/#ftag=RSSbaffb68)

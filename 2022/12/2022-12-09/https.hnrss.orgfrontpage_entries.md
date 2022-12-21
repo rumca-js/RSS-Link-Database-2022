@@ -1,10 +1,9 @@
-# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage
+# Source Hacker News - frontpage, Source URL:https://hnrss.org/frontpage, Source language: en-US
 
 ## AT&T Long Lines – A Forgotten System (2018)
  - [http://personal.garrettfuller.org/blog/2018/01/19/att-long-lines-a-forgotten-system/](http://personal.garrettfuller.org/blog/2018/01/19/att-long-lines-a-forgotten-system/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 23:20:30+00:00
- - tags: None
 
 <p>Article URL: <a href="http://personal.garrettfuller.org/blog/2018/01/19/att-long-lines-a-forgotten-system/">http://personal.garrettfuller.org/blog/2018/01/19/att-long-lines-a-forgotten-system/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33927820">https://news.ycombinator.com/item?id=33927820</a></p>
@@ -15,7 +14,6 @@
  - [https://www.plai.org/](https://www.plai.org/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 22:08:36+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.plai.org/">https://www.plai.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33927021">https://news.ycombinator.com/item?id=33927021</a></p>
@@ -26,7 +24,6 @@
  - [https://github.com/R9295/panoptisch](https://github.com/R9295/panoptisch)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 21:45:50+00:00
- - tags: None
 
 <p>Hello all,<p>Very excited to share this project with you all!<p>Panoptisch scans your Python file or module to find it's imports (aka dependencies) and recursively does so for all dependencies and sub-dependencies. It then generates a dependency tree in JSON for you to parse and enforce import policies.<p>Supply chain attacks are no joke, and this is one way to transparently analyze your dependencies to see if any malicious imports are taking place. For example, your yaml parser, nor it's sub-dependencies should import socket, or sys.<p>Panoptisch is in early stages, with known limitations (for now). I welcome feedback, testing and contributions.<p>Also, happy to answer any questions!</p>
 <hr />
@@ -38,7 +35,6 @@
  - [https://www.canarymedia.com/articles/solar/a-100mw-solar-farm-in-texas-will-mount-panels-directly-on-the-ground](https://www.canarymedia.com/articles/solar/a-100mw-solar-farm-in-texas-will-mount-panels-directly-on-the-ground)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 21:33:46+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.canarymedia.com/articles/solar/a-100mw-solar-farm-in-texas-will-mount-panels-directly-on-the-ground">https://www.canarymedia.com/articles/solar/a-100mw-solar-farm-in-texas-will-mount-panels-directly-on-the-ground</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33926683">https://news.ycombinator.com/item?id=33926683</a></p>
@@ -49,7 +45,6 @@
  - [https://swr.vercel.app/blog/swr-v2](https://swr.vercel.app/blog/swr-v2)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 21:29:57+00:00
- - tags: None
 
 <p>Article URL: <a href="https://swr.vercel.app/blog/swr-v2">https://swr.vercel.app/blog/swr-v2</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33926652">https://news.ycombinator.com/item?id=33926652</a></p>
@@ -60,7 +55,6 @@
  - [https://www.ft.com/content/8cd27d16-c996-4dc7-86af-ed6f40ff361c](https://www.ft.com/content/8cd27d16-c996-4dc7-86af-ed6f40ff361c)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 21:28:20+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.ft.com/content/8cd27d16-c996-4dc7-86af-ed6f40ff361c">https://www.ft.com/content/8cd27d16-c996-4dc7-86af-ed6f40ff361c</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33926639">https://news.ycombinator.com/item?id=33926639</a></p>
@@ -71,7 +65,6 @@
  - [https://blog.datawrapper.de/the-case-for-speed-limits/](https://blog.datawrapper.de/the-case-for-speed-limits/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 21:27:20+00:00
- - tags: None
 
 <p>Article URL: <a href="https://blog.datawrapper.de/the-case-for-speed-limits/">https://blog.datawrapper.de/the-case-for-speed-limits/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33926630">https://news.ycombinator.com/item?id=33926630</a></p>
@@ -82,7 +75,6 @@
  - [https://wiki.xxiivv.com/site/uxn.html](https://wiki.xxiivv.com/site/uxn.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 21:23:39+00:00
- - tags: None
 
 <p>Article URL: <a href="https://wiki.xxiivv.com/site/uxn.html">https://wiki.xxiivv.com/site/uxn.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33926600">https://news.ycombinator.com/item?id=33926600</a></p>
@@ -93,7 +85,6 @@
  - [https://twitter.com/torynski/status/1600968583055826944](https://twitter.com/torynski/status/1600968583055826944)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 21:19:32+00:00
- - tags: None
 
 <p>Article URL: <a href="https://twitter.com/torynski/status/1600968583055826944">https://twitter.com/torynski/status/1600968583055826944</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33926564">https://news.ycombinator.com/item?id=33926564</a></p>
@@ -104,7 +95,6 @@
  - [https://apps.apple.com/us/app/besanta-by-animato/id1658475271](https://apps.apple.com/us/app/besanta-by-animato/id1658475271)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 21:10:09+00:00
- - tags: None
 
 <p>Article URL: <a href="https://apps.apple.com/us/app/besanta-by-animato/id1658475271">https://apps.apple.com/us/app/besanta-by-animato/id1658475271</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33926489">https://news.ycombinator.com/item?id=33926489</a></p>
@@ -115,7 +105,6 @@
  - [https://redmonk.com/sogrady/2022/12/09/faster-horse/](https://redmonk.com/sogrady/2022/12/09/faster-horse/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 21:06:01+00:00
- - tags: None
 
 <p>Article URL: <a href="https://redmonk.com/sogrady/2022/12/09/faster-horse/">https://redmonk.com/sogrady/2022/12/09/faster-horse/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33926452">https://news.ycombinator.com/item?id=33926452</a></p>
@@ -126,7 +115,6 @@
  - [https://www.githubtrends.io](https://www.githubtrends.io)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 21:00:32+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.githubtrends.io">https://www.githubtrends.io</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33926412">https://news.ycombinator.com/item?id=33926412</a></p>
@@ -137,7 +125,6 @@
  - [https://github.com/charmbracelet/glow](https://github.com/charmbracelet/glow)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 19:53:46+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/charmbracelet/glow">https://github.com/charmbracelet/glow</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33925741">https://news.ycombinator.com/item?id=33925741</a></p>
@@ -148,7 +135,6 @@
  - [https://groups.google.com/a/chromium.org/g/chromium-extensions/c/zQ77HkGmK9E](https://groups.google.com/a/chromium.org/g/chromium-extensions/c/zQ77HkGmK9E)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 19:53:10+00:00
- - tags: None
 
 <p>Article URL: <a href="https://groups.google.com/a/chromium.org/g/chromium-extensions/c/zQ77HkGmK9E">https://groups.google.com/a/chromium.org/g/chromium-extensions/c/zQ77HkGmK9E</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33925735">https://news.ycombinator.com/item?id=33925735</a></p>
@@ -159,7 +145,6 @@
  - [https://pulsar-edit.dev/](https://pulsar-edit.dev/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 19:16:24+00:00
- - tags: None
 
 <p>Article URL: <a href="https://pulsar-edit.dev/">https://pulsar-edit.dev/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33925342">https://news.ycombinator.com/item?id=33925342</a></p>
@@ -170,7 +155,6 @@
  - [https://www.fox4news.com/news/texas-bill-would-ban-social-media-for-children-under-18](https://www.fox4news.com/news/texas-bill-would-ban-social-media-for-children-under-18)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 19:07:30+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.fox4news.com/news/texas-bill-would-ban-social-media-for-children-under-18">https://www.fox4news.com/news/texas-bill-would-ban-social-media-for-children-under-18</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33925236">https://news.ycombinator.com/item?id=33925236</a></p>
@@ -181,7 +165,6 @@
  - [https://fireship.io/](https://fireship.io/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 19:04:03+00:00
- - tags: None
 
 <p>Article URL: <a href="https://fireship.io/">https://fireship.io/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33925197">https://news.ycombinator.com/item?id=33925197</a></p>
@@ -192,7 +175,6 @@
  - [https://abuqader.substack.com/p/i-fine-tuned-flan-t5-can-it-cook](https://abuqader.substack.com/p/i-fine-tuned-flan-t5-can-it-cook)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 19:00:34+00:00
- - tags: None
 
 <p>Checkout the app at <a href="https://www.lechef.fyi" rel="nofollow">https://www.lechef.fyi</a></p>
 <hr />
@@ -204,7 +186,6 @@
  - [https://www.oecd-forum.org/posts/fragility-digitally-the-internet-during-world-war](https://www.oecd-forum.org/posts/fragility-digitally-the-internet-during-world-war)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 19:00:17+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.oecd-forum.org/posts/fragility-digitally-the-internet-during-world-war">https://www.oecd-forum.org/posts/fragility-digitally-the-internet-during-world-war</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33925160">https://news.ycombinator.com/item?id=33925160</a></p>
@@ -215,7 +196,6 @@
  - [https://ochagavia.nl/blog/how-i-got-involved-in-the-rust-community/](https://ochagavia.nl/blog/how-i-got-involved-in-the-rust-community/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 18:51:02+00:00
- - tags: None
 
 <p>Article URL: <a href="https://ochagavia.nl/blog/how-i-got-involved-in-the-rust-community/">https://ochagavia.nl/blog/how-i-got-involved-in-the-rust-community/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33925049">https://news.ycombinator.com/item?id=33925049</a></p>
@@ -226,7 +206,6 @@
  - [https://matthias-research.github.io/pages/tenMinutePhysics/index.html](https://matthias-research.github.io/pages/tenMinutePhysics/index.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 18:50:57+00:00
- - tags: None
 
 <p>Article URL: <a href="https://matthias-research.github.io/pages/tenMinutePhysics/index.html">https://matthias-research.github.io/pages/tenMinutePhysics/index.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33925047">https://news.ycombinator.com/item?id=33925047</a></p>
@@ -237,7 +216,6 @@
  - [https://arxiv.org/abs/2104.12653](https://arxiv.org/abs/2104.12653)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 18:43:42+00:00
- - tags: None
 
 <p>Article URL: <a href="https://arxiv.org/abs/2104.12653">https://arxiv.org/abs/2104.12653</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33924961">https://news.ycombinator.com/item?id=33924961</a></p>
@@ -248,7 +226,6 @@
  - [https://chipsandcheese.com/2022/12/08/knights-landing-atom-with-avx-512/](https://chipsandcheese.com/2022/12/08/knights-landing-atom-with-avx-512/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 18:42:50+00:00
- - tags: None
 
 <p>Article URL: <a href="https://chipsandcheese.com/2022/12/08/knights-landing-atom-with-avx-512/">https://chipsandcheese.com/2022/12/08/knights-landing-atom-with-avx-512/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33924944">https://news.ycombinator.com/item?id=33924944</a></p>
@@ -259,7 +236,6 @@
  - [https://jvns.ca/blog/2018/01/28/mac-freeze/](https://jvns.ca/blog/2018/01/28/mac-freeze/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 18:28:58+00:00
- - tags: None
 
 <p>Article URL: <a href="https://jvns.ca/blog/2018/01/28/mac-freeze/">https://jvns.ca/blog/2018/01/28/mac-freeze/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33924754">https://news.ycombinator.com/item?id=33924754</a></p>
@@ -270,7 +246,6 @@
  - [https://www.learngpt.com/](https://www.learngpt.com/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 17:21:22+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.learngpt.com/">https://www.learngpt.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33923907">https://news.ycombinator.com/item?id=33923907</a></p>
@@ -281,7 +256,6 @@
  - [https://www.dallasnews.com/news/politics/2022/12/09/north-texas-republican-files-bill-to-ban-social-media-for-texans-under-18/](https://www.dallasnews.com/news/politics/2022/12/09/north-texas-republican-files-bill-to-ban-social-media-for-texans-under-18/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 17:05:03+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.dallasnews.com/news/politics/2022/12/09/north-texas-republican-files-bill-to-ban-social-media-for-texans-under-18/">https://www.dallasnews.com/news/politics/2022/12/09/north-texas-republican-files-bill-to-ban-social-media-for-texans-under-18/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33923685">https://news.ycombinator.com/item?id=33923685</a></p>
@@ -292,7 +266,6 @@
  - [https://vitejs.dev/blog/announcing-vite4.html](https://vitejs.dev/blog/announcing-vite4.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 16:55:21+00:00
- - tags: None
 
 <p>Article URL: <a href="https://vitejs.dev/blog/announcing-vite4.html">https://vitejs.dev/blog/announcing-vite4.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33923537">https://news.ycombinator.com/item?id=33923537</a></p>
@@ -303,7 +276,6 @@
  - [https://news.ycombinator.com/item?id=33923137](https://news.ycombinator.com/item?id=33923137)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 16:28:10+00:00
- - tags: None
 
 <p>It may be passive or active or maintenance mode of income. Just something created by you and your sole passion that have worked out for quite some time and maybe still going on.</p>
 <hr />
@@ -315,7 +287,6 @@
  - [https://www.spoon-tamago.com/2022/10/30/jimi-mundane-halloween-2022/](https://www.spoon-tamago.com/2022/10/30/jimi-mundane-halloween-2022/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 16:12:20+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.spoon-tamago.com/2022/10/30/jimi-mundane-halloween-2022/">https://www.spoon-tamago.com/2022/10/30/jimi-mundane-halloween-2022/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33922916">https://news.ycombinator.com/item?id=33922916</a></p>
@@ -326,7 +297,6 @@
  - [https://github.com/pynecone-io/pynecone](https://github.com/pynecone-io/pynecone)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 16:00:32+00:00
- - tags: None
 
 <p>Hello, we just launched the alpha release of Pynecone - a way to build full-stack web apps in pure Python. The framework is easy to get started with even without previous web dev experience and is completely open source / free to use.<p>We made Pynecone for Python devs who want to make web apps, but don’t want the overhead of having to learn or use Javascript. We wanted more flexibility than existing Python frameworks like Streamlit/Dash that don't allow the user to make real, customizable web apps.<p>With Pynecone, you can make anything from a small data science/python project to a full-scale, multi page web app.  We have over 60+ built-in components and are adding more.<p>We are actively trying to grow this project so no matter you skill level we welcome contributions! Open up an issue if you find missing features/bugs or contribute to existing issue.</p>
 <hr />
@@ -338,7 +308,6 @@
  - [https://deepmind.github.io/dramatron/](https://deepmind.github.io/dramatron/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 15:59:40+00:00
- - tags: None
 
 <p>Article URL: <a href="https://deepmind.github.io/dramatron/">https://deepmind.github.io/dramatron/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33922744">https://news.ycombinator.com/item?id=33922744</a></p>
@@ -349,7 +318,6 @@
  - [https://spectrum.ieee.org/tech-layoffs-2022](https://spectrum.ieee.org/tech-layoffs-2022)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 15:41:20+00:00
- - tags: None
 
 <p>Article URL: <a href="https://spectrum.ieee.org/tech-layoffs-2022">https://spectrum.ieee.org/tech-layoffs-2022</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33922483">https://news.ycombinator.com/item?id=33922483</a></p>
@@ -360,7 +328,6 @@
  - [https://www.apa.org/news/press/releases/2022/12/volatile-gig-workers-health-problems](https://www.apa.org/news/press/releases/2022/12/volatile-gig-workers-health-problems)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 15:31:18+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.apa.org/news/press/releases/2022/12/volatile-gig-workers-health-problems">https://www.apa.org/news/press/releases/2022/12/volatile-gig-workers-health-problems</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33922328">https://news.ycombinator.com/item?id=33922328</a></p>
@@ -371,7 +338,6 @@
  - [https://news.cornell.edu/stories/2022/12/electric-car-sales-drive-toward-cleaner-air-less-mortality](https://news.cornell.edu/stories/2022/12/electric-car-sales-drive-toward-cleaner-air-less-mortality)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 15:28:38+00:00
- - tags: None
 
 <p>Article URL: <a href="https://news.cornell.edu/stories/2022/12/electric-car-sales-drive-toward-cleaner-air-less-mortality">https://news.cornell.edu/stories/2022/12/electric-car-sales-drive-toward-cleaner-air-less-mortality</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33922282">https://news.ycombinator.com/item?id=33922282</a></p>
@@ -382,7 +348,6 @@
  - [https://github.com/eamonnsullivan/backup-scripts](https://github.com/eamonnsullivan/backup-scripts)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 15:27:31+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/eamonnsullivan/backup-scripts">https://github.com/eamonnsullivan/backup-scripts</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33922267">https://news.ycombinator.com/item?id=33922267</a></p>
@@ -404,7 +369,6 @@
  - [https://medium.com/source-and-buggy/data-driven-performance-optimization-with-rust-and-miri-70cb6dde0d35](https://medium.com/source-and-buggy/data-driven-performance-optimization-with-rust-and-miri-70cb6dde0d35)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 14:48:20+00:00
- - tags: None
 
 <p>Article URL: <a href="https://medium.com/source-and-buggy/data-driven-performance-optimization-with-rust-and-miri-70cb6dde0d35">https://medium.com/source-and-buggy/data-driven-performance-optimization-with-rust-and-miri-70cb6dde0d35</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33921731">https://news.ycombinator.com/item?id=33921731</a></p>
@@ -415,7 +379,6 @@
  - [https://www.eurekalert.org/news-releases/973666](https://www.eurekalert.org/news-releases/973666)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 14:35:20+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.eurekalert.org/news-releases/973666">https://www.eurekalert.org/news-releases/973666</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33921585">https://news.ycombinator.com/item?id=33921585</a></p>
@@ -426,7 +389,6 @@
  - [http://www.gridwatch.templar.co.uk/](http://www.gridwatch.templar.co.uk/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 14:34:01+00:00
- - tags: None
 
 <p>Article URL: <a href="http://www.gridwatch.templar.co.uk/">http://www.gridwatch.templar.co.uk/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33921576">https://news.ycombinator.com/item?id=33921576</a></p>
@@ -437,7 +399,6 @@
  - [https://news.ycombinator.com/item?id=33921404](https://news.ycombinator.com/item?id=33921404)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 14:16:10+00:00
- - tags: None
 
 <p>I often have a thought or insight and I want to have a conversation about it with interested people. Usually the quality of discussion is best on HN. Sometimes you get a good response to an Ask HN, sometimes it doesn't feel like the right place to post it.<p>I always struggle to find the best place to generate the best discussion. It's like its spread across Reddit, Discord, Slack, HackerNews, Twitter, etc.<p>Anyone else struggle with this?</p>
 <hr />
@@ -449,7 +410,6 @@
  - [https://blog.charliemeyer.co/chatgpt-the-abacus-and-education/](https://blog.charliemeyer.co/chatgpt-the-abacus-and-education/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 14:02:15+00:00
- - tags: None
 
 <p>Article URL: <a href="https://blog.charliemeyer.co/chatgpt-the-abacus-and-education/">https://blog.charliemeyer.co/chatgpt-the-abacus-and-education/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33921292">https://news.ycombinator.com/item?id=33921292</a></p>
@@ -460,7 +420,6 @@
  - [https://www.neovimconf.live/](https://www.neovimconf.live/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 13:57:35+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.neovimconf.live/">https://www.neovimconf.live/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33921251">https://news.ycombinator.com/item?id=33921251</a></p>
@@ -471,7 +430,6 @@
  - [https://tenderlovemaking.com/2022/12/07/in-memory-of-a-giant.html](https://tenderlovemaking.com/2022/12/07/in-memory-of-a-giant.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 13:55:14+00:00
- - tags: None
 
 <p>Article URL: <a href="https://tenderlovemaking.com/2022/12/07/in-memory-of-a-giant.html">https://tenderlovemaking.com/2022/12/07/in-memory-of-a-giant.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33921229">https://news.ycombinator.com/item?id=33921229</a></p>
@@ -482,7 +440,6 @@
  - [https://archive.vn/6EXTd](https://archive.vn/6EXTd)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 13:54:51+00:00
- - tags: None
 
 <p>Article URL: <a href="https://archive.vn/6EXTd">https://archive.vn/6EXTd</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33921223">https://news.ycombinator.com/item?id=33921223</a></p>
@@ -493,7 +450,6 @@
  - [https://news.ycombinator.com/item?id=33921115](https://news.ycombinator.com/item?id=33921115)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 13:43:29+00:00
- - tags: None
 
 <p>Considering how easy it is to generate a public/private key pair it's not that easy and not cheap to get an widely trusted document signing certificate. Especially one with LTV (longtime valid for verifying)<p>Is this just the market monopoly? If letsencrypt broke it for SSL, couldn't it be done for PDF signing also?</p>
 <hr />
@@ -505,7 +461,6 @@
  - [https://stackdiary.com/css-media-queries/](https://stackdiary.com/css-media-queries/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 13:33:22+00:00
- - tags: None
 
 <p>Article URL: <a href="https://stackdiary.com/css-media-queries/">https://stackdiary.com/css-media-queries/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33921023">https://news.ycombinator.com/item?id=33921023</a></p>
@@ -516,7 +471,6 @@
  - [https://github.com/cloudentity/oauth2c](https://github.com/cloudentity/oauth2c)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 13:16:55+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/cloudentity/oauth2c">https://github.com/cloudentity/oauth2c</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33920885">https://news.ycombinator.com/item?id=33920885</a></p>
@@ -527,7 +481,6 @@
  - [https://www.metallicss.com](https://www.metallicss.com)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 12:28:53+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.metallicss.com">https://www.metallicss.com</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33920510">https://news.ycombinator.com/item?id=33920510</a></p>
@@ -538,7 +491,6 @@
  - [https://news.ycombinator.com/item?id=33920330](https://news.ycombinator.com/item?id=33920330)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 12:00:20+00:00
- - tags: None
 
 <p>Hi everyone - we're hiring our first engineer for KaiPod Learning to power our new learning model.<p>A bit about us -
 * Coming out of the pandemic, more parents than ever want to be in charge of their child's education. In fact, more than 5M will want their child to pursue alternatives (e.g., online schools, homeschooling) in the next 5 years.
@@ -560,7 +512,6 @@
  - [https://www.iranintl.com/en/202212077198](https://www.iranintl.com/en/202212077198)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 11:36:32+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.iranintl.com/en/202212077198">https://www.iranintl.com/en/202212077198</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33920210">https://news.ycombinator.com/item?id=33920210</a></p>
@@ -571,7 +522,6 @@
  - [https://www.youtube.com/watch?v=rzZC6aFsk3M](https://www.youtube.com/watch?v=rzZC6aFsk3M)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 11:27:40+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.youtube.com/watch?v=rzZC6aFsk3M">https://www.youtube.com/watch?v=rzZC6aFsk3M</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33920166">https://news.ycombinator.com/item?id=33920166</a></p>
@@ -582,7 +532,6 @@
  - [https://gitlab.freedesktop.org/pipewire/pipewire/-/releases/0.3.62](https://gitlab.freedesktop.org/pipewire/pipewire/-/releases/0.3.62)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 11:14:11+00:00
- - tags: None
 
 <p>Article URL: <a href="https://gitlab.freedesktop.org/pipewire/pipewire/-/releases/0.3.62">https://gitlab.freedesktop.org/pipewire/pipewire/-/releases/0.3.62</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33920086">https://news.ycombinator.com/item?id=33920086</a></p>
@@ -593,7 +542,6 @@
  - [https://github.com/getlago/lago/wiki/Stripe%27s-real-pricing:-a-primer](https://github.com/getlago/lago/wiki/Stripe%27s-real-pricing:-a-primer)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 11:01:49+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.com/getlago/lago/wiki/Stripe%27s-real-pricing:-a-primer">https://github.com/getlago/lago/wiki/Stripe%27s-real-pricing:-a-primer</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33920019">https://news.ycombinator.com/item?id=33920019</a></p>
@@ -604,7 +552,6 @@
  - [https://nuitka.net/posts/all-in-with-nuitka.html](https://nuitka.net/posts/all-in-with-nuitka.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 10:36:03+00:00
- - tags: None
 
 <p>Article URL: <a href="https://nuitka.net/posts/all-in-with-nuitka.html">https://nuitka.net/posts/all-in-with-nuitka.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33919830">https://news.ycombinator.com/item?id=33919830</a></p>
@@ -615,7 +562,6 @@
  - [https://scholar.archive.org/](https://scholar.archive.org/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 10:35:25+00:00
- - tags: None
 
 <p>Article URL: <a href="https://scholar.archive.org/">https://scholar.archive.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33919823">https://news.ycombinator.com/item?id=33919823</a></p>
@@ -626,7 +572,6 @@
  - [https://news.ycombinator.com/item?id=33919535](https://news.ycombinator.com/item?id=33919535)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 09:53:24+00:00
- - tags: None
 
 <p>Apart from ChatGPT of course.</p>
 <hr />
@@ -638,7 +583,6 @@
  - [https://news.ycombinator.com/item?id=33919451](https://news.ycombinator.com/item?id=33919451)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 09:38:20+00:00
- - tags: None
 
 <p>Fellow members,<p>I'm curious to know what are some of the best prompts to use on ChatGPT to understand its full-fledged capability as a newbie developer.<p>One of the things I noticed, is that it produces the requested code in the cleanest manner but it's not complete. For instance, I tried the prompt - "give me the python code for TicTacToe Game" and the code produced was incomplete.<p>Have you all encountered the same or my prompt is inappropriate?</p>
 <hr />
@@ -650,7 +594,6 @@
  - [https://www.itv.com/news/2022-12-08/number-of-people-in-england-waiting-to-start-hospital-treatment-hits-record-high](https://www.itv.com/news/2022-12-08/number-of-people-in-england-waiting-to-start-hospital-treatment-hits-record-high)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 08:12:55+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.itv.com/news/2022-12-08/number-of-people-in-england-waiting-to-start-hospital-treatment-hits-record-high">https://www.itv.com/news/2022-12-08/number-of-people-in-england-waiting-to-start-hospital-treatment-hits-record-high</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33918901">https://news.ycombinator.com/item?id=33918901</a></p>
@@ -661,7 +604,6 @@
  - [https://github.blog/2022-12-08-experiment-the-hidden-costs-of-waiting-on-slow-build-times/](https://github.blog/2022-12-08-experiment-the-hidden-costs-of-waiting-on-slow-build-times/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 08:09:31+00:00
- - tags: None
 
 <p>Article URL: <a href="https://github.blog/2022-12-08-experiment-the-hidden-costs-of-waiting-on-slow-build-times/">https://github.blog/2022-12-08-experiment-the-hidden-costs-of-waiting-on-slow-build-times/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33918879">https://news.ycombinator.com/item?id=33918879</a></p>
@@ -672,7 +614,6 @@
  - [https://arogozhnikov.github.io/2022/11/29/delimiter-comes-first.html](https://arogozhnikov.github.io/2022/11/29/delimiter-comes-first.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 06:59:12+00:00
- - tags: None
 
 <p>Article URL: <a href="https://arogozhnikov.github.io/2022/11/29/delimiter-comes-first.html">https://arogozhnikov.github.io/2022/11/29/delimiter-comes-first.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33918430">https://news.ycombinator.com/item?id=33918430</a></p>
@@ -683,7 +624,6 @@
  - [https://navendu.me/posts/introduction-to-monitoring-microservices/](https://navendu.me/posts/introduction-to-monitoring-microservices/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 05:56:58+00:00
- - tags: None
 
 <p>Article URL: <a href="https://navendu.me/posts/introduction-to-monitoring-microservices/">https://navendu.me/posts/introduction-to-monitoring-microservices/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33918044">https://news.ycombinator.com/item?id=33918044</a></p>
@@ -694,7 +634,6 @@
  - [https://news.ycombinator.com/item?id=33917962](https://news.ycombinator.com/item?id=33917962)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 05:45:24+00:00
- - tags: None
 
 <p>The offending website "nopecha.com", which unfortunately i found about a week ago on HN itself appeared to be another captcha service but one that was offering "1 Sec" solve speed for text captchas. i was interested and by the looks of it, a lot of people. 
 their webisite only had "sign in with google" so i didnt bother. The day before i check the website out of boredom and saw "sign in with github". i logged in, clicked through a bunch of pages because its the same drill everytime. 
@@ -708,7 +647,6 @@ i found out that i had "automatically starred their repos". by the looks of it, 
  - [https://neugierig.org/software/blog/2022/12/chrome.html](https://neugierig.org/software/blog/2022/12/chrome.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 03:42:20+00:00
- - tags: None
 
 <p>Article URL: <a href="https://neugierig.org/software/blog/2022/12/chrome.html">https://neugierig.org/software/blog/2022/12/chrome.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33917157">https://news.ycombinator.com/item?id=33917157</a></p>
@@ -719,7 +657,6 @@ i found out that i had "automatically starred their repos". by the looks of it, 
  - [https://main.oxfordamerican.org/magazine/item/632-love-and-death-in-the-cape-fear-serpentarium](https://main.oxfordamerican.org/magazine/item/632-love-and-death-in-the-cape-fear-serpentarium)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 03:33:12+00:00
- - tags: None
 
 <p>Article URL: <a href="https://main.oxfordamerican.org/magazine/item/632-love-and-death-in-the-cape-fear-serpentarium">https://main.oxfordamerican.org/magazine/item/632-love-and-death-in-the-cape-fear-serpentarium</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33917104">https://news.ycombinator.com/item?id=33917104</a></p>
@@ -730,7 +667,6 @@ i found out that i had "automatically starred their repos". by the looks of it, 
  - [https://news.ycombinator.com/item?id=33917091](https://news.ycombinator.com/item?id=33917091)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 03:31:16+00:00
- - tags: None
 
 <p>Basically the title. Last month, I submitted an app to the App Store for review, and it's been stuck in review for over a month now. Any attempt to contact apple is met with "just wait" response. It's starting to feel like my app is stuck in limbo<p>I've searched the internet, and it seems like many people are experiencing the same problem. Any advice on how to get my app approved and out of review?<p>Thanks in advance!</p>
 <hr />
@@ -742,7 +678,6 @@ i found out that i had "automatically starred their repos". by the looks of it, 
  - [https://blog.chromium.org/2022/12/introducing-passkeys-in-chrome.html](https://blog.chromium.org/2022/12/introducing-passkeys-in-chrome.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 03:28:25+00:00
- - tags: None
 
 <p>Article URL: <a href="https://blog.chromium.org/2022/12/introducing-passkeys-in-chrome.html">https://blog.chromium.org/2022/12/introducing-passkeys-in-chrome.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33917070">https://news.ycombinator.com/item?id=33917070</a></p>
@@ -753,7 +688,6 @@ i found out that i had "automatically starred their repos". by the looks of it, 
  - [https://news.ycombinator.com/item?id=33916240](https://news.ycombinator.com/item?id=33916240)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 01:31:26+00:00
- - tags: None
 
 <p>Neo4j Inc just laid off 10% of its employees.<p>The negative reviews in GlassDoor are piling up, and seem to share common themes - and it is not pretty.<p>There are accusations that management tried to lie to early investors about revenue sources.<p>Does anyone have any idea or insight into what is going on with them?</p>
 <hr />
@@ -765,7 +699,6 @@ i found out that i had "automatically starred their repos". by the looks of it, 
  - [https://www.noemamag.com/concrete-built-the-modern-world-now-its-destroying-it/](https://www.noemamag.com/concrete-built-the-modern-world-now-its-destroying-it/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 01:19:16+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.noemamag.com/concrete-built-the-modern-world-now-its-destroying-it/">https://www.noemamag.com/concrete-built-the-modern-world-now-its-destroying-it/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33916160">https://news.ycombinator.com/item?id=33916160</a></p>
@@ -776,7 +709,6 @@ i found out that i had "automatically starred their repos". by the looks of it, 
  - [https://ads.google.com/status/publisher/incidents/EsQcYmPW6wkQvc9NZ4WB](https://ads.google.com/status/publisher/incidents/EsQcYmPW6wkQvc9NZ4WB)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 01:12:49+00:00
- - tags: None
 
 <p>Article URL: <a href="https://ads.google.com/status/publisher/incidents/EsQcYmPW6wkQvc9NZ4WB">https://ads.google.com/status/publisher/incidents/EsQcYmPW6wkQvc9NZ4WB</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33916113">https://news.ycombinator.com/item?id=33916113</a></p>
@@ -787,7 +719,6 @@ i found out that i had "automatically starred their repos". by the looks of it, 
  - [https://www.planeandpilotmag.com/news/the-latest/2022/11/30/dallas-midair-tragedy-new-video-shows-startling-change-in-flight-path-of-p-63/](https://www.planeandpilotmag.com/news/the-latest/2022/11/30/dallas-midair-tragedy-new-video-shows-startling-change-in-flight-path-of-p-63/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 00:17:51+00:00
- - tags: None
 
 <p>Article URL: <a href="https://www.planeandpilotmag.com/news/the-latest/2022/11/30/dallas-midair-tragedy-new-video-shows-startling-change-in-flight-path-of-p-63/">https://www.planeandpilotmag.com/news/the-latest/2022/11/30/dallas-midair-tragedy-new-video-shows-startling-change-in-flight-path-of-p-63/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=33915748">https://news.ycombinator.com/item?id=33915748</a></p>

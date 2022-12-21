@@ -1,4 +1,4 @@
-# Source MSN, Source URL:http://www.msn.com/rss/news.aspx
+# Source MSN, Source URL:http://www.msn.com/rss/news.aspx, Source language: en-US
 
 ## ABC host falsely claims Biden never said 'come on over,' blames Republicans for border crisis
  - [http://www.msn.com/en-us/news/politics/abc-host-falsely-claims-biden-never-said-come-on-over-blames-republicans-for-border-crisis/ar-AA15qFJC?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/abc-host-falsely-claims-biden-never-said-come-on-over-blames-republicans-for-border-crisis/ar-AA15qFJC?li=BBnbcA1&srcref=rss)

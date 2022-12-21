@@ -1,10 +1,9 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
+# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
 
 ## That Time The US Navy Attacked San Francisco
  - [https://www.youtube.com/watch?v=sr99y4Ys3KM](https://www.youtube.com/watch?v=sr99y4Ys3KM)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
  - date published: 2022-12-14 19:15:02+00:00
- - tags: None
 
 It was called Operation Seaspray and it was designed to track how biological agents could move through a city population. And it wasn't the only time it was done...
 

@@ -1,10 +1,9 @@
-# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology
+# Source The Washington Post - Tech, Source URL:https://feeds.washingtonpost.com/rss/business/technology, Source language: en-US
 
 ## Wordle players break streaks to support New York Times union walkout
  - [https://www.washingtonpost.com/video-games/2022/12/09/wordle-streak-walkout-nyt/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/video-games/2022/12/09/wordle-streak-walkout-nyt/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-12-09 17:08:28+00:00
- - tags: None
 
 Some Wordle players broke their streaks Thursday to support the New York Times union. Even for a cause, a broken streak can be a tough pill to swallow.
 
@@ -12,7 +11,6 @@ Some Wordle players broke their streaks Thursday to support the New York Times u
  - [https://www.washingtonpost.com/technology/2022/12/09/chatgpt-lensa-ai-ethics/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/12/09/chatgpt-lensa-ai-ethics/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-12-09 12:30:08+00:00
- - tags: None
 
 What are the rules of the road for the A.I. age, where anything you share online might train a computer system that puts an innocent person in jail?
 
@@ -20,7 +18,6 @@ What are the rules of the road for the A.I. age, where anything you share online
  - [https://www.washingtonpost.com/technology/2022/12/09/lensa-apps-magic-avatars-ai-stolen-data-compromised-ethics/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/12/09/lensa-apps-magic-avatars-ai-stolen-data-compromised-ethics/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-12-09 07:00:59+00:00
- - tags: None
 
 Artists say Lensa's Magic Avatars are built by AI that uses techniques and styles that were taken from artists without consent or compensation.
 
@@ -28,6 +25,5 @@ Artists say Lensa's Magic Avatars are built by AI that uses techniques and style
  - [https://www.washingtonpost.com/technology/2022/12/09/dear-moon-spacex-mission-crew-steve-aoki/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/12/09/dear-moon-spacex-mission-crew-steve-aoki/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-12-09 02:26:14+00:00
- - tags: None
 
 Space enthuasiast and entrepreneur Yusaku Maezawa on Friday announced the eight people who will join him on a trip around the moon.

@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml
+# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
 
 ## Twitter Plans to Remove Tweets Promoting Rival Social Media Platforms
  - [https://www.wsj.com/articles/twitter-plans-to-remove-tweets-promoting-rival-social-media-platforms-11671396671?mod=rss_Technology](https://www.wsj.com/articles/twitter-plans-to-remove-tweets-promoting-rival-social-media-platforms-11671396671?mod=rss_Technology)

@@ -1,10 +1,9 @@
-# Source Wired business, Source URL:https://www.wired.com/feed/category/business/latest/rss
+# Source Wired business, Source URL:https://www.wired.com/feed/category/business/latest/rss, Source language: en-US
 
 ## San Francisco Just Reversed Its Killer Robot Plan
  - [https://www.wired.com/story/san-francisco-police-killer-robots-ban/](https://www.wired.com/story/san-francisco-police-killer-robots-ban/)
  - RSS feed: https://www.wired.com/feed/category/business/latest/rss
  - date published: 2022-12-07 16:31:00+00:00
- - tags: None
 
 The city’s board of supervisors has rolled back a controversial decision to let robots use lethal force without human intervention. But the fight is far from over.
 
@@ -12,7 +11,6 @@ The city’s board of supervisors has rolled back a controversial decision to le
  - [https://www.wired.com/story/bitcoin-texas-power-grid/](https://www.wired.com/story/bitcoin-texas-power-grid/)
  - RSS feed: https://www.wired.com/feed/category/business/latest/rss
  - date published: 2022-12-07 15:03:57+00:00
- - tags: None
 
 Bitcoin miners say they can help stabilize a shaky power grid and prevent blackouts. Experts say it will make the problem worse.
 
@@ -20,7 +18,6 @@ Bitcoin miners say they can help stabilize a shaky power grid and prevent blacko
  - [https://www.wired.com/story/airbnb-rentals-sedona-arizona/](https://www.wired.com/story/airbnb-rentals-sedona-arizona/)
  - RSS feed: https://www.wired.com/feed/category/business/latest/rss
  - date published: 2022-12-07 12:09:02+00:00
- - tags: None
 
 The company sent cities scrambling to clamp down on short-term rentals. Now resort towns are feeling the pinch.
 
@@ -28,6 +25,5 @@ The company sent cities scrambling to clamp down on short-term rentals. Now reso
  - [https://www.wired.com/story/openai-chatgpts-most-charming-trick-hides-its-biggest-flaw/](https://www.wired.com/story/openai-chatgpts-most-charming-trick-hides-its-biggest-flaw/)
  - RSS feed: https://www.wired.com/feed/category/business/latest/rss
  - date published: 2022-12-07 12:00:00+00:00
- - tags: None
 
 The articulate new chatbot has won over the internet and shown how engaging conversational AI can be—even when it makes stuff up.

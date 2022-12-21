@@ -1,4 +1,4 @@
-# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+# Source NY times technology, Source URL:http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml, Source language: en-US
 
 ## Sam Bankman-Fried and Allies’ Political Donations Under Scrutiny by U.S.
  - [https://www.nytimes.com/2022/12/17/us/politics/sam-bankman-fried-political-donations-doj.html](https://www.nytimes.com/2022/12/17/us/politics/sam-bankman-fried-political-donations-doj.html)

@@ -1,10 +1,9 @@
-# Source Jordan B Peterson, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
+# Source Jordan B Peterson, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q, Source language: en-US
 
 ## The Great Climate Con | Alex Epstein | #312
  - [https://www.youtube.com/watch?v=eDWq7-eP5sE](https://www.youtube.com/watch?v=eDWq7-eP5sE)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
  - date published: 2022-12-08 20:36:56+00:00
- - tags: None
 
 Dr. Peterson's extensive catalog is available now on DailyWire+: https://utm.io/ueSXh
 

@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## AT&T drove me completely crazy. Then along came Frank
  - [https://www.zdnet.com/article/at-t-drove-me-completely-crazy-then-along-came-frank/#ftag=RSSbaffb68](https://www.zdnet.com/article/at-t-drove-me-completely-crazy-then-along-came-frank/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-11 13:00:21+00:00
- - tags: None
 
 Sometimes, a brand's ability to communicate is severely hampered by its abject carelessness.
 
@@ -12,7 +11,6 @@ Sometimes, a brand's ability to communicate is severely hampered by its abject c
  - [https://www.zdnet.com/article/burger-king-just-taught-iphone-and-android-users-a-brilliant-lesson/#ftag=RSSbaffb68](https://www.zdnet.com/article/burger-king-just-taught-iphone-and-android-users-a-brilliant-lesson/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-11 12:00:21+00:00
- - tags: None
 
 It's a life lesson, really.
 
@@ -20,6 +18,5 @@ It's a life lesson, really.
  - [https://www.zdnet.com/article/i-love-my-spotify-wrapped-but-dont-confuse-it-with-real-life/#ftag=RSSbaffb68](https://www.zdnet.com/article/i-love-my-spotify-wrapped-but-dont-confuse-it-with-real-life/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-11 10:00:21+00:00
- - tags: None
 
 Spotify Wrapped, Apple Music Replay, and even your Strava and Duolingo roundups are fun. But there's a gap between what we share and what we are.

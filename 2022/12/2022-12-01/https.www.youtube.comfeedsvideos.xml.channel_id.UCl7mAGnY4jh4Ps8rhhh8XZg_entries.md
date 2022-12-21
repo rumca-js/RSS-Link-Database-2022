@@ -1,10 +1,9 @@
-# Source Serpentza, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCl7mAGnY4jh4Ps8rhhh8XZg
+# Source Serpentza, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCl7mAGnY4jh4Ps8rhhh8XZg, Source language: en-US
 
 ## I'm being BLAMED for the Riots and Protests in China
  - [https://www.youtube.com/watch?v=3pZLMpddzrA](https://www.youtube.com/watch?v=3pZLMpddzrA)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCl7mAGnY4jh4Ps8rhhh8XZg
  - date published: 2022-12-01 23:00:09+00:00
- - tags: None
 
 Grab the most epic wallet in the world: https://shop.ekster.com/serpentza
 Use code: Serpentza on checkout for a massive discount

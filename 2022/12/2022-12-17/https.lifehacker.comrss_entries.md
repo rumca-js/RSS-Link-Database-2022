@@ -1,4 +1,4 @@
-# Source Lifehacker, Source URL:https://lifehacker.com/rss
+# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
 
 ## You Should Get In on Keurig's $10 Million K-Cup Settlement
  - [https://lifehacker.com/you-should-get-in-on-keurigs-10-million-k-cup-settleme-1849900174](https://lifehacker.com/you-should-get-in-on-keurigs-10-million-k-cup-settleme-1849900174)

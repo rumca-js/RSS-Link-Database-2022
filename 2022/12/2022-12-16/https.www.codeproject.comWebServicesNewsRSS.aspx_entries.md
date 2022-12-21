@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## ?-Q#: Understanding and Evolving the Q# Programming Language
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59832](https://www.codeproject.com/script/News/View.aspx?nwid=59832)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-16 05:00:00+00:00
- - tags: None
 
 ?Q# is a simply typed ?-calculus extended with commands encapsulating actions on the quantum state
 
@@ -12,7 +11,6 @@
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59844](https://www.codeproject.com/script/News/View.aspx?nwid=59844)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-16 05:00:00+00:00
- - tags: None
 
 Especially if used in warp drives
 
@@ -20,7 +18,6 @@ Especially if used in warp drives
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59843](https://www.codeproject.com/script/News/View.aspx?nwid=59843)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-16 05:00:00+00:00
- - tags: None
 
 Posted (almost) entirely for the hyperbole in that headline.
 
@@ -28,7 +25,6 @@ Posted (almost) entirely for the hyperbole in that headline.
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59840](https://www.codeproject.com/script/News/View.aspx?nwid=59840)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-16 05:00:00+00:00
- - tags: None
 
 "Do you want to know a secret?"
 
@@ -36,7 +32,6 @@ Posted (almost) entirely for the hyperbole in that headline.
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59845](https://www.codeproject.com/script/News/View.aspx?nwid=59845)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-16 05:00:00+00:00
- - tags: None
 
 The result is a highly realistic, open-source simulation platform that accelerates the training and validation of embodied AI systems in indoor domains.
 
@@ -44,7 +39,6 @@ The result is a highly realistic, open-source simulation platform that accelerat
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59837](https://www.codeproject.com/script/News/View.aspx?nwid=59837)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-16 05:00:00+00:00
- - tags: None
 
 If you're not the customer, you're the data
 
@@ -52,7 +46,6 @@ If you're not the customer, you're the data
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59831](https://www.codeproject.com/script/News/View.aspx?nwid=59831)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-16 05:00:00+00:00
- - tags: None
 
 This article lists some of the pros and cons of using JavaScript to create machine learning models for your business.
 
@@ -60,7 +53,6 @@ This article lists some of the pros and cons of using JavaScript to create machi
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59835](https://www.codeproject.com/script/News/View.aspx?nwid=59835)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-16 05:00:00+00:00
- - tags: None
 
 Meta Platforms Inc.’s artificial intelligence research team today announced an updated version of its powerful data2vec algorithm that enables extremely efficient self-supervised learning for vision, speech and text-based AI models.
 
@@ -76,7 +68,6 @@ Meta Platforms Inc.’s artificial intelligence research team today announced an
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59834](https://www.codeproject.com/script/News/View.aspx?nwid=59834)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-16 05:00:00+00:00
- - tags: None
 
 Time to converge RNN and CNN with Transformer
 
@@ -84,7 +75,6 @@ Time to converge RNN and CNN with Transformer
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59842](https://www.codeproject.com/script/News/View.aspx?nwid=59842)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-16 05:00:00+00:00
- - tags: None
 
 The other 40% of us are old
 
@@ -92,7 +82,6 @@ The other 40% of us are old
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59838](https://www.codeproject.com/script/News/View.aspx?nwid=59838)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-16 05:00:00+00:00
- - tags: None
 
 Apparently not every cloud contains bitcoin from Heaven
 
@@ -100,7 +89,6 @@ Apparently not every cloud contains bitcoin from Heaven
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59833](https://www.codeproject.com/script/News/View.aspx?nwid=59833)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-16 05:00:00+00:00
- - tags: None
 
 For your next application, leverage large-scale, generative AI models with a deep understanding of language and code, using Azure’s OpenAI service.
 
@@ -108,7 +96,6 @@ For your next application, leverage large-scale, generative AI models with a dee
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59841](https://www.codeproject.com/script/News/View.aspx?nwid=59841)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-16 05:00:00+00:00
- - tags: None
 
 I refuse to think about how this will be misused
 
@@ -116,6 +103,5 @@ I refuse to think about how this will be misused
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59836](https://www.codeproject.com/script/News/View.aspx?nwid=59836)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-16 05:00:00+00:00
- - tags: None
 
 For some, a breadboard doesn't involve toast

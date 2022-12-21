@@ -7,6 +7,13 @@
 
 <p>The downfall of the former movie magnate played out over a six-week trial that included testimony from Jennifer Siebel Newsom </p><p>A Los Angeles jury has found Harvey Weinstein guilty of rape and sexual assault, five years after dozens of women spoke out against the Hollywood producer and galvanized the #MeToo movement.</p><p>After more than nine days of deliberation, the jury convicted Weinstein of three counts of rape and sexual assault against one woman, a European model who testified anonymously as “Jane Doe 1”, while remaining divided on three other charges of rape and sexual assault by two other accusers, including Jennifer Siebel Newsom, the wife of California’s governor.</p> <a href="https://www.theguardian.com/world/2022/dec/19/harvey-weinstein-trial-guilty-los-angeles">Continue reading...</a>
 
+## Gerwyn Price fights back to beat Luke Woodhouse as Steve Beaton crashes out
+ - [https://www.theguardian.com/sport/2022/dec/19/gerwyn-price-fights-back-to-beat-luke-woodhouse-as-steve-beaton-crashes-out](https://www.theguardian.com/sport/2022/dec/19/gerwyn-price-fights-back-to-beat-luke-woodhouse-as-steve-beaton-crashes-out)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-19 23:22:41+00:00
+
+<ul><li>World No 1 secures 3-1 win, Beaton loses to Danny van Trijp</li><li>David Cameron stuns Ritchie Edhouse with epic comeback</li></ul><p>Gerwyn Price suffered an early scare in his PDC world championship opener against Luke Woodhouse, but fought back to win the match 3-1 at Alexandra Palace.</p><p>Woodhouse, the current world No 50, made a blistering start as he took the first set with an average of 104.95, with Price missing five doubles and struggling for rhythm. Price took out an 83 finish to level the match at 1-1, and broke his opponent’s throw in the third leg of the next set, despite missing six more darts at doubles.</p> <a href="https://www.theguardian.com/sport/2022/dec/19/gerwyn-price-fights-back-to-beat-luke-woodhouse-as-steve-beaton-crashes-out">Continue reading...</a>
+
 ## Terry Hall was the self-assured eye of the Specials storm
  - [https://www.theguardian.com/music/2022/dec/19/terry-hall-the-self-assured-eye-of-the-specials-storm](https://www.theguardian.com/music/2022/dec/19/terry-hall-the-self-assured-eye-of-the-specials-storm)
  - RSS feed: https://www.theguardian.com/international/rss

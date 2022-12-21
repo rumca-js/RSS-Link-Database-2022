@@ -1,10 +1,9 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml
+# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
 
 ## Earthshot Prize: Prince William announces five winners
  - [https://www.bbc.co.uk/news/world-us-canada-63829126?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63829126?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 23:47:08+00:00
- - tags: None
 
 Friends from Oman who turn CO2 into rock and a UK firm making packaging from seaweed are among the winners.
 
@@ -12,7 +11,6 @@ Friends from Oman who turn CO2 into rock and a UK firm making packaging from sea
  - [https://www.bbc.co.uk/sport/football/63820511?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63820511?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 23:21:03+00:00
- - tags: None
 
 BBC Sport examines the main things to come out of a thrilling group stage at the World Cup in Qatar.
 
@@ -20,7 +18,6 @@ BBC Sport examines the main things to come out of a thrilling group stage at the
  - [https://www.bbc.co.uk/news/uk-wales-63795448?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-63795448?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 22:53:32+00:00
- - tags: None
 
 "I spend most Monday evenings in tears," says Father Dominic Cawdell, of St Peter's in Flintshire.
 
@@ -28,7 +25,6 @@ BBC Sport examines the main things to come out of a thrilling group stage at the
  - [https://www.bbc.co.uk/news/business-63836014?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63836014?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 22:42:05+00:00
- - tags: None
 
 Football clubs are supporting their communities as costs rise - from food banks to debt advice.
 
@@ -36,7 +32,6 @@ Football clubs are supporting their communities as costs rise - from food banks 
  - [https://www.bbc.co.uk/news/entertainment-arts-63837585?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63837585?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 22:33:46+00:00
- - tags: None
 
 The Bolton comedian makes a triumphant return in the first date of his first tour for 12 years.
 
@@ -44,7 +39,6 @@ The Bolton comedian makes a triumphant return in the first date of his first tou
  - [https://www.bbc.co.uk/news/world-us-canada-63829127?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63829127?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 22:08:45+00:00
- - tags: None
 
 Takeoff, youngest of the rap group Migos, was killed last month outside a Houston bowling alley.
 
@@ -52,7 +46,6 @@ Takeoff, youngest of the rap group Migos, was killed last month outside a Housto
  - [https://www.bbc.co.uk/sport/football/63835576?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63835576?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 22:05:32+00:00
- - tags: None
 
 As Brazil fever hits Lusail Stadium in Doha, BBC Sport travels to their group finale against Cameroon with their thousands of fans.
 
@@ -60,7 +53,6 @@ As Brazil fever hits Lusail Stadium in Doha, BBC Sport travels to their group fi
  - [https://www.bbc.co.uk/sport/football/63766571?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63766571?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 22:02:30+00:00
- - tags: None
 
 We asked you to rank the players in every World Cup group stage game, here is your best XI and the standout individual performers.
 
@@ -68,7 +60,6 @@ We asked you to rank the players in every World Cup group stage game, here is yo
  - [https://www.bbc.co.uk/sport/football/63827341?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63827341?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 21:35:39+00:00
- - tags: None
 
 BBC Sport's football expert Chris Sutton gives his predictions for the final round of group games at the World Cup.
 
@@ -76,7 +67,6 @@ BBC Sport's football expert Chris Sutton gives his predictions for the final rou
  - [https://www.bbc.co.uk/sport/football/63752146?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63752146?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 21:12:48+00:00
- - tags: None
 
 Switzerland seal their place in the World Cup last 16 following an entertaining five-goal victory over Serbia to round off the group stage.
 
@@ -84,7 +74,6 @@ Switzerland seal their place in the World Cup last 16 following an entertaining 
  - [https://www.bbc.co.uk/sport/av/football/63767290?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63767290?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 21:10:51+00:00
- - tags: None
 
 Vincent Aboubakar scores a late winner against Brazil for Cameroon to claim historic 1-0 win but his goal is not enough to send them through and he gets sent off for removing his short in the goal celebration.
 
@@ -92,7 +81,6 @@ Vincent Aboubakar scores a late winner against Brazil for Cameroon to claim hist
  - [https://www.bbc.co.uk/sport/football/63752145?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63752145?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 21:03:43+00:00
- - tags: None
 
 Cameroon are out of the World Cup despite securing a dramatic victory over Brazil at Lusail Stadium in their final Group G match.
 
@@ -100,7 +88,6 @@ Cameroon are out of the World Cup despite securing a dramatic victory over Brazi
  - [https://www.bbc.co.uk/sport/football/63833063?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63833063?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 21:00:49+00:00
- - tags: None
 
 The World Cup has had plenty of goals, shocks and memorable moments - but how much do you remember from the group stage?
 
@@ -108,7 +95,6 @@ The World Cup has had plenty of goals, shocks and memorable moments - but how mu
  - [https://www.bbc.co.uk/sport/av/football/63767293?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63767293?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 20:59:46+00:00
- - tags: None
 
 Switzerland beat Serbia 3-2 to progress from group G but Serbians heading home from World Cup following second defeat.
 
@@ -116,7 +102,6 @@ Switzerland beat Serbia 3-2 to progress from group G but Serbians heading home f
  - [https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-63838932?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-63838932?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 20:31:52+00:00
- - tags: None
 
 Brit nominee Pa Salieu attacked a man in Coventry shortly after his best friend was stabbed to death.
 
@@ -124,7 +109,6 @@ Brit nominee Pa Salieu attacked a man in Coventry shortly after his best friend 
  - [https://www.bbc.co.uk/sport/football/63840635?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63840635?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 20:02:37+00:00
- - tags: None
 
 South Korea's players are overwhelmed with joy, while Luis Suarez and Uruguay cried tears of disbelief following a dramatic conclusion to Group H.
 
@@ -132,7 +116,6 @@ South Korea's players are overwhelmed with joy, while Luis Suarez and Uruguay cr
  - [https://www.bbc.co.uk/sport/av/football/63840311?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63840311?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 19:36:34+00:00
- - tags: None
 
 Twelver years on from their controversial meeting in South Africa, Luis Suarez once again stole the show as Ghana took on Uruguay at the World Cup.
 
@@ -140,7 +123,6 @@ Twelver years on from their controversial meeting in South Africa, Luis Suarez o
  - [https://www.bbc.co.uk/news/world-europe-63840412?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63840412?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 19:33:14+00:00
- - tags: None
 
 The European Union agrees a cap of $60 a barrel on exported Russian crude, after Poland gave its backing.
 
@@ -148,7 +130,6 @@ The European Union agrees a cap of $60 a barrel on exported Russian crude, after
  - [https://www.bbc.co.uk/sport/football/63204343?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63204343?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 19:30:52+00:00
- - tags: None
 
 BBC Sport and Opta analyse the 279 World Cup shootout penalties to see the best ways to score your kick.
 
@@ -156,7 +137,6 @@ BBC Sport and Opta analyse the 279 World Cup shootout penalties to see the best 
  - [https://www.bbc.co.uk/sport/boxing/63829523?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/boxing/63829523?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 19:26:56+00:00
- - tags: None
 
 Tyson Fury weighs in heavier than Derek Chisora and warns to 'expect carnage' in their WBC heavyweight title fight on Saturday at the Tottenham Hotspur Stadium.
 
@@ -164,7 +144,6 @@ Tyson Fury weighs in heavier than Derek Chisora and warns to 'expect carnage' in
  - [https://www.bbc.co.uk/sport/football/63834268?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63834268?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 19:17:23+00:00
- - tags: None
 
 Danny Murphy says work-rate and athleticism are becoming as decisive as technical ability, and explains why he expects fewer surprise results from now on.
 
@@ -172,7 +151,6 @@ Danny Murphy says work-rate and athleticism are becoming as decisive as technica
  - [https://www.bbc.co.uk/sport/football/63839728?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63839728?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 19:04:06+00:00
- - tags: None
 
 Otto Addo resigns as Ghana boss following their World Cup group-stage elimination.
 
@@ -180,7 +158,6 @@ Otto Addo resigns as Ghana boss following their World Cup group-stage eliminatio
  - [https://www.bbc.co.uk/news/uk-england-bristol-63832928?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-bristol-63832928?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 19:01:37+00:00
- - tags: None
 
 A scientist says the fossil is "one of the most important found in the last few decades".
 
@@ -188,7 +165,6 @@ A scientist says the fossil is "one of the most important found in the last few 
  - [https://www.bbc.co.uk/news/uk-63837781?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63837781?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 18:12:42+00:00
- - tags: None
 
 The Prince and Princess of Wales will hand out awards for their Earthshot Prize on Friday evening.
 
@@ -196,7 +172,6 @@ The Prince and Princess of Wales will hand out awards for their Earthshot Prize 
  - [https://www.bbc.co.uk/news/world-europe-63838350?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63838350?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 17:41:52+00:00
- - tags: None
 
 "I must be brutally honest with you," Sanna Marin says. "We would be in trouble without the US."
 
@@ -204,7 +179,6 @@ The Prince and Princess of Wales will hand out awards for their Earthshot Prize 
  - [https://www.bbc.co.uk/news/world-africa-63838799?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-africa-63838799?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 17:35:12+00:00
- - tags: None
 
 South Africans wait with bated breath as ANC leaders adjourn crisis talks.
 
@@ -212,7 +186,6 @@ South Africans wait with bated breath as ANC leaders adjourn crisis talks.
  - [https://www.bbc.co.uk/news/business-63832753?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63832753?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 17:34:21+00:00
- - tags: None
 
 The supermarket boss says there have been many changes to how people shop due to the cost of living.
 
@@ -220,7 +193,6 @@ The supermarket boss says there have been many changes to how people shop due to
  - [https://www.bbc.co.uk/sport/football/63752147?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63752147?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 17:22:27+00:00
- - tags: None
 
 Luis Suarez's heroics for Uruguay are in vain as victory over Ghana is not enough to send them through, with both sides knocked out of the World Cup
 
@@ -228,7 +200,6 @@ Luis Suarez's heroics for Uruguay are in vain as victory over Ghana is not enoug
  - [https://www.bbc.co.uk/news/uk-63837761?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63837761?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 17:21:08+00:00
- - tags: None
 
 The regulator says it has found "issues" with the charity's governance and management.
 
@@ -236,7 +207,6 @@ The regulator says it has found "issues" with the charity's governance and manag
  - [https://www.bbc.co.uk/sport/football/63752148?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63752148?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 17:11:58+00:00
- - tags: None
 
 Hwang Hee-chan gave South Korea a sensational late victory over Portugal that meant they pipped Uruguay to a place in the last 16 on goals scored.
 
@@ -244,7 +214,6 @@ Hwang Hee-chan gave South Korea a sensational late victory over Portugal that me
  - [https://www.bbc.co.uk/news/health-63840591?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/health-63840591?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 17:09:17+00:00
- - tags: None
 
 There has been at least one death of a child in Wales but the data is not yet available for other nations.
 
@@ -252,7 +221,6 @@ There has been at least one death of a child in Wales but the data is not yet av
  - [https://www.bbc.co.uk/sport/av/football/63767244?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63767244?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 17:03:43+00:00
- - tags: None
 
 Giorgian de Arrascaeta scores twice for Uruguay as they beat Ghana 2-0 but South Korea's victory over Portugal see's them go out of the World Cup.
 
@@ -260,7 +228,6 @@ Giorgian de Arrascaeta scores twice for Uruguay as they beat Ghana 2-0 but South
  - [https://www.bbc.co.uk/sport/av/football/63767287?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63767287?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 17:01:08+00:00
- - tags: None
 
 Hwang Hee-Chan scores a late winner for South Korea to beat Portugal 2-1 and reach the second round of the World Cup.
 
@@ -268,7 +235,6 @@ Hwang Hee-Chan scores a late winner for South Korea to beat Portugal 2-1 and rea
  - [https://www.bbc.co.uk/news/world-us-canada-63837309?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63837309?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 16:56:05+00:00
- - tags: None
 
 He was recently told to pay almost $1.5bn (£1.2bn) for claiming a 2012 school shooting was a hoax.
 
@@ -276,7 +242,6 @@ He was recently told to pay almost $1.5bn (£1.2bn) for claiming a 2012 school s
  - [https://www.bbc.co.uk/sport/football/63837530?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63837530?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 16:42:36+00:00
- - tags: None
 
 John Stones praises England centre-back partner Harry Maguire's character after a strong start to the World Cup.
 
@@ -284,7 +249,6 @@ John Stones praises England centre-back partner Harry Maguire's character after 
  - [https://www.bbc.co.uk/news/uk-england-leeds-63829186?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-leeds-63829186?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 16:25:17+00:00
- - tags: None
 
 The film tells the story of a bereaved father struggling to make Christmas special for his his son.
 
@@ -292,7 +256,6 @@ The film tells the story of a bereaved father struggling to make Christmas speci
  - [https://www.bbc.co.uk/news/uk-england-humber-63831602?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-humber-63831602?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 16:12:21+00:00
- - tags: None
 
 Harry Bolton, 19, was found dead at his flat in Hull on 7 October 2021, an inquest hears.
 
@@ -300,7 +263,6 @@ Harry Bolton, 19, was found dead at his flat in Hull on 7 October 2021, an inque
  - [https://www.bbc.co.uk/sport/av/football/63839329?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63839329?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 15:53:46+00:00
- - tags: None
 
 Giorgian de Arrascaeta scores his and Uruguay's second as they take a 2-0 lead in their must-win clash with Ghana.
 
@@ -308,7 +270,6 @@ Giorgian de Arrascaeta scores his and Uruguay's second as they take a 2-0 lead i
  - [https://www.bbc.co.uk/sport/boxing/63829526?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/boxing/63829526?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 15:52:58+00:00
- - tags: None
 
 Oleksandr Usyk will be ringside for Tyson Fury's fight against Derek Chisora and the Ukrainian's promoter says an undisputed world heavyweight contest is "very close" to happening.
 
@@ -316,7 +277,6 @@ Oleksandr Usyk will be ringside for Tyson Fury's fight against Derek Chisora and
  - [https://www.bbc.co.uk/sport/av/football/63839325?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63839325?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 15:42:39+00:00
- - tags: None
 
 Ghana miss a golden chance to take the lead against Uruguay as Andre Ayew see's his VAR penalty saved by Sergio Rochet.
 
@@ -324,7 +284,6 @@ Ghana miss a golden chance to take the lead against Uruguay as Andre Ayew see's 
  - [https://www.bbc.co.uk/sport/av/football/63839227?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63839227?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 15:25:07+00:00
- - tags: None
 
 World Cup 2022: Portugal take an early lead against South Korea through Ricardo Horta.
 
@@ -332,7 +291,6 @@ World Cup 2022: Portugal take an early lead against South Korea through Ricardo 
  - [https://www.bbc.co.uk/news/world-asia-63838213?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-63838213?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 15:15:51+00:00
- - tags: None
 
 The country's parliament is set to pass a new criminal law which would also outlaw pre-marital cohabitation.
 
@@ -340,7 +298,6 @@ The country's parliament is set to pass a new criminal law which would also outl
  - [https://www.bbc.co.uk/news/world-us-canada-63837306?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63837306?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 15:11:47+00:00
- - tags: None
 
 New York City is recruiting a director of rodent mitigation - or rat tsar - for its war on the pest.
 
@@ -348,7 +305,6 @@ New York City is recruiting a director of rodent mitigation - or rat tsar - for 
  - [https://www.bbc.co.uk/news/uk-england-derbyshire-63829213?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-derbyshire-63829213?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 14:53:22+00:00
- - tags: None
 
 Leah Foster says the university went back on an earlier deal and she is now missing valuable teaching.
 
@@ -356,7 +312,6 @@ Leah Foster says the university went back on an earlier deal and she is now miss
  - [https://www.bbc.co.uk/sport/africa/63556345?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/africa/63556345?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 14:53:12+00:00
- - tags: None
 
 Aliou Cisse was part of Senegal's history-making World Cup squad in 2002, but three months later was affected by tragedy.
 
@@ -364,7 +319,6 @@ Aliou Cisse was part of Senegal's history-making World Cup squad in 2002, but th
  - [https://www.bbc.co.uk/sport/football/63765128?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63765128?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 14:49:23+00:00
- - tags: None
 
 Netherlands head coach Louis van Gaal says the "negative" criticism of his team will not distract them from trying to win the World Cup.
 
@@ -372,7 +326,6 @@ Netherlands head coach Louis van Gaal says the "negative" criticism of his team 
  - [https://www.bbc.co.uk/sport/cricket/63831654?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/63831654?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 13:38:08+00:00
- - tags: None
 
 England will need "a few crazy moments" to go their way to win the first Test against Pakistan, according to all-rounder Will Jacks.
 
@@ -380,7 +333,6 @@ England will need "a few crazy moments" to go their way to win the first Test ag
  - [https://www.bbc.co.uk/news/health-63836093?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/health-63836093?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 13:35:18+00:00
- - tags: None
 
 Another UK child has died from this highly contagious infection. What should people look out for?
 
@@ -388,7 +340,6 @@ Another UK child has died from this highly contagious infection. What should peo
  - [https://www.bbc.co.uk/sport/rugby-union/63835466?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63835466?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 12:58:28+00:00
- - tags: None
 
 Eddie Jones will know next week if he is going to be sacked as England boss, with his position under increasing pressure.
 
@@ -396,7 +347,6 @@ Eddie Jones will know next week if he is going to be sacked as England boss, wit
  - [https://www.bbc.co.uk/news/uk-england-london-63835595?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-london-63835595?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 12:19:49+00:00
- - tags: None
 
 The latest death was of a child who went to school in west London.
 
@@ -404,7 +354,6 @@ The latest death was of a child who went to school in west London.
  - [https://www.bbc.co.uk/news/world-africa-63834357?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-africa-63834357?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 12:13:13+00:00
- - tags: None
 
 South Africa's ruling party meets to decide whether to sack the president over corruption allegations.
 
@@ -412,7 +361,6 @@ South Africa's ruling party meets to decide whether to sack the president over c
  - [https://www.bbc.co.uk/sport/cricket/63827211?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/63827211?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 12:02:27+00:00
- - tags: None
 
 England's record-breakers are shown just how hard it will be to win the first Test as Pakistan dig in on day two in Rawalpindi.
 
@@ -420,7 +368,6 @@ England's record-breakers are shown just how hard it will be to win the first Te
  - [https://www.bbc.co.uk/news/uk-england-leicestershire-63834369?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-leicestershire-63834369?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 11:44:40+00:00
- - tags: None
 
 Mahek Bukhari and seven others have denied murdering Saqib Hussain and Mohammed Hashim Ijazuddin.
 
@@ -428,7 +375,6 @@ Mahek Bukhari and seven others have denied murdering Saqib Hussain and Mohammed 
  - [https://www.bbc.co.uk/sport/football/63832705?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63832705?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 11:33:08+00:00
- - tags: None
 
 Germany's elimination in the World Cup group stages for the second time in a row has led to a scathing reaction in the media at home.
 
@@ -436,7 +382,6 @@ Germany's elimination in the World Cup group stages for the second time in a row
  - [https://www.bbc.co.uk/news/uk-politics-63835091?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63835091?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 11:28:42+00:00
- - tags: None
 
 The former chancellor and health secretary is the latest Tory MP to say they will quit Parliament.
 
@@ -444,7 +389,6 @@ The former chancellor and health secretary is the latest Tory MP to say they wil
  - [https://www.bbc.co.uk/sport/formula1/63831931?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/formula1/63831931?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 11:23:38+00:00
- - tags: None
 
 Formula 1 confirms the 2023 Chinese Grand Prix will not go ahead because of the country's "ongoing difficulties" with Covid.
 
@@ -452,7 +396,6 @@ Formula 1 confirms the 2023 Chinese Grand Prix will not go ahead because of the 
  - [https://www.bbc.co.uk/sport/av/football/63835011?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63835011?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 11:23:34+00:00
- - tags: None
 
 Watch all the angles of Ao Tanaka's controversial goal which for Japan against Spain which was allowed to stand after VAR determined the ball did not go out of play during the build-up.
 
@@ -460,7 +403,6 @@ Watch all the angles of Ao Tanaka's controversial goal which for Japan against S
  - [https://www.bbc.co.uk/news/uk-63833573?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63833573?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 11:17:38+00:00
- - tags: None
 
 The Church of England's most senior cleric is visiting a war-torn city of Ukraine.
 
@@ -468,7 +410,6 @@ The Church of England's most senior cleric is visiting a war-torn city of Ukrain
  - [https://www.bbc.co.uk/sport/football/63832775?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63832775?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 10:29:48+00:00
- - tags: None
 
 With no images released to show why Japan's controversial winner against Spain was not ruled out, fans online have taken matters into their own hands.
 
@@ -476,7 +417,6 @@ With no images released to show why Japan's controversial winner against Spain w
  - [https://www.bbc.co.uk/news/newsbeat-63833329?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/newsbeat-63833329?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 09:38:52+00:00
- - tags: None
 
 The TV chef and rapper shares his big three tips for making the most of your weekly food shop.
 
@@ -484,7 +424,6 @@ The TV chef and rapper shares his big three tips for making the most of your wee
  - [https://www.bbc.co.uk/news/uk-england-berkshire-63832431?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-berkshire-63832431?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 09:38:44+00:00
- - tags: None
 
 A public vote chooses the late Queen's favourite riding pony for the accolade at the annual awards.
 
@@ -492,7 +431,6 @@ A public vote chooses the late Queen's favourite riding pony for the accolade at
  - [https://www.bbc.co.uk/news/world-europe-63832151?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63832151?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 08:23:50+00:00
- - tags: None
 
 The US president made his strongly caveated remarks after talks with French President Emmanuel Macron.
 
@@ -500,7 +438,6 @@ The US president made his strongly caveated remarks after talks with French Pres
  - [https://www.bbc.co.uk/news/entertainment-arts-63824422?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63824422?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 08:00:04+00:00
- - tags: None
 
 The pop star will headline the Pyramid Stage on Sunday 25 June, as he wraps up his farewell tour.
 
@@ -508,7 +445,6 @@ The pop star will headline the Pyramid Stage on Sunday 25 June, as he wraps up h
  - [https://www.bbc.co.uk/news/uk-england-london-63780536?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-london-63780536?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 07:06:21+00:00
- - tags: None
 
 Two boys are charged with murdering Kearne Solanke and Charlie Bartolo a mile apart in London.
 
@@ -516,7 +452,6 @@ Two boys are charged with murdering Kearne Solanke and Charlie Bartolo a mile ap
  - [https://www.bbc.co.uk/sport/boxing/63770917?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/boxing/63770917?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 07:06:03+00:00
- - tags: None
 
 Tyson Fury retired in April and Derek Chisora has lost 12 times so how are they fighting each other for the WBC heavyweight title on Saturday?
 
@@ -524,7 +459,6 @@ Tyson Fury retired in April and Derek Chisora has lost 12 times so how are they 
  - [https://www.bbc.co.uk/news/uk-england-suffolk-63828839?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-suffolk-63828839?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 06:32:56+00:00
- - tags: None
 
 Funmilayo Akinriboya runs a support group for African, Caribbean and Portuguese communities.
 
@@ -532,7 +466,6 @@ Funmilayo Akinriboya runs a support group for African, Caribbean and Portuguese 
  - [https://www.bbc.co.uk/sport/football/63618590?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63618590?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 06:21:14+00:00
- - tags: None
 
 Ghana face Uruguay in the Qatar World Cup, bringing back memories of their controversial meeting in the 2010 quarter-finals.
 
@@ -540,7 +473,6 @@ Ghana face Uruguay in the Qatar World Cup, bringing back memories of their contr
  - [https://www.bbc.co.uk/news/technology-63798292?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63798292?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 06:04:17+00:00
- - tags: None
 
 Some users are finding the next generation of mobile internet slow and patchy, three years after it launched.
 
@@ -548,7 +480,6 @@ Some users are finding the next generation of mobile internet slow and patchy, t
  - [https://www.bbc.co.uk/news/world-europe-63829976?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63829976?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 02:37:24+00:00
- - tags: None
 
 Chantal Akerman's film Jeanne Dielman, released in 1975, is considered a seminal feminist work.
 
@@ -556,7 +487,6 @@ Chantal Akerman's film Jeanne Dielman, released in 1975, is considered a seminal
  - [https://www.bbc.co.uk/news/world-middle-east-63660562?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-middle-east-63660562?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 02:01:18+00:00
- - tags: None
 
 Egypt has a high Caesarean section rate, with doctors accused of using it for cash and convenience.
 
@@ -564,7 +494,6 @@ Egypt has a high Caesarean section rate, with doctors accused of using it for ca
  - [https://www.bbc.co.uk/news/world-us-canada-63829125?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63829125?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 01:57:02+00:00
- - tags: None
 
 The ruling is a win for the US justice department, which is probing Mr Trump over classified documents.
 
@@ -572,7 +501,6 @@ The ruling is a win for the US justice department, which is probing Mr Trump ove
  - [https://www.bbc.co.uk/news/world-australia-63830021?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-australia-63830021?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 01:54:41+00:00
- - tags: None
 
 Chris Dawson is sentenced for killing his wife Lynette Dawson, who disappeared in Sydney in 1982.
 
@@ -580,7 +508,6 @@ Chris Dawson is sentenced for killing his wife Lynette Dawson, who disappeared i
  - [https://www.bbc.co.uk/news/uk-63783327?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63783327?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 01:24:28+00:00
- - tags: None
 
 Shahd says authorities told her to remove breast tissue that grew after she began taking oestrogen.
 
@@ -588,7 +515,6 @@ Shahd says authorities told her to remove breast tissue that grew after she bega
  - [https://www.bbc.co.uk/news/entertainment-arts-63741945?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63741945?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 00:47:15+00:00
- - tags: None
 
 The Children in Need and Am I Being Unreasonable? star on herding celebrities and improvising.
 
@@ -596,7 +522,6 @@ The Children in Need and Am I Being Unreasonable? star on herding celebrities an
  - [https://www.bbc.co.uk/news/world-asia-china-63790459?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-63790459?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 00:24:52+00:00
- - tags: None
 
 Driven to breaking point by zero Covid, educated young Chinese are questioning the Communist Party's rule.
 
@@ -604,7 +529,6 @@ Driven to breaking point by zero Covid, educated young Chinese are questioning t
  - [https://www.bbc.co.uk/news/world-europe-63829973?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63829973?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 00:20:03+00:00
- - tags: None
 
 Western casualty estimates suggest about 100,000 Ukrainian soldiers have been killed or wounded.
 
@@ -612,7 +536,6 @@ Western casualty estimates suggest about 100,000 Ukrainian soldiers have been ki
  - [https://www.bbc.co.uk/news/health-63819818?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/health-63819818?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 00:14:53+00:00
- - tags: None
 
 Scientists did the study for the government to better understand possible exposure to shoppers.
 
@@ -620,7 +543,6 @@ Scientists did the study for the government to better understand possible exposu
  - [https://www.bbc.co.uk/news/entertainment-arts-63798222?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63798222?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 00:10:02+00:00
- - tags: None
 
 A CD recording of live show which fell between shelves has been discovered during a tidy-up.
 
@@ -628,7 +550,6 @@ A CD recording of live show which fell between shelves has been discovered durin
  - [https://www.bbc.co.uk/news/business-63809484?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63809484?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 00:03:35+00:00
- - tags: None
 
 Research for the BBC shows the cost of Christmas dinner staples has risen to more than £30.
 
@@ -636,7 +557,6 @@ Research for the BBC shows the cost of Christmas dinner staples has risen to mor
  - [https://www.bbc.co.uk/news/uk-politics-63825127?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63825127?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 00:02:24+00:00
- - tags: None
 
 A Commons committee says there should be "significant" punishments for ministers who break the rules.
 
@@ -644,6 +564,5 @@ A Commons committee says there should be "significant" punishments for ministers
  - [https://www.bbc.co.uk/news/uk-politics-63808657?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63808657?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-02 00:02:04+00:00
- - tags: None
 
 The UK government is on course to miss its target for signing deals, as exporter numbers fall.

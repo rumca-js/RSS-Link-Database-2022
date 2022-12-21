@@ -1,4 +1,4 @@
-# Source Washington Examiner - politics, Source URL:https://feeds.feedburner.com/dcexaminer/Politics
+# Source Washington Examiner - politics, Source URL:https://feeds.feedburner.com/dcexaminer/Politics, Source language: en-US
 
 ## New Jersey bill would shield officials addresses from disclosure
  - [https://www.washingtonexaminer.com/news/new-jersey-bill-would-shield-officials-addresses-from-disclosure](https://www.washingtonexaminer.com/news/new-jersey-bill-would-shield-officials-addresses-from-disclosure)

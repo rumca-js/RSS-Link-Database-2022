@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## JumpCloud hits AWS marketplace as Apple's enterprise market grows
  - [https://www.computerworld.com/article/3681831/jumpcloud-hits-aws-marketplace-as-apples-enterprise-market-grows.html#tk.rss_all](https://www.computerworld.com/article/3681831/jumpcloud-hits-aws-marketplace-as-apples-enterprise-market-grows.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-05 22:28:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -15,7 +14,6 @@
  - [https://www.computerworld.com/article/3682149/biometrics-are-even-less-accurate-than-we-thought.html#tk.rss_all](https://www.computerworld.com/article/3682149/biometrics-are-even-less-accurate-than-we-thought.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-05 17:43:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

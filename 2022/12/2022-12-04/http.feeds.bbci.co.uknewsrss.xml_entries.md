@@ -1,10 +1,9 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml
+# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
 
 ## England 3-0 Senegal: Jude Bellingham 'will be best midfielder in the world', says Phil Foden
  - [https://www.bbc.co.uk/sport/football/63852600?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63852600?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 23:08:50+00:00
- - tags: None
 
 Jude Bellingham's record-setting performance against Senegal led England team-mate Phil Foden to declare the 19-year-old "will be the best midfielder in the world".
 
@@ -12,7 +11,6 @@ Jude Bellingham's record-setting performance against Senegal led England team-ma
  - [https://www.bbc.co.uk/sport/football/63854557?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63854557?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 22:44:30+00:00
- - tags: None
 
 England's emphatic victory over Senegal to set up a World Cup quarter-final with France was more proof of Gareth Southgate's sure touch in team selection, writes Phil McNulty.
 
@@ -20,7 +18,6 @@ England's emphatic victory over Senegal to set up a World Cup quarter-final with
  - [https://www.bbc.co.uk/news/world-africa-63854699?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-africa-63854699?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 22:33:03+00:00
- - tags: None
 
 Aminu Adamu Mohammed, 24, describes the experience as the ''darkest hours'' of his life.
 
@@ -28,7 +25,6 @@ Aminu Adamu Mohammed, 24, describes the experience as the ''darkest hours'' of h
  - [https://www.bbc.co.uk/sport/av/football/63854688?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63854688?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 22:32:56+00:00
- - tags: None
 
 Watch a different view of Jude Bellingham's game-changing performance for England as he played a key role in their opening two goals against Senegal.
 
@@ -36,7 +32,6 @@ Watch a different view of Jude Bellingham's game-changing performance for Englan
  - [https://www.bbc.co.uk/news/uk-wales-63853197?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-63853197?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 22:27:17+00:00
- - tags: None
 
 The father of seven-year-old Hanna Roap, describes how his "bubbly"daughter died within hours.
 
@@ -44,7 +39,6 @@ The father of seven-year-old Hanna Roap, describes how his "bubbly"daughter died
  - [https://www.bbc.co.uk/news/uk-63853079?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63853079?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 22:03:16+00:00
- - tags: None
 
 Football fans turned out in droves across England to watch the Three Lions triumph over Senegal.
 
@@ -52,7 +46,6 @@ Football fans turned out in droves across England to watch the Three Lions trium
  - [https://www.bbc.co.uk/sport/football/63854309?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63854309?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 21:27:35+00:00
- - tags: None
 
 England captain Harry Kane said he is expecting a "tough battle" against France in the World Cup quarter-final after they cruised past Senegal in the last 16 on Sunday.
 
@@ -60,7 +53,6 @@ England captain Harry Kane said he is expecting a "tough battle" against France 
  - [https://www.bbc.co.uk/sport/football/63843056?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63843056?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 20:53:37+00:00
- - tags: None
 
 England will take on France in a mouth-watering World Cup quarter-final clash on Saturday. Here's what you need to know.
 
@@ -68,7 +60,6 @@ England will take on France in a mouth-watering World Cup quarter-final clash on
  - [https://www.bbc.co.uk/sport/av/football/63854353?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63854353?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 20:53:24+00:00
- - tags: None
 
 Watch as Bukayo Saka scores a "wonderful" third goal for England against Senegal at the World Cup.
 
@@ -76,7 +67,6 @@ Watch as Bukayo Saka scores a "wonderful" third goal for England against Senegal
  - [https://www.bbc.co.uk/sport/av/football/63854243?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63854243?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 20:53:09+00:00
- - tags: None
 
 England captain Harry Kane scores his first goal of the 2022 World Cup to double their lead against Senegal in the last 16.
 
@@ -84,7 +74,6 @@ England captain Harry Kane scores his first goal of the 2022 World Cup to double
  - [https://www.bbc.co.uk/sport/football/63771033?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63771033?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 20:52:57+00:00
- - tags: None
 
 England will meet France in the World Cup quarter-finals on Saturday after an impressive demolition of Senegal at Al Bayt Stadium.
 
@@ -92,7 +81,6 @@ England will meet France in the World Cup quarter-finals on Saturday after an im
  - [https://www.bbc.co.uk/sport/av/football/63814028?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63814028?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 20:52:46+00:00
- - tags: None
 
 Watch highlights as England produce a dominant display to beat Senegal 3-0 and reach the World Cup quarter-finals.
 
@@ -100,7 +88,6 @@ Watch highlights as England produce a dominant display to beat Senegal 3-0 and r
  - [https://www.bbc.co.uk/sport/football/63853904?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63853904?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 20:32:55+00:00
- - tags: None
 
 Olivier Giroud becomes France's all-time top scorer, but he is upstaged by the performance of Kylian Mbappe in their last-16 win over Poland.
 
@@ -108,7 +95,6 @@ Olivier Giroud becomes France's all-time top scorer, but he is upstaged by the p
  - [https://www.bbc.co.uk/sport/av/football/63854237?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63854237?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 19:50:42+00:00
- - tags: None
 
 Watch the best of Kylian Mbappe's "explosive" performance as France beat Poland 3-1 to reach the World Cup quarter-finals.
 
@@ -116,7 +102,6 @@ Watch the best of Kylian Mbappe's "explosive" performance as France beat Poland 
  - [https://www.bbc.co.uk/sport/football/63854197?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63854197?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 19:26:23+00:00
- - tags: None
 
 Raheem Sterling's future at the World Cup is unclear after leaving the squad to deal with a "family matter", says England manager Gareth Southgate.
 
@@ -124,7 +109,6 @@ Raheem Sterling's future at the World Cup is unclear after leaving the squad to 
  - [https://www.bbc.co.uk/news/world-europe-63852395?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63852395?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 19:14:12+00:00
- - tags: None
 
 The seals were found on the Caspian Sea coast, but officials do not believe they died violently.
 
@@ -132,7 +116,6 @@ The seals were found on the Caspian Sea coast, but officials do not believe they
  - [https://www.bbc.co.uk/sport/football/63853235?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63853235?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 19:03:55+00:00
- - tags: None
 
 Rate the players out of 10 as England face Senegal for a place in the last 16 at the 2022 World Cup in Qatar.
 
@@ -140,7 +123,6 @@ Rate the players out of 10 as England face Senegal for a place in the last 16 at
  - [https://www.bbc.co.uk/news/world-europe-63850875?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63850875?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 18:29:11+00:00
- - tags: None
 
 Sofia lives in cramped conditions with her boyfriend and his mother after strikes destroyed their home.
 
@@ -148,7 +130,6 @@ Sofia lives in cramped conditions with her boyfriend and his mother after strike
  - [https://www.bbc.co.uk/news/world-europe-63852394?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63852394?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 18:10:57+00:00
- - tags: None
 
 Ursula von der Leyen says the EU must act amid concerns within the bloc over US climate legislation.
 
@@ -156,7 +137,6 @@ Ursula von der Leyen says the EU must act amid concerns within the bloc over US 
  - [https://www.bbc.co.uk/news/business-63853669?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63853669?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 17:45:20+00:00
- - tags: None
 
 The Rail Delivery Group makes an offer to the RMT union in the ongoing dispute over pay and conditions.
 
@@ -164,7 +144,6 @@ The Rail Delivery Group makes an offer to the RMT union in the ongoing dispute o
  - [https://www.bbc.co.uk/sport/av/football/63853537?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63853537?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 17:08:57+00:00
- - tags: None
 
 Watch as Kylian Mbappe scores his second goal of the match to put France three ahead against Poland at the World Cup.
 
@@ -172,7 +151,6 @@ Watch as Kylian Mbappe scores his second goal of the match to put France three a
  - [https://www.bbc.co.uk/news/uk-england-merseyside-63853642?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-merseyside-63853642?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 16:58:08+00:00
- - tags: None
 
 Participants, who wore red and blue suits, were fundraising for the Alder Hey Children's Hospital.
 
@@ -180,7 +158,6 @@ Participants, who wore red and blue suits, were fundraising for the Alder Hey Ch
  - [https://www.bbc.co.uk/sport/av/football/63814037?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63814037?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 16:56:48+00:00
- - tags: None
 
 Watch as Kylian Mbappe and Olivier Giroud lead France to a dominant 3-1 victory against Poland in the last 16 at the World Cup.
 
@@ -188,7 +165,6 @@ Watch as Kylian Mbappe and Olivier Giroud lead France to a dominant 3-1 victory 
  - [https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-63851710?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-63851710?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 16:53:36+00:00
- - tags: None
 
 Guests who spent three nights snowed in at the Tan Hill Inn during Storm Arwen return for a reunion.
 
@@ -196,7 +172,6 @@ Guests who spent three nights snowed in at the Tan Hill Inn during Storm Arwen r
  - [https://www.bbc.co.uk/sport/av/football/63853532?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/63853532?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 16:49:31+00:00
- - tags: None
 
 France striker Kylian Mbappe scores a "thunderous goal" for France to double their lead against Poland at the World Cup.
 
@@ -204,7 +179,6 @@ France striker Kylian Mbappe scores a "thunderous goal" for France to double the
  - [https://www.bbc.co.uk/sport/football/63771047?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63771047?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 16:36:45+00:00
- - tags: None
 
 Manchester City keep up the pressure on the top three in the Women's Super League with a comfortable victory over Brighton.
 
@@ -212,7 +186,6 @@ Manchester City keep up the pressure on the top three in the Women's Super Leagu
  - [https://www.bbc.co.uk/sport/football/63849076?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63849076?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 16:18:30+00:00
- - tags: None
 
 Arsene Wenger suggests that countries that protested at the World Cup have seen their on-field performances suffer as a result.
 
@@ -220,7 +193,6 @@ Arsene Wenger suggests that countries that protested at the World Cup have seen 
  - [https://www.bbc.co.uk/news/world-africa-63850913?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-africa-63850913?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 15:36:19+00:00
- - tags: None
 
 Cyril Ramaphosa, under pressure following a critical report, says the ANC will decide his next move.
 
@@ -228,7 +200,6 @@ Cyril Ramaphosa, under pressure following a critical report, says the ANC will d
  - [https://www.bbc.co.uk/sport/cricket/63852479?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/63852479?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 14:41:23+00:00
- - tags: None
 
 Captain Ben Stokes and coach Brendon McCullum are "pioneers" in their approach to Test cricket, according to England assistant Paul Collingwood.
 
@@ -236,7 +207,6 @@ Captain Ben Stokes and coach Brendon McCullum are "pioneers" in their approach t
  - [https://www.bbc.co.uk/news/uk-63850466?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63850466?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 14:32:47+00:00
- - tags: None
 
 Ngozi Fulani told the BBC her encounter with Lady Susan Hussey was like an "interrogation".
 
@@ -244,7 +214,6 @@ Ngozi Fulani told the BBC her encounter with Lady Susan Hussey was like an "inte
  - [https://www.bbc.co.uk/sport/formula1/63851584?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/formula1/63851584?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 14:28:19+00:00
- - tags: None
 
 Former Formula 1 driver Patrick Tambay, most famous for his time with Ferrari in the 1980s, dies aged 73.
 
@@ -252,7 +221,6 @@ Former Formula 1 driver Patrick Tambay, most famous for his time with Ferrari in
  - [https://www.bbc.co.uk/sport/football/63777438?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63777438?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 13:50:39+00:00
- - tags: None
 
 Preview followed by live coverage of Monday's Fifa World Cup second-round match between Brazil and South Korea.
 
@@ -260,7 +228,6 @@ Preview followed by live coverage of Monday's Fifa World Cup second-round match 
  - [https://www.bbc.co.uk/sport/football/63851009?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63851009?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 13:34:14+00:00
- - tags: None
 
 Hearts' friendly match with UD Almeria in Spain was abandoned in the first half after fighting broke out between players.
 
@@ -268,7 +235,6 @@ Hearts' friendly match with UD Almeria in Spain was abandoned in the first half 
  - [https://www.bbc.co.uk/news/world-middle-east-63850656?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-middle-east-63850656?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 13:02:45+00:00
- - tags: None
 
 The move would mark a concession to protesters but it has not been confirmed by other authorities.
 
@@ -276,7 +242,6 @@ The move would mark a concession to protesters but it has not been confirmed by 
  - [https://www.bbc.co.uk/news/world-us-canada-63851751?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63851751?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 12:56:44+00:00
- - tags: None
 
 The White House says the former president's comments are "anathema to the soul of our nation".
 
@@ -284,7 +249,6 @@ The White House says the former president's comments are "anathema to the soul o
  - [https://www.bbc.co.uk/news/business-63850899?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63850899?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 12:13:25+00:00
- - tags: None
 
 The electronics retailer has switched to alternative delivery firms for the time being.
 
@@ -292,7 +256,6 @@ The electronics retailer has switched to alternative delivery firms for the time
  - [https://www.bbc.co.uk/sport/cricket/63827217?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/63827217?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 11:52:41+00:00
- - tags: None
 
 England's first Test against Pakistan is set for a grandstand conclusion after an exhilarating fourth day in Rawalpindi.
 
@@ -300,7 +263,6 @@ England's first Test against Pakistan is set for a grandstand conclusion after a
  - [https://www.bbc.co.uk/news/uk-scotland-63850615?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-63850615?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 11:51:55+00:00
- - tags: None
 
 Ian Blackford insists he took the decision to step down as SNP Westminster leader after five years.
 
@@ -308,7 +270,6 @@ Ian Blackford insists he took the decision to step down as SNP Westminster leade
  - [https://www.bbc.co.uk/news/uk-politics-63851251?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-63851251?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 11:27:49+00:00
- - tags: None
 
 Nadhim Zahawi says the military could be drafted in as part of plans to minimise strike disruption.
 
@@ -316,7 +277,6 @@ Nadhim Zahawi says the military could be drafted in as part of plans to minimise
  - [https://www.bbc.co.uk/news/uk-scotland-tayside-central-63848589?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-tayside-central-63848589?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 11:00:58+00:00
- - tags: None
 
 The actress says the plight of a mother who runs life-saving support for her daughter "destroyed me".
 
@@ -324,7 +284,6 @@ The actress says the plight of a mother who runs life-saving support for her dau
  - [https://www.bbc.co.uk/news/world-asia-63850653?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-63850653?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 09:51:10+00:00
- - tags: None
 
 Japan also issued a tsunami warning for its southernmost islands after the eruption.
 
@@ -332,7 +291,6 @@ Japan also issued a tsunami warning for its southernmost islands after the erupt
  - [https://www.bbc.co.uk/sport/boxing/63839643?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/boxing/63839643?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 07:56:37+00:00
- - tags: None
 
 BBC Sport looks at the heavyweight fights that could happen in 2023, including the first undisputed heavyweight contest in 23 years.
 
@@ -340,7 +298,6 @@ BBC Sport looks at the heavyweight fights that could happen in 2023, including t
  - [https://www.bbc.co.uk/sport/rugby-union/63850325?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/63850325?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 07:17:43+00:00
- - tags: None
 
 South Africa's World Cup winner Sbu Nkosi has been reported missing by his club in Pretoria.
 
@@ -348,7 +305,6 @@ South Africa's World Cup winner Sbu Nkosi has been reported missing by his club 
  - [https://www.bbc.co.uk/news/uk-northern-ireland-63732352?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-northern-ireland-63732352?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 06:36:39+00:00
- - tags: None
 
 Three-year-old Abigail is non-verbal and visually impaired but music therapy helps her communicate.
 
@@ -356,7 +312,6 @@ Three-year-old Abigail is non-verbal and visually impaired but music therapy hel
  - [https://www.bbc.co.uk/sport/football/63815734?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63815734?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 06:24:41+00:00
- - tags: None
 
 As Senegal prepare to face England at the World Cup, can you name the 20 Teranga Lions players to have played the most games in the Premier League?
 
@@ -364,7 +319,6 @@ As Senegal prepare to face England at the World Cup, can you name the 20 Teranga
  - [https://www.bbc.co.uk/sport/football/63848226?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/63848226?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 06:10:09+00:00
- - tags: None
 
 Rio Ferdinand explains how this World Cup has been a test of Harry Maguire's character as well as his ability - and the England defender has shown everyone he has plenty of both.
 
@@ -372,7 +326,6 @@ Rio Ferdinand explains how this World Cup has been a test of Harry Maguire's cha
  - [https://www.bbc.co.uk/news/world-europe-63849268?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63849268?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 04:48:37+00:00
- - tags: None
 
 US intelligence says fighting has slowed down and this will continue throughout the winter.
 
@@ -380,7 +333,6 @@ US intelligence says fighting has slowed down and this will continue throughout 
  - [https://www.bbc.co.uk/news/uk-63849546?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63849546?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 03:33:38+00:00
- - tags: None
 
 Sailors spend two days at remote UK science station and unearth buildings buried in heavy snow.
 
@@ -388,7 +340,6 @@ Sailors spend two days at remote UK science station and unearth buildings buried
  - [https://www.bbc.co.uk/news/business-63834755?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63834755?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 02:01:56+00:00
- - tags: None
 
 The head of energy giant Enel says renewables are key to getting prices back to pre-Ukraine war levels.
 
@@ -396,7 +347,6 @@ The head of energy giant Enel says renewables are key to getting prices back to 
  - [https://www.bbc.co.uk/news/world-us-canada-63849682?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63849682?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 01:51:42+00:00
- - tags: None
 
 The astronauts installed new solar panels to give the International Space Station more power.
 
@@ -404,7 +354,6 @@ The astronauts installed new solar panels to give the International Space Statio
  - [https://www.bbc.co.uk/news/uk-scotland-63781000?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-63781000?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 01:20:00+00:00
- - tags: None
 
 David Gilliver has won awards for his Macro photography putting tiny figurines into imaginative scenes.
 
@@ -412,7 +361,6 @@ David Gilliver has won awards for his Macro photography putting tiny figurines i
  - [https://www.bbc.co.uk/news/world-asia-63832825?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-63832825?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 01:08:14+00:00
- - tags: None
 
 The repeal of a gay sex ban ends a period where authorities actively targeted homosexual men.
 
@@ -420,7 +368,6 @@ The repeal of a gay sex ban ends a period where authorities actively targeted ho
  - [https://www.bbc.co.uk/news/world-latin-america-63849266?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-latin-america-63849266?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 00:53:00+00:00
- - tags: None
 
 Both sides reach a first point of agreement in bid to end almost 60 years of war, the president says.
 
@@ -428,7 +375,6 @@ Both sides reach a first point of agreement in bid to end almost 60 years of war
  - [https://www.bbc.co.uk/news/entertainment-arts-63730817?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63730817?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 00:46:32+00:00
- - tags: None
 
 The Callisto Protocol has been cancelled in Japan for being too gruesome but its makers are unapologetic.
 
@@ -436,7 +382,6 @@ The Callisto Protocol has been cancelled in Japan for being too gruesome but its
  - [https://www.bbc.co.uk/sport/boxing/63849255?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/boxing/63849255?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 00:42:31+00:00
- - tags: None
 
 WBC world heavyweight title holder Tyson Fury says 2023 will be the biggest year of his career as he looks to become undisputed champion.
 
@@ -444,7 +389,6 @@ WBC world heavyweight title holder Tyson Fury says 2023 will be the biggest year
  - [https://www.bbc.co.uk/news/uk-england-nottinghamshire-63680955?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-nottinghamshire-63680955?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 00:23:39+00:00
- - tags: None
 
 How one woman survived a notorious kidnapping, only to be traumatised by how she was treated afterwards.
 
@@ -452,7 +396,6 @@ How one woman survived a notorious kidnapping, only to be traumatised by how she
  - [https://www.bbc.co.uk/news/in-pictures-63812501?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/in-pictures-63812501?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 00:22:10+00:00
- - tags: None
 
 A selection of striking images from our readers around the world.
 
@@ -460,7 +403,6 @@ A selection of striking images from our readers around the world.
  - [https://www.bbc.co.uk/news/blogs-the-papers-63849139?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-63849139?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 00:21:17+00:00
- - tags: None
 
 Sunday's headlines focus on England's World Cup match, and alleged tensions between Prince William and Prince Harry.
 
@@ -468,7 +410,6 @@ Sunday's headlines focus on England's World Cup match, and alleged tensions betw
  - [https://www.bbc.co.uk/news/uk-england-leeds-63827526?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-leeds-63827526?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 00:12:31+00:00
- - tags: None
 
 The Cultural Food Hub is making sure each bag given matches the needs of the person receiving it.
 
@@ -476,7 +417,6 @@ The Cultural Food Hub is making sure each bag given matches the needs of the per
  - [https://www.bbc.co.uk/news/business-63796498?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63796498?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 00:12:06+00:00
- - tags: None
 
 Experts give tips on how to make your Christmas cheaper, greener and just as joyful.
 
@@ -484,7 +424,6 @@ Experts give tips on how to make your Christmas cheaper, greener and just as joy
  - [https://www.bbc.co.uk/news/uk-63796154?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63796154?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 00:11:44+00:00
- - tags: None
 
 With money tight, there are ways you can organise a Christmas party without the financial hangover.
 
@@ -492,6 +431,5 @@ With money tight, there are ways you can organise a Christmas party without the 
  - [https://www.bbc.co.uk/news/uk-63838387?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-63838387?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-04 00:09:13+00:00
- - tags: None
 
 Nick Robinson looks at the biggest risks taken by Liz Truss during her seven weeks in No 10 - and why they did not succeed.

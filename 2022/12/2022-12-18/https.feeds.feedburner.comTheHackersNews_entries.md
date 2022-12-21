@@ -1,4 +1,4 @@
-# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews
+# Source The Hacker News, Source URL:https://feeds.feedburner.com/TheHackersNews, Source language: en-US
 
 ## Google Takes Gmail Security to the Next Level with Client-Side Encryption
  - [https://thehackernews.com/2022/12/gmail-encryption.html](https://thehackernews.com/2022/12/gmail-encryption.html)

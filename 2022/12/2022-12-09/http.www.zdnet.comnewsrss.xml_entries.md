@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## The 5 best hybrid cars of 2023
  - [https://www.zdnet.com/article/best-hybrid-car/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-hybrid-car/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-09 23:54:00+00:00
- - tags: None
 
 Want to save money on gas but hesitant to go fully electric? These environmentally-friendly hybrid cars offer top performance and safety features -- and some even benefit from a $7,500 federal income tax credit.
 
@@ -12,7 +11,6 @@ Want to save money on gas but hesitant to go fully electric? These environmental
  - [https://www.zdnet.com/home-and-office/best-holiday-monitor-deals-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/best-holiday-monitor-deals-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-09 23:33:00+00:00
- - tags: None
 
 If you missed your chance to snag a great monitor deal during Cyber Monday, not to worry. We rounded up the best monitor deals available over the holiday season so you can find a device for all your needs.
 
@@ -20,7 +18,6 @@ If you missed your chance to snag a great monitor deal during Cyber Monday, not 
  - [https://www.zdnet.com/home-and-office/smart-home/12-smart-home-devices-that-make-great-gifts-in-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/12-smart-home-devices-that-make-great-gifts-in-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-09 23:30:00+00:00
- - tags: None
 
 Do you have a gadget-loving dad or tech-challenged grandparent? ZDNET rounded up the best smart home gift ideas to show your loved ones you care this holiday season.
 
@@ -28,7 +25,6 @@ Do you have a gadget-loving dad or tech-challenged grandparent? ZDNET rounded up
  - [https://www.zdnet.com/article/oneplus-nord-n20-5g-review/#ftag=RSSbaffb68](https://www.zdnet.com/article/oneplus-nord-n20-5g-review/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-09 23:18:00+00:00
- - tags: None
 
 At a time when we're all more budget-conscious, the OnePlus Nord N20 5G satisfies the smartphone itch without costing an arm and leg.
 
@@ -36,7 +32,6 @@ At a time when we're all more budget-conscious, the OnePlus Nord N20 5G satisfie
  - [https://www.zdnet.com/home-and-office/kitchen-household/tovala-smart-oven-can-this-souped-up-smart-toaster-replace-both-our-microwave-and-oven/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/kitchen-household/tovala-smart-oven-can-this-souped-up-smart-toaster-replace-both-our-microwave-and-oven/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-09 22:28:00+00:00
- - tags: None
 
 Scan your groceries, and leave the rest to the oven's array of cooking modes. It even adds steam for perfect toast.
 
@@ -44,7 +39,6 @@ Scan your groceries, and leave the rest to the oven's array of cooking modes. It
  - [https://www.zdnet.com/home-and-office/work-life/how-to-add-conditional-formatting-to-a-google-sheets-drop-down-list-and-why-you-should/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/work-life/how-to-add-conditional-formatting-to-a-google-sheets-drop-down-list-and-why-you-should/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-09 20:16:00+00:00
- - tags: None
 
 Adding conditional formatting to a Google Sheets drop-down list helps automate the formatting of your spreadsheet cells.
 
@@ -52,7 +46,6 @@ Adding conditional formatting to a Google Sheets drop-down list helps automate t
  - [https://www.zdnet.com/home-and-office/work-life/how-to-create-a-drop-down-list-in-google-sheets/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/work-life/how-to-create-a-drop-down-list-in-google-sheets/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-09 19:42:00+00:00
- - tags: None
 
 Creating a drop-down list in a Google Sheets cell can speed up your data input process and it's easy to do. We'll show you how.
 
@@ -60,7 +53,6 @@ Creating a drop-down list in a Google Sheets cell can speed up your data input p
  - [https://www.zdnet.com/home-and-office/smart-office/benq-mobiuz-curved-gaming-monitor-review/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-office/benq-mobiuz-curved-gaming-monitor-review/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-09 18:22:00+00:00
- - tags: None
 
 Review: BenQ's intensely curved Mobiuz EX3210R monitor offers a unique set of specs and a ton of immersion, but it's held back by some quirks that make it a niche pick.
 
@@ -68,7 +60,6 @@ Review: BenQ's intensely curved Mobiuz EX3210R monitor offers a unique set of sp
  - [https://www.zdnet.com/home-and-office/how-to-build-a-winter-emergency-kit/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/how-to-build-a-winter-emergency-kit/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-09 18:17:30+00:00
- - tags: None
 
 A little bit of technology (and some know-how) can help keep you and your family safe. Here's what's inside my emergency kit.
 
@@ -76,7 +67,6 @@ A little bit of technology (and some know-how) can help keep you and your family
  - [https://www.zdnet.com/article/the-new-dji-mini-3-is-aimed-at-beginners-but-has-plenty-of-pro-features/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-new-dji-mini-3-is-aimed-at-beginners-but-has-plenty-of-pro-features/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-09 17:56:00+00:00
- - tags: None
 
 The Mini 3 takes many of the good bits of the Mini 3 Pro, adds more battery life, and drops the starting price by $200.
 
@@ -84,7 +74,6 @@ The Mini 3 takes many of the good bits of the Mini 3 Pro, adds more battery life
  - [https://www.zdnet.com/article/how-to-remap-the-command-key-on-a-mac-keyboard/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-remap-the-command-key-on-a-mac-keyboard/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-09 14:19:00+00:00
- - tags: None
 
 Muscle memory is real. Here's how to remap your Mac keyboard to simulate the control shortcuts of a Windows computer.
 
@@ -92,7 +81,6 @@ Muscle memory is real. Here's how to remap your Mac keyboard to simulate the con
  - [https://www.zdnet.com/article/meetings-in-the-metaverse-our-experience-with-htc-vive-sync/#ftag=RSSbaffb68](https://www.zdnet.com/article/meetings-in-the-metaverse-our-experience-with-htc-vive-sync/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-09 13:00:21+00:00
- - tags: None
 
 HTC lent us a couple of Vive Focus 3 headsets. Here's how we got on in the company's Vive Sync virtual-meeting space.
 
@@ -100,7 +88,6 @@ HTC lent us a couple of Vive Focus 3 headsets. Here's how we got on in the compa
  - [https://www.zdnet.com/article/google-brings-waze-and-maps-teams-together-in-cost-cutting-move/#ftag=RSSbaffb68](https://www.zdnet.com/article/google-brings-waze-and-maps-teams-together-in-cost-cutting-move/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-09 12:51:11+00:00
- - tags: None
 
 Google vows to keep Waze as a standalone app following the merger with the Maps team.
 
@@ -108,7 +95,6 @@ Google vows to keep Waze as a standalone app following the merger with the Maps 
  - [https://www.zdnet.com/article/chrome-gets-memory-and-energy-saver-modes-for-windows-macos-and-chromeos/#ftag=RSSbaffb68](https://www.zdnet.com/article/chrome-gets-memory-and-energy-saver-modes-for-windows-macos-and-chromeos/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-09 11:42:59+00:00
- - tags: None
 
 Google's Chrome browser is getting new settings to make it less of a resource hog on multiple platforms.
 
@@ -116,7 +102,6 @@ Google's Chrome browser is getting new settings to make it less of a resource ho
  - [https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/#ftag=RSSbaffb68](https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-09 11:33:32+00:00
- - tags: None
 
 Microsoft's Snipping Tool can now do more than snip.
 
@@ -124,7 +109,6 @@ Microsoft's Snipping Tool can now do more than snip.
  - [https://www.zdnet.com/article/artemis-i-is-on-track-to-success-as-nasa-readies-for-splashdown/#ftag=RSSbaffb68](https://www.zdnet.com/article/artemis-i-is-on-track-to-success-as-nasa-readies-for-splashdown/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-09 11:00:21+00:00
- - tags: None
 
 The Orion spacecraft will land off the coast of North America on Sunday, in a crucial moment for NASA as it aims to send humans back to the moon
 
@@ -132,7 +116,6 @@ The Orion spacecraft will land off the coast of North America on Sunday, in a cr
  - [https://www.zdnet.com/home-and-office/best-buy-3-day-sale-cheap-gaming-rigs-pcs-monitors-accessories-deal-sale-coupon-code/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/best-buy-3-day-sale-cheap-gaming-rigs-pcs-monitors-accessories-deal-sale-coupon-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-09 09:07:22+00:00
- - tags: None
 
 Best Buy is offering cut-price gaming systems and accessories for a limited time.
 
@@ -140,7 +123,6 @@ Best Buy is offering cut-price gaming systems and accessories for a limited time
  - [https://www.zdnet.com/home-and-office/smart-home/best-ring-blink-deals-amazon-holiday-sale-2022/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/best-ring-blink-deals-amazon-holiday-sale-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-09 02:51:00+00:00
- - tags: None
 
 If you're catching up on your holiday shopping, don't pass on home security: ZDNET has gathered the best deals on Amazon's Ring and Blink security cameras so you and yours can stay safe for less.
 
@@ -148,7 +130,6 @@ If you're catching up on your holiday shopping, don't pass on home security: ZDN
  - [https://www.zdnet.com/article/ipad-pro-holiday-deals-2022-sale/#ftag=RSSbaffb68](https://www.zdnet.com/article/ipad-pro-holiday-deals-2022-sale/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-09 02:46:00+00:00
- - tags: None
 
 A range of Apple iPad Pro tablets, each with different specifications, are currently on sale. Here are the best iPad Pro deals for the holidays, including one for $400 off a 12.9-inch model.
 
@@ -156,7 +137,6 @@ A range of Apple iPad Pro tablets, each with different specifications, are curre
  - [https://www.zdnet.com/article/best-holiday-tablet-deals-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-holiday-tablet-deals-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-09 02:43:00+00:00
- - tags: None
 
 Looking for a tablet? The holiday season means discounts on the best tablets from brands like Apple and Samsung. Here are the best tablet deals we could find.
 
@@ -164,7 +144,6 @@ Looking for a tablet? The holiday season means discounts on the best tablets fro
  - [https://www.zdnet.com/home-and-office/yard-outdoors/best-zero-turn-mower/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/yard-outdoors/best-zero-turn-mower/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-09 02:23:00+00:00
- - tags: None
 
 Zero-turn mowers are great for both larger properties as well as yards with lots of obstacles. And they're growing in popularity thanks to their generous cutting width, ergonomic design, and electric options.
 
@@ -172,6 +151,5 @@ Zero-turn mowers are great for both larger properties as well as yards with lots
  - [https://www.zdnet.com/article/discover-samsung-week-here-are-the-top-deals-right-now/#ftag=RSSbaffb68](https://www.zdnet.com/article/discover-samsung-week-here-are-the-top-deals-right-now/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-09 02:16:00+00:00
- - tags: None
 
 Discover Samsung is back for one more time this year. Check out the best picks and add them to your cart today -- some of these are only here for the day.

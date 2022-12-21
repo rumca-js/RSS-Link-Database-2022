@@ -1,4 +1,4 @@
-# Source Washington Examiner - politics, Source URL:https://feeds.feedburner.com/dcexaminer/Politics
+# Source Washington Examiner - politics, Source URL:https://feeds.feedburner.com/dcexaminer/Politics, Source language: en-US
 
 ## West Virginia to become first state to provide vehicle titles in digital format
  - [https://www.washingtonexaminer.com/news/west-virginia-to-provide-vehicle-titles-in-digital-format](https://www.washingtonexaminer.com/news/west-virginia-to-provide-vehicle-titles-in-digital-format)

@@ -1,4 +1,4 @@
-# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed
+# Source Wydarzenia Interia, Source URL:https://wydarzenia.interia.pl/feed, Source language: pl-PL
 
 ## USA: Noblista oskarżony o molestowanie seksualne
  - [https://wydarzenia.interia.pl/zagranica/news-usa-noblista-oskarzony-o-molestowanie-seksualne,nId,6480880](https://wydarzenia.interia.pl/zagranica/news-usa-noblista-oskarzony-o-molestowanie-seksualne,nId,6480880)

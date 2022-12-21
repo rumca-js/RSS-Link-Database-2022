@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Google’s stranglehold on the mapping space could be challenged by new initiative from Meta, Microsoft, Amazon, and others
  - [https://www.theverge.com/2022/12/15/23511455/oogle-maps-meta-microsoft-amazon-tomtom](https://www.theverge.com/2022/12/15/23511455/oogle-maps-meta-microsoft-amazon-tomtom)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-15 22:36:09+00:00
- - Starred: False
 
 <figure>
       <img alt="Google logo" src="https://cdn.vox-cdn.com/thumbor/lW4IeOkzIa7g8hCPMf8vy36DzFg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71755464/STK093_Google_04.0.jpg" />
@@ -23,7 +22,6 @@
  - [https://www.theverge.com/2022/12/15/23509735/lg-ultragear-oled-gaming-monitor-27-45-inch-display-first-look](https://www.theverge.com/2022/12/15/23509735/lg-ultragear-oled-gaming-monitor-27-45-inch-display-first-look)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-15 22:30:07+00:00
- - Starred: False
 
 <figure>
       <img alt="LG’s 27-inch UltraGear OLED gaming monitor showing off a video demo of a racing game." src="https://cdn.vox-cdn.com/thumbor/2RdtEByUC0tMRwJMYQqysOPOlcg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71755444/226447_LG_UltraGear_OLED_first_look_CFaulkner_0005.0.jpg" />
@@ -41,7 +39,6 @@
  - [https://www.theverge.com/2022/12/15/23511556/nasa-swot-satellite-space-water](https://www.theverge.com/2022/12/15/23511556/nasa-swot-satellite-space-water)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-15 22:20:17+00:00
- - Starred: False
 
 <figure>
       <img alt="A gold satellite soars above Earth. Below, the sun glints off a body of water. Some clouds dot the sky beneath the satellite." src="https://cdn.vox-cdn.com/thumbor/RbVg69VIdNHl7fIQ82wCxqJOzcQ=/952x0:6871x3946/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71755398/jpegPIA25595.0.jpeg" />
@@ -59,7 +56,6 @@
  - [https://www.theverge.com/2022/12/15/23511494/tim-sweeney-epic-games-metaverses-positive-dystopian](https://www.theverge.com/2022/12/15/23511494/tim-sweeney-epic-games-metaverses-positive-dystopian)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-15 22:09:33+00:00
- - Starred: False
 
 <figure>
       <img alt="A screenshot of Geralt from The Witcher in Fortnite." src="https://cdn.vox-cdn.com/thumbor/SkbeN-N5Q22aZaZKr8PyPlmCwuU=/142x0:1762x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71755353/Fortnite_Chapter_4_Season_1_Launch_Trailer_____Fortnite_Chapter_4_Season_1_Launch_Trailer_2022_12_15_132542.606_1080p_streamshot.0.png" />
@@ -76,7 +72,6 @@
  - [https://www.theverge.com/2022/12/15/23511320/belkin-continuity-camera-mount-desktops-imac-studio-display](https://www.theverge.com/2022/12/15/23511320/belkin-continuity-camera-mount-desktops-imac-studio-display)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-15 22:09:11+00:00
- - Starred: False
 
 <figure>
       <img alt="Picture of an iPhone mounted to the top of an Apple Display using Belkin’s accessory." src="https://cdn.vox-cdn.com/thumbor/HoKAVsZaW_zLLCqYW5_WNXhbbn8=/964x0:3586x1748/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71755351/iPhone_mount_display_environmental_1.0.jpg" />
@@ -93,7 +88,6 @@
  - [https://www.theverge.com/2022/12/15/23510774/google-digital-state-id-cards-android-13-wallet-app-maryland](https://www.theverge.com/2022/12/15/23510774/google-digital-state-id-cards-android-13-wallet-app-maryland)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-15 20:46:33+00:00
- - Starred: False
 
 <figure>
       <img alt="A white PowerPoint slide with the title “digital driver’s license” and an image of an Android phone with a Maryland ID card image and a waves icon indicating to tap the phone to a terminal." src="https://cdn.vox-cdn.com/thumbor/PkEqV0H6hsRE_j4oTL16l30uelw=/156x0:1844x1125/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71754918/lcimg_ec86a102_6fdb_4e68_ac33_c3474a2f1bbd.0.jpg" />
@@ -110,7 +104,6 @@
  - [https://www.theverge.com/2022/12/15/23511391/world-of-warcraft-chris-metzen-blizzard-overwatch](https://www.theverge.com/2022/12/15/23511391/world-of-warcraft-chris-metzen-blizzard-overwatch)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-15 20:24:58+00:00
- - Starred: False
 
 <figure>
       <img alt="Sony Corp. To Unveil The New Playstation 4" src="https://cdn.vox-cdn.com/thumbor/gk_0TUYs08ywJnjEzUsAExfqJbc=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71754812/162220530.0.jpg" />
@@ -132,7 +125,6 @@
  - [https://www.theverge.com/2022/12/15/23511313/hitman-stadia-progression-carryover-platforms-shutdown](https://www.theverge.com/2022/12/15/23511313/hitman-stadia-progression-carryover-platforms-shutdown)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-15 19:05:05+00:00
- - Starred: False
 
 <figure>
       <img alt="A screenshot of Agent 47 from the Hitman series." src="https://cdn.vox-cdn.com/thumbor/vW508LKdGyrdCFjOZ28btJI2lPw=/80x0:944x576/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71754478/WhiteSunsetSuit_1024x576.0.jpg" />
@@ -149,7 +141,6 @@
  - [https://www.theverge.com/2022/12/15/23510638/december-15-2022-tech-news-liveblog](https://www.theverge.com/2022/12/15/23510638/december-15-2022-tech-news-liveblog)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-15 19:00:33+00:00
- - Starred: False
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/0ko26B2A9u1Ol-nGgxsCv5DlYMg=/0x0:607x405/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71752411/Screen_Shot_2022_12_15_at_10.40.19_AM.0.jpg" />
@@ -164,7 +155,6 @@
  - [https://www.theverge.com/2022/12/15/23510619/twitter-employee-saudi-arabia-spying-sentenced-three-half-years-prison](https://www.theverge.com/2022/12/15/23510619/twitter-employee-saudi-arabia-spying-sentenced-three-half-years-prison)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-15 09:55:58+00:00
- - Starred: False
 
 <figure>
       <img alt="A black Twitter logo over a red illustration" src="https://cdn.vox-cdn.com/thumbor/T3GDmf2ePXxBcy3T4qsN47AZ7zw=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71752298/acastro_STK050_08.0.jpg" />
@@ -181,7 +171,6 @@
  - [https://www.theverge.com/2022/12/14/23510331/elon-musk-sells-tesla-shares-deja-vu](https://www.theverge.com/2022/12/14/23510331/elon-musk-sells-tesla-shares-deja-vu)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-15 03:15:40+00:00
- - Starred: False
 
 <figure>
       <img alt="Illustration showing Elon Musk in profile, in front of Twitter logos with a dollar sign inserted in place of the bird’s eye." src="https://cdn.vox-cdn.com/thumbor/U5yYRVgxtkDmkzIdhmZ9RTkR_Mk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71751843/STK171_VRG_Illo_6_Normand_ElonMusk_06.0.jpg" />
@@ -199,7 +188,6 @@
  - [https://www.theverge.com/2022/12/14/23510113/resident-evil-village-vr-mode-playstation-vr2-psvr2-free-update](https://www.theverge.com/2022/12/14/23510113/resident-evil-village-vr-mode-playstation-vr2-psvr2-free-update)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-15 00:49:58+00:00
- - Starred: False
 
 <figure>
       <img alt="A screenshot of Lady Dimitrescu in Resident Evil Village." src="https://cdn.vox-cdn.com/thumbor/UNZpvSb4CzBI-dQPAdOgoJ8KYLE=/125x0:1475x900/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71751521/52561579766_5b83b94928_h.0.jpg" />

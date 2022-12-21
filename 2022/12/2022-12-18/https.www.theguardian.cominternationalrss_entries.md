@@ -1,4 +1,11 @@
-# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss
+# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+
+## Lakers’ Anthony Davis to miss multiple weeks with foot injury, sources say
+ - [https://www.theguardian.com/sport/2022/dec/18/anthony-davis-foot-injury-time-out-los-angeles-lakers](https://www.theguardian.com/sport/2022/dec/18/anthony-davis-foot-injury-time-out-los-angeles-lakers)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-18 23:44:19+00:00
+
+<ul><li>Lakers star Davis set to miss several weeks with foot injury</li><li>Eight-time All-Star leads team in points and rebounds per game</li></ul><p>Anthony Davis of the Los Angeles Lakers has a right foot injury that’s expected to keep him sidelined for several weeks, according to a person with knowledge of the matter.</p><p>The severity of the injury was still being determined Sunday and that was keeping the team from forming a specific timetable for his return, said the person who spoke to the Associated Press on condition of anonymity because neither Davis nor the Lakers had released any information publicly.</p> <a href="https://www.theguardian.com/sport/2022/dec/18/anthony-davis-foot-injury-time-out-los-angeles-lakers">Continue reading...</a>
 
 ## NFL round-up: Cowboys thwarted by Jaguars on Jenkins’ walk-off pick-six
  - [https://www.theguardian.com/sport/2022/dec/18/nfl-week-15-round-up-game-reports](https://www.theguardian.com/sport/2022/dec/18/nfl-week-15-round-up-game-reports)
@@ -83,6 +90,13 @@
  - date published: 2022-12-18 20:07:00+00:00
 
 <p>Messi’s sublime brilliance elevated divisive World Cup into one of the great sports stories as France lost on penalties</p><p>After 12 years, shredded schedules and a whirl of geopolitics; after death and ghosts and suffering; after armbands, hard power, the Davos in the desert vibe; after 64 games of the Qatar 2022 World Cup, the Lusail Stadium dished up a purely sporting surprise.</p><p>This was the greatest Fifa World Cup final. It was also a third World Cup victory for Argentina, who beat France on penalties at the end of a wildly oscillating 3-3 draw.</p> <a href="https://www.theguardian.com/football/2022/dec/18/qatar-2022-dishes-up-sporting-surprise-and-a-coronation-for-lionel-messi">Continue reading...</a>
+
+## ‘Like paradise’: Argentina erupts in celebration of World Cup win
+ - [https://www.theguardian.com/world/2022/dec/18/like-paradise-argentina-erupts-in-celebration-of-world-cup-win](https://www.theguardian.com/world/2022/dec/18/like-paradise-argentina-erupts-in-celebration-of-world-cup-win)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-18 20:03:32+00:00
+
+<p>Streets of central Buenos Aires are a cacophony of yelling and horns after shootout victory against France </p><ul><li><a href="https://www.theguardian.com/world/2022/dec/18/cant-begrudge-messi-parisians-react-france-lose-world-cup-final">Paris reaction: ‘You can’t begrudge Messi’</a></li><li><a href="https://www.theguardian.com/football/2022/dec/18/world-cup-final-argentina-france-match-report">Match report: how Argentina won it</a></li></ul><p>If there’s one thing Argentina fans have learned in this World Cup, it’s that you can’t rest on your laurels when you’re 2-0 up. But after a dramatic penalty shootout, there was delight in Buenos Aires that Argentina will be bringing home football’s most coveted trophy.</p><p>In La Puerta Roja, a bar in the downtown San Telmo district, so many people packed in early to watch the final that there was a queue outside an hour and a half before kickoff. The air smelled of adrenaline and the commentators could barely be heard over the din of yelling, hands banging on tables, and the occasional glass smashing.</p> <a href="https://www.theguardian.com/world/2022/dec/18/like-paradise-argentina-erupts-in-celebration-of-world-cup-win">Continue reading...</a>
 
 ## Cop15 negotiators close to agreeing nature deal as talks draw to end
  - [https://www.theguardian.com/environment/2022/dec/18/cop15-negotiators-close-to-agreeing-nature-deal-as-talks-draw-to-end](https://www.theguardian.com/environment/2022/dec/18/cop15-negotiators-close-to-agreeing-nature-deal-as-talks-draw-to-end)
@@ -216,6 +230,13 @@
  - date published: 2022-12-18 14:03:31+00:00
 
 <p>The Guardian’s picture editors select photo highlights from around the world</p> <a href="https://www.theguardian.com/news/gallery/2022/dec/18/a-christmas-swim-tintoretto-and-a-charity-santa-run-the-weekends-best-photos">Continue reading...</a>
+
+## A day at the beach: ‘I’ve had many crocodile encounters over the years but none as close’
+ - [https://www.theguardian.com/lifeandstyle/2022/dec/19/a-day-at-the-beach-ive-had-many-crocodile-encounters-over-the-years-but-none-as-close](https://www.theguardian.com/lifeandstyle/2022/dec/19/a-day-at-the-beach-ive-had-many-crocodile-encounters-over-the-years-but-none-as-close)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-18 14:00:52+00:00
+
+<p>Visiting a billabong for a Sunday afternoon fishing session, Northern Territory MLA Bill Yan found himself stranded up a tree with a giant reptile glaring at him</p><ul><li><a href="https://www.theguardian.com/newsletters/2019/oct/18/saved-for-later-sign-up-for-guardian-australias-culture-and-lifestyle-email?CMP=cvau_sfl">Get our weekend culture and lifestyle email</a></li></ul><p>I grew up on the river flats around Wangaratta in Victoria, where I fished almost daily. It was a stark contrast when I moved to Alice Springs in 1990, at 21. There’s not a lot of fishing here, so any opportunity I get to fish, I grab it. I keep a fishing rod in my Darwin office for such occasions.</p><p>I’ve marshalled at the Barra Classic on the Daly River for the last nine years. I’ve had many crocodile encounters over the years, but none as close as on Sunday 9 October 2022.</p><p><strong><a href="https://www.theguardian.com/newsletters/2019/oct/18/saved-for-later-sign-up-for-guardian-australias-culture-and-lifestyle-email?CMP=copyembed">Sign up for the fun stuff with our rundown of must-reads, pop culture and tips for the weekend, every Saturday morning</a></strong></p> <a href="https://www.theguardian.com/lifeandstyle/2022/dec/19/a-day-at-the-beach-ive-had-many-crocodile-encounters-over-the-years-but-none-as-close">Continue reading...</a>
 
 ## Menopause shouldn’t be a secret or mystery, and you shouldn’t have to put up with it in silence | Svetlana Stankovic
  - [https://www.theguardian.com/commentisfree/2022/dec/19/menopause-shouldnt-be-a-secret-or-mystery-and-you-shouldnt-have-to-put-up-with-it-in-silence](https://www.theguardian.com/commentisfree/2022/dec/19/menopause-shouldnt-be-a-secret-or-mystery-and-you-shouldnt-have-to-put-up-with-it-in-silence)

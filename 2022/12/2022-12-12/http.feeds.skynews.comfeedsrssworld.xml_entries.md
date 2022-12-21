@@ -1,10 +1,9 @@
-# Source Sky News, Source URL:http://feeds.skynews.com/feeds/rss/world.xml
+# Source Sky News, Source URL:http://feeds.skynews.com/feeds/rss/world.xml, Source language: en-US
 
 ## Founder of bankrupt crypto firm FTX arrested in Bahamas
  - [https://news.sky.com/story/sam-bankman-fried-founder-of-bankrupt-crypto-firm-ftx-arrested-in-bahamas-12767138](https://news.sky.com/story/sam-bankman-fried-founder-of-bankrupt-crypto-firm-ftx-arrested-in-bahamas-12767138)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
  - date published: 2022-12-12 23:39:00+00:00
- - tags: None
 
 Police in the Bahamas have arrested Sam Bankman-Fried, the founder of bankrupt crypto firm FTX.
 
@@ -12,7 +11,6 @@ Police in the Bahamas have arrested Sam Bankman-Fried, the founder of bankrupt c
  - [https://news.sky.com/story/lockerbie-disaster-man-accused-of-making-bomb-that-blew-up-pan-am-flight-103-appears-in-us-court-12767121](https://news.sky.com/story/lockerbie-disaster-man-accused-of-making-bomb-that-blew-up-pan-am-flight-103-appears-in-us-court-12767121)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
  - date published: 2022-12-12 22:18:00+00:00
- - tags: None
 
 The man accused of making the bomb that brought down Pan Am flight 103 over the Scottish town of Lockerbie in 1988 has appeared in a US court.
 
@@ -20,7 +18,6 @@ The man accused of making the bomb that brought down Pan Am flight 103 over the 
  - [https://news.sky.com/story/two-police-officers-killed-execution-style-in-ambush-in-rural-australia-12767099](https://news.sky.com/story/two-police-officers-killed-execution-style-in-ambush-in-rural-australia-12767099)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
  - date published: 2022-12-12 20:48:00+00:00
- - tags: None
 
 Three people have been killed by police at a property in rural Australia after a six-hour standoff that began with the "execution-style" shooting of two officers and a neighbour.
 
@@ -28,7 +25,6 @@ Three people have been killed by police at a property in rural Australia after a
  - [https://news.sky.com/story/ukraine-war-freedom-comes-at-a-price-as-power-outages-and-lack-of-water-accompany-liberation-of-kherson-12767063](https://news.sky.com/story/ukraine-war-freedom-comes-at-a-price-as-power-outages-and-lack-of-water-accompany-liberation-of-kherson-12767063)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
  - date published: 2022-12-12 18:56:00+00:00
- - tags: None
 
 The mother wept with relief as she cradled her newborn baby at the only maternity hospital still working in the Ukrainian city of Kherson.
 
@@ -36,7 +32,6 @@ The mother wept with relief as she cradled her newborn baby at the only maternit
  - [https://news.sky.com/story/ukraine-war-freedom-comes-at-a-price-as-russia-switches-from-occupier-to-attacker-of-kherson-12767063](https://news.sky.com/story/ukraine-war-freedom-comes-at-a-price-as-russia-switches-from-occupier-to-attacker-of-kherson-12767063)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
  - date published: 2022-12-12 18:56:00+00:00
- - tags: None
 
 The mother wept with relief as she cradled her newborn baby at the only maternity hospital still working in the Ukrainian city of Kherson.
 
@@ -44,7 +39,6 @@ The mother wept with relief as she cradled her newborn baby at the only maternit
  - [https://news.sky.com/story/weibo-the-covid-19-posts-banned-by-one-of-chinas-biggest-social-media-platforms-12766970](https://news.sky.com/story/weibo-the-covid-19-posts-banned-by-one-of-chinas-biggest-social-media-platforms-12766970)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
  - date published: 2022-12-12 15:44:00+00:00
- - tags: None
 
 Posts calling on people not to be intimidated by the Chinese authorities are among the slew of messages censored by one of country's biggest social media platforms.&#160;
 
@@ -52,7 +46,6 @@ Posts calling on people not to be intimidated by the Chinese authorities are amo
  - [https://news.sky.com/story/russian-arms-dealer-viktor-bout-joins-pro-kremlin-ldpr-party-after-returning-home-in-us-prisoner-swap-deal-for-wnba-star-brittney-griner-12766969](https://news.sky.com/story/russian-arms-dealer-viktor-bout-joins-pro-kremlin-ldpr-party-after-returning-home-in-us-prisoner-swap-deal-for-wnba-star-brittney-griner-12766969)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
  - date published: 2022-12-12 15:38:00+00:00
- - tags: None
 
 Russian arms dealer Viktor Bout, who was recently freed in a prisoner swap for US basketball star Brittney Griner, has signed up to a far-right pro-Kremlin political party.
 
@@ -60,7 +53,6 @@ Russian arms dealer Viktor Bout, who was recently freed in a prisoner swap for U
  - [https://news.sky.com/story/congolese-farmers-barred-from-own-land-for-tree-planting-project-by-french-oil-giant-total-energies-12766904](https://news.sky.com/story/congolese-farmers-barred-from-own-land-for-tree-planting-project-by-french-oil-giant-total-energies-12766904)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
  - date published: 2022-12-12 13:31:00+00:00
- - tags: None
 
 Farmers living in the Republic of the Congo say that they have been barred from accessing their land so that the French oil giant Total Energies and the Congolese government can use it for a high-profile carbon offsetting project to plant 40 million trees in the next decade.
 
@@ -68,7 +60,6 @@ Farmers living in the Republic of the Congo say that they have been barred from 
  - [https://news.sky.com/story/uber-driver-stabbed-to-death-by-passenger-who-posted-video-of-victim-dying-on-facebook-police-say-12766838](https://news.sky.com/story/uber-driver-stabbed-to-death-by-passenger-who-posted-video-of-victim-dying-on-facebook-police-say-12766838)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
  - date published: 2022-12-12 12:26:00+00:00
- - tags: None
 
 An Uber driver was stabbed to death by a passenger "who woke up and decided he was going to kill someone" and posted a video of his victim dying on Facebook, police said.
 
@@ -76,7 +67,6 @@ An Uber driver was stabbed to death by a passenger "who woke up and decided he w
  - [https://news.sky.com/story/how-four-legged-rehabilitators-are-helping-ukrainian-children-traumatised-by-war-12766793](https://news.sky.com/story/how-four-legged-rehabilitators-are-helping-ukrainian-children-traumatised-by-war-12766793)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
  - date published: 2022-12-12 11:40:00+00:00
- - tags: None
 
 Children in war-torn Ukraine are seeking comfort from trauma with the help of tail-wagging therapist Bice, an American pit bull terrier.
 
@@ -84,7 +74,6 @@ Children in war-torn Ukraine are seeking comfort from trauma with the help of ta
  - [https://news.sky.com/story/north-korea-ready-to-test-a-nuclear-weapon-claims-south-korean-pm-han-duck-soo-12766766](https://news.sky.com/story/north-korea-ready-to-test-a-nuclear-weapon-claims-south-korean-pm-han-duck-soo-12766766)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
  - date published: 2022-12-12 11:10:00+00:00
- - tags: None
 
 North Korea is "ready" to test a nuclear weapon and will likely do so, the prime minister of South Korea has said.
 
@@ -92,7 +81,6 @@ North Korea is "ready" to test a nuclear weapon and will likely do so, the prime
  - [https://news.sky.com/story/eu-corruption-scandal-of-utmost-concern-after-four-charged-over-alleged-bribes-from-qatar-von-der-leyen-says-12766660](https://news.sky.com/story/eu-corruption-scandal-of-utmost-concern-after-four-charged-over-alleged-bribes-from-qatar-von-der-leyen-says-12766660)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
  - date published: 2022-12-12 09:54:00+00:00
- - tags: None
 
 The EU corruption scandal is of the "utmost concern" after investigators charged four people with allegedly receiving money and gifts from Qatar, European Commission President Ursula von der Leyen has said.
 
@@ -100,7 +88,6 @@ The EU corruption scandal is of the "utmost concern" after investigators charged
  - [https://news.sky.com/story/businessman-named-in-farmgate-scandal-willing-to-testify-over-buffalo-deal-with-president-ramaphosa-12766663](https://news.sky.com/story/businessman-named-in-farmgate-scandal-willing-to-testify-over-buffalo-deal-with-president-ramaphosa-12766663)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
  - date published: 2022-12-12 09:52:00+00:00
- - tags: None
 
 The Sudanese businessman embroiled in the Farmgate scandal is currently cooperating with the South African authorities - and would be willing to testify in any legal proceedings.
 
@@ -108,7 +95,6 @@ The Sudanese businessman embroiled in the Farmgate scandal is currently cooperat
  - [https://news.sky.com/story/jersey-flats-explosion-police-name-seven-victims-missing-after-blast-12766568](https://news.sky.com/story/jersey-flats-explosion-police-name-seven-victims-missing-after-blast-12766568)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
  - date published: 2022-12-12 07:55:00+00:00
- - tags: None
 
 Police have named seven people who are missing following an explosion and fire at a block of flats in Jersey.
 
@@ -116,7 +102,6 @@ Police have named seven people who are missing following an explosion and fire a
  - [https://news.sky.com/story/iran-executes-another-prisoner-as-nationwide-protests-continue-12766566](https://news.sky.com/story/iran-executes-another-prisoner-as-nationwide-protests-continue-12766566)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
  - date published: 2022-12-12 07:51:00+00:00
- - tags: None
 
 Iran has executed a second prisoner who was detained amid the ongoing nationwide protests against the government.
 
@@ -124,7 +109,6 @@ Iran has executed a second prisoner who was detained amid the ongoing nationwide
  - [https://news.sky.com/story/friend-of-italian-pm-among-three-killed-in-rome-cafe-shooting-12766549](https://news.sky.com/story/friend-of-italian-pm-among-three-killed-in-rome-cafe-shooting-12766549)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
  - date published: 2022-12-12 07:29:00+00:00
- - tags: None
 
 Italian Prime Minister Giorgia Meloni has paid tribute to a friend who was among three people killed when a gunman open fire in Rome.
 
@@ -132,6 +116,5 @@ Italian Prime Minister Giorgia Meloni has paid tribute to a friend who was among
  - [https://news.sky.com/story/ukrainians-learning-new-tricks-to-beat-putins-energy-attacks-and-vow-well-never-give-up-12766511](https://news.sky.com/story/ukrainians-learning-new-tricks-to-beat-putins-energy-attacks-and-vow-well-never-give-up-12766511)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
  - date published: 2022-12-12 05:18:00+00:00
- - tags: None
 
 The inside light of a car flickered in the darkness next to a cluster of large apartment blocks in the Ukrainian city of Odesa.

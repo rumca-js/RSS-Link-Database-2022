@@ -1,4 +1,4 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
+# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
 
 ## Somehow Every Computer Chip In The World Is Built By One Company
  - [https://www.youtube.com/watch?v=RwW0Yfy0oCw](https://www.youtube.com/watch?v=RwW0Yfy0oCw)

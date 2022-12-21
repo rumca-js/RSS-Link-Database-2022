@@ -1,4 +1,4 @@
-# Source Chip.pl, Source URL:https://www.chip.pl/feed
+# Source Chip.pl, Source URL:https://www.chip.pl/feed, Source language: pl-PL
 
 ## Takich minerałów na Ziemi jeszcze nie widziano. Jak trafiły na naszą planetę?
  - [https://www.chip.pl/2022/12/mineraly-meteoryt-el-ali-uklad-sloneczny](https://www.chip.pl/2022/12/mineraly-meteoryt-el-ali-uklad-sloneczny)

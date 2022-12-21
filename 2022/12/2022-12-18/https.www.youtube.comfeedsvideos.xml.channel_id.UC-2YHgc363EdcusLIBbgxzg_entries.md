@@ -1,4 +1,4 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
+# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
 
 ## Do Birds Navigate Using Quantum Entanglement?
  - [https://www.youtube.com/watch?v=M-y2OTMLZkI](https://www.youtube.com/watch?v=M-y2OTMLZkI)

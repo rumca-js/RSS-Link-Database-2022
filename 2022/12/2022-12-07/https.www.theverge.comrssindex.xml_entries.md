@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Now Telegram users don’t need a phone number — they can buy a fake one with crypto
  - [https://www.theverge.com/2022/12/7/23498236/telegram-fragment-phone-number-crypto-verification-monetization](https://www.theverge.com/2022/12/7/23498236/telegram-fragment-phone-number-crypto-verification-monetization)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 23:36:59+00:00
- - tags: None
 
 <figure>
       <img alt="A picture of Telegram’s paper airplane logo surrounded by yellow triangular shapes" src="https://cdn.vox-cdn.com/thumbor/MuxTdlQXhmXI0CXMrw90fOsCRM4=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71724050/acastro_STK085_Telegram_01.0.jpg" />
@@ -22,7 +21,6 @@
  - [https://www.theverge.com/2022/12/7/23499126/sunny-balwani-sentenced-13-years-prison](https://www.theverge.com/2022/12/7/23499126/sunny-balwani-sentenced-13-years-prison)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 23:26:45+00:00
- - tags: None
 
 <figure>
       <img alt="Former Theranos president Ramesh Balwani" src="https://cdn.vox-cdn.com/thumbor/lxOTym8tVPpdz1niuwuu-UrxOMo=/7x0:4000x2662/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71724011/1245440171.0.jpg" />
@@ -40,7 +38,6 @@
  - [https://www.theverge.com/23498690/apple-advanced-data-protection-icloud-encryption-iphone-mac-how-to](https://www.theverge.com/23498690/apple-advanced-data-protection-icloud-encryption-iphone-mac-how-to)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 23:08:15+00:00
- - tags: None
 
 <figure>
       <img alt="iPhone on a colorful illustrated background showing people using iPhones" src="https://cdn.vox-cdn.com/thumbor/ZFmQVbJH6JkRlR_dgl97PaE40F0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71723945/HT015_S_Haddad_ios_iphone_apps.0.jpg" />
@@ -57,7 +54,6 @@
  - [https://www.theverge.com/2022/12/7/23499017/tiktok-china-bytedance-lawsuit-mature-content-national-security](https://www.theverge.com/2022/12/7/23499017/tiktok-china-bytedance-lawsuit-mature-content-national-security)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 22:56:30+00:00
- - tags: None
 
 <figure>
       <img alt="The TikTok logo on a black background with repeating music note motifs" src="https://cdn.vox-cdn.com/thumbor/NUPD9QPuzjZ3DLwxyMENQZA_Rcc=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71723881/STK051_VRG_Illo_N_Barclay_2_tiktok.0.jpg" />
@@ -75,7 +71,6 @@
  - [https://www.theverge.com/2022/12/7/23498877/dish-boost-infinite-cell-plan-5g-25](https://www.theverge.com/2022/12/7/23498877/dish-boost-infinite-cell-plan-5g-25)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 22:52:35+00:00
- - tags: None
 
 <figure>
       <img alt="Illustration of the Dish logo with a white and red background." src="https://cdn.vox-cdn.com/thumbor/G5MAXp3iZ2kEMvJSyk5YvhvR6kU=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71723873/acastro_STK052_01.0.jpg" />
@@ -92,7 +87,6 @@
  - [https://www.theverge.com/2022/12/7/23498423/elden-ring-hairstyles-new-patch-pvp-colosseum](https://www.theverge.com/2022/12/7/23498423/elden-ring-hairstyles-new-patch-pvp-colosseum)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 22:18:37+00:00
- - tags: None
 
 <figure>
       <img alt="Screenshot from Elden Ring highlighting the new hairstyles " src="https://cdn.vox-cdn.com/thumbor/_F7g3cZ5fxlNwBA3KdR23rq9KkU=/300x0:1920x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71723719/2022_12_07_17_10_35_Greenshot.0.jpg" />
@@ -108,7 +102,6 @@
  - [https://www.theverge.com/2022/12/7/23498377/fortnite-epic-games-kids-accounts-cabined-rocket-league-fall-guys](https://www.theverge.com/2022/12/7/23498377/fortnite-epic-games-kids-accounts-cabined-rocket-league-fall-guys)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 21:02:46+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot from Fortnite." src="https://cdn.vox-cdn.com/thumbor/nloGdtWUgdFesrTqQa6R3WEoYZk=/14x0:1634x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71723364/Still022.0.jpg" />
@@ -125,7 +118,6 @@
  - [https://www.theverge.com/2022/12/7/23496201/alarm-dot-com-smart-arming-home-security-system](https://www.theverge.com/2022/12/7/23496201/alarm-dot-com-smart-arming-home-security-system)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 19:49:21+00:00
- - tags: None
 
 <figure>
       <img alt="Woman in bed sleeping with a notification that her alarm has armed." src="https://cdn.vox-cdn.com/thumbor/car67uVury0oEGdV7LBwdKzcYP4=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71723013/Alarm.com_Smart_Arming_Goodnight.0.jpg" />
@@ -142,7 +134,6 @@
  - [https://www.theverge.com/2022/12/7/23498576/dc-attorney-general-karl-racine-sues-amazon-flex-worker-tip-lawsuit-ftc](https://www.theverge.com/2022/12/7/23498576/dc-attorney-general-karl-racine-sues-amazon-flex-worker-tip-lawsuit-ftc)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 19:35:14+00:00
- - tags: None
 
 <figure>
       <img alt="Illustration showing Amazon’s logo on a black, orange, and tan background, formed by outlines of the letter “a.”" src="https://cdn.vox-cdn.com/thumbor/CcyvxwJj-Mt8wiJ0KrPKzLF07-U=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71722936/acastro_STK103__04.0.jpg" />
@@ -159,7 +150,6 @@
  - [https://www.theverge.com/2022/12/7/23498538/official-hobbit-hole-airbnb-lotr-booking-announcement-price](https://www.theverge.com/2022/12/7/23498538/official-hobbit-hole-airbnb-lotr-booking-announcement-price)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 19:23:16+00:00
- - tags: None
 
 <figure>
       <img alt="A circular Hobbit door open to reveal a green landscape that resembles The Shire from J.R.R.Tolkiens Middle Earth." src="https://cdn.vox-cdn.com/thumbor/Y1VyI9nuNEtI--ohLx4J0Dd9uP0=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71722868/04_Hobbiton_Airbnb_View_from_Hobbit_Hole_Credit_Larnie_Nicolson.0.jpg" />
@@ -176,7 +166,6 @@
  - [https://www.theverge.com/2021/8/14/22624770/apple-controversial-plan-csam-child-abuse-privacy-ios-messages](https://www.theverge.com/2021/8/14/22624770/apple-controversial-plan-csam-child-abuse-privacy-ios-messages)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 19:18:27+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/6z3Ld4HzH_dTWyXO8gjMRz1XVXU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/69725913/acastro_20200818_1777_epicApple_0003.0.0.jpg" />
@@ -192,7 +181,6 @@
  - [https://www.theverge.com/2022/12/7/23498565/apple-imessage-icloud-data-protection-verification-security-keys](https://www.theverge.com/2022/12/7/23498565/apple-imessage-icloud-data-protection-verification-security-keys)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 19:11:33+00:00
- - tags: None
 
 <figure>
       <img alt="Illustration of a glowing apple on a blue, dotted background" src="https://cdn.vox-cdn.com/thumbor/ViGvG6V7KpVPnbHIwCt73sS0bXU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71722827/acastro_180604_1777_apple_wwdc_0001.0.jpg" />
@@ -237,7 +225,6 @@
  - [https://www.theverge.com/23497203/amazon-echo-auto-2nd-gen-alexa-review-price](https://www.theverge.com/23497203/amazon-echo-auto-2nd-gen-alexa-review-price)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 19:00:00+00:00
- - tags: None
 
 <p>Amazon shrunk its second-gen Echo for your car, but it hasn’t gotten any more useful.</p>
   <p>
@@ -248,7 +235,6 @@
  - [https://www.theverge.com/2022/12/7/23498103/asus-rog-zephyrus-g14-vizio-tv-amazon-echo-dot-smart-speaker-lenovo-clock-deal-sale](https://www.theverge.com/2022/12/7/23498103/asus-rog-zephyrus-g14-vizio-tv-amazon-echo-dot-smart-speaker-lenovo-clock-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 18:33:43+00:00
- - tags: None
 
 <figure>
       <img alt="Best Laptop 2022: Asus ROG Zephyrus G14" src="https://cdn.vox-cdn.com/thumbor/EYZR63XUjLBAt1fKGr4PhVhnPL0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71722574/akrales_220510_5144_0011.0.jpg" />
@@ -265,7 +251,6 @@
  - [https://www.theverge.com/2022/12/7/23498580/apple-end-to-end-encryption-icloud-backups-advanced-data-protection](https://www.theverge.com/2022/12/7/23498580/apple-end-to-end-encryption-icloud-backups-advanced-data-protection)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 18:27:04+00:00
- - tags: None
 
 <figure>
       <img alt="Image of the Apple logo surrounded by gray, pink, and green outlines" src="https://cdn.vox-cdn.com/thumbor/vZ27dcCmh824c814rgVWKU7VZe4=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71722532/VRG_Illo_N_Barclay_5_apple.0.jpg" />
@@ -283,7 +268,6 @@
  - [https://www.theverge.com/2022/12/7/23498249/skydio-2-x2-dock-self-flying-drone-box](https://www.theverge.com/2022/12/7/23498249/skydio-2-x2-dock-self-flying-drone-box)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 18:00:14+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/bL1JPSRBEN0MKZ0hyqP_jtBO02Q=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71722403/skydio_dock_x2_vjeran_pavic.0.jpg" />
@@ -300,7 +284,6 @@
  - [https://www.theverge.com/23498267/dwarf-fortress-steam-itch-release-interview](https://www.theverge.com/23498267/dwarf-fortress-steam-itch-release-interview)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 18:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot of the newest version of Dwarf Fortress." src="https://cdn.vox-cdn.com/thumbor/k6QglJoDdOqT8MEFzgTMyMyXo-s=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71722383/unnamed.0.png" />
@@ -317,7 +300,6 @@
  - [https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 17:24:42+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/K4Ledp2jUIqmx56Fsnn5s_8lgtA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/70640445/VRG_ILLO_5090_The_best_Fitbit_for_your_fitness_and_health.0.jpg" />
@@ -334,7 +316,6 @@
  - [https://www.theverge.com/2022/12/7/23498050/un-biodiversity-conference-forest-bioenergy-trees-scientists-letter](https://www.theverge.com/2022/12/7/23498050/un-biodiversity-conference-forest-bioenergy-trees-scientists-letter)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 17:07:24+00:00
- - tags: None
 
 <figure>
       <img alt="AHOSKIE, NC - May 26: Little remains but stumps and puddles in" src="https://cdn.vox-cdn.com/thumbor/stQOAfYKkUkbWNbfd3J67_bD9Xg=/0x0:4320x2880/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71722068/475594800.0.jpg" />
@@ -352,7 +333,6 @@
  - [https://www.theverge.com/2022/12/7/23497994/xbox-calm-app-video-game-soundscape-sleeping-announcement](https://www.theverge.com/2022/12/7/23497994/xbox-calm-app-video-game-soundscape-sleeping-announcement)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 17:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Two mobile phones displaying artworks for Calm soundscapes. The music is based on Sea of Thieves and Halo Infinite game franchises." src="https://cdn.vox-cdn.com/thumbor/Z_SjONmWdnk45v8GvP5AAYtUGVQ=/109x0:1663x1036/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71722008/image__2_.0.png" />
@@ -370,7 +350,6 @@
  - [https://www.theverge.com/2022/12/7/23497237/game-awards-2022-watch-how-to-twitch-youtube](https://www.theverge.com/2022/12/7/23497237/game-awards-2022-watch-how-to-twitch-youtube)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 16:30:00+00:00
- - tags: None
 
 <figure>
       <img alt="The Game Awards 2019 - Show" src="https://cdn.vox-cdn.com/thumbor/PsVEhcVJt8tcCPSDeOegIQcC_qs=/0x0:4095x2730/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71721796/1193629349.0.jpg" />
@@ -388,7 +367,6 @@
  - [https://www.theverge.com/2022/12/7/23498226/google-north-korea-exploited-internet-explorer-vulnerability-security](https://www.theverge.com/2022/12/7/23498226/google-north-korea-exploited-internet-explorer-vulnerability-security)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 16:06:05+00:00
- - tags: None
 
 <figure>
       <img alt="A laptop surrounded by green and pink message boxes that say “warning.”" src="https://cdn.vox-cdn.com/thumbor/wLcHZMSAYWqmwH1ee4CTXSV70pg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71721675/akrales_220309_4977_0258.0.jpg" />
@@ -406,7 +384,6 @@
  - [https://www.theverge.com/2022/12/7/23498166/google-year-in-search-2022-local-results-usa-wordle-dead-queen](https://www.theverge.com/2022/12/7/23498166/google-year-in-search-2022-local-results-usa-wordle-dead-queen)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 15:27:41+00:00
- - tags: None
 
 <figure>
       <img alt="Screenshots of Google’s local search data." src="https://cdn.vox-cdn.com/thumbor/1tZY80t0_aMb6FSlOW2KmRXXpoM=/1x0:1000x666/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71721465/local_lists_keyword_post_02.0.jpg" />
@@ -423,7 +400,6 @@
  - [https://www.theverge.com/23409811/holiday-gift-guide-under-100-best-cheap-tech-gadgets-ideas-2022-budget-amazon-kindle-govee-google](https://www.theverge.com/23409811/holiday-gift-guide-under-100-best-cheap-tech-gadgets-ideas-2022-budget-amazon-kindle-govee-google)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 15:10:36+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/lynijLlG5pnwhavXZ0LEbv0joCU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71721394/226333_HOLIDAYGIFTGUIDE_AMAZFIT_02_jgoldberg.0.jpg" />
@@ -440,7 +416,6 @@
  - [https://www.theverge.com/2022/12/7/23498030/facebook-moderation-scandal-xcheck-cross-check](https://www.theverge.com/2022/12/7/23498030/facebook-moderation-scandal-xcheck-cross-check)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 15:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="A Facebook logo surrounded by blue dots and white squiggles." src="https://cdn.vox-cdn.com/thumbor/jU82qw6-lXnzKfatD4faNy80MWw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71721312/STK040_VRG_Illo_N_Barclay_4_facebook.0.jpg" />
@@ -458,7 +433,6 @@
  - [https://www.theverge.com/2022/12/7/23497980/elliq-companion-robot-2-0-elderly-care-features-conversation-prompts](https://www.theverge.com/2022/12/7/23497980/elliq-companion-robot-2-0-elderly-care-features-conversation-prompts)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 14:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/Y-NJz_bFrmbsR0K9oxVDIWUFZCs=/0x72:3508x2411/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71721105/ElliQ_2.0.0.png" />
@@ -474,7 +448,6 @@
  - [https://www.theverge.com/2022/12/7/23497938/microsoft-teams-communities-feature](https://www.theverge.com/2022/12/7/23497938/microsoft-teams-communities-feature)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 14:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Microsoft’s new communities feature inside the Teams mobile app" src="https://cdn.vox-cdn.com/thumbor/1gtUHU0JLltrBfJ9MUU1foFhlh8=/102x0:1002x600/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71721075/1.0.png" />
@@ -492,7 +465,6 @@
  - [https://www.theverge.com/2022/12/7/23496982/snapchat-ar-lens-purchases-creator-monetization-lensfest](https://www.theverge.com/2022/12/7/23496982/snapchat-ar-lens-purchases-creator-monetization-lensfest)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 14:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Snap logo" src="https://cdn.vox-cdn.com/thumbor/fmelK4OrerGMHIcsRxcEzKx4OTg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71721076/acastro_STK466_01.0.jpg" />
@@ -509,7 +481,6 @@
  - [https://www.theverge.com/2022/12/7/23497032/bmw-suspension-speed-bump-energy-patent](https://www.theverge.com/2022/12/7/23497032/bmw-suspension-speed-bump-energy-patent)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 13:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Traffic Sign In San Juan Capistrano, California" src="https://cdn.vox-cdn.com/thumbor/hYu1eadV10sUHh6kUuOsB3OdciA=/0x255:4901x3522/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71720910/457958218.0.jpg" />
@@ -531,7 +502,6 @@
  - [https://www.theverge.com/2022/12/7/23496686/gm-ev-charging-dealer-flo-power-output](https://www.theverge.com/2022/12/7/23496686/gm-ev-charging-dealer-flo-power-output)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 13:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="GM EV charging station" src="https://cdn.vox-cdn.com/thumbor/BqoKtEPT219Sr7MbwrCcebz_DQI=/428x0:3668x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71720857/DCCP_Charging_Owosso_MI.0.jpg" />
@@ -553,7 +523,6 @@
  - [https://www.theverge.com/2022/12/7/23497999/spacex-starshield-starlink-government-satellite-internet](https://www.theverge.com/2022/12/7/23497999/spacex-starshield-starlink-government-satellite-internet)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 12:57:38+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/NlPSHPlV20W_bk7ZLzi5b9_21oQ=/0x1:1346x898/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71720841/Screen_Shot_2022_12_07_at_12.38.05_PM.0.jpg" />
@@ -569,7 +538,6 @@
  - [https://www.theverge.com/2022/12/7/23497926/proton-drive-mobile-app-security-ios-android-encryption](https://www.theverge.com/2022/12/7/23497926/proton-drive-mobile-app-security-ios-android-encryption)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 12:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="An image of a phone showing drive files next to logos for Proton Drive and the Appla and Google Play app stores." src="https://cdn.vox-cdn.com/thumbor/stUv5D8_54jaL5kQWkl5jCrxP-g=/100x0:3100x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71720729/Proton_Drive.0.jpg" />
@@ -586,7 +554,6 @@
  - [https://www.theverge.com/2022/12/7/23497958/december-7-2022-tech-news-liveblog](https://www.theverge.com/2022/12/7/23497958/december-7-2022-tech-news-liveblog)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 11:29:33+00:00
- - tags: None
 
 <figure>
       <img alt="President Joe Biden at TSMC’s Arizona facility." src="https://cdn.vox-cdn.com/thumbor/sfpRNCSNyxmoUOYQssYzycA4PM4=/351x0:5663x3541/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71720670/Joe_Biden_TSMC_Arizona___12_6_2022.0.jpg" />
@@ -602,7 +569,6 @@
  - [https://www.theverge.com/2022/12/7/23497922/killer-robot-policy-san-francisco-reversed](https://www.theverge.com/2022/12/7/23497922/killer-robot-policy-san-francisco-reversed)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 11:20:06+00:00
- - tags: None
 
 <figure>
       <img alt="A picture showing law enforcement officers standing next to a bomb disposal robot in Thailand. " src="https://cdn.vox-cdn.com/thumbor/w3UAw0CzMGc6MX-3jQoMp_LU590=/0x2:4500x3002/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71720662/1244684956.0.jpg" />
@@ -620,7 +586,6 @@
  - [https://www.theverge.com/2022/12/7/23496383/uber-motional-av-robotaxi-las-vegas-ridehail](https://www.theverge.com/2022/12/7/23496383/uber-motional-av-robotaxi-las-vegas-ridehail)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 11:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/dUPNWIy9-dVWp29D-5doRvGnkMo=/0x0:1026x684/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71720581/Uber_Motional_Still.0.png" />
@@ -639,7 +604,6 @@
  - [https://www.theverge.com/2022/12/7/23497928/twitter-advertisers-brand-safety-unbanned-accounts-white-nationalists](https://www.theverge.com/2022/12/7/23497928/twitter-advertisers-brand-safety-unbanned-accounts-white-nationalists)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 10:50:17+00:00
- - tags: None
 
 <figure>
       <img alt="Elon Musk stands in front of Twitter’s logo." src="https://cdn.vox-cdn.com/thumbor/Pzyd-KOym8EzTwS_gu38M0WHIRA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71720572/STK171_VRG_Illo_10_Normand_ElonMusk_10.0.jpg" />
@@ -656,7 +620,6 @@
  - [https://www.theverge.com/2022/12/7/23497908/microsoft-call-of-duty-nintendo-valve-steam-deal-agreement](https://www.theverge.com/2022/12/7/23497908/microsoft-call-of-duty-nintendo-valve-steam-deal-agreement)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 08:44:29+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/qF8kE5qvFgPYkaM2ZxksMbBM268=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71720469/acastro_STK048_01.0.jpg" />
@@ -678,7 +641,6 @@
  - [https://www.theverge.com/2022/12/7/23496589/whatsapp-meta-avatar-profile-pictures-characters-stickers](https://www.theverge.com/2022/12/7/23496589/whatsapp-meta-avatar-profile-pictures-characters-stickers)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 08:01:00+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot of avatars in WhatsApp." src="https://cdn.vox-cdn.com/thumbor/qgz7eGd4o6-YHiislSlwchTs6qk=/0x0:1776x1184/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71720407/English_WhatsApp_Avatars.0.jpg" />
@@ -696,7 +658,6 @@
  - [https://www.theverge.com/2022/12/6/23497417/apple-tsmc-phoenix-fab-plans-biden-amd-nvidia](https://www.theverge.com/2022/12/6/23497417/apple-tsmc-phoenix-fab-plans-biden-amd-nvidia)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-07 01:46:31+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/IRxDgFsqatMi1hE3n35aZBoGF4M=/91x0:4971x3253/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71719610/Tim_Cook_TSMC_Arizona___12_6_2022.0.jpg" />

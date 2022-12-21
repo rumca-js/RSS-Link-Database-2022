@@ -1,4 +1,4 @@
-# Source NBC world, Source URL:https://feeds.nbcnews.com/nbcnews/public/world
+# Source NBC world, Source URL:https://feeds.nbcnews.com/nbcnews/public/world, Source language: en-US
 
 ## Woman dies after crowd crush at London concert venue
  - [https://www.nbcnews.com/video/woman-dies-after-crowd-crush-at-london-concert-venue-158023237881](https://www.nbcnews.com/video/woman-dies-after-crowd-crush-at-london-concert-venue-158023237881)
@@ -13,6 +13,13 @@ One woman has died from her injuries after a crowd crush at O2 Brixton Academy, 
  - date published: 2022-12-17 23:29:05+00:00
 
 One woman has died from her injuries after a crowd crush at O2 Brixton Academy, which left several critically injured. Police were called to the scene after people tried to enter the venue without tickets for a sold-out show for Nigerian singer Asake, causing the deadly crush.
+
+## Iran authorities arrest Taraneh Alidoosti, actress of Oscar-winning movie  'The Salesman'
+ - [https://www.nbcnews.com/news/us-news/iran-authorities-arrest-taraneh-alidoosti-actress-oscar-winning-movie-rcna62248](https://www.nbcnews.com/news/us-news/iran-authorities-arrest-taraneh-alidoosti-actress-oscar-winning-movie-rcna62248)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2022-12-17 18:44:10+00:00
+
+Iranian authorities arrested one of the country’s most famous actresses on charges of spreading falsehoods about nationwide protests that grip the country.
 
 ## Are Elon Musk and Twitter heading for a clash with Europe's 'red lines?'
  - [https://www.nbcnews.com/news/world/european-union-red-lines-twitter-musk-suspending-journalists-rcna62078](https://www.nbcnews.com/news/world/european-union-red-lines-twitter-musk-suspending-journalists-rcna62078)

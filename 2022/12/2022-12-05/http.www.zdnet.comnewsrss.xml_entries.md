@@ -1,10 +1,9 @@
-# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml
+# Source ZDNET, Source URL:http://www.zdnet.com/news/rss.xml, Source language: en-US
 
 ## Eufy Security responds to camera security concerns
  - [https://www.zdnet.com/home-and-office/smart-home/eufy-security-responds-to-security-concerns/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/eufy-security-responds-to-security-concerns/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-05 23:30:00+00:00
- - tags: None
 
 The Eufy Security mobile app is seeing some updates in light of the uncovered privacy issues of the past couple weeks.
 
@@ -12,7 +11,6 @@ The Eufy Security mobile app is seeing some updates in light of the uncovered pr
  - [https://www.zdnet.com/home-and-office/smart-home/eufy-responds-to-security-concerns/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/eufy-responds-to-security-concerns/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-05 23:30:00+00:00
- - tags: None
 
 The Eufy Security mobile app is seeing some updates in light of the uncovered privacy issues of the past couple weeks.
 
@@ -20,7 +18,6 @@ The Eufy Security mobile app is seeing some updates in light of the uncovered pr
  - [https://www.zdnet.com/article/heres-how-data-scientists-are-keeping-nfl-stars-safe-using-ai-and-ml/#ftag=RSSbaffb68](https://www.zdnet.com/article/heres-how-data-scientists-are-keeping-nfl-stars-safe-using-ai-and-ml/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-05 23:04:11+00:00
- - tags: None
 
 In an innovative partnership between the NFL and AWS, data scientists on Kaggle are being commissioned to identify player contact, incentivized by a $50,000 prize.
 
@@ -28,7 +25,6 @@ In an innovative partnership between the NFL and AWS, data scientists on Kaggle 
  - [https://www.zdnet.com/article/tablet-and-pc-markets-gloomy-forecast-isnt-clearing-according-to-idc/#ftag=RSSbaffb68](https://www.zdnet.com/article/tablet-and-pc-markets-gloomy-forecast-isnt-clearing-according-to-idc/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-05 22:29:22+00:00
- - tags: None
 
 Economic uncertainty and decreased consumer demand are taking a toll on the tablet and PC markets. The silver lining for buyers is that excess inventory is forcing manufacturers to heavily discount prices.
 
@@ -36,7 +32,6 @@ Economic uncertainty and decreased consumer demand are taking a toll on the tabl
  - [https://www.zdnet.com/article/googles-december-pixel-feature-drop-is-out-now-heres-whats-included/#ftag=RSSbaffb68](https://www.zdnet.com/article/googles-december-pixel-feature-drop-is-out-now-heres-whats-included/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-05 22:18:04+00:00
- - tags: None
 
 New features include improved voice audio, free VPN access, Fitbit Sleep profiles, and more customization options.
 
@@ -44,7 +39,6 @@ New features include improved voice audio, free VPN access, Fitbit Sleep profile
  - [https://www.zdnet.com/article/dell-best-holiday-deals-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/dell-best-holiday-deals-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-05 21:58:00+00:00
- - tags: None
 
 Dell's holiday deals are going strong. We rounded up the best holiday deals available on top Dell laptops, desktops, and more.
 
@@ -52,7 +46,6 @@ Dell's holiday deals are going strong. We rounded up the best holiday deals avai
  - [https://www.zdnet.com/article/apple-watch-best-holiday-deals-2022/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-watch-best-holiday-deals-2022/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-05 21:52:00+00:00
- - tags: None
 
 Apple Watch deals have landed this holiday season. We've rounded up the best Apple Watch deals so you can wrap up a wearable for your loved one this year.
 
@@ -60,7 +53,6 @@ Apple Watch deals have landed this holiday season. We've rounded up the best App
  - [https://www.zdnet.com/article/you-can-use-the-lensa-ai-app-to-turn-your-photos-into-artistic-portraits/#ftag=RSSbaffb68](https://www.zdnet.com/article/you-can-use-the-lensa-ai-app-to-turn-your-photos-into-artistic-portraits/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-05 21:52:00+00:00
- - tags: None
 
 Although these AI portraits have gone viral, the price tag and results might not be worth the hype.
 
@@ -68,7 +60,6 @@ Although these AI portraits have gone viral, the price tag and results might not
  - [https://www.zdnet.com/article/how-overworked-tech-pros-can-make-more-time-for-the-customer/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-overworked-tech-pros-can-make-more-time-for-the-customer/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-05 21:49:39+00:00
- - tags: None
 
 A technologist's role is 'to continually be a change agent' and 'to improve internal and external customer experience through understanding the problem,' according to a senior vice president of IT.
 
@@ -76,7 +67,6 @@ A technologist's role is 'to continually be a change agent' and 'to improve inte
  - [https://www.zdnet.com/article/what-are-appimages-and-how-do-you-use-them-on-linux/#ftag=RSSbaffb68](https://www.zdnet.com/article/what-are-appimages-and-how-do-you-use-them-on-linux/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-05 21:10:00+00:00
- - tags: None
 
 This unique format for distributing Linux applications keeps it simple -- mostly.
 
@@ -84,7 +74,6 @@ This unique format for distributing Linux applications keeps it simple -- mostly
  - [https://www.zdnet.com/home-and-office/smart-home/ge-cync-smart-light-deals/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/ge-cync-smart-light-deals/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-05 21:07:00+00:00
- - tags: None
 
 The sale runs across a plethora of GE's signature Cync smart home lighting options.
 
@@ -92,7 +81,6 @@ The sale runs across a plethora of GE's signature Cync smart home lighting optio
  - [https://www.zdnet.com/article/how-to-use-the-pop-os-tiling-feature-and-why-you-should/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-use-the-pop-os-tiling-feature-and-why-you-should/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-05 20:35:01+00:00
- - tags: None
 
 If you're looking to up your efficiency game on the Linux desktop, you might consider a tiling window manager, which Pop!_OS includes out of the box.
 
@@ -100,7 +88,6 @@ If you're looking to up your efficiency game on the Linux desktop, you might con
  - [https://www.zdnet.com/home-and-office/home-entertainment/60-wireless-bridge-massively-upgraded-my-vr-gaming-experience/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/60-wireless-bridge-massively-upgraded-my-vr-gaming-experience/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-05 19:59:21+00:00
- - tags: None
 
 Review: NexusLink's Wireless Gaming Bridge provided one of the best VR gaming experiences I've ever had, for a price that's so low you could buy two for less than most wireless routers with similar performance.
 
@@ -108,7 +95,6 @@ Review: NexusLink's Wireless Gaming Bridge provided one of the best VR gaming ex
  - [https://www.zdnet.com/home-and-office/kitchen-household/best-instant-pot-cooker/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/kitchen-household/best-instant-pot-cooker/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-05 19:30:00+00:00
- - tags: None
 
 Whether you're an advanced Chef or a beginner in the kitchen, there's an Instant Pot for you. We rounded up the best Instant Pots you can invest in to make cooking even easier.
 
@@ -116,7 +102,6 @@ Whether you're an advanced Chef or a beginner in the kitchen, there's an Instant
  - [https://www.zdnet.com/home-and-office/smart-home/amazon-echo-deal/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/amazon-echo-deal/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-05 18:30:00+00:00
- - tags: None
 
 Build out your smart home on a budget: The Echo Show 8 and the Echo Show Kids 5 (2nd gen) bundle is $154 off.
 
@@ -124,7 +109,6 @@ Build out your smart home on a budget: The Echo Show 8 and the Echo Show Kids 5 
  - [https://www.zdnet.com/home-and-office/best-buy-tech-gift/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/best-buy-tech-gift/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-05 18:15:00+00:00
- - tags: None
 
 Need techy gifts for everyone on your shopping list this holiday season? Best Buy has you covered with headphones, home audio, smartwatches, and more!
 
@@ -132,7 +116,6 @@ Need techy gifts for everyone on your shopping list this holiday season? Best Bu
  - [https://www.zdnet.com/article/fiture-mini-review/#ftag=RSSbaffb68](https://www.zdnet.com/article/fiture-mini-review/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-05 18:10:00+00:00
- - tags: None
 
 Review: The Fiture Mini exercise mirror brings virtual workout classes and real-time feedback to your living room. But is it enough to replace in-studio exercises?
 
@@ -140,7 +123,6 @@ Review: The Fiture Mini exercise mirror brings virtual workout classes and real-
  - [https://www.zdnet.com/article/why-designing-ai-for-humans-requires-productive-discomfort/#ftag=RSSbaffb68](https://www.zdnet.com/article/why-designing-ai-for-humans-requires-productive-discomfort/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-05 17:47:34+00:00
- - tags: None
 
 Designing 'AI that people want is as important as making sure it works,' speakers at a recent Stanford AI conference urged.
 
@@ -148,7 +130,6 @@ Designing 'AI that people want is as important as making sure it works,' speaker
  - [https://www.zdnet.com/home-and-office/smart-home/i-tried-rokus-new-line-of-low-cost-smart-home-products-theres-only-one-minor-drawback/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/i-tried-rokus-new-line-of-low-cost-smart-home-products-theres-only-one-minor-drawback/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-05 17:43:54+00:00
- - tags: None
 
 Roku wants to go beyond your television and into your home, and this new smart bulb and smart outdoor plug from Roku arrived just in time for the holiday season.
 
@@ -156,7 +137,6 @@ Roku wants to go beyond your television and into your home, and this new smart b
  - [https://www.zdnet.com/article/best-cheap-video-doorbell/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-cheap-video-doorbell/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-05 17:37:00+00:00
- - tags: None
 
 Thanks to your new cheap video doorbell, you can now check the camera before opening the door. We can help you find the best and cheapest video doorbells for your home.
 
@@ -164,7 +144,6 @@ Thanks to your new cheap video doorbell, you can now check the camera before ope
  - [https://www.zdnet.com/article/would-you-watch-these-cheesy-holiday-movies-written-by-ai/#ftag=RSSbaffb68](https://www.zdnet.com/article/would-you-watch-these-cheesy-holiday-movies-written-by-ai/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-05 17:20:30+00:00
- - tags: None
 
 An experiment in AI movie generation gives a glimpse of the future for the big screen.
 
@@ -172,7 +151,6 @@ An experiment in AI movie generation gives a glimpse of the future for the big s
  - [https://www.zdnet.com/article/stack-overflow-temporarily-bans-answers-from-openais-chatgpt-chatbot/#ftag=RSSbaffb68](https://www.zdnet.com/article/stack-overflow-temporarily-bans-answers-from-openais-chatgpt-chatbot/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-05 16:16:00+00:00
- - tags: None
 
 The Q&amp;A site has been flooded with ChatGPT coding answers that look correct but often aren't, with moderators calling for a halt.
 
@@ -180,7 +158,6 @@ The Q&amp;A site has been flooded with ChatGPT coding answers that look correct 
  - [https://www.zdnet.com/article/time-to-update-google-chrome-browser-patches-high-severity-security-flaw/#ftag=RSSbaffb68](https://www.zdnet.com/article/time-to-update-google-chrome-browser-patches-high-severity-security-flaw/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-05 15:57:02+00:00
- - tags: None
 
 Google issues a security update about a flaw it says is already being exploited in the wild.
 
@@ -188,7 +165,6 @@ Google issues a security update about a flaw it says is already being exploited 
  - [https://www.zdnet.com/article/twitter-turns-its-back-on-open-source-development/#ftag=RSSbaffb68](https://www.zdnet.com/article/twitter-turns-its-back-on-open-source-development/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-05 15:54:24+00:00
- - tags: None
 
 Besides firing most of Twitter's technical staff, new owner and CEO Elon Musk has dropped support for Twitter's open-source efforts.
 
@@ -196,7 +172,6 @@ Besides firing most of Twitter's technical staff, new owner and CEO Elon Musk ha
  - [https://www.zdnet.com/article/adobes-postscript-programming-language-sparked-a-revolution-now-you-can-check-out-the-source-code/#ftag=RSSbaffb68](https://www.zdnet.com/article/adobes-postscript-programming-language-sparked-a-revolution-now-you-can-check-out-the-source-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-05 15:00:31+00:00
- - tags: None
 
 The Computer History Museum has released the source code for a key piece of computing history that helped introduce desktop publishing.
 
@@ -204,7 +179,6 @@ The Computer History Museum has released the source code for a key piece of comp
  - [https://www.zdnet.com/article/fbi-warning-this-ransomware-gang-has-hit-over-100-targets-and-made-more-than-60-million/#ftag=RSSbaffb68](https://www.zdnet.com/article/fbi-warning-this-ransomware-gang-has-hit-over-100-targets-and-made-more-than-60-million/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-05 14:35:04+00:00
- - tags: None
 
 FBI and CISA have issued a joint alert about a ransomware group which has used old, unpatched vulnerabilities to access networks.
 
@@ -212,7 +186,6 @@ FBI and CISA have issued a joint alert about a ransomware group which has used o
  - [https://www.zdnet.com/article/hive-social-is-not-a-viable-twitter-alternative-yet/#ftag=RSSbaffb68](https://www.zdnet.com/article/hive-social-is-not-a-viable-twitter-alternative-yet/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-05 14:24:37+00:00
- - tags: None
 
 Hive has been having its share of problems. Let's take a hard look at today's reality, where the service might go, and what it would take to get there.
 
@@ -220,7 +193,6 @@ Hive has been having its share of problems. Let's take a hard look at today's re
  - [https://www.zdnet.com/article/why-hive-social-is-not-a-viable-twitter-alternative-yet/#ftag=RSSbaffb68](https://www.zdnet.com/article/why-hive-social-is-not-a-viable-twitter-alternative-yet/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-05 14:24:00+00:00
- - tags: None
 
 Hive has been having its share of problems. Let's take a hard look at today's reality, where the service might go, and what it would take to get there.
 
@@ -228,7 +200,6 @@ Hive has been having its share of problems. Let's take a hard look at today's re
  - [https://www.zdnet.com/home-and-office/home-entertainment/best-hdmi-cable/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/best-hdmi-cable/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-05 14:22:00+00:00
- - tags: None
 
 With so many electronics today, we need the right HDMI cables to do the job. ZDNET's best HDMI cables not only connect your favorite devices but also simplify your life with easy connectivity.
 
@@ -236,7 +207,6 @@ With so many electronics today, we need the right HDMI cables to do the job. ZDN
  - [https://www.zdnet.com/article/apples-mysterious-ar-vr-headset-has-been-delayed-by-software-issues-says-analyst/#ftag=RSSbaffb68](https://www.zdnet.com/article/apples-mysterious-ar-vr-headset-has-been-delayed-by-software-issues-says-analyst/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-05 12:19:27+00:00
- - tags: None
 
 Shipments of Apple mixed reality headsets could be delayed to the second half of 2023. Will consumers be keener to buy by then?
 
@@ -244,7 +214,6 @@ Shipments of Apple mixed reality headsets could be delayed to the second half of
  - [https://www.zdnet.com/article/microsoft-teams-these-are-the-latest-features-microsoft-added-in-the-last-month/#ftag=RSSbaffb68](https://www.zdnet.com/article/microsoft-teams-these-are-the-latest-features-microsoft-added-in-the-last-month/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-05 12:10:00+00:00
- - tags: None
 
 Microsoft Teams users should experience faster context switching and have gained a unique one-click quick poll feature.
 
@@ -252,7 +221,6 @@ Microsoft Teams users should experience faster context switching and have gained
  - [https://www.zdnet.com/home-and-office/the-razer-nari-gaming-headset-just-dropped-deal-sale-coupon-code/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/the-razer-nari-gaming-headset-just-dropped-deal-sale-coupon-code/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-05 09:08:00+00:00
- - tags: None
 
 You can save 50% off the typical $100 RRP for a limited time.
 
@@ -260,6 +228,5 @@ You can save 50% off the typical $100 RRP for a limited time.
  - [https://www.zdnet.com/article/samsung-electronics-names-its-first-woman-president/#ftag=RSSbaffb68](https://www.zdnet.com/article/samsung-electronics-names-its-first-woman-president/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-12-05 01:47:14+00:00
- - tags: None
 
 In its year's end reshuffle, Samsung also said it will retain the positions of its two CEOs due to the current "harsh business reality".

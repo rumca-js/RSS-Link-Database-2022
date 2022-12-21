@@ -1,10 +1,9 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml
+# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
 
 ## U.K. Police Raid London Home of Russian Oligarch
  - [https://www.wsj.com/articles/british-police-raid-london-home-of-russian-oligarch-seizing-cash-and-devices-11670097079](https://www.wsj.com/articles/british-police-raid-london-home-of-russian-oligarch-seizing-cash-and-devices-11670097079)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-03 19:51:00+00:00
- - tags: None
 
 The National Crime Agency declined to identify the businessman, whose arrest was part of an effort to disrupt the activity of wealthy elites loyal to Russian President Vladimir Putin.
 
@@ -12,7 +11,6 @@ The National Crime Agency declined to identify the businessman, whose arrest was
  - [https://www.wsj.com/articles/deadly-missile-strike-in-poland-exposed-tension-between-nato-allies-ukraine-11670093969](https://www.wsj.com/articles/deadly-missile-strike-in-poland-exposed-tension-between-nato-allies-ukraine-11670093969)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-03 18:59:00+00:00
- - tags: None
 
 Some Western officials remain rattled by Kyiv’s initial response to the incident, which appeared an attempt to prod the alliance a step closer to direct conflict with Moscow.
 
@@ -20,7 +18,6 @@ Some Western officials remain rattled by Kyiv’s initial response to the incide
  - [https://www.wsj.com/articles/russia-presses-assault-in-eastern-ukraine-in-a-bid-to-encircle-kyiv-forces-11670084489](https://www.wsj.com/articles/russia-presses-assault-in-eastern-ukraine-in-a-bid-to-encircle-kyiv-forces-11670084489)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-03 16:21:00+00:00
- - tags: None
 
 Eastern Ukrainian city of Bakhmut has emerged as a central battleground where Russian forces have worked since August to win, though analysts see limited value in the city’s capture.
 
@@ -28,7 +25,6 @@ Eastern Ukrainian city of Bakhmut has emerged as a central battleground where Ru
  - [https://www.wsj.com/articles/russia-will-rely-on-shadow-tanker-fleet-to-keep-oil-flowing-11670036535](https://www.wsj.com/articles/russia-will-rely-on-shadow-tanker-fleet-to-keep-oil-flowing-11670036535)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-03 14:10:00+00:00
- - tags: None
 
 Whether the world’s biggest crude exporter succeeds in skirting new harsh sanctions starting Monday depends on a non-Western aligned fleet.
 
@@ -36,7 +32,6 @@ Whether the world’s biggest crude exporter succeeds in skirting new harsh sanc
  - [https://www.wsj.com/articles/a-central-bank-that-raised-rates-early-now-talks-up-recession-11670030658](https://www.wsj.com/articles/a-central-bank-that-raised-rates-early-now-talks-up-recession-11670030658)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-03 12:00:00+00:00
- - tags: None
 
 The Reserve Bank of New Zealand is encouraging households to cut spending in a bid to quash expectations for more inflation.
 
@@ -44,6 +39,5 @@ The Reserve Bank of New Zealand is encouraging households to cut spending in a b
  - [https://www.wsj.com/articles/u-s-and-europe-gird-for-trade-spat-over-washingtons-push-for-domestic-investment-11670020598](https://www.wsj.com/articles/u-s-and-europe-gird-for-trade-spat-over-washingtons-push-for-domestic-investment-11670020598)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-03 10:30:00+00:00
- - tags: None
 
 European officials say subsidies in the Inflation Reduction Act threaten the region’s economy as it teeters on the verge of a recession.

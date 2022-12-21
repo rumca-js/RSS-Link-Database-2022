@@ -1,4 +1,4 @@
-# Source Washington Examiner - Tech, Source URL:https://feeds.feedburner.com/dcexaminer/tech
+# Source Washington Examiner - Tech, Source URL:https://feeds.feedburner.com/dcexaminer/tech, Source language: en-US
 
 ## Oppenheimer wrongly stripped of security clearance, US says
  - [https://www.washingtonexaminer.com/news/oppenheimer-wrongly-stripped-of-security-clearance-us-says](https://www.washingtonexaminer.com/news/oppenheimer-wrongly-stripped-of-security-clearance-us-says)

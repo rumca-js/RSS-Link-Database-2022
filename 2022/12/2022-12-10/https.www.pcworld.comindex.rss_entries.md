@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## This kid-friendly 3D printer was featured on Shark Tank, and it’s just $300 today only
  - [https://www.pcworld.com/article/1428714/this-kid-friendly-3d-printer-was-featured-on-shark-tank-and-its-just-300-today-only.html](https://www.pcworld.com/article/1428714/this-kid-friendly-3d-printer-was-featured-on-shark-tank-and-its-just-300-today-only.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-10 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>

@@ -1,11 +1,19 @@
-# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml
+# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
 
 ## Musk vs. Musk: the billionaire's obsession with Twitter is undermining his accomplishments
  - [https://www.lemonde.fr/en/economy/article/2022/12/18/musk-vs-musk-the-billionaire-s-obsession-with-twitter-is-undermining-his-accomplishments_6008150_19.html](https://www.lemonde.fr/en/economy/article/2022/12/18/musk-vs-musk-the-billionaire-s-obsession-with-twitter-is-undermining-his-accomplishments_6008150_19.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-12-17 23:51:18+00:00
+ - tags: censorship,twitter,moderation,free speech,musk
 
 Tesla's image has suffered from multiple controversies triggered by Elon Musk after he purchased the social network. Its stock has lost 60% since the beginning of the year, and investors are calling for a refocus on the car manufacturer.
+
+## 'It's like a religion': Out in droves in Doha, Argentina fans are some of football's most committed supporters
+ - [https://www.lemonde.fr/en/football/article/2022/12/17/it-s-like-a-religion-out-in-droves-in-doha-argentina-fans-are-some-of-football-s-most-committed-supporters_6008146_130.html](https://www.lemonde.fr/en/football/article/2022/12/17/it-s-like-a-religion-out-in-droves-in-doha-argentina-fans-are-some-of-football-s-most-committed-supporters_6008146_130.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2022-12-17 20:00:06+00:00
+
+About 50,000 South American fans are expected to attend the World Cup final at the Lusail Stadium on Sunday to watch Argentina face France.
 
 ## Three chefs' recipes for Christmas
  - [https://www.lemonde.fr/en/food/article/2022/12/17/what-s-for-christmas-dinner-the-gourmet-option_6008142_119.html](https://www.lemonde.fr/en/food/article/2022/12/17/what-s-for-christmas-dinner-the-gourmet-option_6008142_119.html)

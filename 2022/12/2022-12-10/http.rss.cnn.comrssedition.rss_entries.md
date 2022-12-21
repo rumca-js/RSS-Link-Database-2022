@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## Hae Min Lee's brother is requesting a redo of the hearing that vacated Adnan Syed's murder conviction
  - [https://www.cnn.com/2022/12/10/us/hae-min-lee-family-request-redo-hearing-adnan-syed-conviction-vacated/index.html](https://www.cnn.com/2022/12/10/us/hae-min-lee-family-request-redo-hearing-adnan-syed-conviction-vacated/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 22:56:44+00:00
- - tags: None
 
 Attorneys representing the brother of Hae Min Lee, the teenager whose 1999 killing was investigated on the hit podcast "Serial," requested a redo of the hearing in which a judge vacated the murder conviction of Adnan Syed.
 
@@ -12,7 +11,6 @@ Attorneys representing the brother of Hae Min Lee, the teenager whose 1999 killi
  - [https://www.cnn.com/collections/world-cup-intl-121022/](https://www.cnn.com/collections/world-cup-intl-121022/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 22:35:44+00:00
- - tags: None
 
 
 
@@ -20,7 +18,6 @@ Attorneys representing the brother of Hae Min Lee, the teenager whose 1999 killi
  - [https://www.cnn.com/2022/12/10/us/georgia-men-exonerated-wrongful-imprisonment/index.html](https://www.cnn.com/2022/12/10/us/georgia-men-exonerated-wrongful-imprisonment/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 21:32:29+00:00
- - tags: None
 
 After spending 25 years in prison on murder convictions related to the 1996 shooting death of their friend, two Georgia man were exonerated this week, after new evidence uncovered in a true-crime podcast last year proved their innocence, their lawyers said.
 
@@ -28,7 +25,6 @@ After spending 25 years in prison on murder convictions related to the 1996 shoo
  - [https://edition.cnn.com/webview/sport/live-news/world-cup-quarter-finals-12-10-2022/index.html](https://edition.cnn.com/webview/sport/live-news/world-cup-quarter-finals-12-10-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 21:19:30.983819+00:00
- - tags: None
 
 
 
@@ -36,7 +32,6 @@ After spending 25 years in prison on murder convictions related to the 1996 shoo
  - [https://www.cnn.com/2022/12/10/football/france-england-2022-world-cup-spt-intl/index.html](https://www.cnn.com/2022/12/10/football/france-england-2022-world-cup-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 21:01:13+00:00
- - tags: None
 
 World Cup holder France remains on course in its title defense after beating England 2-1 to reach the semifinals at Qatar 2022.
 
@@ -44,7 +39,6 @@ World Cup holder France remains on course in its title defense after beating Eng
  - [https://www.cnn.com/webview/sport/live-news/world-cup-quarter-finals-12-10-2022/h_28eb2b09c1367b298beb62b14e6e2b84](https://www.cnn.com/webview/sport/live-news/world-cup-quarter-finals-12-10-2022/h_28eb2b09c1367b298beb62b14e6e2b84)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 19:19:23.463550+00:00
- - tags: None
 
 
 
@@ -52,7 +46,6 @@ World Cup holder France remains on course in its title defense after beating Eng
  - [https://www.cnn.com/2022/12/10/football/cristiano-ronaldo-tears-portugal-morocco-2022-world-cup-spt-intl/index.html](https://www.cnn.com/2022/12/10/football/cristiano-ronaldo-tears-portugal-morocco-2022-world-cup-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 18:22:28+00:00
- - tags: None
 
 Cristiano Ronaldo left the 2022 World Cup in tears as his chances to win the tournament for the first time in his career were shattered after his Portugal team was shocked 1-0 by Morocco in the quarterfinals on Saturday.
 
@@ -60,7 +53,6 @@ Cristiano Ronaldo left the 2022 World Cup in tears as his chances to win the tou
  - [https://www.cnn.com/2022/12/10/football/morocco-football-victory-reaction-intl/index.html](https://www.cnn.com/2022/12/10/football/morocco-football-victory-reaction-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 18:00:11+00:00
- - tags: None
 
 Moroccan fans exploded in joy on Saturday as their team became the first from any African country to reach a World Cup semi-final, filling the stadium with a deafening roar and unleashing cheering, crying, dancing and singing on the streets back home.
 
@@ -68,7 +60,6 @@ Moroccan fans exploded in joy on Saturday as their team became the first from an
  - [https://www.cnn.com/2022/12/10/europe/viktor-bout-supports-ukraine-war-intl/index.html](https://www.cnn.com/2022/12/10/europe/viktor-bout-supports-ukraine-war-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 17:25:34+00:00
- - tags: None
 
 Freed Russian arms dealer Viktor Bout said on Saturday he "wholeheartedly" supports Moscow's so-called "military operation" in Ukraine and that if he had the opportunity and necessary skills, he would "certainly go as a volunteer."
 
@@ -76,7 +67,6 @@ Freed Russian arms dealer Viktor Bout said on Saturday he "wholeheartedly" suppo
  - [https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html](https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 17:24:17+00:00
- - tags: None
 
 Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.
 
@@ -84,7 +74,6 @@ Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by
  - [https://www.cnn.com/2022/12/10/football/morocco-portugal-quarterfinals-world-cup-2022-spt-intl/index.html](https://www.cnn.com/2022/12/10/football/morocco-portugal-quarterfinals-world-cup-2022-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 17:10:26+00:00
- - tags: None
 
 Morocco made history Saturday as the first African team to reach a World Cup semifinal, defeating Portugal 1-0 to continue its sparkling run in Qatar.
 
@@ -92,7 +81,6 @@ Morocco made history Saturday as the first African team to reach a World Cup sem
  - [https://www.cnn.com/2022/12/10/world/oldest-dna-science-newsletter-wt-scn/index.html](https://www.cnn.com/2022/12/10/world/oldest-dna-science-newsletter-wt-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 16:56:20+00:00
- - tags: None
 
 The past is an ever-changing story, and this week, myriad discoveries added new details.
 
@@ -100,7 +88,6 @@ The past is an ever-changing story, and this week, myriad discoveries added new 
  - [https://www.cnn.com/collections/intl-ukraine/](https://www.cnn.com/collections/intl-ukraine/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 16:35:12+00:00
- - tags: None
 
 
 
@@ -108,7 +95,6 @@ The past is an ever-changing story, and this week, myriad discoveries added new 
  - [https://edition.cnn.com/style/article/as-equals-white-lies-skin-whitening-fairness-beauty-companies-intl-cmd/index.html](https://edition.cnn.com/style/article/as-equals-white-lies-skin-whitening-fairness-beauty-companies-intl-cmd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 16:22:43.343396+00:00
- - tags: None
 
 
 
@@ -116,7 +102,6 @@ The past is an ever-changing story, and this week, myriad discoveries added new 
  - [https://edition.cnn.com/2022/11/29/health/skin-whitening-beauty-creams-mercury-vision-loss-mother-families-as-equals-intl-cmd/index.html](https://edition.cnn.com/2022/11/29/health/skin-whitening-beauty-creams-mercury-vision-loss-mother-families-as-equals-intl-cmd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 16:22:43.335734+00:00
- - tags: None
 
 
 
@@ -124,7 +109,6 @@ The past is an ever-changing story, and this week, myriad discoveries added new 
  - [https://www.cnn.com/2022/12/10/entertainment/white-lotus-cringeworthy-moments/index.html](https://www.cnn.com/2022/12/10/entertainment/white-lotus-cringeworthy-moments/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 15:28:02+00:00
- - tags: None
 
 Acclaimed series "The White Lotus" — which explores the lives of affluent guests in the playground of a sumptuous resort and the problems they run into while interacting with the locals and each other — was created by Mike White, who can be considered a maestro of cringe.
 
@@ -132,7 +116,6 @@ Acclaimed series "The White Lotus" — which explores the lives of affluent gues
  - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-12-10-22/index.html](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-12-10-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 15:22:33.946093+00:00
- - tags: None
 
 
 
@@ -140,7 +123,6 @@ Acclaimed series "The White Lotus" — which explores the lives of affluent gues
  - [https://www.cnn.com/2022/12/10/middleeast/xi-china-saudi-arabia-visit-five-takeaways-mime-intl/index.html](https://www.cnn.com/2022/12/10/middleeast/xi-china-saudi-arabia-visit-five-takeaways-mime-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 15:17:58+00:00
- - tags: None
 
 Years of progressing ties between oil-wealthy Saudi Arabia and China, an economic giant in the east, this week culminated in a multiple-day state visit by Chinese President Xi Jinping to Riyadh, where a number of agreements and summits heralded a "new era" of Chinese-Arab partnership.
 
@@ -148,7 +130,6 @@ Years of progressing ties between oil-wealthy Saudi Arabia and China, an economi
  - [https://www.cnn.com/2022/12/10/europe/russian-nobel-peace-laureate-slams-putin-war-intl/index.html](https://www.cnn.com/2022/12/10/europe/russian-nobel-peace-laureate-slams-putin-war-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 14:55:40+00:00
- - tags: None
 
 Russian Nobel Peace Prize laureate Yan Rachinsky blasted President Vladimir Putin's "insane and criminal" war on Ukraine in his acceptance speech in the Norwegian capital Oslo on Saturday.
 
@@ -156,7 +137,6 @@ Russian Nobel Peace Prize laureate Yan Rachinsky blasted President Vladimir Puti
  - [https://www.cnn.com/videos/sports/2022/12/10/lebron-james-tribute-grant-wahl-sports-journalist-death-qatar-sot-cnntmw-vpx.cnn](https://www.cnn.com/videos/sports/2022/12/10/lebron-james-tribute-grant-wahl-sports-journalist-death-qatar-sot-cnntmw-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 14:48:30+00:00
- - tags: None
 
 NBA star LeBron James remarks on the death of prominent American journalist Grant Wahl, who died in Qatar after collapsing while covering the World Cup. CNN's Amanda Davies has more.
 
@@ -164,7 +144,6 @@ NBA star LeBron James remarks on the death of prominent American journalist Gran
  - [https://www.edition.cnn.com/webview/sport/live-news/world-cup-quarter-finals-12-10-2022/index.html](https://www.edition.cnn.com/webview/sport/live-news/world-cup-quarter-finals-12-10-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 14:22:31.150016+00:00
- - tags: None
 
 
 
@@ -172,7 +151,6 @@ NBA star LeBron James remarks on the death of prominent American journalist Gran
  - [https://www.cnn.com/2022/12/10/football/manuel-neuer-breaks-leg-germany-world-cup-spt-intl/index.html](https://www.cnn.com/2022/12/10/football/manuel-neuer-breaks-leg-germany-world-cup-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 13:59:27+00:00
- - tags: None
 
 Germany goalkeeper and captain Manuel Neuer will miss the rest of the season after breaking his leg in a skiing accident, just over a week after his side crashed out of Qatar 2022.
 
@@ -180,7 +158,6 @@ Germany goalkeeper and captain Manuel Neuer will miss the rest of the season aft
  - [https://www.cnn.com/2022/12/10/entertainment/emancipation-will-smith-apple-tv-plc/index.html](https://www.cnn.com/2022/12/10/entertainment/emancipation-will-smith-apple-tv-plc/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 13:56:21+00:00
- - tags: None
 
 Are you working on your New Year's resolutions yet?
 
@@ -188,7 +165,6 @@ Are you working on your New Year's resolutions yet?
  - [https://www.cnn.com/europe/live-news/russia-ukraine-war-news-12-10-22/index.html](https://www.cnn.com/europe/live-news/russia-ukraine-war-news-12-10-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 13:55:44+00:00
- - tags: None
 
 
 
@@ -196,7 +172,6 @@ Are you working on your New Year's resolutions yet?
  - [https://www.cnn.com/2022/12/10/economy/inflation-easing-analysis/index.html](https://www.cnn.com/2022/12/10/economy/inflation-easing-analysis/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 13:45:53+00:00
- - tags: None
 
 It's too soon to declare victory over inflation, but from gas to chicken to big-screen TVs, there are, increasingly, signs that inflation's grip on American pocketbooks may be loosening.
 
@@ -204,7 +179,6 @@ It's too soon to declare victory over inflation, but from gas to chicken to big-
  - [https://www.cnn.com/sport/live-news/world-cup-quarter-finals-12-10-2022/index.html](https://www.cnn.com/sport/live-news/world-cup-quarter-finals-12-10-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 13:36:02+00:00
- - tags: None
 
 • Neymar unsure if he will play again with Brazil
 
@@ -212,7 +186,6 @@ It's too soon to declare victory over inflation, but from gas to chicken to big-
  - [https://www.cnn.com/2022/12/10/us/milwaukee-postal-worker-killed/index.html](https://www.cnn.com/2022/12/10/us/milwaukee-postal-worker-killed/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 12:44:12+00:00
- - tags: None
 
 A mail carrier was shot to death Friday evening in Milwaukee, police said.
 
@@ -220,7 +193,6 @@ A mail carrier was shot to death Friday evening in Milwaukee, police said.
  - [https://www.cnn.com/2022/12/10/europe/jersey-apartment-block-explosion-intl/index.html](https://www.cnn.com/2022/12/10/europe/jersey-apartment-block-explosion-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 12:27:01+00:00
- - tags: None
 
 One person died Saturday and several are missing after an explosion and fire at an apartment building on the British self-governing island of Jersey.
 
@@ -228,7 +200,6 @@ One person died Saturday and several are missing after an explosion and fire at 
  - [https://www.cnn.com/travel/article/skiing-environment-climate-change-scn/index.html](https://www.cnn.com/travel/article/skiing-environment-climate-change-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 12:13:16+00:00
- - tags: None
 
 How do you turn a ski resort "green?" The easy answer is to wait until summer.
 
@@ -236,7 +207,6 @@ How do you turn a ski resort "green?" The easy answer is to wait until summer.
  - [https://www.cnn.com/2022/12/10/entertainment/its-a-wonderful-life-in-theaters-cec/index.html](https://www.cnn.com/2022/12/10/entertainment/its-a-wonderful-life-in-theaters-cec/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 11:59:00+00:00
- - tags: None
 
 The one-time lost Christmas classic "It's A Wonderful Life" staged an unlikely comeback in the 1970s and 1980s by becoming a December TV staple, after underperforming at the box office and failing to win big at the Oscars when it debuted in the '40s.
 
@@ -244,7 +214,6 @@ The one-time lost Christmas classic "It's A Wonderful Life" staged an unlikely c
  - [https://www.cnn.com/videos/politics/2022/12/10/alleged-fake-heiress-trump-mar-a-lago-investigation-kaye-dnt-ac360-contd-vpx.cnn](https://www.cnn.com/videos/politics/2022/12/10/alleged-fake-heiress-trump-mar-a-lago-investigation-kaye-dnt-ac360-contd-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 11:56:04+00:00
- - tags: None
 
 New details emerge on Inna Yashchyshyn who allegedly claimed to be Anna de Rothschild, an heiress from a famous European banking dynasty, and gained access to former US president Donald Trump's Mar-a-Lago. CNN's Randi Kaye reports.
 
@@ -252,7 +221,6 @@ New details emerge on Inna Yashchyshyn who allegedly claimed to be Anna de Roths
  - [https://www.cnn.com/2022/12/10/football/grant-wahl-death-reaction-world-cup-qatar-spt-intl/index.html](https://www.cnn.com/2022/12/10/football/grant-wahl-death-reaction-world-cup-qatar-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 11:44:35+00:00
- - tags: None
 
 The death of prominent journalist Grant Wahl at the World Cup in Qatar has led to an outpouring of shock and grief across the sports world, with NBA star LeBron James and tennis great Billie Jean King leading the tributes to the American.
 
@@ -260,7 +228,6 @@ The death of prominent journalist Grant Wahl at the World Cup in Qatar has led t
  - [https://www.cnn.com/2022/12/10/us/julius-bar-lgbt-landmark-nyc-trnd/index.html](https://www.cnn.com/2022/12/10/us/julius-bar-lgbt-landmark-nyc-trnd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 11:03:20+00:00
- - tags: None
 
 Julius' Bar, one of New York City's oldest LGBT bars and the location of a crucial 1960s protest, has been officially recognized as a city landmark.
 
@@ -268,7 +235,6 @@ Julius' Bar, one of New York City's oldest LGBT bars and the location of a cruci
  - [https://www.cnn.com/2022/12/10/politics/runoff-sparks-debate-about-georgia-voting-law/index.html](https://www.cnn.com/2022/12/10/politics/runoff-sparks-debate-about-georgia-voting-law/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 11:01:19+00:00
- - tags: None
 
 The strong turnout in Georgia's runoff election that cemented Democrats' control of the US Senate is sparking fresh debate about the impact of the state's controversial 2021 election law and could trigger a new round of election rule changes next year in the Republican-led state legislature.
 
@@ -276,7 +242,6 @@ The strong turnout in Georgia's runoff election that cemented Democrats' control
  - [https://www.cnn.com/style/article/peter-merts-prison-arts/index.html](https://www.cnn.com/style/article/peter-merts-prison-arts/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 10:56:50+00:00
- - tags: None
 
 In photographer Peter Merts' images of California's Arts in Corrections program, a smiling man is pictured with an acrylic portrait of Pope Francis. It is a fitting choice of subject in a photo series that explores rehabilitation and redemption in America's prison system.
 
@@ -284,7 +249,6 @@ In photographer Peter Merts' images of California's Arts in Corrections program,
  - [https://www.cnn.com/2022/12/10/football/king-charles-wrexham-ryan-reynolds-rob-mcelhenney-visit-spt-intl/index.html](https://www.cnn.com/2022/12/10/football/king-charles-wrexham-ryan-reynolds-rob-mcelhenney-visit-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 10:39:25+00:00
- - tags: None
 
 Talk about Hollywood royalty.
 
@@ -292,7 +256,6 @@ Talk about Hollywood royalty.
  - [https://www.cnn.com/2022/12/10/us/brittney-griner-release-us-arrival-saturday/index.html](https://www.cnn.com/2022/12/10/us/brittney-griner-release-us-arrival-saturday/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 09:58:48+00:00
- - tags: None
 
 After being imprisoned in Russia for nearly 10 months, WNBA star Brittney Griner's safe return to the US on Friday was marked by a stop at a Texas military medical facility for a routine evaluation, the US State Department said.
 
@@ -300,7 +263,6 @@ After being imprisoned in Russia for nearly 10 months, WNBA star Brittney Griner
  - [https://www.cnn.com/2022/12/10/football/neymar-brazil-world-cup-loss-spt-intl/index.html](https://www.cnn.com/2022/12/10/football/neymar-brazil-world-cup-loss-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 09:22:12+00:00
- - tags: None
 
 Brazil's Neymar said on Friday he was unsure if he would play again for the national team after their heartbreaking World Cup quarterfinal defeat to Croatia on penalties.
 
@@ -308,7 +270,6 @@ Brazil's Neymar said on Friday he was unsure if he would play again for the nati
  - [https://www.cnn.com/travel/article/travel-news-airport-love-friendship-tsa-cat-dog/index.html](https://www.cnn.com/travel/article/travel-news-airport-love-friendship-tsa-cat-dog/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 09:01:39+00:00
- - tags: None
 
 In travel news: A court ruling on the seat recline question, the last Boeing 747 rolls off the assembly line and the TSA finds a live dog and an array of weaponry in passengers' luggage.
 
@@ -316,7 +277,6 @@ In travel news: A court ruling on the seat recline question, the last Boeing 747
  - [https://www.cnn.com/2022/12/10/world/iucn-red-list-marine-species-threatened-intl-hnk-scn/index.html](https://www.cnn.com/2022/12/10/world/iucn-red-list-marine-species-threatened-intl-hnk-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 08:07:40+00:00
- - tags: None
 
 The effects of human activity from climate change to pollution are "devastating" marine life, with nearly a tenth of underwater plants and animals assessed so far threatened with extinction, the latest Red List of Threatened Species showed on Friday.
 
@@ -324,7 +284,6 @@ The effects of human activity from climate change to pollution are "devastating"
  - [https://www.cnn.com/2022/12/10/world/swear-word-similarities-cec/index.html](https://www.cnn.com/2022/12/10/world/swear-word-similarities-cec/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 08:03:48+00:00
- - tags: None
 
 What's in a swear? The world's filthiest words typically refer to something vulgar or taboo, for one.
 
@@ -332,7 +291,6 @@ What's in a swear? The world's filthiest words typically refer to something vulg
  - [https://www.cnn.com/2022/12/10/asia/jimmy-lai-hong-kong-prison-intl-hnk/index.html](https://www.cnn.com/2022/12/10/asia/jimmy-lai-hong-kong-prison-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 07:35:18+00:00
- - tags: None
 
 A Hong Kong court on Saturday sentenced jailed media mogul Jimmy Lai to five years and nine months in prison for fraud, in the latest legal challenge against the pro-democracy tycoon.
 
@@ -340,7 +298,6 @@ A Hong Kong court on Saturday sentenced jailed media mogul Jimmy Lai to five yea
  - [https://www.cnn.com/2022/12/10/china/china-twitter-teacher-li-profile-intl-hnk/index.html](https://www.cnn.com/2022/12/10/china/china-twitter-teacher-li-profile-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 06:26:41+00:00
- - tags: None
 
 The unprecedented protests that swept China late last month, posing the biggest challenge to leader Xi Jinping's authority since he came to power, had a peculiar focal point: a Chinese Twitter account with a cat avatar.
 
@@ -348,7 +305,6 @@ The unprecedented protests that swept China late last month, posing the biggest 
  - [https://www.cnn.com/2022/12/10/europe/ukraine-energy-russian-missiles-intl-cmd/index.html](https://www.cnn.com/2022/12/10/europe/ukraine-energy-russian-missiles-intl-cmd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 05:20:49+00:00
- - tags: None
 
 What Russia cannot win on the battlefield, it is seeking to win by casting Ukrainian cities into the dark and cold as a long winter sets in.
 
@@ -356,7 +312,6 @@ What Russia cannot win on the battlefield, it is seeking to win by casting Ukrai
  - [https://www.cnn.com/2022/12/09/football/grant-wahl-death-world-cup-qatar-intl-hnk/index.html](https://www.cnn.com/2022/12/09/football/grant-wahl-death-world-cup-qatar-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 03:57:34+00:00
- - tags: None
 
 American journalist Grant Wahl has died in Qatar while covering the World Cup, US Soccer said in a statement.
 
@@ -364,7 +319,6 @@ American journalist Grant Wahl has died in Qatar while covering the World Cup, U
  - [https://www.cnn.com/videos/sports/2022/12/10/grant-wahl-soccer-journalist-death-qatar-sot-vpx.cnn](https://www.cnn.com/videos/sports/2022/12/10/grant-wahl-soccer-journalist-death-qatar-sot-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 03:26:18+00:00
- - tags: None
 
 CNN sports analyst Christine Brennan remembers her friend and colleague Grant Wahl, the respected soccer journalist who unexpectedly died in Qatar while covering the World Cup.
 
@@ -372,7 +326,6 @@ CNN sports analyst Christine Brennan remembers her friend and colleague Grant Wa
  - [https://www.cnn.com/2022/12/09/europe/eva-kaili-european-parliament-greece-expelled-intl-hnk/index.html](https://www.cnn.com/2022/12/09/europe/eva-kaili-european-parliament-greece-expelled-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 01:46:10+00:00
- - tags: None
 
 Eva Kaili, one of the European Parliament's vice presidents, has been expelled by her political party in Greece amid a corruption probe.
 
@@ -380,7 +333,6 @@ Eva Kaili, one of the European Parliament's vice presidents, has been expelled b
  - [https://www.cnn.com/2022/12/09/football/morocco-portugal-france-england-world-cup-spt-intl/index.html](https://www.cnn.com/2022/12/09/football/morocco-portugal-france-england-world-cup-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 00:56:34+00:00
- - tags: None
 
 Morocco already caused the upset of the round of 16 when it beat Spain on penalties to make it to the quarterfinals for the first time in its history, but the North Africans will have to replicate their heroics if they want to get past a reinvigorated Portugal.
 
@@ -388,7 +340,6 @@ Morocco already caused the upset of the round of 16 when it beat Spain on penalt
  - [https://www.cnn.com/2022/12/09/tech/taiwan-tsmc-chips-hnk-intl/index.html](https://www.cnn.com/2022/12/09/tech/taiwan-tsmc-chips-hnk-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 00:27:19+00:00
- - tags: None
 
 
 
@@ -396,7 +347,6 @@ Morocco already caused the upset of the round of 16 when it beat Spain on penalt
  - [https://www.cnn.com/2022/12/09/politics/maxwell-frost-dc-apartment-denied/index.html](https://www.cnn.com/2022/12/09/politics/maxwell-frost-dc-apartment-denied/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 00:24:58+00:00
- - tags: None
 
 The congressman-elect set to become the first member of Generation Z to serve in Congress said Thursday his rental application for an apartment in Washington, DC, was denied because of his "really bad" credit.
 
@@ -404,6 +354,5 @@ The congressman-elect set to become the first member of Generation Z to serve in
  - [https://www.cnn.com/2022/12/09/football/france-england-world-cup-preview-kylian-mbappe-spt-intl/index.html](https://www.cnn.com/2022/12/09/football/france-england-world-cup-preview-kylian-mbappe-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-10 00:04:58+00:00
- - tags: None
 
 Ahead of its World Cup quarterfinal against France, England has a problem to solve. Namely, how to stop the tournament's top scorer, Kylian Mbappé, from adding to his tally.

@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## How to charge your Beats Studio Buds
  - [https://www.androidauthority.com/how-to-charge-beats-studio-buds-3246099/](https://www.androidauthority.com/how-to-charge-beats-studio-buds-3246099/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-06 22:55:01+00:00
- - tags: None
 
 One hour of playback from just five minutes of charging via USB-C.
 
@@ -12,7 +11,6 @@ One hour of playback from just five minutes of charging via USB-C.
  - [https://www.androidauthority.com/turn-on-noise-cancellation-beats-studio-3-3246037/](https://www.androidauthority.com/turn-on-noise-cancellation-beats-studio-3-3246037/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-06 22:05:36+00:00
- - tags: None
 
 Absorb yourself in your music as you see fit.
 
@@ -20,7 +18,6 @@ Absorb yourself in your music as you see fit.
  - [https://www.androidauthority.com/how-to-turn-off-always-on-display-iphone-3246050/](https://www.androidauthority.com/how-to-turn-off-always-on-display-iphone-3246050/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-06 22:04:32+00:00
- - tags: None
 
 Is always-on something you always want?
 
@@ -28,7 +25,6 @@ Is always-on something you always want?
  - [https://www.androidauthority.com/netflix-history-3245864/](https://www.androidauthority.com/netflix-history-3245864/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-06 21:50:11+00:00
- - tags: None
 
 Netflix is effectively the streaming service that started it all. But how did it all begin?
 
@@ -36,7 +32,6 @@ Netflix is effectively the streaming service that started it all. But how did it
  - [https://www.androidauthority.com/amazon-ad-verification-program-3245973/](https://www.androidauthority.com/amazon-ad-verification-program-3245973/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-06 21:17:45+00:00
- - tags: None
 
 The new program is only available to Amazon Shopper Panel members who have been invited.
 
@@ -44,7 +39,6 @@ The new program is only available to Amazon Shopper Panel members who have been 
  - [https://www.androidauthority.com/shows-like-the-chosen-streaming-3244633/](https://www.androidauthority.com/shows-like-the-chosen-streaming-3244633/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-06 18:53:52+00:00
- - tags: None
 
 These shows, ranging from documentaries to pure fiction, cover religion in very different ways.
 
@@ -52,7 +46,6 @@ These shows, ranging from documentaries to pure fiction, cover religion in very 
  - [https://www.androidauthority.com/samsung-galaxy-s20-update-1087091/](https://www.androidauthority.com/samsung-galaxy-s20-update-1087091/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-06 17:09:08+00:00
- - tags: None
 
 Update: Samsung's 2020 flagships have started to get the December security patch.
 
@@ -60,7 +53,6 @@ Update: Samsung's 2020 flagships have started to get the December security patch
  - [https://www.androidauthority.com/samsung-wireless-charging-2-3245852/](https://www.androidauthority.com/samsung-wireless-charging-2-3245852/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-06 16:46:57+00:00
- - tags: None
 
 The FCC application includes a photo and details about the product.
 
@@ -68,7 +60,6 @@ The FCC application includes a photo and details about the product.
  - [https://www.androidauthority.com/best-smartphone-2022-readers-choice-semi-final-3244619/](https://www.androidauthority.com/best-smartphone-2022-readers-choice-semi-final-3244619/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-06 16:00:08+00:00
- - tags: None
 
 Only four phones remain after yesterday's opening elimination round of voting.
 
@@ -76,7 +67,6 @@ Only four phones remain after yesterday's opening elimination round of voting.
  - [https://www.androidauthority.com/rad-power-rad-trike-3244526/](https://www.androidauthority.com/rad-power-rad-trike-3244526/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-06 14:00:45+00:00
- - tags: None
 
 If you've ever complained about a lack of storage or payload weight on e-bikes, the Rad Trike is for you.
 
@@ -84,7 +74,6 @@ If you've ever complained about a lack of storage or payload weight on e-bikes, 
  - [https://www.androidauthority.com/google-pixel-spatial-audio-apps-3245424/](https://www.androidauthority.com/google-pixel-spatial-audio-apps-3245424/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-06 11:27:54+00:00
- - tags: None
 
 Virtual surround sound audio is coming to your Pixel phone, and these apps will support it first.
 
@@ -92,7 +81,6 @@ Virtual surround sound audio is coming to your Pixel phone, and these apps will 
  - [https://www.androidauthority.com/daily-authority-december-6-2022-3244507/](https://www.androidauthority.com/daily-authority-december-6-2022-3244507/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-06 09:54:59+00:00
- - tags: None
 
 Plus OnePlus 11 renders, Nothing's new smartphone, ChatGPT, and NYC rat catchers.
 
@@ -100,7 +88,6 @@ Plus OnePlus 11 renders, Nothing's new smartphone, ChatGPT, and NYC rat catchers
  - [https://www.androidauthority.com/share-files-pc-phone-poll-3244355/](https://www.androidauthority.com/share-files-pc-phone-poll-3244355/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-06 06:20:13+00:00
- - tags: None
 
 Do you still take the wired route or have you gone wireless for transfers?
 
@@ -108,6 +95,5 @@ Do you still take the wired route or have you gone wireless for transfers?
  - [https://www.androidauthority.com/google-pixel-december-2022-security-patch-3244865/](https://www.androidauthority.com/google-pixel-december-2022-security-patch-3244865/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-06 05:20:58+00:00
- - tags: None
 
 It's a long list of fixes across several areas, including device performance, connectivity, camera, and more.

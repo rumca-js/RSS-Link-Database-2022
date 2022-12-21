@@ -1,10 +1,9 @@
-# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/
+# Source Epoch Times Tech, Source URL:https://www.theepochtimes.com/c-tech/feed/, Source language: en-US
 
 ## Musk Admits ‘Quite Significant’ Risk of Assassination
  - [https://www.theepochtimes.com/musk-admits-quite-significant-risk-of-assassination_4904673.html](https://www.theepochtimes.com/musk-admits-quite-significant-risk-of-assassination_4904673.html)
  - RSS feed: https://www.theepochtimes.com/c-tech/feed/
  - date published: 2022-12-05 23:09:55+00:00
- - tags: None
 
 The Twitter logo and a photo of Elon Musk are displayed through a magnifier in this illustration taken on Oct. 27, 2022. (Dado Ruvic/Reuters)
 
@@ -12,7 +11,6 @@ The Twitter logo and a photo of Elon Musk are displayed through a magnifier in t
  - [https://www.theepochtimes.com/industry-group-calls-for-more-us-investment-in-chip-design_4905301.html](https://www.theepochtimes.com/industry-group-calls-for-more-us-investment-in-chip-design_4905301.html)
  - RSS feed: https://www.theepochtimes.com/c-tech/feed/
  - date published: 2022-12-05 21:48:26+00:00
- - tags: None
 
 Memory chips by South Korean semiconductor supplier SK Hynix are seen on a circuit board of a computer, on Feb. 25, 2022. (Reuters/Florence Lo/Illustration/File Photo)
 
@@ -20,7 +18,6 @@ Memory chips by South Korean semiconductor supplier SK Hynix are seen on a circu
  - [https://www.theepochtimes.com/sam-bankman-fried-says-he-will-testify-to-congress-on-ftx-collapse_4904476.html](https://www.theepochtimes.com/sam-bankman-fried-says-he-will-testify-to-congress-on-ftx-collapse_4904476.html)
  - RSS feed: https://www.theepochtimes.com/c-tech/feed/
  - date published: 2022-12-05 13:23:50+00:00
- - tags: None
 
 Samuel Bankman-Fried, then CEO of FTX, testifies on Capitol Hill in Washington, on Feb. 9, 2022. (Saul Loeb/AFP via Getty Images)
 
@@ -28,7 +25,6 @@ Samuel Bankman-Fried, then CEO of FTX, testifies on Capitol Hill in Washington, 
  - [https://www.theepochtimes.com/daily-suspensions-of-twitter-accounts-exploiting-child-sex-abuse-material-nearly-double-after-musk-takeover_4904424.html](https://www.theepochtimes.com/daily-suspensions-of-twitter-accounts-exploiting-child-sex-abuse-material-nearly-double-after-musk-takeover_4904424.html)
  - RSS feed: https://www.theepochtimes.com/c-tech/feed/
  - date published: 2022-12-05 12:31:55+00:00
- - tags: None
 
 Twitter logo and a photo of Elon Musk are displayed through a magnifier in this illustration taken on Oct. 27, 2022. (Dado Ruvic/Reuters)
 
@@ -36,6 +32,5 @@ Twitter logo and a photo of Elon Musk are displayed through a magnifier in this 
  - [https://www.theepochtimes.com/musks-name-and-shame-strategy-works-as-apple-resumes-advertising-on-twitter_4904488.html](https://www.theepochtimes.com/musks-name-and-shame-strategy-works-as-apple-resumes-advertising-on-twitter_4904488.html)
  - RSS feed: https://www.theepochtimes.com/c-tech/feed/
  - date published: 2022-12-05 11:53:51+00:00
- - tags: None
 
 Tesla CEO Elon Musk reacts during the unveiling of the new Tesla Model Y in Hawthorne, Calif., on March 14, 2019. (Frederic J. Brown/AFP via Getty Images)

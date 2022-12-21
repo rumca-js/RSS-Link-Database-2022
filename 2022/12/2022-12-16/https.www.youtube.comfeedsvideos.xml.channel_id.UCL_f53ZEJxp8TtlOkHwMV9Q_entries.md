@@ -1,10 +1,9 @@
-# Source Jordan B Peterson, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
+# Source Jordan B Peterson, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q, Source language: en-US
 
 ## Putin, Hitler, Pharaoh: Do Villains Deserve Punishment?
  - [https://www.youtube.com/watch?v=9y3QTZhsGhI](https://www.youtube.com/watch?v=9y3QTZhsGhI)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
  - date published: 2022-12-16 21:27:58+00:00
- - tags: None
 
 Watch Exodus now, exclusively on DailyWire+: https://bit.ly/3XhWnHw 
 

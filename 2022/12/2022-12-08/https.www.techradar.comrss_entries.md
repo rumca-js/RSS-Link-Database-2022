@@ -1,10 +1,9 @@
-# Source Techradar, Source URL:https://www.techradar.com/rss
+# Source Techradar, Source URL:https://www.techradar.com/rss, Source language: en-US
 
 ## Elon Musk isn't giving you crypto - it's a scam
  - [https://www.techradar.com/news/elon-musk-isnt-giving-you-crypto-its-a-scam](https://www.techradar.com/news/elon-musk-isnt-giving-you-crypto-its-a-scam)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-08 22:30:00+00:00
- - tags: None
 
 The old "give 1 BTC to Elon, get 2 back" scam is back, so beware.
 
@@ -12,7 +11,6 @@ The old "give 1 BTC to Elon, get 2 back" scam is back, so beware.
  - [https://www.techradar.com/news/amazon-echo-show-15-finally-becomes-the-kitchen-tv-it-always-wanted-to-be](https://www.techradar.com/news/amazon-echo-show-15-finally-becomes-the-kitchen-tv-it-always-wanted-to-be)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-08 20:50:10+00:00
- - tags: None
 
 The update adds support for Amazon Fire TV and spatial audio processing for improved audio.
 
@@ -20,7 +18,6 @@ The update adds support for Amazon Fire TV and spatial audio processing for impr
  - [https://www.techradar.com/news/protons-encrypted-cloud-storage-is-going-mobile](https://www.techradar.com/news/protons-encrypted-cloud-storage-is-going-mobile)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-08 20:16:50+00:00
- - tags: None
 
 Proton Drive is now available on iOS and Android devices, with other platform releases planned soon.
 
@@ -28,7 +25,6 @@ Proton Drive is now available on iOS and Android devices, with other platform re
  - [https://www.techradar.com/news/pentagon-awards-dollar9bn-cloud-contract-to-google-oracle-amazon-and-microsoft](https://www.techradar.com/news/pentagon-awards-dollar9bn-cloud-contract-to-google-oracle-amazon-and-microsoft)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-08 18:52:41+00:00
- - tags: None
 
 Often conbative cloud providers will need to collaborate to deliver the Pentagon’s cloud strategy.
 
@@ -36,7 +32,6 @@ Often conbative cloud providers will need to collaborate to deliver the Pentagon
  - [https://www.techradar.com/news/campfire-audio-wants-to-enter-your-orbit-with-its-first-ever-true-wireless-earbuds](https://www.techradar.com/news/campfire-audio-wants-to-enter-your-orbit-with-its-first-ever-true-wireless-earbuds)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-08 17:22:19+00:00
- - tags: None
 
 The aspirational audio brand has finally dipped its toes into the wire-free market, with new Bluetooth 5.2 buds that boast 10mm dynamic drivers.
 
@@ -44,7 +39,6 @@ The aspirational audio brand has finally dipped its toes into the wire-free mark
  - [https://www.techradar.com/news/bioshock-4-isnt-dead-it-just-got-a-key-lead-dev-from-ghost-of-tsushima-and-far-cry-4](https://www.techradar.com/news/bioshock-4-isnt-dead-it-just-got-a-key-lead-dev-from-ghost-of-tsushima-and-far-cry-4)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-08 17:16:25+00:00
- - tags: None
 
 One of the writers behind Far Cry 4 and Ghost of Tsushima just signed on to be narrative lead of Bioshock 4.
 
@@ -52,7 +46,6 @@ One of the writers behind Far Cry 4 and Ghost of Tsushima just signed on to be n
  - [https://www.techradar.com/news/future-macbook-pros-could-ditch-the-keyboard-in-favor-of-a-big-foldable-screen](https://www.techradar.com/news/future-macbook-pros-could-ditch-the-keyboard-in-favor-of-a-big-foldable-screen)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-08 17:04:56+00:00
- - tags: None
 
 The possibility of a foldable MacBook Pro is something we heard about earlier this year.
 
@@ -60,7 +53,6 @@ The possibility of a foldable MacBook Pro is something we heard about earlier th
  - [https://www.techradar.com/news/google-sheets-want-to-use-ai-to-flag-and-fix-your-mistakes](https://www.techradar.com/news/google-sheets-want-to-use-ai-to-flag-and-fix-your-mistakes)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-08 17:03:26+00:00
- - tags: None
 
 Google’s TensorFlow team will let users harness the power of AI to fix annoying spreadsheet mistakes or make predictions.
 
@@ -68,7 +60,6 @@ Google’s TensorFlow team will let users harness the power of AI to fix annoyin
  - [https://www.techradar.com/news/intel-set-to-reveal-pc-roadmap-will-we-hear-about-new-cpus](https://www.techradar.com/news/intel-set-to-reveal-pc-roadmap-will-we-hear-about-new-cpus)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-08 16:12:09+00:00
- - tags: None
 
 Maybe we’ll learn more about Lunar Lake, or even the future processors beyond that…
 
@@ -76,7 +67,6 @@ Maybe we’ll learn more about Lunar Lake, or even the future processors beyond 
  - [https://www.techradar.com/news/praise-the-saints-shadow-and-bone-season-2-finally-has-a-release-date](https://www.techradar.com/news/praise-the-saints-shadow-and-bone-season-2-finally-has-a-release-date)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-08 16:11:27+00:00
- - tags: None
 
 Netflix has officially revealed when Shadow and Bone season 2 will be released.
 
@@ -84,7 +74,6 @@ Netflix has officially revealed when Shadow and Bone season 2 will be released.
  - [https://www.techradar.com/news/microsoft-teams-wants-to-build-an-all-new-workplace-community-for-your-business](https://www.techradar.com/news/microsoft-teams-wants-to-build-an-all-new-workplace-community-for-your-business)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-08 16:10:05+00:00
- - tags: None
 
 Microsoft Teams takes aim at the group chat market with communities designed for managing groups and clubs.
 
@@ -92,7 +81,6 @@ Microsoft Teams takes aim at the group chat market with communities designed for
  - [https://www.techradar.com/news/it-looks-like-sonys-accidentally-leaked-the-street-fighter-6-release-date](https://www.techradar.com/news/it-looks-like-sonys-accidentally-leaked-the-street-fighter-6-release-date)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-08 15:42:43+00:00
- - tags: None
 
 The release date for Street Fighter 6 has been leaked ahead of The Game Awards.
 
@@ -100,7 +88,6 @@ The release date for Street Fighter 6 has been leaked ahead of The Game Awards.
  - [https://www.techradar.com/news/ill-crash-straight-into-the-sun-with-this-meta-quest-2-games-hand-tracked-controls](https://www.techradar.com/news/ill-crash-straight-into-the-sun-with-this-meta-quest-2-games-hand-tracked-controls)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-08 15:37:07+00:00
- - tags: None
 
 The new Stellaris VR spin-off will make use of Hand Tracking 2.0 to put the weight of the solar system in your hands.
 
@@ -108,7 +95,6 @@ The new Stellaris VR spin-off will make use of Hand Tracking 2.0 to put the weig
  - [https://www.techradar.com/news/apple-announces-huge-upgrade-to-your-icloud-data-privacy](https://www.techradar.com/news/apple-announces-huge-upgrade-to-your-icloud-data-privacy)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-08 15:35:25+00:00
- - tags: None
 
 New Apple security tools help protect both public figures and regular consumers against cyberattackers.
 
@@ -116,7 +102,6 @@ New Apple security tools help protect both public figures and regular consumers 
  - [https://www.techradar.com/news/google-says-north-korea-targeted-an-internet-explorer-zero-day-vulnerability](https://www.techradar.com/news/google-says-north-korea-targeted-an-internet-explorer-zero-day-vulnerability)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-08 14:04:48+00:00
- - tags: None
 
 Internet Explorer may have officially been retired, but it's still used by Office, Google researchers found.
 
@@ -124,7 +109,6 @@ Internet Explorer may have officially been retired, but it's still used by Offic
  - [https://www.techradar.com/news/this-report-claims-to-have-found-the-seven-keys-to-a-secure-business](https://www.techradar.com/news/this-report-claims-to-have-found-the-seven-keys-to-a-secure-business)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-08 13:54:58+00:00
- - tags: None
 
 Cisco scores businesses on security resilience and reveals the high achievers’ secrets.
 
@@ -132,7 +116,6 @@ Cisco scores businesses on security resilience and reveals the high achievers’
  - [https://www.techradar.com/news/scammers-are-attacking-each-other-with-some-very-old-school-tools](https://www.techradar.com/news/scammers-are-attacking-each-other-with-some-very-old-school-tools)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-08 13:26:25+00:00
- - tags: None
 
 Scammers target scammers with typosquatting, phishing, and malware, researchers are saying.
 
@@ -140,7 +123,6 @@ Scammers target scammers with typosquatting, phishing, and malware, researchers 
  - [https://www.techradar.com/news/the-witcher-3s-next-gen-update-may-look-better-but-youll-pay-for-it-in-broken-mods](https://www.techradar.com/news/the-witcher-3s-next-gen-update-may-look-better-but-youll-pay-for-it-in-broken-mods)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-08 12:38:02+00:00
- - tags: None
 
 The Witcher 3 Next Gen will look even better thanks to these baked-in community mods, but your others might get broken.
 
@@ -148,7 +130,6 @@ The Witcher 3 Next Gen will look even better thanks to these baked-in community 
  - [https://www.techradar.com/news/sonos-and-ikeas-latest-symfonisk-collab-is-yet-another-lamp-speaker-hybrid](https://www.techradar.com/news/sonos-and-ikeas-latest-symfonisk-collab-is-yet-another-lamp-speaker-hybrid)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-08 12:37:04+00:00
- - tags: None
 
 Sonos and IKEA have created a new speaker-furnishing hybrid: the Symfonisk Floor Lamp speaker.
 
@@ -156,7 +137,6 @@ Sonos and IKEA have created a new speaker-furnishing hybrid: the Symfonisk Floor
  - [https://www.techradar.com/news/ps5-supply-issues-are-resolved-in-asia-but-what-about-the-us-and-the-uk](https://www.techradar.com/news/ps5-supply-issues-are-resolved-in-asia-but-what-about-the-us-and-the-uk)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-08 12:03:30+00:00
- - tags: None
 
 SIE President and CEO Jim Ryan has stated that the company has 'resolved' PS5 supply issues in Japan and Asia.
 
@@ -164,7 +144,6 @@ SIE President and CEO Jim Ryan has stated that the company has 'resolved' PS5 su
  - [https://www.techradar.com/news/look-away-canon-fans-sigma-could-soon-announce-lenses-for-the-nikon-z-mount](https://www.techradar.com/news/look-away-canon-fans-sigma-could-soon-announce-lenses-for-the-nikon-z-mount)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-08 11:50:37+00:00
- - tags: None
 
 Sigma is rumored to be launching new lenses for Nikon's mirrorless cameras soon. Will it force Canon to change its mind?
 
@@ -172,7 +151,6 @@ Sigma is rumored to be launching new lenses for Nikon's mirrorless cameras soon.
  - [https://www.techradar.com/news/web-skimming-hackers-infiltrate-over-40-ecommerce-websites-that-we-know-of](https://www.techradar.com/news/web-skimming-hackers-infiltrate-over-40-ecommerce-websites-that-we-know-of)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-08 11:43:23+00:00
- - tags: None
 
 Web skimming or Magecart is used to access sensitive information from websites through various hacking methods.
 
@@ -180,7 +158,6 @@ Web skimming or Magecart is used to access sensitive information from websites t
  - [https://www.techradar.com/news/apple-really-wants-you-to-use-a-physical-security-key-for-apple-id](https://www.techradar.com/news/apple-really-wants-you-to-use-a-physical-security-key-for-apple-id)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-08 11:29:36+00:00
- - tags: None
 
 Not its own security key, though, but rather a third-party solution.
 
@@ -188,7 +165,6 @@ Not its own security key, though, but rather a third-party solution.
  - [https://www.techradar.com/news/boost-infinite-is-finally-here-and-it-offers-unlimited-data-for-just-dollar25-per-month](https://www.techradar.com/news/boost-infinite-is-finally-here-and-it-offers-unlimited-data-for-just-dollar25-per-month)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-08 10:42:54+00:00
- - tags: None
 
 Boost Infinite will give you unlimited data, minutes and texts for just $25 per month – forever.
 
@@ -196,7 +172,6 @@ Boost Infinite will give you unlimited data, minutes and texts for just $25 per 
  - [https://www.techradar.com/news/ask-these-questions-before-you-make-your-lensa-magic-avatars](https://www.techradar.com/news/ask-these-questions-before-you-make-your-lensa-magic-avatars)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-08 05:00:11+00:00
- - tags: None
 
 Lensa Magic Avatars are all good clean fun, until someone gets hurt. Ask these questions first.
 
@@ -204,6 +179,5 @@ Lensa Magic Avatars are all good clean fun, until someone gets hurt. Ask these q
  - [https://www.techradar.com/news/dysons-air-purifying-anc-headphones-are-really-coming-to-market-next-year](https://www.techradar.com/news/dysons-air-purifying-anc-headphones-are-really-coming-to-market-next-year)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-08 00:01:59+00:00
- - tags: None
 
 Dyson has revealed the specifications of its noise-cancelling headphones with wearable purifier attachment due in 2023.

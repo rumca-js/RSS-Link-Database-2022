@@ -1,10 +1,9 @@
-# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
+# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug, Source language: en-US
 
 ## Former CCP leader Jiang Zemin is dead, who damaged every aspect of China/Which way will Xi go?
  - [https://www.youtube.com/watch?v=4_DevXedm6Y](https://www.youtube.com/watch?v=4_DevXedm6Y)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
  - date published: 2022-12-04 17:45:09+00:00
- - tags: None
 
 #chinainsights 
 A number of mainstream Western media outlets have given Jiang considerable praise, for example crediting him for having guided and paved the way for China's rise.

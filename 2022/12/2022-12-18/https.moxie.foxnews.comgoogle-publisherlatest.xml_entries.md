@@ -1,4 +1,11 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml
+# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
+
+## UFC's Rafa Garcia wins bloody brawl: 'They told me I lost 20% of my blood'
+ - [https://www.foxnews.com/sports/ufcs-rafa-garcia-wins-bloody-brawl-they-told-lost-my-blood](https://www.foxnews.com/sports/ufcs-rafa-garcia-wins-bloody-brawl-they-told-lost-my-blood)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-18 23:52:37+00:00
+
+Rafa Garcia won a bloodbath against Maheshate Hayisaer at UFC Vegas 66, but the extent of his injuries weren't revealed until after his bout.
 
 ## Titans teammates make good use of tip drill on impressive interception vs. Chargers
  - [https://www.foxnews.com/sports/titans-teammates-make-good-use-tip-drill-impressive-interception-vs-chargers](https://www.foxnews.com/sports/titans-teammates-make-good-use-tip-drill-impressive-interception-vs-chargers)

@@ -1,10 +1,9 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## Riffusion’s AI generates music from text using visual sonograms
  - [https://arstechnica.com/?p=1905167](https://arstechnica.com/?p=1905167)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-16 21:50:40+00:00
- - tags: None
 
 Stable Diffusion-powered music generator processes sound in the visual space.
 
@@ -12,7 +11,6 @@ Stable Diffusion-powered music generator processes sound in the visual space.
  - [https://arstechnica.com/?p=1905345](https://arstechnica.com/?p=1905345)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-16 21:06:46+00:00
- - tags: None
 
 Lawsuit: Twitter has refused to make required payments since Musk took over.
 
@@ -20,7 +18,6 @@ Lawsuit: Twitter has refused to make required payments since Musk took over.
  - [https://arstechnica.com/?p=1905293](https://arstechnica.com/?p=1905293)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-16 20:51:42+00:00
- - tags: None
 
 Amazon acquired the rights to potentially create its own cinematic universe.
 
@@ -28,7 +25,6 @@ Amazon acquired the rights to potentially create its own cinematic universe.
  - [https://arstechnica.com/?p=1905326](https://arstechnica.com/?p=1905326)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-16 20:29:02+00:00
- - tags: None
 
 Positioning profusely powerful portable processors not a priority for Valve.
 
@@ -36,7 +32,6 @@ Positioning profusely powerful portable processors not a priority for Valve.
  - [https://arstechnica.com/?p=1905197](https://arstechnica.com/?p=1905197)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-16 19:22:29+00:00
- - tags: None
 
 Overture Maps Foundation wants to end the oppressive rule of the Google Maps API.
 
@@ -44,7 +39,6 @@ Overture Maps Foundation wants to end the oppressive rule of the Google Maps API
  - [https://arstechnica.com/?p=1905146](https://arstechnica.com/?p=1905146)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-16 18:52:05+00:00
- - tags: None
 
 10-inch tablet with detachable keyboard case should be available in early 2023.
 
@@ -52,7 +46,6 @@ Overture Maps Foundation wants to end the oppressive rule of the Google Maps API
  - [https://arstechnica.com/?p=1905198](https://arstechnica.com/?p=1905198)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-16 17:52:31+00:00
- - tags: None
 
 NYT and Washington Post say Twitter provided no explanation for suspensions.
 
@@ -60,7 +53,6 @@ NYT and Washington Post say Twitter provided no explanation for suspensions.
  - [https://arstechnica.com/?p=1905219](https://arstechnica.com/?p=1905219)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-16 17:27:38+00:00
- - tags: None
 
 Letters to gaming companies could be first step toward hearings or gov't action.
 
@@ -68,7 +60,6 @@ Letters to gaming companies could be first step toward hearings or gov't action.
  - [https://arstechnica.com/?p=1905155](https://arstechnica.com/?p=1905155)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-16 16:42:31+00:00
- - tags: None
 
 The biggest concern is the flight computers on board the Soyuz spacecraft.
 
@@ -76,7 +67,6 @@ The biggest concern is the flight computers on board the Soyuz spacecraft.
  - [https://arstechnica.com/?p=1905171](https://arstechnica.com/?p=1905171)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-16 16:23:26+00:00
- - tags: None
 
 Three Cruise AVs have been rear-ended after braking too hard while being followed.
 
@@ -84,7 +74,6 @@ Three Cruise AVs have been rear-ended after braking too hard while being followe
  - [https://arstechnica.com/?p=1904485](https://arstechnica.com/?p=1904485)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-16 16:12:23+00:00
- - tags: None
 
 Interference patterns in a cloud of atoms made in a portable device.
 
@@ -92,7 +81,6 @@ Interference patterns in a cloud of atoms made in a portable device.
  - [https://arstechnica.com/?p=1905148](https://arstechnica.com/?p=1905148)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-16 14:33:30+00:00
- - tags: None
 
 Growing crops to make plastic could cut fossil fuel use, pull carbon out of the atmosphere.
 
@@ -100,7 +88,6 @@ Growing crops to make plastic could cut fossil fuel use, pull carbon out of the 
  - [https://arstechnica.com/?p=1902194](https://arstechnica.com/?p=1902194)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-16 12:00:33+00:00
- - tags: None
 
 High-fashion 2-in-1's inflated price is more for its design than its performance.
 
@@ -108,6 +95,5 @@ High-fashion 2-in-1's inflated price is more for its design than its performance
  - [https://arstechnica.com/?p=1904337](https://arstechnica.com/?p=1904337)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-16 12:00:32+00:00
- - tags: None
 
 No one has yet stepped forth to win the great methane rocket race.

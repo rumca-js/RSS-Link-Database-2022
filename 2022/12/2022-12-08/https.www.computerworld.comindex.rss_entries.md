@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Google Chrome gets memory- and power-saving modes
  - [https://www.computerworld.com/article/3682650/google-chrome-gets-memory-and-power-saving-modes.html#tk.rss_all](https://www.computerworld.com/article/3682650/google-chrome-gets-memory-and-power-saving-modes.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-08 20:59:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -14,7 +13,6 @@
  - [https://www.computerworld.com/article/3682749/kandji-improves-its-device-harmony-platform-for-apple-enterprise.html#tk.rss_all](https://www.computerworld.com/article/3682749/kandji-improves-its-device-harmony-platform-for-apple-enterprise.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-08 18:01:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -25,7 +23,6 @@
  - [https://www.computerworld.com/article/3682750/salesforce-deepens-integration-between-slack-sales-cloud.html#tk.rss_all](https://www.computerworld.com/article/3682750/salesforce-deepens-integration-between-slack-sales-cloud.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-08 17:34:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -35,7 +32,6 @@
  - [https://www.computerworld.com/article/3682143/chatgpt-finally-an-ai-chatbot-worth-talking-to.html#tk.rss_all](https://www.computerworld.com/article/3682143/chatgpt-finally-an-ai-chatbot-worth-talking-to.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-08 11:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -45,7 +41,6 @@
  - [https://www.computerworld.com/article/3682628/atlassian-targets-itsm-with-new-additions-to-jira-service-management.html#tk.rss_all](https://www.computerworld.com/article/3682628/atlassian-targets-itsm-with-new-additions-to-jira-service-management.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-08 07:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

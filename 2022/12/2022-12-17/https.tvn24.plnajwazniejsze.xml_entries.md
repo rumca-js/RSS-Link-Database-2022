@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml
+# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
 
 ## Marciniak poprowadzi finał. Trener Argentyny apeluje
  - [https://eurosport.tvn24.pl/trener-argentyny-zaapelowa--w-sprawie-marciniaka,1129735.html?source=rss](https://eurosport.tvn24.pl/trener-argentyny-zaapelowa--w-sprawie-marciniaka,1129735.html?source=rss)

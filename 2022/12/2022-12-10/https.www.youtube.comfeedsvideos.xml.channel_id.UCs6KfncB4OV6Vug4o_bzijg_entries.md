@@ -1,10 +1,9 @@
-# Source Techlore, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg
+# Source Techlore, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg, Source language: en-US
 
 ## Did Apple Just Fix iCloud's Security?! - Techlore Talks #5
  - [https://www.youtube.com/watch?v=mZuUig3ZnR8](https://www.youtube.com/watch?v=mZuUig3ZnR8)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg
  - date published: 2022-12-10 15:06:23+00:00
- - tags: None
 
 Apple's newest security & privacy changes, like E2EE for more iCloud services is here! But it's not all great news.
 

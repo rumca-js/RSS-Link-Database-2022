@@ -1,4 +1,4 @@
-# Source Money PL, Source URL:https://www.money.pl/rss/
+# Source Money PL, Source URL:https://www.money.pl/rss/, Source language: pl-PL
 
 ## Giganci spożywczy ujawniają swoje dane. To już ok. 30 proc. sprzedaży
  - [https://www.money.pl/gospodarka/giganci-spozywczy-ujawniaja-swoje-dane-to-juz-ok-30-proc-sprzedazy-6845693919288064a.html](https://www.money.pl/gospodarka/giganci-spozywczy-ujawniaja-swoje-dane-to-juz-ok-30-proc-sprzedazy-6845693919288064a.html)

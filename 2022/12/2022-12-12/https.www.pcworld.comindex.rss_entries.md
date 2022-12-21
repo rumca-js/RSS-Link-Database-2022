@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## This slick custom PC looks like a vintage tube amp
  - [https://www.pcworld.com/article/1432787/this-slick-custom-pc-looks-like-a-vintage-tube-amp.html](https://www.pcworld.com/article/1432787/this-slick-custom-pc-looks-like-a-vintage-tube-amp.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-12 16:25:07+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -36,7 +35,6 @@ Desktop PCs</div>
  - [https://www.pcworld.com/article/1432716/sabrents-new-gen-4-ssd-is-perfectly-sized-for-your-steam-deck.html](https://www.pcworld.com/article/1432716/sabrents-new-gen-4-ssd-is-perfectly-sized-for-your-steam-deck.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-12 15:37:26+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -59,7 +57,6 @@ Gaming PCs</div>
  - [https://www.pcworld.com/article/1424869/can-a-15-year-old-am2-cooler-handle-the-ryzen-9-7950x.html](https://www.pcworld.com/article/1424869/can-a-15-year-old-am2-cooler-handle-the-ryzen-9-7950x.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-12 15:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -88,7 +85,6 @@ CPUs and Processors</div>
  - [https://www.pcworld.com/article/1432667/our-favorite-ssd-is-over-50-off-right-now.html](https://www.pcworld.com/article/1432667/our-favorite-ssd-is-over-50-off-right-now.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-12 14:48:46+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -117,7 +113,6 @@ Solid-State Drives</div>
  - [https://www.pcworld.com/article/1431755/amd-radeon-rx-7900-xtx-radeon-rx-7900-xt-review.html](https://www.pcworld.com/article/1431755/amd-radeon-rx-7900-xtx-radeon-rx-7900-xt-review.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-12 14:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -485,7 +480,6 @@ Gaming, GPUs</div>
  - [https://www.pcworld.com/article/1428723/deal-of-the-day-ms-office-pro-2021-for-windows-is-just-35-today-only.html](https://www.pcworld.com/article/1428723/deal-of-the-day-ms-office-pro-2021-for-windows-is-just-35-today-only.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-12 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>

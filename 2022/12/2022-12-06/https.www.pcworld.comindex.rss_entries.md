@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## Google Chrome can finally…search Chrome
  - [https://www.pcworld.com/article/1427403/google-chrome-can-finally-search-chrome.html](https://www.pcworld.com/article/1427403/google-chrome-can-finally-search-chrome.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-06 20:47:50+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -46,7 +45,6 @@ Browsers</div>
  - [https://www.pcworld.com/article/1427190/smuggler-hides-200-intel-cpus-in-a-fake-baby-bump.html](https://www.pcworld.com/article/1427190/smuggler-hides-200-intel-cpus-in-a-fake-baby-bump.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-06 16:52:31+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -79,7 +77,6 @@ CPUs and Processors</div>
  - [https://www.pcworld.com/article/1427125/even-scalpers-dont-want-the-rtx-4080.html](https://www.pcworld.com/article/1427125/even-scalpers-dont-want-the-rtx-4080.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-06 15:52:11+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -110,7 +107,6 @@ GPUs</div>
  - [https://www.pcworld.com/article/1427025/this-logitech-wireless-gaming-mouse-is-fast-lightweight-and-only-35.html](https://www.pcworld.com/article/1427025/this-logitech-wireless-gaming-mouse-is-fast-lightweight-and-only-35.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-06 15:33:09+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -135,7 +131,6 @@ Mice</div>
  - [https://www.pcworld.com/article/1421913/asrock-x670e-taichi-gaming-motherboard-review.html](https://www.pcworld.com/article/1421913/asrock-x670e-taichi-gaming-motherboard-review.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-06 11:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -334,7 +329,6 @@ Desktop PCs, Gaming PCs</div>
  - [https://www.pcworld.com/article/1421866/what-death-can-teach-you-about-digital-memories.html](https://www.pcworld.com/article/1421866/what-death-can-teach-you-about-digital-memories.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-06 11:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -417,7 +411,6 @@ Cloud Storage, Smartphones</div>
  - [https://www.pcworld.com/article/1426371/intel-next-gen-meteor-lake-chip-tech-is-ready-now.html](https://www.pcworld.com/article/1426371/intel-next-gen-meteor-lake-chip-tech-is-ready-now.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-06 10:45:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -463,7 +456,6 @@ CPUs and Processors</div>
  - [https://www.pcworld.com/article/1418000/make-your-own-movies-with-half-off-this-beginner-friendly-video-editor.html](https://www.pcworld.com/article/1418000/make-your-own-movies-with-half-off-this-beginner-friendly-video-editor.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-06 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>

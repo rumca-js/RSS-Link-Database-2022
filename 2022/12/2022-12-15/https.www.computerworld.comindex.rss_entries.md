@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Microsoft calls time out on Apple Watch Authenticator
  - [https://www.computerworld.com/article/3683471/microsoft-calls-time-out-on-apple-watch-authenticator.html#tk.rss_all](https://www.computerworld.com/article/3683471/microsoft-calls-time-out-on-apple-watch-authenticator.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-15 16:40:00+00:00
- - Starred: False
 
 <article>
 	<section class="page">
@@ -15,7 +14,6 @@
  - [https://www.computerworld.com/article/3683470/zohos-new-customer-service-tool-combines-bots-human-intervention.html#tk.rss_all](https://www.computerworld.com/article/3683470/zohos-new-customer-service-tool-combines-bots-human-intervention.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-15 13:59:00+00:00
- - Starred: False
 
 <article>
 	<section class="page">
@@ -25,7 +23,6 @@
  - [https://www.computerworld.com/article/3683291/microsofts-eu-data-boundary-plan-to-take-effect-jan-1.html#tk.rss_all](https://www.computerworld.com/article/3683291/microsofts-eu-data-boundary-plan-to-take-effect-jan-1.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-15 11:39:00+00:00
- - Starred: False
 
 <article>
 	<section class="page">
@@ -35,7 +32,6 @@
  - [https://www.computerworld.com/article/3683209/gpt-high-tech-parlor-trick-or-first-real-ai-for-everyday-use.html#tk.rss_all](https://www.computerworld.com/article/3683209/gpt-high-tech-parlor-trick-or-first-real-ai-for-everyday-use.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-15 11:00:00+00:00
- - Starred: False
 
 <article>
 	<section class="page">

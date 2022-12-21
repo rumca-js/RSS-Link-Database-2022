@@ -1,4 +1,4 @@
-# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/
+# Source Epoch times world, Source URL:https://www.theepochtimes.com/c-world/feed/, Source language: en-US
 
 ## Insights Shed Light on Australia’s Rate Hike Picture
  - [https://www.theepochtimes.com/insights-shed-light-on-australias-rate-hike-picture_4930794.html](https://www.theepochtimes.com/insights-shed-light-on-australias-rate-hike-picture_4930794.html)

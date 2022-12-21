@@ -1,10 +1,9 @@
-# Source Aljazeera, Source URL:http://www.aljazeera.com/xml/rss/all.xml
+# Source Aljazeera, Source URL:http://www.aljazeera.com/xml/rss/all.xml, Source language: en-US
 
 ## American Black feminist, activist Dorothy Pitman Hughes dies, 84
  - [https://www.aljazeera.com/news/2022/12/11/america-black-feminist-activist-dorothy-pitman-hughes-dies-84](https://www.aljazeera.com/news/2022/12/11/america-black-feminist-activist-dorothy-pitman-hughes-dies-84)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-11 21:20:06+00:00
- - tags: None
 
 Hughes was a powerful American voice when feminism was seen as predominantly white and middle class
 
@@ -12,7 +11,6 @@ Hughes was a powerful American voice when feminism was seen as predominantly whi
  - [https://www.aljazeera.com/program/inside-story/2022/12/11/whats-behind-anti-government-protests-in-bangladesh](https://www.aljazeera.com/program/inside-story/2022/12/11/whats-behind-anti-government-protests-in-bangladesh)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-11 19:36:42+00:00
- - tags: None
 
 Opposition supporters demand the prime minister&#039;s resignation and a caretaker government ahead of elections in 2023.
 
@@ -20,7 +18,6 @@ Opposition supporters demand the prime minister&#039;s resignation and a caretak
  - [https://www.aljazeera.com/news/2022/12/11/isis-rebels-killed-in-syria-us-raid-centcom](https://www.aljazeera.com/news/2022/12/11/isis-rebels-killed-in-syria-us-raid-centcom)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-11 19:34:44+00:00
- - tags: None
 
 US Central Command announces the killing less than two weeks after ISIL announced its leader was killed in battle.
 
@@ -28,7 +25,6 @@ US Central Command announces the killing less than two weeks after ISIL announce
  - [https://www.aljazeera.com/news/2022/12/11/the-ten-talking-points-of-the-world-cup-so-far](https://www.aljazeera.com/news/2022/12/11/the-ten-talking-points-of-the-world-cup-so-far)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-11 18:11:45+00:00
- - tags: None
 
 From injury time to Morocco&#039;s brilliance to Ronaldo&#039;s benching, here are the biggest stories from the tournament.
 
@@ -36,7 +32,6 @@ From injury time to Morocco&#039;s brilliance to Ronaldo&#039;s benching, here a
  - [https://www.aljazeera.com/news/2022/12/11/saudi-minister-says-all-bets-off-if-iran-gets-nuclear-weapon](https://www.aljazeera.com/news/2022/12/11/saudi-minister-says-all-bets-off-if-iran-gets-nuclear-weapon)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-11 17:49:49+00:00
- - tags: None
 
 Prince Faisal bin Farhan Al Saud said Saudi Arabia supports efforts to revive Iran&#039;s nuclear deal as &#039;a starting point&#039;.
 
@@ -44,7 +39,6 @@ Prince Faisal bin Farhan Al Saud said Saudi Arabia supports efforts to revive Ir
  - [https://www.aljazeera.com/news/2022/12/11/japans-ispace-launches-historic-first-commercial-moon-lander](https://www.aljazeera.com/news/2022/12/11/japans-ispace-launches-historic-first-commercial-moon-lander)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-11 17:40:46+00:00
- - tags: None
 
 Privately-funded explorer carried by SpaceX rocket aims to touch down on the Atlas Crater in April.
 
@@ -52,7 +46,6 @@ Privately-funded explorer carried by SpaceX rocket aims to touch down on the Atl
  - [https://www.aljazeera.com/program/the-stream/2022/12/11/how-did-faith-guide-people-in-2022](https://www.aljazeera.com/program/the-stream/2022/12/11/how-did-faith-guide-people-in-2022)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-11 17:40:25+00:00
- - tags: None
 
 The Stream is joined by an interfaith panel to reflect on the year.
 
@@ -60,7 +53,6 @@ The Stream is joined by an interfaith panel to reflect on the year.
  - [https://www.aljazeera.com/news/2022/12/11/libyan-man-suspected-of-making-lockerbie-bomb-in-us-custody](https://www.aljazeera.com/news/2022/12/11/libyan-man-suspected-of-making-lockerbie-bomb-in-us-custody)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-11 17:27:15+00:00
- - tags: None
 
 Man accused of making the bomb that killed 270 people after it blew up Pan Am Flight 103 in 1988 taken into US custody.
 
@@ -68,7 +60,6 @@ Man accused of making the bomb that killed 270 people after it blew up Pan Am Fl
  - [https://www.aljazeera.com/news/2022/12/11/unprovoked-firing-from-afghan-forces-kill-civilians-pakistan-chaman](https://www.aljazeera.com/news/2022/12/11/unprovoked-firing-from-afghan-forces-kill-civilians-pakistan-chaman)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-11 16:23:08+00:00
- - tags: None
 
 The Pakistan army accuses Afghan forces of killing six civilians in &#039;indiscriminate&#039; firing at the Chaman border.
 
@@ -76,7 +67,6 @@ The Pakistan army accuses Afghan forces of killing six civilians in &#039;indisc
  - [https://www.aljazeera.com/opinions/2022/12/11/a-family-takes-a-stand-for-integrity](https://www.aljazeera.com/opinions/2022/12/11/a-family-takes-a-stand-for-integrity)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-11 15:21:03+00:00
- - tags: None
 
 The Sicknick family snubbed those who failed to hold Trump accountable for the January 6 riot. They did the right thing.
 
@@ -84,7 +74,6 @@ The Sicknick family snubbed those who failed to hold Trump accountable for the J
  - [https://www.aljazeera.com/news/2022/12/11/erdogan-putin-discuss-syria-border-corridor-gas-hub-by-phone](https://www.aljazeera.com/news/2022/12/11/erdogan-putin-discuss-syria-border-corridor-gas-hub-by-phone)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-11 15:17:41+00:00
- - tags: None
 
 Turkish president reiterated necessity for buffer zone in accordance with 2019 agreement with Russia, his office says.
 
@@ -92,7 +81,6 @@ Turkish president reiterated necessity for buffer zone in accordance with 2019 a
  - [https://www.aljazeera.com/program/generation-change/2022/12/11/uk-what-is-legitimate-protest](https://www.aljazeera.com/program/generation-change/2022/12/11/uk-what-is-legitimate-protest)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-11 13:50:46+00:00
- - tags: None
 
 A climate organiser and an anti-arms activist discuss different tactics for change.
 
@@ -100,7 +88,6 @@ A climate organiser and an anti-arms activist discuss different tactics for chan
  - [https://www.aljazeera.com/features/2022/12/11/the-indian-soldier-who-vanished-on-a-glacier-38-years-ago](https://www.aljazeera.com/features/2022/12/11/the-indian-soldier-who-vanished-on-a-glacier-38-years-ago)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-11 13:16:46+00:00
- - tags: None
 
 The widow of a soldier whose body was found on Siachen Glacier this summer always hoped he would ‘come home someday’.
 
@@ -108,7 +95,6 @@ The widow of a soldier whose body was found on Siachen Glacier this summer alway
  - [https://www.aljazeera.com/news/2022/12/11/china-government-health-adviser-warns-of-surging-covid-cases](https://www.aljazeera.com/news/2022/12/11/china-government-health-adviser-warns-of-surging-covid-cases)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-11 13:13:23+00:00
- - tags: None
 
 Fears of a spike in infections after Beijing eased its &#039;zero-COVID&#039; restrictions following rare nationwide protests.
 
@@ -116,7 +102,6 @@ Fears of a spike in infections after Beijing eased its &#039;zero-COVID&#039; re
  - [https://www.aljazeera.com/news/2022/12/11/bounous-world-cup-showings-will-turn-heads-across-europe](https://www.aljazeera.com/news/2022/12/11/bounous-world-cup-showings-will-turn-heads-across-europe)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-11 13:00:05+00:00
- - tags: None
 
 The Moroccan goalkeeper has already created history, helping his nation reach the World Cup semifinals.
 
@@ -124,7 +109,6 @@ The Moroccan goalkeeper has already created history, helping his nation reach th
  - [https://www.aljazeera.com/news/2022/12/11/tensions-soar-after-attacks-on-police-in-north-kosovo](https://www.aljazeera.com/news/2022/12/11/tensions-soar-after-attacks-on-police-in-north-kosovo)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-11 12:45:07+00:00
- - tags: None
 
 Animosity remains high with Serbia and Kosovo officials intensifying their exchange of words.
 
@@ -132,7 +116,6 @@ Animosity remains high with Serbia and Kosovo officials intensifying their excha
  - [https://www.aljazeera.com/gallery/2022/12/11/a-month-since-russian-retreat-life-in-kherson-far-from-normal](https://www.aljazeera.com/gallery/2022/12/11/a-month-since-russian-retreat-life-in-kherson-far-from-normal)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-11 12:43:24+00:00
- - tags: None
 
 As artillery keeps battering the recently retaken Ukrainian city, officials try to clear mines left behind by Russians.
 
@@ -140,7 +123,6 @@ As artillery keeps battering the recently retaken Ukrainian city, officials try 
  - [https://www.aljazeera.com/news/2022/12/11/kosovo-postpones-local-election-in-ethnic-serb-dominated-north](https://www.aljazeera.com/news/2022/12/11/kosovo-postpones-local-election-in-ethnic-serb-dominated-north)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-11 10:49:57+00:00
- - tags: None
 
 The election was due as ethnic Serb representatives resigned to protest a ban on Serbia-issued vehicle licence plates.
 
@@ -148,7 +130,6 @@ The election was due as ethnic Serb representatives resigned to protest a ban on
  - [https://www.aljazeera.com/news/2022/12/11/more-than-500-migrants-arrive-in-italy-as-rescue-ships-dock](https://www.aljazeera.com/news/2022/12/11/more-than-500-migrants-arrive-in-italy-as-rescue-ships-dock)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-11 10:36:06+00:00
- - tags: None
 
 Italian government sources say decision to allow ships to dock was based on poor weather and risks to those on board.
 
@@ -156,7 +137,6 @@ Italian government sources say decision to allow ships to dock was based on poor
  - [https://www.aljazeera.com/news/2022/12/11/southgate-will-take-time-to-reflect-on-decision-about-future](https://www.aljazeera.com/news/2022/12/11/southgate-will-take-time-to-reflect-on-decision-about-future)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-11 10:32:09+00:00
- - tags: None
 
 Southgate has been England&#039;s most successful coach in decade, but his side crashed out to France on Saturday.
 
@@ -164,7 +144,6 @@ Southgate has been England&#039;s most successful coach in decade, but his side 
  - [https://www.aljazeera.com/news/2022/12/11/iran-summons-china-envoy-over-disputed-islands-with](https://www.aljazeera.com/news/2022/12/11/iran-summons-china-envoy-over-disputed-islands-with)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-11 10:22:43+00:00
- - tags: None
 
 Chinese envoy &#039;had a visit&#039; as Tehran expressed &#039;strong dissatisfaction&#039; over China&#039;s joint statement with GCC nations.
 
@@ -172,7 +151,6 @@ Chinese envoy &#039;had a visit&#039; as Tehran expressed &#039;strong dissatisf
  - [https://www.aljazeera.com/news/2022/12/11/russia-embassy-says-us-denied-visit-to-soviet-graves-in-alaska](https://www.aljazeera.com/news/2022/12/11/russia-embassy-says-us-denied-visit-to-soviet-graves-in-alaska)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-11 09:24:45+00:00
- - tags: None
 
 A group of Russian diplomats prevented from visiting graves of Soviet soldiers who died in WWII, state media report.
 
@@ -180,7 +158,6 @@ A group of Russian diplomats prevented from visiting graves of Soviet soldiers w
  - [https://www.aljazeera.com/news/2022/12/11/russia-ukraine-war-list-of-key-events-day-291](https://www.aljazeera.com/news/2022/12/11/russia-ukraine-war-list-of-key-events-day-291)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-11 08:59:27+00:00
- - tags: None
 
 As the Russia-Ukraine war enters its 291st day, we take a look at the main developments.
 
@@ -188,7 +165,6 @@ As the Russia-Ukraine war enters its 291st day, we take a look at the main devel
  - [https://www.aljazeera.com/news/2022/12/11/neymar-psychologically-destroyed-by-word-cup-exit](https://www.aljazeera.com/news/2022/12/11/neymar-psychologically-destroyed-by-word-cup-exit)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-11 06:54:22+00:00
- - tags: None
 
 &#039;I am psychologically destroyed,&#039; the Brazilian forward wrote on his Instagram account, which has received 18.8m likes.
 
@@ -196,7 +172,6 @@ As the Russia-Ukraine war enters its 291st day, we take a look at the main devel
  - [https://www.aljazeera.com/news/2022/12/11/nasas-orion-due-to-splash-down-after-historic-moon-mission](https://www.aljazeera.com/news/2022/12/11/nasas-orion-due-to-splash-down-after-historic-moon-mission)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-11 06:09:47+00:00
- - tags: None
 
 Orion&#039;s test flight included a lunar flyby and a journey further into space than any previous habitable spacecraft.
 
@@ -204,7 +179,6 @@ Orion&#039;s test flight included a lunar flyby and a journey further into space
  - [https://www.aljazeera.com/news/2022/12/11/german-man-freed-more-than-four-years-after-kidnapping-in-niger](https://www.aljazeera.com/news/2022/12/11/german-man-freed-more-than-four-years-after-kidnapping-in-niger)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-11 05:12:33+00:00
- - tags: None
 
 Armed men on motorcycles abducted Jorg Lange, a 63-year-old aid worker and engineer, from the town of Inates in 2018.
 
@@ -212,7 +186,6 @@ Armed men on motorcycles abducted Jorg Lange, a 63-year-old aid worker and engin
  - [https://www.aljazeera.com/news/2022/12/11/the-end-for-ronaldo](https://www.aljazeera.com/news/2022/12/11/the-end-for-ronaldo)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-11 05:09:50+00:00
- - tags: None
 
 Morocco’s stunning upset of Portugal will likely be the 37-year-old captain&#039;s final World Cup match.
 
@@ -220,7 +193,6 @@ Morocco’s stunning upset of Portugal will likely be the 37-year-old captain&#0
  - [https://www.aljazeera.com/news/2022/12/11/at-kenyas-maasai-olympics-warriors-swap-lion-hunts-for-sports](https://www.aljazeera.com/news/2022/12/11/at-kenyas-maasai-olympics-warriors-swap-lion-hunts-for-sports)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-11 03:53:10+00:00
- - tags: None
 
 The number of lions in Kenya has plummeted from about 30,000 in the 1970s to little more than 2,000 today.
 
@@ -228,7 +200,6 @@ The number of lions in Kenya has plummeted from about 30,000 in the 1970s to lit
  - [https://www.aljazeera.com/news/2022/12/11/zelenskyy-says-russia-has-reduced-bakhmut-city-to-a-burnt-ruin](https://www.aljazeera.com/news/2022/12/11/zelenskyy-says-russia-has-reduced-bakhmut-city-to-a-burnt-ruin)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-11 03:36:41+00:00
- - tags: None
 
 Ukrainian military’s General Staff reported some 20 air raids, more than 60 rocket attacks between Friday and Saturday.
 
@@ -236,7 +207,6 @@ Ukrainian military’s General Staff reported some 20 air raids, more than 60 ro
  - [https://www.aljazeera.com/news/2022/12/11/bangladesh-opposition-protests-amid-harsh-government-crackdowns](https://www.aljazeera.com/news/2022/12/11/bangladesh-opposition-protests-amid-harsh-government-crackdowns)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-11 03:20:53+00:00
- - tags: None
 
 Opposition party mobilises tens of thousands of supporters in Dhaka to protest price rise and demand PM&#039;s resignation.
 
@@ -244,6 +214,5 @@ Opposition party mobilises tens of thousands of supporters in Dhaka to protest p
  - [https://www.aljazeera.com/news/2022/12/11/serbias-vucic-seeks-nato-approval-to-send-forces-to-north-kosovo](https://www.aljazeera.com/news/2022/12/11/serbias-vucic-seeks-nato-approval-to-send-forces-to-north-kosovo)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-11 01:30:01+00:00
- - tags: None
 
 Serbian president said he was under &#039;no illusion&#039; that NATO would agree to his request amid tension in northern Kosovo.

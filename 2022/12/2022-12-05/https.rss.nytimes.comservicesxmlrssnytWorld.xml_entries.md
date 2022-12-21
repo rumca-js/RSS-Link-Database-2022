@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## In Liberated Ukrainian City of Kherson, Ecstasy Gives Way to Despair
  - [https://www.nytimes.com/2022/12/05/world/europe/ukraine-kherson-russia.html](https://www.nytimes.com/2022/12/05/world/europe/ukraine-kherson-russia.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-05 21:41:00+00:00
- - tags: None
 
 Kherson has been whipsawed by occupation, liberation and now dread. It’s a lonely place. And cold.
 
@@ -12,7 +11,6 @@ Kherson has been whipsawed by occupation, liberation and now dread. It’s a lon
  - [https://www.nytimes.com/2022/12/05/world/middleeast/iran-morality-police.html](https://www.nytimes.com/2022/12/05/world/middleeast/iran-morality-police.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-05 20:59:05+00:00
- - tags: None
 
 A top official suggested over the weekend that the unit, responsible for enforcing the country’s strict dress code, had been shut down, though there has not been any government confirmation.
 
@@ -20,7 +18,6 @@ A top official suggested over the weekend that the unit, responsible for enforci
  - [https://www.nytimes.com/2022/12/05/world/americas/peru-pedro-castillo-impeachment.html](https://www.nytimes.com/2022/12/05/world/americas/peru-pedro-castillo-impeachment.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-05 20:51:16+00:00
- - tags: None
 
 The president of Peru, Pedro Castillo, faces a third impeachment attempt in Congress, the latest crisis for the leader who rose to power promising to address the country’s chronic inequality.
 
@@ -28,7 +25,6 @@ The president of Peru, Pedro Castillo, faces a third impeachment attempt in Cong
  - [https://www.nytimes.com/2022/12/05/world/europe/russia-ban-lgbtq-propaganda.html](https://www.nytimes.com/2022/12/05/world/europe/russia-ban-lgbtq-propaganda.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-05 20:36:12+00:00
- - tags: None
 
 The law makes it illegal to spread “propaganda” about “nontraditional sexual relations” in all media, including social, advertising and movies.
 
@@ -36,7 +32,6 @@ The law makes it illegal to spread “propaganda” about “nontraditional sexu
  - [https://www.nytimes.com/2022/12/05/us/politics/cruise-missiles-russia-ukraine-sanctions.html](https://www.nytimes.com/2022/12/05/us/politics/cruise-missiles-russia-ukraine-sanctions.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-05 19:02:49+00:00
- - tags: None
 
 Weapons investigators in Kyiv found that at least one Russian Kh-101 cruise missile used in widespread attacks there on Nov. 23 had been made no earlier than October.
 
@@ -44,7 +39,6 @@ Weapons investigators in Kyiv found that at least one Russian Kh-101 cruise miss
  - [https://www.nytimes.com/2022/12/05/world/europe/putin-crimea-bridge.html](https://www.nytimes.com/2022/12/05/world/europe/putin-crimea-bridge.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-05 18:40:28+00:00
- - tags: None
 
 
 
@@ -52,7 +46,6 @@ Weapons investigators in Kyiv found that at least one Russian Kh-101 cruise miss
  - [https://www.nytimes.com/2022/12/05/world/africa/south-africa-ramaphosa-anc.html](https://www.nytimes.com/2022/12/05/world/africa/south-africa-ramaphosa-anc.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-05 17:45:38+00:00
- - tags: None
 
 Executives of the governing party, the African National Congress, said on Monday they would instruct their legislators to reject a report suggesting Cyril Ramaphosa might have broken the law.
 
@@ -60,7 +53,6 @@ Executives of the governing party, the African National Congress, said on Monday
  - [https://www.nytimes.com/2022/12/05/world/europe/russia-oil-price-cap-embargo.html](https://www.nytimes.com/2022/12/05/world/europe/russia-oil-price-cap-embargo.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-05 15:46:32+00:00
- - tags: None
 
 An immediate impact on oil supplies in Europe was not expected, partly because the embargo has been in the works for months.
 
@@ -68,7 +60,6 @@ An immediate impact on oil supplies in Europe was not expected, partly because t
  - [https://www.nytimes.com/2022/12/05/world/europe/iran-morality-police.html](https://www.nytimes.com/2022/12/05/world/europe/iran-morality-police.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-05 15:33:27+00:00
- - tags: None
 
 A top official suggested over the weekend that the unit, responsible for enforcing the Islamic Republic’s strict dress codes, had been shut down, though there has not been any government confirmation.
 
@@ -76,7 +67,6 @@ A top official suggested over the weekend that the unit, responsible for enforci
  - [https://www.nytimes.com/2022/12/05/world/africa/sudan-military-democracy-coalition-deal.html](https://www.nytimes.com/2022/12/05/world/africa/sudan-military-democracy-coalition-deal.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-05 13:44:49+00:00
- - tags: None
 
 The agreement, which was boycotted by some political forces, comes more than a year after a coup that scuttled the country’s transition to democratic rule.
 
@@ -84,7 +74,6 @@ The agreement, which was boycotted by some political forces, comes more than a y
  - [https://www.nytimes.com/2022/12/05/world/asia/china-covid-protests.html](https://www.nytimes.com/2022/12/05/world/asia/china-covid-protests.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-05 13:32:35+00:00
- - tags: None
 
 Students, residents, lawyers and workers are still challenging the country’s Covid-19 restrictions, even though the intensity of the political chants has been dialed back.
 
@@ -92,7 +81,6 @@ Students, residents, lawyers and workers are still challenging the country’s C
  - [https://www.nytimes.com/live/2022/12/05/world/russia-ukraine-war-news](https://www.nytimes.com/live/2022/12/05/world/russia-ukraine-war-news)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-05 12:59:50+00:00
- - tags: None
 
 The cause of the explosions was unclear. Some Russian news outlets report that one blast struck an air base that Ukraine says has been used as a staging ground for bombers attacking its energy grid.
 
@@ -100,7 +88,6 @@ The cause of the explosions was unclear. Some Russian news outlets report that o
  - [https://www.nytimes.com/2022/12/05/briefing/iowa-primary.html](https://www.nytimes.com/2022/12/05/briefing/iowa-primary.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-05 11:49:42+00:00
- - tags: None
 
 Democrats stripped Iowa of its first-in-the-nation status.
 
@@ -108,7 +95,6 @@ Democrats stripped Iowa of its first-in-the-nation status.
  - [https://www.nytimes.com/2022/12/05/world/europe/brussels-terror-attack-trial.html](https://www.nytimes.com/2022/12/05/world/europe/brussels-terror-attack-trial.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-05 11:22:08+00:00
- - tags: None
 
 The proceedings against 10 men linked to the 2016 bombings at an airport and a subway station are the largest ever organized in Belgium and are expected to last up to eight months.
 
@@ -116,7 +102,6 @@ The proceedings against 10 men linked to the 2016 bombings at an airport and a s
  - [https://www.nytimes.com/2022/12/05/world/australia/bougainville-rio-tinto-mine.html](https://www.nytimes.com/2022/12/05/world/australia/bougainville-rio-tinto-mine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-05 10:50:35+00:00
- - tags: None
 
 Residents of the Papua New Guinea have accused the mining company Rio Tinto of violating their human rights by despoiling the land where they live.
 
@@ -124,7 +109,6 @@ Residents of the Papua New Guinea have accused the mining company Rio Tinto of v
  - [https://www.nytimes.com/2022/12/05/world/europe/he-returned-a-dazed-soldier-to-the-russians-ukraine-calls-it-treason.html](https://www.nytimes.com/2022/12/05/world/europe/he-returned-a-dazed-soldier-to-the-russians-ukraine-calls-it-treason.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-05 10:40:06+00:00
- - tags: None
 
 
 
@@ -132,7 +116,6 @@ Residents of the Papua New Guinea have accused the mining company Rio Tinto of v
  - [https://www.nytimes.com/2022/12/05/world/asia/photos-indonesia-volcano-eruption.html](https://www.nytimes.com/2022/12/05/world/asia/photos-indonesia-volcano-eruption.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-05 10:10:04+00:00
- - tags: None
 
 When the volcano erupted late last year, more than 50 people were killed, and hundreds more were injured.
 
@@ -140,7 +123,6 @@ When the volcano erupted late last year, more than 50 people were killed, and hu
  - [https://www.nytimes.com/2022/12/05/world/asia/china-protests-students-abroad.html](https://www.nytimes.com/2022/12/05/world/asia/china-protests-students-abroad.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-05 10:00:26+00:00
- - tags: None
 
 People opposing Beijing over issues like Hong Kong, Taiwan or the persecution of Uyghurs see the moment as an opportunity to find common cause.
 
@@ -148,7 +130,6 @@ People opposing Beijing over issues like Hong Kong, Taiwan or the persecution of
  - [https://www.nytimes.com/2022/12/05/world/europe/turkey-inflation-erdogan.html](https://www.nytimes.com/2022/12/05/world/europe/turkey-inflation-erdogan.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-05 09:09:35+00:00
- - tags: None
 
 Annual inflation is around its highest level in decades, devaluing salaries and devouring savings less than a year before President Recep Tayyip Erdogan runs for re-election.
 
@@ -156,7 +137,6 @@ Annual inflation is around its highest level in decades, devaluing salaries and 
  - [https://www.nytimes.com/2022/12/05/world/middleeast/skyrocketing-prices-in-turkey-hurt-families-and-tarnish-erdogan.html](https://www.nytimes.com/2022/12/05/world/middleeast/skyrocketing-prices-in-turkey-hurt-families-and-tarnish-erdogan.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-05 08:00:12+00:00
- - tags: None
 
 Annual inflation is at its highest level in decades, devaluing salaries and devouring savings less than a year before President Recep Tayyip Erdogan runs for re-election.
 
@@ -164,7 +144,6 @@ Annual inflation is at its highest level in decades, devaluing salaries and devo
  - [https://www.nytimes.com/2022/12/05/world/australia/new-zealand-baby-vaccine.html](https://www.nytimes.com/2022/12/05/world/australia/new-zealand-baby-vaccine.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-05 07:52:39+00:00
- - tags: None
 
 New Zealand’s health service is seeking to take temporary custody of a critically ill infant so it can perform a lifesaving operation.
 
@@ -172,6 +151,5 @@ New Zealand’s health service is seeking to take temporary custody of a critica
  - [https://www.nytimes.com/2022/12/05/world/europe/ukraine-war-sanctions-russia-economy.html](https://www.nytimes.com/2022/12/05/world/europe/ukraine-war-sanctions-russia-economy.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-05 05:01:12+00:00
- - tags: None
 
 While Russia’s economy has not collapsed, an exodus of Western companies is eroding hard-won progress, and experts say the worst may be yet to come.

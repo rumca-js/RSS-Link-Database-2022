@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Apple sets a security challenge for 2023
  - [https://www.computerworld.com/article/3682889/apple-sets-a-security-challenge-for-2023.html#tk.rss_all](https://www.computerworld.com/article/3682889/apple-sets-a-security-challenge-for-2023.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-09 17:18:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -15,7 +14,6 @@
  - [https://www.computerworld.com/article/3682652/maybe-you-need-a-workstation-instead-of-a-pc.html#tk.rss_all](https://www.computerworld.com/article/3682652/maybe-you-need-a-workstation-instead-of-a-pc.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-09 17:06:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -26,7 +24,6 @@
  - [https://www.computerworld.com/article/3682752/airtable-becomes-latest-company-to-announce-layoffs-cutting-20-of-its-workforce.html#tk.rss_all](https://www.computerworld.com/article/3682752/airtable-becomes-latest-company-to-announce-layoffs-cutting-20-of-its-workforce.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-09 13:29:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -36,7 +33,6 @@
  - [https://www.computerworld.com/article/3681999/android-shortcut-secret.html#tk.rss_all](https://www.computerworld.com/article/3681999/android-shortcut-secret.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-09 10:45:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

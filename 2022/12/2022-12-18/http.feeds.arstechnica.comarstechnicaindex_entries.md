@@ -1,4 +1,4 @@
-# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/
+# Source ArsTechnica, Source URL:http://feeds.arstechnica.com/arstechnica/index/, Source language: en-US
 
 ## A new name and improved efficiency—we drive the 2023 Audi Q8 e-tron
  - [https://arstechnica.com/?p=1905194](https://arstechnica.com/?p=1905194)

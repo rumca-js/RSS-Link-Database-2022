@@ -1,4 +1,4 @@
-# Source Newsweek, Source URL:https://www.newsweek.com/rss
+# Source Newsweek, Source URL:https://www.newsweek.com/rss, Source language: en-US
 
 ## Donald Trump Jr. Complains That Left Boosts Right-Wing 'Lunatics'
  - [https://www.newsweek.com/donald-trump-jr-complains-that-left-boosts-right-wing-lunatics-1768008](https://www.newsweek.com/donald-trump-jr-complains-that-left-boosts-right-wing-lunatics-1768008)

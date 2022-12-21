@@ -1,4 +1,4 @@
-# Source Reddit - Politics, Source URL:http://www.reddit.com/r/politics/.rss
+# Source Reddit - Politics, Source URL:http://www.reddit.com/r/politics/.rss, Source language: en-US
 
 ## GOP Rep. Dan Crenshaw says it's 'crazy' that Republicans put forward 'two 25-year-olds to be our nominees' in the midterms: 'We lost races we easily should have won'
  - [https://www.reddit.com/r/politics/comments/zok4mk/gop_rep_dan_crenshaw_says_its_crazy_that/](https://www.reddit.com/r/politics/comments/zok4mk/gop_rep_dan_crenshaw_says_its_crazy_that/)

@@ -1,10 +1,9 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml
+# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
 
 ## Putin's Propaganda Chief Urges 'War Over People's Minds' on Russia's Home Front
  - [https://www.wsj.com/articles/putins-propaganda-chief-urges-war-over-peoples-minds-11670630966](https://www.wsj.com/articles/putins-propaganda-chief-urges-war-over-peoples-minds-11670630966)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-10 14:00:00+00:00
- - tags: None
 
 In a speech revealing Kremlin efforts to bolster domestic support for its war in Ukraine, Sergei Kiriyenko told state officials they are ‘special forces’ fighting an information war.
 
@@ -12,7 +11,6 @@ In a speech revealing Kremlin efforts to bolster domestic support for its war in
  - [https://www.wsj.com/articles/many-of-ukraines-western-weapons-await-repairs-far-from-the-front-line-11670667085](https://www.wsj.com/articles/many-of-ukraines-western-weapons-await-repairs-far-from-the-front-line-11670667085)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-10 11:28:00+00:00
- - tags: None
 
 Some of the most powerful weapons that the West gave to Ukraine have been languishing for prolonged periods because of complex maintenance procedures and quarrels among European allies.
 
@@ -20,7 +18,6 @@ Some of the most powerful weapons that the West gave to Ukraine have been langui
  - [https://www.wsj.com/articles/hong-kong-media-tycoon-jimmy-lai-gets-another-jail-term-after-fraud-conviction-11670668776](https://www.wsj.com/articles/hong-kong-media-tycoon-jimmy-lai-gets-another-jail-term-after-fraud-conviction-11670668776)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-10 10:39:00+00:00
- - tags: None
 
 The case is the latest in a legal campaign against Mr. Lai, whose now-closed Apple Daily newspaper was once one of Beijing’s fiercest critics.
 
@@ -28,7 +25,6 @@ The case is the latest in a legal campaign against Mr. Lai, whose now-closed App
  - [https://www.wsj.com/articles/russia-launches-new-drone-attacks-as-partnership-with-iran-deepens-11670666867](https://www.wsj.com/articles/russia-launches-new-drone-attacks-as-partnership-with-iran-deepens-11670666867)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-10 10:07:00+00:00
- - tags: None
 
 The fresh attacks are an indication that Moscow has replenished its supply of Iranian-made drones, as the two countries move toward what the U.S. has called a full defense partnership.
 
@@ -36,6 +32,5 @@ The fresh attacks are an indication that Moscow has replenished its supply of Ir
  - [https://www.wsj.com/articles/japan-cracks-down-on-moon-churchs-fundraising-11670664900](https://www.wsj.com/articles/japan-cracks-down-on-moon-churchs-fundraising-11670664900)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-10 09:35:00+00:00
- - tags: None
 
 Parliament is banning high-pressure tactics cited by the suspect in the assassination of former Prime Minister Shinzo Abe.

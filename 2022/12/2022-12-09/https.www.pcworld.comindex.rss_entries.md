@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## Chrome now supports passkeys, the password killer
  - [https://www.pcworld.com/article/1431681/chrome-now-supports-passkeys-the-password-killer.html](https://www.pcworld.com/article/1431681/chrome-now-supports-passkeys-the-password-killer.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-09 22:53:59+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -61,7 +60,6 @@ Android, Browsers, Security</div>
  - [https://www.pcworld.com/article/1431277/hades-ii-will-resurrect-one-of-the-best-roguelikes-ever.html](https://www.pcworld.com/article/1431277/hades-ii-will-resurrect-one-of-the-best-roguelikes-ever.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-09 15:23:31+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -101,7 +99,6 @@ Gaming</div>
  - [https://www.pcworld.com/article/1431254/razers-awesome-deathadder-gaming-mouse-is-only-18.html](https://www.pcworld.com/article/1431254/razers-awesome-deathadder-gaming-mouse-is-only-18.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-09 14:47:17+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -126,7 +123,6 @@ Mice</div>
  - [https://www.pcworld.com/article/1430365/the-full-nerd-awards-our-favorite-pc-hardware-of-2022.html](https://www.pcworld.com/article/1430365/the-full-nerd-awards-our-favorite-pc-hardware-of-2022.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-09 11:45:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -495,7 +491,6 @@ Computer Components</div>
  - [https://www.pcworld.com/article/1418294/roccat-burst-pro-air-wireless-gaming-mouse-review.html](https://www.pcworld.com/article/1418294/roccat-burst-pro-air-wireless-gaming-mouse-review.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-09 11:30:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -755,7 +750,6 @@ Gaming, Mice</div>
  - [https://www.pcworld.com/article/1428710/1428710.html](https://www.pcworld.com/article/1428710/1428710.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-09 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>

@@ -1,4 +1,4 @@
-# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml
+# Source TNV24 Najważniejsze, Source URL:https://tvn24.pl/najwazniejsze.xml, Source language: pl-PL
 
 ## "Ból" i "wielkie rozczarowanie" we Francji
  - [https://eurosport.tvn24.pl/we-francji--b-l--i--wielkie-rozczarowanie-,1129872.html?source=rss](https://eurosport.tvn24.pl/we-francji--b-l--i--wielkie-rozczarowanie-,1129872.html?source=rss)
@@ -103,6 +103,14 @@
 
 <img alt="Hat-trick w finale i tytuł króla strzelców na otarcie łez dla Mbappe" src="https://tvn24.pl/najnowsze/cdn-zdjecie-5qv077-kylian-mbappe-strzelil-w-katarze-osiem-goli/alternates/LANDSCAPE_1280" />
     Mundial 2022. Kylian Mbappe wyjedzie z Kataru jako król strzelców piłkarskich mistrzostw świata. Na tytuł w dużej mierze zapracował w finale, ale jego hat-trick nie dał Francuzom upragnionego Pucharu Świata. Z niego cieszy się Argentyna i Leo Messi.
+
+## Policja miała wysłać e-maila do straży granicznej, żeby przepuścić komendanta Szymczyka "szybciej"
+ - [https://fakty.tvn24.pl/policja-mia-a-wys-a--mejla-do-stra-y-granicznej---eby-przepu-ci--komendanta-szymczyka--szybciej-,1129800.html?source=rss](https://fakty.tvn24.pl/policja-mia-a-wys-a--mejla-do-stra-y-granicznej---eby-przepu-ci--komendanta-szymczyka--szybciej-,1129800.html?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2022-12-18 18:13:25+00:00
+
+<img alt="Policja miała wysłać e-maila do straży granicznej, żeby przepuścić komendanta Szymczyka " src="https://tvn24.pl/najnowsze/cdn-zdjecie-y709vh-policja-miala-wyslac-mejla-do-strazy-granicznej-zeby-przepuscic-komendanta-szymczyka-szybciej/alternates/LANDSCAPE_1280" />
+    Dymisja komendanta głównego policji wisi na włosku, ale decyzji nie ma.
 
 ## Marciniak jak Messi i Mbappe. Kapitalny w niezapomnianym finale mundialu
  - [https://eurosport.tvn24.pl/marciniak-jak-messi-i-mbappe--kapitalny-w-niezapomnianym-finale-mundialu,1129832.html?source=rss](https://eurosport.tvn24.pl/marciniak-jak-messi-i-mbappe--kapitalny-w-niezapomnianym-finale-mundialu,1129832.html?source=rss)

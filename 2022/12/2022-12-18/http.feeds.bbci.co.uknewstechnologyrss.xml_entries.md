@@ -1,4 +1,4 @@
-# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml
+# Source BBC tech, Source URL:http://feeds.bbci.co.uk/news/technology/rss.xml, Source language: en-US
 
 ## Singapore's crypto ambitions shaken by FTX collapse
  - [https://www.bbc.co.uk/news/business-63898729?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63898729?at_medium=RSS&at_campaign=KARANGA)

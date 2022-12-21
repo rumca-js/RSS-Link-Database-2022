@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## Bethesda QA workers are forming a union of their own
  - [https://www.pcgamer.com/bethesda-qa-workers-are-forming-a-union-of-their-own](https://www.pcgamer.com/bethesda-qa-workers-are-forming-a-union-of-their-own)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-05 23:23:33+00:00
- - tags: None
 
 ZeniMax Workers United represents more than 300 QA workers at ZeniMax Media and its studios, including Bethesda Softworks.
 
@@ -12,7 +11,6 @@ ZeniMax Workers United represents more than 300 QA workers at ZeniMax Media and 
  - [https://www.pcgamer.com/these-sick-gundam-keyboards-eschew-rgb-in-favor-of-vibrant-90s-mecha-prints](https://www.pcgamer.com/these-sick-gundam-keyboards-eschew-rgb-in-favor-of-vibrant-90s-mecha-prints)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-05 23:12:56+00:00
- - tags: None
 
 I've already spent way too much money on assorted gaming keyboards, this has to end.
 
@@ -20,7 +18,6 @@ I've already spent way too much money on assorted gaming keyboards, this has to 
  - [https://www.pcgamer.com/the-most-important-shooters-of-the-last-5-years](https://www.pcgamer.com/the-most-important-shooters-of-the-last-5-years)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-05 22:24:24+00:00
- - tags: None
 
 Maybe the real treasure was the bullets we met along the way.
 
@@ -28,7 +25,6 @@ Maybe the real treasure was the bullets we met along the way.
  - [https://www.pcgamer.com/starfield-will-cost-dollar70-as-microsoft-raises-its-base-price-for-new-games-in-2023](https://www.pcgamer.com/starfield-will-cost-dollar70-as-microsoft-raises-its-base-price-for-new-games-in-2023)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-05 21:53:22+00:00
- - tags: None
 
 The price increase will apply to PC games as well as Xbox console releases.
 
@@ -36,7 +32,6 @@ The price increase will apply to PC games as well as Xbox console releases.
  - [https://www.pcgamer.com/disney-dreamlight-valley-codes-redeem](https://www.pcgamer.com/disney-dreamlight-valley-codes-redeem)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-05 21:42:57+00:00
- - tags: None
 
 Dreamlight Valley has started handing out redeemable in-game reward codes but the reward itself is still a mystery.
 
@@ -44,7 +39,6 @@ Dreamlight Valley has started handing out redeemable in-game reward codes but th
  - [https://www.pcgamer.com/pregnant-smuggler-caught-after-200-cpus-are-found-in-her-prosthetic-belly](https://www.pcgamer.com/pregnant-smuggler-caught-after-200-cpus-are-found-in-her-prosthetic-belly)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-05 21:23:00+00:00
- - tags: None
 
 Chinese authorities recovered over 200 CPUs and nine iPhones from a woman's 'belly.'
 
@@ -52,7 +46,6 @@ Chinese authorities recovered over 200 CPUs and nine iPhones from a woman's 'bel
  - [https://www.pcgamer.com/psa-remember-to-safeguard-your-armor-slots-before-the-new-destiny-2-season-starts-tomorrow](https://www.pcgamer.com/psa-remember-to-safeguard-your-armor-slots-before-the-new-destiny-2-season-starts-tomorrow)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-05 21:10:17+00:00
- - tags: None
 
 Don't make my mistake.
 
@@ -60,7 +53,6 @@ Don't make my mistake.
  - [https://www.pcgamer.com/gwent-development-is-ending-in-2024-but-cd-projekt-wants-the-community-to-take-over](https://www.pcgamer.com/gwent-development-is-ending-in-2024-but-cd-projekt-wants-the-community-to-take-over)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-05 19:41:23+00:00
- - tags: None
 
 CD Projekt has an "unconventional" plan to keep Gwent going after active development ends.
 
@@ -68,7 +60,6 @@ CD Projekt has an "unconventional" plan to keep Gwent going after active develop
  - [https://www.pcgamer.com/for-many-destiny-2-players-season-of-the-plunder-was-a-season-of-burnout-and-its-only-going-to-get-worse](https://www.pcgamer.com/for-many-destiny-2-players-season-of-the-plunder-was-a-season-of-burnout-and-its-only-going-to-get-worse)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-05 19:25:39+00:00
- - tags: None
 
 Players have grown tired of Bungie's seasonal template.
 
@@ -76,7 +67,6 @@ Players have grown tired of Bungie's seasonal template.
  - [https://www.pcgamer.com/bizarre-pokemon-with-guns-survival-game-palworld-has-a-cute-and-violent-new-trailer](https://www.pcgamer.com/bizarre-pokemon-with-guns-survival-game-palworld-has-a-cute-and-violent-new-trailer)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-05 19:21:01+00:00
- - tags: None
 
 The open world game looks serene and adorable until tanks, machine guns, and cat-prisons appear. Also a penguin gets crushed by a dinosaur.
 
@@ -84,7 +74,6 @@ The open world game looks serene and adorable until tanks, machine guns, and cat
  - [https://www.pcgamer.com/overwatch-2s-new-tank-hero-ramattra-will-need-a-support-babysitter-to-thrive](https://www.pcgamer.com/overwatch-2s-new-tank-hero-ramattra-will-need-a-support-babysitter-to-thrive)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-05 19:00:26+00:00
- - tags: None
 
 As the other roles grow, supports fall behind.
 
@@ -92,7 +81,6 @@ As the other roles grow, supports fall behind.
  - [https://www.pcgamer.com/blizzard-bends-on-overwatch-2-battle-pass-makes-next-hero-easier-to-unlock-for-free](https://www.pcgamer.com/blizzard-bends-on-overwatch-2-battle-pass-makes-next-hero-easier-to-unlock-for-free)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-05 18:53:53+00:00
- - tags: None
 
 Season's 2's new tank will be a little easier to get for free.
 
@@ -100,7 +88,6 @@ Season's 2's new tank will be a little easier to get for free.
  - [https://www.pcgamer.com/the-witcher-3s-next-gen-update-polishes-an-rpg-thats-aged-like-a-fine-toussaint-red](https://www.pcgamer.com/the-witcher-3s-next-gen-update-polishes-an-rpg-thats-aged-like-a-fine-toussaint-red)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-05 17:01:08+00:00
- - tags: None
 
 A new quest and Henry Cavill's armor are the highlights, but there are tons of little fixes and improvements, too.
 
@@ -108,7 +95,6 @@ A new quest and Henry Cavill's armor are the highlights, but there are tons of l
  - [https://www.pcgamer.com/xgimi-horizon-pro](https://www.pcgamer.com/xgimi-horizon-pro)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-05 16:34:24+00:00
- - tags: None
 
 Everything's a screen now.
 
@@ -116,7 +102,6 @@ Everything's a screen now.
  - [https://www.pcgamer.com/world-of-warcraft-dragonflight-bloody-tokens](https://www.pcgamer.com/world-of-warcraft-dragonflight-bloody-tokens)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-05 16:33:31+00:00
- - tags: None
 
 This PvP currency can be used to buy gear.
 
@@ -124,7 +109,6 @@ This PvP currency can be used to buy gear.
  - [https://www.pcgamer.com/star-wars-jedi-survivor-steam-page-leaks-and-then-deletes-march-release-date-system-requirements](https://www.pcgamer.com/star-wars-jedi-survivor-steam-page-leaks-and-then-deletes-march-release-date-system-requirements)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-05 16:29:51+00:00
- - tags: None
 
 The Steam page also revealed details on the game itself, including the new setting and preorder bonuses.
 
@@ -132,7 +116,6 @@ The Steam page also revealed details on the game itself, including the new setti
  - [https://www.pcgamer.com/need-for-speed-unbound-money-glitch](https://www.pcgamer.com/need-for-speed-unbound-money-glitch)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-05 16:27:58+00:00
- - tags: None
 
 Fund your habit for fancy cars.
 
@@ -140,7 +123,6 @@ Fund your habit for fancy cars.
  - [https://www.pcgamer.com/everything-you-need-to-enjoy-a-gaming-christmas-away-from-home](https://www.pcgamer.com/everything-you-need-to-enjoy-a-gaming-christmas-away-from-home)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-05 16:02:24+00:00
- - tags: None
 
 The top PC-based kit to keep the entertainment flowing away from the comfort of your own home, even after too much turkey.
 
@@ -148,7 +130,6 @@ The top PC-based kit to keep the entertainment flowing away from the comfort of 
  - [https://www.pcgamer.com/elden-rings-creator-has-no-idea-why-its-so-successful-and-doesnt-want-to-find-out](https://www.pcgamer.com/elden-rings-creator-has-no-idea-why-its-so-successful-and-doesnt-want-to-find-out)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-05 15:26:31+00:00
- - tags: None
 
 Hidetaka Miyazaki won't tarnish his legacy with market research.
 
@@ -156,7 +137,6 @@ Hidetaka Miyazaki won't tarnish his legacy with market research.
  - [https://www.pcgamer.com/dwarf-fortress-review](https://www.pcgamer.com/dwarf-fortress-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-05 15:00:21+00:00
- - tags: None
 
 Dwarf Fortress tunnels onto Steam in all its unfathomable glory.
 
@@ -164,7 +144,6 @@ Dwarf Fortress tunnels onto Steam in all its unfathomable glory.
  - [https://www.pcgamer.com/genshin-impact-wanderer-build-scaramouche](https://www.pcgamer.com/genshin-impact-wanderer-build-scaramouche)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-05 14:42:39+00:00
- - tags: None
 
 Our favourite setup for the flying Anemo character.
 
@@ -172,7 +151,6 @@ Our favourite setup for the flying Anemo character.
  - [https://www.pcgamer.com/why-precision-matters-the-best-esports-plays-of-2022](https://www.pcgamer.com/why-precision-matters-the-best-esports-plays-of-2022)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-05 14:00:00+00:00
- - tags: None
 
 These incredible esports plays highlight why precision — and precise gaming peripherals — are crucial to have when playing games competitively.
 
@@ -180,7 +158,6 @@ These incredible esports plays highlight why precision — and precise gaming pe
  - [https://www.pcgamer.com/world-of-warcraft-dragonflight-dragon-racing-guide](https://www.pcgamer.com/world-of-warcraft-dragonflight-dragon-racing-guide)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-05 13:07:54+00:00
- - tags: None
 
 Soar to victory with this dragon racing guide.
 
@@ -188,7 +165,6 @@ Soar to victory with this dragon racing guide.
  - [https://www.pcgamer.com/firaxis-pulled-out-all-the-stops-to-let-a-dying-fan-play-midnight-suns](https://www.pcgamer.com/firaxis-pulled-out-all-the-stops-to-let-a-dying-fan-play-midnight-suns)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-05 12:47:16+00:00
- - tags: None
 
 'They did this purely from the purity of heart that drives the very best of humanity'.
 
@@ -196,7 +172,6 @@ Soar to victory with this dragon racing guide.
  - [https://www.pcgamer.com/i-just-got-rickrolled-by-an-electron-blasted-silicon-wafer](https://www.pcgamer.com/i-just-got-rickrolled-by-an-electron-blasted-silicon-wafer)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-05 12:27:12+00:00
- - tags: None
 
 Here's what happens when you beam Electrons at a tiny wafer... Rick Astley shows up, apparently.
 
@@ -204,7 +179,6 @@ Here's what happens when you beam Electrons at a tiny wafer... Rick Astley shows
  - [https://www.pcgamer.com/goblin-mode-overwhelmingly-wins-the-first-public-voted-oxford-word-of-the-year](https://www.pcgamer.com/goblin-mode-overwhelmingly-wins-the-first-public-voted-oxford-word-of-the-year)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-05 11:59:49+00:00
- - tags: None
 
 I'm going goblin mode on anyone who points out it's two words.
 
@@ -212,7 +186,6 @@ I'm going goblin mode on anyone who points out it's two words.
  - [https://www.pcgamer.com/wordle-534-answer-december-5](https://www.pcgamer.com/wordle-534-answer-december-5)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-05 08:05:46+00:00
- - tags: None
 
 Wordle today: The solution and a hint for the #534 puzzle.
 
@@ -220,7 +193,6 @@ Wordle today: The solution and a hint for the #534 puzzle.
  - [https://www.pcgamer.com/dlc-sized-skyrim-mod-adds-fully-voiced-bioware-style-companions-over-9000-lines-of-dialogue](https://www.pcgamer.com/dlc-sized-skyrim-mod-adds-fully-voiced-bioware-style-companions-over-9000-lines-of-dialogue)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-05 01:53:03+00:00
- - tags: None
 
 They all have their own loyalty quests, and some romance quests too.
 
@@ -228,7 +200,6 @@ They all have their own loyalty quests, and some romance quests too.
  - [https://www.pcgamer.com/five-new-steam-games-you-probably-missed-december-5-2022](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-december-5-2022)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-05 01:07:19+00:00
- - tags: None
 
 Sorting through every new game on Steam so you don't have to.
 
@@ -236,7 +207,6 @@ Sorting through every new game on Steam so you don't have to.
  - [https://www.pcgamer.com/five-years-after-launch-heartfelt-indie-rakuen-is-getting-a-major-update-and-spin-off](https://www.pcgamer.com/five-years-after-launch-heartfelt-indie-rakuen-is-getting-a-major-update-and-spin-off)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-05 00:49:23+00:00
- - tags: None
 
 Get ready to feel some emotions.
 
@@ -244,7 +214,6 @@ Get ready to feel some emotions.
  - [https://www.pcgamer.com/halo-infinite-multiplayer-creative-director-departs-343-industries](https://www.pcgamer.com/halo-infinite-multiplayer-creative-director-departs-343-industries)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-05 00:13:33+00:00
- - tags: None
 
 Tom French had worked on the Halo series for over 11 years.
 
@@ -252,6 +221,5 @@ Tom French had worked on the Halo series for over 11 years.
  - [https://www.pcgamer.com/one-of-the-nfls-best-teams-is-full-of-grand-theft-auto-online-roleplayers](https://www.pcgamer.com/one-of-the-nfls-best-teams-is-full-of-grand-theft-auto-online-roleplayers)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-05 00:04:20+00:00
- - tags: None
 
 The Eagles have had a great season, and the team's players love GTA Online.

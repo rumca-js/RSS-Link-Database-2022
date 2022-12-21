@@ -1,10 +1,9 @@
-# Source Aljazeera, Source URL:http://www.aljazeera.com/xml/rss/all.xml
+# Source Aljazeera, Source URL:http://www.aljazeera.com/xml/rss/all.xml, Source language: en-US
 
 ## Colombia, ELN rebels conclude first round of ‘successful’ talks
  - [https://www.aljazeera.com/news/2022/12/12/colombia-eln-rebels-conclude-first-round-of-successful-talks](https://www.aljazeera.com/news/2022/12/12/colombia-eln-rebels-conclude-first-round-of-successful-talks)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 23:05:24+00:00
- - tags: None
 
 While no ceasefire was reached, two sides agree to provide &#039;emergency care&#039; in violence-hit regions starting next month.
 
@@ -12,7 +11,6 @@ While no ceasefire was reached, two sides agree to provide &#039;emergency care&
  - [https://www.aljazeera.com/news/2022/12/12/us-announces-sanctions-against-son-of-zimbabwean-president](https://www.aljazeera.com/news/2022/12/12/us-announces-sanctions-against-son-of-zimbabwean-president)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 22:19:09+00:00
- - tags: None
 
 The US Treasury Department has accused Emmerson Mnangagwa Jr of ties to sanctioned businessman Kudakwashe Tagwirei.
 
@@ -20,7 +18,6 @@ The US Treasury Department has accused Emmerson Mnangagwa Jr of ties to sanction
  - [https://www.aljazeera.com/economy/2022/12/12/cvs-walgreens-finalise-10bn-in-deals-to-settle-opioid-lawsuits](https://www.aljazeera.com/economy/2022/12/12/cvs-walgreens-finalise-10bn-in-deals-to-settle-opioid-lawsuits)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 22:10:31+00:00
- - tags: None
 
 The deals are among the largest in a wave of proposed and finalised settlements over opioids in recent years.
 
@@ -28,7 +25,6 @@ The deals are among the largest in a wave of proposed and finalised settlements 
  - [https://www.aljazeera.com/news/2022/12/12/asylum-seeker-crossings-into-us-city-of-el-paso-spike-on-weekend](https://www.aljazeera.com/news/2022/12/12/asylum-seeker-crossings-into-us-city-of-el-paso-spike-on-weekend)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 22:06:33+00:00
- - tags: None
 
 Critics warn looming end of Title 42 immigration policy could lead to more crossings along the US-Mexico border.
 
@@ -36,7 +32,6 @@ Critics warn looming end of Title 42 immigration policy could lead to more cross
  - [https://www.aljazeera.com/gallery/2022/12/12/photos-mexicos-guadalupe-pilgrimage-draws-millions-of-devotees](https://www.aljazeera.com/gallery/2022/12/12/photos-mexicos-guadalupe-pilgrimage-draws-millions-of-devotees)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 22:01:40+00:00
- - tags: None
 
 The Basilica of Our Lady of Guadalupe is the second-most-visited Catholic shrine in the world after St Peter&#039;s.
 
@@ -44,7 +39,6 @@ The Basilica of Our Lady of Guadalupe is the second-most-visited Catholic shrine
  - [https://www.aljazeera.com/news/2022/12/12/g7-pledges-to-meet-ukraines-urgent-air-defence-requirements](https://www.aljazeera.com/news/2022/12/12/g7-pledges-to-meet-ukraines-urgent-air-defence-requirements)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 21:44:12+00:00
- - tags: None
 
 Zelenskyy also appeals to G7 for tanks, artillery and long-range weapons as Russia maintains barrage of attacks.
 
@@ -52,7 +46,6 @@ Zelenskyy also appeals to G7 for tanks, artillery and long-range weapons as Russ
  - [https://www.aljazeera.com/news/2022/12/12/oath-keepers-plotted-to-use-force-on-january-6-us-prosecutor](https://www.aljazeera.com/news/2022/12/12/oath-keepers-plotted-to-use-force-on-january-6-us-prosecutor)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 21:30:37+00:00
- - tags: None
 
 Prosecutor tells US jury that far-right group members plotted to stop transfer of power and keep Donald Trump in office.
 
@@ -60,7 +53,6 @@ Prosecutor tells US jury that far-right group members plotted to stop transfer o
  - [https://www.aljazeera.com/news/2022/12/12/267](https://www.aljazeera.com/news/2022/12/12/267)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 21:06:39+00:00
- - tags: None
 
 In October the US published a sweeping set of export controls aimed at kneecapping China&#039;s semiconductor sector.
 
@@ -68,7 +60,6 @@ In October the US published a sweeping set of export controls aimed at kneecappi
  - [https://www.aljazeera.com/news/2022/12/12/eu-sanctions-iran-over-protest-crackdown-and-russia-drone-sales](https://www.aljazeera.com/news/2022/12/12/eu-sanctions-iran-over-protest-crackdown-and-russia-drone-sales)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 20:53:08+00:00
- - tags: None
 
 Russia stands accused of sending Iranian-made drones over Ukraine to strike at power plants, other key infrastructure.
 
@@ -76,7 +67,6 @@ Russia stands accused of sending Iranian-made drones over Ukraine to strike at p
  - [https://www.aljazeera.com/gallery/2022/12/12/argentina-fans-party-in-qatar](https://www.aljazeera.com/gallery/2022/12/12/argentina-fans-party-in-qatar)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 20:25:01+00:00
- - tags: None
 
 Fans gathered at Doha&#039;s Corniche in support of Argentina&#039;s football team ahead of the semifinal.
 
@@ -84,7 +74,6 @@ Fans gathered at Doha&#039;s Corniche in support of Argentina&#039;s football te
  - [https://www.aljazeera.com/sports/2022/12/12/argentina-messi-training-world-cup-semifinal-croatia](https://www.aljazeera.com/sports/2022/12/12/argentina-messi-training-world-cup-semifinal-croatia)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 19:51:40+00:00
- - tags: None
 
 Messi set to become joint record appearance-maker in World Cup history when Argentina take on Croatia in the semifinal.
 
@@ -92,7 +81,6 @@ Messi set to become joint record appearance-maker in World Cup history when Arge
  - [https://www.aljazeera.com/gallery/2022/12/12/photos-nasa-orion-capsule-returns-to-earth](https://www.aljazeera.com/gallery/2022/12/12/photos-nasa-orion-capsule-returns-to-earth)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 19:38:05+00:00
- - tags: None
 
 The splashdown ends a 25-day mission less than a week after the capsule passed about 127km above the Moon.
 
@@ -100,7 +88,6 @@ The splashdown ends a 25-day mission less than a week after the capsule passed a
  - [https://www.aljazeera.com/program/inside-story/2022/12/12/what-is-behind-the-violence-between-serbia-and-kosovo](https://www.aljazeera.com/program/inside-story/2022/12/12/what-is-behind-the-violence-between-serbia-and-kosovo)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 19:21:54+00:00
- - tags: None
 
 Tensions rise in the Balkans with attacks on police, mass police resignations and delayed elections.
 
@@ -108,7 +95,6 @@ Tensions rise in the Balkans with attacks on police, mass police resignations an
  - [https://www.aljazeera.com/news/2022/12/12/us-city-removes-last-public-confederate-statue](https://www.aljazeera.com/news/2022/12/12/us-city-removes-last-public-confederate-statue)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 18:50:25+00:00
- - tags: None
 
 Mayor of Richmond, Virginia, ordered Confederate symbols removed amid 2020 racial justice protests across US.
 
@@ -116,7 +102,6 @@ Mayor of Richmond, Virginia, ordered Confederate symbols removed amid 2020 racia
  - [https://www.aljazeera.com/news/2022/12/12/europe-could-face-gas-shortage-next-year-iea-warns](https://www.aljazeera.com/news/2022/12/12/europe-could-face-gas-shortage-next-year-iea-warns)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 17:36:43+00:00
- - tags: None
 
 The EU may avoid an energy crisis this year but needs to take action to prevent a shortage next year, IEA and EU say.
 
@@ -124,7 +109,6 @@ The EU may avoid an energy crisis this year but needs to take action to prevent 
  - [https://www.aljazeera.com/features/2022/12/12/frank-soo-english-footballs-history-maker](https://www.aljazeera.com/features/2022/12/12/frank-soo-english-footballs-history-maker)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 17:20:14+00:00
- - tags: None
 
 When footballer Frank Soo stepped out at Ninian Park in 1942, he became the first non-white player to represent England.
 
@@ -132,7 +116,6 @@ When footballer Frank Soo stepped out at Ninian Park in 1942, he became the firs
  - [https://www.aljazeera.com/news/2022/12/12/nigerian-government-rejects-report-on-military-abortion-programme](https://www.aljazeera.com/news/2022/12/12/nigerian-government-rejects-report-on-military-abortion-programme)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 17:07:34+00:00
- - tags: None
 
 Nigeria&#039;s government denounced a Reuters report of clandestine abortion scheme as a &#039;body of insults&#039; against Nigerians.
 
@@ -140,7 +123,6 @@ Nigeria&#039;s government denounced a Reuters report of clandestine abortion sch
  - [https://www.aljazeera.com/news/2022/12/12/russias-putin-cancels-annual-year-end-news-conference-kremlin](https://www.aljazeera.com/news/2022/12/12/russias-putin-cancels-annual-year-end-news-conference-kremlin)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 17:06:48+00:00
- - tags: None
 
 Break in tradition comes as Russia&#039;s war in Ukraine falters and its economy struggles under the weight of sanctions.
 
@@ -148,7 +130,6 @@ Break in tradition comes as Russia&#039;s war in Ukraine falters and its economy
  - [https://www.aljazeera.com/news/2022/12/12/croatia-can-hurt-argentina-in-semifinal-warns-coach-scaloni](https://www.aljazeera.com/news/2022/12/12/croatia-can-hurt-argentina-in-semifinal-warns-coach-scaloni)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 16:52:22+00:00
- - tags: None
 
 Ahead of Tuesday&#039;s match, Scaloni and his team reveal cautious optimism.
 
@@ -156,7 +137,6 @@ Ahead of Tuesday&#039;s match, Scaloni and his team reveal cautious optimism.
  - [https://www.aljazeera.com/news/2022/12/12/el-salvador-crackdown-could-prompt-gangs-to-adapt-and-reshuffle](https://www.aljazeera.com/news/2022/12/12/el-salvador-crackdown-could-prompt-gangs-to-adapt-and-reshuffle)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 16:32:24+00:00
- - tags: None
 
 The government’s eight-month state of exception has seen civil liberties suspended and tens of thousands imprisoned.
 
@@ -164,7 +144,6 @@ The government’s eight-month state of exception has seen civil liberties suspe
  - [https://www.aljazeera.com/sports/2022/12/12/can-morocco-win-the-world-cup](https://www.aljazeera.com/sports/2022/12/12/can-morocco-win-the-world-cup)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 16:12:32+00:00
- - tags: None
 
 Fairytale run to the semi-finals has seen the Atlas Lions create footballing history but now France await.
 
@@ -172,7 +151,6 @@ Fairytale run to the semi-finals has seen the Atlas Lions create footballing his
  - [https://www.aljazeera.com/features/2022/12/12/the-cover-up-teams-operating-on-the-us-border](https://www.aljazeera.com/features/2022/12/12/the-cover-up-teams-operating-on-the-us-border)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 15:58:49+00:00
- - tags: None
 
 When Border Patrol pursuits of migrant vehicles have led to accidents, an opaque unit has been among those responding.
 
@@ -180,7 +158,6 @@ When Border Patrol pursuits of migrant vehicles have led to accidents, an opaque
  - [https://www.aljazeera.com/opinions/2022/12/12/hard-bargains-no-lectures-what-africa-needs-at-bidens-summit](https://www.aljazeera.com/opinions/2022/12/12/hard-bargains-no-lectures-what-africa-needs-at-bidens-summit)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 15:45:26+00:00
- - tags: None
 
 The US knows what it wants from Africa — it is not democracy. Does Africa know what it wants from the US?
 
@@ -188,7 +165,6 @@ The US knows what it wants from Africa — it is not democracy. Does Africa know
  - [https://www.aljazeera.com/news/2022/12/12/chad-releases-139-protesters-related-to-october-deadly-crackdown](https://www.aljazeera.com/news/2022/12/12/chad-releases-139-protesters-related-to-october-deadly-crackdown)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 15:28:52+00:00
- - tags: None
 
 The move comes a week after more than 260 people were handed jail terms of between two to three years.
 
@@ -196,7 +172,6 @@ The move comes a week after more than 260 people were handed jail terms of betwe
  - [https://www.aljazeera.com/news/2022/12/12/macron-postpones-frances-pension-overhaul-denounced-by-unions](https://www.aljazeera.com/news/2022/12/12/macron-postpones-frances-pension-overhaul-denounced-by-unions)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 14:55:14+00:00
- - tags: None
 
 The French president delays the announcement of his divisive pension reform plans from this week to January.
 
@@ -204,7 +179,6 @@ The French president delays the announcement of his divisive pension reform plan
  - [https://www.aljazeera.com/news/2022/12/12/maria-telkes-why-google-honours-her-today](https://www.aljazeera.com/news/2022/12/12/maria-telkes-why-google-honours-her-today)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 14:43:07+00:00
- - tags: None
 
 Telkes was an innovative scientist recognised for her contributions to the solar energy technologies.
 
@@ -212,7 +186,6 @@ Telkes was an innovative scientist recognised for her contributions to the solar
  - [https://www.aljazeera.com/news/2022/12/12/guinea-ex-dictator-denies-role-at-2009-massacre-trial](https://www.aljazeera.com/news/2022/12/12/guinea-ex-dictator-denies-role-at-2009-massacre-trial)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 14:20:37+00:00
- - tags: None
 
 The former Guinean strongman is being charged alongside 10 other officials for their roles in the gruesome massacre.
 
@@ -220,7 +193,6 @@ The former Guinean strongman is being charged alongside 10 other officials for t
  - [https://www.aljazeera.com/news/2022/12/12/lgbtq-communities-in-the-us-face-rising-threat-of-violence](https://www.aljazeera.com/news/2022/12/12/lgbtq-communities-in-the-us-face-rising-threat-of-violence)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 14:00:30+00:00
- - tags: None
 
 As attacks mount, advocates say the government must do more to combat hate speech and gun crimes.
 
@@ -228,7 +200,6 @@ As attacks mount, advocates say the government must do more to combat hate speec
  - [https://www.aljazeera.com/news/2022/12/12/deadly-attack-on-kabul-hotel-popular-with-chinese-nationals](https://www.aljazeera.com/news/2022/12/12/deadly-attack-on-kabul-hotel-popular-with-chinese-nationals)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 13:36:59+00:00
- - tags: None
 
 At least three attackers killed by security forces after they open fire at the hotel in central Kabul, says an official.
 
@@ -236,7 +207,6 @@ At least three attackers killed by security forces after they open fire at the h
  - [https://www.aljazeera.com/news/2022/12/12/heavy-snow-disrupts-uk-travel-after-this-years-coldest-night](https://www.aljazeera.com/news/2022/12/12/heavy-snow-disrupts-uk-travel-after-this-years-coldest-night)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 13:09:38+00:00
- - tags: None
 
 Two coal plants are on standby while heavy snowfall blankets parts of the UK, disrupting transportation.
 
@@ -244,7 +214,6 @@ Two coal plants are on standby while heavy snowfall blankets parts of the UK, di
  - [https://www.aljazeera.com/news/2022/12/12/why-does-india-continue-trading-asbestos](https://www.aljazeera.com/news/2022/12/12/why-does-india-continue-trading-asbestos)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 13:05:52+00:00
- - tags: None
 
 Russia is among the nations that supply India with asbestos, a substance banned in several countries.
 
@@ -252,7 +221,6 @@ Russia is among the nations that supply India with asbestos, a substance banned 
  - [https://www.aljazeera.com/news/2022/12/12/england-beat-pakistan-to-clinch-cricket-test-series](https://www.aljazeera.com/news/2022/12/12/england-beat-pakistan-to-clinch-cricket-test-series)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 12:14:04+00:00
- - tags: None
 
 England snatch a 26-run victory against Pakistan in the second Test in Multan to take an unbeatable 2-0 lead.
 
@@ -260,7 +228,6 @@ England snatch a 26-run victory against Pakistan in the second Test in Multan to
  - [https://www.aljazeera.com/news/2022/12/12/iran-blacklists-more-eu-uk-officials-in-tit-for-tat-move](https://www.aljazeera.com/news/2022/12/12/iran-blacklists-more-eu-uk-officials-in-tit-for-tat-move)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 11:54:23+00:00
- - tags: None
 
 Tehran’s new sanctions deal with the assassination of Iran’s top general Qassem Soleimani by the US.
 
@@ -268,7 +235,6 @@ Tehran’s new sanctions deal with the assassination of Iran’s top general Qas
  - [https://www.aljazeera.com/features/2022/12/12/analysis-countdown-to-perdition-for-sas-ramaphosa-or-2nd-term](https://www.aljazeera.com/features/2022/12/12/analysis-countdown-to-perdition-for-sas-ramaphosa-or-2nd-term)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 11:36:10+00:00
- - tags: None
 
 President Ramaphosa could survive an impeachment vote this week but seeking re-election could be harder.
 
@@ -276,7 +242,6 @@ President Ramaphosa could survive an impeachment vote this week but seeking re-e
  - [https://www.aljazeera.com/news/2022/12/12/released-russian-arms-dealer-bout-joins-ultranationalist-party](https://www.aljazeera.com/news/2022/12/12/released-russian-arms-dealer-bout-joins-ultranationalist-party)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 11:21:40+00:00
- - tags: None
 
 Viktor Bout was freed last week from a 25-year US prison sentence in swap for basketball star Brittney Griner.
 
@@ -284,7 +249,6 @@ Viktor Bout was freed last week from a 25-year US prison sentence in swap for ba
  - [https://www.aljazeera.com/sports/2022/12/12/the-freestyle-footballer-with-a-difference-wowing-world-cup-fans](https://www.aljazeera.com/sports/2022/12/12/the-freestyle-footballer-with-a-difference-wowing-world-cup-fans)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 11:17:18+00:00
- - tags: None
 
 Juanro Aguiló was born with only one, incomplete arm. Today he is an ace freestyle footballer and motivational speaker.
 
@@ -292,7 +256,6 @@ Juanro Aguiló was born with only one, incomplete arm. Today he is an ace freest
  - [https://www.aljazeera.com/news/2022/12/12/four-people-charged-in-eu-parliament-corruption-investigation](https://www.aljazeera.com/news/2022/12/12/four-people-charged-in-eu-parliament-corruption-investigation)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 10:58:43+00:00
- - tags: None
 
 Qatar, the Gulf state that is alleged to be behind the scandal, rejects any attempts to associate it with the misconduct
 
@@ -300,7 +263,6 @@ Qatar, the Gulf state that is alleged to be behind the scandal, rejects any atte
  - [https://www.aljazeera.com/news/2022/12/12/ukraine-says-it-has-killed-wagner-mercenaries-who-are-they](https://www.aljazeera.com/news/2022/12/12/ukraine-says-it-has-killed-wagner-mercenaries-who-are-they)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 10:01:37+00:00
- - tags: None
 
 Controversial armed group emerged from being a murky guns-for-hire enterprise to a public extension of the Russian army.
 
@@ -308,7 +270,6 @@ Controversial armed group emerged from being a murky guns-for-hire enterprise to
  - [https://www.aljazeera.com/gallery/2022/12/12/forced-to-eat-leaves-hungry-and-besieged-in-burkina-faso](https://www.aljazeera.com/gallery/2022/12/12/forced-to-eat-leaves-hungry-and-besieged-in-burkina-faso)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 09:52:08+00:00
- - tags: None
 
 In the northern town of Djibo, 370,000 people are trapped by a continuing blockade - largely cut off from food and aid.
 
@@ -316,7 +277,6 @@ In the northern town of Djibo, 370,000 people are trapped by a continuing blocka
  - [https://www.aljazeera.com/news/2022/12/12/israeli-forces-kill-palestinian-girl-in-occupied-west-bank-raid](https://www.aljazeera.com/news/2022/12/12/israeli-forces-kill-palestinian-girl-in-occupied-west-bank-raid)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 09:37:28+00:00
- - tags: None
 
 Jana Majdi Zakarneh, 16, was shot dead while standing on the roof of her home during an Israeli military raid on Jenin.
 
@@ -324,7 +284,6 @@ Jana Majdi Zakarneh, 16, was shot dead while standing on the roof of her home du
  - [https://www.aljazeera.com/news/2022/12/12/iran-publicly-carries-out-second-protest-related-execution-2](https://www.aljazeera.com/news/2022/12/12/iran-publicly-carries-out-second-protest-related-execution-2)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 08:40:06+00:00
- - tags: None
 
 Iran has signalled more executions could be carried out amid condemnation by rights groups.
 
@@ -332,7 +291,6 @@ Iran has signalled more executions could be carried out amid condemnation by rig
  - [https://www.aljazeera.com/sports/2022/12/12/ronaldo-needs-to-rediscover-his-purpose](https://www.aljazeera.com/sports/2022/12/12/ronaldo-needs-to-rediscover-his-purpose)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 08:12:29+00:00
- - tags: None
 
 At 37, he&#039;s not scoring as much as he used to. Can being on the bench bring out the best of what he can offer now?
 
@@ -340,7 +298,6 @@ At 37, he&#039;s not scoring as much as he used to. Can being on the bench bring
  - [https://www.aljazeera.com/news/2022/12/12/russia-ukraine-war-list-of-key-events-day-292](https://www.aljazeera.com/news/2022/12/12/russia-ukraine-war-list-of-key-events-day-292)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 07:55:06+00:00
- - tags: None
 
 As the Russia-Ukraine war enters its 292nd day, we take a look at the main developments.
 
@@ -348,7 +305,6 @@ As the Russia-Ukraine war enters its 292nd day, we take a look at the main devel
  - [https://www.aljazeera.com/economy/2022/12/12/indonesian-governor-claims-bali-bonk-ban-no-risk-to-tourists](https://www.aljazeera.com/economy/2022/12/12/indonesian-governor-claims-bali-bonk-ban-no-risk-to-tourists)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 07:49:53+00:00
- - tags: None
 
 Bali Governor Wayan Koster says authorities will not check marital status of those checking in at tourist accommodation.
 
@@ -356,7 +312,6 @@ Bali Governor Wayan Koster says authorities will not check marital status of tho
  - [https://www.aljazeera.com/news/2022/12/12/moroccos-coach-calls-team-rocky-of-this-world](https://www.aljazeera.com/news/2022/12/12/moroccos-coach-calls-team-rocky-of-this-world)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 07:36:29+00:00
- - tags: None
 
 &#039;I think now the world is with Morocco,&#039; coach Walid Regragui said, comparing the team&#039;s run to the iconic boxing movie.
 
@@ -364,7 +319,6 @@ Bali Governor Wayan Koster says authorities will not check marital status of tho
  - [https://www.aljazeera.com/opinions/2022/12/12/germany-is-threatened-by-postcolonialism-for-a-reason](https://www.aljazeera.com/opinions/2022/12/12/germany-is-threatened-by-postcolonialism-for-a-reason)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 07:22:57+00:00
- - tags: None
 
 Postcolonialism is threatening the German state’s perception of its national identity and that of Israel.
 
@@ -372,7 +326,6 @@ Postcolonialism is threatening the German state’s perception of its national i
  - [https://www.aljazeera.com/news/2022/12/12/russias-wagner-mercenaries-target-in-hotel-attack-governor-says](https://www.aljazeera.com/news/2022/12/12/russias-wagner-mercenaries-target-in-hotel-attack-governor-says)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 05:43:30+00:00
- - tags: None
 
 Ukrainian governor Serhiy Haidai claimed a &#039;huge number&#039; died in a strike on hotel where Russian mercenaries were based.
 
@@ -380,7 +333,6 @@ Ukrainian governor Serhiy Haidai claimed a &#039;huge number&#039; died in a str
  - [https://www.aljazeera.com/news/2022/12/12/harry-kane-absolutely-gutted-by-missed-french-penalty](https://www.aljazeera.com/news/2022/12/12/harry-kane-absolutely-gutted-by-missed-french-penalty)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 04:58:40+00:00
- - tags: None
 
 “There’s no hiding from it, it hurts,” England’s captain said on social media about his World Cup penalty miss.
 
@@ -388,7 +340,6 @@ Ukrainian governor Serhiy Haidai claimed a &#039;huge number&#039; died in a str
  - [https://www.aljazeera.com/economy/2022/12/12/taiwan-asks-banks-to-appropriately-handle-china-exposure](https://www.aljazeera.com/economy/2022/12/12/taiwan-asks-banks-to-appropriately-handle-china-exposure)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 03:51:45+00:00
- - tags: None
 
 Finance Minister Su Jain-rong makes remarks in response to question about risks of investing in China.
 
@@ -396,7 +347,6 @@ Finance Minister Su Jain-rong makes remarks in response to question about risks 
  - [https://www.aljazeera.com/news/2022/12/12/zelenskyy-renews-diplomacy-thanks-bidens-unprecedented-help](https://www.aljazeera.com/news/2022/12/12/zelenskyy-renews-diplomacy-thanks-bidens-unprecedented-help)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 03:44:42+00:00
- - tags: None
 
 Ukrainian president holds talks with US, French and Turkish presidents amid fierce, protracted battles on eastern front.
 
@@ -404,7 +354,6 @@ Ukrainian president holds talks with US, French and Turkish presidents amid fier
  - [https://www.aljazeera.com/news/2022/12/12/two-killed-in-peru-as-protests-over-castillos-arrest-spread](https://www.aljazeera.com/news/2022/12/12/two-killed-in-peru-as-protests-over-castillos-arrest-spread)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 03:38:32+00:00
- - tags: None
 
 Two teenagers killed in Andahuaylas, where protesters tried to storm the city&#039;s airport, say authorities.
 
@@ -412,7 +361,6 @@ Two teenagers killed in Andahuaylas, where protesters tried to storm the city&#0
  - [https://www.aljazeera.com/economy/2022/12/12/australias-albanese-to-meet-gas-lobby-about-price-cap-concerns](https://www.aljazeera.com/economy/2022/12/12/australias-albanese-to-meet-gas-lobby-about-price-cap-concerns)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 03:11:32+00:00
- - tags: None
 
 Australian leader is aiming to pass legislation this week imposing caps on wholesale gas and coal prices.
 
@@ -420,7 +368,6 @@ Australian leader is aiming to pass legislation this week imposing caps on whole
  - [https://www.aljazeera.com/news/2022/12/12/ronaldos-world-cup-dream-has-ended](https://www.aljazeera.com/news/2022/12/12/ronaldos-world-cup-dream-has-ended)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 03:05:36+00:00
- - tags: None
 
 &#039;The dream was beautiful as long as it lasted,&#039; Cristiano Ronaldo wrote on Instagram in a possible hint at retirement.
 
@@ -428,7 +375,6 @@ Australian leader is aiming to pass legislation this week imposing caps on whole
  - [https://www.aljazeera.com/sports/2022/12/12/new-dream-ball-introduced-for-world-cups-final-matches](https://www.aljazeera.com/sports/2022/12/12/new-dream-ball-introduced-for-world-cups-final-matches)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 02:54:06+00:00
- - tags: None
 
 The Al Hilm — &#039;the dream&#039; in Arabic — will be used in the semifinals, third-place playoff, and final.
 
@@ -436,6 +382,5 @@ The Al Hilm — &#039;the dream&#039; in Arabic — will be used in the semifina
  - [https://www.aljazeera.com/sports/2022/12/12/after-neymar-tough-contenders-croatia-aim-to-end-messis-dream](https://www.aljazeera.com/sports/2022/12/12/after-neymar-tough-contenders-croatia-aim-to-end-messis-dream)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-12 01:44:28+00:00
- - tags: None
 
 Fresh from Brazil victory, the Croatia side is confident as they prepare for World Cup semifinal against Argentina.

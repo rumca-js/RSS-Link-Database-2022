@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Returnal is coming to PC, but you’ll need 32GB of RAM to play comfortably
  - [https://www.theverge.com/2022/12/11/23504346/sony-returnal-pc-ram-recommendation](https://www.theverge.com/2022/12/11/23504346/sony-returnal-pc-ram-recommendation)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-11 22:54:11+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot of Sony’s Returnal game on PC" src="https://cdn.vox-cdn.com/thumbor/yA9P6080wvdxc57SvG9BsL6M038=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71738033/sony_returnal_pc.0.jpeg" />
@@ -22,7 +21,6 @@
  - [https://www.theverge.com/2022/12/11/23503957/nasa-artemis-i-mission-orion-splashdown](https://www.theverge.com/2022/12/11/23503957/nasa-artemis-i-mission-orion-splashdown)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-11 17:56:13+00:00
- - tags: None
 
 <figure>
       <img alt="An image showing NASA’s Orion capsule splashing down into the Pacific Ocean" src="https://cdn.vox-cdn.com/thumbor/sCwz2GB1oo3ZbH4teAIw8Q6BkxY=/319x0:2494x1450/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71737125/orion_capsule_splashdown.0.png" />
@@ -40,7 +38,6 @@
  - [https://www.theverge.com/2022/12/11/23503314/mod-unlocked-90hz-google-pixel-6a](https://www.theverge.com/2022/12/11/23503314/mod-unlocked-90hz-google-pixel-6a)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-11 15:35:57+00:00
- - tags: None
 
 <figure>
       <img alt="Hero shot of the Google Pixel 6A on a grey background with some rocks" src="https://cdn.vox-cdn.com/thumbor/BWpVxACHGzhqTlovfqTHI9Qom3w=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71736787/vpavic_220708_5335_0001.0.jpg" />

@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Guillermo del Toro’s Pinocchio is a gnarly and spiritual fairy tale about what makes life beautiful
  - [https://www.theverge.com/23501898/guillermo-del-toro-pinocchio-netflix-review](https://www.theverge.com/23501898/guillermo-del-toro-pinocchio-netflix-review)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 22:53:20+00:00
- - tags: None
 
 <figure>
       <img alt="A wooden puppet shaped like a boy dancing on a small stage between a puppet made to resemble the devil and another resembling a dancer." src="https://cdn.vox-cdn.com/thumbor/S0xvYId9Bm8VKf8mxJ_hJYoAHYY=/353x0:3593x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71732544/1400_0340_paint_BOT_v001.269328.0.jpg" />
@@ -21,7 +20,6 @@
  - [https://www.theverge.com/2022/12/9/23501745/peloton-kanye-west-ye-removed-fitness-library](https://www.theverge.com/2022/12/9/23501745/peloton-kanye-west-ye-removed-fitness-library)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 22:38:59+00:00
- - tags: None
 
 <figure>
       <img alt="A person browsing Peloton classes" src="https://cdn.vox-cdn.com/thumbor/GhV1_weNgzaWr6hEpaz8W7W7mnI=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71732502/akrales_170407_1569_0477.0.0.jpg" />
@@ -39,7 +37,6 @@
  - [https://www.theverge.com/23502068/disney-plus-basic-ads-price-worth-it-netflix](https://www.theverge.com/23502068/disney-plus-basic-ads-price-worth-it-netflix)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 22:08:41+00:00
- - tags: None
 
 <figure>
       <img alt="A colorful graphical illustration of the Disney Plus logo." src="https://cdn.vox-cdn.com/thumbor/HkVkt0PYj47VfD3aBBzy_udct6g=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71732445/acastro_STK080_disneyPlus_02.0.jpg" />
@@ -56,7 +53,6 @@
  - [https://www.theverge.com/23502151/ups-usps-fedex-amazon-walmart-best-buy-target-shipping-deadlines](https://www.theverge.com/23502151/ups-usps-fedex-amazon-walmart-best-buy-target-shipping-deadlines)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 21:50:34+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/BM8bIIihgcngAUnUaN8j3M88Zjo=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71732360/226415_Noc_Design_Black_Friday_surf.0.jpg" />
@@ -77,7 +73,6 @@
  - [https://www.theverge.com/2022/12/9/23502173/sam-bankman-fried-the-block-loans-journalism](https://www.theverge.com/2022/12/9/23502173/sam-bankman-fried-the-block-loans-journalism)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 21:12:38+00:00
- - tags: None
 
 <figure>
       <img alt="Gold coins on a red background." src="https://cdn.vox-cdn.com/thumbor/CKzPi1BLijkWfa86gRn8bqgXKI4=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71732164/acastro_220524_STK428_0001.0.jpg" />
@@ -100,7 +95,6 @@
  - [https://www.theverge.com/2022/12/9/23502193/ftx-alameda-binance-kraken-tether-exchange-texts](https://www.theverge.com/2022/12/9/23502193/ftx-alameda-binance-kraken-tether-exchange-texts)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 20:57:28+00:00
- - tags: None
 
 <figure>
       <img alt="A coin is set aflame to reveal a digital wireframe underneath." src="https://cdn.vox-cdn.com/thumbor/YBa7u8zzeIbVivsR8B3yJyjIRxw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71732073/acastro_220524_STK428_0002.0.jpg" />
@@ -117,7 +111,6 @@
  - [https://www.theverge.com/2022/12/9/23500838/apple-csam-plans-dropped-eff-ncmec-cdt-reactions](https://www.theverge.com/2022/12/9/23500838/apple-csam-plans-dropped-eff-ncmec-cdt-reactions)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 20:38:26+00:00
- - tags: None
 
 <figure>
       <img alt="Illustration featuring a pattern of Apple logos" src="https://cdn.vox-cdn.com/thumbor/fCmzI2zMJlNXwIDdM9LLIKWgOKg=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71731970/acastro_180604_1777_apple_wwdc_0002.0.jpg" />
@@ -134,7 +127,6 @@
  - [https://www.theverge.com/23283824/best-instant-photo-printer-polaroid-fujifilm-canon-hp](https://www.theverge.com/23283824/best-instant-photo-printer-polaroid-fujifilm-canon-hp)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 20:22:27+00:00
- - tags: None
 
 <figure>
       <img alt="Printers from Canon, Polaroid, Fujifilm, Kodak, and HP on a backdrop of instant prints." src="https://cdn.vox-cdn.com/thumbor/IJ9XN8suvTS2Yp8LfiaDZkv_Vvo=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71192792/zenfone_9__14.0.jpg" />
@@ -151,7 +143,6 @@
  - [https://www.theverge.com/2022/12/9/23502062/forspoken-demo-square-enix-luminous-productions](https://www.theverge.com/2022/12/9/23502062/forspoken-demo-square-enix-luminous-productions)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 20:13:19+00:00
- - tags: None
 
 <figure>
       <img alt="Screenshot from Forspoken featuring the protagonist Frey casting a magical spell with her hands outstretched in front of her." src="https://cdn.vox-cdn.com/thumbor/RtemGs-Tg_NRbfmnF0flMgt3gYI=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71731865/frey.0.png" />
@@ -168,7 +159,6 @@
  - [https://www.theverge.com/2022/12/9/23501809/chrome-passkey-password-free-stable-m108](https://www.theverge.com/2022/12/9/23501809/chrome-passkey-password-free-stable-m108)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 19:12:54+00:00
- - tags: None
 
 <figure>
       <img alt="The Tribank.us website is open in Chrome and has a pop-up asking to sign in with passkey via USB or other." src="https://cdn.vox-cdn.com/thumbor/AeGPudPwArSy54UTTwPZnHMTKpc=/0x0:1957x1305/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71731562/Screen_Shot_2022_12_09_at_12.03.08_PM.0.jpeg" />
@@ -198,7 +188,6 @@
  - [https://www.theverge.com/2022/12/9/23501880/crew-selection-dear-moon-spacex-maezawa](https://www.theverge.com/2022/12/9/23501880/crew-selection-dear-moon-spacex-maezawa)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 18:52:56+00:00
- - tags: None
 
 <figure>
       <img alt="A photo illustration of the dearMoon crew and two alternates. There are six people on the top and five on the bottom. The Moon is in the background, and the words ‘dearMoon CREW’ are written across the image in white." src="https://cdn.vox-cdn.com/thumbor/q9jp1tvuJlgS81KvTH-fQVuvFxE=/0x410:1230x1230/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71731462/Key_Visual_Square.0.jpg" />
@@ -216,7 +205,6 @@
  - [https://www.theverge.com/2022/12/9/23501906/chevy-hybrid-corvette-leak-electrified](https://www.theverge.com/2022/12/9/23501906/chevy-hybrid-corvette-leak-electrified)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 18:24:08+00:00
- - tags: None
 
 <figure>
       <img alt="Image of a sports car in the snow." src="https://cdn.vox-cdn.com/thumbor/Ra5Rh4IVBvbjg0X33itOx5PWnsM=/246x0:2634x1592/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71731329/Screenshot_2022_12_09_at_09.53.22.0.png" />
@@ -233,7 +221,6 @@
  - [https://www.theverge.com/2022/12/9/23501665/jetblue-carbon-offsets-sustainable-aviation-fuel](https://www.theverge.com/2022/12/9/23501665/jetblue-carbon-offsets-sustainable-aviation-fuel)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 18:01:04+00:00
- - tags: None
 
 <figure>
       <img alt="A plane flies low with a city skyline in the background" src="https://cdn.vox-cdn.com/thumbor/7j_u55mRR4j5JG3EwMK5JwzzPKs=/0x0:4486x2991/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71731234/1243270296.0.jpg" />
@@ -252,7 +239,6 @@
  - [https://www.theverge.com/2022/12/9/23501777/playstation-vr2-psvr2-preorders-available-invitation](https://www.theverge.com/2022/12/9/23501777/playstation-vr2-psvr2-preorders-available-invitation)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 17:15:57+00:00
- - tags: None
 
 <figure>
       <img alt="The PSVR2 headset on a table." src="https://cdn.vox-cdn.com/thumbor/Yyl42nc1xiRZ3Dv2e5JtmHPjVSA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71731029/1Z8A9123_Edit.0.jpg" />
@@ -270,7 +256,6 @@
  - [https://www.theverge.com/23500640/garmin-venu-sq-2-review-smartwatch-fitness-tracker](https://www.theverge.com/23500640/garmin-venu-sq-2-review-smartwatch-fitness-tracker)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 15:00:00+00:00
- - tags: None
 
 <p>Garmin’s getting the hang of what casual users like in a fitness watch. Now if it would only declutter its app.</p>
   <p>
@@ -281,7 +266,6 @@
  - [https://www.theverge.com/2022/12/9/23501523/portal-valve-pc-rtx-magic-keyboard-ipad-pro-air-paramount-plus-deal-sale](https://www.theverge.com/2022/12/9/23501523/portal-valve-pc-rtx-magic-keyboard-ipad-pro-air-paramount-plus-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 14:59:24+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot showing the new ray-tracing effects added in a free patch to the video game Portal on PC." src="https://cdn.vox-cdn.com/thumbor/aW3yGZAEPy7uoig4Ss5dBYPWOv0=/0x1:2030x1354/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71730328/portallead.0.jpg" />
@@ -297,7 +281,6 @@
  - [https://www.theverge.com/2022/12/9/23501585/lexus-manual-transmission-stick-shift-ev](https://www.theverge.com/2022/12/9/23501585/lexus-manual-transmission-stick-shift-ev)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 14:47:36+00:00
- - tags: None
 
 <figure>
       <img alt="Ferrari F40 manual" src="https://cdn.vox-cdn.com/thumbor/Gj3cmBPaDKbP_f3UnSa6BNoCrF8=/0x0:1200x800/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71730274/2023_Supra_A91_MT_MatteWhite_113.0.jpg" />
@@ -316,7 +299,6 @@
  - [https://www.theverge.com/2022/12/9/23500029/fortnite-chapter-4-unreal-engine-ue5-graphics-interview](https://www.theverge.com/2022/12/9/23500029/fortnite-chapter-4-unreal-engine-ue5-graphics-interview)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 14:02:08+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot from the video game Fortnite." src="https://cdn.vox-cdn.com/thumbor/TPi3vxiNso4VI3Yj4k0ujF7MetU=/125x0:1475x900/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71730160/UE_5.1_x_Fortnite___gameplay_still_1.0.png" />
@@ -333,7 +315,6 @@
  - [https://www.theverge.com/2022/12/9/23501326/wing-alphabet-remote-drone-command-centers](https://www.theverge.com/2022/12/9/23501326/wing-alphabet-remote-drone-command-centers)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 14:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Ten screens showing drone nest feeds and maps running the opensky app" src="https://cdn.vox-cdn.com/thumbor/7GYpYutjMTgs2qrhDK0IXLG7dVM=/0x0:5568x3712/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71730109/Wing_Remote_Operations_Center_1.0.jpg" />
@@ -351,7 +332,6 @@
  - [https://www.theverge.com/2022/12/9/23500458/uber-driver-attacks-police-cooperation](https://www.theverge.com/2022/12/9/23500458/uber-driver-attacks-police-cooperation)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 14:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/pQsZClJPWVT-njwSP3RAr9QzxU4=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71730106/226440_Lede_R_Tomas_Uber_Assault.0.jpg" />
@@ -368,7 +348,6 @@
  - [https://www.theverge.com/2022/12/9/23500793/ftx-sbf-sam-bankman-fried-collapse-alameda-research-house-committee-hearing](https://www.theverge.com/2022/12/9/23500793/ftx-sbf-sam-bankman-fried-collapse-alameda-research-house-committee-hearing)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 13:46:01+00:00
- - tags: None
 
 <figure>
       <img alt="FTX logo" src="https://cdn.vox-cdn.com/thumbor/A4Q6PfDYsrgPuikexMaFUxkS7DE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71730046/STK136_K_Radtke_FTX_02.0.jpg" />
@@ -386,7 +365,6 @@
  - [https://www.theverge.com/2022/12/9/23501450/dji-mini-3-drone-announcement-price-date](https://www.theverge.com/2022/12/9/23501450/dji-mini-3-drone-announcement-price-date)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 13:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="The DJI Mini 3 drone flying on the beach, with the sea in the background." src="https://cdn.vox-cdn.com/thumbor/4z71M6Eg4730skXx5wQH2au4kk8=/271x172:1801x1192/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71729856/DJI_Mini_3___Outdoor_KV_Standalone__in_air___camera_horizontal__2_of_5__1_.0.jpg" />
@@ -404,7 +382,6 @@
  - [https://www.theverge.com/2022/12/9/23501497/nothing-store-opening-announcement-london](https://www.theverge.com/2022/12/9/23501497/nothing-store-opening-announcement-london)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 12:50:37+00:00
- - tags: None
 
 <figure>
       <img alt="A photograph taken of the outside of the Nothing Store in Soho, London (UK)." src="https://cdn.vox-cdn.com/thumbor/w_1IpQ70qkNRlMu2IaEfNIa-Tac=/0x92:4999x3425/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71729850/_81C8607HR.0.jpg" />
@@ -425,7 +402,6 @@
  - [https://www.theverge.com/2022/12/8/23501261/game-awards-flute-guy-pedro-eustache](https://www.theverge.com/2022/12/8/23501261/game-awards-flute-guy-pedro-eustache)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 04:46:33+00:00
- - tags: None
 
 <figure>
       <img alt="Screenshot from The Game Awards brodcast featuring a man with curly hair playing an alto flute" src="https://cdn.vox-cdn.com/thumbor/MFn-8gIl6_atYtyRplLt8A48mz8=/117x0:1053x624/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71729250/FjgdlidXgAAanI9.0.jpeg" />
@@ -442,7 +418,6 @@
  - [https://www.theverge.com/2022/12/8/23498405/game-awards-2022-best-trailers-announcements](https://www.theverge.com/2022/12/8/23498405/game-awards-2022-best-trailers-announcements)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 04:17:31+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot of Death Stranding 2." src="https://cdn.vox-cdn.com/thumbor/GRWpIDbvFtLEMYx83-R2HRut6C8=/162x0:1854x1128/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71729209/Screen_Shot_2022_12_08_at_9.30.25_PM.0.png" />
@@ -459,7 +434,6 @@
  - [https://www.theverge.com/2022/12/8/23501255/fromsoftware-armored-core-vi-fires-of-rubicon-trailer-2023](https://www.theverge.com/2022/12/8/23501255/fromsoftware-armored-core-vi-fires-of-rubicon-trailer-2023)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 04:09:21+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot from Armored Core VI: Fires of Rubicon." src="https://cdn.vox-cdn.com/thumbor/h5bbHMbnLaSK36ePq89KkB_nKao=/0x0:2160x1440/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71729189/ARMORED_CORE_VI_FIRES_OF_RUBICON___Reveal_Trailer_1_25_screenshot.0.png" />
@@ -481,7 +455,6 @@
  - [https://www.theverge.com/2022/12/8/23500292/final-fantasy-16-trailer-the-game-awards](https://www.theverge.com/2022/12/8/23500292/final-fantasy-16-trailer-the-game-awards)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 03:56:25+00:00
- - tags: None
 
 <figure>
       <img alt="Image of Final Fantasy XVI protagonist Clive Rosefield standing in front of a background of flames" src="https://cdn.vox-cdn.com/thumbor/ZR2HtwbGNxqB9TDck-HMAl31v4k=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71729164/ffxviclive.0.png" />
@@ -499,7 +472,6 @@
  - [https://www.theverge.com/2022/12/8/23501090/cyberpunk-2077-phantom-liberty-idris-elba-solomon-reed-cast](https://www.theverge.com/2022/12/8/23501090/cyberpunk-2077-phantom-liberty-idris-elba-solomon-reed-cast)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 03:51:06+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot of Idris Elba in Cyberpunk 2077: Phantom Liberty." src="https://cdn.vox-cdn.com/thumbor/64YnNBwVhJ2YhDq77tF6l7Sg8no=/191x0:1717x1017/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71729145/Cyberpunk_2077__Phantom_Liberty___Official_Teaser__2_1_11_screenshot.0.png" />
@@ -521,7 +493,6 @@
  - [https://www.theverge.com/2022/12/8/23500825/super-mario-bros-movie-toad-clip-game-awards-2022](https://www.theverge.com/2022/12/8/23500825/super-mario-bros-movie-toad-clip-game-awards-2022)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 03:14:54+00:00
- - tags: None
 
 <figure>
       <img alt="A poster for the Super Mario Bros. movie." src="https://cdn.vox-cdn.com/thumbor/WBToxYNTPKxl7CgDc0DLMLddwKI=/0x618:1080x1338/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71729080/FeOpvRIX0AA8YtJ.0.jpg" />
@@ -541,7 +512,6 @@
  - [https://www.theverge.com/2022/12/8/23498519/amazon-blue-protocol-bandai-namco-trailer-release-date-ps5-xbox](https://www.theverge.com/2022/12/8/23498519/amazon-blue-protocol-bandai-namco-trailer-release-date-ps5-xbox)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 02:56:59+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot of the video game Blue Protocol." src="https://cdn.vox-cdn.com/thumbor/UGg6pV2T6v4UhSA8LKaWzR05mv4=/300x0:3540x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71729060/BlueProtocol_PressKit_Cinematic_Act1_Tyris_Aeryn.0.png" />
@@ -559,7 +529,6 @@
  - [https://www.theverge.com/2022/12/8/23499237/horizon-forbidden-west-burning-shores-expansion-dlc-the-game-awards](https://www.theverge.com/2022/12/8/23499237/horizon-forbidden-west-burning-shores-expansion-dlc-the-game-awards)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 02:53:53+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot from the trailer for Horizon Forbidden West: Burning Shores" src="https://cdn.vox-cdn.com/thumbor/LW5GFTlPiqDaB_bbGeoGHOOeJLs=/200x0:2360x1440/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71729059/THE_GAME_AWARDS_2022__Official_4K_Livestream__Today_at_7_30p_ET_4_30p_PT_12_30a_GMT_2_42_43_screenshot.0.png" />
@@ -576,7 +545,6 @@
  - [https://www.theverge.com/2022/12/8/23500773/diablo-iv-release-date-the-game-awards-2022](https://www.theverge.com/2022/12/8/23500773/diablo-iv-release-date-the-game-awards-2022)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 02:47:20+00:00
- - tags: None
 
 <figure>
       <img alt="Screenshot from Diablo IV featuring a close up on the face of the demonic monster Lilith" src="https://cdn.vox-cdn.com/thumbor/BIIQn0s1sN9oiJcGRlLW3qeLHxQ=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71729041/lilith.0.png" />
@@ -593,7 +561,6 @@
  - [https://www.theverge.com/2022/12/8/23501107/kevin-conroy-final-performance-suicide-squd-kill-the-justice-league](https://www.theverge.com/2022/12/8/23501107/kevin-conroy-final-performance-suicide-squd-kill-the-justice-league)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 02:33:29+00:00
- - tags: None
 
 <figure>
       <img alt="Batman Arkham City screenshot" src="https://cdn.vox-cdn.com/thumbor/5HWJi-TD9WgUwNs8q7sfLZi7iqs=/86x0:1015x619/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71729008/156_ArkhamCity-308.0.jpg" />
@@ -609,7 +576,6 @@
  - [https://www.theverge.com/2022/12/8/23500703/the-game-awards-2022-announcements-trailers](https://www.theverge.com/2022/12/8/23500703/the-game-awards-2022-announcements-trailers)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 02:16:10+00:00
- - tags: None
 
 <figure>
       <img alt="The Game Awards 2021 - Show" src="https://cdn.vox-cdn.com/thumbor/R2SHLs7Ap10QsWv4NNr0HkjGsqs=/0x0:3926x2617/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71728857/1358178159.0.jpg" />
@@ -625,7 +591,6 @@
  - [https://www.theverge.com/2022/12/8/23498369/death-stranding-2-kojima-game-awards](https://www.theverge.com/2022/12/8/23498369/death-stranding-2-kojima-game-awards)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 02:15:51+00:00
- - tags: None
 
 <figure>
       <img alt="Norman Reedus in Death Stranding 2." src="https://cdn.vox-cdn.com/thumbor/wqC6tMx3eDYGDo8zEwG_6frr2nM=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71728960/the_game_awards_2022__official_4k_livestream__today_at_7_30p_et_4_30p_pt_12_30a_gmt_2_1_57_screenshot.0.png" />
@@ -644,7 +609,6 @@
  - [https://www.theverge.com/2022/12/8/23498369/death-stranding-2-kojima-game-awards-ps5](https://www.theverge.com/2022/12/8/23498369/death-stranding-2-kojima-game-awards-ps5)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 02:15:51+00:00
- - tags: None
 
 <figure>
       <img alt="Norman Reedus in Death Stranding 2." src="https://cdn.vox-cdn.com/thumbor/wqC6tMx3eDYGDo8zEwG_6frr2nM=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71728960/the_game_awards_2022__official_4k_livestream__today_at_7_30p_et_4_30p_pt_12_30a_gmt_2_1_57_screenshot.0.png" />
@@ -661,7 +625,6 @@
  - [https://www.theverge.com/2022/12/8/23500114/earthblade-trailer-extremely-ok-games-the-game-awards-2022](https://www.theverge.com/2022/12/8/23500114/earthblade-trailer-extremely-ok-games-the-game-awards-2022)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 02:10:27+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot from Earthblade." src="https://cdn.vox-cdn.com/thumbor/L27wZTX29kPyIsLnxUcF0VfVhI8=/300x0:3540x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71728945/c578c8eb_de08_680d_9f83_71efe32f3f43.0.png" />
@@ -685,7 +648,6 @@
  - [https://www.theverge.com/2022/12/8/23495559/star-wars-jedi-survivor-release-date-trailer-the-game-awards](https://www.theverge.com/2022/12/8/23495559/star-wars-jedi-survivor-release-date-trailer-the-game-awards)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 01:58:13+00:00
- - tags: None
 
 <figure>
       <img alt="Cal Kestis and BD-1 in a promotional image for Star Wars Jedi: Survivor." src="https://cdn.vox-cdn.com/thumbor/396oBZmZo1-PSGlFj_1q0TU3vM4=/0x0:1080x720/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71728911/Star_Wars_Jedi_Survivor_Key_Art___1080x1080.0.jpg" />
@@ -702,7 +664,6 @@
  - [https://www.theverge.com/2022/12/8/23500958/street-fighter-6-debuts-a-release-date-and-new-characters](https://www.theverge.com/2022/12/8/23500958/street-fighter-6-debuts-a-release-date-and-new-characters)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 01:45:53+00:00
- - tags: None
 
 <figure>
       <img alt="Image of new Street Fighter 6 character Kimberly, a colorful African-American girl with extremely long braids dressed in yoga pants, a cut off sweatshirt and hi-top sneakers reminiscent of 80s fashion" src="https://cdn.vox-cdn.com/thumbor/DGzfhOd9KWWSFGraYr6w426jYJ8=/92x0:1712x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71728889/kimberly_ss01.0.jpeg" />
@@ -720,7 +681,6 @@
  - [https://www.theverge.com/2022/12/8/23501077/judas-ghost-story-games-bioshock](https://www.theverge.com/2022/12/8/23501077/judas-ghost-story-games-bioshock)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 01:37:15+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot from the video game Judas." src="https://cdn.vox-cdn.com/thumbor/4GN1cOD6mENkFeLXf_2WrJcNCZU=/238x0:1903x1110/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71728867/Screen_Shot_2022_12_08_at_8.29.27_PM.0.png" />
@@ -738,7 +698,6 @@
  - [https://www.theverge.com/2022/12/8/23501003/hades-ii-2-direct-sequel-supergiant-games-the-game-awards-early-access](https://www.theverge.com/2022/12/8/23501003/hades-ii-2-direct-sequel-supergiant-games-the-game-awards-early-access)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 01:30:06+00:00
- - tags: None
 
 <figure>
       <img alt="A screenshot from the first trailer for Hades II." src="https://cdn.vox-cdn.com/thumbor/OSaAflnblho9q3ipEG42fRUW8G4=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71728853/THE_GAME_AWARDS_2022__Official_4K_Livestream__Today_at_7_30p_ET_4_30p_PT_12_30a_GMT_1_16_7_screenshot.0.png" />
@@ -758,7 +717,6 @@
  - [https://www.theverge.com/2022/12/8/23501012/epic-no-plans-vr-fortnite-meta](https://www.theverge.com/2022/12/8/23501012/epic-no-plans-vr-fortnite-meta)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 01:26:14+00:00
- - tags: None
 
 <figure>
       <img alt="Tapping on the side of the Meta Quest 2 virtual reality headset to turn on passthrough mode." src="https://cdn.vox-cdn.com/thumbor/z826uKpuYzcCJNlj_SLi4DTykgY=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71728838/passthroughmode.0.jpg" />
@@ -775,7 +733,6 @@
  - [https://www.theverge.com/2022/12/8/23499280/among-us-hide-n-seek-mode-game-awards-2022](https://www.theverge.com/2022/12/8/23499280/among-us-hide-n-seek-mode-game-awards-2022)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 01:02:02+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/uLF2H9wFL2_pnKTIxRcBm6wWVrU=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71728805/amongus.0.jpeg" />
@@ -797,7 +754,6 @@
  - [https://www.theverge.com/2022/12/8/23500829/everything-everywhere-all-at-once-fandom-best-movie-daniel-kwon](https://www.theverge.com/2022/12/8/23500829/everything-everywhere-all-at-once-fandom-best-movie-daniel-kwon)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-09 00:10:36+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/MEyo5BbwW3K_oNMxArZBl3oP4yA=/293x0:2138x1230/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71728588/FjeD_sYUYAAHq_o__1_.0.jpg" />

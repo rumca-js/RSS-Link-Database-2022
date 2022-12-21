@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup
+# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
 
 ## Best PC Games 2022
  - [https://www.gamespot.com/videos/best-pc-games-2022/2300-6460269/](https://www.gamespot.com/videos/best-pc-games-2022/2300-6460269/)

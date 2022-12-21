@@ -1,10 +1,9 @@
-# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml
+# Source The Wall Street Journal, Source URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, Source language: en-US
 
 ## Argentine Court Sentences Vice President Cristina Kirchner to Six Years in Prison
  - [https://www.wsj.com/articles/argentine-court-sentences-vice-president-cristina-kirchner-to-6-years-in-prison-11670361113](https://www.wsj.com/articles/argentine-court-sentences-vice-president-cristina-kirchner-to-6-years-in-prison-11670361113)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-06 23:40:00+00:00
- - tags: None
 
 A federal court convicted her of fraud charges and sentenced her to six years in prison for embezzling money through public-construction contracts.
 
@@ -12,7 +11,6 @@ A federal court convicted her of fraud charges and sentenced her to six years in
  - [https://www.wsj.com/articles/deadly-russian-shelling-of-kherson-neighborhoods-mars-joy-over-ukraines-return-11670347691](https://www.wsj.com/articles/deadly-russian-shelling-of-kherson-neighborhoods-mars-joy-over-ukraines-return-11670347691)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-06 17:28:00+00:00
- - tags: None
 
 Residents of the formerly occupied city are coping with the worst damage that the southern city has suffered since the war began.
 
@@ -20,7 +18,6 @@ Residents of the formerly occupied city are coping with the worst damage that th
  - [https://www.wsj.com/articles/iran-sentences-five-to-death-over-killing-of-paramilitary-member-11670342983](https://www.wsj.com/articles/iran-sentences-five-to-death-over-killing-of-paramilitary-member-11670342983)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-06 16:09:00+00:00
- - tags: None
 
 The unidentified defendants were convicted of involvement in the death of Ruhollah Ajamian, a member of the Basij paramilitary organization, who was killed last month.
 
@@ -28,7 +25,6 @@ The unidentified defendants were convicted of involvement in the death of Ruholl
  - [https://www.wsj.com/articles/as-israels-left-suffers-defeat-so-does-two-state-solution-11670335639](https://www.wsj.com/articles/as-israels-left-suffers-defeat-so-does-two-state-solution-11670335639)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-06 15:48:00+00:00
- - tags: None
 
 The ascendancy of ultranationalist and religious parties in Israel reflects a decline in support for a Jewish and Palestinian state side by side.
 
@@ -36,7 +32,6 @@ The ascendancy of ultranationalist and religious parties in Israel reflects a de
  - [https://www.wsj.com/articles/hungary-blocks-eu-plan-to-raise-over-18-billion-in-funding-for-ukraine-11670336365](https://www.wsj.com/articles/hungary-blocks-eu-plan-to-raise-over-18-billion-in-funding-for-ukraine-11670336365)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-06 15:37:00+00:00
- - tags: None
 
 EU finance ministers failed to agree on providing vital economic assistance for Ukraine next year, with Hungary stymying for now efforts to secure the loan through common EU debt issuance.
 
@@ -44,7 +39,6 @@ EU finance ministers failed to agree on providing vital economic assistance for 
  - [https://www.wsj.com/articles/russian-oligarch-seizes-400-000-acres-of-ukrainian-farmland-owners-say-11670338956](https://www.wsj.com/articles/russian-oligarch-seizes-400-000-acres-of-ukrainian-farmland-owners-say-11670338956)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-06 15:02:00+00:00
- - tags: None
 
 The family company of a Putin ally and former Russian agriculture minister has become one of the biggest farm operators in Ukraine.
 
@@ -52,7 +46,6 @@ The family company of a Putin ally and former Russian agriculture minister has b
  - [https://www.wsj.com/articles/high-debt-levels-could-pressure-developing-countries-as-global-economy-slows-11670336953](https://www.wsj.com/articles/high-debt-levels-could-pressure-developing-countries-as-global-economy-slows-11670336953)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-06 14:47:00+00:00
- - tags: None
 
 Developing countries have amassed high levels of debt that could be difficult to repay as the global economy slows and interest rates rise, the bank said.
 
@@ -60,7 +53,6 @@ Developing countries have amassed high levels of debt that could be difficult to
  - [https://www.wsj.com/articles/indonesia-bans-sex-outside-marriage-11670329285](https://www.wsj.com/articles/indonesia-bans-sex-outside-marriage-11670329285)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-06 13:43:00+00:00
- - tags: None
 
 Lawmakers appproved an overhaul of the criminal code empowering the state to punish people for offenses such as blasphemy and extramarital sex.
 
@@ -68,7 +60,6 @@ Lawmakers appproved an overhaul of the criminal code empowering the state to pun
  - [https://www.wsj.com/articles/moscow-says-ukrainian-drones-hit-third-russian-airfield-in-two-days-11670326132](https://www.wsj.com/articles/moscow-says-ukrainian-drones-hit-third-russian-airfield-in-two-days-11670326132)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-06 12:00:00+00:00
- - tags: None
 
 The attack on the Kursk airport, which was closed to civil aviation after Russia invaded Ukraine in February, followed Monday’s strikes on Russian strategic-bomber bases in Engels and Diagilevo.
 
@@ -76,7 +67,6 @@ The attack on the Kursk airport, which was closed to civil aviation after Russia
  - [https://www.wsj.com/articles/putin-grips-economy-tighter-to-supply-russian-war-machine-11670272548](https://www.wsj.com/articles/putin-grips-economy-tighter-to-supply-russian-war-machine-11670272548)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-06 10:30:00+00:00
- - tags: None
 
 Russia has commandeered private enterprise to keep the military armed in fight against Ukraine but faces labor and tech shortages.
 
@@ -84,7 +74,6 @@ Russia has commandeered private enterprise to keep the military armed in fight a
  - [https://www.wsj.com/articles/china-sends-off-late-leader-jiang-zemin-with-siren-blasts-somber-memorial-11670314029](https://www.wsj.com/articles/china-sends-off-late-leader-jiang-zemin-with-siren-blasts-somber-memorial-11670314029)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-06 08:07:00+00:00
- - tags: None
 
 Chinese authorities projected an air of national grief and unity as they tamped down rare dissent against the ruling Communist Party.
 
@@ -92,6 +81,5 @@ Chinese authorities projected an air of national grief and unity as they tamped 
  - [https://www.wsj.com/articles/u-s-eu-agree-to-coordinate-semiconductor-subsidy-programs-11670284917](https://www.wsj.com/articles/u-s-eu-agree-to-coordinate-semiconductor-subsidy-programs-11670284917)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-12-06 00:01:00+00:00
- - tags: None
 
 The two sides at a meeting make little progress over U.S. electric-car subsidies, an issue raised by the French president during his White House visit.

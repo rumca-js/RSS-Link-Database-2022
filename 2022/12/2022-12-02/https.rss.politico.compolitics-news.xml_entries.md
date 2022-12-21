@@ -1,10 +1,9 @@
-# Source Politico, Source URL:https://rss.politico.com/politics-news.xml
+# Source Politico, Source URL:https://rss.politico.com/politics-news.xml, Source language: en-US
 
 ## What happened when Biden and the Royals came to Boston
  - [https://www.politico.com/news/2022/12/02/biden-royals-boston-00072014](https://www.politico.com/news/2022/12/02/biden-royals-boston-00072014)
  - RSS feed: https://rss.politico.com/politics-news.xml
  - date published: 2022-12-02 21:00:09+00:00
- - tags: None
 
 Help Raphael Warnock from afar: Check. Earn some union credibility: Also check.
 
@@ -12,7 +11,6 @@ Help Raphael Warnock from afar: Check. Earn some union credibility: Also check.
  - [https://www.politico.com/video/2022/12/02/gop-lawmakers-respond-to-trumps-dinner-with-white-nationalist-fuentes-784765](https://www.politico.com/video/2022/12/02/gop-lawmakers-respond-to-trumps-dinner-with-white-nationalist-fuentes-784765)
  - RSS feed: https://rss.politico.com/politics-news.xml
  - date published: 2022-12-02 14:38:08+00:00
- - tags: None
 
 
 
@@ -20,7 +18,6 @@ Help Raphael Warnock from afar: Check. Earn some union credibility: Also check.
  - [https://www.politico.com/news/2022/12/02/michael-bennet-deep-dive-00071145](https://www.politico.com/news/2022/12/02/michael-bennet-deep-dive-00071145)
  - RSS feed: https://rss.politico.com/politics-news.xml
  - date published: 2022-12-02 05:34:17+00:00
- - tags: None
 
 Last month Sen. Michael Bennet [D-Colo.] won reelection over his Republican challenger, Joe O’Dea, resisting some of the trends Democrats have worried about in recent years.
 
@@ -28,6 +25,5 @@ Last month Sen. Michael Bennet [D-Colo.] won reelection over his Republican chal
  - [https://www.politico.com/gallery/2022/12/02/the-nations-cartoonists-on-the-week-in-politics-00071507](https://www.politico.com/gallery/2022/12/02/the-nations-cartoonists-on-the-week-in-politics-00071507)
  - RSS feed: https://rss.politico.com/politics-news.xml
  - date published: 2022-12-02 04:30:00+00:00
- - tags: None
 
 Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker.

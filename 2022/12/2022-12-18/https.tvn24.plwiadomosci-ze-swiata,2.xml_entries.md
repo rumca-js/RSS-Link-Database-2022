@@ -1,4 +1,4 @@
-# Source TVN24 Ze świata, Source URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml
+# Source TVN24 Ze świata, Source URL:https://tvn24.pl/wiadomosci-ze-swiata,2.xml, Source language: pl-PL
 
 ## Rosjanie przygotowują się do walk ulicznych w Melitopolu
  - [https://tvn24.pl/swiat/melitopol-w-centrum-okupowanego-miasta-powstaja-zeby-smoka-6529424?source=rss](https://tvn24.pl/swiat/melitopol-w-centrum-okupowanego-miasta-powstaja-zeby-smoka-6529424?source=rss)

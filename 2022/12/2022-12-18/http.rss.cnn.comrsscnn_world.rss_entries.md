@@ -1,4 +1,4 @@
-# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss
+# Source CNN World, Source URL:http://rss.cnn.com/rss/cnn_world.rss, Source language: en-US
 
 ## Fuel tanker tunnel fire kills at least 19 in Afghanistan
  - [https://www.cnn.com/2022/12/18/asia/afghanistan-fuel-tanker-tunnel-fire-intl/index.html](https://www.cnn.com/2022/12/18/asia/afghanistan-fuel-tanker-tunnel-fire-intl/index.html)
@@ -6,6 +6,13 @@
  - date published: 2022-12-18 14:26:02+00:00
 
 At least 19 people have been killed and 32 others were injured when a fuel tanker caught fire in a tunnel north of the Afghan capital of Kabul, a local official said Sunday.
+
+## Move over Airpods: These headphones are having a moment
+ - [https://www.cnn.com/2022/12/18/tech/headphones-design/index.html](https://www.cnn.com/2022/12/18/tech/headphones-design/index.html)
+ - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
+ - date published: 2022-12-18 13:55:42+00:00
+
+When Huawei recently teased a new smartwatch in a promotional video, it featured an unusual design: the watch face flipped open to reveal a secret compartment where a pair of magnetic earbuds sat inside charging.
 
 ## Mother of a stranded tourist in Peru hopes her daughter makes it home for Christmas, as hundreds grounded amid protests
  - [https://www.cnn.com/travel/article/peru-tourists-stranded-protest-panic/index.html](https://www.cnn.com/travel/article/peru-tourists-stranded-protest-panic/index.html)

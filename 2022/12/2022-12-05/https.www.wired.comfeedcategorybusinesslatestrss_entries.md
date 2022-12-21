@@ -1,10 +1,9 @@
-# Source Wired business, Source URL:https://www.wired.com/feed/category/business/latest/rss
+# Source Wired business, Source URL:https://www.wired.com/feed/category/business/latest/rss, Source language: en-US
 
 ## Elon Musk's Twitter Isn’t Ready for the Next Natural Disaster
  - [https://www.wired.com/story/elon-musks-twitter-isnt-ready-for-the-next-natural-disaster/](https://www.wired.com/story/elon-musks-twitter-isnt-ready-for-the-next-natural-disaster/)
  - RSS feed: https://www.wired.com/feed/category/business/latest/rss
  - date published: 2022-12-05 15:26:04+00:00
- - tags: None
 
 Emergency responders rely on the platform to share and collect lifesaving information. Looser moderation puts that in peril.
 
@@ -12,7 +11,6 @@ Emergency responders rely on the platform to share and collect lifesaving inform
  - [https://www.wired.com/story/twitter-alternatives-linkedin/](https://www.wired.com/story/twitter-alternatives-linkedin/)
  - RSS feed: https://www.wired.com/feed/category/business/latest/rss
  - date published: 2022-12-05 12:00:00+00:00
- - tags: None
 
 In a fragmented online world, the professional social network is finding mass appeal.
 
@@ -20,6 +18,5 @@ In a fragmented online world, the professional social network is finding mass ap
  - [https://www.wired.com/story/tesla-vacancies-staff-shortage-berlin/](https://www.wired.com/story/tesla-vacancies-staff-shortage-berlin/)
  - RSS feed: https://www.wired.com/feed/category/business/latest/rss
  - date published: 2022-12-05 12:00:00+00:00
- - tags: None
 
 The company’s staffing problems have been magnified in Germany, where it is unable to meet targets as more workers head for the exit.

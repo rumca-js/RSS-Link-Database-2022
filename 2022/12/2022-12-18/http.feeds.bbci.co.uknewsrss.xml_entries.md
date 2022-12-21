@@ -1,4 +1,4 @@
-# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml
+# Source BBC, Source URL:http://feeds.bbci.co.uk/news/rss.xml, Source language: en-US
 
 ## Battery lights vs mains LED bulbs: What's cheaper?
  - [https://www.bbc.co.uk/news/business-63910430?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63910430?at_medium=RSS&at_campaign=KARANGA)
@@ -69,6 +69,13 @@ The party has only just started in Buenos Aires, but in Paris the crowds have al
  - date published: 2022-12-18 20:30:19+00:00
 
 How Argentina great Lionel Messi lifting the famous trophy was an iconic moment that will live forever in World Cup history and Middle East imagery.
+
+## World Cup 2022: How Emiliano Martinez's mind games helped Argentina win shootout
+ - [https://www.bbc.co.uk/sport/av/football/64021182?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/64021182?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-18 20:21:48+00:00
+
+Alan Shearer and Rio Ferdinand look at the antics of Argentina goalkeeper Emiliano Martinez after he made two saves during their World Cup final penalty shootout victory over France.
 
 ## World Cup final: Was 'phenomenal' final the best ever? BBC pundits debate
  - [https://www.bbc.co.uk/sport/av/football/64020744?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/64020744?at_medium=RSS&at_campaign=KARANGA)
@@ -181,6 +188,13 @@ Kylian Mbappe's 80th-minute penalty gives France hope of a late comeback against
  - date published: 2022-12-18 16:39:48+00:00
 
 Rate the players as Argentina play France in the World Cup final in Qatar.
+
+## Man dies in kayaking incident in Thailand
+ - [https://www.bbc.co.uk/news/uk-northern-ireland-64018562?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-northern-ireland-64018562?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-18 16:32:16+00:00
+
+Odhran O'Neill from Lurgan was last seen on Saturday after his kayak capsized.
 
 ## Salang tunnel: 19 killed, dozens injured in fire
  - [https://www.bbc.co.uk/news/world-asia-64019570?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-64019570?at_medium=RSS&at_campaign=KARANGA)

@@ -1,10 +1,9 @@
-# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml
+# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
 
 ## Ocasio-Cortez Responds To Being Under Congressional Investigation
  - [https://www.dailywire.com/news/ocasio-cortez-responds-to-being-under-congressional-investigation](https://www.dailywire.com/news/ocasio-cortez-responds-to-being-under-congressional-investigation)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 22:43:06+00:00
- - tags: None
 
 Rep. Alexandria Ocasio-Cortez (D-NY) responded Wednesday evening to the news that she is under congressional investigation by claiming that she takes ethics &#8220;incredibly seriously.&#8221; “The Congresswoman has always taken ethics incredibly seriously, refusing any donations from lobbyists, corporations, or other special interests,&#8221; Ocasio-Cortez&#8217;s office claimed in a statement. “We are confident that this matter will ...
 
@@ -12,7 +11,6 @@ Rep. Alexandria Ocasio-Cortez (D-NY) responded Wednesday evening to the news tha
  - [https://www.dailywire.com/news/notre-dame-university-president-disavows-professors-who-promoted-abortion-in-major-newspaper](https://www.dailywire.com/news/notre-dame-university-president-disavows-professors-who-promoted-abortion-in-major-newspaper)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 22:24:53+00:00
- - tags: None
 
 The president of Notre Dame University disavowed two professors after they pushed pro-abortion messaging in a major newspaper. Writing in the Chicago Tribune, Notre Dame professors Tamara Kay and Susan Ostermann defended abortion by attempting to debunk three “lies” told by pro-life advocates and policymakers. The two professors made spurious claims about abortion while leveling accusations ...
 
@@ -20,7 +18,6 @@ The president of Notre Dame University disavowed two professors after they pushe
  - [https://www.dailywire.com/news/oregon-judge-freezes-gun-control-law-over-questions-about-fundamental-constitutional-rights](https://www.dailywire.com/news/oregon-judge-freezes-gun-control-law-over-questions-about-fundamental-constitutional-rights)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 22:00:16+00:00
- - tags: None
 
 A state judge has stopped a new Oregon law from taking effect that would create new barriers to purchasing firearms and ban the sale of any magazine larger than a 10-bullet clip. Harney County Judge Robert Raschio issued a temporary restraining order over Measure 114, a ballot measure passed last month that places new restrictions ...
 
@@ -28,7 +25,6 @@ A state judge has stopped a new Oregon law from taking effect that would create 
  - [https://www.dailywire.com/news/federal-prosecutors-open-criminal-investigation-into-disgraced-ftx-founder-sam-bankman-fried-report-says](https://www.dailywire.com/news/federal-prosecutors-open-criminal-investigation-into-disgraced-ftx-founder-sam-bankman-fried-report-says)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 21:49:10+00:00
- - tags: None
 
 U.S. prosecutors have reportedly opened a criminal investigation into whether disgraced FTX founder Sam Bankman-Fried, a prolific Democrat, committed financial crimes that led to the collapse of the company last month. The New York Times reported that the investigation is centered around examining if Bankman-Fried &#8220;steered the prices of two interlinked currencies, TerraUSD and Luna, ...
 
@@ -44,7 +40,6 @@ A Northern California city college launched a &#8220;full investigation&#8221; o
  - [https://www.dailywire.com/news/i-needed-support-and-attention-former-greys-anatomy-writer-admits-she-lied-about-having-cancer](https://www.dailywire.com/news/i-needed-support-and-attention-former-greys-anatomy-writer-admits-she-lied-about-having-cancer)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 20:41:17+00:00
- - tags: None
 
 Elisabeth Finch, a former screenwriter and producer for the hit television drama &#8220;Grey&#8217;s Anatomy,&#8221; admitted after months of investigation that she had fabricated claims that she had cancer and that her brother had committed suicide. Finch came clean in an interview with The Ankler months after several exposés prompted an investigation into her claims — ...
 
@@ -52,7 +47,6 @@ Elisabeth Finch, a former screenwriter and producer for the hit television drama
  - [https://www.dailywire.com/news/doj-russian-backed-ukrainian-oligarch-bought-two-california-condos-used-convoluted-scheme-to-get-around-u-s-sanctions](https://www.dailywire.com/news/doj-russian-backed-ukrainian-oligarch-bought-two-california-condos-used-convoluted-scheme-to-get-around-u-s-sanctions)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 20:14:31+00:00
- - tags: None
 
 A Russian-backed Ukrainian politician faces up to 30 years in prison for fraudulently buying property in California. Ukranian politician Andrii Derkach was charged with seven criminal counts in an indictment unsealed on Tuesday. Derkach was previously sanctioned for trying to influence the 2020 elections, law enforcement officials said in a press release. Derkach allegedly bought ...
 
@@ -60,7 +54,6 @@ A Russian-backed Ukrainian politician faces up to 30 years in prison for fraudul
  - [https://www.dailywire.com/news/whoopi-goldbergs-will-contains-bizarre-clause-about-future-biopics](https://www.dailywire.com/news/whoopi-goldbergs-will-contains-bizarre-clause-about-future-biopics)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 20:02:20+00:00
- - tags: None
 
 Whoopi Goldberg shared that her will contains a bizarre clause that will prevent any future unauthorized biopics being made after her death. During ABC&#8217;s talkshow &#8220;The View&#8221; on Tuesday, the cohosts were discussing the &#8220;backlash&#8221; against Andrew Dominik&#8217;s movie &#8220;Blonde&#8221; as a &#8220;gratuitous exploitation&#8221; of the late-Marilyn Monroe. Co-host Sunny Hostin then suggested people will be ...
 
@@ -68,7 +61,6 @@ Whoopi Goldberg shared that her will contains a bizarre clause that will prevent
  - [https://www.dailywire.com/news/lee-harvey-oswald-tied-to-cia-before-jfk-assassination-investigator-claims](https://www.dailywire.com/news/lee-harvey-oswald-tied-to-cia-before-jfk-assassination-investigator-claims)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 19:54:00+00:00
- - tags: None
 
 CIA documents indicate Lee Harvey Oswald was involved in a secret intelligence operation roughly three months before the assassination of President John F. Kennedy in 1963, an investigator claimed this week. Jefferson Morley, a journalist and author, made the assertion during a press conference in Washington, D.C., on Tuesday, less than two weeks before President ...
 
@@ -76,7 +68,6 @@ CIA documents indicate Lee Harvey Oswald was involved in a secret intelligence o
  - [https://www.dailywire.com/news/doj-ig-mismanagement-bureaucratic-incompetence-bad-policy-contributed-to-prison-murder-of-former-most-wanted-fugitive-whitey-bulger](https://www.dailywire.com/news/doj-ig-mismanagement-bureaucratic-incompetence-bad-policy-contributed-to-prison-murder-of-former-most-wanted-fugitive-whitey-bulger)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 19:21:37+00:00
- - tags: None
 
 Serious mismanagement, &#8220;bureaucratic incompetence,&#8221; and bad policy contributed to the death of a former FBI&#8217;s Most Wanted fugitive. According to a report from the Department of Justice Inspector General, the federal Bureau of Prisons grossly mishandled the transfer of former mob boss James &#8220;Whitey&#8221; Bulger from the Coleman federal prison in Florida to the Hazelton ...
 
@@ -84,7 +75,6 @@ Serious mismanagement, &#8220;bureaucratic incompetence,&#8221; and bad policy c
  - [https://www.dailywire.com/news/breaking-police-seek-occupants-of-newly-identified-vehicle-in-case-of-4-murdered-idaho-students](https://www.dailywire.com/news/breaking-police-seek-occupants-of-newly-identified-vehicle-in-case-of-4-murdered-idaho-students)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 19:03:20+00:00
- - tags: None
 
 Police in Moscow, Idaho, are searching for the occupant(s) of a newly identified vehicle that they say may have critical information about the murders of four college students last month at the University of Idaho. It’s been more than two weeks since Kaylee Goncalves, 21; Ethan Chapin, 20; Xana Kernodle, 20; and Madison Mogen, 21, ...
 
@@ -92,7 +82,6 @@ Police in Moscow, Idaho, are searching for the occupant(s) of a newly identified
  - [https://www.dailywire.com/news/fundamentally-changing-the-values-of-america-kirk-cameron-talks-public-libraries-refusing-to-host-him-for-story-hour-over-faith-based-childrens-book](https://www.dailywire.com/news/fundamentally-changing-the-values-of-america-kirk-cameron-talks-public-libraries-refusing-to-host-him-for-story-hour-over-faith-based-childrens-book)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 19:01:02+00:00
- - tags: None
 
 Actor Kirk Cameron spoke with The Daily Wire about how public libraries that have hosted &#8220;Drag Queen Story Hours&#8221; are refusing to host him for readings of his new faith-based children&#8217;s book &#8220;As You Grow.&#8221; The 52-year-old actor said that “As You Grow,” published by Brave Books, contains messages about &#8220;peace, love, joy, and kindness,&#8221; ...
 
@@ -100,7 +89,6 @@ Actor Kirk Cameron spoke with The Daily Wire about how public libraries that hav
  - [https://www.dailywire.com/news/candace-owens-scores-legal-victory-as-court-dismisses-onetime-house-candidate-klaciks-defamation-suit](https://www.dailywire.com/news/candace-owens-scores-legal-victory-as-court-dismisses-onetime-house-candidate-klaciks-defamation-suit)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 18:59:14+00:00
- - tags: None
 
 Onetime Republican congressional candidate Kimberly Klacik&#8217;s defamation suit against Candace Owens was dismissed and she was ordered to pay the Daily Wire star $115,000 in legal fees Wednesday, ending a nearly 18-month-long battle that played out on social media and in court. Klacik, who first made headlines in 2020 while running for a Baltimore-area House seat ...
 
@@ -108,7 +96,6 @@ Onetime Republican congressional candidate Kimberly Klacik&#8217;s defamation su
  - [https://www.dailywire.com/news/what-restaurant-names-and-grocery-carts-have-to-do-with-spiritual-aridity](https://www.dailywire.com/news/what-restaurant-names-and-grocery-carts-have-to-do-with-spiritual-aridity)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 18:30:51+00:00
- - tags: None
 
 What is your weird pet peeve? What is something minor that annoys you to no end? They often seem silly to others, but sometimes these &#8220;pet peeves&#8221; can highlight real problems in society. At least that&#8217;s the case with mine — poor restaurant names — as well as Daily Wire host Matt Walsh&#8217;s pet peeve of ...
 
@@ -116,7 +103,6 @@ What is your weird pet peeve? What is something minor that annoys you to no end?
  - [https://www.dailywire.com/news/geotracking-data-reveals-ngos-facilitated-released-more-than-30000-illegal-immigrants-nationwide](https://www.dailywire.com/news/geotracking-data-reveals-ngos-facilitated-released-more-than-30000-illegal-immigrants-nationwide)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 18:29:55+00:00
- - tags: None
 
 Non-governmental organization (NGO) facilities located along the southern border allegedly facilitated approximately 30,000 illegal immigrants before releasing them into mainly Republican districts nationwide under President Joe Biden&#8217;s open-border policies. The Heritage Foundation&#8217;s Oversight Project and Border Security and Immigration Center published a memo Monday claiming new data accumulated from the geotracked movement of the massive ...
 
@@ -124,7 +110,6 @@ Non-governmental organization (NGO) facilities located along the southern border
  - [https://www.dailywire.com/news/elon-musk-running-tesla-and-twitter-heading-to-mars-and-killing-monkeys](https://www.dailywire.com/news/elon-musk-running-tesla-and-twitter-heading-to-mars-and-killing-monkeys)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 18:16:21+00:00
- - tags: None
 
 How does he find the time? Multibillionaire Elon Musk is busy running the electric vehicle company Tesla, launching rockets into the cosmos via SpaceX as he aims to put a man on Mars, and now he&#8217;s the top twit on Twitter, tweeting his little heart out. But somehow he also oversees a bizarre program to ...
 
@@ -132,7 +117,6 @@ How does he find the time? Multibillionaire Elon Musk is busy running the electr
  - [https://www.dailywire.com/news/breaking-ex-theranos-exec-sunny-balwani-sentenced-to-nearly-13-years-in-prison](https://www.dailywire.com/news/breaking-ex-theranos-exec-sunny-balwani-sentenced-to-nearly-13-years-in-prison)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 17:55:41+00:00
- - tags: None
 
 Ramesh “Sunny” Balwani, 58, the former president of the fraudulent biotech company Theranos, was sentenced to nearly 13 years in prison on Wednesday for fraud. Prosecutors originally recommended Balwani receive at least 15 years in prison, which would be a longer sentence than what Elizabeth Holmes, the founder and face of Theranos, received in October, ...
 
@@ -140,7 +124,6 @@ Ramesh “Sunny” Balwani, 58, the former president of the fraudulent biotech c
  - [https://www.dailywire.com/news/congressional-committee-announces-investigation-into-ocasio-cortez](https://www.dailywire.com/news/congressional-committee-announces-investigation-into-ocasio-cortez)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 17:41:18+00:00
- - tags: None
 
 Rep. Alexandria Ocasio-Cortez (D-NY) is under congressional investigation, the House Ethics Committee announced in a statement Wednesday afternoon. &#8220;The Acting Chairwoman and Acting Ranking Member of the Committee on Ethics have jointly decided to extend the matter regarding Representative Alexandria Ocasio-Cortez, which was transmitted to the Committee by the Office of Congressional Ethics on June ...
 
@@ -148,7 +131,6 @@ Rep. Alexandria Ocasio-Cortez (D-NY) is under congressional investigation, the H
  - [https://www.dailywire.com/news/breaking-maxine-waters-not-planning-on-subpoenaing-sam-bankman-fried-to-testify-on-ftx-collapse-report](https://www.dailywire.com/news/breaking-maxine-waters-not-planning-on-subpoenaing-sam-bankman-fried-to-testify-on-ftx-collapse-report)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 17:38:55+00:00
- - tags: None
 
 House Financial Services Committee Chairwoman Rep. Maxine Waters (D-CA) is reportedly not planning to subpoena disgraced former FTX CEO Sam Bankman-Fried to testify in front of the committee next week about the company&#8217;s rapid collapse. CNBC reported citing sources that Waters informed members of her decision Tuesday during a private meeting with Securities and Exchange Commission ...
 
@@ -156,7 +138,6 @@ House Financial Services Committee Chairwoman Rep. Maxine Waters (D-CA) is repo
  - [https://www.dailywire.com/news/world-class-find-shipwreck-carrying-treasure-trove-of-artifacts-found-147-years-after-sinking](https://www.dailywire.com/news/world-class-find-shipwreck-carrying-treasure-trove-of-artifacts-found-147-years-after-sinking)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 17:10:09+00:00
- - tags: None
 
 A group of historical preservationists believe that they have discovered the wreck of a Gold Rush-era ship that went down off the coast of Washington which carried gold worth millions today.  The explorers believe that they have found the wreck of the SS Pacific, which sunk in November 1875 after a collision with another ship ...
 
@@ -164,7 +145,6 @@ A group of historical preservationists believe that they have discovered the wre
  - [https://www.dailywire.com/news/vanguard-drops-out-of-climate-initiative-as-reaction-against-woke-investing-continues](https://www.dailywire.com/news/vanguard-drops-out-of-climate-initiative-as-reaction-against-woke-investing-continues)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 17:06:55+00:00
- - tags: None
 
 Vanguard will no longer participate in the Net Zero Asset Managers initiative as lawmakers and the broader marketplace scrutinize the company’s support of the environmental, social, and governance movement, also known as ESG. Signatories of the Net Zero Asset Managers initiative promise to move portfolio companies closer to eliminating net carbon emissions by 2050 or ...
 
@@ -172,7 +152,6 @@ Vanguard will no longer participate in the Net Zero Asset Managers initiative as
  - [https://www.dailywire.com/news/wapo-claims-shark-week-has-too-many-men-named-mike-and-lacks-diversity-former-host-mike-rowe-responds](https://www.dailywire.com/news/wapo-claims-shark-week-has-too-many-men-named-mike-and-lacks-diversity-former-host-mike-rowe-responds)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 17:06:50+00:00
- - tags: None
 
 Former &#8220;Shark Week&#8221; host Mike Rowe had a few thoughts about a recent Washington Post article claiming that the Discovery Channel&#8217;s regular summer event &#8220;lacks diversity&#8221; and &#8220;overrepresents men named Mike.&#8221; Rowe, who hosted the annual week-long event in both 2006 and 2008, responded to the Post&#8217;s assertion by crowd-sourcing a response via social media. ...
 
@@ -180,7 +159,6 @@ Former &#8220;Shark Week&#8221; host Mike Rowe had a few thoughts about a recent
  - [https://www.dailywire.com/news/rocky-mountain-high-coach-prime-picks-colorado-as-he-continues-his-climb](https://www.dailywire.com/news/rocky-mountain-high-coach-prime-picks-colorado-as-he-continues-his-climb)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 17:00:12+00:00
- - tags: None
 
 The University of Colorado football program jumped right back into relevancy after announcing the hiring of former Jackson State head coach Deion Sanders. Coach Prime has already hit the ground running in recruiting and is building an elite staff as he attempts to turn the Colorado program around. While I think most of us agree ...
 
@@ -188,7 +166,6 @@ The University of Colorado football program jumped right back into relevancy aft
  - [https://www.dailywire.com/news/glenn-youngkin-seeks-to-reimburse-covid-19-violation-fines-in-virginia](https://www.dailywire.com/news/glenn-youngkin-seeks-to-reimburse-covid-19-violation-fines-in-virginia)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 16:27:49+00:00
- - tags: None
 
 Virginia Gov. Glenn Youngkin (R-VA) issued an executive order on Tuesday directing his state&#8217;s agencies to report fines and suspensions related to COVID. Youngkin announced he will end all future fines related to coronavirus restrictions in his budget plan later this month which will include a reimbursement process for those who paid &#8220;unjust&#8221; fees. “I ...
 
@@ -196,7 +173,6 @@ Virginia Gov. Glenn Youngkin (R-VA) issued an executive order on Tuesday directi
  - [https://www.dailywire.com/news/kate-walsh-talks-pro-abortion-storyline-on-greys-anatomy-season-19-its-really-important](https://www.dailywire.com/news/kate-walsh-talks-pro-abortion-storyline-on-greys-anatomy-season-19-its-really-important)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 16:10:31+00:00
- - tags: None
 
 Actress Kate Walsh was excited to explore the topic of abortion on the newest season of “Grey’s Anatomy,” she said during a recent interview.  The 55-year-old portrays Dr. Addison Montgomery on the popular NBC drama, though she hasn’t been part of the cast for every season. Walsh was also part of the spinoff series “Private ...
 
@@ -204,7 +180,6 @@ Actress Kate Walsh was excited to explore the topic of abortion on the newest se
  - [https://www.dailywire.com/news/hilarious-viral-video-shows-nba-legend-being-launched-into-a-christmas-tree](https://www.dailywire.com/news/hilarious-viral-video-shows-nba-legend-being-launched-into-a-christmas-tree)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 16:06:24+00:00
- - tags: None
 
 A hilarious video showing NBA legend Shaquille O&#8217;Neal being launched into a giant Christmas tree by one of the analysts on the set of &#8220;NBA on TNT&#8221; Tuesday night has gone viral. During the popular show, the 50-year-old former professional basketball star was sitting at the desk with other analysts Charles Barkley, Ernie Johnson, and Kenny ...
 
@@ -212,7 +187,6 @@ A hilarious video showing NBA legend Shaquille O&#8217;Neal being launched into 
  - [https://www.dailywire.com/news/barstool-star-and-fox-news-guest-caught-on-hot-mic-bashing-hosts-mocking-audience](https://www.dailywire.com/news/barstool-star-and-fox-news-guest-caught-on-hot-mic-bashing-hosts-mocking-audience)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 15:57:59+00:00
- - tags: None
 
 Barstool Sports personality Francis Ellis bashed Fox News hosts Jesse Watters and Tucker Carlson — and mocked the network&#8217;s audience as stupid — on a hot mic just days after making an appearance on Watters&#8217; show. Ellis, who hosts Barstool&#8217;s &#8220;Oops the Podcast,&#8221; may have created new fodder for his own show with the comments ...
 
@@ -220,7 +194,6 @@ Barstool Sports personality Francis Ellis bashed Fox News hosts Jesse Watters an
  - [https://www.dailywire.com/news/leftist-peruvian-president-impeached-after-vowing-to-dissolve-congress](https://www.dailywire.com/news/leftist-peruvian-president-impeached-after-vowing-to-dissolve-congress)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 15:54:07+00:00
- - tags: None
 
 Leftist Peru President Pedro Castillo was impeached on Wednesday after he attempted to dissolve Congress and install an alternative &#8220;exceptional emergency government.&#8221; The Congress refused to follow Castillo’s announcement of dissolution and instead held a vote to impeach him. Legislators voted 101 to 6, with 10 abstaining, to kick Castillo out of office due to ...
 
@@ -228,7 +201,6 @@ Leftist Peru President Pedro Castillo was impeached on Wednesday after he attemp
  - [https://www.dailywire.com/news/texas-city-votes-to-allow-restriction-of-books-for-minors-in-public-library](https://www.dailywire.com/news/texas-city-votes-to-allow-restriction-of-books-for-minors-in-public-library)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 15:50:02+00:00
- - tags: None
 
 A Houston-area city approved a resolution that seeks to restrict books with graphic content intended for minors in its public library. The City Council of League City, Texas, voted 4-3 on Tuesday to set up rules by which books and other materials could be banned if they are determined to have &#8220;obscenity or other harmful ...
 
@@ -236,7 +208,6 @@ A Houston-area city approved a resolution that seeks to restrict books with grap
  - [https://www.dailywire.com/news/sam-bankman-fried-was-a-fan-of-tay-tay-badly-wanted-her-to-sign-100-million-marketing-deal-with-ftx](https://www.dailywire.com/news/sam-bankman-fried-was-a-fan-of-tay-tay-badly-wanted-her-to-sign-100-million-marketing-deal-with-ftx)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 15:47:21+00:00
- - tags: None
 
 Former FTX CEO Sam Bankman-Fried accumulated an impressive number of high-profile celebrity brand ambassadors for his cryptocurrency empire, but he was especially dogged in his devotion to securing a nod from Taylor Swift. FTX filed for bankruptcy after users discovered that the company was likely intertwined with Alameda Research, a trading firm controlled by Bankman-Fried. ...
 
@@ -244,7 +215,6 @@ Former FTX CEO Sam Bankman-Fried accumulated an impressive number of high-profil
  - [https://www.dailywire.com/news/why-its-time-to-resist-any-new-mask-mandates-from-los-angeles-county-public-health-officials](https://www.dailywire.com/news/why-its-time-to-resist-any-new-mask-mandates-from-los-angeles-county-public-health-officials)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 15:19:17+00:00
- - tags: None
 
 For most Americans, and much of the world, COVID is a thing of the past. Even in mandate-obsessed Los Angeles, people are celebrating weddings, gathering for the holidays, attending large-scale sporting events and concerts, and doing their holiday shopping in busy shopping malls, while children are attending school, participating in music and sports — full-time, ...
 
@@ -252,7 +222,6 @@ For most Americans, and much of the world, COVID is a thing of the past. Even in
  - [https://www.dailywire.com/news/loudoun-school-board-fires-superintendent-who-lied-about-bathroom-rape](https://www.dailywire.com/news/loudoun-school-board-fires-superintendent-who-lied-about-bathroom-rape)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 15:13:01+00:00
- - tags: None
 
 The Loudoun County, Virginia school board voted unanimously to fire Superintendent Scott Ziegler late Tuesday night, fourteen months after The Daily Wire revealed that he lied about a bathroom rape while advocating for a transgender policy, and one day after a special grand jury corroborated its findings.
 
@@ -260,7 +229,6 @@ The Loudoun County, Virginia school board voted unanimously to fire Superintende
  - [https://www.dailywire.com/news/quite-literally-youre-my-heart-ryan-reynolds-gushes-about-wife-and-daughters-during-icon-award-speech](https://www.dailywire.com/news/quite-literally-youre-my-heart-ryan-reynolds-gushes-about-wife-and-daughters-during-icon-award-speech)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 14:59:28+00:00
- - tags: None
 
 Actor Ryan Reynolds gushed about his wife Blake Lively and their three daughters during his acceptance speech at the 2022 People&#8217;s Choice Awards. The 46-year-old actor took home &#8220;The People&#8217;s Icon&#8221; award at the annual show Tuesday and said that while he jokes about how his immediate family &#8220;exhausts&#8221; him, they really are his &#8220;heart.&#8221; &#8220;To ...
 
@@ -268,7 +236,6 @@ Actor Ryan Reynolds gushed about his wife Blake Lively and their three daughters
  - [https://www.dailywire.com/news/newsom-moves-to-limit-oil-company-profits-in-energy-strapped-california](https://www.dailywire.com/news/newsom-moves-to-limit-oil-company-profits-in-energy-strapped-california)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 14:59:09+00:00
- - tags: None
 
 Democratic California Governor Gavin Newsom unveiled a “price gouging penalty” for oil companies this week as Golden State lawmakers assembled to deliberate energy policy. The proposal, introduced by State Sen. Nancy Skinner (D-CA), would compel oil companies to reduce their profits to avoid a civil penalty from the California Energy Commission. Neither a penalty size ...
 
@@ -276,7 +243,6 @@ Democratic California Governor Gavin Newsom unveiled a “price gouging penalty�
  - [https://www.dailywire.com/news/the-daily-wire-places-in-two-top-10-apple-podcast-charts-of-2022](https://www.dailywire.com/news/the-daily-wire-places-in-two-top-10-apple-podcast-charts-of-2022)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 14:55:20+00:00
- - tags: None
 
 The Daily Wire has placed in two Top 10 Apple Charts based on the listenership of leading podcast episodes, shows, channels, and subscriptions for 2022. According to new year-end charts released by the tech giant on Monday, &#8220;The Ben Shapiro Show&#8221; ranked number nine out of 20 in Apple&#8217;s Top Shows category, while The Daily ...
 
@@ -284,7 +250,6 @@ The Daily Wire has placed in two Top 10 Apple Charts based on the listenership o
  - [https://www.dailywire.com/news/he-cant-walk-on-all-the-water-all-the-time-whoopi-references-jesus-to-defend-bidens-absence-at-the-border](https://www.dailywire.com/news/he-cant-walk-on-all-the-water-all-the-time-whoopi-references-jesus-to-defend-bidens-absence-at-the-border)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 14:40:54+00:00
- - tags: None
 
 &#8220;The View&#8221; host Whoopi Goldberg referenced Jesus to defend President Joe Biden&#8217;s decision to not visit the border during a segment of Wednesday&#8217;s broadcast, complaining that all the good things Biden did were never enough for the people who just wanted to criticize him. Goldberg made the comparison during a conversation about the president&#8217;s recent ...
 
@@ -292,7 +257,6 @@ The Daily Wire has placed in two Top 10 Apple Charts based on the listenership o
  - [https://www.dailywire.com/news/jennifer-lawrence-claims-nobody-had-ever-put-a-woman-in-the-lead-of-an-action-movie-before-hunger-games-theres-just-one-problem-with-that](https://www.dailywire.com/news/jennifer-lawrence-claims-nobody-had-ever-put-a-woman-in-the-lead-of-an-action-movie-before-hunger-games-theres-just-one-problem-with-that)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 14:14:57+00:00
- - tags: None
 
 Jennifer Lawrence said that before &#8220;Hunger Games,&#8221; no one &#8220;had ever put a woman in the lead of an action movie.&#8221; But there&#8217;s just one problem with that. It&#8217;s not true. During Variety&#8217;s Actors on Actors interview, the 32-year-old actress claimed she was the first woman ever to be cast in the lead role of ...
 
@@ -300,7 +264,6 @@ Jennifer Lawrence said that before &#8220;Hunger Games,&#8221; no one &#8220;had
  - [https://www.dailywire.com/news/prince-harry-and-meghan-markle-given-award-for-heroic-stance-against-structural-racism-of-the-monarchy](https://www.dailywire.com/news/prince-harry-and-meghan-markle-given-award-for-heroic-stance-against-structural-racism-of-the-monarchy)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 13:28:29+00:00
- - tags: None
 
 Prince Harry and Meghan Markle were awarded the Robert F. Kennedy Ripple of Hope Award in New York City Tuesday night for their work on exposing “structural racism” in the British royal family. The couple attended the awards ceremony in Manhattan just ahead of their new docuseries, “Harry &amp; Meghan” premiering on Netflix on December ...
 
@@ -308,7 +271,6 @@ Prince Harry and Meghan Markle were awarded the Robert F. Kennedy Ripple of Hope
  - [https://www.dailywire.com/news/why-is-biden-pushing-a-gay-agenda-on-foreign-nations](https://www.dailywire.com/news/why-is-biden-pushing-a-gay-agenda-on-foreign-nations)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 13:19:59+00:00
- - tags: None
 
 President Joe Biden wants everyone in America to know he supports the LGBTQ community. And that&#8217;s fine. Don&#8217;t agree with him, don&#8217;t vote for him. But why is Biden pushing that same agenda on nations around the world? The U.S. government recently announced it would be sending its envoy for LGBTQ rights to Indonesia. Jessica ...
 
@@ -316,7 +278,6 @@ President Joe Biden wants everyone in America to know he supports the LGBTQ comm
  - [https://www.dailywire.com/news/our-messaging-does-not-align-dozens-of-public-libraries-reportedly-reject-kirk-cameron-story-hour-over-faith-based-book](https://www.dailywire.com/news/our-messaging-does-not-align-dozens-of-public-libraries-reportedly-reject-kirk-cameron-story-hour-over-faith-based-book)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 13:18:44+00:00
- - tags: None
 
 Actor Kirk Cameron — and a proposed story hour event promoting his latest faith-based book — have been rejected by 50 public libraries so far, publisher Brave Books says. According to a Fox News Digital report published early Wednesday morning, Cameron&#8217;s team reached out to dozens of public libraries in the hopes that some would ...
 
@@ -324,7 +285,6 @@ Actor Kirk Cameron — and a proposed story hour event promoting his latest fait
  - [https://www.dailywire.com/news/border-patrol-agent-killed-during-high-speed-chase-with-illegal-immigrants](https://www.dailywire.com/news/border-patrol-agent-killed-during-high-speed-chase-with-illegal-immigrants)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 13:04:28+00:00
- - tags: None
 
 A Border Patrol agent was killed in Texas on Wednesday when his ATV crashed during a high-speed pursuit of a group of illegal immigrants. U.S. Border Patrol has not yet confirmed the agent&#8217;s identity but noted that he was a father of two children. &#8220;On December 7, 2022, at approximately 1:00 am, a Border Patrol ...
 
@@ -332,7 +292,6 @@ A Border Patrol agent was killed in Texas on Wednesday when his ATV crashed duri
  - [https://www.dailywire.com/news/stunning-bravery-sister-of-iranian-supreme-leader-living-in-iran-condemns-despotic-government](https://www.dailywire.com/news/stunning-bravery-sister-of-iranian-supreme-leader-living-in-iran-condemns-despotic-government)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 12:44:10+00:00
- - tags: None
 
 In a stunning admission of the heinous nature of Iran’s despotic, tyrannical government, a sister of Iran&#8217;s Supreme Leader Ayatollah Ali Khamenei publicly condemned the government and urged their terrifying Revolutionary Guards to lay down their arms. Writing in a letter that was shared on her son&#8217;s Twitter account, Badri Hosseini Khamenei, who lives in ...
 
@@ -340,7 +299,6 @@ In a stunning admission of the heinous nature of Iran’s despotic, tyrannical g
  - [https://www.dailywire.com/news/stagflation-risk-more-concerning-than-an-outright-recession-investors-believe](https://www.dailywire.com/news/stagflation-risk-more-concerning-than-an-outright-recession-investors-believe)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 12:44:09+00:00
- - tags: None
 
 Institutional investors are more concerned with stagflation than a recession next year, according to a survey conducted by Natixis. The investment bank found that 65% of institutions see stagflation, which refers to economic stagnation combined with inflationary pressures, as a more significant threat than a recession. Rising price levels are still seen as the top ...
 
@@ -348,7 +306,6 @@ Institutional investors are more concerned with stagflation than a recession nex
  - [https://www.dailywire.com/news/a-decade-later-and-convicted-liar-casey-anthony-is-more-outrageous-than-ever](https://www.dailywire.com/news/a-decade-later-and-convicted-liar-casey-anthony-is-more-outrageous-than-ever)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 12:41:11+00:00
- - tags: None
 
 More than a decade after her acquittal, stories from convicted liar Casey Anthony are more outrageous than ever before. A jury back in 2011 shocked the nation when they acquitted Casey of first-degree murder in the case of her deceased daughter, 3-year-old Caylee Marie Anthony. While from the outside the case looked like a slam dunk against ...
 
@@ -356,7 +313,6 @@ More than a decade after her acquittal, stories from convicted liar Casey Antho
  - [https://www.dailywire.com/news/another-governor-bans-tiktok-from-state-devices](https://www.dailywire.com/news/another-governor-bans-tiktok-from-state-devices)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 12:29:39+00:00
- - tags: None
 
 Republican Maryland Governor Larry Hogan announced a ban of the Chinese-owned app TikTok from the state&#8217;s government devices Tuesday. The TikTok ban was included in an emergency cybersecurity directive aimed at multiple Chinese and Russian apps and products. “There may be no greater threat to our personal safety and our national security than the cyber ...
 
@@ -364,7 +320,6 @@ Republican Maryland Governor Larry Hogan announced a ban of the Chinese-owned ap
  - [https://www.dailywire.com/news/ukrainian-president-volodymyr-zelensky-named-times-person-of-the-year](https://www.dailywire.com/news/ukrainian-president-volodymyr-zelensky-named-times-person-of-the-year)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 12:13:06+00:00
- - tags: None
 
 Ukrainian President Volodymyr Zelensky has been named Time Magazine’s Person of the Year. After gaining international prominence in February as the Russian military invaded Ukraine, Zelensky has been revered among Western lawmakers as he leads the war-torn nation, which many officials initially predicted would succumb to its neighbor within the first weeks of the invasion. ...
 
@@ -372,7 +327,6 @@ Ukrainian President Volodymyr Zelensky has been named Time Magazine’s Person o
  - [https://www.dailywire.com/news/riotous-brawl-breaks-out-in-college-womens-basketball-game-after-hair-pull](https://www.dailywire.com/news/riotous-brawl-breaks-out-in-college-womens-basketball-game-after-hair-pull)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 11:57:52+00:00
- - tags: None
 
 A riotous brawl broke out at a major women’s college basketball game after one player grabbed a rival by the hair. The women’s basketball teams from Texas Christian University and George Washington University faced off Monday night, and in the second quarter, TCU&#8217;s 22-year-old senior Bella Cravens, 6’3”, leaped high in the air to grab ...
 
@@ -380,7 +334,6 @@ A riotous brawl broke out at a major women’s college basketball game after one
  - [https://www.dailywire.com/news/il-presidente-italys-first-female-prime-minister-is-no-feminist](https://www.dailywire.com/news/il-presidente-italys-first-female-prime-minister-is-no-feminist)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 11:50:13+00:00
- - tags: None
 
 Giorgia Meloni is the first Italian female Prime Minister.  The deeper meaning of this has not yet been fully grasped outside of Italy. Various international media have pointed out that Meloni won the elections leading a Right-wing party — and mentioning the Italian Right always evokes the smell of fascism. At least until today. Few, ...
 
@@ -388,7 +341,6 @@ Giorgia Meloni is the first Italian female Prime Minister.  The deeper meaning 
  - [https://www.dailywire.com/news/my-brain-was-misfiring-hollywood-actor-recalls-extreme-measures-he-took-to-get-ripped-for-a-movie](https://www.dailywire.com/news/my-brain-was-misfiring-hollywood-actor-recalls-extreme-measures-he-took-to-get-ripped-for-a-movie)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 11:38:25+00:00
- - tags: None
 
 Actor Brendan Fraser, who most recently donned a fat suit for his role in &#8220;The Whale,&#8221; revealed during a recent interview just how far he had gone in the past to physically prepare for a part in a movie. Fraser, speaking with actor and comedian Adam Sandler for Variety&#8217;s &#8220;Actors on Actors&#8221; series, said that ...
 
@@ -396,7 +348,6 @@ Actor Brendan Fraser, who most recently donned a fat suit for his role in &#8220
  - [https://www.dailywire.com/news/mindy-kaling-says-the-office-is-so-inappropriate-now-and-most-characters-would-be-canceled](https://www.dailywire.com/news/mindy-kaling-says-the-office-is-so-inappropriate-now-and-most-characters-would-be-canceled)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 11:25:09+00:00
- - tags: None
 
 “The Office” actress Mindy Kaling acknowledged that the popular NBC comedy couldn’t exist in today’s hyper-sensitive, politically correct culture and that most characters &#8220;would be canceled.” The 43-year-old, who played Kelly Kapoor on the series, made the remarks during an interview with “Good Morning America” last week.  “That show is so inappropriate now,” Kaling said. ...
 
@@ -404,7 +355,6 @@ Actor Brendan Fraser, who most recently donned a fat suit for his role in &#8220
  - [https://www.dailywire.com/news/texas-subpoenas-schedules-hearing-for-blackrock-playing-politics-using-texans-hard-earned-money](https://www.dailywire.com/news/texas-subpoenas-schedules-hearing-for-blackrock-playing-politics-using-texans-hard-earned-money)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 11:13:39+00:00
- - tags: None
 
 Lawmakers in Texas scheduled a hearing for next week with asset management companies over alleged mismanagement of taxpayer dollars driven by ideological motives. The Texas Senate Committee on State Affairs requested documents from BlackRock, Vanguard, State Street, and Institutional Shareholder Services relevant to the firms’ promotion of the environmental, social, and governance movement, also known ...
 
@@ -412,7 +362,6 @@ Lawmakers in Texas scheduled a hearing for next week with asset management compa
  - [https://www.dailywire.com/news/gabby-petitos-parents-sue-laundrie-family-lawyer-he-knew-she-was-dead](https://www.dailywire.com/news/gabby-petitos-parents-sue-laundrie-family-lawyer-he-knew-she-was-dead)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 11:03:45+00:00
- - tags: None
 
 The parents of Gabby Petito, who was allegedly murdered by her boyfriend, Brian Laundrie, are suing Steven Bertolino, the attorney of Laundrie’s parents, claiming he knew their daughter was dead when he publicly stated that the Laundrie family hoped “that the search for Miss Petito is successful and that Miss Petito is reunited with her ...
 
@@ -420,7 +369,6 @@ The parents of Gabby Petito, who was allegedly murdered by her boyfriend, Brian 
  - [https://www.dailywire.com/news/the-fbis-forrest-gump-strikes-again-before-joining-ligma-and-johnson-outside-twitter-hq](https://www.dailywire.com/news/the-fbis-forrest-gump-strikes-again-before-joining-ligma-and-johnson-outside-twitter-hq)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 10:48:43+00:00
- - tags: None
 
 He’s the Forrest Gump of the Democrats’ never-ending effort to get Donald Trump, popping up at key junctures to lend a black-gloved hand to the cause. And now he’s looking for work. James Baker, who shares a name and little else with former President Reagan’s legendary adviser, was a top FBI lawyer in 2016 when ...
 
@@ -428,7 +376,6 @@ He’s the Forrest Gump of the Democrats’ never-ending effort to get Donald Tr
  - [https://www.dailywire.com/news/lee-zeldin-makes-his-decision-on-run-for-rnc-chair](https://www.dailywire.com/news/lee-zeldin-makes-his-decision-on-run-for-rnc-chair)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 10:45:51+00:00
- - tags: None
 
 Rep. Lee Zeldin (R-NY) announced Wednesday morning that he would not run to become the Republican National Committee&#8217;s (RNC) new leader but insisted that &#8220;change is desperately needed.&#8221; The congressman, who recently lost a close gubernatorial battle with New York Gov. Kathy Hochul (D), lashed out at the status quo on Twitter. &#8220;RNC Chair Ronna ...
 
@@ -436,7 +383,6 @@ Rep. Lee Zeldin (R-NY) announced Wednesday morning that he would not run to beco
  - [https://www.dailywire.com/news/the-attack-on-pearl-harbor-and-the-collective-amnesia-of-comfortable-societies](https://www.dailywire.com/news/the-attack-on-pearl-harbor-and-the-collective-amnesia-of-comfortable-societies)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 10:45:17+00:00
- - tags: None
 
 In the mind’s eye, one can imagine a peaceful Sunday morning in Hawaii eighty-one years ago. Warm Pacific trade winds drift across the harbor, passing through the row of warships anchored bow-to-stern. Some crews laze in hammocks below decks while others sleepily emerge topside to perform mundane shipboard tasks. It is the beginning of another ...
 
@@ -444,7 +390,6 @@ In the mind’s eye, one can imagine a peaceful Sunday morning in Hawaii eighty-
  - [https://www.dailywire.com/news/stripping-away-all-innocence-american-girl-book-tells-young-girls-they-can-change-gender](https://www.dailywire.com/news/stripping-away-all-innocence-american-girl-book-tells-young-girls-they-can-change-gender)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 10:33:06+00:00
- - tags: None
 
 American Girl, the popular doll brand founded in 1986 that featured dolls of young girls from American history with accompanying books telling their stories, is being slammed for a new book that trumpets how prepubescent girls can change their gender. The 96-page book, titled, “A Smart Girl’s Guide: Body Image: How to love yourself, live ...
 
@@ -452,7 +397,6 @@ American Girl, the popular doll brand founded in 1986 that featured dolls of you
  - [https://www.dailywire.com/news/reality-star-doubles-down-wont-apologize-for-saying-fat-nike-mannequins-are-promoting-early-death](https://www.dailywire.com/news/reality-star-doubles-down-wont-apologize-for-saying-fat-nike-mannequins-are-promoting-early-death)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 10:19:22+00:00
- - tags: None
 
 Reality star and personal trainer Daniel Holmes faced backlash over his comments claiming Nike glorifies obesity with plus-sized mannequins, but so far, he hasn’t backed down or apologized. The “Married at First Sight” star sparked controversy by posting an image of a larger-than-average mannequin outfitted in workout gear to his Instagram Stories page. “Those that ...
 
@@ -460,7 +404,6 @@ Reality star and personal trainer Daniel Holmes faced backlash over his comments
  - [https://www.dailywire.com/news/elon-musk-calls-out-wikipedia-founder-after-leftist-editors-plot-to-remove-page-on-the-twitter-files](https://www.dailywire.com/news/elon-musk-calls-out-wikipedia-founder-after-leftist-editors-plot-to-remove-page-on-the-twitter-files)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 10:06:06+00:00
- - tags: None
 
 Twitter CEO Elon Musk called out Wikipedia co-founder Jimmy Wales on Tuesday after leftist editors on the site were pushing to have a page removed on last week&#8217;s release of &#8220;The Twitter Files.&#8221; Musk released internal company communications through journalist Matt Taibbi on Friday about the company’s censorship of the New York Post’s Hunter Biden ...
 
@@ -468,7 +411,6 @@ Twitter CEO Elon Musk called out Wikipedia co-founder Jimmy Wales on Tuesday aft
  - [https://www.dailywire.com/news/conservatives-react-to-herschel-walkers-georgia-senate-runoff-loss-cast-blame-on-different-figures](https://www.dailywire.com/news/conservatives-react-to-herschel-walkers-georgia-senate-runoff-loss-cast-blame-on-different-figures)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 09:28:43+00:00
- - tags: None
 
 Conservatives had mixed reactions to Herschel Walker&#8217;s loss in Georgia&#8217;s U.S. Senate runoff race Tuesday night, with some blaming former President Donald Trump for pushing Walker to run and others faulting GOP leaders for not doing enough to help the onetime NFL great. The runoff against Sen. Raphael Warnock (D-GA) was held after both candidates ...
 
@@ -476,7 +418,6 @@ Conservatives had mixed reactions to Herschel Walker&#8217;s loss in Georgia&#82
  - [https://www.dailywire.com/news/republican-house-leader-kevin-mccarthy-the-covid-vax-mandate-on-our-military-is-ending](https://www.dailywire.com/news/republican-house-leader-kevin-mccarthy-the-covid-vax-mandate-on-our-military-is-ending)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 09:25:07+00:00
- - tags: None
 
 House Minority Leader Kevin McCarthy (R-CA) said Tuesday night that the Biden administration&#8217;s COVID vaccine mandate for the U.S. military will come to an end. The statement from McCarthy comes as House Democrats are reportedly set to defy President Joe Biden by joining Republicans to jettison the requirement for military service members to get the ...
 
@@ -484,7 +425,6 @@ House Minority Leader Kevin McCarthy (R-CA) said Tuesday night that the Biden ad
  - [https://www.dailywire.com/news/elon-musk-hammers-san-francisco-democrat-mayor-london-breed-over-new-investigation-into-twitter-offices](https://www.dailywire.com/news/elon-musk-hammers-san-francisco-democrat-mayor-london-breed-over-new-investigation-into-twitter-offices)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 08:48:25+00:00
- - tags: None
 
 Twitter CEO Elon Musk slammed Democratic San Francisco Mayor London Breed on Tuesday after the city announced that it was investigating reports that Musk had turned some of the offices at the company&#8217;s headquarters into bedrooms to accommodate his plans for an &#8220;extremely hardcore&#8221; Twitter workforce. &#8220;San Francisco building inspectors are launching an investigation into ...
 
@@ -492,7 +432,6 @@ Twitter CEO Elon Musk slammed Democratic San Francisco Mayor London Breed on Tue
  - [https://www.dailywire.com/news/you-will-be-made-to-celebrate](https://www.dailywire.com/news/you-will-be-made-to-celebrate)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 08:38:27+00:00
- - tags: None
 
 In March 2013, nearly a decade ago, I made a prediction. “Within the next few months,” I wrote, “Justice Anthony Kennedy will likely rule that same-sex marriage is mandated by the Constitution of the United States … states will be forced to recognize same-sex marriages; same-sex marriage will enter the public school lexicon; religious institutions ...
 
@@ -500,7 +439,6 @@ In March 2013, nearly a decade ago, I made a prediction. “Within the next few 
  - [https://www.dailywire.com/news/new-details-emerge-about-alleged-attack-by-chris-christies-niece-on-6-cops-after-getting-booted-off-flight-report](https://www.dailywire.com/news/new-details-emerge-about-alleged-attack-by-chris-christies-niece-on-6-cops-after-getting-booted-off-flight-report)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 08:27:29+00:00
- - tags: None
 
 The niece of former Republican New Jersey Governor Chris Christie allegedly hurled racial insults at Latino passengers on a Spirit Airlines flight in New Orleans in late November before violently attacking multiple police officers who were trying to get her to leave the jetway after she was kicked off the flight. Shannon Epstein, Christie&#8217;s 25-year-old ...
 
@@ -508,6 +446,5 @@ The niece of former Republican New Jersey Governor Chris Christie allegedly hurl
  - [https://www.dailywire.com/news/watch-herschel-walker-gives-classy-concession-speech-following-loss-in-senate-race](https://www.dailywire.com/news/watch-herschel-walker-gives-classy-concession-speech-following-loss-in-senate-race)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 07:33:21+00:00
- - tags: None
 
 Republican candidate Herschel Walker gave a classy concession speech Tuesday night following his loss in Georgia&#8217;s U.S. Senate runoff race against incumbent Democratic Sen. Raphael Warnock. Walker&#8217;s speech came after he performed worse than he did against Warnock during last month&#8217;s midterm elections, losing by more than 90,000 votes versus only being separated by 37,675 ...

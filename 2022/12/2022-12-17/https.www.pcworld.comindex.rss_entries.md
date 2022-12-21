@@ -1,4 +1,4 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## Lock in a lifetime of data recovery for Windows for 19% off
  - [https://www.pcworld.com/article/1428764/lock-in-a-lifetime-of-data-recovery-for-windows-for-19-off.html](https://www.pcworld.com/article/1428764/lock-in-a-lifetime-of-data-recovery-for-windows-for-19-off.html)

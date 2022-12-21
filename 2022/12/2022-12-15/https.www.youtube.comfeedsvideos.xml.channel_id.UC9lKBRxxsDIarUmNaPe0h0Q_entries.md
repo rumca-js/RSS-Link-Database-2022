@@ -1,10 +1,9 @@
-# Source Sorelle Amore Finance, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q
+# Source Sorelle Amore Finance, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q, Source language: en-US
 
 ## The "Mother Of All Crashes" is almost here (Michael Burry's new prediction)
  - [https://www.youtube.com/watch?v=3uZQ-PrtjiQ](https://www.youtube.com/watch?v=3uZQ-PrtjiQ)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q
  - date published: 2022-12-15 15:01:05+00:00
- - Starred: False
 
 🎨 JOIN MASTERWORKS (and skip the waiting list): http://masterworks.art/sorelle
 ✉️ OUR NEWSLETTER: https://www.abundantia.co/

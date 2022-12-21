@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## Beat applicant tracking systems with 88% off this top-rated resume building tool
  - [https://www.pcworld.com/article/1428720/beat-applicant-tracking-systems-with-88-off-this-top-rated-resume-building-tool.html](https://www.pcworld.com/article/1428720/beat-applicant-tracking-systems-with-88-off-this-top-rated-resume-building-tool.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-11 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>

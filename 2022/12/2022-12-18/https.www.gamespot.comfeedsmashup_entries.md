@@ -1,4 +1,4 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup
+# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
 
 ## Best Mobile Games 2022
  - [https://www.gamespot.com/videos/best-mobile-games-2022/2300-6460268/](https://www.gamespot.com/videos/best-mobile-games-2022/2300-6460268/)

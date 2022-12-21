@@ -1,10 +1,9 @@
-# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
 
 ## Epic Games CEO Tim Sweeney thinks ‘every politician should fear’ Apple’s power
  - [https://www.theverge.com/2022/12/8/23500363/tim-sweeney-epic-games-ceo-interview-apple-app-store-google-legislaton](https://www.theverge.com/2022/12/8/23500363/tim-sweeney-epic-games-ceo-interview-apple-app-store-google-legislaton)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-08 23:45:49+00:00
- - tags: None
 
 <figure>
       <img alt="Tim Sweeney." src="https://cdn.vox-cdn.com/thumbor/xZ2htuxH5sAQ-AAq5FP8SIgsOM8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71728455/VRG_Illo_STK186_L_Normand_TimSweeney_Neutral.0.jpg" />
@@ -21,7 +20,6 @@
  - [https://www.theverge.com/2022/12/8/23500753/microsoft-windows-11-screen-recorder-snipping-tool](https://www.theverge.com/2022/12/8/23500753/microsoft-windows-11-screen-recorder-snipping-tool)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-08 21:52:39+00:00
- - tags: None
 
 <figure>
       <img alt="Windows 11’s Snipping Tool can record your entire screen or parts of it" src="https://cdn.vox-cdn.com/thumbor/tGKVjHzuP4AGxFMFE_IetSWseeM=/80x0:1553x982/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71728017/ST_RecordingInProgress.0.png" />
@@ -39,7 +37,6 @@
  - [https://www.theverge.com/2022/12/8/23499055/xbox-game-pass-riot-games-league-of-legends-valorant-account](https://www.theverge.com/2022/12/8/23499055/xbox-game-pass-riot-games-league-of-legends-valorant-account)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-08 21:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="An illustration of Sage from Valorant." src="https://cdn.vox-cdn.com/thumbor/mYs7F-BPJrRdG-KQKKP3ScC095A=/0x60:3061x2101/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71727756/VALORANT_Sage_Light.0.jpg" />
@@ -56,7 +53,6 @@
  - [https://www.theverge.com/2022/12/8/23500396/google-pixel-7-pro-camera-macro-toggle](https://www.theverge.com/2022/12/8/23500396/google-pixel-7-pro-camera-macro-toggle)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-08 20:12:08+00:00
- - tags: None
 
 <figure>
       <img alt="Close-up photo of the Pixel 7 Pro’s camera assembly." src="https://cdn.vox-cdn.com/thumbor/iBNIpqvkHDvrL6_JvKYgaPPIw1E=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71727549/226337_Pixel_7_and_7_Pro_AKrales_0459.0.jpg" />
@@ -73,7 +69,6 @@
  - [https://www.theverge.com/good-deals/22979801/sonos-deals-speakers-soundbars-sale](https://www.theverge.com/good-deals/22979801/sonos-deals-speakers-soundbars-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-08 20:11:04+00:00
- - tags: None
 
 <figure>
       <img alt="The Sonos One SL sitting on a table." src="https://cdn.vox-cdn.com/thumbor/ek5brFG5kI1_uW9ra4beZIHg4D0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/70683115/dseifert_190826_3622_0009.10.jpg" />
@@ -91,7 +86,6 @@
  - [https://www.theverge.com/2022/12/8/23499559/motorola-moto-g-play-2023-specs-price-screen-battery-camera-availability](https://www.theverge.com/2022/12/8/23499559/motorola-moto-g-play-2023-specs-price-screen-battery-camera-availability)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-08 19:49:27+00:00
- - tags: None
 
 <figure>
       <img alt="Motorola G Play, in blue, flat on a table with the rear facing up surrounded by breakfast plates and items." src="https://cdn.vox-cdn.com/thumbor/FojwYXOyC1An7fdMsW8PBZxw42g=/0x1:2000x1334/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71727419/moto_lifestyle.0.jpg" />
@@ -110,7 +104,6 @@
  - [https://www.theverge.com/2022/1/18/22889421/microsoft-acquires-activision-blizzard-call-of-duty-warcraft-king-gaming-buy-news-reports](https://www.theverge.com/2022/1/18/22889421/microsoft-acquires-activision-blizzard-call-of-duty-warcraft-king-gaming-buy-news-reports)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-08 19:34:34+00:00
- - tags: None
 
 <figure>
       <img alt="Call of Duty Warzone" src="https://cdn.vox-cdn.com/thumbor/878UBIsLjp78PUJbDTQJtLfLlH4=/0x0:1620x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/70403933/04C_IN_GAME_MODES_BR_TOUT.0.jpg" />
@@ -126,7 +119,6 @@
  - [https://www.theverge.com/2022/12/8/23500060/toe-jam-and-earl-movie-amazon-digital-video-game](https://www.theverge.com/2022/12/8/23500060/toe-jam-and-earl-movie-amazon-digital-video-game)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-08 19:24:07+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/L79S6Z-jpmm3uJ20gLnBK_-zF7Y=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71727327/2533987_toejamearl_1920u_051614.0.jpg" />
@@ -150,7 +142,6 @@
  - [https://www.theverge.com/2022/12/8/23498224/ftc-microsoft-activision-blizzard-legal-challenge-sues-block](https://www.theverge.com/2022/12/8/23498224/ftc-microsoft-activision-blizzard-legal-challenge-sues-block)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-08 19:09:43+00:00
- - tags: None
 
 <figure>
       <img alt="The Microsoft Xbox game logo against a green and black background." src="https://cdn.vox-cdn.com/thumbor/WbT6_Ge5xDqZSM9PQVFB89nZ1qo=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71727240/acastro_STK048_02.0.jpg" />
@@ -167,7 +158,6 @@
  - [https://www.theverge.com/2022/12/8/23500305/the-dark-tower-tv-series-mike-flanagan-stephen-king-amazon](https://www.theverge.com/2022/12/8/23500305/the-dark-tower-tv-series-mike-flanagan-stephen-king-amazon)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-08 18:58:05+00:00
- - tags: None
 
 <figure>
       <img alt="Mike Flanagan at the premiere of Warner Bros Pictures’ “Doctor Sleep” red carpet" src="https://cdn.vox-cdn.com/thumbor/BLFukPTbAk9JhYfg3Fa0Jdaznuc=/0x0:4000x2667/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71727169/1184282979.0.jpg" />
@@ -184,7 +174,6 @@
  - [https://www.theverge.com/2022/12/8/23500176/google-pixel-fold-leaked-renders-size-specs-rumors](https://www.theverge.com/2022/12/8/23500176/google-pixel-fold-leaked-renders-size-specs-rumors)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-08 18:38:25+00:00
- - tags: None
 
 <figure>
       <img alt="A render of Google’s rumored Pixel foldable in white." src="https://cdn.vox-cdn.com/thumbor/oNFohWrYsB8ZOq59jxPBVH8_U1E=/200x0:2360x1440/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71727086/Pixel_Fold_5K3_scaled.0.jpg" />
@@ -203,7 +192,6 @@
  - [https://www.theverge.com/2022/12/8/23496852/microsoft-dhs-surveillance-data-fusion](https://www.theverge.com/2022/12/8/23496852/microsoft-dhs-surveillance-data-fusion)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-08 18:36:43+00:00
- - tags: None
 
 <figure>
       <img alt="Illustration of the seal for the US Department of Homeland Security on a red and tan background." src="https://cdn.vox-cdn.com/thumbor/itg0rTTSsPKsQD2bs5cTdUUUzlQ=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71727064/VRG_Illo_K_Radtke_STK006_DHS_2.0.jpg" />
@@ -220,7 +208,6 @@
  - [https://www.theverge.com/2022/12/8/23500077/amazon-inspire-social-shopping-short-form-video-feed-tiktok](https://www.theverge.com/2022/12/8/23500077/amazon-inspire-social-shopping-short-form-video-feed-tiktok)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-08 18:12:55+00:00
- - tags: None
 
 <figure>
       <img alt="Four phone screens showing how the Amazon feed will work. Users can click topics/categories they’re interested in, scroll a feed of pictures and images, and make purchases directly." src="https://cdn.vox-cdn.com/thumbor/_c6-6GoSYadjbXj7BG9P6DOq5a8=/522x0:3678x2104/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71726931/Inspire_Image_3.0.png" />
@@ -238,7 +225,6 @@
  - [https://www.theverge.com/2022/12/8/23499897/murder-hornet-sightings-2022-washington-state](https://www.theverge.com/2022/12/8/23499897/murder-hornet-sightings-2022-washington-state)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-08 17:49:37+00:00
- - tags: None
 
 <figure>
       <img alt="Dead giant hornets lined up in two rows next to a notebook" src="https://cdn.vox-cdn.com/thumbor/1qgJ8tU_EqAusFLie7dkU0szuDo=/0x0:5472x3648/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71726787/1212154385.0.jpg" />
@@ -257,7 +243,6 @@
  - [https://www.theverge.com/23498194/kpop-broadway-musical-instagram-tiktok](https://www.theverge.com/23498194/kpop-broadway-musical-instagram-tiktok)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-08 17:12:30+00:00
- - tags: None
 
 <figure>
       <img alt="“KPOP” Opening Night Celebration" src="https://cdn.vox-cdn.com/thumbor/95aNXT9aXipk4hTzmocrTYce_L8=/0x0:6000x4000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71726627/1443168113.0.jpg" />
@@ -274,7 +259,6 @@
  - [https://www.theverge.com/2022/12/8/23473266/kindred-octavia-butler-fx-review](https://www.theverge.com/2022/12/8/23473266/kindred-octavia-butler-fx-review)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-08 17:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="" src="https://cdn.vox-cdn.com/thumbor/TY0zgUdanANkfbx7qfIQUuOdFlA=/0x66:2500x1733/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71726548/75bc7803_b46a_49a1_be52_7074c30bb5db.0.jpeg" />
@@ -291,7 +275,6 @@
  - [https://www.theverge.com/2022/12/8/23499699/google-chrome-update-memory-energy-saver-mode-optimization](https://www.theverge.com/2022/12/8/23499699/google-chrome-update-memory-energy-saver-mode-optimization)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-08 17:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="An illustration. On the left, a representation of a computer chip is linked to a power guage, while on the right, a leaf with a lightening bolt is connected to a seemingly drained battery." src="https://cdn.vox-cdn.com/thumbor/2_9hKclnnOTPJcpsKPJUw6Szwko=/336x0:4032x2464/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71726523/PerformanceControls_Header.0.png" />
@@ -314,7 +297,6 @@
  - [https://www.theverge.com/2022/12/8/23499734/google-maps-waze-development-teams-combined-productivity](https://www.theverge.com/2022/12/8/23499734/google-maps-waze-development-teams-combined-productivity)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-08 15:49:28+00:00
- - tags: None
 
 <figure>
       <img alt="Waze’s app icon." src="https://cdn.vox-cdn.com/thumbor/ZD0Hfk9sb21I0Oz70ckdYde33nE=/0x0:1500x1000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71726124/akrales_160517_1059_A_0113.0.0.jpg" />
@@ -333,7 +315,6 @@
  - [https://www.theverge.com/2022/12/8/23499802/audeze-maxwell-wireless-gaming-headset-features-price](https://www.theverge.com/2022/12/8/23499802/audeze-maxwell-wireless-gaming-headset-features-price)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-08 15:38:00+00:00
- - tags: None
 
 <figure>
       <img alt="Audeze’s Maxwell gaming headset. This image shows off its plain design along with its detachable boom microphone." src="https://cdn.vox-cdn.com/thumbor/h1OysMviq7-Nnl7Z0gLd6f0UJhY=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71726083/maxwellhero.0.jpg" />
@@ -350,7 +331,6 @@
  - [https://www.theverge.com/2022/12/8/23499728/ai-capability-accessibility-chatgpt-stable-diffusion-commercialization](https://www.theverge.com/2022/12/8/23499728/ai-capability-accessibility-chatgpt-stable-diffusion-commercialization)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-08 15:31:02+00:00
- - tags: None
 
 <figure>
       <img alt="A close-up image of a silicon mono-crystal on a neutral background. Silicon is a crucial component in AI." src="https://cdn.vox-cdn.com/thumbor/fljaoNYfvxHywOKNdzwMvrU_4JM=/0x0:2650x1767/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71726073/CatherineBreslin_SiliconCloseup_2650x1767.0.jpg" />
@@ -367,7 +347,6 @@
  - [https://www.theverge.com/23499393/online-privacy-bad-choices-ai-portraits-chat-bot-social-media](https://www.theverge.com/23499393/online-privacy-bad-choices-ai-portraits-chat-bot-social-media)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-08 15:16:44+00:00
- - tags: None
 
 <figure>
       <img alt="An illustration of a large eye surrounded by other eyes" src="https://cdn.vox-cdn.com/thumbor/EYdZ1CUatnKXQaqOL5uz5liM8kw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71726021/acastro_190204_1777_privacy_0001.0.jpg" />
@@ -385,7 +364,6 @@
  - [https://www.theverge.com/2022/12/8/23499843/dyson-zone-air-purifier-headphones-price-release-date](https://www.theverge.com/2022/12/8/23499843/dyson-zone-air-purifier-headphones-price-release-date)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-08 15:16:40+00:00
- - tags: None
 
 <figure>
       <img alt="A person against a blank gray background. They are wearing the Dyson Zone with the air-purifying visor concealing their mouth." src="https://cdn.vox-cdn.com/thumbor/nqFgGr85EJ_C_F-liIEOXOXQWV8=/0x0:2048x1365/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71726019/221123_DYSON_SH02_477_v1.0.jpg" />
@@ -402,7 +380,6 @@
  - [https://www.theverge.com/2022/12/8/23498196/philips-hue-lights-amazon-fire-tablet-apple-macbook-air-m2-jbl-charge-5-speaker-deal-sale](https://www.theverge.com/2022/12/8/23498196/philips-hue-lights-amazon-fire-tablet-apple-macbook-air-m2-jbl-charge-5-speaker-deal-sale)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-08 14:58:42+00:00
- - tags: None
 
 <figure>
       <img alt="Philips Hue’s A19, 1,100-watt smart bulb lighting up a living room." src="https://cdn.vox-cdn.com/thumbor/Jsund94gDnWL3R-hd5SynREfVk0=/0x250:1500x1250/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71725890/philipshuea19bulbs.0.jpg" />
@@ -420,7 +397,6 @@
  - [https://www.theverge.com/23498053/deals-sales-earbuds-headphones-watch](https://www.theverge.com/23498053/deals-sales-earbuds-headphones-watch)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-08 14:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="Sony WF-1000XM4 earbuds and their charging case held in the palm of a hand." src="https://cdn.vox-cdn.com/thumbor/dwMdLVQVh0QiOzwSl6GmbJW8eJo=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71725682/DSCF4082_Edited.0.jpg" />
@@ -437,7 +413,6 @@
  - [https://www.theverge.com/2022/12/8/23495828/reddit-2022-recap-trading-cards-avatars](https://www.theverge.com/2022/12/8/23495828/reddit-2022-recap-trading-cards-avatars)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-08 13:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="A collection of Reddit’s trading cards as examples you’ll see during Reddit’s 2022 recap." src="https://cdn.vox-cdn.com/thumbor/0GvQOlDNmfpAZrzpl0YDxdK3TBs=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71725470/Reddit.0.jpg" />
@@ -456,7 +431,6 @@
  - [https://www.theverge.com/2022/12/8/23499742/starling-bank-virtual-cards-feature](https://www.theverge.com/2022/12/8/23499742/starling-bank-virtual-cards-feature)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-08 12:33:14+00:00
- - tags: None
 
 <figure>
       <img alt="Starling Bank has new virtual cards in a variety of colors" src="https://cdn.vox-cdn.com/thumbor/qFk-0YV8e01cXhyJf9_94hPG92I=/75x0:1725x1100/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71725443/virtual_cards1.0.png" />
@@ -473,7 +447,6 @@
  - [https://www.theverge.com/2022/12/8/23498823/coindesk-ftx-dcg-barry-silbert-grayscale-genesis](https://www.theverge.com/2022/12/8/23498823/coindesk-ftx-dcg-barry-silbert-grayscale-genesis)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-08 12:30:00+00:00
- - tags: None
 
 <figure>
       <img alt="A cartoon image of a Bitcoin, superimposed on a background of shapes" src="https://cdn.vox-cdn.com/thumbor/wTmZ6LdH2Q4dLlwFjR4eyxbOros=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71725431/226437_M_Huigen_year_in_crypto.0.jpg" />
@@ -490,7 +463,6 @@
  - [https://www.theverge.com/2022/12/8/23499754/usb-c-iphone-european-union-legislation-charger-lightning-enforcement-date](https://www.theverge.com/2022/12/8/23499754/usb-c-iphone-european-union-legislation-charger-lightning-enforcement-date)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-08 12:28:24+00:00
- - tags: None
 
 <figure>
       <img alt="A bundle of USB-C cables." src="https://cdn.vox-cdn.com/thumbor/2bL18WKeENDS3QXPXdM3NDVl62g=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71725425/akrales_190522_3440_0056.0.jpg" />
@@ -508,7 +480,6 @@
  - [https://www.theverge.com/2022/12/8/23497606/ikea-sonos-symfonisk-floor-lamp-speaker-announced-price-features](https://www.theverge.com/2022/12/8/23497606/ikea-sonos-symfonisk-floor-lamp-speaker-announced-price-features)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-08 12:00:00+00:00
- - tags: None
 
 <figure>
       <img alt="An image of the Ikea/Sonos Symfonisk floor lamp speaker." src="https://cdn.vox-cdn.com/thumbor/gsE80NUiTOlaMSo9Tx99zz05O2k=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71725332/lamplight.0.jpg" />
@@ -526,7 +497,6 @@
  - [https://www.theverge.com/2022/12/8/23499707/december-8-2022-tech-news-liveblog](https://www.theverge.com/2022/12/8/23499707/december-8-2022-tech-news-liveblog)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-08 10:22:44+00:00
- - tags: None
 
 <figure>
       <img alt="Former Theranos President Balwani Sentenced For Fraud Conviction" src="https://cdn.vox-cdn.com/thumbor/wbpQ1DDmehCyD5-W5XYO6NGD8kI=/7x0:4000x2662/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71725209/1245440014.0.jpg" />
@@ -542,7 +512,6 @@
  - [https://www.theverge.com/2022/12/8/23499696/twitter-blue-relaunch-7-11-dollars-apple-tax-30-percent-commission](https://www.theverge.com/2022/12/8/23499696/twitter-blue-relaunch-7-11-dollars-apple-tax-30-percent-commission)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-08 09:35:40+00:00
- - tags: None
 
 <figure>
       <img alt="Illustration showing Elon Musk in profile, in front of Twitter logos with a dollar sign inserted in place of the bird’s eye." src="https://cdn.vox-cdn.com/thumbor/L0YKc2AAsL-ZVnyLFl_t7MwaqA0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71725174/STK171_VRG_Illo_6_Normand_ElonMusk_06.0.jpg" />

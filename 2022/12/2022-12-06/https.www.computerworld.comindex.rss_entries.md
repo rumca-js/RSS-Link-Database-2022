@@ -1,10 +1,9 @@
-# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
 
 ## Ransomware attack knocks Rackspace’s Exchange servers offline
  - [https://www.networkworld.com/article/3681895/ransomware-attack-knocks-rackspaces-exchange-servers-offline.html#tk.rss_all](https://www.networkworld.com/article/3681895/ransomware-attack-knocks-rackspaces-exchange-servers-offline.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-06 21:59:00+00:00
- - tags: None
 
 Rackspace’s hosting for Exchange servers remained offline Tuesday after an outage Friday that the company now ascribes to a ransomware attack.
 
@@ -12,7 +11,6 @@ Rackspace’s hosting for Exchange servers remained offline Tuesday after an out
  - [https://www.computerworld.com/article/3681832/what-you-need-to-know-about-the-uks-online-safety-bill.html#tk.rss_all](https://www.computerworld.com/article/3681832/what-you-need-to-know-about-the-uks-online-safety-bill.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-06 19:52:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -22,7 +20,6 @@ Rackspace’s hosting for Exchange servers remained offline Tuesday after an out
  - [https://www.computerworld.com/article/3682074/apple-gives-developers-wider-app-store-price-flexibility.html#tk.rss_all](https://www.computerworld.com/article/3682074/apple-gives-developers-wider-app-store-price-flexibility.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-06 18:01:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -33,7 +30,6 @@ Rackspace’s hosting for Exchange servers remained offline Tuesday after an out
  - [https://www.computerworld.com/article/3681938/stewart-butterfield-announces-he-s-stepping-down-as-slack-s-ceo.html#tk.rss_all](https://www.computerworld.com/article/3681938/stewart-butterfield-announces-he-s-stepping-down-as-slack-s-ceo.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-06 17:55:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -43,7 +39,6 @@ Rackspace’s hosting for Exchange servers remained offline Tuesday after an out
  - [https://www.computerworld.com/article/3681935/uk-set-to-mandate-right-to-request-flexible-work-from-first-day-on-the-job.html#tk.rss_all](https://www.computerworld.com/article/3681935/uk-set-to-mandate-right-to-request-flexible-work-from-first-day-on-the-job.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-06 16:28:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -53,7 +48,6 @@ Rackspace’s hosting for Exchange servers remained offline Tuesday after an out
  - [https://www.computerworld.com/article/3681936/instead-of-tech-gifts-give-updates-and-support.html#tk.rss_all](https://www.computerworld.com/article/3681936/instead-of-tech-gifts-give-updates-and-support.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-06 14:38:00+00:00
- - tags: None
 
 <article>
 	<section class="page">
@@ -64,7 +58,6 @@ Rackspace’s hosting for Exchange servers remained offline Tuesday after an out
  - [https://www.computerworld.com/article/3681991/as-re-shoring-brings-chipmakers-back-to-the-us-apple-looks-to-jump-on-board.html#tk.rss_all](https://www.computerworld.com/article/3681991/as-re-shoring-brings-chipmakers-back-to-the-us-apple-looks-to-jump-on-board.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-12-06 11:00:00+00:00
- - tags: None
 
 <article>
 	<section class="page">

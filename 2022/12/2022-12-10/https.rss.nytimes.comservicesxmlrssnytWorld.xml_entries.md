@@ -1,10 +1,9 @@
-# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+# Source NY times, Source URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, Source language: en-US
 
 ## An academic who was imprisoned in Iran welcomes Brittney Griner to a ‘bizarre club.’
  - [https://www.nytimes.com/2022/12/10/world/australia/an-academic-who-was-imprisoned-in-iran-welcomes-brittney-griner-to-a-bizarre-club.html](https://www.nytimes.com/2022/12/10/world/australia/an-academic-who-was-imprisoned-in-iran-welcomes-brittney-griner-to-a-bizarre-club.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-10 20:56:55+00:00
- - tags: None
 
 
 
@@ -12,7 +11,6 @@
  - [https://www.nytimes.com/2022/12/10/nyregion/fawaz-ould-ahmed-ould-ahemeid-extradited.html](https://www.nytimes.com/2022/12/10/nyregion/fawaz-ould-ahmed-ould-ahemeid-extradited.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-10 20:50:53+00:00
- - tags: None
 
 Fawaz Ould Ahmed Ould Ahemeid was brought to the United States on Friday and appeared on Saturday before a federal magistrate judge in Brooklyn, prosecutors said.
 
@@ -20,7 +18,6 @@ Fawaz Ould Ahmed Ould Ahemeid was brought to the United States on Friday and app
  - [https://www.nytimes.com/2022/12/10/world/europe/european-parliament-qatar-corruption.html](https://www.nytimes.com/2022/12/10/world/europe/european-parliament-qatar-corruption.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-10 17:55:50+00:00
- - tags: None
 
 The police detained five people, including former and current members of the body, in a case centered on possible attempts to influence the Parliament’s economic and political decisions.
 
@@ -28,7 +25,6 @@ The police detained five people, including former and current members of the bod
  - [https://www.nytimes.com/2022/12/10/sports/soccer/qatar-world-cup-womens-soccer.html](https://www.nytimes.com/2022/12/10/sports/soccer/qatar-world-cup-womens-soccer.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-10 17:00:07+00:00
- - tags: None
 
 A squad that featured in the host nation’s bid to host the World Cup in 2010 hasn’t played a game in eight years.
 
@@ -36,7 +32,6 @@ A squad that featured in the host nation’s bid to host the World Cup in 2010 h
  - [https://www.nytimes.com/2022/12/10/world/europe/nobel-peace-prize-ukraine-russia-belarus.html](https://www.nytimes.com/2022/12/10/world/europe/nobel-peace-prize-ukraine-russia-belarus.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-10 12:17:49+00:00
- - tags: None
 
 The laureates from Russia, Ukraine and Belarus have become symbols of resistance during Russia’s invasion of Ukraine.
 
@@ -44,7 +39,6 @@ The laureates from Russia, Ukraine and Belarus have become symbols of resistance
  - [https://www.nytimes.com/2022/12/10/world/europe/germany-dresden-shooting.html](https://www.nytimes.com/2022/12/10/world/europe/germany-dresden-shooting.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-10 12:01:23+00:00
- - tags: None
 
 The police said they believed that the suspect, whom they identified as a 40-year-old German citizen, had shot his mother before moving on to the center of the city.
 
@@ -52,7 +46,6 @@ The police said they believed that the suspect, whom they identified as a 40-yea
  - [https://www.nytimes.com/2022/12/10/briefing/white-lotus-finale.html](https://www.nytimes.com/2022/12/10/briefing/white-lotus-finale.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-10 11:22:06+00:00
- - tags: None
 
 The finale of “The White Lotus” airs tomorrow. Here’s to being a fan, without going overboard.
 
@@ -60,7 +53,6 @@ The finale of “The White Lotus” airs tomorrow. Here’s to being a fan, with
  - [https://www.nytimes.com/live/2022/12/10/world/brittney-griner-russia-ukraine-news](https://www.nytimes.com/live/2022/12/10/world/brittney-griner-russia-ukraine-news)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-10 11:14:32+00:00
- - tags: None
 
 The American basketball star was receiving the necessary evaluations and treatment in San Antonio. The Russian government was lauding the release of Viktor Bout, the notorious arms dealer.
 
@@ -68,7 +60,6 @@ The American basketball star was receiving the necessary evaluations and treatme
  - [https://www.nytimes.com/2022/12/10/world/canada/the-world-comes-to-montreal-to-reverse-a-rise-in-species-extinction.html](https://www.nytimes.com/2022/12/10/world/canada/the-world-comes-to-montreal-to-reverse-a-rise-in-species-extinction.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-10 11:00:03+00:00
- - tags: None
 
 A conversation with Prime Minister Justin Trudeau during the United Nations’ biodiversity negotiations in Montreal.
 
@@ -76,7 +67,6 @@ A conversation with Prime Minister Justin Trudeau during the United Nations’ b
  - [https://www.nytimes.com/2022/12/10/world/canada/trudeau-united-nations-montreal.html](https://www.nytimes.com/2022/12/10/world/canada/trudeau-united-nations-montreal.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-10 11:00:03+00:00
- - tags: None
 
 A conversation with Prime Minister Justin Trudeau during the United Nations’ biodiversity negotiations in Montreal.
 
@@ -84,7 +74,6 @@ A conversation with Prime Minister Justin Trudeau during the United Nations’ b
  - [https://www.nytimes.com/2022/12/10/world/asia/hong-kong-jimmy-lai-sentenced.html](https://www.nytimes.com/2022/12/10/world/asia/hong-kong-jimmy-lai-sentenced.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-10 10:20:21+00:00
- - tags: None
 
 Jimmy Lai, the outspoken owner of a pro-democracy newspaper, was sentenced to more than five years in prison for violating terms of a lease contract.
 
@@ -92,7 +81,6 @@ Jimmy Lai, the outspoken owner of a pro-democracy newspaper, was sentenced to mo
  - [https://www.nytimes.com/2022/12/10/world/europe/brittney-griner-russia-athletes.html](https://www.nytimes.com/2022/12/10/world/europe/brittney-griner-russia-athletes.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-10 10:15:56+00:00
- - tags: None
 
 Westerners in Russia have to weigh the risks of living and working in the country against professional and financial opportunities there.
 
@@ -100,7 +88,6 @@ Westerners in Russia have to weigh the risks of living and working in the countr
  - [https://www.nytimes.com/2022/12/10/world/americas/cuba-us-migration.html](https://www.nytimes.com/2022/12/10/world/americas/cuba-us-migration.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-10 10:03:33+00:00
- - tags: None
 
 The pandemic and tougher U.S. sanctions have decimated Cuba’s economy, prompting the biggest migration since Fidel Castro rose to power.
 
@@ -108,7 +95,6 @@ The pandemic and tougher U.S. sanctions have decimated Cuba’s economy, prompti
  - [https://www.nytimes.com/2022/12/10/world/middleeast/qatar-wealth-world-cup.html](https://www.nytimes.com/2022/12/10/world/middleeast/qatar-wealth-world-cup.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-10 10:00:28+00:00
- - tags: None
 
 A rare look inside a Qatari home offers a glimpse at how the lucrative gas industry has transformed the formerly poor, barren country.
 
@@ -116,7 +102,6 @@ A rare look inside a Qatari home offers a glimpse at how the lucrative gas indus
  - [https://www.nytimes.com/2022/12/10/business/china-protests-students-jobs.html](https://www.nytimes.com/2022/12/10/business/china-protests-students-jobs.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-10 10:00:23+00:00
- - tags: None
 
 A sluggish economy continues to leave many young people unemployed, with few job prospects or hopes to tap into the rising incomes their parents enjoyed during boom times.
 
@@ -124,7 +109,6 @@ A sluggish economy continues to leave many young people unemployed, with few job
  - [https://www.nytimes.com/2022/12/09/world/europe/sandrine-rousseau-france-ecofeminist.html](https://www.nytimes.com/2022/12/09/world/europe/sandrine-rousseau-france-ecofeminist.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-10 09:28:52+00:00
- - tags: None
 
 Sandrine Rousseau is using her talent for grabbing headlines with provocative ideas to shift the focus of the national debate from the themes favored by the far-right to climate change and #MeToo.
 
@@ -132,7 +116,6 @@ Sandrine Rousseau is using her talent for grabbing headlines with provocative id
  - [https://www.nytimes.com/2022/12/10/world/asia/china-covid-hospitals.html](https://www.nytimes.com/2022/12/10/world/asia/china-covid-hospitals.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-10 06:43:01+00:00
- - tags: None
 
 To conserve resources for the severely ill, the government is urging residents not to seek help unless necessary. But the pivot has left many confused and anxious.
 
@@ -140,7 +123,6 @@ To conserve resources for the severely ill, the government is urging residents n
  - [https://www.nytimes.com/2022/12/10/world/europe/poland-germany-ukraine-patriots-missiles.html](https://www.nytimes.com/2022/12/10/world/europe/poland-germany-ukraine-patriots-missiles.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-10 05:01:09+00:00
- - tags: None
 
 Relations between Warsaw and Berlin, never warm, have deteriorated since the start of the Ukraine war, damaging unity in both NATO and the European Union.
 
@@ -148,7 +130,6 @@ Relations between Warsaw and Berlin, never warm, have deteriorated since the sta
  - [https://www.nytimes.com/2022/12/10/world/europe/putin-ukraine-nuclear.html](https://www.nytimes.com/2022/12/10/world/europe/putin-ukraine-nuclear.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-10 05:01:07+00:00
- - tags: None
 
 In a string of appearances, it wasn’t so much what the Russian leader said, much of it false, as it was his apparent need to demonstrate that he is healthy, alert and in control.
 
@@ -156,6 +137,5 @@ In a string of appearances, it wasn’t so much what the Russian leader said, mu
  - [https://www.nytimes.com/2022/12/09/world/europe/russia-iran-military.html](https://www.nytimes.com/2022/12/09/world/europe/russia-iran-military.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-12-10 00:50:17+00:00
- - tags: None
 
 The National Security Council spokesman, John Kirby, said that the U.S. was “concerned that Russia intends to provide Iran with advanced military components.”

@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## Step aside ultrawide, ultra-tall monitors are perfect for reading and writing
  - [https://www.androidauthority.com/lg-dualup-the-perfect-ultratall-monitor-3243588/](https://www.androidauthority.com/lg-dualup-the-perfect-ultratall-monitor-3243588/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-04 19:00:18+00:00
- - tags: None
 
 The LG DualUp shows why height does matter.
 
@@ -12,7 +11,6 @@ The LG DualUp shows why height does matter.
  - [https://www.androidauthority.com/google-nest-wifi-pro-review-3242006/](https://www.androidauthority.com/google-nest-wifi-pro-review-3242006/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-04 17:00:14+00:00
- - tags: None
 
 Google's Nest Wifi Pro is fast, good-looking, and easy to use. Just don't expect built-in smart speakers this time.
 
@@ -20,6 +18,5 @@ Google's Nest Wifi Pro is fast, good-looking, and easy to use. Just don't expect
  - [https://www.androidauthority.com/stop-social-media-addiction-3230401/](https://www.androidauthority.com/stop-social-media-addiction-3230401/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-04 13:00:49+00:00
- - tags: None
 
 You can't scroll your way to the end of the rainbow.

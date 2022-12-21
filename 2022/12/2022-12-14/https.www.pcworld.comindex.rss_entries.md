@@ -1,10 +1,9 @@
-# Source PC world, Source URL:https://www.pcworld.com/index.rss
+# Source PC world, Source URL:https://www.pcworld.com/index.rss, Source language: en-US
 
 ## Best touchscreen laptops: Best overall, best for content creators, and more
  - [https://www.pcworld.com/article/617377/best-touchscreen-laptops.html](https://www.pcworld.com/article/617377/best-touchscreen-laptops.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-14 17:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -487,7 +486,6 @@ Laptops</div>
  - [https://www.pcworld.com/article/1435474/evga-gives-peeks-behind-the-curtain-as-it-exits-the-gpu-market.html](https://www.pcworld.com/article/1435474/evga-gives-peeks-behind-the-curtain-as-it-exits-the-gpu-market.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-14 16:01:53+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -524,7 +522,6 @@ GPUs</div>
  - [https://www.pcworld.com/article/1435315/pick-up-razers-basilisk-gaming-mouse-and-charging-dock-for-just-68.html](https://www.pcworld.com/article/1435315/pick-up-razers-basilisk-gaming-mouse-and-charging-dock-for-just-68.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-14 15:07:05+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -545,7 +542,6 @@ Mice</div>
  - [https://www.pcworld.com/article/1434166/amd-rdna-3-radeon-rx-7900-xtx-content-creation-review.html](https://www.pcworld.com/article/1434166/amd-rdna-3-radeon-rx-7900-xtx-content-creation-review.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-14 11:45:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
@@ -786,7 +782,6 @@ GPUs</div>
  - [https://www.pcworld.com/article/1428731/get-10tb-of-cloud-storage-for-just-80-through-december-15.html](https://www.pcworld.com/article/1428731/get-10tb-of-cloud-storage-for-just-80-through-december-15.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-12-14 08:00:00+00:00
- - tags: None
 
 <div id="link_wrapped_content">
 <section class="wp-block-bigbite-multi-title"><div class="container"></div></section>

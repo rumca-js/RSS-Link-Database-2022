@@ -1,10 +1,9 @@
-# Source Veritasium, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA
+# Source Veritasium, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA, Source language: en-US
 
 ## Inside The Navy's Indoor Ocean
  - [https://www.youtube.com/watch?v=pir_muTzYM8](https://www.youtube.com/watch?v=pir_muTzYM8)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA
  - date published: 2022-12-01 14:00:31+00:00
- - tags: None
 
 The US Navy has an indoor ocean that can simulate any wave in the world. This video is sponsored by Brilliant. You can get started for free, or the first 200 people to sign up via https://brilliant.org/veritasium get 20% off a yearly subscription. 
 

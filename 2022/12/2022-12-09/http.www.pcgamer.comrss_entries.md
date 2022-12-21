@@ -1,10 +1,9 @@
-# Source pcgamer, Source URL:http://www.pcgamer.com/rss
+# Source pcgamer, Source URL:http://www.pcgamer.com/rss, Source language: en-US
 
 ## The Outbound Ghost dev defaces his own Steam page in dispute with publisher
  - [https://www.pcgamer.com/the-outbound-ghost-dev-defaces-his-own-steam-page-in-dispute-with-publisher](https://www.pcgamer.com/the-outbound-ghost-dev-defaces-his-own-steam-page-in-dispute-with-publisher)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 23:17:53+00:00
- - tags: None
 
 Conrad Grindheim of Conradical Games says the sale of The Outbound Ghost is no longer authorized
 
@@ -12,7 +11,6 @@ Conrad Grindheim of Conradical Games says the sale of The Outbound Ghost is no l
  - [https://www.pcgamer.com/a-single-piece-of-elden-ring-dlc-could-streamroll-most-of-2023s-big-games](https://www.pcgamer.com/a-single-piece-of-elden-ring-dlc-could-streamroll-most-of-2023s-big-games)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 21:16:13+00:00
- - tags: None
 
 Only Starfield and Diablo likely stand in the way of Elden Ring being the biggest game of the year all over again.
 
@@ -20,7 +18,6 @@ Only Starfield and Diablo likely stand in the way of Elden Ring being the bigges
  - [https://www.pcgamer.com/this-artist-imagined-idris-elba-in-cyberpunk-2077-two-years-ago](https://www.pcgamer.com/this-artist-imagined-idris-elba-in-cyberpunk-2077-two-years-ago)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 19:36:51+00:00
- - tags: None
 
 Yesterday we learned Idris Elba is in Cyberpunk 2077: Phantom Liberty. Artist Zsolt Kosa envisioned it much earlier.
 
@@ -28,7 +25,6 @@ Yesterday we learned Idris Elba is in Cyberpunk 2077: Phantom Liberty. Artist Zs
  - [https://www.pcgamer.com/class-action-lawsuit-comparing-fortnite-to-cocaine-will-be-allowed-to-proceed](https://www.pcgamer.com/class-action-lawsuit-comparing-fortnite-to-cocaine-will-be-allowed-to-proceed)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 19:08:10+00:00
- - tags: None
 
 The lawsuit over Fortnite's alleged heroin-like addictiveness was originally filed in 2019.
 
@@ -36,7 +32,6 @@ The lawsuit over Fortnite's alleged heroin-like addictiveness was originally fil
  - [https://www.pcgamer.com/ixion-review](https://www.pcgamer.com/ixion-review)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 17:54:46+00:00
- - tags: None
 
 Humanity’s survival prospects look dire in in this colony builder.
 
@@ -44,7 +39,6 @@ Humanity’s survival prospects look dire in in this colony builder.
  - [https://www.pcgamer.com/why-do-hearthstones-new-signature-cards-look-so-depressing](https://www.pcgamer.com/why-do-hearthstones-new-signature-cards-look-so-depressing)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 17:07:03+00:00
- - tags: None
 
 The answer is plain to see.
 
@@ -52,7 +46,6 @@ The answer is plain to see.
  - [https://www.pcgamer.com/dragon-age-absolution-is-a-missable-spinoff-with-too-much-cast-on-a-too-tight-clock](https://www.pcgamer.com/dragon-age-absolution-is-a-missable-spinoff-with-too-much-cast-on-a-too-tight-clock)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 14:37:11+00:00
- - tags: None
 
 "We have Dragon Age at home." The Dragon Age at home:
 
@@ -60,7 +53,6 @@ The answer is plain to see.
  - [https://www.pcgamer.com/genshin-impact-emerges-victorious-in-the-bitter-game-awards-war-against-sonic-frontiers](https://www.pcgamer.com/genshin-impact-emerges-victorious-in-the-bitter-game-awards-war-against-sonic-frontiers)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 13:54:34+00:00
- - tags: None
 
 /The two fanbases developed a brutal rivalry over the fan-voted award.
 
@@ -68,7 +60,6 @@ The answer is plain to see.
  - [https://www.pcgamer.com/valheim-eitr-refinery-sap](https://www.pcgamer.com/valheim-eitr-refinery-sap)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 13:53:56+00:00
- - tags: None
 
 This magical Mistlands resource is pretty tricky to collect.
 
@@ -76,7 +67,6 @@ This magical Mistlands resource is pretty tricky to collect.
  - [https://www.pcgamer.com/supreme-gaming-keyboard-maker-mountain-is-now-affiliated-with-be-quiet](https://www.pcgamer.com/supreme-gaming-keyboard-maker-mountain-is-now-affiliated-with-be-quiet)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 12:59:58+00:00
- - tags: None
 
 With Mountain having been acquired by the Listan group, these two boss manufacturers are now sisters.
 
@@ -84,7 +74,6 @@ With Mountain having been acquired by the Listan group, these two boss manufactu
  - [https://www.pcgamer.com/tekken-8-is-bringing-back-a-fan-favourite-after-27-years](https://www.pcgamer.com/tekken-8-is-bringing-back-a-fan-favourite-after-27-years)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 12:40:59+00:00
- - tags: None
 
 It's Jun Kazama's first canon appearance since her debut in Tekken 2.
 
@@ -92,7 +81,6 @@ It's Jun Kazama's first canon appearance since her debut in Tekken 2.
  - [https://www.pcgamer.com/nvidia-rtx-4070-rumoured-to-have-same-core-counts-as-the-old-rtx-3070](https://www.pcgamer.com/nvidia-rtx-4070-rumoured-to-have-same-core-counts-as-the-old-rtx-3070)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 12:14:40+00:00
- - tags: None
 
 Performance boost of new GPU will be purely down to clockspeeds.
 
@@ -100,7 +88,6 @@ Performance boost of new GPU will be purely down to clockspeeds.
  - [https://www.pcgamer.com/amazon-partners-with-basketball-legend-steph-curry-to-make-a-toejam-and-earl-movie](https://www.pcgamer.com/amazon-partners-with-basketball-legend-steph-curry-to-make-a-toejam-and-earl-movie)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 12:07:01+00:00
- - tags: None
 
 No, I did not generate this headline with Mad Libs.
 
@@ -108,7 +95,6 @@ No, I did not generate this headline with Mad Libs.
  - [https://www.pcgamer.com/markiplier-finally-released-his-onlyfans-and-broke-the-whole-damn-site](https://www.pcgamer.com/markiplier-finally-released-his-onlyfans-and-broke-the-whole-damn-site)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 11:48:49+00:00
- - tags: None
 
 After months of teasing, the gaming YouTuber is here with more tasteful nudes.
 
@@ -116,7 +102,6 @@ After months of teasing, the gaming YouTuber is here with more tasteful nudes.
  - [https://www.pcgamer.com/steam-deck-giveaway-hopefuls-hijack-game-awards-chat-by-spamming-linux-commands](https://www.pcgamer.com/steam-deck-giveaway-hopefuls-hijack-game-awards-chat-by-spamming-linux-commands)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 11:13:47+00:00
- - tags: None
 
 !steamdeck /claim
 
@@ -124,7 +109,6 @@ After months of teasing, the gaming YouTuber is here with more tasteful nudes.
  - [https://www.pcgamer.com/chrome-browser-update-means-it-wont-hog-your-pcs-memory-so-much](https://www.pcgamer.com/chrome-browser-update-means-it-wont-hog-your-pcs-memory-so-much)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 10:52:41+00:00
- - tags: None
 
 Maybe now you can leave it running in the background, and it'll actually give your games space to breathe.
 
@@ -132,7 +116,6 @@ Maybe now you can leave it running in the background, and it'll actually give yo
  - [https://www.pcgamer.com/wordle-538-answer-december-9](https://www.pcgamer.com/wordle-538-answer-december-9)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 08:05:46+00:00
- - tags: None
 
 Wordle today: The solution and a hint for the #538 puzzle.
 
@@ -140,7 +123,6 @@ Wordle today: The solution and a hint for the #538 puzzle.
  - [https://www.pcgamer.com/game-awards-elden-ring-guy-stage-ambush-2022](https://www.pcgamer.com/game-awards-elden-ring-guy-stage-ambush-2022)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 04:49:45+00:00
- - tags: None
 
 The individual snuck on stage with the Elden Ring group and took the mic after their speech.
 
@@ -148,7 +130,6 @@ The individual snuck on stage with the Elden Ring group and took the mic after t
  - [https://www.pcgamer.com/game-awards-announcements-trailers-2022](https://www.pcgamer.com/game-awards-announcements-trailers-2022)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 04:48:27+00:00
- - tags: None
 
 Missed the show? Here's your skimmable recap of world premieres and trailers.
 
@@ -156,7 +137,6 @@ Missed the show? Here's your skimmable recap of world premieres and trailers.
  - [https://www.pcgamer.com/the-game-awards-2022-results-all-the-winners](https://www.pcgamer.com/the-game-awards-2022-results-all-the-winners)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 04:00:10+00:00
- - tags: None
 
 Here's all of the winners from the annual videogame awards show.
 
@@ -164,7 +144,6 @@ Here's all of the winners from the annual videogame awards show.
  - [https://www.pcgamer.com/cyberpunk-2077-phantom-liberty-stars-the-only-guy-cooler-than-keanu-reeves-idris-elba](https://www.pcgamer.com/cyberpunk-2077-phantom-liberty-stars-the-only-guy-cooler-than-keanu-reeves-idris-elba)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 03:58:22+00:00
- - tags: None
 
 Elba joins the Cyberpunk 2077 expansion as Solomon Reed, an FIA agent and "the only person players can trust."
 
@@ -172,7 +151,6 @@ Elba joins the Cyberpunk 2077 expansion as Solomon Reed, an FIA agent and "the o
  - [https://www.pcgamer.com/final-fantasy-16-is-out-next-june-on-ps5](https://www.pcgamer.com/final-fantasy-16-is-out-next-june-on-ps5)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 03:58:11+00:00
- - tags: None
 
 Final Fantasy's star producer appeared at the Game Awards to show off a big new trailer and give a release date... at least for consoles.
 
@@ -180,7 +158,6 @@ Final Fantasy's star producer appeared at the Game Awards to show off a big new 
  - [https://www.pcgamer.com/crime-boss-rockay-city-is-a-star-studded-caper-taking-aim-at-vice-city-vibes](https://www.pcgamer.com/crime-boss-rockay-city-is-a-star-studded-caper-taking-aim-at-vice-city-vibes)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 03:56:30+00:00
- - tags: None
 
 Michael Madsen, Danny Glover, and more provided mo-cap and voice work.
 
@@ -188,7 +165,6 @@ Michael Madsen, Danny Glover, and more provided mo-cap and voice work.
  - [https://www.pcgamer.com/fromsoftwares-next-game-is-armored-core-vi-fires-of-rubicon](https://www.pcgamer.com/fromsoftwares-next-game-is-armored-core-vi-fires-of-rubicon)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 03:53:58+00:00
- - tags: None
 
 The mech action series returns in 2023.
 
@@ -196,7 +172,6 @@ The mech action series returns in 2023.
  - [https://www.pcgamer.com/remnant-2-announced](https://www.pcgamer.com/remnant-2-announced)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 03:48:42+00:00
- - tags: None
 
 A sequel to co-op shooter Remnant: From the Ashes is "coming soon."
 
@@ -204,7 +179,6 @@ A sequel to co-op shooter Remnant: From the Ashes is "coming soon."
  - [https://www.pcgamer.com/meet-your-maker-behaviour-interactives-base-building-and-raiding-game-launches-in-april](https://www.pcgamer.com/meet-your-maker-behaviour-interactives-base-building-and-raiding-game-launches-in-april)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 03:40:09+00:00
- - tags: None
 
 A new gameplay trailer debuted at The Game Awards.
 
@@ -212,7 +186,6 @@ A new gameplay trailer debuted at The Game Awards.
  - [https://www.pcgamer.com/life-is-strange-studio-announces-action-rpg-banishers-ghosts-of-new-eden](https://www.pcgamer.com/life-is-strange-studio-announces-action-rpg-banishers-ghosts-of-new-eden)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 03:31:23+00:00
- - tags: None
 
 It releases on Steam in 2023.
 
@@ -220,7 +193,6 @@ It releases on Steam in 2023.
  - [https://www.pcgamer.com/warhammer-40000-space-marine-2-looks-awesome-in-first-gameplay-trailer](https://www.pcgamer.com/warhammer-40000-space-marine-2-looks-awesome-in-first-gameplay-trailer)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 03:17:50+00:00
- - tags: None
 
 The long awaited third-person action game will release in 2023.
 
@@ -228,7 +200,6 @@ The long awaited third-person action game will release in 2023.
  - [https://www.pcgamer.com/al-pacino-and-kratos-actor-chris-judge-went-filibuster-mode-at-the-game-awards-and-it-was-amazing](https://www.pcgamer.com/al-pacino-and-kratos-actor-chris-judge-went-filibuster-mode-at-the-game-awards-and-it-was-amazing)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 02:53:25+00:00
- - tags: None
 
 A Hollywood star handed off the first major trophy at The Game Awards to Kratos, and it immediately went in an unexpected direction.
 
@@ -236,7 +207,6 @@ A Hollywood star handed off the first major trophy at The Game Awards to Kratos,
  - [https://www.pcgamer.com/nightingale-gets-a-new-trailer-at-the-game-awards](https://www.pcgamer.com/nightingale-gets-a-new-trailer-at-the-game-awards)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 02:53:16+00:00
- - tags: None
 
 The PvE action survival game has been on our radar for a year now.
 
@@ -244,7 +214,6 @@ The PvE action survival game has been on our radar for a year now.
  - [https://www.pcgamer.com/diablo-4-release-date-announcement](https://www.pcgamer.com/diablo-4-release-date-announcement)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 02:48:11+00:00
- - tags: None
 
 <article>
                                 <div class="youtube-video"><div class="video-aspect-box"></div></div>
@@ -255,7 +224,6 @@ The PvE action survival game has been on our radar for a year now.
  - [https://www.pcgamer.com/ruined-king-studio-airship-syndicate-teams-with-digital-extremes-for-a-new-co-op-action-rpg](https://www.pcgamer.com/ruined-king-studio-airship-syndicate-teams-with-digital-extremes-for-a-new-co-op-action-rpg)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 02:35:07+00:00
- - tags: None
 
 Wayfinder was revealed at tonight's Game Awards show and is expected to launch in 2023.
 
@@ -263,7 +231,6 @@ Wayfinder was revealed at tonight's Game Awards show and is expected to launch i
  - [https://www.pcgamer.com/baldurs-gate-3-trailer-reveals-august-2023-release-window-and-the-return-of-two-familiar-friends](https://www.pcgamer.com/baldurs-gate-3-trailer-reveals-august-2023-release-window-and-the-return-of-two-familiar-friends)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 02:32:10+00:00
- - tags: None
 
 Minsc and Jaheira are back, baby. But where's Boo?
 
@@ -271,7 +238,6 @@ Minsc and Jaheira are back, baby. But where's Boo?
  - [https://www.pcgamer.com/one-of-steams-most-wishlisted-games-has-a-chaotic-new-trailer-and-is-coming-early-next-year](https://www.pcgamer.com/one-of-steams-most-wishlisted-games-has-a-chaotic-new-trailer-and-is-coming-early-next-year)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 02:21:36+00:00
- - tags: None
 
 Fuzzy multiplayer beat-em-up Party Animals has had fans waiting for years, and it's finally almost here.
 
@@ -279,7 +245,6 @@ Fuzzy multiplayer beat-em-up Party Animals has had fans waiting for years, and i
  - [https://www.pcgamer.com/death-stranding-2-is-official](https://www.pcgamer.com/death-stranding-2-is-official)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 02:13:16+00:00
- - tags: None
 
 Kojima Productions reveals the first trailer for its next game, Death Stranding 2.
 
@@ -287,7 +252,6 @@ Kojima Productions reveals the first trailer for its next game, Death Stranding 
  - [https://www.pcgamer.com/suicide-squad-reveals-release-date-return-of-kevin-conroy-as-batman](https://www.pcgamer.com/suicide-squad-reveals-release-date-return-of-kevin-conroy-as-batman)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 02:08:45+00:00
- - tags: None
 
 It'll be out on May 26, 2023.
 
@@ -295,7 +259,6 @@ It'll be out on May 26, 2023.
  - [https://www.pcgamer.com/star-wars-jedi-survivor-shows-off-first-gameplay-at-the-game-awards](https://www.pcgamer.com/star-wars-jedi-survivor-shows-off-first-gameplay-at-the-game-awards)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 01:59:54+00:00
- - tags: None
 
 EA's Star Wars sequel is coming on March 17.
 
@@ -303,7 +266,6 @@ EA's Star Wars sequel is coming on March 17.
  - [https://www.pcgamer.com/the-last-of-us-part-1-pc-release-date-announced-at-the-game-awards](https://www.pcgamer.com/the-last-of-us-part-1-pc-release-date-announced-at-the-game-awards)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 01:55:46+00:00
- - tags: None
 
 Naughty Dog's finest finally hits PC early next year.
 
@@ -311,7 +273,6 @@ Naughty Dog's finest finally hits PC early next year.
  - [https://www.pcgamer.com/destiny-2-gets-very-green-new-lightfall-gameplay-trailer](https://www.pcgamer.com/destiny-2-gets-very-green-new-lightfall-gameplay-trailer)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 01:43:41+00:00
- - tags: None
 
 It's almost time for the guardians final Strand.
 
@@ -319,7 +280,6 @@ It's almost time for the guardians final Strand.
  - [https://www.pcgamer.com/bioshock-creator-ken-levines-next-game-is-called-judas-out-next-year](https://www.pcgamer.com/bioshock-creator-ken-levines-next-game-is-called-judas-out-next-year)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 01:30:21+00:00
- - tags: None
 
 After at least five years in development, Levine's studio has shown off its next game.
 
@@ -327,7 +287,6 @@ After at least five years in development, Levine's studio has shown off its next
  - [https://www.pcgamer.com/supergiant-announces-hades-2-at-the-game-awards](https://www.pcgamer.com/supergiant-announces-hades-2-at-the-game-awards)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 01:26:45+00:00
- - tags: None
 
 The sequel will be developed in early access, just like the original.
 
@@ -335,7 +294,6 @@ The sequel will be developed in early access, just like the original.
  - [https://www.pcgamer.com/street-fighter-6-release-date-set-for-june](https://www.pcgamer.com/street-fighter-6-release-date-set-for-june)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 01:10:03+00:00
- - tags: None
 
 Capcom's inky new fighting game will splash onto Steam this summer.
 
@@ -343,7 +301,6 @@ Capcom's inky new fighting game will splash onto Steam this summer.
  - [https://www.pcgamer.com/a-badass-looking-hellboy-roguelite-is-being-made-with-creator-mike-mignola](https://www.pcgamer.com/a-badass-looking-hellboy-roguelite-is-being-made-with-creator-mike-mignola)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 01:03:43+00:00
- - tags: None
 
 Hellboy Web of Wyrd is described as a roguelite brawler.
 
@@ -351,7 +308,6 @@ Hellboy Web of Wyrd is described as a roguelite brawler.
  - [https://www.pcgamer.com/among-us-announces-official-hide-and-seek-mode](https://www.pcgamer.com/among-us-announces-official-hide-and-seek-mode)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 00:59:18+00:00
- - tags: None
 
 The popular mode has been unofficially played by fans for years, but starting December 9 it's part of the game.
 
@@ -359,7 +315,6 @@ The popular mode has been unofficially played by fans for years, but starting De
  - [https://www.pcgamer.com/after-us-is-a-surreal-tale-about-saving-the-souls-of-animals-in-a-post-human-world](https://www.pcgamer.com/after-us-is-a-surreal-tale-about-saving-the-souls-of-animals-in-a-post-human-world)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 00:58:18+00:00
- - tags: None
 
 The lovely adventure-platformer was revealed tonight at The Game Awards.
 
@@ -367,7 +322,6 @@ The lovely adventure-platformer was revealed tonight at The Game Awards.
  - [https://www.pcgamer.com/dead-cells-crossing-over-with-castlevania-in-2023](https://www.pcgamer.com/dead-cells-crossing-over-with-castlevania-in-2023)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 00:48:23+00:00
- - tags: None
 
 Dead Cells: Return to Castlevania will unite one of the best modern action-platformers with one of its inspirations.
 
@@ -375,7 +329,6 @@ Dead Cells: Return to Castlevania will unite one of the best modern action-platf
  - [https://www.pcgamer.com/excellent-playstation-roguelike-returnal-is-coming-to-pc](https://www.pcgamer.com/excellent-playstation-roguelike-returnal-is-coming-to-pc)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 00:40:45+00:00
- - tags: None
 
 Sony confirms its PS5 exclusive is out early 2023.
 
@@ -383,6 +336,5 @@ Sony confirms its PS5 exclusive is out early 2023.
  - [https://www.pcgamer.com/vampire-survivors-gets-surprise-mobile-release-and-its-free](https://www.pcgamer.com/vampire-survivors-gets-surprise-mobile-release-and-its-free)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-09 00:26:11+00:00
- - tags: None
 
 One of the best PC games of 2022 is now on your phone.

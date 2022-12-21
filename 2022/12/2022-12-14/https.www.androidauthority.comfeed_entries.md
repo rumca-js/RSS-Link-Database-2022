@@ -1,10 +1,9 @@
-# Source Android Authority, Source URL:https://www.androidauthority.com/feed/
+# Source Android Authority, Source URL:https://www.androidauthority.com/feed/, Source language: en-US
 
 ## Google announces its favorite Chrome extensions of the year
  - [https://www.androidauthority.com/google-chrome-extensions-3251129/](https://www.androidauthority.com/google-chrome-extensions-3251129/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-14 19:42:55+00:00
- - tags: None
 
 Google picked from four categories.
 
@@ -12,7 +11,6 @@ Google picked from four categories.
  - [https://www.androidauthority.com/android-parental-controls-explained-3250229/](https://www.androidauthority.com/android-parental-controls-explained-3250229/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-14 19:19:57+00:00
- - tags: None
 
 Keep tabs on your kids' digital habits all from your phone.
 
@@ -20,7 +18,6 @@ Keep tabs on your kids' digital habits all from your phone.
  - [https://www.androidauthority.com/wallpaper-wednesday-dec-14-2022-3250151/](https://www.androidauthority.com/wallpaper-wednesday-dec-14-2022-3250151/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-14 14:30:58+00:00
- - tags: None
 
 Here is a weekly selection of Android wallpapers created by our readers and members of the Android Authority team!
 
@@ -28,7 +25,6 @@ Here is a weekly selection of Android wallpapers created by our readers and memb
  - [https://www.androidauthority.com/the-21-best-kids-movies-on-disney-plus-in-2022-3154589/](https://www.androidauthority.com/the-21-best-kids-movies-on-disney-plus-in-2022-3154589/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-14 13:05:29+00:00
- - tags: None
 
 Make the most of your subscription with these great titles for kids.
 
@@ -36,7 +32,6 @@ Make the most of your subscription with these great titles for kids.
  - [https://www.androidauthority.com/last-time-sideload-app-android-phone-3251028/](https://www.androidauthority.com/last-time-sideload-app-android-phone-3251028/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-14 12:54:21+00:00
- - tags: None
 
 Do you frequently sideload apps or is the Play Store good enough for you?
 
@@ -44,7 +39,6 @@ Do you frequently sideload apps or is the Play Store good enough for you?
  - [https://www.androidauthority.com/daily-authority-december-14-2022-3250926/](https://www.androidauthority.com/daily-authority-december-14-2022-3250926/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-14 10:15:06+00:00
- - tags: None
 
 Apple's shocking U-turn on sideloading, TikTok's potential US ban, and more tech news.
 
@@ -52,7 +46,6 @@ Apple's shocking U-turn on sideloading, TikTok's potential US ban, and more tech
  - [https://www.androidauthority.com/samsung-chipset-development-team-smartphone-business-3250952/](https://www.androidauthority.com/samsung-chipset-development-team-smartphone-business-3250952/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-14 09:25:31+00:00
- - tags: None
 
 Samsung relies on a sister division for custom smartphone chips, but that may have changed.
 
@@ -60,7 +53,6 @@ Samsung relies on a sister division for custom smartphone chips, but that may ha
  - [https://www.androidauthority.com/oppo-custom-bluetooth-audio-3250637/](https://www.androidauthority.com/oppo-custom-bluetooth-audio-3250637/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-14 08:30:56+00:00
- - tags: None
 
 Unfortunately, no release dates for the announced products.
 
@@ -68,7 +60,6 @@ Unfortunately, no release dates for the announced products.
  - [https://www.androidauthority.com/google-pixel-6-pro-display-resolution-toggle-3250947/](https://www.androidauthority.com/google-pixel-6-pro-display-resolution-toggle-3250947/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-14 07:13:15+00:00
- - tags: None
 
 Google first brought a display resolution toggle to the Pixel 7 Pro, and it's now come to last year's model.
 
@@ -76,6 +67,5 @@ Google first brought a display resolution toggle to the Pixel 7 Pro, and it's no
  - [https://www.androidauthority.com/motorola-expands-list-of-phones-android-13-3250443/](https://www.androidauthority.com/motorola-expands-list-of-phones-android-13-3250443/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-12-14 05:51:41+00:00
- - tags: None
 
 There's still no word on a timeline for these phones to actually get updated, though.

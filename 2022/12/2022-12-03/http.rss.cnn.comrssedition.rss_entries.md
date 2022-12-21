@@ -1,10 +1,9 @@
-# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
 
 ## Trump calls for the termination of the US Constitution in Truth Social post
  - [https://www.cnn.com/2022/12/03/politics/trump-constitution-truth-social/index.html](https://www.cnn.com/2022/12/03/politics/trump-constitution-truth-social/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 23:25:23+00:00
- - tags: None
 
 Former President Donald Trump called for the termination of the Constitution to overturn the 2020 election and reinstate him to power Saturday in a continuation of his election denialism and pushing of fringe conspiracy theories.
 
@@ -12,7 +11,6 @@ Former President Donald Trump called for the termination of the Constitution to 
  - [https://www.cnn.com/videos/politics/2022/12/03/trump-termination-rules-constitution-truth-social-honig-acostanr-vpx.cnn](https://www.cnn.com/videos/politics/2022/12/03/trump-termination-rules-constitution-truth-social-honig-acostanr-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 23:20:36+00:00
- - tags: None
 
 CNN senior legal analyst and former federal prosecutor Elie Honig reacts to former President Donald Trump's statement on his social media platform Truth Social.
 
@@ -20,7 +18,6 @@ CNN senior legal analyst and former federal prosecutor Elie Honig reacts to form
  - [https://www.cnn.com/travel/article/carnival-cruise-passenger-fell-shares-story/index.html](https://www.cnn.com/travel/article/carnival-cruise-passenger-fell-shares-story/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 22:15:34+00:00
- - tags: None
 
 When James Michael Grimes fell overboard from a Carnival cruise ship in the Gulf of Mexico, he said the sheer will to live, along with strength from God, kept him alive as he miraculously swam for what he believes was more than 15 hours.
 
@@ -28,7 +25,6 @@ When James Michael Grimes fell overboard from a Carnival cruise ship in the Gulf
  - [https://www.cnn.com/2022/12/03/world/wealthy-russian-businessman-arrested-london/index.html](https://www.cnn.com/2022/12/03/world/wealthy-russian-businessman-arrested-london/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 21:13:43+00:00
- - tags: None
 
 A wealthy Russian businessman has been arrested as part of a "major operation" on suspicion of multiple offenses, the United Kingdom's National Crime Agency said in a statement Saturday.
 
@@ -36,7 +32,6 @@ A wealthy Russian businessman has been arrested as part of a "major operation" o
  - [https://www.cnn.com/2022/12/03/football/lionel-messi-argentina-australia-2022-world-cup-spt-intl/index.html](https://www.cnn.com/2022/12/03/football/lionel-messi-argentina-australia-2022-world-cup-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 20:57:47+00:00
- - tags: None
 
 Lionel Messi scored in what was the 1,000th game of his storied career as Argentina beat Australia 2-1 to advance to the World Cup quarterfinals.
 
@@ -44,7 +39,6 @@ Lionel Messi scored in what was the 1,000th game of his storied career as Argent
  - [https://edition.cnn.com/sport/live-news/world-cup-2022-12-03-2022/index.html](https://edition.cnn.com/sport/live-news/world-cup-2022-12-03-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 19:36:27.503130+00:00
- - tags: None
 
 
 
@@ -52,7 +46,6 @@ Lionel Messi scored in what was the 1,000th game of his storied career as Argent
  - [https://edition.cnn.com/webview/sport/live-news/world-cup-2022-12-03-2022/index.html](https://edition.cnn.com/webview/sport/live-news/world-cup-2022-12-03-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 19:36:27.447643+00:00
- - tags: None
 
 
 
@@ -60,7 +53,6 @@ Lionel Messi scored in what was the 1,000th game of his storied career as Argent
  - [https://edition.cnn.com/sport/live-news/world-cup-2022-12-03-2022/h_4224901a61d65d9324ccfe6943cf4a9a](https://edition.cnn.com/sport/live-news/world-cup-2022-12-03-2022/h_4224901a61d65d9324ccfe6943cf4a9a)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 19:23:38.389430+00:00
- - tags: None
 
 
 
@@ -68,7 +60,6 @@ Lionel Messi scored in what was the 1,000th game of his storied career as Argent
  - [https://www.cnn.com/videos/world/2022/12/03/jiang-zemin-death-impact-on-protests-in-china-ivan-watson-intl-vpx.cnn](https://www.cnn.com/videos/world/2022/12/03/jiang-zemin-death-impact-on-protests-in-china-ivan-watson-intl-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 18:52:09+00:00
- - tags: None
 
 Jiang Zemin, the Chinese communist leader who paved the way for the country's emergence as a global superpower, has died, state-run Xinhua news agency announced. CNN's Ivan Watson reports on the impact the former president's death could have on the ongoing protests against China's "zero-Covid" policy.
 
@@ -76,7 +67,6 @@ Jiang Zemin, the Chinese communist leader who paved the way for the country's em
  - [http://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-12-03-22/index.html](http://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-12-03-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 17:23:32.591176+00:00
- - tags: None
 
 
 
@@ -84,7 +74,6 @@ Jiang Zemin, the Chinese communist leader who paved the way for the country's em
  - [https://www.cnn.com/2022/12/03/football/usa-netherlands-world-cup-2022-spt-intl/index.html](https://www.cnn.com/2022/12/03/football/usa-netherlands-world-cup-2022-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 17:09:05+00:00
- - tags: None
 
 The United States Men's National Team (USMNT) was defeated 3-1 by the Netherlands and knocked out the World Cup in the round of 16, despite a spirited performance.
 
@@ -92,7 +81,6 @@ The United States Men's National Team (USMNT) was defeated 3-1 by the Netherland
  - [https://www.cnn.com/style/article/banksy-mural-stolen-ukraine-intl/index.html](https://www.cnn.com/style/article/banksy-mural-stolen-ukraine-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 16:57:40+00:00
- - tags: None
 
 Authorities in Ukraine have detained a group of people who allegedly tried to steal a mural by renowned graffiti artist Banksy from the wall of a building that was damaged by Russian shelling.
 
@@ -100,7 +88,6 @@ Authorities in Ukraine have detained a group of people who allegedly tried to st
  - [http://edition.cnn.com/webview/sport/live-news/world-cup-2022-12-03-2022/index.html](http://edition.cnn.com/webview/sport/live-news/world-cup-2022-12-03-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 16:23:28.762334+00:00
- - tags: None
 
 
 
@@ -108,7 +95,6 @@ Authorities in Ukraine have detained a group of people who allegedly tried to st
  - [https://www.cnn.com/2022/12/03/world/apollo-photos-science-newsletter-wt-scn/index.html](https://www.cnn.com/2022/12/03/world/apollo-photos-science-newsletter-wt-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 16:10:03+00:00
- - tags: None
 
 Selfies weren't a common practice when humanity first reached the moon.
 
@@ -116,7 +102,6 @@ Selfies weren't a common practice when humanity first reached the moon.
  - [https://www.cnn.com/2022/12/03/football/pele-football-world-well-wishes-intl-spt/index.html](https://www.cnn.com/2022/12/03/football/pele-football-world-well-wishes-intl-spt/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 15:53:35+00:00
- - tags: None
 
 Past and present football stars have been wishing Pelé well on social media after local media reports in Brazil that his health had worsened.
 
@@ -124,7 +109,6 @@ Past and present football stars have been wishing Pelé well on social media aft
  - [https://www.cnn.com/2022/12/03/asia/java-indonesia-earthquake-intl/index.html](https://www.cnn.com/2022/12/03/asia/java-indonesia-earthquake-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 14:54:23+00:00
- - tags: None
 
 An earthquake of 6.1 magnitude hit Indonesia's West Java province on Saturday, the country's geophysics agency BMKG said.
 
@@ -132,7 +116,6 @@ An earthquake of 6.1 magnitude hit Indonesia's West Java province on Saturday, t
  - [https://www.cnn.com/sport/live-news/world-cup-2022-12-03-2022/index.html](https://www.cnn.com/sport/live-news/world-cup-2022-12-03-2022/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 14:49:42+00:00
- - tags: None
 
 
 
@@ -140,7 +123,6 @@ An earthquake of 6.1 magnitude hit Indonesia's West Java province on Saturday, t
  - [https://www.cnn.com/europe/live-news/russia-ukraine-war-news-12-03-22/index.html](https://www.cnn.com/europe/live-news/russia-ukraine-war-news-12-03-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 14:31:40+00:00
- - tags: None
 
 • Russia's war changed the lives of many trans people
 • Letters with explosives and animal parts are aimed at 'sowing fear': Ukrainian official
@@ -149,7 +131,6 @@ An earthquake of 6.1 magnitude hit Indonesia's West Java province on Saturday, t
  - [https://www.cnn.com/style/article/kate-earthshot-diana-choker-intl-gbr/index.html](https://www.cnn.com/style/article/kate-earthshot-diana-choker-intl-gbr/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 14:06:25+00:00
- - tags: None
 
 Catherine, Princess of Wales delighted at the 2022 Earthshot Prize awards Friday evening, showcasing her sustainable style in a rented gown and accessorizing with an emerald choker once famously worn by her late mother-in-law, Diana.
 
@@ -157,7 +138,6 @@ Catherine, Princess of Wales delighted at the 2022 Earthshot Prize awards Friday
  - [https://www.cnn.com/videos/world/2022/12/03/senegal-parliament-fight-between-opposition-ruling-cprog-orig-llr.cnn](https://www.cnn.com/videos/world/2022/12/03/senegal-parliament-fight-between-opposition-ruling-cprog-orig-llr.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 13:26:01+00:00
- - tags: None
 
 A brawl broke out in Senegal's parliament as lawmakers butted heads over Senegalese President Macky Sall potentially seeking a third term.
 
@@ -165,7 +145,6 @@ A brawl broke out in Senegal's parliament as lawmakers butted heads over Senegal
  - [https://www.cnn.com/2022/12/03/business/espresso-martini-popularity-rise/index.html](https://www.cnn.com/2022/12/03/business/espresso-martini-popularity-rise/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 13:18:23+00:00
- - tags: None
 
 It might be 2022, but people are still ordering espresso martinis like it's the 90s.
 
@@ -173,7 +152,6 @@ It might be 2022, but people are still ordering espresso martinis like it's the 
  - [https://www.cnn.com/2022/12/03/tech/alternative-wearable-devices/index.html](https://www.cnn.com/2022/12/03/tech/alternative-wearable-devices/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 13:16:29+00:00
- - tags: None
 
 In 2015, the same year Apple introduced its smartwatch, a Kickstarter campaign launched for a very different kind of wearable device: a wellness-tracking ring called the Oura.
 
@@ -181,7 +159,6 @@ In 2015, the same year Apple introduced its smartwatch, a Kickstarter campaign l
  - [https://www.cnn.com/2022/12/03/entertainment/broadway-actor-quentin-oliver-lee-obit/index.html](https://www.cnn.com/2022/12/03/entertainment/broadway-actor-quentin-oliver-lee-obit/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 12:49:50+00:00
- - tags: None
 
 Broadway actor Quentin Oliver Lee has died at age 34, according to an online announcement from his wife. The post comes six months after Lee said he was diagnosed with stage 4 colon cancer.
 
@@ -189,7 +166,6 @@ Broadway actor Quentin Oliver Lee has died at age 34, according to an online ann
  - [https://www.cnn.com/2022/12/03/us/catfish-how-to-keep-kids-safe-cec/index.html](https://www.cnn.com/2022/12/03/us/catfish-how-to-keep-kids-safe-cec/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 12:13:11+00:00
- - tags: None
 
 Catfishing crimes have ensnared people for years.
 
@@ -197,7 +173,6 @@ Catfishing crimes have ensnared people for years.
  - [https://www.cnn.com/2022/12/03/us/providence-rhode-island-reparations-reaj/index.html](https://www.cnn.com/2022/12/03/us/providence-rhode-island-reparations-reaj/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 11:02:57+00:00
- - tags: None
 
 Officials in Providence, Rhode Island, recently approved a $10 million budget plan for the city's reparations program, but some are wondering who might end up benefiting from it.
 
@@ -205,7 +180,6 @@ Officials in Providence, Rhode Island, recently approved a $10 million budget pl
  - [https://www.cnn.com/travel/article/travel-news-airbus-a380-expensive-cities/index.html](https://www.cnn.com/travel/article/travel-news-airbus-a380-expensive-cities/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 10:49:59+00:00
- - tags: None
 
 Unleash the elves, December is here. Start the holiday countdown with our roundup of 15 luxury hotels that go all out for Christmas and then read about Advent traditions around the world.
 
@@ -213,7 +187,6 @@ Unleash the elves, December is here. Start the holiday countdown with our roundu
  - [https://www.cnn.com/2022/12/03/sport/lebron-james-magic-johnson-intl-spt/index.html](https://www.cnn.com/2022/12/03/sport/lebron-james-magic-johnson-intl-spt/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 10:42:57+00:00
- - tags: None
 
 LeBron James moved past Magic Johnson for sixth place on the NBA's all-time assists list as the Los Angeles Lakers took a hard earned 133-129 win over the Milwaukee Bucks.
 
@@ -221,7 +194,6 @@ LeBron James moved past Magic Johnson for sixth place on the NBA's all-time assi
  - [https://www.cnn.com/travel/article/christmas-vacations-best-places-to-go/index.html](https://www.cnn.com/travel/article/christmas-vacations-best-places-to-go/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 10:32:56+00:00
- - tags: None
 
 Anyplace can string up a few lights and call it a holiday celebration, but travelers who really love Christmas want more.
 
@@ -229,7 +201,6 @@ Anyplace can string up a few lights and call it a holiday celebration, but trave
  - [https://www.cnn.com/2022/12/03/world/nasa-solar-array-spacewalk-scn/index.html](https://www.cnn.com/2022/12/03/world/nasa-solar-array-spacewalk-scn/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 10:10:34+00:00
- - tags: None
 
 The International Space Station will receive a power boost during a spacewalk on Saturday, as NASA astronauts Josh Cassada and Frank Rubio install a solar array outside the floating laboratory.
 
@@ -237,7 +208,6 @@ The International Space Station will receive a power boost during a spacewalk on
  - [https://cnn.it/3Vr9fK4](https://cnn.it/3Vr9fK4)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 09:35:56.694136+00:00
- - tags: None
 
 Stunning scenes of dissent and defiance played out across China over the past week, marking the country's largest protests in decades -- and an unprecedented challenge to leader Xi Jinping.
 
@@ -245,7 +215,6 @@ Stunning scenes of dissent and defiance played out across China over the past we
  - [https://www.cnn.com/2022/12/03/football/ronaldo-coach-curse-portugal-world-cup-intl-spt/index.html](https://www.cnn.com/2022/12/03/football/ronaldo-coach-curse-portugal-world-cup-intl-spt/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 09:28:29+00:00
- - tags: None
 
 Cristiano Ronaldo denied that he had sworn at Portugal coach Fernando Santos when he was substituted during a dramatic 2-1 defeat to South Korea in the World Cup on Friday, as both teams advanced into the next round.
 
@@ -253,7 +222,6 @@ Cristiano Ronaldo denied that he had sworn at Portugal coach Fernando Santos whe
  - [https://www.cnn.com/2022/12/03/world/seychelles-tortoise-st-helena-jonathan-190-birthday-intl-hnk/index.html](https://www.cnn.com/2022/12/03/world/seychelles-tortoise-st-helena-jonathan-190-birthday-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 08:14:36+00:00
- - tags: None
 
 The South Atlantic island of St. Helena is celebrating the birthday of the world's oldest living land animal -- a Seychelles giant tortoise called Jonathan, who is turning 190.
 
@@ -261,7 +229,6 @@ The South Atlantic island of St. Helena is celebrating the birthday of the world
  - [https://www.cnn.com/2022/12/03/americas/antarctic-cruise-rogue-wave-kills-american-intl-hnk/index.html](https://www.cnn.com/2022/12/03/americas/antarctic-cruise-rogue-wave-kills-american-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 07:15:13+00:00
- - tags: None
 
 One passenger was killed and four injured when a "rogue wave" hit their cruise ship  during a storm earlier this week.
 
@@ -269,7 +236,6 @@ One passenger was killed and four injured when a "rogue wave" hit their cruise s
  - [https://www.cnn.com/2022/12/03/europe/ukraine-war-trans-challenges-intl-cmd/index.html](https://www.cnn.com/2022/12/03/europe/ukraine-war-trans-challenges-intl-cmd/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 05:51:31+00:00
- - tags: None
 
 The best day of Eric's life came just days before the worst.
 
@@ -277,7 +243,6 @@ The best day of Eric's life came just days before the worst.
  - [https://www.cnn.com/2022/12/03/world/gary-strieker-nairobi-africa-environment-reporter-obit-remembrance-ctrp/index.html](https://www.cnn.com/2022/12/03/world/gary-strieker-nairobi-africa-environment-reporter-obit-remembrance-ctrp/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 05:07:39+00:00
- - tags: None
 
 Gary Strieker had every reason to be a pessimist. People dying of hunger, brutal killings and many other horrific events that he covered as an international reporter unfolded right before his eyes.
 
@@ -285,7 +250,6 @@ Gary Strieker had every reason to be a pessimist. People dying of hunger, brutal
  - [https://www.cnn.com/2022/12/02/sport/world-cup-qatar-mocks-germany-armband-gesture-intl-hnk/index.html](https://www.cnn.com/2022/12/02/sport/world-cup-qatar-mocks-germany-armband-gesture-intl-hnk/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 04:36:39+00:00
- - tags: None
 
 Football pundits on Qatar's Alkass Sports channel mocked the German football team following its World Cup exit -- by mimicking the players' protest over human rights.
 
@@ -293,7 +257,6 @@ Football pundits on Qatar's Alkass Sports channel mocked the German football tea
  - [https://www.cnn.com/2022/12/02/world/royal-news-newsletter-12-02-22-scli-gbr-cmd-intl/index.html](https://www.cnn.com/2022/12/02/world/royal-news-newsletter-12-02-22-scli-gbr-cmd-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 03:12:44+00:00
- - tags: None
 
 This week's newsletter is coming out a little later than normal -- but for a good reason. We wanted to bring readers along to the grand finale of the Prince and Princess of Wales' US visit -- the Earthshot Prize Award ceremony.
 
@@ -301,7 +264,6 @@ This week's newsletter is coming out a little later than normal -- but for a goo
  - [https://www.cnn.com/2022/12/02/china/china-covid-lockdown-protests-2022-intl-hnk-dst/index.html](https://www.cnn.com/2022/12/02/china/china-covid-lockdown-protests-2022-intl-hnk-dst/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 01:58:07+00:00
- - tags: None
 
 Stunning scenes of dissent and defiance played out across China over the past week, marking the country's largest protests in decades -- and an unprecedented challenge to leader Xi Jinping.
 
@@ -309,7 +271,6 @@ Stunning scenes of dissent and defiance played out across China over the past we
  - [https://www.cnn.com/style/article/australia-sydney-modern-project-art-gallery/index.html](https://www.cnn.com/style/article/australia-sydney-modern-project-art-gallery/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 01:35:20+00:00
- - tags: None
 
 In a World War II-era fuel storage tank deep beneath Sydney, the smell of gasoline still hangs in the air. Pulsing lights sweep the cavernous space to reveal fragments of "The End of Imagination," an installation by Argentine artist Adrián Villar Rojas. Five twisting sculptural forms, born from a digitized future of Rojas' creation, emerge out of the darkness.
 
@@ -317,7 +278,6 @@ In a World War II-era fuel storage tank deep beneath Sydney, the smell of gasoli
  - [https://www.cnn.com/videos/us/2022/12/02/full-court-shot-llinois-eighth-grade-buzzer-beater-cprog-orig-aw.cnn](https://www.cnn.com/videos/us/2022/12/02/full-court-shot-llinois-eighth-grade-buzzer-beater-cprog-orig-aw.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 01:15:59+00:00
- - tags: None
 
 An Illinois eighth grader describes making a nearly full-court shot with just three seconds left in his basketball game against a rival team.
 
@@ -325,6 +285,5 @@ An Illinois eighth grader describes making a nearly full-court shot with just th
  - [https://www.cnn.com/2022/12/02/football/argentina-australia-world-cup-lionel-messi-spt-intl/index.html](https://www.cnn.com/2022/12/02/football/argentina-australia-world-cup-lionel-messi-spt-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-12-03 01:14:03+00:00
- - tags: None
 
 The World Cup has hardly been straightforward for Lionel Messi and Argentina thus far, but they are strong favorites ahead of their round of 16 game against Australia.

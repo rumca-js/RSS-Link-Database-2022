@@ -1,4 +1,4 @@
-# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml
+# Source Fox News, Source URL:https://moxie.foxnews.com/google-publisher/latest.xml, Source language: en-US
 
 ## DC Democrat fights own party over violent crime response: 'Truly puzzling'
  - [https://www.foxnews.com/politics/dc-democrat-fights-own-party-violent-crime-response](https://www.foxnews.com/politics/dc-democrat-fights-own-party-violent-crime-response)

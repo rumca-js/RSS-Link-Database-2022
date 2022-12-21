@@ -1,4 +1,4 @@
-# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml
+# Source The Wall Street - Tech, Source URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, Source language: en-US
 
 ## Twitter Reinstates Some Accounts of Suspended Journalists
  - [https://www.wsj.com/articles/twitter-reinstates-some-accounts-of-suspended-journalists-11671292940?mod=rss_Technology](https://www.wsj.com/articles/twitter-reinstates-some-accounts-of-suspended-journalists-11671292940?mod=rss_Technology)

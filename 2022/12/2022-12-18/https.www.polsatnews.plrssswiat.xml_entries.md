@@ -1,4 +1,4 @@
-# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml
+# Source Polsat News, Source URL:https://www.polsatnews.pl/rss/swiat.xml, Source language: pl-PL
 
 ## USA. Policja szuka 11-latki. Matka nie zgłosiła zaginięcia
  - [https://www.polsatnews.pl/wiadomosc/2022-12-18/usa-policja-szuka-11-latki-matka-nie-zglosila-zaginiecia/](https://www.polsatnews.pl/wiadomosc/2022-12-18/usa-policja-szuka-11-latki-matka-nie-zglosila-zaginiecia/)

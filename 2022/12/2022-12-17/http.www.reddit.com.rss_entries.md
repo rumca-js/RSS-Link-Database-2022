@@ -1,4 +1,11 @@
-# Source Reddit - Front Page, Source URL:http://www.reddit.com/.rss
+# Source Reddit - Front Page, Source URL:http://www.reddit.com/.rss, Source language: en-US
+
+## To get a hug
+ - [https://www.reddit.com/r/therewasanattempt/comments/zok5a3/to_get_a_hug/](https://www.reddit.com/r/therewasanattempt/comments/zok5a3/to_get_a_hug/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-12-17 23:54:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/therewasanattempt/comments/zok5a3/to_get_a_hug/"> <img alt="To get a hug" src="https://external-preview.redd.it/pJc7iGF2cUzGlhUps2sXOcYhvGUS6dztaUmo_rmTCWE.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8523ba1380e9b09fb50c2c976098a3e2f15c4a31" title="To get a hug" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok_Purchase3592"> /u/Ok_Purchase3592 </a> &#32; to &#32; <a href="https://www.reddit.com/r/therewasanattempt/"> r/therewasanattempt </a> <br /> <span><a href="https://v.redd.it/50od5f067l6a1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/therewasanattempt/comments/zok5a3/to_get_a_hug/">[comments]</a></span> </td></tr></table>
 
 ## meirl
  - [https://www.reddit.com/r/meirl/comments/zok03f/meirl/](https://www.reddit.com/r/meirl/comments/zok03f/meirl/)
@@ -48,6 +55,13 @@
  - date published: 2022-12-17 21:54:21+00:00
 
 <table> <tr><td> <a href="https://www.reddit.com/r/poland/comments/zohd9r/polish_electrical_safety_be_like/"> <img alt="polish electrical safety be like" src="https://preview.redd.it/8e8cz5f65j6a1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d2befe2522de5d73138c5a933267a4beea0c7d89" title="polish electrical safety be like" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MegaMinerDL"> /u/MegaMinerDL </a> &#32; to &#32; <a href="https://www.reddit.com/r/poland/"> r/poland </a> <br /> <span><a href="https://i.redd.it/8e8cz5f65j6a1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/poland/comments/zohd9r/polish_electrical_safety_be_like/">[comments]</a></span> </td></tr></table>
+
+## What is a "green flag" you've experienced on a first date that made you want to have a second date?
+ - [https://www.reddit.com/r/AskReddit/comments/zogzi1/what_is_a_green_flag_youve_experienced_on_a_first/](https://www.reddit.com/r/AskReddit/comments/zogzi1/what_is_a_green_flag_youve_experienced_on_a_first/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-12-17 21:37:54+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/EmCWolf13"> /u/EmCWolf13 </a> &#32; to &#32; <a href="https://www.reddit.com/r/AskReddit/"> r/AskReddit </a> <br /> <span><a href="https://www.reddit.com/r/AskReddit/comments/zogzi1/what_is_a_green_flag_youve_experienced_on_a_first/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/AskReddit/comments/zogzi1/what_is_a_green_flag_youve_experienced_on_a_first/">[comments]</a></span>
 
 ## The picture I love to send to everyone saying me "being gay isn't natural"
  - [https://www.reddit.com/r/MadeMeSmile/comments/zogp41/the_picture_i_love_to_send_to_everyone_saying_me/](https://www.reddit.com/r/MadeMeSmile/comments/zogp41/the_picture_i_love_to_send_to_everyone_saying_me/)

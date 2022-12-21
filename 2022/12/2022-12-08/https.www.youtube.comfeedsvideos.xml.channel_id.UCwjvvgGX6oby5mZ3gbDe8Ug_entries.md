@@ -1,10 +1,9 @@
-# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
+# Source China Insights, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug, Source language: en-US
 
 ## China's Heavy Price of Zero-Covid Policy: 'Can we Survive into 2023?'/Apple Inc: not run fast enough
  - [https://www.youtube.com/watch?v=uOUa3PSb4jU](https://www.youtube.com/watch?v=uOUa3PSb4jU)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
  - date published: 2022-12-08 17:16:42+00:00
- - tags: None
 
 #chinainsights 
 Over the past few days, some cities in China have eased restrictions on epidemic prevention and control, but the road to reopening will be long and bumpy. If infection rates rise further this winter, Communist authorities may tighten controls again.

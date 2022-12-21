@@ -1,10 +1,9 @@
-# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx
+# Source CodeProject, Source URL:https://www.codeproject.com/WebServices/NewsRSS.aspx, Source language: en-US
 
 ## .NET 7 networking improvements
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59758](https://www.codeproject.com/script/News/View.aspx?nwid=59758)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-09 05:00:00+00:00
- - tags: None
 
 It's joined a few clubs to meet new people
 
@@ -12,7 +11,6 @@ It's joined a few clubs to meet new people
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59765](https://www.codeproject.com/script/News/View.aspx?nwid=59765)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-09 05:00:00+00:00
- - tags: None
 
 Machine learning (ML) has undergone rapid transformation and adoption in recent years, driven by a number of factors.
 
@@ -20,7 +18,6 @@ Machine learning (ML) has undergone rapid transformation and adoption in recent 
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59763](https://www.codeproject.com/script/News/View.aspx?nwid=59763)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-09 05:00:00+00:00
- - tags: None
 
 The primary vision for TrueFoundry is to automate the parts in the machine learning pipeline and empower the machine learning engineers and data scientists to test models in production and reduce dependencies on other teams.
 
@@ -28,7 +25,6 @@ The primary vision for TrueFoundry is to automate the parts in the machine learn
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59773](https://www.codeproject.com/script/News/View.aspx?nwid=59773)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-09 05:00:00+00:00
- - tags: None
 
 There's only so much hipster one person can take?
 
@@ -36,7 +32,6 @@ There's only so much hipster one person can take?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59769](https://www.codeproject.com/script/News/View.aspx?nwid=59769)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-09 05:00:00+00:00
- - tags: None
 
 And then they came for me, and there was no one left as I've been using this joke WAY too much
 
@@ -44,7 +39,6 @@ And then they came for me, and there was no one left as I've been using this jok
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59772](https://www.codeproject.com/script/News/View.aspx?nwid=59772)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-09 05:00:00+00:00
- - tags: None
 
 Well, that sucks (or blows)
 
@@ -52,7 +46,6 @@ Well, that sucks (or blows)
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59762](https://www.codeproject.com/script/News/View.aspx?nwid=59762)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-09 05:00:00+00:00
- - tags: None
 
 One of the biggest challenges PyTorch developers face in their deep learning projects is model optimization and performance.
 
@@ -60,7 +53,6 @@ One of the biggest challenges PyTorch developers face in their deep learning pro
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59768](https://www.codeproject.com/script/News/View.aspx?nwid=59768)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-09 05:00:00+00:00
- - tags: None
 
 Attention choir: some preaching incoming
 
@@ -68,7 +60,6 @@ Attention choir: some preaching incoming
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59770](https://www.codeproject.com/script/News/View.aspx?nwid=59770)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-09 05:00:00+00:00
- - tags: None
 
 Now your company can be sued for plagiarism, not just you!
 
@@ -76,7 +67,6 @@ Now your company can be sued for plagiarism, not just you!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59756](https://www.codeproject.com/script/News/View.aspx?nwid=59756)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-09 05:00:00+00:00
- - tags: None
 
 =DoMyJob()
 
@@ -84,7 +74,6 @@ Now your company can be sued for plagiarism, not just you!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59761](https://www.codeproject.com/script/News/View.aspx?nwid=59761)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-09 05:00:00+00:00
- - tags: None
 
 Vertex AI Vision combines video sources, machine learning models, and data warehouses to deliver rich insights and computer vision analytics without the heavy lifting.
 
@@ -92,7 +81,6 @@ Vertex AI Vision combines video sources, machine learning models, and data wareh
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59759](https://www.codeproject.com/script/News/View.aspx?nwid=59759)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-09 05:00:00+00:00
- - tags: None
 
 If it's still broke, why bother heading to the fixed one?
 
@@ -100,7 +88,6 @@ If it's still broke, why bother heading to the fixed one?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59766](https://www.codeproject.com/script/News/View.aspx?nwid=59766)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-09 05:00:00+00:00
- - tags: None
 
 The gradient descent algorithm is one of the most popular techniques for training deep neural networks.
 
@@ -108,7 +95,6 @@ The gradient descent algorithm is one of the most popular techniques for trainin
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59771](https://www.codeproject.com/script/News/View.aspx?nwid=59771)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-09 05:00:00+00:00
- - tags: None
 
 It dreams of better days
 
@@ -116,7 +102,6 @@ It dreams of better days
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59760](https://www.codeproject.com/script/News/View.aspx?nwid=59760)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-09 05:00:00+00:00
- - tags: None
 
 Introducing PyTorch 2.0, our first steps toward the next generation 2-series release of PyTorch.
 
@@ -124,7 +109,6 @@ Introducing PyTorch 2.0, our first steps toward the next generation 2-series rel
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59757](https://www.codeproject.com/script/News/View.aspx?nwid=59757)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-09 05:00:00+00:00
- - tags: None
 
 Mama, they added a command-line to the IDE!
 
@@ -132,7 +116,6 @@ Mama, they added a command-line to the IDE!
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59767](https://www.codeproject.com/script/News/View.aspx?nwid=59767)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-09 05:00:00+00:00
- - tags: None
 
 I knew that {company}'s licensing fees were high, but I didn't think they were that bad
 
@@ -140,6 +123,5 @@ I knew that {company}'s licensing fees were high, but I didn't think they were t
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59764](https://www.codeproject.com/script/News/View.aspx?nwid=59764)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-09 05:00:00+00:00
- - tags: None
 
 The latest release of PyTorch with DirectML is available

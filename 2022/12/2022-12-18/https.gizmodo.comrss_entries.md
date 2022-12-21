@@ -1,4 +1,4 @@
-# Source Gizmodo, Source URL:https://gizmodo.com/rss
+# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
 
 ## Avatar: The Way of Water Makes a Big Box Office Splash
  - [https://gizmodo.com/avatar-way-of-water-box-office-open-1849908745](https://gizmodo.com/avatar-way-of-water-box-office-open-1849908745)

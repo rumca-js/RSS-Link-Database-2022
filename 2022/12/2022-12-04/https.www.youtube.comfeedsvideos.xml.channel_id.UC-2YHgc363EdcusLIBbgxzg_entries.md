@@ -1,10 +1,9 @@
-# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
+# Source Joe Scott, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg, Source language: en-US
 
 ## The Woman Who Can Smell Parkinson's
  - [https://www.youtube.com/watch?v=Sdlzm3AnyA4](https://www.youtube.com/watch?v=Sdlzm3AnyA4)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
  - date published: 2022-12-04 19:45:01+00:00
- - tags: None
 
 Joy Milne has a superpower - she can smell Parkinson's disease. In fact, she smelled it on her husband ten years before he started showing symptoms. Now she's working with researchers to find a way to predict Parkinson's long before any damage is done.
 
